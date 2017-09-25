@@ -1,0 +1,2 @@
+# NoReC
+Norwegian Review Corpus
