@@ -29,3 +29,10 @@ data
     ├── dev
     └── test
 ```
+# Obtaining the data
+```
+git clone https://github.com/ltgoslo/norec
+cd norec
+./download.sh
+```
+Running `download.sh` will download a tar.gz archive of approx. 235M, unpack it into a directory `norec/data/`, before finally removing the archive file.
