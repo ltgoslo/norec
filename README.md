@@ -10,10 +10,22 @@ The data is distributed under a Creative Commons Attribution-NonCommercial licen
 The licence is motivated by the need to block the possibility of third parties redistributing the orignal reviews for commercial purposes. Note that **machine learned models**, extracted **lexicons**, **embeddings**, and similar resources that are created on the basis of NoReC are not considered to contain the original data and so **can be freely used also for commercial purposes** despite the non-commercial condition. 
 
 # Formats and pre-processing
-NoReC distributes two formats. The first is the CoNNL-U format, containing sentence segmented and tokenized text annotated with PoS tags and dependency graphs. This is considered the primary format. Secondly, we also distribute the canonical HTML representation of the `raw' review documents as described in
+The reviews are distributed in two different formats. The first (and primary) format is [CoNNL-U](http://universaldependencies.org/format.html), containing sentence segmented and tokenized text annotated with PoS tags and dependency graphs using [UDPipe](https://ufal.mff.cuni.cz/udpipe). Secondly, we also distribute a canonical HTML representation of the `raw' review documents, with all content preserved (only relevant extracted text is included in CoNLL-U). 
+
+Metadata for each review is provided as a JSON object, all listed in a single file, `metadata.json`, indexed on the document id. The JSON objects record properties like the numerical rating (an integer in the range 1–6), the thematic category or domain, the URL of the original document, and so on. It also records which of the two official varieties of Norwegian is used, as detected using [langid.py](https://github.com/saffsd/langid.py).   
 
 # Structure 
-For each format (CoNLL-U / HTML), each review is stored as a separate file, with the filename given by the review ID. To facilitate a low
-barrier of use for different types of end-users, we also include scripts for converting from CoNLL-U to running tokenized text (using either full-forms or lemmas) and from HTML to raw text without pre-processing. To facilitate replicability of experiments the corpus comes with pre-defined standard splits for training, development and testing, with a 80–10–10 ratio.
+For each format (CoNLL-U / HTML), each review is stored as a separate file, with the filename given by the review ID. To facilitate a low barrier of use for different types of end-users, we also include scripts for converting from CoNLL-U to running tokenized text (using either full-forms or lemmas) and from HTML to raw text without pre-processing. To facilitate replicability of experiments the corpus comes with pre-defined standard splits for training, development and testing, with a 80–10–10 ratio. The data directory of the distribution is structured as follows, where the `train`/`dev`/`test` directories holds the individual files (e.g. `000042.conllu`):
 
-Metadata for each review is provided as a JSON object, all listed in a single file; `metadata.json`. 
+```
+data
+├── metadata.json
+├── conllu.tar.gz
+│   ├── train
+│   ├── dev
+│   └── test
+└── html.tar.gz
+    ├── train
+    ├── dev
+    └── test
+```
