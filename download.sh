@@ -10,7 +10,8 @@ echo "Downloading corpus from $URL..."
 wget $URL
 
 echo "Unpacking into $DATA_DIR..."
-tar xfz $ARCHIVE --transform "s/$NAME/$DATA_DIR/"
+mkdir -p $DATA_DIR
+tar xfz $ARCHIVE -C $DATA_DIR --strip-components=1
 
 echo "Deleting $ARCHIVE..."
 rm $ARCHIVE
