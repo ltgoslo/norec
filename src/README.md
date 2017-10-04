@@ -28,7 +28,7 @@ unicode.
 
 Read html files and extract text:
 
-```
+```python
 import norec
 
 # Load set of html files and metadata from 'train'. `subset` can be
@@ -44,7 +44,7 @@ train_set = [(norec.html_to_text(html), metadata['rating'])
 
 Read conllu and extract tokens:
 
-```
+```python
 import norec
 
 # Load set of conllu files and metadata from 'dev'.
