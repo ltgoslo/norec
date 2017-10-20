@@ -36,3 +36,14 @@ cd norec
 ./download.sh
 ```
 Running `download.sh` will download a tar.gz archive of approx. 235M, unpack it into a directory `norec/data/`, before finally removing the archive file.
+
+# Citing
+
+If you publish work that uses or references the data, for now please cite the following arXiv preprint: 
+
+```
+NoReC: The Norwegian Review Corpus
+Erik Velldal, Lilja Øvrelid, Eivind Alexander Bergem, Cathrine Stadsnes, Samia Touileb, Fredrik Jørgensen
+2017
+https://arxiv.org/abs/1710.05370
+```
