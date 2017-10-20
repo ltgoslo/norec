@@ -39,7 +39,7 @@ Running `download.sh` will download a tar.gz archive of approx. 235M, unpack it 
 
 # Citing
 
-If you publish work that uses or references the data, for now please cite the following arXiv preprint: 
+If you publish work that uses or references the data, for now please cite [this arXiv preprint](https://arxiv.org/abs/1710.05370): 
 
 ```
 NoReC: The Norwegian Review Corpus
