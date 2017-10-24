@@ -37,6 +37,9 @@ cd norec
 ```
 Running `download.sh` will download a tar.gz archive of approx. 235M, unpack it into a directory `norec/data/`, before finally removing the archive file.
 
+# Python package
+This git repo provides a Python package with a basic interface for working with the data, including examples for how to generate a raw text version of the corpus, see [more details here](https://github.com/ltgoslo/norec/tree/master/src).
+
 # Citing
 
 If you publish work that uses or references the data, for now please cite [this arXiv preprint](https://arxiv.org/abs/1710.05370): 
