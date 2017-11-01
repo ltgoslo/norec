@@ -47,8 +47,8 @@ Read conllu and extract tokens:
 ```python
 import norec
 
-# Load set of conllu files and metadata from 'dev'.
-train_data = norec.load("data/conllu.tar.gz", subset="dev")
+# Load set of conllu files and metadata from 'train'.
+train_data = norec.load("data/conllu.tar.gz", subset="train")
 
 # Extract tokens from conllu. conllu_to_tokens() returns a generator
 # yielding an ordered dictionary of ConLL-U words. See
