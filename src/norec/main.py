@@ -17,7 +17,7 @@
 import json
 import os.path
 import lxml.html
-from conllu.parser import parse, parse_tree
+from .conllu import parse_conllu
 
 from .misc import TarFile
 
@@ -65,6 +65,6 @@ enclosed in remove-tag."""
 def conllu_to_tokens(conllu):
     """Extract tokens from ConLL-U."""
 
-    for sentence in parse(conllu):
+    for sentence in parse_conllu(conllu):
         for word in sentence:
             yield word
