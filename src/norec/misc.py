@@ -15,47 +15,36 @@
 # along with norec.  If not, see <http://www.gnu.org/licenses/>.
 
 import tarfile
-import os.path
 import locale
 import codecs
-import time
 
 from io import BytesIO
-from contextlib import contextmanager
-from collections import OrderedDict
 
 class TarFile(tarfile.TarFile):
     """Subclass of TarFile adding som abstraction."""
 
-    def __init__(self, name=None, mode='r', *args, **kwargs):
-        tarfile.TarFile.__init__(self, name, mode, *args, **kwargs)
+    def get_files(self, encoding=None):
+        member = self.next()
 
-        if mode == "r":
-            # Cache file list
-            self.files = OrderedDict((m.path, m) for m in self.getmembers()
-                                     if m.isfile())
+        while member:
+            with self.open_file(member, encoding=encoding) as fd:
+                yield member.name, fd
 
-    def list_files(self):
-        """Return list of filenames of all files in archive."""
+            member = self.next()
 
-        return self.files.keys()
-
-    def open_file(self, filename, mode="r", encoding=None):
+    def open_file(self, member, mode="r", encoding=None):
         """Return file object for file in archive."""
 
         # Set default encoding if not provided
         if not "b" in mode and not encoding:
             encoding = locale.getpreferredencoding(False)
 
-        if "w" in mode:
-            return self.writefile(filename, encoding)
-        else:
-            return self.readfile(filename, encoding)
+        return self.readfile(member, encoding)
 
-    def readfile(self, filename, encoding):
+    def readfile(self, member, encoding):
         """Provides a file object for writing to file in archive."""
 
-        fd = self.extractfile(self.files[filename])
+        fd = self.extractfile(member)
 
         if encoding:
             # File object from tarfile returns bytes, so wrap decoder
@@ -63,27 +52,3 @@ class TarFile(tarfile.TarFile):
             return codecs.getreader(encoding)(fd)
         else:
             return fd
-
-    @contextmanager
-    def writefile(self, filename, encoding):
-        """Provides a file object for writing to file in archive."""
-
-        # Uses a buffer of bytes because tarfile doesn't handle
-        # encoding.
-        buf = BytesIO()
-
-        if encoding:
-            # Wrap bytes buffer in encoder
-            yield codecs.getwriter(encoding)(buf)
-        else:
-            yield buf
-
-        # Create tarinfo-object and add size
-        info = tarfile.TarInfo(filename)
-        info.size = buf.tell()
-        info.mtime = time.time()
-
-        # Seek to start of buffer and write to archive
-        buf.seek(0)
-        self.addfile(tarinfo=info, fileobj=buf)
-        buf.close()

@@ -42,17 +42,16 @@ def load(filename, subset="train"):
                                           "metadata.json"))
 
     # Open archive and iterate over files
-    with TarFile.open(filename, "r:gz") as archive:
-        for f in archive.list_files():
-            split, ident = get_split_and_id(f)
+    with TarFile.open(filename, "r|gz") as archive:
+        for member_filename, fd in archive.get_files(encoding="utf-8"):
+            split, ident = get_split_and_id(member_filename)
 
             # Only load files for specified subset
             if split != subset:
                 continue
 
             # Read file and yield contents and associated metadata
-            with archive.open_file(f, encoding='utf-8') as fd:
-                yield fd.read(), metadata[ident]
+            yield fd.read(), metadata[ident]
 
 def html_to_text(html):
     """Convert html to text, stripping all tags and removing content
