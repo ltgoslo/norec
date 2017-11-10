@@ -34,7 +34,7 @@ def get_split_and_id(filename):
 
     return os.path.basename(head), os.path.splitext(tail)[0]
 
-def load(filename, subset="train"):
+def load(filename, subset=None):
     """Load subset from NoReC file."""
 
     # Load metadata
@@ -47,7 +47,7 @@ def load(filename, subset="train"):
             split, ident = get_split_and_id(member_filename)
 
             # Only load files for specified subset
-            if split != subset:
+            if subset and split != subset:
                 continue
 
             # Read file and yield contents and associated metadata
