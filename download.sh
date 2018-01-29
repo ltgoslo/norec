@@ -1,7 +1,7 @@
 #!/bin/bash
 
 NAME=norec
-VERSION=1.0.0
+VERSION=1.0.1
 ARCHIVE=$NAME-$VERSION.tar.gz
 URL=http://folk.uio.no/eivinabe/$ARCHIVE
 DATA_DIR=data
