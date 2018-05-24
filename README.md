@@ -42,11 +42,11 @@ This git repo provides a Python package with a basic interface for working with 
 
 # Citing
 
-If you publish work that uses or references the data, for now please cite [this arXiv preprint](https://arxiv.org/abs/1710.05370): 
+If you publish work that uses or references the data, please cite [our LREC article](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf): 
 
 ```
 NoReC: The Norwegian Review Corpus
 Erik Velldal, Lilja Øvrelid, Eivind Alexander Bergem, Cathrine Stadsnes, Samia Touileb, Fredrik Jørgensen
-2017
-https://arxiv.org/abs/1710.05370
+2018
+http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf
 ```
