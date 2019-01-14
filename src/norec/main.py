@@ -24,7 +24,7 @@ from .misc import TarFile
 def load_metadata(filename):
     """Read json from file and return json object."""
 
-    with open(filename) as fd:
+    with open(filename, encoding="utf-8") as fd:
         return json.load(fd)
 
 def get_split_and_id(filename):
