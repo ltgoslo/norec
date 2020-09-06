@@ -3,7 +3,7 @@
 NAME=norec
 VERSION=1.0.1
 ARCHIVE=$NAME-$VERSION.tar.gz
-URL=http://folk.uio.no/eivinabe/$ARCHIVE
+URL=https://www.mn.uio.no/ifi/english/research/projects/sant/data/norec/$ARCHIVE
 DATA_DIR=data
 
 echo "Downloading corpus from $URL..."
