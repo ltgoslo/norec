@@ -1,0 +1,96 @@
+Norskbygget billig-DAC leverer varene
+TEST: 
+Henry Audio 128 mkII USB-DAC. 
+
+For 37 år siden kom det et produkt som snudde opp ned på det norske hifi-markedet: 
+NAD 3020. 
+
+Den lille integrerte forsterkeren var utviklet av nordmannen Bjørn Erik Edvardsen, og kostet rundt en tusenlapp. 
+
+Effekten på 2 x 20 watt var jo ikke stort, men du verden som den låt! 
+Selv med høyttalere i den øvre ende av prisskalaen imponerte den lille tassen. 
+
+Nå tyder alt på at vi har fått et slikt produkt igjen. 
+
+Jubel fra hifi-pressen 
+
+En liten «norsk» metallboks har nemlig fått svært positive omtaler både i Norge og i utlandet, og har nå kommet i versjon 2. 
+
+Henry Audio holder til på Hvalstad i Asker. 
+Her sitter ingeniøren Børge Strand-Bergesen og utvikler USB-DAC-er (som produseres på Filippinene) ved siden av sin faste jobb. 
+
+Han baserer seg på åpen kildekode, slik at andre som har lyst kan fikle med produktene. 
+
+En DAC (digital-analog omvandler) gjør signalene fra en PC eller annen digital lydkilde om til vanlige, analoge lydsignaler før de havner i høyttaleren eller hodetelefonen din. 
+
+De som har behov for en DAC som både kan takler CD-spillere via koaksial- eller optisk utgang og netttverksspillere som Sonos og Denon Heos, må som oftest ut med flere tusenlapper. 
+
+Går på USB-strøm 
+
+Rene USB-DACer er rimeligere. 
+Noen, som norske Hegels Super og amerikanske Audioquests Dragonfly, er primært beregnet for hodetelefoner. 
+
+Andre, som østerrikske Pro-Jects USB Box og norske Pinells DAC Mini (utgått), er beregnet til å sette mellom PC og forsterker - enten du bruker hodetelefoner eller høyttalere. 
+
+Henry Audio DAC-en er av den siste typen, men trekker i motsetning til mange av konkurrentene all strøm fra USB-kontakten. 
+
+Ikke billigst, men oi! så bra! 
+
+Det finnes USB-DAC-er som ligger flere hundre kroner under de 1.800 kronene Henry Audio USB-DAC 128 mkII koster, så slik sett er den kanskje ikke akkurat rasende billig. 
+
+Men skepsisen forsvant da vi koblet vi den mellom vår MacBook Air og et voksent stereoanlegg. 
+
+Alle de tradisjonelle hifi-kvalitetene var på plass: 
+Saftig og stram bass, masse detaljer, oppløst topp og fjellstøtt stereobilde. 
+Her var det mye å glede seg over og lite å klage på. 
+
+Vi prøvde oss fram med mange typer musikk, og resultatet var alltid det samme. 
+
+Denne lille dingsen som får strøm utelukkende fra USB-kabelen låter bedre enn det den har lov til for 1.800 kroner. 
+
+Spotify, som ikke akkurat egner seg til finlytting, fikk et skikkelig løft. 
+
+Men det var først med lokalt lagrede filer i CD-format eller høyere (24/96 og 24/192) at Henry-en at vi virkelig merket hvordan den virkelig tryllet fram detaljer og luft mellom instrumentene. 
+
+Sammenlignet med de dyre 
+
+Vi hadde ikke Pinells Dac Mini tilgjengelig i denne runden, og sammenlignet i stedet med to andre DAC-er vi bruker litt om hverandre til hverdags: 
+Hegels HD11 og Musical Fidelity M6. 
+Nye kostet de henholdsvis 6.000 og 25.000 kroner. 
+
+Henry-DAC-en kommer svært nære Hegel-DAC-en. 
+Så nære at vi er fristet til å si at du kan spare deg de ekstra tusenlappene dersom du ikke spiller musikk fra noe annet enn PC/Mac. 
+Litt strammere i bassen er nok Hegel-en, og toppen er mer behagelig avrundet. 
+Men nøytraliteten og detaljnivået har de to DAC-ene felles. 
+
+Musical Fidelity er noe for seg selv, og det er få andre som lager utstyr som låter slik. 
+Her kan ikke Henry-boksen holde følge ned i kjelleren. 
+Tendensen M6 har til å helle fløte over musikken mangler derimot helt hos Henry. 
+Kanskje er det en fordel - her er det snakk om smak og behag. 
+
+Litt vrient på PC 
+
+Vi koblet også Henry-boksen opp mot en Pro-Ject Head Box hodetelefonforsterker til en drøy tusenlapp. 
+Denne er også ett av de beste kjøpene der ute til stasjonært bruk, om hodetelefonene er bra nok. 
+Og det er jo Philips Fidelio X2, som vi hadde for hånden på kontoret. 
+
+Her måtte vi imidlertid bruke PC med Windows 7, og da møtte vi noen utfordringer. 
+
+Som med alle andre DAC-er trenger Henry USB-DAC 128 Mk II en driver i Windows, mens Mac-brukere altså går fri. 
+Denne driveren kan lastes ned fra Henry Audios nettsider, og fungerte med én gang den var installert. 
+
+Om du ønsker å spille HD-musikk med 24 bit og 96 eller 192 kHz må du her som med Mac trykke på to små knapper på baksiden. 
+Først holder du inne «Prog»-knappen til lyset på forsiden skifter fra grønt til rødt og slukker. 
+Deretter trykker du på «Reset». 
+
+Det enkleste er ofte det beste 
+
+Merk at bare to mediespillere for PC fungerer om du vil ha HD-lyd med Henry: JRiver og Foobar2000. 
+
+Om du skal tilbake til å spille fra Spotify, Wimp eller filer i vanlig CD/MP3-kvalitet, må du gå runden med «Prog» og «Reset» om igjen. 
+Men da virker til gjengjeld DAC-en i alle avspillingsprogrammer, inklusive strømme-appene. 
+
+Det enkleste er altså Mac med Audirvana, et program som spiller alle typer filer og oppløsninger sømløst uten at du trenger å fikle med innstillinger. 
+
+Har du i tillegg et sett med gode høyttalere og en god forsterker fra før, får du et enkelt og vellydende digitalt lydoppsett. 
+Og det er jo ikke dårlig til 1.890 kroner. 

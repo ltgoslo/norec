@@ -1,0 +1,112 @@
+Toshiba Chromebook 2
+Nytt år, ny Chromebook. 
+Så langt, så bra. 
+Men er det lenger noe vits? 
+
+Chromebook-maskinene begynte å komme på det norske markedet for ett år siden, og er ganske enkelt rimelige bærbare maskiner som kjører Googles operativsystem, Chrome OS. 
+I praksis betyr det nettleseren Chrome med litt ekstra funksjonalitet. 
+
+Fordelen er at det lette operativsystemet stiller små krav til maskinvare. 
+Det betyr igjen at Chromebook-PC-ene kan lages billige, med et attraktivt utseende, og ha god batteritid og lav vekt i forhold til prislappen. 
+
+Så langt så bra. 
+
+Men siden i fjor har det også begynt å komme Windows-PC-er i samme størrelse og prisklasse. 
+Eksempelvis testet vi forleden dag HP Stream 13 som bare koster 2.500 kroner. 
+
+Nå med full HD-skjerm 
+
+Toshibas siste Chromebook, Chromebook 2, er en oppgradert utgave av fjorårsmodellen, CB30. 
+Den mest innlysende forskjellen er at maskinen nå har fått en skjerm med full HD-oppløsning (1920x1080), mot 1366x768 på forgjengeren. 
+
+Og skjermen er definitivt høydepunktet på denne maskinen. 
+
+Den er både lyssterk og har vesentlig bedre innsynsvinkel, takket være et IPS-panel kontra TN-panel på CB30. 
+En så god skjerm er sjelden vare på en PC i dette prissegmentet. 
+
+Prosessoren er også byttet ut – fra Intel 2955U (1,4GHz) til Intel N2840 (2,16GHz). 
+
+Det høres selvsagt ut som en oppgradering, men er i praksis ikke det. 
+
+Den forrige maskinen scorer nemlig bedre i våre ytelsestester, noe som også reflekteres på nettsidene til CPUBoss. 
+
+En fordel er imidlertid at den nye prosessoren bruker mindre strøm enn forgjengeren, og dermed har Toshiba klart å skrelle av 160 gram på vektskåla; ned fra 1,5kg til 1,34kg. 
+
+Toshiba har dessuten doblet arbeidsminnet på denne maskinen – fra 2GB til 4GB. 
+
+Ganske lik utvendig 
+
+Det er lite som er forandret med utseendet på denne maskinen – de utvendige målene har krympet bittelitt i dybden og høyden, men maskinen fremstår ganske lik som forgjengeren. 
+
+Vi noterer oss at den ruglete overflaten på lokket har en tendens til å plukke med seg det som er av støv og smuss i PC-veska vår, men utseendemessig synes vi Toshiba-maskinen ser dyrere ut enn den er, selv om det er plast som er hovedingrediensen i chassiset, som også gir litt etter om man trykker hardt. 
+
+På sidene er Chromebook 2 tilstrekkelig utstyrt med porter, med én USB-port på hver side (USB3+USB2), SD-kortleser, HDMI-utgang og 3,5mm-utgang til hodetelefoner. 
+USB3-porten kan også trekke strøm når maskinen er avslått, slik at man allikevel kan bruke den til å lade en mobiltelefon. 
+
+Tastaturet er fellesnordisk, som betyr at enkelte av knappene er merket med flere bokstaver. 
+Om du ikke er helt stiv på touchmetoden kan det være en liten utfordring med æ og ø, siden det da er symbolene øverst til høyre som betegner riktig bokstav. 
+
+Kvalitesmessig virker tastaturet å være litt mer solid enn hos forgjengeren. 
+Der syntes vi blant annet brukeropplevelsen ble skjemmet av en knirkete mellomromstast, men den virker mer solid på denne testmodellen. 
+
+Vandringen på tastene er ganske lav (men langt fra like lav som på nye Macbook) og plastchassiset gjør at det ikke er helt lydløst, men alt i alt har vi vært fornøyde med brukskomforten på tastaturet. 
+
+Som på forgjengeren opplever vi styreflaten som god på denne maskinen – den er presis når vi skal finsikte og responerer fint når vi stryker den med flere fingre for å skrolle en nettside eller lignende. 
+
+Trykke gjør man enten ved å prikke på den, eller ved å trykke den hardere på den nederste delen. 
+Merk at det kun er én knapp og at høyreklikk derfor må gjøres med to fingre. 
+
+Noe redusert ytelse 
+
+Som nevnt tidligere i artikkelen er ytelsen blitt noe redusert i forhold til forgjengeren, og Chromebook 2 scorer gjennomgående svakere i flere ytelsestester. 
+
+Her er noen eksempler: 
+
+Sunspider: (lavere er bedre) Chromebook CB30: 408ms Chromebook 2: 569ms 
+
+Browsermark: (høyere er bedre) Chromebook CB30: 2700 Chromebook 2: 2311 
+
+Peacekeeper: (høyere er bedre) Chromebook CB30: 3260 Chromebook 2: 1703 
+
+Ikke at vi opplever det som noe kjempeproblem i daglig bruk, men tidvis har vi opplevd at maskinen henger litt bak tastaturtrykkene våre når vi skal skrive inn en URL og at skrolling av tyngre nettsider ikke går spesielt mykt for seg. 
+
+Med dobbelt så mye arbeidsminne har vi imidlertid ikke sett noe til grå sjakkruter når en nettside tegnes opp, slik vi opplevde på forgjengeren. 
+
+Batteritiden for denne utgaven (med full HD-skjerm) oppgis til gode 9 timer. 
+I hvert fall når man kjører Googles batteritest, som inneholder 60% nettsurfing (med skrolling), 20% epost, 10% dokumenthåndtering via Google Docs og 10% YouTube-video, som er ment å reflektere relativt dagligdags bruk. 
+Vi har ikke etterprøvd dette nøyaktig, men med 50% igjen etter drøye fire timers bruk vitner det om at den bør holde en hel arbeidsdag med noe moderat lysstyrke på skjermen. 
+
+Fortsatt ting som ikke virker 
+
+Det er likevel viktig å være klar over at det å kjøpe en Chromebook fortsatt innebærer noen kompromisser. 
+
+For det første er det ikke så mye du får gjort om du ikke har nettilgang. 
+
+Du får ikke brukt nettbanken din om den krever innlogging via Java (selv om det gjelder stadig færre). 
+Heller ikke populære strømmetjenester som TV2 Sumo og Viaplay virker, siden de bruker Microsofts Silverlight-teknologi for å levere video; en løsning som ikke er tilgjengelig for Chrome OS. 
+
+Glem også offline-spillelister fra strømmetjenester som Spotify, Tidal eller Google Musikk, siden disse tjenestene bare er tilgjengelige via nettleseren på maskinen. 
+
+Med 16GB flashminne er det også begrenset hva du får lagret på maskinen til offline-bruk, selv om du selvsagt kan lagre filer på et SD-kort og putte i maskinen. 
+
+For øvrig var det en ganske vanskelig affære ettersom fjærmekanismen i SD-porten gjorde at vi måtte prøve mange ganger før vi endelig fikk det til å sitte. 
+Og flere ganger for å få det ut igjen. 
+
+Med på kjøpet får du også to år med 100GB lagringsplass hos Google, som legges til det du allerede måtte betale for fra før – men tilgang til disse filene fordrer selvsagt at du er koblet til internett. 
+
+Konklusjon 
+
+Ett år etter at Chromebook-maskinene gjorde sitt inntog her til lands, er det fortsatt maskiner som har en del kompromisser – for eksempel at de ikke gir så mye glede uten nettilgang og at det fortsatt er et knippe nettjenester som ikke fungerer; spesielt med tanke på videostrømming. 
+
+Dette var enklere å tilgi ifjor enn idag... 
+
+I mellomtiden har vi nemlig sett rimelige Windows-maskiner i samme prisklasse. 
+Et eksempel er HP Stream, som faktisk er en drøy femhundrelapp billigere enn dagens testprodukt – riktignok med vesentlig svakere skjerm. 
+
+For selv om Toshibas siste Chromebook leveres med en skarp og lyssterk IPS-skjerm med full HD-oppløsning, må vi innrømme at vi vanskelig kan anbefale en Chromebook annet enn som en nummer to-maskin. 
+
+Og da kan kanskje et nettbrett være et vel så godt valg. 
+
+Det byr i hvert fall på langt mer underholdning på en lang flytur. 
+
+Toshiba Chromebook 2 CB30-B-104 

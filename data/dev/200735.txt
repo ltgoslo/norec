@@ -1,0 +1,116 @@
+HP Spectre X360 - 2016-utgaven
+En av fjorårets mest vellykkede hybrider har blitt oppgradert. 
+Hva sier vi nå? 
+
+PC-markedet er under hardt press. 
+Den siste tiden har Sony, Samsung og nå sist Toshiba, gitt opp forbrukermarkedet - og vi må være forberedt på at flere følger etter i tiden som kommer. 
+
+Den eneste av de store produsentene som opplevde vekst i fjerde kvartal (sammenlignet mot fjerde kvartal 2014), var Apple - som bare tilbyr maskiner i premium-segmentet. 
+
+Lekker hybrid-PC 
+
+Og det er nettopp dette premium-segmentet HP henvender seg til med sin hybrid-PC Spectre X360. 
+Med hybrid menes her at den berøringsfølsomme skjermen kan skyves helt rundt, slik at maskinen kan fungere som et nettbrett. 
+Den kan også brukes i «teltmodus» (se bildet under) for eksempel til presentasjoner i små møterom. 
+
+Stadig flere hybridmodeller fra ulike produsenter lander nå på denne formfaktoren, noe vi absolutt har sansen for. 
+Et meget fleksibelt skjermledd er dessuten en stor fordel i seg selv, for eksempel mellom trange seterader på buss, tog eller fly. 
+
+Dette er nytt 
+
+Fjorårsutgaven av X360 fikk terningkast 5 og Anbefalt produkt-stempel fra Dinside-redaksjonen. 
+Nå er 2016-utgaven på plass, og i tabellen under har vi sammenlignet spesifikasjonene på de toppspekkede versjonene for deg: 
+
+Som du ser av tabellen, har PC-en blitt oppgradert med siste generasjon Intel Core i7-prosessor (Skylake), Windows 10 Home, bedre webkamera og flere nye fargekombinasjoner. 
+Vårt testeksemplar har koksgrå overflate med detaljer i blank kobber, noe som gir PC-en et enda mer eksklusivt preg enn forgjengeren, mener vi. 
+
+Nytt er også at Beats-samarbeidet er avsluttet, og nå er PC-en utstyrt med høyttalere fra Bang & Olufsen. 
+Etter vår mening er ikke forskjellen i lydbildet veldig stor. 
+Diskanten er god og klar, mellomtonene får også godkjent, mens bassen godt kunne vært hakket tydeligere. 
+
+Mangler USB-C 
+
+Det er ellers lite å utsette på spesifikasjonene. 
+Mye hentet fra øvre sjikt, og maskinen fremstår som godt oppdatert - med unntak av én liten ting: 
+Vi savner en USB-C-port. 
+Denne porten åpner for mange nye bruksområder, noe du kan lese mer om her. 
+
+Siden mye av det øvrige er likt med forgjengeren, er de neste avsnittene er i stor grad sammenfallende med testen fra i høst. 
+
+Premium all the way 
+
+Skjermen har et lyssterkt og høyoppløst IPS-panel, og kan betraktes fra nær død vinkel, helt uten at kontrasten avtar og farger inverteres. 
+Skulle du ønske å koble til en ekstern skjerm, vil MiniDisplay-porten sørge for å forsyne selv eksterne 4K-skjermer med full oppløsning. 
+
+Det som ikke kommer fram i listen over er byggekvaliteten. 
+Den er rett og slett meget god og solid, og 2016-utgaven får du i flere forskjellige fargekombinasjoner. 
+
+Foruten et godt avstivet aluminiums-chassis, må vi trekke frem det bakgrunnsbelyste tastaturet, som er et av de bedre vi har prøvd på lenge, med minimal svikt og støysvak tasting. 
+
+Eneste lille ankepunkt er enter-tasten, som er litt liten i forhold til hva vi skulle ønske. 
+Merk også at ><-tegnene er plassert til høyre for mellomromstasten, ikke ved venstre shift-tast, som er standard. 
+
+Pekeplaten støtter naturligvis multiberøring, og må være en av klassens bredeste. 
+Skrolling med to fingre går silkeglatt, omtrent som på toppmodellene fra Apple og Samsung. 
+I tillegg kan man selvfølgelig bruke direkte berøring på skjermen, men vi antar at de fleste foretrekker pekeplate når man jobber i PC-modus. 
+Berøringsfølsomheten på skjermen er uansett upåklagelig, den støtter inntil 10 fingre om gangen, noe mer enn det er sjelden hensiktsmessig. 
+
+Smart design 
+
+Alle tilkoblinger sitter på venstre og høyre side. 
+Her er det verdt å merke at også av/på-knappen sitter her, samt volumjustering og en egen knapp som henter fram startmenyen. 
+Alt dette skyldes naturlig nok at dette er en hybrid, og ved å skyve skjermen helt rundt slik at den dekker baksiden, har du i praksis et nettbrett. 
+
+I motsetning til i Windows 8 er det et skille mellom PC- og nettbrettmodus i Windows 10. 
+Apper kjører ikke lenger i vinduer, kryssene forsvinner øverst til høyre, skjermtastaturet dukker opp når det er nødvendig og startmenyen dekker hele skjermbildet. 
+På Spectre X360 får du spørsmål om du vil bytte modus så snart du har snudd skjermen, så brukeropplevelsen er blitt langt bedre i Windows 10. 
+
+Forbedret ytelse på flere punkter 
+
+I testen av 2015-utgaven trakk vi fram at maskinen bød på god ytelse. 
+2016-utgaven har blitt noen strå hvassere. 
+I diagrammet under har vi sammenlignet ytelsestall fra Passmark Performance Test, som gir et godt bilde av hvor mye forbedring det er snakk om: 
+
+Fortsatt er SSD-ytelsen litt lavere enn vi hadde forventet, med 300/270 MB pr sekund i lese/skrivehastighet. 
+Mange byr på mer enn det dobbelte nå. 
+
+Den mest signifikante forbedringen har faktisk skjedd på grafikksiden, der 3D-ytelsen i snitt har økt med 37 prosent. 
+Dette er fortsatt ingen PC som tilfredsstiller gaming-segmentet, men går du ned på oppløsning og detaljrikdom, kan du fint spille mange 3-4 år gamle titler med brukbart resultat. 
+Alt av 2D-materiale flyter fint, inkludert video i 4K-oppløsning på ekstern skjerm. 
+
+Helt lydløs er maskinen ikke, men vifteaktiviteten var hyppigst i starten av testen. 
+En av synderne er demoversjonen av sikkerhetsprogrammet fra McAfee, som kjører en haug prosesser i bakgrunnen. 
+Etter at vi avinstallerte dette, ble maskinen tyst omtrent umiddelbart. 
+Windows 10 er allerede utstyrt med sikkerhetspakken Defender, som - kombinert med sunn fornuft - gir tilstrekkelig beskyttelse på internett for de aller fleste av oss, mener vi. 
+Den er dessuten langt mindre plagsom og ressurskrevende. 
+
+Forbedret battertid 
+
+Hva mener du? 
+
+Er Spectre X360 lekrere enn en Macbook? 
+(Avsluttet) 
+
+Batteritiden var ett av ankepunktene forrige gang, og det er gledelig å se at også den er forbedret. 
+Ved kontinuerlig videoavspilling (720P) holdt batteriet i overkant av 7 timer, som er rundt én time forbedring siden sist. 
+Ved minimal belastning, kun tilkoblet trådløst nett, holdt batteriet ut i 774 minutter, altså nesten 13 timer. 
+Det betyr at HP sitt anslag om rundt 9,5 timer ved variert bruk stemmer ganske godt overens med våre målinger. 
+
+Konklusjon 
+
+Årets Spectre X360 er ikke dramatisk forbedret fra fjorårets modell, men spesielt forbedringene i batteritiden er svært kjærkommen. 
+De nye fargekombinasjonene bidrar også til at dette er en PC som skiller seg positivt ut i mengden. 
+
+Og så var det dette med nettbrettmodus da. 
+Nye 10" nettbrett veier gjerne rundt halvkiloen. 
+Denne veier tre ganger så mye. 
+Selv om Windows 10 har blitt et voksent nettbrett-OS, er vi litt usikre på hvor mange som kommer til å bruke X360 i nettbrettmodus i særlig grad. 
+I tillegg til høy vekt er dessuten app-utvalget, kvalitet og aktualitet i skrivende stund langt bak iPad og de beste Android-brettene. 
+
+Da er det greit å vite at Spectre X360 først og fremst er en ypperlig PC som er fullt kapabel også som nettbrett - dersom du skulle få behov for det. 
+Totalt sett er dette fortsatt en av de aller beste hybridene vi har testet, og vi opprettholder derfor både terningkastet og anbefalt-stempelet. 
+
+Se uansett våre plusser og minuser i oppsummeringsboksen under, og få spesielt med deg testene av Dell XPS 13 og Asus ZenBook UX305 før du går til innkjøp. 
+Her finner du også de andre PC-testene våre. 
+
+HP Spectre x360 13-4104no 

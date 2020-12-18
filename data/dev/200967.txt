@@ -1,0 +1,120 @@
+Du finner neppe en mer avansert drone som er mindre
+DJI Mavic Pro tar svært liten plass når du ikke bruker den. 
+
+Denne måneden hadde vi egentlig planer om en skikkelig droneduell mellom GoPros første drone, Karma, og DJIs nye motsvar, Mavic. 
+
+To avanserte droner, som i tillegg kan pakkes mer kompakt når de ikke er i bruk. 
+
+Dessverre fikk GoPro problemer og måtte tilbakekalle alle solgte Karma-enheter, siden det ved flere tilfeller ble rapportert om droner som plutselig sluttet å virke mens de var i lufta. 
+Karma er fremdeles ikke å få kjøpt, og om og når den eventuelt vil bli å få kjøpt igjen, er foreløpig usikkert. 
+
+Igjen står vi med den nye DJI-dronen Mavic, som derfor får all spalteplassen for seg selv denne gangen. 
+
+Omtrent som Phantom 4, men mer kompakt 
+
+I sommer testet vi Phantom 4-dronen fra samme selskap, og både spesifikasjonsmessig og prismessig er de to er omtrent identiske. 
+
+Mavics åpenbare fortrinn er størrelsen – dronen kan pakkes sammen slik at den bare opptar 83x83x198mm, eller rundt 0,67 liter; altså litt større enn volumet av en halvliter ølboks. 
+
+Når du skal bruke den, bretter du ut de fire armene og propellene, og så er den klar til å fly. 
+Verdt å sette pris på er altså at propellene kan sitte på også i brettet tilstand, slik at det går ganske kjapt å komme i gang. 
+
+Under ser du noen av de tekniske spesifikasjonene sammenlignet med DJI Phantom 4: 
+
+Merk altså at rekkevidden er vanvittige 7 kilometer! 
+Ifølge norske droneregler skal du kun fly ei drone så du kan se den, og det kan du glemme på så store avstsander, men det er likefullt svært imponerende. 
+
+Som du ser har kameraet noe smalere synsvinkel enn Phantom 4-dronen, men de byr på samme oppløsning, og Mavic-dronen har et mer lyssterkt objektiv (og samme brikkestørrelse). 
+En liten forskjell er også at Phantom 4 kan filme med 120 bilder i sekundet i full HD-oppløsning mot Mavic sine 96. 
+
+Flytiden er praktisk talt den samme, men Mavic Pro klarer ikke helt samme toppfart som den større Phantom-dronen. 
+
+Mindre fjernkontroll 
+
+Du kan riktignok fly Mavic kun med mobilappen, men for presisjon og vesentlig lenger rekkevidde er det fjernkontrollen som gjelder. 
+
+Den har også krympet betraktlig sammenlignet med Phantom 4-fjernkontrollen, og det gjør at de to enhetene til sammen får plass i en relativt kompakt bæreveske som følger med om du velger kombo-pakken. 
+Den inneholder for øvrig ekstra batteri, propeller, billader og ladehub til flere batterier. 
+
+Som på Phantom-kontrolleren kan du her koble til en mobiltelefon for å få en direktestrømming av det kameraet i dronen ser, men den kompakte utformingen gjør at du ikke får brukt et nettbrett slik du kan på Phantom 4. 
+Imponerende er det at du kan få direktestrøm med 1080p-video når dronen ikke er for langt unna (720p på Phantom 4), selv om det ikke er så veldig merkbart på en liten mobilskjerm en halvmeter unna øynene. 
+
+Å si at det å feste mobiltelefonen går som en lek ville være en sterk overdrivelse – her synes vi DJI har løst ting noe tungvint, der det er ganske vanskelig å få tredd telefonen inn på adapteret, og grepet dekker noe over telefonen. 
+Det gjør at hjem-knappen blir ganske utilgjengelig (og noen ganger utilsiktet trykket på mens man flyr). 
+Her likte vi Phantom-festet langt bedre. 
+
+Og så piper den mye! 
+For eksempel når dronen har 30 prosent igjen på batteriet, eller når fjernkontrollen selv begynner å nærme seg slutten. 
+Vi skulle ta en kjapp tur for å ta bildene du ser i denne artikkelen, der fjernkontrollen hadde 11 prosent igjen på batteriet (som fint hadde holdt til 10-15 minutter), men da pep den som besatt, og det med svært høy lyd. 
+Ikke fikk vi flydd heller. 
+
+Meget god app 
+
+Fjernkontrollen til DJI Mavic gir deg alt du trenger av informasjon om fart, høyde, batteri, GPS-signal og den slags, men den fulle opplevelsen får du om du kobler en mobiltelefon til. 
+
+DJI-appen er som før svært oversiktlig og gir deg den samme informasjonen og mer til på mobilskjermen. 
+Den gir deg også mulighet til å fly i en rekke ulike modi, som «TapFly», der du kan trykke på skjermen for å angi retningen, «ActiveTrack», der dronen kan spore et objekt og følge etter eller «Point of Interest», som gjør at dronen kan sirkle av seg selv rundt et punkt. 
+
+De samme funksjonene er tilgjengelige på Phantom 4, men Mavic har også fått et par nye. 
+En av dem er «Tripod Mode», som gjør at alt går veldig sakte – maksfarten er én meter i sekundet og dronen responderer tregt når du beveger spakene, til situasjoner der du trenger ekstra god kontroll. 
+
+I «terrain follow mode» skal dronen holde samme høyde over bakken selv om du flyr mot en oppoverbakke, men den modusen virket lite tilfredsstillende da vi testet, der antikollisjonssensorene slo til og gjorde at dronen stoppet. 
+
+Vi klarte å krasje! 
+
+Apropos antikollisjon er det en funksjon som i utgangspunktet er svært kjekk på en såpass dyr drone. 
+Vi har testet mot vegger og annet og da har den fungert prikkfritt, men på en av flyturene kjørte vi, relativt sakte, rett i et tre. 
+
+Vi skal innrømme at det ikke var tilsiktet og at dronen startet oppbremsing, men dessverre litt for seint. 
+Muligens ble den litt lurt av motlyset, og så er det selvsagt en større utfordring når det er snakk om løse greiner enn med en plan overflate. 
+
+For ordens skyld ble det en myk landing i treet, og dronen var like fin etterpå, selv om vi måtte frem med stige og et langt skaft. 
+I animasjonen over ser du dronen stoppe opp på grunn av antikollisjonen. 
+Som du ser klarte jeg ikke å stole hundre prosent på den. 
+
+Vi har også ved to anledninger opplevd at antikollisjonsfunksjonen har stoppet drona i lufta uten at det var noe som helst å kollidere i, men ikke etter den siste softwareoppdateringen, så det kan ha vært noe programvarerelatert. 
+
+Ikke det samme kameraet 
+
+Som nevnt er det ikke det samme kameraet som sitter i Mavic og Phantom 4. 
+De er begge gimbal-stabiliserte i tre akser, men Mavic har ikke like god vidvinkel som Phantom-kameraet; altså at du ikke får et like «bredt» bilde. 
+
+Sensorstørrelsen skal være den samme, men uten at vi har hatt mulighet til å teste de to side om side, må vi holde en knapp på bildekvaliteten fra Phantom 4. 
+
+Spesielt annet hva gjelder fargene – i klippet under ser du video både av og fra dronen, og på tominuttersmerket ser du blant annet at Ole Petter og undertegnede ser ut som om vi nettopp har vært på en lang sydenferie. 
+
+Men som du ser er det meget stabile bilder som kommer fra Mavic-dronen, der kameraet glir nydelig igjennom lufta. 
+Via fjernkontrollen har du mulighet til å tilte kameraet opp og ned med, og det er også en egen bryter du kan dra i om du vil vertikalstille kameraet på et blunk, altså der det peker rett ned. 
+
+En fryd å fly 
+
+For som med Phantom 4-dronen er også denne DJI-dronen en fryd i lufta. 
+Den holder seg svært stabil om du ikke rører spakene, og fjernkontrollen har svært god respons som gjør at du kan fly med god presisjon. 
+
+En bryter på siden setter dronen i sportsmodus der Mavic blir ekstra hissig. 
+Da kan den nå den oppgitte toppfarten og endrer retning på et blunk om du ber den. 
+Dog går dette på bekostning av antikollisjonsfunksjonen, så her gjelder det å ha tunga rett i munnen. 
+
+En ting, dog, som vi bemerker oss sammenlignet med Phantom 4, er at vi ikke synes GPS-funksjonene virker like solide. 
+Det kan være et resultat av at alt er krympet, for vi synes vi må vente i overkant lenge etter oppstart før den har fått kontakt med nok GPS-satelitter til at vi kan fly. 
+
+På fotballbanen i klippet over måtte vi dessuten ta to opptak av "Return to home"-funksjonen. 
+Den første gangen begynte den å lande der den startet, men noen meter over bakken begynte den plutselig å dra flere meter unna uten at vi rørte spakene. 
+Vi så også, rett etter oppstart, at den ikke var like god på å holde nøyaktig samme høyde over bakken, der den gled sakte nedover. 
+
+Konklusjon 
+
+DJI kan sakene sine og har laget en svært attraktiv drone i DJI Mavic. 
+Det er en drone som er svært lett å få med seg, der både dronen og fjernkontrollen får plass i en liten veske, og det går kjapt å brette ut armene slik at dronen er klar til dyst. 
+
+Den kompakte størrelsen er ikke helt uten kompromisser. 
+Innretningen på fjernkontrollen for å koble til mobiltelefonen er ikke den mest elegante vi har sett; kanskje særlig om du har en stor telefon (vi brukte en 5,5-tommer), og vi har inntrykk av at GPS-elektronikken bruker lenger tid på å finne satelittene enn hva tilfellet er for storebror Phantom 4. 
+
+I lufta er den glimrende, med dønnsolid overføring av bildet til mobiltelefonen. 
+Appen byr på mange kjekke funksjoner, og det er lett, også for en nybegynner, å lage gode videoer; mye takket være en svært god gimbal-stabilisering som gir et svært stabilt bilde. 
+
+Litt rusk har vi opplevd, blant annet relatert til antikollisjonsfunksjonen, men hvis størrelse er viktig for deg, finner du neppe en mer avansert drone som tar så liten plass i sekken. 
+
+Takk til DJI-importør Elefun for lånet av Mavic Pro! 
+
+DJI Mavic Pro RTF 

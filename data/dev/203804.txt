@@ -1,0 +1,124 @@
+Slik unngår du et av de store problemene med trevirke
+Glimrende til å sammenføye tre i vinkel, eller for eksempel når du skal reparere skuffer og hyller. 
+
+Tre er et utmerket materiale på mange måter. 
+Det er lett tilgjengelig, kommer i mange varianter og er lett å bearbeide med de fleste typer verktøy. 
+
+Det er imidlertid én ting som skaper problemer, og det er selve grunnstrukturen, at fibrene i treverket går i én retning. 
+
+Så lenge man jobber på tvers av fibrene fungerer de fleste festemidler godt, enten vi snakker om spiker, skruer eller lim. 
+Men skrur eller spikrer vi mellom fibrene på langs, i endeveden, får vi problemer med dårlig feste. 
+
+Vi har tidligere skrevet en artikkel om forskjellige løsninger for sammenføying av tre i vinkel. 
+Den finner du her. 
+En av løsningene vi beskrev var å bruke skruer i skråborete hull, slik at man unngikk endeveden med skruene. 
+Dette kalles «lommehull» og fungerer best ved bruk av en spesiell jigg, egne bor og ditto skruer. 
+
+Det finnes løsninger fra flere produsenter, med mer eller mindre avanserte løsninger og kvaliteter. 
+Verktøyprodusenten Kreg lager flere forskjellige varianter, og vi har anskaffet en løsning med tilbehør, som lar oss sammenføye alt fra grove materialer til ganske tynne bord på en enkel måte. 
+Vi har testet dette på flere prosjekter, her er våre erfaringer. 
+
+Kreg K5 
+
+Det finnes flere løsninger fra Kreg, vi har testet K5 som er den nyeste, mest avanserte - og dyreste. 
+
+K5 leveres i forskjellige utgaver, som grunnsett og som Master System med forskjellig tilleggsutstyr. 
+Prisene starter på rundt 1.500 kroner, inkludert moms. 
+
+Grunnsettet består av selve jiggen, et par støtter som også fungerer som lagringsesker til bor, bits og annet samt føringsblokk, spesialbor og en lang firkant-spesialbit for å kunne skru inn i lommehullet. 
+
+Det større settet inneholder festeklemme til føringsblokker, ekstra holdere for bruk av føringsblokker uten jigg samt et utvalg skruer. 
+
+Prinsippet 
+
+Prinsippet er enkelt. 
+Du klemmer sammen føringsblokken og trestykket, borer på skrå gjennom føringsblokken, plasserer trestykkene i riktig posisjon og skrur dem sammen gjennom lommehullene: 
+
+Før du borer 
+
+Føringsblokkene kan spennes fast direkte på materialet ved hjelp av en tvinge. 
+Det finnes også en justerbar holder med en festeskrue og en tapp som sørger for at blokken ikke forskyver seg i holderen. 
+Det finnes også en enkel støttevinkel som festes direkte på føringsblokken: 
+
+Føringsblokkene finnes i tre hullstørrelser, beregnet på forskjellige materialdimensjoner. 
+Settet kommer med standardversjonen som dekker montering av materialer med tykkelse mellom 12 og 38 mm. 
+I tillegg kan man kjøpe en mini-utgaven for tynnere materialer, med mindre føringshull for tynnere og kortere skruer. 
+For de større materialdimensjonene finnes HD-utgaven med store føringshull for grovere og lengre skruer. 
+Denne blokken er også lengre enn de andre variantene. 
+
+Jiggen kombinerer en holder til føringsblokken med en spenn-mekanisme for å holde materialet på plass. 
+Her setter du materialet som skal bores loddrett ned i jiggen og spenner det fast før du borer. 
+
+Høyden på føringsblokken justeres etter merkingen på siden, og låses med en fjærbelastet splint. 
+
+Spesialborene kommer i tre dimensjoner tilpasset de tre føringsblokkene. 
+Borene har en ekstra spiss som lager et mindre hull som passer til skruen, et større hull til skruehodet og en kant hvor skruehodet ligger an mot for å gi feste. 
+
+Det er ikke bare diameteren, lengden på skruene er like viktig. 
+Det følger med en tabell som viser hvor lange skruer som skal brukes for forskjellige materialtykkelser. 
+Denne gjelder bare når du skal sammenføye like tykke materialer. 
+Skal du feste forskjellige dimensjoner må du ta utgangspunkt i tykkelsen på det trestykket som skruen skal gå inn i, ikke den som du borer et lommehull i. 
+Ellers risikerer du at skruen stikker ut av materialet. 
+(Bilder: 
+Kreg 14, Kreg 15, Kreg16) 
+
+En låsering til borene følger med, den er avgjørende for at løsningen skal kunne fungere. 
+Her bestemmer du hvor dypt det skal bores ved hjelp av en liten måleblokk som plasseres under bortuppen som stikker ut av føringsblokken. 
+Så plasseres låseringen mot toppen av føringsblokken og festes på boret med en låseskrue. 
+(Bilde: 
+Kreg10) 
+
+Så er det klart til å bore. 
+
+I praksis 
+
+Når man pakker ut dette settet er det stort sett veldig lett å se hvordan det skal brukes, i grove trekk. 
+Men det lønner seg alltid å lese den korte og greie brukerveiledningen for å unngå misforståelser. 
+Hvordan man justerer spenn-jiggen er ikke helt selvforklarende, men utrolig enkelt når man har forstått hvordan. 
+Man legger håndtaket helt ned, skyver holderen inn mot materialet og løfter håndtaket opp til man hører to klikk. 
+Da er det justert og man kan skyve det ned for å låse fast materialet. 
+
+Litt mer komplisert er valg av skruer, plassering av låseringen på boret og plasseringen av føringsblokken. 
+Spesielt den lille justeringsblokken som brukes når du skal justere boredybden og feste låseringen. 
+Den er oppgitt i tommer og de fire posisjonene er etter vår erfaring ikke akkurat noe eksakt mål, heller et hint … 
+
+Det anbefales i veiledningen at man først prøver seg fram på noen trestykker av samme dimensjon som de som skal brukes. 
+Det er et meget godt råd, har vi erfart. 
+
+Hvis man borer for dypt blir det for lite hold i det trestykket som skruehodet ligger an mot. 
+Da blir skjøten mindre solid, og i verste fall kan du dra ut en propp rundt skruestammen hvis du er for hard med kraftig elverktøy. 
+
+En annen erfaring er at det er avgjørende viktig at man spenner fast materialet som skal bores. 
+Siden det bores på skrå er det større mulighet for at ting forskyver seg og alt blir skjevt. 
+
+Dette gjelder i minst like stor grad når man skrur sammen materialene. 
+De må festes skikkelig og presses tett sammen ellers blir det lett skjevt. 
+Vi anbefaler at du bruker solide tvinger, akkurat som når noe skal limes sammen. 
+Fordelen med skruingen er at du slipper å vente på at limet herder. 
+
+God kvalitet 
+
+Både bor, føringsblokker og bits er av utmerket kvalitet. 
+Det samme gjelder skruene, som kommer med to typer belegg. 
+De blå er beregnet på fuktige miljøer og utendørs, mens de blanke er beregnet på tørre miljøer. 
+De største skruene i HD-serien har et brunt belegg som tilsvarer det blå. 
+
+Plastdelene er av seig og solid, men fast plast. 
+Alle sammenføyninger er tette og stabile. 
+Det eneste som ikke er utpreget robuste er de kombinerte støtteblokkene/oppbevaringsboksene. 
+
+Føringene i blokkene er av metall og har akkurat passe toleranser. 
+Boret går trangt og stabilt, men sliter ikke på føringene hvis du ikke presser mot sidene. 
+
+Lommehullsløsningene fra Kreg er av god kvalitet, det er et gjennomtenkt system og kan gi gode resultater. 
+Det er enklere å få til fine sammenføyninger enn med treplugger eller lamellfres, for ikke å snakke om fingerskjøter. 
+
+Det krever likevel nøyaktighet og gjerne litt prøving og feiling, særlig i begynnelsen. 
+
+Vi fikk gode resultater både med grove materialer (2x4) og med vanlige hylledimensjoner (18mm). 
+Tynnere materialer, som lister til rammer var vesentlig vanskelig å beregne og få solid. 
+
+Løsningen er dessuten fin om du må reparere hyller og skuffer som har gått opp i limingen eller festene/beslagene er ødelagt. 
+
+Vi kjøpte settet i en norsk nettbutikk som hadde både K5-settet og et godt utvalg skruer og tilbehør på lager. 
+Prisen bør ligge på rundt 1.500 kroner. 

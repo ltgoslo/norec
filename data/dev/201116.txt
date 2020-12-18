@@ -1,0 +1,137 @@
+TEST:Philips 65PUS7600 
+
+En av de mest spennende TV-modellene fra Philips på flere år. 
+
+Selv om Philips er kjent for å levere på bildekvalitet, kommer vi ikke utenom at 2014-årgangen ble en nedtur: 
+
+Selv toppmodellene manglet for eksempel Netflix i superoppløsning, og selv om første generasjons Android-TV ga mange muligheter, fulgte det også med en del barnesykdommer på lasset. 
+
+Spørsmålet er selvsagt om de er tilbake på rett spor, og etter over tre uker med 7600-serien på test-rommet er det mye som tyder på at svaret er ja. 
+
+Men vi får starte på begynnelsen. 
+
+Ett lekkert møbel 
+
+Vår testmodell er på 65-tommer, men 7600-serien fås også i 48- og 55-tommers størrelse. 
+På grunn av høstens valuta-uro er imidlertid prisene litt høyere enn forventet, men akkurat det er ikke Philips alene om i dagens marked. 
+
+I praksis vil det si at 65-tommeren idag koster rundt 27.000, mens 55-tommeren ligger på 18.000 og 48-tommeren ligger på 15.000 kroner . 
+
+Det vil si at TV-en er i direkte konkurranse med Samsungs 8000-serie, samt Sony X85C-serie - som vi også har testet. 
+
+Førsteinntrykket av Philipsen er uansett bra. 
+65-tommer er selvsagt stort, men siden rammen rundt panelet er beskjeden tar den mindre plass enn man skulle tro. 
+Siden dette er en klassisk kant-LED-modell er den tynn også, ja på det slankeste er den faktisk ikke dypere enn 1,7 centimeter, så dette er ganske enkelt en TV som vil passe i mange stuer. 
+
+Mens konkurrentene ofte sender med to fjernkontroller på sine modeller i samme prisklasse, gjør Philips det litt annerledes: 
+Her får du ganske enkelt en fjernkontroll i god materialkvalitet, med fullt QWERTY-tastatur på baksiden, stemmestyringsknapp og en slags touchpad som lar deg velge om du vil sveipe deg gjennom menyene, eller trykke som vanlig. 
+
+Sveipingen brukte vi litt tid på å bli fortrolig med, men det er snakk om en vanesak og har ikke medført trekk i denne runden. 
+
+Når det gjelder innganger og funksjoner er 7600-serien utstyrt akkurat så godt som vi forventer i denne prisklassen, og med på kjøpet får du også tre-sidig Ambilight. 
+
+I korte trekk går det ut på at veggen bak TV-en blir lyst opp i takt og farge med det som vises på selve panelet. 
+Vi liker finessen godt, men er du uenig kan den enkelt skrus av eller nedjusteres via fjernkontrollen. 
+Vi går dog ikke nærmere inn på Ambilight i denne runden. 
+Vil du vite mer om finessen må du derfor trykke på lenken under: 
+
+Endelig Netflix i 4K 
+
+7600-serien har altså fått støtte både for videokodeken HEVC (H.265) og HDMI 2.0, og det betyr at du endelig får Netflix i 4K-oppløsning via den innebygde TV-appen. 
+
+I likhet med blant annet Sony og Panasonic har fjernkontrollen til Philips nå fått en dedikert Netflix-knapp, så ett trykk her og TV-en tar deg direkte til TV-appen. 
+
+Hvis du betaler for Netflix i 4K vil dermed det tilgjengelige 4K-innholdet spilles av på TV-en, forutsatt at nettlinjen din er rask nok da. 
+(I praksis bør du ha rundt 15.6 Mbps, selv om Netflix påstår de klarer å vise 4K helt ned til 11.7 Mpbs.) 
+
+I vårt testlokale var ikke dette noe problem, og sammenlignet med TV-boksen fra Nvidia Shield bet vi oss merke i to ting: 
+TV-appen startet kjappere og buffret raskere enn den eksterne boksen. 
+Det er noe vi liker. 
+
+Tilfeldigheter gjorde at vi denne gang fikk spørsmål fra lesere som har slitt med at Netflix-appen har hengt seg opp på sine modeller. 
+Hva dette skyldes er dessverre vanskelig å gi noe svar på, for i løpet av vår testperiode har Netflix-appen vært dønn stabil i bruk. 
+
+Mulige feilkilder kan være tregt hjemmenett, en gammel ruter, eller at softwaren på TV-en ikke har vært oppdatert, eller enda verre: 
+En kombinasjon av de tre. 
+(Softwaren på vår TV var forøvrig QV151E_0.5.38.8). 
+
+Bildekvalitet 
+
+At Netflix i 4K ser strålende ut kommer neppe som noen overraskelse: 
+Det er nemlig de færreste TV-seriene i 4K-oppløsning som har lynkjappe actionsekvenser. 
+Her går det aller meste i rolig TV-tempo, og da ser innholdet bra ut til tross for at det er komprimert. 
+
+Som nevnt liker vi også at appen starter kjapt, her ligger altså ikke Philips bak noen av konkurrentene, og det er et tegn på at prosessoren holder mål. 
+
+Vi liker også hvordan Philipsen skalerer vanlige TV-sendinger opp til å matche oppløsningen på panelet. 
+
+Nå skal det sies at ingen 4K-TVer på markedet kan trylle, så hvis favoritten din er reprisene av gamle Derrick-episoder fra 70-tallet vil du nok bli skuffet. 
+Når det gjelder skalering vil vi likevel si at Philips er best i klassen, selv om også Sony og Samsung også gjør en god jobb her. 
+
+7600-serien er som nevnt av kant-LED-typen, og siden heller ikke Philips har funnet opp kruttet på nytt gir det noen konsekvenser du må være klar over: 
+
+Fordelen er at kant-LED gjør det enkelt å lage tynne TV-er. 
+Ulempen er at man samtidig mister litt av kontrollen over sortnivået som modellene med ekte bakgrunnsbelysning har, (for eksempel Panasonic AX900), fordi man ikke har lokal dimming av diodene der det trengs. 
+
+For å bøte på dette har Philips utstyrt 7600-serien med «Micro Dimming Pro». 
+I praksis justerer den kantlyset aktivt i forhold til lysnivået i rommet og innholdet på TV-en, for å simulere en viss grad av lokal dimming. 
+
+Så hva vil det si i praksis? 
+I dagslys og halvmørke rom vil vi ganske enkelt si at sortnivået imponerer, ja - du skal være langt over snittet interessert før det i det hele tatt er noe å klage på her. 
+
+Men vil det si at den har et like godt sortnivå som toppmodellene med direkte baklys eller Oled når du skrur av alt lyset i rommet? 
+
+Nei, overhodet ikke. 
+Men da snakker vi også om helt andre prisklasser og vår påstand er at du i denne prisklassen får en bildekvalitet som de aller fleste vil si er svært god. 
+
+På dette området er altså vår oppfatning at 7600-serien til Philips er helt på nivå med Samsung og Sony. 
+
+Den store styrken til Philips er likevel detaljnivået, for ved å skvise ut så mange detaljer øker også dybden i bildet. 
+I vår bok gjør de her en bedre jobb enn Sony, mens dette er et område hvor også Samsung har blitt gode, så forskjellene er ganske enkelt mindre enn før. 
+
+Ved vanlig bruk var det også godt å se at vårt testeksemplar ikke var plaget av lysgjennomtrenging fra LED-diodene (clouding). 
+Det vi imidlertid stusset over var at enkelte felter var lysere enn andre når vi så på heldekkende farger (hvitt/gult osv). 
+Her var det imidlertid bare å sette ned video-kontrasten fra 100 (maks) til rundt 78 for å få bukt med problemet. 
+
+7600 er imidlertid utsatt for reflekser fra panelet, og innsynsvinkelen kunne også vært bedre. 
+På dette punktet er imidlertid ikke konkurrentene noe spesielt bedre, så det er vanskelig å trekke for det. 
+
+Er det smart med Android-TV? 
+
+Dette er altså andre generasjons Android-TV fra Philips, og trofaste lesere vil huske at vi ikke var spesielt imponert over første generasjon som brukte Android 4.2.2. 
+
+Den gode nyheten er at 7600-serien nå har Android 5 (Lollipop, den samme som på Sonys Android-TVer), og at du fortsatt får et stort utvalg av TV-apper via Google Play. 
+TV-en har forøvrig 16 GB internminne til TV-appene, og du kan sette inn et minnekort om du trenger mer plass. 
+
+Men vær obs på en ting: 
+Du vil kun få tilgang til apper som skal virke på TV-en, og det vil i praksis si at det er mange Android-apper til mobilen som ikke er tilgjengelig for TV-bruk. 
+
+NRK-appen fungerer for eksempel kanonbra, men vi stusser over at det fortsatt ikke finnes en dedikert HBO Nordic-app. 
+At man kan omgå dette ved caste fra mobilen/nettbrettet og over til TV-en gjør likevel savnet enklere å bære. 
+
+Den innebygde YouTube-appen er et annet eksempel på at ting kunne vært gjort bedre. 
+TV-appen støtter nemlig ikke visning av 4K-innhold, noe som unektelig er litt skuffende når du sitter med en 4K-TV. 
+
+Merk deg at at det samme også gjelder Samsungs og Sonys modeller. 
+Har du en Samsung TV kan du imidlertid få tilgang til Youtubes 4K-innhold ved å gå via TV-ens innebygde nettleser, og det klarte vi ikke her. 
+
+Vi må innrømme at vi har et blandet forhold til Android som smartTV-løsning, men velger foreløpig å gi det et par sjanser til: 
+Det er fortsatt barnesykdommer å spore, men vi synes likevel at potensialet er stort. 
+
+Konklusjon 
+
+Dette er den TV-klassen vi liker best. 
+
+Bildekvaliteten er langt bedre enn på innstegsmodellene, samtidig som prisene ligger godt under det skyhøye nivået toppmodellene ligger på. 
+
+Når det gjelder bildekvalitet gjør Philips 65PUS7600 en god figur, og det er godt å se at Netflix i 4K er på plass. 
+
+Konkurransen i klassen er imidlertid knallhard, for også Sony X85C samt Samsung UE55JS8005 har imponert oss i løpet av året. 
+
+Her vil altså smak og behag ha mye å si: 
+Samsung gir deg både et buet og flatt alternativ i 8-serien, og med Tizen gir de deg flust av aktuelle TV-apper. 
+Både Sonyen og Philipsen lider av de samme utfordringene når det gjelder Android-TV, men det er kun Philipsen som tilbyr Ambilight. 
+
+Som du sikkert forstår ville derfor prisen blitt avgjørende om vi skulle ha løpt i butikken, så er du på jakt etter ny TV akkurat nå bør du definitivt følge med på prisene framover - ikke minst på fredagens Black Friday-tilbud. 
+
+Philips 65PUS7600 

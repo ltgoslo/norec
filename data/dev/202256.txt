@@ -1,0 +1,88 @@
+TEST:D-Link DIR-890L 
+
+Dette er ruteren med markedets mest spektakulære utseende. 
+
+Dette er én av tre trådløse rutere som ble testet i DinSide august 2015. 
+Du finner oversikten her. 
+Testvinneren finner du her. 
+
+D-Link har tenkt litt annerledes enn konkurrentene da de utformet DIR-890L. 
+Ruteren har et futurisk design, muligens inspirert av Transformers-serien og Stealth-flyene til det amerikanske flyvåpnet. 
+
+Det gjør at ruteren virkelig skiller seg ut fra de andre i testen, som har en langt mer traust design. 
+
+Vi antar at du enten vil elske det, eller hate det. 
+
+Vi skal imidlertid ikke bry oss så mye om utseendet her, og starter med en rask oversikt over de viktigste egenskapene: 
+
+Modell: 
+D-Link DIR-890L Standarder: 802.11a/b/g/n/ac Antenner: 6 USB-porter: 1 x USB 2.0 + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Størrelse: 387 × 119,5 × 247,3 mm Vekt: 
+1,01kg 
+
+Det liggende designet er pyramideformet, og de seks antennene er plassert rundt hele ruteren. 
+Det er også fester på undersiden for veggmontering. 
+
+Alle tilkoblingspunktene sitter på baksiden, og det er etter vår mening også det mest hensiktsmessige. 
+Her finner du også en WPS-knapp for enkel og sikker tilkobling uten å måtte taste nettverksnøkkel. 
+
+Du finner ikke noen knapp for å skru av/på LED-lysene, men i motsetning til på Asus RT-AC3200 vil du neppe synes de er sjenerende på D-Link DIR-890L. 
+
+Oppsett og installasjon 
+
+Den medfølgende hurtigguiden hjelper deg igang ved bruk av bilder, ikke ord. 
+Det fungerer greit, synes vi. 
+
+At den webbaserte administrasjonen ikke kommer i norsk språkdrakt, er imidlertid et ankepunkt. 
+Begge de to andre har dette på plass. 
+
+Ruteren skiller seg også negativt ut på et annet punkt: 
+
+Oppsett-veiviseren er riktignok enkel og rett fram, men vi fikk ikke spørsmål om vi ville sjekke om det var kommet noen ny firmware, og det er noe vi forventer i denne prisklassen. 
+
+Dette måtte vi altså gjøre manuelt i etterkant. 
+Det viste seg at det hadde kommet en oppdatering, og resten av testen ble utført etter å ha installert denne. 
+
+Brukergrensesnittet er temmelig minimalistisk, og du må hente frem funksjonene fra rullegardinmenyer. 
+Det ser rent og pent ut, men gjør at enkelte innstillinger blir litt lite tilgjengelig i forhold til på de to andre ruterne. 
+
+DIR-890L er godt utstyrt funksjonsmessig, men brukervennligheten kunne vært bedre. 
+Vi savner litt bedre mulighet til å styre tilgang for definerte enheter, uten at det påvirker alle sammen. 
+
+Vi gjør også oppmerksom på at denne ruteren ikke kan brukes sammen med Apples backupløsning Time Machine. 
+
+Det finnes apper for mobil og nettbrett som lar deg konfigurere ruteren, også via Internett. 
+Du kan også få tilgang fra en vanlig nettleser fra nettet, og kan gjøre enkelte tilpasninger, for eksempel blokkere enheter og skru av/på trådløst nett: 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi målte ytelsen på fem forskjellige steder i og utenfor huset, og i samme rom oppnådde vi hastigheter på inntil 380Mpbs - som tilsvarer 47,5MB i sekundet. 
+Det er godt bak den nevnte Asus-ruteren (60MB i sekundet), men fortsatt akseptabelt. 
+
+Det gledelige er at hastigheten holdt seg omtrent på samme nivå i etasjen under. 
+Fra kjelleren gikk overføringen mer i rykk og napp enn hos de to andre, men totalt sett absolutt godkjent: 
+
+Vi målte også hastigheten fra en benk rundt 75 meter fra huset, på det beste var den på rundt 1-2 Mbps, men oppkoblingen var svært ustabil - akkurat som for de to andre ruterne. 
+
+Med iPhone 6 Plus kunne vi utnytte internetthastigheten til fulle i og rett utenfor huset, og vi fikk også sporadisk kontakt med ruteren fra benken 75 meter unna. 
+
+Å bruke ruterens USB-porter til nettverkslagring er en genial måte å dele filer i hjemmenettet. 
+Det er også ypperlig å bruke slik lagringsplass til å sikkerhetskopiere data som du vil ta vare på. 
+
+Dette er spesielt interessant på nye rutere, som ofte har kraftige prosessorer og kan dermed by på god lese/skriveyelse. 
+
+DIR-890L viste seg å være den klart raskeste av de tre ruterne på skrivehastighet til USB-nettverkslagring, med over 30MB i sekundet. 
+Lesehastigheten var på 46MB i sekundet, kun slått av NetGear, men sistnevnte var vesentlig tregere på skriving: 
+
+Konklusjon 
+
+Vi innrømmer det gjerne: 
+Vi synes designen til denne ruteren er tøff. 
+Vi likte også at den har god ytelse på nettverkslagring, samt god rekkevidde. 
+Det er den eneste av de tre som fikk iPhonen vår på nett fra benken 75 meter unna huset. 
+
+Den mangler imidlertid litt på brukervennlighet og hastighet i forhold til testvinneren. 
+
+D-Link DIR-890L 

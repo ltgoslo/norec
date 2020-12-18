@@ -1,0 +1,125 @@
+Microsoft Surface Pro 4
+Den tar mål av seg å være både et nettbrett og en fullblods bedrifts-PC. 
+Men hvor vellykket er Surface Pro 4? 
+Vi har testet. 
+
+En av årsakene er etter vår mening mangel på innovasjon, men med lanseringene av Samsung Galaxy View og Apple iPad Pro, prøver i hvert fall gigantene å utvide nedslagsfeltet til å omfatte bedriftsmarkedet. 
+
+I tillegg jobber PC-produsentene stadig hardere for å finne de beste hybridløsningene (kombinert nettbrett og PC), og her har vi sett lovende takter den siste tiden, se bare på HP Spectre 13 og Microsoft Surface Book. 
+
+Tre år, fire generasjoner 
+
+Microsoft var blant de aller første som lanserte en ekte hybrid, det vil si et nettbrett med full Windows 8.1 som kunne kobles til et tynt, tynt tastatur. 
+Vi snakker om førstegenerasjon Surface Pro, som ble lansert tilbake i 2012. 
+
+Nå er Microsoft klare med fjerde generasjon av Surface Pro, og selv om brettet naturligvis har blitt langt bedre på nær sagt alle områder siden førstegenerasjon, har Microsoft holdt fast på designuttrykket. 
+Det er ingen tvil om at det fortsatt dreier seg om en Surface. 
+
+Større skjerm 
+
+Designendringene siden forrige gang er i praksis svært små. 
+Brettet er marginalt lettere og tynnere, men skjermen er blitt større - og måler nå 12,3 tommer - opp 0,3 tommer fra treeren. 
+Dette har skjedd uten å endre de ytre målene, det er bare rammen som er blitt smalere. 
+
+Skjermen har fått økt oppløsning til 2736 x 1824 piksler, og bredde-høydeforholdet er 3:2. 
+Pikseltettheten er 267 pr tomme. 
+
+Det er faktisk helt i toppklassen - og så vidt bedre enn på iPad pro (264 per tomme), som riktignok har en større skjerm på 12,9 tommer. 
+Panelet er svært godt (dekker 100 prosent av sRGB-fargespekteret) og lyssterkt. 
+Farger og kontrast holder seg selv fra nær død vinkel. 
+Berøringsfølsomheten er også helt upåklagelig. 
+
+På baksiden sitter fortsatt den samme trinnløse støtten, som lar deg fritt justere vinkel på brettet. 
+
+Den magnetiske kontakten til strømforsyningen er også den samme, og det er også kontakten til tastaturdelen - Surface Pro Type Cover. 
+Merk at dette tastaturet ikke følger med når du kjøper Surface Pro. 
+I stedet er det ekstrautstyr som koster veiledende 1.499 kroner. 
+
+Den gode nyheten er at fjerde generasjon Surface Pro Type Cover har blitt bedre enn forgjengeren. 
+
+Pekeplaten er blitt større, og tastene er nå skilt fra hverandre (chiclet-typen). 
+Tastaturet er fast og fint, og responsen er upåklagelig. 
+Det lager litt lyd under tasting, men ikke veldig sjenerende. 
+
+Fullblods PC-spesifikasjoner! 
+
+Brettet er utstyrt med sjette generasjon Core M eller i-prosessor fra Intel (Skylake-generasjonen), vårt testeksemplar har en Core i5-6300U (2,4-3 GHz), 8 GB RAM og en SSD på 256 GB. 
+Operativsystemet er Windows 10 Pro. 
+
+Det er imponerende spesifikasjoner i et brett som veier relativt beskjedne 786 gram! 
+
+Av tilkoblinger har brettet én USB 3.0-port, en MiniDisplayPort for tilkobling til ekstern skjerm (inntil 4K@60Hz), samt en kombinert mic/hodetelefon-kontakt (minijack). 
+Her savner vi en USB-C-kontakt. 
+
+I tillegg kommer selve tastaturkontakten. 
+Du kan også koble til SurfaceConnect - en dokk som byr på ytterligere tilkoblinger, men også denne er uten USB-C, og prisen er på hele 3.000 kroner. 
+
+Støtte for trådløse 802.11AC nett og Bluetooth 4.0 er også på plass. 
+
+I tillegg har det to kameraer, et hovedkamera på 8 megapiksler og et selfiekamera på 5. 
+
+Du kan filme i full HD, og lyd tas opp i stereo. 
+Brettet har også etpar enkle stereohøyttalere (som faktisk spiller ganske bra og balansert), og under støtten på baksiden vil du finne en kortleser for microSD-kort. 
+Dermed kan du utvide lagringsplassen med inntil 200GB, som per dags dato er rekordkapasitet på disse kortene. 
+
+Men pennen har litt å gå på 
+
+Den nye Surface-pennen er standardutstyr. 
+Du kan bruke inntil ti fingre på skjermen samtidig, eller du kan bruke denne pennen til presisjonsarbeid. 
+Den har en knapp øverst som kan starte en ønsket applikasjon med ett enkelt klikk, ta skjermdump ved å dobbelklikke, eller å aktivere Cortana eller søkefunksjonen ved å klikke og holde nede i etpar sekunder. 
+
+Den har også innebygd mikrofon, slik at du kan gi Cortana muntlige kommandoer, vel og merke når Cortana blir tilgjengelig i Norge. 
+
+Pennen er ypperlig å tegne og skrive med, med sine 1024 trykkfølsomme trinn, men bare hvis du holder relativt lavt tempo. 
+Dessverre er det fortsatt langt igjen til opplevelsen blir som å skrive/tegne på et ark. 
+
+Skriver du raskt, kan forsinkelsen på streken være bortimot en centimeter, så det kreves en god dose tilvenning for å få gode resultater. 
+
+Dette er imidlertid noe Microsoft (og andre) jobber med. 
+Vi har selv vært på besøk i Microsofts laboratorier i Redmond, og sett hvordan ingeniørene jobber med forskjellige løsninger for å få ned forsinkelsen til et minimum. 
+
+Enn så lenge tyder likevel ting på at Apple har et lite forsprang på dette punktet med sin iPad Pro. 
+
+Bortsett fra dette, er det ikke forsinkelser vi først og fremst forbinder med Surface Pro 4. 
+
+Som en kraftig ultrabook 
+
+Ytelsen ligger på nivå med noen av de beste PC-ene vi har testet i ultrabook-klassen. 
+
+Det betyr at det knapt er noen vanlige PC-oppgaver denne PC-en sliter med. 
+
+Multitasking går også problemfritt, takket være 8 GB RAM og en relativt rask SSD. 
+Vi målte lese/skrivehastighet på 457/291 MB pr sekund. 
+
+Vi må også legge til at Surface Pro 4 byr på en ren Windows-opplevelse. 
+Det betyr at brettet er kjemisk renset for tredjepartsprogrammer og såkalt «crapware», som ofte trekker ned både ytelsen og totalinntrykket på mange PC-er i markedet i dag. 
+
+Forer du brettet med nok tunge oppgaver, vil du kunne høre at viften spinner opp fra tid til annen. 
+Imidlertid er lyden nøytral, og ikke noe vi vil karakterisere som sjenerende eller problematisk. 
+
+God batteritid 
+
+Hva så med batteritiden? 
+Ved minimal belastning vil vi kalle den formidabel. 
+Kun tilkoblet trådløst nett hadde vi fortsatt 22 prosent kapasitet igjen etter hele 735 minutter (12 timer og 16 minutter): 
+
+Ved kontinuerlig videoavspilling (H.264 i 720P i Windows Media Player) holdt batteriet i overkant av 6 før det var tomt. 
+
+Det er gode tall, og bør bety at du kan regne rundt 8-9 timer med variert bruk mellom hver lading - omtrent hva Microsoft lover. 
+
+Konklusjon 
+
+Surface Pro 4 er definitivt blant de beste hybridene på markedet. 
+Du får flott ytelse i et brett som veier knapt trekvart kilo, men du må også betale temmelig mye for det. 
+
+Billigste konfigurasjon starter på i underkant av 10.000 kroner, da med Core-M-prosessor uten vifte. 
+Vårt testeksemplar byr på vesentlig bedre ytelse - men koster da også nesten 14.000 kroner. 
+Skal du ha utgaven med Core i7-prosessor, koster brettet over 18.000. 
+
+Uansett hvor godt Surface Pro 4 er, kommer vi ikke unna at det er en stiv pris, all den tid at tastatur og dokking er ekstrautstyr. 
+I kulissene lurer også konkurrentene, deriblant Dell med sin XPS 12 og HP, som med sitt X2 1012 business-brett ser ut til å legge seg godt under Surface Pro 4 i pris. 
+
+Og selv om brettet er utstyrt med støtte, gir det fortsatt ikke samme fleksibilitet med tastatatur som en PC - i hvert fall ikke hvis du har den på fanget på bussen. 
+Legg til at brettet har få tilkoblingsmuligheter, så forstår vi hvorfor Surface Book ser ut til å appellere langt bredere. 
+
+Microsoft Surface Pro 4 i5 8GB 256GB 

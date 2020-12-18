@@ -1,0 +1,119 @@
+Test:Robomow RS622 
+
+For tøffe tak og store gressplener. 
+
+Det er først når man har de største plenene at man virkelig nyter godt av en automatisk gressklipper som gjør jobben selv. 
+
+Å klippe en enkel plen bør en gressklipper til 19.490 kroner klare. 
+Vi gav den en annen utfordring. 
+Hvordan klarer den flere plener, med smale veier mellom? 
+
+Ute etter en rimeligere robotklipper? 
+Vi har også testet fire billigere varianter, som du kan lese om senere denne uken. 
+
+Klipperen 
+
+Robomow RS622 skal klippe opptil 2,2 mål, og erstatter dermed gjerne en sitteklipper. 
+Dette er en stor klipper, med hele 56 centimeter klippebredde takket være to høyhastighets klippemotorer som maler opp gresset. 
+
+Klippeaggregatet står på en separat flytende plate for jevnest mulig klipping og den klipper også utenfor hjulene. 
+
+Høy kapasitet 
+
+Robotgressklipperen er ute en time av gangen og kan klippe opptil seks ganger om dagen. 
+Du bestemmer hvor ofte den skal dekke arealet, og hyppighet på klippingen. 
+
+Jeg gikk ned fra to til en gang per uke og lav hyppighet. 
+Den brede klippebredden gjør at den dermed er sjelden å se på plenen, en fordel for de som bruker utearealet mye. 
+
+Flere plener 
+
+Den tillater opptil tre delsoner utover hovedsonen. 
+Vår testplen består av en stor plen og to små på forskjellig nivå. 
+Det ble anlagt veier (Robomow krever 120 cm bredde) med ferdigplen. 
+
+Inngangen til sonene er knotete å lage til, og stiller litt krav til underlaget. 
+Det følger med en pappmal for hvordan man skal legge tråden inn og ut i disse sonene. 
+Det fungerer selv om plenen ikke ligger flatt i terrenget, men det krever litt plass. 
+
+Robomows egne installatører gir blaffen og lager en enklere løsning med en større åpning i traktform. 
+Da sikrer man at klipperen følger kanttråden, men mister blant annet en «følg tråd-funksjon». 
+
+Har du en litt større, eller litt mindre plen, får du Robomow i to mindre versjoner; MS1000 (1.000 m2) og MS1800 (1.800 m2) og en større variant; RS630 (3.200 m2). 
+
+Les flere gode råd om hvordan å velge gressklipper 
+
+Bra fremkommelighet 
+
+Den 20 kilo tunge klipperen starter alle bevegelser rolig. 
+Det gjør at den slipper mye spinning, og forhinder at den setter seg fast. 
+
+Under installasjonen ble den utfordret på en del ulendt terreng. 
+Men den har et ganske omfattende innebygget reaksjonsmønster som gjør at den kommer seg ut av mange situasjoner. 
+
+Ett nesehjul sikrer at begge drivhjul har bra vektfordeling, men dette gjør den samtidig litt følsom for å sette seg fast dersom det er små hull og dumper i underlaget. 
+
+Kongler, små røtter, steiner, bakker og liknende, forseres med stor selvfølgelighet, også takket være bredden på robotklipperen. 
+Støtsensoren er akkurat passe følsom mot myke busker. 
+
+Tråden kan legges ganske nært inntill busker for å unngå ekstra klipping med kantklipper. 
+Mange billigere klippere sliter med kraft og tynde nok for småkvistene over støtfangernivå, men vi opplevde aldri at slikt satt seg fast i skallet eller drivhjulene. 
+
+I bruk 
+
+RS622 har en enorm kapasitet og klipper gresset hurtig. 
+Etter et par telefoner til Support, går den til de aktuelle delsonene og holder plenen plettfri, uten at man tenker på at den er der. 
+
+Klipperen bråker ikke mye, men det anbefales ikke å la den jobbe om natta dersom du eller naboene har soveromsvinduene oppe. 
+
+Både motoren for fremdrift og de to propellene høres nemlig godt på natta. 
+Det er bedre å sette den i gang litt utpå formiddagen. 
+Da slipper du morgendugget og ekstra renhold. 
+
+Finnes mer logiske løsninger 
+
+Robomow har norsk bruksanvisning, men forklaringene er ikke spesielt gode. 
+Menysystemet på maskinen er heller ikke intuitivt. 
+Blant annet var det vanskelig å skjønne hvordan man deler inn i soner. 
+Det er enklere på langt billigere maskiner, som vi også har testet. 
+
+Følg tråden 
+
+Det finnes en innstilling som gjør at klipperen går med forskjellig avstand fra tråden hver gang. 
+Denne er der for at du skal slippe å få permanente hjulspor i plenens ytterkant. 
+
+Dette fungerer strålende dersom du ikke har soner. 
+Har du derimot det, som vi har, kan du KUN velge funksjonen på hovedsonen. 
+
+I delsonene må du slå den av, ellers vil den aldri finne inngangen til sonene og heller aldri finne hjem igjen. 
+Gjett om vi klødde oss i hodet før vi forsto det. 
+
+Regnsensor 
+
+Robomow klipper selv om det regner, og det er bra. 
+Regnsensoren måler fuktigheten med to metallpinner. 
+Løsningen er blitt bedre på de helt nyeste modellene. 
+
+Bruksanvisningen forklarer dårlig hvilke nivåer den bør stå på. 
+Jo lavere tall, jo mer regn tåler den. 
+
+Egen app 
+
+Du kan styre klipperen via en app på mobiltelefonen (både iPhone og Android) via bluetooth. 
+Der fins det bedre alternativer, eksempelvis Bosch Indego, som har et telefonkort der abonnementet betales av produsenten hele klipperens levetid. 
+Da får du all info om klipperen hvor du enn skulle befinne deg på kloden. 
+
+Appen på Robomow er kul og du kan stille inn en rekke ting, men den blir i grunn litt ubrukelig når rekkevidden mellom telefon og klipper er såpass kort. 
+
+Du må i prinsippet stå ved siden av klipperen for at det skal funke. 
+Med appen kan du be den starte klipping i hvilke sone du vil, stoppe den og sende den hjem, kjøre den med en svært enkel fjernkontroll, få alarm om den er stjålet eller har satt seg fast, stille inn de fleste funksjoner, sjekke batterikapasitet og så videre. 
+
+Dyr allrounder 
+
+Robomow 622 sitt største fortrinn er den store kapasitet per klippetime. 
+Vi skulle gjerne sett at den hadde et vanlig simkort slik at rekkevidden mot mobiltelefonen ble ubegrenset. 
+
+Den mangler også mulighet til å gå begge veier på avgrensingstråden og muligheter for å sette opp innebygde snarveier. 
+
+Vi har hatt klipperen i to måneder, og er den klipperen i sommerens testperiode med færrest stopp. 
+Det alene gjør den verdt pengene. 

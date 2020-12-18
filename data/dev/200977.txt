@@ -1,0 +1,177 @@
+Acer Aspire S7 (Broadwell)
+Slank og linjelekker bærbar som leverer på nesten alle punkter. 
+
+Acer Aspire S7 har vært en av favoritt-ultrabookene våre de siste årene. 
+
+Det er en meget slank og elegant bærbar som hører hjemme i premium-segmentet; tradisjonelt med god ytelse og super batteritid. 
+
+Vi har tatt en titt på årets utgave basert på Intels nyeste Broadwell-prosessor. 
+Forgjengeren ga vi terningkast fem, med tastaturet som det største minuspunktet. 
+Er ting noe bedre i denne omgang? 
+
+Tekniske spesifikasjoner 
+
+Før vi kommer inn på hvordan maskinen er i bruk, skal vi se litt nærmere på de tekniske egenskapene. 
+
+Skjerm: 13,3" blank berøringsfølsom IPS-skjerm, oppløsning på 2560 x 1440 piksler 
+
+Prosessor: 
+Intel Core i7-5500U, 2,4 GHz 
+
+RAM: 
+8 GB (kan ikke oppgraderes) 
+
+Grafikkort: 
+Intel HD Graphics 5500 
+
+Lagring: 
+256GB SSD 
+
+Optisk drev: 
+Nei 
+
+Skjermutganger: 
+HDMI innebygd, VGA via medfølgende adapter 
+
+USB-porter: USB 3.0 x 2 
+
+Webkamera: 
+Ja 
+
+Kortleser: 
+SD/SDHC/SDXC 
+
+Trådløst nett: 
+Intel Dual-Band Wireless AC 7265 (802.11ac) 
+
+Kablet nett: via medfølgende adapter 
+
+Annet: Bluetooth 4.0, Intel Wireless Display 
+
+OS: 
+Windows 8.1 norsk 
+
+Størrelse: 32,3 × 1,29 × 22,3 centimeter 
+
+Vekt: 
+1,3 kg 
+
+Pris: 13.649 kroner (Prisjakt.no 21.04.2015) 
+
+Glass og metall 
+
+På utsiden er årets S7 identisk med forgjengeren. 
+Den har en aluminiumsramme, som gir en stiv og stabil konstruksjon. 
+
+Overflaten er hvit og dekket av Gorilla Glass (motstandsdyktig mot riper), mens bunnen er av plast. 
+
+Designen er lekker og stilren, selv om den ikke har forandret seg så mye på noen år. 
+Maskinen virker dessuten ganske robust. 
+Slank er den også – Acer oppgir bare 1,29 centimeter, men det er sannsynligvis uten føttene – med vår tommestokk bikker vi så vidt 1,4 centimeter. 
+Tynnere enn for eksempel 
+Dell XPS 13, men sistnevnte har til gjengjeld et mindre fotavtrykk. 
+
+Berøringsskjerm 
+
+Som forgjengeren har årets Aspire S7 en skjerm med svært høy oppløsning. 
+Den har ikke bare full HD, men 2560 x 1440 piksler. 
+Dell XPS 13 har enda høyere oppløsning igjen, på 3200x1800 piksler. 
+
+Som vi skrev i forrige S7-test, kan det diskuteres hvorvidt en så høy oppløsning er nødvendig med denne skjermstørrelsen, men det gir i hvert fall svært skarpe bilder og tekst helt uten synlige raster. 
+
+Innsynsvinkelen er ikke like god som vi er vant med på andre skjermer med IPS-panel. 
+
+Spesielt merker vi at de lyse fargene går over i hvitt når vi beveger oss rundt 60 grader ut fra sidene. 
+Sett rett forfra ser det imidlertid helt fint ut. 
+
+Som med de fleste berøringsskjermer er også denne veldig blank. 
+Det gjør at for eksempel sollys kan bli sjenerende i «riktig» vinkel. 
+
+En fiffig detalj ved skjermen er at den har en hengsling som byr på ekstra motstand når den står i en naturlig 110 graders vinkel, for å ikke gi etter når man bruker berøringsskjermen. 
+
+Dessuten kan den brettes helt ned i liggende posisjon om du har behov for det. 
+Med tastatursnarveien Fn+O kan du enkelt snu skjermbildet 180 grader. 
+
+Burde hatt flere taster 
+
+En av våre største innvendinger mot tidligere modeller har vært tastaturet. 
+Blant annet har vi hatt problemer med at det ikke oppfatter trykkene våre. 
+Det opplever vi ikke så mye med årets utgave, men vi synes fremdeles ikke det er optimalt å bruke. 
+
+Det er fortsatt for få taster, og enkelte tasteplasseringer er fortsatt ulogiske i forhold til vanlige tastaturer. 
+Nummerplassene deler plass med funksjonstastene, og noen andre funksjonstaster er lagt til bokstavraden under. 
+Merkelig, for det hadde absolutt vært plass til flere taster. 
+
+En annen ting vi irriterer oss over er at det kan være litt vanskelig å se hva som står på tastene. 
+Selve tastene er sølvfargede, mens tegnene er grå/gjennomsiktig med en blå bakbelysning, som går nesten i ett med tastene sett fra noen vinkler. 
+
+Vi er heller ikke helt fornøyd med pekeplaten. 
+Den virker litt overfølsom, så det hender titt og ofte at vi klikker på lenker eller forstørrer tekst i nettleseren når vi bruker tastaturet. 
+Det er ikke alltid den reagerer når vi trykker heller, og noen ganger må vi trykke ekstra hardt. 
+
+Vi skulle ønske kantene ikke var fullt så skarpe på S7, både rundt skjermen og underdelen hvor tastaturet sitter. 
+Det kan være litt ubehagelig å åpne lokket eller å hvile hendene på sidene når man skriver. 
+
+God ytelse 
+
+Ytelsesmessig er det lite å utsette på denne PC-en, selv om den ikke er kraftig nok til å være en god spillmaskin. 
+
+Den kan være ganske stillegående ved lav belastning, men vi kan høre vifta så fort vi bare har et par programmer åpne, for eksempel nettleseren og Spotify, eller når vi laster ned en fil. 
+Ikke noe som er plagsomt om du har på TV-en eller sitter i åpent kontorlandskap, men i et stille rom merkes det. 
+
+Prosessoren er en splitter ny Intel Core I7-prosessor (5. generasjon Broadwell) som er klokket på 2,4 GHz med turbo inntil 3,0 GHz. 
+Maskinen har også 8GB arbeidsminne og integrert grafikk i form av Intel HD Graphics 5500. 
+
+I Passmark får vi følgende resultater: 
+
+Prosessor: 4500 Til en ultrabook å være, er dette svært gode tall. 
+Hakket vassere enn Dell XPS 13, som oppnådde 4303 (selv om de har samme spesifikasjoner), og over dobbelt så høyt som den nye Core M-prosessoren som sitter i Lenovo Yoga 3 Pro. 
+
+Den må se seg slått av den nyeste utgaven av MacBook Pro med Retina-skjerm, som fikk en score på 4648. 
+Apples maskin har dog en Intel Core i5-prosessor med høyere klokkefrekvens – 2,7 GHz. 
+
+3D-grafikk: 621 Som vanlig med integrert Intel-grafikk, er ikke det all verden til poeng i denne grenen. 
+Det er fremdeles slik at du til en viss grad må velge mellom kompakt størrelse eller spilling når du blåser av femsifret på en bærbar PC, og i dette tilfellet er det den kompakte størrelsen du betaler for. 
+
+Hos Notebookcheck kan du se eksempler på hvor mange bilder i sekundet du kan forvente i ulike spill. 
+
+Er du på utkikk etter en spill-bærbar, testet vi tre kraftige gaming-maskiner ved årsskiftet. 
+
+PCMark 8, Creative 3.0: 3408 
+Her er Aspire S7 mer på nivå med Dell XPS 13, som fikk 3427 poeng, men fortsatt et godt stykke bak årets MacBook Pro med 13-tommer skjerm, som fikk hele 3919. 
+
+«Creative»-testen til PCMark 8 fokuserer på websurfing, bilde- og videoredigering, videokonvertering, spill og den slags; typiske litt «tyngre »ting man bruker en PC til når man har tilgang til strøm og maskinen derfor yter sitt optimale. 
+
+Disk-ytelse: 938MB/s / 959MB/s Tallene er henholdsvis for lesing og skriving av data og måles med programmet Atto. 
+I vår testmodell sitter det en SSD-disk fra Kingston med et Raid 0-oppsett, som presterer ekstremt godt hva gjelder både lesing og skriving. 
+
+Mye raskere enn for eksempel XPS 13 som oppnådde hastigheter på 551MB/s og 265MB/s ved henholdsvis lesing og skriving. 
+
+MacBook Pro har også rask diskytelse, med 1414MB/s og 654MB/s på de samme målingene. 
+
+Og batteritiden? 
+
+Å måle batteritid på en bærbar PC kan gjøres på mange forskjellige måter, og hvor lang batteritid man får, avhenger sterkt av hvor hardt den belastes og hvor høyt man har valgt å skru lysstyrken på skjermen. 
+
+Acer oppgir selv en batteritid på 8,5 timer. 
+
+Når vi tester batteritiden bruker vi måleinstrument og setter lysstyrken på samme nivå, som tilsvarer 40-50 prosent av lysstyrkeindikatoren på de fleste maskiner. 
+
+Ved gjentakende avspilling av et 720p-videoklipp, ender vi opp på 435 minutter, eller 7 timer og 15 minutter, som er relativt bra for denne typen bærbar PC. 
+
+Den holdt lenger ut enn Dell XPS 13, som klarte seg i 395 minutter, drøye seks og en halv time, og litt mindre enn MacBook Pro, som holdt i 459 minutter, drøye sju og en halv time. 
+
+Ved normal bruk som nettsurfing, epost og musikklytting vil Aspire S7 kunne holde en hel arbeidsdag. 
+
+Konklusjon 
+
+Acer Aspire S7 har det meste en kan forvente av en ultrabook i det øverste prissegmentet. 
+Flott design, god ytelse og batteritid med en skarp og fin berøringsskjerm. 
+
+Tastaturet er vi fremdeles ikke helt fornøyd med, selv om man selvsagt vil kunne venne seg til oppsettet. 
+Pekeplaten er også for følsom etter vår smak. 
+Skjermens innsynsvinkel burde dessuten ha vært bedre. 
+
+Siden det er såpass viktige egenskaper knyttet til den daglige bruken, ender vi på en femmer på terningen, gitt den høye prisen på over 13.500 kroner. 
+
+Acer Aspire S7-393 (NX.MT2ED.008) 

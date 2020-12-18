@@ -1,0 +1,113 @@
+Gocycle - en annerledes el-sykkel
+Her snakker vi om en spesialkonstruksjon, med flere unike løsninger. 
+
+De fleste el-sykler har mye til felles med ordinære sykler, hvor både konstruksjon og komponenter er identisk. 
+De eneste forskjellene er el-motor, fartskontroll og batteri. 
+
+Selv om konseptet «sykkel» nødvendigvis må bety hjul, ramme, drivverk, styre og sete, så kan dette løses på flere alternative måter. 
+
+GoCycle har alternative løsninger på de fleste områder. 
+
+Konseptet 
+
+Det dreier seg om en forhjulsdrevet el-sykkel som er laget for å kunne tas med og brukes i forbindelse med andre aktiviteter. 
+Den har små hjul, er sammenleggbar, relativt lett (16 kilo) og har mange moderne konstruksjonsdetaljer. 
+
+Brukerne er typisk folk som gjerne reiser med andre transportmidler. 
+Vi snakker ikke om tog eller buss først og fremst. 
+De som har båt av en viss størrelse, eller en bobil, er midt i målgruppen. 
+
+Samtidig er den også smart der hvor man har liten plass til oppbevaring eller vil kunne frakte den med seg som et alminnelig kolli, i stedet for som en sykkel. 
+Den går for eksempel inn i nær sagt et hvert bagasjerom, også på små biler. 
+
+Konstruksjonen 
+
+Rammen er massiv og batteri og elektronikk er integrert i denne. 
+
+Kjedekassen og girsystemet er lukket, og de fleste vaiere og ledninger er skjult. 
+
+Styret har et integrert display med rekker av røde lysdioder som viser status for batteri, gir og hastighet. 
+Det er ingen tall eller bokstaver i displayet. 
+
+I utgangspunktet er det tre faste modi, som er City, Eco og On Demand. 
+I tillegg er det et eget Eco+/Custom modus hvor du kan sette styreparametre selv via en app på din mobil. 
+Denne appen kommuniserer med Gocycle via Bluetooth og finnes for Android og iOS. 
+
+Valg av modus gjøres ved å holde knappene på hver side av styret inne til lysdiodene blinker, og så velge modus ved å trykke knappen på høyre side til modus fra #1 til #4 vises med antall tente lysdioder. 
+
+Det er hydrauliske skivebremser på begge hjul, og motoren driver forhjulet. 
+
+Hjulene kan enkelt tas av ved å løsne tre «klør», og å brette sammen sykkelen gjøres ved å trekke ut en splint, løsne en skrue med sekskantnøkkelen som oppbevares under setet, samt å skru ut en splint som holder styret. 
+Det finnes også pedaler som kan brettes opp, påkrevet når man skal transportere sykkelen i bagen. 
+Denne spesialbagen med hjul for transport og oppbevaring kan kjøpes som tilleggsutstyr. 
+
+Registrering 
+
+Du slår på sykkelen ved å holde inne en gummibelagt bryter, når lysdiodene på styret blinker er den klar til bruk. 
+Du bruker den samme knappen for å aktivere Bluetooth når du skal registrere sykkelen med appen. 
+
+Lader og ladekontakten er av samme type som brukes på bærbare PCer, og kontakten er beskyttet av en gummipropp. 
+
+Sykkelen har ikke bare elektronisk kontroll av motordriften, også girene er styrt av sensorer og elektronikk. 
+Men det finnes også muligheter for å overstyre automatikken og styre både gir og framdrift selv. 
+
+Hver sykkel har sitt eget rammenummer, som er stort og synlig. 
+Dette må registreres i appen sammen med brukerinfo og epost, før du kan ta den i bruk. 
+Du får en epost i retur med en lenke som aktiverer tilgang til kontrollenheten i sykkelen. 
+
+Styring med app 
+
+#1 City tilsvarer vanlig el-sykkelbruk, hvor motorassistansen reagerer kjapt, men varierer med hvor hardt du tråkker. 
+
+#2 Eco krever mer aktiv pedalbruk, og gir derfor lengre driftstid på batteriet. 
+
+#3 
+On Demand er en variant vi ikke har vært borti tidligere. 
+Den gir full motoreffekt når du trykker inn knappen til venstre på styret, men krever at du beveger pedalene. 
+Slutter du å tråkke (eller slipper knappen) stopper motoren, men du behøver ikke bruke krefter når du tråkker - du kan faktisk trå nærmest "i løse lufta" mens motoren alene sørger for framdriften. 
+Men tråkker du aktivt bidrar du selvsagt til framdriften. 
+
+#4 Custom som leveres som en innstilling som krever enda mer kraft enn Eco kan også overstyres ved hjelp av appen. 
+
+I dette moduset kan du velge både ved hvilken pedalkraft motoren skal slå inn, topphastigheten for motorassistanse og om On Demand skal kreve at du tråkker for å starte motoren. 
+
+Velger du topphastighet over 25 km/t (skalaen går opp til 40 km/t) og/eller slår av pedalsensoren får du advarsel om at du har valgt en innstilling som bryter med EU-regelverket EN15194. 
+
+Da har du satt sykkelen til å operere som en elektrisk moped som krever registrering og førerkort ved ferdsel på offentlig vei. 
+
+I praksis er det ikke særlig aktuelt å tråkke denne sykkelen opp i 40 km/t på grunn av begrensningen som ligger i girutveksling og pedaler. 
+Du klarer rett og slett ikke å trå rundt så fort. 
+Skal du komme deg opp i 40 snakker vi om å trille i nedoverbakke, og da er vi uansett utenfor regelverket. 
+
+I bruk 
+
+City mode i byen fungerte strålende. 
+Sykkelen er ganske lett til å være el-sykkel, så den oppleves som kvikk og responsiv. 
+Girskifte er mykt og presist og de hydrauliske skivebremsene gir suveren kontroll. 
+
+Også utenfor byen fungerer motorstyring og giringen glimrende. 
+Vi testet den i bratte stigninger og med On-Demand-innstillingen med kontinuerlig full motorkraft var det en sann fryd å kunne bidra med akkurat det vi selv orket av pedalbruk i tillegg. 
+
+Vi satte den også i Custom mode uten begrensninger og tok en tur ut på bratte private grusveier oppe i lia. 
+Først der måtte den kaste inn håndkleet, noen offroadsykkel er det ikke. 
+
+Konklusjon 
+
+Gocycle er annerledes på flere måter, dette gjør den svært praktisk på noen områder, men i andre sammenhenger er den vesentlig mindre praktisk. 
+
+Som bysykkel er den utmerket, og også på ferie hvor du bare skal se deg om og nyte turen. 
+Den er lett å stue bort og i bagen er den mye lettere å håndtere som kolli. 
+
+Men for mer hverdagspraktisk og allsidig sykkelbruk passer den best for de som skal frakte seg selv med stil på et fast underlag. 
+Skal du ha med deg noe må du ha det i en sekk på ryggen. 
+Har du behov for stor bagasjeplass, henger for unger eller vil ta deg noen turer i skogen finnes det andre mer egnede løsninger. 
+
+Rent teknisk er den både spennende og brukervennlig, både app-støtte og On Demand moduset er noe andre produsenter burde få på plass. 
+Elektronisk styrt girskifte er også elegant, men ikke det vi ville plassert øverst på lista. 
+
+Produsenten fremhever forhjulsdrift som den beste og mest balanserte løsningen, i motsetning til bakhjulsdrift eller midtmotor i kranken. 
+Dette er det delte meninger om både blant produsenter og brukere. 
+Det ideelle hadde etter vår mening vært kombinasjonen midtmotor og gir med Gocycles On Demand modus. 
+
+Prismessig ligger den ikke overraskende i det høyere sjiktet, du må ut med noe over 30.000 for å kunne ha glede av denne skapelsen. 
+Detaljert informasjon for sykkelmodellene og tilleggsutstyr får du hos den norske importøren kragstad.no 

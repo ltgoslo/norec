@@ -1,0 +1,89 @@
+AnyCast lar deg koble iPhone til TV trådløst
+Kan en dings til 100 kr la deg koble smartmobilen til TV-en - trådløst? 
+Dette måtte vi bare prøve. 
+
+Det finnes en rekke løsninger i markedet for å koble mobilen til TV trådløst, for eksempel Miracast, Apples Airplay og Googles Chromecast. 
+
+Førstnevnte støttes av en rekke nye TV-er direkte, og gjør det veldig enkelt å koble til både nyere PC-er og Android-mobiler uten å bruke kabel. 
+
+AirPlay er innebygd i blant annet mediespilleren Apple TV, mens Chromecast er en billig HDMI-plugg som lar deg speile alt som skjer i nettleseren Chrome og overføre lyd/bilde trådløst fra Android-mobiler til hvilken som helst TV med HDMI-inngang. 
+
+Billig-plugger fra Kina 
+
+Tar du en titt på eBay vil du finne haugevis av slike dingser: 
+
+Mange av dem lover deg både AirPlay og Miracast i én og samme enhet, og mange av dem er også svært rimelige. 
+
+Som for eksempel AnyCast M2 Plus. 
+Denne pluggen får du kjøpt fra en rekke Kina/Hong Kong-baserte forhandlere, og prisen starter like over hundrelappen. 
+Etter å ha lest spesifikasjonene, så den ut til å være et realt røverkjøp, så vi måtte selvfølgelig bestille et eksemplar og teste. 
+
+Dette får du 
+
+Tre uker etter bestillingen lå pluggen i postkassen. 
+Den kom i en ganske tillitsvekkende pappembalasje, med beskrivelser av funksjonaliteten. 
+
+Det kom det også fram at pluggen er utstyrt med en Cortex-A9 prosessor på 1,2 GHz og 256MB RAM, ikke verst bare det - til denne prisen. 
+
+Inni lå en hurtigguide på brukbar engelsk. 
+Fo far, so good. 
+
+Mistenkelig design? 
+
+Selve pluggen er til forveksling lik Google Chromecast: 
+
+Den medfølgende USB-kabelen er imidlertid todelt. 
+I den ene enden sitter USB-kontakten som må puttes i TV-en, slik at AnyCast får strøm. 
+
+I den andre enden sitter en klump med en knapp, som lar deg veksle mellom Miracast og AirPlay. 
+Den støtter med andre ord ikke begge overføringsteknologier samtidig. 
+
+Svært enkelt oppsett 
+
+Vi plugget AnyCast til TVens HDMI-inngang, koblet til strøm - og vips, der dukket dette bildet opp: 
+
+AnyCast har altså innebygd trådløst aksesspunkt, som vi enkelt koblet oss til fra vår iPhone: 
+
+Pluggen har også egen nettside der du kan konfigurere den slik at den blir en del av hjemmenettet. 
+På den måten slipper du å koble deg direkte til pluggens aksesspunkt mer enn første gangen: 
+
+På iPhone fikk vi nå tilgang til en ny AirPlay-enhet. 
+Vi koblet til, og valgte like skjermer: 
+
+Og vips - iPhone i storformat på TV-en! 
+
+Kortvarig lykke 
+
+På dette tidspunktet var vi fullstendig overbevist om at vi hadde gjort et kjempekupp. 
+Men så begynte vi å sveipe til venstre og høyre, og oppdaget at ikke alt var helt på geledd. 
+Her var det for eksempel noen grafikk-bugs som ikke så helt bra ut: 
+
+Vi startet opp Netflix, men det nektet den å spille. 
+TV2 Sumo likeså. 
+YouTube fungerte heller ikke. 
+Den eneste videostrømmetjenesten vi fikk til å fungere var NRK. 
+Det fungerte imidlertid ganske bra. 
+
+Vi gjorde deretter noen forsøk med musikk og bilder, hvordan det gikk ser du i videoen under: 
+
+Litt hakking og forsinkelser altså, og når vi betraktet bildene på nært hold, var de ikke akkurat detaljrike. 
+For ordens skyld nevner vi at TV-en vi brukte var X85C, en helt ny 4K-TV fra Sony: 
+
+Bildevisning er uansett det den egnet seg best til. 
+Musikkstreaming hakker rett og slett litt for ofte. 
+
+Fail, fail, fail 
+
+Hva så med Miracast? 
+Vi trykket på knappen på USB-kabelen, og fant fram en PC og en mobil med støtte for teknologien. 
+Begge oppdaget pluggen, vi fikk koblet oss på - men i neste øyeblikk ble vi kastet ut. 
+
+Etter diverse forsøk uten hell besluttet vi prosjektet vårt som fullført, helt uten den store entusiasmen. 
+
+Konklusjon 
+
+Vi må berømme Anycast for det enkle oppsettet, men gjennomføringen er dessverre under pari. 
+Riktig nok er pluggen billig, men faren er stor for at den havner i skuffen etter at du har prøvd den. 
+Og da kan du heller spare til du får råd til en bedre løsning, eller bruke hundrelappen på noe helt annet. 
+
+Om du likevel skulle ønske deg en, finner du over hundre forhandlere på denne siden hos Ebay. 

@@ -1,0 +1,99 @@
+TEST:Sony SmartBand 2 SWR12 
+
+Aktivitetsarmbåndet er kjedelig, traust, ser billig ut - og koster altfor mye i forhold til hva det lover å gjøre. 
+
+Sonys første aktivitetsarmbånd fikk gode skussmål på Dinside, og stakk av med både terningskast fem og anbefalt produkt-stempel i mai 2014. 
+
+Tidligere i høst kom oppfølgeren, SmartBand 2, med pulsmåler som den store nyheten. 
+Dessverre følger det ikke opp i fotgjengerens fotspor. 
+
+Det har blitt dobbelt så dyrt, det ser ikke spesielt stilig ut, og det koster rett og slett for mye med tanke på hva det lover å gjøre. 
+
+Traust design 
+
+Sony SmartBand 2 er et ganske ordinært aktivitetsarmbånd med et skikkelig traust design i svart, myk plast. 
+Det er ikke direkte ubehagelig å ha på seg, men materialet puster ikke så godt, så det blir ofte svett på undersiden når vi er ekstra aktive, noe som igjen fører til irritasjon på huden. 
+
+Selve aktivitetsmåleren til SmartBand 2 er en separat dongel som kan tas ut av armbåndet. 
+Det var ganske vanlig på de første aktivitetsarmbåndene fra et par år tilbake, og vi opplever det som litt umoderne i 2015, for å ikke snakke om at det gir en litt billig-følelse (og prisen er nærmere 1.200 kroner). 
+
+Du må dessuten ta aktivitetsmåleren ut av armbåndet når du skal lade den, noe vi helst skulle vært foruten. 
+
+Standard ladeplugg 
+
+På den annen side skjer lading via micro-usb-kontakt; noe de fleste har liggende nå til dags, eller som er enkelt å få tak i. 
+En del andre aktivitetsarmbånd, som de fra Fitbit og Jawbone, bruker en særegen ladekabel eller ladedokk, som det er vanskelig å få kjøpt erstatninger til. 
+
+SmartBand 2 skal i motsetning til en del andre aktivitetsarmbånd være helt vanntett, og kan brukes i ferskvann ned til 3 meter i opptil 30 minutter. 
+De fleste konkurrenter er typisk bare vannbestandige, det vil si at de tåler regn og svette. 
+
+For enkel app? 
+
+SmartBand 2 er et aktivitetsarmbånd uten skjerm. 
+Med andre ord kan du ikke se hvor mange skritt du har gått eller hvor lenge du har sovet uten å bruke den tilhørende SmartBand 2 SWR12-appen, tilgjengelig for både Android og iOS. 
+
+Sonys app er enkel, på godt og vondt. 
+Den er forsåvidt lett å bruke, men gir lite og for dårlig innsikt i din daglige aktivitet. 
+
+Du kan se hvor mange skritt du har gått hver dag denne uka og forrige uke, men hva gjør du så med det? 
+Du får ikke tips til forbedring som hos Jawbone. 
+Du får faktisk ikke omregnet skrittene til avstand engang. 
+
+Du premieres heller ikke etter hvert som du oppnår ulike mål, som hos eksempelvis Fitbit. 
+Det er heller ingen sosiale funksjoner som lar deg konkurrere mot venner. 
+
+For målgruppen, altså hobbymisjonisten, ville flere slike detaljer økt nytteverdien og ikke minst motivasjonen betraktelig. 
+
+På Android er det lagt opp til at du skal bruke Sonys LifeLog-app i tillegg, og denne gir faktisk noe mer detaljert informasjon, men to apper er én for mye i våre øyne. 
+
+Optisk pulsmåling 
+
+Den store nyheten til SmartBand 2 er optisk pulsmåler. 
+Den er ikke like nøyaktig som pulsmålingen du får via pulsbelte, og våre tester viste et avvik på 5-10 pulsslag. 
+Den kan likevel gi en grei indikasjon på hvor pulsnivået ligger. 
+
+Vi opplever imidlertid at pulsmålingen ramler ut under treningsøkter. 
+Under en timeslang løpetur var det nesten ingen registrering av puls overhodet. 
+Armbåndet lagrer heller ikke treningsøkter med puls, så det er ingen mulighet for historiske analyser. 
+
+Nå er ikke et aktivitetsarmbånd med pulsmåling nødvendigvis et direkte alternativ til en pulsklokke. 
+Pulsmålingen her skal være mer for å kunne gi et riktigere bilde av hvor mange kalorier du forbrenner i løpet av en dag. 
+
+Men de beste aktivitetsarmbåndene vil kunne gi gode nok målinger til at hobbymosjonisten kan dra ut målrettet pulstrening kun med dette. 
+
+Sony bruker dataene til å anslå spennings- og stressnivået ditt i løpet av dagen. 
+Akkurat det liker vi ganske godt, selv om vi kunne ønske oss at appen ga tips til hvordan vi eventuelt kunne blir mer avslappet. 
+
+For øvrig blir gange og jogging logget automatisk. 
+Skrittellingen virket ganske nøyaktig, men vi savner at den også registrerer antall trappetrinn vi har gått. 
+Og det var ikke alltid den fikk med seg at vi hadde løpt. 
+
+Hva vibrerer egentlig? 
+
+Som forgjengeren har SmartBand 2 vibrasjonsvarsler for innkommende anrop og tekstmeldinger. 
+Du kan også få varsler fra tredjepartsapper på mobilen. 
+
+Uten skjerm er det imidlertid vanskelig å se hva slags type varsel det er. 
+Det finnes små LED-lys på armbåndet som skal indikere om noen ringer eller sender melding, men du må vri håndleddet for å kunne se det. 
+Vi tar heller opp telefonen. 
+
+Armbåndet har automatisk søvnregistrering, men denne virker også for sensitiv, og flere ganger trodde den at vi sov når vi på kveldstid bare satt i sofaen og så på tv. 
+
+«Smart vekking»-funksjonen, som bruker søvnmønstreret ditt til å vekke deg når du sover lett, er svært nyttig, men vibreringen er ikke spesielt diskret, så den kan også vekke sidemannen under vekkingen (noe vi faktisk opplevde flere ganger). 
+
+Dårlig batteritid 
+
+Det mest skuffende med SmartBand 2 er imidlertid batteritiden. 
+Med pulsmåling aktivert holder den kun to dager av gangen, mens konkurrenter som Fitbit Charge HR, Jawbone UP3 og Polar A360 holder i alt fra fire dager til over en uke. 
+
+Den skal holde fem dager i såkalt stamina-modus, som er når du skrur av pulsmåling, men det ønsker vi i grunn ikke å gjøre. 
+
+Konklusjon 
+
+Selv om noen sikkert vil ha nytte av Sony SmartBand 2, gjør den etter vår mening ikke jobben som aktivitetsarmbånd spesielt godt, i hvert fall ikke etter dagens standarder. 
+Ikke minst er det vanskelig å få et aktivt forhold til bevegelse når man ikke har en skjerm å følge med på i løpet av dagen. 
+
+Når SmartBand 2 koster omtrent like mye som aktivitetsarmbånd med skjerm, for eksempel Fitbit Charge HR, har vi vanskelig for å gi vår anbefaling denne gangen. 
+Litt upålitelige målinger, lite gjennomførte apper og dårlig batteritid trekker også ned. 
+
+Sony Smartband 2 SWR12 

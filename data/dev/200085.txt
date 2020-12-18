@@ -1,0 +1,90 @@
+Intel Core i3-6300 «Skylake»
+Glimrende prosessor-valg for selvbyggere. 
+
+Sjette generasjon Intel Core-prosessorer - kodenavn «Skylake», har vært i butikkene siden tidlig i høst, og begynner nå å bli vanlige i stadig flere bærbare PC-er. 
+Men også i stasjonære er Skylake-prosessorer høyaktuelle for tiden. 
+Vi har kjørt noen testrunder med en av de aller mest populære medlemmene i serien, budsjettmodellen Core i3-6300. 
+
+Dette er nytt 
+
+Skylake etterfølger Broadwell-generasjonen, og skal både yte bedre, kreve mindre strøm og by på vesentlig raskere grafikkhåndtering. 
+Prosessorene krever hovedkort med ny prosessorsokkel 
+- Socket 1151. 
+
+For deg som ønsker å oppgradere en eldre PC, er det greit å vite at de fleste hovedkortene også krever nye minnebrikker - DDR4 SDRAM. 
+Den gode nyheten er at minneprisene er svært lave for øyeblikket, du vil uten problemer finne 16 GB RAM fra kvalitetprodusenter til godt under tusenlappen. 
+
+Vårt testoppsett 
+
+Til vår test benyttet vi et ASRock H170M Pro4 hovedkort til 1195 kroner. 
+Årsaken til at valget falt på nettopp dette hovedkortet, er at det har integrert DisplayPort 1.2-skjermutgang og støtte for lynraske SSD-er i M.2-utforming (både PCIe og SATA). 
+
+DisplayPort 1.2 var viktig da vi skulle teste PC-en mot en 40-tommer 4K-skjerm fra Philips. 
+
+Prosessoren ble testet med medfølgende standardkjøler og vifte fra Intel. 
+
+Til systemminne valgte vi et 8 GB-sett fra Crucial (2 x 4 GB - 2133MHz). 
+Hovedkortet har fire minnespor, så her kan vi eventuelt supplere med mer minne senere hvis det skulle bli behov for det. 
+
+Som systemdisk valgte vi en Samsung 850 EVO SSD med kapasitet på 250 GB. 
+Denne kan du lese en egen test av her. 
+
+Totalt snakker vi om en oppgraderingskostnad på rundt 4.000 kroner, avhengig av hvilke(n) forhandlere du bruker, og hvis du har kabinett og strømforsyning fra før. 
+
+Strømgjerrig og stillegående 
+
+Intel Core i3-6300 er en dobbelkjernet prosessor med klokkehastighet på inntil 3,8 GHz, med maksimal strømbruk på 47W. 
+Takket være lavt strømforbruk er varmeutviklingen svært moderat, og prosessoren egner seg derfor godt i kompakte kabinetter, og bør absolutt vurderes for deg som er allergisk mot PC-støy. 
+
+I BIOS-oppsettet på hovedkortet vi benyttet, kan du velge mellom forskjellige kjøleprofiler: 
+
+Velger du «Silent», kan du oppleve at det kan gå timer mellom hver gang prosessorvifta i det hele tatt roterer, hvis belastningen er liten til moderat, og kabinettet ellers har grei utlufting. 
+I praksis lå temperaturen i vårt tilfelle stort sett mellom 60 og 70 grader uten aktiv kjøling. 
+Dette kom som en meget positiv overraskelse. 
+
+Velger du kjøleprofilen «Performance» vil prosessorvifta derimot gå konstant, temperaturen senkes betraktelig (til 40-50 grader i vårt tilfelle) og prosessoren vil også yte noe bedre. 
+
+Kraftig nok til det meste 
+
+Det bringer oss over på neste punkt, ytelsester. 
+Vi valgte først kjøleprofilen «Performance» og kjørte deretter ytelsesmåleren Passmark Performance Test. 
+Den gir et meget bredt og sammenlignbart bilde av ytelsene under forskjellige forhold. 
+Den måler også 2D og 3D-grafikkytelsen til den integrerte grafikkprosessoren Intel HD 530. 
+
+I diagrammene under har vi sammenlignet ytelsestallene våre med andre aktuelle prosessorer, slik at du kan danne deg et bilde av hva du kan forvente deg: 
+
+Passmark kategoriserer prosessoren som «high end», til tross for at den prismessig tilhører mellomsegmentet. 
+I diagrammet har vi tatt med to av de mest populære prosessorene i bærbar-segmentet (Core i5 og i7), som begge ligger godt bak i3-6300 i ytelse. 
+Det er greit å være klar over at det fortsatt er vesentlige forskjeller på stasjonær og bærbar ytelse. 
+
+For sammenligning mot flere prosessorer, klikk her. 
+
+Vi kjørte deretter testen på ny, denne gangen med kjøleprofilen Silent. 
+Selv under de tyngste testene startet viften bare et par ganger, og spant aldri mer enn i 8-10 sekunder. 
+I diagrammet under ser du hva du mister av ytelse ved å velge denne mer eller mindre vifteløse profilen: 
+
+Grafikkytelsen er nær doblet siden 5. generasjon Intel HD-grafikk, og byr på 3D-ytelse i nærheten av den noen år gamle dedikerte grafikkbrikken AMD Radeon HD 5670. 
+Den ligger imidlertid langt bak Geforce GTX950-brikken, som sitter på mange dedikerte grafikkort til rundt 1.600-1.700 kroner: 
+
+For sammenligning mot flere grafikkbrikker, klikk her. 
+
+Men hvor god er grafikkytelsen i praksis? 
+Den hadde ingen problemer med å drive vår 4K-skjerm i 60Hz under noen av testene våre, 4K-video flyter helt strøkent - uten at prosessoren blir nevneverdig belastet. 
+Og hva 3D-ytelse angår, får du et godt bilde av den i videoen under: 
+
+Vi gjør oppmerksom på at spillet i videoen, Left4Dead II, er noen år gammelt. 
+Men det var ingen problemer å spille det i full HD-oppløsning (1920 x 1080 piksler). 
+Titler som Fallout New Vegas og Skyrim Elder Scrolls kunne også spilles i full HD-oppløsning, men noe redusert detaljnivå kan være nødendig for å unngå framedrops i de aller mest krevende sekvensene. 
+
+I nyere, krevende spill kan det være nødendig å gå ned på oppløsningen til 720P. 
+Vi er uansett temmelig imponerte over hva du får - rett fra prosessoren! 
+
+Konklusjon 
+
+Vi har testet de fleste Core i-generasjonene, men aldri blitt mer overbeviste enn denne gangen. 
+Spesielt imponert er vi av ytelsen til den interne grafikken, samt den lave varmeutviklingen. 
+
+Core i3-6300 er rett og slett et glimrende valg for deg som ønsker å oppgradere en tilårskommen PC, eller ønsker å bygge en ny, kompakt og støysvak maskin. 
+Den byr på mer enn god nok ytelse til de aller fleste behov, inkludert tyngre oppgaver som 4K-video og moderat gaming. 
+
+Intel Core i3 6300 3,8GHz Socket 1151 Box 

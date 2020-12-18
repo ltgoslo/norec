@@ -1,0 +1,86 @@
+TEST:Netgear R8000 
+
+Den er kanskje ikke den peneste, men vi har virkelig sansen for antenneløsningen på denne ruteren. 
+
+Dette er én av tre trådløse rutere som ble testet i DinSide august 2015. 
+Du finner oversikten her. 
+Testvinneren finner du her. 
+
+Netgear var tidlig ute med AC3200-ruteren R8000, som er den siste av de tre ruterne vi har hatt på testbenken denne gangen. 
+
+I motsetning til de to andre har denne ikke løse antenner. 
+Mer om det litt senere, først noen tørre fakta om ruteren: 
+
+Modell: 
+Netgear R8000 Standarder: 
+802.11a/b/g/n/ac Antenner: 6 USB-porter: 1 x USB 2.0 + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Størrelse: 295,5 × 226,8 × 54,5 mm Vekt: 
+1,1kg 
+
+Designmessig er den kanskje ikke så veldig spenstig, og merk at den ruver mest av de tre. 
+Den kan imidlertid også henges på vegg. 
+
+De integrerte antennene er virkelig smarte. 
+De brettes ganske enkelt opp når ruteren er i bruk, og ned når den skal fraktes eller stues bort. 
+Dermed ser den rett og slett mer «ryddig» ut, også under bruk. 
+Ulempen er at disse ikke er utbyttbare, noe vi tror vil være et ankepunkt for svært få. 
+
+Netgear anbefaler at antennene peker rett opp. 
+I vårt tilfelle opplevde vi noe bedre hastighet to etasjer ned ved å brette dem litt ut på sidene. 
+
+Betydningen av hvert LED-lys på toppen er godt merket, og her finner du også lett tilgjengelige knapp for å skru av/på trådløst nett, samt WPS-knapp for enkel oppkobling av enheter uten å måtte taste nettverksnøkkel: 
+
+Alle tilkoblingene sitter i bakkant, og her finner du også av/på-knapp og en knap for å skru av de blinkende LED-lysene: 
+
+Oppsett og installasjon 
+
+Ruteren leveres med en detaljert hurtig-guide på engelsk. 
+I motsetning til de to andre ruterne, må du faktisk her forstå engelsk for å sette den opp, noe som er et ankepunkt for enkelte. 
+
+Oppsettet er veiviserbasert, og den starter på engelsk. 
+Du kan imidlertid bytte til norsk i prosessen, men da må ruteren ha kontakt med Internett, for språkpakken må lastes ned. 
+Dette tok bare et par minutter i vårt tilfelle. 
+
+I prosessen fikk vi også spørsmål om å oppdatere til nyeste firmware. 
+Kudos til Netgear for samtidig å fortelle oss hvilke forbedringer denne oppdateringen bød på. 
+
+Selve web-grensesnittet er temmelig enkelt og rett frem, nesten like enkelt som Asus sitt, vil vi påstå: 
+
+Merk at du også kan laste ned et eget program, Netgear Genie, for å administrere ruteren. 
+Denne byr på et utvalg vanlige funksjoner, og kommer også som app til iPhone og Android: 
+
+Har du en Windows-PC, kan du også laste ned programmet ReadyShareVault, som byr på sanntids sikkerhetskopiering til en eventuell USB-nettverkslagringsdisk i ruteren. 
+
+For øvrig er funksjonaliteten generelt god, selv om enkelte ting ikke er like tilgjengelige som på Asus-ruteren, for eksempel detaljert styring av tilgangstider for hver klient. 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi målte ytelsen på fem forskjellige steder i og utenfor huset, og i samme rom oppnådde vi hastigheter på inntil 411Mpbs - over 51MB i sekundet. 
+Det er det nest raskeste tallet i denne testen, kun slått av Asus som klarte 60. 
+Hastigheten holdt seg også godt én etasje ned, men i kjelleren hadde hastigheten tapt seg mer enn hos konkurrentene: 
+
+Vi målte også hastigheten fra en benk rundt 75 meter fra huset, på det beste var den på rundt 1-2 Mbps, men oppkoblingen var svært ustabil - akkurat som for de to andre ruterne. 
+
+Med iPhone 6 Plus kunne vi utnytte internetthastigheten til fulle i huset. 
+Utenfor ble hastigheten noe redusert, og fra benken fikk vi kun svært sporadisk kontakt: 
+
+Å bruke ruterens USB-porter til nettverkslagring er en genial måte å dele filer i hjemmenettet. 
+Det er også ypperlig å bruke slik lagringsplass til å sikkerhetskopiere data som du vil ta vare på. 
+Denne støtter også Apples backupløsning Time Machine. 
+
+Dette er spesielt interessant på nye rutere, som ofte har kraftige prosessorer og kan dermed by på god lese/skriveyelse. 
+
+Netgear R8000 viste seg å være raskest av de tre ruterne på lesing fra USB-minnepluggen. 
+Skrivehastigheten var imidlertid langt lavere, noe som skuffet oss litt: 
+
+Konklusjon 
+
+Netgear-ruteren vil bli husket for sin smarte antenneløsning. 
+Den er brukervennlig, byr på gode hastighetheter og rekkevidde, og har dessuten testens høyeste lesehastighet fra USB-nettverkslagring. 
+
+Den holdt ikke like godt på hastigheten to etasjer ned som konkurrentene, og vi skulle gjerne sett at den kom med en norskspråklig hurtigguide. 
+For øvrig er vi godt fornøyd med produktet. 
+
+Netgear Nighthawk X6 R8000 

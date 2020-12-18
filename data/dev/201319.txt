@@ -1,0 +1,145 @@
+Microsoft Lumia 950 XL
+Den siste uken har vi gjort oss godt kjent med Microsofts nye mobil-flaggskip. 
+Men hvor imponert er vi egentlig? 
+
+Du verden som jeg har gledet meg til å teste Microsoft Lumia 950. 
+
+Helt siden i vår har jeg hatt den rimelige Lumia 640 som backup-telefon til min iPhone, og selv om jeg savner en del apper har jeg vært meget godt fornøyd med den. 
+Den tar blant annet meget gode bilder, oppleves som rask nok i de fleste situasjoner - og den kostet meg under 1.500 kroner. 
+
+Nå har jeg hatt flaggskipet Lumia 950 mellom hendene siste uken, og med all den forhåndshypen telefonen har fått, har jeg hatt store forventninger. 
+Skal dette bli mobilen som for alvor vil sette Microsoft på mobilkartet? 
+
+La oss ta de tørre fakta først: 
+Mobilen kommer i to utgaver, 950 med 5,2 tommer skjerm og 950 XL med 5,7 tommer skjerm. 
+Foruten størrelsen er de to mobilene svært like - men det er XL-utgaven jeg har brukt siste uken. 
+
+Dette får du 
+
+950 XL er, som navnet antyder, en stor mobil (151 x 78 x 8,1 mm - 165 gram) med 5,7 tommer AMOLED-skjerm med et stort dynamisk omfang og oppløsning på 2.560 x 1.440 piksler. 
+Det gir en pikseltetthet på 518 ppi, som er så smått og tett at det er ikke mulig for øyet å skille pikslene fra hverandre. 
+I praksis betyr det ekstrem god skarphet og fine overganger. 
+
+For øvrig har mobilen en Snapdragon 810 prosessor med åtte kjerner og klokkehastighet på 2 GHz, 3GB RAM og 32GB internlager som kan utvides til 232GB ved hjelp av et minnekort. 
+Dette er definitivt spesifikasjoner som er en toppmodell verdig. 
+Du finner alle detaljene om maskinvaren hos Microsoft. 
+
+Flott skjerm 
+
+Skjermen er rett og slett meget bra, og med en størrelse på 5,7 tommer vil enda flere legge igjen nettbrettet sitt hjemme. 
+Likevel har ikke mobilen større fotavtrykk enn flere andre mobiler med litt mindre skjerm, takket være tynn ramme på sidene. 
+Skjermen utgjør drøye 76 prosent av det totale fotavtrykket; blant det aller beste på markedet. 
+
+Den eneste lille innvendingen vi har mot skjermen, er at på helt lyse bilder får den et tydelig grønnskjær dersom du betrakter den fra meget skrått hold. 
+Dette er på den annen side ikke uvanlig for AMOLED-skjermer. 
+
+Plastic fantastic 
+
+Panelet er godt beskyttet bak glass av typen Gorilla Glass 3, mens baksiden av mobilen er av plast med matt overflate. 
+Det gir litt trekk i premium-følelsen, men løsningen har også sine fordeler. 
+
+Baksiden er i praksis et utbyttbart deksel, og du kan bytte det ut og dermed lage din egen personlige vri på designen. 
+Vi har til og med sett deksler av skinn. 
+
+Sim-kort (denne gangen nano-sim) og spor for microSD-kort, sitter bak dekslet. 
+Sistnevnte støtter kort på inntil 200GB, som er det største på markedet akkurat nå, og du kan velge at alt av apper og brukerdata skal lagres dit, hvis du begynner å gå tom for plass internt. 
+
+Lades lynkjapt 
+
+Bak dekslet får du dessuten tilgang til det utskiftbare batteriet (burde vært obligatorisk på alle mobiler, spør du meg) med anstendig kapasitet på 3.340 mAh. 
+Det er imponerende at mobilen er utstyrt med USB C-port, støtter USB 3.1, og at batteriet lades til 100 prosent innen en time - uansett hvor tomt det er. 
+Laderen som følger med er nemlig på 3A (15W). 
+
+Jeg er imidlertid ikke superimponert over batteritiden, som med aktiv bruk og noen samtaler måtte lades etter halvannet døgn - omtrent det samme som for min iPhone 6s - som har et batteri med mye lavere kapasitet. 
+
+Og skal jeg være ordentlig pirkete: 
+USB C er vel og bra, men det er litt slark i tilkoblingen til mobilen. 
+Neppe noe stort problem, heller en liten detalj som bør jobbes med til neste flaggskipmodell fra den kanten. 
+
+Merk også at USB C-kabler foreløpig er dyre og ikke så tilgjengelige som microUSB-kabler, som lenge har regjert på mobilfronten. 
+
+Noe Microsoft ikke behøver å jobbe så mye med til neste gang, er samtalekvaliteten. 
+For å sette 950 XL «på prøve» testet vi mot en fasttelefon (begge i Telenors nett), og lydkvaliteten var helt upåklagelig. 
+Fra mobil til mobil er den mer variabel, men begrenseningene ligger her ikke i mobilen - men i nettet. 
+
+Flott, men buggy kamera 
+
+Objektivet og blitsen sitter i en markant ring på baksiden, som bygger et par millimeter i høyden. 
+Bakdekslet bygger enda en millimeter rundt dette, og gir dermed en ørliten ekstra beskyttelse. 
+
+Blitslampen sitter en liten centimeter fra frontlinsen. 
+For å unngå røde blitsøyne kan det ofte være smart å ha litt større avstand mellom frontlinse og blits, men takket være et lyssterkt objektiv (f1,9) er det sjelden noe behov for å bruke blits uansett. 
+En kjekk ting med blitsen er at den kan lyse i alle farger, slik at fargene i bildet i større grad beholdes selv om du bruker blits, i motsetning til at ansikter blir kritthvite, som ofte kan være tilfelle på andre telefoner. 
+
+Bildekvaliteten er som ventet meget bra, og tåler sammenligning med de beste under alle lysforhold. 
+Spesielt imponert er vi over den automatiske hvitbalansen og ytelsene i mørke omgivelser. 
+
+Autofokus er som regel lynkjapp, og selv om du bruker blits er det minimal forsinkelse fra du trykker på knappen til bildet blir tatt. 
+Standard oppløsning er 16 megapiksler (16:9-format), men du kan velge 4:3-format og få bildefiler bestående av 19 megapiksler. 
+
+Merk også at du kan ta såkalte «levende bilder», der en liten videosnutt på et lite sekund bakes inn i JPEG-bildefilen. 
+Det betyr at kameraet begynner å filme like før du trykker utløseren. 
+Det er ikke så mange bildeprogrammer som støtter visning av slike levende bilder (som fort stjeler noen megabytes av lagringsplassen), men den innebygde bildeviseren i Windows 10 gjør det. 
+Andre bildeprogrammer vil kun gjenkjenne bildedataene i filene. 
+
+Men - og det er et stort men her: 
+Kamera-appen er buggy. 
+Vi har opplevd å ta bilder i en rask serie, der halvparten av bildene har fått lav oppløsning, levende bilder ikke har fungert, og kamerarull-mappen har i ettertid vist seg å være full av midlertidige filer - enkelte flere megabytes store. 
+Dette er feil vi forventer Microsoft har adressert og vil fikse i nær fremtid. 
+
+Under ser du noen eksempelbilder. 
+Senere kommer vi med en sammenligning av bildekvaliteten mot andre, aktuelle toppmodeller i markedet. 
+
+Første med Windows 10 Mobile 
+
+Lumia 950 og 950 XL er de første på markedet som er basert på det rykende ferske operativsystemet Windows 10 Mobile. 
+
+Windows 10 Mobile har et lettfattelig og grei brukergrensesnitt, der fliser (noen av dem med live-oppdateringer) i forskjellige størrelser dekker hjem-skjermen. 
+
+Et sveip mot venstre åpner en alfabetisk sortert liste over installerte apper. 
+Trykker du og holder på en app, kan du avinstallere eller legge den på hjem-skjermen. 
+Det er logisk, pent og ryddig - og miljøet er velkjent for alle som er vant med Windows Phone 8.1. 
+
+Windows 10 Mobile byr imidlertid på en rekke nyheter, med blant annet full Microsoft Office og mobilversjoner av flere av de nye Windows 10-appene, som musikkappen Groove og nettleseren Edge. 
+
+Mest spennende synes jeg er støtten for Continuum, som lar deg koble mobilen til skjerm, tastatur, mus og bruke mobilen som en slags PC (her kommer Office-pakken til sin rett), samt Windows Hello - som lar deg logge på ved hjelp av et blikk på frontkameraet. 
+
+Hvordan Continuum fungerer i praksis, vil du senere kunne lese om i en egen artikkel her på Dinside, men når det gjelder Windows Hello er jeg imponert. 
+Det tar som regel bare et sekund eller to før telefonen kjenner igjen øynene mine, sier "Hei Bjørn Eirik" og låser opp mobilen. 
+
+Uferdig 
+
+Merk imidlertid at Windows 10 Mobile-systemet har et stykke igjen før det er ferdig. 
+Det vil du merke på flere vis - for eksempel er det til tider litt mye venting på at enkelte funksjoner eller oppgaver skal fullføres - deriblant oppdateringer fra Windows Store (som bare feilet fram til jeg gjenopprettet mobilen til fabrikkinnstillingene), dårlige oversettelser og apper som krasjer eller oppfører seg merkelig. 
+
+For eksempel spilte Groove-appen musikk selv etter at jeg har foretatt en tvungen avslutning, og Onedrive har utelatt bilder fra den automatiske sikkerhetskopieringen. 
+Ved ett tilfelle krasjet Windows 10 Mobile helt og mobilen skrudde seg deretter av. 
+Litt kjedelig når mobilen ligger i lomma og du venter på en innkommende samtale ... 
+
+Alt dette gjør at vi sitter igjen med en følelse av at mobilen har blitt sluppet i tidligste laget. 
+
+I løpet av de dagene jeg har brukt mobilen, har hele 33 av standardappene fått oppdateringer. 
+Det er med andre ord helt på det rene at Microsoft jobber på spreng for å få fullført operativsystemet til det om noen dager skal rulles ut på en rekke Windows-mobiler. 
+
+Problemene vil garantert bli færre etter hvert, jeg er egentlig mer bekymret for alle de andre appene i Windows Store. 
+Her ligger Microsoft langt bak Apple og Google, både når det gjelder utvalg og kvalitet på appene. 
+Dette er et vesentlig drawback for alle som er oppdatt av å henge med på app-fronten, noe vi vet at svært mange er. 
+Dette problemet kan du for øvrig lese mer om i denne kommentaren. 
+
+Konklusjon 
+
+Det er ingen tvil om at Lumia 950 XL har mange gode sider. 
+Best vil jeg huske den flotte skjermen, gode brukervennligheten og en bildekvalitet som på sitt beste er svært høy sett i forhold til nær sagt alt av konkurranse. 
+
+Dessverre vil jeg også huske svakhetene, som i stor grad (forhåpentligvis) er knyttet til et uferdig operativsystem og enkelte uferdige apper. 
+
+Og når jeg først er inne på apper - så må Microsoft løse utfordringene med manglende og/eller halvgode apper. 
+Vi har hørt mange ganger at problemene snart skal være historie, men det får nesten være grenser på hvor tålmodig publikum skal være. 
+
+Slik totalsituasjonen ser ut i dag, er dette først og fremst en mobil for Windows mobil-entusiaster, og dem er det langt færre av enn det kunne ha vært. 
+Det er også verdt å nevne at dette er en mobil til 6.500 kroner (950 XL). 
+Det er mer enn fire ganger dyrere enn min Lumia 640, men de små forskjellene i kvalitetsfølelsen skulle tilsi at prisforskjellen var langt mindre. 
+
+Legg til at programvaren er uferdig, og vi kan pr nå ikke lande på noe annet enn en svak firer på terningen. 
+
+Microsoft Lumia 950 XL 

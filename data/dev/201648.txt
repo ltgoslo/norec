@@ -1,0 +1,75 @@
+Asus RT-AC3200
+Toppmodellen fra Asus byr på meget høye hastigheter og er enkel i bruk. 
+
+Dette er én av tre trådløse rutere som ble testet i DinSide august 2015. 
+Du finner oversikten her. 
+Testvinneren finner du her. 
+
+Asus sine rutere kommer som regel godt ut i våre tester, både når det gjelder brukervennlighet og ytelse. 
+Toppmodellen RT-AC3200 er som ventet intet unntak, men vinner ikke på alle punkter. 
+
+Før vi setter i gang, her er en kjapp oversikt over de viktigste egenskapene: 
+
+Modell: Asus RT-AC3200 Standarder: 802.11a/b/g/n/ac Antenner: 6 USB-porter: 1 x USB 2.0 + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Størrelse: 289 x 187 x 58 mm Vekt: 
+1kg 
+
+Ruteren har liggende design, men kan også henges vertikalt på vegg. 
+Den har seks antenner, fire bak og én på hver side. 
+I motsetning til de andre ruterne har den USB 3.0-porten i fronten til høyre: 
+
+I utgangspunktet er det enkelt å berømme Asus for enkel tilgang til for eksempel ekstern lagring, men i praksis kan det fort se litt rotete ut. 
+Porten er heller ikke så lett tilgjengelig, takket være den skrånende fronten og at den i tillegg er dekket bak et gummilokk. 
+
+På motsatt side i fronten sitter det to knapper, én som aktiverer/deaktiverer det trådløse nettet, og en for å skru av/på LED-belysningen i front. 
+Det har vi sansen for: 
+
+På baksiden sitter de andre tilkoblingene, inkludert WPS-knapp for enkel og sikker tilkobling uten å måtte taste nettverksnøkkel. 
+
+Oppsett og installasjon 
+
+Det følger med en oversiktlig og grei hurtigstart-veiledning på en rekke språk, inkludert norsk. 
+
+Følger du denne, er du klar til å begynne å konfigurere ruteren på få minutter. 
+
+Konfigurasjonen skjer via nettleseren, og er veiviser-basert. 
+I prosessen blir du spurt om du vil sjekke om det har kommet en oppdatert firmware, noe vi definitivt vil anbefale å svare ja til. 
+Erfaringsmessig kan en ny firmware ha stor betydning for stabiliteten, og i noen tilfeller også tilføre ny funksjonalitet og øke ytelsen. 
+
+Brukergrensesnittet er etter vår mening blant de beste på ruter-markedet, og her finnes et vell av funksjoner og innstillinger for deg som ønsker å utforske mulighetene: 
+
+En funksjon vi vet mange foreldre setter pris på, er muligheten til å tidsstyre tilgang til Internett for spesielle enheter. 
+På den måten kan du for eksempel hindre at poden går på nett etter leggetid, mens du selv har full tilgang. 
+
+Du kan også konfigurere tjenesten AiCloud, og få tilgang til nettverket ditt via Internett, både fra PC, nettbrett og mobil. 
+Du kan for eksempel streame filmer og musikk, eller laste opp bilder fra mobilen. 
+
+Sikkerhetsfunksjonaliteten fra Trend er også god, og kan stoppe en rekke trusler før de kommer inn i nettet ditt. 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi målte ytelsen på fem forskjellige steder i og utenfor huset, og i samme rom oppnådde vi hastigheter på inntil 484Mpbs - over 60MB i sekundet. 
+Det er det raskeste vi har målt noen gang, og en god del raskere enn de andre to i testen. 
+Hastigheten holdt seg også godt de andre stedene, kun på terassen var hastigheten litt bak den beste: 
+
+Vi målte også hastigheten fra en benk rundt 75 meter fra huset, på det beste var den på rundt 1-2 Mbps, men oppkoblingen var svært ustabil - akkurat som for de to andre ruterne. 
+
+Med iPhone 6 Plus kunne vi utnytte internetthastigheten til fulle i og rett utenfor huset, men vi fikk ikke kontakt med ruteren fra benken 75 meter unna: 
+
+Å bruke ruterens USB-porter til nettverkslagring er en genial måte å dele filer i hjemmenettet. 
+Det er også ypperlig å bruke slik lagringsplass til å sikkerhetskopiere data som du vil ta vare på. 
+Denne støtter også Apples backupløsning Time Machine. 
+
+Dette er spesielt interessant på nye rutere, som ofte har kraftige prosessorer og kan dermed by på god lese/skriveyelse. 
+
+Asus RT-AC3200 viste seg å være tregest av de tre ruterne på denne testen, men over 30MB i sekundet er for eksempel mer enn nok til å streame flere HD-videoer samtidig: 
+
+Konklusjon 
+
+Denne ruteren er svært enkel å sette opp og bruke, den er funksjonsrik og byr på trådløsytelse som ligger helt i toppen i nær sagt alle situasjoner. 
+
+Det vi ikke liker er USB-porten i fronten, samt at ytelsen på nettverkslagring via USB kunne vært høyere. 
+
+Asus RT-AC3200 

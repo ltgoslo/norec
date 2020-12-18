@@ -1,0 +1,156 @@
+Dell XPS 13 (2015-utgaven)
+En særdeles lekker bærbar PC med nærmest kantløs skjerm. 
+
+Da CES-messen gikk av stabelen rett over nyttår, samlet vi de fem PC-ene vi synes var mest spennende på messen i én artikkel. 
+
+En av dem var Dells nye XPS 13-maskin, som imponerte oss på grunn av en særdeles tynn kant rundt skjermen. 
+
+Dell hevder at maskinen er verdens minste 13-tommer, og på innsiden er det ikke spart på mye. 
+Blant annet har XPS 13 en skjerm med oppløsning på 3200x1800 (svært skarp) og siste generasjon Intel Core i7-prosessor. 
+
+Maskinen er oppgitt å være 9-15mm tykk og veier snaue 1,3kg, eller 1,26 for å være nøyaktig. 
+
+Gode tall betyr også at denne ultrabooken er blant de dyrere PC-ene i markedet. 
+Maskinen fås i en håndfull konfigurasjoner, men vår testmodell koster 12.500 kroner i Dells nettbutikk, da med 8GB RAM og 256GB SSD-disk. 
+
+I strupen på Macbook 
+
+Førsteinntrykket da vi pakket Dell XPS 13 ut av esken var svært positivt og levnet liten tvil om at dette er en relativt kostbar maskin. 
+Som du ser på bildet over er det lett å trekke paralleller til Apples Macbook-maskiner, med en uniform aluminiumsoverflate (riktignok ikke på innsiden) og logoen trykket midt på baksiden. 
+
+Sammenligningen mot Apple er forøvrig ikke noe vi har funnet på. 
+Dell anser nemlig Apples alternativer som denne maskinens største konkurrent, og på informasjonssidene er det flere henvisninger til Apple når de blant annet sammenligner størrelse og vekt. 
+
+Og Dell XPS 13 trenger det lengste strået i flere sammenligninger. 
+Setter vi den side om side med nevnte Macbook Pro (samme pris, kr 12.500,-), får vi følgende tall: 
+
+Noe bedre grafikkprosessor og flere porter taler i favør Apple, men med både høyere skjermoppløsning (og berøringsskjerm), dobbelt så mye lagringsplass og mindre fysisk format både med tanke på størrelse og vekt vil vi anta at de fleste er enige i at XPS 13 kommer godt ut av sammenligningen. 
+I følge Passmarks oversikt er prosessorytelsen ganske lik. 
+
+Ja, faktisk er Dell-maskinen også lettere enn 13-tommersutgaven av Macbook Air, men byr på fire ganger så høy oppløsning på skjermen (som er berøringsfølsom), vesentlig bedre prosessor og dobbelt så mye arbeidsminne til en relativt lik prislapp. 
+
+Men! 
+Vi må understreke at tallene Dell oppgir hva gjelder tykkelse på maskinen må tas med en klype salt. 
+
+Bare se her, der vi legger maskinen side om side med Macbook Pro 13": 
+
+Som du ser er Apple-maskinen tynnere, til tross for en oppgitt tykkelse på 18mm vs 9-15mm på Dell-maskinen. 
+Det ser nemlig ut til at Dell lar være å ta med de to lange «føttene» på undersiden av maskinen i sin måling av tykkelsen. 
+Disse sørger for at maskinen løftes litt opp fra bordet og sørger for bedre ventilasjon til vifta på undersiden, men burde etter vår mening være inkludert i målingen. 
+
+Og selv om Dell oppgir 12 timers batteritid på denne maskinen, det samme som på Macbook Air, skal vi se senere at det er snakk om helt forskjellig bruksmønstre de to sikter til. 
+
+Føles solid 
+
+Som vi forventer av en maskin i denne prisklassen føles Dell XPS 13 velbygd og solid. 
+Tastaturet virker særdeles romslig til å være plassert i et såpass lite chassis og har godt med mellomrom mellom tastene. 
+Det er komfortabelt å skrive på, avgir lite lyd og er bakbelyst, som kan være kjekt om du sitter i mørke omgivelser. 
+
+Men det er størrelsen som virkelig imponerer på denne maskinen. 
+Siden skjermen har såpass tynne kanter rundt seg, har Dell klart å spare plass også på den nedre delen slik at det heller ikke er veldig mye på sidene av tastaturet. 
+Resultatet er en liten og hendig maskin som en nesten skulle tro var en 11-tommer ved første øyekast, men som altså har en 13" skjerm. 
+
+Her ser du den for eksempel side om side med nevnte Macbook Pro 13": 
+
+Merkelig er det dog at Dell har valgt å plassere webkameraet helt nederst til venstre. 
+Grunnen er selvsagt at det ikke er plass til kameraet på toppen med en såpass tynn ramme, men med et kamera så langt nede vil de færreste se veldig vakre ut i videosamtaler. 
+Dessuten får motparten også med seg hendene dine om du skriver på tastaturet samtidig. 
+
+Skjermen oppleves som meget god. 
+IPS-panelet gir god innsynsvinkel fra sidene og lysstyrken oppgitt til 400 nits er blant de beste. 
+Vi noterer oss litt lyslekkasje i kantene når man kjører opp lysstyrken, som er godt merkbart om du ser skjermen litt fra siden. 
+
+Som med de fleste andre berøringsfølsomme skjermer er også denne skjermen veldig blank. 
+Det gjør at for eksempel sollys kan bli sjenerende i «riktig» vinkel. 
+Sterkt lys avslører også et prikkete mønster i digitizeren, noe vi også har sett på enkelte mobiltelefoner som for eksempel Sony Xperia Z3. 
+
+Mangler HDMI 
+
+Tar vi en titt på sidene av maskinen finner vi én USB3-port på hver side. 
+I tillegg finnes en mini Displayport-utgang, som betyr at du trenger en overgangskabel om du vil koble den via HDMI. 
+
+Dell har for øvrig en kabel tilgjengelig i sitt sortiment som legger beslag på én av USB-portene, men som da gir utganger til kablet nett, VGA, HDMI og USB2.0. (Cirkapris 750 kroner.) 
+
+Hodetelefonutgangen er kombinert med mikrofoninngang slik at du kan koble til et hodesett, og maskinen har SD-kortleser slik at du lett kan overføre bildene fra et kamera om du har det. 
+
+På venstre side finner du dessuten en liten knapp som tenner inntil fem LED-pærer, avhengig av hvor mye batteri som gjenstår. 
+Dermed kan du sjekke uten å åpne lokket. 
+
+Undersiden har som nevnt to utstikkende «dragere» som sikrer stabilt feste til underlaget. 
+Der finner man også utgangen fra vifta. 
+
+Langt fra lydløs 
+
+Og apropos vifta – her finner vi kanskje det største minuset med Dell XPS 13, for den høres godt så fort man drar på litt. 
+
+Det trenger ikke å være snakk om de helt store belastingene heller. 
+For selv med bare et par programmer åpne og en nedlasting kjørende i bakgrunnen høres vifta godt fra undersiden av maskinen, selv om frekvensen er lav og ikke veldig sjenerende. 
+
+Ved stor belastning høres den enda bedre og får høyere frekvens – ikke det verste vi har hørt, men det finnes PC-er som lar seg kjøre langt tyngre før de begynner å gi lyd fra seg. 
+
+På den positive siden har Dell XPS 13 relativt beskjeden varmeutvikling på undersiden, selv ved høy belastning, noe som nok også skyldes de nevnte føttene i bunnen. 
+
+Ytelse 
+
+Prosessoren i denne maskinen er altså en splitter ny Intel Core i7-prosessor (5. generasjon) som er klokket på 2.4GHz med turbo inntil 3,0Ghz. 
+Maskinen har også 8GB arbeidsminne og integrert grafikk i form av Intel HD Graphics 5500. 
+
+I Passmark får vi følgende resultater: 
+
+Prosessor: 
+4303 Dette er gode tall for en ultrabook; noen prosent raskere enn Toshiba Kira-maskinen vi testet i høst. 
+Men det er nesten dobbelt så høyt som den nye Core M-prosessoren som sitter i Lenovo Yoga 3 Pro. 
+
+3D-grafikk: 611 Som forventet med integrert Intel-grafikk; ikke all verden til poeng i denne grenen. 
+Fortsatt er det slik at du til en viss grad må velge mellom kompakt størrelse eller spilling når du blåser av femsifret på en bærbar PC, og i dette tilfellet er det den kompakte størrelsen du betaler for. 
+
+Verdt å merke seg er allikevel at scoren er nesten 30% bedre enn HD Graphics 4400 som sitter i den nevnte Toshiba-maskinen og mange andre maskiner med forrige generasjon Intel-prosessor (Haswell). 
+
+Hos Notebookcheck kan du se eksempler på hvor mange bilder i sekundet du kan forvente i ulike spill. 
+
+Er du på utkikk etter en spill-bærbar, testet vi tre kraftige gaming-maskiner i romjula. 
+
+PCMark 8, Creative 3.0: 3427 
+Fra og med denne testen kommer vi til å bruke en av PCMark-ytelsestestene på maskiner vi tester. 
+Vi har valgt den såkalte «creative»-testen, som fokuserer på websurfing, bilde- og videoredigering, videokonvertering, spill og den slags; typiske litt «tyngre» ting man bruker en PC til når man har tilgang til strøm og maskinen derfor yter sitt optimale. 
+Den tar vi vare på som fremtidig referanse. 
+
+Disk-ytelse: 551MB/s / 265MB/s 
+Tallene er henholdsvis for lesing og skriving av data og måles med programmet Atto. 
+I vår testmodell sitter det en SSD-disk fra Samsung som presterer meget godt hva gjelder lesing. 
+Skrivehastigheten er likevel ikke like imponerende. 
+Dette er naturligvis langt raskere enn en magnetisk basert harddisk som du finner i rimeligere modeller. 
+
+Batteritid 
+
+Hvor lang batteritid man får fra en bærbar PC avhenger sterkt av hvor hardt den belastes og hvor høyt man har valgt å skru lysstyrken på skjermen. 
+
+Når vi tester batteritiden bruker vi måleinstrument og setter lysstyrken på samme nivå, som tilsvarer 40-50% av lysstyrkeindikatoren på de fleste maskiner. 
+
+Ved gjentakende avspilling av et 720p-videoklipp, ender vi opp på 395 minutter, eller drøye seks og en halv time, som er et relativt godt tall for en bærbar PC av denne typen; ganske lik prestasjon som vi fant hos Toshiba Kira-102 i høst. 
+
+Skjønt – sist vi testet Macbook Air, klokket vi inn over 12 timer på samme test, så Dell-maskinen er langt fra markedsledende på dette punktet. 
+En annen sammenligning er Lenovo Yoga 3, som måtte gi seg et par timer før XPS 13, så prestasjonen er for all del god på dette punktet. 
+
+Du bør uansett være klar over at det helt tydelig er forskjellige oppfatninger av hva oppgitt batteritid skal bety: 
+
+Mens Apples 12 timer på Macbook Air stemte veldig godt overens med vår måling, er oppgitt batteritid hos Dell sannsynligvis basert på en maskin som ikke brukes til noe som helst og som har lysstyrken justert veldig lavt. 
+Det kan føles noe misvisende, og er også forklaringen til at vi måler alle våre testmaskiner under nøyaktig samme forhold og så like innstillinger som mulig. 
+
+Fra og med denne testen bruker vi også PC Mark 8 til å sjekke batteritid; en test som belaster maskinen ganske tungt. 
+Her får vi en batteritid på 3 timer og 37 minutter, som da kan sees på som tilnærmet «worst case»; riktignok fortsatt med moderat lysstyrke. 
+
+Ved normal bruk som nettsurfing, epost og musikklytting kan du nok imidlertid forvente å få bedre batteritid, og med litt pauser innimellom er det rimelig å anta at XPS 13 vil kunne holde en hel arbeidsdag. 
+
+Konklusjon, Dell XPS 13 
+
+Vi synes 
+Dell lover for mye hva gjelder tykkelse og batteritid, men XPS 13 er likevel en kandidat å vurdere om du er i markedet for en ultrabook i det øverste prissegmentet. 
+
+Maskinen har en svært god og skarp skjerm (med berøring) og er både rask og komfortabel i bruk. 
+Den er dessuten lett og imponerende kompakt, takket være den syltynne rammen rundt skjermen, med gode spesifikasjoner innabords i forhold til størrelse og pris. 
+
+PS! 
+Vi gjør oppmerksom på at maskinen på publiseringstidspunktet var billigst på Dell.no. 
+
+Dell XPS 13 9343 (9343-1107) 

@@ -1,0 +1,157 @@
+Denne boksen kan pause internett
+Full kontroll over familiemedlemmene. 
+
+Hva om jeg fortalte deg at det fantes en boks du kunne koble til en stikkontakt hjemme for å begrense nettbruken til barna dine? 
+Og til han du skulle ønske kunne ha lagt seg samtidig med deg for en gangs skyld? 
+
+Ta-da: 
+Her er Circle. 
+
+Startet som Kickstarter-prosjekt 
+
+Circle var i sin tid et Kickstarter-prosjekt som ikke nådde målene sine. 
+Av de 250.000 dollarne skaperne etterspurte, klarte brukerne bare å skrape sammen drøye 30.000 dollar, og dermed ble det ikke overført noen penger fra Kickstarter. 
+
+Men de gav seg ikke, og tre år senere har selskapet fått støtte fra Disney og laget et produkt som du får kjøpt i butikken. 
+På Elkjøp og Lefdal her til lands, for å være nøyaktig. 
+
+Hvordan fungerer Circle? 
+
+Cricle er en relativt liten boks som måler under 10 centimeter i hver retning og som kun trenger strøm for å fungere. 
+Første gang du plugger den i stikkontakten, må du laste ned en app for å sette den opp. 
+
+I praksis kobler du den da til det trådløse nettverket du har hjemme. 
+Boksen bruker en slags hackerteknikk slik at enheter som kobler seg på det trådølse nettverket nå egentlig kobler seg til Circle-boksen; såkalt ARP-spoofing. 
+Dermed kan den brukes for å filtrere nettrafikken, noe du styrer via appen. 
+
+Merk dog at den ikke er kompatibel med alle rutere (Circle har en egen oversikt) og at den kun kobler seg til 2,4GHz-båndet på ruteren, men støtter 5GHz-enheter selv (som dog i praksis får noe redusert ytelse). 
+
+Brukerprofiler med ulik tilgang 
+
+Typisk bruk av Circle vil være å opprette én brukerprofil per medlem i husstanden som du kan tilegne ulike forhåndsoppsatte profiler, enten de er voskne, tenåringer, barn eller småbarn. 
+
+Hver av disse har ulike filtre knyttet til seg, som blokkering av gambling og pornografi, sikkert søkefilter på Google, aldersfilter på YouTube, tilgang til sosiale medier og lignende. 
+
+I tillegg gis du muligheten å blokkere tilgang (eller begrense den i minutter per dag) til enkelttjenester. 
+Enten fra ei liste i appen, eller der du selv kan angi domenet som skal sperres. 
+
+Litt knot å finne ut hvilke enheter som er hvilke 
+
+Når du har laget brukerprofiler, må du knytte husets forskjellige enheter til dem, slik at Apple TV-en på tenåringens rom kobles til hennes brukerprofil, eller at sønnens Android-telefon havner på riktig plass. 
+
+Akkurat denne biten kan være noe tungvint – ikke alle enheter kommer opp med beskrivende navn i listen, og dermed blir det litt gjettelek hva som er hva. 
+
+Det finnes dog muligheter til å gå inn på en nettside med enheten du er usikker på og se hva slags identifikator den har fått. 
+Dette fikk vi dog ikke til på alle enheter, der beskjeden var at det ikke var en Circle koblet til nettverket. 
+I tillegg er det enheter som ikke har en nettleser; for eksempel Chromecast eller lignende. 
+Alternativet er da å finne frem til enhetens MAC-adresse, men dette betyr selvsagt en litt høyere brukerterskel. 
+
+Når en ny enhet kobler seg til nettverket, legges den som standard inn på en gjesteprofil (som også kan ha et eget standardfilter), men du får samtidig et varsel på telefonen, slik at du eventuelt kan koble den til en annen profil. 
+
+Leggetid, tidsbruk … 
+
+For hver brukerprofil kan du styre flere ting. 
+Blant annet leggetid, der enheten for eksempel ikke får lov til å koble seg mot internett mellom 21 og 07; alternativt fra to til fire når det er tid for lekser (men ikke begge deler). 
+
+Du kan angi en daglig kvote for nettbruk; også styrt per tjeneste. 
+Angir du at husets 14-åring får være maksimalt to timer på nett om dagen, vil ingen av hennes enheter kunne bruke nettet når kvoten er brukt opp. 
+
+Du kan også være mer spesifikk og legge til ekstra begrensninger; for eksempel at Snapchat kun får brukes en halvtime hver dag. 
+
+Og via en pauseknapp kan du sette hele nettet på pause, slik at ingen enheter får brukt internett. 
+
+Noe begrenset effekt 
+
+Dette høres selvsagt prima ut, men legg altså merke til at det kun er snakk om bruk av internett som kan begrenses. 
+
+Om barna spiller Fifa 17 på PlayStation eller Toca Boca på iPaden kan de gjøre det så mye de vil for Circle, så lenge de ikke bruker nettet. 
+
+Å nappe ut ledningen kunne selvsagt ha vært en enkel måte å omgå begrensningene på, men da får du et varsel på telefonen. 
+Dessuten har den et batteri innabords slik at den kan holde det gående et par timer etter at kontakten er dratt ut. 
+
+Har poden en gigabyte eller to på mobilabonnementet, er det imidlertid bare å slå av WiFi og sende flere snaps; da via mobilnettet. 
+Bruk av VPN er også en mulighet, men akkurat det kan du blokkere for i Circle-oppsettet. 
+
+Circle har en løsning i form av et abonnement, Circle Go, som i praksis ruter all trafikk fra de mobile enhetene via en VPN-oppkobling, slik at du også kan begrense nettbruk utenfor heimen, men denne er ikke lansert i Norge ennå. 
+I USA koster den ti dollar i måneden. 
+
+…men jeg har jo bare vært våken i tjue minutter! 
+
+Klokka er i skrivende stund 07:36, jeg har vært våken i tjue minutter og la meg før tolv i går. 
+Allikevel rapporterer Circle-enheten om at jeg har vært to timer på nett; blant annet tre kvarter på Facebook og en drøy halvtime på Twitter. 
+
+Men telefonen har ikke en gang vært i samme rom som meg i natt, selv om den detaljerte loggen sier at den har vært i kontakt med disse tjenestene og flere til en haug av ganger i løpet av natten. 
+Og nei, jeg satt ikke med nesa ned i Facebook tre timer og 45 minutter etter at jeg kom hjem fra jobb i går heller. 
+
+I går hadde husets 13-åring brukt opp sin kvote på 45 minutter på nettet (for testingens skyld), selv om hun neppe hadde brukt telefonen sin i mer enn 10 minutter på en ettermiddag med middag, svømmetrening, vafler hos bestefar og naturfaglekse på kvelden der hun satt i stua. 
+
+Med andre ord er bruk av tidsbegrensning meningsløs, siden den ikke klarer å skille på bakgrunnsoppdateringer når skjermen er slukket og reell, aktiv bruk. 
+
+Aggressive filtre 
+
+Vi har også opplevd noen merkelige ting med tanke på innholdsfiltre. 
+Jeg satte meg selv på «adult»-profilen, som i utgangspunktet ikke har noen begrensninger. 
+
+Men da jeg prøvde å besøke nettsteder som Pinterest og Klikk.no i går, fikk jeg ikke tilgang. 
+Da ble jeg sendt til Mycircle-siden, der en rød boks kunne gi meg beskjed om at jeg hadde blitt filtrert ut. 
+
+Merkelig nok har det fungert litt til og fra. 
+En gang fikk jeg opp en utgave av Klikk-forsiden helt uten CSS (den kom opp vanlig da jeg flyttet PC-en fra «adult» til «unmanaged»), mens det i dag fungerer helt smertefritt også på «adult»-profilen. 
+
+«Excplicit content»-filteret ser imidlertid ut til å fungere ganske bra og blokkerte effektivt den lille håndfullen med voksen-nettsteder vi prøvde å besøke for å teste filteret. 
+Custom-filterne likeså, der man kan angi at far ikke får lov til å besøke finn.no eller lignende. 
+
+Circle har også en egen annonseblokkeringsfunksjon, men her varierer effekten fra nettstedet til nettsted. 
+På flere nettsteder vises annonsene som før, på andre nettsteder er de borte, mens andre igjen har fått blokkert annonser og deler av innholdet; for eksempel på Moss Avis' nettsider, der lesernes bilder hentet direkte fra Instagram dukket opp som tomme bokser. 
+
+Full overvåking 
+
+Det som kanskje er mest kontroversielt med Circle er at alle enheter som er lagt til blir overvåket i detalj. 
+
+For hver bruker har administratoren mulighet til å gå inn og se en detaljert logg over hvilke nettsteder som er besøkt og hvilke som er filtrert bort, ned til minuttet. 
+Også på familemedlemmer tilnyttet «adult»-profilen (men ikke for enhetene man velger å holde utenfor Circle). 
+
+Man får riktignok ikke fulle URL-er, men navnet på domenet. 
+Via loggen kan man så velge å blokkere eller oppheve blokkering av enkeltdomener. 
+
+Her kunne ting vært løst litt mer «privat», for eksempel når man blir blokkert fra et nettsted, der det hadde vært mer fair å kunne trykke på en knapp for «spør om tilgang», og så var det opp til administrator å godkjenne. 
+
+For denne overvåkingen krever i våre øyne en grundig samtale med resten av familien om hva Circle-boksen er i stand til, og vi er neimen ikke sikre på om selv det vil være nok for å rettferdiggjøre at alle i husstanden overvåkes i detalj. 
+
+Det blir selvsagt en litt annen diskusjon, men vår personlige meninger at alle i husstanden har rett til et privatliv og må få lov til å sjekke helsenettsteder og andre private ting uten at den som er administrator kan finlese loggen. 
+Dette er det ikke mulig å slå av med mindre man man velger å holde enheten helt utenfor Circle, der den altså kobler seg til ruteren som før uten noen begrensninger. 
+
+Hva skjer med dataene? 
+
+Circle har et åpent dokument om hvordan data håndteres. 
+I utgangspunktet lagres de på Circle-boksen og sendes til deg som administrator direkte når du ber om innsiktsdata – dersom du befinner deg i det samme trådløse nettverket. 
+
+Dersom du henvender deg til teknisk avdeling hos Circle for hjelp, kan de også gå inn og lese denne dataen. 
+
+Om du befinner deg et annet sted og vil sjekke disse dataene (altså der du ikke er i kontakt med WiFi-nettet), blir dataene først lastet opp til Circles servere og så sendt videre til deg, før de slettes fra serverne etterpå. 
+Altså vil private data i et tidsrom være tilgjengelig for andre enn deg selv. 
+
+Hva med netthastigheten? 
+
+Circle hevder at man i de fleste hjem kan bruke boksen uten å merke noe på nettytelsen, og det har vi heller ikke merket noe til under testingen. 
+
+Nå bor undertegnede riktignok på gård og har ikke allverdens til nettlinje uansett, men sitter du på en fiberlinje med noen hundre megabit og har en drøss av enheter koblet til, kan det være at du vil merke en reduksjon av ytelsen, som kan gjøres bedre om du velger å koble Circle til ruteren med en (mefølgende) nettverkskabel. 
+
+Bør du kjøpe den? 
+
+Nei, vi synes ikke det. 
+Det er i utgangspunktet en smart idé, som vi synes blir middelmådig utført. 
+
+For det første er ikke tidsbegrensningene så relevante i en verden der mobiltelefoner og andre enheter har kontakt med nettet selv om mobilen ligger i lomma. 
+Jeg har ikke vært på nett i to timer allerede tjue minutter etter at jeg stod opp. 
+
+For det andre fungerer filtreringen litt bob-bob, der vi med en helt standard «adult»-profil ble nektet tilgang til helt legitime, norske nettsider uten uhumskheter. 
+
+For det tredje er den ikke helt triviell å sette opp, der navnet på enhetene rundtom i huset kan være lite forklarende og der vi på et par av dem måtte finne enhetens MAC-adresse, noe som gir en noe høy brukerterskel. 
+
+Og til slutt et punkt du er nødt til å ta stilling til: 
+Circle gjør i praksis at den som er administrator kan finlese loggen over besøkte nettsteder for alle i husstsanden. 
+Det må selvsagt være opp til den enkelte familie å avgjøre om det er innafor, men personlig synes jeg det er en uting, som jeg i det minste skulle likt å ha mulighet til å slå av. 
+For ordens skyld har vi satt det punktet både på pluss og minus i boksen under, siden meningene der sikkert vil være delte. 
+
+Circle with Disney er foreløpig tilgjengelig hos Elkjøp og Lefdal for 1195,- kroner. 

@@ -1,0 +1,103 @@
+HP Pavilion Mini 300
+Liten og potent PC som er enkel å oppgradere. 
+
+Det dukker stadig opp nye og spennende mini-PC-er. 
+Enkelte av dem er mer enn kraftige nok til normale PC-oppgaver og byr på mange tilkoblingsmuligheter. 
+
+I forrige uke så vi nærmere på Beebox fra Asrock, som kunne kobles til tre skjermer samtidig og som allikevel var helt uten vifter. 
+
+Mye kraftigere 
+
+Denne gangen har vi sett nærmere på Pavilion Mini fra HP, som er en langt kraftigere sak med Intel Core i5-prosessor. 
+Modellen har vært på markedet en god stund allerede, men har av forskjellige grunner ikke nådd testbenken vår før nå. 
+
+Merk at også Pavilion Mini kommer i tre konfigurasjoner i Norge, hvorav denne er den kraftigste. 
+
+Her er en kjapp oversikt over spesifikasjonene: 
+
+Prosessor: 
+Intel Core i5-4200U RAM: 
+8GB (maks 16GB, ett spor ledig) Grafikkort: 
+Intel HD Graphics 4400 Lagring: 1TB harddisk. 
+I tillegg ledig spor for SSD i M.2-utførelse Optisk drev: 
+Nei Skjermutganger: 1x HDMI og 1x Displayport USB-porter: 4x USB 
+3.0 Kortleser: 
+Ja, for SD/SDHC/SDXC-kort Trådløst nett: 
+802.11 a/b/g/n (kun 2,4GHz) 
+Kablet nett: 10/100/1000Mbps Annet: 
+WiDi-støtte, Bluetooth 4.0 OS: 
+Windows 8.1 Størrelse: 14 x 14 x 5 cm Vekt: 0,6 kg Pris: 5.990 kr (Elkjøp/Lefdal 25.9.2015) 
+
+PC-en leveres altså med en brukbart rask prosessor - mest kjent fra bærbare PC-er, der den har vært en gjenganger i halvannet år - blant annet på ultraportable i prisklasse 6-10.000 kroner. 
+At den ikke er fra siste generasjon i5 skyldes at modellen har vært på markedet en god stund. 
+
+8GB RAM som enkelt kan dobles er bra, og maskinen leveres også med en romslig harddisk. 
+
+Den kan kobles til to skjermer samtidig, hvorav én kan ha inntil 4K-oppløsning, takket være Displayporten. 
+
+At det trådløse nettverkskortet verken støtter den nye AC-standarden eller 5GHz-båndet, kan være et ankepunkt for noen. 
+Da er det greit å vite at du alternativt kan få inntil 1000Mbps overføringshastighet via Ethernet-kabel. 
+
+For øvrig er det positivt at alle USB-portene er versjon 3.0. 
+
+Kompakt sak 
+
+Maskinen er litt større enn den nevnte Beebox og Intels NUC, men er fortsatt meget kompakt med sitt fotavtrykk på 14 x 14 cm. 
+I fronten sitter to USB-porter og av/på-knappen, kortleseren sitter på siden, og øvrige tilkoblinger sitter i bakkant. 
+
+Hvis vi skulle pirke på noe her, måtte det være at det hadde gjort seg med en hodetelefon-utgang i fronten i tillegg. 
+
+Veldig enkel å oppgradere 
+
+En positiv detalj ved denne PC-en er at den er svært oppgraderingsvennlig. 
+Vi har allerede nenvt at minnemengden enkelt kan dobles takket være at det er et ledig minnespor. 
+I tillegg kan både harddisk og trådløst nettverkskort oppgraderes på minutter. 
+
+Gummiplaten på undersiden er bare kneppet på plass, og ved å løfte på den, får du tilgang til tre skruer. 
+Når disse er løsnet, kan du enkelt løfte toppen fra bunnplaten og få direkte tilgang til hele innmaten. 
+
+Her fant vi også ut at i tillegg til harddisk/SSD i vanlig 2,5"-utforming, har et ledig M.2-spor for en SSD. 
+
+PRO-TIPS: 
+Setter du inn en M.2-type SSD og angir den som systemdisk i BIOS, for deretter å installere Windows 10 fra bunnen av, kan du forbedre totalytelsen betraktelig. 
+
+Slik er den i bruk 
+
+Rett ut av esken vil vi karakterisere opplevelsen temmelig midt på treet. 
+Den løser alle normale PC-oppgaver uten særlige anstrengelser, og tåler fint å kjøre flere programmer samtidig. 
+Grafikkytelsen er ikke god nok til avanserte 3D-spill, men avspilling av 4K-videoer på YouTube er overhodet ikke noe problem: 
+
+Det som imidlertid kan være et ankepunkt, er det trådløse nettverkskortet fra Broadcom. 
+Det har ikke noen imponerende rekkevidde, og støtter heller ikke 5GHz-nett, så det kan også være et aktuelt punkt å oppgradere: 
+
+Passmark PerformanceTest ble brukt til å måle prosessor- og harddiskytelse. 
+Her fant vi ut at ytelsen ligger litt under snittet for denne prosessoren, muligens er den klokket litt ned for å unngå overoppheting. 
+Forskjellen er imidlertid ikke så stor at vi tror det vil være særlig merkbart under normal bruk. 
+
+Harddisken har en lese- og skrivehastighet på rundt 100MB i sekundet, og det er som ventet for en 2,5-tommer harddisk av denne typen. 
+Den kan vise seg å bli en flaskehals, og da kan en SSD være den aller smarteste oppgraderingen. 
+
+Vi legger også til at støynivået er meget lavt, det eneste man hører under normal bruk er en lav summing fra harddisken. 
+Overflaten blir heller aldri særlig varm. 
+
+Bør rydde litt 
+
+Maskinen leveres med Windows 8.1 og en god del (demo-)programvare innabords, flere av dem kjører i bakgrunnen og spretter opp med tilbud og varsler. 
+Vårt tips er å gå nøye gjennom og deaktivere/avinstallere det som ikke er interessant for deg - noe vi har god tro på vil gjøre totalopplevelsen bedre. 
+Les også vår artikkel om hvordan du kan få hjelp til å gjøre denne jobben. 
+
+Merk videre at du kan oppgradere til Windows 10 kostnadsfritt frem til neste sommer, noe vi absolutt vil anbefale. 
+Da kan du senere også velge å installere Windows 10 fra bunnen av, ved å følge vår guide. 
+
+Konklusjon 
+
+HP Pavilion Mini er en kvikk og godt utstyrt liten tass, som byr på mer enn god nok ytelse til de aller fleste behov. 
+Den er også svært oppgraderingsvennlig. 
+
+Det største ankepunktet er det trådløse nettverkskortet, som kan bli en flaskehals, spesielt hvis du har rask internettlinje og plasserer PC-en et godt stykke unna aksesspunktet. 
+En annen ting vi ønsker å bemerke er at 5.990 kroner er ganske mye penger. 
+Er du fortrolig med å sette inn en disk og kjøpe og installere Windows 10 selv, får du både nyere maskinvare og mer for pengene ved å velge for eksempel denne Intel NUC-en. 
+
+Hvis du derimot bare ønsker å sette stikkontakten i veggen og starte på jobben, er Pavilion Mini slett ikke noe dumt valg. 
+
+HP Pavilion Mini 300-050no 

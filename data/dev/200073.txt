@@ -1,0 +1,142 @@
+Trådløst musikksystem fra Sony
+TEST: 
+Sony SRS-X88/X77 trådløst flerromsanlegg. 
+
+Det har etterhvert blitt mange om beinet når det gjelder trådløse flerromsanlegg for musikk. 
+Sonos, som sammen med Squeezebox startet trenden på begynnelsen av 2000-tallet, har lenge vært dominerende på dette området. 
+
+Men nå har de fått betydelig konkurranse fra både Samsung, Denon og Philips. 
+
+Nå melder også Sony seg i dette markedet, etter å ha konsentrert seg mest om enkeltstående Bluetooth-systemer. 
+
+Forskjell på multirom og trådløs 
+
+Et multiromssystem er med andre ord ikke det samme som det vi vanligvis forbinder med en trådløs høyttaler. 
+
+Poenget er altså at du skal kunne utstyre huset med et system der alle høyttalerne (og frittstående enheter koblet til stereo/hjemmekinoanlegg) skal kunne snakke med hverandre via en felles app. 
+
+Når du står opp om morgen, skal du kunne våkne av din favorittmusikk fra Spotify eller din foretrukne nettradiokanal. 
+Musikken følger deg ut på badet. 
+Når du senere spiser frokost, dukker den samme musikken opp på kjøkkenet. 
+Vel plassert i sofaen med dagens første kaffekopp kan du nyte musikken fra hovedanlegget i stua 
+
+Ingen begrensninger 
+
+Ofte har slike anlegg begrensninger. 
+Noen av dem takler for eksempel ikke alle filformater, andre begrenser seg til én strømmetjeneste, mens atter andre ikke tillater at du kobler til utstyr de ikke har laget selv. 
+
+Sony har tenkt stikk motsatt. 
+Deres SRS-serie er åpen så å si i alle ender. 
+Her støttes alle tenkelige lydfiltyper, inklusive de såkalte høyoppløste formatene som skal gi bedre lyd enn CD. 
+
+Via Bluetooth, Google Cast og AirPlay kan du bruke alle strømmetjenestene. 
+Spotify støttes via Connect (krever Spotify-app i tillegg), mens YouTube (bare med lyd) kan legges rett inn i Sonys egen SongPal-app (iOS og Android). 
+
+Sony bruker for øvrig et eget system kalt LDAC for å forbedre lyden via Bluetooth. 
+
+Serien består foreløpig av tre enheter: SRS-X99, SRS-X88 og SRS-X77. 
+Vi har testet de to siste. 
+
+Flott utseende 
+
+SRS-X88 gir et flott inntrykk når vi pakker den opp. 
+Den pianolakk-aktige overflaten minner ikke så lite om eksklusivt stereoutstyr, og det er bare størrelsen som minner oss på at dette er en trådløs høyttaler til 3.695 kroner. 
+
+Også lyden er formidabel. 
+Sony har i motsetning til konkurrentene unngått å gå i «gompebass»-fella. 
+Bassen er med andre ord ren og kontrollert, og den lar dermed den viktige mellomtonen slippe igjennom. 
+Det nytter stemmegjengivelsen svært godt av. 
+
+Også toppen er på plass. 
+Cymbaler klinger ut som de skal, og musikken har både luft og detaljer i toppen. 
+Og faktisk - da vi prøvde med en DSD-fil rippet fra SACD via en Playstation 3 (et typisk nerde-prosjekt, får vi vel si), kom den varme lyden som er karakteristisk for dette mediet fram. 
+
+At en trådløs multiromshøyttaler i det hele tatt kan spille av slikt, er jo noe av en sensasjon. 
+Vanligvis er slikt forbeholdt svinedyre DAC-er i high end-klassen. 
+
+Ganske høyt kan du spille også, selv om dette på ingen måte er noen party-høyttaler. 
+Lyden blir merkbart bedre når vi tar av grillen (noe som gjøres med en kjekk, liten magnet som følger med). 
+Men da lider utseendet, og det tok ikke lang tid før vi satte på grillen igjen av rent estetiske grunner. 
+
+Greit oppsett 
+
+Oppsettet gikk greit via SongPal-appen. 
+Det er bare å trykke på «pluss»-tegnet og følge anvisningene. 
+
+Vi kan likevel ikke la være å smile litt. 
+For hvorfor skal vi behøve å gjøre noe som helst, Sony? 
+Kan ikke enheten bare komme opp av seg selv når den er slått på? 
+Du kjøper den jo ikke for at den skal stå til pynt... 
+
+Vil du starte med Bluetooth-forbindelse, velger du Bluetooth-knappen på toppen av høyttaleren. 
+Om du vil sette opp høyttaleren for WiFi først, bruker du nettgjenkjennings-knappen (WPS) på baksiden. 
+
+Verre var det når lillebroren SRS-X77 skulle settes opp. 
+Den fikk vi overhodet ikke forbindelse med. 
+Årsaken viste seg å være at den hadde blitt brukt før, og dermed var satt opp for et annet nettverk. 
+
+Ved å trykke på «Reset»-knappen på baksiden ordnet dette seg. 
+
+Går på batteri 
+
+X77 går på batteri, og dermed praktisk å ta med seg rundt. 
+Også på badet fungerer Sonys høyttaler glimrende. 
+Her bør du som kjent absolutt ikke koble utstyr som ikke er jordet permanent til strøm. 
+
+Få andre har laget batterihøyttalere som fungerer i flerromssammenheng, kanskje fordi strømmen tar fort slutt. 
+Vi fikk ikke langtidstestet Sony-en i så måte, men merket oss at den fortsatt virket etter flere timers bruk. 
+
+Selv oppgir Sony ti timers brukstid etter opplading. 
+
+På vår vei rundt i huset opplevde vi derimot at lyden kom og gikk. 
+Men ved hjelp av den utfellbare antennen (som også finnes på X88) vi klarte med litt justering i passeringen å få den til å spille overalt når den sto i ro. 
+
+Lyden i lillebroren SRS-X77kan selvsagt ikke måle seg mot SRS-X88, og siden den koster bare en tusenlapp mindre framstår storebroren som et bedre tilbud. 
+
+Likevel kan vi bare nikke anerkjennende at Sony har valgt å beholde lydkarakteristikken framfor å «pumpe» opp lyden kunstig, slik at X-77 blir en nedskalert utgave av X-88. 
+På små rom fungerer den brillefint. 
+selv om vi savner den langt kraftigere og fyldigere lyden fra storebroren. 
+
+Virvar av apper 
+
+Men så kommer vårt viktigste ankepunkt: 
+I sin iver etter å støtte alt mulig har Sony overlatt vel mye til brukeren. 
+
+Du må faktisk være noe av en trådløs musikknerd dersom du skal få Spotify, Tidal, DNLA-overføring fra egen server til å spille sammen. 
+Det blir mye skifte av apper, og Sony er prisgitt tredjepart for at ting skal fungere. 
+
+Resultatet blir et virvar av apper som alle fungerer forskjellig. 
+For eksempel er det ikke mulig å søke i egne musikkfiler. 
+Her kommer det bare opp en alfabetisk liste. 
+Har du tusenvis av låter, blir det fort en uoverkommelig oppgave å finne fram. 
+
+Mange vanskeligheter 
+
+Vi slet også med å dirigere lyden fra nettradioappen TuneIn slik at den traff riktig høyttaler. 
+Her er det Google Cast som brukes som overføringsprotokoll, og her fikk vi stadige feilmeldinger når vi prøvde å dirigere lyden fra X88 til X77 og tilbake igjen. 
+
+Vi klarte heller ikke å få verken Mac eller Windows-PC (her måtte vi som vanlig laste ned driver) til å spille via USB-inngangen på X88. 
+Enheten kom rett og slett ikke opp, uansett hvor mye vi avinstallerte tidligere drivere, reinstallerte Sony-driveren, trakk pluggen ut og inn og skrudde både høyttaler og PC av og på. 
+
+Å legge rom sammen er derimot veldig enkelt. 
+Du drar rett og slett høyttalerne man ønsker skal spille sammen i én klynge. 
+Deretter lagrer man dem som en gruppe, slik at man kan hente sammenstillingen fram igjen. 
+Vil du skille høyttalerne fra hverandre igjen, holder du fingeren på høyttalersymbolet og drar den ut av klynga. 
+
+Bedre i neste runde? 
+
+Men det meste annet må som sagt ordnes i apper som Sony ikke har kontroll over. 
+Det er forsåvidt tilfelle med flere av konkurrentene også, og det er vel egentlig bare Sonos som har et fullt ut integrert system med egen avtale med både Spotify WiMP/Tidal og de fleste andre strømmere på markedet. 
+
+At Sonos kan gjøre dette og ikke Sony, skjønner vi ikke helt. 
+Sonos er jo en mygg i forhold til den japanske kjempen. 
+
+Selv om vi må bifalle anleggets allsidighet og fleksibilitet, hadde vi foretrukket at Sony hadde kikket litt på lederen i dette markedet og gjort systemet sitt mer helhetlig og brukervennlig. 
+Et system som enten virker perfekt eller ikke i det hele tatt er mindre frustrerende enn et system som er uforutsigbart og forvirrende. 
+
+Tross alt snakker vi om hjemmehygge her, og ikke et dataprosjekt som skal løse fritidsproblemene dine. 
+Sony blir for mye av det siste, synes vi. 
+
+Sony SRS-X88 
+
+Men alt kan jo oppdateres via programvare, og Sony-systemet har så mange kvaliteter at vi tror det kan bli riktig bra når det får noen måneder til på baken. 

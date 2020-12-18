@@ -1,0 +1,110 @@
+PC-en kjører Windows 10, men er ikke større enn en merkepenn
+Plugg den rett i TV-en eller i en monitor, koble til tastatur og mus - så har du en ekte Windows-PC i miniatyrinnpakning. 
+
+Hvis du ikke er hardbarket gamer, er det ikke lenger slik at du trenger å bytte PC annethvert år for å kunne kjøre de siste versjonene av populære dataprogrammer. 
+
+Skiftet fokus 
+
+Du kan fint kjøre Windows 10 på en 6-7 år gammel PC som knapt var middels rask den gangen du kjøpte den, og mye av programvaren du brukte den gang har blitt erstattet av lettkjørte apper og effektive nettjenester av ymse slag. 
+
+PC-produsentene kan ikke lenger bare fokusere på økt datakraft når de lanserer nye produkter. 
+Nå dreier det seg mer og mer om tynne, lette og seiglivede bærbare PC-er, og små PC-bokser til stasjonær bruk, som vi i Dinside velger å omtale som mini-PC-er. 
+Vi har testet mange slik små bokser de seneste årene, se lenkesamling nederst. 
+
+Miniatyr-PC fra Asus 
+
+Denne gangen har turen kommet til Asus Vivostick PC TS10. 
+Som navnet antyder, er det snakk om en PC som kan minne om en litt stor minnepinne. 
+Den putter du direkte i HDMI-inngangen på TV-en eller PC-skjermen, og kobler til strøm, tastatur og mus. 
+Vips, så har du en stasjonær PC i minatyrstørrelse. 
+Er det trangt å komme til bak skjermen, følger det med en kort HDMI-skjøtekabel. 
+
+Det finnes en del slike løsninger på markedet, vi har tidligere blant annet testet og omtalt Intel Compute Stick, som bestod av forrige generasjon maskinvare, og Asus' egen Chromebit som kjører ChromeOS. 
+Vivostick er mer potent, noe som også øker både nytten og gleden ved å bruke den. 
+I boksen til høyre har vi oppsummert noen av de viktigste tekniske egenskapene. 
+
+Slik fungerer den 
+
+Du starter Vivostick ved å trykke på av/på-knappen på motsatt ende av HDMI-utgangen. 
+Et blått lys indikerer at Vivostick er påskrudd, og så er det bare å vente på at Windows laster ferdig. 
+
+Vi målte oppstarten til å ta 33 sekunder, men det vil variere med hvor lenge du har brukt PC-en og hvilke programmer som lastes i oppstarten. 
+Du kan med fordel ta en «renskerunde» for å korte ned oppstartstiden - og samtidig er sjansen stor for at du vil oppleve maskinen som raskere. 
+Vi deaktiverte alt som startes automatisk (flere Asus-tjenester, Microsoft OneDrive, WinZip mm) 
+
+Og det kan absolutt være en fordel. 
+Dette er nemlig ikke noe lyn av en PC, men det hadde vi heller ikke forventet. 
+
+Kommer med egen TV-løsning 
+
+Når Windows er ferdig lastet, startes VivoRemote Center. 
+Det er en TV-vennlig meny som du styrer via en app på mobiltelefonen. 
+Det gjør det enkelt å starte nettleser, mediespillere og andre programmer fra sofakroken, og sier mye om hva Asus tenker du skal bruke Vivostick til. 
+
+VivoRemote Center fungerer greit, men vi har opplevd at programmer i menyen ikke starter som de skal. 
+Da er det heldigvis enkelt å svitsje til «muse-modus», der mobilskjermen gjøres om til en pekeplate. 
+Så er det bare å navigere seg fram til riktig programikon og dobbelklikke på mobilskjermen. 
+
+Klare begrensninger 
+
+Dette er en ekte Windows-PC, så du kan installere hva du vil av Windows-programmer. 
+Men merk at du bare har rundt 15 GB med plass til egne programmer og brukerdata. 
+Det fylles opp svært fort. 
+Du kan selvfølgelig utvide med en minnepinne, men da bruker du samtidig opp en verdifull USB-port. 
+En minnekortleser burde med andre ord vært på plass. 
+
+Minnemengden er samtidig bare 2 GB. 
+Vi har opplevd at Windows har klaget over lite minne, noe vi sjelden eller aldri opplever på maskiner med 4-8 GB RAM. 
+
+Og hvis du er vant til å bruke en PC som reagerer på sekundet på nær sagt alle kommandoer, kan ventetiden her noen ganger være både frustrerende og forvirrende. 
+Vi har for eksempel opplevd flere ganger at vi har startet to instanser av et program fordi lastingen av første instans tok så lang. 
+
+Det har også hendt at vi har startet nettleseren og begynt å taste adressen umiddelbart (av gammel vane), og så har det gått flere sekunder til de første tegnene har dukket opp i adresselinjen. 
+
+Ikke så verst likevel 
+
+Slike forsinkelser skaper irritasjon hvis de skjer for hyppig, og så orker man ikke å bruke PC-en lenger. 
+Men SÅ ille er det heldigvis ikke med Vivostick. 
+Vi har faktisk brukt den som jobb-PC de siste dagene, og i lange perioder har vi ikke en gang reflektert over at den svære PC-kassa er byttet ut med denne lille tassen. 
+Vi kan trygt konkludere med at Atom-prosessorene har kommet en lang vei siden den spede starten for sju år siden. 
+
+Vi målte i tillegg lesehastigheten på flashminnet til maks 160 megabytes i sekundet, og skrivehastigheten til maks 50. 
+Det er langt under normal SSD-ytelse, men er absolut tilstrekkelig for lett bruk. 
+
+Det trådløse nettverkskortet støtter de nyeste standardene, og vi opplevde både hastighet og rekkevidde som relativt god. 
+
+Mange av verktøyene vi bruker i jobben, er web-baserte. 
+I tillegg bruker vi blant annet Office 365-programmene, Photoshop Elements til bilderedigering og Spotify til bakgrunnsmusikk. 
+Dette har Vivostick få problemer med å håndtere, men vi unngår å kjøre mer enn et par programmer samtidig - da kan det ofte bli i overkant mange forsinkelser. 
+
+Hva med video? 
+
+Til video, som Netflix og YouTube, fungerer den stort sett meget bra i oppløsninger til og med full HD (1920 x 1080 piksler). 
+Er oppløsningen høyere enn dette, har vi følelsen av at vi ofte må sitte helt rolig og holde pusten for å unngå hakkende bevegelser. 
+
+Vi har riktig nok klart å kjøre noen 4K-videoklipp med akseptabelt resultat (best i Microsoft Edge), men det er langt fra regelen. 
+Se video her: 
+
+Asus VivoStick PC TS10-B004D 
+
+Merk at Vivostick PC TS10 ikke er lydløs. 
+Den har en bitteliten kjølevifte innebygd, og den lager suselyd fra tid til annen, akkurat nok til at du kan fornemme den fra sofaen når det ellers er stille i rommet. 
+På PC-pulten vil du garantert høre den, men vi vil ikke betegne den som sjenerende. 
+Men vil du ha det helt stille, må du se etter noe annet. 
+Det finnes mange PC-er i markedet uten vifter nå. 
+
+Konklusjon 
+
+Vi sitter igjen med et ganske positivt inntrykk etter å ha lekt oss med Vivostick de siste dagene. 
+Den har løst mange av våre helt daglidagse PC-behov, riktig nok med litt mer venting enn vi er vant til. 
+Leser du nettaviser, bruker epost, betaler regninger i nettbanken, lytter til musikk og ser noen videoklipp i ny og ne, er dette faktisk alt du trenger. 
+
+Og kobler du den til TV-en for å se Netflix, HBO og andre strømmetjenester - holder den også mål. 
+
+Det vi ikke liker, er at lagringsplassen er svært begrenset samtidig som den mangler minnekortleser. 
+Litt sus i ny og ne må du også leve med. 
+
+Utviklingen har uansett vært oppsiktsvekkende. 
+Det er ikke lenge siden vi aldri hadde drømt om at en Windows-PC kunne komme i en så kompakt innpakning. 
+
+Vi er helt sikre på at forskjellene i ytelse mellom en standard-PC og miniatyr-PC-er vil være enda mindre, og kanskje knapt merkbare, når neste generasjon kommer i butikkhyllene. 

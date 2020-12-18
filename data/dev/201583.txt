@@ -1,0 +1,71 @@
+Shuttle XPC Nano NC01U
+Lyst på en lekker mini-PC? 
+Da er dette et rimelig og lekkert utgangspunkt. 
+
+Shuttle har lang erfaring med såkalte «barebones», altså PC-kabinetter som kommer med hovedkort og strømforsyning, der du selv setter inn minne, prosessor, disk og annet utstyr du vil bruke - og dermed bygger din egen PC. 
+
+Nylig lanserte selskapet en serie kalt XPC Nano, og som navnet indikerer snakker vi her om svært kompakte barebones, nærmere bestemt 141 x 141 x 29 mm. 
+Dette omtales også som en NUC-formfaktor, Next Unit of Computing, som er definert og spesifisert av Intel. 
+
+XPS Nano-serien skiller seg fra de fleste andre NUC-er på markedet, på flere punkter: 
+
+Måler kun 2,9 cm i høyden, til tross for at det er plass til både en M.2-basert SSD og 2,5" harddisk/SSD Modulbasert. 
+Du kan bygge ut PC-en ved hjelp av byggekloss-prinsippet, takket være kontakt på undersiden. 
+Ikke ulikt dette konseptet fra Acer Kommer med seriell COM-port (RS232), for støtte av eldre utstyr 
+
+Dessuten vil vi påstå at den ser bra ut. 
+Skulle du være uenig, kan den henges bakpå PC-skjermer og TV-er ved hjelp av det medfølgende VESA-festet. 
+Det følger også med en støtte som gjør det enkelt å sette PC-en på høykant. 
+
+Her er en liste over de viktigste egenskapene: 
+
+Shuttle XPC Nano Prosessor: 
+Intel Celeron 3205U, 1,5 GHz. 
+Kommer også i konfigurasjoner med femte generasjon Intel Core i3, i5 og i7-prosessor Minne: Inntil 16 GB (2 x 8 GB SO-DIMM) 
+Lagring: 
+Plass til SSD (M.2) og harddisk/SSD (2,5", maks 7mm høy) Skjermutganger: 
+HDMI 1.4a og miniDisplayport 1.2. 
+Støtter to skjermer i fullHD samtidig 2 x USB 3.0-porter i front og 2 x USB 2.0-porter bak Støtter inntil 1Gbps kablet nettverk Støtter trådløst nett 802.11AC + Bluetooth 4.0 141 x 141 x 29 mm, vekt 385 gram med to minnemoduler + M.2 SSD Ca-pris: 1.400 kroner 
+
+Kommer halvferdig 
+
+Når du kjøper XPC Nano i butikken, kommer den uten SSD og minne. 
+Dette må du altså sette inn selv. 
+Dette krever at du fjerner gummiføttene som er limt over to skruer på undersiden, og vipper løs bunnplaten fra resten med et flatt skrujern. 
+
+Du får imidlertid ikke tilgang til M.2- og det ene minnesporet uten å løsne selve hovedkortet, som sitter festet med tre skruer. 
+Dermed blir det en mye større operasjon å sette inn og bytte maskinvare på denne enn på for eksempel Intels egen NUC. 
+Dette er heldigvis noe de fleste gjør temmelig sjelden, men likevel et ankepunkt. 
+
+Et annet ankepunkt er at det ikke er noen USB 3.0-porter på baksiden. 
+Det er supert med lett tilgjengelig USB-porter for ad-hoc-tilkoblinger, men eksterne lagringsdisker som er tilkoblet hele tiden er det greit å skjule for å unngå å skjemme den fine fronten. 
+
+Enkel ytelse 
+
+Så hva kan du forvente av ytelse? 
+Vi fikk levert produktet med 2 x 4 GB RAM, en M.2 SSD fra Transcend på 120 GB og Windows 10. 
+Alle tre er fornuftig på slik PC. 
+Prosessoren er ikke særlig kraftig, men tokanals minne og relativt rask SSD gjør at opplevelsen ikke blir så aller verst - så lenge du holder deg til helt vanlige PC-oppgaver, som Office, nettsurfing og video på inntil 1080P. 
+
+Det er verdt å merke seg at denne PC-en ikke håndterer video i 4K-oppløsning, selv om både HDMI 1.4a og DisplayPort 1.2 støtter det. 
+Til det kreves en Core i3-prosessor eller kraftigere. 
+
+Da vi testet avspilling av et 4K-klipp på YouTube, føk prosessorbelastningen i taket, mens videoen og andre kjørende oppgaver gikk i rykk og napp. 
+Full HD (1080P) fungerte derimot fint, så lenge vi sørget for å ikke kjøre andre, krevende jobber i bakgrunnen. 
+
+Ikke lydløs 
+
+Selv under tung belastning overgår aldri strømforbruket mer enn 22,4W, og man skulle da kanskje tro at PC-en kunne kjøres uten viftekjøling. 
+Det er ikke tilfelle. 
+
+Selv etter at vi satte kjølingen til Ultra low i BIOS-oppsettet, var viften godt hørbar når belastningen ble høy. 
+Særlig sjenerende behøver det ikke å være, det avhenger av hvor følsom du er for slikt. 
+Vi konstaterer uansett at det finnes mer stillegående varianter som også takler 4K-video, som for eksempel ASRock Beebox N3000 
+
+Konklusjon 
+
+Shuttle XPC Nano har en del egenskaper som gjør den spesielt interessant for enkelte nisjer, og for deg som verdsetter kompakt og god design. 
+Det er litt mer krøkkete å gjøre maskinvareendringer her enn på de mest brukervennlige, men har du enkle krav til PC-ytelse er ikke dette noe dumt valg. 
+Men før du bestemmer deg må du lese våre plusser og minuser i boksen under, og lese våre tester av andre PC-er og barebones i mini-klassen: 
+
+Modellen er på vei til markedet i skrivende stund, og vil dukke opp i norske butikker i nær framtid. 

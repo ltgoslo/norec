@@ -1,0 +1,143 @@
+Google Nexus 6P
+- Muligens den beste Android-telefonen vi har testet. 
+
+Hvis du er opptatt av å få tilgang til nye Android-versjoner raskest mulig, er Googles Nexus-telefoner veien å gå. 
+Telefoner merket «Nexus» er nemlig produsert spesielt for Google og har derfor helt rene Android-versjoner. 
+
+Derfor trenger du ikke å vente på at produsenten skal tilpasse sitt Android-skall og sine ekstrafunksjoner når det kommer en ny Android-versjon, som ofte kan ta flere måneder. 
+
+Tradisjonelt har det imidlertid vært enkelte svakheter med Nexus-telefoner som har gjort at de har blitt oppfattet mer myntet på utviklere enn på allmuen; det være seg litt svakere maskinvare, billigere materialer, begrenset lagringsplass, et ikke-alt-for-godt kamera eller lignende. 
+
+Denne gangen har vi imidlertid ingen problemer med å anbefale nye Nexus 6P. 
+Ja, dette er muligens den beste Android-telefonen vi har testet noen gang. 
+
+100% ren Android 
+
+Nexus 6P har altså en helt urørt Android-versjon innabords; nærmeste bestemt siste utgave, versjon 6.0 Marshmallow. 
+Blant nyhetene denne gangen er smartere strømstyring, bedre støtte for fingeravtrykksleser og reviderte app-tillatelser, der du nå godkjenner dem «on demand», altså når appen trenger tilgang til for eksempel kamera, kontakter eller samtalelogg. 
+Du har også mulighet til å ta bort slike rettigheter i etterkant. 
+
+Visuelt sett har Android blitt langt friskere enn før: 
+Googles formspråk, «Material design», skinner godt i hele operativsystemet med friske farger og delikate animasjoner, som i våre øyne gir en helhetlig og god brukeropplevelse. 
+
+I tillegg flyter alt bra: 
+For ikke bare har Nexus 6P svært kraftig maskinvare; du slipper også alt produsentene legger på sitt brukergrensesnitt på toppen i tillegg, som kan bidra til at ting går litt mer luggete enn nødvendig. 
+
+En annen fordel med ren Android-versjon er at du ikke lenger blir spurt om du vil åpne bildet i "Bilder" eller "Foto", eller om du vil åpne en nettside med "Chrome" eller "Internett", slik du ofte må hos andre produsenter som selger telefonene både med sine egne og Googles apper. 
+
+Laget av Huawei 
+
+Denne gangen er det Huawei som har laget Nexus 6P. 
+Det er første gang et kinesisk selskap har stått for en Nexus-modell, der både HTC, LG, Samsung og Motorola har stått bak tidligere versjoner. 
+
+Mest iøyenfallende er det periskop-lignende området på baksiden av telefonen, der kameraet også sitter. 
+
+Mens resten av baksiden er i aluminium er dette feltet i glass, som gir telefonen et litt annerledes utseende enn de fleste andre telefoner. 
+Den delen stikker litt ut, og en ulempe er selvsagt at dette glasset gir baksiden et knuselig område. 
+
+Vi er også godt fornøyd med fingeravtrykksleseren på baksiden av Nexus 6P. 
+
+Kun én gang i løpet av testuken har vi opplevd å måtte putte fingeren på en ekstra gang for autentisering. 
+Det er faktisk ganske imponerende, gitt at den også trenes opp veldig raskt der du bare trenger å berøre den 5-6 ganger. 
+
+Den kan imidlertid ikke brukes som utløserknapp for frontkameraet og kan heller ikke brukes for å dra ned varslingsfeltet slik man kan på Huaweis «egne» telefoner. 
+Den kan imidlertid brukes til betaling og passordløsninger som LastPass og den slags. 
+
+Av og på-knappen på siden har fått en ruglete overflate slik at det er lett å kjenne den igjen om du ikke ser på telefonen. 
+
+En kjekk ting ved å ha en egen knapp her, er at det går an å bruke den for å ta en rask titt på uleste varsler uten å låse opp telefonen. 
+Plukker du opp telefonen fra et bord, tennes skjermen også et lite øyeblikk for å vise deg uleste varsler. 
+
+Stor og flott skjerm 
+
+Nexus 6P er blant de større telefonene på markedet og har en 5,7" skjerm med QHD-oppløsning, altså 2560x1440 og da pikseltetthet på svært gode 515ppi. 
+
+Sammenlignet med en av de største konkurrentene, iPhone 6s Plus, er tykkelsen identisk (7,3mm), bredden i praksis den samme (0,1mm skiller), men 6P er en millimeter høyere. 
+Men da altså med en skjerm som er 0,2 tommer større. 
+
+Skjermen er av AMOLED-typen, som betyr at vi får servert et dypt sortnivå og farger det smeller av. 
+Er du ikke så fan av fargene, går det an å bytte til sRGB-fargerommet via utviklermenyen, som gir et langt mer konservativt fargeuttrykk. 
+
+Ny ladeport 
+
+Nexus 6P er en av få telefoner på markedet med den nye USB Type C-porten. 
+Den har godt potensiale til å bli en universalport du vil se på både mobiltelefoner, nettbrett, bærbare PC-er, skjermer og annet i årene som kommer. 
+Den støtter raskere overføringshastigheter og inntil 20V spenning og 5A strømstyrke (=100W). 
+
+En ulempe for deg som hopper tidlig på vogna her, er selvsagt at det ikke akkurat florerer av type C-kabler i de norske hjem. 
+
+Har du glemt ladekabelen hjemme kan det altså bli vanskelig å oppdrive en når du er på besøk. 
+Heldigvis får du med to slike kabler i esken. 
+Strømadapteret som følger med er forøvrig på 5V/3A, som gjør at du kan lade telefonen raskt. 
+
+Vi klatret for eksempel fra 29 til 50 prosent på 15 minutter og videre til 68 prosent på de neste 15 minuttene. 
+Og det på et batteri som er 3450mAh; relativt solid størrelse i dagens marked. 
+
+Batteriet opplever vi for øvrig som meget godt, der vi aldri har hatt problemer med å få telefonen til å rekke fra morgen til leggetid, ofte med 30-40 prosent igjen selv med relativt god bruk. 
+
+En eksempeldag med ganske mye bruk varte fra 0650 til 0020 der vi hadde vært aktive på skjermen i to timer og tre kvarter totalt: 
+Da hadde vi fortsatt 10 prosent igjen på batteriet. 
+
+Blant annet hadde vi brukt en god stund på den nye Now on tap-funksjonen og tatt en del bilder, inkludert bildebobler der man knipser bilder i 360 grader, slik at man kan lage morsomme miniplaneter som dette: 
+
+Meget godt kamera 
+
+Denne Nexus-modellen har også et svært godt kamera, og det er bra - fordi det dessverre har vært litt mangelvare på Nexus-telefoner opp i gjennom. 
+
+Bildebrikken er 1/2,3" og oppløsningen på 12Mp. 
+Det gir en pikselstørrelse på 1,55µm – ganske stort sammenlignet med konkurrentene, og som på papiret betyr at kameraet vil ha mindre problemer med støy under dårlige lysforhold. 
+
+Lysstyrken til bakkameraet er for øvrig f/2,0 (f/2,4 på frontkameraet) og vidvinkelen tilsvarer cirka 27mm, som gir et forholdsvis bredt utsnitt når du tar bilder sammenlignet med andre mobilkameraer (Sonys Z5-telefoner leder her med vidvinkel tilsvarende 24mm). 
+
+Et lite irritasjonsmoment er at Googles kameraapp, som er standardappen, virker litt treg – til tross for dens relativt enkle fremtoning. 
+
+Det lugger litt i skjermbildet når du skal komponere et bilde, og du må også vente noen sekunder med å se bildet i sin fulle prakt om du bruker HDR-modusen, som for øvrig kan slå inn automatisk om du ønsker. 
+En kjekk ting er imidlertid at du raskt kan starte kameraet om telefonen er låst ved å trykke to ganger raskt på strømknappen. 
+
+Vi ble likevel imponert av bildene, og da spesielt de som er tatt ved dårlig belysning. 
+
+Her får kameraet uttelling for de store sensorpikslene, og Google har også svært god kontroll på støyprosesseringen. 
+
+Bildet under er for eksempel tatt håndholdt i et ganske mørkt lokale (vi valgte å la blitsen være av, så motlyset gjorde det litt mørkt), med følsomhet på ISO 1044. 
+Det fremstår uansett svært detaljert og lite kornete i forhold til den høye følsomheten som er brukt (trykk på bildet om du vil pixel-peepe): 
+
+Hvitbalansen er dog ikke alltid like treffsikker, og mange innendørsbilder får et litt over normalt sterkt gulstikk. 
+Lysmåleren oppleves likevel som solid, der også bilder tatt i motlyssituasjoner på dagtid gjengis på en svært god måte. 
+
+AMOLED-skjermens dype sortnivå og sterke farger gjør det også til en fryd å bla igjennom bildene man har tatt. 
+Det er en egenskap man slett ikke skal kimse av. 
+
+Under kan du se flere bilder vi har tatt med Nexus 6P: 
+
+Svært god ytelse 
+
+På innsiden av Nexus 6P sitter det en Snapdragon 810-prosessor der de raskeste kjernene er klokket på 2,0GHz. 
+Dette er den andre generasjonen av denne prosessoren som skal bli mindre varm enn første utgave – en prosessor blant annet Sony Xperia Z3+ hadde problemer med. 
+I tillegg har den 3GB arbeidsminne (RAM). 
+
+I daglig bruk opplever vi Nexus 6P som svært kjapp: 
+Animasjonene i Android går glatt som bare det, og navigering i operativsystemet, surfing på nettsider og den slags går silkemykt. 
+
+Snapdragon 810 er blant de aller raskeste prosessorene på markedet, som også reflekteres i ytelsestestene vi har kjørt på telefonen. 
+Blant annet får vi tett opptil toppnotering i Geekbench-testen, som måler prosessorhastighet, og også på ren 3D-ytelse får vi tett opptil toppnotering i 3DMark-testen. 
+
+For øvrig virker Nexus 6P også å ha meget god samtalekvalitet. 
+Huaweis dobbelantennedesign skal sikre deg god dekning, og vi har opplevd telefonen svært habil med tanke på dekning i løpet av uka vi har hatt telefonen til test. 
+
+Konklusjon 
+
+Dette er den første Nexus-telefonen vi gir en sekser på terningen på Dinside, den andre for Huawei noensinne og den tredje vi har gitt en mobiltelefon hittil i år (Samsung Galaxy S6 og iPhone 6s er de to andre). 
+
+Google og Huawei har ganske enkelt laget en svært god telefon i Nexus 6P. 
+
+– 
+Den har en flott skjerm, meget god batteritid og et svært godt kamera. 
+Spesielt imponerende er egenskapene i dårlig lys, der alt for mange telefoner kommer til kort. 
+
+I tillegg kan du være trygg på at du står først i køen neste gang Android oppdateres. 
+At telefonen kjører «ren» Android gjør også at den føles svært rask i daglig bruk, og den tåler godt tyngre belastninger, med kraftig maskinvare innabords. 
+
+Prislappen er heller ikke ueffen – for 5.990 får du 32GB-versjonen, og så kan du eventuelt legge på en ekstra femhundrelapp for å doble lagringskapasiteten til 64GB. 
+Det er en lavere pris enn mange konkurrerende telefoner, selv om Nexus 6P altså ikke har støtte for minnekort. 
+
+Google Nexus 6P 32GB 

@@ -1,0 +1,161 @@
+Apple iPhone 6s
+En helt ny måte å trykke på. 
+
+iPhone-lanseringene har blitt ganske forutsigbare med årene. 
+Annethvert år kommer det en modell med en ny formfaktor (iPhone 4, iPhone 5, iPhone 6), og årene i mellom oppgraderes innmat og funksjonalitet (iPhone 4s, iPhone 5s og nå iPhone 6s). 
+
+Blant annet kunne iPhone 4s skilte med stemmeassistenten Siri og iPhone 5s med fingeravtrykkleser på hjem-knappen. 
+Førstnevnte ble i høst lansert i norsk utgave, mens sistnevnte er blitt ytterligere forbedret i iPhone 6s. 
+
+Årets største overskrift er imidlertid den såkalte 3D Touch-teknologien, der telefonen ikke lenger bare registerer hvor du har plassert fingeren, men også hvor hardt du trykker. 
+En funksjon vi kjenner både fra Apple Watch, og fra styreflaten på de nye Macbook-maskinene. 
+
+En ny måte å navigere på 
+
+Det gjør at Apple nå har beriket brukergrensesnittet med egne 3D Touch-funksjoner, som også er gjort tilgjengelig for tredjeparter. 
+Eksempelvis kan du berøre et ikon på hjemskjermen for å så klemme fingeren inn et ekstra hakk, og dermed vil det på mange apper sprette opp en hurtigvalgsmeny, slik at du kan hoppe direkte til en bestemt funksjon i appen. 
+
+Dette brukes også mye til forhåndsvisning rundtom i operativsystemet. 
+Du kan berøre og klemme inn på en epost, en nettside, en SMS, en Instagram-konto eller hva det måtte være, for så å forhåndsvise hva som ligger bak i et eget vindu. 
+
+Du kan også sveipe forhåndsvisningen oppover, til høyre eller venstre for å utføre nye funksjoner – sletting, deling og så videre. 
+Og klemmer du den enda et hakk inn, hopper du inn i den. 
+Denne funksjonen kalller Apple peek and pop. 
+
+Vi liker godt hvordan Apple har implementert 3D Touch i forhold til navigering mellom programmer. 
+
+Klemmer du hardt inn på venstre kant av skjermen for deretter å skyve mot høyre, bytter du til den forrige appen. 
+Elegant er det også å flytte markøren i en lengre tekst ved å «3D-touche» på tastaturet, hvor du da kan flytte fingeren på tastaturet for å flytte markøren på samme måte som en muspeker. 
+
+Den nye Live Photos-funksjonen, som er aktivert som standard, gjør at kameraet også tar vare på et par sekunder med video før og etter du tar et bilde. 
+Videoen kan du så fremkalles ved å klemme litt ekstra hardt på bildet. 
+
+Den lagres i utgangspunktet i et .mov-format, men med apper som Live GIF kan du lagre dem som animerte .gif-bilder, slik vi har gjort her. 
+
+Det vi savner er at det ikke finnes noen visuell merking av hva som kan «3D Touch-es». 
+
+Når man blir vant med det i nettleseren, er det for eksempel litt uvant at det ikke fungerer på ei lenke i Facebook-appen, men muligens vil de fleste app-utviklere legge inn støtte slik at det med tiden vil bli en mer helhetlig opplevelse. 
+
+Sannsynligvis kan spillutviklere få til mye morsomt med 3D Touch i fremtiden. 
+Utvalget av spill som støtter funksjonen er begrenset per nå, men vi har blant annet testet litt med det futuristiske racingspillet AG Drive, der gass og brems påvirkes av hvor hardt du trykker på skjermen, og det fungerer utmerket. 
+Å aktivere turboen ved å klemme ekstra hardt er ganske fiffig. 
+
+Ekstremt rask fingeravtrykksleser 
+
+En annen ting som er blitt oppgradert fysisk er den nye fingeravtrykksleseren på iPhone 6s. 
+
+Nå var vi ganske fornøyde også med forrige generasjon, men den nye varianten er ekstremt rask og presis. 
+Ja faktisk er den så rask at det er så vidt man klarer å trykke på hjem-knappen uten samtidig å låse opp telefonen. 
+
+Skal du bare ta en rask titt på varslene, er det derfor nesten bedre å bruke strømknappen på siden for å tenne skjermen. 
+
+Heldigvis har varslene nå blitt sortert kronologisk i iOS9, slik at du ser de siste øverst om du drar ned fra toppen av skjermen når telefonen er låst opp, der de ikke lenger er gruppert per app. 
+
+Rå ytelse 
+
+I det hele tatt oppleves alt veldig raskt på iPhone 6s. 
+
+iOS har alltid vært veldig smidig med tanke på navigering, surfing på nettet, åpning av apper og så videre, men med så mye krutt under panserset går alt enda litt kvikkere enn før. 
+
+Det gjenspeiles også i ytelsestestene vi har kjørt på telefonen. 
+Eksempelvis har vi aldri opplevd en så god Sunspider-score som 221ms – det nærmeste vi har kommet er 347ms med iPhone 6 og 356ms med Samsung Galaxy S6 Edge; da med Samsungs egen nettleser. 
+
+Geekbench, som måler hastigheten på prosessoren, gir oss 2.533 og 4.418 på henholdsvis én og flere kjerner. 
+Den høyeste scoren på én kjerne hadde Apple fra før med 1.625 på iPhone 6 Plus, som altså blir slått med soleklar margin. 
+På flerkjernetesten er det bare Samsung Galaxy S6 Edge og Edge+ som har bedre score enn iPhone 6s; da med henholdsvis 4.590 og 4.787. 
+
+Og på 3DMark Unlimited, som er en grafikktung ytelsestest, kommer også iPhone 6s ut på toppen av vår liste med 27.915 poeng. 
+Nummer to av de vi har testet er Sony Xperia Z5 Compact med sine 26.653 poeng. 
+
+Hva med batteriet? 
+
+Noe oppsiktsvekkende var at Apple hadde krympet batteriet ørlite på iPhone 6s i forhold til iPhone 6 – fra 1810mAh til 1715mAh, altså rundt fem prosent lavere kapasitet. 
+
+Når det gjelder lading er det heller ikke noe ekstraordinært med iPhone 6s: 
+Den har ikke støtte for trådløs lading, og heller ikke for hurtiglading. 
+
+Der flere av konkurrentene nå kan gi deg 50-60 prosent etter en halvtime i laderen, klarte vi å hoppe fra 22-52 prosent på den samme halvtimen; altså med en økning på 30 prosentpoeng. 
+
+Vi opplever likevel batteritiden som ganske god på iPhone 6s. 
+
+I skrivende stund er det 25 timer siden den stod i laderen, og på det drøye døgnet har telefonen vært i bruk fire timer, inkludert tre kvarter med spilling, og noen runder på Facebook, sjekking av epost, nettsurfing, en håndfull ytelsestester, og vi har knipset et par dusin bilder. 
+Allikevel er det 22 prosent igjen på batteriet. 
+
+Med andre ord opplever vi iPhone 6s å ha minst like god batteritid som Android-toppmodeller med 50 prosent større batterikapasitet på papiret. 
+En fordel er selvsagt også at du kan lade denne telefonen flere ganger med en nødlader enn en telefon som har større batterikapasitet. 
+
+Nytt kamera 
+
+Helt siden iPhone 4s har Apple tviholdt på de åtte megapikslene i kameraet (som egentlig er mer enn nok), men denne gangen har de økt oppløsningen til tolv megapiksler. 
+
+Objektivet har en lysstyrke på f/2,2 – ikke veldig oppsiktsvekkende i dagens marked, og kameraet slipper dermed inn rundt 35 prosent mindre lys enn markedsledende LG G4. 
+
+Merk også at iPhone 6s ikke har optisk bildestabilisator som vi finner hos mange av konkurrentene – det er det kun den større Plus-utgaven som kan skilte med. 
+Sensoren er for øvrig 1/3" stor, som gir en individuell pikselstørrelse på 1,22µm; fortsatt ganske godt i dagens marked, selv om forgjengeren kunne skilte med 1,5µm. 
+
+Slik blir bildene 
+
+En av tingene vi blir mest imponerte av med iPhone 6s, og som også forgjengerne var gode på, er lysmålingen. 
+Vi har gitt telefonen mang en utfordring i sterk høstsol de siste dagene, og i de aller fleste tilfellene har vi vært svært fornøyde både med eksponeringen og fargene i bildene 
+
+Her ser du noen eksempler: 
+
+Når lyset blir dårlig, virker iPhone 6s å prestere meget godt. 
+Under er for eksempel et bildeutsnitt tatt i svak innendørsbelysning med ISO 800, sammenlignet med en av de absolutt beste mobilkameraene, LG G4 (iPhone 6s øverst): 
+
+Som du ser er det litt mer synlige korn i bildet fra Apple-telefonen, men detaljnivået er forholdsvis likt (ulik brennvidde gjør at bildeutsnittet avviker noe). 
+iPhone 6s har også en riktigere hvitbalanse i bildet. 
+
+Med tanke på detaljnivå er det imidlertid fortsatt litt å strekke seg til for å matche de aller beste. 
+Under ser du et 100%-utsnitt der det er åpenbart at LG G4 (nederst) leverer flere detaljer i bildet, men det skal også nevnes at telefonene ikke har samme brennvidde (vi har tatt dem med samme oppløsning og aspekt): 
+
+Under ser du flere bilder tatt med iPhone 6s: 
+
+Også på video opplever vi iPhone 6s som svært god. 
+Her er en eksempelvideo filmet i full HD-oppløsning. 
+Som tidligere finnes også muligheten for å filme med 240 bilder i sekundet og dermed oppnå svært sakte film under avspillingen. 
+
+Ellers kjent og kjært 
+
+Utvendig er det lite som er endret fra iPhone 6. 
+Den er fortsatt designet i aluminium (som skal være mer solid enn tidligere) og er blant de tynneste på markedet med sine 7,1mm, selv om det er 0,2mm tykkere enn forgjengeren. 
+Samtidig har vekten økt med 14 gram. 
+
+På innsiden har telefonen fått en ny haptisk motor til vibrering. 
+Den gjør at det blant annet føles som om du trykker inn noe mekanisk når du bruker 3D Touch-funksjonen, og vi opplever også generell vibrering som mindre støyende enn hva som er vanlig på telefoner ellers, altså at du fortsatt kjenner det godt i lomma, men der det i mindre grad høres av de rundt deg. 
+
+Skjermen er som før, altså meget god. 
+Spesielt har den gode farger og en svært god innsynsvinkel, der både farger og lysstyrke bevares svært godt om du beveger hodet på siden av telefonen. 
+Det gjør for eksempel at du lett kan se varsler selv om telefonen ligger på bordet litt unna deg. 
+
+iOS 9 har de fleste iPhone-brukere allerede stiftet bekjentskap med. 
+
+Vi synes Apples operativsystem har kommet seg de siste par årene, der man nå både har mulighet til å bytte ut Apple-tastaturet om man foretrekker en annen variant, eller der man selv kan legge til apper på delingsmenyen, slik at man for eksempel kan bokmerke en lenke fra en app direkte til Pocket eller lignende. 
+Det var ting vi savnet da vi testet iPhone 5 i sin tid, der vi følte at Android lå et par hakk foran med tanke på brukseffektivitet. 
+
+Men prisen er svært høy 
+
+Vi kommer likevel ikke uten om at iPhone 6s er en svært dyr telefon. 
+Innstegsmodellen har fortsatt bare 16GB lagringsplass (uten støtte for minnekort), og som vi har skrevet tidligere anbefaler vi minst 64GB lagringsplass siden både bilder, videoer og apper tar større plass enn noen gang. 
+
+Den koster imidlertid enda en tusenlapp, altså 8.500 kroner. 
+Det er for så vidt det samme som Samsung Galaxy S6 Edge kostet i sin tid da den ble lansert, selv om den nå er en tusenlapp billigere i butikkene. 
+
+Konklusjon 
+
+Den er dyrere enn noen gang, men iPhone 6s er også en fremragende telefon. 
+Ikke bare har den fått raskere innmat enn forgjengeren – den innovative 3D Touch-funksjonen er langt mer enn en gimmick og gir oss bokstavelig talt en ekstra dimensjon å bruke mobilen på; det være seg alt fra å forhåndsvise nettsider når man surfer til å bytte programmer på en enkel måte. 
+
+Det sitter i fingrene etter kort tid og er, som med så mye annet fra Apple, svært godt implementert i operativsystemet. 
+
+Vi er også spente på hva tredjeparter kan gjøre med denne funksjonen i sine apper. 
+
+Kameraet er også blant de bedre. 
+Det har riktignok litt å gå på hva gjelder detaljnivå om vi inspiserer bildene på nært hold, men både farger, hvitbalanse og eksponering oppleves som svært gode. 
+Også fingeravtrykksensoren er blitt ekstremt rask – det er faktisk så vidt vi klarer å trykke på den uten å låse opp telefonen. 
+
+På tross av svært god ytelse og liten batterikapasitet på papiret, synes vi iPhone 6s klarer seg godt også med tanke på batteritiden, selv om en hurtigladingsmulighet kunne ha vært prikken over i-en. 
+
+Har du råd til det, har vi derfor ingen problemer med å anbefale iPhone 6s, men det forutsetter at du går for 64GB-versjonen. 
+
+Apple iPhone 6s 64GB 

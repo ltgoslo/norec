@@ -1,0 +1,154 @@
+Honor 7
+Vi kalte forgjengeren årets beste mobilkjøp. 
+Årets utgave gir også svært god valuta for pengene. 
+
+Huawei har gjort det skarpt i Norge de siste årene, også med «dattermerket» Honor. 
+
+I fjor kåret vi Honor 6 til ett av de beste mobilkjøpene fordi den bød på meget gode spesifikasjoner til en svært mye hyggeligere prislapp enn konkurrentene. 
+Det siste året har vi også gitt gode skussmål til sekstommeren Ascend Mate 7 og til sommerens nykomling, P8. 
+
+Nå med fingeravtrykksleser 
+
+Blant nyhetene i forhold til Honor 6 er at Honor 7 nå har fått fingeravtrykkleser på baksiden av telefonen, som i stor grad kan minne om den vi fant i Mate 7. 
+Vi liker plasseringen godt, der pekefingeren har et naturlig nedslagsfelt når du holder telefonen i én hånd. 
+
+Og – selv om vi var godt fornøyde også med forrige versjon, hevder Huawei at denne sensoren skal være vesentlig forbedret siden forgjengeren, både hva angår hurtighet og nøyaktighet. 
+Vi har få innsigelser på denne, og verdt å merke seg er at den heller ikke krever et fysisk trykk for å låse opp telefonen – berøring er alt som skal til. 
+
+Merk dog at den foreløpig ikke fungerer med tjenester som LastPass. 
+Dette kan imidlertid endres når neste versjon av Android kommer, versjon 6.0 Marshmallow, siden fingeravtrykk der blir en «offisiell» autentiseringsmekanisme. 
+
+Fingeravtrykksleseren har imidlertid et par ekstra funksjoner på Honor 7. Blant annet kan du bruke den som utløserknapp for bilder med frontkameraet, og du kan trekke fingeren ned og opp for å dra ned og opp varslingsmenyen. 
+Sistnevnte kunne godt ha fungert litt mer stabilt i våre øyne, og vi foretrekker derfor den tradisjonelle metoden – på skjermen. 
+
+Ikke den tynneste 
+
+I racet om hvem som klarer å lage den tynneste telefonen, vinner ikke Honor 7 noen priser, men det spiller i våre øyne liten rolle. 
+Med tykkelse på 8,5mm føles telefonen robust og god i hånda, og med aluminiumsbakside som er noe avrundet mot kanten oppleves den også som en premium-telefon utvendig. 
+
+Skjermen har økt noe i størrelse og er nå 5,2 tommer, mot 5,0 på Honor 6. Oppløsningen er fremdeles 1920x1080, som gir et skarpt nok bilde i våre øyne (Sony, derimot, har lansert en mobiltelefon med 4K-skjerm). 
+
+Vi har heller ingen store innsigelser hverken på farger eller innsynsvinkel. 
+
+En ting som er verdt å merke seg er at skjermen har en tynn film lagt over seg for å beskytte glasset. 
+Filmen får lett riper og er ikke så enkel å få av (men det gikk til slutt), og selve skjermen tåler vesentlig mer. 
+Vi ser dog ingen referanse til Gorilla Glass eller lignende i spesifikasjonene, så det kan være at denne skjermen vil tåle mindre ved fall og lignende enn konkurrerende modeller. 
+
+En egen knapp 
+
+Tar vi turen rundt kantene av telefonen, finner vi de tradisjonelle volumknappene, av/på-knapp, ladeport og SIM-luke. 
+I den er det også plass til et micro SD-kort, eller et sekundært SIM-kort om du heller vil det; det være seg for å skille mellom jobb og privat, eller om du er mye på tur til utlandet. 
+Oppsettet av dette styrer du for øvrig i et eget menyvalg i innstillinger-menyen. 
+
+Av og på-knappen bruker vi sjelden til å slå telefonen på, takket være fingeravtrykksleseren. 
+Her kan du dessuten kakke to ganger på skjermen for å vekke den til live når den er avslått, om du aktiverer dette i innstillingene. 
+
+Interessant er det imidlertid at Honor 7 har fått en helt egen knapp på siden av telefonen, og du kan selv tilegne funksjoner til henholdsvis ett trykk, to trykk og når du holder den inne. 
+
+Du kan starte en hvilken som helst app når du utfører en av disse variantene, eller velge blant en liten håndfull innbakte funksjoner, som å starte lommelykt, eller bare knipse et bilde så raskt som mulig. 
+
+Merkelig nok kan du ikke styre hvorvidt telefonen skal være lydløs eller ei med dette, men en avansert bruker kan sikkert fikse seg et Tasker-script som gjør susen. 
+
+Eget Android-skall 
+
+På lik linje med de fleste andre produsenter, har også Huawei et eget brukergrensesnitt på toppen av Android, som de kaller EMUI. 
+
+Dette er faktisk noe vi synes fungerer svært godt på Huaweis telefoner: 
+
+Grensesnittet er rent og delikat, i tillegg til at vi får funksjonalitet som ikke er vanlig på andre telefoner. 
+Litt uvant er det at man ikke har noen egen app-skuff, og alle app-ikoner blir derfor liggende på hjemskjermen, slik det fungerer i iOS. 
+
+Også kameraappen ser ut til å være ganske iPhone-inspirert, der de ulike modiene veksles mellom ved å sveipe til sidene. 
+
+For å ta et par eksempler på unike funksjoner, kan du velge hvilke apper som skal få bruke bakgrunnsdata og ikke, delt opp i WiFi og mobiltrafikk. 
+Om du vil kan du endre rekkefølgen og utseendet på tilbake-, hjem- og programbytteknappen, eller stryke knapperaden til siden for å gjøre bildet mindre slik at du lettere rekker over til motsatt hjørne. 
+
+Telefonen har dessuten et eget varslingssenter, slik at du lett kan styre hvilke apper som skal få sende deg varsler og hvordan. 
+
+Du kan også bruke fingerknoken til alternative funksjoner: 
+
+Kakker du to ganger tar du et skjermbilde, og du kan for eksempel tegne en C på låst skjerm (med knoken) for å starte kameraet. 
+Som med P8 opplever vi dog at skillet mellom knoke og fingertupp ikke alltid oppfattes korrekt. 
+
+Merk også at du må inn med fingeravtrykk eller låsekode når du gjør dette, selv om det strengt tatt ikke burde ha vært nødendig (kameraet kan startes manuelt fra låst skjerm). 
+Dessuten tar det litt for lang tid til at det blir spesielt effektivt. 
+
+Varslingsmenyen har to paneler og hvilket av dem som dukker opp først, avhenger av hvilken side av midten du trekker ned fingeren fra. 
+På den høyre delen finner du hurtiginnstillinger til WiFi, Bluetooth, lysstyrke på skjermen og lignende. 
+
+Kamera 
+
+Også kameraet er oppgradert siden Honor 6. Oppløsningen på bildebrikken er på 20 megapiksler på Honor 7, og lysstyrken til objektivet er f/2,0 som er blant de bedre på markedet. 
+Dessuten har kameraet fasedetekterende autofokus som i våre øyne virker svært rask og effektiv. 
+Frontkameraet på 8 megapiksler har imidlertid bare f/2,4 og har heller ingen autofokus. 
+
+Jevnt over ser det greit ut, men bare det. 
+
+Spesielt synes vi bildene bærer preg av å være noe fattige på fargemetning og konstrast, og de vil derfor ofte fremstå som litt blasse. 
+
+Under ser du for eksempel den samme blomsten fotografert av Honor 7 (øverst) og Samsung Galaxy S6 Edge+; riktignok en telefon til det dobbelte av prisen, så sammenligningen er selvsagt ikke helt fair: 
+
+Om vi zoomer inn, ser vi også at bildet fra Honor-telefonen ikke er like detaljert: 
+
+Stadig flere telefoner kommer med automatisk HDR-funksjon. 
+Det gjør at telefonen selv oppdager når motivet er konstrasfylt slik at kameraet tar flere bilder som sys sammen til ett, med økt dynamisk omfang. 
+På Honor 7 er du nødt til å slå av og på denne funksjonen selv. 
+
+Men når sant skal sies merker vi ikke den helt store forskjellen om vi bruker HDR eller ei. 
+
+Det er mest i de mørke partiene bildet lysnes (se for eksempel skyggen treet kaster på gresset under), men høylysene forblir relativt urørt. 
+Nederste bilde har HDR-funksjonen aktivert. 
+
+En ganske morsom funksjon er «Lys maling» (sic) som lar deg bruke en vilkårlig lang lukkertid, enten du vil fotografere biler i fart, rennende fosser eller lignende. 
+Du åpner og lukker lukkeren ved å trykke på opptaksknappen og dermed kan du få til kreasjoner som denne (hentet fra testen av P8): 
+
+Under ser du noen flere bilder vi har tatt med Honor 7 i testperioden: 
+
+Ytelse 
+
+Hva gjelder ytelsen, oppfører Honor 7 seg eksemplarisk i daglig bruk. 
+Grensesnittet flyter godt, og det samme gjør skrolling av nettsider. 
+Til dagligdagse oppgaver er det lite å utsette på ytelsen vi får fra Honor 7. 
+
+Det reflekteres i en god score på PCMark for Android. 
+Denne ytelsestesten simulerer surfing på tunge nettsider, redigering av bilder/video og lignende der telefonen scorer 4.586 poeng. 
+Til sammenligning fikk forgjengeren 2.745 poeng i samme gren, mens Sonys (foreløpige) toppmodell, Z3+, får 4.674 poeng. 
+Men merk altså at sistnevnte er over 50 prosent dyrere. 
+
+Også i en av de mer populære ytelsestestene, AnTuTu, gjør Honor 7 det godt, med en score på 52.671. 
+Også her scorer den jevnt med Z3+ (52.698) og bedre enn både LG G4 og HTC One M9. Testen tar for seg «hele telefonen» (prosessor, grafikk, hastighet på minnet etc) og gir til slutt en samlet poengsum. 
+
+I mer grafikktunge tester når imidlertid Honor 7 ikke helt opp til de beste, og eksempelvis får vi 12.032 poeng i 3DMark, som bare er litt over halvparten av det nevnte Z3+ scorer og godt bak fjorårets toppmodeller. 
+Det tyder på at Honor 7 ikke er en utpreget spilltelefon om du har en forkjærlighet for bilspill, FPS og lignene. 
+
+Når det gjelder batteriet har Honor 7 et batteri på 3100mAh. 
+Innebygd finnes det også flere strømsparefunksjoner, og er det en app som bruker uforholdsmessig mye batteri, blir du varslet slik at du kan hindre den i å bruke ressurser når den kjører i bakgrunnen. 
+Disse varslene kan på en annen side også være noe irriterende. 
+
+Uansett – uten å benytte disse sperrefunksjonene har vi fint fått en dags brukstid fra hver lading, med 20-30 prosent igjen ved leggetid og typisk halvannen times skjermbruk i løpet av dagen, med push-varsler aktivert og hele sulamitten. 
+
+Lyd og samtaler 
+
+Honor 7 leverer varene med tanke på samtalekvaliteten. 
+Som du ser på baksiden av telefonen, er øvre og nedre del i plast, og det er fordi det skjuler seg to antenner bak denne plasten. 
+Dermed vil telefonen automatisk bytte til den som får inn best signal, så om du dekker over den nederste, brukes den øverste. 
+
+I testperioden har vi opplevd samtalekvaliteten som meget god på Honor 7, og vi har heller ikke fått noen klager fra motparten. 
+
+Lyden fra den interne høyttaleren utmerker seg ikke spesielt fra andre telefoner i dag og byr på greit volum med ganske klar diskant. 
+
+Konklusjon 
+
+Det er mye å like ved Honor 7 når man tar prisen med i betraktningen. 
+Til 3.500 kroner føles det som en dyrere telefon, den har en svært god fingeravtrykkleser og yter godt i daglig bruk. 
+
+Telefonen har god skjerm, Huaweis grensesnitt er delikat og rikt på funksjonalitet, og en ekstra knapp på siden som kan programmeres til hva man måtte ønske kan være ganske kjekt, selv om utvalget av funksjoner er noe begrenset. 
+
+Men det skorter litt på kameraet, og telefonen yter ikke like godt i spill som andre telefoner i samme prisklasse. 
+
+Markedet har blitt tøft i dette segmentet, både med nye telefoner og aldrende toppmodeller, der flere ligger i dette prissiktet. 
+Honor 7 klarer derfor i våre øyne ikke å stikke seg ut som en såpass soleklar favoritt i forhold til prisen slik forgjengeren gjorde. 
+
+Men en god telefon – så absolutt! 
+
+Huawei Honor 7 16GB 

@@ -1,0 +1,119 @@
+Multicom Talisa U731
+Lekker og kraftig PC fra norske Multicom. 
+
+Nettbutikken Multicom kan mer enn å selge datautstyr og hjemmeelektronikk. 
+I den vesle bygda Åmli i Aust-Agder har de egen PC-produksjon, og siden oppstarten på midten av 90-tallet har de satt sammen og solgt mer enn 150.000 PC-er. 
+
+I skrivende stund er de alene om å sette sammen bærbare PC-er i Norge. 
+PS.no har riktig nok en viss produksjon av bærbare Tundra-maskiner, men disse blir også bygd av Multicom. 
+
+Satser på gaming 
+
+Produksjonen er først og fremst konsentrert om gaming-segmentet, der kundene ofte stiller store krav til ytelse og utvidelsesmuligheter. 
+Her har Multicom funnet en nisje der de kan konkurrere mot store aktører som MSI og Asus, også på pris. 
+
+I det siste har de også trappet opp sin satsing på lette, robuste maskiner, og modellen Talisa U731 er spesielt spennende. 
+
+Gode spesifikasjoner 
+
+Designmessig minner den sterkt om en MacBook fra Apple, men utstyrsmessig er den omtrent på høyde med en MacBook Pro til nesten doble prisen. 
+Den er dessuten mye enklere å oppgradere med mer minne, ekstra diskplass og lignende. 
+
+Her er en rask oversikt over de viktigste egenskapene: 
+
+Skjerm: 
+13.3" Full HD IPS skjerm, matt Prosessor: 
+Intel Core i7-5500U RAM: 
+8GB DDR3 Grafikkort: 
+Intel HD Graphics 5500 Lagring: 
+256GB SSD + 1TB harddisk Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 1x USB 2.0 + 1x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC/MMC Trådløst nett: 
+Intel AC 3160 (802.11a/b/g/n/ac) Kablet nett: 
+1000Mbps Annet: 
+Helnorsk tastatur, aluminium chassis 
+OS: 
+Ikke inkludert Størrelse: 325 x 219 x 18 mm Vekt: 
+1.4 kg Pris: 
+8.495 kroner inkl mva 
+
+Dette er ikke vanlige spesifikasjoner i denne prisklassen. 
+Vi tok en titt på Prisjakt.no, og det finnes kun én 13,3-tommer som er billigere med noen lunde samme spesifikasjoner, men den bruker forrige generasjon Core i7-prosessor og kun SSD, ikke tradisjonell harddisk i tillegg. 
+
+Uten Windows 
+
+Det som imidlertid er verdt å merke seg er at Multicom-maskinen kommer uten operativsystem. 
+Skal du ha Windows 10 levert med maskinen, koster det rundt 1000 kroner ekstra. 
+
+Det er også greit å være klar over at maskinen kan leveres med kun SSD. 
+Da sparer du 500 kroner. 
+Å kunne kjøre med både SSD og harddisk er uansett ikke vanlig i maskiner i denne størrelsen. 
+
+Solid inntrykk med få ankepunkter 
+
+Den robuste aluminiumsdesignen gir helt klart et inntrykk av kvalitet. 
+Det er matt, rent og pent, og tankene dras umiddelbart i retning av Apples Macbook-serie. 
+IPS-skjermen er høyoppløst, lyssterk og klar også fra skrått hold, og den matte overflaten gjør at gjenskinn aldri blir noe problem. 
+
+Alle tilkoblinger sitter på sidene, og her sitter også høyttalerne. 
+Lydkvaliteten er ikke noe å skrive hjem om, det låter spinkelt og helt uten fylde. 
+Her er det kun eksterne høyttalere eller hodetelefoner som duger hvis du skal lytte til musikk eller se film. 
+
+Tastaturet er fast og responsivt, og er meget behagelig i bruk. 
+Vi gir også en stor tommel opp for at Multicom benytter helnorsk tastatur, ikke fellesnordisk slik de aller fleste konkurrentene benytter. 
+
+Under tastaturet sitter en pekeplate med integrerte felt for venstre/høyreklikking. 
+Den er flerberøringsfølsom, men vi er ikke helt fornøyd med responsen når vi for eksempel bruker to fingre for å skrolle i lange dokumenter. 
+Vi har prøvd diverse innstillinger i styreprogrammet, men har ikke klart å bli helt venn med pekeplaten, dessverre. 
+
+Ren Windows-opplevelse er et stort pluss 
+
+Vårt testeksemplar ble levert med Windows 8.1 og byr på en ytelse du normalt finner på ultrabook-maskiner i klassen over 10.000 kroner. 
+Det betyr minimalt med venting i de fleste situasjoner. 
+
+At maskinen er kjemisk renset for tredjeparts antivirus-programmer og demoversjoner av kreti og pleti, bidrar også til en bedre brukeropplevelse enn på mange andre maskiner i markedet. 
+
+Her skynder vi oss å legge til at med Windows 10 kan du få en ren Windows-opplevelse på alle PC-er, noe du kan lese mer om i denne artikkelen. 
+
+Slik yter den 
+
+Helt lydløs er imidlertid maskinen ikke, selv om den er stille i lange perioder med lav belastning, er viften godt hørbar under tung belastning. 
+Vi tror imidlertid de færreste vil oppleve støyen som særlig sjenerende, da må det i tilfelle være i meget stille omgivelser. 
+
+I diagrammet under har vi sammenlignet prosessorytelsestall fra Passmark med typiske prosessorer i PC-er som ligger i samme pris- og vektklasse. 
+Som du ser biter prosessoren i denne PC-en godt fra seg: 
+
+SSD-en er langt raskere enn selv de raskeste harddiskene på markedet, men skrivehastigheten kunne gjerne vært høyere. 
+Noe stort ankepunkt er den imidlertid ikke: 
+
+Hva med grafikkytelsen? 
+
+Den integreterte Intel HD 5500-grafikken gjør en utmerket jobb til alle 2D-oppgaver, inkludert avspilling av 4K-videomateriale. 
+Noen spill-PC er dette imidlertid ikke, selv om en del titler lar seg spille på moderat detaljnivå, spesielt litt eldre spill. 
+
+Er du opptatt av å spille titlene fra topp 10-listen, velger du ganske enkelt en annen PC med dedikert grafikk fra AMD/Nvidia. 
+
+God batteritid 
+
+Vi testet batteritiden i to omganger, én med minimal belastning, én med kontinuerlig videoavspilling (720P-video). 
+I førstnevnte scenario tok det 575 minutter før maskinen tok kvelden, og ved videoavspilling tok det 436 minutter. 
+
+Det bør bety at batteritiden bør ligge på rundt 8 timer ved variert bruk, noe som må betegnes som meget bra. 
+
+Konklusjon 
+
+Det er helt på det rene at du får mye PC for pengene hvis du velger denne maskinen. 
+Den er svært solid bygget, har god ytelse og meget romslig lagringsplass. 
+Vi gir også skryt til skjerm og tastatur. 
+
+Det største ankepunktet er pekeplaten, som burde gitt en glattere opplevelse ved flerberøring, samt den spinkle lyden fra høyttalerne. 
+Utover dette er Talisa en flott PC som får en klar femmer på terningen. 
+
+OPPDATERT: 
+Vi har fått bekreftet fra Multicom at de venter et nytt parti maskiner som vil ha ny og oppgradert pekeplate. 
+
+Sjekk også ut andre PC-er i ultrabook-klassen vi har testet i det siste, spesielt bør du ta en titt på HP Spectre X360, Acer Aspire S7 og Dell XPS 13. 
+
+Multicom Talisa U731-TSFB3 

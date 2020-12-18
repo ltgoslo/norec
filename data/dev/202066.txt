@@ -1,0 +1,95 @@
+Ruter-test:TP-Link Touch P5 
+
+Berøringsskjermen gjør oppsettet av ruteren til en lek. 
+Men det viktigste er nok at du får god ytelse til en lavere pris enn konkurrentene. 
+
+Selv om TP-Link er en av verdens største produsenter av nettverksutstyr, er Touch P5 den første modellen vi har med i vår testrunde av trådløse AC-rutere. 
+Og den skiller seg fra konkurrentene på flere punkter. 
+
+Enkel konfigurasjon via skjermen 
+
+For det første er den en AC1900-ruter med tre antenner. 
+De andre modellene vi har testet så langt, har vært enten AC2600 eller AC3200, med fire eller seks antenner. 
+
+I teorien betyr det noe lavere spesifikasjoner, men som vi snart skal se, behøver ikke det å bety noe som helst hvis du ikke har helt spesielt utstyr og/eller behov. 
+
+For det andre har den en stor berøringsfølsom skjerm, og via denne kan du faktisk konfigurere det aller meste i nettet ditt. 
+
+Det forenkler oppsettet betraktelig i forhold til tradisjonell konfigurering via nettleseren på en tilkoblet PC. 
+I tillegg kan skjermen vise informasjon om pålogging til eventuelt gjestenett, slik at du slipper å gå rundt og huske på dette. 
+
+Og så må vi innrømme at vi liker designen. 
+Ruteren tar ikke særlig stor plass, og pregingen i overflaten gir en spesiell effekt. 
+Skjermen og ikonene gir også en følelse av at dette er et produkt som hører hjemme i 2015. 
+
+Her er en kjapp oversikt over de viktigste egenskapene: 
+
+Modell: TP-Link Touch P5 Standarder: 
+802.11a/b/g/n/ac Antenner: 3 USB-porter: 1 x USB 2.0 + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Berøringsskjerm Størrelse: 
+28,4 × 15,7 × 5,2 cm Vekt: 
+1,35kg 
+
+Dette er altså en AC1900-ruter. 
+Det betyr at maksimal teoretisk hastighet er 1300MHz på 5GHz-båndet, og 600Mbit på 2,4GHz-båndet. 
+Totalt kan du med denne ruteren sette opp fire aksesspunkter, to «vanlige» for 2,4 og 5GHz-båndene, og to gjestenett for de samme båndene. 
+
+Enkel installasjon, men ikke på norsk 
+
+I esken følger det med en hurtigveiledning som er lettfattelig, men som dessverre ikke kommer på norsk. 
+Grensesnittet i menyene er også på engelsk, men vi vil likevel karakterisere menysystemet som meget brukervennlig. 
+Endrer du på innstillingene, effektueres endringene som regel kjapt. 
+
+Foreldre vil garantert sette pris på gode kontrollmuligheter, blant annet kan du tidsstyre tilgangen til spesielle PC-er og mobiler. 
+Dette er svært enkelt å sette opp: 
+
+Ruteren har to USB-porter, én USB 3.0-port i fronten, og én i bakkant. 
+Begge kan brukes mot lagringsenheter eller skrivere som du ønsker å dele i nettverket. 
+Eventuelle disker eller minneplugger kan konfigureres med tilgangskontroll, eller være åpent for alle som er tilkoblet nettet. 
+De kan også nås via Internett, dersom du skulle ønske det. 
+
+Du finner også fire LAN-porter på baksiden som støtter hastigheter på inntil 1Gbps. 
+
+Ja, denne ruteren har ganske enkelt det aller meste av hva vi forventer av en moderne ruter, med unntak av VPN. 
+
+Ikke automatisk firmware-sjekk 
+
+Men det vi savner er muligheten til å oppdatere ruteren direkte via nettet, noe alle de andre ruterne vi har testet denne høsten kan. 
+
+Her må du i stedet sjekke nettsidene til TP-Link om det har kommet ny firmware, laste ned for deretter å laste opp manuelt til ruteren i etterkant. 
+Det er for tungvint. 
+
+God hastighet og rekkevidde 
+
+Når det gjelder hastighet, stabilitet og rekkevidde ble vi imidlertid positivt overrasket over Touch P5. 
+
+Vi brukte samme utstyret og fulgte samme testprosedyre som er beskrevet i denne artikkelen, og den viser seg å kunne måle seg med langt dyrere og bedre spesifiserte rutere: 
+
+Også hastigheten mot mobil viste seg å være god, og vi klarte å utnytte vår 100Mbit-linje mot Internett godt på alle stedene vi målte: 
+
+Hastighet mot USB-lagring er middels når det gjelder å lese data, men vi merker oss at skrivehastigheten faktisk matcher Linksys EA8500, som foreløpig leder på dette testpunktet: 
+
+Også når det gjelder rekkevidde ble vi positivt overrasket. 
+På den samme benken i hagen, rundt 75 meter fra huset, hadde vi helt grei dekning på 5GHz-nettet, og fikk surfet med hastighet på 50Mbps på PC-en. 
+
+Det er bedre enn på noen av de andre ruterne vi testet tidligere i høst. 
+
+Siden testtidspunktene er forskjellig, kan vi imidlertid ikke utelukke at det kan være omkringliggende forhold som har endret seg siden vi testet de andre ruterne. 
+
+Vi kan uansett konstatere at denne ruteren har meget god rekkevidde. 
+
+Konklusjon 
+
+TP-Link Touch P5 vil bli husket for sitt brukervennlige oppsett via den innebygde skjermen, samt gode rekkevidde og hastighet som ikke står tilbake for de dyrere konkurrentene. 
+
+Det gjør den til en ruter vi absolutt kan anbefale. 
+
+Vi savner riktignok norskspråklig grensesnitt og enklere oppgradering, men det er ikke nok til å ta fra den en klar femmer på terningen. 
+
+OPPDATERT: 
+Fra TP-Link får vi opplyst at det jobbes med både norsk språk og automatisk firmware-oppdatering. 
+Dette skal forhåpentligvis være på plass rundt årsskiftet. 
+
+TP-Link Touch P5 

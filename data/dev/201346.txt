@@ -1,0 +1,79 @@
+Linksys EA8500
+En av markedets mest brukervennlige rutere er lynrask på nettverkslagring, men kommer forut sin tid. 
+
+Linksys EA8500 er den første ruteren på markedet som tilbyr såkalt MU-MIMO-teknologi (Multi User, Multiple Input Multiple Output). 
+
+Kort fortalt betyr dette at den kan transportere data til og fra mange tilkoblede enheter raskere enn hva eksisterende SU-MIMO-rutere kan. 
+
+Ifølge Linksys kan MU-MIMO-teknologien faktisk tredoble hastigheten i et gjennomsnittlig hjemmenetverk, når tre eller flere enheter er tilkoblet og overfører store datamengder samtidig. 
+
+Problemet er bare at det ikke selges noen PC-er, nettbrett eller mobiler som støtter MU-MIMO i skrivende stund. 
+
+Så hvorfor skal du få lyst på en? 
+
+AC2600 mot AC3200 
+
+Vi testet EA8500, som omtales som en AC2600-ruter, samtidig som vi testet tre av markedets råeste AC3200-rutere - behørig omtalt i denne artikkelen. 
+
+Ruteren skiller seg fra AC3200-ruterne ved at den kun har fire antenner (AC3200-ruterne har seks). 
+Den er også vesentlig lettere og byr på en kombinert USB/eSATA-kontakt, der konkurrentene kun har USB. 
+Har du en ekstern eSATA-harddisk, kan du altså koble den til her. 
+
+Men først noen viktige tekniske egenskaper, kort oppsummert: 
+
+Modell: 
+Linksys EA8500 MU-MIMO Standarder: 
+802.11a/b/g/n/ac Antenner: 
+4 USB-porter: 1 x USB 2.0 / eSATA + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Størrelse: 
+25,62 × 5,61 × 18,33 mm Vekt: 0,72kg 
+
+Så enkelt kan det gjøres! 
+
+Installasjonen av ruteren er svært enkelt. 
+Det følger med en hurtigguide på norsk, og brukernavn og passord på ruteren er oppgitt flere steder, slik at du slipper å lete etter dette i prosessen. 
+
+Ruteren administreres via et svært enkelt og lekkert grensesnitt på norsk. 
+Vi vil faktisk påstå at Linksys er blant de aller beste på brukervennlighet, samtidig som funksjonaliteten er meget god: 
+
+Ved å registrere deg hos Linksys kan du administrere ruteren fra hvor som helst i verden, inkludert fra mobil. 
+iOS-appen er smakfullt designet, på norsk og svært enkel å bruke: 
+
+Foreldre vil garantert sette pris på gode kontrollmuligheter, blant annet kan du tidsstyre tilgangen til spesielle PC-er og mobiler. 
+Og i motsetning til flere av konkurrentene, er det her faktisk enkelt å sette opp: 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi brukte samme utstyret og fulgte samme testprosedyre som er beskrevet i denne artikkelen, også da vi testet EA8500. 
+
+Det viste seg at hastigheten var vesentlig lavere på alle de fire testpunktene i og rundt huset enn hva vi oppnådde med AC3200-ruterne: 
+
+Mest skuffet var vi over at iPhone 6 Plus aldri klarte å utnytte mer enn rundt halvparten av vår 100Mbit internettlinje via EA8500. 
+Her klarte alle de tre AC3200-ruterne å utnytte nærmere 100 prosent: 
+
+OPPDATERT: 
+Rett før artikkelen ble publisert kom en ny firmware-oppdatering, som tilsynelatende har rettet dette. 
+Vi opplever nå over 90Mbps på de beste plasseringene med iPhone 6 Plus. 
+
+Rekkevidden viste seg imidlertid å være ganske på samme nivå som de øvrige, det vil si at vi fikk sporadisk kontakt med ruteren fra en benk 75 meter fra huset, både med mobil og PC - vel og merke ved bruk av 2,4GHz-båndet. 
+
+Men så til det punktet der ruteren virkelig skinner: 
+Nettverkslagring. 
+Det viste seg at Linksys parkerte konkurrentene på hastighet, både på lesing og skriving til en USB3.0-minneplugg koblet direkte i ruteren: 
+
+Takket være enkel administrasjon av brukere og mapper, er dette absolutt et bruksområde for ruteren vi kan anbefale. 
+Men merk at EA8500 ikke støtter Apples backupfunksjon Time Machine. 
+
+Konklusjon 
+
+Linksys EA8500 byr på markedets kanskje mest brukervennlige oppsett og administrasjon. 
+Vi er også svært imponert over hvor godt den takler nettverkslagring direkte i ruteren. 
+
+Det er imidlertid et problem at du pr i dag ikke får utnyttet ruterens sanne potensiale. 
+Vår test viser at AC3200-rutere fungerer til dels vesentlig bedre med eksisterende utstyr, og prisen på disse ligger i samme leie. 
+
+Og før MU-MIMO-utstyr blir vanlige i PC-er, nettbrett og mobiler, tror vi sjansen er stor for at du vil finne langt rimeligere MU-MIMO-rutere på markedet. 
+
+Linksys EA8500 

@@ -1,0 +1,109 @@
+Acer Aspire Switch 11
+Hybrid-PC som kan brukes både som bærbar og nettbrett. 
+
+For bare et par uker siden skrev vi om PC-trendene for 2015, og blant de viktigste kategoriene i år finner vi hybridmaskiner; bærbare PC-er med berøringsskjerm som også kan fungere som et nettbrett. 
+
+Disse finnes i mange varianter – Lenovos Yoga-serie har for eksempel en skjerm som via et smart hengsel kan dreies hele veien rundt til baksiden, slik at det også kan brukes som et nettbrett om man ønsker det. 
+
+Microsofts eget produkt, Surface Pro 3, er et nettbrett med tilhørende tastatur og penn som åpner for flere kreative muligheter. 
+
+Dagens testprodukt, derimot, er i en vesentlig lavere prisklasse enn de nevnte. 
+
+Harddisk i tastaturet 
+
+Switch 11 er Acers siste tilskudd i hybrid-PC-markedet. 
+Her kan skjermen løsnes helt fra tastaturdelen og kan da brukes som et frittstående nettbrett. 
+
+Man merker raskt at tastaturet alene er noe tyngre enn det man forventer, og det er blant annet fordi Acer har valgt å legge en harddisk i selve tastaturet, som da ikke er tilgjengelig når du bruker skjermen som nettbrett. 
+
+Skjønt, du får også 64GB SSD-disk som er plassert i skjermdelen, og dermed oppleves også maskinen som kjapp i svingene i daglig bruk. 
+
+Cirka 40GB av dem er ledige første gang du starter maskinen. 
+
+Maskinen fås i flere konfigurasjoner – vår testmodell har 2GB interminne (RAM), Intel Atom-prosessor som snurrer på 1,33GHz og Windows 8.1 forhåndsinstallert (32-bit), altså med relativt beskjeden maskinvare. 
+Vær også oppmerksom på at skjermoppløsningen bare er 1366x768 piksler på vår testmodell, som i disse dager ikke er allverden. 
+Men det oppleves definitivt skarpere på en 11-tommer enn på en rimelig 15-tommer. 
+
+Prisen på denne modellen ligger på rundt 4.000 kroner i de rimeligste nettbutikkene. 
+Som nevnt finnes den i flere konfigurasjoner, f.eks. med Core i3, 4GB RAM og full HD-skjerm, men da til en høyere pris. 
+
+Litt klumpete 
+
+Man må et godt stykke opp i pris om man er på jakt etter en tynn og smekker bærbar PC. 
+Denne Acer-maskinen er ganske tykk (både som nettbrett og laptop) og veier nesten 1,6 kilo, som er ganske mye for en såpass liten maskin. 
+Det er også de 2,84 centimeterne den måler over midjen når den er klappet sammen som en bærbar PC. 
+
+Hengselet gjør det enkelt å sette sammen og ta fra hverandre de to enhetene. 
+På tastaturdelen finnes to utstikkere med en magnetisk kontakt i mellom. 
+Skjermen kan settes på begge veier og gir flere muligheter til hvordan du velger å bruke maskinen. 
+
+Det kan virke litt snodig at Acer tillater oss å bøye skjermen såpass langt bak som den gjør, for da blir skjermen for tung og maskinen faller nedtil bordplaten. 
+Dette har vi sett bedre løsninger på, for eksempel i Asus Transformer Book T100, der skjermen da løfter tastaturet som en motvekt. 
+
+Tastaturet er en chicklet-variant der alle tastene er separerte med mellomrom. 
+Det er et godt utgangspunkt for å skrive presist, men tastene har et noe svakt definert skille mellom trykk og ikke, som gjør at det ikke alltid er så lett å kjenne om man har trykket. 
+
+Som du ser på bildet er det også en tast som er klemt helt inntil linjeskift-tasten, og som det er lett å komme borti når man trykker enter. 
+
+Én USB-port 
+
+At maskinen kun har én USB-port kan tyde på at Acer betrakter dette mer som et nettbrett enn som en bærbar PC. 
+USB-porten er å finne i tastaturdelen av maskinen, men der finnes det ingen andre porter. 
+
+Alt det andre er plassert på skjermdelen, eller nettbrettet om du vil. 
+Her finner du hodetelefonutgang, Windows-knapp og av/på-knapp på den ene siden, samt strøminntak, mini HDMI, micro USB og minnekortleser (micro SD) på den andre siden. 
+
+Det lar deg selvsagt utvide lagringspassen ytterligere, men vi synes strengt tatt at en vanlig SD-kortleser hadde passet bedre, som da gjør det mer elegant å overføre bilde fra et speileflekskamera om man har ett – micro SD brukes stort sett i telefoner, og da er det uansett lettere å koble de til via USB-kabelen (eller overføre bildene via nettet). 
+
+Skjermen har også to høyttalere plassert på hver sin side på undersiden, og de byr på helt grei lyd, uten å briljere. 
+
+Ikke bare å dra av 
+
+For den som er tilhenger av ordtaket «Life's too short to safely eject USB hardware» er det imidlertid verdt å merke seg at det ikke bare er å dra av skjermen når som helst. 
+
+Siden tastaturet inneholder en harddisk (og ikke har egen strømtilførsel) er man nemlig nødt til å sørge for at denne disken er koblet ordentlig fra før man tar av skjermen – om man skal gjøre det på den rette måten og ikke risikere feil på den. 
+Det stuntet gjorde for eksempel at vi måtte starte batteritesten på nytt … 
+
+Svak ytelse - godt batteri 
+
+Ytelsesmessig er det ikke mye å juble for, med en Intel Atom-prosessor og 2GB arbeidsminne. 
+Den innebygde SSD-disken sørger imidlertid for at daglige oppgaver som nettsurfing og navigering i Windows går ganske greit, men gir du maskinen litt tyngre oppgaver vil det fort avsløres at den ikke er blant de raskeste. 
+For den som er interessert fikk vi for eksempel bare 504 poeng i Passmark-testen. 
+
+Det er heller ikke den raskeste SSD-disken som sitter i maskinen. 
+Vi målte overføringshastigheten til 174 MB/s (les) og 90 MB/s (skriv), som er et godt stykke bak de beste SSD-diskene (men fortsatt godt foran tradisjonelle harddisker). 
+Harddisken i tastaturet oppnådde henholdsvis 36 MB/s og 35 MB/s. 
+
+Batteritiden, derimot, er svært god. 
+Det skal sies at maksimal lysstyrke på skjermen er svært beskjeden og at vi derfor måtte ha skjermen på full lysstyrke for å komme i nærheten av terskelen vi normalt bruker når vi måler batteritiden, men selv med full spiker holdt maskinen i 10 timer og 17 minutter med kontinuerlig avspilling av et HD-videoklipp. 
+
+Ved kontinuerlig kjøring av PCMark Home landet vi på fem og en halv time, som da vil være en pekepinn ved kontinuerlig bruk (bilderedigering, nettsurfing, videosamtaler, spill og skriving) og kan anses som en slags «worst case» for den normale brukeren. 
+
+Og – maskinen avgir ingen støy overhodet og blir heller ikke varm. 
+Det er svært godt for en Windows-maskin til drøye 4.000 kroner! 
+
+Noe bloatware 
+
+Mange PC-produsenter har forhåndsinstallert programvare, enten som de har laget selv eller fra tredjeparter, som typisk betaler produsenten litt for å være forhåndsinstallert. 
+Switch 11 kommer med McAfee-sikkerhetsprogramvare som også ligger som en verktøylinje i nettleseren. 
+Det er vi ikke så begeistret for, men det lar seg selvsagt fjerne om man ikke er interessert. 
+
+I tillegg burde Acer ha vært litt flinkere med å kommunisere hvorfor man bør slå til på dette: 
+
+Som du ser av skrivebordsbakgrunnen finnes det også snarveier til en håndfull nettsider som ligger der som standard. 
+
+Konklusjon 
+
+Acer Aspire Switch 11 er en relativt rimelig modell som ikke har all verden til maskinvare og som du derfor ikke bør vurdere om du driver med tyngre bruk. 
+Til dagligdagse oppgaver fungerer den imidlertid utmerket og oppleves som relativt kjapp og fin takket være en innebygd SSD-disk på 64GB. 
+
+Når du i tillegg får en 500GB harddisk plassert i tastaturet har du også godt med lagringsplass til bilder, musikk og video, og med utholdenhet på over 10 timer ved videoavspilling er det en maskin som for de fleste bør vare en hel arbeidsdag. 
+
+Nøkkelfunksjonen er selvsagt at du kan løsne skjermen fra tastaturet, slik at du også kan bruke den som et nettbrett. 
+Det blir riktignok blant de tyngste på markedet og er også relativt tykt. 
+Skjermen er heller ikke veldig imponerende der lav oppløsning (1366x768) og svak maksimal lysstyrke er det som trekker ned. 
+I tillegg får du bare én USB-utgang i vanlig størrelse. 
+
+Men det skal være sagt – det er ikke mange Windows-maskiner i 4000-kronersklassen som kan by på så god batteritid og som ikke gir en lyd fra seg selv ved tung belastning. 
+
+Acer Aspire Switch SW5-111 (NT.L66ED.002) 

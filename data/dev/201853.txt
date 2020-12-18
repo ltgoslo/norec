@@ -1,0 +1,137 @@
+TEST:Marshall London mobiltelefon 
+
+Hemningsløs frieri til rock-fansen. 
+
+Alle som har vært på rockekonserter og festivaler vil kjenne Marshall. 
+
+Den britiske produsenten har laget forsterkere og høyttalere til scenebruk helt siden 1960-tallet, og disse har blitt nærmest standardutstyr for rockegrupper. 
+
+For noen år siden begynte de å utvide repertoaret sitt til produkter for oss vanlige, ikke-gitarspillende folk også. 
+
+Du kan få både trådløse høyttalere, hodetelefoner, t-skjorter og til og med kjølekap - alt sammen med den lett gjenkjennelige Marshall-logoen. 
+Og nå er de altså klar med sin første mobiltelefon. 
+
+- Verdens høyeste telefon 
+
+Vi fikk låne et eksemplar, og var naturlig nok spente på om den levde opp til slagordet «loudest mobile phone on Earth» (den høyest spillende telefonen på jordkloden). 
+
+I bunn og grunn dreier det seg altså om en helt ordinær Android-telefon med Lollipop på plass, som ikke skiller seg nevneverdig ut fra andre lignende telefoner i midtsjiktet. 
+Prismessig (den koster 4999 kroner uten binding) er den altså i en klasse hvor det kryr av konkurrenter, enten de heter Samsung, LG, Sony eller Huawei. 
+
+Men det er én viktig forskjell på Marshall London og alle de andre: 
+Her er hovedvekten lagt på lyden, og det er altså lyden vi har fokusert på i denne testen. 
+
+I hvert sier Marshall at det er slik, og spørsmålet er selvsagt om de holder det de lover. 
+
+Testet med typisk Marshall-musikk 
+
+Da vi pakket opp esken (der det for øvrig lå ved et gitarplekter og et batteri merket «long live rock'n'roll»), var det naturlig å starte med ørepluggene som følger med. 
+Disse skal - stadig ifølge Marshall selv - være vesentlig bedre enn slike som gjerne følger med andre telefoner. 
+
+Etter den første ladingen satte vi i gang det vi kanskje kan kalle typisk Marshall-musikk: 
+Mastodon, Rush, Motorhead, Rolling Stones, Opeth, Porcupine Tree og AC/DC med flere. 
+Vi brukte mest Spotify og Google Play Music for å simulere det vi antar er den mest vanlige bruken. 
+Men lastet også ned mediespilleren VLC for å teste høyoppløste filer (både 16 og 24 bit) lokalt. 
+
+Stor var skuffelsen da vi knapt hørte det som foregikk. 
+Kanskje vi hadde mistet hørselen etter alle årene med høy musikk? 
+
+Maks volum på et blunk 
+
+Neida, det viser seg at nemlig Marshall har helgardert seg mot søksmål fra tinnitus-ofre: 
+
+Den øvre volumgrensen er nemlig stilt så lavt at telefonen ut av boksen knapt egner seg for annet enn hyggelig bakgrunnsmusikk av P1+-sorten. 
+Og øretelefonene er dessverre ikke så lettdrevne at de kompenserer for den lave utgangseffekten. 
+
+I lydinnstillingene kan du lett fjerne taket, og da ble alt straks bedre. 
+
+Du kan også skreddersy lyden etter behov via tonekontrollen. 
+Vi innså snart at ferdiginnstillingen «rock» var tingen, med noen desibels økning av både bass og diskant. 
+Nå begynte også den øvre delen av displayet å blinke i takt med musikken. 
+Tøft. 
+
+Vi måtte derfor helt til «11» for at det virkelig skulle høres rock'n'roll ut. 
+Fra begynnelsen av skalaen og opp til den siste tredelen er det nesten ikke liv. 
+Deretter kommer lyden som et skudd, bare du beveger fingeren bittelitt mer over greit lydnivå. 
+
+Musikere kan fortelle at slik er det med Marshalls sceneutstyr også, så her er selskapet tydeligvis tro mot sine røtter. 
+
+Øreproppene skuffer 
+
+Vi hadde forventet energi, sprut og klangfarger, men Marshall-proppene låter dessverre tynt, grått og kjedelig i forhold til mye annet vi har prøvd. 
+
+Dessuten har de en stor ulempe: 
+Ledningene er veldig stive, og lager plagsomme rasle-lyder når man beveger seg med dem. 
+
+Vi gikk derfor over til et utvalg gromme hodetelefoner for å sjekke hva forsterkeren i telefonen var god for. 
+
+Ikke helt overraskende falt den sørgelig igjennom med hodetelefoner som mest av alt er ment for hjemmebruk (Grado SR 60, Denon AH-D2000 og Philips Fidelio X2). 
+Her kreves det ekstra hodetelefonforsterker, og med en slik skvatt lyden opp flere klasser. 
+Men det skjer jo også med alle andre mobiltelefoner. 
+
+Derimot var vi svært fornøyd med hvordan Marshall-telefonen fikk liv i de svært lettdrevne Klipsch Reference On Ear. 
+Disse er ideelle til mobiltelefoner, også fordi de isolerer svært godt mot utenverdenen. 
+
+Men heller ikke her syntes vi Marshall skilte seg ut som signalkilde. 
+
+Grom innmat ikke nok 
+
+Det ble altså aldri slik at vi fikk følelsen av å stå rett foran scenen under en metal-konsert på Øyafestivalen. 
+For slik kan det faktisk være med hodetelefoner, om bare signalkilde og forsterker leverer varene. 
+
+Og det burde ikke være noe i veien med Marshall-telefonen i så måte. 
+Om bord sitter lydkortet Wolfson WM8281 fra Cirrus Logic som skal være av bedre kvalitet enn det som sitter i de fleste mobiltelefoner. 
+DAC-en er heller ikke integrert i kortet, men montert separat fra de øvrige kretsene. 
+På denne måten unngår man, ifølge Marshall, støy. 
+
+Via musikkspillere som VLC støtter telefonen også HD-lyd, slik flere andre Android-telefoner også gjør. 
+Det vil si 24 bit 96 Khz. 
+Filer med 192 Khz skaleres ned til 96. 
+
+Ghettoblaster og opptaker i ett 
+
+Men om lyden blir bedre av slike giga-filer, må du ikke spørre oss om. 
+Blindtester bekrefter ikke at lyden blir bedre når du øker bitdybde og samplingsfrekvens. 
+Etter vår oppfatning er det mest snakk om tro her. 
+
+Telefonen har også to høyttalere ved siden av skjermen. 
+Og her må vi gi Marshall en stjerne i boka: 
+Lyden er vesentlig bedre (ekte stereo, og med bass!) enn det vi er vant til fra knøttsmå høyttalere i en mobiltelefon. 
+Nesten en ghettoblaster i miniatyr! 
+
+Marshall har også tenkt på folk som liker å ta opp musikk. 
+Mikrofonene (det er to av dem, for stereo) skal være av kvalitet som tilsvarer hobbystudiomikrofoner til 4-500 kroner. 
+
+Dette testet vi, og vi fant at kvaliteten ble hørbart bedre enn det vi er vant til fra mobil, både ved filmopptak og rene lydopptak. 
+Men husk å velge noe annet enn det sterkt komprimerte AMR-formatet. 
+Det låter forferdelig. 
+Med tapsløse formater som FLAC eller WAV får du absolutt anstendige opptak. 
+
+Kan den brukes til noe annet, da? 
+
+Som musikkspiller er telefonen ikke ekstraordinær. 
+Men som design-ikon? 
+Og i daglig bruk? 
+
+Den er helsvart - her finnes det naturligvis ingen hvit eller rosa variant. 
+På baksiden finner vi et svart plastlokk i tolex - samme materialet som Marshall-forsterkerne er kledd i. 
+Under dette ligger batteriet og luker for SD-kort (telefonen støtter bare 64GB nå, men støtte for 128GB kommer via softwareoppdatering) og SIM-kort. 
+
+Volumet reguleres med et messingblankt hjul på siden. 
+Trykker du på den, kommer kameraet opp. 
+
+God idé, men leverer ikke 
+
+Vi har testet denne telefonen som et rent lydprodukt, og leseren får unnskylde at vi bare går overfladisk gjennom de andre funksjonene: 
+
+Rett over volum/kameraknappen finner du av/på, og på toppen av telefonen sitter knappen for lydinnstillingene. 
+Holder du sistnevnte nede, aktiveres lommelykten. 
+
+Det er faktisk to hodetelefonutganger, for de som vil høre musikk eller se film med en venn. 
+Disse er individuelt regulerbare. 
+
+De intuitive knappene med de viktigste funksjonene gjør telefonen enkel å bruke, og den ligger godt i hånden. 
+Dessuten beskytter det solide gummidekselet godt mot fallskader. 
+
+Når det gjelder både utseende og funksjoner er dette en telefon med personlighet. 
+Men lyden, som skal være selve salgsargumentet, er altså ikke noe å rope hurra for. 

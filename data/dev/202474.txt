@@ -1,0 +1,124 @@
+Asus ZenBook UX305CA (Skylake)
+Liten, lett og lekker PC - helt uten vifter. 
+
+Den oppdaterte utgaven av ZenBook UX305 er en av modellene vi har gledet oss stort til å få på testbenken her i Dinside, og grunnen er enkel: 
+Den har siste generasjon Core-prosessorer fra Intel. 
+
+Vi rakk aldri å teste førsteutgaven, som fikk mye god omtale hos testere i starten av 2015 - både nasjonalt og internasjonalt. 
+
+Stillheten selv 
+
+Det dreier seg om en 13,3-tommer i ultrabook-segmentet, med tykkelse på beskjedne 12mm og vekt på 1,2 kg, med svært høyoppløst skjerm og fullstendig blottet for vifter av noe slag. 
+
+Det høres ut som en ønskedrøm for de av oss som er lei av viftestøy, men før vi går nærmere i sømmene på PC-en skal vi ta en titt på de viktigste spesifikasjonene: 
+
+Skjerm: 
+13,3 tommer matt IPS-skjerm, 3200 x 1800 piksler oppløsning Prosessor: 
+Dobbeltkjernet Intel Core m7-6Y75 (1,2 - 3,1 GHz) - vifteløs RAM: 
+8 GB (som også er maks.) 
+Grafikkort: 
+Intel HD Graphics 515 Lagring: 512 GB SSD (M.2) Optisk drev: 
+Nei Skjermutganger: micro-HDMI USB-porter: 3 x USB 3.0 Webkamera: 
+Ja, 1Mpix Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel AC 7265 (802.11abgn+ac) 
+Kablet nett: 
+Nei Annet: 
+Intel WiDi, Bluetooth 4.0 OS: 
+Windows 10 Home Størrelse: 324 x 226 x 12,3 mm Vekt: 1,22 kg Pris: 
+13.999 kr (Expert 9.12.2015) 
+
+Vi tester altså den kraftigste utgaven av PC-en 
+
+Prisene starter på i underkant av 8.000 kroner for rimeligste konfigurasjon, da med Core m3-prosessor, 128 GB SSD og full HD-skjerm - som heller ikke er spesifikasjoner å kimse av. 
+
+Merk deg at selv om vårt testeksemplar er hvitt, så vil den konfigurasjon vi har testet kun være tilgjengelig som sort i norske butikker. 
+Det er uansett en langt mer praktisk farge, mener vi. 
+Selv om fettflekker ikke synes særlig lett på den hvite overflaten, vil nemlig skitt og smuss bli synlig langt tidligere her - for ikke å glemme de hvite tastene og pekeplaten. 
+
+Solid sak 
+
+Chassiset er av en lett metallegering som dekker både lokk, rundt tastaturet og bunnplate. 
+Maskinen er godt oppstivet, og kvalitetsfølelsen er høy. 
+Enkelte har bemerket at rammen rundt skjermen er tykk. 
+Det er den da også, i hvert fall sammenlignet med Dell XPS 13, som koster to tusenlapper mer. 
+
+To USB 3.0-porter samt minnekortleser sitter på venstre side. 
+På høyre side sitter strøminntak, en USB 3.0-port, lyd inn/ut (minijack) samt en micro HDMI-utgang. 
+Du må altså ha en spesialkabel eller overgang hvis du vil koble til vanlig HDMI. 
+Dette, samt ethernet-port, er noe av det Asus har ofret for å gi deg tynnest mulig PC. 
+
+Vi savner imidlertid en USB C-port. 
+Dette er noe som allerede er på plass på flere PC-er i denne prisklassen. 
+
+Skjermen løfter tastaturet 
+
+En spesiell detalj ved konstruksjonen er at skjermen stikker nedenfor bunnplaten og løfter tastaturet slik at det blir lett skrånende. 
+To små plastpunkter på skjermen fungerer da som føtter: 
+
+Dessverre byr ikke disse på samme stødighet som gummiføttene på gulvplaten, og du kan dermed oppleve at PC-en skyves lett ut av posisjon på et glatt underlag. 
+Noe stort problem vil vi likevel ikke påstå at det er. 
+
+Vi skulle derimot ønsket oss at det var mulig å bøye skjermen enda noen centimeter bakover. 
+Det hadde gjort den mer fleksibel i forhold til sittestilling. 
+Nok en gang er det ikke snakk om store ankepunktet. 
+
+Skjerm i toppklasse 
+
+IPS-skjermen byr på et flott og skarpt bilde fra nær sagt alle vinkler, og takket være den matte overflaten er ikke gjenskinn noe problem. 
+Den er bare lekker! 
+Det er imidlertid verdt å merke seg at oppløsningen er så høy at du ikke kommer unna å skalere opp tekst og grafikk i Windows. 
+Ikke alle programmer løser dette like bra, men det er mindre problemer med nyere programmer og apper. 
+Les mer om problematikken her. 
+
+Tastaturet er fast og fint, og bråker lite under bruk. 
+Det er svært behagelig å bruke for lange skriveøkter. 
+
+Men: 
+Vi er ikke overbegeistret over av/på-knappen. 
+Den ligger rett over backspace, og rett ved siden av slettetasten øverst til høyre, og er dermed for lett å trykke på i vanvare. 
+
+Ellers er det lite å utsette verken på tasteturet eller pekeplaten. 
+Sistnevnte støtter flerberøring, og fungerer for eksempel brillefint med tofinger-skrolling i lange nettsider. 
+
+Brukeropplevelsen er generelt meget god. 
+
+Det er en fryd å bruke en PC som faktisk oppleves som kjapp til de aller fleste oppgaver, men som ikke gir en eneste lyd fra seg - uansett belastning. 
+Du slipper også å bekymre deg for å dekke til luftinntak, støv som tetter kanaler og lignende. 
+
+Dette er ganske enkelt PC-fremtiden, i hvert fall om du gjør noen grep. 
+
+For om McAfees sikkerhetspakke har en plass i PC-fremtiden, stiller vi oss tvilende til. 
+Det blir fort mange advarsler om kreti og pleti, som kan forkludre et ellers meget behagelig Windows-miljø. 
+
+Personlig har vi derfor avinstallert McAfee-pakken på våre egne PC-er, og kjører med den innebygde Defender-programvaren i Windows i stedet. 
+
+Den har så langt vist seg å gi oss oppdatert og mer enn god nok beskyttelse. 
+
+Gode ytelsestall 
+
+Vi ble positivt overrasket over relativt høye ytelsestall fra Passmark. 
+Prosessorytelse på 4.190 poeng er faktisk godt over snittet for denne prosessoren, og på høyde med Core i5-6300U - som normalt krever godt med vifteaktivitet under de tyngste operasjonene. 
+
+Kombinert med en lese/skrivehastighet på SSD-en på rundt 450 MB pr sekund, snakker vi her om en PC som fikser det aller meste som er aktuelt å gjøre på en liten og lett maskin, inkludert tyngre grafikk- og videojobber. 
+
+3D-grafikkytelsen er imidlertid noe begrenset, så dette er ikke noen PC vil ville valgt hvis gaming var en hovedinteresse. 
+Til skole- og kontorarbeid, nett og sosiale medier, musikk og video, er den helt super. 
+
+Og batteritiden? 
+Den får godkjent. 
+Nesten 9 timer med minimal belastning og 6 timer med kontinuerlig videoavspilling. 
+Det skulle bety rundt 7-8 timer med lett, variert bruk. 
+Merk at Asus selv sier at UX305 skal klare inntil 10 timer mellom hver lading. 
+Vi antar at det da dreier seg om en av de litt enklere modellene med full HD-skjerm, som trekker mindre strøm enn i denne konfigurasjonen. 
+Uansett helt OK batteritid. 
+
+Konklusjon 
+
+Vi har ikke så mange store innvendinger mot denne maskinen, den har oppført seg fint under testen, byr på god brukeropplevelse med null støy og relativt gode ytelser. 
+Slik blir det en meget solid femmer av, og Anbefalt produkt-stempel fra Dinside. 
+
+Les plussene og minusene under, og få samtidig med deg testene våre av Dell XPS 13, HP Spectre X360, Apple MacBook og svært prisgunstige Lenovo U31-70 før du slår til. 
+
+I skrivende stund tilbys den testede konfigurasjonen kun på Expert. 
+Du finner de andre konfigurasjonene på Prisjakt.no. 

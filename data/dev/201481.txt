@@ -1,0 +1,98 @@
+Trippeltest:Lydløse, billige bærbare 
+
+Vi har de siste ukene hatt tre «Chromebook-killers» på testbenken. 
+Her ser du hvordan det gikk! 
+
+Som nevnt innledningsvis er dette enkle Windows-maskiner som skal konkurrere mot Google-baserte PC-er, såkalte Chromebooks. 
+
+Generelt om maskinene 
+
+De er alle utstyrt med enkle Atom- og Celeron-prosessorer, har kun 2 GB arbeidsminne og 32 GB flashminne til lagring (av typen eMMC). 
+Skjermstørrelsen varierer fra 11,6 til 14 tommer, prisene varierer fra 2.490 til 2.790 kroner i billigste nettbutikk (jf Prisjakt.no 26.8.2015) 
+
+Hvis du har fulgt med på tilbudene hos PC-forhandlerne, har du sikkert fått med deg at du finner langt mer avanserte PC-er i samme prissegment, for eksempel denne. 
+
+Så hvorfor skal du vurdere en av disse? 
+
+Jo, hvis lav vekt, lang batteritid og lavt støynivå er viktig for deg, parkerer disse tre maskinene all konkurranse fra "normalklassen". 
+
+Ingen av de tre har vifter, og selv den dårligste på batteriytelse klarer å spille HD-video i over sju timer mellom hver gang den må puttes i laderen, bestemann holder ut i hele 12 timer. 
+Det er intet mindre enn imponerende! 
+
+Her ser du bilder av maskinene: 
+
+Sammenligninger 
+
+Her har vi oppsummert de viktigste tekniske egenskapene ved de tre modellene: 
+
+Som du ser er det store variasjoner i størrelse og vekt, men selv 14-tommeren fra Toshiba veier ikke mer enn 1,7kg. 
+Den klart mest portable er Asus, som veier ganske nøyaktig 1 kg. 
+
+Asus skiller seg også ut med at den er utstyrt med en Atom-prosessor, der de andre har Celeron. 
+Denne kan ikke kjøre 64-bits Windows og programmer, og klarer ikke å utnytte mer enn 3 GB RAM. 
+Ingen av delene er ankepunkter i denne klassen, det er få programmer som ikke finnes i både 32 og 64-bits versjoner. 
+
+Det kan imidlertid være et ankepunkt at Asus sitt bidrag ikke har USB 3.0-porter, der de andre to har én. 
+Merk også at du trenger en kabel med Micro-HDMI-kontakt i ene enden dersom du skal koble PC-en til en ekstern skjerm. 
+
+Alle tre har plastkabinetter. 
+Mens Asus og HP har matte kabinetter som ikke viser fettmerker, er dette temmelig fremtredende på Toshiba: 
+
+Tastatur og pekeplate får godkjent karakter på alle tre. 
+Pekeplatene byr på flerberøringsstøtte, for eksempel kan du skrolle ved hjelp av to fingre. 
+Det fungerer tilfredsstillende på alle tre. 
+Merk at Toshiba er den eneste som har dedikerte knapper for venstre/høyreklikking, noe mange foretrekker. 
+
+Alle tre PC-ene er utstyrt med mer eller mindre nyttige prøveversjoner av diverse apper og programmer. 
+Den beste program- og lagringspakken får du dersom du velger maskinen fra HP. 
+Her får du inntil 1 TB og Office 365 hos Microsoft i ett år helt gratis. 
+Dette koster normalt noen hundrelapper. 
+
+Den nevnte HP-maskinen er også den eneste av de tre som har matt skjerm uten refleksjoner, noe mange vil se på som en fordel. 
+Alle tre skjermer har paneler av typen TN, som gir begrenset innsyn fra sidene. 
+Kvaliteten og lysstyrken er imidlertid helt OK til normal bruk. 
+
+Modellen fra Toshiba er den som minner mest om en standard billig-PC, både størrelse- og vektmessig. 
+Den er også den eneste som støtter vanlige SD-kort, av type som brukes i svært mange kameraer. 
+
+Ytelsesmålinger 
+
+Vi benyttet Passmark PerformanceTest for å måle prosessor- og lese/skrive-ytelsen, og som ventet ligger alle de tre lavt på skalaen. 
+
+Prosessor 
+Å kjøre kontorprogrammer som Word og Excel er imidlertid uproblematisk, men vi har opplevd litt hakkende bevegelser når vi har skrollet i enkelte annonsetunge nettsider. 
+
+Alle maskinene er i stand til å spille av videoer i full HD-oppløsning (1920 x 1080 piksler), så lenge det ikke skjer så mye annet på PC-en samtidig. 
+Da blir det fort lugging. 
+Det anbefales generelt å ha få programvinduer åpne samtidig for å unngå forsinkelser. 
+
+I diagrammet under har vi sammenlignet med gjennomsnittstall for prosessoren AMD A4-5000, som er å finne på enkelte fullblods-PC-er i samme prisklasse, bare for å gi deg en idé om styrkeforholdet: 
+
+Lagring 
+Det er også helt på det rene at eMMC-flashminnet ikke kan måle seg med normale SSD-er når det gjelder lese- og skriveytelse. 
+Leseytelsen er imidlertid bedre på alle tre sett i forhold til typiske harddisker i bærbare PC-er. 
+Derfor vil programmer og filer lastes relativt raskt til arbeidsminnet, men ikke i nærheten av hva du kan forvente av PC-er med «ekte» SSD: 
+
+Batteritid 
+Til slutt testet vi batteritiden. 
+Vi stilte lysstyrken til temmelig likt på de tre maskinene, samtidig som vi aktiverte strømsparemodus. 
+Her viste det seg å være svært store variasjoner. 
+
+Alle klarte mer enn 7 timer med kontinuerlig videoavspilling, noe som må betegnes som meget bra. 
+Aller best var Asus, som smalt til med over 12 timer. 
+Det er en hel sesong med populære Netflix-serier! 
+
+I diagrammet under har vi sammenlignet de tre mot hverandre, og har også tatt med batteritiden til en typisk normal-PC i samme prisklasse: 
+
+Konklusjon og vår anbefaling 
+
+Alle de tre maskinene er lydløse, har god batteritid og er lettere enn typiske normale billig-PC-er. 
+Ytelsen ligger helt klart i nedre del av skalaen. 
+Det var også forventet, men skriveytelsen til flashminnet var generelt dårligere enn vi hadde forventet. 
+
+Vår anbefaling går til Asus EeeBook X205TA, fordi denne skiller seg vesentlig ut fra de andre når det gjelder vekt og batteritid. 
+Dermed skiller den seg også mer ut fra den store hurven av rimelige PC-er. 
+
+Modellen er perfekt til filmtitting på lange tog- og flyreiser, og er dessuten kraftig nok til at du kan jobbe med dokumenter, bilder og presentasjoner uten store bestrebelser. 
+
+Asus EeeBook X205TA-FD005BS 

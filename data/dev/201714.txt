@@ -1,0 +1,88 @@
+Benq BL3201PT - 4K-skjerm på 32 tommer
+Lyst på 4K-skjerm på skrivebordet? 
+Da bør den være minst like stor som dagens test-skjerm. 
+
+Denne høsten har vi testet en rekke PC-skjermer med til dels svært høy oppløsning, se oversikt her. 
+
+Store skjermer er påkrevd 
+
+Det er når skjermene blir større enn 24 tommer at høyere oppløsninger enn full HD virkelig kommer til sin rett. 
+Skal du bruke skjermene med Windows, er QHD (2560 x 1440 piksler) en ypperlig oppløsning på skjermer mellom 25-30 tommer. 
+Da bør disse to skjermene være høyaktuelle. 
+
+Det finnes også en rekke 4K-skjermer i denne størrelsesklassen, men de fleste med normalt syn vil måtte skalere opp størrelsen på tekst og grafikk i operativsystemet for å sikre lesbarheten, noe som har sine utfordringer. 
+
+Når man passerer 30 tommer, er situasjonen en annen, og dagens test-skjerm er en 32-tommer med 4K-oppløsning (3860 x 2160 piksler - fire ganger høyere oppløsning enn full HD). 
+
+Ting blir fortsatt smått i 100% skalering, men hvis du ikke sitter med nesa så veldig langt unna skjermen, er denne oppløsningen uproblematisk for de fleste. 
+
+Har blitt dyrere 
+
+Modellen kommer fra Benq, og bærer navnet BL3201PT. 
+Den er regnet som en proff-skjerm og ligger derfor prismessig langt over mange andre, enklere 4K-skjermer. 
+Den ligger i samme klasse som denne fra Asus. 
+
+Så hva er det som gjør at den er såpass dyr? 
+Først må vi gjøre oppmerksom på at den har vært på markedet en god stund allerede, og i denne perioden har den steget med rundt 2.000 kroner i pris - mye takket være synkende kronekurs. 
+Men dette er en skjerm med et avansert IPS-panel fra LG Display, som byr på full dekning av sRGB-fargespekteret, noe som er avgjørende for mange typer grafisk arbeid. 
+Den har til og med egen forhåndsinnstillinger for CAD/CAM-arbeid. 
+
+Enkelt og lett tilgengelig 
+
+Dessuten byr den på et vell av tilkoblinger, som to stk HDMI (1.4), DisplayPort (1.2), MiniDisplayPort (1.2) og DVI-D - i tillegg til fem USB 3.0-porter og kortleser for SD-minnekort. 
+Her er også en lydinngang (minijack) og hodetelefonuttak. 
+Sistnevnte - samt alle skjermtilkoblingene og to USB 3.0-porter, sitter på høyre side. 
+Dermed er de alltid lett tilgjengelig. 
+
+Betjeningsmessig er den også den enkleste vi har testet denne høsten, takket være den medfølgende fjernkontrollen. 
+Med den kan du enkelt navigere deg med piler gjennom menyene, og kan også veksle mellom de forhåndsprogrammerte fargeinnstillingene med ett enkelt trykk. 
+
+Fjernkontrollen er ikke trådløs, og dermed vet du alltid hvor du har den. 
+Den kan dessuten plasseres i et eget spor på foten når den ikke brukes. 
+Smart! 
+
+Glimrende ergonomi 
+
+Foten er bred og stødig, og skjermen festes til den med et klikk. 
+Det er omtrent like enkelt å løfte den av foten igjen, hvis du for eksempel vil benytte en annen fot eller et veggfeste (vanlig VESA 10 x 10 cm). 
+
+Ergonomisk er den også helt super, den kan heves og senkes 14 cm lett med én hånd, og vippes forover og bakover etter eget ønske. 
+Armen som holder skjermen kan også dreies 45 grader til hver side med et lett dytt på skjermen. 
+Overflaten er forøvrig matt, så du slipper å ta hensyn til eventuelle refleksjoner fra tak og vinduer. 
+Skjermen kan også tiltes og stå på høykant, noe som kan være nyttig når du jobber med sidelayout og lignende. 
+
+Plusser og minuser 
+
+Sett rett forfra er den bildemessig helt på høyde med de beste i klassen. 
+Sortnivået er også helt supert, med minimalt med lyslekkasjer. 
+
+På helt hvitt bilde vil du se en avtakende lysstyrke mot kantene når du betrakter bildet fra litt skrå vinkel: 
+Det er ikke noe kjempestort ankepunkt, men det er greit å være klar over at du får det beste bildet når du betrakter skjermen rett forfra. 
+
+Den har også et par innebygde høyttalere, men de er av relativt enkel kvalitet. 
+Diskanten er litt ullen og den dype bassen må du se langt etter. 
+Til radio og enkel bakgrunnslyd, kan det uansett funke greit. 
+
+Når vi først er inne på ting som kunne vært bedre, må vi trekke frem at HDMI-porten kun støtter 30 Hz oppfriskning av bildet. 
+
+Dette fordi den ikke støtter høyere hastigheter enn hva som er innenfor HDMI 1.4-spesifikasjonene. 
+30 Hz vil bety hakking ved panorering i videoer og spill, og er derfor ikke anbefalt til slik bruk. 
+Da trenger du en PC med DisplayPort-utgang (eller Thunderbolt) hvis du skal bruke denne skjermen. 
+Da vil du kunne få oppfriskningshastighet på 60 Hz. 
+
+Responstiden er 4 ms, så noen utpreget gamingskjerm er dette ikke, selv om den vil kunne tilfredsstille de fleste også på dette området. 
+
+Konklusjon 
+
+Benq BL3201PT er en ypperlig skjerm. 
+Av skjermene vi har testet i høst scorer den aller høyest på betjeningsvennlighet, både hva angår menystyring og tilgjengelig på tilkoblingspunkter. 
+Ergonomisk er den også helt i toppen, og de generelle ytelsene er ikke langt bak de beste. 
+
+Vårt største ankepunkt er kanskje prisen. 
+Det er flere modeller til under 10.000 kroner som byr på spesifikasjoner i samme gate, enkelte av dem har gått ned i pris i samme tidsrom som BL3201PT har steget. 
+Så sjekk ut modeller som Samsung U32E850R og ACER Dis 32 B326 før du eventuelt slår til. 
+
+Den er likevel rimeligere enn denne 32-tommeren fra Asus, som vi ikke vil karakterisere som særlig bedre - med unntak av at den støtter 60 Hz oppfriskning via HDMI. 
+Om du har en PC med DisplayPort-utgang, og ikke er så opptatt av å spare penger, er sjansen for at du blir fornøyd med dagens testprodukt uansett meget stor. 
+
+Benq BL3201PT 

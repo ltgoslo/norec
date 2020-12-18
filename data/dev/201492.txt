@@ -1,0 +1,96 @@
+Toshiba Satellite P50-C-129
+Stor og flott skjerm og god ytelse, men vi har funnet noen forbedringspunkter. 
+
+Toshiba er en produsent som sliter med store underskudd for tiden, og i dag kom nyheten om at de gir opp kampen i det europeiske PC-forbrukermarkedet. 
+
+Satellite-serien har vært blant de mest populære fra japanerne, og vi har tatt en titt på ganske så potent medlem på 15,6-tommer - som sannsynligvis blir den siste PC-en fra Toshiba vi kommer til å teste, i hvert fall inntil videre. 
+
+Satellite P50-C-129 er relativt fersk i markedet, men det er flere tegn på at det er en stund siden den gikk i produksjon. 
+Mer om det etter at vi har sett nærmere på de viktigste tekniske egenskapene: 
+
+Skjerm: 15,6" blank med full HD-oppløsning, IPS-panel (1920 x 1080 piksler) Prosessor: 
+Intel Core i7-5500U RAM: 
+8 GB (maks 16) 
+Grafikkort: 
+Nvidia Geforce 930M 
+Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 USB-porter: 3 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel AC3160 (a/b/g/n/ac) Kablet nett: 
+1000Mbps Annet: 
+Bluetooth 4.0, Harman/Kardon høyttalere OS: 
+Windows 8 Størrelse: 38 x 26 x 2,25 cm Vekt: 1,97 kg Pris: 
+11.329 kroner (jf Prisjakt 21.12.2015) 
+
+Ikke helt fersk 
+
+Spesifikasjonene er det lite å utsette på, men vi synes det er litt underlig at maskinen fortsatt leveres med Windows 8. 
+På et digert klistremerke under tastaturet står det samtidig at maskinen er optimalisert for Windows 10, men selve oppgraderingen må du altså foreta selv. 
+Gjør du det før 31. juli 2016, kan det gjøres gratis. 
+
+Maskinen er også utstyrt med en prosessor fra forrige Intel-generasjon, men dette er ikke så uvanlig på nåværende tidspunkt. 
+
+Metall og plast 
+
+Eksteriøret er i klassisk sølv, det er benyttet metall i lokk og rundt tastaturet - men bunnplaten er av plast. 
+
+Byggekvaliteten er grei nok, men på et par punkter synes vi Toshiba burde gjort en bedre jobb: 
+1) Pekeplaten lager en klirrelyd under bruk og bråker når du trykker på den, og 2) Bare tre av fire gummiben berører bordplaten - siste gummiben ligger en millimeter over. 
+Det er ikke sikkert sistnevnte gjelder alle eksemplarer, men at det kan skje, vitner ikke om den aller beste kvalitetskontrollen. 
+
+Tastaturet er behagelig i bruk, fast og responsivt, men trykker du hardt - spesielt på venstre halvdel, kommer klirrelyden fra pekeplaten igjen. 
+I denne prisklassen bør vi kunne forvente en mer «tight» brukeropplevelse, mener vi. 
+
+God skjerm 
+
+Skjermen er derimot eksemplarisk. 
+Den er lyssterk, skarp og mister ikke farger og kontrast fra sidene. 
+Den blanke overflaten gir generell god kontrast, men merk at den er så blank at gjenskinn fra omgivelsene fort kan bli et ankepunkt. 
+
+De innebygde høyttalerne fra Harman/Kardon gir som ventet fra seg temmelig fyldig lyd. 
+Vi har ikke noe problem med å nyte en film eller spille musikk i bakgrunnen når vi jobber, men litt mer bass hadde ikke vært å forakte. 
+Det er imidlertid ikke hverdagskost i denne klassen. 
+
+Maskinen leveres med et rikholdig utvalg av (demo)-programmer, mange av dem totalt overflødige for folk flest. 
+Ta for eksempel den gamle klassikeren WinZip, som har fått et rotete grensesnitt som nærmest er blitt uforståelig for en stakkar som bare vil se innholdet i en ZIP-fil: 
+
+Slik «bundling» av programmer fra tredjepart er imidlertid Toshiba slett ikke alene om, så vi har ikke trukket noe for det i vår vurdering. 
+Vårt råd er uansett å ta en ordentlig gjennomgang og slette alt av programmer du ikke får bruk for, før du oppgraderer til Windows 10. 
+
+God ytelse over hele linja 
+
+Ytelsesmessig leverer maskinen godt. 
+Prosessor-testen i Passmark Performance 
+Test gav oss poengsummen 4.221, som sammen med en SSD med lese/skrivehastighet på like under 500 MB pr sekund, sørger for rask oppstart og veksling mellom programmer. 
+Å kjøre flere programmer samtidig og effektivt, er heller ikke noe problem. 
+
+3D-grafikkytelsen fra GeForce-brikken ligger rundt 50 prosent høyere enn fra den innebygde Intel HD 5500-grafikken (1073 poeng mot 553). 
+Maskinen skifter sømløst mellom dem, og selv om dette ikke er en maskin som først og fremst er myntet på gaming, kan du spille mange nyere titler om du går ned litt på oppløsning og dybdedetaljer. 
+
+Batteritiden målte vi til rundt 10 timer med minimal belastning, og knappe 6 timer med kontinuerlig videoavspilling. 
+Det betyr at du kan forvente 7-8 timer driftstid mellom hver lading med normal, variert bruk. 
+Det må absolutt karakteriseres som bra for en såpass kraftig PC. 
+
+Ikke lydløs 
+
+Merk imidlertid at viftene starter hyppig under belastning, og de er langt fra stillegående. 
+
+Den siste tiden har vi blitt veldig bortskjemte med den ene stillegående maskinen etter den andre på testbenken. 
+I det selskapet hører ikke denne PC-en hjemme, men er belastningen lav kan det riktig nok gå litt tid mellom hver gang de starter opp. 
+
+Konklusjon 
+
+Toshiba Satellite P-50-C129 er en potent PC som yter godt til det meste. 
+Den er også ganske lett, størrelsen takk i betraktning. 
+Det beste ved den er imidlertid skjermen (hvis du tåler blank overflate). 
+Den er lyssterk, skarp og fin fra alle vinkler. 
+
+Prisen er noe høy. 
+Det finnes flere PC-er i markedet med tilsvarende - eller bedre spesifikasjoner til rundt 10.000 kroner. 
+
+Det mest negative er imidlertid ulydene fra pekeplaten, at ikke alle bena berører bordplaten, samt noe mer viftestøy enn vi hadde forventet. 
+Legg til at du selv må oppgradere til Windows 10, og vi lander på en firer på terningen. 
+
+Toshiba Satellite P50-C-129 

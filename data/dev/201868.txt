@@ -1,0 +1,68 @@
+TEST:POPnano DB456 DAB+/FM-lommeradio 
+
+Mindre enn de fleste, men er den liten nok? 
+
+Vi har lenge etterlyst virkelig som DAB-radioer som kan konkurrere med knøttsmå FM-radioer til litt over hundrelappen. 
+
+Det er jo nesten ikke måte på hvor liten en FM-radio kan bli i dag. 
+Silicon Labs skilter med det de påstår er den minste av dem alle: 
+Tiny Si4708 måler bare 6,25 kvadratmillimeter. 
+
+Må være stort 
+
+Samme utvikling har vi dessverre ikke sett når det gjelder DAB-radioer. 
+Her ser det ut til at et relativt høyt strømforbruk foreløpig setter grenser for hvor smått det kan bli. 
+
+Dermed må vi greie oss med forholdsvis store radioer for at de skal vare en stund uten oppladning. 
+
+Radio i mobil er jo nærmest en selvfølge, men ingen mobiltelefoner vi kjenner til har DAB eller DAB+ integrert foreløpig. 
+
+Radio fra Andersen 
+
+Da vi for en uke siden testet Senz SPDS114, en forholdsvis liten modell med høyttaler, ble vi ikke helt fornøyd: 
+Ledningen til øretelefonen fungerte nemlig ikke særlig godt som antenne, og det å ha den lange piskantennen ute mens vi ruslet rundt i byen og hørte på Ukeslutt, var ikke særlig praktisk, for å si det forsiktig. 
+
+Denne gangen prøver vi POPnano DB456, som selges for 499 kroner. 
+Radioen importeres av Hans Christian Andersen - for mange en kjent stemme fra både NRK P3 og nå sist NRK Østfold. 
+
+Andersen har vært en pioner på DAB-radio i Norge, og startet tidlig med import av digitale mottakere. 
+
+Her fungerer ledningen! 
+
+Det er nok best at radiokjendisen ikke sier noe til Apple om navnet han har valgt på denne litt store fyrstikkeske-radioen. 
+For også iPod nano har radio, om enn i FM-format. 
+
+POPnano har ikke høyttaler, og du er dermed henvist til hodetelefoner. 
+Og hurra! 
+Her fungerer ledningen faktisk som antenne, og vi opplever ikke lenger den karakteristiske boblingen som ofte plager radioer av denne typen. 
+
+Enda mer imponert ble vi da vi tok en tur ned i jobbens underjordiske garasje. 
+Her har vi tidligere opplevd ustabil dekning, men Popnano greide seg godt også her. 
+I et rom omgitt av betong på alle sider samt tak og gulv måtte den gi opp. 
+Lyden ble gradvis borte, uten ulyder slik tilfellet dessverre er med altfor mange andre DAB-radioer. 
+
+Knall lyd med gode lurer 
+
+Også lydkvaliteten er overraskende god. 
+Ørepluggene som følger med er bare greie, og dessuten ikke merket for høyre og venstre kanal. 
+Kanskje produsenten mener at lyden er så dårlig at det er ett fett? 
+
+Sammen med et par Sennheiser Urbanite ble lyden rett og slett imponerende til en slik liten sak å være. 
+Den hadde ingen problemer med å drive de velvoksne klokkene. 
+Høyt ble det ikke, men lyden holdt mål hele veien. 
+
+Kanskje er det slik at noe av plassen er brukt til en anstendig forsterker. 
+Noe vi bare kan bifalle. 
+Men pass på å skru av DRC (Dynamic Range Compression) og sette equalizeren (tonekontrollen) til «normal», slik at musikken høres naturlig ut. 
+
+Stasjoner kan ikke lagres 
+
+Dessverre kan du ikke lagre favorittstasjoner på denne radioen. 
+Det betyr at du må spole deg gjennom samtlige tilgjengelige stasjoner for å komme til den eller de stasjonene du liker best. 
+
+Dette er litt upraktisk, og vi synes nok POP burde kostet på seg et lite minne. 
+
+Radioen har som de fleste andre DAB/DAB+-radioer også FM. 
+Eksemplaret vi fikk låne er rosa, men den kan også fås i gul, hvit, magenta, oransje og svart. 
+
+Bortsett fra at vi mest av alt ønsker oss en DAB-radio i et virkelig lommeformat (takk til lesere som har kommet med mange gode forslag), så er POPnano en kvalitetsradio som er lett å ta med seg. 

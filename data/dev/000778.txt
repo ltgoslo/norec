@@ -1,0 +1,188 @@
+Anmeldelse:Playstation 4 
+
+Starten på et nytt spilleventyr. 
+
+Det skjer sjeldent, men det betyr mer enn du kanskje aner. 
+En konsollansering er ikke bare et steg videre på den teknologiske stigen, valgene som er gjort av Sony, Microsoft og Nintendo i forkant av en ny spillkonsoll staker ut kursen for hvordan vi forholder oss til TV- og hjemmeunderholdning de neste ti årene. 
+Fredag 29. november ankommer Playstation 4 norske butikker. 
+
+Wii U har vært på markedet i over ett år allerede. 
+I min anmeldelse fra februar i år omtalte jeg konsollen som et lite attraktivt alternativ – både fordi det var uklart hvordan selskapet ville bruke den nye kontrolleren med skjerm og fordi utvalget av spill var for dårlig – men mye har endret seg. 
+Utrolig nok fremstår konsollen som et bedre valg i dag enn for ett år siden. 
+
+Det som har satt seg i løpet av 2013, blant annet på grunn av Wii U-konsollen, er det engelske begrepet «second screen» – som for eksempel å tvitre på telefonen mens du ser en tv-serie eller få ekstra informasjon i et spill på en sekundær skjerm. 
+Da Nintendo viste frem GamePad-kontrolleren, med en ekstra skjerm, endret selskapet premissene for de andre konsollprodusentene. 
+
+Med Playstation 4 har Sony valgt å ta enda et skritt i retning av en sømløs skjermopplevelse. 
+Og nettopp dette er viktigere enn de andre tekniske oppgraderingene konsollen har fått. 
+
+Min dom over den nye konsollen er basert ut ifra hvordan spillutvalget er akkurat nå, hva som følger med som standardutstyr i pakken du kjøper, og slik programvaren (operativsystemet) er ved lansering. 
+Det betyr også at jeg mener at Playstation 4-konsollen vil være under kontinuerlig utvikling de neste årene, akkurat slik vi har sett med Xbox 360 og Playstation 3 (som i dag nærmest ikke ligner de konsollene som kom ut for godt over syv år siden). 
+
+Anmeldelsen er delt inn i tre hovedpunkter som hver får et terningkast – i totalvurderingen er spillutvalget vektet tyngst. 
+
+Konsollen 
+
+maskinvare, operativsystem og utseende 
+
+Playstation 4-maskinen ser bra ut. 
+De skarpe linjene, en lysende stripe over midten, de diskré USB-portene og platestasjonen, fremhever Sonys futuristiske tilnærming. 
+Størrelsen er betraktelig mindre enn Xbox One og er lett å plassere inn i eksisterende medieoppsett. 
+
+Konsollen gir meg følelsen, rent utseendemessig, av å være skapt for fremtiden. 
+Men det er nå ikke utseendet som er viktig når vi snakker spillkonsoller, så nok om det. 
+
+Forrige generasjon spillkonsoll fra Sony – Playstation 3 – var bygd over en prosessorarkitektur som var ukjent og uvanlig. 
+Resultatet var at spillutviklere møtte store utfordringer når de skulle tilpasse storspill til konsollen. 
+Denne egenartede stien har Sony forlatt til fordel for en velkjent og mye brukt systemarkitektur. 
+Et godt valg som samtidig gjør det meget lett for utviklere å gi ut spill til både PC-, Playstation- og Xbox-maskiner. 
+Rent teknisk betyr dette at Sony har valgt å kombinere to firekjerners prosessorer fra AMD, samt grafikkprosessorer fra samme selskap – alt basert på 64 bits x86-arkitektur. 
+
+Det er for tidlig å komme med konkrete beskrivelser av «hvor mye bedre grafikk» den nye konsollen gir. 
+Flere år må gjerne gå før utviklere fullt klarer å utnytte potensialet som ligger i spesialtilpasset maskinvare som dette, men det er bare å slå fast at maskinen ikke kan konkurrere med de kraftigste datamaskinene på markedet i dag. 
+Hvordan denne dynamikken vil forandre seg med Valve sine konfigurerbare Steam-maskiner er fortsatt helt i det blå. 
+
+Operativsystemet – menyene du møter i det du skrur på konsollen – bygger videre på samme utseende kjent fra Playstation 3. 
+
+Ulike funksjoner er plassert i horisontale ikoner, mens ulike nivåer (systemvalg, programvarevalg og spillvalg) er organisert vertikalt. 
+Det er intuitivt og lett å ta i bruk. 
+I det du setter inn en disk starter installeringen automatisk, ulike oppdateringer lastes også ned i bakgrunnen mens du bruker konsollen til andre formål. 
+
+En særs velkommen forbedring er muligheten til å starte et spill etter kun en liten del av installasjonen er ferdig, dermed kutter Playstation 4 ned ventetiden. 
+Ikke alle spill støtter denne funksjoner, men når du installerer Battlefield 4 fra disk kan du etter meget kort tid starte opp og begynne på enkeltspillerfortellingen mens resten av installasjonen fullføres i bakgrunnen. 
+
+Flere ting skjer i bakgrunnen uten at du merker det mens du bruker Playstation 4-konsollen. 
+
+Konsollen tar kontinuerlig opp video av de siste femten minuttene med spilling og muliggjør via en egen «Share»-knapp på kontrolleren deling av videoklipp og bilder rett på sosiale medier. 
+Mer viktig her er muligheten til å strømme det du spiller til tjenester som Twitch.tv og Ustream. 
+Den samme knappen du bruker til å dele bilder og videoklipp kan trykkes på for å «Kringkaste spilling». 
+Har du allerede registrert en konto hos en av de to tilbyderne er det meget lett å starte. 
+Disse direktesendte «spillsendingene» kan du også være programleder for ved å plugge hodetelefoner med mikrofon inn i håndkontrolleren (les mer om den under). 
+
+Denne strømmefunksjonen virker kanskje helt unødvendig for mange. 
+Hvorfor skal noen andre sitte og se på at jeg spiller? 
+Svaret er, noe overraskende, at strømming av direktesendt spilling og «Let's Play»-videoer er enormt populært blant de yngste spillerne. 
+
+Min spådom er at nettopp denne funksjonen vil føre til de største endringene i spillhverdagen – om man ser et par år frem i tid. 
+Dessverre har Sony deaktivert funksjonen som automatisk lagrer og arkiverer videoene i nettbiblioteket til for eksempel Twitch.tv, og skal du bytte spill må du også akseptere at strømmingen stanser. 
+Det er dumt for dem som følger deg og ser på. 
+
+En annen strømmefunksjon er muligheten til å spille Playstation 3-spill direkte via nett, på samme måte som du kan se film uten å laste ned via tjenester som Netflix. 
+Denne muligheten har blitt forsinket til Europa på grunn av manglende bredbåndsinfrastruktur i Europa. 
+
+Playstation Camera-kameraet følger ikke med som standardutstyr når du kjøper konsollen – i motsetning til Kinect-kameraet som følger med Xbox One – og er ikke tatt med i denne vurderingen. 
+Men via den medfølgende mikrofonen du kan koble til håndkontrolleren er det mulig å ta i bruk stemmestyring på engelsk. 
+Videosamtaler og gruppesamtaler er også løftet frem i Playstation 4-menyen og fungerer godt med bare mikrofon, men først med kamera kommer alle disse funksjonene til sin fulle rett. 
+
+En rekke tredjepartsapplikasjoner er tilgjengelig ved konsollens norske lansering, som Netflix, IGN og Viaplay. 
+
+Spillutvalg 
+
+eksklusive- og multiplattformtitler 
+
+En ny konsoll trenger både storslagne spill og spill som viser hva som er unikt. 
+Med utsettelsen av storsatsingen Watch dogs fikk lanseringsplanene til Sony et skudd for baugen, og spillene som er tilgjengelig ved lansering gir for lite inntrykk av hvilken retning spillfremtiden vil ta. 
+
+Et enkelt mantra i mediebransjen er at «content is king» – kort oversatt at innholdet styrer publikum. 
+Og ved lansering er det ikke nok å hente i spillutvalget. 
+Jeg lurer rett og slett på: 
+Hvor er spillet som gir meg hakeslepp? 
+
+Størstedelen av lanseringstitlene er kjent fra tidligere i høst og fra andre konsoller (klikk på navnene for å lese anmeldelsene): 
+Call of Duty: Ghosts, Battlefield 4, FIFA 14, Assassin's Creed IV: Black Flag og LEGO Marvel Super Heroes. 
+
+Disse spillene holder alle jevnt høy kvalitet, og har i noen tilfeller forbedret grafikk, men skiller seg i liten grad fra utgavene som i dag er tilgjengelig på Xbox 360 og Playstation 3. 
+To eksklusive spill er lansert for salg over disk i forbindelse med lanseringen. 
+
+Knack sitt grunnkonsept er nærmest identisk med plattform- og eventyrspill fra Sony, som for eksempel Ratchet og Clank. 
+Det unike denne gangen er at hovedfiguren Knack kan samle fortidsminner («relics», journ.anm.) og bygge seg større, tenk altså Legoklosser samlet inn av en Legomann. 
+
+Spillet er godt tilrettelagt for norske barn med oversettelse av både tekst og tale, og er stemmelagt av kjente norske stemmer fra barnekanaler som NRK3 og Disney Channel. 
+Overraskende nok er de engelske stemmene mørkere og mer voksne. 
+Men Knack kommer med lite nytt til bordet og kunne like gjerne vært gitt ut på Playstation 3. 
+
+Killzone: 
+Shadow Fall fortsetter historien fra Killzone-trilogien (2004-2011) om kampene med Helghast-folket. 
+
+Grafikken er imponerende, spesielt lyset er naturlig og virkelighetsnært, mens selv store områder på skjermen får ikke bildefrekvensen til å gå ned merkbart. 
+
+Totalvurderingen trekkes likevel litt ned på grunn av blant annet rotete brettdesign. 
+
+Blant de eksklusive nedlastbare spillene spriker kvaliteten enormt. 
+Contrast har en rekke originale og gode ideer, men utvikleren klarer ikke å kombinere disse til en vellykket spillopplevelse. 
+Usynlige vegger som sperrer åpenbare veivalg i brettene, en uklar historie og mange små feil gjør at jeg ikke kan anbefale å bruke penger på dette spillet. 
+
+Resogun er på en annen side et spill som ikke ønsker å finne opp kruttet på nytt. 
+Du styrer et lite romskip som må beskytte jordens befolkning mot utenomjordiske i en «pimpet» versjon av klassiske Space Invaders. 
+Utfordringen er velkonstruert og spennende, og gir deg nok av nye våpen underveis slik at man blir stimulert til å komme enda ett hakk lenger neste gang. 
+Grafikken er inspirert av spill fra tidlig 80-tall, men tar samtidig i bruk Playstation 4-konsollens kraft til å vise flotte effekter. 
+
+Kontrolleren 
+
+DualShock 4 og Playstation Vita 
+
+Jeg skal være helt ærlig. 
+De siste årene har jeg spilt hundrevis av timer på både Playstation 3 og Xbox 360. 
+Blant kontrollerne har min soleklare favoritt vært Microsoft sitt alternativ. 
+
+Med DualShock 4-kontrolleren har Sony rettet opp nærmest alle mine innvendinger mot forgjengeren, men på et punkt svikter inntrykket. 
+
+For å ta det som er bra først. 
+Kontrolleren ligger meget godt i hendene og har et mer organisk preg over utseendet. 
+De skarpe kantene og linjene fra forgjengeren er betraktelig myket opp. 
+Ergonomien er, etter min personlige erfaring rett og slett, skrudd i taket. 
+De store styrestikkene er litt lavere og har fått seg en liten kant som gjør det lettere å beholde grepet om dem. 
+Mens avtrekkerknappene (L2 og R2) har akkurat riktig motstand både for bilspill og førstepersonsskytespill. 
+
+Bevegelsessensorene er presise og fungerer godt i spill. 
+Den samme erfaringen gjorde jeg ikke på Playstation 3. 
+I Battlefield 4 er det helt naturlig å bruke bevegelsessensorene til å vippe kontrolleren til en side for å lene seg ut fra dekke, slik at du kan fyre løs på fienden. 
+Men likevel ble jeg mest imponert da konsollen ba meg bruke DualShock 4-kontrolleren som en pekepinne for å skrive inn informasjon via en skjermtastatur. 
+Dette fungerte overraskende bra og demonstrerte at presisjonen er så høy at du kan treffe selv de minste knappene som dukker opp på skjermen. 
+
+De oppgraderte bevegelsessensorene henger nøye sammen med måten Sony har integrert teknologien fra begevelseskontrolleren Playstation Move (kom ut til Playstation 3 i 2010) inn i DualShock 4. 
+Foran på den nye kontrolleren er et stort hvit felt som lyser med sterke farger når kontrolleren er i bruk. 
+I kombinasjon med et Playstation Camera (følger ikke med i standardpakken) kan konsollen også spore hvor i rommet de ulike spillerne sitter. 
+En funksjon jeg kan se for meg vil bli brukt i partyspill, men som så langt ikke er benyttet overhodet. 
+
+På undersiden har Sony lagt til en standardisert minijack-utgang hvor det er mulig å koble til helt vanlige hodetelefoner – også med mikrofon. 
+I pakken følger det med en mono-øreplugg med mikrofon slik at du kan hoppe rett ut i konsollens sosiale funksjoner, enten det er strømming av det du spiller eller gruppesamtaler. 
+Ved å trykke på Playstation-knappen midt mellom styrestikkene kan du også velge å få all spillyd servert rett i øra, og på den måten skåne resten av husstanden for unødig bråk. 
+
+Batteritiden er så god som man bør forvente i 2013, etter snart to ukers spilling har jeg kun måtte lade kontrolleren to ganger. 
+At Sony også velger standardiserte USB-tilkoblinger gir bonus i min bok. 
+
+Det som ikke fungerer godt på DualShock 4-kontrolleren er også de største endringene. 
+De velkjente «Start»- og «Select»-knappene er byttet ut med «Options» og «Share», mens selve knappene er flyttet lenger fra hverandre og frem på kontrolleren. 
+Det er med nostalgi i tankene jeg rynker på nesa over at Battlefield 4 ber meg om å trykke på «Options» for å starte, men det venner man seg til, verre er det at knappene nå er plassert slik at det er mer unaturlig å nå frem til dem uten å endre håndstilling. 
+
+Samme problem dukker opp når du skal bruke berøringsflaten som opptar mesteparten av kontrollerens sentrum. 
+I Killzone: 
+Shadow Fall kan du bruke berøringsflaten til å gi ordre til en flyvende drone, mens i Battlefield 4 kan du trykke på den for å hente opp de sosiale funksjonene i «Battlelog»-systemet. 
+Et problem er at plasseringen gjør det vanskelig å bruke den i kampens hete, et annet er at spillene som så langt er tilgjengelige på Playstation 4 ikke tar i bruk denne funksjonen på godt vis. 
+
+En ny konsoll må overbevise forbrukerne om hvorfor nye funksjoner er inkludert ellers risikerer de å gå inn i glemmeboka. 
+Berøringsfeltet brukes ikke spesielt godt i lanseringsspillene. 
+
+Den bærbare konsollen Playstation Vita kan også kobles til Playstation 4 via en egen applikasjon på førstnevnte. 
+«Remote Play» gir muligheten til å ta med skjermbildet til andre rom i huset via et trådløst nettverk, og du skal angivelig kunne gå ut av huset og fortsette spillingen via Internett. 
+Det siste punktet har jeg forsøkt flere ganger uten å få til å fungere. 
+Vita-konsollen kan også fungere som en ekstra skjerm hvor ekstra informasjon knyttet til spillet som er aktivt dukker opp – som kart i bilspill eller løsøre («inventory», journ.anm.) i eventyrspill. 
+Interessant nok er det ingen av spillene jeg har testet så langt som har benyttet seg av dette. 
+
+Konklusjon: 
+
+Playstation 4 en en god konsoll med både maskinvare og ekstra funksjoner som løfter konsollen opp til en fortjent plass blant neste generasjon spillmaskiner. 
+Mangelen på gode spill – på et spill som virkelig kan representere den nye spillkonsollen – svekker helhetsinntrykket. 
+
+La det ikke være tvil om følgende: 
+Sony satser på at deres nye konsoll skal skille seg fra Xbox One ved å ha et sterkere fokus på spillerne. 
+
+Ved å integrere strømmemuligheter direkte i konsollen – en funksjon også Xbox One vil ha etter hvert – har Sony klart å kombinere en viktig og voksende trend med sin nye konsoll. 
+
+Men Sony må levere mer unikt innhold som fremhever konsollens egenart før den kommer til sin rett. 
+
+Totalvurdering: 
+
+Hva er din mening om Playstation 4? 
+Del dine synspunkter i kommentarfeltet. 

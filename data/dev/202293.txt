@@ -1,0 +1,71 @@
+ASRock Beebox N3000
+Utfordrer Intel NUC med rimelig, lydløs mini-PC og mediesenter. 
+
+ASRock har gjennom en årrekke spesialisert seg på hovedkort, men lager også kompakte, stasjonære PC-er og såkalte halvfabrikata «barebones». 
+
+Nylig lanserte de Beebox, en serie mini-PC-er med et fotavtrykk på beskjedne 11 x 11 cm. Likheten med Intels NUC-maskiner er slående, men Beebox har noen ess i ermet: 
+
+Vifteløs design (gjelder modellen med Intel Celeron N3000-prosessor) iR-port og fjernkontroll USB-C-port til ny generasjon USB-kabler som kan brukes begge veier. 
+Ifølge ASRock er dette den første mini-PC-en som har dette. 
+To HDMI-utganger + DisplayPort-utgang, for tilkobling av inntil tre skjermer samtidig. 
+
+Liten tass 
+
+Beebox har et volum på beskjedne 6 desiliter, likevel har den plass til to SSD-er eller én SSD og en harddisk. 
+PC-en benytter tokanals DDR3-minne på inntil 16GB. 
+Hvis du har disker og minne liggende, kan du kjøpe Beebox uten dette. 
+Prisen ligger da på rundt 1.700 kroner. 
+
+Vårt testeksemplar ble levert med 128GB SSD (mSATA), 2 x 
+2 GB minne og et Realtek trådløst nettverkskort (802.11AC + Bluetooth 4.0). 
+Denne konfigurasjonen koster i skrivende stund fra rundt 2.600 kr inkludert moms. 
+
+Mediesenter 
+
+Hvem er så målgruppen? 
+Dette er ikke noen kraftig maskin, men den skal ifølge ASRock kunne spille av video i 4K-oppløsning. 
+Når den i tillegg leveres med iR-port og fjernkontroll, er det helt på det rene at produsenten henvender seg til deg som ønsker et lydløst mediesenter til stuen. 
+
+Til denne typen bruk kan man for eksempel installere en gratis Linux-distro med tilhørende mediesenter-programvare, for eksempel Kodi (tidligere XBMC). 
+Vi testet primært med Windows 10, og her finnes det mange mediesenter-løsninger, inkludert nevnte Kodi, som den medfølgende fjernkontrollen fungerer ypperlig sammen med. 
+
+Ikke egnet for tyngre oppgaver 
+
+At maskinen ikke er noe råskinn, merket vi allerede under installasjonen av Windows 10. 
+Det tok vesentlig lengre tid enn på flere andre maskiner vi har testet i det siste. 
+Da prosessen var fullført, kunne vi koble oss til vårt trådløse nett og laste ned tilleggsdrivere fra Asrock sitt nettsted. 
+
+Vi installerte noen testprogrammer og mediespillere, og de kjørte ganske greit. 
+Vi merket imidlertid ofte at det «lugget» litt. 
+Programmer som er lettkjørte på kraftigere PC-er, beslaglegger her ofte prosessoren 100 prosent, og dermed blir det fort litt venting i tide og utide: 
+
+Til opplysning var opplevelsen temmelig lik med Linux Mint innabords. 
+
+Positive faktorer 
+
+Heldigvis er SSD-en relativt rask (les/skriv 498/301MB pr sekund). 
+Vi tør ikke tenke på hvordan opplevelsen hadde vært med en harddisk som systemdisk. 
+Mer minne kunne nok også bidratt til en bedre opplevelse. 
+
+Til vår overraskelse viste det seg imidlertid at maskinen hadde null problemer med å spille av våre testfiler i ultrahøy oppløsning (3.840 x 2.160 piksler) verken gjennom Windows Media Player eller den nye Film og TV-appen i Windows 10. 
+
+Ifølge ASRock ligger hele forklaringen i at den benytter tokanals minne. 
+
+Det som imidlertid skapte litt hodebry, var strømming av video. 
+Det skyldtes ikke at maskinen ikke er kraftig nok, men at det trådløse nettverkskortet fra Realtek slet litt med å opprettholde god forbindelse med vårt aksesspunkt to etasjer over. 
+Vår Intel NUC med Intel 7260AC-kort har ingen problemer med dette. 
+
+Heldigvis er det en enkel affære å bytte trådløskort hvis du opplever de samme problemene. 
+Et bedre AC-kort koster ikke mer enn et par hundrelapper. 
+Det er også svært enkelt å oppgradere minnet, skifte SSD og sette inn en ekstra disk. 
+Du løsner bare fire skruer fra undersiden, løfter av topplokket, og så har du full tilgang til maskinvaren: 
+
+Konklusjon 
+
+ASRock Beebox er en snerten liten sak som egner seg som lydløs mediesentral under TV-en. 
+Den er ikke egnet for fleroppgavekjøring og tyngre jobber, men fikser videoer i alle aktuelle oppløsninger, inkludert 4K. 
+Prisen bør heller ikke skremme noen. 
+
+Se våre plusser og minuser i boksen under, og les også våre tester og omtaler av andre mini-PC-er før du bestemmer deg for å handle. 
+
+Takk til Multicom for lånet av Beebox 

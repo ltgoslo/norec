@@ -1,0 +1,118 @@
+Fleksibel lekkerbisken fra Asus
+Kvalitetsfølelse og design er det lite å utsette på, men vi hadde nok valgt en annen konfigurasjon. 
+
+Asus ZenBook Flip UX360UA-DQ135T 
+
+Det er fem år siden lanserte Asus sin første Zenbook, og siden har vi testet en rekke forskjellige utgaver av de slanke ultrabookene her på Dinside. 
+PC-ene har i all hovedsak fått gode skussmål, ikke minst ZenBook UX305, som bød på god ytelse helt uten behov for viftekjøling. 
+
+Første hybrid 
+
+Denne gangen har turen kommet til ZenBook Flip UX360, som faktisk er den første i serien med en skjerm som kan dreies helt rundt. 
+Dermed får man en hybrid-maskin med flere forskjellige bruksmåter. 
+
+Det er naturligvis først og fremst en PC, men den kan også brukes som nettbrett når skjermen er dreid helt rundt, takket være god berøringsskjerm. 
+Til videofremvisning og presentasjoner kan den for eksempel stå som et telt, eller med tastaturet skjult. 
+
+Dette er etter vår mening den mest vellykkede formfaktoren for hybrider og 2-i-1-maskiner, og nesten alle PC-produsentene har slike 360-graders modeller i sitt sortiment nå. 
+Du finner lenker til noen av de beste nederst i artikkelen. 
+
+Toppmodellen under lupen 
+
+ZenBook Flip UX360 kommer i en rekke forskjellige konfigurasjoner, og også her finner du enkelte som greier seg uten aktiv kjøling (vifter), takket være strømgjerrige Core M-prosessorer fra Intel. 
+Modellen vi har hatt på testbenken de siste ukene, er derimot den kraftigste i serien, med sjette generasjon Core i-prosessor. 
+Denne krever vifte. 
+
+Her er en kjapp oversikt over de viktigste tekniske egenskapene: 
+
+Skjerm: 13,3" blank IPS berøringsskjerm, 3.200 x 1.800 piksler Prosessor: 
+Intel Core i7-6500U (2,5 GHz) RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD Graphics 520 (integrert i prosessor) 
+Lagring: 512 GB SSD fra Hitachi (M.2 SATA) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 USB-porter: 2 stk klassiske USB 3.0-porter + 1 USB-C (USB 3.1 gen 1) Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+802.11a/b/g/n/ac (Intel AC 7265) + Bluetooth 4.2 Kablet nett: 
+Nei Annet: 
+Integrerte høyttalere fra Harman Kardon OS: 
+Windows 10 Home Størrelse: 22 x 32 x 1,4 cm Vekt: 
+1,3 kg Pris: 
+Fra 13.490 kr (jf Prisjakt 17.10.2016) 
+
+Dette er spesifikasjoner som er en toppmodell verdig i dette segmentet. 
+Designmessig står den heller ikke tilbake for konkurrenter som HP Spectre X360 eller Lenovo Yoga, og byggekvaliteten gir også et meget solid inntrykk. 
+Her har produsenten benyttet aluminium over det hele, chassis og lokk er godt oppstivet, og hengslene skal tåle over 20.000 dreininger fram og tilbake. 
+
+Alle tilkoblingspunktene sitter på venstre og høyre side, og vi er positivt overrasket over at Asus har fått plass til en fullstørrelses HDMI-port her, i tillegg til tre USB-porter, hvorav én har den nye USB-C-formfaktoren. 
+
+Ypperlig skjerm, tastatur og pekeplate 
+
+Skjermen har ekstremt høy oppløsning, noe som betyr sylskarpe detaljer og fine raster og overganger. 
+Windows 10 er laget for å håndtere så høye oppløsninger uten at alt blir for smått, men det kan fortsatt være noen gamle Windows-programmer som sliter litt. 
+
+Farger, kontrast og lysstyrke er god fra alle vinkler, og berøringsfølsomheten er også upåklagelig (inntil 10 fingre samtidig). 
+Det er samtidig verdt å merke seg at overflaten er veldig blank, så uønskede reflekser er nærmest uunngåelig under mange lysforhold. 
+
+Liker du ikke å berøre skjermen for å navigere, kan du bruke den presise og store pekeplaten. 
+Den støtter også såkalte gestures, der flere fingre kan brukes til å utføre forskjellige oppgaver. 
+Du zoomer ut og inn ved å bruke de samme knipebevegelsene på skjermen, og du kan også skrolle i dokumenter med to fingre. 
+
+Trykker du hardt på tastene, vil du merke en viss svikt i tastaturplaten, men dette skaper på ingen måte noe problem under vanlig bruk. 
+Tastene er faste, responsive - og lager knapt lyd under bruk, noe som bidrar til god brukeropplevelse. 
+
+Dette liker vi ikke så godt 
+
+En faktor som overrasket oss i negativ retning, er den hyppige vifteaktiviteten. 
+Dette bruker Asus å være veldig gode på å unngå, men det er ikke tilfellet her. 
+
+Selv med minimal belastning (og lave temperaturer) går vifta ofte konstant, og gjerne på høy frekvens med tilhørende skarp lyd. 
+Det betyr nada i et kontormiljø, men hjemme på sengekanten er det i hvert fall uaktuelt for vår del. 
+
+Vi vet av erfaring at slike ting kan bedre seg etter fastvare-oppgraderinger, noe vi håper vil være tilfelle også for denne maskinen. 
+
+Slik yter den 
+
+Ytelsesmessig er det derimot lite å utsette på den. 
+Sammenligner vi mot den vifteløse ZenBook UX305 med ytelsesprogrammene i Passmark Performance Test, ligger prosessorytelsen i snitt rundt 23 prosent høyere (4351 mot 3533 poeng). 
+Og da snakker vi om en maskin som også løste de aller fleste PC-oppgaver uten særlig forsinkelse. 
+
+Grafikken er integrert, men glem alle fordommer om at alt går tregt på slike løsninger. 
+Det var i gamledager. 
+Nå kan du spille av alt av videomateriale, også i 4K-oppløsning, uten at maskinvaren blir nevneverdig stresset. 
+Noen gaming-maskin er dette uansett ikke, men litt eldre spill kan gå greit, spesielt om du tåler å gå ned på oppløsning og detaljrikdom. 
+
+Skrivehastigheten til SSD-en målte vi til maks 493 MB i sekundet, lesehastigheten til maks 551 MB i sekundet. 
+Dette er meget gode tall, men vi har sett langt raskere. 
+En av årsakene er grensesnittet mot PC-en, der de raskeste benytter PCIe-grensesnitt, bruker denne maskinen den eldre SATA-standarden. 
+Det har ikke mye å si i praksis for de fleste av oss, men vi nevner det likevel siden det her er snakk om en toppmodell. 
+
+Ikke mer enn OK batteritid 
+
+Noe av det aller viktigste for mange, spesielt på modeller som innbyr til å bruke ute i felten, er batteritiden. 
+De vifteløse utgavene av UX360 har svakere og mer strømgjerrige prosessorer. 
+I tillegg har de lavere skjermoppløsning. 
+Disse faktorene er med på å gi disse maskinene meget god batteritid, gjerne godt over 10 timer. 
+
+Når det gjelder vårt testeksemplar, er derimot situasjonen en annen. 
+Under kontinuerlig videostrømming fra YouTube, var det slutt etter 398 minutter, eller 6 timer og 38 minutter. 
+Ved variert bruk kan du ikke regne noe særlig mer enn 7 timer mellom hver lading. 
+Det er forsåvidt godkjent, men ikke særlig mer. 
+
+Konklusjon 
+
+Dette er en fin og kjapp maskin, faktisk blant de aller kjappeste vi har testet i segmentet. 
+Den høyoppløste skjermen er også knallgod. 
+Men disse positive sidene har sine klare bieffekter - først og fremst må du belage deg på en del viftestøy, men like viktig er at batteritiden er lavere enn på enklere konfigurasjoner. 
+
+Så da spørs det om det hadde vært smartere å gå ned på oppløsningen til full HD og velge en konfigurasjon med Core M-prosessor - og samtidig spart noen tusenlapper. 
+Hvis du ikke bruker PC-en til tyngre oppgaver som konstruksjon og svært komplekse matematiske kalkulasjoner, er i hvert fall det vår soleklare anbefaling. 
+
+Derfor bør du lese testene av disse maskinene først, før du bestemmer deg: 
+
+Er det ikke så interessant med 2-i-1, er testen denne vifteløse ZenBook-en også verdt å få med seg. 
+De øvrige PC-testene våre finner du her. 
+
+(Oppsummeringsboksen med terningkast, plusser og minuser, finner du øverst i denne artikkelen). 

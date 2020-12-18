@@ -1,0 +1,119 @@
+HP Spectre X360
+En av de beste hybridene vi har testet. 
+
+Siden lanseringen av Windows 8 for tre år siden, har nær sagt alle PC-produsentene prøvd seg på å lage hybrider mellom PC og nettbrett. 
+Svært få har vært vellykket, både bruks- og salgsmessig. 
+
+Vanskelig oppskrift 
+
+Det er flere årsaker til det, men det er helt på det rene at det har vist seg vanskelig å ta det beste fra to verdener uten at en god del negative vedheng har blitt med på lasset. 
+
+Samtidig er det helt på det rene at Windows 8 var «uferdig» i forhold til å gi brukerne en god og sømløs opplevelse i nettbrett- og PC-modus. 
+
+Dette har heldigvis blitt mye bedre i Windows 10. 
+
+Øvre sjikt-modell 
+
+Spectre X360 er HPs siste tilskudd i hybrid-familien. 
+Den må ikke forveksles med HP Pavilion X360 som vi har testet tidligere, og som så vidt karret seg til et terningkast 3 i vår test. 
+
+Spectre-serien byr på en helt annen byggekvalitet og er langt bedre spesifisert - og koster naturlig nok mye mer. 
+
+Før vi går videre skal vi ta en titt på hva vårt testeksemplar har å by på: 
+
+Skjerm: 13,3" blank IPS berøringsskjerm, 2560 x 1440 piksler Chassis: Aluminium Prosessor: 
+Intel Core i7 5500U RAM: 
+8GB (som også er maks) Grafikkort: 
+Intel HD Graphics 5500 Lagring: 
+256GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI og MiniDisplay-port USB-porter: 3 x USB 3.0 Webkamera: 720P Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel AC7265 (802.11a/b/g/n/ac) Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0, WiDi OS: 
+Windows 10 Home (Oppgradert fra 8.1) Størrelse: 325 × 16 × 218 mm Vekt: 1,51 kg Pris: 
+13.990 kr (jf Prisjakt 7.8.2015) 
+
+Godt spesifisert 
+
+Det er lite å utsette på disse spesifikasjonene. 
+Du får siste generasjon maskinvare, mye hentet fra øvre sjikt, som femte generasjon Intel Core i7-prosessor og et av markedets råeste trådløskort, med teoretisk hastighet på inntil 867 Mbit/s. 
+
+Merk også skjermen, som har et lyssterkt og høyoppløst IPS-panel. 
+Den kan betraktes fra nær død vinkel, helt uten at farger avtar og inverteres. 
+Skulle du ønske å koble til en ekstern skjerm, vil MiniDisplay-porten sørge for å forsyne selv eksterne 4K-skjermer med full oppløsning. 
+
+Solide og gjennomført 
+
+Det som ikke kommer fram i listen over er byggekvaliteten. 
+Den er rett og slett meget god og solid. 
+
+Foruten et godt avstivet aluminiums-chassis, må vi trekke frem det bakgrunnsbelyste tastaturet, som er et av de bedre vi har prøvd på lenge, med minimal svikt og støysvak tasting. 
+
+Eneste lille ankepunkt er enter-tasten, som er litt liten i forhold til hva vi skulle ønske. 
+Merk også at ><-tegnene er plassert til høyre for mellomromstasten, ikke ved venstre shift-tast, som er standard. 
+
+Pekeplaten støtter naturligvis multiberøring, og må være en av klassens bredeste. 
+Skrolling med to fingre går silkeglatt, omtrent som på toppmodellene fra Apple og Samsung. 
+I tillegg kan man selvfølgelig bruke direkte berøring på skjermen, men vi antar at de fleste foretrekker pekeplate når man jobber i PC-modus. 
+
+Nettbrett på 1-2-3 
+
+Alle tilkoblinger sitter på venstre og høyre side. 
+Her er det verdt å merke at også av/på-knappen sitter her, samt volumjustering og en egen knapp som henter fram startmenyen. 
+Alt dette skyldes naturlig nok at dette er en hybrid, og ved å vri skjermen helt rundt slik at den dekker baksiden, har du i praksis et nettbrett. 
+
+I motsetning til i Windows 8 er det et skille mellom PC- og nettbrettmodus i Windows 10. 
+Apper kjører ikke lenger i vinduer, kryssene forsvinner øverst til høyre, skjermtastaturet dukker opp når det er nødvendig og startmenyen dekker hele skjermbildet. 
+På Spectre X360 får du spørsmål om du vil bytte modus så snart du har snudd skjermen, så brukeropplevelsen er blitt langt bedre i Windows 10. 
+
+Berøringsfølsomheten på skjermen er upåklagelig, den støtter inntil 10 fingre om gangen, noe mer enn det er sjelden hensiktsmessig. 
+
+God ytelse og stort sett stillegående 
+
+Ytelsesmessig scorer maskinen meget bra, den nye i7-5500U-prosessoren scorer rundt 20-30 prosent bedre i ytelsesmålinger enn den meget utbredte i5-4200U fra Haswell-generasjonen. 
+I praksis betyr dette at dette er en PC som tåler tyngre oppgaver godt. 
+Vi bruker gjerne denne maskinen til alt fra tyngre Photoshop-jobber og redigering av høyoppløst video i Premiere. 
+
+SSD-ytelsen er tilfredsstillende, med lese/skrivehastighet på rundt 250MB i sekundet. 
+Det finnes imidlertid SSD-er som er mer enn dobbelt så raske, uten at dette nødvendigvis er særlig merkbart under vanlig arbeid. 
+
+3D-ytelsen er imidlertid ikke veldig god, derfor er ikke dette en maskin for deg som kjøper spillene på topp 10-listen. 
+Enklere 2D-spill og eldre titler kan imidlertid flyte helt fint, og alt annet - inkludert høyoppløst materiale. 
+Vi har for eksempel spilt 4K-videoer gjennom YouTube uten at maskinen viste spor av stressymptomer. 
+
+Spectre X360 er utstyrt med en vifte, og vi opplevde at den startet ganske hyppig i starten. 
+Etter hvert har den roet seg betraktelig, og det kan gå lang tid mellom hver gang den starter. 
+Det avhenger veldig av belastning, men generelt er denne maskinen temmelig stillegående. 
+
+Optimistisk batteripåstand 
+
+Hva så med batteritiden? 
+HP er i overkant optimistiske når de påstår at maskinen skal klare inntil 12,5 timer mellom hver lading. 
+Selv uten å gjøre annet enn å være påskrudd - og i strømsparemodus, klarte ikke vårt testeksemplar å holde ut i mer enn 9 timer og 50 minutter, og ved kontinuerlig videoavspilling klarte den på det beste 6 timer. 
+
+Det betyr at du normalt kan forvente rundt 8 timer driftstid med normal, variert belastning. 
+Og bevares - det er definitivt godkjent. 
+
+Konklusjon 
+
+Møtet med HP Spectre X360 med Windows 10 ble i all hovedsak en positiv opplevelse. 
+Dette er en dyr maskin, men den er meget potent, og HP har brukt kvalitetskomponenter i alle ledd. 
+Den er også svært behagelig å jobbe på. 
+Skal du ha en PC du kommer til å bruke mye, gjerne ute i felten, bør du absolutt vurdere denne. 
+
+Av ankepunkter har vi allerede nevnt at batteritiden ikke er så god som HP påstår, men den er fortsatt god. 
+SSD-ytelsen kunne vært bedre, men også dette er et lite ankepunkt. 
+
+Og så var det dette med nettbrettmodus da. 
+Nye 10" nettbrett veier gjerne rundt halvkiloen. 
+Denne veier tre ganger så mye. 
+Selv om Windows 10 har blitt et voksent nettbrett-OS, er vi litt usikre på hvor mange som kommer til å bruke X360 i nettbrettmodus i særlig grad. 
+I tillegg til høy vekt er dessuten app-utvalget, kvalitet og aktualitet i skrivende stund langt bak iPad og de beste Android-brettene. 
+
+Da er det greit å vite at Spectre X360 først og fremst er en ypperlig PC som er fullt kapabel også som nettbrett - dersom du skulle få behov for det. 
+
+Totalt sett et av de aller beste hybridproduktene vi har testet, og med Windows 10 innabords får den en soleklar femmer på terningen. 
+
+HP Spectre x360 13-4080no 

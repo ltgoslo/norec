@@ -1,0 +1,109 @@
+Samsung Gear VR – et glimt av fremtiden
+Selv mobilspill er gøy med VR-briller. 
+
+I løpet av de neste månedene vil kommersielle VR-produkter gjøre et større inntog i folks hjem. 
+Konseptet er for all del ikke nytt – selv kan jeg huske en London-tur på midten av nittitallet der jeg først prøvde VR-hjelm, på den tiden der The Lawnmower man var populær. 
+
+Den gangen var det imidlertid snakk om langt større hjelmer man hadde på hodet, og grafikken var ikke all verden. 
+Nå ser det ut til at de fleste produsenter av VR-briller lander på en variant som kan minne om et ekstra stort par med slalåmbriller. 
+
+Hva er en VR-brille? 
+
+En VR-brille er altså et slags visir du fester på hodet. 
+To linser sørger for å bryte lyset slik at du klarer å fokusere på skjermen bak, og hvert øye blir matet med hvert sitt bilde, akkurat som i virkeligheten. 
+
+Det er det som gjør at vi evner å se i tre dimensjoner – med andre ord: 
+Er man blind på ett øye vil ikke dette ha like mye for seg. 
+
+I VR-brillen sitter det så sensorer som registrerer hvordan du beveger hodet – ser du til høyre, flyttes bildet deretter og så videre. 
+Det åpner for en helt annen opplevelse av spill spesielt, men det finnes også mye annet 3D-innhold som kan være morsomt; det være seg konsertopptak, helikopterturer (der du kan titte deg rundt) og så videre. 
+
+Men har vi ikke prøvd dette med Cardboard? 
+
+Vi har tidligere skrevet om Cardboard, som du selv kan brette i papp, der du bruker mobiltelefonen som skjerm. 
+
+Akkurat det siste gjelder også for dagens testprodukt, Samsung Gear VR, som krever at du har en Samsung Galaxy S6-telefon (eventuelt Edge-utgaven). 
+
+Produktet finnes også i en versjon for Note 4, men denne er ikke til salgs - Gear VR får du tak i hos enkelte forhandlere, men merk at dette er en såkalt «innovator edition»; altså et produkt for den som liker å være tidlig ute med det nyeste. 
+Samsung er altså selv klar over at dette ikke er helt et produkt for massene ennå. 
+
+I motsetning til Cardboard, har Gear VR egne sensorer som fungerer vesentlig bedre enn de som ligger i telefonen. 
+Derfor merket vi raskt at våre hodebevegelser gav raskere respons enn hva vi er vant med fra Cardboard, med lav forsinkelse. 
+
+Sitter godt 
+
+Gear VR monteres enkelt – man fester på en stropp som går rundt hodet og en som går over. 
+Disse har borrelås og lar seg enkelt justere, og selv på undertegnedes langt over middels gjennomsnittlige hodestørrelse sitter den fint. 
+
+(Seriøst – de måtte spesialbestille lue til meg i militæret.) 
+
+Batteri har den ikke – her trekkes strøm fra telefonen. 
+Om du vil kan du også koble i en strømledning (micro USB), for batteriet på telefonen tappes relativt raskt mens man holder på – eksempelvis tok vi en 28-minutters spillsesjon, og da ble batteriet tappet 15 prosentpoeng, der telefonen også blir ganske varm. 
+Dog er det ganske deilig å være fristilt fra kabler når man holder på. 
+
+På toppen av brillen finnes det et innstillingshjul som lar deg justere dioptrien, slik at brillen kan tilpasses den enkeltes syn. 
+Samsung oppgir at man ikke bør ha på seg briller når man bruker Gear VR, og hver gang man starter opp, vises også en advarsel om at barn under 13 år ikke bør bruke produktet. 
+
+Høyre side har en tilbakeknapp på toppen, samt en styreflate som kan brukes til navigering. 
+Et lett trykk på denne gjør at du for eksempel velger menyelementer, skyter i et skytespill og så videre. 
+Enkelte spill krever dog at du har tilkoblet en Bluetooth-håndkontroll, noe vi ikke har fått anledning til å teste med i denne omgangen. 
+Det følger heller ikke med i esken. 
+
+Ellers finner du volumbryter på utsiden. 
+Inni finnes en nærhetssensor som oppdager når noen har på seg hodesettet og når de tas av. 
+Langs pannen finnes skumgummi som gjør det mer behagelig å ha brillene på seg, men vi sliter tidvis med dugg på linsene. 
+De må regngøres med en pusseklut en gang i blant (følger med), men vi ser også andre anbefaler sprayer som hindrer duggdannelse. 
+
+Egen Oculus-app 
+
+Som nevnt er Gear VR laget i samarbeid med Oculus, og for å bruke brillen, må du laste ned Oculus-apper og registrere en konto hos Oculus, der du også kan legge inn kredittkort dersom du vil kjøpe apper. 
+Når du har gjort det, kan det meste av app-kjøp og den slags styres mens du har brillene på. 
+
+Plugger du telefonen i brillen og trer den på hodet, startes programvaren automatisk, og etter en skjerm med advarsler kommer hovedmenyen – en stor, futuristisk leilighet du kan titte deg rundt i, der menyen henger midt i rommet. 
+Her finner du noen forhåndinstallerte apper, ditt eget bibliotek og en app-butikk med både gratis og kjøpbart innhold, i en flisemeny ikke veldig ulik den du finner i Windows 8. 
+
+Det finnes også apper til Gear VR som du ikke finner i Samsung og Oculus' app-butikk. 
+Vi har prøvd å laste ned noen slike på siden (for eksempel finalistene fra Oculus' mobile VR Jam). 
+Ulempen er at de ikke dukker opp i app-biblioteket i Oculus-appen, og de må derfor startes manuelt før du setter telefonen i brillen. 
+Det er heller ikke alle som holder god nok kvalitet – for eksempel prøvde vi en berg-og-dalbane-app der bildet flimret veldig, og der det rett og slett var ubehagelig å se på. 
+
+God kvalitet, men ikke perfekt 
+
+Bilder fra Oculus-brillene holder relativt god kvalitet, og det er tydelig at linsene holder noe høyere kvalitet enn de som tradisjonelt følger med i et Cardboard-sett. 
+Vi er også meget godt fornøyde med responsen når man beveger hodet, og med hodesettets brukskomfort. 
+
+Dog skal det sies at man kan skille individuelle piksler, selv med en såpass høytoppløselig skjerm som på Galaxy S6 (2560x1440). 
+Linsene fungerer som et slags forstørrelsesglass mot skjermen, og da er ikke denne oppløsningen høy nok til å fjerne «piksel-følelsen». 
+Mot kantene av skjermbildet blir det også lett fargeblødninger der man også ser sub-pikslene i rødt, grønt og blått, og duggproblemet er allerede nevnt. 
+
+Stor romfølelse 
+
+Man blir allikevel svært imponert når man drar på seg slike briller for første gang - vi har lånt dem bort til mange i løpet av uken, og både barn og voksne synes dette er svært morsomt. 
+
+Noen av høydepunktene har vært spillet Viral, der du skal skyte kuler på små roboter i en 3D-verden, og Esper; et gåteløsningsspill i tre dimensjoner der man virkelig får opplevd dybden Gear VR klarer å skape. 
+
+Morsomt er det også å se filmer du har lagret på telefonen via Oculus Cinema, der du kan velge om du vil sitte i en kinosal, i en hjemmekino og så videre. 
+Også her er romfølelsen enorm, der filmen spilles på lerretet, men der du også står fritt til å titte deg rundt i salen. 
+
+Utvalget av spill og apper er foreløpig ikke veldig stort, men du finner et titalls titler å velge blant, der noen av dem er relativt korte demo-utgaver eller 360-graders videoer. 
+Som nevnt er noen gratis, mens andre koster penger – typisk 3-4 dollar, men også 10 dollar for enkelte titler. 
+Appene er tydelig merket i forhold til om de krever en ekstern håndkontroll eller ikke. 
+
+En ulempe er at de trekker strøm fra telefonen, og den blir også veldig varm. 
+Vi har ikke pushet det lenger enn en halvtime av gangen, men fra hva vi ser rundtom på nettet, ser det ut til at mange får varmeadvarsler etter en times tid. 
+
+Konkurrentene kommer 
+
+VR er spådd til å bli en av de hotteste trendene den kommende tiden, og flere store aktører jobber med sine varianter. 
+Sony har Project Morpheus, som skal fungere med PlayStation 4, HTC og Valve (selskapet bak spilltjenesten Steam) jobber med Vive, og Oculus kommer også med en egen forbrukerversjon som kan brukes med PC og Xbox One. 
+Kickstarter-prosjektet 
+Fove ser også spennende ut, med VR-briller som i tillegg registrerer hvor på bildet man ser. 
+
+Om du ikke har en Samsung Galaxy S6 fra før, blir inngangsprisen selvsagt høy for Gear VR, men om du allerede eier en, er dette faktisk mye moro for et par tusenlapper. 
+
+Det kan imidlertid være at den vil blekne litt mot de store konkurrentene når de kommer – det er tross mobilspill vi sitter og spiller her, så med langt kraftigere maskinvare vil nok også innholdet bli enda mer attraktivt. 
+
+Men det morsomste vi har testet på lang tid? 
+Utvilsomt! 
+
+Samsung Gear VR SM-R321 Innovator Edition 

@@ -1,0 +1,88 @@
+HP Stream 13
+Billig Windows-maskin i kampen mot Google Chromebook. 
+
+På denne tiden i fjor gjorde Chromebook-maskinene sitt inntog i norske butikker. 
+Maskinene som ligger mellom 2-3.000 kroner kjører et lett operativsystem (i praksis Chrome-nettleseren) og er beregnet til nettbruk. 
+I praksis betyr det at de har liten intern lagringsplass og ganske beskjeden maskinvare. 
+Dagens testprodukt er altså et alternativ til Chromebookene. 
+
+HP 
+Stream befinner seg nemlig i samme prisklasse og har også ganske beskjeden innmat. 
+
+Men til forskjell fra Chromebook-maskiner kjøres den imidlertid Windows 8.1, slik at du kan bruke helt vanlige Windows-programmer og ikke er begrenset til kun å bruke nettleseren. 
+
+Liten lagringsplass 
+
+Skjønt – det er ikke store plassen du får å lagre data på. 
+HP Stream leveres med 32GB lagringsminne, men har også en integrert micro SD-kortleser slik at du kan bygge ut lagringsplassen ved å dytte i et minnekort. 
+Dessuten får du ett år med 1TB lagringsplass i Microsofts nettsky, OneDrive. 
+
+Tar vi turen rundt kabinettet finner vi en HDMI-utgang og tre USB-porter, der én av dem er av 3.0-typen, mens de to andre er USB2.0. 
+
+Maskinen finnes i både rosa og blå utgave. 
+
+Matt skjerm 
+
+Når man betaler såpass lite for en bærbar PC gjør man noen kompromisser. 
+Foruten den beskjedne spesifikasjonslisten er heller ikke skjermen skapt for å imponere, med oppløsning på 1366x768. 
+
+Den er ei heller berøringsfølsom, så er det nevnt. 
+
+En fordel er imidlertid at den har en matt overflate, som gjør at det blir få problemer med refleksjoner fra omgivelsene. 
+TN-panelet har dog begrenset innsynsvinkel, spesielt i vertikal retning, som gjør det vanskeligere å se innholdet med mindre du ser ganske rett på skjermen. 
+Den er heller ikke særlig lyssterk. 
+
+OK tastatur, svak styreflate 
+
+Som på de fleste bærbare PC-er i dag har også HP-maskinen et såkalt chicklet-tastatur, der det er godt med mellomrom mellom hver tast. 
+
+Det føles på ingen måte trangt, men uvant for vår del er at den nederste knapperaden føles unormalt langt til venstre, der hele komma-knappen også får plass «innenfor» mellomromstasten (se bildet), siden shift-knappen nederst til venstre er nemlig unormalt liten. 
+
+Erfaringer i vår redaksjon er at de som skriver med den klassiske touchmetoden ikke har problemer, mens vi andre ofte sliter litt med å treffe ,-tasten spesielt. 
+Nei, m-tasten skulle det være. 
+
+Styreflaten er vi imidlertid ikke så begeistret for, og spesielt gjelder dette flerberøring. 
+
+Når vi bruker to fingre til å skrolle innholdet opp og ned er det ofte den ikke registrerer en av fingrene (slik at muspekeren heller flytter seg), og vi har også opplevd unormalt mange uheldige klikk når vi har ment å skrolle på denne måten. 
+
+Vi ser også at enkelte avisforsider går litt «tungt», der skrollingen oppleves ganske hakkete og ujevn. 
+Styreflaten føles også upresis – når vi skal sikte oss inn på små elementer på skjermen, sakker muspekeren ned såpass mye at det blir vanskelig å treffe dem. 
+Til presisjonsarbeid anbefaler vi i så fall å bruke en ekstern mus. 
+
+Beskjeden ytelse 
+
+Som forventet av en PC i denne prisklassen har ikke HP-maskinen allverdens med ytelse. 
+Nevnt er at skrolling i nettsider ikke går helt som smurt, og det er heller ikke en PC for tyngre oppgaver, som spill eller videoredigering. 
+
+Men – i daglig bruk vil nok de fleste oppleve den som kjapp nok. 
+Takket være SSD-disken starter programmer raskt – de du har plass til, vel å merke, for 32GB er svært beskjedent hva gjelder lagringsplass; spesielt etter at operativsystemet har tatt cirka halvparten. 
+
+Når det gjelder batteritid er denne ganske god til en såpass billig PC å være. 
+Vi satte på et gjentakende HD-filmklipp med skjermstyrken på fullt (altså allikevel ikke spesielt lyst), og da holdt maskinen i snaue 6 timer, som for mange kan være lik typisk brukstid. 
+
+Positivt er det at maskinen er helt lydløs; også når vi kjører ytelsestester med tyngre belastning. 
+Fra de interne høyttalerne, derimot, kommer det ganske god lyd. 
+De er dog plassert på undersiden; en plassering som kan by på problemer om du vil se film med PC-en plassert på dyna. 
+
+Med på kjøpet 
+
+Som nevnt får du med ett år med Office365 og én terabyte lagringsplass på OneDrive. 
+Skulle du ha betalt for dette, hadde det kostet 599 kroner. 
+
+Med på kjøpet får du også 150 kroner i kreditt som kan brukes i Microsoft-butikken for å kjøpe spill, leie film og så videre. 
+
+Dessverre får du også med en prøveversjon av McAfee-antivirusprogramvare som til stadighet varsler deg med store røde bokser, noe vi i vår redaksjon i hvert fall ikke setter så veldig pris på. 
+
+Konklusjon 
+
+Den er billig, men du må gjøre en del kompromisser med HP Stream 13. 
+Du får beskjeden maskinvare, spesielt hva gjelder lagringsplass – 32GB er svært lite på en Windows-maskin (Windows tar cirka halvparten), men heldigvis kan du putte i et micro SD-kort og lagre bilder, video og den slags der. 
+Uansett er også dette, i likhet med Chromebook, en maskin som først og fremst er beregnet til nettbruk. 
+
+Du får heller ikke en spesielt god skjerm med lav oppløsning og svak innsynsvinkel, og styreflaten er lite egnet for presisjonsarbeid. 
+På den positive siden er den rikelig utstyrt med porter (3x USB + HDMI) og har god batteritid i forhold til prislappen, som altså er på svært hyggelige 2500 kroner. 
+
+Men hvem er den for? 
+Som vi nevnte innledningsvis er dette en maskin som vil ta opp kampen mot de rimelige Chromebook-maskinene, så for deg som stort sett bruker nettleseren, men kanskje er avhengig av et Windows-program eller to, kan dette være en mulig kandidat om budsjettet ikke er allverden. 
+
+HP Stream 13-C080no 

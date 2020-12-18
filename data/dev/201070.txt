@@ -1,0 +1,110 @@
+TEST:Sonos Play:5 med Trueplay romkorrigering 
+
+Nykommeren leverer. 
+
+Sonos har i mange år vært markedslederen på musikk i flere rom. 
+Det er de fortsatt, selv om de har fått sterk konkurranse fra nesten alle som kan krype og gå innen forbrukerelektronikk. 
+
+Derfor sperrer vi opp både øyene og ikke minst ører når det kommer et nytt produkt fra den kanten. 
+
+Play:5 er en ny utgave av en forgjenger med samme navn. 
+Og denne var igjen en etterfølger til den tidligere toppmodellen S5. 
+
+Men dette er heldigvis mer enn en gammel høyttaler i ny drakt. 
+
+Dette er den første modellen med Trueplay, som på godt norsk betyr at man stiller inn høyttaleren slik at den låter best mulig i rommet der den står. 
+
+Slik låter den «rå» 
+
+Romkorrigering er noe vi kjenner både fra hjemmekinoreceivere og avansert stereoutstyr, og vi var naturlig nok spente på om Sonos-varianten ville gi enda bedre resultater. 
+
+Slik digital fikling er jo egentlig en form for juks, så vi testet like gjerne høyttalerne «rå» først. 
+
+Det var en positiv overraskelse. 
+
+Tendensene til bokselyd som vår egen velbrukte S5 har, forsvant her som dogg for sola. 
+Lyden er i det hele tatt rundere og mer behagelig. 
+Ja, mer musikalsk. 
+
+Her har Sonos åpenbart gjort mye mer enn bare å endre fargene (S5 var lys grå, mens Play:5 kommer i hvitt og svart). 
+
+Dessverre hadde vi ikke tilgang til den forrige versjonen av Play:5, men skal vi tro Sonos er det foretatt en stor overhaling også i forhold til denne. 
+
+Og så brukte vi to... 
+
+Vi fikk fort lyst til å sjekke hvordan to stykker fungerer i et stereo-oppsett. 
+I trygg forvissning om at dette ville bli rått parti satte vi de to Play: 
+5-høyttalerne ved siden av våre digre Klipsch RF7 ii «hold på hatten»-høyttalere. 
+
+Vi fikk rett og slett hakeslepp. 
+Det var nesten som vi måtte klype oss i armen for å sjekke at vi virkelig spilte på små plasthøyttalere og ikke på de brutale beistene. 
+
+Men forstå oss rett: 
+Selv ikke Sonos kan overvinne naturlovene. 
+
+Ved høyt volum i en 50 kvadratmeter stor stue faller de sørgelig igjennom. 
+Det blir ikke stygt, det stopper rett og slett ved rundt 90 db, målt fra lytteplassen i en stor stue. 
+Så skal du ha fest vil neppe Play:5 gi deg politiet på døra. 
+Vil du ha mer trøkk kan du selvsagt investere i en dubwoofer (fortrinnsvis Sonos egen) i tillegg, men da blir moroa nærmere 7000 kroner dyrere. 
+
+Men om du hører musikk på normalt volum og høyttalerne skal stå i en normal, norsk stue (25-30 kvadratmeter) eller et enda mindre rom, så er dette mer enn bra nok. 
+
+I samarbeid med Stereo+ testet vi for en uke siden Devialet Phantom. 
+Resultatet ble en klar sekser. 
+
+Men Phantom koster nærmere 20.000 pr. stykk, så et stereopar vil dermed havne på 40.000. 
+Altså fire ganger dyrere enn et sett med Sonos Play:5. 
+
+Phantom-høyttalerne har nok langt mer trøkk, og stiller selvsagt i en annen divisjon. 
+Men vi er overrasket over hvor nær Play:5 kommer når det gjelder kontroll på vibrasjoner i kabinettet og detaljnivå i musikken. 
+
+Hvordan virker så Trueplay? 
+
+Det er vanligvis ingen grunn til å reparere noe som allerede virker bra. 
+Derfor var det ikke uten en viss skepsis vi begynte å sette opp Trueplay. 
+
+Trueplay støtter så langt bare iOS, så vi brukte vekselvis en iPad og en iPhone for å sette den opp. 
+En testtone sendes ut gjennom høyttalerne, og så vandrer du fram og tilbake i rommet for at mikrofonen skal fange opp reflektert lyd. 
+
+Når programmet er fornøyd, analyseres akustikken i rommet. 
+Deretter beregner programmet seg fram til en frekvenskurve som kompenserer for refleksjoner og stående bølger. 
+
+Her viser Bob Benedetti hvordan det foregår: 
+
+Da det hele var over, merket vi fort en forandring. 
+Først og fremst hadde bassen blåst seg kraftig opp. 
+Men også stereoperspektivet var endret, slik at instrumenter plasserte seg mer presist mellom, foran og bak høyttalerne. 
+
+Det siste lever vi svært godt med. 
+Men bassen justerte vi ned med tonekontrollen som finnes i appen - for øvrig en betaversjon som ikke er sluppet ennå. 
+
+Loudness (heving av bass og diskant ved lavt volum), som vi vanligvis skrur av rutinemessig, lot vi imidlertid stå på. 
+Her fungerer det etter hensikten: 
+Den virker bare når volumet er svært lavt, og gjør ingen skade på normalt lyttevolum. 
+
+Svært brukervennlig 
+
+Vi har tidligere testet flerromssystemer både fra Denon, Philips og Sony. 
+Selv om ingen av dem var direkte brukerfiendtlige, klarte de ikke å gi oss den «plug and play»-følelsen som Sonos har. 
+
+Fra du pakker opp esken til du begynner å spille musikk er så godt som alt selvforklarende. 
+Sonos sitt eget nettverk (Mesh), noe som gjør ting enklere å sette opp og dessuten beskytter mot stopp i musikken. 
+
+Oppsettet har til og med blitt enda enklere enn før. 
+Tidligere måtte du holde holde «mute» og «volum»-knappene inne samtidig for at høyttaleren skulle bli registrert. 
+Nå slipper du unna med å trykke på én enkelt knapp på baksiden av høyttaleren. 
+Fint er det også at du nå har dedikerte fram- og tilbakeknapper på høyttaleren for å skifte låt. 
+Tildigere måtte man bruke appen, eller trykke to ganger på «mute». 
+
+Det gikk også lekende lett å integrere høyttalerne i vårt øvrige Sonos-system med til sammen sju enheter/rom, å pare dem i stereo og skille dem fra hverandre igjen. 
+
+Konklusjon 
+
+Har du behov for bare én høyttaler for eksempel på soverommet eller kjøkkenet, er 10.000 kanskje litt i overkant. 
+
+Men til stuebruk er lyden fra to stykker Play:5 er rett og slett så bra at de konkurrerer i ligaen der mange gode forsterkere og stativhøyttalere befinner seg. 
+
+Det er nok mulig å finne noe til 10.000 kroner som låter like bra, men da får du ikke innebygd støtte for strømmetjenester (Spotify, WiMP/Tidal, Deezer og mange andre), nettradio og mulighet til spille av egne musikkfiler fra nettverksdisk eller PC/Mac. 
+
+Et par Sonos Play:5 er har i grunnen alt du trenger for musikk i hjemmet. 
+Og når lyden er så bra og prisen såpass moderat, må vi bare belønne med en femmer. 

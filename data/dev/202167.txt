@@ -1,0 +1,121 @@
+ZTE Blade S6
+Rimelig Android-telefon med plass til to SIM-kort. 
+
+ZTE har aldri fått noe skikkelig fotfeste i Norge, selv om selskapets Blade-modeller tidligere har høstet gode kritikker for å tilby relativt mye telefon for pengene; også her på Dinside. 
+
+Det siste året har vi også sett spennende teknologi fra det kinesiske selskapet, blant annet en telefon som åpnes ved å scanne irisen og Nubia Z9, med en ganske spesiell skjermkant. 
+
+Dagens testmodell er den nyeste i Blade-rekken – Blade S6. 
+Den har et utseende som til forveksling er lik iPhone 6, selv om byggematerialet ikke holder like høy kvalitet. 
+Prismessig, derimot, koster den bare 2.700 kroner i de rimeligste nettbutikkene og har derfor en langt lavere pris enn dagens toppmodeller. 
+
+Pen telefon 
+
+At Blade S6 ligner på iPhone 6 er for så vidt ingen ulempe – S6 er en forholdsvis pen telefon i våre øyne. 
+Den føles på ingen måte klumpete (selv om den nesten er en millimeter tykkere) og har et rent og pent (om kanskje noe anonymt) design. 
+
+De avrundede kantene gjør at telefonen er god å holde, men man merker raskt at baksiden er i plast, og ikke i børstet metall slik man kanskje innledningsvis får inntrykk av. 
+Det gjør også at telefonen knirker litt når vi håndterer den litt hardt, men det er klart – noe må man ofre når man beveger seg ned i lavere prisklasser. 
+
+Skjermen er fem tommer over diagonalen og har en oppløsning på 1280x720; altså bare «vanlig» og ikke full HD. 
+Oppløsningen er med andre ord fire ganger så lav som de beste på markedet i dag, men vi må ærlig innrømme at vi ikke synes dette er noe stort problem i daglig bruk. 
+
+Pikseltettheten blir uansett 294 punkter pr tomme; noe lavere enn iPhone 6 (326), som for øvrig ligger langt bak mange andre når det gjelder pikseltetthet, der flere telefoner har passert 500-merket. 
+
+Et litt større problem er imidlertid at vi legger merke til noe lyslekkasje fra kantene av skjermen. 
+
+Under skjermen sitter hjem-knappen, som er et berøringsfølsomt felt med en sirkel. 
+Denne fungerer også som varsellampe og lyser om du har uleste varsler. 
+
+På hver side finnes tilbake- og meny-knapp, men disse er ikke merket, så her må det tilvenning til (du kan for øvrig velge hvilken knapp som skal være hvilken funksjon). 
+
+Merk altså at menyknappen, som egentlig ikke lenger er standard på Android-telefoner, har erstattet programbytteknappen. 
+Ved å holde den inne får du tilsvarende funksjonalitet. 
+
+To SIM-kort 
+
+En ting Blade S6 kan skilte med er at den støtter to SIM-kort. 
+Dermed kan du for eksempel ha ett jobb-SIM og ett privat-SIM, der du selv velger hvilket du vil ringe fra når du foretar et anrop. 
+
+Eller et utenlandsk SIM-kort i tillegg til ditt eget, slik at du kan dra nytte av rimeligere datatrafikk i utlandet. 
+Merk dog at det er kortets fysiske plassering i porten som avgjør hvilket av dem som får bruke 4G, så du er nødt til å åpne porten og bytte plass på dem i forhold til hvilket du vil bruke med tanke på mobildata. 
+
+SIM-kortene putter du inn i en egen skuff på siden av telefonen. 
+I den andre skuffen er det plass til micro SD-kort for å utvide lagringsplassen – telefonen selges med 16GB internminne. 
+
+Ikke en toppmodell 
+
+Mens vi enkelte ganger har sett rimelige telefoner med spesifikasjoner som langt på nær matcher de dyrere (som for eksempel OnePlus One da den ble lansert), er ikke dette tilfelle på Blade S6. 
+Prosessoren er en Snapdragon 615-prosessor (åtte kjerner), som ikke klarer å hevde seg mot de beste i ytelsestestene, og som også ligger litt bak de som var toppmodeller i fjor. 
+
+Det betyr først og fremst at telefonen ikke er like godt egnet til 3D-spill og andre tyngre oppgaver. 
+I daglig bruk opplever vi telefonen som kjapp i skøytene, med raske overganger når du blar i app-ikonene og myk og fin surfing når du skroller nettsider. 
+
+På PCMark-testen, som vi holder som mest relevant i forhold til daglig bruk, scorer telefonen 2952 poeng. 
+Dagens toppmodeller ligger på 4500-5000, mens eksempelvis LG G3 (fjorårets toppmodell fra LG) fikk 3578 i samme øvelse. 
+
+Snapdragon 615 har støtte for Quick Charge 2.0, men i esken får du imidlertid bare med en 5W-lader. 
+Du må med andre ord gå til anskaffelse av en ny om du vil lade raskere. 
+
+Batteriet er for øvrig på noe beskjedne 2400mAh, så du kan ikke forvente mer enn en dags moderat bruk. 
+
+Pent grensesnitt 
+
+ZTE har gjort noen endringer av Android med sitt brukergrensesnitt, MiFavor UI. 
+Det man først og fremst legger merke til, er at hjemskjermen ikke har en egen app-skuff, slik at alle app-ikonene blir samlet på skrivebordet slik det fungerer i iOS. 
+Vi har sett tidligere at dette er ganske vanlig på kinesiske Android-telefoner. 
+
+Et par andre ting er også litt annerledes – vi savner for eksempel klypefunksjonen for raskt å endre startskjerm og rekkefølgen på dem, og vi får heller ikke opp Google 
+Nå ved å skyve opp fra bunnen av skjermen, slik det er vanlig på øvrige telefoner. 
+Da kommer heller menyen som lar deg tilpasse bakgrunn og lignende. 
+Google 
+Nå dukker opp om du holder hjem-knappen inne. 
+
+Annet enn det vil Android-brukere kjenne seg godt igjen. 
+Telefonen kjører for øvrig foreløpig siste versjon av Android, Lollipop, nærmere bestemt v5.0.2. 
+
+Den norske oversettelsen har imidlertid litt å gå på. 
+Når vi prøver å flytte et ikon på hjemskjermen, får vi opp valget «med kollektivtrafikk» på toppen. 
+Funksjonen er for så vidt kjekk – du kan flytte flere ikoner til topplinjen slik at det blir lettere å flytte flere, men vi er spente på hva valget egentlig heter på engelsk. 
+
+Tastaturet er for øvrig TouchPal+, som støtter sveipebevegelser og mer til. 
+Mer funksjonsrikt enn mange andre standardtastaturer, selv om det selvsagt enkelt kan byttes med et annet. 
+
+Slik er kameraet 
+
+Hvor godt mobilkameraet er, har blitt stadig viktigere, siden nettopp mobilkameraet for mange er blitt det eneste kameraet de tar bilder med. 
+
+Kameraet i Blade S6 tar bilder med 13Mp oppløsning og har en blenderåpning på f/2,0; relativt lyssterkt, med andre ord. 
+
+ZTEs kameraapp kan brukes på to måter – enkel og ekspertmodus; sistnevnte med gode justeringsmuligheter blant annet for følsomhet (ISO) og hvitbalanse, i tillegg til et digitalt vater som kan avsløre om du ikke holder kameraet helt vannrett. 
+Selv om det er mulig å skyve kameraikonet opp fra hjemskjermen, må du allikevel låse opp telefonen før du får brukt kameraet; en begrensning vi svært sjelden ser fra andre produsenter. 
+
+Dessverre for ZTE er kvaliteten på bildene ganske begredelig. 
+Blant annet sliter den med hvitbalansen, også utendørs. 
+Under ser du et eksempel der bildet har fått et kraftig blåstikk, og der vi i venstre del av bildet har fargekorrigert det i Photoshop mer naturtro: 
+
+Her er en kontrastfylt situasjon der det tydeligvis er prioritert å løfte skyggene, med det resultat av at bildet ser relativt tåkete ut: 
+
+Mens vi her har en annen kontrastfylt situasjon der høylysene blir fullstendig brent ut: 
+
+Noen ganger kan det glimre til med fine og skarpe bilder: 
+
+Mens det andre ganger kan se ut som om autofokusen glemte å gjøre jobben sin: 
+
+Og heller ikke innendørs blir vi imponerte – her er et 100%-utsnitt fra et bilde vi tok av fruktdisken i en butikk. 
+På ISO 80, som strengt tatt burde ha sett langt mer detaljrikt ut enn dette: 
+
+Og en telefon med et såpass svakt kamera, kan vi vanskelig anbefale. 
+
+Konklusjon 
+
+ZTE Blade S6 er en forholdsvis billig telefon, men også i denne klassen finnes det gode konkurrenter; deriblant tidligere toppmodeller som har falt i pris. 
+For eksempel er det bare et par hundrelapper opp til fjorårets toppmodell fra LG, LG G3. 
+
+En svært velkommen funksjon for noen er at Blade S6 har støtte for to SIM-kort (i tillegg til micro SD), slik at man kan skille mellom jobb og privat, eller mellom norsk og utenlandsk SIM-kort. 
+Det fungerer fint i forhold til ringing, men kortene må fysisk bytte plass om man skal ha 4G-tilgang på det andre. 
+
+Blade S6 har også god ytelse i forhold til prislappen, og i daglig bruk har vi få innsigelser på opplevd hastighet. 
+Verre er det imidlertid med kameraet, som rett og slett er for svakt; også i denne prisklassen. 
+
+ZTE Blade S6 

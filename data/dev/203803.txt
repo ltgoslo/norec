@@ -1,0 +1,118 @@
+De kan koste 240.000 kroner.Denne gjør samme jobb til 2.400 
+
+Gir musikk fra PC og Spotify et skikkelig løft. 
+
+Først noen ord til den uinvidde: 
+Hva i all verden er en DAC, og hvorfor trenger jeg det? 
+
+Kort fortalt står de tre bokstavene for Digital-to-Analog Converter, på norsk digital til analog-omformer. 
+
+Spotify, nettradio og det meste annet vi hører på kommer den digitale veien. 
+Men vi trenger altså en dings som omformer disse digitale signalene til lyd som vi faktisk kan høre - den som kommer ut av høyttalerne eller hodetelefonene. 
+
+Komprimerer musikken 
+
+Små brikker som gjør denne omformingsjobben sitter i det aller meste av utstyret vi hører musikk på, både mobiltelefoner, musikkstrømmere og DAB-radioer. 
+
+På den digitale siden handler det bare om tall, så her har maskinvaren mindre betydning. 
+Derimot kan formatet lyden serves i ha betydning. 
+For eksempel har radiosystemene DAB og DAB+ fått mye kritikk for at mye data kuttes og lyden dermed blir nokså trist. 
+
+Det samme gjelder til dels også Spotify, som også tar vekk en del musikkdata for at folk med treg internettforbindelse ikke skal oppleve avbrudd i musikken. 
+
+Slik komprimering går ut over lyden. 
+Det låter ikke riktig så bra som CD, selv om du bruker den høyeste kvalitetsklassen (320 kilobit pr. sekund). 
+
+Spotify annonserte lyd i CD-kvalitet a la konkurrenten Tidal, men dette har det foreløpig ikke blitt noe av. 
+
+De aller mest hifi-interesserte sverger ofte til 24 bit, DSD og andre høyoppløste lydformater som i hvert fall teoretisk er bedre enn standard CD-lyd. 
+Slike lydfiler selges på nettsteder som HD Tracks, High Res Audio og mange artisters egne nettsider. 
+
+Det som kommer ut til slutt er viktigst 
+
+Uansett hva som kommer inn digitalt, er det enda viktigere hva som kommer ut i andre enden som analog lyd. 
+
+Lyden fra utgangene på PC-er og mye annet utstyr som ikke er bygd med tanke på naturtro musikkgjengivelse er ofte flat og livløs. 
+
+Det er her en ekstern boks som Henry Audio 128 kan hjelpe deg. 
+
+I 2015 testet vi versjon 2 av den norskbygde DAC-en. 
+Vi ga den en sekser, men da lå prisen altså godt under 2.000 kroner. 
+
+Nå har versjon 3 kommet, og den koster noen hundrelapper mer. 
+Er den like god eller bedre enn forrige versjon? 
+Og ikke minst: 
+Kan den fortsatt konkurrere med noen av de dyreste og beste DAC-ene der ute? 
+
+God, gammeldags skriverkabel 
+
+La det være sagt med en gang. 
+Dette er ikke en DAC for deg som skal få en CD-spiller eller TV-boks til å låte bedre ved å ta ut signalet via en koaksial eller optisk digitalutgang. 
+
+Henry Audio har nemlig bare én eneste inngang: USB-B. 
+Det er med andre ord en slik plugg som satt på de gode, gamle skriverkablene du skal putte inn. 
+
+I andre enden sitter det derimot en helt vanlig USB-A-plugg. 
+De fleste PC-er har fortsatt en slik, men siste generasjon bærbart innen både Mac og PC vil ofte bare ha den nyere USB-C. 
+
+Det finnes tilleggskabler og overganger mellom det meste, så dette lar seg stort sett løse. 
+
+På ryggen av fryd - igjen 
+
+Det er altså ikke DAC av sveitsisk offiserskniv-type vi snakker om, i den forstand at du kan koble til alle enheter som har en digitalutgang. 
+
+Dette er nok noe av forklaringen på at Henry er relativt billig, sett i forhold til DAC-er som ofte koster både ti og tjue og til og med hundre ganger mer. 
+
+For lyden er det ikke noe galt med. 
+Også denne gangen gikk vi nærmest på ryggen av fryd da vi koblet den opp, og igjen kunne vi konstatere at forskjellen ikke er dramatisk i forhold vår egen Musical Fidelity M6, som kostet 25.000 for noen år siden. 
+
+Henrys lille boks, som får strømmen sin fra USB alene, er rett og slett så god at det var så godt som umulig å skille dem når vi skiftet raskt og passet på å justere for ulikt lydnivå på de to inngangene på forsterkeren. 
+
+DAC til 1.000 like bra som en til 100.000? 
+
+I forrige runde, med MKII-versjonen, påpekte skeptikere blant leserne våre at den ene DAC-en er like god som den andre, uansett pris. 
+
+Databrikkene som utgjør hjertet i en DAC koster uansett bare noen få kroner å produsere, og den analoge delen er enkel å få til med lite forvrenging, ingen hørbar støy og kraftig nok spenning ut. 
+
+Til et middels bra stereoanlegg er nok dette riktig. 
+Men dersom utstyret ellers er av den aller dyreste sorten, vil nok enkelte mene at det ligger noen viktige forskjeller i nyanser som vanlige musikklyttere kanskje ikke får med seg. 
+
+Lydfrikere og lyd-realister får bare krangle videre om dette. 
+
+Vi kan uansett konstatere at Henrys lille DAC til en krone under 2.400 kroner låter mer enn godt nok på vårt eget anlegg som består av relativt dyre, om enn noe tilårskomne enheter fra McIntosh (C41/MC352 for/effektrinn) og Klipsch (RF7-ii høyttalere). 
+
+Bassen er stram og kontrollert, detaljer i alle deler av frekvensområdet blir tryllet fram og lyden er generelt varm og avrundet slik at du kan lytte i timevis uten å bli sliten. 
+
+Virker rett ut av boksen 
+
+Henry-DAC-en er også svært enkel å sette opp og bruke. 
+
+Med Windows 10 og siste versjon av Mac OS X trenger du verken tenke på drivere eller oppsett så lenge du bare skal spille musikk fra Spotify, MP3 eller Flac-filer opp til CD-kvalitet. 
+
+Da vi koblet den til vår Auralic Aries musikkstrømmer med USB ut, var lyden først veldig lav. 
+Etter litt fikling med innstillingene fant vi ut av vi måtte aktivere volumkontrollen i den medfølgende programvaren. 
+
+Litt utfordringer fikk vi også med høyoppløste filer fra samme enhet. 
+Dette løste vi med holde inne «Prog»-knappen på baksiden og deretter trykke «Reset» for å skifte fra USB klasse 1 til klasse 2. 
+
+Ingen stor greie, akkurat. 
+Men folk med datavegring som har utstyr litt utenfor allfarvei og interesse for høyoppløst lyd gjør klokt i å lese bruksanvisningen nøye før de setter i gang. 
+
+Hardere konkurranse 
+
+Siden vi anmeldte MKII-versjonen, har det kommet en god del andre rimelige DAC-er som bare har USB på markedet. 
+
+Da vi testet Audioquest Dragonfly Black til 998 kroner i mars i år, ble vi svært imponert over lyden ut til to par over gjennomsnittet gode hodetelefoner. 
+
+Til bruk med forsterker og høyttalere i et fullblods stereoanlegg egner den seg ikke, siden den bare et 1,2 volt ut. 
+Den dobbelt så dyre Dragonfly Red gir 2,1 volt ut (om lag det samme som Henry), men den har vi altså ikke prøvd. 
+
+Et annet lovende alternativ er Pro-Ject USB Box S til 1.100 kroner, men ifølge en test i britiske What? 
+Hifi har denne nokså beskjeden lydkvalitet. 
+
+Den nye utgaven av det som etterhvert har blitt en norsk lydklassiker virker dermed fortsatt som et godt kjøp, selv om prisen har steget noe siden sist og flere selger tilsvarende produkter til halve prisen. 
+
+Det hadde utvilsomt vært spennende om Asker-mannen Børge Strand-Bergesen hadde laget en DAC som kunne kobles også til utstyr med optisk eller koaksial utgang (og for den saks skyld proff-tilkoblingen AES/EBU). 
+
+Men det ville kreve både egen strømforsyning og ekstra arbeid, trolig med langt høyere pris som resultat. 
+Og da ville nok konkurransen bli enda tøffere fra mange svært gode DAC-er til mellom 2.000 og 3.000 kroner. 

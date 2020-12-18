@@ -1,0 +1,151 @@
+Nye Macbook Pro er blitt kraftigere - men koster flesk
+Du er definitivt sikret hel ved om du går til innkjøp av nye Macbook Pro, men vi mener at du får like gode maskiner med Windows 10 - til mye lavere pris. 
+
+Apples mest avanserte bærbare datamaskin, Macbook Pro, kom tidligere i sommer i nye utgaver. 
+Fortsatt er det snakk om to størrelser, enten med 13 eller med 15-tommer skjerm. 
+Foreløpig er to nye 13-tommere på plass i Apple Store, samt to 15-tommere. 
+
+Mest likt 
+
+Designmessig er den nye generasjonen ganske så like som den forrige (som fortsatt er tilgjengelig). 
+Er du glad i fargerike kabinetter, er Macbook Pro fortsatt ikke noe for deg. 
+Her kan du kun velge mellom to farger på metallet, sølv eller stellargrå - som i praksis betyr lys grå og mørk grå. 
+Oppesiden er at det fortsatt er snakk om en lekker, stilren og ikke minst solid maskin der det meste er på stell. 
+
+Men noen forskjeller er det, og det merker du først når du setter øynene på skjermen og legger hendene på tastaturet. 
+Begge deler har blitt litt bedre enn på forrige generasjon. 
+
+Det er imidlertid på innsiden de største forskjellene ligger, først og fremst med ny og langt kraftigere prosessorer, samt T2-brikken fra Apple, som fra før kun har vært tilgjengelig på den stasjonære iMac Pro. 
+Den sørger for utvidet sikkerhet gjennom sikker oppstart og kryptering og dekryptering av filsystemet i sanntid. 
+
+Mer om alt dette senere i denne artikkelen. 
+
+Touch Bar overalt 
+
+Apple-oppfinnelsen Touch Bar er nå på plass på samtlige nye Macbook Pro, sammen med Touch ID (sikker pålogging med fingertuppen). 
+Hvis du ikke er kjent med Touch Bar fra før, kan vi fortelle at dette er en berøringsfølsom skjermstripe som ligger over tastaturet, og som erstatter de gamle funksjonstastene; altså den øverste rekka med taster. 
+
+Avhengig av hvor du befinner deg, får du fram hurtigvalg som passer til de oppgavene du jobber med. 
+Du kan også legge inn dine egne hurtigvalg. 
+Ganske så nyttig, når du blir vant til å bruke den. 
+
+Vi liker også at Siri er på plass på Mac, og Apples kunstige intelligens har fått en egen knapp på Touch Bar. 
+
+Første gang vi stiftet bekjentskap med Touch Bar, var høsten 2016, da den fantes på utvalgte modeller av Macbook Pro. 
+Disse maskinene er ikke lenger tilgjengelig fra Apple. 
+De modellene fra forrige generasjon som fortsatt er i salg, er 13-tommere som kommer uten Touch Bar og Touch ID. 
+
+En virkelig god skjerm 
+
+Skjermen er fortsatt svært høyoppløst, 2.560 x 1.600 piksler på 13-tommeren, for å være nøyaktig. 
+Det gir bredde:høydeforholdet 16:10, altså har du mer plass i høyden enn på en vanlig 16:9-skjerm, noe som absolutt er et pluss. 
+
+Lysstyrken er fortsatt blant de beste i sin klasse, med rundt 500 nits, men det som er nytt, er at hvitbalansen tilpasser seg omgivelsene. 
+Poenget er at du alltid skal få servert et bilde med en fargetemperatur som oppleves som korrekt og som er vennlig mot øynene. 
+Løsningen kalles True Tone, og bør allerede være godt kjent for brukere av iPhone og iPad. 
+
+Effekten er sømløs og for alt annet enn grafisk arbeid tror vi de fleste vil like den. 
+Den kan uansett skrus av om du skulle ønske det. 
+
+Skjermen er fortsatt ikke berøringsfølsom, og noen vil garantert ikke like at overflaten er blank - riktig nok med et antirefleksbelegg - men du risikerer fortsatt langt flere reflekser enn på en matt skjerm. 
+Det kan være et ankepunkt hvis du tenker å bruke maskinen mye utendørs eller i rom med mange lyskilder. 
+
+Vi skyter også inn at rammen rundt skjermen er ganske så tykk i 2018-sammenheng. 
+Her ligger ikke Apple i front lenger. 
+Se bare på rammen rundt skjermene på Huawei Matebook X 
+Pro og Dell XPS 13. 
+
+Mer stillegående tasting 
+
+Tastaturet har også blitt revidert, muligens blant annet som følge av at mange har opplevd problemer med det forrige. 
+
+Det er fortsatt romslig og tastene er store, men det er gjort noen endringer i mekanikken som blant annet skal sørge for at støv ikke trenger inn bak dem. 
+Som en konsekvens av dette, har det blitt noe stillere enn forrige - som lagde en litt for høy klikk-klakk-lyd etter vår smak. 
+
+Vi liker tastaturet godt. 
+Det er fast, reagerer kontant på trykk og vi skriver raskt og feilfritt på det. 
+Merk deg uansett dette: 
+Tastaturet er svært flatt, og tastene har kort vandring når du trykker på dem. 
+Det kan virke litt uvant i starten, men har ikke vært noe stort hinder for vår del. 
+Uansett verdt å sjekke ut om du skulle være usikker på hvordan det fungerer i praksis. 
+
+Under tastaturet sitter en av klassens aller største pekeplater. 
+Den støtter en rekke såkalte «gestures», fingerbevegelser som utfører forskjellige oppgaver og kommandoer. 
+I utgangspunktet må du trykke når du skal utføre noe, det holder ikke bare med lett prikking som på vanlige PC-er, og høyreklikk er erstattet med tofingertrykk. 
+Dette kan du imidlertid konfigurere som du vil. 
+Både høyreklikk og prikking er mulig å aktivere via Systemvalg. 
+
+På hver side av tastaturet sitter det en høyttaler, og lyden i Macbook Pro er relativt fyldig og behagelig. 
+Det går fint an å lytte til musikk og faktisk også nyte den til en viss grad. 
+Litt mer bass hadde likevel ikke skadet - men alt i alt er dette blant det bedre som er å oppdrive på bærbar-fronten, mener vi - etter å ha testet noen hundre maskiner de siste årene. 
+
+Virkelig oppgradert ytelse 
+
+Prosessoren er kanskje den største nyheten i årets Macbook Pro. 
+Syvende generasjon 
+Core i-prosessorer er byttet ut med åttende generasjon. 
+Det betyr slutt på bare to prosessorkjerner; heretter blir det minst fire og maks seks. 
+
+Vi i Dinside har gjort en rekke ytelsestester av PC-er med disse nye prosessorene, og kan skrive under på at forbedringene med hensyn til ytelse, er til dels svært store med denne generasjonen. 
+Spesielt gjelder dette apper og programmer som er laget for å dra nytte av flere kjerner, typisk er disse av nyere dato. 
+Det er imidlertid en hake; prosessorene blir fortere varme, og trenger derfor mer kjøling enn forrige generasjon. 
+
+Det resulterer ofte i mer viftestøy, men det er ikke særlig merkbart på nye Macbook Pro, i hvert fall ikke under lav og middels hard belastning. 
+Enkelte andre testere har nevnt at det kan bli noe mer støy under tung og langvarig belastning - men vi tviler på at dette vil være noe stort ankepunkt for folk flest. 
+Enkelte PC-produsenter setter ned hastigheten istedenfor å øke vifteaktiviteten, men det skal ikke være tilfelle med Macbook Pro. 
+
+Apple anslår ytelsesforbedringer på inntil 50 prosent på 13 tommeren, og 70 prosent på 15-tommeren, sammenlignet med forrige generasjon Macbook Pro med 7. generasjon Core i-prosessor. 
+Dette støttes langt på vei i ytelsestester. 
+
+Tar vi utgangspunkt i Core i5-8259U-prosessoren som sitter i innstegsmodellen til 19.990(!) kroner, ligger ytelsen i snitt litt over i5-8250U - som er en av de aller mest brukte prosessorene i nye PC-er fra rundt 6.000 kroner og oppover. 
+
+I praksis vil opplevelsen av ytelsesforbedringene variere veldig fra oppgave til oppgave; begrenser aktivitetene dine seg til enkel surfing, musikk, video og enkle kontoroppgaver, er det heller tvilsomt at du vil merke noen forskjeller i det hele tatt. 
+
+Du kan lese mer om våre - og andres - ytelsestester av prosessorene, i denne artikkelen. 
+
+Fortsatt ikke noen spillmaskin 
+
+13-tommeren kommer med Intel Iris Plus integrert grafikk. 
+Denne er ganske mye kraftigere enn standard Intel HD-grafikk, og det vil du først og fremst merke i 3D-applikasjoner og spill. 
+Det er imidlertid ikke snakk om ytelser som kan matche selv ganske enkle, dedikerte grafikkort. 
+Er du glad i å spille nye, krevende spill i høy oppløsning og med full detaljdybde, må du altså velge noe annet. 
+
+Har du råd, kan du for eksempel vurdere den nye 15-tommeren i Macbook Pro-familien, som har dedikert AMD Radeon Pro 555X eller 560X med 4 GB RAM. 
+Det er fortsatt ikke mer enn midt på treet i gaming-sammenheng, men bør duge for de fleste som spiller i ny og ne. 
+
+Meget bra batteri 
+
+Apple har i mange år vært gode på å lage maskiner med god batteritid, og anslagene deres har ofte stemt godt overens med virkeligheten. 
+Vi kjørte vår vanlige strømmetest av Youtube-videoer fra et fulladet batteri til det gikk tomt, og da holdt batteriet i 666 minutter, som tilsvarer 11 timer og 6 minutter. 
+Det må betegnes som meget bra. 
+
+Det er for eksempel 51 minutter lenger enn vi oppnådde med Huawei Matebook X 
+Pro, som er naturlig å vurdere opp mot Macbook Pro hvis du vil ha en Windows-basert maskin av samme kaliber, men samtidig godt bak Lenovo Yoga 920 (829 minutter) og Dell XPS 13 (798 minutter) - som leder i våre oversikter. 
+
+På lading er nye Macbook Pro gjennomsnittlig rask, etter en time i stikkontakten viser batteriindikatoren 56 prosent. 
+De to sistnevnte Windows-PC-ene nådde til sammenligning begge over 70 prosent på samme tid. 
+
+Konklusjon 
+
+Det er hevet over enhver tvil at nye Macbook Pro er en svært god datamaskin, kanskje den beste Mac-en noensinne. 
+Men tiden da Apple lå langt foran konkurrentene på design og kvalitet, er etter vår mening forbi. 
+
+Apple har laget et klart skille mellom fjorårsmodellene som fortsatt er i salg, og årets modeller - ved at fjorårsmodellene har kun to USB C-porter, tokjernet prosessor og kommer uten Touch ID. 
+Det gjør det mer interessant å vurdere årets modeller i steden. 
+Baksiden er at de nye maskinene er dyre. 
+
+Var du en av dem som kjøpte fjorårsmodellen med Touch ID og fire USB-C-porter, er ikke argumentene for 2018-utgaven så store at de rettferdiggjør en oppgradering, med mindre du har svært tunge arbeidsoppgaver å løse. 
+
+Og videre: 
+Hvis du ikke må ha en maskin som kjører MacOS, får du etter vår mening ikke noen dårligere maskin om du heller går for Huawei Matebook X 
+Pro, som koster langt mindre - og endogtil byr på bedre grafikkytelse. 
+Da må du imidlertid klare deg uten Touch Bar, men har til gjengjeld en berøringsfølsom skjerm som kvalitetsmessig tåler sammenligning mot den på Macbook Pro. 
+
+MacOS har sine fordeler og ulemper, det har også Windows 10. 
+Begge er etter vår mening gode og stabile operativsystemer. 
+
+Skulle du vurdere et alternativ med Windows 10, bør du absolutt få med deg testene våre av Dell XPS 13 og Huawei Matebook X 
+Pro - begge kronet med terningkast 6 i våre tester. 
+
+Prisene på nye Macbook Pro starter på 19.990 kroner for den rimeligste 13-tommeren hos Apple. 
+Da får du Intel Core i5-prosessor, 8 GB RAM og 256 GB SSD, som er ganske midt på treet i dagens PC-marked. 

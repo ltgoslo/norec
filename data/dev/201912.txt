@@ -1,0 +1,99 @@
+Ansiktsgjenkjenning for Hvermansen
+TEST: 
+Netatmo Welcome nettkamera. 
+
+Det franske selskapet Netatmo er mest kjent for sine nettbaserte værstasjoner. 
+
+Da vi testet en slik i mars i år, ble dommen en femmer på terningen. 
+Og etter å ha levert utstyret tilbake, begynte vi å savne det så fælt at vi like godt kjøpte et nytt sett privat. 
+
+Det er noe eget med fransk spissteknologi. 
+I likhet med Apple-produkter er de ofte både tiltalende å se på og lette å bruke. 
+Og produktene er ofte banebrytende. 
+Det er nok å nevne det smått revolusjonerende lydproduktet Phantom fra Paris-baserte Devialet. 
+
+Ikke vanlig å se 
+
+Spenningen var derfor stor da vi pakket opp det nyeste produktet fra Netatmo: 
+Welcome overvåkingskamera med ansiktsgjenkjenning til litt under 2000 kroner. 
+
+Welcome ble første gang presentert på CES-messen i las Vegas i januar, og nylig fikk vi en kort demonstrasjon av Elénore de Fournas og Romain Paoli. 
+De to Netatmo-medarbeiderne tok turen til Oslo fra hovedkontoret i Boulogne-Billantcourt, en knapp mil utenfor Paris sentrum. 
+
+Netatmo-kamerat er for øvrig ikke det eneste kameraet med ansiktsgjenkjenning på markedet. 
+
+Men vanlig er det ikke. 
+Så vidt vi vet er det bare ArcSoft Simplicam som har dette til en pris som er til å betale. 
+
+Virker sammen med sensorer 
+
+Kameraet skal enkelt kunne kjenne igjen alle husets beboere og monteres ved inngangsdøren (eller ved flere inngangsdører). 
+I tillegg kan du montere bevegelses-sensorer (kommer snart) på andre vinduer og dører, som kommuniserer med kameraet og forteller deg når de åpnes og lukkes. 
+
+Det virker også i mørket, og aktiveres ved bevegelse i rommet. 
+Via appen (Android, iOS, men i motsetning til værstasjonen ikke for Windows Phone) eller i nettleseren (med begrenset funksjonalitet) kan du selv bestemme om du skal få beskjed ved bevegelse og/eller personer som kameraet ikke gjenkjenner. 
+
+Du kan legge folk i «ute» og «inne»-bokser. 
+Men dette er egentlig illusorisk, siden kameraet bare vet om det har sett folk i det siste. 
+
+Går av seg selv 
+
+Oppsettet er svært enkelt. 
+Du fyrer opp appen og snur kameraet opp ned. 
+Deretter går resten av seg selv ved å skrive inn opplysninger om trådløst nett (du kan bruke ethernet-kabel også), gi kameraet et navn og fortelle hvilket sted det står. 
+
+Hvor du selv befinner deg tar GPS-en på telefonen din seg av, om du gir tillatelse til det. 
+
+Så starter arbeidet med å registrere ansikter. 
+Siden vi privat ikke er noen stor familie, satte vi kameraet opp på kontoret, der kolleger passerer forbi hele tiden. 
+
+Samler ansikter 
+
+Snart begynte kameraet å samle opp ansikter. 
+Det var rett og slett utrolig hvor gode portretter kameraet kunne ta på lang avstand. 
+En kollega kunne for eksempel befinne seg ti meter unna. 
+Likevel klarte altså Netatmo Welcome å zoome inn ansiktet, slik at det kunne brukes til gjenkjenning. 
+
+Det tar imidlertid mellom ti minutter og et kvarter fra personen registreres til hun eller han dukker opp i køen av folk som skal registreres og gjenkjennes. 
+
+Og når først det er klart, tar det også lang tid og mange runder med nye bilder før kameraet blir sikker på om personene på bildet er de samme på andre bilder den tar av de samme personene. 
+
+Fra importøren får vi opplyst at det kan ta opptil et par uker før sikker identifisering er på plass. 
+Kameraet trenger å se folk flere ganger, under forskjellige lysforhold og på forskjellige avstander før det gjenkjenner dem. 
+
+Best å være sikker 
+
+Vi skjønner godt hvorfor, for det er jo tryggere at kameraet bommer på en kjent person enn av det godkjenner en ukjent person som ikke har noe hjemme hos deg å gjøre. 
+Men likevel: 
+Dette føles upraktisk og ikke minst tidkrevende. 
+
+Når alt omsider er klart, er meningen at kameraet skal snappe opp folk med én gang de kommer inn døra hjemme hos deg. 
+Så skal det gi beskjed dersom det dukker opp noen som ikke allerede er registrert. 
+Men som sagt kan du ikke regne med at dette skjer. 
+Skulle for eksempel sønnen i huset finne det for godt å skifte lue eller ta på seg solbriller, er han igjen en ukjent person for kameraet. 
+
+Irriterende forsinkelser 
+
+Bildene er for øvrig svært bra, og tilsvarer omtrent vanlig HD-kvalitet (1920 x 1080). 
+Objektivet har ekstrem vidvinkel, og dekker et område på hele 160 grader. 
+På tross av dette blir ikke bildene fortegnet, slik som tilfeller gjerne er med slike linser. 
+Bilder og video lagres på et utskiftbart microSD-kort (et 8GB-kort følger med), og flytter seg ikke ut i nettskyen eller andre steder der noen kan snoke. 
+Bildene forblir altså på kortet helt til du sletter det. 
+
+Bildet du ser på skjermen når du skrur på «live» er slett ikke hva det gir seg ut for å være. 
+
+En forsinkelse på flere minutter er kanskje til å leve med når det gjelder et slikt kamera, men det virker utvilsomt forvirrende å se seg selv utføre oppgaver du avsluttet for 10 sekunder siden. 
+
+Men har du bruk for det? 
+
+Alt i alt er ikke dette et produkt vi føler har spesielt stor nytteverdi. 
+En elektronisk lås med PIN-kode og forbindelse til nett og app vil nok være en bedre investering for de fleste. 
+Kombinerer du det med en eller flere av de mange billige nettkameraene der ute, får du et system som gjør samme nytten. 
+Og som også er enklere i daglig bruk. 
+
+Å la teknologien skille kjente fra ukjente på hjemmebane kan i utgangspunktet virke besnærende. 
+
+Netatmo Welcome 
+
+Men ærlig talt: 
+Vil middagsgjestene dine virkelig like å bli snikfotografert - eller i det minste ha mistanke om at de blir det? 

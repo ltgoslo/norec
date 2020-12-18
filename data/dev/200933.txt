@@ -1,0 +1,99 @@
+Airtame - kan den erstatte HDMI-kabelen?
+Dansk oppfinnelse lover å gjøre det veldig enkelt å overføre lyd og bilde trådløst til TV-en. 
+
+De færreste av oss er veldig glad i kabler. 
+Jo færre kabler til TV-er, skjermer, mobiler og PC-er, desto bedre. 
+Vi har heldigvis kommet et langt stykke på vei, men den kabelfrie hverdagen er fortsatt langt unna, om den noensinne kommer. 
+
+Traff en nerve 
+
+Danskene som står bak folkefinansieringsprosjektet Airtame, hadde ambisjoner om å gjøre HDMI-kabelen overflødig, ved å gjøre det superenkelt å overføre lyd og bilde mellom PC, nettbrett og mobil til TV-en. 
+
+Det var helt tydelig at de traff en nerve hos mange, og i løpet av to måneder fikk danskene inn åtte ganger mer penger fra folket enn de trengte for å sette i gang produksjonen. 
+
+Nå, halvannet år etterpå, er Airtame i butikkene. 
+
+Bruker wifi 
+
+I praksis dreier det seg om en liten plugg som settes i HDMI-kontakten og en USB-port i TV-en (hvis du har en. 
+Strømadapter følger også med hvis TV-en din mangler USB-port). 
+Ved hjelp av drivere og et styreprogram på PC/Mac, kan du overføre skjermbilde og lyd til Airtame via trådløst nett. 
+
+Oppkoblingen kan enten skje direkte (sikrer best kvalitet), eller via det vanlige trådløse nettet ditt. 
+
+Installasjonen er veldig rett fram, og det tok ikke lang tid før PC-en vår og Airtame oppdaget hverandre, og vi kunne se skjermbildet på TV-en. 
+
+Via styreprogrammet kunne vi nå velge mellom forskjellige streaming-moduser: Arbeidsmodus, videomodus og presentasjonsmodus. 
+Alle kan overstyres med manuelle innstillinger. 
+
+Allerede her skjønte vi at dette ikke var like enkelt som med kabel. 
+
+Båndbredden er et problem 
+
+Årsaken ligger i begrenset båndbredde. 
+Med HDMI-kabel er dette aldri noe problem, men når ting skjer trådløst kreves det noen grep for å sikre både jevn datastrøm og god kvalitet. 
+
+Og dessverre: 
+Dette er ikke alltid like enkelt, noe vi raskt ble vitne til. 
+
+Stillbilder og presentasjoner gikk det greit med, men video var mer problematisk - selv om vi brukte en PC med ett av markedets beste trådløse nettverkskort. 
+
+Først opplevde vi at lyd og bilde var ute av synk på høyoppløst video, uansett hva vi prøvde av innstillinger. 
+En firmware-oppdatering løste dette problemet, men et annet er fortsatt til stede: 
+Hakking. 
+Vi mistenker at Airtame hopper over enkelte bilder for å sikre god bildekvalitet. 
+Dette skjer selv når vi kjører datastrømmen direkte fra PC til Airtames aksesspunkt. 
+Belastningen på PC-prosessoren er også relativt høy, noe som kan resulterer i viftestøy og eventuelt redusert batteritid. 
+
+Hvor plagsomt dette er, avhenger av scene. 
+Ved panorering er det definitivt merkbart. 
+Den generelle bildekvaliteten er imidlertid bra. 
+
+Airtame fungerer også fra mobil og nettbrett(Android og iOS), men ikke like sømløst. 
+Vi prøvde for eksempel med en iPad, og kunne vise bilder og presentasjoner, men ikke video. 
+Grensesnittet virker også uferdig. 
+Linux-støtte er også på plass, men den rakk vi ikke å teste. 
+
+Konklusjon og alternativer 
+
+I utgangspunktet er Airtame et helt greit produkt til sitt bruk, men noen perfekt kabelerstatning er den overhodet ikke. 
+Airtame fokuserer først og fremst på bedriftsmarkedet - og der er kanskje ikke video alltid like sentralt, men sett i forhold til opplevd kvalitet og funksjonalitet synes vi prisen uansett er altfor høy. 
+Den ligger på rundt 2.400 kroner i skrivende stund. 
+
+Vi skynder oss å legge til at drivere og firmware fortsatt er på et tidlig stadium, og at ting kan bedre seg etter hvert. 
+
+OPPDATERT: 
+Vi har fått følgende oppdaterte info fra Airtame-teamet, som besvarer noen av spørsmålene som ble reist i debatten knyttet til vår testomtale: 
+
+1. 
+Airtame allows to stream the entire computer screen, not just video or image services. 
+It is simply replacing a cable between the pc and a screen, and doing it over the air. 
+
+2. 
+You can stream screens with or without wifi. 
+If you stream without wifi, your computer directly connects over the air to the AIRTAME in the screen. 
+And then usually the quality is the best. 
+
+3. 
+With our last update v 1.0.2. 
+we have considerably improved connectivity, wifi discovery and streaming. 
+So streaming of videos has improved considerably. 
+It is possible to stream videos without delay. 
+
+4. 
+So far it is only possible to stream images, presentations and pdfs from mobile devices. 
+Entire mirroring is on our 'to do' list though. 
+
+5. We release software updates over-the-air and all our users usually get them automatically. 
+So whether you bought an AIRTAME three months ago or today you will be able to enjoy the latest improvements. 
+
+Så hvilke trådløse alternativer har man? 
+Det første vi tenker på er Chromecast. 
+Det er en løsning som etter vår mening er langt mer fleksibel - ikke minst fra mobil og nettbrett, og den koster kun en brøkdel. 
+Chromecast-støtten i apper er dessuten god, noe som ikke kan sies om Airtame på dette tidspunktet. 
+
+Utover dette bør også Intel WiDi og Apple AirPlay nevnes, selv om de bare delvis dekker bruksområdene til Airtame. 
+Her må ditt behov være avgjørende for hvilken løsning du velger. 
+
+Personlig er vi ikke i tvil: 
+HDMI-kabelen er fortsatt førstevalget for å koble PC til TV, og så bruker vi Chromecast til trådløs overføring fra mobil og nettbrett. 

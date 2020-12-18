@@ -1,0 +1,67 @@
+Billig mini-PC som kjører Android-apper
+Den koster bare noen hundrelapper og kan for eksempel bringe liv til den gamle PC-skjermen din. 
+Men er den egentlig noe å ha? 
+
+Fikk du med deg gjennomgangen vår av RemixOS? 
+Dette er et gratis PC-operativsystem (som Linux og Windows), basert på mobiltelefon-systemet Android, men med et brukergerensesnitt som ligger mye nærmere Windows og ChromeOS. 
+
+Kjører du RemixOS, kan du i utgangspunktet boltre deg med hundretusener av apper og spill fra Google Play som du kan installere og kjøre på PC-en din. 
+
+Nå skynder vi oss å legge til at slett ikke alle apper er laget med tanke på å bruke mus og tastatur, men det er altså dette RemixOS legger opp til - og som til tider fungerer ganske så bra, viser vår test. 
+
+Egen mini-PC 
+
+Jide, selskapet som står bak RemixOS, har også laget sin egen Remix mini-PC, som kommer med RemixOS ferdig installert. 
+Den kan du enkelt koble til skjerm, tastatur og mus - og så har du alt du trenger for å surfe på nettet, skrive dokumenter, sende eposter, se på videoer og bla i bildesamlingen din og andre oppgaver du kanskje bruker en Windows-PC til i dag. 
+
+Den lille boksen måler ikke mer enn 12 x 9 centimeter, og er 2,6 centimeter høy. 
+På innsiden sitter en firekjernet ARM-prosessor på 1,2 gighertz, 2 gigabyte arbeidsminne og 16 gigabyte flashminne for lagring av apper og brukerdata, samt et trådløst nettverkskort som støtter 802.11b/g/n og Bluetooth 4.0. 
+
+Av tilkoblinger finner vi to USB 2.0-porter og en Ethernet-nettverksport (maks 100 megabit per sekund), og alt dette til den nette sum av 420 kroner (før avgifter) fra den kinesiske nettbutikken Gearbest. 
+Det er jo i utgangspunktet ingen upris, men hvordan fungerer den i praksis? 
+
+Våre inntrykk 
+
+Vi koblet den til en full HD-skjerm via den medfølgende (meget korte) HDMI-kabelen, og til et standard tastatur og mus via usb. 
+Oppstart av maskinen gjøres enkelt ved å berøre logoen på toppen, og etter noen sekunder ble vi møtt av en veiviser som tok oss gjennom oppsett med språk, trådløst nettverk - og Google-pålogging. 
+
+Utviklerne understreker at RemixOS er 100 prosent Android, men med et grensesnitt som er tilpasset PC-skjermer, tastatur og mus - blant annet kan du kjøre appene i vinduer, slik du kan i andre PC-operativsystemer. 
+Men på Remix 
+Mini fikk vi ikke velge norsk språk (vi valgte engelsk), og selv om vi valgte norsk tastatur i innstillingene, fikk vi ikke støtte for de norske tegnene æø og å. 
+Det er naturlig nok et vesentlig ankepunkt. 
+
+Egen app-butikk 
+
+Etter en oppdatering forsvant Google Play fra maskinen, noe som visstnok skyldes et pålegg fra Google. 
+Det var imidlertid mulig å reinstallere, og samtidig godta nye bruksvilkår. 
+
+Det følger imidlertid også med en egen, ganske fyldig «App Store», der du kan velge mellom apper som er godkjent og tilpasset for kjøring i RemixOS. 
+En del av dem (blant annet Spotify) er i beta, men fungerer egentlig ganske greit. 
+
+Men ytelsen er ikke særlig imponerende. 
+Det blir ofte så mye venting at det går på tålmodigheten løs, enten det er snakk om Spotify, YouTube eller andre medie-apper. 
+
+Og akkurat det er et stort ankepunkt. 
+
+Å kjøre apper i vinduer har sine klare fordeler - spesielt når du kjører flere programmer (apper) samtidig. 
+Men når én app går tregt, skjønner du sikkert at to eller tre samtidig ikke gjør situasjonen noe bedre, for å si det pent. 
+
+Noe av årsaken ligger i den svake prosessoren, men noe kan også ligge i det trådløse nettverkskortet. 
+Normalt finner vi 8-10 trådløse nett innenfor rekkevidde, men Remix Mini fant bare to. 
+Vi opplevde også at forbindelsen datt ut fra tid til annen. 
+
+Du kan se video i full HD-oppløsning, høyere ender som regel bare i hakking og pauser. 
+Vi fikk derimot ikke full HD-oppløsning i Netflix, og vi kunne heller ikke overstyre dette. 
+Kanskje er årsaken nettopp det vi allerede har nevnt om hakking og pauser i høyoppløst video. 
+
+Konklusjon 
+
+400 kroner er ikke mye, og hvis du har svært enkle PC-behov kan Remix 
+Mini fungere greit, men ikke noe mer enn det. 
+Vi klarte heller ikke å få norsk tastaturoppsett, noe som kanskje er et større ankepunkt for mange potensielle kjøpere. 
+
+Faktisk ble vi mer imponert over en enda billigere boks, som også kan brukes med tastatur og mus - men da med standard Android og dermed ikke mulighet til å kjøre apper i vinduer. 
+Med så svak maskinvare er det uansett noe du neppe kommer til å gjøre særlig ofte. 
+
+Du finner mer informasjon om Remix Mini hos Jide. 
+Vi lånte vårt eksemplar fra Gearbest. 

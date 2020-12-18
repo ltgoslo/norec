@@ -1,0 +1,86 @@
+Dell UP2715K- PC-skjerm med fantasioppløsning 
+
+Ute etter en ordentlig proffskjerm med 5K-oppløsning? 
+Da bør du lese videre ... 
+
+Høy skjermoppløsning og stor skjermflate er i mange sammenhenger en nødvendighet, spesielt hvis du jobber med konstruksjon, videoproduksjon, magasinarbeid og andre krevende jobber. 
+
+For ikke lenge siden testet vi en 32-tommer med 4K-oppløsning (fire ganger høyere enn full HD), og denne gangen har vi gått enda noen hakk opp på oppløsningsstigen. 
+
+Ekstremt skarpt 
+
+Dell U2715K er nemlig en av ganske få 5K-skjermer på markedet. 
+Det betyr en oppløsning på 5.120 x 2.880 piksler, med 60Hz oppfriskningshastighet og responstid på 8ms (grått til grått). 
+
+Skjermoverflaten består altså av hele 14.745.600 piksler, der en full HD-skjerm kun har 1/7 av dette, nærmere bestemt 2.073.600 piksler. 
+Når skjermen i tillegg ikke måler mer enn 27 tommer, betyr det at bildet blir ekstremt skarpt. 
+
+Dessverre er ekstremt skarpt i Windows-verdenen også forbundet med ekstremt smått. 
+Skal du kunne jobbe effektivt med denne skjermen, kommer du ikke unna å måtte skalere opp tekst og grafikk i skjerminnstillingene. 
+Her ser du for eksempel hvordan Dinside-forsiden fortoner seg i 5K-oppløsning: 
+
+Måtte doble størrelsen 
+
+Med vårt helt normale syn ble det først behagelig når vi skalerte alt opp til 200 prosent, og helt problemfritt er ikke denne skaleringen. 
+
+En rekke Windows-programmer er ikke laget for å håndtere slike inngrep, og vi trenger ikke å gå lenger enn til Windows' egen Media Player. 
+I avspillingsmodus blir kontrollene særdeles små på denne skjermen, uansett skalering. 
+Det samme gjelder eldre utgaver av Photoshop og en rekke andre programmer. 
+
+Er PC-en din god nok? 
+
+Det er også viktig å understreke at det kreves mer enn en PC med HDMI-utgang for å drive denne skjermen. 
+
+Den krever faktisk et kraftig grafikkort med to DisplayPort-utganger, hvorav minst én må støtte versjon 1.2 av standarden. 
+Begge kabler må i tillegg være tilkoblet samtidig for å sikre tilstrekkelig båndbredde. 
+
+I denne artikkelen gir vi deg en innføring i hva du trenger for å drive svært høyoppløste skjermer. 
+
+Samtidig må PC-en kunne henge med i svingene, vi testet med en stasjonær Dell Precision 5810 med Intel Xeon-prosessor, med prislapp på rundt 20.000 kroner. 
+
+Du kan riktignok koble til kilder som kun støtter full HD eller 4K, men da er selvfølgelig hovedpoenget ved å kjøpe en så dyr skjerm borte. 
+
+I tillegg til de to DisplayPort-inngangene har skjermen også en miniDisplayPort-inngang. 
+Du trenger altså en overgang dersom enheten du vil koble til kun har HDMI-utgang. 
+
+En USB 3.0-hub er også på plass, med fem porter. 
+Fire av dem sitter horisontalt og én vertikalt, alle dessverre på baksiden av skjermen. 
+Vi skulle likt å ha én eller flere på siden. 
+Der sitter det kun en SD-minnekortleser. 
+
+Mer eksotisk er det at skjermen har innebygde 16W høyttalere fra Harman/Kardon. 
+Lyden er faktisk ikke så aller verst, de spiller høyt, med snev av bass, og totalt sett er lydbildet langt bedre enn på de fleste alt-i-ett-maskinene vi har testet de siste årene. 
+
+Ergonomisk er skjermen svært god, og med enkle håndgrep kan du justere den i høyden, vippe den forover og bakover, og du kan også snu den helt på høykant. 
+Sistnevnte kan være aktuelt for eksempel dersom du jobber med sidelayout eller annet vertikalt arbeid. 
+
+Betjeningsknappene sitter bak fronten til høyre, og i likhet med Asus PA328Q er ingen av de fire knappene merket. 
+Det er ikke optimalt, men betjeningen er likevel hakket enklere enn på den nevnte skjermen fra Asus. 
+
+Supert bilde, men det koster 
+
+Har du utstyr som passer, kan du se fram til et skjermbilde som overgår det meste vi har sett tidligere. 
+Den blanke overflaten sikrer svært god kontrast, og takket være antirefleksbelegget blir ikke gjenskinn noe nevneverdig problem. 
+
+IPS-panelet fra LG Display sørger for inntil 178 graders betraktningsvinkel. 
+Dette, kombinert med full dekning av sRGB fargeområdet og 99 prosent av Adobe RGB, gjør dette til en perfekt skjerm for arbeid der korrekte farger er avgjørende for resultatet. 
+
+Det store ankepunktet er imidlertid prisen. 
+I billigste nettbutikk koster den i skrivende stund over 17.000 kroner, noe som etter vår mening er alt for dyrt. 
+
+Prisen har riktnok ligget langt lavere tidligere i år, så noe av forklaringen ligger i dårlig kronekurs om dagen. 
+
+Samtidig er det sannsynlig at det er samme panel i denne skjermen som i den nye 27-tommer iMac fra Apple, som er en komplett og toppspekket alt-i-ett-maskin med en prislapp som ligger «bare» på rundt 3.000 kroner ekstra. 
+
+Konklusjon 
+
+Rent visuelt og ytelsesmessig er dette en glimrende skjerm til krevende jobber. 
+Den er dessuten svært enkel å justere, takket være en stødig og fleksibel fot. 
+
+Betjeningen kunne med fordel vært litt enklere, og USB-portene kunne vært lettere tilgjengelig. 
+Dette er imidlertid ikke noe store problemer. 
+De dukker først og fremst opp når du ser hva som kreves for å drive den, samt når du ser prislappen. 
+
+Hvis dette er underordnet, skal du definitivt lete lenge for å finne en skjerm med bedre bilde. 
+
+Dell UltraSharp UP2715K 

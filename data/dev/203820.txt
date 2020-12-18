@@ -1,0 +1,128 @@
+Android TV-boks til 800 kroner
+En billig måte å få smart-TV på, men blir det for billig? 
+
+De aller fleste TV-er solgt de siste åra hatt såkalt «smart TV»-funksjonalitet innebygd. 
+Dette innebærer typisk at TV-ene er koblet til internett, enten med kabel eller trådløst, og at man som bruker gjerne har tilgang til apper og tjenester som kan brukes direkte på TV-en. 
+
+Eksempler er strømmetjenester som Netflix, NRK, TV2 Sumo og Viaplay, musikktjenester som Spotify og TuneIn radio, filmleietjenester, spill og liknende. 
+
+Men om du har en eldre TV du er fornøyd med, kan du enkelt gjøre den «smart» ved å koble til en mediespiller. 
+Apple TV er en kjent variant, og med en Chromecast kan du enkelt sende bilder og video direkte fra mobil, nettbrett og PC, selv om den ikke har noen egen fjernkontroll eller grensesnitt på skjermen. 
+
+Men det finnes også Android-baserte mediespillere, og du finner en drøss av dem på eBay eller i internasjonale nettbutikker. 
+I norske butikker er imidlertid utvalget ganske begrenset, men et produkt vi har sett at flere butikker har tatt inn i det siste, er Xiaomi Mi Box 4K, som i skrivende stund koster fra 795 kroner. 
+Vi har fått låne vårt eksemplar av Multicom. 
+
+Liten krabat 
+
+Xiaomi-boksen er ikke stor der den står foran TV-en. 
+Fotavtrykket er ganske jevnbyrdig med Apple TV (10x10 cm), men Mi Box er bare halvparten så høy (snaue 2 cm). 
+
+På baksiden finner du fire porter – en til strøm, HDMI-utgang, en USB-port og en digital lydport (S/PDIF). 
+Boksen kommer med nokså sparsommelige 8 GB lagringsplass, men via USB-porten går det fint an å utvide plassen med en minnepinne eller en ekstern harddisk. 
+
+Fjernkontrollen måler rundt 15 cm i lengden og er ikke like slank og nett som Apples variant, men det gjør også at det skal litt mer til før den forsvinner mellom sofaputene. 
+Den kan ikke lades, men bruker to AAA-batterier (følger ikke med i pakken) og er Bluetooth-basert, slik at du ikke trenger å sikte mot boksen når du trykker på knappene. 
+
+Foruten navigasjonsknapper og en bekreftelsesknapp, finner du også knapper for å gå tilbake, til hjemskjermen og en for å utføre stemmesøk med Google Assistant. 
+Og volumknapper for å justere lyden. 
+
+Enkelt oppsett med Android-telefon 
+
+Første gang du starter opp må du velge språk, koble til WiFi, logge på med Google-kontoen og den slags. 
+Dette kan du gjøre med TV-fjernkontrollen, men enda enklere er det dersom du har en Android-telefon. 
+
+Da åpner du bare Google-appen og skriver «konfigurer enheten» i søkefeltet, og så settes alt opp fra telefonen etter å ha valgt nettverket Mi Box skal koble seg til og tastet inn Google-passordet på telefonen. 
+Det hele er kjapt gjort, og i løpet av et halvt minutt var vi oppe og gå. 
+
+Android TV-versjonen som er forhåndsinstallert er versjon 6.0 (Marshmallow), men en kjapp tur inn i innstillingene viste at oppdatering til versjon 8.0 (Oreo) var tilgjengelig, så vi oppdaterte den like gjerne med en gang. 
+For ordens skyld er dette den nyeste versjonen på Android TV foreløpig, selv om versjon 9.0 (Pie) er lansert for telefoner. 
+
+En liten ulempe er at Google har fjernet muligheten for å ta skjermbilder i 8.0-oppdateringen (eller – det er i hvert fall veldig tungvint), så du får ta til takke med bilder tatt med kamera. 
+
+Oreo-utgaven er litt annerledes lagt opp på hjemskjermen enn tidligere, der appene er konsentrert på toppen av grensesnittet, mens innholdet fra dem er å finne på linjene nedover. 
+
+De forhåndsinstallerte appene er det ikke mange av – ved siden av app-butikken, filmleie, Googles musikktjeneste og spillbutikken, ligger bare YouTube, Netflix og Redbull TV. 
+
+Mange apper å boltre seg i 
+
+Når man jakter på apper i Play butikk er det svært mye å velge mellom, selv om vi synes Apple er flinkere til å strukturere innholdet og gjøre det mer innbydende å utforske app-butikken. 
+
+En kjekk ting dersom du bruker Googles smart lock-funksjon (der passordene til diverse tjenester lagres hos Google), er at du automatisk blir logget inn i apper som Netflix og så videre uten at du trenger å knotte inn passordet på skjermtastaturet. 
+
+På Android TV får du også enkelte ting som ikke du finner i App Store, som det populære mediesenteret Kodi. 
+Plex er dog til stede på begge plattformer. 
+
+Under har vi listet opp tilgjengeligheten på kjente strømmetjenester: 
+
+Svak maskinvare 
+
+På innsida har Xiaomi gått for en firekjernet prosessor med Cortex A53-kjerner, som ofte brukes som de «trege» kjernene i mobilprosessorer til å håndtere enkle bakgrunnsoppgaver og den slags. 
+
+Og det merkes - flyten i operativsystemet er ikke like god som Nvidia Shield TV (som riktignok koster det dobbelte), men det gjør også at den ikke helt klarer å henge med i svingene når vi spiller av 4K-innhold. 
+
+Selv om Xiaomi markedsfører boksen med at den skal håndtere 60 bilder per sekund i 4K-oppløsning, ble det en hakkete og svak opplevelse da vi prøvde å sette på 4K/60fps-utgaven av animasjonsfilmen Big Buck Bunny, som er gratis å laste ned. 
+
+Den svake maskinvaren merkes også på spill - ikke en gang frogger-klonen Crossy Road flyter helt perfekt. 
+
+Dessuten, og definitivt det mest irriterende, er at vi både i YouTube og Netflix-appene har lipsync-problemer, der lyden kommer litt for seint i forhold til bildet. 
+Dette til tross for at vi ikke har koblet lyden via noen forsterker, men bare bruker TV-høyttalerne. 
+Ser vi det samme innholdet på TV-ens YouTube-app, eller på Nvidia Shield TV, for den saks skyld, har vi ikke de samme problemene. 
+
+Men! 
+Det har vi heller ikke om vi caster til Mi Box, utrolig nok, altså der vi bruker Mi Box som en Chromecast-enhet. 
+
+Ikke helt fri for bugs 
+
+Merkelig nok har vi også opplevd diverse småfeil til irritasjon. 
+En gang iblant får vi ikke trykket på «apper»-ikonet - ingenting skjer, og vi kommer bare tilbake til hjemskjermen. 
+En annen gang opplevde vi at ei linje i Play butikk forsvant helt. 
+
+Ikke noe voldsomt, selvsagt, men nok til å oppleves litt irriterende. 
+Og ikke noe vi har erfaring med fra Nvidia Shield TV, som vi har i husstanden fra før. 
+
+Verdt å merke seg er også at standardinnstillingen på oppløsning og bildefrekvens er «automatisk», men du er selv nødt til å tvinge den over i 4K-modus i innstillingene for å spille av 4K-titler i Netflix, for eksempel. 
+Først begynte vi å lure om Netflix-appen ikke støttet 4K. 
+
+Norsk stemmestyring 
+
+Fjernkontrollen har innebygd stemmestyring, som også forstår norsk. 
+Når du trykker på knappen, kan du snakke i den som en mikrofon og be om været for i morgen, filmer med Tom Cruise og så videre, hvorpå du får servert kjøpe- og leiefilmer tilgjengelig fra Googles tjeneste. 
+
+Du kan også søke etter titler ved å si navnet. 
+Sier du «Orange Is the New Black», får du se at den er å finne på Netflix, slik at du kan trykke deg rett inn. 
+Men vi får ikke tilsvarende treff på «Side om side», selv om vi har NRK-appen installert. 
+
+Ber vi den om å «spill av side om side på NRK», havner vi på NRKs YouTube-kanal. 
+Og da vi prøvde å be den å spille neste episode av Netflix-serien Orange Is the New Black, var responsen som følger: 
+
+Dette er selvsagt ikke unikt for Xiaomi-boksen, men viser at Android TV fortsatt har et stykke å gå; i hvert fall på norsk. 
+Skifter vi språket over til engelsk og ber om å spille av Orange Is the New Black på Netflix, åpnes Netflix-appen direkte på den aktuelle serien. 
+
+Innebygd Chromecast 
+
+En kjekk ting med alle Android TV-enheter er at de har Chromecast-funksjonalitet innebygd. 
+Dermed kan du enkelt sende bilder, video og liknende direkte fra telefonen, nettbrettet eller PC-en trådløst til TV-en. 
+Det kan gjøres både fra Android og iOS. 
+
+Det finnes også apper til de to plattformene som lar deg bruke telefonen som fjernkontroll, i tilfelle du ikke finner den, eller om du må skrive noe – det går langt raskere på telefonen enn med fjernkontroll og skjermtastatur. 
+
+Konklusjon 
+
+Mye av det som står i denne artikkelen handler om Android TV som operativsystem og er ikke unikt for Xiaomi Mi Box. 
+
+Men selv om prisen på Mi Box er omtrent halvparten av det du må ut med for en Apple TV eller Nvidia Shield TV, føles det også som en billigere enhet. 
+
+Spesielt går det på maskinvare – ytelsen er under par, og boksen klarer ikke å spille av alt 4K-innhold uten å hikke litt. 
+Det samme gjelder spill, der selv de med enkel grafikk hakker litt her og der. 
+Mest irriterende er imidlertid at vi opplever problemer med lydsynkroniseringen flere steder (både i YouTube og Netflix), der bildet kommer før lyden, som blir en «dealbreaker». 
+Vel å merke går det langt bedre om du caster det samme innholdet til Mi box fra telefonen. 
+
+8 GB lagringsplass imponerer ingen i 2018, men her har du heldigvis en enkel mulighet for å utvide i form av en minnepinne eller ekstern harddisk. 
+
+Uansett: 
+Du får begrenset glede av denne boksen. 
+Selv om du skulle ha en TV uten 4K-oppløsning, har den svak ytelse og problemer med lyden. 
+Da anbefaler vi deg heller å a) kjøpe en Chromecast til rundt 350 kroner og styre alt fra mobilen eller b) legge litt mer penger i det og gå for en Apple TV (eller Apple TV 4K), eller en Nvidia Shield TV (har kommet i ny og mindre versjon siden vi testet den) med langt kraftigere maskinvare, muligheten til å spille skikkelige spill via GeForce Now-tjenesten og så videre. 
+
+Takk til Multicom for lånet! 

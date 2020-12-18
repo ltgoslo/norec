@@ -1,0 +1,134 @@
+TEST:Universal-fjernkontrollen Logitech Harmony Elite 
+
+Nå har den blitt bedre. 
+Mye bedre. 
+
+Opp gjennom åra har vi prøvd et stort antall såkalte universalfjernkontroller. 
+Men vi må innrømme det først som sist: 
+De fleste av dem har gjort livet vårt vanskeligere, ikke lettere. 
+
+Meningen er jo at du skal kunne legge vekk alle de fjernkontrollene du har og bare ha den ene framme. 
+Denne skal fikse alt: 
+Hjelpe deg med å skru på TV-boks og Blu-ray-spiller, sette TV-en på riktig kanal og starte video- eller lydplata du ønsker å spille. 
+
+I stedet har vi opplevd fikling i det uendelige med makroer (sekvenser av knappetrykk), komponenter som bare delvis støttes av kontrollen og timevis med manuell programmering av koder fra fjernkontroller som ikke støttes. 
+
+Stort sett har det hele endt med at vi har lagt vekk universalkontrollen og i stedet funnet fram igjen originalene som fulgte med TV-en, hjemmekinoreceiveren eller Blu-ray-spilleren. 
+
+Markedsleder 
+
+Selv om Logitechs Harmony-serie (Harmony eksisterte også før Logitech kjøpte dem) har slitt med noen av disse utfordringene, er det liten tvil om at de har vært best både på brukervennlighet og ergonomi. 
+
+Mens andre synes å appellere mest til et fåtall entusiaster med lett masochistisk legning, har Logitech virkelig lagt seg i selen for å utvikle en fjernkontroll som faktisk kan brukes av folk flest. 
+
+Harmony-kontrollene er i motsetning til mange av rivalene ikke store klumper. 
+Tvert om ligger de godt i hånda. 
+I tillegg er systemet med nettbasert database med nær sagt alle merker og modeller veldig praktisk. 
+Du bare logger deg inn, søker opp komponenten og overfører kodene til kontrollen. 
+
+Tilpasset et moderne liv 
+
+Slik er det også med dagens Harmony-serie. 
+Men i motsetning til tidligere kan nå alt både settes opp og styres fra telefon eller nettbrett (Android og iOS). 
+
+I tillegg har de tatt konsekvensen av at folk bruker strømming i stedet for disker. 
+Dermed er alle nettbaserte komponenter i huset også tatt med, enten de heter Sonos eller noe annet. 
+
+Vi har tatt en kikk på toppmodellen Harmony Elite, som koster rundt 3.500 kroner. 
+For de som synes det er i meste laget å betale så mye, finnes det også en lillebror (Harmony Companion) til rundt 1500 kroner. 
+
+Logitech har også fortsatt et bredt utvalg rimeligere fjernkontroller som bruker «gamlemåten», med programmering og overføring direkte fra fjernkontrollen. 
+
+Begge jobber gjennom en hub - en sentral som er tilknyttet det trådløse nettet i huset ditt og som også fungerer som en kraftig signalforsterker. 
+
+Denne sentralen har en infrarød sender som er så kraftig at den kan erstatte selve fjernkontrollen. 
+Dermed kan du nøye deg med å bruke appen. 
+Det fines også programvare for Windows og Mac, som du skulle ønske å bruke det i stedet. 
+
+Best fra appen 
+
+På selve fjernkontrollen er det en pekeskjerm der du kan utføre noen av de samme oppgavene som med appen (velge komponent m.m.). 
+Men denne er treg og lite presis og dermed noe av et irritasjonsmoment. 
+
+Rekkefølgen i appen følger underlig nok ikke rekkefølgen på fjernkontrollskjermen, og du kan heller ikke endre rekkefølgen på skjermen. 
+
+Dermed blir det til at du bruker de fysiske knappene på fjernkontrollen til de vanligste gjøremålene, mens du fyrer opp appen på nettbrett eller mobil når du skal gjøre noe mer. 
+
+Har du trådløse musikk – eller mediespillere (primært Apple TV, Roku og Sonos i dag, men Logitech lover at flere kommer til å bli støttet etterhvert), kan musikken startes og stoppes i alle rom med fjernkontrollen. 
+Du kan derimot ikke velge musikk og lage deg spillelister. 
+Da må du fortsatt ty til appen som følger med systemet ditt. 
+
+Store forbedringer 
+
+Førsteinntrykket er udelt positivt. 
+Logitech har åpenbart hørt på brukerne sine. 
+I stedet for å la fjernkontrollen ta seg av arbeidet er det her huben som styrer ting og sender data inn på din Harmony-konto, der oppsettet ligger. 
+
+Slik fungerer det i praksis: 
+
+Likevel er det fortsatt nødvendig å ha et snev av fjernkontroll-nerd i seg for å få finpusset alle komponentene slik at de spiller på lag. 
+
+Vi innrømmer det med en gang: 
+Vi har en del sære og/eller gamle komponenter som vi liker å teste slike fjernkontroller med. 
+Også her ble vi positivt overrasket. 
+For lengst utrangerte TV-bokser og tungt, amerikansk utstyr fra 90-tallet var det ingen problemer med. 
+
+Men ett unntak kom vi over. 
+Musical Fidelitys M6 DAC er knapt allemannseie, og vi forstår godt at Logitech ikke støtter denne litt sære komponenten. 
+Her måtte vi til med den manuelle programmeringen. 
+
+Én knapp er nok 
+
+Heldigvis er det slik at du bare trenger å trykke på én knapp i slike tilfeller. 
+Du må med andre ord ikke lenger lære Harmony hver enkelt av de utallige knappene på den originale fjernkontrollen, noe som kan drive selv en sindig person til kaklende galskap. 
+
+Selv om både hub og fjernkontroll har kraftige signaler, så er det ikke alltid dette er nok. 
+Heldigvis ligger det to IR-forsterkere med i pakka. 
+Disse kan festes i umiddelbar nærhet av komponenter som trenger mer direkte kontakt med IR-signalet. 
+
+De fleste av oss har nok betydelig enklere oppsett hjemme. 
+Men for moro skyld lasset vi på med gamle DVD-spillere, CD-spillere, radioadaptere for DAB, bordradioer og et helt Sonos trådløst musikkanlegg med lyd i hele sju rom. 
+
+Sonos og andre WiFi-komponenter kom opp av seg selv. 
+Det meste annet (med unntak av den nevnte DAC-en) fant vi i databasen. 
+
+Fortsatt trøbbel med sekvenser 
+
+Det vi brukte mest tid på, var oppstarts- og slukkesekvenser (såkalte Activities). 
+Her kan mye gå galt, og fremdeles er det forvirrende om komponenter skal slås av eller på. 
+Om de står på når de skal være av eller omvendt får Harmony fnatt - logisk nok. 
+
+Samtidig er det skuffende at fjernkontrollen tilsynelatende ikke skjønner at det går an å ha to komponenter i kjeden som begge skal skifte signalkilde. 
+
+For oss var det i hvert fall plent umulig å sette opp både DAC og forforsterker i tospann - vi måtte velge en av dem som kildeveksler. 
+Vi sendte en e-post til Logitech om dette, og fikk til svar at problemet nå var fikset. 
+Vi får håpe de er like kjappe når vanlige brukere melder inn problemer. 
+
+Kan styre lyset og garasjen også 
+
+Harmony-systemet kan også styre lys (Philips Hue), åpne elektroniske låser som Yale Doorman og til og med åpne og lukke garasjedøra (via Chamberlain portåpnere). 
+Også kaffetraktere og annet kjøkkenutstyr kan innlemmes i kjeden. 
+
+Med andre ord er tanken at du skal kunne skaffe deg et fullt ut fjernkontrollert hus for en brøkdel av prisen du må betale om du setter en profesjonell installatør på jobben. 
+
+Vår Chamberlain-garasjeportåpner er ikke støttet, og Philips-pærer hadde vi ikke for hånden. 
+Men vi får tro at flere merker og modeller kommer med etter hvert. 
+
+Sikkerhetsbransjen, slik som Verisure i Norge, er derimot restriktive med å slippe inn Logitech. 
+
+Årsaken er offisielt at de er redd for hacking, men det er vel også mulig at de frykter konkurranse i et marked som i dag handler vel så mye om smarthus som om tradisjonelle husalarmer. 
+
+Konklusjon 
+
+Logitech har med sin siste generasjon fjernkontroller åpenbart gjort en stor jobb med å forbedre oppsett og brukervennlighet. 
+
+Likevel synes vi det kan bli for enkelt noen ganger. 
+Som oftest går det an å finstille ting, men i iveren etter å gjøre ting sømløst og enkelt har Logitech faktisk gjort det vanskeligere for de som har spesielle behov og utfordringer med utstyret sitt. 
+
+Fjernkontrollen havner dermed mellom to stoler: 
+Den er for komplisert for vanlige brukere, og for lite fleksibel for den dedikerte fjernkontroll-nerden. 
+
+Logitech Harmony Elite 
+
+Vi må likevel berømme Logitech for å ha tatt et stort skritt i riktig retning. 
+Vi vet ikke om noen universalfjernkontroll på markedet som kan konkurrere med denne. 

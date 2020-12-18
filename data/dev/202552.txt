@@ -1,0 +1,80 @@
+Asus PA328Q - 4K på 32 tommer for skrivebordet
+Skreddersydd for publikasjonsarbeid, bilde- og videobehandling. 
+
+UltraHD, UHD eller ganske enkelt 4K, er det raskest voksende fenomenet på TV-markedet for tiden. 
+Første halvår i fjor stod disse høyoppløste 4K-TV-ene for snaue 1 prosent av salget, i år er tallet så langt 15,2 prosent, ifølge Elektronikkbransjen. 
+
+Det er imidlertid ikke bare TV-er som har fått 4K-oppløsning. 
+PC-skjermer, både for bærbare og for stasjonære, får også stadig oftere støtte for oppløsningen 3.840 x 2.160 piksler, som betyr fire ganger flere piksler enn en normal full HD-skjerm. 
+
+Trenger normalt skalering 
+
+Velger du en «normal» skjermstørrelse, betyr dette at du får et vesentlig skarpere og mer detaljrikt bilde, men gjør samtidig at programvinduer og tekst blir veldig smått. 
+I Windows og OS X kan du heldigvis skalere opp tekst, menyer og ikoner, slik at det blir lettere å lese. 
+
+Samtidig sikrer du at alle pikslene kommer til sin rett når du åpner høyoppløste bilder eller spiller 4K-videoinnhold. 
+
+IPS og 60Hz 
+
+Asus PA328Q er en 4K-skjerm for skrivebordet på hele 32 tommer. 
+I motsetning til rimelige (og mindre) 4K-skjermer, som oftest er utstyrt med et rimelig TN-panel, har denne et IPS-panel fra LG. 
+Det betyr blant annet jevnere lysstyrke samt bedre kontrast og fargegjengivelse når du betrakter skjermen fra sidene. 
+
+Dette er et vesentlig poeng på en så stor skjerm, der du ellers faktisk på enkelte TN-skjermen kan oppleve at bildet blir mørkere mot hjørnene når du betrakter skjermen rett forfra. 
+
+En annen fordel denne skjermen har, er støtte for 60Hz oppfriskningsrate av skjermbildet via HDMI, der mange eldre og rimeligere 4K-skjermer kun støtter 30Hz via HDMI. 
+Det betyr langt mer glidende bevegelser i spill og levende bilder, men krever at skjermkortet støtter HDMI 2.0 - noe som foreløpig ikke er veldig vanlig. 
+
+Alternativt kan du benytte DisplayPort-utgangen, dersom skjermkortet i PC-en din har det. 
+Da er du sikret 60Hz på de fleste 4K-skjermene i markedet, inkludert denne. 
+
+Godt med tilkoblinger 
+
+Denne skjermen har to HDMI-innganger (hvorav kun den ene støtter HDMI 2.0 og 60Hz), to DisplayPort-innganger og én mini-Displayport-inngang. 
+I tillegg har den USB 3.0-hub med inngang under, og fire porter på venstre side. 
+Det gjør det svært enkelt å koble til mobiler, minnekortlesere og annet som skal overføre data eller lades. 
+
+De øvrige spesifikasjonene finner du her. 
+
+Skjermen monteres enkelt på den svært fleksible medfølgende foten, helt uten verktøy. 
+Deretter kan du enkelt heve og senke skjermen, og snu den på høykant - som illustrert under. 
+
+Det eneste vi har å utsette på foten, er at det skal lite til før skjermen begynner å bevege seg. 
+Den burde rett og slett vært strammere i sammenskruingen, mener vi. 
+
+Slik er den i bruk 
+
+Vi koblet skjermen til en stasjonær Precision T5810 Dell, via mini-DisplayPort. 
+Den oppdaget kilden og valgte riktig inngang automatisk. 
+All betjening og finjustering skjer via en rekke knapper bak på høyre side. 
+Den øverste knappen fungerer også som en joystick til å navigere i menyene. 
+
+Knappene er dessverre umerket, og vi er ikke mer enn halvfornøyd med brukervennligheten. 
+Med litt finpuss kunne joysticken lett fungert som eneste betjeningsorgan, noe som ville økt brukervennligheten betraktelig, mener vi. 
+
+Skjermen kommer ferdig kalibrert fra fabrikken, og bildemessig opplever vi den som meget god. 
+Lysstyrken er temmelig jevn over hele bildeflaten, og Asus lover at den fargemessig dekker 100 prosent av sRGB-fargerommet. 
+Sortnivået oppleves som helt sort i et normalt opplyst rom, noe som vitner om minimalt med lyslekkasje. 
+
+Windows 10 hadde oppskalert tekst og grafikk til 150 prosent av normalen, noe som vi opplevde som i overkant mye. 
+Slik skalering øker lesbarheten betraktelig, men ikke alle Windows-programmer takler skaleringen like bra. 
+Resultatet kan fort bli uskarp tekst og tekst som blir for stor i forhold til avsatt plass - for eksempel i menyer. 
+
+Ved å velge 100 prosent skalering unngår man denne problematikken, men ting blir samtidig ganske smått. 
+Har du godt syn, kan du da boltre deg med en svært stor arbeidsflate som får plass til mange programvinduer samtidig. 
+Og hvis du jobber med publikasjoner som skal til trykk, videoredigering eller avanserte jobber i Photoshop, er god plass over en stor bildeflate kjærkomment. 
+
+Konklusjon 
+
+Det er nettopp sistnevnte publikum Asus henvender seg til. 
+PA328Q byr på et ypperlig, sylskarpt bilde fordelt over en stor flate, som skapt for krevende bilde- og videoarbeid. 
+
+Med en responstid på 6ms vil imidlertid det typiske gaming-publikum ønske seg noe annet. 
+
+Prisen kan være et ankepunkt. 
+11.500 kroner er ekskluderende for veldig mange. 
+Vi har tatt en titt på Prisjakt, og funnet at både Acer, Samsung og flere andre har rimeligere IPS-baserte skjermer i samme størrelse, som du bør sjekke ut før du slår til. 
+
+Går du noe ned i størrelse, får du samtidig mer for pengene - sjekk lenkene vi har samlet under: 
+
+Asus PA328Q 

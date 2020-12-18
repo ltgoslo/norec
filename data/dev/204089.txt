@@ -1,0 +1,144 @@
+En av årets aller beste PC-er
+Noe av det ypperste du finner på bærbarfronten i 2018. 
+
+Det har gått åtte måneder siden vi stiftet bekjentskap med Matebook X, den første bærbare PC-en fra den kinesiske elektrogiganten Huawei. 
+Og for et møte det ble; ingen andre maskiner imponerte oss mer i 2017. 
+Les testen. 
+
+Og at Huawei mente alvor med PC-satsingen, er det ingen tvil om. 
+I løpet av sommeren vil de være representert på det norske markedet med flere modeller i forskjellige prisklasser, men vil ikke bli å se i billig-hyllene, i hvert fall ikke med det første. 
+Rimeligste vi har sett så langt, har fått navnet Matebook D og vil koste fra rundt 8.500 kroner. 
+
+Flaggskipet 
+- Matebook X 
+Pro 
+
+Flaggskipet i Matebook-serien har fått navnet X 
+Pro. 
+Dette er en typisk premium-modell med 13,9 tommer skjerm. 
+
+Modellen er ventet i butikkene mot slutten av juli, og vil komme i tre forskjellige konfigurasjoner; to basert på åttende generasjon Intel Core i5-prossor, mens topputgaven vil være basert på Core i7, med blant annet dedikert grafikkort, samt dobbelt så mye minne og lagringsplass. 
+Det er denne utgaven vi har testet de siste dagene. 
+
+Ikke noe brun papp her i gården 
+
+Både emballasje og PC-ens eksteriør, minner sterkt om Apples Macbook, men uansett om Huawei har latt seg inspirere eller ikke, er byggekvaliteten eksemplarisk. 
+Det stive, sølvgrå metallchassiset er slankt, under halvannen centimeter på det tykkeste, og vektnåla stopper på 1,32 kilo. 
+Det oser av premium i alle detaljene og overgangene. 
+Det er linjelekkert så det holder, her er ingen skarpe kanter og skjemmende skjøter som noen ganger er kompromisser i lavere prisklasser. 
+
+Og som på Mac-en kan du åpne lokket og sette skjermen i ønsket vinkel, bare ved å bruke én finger. 
+Motstanden i leddet er akkurat så stram at tastaturdelen står stille. 
+Lekkert! 
+
+Klassisk USB tilbake 
+
+På sidene sitter det en hodetelefonutgang og to USB-C-porter, den ene med støtte for Thunderbolt 3. 
+På motsatt side sitter en vanlig USB A-port (USB 3.0). 
+Det er etter vår mening et fornuftig valg. 
+Utstyr som lades og kommuniserer via standard USB-port er i overveldende flertall, og vil være det i overskuelig framtid. 
+
+I tillegg følger det med en enkel portreplikator som gir deg HDMI, VGA, USB-C og USB-A. 
+Trenger du å koble PC-en til et kablet nettverk, må du selv skaffe en overgang. 
+
+Glimrende skrivekomfort 
+
+Tastaturet har store og logiske taster, reagerer momentant og lager svært lite lyd under bruk. 
+På hver side av tastaturet sitter det høyttalere, på undersiden sitter åpninger som fungerer som bassreflekser. 
+Det gir en fyldigere lyd enn vi er vant til på så tynne og lette PC-er, etter vår mening er den helt OK til både bakgrunnsmusikk til arbeidet og til enmannskinoen. 
+
+Pekeplaten er stor, med integrerte felter for venstre- og høyreklikking. 
+Her er det naturligvis også støtte for å bruke flere fingre, for eksempel til å forstørre bilder og tekst, skrolle gjennom dokumenter og lignende. 
+Den fungerer også eksemplarisk. 
+
+Over tastaturet sitter en av/på-knapp med innebygd fingeravtrykkleser i ringen - omtrent som på en mobiltelefon. 
+Det er logisk og gjenkjennbart. 
+Denne er kompatibel med Windows Hello, som gjør det mulig å logge på Windows med fingertuppen - og formodentlig også logge inn på nettjenester og betale i nettbutikkene på et tidspunkt. 
+
+Kompakt 13,9-tommer 
+
+Hvis du leste testen av Matebook X, fikk du sikkert med deg at den var svært kompakt i forhold til skjermstørrelsen. 
+Den var på 13 tommer, og likevel kunne maskinen skjules under et A4-ark. 
+
+På Matebook X 
+Pro stikker litt av maskinen ut under papiret, men ikke mye, selv om skjermstørrelsen har økt til 13,9 tommer. 
+Det lille fotavtrykket skyldes blant annet de smale skjermkantene på rundt 5 millimeter på sidene og 4 millimeter i toppen. 
+
+Skjerm i særklasse 
+
+Skjermen er berøringsfølsom og svært høyoppløst - hele 3.000 x 2.000 piksler. 
+Det betyr samtidig at den har et 3:2 bredde:høydeformat, slik blant annet Microsoft Surface Book har. 
+I praksis gir det mer plass i høyden enn på en vanlig 16:9-skjerm, og har du først prøvd det er det stor sannsynlighet for at du ikke vil savne sistnevnte. 
+
+Skjermen byr på svært god betraktningsvinkel og nøyaktig fargegjengivelse (dekker 100 prosent av sRGB fargespekteret). 
+Noe gjenskinn må du leve med, men god lysstyrke og et effektivt antirefleksbelegg gjør det mindre problematisk enn på mange andre modeller. 
+
+Panelet er av typen LTPS, som både er raskere, tillater høyere oppløsning og utvikler mindre varme enn mange tradisjonelle LCD-paneler. 
+Etter vår mening er den opplevde kvaliteten minst like god som på et godt IPS-panel. 
+
+Konstruksjonsmessig krever slike paneler mindre plass rundt selve skjermen, og der har vi noe av forklaringen på den smale rammen. 
+En annen detalj knyttet til rammen, er at webkameraet er fjernet. 
+
+Det er i stedet plassert under en tast på tastaturet, mellom F6 og F7. 
+Et trykk på tasten, så spretter kameraet opp. 
+En slik løsning har vi aldri sett før. 
+
+Ulempen er at vinkelen ikke er optimal for videosamtaler, og fører gjerne til avkuttet hode og et inntrykk av at du er vesentlig tjukkere enn du i virkeligheten er. 
+Det er også noen fordeler, den første er at det er null fare for at hackere kan overvåke deg så lenge kameraet er nedlåst i tastaturet, og under bruk vil utsnittet alltid være det samme, uansett vinkling av skjermen. 
+
+Toppspesifisert med høy ytelse 
+
+Vårt testeksemplar er den toppspesifiserte utgaven, med dedikert grafikkort (Nvidia Geforce MX150), 16 GB RAM og 512 GB SSD. 
+Kombinert med en firekjernet Intel Core i7-8550u-prosessor, kan du se fram til en ytelse som ligger høyt over det aller meste i ultrabook-segmentet. 
+
+I våre tester i Passmark PerformanceTest, scorer prosessoren 8990 poeng. 
+Det er litt lavere (10-15%) enn Dell XPS 13 og Microsoft Surface Book 2, som begge har den samme prosessoren. 
+Det kan være flere årsaker til dette, vi heller mest mot at Huawei skrur ned hastigheten noe under de tyngste oppgavene, for å unngå for stor varmeutvikling og dermed økt viftestøy. 
+Våre tester viser at denne prosessoren har en tendens til å bli temmelig varm. 
+
+Matebook X 
+Pro er stort sett svært stillegående, og reduksjonen i hastighet er ikke større enn at du neppe vil merke noe til den, i hvert fall ikke under normal bruk. 
+
+Til gjengjeld har Matebook X 
+Pro dedikert grafikkort, som jobber inntil dobbelt så raskt som den integrerte grafikken som sitter i Dell-maskinen. 
+Den er dermed rask nok til det vi på nynorsk kaller casual gaming, i hvert fall hvis du går noe ned på oppløsning og detaljrikdom på de mest krevende titlene. 
+
+PC-en er forøvrig utstyrt med en svært rask SSD med lesehastighet på hele 2,9 GB pr sekund på det raskeste. 
+Skrivehastigheten er også inntil respektable 1,1 GB pr sekund. 
+Legg til at Matebook X er utstyrt med det svært raske og stabile trådløse nettverkskortet Intel AC8275, så forstår du at totalpakken er en meget potent og kraftig PC i kompakt innpakning. 
+
+God batteritid 
+
+Batteriet holdt til strømming av video i 10 timer og 15 minutter før maskinen skrudde seg av. 
+Huawei antyder rundt 12 timer med variert bruk, noe som absolutt kan være hold i - men vi har hatt flere PC-er på testbenken i 2018 som har overgått dette, inkludert den omtalte Dell XPS 13 som holdt ut i hele tre timer mer! 
+
+Lading av batteriet går temmelig kjapt. 
+Etter én time i stikkontakten var kapasiteten oppe i 66 prosent, 12 prosentpoeng mer enn batteriet på Dell-en. 
+
+Helt ren Windows 
+
+Det er også gledelig at PC-en har en såkalt Signature-utgave av Windows 10. 
+I praksis betyr det at det ikke er installert tredjepartsprogrammer, demoprogrammer og rusk og rask, slik man ofte finner i PC-verdenen. 
+
+Rettelse: 
+Huawei har informert oss om at maskinen leveres med Pro-utgaven av Windows 10, ikke standardutgaven, som vi først skrev. 
+
+Det eneste som ikke er signert Microsoft her, er PC Manager, et lite Huawei-kontrollpanel som overvåker helsetilstanden til maskinen. 
+Det har til og med sin egen hurtigtast på tastaturet. 
+
+Konklusjon 
+
+Huawei har fulgt opp det fine arbeidet de gjorde med Matebook X, og Pro-utgaven lever absolutt opp til navnet sitt. 
+Dette er en maskin som oser kvalitet fra innerst til ytterst - og som leverer godt på alle testkriteriene. 
+
+Vi elsker skjermen og bredde-høydeforholdet på 3:2, og lever godt med at ytelsen er bittelitt lavere enn på de raskeste - så lenge gevinsten er mye mindre vifteaktivitet. 
+
+Vinkelen på webkameraet er ikke optimal, så er videokonferanser viktig for deg, bør du kanskje vurdere en annen maskin. 
+Men er du ute etter et arbeidsjern i liten, robust og lekker innpakning, er dette en av de klart beste valgene akkurat nå. 
+Det kan derfor ikke bli annet enn nok en sekser og anbefalt-stempel til Huawei - fortsatt en liten aktør i dette markedet, men kanskje den mest foroverlente PC-produsenten akkurat nå. 
+Les uansett plussene og minusene i boksen under. 
+
+Og synes du prisen på nesten 19.000 kroner er høy, er det greit å vite at i5-utgaven starter på 14.000 kroner. 
+Da må du nøye deg med litt lavere ytelse, 8 GB RAM og 256 GB SSD - fortsatt innenfor det de aller fleste av oss vil oppleve som mer enn godt nok. 
+
+Få også med deg testene av Dell XPS 13, Lenovo Yoga 920 og HP Spectre 13 før du bestemmer deg. 

@@ -1,0 +1,97 @@
+TEST:ZyXEL P8702N fra Canal Digital 
+
+Vi har testet Canal Digital-ruteren. 
+Hvordan klarer den seg mot de beste? 
+
+Denne høsten/vinteren har vi testet en rekke trådløse bredbåndsrutere, stort sett har det dreid seg om toppmodeller til 2-3.000 kroner. 
+
+Denne gangen skal vi se nærmere på ZyXEL P8702N. 
+Et kryptisk navn, men det er altså snakk om den mest avanserte bredbåndsruteren Canal Digital tilbyr sine internettabonnenter. 
+
+Masse funksjonalitet 
+
+Ruteren har vært på markedet siden starten av fjoråret, og omtales av Telenor som «Multimodem». 
+I det ligger det at den tilbyr mer enn bare ruterfunksjonalitet, den fungerer nemlig direkte mot alle de forskjellige bredbåndslinjene fra Telenor (ADSL, VDSL og fiber), og har også innebygd telefonkontakt for bredbåndstelefoni. 
+
+I denne testen har vi konsentrert oss om selve ruterfunksjonaliteten, og her er en oversikt over de viktigste egenskapene i den retningen: 
+
+Modell: ZyXEL P8702N Standarder: 802.11a/b/g/n/ac Antenner: 
+Totalt 5 stk. 
+Alle interne USB-porter: 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Bredbåndstelefoni Pris: 990 kr 
+
+Så vidt vi har klart å finne ut, er dette en AC1750-ruter. 
+Det betyr at maksimal teoretisk hastighet er 1300Mbit på 5GHz-båndet, og 450Mbit på 2,4GHz-båndet. 
+Telenor selv er mer forsiktige, og antyder 400Mbit trådløst. 
+Dette er uansett mer enn tilstrekkelig for det meste av eksisterende utstyr. 
+De øvrige spesifikasjonene er godt innenfor det vi forventer av en avansert hjemmeruter i prisklassen 1000-1500 kroner. 
+
+Designmessig slår den alt vi har testet denne høsten. 
+Den er diskré og plasseringsvennlig, mye takket at den ikke har noen utstikkende antenner. 
+Ruteren kan dessuten skinnes. 
+Den er i utgangspunktet hvit, men et svart deksel følger også med. 
+
+Slik kommer du i gang 
+
+Ruteren kommer med en enkel brukerveiledning på norsk, og så snart du har koblet den til bredbåndet ditt vil den være satt opp med to aksesspunkter, ett for 2,4GHz-båndet og ett for 5GHz-båndet. 
+Navn og passord finner du på klistremerket på undersiden. 
+Det tok oss bare noen få minutter å komme på nett. 
+
+For mange brukere er dette alt som behøves, men ruteren byr på et vell av innstillinger og muligheter for den teknisk interesserte. 
+Det webbaserte oppsettet er dessverre kun på engelsk, og vi har sett langt mer brukervennlige oppsett enn dette. 
+Det krever rett og slett litt teknisk forståelse for å få oversikt, men til gjengjeld har vi sjelden sett rutere som kan konfigureres like mye til fingerspissene. 
+
+OPPDATERT: 
+Fra Telenor får vi opplyst at ruteren skal oppdatere seg selv. 
+Det hendte imidlertid ikke vårt tilfelle. 
+
+Her finner du for eksempel et ypperlig foreldrekontroll-oppsett, og på dette punktet er oppsettet svært lettfattelig. 
+
+Du styrer ganske enkelt når inntil 20 enheter skal få tilgang til Internett. 
+På den måten kan du begrense barnas tilgang til nettet både på mobil, nettbrett og PC på en enkel måte. 
+Det ligger også en kolonne for sperring av nettsider, men den funksjonen ser ikke ut til å være aktiv. 
+
+Åtte forskjellige trådløse nett, om du vil 
+
+Totalt kan du med denne ruteren sette opp totalt åtte(!) aksesspunkter, fire på hvert av 2,4 og 5GHz-båndene, hvorav totalt seks (3+3)kan være gjestenett. 
+Gjestenett-brukere får ikke tilgang til lokale ressurser, kun internett. 
+Hvert aksesspunkt kan i tillegg konfigureres med forskjellige begrensninger i båndbredde, og kombinert med foreldrefilter kan du virkelig skreddersy tilgangen til brukerne. 
+Smart! 
+
+Ruteren har også innebygd serverfunksjonalitet. 
+Du kan koble til skrivere, minnepinner og harddisker til den integrerte USB 3.0-porten - og dele dem i nettet ditt. 
+Har du musikk- og videofiler du vil dele, kan du også aktivere medieserver-funksjonen (DLNA), slik at innholdet kan spilles av på kompatible TV-er, mediespillere og spillkonsoller. 
+
+Ytelsesmålinger 
+
+Dette bringer oss over på neste punkt, måling av hastigheter og rekkevidde. 
+Vi fulgte vanlig testprosedyre, beskrevet i denne artikkelen. 
+Første punkt var å måle lese- og skriveytelsen mot den lynraske minnepluggen vår, som ble plugget i ruterens USB 3.0-port. 
+Dessverre viste det seg at ytelsen var temmelig svak; leshastighet på 7 MB pr sekund og skrivehastighet på 1 MB pr sekund er det desidert svakeste vi har målt denne høsten: 
+
+Neste test var å måle trådløsytelsen mot en delt mappe på en PC som var tilkoblet med ethernet-kabel (1000Mbps). 
+I tabellen under har vi sammenlignet hastighetene vi målte i husets tre etasjer samt terassen utenfor, mot de andre aktuelle ruterne vi testet i høst: 
+
+Når vi legger til at ZyXEL er den desidert rimeligste av disse tre, kan vi ikke bli annet enn imponert over ytelsen. 
+To etasjer ned er den faktisk tredje raskest, noe som også beviser at interne antenner ikke behøver å være noe ankepunkt. 
+
+Denne påstanden understøttes av at rekkevidden viste seg å være meget bra. 
+Fra benken i hagen (ca 75 meter fra huset) kunne vi surfe på nettet, riktig nok med litt variabel hastighet, men vi var oppi 57 Mbps på det beste. 
+
+Også iPhone fikk fint kontakt med ruteren på dette stedet, og bød ellers på gode ytelser på de andre testpunktene: 
+
+Når enkelte andre rutere ikke en gang klarte å formidle signal til benken i hagen, må vi si oss mektig imponert over rekkevidden til Canal Digital-ruteren. 
+
+Konklusjon 
+
+Hvis du ser bort fra meget lav hastighet mot den innebygde serverfunksjonen, er dette en ypperlig ruter for de fleste formål. 
+
+For den jevne Canal Digital-kunden ser vi derfor ikke noe stort poeng i å bytte til en annen trådløs ruter, med mindre serverfunksjonen er sentral for deg. 
+
+Ruteroppsettet er langt fra det enkleste, men til gjengjeld er det massevis av funksjonalitet å boltre seg i for den teknisk interesserte. 
+Enten du er avansert bruker eller bare ønsker å komme deg på nett, får du rett og slett mye god ruter for pengene. 
+
+Den vipper mellom en firer og en femmer på terningen, vi lander til slutt på en meget sterk firer. 
+Se våre plusser og minuser i oppsummeringsboksen under. 

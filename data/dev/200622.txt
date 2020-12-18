@@ -1,0 +1,116 @@
+Pebble Time – ett skritt fram, to tilbake
+Smartklokka klarer ikke å slå sin egen forgjenger. 
+
+Klokker gir deg viktig informasjon ved et raskt blikk på håndleddet ditt. 
+Smartklokker utvider informasjonen til hvem som forsøker å kontakte deg, værmeldinger og hvilken sang du hører i hodetelefonene dine. 
+
+Smartklokker er derfor en helt naturlig videreføring av klokkekonseptet, og har livets rett. 
+Ferdig snakka. 
+
+Men de aller fleste smartklokker har en vital svakhet: 
+De gir deg ikke denne informasjonen med et raskt blikk på håndleddet ditt. 
+
+De fleste har nemlig skjermer som først må skrus på, for eksempel ved en håndbevegelse. 
+Skinner sola, er det vanskelig å se bildet. 
+Og batteriet kan uansett være tomt lenge før sola går ned. 
+
+Pebble er et hederlig unntak, med sin «e-papir-skjerm» som alltid er lesbar og batteri som varer i mange dager. 
+Blant annet derfor er Pebble Steel klokka vi selv går med hver eneste dag. 
+
+Nå har den fått sin arvtaker, i Pebble Time. 
+Og spørsmålet er om det er på tide å bytte ut klokka vår. 
+
+Enda større kant 
+
+Pebble Time har blitt noe mindre, mykere i linjene og har fått seg en bøy så den er mer behagelig å ha på seg. 
+Men kanten rundt skjermen, som er av metall som ser ut som plast, er fortsatt altfor stor. 
+Faktisk større enn de gamle Pebble-modellene. 
+
+Å lansere en oppfølger som på dette punktet er dårligere enn originalen, gir lite mening. 
+Når vi ser hva en minimal kant kan gjøre med helhetsinntrykket, som på den billigere smartklokka Moto 360, blir vi oppriktig lei oss over at Pebble-designerne ikke klarte å fikse dette problemet. 
+
+Gummireimene som følger med Pebble Steel, sammen med plastpreget og den digre kanten, gir hele klokka et gammeldags og treningsklokkeaktig preg vi ikke setter spesielt pris på. 
+
+Time er kanskje penere enn den originale Pebble, men langt fra penere enn Steel, som også er billigere enn Time. 
+Også Pebble Time skal få sin Steel-utgave, som trolig vil være langt stiligere, men også denne vil plages av kantproblemet. 
+
+Her kan du se vår kjappe demonstrasjon av Pebble Time, og se hvordan menyene fungerer: 
+
+Dårligere lesbarthet 
+
+Det er først og fremst i skjermen at Pebble Time har blitt oppgradert. 
+For mens de gamle Pebble-modellene kun viser sort og hvitt, har Time fått seg fargeskjerm. 
+
+Det positive er først og fremst morsommere urskiver, eller «watchfaces» som det heter i smartklokkeverdenen. 
+Hobbydesignerne som lager disse, og legger dem ut gratis i Pebble Time-appen, finner på både pene og artige konsepter. 
+
+Men med farger følger dessverre dårligere lesbarhet, da blått på grønt naturlig nok er vanskeligere å lese enn hvitt på sort. 
+Men vi hadde ikke sett for oss nøyaktig hvor mye vanskeligere. 
+Pebble Time-skjermen er nemlig skuffende dus, og de 64 fargene den kan vise nærmer seg ofte grånyanser. 
+
+Fargeskjermen har derfor ikke gitt Pebble Time den store fordelen vi hadde håpet på. 
+Den gjør seg bedre på bilder enn i virkeligheten, og da lesbarhet er Pebble-modellenes aller største styrke, bør den ikke tukles med. 
+
+Meningsløs tidslinje 
+
+Pebble Time har fått en oppdatert versjon av Pebble-operativsystemet. 
+Den største fordelen er at du kan ha langt flere enn totalt åtte apper og urskiver installert. 
+Dette var et stort problem på de eldre modellene, så hurra for det. 
+
+En annen nyhet er «tidslinja». 
+Trykker du opp og ned på de fysiske knappene skal man kunne spole seg fram og tilbake i tid. 
+Oppover viser deg hva som har skjedd, mens nedover viser deg hva som skal skje. 
+Det høres lurt ut, men er på skrivende tidspunkt heller meningsløst. 
+
+Vi får bare opp kalenderoppføringer, værmeldinger og tapte anrop. 
+Apper kan levere innhold til tidslinja om de vil, men det er det ikke mange som har villet ennå. 
+Kanskje tidslinja kan bli et fint sted å være i framtida, men foreløpig er det et sted vi sjelden befinner oss. 
+
+Ingen berøring, lite tale 
+
+Klokka styres fortsatt med fire fysiske knapper, og skjermen aner ikke hva menneskelig berøring er for noe. 
+Dette fungerer fortsatt fint: 
+Å gå rundt med en trykkfølsom skjerm på håndleddet kan nemlig være en utfordring, da du risikerer at for eksempel armer i kors tolkes som «sett musikken på full guffe». 
+Du kan selv tenke deg hvordan det hadde gått om du teipet mobilen til armen med skjermen opplåst. 
+
+Pebble Time har nå fått seg en mikrofon, som man skulle tro også kunne brukes til å styre klokka, slik Android- og Apple-klokkene gjør. 
+Men nei. 
+Den kan bare brukes til å diktere svar på enkelte varsler, som tekst- og Facebook-meldinger. 
+Det fungerer på norsk, og det fungerer greit, men vi bruker heller forhåndsbestemte svar. 
+
+Apropos: 
+Varslene klokka viderefører fra telefonen, fungerer akkurat som før. 
+Kjører mobilen din Android, slik som vår, kan du for eksempel svare på meldinger eller avvise varslene så de forsvinner på mobilen. 
+Men iPhone-brukere får et noe mindre handlingsrom, og kan først og fremst se hva som foregår på mobilen uten å ta den opp. 
+Det skal heller ikke undervurderes. 
+
+Fortsatt bra batteri 
+
+Andre funksjoner, som å styre musikken på mobilen din, er mer eller mindre uendra. 
+Det fungerer fortsatt bra, men vi hadde ønsket oss mer. 
+For hvorfor har ikke Pebble Time fått seg flere egne løsninger, noen flere funksjoner, siden sist? 
+
+Klokka mangler fortsatt banaliteter som stoppeklokke og nedtelling, og har heller ikke noen helsefunksjoner som sin egen skritteller. 
+Alt dette løses ved å laste ned tredjepartsapper, men for at et operativsystem skal føles modent, er det fint å få mer ut av boksen. 
+
+Det har skjedd lite med batteritiden også, men det skal vi overhodet ikke klage på: 
+Vi har klart fem hele dager med bruk, som er omlag like lenge som Pebble Steel, og fem ganger bedre enn konkurrenter som Apple Watch og Android-klokkene. 
+Dog ikke like lenge som uka Pebble liker å skryte av. 
+
+Ett skritt fram, to tilbake 
+
+Pebble Steel har et forfriskende retrofuturistisk preg, med sitt metallytre og lavoppløste sort/hvitt-skjerm som alltid er lett å lese. 
+Sammenlikna med denne, føles Pebble Time som ett skritt fram, og to tilbake. 
+
+Time er nemlig dyrere enn Steel, uten å rettferdiggjøre prisen. 
+Fargeskjermen mister sjarmen etter første dagen, mikrofonen snakker vi ikke med og for oss er det ingen tvil om at Steel-modellene er langt penere å se på. 
+Det er viktig, når du skal ha noe på håndleddet hver eneste dag. 
+
+Om du burde du kjøpe Pebble Time? 
+Kanskje, i stedet for den originale Pebble. 
+For Time er ikke en dårlig smartklokke, bare en ganske enkel og lite attraktiv en, og den får derfor heller ikke et direkte dårlig terningkast. 
+
+Problemet er bare at det allerede finnes en super modell som er både penere og billigere enn Time. 
+Så inntil vi har fått sett Pebble Time Steel, beholder Pebble Steel både plassen på håndleddet vårt, og plasseringen som en av de aller beste smartklokkene på markedet. 
+
+Pebble Time 

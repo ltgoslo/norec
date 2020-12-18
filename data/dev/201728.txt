@@ -1,0 +1,76 @@
+Test: AUTODAB Smart
+Styres med mobilen. 
+
+Mange gruer seg til FM-signalene slås av og det blir lydløst i bilen. 
+Slapp av. 
+Det er enkelt og billig å få DAB+ i bilen. 
+Vi har her testet en modell som det tar fem minutter å koble opp. 
+
+Løsningen vi testet egner seg aller best for biler med originalt integrert radio, gjerne med integrerte rattkontroller, som du ønsker å beholde. 
+Det er likevel en nødvendighet at din eksisterende radio har en AUX-inngang. 
+
+Vi har tidligere testet en rekke DAB-adaptere i samme bil. 
+
+AUTODAB Smart 
+
+Settet inneholder selve DAB+-boksen, en antenne, strømforsyning og AUX-kabel. 
+Oppkoblingen trenger ikke ta mer enn fem minutter, men skal du ha en fin permanent løsning, bør du nok sette av en times tid. 
+
+Antennen behøver ikke jording og kan klistres rett på ruta. 
+Det gjør at du slipper å ta av trekket på A-stolpen. 
+For et pent resultat, kreves riktignok ofte at man tar av denne og vipper ut hanskerommet for å trekke ledningen slik man vil ha den. 
+
+Kort AUX-ledning 
+
+De fleste biler har AUX-tilkobling i umiddelbar nærhet av spilleren. 
+Testbilen har den under armlenet. 
+Medfølgende AUX-ledning er litt kort. 
+Da må boksen plasseres i nærheten av denne, noe som innebærer mye trekking av ledninger. 
+
+Vi savner at boksen sender en FM-frekevens som vi kunne plukket opp på radioen. 
+I en tid der vi bruker mobilen mye til lydkilde, ønsker man at AUX-koblingen er tilgjengelig for mobilen i stedet. 
+
+Styres med App 
+
+Det følger ikke med noe knappesett til å styre boksen med. 
+I stedet laster man ned en enkel app, som fås både til Android og iPhone. 
+Appen er svært enkel og lett forståelig. 
+Du kan velge å vise alle kanaler, regionvis eller etter favoritter. 
+
+Sistnevnte blir mest brukt. 
+Det er plass til seks kanaler på en skjermvisning. 
+Da slipper man å scrolle mye. 
+Når du velger en kanal, bytter den bilde og viser kanal med info og bilde. 
+Du skifter til neste kanal ved å trykke nederst på skjermen. 
+
+Men du trenger en holder til mobilen, gjerne med lader. 
+Jeg savner også en nattfunkjson på appen. 
+Hvit bakgrunn lyser infernalsk i mørket. 
+På denne årstiden er det stort sett mørkt når man kjører bil, og da blir det til at man setter mobilen i dvale. 
+Da blir det plutselig litt styr å bytte kanal. 
+
+Dette problemet er trolig borte før du rekker å laste ned appen. 
+Etter vår tilbakemelding der vi i stedet ønsker sort skjerm og hvit skrift, blir dette endret på produktene som kommer for salg i Norge, antagelig som en nightmode-innstilling. 
+
+Ved oppstart velger den samme kanal som du avsluttet med. 
+Du trenger altså ikke å koble opp telefonen hvis du har en favorittkanal. 
+
+Ved et par anledninger slo appen seg av, men blåtannforbindelsen virket for øvrig bra. 
+
+For dårlig antenne 
+
+Testen er utført sentralt på østlandet, med generelt ok signaler. 
+Medfølgende antenne funkerte ikke tilfredsstillende nedi dumper og over Sollihøgda, som også er et problemområde for FM. 
+På vestlandet, med langt mer utfordrende forhold, bør du kjøpe den beste antennen man kan tilby med det samme. 
+
+AutoHifi selger en antenne fra Funke som er testet av NRK som den beste glassantennen. 
+Den koster 450 kroner og er en god investering. 
+Den kan ogås brukes på andre mottakere, om du senere skulle ønske å oppgradere. 
+Disse DAB-antennene funker best. 
+
+Lyden 
+
+Vi oppevde lyden som en god tanke spinklere og en del skarpere enn FM-lyden. 
+Ikke verre enn at man henter det inn med bass og diskant på spilleren, men litt dårlig løsning dersom man veksler mellom FM og DAB. 
+Lydnivået var også litt høyere, men mange spillere kan justere AUX-inngangens lydnivå. 
+Det gir derfor ingen praktiske problemer. 

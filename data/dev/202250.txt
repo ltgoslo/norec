@@ -1,0 +1,140 @@
+Apple TV (2015)
+Endelig med apper, men nordmenn får ikke alle funksjonene. 
+
+Det startet som et hobbyprosjekt, men Apple TV har solgt alt for godt til at Apple kunne fortsette dette som er sideprosjekt. 
+
+Den første enheten kom på markedet allerede i 2007. 
+Dernest fulgte versjon 2 og 3 henholdsvis i 2010 og 2012. 
+Den viktigste forskjellen mellom de to siste var at tredjemann støttet full HD-oppløsning (1920x1080). 
+
+Ingen 4K-støtte 
+
+Det overrasket oss derfor at nye Apple TV bare tilbyr full HD-oppløsning; kanskje spesielt nå som de nye iPhone-modellene har fått muligheten til å ta opp video med 4K-oppløsning (3840x2160). 
+
+I dagens TV-marked har jo 4K-modeller for lengst gjort sitt inntog, og 4K-innhold har begynt å komme blant annet både fra Netflix og YouTube. 
+I tillegg begynner konkurrentene, blant annet Nvidia Shield TV, som vi nettopp har fått inn på testlaben vår, støtte for 4K til samme pris. 
+
+Timingen hadde altså vært perfekt for Apple TV til å ta steget. 
+
+Ny fjernkontroll 
+
+Der forgjengeren var basert på IR (infrarødt lys), er den nye fjernkontrollen Bluetooth-basert, slik at det nå ikke lenger er kritisk å måtte sikte på TV-en. 
+Den har også en Lightning-plugg i bunnen slik at du kan lade den opp med samme kabel som iPhone og iPad. 
+
+Den har også blitt langt mer avansert. 
+
+Den øverste tredjedelen er en liten styreflate, slik at du primært sveiper på den for å navigere rundt i operativsystemet, tvOS. 
+Den kan også trykkes inn for å velge ting, på samme måte som på en styreflate på PC eller Mac. 
+Og den er briljant å bruke når man skal spole i en film. 
+
+I tillegg kommer seks knapper. 
+En egen hjem-knapp, som alltid tar deg til hjemskjermen, en menyknapp som i praksis er en tilbakeknapp (hvorfor ikke bare kalle den «back», Apple? 
+Den viser aldri noen menyer), en mikrofonknapp som aktiverer søket, en play/pause-knapp og volumknapper. 
+Volumknappene sender signaler til TV-en eller forsterkeren din, slik at du kan heve og senke volumet bare med den lille fjernkontrollen. 
+
+Og har du en TV hvis fjernkontroll har piltaster, kan du bruke disse i stedet for Apple TV-fjernkontrollen. 
+Alt takket være HDMI-CEC. 
+
+På innsiden sitter et gyroskop som registrerer hvordan du holder fjernkontrollen. 
+
+Dermed kan du for eksempel bruke den når du spiller bilspill, der du holder fjernkontrollen som om den var et ratt. 
+Her synes vi fjernkontrollen responderer både raskt og presist. 
+
+En liten ulempe er imidlertid at det ikke er bare-bare å legge den fra seg i sofaen. 
+Da er det ikke store bevegelsene som skal til før den begynner å spole i filmen av seg selv. 
+
+Her ser du noe av hva du kan gjøre med nye Apple TV: 
+
+Nedtur #1: 
+Ingen Siri 
+
+Det er skuffende at Siri, som Apple har stort fokus på i markedsføringen av nye Apple TV, ikke virker her til lands. 
+Og det til tross for at Siri forstår norsk i den siste iOS-oppdateringen, versjon 9. 
+
+Vi har prøvd å sette både språk og region til USA på vår testenhet, men vi får likevel aldri anledning til å aktivere Siri-funksjonen. 
+
+Det gjør vi først når vi logger på med vår amerikanske iTunes-konto og setter språket til engelsk. 
+Ulempen da er for eksempel at universalsøket leter i det amerikanske Netflix-utvalget, som i liten grad er samstemt med det norske. 
+
+Her er en liten demo på hvordan det fungerer, men som altså krever litt triksing her til lands: 
+
+Det skal også sies at app-utvalget er langt rikere i den amerikanske versjonen av app-butikken, der man blant annet har en haug av TV- og sportskanaler. 
+
+Nedtur #2: 
+Et vanskelig tastatur 
+
+Siden man ikke får brukt stemmesøket her i Norge, er man med andre ord nødt til å bruke skjermtastaturet når man skal søke etter ting, eller når man legger inn epostadresse og passord til både iTunes, Netflix, TV2 Sumo eller hva det måtte være. 
+
+Og det er ikke så vel utført: 
+Det var tungvint å skrive på forgjengeren, der bokstavene var satt opp i en matrise, men vi synes det er enda mer tungvint nå. 
+
+Alle bokstaver og tall er ramset opp på to lange linjer, og så må man sveipe med fjernkontrollen frem og tilbake for å trykke inn bokstaver. 
+Det går tregt når man for hver bokstav er nødt til å finjustere presist med små bevegelser på styreflaten – vi tok tiden og brukte for eksempel i overkant av ett minutt på å taste inn epostadresse og passord til iTunes. 
+
+Mye av dette kunne ha vært unngått hvis også vi i Norge fikk lov til å bruke Siri. 
+Eller i det minste om Apple hadde hatt en fjernkontroll-app for iOS som kunne brukes med nye Apple TV. 
+Men det har de ikke, og det skuffer oss fra et selskap som er kjent for å koble sammen de ulike enhetene sine på en veldig elegant og sømløs måte. 
+
+Om du har en iPhone eller iPad er heldigvis det initielle oppsettet ganske fort gjort, siden du da bare kan legge enheten inntil Apple TV og taste passordet, for så å koble den på WiFi, logge inn med iTunes-kontoen og så videre uten å måtte trykke inn alt på fjernkontrollen. 
+Men den logger deg ikke på Netflix og andre ting, selv om du måtte ha appene installert på telefonen. 
+
+(Dette er for øvrig også mulig på eksisterende modeller.) 
+
+Opptur: 
+Apper og spill 
+
+Nytt er altså at Apple TV nå har fått en egen App Store. 
+Derfor er det bare Apples egne apper som er forhåndsinstallert på Apple TV, slik at man selv kan laste ned appene man vil bruke, noe vi gir en tommel opp for. 
+
+Vi savner imidlertid litt flere utforskingsmuligheter i app-butikken. 
+Etter sigende finnes det over 1.000 apper allerede, men annet enn de som promoteres på forsiden, er det kun mulig å søke etter apper – å utforske i kategorier er ikke mulig, i hvert fall ikke foreløpig. 
+
+Av videotjenester finner du for eksempel både Netflix, Viaplay, HBO Nordic (endelig), TV2 Sumo og NRK. 
+I tillegg finnes egne TV-apper fra aktører som Airbnb, Tripadvisor, Houzz og Gilt, der man kan vindusshoppe direkte på TV. 
+Og peis, nettradio, værmelding og annet. 
+
+Spill er viet stor oppmerksomhet i App Store, og som nevnt kan du styre spillene på flere måter med fjernkontrollen, enten ved å bruke gyroskopet eller styreflaten. 
+Det går også an å bruke håndkontrollere fra tredjepart, men app-utviklere er nødt til å lage spillene slik at de uansett skal kunne styres med fjernkontrollen. 
+
+Spillutvalget er for så vidt ganske hyggelig til at dette er et splitter nytt produkt. 
+Her finner du alt fra Frogger-klonen Crossy Road (med flerspillerstøtte) og «Endless runner»-varianten Alto's Adventure, til eventyrspill som Lumino City og bilspillet Asphalt 8: Airborne. 
+
+Sistnevnte gir maskinvaren i Apple TV nok å bryne seg på. 
+Apple TV klarer ikke å levere konsistent 30 bilder i sekundet på Asphalt 8, der det lugger og hakker litt innimellom. 
+
+For øvrig savner vi videoer i app-beskrivelsene i App Store, for mange av spillene er ganske dyre på TV-en, med priser typisk fra 29-49 kroner, men også opp mot hundrelappen. 
+
+Å se noen skjermbilder gir ikke alltid helt inntrykk av hvordan et spill fortoner seg i praksis. 
+Vi registrerer også at Apples klassiske filmtrailer-app ikke er tilgjengelig i App Store (den finnes på forrige generasjons Apple TV), så den måtte vi laste ned med den amerikanske iTunes-kontoen vår. 
+
+To utgaver 
+
+Apple TV selges i to utgaver, der den eneste forskjellen er lagringsplassen, som er på henholdsvis 32GB og 64GB med prislapper på rundt 1.700 og 2.250 kroner. 
+
+Av appene vi har lastet ned, er det tre av spillene som runder 100MB hver seg. 
+Apple har satt en øvre grense på 200MB per app, men tillater utviklere å hente mer data fra nettet om de vil, men dette blir da data Apple TV sletter om det begynner å gå tomt for plass. 
+
+Uansett vil vi tro at de fleste vil klare seg med 32GB-versjonen, med mindre man har store ambisjoner innenfor spilling. 
+
+Som før fungerer selvsagt også Airplay med den nye Apple TV-enheten, slik at du kan sende lyd, bilder og video fra en iPhone, iPad eller Mac. 
+
+Konklusjon 
+
+Det er mye å like ved årets Apple TV-modell. 
+Grensesnittet er svært delikat og flyter lett som bare det der man sveiper rundt med fjernkontrollen. 
+App-utvalget er ganske bra med tanke på at dette er et helt nytt produkt, og det er også mange morsomme spill å prøve ut, selv om de fleste av dem er litt mer av «casual»-typen. 
+
+Tro med andre ord ikke at du kan stryke Xbox eller PlayStation fra ønskelista om du kjøper en Apple TV. 
+I hvert fall ikke om du liker å spille de største utgivelsene. 
+
+Den lille boksen har også sine ulemper. 
+
+Manglende 4K-støtte er en av dem, som flere konkurrerende produkter nå kommer med, inkludert Nvidia Shield TV. 
+Den selges også i Norge, og vi kommer med en test av i løpet av noen dager. 
+
+Det er også forbausende klønete å skrive på skjermtastaturet med fjernkontrollen, og det må vi nordmenn gjøre ganske ofte, siden Siri i utgangspunktet ikke er tilgjengelig med mindre du har en amerikansk iTunes-konto. 
+
+Men Apple TV er lett å ta i bruk og mestres kjapt av alle i husstanden. 
+Selv i startgropa er app-utvalget meget godt, og den grunnleggende navigasjonen fungerer fint som bare det, takket være en svært god fjernkontroll. 
+
+Apple TV 32GB (4th Generation) 

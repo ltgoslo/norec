@@ -1,0 +1,167 @@
+Nvidia Shield TV
+Android TV-boks med 4K-støtte og egne spill. 
+
+Selv om Smart TV-funksjonene på TV-er stadig blir bedre, er det ikke alle som har en toppmoderne TV i stua. 
+Da er det kjekt at det finnes små bokser du kan koble til, og som gir deg langt mer funksjonalitet på TV-skjermen enn hva du er vant med. 
+
+Men selv om Apple har hatt stor suksess de siste årene med sin Apple TV-enhet, har også Android begynt å gjøre sitt inntog i TV-markedet. 
+
+TV-modeller fra Philips og Sony leveres med Android som operativsystem rett ut av boksen og har tilhørende apper og funksjoner. 
+I tillegg finnes det også her egne bokser du kan koble til TV-en. 
+
+Den første Android TV-enheten Nexus Player testet vi i mai, og nå er det altså Nvidia Shield TV som står for tur. 
+
+Spill over nett 
+
+For de som har spilt PC-spill er Nvidia en kjent aktør. 
+Selskapet har i et par tiår hatt sterk fokus på grafikkort med sin GeForce-serie, som fortsatt holder koken. 
+På prisjakt.no er fire av de fem mest populære grafikkortene basert på nettopp GeForce fra Nvidia. 
+
+Ikke overraskende er derfor spill og grafikk i fokus på Shield TV. 
+En ting er at du kan spille spillene som er laget for Android TV, men i en egen seksjon kalt Shield Games tilbyr de også spill som er spesiallaget for enhetens Tegra-prosessor. 
+Dette er altså spill som ikke nødvendigvis er tilgjengelige på andre Android TV-enheter. 
+
+Via Nvidias GeForce Now-tjeneste, kan du også spille enda tyngre spill (PC-spill) som strømmes til boksen direkte fra nett, slik at prosesseringen foregår på servere på nettet. 
+Dermed får du i praksis levert en videostrøm av spillet hjem i stua, som om du spiller lokalt. 
+
+Men det koster penger. 
+Regn med en snau hundrelapp i måneden, og at du må betale ekstra for de heteste spillene. 
+For eksempel koster Witcher 3 400 kroner, og for å strømme spillet på Shield TV, kreves det hele tiden at du har et aktivt abonnement. 
+
+Dermed kan dette bli en ganske dyr affære i våre øyne, selv om de første tre månedene er gratis. 
+På den positive siden får du da også mulighet til å laste ned det samme spillet på PC og spille der. 
+
+Du MÅ ha kjapp nettlinje 
+
+For å nyte den beste grafikken må du ha en rask nettlinje. 
+Med full HD-oppløsning og 60 bilder i sekundet, oppgir Nvidia 30 megabit nettlinje som et minimumskrav, i tillegg til at du enten må være koblet til ruteren kablet eller via 5GHz-båndet. 
+
+Også det betyr at mange vil falle av. 
+
+Ja, du kan strømme spill fra PC-en din i hjemmenettverket også, om du har et GeForce GTX-basert skjermkort. 
+
+Svak WiFi 
+
+Men her støter vi på det største problemet vi har med denne boksen. 
+
+Nvidia Shield TV virker nemlig å ha et labert trådløst nettverkskort. 
+På testlaben vår på kontoret får vi et ganske dårlig WiFi-signal med denne boksen. 
+
+Hastigheten lå på 10-12Mbit/s da vi målte, og det til tross for at vi målte henholdsvis 130 og 160Mbit/s fra to mobiltelefoner i det samme rommet, koblet til det samme WiFi-nettet, der vi utførte målingene omtrent samtidig. 
+
+Vi ser det også når vi prøver å spille 4K-video fra Netflix-appen. 
+
+På vår test-TV, Android-TV-en Philips 7600 (test kommer) starter nemlig Netflix i 4K som smurt via den innebygde TV-appen, mens vi på Nvidia-boksen må vente lenge (og se video med langt lavere oppløsning) før vi kommer opp i den samme bildekvaliteten på grunn av bufringen. 
+
+Heldigvis er det støtte for kablet nett, men uansett er dette en svakhet du bør være klar over om du vurderer å kjøpe Shield TV. 
+
+For vår del var ble GeForce Now-tjenesten temmelig uspillbar her på jobb, der spillene ofte lugget. 
+Hjemme også, men det skyldtes nok mer at undertegnede har 4G-bredbånd hjemme (gøy på landet ...) der jeg fikk for høye tall på "jitter" da Shield TV testet nettlinja. 
+
+4K-støtte 
+
+I motsetning til nye Apple TV er altså dette en boks som har støtte for 4K. 
+Det skal sies at vi ikke akkurat bader i 4K-innhold på nettet ennå, men spesielt Netflix og YouTube har en del godsaker på lur med så høy oppløsning. 
+
+Sitter du med en 4KTV uten Netflix-app kan altså denne boksen være redningen, og det er verdt å merke seg for alle som var tidlig ute og kjøpte en 4KTV. 
+
+Men husk: 
+For å få Netflix til å vise 4K må du også ha et deres Platina-abonnement, og gjerne en relativt stor TV for å merke forskjellen fra full HD-oppløsning. 
+For noen uker tilbake hadde vi to 55-tommere side om side der vi satt på et par meters avstand, og det skulle et trent øye til for å spore forskjellen overhodet. 
+
+På 65 tommer og oppover blir det imidlertid en stor forskjell, og video i 4K-oppløsningen kommer mer til sin rett, selv om slike strømmetjenester ofte komprimerer bildestrømmen for å holde bitraten nede. 
+
+For øvrig betyr ikke dette at alt du ser på Shield TV er med 4K-oppløsning. 
+Android TV-grensesnittet, for eksempel, leveres som vanlig – i full HD. 
+Det samme gjelder de fleste spill og apper. 
+
+Android TVs innebygde «Photos and videos»-app, derimot, kan vise bilder med 4K-oppløsning (det er forresten kun snakk om lokalt innhold – det finnes ikke en app for Googles bildetjeneste, Google Foto). 
+Det finnes også en håndfull 4K-spill, som Leo's Fortune, Never Alone og Machinarium. 
+I hvert fall i følge Nvidias egen liste – selv må vi innrømme at vi stiller oss tvilende til om Leo's Fortune faktisk er i 4K-oppløsning når vi spiller, for så skarpt ser det ikke ut. 
+
+Også en Chromecast 
+
+Mens Apple har Airplay, har Google sin tilsvarende teknologi i Google Cast. 
+Som på øvrige Android TV-bokser (og TV-er) får du også full Chromecast-støtte i pakka her, slik at du kan sende video, musikk og bilder direkte fra en mobiltelefon, et nettbrett eller en PC. 
+
+Android har blant annet skjermspeiling innbakt og bred støtte for Chromecast, mens du også vil finne Chromecast-støtte på utvalgte iOS-apper. 
+Og til og med noen for Windows Phone. 
+
+Flere bruksområder 
+
+På baksiden av Nvidia Shield TV sitter det to USB-porter, og om du vil, kan du koble til en ekstra harddisk, putte i en minnepenn eller lignende for å få tilgang til innholdet som er lagret der. 
+I tillegg finnes en micro SD-port som du kan putte kompatible minnekort i. 
+Den har også Bluetooth, slik at du kan bruke eksternt tastatur, mus og lignende. 
+
+Når Android Marshmallow ankommer Shield TV (den kjører fortsatt Lollipop), vil det også bli mulig å formattere ekstern lagring, slik at du kan bruke det som om det var vanlig lagringsplass på enheten. 
+
+I tillegg finnes det flere mediesenterapper som Plex, Kodi og så videre for deg som måtte ha mediefiler lagret i nettverket hjemme. 
+
+God ytelse 
+
+Vi har prøvd en god håndfull apper og spill mens vi har testet, og Nvidia Shield TV fremstår som en svært potent maskin hva gjelder ytelsen. 
+
+Vi sjekket tingenes tilstand ved å kjøre 3DMark-testen, som måler 3D-ytelsen, noe vi også gjør på alle mobiltelefoner vi tester. 
+Mens dagens toppmodeller scorer rundt 25.000 i denne testen, leverer Nvidia Shield TV langt over – 43.787 poeng. 
+
+Og så og si alt vi har prøvd av spill flyter som en lek på Shield TV. 
+Unntaket her av de vi har spilt er Asphalt 8: Airborne, som vi også opplevde som litt tungrodd da vi testet nye Apple TV. 
+Det kan selvsagt ha med hvor effektiv programmeringen er også. 
+
+Nvidia hevder i hvert fall at Shield TV er rundt tre ganger så sterk på 3D-ytelse som Apple TV. 
+
+Ikke fullt så oversiktlig app-butikk 
+
+Sammenligner vi med Apple TV, har Google litt å gå på hva gjelder innhold og struktur i app-butikken. 
+
+Den virker ganske enkelt litt primitiv – rett og slett bare en matrise med apper og spill. 
+
+Det oppleves også litt rotete at Nvidia har sin egen spillbutikk ved siden av, Shield Games, med lenker direkte inn i Googles app-butikk om du trykker på et spill. 
+I tillegg kommer enda et valg – GeForce Now; tjenesten vi omtalte over. 
+
+En fordel er imidlertid at stemmesøket fungerer brillefint selv om vi snakker norsk og fletter inn engelske skuespillernavn og den slags i språket. 
+Men du får bare treff fra Google-butikken og YouTube, og ikke fra Netflix eller Google Musikk (Googles strømmetjeneste). 
+Det merkelige er at det står nederst på skjermen at søket samler inn søkeresultatet fra fem andre apper, men etter noen sekunder blir det bare borte. 
+
+Ting som dette gjør at Android TV fortsatt har et snev av «beta-preg» i våre øyne, men jevnt over fungerer det meste smertefritt. 
+
+Hjemskjermen er oversiktlig med anbefalinger av filmer, musikk, YouTube-videoer, spill og lignende, og så er spill og apper gruppert på hver sin linje. 
+
+To versjoner 
+
+Nvidia Shield TV selges i to versjoner her til lands. 
+Den ene med 16GB lagringsplass (som kan utvides med minnekort etc), mens pro-utgaven, som vi har testet, selges med 500GB lagringsplass. 
+Prisforskjellen er en snau tusenlapp – 1900 og 2800 kroner. 
+Begge selges med håndkontrollen avbildet under. 
+
+Vi er også godt fornøyde med håndkontrollen. 
+Den kan minne om Microsoft-utgaven for Xbox, men har i tillegg berøringsfølsomme felter, samt volumkontroll direkte på kontrolleren. 
+
+Dessuten kan du plugge i et headset og strømme lyden trådløst fra Shield TV, og den har innebygd mikrofon. 
+
+Litt synd, må vi si, at man ikke også får med den vanlige fjernkontrollen (avbildet) i pakken. 
+En stor håndkontroller på stuebordet er liksom ikke like elegant som en liten fjernkontroll, så den må man i så fall kjøpe ekstra. 
+
+Prisen ligger på rundt 500 kroner. 
+
+Konklusjon 
+
+I motsetning til sin argeste konkurrent, Apple TV, har Nvidia Shield TV støtte for 4K. 
+Det kan være verdt å satse på om du har en stor 4K-TV og er kresen på bildeskarpheten; spesielt om TV-en din ikke har 4K-støtte i Netflix og YouTube-appene fra før. 
+På en mindre TV (fra 55" og nedover) tviler vi dog på at veldig mange vil oppdage en signifikant forskjell på normal betraktningsavstand. 
+
+Shield TV er også en svært fleksibel TV-boks. 
+Eksempelvis kan du koble til eksterne harddisker, kjøre Plex eller Kodi som mediesenterløsning, installere VPN-klienter, caste innhold fra telefon, nettbrett eller PC, direktesende spilling på Twitch og mer til. 
+Den har også 7.1 surround-støtte og solid spillytelse, selv om den da møter sterk konkurranse fra Xbox og Playstation. 
+Prislappen for pro-utgaven er også i samme klasse som de nevnte spillkonsollene. 
+
+Er du glad i å spille, er GeForce Now-tjenesten verdt en titt, der du kan strømme spill fra nettet mot en månedlig avgift. 
+Det fordrer imidlertid at du har en solid nettlinje og ruter hjemme. 
+
+Vi sitter igjen med en liten følelse av at dette produktet ikke er for alle, og at folk flest™ nok vil ha vel så mye glede av en Apple TV eller av en Nexus Player. 
+
+Men om Nvidias fordeler frister, og du har kjapp nettlinje, gir vi i hvert fall tommelen opp. 
+
+Tusen takk til Elkjøp som lånte oss Nvidia Shield TV Pro til test! 
+
+nVidia Shield Pro Android TV 500GB 

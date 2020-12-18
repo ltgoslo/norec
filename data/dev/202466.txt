@@ -1,0 +1,139 @@
+Apples nye lekkerbisken kan bli et adapter-mareritt
+…men kanskje vil vi i fremtiden sette pris på at Macbook Pro bare har USB-C-porter. 
+
+Det har gått lang tid siden Apple sist oppdaterte sine Macbook Pro-maskiner. 
+Faktisk må vi helt tilbake til sommeren 2015 da disse maskinene sist fikk en oppgradering, og tidligere i høst kunne vi rapportere om at de fleste Apple-produktene var på overtid. 
+
+Undertegnede har brukt Mac siden 2007, og tidligere i høst ble min seks år gamle Macbook Pro pensjonert til fordel for en ny. 
+Det var selvsagt litt ergerlig siden jeg "visste" at en ny var rett rundt hjørnet, men det var akutt behov for en ny. 
+
+Men etter å ha prøvd den nye varianten – skulle jeg ønske at jeg kunne ha ventet lenger? 
+
+Ikke helt. 
+Jeg setter nemlig veldig pris på å ha en HDMI-utgang og spesielt en SD-kortleser i maskinen; all den tid jeg både overfører bilder fra speilreflekskameraet og kobler maskinen til TV-en ny og ne. 
+
+Og så er det i 2016 fortsatt kjekt å ha helt vanlige USB-porter på maskinen, selv om det nok kan endre seg i fremtiden. 
+
+Samtidig er det ikke til å komme fra at den nye utgaven er svært lekker – den er tynnere enn før, styreflaten har vokst seg langt større og space grey-utgaven er endelig noe annet enn den kjedelige sølvfargen Apple har brukt i en årrekke. 
+
+Og så har årets Macbook Pro-utgave den såkalte Touch Bar-skjermen i stedet for funksjonstaster. 
+
+14 knapper borte 
+
+For starter vi med Touch bar er dette en bred skjerm som nå har erstattet de gamle funksjonstastene; altså den øverste rekka med knapper på tastaturet. 
+
+Du har fremdeles akkurat de samme mulighetene, som å justere lysstyrke, hoppe til neste sang, regulere volumet og den slags (også ved å dra i en skyvebryter), men Touch bar er i tillegg kontekst-sensitiv, altså der innholdet på den endrer seg ut fra hvilket program (og hvilken funksjon i programmet) du bruker. 
+
+Bruker du bilder-appen vil du blant annet lett kunne bla i bildearkivet via Touch Bar. 
+Skriver du i Pages er det enkelt å fikse tekstformattering og den slags, og jeg kan se for meg at Photoshop og lignende programmer, der mange funksjoner er godt gjemt, vil være ypperlige for Touch bar, som også lar deg tilpasse snarveiene via menyene. 
+
+Jeg må dog innrømme at jeg ikke helt ser nytten å ha bokmerkene der nede når man bruker en nettleser, å få ordforslag mens man skriver eller lagre/ikke lagre og lignende knapper når det spretter opp en dialogboks på skjermen – å flytte blikket fra skjermen og ned på denne ekstraskjermen er i mange tilfeller mer tungvint enn bare å trykke med muspekeren. 
+
+Da hadde det vært bedre med en berøringsfølsom skjerm (og tilhørende justeringer av grensesnittet i operativsystemet), men det er den altså fortsatt ikke på Macbook Pro, selv om nært sagt samtlige konkurrenter har berøringsfølsomme skjermer; mange av dem kan dreies hele veien rundt. 
+
+Vi må også innrømme at vi likte konseptbildene godt, der denne skjermen ble brukt mer som en statuslinje. 
+Kanskje er det en vei Apple vil gå i fremtidige oppdateringer. 
+
+Flatt tastatur, gedigen styreflate og Touch ID 
+
+Tastaturet har også fått en overhaling fra tidligere Macbook Pro-modeller, og er nå det samme som på Macbook-modellen. 
+
+Det betyr knapper med svært liten vandring, men allikevel god presisjon og tilbakemelding når du trykker på dem. 
+Det bråker litt mer enn det tradisjonelle Macbook-tastaturet, og avstanden mellom knappene er mindre enn tidligere. 
+
+Selv skriver jeg noe saktere på nye Macbook pro enn på tastaturet jeg er vant med (fra tidligere Macbooker), og med høyere feilrate, men dette er nok noe som ville ha utjevnet seg over tid. 
+Tallenes tale fra 10fastfingers var 112 ord per minutt med én feil på det gamle, og 99 ord per minutt med seks feil på det nye. 
+
+Styreflaten er gedigen og har vokst markant i forhold til forrige generasjon. 
+Den er svært presis, støtter flerberøring og MacOS har mange kjekke snarveier om du bruker flere enn én finger. 
+
+Også her brukes Apples «Force Touch»-teknikk som gjør at det føles som om du trykker den ned selv om ingenting beveger seg, og som i enkelte programmer har ekstra funksjonalitet, som å forhåndsvise nettsider bak lenker i safari eller spole raskere i QuickTime. 
+
+På høyre kant av Touch Bar-stripa har Apple nå lagt en Touch ID-sensor. 
+Dermed kan du enkelt låse opp maskinen ved å berøre feltet med fingeren, og det kan også brukes til kjøp i App Store, til passordløsninger som 1Password og om du skal kjøpe ting på nettet med Apple Pay, der du slipper å dra frem kredittkortet for å taste inn alle sifrene. 
+
+Fabelaktig skjerm 
+
+Macbook Pro er riktignok en kostbar maskin, men heldigvis er det lite Apple har spart på. 
+Sammenlignet med tidligere modeller er skjermen blitt enda mer lyssterk; 67 prosent lysere – opp fra 300 til 500 nits, og det merkes godt side om side med den forrige modellen. 
+
+Oppløsningen på 13-tommeren er for øvrig 2560x1600, mens 15-tommeren kan skilte med 2880x1800 som tidligere. 
+Det gir et meget skarpt bilde, selv om flere Windows-konkurrenter kan skilte med enda høyere punkttetthet. 
+
+Som nevnt er den imidlertid ikke berøringsfølsom, og i en verden der mange av konkurrentene kan legges helt flate og brettes hele veien rundt, er det fortsatt mangelvare på Apples toppserie. 
+
+Kun USB-C 
+
+Ved siden av at Macbook Pro er en dyr maskin, er det spesielt én ting vi må bemerke hva gjelder minuspunkter, og det er at maskinen har begrenset med tilkoblingsmuligheter. 
+
+Lydutgangen er riktignok bevart, men annet enn det er det kun Thunderbolt 3-porter med USB-C-formfaktor på Macbook Pro; fire i tallet. 
+Det betyr med andre ord at Apples kjekke Magsafe-lader ikke lenger er å finne her, som via magnetisme klikket seg lett på plass, og som i tillegg bare falt ut om du snublet i ledningen. 
+
+En fordel er imidlertid at du kan bruke hvilken som helst av de fire portene til lading av maskinen. 
+Dessuten er langt rimeligere å kjøpe en ny ladekabel om den skulle bli slitt, noe som koster ganske mye på eksisterende modeller. 
+Kabelen er riktignok en del kortere (to meter) enn den som har fulgt med maskinen tidligere. 
+
+Men hva med alt det andre? 
+Det er ikke så mye USB Type C-utstyr ennå, og dermed er du henvist til å kjøpe overgangskabler for å få gammelt utstyr til å virke (og det følger ingen med i esken). 
+Det samme gjelder om du vil koble maskinen til en TV eller projektor via HDMI, siden maskinen mangler den utgangen. 
+
+Ja, selv for å lade de nye iPhone 7-modellene, trenger du en overgangskabel, siden iPhone 7 bruker Lightning-utgang. 
+Der hadde det vært fordelaktig om Apple byttet fra Lightning til USB-C på iPhone i samme slengen. 
+
+Fotografer vil nok også irritere seg over at Apple har fjernet SD-kort-porten, som gjør det langt mer tungvint å overføre bilder fra et speilreflekskamera. 
+Da trenger du en kortleser med USB-C eller en gammel kortleser og en overgang. 
+Eventuelt et kamera med WiFi-støtte, selv om dette tradisjonelt ikke går like raskt som å nappe ut kortet og putte det i maskinen. 
+
+Det skal dog sies at USB-C er på full fart inn i mange produktkategorier, og at man om et par år kanskje ikke vil savne de gamle portene i like stor grad, men enn så lenge vil en Macbook Pro-kjøper nok bli nødt til å bruke adaptere ved tilkobling av ekstrautstyr. 
+
+Kjapp i skøytene 
+
+Vår testmaskin er 13-tommersutgaven med Touch bar som starter på 19.000 kroner; da med en Intel Core i5-prosessor som snurrer på 2,9GHz. 
+Akkurat vår modell koster to tusen ekstra, med 512GB lagringsplass (versus 256GB), men ellers lik grunnmodellen. 
+13-tommeren kan for øvrig konfigureres opp til Core i7 3,3GHz, 1TB SSD og med 16GB arbeidsminne fremfor 8GB som er standard. 
+
+Som forventet oppleves PC-en lynrask i daglig bruk. 
+Spesielt må vi trekke frem SSD-disken, som er særdeles rask. 
+Når vi kjører Blackmagic-testen for å måle ytelsen, stanger lesehastigheten i taket på 2 gigabyte i sekundet, og skrivehastigheten er også farlig nær toppen med over 1700 megabyte i sekundet. 
+Det er uten sidestykke den raskeste vi har sett i en bærbare PC. 
+
+Apple har ikke gått for de nye Kaby Lake-prosessorene i de nye Macbook Pro-maskinene, som er forståelig siden de raskeste av dem ennå ikke er klare før på nyåret. 
+Dermed er det Skylake-prosessorer innabords – 2,9GHz Core i5 på 13-tommeren med Touch Bar og 2.6GHz Core i7 på 15-tommeren. 
+
+15-tommeren har for øvrig et dedikert AMD Radeon 450-grafikkort, mens 13-tommeren har en integrert variant i form av Intel Iris Graphics 550. 
+
+Sammenlignet med Iris Pro, som satt i forrige generasjon, viser våre målinger i GFXBench at den den nye 13-tommeren yter cirka 30 prosent bedre på grafikk enn den forrige 15-tommeren. 
+Men noen utpreget spill-PC er den allikevel ikke. 
+
+For deg som er opptatt av støy, kan vi meddele at nye Macbook Pro er svært beskjeden hva gjelder bråk fra viftene. 
+Du hører dem ved veldig tung belastning (som å kjøre ytelsestester), men det er kun snakk om svak og svært lite sjenerende susing; i hvert fall sammenlignet med forrige generasjon, som på tilsvarende øvelse bråker langt, langt mer. 
+
+Slik er batteritiden 
+
+Batterimessig oppgir Apple 10 timers trådløs surfing eller filmavspilling, som pleier å stemme godt overens med virkeligheten. 
+
+Vi landet på drøye åtte timer den ene dagen, men da med noe høyere enn normal belastning, der vi gjorde ytelsestester og den slags. 
+Skjermen hadde vi på 50 prosent lysstyrke, så med litt mer sparemodus på skjermen og mer normal bruk, vil vi tro at 10 timer er et ganske realistisk estimat. 
+
+Maskinen lades også ganske raskt. 
+På én time blank gikk vi fra 0-72 prosent, og i løpet av en neste halvtimen var vi oppe i 95 prosent gjenværende batteri. 
+
+Konklusjon 
+
+Apple MacBook Pro - 2,9GHz DC 8GB 256GB 13" 
+
+Macbook Pro er blant de aller dyreste bærbare PC-ene på markedet, og konstruksjonsmessig er det lite å utsette på. 
+Maskinen oser av kvalitet, den har en fantastisk (og stor) styreflate, flott og skarp skjerm, god batteritid og lynrask SSD-disk. 
+Selv om den bruker forrige generasjon Intel-prosessorer oppleves den også som svært kjapp i daglig bruk, som seg hør og bør i denne prisklassen. 
+
+Trekkplasteret denne gangen er den nye Touch bar-skjermen, som erstatter den øverste raden på tastaturet. 
+Akkurat denne synes vi har noe begrenset nytte i det daglige, der vi stort sett heller klikker med muspekeren (eller bruker hurtigtaster) enn å flytte øynene ned på tastaturet og finne frem til riktig Touch bar-knapp, men etter hvert som tredjeparter støtter denne i større grad, kan det godt være at det vil være en kjekk ekstrafunksjon, spesielt i mer avanserte programmer. 
+
+Vi liker imidlertid godt feltet til høyre; Touch ID-sensoren. 
+Den gjør det enkelt å logge på maskinen (støtter også flere brukere), og den kan i tillegg brukes for å bekrefte identiteten i passordprogrammer, ved kjøp i App Store, betaling med Apple Pay og den slags. 
+
+Ved siden av en svært høy pris, er det største minuspunktet at vi kun finner Thunderbolt 3/USB-C porter på nye Macbook Pro. 
+Her ligger Apple veldig i forkant av markedet, som betyr at du i hvert fall i en overgangsperiode vil være henvist til adaptere for å kunne koble til ekstrautstyr, som mus, skjerm og ekstern lagring. 
+De koster selvsagt ekstra, i tillegg til at de kan være lette å glemme igjen. 
+
+Og så klarer vi ikke helt å tilgi at Apple også drepte SD-kort-sprekken, som fotografer og andre med speilreflekskamera nok vil savne sårt. 

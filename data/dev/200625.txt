@@ -1,0 +1,68 @@
+Intel Compute Stick
+PC på størrelse med en lighter. 
+Men hva duger den til? 
+Vi har testet. 
+
+Undertegnede kjøpte sin første PC i 1995. 
+Den kostet 15.000 kroner, og var etter datidens målestokk relativt potent. 
+
+20 år senere sitter jeg med en PC i hendene. 
+Den veier bare noen gram, har 240 ganger mer arbeidsminne, 64 ganger større lagringsplass, koster én tiendedel av hva jeg betalte den gang (og da har jeg ikke korrigert for inflasjon), og er dessuten mange ganger raskere. 
+
+Utviklingen har rett og slett vært helt absurd. 
+
+Minimalistisk fra Intel 
+
+PC-en det er snakk om er den mye omtalte Compute Stick fra Intel. 
+Den har en Intel Atom-prosessor med fire kjerner, arbeidsminne på 2GB, 32GB flashlagring (19GB tilgjengelig) og kjører Windows 8.1. 
+
+I tillegg til innebygd trådløst nettverkskort, har den også støtte for Bluetooth 4.0, en USB 2.0-port til ekstrautstyr samt minnekortleser for microSD-kort. 
+Dermed kan du enkelt utvide lagringsplassen med et kort på inntil 128 GB. 
+
+Hele sulamitten har altså fått plass i et kabinett på størrelse med en lighter, og puttes direkte i skjermens HDMI-inngang. 
+I tillegg trenger den litt strøm. 
+Det følger med en strømadapter, men putter du Compute Stick i en TV, kan den muligens få nok strøm ved å koble strømkabelen i en ledig USB-port. 
+
+Vi understreker muligens. 
+
+I vårt tilfelle var ikke USB-porten i stand til å forsyne PC-en med nok strøm til å kjøre stabilt. 
+Så snart vi brukte stikkontakten i veggen i stedet, gikk det mye bedre. 
+
+Du trenger naturligvis tastatur og mus for å kunne bruke PC-en. 
+Her har du valgmulighet mellom en vanlig løsning eller Bluetooth. 
+Benytter du førstnevnte, må du bruke USB-porten til mottakeren. 
+Det gjorde vi, og det fungerte utmerket. 
+
+Slik er den i bruk 
+
+Lagringsplassen er flashbasert, og innlasting av Windows tar bare noen sekunder. 
+Oppstart av standardprogrammer og apper går også overraskende kjapt, men vi vil ikke anbefale å ha flere programmer kjørende samtidig. 
+Ikke bare går det tregere, den stakkars lille prosessoren blir varm, og må kjøles. 
+Til det bruker den en vifte. 
+
+Viften er liten og rotasjonshastigheten kan bli høy. 
+Støyen den da genererer er akkurat så høy at man kan finne på å stille spørsmål som «hører du den lyden? 
+Hva er den ulelyden for noe?». 
+Ikke plagsomt når du spiller musikk eller ser film, men den kan absolutt høres helt fra sofaen når PC-en belastes. 
+
+YouTube-videoer i inntil 720P-oppløsningen går helt fint. 
+1080P sliter den ofte med, men slett ikke alltid. 
+Videofiler som streames fra serveren vår via det trådløse nettet fungerer også i all hovedsak fint i oppløsninger opp til 720P (1280 x 720 piksler) gjennom Windows Media Player. 
+
+Så ja - den kan fint brukes som et enkelt mediesenter, med egnet programvare som for eksempel Kodi (tidligere XBMC). 
+
+I utgangspunktet ville vi aldri brukt Compute Stick til spilling, men legendariske (og fortsatt meget imponerende) Trackmania Forever var absolutt spillbart i oppløsningen 800 x 600 piksler. 
+
+I videoen under viser vi deg litt av brukeropplevelsen til video- og musikkstreaming, bilder og spill, på en 50-tommer i stua: 
+
+Konklusjon 
+
+Intel Compute Stick er en imponerende liten sak som kan brukes til enkle oppgaver som musikkstreaming, videostreaming i lavere oppløsninger og nettsurfing. 
+Den har klare begrensninger hva angår ytelse, og kun én USB-port begrenser også tilkoblingsmulighetene. 
+
+Denne typen PC-er er imidlertid i startgropa, og vi gleder oss til å se hva som kan utrettes med generasjon to og tre. 
+
+Det skal også bli interessant å se hvor lang tid det går før denne typen maskinvare og funksjonalitet får plass i helt vanlige smartmobiler. 
+Vårt tips er at det skjer innen et par år. 
+
+Intel Compute Stick STCK1A32WFC 

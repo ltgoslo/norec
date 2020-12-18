@@ -1,0 +1,62 @@
+TEST:Siri på norsk (iOS 9) 
+
+Med iOS 9 kan du endelig bruke den digitale assistenten Siri også på norsk. 
+Men hvor mye hjelp er det egentlig å få? 
+Vi har testet. 
+
+Med siste oppdateringen av operativsystemet i iPhone og iPad, iOS 9, kom endelig den digitale assistenten Siri i norsk språkdrakt. 
+Det betyr at du kan stille muntlige spørsmål på norsk, og så vil Siri prøve å besvare dem så godt hun kan - basert på de hjelpemidlene hun har tilgjengelig. 
+
+Hvor godt hun hjelper deg varierer veldig, fra fullstendig håpløst til meget bra. 
+
+Nå skynder vi oss å legge til at norske Siri nettopp er lansert, og at tjenesten sannsynligvis kommer til å bli mer treffsikker i tiden som kommer. 
+Men tjenesten er uansett lansert, og må derfor finne seg i å bli satt under lupen. 
+
+Dette er vi godt fornøyd med 
+
+Siri er ganske flink til å ta kommandoer, av typen «Ring til NN» «skriv epost», «send SMS», «opprett avtale» og lignende. 
+Dette er ypperlig når du for eksempel kjører bil og må holde øynene på veien. 
+
+Talegjenkjenningen er også temmelig habil, så vi hadde ingen problemer med å sende følgende epost til kollega Pål Joakim: 
+
+På samme måte kunne vi enkelt sende en SMS: 
+
+Og opprette en avtale: 
+
+Å spørre om vær og klokkeslett går også veldig greit: 
+
+Å finne nærmeste hotell og dagligvarebutikk er også stort sett kurant: 
+
+Når du trykker på ett av søkeresultatene, får du opp kart og veibeskrivelse. 
+De røde prikkene markerer de forskjellige dagligvarebutikkene: 
+
+Å søke opp kjente personer for å få en beskrivelse, fungerer også: 
+
+Dette er vi mindre fornøyd med 
+
+Å finne nærmeste kinarestaurant viste seg å bli en vrien oppgave. 
+Her er det tydelig at Siri mener at kinarestauranter bør ligge i Kina: 
+
+Bussholdeplasser er også noe Siri er usikker på: 
+
+Fotballkamper har Siri absolutt ikke peiling på. 
+En vanlig respons er å vise søkeresultater fra Bing: 
+
+Det samme skjedde da vi søkte etter telefonnummeret til Aller Media: 
+
+Rutetabeller for NSB hadde vært veldig fint å få på plass. 
+Her ser du hvordan det gikk da vi spurte om neste tog: 
+
+Deretter åpnet kart-appen, uten at den gjorde oss noe klokere... 
+
+Foreløpig konklusjon 
+
+Siri på norsk er foreløpig langt mindre treffsikker enn sin amerikanske navnesøster. 
+Aller best er hun på kommandoer, finne ting i nærheten og gjøre Wikipedia-oppslag. 
+
+En digital assistent som tuller for mye, kommer ikke til å bli brukt, tror vi. 
+Det blir litt som å få et nettbrett med berøringsskjerm som bare reagerer på halvparten av berøringene; slikt blir fort slitsomt, og dermed havner det nesten alltid i en skuff. 
+Og der blir det værende. 
+
+Vi har likevel et godt håp om at Apple kommer til å finpusse og finjustere norske Siri i tiden som kommer. 
+Inntil dette skjer, forblir funksjonen mer morsom enn nyttig. 

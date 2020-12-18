@@ -1,0 +1,99 @@
+Trådløst mesh-nett på høygir
+Svært enkelt og brukervennlig mesh-nettverk, spesielt tilpasset store boliger. 
+
+Har du problemer med å få den trådløse ruteren din til å dekke hele boligen din? 
+Kanskje du sliter med signalene i kjelleren, loftet eller enkelte rom? 
+Da er du i målgruppen for såkalte mesh-løsninger. 
+
+Slik fungerer mesh 
+
+I motsetning til den tradisjonelle trådløsruteren, består en mesh-løsning av to eller flere trådløse aksesspunkter, plassert på strategiske plasser rundt om i huset. 
+På den måten kan du sikre at hver minste krok får knallgod dekning. 
+
+Kommunikasjonen mellom nodene og ut på det store internettet, skjer som regel trådløst - gjerne i et eget, beskyttet nett. 
+Den kan også skje via kabel, dersom du bor i en «problem-bolig» med mye betong, vannbåren varme og annet som stopper trådløse signaler effektivt - men for de fleste er ikke dette et tema. 
+
+Siden du slipper kabel mellom dem, er du sikret svært god fleksibilitet med hensyn til plassering. 
+Nodene er dessuten ofte både små og stuevennlige, i til forskjell fra store rutere med utstikkende antenner. 
+
+Alle de store produsentene av trådløse rutere, har nå også mesh-løsninger myntet på privatboliger - og nesten samtlige av dem er myntet på helt vanlige folk, uten særlig kunnskap eller interesse for trådløse nett utover at det skal fungere stabilt og raskt. 
+Vi har testet en rekke av dem, du finner lenke til dem nederst i denne artikkelen. 
+
+Etterfølger til en av favorittene våre 
+
+TP-Link Deco M5, som vi testet i fjor, utmerket seg som en av de aller enkleste løsningene å sette opp og bruke. 
+Dessuten var det blant de rimeligste mesh-løsningene vi var i befatning med, men det kunne vi umulig oppdage under bruk; M5 var både stabilt og forsynte vår bolig på rundt 250 kvadratmeter med god dekning overalt. 
+
+Denne gangen har turen kommet til etterkommeren, Deco M9 Plus, som har blitt vesentlig oppgradert og skal kunne forsyne boliger på inntil 600 kvadratmeter med full trådløsdekning, skal vi tro produsenten. 
+M9 Plus skal også være i stand til å håndtere mange flere tilkoblede enheter samtidig på en effektiv måte, produsenten lover inntil 100 enheter. 
+Disse vil da dele på en total båndbredde på 2,2 Gbps (400 Mbps på 2,4 GHz-båndet, og 866 + 866 Mbps på 5 GHz-båndet. 
+Mer om det senere. 
+
+Tre noder 
+
+Settet består av tre identiske, runde noder, som hver måler 14,4 x 4,6 cm (M5 målte 12 x 3,8 cm). 
+Hver har to gigabit nettverksporter og en USB-port. 
+
+Sistnevnte kan for øyeblikket ikke brukes til å koble til lagringsenheter eller skrivere - men slik funksjonalitet kan muligens komme i fremtidige oppdateringer av fastvaren. 
+Gigabit-portene kan for eksempel brukes til å koble nodene sammen via kabel, til NAS-er, spillkonsoller og annet som kan bruke nettverkskabel. 
+
+Superenkelt 
+
+Den første noden kobler du til bredbåndsuttaket eller modemet med den medfølgende nettverkskabelen. 
+Deretter laster du ned Deco-appen på mobilen din, som tar deg gjennom installasjonsoppsettet steg for steg. 
+Det innebærer egentlig ikke så mye annet enn å få noden koblet til internett, gi navn og passord til det trådløse nettet ditt, og navngi noden (type loft, stue og så videre). 
+Alt er godt illustrert, og den lille av tekst du må forholde deg til, er på god norsk. 
+
+Under finner du skjermbilder fra appen. 
+Klikk på dem for å se dem i full størrelse: 
+
+Av alle løsningene vi har testet, er dette en av de aller enkleste. 
+Det anbefales imidlertid å følge veiviseren til punkt og prikke. 
+Det innebærer blant annet at du plugger inn den første først, kjører installasjonen med tilhørende oppdatering av fastvaren (skjer automatisk), før du plugger neste node i stikkontakten og gjentar prosessen. 
+
+Nytt er også støtte for ZigBee-standarden og en rekke forskjellige smarthusløsninger rett i appen, inkludert Google Nest og Philips Hue. 
+
+Det viktigste på plass 
+
+Funksjonsmessig er den fortsatt enkel i forhold til klassiske rutere, men det som er viktig for mange er på plass, inkludert gjestenett, tre års forhåndsbetalt sikkerhetspakke fra Trend Micro og tidsstyring av nettilgang og foreldrekontroll med innholdsfiltrering. 
+Alt styres enkelt gjennom appen. 
+
+Vi opplevde imidlertid problemer med node nr 3, som ikke godtok å bli oppdatert med siste fastvare. 
+Vi løste imidlertid problemet kjapt ved å holde inne nullstill-knappen i noen sekunder og kjøre installasjonen av noden på nytt. 
+
+Vår bolig har en grunnflate på rundt 80 kvadratmeter og totalarealet på rundt 250 kvadratmeter fordeler seg over tre etasjer. 
+Da er det mest hensiktsmessig å plassere en node i hver etasje, noe som også illustreres i veiviseren. 
+
+Superdekning - med bare to noder! 
+
+Vi oppdaget raskt at dekningen var blitt betydelig bedre siden testen av M5. 
+Faktisk hadde vi ingen problemer med å makse hastigheten på vår bredbåndslinje på 250 Mbps begge veier - med bare to noder tilkoblet. 
+Det bekrefter at M9 Plus virkelig er myntet på virkelig store boliger. 
+
+Med tre noder tilkoblet beveget vi oss derfor utenfor boligen for å sjekke rekkevidden. 
+Her skal signalene gå gjennom tykke vegger med isolasjon, og som ventet avtok hastigheten relativt kjapt utendørs. 
+Men på hemsen i garasjen, 15-20 meter fra nærmeste node, kunne vi fortsatt surfe med hastigheter på 70-80 Mbps. 
+Det er absolutt bra, men vi har målt høyere før med de råeste ruterne og mesh-løsningene. 
+
+I tabellen under har vi sammenlignet hastighetene på de fire testpunktene våre mot testvinneren vår fra desember, Zyxel Multy X 
+- et sett som består av kun to noder. 
+Begge løsningene kan imidlertid suppleres med flere noder ved behov og dermed dekke større områder: 
+
+Som du ser av tabellen, er hastigheten i garasjen høyere med Zyxel Multy X enn med M9 Plus, så førstnevnte er fortsatt den mest optimale løsningen i vår bolig med garasje. 
+Nærmeste node i dette tilfellet står på samme sted, og merk samtidig at Zyxel-noden er en del større og kraftigere. 
+
+Noe varierende topphastighet 
+
+Vi må også legge til at vi ved enkelte tilfeller fikk målinger som lå langt under det vi hadde forventet, nærmere bestemt rundt 70-80 Mbps. 
+Ved å koble ned forbindelsen og koble på igjen, økte hastigheten plutselig til 250 Mbps fra samme sted. 
+Den mest sannsynlige forklaringen er at Deco av en eller annen grunn har plassert oss i 2,4 GHz-frekvensbåndet, der hastigheten er langt lavere enn i 5 GHz-båndet (men rekkevidden er bedre). 
+
+Dette har vi også opplevd tidligere med såkalte «Smart Connect»-løsninger, og vi savner her muligheten til å bestemme selv om vi vil bruke 5 GHz-båndet eller 2,4 GHz-båndet. 
+Denne muligheten mangler på Deco M9 Plus, men er til gjengjeld tilgjengelig på de fleste andre mesh-løsningene vi har testet. 
+
+Konklusjon 
+
+TP-Link har nok en gang levert en god og brukervennlig mesh-løsning, denne gangen vesentlig mer potent enn forgjengeren M5. 
+Her trenger du minimalt med kunnskaper om nettverksoppsett, bare følg instruksene og du vil få meget god dekning i hele huset - samtidig som sikkerheten er godt ivaretatt. 
+
+Vi hadde litt problemer med en node som ikke ville oppdateres, og savner muligheten for å bestemme selv hvilket frekvensbånd vi vil bruke - men det vil neppe være et ankepunkt dersom bredbåndet ditt er på under 100 Mbps. 

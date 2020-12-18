@@ -1,0 +1,102 @@
+TEST:Netatmo Rain Gauge og Wind Gauge 
+
+Grunnpakke med ekstra innemodul, vind- og nedbørsmåler. 
+
+Det er mye vær her i landet, og aller mest vær er det nå på høsten. 
+Derfor er det ikke rart at det er det vi snakker om. 
+
+I lunsjpauser og på kafeene (og ikke minst i Dinsides kommentarfelt) diskuterer folk om Storm, Yr eller AccuWeather har mest korrekt værvarsling. 
+
+Nå har du muligheten til å måle været selv, og dermed slå i bordet med egne data. 
+
+For ja, vi har flere ganger triumferende konstatert at det er opptil fire graders forskjell på Yrs målinger i vårt nærområde og temperaturen i vår egen hage. 
+Ha! 
+
+Nyttig tilleggsutstyr 
+
+I mars i fjor testet vi Netatmos grunnpakke, med utendørs værmåler og nett-tilkoblet innedel. 
+Og i august i år testet vi ansiktsgjenkjenning fra samme franske selskap. 
+
+Denne gangen har vi sett på to tilleggsprodukter: 
+En nedbørsmåler til 699 kroner og en vindmåler til 999. 
+Nedbørsmåleren har vært på markedet en stund, mens vindmåleren etter planen skal komme på det norske markedet i løpet av november. 
+
+I tillegg har vi fått prøve en ekstra innendørsenhet for å måle temperatur, luftfuktighet og luftkvalitet. 
+Til sammen kan du bruke tre av disse i tillegg til hovedstasjonen. 
+
+Trøbbel med trådløst 
+
+I utgangspunktet slet vi litt med å komme på lufta. 
+Dette fordi vi for første gang prøvde å installere trådløst, noe som viste seg å ikke være helt enkelt. 
+
+Langt bedre gikk det da vi gjorde det på «gamlemåten», med PC og USB-kabel. 
+Et kjekt lite program lar deg velge hvilken enhet du vil installere, og vips er de integrert i systemet ditt. 
+
+Ansiktsgjenkjenningensheten Welcome var ikke slik, og er egentlig ikke en del av Netatmos værsystem. 
+Noe vindmåleren og regnmåleren definitivt er. 
+
+Også utendørsenheten som følger med i grunnpakka måler fuktighet. 
+
+Mer lokalt enn Yr 
+
+Samtidig henter appen og nettsiden som er knyttet til din konto og dermed dine målinger data fra eksterne værtjenester, slik at du får med deg værforholdene Netatmos standardenhet ikke måler. 
+
+Du får også varsel for dagene framover, og vår erfaring er at denne stort sett stemmer med det vi ser på Yr. 
+
+Dermed kan man jo spørre seg om det er nødvendig å bruke nærmere 1700 kroner i tillegg til grunnpakke som koster rundt 1400 for å få litt mer nøyaktige målinger av vind og nedbør. 
+
+Svaret gir seg vel selv: 
+Det er ikke nødvendig. 
+Men for vær-nerder gir det utvilsomt tilleggsverdi å se nøyaktig hvor mye regn eller snø som faller akkurat hos deg og hvor mye tak det er i kastene rundt hushjørnene der du bor. 
+
+Vindmåleren skiller for øvrig på konstant vind og vindkast, og dette oppgis som to ulike verdier. 
+
+Fungerer på det meste 
+
+Alt blir presentert oversiktlig både på mobil-, nettbrett, PC og Mac. 
+Netatmo har app både for Android, iOS og Windows Phone. 
+Det siste er relativt sjelden vare for slike nisjeprodukter, og dermed noe vi må rope hurra for. 
+
+For å gjøre endringer i måten ting vises på, må du imidlertid inn på PC eller Mac. 
+For eksempel kan du endre navnene på de ulike enhetene, slik at det er lettere å holde styr på dem. 
+
+Alt er likevel ikke fryd og gammen. 
+I tillegg til den trøblete trådløse installasjonen har produktene noen utfordringer rent praktisk. 
+
+Klønete batteriskift 
+
+For eksempel er det ikke helt lett å skifte batteri i vindmåleren. 
+Du må ut og inn igjen med fire lange skruer, og det tar en stund før du finner riktig spor for å få lokket på igjen. 
+
+Nedbørsmåleren er greiere, men her er problemet at det nesten er håpløst å se hvilken vei batteriene skal snus. 
+Den svake tegningen som er preget i den hvite plasten kan dessuten misforstås, slik at du kan komme til å bytte om pluss og minus. 
+
+Heldigvis trenger du ikke skifte batterier ofte. 
+Netatmo oppgir ikke hvor lenge batteriene varer eller hvor mye strøm de bruker, men temperaturmåleren skal ifølge Netatmo vare ett år før du må bytte batterier. 
+Etter alt å dømme bruker regn- og vindmåleren enda mindre strøm. 
+
+Dramatisk måling av CO2 
+
+Da vi først installerte den ekstra innemåleren steg CO2-innholdet i lufta til over 2000 ppm (parts per million). 
+De fleste land har satt maksimumsverdier til 1000 - 1200, så dette så jo ille ut. 
+
+Heldigvis er det slik at det tar noen timer før målingen av inneklima stabiliserer seg, og morgenen etter viste enheten på soverommet vårt langt hyggeligere 395. 
+
+Selv om Netatmo anbefaler maksimalt ti meters avstand mellom hovedenhet og tilleggsenheter, plasserte vi nedbørs- og vindmålerne omtrent dobbelt så langt unna. 
+Utslaget på antennemeteret var riktignok helt nede på én strek, men i praksis fungerte det fint. 
+
+Alt i alt var det uproblematisk å legge disse to enhetene til vårt eksisterende system. 
+Dette fungerer utmerket alene, men med nedbørsmåler, vindmåler og ekstra inne-enhet får du enda mer informasjon. 
+
+Vindmåleren bør nok helst festes på taket eller veggen (Netatmo leverer en brakett for dette), men kan også fint stå på et høyt punkt ute på bakken. 
+
+Du greier deg jo med en hundrelapp... 
+
+Du jo fint greie deg med et vanlig termometer til under 40 kroner og eventuelt supplere med et kombinert inne-termometer og hygrometer (luftfuktighetsmåler) til under femtilappen. 
+
+Det finnes også svært mye rimeligere løsninger fra Oregon, Prologue og andre (se Dinsides guide og prisoversikt fra Prisjakt). 
+
+Vi vet også om andre løsninger der du kan se målingene på nett, men da må du gjerne opp i den langt dyrere halvproff-klassen. 
+
+Netatmo-systemet koster over 5000 kroner fullt ubygd (grunnpakke med inne- og utestasjon, vindstasjon, nedbørsmåler og tre ekstra innendørsenheter). 
+Men da har du altså en komplett løsning for å følge med på klimaet nøyaktig der du er. 

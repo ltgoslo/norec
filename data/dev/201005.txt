@@ -1,0 +1,108 @@
+Lenovo U31-70
+En nydelig PC, og det til en pris som bør passe mange. 
+
+Du har kanskje lagt merke til at PC-prisene har begynt å stige? 
+Det skyldes i stor grad at kronekursen er lavere enn den har vært på mange år. 
+
+Dette har spesielt vært merkbart i økonomisegmentet, der mange maskiner enten har blitt dyrere eller har fått enklere maskinvare (for eksempel mindre RAM). 
+
+Men også i høyere prisklasser har økte priser gjort seg gjeldende. 
+Blant annet har Apples Mac-maskiner blitt betydelig dyrere det siste halvåret, ifølge Prisjakt. 
+
+Men noen er fortsatt gode på pris 
+
+Lenovo har på relativt kort tid blitt det mest solgte PC-merket i Norge. 
+En av årsakene er at de har vært imponerende gode på pris i forhold til spesifikasjoner. 
+Det er også PC-er som ofte scorer bra i tester, og bør i så måte ikke være noe dårligere valg enn de argeste konkurrentene. 
+
+Dagens test-PC er en kompakt og lekker sak i «ultrabook»-segmentet. 
+U31-70 har dessuten et hvitt chassis som skiller seg ut i mengden, og nok en gang byr Lenovo på mye for pengene. 
+Hør bare her: 
+
+Skjerm: 13,3" matt IPS-skjerm med full HD-oppløsning (1920 x 1080 piksler) Prosessor: 
+Intel Core i5-5200U RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD 5500 Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 (takler 4K på ekstern skjerm i 30Hz) USB-porter: 2 x USB 3.0 + 1 x USB 2.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Qualcomm 802.11AC Kablet nett: 
+1000 MBit Annet: 
+OS: 
+Windows 8.1 (kan oppgraderes til Windows 10 uten kostnad fram til august 2016) Størrelse: 32 x 23 x 1,9 cm Vekt: 
+1,6 kg Pris: 
+Fra 6.490 kroner (jf Prisjakt 20.11.2015) 
+
+Her får du altså mye for pengene. 
+Full HD IPS-skjerm, 8 GB RAM og 256 GB SSD er spesifikasjoner du ofte må betale mer for. 
+Vi kan legge til at chassis er godt oppstivet, blant annet takket være lokk med aluminiumsbelegg. 
+Bunnplaten er av plast. 
+
+Godt med tilkoblinger 
+
+En annen, litt uvanlig ting ved denne PC-en er at den er såpass bra utstyrt hva tilkoblinger angår. 
+Tre USB-porter, fullstørrelses 
+HDMI- og nettverkskontakt er ikke hverdagskost i klassen. 
+Vi kan også legge til at SSD-en er en vanlig 2,5" SATA-versjon, som kan byttes ut med en harddisk om du heller skulle prioritere svær lagringsplass enn hastighet. 
+
+Designmessig falt den umiddelbart i smak i redaksjonen, kanskje spesielt blant den feminine delen, men også mennene syntes den så snasen og eksklusiv ut. 
+PC-en er helt hvit, med unntak av svart plast på sidene og rundt skjermen. 
+
+Tastene er også svarte, og kontrasten mot det hvite er lekkert, synes vi. 
+Fingeravtrykk vises knapt, men møkkete fingre vil garantert sette sitt spor etterhvert. 
+Så her blir moralen alltid å ha rene hender før du setter deg til å skrive. 
+
+Supert tastatur og pekeplate 
+
+Og skriving er rett og slett veldig behagelig på denne PC-en. 
+Tastaturet er fast, responsivt og lager knapt lyd under bruk. 
+Her har konkurrentene noe å lære av Lenovo, som stadig får skryt for dette på sine PC-modeller. 
+
+Vi liker også hurtigtastene på øverste rad, der du for eksempel kan justere lys- og lydstyrke uten å måtte holde nede FN-tasten samtidig. 
+
+Pekeplaten er også meget bra, og skrolling med to fingre gjennom lange dokumenter og nettsider flyter lett og ubesværlig. 
+
+Refleksfritt 
+
+IPS-skjermen er skarp og lyssterk, og vi setter stor pris på at den er matt. 
+Det betyr at refleksjoner fra omgivelsene ikke er noe problem. 
+Fargegjengivelsen er god fra alle vinkler, men lysstyrken avtar litt fra svært skrå vinkel. 
+Berøringsfølsomhet får du imidlertid ikke, men det savner vi ikke til vanlig PC-arbeid. 
+
+I fronten sitter et par stereohøyttalere, og lyden er faktisk ikke så aller verst. 
+Både diskant og mellomtone er godt ivaretatt, bassen er ikke veldig dyp, men det er heller ikke så vanlig i denne klassen. 
+
+Bra i bruk, bare pass på ... 
+
+Ytelsesmessig ligger den i øvre middelsjikt. 
+Core i5-5200U løser alle «normale» PC-oppgaver uten problemer, og den integrerte grafikken håndterer alt du måtte kreve av en 2D-applikasjon. 
+Det er først når det dreier seg om DAK/konstruksjon og 3D-spilling at du skulle ønske at du hadde et dedikert, kraftigere grafikkort. 
+
+Når det er sagt, er det helt på det rene at brukeropplevelsen blir mye bedre hvis du tar noen grep selv. 
+
+Vår oppfatning er altså at PC-en leveres med i overkant mye programvare, hvor for mye kjører i bakgrunnen og serverer deg svære meldingsplakater i tider og utide. 
+
+Spesielt kritiske er vi til sikkerhetspakken fra McAfee, som ikke bare bombarderer deg med unødvendige meldinger, den stjeler til tider også vel mye prosessorkraft fra PC-en din. 
+
+Resultatet blir fort at prosessoren blir opphetet og krever kjøling, og viften er godt hørbar. 
+
+Viften er forøvrig litt vel kjapp med å spinne opp, men hvis du fjerner unødvendige programmer fra å kjøre i bakgrunnen, kan mye være løst. 
+
+SSD-en i denne PC-en utmerker seg med lesehastighet på rundt 500 MB pr sekund, noe som er meget bra, mens skrivehastigheten er nede på 130 MB pr sekund. 
+Bruker du mange programmer samtidig som bufrer mye data lokalt, kan skrivehastigheten være en liten flaskehals, men neppe særlig merkbart under helt normal bruk. 
+
+Hva så med batteritiden? 
+Med minimal aktivitet klarte vi å tyne batteriet til 8 timer og 14 minutter, men under kontinuerlig videoavspilling var det natta etter 4 timer og 25 minutter. 
+Du kan dermed forvente en brukstid på mellom 5 og 6 timer ved normal bruk, noe som er et stykke bak de beste. 
+
+Konklusjon 
+
+Lenovo U31-70 er en ypperlig PC for deg som ønsker en mobil maskin med god skjerm og supert tastatur, og som samtidig byr på god nok ytelse til det aller meste du vil bruke en PC til. 
+
+På minussiden må vi trekke frem at du bør ta en «rydderunde» blant programmene som følger med og at vi har prøvd tilsvarende PC-er med mindre vifteaktivitet (merk at disse to tingene ofte henger litt sammen). 
+Batteritiden kunne også vært litt bedre, all den tid denne PC-en virkelig byr på høy portabilitet. 
+
+Få også med deg testen vår av Multicom Talusa, som er litt i samme bane. 
+
+Lenovo U31-70 80M5003NMT 

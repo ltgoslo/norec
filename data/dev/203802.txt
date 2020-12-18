@@ -1,0 +1,201 @@
+Sonys nye toppmodell er først med Android Pie
+… men vi sliter med å finne argumentene for å velge Sony denne høsten. 
+
+Stadig lanserer mobilprodusentene den ene toppmodellen etter den andre, og Sony er blant de med høyest utskiftningstakt – de seinere åra har japanerne nemlig hatt for tradisjon å lansere nye toppmodeller to ganger i året. 
+
+Dagens testprodukt er Xperia XZ3, og Sony fortsetter tradisjonen – XZ2 ble nemlig lansert på mobilmessen i Barcelona i februar, altså for rundt et halvt år siden. 
+Riktignok finnes XZ2 også i en «compact»-utgave (samt en seinere lansert Premium-utgave), men i den nye serien er det foreløpig bare én telefon. 
+
+Og det spørs nok om lanseringer to ganger i året egentlig er så nødvendig, for sammenliknet med XZ2 er det ikke så veldig mye nytt XZ3 har å by på. 
+
+Her er de viktigste forskjellene: 
+
+Som du ser er det ikke så mye som er forandret – begge telefonene har den samme prosessoren (Snapdragon 845), like mye lagringsplass (64 GB) og arbeidsminne (4GB), samme hovedkamera (19Mp/f/2.0) og så videre. 
+Sony har slanket telefonen en millimeter, men fremdeles er ikke 9,9 millimeter spesielt tynt. 
+Batteriet er også på det jevne mot konkurrerende modeller, og frontkameraet i praksis det samme som satt i XZ1, men som ble nedgradert i XZ2. 
+
+Men XZ3 er i det minste først ute med Android Pie rett ut av boksen, og så har også Sony byttet ut skjermen. 
+
+Nå med OLED-skjerm 
+
+Sony var litt sein på ballen da de andre byttet fra de gamle 16:9-skjermene til høyere skjermer og desto tynnere skjermkanter. 
+Det var nettopp XZ2 som var den første Sony-telefonen med endret formfaktor på skjermen – omtrent ett år etter at de første begynte med den slags. 
+
+Skjønt har Sony valgt ikke å hoppe på årets trend – den velkjente busslomma på toppen av skjermen. 
+Mange vil klappe for det, men samtidig betyr det at rammene på Sony-telefonen fortsatt er relativt tjukke over og under sammenliknet med konkurrentene, og det på tross av at fingeravtrykksleseren er bak. 
+
+XZ3 er imidlertid Sonys første telefon med en OLED-skjerm, som også er å finne hos de argeste konkurrentene fra Samsung, Huawei og Apple. 
+Denne gangen har skjermen fått avrundede kanter på sidene, men det synes vi ikke Sony har fått så godt til, der vi ser tydelige fargeavvik mellom kanten av skjermen og resten – nesten som en slags vignettering, som er godt merkbar når du ser lyst innhold på skjermen. 
+Sett fra skrått hold lyser det også mer av selve kanten enn resten av skjermen. 
+
+Rett ut av boksen har skjermen også et svakt rosaskjær som gjør at hudtoner og den slags ikke helt treffer blink når vi sammenlikner side om side med konkurrerende modeller, men akkurat her er det mange innstillingsmuligheter i Android Pie, der du både kan regulere hvitbalanse og fargeprofil. 
+
+Vi synes ikke markedsføringsord som «Triluminous» og «X-reality» gjør denne skjermen til noe bedre enn konkurrentene, men ja - som på andre OLED-skjermer får du her et bekmørkt sortnivå, farger som kan smelle (om du går for den varianten i menyen) og alt det der. 
+
+Skjermen er også HDR-kompatibel og kan derfor gjengi stort spenn mellom de mørkeste og lyseste fargene. 
+En god skjerm, bevares, men akkurat det med de buede skjermkantene synes vi trekker litt ned. 
+
+Håpløs plassering av fingeravtrykksleseren 
+
+Vi kritiserte Samsungs S8-telefoner for det, og vi må også kritisere Sony – hva designerne har tenkt da de plasserte fingeravtrykksleseren midt på baksiden er oss ubegripelig. 
+
+Når vi plukker opp telefonen og plasserer pekefingeren på baksiden i en naturlig håndstilling, treffer vi midt på kameralinsa, og det er ganske mange centimeter ned til blinken. 
+
+Å måtte flytte pekefingeren såpass langt ned blir fryktelig krøkkete i våre øyne, og gjør at vi må holde telefonen litt annerledes. 
+Selvsagt er det noe du vil venne deg til om du kjøper XZ3, men vi må også gjøre et poeng av at en slik plassering gjør noe med stødigheten når du holder telefonen, der vi opptil flere ganger har opplevd nesten å miste den. 
+Spesielt når telefonen er såpass tung – vektnåla stopper på 193 gram. 
+
+Sony-telefonen mangler også finessene fra Huawei, som at denne sensoren kan brukes til utløserknapp når du tar en selfie, eller vise varslingsfeltet om du trekker den ned. 
+
+En ting vi dog liker godt er at XZ3, som alle andre Xperia-toppmodeller, har en egen, fysisk kameraknapp. 
+Den kan trykkes ned for å starte kameraappen selv om telefonen er slått av og holdes halvveis nede for å fokusere. 
+Nytt denne gangen er for øvrig at du kan få kameraappen til å starte automatisk når du løfter telefonen opp fra lomma og holder den i landskapsmodus. 
+Det fungerer ganske godt, men som før er det enkelte av kamerafunksjonene som i praksis er egne apper, og som du derfor må låse opp telefonen først for å få tilgang til. 
+
+Som på XZ2 (og de fleste andre toppmodeller nå til dags) er baksiden i glass, og XZ3 har støtte for trådløs lading. 
+Ei heller på XZ3 finner vi hodetelefonutgang, som det nå nesten bare er Samsung og LG som fortsatt holder på i sine toppmodeller, i hvert fall blant dem som er i normalt salg i Norge. 
+
+Og merk dessuten at laderen som følger med i esken er en ganske enkel 5W/1,5A-variant som ikke lader telefonen spesielt raskt. 
+Sony oppgir heller ikke at telefonen er QuickCharge-kompatibel, så her må du bruke en USB Power delivery-kabel for å få hurtiglading, som i hvert fall Sony ikke har i sitt utvalg ennå. 
+
+Tæpp-tæpp 
+
+En av tingene Sony har funnet på denne gangen, er «Sidesans»-funksjonen. 
+
+Konseptet er som følger: 
+Du prikker to ganger lett med fingeren på siden av skjermen, og inn fra siden spretter det en meny med et utvalg apper, hurtiginnstillinger, snarvei til varsler og liknende. 
+
+I utgangspunktet er vi positive til slike finesser, og særlig de som går på å gjøre det enklere å betjene store telefoner med én hånd, der de færreste av oss rekker helt over diagonalen med tommelen. 
+
+Til å begynne med kunne vi prøve ti ganger uten at det skjedde noe, men etter hvert har vi lært oss hvordan vi må treffe for å få fram menyen. 
+Der vi trodde man skulle kakke på kanten av telefonen, er man nemlig nødt til å kakke på den buede delen av skjermen, men ikke for langt opp på buen heller. 
+
+Etter å ha hatt telefonen en stund testet vi nå ti ganger og traff på sju av dem, så vi skulle ønske at funksjonen var litt mer tilgivelig med tanke på hvor man treffer med fingeren. 
+Det hender seg også at menyen spretter opp utilsiktet – litt for ofte. 
+Og så synes vi det er merkelig at selve menyen da spretter inn fra der du prikket og nedover på skjermen – i våre øyne burde den ha vært midtstilt på treffpunktet. 
+
+For øvrig kan du velge hvilke apper du vil ha i denne menyen, eller overlate det til Sony, som da vil følge dine bruksvaner og hente fram apper basert på hvilke du bruker til gjeldende tid på døgnet og plassering. 
+
+Et sveip langs kanten kan også fungere som tilbakeknapp om du vil, men også her er vi litt på «sju av ti», som gjør at vi foretrekker å bruke knappen. 
+
+Vi må innrømme at vi liker Samsungs Edge-funksjon bedre, men at selv ikke den blir så veldig mye mer enn en gimmick. 
+Dessuten finnes det mange apper som lar deg oppnå omtrent det samme, som Edge Action og liknende. 
+
+Meget god ytelse 
+
+Som forventet er Xperia XZ3 en telefon som definitivt leverer varene ytelsesmessig. 
+Den har Qualcomms gjeveste prosessor innabords, og Sony har ikke gjort de store justeringene av Android heller, så her snakker vi om en telefon der alt flyter smertefritt. 
+Kanskje bortsett fra kameraappen, der vi tidvis opplever at bildet hakker litt. 
+
+Vi noterer oss toppscore i flere av ytelsestestene vi kjører på telefonene (men som vi sjelden gjør så stort nummer av) – blant annet får vi toppnoteringer både i PCMark 2.0-testen og i AnTuTu-testen, som begge måler ytelse både på grafikk, lagring, prosessorkraft og liknende. 
+
+Batterimessig er XZ3 på par med konkurrentene – de fleste vil fint komme seg igjennom en hel dag, men for dem som ikke gjør det, vil hurtiglading være et savn. 
+Det skal dog sies at 3.300 mAh er vesentlig mindre enn konkurrenter som Huawei P20 Pro (4.000 mAh), og også mindre enn f.eks. Samsung Galaxy S9+, og det på tross av at Sony-telefonen er henholdsvis to og 1,5 millimeter tykkere. 
+
+Lyden fra de interne høyttalerne er ganske klar og fin, og volumet går relativt høyt. 
+Og den kan buldre. 
+På XZ2 introduserte Sony det de kaller «dynamisk vibrering», som gjør at hele telefonen vibrerer når det spilles bass på telefonen. 
+Dermed får du litt ekstra bassfølelse når du ser film, spiller eller hører musikk. 
+Du kan regulere hvor kraftig effekt du vil ha, eller slå den av helt. 
+
+Men igjen må vi slå gimmick-alarm. 
+
+Slik er kameraet 
+
+Der flere av konkurrentene både har to og tre kameraer på baksiden, finner vi fortsatt bare ett av dem på XZ3. 
+Ikke at det trenger å gjøre noe – Pixel 2-telefonene fra Google er blant de mest anerkjente mobilkameraene og har bare ett de også. 
+
+En ting som taler til Sonys fordel er at vidvinkelen, som på tidligere modeller, er meget god. 
+Den tilsvarer 25 mm i 35mm-format og sørger for at du får et bredere bildeutsnitt enn hos de fleste av konkurrentene, hvis vi ser bort fra LGs toppmodeller, som har et vidvinkelkamera i tillegg til det vanlige kameraet. 
+Forskjellen er dog ikke så stor som den var for noen år siden – de fleste ligger på rundt 26-27 mm. 
+Nevnt er også at XZ3 har en dedikert kameraknapp. 
+
+Blenderen er f/2,0. 
+Det er for så vidt et godt stykke bak de ledende på dette punktet, der Sony-kameraet slipper inn rundt 44 prosent mindre lys enn for eksempel Samsung Galaxy S9, men det skal sies at det er vanskeligere å lage lyssterk optikk med såpass kort brennvidde. 
+
+Sony-kameraet har imidlertid en forholdsvis stor sensor (1/2,3"), og med oppløsning på 19 megapiksler blir pikselstørrelsen 1,22 µm, som er et relativt godt tall – identisk med iPhone X, for eksempel. 
+
+Ellers har telefonen, som sin forgjenger, støtte for å filme i 4K-oppløsning med HDR (dog kun 30 bilder per sekund både med og uten HDR), som Sony er alene om. 
+Der bruker selskapet HLG (Hybrid Log Gamma)-koding slik at videoene også kan sees på skjermer som ikke har HDR-støtte. 
+
+Supersaktefilm-funksjonen (960 bilder per sekund) støtter nå også 1080p-oppløsning, som ingen av konkurrentene har. 
+Dog er ikke bufferet blitt noe større, så der du kan filme med 960 bilder per sekund i 0,2 sekunder i 720p-oppløsning, har du nå bare 0,09 sekunder på deg med XZ3. 
+
+Både Samsung og Huawei har dratt denne funksjonen et hakk videre der du kan velge at saktefilmen slår til ved bevegelse innenfor et område i søkerbildet, men hos Sony må du fortsatt trykke på på utløseren med hårfin timing om du skal fange det riktige øyeblikket i sakte film. 
+Som da altså blir dobbelt så vanskelig i full HD. 
+
+Testbilder 
+
+Selv om de for noen år siden var blant de aller beste på mobilkameraer, er det bare å erkjenne at Sony heller ikke denne gangen er i nærheten av konkurrentene. 
+
+Der de fleste har blitt særdeles gode i vanskelige lysforhold, ender vi ofte opp med utbrente himler og mye optisk avfall i bildene. 
+Under ser du et par eksempler: 
+
+Disse bildene ble tatt på morgenkvisten, og som du ser er himmelen i Sonys bilde helt utbrent, mens den er fanget slik den så ut fra Huawei-kameraet. 
+Og dette går igjen på flere av bildene vi har tatt, som her, der Sony (venstre) igjen har mistet all informasjon i himmelen: 
+
+Som du også ser er det ikke lenger så mye man vinner lenger på det bredere bildeutsnittet på Sony-kameraet. 
+
+Men optisk avfall får du desto mer av. 
+Se bare på utfordringen under, som må sies å være noe av det vanskeligste vi klarer å utsette disse kameraene for: 
+
+Her er ingen av bildene perfekte, så er det sagt, men Sony-bildet har betydelig mer lysavfall; også over togsporet til høyre som gir et uheldig grønnskjær. 
+I tillegg er himmelen, som tidligere, eksponert svært lyst. 
+
+Hva gjelder detaljnivå klarer Sony-kameraet seg godt så lenge lystilgangen er god og lave ISO-verdier kan brukes. 
+Men det er vel å merke på midten av bildet – beveger vi oss ut mot kanten får vi en betydelig reduksjon av bildekvaliteten. 
+
+Bare se her - først originalbildet: 
+
+Og så 100%-beskjæringer fra venstre kant av bildet. 
+XZ3 på toppen, Huawei P20 Pro under: 
+
+Utsnittene er for øvrig ulike på grunn av ulik oppløsning på kameraene (19 vs 10 Mp). 
+
+Til slutt et bilde tatt en sein kveld utendørs. 
+Her skal det legges til at de færreste har særlig mye å stille opp med mot Huaweis fantastiske nattmodus: 
+
+Portrettfunksjonen fungerer greit nok – kameraet klarer å skape en relativt god dybdeillusjon selv med bare ett kamera, og du kan også velge hvor uskarp bakgrunnen skal være i etterkant. 
+
+Men det blir litt feil i enkelte deler av bildet (ved kinnene i vårt tilfelle). 
+Dessuten tas portrettbilder bare med oppløsning på to megapiksler om du bruker hovedkameraet (såkalt bokeh-modus), mens du med frontkameraet får åtte megapiksler – forstå det den som kan. 
+
+Som vanlig har vi samlet en håndfull bilder i et Google Fotoalbum for den som vil inspisere nærmere, siden vårt publiseringssystem komprimerer bildene slik at det ikke er så velegnet for å sammenlikne bildekvalitet. 
+
+Vi har også lagt ut en videosnutt på YouTube filmet med 4K-oppløsning og HDR (som da oppleves best på en HDR-skjerm). 
+
+Den ser ganske god ut, og vi synes også lyden fanges på en god måte fra Sony-kameraet. 
+Selv om kameraet ikke har optisk bildestabilisering, er den elektroniske stabiliseringen fra Sony meget god, særlig på lavere oppløsninger enn 4K, så telefonen er definitivt bedre på video enn den er på stillbilder. 
+
+Først med Pie 
+
+Som nevnt er Xperia XZ3, så vidt vi kan se, den første telefonen som kommer med Android Pie rett ut fra butikkhyllene. 
+
+Her er det flere nyheter under panseret, som smartere fordeling av prosessorkraft mellom apper og den slags, men ikke så voldsomt mye nytt som er synlig, i hvert fall ikke på denne telefonen. 
+
+Flere av de nye funksjonene kommer nemlig seinere i høst, som «digital wellbeing»-panelet som skal gjøre deg oppmerksom på hvor mye du bruker telefonen og «App slices», som lar deg hoppe direkte inn til funksjoner i apper. 
+
+Blant nyhetene skal imidlertid være en ny navigasjon litt à la iPhone X, men Sony har valgt å beholde de gamle knappene og gir deg ingen mulighet til å velge den nye varianten. 
+På samme måte er bytte app-bildet likt som før, der det også har kommet mer funksjonalitet i Pie-versjonen fra Google. 
+
+En ting som er på plass, derimot, er den nye retningslåsfunksjonen. 
+Om du velger å låse retningen for å unngå at skjermen roterer når du ligger i senga, for eksempel, spretter det opp et lite ikon på statuslinja som kan trykkes på for å rotere skjermbildet. 
+
+Volumbryteren er også den nye varianten, der standard er å regulere medievolumet uansett hva du holder på med. 
+Der har Sony også lagt på sin dynamisk vibrasjon-funksjon, som du ser i bildet over. 
+
+Konklusjon 
+
+Med prislapp på rundt 8.000 kroner må Sony finne seg i å bli sammenliknet med de beste, og i dette selskapet klarer vi vanskelig å finne noen argumenter for hvorfor du bør velge Xperia XZ3 foran noen andre. 
+
+Ja, den har OLED-skjerm, men det har også konkurrentene. 
+Ja, den har topp ytelse, men det har også konkurrentene. 
+Ja, den kan filme i supersaktefilm, men det kan også konkurrentene. 
+Ja den er vanntett … og så videre. 
+
+For det er ikke til å stikke under stol at den ikke er like god som de beste på foto, at batterikapasiteten er helt middels (men uten hurtiglader i esken), at fingeravtrykksleseren er helt corny plassert og at ekstrafunksjonene som skal skille den fra resten, som dynamisk vibrering og sidesans har begrenset nytte, for å si det forsiktig. 
+
+Da står vi igjen med en telefon som er 1.500 kroner dyrere enn sin forgjenger, og som foruten skjermen og frontkameraet (som attpåtil var nedgradert hos forgjengeren) praktisk talt er samme telefon en gang til. 
+
+Og den er 3.000 kroner dyrere enn OnePlus 6, som faktisk har mange likheter med Sonys nye toppmodell. 
+Da har du nesten råd til å kjøpe et svært godt Sony-produkt ved siden av – de nye WH-1000XM3-hodetelefonene vi testet forleden dag. 

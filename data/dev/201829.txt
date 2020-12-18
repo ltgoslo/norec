@@ -1,0 +1,121 @@
+Asus Nexus Player
+Android-leirens Apple TV-konkurrent imponerer på flere punkter. 
+
+Mens amerikanere kan boltre seg i en rekke TV-bokser som Amazon Fire TV, Roku med flere, er det i hovedsak to duellanter her til lands; Chromecast og Apple TV. 
+
+Apples mediespiller har vært tilgjengelig på det norske markedet i flere år, mens nykomlingen fra Google dukket opp i norske butikker våren 2014. 
+
+Prismessig ligger de to på henholdsvis 700 kroner for Apple TV og 300 kroner for Chromecast. 
+Vel å merke er ikke en Chromecast noe særlig vits uten at du har andre enheter som kan «caste» innhold til den; det være seg en mobiltelefon, et nettbrett eller en PC. 
+
+Den første Android TV-enheten 
+
+Nexus Player ligger langt nærmere Apple TV i så måte, og er altså en TV-boks som kjører Android-operativsystemet. 
+Den er laget av Asus, men bærer det offisielle Nexus-navnet, og selges blant annet i den offisielle Google Play-butikken, noe Google begynte med for en snau måned siden. 
+
+Utseendemessig minner Nexus Player om en stor hockeypuck. 
+Den er sort, sylinderformet og måler 12 centimeter i diameter. 
+Høyden er to centimeter. 
+
+På baksiden finnes det tre porter: 
+Strømtilførsel, HDMI og micro USB-port, slik at du kan koble til andre enheter. 
+
+Merk altså at Nexus Player ikke støtter kablet nettverk. 
+Det er noe mange foretrekker i et stort hus, siden det stort sett gir bedre hastighet og ikke minst bedre stabilitet enn trådløst nettverk. 
+Nexus Player støtter imidlertid 802.11ac-standarden; den hittil nyeste standarden for trådløse nett. 
+
+Ei har den optisk lydutgang, men kan videresende surroundlyd i 5.1 dersom du har en surroundreceiver med HDMI-inngang (pass-through). 
+
+Fjernkontroll med talestyring 
+
+Sammenlignet med Apple TV-fjernkontrollen er Asus' variant både større og ikke fullt så eksklusiv. 
+
+I praksis vil det si at den har plast-finish og litt billig følelse når man trykker på knappene. 
+Den er imidlertid Bluetooth-basert og krever derfor ikke at du sikter på mottakeren når du trykker på knappene, noe vi ofte har opplevd som et irritasjonsmoment med Apple TV. 
+
+Esset i ermet er imidlertid talegjenkjenningen. 
+
+For – mens vi til nå har klart å styre vår begeistring for å snakke til mobiltelefonen, må vi innrømme at dette faktisk er en svært effektiv måte å betjene Nexus Player på; også på norsk. 
+Trykk inn søkeknappen og fortell hva du leter etter, og vips, så kommer søkeresultatene i en fei. 
+
+Eksempelvis kan du si som følger, med tilhørende resultater: 
+
+«Filmer av Christopher Nolan» «Komedier fra Las Vegas» «Jarle Bernhoft» 
+
+Det begynner å bli et par år siden vi snakket norsk med Android-telefonene, men stemmegjenkjenningen virker å ta tatt et sjumilssteg siden den gangen. 
+Android TV tolker stort sett det vi sier riktig; også når vi blander norsk og engelsk tale, som i det første eksempelet. 
+Faktisk fungerer det så bra at vi ikke har sett oss nødt til å taste inn et søkeord manuelt i det hele tatt, men noen ganger har vi trengt et ekstra forsøk. 
+
+Et lite minus er dog at man ikke får brukt universalsøket til å søke i alle appene. 
+
+Du får for eksempel ingen resultater fra Netflix, og vil du spille av musikk via Googles musikktjeneste er du nødt til å åpne den aktuelle appen før du utfører søket. 
+
+Strømmeapper kan lastes ned 
+
+Dette er altså en TV-boks som kjører Android, og i likhet med telefoner og nettbrett får du dermed tilgang til Play Butikk, slik at du kan laste ned apper fra tredjeparter – i motsetning til Apples løsning, der det kun er Apples godkjente apper som er tilgjengelig. 
+
+Blant appene du finner til nedlasting er Netflix, TED, Tunein (radio), Musicmatch (musikkvideoer med sangtekster), Mubi, Plex (som lar deg spille av media du har lagret på andre maskiner i nettverket), VLC med flere. 
+Dog er det lite norsk å finne, selv om vi vet at NRK jobber med en egen Android TV-app. 
+
+Som antydet er også Googles musikktjeneste på plass, i tillegg til at du kan kjøpe og leie filmer via Googles filmbutikk. 
+
+Også en spillkonsoll 
+
+Det er dog ikke bare film og musikk Nexus Player har å by på, for i Play Store finnes det også Android TV-kompatible spill. 
+
+Det er ikke så veldig mange foreløpig, men titler som Crossy Road, Badland, Table Top Racing, Leo's Fortune, The Walking Dead og Goat Simulator er blant de tilgjengelige. 
+Samt det noe spesielle Jacbox Party Pack. 
+
+Noen av dem kan du fint styre med fjernkontrollen, mens det er enkelte som krever at du har en vanlig håndkontroll, som fås kjøpt som tilleggsutstyr. 
+I Google-butikken koster den 449 kroner, og den minner i stor grad om Xbox 360-kontrollen hva gjelder utforming og ergonomi. 
+
+Kvaliteten på spillene, og hvor elegant de er portert over til en TV-opplevelse, varierer noe, men stort sett har vi vært fornøyde med den håndfullen spill vi har prøvd selv. 
+
+Pent grensesnitt 
+
+Android TV er basert på den siste Android-versjonen, Lollipop, og grensesnittet følger derfor de såkalte «Material Design»-prinsippene med tydelige ikoner, pene overganger og rikelig med farger. 
+Ytelsesmessig synes vi også responsen er god når man navigerer i menyene. 
+
+Hjemskjermen når du alltid ved å trykke på hjem-knappen. 
+På øverste linje finner du anbefalt innhold basert på hva du har sett eller hørt på tidligere. 
+Dernest følger strømme-apper og så spill. 
+
+Nevnt er den talebaserte søkefunksjonen (du kan også skrive inn manuelt), som altså fungerer med norsk tale, der mikrofonen sitter i fjernkontrollen. 
+
+Oppsettet er for øvrig enkelt – du kobler deg til det trådløse nettverket, og for å logge deg på Google-kontoen din kan du bruke en PC eller mobiltelefon og gå til en gitt nettadresse for så å taste inn koden som vises på TV-skjermen. 
+
+Også en Chromecast 
+
+Nexus Player har innbakt støtte for Google Cast og har derfor de samme mulighetene som en Chromecast med tanke på å caste film, video, musikk og annet direkte fra en mobiltelefon, nettbrett eller fra Chrome-nettleseren på en PC/Mac. 
+
+Har du en nyere Android-telefon finnes også muligheten til å caste hele skjermen på telefonen, slik at både bilde og lyd gjengis på TV-en. 
+Det kan du også bruke for å strømme Spotify-musikk, selv om Spotify-appen i seg selv ikke har støtte for Google Cast. 
+
+Og selv om det foreløpig ikke finnes noen offisiell Spotify-app for Android TV, har ikke det hindret folk å lage en uoffisiell versjon – med støtte for stemmesøk. 
+
+Akkurat det er ganske spennende, for i likhet med telefoner og nettbrett, kan hvem som helst lage apper også til Android TV. 
+Det kan bety at det vil komme mange godbiter i fremtiden. 
+
+En annen fordel er at det også finnes mange iOS-apper som lar deg caste innhold via Chromecast, så du må ikke ha en Android-telefon for å sende innhold fra telefonen. 
+Eksempelvis fungerer har både NRK- og Netflix-appene for iOS støtte for å caste video. 
+
+Konklusjon 
+
+Det er et par åpenbare minuspunkter med Nexus Player, og det er først og fremst at den hverken har kablet nett eller optisk lydutgang, noe konkurrenten fra Apple har. 
+Om disse punktene er viktig for deg, kan det være en idé å vente, for det kommer sikkert flere bokser i fremtiden som også bruker Android TV som operativsystem. 
+
+I tillegg mangler tjenester som NRK, TV2 Sumo, Viaplay og HBO, men det er ikke et kjempeproblem, gitt at du kan caste innhold fra dem direkte fra mobiltelefonen eller nettbrettet. 
+Utvalget av strømmeapper og spill som kan lastes ned til Nexus Player er i det hele tatt litt begrenset. 
+
+Foruten dette liker vi Nexus Player svært godt. 
+Den har et friskt og intuitivt grensesnitt, en svært god søkefunksjon med talegjenkjenning og fungerer også som en Chromecast, der du kan sende over innhold fra mobiltelefon, nettbrett eller PC, og ikke bare fra Android-enheter. 
+
+Prismessig ligger den litt i overkant av Apple TV, men den kan også by på spill, selv om de grafikkmessig ikke kan sammenlignes med en dedikert spillkonsoll. 
+Samt strømming av mediefiler via Plex, som vi vet mange setter pris på. 
+
+Og sannsynligvis enda mer i fremtiden. 
+
+PS! 
+Nexus Player er i skrivende stund billigst i Google-butikken. 
+
+Google Nexus Player 

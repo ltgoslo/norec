@@ -1,0 +1,90 @@
+Google Chromecast (2015)
+Raskere og lettere å plassere enn før. 
+
+For halvannet år siden gjorte Googles lille TV-pinne Chromecast sitt inntog i norske butikker. 
+Den solgte som varmt hvetebrød – i følge Dagens næringsliv ble den utsolgt etter én uke, hvorpå blant annet Elkjøp bestilte inn 40.000 nye. 
+
+Denne høsten har Google lansert to nye Chromecast-enheter. 
+Vi har allerede testet Chromecast Audio, som lar deg strømme lyd direkte fra mobiltelefon, nettbrett eller PC til et hvilket som helst stereoanlegg med lydinngang. 
+
+I dag er testproduktet den nye TV-enheten som også lar deg overføre bilder og video. 
+
+Ny design 
+
+Årets Chromecast-enhet har fått en noe endret design og er utseendemessig lik Chromecast Audio-enheten. 
+I forhold til forgjengeren har den blitt mer plasseringsvennlig, siden en myk og flat HDMI-kabel nå er fastmontert, og det er denne du stikker inn i HDMI-porten, slik at «pucken» enten henger ned. 
+Eller inntil – den er nemlig magnetisk. 
+
+Forgjengeren kunne minne mer om en USB-minnepinne og kunne by på plasseringsutfordringer siden den stakk ganske langt ut fra HDMI-porten på TV-en – spesielt på en vegghengt TV. 
+Da måtte du i så fall bruke den medfølgende HDMI-skjøtekabelen. 
+
+I tillegg til å stikke Chromecast inn i HDMI-porten på TV-en, trenger den også strøm. 
+Det får den fra en vanlig micro USB-kabel som kan stikkes inn i en USB-port på TV-en (om du har) eller i en vanlig mobillader som er plugget i veggen. 
+Sistnevnte kan være fordelaktig siden Chromecast da alltid er på – henter du strøm fra TV-en forutsetter det at den leverer nok strøm via USB-uttaket, og dessuten må du vente noen sekunder siden Chromecast da må starte opp når du slår på TV. 
+
+Enkel å sette opp 
+
+Når Chromecast er plugget i og har fått strøm, slår du på TV-en og bytter til den aktuelle HDMI-inngangen. 
+
+Da får du beskjed om å gå til chromecast.com/setup, der det finnes en lenke til Chromecast-appen, som finnes både for Android og iOS. 
+Når du starter denne appen, finner den Chromecast-enheten, og så må du fortelle Chromecast hva passordet er til det trådløse nettverket ditt. 
+Du kan også angi hvorvidt du vil tillate gjester å caste innhold – det kan de gjøre når de er i nærheten og fordrer ikke at de er koblet til det trådløse nettverket. 
+
+Og etter et par strakser er du klar til dyst. 
+Akkurat som med forjengeren. 
+
+Støtte for raskere nett 
+
+En av nyhetene med 2015-utgaven av Chromecast er at den nå støtter 802.11ac; altså trådløst nettverk som benytter både 2,4GHz og 5GHz-båndene. 
+
+Sistnevnte er raskere og mer stabilt, siden det ikke lar seg påvirke av andre 2,4GHz-enheter (mikrobølgeovnen er et godt eksempel). 
+Imidlertid er det også mer sårbart for vegger og andre hindre mellom ruteren og den trådløse enheten, slik at dekningen fort kan bli dårligere. 
+
+Bor du i blokk, rekkehus eller andre steder der der det mange rutere innenfor et lite område, kan det være fordelaktig å bruke 5GHz-båndet, med andre ord. 
+
+Men – du må ikke ha en moderne AC-ruter for å få enda litt mer glede av den nye Chromecast-enheten. 
+Vi har nemlig testet den med en 802.11n-ruter (altså forrige «generasjon»), og også her er det merkbart at ting går smidigere enn hva det gjorde hos forgjengeren. 
+
+Blant annet kan vi bla fort i bilder via Google Foto-appen, og TV-skjermen oppdaterer seg praktisk talt umiddelbart, der den tidligere kunne henge litt bak skjemaet. 
+Det går også raskere å starte YouTube-filmer og annet innhold du caster til TV-skjermen enn det gjorde tidligere. 
+
+Du kan også angi hva som skal være bakteppe, altså når enheten ikke er bruk, som for eksempel fine bilder fra verdensrommet, dine egne fra Google Photo eller fra nyhetsbildet. 
+Det finnes også apper som lar deg vise været, nyhetsoverskrifter og andre ting. 
+
+Godt app-utvalg 
+
+Ett av ankepunktene vi hadde da vi testet Chromecast i fjor, var at det var ganske sparsommelig med kompatible apper, men det har bedret seg betraktelig siden den gang. 
+
+For det første står du fritt til å speile hele skjermen på mobiltelefonen eller nettbrettet, eller fra en PC/Mac om du bruker Chrome-nettleseren. 
+Det har også blitt rikelig med apper som støtter Chromecast – sist ute var for eksempel Spotify, slik at du kan strømme musikk til TV-en/stereoanlegget, der det også vises albumgrafikk på skjermen. 
+
+I tillegg finner du blant annet Viaplay, NRK, TV2 Sumo, Netflix, HBO Nordic, TED og mange andre videoapper, TuneIn, Deezer, Pocket casts og mer til med tanke på lyd, og også flere spillapper, som Googles egen Big Web Quiz, der inntil seks deltakere kan spille quiz på TV og gjette hvor høy Mount Everest er, målt i Jennifer Aniston-enheter eller hva det måtte være – helt gratis. 
+
+Du finner en rekke kompatible apper hos Google. 
+
+Ikke alle funksjoner i Norge 
+
+For de som bor i USA har den nye Chromecast-appen også mer funksjonalitet. 
+Blant annet finner du et universalsøk der, som ser veldig kjekt ut. 
+Du kan for eksempel søke etter en filmtittel, og så får du opp alle Chromecast-kompatible apper der du kan spille denne filmen; enten det dreier seg om å leie den fra Google eller se den på Netflix (lite er så bittert som å leie en film du senere finner ut at lå på Netflix, er det ikke?). 
+
+Dette er imidlertid ikke på plass for oss norske brukere. 
+Men du får i hvert fall med et tre måneders abonnement på Viaplay på kjøpet, hvis det er et plaster på såret. 
+
+En liten ulempe er også at det ikke finnes noen egen fjernkontroll til Chromecast, så du må bruke telefonen/nettbrettet for å pause filmavspilling eller hoppe til neste sang i spillelisten. 
+Dog bør det også nevnes at Chromecast støtter HDMI-CEC, slik at du kan bruke TV-fjernkontrollen til slike ting om du har en TV som støtter HDMI-CEC. 
+
+Konklusjon 
+
+2015-versjonen av Chromecast har blitt raskere enn tidligere og fungerer nå smidigere enn noen gang, med et stadig voksende utvalg av apper der mye «essensielt» nå er på plass; som for eksempel Spotify, som er en svært populær tjeneste i Norge. 
+
+Enheten er også lettere å plassere enn før, takket være en myk og fleksibel HDMI-kabel. 
+Løsningen er også svært portabel og får strøm via en helt vanlig micro USB-kabel. 
+
+Har du en eldre TV som du vil piffe opp litt, er disse 400 kronene en svært hyggelig prislapp i våre øyne. 
+Over den forrige Chromecasten er kanskje ikke oppgraderingene de helt store, med mindre du virkelig irriterer deg over at ting går litt tregt når du skal caste innhold til skjermen, og da spesielt om du har en AC-ruter i tillegg. 
+
+Men merk altså at ikke alle de nye funksjonene er tilgjengelig i Norge. 
+Ennå. 
+
+Google Chromecast (2nd Generation) 

@@ -1,0 +1,79 @@
+iWalk Extreme Trio 10000
+Den beste nødladeren vi har testet til nå. 
+
+Tidligere i år hadde vi en test av nødladere der vi tok for oss ladere med høy kapasitet fra sju forskjellige aktører. 
+
+Blant annet målte vi reell mot oppgitt kapasitet, målte strømstyrken til enhetene man ladet opp, i tillegg til å vurdere funksjonalitet og utforming. 
+
+Taperen av testen leverte for eksempel bare 43 prosent av kapasiteten trykket på esken. 
+
+Eget display gir full kontroll 
+
+Det er mye å like ved dagens testprodukt, iWalk Extreme Trio. 
+Oppgitt kapasitet er på 10.000mAh (ved 3,7V, altså 37Wh) og i forhold til laderne vi testet i forrige runde har denne enheten noe vi synes er veldig snedig. 
+
+Der de andre hadde fire LED-pærer som indikerte gjenstående batteri, har iWalk nemlig et eget display. 
+
+Der vises gjenstående batteritid i prosent, og du får i tillegg informasjon om både strøm (ampere), og spenning (volt). 
+Når du så må lade opp selve nødladeren, får du i tillegg vite hvor mange timer det er igjen til batteriet er fulladet. 
+
+Volt- og ampereindikatoren samsvarer også helt med det vi får fra USB-multimeteret vårt når vi måler, og oppleves derfor som korrekt i våre øyne. 
+
+Prosentmåleren opplever vi dog ikke like presis. 
+Den virker blant annet å gjøre et dramatisk hopp fra rundt 20 prosent og ned til fem prosent, men ellers ser det nokså greit ut. 
+
+Innebygde kabler 
+
+Et annet ess denne laderen har i ermet er at den har to innebygde kabler, som enkelt løsnes fra hver sin side av batteriet. 
+På venstre side – en lightning-kabel til Apple-produkter, og til høyre en micro USB-kabel til andre telefoner, Bluetooth-høyttalere eller hva det måtte være. 
+
+Det er svært kjekt siden man da slipper å huske kabel i tillegg til nødlader når man skal på tur. 
+
+I bunnen sitter det for øvrig en vanlig USB-port slik at man eventuelt kan koble til enda en kabel. 
+I alt kan tre enheter lades samtidig, og maksimal strømstyrke ut er 3,4A (inntil 2,4A på hver av portene, men maks 3,4A totalt). 
+
+Vi liker også at ladingen av selve enheten går ganske radig. 
+Det følger riktignok ikke med et strømadapter i esken (bare en micro USB-kabel), men den skal klare inntil 2,4A inn. 
+Vi hadde ikke mer enn en 2A-adapter for hånden da vi testet, men målte da strømmen til nøyaktig 2A også. 
+
+I bunnen finnes dessuten en av og på-knapp. 
+
+Laderen starter nemlig ikke av seg selv når du kobler til en enhet – da må du først trykke på denne knappen (og den kan trykkes på om du vil sjekke hvor mye strøm som gjenstår). 
+
+Målinger 
+
+«Den beste nødladeren vi har testet til nå» sa vi innledningsvis, og grunnen er at den holder det den lover. 
+
+Oppgitt kapasitet er altså 10.000 mAh ved 3,7V, som dermed utgjør 7.400mAh ved 5V, som er sammenlignbart med oppgitte mAh på mobiltelefonen din. 
+
+Vi målte 7.180mAh, som dermed gir en oppfyllingsgrad på 97 prosent. 
+
+Det er godt foran samtlige nødladere vi testet i forrige runde. 
+
+Som du ser kommer også iWalk-laderen svært godt ut av kapasitet pr volum og kapasitet pr vekt, men ekstrakostnaden ved display og innebygde kabler gjør at den ikke kommer like godt ut av det med tanke på kapasitet per krone. 
+
+En ting som var tungen på vektskålen for at laderen fra Biltema vant vår test tidligere i år, var at den var svært «snill» med å levere mye strøm til alle enhetene vil prøvde å koble til, slik at de alltid ladet raskt. 
+Det samme gjelder iWalk-nødladeren, der vi får 2A ut på de enhetene vi har testet som trekker så mye strøm, og der den makser ut med 3,4A når vi kobler til to slike enheter. 
+
+For øvrig støtter også nødladeren såkalt «pass-through» der du både kan lade nødbatteriet og en tilkoblet enhet samtidig. 
+I denne modusen understrekes det imidlertid i manualen at man ikke bør koble til flere enn én enhet fordi det da vil være fare for overspenning. 
+
+Ærlig eske 
+
+Vi må også rose iWalk for ærlig markedsføring på esken. 
+Der mange produsenter reklamerer med at du kan lade iPhone x antall ganger, der x er alt for høyt, har iWalk gått detaljert til verks. 
+
+For det første oppgir de spenningen slik at det ikke er noe tvil om at oppgitte mAh er ved 3,7 volt. 
+De oppgir så at iPhone 5S kan lades 4,5 ganger, og det er faktisk veldig riktig (4,6 etter våre målinger), siden batterikapasiteten på den telefonen er 1560mAh. 
+Samsung Galaxy S5 (2800mAh) kan lades 2,5 ganger (2,56 faktisk) og iPad Air kan lades 0,8 ganger (0,83 med våre målinger – batteriet er på 8600mAh). 
+
+Konklusjon 
+
+Den koster riktignok litt ekstra, men på kjøpet får du også to innebygde kabler, slik at du slipper å ha med noen ekstra, og et svært hendig display som viser gjenstående batteri, hvor lenge det er til du har ladet opp og hvor mye strøm som går ut av enheten. 
+
+iWalk Extreme trio har svært god kapasitet i forhold til hva som er oppgitt på esken, og også svært god kapasitet i forhold til både vekt og volum. 
+I tillegg kan den lade inntil tre enheter samtidig og leverer godt med strøm til det du måtte plugge i. 
+
+Dermed mener vi at iWalk Extreme Trio er den beste nødladeren vi har testet til nå, og det skulle jaggu bare mangle om ikke det kvalifiserer til en sekser på terningen. 
+
+iWALK Extreme Trio 10000 

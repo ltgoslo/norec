@@ -1,0 +1,39 @@
+Game Dev Tycoon
+Har du lyst til å bli spillskaper? 
+Spill dette først. 
+
+Et spill skapt av indieutviklere om et uavhengig spillstudio som vil skape spill? 
+Forvirret? 
+Les videre! 
+Game Dev Tycoon er et tradisjonelt simuleringsspill hvor du får ta sjefsjobben i et nystartet, men ambisiøst spillselskap. 
+
+De to australske brødrene bak spillet, Patrick og Daniel Klug, er tungt inspirert av iOS-hitten Game Dev Story (Kairosoft, 2010). 
+Faktisk er det lett å tro at spillet er en ren kopi om du bare skuer hunden på hårene. 
+
+Under overflaten har de likevel lagt til flere funksjoner som gjør spillopplevelsen morsom og lar meg leke i timevis i det enkle rammeverket. 
+Noen dårlige designvalg og utfordrende vanskelighetsgrad legger en demper på opplevelsen. 
+
+Spilleventyret starter i garasjen en gang på 80-tallet. 
+Din figur er foreløpig alene, men etter hvert som suksessene kommer, kan du oppgradere kontorene, ansette flere spillskapere, og oppdage ny teknologi. 
+For å lage et spill må du velge sjanger (militær-, fantasy-, sportsspill, osv.) og type (rollespill-, strategi-, simuleringsspill, osv.), hvilken konsoll skal du lage spillet til, og hvilken spillmotor vil du bruke. 
+
+Bra grafikk eller en god historie? 
+
+I selve utviklingsprosessen styrer du i tre runder forskjellige kriterier: 
+Første runde lar deg stille på tre vertikale spaker for å prioritere utvikling av spillmotor, spillmekanikk og historien, andre runde lar deg bestemme hvor mye oppmerksomhet dialog, nivådesign og kunstig intelligens skal få, mens tredje runde ser mer på spillverdenene, grafikken og lyden. 
+
+Underveis kan du også legge til teknologier (om du har funnet dem opp) som flerspiller, mellomsekvenser og joystickkontrollere, for å nevne noe. 
+
+Utviklingsprosessen samler design- og teknologipoeng, som til slutt gir en indikasjon på hvor bra spillet er. 
+Etter hvert ferdige spill får du, og dine ansatte, erfaringspoeng, før anmelderne setter i gang. 
+En dårlig karakter betyr dårlig salg, mens 10/10-poeng garanterer økonomisk sikkerhet for videre drift. 
+Og så er det bare å gjenta. 
+
+Game Dev Story er repeterende, lik mange simulatorspill av dette slaget. 
+
+På det andre nivået, hvor kontoret ditt har fått plass til fire medarbeidere, går vanskelighetsgraden i taket. 
+Først etter å ha prøvd meg fire ganger forstod jeg endelig nøyaktig hva jeg måtte gjøre for å henge med i teknologiutviklinga uten å gå konkurs. 
+
+Har du ikke tålmodighet til å gjenta de samme handlingene flere ganger, ja, mange ganger, anbefaler jeg deg å se på et annet spill. 
+
+Game Dev Tycoon er tilgjengelig til Windows, Linux og Mac for omkring 50 norske kroner og kan kjøpes fra utviklerens nettside her. 

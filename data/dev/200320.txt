@@ -1,0 +1,74 @@
+Chromecast audio
+Gjør stereoanlegget magisk for snaue 400 kroner. 
+
+Google har solgt svært mange Chromecast-enheter her til lands – en liten plugg du dytter inn i en ledig HDMI-inngang på TV-en, og som da lar deg sende musikk, bilder og video trådløst til TV fra en mobiltelefon, nettbrett eller PC. 
+
+Denne høsten kom Google både med oppfølgeren, Chromecast 2 (test kommer), men også et annet spennende produkt – Chromecast Audio. 
+
+For – der den «vanlige» Chromecasten kobles til en TV, er audio-utgaven ment å koble til et stereoanlegg, slik at du kan sende lyd trådløst. 
+
+Dette er altså et produkt for deg som har forsterker/høyttalere fra før, men som er lei av å måtte plugge i en lydkabel i telefonen for å spille musikk på de store høyttalerne. 
+
+Dette følger med i pakken 
+
+Med i pakken får du selve enheten, som måler cirka 5 centimeter i diameter, en strømkabel (standard micro USB-kabel med et vanlig 5V/1A-støpsel) og en kort 3,5mm lydkabel. 
+
+PS! 
+Er du litt mer kresen på lyden vil du muligens kjøpe en optisk kabel i stedet – som på Macbook-maskiner er lydutgangen en kombinert analog/digital løsning slik at du kan bruke en mini TOSLINK=>TOSLINK-kabel og dermed få lyden i digital form inn til forsterkeren. 
+Chromecast Audio-enheten støtter for øvrig 24-bit/96KHz – iFixit har gjort en såkalt teardown hvis du er interessert i hva som befinner seg på innsiden. 
+
+Enkel å sette opp 
+
+Når du har plugget i strøm og lydkabel, er det på tide å sette opp Chromecast Audio. 
+Dette gjør du ved å laste ned Chromecast-appen på iOS, Android eller Windows, avhengig av hvilken enhet du har (merk altså at det ikke finnes en egen Mac-app for å sette opp). 
+Som angitt i de kortfattede instruksene peker du nettleseren til chromecast.com/setup for å laste ned riktig app. 
+
+Når den har startet, dukker Chromecast-enheten opp og må konfigureres. 
+Det innebærer at du angir passordet til det trådløse nettverket den skal kobles til, og så spiller den en testlyd slik at du kan påse at alt fungerer som det skal. 
+
+Om du vil kan du også aktivere «gjestemodus». 
+Det gjør at de du har på besøk også kan caste lyd til høyttalerne – uten at de en gang trenger å koble seg til det trådløse nettverket. 
+
+Mange støttede apper 
+
+Det finnes mange apper som støtter casting av lyd til Chromecast Audio. 
+Googles egen musikktjeneste, Google Musikk, er selvsagt på plass, og det samme er YouTube. 
+Også Spotify, Deezer, Rdio, TuneIn (radio), Pocket casts (podkast-spiller), samt en haug av andre, støtter Google Audio. 
+
+Bruker du Google Chrome som nettleser kan du også caste lyd fra en nettleserfane til Chromecast Audio. 
+Akkurat på det punktet har vi imidlertid hatt litt trøbbel med småhakking innimellom når vi har testet, og på ett punkt var vi også nødt til å starte nettleseren på nytt for å få koblet til – fra mobiltelefon og nettbrett har det imidlertid gått som smurt. 
+
+For de som bruker Tidal melder Digital audio review at støtte vil komme i løpet av året. 
+
+Fra en Android-telefon kan du også caste all lyd fra telefonen via menyen på Chromecast-appen. 
+
+Blir ikke avbrutt 
+
+Å strømme musikk via Google Audio fungerer litt annerledes enn ved å bruke Bluetooth. 
+For det første går dette på WiFi-signalet, slik at musikken ikke stopper om du går for langt unna Chromecast-enheten; det være seg en tur ned i kjelleren eller på toalettet. 
+Faktisk hadde vi heller ingen problem med å gå med søpla heller – anslagsvis 50-60 meter unna huset. 
+Musikken spilte like fint i mens. 
+
+Når du starter en sang på telefonen, instruerer du egentlig bare Chromecast å spille av sangen fra nettet – det sendes dermed ikke en kontinuerlig datastrøm fra telefonen din, og dermed bruker løsningen mindre batteri enn om du strømmer via Bluetooth. 
+
+En annen fordel er at musikken ikke blir avbrutt om noen ringer deg, eller av varsel-pling fra telefonen. 
+Du kan derfor fint ta en telefonsamtale mens resten av festen hører musikk som vanlig. 
+Og blir du lenge borte, kan de som sagt overstyre musikken selv. 
+
+I en fremtidig oppdatering har Google avslørt at de nå jobber med å få til flerromsstøtte på Chromecast Audio, slik at du kan spille av den samme lyd i flere rom om du har flere Chromecast Audio-enheter. 
+Det vil i så fall gjøre løsningen enda mer attraktiv for mange. 
+
+Konklusjon 
+
+Foruten tidvis småhakking når vi castet lyd via Chrome-nettleseren på en PC har vi opplevd Chromecast Audio stabil og fin i testperioden. 
+Det er enkelt å komme i gang – ikke er det mange kabler å forholde seg til, og ikke er det vanskelig å sette den opp via appen. 
+Dessuten har app-støtten blitt ganske god; enten du vil strømme musikk fra Spotify eller høre på P4 via TuneIn-appen. 
+
+Plasseringsproblemer får man heller ikke – denne lille saken kan man gjerne ha liggende bak forsterkeren – helt ute av syne. 
+
+Med andre ord – har du et par ålreite høyttalere er dette en billig og enkel oppgradering for å kunne spille trådløs lyd i stua. 
+Fordelen i forhold til en tilsvarende Bluetooth-løsning er flere – ikke gjør det noe om du går for langt unna, lydkvaliteten vil være bedre (om du bruker en optisk tilkobling) og ikke blir musikken avbrutt av pling-varsler og innkomne samtaler på telefonen. 
+
+I våre øyne kunne den godt ha vært priset litt lavere i forhold til Chromecast 2 («tv-versjonen»), gitt at den tross alt bare kan strømme lyd og ikke bilde. 
+
+Google Chromecast Audio 
