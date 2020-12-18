@@ -1,0 +1,98 @@
+Asus Chromebit- ChromeOS på en pinne 
+
+Plugg den i skjermen, og vips - så er du på nett. 
+Vi har testet. 
+
+Det finnes i hovedsak tre typer personlige datamaskiner på markedet i dag: 
+De som kjører Windows (som utgjør brorparten), de som kjører OS X 
+(Apple-maskiner) og de som kjører ChromeOS fra Google (i hovedsak Chromebooks). 
+
+Dette må du vite om ChromeOS 
+
+ChromeOS skiller seg vesentlig ut fra de to første, ved at du ikke kan installere programmer og apper lokalt. 
+
+Alt foregår i skyen gjennom nettleseren Google Chrome, via vanlige nettsider og web-apper (Du kan riktignok «bufre» data du jobber med lokalt, for eksempel når du jobber med dokumenter i Google Docs). 
+
+Det er ellers snart ingen grenser for hva du kan få gjort gjennom nettleseren, så for mange vil det ikke være noe stort ankepunkt at ting skjer i skyen og ikke lokalt. 
+
+Faktisk kan det være mange fordeler også knyttet til dette. 
+Når ting ligger lagret i skyen, behøver du for eksempel ikke å bekymre deg for at viktige filer skal gå tapt hvis datamaskinen tar kvelden eller havner på avveie. 
+
+En maskin med ChromeOS vil samtidig være helt verdiløs for alle som ikke kjenner brukernavnet og passordet ditt i Google-skyen. 
+
+En annen fordel med ChromeOS er at du kan klare deg med svært enkel maskinvare. 
+Ikke trenger du stor lagringsplass, og selv med 2 GB minne og en enkel Celeron-prosessor, reagerer maskinene lynraskt på alle kommandoer. 
+Det kan ikke alltid Windows-maskiner skryte av! 
+
+Små og lydløse PC-pinner 
+
+ChromeOS kan derfor fint kjøre på datamaskiner på størrelse med en lighter, helt uten viftekjøling. 
+Et godt eksempel er dagens testmaskin, Asus Chromebit, som måler 31 × 123 × 17 millimeter og veier 75 gram. 
+
+Maskinen er utstyrt med en enkel ARM-basert prosessor (Rockchip 3288), 2GB RAM og 16GB flashminne til lagring. 
+Av tilkoblinger finner du kun HDMI-pluggen og en USB 2.0-port, i tillegg til strøminntaket. 
+
+I tillegg har Chromebit støtte for trådløst nett (802.11abgn og ac) og Bluetooth 4.0. 
+
+Du kan koble til et vanlig trådløst tastatur og mus hvis du plugger mottakeren i USB-porten, men det fratar deg samtidig muligheten til å sette inn en minnepinne eller annet USB-utstyr. 
+
+Bluetooth kan derfor være en smart løsning, men merk at dette er utstyr du må besørge selv. 
+Verken mus eller tastatur følger med i pakka. 
+
+Klar på 1-2-3 
+
+Merk at du kan få problemer med å plugge Chromebit rett i TV-en, avhengig av hvor trangt det er mellom HDMI-inngangene. 
+
+I tillegg stikker den 12 centimeter rett ut i bakkant, noe som også kan skape problemer. 
+Derfor har Asus lagt ved en liten kabelstump som du kan benytte mellom. 
+
+Så snart du har plugget Chromebit i TV-en eller monitoren, starter den opp av seg selv. 
+Den har ingen av/på knapp. 
+Her er heller ingen vifter, så maskinen er helt lydløs. 
+
+Etter noen sekunder vil du se oppstartsbildet på skjermen, og kan starte prosessen med å sette opp maskinen. 
+Det innebærer å koble deg til et trådløst nett og logge deg inn med Google-kontoen din. 
+
+Raskt og for det meste problemfritt 
+
+Når du er innlogget, vil du få tilgang til nøyaktig de samme bokmerkene og web-applikasjonene som du får i Google Chrome på en vanlig PC. 
+
+Deretter er det bare å besøke de tjenestene du vanligvis bruker, det aller meste (med unntak av JAVA-baserte apper) vil fungere fint. 
+Også Adobe Flash har den støtte for. 
+
+Det trådløse nettverkskortet støtter AC-standarden, og byr på bra ytelse og rekkevidde. 
+
+Vi målte for eksempel over 120 Mbps mot Speedtest.net, noe som var helt på høyde med både iPhone og en bærbar PC vi hadde på samme sted. 
+Det er uansett mer enn nok til å strømme video i alle aktuelle oppløsninger fra aktuelle strømmetjenester. 
+
+Begrensningen ligger i prosessoren, og Rockchip 3288 er ikke kraftig nok til å håndtere 4K-materiale fra for eksempel YouTube og Netflix. 
+
+Vi testet en rekke strømmetjenester, og i tabellen under ser du hvordan det gikk: 
+
+Som du ser kan ting fungere greit, men når det gjelder videostrømming (spesielt de norske) må du tåle litt bugs og hakking innimellom. 
+Litt kraftigere prosessor hadde muligens løst problemene, som vi mistenker er begrenset til nettsteder som bruker Flash. 
+
+Vi legger til at HTML5-løsningen til NRK feiler i ChromeOS. 
+
+I tillegg prøvde vi en rekke web-apper, de aller fleste fungerte helt fint, deriblant Google Docs og Microsoft Office for web, Skandiabanken nettbank med mer. 
+
+I praksis er sjansen stor for at de meste vil fungere like bra som på en Windows- eller OS X-basert maskin, så lenge du slipper å benytte tjenester basert på JAVA, men disse begynner å bli temmelig eksotiske nå. 
+
+Konklusjon 
+
+Asus Chromebit er en grei (og rimelig) løsning for deg som får gjort alt du behøver via nettleseren. 
+
+Det er ingen god løsning for deg som ønsker å bruke Photoshop og andre avanserte programmer, ei heller for deg som er avhengig av å ha mye brukerdata lagret lokalt. 
+
+Det er heller ingen optimal løsning for deg som ønsker deg en lydløs dings til å strømme video fra NRK, TV2 og Dplay (TVNorge- og Discovery-kanalene), faren for at du vil oppleve irriterende hakking er rett og slett litt for stor. 
+
+Utover dette: 
+Litt mer plass til filer du ikke vil ha i skyen, hadde vært velkomment, og at Chromebit kun har en USB-port og mangler plass til minnekort, er også ankepunkter. 
+Derfor havner vi til slutt på en sterk treer på terningen. 
+
+Merk også at det finnes Windows-baserte plugger av samme type, flere av dem koster omtrent det samme - for eksempel Intel Compute Stick. 
+Den er imidlertid ikke støyfri som denne. 
+
+Les plussene og minusene i boksen under før du bestemmer deg. 
+
+Asus Chromebit CS10 B010C 

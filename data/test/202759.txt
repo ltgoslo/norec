@@ -1,0 +1,96 @@
+Test av TrackR Bravo GPS Tracker
+Vi har testet produktet som finner nøkler, lommeboka eller andre ting du har lett for å rote bort. 
+
+Ideen er genial. 
+TrackR Bravo er en liten elektronisk brikke på størrelse med en nøkkelring som hjelper deg med å finne nøklene dine, lommeboken, veska eller bilen. 
+
+Den er utstyrt med et batteri som skal vare sånn omtrent et år, og en trådløs lavenergi-sender som snakker med mobilen din. 
+Den fungerer på nyere mobiler via Bluetooth. 
+
+Mobilen oppdaterer posisjonen til brikken slik at du kan gå tilbake og se når den sist var i nærheten av mobilen. 
+
+Den ble finansiert via crowdfundingtjenesten IndieGoGo og har allerede en stund vært til salgs i butikk i Norge. 
+
+Spar tid på å lete 
+
+Produktet er perfekt for oss som noen ganger har hodet et annet sted enn kroppen. 
+Vi har langtidstestet TrackR Bravo i et par måneder. 
+
+Jeg står hos frisøren. 
+Idet jeg skal fiske opp lommeboken av jakken, innser jeg at den antakelig ble liggende hjemme idet jeg løp ut døra. 
+Utrolig flaks at jeg har gjemt en gps-sender i lommeboka. 
+
+Jeg fisker opp appen TrackR på min iPhone. 
+Den logger automatisk inn og søker, viser sist posisjon på et kart. 
+Jeg løper hjem og finner den på kjøkkenbordet. 
+
+Måtte bytte batteri 
+
+I starten av testen opplevde vi TrackR Bravo som enormt upålitelig. 
+Men mange av feilene forsvant når vi byttet batteri – det viste seg at den kom ut av boksen med et nesten tomt batteri. 
+
+Oppsett og bruk var særdeles greit. 
+Vi kom raskt i gang og fikk testet at brikken snakket med mobilen. 
+
+Den ga fra seg en lyd, dessverre alt for lav, når den ble kalt på og den fikk mobilen til å sende sin posisjon til TrackR sine servere slik at appen kunne se hvor den var selv når jeg var beveget meg til et annet sted. 
+
+TrackR har likevel noen svakheter. 
+
+Problem 1: Rekkevidden 
+
+Ideen med TrackR er at så lenge du er i radius for blåtann skal du kunne be brikken om å pipe. 
+Det fungerer. 
+
+Men dessverre er den relle radiusen litt kort. 
+Reklamen lover 30 meter, som er mer enn bra nok, i praksis er den nok en god del kortere. 
+
+Problem 2: 
+Lydnivået 
+
+Produktet er laget for å gjenfinne ting. 
+Du har stappet lommeboken inn i en jakke du sjelden bruker og hengt den tilbake i klesskapet. 
+Nøklene ligger begravet nederst i vesken, under laptopen – eller under en stor bunke skittentøy. 
+Da må det være relativt kraftig lyd skal du klare å høre den. 
+
+Alle som har testet Finn iPhone skjønner hva jeg snakker om – lyden gjaller i veggene, som den skal. 
+Dessverre er lyden utrolig ussel på TrackR Bravo. 
+
+Du kan helt sikkert ikke høre den gjennom en veske, og kan så vidt høre svake pip når den er i innerlommen på en jakke. 
+Det er på grensen til et ubrukelig lavt lydnivå. 
+Heldigvis hjelper indikatorer i appen deg til å leke tampen brenner. 
+
+Problem 3: Gruppefinnefuksjonen 
+
+Nok en genial ide med denne brikken er at andre kan hjelpe deg med letingen. 
+Om du har mistet noe, kan du sette brikken i mistet-modus. 
+
+Da vil andre brukere med samme app installert kunne finne tingen for deg, helt anonymt selvsagt, sende posisjonen til selskapets server og videre til din app. 
+Dermed kan vi alle lete etter nøklene til hverandre. 
+
+Dessverre er det to relaterte problemer med dette. 
+For det første ser det ut til at det bare er noen hundre aktive brukere i Oslo på tjenesten, selv om den har vært i salg en stund. 
+
+Men den viktigste svakheten er relatert til det første problemet. 
+Siden rekkevidden er lav, vil en anonym TrackR bruker som går forbi sjelden plukke opp signalet. 
+Den er dermed kun som en backup. 
+
+Men det vil fungere fint om du har flere telefoner selv med gjenfinningsappen – for eksempel alle i en familie. 
+
+Problem 4: Stabiliteten 
+
+Dessverre fungerer heller ikke appen spesielt bra. 
+Den krasjer ofte. 
+
+Når den ikke krasjer blir den stående å spinne uten posisjon og uten mulighet for å sende lyd. 
+Søker, står det. 
+Det er nesten mer frustrerende å ha mistet lommeboken med en tracker som ikke fungerer, enn uten. 
+
+Mot slutten av testen ble appen oppdatert i en nyere versjon som vi opplevde som mer stabil. 
+
+Konklusjon 
+
+Ideen bak TrackR Bravo er genial. 
+Det er veldig riktig tenkt og kul bruk av teknologi. 
+Dessverre er produktet litt for ustabilt. 
+Prisen er likevel så lav at det er en billig sikkerhet. 
+Jeg vil gjerne ha en både til lommeboka, nøklene og sykkelen. 

@@ -1,0 +1,120 @@
+DJI Osmo
+Håndholdte videoer med imponerende stabilitet. 
+
+Det er mange måter man kan stabilisere et kamera på. 
+
+Små motorer kan for eksempel flytte på bildebrikken basert på hvor ustø den som filmer er på hånda, eller man kan flytte på linser i objektivet; såkalt optisk bildestabilisering. 
+Med elektronisk stabilisering brukes ikke hele bildebrikken når man filmer, slik at de aktive pikslene på sensoren kan endres på underveis. 
+
+Men enda bedre er en løsning der hele kamerahuset stabiliseres; da via en gyroskop-innretning som kalles for en «gimbal», eller slingrebøyle om du tvinger oss til å bruke et norsk ord. 
+
+Disse får du for eksempel kjøpt som tilleggsutstyr til GoPro-kameraer og lignende. 
+Et eksempel er Slick, som vi skrev om i fjor sommer. 
+
+DJI Osmo er et videokamera fra den anerkjente drone-produsenten DJI, som blant annet står bak de populære Phantom-dronene. 
+Det er egentlig en gimbal og et kamera i ett, som i praksis betyr at du får særdeles stabile videoer selv om du holder kameraet med én hånd. 
+
+Du skal få se eksempler lenger ned, men la det være sagt med en gang at vi blir svært imponerte av video som nærmest ser ut som dronevideo selv om vi løper med kameraet i hånda. 
+
+Mobiltelefonen som søker 
+
+Selv om du kan bruke DJI Osmo uten ekstrautstyr, er du nødt til å koble til en mobiltelefon for å få et søkerbilde å forholde deg til. 
+Her finnes det apper både for iOS og Android, og løsningen fungerer ved at Osmo oppretter et trådløst nettverk som man kobler seg til med mobiltelefonen. 
+
+Mobiltelefonen kan du feste i en klemme på siden. 
+De to armene brettes ut til ønsket vinkel, avhengig av størrelse og bredde på telefonen, og deretter drar man ut det fjærbelastede festet, som sørger for å stramme grepet når telefonen er på plass. 
+
+Vi vil anta at de med de aller største telefonene kan få en utfordring der, men vi har i hvert fall fått plass til en Galaxy S7 Edge, som var den største vi hadde for hånden. 
+Den har 5,5 tommers skjerm og telefonhøyde på 15,1 centimeter, men da er det ikke mange millimeter vi har å gå på. 
+
+Og så fort man har koblet seg til Osmo-nettverket og startet DJI-appen, får man opp søkerbildet. 
+Merk at du er nødt til å gjøre dette én gang først for å aktivere produktet slik at stabiliseringen fungerer – vi trodde først vi hadde fått et mandagsprodukt til test siden ingenting skjedde da vi slo på kameraet. 
+
+Stabilisering i tre akser 
+
+Når du så skal bruke Osmo, må du først løsne de tre låsene; en for hver akse. 
+Det gjør du enkelt ved å vri enheten ut av to låser og deretter løsne den tredje låsen, som er sikret med en bryter. 
+Når det er gjort og du slår på kameraet, vil det automatisk rette seg opp, men altså ikke før du har gått igjennom det initielle oppsettet med appen. 
+
+Dersom vi ser bort fra betjening via telefonen, kan du betjene Osmo bare ved å bruke én hånd. 
+Foran, altså på pekefingeren, har du en knapp som låser retningen slik at kameraet blir svært stabilt. 
+Trykker du på den to ganger, retter kamereat seg slik at det peker rett frem, og trykker du tre ganger snur det seg 180 grader til selfie-modus. 
+
+På tommelen har du en liten joystick-innretning som lar deg panorere opp, ned og til sidene. 
+Dette kan du også gjøre rent fysisk ved å vri objektivet slik du ønsker. 
+I tillegg finnes to knapper for start/stopp av videopptak, samt stillbilder. 
+
+Styr med appen 
+
+Vil du ha litt flere avanserte muligheter enn det, er det appen som er stikkordet. 
+Den trenger du også for å endre innstillinger i kameraet, som videooppløsning og lignende. 
+
+Ved siden av å justere eksponering, lukkertid og den slags, kan den også brukes for å styre kameraet, der du drar fingeren langs skjermen slik at kameraet følger etter. 
+Merk at du selvsagt ikke må ha telefonen i festet, siden kommunikasjonen er trådløs. 
+Som ekstrautstyr får du for eksempel stativ, bilfeste og lignende til Osmo, som da gjør at du kan stå flere meter unna og operere kameraet fra telefonen. 
+
+Støtter 4K 
+
+Osmo kan fange video med 4K-oppløsning (3840x2160), enten med 24, 25 eller 30 bilder pr sekund. 
+I full HD-oppløsning finnes de samme mulighetene, dobbelt så høy bildefrekvens (48/50/60), samt 120 bilder per sekund, som da vil gi sakte film med 1/4 av opprinnelig hastighet. 
+
+Objektivet har lysstyrke på f/2,8 og relativt god vidvinkel, med 94 graders utsnitt (~20mm). 
+Det gjør at kameraet fanger mye i bredden, uten at det blir nevneverdig mye fortegning, slik man får på et fisheye-objektiv. 
+Bildebrikken fra Sony (Exmor R) er 1/2,3"; altså på størrelse med de største som brukes i mobilkameraene, og oppløsningen på stillbildene blir 12 megapiksler. 
+
+En liten svakhet er imidlertid at kameraet ikke har noen autofokus, og at ting som er nærmere enn 1,5 meter dermed blir uskarpe. 
+
+Mer at kameraet, Zenmuse X3, kan byttes ut med et annet. 
+Zenmuse X5 er et FourThirds-kamera som kan brukes med alle objektiver med FourThirds-standarden, men prislappen da er brått rundt 20.000 kroner ekstra. 
+
+Batteriet tas ut av håndtaket når du lader det i en egen lader. 
+Det tar cirka en time å lade det fra 0-100 og det varer til cirka en times filming. 
+Du kan selvsagt kjøpe flere ekstra. 
+
+Enkelt å komme i gang 
+
+Vi synes dette var et produkt det var enkelt å komme i gang med, men et lite sjokk fikk vi da vi skulle begynne, for viftene bråker unormalt høyt. 
+
+Nå gjorde heldigvis den siste oppdateringen at viftene stopper under opptak slik at de ikke skjemmer lyden som spilles inn, selv om man fortsatt kan høre susing fra motorene som stabiliserer kameraet. 
+
+Glemmer du å låse opp de tre låsene før du skrur på kameraet, piper det med jevne mellomrom for å advare deg om at du må låse dem opp. 
+
+Og slik blir videoene 
+
+Vi har blitt mektig imponerte av hvor stabile videoene blir når man filmer. 
+Ved å klemme inn knappen på pekefingeren låses som nevnt retningen, og dermed kan du fint løpe og allikevel få en svært stabil video; nesten som om det var en drone som fløy bortover. 
+Uten denne låsen aktivert er ikke bildet like stabilt, der det vagger så vidt fra side til side i takt med skrittene dine. 
+
+Automatikken oppfører seg relativt greit – den er litt treg med å skifte eksponering når man går fra lys til mørke og omvendt, og prioriterer litt feil i motlyssituasjoner, der himmelen blir riktig eksponert og ikke det i forgrunnen, noe du vil se eksempel på i videoen under i det utøveren stabler steiner halvveis ut i klippet. 
+
+Hva gjelder lyden er den ikke mye å skryte av med mindre du bruker en ekstern mikrofon. 
+Heldigvis følger en slik med i pakken, som stikkes inn i fronten av kameraet og gjør lyden vesentlig bedre, selv om den lave summingen fra kameraet ikke blir helt borte med den heller. 
+Mer ideelt er nok å ha en litt proffere mikrofon koblet til. 
+
+Under ser du en eksempelvideo. 
+Den er blitt komprimert av YouTube og holder ikke samme bildekvalitet som originalen, men viser i hvert fall godt hvor stabilt bildet blir. 
+Husk at dette altså er filmet håndholdt, og legg spesielt merke til oppløpet til slutt, der jeg løper bak utøveren. 
+For ordens skyld er dette uten den eksterne mikrofonen montert: 
+
+Vil du studere bildekvaliteten litt nøyere, har vi lagt ut en direkte nedlasting til en fil med 4K-oppløsning. 
+Her skal det sies at filstørrelsene blir svært høye – en film på snaue tre minutter tok 1,2 GB, så for 4K-filming vil du nok trenge et større minnekort enn 16 GB-minnekortet som følger med. 
+
+Vi har også lagt ved et klipp fanget i mørket med full HD-oppløsning. 
+Da blir et mer støy og ikke like imponerende, men allikevel helt brukbart, spør du oss. 
+I tillegg – et klipp der vi har brukt den eksterne mikrofonen som følger med, som altså gir en helt annen lyd enn om du lar være å bruke den: 
+
+Også på stillbilder gjør DJI-kameraet en god jobb. 
+Under ser du et stillbilde der vi har brukt HDR-funksjonen – akkurat den kan dra på litt i overkant etter vår smak så bildene ser litt smått kunstige ut, så vi har også lagt ved et bilde uten HDR aktivert: 
+
+Konklusjon 
+
+Det koster litt å være kar med DJI Osmo, og med en prislapp på rundt 6.000 kroner er ikke dette et produkt som frir til alle. 
+
+Når det er sagt, har vi latt oss imponere av hvor stabile videoene blir selv når vi løper med kameraet, og skal du ha tilsvarende ekstrautstyr til et GoPro-kamera snakker vi brått en totalpris som blir i samme prisklasse og gjerne litt over. 
+
+DJI Osmo er lett å betjene og har i våre øyne en fornuftig vidvinkel, som fanger mye mer enn et tradisjonelt videokamera, men uten å overdrive det, slik at du slipper den typiske fortegningen som mange actionkameraer har, med svært buede kanter. 
+
+På minussiden er ikke batteritiden allverden, og også batteriet på mobiltelefonen blir belastet ganske hardt av DJI-appen. 
+Manglende autofokus gjør at du heller ikke kan gå spesielt nærme det du filmer, og støyen fra kameraet er noe skjemmende; også under opptak, der den eksterne mikrofonen heldigvis klarer å bøte på noe av det. 
+
+DJI Osmo X3 with Handle 

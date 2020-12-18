@@ -1,0 +1,123 @@
+Veldig mye PC i en kompakt innpakning
+Multicom kan dette med å gi deg mye PC for pengene. 
+Talisa U831 er såvisst intet untak. 
+
+Åmli-bedriften Multicom har bygd og solgt PC-er siden midten av 90-tallet. 
+I skrivende stund er de ganske alene om å konfigurere bærbare PC-er under eget merkenavn i Norge, og de siste årene har vi sett på en rekke av dem. 
+
+Maskinene skiller seg ut fra de fleste andre på det norske markedet, ved at de selges uten operativsystem. 
+Bruker du Linux eller har en Windows-lisens fra før, kan du dermed spare noen hundrelapper. 
+
+Hovedfokus ligger på gaming-segmentet, men de har også modeller som er myntet på deg som ønsker en lett og robust maskin. 
+
+Meget godt utstyrt 
+
+Vi har tidligere testet to modeller i Talisa-serien, U953 og U731. 
+Siste tilskudd er U831, som er en meget oppdatert modell som byr på svært mye av maskinvare og tilkoblinger - til tross for sitt kompakte ytre. 
+
+Skjerm: 13,3 tommer, matt WVA-panel (1920 x 1080 piksler) OS: 
+Leveres uten. 
+Windows 10 koster fra ca 1.000 kr Prosessor: 
+Intel Core i5-7200u Grafikk: 
+Intel HD 620 RAM: 
+16 GB SSD/HDD: 256 GB + 1 TB Nett: 
+802.11ac, Bluetooth 4.1 Tilkoblinger: 1 stk USB-C (3.1 gen1), 2 stk USB 3.0, miniDisplayport, HDMI, minijack for lyd inn/ut Størrelse: 32,9 x 22,5 x 1,8 mm Vekt: 
+1,5 kg Pris: 
+8.495 kr inkl mva (27.6.17) 
+
+Eller skal vi kalle den Hyperbook N13? 
+Det er nemlig ikke bare Multicom som har satt sitt navn på denne maskinen, som egentlig er produsert av kinesiske Clevo. 
+Hyperbook driver på samme måte, og opererer i det polske markedet. 
+Vi har også sett den med andre merkenavn påklistret. 
+
+Nok om det. 
+Multicom selger den i fire forskjellige konfigurasjoner, vårt testeksemplar er blant det best utstyrte. 
+Denne kompakte maskinen, som veier knappe 1,5 kilo, er rett og slett imponerende spekket. 
+Se bare på spesifikasjonene i boksen til høyre. 
+
+Prisen på 8.490 kroner (uten operativsystem) er det i utgangspunktet definitivt ikke noe å si på for en slik konfigurasjon. 
+
+Solid og oppdatert 
+
+Maskinen har et tidsriktig kabinett i matt aluminium, der alle tilkoblingene sitter på venstre og høyre side. 
+
+Og i motsetning til de siste maskinene vi har testet, er det her flust av tilkoblinger. 
+
+Du har to vanlige USB 3.0-porter, en USB-C-port med støtte for Thunderbolt 3 (kan for eksempel brukes sammen med et eksternt grafikkort), separate mic- og aux-utganger, miniDisplay-port (versjon 1.3), HDMI-utgang (versjon 1.4), nettverksport (gigabit ethernet) og kortleser for SD-minnekort. 
+Det er til og med en SIM-kortleser på venstre side, men denne krever en 4G-modul som ikke kommer som standard. 
+
+På undersiden sitter det et luftinntak. 
+Det betyr at denne PC-en bør stå på et flatt og hardt underlag når den er i bruk, særlig når den belastes med krevende programmer - for å unngå at den blir for varm. 
+
+Du finner også et par høyttalere på undersiden. 
+Disse gir en lyd på nivå med det du får fra en middels avansert mobiltelefon, omtrent kjemisk renset for alt som kan minne om bass. 
+
+God skjerm og tastatur 
+
+Åpner du opp lokket, blir du møtt av en matt skjerm på 13,3 tommer, med en oppløsning på 1920 x 1080 piksler. 
+Rammen rundt er ganske så tykk i forhold til på mange av de siste premium-maskinene vi har testet. 
+
+Panelet er av typen WVA, som kan ses på som en konkurrent til IPS - og vårt inntrykk er at den byr på like gode innsynsvinkler. 
+Du kan betrakte den fra nær sagt død vinkel, uten at farger og kontraster blir særlig skadelidende. 
+Lysstyrken er også bra. 
+
+Tastaturet er romslig, svart, baklyst og helnorsk. 
+De store PC-produsentene har som regel fellesnordiske tastaturer, noe som blant annet betyr at tastene ÆØÅ også er preget med ØÆÅ og ÄÖÅ. 
+Ikke særlig vakkert, men sikkert kostnadsbesparende. 
+
+Tastaturplaten er fast, tastene er responsive og avgir lite lyd når du taster - selv når du trykker hardt og raskt. 
+Det er meget positivt, mener vi. 
+
+Under tastaturet sitter en pekeplate, som er vesentlig mindre enn på de fleste konkurrentene, inkludert de to søskenmodellene U953 og U731. 
+Den har også separat, to-akset knapp for venstre- og høyreklikking. 
+Til vanlig bruk ser vi ikke på størrelsen som noe ankepunkt. 
+Pekeplaten fungerer bra, også flerberøring - for eksempel bruker vi to fingre til å skrolle gjennom lange dokumenter og nettsider. 
+Dette forløper silkemykt på U831. 
+
+Du finner imidlertid ikke noen fingeravtrykkleser her, og så vidt vi vet har heller ikke webkameraet støtte for Windows Hello - noe flere av konkurrentene har fått på plass. 
+
+Slik opplevde vi den i bruk 
+
+Maskinen leveres med siste generasjon Intel Core i5-prosessor (Kaby Lake), samt både en PCIe-basert SSD på 256 GB og en romslig harddisk på 1000 GB. 
+Det er uvanlig kost i en såpass kompakt PC, og sørger for at du for eksempel kan ha hundrevis av filmer med deg på ferietur, uten at det begynner å bli trangt om plassen. 
+
+Poeng: 2411 CPU: 3618 GPU (3D): 
+1025 SSD l/s: 1,6 GB/608 MB pr sek Batteri video: 383 min 
+
+Ytelsen er ganske som forventet for denne meget vanlige prosessoren med integrert Intel HD 620-grafikk. 
+Kombinert med 16 GB RAM, ekspederes de aller fleste PC-oppgaver raskt og effektivt, også dem som innebærer video i 4K-oppløsning på ekstern skjerm, mye multitasking og arbeid med svære datamengder. 
+Her spiller også den raske SSD-en en viktig rolle - med lesehastigheter på inntil 1,58 GB i sekundet og skrivehastigheter på inntil 608 MB i sekundet - omtrent identisk med vår favoritt i klassen, Acer Swift 3. 
+
+Dette må du merke deg 
+
+Merk imidlertid at spillytelsen er så som så. 
+Du kan nok spille mange av de nyere, mer krevende spillene, men sjelden uten å gå kraftig ned på oppløsning og detaljrikdom. 
+Det skal imidlertid gå an å koble til et eksternt grafikkort via USB-C/Thunderbolt 3-porten, men dette har vi ikke prøvd. 
+
+Du må også belage deg på at PC-en er langt fra lydløs når den blir belastet hardt. 
+En mekanisk harddisk bidrar også til at den totale varmeutviklingen blir temmelig høy i et såpass kompakt chassis. 
+Til tross for dette kan det gå lang tid mellom hver gang viften spinner opp, hvis belastningen er liten. 
+
+Batteri som forventet 
+
+Til slutt har vi målt batteritiden. 
+383 minutter holdt batteriet koken med kontinuerlig strømming av video fra YouTube. 
+Det tilsvarer 6 timer og 23 minutter, et resultat som er ganske midt på treet i forhold til konkurrentene. 
+
+Ved lett og variert bruk kan du nok klare mellom 7 og 8 timer, noe som også er i tråd med målingene til produsenten, og absolutt godkjent. 
+
+Konklusjon 
+
+Multicom har nok en gang levert en maskin som er spesifisert meget bra til prisen, og gjennomføringen er også god. 
+Kvalitetsfølelsen er omtrent som forventet i den populære mellomklassen. 
+
+Litt støy under belastning og spinkel lyd av høyttalerne, er de viktigste ankepunktene. 
+Vi skulle også gjerne sett at den hadde støtte for Windows Hello, noe mange konkurrenter har nå. 
+
+Uansett: 
+Her får du rett og slett en god PC som gir deg mer enn det vi forventer til prisen på flere punkter, og vi lander til slutt på en femmer på terningen. 
+Se våre plusser og minuser i boksen før du bestemmer deg, og ta også en titt på testene av Acer Swift 3 og Lenovo Ideapad 510S, som er to åpenbare alternativer i mellomklassesegmentet. 
+
+Du finner mer info om U831 hos Multicom. 
+
+Få med deg de øvrige testene, og vår ferske PC-oversikt for deg som ser etter en modell i budsjettklassen. 

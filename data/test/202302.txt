@@ -1,0 +1,114 @@
+HP Spectre X360 - 2017-utgaven
+Markerer starten på det nye teståret med et smell. 
+
+Hvis du har fulgt med på Dinsides PC-tester de siste årene, vet du at det ikke er første gang vi omtaler Spectre X360. 
+Dette er tredje gang - og tredje generasjon X360 som testes hos oss. 
+Begge de to foregående kan betegnes som vellykkede 2-i-1-hybrider - altså PC-er som med et enkelt håndgrep forvandles til nettbrett. 
+
+Skjerm: 13,3-tommer, full HD IPS-berøringsskjerm, blank (1920 x 1080 piksler) OS: 
+Windows 10 Home norsk Prosessor: 
+Intel Core i7-7500u RAM: 
+16 GB (som også er maks) SSD: 512 GB (M.2 PCI-e) Nett: 802.11ac, Bluetooth 4.2, Gb ethernet (overgang medfølger) Tilkoblinger: 2 stk USB-C gen 2 /Thunderbolt 3, 1 stk USB 3.1 gen 1, minijack for lyd inn/ut Størrelse: 
+30.6 cm x 21.8 cm x 1.38 cm Vekt: 
+1,44 kg 
+
+Vi tror imidlertid at de færreste kjøper en X360 eller tilsvarende PC fordi de er spesielt interessert i nettbrettfunksjonaliteten, men det er greit å ha muligheten. 
+En hybrid som dette kan også brukes i mange andre posisjoner. 
+
+Helt nytt 
+
+Årets utgave er helt ny, både på inn- og utsiden. 
+Det er egentlig bare navnet igjen fra forrige generasjon. 
+Kabinettet er helt nytt, og PC-en er blitt vesentlig tynnere enn forrige generasjon - blant annet takket være et nytt og enklere hengslesystem. 
+
+Tilkoblingene er også nye, og endelig har X360 fått USB-C-porter - to i antallet. 
+
+Uten HDMI 
+
+At den mangler HDMI-utgang er nok en ulempe for noen, her trengs en overgang fra USB-C/Thunderbolt 3 for å koble til en vanlig ekstern skjerm eller projektor. 
+USB-C-portene er begge av typen gen 2, noe som betyr at du får den beste båndbredden som er mulig med grensesnittet (inntil 1,2 GB i sekundet). 
+PC-en lades også gjennom disse portene, det spiller ingen rolle hvilken av dem du kobler ladekabelen i. 
+
+Merk videre at det kun er én klassisk USB-port på maskinen. 
+Dette er naturligvis kjedelig dersom du trenger å koble til flere dingser samtidig. 
+Da trenger du nok en overgang, ingen tvil om at vi lever i en overgangsperiode. 
+Det følger forresten med en overgang fra USB-C til kablet gigabit ethernet. 
+Alt annet må du besørge selv. 
+
+Dyr, men du får mye premium 
+
+PC-en kommer foreløpig i to forskjellige konfigurasjoner bygd rundt syvende generasjon Intel Core i-prosessor. 
+Vårt testeksemplar er å regne som toppmodellen, du finner en oversikt over de tekniske egenskapene i boksen over til høyre. 
+
+Den nye X360 har et kabinett i sølvfarget, matt aluminium, og måler ikke mer enn 1,38 cm på det tykkeste - forgjengeren målte 1,6 cm. Som tidligere merker man fort at dette er et produkt i premiumsegmentet, noe som også gjenspeiles i prisene - billigste konfigurasjon med i5-7200u-prosessor koster i skrivende stund rundt 12.995 kroner, mens vår i7-utgave koster 16.995 kroner. 
+
+Den solide byggekvaliteten akkompagneres av en lyssterk og fin IPS-skjerm som bevarer bildekvaliteten selv fra skrå vinkel. 
+Det er kanskje overraskende at den kun har full HD-oppløsning, der forgjengeren bød på enda finere detaljer - men det er ikke noe ankepunkt for det normale øye - som uansett trenger oppskalering av tekst og grafikk på en såpass liten skjermflate. 
+
+Skjermrammen måler knappe fem millimeter på hver side, noe som er helt i tråd med hva vi forventer i premiumsegmentet i 2017. 
+
+Over tastaturet sitter et par stereohøyttalere, merket Bang & Olufsen. 
+Lyden er klar og fin, men mangler bass. 
+Vi har hørt fyldigere lyd enn dette på maskiner som er tilsvarende store. 
+Det er heller ikke fritt for litt skurring når vi skrur opp lyden høyt. 
+
+Fint tastatur 
+
+Tastaturet er fast og er etter vår mening helt på høyde med det beste fra konkurrentene. 
+Baklyset skrus enkelt av og på med F5-tasten, og i motsetning til mange andre lyses bokstaver og symboler godt opp på de sølvfargede tastene. 
+
+Skal vi være kritiske til noe ved tastaturet, måtte det være at enter-tasten kun dekker én linje, noe som medførte at vi trykket litt feil i begynnelsen. 
+Dette er imidlertid et lite hinder som man fort overvinner. 
+
+Hurtigtastene øverst kan trykkes direkte, uten behov for å holde nede funksjonstasten samtidig. 
+Dermed kan du enkelt justere volum, lysstyrke og hoppe til neste sang i mediespilleren din. 
+Det er forresten også volumknapper på siden av PC-en, naturligvis beregnet på nettbrettmodus - når tastaturet låses av. 
+
+Pekeplaten er middels høy, men til gjengjeld bredere enn hos mange konkurrenter. 
+Den er naturligvis multiberøringsfølsom, responsiv og fin. 
+Ikke alle liker skjermberøring, ikke kan den brukes i alle sammenhenger heller, og da er det helt avgjørende med en god pekeplate. 
+
+Kraftig oppgradert på innsiden 
+
+PC-en er vesentlig oppgradert på innsiden. 
+Her er som kjent en Core i7-7500u-prosessor, som er den kraftigste u-prosessoren fra Intel i skrivende stund, men HP har også oppgradert SSD-en med en PCI-e-variant som er mange ganger raskere enn på forgjengeren. 
+
+Vi målte en lesehastighet på inntil 1,77 GB i sekundet og skrivehastighet på i underkant av 600 MB i sekundet, hastigheter som kun er oppnåelig med denne typen SSD-er. 
+For deg som bruker, betyr det at oppstart av tunge programmer, samt lasting og skriving av store datamengder går lynkjapt. 
+
+Grafikkytelsen har også gjort et byks fra forrige versjon Core i-prosessor. 
+Dette merkes best i apper og programmer med 3D-dybde, men er spilling det viktigste du skal bruke PC-en til, bør du gå for noe annet - med dedikert grafikkort. 
+Den integrerte grafikken i Intel-prosessoren holder imidlertid til alt annet enn heftig gaming, inkludert 4K-video på din nye 4K-TV. 
+
+Drar ned totalytelsen 
+
+Selv om ytelsen er upåklagelig, har vi et par høner å plukke med HPs valg av standardprogrammer. 
+Først og fremst er vi kritiske til McAfee-sikkerhetspakken, som både serverer irriterende meldinger i hytt og gevær, og samtidig stjeler unødvendig store systemressurser. 
+Der er HP slett ikke alene. 
+Men også HPs egen Support Assistant hadde hatt godt av en opprenskning i koden. 
+Du kan risikere at disse to programmene, som kjører i bakgrunnen, til tider kan begrense ytelsen betraktelig. 
+Med på kjøpet får du gjerne både viftestøy og forkortet batteritid. 
+
+Ved å deaktivere HP-programvaren fra å kjøre automatisk i bakgrunnen (du kan kjøre det manuelt selv, hvis du vil se etter oppdateringer) og avinstallere McAfee, fikk vi rett og slett en helt annen - og etter vår mening mye bedre PC-opplevelse. 
+Det gjorde seg også utslag i batteritiden, som vi målte til 548 minutter med kontinuerlig videostrømming. 
+Det tilsvarer 9 timer og 8 minutter, noe som absolutt er godkjent. 
+Det indikerer at du kan forvente rundt 9-10 timer med variert, lett aktivitet - i tråd med hva du bør forvente i denne klassen. 
+
+Vi har nå også begynt å måle ladetiden på PC-ene. 
+Etter en halv time i stikkontakten var nivået 24 prosent, etter én time var den 51 prosent. 
+PC-en var i bruk under ladingen. 
+Her vil vi få mer data å sammenligne med etter hvert. 
+
+Konklusjon 
+
+Forgjengeren imponerte oss for ett år siden, og vi har latt oss begeistre nok en gang. 
+Årets Spectre X360 markerer helt klart et nytt steg opp på stigen, med slankere design og bedre ytelser (spesielt SSD og batteri). 
+
+Dessverre har forbedringene også gjort PC-en dyrere. 
+Vi har ikke funnet vår konfigurasjon på Prisjakt, men den selges blant annet hos Komplett. 
+Etter vår mening vil modellen med Core i5-prosessor til flere tusenlapper mindre være et mer fornuftig valg for mange. 
+Den har imidlertid 256 GB SSD og 8 GB RAM, noe som uansett bør være akseptabelt for de fleste. 
+
+Få med deg plussene og minusene i boksen under, og se gjerne vår oppsummering av de beste PC-ene/hybridene i 2016, som vi publiserte like før jul. 
+
+Flere konkurrenter befinner seg allerede på testbenken, vi gleder oss til fortsettelsen! 

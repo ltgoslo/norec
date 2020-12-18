@@ -1,0 +1,59 @@
+PopYourPhone- Slik får du DAB+ på mobilen 
+
+Plugg inn, start appen - og du kan strømme radio uten å belaste datakvoten din. 
+
+Slukkingen av FM-nettet nærmer seg med raske skritt, og om bare få måneder må du enten bruke DAB+ eller nettradio for å lytte til NRK P1, P4 og de andre norske radiokanalene. 
+Dette medfører at millioner av radiomottakere i norske hjem, biler og mobiltelefoner blir verdiløse. 
+
+Mange løsninger 
+
+Det dukker imidlertid stadig opp nytt utstyr som lar deg lytte til DAB+-sendingene på eksisterende FM-utstyr, først og fremst DAB+-adaptere og denne svarte boksen som monteres i dashbordet og som automatisk ruter deg til nettverket der radiostasjonen du vil høre på finnes i best kvalitet. 
+
+Har du en Android-mobil og vil lytte til DAB+-sendinger, finnes også adaptere som plugges i mobilens ladeport. 
+Dagens testprodukt er et slikt adapter. 
+Det har innebygd antenne, og styres enkelt via en app som du laster ned fra Google Play. 
+
+DAB+ eller nettradio? 
+
+Hva tenker du? 
+
+Ønsker du deg DAB+ på mobilen? 
+(Avsluttet) 
+
+Hva skal man med DAB+ på mobilen, tenker du gjerne. 
+Den har jo allerede muligheten til å strømme all verdens radiokanaler via Internett? 
+Hovedmotivet er naturligvis å spare datatrafikk. 
+I tillegg hevder produsenten av PopYourPhone at deres adapter bruker mindre strøm enn strømming gjennom mobildatanettverket (3G/4G). 
+
+PopYourPhone krever at du har en nyere Android-basert mobil med microUSB-kontakt med støtte for OTG (USB On The Go). 
+De fleste Android-mobiler produsert etter 2013 har dette på plass, ifølge produsenten. 
+Har du en slik, er det bare på plugge adapteret i USB-kontakten, laste ned appen Dab Player og søke etter tilgjengelige kanaler. 
+
+Våre erfaringer 
+
+Vi testet adapteret på mobilen HTC One i et kontorbygg på Hasle i Oslo, og etter første skanning fant appen hele 48 kanaler på DAB+-nettet. 
+Deretter kunne vi legge til favorittkanalene våre i en egen liste, og veksle mellom dem ved hjelp av forrige-neste-knapper nederst. 
+Bytte av kanal tar som regel noen få sekunder. 
+
+Her ser du noen skjermbilder fra appen: 
+
+Lydkvaliteten virker å være helt OK, men vi er ikke veldig imponert over signalstyrken. 
+Da vi bevegde oss gjennom kontorlokalet, falt signalet ut ved flere anledninger. 
+Nå skynder vi oss å legge til at dette er et mursteinsbygg, og at resultatet ute - eller i bil med stor sannsynlighet vil være bedre. 
+Et annet ankepunkt - og det er relativt stort - er at appen ikke kjører i bakgrunnen, den må være aktiv og i fokus for å fungere. 
+Det betyr at du ikke kan drive med andre oppgaver på mobilen samtidig som du lytter til radio. 
+
+Et tredje ankepunkt, riktig nok ganske lite, er at vi opplevde at appen krasjet ved to anledninger. 
+Da vi startet den på nytt, fungerte alt helt fint igjen. 
+
+Konklusjon 
+
+Her har du en løsning som lar deg lytte til DAB+-sendinger, og som fungerer greit under gode mottakerforhold - og hvis du synes det er greit å legge fra deg mobilen når du lytter til radio. 
+Har du AUX-inngang eller Bluetooth i bilstereoen, ser vi ikke bort fra at dette kan være et kjekt alternativ til DAB-adapterne du søker inn på FM-radioen - ikke minst hva angår lydkvalitet. 
+
+Sammenlignet med strømming av nettradio faller den derimot gjennom på alle måter, mener vi, med unntak av at du her slipper å tenke på utgifter til datatrafikk. 
+Avhengig av hvor mye du lytter til radio, og hvilket dataabonnement du har hos mobilselskapet, kan det selvfølgelig spille en rolle. 
+Til opplysning brukte vi opp over 500 MB i løpet av åtte timer med radiostrømming mellom Oslo og Bergen. 
+Det kan du lese mer om i denne artikkelen. 
+
+Produktet ble lånt ut av distributør Sahaga.com 

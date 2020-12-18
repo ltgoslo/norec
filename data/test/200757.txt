@@ -1,0 +1,106 @@
+TEST:Piper NV overvåkingskamera 
+
+Det beste vi har testet hittil. 
+
+Mange betaler hundrelapper i måneden til et vaktselskap for at de skal overvåke huset deres. 
+Men Verisure, Sector-Alarm og alle de andre kan komme til å slite framover. 
+
+For stadig flere frittstående overvåkingssystemer som du kan installere og drifte selv kommer på markedet. 
+Typisk koster slike løsninger mellom 2.000 og 3.000 kroner. 
+Og da snakker vi om en engangsavgift, uten et månedlig abonnement i tillegg. 
+
+Smarte kameraer til et par tusenlapper 
+
+Det er snakk om små overvåkningskameraer som er koblet til nett, og som reagerer på bevegelser, lyder, fuktighet og temperaturendringer. 
+Noen kan også kjenne igjen folk i huset ditt og holde styr på hund og katt også. 
+
+Felles for alle er at de gir deg levende videobilder via en app, slik at du kan følge med. 
+Og når du ikke følger med, varsler de om unormal aktivitet og tar opptak i samme slengen. 
+
+Bildekvaliteten er så god at videoen trolig kan brukes som bevismateriale dersom det handler om et innbrudd. 
+
+Hard konkurranse 
+
+Vi har tidligere testet to slike løsninger: Netatmo Welcome og Canary All-In-One Security. 
+
+Begge ga mersmak, selv om de hadde sine opplagte svakheter. 
+Det var derfor med stor spenning vi kastet oss over Piper NV, som har fått glimrende omtaler verden over og som regnes av mange som et flaggskip-produkt innen denne sjangeren. 
+
+Piper NV koster 2.949 kroner (pris fra Sikkerheten-selv.no), og er dermed en god del dyrere enn de to nevnte konkurrentene til henholdsvis 1.799 (Netatmo) og 2.149 (Canary). 
+
+Det ser umiddelbart ikke ut som noe stjernetilbud. 
+For mens både Netatmo og Canary kjenner igjen ansiktene til familiemedlemmer og dermed lar dem passere uten at alarmen går, har ikke Piper NV denne funksjonen. 
+
+Du må med andre ord stille inn alt manuelt, og selv passe på om huset er forlatt eller ikke. 
+
+Fungerer med en mengde annet utstyr 
+
+Selv synes vi dette bare er en fordel. 
+Ankepunktene vi hadde mot Netatmo og Canary var jo nettopp at ansiktsgjenkjenningen slett ikke var så smart som den gir seg ut for å være, og rett og slett var til mer trøbbel enn nytte. 
+
+Derimot har Piper støtte for en hel haug med tilleggsprodukter fra andre produsenter gjennom kommunikasjonsprotokollen IFTTT. 
+
+Det betyr i praksis at du kan bruke Piper sammen med fjernstyrte strømbrytere, bevegelsesdetektorer, klimastyring, automatiske dørlåser og en rekke andre smarthjemprodukter som selges i Norge. 
+
+IFTTT sørger på sin side at utstyret samarbeider med et stort antall apper for iOS og Android. 
+Både Facebook, Spotify, Pinterest og Twitter bruker dette systemet. 
+En fullstendig oversikt over alle IFTT-appene finner du på IFTT.com. 
+
+I tillegg kan du buke Piper sammen med Life360, en app som lar deg holde styr på hvor familiemedlemmer befinner seg og hva de holder på med. 
+
+Du kjøper altså ikke bare et overvåkingskamera, men en hussentral som kan kobles til nær sagt hva som helst. 
+Her er det med andre ord nesten ubegrensede muligheter for smarthjems-nerder. 
+
+Logisk og enkel å bruke 
+
+Men det er altså grunnproduktet vi tester her. 
+Og det fungerer absolutt etter hensikten. 
+Installasjonen er svært enkel. 
+Du kobler bare telefonen og kameraet til hjemmenettverket ditt, og så går resten av seg selv. 
+
+Appen er svært enkel å finne ut av. 
+Du har tre grunninnstillinger: 
+Alarm mens du er ute, alarm mens du er hjemme og alarm av. 
+
+Så kan du velge på hvilken måte du vil bli varslet. 
+Du kan bli oppringt av et robotstemme fra Vancouver i Canada, du kan få en tekstmelding eller en e-post dersom kameraet oppdager bevegelse i rommet, temperaturen blir unormalt høy eller det oppstår en høy lyd. 
+
+Du kan også aktivere eller deaktivere selve alarmen. 
+Kameraet sender ut et øredøvende hyl på 105 desibel. 
+Dette gjør det nesten uutholdelig å være i huset, så eventuelle innbruddstyver bør få fart på seg. 
+
+Men hva om tyven drar ut kontakten? 
+
+Et av ankepunktene mot Canary-kameraet er at det er enkelt for innbruddstyven å kutte strømmen. 
+Det finnes ingen batteri-backup og heller ikke noe varslingssystem for sabotasje. 
+
+Dette har Piper NV løst elegant ved å legge inn en "skjult" batteripakke under stativet kameraet står på. 
+Joda, om tyven kjenner produktet (eller leser denne anmeldelsen), vil det være en grei sak å åpne batterikammeret og tømme det. 
+Men da har du først fått beskjed når ledningen til strømadapteren fjernes. 
+Og prosessen tar litt tid, så kameraet vil trolig klare å ta et par bilder av tyven først. 
+
+Kameraet gir for øvrig en forhåndsvarsling før den store, stygge alarmen går, slik at du får en sjans til å skru av med appen dersom du skulle ha «armert» huset ved en feil. 
+
+Slik gikk det da vi prøvde hjemme: 
+
+Lett å plassere 
+
+Størrelsen liker vi også. 
+Kameraet er betydelig mindre og lettere enn Canary, men kanskje ikke så pent å se på som Netatmo. 
+Likevel gjør den brede sokkelen kameraet lett å plassere hvor som helst i huset. 
+
+Kvaliteten på videoen er - som med de andre kameraet - forbløffende god i forhold til det vi så på slike overvåkningskameraer bare for noen få år siden. 
+Du får en ekstrem vidvinkel, slik at hele rommet fanges inn. 
+Samtidig er ikke fortegningen så kraftig at ansikter forvrenges. 
+
+Konklusjon 
+
+Det eneste som virkelig trekker ned her, er at appen er noe treg til å oppfatte kommandoer. 
+Ofte gir den beskjed om at kameraet ikke er koblet på, selv om både kamera og app bevislig har kontakt med nettet. 
+
+Og det er underlig, siden sanntidsvideo fungerer prikkfritt uten nevneverdig forsinkelse. 
+
+Icontrol Piper NV 
+
+Men alt i alt er dette det beste smart-overvåkingskameraet for hjemmet vi har testet så langt. 
+Vi liker spesielt muligheten til å koble det sammen med annet utstyr, enkeltheten i oppsett og app, samt størrelse og utforming. 

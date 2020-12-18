@@ -1,0 +1,109 @@
+Den er lydløs, solid og slår konkurrentene på pris
+En av de norskeste PC-ene på markedet. 
+
+I et tøft marked har den norske PC-produsenten Multicom funnet en lønnsom nisje: 
+Gaming-maskiner. 
+Men selskapet har også noen lekre ultraportable PC-er i sortimentet, flere av dem har fått gode skussmål i tester her på Dinside. 
+
+Produksjonen av disse maskinene foregår hos OEM-produsenter i Asia, mens konfigurasjon av minne, SSD/harddisk og operativsystem skjer på Multicoms anlegg på Åmli i Aust-Agder. 
+
+Fin pris, også med operativsystem 
+
+Skjerm: 
+14 tommer, FHD IPS-skjerm, matt (1920 x 1080 piksler) OS: 
+Valgfritt. 
+Vi testet med Windows 10 Home norsk Prosessor: 
+Intel Core m5-6Y54 Grafikk: 
+Intel HD 515 RAM: 
+8 GB (maks 8) SSD: 256 GB Nett: 802.11ac, Bluetooth 4.0 Tilkoblinger: 2 stk USB 2.0, 1 stk USB 3.0, 1 stk USB-C (USB 3.0), micro-HDMI, minijack for lyd inn/ut, kortleser for microSD Størrelse: 340 x 232 x 14,9 mm Vekt: 1,49 kg 
+
+Denne gangen har vi sett nærmere på modellen Alvida K35, som er en slank 14-tommer på 1,49 kg til 6.795 kroner. 
+Det er samme vekt og omtrent samme prislapp som Acer Swift 3, som vi nylig kronet med terningkast 6. 
+
+Merk imidlertid at Alvida leveres uten operativsystem. 
+Dette må du besørge selv, eventuelt kan du få den levert med ren Windows 10 ferdig installert for totalsummen 8.284 kroner. 
+Det er fortsatt en bra pris for denne konfigurasjonen. 
+
+Ser kostbar ut 
+
+Eksteriørmessig er den svært lik mange ultrabooks i premium-segmentet, ofte priset til 10.000 kroner eller mer. 
+Det er benyttet matt, blågrå aluminium over det hele - også rundt skjermen, rundt tastaturet og bunnplaten. 
+
+Leddet mellom skjermen og tastaturdelen er langt og virker meget solid. 
+
+Bunnplaten er glatt, det er ingen åpninger for luftkjøling her, kun to høyttalere i forkant som dessverre byr på temmelig spinkel lyd. 
+
+Maskinen er relativt godt utstyrt hva gjelder tilkoblinger, disse sitter på venstre og høyre side. 
+Vi skulle ha ønsket at USB-C-porten støttet høyere hastigheter enn USB 3.0, og det hadde ikke gjort noe om kortleseren støttet fullstørrelses SD-kort og HDMI-utgangen var full størrelse - men dette er ikke helt uvanlige kompromisser på PC-er i dette segmentet 
+
+God skjerm 
+
+Skjermen måler altså 14 tommer. 
+Vi har lenge etterlyst flere 14-tommere på markedet, og i det siste har det dukket opp flere modeller. 
+Det mener vi er på høy tid, til glede for alle som synes 13,3 blir litt for lite og 15,6 litt for stort. 
+
+Den matte overflaten og et godt IPS-panel kombinert med bra lysstyrke, gjør den ideell til bruk under vanskelige og skiftende lysforhold, også fra spisse vinkler. 
+Det er også langt mer behagelig å se film på denne skjermen, spesielt de mørke scenene, enn på skjermer med enklere panel og/eller blank overflate. 
+
+Helnorsk tastatur - en sjeldenhet i konsumentmarkedet 
+
+Tastaturet er baklyst og helnorsk. 
+Sistnevnte hører med til sjeldenhetene i konsumentmarkedet. 
+Det i seg selv er et stort pluss, mener vi. 
+
+Videre er tastaturet også behagelig i bruk. 
+Tastene er ganske høye, faste og responsive, og støyer lite under bruk. 
+Det er litt svikt i midten av tastaturplaten hvis du trykker hardt, men det er ikke noe vi har merket i særlig grad. 
+
+Pekeplaten under tastaturet er passe stor, har integrerte felter for venstre/høyreklikk, og avgir kun en lav lyd under trykking. 
+Den støtter også flerberøring og såkalte «gestures», som gir mulighet for å foreta en rekke hurtigoperasjoner: 
+
+Slik yter den 
+
+På innsiden sitter en Intel Core m5-6y54 dobbelkjernet prosessor. 
+Dette er en svært strømgjerrig prosessor som holder seg kjølig nok til at den ikke trenger aktiv kjøling (les: vifte). 
+Takket være at PC-en leveres med SSD og uten optisk drev, er den helt lydløs, uansett hvor hardt du kjører den. 
+
+Passmark poeng: 
+1476 CPU: 
+2398 GPU (3D): 
+488 SSD l/s: 560 MB/337 MB pr sek Batteri video: 501 min 
+
+Prosessoren tilhørte sjette generasjon Core-prosessorer, og ytelsen ligger temmelig langt bak det du kan forvente av den sjuende generasjonen, som er gjeldende nå (Kaby Lake-generasjonen. 
+Vi har allerede testet en maskin med arvtakeren, Core i5-7y54, som varter opp med vesentlig bedre CPU/GPU-ytelse, som du ser av diagrammet under: 
+
+Forskjellene er ikke så merkbare ved enkel bruk, som surfing, epost, videotiting og lignende, men ventetiden kan være vesentlig lengre på tyngre oppgaver, som avansert bilde- og videobehandling og multitasking. 
+Er dette ting du gjør mye, vil vi faktisk anbefale deg å gå for en PC med nyeste generasjon Core i5 / i7-prosessor, eventuelt enn fullblods Core i5 / i7 fra forrige generasjon. 
+
+SSD-en er SATA-basert. 
+Lesehastigheten er god, men skrivehastigheten er litt lavere enn vi hadde forventet - men fortsatt tre ganger så kjapp som en gjennomsnittlig harddisk. 
+
+Det er samtidig verdt å merke seg at PC-en ble testet med en ren Windows-installasjon, uten alskens rusk og rask fra tredjepart. 
+Det er også med på å gi deg en mer snappy opplevelse, uten sprettoppvinduer og uønskede bakgrunnsprosesser som kan i verste fall stjele mye maskinkraft. 
+
+Batteritiden er også absolutt godkjent. 
+Vi strømmet video fra YouTube i totalt 501 minutter, noe som tilsvarer 8 timer og 21 minutter, nesten identisk med Acer Swift 7. Multicom hevder 10 timer med variert, lett bruk, noe vi tror er litt i overkant. 
+Men rundt 9 timer bør absolutt være mulig å klare. 
+
+Ladetiden er også godkjent. 
+29 prosent etter en halv time er veldig bra, 51 prosent etter én time er omtrent som forventet. 
+
+Konklusjon 
+
+Multicom Alvida K35-EAFB1 
+
+Dette er uten tvil en meget god PC. 
+Byggekvalitet, tastatur,skjerm og batteritid, er alle faktorer som taler for en klar femmer på terningen. 
+Også maskiner med samme prosessor og sammenlignbare spesifikasjoner for øvrig, koster vanligvis vesentlig mer, ifølge Prisjakt. 
+
+Er du ute etter en solid, lydløs PC til lett bruk, er dette dermed kanskje det aller beste kjøpet akkurat nå. 
+
+Men det er et men, og det er prosessoren. 
+Den tilhører forrige generasjon m-serie fra Intel, og byr på temmelig mye lavere ytelse enn tilsvarende fra den nye Kaby Lake-generasjonen. 
+Det må samtidig tas i betraktning at det foreløpig er svært få PC-er i markedet med den nye prosessoren, og de få som finnes er dessuten dyrere enn Alvida K35. 
+
+Maskinen redder til slutt en femmer på terningen, men få med deg plussene og minusene i boksen over til høyre, samt testene av de to andre, lydløse PC-ene før du bestemmer deg: 
+Acer Swift 7 og Acer Spin 7. 
+Vi forventer dessuten at det vil komme en rekke flere lydløse modeller basert på Kaby Lake-generasjonen i tiden som kommer. 
+
+Her finner du lenker til PC-ene vi har testet så langt i år: 

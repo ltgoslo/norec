@@ -1,0 +1,129 @@
+LG Stylus 2- telefon med DAB
+Den første DAB+-telefonen har også pekepenn. 
+
+FM-radio har vært ganske vanlig på mange telefoner de siste tiårene, men i Norge er FM-nettet på vei ut, til fordel for DAB. 
+
+Når FM-nettet slukkes må radioelskere derfor enten belage seg på å strømme radio via internett, eller bruke en DAB-radio for å få inn sendingene. 
+
+Dagens testprodukt, LG Stylus 2, er den første telefonen med innebygd DAB+-mottaker. 
+En åpenbar fordel i forhold til å strømme radio via internett er at man ikke bruker mobildata, siden DAB-sendingene kringkastes. 
+Å strømme radio via nettet krever cirka 60 megabyte i timen, ifølge våre beregninger. 
+
+Slik fungerer DAB-appen 
+
+Så la oss hoppe i det som først og fremst gjør denne telefonen spesiell; DAB-støtten. 
+Som på telefoner med FM-radio krever dette at du har koblet i hodetelefoner (eller AUX-kabel), siden ledningen fungerer som antenne. 
+Men selv om du har plugget i hodetelefoner, står du fritt til å bruke telefonens høyttaler dersom du vil at flere skal kunne lytte. 
+
+Appen er levert av Radio.no, og her på kontoret vårt i Oslo får vi inn 28 kanaler. 
+Det tar cirka to sekunder å bytte mellom dem, og mange av dem er beriket med bilder og tekst; for eksempel hvilken sang som spilles eller lignende. 
+Sendingen fortsetter også å spille dersom du slukker skjermen og oppleves i hovedsak som stabil, selv om den hakker litt når telefonen må anstrenge seg litt, noe som er litt synd. 
+
+Lyden blir klar og fin med hodetelefoner, men som med DAB-sendinger for øvrig, hører vi godt kompresjonen når vi spiller musikk, og lydbildet føles veldig flatt. 
+Prateprogrammer, derimot, låter betraktelig bedre. 
+Med skjermen avslått er det ikke så mye strøm som går med til DAB-lytting; cirka 3 prosent i timen ifølge våre beregninger. 
+
+I bilen er det ikke like rosenrødt. 
+Volumet fra hodetelefonutgangen er svært lav når vi bruker DAB, som gjør at vi må skru volumet veldig høyt på bilstereoen. 
+Hva gjelder dekning er vi imidlertid godt fornøyde – på pendlerruta Rygge-Oslo mister vi signalet i noen av tunnelene, men ikke i alle, men ellers går det smertefritt 99 prosent av tiden. 
+På tog, derimot, er det verre, der DAB på store deler av veien praktisk talt er ubrukelig. 
+
+Første gang vi prøvde i bil ble det for øvrig svært mye hakking, men det ser ut til at å bytte lydkabel gjorde susen. 
+
+Verdt å nevne er også at Stylus 2 også har støtte for FM-radio; da via en annen radioapp, som også følger med. 
+
+Med stylus 
+
+Som modellnavnet tilsier, er dette en telefon som også leveres med en stylus, altså en pekepenn. 
+Denne ligger i et eget spor når den ikke er i bruk, og når du drar den ut, spretter det opp en meny på skjermen som lar deg tegne, notere, ta skjermbilde og lignende. 
+
+Som seg hør og bør kan den også brukes til generell navigering – som en erstatning for tuppen av fingeren. 
+
+Den har dog ingen knapper eller andre funksjoner utover å være en forlengelse av fingeren; ei heller trykkfølsomhet, men de fleste vil i det minste tegne penere med den enn de gjør med pekefingeren. 
+
+Ikke så skarp skjerm 
+
+LG Stylus 2 er ingen liten telefon, og skjermen måler 5,7 tommer over diagonalen. 
+Oppløsningen er imidlertid «bare» 1280x720, som gir en punkttetthet på 258 per tomme. 
+Det gjør at skjermen ikke er like skarp som de beste om dagen, men selvsagt må det gjøres noen kompromisser når telefonen koster under 3.000 kroner. 
+
+For øvrig er vekten på 145 gram svært lav til en såpass stor telefon å være, og telefonen er også blant de tynnere – 7,4 millimeter. 
+
+Som på G-modellene til LG er både volum- og av/på-knappen plassert på baksiden av telefonen. 
+Volumknappene er ruglete, som gjør det helt greit å finne frem til riktig knapp på baksiden. 
+
+Ikke allverdens maskinvare 
+
+På innsiden av LG Stylus 2 sitter det en Snapdragon 410-prosessor, altså en av de enklere modellene fra Qualcomm, med fire kjerner klokket på 1,2 GHz. 
+Ellers har den 1,5 GB arbeidsminne (RAM), 16 GB internminne og støtte for minnekort. 
+
+Den yter svakt i ytelsestestene, og vi ser også at den generelle responsen når man trykker på ting og tang er godt bak toppmodellene, men også bak modeller i samme prisklasse, som Huawei Honor 5x (Snapdragon 615). 
+Spesielt lang tid tar det å installere nye apper etter at man har lastet dem ned. 
+Bruker du DAB-radioen samtidig, blir ytelsen redusert ytterligere. 
+
+Her er resultatet fra noen av ytelsestestene; alle relativt svake: 
+
+Geekbench: 463 (én kjerne), 1434 (flere kjerner) 3DMark: 
+4.290 AnTuTu: 
+28.522 PCMark: 
+3.867 
+
+Da vi hørte på DAB-radio scoret vi under 1.000 poeng i flerkjernetesten på Geekbench. 
+
+Batteriet er for øvrig på relativt rause 3.000 mAh, men selv om Snapdragon 410 støtter Quick Charge 2.0, er laderen som følger med bare på 6W (5V/1,2A), så her kan man få raskere lading ved å kjøpe en annen lader. 
+
+App-skuff bare om man vil 
+
+Som på LG G5 (test kommer, men telefonen sitter fast i tollen foreløpig) har LG nå gjort som mange kinesiske produsenter (og Apple) – fjernet app-skuffen slik at alle app-ikonene blir liggende på hjemskjermen. 
+
+Du har dog muligheten til å bruke app-skuff, men det krever at du laster ned en egen launcher fra LG, som ikke er installert på telefonen som standard. 
+
+Ellers har LG tonet ned sitt pastell-grensesnitt fra LG G4 noe i årets telefoner, og det er også mulig å laste ned nye temaer via LG Smart World-appen. 
+Disse er ikke like forseggjorte som de vi finner hos Huawei, for eksempel, men bytter stort sett ut bakgrunnsbilde og enkelte app-ikoner, mens øvrige forblir som de er. 
+Man kan også laste ned skrifttyper og bytte ut standardfonten med en annen. 
+
+I varslingsfeltet finnes det snarveier til innstillinger, og disse kan byttes ut. 
+Dog tar de faste varslene opp stor plass, både med lysstyrke på skjermen, volum og «fildeling». 
+Hører du på DAB-appen, tar den i tillegg opp den øverste varselplassen – dermed er cirka 2/3 brukt opp før første app-varsel. 
+
+Som før har også LG omstrukturert innstillinger-menyen der menyvalgene er gruppert i flere kategorier. 
+
+Ellers er det ikke så mye «bloatware» på LGs telefoner. 
+Man får den vanlige pakka, med egen kalenderapp, e-postapp, galleri, klokke, musikk, enkel filbehandler og de nevnte radioappene. 
+I tillegg er Evernote forhåndsinstallert, samt en app for fjernhjelp fra LGs kundeservice og en app for sikkerhetskopiering. 
+Ingen av disse får man avinstallert. 
+
+Kamera 
+
+Mens LG har ett av de beste og mest lyssterke mobilkameraene i LG G4 og G5, har ikke Stylus 2 fått den samme kameramodulen. 
+Her har vi lysstyrke på ganske ordinære f/2,2 og en liten sensor som vi antar er rundt 1/3,2" basert på utregninger (offisiell informasjon klarer vi ikke å finne); altså blant de aller minste – med 13 Mp oppløsning. 
+
+Ganske uvanlig er at kameraappen som standard starter opp praktisk talt helt uten knapper. 
+Da er det bare å trykke på skjermen for å fokusere og ta bilde direkte, men trykker du på …-knappen i hjørnet, får du opp de tradisjonelle knappene som på de fleste andre telefoner vises som standard. 
+Auto HDR er også mulig, men det finnes ingen manuelle muligheter; ei heller for å justere hvitbalanse, eksponering og lignende. 
+
+Bildene vi får blir helt greie i dagslys: 
+
+I motlysstituasjoner blir det ikke helt overbevisende: 
+
+Og når det blir mørkere, mister vi farger og får ganske mye støy i bildet. 
+Under har vi sammenlignet med Samsung Galaxy S7 – en dobbelt så dyr telefon, riktignok, men bare for å vise hvor bra det kan bli. 
+
+Først hele bildet, Stylus 2 til venstre: 
+
+Og så zoomet inn på detaljene, Stylus 2 øverst: 
+
+Konklusjon 
+
+LG Stylus 2 er foreløpig den eneste telefonen med DAB+-mulighet, som stort sett fungerer fint, selv om vi savner litt høyere output fra hodetelefonutgangen når vi har den plugget i bilstereoen. 
+
+Som navnet tilsier har den også en stylus (pekepenn) som kan brukes for å skrible litt eller tegne, men den har ingen avanserte funksjoner som ekstra knapp eller trykkfølsomhet. 
+
+Selv om prisen er ganske hyggelig i dagens marked (snaue 3.000 kroner), føler vi allikevel ikke at LG Stylus 2 er veldig mye telefon for pengene. 
+Maskinvaren er ganske svak, kameraet likeså, skjermen har begrenset oppløsning og 16 GB internminne er heller ikke allverden lenger. 
+Men den har stor skjerm og er ganske tynn, i hvert fall. 
+
+Vi har fortsatt litt tid på oss før FM-nettet slukker, så for radiointeressertes del, får vi håpe det kommer flere DAB-telefoner innen den tid. 
+Her synes vi det blir litt for mange kompromisser for å kunne lytte til digitale radiosendinger. 
+
+LG Stylus 2 K520 

@@ -1,0 +1,138 @@
+Den ser ut som en Macbook, men koster 1.500 kroner
+Dagens kinaprodukt er en PC som ser ut til å koste mye mer enn den i virkeligheten gjør. 
+Den har også skjerm med full HD-oppløsning. 
+Men hvor god er den egentlig? 
+
+Hvis du har fulgt med oss en stund, har du sikkert fått med deg serien Dagens kinaprodukt, der vi kjøper inn billig elektronikk fra eBay, DealExtreme, Wish, Gearbest og andre kanaler, og forteller deg hvor gode - eller dårlige, de egentlig er. 
+
+Noen ganger kan du få svært mye for pengene. 
+For eksempel kan du gjøre kabelkupp, og du kan også få en god mediespiller som gir deg Google på TV for et par hundrelapper. 
+
+Macbook Air-klone til 1500 kroner 
+
+I dag skal vi se nærmere på et langt dyrere produkt, men fortsatt ekstremt billig sett i forhold til konkurrerende produkter på det norske markedet. 
+Vi snakker her om PC-en Jumper Ezbook 2, til den nette sum av 180 dollar - eller i overkant av 1.500 kroner. 
+
+For denne summen får du en PC som veier knappe 1,5 kg, med Windows 10 Home, 14 tommer matt skjerm med full HD-oppløsning og en utforming som er mistenkelig lik en Macbook Air. 
+Det er først når du tar den i nærmere øyesyn at du oppdager forskjellene - og de er det mange av. 
+
+Her ser du vår unboxing-video: 
+
+Før vi går videre, skal vi se litt på hva du får av maskinvare. 
+
+Innmat som forventet, med ett stort unntak 
+
+På innsiden sitter en firekjernet Intel Atom-prosessor (X5-Z8300), 4GB RAM og flashminne på 64 GB til operativsystemet, programmer og brukerdata. 
+I tillegg har den en kortleser for micro-SD-kort, som kan brukes som utvidet lagringsplass, noe det fort blir behov for med såpass begrenset intern lagringsplass. 
+
+Av andre tilkoblinger finner vi en USB 3.0-port, en USB 2.0-port og en mini HDMI-utgang for tilkobling til ekstern skjerm eller TV. 
+Og ja, den har også en 3,5 mm minijack for tilkobling av eksternt lydutstyr. 
+
+Støtte for trådløst nett er også på plass (802.11b/g/n + Bluetooth 4.0). 
+
+Med unntak av skjerm med full HD-oppløsning, tilhører de øvrige spesifikasjonene til i nedre sjikt. 
+Her på bjerget er det svært sjelden at vi finner PC-er med full HD-skjerm til under 3.500 kroner, uansett innmat - og de er som regel både større, tykkere og tyngre. 
+
+Våre inntrykk 
+
+PC-en kommer i en standard brun eske. 
+Det eneste som følger med av bruksanvisning hører egentlig til et annet produkt, så har har nok kineserne tatt en snarvei. 
+
+Strømforsyningen sitter på støpselet i enden av den korte strømkabelen, og den har ikke EU-stikk. 
+Du må med andre ord bruke en overgang, men det følger ikke med i esken. 
+
+Lokket er dekket med et plastbelegg med altfor sterk lim, vi slet skikkelig med å få det av. 
+I tillegg henger limet igjen mange steder, som må fjernes med et egnet middel som ikke tar lakken i samme slengen. 
+
+Chassiset er av plast, og langt fra av en stiveste typen. 
+Det er stor svikt i tastaturplaten, og holder du maskinen etter kanten med skjermen åpen, kan du oppleve at hele tastaturdelen bøyer seg. 
+Byggekvaliteten er rett og slett mindre tillitsvekkende, men står PC-en for det meste på et bord, behøver det ikke å ha så mye å si. 
+
+Her ble vi positivt overrasket 
+
+PC-en har ikke en eneste vifte, og er derfor lydløs. 
+Skjermen er overraskende klar og lyssterk, og den visuelle kvaliteten er absolutt sammenlignbar med full HD-skjermer man finner på PC-er i 4-5.000 kroners klassen. 
+
+Vi har ikke klart å finne ut hvilket panel den er bygd på, men innsyn fra sidene er langt bedre enn på de rimeligste TN-skjermene. 
+Det er faktisk ganske så imponerende! 
+
+Hvordan den vil oppføre seg på sikt, tør vi ikke spå for mye om - men det gjelder forsåvidt hele PC-en. 
+Mer om det i konklusjonen. 
+
+Obs! Obs! 
+
+Tastaturet fungerer helt greit, selv om det er i overkant mye svikt mot midten. 
+Merk at tastatur-utformingen er engelsk. 
+For oss som bruker touch og ikke ser på tastene, er det et mindre problem. 
+Andre kan ha glede av å bruke klistremerker på tastene for å lage et norsk oppsett, noe du kan lese mer om i denne artikkelen. 
+
+Det største problemet er imidlertid en overfølsom pekeplate. 
+Kommer du borti med håndflaten mens du skriver, risikerer du at musepeker og markør flytter seg, og så blir det bare tull og tøys av det hele. 
+Dette problemet er nesten eliminert på andre, moderne pekeplater. 
+
+Til musebruk fungerer den derimot tilfredsstillende. 
+Den støtter også flerfingerbevegelser, for eksempel kan du skrolle med to fingre. 
+
+Er det virkelig snakk om en genuin Windows? 
+
+Som nevnt tidligere, kommer Jumper med Windows 10 Home - på engelsk. 
+Du kan legge til norsk kostnadsfritt fra kontrollpanelet. 
+At den ikke kommer med noe som helst av prøveversjoner av sikkerhetsprogrammer og annet rusk og rask fra tredjepart, er bra - for det kunne fort ha dratt ytelsen ned. 
+Og tro oss - det ønsker du ikke. 
+
+På den annen side er dette en bemerkelsesverdig detalj. 
+Vi vet at tredjepart gjennom disse installasjonene kan bidra til å holde prisen på produktet nede. 
+Her er prisen allerede bunnskrapt. 
+Kan vi stole på at det er en genuin Windows 10 på denne PC-en? 
+
+Vi sendte spørsmålet til Windows-direktør hos Microsoft, Christian Almskog, og fikk følgende svar: 
+
+- Det var jo svært billig, og ingenting hadde gledet meg mer enn om det var en bra PC til prisen! 
+
+- Det er vanskelig å si om lisensen er ekte, men det vil du oppdage etterhvert som PC-en blir brukt, og skal gjennom første oppdatering i Windows Update. 
+Da skal vi fange opp hvorvidt lisensen er «Genuine» eller ikke. 
+
+Det hører med til historien at den første oppdateringen har gått helt etter boka, så da får vi bare stole på at Jumper har fått en svært god deal med Microsoft - som gjør det mulig å selge denne PC-en til 1.500 kroner. 
+
+Ingen kraftplugg 
+
+Vi var så vidt innom ytelsen tidligere i denne omtalen, og den ligger definitivt i lavere del av skalaen. 
+Det blir fort mye venting, spesielt på å få fullført litt tyngre oppgaver. 
+
+Skal du for eksempel pakke ut en større ZIP-fil, går det bemerkelsesverdig tregt. 
+Her skal både prosessor, RAM og disk jobbe sammen. 
+Hvor den største flaskehalsen ligger, er ikke så godt å si - men vi har målt skriveytelsen på flashminnet til å ligge på godt under halvparten av en mekanisk harddisk - så der har du nok noe av forklaringen. 
+
+Når det er sagt: 
+PC-en fikser nettsurfing, sosiale medier og lignende lette oppgaver helt fint. 
+Den fikser også Netflix-video i full HD. 
+
+Lyden er skral, så hodetelefoner eller eksterne høyttalere er påkrevd - men den visuelle opplevelsen er slett ikke verst. 
+Sett i forhold til prisen er den overraskende god. 
+
+Batteritiden er heller ikke så verst, 380 minutter med kontinuerlig strømming av video fra YouTube skulle bety 6-7 timer med variert bruk. 
+Men det tar tid å fullade batteriet, og PC-en bør være skrudd av når det skjer. 
+Bruker du PC-en samtidig kan prosessen ta mange, mange timer. 
+Vi ville heller ikke eksperimentert med en kraftigere lader. 
+Det varmeste punktet på PC-en er allerede i strøminntaket. 
+
+Konklusjon 
+
+Vi innrømmer at vi ikke hadde all verdens forventninger til Jumper, og mye av vår forutinntatthet ble bekreftet, spesielt hva angår ytelse og byggekvalitet. 
+Men vi ble også positivt overrasket, spesielt av skjermen og batteritiden. 
+
+Maskinen ligger et godt stykke unna en anbefaling fra oss, men har du et veldig lavt PC-budsjett og sikler på en Macbook, kan du i det minste klare å lure omgivelsene dine til å tro at du har gravd dypt i lommeboka. 
+
+Husk imidlertid at frakt på 28 dollar kommer på toppen. 
+I tillegg sier regelverket at du skal betale både moms og fortollingsgebyr. 
+
+Totalt blir da prisen 2.494 kroner, ifølge vår netthandelsekalkulator. 
+Til den prisen kan du nok være heldig og finne noe litt kraftigere i en norsk nettbutikk, men neppe med full HD-skjerm. 
+
+Og så var det dette med levetid, da. 
+Ut fra våre vurderinger av byggekvaliteten, er ikke dette en maskin vi ville utsatt for særlig røff behandling. 
+Og vi ser absolutt utfordringer med å forholde seg til en kinesisk nettbutikk hva angår reklamasjoner og garantispørsmål - uansett hvor seriøse de måtte være. 
+
+Det har uansett vært et interessant møte med en maskin som tross alt ser ut til å koste mye, mye mer. 
+
+Du finner mer informasjon hos Gearbest.com 

@@ -1,0 +1,160 @@
+Nextbit Robin
+Telefonen som bruker nettet som lagringsplass. 
+
+Nextbit er en splitter ny aktør i mobilmarkedet. 
+Selskapet ble startet av folk med bakgrunn fra Google, Android og HTC og lanserte sitt første produkt, Robin, på folkefinansieringstjenesten Kickstarter. 
+
+Der fikk skaperne samlet inn over 11 millioner kroner fra Kickstarter-brukerne, og dermed ble prosjektet realisert. 
+
+Denne måneden startet Nextbit utsendelsen til Kickstarter-brukere som støttet prosjektet. 
+Vi fikk også tilsendt et testeksemplar som vi har hatt de siste par ukene. 
+
+Lagrer i nettskyen 
+
+For å ta det som først og fremst skiller Robin fra øvrige Android-telefoner, er at du i tillegg til 32GB lagringsplass på telefonen får 100GB lagringsplass i nettskyen på kjøpet. 
+Når telefonen er koblet til strøm og WiFi (kan endres), tar den sikkerhetskopi av innhold på telefonen slik at det også finnes en kopi i nettskyen. 
+
+Og når telefonen begynner å gå tom for plass, sørger smarte algoritmer for å slette ting på telefonen din som du ikke har brukt på en stund (og som er lagret i nettskyen), slik at ledig plass frigjøres. 
+Skjønt; helt borte blir det ikke – slettes en app vil den fortsatt være synlig på telefonen, men da med gråtone. 
+
+Hvis du trenger å bruke appen igjen, trykker du på ikonet som vanlig. 
+Da hentes appen fra nettet (inkludert app-data), og så er det bare å bruke den som før. 
+
+Slik fungerer det 
+
+På vårt anmeldereksemplar hadde Nextbit allerede fylt telefonen til randen med innhold, slik at vi umiddelbart kunne teste hvordan dette fungerer i praksis. 
+
+Det går vi igjennom i videoen under: 
+
+Nettskyløsningen tar kopier av bilder og apper. 
+På telefonen bevares en lavoppløst versjon av bildene dersom de flyttes til nettskyen, men her blir ikke bildene grået ut. 
+Du kan se på dem på vanlig vis, men om du vil forstørre bildet, hentes fullversjonen ned fra nettet. 
+Det samme gjelder om du vil dele det i sosiale medier, sende det på e-post eller lignende. 
+
+Ikke en 100 prosent sikkerhetskopi 
+
+Vi syns imidlertid ikke at Nextbits skylagringsløsning er helt uten svakheter. 
+Det viktigste momentet her er enkelt og greit følgende: 
+
+Det er ikke en sikkerhetskopi. 
+
+Vi hadde forventet at det blir tatt sikkerhetskopi av nye ting på telefonen når vi plugger i laderen og er koblet til WiFi. 
+Det skjer noen ganger. 
+Noen ganger ikke. 
+Det er ikke mulig å utforske hva som er lagret i nettskyen, men vi ser at det er avvik mellom brukt plass på telefonen og brukt plass på nettskykontoen. 
+
+Løsningen er derfor ikke sammenlignbar med for eksempel Apples iCloud-løsning. 
+Mister du telefonen, er det ikke slik at du kan kjøpe en ny Robin og gjenopprette den til siste synkronisering. 
+Tjenesten er altså laget kun for dette ene konseptet – at telefonen selv kan slette unna ting som allikevel ligger i nettskyen dersom du går tom for plass. 
+
+Og i en verden der Google, Flickr og andre tilbyr praktisk talt ubegrenset lagringsplass til bilder og video i nettskyen, spørs det nok om ikke Nexbit er litt seint ute med sitt konsept. 
+
+Robin tar heller ikke sikkerhetskopi av video. 
+Det er filer som typisk er store, og som derfor vil spise av nettlagringsplassen, men samtidig – det er også filer som hadde vært veldig enkle å slette fra telefonen når man går tom for plass. 
+Heller én video enn 50 bilder eller fem apper, spør du oss. 
+
+Siden Nextbits skyløsning ikke er en sikkerhetskopi, klarer vi ikke å se noen fordeler kontra å ha en telefon med støtte for minnekort. 
+De får du i størrelser opp til 200GB, og når Android nettopp nå, i versjon 6.0, har fått skikkelig støtte for minnekort, ser vi bare fordeler med minnekortet kontra skyløsningen. 
+
+Sistnevnte kan fort spise mye mobildata om du til stadighet har behov for å hente ned apper og mediefiler du ikke har brukt på en stund. 
+
+Hjemskjerm uten app-skuff 
+
+En annen ting vi ikke synes går helt hånd i hanske med nettskykonseptet, er at Nextbit har valgt å lage hjemskjermen uten app-skuff. 
+Dermed blir alle ikoner liggende på hjemskjermen, og dersom poenget er at det her bare er fritt frem å laste ned fordi det du bruker minst blir fjernet/grået ut, kan det fort bli ekstra uoversiktlig. 
+
+Skjønt, flere produsenter velger nå denne løsningen slik Apple har gjort med iOS fra begynnelsen av, og det ryktes om at dette kan bli standard i fremtidige Android-versjoner. 
+
+En annen ting er at hjemskjermen ikke støtter widgets (moduler). 
+Du kan bare ha app-ikoner på hjemskjermen, men ved å gjøre en klypebevegelse kan du hente frem et eget «lag» med widgets. 
+Det har vi sett hos andre produsenter tidligere også, men gjør at konseptet med widgets mister litt av sin eleganse ved at du selv må oppsøke informasjonen de gir. 
+
+Men hjemskjermen kan du selvsagt bytte ut med en annen, og det er gledelig å se at de grå ikonene (og tilhørende funksjonalitet) også blir med om du bytter til Nova Launcher eller en av de andre. 
+
+Utover dette har ikke Nextbit tuklet så mye med Android, og telefonen kjører altså siste utgave – Marshmallow, som fortsatt er mangelvare på en rekke toppmodeller fra i fjor. 
+Android-entusiaster vil også sette pris på at telefonen kommer med en ulåst bootloader, slik at det er fritt frem å installere Cyanogenmod eller andre Android-varianter og fortsatt ha garantien i behold. 
+
+Laget i plast 
+
+Turkis telefon 
+
+Hva synes du om designet på Nextbit Robin? 
+(Avsluttet) 
+
+Robin er, som du ser på bildene, en telefon med et ganske utradisjonelt utseende. 
+I tillegg til den turkise utgaven (vår testmodell), finnes telefonen også i en mørkere blåfarge. 
+Meningene er selvsagt delte om dette utseendet, men at det er annerledes kan vi i hvert fall objektiv konstatere. 
+
+Vi kan også konstatere at den lyse, matte plasten på baksiden dessverre blir overraskende fort møkkete bare av å ligge i bukselomma. 
+Og den var nyvasket i går! 
+
+Skjermen måler 5,2 tommer over diagonalen og har full HD-oppløsning. 
+Den fremstår med andre ord meget skarp, og har også god innsynsvinkel. 
+
+USB Type C forventes å bli en ganske universell standard i årene som kommer, og det er derfor gledelig å se at Nextbit har valgt å gå for USB-C løsningen. 
+Med i pakken får du en type A til type C-kabel. 
+En strømforsyning kan kjøpes separat. 
+
+Telefonen har høyttalere både over og under skjermen. 
+De holder ikke helt HTC-standard, men byr på helt kurant lyd til en mobiltelefon å være, med lite skurring, men også begrenset med volum. 
+Vi er også godt fornøyde med samtalekvaliteten på Robin. 
+
+God fingeravtrykksleser 
+
+Som på Sonys Z5-telefoner har Nextbit valgt å legge fingeravtrykksleseren direkte på strømknappen på siden av skjermen, men vi opplever faktisk Nextbits variant som hakket bedre. 
+Den identifiserer fingeren svært raskt og virker mindre kresen, selv om vi også her synes selve knappen er noe hard å trykke ned. 
+
+Denne plasseringen er selvsagt smart for de som holder telefonen i høyre hånd, men om du ikke er blant dem, blir det ikke fullt så elegant. 
+Siden telefonen kjører Android v6.0 er fingeravtrykksfunksjonaliteten integrert i hele operativsystemet slik at det også kan brukes til å bekrefte kjøp og lignende. 
+
+Slik er ytelsen 
+
+På innsiden sitter det altså en Snapdragon 808 med 3GB RAM; i praksis ganske lik innmat som blant annet LG G4 og Nexus 5X. 
+Telefonen scorer derfor godt i ytelsestester og oppleves også som kjapp og fin i daglig bruk. 
+
+Faktisk fikk vi, ganske overraskende, en ny toppnotering i PCMark-testen, som har fokus på mer dagligdagse oppgaver som skrolling av nettsider, spoling i video, bilderedigering og den slags. 
+På 3D-ytelse ligger den dog et stykke bak de beste. 
+
+Hva med kameraet? 
+
+Dessverre for Nextbit er ikke kameraet mye å skryte av i 2016; ei heller for en modell i det midtre prissjiktet, som denne telefonen i utgangspunktet er (mer om pris under). 
+
+Spesielt er telefonen særdeles treg på utløseren, og kameraappen er ikke spesielt finpolert. 
+
+Kameraappen lar deg velge mellom auto (standard), manuell og video. 
+I manuell modus får du litt flere muligheter til å påvirke bildet som tas, blant annet ved å korrigere eksponering, hvitbalanse og følsomhet (ISO). 
+Denne modusen ser imidlertid ut til å være tilpasset landskapsbilder, der grensesnittet ikke roteres om du holder telefonen på høykant. 
+Vi klarer heller ikke å finne noen muligheter for å sette fokuspunkt og eksponering separat. 
+
+Vi har blitt bortskjemt med gode telefoner i det siste, og spesielt på autofokus/utløser merker vi at Robin ligger langt bak de beste. 
+I HDR-modus snakker vi brått om et par sekunder, men akkurat her får vi beskjed fra Nextbit om at dette er en feil de jobber med å rette. 
+På vanlige bilder går det imidlertid også ofte et halvt sekund fra vi trykker til bildet faktisk tas. 
+Skuddtakten om du holder knappen inne er rundt 4 bilder i sekundet. 
+
+Oppløsningen er for øvrig 13Mp på hovedkameraet, med blenderåpning på f/2,2. 
+Dermed slipper kameraet inn rundt 40 prosent mindre lys enn markedsledende Samsung Galaxy S7 med sine f/1,7. 
+Uten at det er modeller å sammenligne rent prismessig, selvsagt. 
+
+Bildekvaliteten er ikke spesielt imponerende. 
+Svært ofte får vi utbrente himler, som her: 
+
+Fargene gjengis ikke alltid helt korrekt. 
+Husveggen her er typisk «bonderødt», men ser nesten rosa-aktig ut: 
+
+Og det er også mye støy i bildene som tas med høy følsomhet når det er mørkt: 
+
+Konklusjon 
+
+Nextbit Robin er et friskt pust utseendemessig, og ideen om en backupløsning på kjøpet er god, men siden det ikke er noen fullverdig sikkerhetskopi på nett, klarer vi ikke å se noen fordeler her utover det man ville ha klart å oppnå med minnekortstøtte. 
+Det spørs også om behovet er like stort lenger, der både Google, Flickr og andre tilbyr særdeles mye lagringsplass til bilder og video i nettskyen. 
+
+Ytelsesmessig gjør Nextbit det godt – med relativt lik maskinvare som LG G4 og Nexus 5X er Robin slett ingen treging, men dét er kameraet, som bruker uforholdsmessig lang tid på å fokusere og ta bildet fra tidspunktet man trykker. 
+Bildene som kommer ut blir vi heller ikke spesielt imponerte av. 
+
+Selvsagt er det kompromisser som må gjøres på telefoner som er billigere enn de dyreste, men skal du bestille telefonen til Norge blir det ikke en så billig affære. 
+
+Med frakt ender prislappen nemlig på 434 dollar (399+35). 
+Inkludert moms og fortollingsgebyr havner man da på rundt 5.000 kroner. 
+Da begynner vi å snakke om en pris på høyde med øvrige toppmodeller. 
+
+Robin kan for øvrig bestilles fra nexbit.com. 

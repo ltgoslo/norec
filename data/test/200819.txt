@@ -1,0 +1,160 @@
+Huawei P9
+Har to kameraer på baksiden noe for seg? 
+
+At kinesiske Huawei kan lage gode telefoner, hersker det liten tvil om. 
+
+I fjor utnevnte vi Nexus 6P til årets beste mobiltelefon, og den er laget nettopp av Huawei. 
+
+Denne våren har selskapet også lansert sekstommeren Mate 8, oppfølgeren til Mate 7, som vi likte godt da vi testet den for halvannet år siden. 
+
+Dagens testprodukt er P9, oppfølgeren til fjorårets P8, som scoret en femmer på Dinsides terning. 
+
+Nytt denne gangen, foruten de vanlige maskinvareoppgraderingene, er at Huawei har samarbeidet med Leica og leverer en mobiltelefon med to kameraer på baksiden. 
+
+Hvorfor to kameraer? 
+
+Flere telefoner har operert med to kameraer på baksiden før. 
+Allerede i 2011 hadde LG sin Optimus 3D, som ved hjelp av to kameraer var i stand til å ta 3D-bilder, som også kunne vises på 3D-skjermen, uten å bruke briller. 
+Litt på samme måte som på Nintendo 3DS. 
+
+For to år siden var det HTC som la på et ekstra kamera, i One M8. 
+Det ekstra kameraet ble brukt til å måle dybdeinformasjon i bildet, hvorpå man kunne «fake» uskarpe bakgrunner og bruke filtre basert på dybden i bildet. 
+
+Den siste funksjonaliteten kan du også oppnå med Huawei P9, og selv om det ikke alltid blir like vellykket, kan du få til ganske «speilrefleksaktige» bilder, som dette, der vi har imitert en blenderåpning på f/0,95: 
+
+Dette gjør du med en egen kameramodus, og når du tar bilde med denne, kan du både velge fokuspunkt og simulert blenderåpning i etterkant. 
+
+Dermed kan vi fint endre fokus til blomsterpotta lengst unna om vi heller vil det: 
+
+Eller simulere en liten blenderåpning (høyt f-tall) med høy dybdeskarphet: 
+
+En med farge, en med sort/hvitt 
+
+Det som imidlertid er nøkkelpunktet med P9 er at hver av de to kamerasensorene er laget litt forskjellig, for mens den ene har et tradisjonelt RGB-filter foran seg og fanger farger, er ikke det til stede hos den andre, som derfor bare fanger luminansen i bildet (fra sort til hvit). 
+
+Uten dette fargefilteret foran, mener Huawei at sort/hvitt-sensoren fanger dobbelt så mye lys, og at de to derfor fanger tre ganger så mye lys som om de kun hadde hatt den «vanlige» sensoren. 
+
+Når du tar bilde brukes så informasjonen fra begge sensorene i kombinasjon. 
+Dermed mener Huawei at P9-kameraet i større grad vil være i stand til å gjenskape kontrast og detaljer i bildet i forhold til tradisjonelle mobilkameraer. 
+
+70 prosent mer lys? 
+
+La oss studere bildene først i denne testen, siden det er dette som er den store headlineren denne gangen. 
+
+Optikken, som altså er levert av Leica, har en blenderåpning på f/2,2 og brennvidde tilsvarende 27 millimeter. 
+På pressekonferansen da telefonen ble lansert, hevdet Huawei at kameraet slapp inn 70 prosent mer lys enn Samsung Galaxy S7. 
+
+Under ser du to bilder tatt i svært mørk belysning. 
+Samsung har her brukt ISO 1250, lukkertid på 1/6s og har altså blenderåpning på f/1,7. 
+Huawei-kameraet har brukt henholdsvis ISO 3200, 1/17s og har blenderåpning på f/2,2. 
+På papiret slipper Samsung-kameraet inn 85 prosent mer lys enn Huawei-kameraet på disse innstillingene, så hvis Huawei på magisk vis skulle ha sluppet inn 70 prosent mer lys, skulle man tro at bildene ville ha noenlunde samme grad av lyshet. 
+
+Det har de ikke. 
+Huawei til venstre: 
+
+Altså kan vi ikke annet enn å konkludere med at det fortsatt er de fysiske lovene som gjelder, og at den større blenderåpningen på Samsung-kameraet gjør at det slipper inn – ((1/1,7)/(1/2,2))^2=1,67 – 67 prosent mer lys enn Huawei kameraet. 
+Du kan altså ikke forvente deg lysere bilder i mørket uten at du eventuelt manuelt må overstyre lukkertiden. 
+Automatikken i P9 virker å ha 1/17s som korteste lukkertid. 
+
+Men gode bilder blir det 
+
+Bortsett fra denne litt snodige markedsføringen har vi aldri vært mer fornøyde med bildene fra et Huawei-mobilkamera. 
+Faktisk er dette kameraet blant de beste på markedet i våre øyne. 
+
+Nevnt er muligheten for å simulere større blenderåpninger for portrettbilder og annet, og jevnt over synes vi Huawei gjør det bra både med tanke på å gjenskape naturlige farger, lysmåling og hvitbalanse. 
+
+Her er noen eksempler: 
+
+Detaljnivået er imidlertid ikke helt på høyde med de beste – her ser du to 100%-utsnitt side om side med nevnte Galaxy S7, der det er tydelig at Samsungs bilde fremstår skarpere, men det skyldes også at Samsungs oppskarpingsalgoritmer er hakket mer aggressive: 
+
+Når det gjelder prestasjonen i dårlig lys, synes vi at Huawei kommer svært godt ut av det. 
+Bilder under er tatt i dunkel belysning med ISO3200: 
+
+Det samme er dette bildet – også her har kameraet brukt ISO 3200, men byr allikevel på godt med detaljer og mindre støy enn mange konkurrenter på så høy følsomhet: 
+
+Det er nok altså her det ekstra lyset fra monokromsensoren kommer til sin rett, der Huawei i større grad er i stand til å produsere bilder med mindre støy fordi kameraet sitter på mer lysinformasjon via den ekstra bildesensoren. 
+
+En ting vi dog savner er muligheten for automatisk HDR, noe praktisk talt alle andre toppmodeller har for tiden. 
+Det finnes en HDR-funksjon, men virkningen av den er ikke spesielt stor. 
+Nå skal det sies at bildene som kommer ut stort sett har god kontrast og dynamikk uansett. 
+
+Vi liker også godt kameraappen, som er brukervennlig, ren og kan by på full manuell eksponering (inkludert råformat) om du drar opp pro-flippen. 
+Som på forgjengeren finnes det også en egen lysmaling-funksjon der du kan holde lukkeren åpen innenfor en vilkårlig tidsperiode og dermed fange lys på en kreativ måte. 
+
+Det kan du se eksempel på i testen av Huawei P8. 
+
+Tynn og delikat 
+
+Ser vi på telefonens ytre, har Huawei nok en gang snekret sammen en tynn og delikat telefon. 
+Den består hovedsakelig av aluminium, med avrundede kanter både på for- og bakside. 
+Det gjør at den er god å holde i hånda – uten skarpe kanter. 
+Ei heller stikker kameraene ut på baksiden av telefonen. 
+
+Fingeravtrykksensoren er særdeles kjapp og presis, og vi liker godt plasseringen på baksiden som gjør den lett å treffe med pekefingeren enten du bruker høyre eller venstre hånd. 
+Ifølge Huawei skal den også måle dybden i fingeravtrykket og derfor være vanskeligere å trikse med. 
+
+På forsiden fremstår telefonen også med svært tynn ramme utenfor skjermen, selv om inntrykket lyver litt – skjermen dekker nemlig ikke hele det sorte området. 
+
+Regner vi skjerm vs totalt arael, havner vi uansett på meget gode 72,51 prosent, som er det høyeste fra en 5,2 tommer av de vi har målt. 
+Til sammenligning har for eksempel Sony Xperia Z5 en score her på 70,91 prosent, mens Huawei Mate 8, med sine seks tommer, topper lista med 78,38 prosent. 
+
+Ingen app-skuff 
+
+Som Huawei har hatt for tradisjon tidligere, finnes det ingen app-skuff i deres EMUI-grensesnitt. 
+Dermed blir alle app-ikoner liggende på hjemskjermen. 
+Om du synes det er en uting, kan du selvsagt bytte ut launcher-appen med en annen. 
+
+Det visuelle inntrykket synes vi imidlertid er ganske elegant – vi liker også at Huawei tidsstempler alle varsler i varselmenyen slik at du kan se hvilket varsel som kom når. 
+
+Et enkelt sveip over knappene nederst på skjermen forminsker bildet slik at du lettere når over hele skjermbildet med tommelen, og du kan enkelt sveipe ned på fingeravtrykksleseren for å dra ned varslingsfeltet, eller til sidene for å bla i bilder. 
+Det å trekke ned varslingsfeltet er faktisk noe vi har brukt ofte under testingen. 
+
+Mye mas om strømstyring 
+
+Er det én ting vi ikke er så begeistret for hva gjelder programvaren, er det at du som bruker er nødt til å ta stilling til alt som har med strøm å gjøre når du bruker telefonen. 
+
+Apper som bruker strøm i bakgrunnen kan bli suspendert – eksempelvis ble vi overrasket over at vi ikke hadde fått de sedvanlige varslene om Liverpool-scoringer fra FotMob-appen (og de var det mange av i helga!), men etter litt nærmere undersøkelse, var appen forhindret å kjøre i bakgrunnen av systemet slik at vi måtte inn og rette opp. 
+Det samme gjaldt Slack, som vi bruker til internkommunikasjon på jobben, der vi ikke mottok varsler før vi korrigerte det selv. 
+
+Vi har flere ganger blitt kontaktet på e-post og Facebook av Huawei-brukere som klager over at de ikke får varsler om nye snapper eller lignende. 
+For å bøte på dette må du åpne innstillinger, avanserte innstillinger, batteristyrer og beskyttede apper. 
+Appene som er huket av her, vil få lov til å kjøre også når skjermen er slått av. 
+
+Smart Wi-Fi 
+
+En ting som er smart med Huawei P9, er måten den håndterer WiFi-tilkoblinger på. 
+Dersom du er i nærheten av flere kjente nettverk, vil den velge det raskeste, og ikke det som nødvendigvis har det beste signalet. 
+Det forutsetter at du har WiFi+ slått på, noe du blir spurt om når du tar telefonen i bruk første gang. 
+
+Likeledes vil den hoppe over på mobilnettet dersom det er raskere enn WiFi-tilkoblingen, noe vi har opplevd flere ganger hjemme i rommene som ikke har så god WiFi-dekning. 
+Du får en advarsel når 10MB mobildata er brukt, og som du kan trykke på for å tvinge den tilbake på WiFi. 
+Dette styres igjen av den samme funksjonen – WiFi+. 
+
+For øvrig har vi vært meget godt fornøyde med samtalekvaliteten i løpet av vår tid med Huawei P9. 
+
+God ytelse 
+
+Hva gjelder ytelse har P9 den siste Kirin-prosessoren som Huawei lager selv, nærmeste bestemt 955-varianten, som er klokket høyere enn 950-varianten som sitter i Mate 8 (2,5GHz vs 2,3GHz). 
+
+Den sørger for at alt går glatt og behagelig for seg i det daglige, med tanke på surfing, navigering i menyer og den slags. 
+Faktisk får vi her en ny toppnotering i PCMark-testen, som måler mer dagligdagse oppgaver, som redigering av bilder, behandling av store tekstdokumenter, surfing på nettsider, spoling i video og den slags. 
+
+Når det gjelder 3D-ytelse er det imidlertid ikke like rosenrødt. 
+Der har Kirin-løsningen til Huawei lenge vært et stykke bak de beste, og det ser vi også i de 3D-tunge ytelsestestene. 
+Under ser du resulatet fra 3DMark og AnTuTu: 
+
+Batterimessig synes vi Huawei-telefonen presterer helt på det jevne, altså at de fleste vil klare seg fint gjennom hele dagen og fortsatt ha 30-40 prosent igjen ved leggetid. 
+Det har i hvert fall vi erfart, med rundt to timers aktiv bruk av skjermen om dagen. 
+
+Konklusjon 
+
+Med en prislapp på rundt 5.500 kroner ved lansering er Huawei P9 rimeligere enn sine argeste konkurrenter. 
+Det er en telefon vi har vært svært fornøyde med – den yter godt, har ett av markedets beste kameraer, en super fingeravtrykksleser og er i det hele en fornøyelse å betjene. 
+
+Skal vi trekke for noe, må det være at det kan være litt forvirrende at man selv må tillate at enkelte apper kjører når skjermen er slukket. 
+Fremdeles har vi også begrenset utbytte av knokefunksjonen, der telefonen skal kunne skille mellom fingertupp og knoke slik at du for eksempel kan ta skjermdumper og den slags ved å tegne med knoken. 
+
+Allikevel synes vi Huawei har gjort det aller meste riktig med P9, som du sterkt bør vurdere om du er i markedet for en ny toppmodell i år. 
+Den er nok ikke førstevalget til de heftigste 3D-spillene, men om det ikke har så stor betydning får du her en tynn, delikat telefon med et flott kamera, godt batteri og noen smarte funksjoner til en prislapp som ikke er like høy som hos de argeste konkurrentene. 
+
+Huawei P9 32GB 

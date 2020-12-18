@@ -1,0 +1,92 @@
+TEST:Canary All-In-One Security overvåkingskamera 
+
+Alt du trenger for å overvåke huset? 
+
+Politiet melder om en drastisk nedgang i boliginnbrudd her i landet. 
+Årsakene er foruten godt politiarbeid trolig også den økende utbredelsen av alarmsystemer rundt om i norske hjem. 
+
+Mange betaler flere hundre kroner i måneden til et vaktselskap som rykker ut ved brann eller innbrudd. 
+Andre satser på egne løsninger som bare utgjør en engangsutgift. 
+
+Vi har tidligere testet Netatmo Welcome, et overvåkningskamera som er et tilleggsprodukt til (men ikke helt integrert med) Netatmos værstasjonsystem. 
+
+«Smarte» og «dumme» kameraer 
+
+Det finnes etterhvert mange overvåkningskameraer med smartfunksjoner på markedet. 
+Det er nok å nevne Googles Nest-kamera (tilleggsprodukt til Nest-termostaten), iSmart og Piper. 
+
+I tillegg har du en rekke «dumme» overvåkningskameraer til en rimelige penge der ute for de som bare vil holde et øye med inngangsdøra eller garasjen når de ikke er hjemme. 
+
+Canary er et nytt bekjentskap i smart-kategorien. 
+Som så mye annen oppfinnsom teknologi startet smartkameraet livet sitt som et folkefinansieringsprosjekt via IndieGoGo. 
+
+I fjor ble det israelske lansert i USA, og nå er det altså også å finne i butikkene her i Norge. 
+
+En alt i ett-løsning? 
+
+Canary reklamerer med at dette kameraet kan løse alle dine sikkerhets- og overvåkingsbehov. 
+Du trenger med andre ord verken røykvarslere, innbruddssensorer på dører og vinduer eller alarmer. 
+
+Kameraet registrerer hendelser i huset ditt og «lærer» etterhvert som du tagger disse hendelsene forskjellen på normal og unormal aktivitet. 
+
+Hopper katten opp på bordet, tagger du dette som normalt. 
+Når du selv setter nøkkelen i døra og kommer hjem, skjønner kamerat at du ikke er noen innbruddstyv. 
+
+Kameraet skal også kunne skjønne når det er folk hjemme og når alle er borte. 
+I det første tilfelle er alarmen av, i det andre er alarmen på. 
+
+Unormale temperatursvingninger vil også bli fanget opp. 
+Dermed vil en brann raskt utløse alarmen. 
+
+- Ring brannvesenet! 
+
+Alt sammen styres via en app på mobilen. 
+Her kan du følge med i sanntid, om du ikke har annet å gjøre på jobben enn å følge med på stua hjemme. 
+
+Heldigvis får du beskjed ved unormale hendelser. 
+Og når det skjer, kan du velge om alarmen skal gå (den er ikke altfor skremmende for tyvene, vil vi tro) eller ringe etter hjelp. 
+
+I appen skal nødnumrene ligge ferdigprogrammert, men her må våre israelske venner ha surret litt. 
+
+I stedet for 112 for politi, 113 (eller nasjonalt legevaktnummer 116 117) for ambulanse og 110 for brann har Canary lagt inn sentralbordnummret til Oslo Politidistrikt både når det gjelder politi og brann. 
+Når det gjelder akutt medisinsk hjelp går det helt galt. 
+
+Her er 02180 lagt inn - nummert til Kontaktsenteret i Oslo Kommune. 
+
+Dette er det imidlertid enkelt å endre i menyen - bare husk det før du begynner å melde fra! 
+
+Stor opplæringsjobb 
+
+Ellers er det et svare strev med å avmelde små og store hendelser i hjemmet. 
+
+Om du lever et stillesittende liv alene, er det neppe noe problem. 
+Men med unger, husdyr og øvrig familie i full aktivitet får du litt av en jobb med å fortelle Canary at alt er normalt. 
+
+Og her kommer vi til Canarys styrke: 
+Selve kameraet. 
+Vi snakker om en ekstrem vidvinkel her, men samtidig med så høy oppløsning så lite optisk forvrengning at du faktisk kan se den minste detalj. 
+
+Oppsettet er også forbilledlig enkelt. 
+Først laster du ned appen (Android, iOS) 
+Den modellen vi testet har riktignok ikke Bluetooth-støtte, så vi koble med den medfølgende mikrofonkabelen til mobiltelefonens hodetelefonutgang for å få kontakt. 
+
+Deretter gikk alt som en lek, bortsett fra de nevnte nødnumrene. 
+
+Helt topp som kamera 
+
+Som overvåkningskamera alene er dette det beste vi har prøvd, og vi synes nesten dette sammen med nett/app-støtten er verd prisen på 2.195 kroner alene. 
+
+Vivi derimot advare mot å tro at dette er en erstatning for profesjonelt installerte alarm- og overvåkingssystemer fra sikkerhetsselskapene. 
+
+Det går kanskje an å stole på videoovervåking alene dersom systemet etter hvert blir smart nok til å skille normalt fra unormalt. 
+
+Men intet sikkerhetsselskap med respekt for seg selv ville ha installert en enhet der det bare er å røske ut USB-kabelen for å sette varslingen ut av spill. 
+Det finnes ingen batteribackup. 
+
+Slik er det med Canary: 
+Om noen eller noe kutter noen strømmen eller nettforbindelsen, får du ingen beskjed verken om sabotasjen eller at tyver fortsetter med å forsyne seg av sølvtøyet. 
+
+Canary All-In-One Security 
+
+Canary All-In-One Security holder dermed ikke helt hva det lover. 
+Men som kamera med nettforbindelse er det absolutt konkurransedyktige med andre løsninger til samme pris. 

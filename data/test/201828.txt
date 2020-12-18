@@ -1,0 +1,86 @@
+Acer Aspire R 11 (R3-131T)
+Rimelig hybrid-PC med imponerende batteritid. 
+
+Interessen for hybrid-PC-er er økende, og alle de store produsentene har en eller flere modeller i de fleste prissegmentene. 
+Dette er maskiner som gjerne ser ut som vanlige PC-er, men som med enkle håndgrep kan gjøres om til nettbrett. 
+
+Flere bruksmoduser 
+
+Acer R11 benytter en av de mest brukte transformeringsmetodene, der du bøyer skjermen helt rundt slik at den dekker undersiden av PC-en, og dermed har du et nettbrett. 
+
+Acer fremhever i tillegg to andre bruksmoduser; display-modus, der tastaturplaten fungerer som skjult fot (fint for presentasjoner og filmvisning), og telt-modus der minimalt av PC-en berører bordplaten (fint for eksempel ved baking eller der underlaget er urent). 
+
+Men i motsetning til modeller som HP Spectre X360 og Lenovo Yoga Pro er dette en rimelig modell med noe enklere maskinvare. 
+Her har vi sammenfattet de viktigste tekniske egenskapene: 
+
+Skjerm: 
+11,6 tommer blank TN-berøringsskjerm, 1366x768 piksler Prosessor: 
+Intel Pentium N3700 (firekjernet, maks 1,6GHz) RAM: 
+8GB Grafikkort: 
+Intel HD Graphics Lagring: 
+64GB SSD (eMMC) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 1x USB 3.0, 1x USB 2.0 Webkamera: 720P Kortleser: 
+SD-minnekort Trådløst nett: 802.11ac (Intel AC-3165) + Bluetooth 4.0 Kablet nett: 100/10Mbps OS: Windows 10 Home Størrelse: 298 × 20,9 × 211 mm Vekt: 
+1,58kg Pris: 
+Fra 3.995 kr (jf Prisjakt 26.4.2016) 
+
+Her får du altså enklere prosessor, enklere skjerm og lagringsløsning enn på de nevnte modellene fra høyere prisklasse. 
+I tillegg er kabinettet i hovedsak av plast, noe som også er med på å holde prisen nede. 
+
+Godt tastatur 
+
+Tastaturet kan kanskje virke noe trangere enn på for eksempel en 13,3-tommer, men vi målte det til å være like bredt som på en 13-tommer Macbook Air. 
+Kun funksjonstastene og enkelte andre spesialtaster er litt mindre enn standard. 
+Tastaturplaten er relativt fast og tastene avgir lite lyd ved skriving. 
+
+Pekeplaten under tastaturet er relativt stor og bred, og fungerer greit med flerfingerberøring. 
+Den avgir en anelse klirrelyd når du trykker på den, som om noe ikke er helt skrudd fast. 
+Det er imidlertid ikke uvanlig i denne prisklassen. 
+
+Skjermen kan være et ankepunkt 
+
+Skjermen har ikke spesielt høy oppløsning, men samtidig er den så liten at det neppe oppleves som noe stort problem. 
+Det som imidlertid er greit å være klar over, er at denne PC-en har et enkelt TN-panel som blant annet ikke byr på like gode innsynsvinkler som IPS- og PLS-paneler. 
+
+Fra sidene er den OK, men fra topp og bunn forsvinner kontraster og farger blir raskt invertert. 
+Det er kanskje mer relevant enn du tror, spesielt når du jobber i nettbrettmodus og holder brettet på høykant. 
+Da blir brukeropplevelsen rett og slett dårlig, mener vi. 
+
+Ekstrembatteri 
+
+Både størrelse og vekt bør uansett innby til utstrakt mobil bruk, noe også batteritiden bør. 
+Vi målte den i to omganger, først med minimal belastning, og deretter med kontinuerlig videoavspilling. 
+Ved minimal belastning holdt batteriet ut i hele 13 timer og 17 minutter, men kanskje like imponerende: 9 timer og 37 minutter med videoavspilling. 
+Det skulle tilsvare 10-12 timer med variert bruk, noe som er svært sjelden kost i denne prisklassen. 
+
+Her må vi likevel skyte inn at vårt testeksemplar ved en feiltakelse var utstyrt med en enklere Celeron-prosessor, men tallene våre stemmer uansett godt overens med Pentium-tallene til Notebookcheck.com (11 timer og 20 minutter med kontinuerlig websurfing). 
+
+Ikke noe for lagringshungrige 
+
+Til nettopp videotitting, sosiale medier og websurfing er dette en maskin som byr på helt grei ytelse. 
+Den er også meget stillegående. 
+Til tyngre arbeid og spill bør du derimot velge en helt annen konfigurasjon. 
+
+I diagrammet under har vi sammenlignet ytelsestall fra Passmark på Pentium-prosessoren som sitter i utgaven som er tilgjengelig i Norge, mot vårt testeksemplar og andre populære prosessorer i 4-6000 kronerssegmentet: 
+
+Hvis god lagringsplass er viktig for deg, bør du også gå for noe annet. 
+64GB fylles svært fort opp i Windows-verdenen. 
+Her blir eventuelt skylagring og/eller lagring på minnekort eller minneplugg løsninger du må vurdere å bruke. 
+
+Diskytelsen er også langt under det du normalt kan vente deg av en SSD. 
+Faktisk er den lavere enn for typiske mekaniske harddisker. 
+Lesehastigheten er OK med 117MB i sekundet, men skrivehastigheten på 37MB i sekundet vitner om at dette er en maskin for enkel bruk. 
+
+Konklusjon 
+
+Er du ute etter en stillegående PC med lang batteritid, til nettaktiviteter, musikk og film, fikser Acer Aspire R 11 biffen med bravur. 
+Det er imidlertid først og fremst på disse to punktene den utmerker seg spesielt positivt. 
+
+Vi synes særlig diskytelsen og kapasiteten er godt under pari. 
+Skjermen er fleksibel og gjennomsnittlig god til PC-bruk, men problemene med innsynsvinkel på høykant er store nok til at den aldri blir noe førstevalg til nettbrettbruk, mener vi. 
+
+Takket være den gode batteritiden og stillegående ytelsen havner vi til slutt på en svak firer på terningen. 
+
+Acer Aspire R3-131T (NX.G11ED.008) 

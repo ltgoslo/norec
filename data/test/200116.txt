@@ -1,0 +1,167 @@
+Nok en solid toppmodell fra Huawei
+Skiller seg litt ut i mengden. 
+
+Akkurat hva som er et selskaps toppmodell kan noen ganger være litt uklart. 
+Samsung har for eksempel hatt sin Galaxy S-serie og Note-serie side om side i en årrekke, men er det den siste S- eller Note-telefonen som er toppmodellen? 
+
+Likeledes for Huawei. 
+Før jul testet vi Mate 9 Pro; en 5,5 tommer stor telefon. 
+P10 er bare 5,1 tommer over diagonalen og har omtrentlig samme maskinvare (men bittelitt svakere). 
+Den vil nok selge i større volum enn Mate-utgaven, men om den da kan kalles toppmodellen får være et definisjonsspørsmål. 
+
+Kineserne har dessuten lansert en Plus-utgave av årets P10-modell, som er større. 
+Den venter vi fortsatt på testeksemplar av. 
+
+Slank, lekker og stort batteri 
+
+Tar vi det utvendige først, synes vi Huawei har snekret sammen en usedvanlig delikat telefon denne gangen. 
+
+Vår testmodell er den blå utgaven, og P10 kommer også i grønn, rosa, sort, hvit, gull og sølvfarge. 
+Dessverre ser det ut til at vi her i Norge kun får tilgang på de minst spenstige, altså sort, gull og sølv; i hvert fall i første omgang. 
+
+Mest utradisjonell er baksiden, i såkalt «hyper diamond cut»-aluminium, altså en slags rifla aluminium. 
+Ikke bare ser det annerledes ut, men det øker også friksjonen mot hånda og gjør dessuten at fingermerker praktisk talt ikke synes. 
+Ifølge Huawei skal baksiden også være ekstra godt beskyttet mot riper. 
+
+Verdt å merke seg er at Huawei P10, i motsetning til Mate 9 Pro, har støtte for micro SD-kort. 
+Alternativt kan du ofre den kortplassen mot et sekundært SIM-kort; for eksempel for å skille jobb og privat, eller om du er så ofte i utlandet at du har et utenlandsk SIM-kort også (Mate 9 Pro støtter også to SIM-kort). 
+
+Kantene rundt telefonen er avrundede og gir god grepskomfort, mens fingeravtrykksleseren også her er flyttet til forsiden av telefonen. 
+Som på Mate 9 Pro er den lynrask og presis, der vi ikke kan huske å ha hatt et eneste feiltrykk den siste uka. 
+Faktisk holder vi den siste generasjonen fra Huawei som den beste fingeravtrykksleseren på markedet akkurat nå. 
+
+Og i bunnen? 
+Ladeport (USB-C) og 3,5mm-utgang. 
+Selv om telefonen bare er snaue 7mm tykk, har Huawei klart å putte i et 3200mAh batteri her, og det er ganske imponerende med tanke på størrelsen. 
+
+Med i pakken følger også Huaweis SuperCharge-lader, med effekt på 22,5W. 
+Det gjør at telefonen er rask å lade – det tar rett over en halvtime å få en nesten tom telefon opp til 50 prosent, en time å få den til drøye åtti prosent, men da nesten ytterligere en time å oppnå fullt batteri. 
+
+Dog er den ikke vanntett, som begynner å bli vanlig på toppmodellene fra de fleste produsentene om dagen. 
+
+Se også videoen vi lagde da vi åpnet esken første gang i Barcelona: 
+
+Men hva tenkte dere med hjem-knappen, Huawei? 
+
+Nevnt er at fingeravtrykksleseren er knallgod, men én ting gjør at vi klør oss litt i hodet når vi bruker Huawei P10. 
+
+Telefonen har nemlig ingen felter ved siden av fingeravtrykksleseren for tilbake og programbytte, slik de fleste Android-telefoner med fysisk hjemknapp har. 
+
+I innstillingene kan du velge mellom to navigasjonsvarianter. 
+Du kan bruke hjemknappen til all navigasjon, slik at et kort trykk tilsvarer tilbake, et langt trykk er hjem og et sveip inn fra siden tilsvarer programbytteknappen. 
+
+Da mister du imidlertid en av de kjekke funksjonene i Android 7, der to trykk på sistnevnte hopper til den forrige appen du brukte; en funksjon vi har blitt veldig glad i. 
+Samt at langt trykk, som tradisjonelt åpner Google Nå/søk, heller ikke blir mulig. 
+Det skal også nevnes at vi ofte har måttet prøve flere ganger med sveip-inn-fra-siden-varianten. 
+
+Alternativt kan du ha knappene på skjermen, som vanlig på telefoner uten fysisk hjemknapp på forsiden, og som vi foretrekker på denne telefonen. 
+Da brukes fingeravtrykksleseren kun til opplåsning, og ikke som en hjemknapp. 
+Altså har den ingen funksjon når du bruker telefonen, og det føles veldig kontraintuitivt. 
+Det samme så vi blant annet på Motorola G4 Plus. 
+
+Vi krysser fingrene for at flere enn oss syter om dette, og at det løses i en fremtidig programvareoppdatering. 
+
+Mye å like 
+
+Vi har etter hvert blitt veldig glade i Huaweis brukergrensesnitt, EMUI, og særlig etter den siste oppdateringen, der det også ble mulig med en app-skuff, slik at du slipper å ha alle app-ikonene på hjemskjermen. 
+
+EMUI har svært mange funksjoner som du kan ta i bruk, men uten at det blir overveldende eller mange halvdårlige gimmicks. 
+
+Blant annet har du full kontroll over appers nettbruk (både WiFi og 4G), varsler, strømbruk, rettigheter og lignende. 
+Du kan se i statuslinja hvor mye som lastes ned per sekund, velge rekkefølge på navigasjonsknappene, låse unna innhold eller apper slik at de krever en ekstra fingeravtrykkslesing, blokkere personer fra anrop/SMS og mye mer. 
+
+Som før kan programvaren også skille mellom fingertupp og -knoke, slik at du kan ta et skjermbilde ved å kakke to ganger med knoken, eller starte kameraet ved å tegne en C. 
+Det går også an å dele skjermen i to med en knokebevegelse og kjøre to apper side om side. 
+
+Svært kraftig maskinvare 
+
+I likhet med Mate 9 Pro har Huawei P10 selskapets egenutviklede Kirin 960-prosessor, med åtte kjerner. 
+Det samme har grafikkbrikken, og P10 har 4 GB arbeidsminne; mindre enn storebroren i Mate-serien som har 6 GB. 
+
+På ytelsestestene gjør den det svært godt: 
+
+Skjermstørrelse: 5,1" - oppløsning: 
+1920x1080 - type: 
+IPS LCD 
+
+Prosessor: 
+Kirin 960 RAM: 
+4 GB Lagringsplass: 
+64 GB Støtter minnekort 
+
+Kamera, bak: 
+12Mp f/2,2 + 20Mp f/2,2 Kamera, foran: 
+8Mp, f/1,9 
+
+Batteri: 3200 mAh Maks effekt, lader: 22,5W 
+
+Operativsystem: 
+Android 7.0 
+
+Annet: 
+Fingeravtrykksleser, USB-C, 3,5mm, 2x SIM-støtte 
+
+I hverdagen opplever vi også P10 som en telefon med svært god ytelse, der navigasjon og app-navigering går som en drøm. 
+Sistnevnte hjelpes ekstra av at telefonen lærer seg ditt bruksmønster over tid, slik at apper da klargjøres og gis prioritet dersom telefonen forventer at du vil åpne dem. 
+
+For øvrig har P10 64 GB lagringsplass, og da med støtte for videre utvidelse via minnekort. 
+
+Hva gjelder batteriet blir vi ikke like imponerte som da vi testet Mate 9 Pro (den har riktignok et 25 prosent større batteri). 
+På P10 har vi opplevd at det forsvinner rundt 1,5 prosentpoeng batteri per time om natten, og at batteriet går raskt unna når man spiller spill, der telefonen også blir noe varm. 
+
+De fleste vil nok klare seg igjennom dagen, men ikke så mye mer enn det. 
+Verdt å merke seg er at du på Huawei-telefoner kan sette opp telefonen til å slå seg av og på, for eksempel om natten, for å spare strøm. 
+
+Hva med kameraet? 
+
+Siden Huawei lanserte P9 og P9 Plus i fjor vår, har selskapets toppmodeller (inkludert Honor) kommet med et dobbeltkameraoppsett i bakkant. 
+
+På Huawei P10 fanger hovedkameraet fargebilder, mens hjelpekameraet kun fanger sort/hvitt. 
+Dette er på papiret det samme oppsettet som i Mate 9 Pro, men en ting som er nytt med P10-modellene er en portrettalgoritme som skal være i bedre stand til å tolke ansikter og deres 3D-struktur, og som derfor kan gi bedre resultater når de to kameraene «faker» en uskarp bakgrunn. 
+
+Under ser du et eksempelbilde der vi har brukt portrettmodusen: 
+
+Godt i dette tilfellet, men i flere bilder synes vi at denne portrettmodusen bommer litt, der fokuspunktet ikke alltid er ansiktet. 
+Derfor liker vi bedre å bruke den eksisterende funksjonen, som lar deg justere fokuspunkt og simulert blenderåpning i etterkant. 
+Det føles derfor litt unødvendig med to slike moduser når man tar bilder. 
+
+Den nye portrettfunksjonen kan for øvrig også brukes på frontkameraet, slik at bakgrunnen blir uskarp. 
+Her har Huawei kun informasjon fra ett kamera, så resultatet her blir jevnt over svakere. 
+Og standard er en «kunsterisk effekt» som slører bakgrunnen på en unaturlig måte. 
+
+Nytt skal også være en såkalt adaptive selfie-modus, som automatisk skal bruke en bredere vidvinkel på frontkameraet dersom man tar et gruppebilde. 
+Vi må innrømme at vi aldri klarte å trigge den, men … 
+
+Som tidligere er Huaweis kameraapp svært pen, brukervennlig og funksjonsrik, og muligheten til å starte kameraet ekstra kjapt ved å trykke to ganger kjapt på volumknappen kan være kjekk når du har dårlig tid. 
+Kameraet fokuserer raskt og gjør stort sett meget gode lysmålinger – motlyssituasjoner går som regel som en lek: 
+
+Dog savner vi litt ekstra hva gjelder detaljnivå i mange bilder, og da særlig i situasjoner med svakere belysning. 
+
+Under har vi lagt ut et knippe bilder tatt med Huawei P10, for den som vil inspisere selv. 
+Siden publiseringssystemet vårt komprimerer bildene ganske kraftig for at nettsidene våre skal lastes inn raskere, har vi lagt dem i et album på Google Foto: 
+
+Verdt å merke seg med P10-modellene er at den kommende Plus-utgaven har f/1,8 lysstyrke på hovedkameraet, mens den minste utgaven fortsatt har noe svake f/2,2. 
+Det betyr at Plus-utgaven slipper inn 50 prosent mer lys og at P10 vil være nødt til å holde lukkeren åpen 50 prosent lenger, bruke 50 prosent høyere følsomhet eller en kombinasjon av disse. 
+
+Lyd og samtaler 
+
+I testperioden har vi vært svært fornøye med samtalekvaliteten fra P10; også når de har vært utført fra et godt isolert stillerom på jobb, som på enkelte telefoner kan være litt utfordrende. 
+
+Lyden fra den eksterne høyttaleren er imidlertid så-som-så, og fra hodetelefonutgangen ikke like høy og dynamisk som de beste. 
+Der er også Mate 9 Pro bedre. 
+
+Et liten pirk er også at vibreringen i denne telefonen er ganske svak, som gjør at den ikke like godt merkes i lomma som på de fleste andre telefoner. 
+Jeg klarte å få et tapt anrop fra kona da jeg spiste i kantina på jobb med telefonen i lomma, for eksempel, og det går heller ikke an å regulere intensiteten. 
+
+Konklusjon 
+
+Nok en gang leverer Huawei en solid telefon i P10. 
+Den er delikat og solid bygget, med en ganske utradisjonell bakside. 
+Fingeravtrykksleseren er helt super, selv om vi synes Huawei har klønet litt med navigasjonen. 
+
+Ytelsesmessig leverer den varene så det holder, velkomment er 64 GB lagringsplass pluss støtte for minnekort (eller to SIM-kort), og Huaweis Android-skall, EMUI, har mange smarte funksjoner. 
+
+Mange av konkurrentene begynner nå å bli vanntette, en egenskap P10 mangler. 
+Vi ble heller ikke alt for imponert av batteritiden, og den nye portrettmodusen tilfører ingenting som ikke kameraappen hadde fra før, etter vår mening. 
+
+Huawei P10 Dual SIM 64GB 

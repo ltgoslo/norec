@@ -1,0 +1,122 @@
+Bedre på nesten alle punkter, men er det nok?
+Vi har sjekket ut den sylferske nye iPad Pro, som har fått mange merkbare forbedringer siden sist. 
+En av dem er større skjerm der bildet friskes opp dobbelt så raskt som på forrige generasjon. 
+Det har sine klare fordeler. 
+
+Det har gått mer enn 7 år siden den først iPad-en så dagens lys, og siden den gang har verdens mest populære nettbrett gått gjennom en rekke revisjoner. 
+Tidligere i år kom «standard-iPaden» i ny utgave, der den største forskjellen fra forrige generasjon var at den var blitt billigere. 
+Les testen vår. 
+
+Det er imidlertid ikke til å stikke under stol at nettbrettmarkedet har opplevd bedre dager. 
+Nå håper Apple at de kan bidra til å blåse nytt liv i denne kategorien, blant annet med kraftigere brett og utvidet funksjonalitet. 
+
+For proffene 
+
+Allerede høsten 2015 kom iPad i en Pro-utgave, med blant annet vesentlig kraftigere prosessor og grafikkort, bedre kamera og fire høyttalere, og siden det nå var myntet på profesjonelle brukere som designere, illustratører og ingeniører, var skjermstørrelsen økt til 12,9 tommer. 
+Samtidig kom det tilbehør som bare fungerte på Pro-brettet, Apple Pencil for skriving og tegning, og Smart Keyboard - et omslag med integrert tastatur. 
+
+Siden kom Pro-brettet også i en rimeligere versjon med 9,7 tommer skjerm, som vi testet her på Dinside i fjor, og gav terningkast 5 og anbefalt-stempel. 
+
+I begynnelsen av juni lanserte Apple en ny generasjon iPad Pro, med en rekke forbedringer både på inn- og utsiden. 
+9,7-tommeren var blitt erstattet av en ny modell med 10,5 tommer skjerm - uten at brettets fotavtrykk var blitt særlig større. 
+Det er denne utgaven vi har hatt på testbenken de siste dagene. 
+
+Dobbelt så mye minne og lagring - til samme pris 
+
+Denne tabellen oppsummerer hva som er nytt av spesifikasjoner: 
+
+Som du ser er det snakk om en ganske vesentlig oppgradering på flere punkter - selv innstegsmodellen har fått dobbelt så mye RAM og doblet lagringsplass fra 32 til 64 GB, uten at prisen har økt. 
+Du kan imidlertid finne iPad Pro 9,7 tommer til reduserte priser nå. 
+
+Brettet har blitt 1 centimeter høyere og en halv centimeter bredere enn forgjengeren. 
+Tykkelsen er den samme som før. 
+
+Rammen er blitt vesentlig tynnere, spesielt på sidene, og der ligger forklaringen på hvorfor selve fotavtrykket ikke har økt mer enn det har gjort. 
+
+Lyssterk og lynrask skjerm 
+
+La oss se nærmere på skjermen først. 
+Den er ikke bare blitt 0,8 tommer større med tilhørende økt oppløsning, den er også blitt vesentlig mer lyssterk (nå: 600 nits, forgjengeren ble målt til 511). 
+Et forbedret antirefleksbelegg skal også gjøre den bedre å bruke i vanskelige lysforhold. 
+Litt refleksjoner er det, men de er mørkere og dermed mindre sjenerende enn på forgjengeren og mye bedre enn på standard iPad. 
+
+Men den endringen som kanskje er aller mest merkbar, er at skjermen har fått inntil 120 Hz oppfriskningsrate per sekund, mot forgjengerens 60. 
+Dermed blir alle bevegelser mye mer glidende. 
+Skroller du for eksempel raskt gjennom en nettside, vil teksten være lesbar der den tidligere ble grøtete under bevegelsene. 
+Dette gir naturlig nok en mer realistisk opplevelse i spill og film. 
+
+Når vi sier inntil 120 Hz, betyr det at iPad Pro varierer oppfriskningsraten. 
+Et stillbilde behøver ikke å oppdateres så ofte, og da kan raten senkes helt ned til 24 ganger i sekundet. 
+Slik spares batteriet fra å bli tappet unødvendig fort. 
+Forgjengeren hadde også variabel oppfriskningsrate, men kun mellom 30 og 60 Hz. 
+
+Opptegning nesten helt uten forsinkelse 
+
+Den raske oppfriskningsraten - sammen med den nye, raske prosessoren, kommer også til nytte under tegning og notater med Apple Pencil. 
+Det er første gang vi har opplevd en opptegning som er nært opp mot umiddelbart - omtrent som når du tegner på papir med en blyant. 
+Apple oppgir forsinkelsen til 20 millisekunder, mot forgjengerens 38. 
+Dette er en gedigen forbedring som gjør det mye enklere å tegne og skrive på skjermen. 
+Apple Pen er den samme som før, så den trenger ikke noen oppgradering. 
+
+Vi nevnte så vidt prosessorbrikken, det er nettbrettutgaven av A10 Fusion som sitter i iPhone 7 - med flere prosessorkjerner (6 mot 4), og doblet antall GPU-kjerner fra 6 til 12. 
+Vi har ikke kjørt egne målinger på hvor store forbedringene er i forhold til forrige iPad Pro, men ifølge Ars Technica er det snakk om mellom 25 og 80 prosent forbedring - avhengig av oppgave og antall kjerner som brukes. 
+Det er uansett snakk om store ytelsesforbedringer! 
+
+Videre er internminnet økt fra 2 til 4 GB. 
+Denne forbedringen kommer helt sikkert til å bli godt merkbart når iOS 11 slippes til høsten. 
+Da blir det nemlig mye enklere å multitaske på iPad - og med flere kjørende programmer samtidig er RAM-mengden viktig for hvor sømløs opplevelse du vil få. 
+
+Men allerede nå merker man forbedringene godt, kanskje spesielt ved oppstart av tunge apper som for eksempel Garage Band. 
+Den starter og er klar for bruk på en blunk. 
+
+Batteriet er blitt litt kraftigere, nok til at du skal kunne bruke brettet i inntil ti timer mellom hver lading, akkurat som på de eldre utgavene av iPad. 
+Dette samsvarer også bra med vår opplevelse etter å ha brukt brettet i noen dager. 
+
+Høyttalerne er så vidt vi kan bedømme, de samme som på forgjengeren. 
+Du har altså fire høyttalere her, og lyden er vesentlig bedre enn på standard iPad. 
+Du kan lese mer om våre inntrykk av lyden i testen av forgjengeren. 
+
+Moro med skikkelig kamera 
+
+Tiden da nettbrettene ble utstyrt med dårlige kameraer, er forbi. 
+Nye iPad Pro er utstyrt med samme kamera som i iPhone 7, som er blant de bedre mobilkameraene på markedet. 
+Også frontkameraet er kraftig forbedret. 
+
+Under har vi samlet noen bildeeksempler (selfien er tatt med frontkameraet): 
+
+Og du kan filme i inntil 4K-oppløsning (3840 x 2160 piksler) med 30 bilder per sekund. 
+Her ser du et videoeksempel vi tok i hagen vår (1080P, 30 fps): 
+
+Dette liker vi ikke fullt så godt 
+
+Når det gjelder tilbehør som det nevnte tastaturomslaget og pennen, er dette relativt dyrt ekstrautstyr. 
+Pennen koster veiledende 1090 kroner, mens omslaget koster hele 1690 kroner. 
+Når innstegsmodellen koster omtrent det dobbelte av en vanlig iPad, synes vi det hadde rettferdiggjort Pro-stempelet i enda større grad om dette var utstyr som fulgte med i pakka. 
+
+Og vi kommer heller ikke unna det faktum at proff-brukere ikke har det samme universet å utfolde seg i på en iPad som på en avansert Mac eller Windows-PC. 
+Dette kommer muligens til å endre seg med lanseringen av iOS i høst, men det krever også at apputviklerne er med på notene. 
+
+Og det er også betimelig å etterlyse støtte for USB-C-porten på iPad. 
+Apple har omfavnet den nye standarden på sine nye Mac-er, og vi kan ikke lenger se de store fordelene med Apples proprietære Lightning-plugg kontra denne - i hvert fall ikke for brukeren. 
+
+Til slutt: 
+Det er mange som hevder at Steve Jobs aldri ville ha godtatt et objektiv som stikker ut og ødelegger den glatte baksiden på Apples mobiler og nettbrett. 
+Men det gjør altså kameraet på nye iPhones og også iPad Pro. 
+Vi tviler ikke på at det er vrient å unngå, men på fremtidige modeller vil vi garantert se at det er mulig å få til. 
+
+Konklusjon 
+
+Dette er den klart beste iPad-en vi har testet, og markerer en stor oppgradering på mange felt. 
+Det er helt klart blitt et brett som er mer Pro enn forgjengeren, og nå skiller den seg mye tydeligere fra standardardversjonen. 
+
+Den er blitt kjapp på det meste, men mest glad er vi blitt i den raske skjermoppdateringen, som gjør at alt av bevegelse flyter bedre over den store skjermen. 
+
+Det er imidlertid først når iOS 11 kommer til høsten, at iPad pro-forbedringene trolig vil komme ordentlig til sin rett, med funksjoner man tidligere kun fant på Mac-er og Windows-PC-er, som enkel multitasking og filbehandler. 
+
+Det store spørsmålet helt til slutt blir: 
+Er det nok til å friste proffbrukerne bort fra den tradisjonelle PC/Mac-hverdagen og blåse nytt liv i nettbrettkategorien? 
+
+Det vil tiden vise. 
+Vi kommer tilbake med våre inntrykk av iOS 11 på iPad Pro i en senere artikkel. 
+
+Apple iPad Pro 10.5" 64GB 

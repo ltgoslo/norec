@@ -1,0 +1,82 @@
+Linksys WRT1900ACS
+Når god ytelse er langt viktigere enn et diskré utseende. 
+
+Hvis du har en trådløs ruter som er noen år gammel, kan det være mange gode grunner til å vurdere å kjøpe en ny. 
+En av årsakene er at ytelsen generelt er bedre enn på gamle rutere, men nye rutere er også bedre til å håndtere mange tilkoblede enheter i nettverket. 
+
+I en normal familie på fem er det ikke uvanlig med 15-20 PC-er, mobiler, nettbrett og dingser som alle er tilkoblet nettet samtidig, og da kan en gammel ruter fort bli en flaskehals. 
+
+Raskere og vifteløs 
+
+WRT1900ACS etterfølger modellen WRT1900AC, som kom i 2014. 
+Av de viktigste nyhetene i den nye utgaven er kraftigere prosessor, doblet internminne og støtte for OpenVPN - som gjør det mulig å logge på nettverket ditt trygt via internett. 
+Forgjengeren hadde for øvrig også en kjølevifte, noe den nye ikke har. 
+Den er dermed lydløs. 
+
+Designmessig kan den derimot oppfattes som bråkete av enkelte. 
+Den sorte og blå plasten har imidlertid noe nostalgisk ved seg, da den stablebare designen og fargekombinasjoen ble brukt på enkelte Linksys-rutere allerede for over ti år siden. 
+Om den er spesielt stuevennlig kan nok uansett diskuteres, men det overlater vi til andre å bedømme. 
+
+Godt spekket 
+
+Ruteren er en såkalt AC1900-modell. 
+Det betyr at den har en teoretisk trådløs topphastighet på inntil 1.300 Mbps i 5GHz-båndet og 600 Mbps i 2,4GHz-båndet. 
+
+Her er en kjapp oversikt over de viktigste øvrige tekniske egenskapene: 
+
+Modell: 
+Linksys WRT1900ACS Standarder: 
+802.11a/b/g/n/ac Antenner: 
+4 USB-porter: 1 x USB 2.0 / eSATA + 1 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja (kun ett i 2,4GHz-båndet) Størrelse: 121 × 26 × 75 mm Vekt: 0,72kg 
+
+Linksys = brukervennlighet 
+
+Installasjonen av ruteren er svært enkel. 
+Det følger med en hurtigguide på norsk, og brukernavn og passord på ruteren er oppgitt flere steder, slik at du slipper å lete etter dette i prosessen. 
+Første gang du kobler deg til, blir du møtte av en veiviser i nettleseren som blant annet oppdaterer med nyeste firmware og tar deg gjennom oppsettet steg for steg. 
+
+Ruteren administreres via et svært enkelt og lekkert grensesnitt på norsk. 
+Vi vil faktisk påstå at Linksys er blant de aller beste på brukervennlighet, samtidig som funksjonaliteten er meget god: 
+
+Ved å registrere deg hos Linksys kan du administrere ruteren fra hvor som helst i verden, inkludert fra mobil. 
+iOS-appen er smakfullt designet, på norsk og svært enkel å bruke: 
+
+Den innebygde OpenVPN-serveren er en rosin i pølsa for mange avanserte brukere: 
+
+Foreldre vil garantert sette pris på gode kontrollmuligheter, blant annet kan du tidsstyre tilgangen til spesielle PC-er og mobiler. 
+Og i motsetning til flere av konkurrentene, er det her faktisk enkelt å sette opp: 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi brukte samme utstyret og fulgte samme testprosedyre som er beskrevet i denne artikkelen, også da vi testet WRT1900ACS. 
+
+Og for å gjøre en lang historie kort: 
+Ruteren innfridde absolutt våre forventninger. 
+I diagrammet under har vi sammenlignet hastigheten på våre vanlige teststeder mot andre, aktuelle AC-rutere vi har testet i det siste, de fleste i 2-3000 kronersklassen: 
+
+Som du ser av diagrammet har vi målt høyere hastigheter i samme rom og i én etasje ned, men det er ingen som slår denne to etasjer ned i vårt trehus. 
+Dekning kombinert med hastighet er altså meget tilfredsstillende. 
+
+Med vår smartmobil iPhone 6s kunne vi utnytte bredbåndshastighetene våre (100/30 Mbps) fullt ut uansett hvor vi befant oss i huset. 
+
+Flott til nettverkslagring 
+
+Vi målte også hastighten på nettverkslagring. 
+Her viste det seg at WRT1900ACS parkerte konkurrentene på lesehastighet fra en USB3.0-minneplugg koblet direkte i ruteren, med over 80 MB pr sekund på store filer, til en PC som var tilkoblet med kabel i ruteren. 
+
+Det er forresten en annen ruter fra Linksys som kommer nærmest, EA8500. 
+Også skrivehastigheten på 24 MB pr sekund er tilfredsstillende, men her hadde vi forventet noe høyere hastighet. 
+
+Takket være enkel administrasjon av brukere og mapper, er dette absolutt et bruksområde for ruteren vi kan anbefale. 
+Men merk at WRT1900ACS ikke støtter Apples backupfunksjon Time Machine. 
+
+Konklusjon 
+
+Linksys WRT1900ACS byr på god funksjonalitet, god brukervennlighet, samt god generell ytelse og rekkevidde. 
+Så hvis du ikke skremmes av designen, er dette absolutt en ruter vi kan anbefale til allround-bruk - inkludert nettverkslagring. 
+
+Sjekk uansett våre plusser og minuser i boksen under. 
+
+Linksys WRT1900ACS 

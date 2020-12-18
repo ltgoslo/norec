@@ -1,0 +1,96 @@
+Endelig et skikkelig Windows-alternativ til iPad Pro
+Den er svært slank og lekker, har en super 12 tommer skjerm og kan kjøre alle Windows-programmene dine. 
+
+Kinesiske Huawei har i løpet av de siste årene blitt en av verdens største produsenter av mobiltelefoner, og mange av dem har fått gode skussmål i tester her på Dinside. 
+Nå er de i markedet med et av de aller første Windows 10-baserte nettbrettene som på alle måter tåler sammenligning mot Apples iPad Pro. 
+
+Mange likhetstrekk 
+
+Det starter allerede med esken. 
+Måten Huawei har pakket inn produktet, kveilet sammen kablene og lagt ved dokumentasjon og adaptere, oser premium - og Apple - lang vei. 
+
+Brettet har fått navnet Matebook, veier 655 gram, måler 6,9mm på det tykkeste og har en skjerm på like i underkant av 12 tommer. 
+Det er 0,9 tommer mindre enn den største iPad Pro, som er nøyaktig like tynn - men veier 68 gram mer. 
+
+Batteritiden opplyses å være rundt 10 timer med variert bruk, akkurat som iPad Pro. 
+Vår erfaring er imidlertid at dette er et i overkant optimistisk anslag. 
+Under kontinuerlig strømming av video fra YouTube og i strømsparemodus, var det natta etter 389 minutter. 
+Det tilsvarer 6 timer og 29 minutter. 
+
+Skjermen har høy oppløsning, nærmere bestemt 2560x1440 piksler. 
+Panelet er av typen IPS og av høy kvalitet, og uansett hvordan du holder brettet vil du kunne betrakte bildet klart og fint. 
+
+På toppen sitter av/på-knappen og et par stereohøyttalere. 
+Lyden er ikke så verst, sett i forhold til andre nettbrett. 
+Til lav bakgrunnsmusikk duger de greit, men ikke forvent særlig fylde. 
+
+På høyre side justerer du volum opp og ned, og mellom knappene sitter en fingeravtrykkleser som du kan benytte når du skal logge på Windows. 
+Den fungerer kjapt og presist. 
+
+Nederst på høyre side finner du den eneste porten på brettet - en USB-C-port. 
+Denne brukes som ladeport og som tilkoblingspunkt for USB-utstyr. 
+
+Det følger med en overgang fra USB-C til klassisk USB-port, slik at du kan koble til minnepinner, eksterne harddisker og annet utstyr. 
+Vi skulle gjerne sette en port til, en skjermutgang og en kortleser, men da spørs det om vi fortsatt hadde snakket om et brett med tykkelse på under 7mm. 
+
+Er dette viktig for deg, bør du vurdere den litt tykkere Surface 4 Pro fra Microsoft. 
+
+Derfor kjøres alt glatt og fint 
+
+På innsiden sitter en Intel Core M3-prosessor med integrert Intel HD 515-grafikkbrikke. 
+Den er svært strømgjerrig, og produserer så lite varme at det aldri var verken nødvendig eller aktuelt å utstyre brettet med vifte. 
+Til tross for dette kjører MateBook Windows 10, Office og alle de andre programmene dine uten å svette - også når flere av dem kjøres samtidig. 
+
+4 GB RAM er ikke lenger veldig mye i Windows-verdenen, men heldigvis kommer brettet helt uten prøveversjoner og annet dilldall fra tredjepart som gjerne kjører i bakgrunnen og stjeler ressurser. 
+
+Brettet er dessuten utstyrt med en rask 128 GB SSD (vi målte lesehastighet på rundt 530 MB/s og skrivehastighet på rundt 300 MB/s) noe som bidrar sterkt til at alle normale PC-oppgaver kjøres glatt og problemfritt. 
+
+Dette innbefatter også alt av videomateriale. 
+Selv de mest krevende 4K-videoene ble avspilt helt uten lyter. 
+3D-ytelsen er begrenset, så ikke vær for optimistisk dersom du er glad i gaming og krevende spillgrafikk. 
+
+Følger med tastatur og penn 
+
+Brettet kommer med et praktisk, heldekkende tastaturdeksel som enkelt brettes og fungerer som en støtte når du vil bruke brettet i PC-modus. 
+Da bør det stå på et bord for god stabilitet, og merk at du kun kan bruke det i én vinkel, noe som ikke alltid er like optimalt. 
+
+Videoen under viser hvordan tastaturdekslet klappes sammen og beskytter hele brettet: 
+
+Det flate tastaturet fungerer for øvrig bra og er akkurat stort nok til at du fint kan bruke touch-metoden uten å bomme for mye. 
+Tastene er responsive og ganske store - med unntak av enter-tasten, som godt kunne vært større. 
+
+Bruk pekeplaten under tastaturet hvis du ikke ønsker å berøre skjermen når du skal flytte musepekeren og trykke på knapper. 
+Den fungerer meget bra. 
+
+Det følger også med en penn for tegning, signering og presisjonsarbeid. 
+Den fungerer fint, men det er fortsatt litt for mye forsinkelse i streken til at det kan sammenlignes med penn og papir. 
+Bruken krever litt trening og du må skrive sakte når du for eksempel skal skrive navnet ditt. 
+
+Litt om brukeropplevelsen i Windows 
+
+Windows 10 lar deg enkelt svitsje mellom tablet- og PC-modus, og er i så måte langt smartere enn Windows 8. Mange av standard-appene er også laget for at de skal fungere like bra med berøring som med tastatur og mus. 
+
+I tablet-modus dukker tastaturet opp når det skal, for eksempel når du står i adresselinjen i nettleseren. 
+så langt er alt såre vel. 
+
+Utfordringene kommer først når du skal kjøre klassiske Windows-programmer, som nesten aldri er laget med tanke på annet enn tastatur og mus. 
+Det blir ofte veldig krøkkete betjening med fingrene, og legger du til at enkelte programmer heller ikke takler oppskalering av tekst og grafiske elementer særlig bra, blir slik styring aldri noe førstevalg. 
+
+Vi har ventet lenge på at Windows skal få det samme utvalget av moderne apper som Android og Windows, men det ser ikke ut til å skje med det første. 
+
+Konklusjon 
+
+Huawei MateBook m3 4GB 128GB 
+
+Kvalitetsmessig har vi svært lite å utsette på Matebook. 
+Huawei har definitivt valgt materialer av god kvalitet da de konstruerte brettet, noe som også gjenspeiles i prisen. 
+Vårt testeksemplar koster nemlig rundt 9.500 kroner i billigste nettbutikk. 
+Til sammenligning koster iPad Pro rundt 500 kroner mindre, riktignok uten tastatur. 
+
+iPad pro har et langt bedre utviklet app-univers, og du finner kvalitetsapper til de aller fleste behov. 
+Der er ikke Windows-brett i dag, og vi har begynt å tvile på om de noen gang kommer dit. 
+
+Du kan selvfølgelig kjøre klassiske Windows-programmer, men da må du spørre deg om det kanskje er en vanlig PC du trenger. 
+Du må riktig nok opp i vekt, men da får du samtidig bedre ergonomi, mer kraft og mange flere tilkoblingsmuligheter - alt gjerne til en mye lavere pris. 
+
+Les plussene og minusene i boksen til høyre før du bestemmer deg, og få også med deg testen av konkurrentene Microsoft Surface 4 Pro og Apple iPad Pro. 

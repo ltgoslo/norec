@@ -1,0 +1,160 @@
+DxO One – stor sensor i bittelite kamera
+Kan plugges direkte i iPhone og ta svært gode bilder med tanke på størrelsen. 
+
+Spoler vi fem år tilbake, var det mange som brukte et dedikert kamera å ta bilder med. 
+Men etter hvert som mobilkameraene har blitt bedre og bedre, synes de fleste nå at dette er tilstrekkelig når de skal fange hendelser i hverdagen. 
+
+Det er jo tross alt litt mer praktisk med de 150 grammene man alltid har i lomma, enn å slepe på en kilo over skulderen. 
+
+Synkende tall 
+
+Tall fra Elektronikkbransjen viser en nedgang i kamerasalget fra 2014 til 2015, men kameramarkedet er langt fra dødt. 
+I Norge ble det i 2015 solgt 79.000 kompaktkameraer, 29.000 speilreflekskameraer og 12.000 kompakte systemkameraer. 
+Speilreflekskameraer fikk svi mest, med en nedgang på 37 prosent fra året før. 
+
+Men bedre bildekvalitet trenger ikke tynge den ene skulderen med én kilo. 
+Dagens testprodukt, DxO One, er et lite kamera som bare veier 108 gram og fint får plass i ei bukselomme, men som allikevel kan by på en vesentlig større bildebrikke enn de som sitter i mobiltelefonen. 
+
+Best med iPhone 
+
+Selv om man kan bruke DxO One helt uten tilbehør, er dette et produkt som er laget for å brukes med iPhone. 
+Via en tilhørende iOS-app kan man bruke iPhone-skjermen til å komponere bildene, endre på innstillinger, se på bilder man har tatt og så videre. 
+
+I motsetning til løsninger som Sony QX1 skjer dette imidlertid ikke trådløst – på DxO One-kameraet finnes det nemlig en Lightning-plugg som du stikker inn i porten på telefonen. 
+Det gjør at forsinkelsen på bildet i praksis blir null, og det går raskt å overføre bilder til mobiltelefonen. 
+
+DxO 
+One har også et eget spor til micro SD-minnekort, og verdt å merke seg er at det er nødvendig med et slikt kort for å bruke kameraet, selv om alle bilder som tas kan overføres direkte til telefonen. 
+
+Bak lokket finner vi også en micro USB-port som brukes for å lade kameraet eller koble det til en PC for å overføre bilder. 
+Kameraet har eget batteri og trekker ikke strøm fra telefonen når det er koblet til. 
+
+Slik er kameraet i bruk 
+
+Den lille størrelsen, sammenlignbar med en fyrstikkeske, gjør at du ikke finner så mye knapper og brytere på DxO One. 
+
+Utløserknappen er plassert på toppen og kan holdes halvveis nede for å forfokusere bildet; alternativt kan man trykke på ønsket fokuspunkt på iPhone-skjermen. 
+
+Fotoappen har for øvrig også en utløserknapp om du heller vil bruke den. 
+
+Når kameraet ikke er i bruk, er objektivet beskyttet av et skyvbart lokk, og ved å trekke dette ned, slås kameraet på. 
+Trekker du litt ekstra ned, spretter Lightning-kontakten ut, slik at du kan plugge kameraet i telefonen. 
+Og gjør du det, starter appen automatisk så lenge telefonen ikke er låst. 
+
+Verdt å merke seg er at dette lokket også må skyves ned for å kunne trykke inn pluggen igjen når du er ferdig med en bildesesjon, og det er litt vanskelig å få til om du bare bruker én hånd. 
+Men det går. 
+
+På baksiden (altså siden som er vendt mot deg når du tar bilder) er det en liten sort/hvitt-skjerm som viser informasjon om ledig plass på minnekortet, gjenstående batteri og opptaksmodus. 
+
+Du kan sveipe til venstre og høyre på denne skjermen for å bytte mellom stillbilder og video, eller sveipe opp for å få et svært kornete sort/hvittbilde som til nød kan brukes til å komponere bilder, slik at du får en viss anelse av om du sikter riktig. 
+Dette er for øvrig del av den siste oppdateringen – kameraets fastvare oppdateres via iPhone-appen når det er koblet til. 
+
+Merk at DxO One ikke har egen blits, så her må du eventuelt ta til takke med iPhone-blitsen for å lyse opp litt ekstra. 
+Om du monterer kameraet «feil» vei, kan skjermen på iPhone lyse opp for å gi en enkel blitsløsning til selfies. 
+
+Roterbart feste 
+
+Verdt å sette pris på er muligheten til å rotere telefonen og kameraet uavhengig av hverandre slik at du lettere kan gjøre skudd fra hofta eller med hendene over hodet og fortsatt se skjermen godt. 
+
+Her finnes det én trinnlås hver vei etter cirka 60 graders rotasjon, som også er maks. 
+Et lite minus her er at man er nødt til å rotere tilbake til startpunktet igjen før man drar ut kameraet, ellers vil ikke pluggen tilbake i hullet sitt. 
+Og å vri pluggen med tommel- og pekefinger er ikke å anbefale. 
+
+Hvorfor tar det bedre bilder? 
+
+Selv om DxO One er mindre enn et tradisjonelt Ixus-kamera, har skaperne utstyrt kameraet med en 1" sensor; samme størrelse som ofte brukes i avanserte kompaktkameraer, som Sonys RX100-serie og lignende. 
+
+Til sammenligning har iPhone 6s en sensor på 1/3", Sonys Z5-kameraer har 1/2,3" mens Samsung bruker en 1/2,6" sensor i sine nye S7-modeller. 
+Større sensorer finner vi i enkelte Nokia-modeller, som 1020 (2/3") og PureView 808 (1/1,2"). 
+
+Illustrert er forskjellen slik (Samsung ligger mellom iPhone og Z5, men ble kuttet på grunn av plassen): 
+
+Med oppløsning på 20 megapiksler gir det en pikselstørrelse på 2,4µm, altså der hver enkel pikselsensor er langt større enn hva som er vanlig for mobiltelefoner, som som regel har 1-1,5µm. 
+Det igjen betyr at DxO-kameraet, i hvert fall i teorien, vil være i stand til å gjengi bilder med større dyamisk omfang og mindre støy; spesielt i situasjoner med svakt lys. 
+
+Større sensor krever også større optikk, rent fysisk. 
+Fordelen her man med større brennvidder vil få større uskarphet i dybden, slik at det som ikke er i fokus blir mer uskarpt. 
+Denne egenskapen påvirkes også av blenderåpningen, som for dette kameraet er f/1,8. 
+Det er meget lyssterkt. 
+
+I tillegg påvirkes bildekvaliteten i stor grad av optikken, samt signalbehandlingen fra enheten i etterkant. 
+
+For øvrig tilsvarer brennvidden 32mm i 35mm-format, som gjør at bildeutsnitt blir litt trangere enn hva som er vanlig på mobil-toppmodeller i dag. 
+
+Slik blir bildene 
+
+DxO 
+One er i stand til å ta svært gode bilder. 
+Skarpheten er svært god og vi får en detaljrikdom som dagens mobiltelefoner ikke kan matche, og som fint måler seg med kameraer med tilsvarende stor bildebrikke. 
+
+Her får du et eksempel på detaljnivået, etterfulgt av et 100%-utsnitt: 
+
+Vi er også svært godt fornøyde med lysmåleren hva gjelder hvitbalanse. 
+Under ser du først et bilde tatt med DxO One og deretter ett tatt med iPhone selv. 
+Legg merke til fargestikket på sistnevnte: 
+
+Eksponeringsmessig og med tanke på fargedynamikk ser DxO-kameraet også ut til å levere jevnt over gode resultater når man bruker automatikken. 
+Men verdt å merke seg er at One, i hvert fall foreløpig, ikke har støtte for brakettering/HDR. 
+Dette er noe som har blitt svært vanlig i topptelefonene, og som i mange situasjoner vi løfte et bilde ved å sette sammen flere bilder til ett, med høyere dynamisk omfang. 
+
+La oss først se på en eksponering i motlys, der vi synes DxO kommer godt ut av det, altså uten HDR: 
+
+Men i mange situasjoner savner vi HDR-muligheten. 
+Under finner du først et DXO-bilde, og så det tilsvarende bildet tatt med Samsung Galaxy S7 i Auto HDR-modus. 
+Som du ser får vi her et langt bedre detaljnivå i de mørke partiene av bildet: 
+
+Men – under har vi tatt et bilde med DxO-kameraet i råformat, som vi senere har korrigert på PC-en, kun ved å justere opp skyggepartiene. 
+Til maks, bare for å vise hvor mye informasjon som egentlig ligger tilgjengelig når man tar bilder i råformat, og ikke for å få det så virkelighetsnært som mulig (i praksis ofres også kontrast her, for eksempel): 
+
+Dette er altså en av styrkene ved å knipse i råformat, der du kan prosessere bildet selv i etterkant, uten å degradere bildekvaliteten. 
+Litt dumt er det dog at One ikke har støtte for RAW+JPEG-fotografering; her må man velge. 
+
+Den optiske bildestabilisatoren savner vi først og fremst på video. 
+En lett joggetur på 10 meter i gummistøvler kan du se under; en med iPhone 6s Plus-kameraet og én med DXO-kameraet. 
+Som du vil se er iPhone-videoen langt mer stabil på grunn av den optiske bildestabilisatoren. 
+
+Se flere bilder vi har tatt med DxO One: 
+
+Ikke alt vi er fornøyde med 
+
+Verdt å merke seg er at selv om vi er meget godt fornøyde med bildekvaliteten på det lille kameraet, er ikke DxO One spesielt kjapp i bruk. 
+
+For det første er autofokusen ikke så mye å skryte av. 
+Den er kontrastbasert med ansiktsgjenkjenning, og bruker relativt lang tid på å finne riktig fokus sammenlignet med de beste mobilkameraene. 
+
+Vi snakker heller ikke om noen særlig god skuddtakt på bildene – holder du utløserknappen inne, snakker vi fortsatt under to bilder i sekundet, selv om det er forventet at DxO kommer med en oppdatering akkurat på dette punktet. 
+
+Et savn er som nevnt også muligheten for å knipse HDR-bilder, der flere bilder kombineres for å lage ett bilde med høyere dynamisk omfang. 
+Dette er noe de fleste smarttelefoner har innebygd. 
+En mulighet der er selvsagt å utnytte muligheten til å knipse med råformat. 
+
+Objektivet har ei heller optisk stabilisering. 
+På stillbilder finnes ingen stabilisering, mens det gjøres en elektronisk stabilisering på video, altså der utsnittet kan flyttes rundt på bildebrikken siden langt fra hele brukes når man filmer. 
+Uansett kan ikke stabiliseringen her måle seg med iPhones egen optiske stabilisering. 
+
+Vi blir heller ikke imponerte av batteritiden. 
+Det oppgis 200 bilder på én ladning, men vår erfaring er at batteriet går tomt langt før den tid ved normal bruk. 
+En dag mistet vi 80 prosent av batteriet etter rundt 50 bilder. 
+
+Og så må vi innrømme at vi ikke synes det er helt komfortabelt å holde kamera-telefon-kombinasjonen. 
+Vi har så lyst til å hvile langfingeren på forsiden av kameraet, men da dekker vi til objektivet. 
+
+Konklusjon 
+
+Sjelden har vi sett så god bildekvalitet pakket inn i et så lite ytre. 
+Med relativt stor bildebrikke er DxO One i stand til å ta meget gode bilder, også under dårlige lysforhold. 
+
+Det hjelpes selvsagt av et lyssterkt objektiv (f/1,8), som i motsetning til et mobilkamera også kan blendes ned om man ønsker større dybdeskarphet. 
+Vi liker godt iPhone-kameraappen som hører til, som gir deg gode muligheter til å eksponere bildet akkurat som du vil, inkludert støtte for full manuell eksponering og opptak i råformat. 
+
+Ytelsesmessig scorer DxO One dårlig. 
+Det bruker fem sekunder på å starte opp, har ikke spesielt imponerende autofokus og er langt fra noe råskinn hva gjelder å ta bilder i serie. 
+Ei har det optisk bildestabilisering, og batteritiden er i praksis langt svakere enn de 200 bildene som oppgis pr ladning. 
+Dessuten synes vi det er pussig at det ikke er støtte for HDR-brakettering, som i noen situasjoner ville ha gitt bedre eksponeringer. 
+
+Og prislappen på 5.000 kroner blir derfor for høy i våre øyne. 
+Det er i samme prisklasse som flere avanserte kompaktkameraer med om lag samme bildekvalitet, men som også har mer å by på enn DxO One, som bedre batteritid, optisk zoom og bildestabilisering, for å nevne noe. 
+
+De kan dessuten fint brukes helt uten en telefon koblet til. 
+
+DxO One 

@@ -1,0 +1,139 @@
+Aldri har så mye fått plass i så lite
+13,3 tommer skjerm i et kabinett som normalt huser en 11-tommer? 
+Joda, Dell har klart det - og vi liker det meste av det vi ser. 
+
+Å kjøpe ny bærbar PC betyr som regel alltid en god del kompromisser. 
+Har du for eksempel lyst på en liten PC, har det tradisjonelt betydd liten skjerm, lav ytelse og et tastatur som gjerne er krympet for å få plass. 
+
+Nå er det kabinettene som krymper 
+
+Den siste tiden har det imidlertid skjedd mye på den fronten, og vi ser stadig eksempler på at store skjermer får plass i små kabinetter, takket være at kanten rundt skjermen har krympet, se for eksempel på Asus Zenbook UX530UX og Microsoft Surface Laptop. 
+
+De to PC-ene er imidlertid giganter i forhold til Dell XPS 13 Infinity, som ifølge produsenten er verdens minste PC med 13,3 tommer skjerm, med sine beskjedne mål på 30,4 x 19,9 x 1,37 cm og vekt på 1,24 kg. 
+
+Til tross for de beskjedne målene, har Dell fått plass til maskinvare og batteri som på mer normale 13,3-tommere. 
+Dermed skal du slippe noen av de typiske kompromissene som vi nevnte innledningsvis. 
+
+2-i-1 
+
+XPS 13 Infinity er en såkalt 2-i-1 PC. 
+Det betyr at den har berøringsfølsom skjerm og kan med enkle grep gjøres om til nettbrett. 
+Her dytter du ganske enkelt skjermen rundt 360 grader, slik at den dekker baksiden av PC-en. 
+
+I tillegg kan den brukes på flere andre måter, for eksempel stilt opp som et telt - ypperlig til visning av video, presentasjonsvisninger i møterommet, eller hvis du av ulike grunner ønsker at minst mulig av kabinettet skal berøre underlaget. 
+
+Dette er en premium-PC. 
+Det betyr at materialvalg - så vel som pris, ligger i øvre sjikt. 
+Ifølge Prisjakt selges den i norske butikker fra 16.995 kroner inkludert moms. 
+
+Det er fullt mulig å få billigere PC-er med de samme ytelsene, men her har Dell bevegd seg helt på grensen av hva som er mulig å få til av kompromissløs miniatyrisering. 
+
+Solid og miljøvennlig 
+
+Kabinettet er av metall, og de øvrige materialene skal i stor grad kunne gjenvinnes, lover Dell. 
+Miljøhensyn har blitt et aspekt ved produktutvikling som denne produsenten har tatt på alvor. 
+
+På sidene finner du to USB-C-porter, hvorav den ene har støtte for Thunderbolt 3 og Displayport (for tilkobling til ekstern skjerm, blant annet). 
+Her kunne vi også ønsket oss en klassisk USB-A-port, men forstår at Dell har måttet ta noen vanskelig valg for å holde størrelsen på maskinen på et minimum. 
+
+Et par høyttalere har Dell imidlertid klart å få plass til. 
+Disse har åpning på sidene, på høyde med pekeplaten. 
+Lyden er helt Ok, men mindre fyldig enn på den nevnte Surface Laptop. 
+
+Tynn ramme er nøkkelen 
+
+Åpner du lokket, blir du møtt av en blank, berøringsfølsom full HD-skjerm (1920 x 1080 piksler) med ramme på 0,5 cm på tre av sidene. 
+Skjermen har et panel av typen IPS, som sørger for godt innsyn fra sidene uten at farger og kontrast blir skadelidende. 
+
+Den opplevde kvaliteten på skjermen er meget høy, med god lysstyrke og kontrast. 
+Overflaten er dekket av Corning Gorilla Glass 3, noe som gir god beskyttelse mot kakk og riper. 
+
+Skjermleddene er altså veldig fleksible, men merk at skjermen blir litt for tung til at tastaturdelen klarer å holde den når vinkelen blir for stor. 
+Dermed vipper tastaturplaten opp. 
+Ikke noe stort ankepunkt, men verdt å merke seg. 
+
+Fleksibel pålogging 
+
+I bunnen av skjermen er rammen bredere og like under den sitter det to kameraer. 
+Plasseringen er ikke optimal i vanlig PC-modus, og må ses på som et kompromiss for å kunne ha så tynn ramme i toppen som mulig. 
+Bruker du maskinen i nettbrett- eller teltmodus, er plasseringen mye bedre, men dette er modi de færreste kommer til å bruke i stor grad, tror vi. 
+
+Det som virkelig er bra med kameraløsningen, er at den er Windows Hello-kompatibel. 
+Det betyr at du kan logge på Windows ved hjelp av ansiktet ditt. 
+På sikt er det ventet at løsningen også kan brukes til bank- og betalingsløsninger på nett. 
+
+I tillegg er maskinen utstyrt med fingeravtrykkleser, også denne er Windows Hello-kompatibel, så her har du flere muligheter hvis du synes passord er noe herk. 
+
+Fullgodt tastatur 
+
+Hva så med tastaturet? 
+Det er i hovedsak i fullstørrelse for 13,3-tommere, med unntak av enkelte av spesialtastene - som Enter, Backspace og Delete, som ofte er en del større. 
+Det betyr at vanlig skrivecomfort er godt ivaretatt. 
+Tasting bråker lite og responsen er god over det hele. 
+Det er bittelitt svikt mot midten av tastaturplaten, men ikke merkbart med mindre du trykker meget hardt. 
+
+Tastene er også baklyst, og takket være svarte taster er det ikke noe problem med kontrasten, som for eksempel på de grå tastene på denne maskinen fra Porsche Design. 
+
+Pekeplaten er passe stor, med integrerte felter for venstre og høyreklikking. 
+Trykk gir en tydelig, men ikke sjenerende klikkelyd. 
+Platen støtter flerberøring, til glede for deg som ikke ønsker å bruke skjermen når du skal navigere rundt i Windows-programmene dine. 
+
+Metallet rundt tastaturplaten og pekeplaten er plastbelagt. 
+Det gir en litt mindre glatt overflate som er behagelig å lene håndbakene mot, som samtidig er lett å rengjøre. 
+
+Helt grei ytelse - helt uten vifter! 
+
+XPS 13 Infinity kommer i flere forskjellige konfigurasjoner, deriblant enkelte som er vifteløse. 
+Vår test-PC er blant dem, takket være at den er utstyrt med en svært strømgjerrig prosessor 
+- Intel Core i7- 7Y75 med integrert Intel HD 615-grafikk. 
+
+Ytelsesmessig er dette den svakeste av siste generasjon i7-prosessorer, men det behøver ikke være noen dealbreaker. 
+Ytelsen er nemlig grei nok til alt av vanlige PC-oppgaver, lett multitasking, bilderedigering i Photoshop Elements og lett videoredigering. 
+Ytelsen er omtrent på nivå med Intel Core i7-4510U, som så dagens lys i 2014, krevde vifte og brukte tre ganger så mye strøm ... 
+
+SSD-en er PCIe-basert. 
+Det betyr at den er potensielt en god del raskere enn SSD-er som er SATA-basert. 
+Her er det først og fremst lesehastigheten som har fått en boost, vi målte den til rundt 1,6 GB i sekundet på det raskeste, mens skrivehastigheten stoppet på 739 MB i sekundet. 
+Vi har målt noen til å være raskere, men dette er gode tall. 
+
+Og det er jammen deilig å bruke en lett, kjapp nok og fin PC, vel vitende at uansett hvor hardt du belaster den, er den knyst som graven. 
+Det er ikke alltid tilfelle hos mange av konkurrentene, som ikke nødvendigvis er mye kjappere. 
+
+Kommer med McAfee innabords 
+
+PC-en leveres med Windows 10 Pro. 
+Det betyr at du kan boltre deg med alt av funksjonalitet, inkludert kryptering med Bitlocker og domenepålogging. 
+Dell er imidlertid ikke med i Microsofts Signature-satsing. 
+Det betyr at PC-er fra produsenten kommer med en del tilleggsprogrammer installert, men ikke mange som ikke kommer fra Dell selv. 
+
+Den mest plagsomme er en prøveversjon av en sikkerhetspakke fra McAfee, men produsenten har nå bedyret overfor Dinside at alle varslene og unødvendig beslag av systemressurser skal være kraftig redusert. 
+
+Vi opplevde imidlertid ikke sider ved konfigurasjonen som bidro til noe dårlig brukeropplevelse. 
+Maskinen virker kjapp og fin til det aller meste, og du får som regel jobbe uforstyrret fra uønskede varsler fra tredjepartsprogrammer. 
+
+Litt vel optimistisk batteritid 
+
+Når det gjelder batteritid, hevder Dell at du skal kunne bruke maskinen i inntil 15 timer med lett bruk. 
+Vår strømmetest av video tyder på at det er et litt vel optimistisk anslag. 
+
+Vi strømmet video fra YouTube i 440 minutter før batteriet var tomt, med lysstyrken satt til 50 prosent. 
+Det tilsvarer 7 timer og 20 minutter. 
+
+Merk imidlertid at denne strømsvake prosessoren bruker mye mindre strøm når den ikke gjør noe spesielt eller gjør enklere ting enn å spille video, så en brukstid på rundt 10-11 timer med lett, variert bruk bør i hvert fall være overkommelig. 
+Og det er absolutt godkjent for en maskin i denne størrelses- og vektklassen. 
+
+Opplading går gjennomsnittlig raskt, den var på 52 prosent etter én time - mens PC-en var påskrudd. 
+De beste vi har målt ligger på rundt 60 prosent. 
+
+Konklusjon 
+
+Dell XPS 13 Infinity er en meget god 2-i-1-maskin som vil bli husket for sin minimalistiske og solide innpakning, gode skjerm og lydløse framtoning. 
+Den er kostbar, men det er lite å sammenligne mot som er like kompakt. 
+
+Ytelsesmessig er den OK, men krever du mer fart bør du vurdere en konfigurasjon med vanlig U-prosessor, den trenger ikke å være noe mer kostbar enn den vi har testet - men da slipper du ikke unna viftekjøling. 
+
+Eneste ankepunkter av betydning er mangel på vanlig USB-port, plasseringen av kameraene og litt dårlig vektbalanse når du bøyer skjermen langt bak. 
+
+Synes du 16.995 kroner er mye, bør du også få med deg testen av Acer Spin 7, som har tilsvarende spesifikasjoner men som koster en god del mindre. 
+
+Dell XPS 13 9365 (15211248) 

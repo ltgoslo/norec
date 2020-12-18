@@ -1,0 +1,130 @@
+HP Spectre 13
+Verdens tynneste PC, og kanskje også den mest futuristiske. 
+Men det har gått på bekostning av «gamle» tilkoblinger. 
+
+HP vakte oppsikt da de tidligere i år annonserte den nye Premium-modellen Spectre 13. 
+PC-en måler ikke mer enn 10,4 millimeter, noe som er rundt 20 prosent tynnere enn de tynneste vi har sett så langt. 
+
+Noe av hemmeligheten bak det relativt store kuttet i tykkelse, ligger i skjermhengselet, som er konstruert på en måte som bygger minimalt i høyden. 
+Hengslet akkompagneres av en hydraulisk pumpe i miniatyrstørrelse som gjør det enkelt å løfte lokket med én finger. 
+I tillegg har HP fjernet alt av plasskrevende tilkoblinger. 
+
+Tre USB-C-porter, og det er alt 
+
+Her finner du kun en analog lydutgang (minijack), samt tre USB-C-porter, der alle tre kan brukes som ladeport (vi har testet). 
+USB-C er å regne som fremtidens USB-port, og byr på mange fordeler. 
+
+Utelukkende bruk av USB-C er første gang vi ser siden vi testet Macbook (som for øvrig kun har én USB-C-port). 
+Minst én av portene støtter dessuten Thunderbolt. 
+
+Det følger med overgang fra USB-C til standard USB (3.0). 
+Trenger du overgang til kablet nettverk, HDMI eller VGA, kan det kjøpes som tilleggsutstyr. 
+PC-en har ikke innebygd minnekortleser. 
+
+Topputgaven 
+
+Maskinen kommer i flere forskjellige konfigurasjoner, vi har testet topputgaven med Core i7-prosessor. 
+Før vi går videre skal vi ta en kjapp oppsummering av de viktigste tekniske egenskapene: 
+
+Skjerm: 
+13,3 tommer blank IPS-skjerm 1920 x 1080 piksler Prosessor: 
+Intel Core i7-6500U (2,5GHz) RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD 520 (integrert) Lagring: 256 GB SSD fra Samsung (M.2 PCe-grensesnitt) 
+Optisk drev: 
+Nei Skjermutganger: 
+Krever overgang (ekstrautstyr) USB-porter: 3x USB-C (1x USB3.1 gen1 og 2x USB3.1 gen2) Webkamera: 
+Ja Kortleser: 
+Nei Trådløst nett: 
+802.11a/b/g/n/ac (Intel AC 8260) 
+Kablet nett: 
+Nei Annet: 2x Thunderbolt 3.0 over USB-C 
+OS: 
+Windows 10 Home Størrelse: 325 × 10,4 × 229 millimeter Vekt: 1,17 kilo Pris: 
+Fra 16.990 kroner (jamfør Prisjakt 16.6.2016) 
+
+Sony Vaio Pro 13 
+
+Godt tastatur, men ikke helt standard 
+
+Tastaturet er i full størrelse og er meget godt i bruk. 
+Tastene er passe ru og responsive, og tastaturplaten er fast. 
+Det er også meget stillegående, men ikke fullt så silkemykt som på Lenovo Yoga S900. 
+Tastene har også baklys som kan skrus av og på med en hurtigtast. 
+Apropos hurtigtaster; her ligger de på øverste rad - og du kan justere lyd, lys, med mer uten å holde nede Fn-tasten samtidig. 
+Det vi har stor sans for. 
+
+Det er imidlertid verdt å merke seg følgende: 
+Enter-tasten dekker kun én rad, og er derfor litt lett å bomme på i starten for deg som bruker touch-metoden. 
+Det er også verdt å merke seg at hake-symbolene ikke ligger til høyre for venstre shift-tast, men er flyttet til høyre for mellomromstasten. 
+Driver du med koding, kan dette virke bakvendt - men for de fleste andre, er det flisespikkeri. 
+
+Pekeplaten er også passe ru og fungerer meget godt - også flere fingre, for eksempel til skrolling med to fingre og diverse «gestures». 
+Den har ingen problemer med å skille mellom utilsiktet berøring med tommelputen og fingerberøring. 
+De integrerte feltene for venste- og høyreklikk er nesten lydløse. 
+Eksemplarisk! 
+
+På venstre og høyre side for tastaturet sitter det et par høyttalere signert Bang & Olufsen. 
+De gir faktisk ikke så aller verst lyd, med god diskant og antydning til bass. 
+Helt greit til lett bakgrunnsmusikk til arbeidet. 
+
+God skjerm, men hva med hengslene? 
+
+Den blanke skjermen måler, som navnet på PC-en antyder, 13,3 tommer og er basert på et full HD IPS-panel fra LG Display (1920 x 1080 piksler) uten berøringsstøtte. 
+Den er av høy kvalitet og kan betraktes fra nær død vinkel uten at farger og kontrast blir skadelidende av den grunn. 
+Lysstyrken er også god. 
+
+Det blanke kontrastbelegget avgir en del refleksjoner når lysforholdene er vanskelig, noe som kan være et ankepunkt for noen. 
+Den siste tiden har det igjen blitt vanlig med matte skjermer på PC-er uten berøringsstøtte, nettopp av denne grunnen. 
+Vi har også sett de første PC-ene med matte berøringsskjermer. 
+
+Det vi er litt mer skeptiske til, er de omtalte skjermhengslene. 
+De virker rett og slett litt spinkle. 
+Det er også en liten dødgang i hver posisjon, noe som trekker det ellers så solide inntrykket av konstruksjonene noe ned. 
+
+Ikke vifteløs 
+
+Som på de aller fleste PC-er med Core i-prosessor, har også denne maskinen vifter (to stykker) som kan spinne opp når maskinen blir belastet. 
+Det kan du oppleve fra tid til annen, men i lange perioder med lett arbeid, er maskinen helt tyst. 
+Men kjører du den hardt, og dekker du til innsuget på undersiden, vil viftene spinne opp i høy hastighet og bli godt hørbare. 
+
+På ett punkt under maskinen kan det samtidig bli temmelig varmt. 
+Slikt er ikke til å komme unna på så tynne maskiner. 
+Alternativet er å utstyre PC-en med Core M-prosessor, noe som samtidig ville ha dratt ytelsen noe ned. 
+
+Her er den god 
+
+For ytelsen er det ingenting å si på. 
+Prosessoren oppnår 4.653 poeng i Passmark Performance Test, noe som betyr at alle «normale» jobber ekspederes kjapt og effektivt. 
+Det er ikke noe problem å kjøre mange programmer samtidig, for Photoshop. 
+Office og en haug med arkfaner i nettleseren, og veksle effektivt mellom dem. 
+
+SSD-en byr dessuten på en lesehastighet på inntil 1,6 GB i sekundet (!), noe som også bidrar til en meget god opplevelse. 
+Skrivehastigheten er imidlertid langt mer moderate 300 MB i sekundet, noe som er langt mindre imponerende. 
+Detaljene ser du her. 
+
+Grafikkytelsen er mer enn god nok til alt av 2D-arbeid. 
+Med riktig overgang kan du fint koble PC-en til en 4K-skjerm med oppdateringsfrekvens på 60 Hz. 
+Du kan også spille enkelte nyere spilltitler hvis du går ned på oppløsning og detaljrikdom, men dette bør ikke være hovedinteressen om du går til innkjøp av en slik maskin. 
+Da vil du fort bli skuffet. 
+
+Batteriet skal ifølge HP holde til mellom åtte og ni timer med variert bruk mellom hver lading. 
+Vi streamet video fra Youtube i litt over 500 minutter - som er 8 timer og 20 minutter, så den påstanden kan vi støtte. 
+Det er et par timer bak de beste i klassen, men absolutt godkjent for en så tynn og lett maskin - med såpass gode ytelser. 
+
+Konklusjon 
+
+Det er lett å la seg imponere over HP Spectre 13. 
+Den er lett og føles stort sett solid, og til tross for at den er syltynn byr den på gode ytelser. 
+Godt tastatur og god skjerm gjør den samtidig behagelig å bruke. 
+
+Vi synes det er tøft av HP å kutte ut alle andre tilkobinger enn USB-C, men per i dag blir det samtidig et ankepunkt for mange av oss. 
+Det skyldes det enkle faktum at det foreløpig er lite utstyr i markedet som kommer med USB-C-støtte, så du må belage deg på å bruke overganger i lang tid, enten du ønsker å koble til en minnepinne, mobiltelefon eller skjerm/projektor. 
+
+At det kun følger med overgang til standard USB-port er vi heller ikke imponert over. 
+En medfølgende overgang til HDMI hadde vært helt på sin plass, mener vi. 
+
+Spectre 13 står totalt sett til en femmer på terningen. 
+Les uansett plussene og minusene i boksen under, og få med deg testene av Lenovo Yoga S900 og Acer Aspire S13 før du bestemmer deg. 
+
+HP Spectre 13-V001no 

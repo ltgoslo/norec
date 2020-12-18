@@ -1,0 +1,179 @@
+Tre telefoner til 3.000 kroner.Hvilken bør du velge? 
+
+Koster under halvparten av toppmodellene. 
+
+Ikke alle synes det er verdt pengene å bruke 7-8-9.000 kroner på en ny mobiltelefon, og etter å ha testet tre kandidater til under 3.000 kroner må vi innrømme at de aller fleste av oss fint hadde klart oss med en mobiltelefon i denne prisklassen. 
+
+I denne runden har vi altså testet tre telefoner side om side. 
+Du kan klikke på produktnavnene for å lese den fullstendige testen av hver modell. 
+
+Samtlige koster tett oppunder 3.000 kroner. 
+En tabell med sammenligning av spesifikasjonene finner du nederst i denne artikkelen. 
+
+Denne artikkelen blir da en mer kortfattet oppsummering av de viktigste funnene (vi gjentar lenkene lenger ned om du vil lese denne artikkelen først). 
+
+Konstruksjon 
+
+De tre telefonene har alle LCD-skjermer på henholdsvis 5 tommer for Sony-telefonen og 5,2 tommer for de andre. 
+Sony-telefonen er også den eneste blant dem med 720p-skjerm, mens de andre byr på full HD-oppløsning. 
+
+Og ikke bare er Sonys skjerm mindre og med svakere oppløsning, men den er også mindre lyssterk og har svakere innsynsvinkel enn de to andre. 
+En kan argumentere for at det er «skarpt nok» med denne oppløsningen på en femtommer, og joda, det er det når man ser på den alene, men det er ikke til å komme fra at man lett kan se at bildet er skarpere på de to andre. 
+
+Motorola og ZTE kan begge by på fingeravtrykkslesere under skjermen, men her er nok et sparetiltak Sony har gjort på XA1, som ikke har fingeravtrykksleser. 
+Vi opplever begge leserne som gode – Motorola sin er et felt, mens ZTEs variant er en knapp. 
+
+Til gjengjeld er XA den smaleste av de tre, med 67mm bredde. 
+Her er Motorola-telefonen ganske bred til en 5,2-tommer å være – 74mm. 
+Det er også telefonen med svakest forhold mellom skjermstørrelse og fotavtrykk. 
+
+Sony har brukt polykarbonat (plast) på hele telefonen, og baksiden av Blade v8 er også hovedsakelig i plast. 
+Tilsvarende felt på Motorola-telefonen er i aluminium, og telefonen fremstår derfor som den mest robuste av de tre. 
+
+Moto G5 Plus har også en intern høyttaler med ganske god kvalitet og parkerer de to andre både med tanke på volum og lydbilde, der de to andre høres fislete ut i forhold. 
+Når det gjelder samtalekvalitet synes vi imidlertid den kommer litt bak de to andre på klarhet, men uansett helt godkjent. 
+Der skal det legges til at vi utfører samtaletesten i et ganske godt isolert møterom på jobb for å prøve å provosere frem forskjeller. 
+
+Android i flere varianter 
+
+Alle tre telefonene kjører Android 7.0, men som kjent kan produsentene gjerne smøre på mer når de selger Android-telefoner. 
+
+Motorola er de som gjør minst og leverer en Android-utgave svært tett opptil den opprinnelige varianten fra Google. 
+De har lagt på noen kjekke ekstra funksjoner gjennom Moto-appen, som å kunne sveipe i en bue fra bunnen for å forminske bildet eller starte kameraappen ved å flikke to ganger på håndleddet. 
+
+Annet enn det ser alt veldig Google ut, og telefonen er blottet for ekstra apper fra Motorola utover den ene. 
+Hjemskjermen er også den samme som fra Google, der man sveiper opp for å vise alle apper. 
+
+Sony bruker sitt eget grensesnitt og har egne SMS- og ringeapper, egen musikk-, album- og videoapp, egen e-postapp og lignende. 
+
+De har også gjort noen justeringer av innstillingsmenyen, men ellers er det ikke så veldig mye fiksfakseri på toppen. 
+Det er også mulig å laste ned temaer som piffer opp med nye ikoner, bakgrunnsbilder, farger i operativsystemet også videre. 
+
+ZTE bruker det såkalte miFavor-grensesnittet og drar den et par hakk lenger enn de andre, med egen ikonutforming, litt andre farger (lilla i nedtrekksfeltet, for eksempel) og en typisk kinesisk Android-versjon der man ikke har noen app-skuff, men heller har alle appene på hjemskjermen. 
+Også her kan man velge blant flere temaer, men bare fem i tallet. 
+
+Uheldigvis følger det mye mye «bloat» i form av ekstra apper – blant annet leveres telefonen med hele tre nettlesere (!). 
+Det meste av det som er ekstra kan man imidlertid avinstallere. 
+Det er også telefonen med svakest norsk språk, der vi enkelte steder ser feiloversettelser; for eksempel at auto har blitt oversatt til autofokus der det ikke passer seg, eller setninger som «Lys opp skjermen for nye funn. 
+Sveip over skjermen for mer MiFavor samling.» 
+
+ZTE har noen funksjoner verdt å sette pris på, som muligheten til å sveipe fingeren over en slukket skjerm for å hoppe til neste sang. 
+
+Ytelse 
+
+Disse tre telefonene har alle forskjellige brikkesett innabords. 
+Både Motorola og ZTE har Qualcomm-prosessorer; nærmere bestemt Snapdragon 625 og Snapdragon 435, mens Sony-telefonen bruker en prosessor fra MediaTek; P20. 
+
+Hva gjelder arbeidsminne har samtlige 3 GB, og alle tre har 32 GB lagringsplass med mulighet for minnekort (inntil 256 GB). 
+
+Her ser du ytelsesmålingene vi har gjort: 
+
+Som vi ser, er de to telefonene fra Motorola og Sony relativt like ytelsesmessig, og et hestehode foran ZTE-telefonen på de fleste av testene. 
+
+I daglig bruk opplever vi ingen av dem som spesielt trege, men vi ser når vi tester side om side at ting tar litt mer tid på ZTE-telefonen, som å starte apper og lignende. 
+
+Hva gjelder batteritid hadde vi dessverre noen problemer med målingene i PCMark for Android. 
+Sony-telefonen ville ikke kjøre den nye Work 2.0-testen, og selv om Motorola-telefonen fint dro igjennom både Work og Work 2.0-testene da vi målte ytelsen, ville den ikke kjøre Work-batteritesten. 
+Work 2.0-batteritesten fungerte derimot fint. 
+
+Dermed var det ingen av testene vi kunne kjøre på alle tre telefonene. 
+Vi kjørte dog den første Work-testen på Sony- og ZTE-telefonene, og der holdt XA1 ut i drøye 8,5 timer – to timer mer enn ZTE-telefonen. 
+Motorola-telefonen holdt i 9,5 timer, og da altså med Work 2.0-testen. 
+
+Kamera 
+
+De tre kameraene har hver sin unike fordel: 
+
+Motorola G5 Plus har det mest lyssterke objektivet med blenderåpning på f/1,7, som slipper inn 38 prosent mer lys enn de to andre. 
+
+Sony Xperia XA1 har best vidvinkel av telefonene, som gjør at du får med mer i bildene (~24mm). 
+Telefonen har dessuten en egen kameraknapp. 
+
+ZTE Blade v8 har to kameraer på baksiden, som kan brukes til å ta 3D-bilder (esken kan brettes til en cardboard) eller for å simulere større blenderåpning med forfalsket uskarphet, slik vi tidligere har sett blant annet fra HTC, Huawei og Apple. 
+
+Bilde #1: 
+Stabburet (bilder i full oppløsning) 
+
+La oss så se på noen av testbildene vi har tatt med automatisk eksponering. 
+Det første bildet illustrerer noe som er ganske symptomatisk for Sony-kameraet, og det er at lysmåleren ofte bommer med hvitbalansen slik at bildene får et fargestikk; i dette tilfellet blått. 
+
+Som du ser er bildet også ganske undereksponert sammenlignet med de andre, der stabburet fremstår veldig mørkt. 
+Himmelen blir også unaturlig blå. 
+Dette ser vi på flere bilder, som her, med Sony i midten: 
+
+De to andre eksponerer bildet relativt likt, men vi ser også at den automatiske HDR-funksjonen i ZTE-telefonen ikke er helt som den burde. 
+Bare se her, når vi forstørrer: 
+
+Vår teori er her at den automatiske HDR-funksjonen ikke har klart å sy sammen eksponeringene riktig, og som du ser har både taket og greinene fått en grå skygge over seg. 
+
+Bilde #2: 
+Motlys (bilder i full oppløsning) 
+
+Slike situasjoner er blant de vanskeligste utfordringene man gir et kamera, og som du ser kommer alle godt fra det eksponeringsmessig: 
+
+Her ser vi også at ingen helt klarer seg uten optisk lysavfall, og mest synlig er det på Sony-telefonen, som nok kommer av at det også er telefonen med den største vidvinkelen. 
+Her ser du lysavfallet både mot hjørnene og også som et felt rundt bilene. 
+Minst fremtredende er det på Motorola-telefonen i dette tilfellet. 
+
+Bildet er også interessant å studere litt mer i findetalj. 
+Når vi ser på 100%-beskjæring av noen av grenene på treet, ser vi at graden av kunstig oppskarping varierer noe: 
+
+ZTE og Motorola holder seg relativt edruelige her, mens Sony-telefonen gjør voldsom oppskarping i prosesseringen, som kan sees som hvite «skygger» rundt grenene. 
+
+Bilde #3: 
+Detalj (bilder i full størrelse) 
+
+På dette bildet har vi trykket fokuspunktet på de visne bregnene (hvis jeg husker riktig fra biologitimen) foran muren. 
+
+Akkurat når det gjelder detaljer er det liten vits å bruke vårt eget publiseringssystem siden det komprimerer bildene litt for kraftig, så se bildene på Google Foto om du vil inspisere. 
+
+Her faller ZTE-telefonen litt bak de andre, som du blant annet ser på den mosedekte steinen midt i bildet. 
+Men det skal sies at ingen av de tre har noe å skamme seg over hva gjelder detaljnivå. 
+
+Bilde #4: 
+Dunkel belysning (bilder i full størrelse) 
+
+Det siste bildet vi skal se på er tatt innendørs på kveldstid i dunkel belysning, der vi ser på hvordan kameraene håndterer høy følsomhet. 
+Her har Motorola-telefonen valgt ISO 1250, mens de andre har gått for ISO 1000, som jo er litt pussig, gitt at objektivet tross alt slipper inn mest lys av de tre. 
+
+Sjekk ut bildene i full oppløsning på Google Foto om du vil inspisere dem nærmere. 
+
+Igjen ser vi at de to kameraene fra Sony og Motorola her noen hakk hvassere enn kameraet fra ZTE, som visker ut detaljene langt mer når lyset blir svakt. 
+Hvilken av dem som er best, avhenger litt av hvor i bildet du ser – i den øverste rekka med bøker virker Sony-telefonen å ha flest detaljer, mens Motorola-telefonen er sterkere i den nederste rekka. 
+Motorola-telefonen har også truffet best på hvitbalansen på dette bildet. 
+
+La oss også bruke et lite avsnitt på de to kameraene på baksiden av ZTE Blade v8. 
+Denne funksjonen har vi blant annet sett tidligere på telefoner fra HTC, Huawei og Apple, og ZTE gjør det ikke spesielt godt med denne funksjonen aktivert. 
+
+Det ser veldig «fake» ut (og det er det jo også), der kameraet ikke helt klarer å skille mellom for- og bakgrunn, så denne gir ikke noe ekstrapoeng i vår bok. 
+
+Alt i alt må vi holde Motorola-telefonen som en knapp vinner foran Sony når det gjelder kameraet, med ZTE på tredjeplass. 
+
+Video 
+
+Etter å ha gjort et videoopptak med de tre, kommer det ganske tydelig frem at Motorola G5 Plus er i særklasse sammenlignet med de to andre; både hva gjelder bilde- og lydkvalitet (ZTE-lyden er helt forferdelig). 
+De tre videoene kan du se i dette albumet. 
+
+Konklusjon 
+
+I denne testen har vi sett på tre telefoner som koster langt mindre enn toppmodellene, med prislapper på snaue 3.000 kroner i nettbutikkene. 
+
+ZTE Blade V8 kan by på to kameraer på baksiden, men her har ingeniørene fortsatt en jobb å gjøre, der vi ikke blir spesielt imponerte når vi skal simulere en større blenderåpning. 
+Vi har også sett at HDR-funksjonen i kameraet har litt å gå på, og at fargene ofte kan se kunstige ut. 
+Det er telefonen som yter svakest av de tre; også med tanke på utholdenhet. 
+Men den har en god fingeravtrykksleser og en god skjerm med full HD-oppløsning. 
+
+Sony Xperia XA1 har tynne kanter på sidene av skjermen, men desto større kanter over og under. 
+Den har et godt kamera, men der lysmålingen ikke alltid treffer som den burde. 
+Det er også den eneste av telefonene som mangler fingeravtrykksleser, og skjermen er den svakeste av de tre, både med tanke på lysstyrke og oppløsning. 
+
+Testvinneren er utvilsomt G5 Plus fra Motorola. 
+Her får du et kamera som er svært lyssterkt, og som byr på meget god bilde- og videokvalitet. 
+Den har fingeravtrykksleser, solid konstruksjon (spruttettet), meget god skjerm og den beste høyttaleren med god margin. 
+Motorola har også gjort svært lite med Googles opprinnelige Android-versjon utover å legge til noen smarte funksjoner, og det gjør at den opplevde ytelsen er svært god. 
+Den scorer også best i ytelsestestene og har den beste batteritiden. 
+
+Moto G5 Plus (3GB RAM) 
+32GB 
+
+Som lovet innledningsvis - her er tabellen som sammenligner spesifikasjonene: 

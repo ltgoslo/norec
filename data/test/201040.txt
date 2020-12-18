@@ -1,0 +1,108 @@
+Den ser ut som en 14-tommer, men så åpner du lokket
+Å lage kompakte, lette og gode PC-er noe av det Asus kan aller best. 
+Som denne 15,6-tommeren som veier 1,6 kg! 
+
+De siste månedene har vi testet en rekke PC-er i ultrabook- og hybridklassen med skjermer som måler mellom 13 og 14 tommer. 
+Dette er en fin størrelse for deg som er ute etter en PC som tar liten plass i veska, uten at det blir for mange kompromisser i forhold til arbeidsflate. 
+
+Men ultrabooks finnes også i «standardstørrelse» med 15,6 tommer skjerm, perfekt for deg som ønsker stor arbeidsflate og gjerne et tastatur som kommer med numeriske taster. 
+
+Asus Zenbook UX530U er faktisk den ellevte modellen i Zenbook-familien vi har hatt på testbenken, siden starten med Zenbook UX31 i 2011. 
+Den lange fartstiden har gitt oss en rekke fine modeller, og det er alltid med litt ekstra forventninger vi tar en ny Zenbook i nærmere øyesyn. 
+
+Vår test-PC 
+
+UX530U fås i mange forskjellige konfigurasjoner. 
+Versjonen vi har hatt på testbenken er utstyrt med en Intel Core i7-7500U-prosessor, 16 GB RAM og en SSD på 512 GB. 
+Den er også utstyrt med dedikert grafikkort, Nvidia Geforce GTX 950M. 
+Det er med andre ord en relativt kraftig maskin det er snakk om her, mer om det siden. 
+
+Utformingsmessig har den mye til felles med tidligere Zenbooks. 
+Hele chassiset er i aluminium, og det sirkelformede mønsteret i lokket som skal symbolisere uendelighet, er også synlig. 
+Den mørkegrå overflaten er dessverre ikke immun mot fingeravtrykk, platen rundt tastaturet er mattere og langt bedre på det. 
+
+Svært kompakt ytre 
+
+Det er videre verdt å merke seg at dette ikke er en stor PC, tatt i betraktning at den har 15,6-tommer skjerm, den er mer på størrelse med en 14-tommer. 
+Det kan vi takke de svært tynne kantene på sidene av skjermen for, noe som samtidig vitner om at dette er en maskin som er helt up to date. 
+
+Maskinen er kun 1,6 cm tykk og vekten stopper på like under 1,6 kg. 
+Det er dermed blant de aller letteste 15,6-tommerne vi har testet. 
+
+God skjerm, tastatur og pekeplate 
+
+Skjermen har en matt overflate som hindrer gjenskinn. 
+IPS-panelet sørger dessuten for at farger og kontrast holder seg selv om du betrakter skjermbildet fra en skrå vinkel. 
+Vi reagerte på litt lav lysstyrke, men fant at det var en innstilling i Windows som justerte lysstyrken ned og opp etter lysforholdene der du befinner deg. 
+Ved å skru denne av, fikk vi en lysstyrke som er helt som forventet i klassen. 
+Er du opptatt av bilderedigering, er det greit å vite at skjermen dekker 100 prosent av sRGB fargespekteret. 
+
+Den smale utformingen av chassiset har imidlertid ført til at Asus har kuttet ut numerisk tastatur. 
+Vi tror ikke det er noe den jevne bruker vil savne i særlig grad. 
+Tastaturet er uansett av god klasse. 
+Det er bittelitt svikt i midten av platen, men tastene er responsive og avgir svært lite lyd under bruk. 
+
+Under tastaturet sitter en gjennomsnittlig stor pekeplate med Windows Hello-felt for pålogging med fingertuppen. 
+Dette begynner å bli veldig vanlig på mange nye modeller, og gjør det like enkelt å logge på som på mobiltelefonen. 
+Det ventes at feltet også skal kunne brukes til identifisering på en rekke nettjenester etter hvert. 
+Pekeplaten fungerer for øvrig helt strålende, ikke minst til skrolling og forstørring og forminsking med to fingre. 
+
+Bra med tilkoblinger 
+
+Alle tilkoblingspunktene sitter på venstre og høyre side. 
+Her finner du to USB 2.0-porter, en USB 3.0-port og en USB 3.1-port gen 2, sistnevnte byr på langt høyere hastigheter og andre fordeler i forhold til de klassiske USB-portene. 
+Særlig USB 2.0 begynner å bli bra utrangert, så det synes vi er et litt pussig valg. 
+HDMI-utgang i full størrelse og en minijack for lyd ut/inn er også på plass, sammen med et spor for SD-minnekort. 
+
+På undersiden er det to luftinntak samt et par høytallere merket harman/kardon. 
+Sistnevnte byr på relativt fin og balansert lyd, sammenlignet med mye annet vi har hørt i klassen. 
+Helt greit til lett bakgrunnsmusikk, men ikke noe særlig mer. 
+
+Ikke lydløs 
+
+Luften suges altså inn fra undersiden, og blåses ut i hengselet mellom skjermen og tastaturdelen. 
+Vi antar at dette er en løsning som er valgt fordi PC-en er så tynn at det er vanskelig å sette inntak på sidene, og fordi den har dedikert grafikkort som krever ekstra kjøling. 
+Dette betyr imidlertid at dette er en PC som trives desidert best på et bord eller andre harde og flate overflate, og selv da går viftene svært ofte. 
+
+Når det er sagt: 
+Viftene er relativt stillegående, og kan også stoppe opp i perioder med liten belastning. 
+Vi er blitt bortskjemte med stillegående og til dels helt lydløse PC-er den siste tiden, og denne PC-en havner så vidt utenfor denne gruppen. 
+
+Fin ytelse til det aller meste 
+
+Men hva med ytelsen? 
+Prosessoren er i skrivende stund den raskeste ULV-prosessoren fra Intel. 
+Den bruker svært lite strøm, samtidig er ytelsen upåklagelig. 
+Det er minimalt med forsinkelser å spore, selv når flere programmer og tyngre oppgaver kjører samtidig. 
+
+Grafikkortet fra Nvidia er ikke blant de hvasseste, men sørger for at du kan spille mange nyere spilltitler. 
+I enkelte av de mest krevende må du muligens gå ned på oppløsning og detaljrikdom for å få en flytende opplevelse. 
+Helt greit for det vi kaller casual gaming. 
+
+SSD-en er romslig, og vi målte en lese- og skrivehastighet på rundt 500 megabytes i sekundet. 
+Det vitner om at dette er en SATA-basert SSD. 
+Ytelsen er god, men på langt nær like god som vi ser av de nyeste PCIe-baserte SSD-ene. 
+I praksis vil denne forskjellen være mindre merkbar i de aller, aller fleste situasjoner for den jevne bruker. 
+
+Batteritiden er også tilfredsstillende. 
+Vi målte den til 9 timer og 50 minutter med minimal belastning, og 6 timer og 40 minutter med kontinuerlig videoavspilling. 
+Med variert, lett bruk bør batteriet kunne klare 7-8 timer før du må finne fram laderen igjen. 
+Det er et stykke bak de beste, men absolutt godkjent. 
+
+Konklusjon 
+
+Det er mye å like ved denne PC-en, ikke minst størrelsen. 
+Den er rett og slett imponerende liten og lett med tanke på at den huser en 15,6 tommer skjerm. 
+Byggekvaliteten er dessuten upåklagelig, skjermkvaliteten er også meget god, den yter bra og i det store og hele gir denne maskinen deg det du betaler for. 
+
+Maskinen er ikke helt lydløs, viftene kan gå i lange perioder selv med minimal belastning. 
+Plasseringen av luftinntaket er desseuten ikke helt optimal, og har du den i fanget eller på en pute kan det fort bli en varmgang og tilhørende støy. 
+Merk også at to av USB-portene er generasjon 2.0. 
+Det er ikke noe stort ankepunkt, men likevel verdt å merke seg. 
+
+Vi lander til slutt på en sterk firer på terningen, en karakter som gis til produkter som innfrir forventningene våre. 
+Les mer om karaktergivningen i denne artikkelen. 
+
+UX530UX finnes i skrivende stund i tre forskjellige konfigurasjoner i Norge, men vår konfigurasjon dukker først opp offisielt 29. mai, får vi opplyst fra Asus. 
+
+Da vil den få en veiledende pris på 14.999 kroner, men enklere konfigurasjoner vil få prislapper på helt ned til 10.999 kroner. 

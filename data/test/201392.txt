@@ -1,0 +1,138 @@
+Lydløs og syltynn hybrid fra Acer
+Den tredje hybrid-PC-en vi tester i år, er den første som kommer uten vifter. 
+Det øker lysten til å bruke den, ikke minst i nettbrettmodus. 
+
+Det siste året har vi sett mange gode hybrider mellom PC og nettbrett, ikke minst de to modellene vi testet i januar, HP Spectre 13 og Lenovo Yoga 910. 
+
+Denne gangen har vi tittet nærmere på Acers nyeste bidrag i denne kategorien, 14-tommeren Spin 7, som muligens er verdens tynneste hybrid-PC med sine 11 mm. 
+
+360-graders skjerm 
+
+I likhet med de to nevnte fra HP og Lenovo, har også Spin 7 en skjerm som kan skyves helt rundt, slik at den dekker baksiden av PC-en. 
+Dermed kan du bruke den som et nettbrett. 
+Det åpner også for flere andre posisjoner, for eksempel teltmodus og kinomodus, som illustrert under. 
+
+Skjerm: 
+14 tommer, FHD berøringsfølsom IPS-skjerm, blank (1920 x 1080 piksler) OS: 
+Windows 10 Home norsk - Signature Edition Prosessor: 
+Intel Core i7-7Y75 Grafikk: 
+Intel HD 615RAM: 
+8 GB (maks 8) SSD: 256 GBNett: 
+802.11ac MU-MIMO, Bluetooth 4.1 Tilkoblinger: 2 stk USB-C (3.1 gen1), minijack for lyd inn/ut Størrelse: 
+324,6 × 11 × 229,6 mm Vekt: 
+1,2 kg 
+
+Rent PC-messig har den mange likehetstrekk med Swift 7, som vi testet nylig. 
+Den omtales også som en «søstermodell» av Acer selv. 
+Derfor vil en del av teksten her være lik som i Swift 7-testen. 
+
+Og så må vi ikke glemme testen av Acer Swift 3, som ble kronet med terningkast 6. 
+Det er en mer «standard» ultrabook, med tilhørende godt utvalg av tilkoblinger. 
+
+God byggekvalitet, ingen vifter 
+
+Som på begge de to nevnte, er det benyttet aluminum rundt det hele, og PC-en virker meget godt oppstivet. 
+Det sorte lokket og bunnplaten er dessverre ikke særlig flink til å skjule fettmerker, noe bildet under illustrerer godt. 
+
+Størrelsesmessig er den nesten identisk med Swift 7, til tross for at skjermen er 0,7 tommer større. 
+Spin 7 er riktig nok 1 millimeter tykkere og veier 100 gram mer. 
+
+Bunnplaten er helt glatt, med unntak av fire gummiføtter. 
+Eneste åpninger er til de to høyttalerne som ligger nær fronten, og som låter helt greit. 
+Litt lite bass er det, men vi har hørt verre. 
+
+Her er det ingen luftekanaler, og hybriden er heller ikke utstyrt med noen vifte. 
+Det kan vi takke prosessoren for, som trekker langt mindre strøm enn de vanlige U-prosessorene. 
+Acer Spin 7 er derfor like musestille som en iPad. 
+
+Finfin skjerm, men ikke refleksfri 
+
+Åpner du lokket, åpenbarer det seg en sort tastaturdel og en 14 tommer IPS-skjerm som er heldekket av femte generasjon Gorilla Glass. 
+Det betyr god kontrast samt god beskyttelse mot riper og trykk. 
+Skjermen beholder farger og kontrast fra skrå vinkler, men blank overflate betyr samtidig at faren er stor for reflekser i skjermen fra lyskilder i rommet. 
+Det kan definitivt være et ankepunkt for noen. 
+
+Tastaturet er romslig og godt. 
+Tastaturplaten er fast og stiv, og byr på temmelig lik opplevelse som på Swift 7. 
+Vi er også svært fornøyd med at det nesten er lydløst under bruk, men savner baklys. 
+Det er egentlig noe vi forventer i denne klassen. 
+
+Under tastaturet sitter en bred pekeplate som støtter multiberøring. 
+Den har integrerte felter for venstre/høyreklikk, som avgir en distinkt og lav klikkelyd. 
+Store pekeplater er helt topp til såkalte «gestures», berøringsmønstre som utfører spesielle oppgaver og som støttes av stadig flere apper og programmer. 
+Pekeplaten på Spin 7 fungerer i så måte helt strålende. 
+
+Dette er et premiumprodukt, og det er ikke noe ved dette som skulle tilsi noe annet - annet enn mangelen på baklyst tastatur. 
+
+Få tilkoblingsmuligheter 
+
+I likhet med de fleste tynneste PC-ene, er heller ikke Spin 7 velsignet med særlig mange tilkoblingsmuligheter. 
+Her finner du to USB-C-porter og en 3,5mm lyd inn/utgang, og that's it. 
+
+Den ene USB-C-porten brukes også som ladeport, mens den andre også kan brukes som skjermutgang (DisplayPort). 
+Sistnevnte krever en overgang som er ekstrautstyr. 
+Alt som følger med er en overgang til standard USB-port. 
+
+Merk videre at ingen av portene støtter den raskeste USB-standarden (3.1gen2). 
+Det hadde vært ønskelig med en port eller to til, eventuelt en minidokk ala den som følger med Asus Zenbook 3. 
+
+Slik yter den 
+
+Dette er den andre PC-en vi tester med siste generasjon M-prosessor, skjønt Intel har fjernet M-en denne gangen. 
+Det er kun Y-en i Core i7-7Y75 som avslører at dette er av de aller mest strømgjerrige prosessorene fra Intel. 
+Det har de gjort fordi de selv mener at forskjellene i ytelse i forhold til U-prosessorene nå er så liten at de kan tilhøre samme serie. 
+
+Passmark poeng: 
+2148 CPU: 3718 GPU (3D): 
+673 SSD l/s: 560 MB/541 MB pr sek Batteri video: 418 min 
+
+Og det er helt på det rene at ytelsen er vesentlig bedre enn for M-prosessorene fra forrige generasjon, men ikke forvent normal Core i7-ytelse fra denne strømgjerrige varianten. 
+I Passmarks ytelsestester får prosessoren 3.718 poeng, som er nesten identisk Core i3-7100U, som sitter i Swift 3. 
+Den bruker imidlertid tre ganger så mye strøm og krever viftekjøling. 
+Ytelsen er marginalt bedre enn Core i5-7y54-prosessoren i Swift 7. 
+
+Det betyr videre at Spin 7 alltid er helt stille, uansett hvor mye du belaster prosessoren. 
+Har man først blitt vant til det, blir det vanskelig å innfinne seg med en PC med vifter igjen. 
+
+3D-grafikkytelsen er imidlertid rundt 30 prosent lavere enn på den nevnte Core i3-prosessoren, noe som diskvalifiserer den fra det meste av nye, krevende spill. 
+2D-ytelsen er derimot lik. 
+Den holder helt fint til video (også strømming i 4K) og ellers alle 2D-oppgaver. 
+
+SSD-en er sannsynligvis den samme som i Swift 7, med jevnt over 500 MB i sekundet både på lesing og skriving. 
+Vi har testet SSD-er som er tre ganger så rask, men denne forskjellen kommer neppe til å være veldig merkbar i de fleste situasjoner. 
+
+Vi må heller ikke glemme det trådløse nettverkskortet. 
+Det støtter såkalt MU-MIMO-teknologi, som kan gi bedre overføringshastighet hvis du bruker en kompatibel ruter. 
+Les mer om det i denne artikkelen. 
+
+Acer Spin 7 SP714-51 (NX.GKPED.002) 
+
+Videre er det verdt å merke seg at denne PC-en leveres med en såkalt Signature-utgave av Windows 10, noe som betyr at du slipper helt søppelprogrammer og prøveversjoner fra tredjepart. 
+Det er definitivt med på å gjøre brukeropplevelsen til en positiv affære. 
+
+Batteri til en arbeidsdag - med litt flaks 
+
+Batteritiden oppgis fra produsenten å ligge på rundt 9 timer med variert bruk, det samme som for Swift 7. 
+I vår videostrømmetest holdt batteriet i 418 minutter før det var natta. 
+Det tilsvarer like i underkant av 7 timer, noe som er halvannen time kortere enn hva vi målte Swift 7 til. 
+Sannsynlig brukstid vil nok ligge et sted mellom 7 og 8 timer. 
+Det er uansett akseptabelt. 
+
+Ladetiden er også bra - fra tomt batteri viste indikatoren 29 prosent etter en halv time med lading og 56 prosent etter en time - identiske tall med Swift 7. Snittet ligger på rundt 25 og 50 prosent. 
+
+Konklusjon 
+
+Dette er den tredje Acer-en vi har testet i år, og nok en gang viser Acer at de definitivt er å regne med i PC-markedet igjen. 
+Spin 7 er en fin hybrid som byr på god nok ytelse til de fleste oppgaver. 
+Vi elsker dessuten at den er lydløs, tynn og lett. 
+
+Det største ankepunktet er egentlig at det er få tilkoblingsmuligheter. 
+Ytelsen er som sagt helt OK, men ligger et godt stykke bak nyeste generasjon «fullblods» Core i7 U-prosessorer - til og med litt bak Core i3-7100U, som sitter i PC-er som gjerne koster bortimot det halve. 
+Vi hadde også satt pris på baklyst tastatur og at fingeravtrykkene ikke viste så godt. 
+
+Søstermodellen Swift 7 reddet så vidt en femmer på terningen, mens Spin 7 ender så vidt under på grunn av kortere batteritid og temmelig mye høyere pris. 
+Så i mangel på delte karakterer, blir det en sterk firer denne gangen - som tross alt betyr at den innfrir våre forventninger. 
+Plussene og minusene er oppsummert i boksen over til høyre. 
+
+Få også med deg testene av de kraftigere hybridene HP Spectre 13 og Lenovo Yoga 910 før du bestemmer deg. 
+De øvrige PC-testene fra 2017 finner du i boksen under. 

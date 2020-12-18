@@ -1,0 +1,111 @@
+Skjermen går nesten kant til kant
+Men på XA1 har Sony droppet fingeravtrykksleseren. 
+
+Det begynner å bli mange X-modeller i Sonys Xperia-rekke, og det kan være litt vanskelig å holde styr på dem. 
+
+Toppmodellene heter for tiden Xperia XZ (2016), Xperia XZs (2017) og Xperia XZ Premium (test kommer), mens Xperia XA (2016) og Xperia XA1 er de rimeligste variantene i X-serien. 
+
+Dagens testprodukt XA1 er med andre ord oppfølgeren til fjorårets XA-modell. 
+Den kan skilte med svært tynne skjermkanter på sidene av telefonen, men med relativt romslige kanter oppe og nede. 
+
+Mangler fingeravtrykk 
+
+Vi har testet XA1 sammen med ZTE Blade v8 og Moto G5 Plus, og der er Sony-telefonen den eneste uten fingeravtrykksleser, som nå begynner å bli vanlig også blant telefoner i denne prisklassen. 
+Det betyr at du må låse opp telefonen på «gamlemåten», med PIN-kode, passord eller mønster. 
+
+Det er også den eneste av de tre som kun har 1280x720-oppløsning på skjermen. 
+Den er for øvrig fem tommer over diagonalen, som gir snaue 300 punkter per tomme i pikseltetthet. 
+
+Ellers følger Xperia XA1 Sonys designspråk de siste årene, med rette hjørner og avrundede sider. 
+Telefonen er laget i plastmaterialet polykarbonat, med en matt overflate som holder fingeravtrykk godt unna. 
+En konstruksjonssvakhet er imidlertid at det er en liten svikt på baksiden når du trykker fingeren inntil. 
+
+XA1 er ikke vanntett slik XZ-modellene er, men har den dedikerte kameraknappen på siden som Sony nærmest er alene om i dagens marked. 
+Den lar deg starte kameraet direkte fra låst skjerm, og kan også brukes både til forfokusering og som utløserknapp. 
+XA1 er også den eneste av de tre som har den nye USB-C-porten i bunnen. 
+
+Kjent Sony-stil 
+
+Grensesnittet i XA1 er det samme vi er vant med på øvrige Xperia-telefoner. 
+Telefonen kjører Android 7.0, der Sony har lagt på egne ikoner, animert bakgrunnsbilde og noen tilpassinger i innstillingene. 
+Hjemskjermen følger det klassiske oppsettet med en app-skuff gjemt bak et eget ikon, men ikke der du sveiper opp fra bunnen slik Google har valgt å gjøre det i Android 7. 
+
+Det er også mulig å endre stil på telefonen ved å laste ned og installere temaer, som både kan endre bakgrunnsbilder, ikoner, navigasjonsknapper og andre designelementer rundtom i operativsystemet. 
+
+Av spesielle funksjoner kan nevnes Xperia Actions, som lar deg definere hva som skjer med telefonen om natten, på dagen og om du er i utlandet. 
+Du kan for eksempel sette opp telefonen slik at kun enkelte apper får lov til å bruke mobildata når du er i utlandet, eller at telefonen setter seg på lydløs etter elleve om kvelden dersom du er hjemme. 
+
+Telefonen har også muligheten til å holde skjermen påslått dersom du holder telefonen i hånda, men utover det er det ikke så veldig mye unikt Sony har å by på. 
+
+Ytelse 
+
+Mens brorparten av mobilprodusentene går for Qualcomms Snapdragon-prosessorer, har Sony valgt konkurrenten MediaTek i XA1, og nærmere bestemt deres Helio P20-prosessor med åtte kjerner. 
+
+Denne presterer jevnt over ganske på par med Snapdragon 625-prosessoren i Moto G5 Plus, men alltid et hakk eller to bak. 
+
+Under ser du ytelsesmålingene fra de tre: 
+
+Her er Geekbench-målingene, henholdsvis med én og flere kjerner, samt compute-testen. 
+Som du ser er det Motorola-telefonen som trekker det lengste strået i alle tre, med Sony tett bak. 
+Snapdragon 435-prosessoren i ZTE-telefonen kommer imidlertid til kort. 
+
+Og det samme gjentar seg når vi måler 3D-ytelsen med 3DMark. 
+Her scorer de beste telefonene for ordens skyld rundt 30.000 poeng: 
+
+Og igjen i AnTuTu-testen, som måler de fleste aspekter ved telefonene, inkludert 2D- og 3D-ytelse, lagring, prosessor og så videre: 
+
+Til slutt PCMark-tester. 
+Vi liker godt PCMarks Work-test fordi den innholder litt mer hverdagslige ting, som skrolling av nettsider, spoling i video, redigering av bilder og den slags. 
+Vi har også lagt ved storage-testen, som måler hvor raskt det går å lese og skrive til internminnet. 
+
+Ideelt sett skulle vi ha brukt Work 2.0-testen, men den stoppet opp gjentatte ganger på Xperia XA1, så for å få sammenlignbare tall, måtte vi ty til den forrige utgaven. 
+Hva dette skyldes, vet vi ikke – muligens kan det være på grunn av MediaTek-prosessoren. 
+
+Uansett - her er målingene: 
+
+Her ser vi at den minste Snapdragon-prosessoren i ZTE-telefonen holder litt bedre tritt med de to andre, men hva gjelder hastigheten på internminnet er Motorola-telefonen i særklasse best. 
+Det betyr for eksempel at det vil gå raskere å installere apper, overføre filer og lignende. 
+Mens ZTE-telefonen brukte 8,7 sekunder på å installere en app vi lastet ned, brukte Motorola-telefonen bare 5,6 sekunder. 
+
+Batteri 
+
+På papiret er det ikke store batteriet som sitter i Xperia XA1, med oppgitt kapasitet på 2300 mAh. 
+Men Sony har god erfaring med å få mye ut av lite – mange av oss husker Z3 compact, som var svært utholdende på tross av et ganske beskjedent 2600 mAh-batteri. 
+
+Laderen som følger med er på 7,5W som blir nokså beskjedent sammenlignet med mange andre telefoner – halve effekten av den som følger med Motorola-telefonen, for eksempel. 
+Det skal dog sies at XA1 støtter Pump Express 2.0+, men det krever i så fall at du kjøper en ekstra lader. 
+
+For å sammenligne batteritiden på de tre, ladet vi dem opp, justerte lysstyrken på skjermen slik at den ble lik og startet PCMarks batteritest som inneholder både nettsurfing, bilderedigering, videoavspilling og lignende. 
+
+Her holdt Sony-telefonen i 8 timer og 35 minutter, altså to timer lenger enn ZTE-telefonen. 
+
+Kamera 
+
+Mens Sony har gått noe ned på oppløsningen i de nye XZs-modellene, har XA1 fortsatt den «gamle» sensoren med 23 Mp oppløsning. 
+Mens Z5-serien som standard tok bilder med 8Mp oppløsning i automodus, kjører Sony full fart på XA1 med henholdsvis 20Mp i 16:9-format eller 23Mp i 4:3-format. 
+
+Sensorstørrelsen er 1/2,3", som gjør den blant de største på markedet. 
+Lysstyrken er for øvrig f/2,0; den samme som ZTE-telefonen og som da slipper inn 38 prosent mindre lys enn Motorola-telefonen. 
+
+Nevnt er at kameraet kan startes med en egen knapp, som også kan brukes når du tar bilder. 
+Når det gjelder appen har den det meste av funksjoner, men vi synes at Sony må få gjort noe med denne appen. 
+
+Spesielt gjelder det at man gjerne kan starte kameraet fra låst skjerm, men skal man endre på noe i kameraoppsettet, som å slå av og på motivsporing eller ta et panoramabilde, så kommer man bare til låseskjermen og må låse opp telefonen. 
+Det er klønete og noe vi ikke opplever hos andre produsenter. 
+
+Vi har lagt noen bilder tatt med Sony Xperia XA1 i dette Google Foto-albumet. 
+
+For sammenligning med Motorola G5 Plus og ZTE Blade v8, henviser vi deg til hovedartikkelen. 
+
+Konklusjon 
+
+Sony Xperia XA1 er en helt kurant telefon, men som ikke klarer å briljere i denne prisklassen. 
+Sony har spart på litt for mye i konstruksjonen, der telefonen mangler fingeravtrykksleser og har en litt for svak skjerm, både hva gjelder oppløsning og lysstyrke. 
+
+På kamerafronten får vi vesentlig bedre detaljer enn tidligere modeller, akkurat som da vi testet Xperia XZ i fjor. 
+En fordel er også den gode vidvinkelen som gjør at du får med mer i bildet, selv om fargebalansen i bildene er litt «hit-and-miss», der man får blåstikk på solskinnsdager og rosastikk på gråværsdager. 
+
+Ytelsesmessig gjør telefonen det helt greit i dette selskapet, og telefonen har god batteritid. 
+Alt i alt en helt ålreit telefon som dog ikke klarer helt å stikke seg ut i mengden. 
+
+Sony Xperia XA1 G3121 

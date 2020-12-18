@@ -1,0 +1,143 @@
+Toppmodellen som er ganske ulik de andre
+Dobbelt kamera på baksiden og moduler som kan byttes ut i bunnen. 
+
+Mens LGs tre siste toppmodeller, G2, G3 og G4 har vært relativt like av utseende, har koreanernes siste tilskudd, G5, fått en betydelig designendring. 
+
+asldkjasl kdjasdf 
+
+For ikke bare har G5 fått en bakside av aluminium og volumknappene på siden; telefonen har også to kameraer på baksiden, en skjerm som er avrundet mot toppkanten og et bunndeksel du kan dra ut og bytte ut med et annet. 
+
+LG Friends – moduler du kan bytte ut 
+
+Det siste kaller LG for «Friends», og foreløpig er det to moduler som kan settes inn i stedet for standardbunnen: 
+
+Med testproduktet fikk vi også låne kameramodulen. 
+DAC-en fikk vi bare et par minutter med på mobilmessen i Barcelona tidligere i år, men den har fått gode kritikker blant annet fra britiske What Hi-Fi. 
+
+Å dra ut modulen er ganske enkelt ved at du først klemmer inn en knapp på siden av telefonen, som opphever låsen. 
+Batteriet er også festet til modulen som sitter i telefonen, så når du gjør det, kuttes strømmen. 
+
+Her synes vi LG kunne ha vært smarte med et bittelite ekstrabatteri som kunne drive telefonen i et par minutter mens du byttet modul, men nå er nok ikke dette noe man vil gjøre veldig ofte. 
+
+Litt verre er det å få batteriet løs fra modulen, siden det må stikkes i modulen du vil bytte til. 
+Vi er alltid redde for å knekke noe når vi må bruke makt, men det må man faktisk gjøre for å løsne batteriet. 
+
+I videoen under kan du se hvor enkelt det går når man har fått det i fingrene: 
+
+…men det virker jo ikke! 
+
+Men dette var uelegant utført, LG. 
+Vi byttet til kameramodulen som i videoen over og startet opp igjen. 
+I kameraappen hadde den imidlertid ingen funksjon. 
+
+Så fant vi appen LG Friends Manager på telefonen, startet den, og der ble kameraet oppdaget under mine enheter, slik at vi måtte laste ned en egen app til den. 
+
+Vi startet så den nye appen og fikk beskjed om at den måtte oppdateres, men da vi trykket på «merke» (sikkert en dårlig oversatt «check») fikk vi beskjed om at modulen måtte kobles til. 
+Men det var den jo, og den står til og med som tilkoblet i den første appen. 
+
+Vi fant frem appen i Play butikk manuelt og oppdaterte den der, men fremdeles får vi samme feilmelding, og vi har derfor ikke fått kameramodulen til å virke, rett og slett. 
+Og det virker for oss som en programvarefeil, snarere enn en maksinvarefeil, siden enheten tross alt oppdages. 
+
+Men vi fikk våre minutter med kameramodulen på mobilmessen i Barcelona, og selv om det kan være kjekt med litt mer grep, synes vi fremdeles det er for lite til å gjøre den store forskjellen hva gjelder ergonomi. 
+I tillegg gir zoombryteren null motstand og dreier seg uansett om digital zoom, pluss bytting av objektiv når man zoomer helt ut. 
+
+Elegant design 
+
+Legger vi modulene til side, fremstår LG G5 som en svært elegant telefon i våre øyne. 
+Med skjermstørrelse på 5,3 tommer og avrundede kanter på baksiden ligger den usedvanlig godt i hånda og føles akkurat passe stor. 
+
+Baksiden er i aluminium, men med et lag med lakk over. 
+Mest fremtredende der er selvsagt den doble kameraløsningen, som i kombinasjon med fingeravtrykksleseren nesten ser ut som et lite ansikt. 
+
+Fingeravtrykksleseren er for øvrig veldig fin – vi liker godt plasseringen både LG, Huawei og andre har valgt med å ha den på baksiden, som gjør at den lett nås med pekefingeren om du holder telefonen i én hånd; uavhengig av om det er høyre eller venstre. 
+Du trenger heller ikke å trykke inn knappen – berøring holder for å låse opp telefonen, mens du ved å trykke kan slå telefonen av og på. 
+
+I bunnen finner vi for øvrig den nye USB Type C-ladeporten, og telefonen støtter Qualcomms nye Quick Charge 3.0-teknologi. 
+Den bruker en snau halvtime på å nå 50 prosent og lader til rett over 90 prosent i løpet av en time om man begynner med tomt batteri. 
+
+To kameraer 
+
+På baksiden har LG G5 altså to kameraer. 
+Det er det flere telefoner som har, til ulike funksjoner. 
+Huawei P9 og P9 Plus har for eksempel et ekstra kamera som fanger sort/hvitt-informasjon i bildet, andre bruker det for å kunne ta 3D-bilder eller regne ut dybdeinformasjon, mens LG G5 rett og slett har to objektiver med forskjellig brennvidde og hver sin bildesensor. 
+
+Hovedkameraet er vi godt kjent med fra før. 
+Det er det samme som sitter i LG G4 med 16 megapiksler, f/1,8 og vidvinkel tilsvarende 28mm holder stadig stand som ett av de bedre mobilkameraene på markedet. 
+
+Vil du lese mer om det, henviser vi deg til testen av LG G4 og til samletesten vi hadde rett før jul i fjor. 
+
+Men nytt er altså det andre kameraet, med en særdeles stor vidvinkel til å være et mobilkamera. 
+Bildeutsnittet er 135 grader i bredden, hvilket tilsvarer en brennvidde på rundt 18mm. 
+Blenderåpningen er dog ikke mye å skryte av med f/2,4, som betyr at dette kameraet slipper inn 44 prosent mindre lys enn det andre kameraet på LG G5. 
+Oppløsningen er også halvparten, 8 megapiksler, uten at det er så farlig, for øvrig. 
+
+Under ser du to bilder - ett tatt med hovedkameraet og ett tatt med vidvinkelkameraet. 
+Som du ser får du veldig mye mer med på det siste bildet. 
+
+Fra det «vanlige» kameraet: 
+
+Fra vidvinkelkameraet: 
+
+Som du ser kommer en såpass ekstrem vidvinkel ikke helt uten ulemper. 
+Vi får en ganske kraftig fortegning (buede kanter i bildet), og det gjelder å holde fingeren godt unna ;-) 
+
+Morsom er imidlertid muligheten for å ta litt annerledes portretter med store hoder, som du ikke får til med et vanlig mobilkamera. 
+
+Inspisert på nært hold holder ikke bildene den samme tekniske kvaliteten hva angår skarphet, støy og den slags, men om du stort sett bare ser på bildene direkte på mobilskjermen allikevel, er dette en veldig artig (og ofte nyttig) ekstrafunksjon vi setter pris på. 
+
+Du får ikke brukt hele vidvinkelen når du filmer, der litt av kantene kappes, men fremdeles blir det ganske bredt. 
+
+Ytelse i toppklassen 
+
+Skjermstørrelse: 5,3" Oppløsning: 2560x1440 Prosessor: Snapdragon 820 Arbeidsminne (RAM): 
+4 GB Internminne: 
+32 GB Minnekort: 
+Ja Kameraer: 16Mp, f/1,8, ~28mm (bak) 8Mp, f/2,4, ~18mm (bak) 8Mp, f/2,0 (foran) Batteri: 
+2800 mAh Tykkelse: 
+7,7 millimeter Vekt: 159 gram Annet: 
+IR-sender, FM-radio, utskiftbare moduler 
+
+I likhet med HTC 10, Sony Xperia X 
+Performance (test kommer) og andre nye toppmodeller i år, har LG denne gangen valgt å gå for toppmodellen fra Qualcomm, Snapdragon 820. 
+LG G4 hadde Snapdragon 808 (da 810 var toppmodellen), som var bittelitt tregere, men som ikke hadde det samme problemet med varmeutvikling som skjemmet 810-modellen. 
+
+Men 820 kan bli varm den også, og vi stusset litt da vi satte opp telefonen og lot den laste ned og installere alle appene fra Play Butikk, der den ble ganske god og varm. 
+Den varmen har vi heldigvis aldri opplevd igjen senere. 
+
+Det er ingen tvil om at dette er en av de aller ypperste telefonene på markedet med tanke på ytelsen. 
+I forhold til øvrige Android-telefoner, får vi blant annet toppnotering i AnTuTu, toppnotering i 3DMark og toppnotering med én kjerne i Geekbench. 
+
+Den generelle flyten er også svært god – dette er en telefon som fint vil tygge unna de heteste spillene en god stund til. 
+
+Hva gjelder batteriet synes vi ikke det er helt på par med de beste. 
+Det er lenge siden jeg har opplevd å gå tom før leggetid, men det gjorde jeg i går, med under to timers skjermtid totalt i løpet av dagen. 
+Det var riktignok en dag som varte fra 05:00 til 01:00 (bill.mrk: «forbaskede dusjkabinett»), og skjermtiden inkluderte også ytelsesmålinger, men her føler vi at LG ligger noe bak de beste, som også spesifikasjonene hinter om, der 2800mAh er litt i minste laget til en såpass stor og kraftig Android-telefon å være. 
+
+Litt smårusk 
+
+Under testingen av LG G5 har vi opplevd litt smårusk her og der. 
+Selv om lyden blir helt fin med hodetelefoner på, opplevde vi kraftig susing da vi koblet den til stereoanlegget i bilen med AUX-kabel; noe vi ikke har opplevd på noen andre telefoner. 
+
+Og fremdeles blir vi litt matte av de norske oversettelsene i LGs menyer. 
+Setninger som «Start og applikasjonsskuff sett en default start» gir ikke inntrykk av at det er gjort noen solid jobb her, der det ofte virker som om LG har oversatt ett og ett ord for seg. 
+Men som de fleste vet, kan et engelsk ord ha flere betydninger på norsk, avhengig av kontekst. 
+
+Setningen dreier seg for øvrig om at vi har lastet ned og valgt ny hjemskjerm på telefonen. 
+Som standard er den nemlig uten app-skuff (slik at alle app-ikoner havner på hjemskjermen), men heldigvis tilbyr LG en nedlasting her slik at man får app-skuffen tilbake. 
+
+Vi synes også det følger med litt i overkant mange apper som ikke kan avinstalleres. 
+I tillegg til standardapper som kalkulator, kalender, galleri, filbehandling og lignende finner vi blant annet Evernote og Instagram, CBS (en slags meldingstjeneste som vi ikke tror brukes i Norge), support-appen RemoteCallService og en egen SmartWorld-app fra LG med app-anbefalinger i en herlig norsk-engelsk blanding. 
+Vi gjetter at "Innsamling av ny applikasjon" er "Collection of new apps". 
+
+Konklusjon 
+
+LG G5 er en lynrask toppmodell som designmessig er meget pen, med god ergonomi, en flott og skarp skjerm og en veldig god fingeravtrykksleser. 
+
+Det beste salgsargumentet i forhold til øvrige toppmodeller er utvilsomt det ekstra kameraet, som byr på en ekstrem vidvinkel vi ikke har sett i en mobiltelefon før. 
+Den gjør at du kan fange unike bilder du ellers ikke ville ha klart. 
+
+Dessverre blir det noe upolert, og det gjelder spesielt modulsystemet, som vi rett og slett ikke fikk til å fungere, og som vi tviler på at vil bli en veldig stor suksess for LG. 
+
+Når det er sagt, må man jo ikke bruke disse modulene, så selv om den biten skuffer, sitter vi uansett igjen med en meget god telefon. 
+
+LG G5 H850 

@@ -1,0 +1,90 @@
+Egentlig er denne god nok for de fleste av oss
+Er oppfølgeren til fjorårets testvinner fortsatt det beste kjøpet? 
+
+I fjor høst trippeltestet vi tre telefoner til rundt 2.500 kroner, der Moto G4 Plus gikk seirende ut, foran LG Nexus 5X og Huawei P9 Lite. 
+
+Moto G5 Plus er, som navnet tilsier, oppfølgeren. 
+Foruten oppgradert maskinvare, har Motorola denne gangen gått litt ned på skjermstørrelsen – fra 5,5 til mer håndterlige 5,2 tommer. 
+Samtidig blir det da bare 0,2 tommer som skiller G5 Plus fra «vanlige» G5. 
+
+Den nye utgaven har fått et nytt, lyssterkt kamera (f/1,7 - det mest lyssterke på markedet sammen med Samsungs S7- og S8-telefoner!) og støtte for filming med 4K-oppløsning. 
+Den har fått dobbelt så mye lagringsplass (32 GB vs 16 GB) og en ekstra gigabyte med RAM (fra 2 til 3), for å nevne noe. 
+
+Litt annerledes 
+
+En ting man typisk betaler litt ekstra for i en toppmodell, er design og materialvalg, men også her leverer Motorola varene. 
+Moto G5 Plus har hovedsaklig metall på baksiden og et glassfelt rundt kameraet som gjør at den stikker seg litt ut i mengden. 
+
+Baklokket kan ikke tas av som på lillebror G5, og derfor får du heller ikke byttet ut batteriet. 
+SIM-kort (x2) er det plass til i en skuff på toppen av telefonen. 
+
+Til tross for en relativt lav prislapp, får du også en fingeravtrykksleser på Moto G5 Plus, som sitter midt under skjermen og som låser opp telefonen relativt raskt og presist etter vår erfaring. 
+Det har for øvrig forgjengeren også. 
+
+Som før kan du velge å utføre all navigering via denne knappen og sveipebevegelser på den fra sidene, men om du heller foretrekker å ha skjermknapper, får du ikke brukt fingeravtrykksleseren som hjemknapp, noe vi fortsatt synes er snodig. 
+Du kan imidlertid slukke skjermen ved å holde fingeren inne på den et halvsekund. 
+
+Nesten ren Android 
+
+Moto-telefonene har tradisjon for å levere en Android-opplevelse nesten prikk lik Google sin, og det gjelder også for G5 Plus. 
+Ved siden av et eget bakgrunnsbilde og en egen Moto-app som brukes til å aktivere kjekke snarveier, er det fint lite som er endret. 
+Her får du de samme ikonene, den samme hjemskjermfunksjonaliteten, det samme tastaturet (GBoard) og lignende som på Nexus- og Pixel-telefonene. 
+
+Og når produsenten ikke kladder på med mye ekstrafunksjoner, blir brukeropplevelsen også svært tilfredsstillende. 
+Selv om maskinvaren ikke scorer like godt når vi kjører den gjennom ytelsestester, er den i daglig bruk fullstendig på nivå med toppmodellene. 
+
+Puristene vil også sette pris på at det ikke følger med noe særlig ekstra annet enn den nevnte Moto-appen. 
+Her er det én nettleser, ett e-postprogram og ikke noe egne greier overhodet. 
+
+Ytelse 
+
+G5 Plus har en Snapdragon 625-prosessor med åtte kjerner innabords, kombinert med 3 GB RAM. 
+Batteriet er for øvrig 3.000 mAh. 
+
+Vi har testet Moto G5 Plus side om side med to andre telefoner i samme prisklasse; XA1 fra Sony og Blade v8 fra ZTE. 
+Under ser du tallene vi får når vi måler ytelsen på de tre. 
+
+Kort fortalt er 625-prosessoren fra Qualcomm best av de tre og scorer høyest i alle grener, både på ren prosessorkraft (Geekbench), 3D-ytelse (3D-mark), allround-ytelse (AnTuTu) og mer hverdagslig ytelse (PCMark). 
+
+G5 Plus har også raskere internminne enn de to andre, som reflekteres i PCMark storage-testen. 
+
+Batteri 
+
+Moto G5 Plus har batterikapasitet på 3.000mAh, og det lar seg lade opp svært raskt fordi det følger med en Turbo Power-lader i esken som yter 15 watt; det dobbelte av de to andre i denne gruppa. 
+
+For å sammenligne batteritiden på de tre, ladet vi dem opp, justerte lysstyrken på skjermen slik at den ble lik og startet PCMarks batteritest som inneholder både nettsurfing, bilderedigering, videoavspilling og lignende. 
+Opprinnelig hadde vi tenkt til å bruke Work 2.0-testen, men siden den ikke lot seg kjøre på Sony-telefonen, var vi nødt til å bruke den gamle Work-testen. 
+Den viste seg imidlertid å stoppe opp på Motorola-telefonen, så den ble dermed den eneste som kjørte Work 2.0; en test som nok er litt tyngre. 
+
+Allikevel var det Motorola-telefonen som holdt ut lengst med 9,5 timer, foran Sonys 8,5 og ZTEs 6,5 timer. 
+
+Kamera 
+
+På papiret er det imponerende spesifikasjoner på hovedkameraet til G5 Plus. 
+Lysstyrken er nemlig på f/1,7, og objektivet er derfor det mest lyssterke på markedet, sammen med Samsungs S7- og S8-telefoner. 
+G5 Plus har også den samme dual pixel-teknologien for raskere autofokus, men en ting den mangler sammenlignet med Samsungs mobilkameraer er optisk bildestabilisering. 
+
+Oppløsningen er på 12Mp og pikselstørrelsen 1,4µm. 
+
+Vi er svake for hurtigtaster, og å kunne flikke håndleddet to ganger for å starte kameraet gjør at du er veldig raskt på pletten for å ta bilde. 
+Kameraappen er relativt lik Googles standardapp – forholdsvis enkel i bruk og uten alt for mye mikkmakk som sminkefunksjoner og den slags. 
+En ting vi dog savner, er mulighet til å vise 3x3-rutenett for å hjelpe til med komposisjon av bildene. 
+
+Vi har lagt noen bilder tatt med Moto G5 Plus i dette Google Foto-albumet. 
+
+For sammenligning med Sony Xperia XA1 og ZTE Blade v8, henviser vi deg til hovedartikkelen. 
+
+Konklusjon 
+
+Motorola har nok en gang vist hvem som er sjefen i 2. divisjon – Moto G5 Plus koster snaue 3.000 kroner og vi tør å påstå at de aller fleste av oss hadde klart oss med det Motorola tilbyr her. 
+
+G5 Plus har en god skjerm med full HD-oppløsning, en presis fingeravtrykksleser, god batteritid, meget godt kamera (også på video) og en ganske «clean» Android-versjon, der alt som er lagt til er en håndfull kjekke funksjoner. 
+
+Det er også telefonen av de tre vi har testet som byr på den beste ytelsen, og den har en meget god opplevd ytelse i hverdagen, siden Android-utgaven er ganske ren. 
+
+Et par bonuser er at telefonen tåler en vannsprut, at den støtter to SIM-kort og at bilder og video kan lastes opp i full oppløsning til Google Foto i to år uten å telle mot kvoten. 
+
+Synes du toppmodellene har blitt alt for dyre eller kunne tenke deg å bruke de siste tusenlappene på noe annet, er G5 Plus definitivt en telefon som vil tilfredsstille de fleste. 
+
+Moto G5 Plus (3GB RAM) 
+32GB 

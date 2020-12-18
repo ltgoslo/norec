@@ -1,0 +1,119 @@
+TEST:Denne gjør umulige videoklipp mulig 
+
+Denne norske oppfinnelsen gjør deg i stand til å fange video fra helt nye vinkler - med hvilket som helst kamera. 
+
+Hva med å feste kameraet på en stram line og kjøre det fram og tilbake der det ellers er klin umulig å føre et videokamera? 
+Gjennom vinduer, under broer og i tett skog, eller over folkemengder, der droner ikke har lov å fly. 
+
+Det var utgangspunktet til den norske oppstartsbedrifien Wiral, som nå er ute med sitt første produkt: 
+Wiral LITE. 
+
+Dette er et sett med en line og en motorisert, fjernstyrt vogn som du kan montere kameraet ditt på, enten det er mobilkamera, actionkamera eller systemkamera. 
+
+Amatørversjon av proffutstyr 
+
+Du har kanskje sett kabelkamera i bruk på store idrettsarrangementer på TV. 
+Men da er det snakk om kostbart proffutstyr som aldri havner i hendene på helt vanlige amatører som deg og meg. 
+
+Wiral LITE den første kabelkameraløsningen for helt vanlige forbrukere, og prisen ligger også langt under de proffe variantene. 
+Akkurat nå kan du bestille fra wiralcam.com til ca. 3.000 kroner, men da kommer moms i tillegg, siden pakken sendes direkte fra lager i Kina, der produksjonen startet tidligere i høst. 
+
+Selve vognen skal tåle kameraer opptil 1,5 kilo, altså opptil et speilrefleks med et ikke altfor tungt objektiv. 
+
+For amatører er det kanskje mest aktuelt å bruke mobilen, et actionkamera eller et 360-kamera. 
+Nye DJI Osmo 
+Pocket bør også funke bra på Wiral LITE. 
+
+Settet består av selve vognen med batteri og lader, en fjernkontroll, et kulehode (for å vinkle kameraet), en GoPro-adapter, en line på 50 meter og et tilhørende stroppesystem, og noen stoppblokker. 
+Alt minus laderen får plass i en medfølgende veske. 
+
+Monteres på 3 minutter 
+
+Wiral har åpenbart lagt mye jobb i å gjøre dette så brukervennlig som mulig. 
+Linen er montert på en slags spole, Quickreel, slik at det er kjapt å rulle ut linen fra ett punkt til et annet. 
+For å stramme den opp, låses spolen, før linen strammes med stroppene. 
+
+Etter å gjort dette noen ganger, monterte vi linen mellom to trær eller stolper på mindre enn tre minutter. 
+
+Armene på vognen foldes ut, og trinsene legges oppå linen, slik at linen presses mot motorhjulet. 
+En låsesplint hindrer vognen i å falle i bakken dersom den skulle spore av. 
+
+Kameraet festes opp/ned under vognen med helt vanlig stativskrue. 
+For det meste brukte vi det medfølgende kulehodet mellom vognen og kameraet. 
+
+Glis om munnen 
+
+Det var stor begeistring første gangen kameraet ble sendt over linen. 
+Vognen kjører silkemykt bortover, og farten er enkel å justere med et fjærbelastet hjul på fjernkontrollen - slipper du det, stopper vognen med en gang. 
+
+Tre modus kan velges fra fjernkontrollen: normal, sport og timelapse. 
+
+Normalmoduset gir hastighet opptil 70 cm i sekundet, som tilsvarer ca. 2,5 km/t. 
+
+I sportsmoduset er toppfarten 9 m/s, eller 32,4 km/t. 
+Noen vil nok ønske høyere fart, for en drone som DJI Mavic Air har til sammenligning toppfart på 68 km/t. 
+Men på Wiral føltes 9 m/s fort! 
+
+Timelapse-moduset er nesten en historie for seg selv. 
+Det å lage timelapser der kameraet beveger seg, har tidligere vært forbeholdt proffer med avanserte skinnesystemer. 
+Å kunne gjøre dette med en liten, lett og portabel løsning som Wiral LITE, har nok mange fotoentusiaster drømt om. 
+
+Svingninger og vibrasjoner 
+
+Vi fryktet pendelbevegelser og vibrasjoner da kikket på opptakene første gangen. 
+Wiral LITE kjører tross alt kun på én line, så det er ingen ting som hindrer pendelbevegelser. 
+
+Pendelbevegelser viste seg å ikke være noe stort problem, så lenge man sørger for å holde vognen i ro før man kjører den avgårde og starter opptak. 
+Et vindkast kan imidlertid sette alt i bevegelse og ødelegge en timelapse. 
+
+Vibrasjoner var heller ikke noe problem, men videostabilisering er selvsagt en fordel. 
+Den nye Hypersmooth-stabiliseringen i GoPro Hero 7 Black viste seg å være som skapt for Wiral LITE. 
+
+Vi fikk også gode resultater med både iPhone og speilløst systemkamera. 
+Wiral tilbyr for øvrig en egen mobilholder som skal eliminere «gelé-effeten» som kan oppstå med noen mobiltelefoners innebygde bildestabilisering, som følge av mikrovibrasjoner på linen. 
+
+Disse mikrovibrasjonene påvirket aldri opptakene fra kameraene vi testet med, men mikrofonene har en tendens til å plukke opp både disse mikrovibrasjonene og motorstøy - særlig GoPro. 
+Dette er selvfølgelig helt ødeleggende i situasjoner hvor lyden er en viktig del av opptaket. 
+Vi har med vilje latt være å fjernet denne støyen fra eksempelvideoen, som du kan se her: 
+
+Programmerbar endestopp 
+
+Via fjernkontrollen kan endene på linen programmeres inn, slik at vognen bremser automatisk før den deiser inn i treet eller stolpen som linen er festet i. 
+Denne funksjonen fungerer imidlertid ikke optimalt, for etter noen turer fram og tilbake på linen, flytter punktene seg. 
+
+Kanskje er det derfor det følger med noen stoppblokker til å montere på linen. 
+Disse sørger for at vognen sporer av og blir hengene i låsesplinten før den krasjer med stolpen. 
+Om ikke de programmerbare endestoppene er idiotsikre, så har produsenten i det minste sørget for en løsning som hindrer full krasj. 
+
+Muligens er det de unøyaktige elektroniske endestoppene som har satt stopper for et slags selfiemodus. 
+Vi savner nemlig en funksjon der vognen kan ha gå fram og tilbake på linen i en forhåndsbestemt hastighet, slik at man kan sykle eller gå på ski foran kameraet uten å måtte holde i fjernkontrollen. 
+Det er jo lov å håpe at dette kan komme på plass med en firmware-oppdatering. 
+
+Klønete batteriløsning 
+
+Wiral LITE virker gjennomtenkt og velkonstruert, men batteriløsningen er ikke brukervennlig. 
+Batteriet kobles til med en såkalt XT60-kontakt, som kan være fryktelig vanskelige å få fra hverandre - særlig inne i en trang batteriluke som her. 
+
+Batteriet må ut av vognen hver gang det skal lades, og hver gang med frykt for å lage brudd i ledningene på grunn av de vanskelige kontaktene. 
+At batteriet også plages av selvutlading når det er tilkoblet over tid, gjør at man må krangle med denne koblingen hele tiden. 
+
+Batterikapasiteten må vi ellers betegne som god. 
+Også i kaldt norsk vintervær holdt batteriet på Wiral LITE koken - bedre enn batteriene i kameraene vi testet med. 
+
+Wiral LITE er slett ikke for alle, og stiller litt i samme tilbehørskategori som gimbaler som DJI Osmo Mobile. 
+Totalprisen på nærmere 4.000 kroner kan også virke høy. 
+
+Men actionkamerabrukere vil nok digge en slik kabelkameraløsning. 
+Skikjørere, brettkjørere og terrengsyklister er lei av den samme kameravinkelen fra hjelmen eller bryststroppen hele tiden. 
+Regn med å se masse terrengsykkelklipp med Wiral Lite på sosiale medier når lyset og sommeren kommer tilbake! 
+
+Med Wiral LITE kan man komme tett på det som skjer, men fra en helt annen synsvinkel. 
+I tillegg til å komme tettere på, kan kabelkamera også brukes der droner ikke kommer til - som i tett skog, under broer eller gjennom vinduer. 
+
+Den gjennomtenkte spolen til linen og det tilhørende stroppesystemet gjør det enkelt å sette opp og ta ned systemet. 
+Selve vognen er såpass lett og portabel at det hele er uproblematisk å putte i sekken. 
+Dermed er terskelen relativt lav for å bruke dette verktøyet på tur. 
+
+Motorstøy og batterikontakter bærer preg av at dette er det første produktet fra en ung oppstartsbedrift. 
+Det påvirker også karakteren. 
+Men alt i alt fortjener Wiral honnør for å ha laget et unikt verktøy for alle som liker å lage video, og ønsker å skille seg ut med «umulige» og unike videoklipp. 

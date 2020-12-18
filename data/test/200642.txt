@@ -1,0 +1,109 @@
+TEST:Nespresso Prodigio - kaffemaskinen du kan styre med en app 
+
+Verdens første i sitt slag, hevder produsenten - men har det noe for seg? 
+
+Nå vil noen sikkert si at vi bare har godt av å gå og skru på kaffemaskinen manuelt, men av og til hadde det vært deilig å slippe. 
+
+Nespressos nyeste kaffemaskin, Prodigio, er blant de første, om ikke den aller første, du kan styre med en app. 
+
+Tidligere har vi testet vannkokeren iKettle som kan styres med en app. 
+
+Slik fungerer det 
+
+Sett opp Prodigio hvor enn du måtte ønske. 
+Vi har hatt den på kjøkkenet, men den passer sikkert fint på en kommode på soverommet om du har plass. 
+
+Fyll på vann, putt i en kaffekapsel, sett koppen klar og fyr opp mobilen eller nettbrettet (kun Android og iOS, Windows Phone er ikke støttet). 
+
+Så er det bare å brygge i vei, enten umiddelbart eller til et selvvalgt tidspunkt, for eksempel 07:30 neste morgen, samme tid alarmen din går av. 
+Kaffemaskinen trenger ikke å være påslått for å fungere - så lenge du har plugget støpselet i kontakten, skal den kunne starte opp av seg selv. 
+
+Eller hva med å bruke kaffemaskinen som vekkerklokke i stedet? 
+Det er vel ingenting deiligere å våkne opp til duften av ferskbrygget kaffe ... 
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/nb_NO/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); 
+
+Høres det fristende ut å lage en kopp kaffe uten engang å forlate senga? 
+Vi har testet hvordan det faktisk funker: http://www.dinside.no/936244/test-nespresso-prodigioPosted by DinSide.no on 29. mars 2016 
+
+Høres det fristende ut å lage en kopp kaffe uten engang å forlate senga? 
+Vi har testet hvordan det faktisk funker: http://www.dinside.no/936244/test-nespresso-prodigio 
+
+Morsomt, men ikke alltid enklere 
+
+Nå har vi brukt Prodigio i noen uker, og å lage seg en kopp kaffe har aldri vært morsommere, sett fra et nerdeperspektiv. 
+
+Vi får litt samme følelse som når vi betaler med mobilen i butikken - det er noe litt magisk over det. 
+
+Å styre kaffemaskinen fra mobilen er imidlertid ikke alltid enklere enn å gjøre det på «gamlemåten». 
+
+Står du rett ved, er det i grunn enklere å starte bryggingen fra kaffemaskinen. 
+
+For først må du låse opp telefonen, starte Nespresso-appen, velge kaffemaskinen og så trykke på brygge-knappen for å sette i gang prosessen. 
+
+Appen har også vært litt ustabil under testingen, så den har ikke alltid funnet kaffemaskinen med en gang. 
+Dette er antagelig barnesykdommer som forsvinner etter hvert. 
+
+Oppkoblingsprosessen er gjort på noen få strakser - se hvordan det foregår i bildeserien under: 
+
+Du må være i nærheten 
+
+Tilkobling mellom mobil og kaffemaskin foregår over Bluetooth, så det er ikke mulig å fjernstyre kaffebryggingen over trådløsnettet/internett. 
+
+Dette er kanskje greit med tanke på sikkerhet, så du ikke plutselig blir offer for kaffehackere som oversvømmer kjøkkenbenken din. 
+
+Det hadde dog vært kjekt at det stod en kopp fersk kaffe idet vi kom inn døra hjemme etter arbeidstid, slik som er mulig med iKettle-vannkokeren. 
+
+iKettle kobler seg nemlig opp mot Wi-Fi-nettverket, og så kan du blant annet få den til å sette på å vannet når du returnerer inn i trådløssonen igjen i et valgt tidsrom, for eksempel mellom klokken 16 og 18. 
+
+Bluetooth 4.0 har en teoretisk rekkevidde på 100 meter, men i praksis vil det være lavere, alt avhengig av hva slags bolig man har og eventuelt andre forstyrrelser. 
+
+Vi kan sitte i sofakroken og brygge en kopp på kjøkkenet, noe som er omtrent 10 meter unna. 
+
+Varsler om lite vann og få kapsler 
+
+I tillegg til at du kan sette på en kopp kaffe fra Nespresso-appen (som for øvrig kun finnes for Android og iOS), vil du få beskjed når kapseltanken er full eller når vanntanken er tom. 
+Du får også varsel når du må gjennomføre avkalking av maskinen. 
+
+Med appen kan du også se hvor mange kapsler du har igjen, forutsatt at du har oppgitt hvor mange du hadde til å begynne med. 
+
+Her kan du dessuten sette opp slik at du får et varsel når du bare har et visst antall kapsler igjen, selvsagt med det formål at du skal bestille nye kapsler. 
+Og det kan du naturligvis gjøre rett fra appen. 
+
+Ifølge Nespresso kan opptil åtte enheter kontrollere samme maskin. 
+Ulempen er at alle må være tilkoblet samme konto, så kommer du på besøk til noen som har Prodigio, må du logge deg på deres konto for å brygge deg en kopp kaffe fra din mobil. 
+
+I en husholdning er det kanskje like greit med én felles konto uansett med tanke på kapselbestilling. 
+
+Om det er planer om å lansere noen form for brukerprofiler knyttet opp mot dette, er ikke kjent. 
+
+Smarte detaljer 
+
+Generelt sett er vi veldig fornøyd med Prodigio, og den har flere smarte funksjoner. 
+Du kan lage tre forskjellige kaffetyper med den: ristretto, espresso og lungo. 
+
+Du skyver opp en liten luke i toppen for å sette i kapselen, og når koppen er ferdig brygget, går kapselen automatisk ned i beholderen. 
+Praktisk! 
+Det anbefales jo at man tar ut kapselen med én gang, men det er det jo ikke bestandig man husker. 
+
+Å brygge en kopp kaffe tar tar enhten 20, 30 og 40 sekunder for henholdsvis ristretto, espresso og lungo. 
+Legg på ti sekunder på hver kaffetype fra du trykker på start til kapselen slippes nedi beholderen. 
+
+Av andre små detaljer liker vi den justerbare vanntanken, som du kan skyve til siden om du har en litt trang kjøkkenbenk. 
+Den har i det hele tatt en ganske fin og kompakt design. 
+
+Verdt å oppgradere? 
+
+Nå oppgraderer man kanskje ikke kaffemaskiner like ofte som man gjør mobiler, selv om vi tipper de mest teknologiinteresserte, som først og fremst er Nespresso-entusiaster, vil kunne la seg friste av å bytte ut sin gamle maskin med nykommeren Prodigio. 
+
+Det er veldig morsomt å brygge en kaffekopp fra mobilen, men mest praktisk når det kommer til den tidsstyrte funksjonen. 
+Dessverre må du opp av sofaen og hente kaffekoppen selv når den er klar. 
+Vi skulle også ønske den kunne koble seg opp mot internett. 
+
+Hvis vi skal være litt kravstore, kunne vi også ønsket oss en eller annen form for innebygd kapselautomat, slik at man slapp å sette i ny kapsel selv hver gang man skulle brygge en kopp. 
+Da hadde man egentlig bare trengt å sette kaffekoppen klar (forutsatt at det er vann nok på tanken). 
+
+Ellers er Prodigio som Nespresso-maskiner flest, den ser pen ut, er utrolig enkel å bruke, og de små detaljene nevnt overfor gjør at vi selv ville valgt den over for eksempel den noe enklere varianten Pixie, som til gjengjeld også koster halvparten. 
+
+Prismessig ligger Prodigio noe over de aller billigste Nespresso-maskinene som nevnte Pixie og Citiz, med veiledende utsalgspris på 1.999 kroner. 
+Det finnes også en utgave med integrert melkeskummer, Nespresso Prodigio&Milk;, som koster 2.499 kroner. 

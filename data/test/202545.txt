@@ -1,0 +1,108 @@
+Rimelig kineser med to kameraer bak
+…og esken er ganske fiffig. 
+
+Det begynner å bli en stund siden vi sist testet en telefon fra kinesiske ZTE, men flere av modellene i selskapets Blade-serie har fått meget gode kritikker oppigjennom og har vært anerkjent som gode «value for money»-telefoner. 
+
+Siste modell i serien er Blade v8, med en prislapp på snaue 3.000 kroner. 
+En ting som gjør den ganske spesiell i sin prisklasse, er at at den har to kameraer på baksiden, som enten kan brukes for å simulere en større blenderåpning eller å ta 3D-bilder. 
+
+Litt morsomt er det da også at selve esken produktet kommer i også kan brukes som en Cardboard-brille, slik at 3D-bildene du tar kan beskues uten å måtte kjøpe noe ekstra. 
+
+Fremstår dyrere 
+
+Vi må gi ZTE ros for å ha laget en nokså delikat telefon til at den er såpass rimelig. 
+Det ser riktignok ut som metall rundt hele telefonen, men negltesten avslører at det store feltet på baksiden er i plast. 
+Skjermen er såkalt «2,5D», der den ligger over kantene rundt. 
+Den har for øvrig full HD-oppløsning og måler 5,2 tommer over diagonalen. 
+
+Under skjermen ligger fingeravtrykksleseren som kun trenger berøring for å låse opp telefonen. 
+Men det er også en knapp som da fungerer som hjemknapp i det daglige. 
+Ved siden av finnes to berøringsfølsomme felter for tilbake og programbytte, og du kan selv velge hvilken som gjør hva via innstillingene. 
+
+ZTE kunne kanskje ha spart seg for å trykke «13.0 Megapixels» rundt frontkameraet, men annet enn det synes vi Blade v8 ser brillefin ut. 
+
+«Kina-Android» 
+
+Selv om enkelte av de kinesiske produsentene, som Huawei, nå har gått over til å gi hjemskjermen en app-skuff, følger ZTE det tradisjonelle Kina-oppsettet uten, og dermed ligger alle ikoner på hjemskjermen, på samme måte som på iOS. 
+
+Blade v8 kjører for øvrig Android v7.0 (Nougat), og ZTE har gjort sine tilpasninger hva gjelder ikoner og grafikk, innstillingsmeny, varslingsmeny og så videre. 
+
+Vi ser at de norske oversettelsene ikke alltid er like gode, og at norsk språk noen steder gjør at det blir litt trangt om plassen, der grensesnittet ikke tilpasser seg lengre ord, for eksempel. 
+
+En uting er også at det følger med ganske mange apper som de færreste av oss har bruk for. 
+For eksempel ligger de tre (!) nettlesere på telefonen rett ut av boksen, et par spill (Spider-Man og Real Fotball), en vær-app, antivirus og lignende. 
+De fleste av dem kan dog avinstalleres. 
+
+Egne funksjoner 
+
+En funksjon vi virkelig liker godt, er muligheten til å styre musikkavspillingen direkte fra en låst/slukket skjerm, ved å sveipe fingeren til en av sidene. 
+Det er veldig smart om du kjører bil og har telefonen plassert i en holder. 
+
+ZTE Blade v8 har for øvrig støtte for to SIM-kort, som kan være kjekt om du til stadighet reiser til utlandet. 
+I tillegg ligger det en KnowRoaming-app på telefonen som lar deg bruke den andre kortplassen til et virtuelt SIM-kort (software-basert) som kan gi deg rimeligere bruk om du er på tur. 
+
+Telefonen har også blått lys-filter som kan gjøre skjermen varmere på kveldstid og et par andre fikse funksjoner, som å kunne riste telefonen to ganger for å aktivere lommelykta. 
+
+Ytelse 
+
+På innsiden av Blade v8 finner vi en Snapdragon 435-prosessor, med 3 GB arbeidsminne og 32 GB lagringsplass. 
+
+Prosessoren er med andre ord en av de rimeligere modellene fra Qualcomm, og sammenlignet med de to andre telefonene vi testet Blade v8 med, Moto G5 Plus og Sony Xperia XA1, kommer ZTE-telefonen til kort i alle ytelsestestene. 
+
+Det betyr ikke at den oppleves spesielt treg til mer hverdagslig bruk, men den har ikke like mye krefter om man liker å spille spill eller lignende. 
+Og så tar det meste litt lenger tid, enten det er å starte apper, redigere video eller lignende. 
+
+Under ser du ytelsesmålingene vi gjorde. 
+Først ut er Geekbench som måler ren prosessorkraft. 
+Som du ser kommer ZTE til kort: 
+
+Det gjør den også i 3DMark-testen, der de to andre ligger henholdsvis 25 og 35 prosent foran: 
+
+Også i AnTuTu-testen, som måler generell ytelse på telefonen, er ZTE-telefonen svakere enn de to andre: 
+
+Og til slutt PCMark, der ZTE-telefonen heller ikke gjør det så godt: 
+
+Batteri 
+
+Batteriet i ZTE Blade v8 har oppgitt kapasitet på 2730 mAh, som er noe beskjedent til en 5,2-tommer å være. 
+Laderen som følger med er på 7,5W (5V/1,5A), altså samme spesifikasjoner som Sony-laderen. 
+
+Her skal det riktignok sies at Snapdragon 435-prosessoren støtter Quick Charge 3.0-teknologien fra Qualcomm, og at den derfor kan lades opp raskere ved å kjøpe en lader ved siden av. 
+
+For å sammenligne batteritiden på de tre, ladet vi dem opp, justerte lysstyrken på skjermen slik at den ble lik og startet PCMarks batteritest som inneholder både nettsurfing, bilderedigering, videoavspilling og lignende. 
+
+ZTE var den telefonen som holdt ut kortest, med 6 timer og 35 minutter. 
+
+Kamera 
+
+Kamerainnretningen er altså noe spesiell på Blade v8. 
+På baksiden finner du to objektiver side om side, med en ganske stor avstand mellom seg. 
+
+Oppløsningen er 13Mp for det ene kameraet og 2 Mp for det andre. 
+Det ekstra kameraet brukes kun for å kalkulere dybdeinformasjon i bildet, slik at du enten kan forfalske en speilrefleksaktig bokeh-effekt eller ta 3D-bilde. 
+
+Til sistnevnte er det ganske fiffig at selve esken til telefonen kan brettes til en cardboard-brille, slik at du kan se 3D-bildene du tar ved å sette telefonen i den, men vi må innrømme at både Huawei og Apple leverer bedre med tanke på å forfalske en uskarp bakgrunn. 
+Under ser du et eksempel på at kameraet ikke helt klarer å isolere den knyttede neven fra bakgrunnen, slik at deler av bakgrunnen blir for skarpt gjengitt skal det være troverdig: 
+
+Ellers er lysstyrken f/2.0 på objektivet, som betyr at kameraet slipper inn rundt 38 prosent mindre lys enn Motorola-telefonen. 
+
+Kameraappen er rik på funksjonalitet, der man også kan kjøre flereksponeringer, lange lukkertider, full manuell eksponering og mer til. 
+
+Vi har lagt noen bilder tatt med ZTE Blade v8 i dette Google Foto-albumet. 
+
+For sammenligning med Motorola G5 Plus og Sony Xperia XA1, henviser vi deg til hovedartikkelen. 
+
+Konklusjon 
+
+En ting ZTE har spart på for å holde prislappen nede på Blade v8 er maskinkraften, og den ligger vesentlig bak de to andre når vi måler ytelsen. 
+I daglig bruk flyter ting greit, men det tar ekstra tid å åpne apper, og vil du spille er dette neppe telefonen du bør sikte deg ut. 
+Batteriet er heller ikke spesielt imponerende på Blade V8. 
+
+Men den har et pent design, en god fingeravtrykksleser og en fin skjerm, som både er lyssterk og skarp. 
+Kameraet klarer ikke helt å levere de samme detaljene som hos de to andre, og HDR-funksjonen gjør ofte at bildene kan se litt snodige ut, både med tanke på fargene og også at det noen ganger oppstår skygger når kameraet skal sette sammen eksponeringene. 
+
+Og de to kameraene på baksiden gir oss begrenset glede, der forfalsking av uskarphet ikke fungerer spesielt godt. 
+Videokvaliteten er heller ikke mye å skryte av; i hvert fall ikke med tanke på lyden som høres helt merkelig ut. 
+
+Men en ting elsker vi, særlig til bilbruk – muligheten til å hoppe til neste sang ved å sveipe på skjermen selv om den er slukket. 
+Hørte dere, Google? 

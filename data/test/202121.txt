@@ -1,0 +1,113 @@
+Gjør mobilvideoene dine mer stabile
+Osmo Mobile er en håndholdt gimbal, for deg som vil ta mobilvideo opp et hakk. 
+
+Mange av mobil-toppmodellene har nå et kamera med optisk bildestabilisering, der elementer i objektivet er bevegelige for å kompensere for din ustøhet på hånda. 
+
+Resultatet blir skarpere bilder i svakt lys og mer stabile mobilvideoer når du filmer. 
+På mobilvideo har mange telefoner dessuten elektronisk stabilisering der bildet «flyttes» rundt på bildebrikken, siden videoopptak bruker langt fra alle pikslene på sensoren. 
+Programvare kan også brukes for å stabilisere videoen. 
+
+Skjønt, slik stabilisering har sine begrensninger. 
+Det kan være godt nok når du står stille med mobilen i hånda, men om du er i bevegelse kommer de brått til kort. 
+Vil du ha en ordentlig stabil mobilvideo bør du heller satse på en såkalt gimbal, eller slingrebøyle på norsk. 
+
+Ny, mobil utgave 
+
+DJI Osmo Mobile er nettopp et slikt produkt. 
+Dette er en videreføring av DJI Osmo, som vi testet i sommer, men denne gangen har ikke enheten et eget kamera – i stedet fester du mobiltelefonen din i ei klo, og så er det den som står for videoen. 
+
+Med andre ord vil selve videokvaliteten avhenge av hvilken telefon du har koblet til. 
+I vår test har vi brukt en iPhone 7. 
+Den har for øvrig optisk bildestabilisering innebygd, så med denne telefonen vil gevinsten ved å bruke Osmo Mobile være noe lavere enn om du har en telefon uten optisk bildestabilisering. 
+
+Dette følger med i esken 
+
+Foruten selve enheten finner du også et par andre ting i esken. 
+Det ene er et batteri, som tar drøye to timer å lade og som holder det gående i 4,5 timer med aktiv bruk. 
+Det følger også med en USB-basert ladekabel, og batteriet lades direkte i enheten. 
+
+Alternativt går det an å få kjøpt en ekstern lader som ekstrautstyr, hvis du skulle ha behov for å lade et annet batteri mens du bruker DJI Osmo Mobile. 
+Det er for øvrig også annet ekstrautstyr å få kjøpt, som stativ, teleskopstang, fester til bil/sykkel og lignende. 
+
+Videre får du også med en stropp som du kan ha rundt håndleddet, samt en bæreveske med glidelås. 
+
+Noe «manuell» festing 
+
+DJI anbefaler at du fullader batteriet før du tar det i bruk, og at du fester mobiltelefonen din i enheten før du slår på gimbalen. 
+Den virker faktisk ikke uten at en telefon er festet. 
+
+Her må du selv sørge for at vekten fordeles riktig, slik at telefonen ligger vannrett når Osmo Mobile er slått av. 
+For å få til det, kan du justere bredden på selve kloa slik at den griper stramt om telefonen, samt regulere en «arm» frem og tilbake for å fordele vekten. 
+Akkurat den siste biten føles noe tungvint, men er typisk noe du gjør én gang, med mindre du har flere telefoner i arsenalet. 
+
+Vi innbiller oss at enkelte telefoner kan få en utfordring der om de har volumknappene plassert på nedre halvdel og nærme midten av telefonen, siden klemmene da kan trykke på disse knappene. 
+Eksempelvis Sonys Xperia-serie og Nexus 5X for å nevne noen. 
+
+Stabil når du slår på 
+
+I det du slår på, justerer gimbalen seg slik at telefonen ligger rett. 
+Det betyr med andre ord at du kan bruke den med en hvilken som helst kameraapp, selv om DJI også har sin egen, med funksjoner de andre ikke kan varte opp med. 
+
+DJI-appen er for øvrig den samme som benyttes på selskapets øvrige enheter, som dronen Phantom 4 og Mavic Pro. 
+
+Paringen med Osmo Mobile skjer via Bluetooth og gjør da at du kan bruke knappene på grepet for å ta bilde og starte og stoppe opptak; funksjonalitet du ikke vil få i andre apper. 
+Men den lille joystick-bryteren, som lar deg panorere og tilte kameraet, fungerer også uavhengig av hvilken app du bruker. 
+
+Appen fra DJI har enkelte andre funksjoner, som panoramabilder, der kameraet automatisk panoreres jevnt og kombinerer flere bilder til ett, og timelapse-funksjon (som tar bilder med jevne intervaller og setter dem sammen til en film), der man også kan bestemme på forhånd hvordan kameraet skal bevege seg igjennom timelapsen. 
+
+Til sistnevnte bør man kjøpe et stativ for å få et godt resultat. 
+Merk også at panoramamodusen mangler HDR, noe som er tilgjengelig når du tar vanlige enkeltbilder. 
+Det kan gi litt merkelig lyssetting i det sammensydde bildet, som her: 
+
+ActiveTrack er også på plass, der du kan tegne en firkant over et objekt som da spores og holdes i søkeren kontinuerlig. 
+Altså der kameraet automatisk beveger seg i henhold til objektets bevegelser. 
+
+Som på Phantom 4 fungerer akkurat dette litt så-som-så, der raske bevegelser kan gjøre at kameraet «mister» objektet, noe du kan se på slutten av videoen under. 
+
+Kjekke snarveier 
+
+Grepet er det samme som på DJI Osmo, med god friksjon og komfortabel utforming. 
+På baksiden (altså på den siden som peker fra deg) finnes det fortsatt en egen knapp til pekefingeren som kan holdes inne for å låse kameraposisjonen, slik at kameraet ikke lenger følger bevegelsene dine, men peker i den samme retningen uansett. 
+
+Denne har også noen ekstra funksjoner – dobbelttrykker du på den, senteres kameraet slik at det peker rett frem og i vater, mens et trippeltrykk endrer til selfie-modus (frontkameraet) slik at du kan filme deg selv. 
+Sistnevnte fordrer at du bruker DJI-appen. 
+
+Styrepinnen har flere trinn, slik at du kan dra den forsiktig til siden for å panorere sakte eller helt til siden for å panorere raskt; sammenlignbart med de analoge stikkene på en håndkontroll til spillkonsoll. 
+Ellers vil altså kameraet følge dine bevegelser (men saktere) om du ikke holder låseknappen inne. 
+En siste mulighet er fysisk å dreie på selve enheten. 
+
+Slik blir videoene 
+
+Som sagt innledningsvis vil videokvaliteten selvsagt bero på hvilken telefon du bruker, men stabiliseringen er det lite å si på. 
+Ved vanlig gange leverer Osmo Mobile et svært stabilt bilde, og selv om man ved løping ikke får det helt stabilt, ser det vesentlig bedre ut enn om du ikke bruker en gimbal; særlig om du har en telefon med begrenset stabilisering fra før. 
+
+Stillegående kan vi ikke kalle Osmo Mobile, og lyden fra stabiliseringsmotorene høres på opptakene, så vil du bøte på det må du bruke en ekstern mikrofon koblet til telefonen (eller med Bluetooth). 
+
+Under har vi laget en video der vi demonstrerer funksjonaliteten, samt viser frem noen eksempelvideoer der vi har filmet med iPhone 7 festet i DJI Osmo Mobile: 
+
+Hva med bilder? 
+
+Selv om primær bruk av DJI Osmo Mobile er å ta opp videoer, kan en gimbal som dette også være fordelaktig når du tar bilder. 
+
+For – med en slik stabilisering, kan man tillate seg enda lenger lukkertider når man tar bilder håndholdt uten at bildet blir like uskarpt. 
+DJI reklamerer med hele ett sekunds lukkertid mens du holder kameraet i hånda – noe som i praksis vil være umulig uten en gimbal. 
+
+Vi pushet den imidlertid lenger. 
+Under har vi tatt to bilder håndholdt med fire sekunder lukkertid, både med og uten DJI Osmo. 
+Vi regner med at vi ikke trenger å påpeke hvilket av bildene som er hvilket: 
+
+Nevnt er også at DJI Go-appen har funksjonalitet for panoramabilder, enten langs horisonten eller ved å sy sammen ni bilder i et 3x3-grid. 
+
+Konklusjon 
+
+Det er neppe et produkt alle trenger, men om du har interesse for video, en mobiltelefon med god videokvalitet og ikke vil bruke alt for mye penger på utstyr, kan DJI Osmo Mobile være en god investering for å få mer stabile videoer. 
+
+Selv om den er litt tungvinn å komme i gang med første gang, gjør den at mobilvideoene dine blir svært stabile. 
+Den er komfortabel i bruk og lett å betjene; spesielt om du bruker DJI-appen. 
+
+Direkte billig er den ikke, med en prislapp på drøye 3.000 kroner. 
+Det er samme prisleiet som GoPros nylig lanserte Karma Grip, med tilsvarende funksjonalitet, men da for GoPro-kameraer. 
+
+Takk til Elefun for lån av produktet! 
+
+DJI Osmo Mobile 

@@ -1,0 +1,100 @@
+Prøver igjen, men lykkes ikke nå heller
+Men Lenovo Yoga Book er bedre enn forgjengeren. 
+
+I løpet av de seneste årene er det mange selskaper som har forsøkt å gjenoppfinne PC-en for å vekke et synkende marked. 
+Best har kanskje Microsoft vært. 
+De traff ikke på første forsøk, men Surface Pro fra 2012 markerte starten på en flom av hybridmaskiner, mens Surface Book er noe av det alle heftigste man får tak i i laptopmarkedet. 
+
+HP forsøkte seg nylig med Folio Spectre, en unik bærbar PC utformet i lær. 
+En veldig spesiell PC som vi håper HP bygger videre på. 
+Lenovo har også lansert PC-er med ulike formfaktorer og har nok hatt størst suksess med Yoga-serien. 
+
+Under IFA-messen i Berlin i 2016 så Yoga Book dagens lys. 
+Dette var en ny type PC hvis tastatur var byttet ut med en kapasitiv berøringsplate med et virtuelt tastatur. 
+Vi var ikke helt overbeviste og trillet terningkast tre. 
+
+Dette er nytt 
+
+Nå er Lenovo tilbake med en ny Yoga Book (modellnummer (C930) med flere nyheter. 
+Den kapasitive skjermen er byttet ut med en e-ink-skjerm, prosessoren er nå en kraftigere Core i5 fra Intel, skjermen er større med 10,8 mot 10,1 tommer og den har lagringsplass på opptil 256 GB. 
+
+På den første Yoga Book-modellen fulgte en notatblokk i papir med i esken. 
+Den kunne du legge oppå den kapasitive flaten og skrive eller tegne på med penn, og innholdet dukket opp på PC-en. 
+Slik er det ikke lenger og nå skriver du direkte på e-ink-skjermen. 
+
+Det er lett å se at dette er en Yoga-enhet takket være det umiskjennelige klokkelenkehengselet mellom skjerm og base. 
+Yoga Book er for øvrig syltynn og du kan enkelt forveksle den med et notatblokk. 
+
+Lenovo fikk en del kritikk for at det var vanskelig å åpne skjermen på første Yoga Book, noe de har svart på med bedre løsninger. 
+Har du en negl som er lang nok, kan du tynne den inn mellom skjerm og base og vippe opp skjermen. 
+Hvis ikke kan du banke to ganger med knokene på toppen, eller trykke på volum ned-knappen på høyre side. 
+
+Merk at det må være strøm på PC-en for at knoketrikset skal fungere. 
+
+En annen ting som er forbedret, er utvalget av tilkoblinger. 
+Originalen ladet via micro-USB, Yoga Book C930 har heldigvis to USB-C-kontakter. 
+Ovenfor tastaturet sitter det for øvrig en fingersensor for pålogging i Windows 10, som leser fingeravtrykket ditt på et blunk. 
+
+Den berøringsfølsomme skjermen er på 10,8 tommer - en økning fra 10,1 tommer - og størrelsen tatt i betraktning er skjermen høyoppløst med 2560 x 1600 piksler. 
+Vi opplever skjermen som skarp og med dype farger, men lysstyrken er ikke den aller beste. 
+E-ink-skjermen har en oppløsning på 1920 x 1080 piksler. 
+
+Spennende skjerm 
+
+E-ink-skjermen har tre ulike modi: tastatur, notisblokk og leser. 
+Tastaturet er kraftig forbedret og har det endelig støtte for norsk oppsett. 
+I innstillingene kan du velge om du ønsker tastaturlyder og vibrering og styrke samt tastaturoppsett. 
+
+Styreflaten er faktisk overraskende god tross den beskjedne størrelsen, og den støtter Windows 10-gestene som to fingre for å zoome, sveip med tre fingre for å veksle mellom apper og fire fingre for å veksle mellom skrivebord. 
+
+Notisblokken er for skriving eller enkel skissering med pennen, og du kan lagre og opprette nye notiser som kan importeres til PC-en og for eksempel OneNote. 
+Skriveopplevelsen er faktisk veldig god og er på høyde med iPad Pro og Surface Pro. 
+Det er for øvrig også mulig å skrive på den berøringsfølsomme skjermen, hvis man foretrekker det. 
+
+Den siste modusen er leser og her kan du åpne og lese PDF-filer. 
+Det er også snakk om at ePub-støtte er på vei slik at du kan lese ebøker direkte på skjermen, men i skrivende stund er ikke det på plass. 
+
+Vi kjøpte en ebok på nett, konverterte den til pdf-format og lagret filen på PC-en. 
+Da fikk vi lest boken på PC-en, og ekstra nyttig var det at leseren «husket» hvilken side vi var på mellom hver bruk. 
+Ordentlig ePub-støtte hadde selvsagt vært å foretrekke ettersom du da ikke behøver å konvertere filene, så enn så lenge foretrekker vi å lese ebøker på Kindle som også har innebygget bakgrunnslys. 
+
+Lenovo har også sagt at støtte av ebokformatet .mobi er på vei. 
+
+Problemet med Yoga Book er at ingen av disse ovennevnte modiene fungerer spesielt bra. 
+Å taste på det virtuelle tastaturet er akkurat som å bruke tastaturet på en iPad, selv om det hjelper noe med vibrering. 
+Det er ganske slitsomt i lengden. 
+Planen var å skrive hele testen på Yoga Book, men etter et par avsnitt var det over til Lenovo ThinkPad X1 Carbon (som kanskje har det beste tastaturet blant bærbare PC-er). 
+
+Samtidig kommer vi ikke utenom at e-ink-skjermen er treg i bruk, noe som skyldes at denne type paneler har en mye lengre oppfriskingstid enn for eksempel LCD. 
+
+Bedre ytelse, men vi ønsker mer 
+
+Lenovo innså nok som oss at Intel Atom x5-brikken som satt i den forrige modellen var altfor svak, for nå kjører de på med en syvende generasjon Intel Core i5-prosessor i Y-serien, som indikerer at det er CPU der fokuset ligger i mindre strømforbruk fremfor best mulig ytelse. 
+
+Vi merker at ytelsen er forbedret, men Yoga Book C930 er på ingen måte en arbeidshest. 
+Det er heller ikke forventet, men det er mye venting når man bruker PC-en, enten ved at nettsider laster inn tregt eller at det tar tid å veksle mellom apper. 
+
+Området der Yoga Book kanskje gjør det best, foruten som notisblokk, er til underholdning. 
+Strømming fra tjenester som Netflix, YouTube og HBO Nordic gjør seg godt på den høyoppløste LCD-skjermen og batteritiden er god nok til at du kan strømme en hel flytur - rundt åtte timer videostrømming. 
+Den fleksible formfaktoren til Yoga Book, ved at man kan justere skjermen 360 grader, spiller godt inn her. 
+Vi oppdaget også til vår glede at Yoga Book takler «Minecraft» uten problemer. 
+
+Yoga Book leverer riktig nok også til vanlig kontorbruk, men vi kan ikke se for oss å bruke e-ink-tastaturet gjennom en hel arbeidsdag. 
+
+Så, mye av det negative rundt Yoga Book handler nettopp om ytelsen og et tastatur du blir sliten av etter et par avsnitt, noe som også oppsummerer våre tanker om den første modellen. 
+
+Vi opplever forresten at Yoga Book-en blir fort varm under tyngre last, noe vi spesielt merker på undersiden av enheten. 
+
+Det er alltid gøy med produsenter som forsøker å prøve noe nytt i stedet for det samme, gamle år etter år, og Lenovo har gjort flere forbedringer for å bøte på noen av ankepunktene fra originalen. 
+Dessverre er de ikke helt der riktig ennå, mener vi. 
+
+Konklusjon 
+
+Vi teknologifantaster liker å se produkter som Yoga Book. 
+Enheten er et godt eksempel på et produkt der produsenten tør å tenke nytt og annerledes, og vi syns det er ekstra gøy å teste slike produkter, selv om opplevelsen totalt sett ikke er i toppklasse. 
+
+Lenovo har gjort flere forbedringer fra forgjengeren og vi kan nevne ting som USB-C, større skjerm, kraftigere prosessor, mer lagringsplass og en e-ink-skjerm som gir flere muligheter enn den kapasitive. 
+
+Dessverre er ikke opplevelsen blitt spesielt mye bedre, selv om vi liker forbedringene som er gjort, og neste utgave håper vi er enda sprekere. 
+
+Det er ingen tvil om at Lenovo Yoga Book er et kult og spesielt produkt, men det er ikke nok til at vi kan anbefale deg å bla opp nærmere 10.000 kroner for den - og det er modellen uten medfølgende penn. 

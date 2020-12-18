@@ -1,0 +1,129 @@
+Går rett i strupen på Microsoft Surface Book, men treffer ikke helt blink
+Den koster like mye som en god Mazda, men har egenskaper den er helt alene om, ifølge produsenten. 
+Vi har tatt hybrid-PC-en i nærmere øyesyn. 
+
+Porsche Design er et selskap i Porsche-gruppen, som designer og markedsfører alt fra solbriller og vesker til forbrukerelektronikk i luksusklassen. 
+
+Book One er imidlertid den første bærbare PC-en fra selskapet; en hybrid som de har fått kinesiske Quanta Computer til å produsere for seg. 
+
+Først ute 
+
+Ifølge selskapet er Book One den første 2-i-1-hybriden med skjerm som både kan hektes av og skyves rundt 360 grader slik at den dekker undersiden av maskinen. 
+
+Dette gir enda større fleksibilitet enn maskinen det er mest naturlig å sammenligne den mot, Microsoft Surface Book, som kun har avtagbar skjerm. 
+
+Book One er, som Surface Book, utstyrt med to batterier - ett i tastaturdelen og ett i skjermen. 
+Hvis du skal jobbe i nettbrettmodus, kan du dermed dra nytte av begge batterier på Book One - noe som kun er mulig i standard PC-modus på Surface Book. 
+
+Premium 
+
+Begge maskinene plasserer seg i premium-segmentet og er definitivt priset deretter. 
+I tabellen under har vi sammenlignet noen sentrale egenskaper på Book One mot den mest sammenlignbare utgaven av Surface Book Performance Base. 
+
+Som du ser, er Surface Book 3.000 kroner dyrere, til tross for at den har forrige generasjon Intel Core i7-prosessor og leveres uten USB-C-porter. 
+Den har imidlertid et grafikkort som byr på vesentlig bedre 3D-ytelse - men bortsett fra det kan Book One framstå som et minst like godt - og kanskje bedre kjøp, i hvert fall på papiret. 
+Men så var det dette med teori og praksis da ... 
+
+Imponerende sømløst 
+
+I testen av Surface Book skrøt vi av den sømløse koblingen mellom skjermen og tastaturdelen. 
+På Book One er den faktisk enda mer sømløs. 
+Det er faktisk knapt mulig å oppdage at skjermen kan hektes av, med mindre du vet om det. 
+
+Som på Surface Book løsnes skjermen med en elektronisk styrt mekanisk lås. 
+Utløserknappen sitter på høyre side. 
+
+Dessuten er de to leddene mellom tastaturdelen og skjermfestet konstruert slik at det ikke blir noen glippe mellom skjermen og tastaturet når Book One er klappet sammen. 
+Det forsterker følelsen av at dette er en maskin som kan være 100 prosent bærbar PC og 100 prosent nettbrett. 
+
+Og skjermen innbyr definitivt til utstrakt bruk. 
+Den er svært høyoppløst, passe lyssterk og kan skille mellom ti forskjellige berøringer. 
+IPS-panelet sørger for meget god innsikt fra sidene, noe som er fint når du for eksempel må vinkle skjermen for å unngå refleksjoner, eller for å vise skjermen til andre. 
+
+Bruker du det løst, kan du boltre deg med et meget kraftig nettbrett som kan kjøre alt av Windows-programmer, med en vekt på beskjedne 758 gram. 
+Det er imponerende! 
+
+Over skjermen sitter to kameraer som sørger for at du kan logge deg på Windows med ansiktet ditt, gjennom Windows Hello-teknikken. 
+Så langt er inntrykket for det meste tipp topp. 
+
+Her ble vi litt skuffet 
+
+Det Porsche Design tydeligvis ikke har tenkt på, er forskjellige bruksmodi mellom PC og nettbrett - for eksempel teltmodus, der svært lite av PC-en berører bordet - ideelt til filmer og presentasjoner, og til å vise bakeoppskrifter på et bord fullt av mel. 
+
+Her skjønner rett og slett ikke skjermen at den skal snu seg automatisk, slik nær sagt alle andre PC-er med 360-graders skjermer gjør. 
+Den snur seg kun når den er dyttet helt rundt, eller når den er løsnet fra tastaturdelen. 
+
+Vi kan heller ikke slippe leddene helt ennå. 
+De er konstruert og virker som tannhjulene i en girkasse. 
+Smart nok, men dessverre holder de ikke helt Porsche-standard. 
+Det er rett og slett for mye dødgang og slark. 
+
+I tillegg virker skjermen litt for tung for konstruksjonen. 
+Bøyer du den langt nok bakover, klarer ikke hengslet å holde igjen, og den siger helt ned i bordplaten. 
+I tillegg vipper også tastaturdelen opp når vinkelen blir for bratt. 
+
+Videoklippene under illustrerer hva vi mener: 
+
+Beklager, Porsche Design - dette burde vært kvalitetssikret bedre på et produkt til 27.000 kroner, mener vi. 
+
+Litt mer småplukk her og der 
+
+Tastatur og pekeplate fungerer derimot godt. 
+Tastaturet er fast og fint, tastene er responsive og støyer lite under tasting. 
+
+Brukeropplevelsen er i det hele tatt svært lik som på Surface Book, også på det som er mindre bra. 
+Baklyset på de grå tastene er for eksempel like ujevnt, og under enkelte lysforhold kan det være vanskelig å se hva som står på dem. 
+For dem som kan touch-metoden og kjenner qwerty-tastaturer i blinde, er det ikke noe problem - men for alle andre kan dette være hemmende. 
+
+Den medfølgende pennen fra Wacom skal ifølge spesifikasjonene være enda mer følsom for trykk enn pennen til Surface Book. 
+I bruk opplevde vi det ikke slik. 
+Vi følte vi måtte trykke hardere, og presisjonen virket ikke like god. 
+Det kan muligens være knyttet til en feil ved vårt eksemplar - noe vi dessverre ikke har fått sjekket. 
+
+Hva er den lyden? 
+
+Book One er utstyrt med en liten kjølevifte som spinner opp ved tung belastning, men den opplevde vi aldri som sjenerende. 
+Viftekjøling er noe du fortsatt må leve med når du velger en maskin med såpass kraftig prosessor. 
+
+Det som imidlertid kan være litt sjenerende, spesielt i svært stille omgivelser, er at maskinen kan avgi elektroniske pipelyder under tung belastning. 
+Dette er lave, høyfrekvente lyder som nok fornemmes bedre av enkelte (yngre?) enn andre - hvis det er helt stille i rommet. 
+Også når maskinen står til lading, har vi fornemmet en høyfrekvent monoton pipelyd. 
+Den er lav, men akkurat høy nok til at de med hørselen i orden spør seg «hva er den pipelyden?» 
+
+Kjapp til det aller meste 
+
+Intel Core i7-prosessoren er toppmodellen i U-serien, og byr naturligvis på meget god ytelse til de aller fleste oppgaver. 
+
+Ytelsen ligger marginalt over Surface Books forrige generasjons prosessor, (våre målinger viser 5436 mot 5293 poeng i Passmark Performance Test), noe som skulle bety at forskjellen knapt er merkbar i praksis. 
+
+Merk at grafikkytelsen er dårligere enn på Surface Book Performance Base, som har dedikert (spill)grafikkort. 
+Det har ikke noe å si for normal bruk, men liker du å spille et spill i ny og ne, vil du raskere oppleve hakking på Book One enn på konkurrenten fra Microsoft. 
+
+Begge har PCIe-basert SSD med svært høy lesehastighet. 
+På skrivehastighet parkeres imidlertid Book One skikkelig, jf tall fra Passmark Performance Test og Atto Disk Benchmark (maks 569 MB pr sekund, mot Surface Books 1,1 GB pr sekund). 
+
+Både lese- og skriveytelsen viste seg dessuten av ukjente grunner å være svært variabel på Book One - og den følger ikke det normale mønsteret der store filer nødvendigvis leses og skrives raskere enn mindre. 
+
+Hva så med batteritiden? 
+Har du lest testen vår av Surface Book Performance Base, husker du sikkert at den hadde svært god batteritid - vi målte de to batteriene kombinert til 923 minutter ved kontinuerlig strømming av video i 720P. 
+Book One måtte gi tapt etter 684 minutter. 
+Det er 11 timer og 24 minutter, noe som absolutt er et meget godt tall - men altså godt bak konkurrenten fra Microsoft. 
+
+Porsche Design anslår rundt 14 timer med variert bruk, vi tror tallet ligger nærmere 12-13, men det er fortsatt meget bra. 
+
+Konklusjon 
+
+Porsche Design Book One er foreløpig den mest sømløse sammensmeltingen mellom et nettbrett og bærbar PC vi har sett. 
+Materialvalg, skjerm og utstyrsnivå gir absolutt en premiumfølelse, men når vi tar maskinen i bruk finner vi dessverre en del å sette fingeren på. 
+
+Til tross for at den er til dels bedre oppdatert på maskinvare og er enda mer fleksibel i konstruksjonen enn Surface Book, virker det som om sistnevnte har gått et par ekstra runder hos ingeniørene før den havnet på produksjonsbåndet. 
+
+Book One er langt fra noe dårlig produkt, på mange områder er den faktisk meget god. 
+Men når du legger 27.000 kroner på bordet for en ny datamaskin, er det lov å være svært kritisk. 
+Det er vår mening at du bør kunne forvente litt mer for pengene enn det du får her, jamfør plussene og minusene i boksen under. 
+
+Siden vi gir firere til produkter som gir deg det du bør forvente til den prisen du betaler, ender vi derfor til slutt på en sterk treer. 
+
+Vi understreker at vi først og fremst har vurdert Book Ones egenskaper som bærbar PC, slik vi gjør i alle tester av 2-i-1-produkter. 
+
+Porsche Design Book One 

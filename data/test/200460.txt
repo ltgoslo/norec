@@ -1,0 +1,82 @@
+Mailstore: 500.000 e-poster i lomma
+Her er løsningen for deg som aldri sletter e-poster. 
+
+Etter mange år som DinSide-ansatt, har det blitt noen e-postmeldinger. 
+Rundt 50-60 GB og 500.000 meldinger, for å være litt mer nøyaktig. 
+Og i årenes løp har jeg neppe slettet mer enn et par hundre e-poster totalt. 
+
+Noen vil kanskje kalle det en sykdom, å ikke klare å kvitte seg med gamle meldinger. 
+Det er kanskje en diagnose for slikt, men jeg har mange eksempler på situasjoner der samlemanien har kommet til nytte. 
+
+All erfaring tilsier ... 
+
+Hva med deg? 
+
+Sletter du gammel e-post? 
+(Avsluttet) 
+
+For eksempel da en stor skjermdistributør sendte et krav på 180.000 kroner til oss en høstdag for noen år tilbake. 
+
+Selskapet hadde hatt en opprydning internt, og savnet returopplysninger på et større parti LCD-skjermer vi hadde testet halvannet år tidligere. 
+Men etter noen søk i e-postarkivet fant jeg budbilbestillingen, og vips, var saken heldigvis ute av verden. 
+
+Noen ganger får jeg også henvendelser fra pr-folk, distributører og lesere som sier «takk for sist», men når de små grå ikke strekker til er det greit å kunne søke i e-postarkivet før man sender svar tilbake. 
+
+Informasjonsmengde over alle støvleskaft 
+
+Utfordringen har etterhvert blitt å finne et system som kan holde orden på denne konstant voksende, ustrukturerte og stadig mer uoversiktlige datamengden, slik at søk kan gjøres kjapt og greit uten at maskinen får krupp og svettetokter. 
+
+Helst bør den også kunne gjøres fra hvilken som helst PC jeg jobber på. 
+
+Og det er her MailStore Home kommer som en gave fra oven. 
+Dette gratisprogrammet er et frittstående, søkbart arkivsystem for e-post, og det kan importere e-postmeldinger fra Outlook, Thunderbird, Gmail, webmail og en rekke andre e-postprogrammer og -systemer. 
+
+Kopier av e-postmeldingene med eventuelle vedlegg blir altså lagt i en database og indeksert slik at det kan søkes på kryss og tvers av mapper og kontoer. 
+Dermed finner du forhåpentligvis raskt alt du var på utkikk etter. 
+
+Nytt i siste utgave av programmet, er støtte for å importere e-post direkte fra Outlook PST-filer, uten at du behøver å ha Outlook installert på datamaskinen. 
+
+Og så kan du konfigurere programmet slik at nye e-poster kopieres til databasen automatisk, så snart de er på plass i innboksen din, eller du kan gjøre det manuelt. 
+Etter hvert kan du ta backup av mailstore-databasene til eksterne disker, nettverksstasjoner eller nettskyen, og skulle du få behov for det kan du konvertere e-posten din fra ett format til et annet. 
+Alt i ett og samme program, altså. 
+
+Sparer plass 
+
+Meldingene lagres i et MIME-kompatibelt format, som i praksis betyr at kompatibilitet med eksisterende og fremtidige e-postprogrammer skulle være godt ivaretatt. 
+Ja, du kan faktisk velge hvilket program du ønsker å åpne meldingen i, hvis du av en eller annen grunn ikke er fornøyd med presentasjonen i MailStore. 
+
+MailStore er imidlertid langt smartere enn de fleste e-postprogrammer, da like meldinger og vedlegg kun lagres én gang. 
+Det betyr at meldinger med svære filvedlegg som du har fått flere av og videresendt en rekke ganger, inneholder ikke en fysisk kopi av vedleggene, men kun en peker til én og samme fil i databasen. 
+Dermed sparer du diskplass. 
+Men når det er sagt: 
+Mailstore deler databasene over flere mindre filer, og har i utgangspunktet ingen begrensning hva totalstørrelse angår. 
+Det lover godt for e-postjunkier som meg selv. 
+
+Hvor raskt et søk foretas avhenger av hvor mange forekomster som finnes. 
+Færre søkeresultater = raskere visning. 
+I vårt eksempel "gnagsårplaster" tok det et knapt sekund å returnere de åtte resultatene. 
+Intet mindre enn imponerende! 
+
+Portabel versjon, ja takk! 
+
+Det beste med MailStore er imidlertid at det har kommet i en portabel versjon som ikke krever installasjon. 
+Det betyr at du kan ha programmet og databasen(e) liggende på en minneplugg eller mobil harddisk, og så er det bare å plugge den i hvilken som helst PC med Windows, kjøre programmet, og søke med det samme. 
+PC-en trenger ikke en gang å ha installert et e-postprogram for at du skal kunne bruke MailStore Home Portable. 
+
+De 50 gigabytene med e-post ble i mitt tilfelle redusert til under 30, og hele MailStore Home Portable og 16 år med indeksert e-post er nå kopiert til en 32 GB romslig minneplugg. 
+
+Moro med søk 
+
+Her er noen interessante og mindre interessante søkeresultater: 
+
+Kollega Pål Joakim Olsen sendte sin første e-post til DinSide fire år før han ble ansatt. 
+Ordet "finanskrisen" dukket opp i en e-post første gang 16. september 2007, i en pressemelding om at "finanskrisen er fortsatt ikke over" (var den i det hele tatt begynt?). 
+Siden har ordet vært brukt i 761 andre e-poster. 
+Ordet "ripsbær" finnes i 0 e-poster. 
+Ordet "iPhone" ble brukt i forbindelse med Apple-spekulasjoner i Digis nyhetsbrev allerede 20. august 2002, fem år før Apple tok i bruk navnet. 
+Den populære frasen "synergier" er brukt i 226 e-poster. 
+Ordet "viagra" finnes i kun 189 e-poster Ordet "Facebook" finnes i hele 13.758 e-poster 
+
+MailStore Home fungerer i Windows Vista og nyere, og er gratis for skrivebordet, mens en serverversjon myntet på bedrifter koster penger. 
+
+Du finner mer informasjon og kan laste ned programmet fra denne siden (6,7 MB). 

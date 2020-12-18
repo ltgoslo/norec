@@ -1,0 +1,138 @@
+Android 7-telefon til under 2.000 kroner
+Mens vi venter på G5 Plus – hvordan er lillebror? 
+
+I fjor høst trippeltestet vi tre telefoner til rundt 2.500 kroner. 
+Den beste av de tre var Moto G4 Plus, som også har høstet svært gode kritikker internasjonalt, og som av mange ble ansett som ett av de beste kjøpene i fjor for folk med begrenset budsjett. 
+
+I år kommer Motorola med oppfølgere til G4-telefonene – Moto G5 og G5 Plus. 
+Sistnevnte er ikke sluppet ennå, men i mens har vi fått låne minstemann, G5, til test. 
+
+I tabellen under ser du de viktigste forskjellene mellom de to: 
+
+Plus-utgaven har altså kraftigere maskinvare, dobbelt så mye lagringsplass, litt større skjerm og NFC-støtte. 
+
+Verdt å merke seg er også at dette er et kroneksempel på at antallet megapiksler ikke er et mål på kameraets kvalitet. 
+G5 Plus-kameraet har riktignok færre megapiksler, men det er mer lyssterkt, har en større sensor og også raskere autofokus, med dual pixel-teknologien kjent fra Samsung Galaxy S7-telefonene. 
+
+Ja, faktisk er kameraspesifikasjonene på Plus-modellen såpass like nevnte Samsung-telefoner at det godt kan hende kameraet på G5 Plus vil være blant de beste på markedet, og det til en svært god pris. 
+Men det får vi se på når den kommer for salg om en måneds tid. 
+
+Ganske tykke rammer 
+
+Lillebror Moto G5 koster altså snaue 2.000 kroner i nettbutikkene, men det er også lite ved konstruksjonen som får oss til å tro at den koster mer. 
+
+Rammene rundt skjermen er ganske store. 
+Skjermen dekker bare 65,3 prosent av arealet, det svakeste forholdet på en fem-tommer av telefonene vi har testet, og telefonen er for eksempel bittelitt bredere enn Samsung Galaxy S7 Edge, selv om skjermen der er vesentlig større, med sine 5,5 tommer. 
+
+Riktignok er bakdekselet nå i metall (i hvert fall mesteparten), fremfor plast som ble brukt i forrige generasjon. 
+Baklokket kan man faktisk ta av helt, og Moto G5 har et utskiftbart batteri, slik at du kan skaffe et batteri nummer to om du skal på langtur uten strøm. 
+
+Fortsatt er det en micro USB-port i bunnen, og ikke den nye USB-C-typen. 
+På den positive siden synes vi telefonen ligger veldig godt i hånda med sine avrundede kanter. 
+Noen sylfide er den imidlertid ikke, med tykkelse på 9,5 mm. 
+
+Verdt å merke seg er at telefonen har støtte både for minnekort og et ekstra SIM-kort, for den som vil skille jobb og privat, eller er så ofte i utlandet at man skaffer et utenlandsk SIM-kort i tillegg. 
+
+Skjermen er altså fem tommer over diagonalen og har full HD-oppløsning, som gir en meget god skarphet, men slik oppløsning har nå blitt ganske vanlig også blant rimeligere telefoner. 
+
+Fingeravtrykksleser 
+
+Telefonen har fingeravtrykksleser under skjermen, som ikke er så vanlig i denne prisklassen. 
+Den er ikke like kjapp som de beste om dagen, men er allikevel presis nok til at opplåsning går ganske kjapt og at vi mer enn gjerne bruker den. 
+
+Som på Huawei P10 kan du velge om du kun vil navigere via denne sensoren eller med knapper på skjermen. 
+
+Velger du det første kan du sveipe til venstre fra den for å gå tilbake, eller til høyre for å bytte app. 
+Holder du den litt inne, slukker du skjermen, mens du ved å holde den enda lenger inne starter Google. 
+Og det fungerer stort sett greit, selv om den innimellom oppfatter feil. 
+Da er veien kort til å bruke skjermknapper i stedet. 
+
+Men – velger du å ha ikonene på skjermen, fungerer ikke fingeravtrykksleseren som en hjemknapp, som vi også her synes er litt snodig. 
+Du kan imidlertid fortsatt låse telefonen ved å holde den litt inne. 
+
+Ganske ren Android 
+
+Motorola har aldri vært selskapet som har tuklet så mye med Googles originale Android-variant, og det gjelder heller ikke for G5 Plus. 
+
+Launcheren fungerer akkurat på samme måte som Googles Pixel Launcher, som sitter i de nye Pixel-telefonene, der du åpner app-skuffen ved å sveipe opp fra bunnen av skjermen. 
+
+Innstillings- og varslingsmenyene er også helt like, og for ordens skyld kjører denne telefonen Android 7. 
+Det følger heller ikke med noen tredjepartsapper man ikke trenger, og det er kun én nettleser (Chrome), én galleri-app (Google Foto), én musikkspiller (Google Musikk) og så videre. 
+
+Men litt krydder har Motorola lagt på toppen. 
+
+«Hakk» to ganger for å starte lommelykta 
+
+Et par av funksjonene utnytter gyro-sensoren i telefonen. 
+Du kan gjøre en hakkebevegelse to ganger for å starte lommelykta uansett hva du måtte drive med på telefonen (eller om telefonen er avslått), eller flikke håndleddet to ganger for å starte kameraet. 
+
+Er du allerede i kameraappen, bytter du mellom front- og bakkamera på samme måte. 
+I hvert fall når det fungerer fint – i eksempelet under starter vi kameraet på første forsøk, men bruker fem nye for å komme til frontkameraet: 
+
+Kjekk er også muligheten til å dra fingeren opp fra bunnen av skjermen for å krympe bildet slik at du lettere rekker opp til motsatt hjørne når du bruker én hånd. 
+
+Varsler tenner skjermen forsiktig, og ved å holde fingeren nede på ett av ikonene, kan du lese av innholdet, forutsatt at du har valgt å vise sensitivt innhold på låseskjermen. 
+
+Relativt beskjeden maskinvare, men gjør det noe? 
+
+På innsiden snurrer det en Snapdragon-prosessor av den litt enklere sorten, nærmere bestemt Snapdragon 430. 
+Men Moto G5 har i det minste fått respektable 3 GB arbeidsminne (RAM) innabords, som gir den gode muligheter til å håndtere flere ting samtidig. 
+
+Kjører vi igjennom de sedvanlige ytelsestestene, er det ikke så mye å rope hurra for. 
+Faktisk får vi marginalt litt svakere ytelse enn fjorårets G4 Plus på brorparten av testene; blant annet med 9.379 poeng på 3DMark (cirka 1/3 av de beste telefonene) og 44.676 på AnTuTu (igjen rundt 1/3 av de beste telefonene). 
+
+Men det er tall. 
+I daglig bruk opplever vi Moto G5 som en telefon som presterer godt – flyten i operativsystemet og ved nettsurfing opplever vi som helt fin, som nok også skyles at Motorola ikke gjør mange endringer med Googles «rene» Android-opplevelse. 
+
+Vi har prøvd en håndfull spill, og det meste lar seg fint spille også på en såpass rimelig telefon. 
+2D-spill, eller 3D-spill med enkel grafikk, går helt smertefritt, selv om vi merker at vi ikke har en toppmodell i hendene når vi spiller spill som endless runner-spillet Sky Dancer, der både bildeflyt og detaljnivå er svakere enn på dyrere telefoner. 
+Men det går fint an å spille allikevel. 
+
+Også Facebook-feeden kan lugge litt her og der mens man skroller nedover, og apper som Google Maps oppleves ikke helt flytende når man skroller rundt i kartet, men dette er typiske ofre man gjør ved å velge en telefon til 2.000 kroner. 
+
+Andre begrensninger maskinvaremessig er manglende støtte for 4G+, og at man maksimalt kan filme med full HD-oppløsning, og ikke 4K. 
+
+Hva angår batteriet er det på 2800mAh, og de fleste vil derfor oppleve at batteriet varer dagen ut ved normal bruk. 
+Det følger med en 10,4W-lader (5,2V/2A) som lader telefonen med grei nok fart (15-41% på 30 minutter), selv om den også støtter Quick Charge 3.0 med høyere effekt. 
+En slik lader er i så fall noe du må kjøpe ved siden av (15W følger med Plus-utgaven). 
+
+Merk også at telefonen har 16 GB lagringsplass, som ikke er allverden i disse dager, men som i det minste kan utvides med et micro SD-kort. 
+
+Den eksterne høyttaleren er plassert på toppen av telefonen og serverer ganske spak lyd og kun i diskant-registeret. 
+
+Hva med kameraet? 
+
+Kameraet på Moto G5 har altså oppløsning på 13 megapiksler, med lysstyrke på f/2,0. 
+Pikselstørrelsen skal være 1,1µm, som da gir en sensorstørrelse på 1/3,2"; blant de minste. 
+For øvrig er frontkameraet på 5 megapiksler med blenderåpning på f/2,2. 
+
+Selve appen er ganske ren og brukervennlig, med mulighet for manuelle innstillinger om du er komfortabel med den slags. 
+Kameraet kan også by på fasebasert autofokus og automatisk HDR-funksjon, der kameraet i kontrastrike situasjoner tar flere bilder som sys sammen til ett. 
+
+Vår erfaring er at kameraet oftere kunne ha brukt sistnevnte funksjon. 
+Under er et bilde der den ikke er brukt, og som gir en helt utbrent himmel, selv om toget i front er nokså mørkt. 
+Med andre ord er det dynamiske omfanget ganske begrenset på dette kameraet. 
+
+Jevnt over opplever vi at lysmåleren i Moto G5-kameraet ofte undereksponerer bildene, der mørke partier blir ekstra mørke. 
+
+Kameraet gjør det heller ikke spesielt godt i svak belysning. 
+Under ser du et bilde der vi sammenligner med Huaweis toppmodell, Mate 9 Pro, og der Motorola-kameraet kommer veldig til kort: 
+
+Og når det er skikkelig mørkt, kunne automatikken med fordel ha brukt lengre lukkertid. 
+Her ender vi ofte opp med praktisk talt sorte bilder. 
+
+Ikke så imponerende kamera i Moto G5, med andre ord, men helt greit i denne prisklassen. 
+
+Konklusjon 
+
+Når man kjøper en mobiltelefon til 2.000 kroner gjør man nødvendigvis noen kompromisser mot toppmodellene som kan være tre og fire ganger så dyre. 
+
+I Motorolas tilfelle handler det om relativt svak maskinvare, et kamera litt under pari, begrenset lagringsplass og en ganske stor utforming sammenlignet med skjermstørrelsen. 
+
+Gledelig er imidlertid full HD-oppløsning på skjermen, støtte for både minnekort og to SIM-kort, en god fingeravtrykksleser og en praktisk talt «ren» Android-opplevelse som glir ganske greit i daglig bruk. 
+
+Dog spørs det om ikke det ble i overkant mange kompromisser denne gangen, og at Plus-utgaven, som er 800 kroner dyrere, vil fremstå som et bedre kjøp. 
+I hvert fall gjør den det på papiret. 
+
+Moto G5 (3GB RAM) 
+16GB 

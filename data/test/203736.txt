@@ -1,0 +1,217 @@
+Derfor gir vi elbilen til Audi terningkast seks!
+Vi har testet en av årets store elbilnyheter - på norsk vinterføre. 
+
+Snøen laver ned og kulda biter. 
+Elbil24.no utfører her det som faktisk er verdens første rekkeviddetest av Audis nye helelektriske bil, e-tron. 
+Det er jo ganske overveldende at over 7.000 kunder går og venter på bilen de har bestilt, uten helt å vite eksakt hva de venter på. 
+
+Dette er fjerde gang vi kjører nykomlingen, og endelig kan vi si noe om det de fleste faktisk lurer på, forbruket og rekkevidden. 
+
+Bare for å rydde unna det elementære med en gang. 
+Elbil24.no har tidligere skrevet om detaljene, men kan likevel kjapt nevne at bilen har firehjulsdrift i form av to motorer, en foran og en bak, som samlet kan by på 408 hestekrefter fra et dreiemoment på 664 Nm. 
+
+Sprinten til 100 km/t går unna på 5,7 sekunder, og toppfarten er begrenset til 200 km/t, ifølge papirene. 
+Dette har vi ikke testet, ettersom verken føre eller fartsgrenser tillater det. 
+
+Bagasjerom og plass i baksetet har vi også tatt for oss i tidligere saker, men du har 600 liter til rådighet helt bakerst før du legger ned seter, pluss 60 liter i frunken under panseret. 
+
+Det mange vil vite er hva forbruket ligger på, hva rekkevidden er i praksis, og hvor raskt den faktisk kan lade. 
+Dette har vi også testet. 
+
+Kuldefaktoren 
+
+To forbrukstester blir sjelden kliss like i praksis, ettersom det er mange variabler som spiller inn. 
+Temperatur, kjørelengde, hjuldimmensjon, elevasjon, og vær og føreforhold er hver for seg med på å påvirke. 
+
+Hvorfor dette gir enda mer direkte utslag på en elbil er grunnlag for en egen sak i seg selv. 
+
+En elbil er vel så utsatt for kaldstarter som enhver annen bil, bare av andre årsaker. 
+De første kilometerne og milene er de desidert dyreste med tanke på energiforbruk, og det er naturlig nok disse kortere turene de fleste av oss har flest av. 
+
+Vintertester kan derfor gi skremmende resultater, spesielt på de første kilometerne. 
+Det er her bilprodusentenes evne til å skape, utnytte, og beholde varmen slår inn, og det er store forskjeller elbiler imellom. 
+
+Batterikassen i e-tron er markedets nest største, en massiv klump på 700 kg, som helst ville hatt en driftstemperatur på 20-30 varmegrader året rundt, om det fikk bestemme selv. 
+
+Slikt koster det energi å varme opp, selv om batteriet aldri får smake slike temperaturer igjen før til våren. 
+
+Kjøle eller varme? 
+
+På enhver billansering, uansett bilprodusent, blir vi tutet ørene fulle av lovord om hvor flinke ingeniørene har vært til å lage kjølesystemer for batteriene. 
+Dette fordi høye temperaturer kan skade batteriene. 
+
+Kulde er teknisk sett et langt mindre problem, og vektlegges ikke i samme grad – til norske elbilisters ergrelse. 
+
+Vi må rett og slett finne oss i tap av både rekkevidde og ladehastighet, når kuldegradene kommer. 
+
+Vi skal likevel ikke hakke veldig på Audi i denne sammenhengen. 
+Med e-tron de har lagt seg i selen og dratt mye bra teknologi opp av hatten. 
+De kjøler og varmer blant annet motorene gjennom rotorene i elmotorene, og benytter deler av denne energien om igjen. 
+
+Det sitter også to forskjellige varmere i bilen, hver av dem med en maksimal effekt på 5 kW - altså hele 10 kilowatt varme, om nødvendig. 
+
+Varmerne har hovedprioritet på batteri og drivverk, og overskuddsvarmen brukes til å varme kupéen – noe som er mer enn nok. 
+Du trenger med andre ord aldri fryse i e-tron, så lenge du har strøm, og det er sakens kjerne. 
+
+Sløser du med varmen, vil det spise merkbart av rekkevidden. 
+En rask lek med temperaturjusteringen, og du får den brutale sannhet vist på rekkeviddemåleren. 
+
+Forbruket 
+
+Testen elbil24.no har utført starter på en god norsk vinterdag. 
+Snøføyka har lagt seg og etterlatt seg et hvitt dekke på småveiene. 
+Hovedveiene rr brøytet og saltet, temperaturmåleren viser - 6,5 grader, og batteriet er naturligvis fulladet. 
+
+Som alltid er vi bare en person i bilen under tester, uten annen bagasje enn test- og kamerautstyr. 
+Klimaanlegget er stilt inn på 22 grader med «A/C Eco» innkoblet, klimaanlegget i baksetet skrudd av, og valgt kjøreprogram for anledningen var «Efficiency». 
+Radioen står på. 
+
+Når alle innstillinger er gjort, sier bilen at den vil nå 323 kilometer. 
+
+Enhver endring du gjør gir nemlig et nytt estimat for hvor lang rekkevidde du vil oppnå, også ved endring av temperatur i kupéen. 
+
+God tur 
+
+Til å begynne med er forbruket ekstremt, men roer seg raskt. 
+Etter fem mil noterer vi et forbruk på 2,78 kWh/mil, men stadig synkende. 
+Etter disse fem milene er bilen varm, og den andre kjørekomputeren bleir nullet. 
+Dette for å få et nytt forbruk på varm bil etter ytterligere fem mil. 
+
+Dette gir et nytt forbruk på 2,29 kWh/mil for varm bil, mens miksen på de totalt 10 kjørte milene viser 2,56 kWh. 
+
+Når føret og temperaturen legges til grunn, er dette omtrent som ventet. 
+
+På elbiler er det interessant å finne referanseforbruket, det forbruket man må ha for å opprettholde en gitt hastighet på helt flat vei. 
+På Audi e-tron virker dette å ligge rundt 2,3 kWh per mil ved en hastighet på 80 km/t, med disse forholdene og ikke minst hjulene. 
+Bilen står på piggfrie vinterhjul i dimensjon 255/55 R19. 
+
+Kald bil og mye gassing trekker forbruket opp fra referanseforbruket, mens regenerering eller lavere hastigheter trekker ned. 
+80 km/t er dessuten en gjennomsnittshastighet man ikke klarer å holde på lovlig vis over lengre distanser, så sant man ikke holder seg på motorveiene. 
+Det prøver vi å unngå. 
+
+Fasiten 
+
+Men så til det neste mange lurer på: 
+Hva blir den endelige rekkevidden, og hva sier forbruksmålingen ved veis ende? 
+Etter mange timer bak rattet triller jeg inn til lynladeren med bare 1 prosent igjen på batteriet. 
+Dette tilsvarer 7 kilometer, ifølge kjørekomputeren. 
+Da har bilen rullet 322,3 kilometer siden den var fulladet. 
+Temperaturen ute er nå halvannen kuldegrad. 
+
+Samlet vil det altså være mulig å komme 329,3 kilometer, om resten hadde blitt brukt opp. 
+Det samlede forbruket er 2,51 kWh per mil. 
+
+I dette regnestykket må det tas med at testen ble startet med kald bil, uten forvarming, og at bilen måtte bruke de første milene på å oppnå trivselstemperatur på både kupé, batterier og øvrig drivverk. 
+
+I tillegg er den hele veien pakket med snø og is i enhver glippe i karosseriet, for ikke å snakke om de tettpakkede hjulhusene. 
+Kong Vinter har tatt knekken på alt som het aerodynamikk, og denne er faktisk viktigere enn vekten. 
+
+Returen 
+
+Etter å ha ladet til det formelig rant over, og nullet alle instrumenter, bærer det tilbake igjen etter samme prosedyre. 
+Bilen forteller da at den er klar for nye 341 kilometer, så det var bare å sette igang. 
+
+For å gå rett på sak: 
+Når jeg igjen parkerer hjemme på tunet er resultatet helt identisk - 2,51 kWh/mil. 
+Det virker med andre ord som om dette kan ses som et etablert forbruk under slike omstendigheter. 
+
+Men som jeg startet med å si, to forbrukstester blir sjelden helt like, selv om de ble det her. 
+
+Hva potensialet vil være på en god sommerdag, blir bare vill gjetting. 
+Men under den offisielle presselanseringen i Abu Dhabi endte vi opp på et forbruk på rundt 2,38 kWh/mil i 28 varmegrader. 
+Da var vi fire voksne med bagasje i bilen, hadde ett knepp større hjul, og en snitthastighet på 90 km/t. 
+
+Med mer normale forhold, som bare én person i bilen uten bagasje, 20-toms hjul, lavere snitthastighet og ikke riktig så varmt, tror jeg e-tron vil ha et forbruk som ligger et sted rundt 2 kWh, eller til og med rett under. 
+I det minste når de offisielle tallene kommer, som ofte er en smule optimistisk. 
+Bare det å gå ned en dimensjon på hjulene skal resultere i en reduksjon på 0,2 kWh per mil, ifølge en representant fra Audi som jobber med aerodynamikk. 
+
+Vinterbilen e-tron 
+
+Bare for å ha sagt det med en gang: 
+Audi e-tron er virkelig en vinterbil, og har uten tvil det beste systemet for firehjulsdrift vi noen gang har kjørt - uansett øvrig drivlinje. 
+
+Audi kaller det naturligvis quattro, som er greit nok, men i e-tron har de hatt helt andre virkemidler å leke med under utviklingen enn det de kan med mekaniske systemer. 
+Vi fikk en forsmak på dette under prøvekjøringen av den dekorerte konseptbilen vi testet i løs sand i oktober. 
+
+Antagelsene om hvor morsomt dette kom til å bli på vinterføre, er på ingen måte gjort til skamme. 
+
+Dette takket være elmotorenes umiddelbare respons, og at for- og bakaksel er to helt adskilte enheter. 
+På bensin- og dieselmotoriserte biler må det brukes senterdifferensialer for å fordele kreftene mellom foran og bak. 
+Da må 100 prosent av kreftene fordeles til 50:50, hvis begge akslinger skal få like mye. 
+
+På elbiler er det snakk om 100:100, og en langt større kontroll og frihet i kraftdistribusjonen, ettersom man ikke får noen mekanisk forsinkelse av noe slag. 
+
+Med de forskjellige oppsettene i Drive Select-systemet finner du helt sikkert et program etter ditt eget ønske. 
+Om ikke er det bare å skru alt av, og du kan herje fritt – med full kontroll. 
+Da har du en bil som er tilnærmet helt bakhjulsdreven. 
+
+Lavere og stillere 
+
+En interessant detalj er at bilen i posisjonen «Efficiency» senkes enda lavere enn hva den er i «Dynamic», som normalt skal være det sportslige programmet. 
+
+Dette skyldes at Audi i effektivitetsprogrammet vil ha den til å avgi så liten luftmotstand som mulig. 
+
+Det er ikke dermed sagt at dette er det mest komfortable programmet du finner, men likevel helt greit. 
+
+Bilen er også den klart stilleste elbilen på markedet. 
+Vi målte støynivået i kupeen til 62 dBA som et gjennomsnitt over 15 sekunder i 80 km/t. 
+
+Da må det legges til at testbilen var utstyrt med akustikkglass - doble vinduer som er laminert for ekstra støydemping. 
+
+Dette var derimot første gang vi kjørte bilen uten de mye omtalte kameraspeilene. 
+Med akustikkglasset er det forsvinnende lite vindstøy å spore fra de ganske så store speilhusene. 
+Vil det da være verdt å legge penger i kameraspeilene? 
+Vi er faktisk usikre. 
+
+Det uheldige 
+
+Men ingen bil er perfekt, heller ikke e-tron. 
+Noen kan mene forbruk og rekkevidde ikke tilfredsstiller. 
+Andre bryr seg filla, for de vet at de våkner med fulladet batteri hver morgen uansett. 
+
+Under de føreforholdene vi hadde under testen av rekkevidde, mener vi det er akseptabelt, selv om vi gjerne skulle sett et lavere forbruk og enda lenger rekkevidde. 
+
+Det vi derimot vil sette fingeren på, er mangel av varmetråder der vindusviskerne foran legger seg. 
+
+Varmen på ruta smelter snøen, som deretter renner ned til bunnen av ruta og fryser til is. 
+Også mens viskerne ligger der. 
+Elbiler har ikke en motor i fronten som avgir et snev av varmelekkasje, og det pakker seg derfor lettere på disse stedene. 
+
+Når du deretter skal bruke viskerne, drar de med seg snø og is opp på ruta igjen, og gjør nesten vondt verre, med tanke på sikten. 
+
+Pass også på å feie vekk absolutt all snø rundt fordørene før du åpner dem. 
+Alternativet er å måke innvendig, også. 
+
+Audi har forresten bevisst valgt ikke å gi bilen veldig mye regenerering, selv om du har fire nivåer å velge mellom. 
+De går fra ingen ting til nivå tre ved hjelp av hendler bak rattet. 
+Men selv på det hardeste nivået er du ikke i nærheten av såkalt one-foot-driving, som mange er blitt vant til. 
+Under lanseringen fikk vi vite at dette var bevisst, ettersom de ikke hadde tro på denne kjøreteknikken. 
+
+Men særlig i Norge finnes det sjåfører som har vendt seg til stilen, og som vil savne den. 
+Selv liker vi i det minste å kunne velge. 
+
+Det betyr ikke at de kaster bort energien av den grunn, for når du bremser med pedalen er det alltid motorene som bremser, helt til du når en bremsekraft på 0,3 G. 
+Først over dette trer bremseklossene til. 
+
+Om vi skal sette fingeren på mer, så må det være at man må opp med to luker for å komme ned i frunken. 
+Først panseret, deretter et hengslet plastlokk som dekker selve oppbevaringsbrønnen. 
+Akkurat dette har Tesla løst elegant ved å bruke en gummilist tilsvarende det vi finner rundt dørene. 
+Dette for å holde støv og skitt ute. 
+
+Så var det varme i rattet, da. 
+Det mangler på testbilen, og er noe vi definitivt ville plukket fra utstyrslisten. 
+
+Den lange listen 
+
+De ovennevnte tingene har et snev av negativt fortegn, men de drukner i alt det positive. 
+
+Etter til sammen rundt 2.000 km bak rattet i e-tron må vi si den er akkurat det vi håpet den ville være - en elbil som strekker strikken for opplevd kvalitetsfølelse, byggekvalitet og premiumfølelse. 
+
+Den har komfort i særklasse, er stillere enn alt annet, har mer krefter enn man normalt ber om, og for de fleste mer enn nok plass. 
+Også kan vi ikke unngå å nevne firehjulstrekken enda en gang. 
+
+Sånn som Audi har satt opp dette i e-tron er det morsomt hver gang det blir glatt igjen. 
+Den er rett og slett en utrolig leken. 
+
+Så hva kan e-tron sammenlignes med? 
+Vel, derom hersker det ingen tvil, for per i dag finnes det bare to konkurrenter – Jaguar i-Pace og Tesla Model X. 

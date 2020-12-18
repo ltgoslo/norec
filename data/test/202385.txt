@@ -1,0 +1,93 @@
+Mobilen som kan filme i super-sakte-film
+…men du skal være rimelig treffsikker for å fange det rette øyeblikket. 
+
+Som tidligere holder Sony god takt hva gjelder lansering av toppmodeller. 
+I september testet vi Xperia XZ, og nå har Xperia XZs (dagens testmodell) kommet på markedet, før Xperia XZ Premium topper lista om en måneds tid. 
+
+Skal du ha årets toppmodell fra Sony, bør du altså vente litt til – XZs er en smått oppgradert variant av høstens XZ-modell, og forskjellene er ikke mange. 
+Det er derfor ikke noe frieri om du har XZ fra før, men heller til deg som har en eldre telefon du vil bytte ut. 
+
+Foruten en ekstra gigabyte med RAM er det kun kameraet som er ulikt mellom XZs og XZ. 
+Øvrige spesifikasjoner er identiske; både fysiske mål, vekt, batterikapasitet (2900 mAh) og så videre. 
+
+Det betyr at du fortsatt får en vanntett telefon med fingeravtrykksleser på siden, en hardtarbeidende Snapdragon 820-prosessor, 32 GB lagringsplass og minnekortstøtte. 
+Lanseringsprisen er 5.290,- kroner for Xperia XZs; en drøy tusenlapp rimeligere enn det XZ var ved lansering i høst. 
+
+Så la oss ikke skrive en full test av den «samme telefonen» en gang til, men heller fokusere på det som er nytt, nemlig kameraet. 
+
+Supersaaaaaaaaaaktefilm 
+
+Den store overskriften denne gangen er at Xperia XZs kan filme med skuddtakt på 960 bilder i sekundet. 
+Det betyr at ett sekund fra virkeligheten kan gjengis over 32 sekunder med video. 
+
+Skjønt – så enkelt er det ikke, for det er begrenset hvor lang tid det tar før kamerabufferet fylles opp. 
+Faktisk klarer XZs bare å holde denne farten i 0,2 sekunder, som da resulterer i rundt seks sekunders video der alt går veldig, veldig sakte. 
+
+Og ikke nok med det – du er selv nødt til å trykke på en knapp mens du filmer for å aktivere denne funksjonen. 
+Med 0,2 sekunder til rådighet, skal du med andre ord være ganske treffsikker på knappen for å fange akkurat det du ville. 
+Du kan lage flere slike saktefilmøyeblikk i samme videoklipp, men du må minst vente et par sekunder mellom hver gang. 
+
+Oppløsningen på super-saktefilm-klippene er begrenset til 1280x720 piksler, og her brukes en tilsynelatende 1:1-mapping på bildebrikken (i utgangspunktet 19Mp), som gir en høyere beskjæringsfaktor og dertil mer «zoomet» bilde. 
+
+Èn begrensning vil selvsagt være at hvert bilde må fanges med en lukkerhastighet på maksimalt 1/960s, som gjør at funksjonen først og fremst fungerer i godt lys. 
+Du kan selvsagt filme med «vanlig» sakte-film også; her med 120 bilder per sekund. 
+
+Under ser du et eksempel filmet med supersakte-funksjonen. 
+Som du ser er ikke bildekvaliteten allverden, men det kan bli ganske stilige resultater når man treffer på timinga. 
+Vi har lagt inn noen flere klipp i fotoalbumet lenger ned. 
+
+Nytt kamera 
+
+I de siste generasjonene toppmodeller har Sonys mobilkameraer levert bilder med 23 megapiksler oppløsning; vesentlig mer enn de fleste andre. 
+I denne runden har japanerne gått ned litt på antall piksler, til fordel for at hvert enkelt piksel da blir større, for sensorstørrelsen er den samme, med klasseledende 1/2,3 tommer. 
+
+Den nye oppløsningen er 19 megapiksler (1,22 µm pikselstørrelse), som også er standardoppløsningen – tidligere tok kameraet bilder med 8 Mp som standard, med mindre man selv justerte det opp. 
+
+Hva gjelder brennvidde tilsvarer denne nå 25mm, kontra 24mm på Xperia XZ. 
+Altså vil du ikke få fullt så «brede» bilder som på Xperia XZ, men fortsatt bredere enn de aller fleste. 
+Lysstyrken er dog den samme – f/2,0, som de senere åra har blitt forbigått av mange. 
+I øyeblikket er det Samsungs S7- og S8-telefoner som leder an med f/1,7, som da slipper inn 38 prosent mer lys enn Xperia XZs. 
+
+Fortsatt synes vi Sony kunne ha polert litt på kameraappen. 
+Den står du selvsagt fritt til å bytte ut, men er for eksempel koblet til den fysiske kameraknappen på kanten av telefonen. 
+
+Spesielt opplever vi det ofte irriterende at telefonen må låses opp for å endre innstillingene, og vi finner det fortsatt pussig at Sony-appen ikke støtter seriefotografering, der du kan holde knappen inne for å ta en haug av bilder på rappen. 
+
+Men den starter raskt, og Sony-kameraet har rask autofokus som også kan forutsi hvor motivet kommer til å være i det du trykker for å sikre den siste skarpheten. 
+En annen kjekk funksjon er at kameraet automatisk tar fire bilder i situasjoner med mye bevegelse slik at du etterpå kan velge hvilke(t) bilde(r) du vil ta vare på. 
+
+Slik blir bildene 
+
+Vi har som vanlig tatt med telefonen rundtom og knipset både her og der mens vi har hatt den til test. 
+
+Jevnt over synes vi Sony Xperia XZs gjør det godt eksponeringsmessig, der kameraet selv i svært vanskelige situasjoner kommer godt ut av det, som under: 
+
+Bildet er noe utbrent i de lyseste partiene rundt sola, men kameraet har allikevel klart å fange situasjonen godt; da på full automatikk. 
+
+Som du kanskje la merke til er både fargemetning og kontrast skrudd relativt høyt fra Sonys side; litt for mye til at det ser helt naturlig ut. 
+Fargene kan du riktignok tone ned i kameraappen om du synes det blir for mye, men rett ut av boksen blir det litt unaturlig, som under, med Sony til venstre og Huawei Mate 9 Pro til høyre, som gir mer korrekte farger: 
+
+Hva gjelder hvitbalanse, får bildene ofte et rosaskjær på gråværsdager, og et gulskjær i typisk innendørsbelysning. 
+Under ser du to eksempler, igjen med Mate 9 Pro på høyre side; et meget godt kamera hva gjelder fargegjengivelse: 
+
+Men fremdeles synes vi Sony kommer til kort mot de beste hva gjelder detaljnivået. 
+Det er særlig tydelig på finere detaljer, som gress og lignende, og det gjelder også på de laveste ISO-verdiene, der bildene får en slags «malt» effekt som ikke ser så pent ut når man inspiserer nøye. 
+
+Hvis man gjør det, da. 
+Vi skal medgi at å titte på 100%-utsnitt ikke er noe vi gjør mye av på bilder vi tar privat – om du stort sett ser bildene på telefonen, og på en PC-skjerm i full størrelse i ny og ne, er ikke dette noe vi tror du vil irritere deg nevneverdig over, så er det sagt. 
+
+Vil du titte på noen av bildene vi har tatt i full oppløsning, zoome inn og se detaljer, har vi lagt en håndfull av dem i dette Google Foto-albumet. 
+Der finner du også flere klipp med supersaktefilm-funksjonen. 
+
+Konklusjon 
+
+Xperia XZs er en litt merkelig lansering fra Sonys side; bare måneder etter en ganske lik telefon i Xperia XZ og kort tid før det kommer en ny toppmodell, XZ Premium, med kraftigere maskinvare og den samme saktefilmfunksjonen. 
+
+Vil du ha en toppmodell fra Sony denne sommeren, bør du med andre ord vente på XZ Premium, og XZs er på ingen måte en nødvendig oppgradering for de som har en XZ fra før. 
+
+Men, det er nå en vanntett telefon med sterk maskinvare, et ålreit kamera med en morsom saktefilmfunksjon, støtte for minnekort og mer til. 
+Dessuten har den en ganske god pris sammenlignet med mange av konkurrentene. 
+
+Vi triller derfor en femmer denne gangen også, slik vi gjorde til Xperia XZ. 
+
+Sony Xperia XZs G8231 

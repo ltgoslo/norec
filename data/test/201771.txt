@@ -1,0 +1,111 @@
+Googles VR-briller har en liten fjernkontroll
+Men fungerer foreløpig til forbausende få telefoner. 
+
+Da Google annonserte Android Nougat i fjor sommer, var en av nyhetene en innbakt VR-funksjon som selskapet har kalt Daydream. 
+
+Dette er en Virtual Reality-plattform kun for Android-telefoner, og der Google stiller ganske strenge krav til telefonene og hodesettene som kan kalles kompatible. 
+
+Blant annet må telefonene tilfredsstille krav innen skjermoppløsing, maskinvare, varmeutvikling, arbeidsminne og den slags. 
+Det gjør at det foreløpig kun er en liten håndfull telefoner som er Daydream-kompatible. 
+Disse er: 
+
+Stjernemerkede telefoner er ikke i offisielt salg i Norge, men er uansett å få tak i fra nettbutikker som importerer selv. 
+Det samme gjelder for øvrig dagens testprodukt, Google Daydream View, som vi fikk låne av Multicom. 
+Vi fikk også låne en Google Pixel XL, og test av den kommer senere. 
+
+Konkurrent til Samsung Gear VR 
+
+VR-løsninger kommer i mange varianter. 
+Den rimeligste utgaven er pappvarianten Cardboard, som det også er Google som står for. 
+Her bretter du litt papp, setter i mobiltelefonen og bruker den som skjerm. 
+Slike briller finnes også i litt mer forseggjorte utgaver i plast som ofte selges til et par-tre hundrelapper hos mange forhandlere. 
+
+Mobiltelefonen brukes også som skjerm på Daydream View, som i likhet med Samsung Gear VR gir litt mer enn den enkle Cardboard-utgaven. 
+På Daydream View følger det også med en liten fjernkontroll som kan brukes for å betjene VR-innholdet. 
+
+I tillegg finnes løsninger som PlayStation VR, som kobles til en PlayStation 4, men som har skjerm innabords, og de enda dyrere løsningene Oculus Rift og HTC Vive, som krever en fullblods PC ved siden av, men som da er de mest avanserte løsningene. 
+HTC Vive bruker for eksempel kameraer festet på veggen til å spore posisjonen din også, slik at det ikke bare er hodebevegelser som spores, men også bevegelse generelt. 
+
+Herlig lite futuristisk 
+
+Mens man nesten føler seg som en stormtrooper med PlayStation VR på hodet, er det noe herlig «analogt» over Daydream View. 
+
+VR-brillene er dekket av stoff, og når du legger i telefonen festes det hele med en strikk. 
+En større strikk er den som festes rundt hodet, og som enkelt reguleres for at hodesettet skal sitte godt på hodet. 
+Stoffet kan faktisk håndvaskes om det skulle bli møkkete. 
+
+Åpningen til nesa er veldig stor, og selv om undertegnede ikke har noen unormalt liten nese, gjør det at det blir svært mye lyslekkasje rundt nesa. 
+Det er også noe vi nevnte da vi testet PlayStation VR og 2D-brillene MovieMask – når man lett kan se bordet foran seg blir ikke VR-opplevelsen like altoppslukende som når det er tett. 
+
+Lysinntrengingen gjør også at eventuelle støvkorn på linsene synes godt, særlig når bildet er mørkt. 
+Opplevelsen blir derfor best om du er i et mørkt rom. 
+
+Men polstringen mot kinn og panne er god, og vi opplever Daydream View som et VR-hodesett som er nokså komfortabelt å ha på. 
+
+Egen fjernkontroll 
+
+Daydream View har en medfølgende fjernkontroll som man bruker til navigasjon i VR-innholdet. 
+Når den ikke er i bruk, kan du feste den med en strikk på innsiden av brillen slik at de to enhetene holdes sammen. 
+
+Fjernkontrollen har en innbakt gyrosensor, slik at programvaren kan oppdage hvilken retning man peker, altså på samme måte som Nintendo Wii eller Apple TV-fjernkontrollen. 
+
+Den har et berøringsfølsom styreflate som kan klikkes ned, samt to andre knapper på forsiden. 
+På siden finnes det dessuten volumknapper. 
+Fjernkontrollen pares med telefonen via Bluetooth og lades opp med USB-C. 
+
+Dette var noe vi savnet da vi testet Gear VR, som hadde knappene på selve brillen, men i den nye Gear VR-utgaven som ble vist frem på Barcelona-messa, har også Samsung fått på plass en fjernkontroll. 
+
+Enkel start 
+
+Daydream er enkelt å komme i gang med. 
+Man starter opp Daydream-appen (som ligger i Play butikk om man ikke har den fra før) og følger instruksene for å pare fjernkontrollen, som egentlig bare innebærer å holde den ene knappen inne. 
+
+Dernest er det bare å plassere telefonen i brillen og fortsette introduksjonen der, blant annet ved å titte rundt i skogen med ei lommelykt og den slags – for å bli kjent med hvordan ting funker. 
+Kjekk er muligheten for å sentrere bildet på nytt ved å holde hjem-knappen på fjernkontrollen inne. 
+
+Når du skal spille senere, kan du bare låse opp telefonen og legge den i brilla. 
+Ved hjelp av NFC startes Daydream-appen av seg selv, slik at du er klar til dyst på null komma svisj. 
+
+Kvalitetsmessig synes vi linsene burde ha vært bedre. 
+Det blir uskarpt og tydelig fargebrytning ikke så veldig langt unna sentrum. 
+Det er også tydelig at man ser gjennom runde linser, der man ved panorering lett oppdager en slags forvrengning. 
+Dette er en følelse vi ikke har når vi bruker PlayStation VR, og som vi heller ikke kan huske fra vår tid med Gear VR. 
+
+Ålreit spillutvalg 
+
+Foreløpig er det ikke enorme mengder apper og spill i Googles VR-univers, men det har kommet seg. 
+Google selv har noen apper, som VR-utgave av YouTube, muligheten til å titte seg rundt i gatebildene fra Street View, en egen app for å se på kjente kunstverk og den slags. 
+
+Du kan også se dine egne panoramabilder dersom du har lastet dem opp til Google Foto, og det kan faktisk være ganske stilig. 
+
+Netflix 
+VR er en egen Netflix-utgave som gir deg illusjonen av å sitte i en sofa i en ganske lekker kåk mens du ser film og TV-serier. 
+Hvis du klarer å fri deg fra at bildet ikke er spesielt skarpt, er det en ganske artig opplevelse, der lyset dimmes når filmen starter. 
+
+På spillfronten begynner det å bli en del å boltre seg i. 
+VR-briller som bruker telefonen er ofte litt enklere grafisk enn de dyrere anretningene, men det betyr ikke at det ikke trenger å være morsomt. 
+De fleste spillene koster mellom 50 og 100 kroner, men det finnes også mer kostbare ting, som VR-utgaven av Need for Speed til 159 kroner. 
+
+Mange av dem utnytter fjernkontrollen godt, og det finnes spill for en hver smak, enten det er skytespill, bilspill, tenkespill eller hva det måtte være. 
+
+Apper kan du kjøpe/laste ned direkte via VR-utgaven av Play butikk. 
+Her i Norge får vi dessverre ikke tilgang til filmleietjenesten ennå, der det kun kommer opp en melding om at den ikke er tilgjengelig i landet vårt. 
+
+Verdt å merke seg er at VR-spilling er en svært tung jobb for telefoner, og at de blir varme og sluker batteri, så du bør ha en nødlader eller stikkontakt i nærheten om du har tenkt å spille en time eller to. 
+
+Konklusjon 
+
+Vi liker Googles løsning først og fremst på grunn av et meget godt brukergrensesnitt, og at fjernkontrollen hjelper godt til med å gi en god opplevelse når man bruker VR-apper og spill. 
+
+Det er enkelt å komme i gang, og enda enklere neste gang, der du bare putter telefonen i brilla og slår på fjernkontrollen. 
+Menyer er lette å navigere i, og mange av spillopplevelsene er ganske morsomme, selv om grafikken ikke matcher de dyrere løsningene fra Sony, Oculus og HTC. 
+Fordelen er imidlertid at dette er noe du kan ta med deg hvor som helst. 
+
+Et lite skår i gleden er at det er så få telefoner som er kompatible foreløpig, men vi regner med at utvalget blir bedre i løpet av året når produsentene kommer med nye telefoner. 
+
+Det vil også komme Daydream-kompatible hodesett fra flere aktører enn Google, og de kan være verdt å vente på. 
+Daydream View har først og fremst et problem med lyslekkasje rundt nesa, og at optikken er noe under pari. 
+
+Takk til Multicom for lån av Daydream View! 
+
+Google Daydream View 

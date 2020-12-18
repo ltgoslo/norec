@@ -1,0 +1,108 @@
+Samsung Galaxy S7
+Vanntett, lynrask, svært godt kamera … 
+Samsung overbeviser med årets nye toppmodeller. 
+
+Vi har allerede testet én av Samsungs to nye S7-telefoner. 
+Denne gangen har vi sett på den minste av de to nye – den «flate» Galaxy S7. 
+
+Om du ikke har fått med deg testen av storebror S7 Edge, kan du lese mer om hva vi synes om årets toppmodell fra Samsung her: 
+
+Hva skiller dem? 
+
+S7 og S7 Edge har mye til felles. 
+Den mest åpenbare forskjellen er at S7 har flat design og er mindre enn Edge-modellen, med skjermstørrelser på henholdsvis 5,1 og 5,5 tommer. 
+
+Oppløsningen er imidlertid den samme, 2560x1440 piksler, som med andre ord betyr at den flate utgaven har enda høyere pikseltetthet. 
+Begge skjermene er uansett så skarpe at dette ikke er noe du vil merke i praksis. 
+
+Siden S7 mangler buet skjermkant, betyr det også at du ikke får den samme kantskjermfunksjonaliteten som på Edge-utgaven, der du kan sveipe fingeren inn fra siden for å ringe kontakter, starte apper, se sportsresultater eller hva det måtte være. 
+
+Mindre telefon betyr også mindre plass til batteri, så mens S7 Edge har 3.600mAh, må S7 klare seg med 3.000mAh. 
+Det er uansett et godt løft fra 2.550mAh hos forgjengeren, der batterikapasiteten altså er økt med 17,6 prosent. 
+
+I praksis er vi uansett meget godt fornøyde med batteritiden også på den flate S7-modellen, som for de fleste vil klare en dag med over middels høy bruk med god margin. 
+I forhold til S7 Edge ser vi at skjermen trekker cirka 10 prosent mindre strøm når den er i bruk. 
+
+Som før kan S7 lade svært raskt med den medfølgende 9V/1,67A-laderen (15W), der telefonen fullades på halvannen time og til rundt 50 prosent på en halvtime. 
+Som på S6 Edge+ kan S7-telefonene lade relativt raskt også med induksjon (trådløst), der S7 klarer 0-100 på to timer blank. 
+
+Sammenlignet med S6 er for øvrig S7 én millimeter smalere, én millimeter lavere, men også én millimeter tykkere. 
+Men så er også Galaxy S7 vanntett, har støtte for minnekort og kameraet stikker ikke like mye ut som tidligere. 
+
+God å holde 
+
+Selv om forsiden er flat på Galaxy S7, har Samsung gjort baksiden avrundet i kantene slik at telefonen ligger veldig godt i hånda. 
+Faktisk er ikke forsiden helt flat heller – Galaxy S7-skjermen har en bitteliten avrunding mot kantene, som er med på å gi telefonen et eksklusivt preg. 
+
+I likhet med Edge-utgaven er skjermen særdeles god. 
+Årets AMOLED-skjermer fra Samsung er enda mer lyssterke enn tidligere, har svært god innsynsvinkel, dypt sortnivå og sterke farger – om man vil. 
+
+S7 scorer imidlertid ikke like godt som storebror hva gjelder skjermstørrelse vs fotavtrykk, altså hvor mye av flaten som er skjerm. 
+Her mot noen utvalgte konkurrenter: 
+
+Luke til minnekort og nano-SIM finner vi på toppen av telefonen, mens ladeport (micro USB) og hodetelefonutgang er plassert i bunnen. 
+Hvorfor Samsung ikke valgte USB-C i denne runden, kan du lese mer om i testen av S7 Edge. 
+
+Nytt av året er at disse skjermene har «always on»-funksjonalitet, slik at klokke, dato, gjenstående batteri og lignende kan vises hele tiden. 
+Samsung hevder at dette skal trekke mindre enn én prosent strøm i timen, og det sjekket vi denne gangen. 
+
+Etter nøyaktig 16 timer liggende urørt med always on-skjerm, var det 16 prosentpoeng mindre batteri igjen, så det stemmer godt. 
+Telefonen var for øvrig koblet til trådløst nett, så andre prosesser har også tappet av batteriet i den samme perioden. 
+
+Samme ytelse 
+
+Vi har kjørt en runde med de vanlige ytelsestestene, og Samsung har sitt på det tørre når de hevder at disse to telefonene har lik maskinvare. 
+Vi får det samme tallet ±1 prosent i alle testene vi har kjørt, og det vitner om identisk ytelse. 
+Små avvik er det alltid, også når vi kjører samme test to ganger på samme telefon, fordi bakgrunnsprosesser også har en innvirkning på prestasjonen. 
+
+Det betyr med andre ord at S7, i likhet med Edge-modellen, har særdeles god ytelse, enten det dreier seg om 3D-spill, nettsurfing eller videoredigering. 
+Samsungs Touchwiz-grensesnitt har også blitt tonet enda mer ned enn tidligere som er med på å bedre hastighetsinntrykket i forhold til å bla i hjemskjermer og lignende. 
+
+En ting som også er verdt å nevne, og som vi ikke kommenterte i Edge-testen, er at Samsung nå har fått på plass vannkjøling innabords, som fordeler varmeutviklingen over større deler av telefonene og derfor holder selve prosessoren kaldere enn hva som er normalt. 
+Det gjør også at telefonene presterer høyt over lenger tid, og selv om telefonen kan bli lunken ved vedvarende tung belastning, opplever vi aldri at den blir ordentlig varm slik vi har opplevd på enkelte telefoner tidligere. 
+
+Dette var faktisk fordel med Snapdragon 808-prosessoren i forhold til 810-prosessoren. 
+Siden 810-prosessoren hadde problemer med varmeutvikling, kunne 808-prosessoren i lengden gi bedre ytelse enn toppmodellen, noe vi kommenterte i testen av LG G4 i fjor. 
+
+Samme kamera 
+
+Også kameraet er likt på begge S7-modellene, og det var vi svært fornøyde med da vi testet S7 Edge. 
+
+Ikke bare er bildekvaliteten meget god (både front- og bakkameraet har lysstyrke på f/1,7 som fanger mye lys også når det er mørkt), men både oppstart, autofokus og seriefoto går også svært raskt for seg på Galaxy S7. Samsung er så vidt vi vet fortsatt alene om live-visning av HDR i søkeren når du komponerer bildet. 
+
+Rosinen i pølsa er imidlertid støtte for bilder i råformat (DNG), som gjør at du kan endre eksponering, oppskarping, hvitbalanse i ettertid om du vil; i stedet for å overlate den jobben til kameraprosessoren. 
+
+Telefonene kan for øvrig ta bilde både i RAW og JPEG samtidig, men kan ikke ta seriefoto (der du holder knappen inne) om du har valgt å lagre også i RAW. 
+Forståelig nok, siden vi snakker om en hastighet på over 20 bilder i sekundet og RAW-filer på 25MB stykket. 
+
+Mange gode funksjoner 
+
+Vi husker godt da Samsung Galaxy S4 ble lansert i sin tid; en telefon som var overlesset med funksjoner der halvparten av dem ikke fungerte så godt som de burde. 
+Med årene synes vi Samsung har fått dreisen på dem, der noen også har blitt fjernet. 
+
+Her er noen av høydepunktene i S7 og S7 Edge: 
+
+Download booster, som lar deg kombinere WiFi-nett og 4G-nett for raskere nedlasting av store filer. 
+Spesielt har vi likt denne funksjonen når vi er koblet til et dårlig WiFi-nett, som NSB sitt på Østlandsbanen. 
+Smarte skjerminnstillinger, som at den ikke plutselig slår seg av om du ser på den, eller at den ikke slår seg på ved et uhell når telefonen ligger i lomma eller i en bag. 
+Muligheten til å starte spill med lavere oppløsning og bildefrekvens for å spare batteri. 
+I tillegg kan man i denne modusen deaktivere tilbake- og programbytteknappene, ta opp video og lignende.Hurtigstarting av kameraet med to trykk på hjemknappen og tre trykk for å gjøre skjermbildet mindre slik at du rekker over hele med tommelen.Muligheten til å dra et app-vindu fra øverste venstre hjørne for å la det flyte over de andre i mindre størrelse eller kjøre apper side om side. 
+Medfølgende adapter som gjør det lett som en plett å overføre alle data fra gammel telefon; også om det er en iPhone. 
+
+Den fungerer akkurat på samme måte som denne ledningen, men er nå bare blitt en liten plugg. 
+
+Konklusjon 
+
+De to nye S7-telefonene har det meste til felles. 
+På Edge-versjonen betaler du en ekstra tusenlapp for buet skjerm og tilhørende funksjonalitet, men den har også større skjerm og større batteri. 
+
+Minstemann 
+S7 er også en telefon vi anbefaler uten å nøle; særlig om du synes en 5,5-tommer blir for stort eller vil spare den siste tusenlappen. 
+
+Den utmerker seg kanskje ikke i like stor grad hva gjelder design, men er likefullt en svært god telefon med rå ytelse, et utmerket kamera, en fantastisk skjerm og god batteritid. 
+Den avrundede baksiden gjør også telefonen bedre å holde enn tidligere. 
+
+Dessuten er også den, som storebror, vanntett, og har støtte for minnekort om du trenger ekstra lagringsplass. 
+Det er med andre ord svært lite vi savner på årets toppmodeller fra Samsung. 
+
+Samsung Galaxy S7 SM-G930F 32GB 

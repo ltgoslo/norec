@@ -1,0 +1,120 @@
+Multicom Talisa U953
+Hvis du synes den største Macbook Pro blir for kostbar... 
+
+Åmli-bedriften Multicom har bygd og solgt PC-er siden midten av 90-tallet. 
+I skrivende stund er de ganske alene om å sette sammen bærbare PC-er under eget merkenavn i Norge, og de siste årene har vi sett på en rekke av dem. 
+
+Maskinene skiller seg ut fra de fleste andre på det norske markedet, ved at de selges uten operativsystem. 
+Bruker du Linux eller har en Windows-lisens fra før, kan du dermed spare noen hundrelapper. 
+
+Hovedfokus ligger på gaming-segmentet, men de har også modeller som er myntet på deg som ønsker en lett og robust maskin. 
+
+Mac-klone? 
+
+Denne gangen har turen kommet til modellen Talisa U953, som utseendemessig har mange likhetstrekk med Talisa U731 som vi testet i fjor høst, med unntak av at U931 er større. 
+Skjermen er her 15,6 tommer mot 13,3, og tastaturet har fått plass til numeriske taster på siden. 
+
+Og selv om modellen er utstyrt med et dedikert Nvidia-grafikkort, er dette helt klart en maskin som henvender seg til et publikum som setter stil foran gaming. 
+Tankene dras umiddelbart i retning av Apples Macbook Pro-serie, men til en pris som ligger langt under halvparten av innstegsmodellen blant 15,6-tommerne hos Apple. 
+
+Mer om design (og pris) senere, her er først en kjapp oppsummering av noen av de viktigste egenskapene: 
+
+Skjerm: 15,6 tommer matt IPS-skjerm, full HD 1920 x 1080 piksler Prosessor: 
+Intel Core i5-6200U RAM: 
+8 GB (som også er maks) Grafikkort: 
+Nvidia GeForce 940MX 
+Lagring: 
+256GB SSD (M.2 SATA), ledig 2,5" spor til harddisk/SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 USB-porter: 1x USB 3.0 Type-C, 2x USB 3.0, 2x USB 2.0 Webkamera: 720P Kortleser: 
+SD/MMC Trådløst nett: 
+802.11ac (Intel AC 3160) 
+Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 
+OS: 
+Følger ikke med Størrelse: 375 x 245 x 20,35 mm Vekt: 
+2.25 kg Pris: 7.995 kroner inkl mva (innhentet på Multicom.no 8. august 2016) 
+
+Legger du på en tusenlapp for Windows 10-lisen, er du oppe i rundt 9.000 kroner for denne maskinen. 
+Tar du en kjapp titt på Prisjakt, vil du se at det finnes en rekke maskiner med tilsvarende spesifikasjoner, også til lavere priser. 
+Hva er det Talisa så har å slå i bordet med? 
+
+Mye bra å by på 
+
+Byggekvaliteten er upåklagelig. 
+Det er benyttet aluminium over det hele, og den matte finishen er svært motstandsdyktig mot fingeravtrykk. 
+
+IPS-skjermen er høyoppløst, lyssterk og klar også fra skrått hold, og den matte overflaten gjør at gjenskinn aldri blir noe problem. 
+På grunn av den gode fargegjengivelsen over hele flaten og nesten uansett betraktningsvinkel, foretrekkes ofte IPS-skjermer i arbeid med bilder og grafikk. 
+
+Tastaturet er ikke nordisk men norsk, det betyr for eksempel at du slipper at det står både Æ og Ä på Ø-tasten, som på alle de andre maskinene i segmentet. 
+Det er dessuten både fast og fint. 
+
+Under tastaturet sitter en pekeplate med integrerte felt for venstre/høyreklikking. 
+Den er flerberøringsfølsom, og fungerer langt bedre enn på testeksemplaret av U731. 
+Det eneste ankepunktet vi har, er at det kommer en lett klirrende lyd når vi bruker den, det virker nesten som om noe er litt løst. 
+
+Merk også at du kan bygge ut lagringsplassen med en 2,5 tommer harddisk eller SSD. 
+Dette er ikke hverdagslig i segmentet. 
+Det krever imidlertid at du skrur løs bunnplaten, som er festet med 14 skruer med tre forskjellige lengder. 
+Det tar litt tid, men det er ikke noe uoverkommelig prosess. 
+
+Alle tilkoblingene sitter på sidene. 
+På høyre side sitter også en USB-C-port, for fremtidig USB-utstyr. 
+Dette finnes ikke på alle maskiner ennå, men det begynner å bli vanlig. 
+Merk imidlertid at den kun støtter USB 3.0-hastigheter. 
+Den siste USB 3.1 gen2 støtter dobbelt så høye hastigheter. 
+
+Duket for en ren Windows-opplevelse 
+
+Vårt testeksemplar ble levert med Windows 10 Home, som nok er mest aktuelt for de fleste. 
+Alt av drivere var på plass, men disse kan også lastes ned fra Multicom dersom du installerer Windows selv. 
+
+Brukeropplevelsen er generelt meget god. 
+Maskinen er kjapp nok til at venting sjelden er noe du behøver å bekymre deg over. 
+Prosessoren er kanskje den aller vanligste i dette prissegmentet, og det er ikke uten grunn, da den balanserer pris og ytelse meget bra. 
+At maskinen er kjemisk renset for tredjeparts antivirus-programmer og demoversjoner av kreti og pleti, bidrar også til en bedre brukeropplevelse enn på mange andre maskiner i markedet. 
+
+Litt vifteaktivitet må du regne med, spesielt under moderat og høy belastning. 
+Noe særlig sjenerende kan vi ikke karakterisere den som. 
+Lyden fra høyttalerne kan derimot være litt sjenerende, spesielt hvis du liker bass. 
+Den er totalt fraværende, og lyden oppleves som i overkant spinkel til alt annet enn felespill og tale. 
+
+Ytelsesmålinger 
+
+Ifølge målinger vi har foretatt ved hjelp av Passmark Performance Test, får vi en score på 1256 poeng i 3D-ytelse. 
+Det betyr at du kan spille en del nyere spilltitler, men du må belage deg på å gå ned på oppløsning og detaljrikdom. 
+Det er greit til casual gaming, men dette er slett ikke en maskin myntet på heftig gaming. 
+
+Hva mener du? 
+
+Denne eller en Mac? 
+(Avsluttet) 
+
+SSD-en er i såkalt M.2-formfaktor, og bruker SATA-grensesnittet for å kommunisere med systemet. 
+Den er flere ganger raskere enn en harddisk, noe som absolutt er med på å gi PC-en bedre totalytelse. 
+Vi målte skrivehastigheter på rundt 440 MB/s og lesehastigheter på rundt 540 MB/s på det raskeste. 
+Vi har målt raskere tidligere, men disse SSD-ene har i hovedsak vært PCIe-basert. 
+
+Batteritiden målte vi ved å strømme video fra Youtube kontinuerlig til batteriet var tomt. 
+Det tok 376 minutter, eller 6 timer og 16 minutter. 
+Multicom selv påstår at maskinen skal klare rundt 6 timer med variert bruk, noe vi absolutt mener er hold i. 
+Det er ikke eksepsjonelt bra i 2016, men godkjent. 
+
+Som en liten kuriositet kan vi nevne at vi oppgraderte Windows til Aniversary edition, og kjørte batteritesten igjen. 
+Denne gangen hadde batteritesten økt til 392 minutter, altså en forbedring på 16 minutter. 
+
+Microsoft har trukket fram bedre batteritid som en av fordelene med å oppgradere. 
+Oppgraderingen er helt gratis for deg som allerede har en Windows 10-lisens. 
+
+Konklusjon 
+
+Vi likte Multicom Talisa U953, spesielt design, byggekvalitet skjerm og tastatur. 
+Den yter bra, er stort sett stillegående, og er du ikke fornøyd med 256GB SSD, kan du utvide lagringsplassen med en harddisk eller en SSD til. 
+Totalt sett er dette en fin allround-maskin. 
+
+På minussiden har vi stort sett bare småplukk, sjekk oppsummeringsboksen under for detaljer. 
+Det er imidlertid viktig å presisere at du finner maskiner som har mye av det samme som denne, til priser som til dels er lavere. 
+
+Maskinen vipper mellom en firer og femmer på terningen, vi lander til slutt på en svak femmer. 

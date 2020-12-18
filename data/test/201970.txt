@@ -1,0 +1,103 @@
+Superenkel mesh-løsning gir deg full trådløsdekning i hele huset
+Erstatter ruteren med tre små plasseringsvennlige bokser. 
+
+Har du problemer med å få trådløsdekning i hele huset? 
+Da er du ikke alene. 
+Av alle spørsmål vi får fra leserne våre, er det noen som går igjen, spesielt spørsmål relatert til hvordan man skal få bedre trådløst nettverk. 
+
+Det finnes naturligvis mange løsninger på problemene. 
+Så langt har det kanskje vært mest nærliggende å erstatte den gamle trådløsruteren din med en stor og kraftig en, men selv da er det ikke sikkert du får full dekning i hver krinkelkrok av bygningen. 
+
+Det siste året har det seilt opp et nytt, og ofte langt smartere alternativ i privatmarkedet: 
+Mesh-nettverk. 
+
+Slik fungerer det 
+
+Istedenfor å ha én trådløs ruter som sender og mottar trådløse signaler til enhetene du har koblet til, kan du i et mesh-nettverk ha en rekke små trådløse «noder» plassert på strategiske steder i huset ditt - som sørger for at hver minste krok får dekning. 
+Og i motsetning til mange rutere, er de verken store eller stygge. 
+I mange tilfeller ser de ut som små brannvarslere. 
+Les mer om løsningene her. 
+
+Startsett: 3 bokser, a 12 x 12 x 38 mm Trådløsstandard: 802.11ac (AC1300) + b/g/n Teoretiske makshastigheter: 867 mbps over 5 GHz og 400 mbps over 2,4 Ghz Antenner: 4 stk interne pr enhet Porter: 
+USB-C (for strøm) + 2 stk gigabit LAN-porter pr boks. 
+Veil pris: 
+2.990 kroner 
+
+TP-Link Deco M5 er en slik løsning. 
+Den består av tre runde bokser, hvorav én (samme hvilken) plugges i bredbåndsuttaket eller modemet ditt, og erstatter den gamle ruteren. 
+
+De to andre fungerer som satellitter som plasseres på strategiske steder i boligen (for eksempel én i hver etasje), og så opprettes det en skjult trådløs forbindelse mellom boksen som sørger for å lede nettverkstrafikken fra node til node og til og fra Internett så effektivt som mulig. 
+
+Hver boks har et trådløst aksesspunkt, alle har samme navn, og du blir automatisk koblet til den boksen som byr på best signal der du befinner deg. 
+Snedig? 
+Javisst. 
+Og ikke minst: 
+Det viste seg å fungere veldig bra. 
+
+Slik settes det opp 
+
+Allerede når du åpner esken, får du beskjed om å laste ned Deco-appen fra Google Play eller App Store. 
+Den er helt nødvendig for å sette opp Mesh-nettverket. 
+Du trenger med andre ord ikke å bruke PC-en din i det hele tatt for å sette opp, konfigurere og vedlikeholde nettverket ditt. 
+
+Appen, som kommer i norsk språkdrakt, tar deg gjennom oppsettet på en måte som er nærmest umulig å misforstå. 
+Den bruker Bluetooth for å kommunisere med Deco-boksene trådløst. 
+
+Først setter du opp hovedboksen, velger navn på det trådløse nettet og setter på passord. 
+I vårt tilfelle ble den koblet til i toppetasjen, og i appen kunne vi gi den et passende navn ut fra plasseringen. 
+Det er smart. 
+Dersom en av boksene av en eller annen grunn skulle få et teknisk problem, vil det være enkelt å finne den gjennom appen. 
+
+Deretter trykker du bare på + for å legge til en ny boks. 
+Alt du behøver å gjøre utover dette, er å sørge for at boks 2 og 3 allerede er satt i stikkontakten på strategiske steder, resten går av seg selv. 
+
+Systemet kan også bygges ut med inntil 10 bokser totalt, dersom løsningen skal brukes i svært store bygg eller over store arealer utendørs. 
+Det er også mulig å koble boksene sammen med nettverkskabler, for å passere hindere som er vanskelig for trådløs signaler, som tykke armerte betongvegger og gulv med vannbåren varme. 
+
+Det er rett og slett ekstremt enkelt å konfigurere Deco M5 med mobilappen, og vi savnet ikke å bruke PC-en i det hele tatt under oppsettet. 
+I vårt tilfelle hadde vi satt opp hele mesh-nettet i løpet av 20 minutter, inkludert de minuttene det tok å oppdatere hver boks med ny fastvare. 
+
+I etterkant dro vi ut stikkontakten på en av dem, og flyttet den til et annet sted - uten at de tilkoblede dingsene mistet trådløsforbindelsen. 
+Sekunder etter at den var koblet til strømuttaket, var den blitt en del av mesh-nettet igjen. 
+
+Hva med ytelsen? 
+
+Huset vi testet i, er en enebolig oppført i tre, med bruttoareal på 241 kvm fordelt over tre etasjer. 
+Det er med andre ord en ganske stor bolig, som kan by på utfordringer for mange trådløse rutere. 
+
+Dekningen, med bare en boks tilkoblet, holdt godt så lenge vi befant oss i samme rom eller tilstøtende rom i samme etasje. 
+I etasjen under var internetthastigheten mer enn halvert, og i kjelleren skjedde det flere ganger at signalet forsvant. 
+
+Det er helt på det rene at hver enkelt boks ikke på langt nær byr på samme dekning som en ny, middels avansert ruter, men det er heller ikke hensikten. 
+
+Ved å utvide med først én, så to bokser, fikk vi etter hvert en optimal dekning. 
+Opp- og nedkobling mellom hver boks forløp helt uten at vi merket det. 
+Strømming av video og videosamtaler over Messenger forløp også helt uten avbrudd mens vi gikk mellom etasjene. 
+
+I diagrammet under har vi lagt ut hastighetsmålinger med en iPhone 6S i alle tre etasjene - med én, to og tre bokser tilkoblet. 
+
+Av en eller annen grunn fikk vi resultater som langt overgikk kapasiteten på bredbåndslinja vår, på tre av målingene. 
+Det viktigste er likevel at vi kunne utnytte vår 160 megabits bredbåndslinje til fulle, uansett hvor vi befant oss i vår store bolig. 
+
+Avanserte funksjoner 
+
+Gjennom appen kan du skreddersy trådløsnettet ditt og sette opp avanserte funksjoner. 
+Du kan for eksempel sette opp et gjestenett, foreldrekontroll, QoS, DDNS, videresending av port og adressereservering. 
+
+Deco M5 har dessuten innebygd antivirusprogram fra Trend, som beskytter alle enhetene som er tilkoblet. 
+Men merk at dette er en abonnementstjeneste som kun er gratis i en viss periode. 
+
+Konklusjon 
+
+TP-Link er en mesh-løsning som er svært enkel å sette opp og administrere. 
+Boksene er små og enkle å plassere, og har en design som tåler å være synlig i stua. 
+Dette er definitivt en løsning for deg som ønsker en enkel måte å få full trådløsdekning i vriene omgivelser. 
+
+Ytelsen med tre bokser bør være mer enn nok til de aller fleste norske boliger og bredbåndsabonnementer. 
+
+Deco M5 er på vei ut i butikkene i skrivende stund, med veiledende prislapp på rundt 3.000 kroner. 
+
+Etter sommerferien kommer vi med flere tester av mesh-løsninger, samt sammenligninger mot tradisjonelle trådløse rutere. 
+Følg med! 
+
+TP-Link Deco M5 

@@ -1,0 +1,169 @@
+To kameraer bak er skikkelig gøy til portretter
+Og så kan du zoome. 
+Når du har lys nok. 
+
+Forleden dag testet vi iPhone 7, og Plus-modellen har som før mye til felles med lillebror. 
+
+De har begge svært gode skjermer, super ytelse, de tåler vann og har begge mistet lydutgangen. 
+Mer om alt det kan du lese om i iPhone 7-testen. 
+
+I likhet med tidligere Plus-modeller har iPhone 7 Plus en 5,5 tommers skjerm med full HD-oppløsning. 
+Fortsatt er telefonen ganske stor til å være en 5,5-tommer; den måler for eksempel 78 mm i bredden – 5 mm mer enn Samsung Galaxy S7 Edge med nøyaktig like stor skjerm: 
+
+Dette skiller iPhone 7-modellene 
+
+Foruten størrelsen er det et par ting som skiller de to nye iPhone-modellene: 
+
+Den ekstra batterikapasiteten gjør at iPhone 7 Plus er en svært utholdende telefon, der mange vil klare to dagers batteritid før den må lades igjen, og der de færreste vil klare å tømme batteriet på en dag. 
+Det er verdt å sette pris på. 
+I skrivende stund har jeg 48 prosent igjen, 27 timer etter at den var i laderen. 
+
+En ekstra gigabyte med RAM er først og fremst fordelaktig om du ofte bytter mellom apper, der flere apper kan holdes i minnet og ikke trenger å startes på nytt når du bytter tilbake til dem. 
+
+Men la oss hoppe rett inn i det som er gulrota her: 
+De to nye kameraene på baksiden. 
+
+To kameraer, to sensorer, to brennvidder 
+
+Det finnes flere telefoner på markedet som har to kameraer på baksiden. 
+
+Du har for eksempel LG G5, som har et ekstra kamera med svært god vidvinkel, Huawei P9, P9 Plus og Honor 8 med et ekstra sort/hvitt-kamera, som både hjelper til med farger og kontrast og samtidig lar deg gjøre fiksfakserier med dybdeskarpheten, og eldre modeller som LG Optimus 3D, der kameraene var plassert såpass langt unna hverandre at man kunne ta 3D-bilder som også kunne vises direkte på 3D-skjermen – helt uten briller. 
+
+Apple har valgt å go motsatt vei av LG G5. 
+I stedet for at sekundærkameraet har kortere brennvidde, har objektivet fått lengre brennvidde, som i praksis tilsvarer 2x optisk zoom når du tar bilder. 
+Du kan enkelt bytte mellom de to kameraene ved å trykke på en liten knapp i kameraappen. 
+Ja, du kan dra bryteren helt til 10x, men alt over 2x blir digital zoom og ikke spesielt pent å se på. 
+
+Under ser du hvor mye nærmere du kommer motivet om du bruker det ekstra kameraet: 
+
+Jevnt over synes vi iPhone 7 Plus leverer meget gode bilder, og som vi nevnte i testen av lillebror, opplever vi hovedkameraet her som hakket bedre; spesielt hva gjelder farger og eksponering, uten at vi helt kan forklare hvorfor, siden de i utgangspunktet skal ha det samme kameraet. 
+Og fremdeles må vi alt i alt holde en knapp på Samsungs kameraer i 7-serien (S7, S7 Edge og Note 7) som de aller beste. 
+
+Men det er altså to kameraer her. 
+Det følgende blir kanskje litt teoretisk og tungt for mange, men allikevel litt essensielt for å forstå hvordan kameraene på iPhone 7 Plus fungerer. 
+
+Mindre sensor i det ekstra kameraet 
+
+Hovedkameraet er det samme som i iPhone 7, altså 12 megapiksler, f/1,8 i lysstyrke og brennvidde tilsvarende 28mm om vi oversetter til 35mm-formatet. 
+
+Det ekstra kameraet har brennvidde tilsvarende 56mm (altså nøyaktig dobbelt av hovedkameraet), men dog med svakere lysstyrke – f/2,8, som betyr at det slipper inn drøye 40 prosent av lyset sammenlignet med hovedkameraet, eller snudd rundt – hovedkameraet slipper inn snaue 2,5 ganger så mye lys. 
+
+Her er utregningen: 
+
+De reelle, fysiske brennviddene er henholdsvis 3,99mm for hovedkameraet og 6,6mm for det ekstra kameraet. 
+Det betyr at brikkestørrelsen ikke er den samme for disse to kameraene – da skulle det siste tallet ha vært nøyaktig dobbelt så høyt som det første; gitt de oppgitte brennviddene som skal tilsvare 28 og 56 mm. 
+
+Med oppgitt brennvidde tilsvarende 28mm på hovedkameraet, kan vi regne oss om til en såkalt crop-faktor (hvor mange ganger mindre diagonalen på sensoren er i forhold til en 35mm-sensor) på drøye 7 (28/3,99), eller da en sensor på 1/3 tommer (crop-faktor 7,21). 
+En 1/3-tommers sensor er 4,8mm bred, som da gir en pikselstørrelse på 1,19µm (4,8mm/4032 piksler), som altså betegner hvor stor fysisk plass hvert enkelt piksel opptar på sensoren. 
+
+Crop-faktoren på det ekstra kameraet blir likeledes 8,48 (56/6,6), der sensoren da typisk er en 1/3,6-tommer (crop-faktor på 8,65) med bredde på 4mm. 
+Det gir en pikselstørrelse på 0,99µm (4,0mm/4032 piksler). 
+
+Skulle Apple ha brukt den samme brikkestørrelsen på det ekstra kameraet, måtte brennvidden ha vært 8mm, og telefonen hadde dermed blitt tykkere. 
+
+Under ser du for eksempel sensorstørrelsene på de nye iPhone-kameraene sammenlignet med sensorene fra Samsung og Sony: 
+
+Den ekstra sensoren har med andre ord svært små piksler (og objektivet svakere lysstyrke), som i teorien vil tilsi at kameraet med lengst brennvidde ikke vil klare å ta like gode bilder som hovedkameraet. 
+
+Og nettopp det vet Apple godt. 
+Derfor kan det hende, når du skal ta bilde i for svak belysning, at du heller får et digital zoomet bilde tatt med hovedkameraet enn at bildet kommer direkte fra det nye kameraet. 
+Kameraappen tar da bilde med begge kameraene samtidig for så å finne ut hvilket av de to bildene som blir best. 
+Merk også at kameraet med lengst brennvidde ikke har optisk bildestabilisering slik hovedkameraet har. 
+
+Under har vi på det ene bildet tvunget iPhone 7 Plus til å bruke kameraet med lengst brennvidde på det nederste bildet (ved å bruke den nye portrettfunksjonen, som gir deg to bilder – med og uten overdreven uskarphet i dybden), mens det øverste bildet er tatt med automatikk og er da en digitalt forstørret utgave fra hovedkameraet: 
+
+Som du ser er det øverste bildet langt renere hva angår støy og har også bedre detaljnivå, som du enkelt ser i teppet. 
+
+Med andre ord – i svak belysning brukes i praksis ikke det ekstra kameraet. 
+Derfor vil du neppe kunne dra nytte av optisk zoom på en skoleavslutning i dunkel belysning, så dette brukes først og fremst når det er godt med lys fra omgivelsene. 
+
+Under har vi for eksempel brukt 2x-knappen på et foreldremøte, men her har telefonen brukt det vanlige kameraet og heller gitt oss et digitalt forstørret bilde – dette ser vi for øvrig i EXIF-informasjonen på bildefilene der brennvidden er oppgitt til 3,99mm i stedet for 6,6mm, så vet du det. 
+
+Bedre når vi har godt med lys 
+
+Med tilstrekkelig lys, brukes imidlertid det nye kameraet dersom du velger å fotografere med 2x zoom. 
+Under ser du et eksempel på det: 
+
+Sammenligner vi detaljnivået på samme måte i dette bildet, ser vi at den optiske zoomen gir oss langt bedre detaljnivå enn om vi forstørrer bildet fra hovedkameraet, som forventet. 
+Under har vi forstørret det øverste bildet 2x, mens utsnittet fra det nederste bildet er urørt: 
+
+Det ekstra kameraet er altså først og fremst nyttig i dagslys og lar deg komme nærmere motivet uten å bevege deg nærmere. 
+Generelt anbefaler vi deg dog å gå nærmere hvis du kan, siden hovedkameraet har raskere optikk, større bildebrikke og bildestabilisering. 
+Men det er utvilsomt en kjekk mulighet når du ikke har mulighet til å gå nærmere. 
+
+Gøy med dybdeeffekt 
+
+Ved siden av å kunne komme nærmere objektet du skal ta bilde av, er det også andre fordeler med å ha to kameraer på baksiden 
+
+Som på de nevnte Huawei-kameraene (og tidligere modeller blant annet fra HTC), bruker Apple de to kameraene for å lage en dybdemodell i bildet, på samme måte som vi gjør med øynene. 
+
+Den nye portrettmodusen, som kommer i løpet av høsten, men som allerede er en del av iOS 10.1-betaversjonen, lar deg ta bilder med overdreven uskarphet i dybden; perfekt til portretter og den slags. 
+
+Det skal derfor sies at portrettbildene du nå skal få se er «work in progress» fra Apples side, og at sluttresultatet når iOS 10.1 slippes kan være bedre enn det vi ser til nå. 
+For når man studerer på nært hold, ser man ofte at det ikke er 100 prosent riktig. 
+
+Og navnet er «portrettmodus» av en grunn. 
+Det fungerer nemlig best til portretter (altså der kameraet oppdager et ansikt i bildet), og ikke fullt så godt til andre typer bilder. 
+
+Noen portrett-eksempler 
+
+Under ser du noen bilder tatt med portrettfunksjonen. 
+
+I mindre format, og da også når du ser på dem på mobilskjermen, ser det særdeles bra ut, mens det ikke blir fullt så bra om du blåser dem opp i fullskjermstørrelse, der man ofte kan skimte små feil rundt kantene og den slags. 
+For ordens skyld er altså bildene helt urørte fra kameraet. 
+
+Vi lar oss i hvert fall imponere av denne funksjonen, selv om den ikke er helt ferdigstilt ennå. 
+
+Nevnt er at denne funksjonen ikke er like velegnet om du bruker den til annet enn portretter. 
+Selv om det ser helt greit ut på en liten skjerm, vil du se mange "feil" i graden av uskarphet på bildet under om du studerer nøyere, for eksempel på deler av den røde blomsten nederst til venstre, eller langs omrisset av den største blomsten: 
+
+Hvordan er den i forhold til Huaweis variant? 
+
+Svakheter som i blomsterbildet er noe vi også opplevde da vi testet Huawei P9 tidligere i år, der de to kameraene ikke alltid klarer å skille snørr og bart, som ofte gir oss litt rare simuleringer av dybden. 
+
+Hva angår funksjonalitet, kommer Apple til kort foreløpig. 
+Huaweis funksjon lar deg nemlig velge fokuspunktet i etterkant, slik at du kan velge heller å få bakgrunnen skarp om du vil det, eller fininnstille hva som skal være skarpt. 
+I tillegg har du muligheten til å justere hvor stor blenderåpning som skal simuleres, for mer eller mindre uskarphet i dybden. 
+
+Men la oss se på bildet fra Huawei-kameraet mot iPhone 7 Plus. 
+Huawei øverst (standard innstilling, fokusert med ansiktsgjenkjenning): 
+
+For ordens skyld har vi da vært nødt til å gå nærmere med Huawei-kameraet for å få Kirsti omtrent lik på begge bildene. 
+
+Eksponeringsmessig er det liten tvil om at iPhone-bildet er best; spesielt med tanke på hvitbalansen. 
+
+Ser vi på detaljnivået, får vi en noe malt effekt med iPhone 7 Plus' portrettmodus (nederst) på grunn av støyreduksjonen, men det fremstår allikevel skarpere. 
+
+Denne malte effekten har vi også sett når vi har finstudert andre bilder tatt med denne funksjonen, som de lenger opp i artikkelen. 
+Dette kan selvsagt bli bedre før Apple slipper funksjonen i iOS 10.1: 
+
+La oss så se på to områder i bildet. 
+Den ene på skulderen og det andre på hånda som holder over armen. 
+Huawei til venstre, iPhone til høyre: 
+
+Som du ser er det litt forskjellig strategi kameraene har valgt for disse områdene. 
+
+De er mer uskarpe på iPhone, men det er for så vidt korrekt siden de befinner seg lenger vekk fra kameraet enn ansiktet. 
+Huaweis prestasjon her virker litt mer tilfeldig, spesielt på bildet av hånda, der deler av den har blitt for uskarp. 
+
+Vi ser også at den ytterste delen av skulderkanten har blitt uskarp fra Huawei-kameraet, mens iPhone-kameraet har fått med litt av bakgrunnen i det mer skarpe området, slik at den får en kant. 
+
+Ingen av telefonene klarer helt å simulere effekten vi ville ha fått med et systemkamera og fysisk større brennvidder, men vi må gi Apple stjerna for den mest troverdige helhetsopplevelsen på det punktet. 
+
+Konklusjon 
+
+Apple iPhone 7 Plus 32GB 
+
+Og det er det ekstra kameraet og da spesielt portrettfunksjonen som så vidt redder femmeren for iPhone 7 Plus. 
+Jeg kan ikke huske sist jeg tok så mange bilder med en testtelefon, rett og slett fordi det ser veldig overbevisende ut på mobilskjermen, og mang en kollega, kompis og familiemedlem har latt seg imponere stort. 
+Og det av en beta-funksjon. 
+
+Vær dog på vakt mot å bruke 2x-funksjonen i svak belysning, siden du da bare får et digitalt oppskalert bilde fra det vanlige kameraet og ikke oppnår stort mer enn å beskjære bildet ditt. 
+
+Imponerende er også batteritiden på iPhone 7 Plus; en telefon som for mange bør vare to dager mellom hver lading. 
+Den har særdeles god ytelse, gode høyttalere, tåler en vannsprut og har en svært god skjerm. 
+
+På minussiden legger vi også til at telefonen føles veldig stor i hånda sammenlignet med skjermstørrelsen, og så synes vi Apple burde ha lagt ved en kraftigere lader når batteriet er så stort og det tross alt er snakk om markedets dyreste telefon. 
+Har du en iPad-lader i hus – bruk den i stedet. 
+
+Ja, og så har den ikke lydutgang, da, men det brukte vi nok spalteplass på i iPhone 7-testen. 

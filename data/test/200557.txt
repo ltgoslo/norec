@@ -1,0 +1,83 @@
+Asus VivoMini UN65H
+Alt du trenger av PC-kraft i veldig kompakt innpakning. 
+
+Det begynner å bli mange år siden man trengte en svær kasse under pulten for å gjøre helt vanlige PC-oppgaver. 
+De senere årene har utvalget av mini-PC-er, NUC-er og tilsvarende blitt stort, og de blir stadig kraftigere og mer stillegående. 
+Her i Dinside har vi testet en rekke av dem. 
+
+VivoMini er en serie NUC-er fra Asus, med et fotavtrykk litt større enn et CD-cover. 
+Størrelsesmessig ligger den altså i nærheten av Intels NUC-er, HP Pavilion Mini, ASRock Beebox N3000 og Shuttle XPC Nano. 
+
+Maskinen kommer i en rekke forskjellige konfigurasjoner, og er i tillegg svært oppgraderingsvennlig. 
+Den kommer også som såkalt «barebone», eller halvfabrikata, der du selv setter inn minne, SSD/harddisk og trådløst nettverkskort. 
+Det kan være smart, spesielt hvis du har slike deler liggende som du ikke bruker. 
+
+Vårt testeksemplar har følgende å by på under panseret: 
+
+Fullt navn: 
+Asus VivoMini UN65 
+H-M016Z DT Prosessor: 
+Intel Core i3-6100U RAM: 
+4 GB (maks 16) 
+Grafikkort: 
+Intel HD 520 Lagring: 
+128GB SSD + 500GB harddisk Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4a + DisplayPort 1.2 USB-porter: 4 x USB 3.0 Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+802.11bgn (Realtek rtl8723be) 
+Kablet nett: 10/100/1000Mbit Annet: 
+Bluetooth 4.0 OS: 
+Windows 10 Home Størrelse: 131,0 x 131,0 x 42,0 mm Vekt: ca 800 gram Pris: 5.799 kroner (jf Expert 23.2.2016) 
+
+Det mest oppsiktsvekkende er kanskje at den lille PC-en både har SSD og harddisk. 
+Dette er mulig takket være at SSD-en kommer i M.2-utforming, som vil si at den tar like liten plass som en minnebrikke. 
+Harddisken har vanlig 2,5"-utforming. 
+Her får man altså god systemytelse takket være at Windows og programmene installeres på SSD-en, og god plass til personlige filer, systembackup og annet man vil ta vare på på harddisken. 
+
+Enkel å mekke på 
+
+Vi nevnte innledningsvis at maskinen i tillegg er svært oppgraderingsvennlig. 
+For det første har du et ledig minnespor. 
+Setter du inn en 8 GB-brikke, får du totalt 12 GB. 
+Tar du ut 4 GB-brikken og setter inn to identiske 8 GB-brikker, får du totalt 16 GB - og øker samtidig minnehastigheten, og dermed totaltytelsen til systemet. 
+
+For det andre kan du enkelt bytte ut både harddisk og SSD, og sist men ikke minst - det trådløse nettverkskortet. 
+Sistnevnte er nemlig at den svært enkle typen, som kun støtter 2,4GHz-båndet - og fort kan vise seg å bli en flaskehals for deg som trenger god rekkevidde og hastigheter på trådløsnettet. 
+
+Bra ytelse til det meste 
+
+Maskinen kjører uansett Windows 10 og de aller fleste programmer og apper helt uten problemer, også rett ut av esken. 
+SSD-en målte vi til lese/skrivehastighet på 474/269MB pr sekund. 
+Skrivehastigheten kunne vært høyere, men blir neppe noen stor flaskehals. 
+Lesehastigheten er bra, Windows 10 starter normalt på under 10 sekunder, programmer starter kjapt og veksling mellom programmer går også greit. 
+Bruker du mange programmer samtidig, kan mer minne være en god ide for å gjøre opplevelsen enda smidigere. 
+
+Vi legger samtidig merke til at maskinen ikke kommer med prøveversjon av sikkerhetspakken fra McAfee, noe vi egentlig ser på som en fordel, men Asus har til gjengjeld installert både Winzip og Java - selv om de færreste av oss trenger disse programmene lenger. 
+En liten rydderunde kan derfor være på sin plass. 
+
+Spesielt McAfee har en tendens til å stresse prosessoren i PC-ene unødvendig mye, noe som ofte fører til viftestøy. 
+Det slipper du altså her. 
+
+Grafikkytelsen er nesten doblet fra forrige generasjon Core i-prosessorer, noe som gjør at alt av 2D-materiale flyter helt uten problemer. 
+Alle test-videoene våre, også 4K-materiale, ble spilt av uten at det så ut til å stresse maskinen nevneverdig. 
+Merk for øvrig at maskinen er utstyrt med en DisplayPort-utgang. 
+Bruk denne hvis du har planer om å koble PC-en til en 4K-skjerm/TV. 
+Det dobler oppfriskningshastigheten fra 30 til 60Hz, noe som gir langt mer flytende bevegelser i Windows-miljøet. 
+
+Merk imidlertid at spillytelsen er begrenset. 
+Enkel spill av type app fra Windows Store, flyter som regel fint, men de nyeste 3D-toppspillene i Steam er ikke egnet for denne PC-en. 
+
+To viftemoduser 
+
+VivoMini er temmelig stillegående, og løser alle tenkelige oppgaver man normalt vil knytte til et mediesenter. 
+VivoMini kan derfor absolutt være en kjekk boks å koble til TV-en. 
+Helt lydløs er VivoMini ikke, og vi savner kanskje muligheten til å justere vifteaktiviteten enda litt mer enn hva som er mulig i BIOS-oppsettet. 
+Her kan du i praksis kun velge mellom auto og full hastighet. 
+
+Konklusjon 
+
+Asus VivoMini føyer seg inn i rekken over gode mini-PC-er som kan erstatte en svær, stasjonær PC for mange av oss. 
+Hvis du fortsatt sverger til stor skjerm, tastatur og mus, har maskinen en plassbesparende, strømsparende og fornuftig design. 
+
+Les våre plusser og minuser i boksen under, og sørg også for å få med de andre testene av aktuelle mini-PC-er. 

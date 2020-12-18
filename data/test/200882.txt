@@ -1,0 +1,117 @@
+Årets første sekser er delt ut
+Den beste PC-en vi har testet med prislapp på under 7.000 kroner. 
+Det sier ganske mye. 
+
+Det har skjedd store ting hos Acer det siste året. 
+Lanseringen av Aspire S13 i fjor, viste med all tydelighet at den gamle PC-kjempen ønsket å ta opp igjen kampen mot gigantene Lenovo og HP. 
+
+Siden kom Swift 7, som er en av markedets aller tynneste PC-er, hybriden Spin 7 og mellomklassemodellen Swift 3. 
+Alle tre har vært på testbenken vår de siste par ukene, og det er faktisk sistnevnte som har imponert oss mest, spesielt når vi tar prisen i betraktning. 
+
+Forbausende mye for pengene 
+
+For dette er en PC med en prislapp som ligger langt under hva man skulle forvente, når man tar byggekvalitet og maskinvaren i betraktning. 
+Det er faktisk den beste PC-en til under 7.000 kroner vi har testet, og den er nesten rensket for lyter man normalt finner i denne klassen. 
+
+Kabinettet er av børstet sølvfarget aluminium, noe som gir et solid førsteinntrykk. 
+Åpner du den, ser du at metallet også omkranser skjermen. 
+Kontrasten mellom den sølvfargede rammen og skjermen er stor, så det blir derfor tydelig at rammen er tykkere enn på de dyre premium-maskinene fra HP, Asus og Lenovo som vi har testet i det siste. 
+
+Vi konstaterer uansett til vår store glede at fettede fingeravtrykk ikke vises på kabinettet. 
+Vi anbefaler imidlertid at du fjerner klistremerkene med én gang, de har en tendens til å etterlate spor dersom du venter for lenge. 
+
+Mange fornuftige og gode løsninger 
+
+Undersiden er heltrukket, du finner ikke noe luftinntak, kun et par høyttalere i front. 
+Alt av innsug og utlufting sitter i bakkant mellom skjermen og tastaturdelen, noe som etter vår mening er optimal plassering. 
+Da er det for eksempel ikke noe problem å la maskinen hvile på en pute i fanget. 
+
+De nevnte høyttalerne er av middels god kvalitet, helt ok til lav bakgrunnsmusikk - med et lite snev av bassfylde. 
+Men ikke skru opp volumet for høyt, da kan du risikere vibrasjon i kabinettet med tilhørende metalliske ulyder. 
+
+På venstre side sitter en USB 3.0-port, en USB-C-port og HDMI-utgang. 
+På motsatt side sitter en USB 2.0-port, SD-kortleser og lyd ut/inn. 
+USB-C-porten kan brukes til lading av PC-en, men det følger med en helt vanlig strømforsyning og ledning med tynn strømplugg med 90-graders knekk. 
+
+God IPS-skjerm 
+
+Selve skjermen måler 14 tommer, som er en ypperlig størrelse til de fleste bruksområder. 
+Det forbauser oss at ikke flere PC-er har denne størrelsen, normalt må du i mellomklassen velge mellom 13,3 og 15,6 tommer. 
+
+Skjermen har en matt overflate og er basert på et full HD IPS-panel fra LG Electronics. 
+Lysstyrken er helt topp i de fleste lysforhold, og du slipper irriterende gjenskinn som ofte plager blanke overflater og berørings-skjermer. 
+Farger og kontrast holder seg godt, selv når du betrakter skjermen fra skrått hold. 
+
+Faktisk kan du legge skjermen helt flatt! 
+Det er sjelden kost, uansett klasse - med unntak av hybridene mellom PC og nettbrett. 
+
+Tastatur med premium-følelse 
+
+Tastaturet har sorte taster, som lyser opp når du bruker det (kan også skrus av). 
+Det er forbausende bra, og gir oss straks assosiasjoner til Apples Macbook-tastaturer. 
+Tastene er faste og responsive, det er minimalt med svikt i platen. 
+Dette ligger mye nærmere premium enn mellomsegment! 
+Så får vi nordmenn heller være litt sure for at det er de svenske variantene av æ og ø som lyser opp når baklyset tennes. 
+
+Under tastaturet sitter en stor multiberøringsfølsom pekeplate. 
+Den klirrer litt når du prikker hardt på den. 
+Det er uansett bare en liten bemerkning, ikke noe ankepunkt av betydning. 
+Den er ellers helt upåklagelig under bruk. 
+
+Til høyre for tastaturet sitter en liten fingeravtrykkleser, som du for eksempel kan bruke til å logge deg på Windows. 
+Den feiler imidlertid litt for ofte, og du må da bruke alternative innloggingsmetoder. 
+Vi er vant til at iPhone treffer blink hver gang, så det er en liten nedtur. 
+
+Slik yter den 
+
+Ytelsesmessig ligger Core i3-7100U omtrent på nivå med forrige generasjon Core i5-6200U, men med noe bedre 3D-grafikkytelse. 
+Det betyr god, generell ytelse til det meste du tenker å bruke PC-en til, med unntak av spilling av nye, krevende 3D-spill (da må du i hvert fall gå kraftig ned på oppløsning/detaljnivå). 
+Ytelsen ligger et stykke bak storebrødrene Core i5-7200U og Core i7-7500U, men det merkes først i de mest krevende programmene. 
+
+Det er også både overraskende og gledelig å se at Acer har utstyrt PC-en med en ny PCIe-basert SSD fra Samsung, som byr på meget rask lesehastighet. 
+Den bidrar til minimalt med venting, for eksempel når du skal starte og veksle mellom programmer. 
+
+Passmark poeng: 
+2489 CPU: 3769 GPU (3D): 996 SSD l/s: 1,6 GB/600 MB pr sek Batteri video: 510 min 
+
+Vi må heller ikke glemme det trådløse nettverkskortet. 
+Det støtter såkalt MU-MIMO-teknologi, som kan gi bedre overføringshastighet hvis du bruker en kompatibel ruter. 
+Les mer om det i denne artikkelen. 
+
+Videre er det verdt å merke seg at denne PC-en leveres med en såkalt Signature-utgave av Windows, noe som betyr at du slipper helt søppelprogrammer og prøveversjoner fra tredjepart. 
+Det er definitivt med på å gjøre brukeropplevelsen til en positiv affære. 
+
+Maskinen er for det meste helt tyst, kun under vedvarende, tung belastning vil du oppleve at viften spinner opp. 
+Det er meget positivt. 
+Den blir heller ikke spesielt varm. 
+
+Acer Swift 3 SF314-51 (NX.GKBED.022) 
+
+God batteritid 
+
+Batteritiden er oppgitt til rundt 10 timer fra produsenten. 
+Ved første kjøring av batteritesten vår (videostrømming), holdt batteriet i 342 minutter før det gikk tomt (5 timer og 42 minutter). 
+Det var litt kortere enn vi hadde antatt, men i etterkant fant vi ut at det var noen andre programmer som kjørte i bakgrunnen som oppdaterte seg samtidig - og dermed stjal av kapasiteten. 
+
+Ved lokal avspilling av video holdt batteriet i 510 minutter (8,5 timer), og uten belastning i 750 minutter (12 timer 30 minutter). 
+Anslaget om 10 timer bør derfor ikke være langt unna sannheten ved variert bruk. 
+Det er meget bra i denne klassen. 
+
+Å lade batteriet går dessuten kjappere enn snittet blant PC-ene vi har testet i år. 
+Etter 30 minutter var nivået på 32 prosent, etter en time var det på 60. 
+Snittallet ligger rundt 25 og 50 prosent. 
+
+Konklusjon 
+
+Vi hadde gode forhåpninger til denne PC-en, og vi kan bare konkludere med at de har blitt innfridd nesten til fulle. 
+Fingerpåloggingen feiler litt for ofte, og USB-C-porten støtter ikke mer enn USB 3.0-hastigheter. 
+Det er uansett flisespikkeri, prisen tatt i betraktning. 
+
+Årets første sekser på terningen går til Acer Swift 3. 
+Vel fortjent, og soleklart anbefalt produkt dersom du ser etter en PC i den populære mellomklassen. 
+
+Merk at PC-en også selges i en versjon med Core i5-6200-prosessor fra forrige Intel-generasjon. 
+Denne er dyrere og leveres med en 512 GB SSD. 
+Rent ytelsesmessig skal imidlertid de to maskinene være temmelig like. 
+
+Få også med deg de andre PC-ene vi har testet så langt i år: 

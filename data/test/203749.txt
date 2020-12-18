@@ -1,0 +1,71 @@
+TEST:Slik er Ikeas smartkontakt 
+
+«Rimelig» smartstyring i hjemmet. 
+
+Ikea har for lengst kastet seg inn i det økende smarthjem-markedet, og i august ble det avslørt at det svenske selskapet jobber med en smartkontakt til hjemmet. 
+
+Ikea Trådfri Adapter, som er produktnavnet, er en kontakt man plugger i stikkontakten, og så kan du slå av og på tilkoblede husholdningsapparater (som belysning, kaffetraktere, panelovner og så videre), samt justere tidsur. 
+Det finnes allerede en rekke tilsvarende produkter, men Ikeas alternativ kan friste med en lavere pris – dog med noen forbehold som vi kommer tilbake til. 
+
+Men en annen svensk kjede var først ut. 
+Tidligere i år kom Clas Ohlsons smartbryter på markedet, og den kan du lese mer om her. 
+
+Spesifikasjoner: 
+Maksimalt 3840 watt/16 ampere. 
+
+Med eller uten kontroller 
+
+Trådfri Adapter kan kjøpes alene til en pris på 150 kroner, eller i en pakke med en trådløs kontroller til 200 kroner. 
+Og her er tingen med adapteren: du kan ikke kjøpe den alene, ta den med hjem og tro at du kan styre den med Trådfri-appen. 
+
+Kontrolleren kan både teipes (medfølger) eller skrus fast på veggen, eller så kan man la den ligge løst på bordet eller der man måtte ønske. 
+
+VI har testet Trådfri Kontrollsett sammen med Ikea Gateway for fullt utbytte. 
+
+Førstegangsoppsettet er så enkelt som Ikea får gjort det: 
+
+Trådfri-appen 
+
+Deretter kan du begynne å fjernstyre apparatene som er tilkoblet Ikeas smartkontakt. 
+Den fysiske kontrolleren gir kun mulighet til å slå av og på adapteren, men Trådfri-appen gir mange flere muligheter. 
+
+Startsiden i appen viser de enkelte Trådfri-produktene du har i hjemmet, disse kan du også navngi slik at det blir mer oversiktlig. 
+Her kan du enkelt slå av og på smartproduktene, men også justere lysstyrken hvis du har en dimbar lyskilde tilkoblet. 
+
+Det er også mulig sette opp tidsur slik at adapteren slår seg av og på til gitte tider. 
+Et bruksområde her er at en panelovn slår seg på en viss tid før du står opp og en viss tid før du legger seg, slik at man får en behagelig temperatur på soverommet. 
+
+Andre ting er å justere «Opp og hopp» og «Hjemmefra». 
+Med førstnevnte stiller du inn belysningen til å dimmes opp i en viss periode får du skal våkne, mens Hjemmfra gjør det mulig å stille inn belysningen slik at den slår seg av og på automatisk når du er borte. 
+Dette for å gi andre indikasjon av at «her er det noen hjemme». 
+
+Totalt sett opplever vi Ikeas Trådfri-app som enkel og oversiktlig, men vi trodde faktisk man kunne justere tidsinnstillingene inne i hvert «rom». 
+Slik er det ikke – tidsuret og de andre funksjonene har en egen meny som tydelig er merket med et klokkeikon. 
+Noe ved første øyekast ikke la merke til. 
+
+Et stykke unna lansering 
+
+Så er det store spørsmålet hva som skjer med lanseringen. 
+Ikea Trådfri Adapter er nemlig synlig i selskapets nettbutikk, men er ikke mulig å bestille. 
+I en e-post til Dinside skriver Ikea at smartkontakten ikke ventes til Norge før i februar. 
+
+«Det har vært nesten umulig å få tak i og det har kun vært begrensede antall eksemplarer på varehusene på grunn av en vesentlig større etterspørsel globalt, kombinert med begrenset tilgang på enkelte komponenter som brukes i produktet. 
+Som en følge av dette har produksjonen ikke kunne økes så fort som vi ønsket», skriver Troels Norman Mathisen, senior kommunikasjonsrådgiver i Ikea Norge, i e-posten og legger til at mer informasjon kommer etter nyttår. 
+
+Du blir dermed nødt til å smøre deg med tålmodighet hvis du har planer om å kjøpe Ikea Trådfri Adapter. 
+
+Konklusjon 
+
+Trådfri Adapter fungerer totalt sett som forventet og som vi er vant med fra smartkontakter fra ander produsenter. 
+Vi tar det som en selvfølge at innstillinger for tidsur er på plass, ellers er det nyttig med våkne- og hjemmefunksjonene, som er enkle å stille inn og endre. 
+Hjemme-valget er faktisk en ganske enkel tyverisikring. 
+
+Sett bort ifra at det tok noen minutter før vi fant frem til tidsinnstillingene, er vi også fornøyde med hvor enkelt Ikea har gjort det å styre tilkoblede smartprodukter og alt har så langt fungert som det skal. 
+Dog savner vi muligheten til å styre adapteren utenfor hjemmet. 
+Er man ikke koblet til gateway-en, får man ikke gjort endringer i appen. 
+
+Det er også kjekt å se at det svenske møbelhuset satser stort på smarthusteknologi, noe som bidrar til økt konkurranse samtidig som kundene får flere, gode alternativer. 
+Snart kommer de også med smarte rullegardiner. 
+Da er det ekstra greit å vite at Ikea Trådfri er kompatibel med Apple HomeKit og Philips Hue, for å nevne noen. 
+
+Merk dog at i skrivende stund støtter ikke Ikea Trådfri Adapter Apple HomeKit, men det er noe som skal komme. 

@@ -1,0 +1,102 @@
+Plugg i mobilen – vips, så har du en PC
+Vi lot oss imponere av Samsungs lille boks. 
+
+For et drøyt år siden testet vi Microsoft Continuum – en løsning som lot deg koble en Windows-telefon til en ekstern monitor eller skjerm og dermed bruke appene på en langt større flate enn telefonskjermen. 
+
+Vi syntes løsningen var interessant, selv om den var ganske begrenset. 
+Mange apper lot seg ikke kjøre i stort format, man kunne kun kjøre én og én app i fullskjerm og hele opplevelsen ble derfor langt i fra det det blir med å bruke en dedikert PC. 
+
+For S8 og S8+ 
+
+I forbindelse med lanseringen av Galaxy S8-modellene, kom også den lille boksen DeX, som er en Continuum-lignende løsning fra Samsung. 
+Her kjøres imidlertid Android som operativsystem, og ikke Windows. 
+Skjønt er det støtte for Citrix, slik at du kan kjøre Windows virtuelt om du har den slags muligheter på jobb. 
+
+DeX er formet som et askebeger, der du dreier lokket opp for å gjøre plass til telefonen. 
+Den dokkes direkte på en USB-C-kontakt og lades også i krybba når du bruker løsningen. 
+
+På baksiden finner du kontakter for kablet nettverk, HDMI-utgang, to USB-porter og en USB-C-port, som du da kobler til strømnettet. 
+Her savner vi en 3,5mm-utgang for bruk med hodetelefoner, siden den på telefonen sitter i bunnen og dermed er utilgjengelig. 
+Vil du bruke hodetelefoner, er du nødt til å satse på Bluetooth eller ha kabel i TV/monitoren om den støtter det. 
+
+Enkelt å komme i gang 
+
+I pakken følger det ikke med stort – kun DeX-boksen og en liten hurtigstartsmanual. 
+
+Strømmen får den fra mobilladeren som fulgte med telefonen, og selv om vi brukte en Samsung-lader, slet vi først med å få løsningen til å virke fordi vi brukte en USB-C-kabel fra Huawei. 
+Da vi byttet over til en fra Sony, fungerte det med en gang, så her ser det ut til at DeX er litt kresen. 
+
+Når du så setter telefonen oppi, spretter det opp en boks som spør om du vil bruke den i DeX-modus, eller bare speile mobilskjermen på den store skjermen. 
+
+Det første er selvsagt det mest spennende her, og i løpet av drøye ti sekunder har du plutselig et skrivebord som dekker hele den store skjermen: 
+
+Mus og tastatur 
+
+Vi koblet til mus og tastatur i de to USB-portene (du kan også plugge inn eksterne harddisker eller minneplugger), og uten noe form for oppsett var de klar til bruk umiddelbart. 
+
+Og det fungerer brillefint. 
+Muspeker på skjermen, dobbeltklikking på elementer på skrivebordet, høyreklikking og skrolling av nettsider med bruk av hjulet på musa fungerer akkurat som håpet. 
+
+Kjente hurtigtaster på tastaturet likeså, som alt-tab for å bytte mellom programmer, ctrl+c og ctrl+v for å kopiere og lime inn, ctrl+t for å åpne ei ny fane i nettleseren og så videre. 
+Ja, til og med PrtScr-knappen fungerer for å ta skjermbilder - og mediaknappene for å endre volum. 
+Her har Samsung fått med seg det aller meste. 
+
+Apper i vinduer 
+
+Og DeX gir oss unektelig en ordentlig PC-følelse i bruk. 
+Apper kjører i vinduer som kan flyttes rundt og justeres i størrelse, legges oppå hverandre og så videre – akkurat som om du brukte et tradisjonelt PC-operativsystem. 
+
+Når du bruker Samsungs nettleser, serveres du skrivebordsversjoner av nettsidene du åpner, og ikke mobilutgavene. 
+Selskapets egne apper, som kalender-appen og lignende, skalerer også godt på den store skjermen. 
+
+Men det gjør mange andre også, som da kjører som om du brukte et Android-nettbrett. 
+Dog ikke alle, men de blir da kjørende i et vindu tilsvarende mobilskjermen og får da en ekstra knapp som lar deg simulere at du legger telefonen over på siden. 
+
+Det aller meste fungerer fint, og vi har til og med klart å spille spill, bruke Snapchat, Flipboard og lignende med hell; riktignok i små «mobilvinduer». 
+Bare to apper av de par dusinene vi prøvde fungerte ikke. 
+Den ene var Spotify (den andre Solid Explorer), og faktisk klarte vi ikke til å få deres webspiller til å fungere heller – all navigasjon fungerte, bortsett fra det faktisk å starte musikken. 
+Google Play musikk fungerte imidlertid fint. 
+
+Litt videotrøbbel 
+
+Når du åpner nettsteder som Netflix og TV2 Sumo i en Android-nettleser, ber de deg om å spille av innholdet i appen, og det kan by på problemer. 
+Netflix-appen, for eksempel, er en av appene som ikke lar deg regulere størrelsen på vinduet, og dermed får du ikke mulighet til å se på i fullskjermmodus; kun innenfor rammene av app-vinduet. 
+
+Dette kan du imidlertid løse ved å bytte over til speiling – da vises bildet over hele skjermen når du spiller av film. 
+Vel å merke gjelder ikke det nødvendigvis alle video-apper – Netflix roterer automatisk skjermbildet uansett hvordan du holder telefonen, mens andre krever at du faktisk må legge telefonen på siden for å få landskapsmodus, og det blir ikke så elegant når den er dokket i ei krybbe. 
+Alternativet da er eventuelt å laste ned en rotasjons-app fra Play butikk som lar deg tvinge landskapsmodus. 
+
+NRK fungerer for øvrig helt fint direkte i nettleseren og støtter fullskjermvisning over hele den store skjermen, akkurat som på en PC. 
+
+Hva om noen ringer? 
+
+Varsler spretter opp nederst til høyre; også når noen ringer. 
+Du kan selvsagt besvare samtalen ved å trykke på knappen og da snakke handsfree (eller via Bluetooth-hodesett om du bruker et slikt), men er du blant dem som da liker å ta med deg telefonen et annet sted, kan du nappe den ut av DeX. 
+Det tar 3-4 sekunder før den er ute av DeX-modus, og så kan du besvare anropet. 
+
+Men merk – hver gang du setter telefonen i krybba, startes DeX på nytt. 
+Helt på nytt. 
+
+Vinduer du hadde åpne er lukket, og eventuelle ting du hadde skrevet inn er borte. 
+Du bør altså sørge for å lagre endringer før du tar ut telefonen, og om du sitter og skriver i et kommentarfelt eller lignende, blir det borte. 
+Vi prøvde dog med en e-post i Outlook, og der lå den i kladd-mappen når vi plugget i telefonen igjen. 
+
+Og for øvrig – Microsofts mobile utgaver av Office-programmene kan også fint brukes med DeX. 
+
+Konklusjon 
+
+Dette fungerte faktisk overraskende godt. 
+Samsung DeX kobles til en TV eller monitor, til mus og tastatur og så er det bare å putte telefonen oppi. 
+I løpet av ti sekunder har du en velfungerende PC-løsning på den store skjermen. 
+
+Flere apper kan kjøres side om side i forskjellige vinduer som kan flyttes på og endres størrelse på, mus og tastatur fungerer som på en PC, enten du høyreklikker eller bruker hurtigtaster. 
+
+Og det hele yter ganske godt – her er det sjelden mye venting; omtrent på linje med en rimelig PC. 
+
+Noe smårusk er det – blant annet fikk vi ikke Spotify til å fungere hverken som app eller i nettleseren, og på enkelte apper kan det være kjedelig at de ikke lar seg bruke i fullskjerm, som Netflix og lignende. 
+
+Ideelt sett skulle vi gjerne hatt en 3,5mm-plugg også (eller at Samsung hadde tenkt på det og lagt den på toppen på S8-modellene), og et lite minus er også at DeX starter med blanke ark når du tar telefonen og ut og setter den tilbake igjen. 
+
+Men fristes du av ideen, kan vi i hvert fall skrive under på at dette fungerte bedre enn vi forventet. 
+
+Samsung DeX EE-MG950 

@@ -1,0 +1,115 @@
+Acer Aspire S13
+Acer angriper premium-markedet med aggressiv prising. 
+Vi har testet den mye omtalte Aspire S13. 
+
+- Jeg spurte ingeniørene våre om de kunne lage et premium-modell til halvparten av prisen til konkurrentene. 
+Jeg fikk til svar at det var umulig, men etter noen måneder klarte de det likevel, resultatet heter S13, sa en tydelig stolt Acer-sjer Jason Chen under selskapets storslipp av elektronikkprodukter i New York tidligere i vår. 
+
+Mye bra her 
+
+Påstanden om halv pris kan selvfølgelig diskuteres. 
+Han siktet her til den enkleste konfigurasjonen, som får en veiledende prislapp på 6.890 kroner, når S13 dukker opp i norske butikker i nær fremtid. 
+Vårt testeksemplar er en god del kraftigere, og koster også mye mer. 
+
+Maskinen kommer i en rekke forskjellige konfigurasjoner, her er en kjapp titt på hva vår maskin har å by på: 
+
+Skjerm: 
+13,3 tommer matt IPS-skjerm (ikke berøring), full HD-oppløsning (1920x1080 piksler) Prosessor: 
+Intel Core i7-6500U (2,5GHz) RAM: 
+8GB Grafikkort: 
+Intel HD 520 (integrert i prosessor) 
+Lagring: 512 GB SSD fra LiteOn Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1,4 (full størrelse) USB-porter: 2 x USB 3.0 + 1 x USB 3.1 (USB-C) Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 802.11a/b/g/n/ac MU-MIMO (Atheros QCA61x4A) 
+Kablet nett: 
+Krever ekstrautstyr (USB->Ethernet-overgang) Annet: 
+Bluetooth 4.0 OS: 
+Windows 10 Home Størrelse: 327 x 228 x 
+14.8 mm Vekt: 
+1,3 kg Pris: 
+Veiledende 11.490 kroner inkl mva 
+
+Dette får du 
+
+Dette er en tynn og lett PC med et chassis som består i hovedsak av aluminium. 
+Ifølge Acer skal det være brukt miljøvennlige materialer omtrent rund baut. 
+
+Kombinasjonen av børstet, sort metall og blanke stållister rundt tastaturdelen og pekeplate, gir absolutt en eksklusiv følelse. 
+
+Lokket er derimot litt mindre forseggjort. 
+Overflaten har et rillet plastbelegg som sørger for at fingeravtrykk nesten ikke vises, smart nok - men rammen rundt skjermen hadde vi nesten forventet skulle vært noe tynnere, på en modell som Acer ønsker skal matche konkurrentenes premium-modeller. 
+
+At lokket ikke kan åpnes uten holde igjen tastaturdelen, gir heller ikke noen utpreget premiumfølelse. 
+
+S13 kan leveres både med og uten berøringsskjerm. 
+Modellen med berøring veier 60 gram mer, og vil bli vesentlig dyrere, fra Acer får vi opplyst at vår konfigurasjon vil koste 16.190 kroner veiledende, med berøringsskjerm. 
+
+Oppsiktsvekkende nok er også berøringsskjermen matt. 
+Som regel er berøringsskjermer speilblanke, noe som kan gi mye uønskede refleksjoner. 
+Det er med andre ord ikke noe problem her. 
+
+Vårt testeksemplar kommer med vanlig, matt ikke-berøringsfølsom skjerm. 
+Panelet er av typen IPS, og byr på svært god innsynsvinkel - uten at farger og kontraster blir skadelidende. 
+Det er akkurat slik det bør være på en såpass dyr maskin. 
+Mange PC-er i premiumsegmentet har derimot mye høyere skjermoppløsning. 
+
+I tillegg til god skjerm og stor SSD, er det også et par andre egenskaper som plasserer denne maskinen i det gode selskap: 
+For det første har trådløstkortet som nevnt støtte for MU-MIMO-teknologien. 
+Dette er en teknologi som implementeres på stadig flere rutere, og som sikrer best mulig hastighet og signalstabilitet til mange (kompatible) enheter samtidig. 
+Les mer om MU-MIMO her. 
+
+Den andre premium-egenskapen er vel så viktig for mange: 
+En USB C-port med støtte for USB 3.1 generasjon 2. 
+Det betyr først og fremst støtte for nytt USB-utstyr, der den gamle pluggen er byttet ut med en ny, som kan brukes begge veier. 
+Med USB 3.1 (generasjon 2) er også den teoretiske makshastigheten doblet i forhold til USB 3.0. 
+Les mer om dette i denne artikkelen. 
+
+Fin å bruke, men ikke helt lydløs 
+
+Tastaturet er romslig, fast og godt. 
+Det avgir svært lite lyd under tasting, og baklyset sørger for at det enkelt kan brukes i mørke omgivelser. 
+Under tastaturet sitter en stor pekeplate. 
+Den fungerer helt utmerket til både enfinger- og flerfingerberøring. 
+De integrerte knappene for venstre- og høyreklikking lager hørbar lyd, men ikke så høy at det blir plagsomt. 
+
+De integrerte høyttalerne gir en lyd med utpreget klar diskant, men desto svakere bassgjengivelser. 
+Det er mer malen enn unntaket på så tynne PC-er, dessverre. 
+
+Det er imidlertid en annen ting som er verdt å bemerke: 
+Det er ikke fritt for litt viftestøy her, først og fremst når du utsetter PC-en for tyngre belastning (kalkulasjoner, komprimering, spillgrafikk og så videre). 
+Viften har forskjellige trinn, der øverste trinn gir en godt hørbar, høyfrekvent lyd. 
+Det trekker totalinntrykket noe ned, for vi begynner å bli ganske bortskjemte med støysvake PC-er i de fleste segmenter nå, og kanskje spesielt i premiumklassen. 
+
+Skuffer ikke på ytelse 
+
+Ytelsesmessig skuffer den derimot ikke. 
+Dette er en av de raskeste ULV-prosessorene på markedet, som sammen med grei minnemengde (8 GB) og gjennomsnittlig rask SSD (447 MB pr sekund lesehastighet og 364 MB pr sekund skrivehastighet) sørger for at alle vanlige oppgaver løses raskt og effektivt, også flere oppgaver samtidig. 
+
+Intel-grafikken er ikke optimalisert for spill, men enkelte nyere titler kan du spille hvis du går ned på oppløsning og detaljnivå. 
+Her har Intel gjort store fremskritt med sjette generasjon Core i-prosessorer. 
+Men er gaming viktig for deg, velger du uansett en annen maskin. 
+
+Batteritiden er meget bra. 
+Vi kunne strømme video fra YouTube i 565 minutter, som betyr 9 timer og 25 minutter. 
+Acer antyder rundt 11 timer med variert bruk mellom hver lading. 
+Det er optimistisk, men rundt 10 timer med variert, lett bruk, bør være mulig å oppnå. 
+
+Konklusjon 
+
+Det er ingen tvil om at Acer S13 er en fin ultrabook, med et pent og robust ytre og gode tekniske egenskaper. 
+Men er den egentlig så mye billigere enn tilsvarende fra konkurrentene? 
+Nei, det er den ikke. 
+Hvis du tar en titt på denne listen hos Prisjakt, vil du se at du blant annet får de meget populære ultrabookene HP Envy 13 og Asus Zenbook UX303 med samme prosessor til omtrent samme eller lavere pris. 
+Ingen av dem står etter vår mening tilbake for opplevelsen du kan forvente med Acer S13. 
+
+Nøyer du deg med en Core i5-prosessor (noe vi mener er smart), vil du finne mye premiumsnadder å velge mellom i denne prisklassen. 
+
+Egenskaper som USB-C-port, 512GB SSD og MU-MIMO-støtte er derimot sjelden vare i klassen, så prisen er slett ikke ublu, men glem at den er halv pris av konkurrentenes. 
+
+I mangel på terningkastet 4,5 havner vi til slutt på en svak femmer på terningen. 
+
+Få med deg plusser og minuser i boksen under, og les også de andre, ferske PC-testene, før du bestemmer deg. 
+
+Acer Aspire S13 er på vei til norske butikker i skrivende stund. 

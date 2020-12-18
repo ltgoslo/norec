@@ -1,0 +1,110 @@
+God mellomklasse-modell fra Lenovo
+Fin design, god skjerm og et meget godt tastatur. 
+Det er mye å like ved den oppdaterte Ideapad 510S. 
+
+Hvis du har fulgt med på Dinsides PC-tester dette året, har du sikkert lagt merke til at vi har testet en rekke modeller i ultrabook-klassen med skjermer på 14-tommer. 
+Dette er en størrelse som igjen har blitt mer vanlig, etter at markedet i flere år har vært dominert av 13,3 og 15,6-tommere. 
+
+Fin mellomklassemodell 
+
+Du fikk kanskje samtidig med deg testen av Acer Swift 3, som ble kronet med terningkast 6? 
+Nå har vi tatt en titt på modellen IdeaPad 510S fra Lenovo, en PC som ligner mye på den nevnte Acer-en, både hva angår utseende, størrelse, spesifikasjoner og pris. 
+Kan den tukte vår soleklare favoritt i 7-8.000 kronersklassen? 
+
+Skjerm: 
+14 tommer, FHD IPS-skjerm, matt (1920 x 1080 piksler) OS: 
+Windows 10 Home norsk - Signature Edition Prosessor: 
+Intel Core i5-7200u Grafikk: 
+Intel HD 620 RAM: 
+8 GB SSD: 512 GB (M.2 SATA) 
+Nett: 802.11ac, Bluetooth 4.0 Tilkoblinger: 2 stk USB 3.0, 1 stk USB 2.0, HDMI, minijack for lyd inn/ut Størrelse: 336 x 19 x 235 mm Vekt: 
+1,5 kg 
+
+Hva betyr spesifikasjonene? 
+
+Først er det greit å gjøre oppmerksom på at 510S kommer i en rekke forskjellige konfigurasjoner, og i utgaver med både 13,3 og 14 tommer skjerm. 
+Prisene starter på rundt 4.500 kroner for den enkleste 14-tommeren, som kommer med en Pentium-prosessor fra forrige Intel-generasjon, 4 GB RAM og 128 GB SSD. 
+
+Leveres med «ren» Windows 10 
+
+Vårt testeksemplar representerer derimot den dyreste konfigurasjonen her til lands, med siste generasjon Core i5-7200u-prosessor, 8 GB RAM og en romslig SSD på hele 512 GB. 
+Prisen ligger på 7.990 kroner hos Elkjøp/Lefdal, da i såkalt Signature Edition. 
+Det betyr at du får den helt uten demoprogrammer og annet rusk og rask fra tredjepart, noe som bidrar til at du får en best mulig opplevelse. 
+
+Størrelse og vekt er nærmest identisk med Acer Swift 3, den veier nøyaktig 1563 gram, bare 16 gram mer enn Acer-en, viser våre egne målinger. 
+Chassiset er laget av aluminium fra innerst til ytterst, og den matte overflaten er langt på vei immun mot skjemmende fingeravtrykk. 
+
+På undersiden er det imidlertid en vesentlig forskjell. 
+Her har Ideapad 510S innsug av luft, noe Swift 3 ikke har. 
+Dermed anbefaler vi ikke å ha Ideapad 510S for lenge i fanget, da det kan føre til varmgang med tilhørende viftestøy. 
+
+I fronten på undersiden sitter et par høyttalere merket Harman. 
+Lyden er ikke mer enn OK. 
+Den duger greit til lav bakgrunnsmusikk, radio og YouTube, men mangler bassen som trengs for å gi godfølelse. 
+Det er imidlertid sjelden kost i denne klassen. 
+
+Alle tilkoblingene sitter på sidene. 
+Her finner du to USB 3.0-porter, en USB 2.0-port, HDMI-utgang, nettverksport (10/100/1000 Mbps) samt 3,5mm kontakt for lyd inn/ut. 
+Vi savner definitivt en USB-C-port. 
+At denne mangler, må skyldes at førsteutgaven av 510S ble lansert på et tidspunkt da USB-C ikke var veldig utbredt. 
+
+Åpner vi lokket, blir vi møtt av et klassisk og rent Lenovo-miljø, med det karakteristiske tastaturet med avrundede taster i bunn. 
+Det er et helt strålende godt tastatur, med minimal svikt, god respons og lite støy under tasting. 
+
+Under tastaturet sitter en gjennomsnittlig stor pekeplate, med markert skille mellom venstre- og høyreklikking. 
+Den støtter multiberøring, og fungerer for eksempel glimrende til skrolling i lange nettsider med to fingre. 
+
+Imidlertid merker vi oss nok en mangel i forhold til Acer Swift 3, støtte for Windows Hello og pålogging/autentisering med fingertuppen. 
+Dette er noe vi har begynt å forvente av PC-er i 2017. 
+
+Skikkelig fin skjerm 
+
+Skjermen måler 14 tommer og har full HD-oppløsning (1.920 x 1.080 piksler). 
+Overflaten er matt, noe som betyr at den gir minimalt med reflekser fra omgivelsene. 
+Panelet er av typen IPS, som sørger for god fargegjengivelse og innsyn fra sidene. 
+Lysstyrken er gjennomsnittlig god, og totalt sett er opplevelsen av skjermen helt på høyden av hva du bør forvente når du legger 8.000 kroner på bordet for en ny PC. 
+
+Faktisk kan du legge skjermen nesten helt flatt! 
+Det er sjelden kost, uansett klasse - med unntak av hybridene mellom PC og nettbrett. 
+Vi har selv hatt glede av det mange ganger, for eksempel når vi vil se film på flyet - og det er ekstremt trangt mellom setene. 
+
+Slik er ytelsen 
+
+PC-en byr på en ytelse som er helt på linje med de andre modellene vi har testet med tilsvarende prosessor. 
+Core i5-7200U er prosessoren som er ment å dekke behovene for 80 prosent av oss, og sørger for god generell ytelse i kontorprogrammer og alt av nettaktiviteter, inkludert strømming av høyoppløst video og musikk. 
+Dette er en maskin du kan jobbe på uten at du hele tiden blir heftet av forsinkelser og timeglass - selv når du kjører flere programmer samtidig. 
+
+Passmark poeng: 
+2589 CPU: 
+4786 GPU (3D): 
+882 SSD l/s: 563 MB/532 MB pr sek Batteri video: 358 min 
+
+Lenovo har utstyrt maskinen med en godt hørbar vifte - men den er stille i lange perioder med liten og lett aktivitet. 
+Under tung belastning vil du oppleve at den spinner opp og lager noe støy - spesielt om du faller for fristelsen å legge PC-en i fanget eller på en pute. 
+
+Er du opptatt av spilling, finnes det langt hvassere PC-løsninger du heller bør kikke nærmere på, men til eldre og litt enklere spill enn dem du finner på topp 10-lista, kan du ofte spille med grei flyt. 
+Simms, Football Manager, Minecraft og andre, mindre grafikkintensive spill bør være null problem. 
+
+Godt med lagringsplass 
+
+SSD-en kommuniserer via SATA-grensesnittet, noe som begrenser hastigheten litt i forhold til PCIe-løsninger, som for eksempel i den nevnte Acer Swift 3 og «råtassen» Microsoft Surface Book. 
+Vi målte lese/skrive-ytelsen til 563/532 MB i sekundet på det meste, noe som absolutt er akseptabelt - og garantert ikke noe som vil oppleves som en flaskehals under normal bruk. 
+Og så har den svært god kapasitet, da! 
+Normalt leveres PC-ene i denne klassen med 256 GB SSD - her får du det dobbelte. 
+
+Hva så med batteritiden? 
+Vi strømmet video fra YouTube i 358 minutter før maskinen slo seg av, noe som tilsvarer like under 6 timer. 
+Det skulle tilsi rundt 6-7 timer med lett, variert bruk, noe du minst bør kunne forvente i denne klassen nå. 
+
+Vi må samtidig legge til at batteriet lades kjapt, etter en time i stikkontakten hadde kapasiteten gått fra 0 til 60 prosent. 
+Det tilsvarer ladetiden på Swift 3, tangering av årsbeste, med andre ord. 
+
+Konklusjon 
+
+Lenovo Ideapad 510S ligger langt nede på salgslistene, men etter å ha testet den, mener vi mange flere bør vurdere denne maskinen. 
+Det er en fin maskin med gode ytelser, og hadde den hatt fingeravtrykkleser og USB-C-port hadde vi landet på en femmer på terningen. 
+Nå ble det til slutt en sterk firer, men klarer du deg uten de to egenskapene, er dette en maskin som gir deg det du betaler for og litt til - ikke minst meget god lagringsplass. 
+
+Se oppsummeringsboksen under for våre plusser og minuser, og sjekk også ut testene av Acer Swift 3 før du bestemmer deg. 
+
+Lenovo IdeaPad 510S-14 80UV006RMX 

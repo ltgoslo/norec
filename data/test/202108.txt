@@ -1,0 +1,93 @@
+Trådløsruteren for deg som har mye du vil koble til
+Superruteren fra Linksys er laget for store hus og miljøer, og er kanskje klassens aller mest brukervennlige. 
+
+I høst testet vi tre såkalte AC5300/5400 MU-MIMO-rutere. 
+Disse representerer noe av det ypperste på rutermarkedet akkurat nå, og er laget for å håndtere mange trådløse enheter samtidig - uten å gå på kompromiss verken på hastighet eller rekkevidde. 
+Derfor egner de seg spesielt i store og godt isolerte hus med mange krevende brukere. 
+
+Produktene vi testet er fra Asus, TP-Link og Netgear. 
+Du finner samletesten her. 
+
+The missing Linksys 
+
+Vi hadde også en tredje ruter inne, fra Linksys. 
+Vårt eksemplar av modellen EA9500 hadde imidlertid en feil som gjorde at vi fort skjønte at målingene ble feil. 
+Nå har vi fått tilsendt et nytt eksemplar, og her ser du hvordan testen gikk. 
+
+Vi har flyttet i nytt hus siden sist, og derfor har vi også testet vinneren fra i høst, TP-Link Archer AC5400, på nytt for å kartlegge styrkeforholdet mellom dem. 
+
+Alt om testmetodikk og bakgrunnsinformasjon om denne ruter-klassen finner du på denne siden. 
+
+Hele åtte nettverksporter 
+
+Ruteren fra Linksys statuerer mer enn noen andre i klassen at dette dreier seg om en toppmodell, ved at den har åtte gigabit nettverksporter på baksiden. 
+Det er den faktisk alene om blant de fire vi har testet. 
+I tillegg finner du en USB 3.0-port og en USB 2.0-port for tilkobling av eksternt utstyr som harddisker, minnepinner og skrivere. 
+
+De åtte antennene sitter alle fast og skal bare rettes ut før ruteren er klar til bruk. 
+På høyre side finner du knapper for å skru av og på trådløst nett, og for hurtigoppkobling til det trådløse nettet uten aksesskode. 
+
+Og så er det en ting vi liker veldig godt: 
+Her er det ikke noen blinkende led-lamper som forstyrrer, kun et svakt LCD-panel på toppen som lyser opp Linksys-logoen. 
+Vi vil ikke påstå at ruteren er så veldig stuevennlig, men setter du den høyt kan den nok helt sikkert passere hos mange. 
+
+Merk at disse ruterne er store. 
+EA9500 måler 26,4 x 31,8, x 6,6 centimeter og veier 1,7 kilo. 
+
+Dette kan Linksys aller best 
+
+Er du ute etter en ruter som er enkel å sette opp og administrere, er Linksys aldri noe dumt valg. 
+Det viser våre tester gjennom mange år, og EA9500 intet unntak i så måte. 
+
+I vårt tilfelle satte vi ruteren på et egnet sted i toppetasjen, koblet til en stasjonær PC - og før vi visste ordet av det, åpnet installasjonsveiviseren seg i nettleseren. 
+Her blir du tatt gjennom det grunnleggende oppsettet steg for steg, og du blir bedt om å velge navn og passord på aksesspunktene, passord på ruteren og om oppdateringer skal installeres automatisk. 
+Alt enkelt forklart på godt norsk. 
+
+Du kan også sette opp et gjestenettverk, med innlogging via nettside, og definere hvor mange som skal kunne kobles til (inntil 50 stk). 
+Vi antar at denne nettsiden kan skreddersys - men har ikke forsket på det. 
+
+Det er uansett greit å huske på at denne ruteren er laget for å håndtere mange samtidige brukere, og vil derfor være godt egnet for bruk i møtelokaler og andre steder der folk møtes. 
+
+Videre finner du støtte for MU-MIMO, dynamiske DNS-tjenester (dyn.com og no-ip.com), DLNA, en rekke sperrefunksjoner (foreldrekontroll), MAC-filtrering, medieprioritering og en god brannmur - men det finnes en del rutere med enda flere avanserte funksjoner. 
+Her mangler for eksempel støtte for VPN. 
+Er avansert funksjonalitet viktig for deg, bør du vurdere RT-AC5300, som er Asus sin konkurrent i denne klassen. 
+
+Merk at du kan også styre ruterfunksjonene via Linksys egen app. 
+Det kan du faktisk også gjøre via Internett, når du ikke er tilkoblet ruteren direkte. 
+
+Ytelsesmålingene 
+
+Vi startet med å koble den samme, raske minnepinnen til ruteren som ble benyttet i testen av de øvrige, og målte opp- og nedlastingshastigheten til en PC som var tilkoblet med kabel. 
+Vi oppnådde lesehastigheter på maks 65 MB i sekundet, og skrivehastighet på 33 MB i sekundet. 
+Det er ikke blant de raskeste vi har testet, men er greit for de aller fleste formål - inkludert strømming av høyoppløst video. 
+
+Til sammenligning oppnådde vi en lesehastighet på over 90 MB i sekundet og skrivehastighet på 54 MB i sekundet, på TP-Link Archer AC5400. 
+
+De trådløse målingene i samme rom viste derimot topp ytelse. 
+Her benyttet vi en PC med Intel AC8260-kort, som er blant de mest utbredte i premiumsegmentet pr i dag, og oppnådde hastigheter på inntil 583 Mbit pr sekund. 
+TP-Link viste seg å bare være marginalt raskere, med 592. 
+
+Hastigheten sank betraktelig til etasjene under, og her viste TP-Link seg å være bedre: 
+
+Samtidig må vi legge til at kjellerstua ligger temmelig langt unna aksesspunktet, og da er feilmarginene også større. 
+Vi målte derfor mange ganger, men fikk aldri høyere tall en 79 Mbps, mens høyeste tall med TP-Link var 173 Mbps. 
+Samtidig klarte vi ved ett tilfelle å måle i overkant av 150 Mbps på samme sted med vår iPhone 6S Plus: 
+
+Konklusjon 
+
+Dette er en ruter med kraftigere maskinvare enn på enklere hjemmerutere, myntet på store og krevende miljøer. 
+Derfor er også prisen relativt høy. 
+Og er du på utkikk etter en slik sak, kan vi skrive under på at Linksys EA9500 er en særdeles enkel ruter å sette opp og brukervennligheten er generelt blant de aller beste i klassen. 
+
+Trådløsytelsen når du befinner deg i samme rom, er også helt i toppklasse. 
+Signalstyrken avtar imidlertid noe raskere når du beveger deg til andre rom og etasjer, enn hos testvinneren. 
+Til nettverkslagring er ytelsen ganske midt på treet, sammenlignet med klassen for øvrig. 
+
+Totalt sett har ruteren innfridd våre forventninger. 
+
+Du finner våre plusser og minuser av betydning, i boksen under. 
+De øvrige AC5300/AC5400-ruterne vi har testet, finner du her. 
+
+Linksys EA9500 
+
+LES OGSÅ: 

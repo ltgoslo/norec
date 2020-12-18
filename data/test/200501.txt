@@ -1,0 +1,119 @@
+Lenovo Yoga 900S
+Utvilsomt en av de beste hybrid-PC-ene vi har testet. 
+
+Interessen for nettbrett stuper. 
+Mobilen er nok den største årsaken, men vi skal heller ikke kimse over stadig bedre hybrider mellom PC og nettbrett. 
+I denne klassen foregår det en rivende utvikling nå, og dagens testprodukt er blant de beste hybridene vi har testet, om ikke den aller beste. 
+
+Tynneste på markedet 
+
+Modellen heter Yoga 900S, og produsenten er Lenovo. 
+Ifølge produsenten er det den tynneste hybriden på markedet, med sine 1,29 centimeter. 
+I tillegg er vekten så lav som 1 kilo - og da begynner vi å snakke om en portabilitet som ikke lenger er skrekkelig langt fra dedikerte nettbrett med tastaturdeksel. 
+
+For selv om skjermtastatur er supert til mye, kommer vi ikke utenom et ordentlig tastatur til den mer seriøse jobbingen. 
+
+Her er en kjapp utlisting av de mest sentrale tekniske egenskapene: 
+
+Skjerm: 
+Blank 12,5 tommer full HD IPS berøringsskjerm (1920 x 1080 piksler) Prosessor: 
+Intel Core m5-6y54 - passiv kjølt RAM: 
+8GB (som også er maks) Grafikkort: 
+Intel HD 515 (integrert) Lagring: 256 GB SSD (M.2 PCIe) 
+Optisk drev: 
+Nei Skjermutganger: 
+Mulig via overgang fra USB-C til HDMI 1.4 (ekstrautstyr) USB-porter: 1x USB 3.0, 1x USB 2.0 og 1x USB-C (USB 3.1 gen1) Webkamera: 720P 
+Kortleser: 
+Nei Trådløst nett: 
+802.11a/b/g/n/ac (Broadcom) Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 OS: 
+Windows 10 Home Størrelse: 305 × 12,8 × 208 mm Vekt: 1002 gram Pris: 
+Fra 12.990 kroner (jf Prisjakt 31. mai 2016) 
+
+Merk at én av USB-portene er av C-typen. 
+Denne er ventet å erstatte den klassiske USB-porten. 
+Les mer om det her. 
+Som ekstrautstyr kan du kjøpe en overgang til HDMI (1.4). 
+Da kan du koble PC-en til en ekstern skjerm med oppløsning på inntil 4K (3840 x 2160 piksler med 30Hz oppfriskning) 
+
+Minnet er ikke oppgraderbart, men det skal være mulig å bytte SSD-en. 
+Mer om det tekniske senere. 
+
+Meget lekker og solid 
+
+Allerede når du ser esken, skjønner du at dette er et produkt utenom det vanlige. 
+Produsenten har gjort seg stor flid i å lage en smakfull innpakning - og spesiell utpakking. 
+Se denne videoen, så skjønner du hva vi mener: 
+
+Mye av kabinettet består av karbonfiber, som både er sterkt og lett. 
+Man får absolutt følelsen av at dette er en solid bygget PC, til tross for den lave vekten. 
+
+Overflaten på tastaturdelen er dekket med noe som kan minne om skinn, og både lokk, taster, lister og skjermhengsel har en lekker champagnefarget overlate. 
+Den finnes også i sølv. 
+
+Smakfullt og behagelig 
+
+Skjermhengslet er verdt et eget avsnitt. 
+Her har Lenovo benyttet noe som konstruksjonsmessig kan minne om en klokkelenke, bare mye strammere. 
+Her er ikke noe dødgang, og du må holde igjen i tastatardelen når du skyver skjermen bakover. 
+Den sterke konstruksjonen er en dyd av nødvendighet for at skjermen skal tåle å dyttes helt rundt og dekke baksiden - kanskje tusenvis av ganger i løpet av produktets levetid. 
+
+Det baklyste tastaturet har temmelig lave taster, noe som kan virke litt uvant i starten. 
+Men tastene er i full størrelse, bare enkelte taster er krympet litt. 
+Mest merkbart er det at enter-tasten er såpass liten, men det tok ikke lang tid før vi var dus med den også. 
+Et stort pluss: 
+Tastaturet er nesten lydløst under bruk. 
+Dette er Lenovo gode på. 
+
+God skjerm 
+
+Skjermen i vår test-PC-en har en oppløsning på (2560 x 1440 piksler), men den som er tilgengelig i Norge har den samme men med lavere oppløsning (full HD - 1920 x 1080 piksler). 
+Full HD er uansett tilstrekkelig for de aller fleste av oss - all den tid at skjermen ikke er større enn 12,5 tommer og operativsystemet heter Windows. 
+For god lesbarhet bør de fleste med normalsyn uansett skalere opp tekst og grafikk minst 25 prosent, mener vi. 
+
+Kvaliteten opplevde vi som meget bra, hvis du ikke hemmes for mye av at skjermoverflaten er speilblank. 
+IPS-panelet sørger uansett for at farger, lys og kontrast holder seg godt, uavhengig av betraktningsvinkel. 
+Må du bruke spesielle vinkler for å hindre refleksjoner, er ikke det noe problem. 
+Slikt er etter vår mening uansett obligatorisk om man skal få lyst til å bruke PC-en i nettbrettmodus. 
+
+Og det ser vi ikke bort fra at du vil med denne hybriden, den såpass tynn og lett at det kan falle ganske naturlig - til stående arbeid, til videotitting og spilling på fly og lignende. 
+Utvalget av attraktive nettbrettapper til Windows-brett kan fortsatt bli mye bedre, så vi antar at de fleste som kjøper en 900S kommer til å bruke den mest i PC-modus. 
+Med god grunn, les bare videre. 
+
+Lydløs og passe rask 
+
+Prosessoren er svært strømgjerrig, og trenger ingen vifte for å holde seg kjølig. 
+Til tross for dette vil PC-en slett ikke oppleves som noen sinke til «normale» PC-oppgaver. 
+Sammenlignet med sjette generasjon Core i-prosessorer, er 3D-grafikkytelsen vesentlig lavere. 
+Så noen spill-maskin er dette definitivt ikke (med unntak av de mer enkle variantene). 
+Uansett: 
+Prosessorytelsen tilsvarer den meget utbredte Core i5-4200U, som satt i mange ultrabooks for et par-tre år siden. 
+Den brukte imidlertid mer strøm, og kom som regel med viftekjøling. 
+Men den er i høyeste grad kapabel til det meste, også i dag. 
+
+PC-en har faktisk ikke vifter i det hele tatt, og støy er derfor ikke-eksistrerende. 
+
+Vårt testeksemplar var imidlertid utstyrt med en enda litt kjappere prosessor (m7) enn butikkmodellen, men forskjellen mellom den og m5-utgaven er liten. 
+Ytelsesforskjellen er i snitt under ti prosent, ifølge gjennomsnittsmålinger fra Passmark PerformanceTest. 
+
+Ifølge våre målinger har SSD-en en gjennomsnittlig rask skrive- og lesehastighet, sammenlignet med andre SSD-baserte PC-er vi har testet i det siste (422 MB/s les og 572 MB/s skriv). 
+Sammenlignet med en standard harddisk er det uansett snakk om 4-5 ganger raskere operasjoner, noe som definitivt merkes på totalytelsen. 
+
+Og hva med batteritiden? 
+Vi streamet YouTube-filmer i 570 minutter før batteriet var tomt, altså i 9 timer og 30 minutter. 
+Det skulle bety at rundt ti timer med lett, variert brukt absolutt bør være oppnåelig. 
+På en såpass kvikk PC - med så lav vekt - kan vi ikke annet enn å bli imponert over batteritiden. 
+
+Konklusjon 
+
+Lenovo Yoga 900S er den beste Yoga-en vi har testet så langt, og definitivt blant de aller beste hybrid-PC-ene vi har testet noensinne. 
+Prisen er høy, men står i stil med kvalitetsfølelsen og ytelsene. 
+Dette er et produkt som føles solid og gjennomarbeidet. 
+
+Vi har aldri før gitt terningkast 6 til en hybrid-PC, men nå er tiden inne. 
+Det gir oss store forventninger til fortsettelsen, både fra Lenovo, HP, Acer, Asus og de andre. 
+
+Få uansett med deg plussene og minusene i boksen under, før du bestemmer deg - og se også testene av hybridene Acer R11, HP Spectre X360 og ikke minst Microsoft Surface 4 Pro før du bestemmer deg. 
+
+Lenovo Yoga 900S-12 80ML000RMX 

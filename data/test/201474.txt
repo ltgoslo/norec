@@ -1,0 +1,110 @@
+Med disse brillene kan man styre drone-kameraet mens den flyr
+… men skal du holde deg til regelverket, kan du ikke ha dem på selv. 
+
+DJI er den ubestridte eneren i dronemarkedet og har de siste årene lansert den ene imponerende dronen etter den andre. 
+
+Vi har testet både Phantom 4 og Mavic Pro, og vi har akkurat fått inn minstemann, DJI Spark til test. 
+Førsteinntrykket der ble litt så som så, for å si det forsiktig. 
+
+Den siste ukene har vi imidlertid disponert en Mavic Pro og et par med DJI Googles; DJIs nye FPV-briller som er kompatibel med de fleste DJI-dronene av nyere dato. 
+
+Se det dronen ser 
+
+Poenget med slike briller er altså at du kan se det samme som kameraet på dronen ser – på direkten. 
+Riktignok er forsinkelsen 110 millisekunder, men det er like fullt ganske imponerende når det tross alt skjer helt trådløst. 
+
+Akkurat det er vel å merke kun mulig med Mavic Pro. 
+Har du for eksempel en Phantom 4, er du nødt til å koble brillene til fjernkontrollen med HDMI-kabel. 
+
+Verdt å merke seg er at dette ikke er VR- eller 3D-briller. 
+Siden dronene kun har ett kamera, er det et helt vanlig «TV-bilde» du ser i brillene. 
+Dog har de to femtommers skjermer innabords; en til hvert øye. 
+Hver skjerm har full HD-oppløsning (totalt 3840x1080), så her snakker vi altså et skarpere bilde enn hva tilfellet er for de ledende VR-brillene på markedet. 
+
+HDMI-inngangen kan dessuten kobles til andre kilder, slik at du også kan bruke brillene for å se på film fra en annen enhet. 
+Vi prøvde for eksempel med en Apple TV, og bildet var knivskarpt og godt. 
+Goggles har eksterne høyttalere, ellers går det også an å plugge i hodetelefoner. 
+
+Ja, det fungerte helt fint å koble dem til en MacBook Pro også, for den saks skyld. 
+
+God komfort 
+
+Selv om disse brillene veier nesten en kilo med hodebøylen, er vekten såpass godt fordelt at de sitter godt på hodet. 
+Lengden kan justeres med et tannhjul i bakkant, og polstringen mot panna gjør dem komfortable å ha på. 
+
+I tillegg finnes det et tannhjul på undersiden som lar deg justere avstanden mellom øynene. 
+En slik innretning tror vi kunne ha gjort susen på Moviemask, for eksempel, for vi trenger ikke å anstrenge oss i det hele tatt for å feste blikket på DJI-skjermene. 
+Å bruke briller går også brillefint (prff-psshh). 
+
+Litt lyslekkasje rundt nesa blir det, men en kjekk mulighet er at man kan vippe opp selve brillene for å se omverdenen; noe vi veldig gjerne skulle ha ønsket oss fra PlayStation VR også, slik at man slipper å ta dem helt av om man er nødt til å prate med noen. 
+
+Styreflate på siden 
+
+Som på Samsung Gear VR, finnes det en styreflate på høyre side, som gjør at du kan betjene dronen direkte via brillene. 
+Den har en ruglete overflate, som er kjekt, siden du da kan kjenne deg fram til hvor den befinner seg. 
+
+På undersiden – en funksjonsknapp og en tilbake-knapp. 
+Disse har ulik utforming der tilbakeknappen har et søkk i seg – også det kjekt, så du kan kjenne deg fram. 
+
+Og på venstre side – et gummilokk som skjuler en micro SD-kortleser (slik at du kan se filmer tatt opp med en DJI-drone), en hodetelefonutgang og den nevnte HDMI-inngangen som kan brukes til å se innhold fra andre kilder, eller som kobles til fjernkontrollen dersom du har en DJI-drone som ikke er en Mavic Pro. 
+
+Hadde DJI laget støtte for også å kunne spille video fra minnekortet som ikke var filmet med en DJI-drone, hadde dette vært et par geniale kinobriller i tillegg. 
+Men du får altså bare sett dronevideo fra minnekortet. 
+
+Brillene lades med en vanlig micro USB-kabel og skal holde til cirka 6 timers bruk før de må lades på ny. 
+En indikator på høyre side med fire prikker angir hvor mye batteri som gjenstår om du trykker på knappen ved siden av. 
+
+Oppdateres ofte – ta en oppstart hjemmefra 
+
+En ting som kan være litt irriterende med DJI-dronene er at det stadig kommer oppdateringer, og de kan være på flere hundre megabyte. 
+
+Har du dratt ut i felten, risikerer du derfor å måtte laste ned en slik (over mobilnettet) før du får flydd, så her er et godt tips å starte opp hjemme først for å påse at du har siste versjon av fastvaren og eventuelt laste ned en ny via WiFi. 
+
+Det hadde ikke vi da vi hadde pakket opp drone, fjernkontroll og briller, og dermed måtte vi lade opp fjernkontrollen til over 50 prosent, laste ned, oppdatere og holde på – det hele tok faktisk bortimot en time før vi var klare. 
+
+Dessuten måtte vi finne fram Mavic-manualen for å finne ut hvor i huleste «linking button» var plassert. 
+Den ligger godt skjult og umerket helt oppe i hjørnet bak lokket på den ene siden og må trykkes inn med en kulepenn eller tilsvarende. 
+Så vet du det. 
+
+Enkle å betjene 
+
+Med styreflaten er det enkelt å betjene DJI Goggles. 
+Den støtter bruk av både én og to fingre, der du trekker to fingre ned for å hente fram menyen og én finger for å navigere i den. 
+
+Sveiper du to fingre til siden, kan du låse styreflaten slik at du slipper noen uheldige trykk. 
+
+På skjermen vises også all nødvendig informasjon, som høyde, fart og liknende, i tillegg til videoinnstillinger og den slags. 
+Du kan velge mellom 720p med 60 bilder per sekund eller 1080p med 30 bilder per sekund, men merk at sistnevnte kun leveres når dronen er relativt nær deg og faller derfor ned til 720/30 når den kommer litt unna. 
+
+Ellers er bildet stort og skarpt. 
+Ifølge DJI tilsvarer bilderammen å stå én meter fra en 216-tommers skjerm. 
+
+Styr dronen – eller kameraet 
+
+DJI Goggles har flere flyfunksjoner innbakt. 
+Du kan for eksempel bruke Tapfly, der du ser i en retning og prikker på styreflaten for å at dronen skal kjøre dit, eller ActiveTrack, som lar deg merke ut en person, en bil eller liknende og der dronen følger objektet når det beveger seg. 
+
+Best liker vi når du styrer selve kameraet i dronen. 
+Den som styrer flyr som vanlig, mens den som har på brillene kan titte seg rundt og vri kameraet deretter. 
+Dette gjenspeiles nødvendigvis på mobilskjermen til den som flyr dronen, så det er derfor ikke så enkelt å bruke skjermen som navigasjonshjelp dersom den andre har vridd på hodet. 
+
+Litt begrenset blir det på Mavic Pro, siden kameraet bare kan vinkles 30 grader til høyre og venstre, så man får ikke sett så mye til sidene. 
+Nedover kan det vinkles 90 grader, så om du har på brillene og ser ned på føttene dine, vil du se bakken rett under dronen. 
+
+Legg merke til at vi nevnte to personer her. 
+I henhold til lovgivningen her til lands, er det nemlig et krav at den som flyr skal kunne se dronen, så skal du følge loven, kan du faktisk ikke fly dronen når du har Goggles på selv. 
+Da bør du i det minste ha med deg en som kan se dronen og varsle deg om det er fare på ferde. 
+
+Fungerer fint, men mest for moro 
+
+Og det hele fungerer veldig bra – vi har latt mang en nabo og bekjent komme innom og prøve i løpet av testperioden, og folk synes det er ganske artig å kunne se seg selv og omgivelsene fra lufta. 
+
+Bildet er skarpt og hakker lite, og som før lar vi oss forbause over DJIs teknologi hva gjelder å levere levende bilder på lange avstander. 
+
+Men om du trenger dem er et annet spørsmål. 
+Foruten å kunne se levende bilder på nært hold og styre kameraet med hodet, er det ingen ekstrafunksjoner du får med disse brillene på som du ikke har i DJI-appen fra før. 
+
+Men har du siklet på dem, kan vi i hvert fall skrive under på at de fungerer like godt som vi håpet. 
+Husk bare at du ifølge lovgivingen ikke kan ha dem på selv hvis det er du som flyr dronen. 
+
+DJI Goggles 

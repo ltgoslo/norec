@@ -1,0 +1,63 @@
+Lader to enheter og gjør det enkelt å finne igjen bilen
+Dette produktet finner vi fint lite å utsette på. 
+
+Selv om de fleste biler av nyere årgang stort sett har innebygde USB-porter til lading av mobiltelefonen, er det fortsatt mange som er nødt til å ty til den gode, gamle sigarettenneren hvis de vil lade mobiltelefonen mens de kjører. 
+
+Her finnes det en haug av produkter å velge mellom, som gir deg ett eller to USB-uttak. 
+
+Mange av dem har dog begrensninger med tanke på ladestrømmen, der du gjerne må betale litt mer for en som kan lade telefoner og nettbrett med en tilfredsstillende hastighet. 
+
+De rimeligste variantene lader såpass sakte at det kun er snakk om å holde enheten i live, snarere enn at batteriprosenten går oppover. 
+
+Lader to samtidig 
+
+Zus fra selskapet Nonda ble opprinnelig folkefinansiert via Indiegogo på tampen av 2015. 
+Skaperne fikk inn rundt to millioner kroner den gangen, men nå er produktet tilgjengelig via vanlige salgskanaler. 
+Blant annet får du kjøpt dagens produkt hos Komplett og Multicom. 
+
+Zus kan lade to enheter samtidig via sigarettuttaket i bilen og tilbyr inntil 2,4A på hver enhet (4,8A totalt), som betyr at ladehastigheten vil være omtrent på nivå som om du lader fra stikkontakten hjemme. 
+
+I løpet av 26 minutter hadde vi gått fra 0 til 29 prosent på en HTC 10 Evo, altså 928mAh. 
+Det skulle bety en ladehastighet på rundt 2,1A i snitt. 
+
+Kjekt er det også at begge USB-portene har ei lyslist så det er lett å stikke ledningen på rett plass selv om det skulle være mørkt, men enda kjekkere er det at USB-portene er reversible; altså at det ikke er noe som heter «feil vei» når du stikker i ledningen. 
+
+Smarte funksjoner 
+
+Ikke bare kan Zus-laderen gi strøm til to enheter. 
+Den har også Bluetooth innebygd, som gjør at du kan pare den til telefonen din. 
+
+Via en app for iOS og Android kan du blant annet se spenningen på bilbatteriet, men den kanskje smarteste funksjonen er at du med Zus i bilen kan finne den igjen om du har glemt hvor du parkerte. 
+
+For når bilen stoppes og Bluetooth-kontakten med telefonen din brytes, lagres bilens posisjon. 
+Den kan du se på et kart, eller med en «radar»-visning, der du ser hvor langt unna bilen er og hvilken retning du må gå – som regel relativt god, men som enkelte ganger bommer med noen grader. 
+
+Dette fungerer riktignok kun når du har parkert utendørs – i et parkeringshus vil dette bli høyst unøyaktig. 
+
+Med tanke på parkering har appen også en enkel funksjon som kjapt lar deg taste inn hvor mye parkeringstid du har betalt for, slik at du får varsel om å gå tilbake til rett tid. 
+Via appen kan du også ta bilde av bilen om du vil. 
+
+Logger kjøreturer 
+
+Har du firmabil du bruker til privat kjøring, kan Zus-appen også brukes for å loggføre kjøreturene. 
+Dette skjer automatisk (må aktiveres først), slik at du senere kan kategorisere turene som jobbturer eller privatturer. 
+Akkurat denne delen av appen opplever vi som litt ustabil, der den blant annet hopper til forrige skjermbilde når vi vil skrolle nedover i listen. 
+
+Du kan logge inntil 60 turer i måneden uten å betale; ellers finnes det et abonnement til 30 dollar i året uten begrensninger. 
+
+Om dere er flere i familien som bruker Zus, kan man knytte seg til andre brukere, slik at din bedre halvdel kan finne bilen du satte fra deg ved stasjonen eller lignende, men det kan ikke brukes for å spore deg når du er på farten. 
+
+Konklusjon 
+
+Nonda Zus er en billader som leverer akkurat som lovet. 
+Den kan lade enheter med god hastighet, har et stilrent design og innebygd LED-belysning som kan være kjekk i mørket slik at man finner porten. 
+
+Og portene er reversible, slik at det ikke har noe å si hvilken vei du putter i USB-kabelen. 
+
+Parkerer du, logges posisjonen automatisk, og via appen kan du enkelt finne igjen bilen. 
+For mange kan det også være kjekt at kjøreturer blir loggført, der du kan skille privat kjøring fra jobbkjøring, selv om Android-appen her oppleves noe ustabil. 
+
+Zus har dessuten MIL-STD-810G-sertifisering for høye temperaturer. 
+
+Prislappen på 399 kroner bør være overkommelig for de fleste. 
+Du får kjøpt Zus blant annet hos Komplett og Multicom. 

@@ -1,0 +1,94 @@
+Mange vil fint klare seg uten
+Den dyreste Chromecasten til nå, men vi tror mange i målgruppen ikke trenger den. 
+
+Da Chromecast kom til Norge for tre år siden, var det en kjekk liten plugg å stikke i TV-en, selv om utvalget av kompatible tjenester var relativt begrenset. 
+
+Bedre var tilbudet da vi testet 2015-utgaven av Chromecast, som i tillegg hadde støtte for raskere trådløst nett, og som også var raskere til å starte filmer du castet til den. 
+Samtidig kom Chromecast Audio; en Chromecast-variant beregnet kun på lydoverføring, og som derfor kan gi trådløs funksjonalitet til et hvilket som helst stereoanlegg. 
+
+Chromecast-pluggene har vært en billig løsning for dem med begrenset smart TV-funksjonalitet og har solgt i bøtter og spann i Norge. 
+I høst kunne Elkjøp melde at de hadde solgt rundt én million Chromecast-enheter her til lands; ganske imponerende i et land med drøye 2,3 millioner husholdninger. 
+
+Hva er Chromecast? 
+
+Mange kan derfor fint hoppe over dette avsnittet, men for deg som ikke er helt oppdatert, er Chromecast en plugg du stikker inn i HDMI-porten på TV-en, og som da gjør at du kan caste innhold til TV-en fra en PC, et nettbrett eller en mobiltelefon, altså uten å bruke kabler. 
+
+Dette har det etter hvert blitt god støtte for i mange apper; både på Android og iOS. 
+Om du bruker Chrome-nettleseren på en PC, kan du dessuten sende hele skjermbildet over til TV-en, og det samme kan gjøres fra Android-enheter. 
+
+Dyrere Ultra-utgave med 4K-støtte 
+
+Der tidligere Chromecast-enheter har kostet 3-400 kroner, er Ultra-utgaven vesentlig dyrere. 
+Den koster det dobbelte, snaue 800 kroner, og er altså dagens testprodukt. 
+
+Nytt denne gangen er at Ultra-utgaven har støtte for 4K-oppløsning og HDR. 
+Dessuten har strømadapteret en nettverksport, som gjør at du kan koble Chromecast med kabel til nettverket hjemme for bedre hastighet og stabilitet. 
+
+En slik strømadapter er for øvrig også tilgjengelig for tidligere enheter. 
+
+Litt merkelig er det at Google har lagt inn en begrensning der du kun får sett 4K-innhold dersom du bruker den medfølgende adapteren. 
+Den er ikke spesifisert mer enn 5V/1A, så i teorien burde enhver mobillader fungere like godt, men bruker du en annen blir du begrenset til full HD-oppløsning. 
+
+Med andre ord må du passe på å få med deg både enheten og strømadapteret dersom du skal ta den med deg. 
+
+Chromecast Ultra er merkbart raskere i skøytene – også på trådløst. 
+Side om side med den første generasjonen tok det bare fem sekunder fra vi trykket «cast» til YouTube-filmen var på skjermen, mens det tok femten sekunder med førstemann. 
+Vi hadde dessverre ikke en 2. generasjon Chromecast for hånden, men den ligger nok et sted i mellom. 
+
+Enkel å sette opp 
+
+Som vanlig er det enkelt* å komme i gang med Chromecast. 
+Når du har plugget den til TV og strøm, setter du TV-en over på den aktuelle HDMI-porten, og der står det på skjermen hva du skal gjøre. 
+
+Det innebærer å laste ned Google Home-appen, og når du starter den, får du beskjed om at det er en Chromecast Ultra som venter på å bli satt opp. 
+Koble deg til, gi den et navn, velg hvilket nettverk den skal kobles til, og så er du i gang på få minutter. 
+
+I oppsettet kan du også velge hvorvidt gjestemodus er tillatt (altså der andre kan caste innhold når de er på besøk), eller tilpasse hva som skal vises når du ikke caster noe («backdrop»), for eksempel bilder fra NASA eller fra ditt eget bibliotek hos Google Foto. 
+
+*Vi hadde faktisk litt trøbbel akkurat denne gangen, fordi vi brukte en Huawei-telefon. 
+
+Huawei-telefoner har nemlig en WiFi+-funksjon, som automatisk bytter over til det nettet med best netthastighet, og siden oppsettet innebærer at man kobler seg til et nettverk som opprettes av Chromecast-enheten (uten tilgang til internett), byttet telefonen tilbake ganske kjapt slik at vi ikke fikk fortsatt oppsettet. 
+Slå av WiFi+ der, altså, om du har en Huawei-telefon. 
+
+Begrenset 4K-innhold 
+
+Selv om 4K-TV-er har vært på markedet en stund, er 4K-innhold i stor grad forstatt mangelvare. 
+
+Som vanlig er det først og fremst Netflix (krever dyrere abonnement) og YouTube som har 4K-materiale å by på, og noe av det er også med HDR-støtte. 
+Google selv har lansert 4K-filmer i sin filmleiebutikk, Google Play, i USA, men det har foreløpig ikke dukket opp her til lands. 
+
+Og dermed blir det åpenbare paradokset som følger: 
+Om du har en TV med 4K og HDR er sannsynligheten svært høy for at den også har YouTube- og Netflix-støtte fra før. 
+
+For mange vil dermed ikke Chromecast ha så mye mer å by på annet enn at du kan styre det hele fra mobiltelefonen i stedet for TV-fjernkontrollen. 
+
+Det kan selvsagt bli bedre i fremtiden når flere aktører kommer med 4K-innhold, uten nødvendigvis å tilby apper for diverse Smart TV-løsninger. 
+
+Hva med bilder? 
+
+En ting jeg hadde sett frem til da jeg skulle teste Chromecast Ultra var på en enkel måte å kunne se bilder jeg hadde tatt i 4K-oppløsning på TV-en. 
+
+Men når jeg sender bildene frem og tilbake mellom den første utgaven av Chromecast og Chromecast Ultra, er det liten forskjell i kvaliteten, og på ingen måte 4K-skarpt på sistnevnte. 
+
+Ultra-varianten laster riktignok bildene litt raskere, og de er mindre komprimert enn det de er om du har den første Chromecast-utgaven, men oppløsningen er tilsynelatende den samme. 
+
+Så vidt vi kan se er det dermed ingen støtte for 4K-casting av stillbilder fra Google Foto. 
+Det burde Google ha hatt på plass når dette produktet ble lansert, synes vi. 
+Vi har heller ikke lykkes å finne en app som kan fikse denne biffen, og på Googles app-side, er det kun tre apper som har støtte for 4K: YouTube, Netflix og Redbull TV. 
+
+Ei heller når vi speiler skjermbildet fra PC-en får vi et 4K-bilde, så her er det også liten forskjell mellom Chromecast Ultra og den første varianten. 
+
+Konklusjon: 
+Hvem trenger den? 
+
+Har du en 4K-TV og mangler Netflix eller YouTube-app med 4K-støtte, kan Chromecast Ultra være aktuell for kjøp. 
+
+Men vi tviler på at det gjelder fryktelig mange; i hvert fall ikke om TV-en i tillegg har HDR-støtte. 
+Typisk vil det være aktuelt for deg som var tidlig ute med 4K-TV og kjøpte en for 2-3 år siden. 
+
+For der den første Chromecast-enheten kom til en verden der mange manglet smart-TV-funksjoner, ser ikke verden helt lik ut nå. 
+Har du en TV uten smartfunksjoner, er det lite sannsynlig at den har 4K-oppløsning, og da klarer du deg med den vanlige Chromecast-utgaven til halve prisen. 
+
+Og foreløpig ser det ut til at de fleste vil klare seg med den vanlige Chromecast-utgaven inntil videre uansett. 
+
+Google Chromecast Ultra 

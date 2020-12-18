@@ -1,0 +1,119 @@
+Lenovo Thinkpad X1 Yoga
+Med prislapp på godt over 20.000 kroner, er dette en PC-hybrid langt utenfor hvermansens budsjett. 
+Men hva får du egentlig, når du betaler så mye? 
+
+PC-prisene har steget noe i det siste, blant annet som følge av svakere krone mot amerikanske dollar. 
+Det er likevel fortsatt mulig å få meget gode bærbare til godt under 10.000 kroner. 
+Vi har testet flere av dem i 2016. 
+
+Mer enn det dobbelte 
+
+Nå er det slik i PC-verdenen - som på mange andre områder, det blir dyrt hvis du skal velge det aller beste. 
+Det behøver ikke være veldig store forskjeller mellom best og nest best når det gjelder kvalitet og ytelse, mens forskjellen i pris ofte er enorm. 
+
+Det ser vi et godt eksempel på i dagens testprodukt, dønn solide Lenovo Thinkpad X1 Yoga. 
+Thinkpad er IBMs legendariske PC-serie, konservativ i uttrykket - men kjent for sin gode byggekvalitet og slitestyrke. 
+Serien lever fortsatt i beste velgående, ti år etter at Lenovo overtok IBMs bærbar PC-divisjon, og X1 Yoga er blant de aller letteste og tynneste 14 tommer hybridene på markedet. 
+
+Prisene starter på rundt 20.000 kroner i Norge, vårt testeksemplar er litt dyrere. 
+Før vi går videre, skal vi se på noen av de mest sentrale egenskapene: 
+
+Skjerm: 14" halvblank berøringsskjerm, IPS-panel, 2560 x 1440 piksler Prosessor: 
+Intel Core i7-6500U (2,5 GHz) 
+RAM: 
+8GB (som også er maks) Grafikkort: 
+Intel HD 520 (integrert i prosessoren) 
+Lagring: 256 GB SSD (PCIe-basert) Optisk drev: 
+Nei Skjermutganger: miniDisplayPort + HDMI USB-porter: 3x USB 
+3.0 Webkamera: 
+Ja, 720P Kortleser: microSD Trådløst nett: 
+Intel AC8260 (802.11a/b/g/n/ac) Kablet nett: 
+1000Mbps via medfølgende overgang Annet: 
+Fingeravtrykkleser, mobilt bredbånd innebygd (4G), leveres med penn, kan betjenes både med pekeplate, skjermberøring og styrepinne OS: 
+Windows 10 Pro Størrelse: 333 x 229 x 
+16.8 Vekt: 1,37kg Pris: 
+22.622 i billigste nettbutikk jf Prisjakt.no 19.7.2016 
+
+Det som ikke kommer fram i punktlisten over, er at byggekvaliteten er meget høy. 
+Her har Lenovo benyttet metall, mest magnesium, over det hele, og maskinen tilfredsstiller militære krav til styrke og holdbarhet i tøffe og fuktige omgivelser. 
+Dette må ta mye av skylden for den relativt høye prisen. 
+
+God og høyoppløst skjerm 
+
+Skjermen måler 14 tommer, og har så høy oppløsning at skalering av tekst og grafikk i operativsystemet er en nødvendighet for å unngå at alt blir smått og uleselig. 
+Ved leveransen er alt skalert opp til dobbel størrelse (200 prosent), noe som gir god lesbarhet for de fleste av oss, samtidig som alle raster og overganger blir svært fine. 
+
+Videre virker skjermen å være lyssterk og fin, innendørs bruker vi den som regel på rundt 50-75 prosent uten problemer. 
+Panelet er typen IPS, noe som betyr meget god innsynsvinkel, og god fargegjengivelse over hele skjermflaten. 
+Merk også at maskinen kan leveres med OLED-panel, men da til en langt høyere pris - og med redusert batteritid. 
+
+Skjermen kan dyttes helt rundt, eller benyttes i forskjellige posisjoner til forskjellig bruk. 
+
+Helt rundt er den i tablet-modus, og sammen med pennen er det enkelt å ta notater eller utføre annet arbeid mens du er stående. 
+Helt som å skrive/tegne på papir er det derimot ikke, det er en liten forsinkelse mellom tuppen og opptegningen, men med litt trening går det greit. 
+Ingen har kommet helt i mål på dette punktet ennå. 
+
+Tastatur i særklasse 
+
+Samtidig er det verdt å huske på at dette produktet først og fremst briljerer når du bruker det i klassisk PC-modus. 
+Mye av æren må det fantastisk gode tastaturet ta. 
+Tastene er store, responsive, støysvake, og tastaturplaten er så godt som sviktløs. 
+Det innbyr til lange skriveøkter, og etter min mening er Thinkpad-tastaturene blant de aller beste på markedet. 
+Tastene er baklyste, og du har to nivåer å velge mellom, i tillegg til av. 
+
+Vi liker også godt at dette tastaturet er helnorsk, uten de fellesnordiske tastene som vi finner på stort sett alt av modeller i forbrukermarkedet (med unntak av Apple og Multicom). 
+
+Den eneste lille innvendingen vi har, er at FN- og CTRL-tastene nederst til venstre har byttet plass i forhold til et standard tastaturoppsett. 
+Det krever tilvenning, spesielt hvis du er vant til å bruke CTRL i forbindelse med kopier/lim i Windows. 
+
+Som på en del proffmodeller fra HP og Dell, har også Thinkpad-ene en styrepinne for musenavigering, plassert mellom G, H og B på tastaturet. 
+Knapper for venstre- og høyreklikk, samt skrolling, er plassert mellom pekeplaten og mellomromstasten. 
+Det ser kanskje litt snålt ut, men det var overhodet ikke til sjenanse under vår testperiode. 
+
+Godt utstyrt, men mangler USB-C 
+
+Alle tilkoblingene sitter på sidene, og her finner du også av/på-knappen. 
+Årsaken til sistnevnte er naturligvis at det skal gå an å skru den av/på når den er i tablet-modus. 
+At du må bruke overgang for å koble den til kablet nett, synes vi er helt greit, all den tid overgangen følger med og ikke beslaglegger en av USB-portene. 
+Tre USB-porter på en såpass lett og tynn maskin, synes vi er meget bra - men vi skulle gjerne sett en USB-C-port med Thunderbolt-støtte i tillegg. 
+Det bør man egentlig kunne forvente i denne prisklassen. 
+
+To stereohøyttalere er plassert til høyre og venstre under PC-en. 
+Lyden er helt OK til tale og lav bakgrunnsmusikk, men mer bass hadde vært helt på sin plass. 
+Bruk hodetelefoner eller eksterne høyttalere hvis lydkvalitet er viktig for deg. 
+
+Slik er den i bruk 
+
+Ytelsesmessig er det svært lite å utsette på maskinen. 
+Den har en av de raskeste ULV-prosessorene fra Intels sjette generasjon Core i-familie, noe som betyr god ytelse til nær sagt alle tenkelige oppgaver du kan tenke deg å gi til en moderne PC - med unntak av tung spilling. 
+Her er kanskje grafikkprosessoren et vel så stort ankepunkt, men gamere har aldri vært i tankene til Lenovo da de konstruerte denne PC-en. 
+Da velger du ganske enkelt noe helt annet. 
+
+Maskinen har som ventet ingen problemer med å spille video i alle oppløsninger, inkludert 4K-video i alle formater. 
+Den blir heller ikke særlig varm, og det kan gå laaange perioder mellom hver gang kjøleviftene starter opp. 
+Men har du den i fanget og kjører tunge oppgaver, vil de starte hyppig - og vil også være hørbare. 
+De har imidlertid ikke sjenert oss under testperioden. 
+
+Der maskinen virkelig skinner når det gjelder ytelse, er på SSD-ytelse. 
+Med skrivehastighet på inntil 1,2 GB i sekundet - og lesehastighet på godt over 700 MB i sekundet, er dette en av de aller raskeste SSD-løsningene vi har testet på bærbare PC-er. 
+Jobber du med svært store og tunge filer, vil du garantert komme til å merke det og sette pris på den høye hastigheten. 
+
+At maskinen leveres med 8GB RAM som ikke kan oppgraderes, kan derimot være et lite ankepunkt for enkelte. 
+Her vil imidlertid den raske SSD-en fungere effektivt som mellomlager ved behov. 
+
+Hva så med batteritiden? 
+Lenovo hevder at du kan forvente rundt 11 timer mellom hver gang du må lade batteriet. 
+Våre tester viser at det er i overkant optimistisk, med mindre du jobber svært lett og med meget svak lysstyrke på skjermen. 
+Under kontinuerlig strømming av videoer fra YouTube, holdt batteriet ut i 513 minutter, eller litt over 8,5 timer. 
+Et mer realistisk tall vil være rundt 9 timer med variert bruk, noe som uansett er godkjent. 
+
+Konklusjon 
+
+Lenovo Thinkpad X1 Yoga er en ypperlig arbeidsmaskin. 
+Den er lett, svært robust og yter meget bra i de aller fleste situasjoner. 
+Tastaturet er blant de aller beste på markedet, og maskinen byr på et vell av fleksible løsninger, inkludert tablet-modus når du skulle ønske det. 
+
+Ankepunktene vil for mange være høy pris, og er du ikke så opptatt av at maskinen skal tåle mange omganger juling, vil du kunne gjøre mer fornuftige kjøp. 
+I så fall bør du absolutt få med deg testene av HP Spectre X360 og Lenovo Yoga 900S. 
+
+Lenovo ThinkPad X1 Yoga 20FQ0041MN 

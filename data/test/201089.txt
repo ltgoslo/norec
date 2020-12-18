@@ -1,0 +1,92 @@
+Linksys EA7500 med MU-MIMO-teknologi
+Bak det anonyme ytre sitter det et maskineri som effektivt håndterer mange tilkoblinger samtidig. 
+
+EA7500 er den andre ruteren fra Linksys som støtter såkalt MU-MIMO-teknologi (Multi User, Multiple Input Multiple Output), den første var storebror EA8500. 
+
+Kort fortalt betyr MU-MIMO at ruteren kan transportere data til og fra mange tilkoblede enheter mer effektivt enn hva eksisterende SU-MIMO-rutere kan. 
+
+Fremtidsrettet modell 
+
+Ifølge Linksys kan MU-MIMO-teknologien faktisk tredoble hastigheten i et gjennomsnittlig hjemmenettverk, når tre eller flere enheter er tilkoblet og overfører store datamengder samtidig. 
+
+Ruteren er utstyrt med en 1,4GHz dobbelkjernet prosessor, og kan faktisk håndtere inntil 12 enheter samtidig uten at noen vil oppleve å bli nedprioritert, hevder Linksys. 
+
+For å få full effekt kreves imidlertid at utstyret du kobler til ruteren også er MU-MIMO-kompatibelt. 
+Foreløpig er det ikke mye utstyr som støtter det, men det kommer. 
+
+Sørg også for å plassere ruteren på et fornuftig sted. 
+
+Dette er en såkalt AC1900-ruter. 
+Det betyr at den støtter hastigheter på inntil 1300Mbps i 5GHz-båndet, og 600Mbps i 2,4GHz-båndet. 
+Opplevd hastighet vil som vanlig være langt lavere. 
+Her er en kjapp oversikt over de viktigste tekniske egenskapene: 
+
+Modell: 
+Linksys EA7500 MU-MIMO Standarder: 
+802.11a/b/g/n/ac Antenner: 
+4 USB-porter: 1 x USB 2.0 x USB 3.0 USB-funksjoner: 
+Nettverkslagring og skriverdeling LAN-porter: 4 x 1000Mbps LAN + 1 x 1000Mbps WAN Gjestenett: 
+Ja Annet: 
+Størrelse: 257 x 184 x 56 mm Vekt: 
+558gPris: 
+Fra 1.795 kr (jamfør Prisjakt 8.4.2016) 
+
+Forrige test var for eksempel av en AC2600-ruter fra TP-Link (maks 1733Mbps + 800Mbps) som hadde svakere hastigheter enn flere AC1900-rutere vi har testet. 
+
+EA7500 har tre eksterne antenner, og ellers et relativt diskré ytre. 
+Ruteren kan enten stå på et bord, eller monteres vertikalt på en vegg. 
+
+Alle tilkoblingene og knappene sitter i bakkant, inkludert de to USB-portene for tilkobling til skrivere og eksterne lagringsmedier. 
+Merk at kun én port er USB 3.0-kompatibel, så hvis hastighet er viktig for deg, kobler du eventuelle lagringsmedier du vil dele, til denne. 
+
+Eventuelle disker eller minnepinner kan konfigureres med tilgangskontroll, eller være åpent for alle som er tilkoblet nettet. 
+De kan også nås via internett dersom du skulle ønske det. 
+Merk imidlertid at ruteren ikke har innebygd VPN-server. 
+
+Blant de aller enkleste å sette opp 
+
+Installasjonen av ruteren er svært enkelt, slik vi er vant til fra Linksys. 
+Det følger med en hurtigguide på norsk, og brukernavn og passord på ruteren er oppgitt flere steder, slik at du slipper å lete etter dette i prosessen. 
+
+Første gang du kobler deg til, blir du møtt med en veiviser i nettleseren, som tar deg gjennom prosessen med å konfigurere ruteren: 
+
+Ruteren administreres senere via et svært enkelt og lekkert grensesnitt på norsk. 
+Vi vil faktisk påstå at Linksys er blant de aller beste på brukervennlighet, samtidig som funksjonaliteten er meget god. 
+Gjør du endringer, utføres det meste kjapt og smertefritt: 
+
+Ved å registrere deg hos Linksys, kan du administrere ruteren fra hvor som helst i verden, inkludert fra mobil. 
+iOS-appen er smakfullt designet, på norsk og svært enkel å bruke: 
+
+Foreldre vil garantert sette pris på gode kontrollmuligheter, blant annet kan du tidsstyre tilgangen til spesielle PC-er og mobiler. 
+Og i motsetning til flere av konkurrentene, er det her faktisk enkelt å sette opp: 
+
+Ytelse på trådløsnett og nettverkslagring 
+
+Vi brukte samme utstyret og fulgte samme testprosedyre som er beskrevet i denne artikkelen, også da vi testet EA7500. 
+
+Den første testen var å måle trådløshastigheten mellom ruteren og test-PC-en vår i samme rom. 
+Her oppnådde vi 43MB per sekund på kanal 44, som var automatisk valg i 5GHz-frekvensområdet. 
+Ved å manuelt bytte til kanal 48, målte vi 44MB per sekund, som i praksis betyr samme ytelse. 
+
+Som du ser i diagrammet under, er ytelsen temmelig midt på treet sett i forhold til de andre ruterne vi har testet i det siste - og ganske som vi hadde forventet: 
+
+Laveste målte hastighet i vårt tre-etasjes trehus, var altså 23MB per sekund, noe som tilsvarer 287Mbps. 
+Bruker du ruteren mest som en inngang til internett, og abonnerer på en hastighet som er lavere enn dette (noe de fleste av oss gjør), ville du altså fått full valuta trådløst - uansett hvor du hadde befunnet deg i vår testbolig. 
+Det er absolutt godkjent. 
+
+Rekkevidden viste seg også å være innenfor forventningene, det vil si at vi fikk sporadisk kontakt med ruteren fra en benk 75 meter fra huset, både med mobil og PC - vel og merke ved bruk av 2,4GHz-båndet. 
+
+Vi målte også hastigheten mot usb-lagring, og her er vi spesielt fornøyd med lesehastigheten - som er fjerde beste vi har testet noen gang. 
+Merk derimot at skriveytelsen ligger godt bak de beste - inkludert storebror EA8500: 
+
+Konklusjon 
+
+Linksys EA7500 er en god og brukervennlig ruter med ytelser som er ganske midt på treet, sett i forhold til utvalget ellers i klassen. 
+
+Med MU-MIMO-støtte er den også forberedt på å håndtere utstyr som kommer i tiden fremover. 
+
+Den har videre et diskré design, noe vi tror mange vil sette pris på. 
+
+Sjekk plussene og minusene i boksen under, og sjekk også ut de andre testene - kanskje spesielt av storebror EA8500 og konkurrenten TP-Link Touch P5 - som koster omtrent det samme. 
+
+Linksys EA7500 

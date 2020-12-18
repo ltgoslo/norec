@@ -1,0 +1,105 @@
+Samsung Gear 360
+360-graderskamera som fanger alt – foran, bak, over og under. 
+
+Du har sikkert sett dem på Facebook – 360-gradersbildene (eller -filmene) som lar deg titte deg rundt; enten ved å bevege telefonen i lufta eller bruke pekefingeren og dra bildet i alle retninger. 
+
+Har du en VR-brille, som Samsung Gear VR, kan du også titte deg rundt med brillene på. 
+
+Man kan lage slike bilder selv ved å knipse panoramabilder med telefonen. 
+Mer lettvint er å gjøre det med et dedikert 360-kamera, som også kan filme video i 360 grader; noe du ikke får til med en mobiltelefon uten ekstra tilbehør. 
+
+Dagens testprodukt er Samsung Gear 360. 
+Dette er et kamera med to objektiver som er montert på hver sin side. 
+Begge objektivene fanger 180 grader hver seg i alle retninger, og ved hjelp av programvare sys de automatisk sammen slik at du får et sfærisk 360-gradersbilde du senere kan titte deg rundt i. 
+
+Kun for Samsung 
+
+Verdt å merke seg med en gang er at du må ha en Samsung-telefon for å kunne se bildet fra kameraet på mobilskjermen, og for å fjernstyre opptak og den slags. 
+Telefonen må i tillegg være fra S6 og oppover eller en Note 5, som aldri ble lansert i Norge, men som i tillegg blir erstattet av en ny Note-telefon om bare noen dager. 
+
+Du kan imidlertid betjene kameraet med knappene på enheten, og det følger også med redigeringsprogramvare for Windows. 
+
+Men det er absolutt en fordel å ha en kompatibel telefon. 
+
+Ikke noe for bukselomma 
+
+Den klassiske «er det en Samsung Gear 360 du har i lomma, eller er du bare glad for å se meg?» er definitivt en gyldig kommentar om du går med Gear 360 i lomma, for det kuleformede hodet måler rundt 6,5cm i diameter, mens enheten er cirka 12cm høy inkludert benene. 
+
+Kameraet er med andre ord ikke spesielt lommevennlig. 
+Heldigvis følger det med en liten bæreveske i pakken, i tillegg til at du kan feste en stropp i stativ-delen av kameraet. 
+
+De tre benene kan du enten ha samlet, slik at du kan holde kameraet i hånda, eller trekke dem ut fra hverandre for å plassere Gear 360 på en overflate. 
+Du kan også skru av hele delen dersom du heller har lyst til å plassere Gear 360 på et kamerastativ; her med standard stativfeste. 
+
+De to kameraene har begge lysstyrke på f/2,0, som kombinert gir en videooppløsning på 3840x1920, eller stillbilder på 25,9 megapiksler. 
+Kameraet er IP53-sertifisert og er derfor sprutsikkert. 
+
+Enkel betjening 
+
+Du har altså to måter å bruke dette kameraet på, enten via appen på telefonen eller direkte med knappene på selve enheten. 
+
+Tar vi en runde rundt, finner vi tre knapper på utsiden – en av og på-knapp (som også går tilbake i menyer), en menyknapp (som holdes inne for å pare via Bluetooth første gang) og en knapp for å starte og stoppe opptak på toppen, som også fungerer som bekreftelse i menyene. 
+Paringen kan også skje enkelt ved å bruke NFC. 
+
+En liten, monokrom skjerm på toppen viser hvilken modus kameraet står i, gjenstående batteri, og hvor mange bilder eller minutter med video som gjenstår på minnekortet. 
+
+Gear 360 bruker micro SD-minnekort (samme type som er vanlig på mobiltelefoner med minnekortstøtte), og sprekken finner du bak et lokk på siden. 
+Der finner du også batteriet (kan tas ut og byttes med et annet), samt en micro USB-port som brukes for å lade kameraet. 
+
+Faktisk synes vi Gear 360 går helt greit å betjene uten å bruke telefonen. 
+Du bytter enkelt mellom stillbilder, video, timelapse (fortfilm) og såkalt video loop, der kameraet filmer hele tiden, men bare tar vare på video dersom du trykker på knappen på toppen, hvorpå de siste 5, 30 eller 60 minuttene spares. 
+
+Fin app 
+
+Flere muligheter får du altså om du bruker Gear 360 Manager-appen, som er tilgjengelig for Android og da altså for nyere Samsung-enheter. 
+
+Da kan du blant annet se direktevisning av bildet fra kameraet, der du enten kan se det fulle panoramabildet, se begge kameraene på hver sin halvdel av skjermen eller ha muligheten for å titte deg rundt ved å stryke fingeren på skjermen. 
+
+Du har også mer kontroll over ting som følsomhet, hvitbalanse, HDR-modus og den slags. 
+Når du har tatt bilder eller filmet, kan du enkelt overføre filene til mobiltelefonen etterpå. 
+Dette går imidlertid ikke spesielt fort når det gjelder video. 
+
+En 15-sekunders filmsnutt tok ett minutt å overføre; da riktignok i høyeste kvalitet (3840x1920). 
+Det er allikevel bare en snau megabyte i sekundet. 
+Bitraten er med andre ord cirka 27Mbps på full oppløsning, som skulle tilsi at du kan filme cirka 1t20m på et 16 GB minnekort. 
+Gear 360 støtter for øvrig minnekort opptil 200 GB. 
+
+Så – hvordan blir resultatet? 
+
+Vi er i utgangspunktet godt fornøyde med bildekvaliteten vi får fra Gear 360; særlig når det gjelder stillbilder. 
+
+Under kan du for eksempel se et bilde vi tok en pen sommerdag i Rygge: 
+
+Bildet har vi delt via Googles Street View-tjeneste, hvis app gjør at alle kan laste opp egne bildebobler. 
+Den oppmerksomme vil se at det er skjøtet to bilder, noe du enklest ser i de to fargesjatteringene på himmelen. 
+Akkurat dette bilder var imidlertid ikke det verste eksempelet. 
+
+Spesielt i situasjoner der de to kameraene får ganske forskjellig lys på seg (typisk at det ene har sola på sin side), får vi en veldig tydelig skjøt rundt hele bildet; mer enn vi har sett fra konkurrenter som Ricoh Theta S. 
+
+Hva gjelder video holder den også ålreit kvalitet i utgangspunktet, men mangelen på stabilisering gjør at videoer der du selv holder kameraet blir svært ustabile, og ser du på dem med Gear VR-briller går det ikke mange sekundene før man føler seg litt uvel, siden hjernen da ikke har noen kroppsbevegelser å kompensere for. 
+
+Eksempel på det får du under: 
+
+(Merk at 360-videoer krever mer båndbredde og at YouTube derfor kan finne på å velge en ganske lav avspillingskvalitet om du ikke sitter på en rask internettlinje.) 
+
+Setter du kameraet stille blir det brått langt mer behagelig. 
+Her er en liten snutt fra en sesjon med Aerobie i hagen: 
+
+Mangelen på muligheten for å koble til en ekstern mikrofon er dog åpenbar – Gear 360 gir ganske spinkel lyd, som også er sterkt mottakelig for vind. 
+
+En annen ting som er litt gøy når du først har 360-graders panoramabilder er at du enkelt kan lage en miniplanet a la denne: 
+
+Konklusjon 
+
+Gear 360 er et 360-graderskamera som er lettvint i bruk, enten du velger å bruke knappene på selve enheten eller styre det via mobilappen. 
+Et skår i gleden for mange vil være at du da er nødt til å ha en Samsung Galaxy S6 eller nyere toppmodell fra Samsung, for det er absolutt en fordel å bruke appen. 
+
+Selv om kameraet har en ganske stilig design, er det heller ikke til å komme fra at det ikke er spesielt lommevennlig. 
+
+På stillbilder leverer Gear 360 god bildekvalitet og takler også vanskelige lysutfordinger, selv om man på mange bilder kan se skjøten mellom de to kameraene. 
+På videofronten blir vi ikke like imponerte. 
+Lydkvaliteten er ikke mye å skryte av og kameraet mangler bildestabilisering, som gjør at håndholdte videoer blir ustabile. 
+
+Prisen på tett opptil 4.000 kroner er heller ikke spesielt rimelig, spør du oss, så foreløpig skal du ha ganske særegen interesse for 360-bilder og -video for at Gear 360 skal være å anbefale. 
+
+Samsung Gear 360 SM-C200 

@@ -1,0 +1,147 @@
+Denne kan hjelpe deg å få et godt inneklima
+Norsk smartdings gjør det lekende lett å sjekke luftkvaliteten i hjemmet. 
+
+Norske Airthings vil gjøre det enklere for folk flest å undersøke luftkvaliteten i hjemmet, og har lansert flere produkter som gjør det lekende lett å sjekke dette gjennom en app og på nett. 
+
+Det er mange husholdninger som sliter med dårlig og forurenset luft, men som kanskje ikke er klar over det, eller hva de skal gjøre med det. 
+Her kan produkter som Airthings Wave Plus være et ganske nyttig verktøy. 
+
+Dårlig luftkvalitet kan påvirke søvnen og kan også være helseskadelig i lengden. 
+Å bli utsatt for høye nivåer med radon, en radioaktiv gass uten farge og lukt, over en lengre periode, kan være svært farlig. 
+Ifølge Kreftforeningen medvirker radon til at rundt 370 nordmenn får lungekreft hvert år. 
+
+Faren øker ytterligere hvis du røyker, og da er i hvert fall viktig å ha oversikt over luftkvaliteten i hjemmet. 
+
+Hvis du vil vite mer om radonforekomster der du bor, har NGU laget et kart med oversikt over sannsynlighet. 
+Merk at en bolig kan ha høye radonnivåer selv om nivået i området er lavt. 
+
+Smart luftkvalitetmåler 
+
+Wave Plus ble tilgjengelig i butikk på tampen av fjoråret og er Airthings' toppmodell for forbrukere. 
+Selskapet selger også en rimeligere Wave-modell med litt mindre funksjonalitet, samtidig som de har Wave Mini på vei. 
+
+I tabellen kan du se forskjellen mellom de tre modellene for hjemmemarkedet. 
+
+Som du ser i tabellen, får du full pakke med Wave Plus, mens de to andre modellene måler tre forskjellige faktorer hver. 
+
+Airthings ser på Wave Plus som hovedenheten i hjemmet, som du kanskje har på soverommet, og tanken er at du skal komplimentere med Wave og Wave Mini i andre rom. 
+
+Felles for trioen er at synkroniseringen for øyeblikket går via Bluetooth, så du må ha en Android- eller iOS-enhet for å hente ut data. 
+Dette blir løst med kommende Wave Hub som gjør at du kan koble for eksempel Wave Plus direkte til nettverket slik at du også kan se luftkvaliteten når du ikke er hjemme. 
+
+Enkelt å komme i gang 
+
+Wave Plus har et enkelt og rent design med en diskré Airthings-logo som pryder fremsiden, og ser egentlig ut som en helt vanlig brannvarsler. 
+Med i esken følger det et veggfeste som du skrur eller teiper på veggen/i taket og som festes til selve Wave Plus med magnet. 
+
+Airthings anbefaler at den plasseres minst 90 centimeter unna vindu og lufteventiler. 
+
+Oppsettet av måleren gjør du med Airthings-appen ved først å opprette en konto og så følge anvisningene på skjermen. 
+Dette tar ikke noe mer enn et par minutter. 
+Her velger du også ting som hvilket rom den vil måle og om du ønsker å dele den geografiske plasseringen med Airthings. 
+
+Hvis du velger å dele, vil du få informasjon om radon og utendørs luftkvalitet i nærheten. 
+
+Det er to måter å se luftkvaliteten på: enten via app/dashboard eller ved å vinke hånden over selve sensoren. 
+Indikatorlyset gir deg kjapt svar på hvordan luftkvaliteten er akkurat nå. 
+
+Wave Plus drives for øvrig av to AA-batterier. 
+
+På app og på nett 
+
+I selve appen får du raskt oversikt over luftkvaliteten i rommet som måles, og det er også her man holder enheten oppdatert. 
+
+Hjemskjermen samler alle Wave-enhetene dine og gir enkel og oversiktlig informasjon de ulike verdiene. 
+Hvis du ønsker å tilpasse oppsettet kan du bruke Airthings Dashboard i nettleseren. 
+Her vises også informasjon om luftkvaliteten utendørs, hentes fra Breezometer, og muligheten til å eksportere Wave-dataene. 
+
+Vi har for det meste brukt appen i løpet av testperioden, men også kikket innom dashboardet fra tid til annen, og er stort sett greit fornøyd med appen. 
+
+Erfaringen er at synkroniseringen er mest konsekvent med en iOS-enhet, og dessverre litt mer trøblete med Android-telefon. 
+Heldigvis er ikke det et altfor stor problem. 
+
+Det er spesielt to ting vi er misfornøyde med ved Airthings-appen. 
+Først og fremst at et norsk selskap i Norge ikke har en app på norsk. 
+Vi spurte selskapet om dette da vi møtte dem under CES i Las Vegas og fikk i svar at de ikke har noen planer om å oversette den, men det kan skje hvis forhandlerne ønsker det. 
+
+Den andre tingen er informasjon om de ulike målingene, du må nemlig på nett for å lese om karbondioksid, luftfuktighet, flyktige organiske forbindelser og de andre. 
+Mange er nok litt usikre på hva de ulike målingene er og hva man eventuelt kan gjøre for å forbedre tilstanden så det er litt synd at denne informasjonen ikke er tilgjengelig i appen som en del brukere forholder seg til. 
+
+For å ta et eksempel. 
+Når du trykker inn på en måling for å se detaljert statistikk, er det en «i» (for informasjon) øverst i høyre hjørne. 
+Vår første tanke er at i-en vil gi oss mer informasjon om for eksempel karbondioksid, men i stedet åpnes innstillingene for enheten. 
+
+Bedre lufting, takk 
+
+Så da er det greit å undersøke litt selv. 
+Ting som luftfuktighet, karbondioksid og temperatur er kanskje det som er enklest å forstå seg på. 
+Karbondioksidnivået påvirkes i stor grad av menneskers utånding. 
+Det la vi spesielt merke til på soverommet om natten. 
+CO₂-nivået steg i taket og var ifølge Norges astma- og allergiforbund (NAAF) i høyeste laget. 
+
+Airthings varsler farenivå rødt når CO2-nivået er over 1000 andeler per million. 
+
+Kai Gustavsen, fagsjef inneklima i NAAF sier at man ikke trenger å bli bekymret hvis nivået er på rundt 800 ppm. 
+CO₂, men måles det verdier over 1000 er det viktig å foreta kartlegging. 
+
+- Flere studier viser sammenhenger mellom høye konsentrasjoner av CO₂ i inneluft og helseplager som hodepine og slimhinneirritasjon, nedsatt arbeidskapasitet og mistrivsel, sier han til Dinside og viser til en lenke fra Folkeinstituttet om karbondioksid og inneklima. 
+
+Ettersom mange unngår å lufte på vinterstid når det er kaldt ute, anbefaler Gustavsen at man har soveromsdøren åpen om natten for bedre lufting, men først og fremst at man lufter så godt man kan. 
+
+Flyktige organiske forbindelser 
+
+Målingen som vi egentlig ikke ble helt kloke på under testingen, var TVOC som står for total volatile organic compounds, og på norsk flyktige organiske forbindelser. 
+Les mer i faktaboksen litt lenger ned i testen. 
+
+Gustavsen i NAAF sier at de er forsiktige med å anbefale grenseverdier for VOC for «hvermansen» ettersom det påvirkes av så mange faktorer. 
+
+- Det kan gjøre utslag hvis man har vasket hendene med håndsprit, bruker deodorant, lager mat og vi har også sett at appelsiner kan gjøre utslag, noe som selvsagt ikke er farlig. 
+Men det kan også komme fra muggsopp, forteller Gustavsen til Dinside og legger til at røyking fra naboer og parfyme også kan påvirke VOC-nivået i rommet. 
+
+Ettersom Miljødirektoratet og NAAF har gått bort fra å sette grenseverdier for VOC, spurte vi Airthings om hva bakgrunnen er for nivåene de har satt i Wave Plus. 
+
+- Airthings ser at måling av VOC har et økende fokus i mange land og er allerede et krav i flere bygningsstandarder. 
+VOC-måleren til Airthings er en veldig «bred» sensor som måler om det er forurensning i luften, og den måler om det er frisk luft eller ikke. 
+Hvis luften i et rom ikke regelmessig blir byttet ut, så slår det ut på VOC-nivået, og gir en indikasjon på at det er dårlig luftkvalitet, sier Erlend Bolle, teknisk sjef og medgründer i Airthings, til Dinside. 
+
+Han legger til: 
+
+- Det er riktig at sensoren ikke ser forskjell på om det for eksempel er formaldehyd, parfyme, eller pust fra mennesker som gir utslag i VOC, men den avdekker at det er noe i luften som gjør at den ikke er ren og frisk. 
+
+Så det er på ingen måte negativt at Wave Plus måler og advarer om høye VOC-verdier, men det er viktig å få frem hva det faktisk betyr og hva som kan forårsake det. 
+
+Smarte løsninger 
+
+I tillegg til å kunne sjekke informasjonen i Airthings-appen, støtter Wave Plus også IFTTT-plattformen og Amazon Alexa. 
+For eksempel kan du spørre assistenten om luftkvaliteten i et visst rom uten å åpne appen. 
+
+I IFTTT-appen til Android og iOS kan du sette opp «applets» for å varsel på sms og e-post for ting som radonnivå, om temperaturen er lav eller om høy luftfuktighen. 
+
+Wave Plus snakker også med Philips Hue gjennom IFTTT slik at det er mulig å få Hue-lysene til å blinke hvis radonnivået eller luftfuktigheten er høy. 
+
+Er du ekstra sosial av deg, kan du aktivere automatisk tvitring om gode radonnivåer. 
+
+Egne tanker 
+
+Det undertegnede merket i løpet av testperioden var at jeg ble ganske opptatt av å undersøke luftkvaliteten til enhver tid. 
+Ettersom synkroniseringen gjøres via Bluetooth, ba jeg samboer om å sjekke nivåene for meg da jeg var i Las Vegas og dekket elektronikkmessen CES. 
+
+Wave Plus har faktisk ført til at vi har blitt bedre til å lufte hjemme. 
+Vi bor i en eldre mursteinsblokk litt utenfor Drammen sentrum med den godt trafikkerte Rozenkrantsgata som nærmeste nabo. 
+Om vinteren luftes det i hovedsak med ventilene i rommene, de må ikke lukkes, men det vi ser er at karbondioksidnivået er i overkant høyt om natten, noe som har gjort at vi er blitt bedre til å åpne vinduene for å lufte på dag- og kveldstid. 
+
+Personlig sitter jeg igjen med fire tanker etter flere uker med Wave Plus i hjemmet: 
+
+Konklusjon 
+
+God luftkvalitet i hjemmet er noe alle burde ha, og smarte dingser som Wave Plus gjør det enkelt for alle å sjekke status i boligen. 
+Ekstra kjekt er det jo at Airthings er et norsk selskap. 
+
+I løpet av tiden med Wave Plus har vi lært mye om luftkvaliteten og hva som kan påvirke den. 
+Mye av informasjonen kommer fra Airthings-appen og -nettsidene, men deler av den har vi blitt nødt til å finne ut av selv. 
+Her savner vi en mer fyldig app som gir informasjon om de ulike målingene og hva for eksempel høy VOC-forekomst kommer av og eventuelle tiltak. 
+
+Er du interessert i å vite mer om luftkvaliteten i boligen, er uansett Wave-serien et produkt vi trygt kan anbefale. 
+Så er jo spørsmålet hvilken enhet du skal velge. 
+Wave Plus har alt, men prisen på 2.690 kroner kan virke litt stiv. 
+Wave og kommende Wave Mini er en del rimeligere, så det kan være lurt å undersøke hvilke ting du ønsker å måle og eventuelt handle deretter. 

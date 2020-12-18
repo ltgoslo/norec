@@ -1,0 +1,103 @@
+ZyXEL PLA-5456:Nettverk via strømnettet 
+
+Sliter du med trådløsdekningen i huset? 
+Da bør du ta en titt på dette alternativet. 
+
+Trådløst nett er blitt omtrent like selvsagt som lys og varme i de fleste norske hjem. 
+
+Å miste kontakten med det trådløse nettet er som regel forbundet med stor frustrasjon, men er noe veldig mange av oss opplever fra tid til annen. 
+
+Årsaken kan selvsagt være uheldig plassering av den trådløse ruteren, men vel så ofte skyldes problemene godt isolerte, store boliger over flere etasjer, med dertil store avstander og mange hindre. 
+
+Her er alternativene dine 
+
+Å få det trådløse nettet til å rekke til hver krok av boligen kan bli en stor utfordring, og noen ganger en umulighet. 
+Så hva gjør du da? 
+
+Å strekke TP-nettverkskabler er kanskje det aller beste hvis utstyret ditt støtter kablet nettverktstilgang og du ikke er redd for å bore i vegger og tak. 
+
+En snillere løsning, men sjelden like effektiv, er å benytte trådløse repeatere til å utvide det trådløse dekningsområdet. 
+Du kan også benytte to rutere og strekke TP-kabel mellom dem, slik vi har skissert her. 
+
+Men det finnes enda en mulighet: 
+Å benytte det kablede nettverket som allerede finnes i enhver bolig. 
+Vi snakker selvfølgelig om strømnettet. 
+
+Slik fungerer det 
+
+Stikkontaktene i boligen er nemlig forbundet direkte mellom hverandre når de ligger på samme strømkurs, og strømkursene er også koblet sammen i sikringsskapet, på forskjellig vis. 
+Noen ligger på samme fase, men som regel er det tre faser inn i skapet som fordeles mellom kursene for å spre belastningen. 
+
+Disse kablene leverer vekselstrøm med en frekvens på 50 Hz, men det er også mulig å sende signaler med langt høyere frekvens, med en avansert modulasjonsteknikk. 
+Dette har blitt formalisert i en standard som har mange varianter og navn. 
+De kalles PowerLAN, dLAN, HomePlug, og utstyr fra flere leverandører kan ofte fungere sammen uten videre, som annet nettverksutstyr. 
+
+På denne måten kan man fint komme seg forbi åpenbare hindringer som store avstander, tykke betongvegger, etasjeskiller med vannbåren varme, og annet som kan skape forstyrrelser eller blokkere signaler. 
+
+Utfordringer i Norge 
+
+Dessverre er det også noen utfordringer til nettverk via strømnettet, og enkelte av dem gjelder spesielt for det norske strømnettet. 
+Dette nettet kalles IT-nett, og avviker fra TN-nett som benyttes stort sett overalt ellers i Europa ved at det ikke er noen felles spenningsreferanse i nettet. 
+
+Siden nettverksutstyr som benytter strømnettet som bærer er laget for TN-nett, kan denne forskjellen påvirke dataoverføringshastigheten negativt i det norske strømnettet. 
+Les mer om de forskjellige nettsystemene her. 
+
+Nå skynder vi oss å legge til at alle de siste løsningene vi har testet, har fungert tilfredsstillende i vårt hus fra 1962, det gjelder også dagens testprodukt fra Zyxel, som faktisk er det raskeste vi har testet så langt. 
+
+Utrolig enkelt 
+
+ZyXEL PLA-5456 støtter siste generasjon HomePlug-spesifikasjoner, kalt HomePlug AV2 MIMO. 
+Her benyttes forskjellige teknikker for å dra hastigheten så høyt som mulig, teoretisk mer enn 1,8 Gbps. 
+
+Det er imidlertid viktig å huske på at slike spesifikasjoner ofte har svært lite med virkeligheten å gjøre. 
+Husk også at det er nesten ikke noe nettverkskort som støtter høyere hastigheter enn 1 Gbps. 
+Mer om det senere. 
+
+Systemet er svært enkelt, og består av to bokser som plugges rett i stikkontakten: 
+Den ene ved ruteren og den andre på det stedet du ønsker kontakt med nettverket. 
+Så forbindes boksene med henholdsvis ruter og PC, spillkonsoll, TV-boks eller hva du ønsker å få på nett, via en vanlig TP-nettverkskabel. 
+Resten går av seg selv, og i vårt tilfelle var PC-en vår på nett omtrent umiddelbart. 
+
+Hver boks har to nettverkskontakter, hver på maks 1 Gbps (og vi mistenker at det er årsaken til at produsenten hevder en makshastighet på «over 1,8 Gbps»). 
+På den måten kan du få to enheter på nett, for eksempel en TV og spillkonsoll, via samme boksen. 
+
+I tillegg anbefaler produsenten at du krypterer forbindelsen, slik at det blir umulig for uinnvidde å snappe opp datatrafikken. 
+Dette gjøre enkelt ved å holde inne reset/crypt-knappen på den ene boksen i to sekunder, og gjøre det samme på den andre innen det har gått to minutter. 
+Dette skal ikke påvirke ytelsen i særlig grad. 
+
+Ytelsesmålinger 
+
+Men hvor raskt går det egentlig? 
+Vi koblet først begge enhetene til jordet stikkontakter på samme kurs, noe som skal gi optimal hastighet. 
+
+Vi overførte deretter en stor fil fra en nettverksdisk til den tilkoblede PC-en, og opplevde en overraskende stabil overføringshastighet på mellom 20 og 25 MB i sekundet (tilsvarende 160-200 Mbps): 
+
+Dette er langt under det spesifikasjonene lover, men likevel det klart raskeste vi har målt over strømnettet i boligen vår. 
+Til internettaktiviteter, streaming av video (også i 4K-oppløsning), bør dette være mer enn tilstrekkelig for de aller fleste av oss. 
+
+Vi hadde for eksempel ingen problemer å makse ut vår 100/30 Mbps-linje fra Canal Digital: 
+
+Deretter koblet vi klientboksen til en jordet stikkontakt på en annen kurs. 
+Dette er det mest sannsynlige scenariet for de fleste av oss, siden dette er en typisk løsning over større avstander i boligen. 
+
+Nå lå hastigheten på mellom 15 og 20 MB i sekundet, men fortsatt godt over internetthastigheten vår: 
+
+Vi koblet deretter klientboksen i en ujordet stikkontakt, nok en gang på en annen kurs enn boksen som var koblet i ruteren. 
+Nå var overføringshastigheten nede på rundt 10-12 MB i sekundet, tilsvarende i underkant av 100 Mbps. 
+
+Fullt så bra gikk det imidlertid da vi flyttet oss to etasjer ned fra aksesspunktet. 
+Da ble hastigheten redusert til rundt 1/4, altså rundt 3 MB i sekundet (24 Mbps) når vi benyttet ujordet stikkontakt. 
+
+Konklusjon 
+
+Vi kan trygt fastslå at løsninger for nettverk via strømnettet har kommet en lang vei siden starten. 
+Dette er den klart raskeste løsningen vi har testet, nærmest kommer denne fra Devolo. 
+Benytter du denne løsningen fra ZyXEL i jordet stikkontakter, kan det i mange tilfeller være en meget god erstatning for manglende trådløsdekning. 
+
+Det er samtidig viktig å understreke kan. 
+Vi vet erfaringsmessig at ytelsen kan variere mye fra bolig til bolig, og fra strømnett til strømnett. 
+Hvis du kjøper denne løsningen, bør du derfor forsikre deg om at du får returnert den hvis den ikke fungerer tilfredsstillende i din bolig. 
+
+Husk også at nye trådløse rutere i 2016 ofte er langt bedre for kun få år siden, og vi har målt hastigheter som ofte langt overgår den hastigheten vi målte i vårt strømnett. 
+
+ZyXEL PLA-5456 Twin Pack 

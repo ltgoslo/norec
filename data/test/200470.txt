@@ -1,0 +1,121 @@
+Endelig har Sony-kameraet blitt bedre
+Sony Xperia XZ gjør sin forgjenger til skamme. 
+
+Ingen mobilprodusenter har så høy takt som Sony hva gjelder å lansere nye toppmodeller. 
+
+Bare se på denne rekken: 
+Xperia Z - våren 2013 Xperia Z2 - våren 2014 Xperia Z3 - høsten 2014 Xperia Z3+ - sommeren 2015 Xperia Z5 Premium - høsten 2015 Xperia X 
+Performance - sommeren 2016 Xperia XZ - dagens testprodukt 
+
+Det er altså bare tre måneder siden vi testet Sonys forrige toppmodell, som nå har blitt erstattet med en enda en. 
+
+To ord om vår testmodell 
+
+La det være sagt med en gang at Xperia XZ er svært lik sin forgjenger X 
+Performance. 
+Vi kommer derfor til å gjøre denne testen noe kort og mer fokusert, så for vurderinger av ytelse, programvare og andre ting, er det liten vits å gjenta alt fra X 
+Performance-testen. 
+Derfor har vi lagt til boksen over så du kan lese i testen av forgjengeren. 
+
+Vi har dessuten brukt en ikke-ferdigstilt telefon som vi fikk låne med oss da vi var på IFA-messen i Berlin. 
+Programvaren kan ha svake avvik i forhold til den som kommer i butikk, men Sony var helt OK med at vi kunne bruke den som en vanlig testmodell så lenge vi sa i fra først dersom det var noen åpenbare feil. 
+Det har det ikke vært, og vi har brukt den som vår daglige telefon i over en uke. 
+Det inkluderer også utstrakt bruk av AR-effekter i kameraappen for å sjekke at vi ikke fikk varmeproblemene som skjemmet Z3+-modellen. 
+Den biten gikk helt fint. 
+
+Ganske vanlig for slike prototyper er at vi ikke har fått lastet ned noen apper for ytelsesmåling på telefonen (typisk sperre på ikke-helt-ferdige telefoner som er utstilt på messer og den slags), men siden maskinvaren er identisk med X 
+Performance har vi vurdert det dithen at disse målingene uansett ville ha vært mer eller mindre lik. 
+
+Begge telefonene har identisk prosessor, lagringsplass og lignende, og den samme programvaren innabords. 
+
+Hva er nytt? 
+
+Den største nyheten er at kameraet er blitt oppgradert, og det er det vi kommer til å fokusere på i denne testen. 
+Er du en fast leser av Dinsides mobiltester, har du sannsynligvis fått med deg at vi ikke har vært så begeistret for kamerakvaliteten de to siste rundene med Xperia-toppmodeller. 
+
+Da er det litt hyggelig å få dette bekreftet fra offisielt hold. 
+På pressearrangementet i forkant av lanseringen av denne telefonen, hadde Sony nemlig mange eksempelbilder på hvordan de nå hadde forbedret kameraet fra forgjengeren, der de selv kommenterte det samme som vi hadde bemerket i våre tester – dårlig detaljnivå og en slags utvasket effekt på mange bilder. 
+
+Kameraet er dog ikke det eneste som er forandret fra X 
+Performance. 
+Skjermstørrelsen har økt fra 5,0 til 5,2 tommer (samme oppløsning), telefonen har blitt slankere, har litt større batteri og dessuten har Sonys nye modell USB-C-tilkobling i bunnen, i stedet for micro USB som de har hatt tidligere. 
+
+Materialvalget er også annerledes, der de nå bruker et spesielt metall, Alkaleido, hvis egenskaper gir litt ulike fargesjatteringer basert på hvordan lyset treffer. 
+Den blå er forresten veldig pen, men vi fikk den sorte modellen til test. 
+
+Fortsatt er den vanntett, som X performance også er. 
+Det er dessuten gjort små justeringer med tanke på lading av batteriet, der telefonen typisk venter med de siste ti prosentene til rett før du pleier å stå opp for å øke selve levetiden på batteriet, altså der det skal ha bedre kapasitet om to år enn det tilsvarende batteri ville hatt hos konkurrentene. 
+
+Så – la oss se på kameraet 
+
+Sony står bak svært mange av bildebrikkene i mobilmarkedet og er også flittig brukt av andre produsenter. 
+Sensoren som sitter i denne telefonen, samt øvrige X- og Z5-modeller, er en såkalt IMX300-brikke, som Sony har valgt å gjøre eksklusiv for sine egne modeller. 
+
+Denne har skøyhøy oppløsning og kan ta bilder med 23 megapiksler, selv om sensoren effektivt er 24,7 megapiksler. 
+Om du tar bilde i 16:9-format får du nemlig flere piksler i bredden enn om du fanger 4:3-bilder (hvor du da får flere i høyden), så i praksis brukes aldri hjørnene av sensoren. 
+Du kan lese mer om akkurat det i Z5-testen. 
+
+Sensoren er 1/2,3", som er blant de aller største på mobilkamerafronten, men med den svært høye oppløsningen, blir pikselstørrelsen rundt 1,05µm, som er ganske lite sammenlignet med mange andre. 
+Lysstyrken er relativt god, selv om f/2,0 må sies å ha blitt ganske vanlig med årene. 
+
+Dog skal det sies at kameraet i disse telefonene som standard tar bilder med 8Mp oppløsning, og at Sony hevder at de gjør dette på en smart måte, der de klarer å utnytte det at de i utgangspunktet fanger flere piksler når man tar bilder. 
+
+Vi hentet derfor X 
+Performance tilbake til test for å sammenligne med sin arvtaker. 
+Og la det være sagt med en gang – Sony har virkelig forbedret kameraet i den nye modellen. 
+
+Før vi ser på bildene 
+
+Signalprosesseringen har altså blitt bedre på Xperia XZ-modellen. 
+Den har i tillegg fått en infrarød sensor ved siden av blitsen som skal hjelpe til med å få riktigere farger og hvitbalanse, samt lasermåling for enda kjappere autofokus, uten at vi synes Sony har hatt noe å skamme seg over på den fronten på deres senere modeller. 
+
+Videostabiliseringsfunksjonen er også blitt forbedret og stabiliserer nå i fem akser. 
+Dog er det verdt å merke seg at ingen av telefonene har optisk bildestabilisering, og at det derfor kun er på videoopptak Sony får utnyttet stabiliseringsfunksjonen, der man filmer med langt lavere oppløsning enn det bildebrikken er god for slik at man har mulighet til å flytte bildet på brikken, hvis det hørtes forståelig ut. 
+
+Bilde #1: 
+Garasjen 
+
+På det første bildet har de to kameraene eksponert bildet identisk med f/2,0, ISO 640 og lukkertid på 1/32s. 
+
+Ikke bare har det nye kameraet bedre hvitbalansering; det er også vesentlig mer detaljert, noe du kan se i 100%-beskjæringene nederst. 
+Dette er altså resultatet av bedre signalprosessering og den nye IR-sensoren. 
+
+Bilde #2: 
+Åkeren 
+
+Det neste bildet er tatt i god utendørsbelysning, der begge kameraene har brukt ISO 40. 
+Legg merke til de langt mer korrekte fargene fra XZ, for eksempel på gresset i forkant. 
+Detaljnivået er også i en helt annen liga enn hva tilfellet er for X 
+Performance, noe du ser i 100%-beskjæringene nederst. 
+
+Og det er nettopp i disse situasjonene vi har vært skeptiske til den senere tids Xperia-modeller, der de selv på lave ISO-verdier har vært svake i forhold til konkurrentene. 
+
+Vi har selvsagt tatt flere bilder en disse to, men vi synes forskjellene kommer så tydelig frem allerede at det er liten vits å poste flere bare for å gjenta seg selv. 
+
+Bilde #3: 
+Hjørne 
+
+Men bare én ting til. 
+Sonys kameraer har lenge vært ledende på vidvinkel, der brennvidden tilsvarer 24mm om vi omregner til 35mm-formatet. 
+Det gjør at disse kameraene fanger mer i bredden enn noe annet kamera på markedet, vel å merke om vi ser bort fra det ekstra vidvinkelkameraet på baksiden av LG G5. 
+
+Sånt går som regel ikke ustraffet, for når man drar slike brennvidder til det litt mer ekstreme, blir resultatet ofte at det spesielt i hjørnene blir veldig uskarpe bilder. 
+
+Men allikevel – til tross for likt objektiv ser vi også at hjørneskarpheten har blitt bedre på Xperia XZ. 
+Bare se her: 
+
+Endelig er Sony tilbake på banen med tanke på kameraet, der selskapet igjen fremstår som en av de bedre på markedet, og som da i tillegg kan by på en vidvinkel få andre matcher, selv om det riktignok ikke ser like pent ut i hjørnene som det gjør på midten. 
+
+Konklusjon 
+
+Dette er telefonen Xperia X 
+Performance burde ha vært i utgangspunktet. 
+Endelig har Sony gjort grep hva gjelder kameraet, og kameraet i Xperia XZ fremstår som ett av de bedre på markedet og er kraftig forbedret, bare tre måneder etter den forrige toppmodellen (!) og med den samme brikken og optikken. 
+
+Annet en det, er det en telefon som hevder seg helt i toppen på de fleste ytelsestester, den er vanntett, har støtte for minnekort og har en delikat utforming – den er rund i kantene, god å holde og er bygget av premium-materiale som gjør at den tar seg godt ut og virker robust. 
+Batteriet er også helt på par med de fleste av konkurrentene. 
+
+Derfor har vi ingen skrupler med å anbefale deg Sonys nye toppmodell. 
+Den er riktignok 700 kroner dyrere enn sin forgjenger, men allikevel er prisen på 6500 kroner helt ålreit sett i forhold til konkurransen, spør du oss. 
+
+Sony Xperia XZ F8331 

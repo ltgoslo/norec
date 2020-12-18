@@ -1,0 +1,144 @@
+TEST:GoGoGate 2 fjern-åpner for garasjeport 
+
+Nå kan også eldre porter styres fra nett. 
+
+I september i fjor skrev vi om ulike typer garasjeport-åpnere for mobil og nett. 
+I tillegg finnes det en rekke andre å få kjøpt på nettet internasjonalt. 
+
+Nå har vi fått anledning til å teste en av dem i praksis. 
+GoGoGate 2 har opphav i Barcelona. 
+Spania og selges av flere nettbutikker i Norge, blant annet hos Portspesialisten, Multicom, Multismart og Eldirekte.no. 
+
+Prisen ligger på rundt 1.500 kroner, uten dørsensensorer. 
+
+Nødvendig med sensorer 
+
+Har du bare én garasjedør, trenger du ikke mer for å åpne og lukke døra fra mobilen. 
+Men det er jo et poeng å få varsel om døra er oppe. 
+Uten sensor får du ikke dette. 
+Vi vil derfor si at sensor er nødvendig. 
+
+Dørsensorer må du også ha når du skal styre flere porter, for eksempel i et anlegg der flere naboer deler garasje. 
+
+Levert med én sensor må du til sammen ut med cirka 1.900 kroner, og med to cirka 2.300 og med tre (som er er maks) cirka 2.800 kroner. 
+
+Vi prøvde i første omgang hovedenheten med én sensor. 
+
+Hvorfor ikke helt trådløst? 
+
+Nyere porter fra store produsenter som Liftmaster og Hörmann har egne, trådløse systemer for portstyring via husets ruter, nett og app (Android, iOS). 
+I noen tilfeller følger dette med, men det hender også at du må du montere det ekstra. 
+
+Vår Liftmaster dørmotor av litt eldre dato styres med fjernkontroll. 
+Det ville derfor være naturlig å tro at den også kunne styres trådløst fra en enhet knyttet til nettet. 
+
+Men så enkelt er det ikke. 
+
+For det første bruker fjernkontrollen radiosignaler. 
+Den er med andre ord ikke infrarød, slik som fjernkontrollen til TV-en. 
+
+For det andre er koden rullerende. 
+Algoritmen er kjent av både mottaker og fjernkontroll, så når du programmerer en fjernkontroll vet mottakeren hva neste unike kode vil være. 
+
+Burde være mulig å gjøre det enklere 
+
+Det er selvsagt gjort slik for at ikke hvem som helst skal kunne åpne porten din ved å fange opp signalet. 
+
+Det finnes likevel fjernkontroller som kan programmeres til å fungere med de fleste portmotorer. 
+Dermed burde det være mulig med en trådløs unversalløsning likevel. 
+
+Det som foregår i selve motoren er jo heller ikke spesielt avansert. 
+De fleste porter åpnes og lukkes ved kortslutning mellom jord og 5 Volts spenning. 
+I de fleste tilfeller holder det å koble to ledninger til en terminal man finner på framsiden eller baksiden av motoren. 
+
+I vårt tilfelle fant vi de riktige hullene like under plasdekselet som sitter over lampa. 
+
+Vi kabelforbindelsen sender WiFi-enheten ut en elektrisk puls som forteller motoren at den skal åpne eller lukke garasjeporten. 
+
+Krever litt fikling 
+
+Vi måtte plundre en god del med gardintrapp og lommelykt for å få festet ledningene. 
+
+Festeanordningene for sensor og WiFi-enhet er også en utfordring. 
+
+Dobbeltsidig tape fungerer ikke på murvegg. 
+Her burde det være muligheter til å skru fast utstyret, for eksempel med en brakett. 
+
+Sensoren, som festes på samme måte, har også lett for å løsne fra garasjeporten, selv om denne er laget av et materiale der limet sitter bedre. 
+Superlim er nok tingen her. 
+
+Ledning pynter ikke akkurat opp, men i en garasje er det jo ikke så farlig. 
+Det beste er å bruke så tynn type som mulig. 
+Den typen man bruker til ringeklokker ved husdøra er ideell. 
+
+Utfordrende for IT-kløner 
+
+Mest utfordrende var det likevel å sette opp selve GoGoGate 2-enheten med appen. 
+GoGoGate har laget en interaktiv guide som tar deg gjennom prosessen steg for steg. 
+
+Følger du denne til punkt å prikke, burde det gå fint. 
+Om du, som oss, prøver på egenhånd, er et mange fallgruver. 
+
+For eksempel får du valget mellom å koble deg opp på et internt nett og WiFi knyttet til internett. 
+Dette valget er ikke åpenbart for en nettverk-ukyndig, og du får ikke varsel om at noe er galt underveis. 
+
+Det er også noe forvirrende at du må sette opp enheten på et eget WiFi-nett som GoGoGate-enheten lager. 
+Først når alle innstillinger er gjort, kan du gå over på det vanlige WiFi-nettet. 
+
+Men heller ikke da er alt åpenbart. 
+Har du flere rutere eller signalforsterkere (repeatere) hjemme, er det ikke likegyldig hvem av dem GoGoGate-enheten kommuniserer med. 
+
+Vi fant ut at vi hadde to alternativer: 
+Koble ut signalforsterkeren og kjøre rett mot ruteren, eller kjøre mot signalforsterkerens SSID (nettnavn). 
+Av en eller annen grunn kunne vi ikke kjøre rett mot ruteren så lenge forsterkeren var koblet inn. 
+
+Nettverks-trøbbel 
+
+I tillegg støtter kommunikasjonsenheten bare 2,4Ghz-signal. 
+Kobler du deg på 5Ghz, får du ingen beskjed om at du har gjort noe galt. 
+Det virker bare ikke. 
+
+Og dersom du kobler mobiltelefonen til 5Ghz-nettet, kan du ikke lenger styre garasjeporten når GoGoGate2 er koblet til 2.4Ghz på samme repeater. 
+
+Som siste steg i prosessen setter du opp appen med «Remote Access», slik at du får tilgang også utenfor huset. 
+
+Også her måtte vi gå noen runder før det satt. 
+
+Her ligger det med andre ord forbedringspotensiale for GoGoGate. 
+
+Vi sender en varm tanke til folkene bak værstasjonen Netatmo, som bare legger ved et par enkle tegninger i pakka. 
+
+Mobilnett hadde vært bedre 
+
+Noen har garasjen så nære huset sitt at wifi-signalet når helt fram. 
+Så heldige er ikke vi. 
+
+Vi måtte sette opp en signalforsterker på husveggen utendørs for å få sterkt nok signal til at GoGoGate 2-enheten skulle virke. 
+
+Selvsagt kan man sette opp en 4G-ruter i garasjen, men det ville vært enda mer elegant om du bare kunne sette et SIM-kort direkte i den trådløse enheten. 
+
+Fungerte bra til slutt 
+
+Når ting først er på stell, er det ingen ting i veien med selve produktet. 
+Tvert om, her finnes det et vell av spennende muligheter for hjemmestyrings-nerden. 
+
+GoGoGate kan for eksempel kombineres med nettkamera, slik at du i tillegg til å sjekke om døra er oppe også kan se hvem som går inn i garasjen. 
+
+Men dette er strengt tatt ikke nødvendig, siden du alltid ser om døra er oppe eller igjen og alltid kan lukke eller åpne den som du vil fra mobiltelefonen. 
+
+GoGoGate bruker IFTTT-standarden, slik at du for eksempel kan fortelle garasjeporten at den skal åpne seg når du nærmer deg, eller at den skal være lukket mellom midnatt og kl. 6 om morgenen. 
+
+Løser et problem mange har 
+
+Sitter du hele dagen og lurer på om du husket å lukke garasjeporten da du kjørte på jobb om morgenen, blir du neppe mer effektiv. 
+
+Og feriefølelsen kan fort forsvinne om du er usikker på om den dyre treningssykkelen, gressklipperen og grillen nærmest står der med et «tyv, kom og hent meg»-skilt i de tre ukene familien er på Gran Canaria. 
+
+GoGoGate2 forteller deg når porten er åpen, og lar deg i tillegg lukke den. 
+Samtidig kan du åpne den fra mobilen din om noen du stoler på skal inn. 
+
+Vi skulle gjerne sett at veien fra du pakker opp produktet til det er oppe og står var enklere. 
+
+Man kunne kanskje levd bedre med én enhet som registrerer lys utenfra for å varsle om døra er åpen, tar i mot signal fra mobilnettet og sender åpne/lukkekode til motoren - alt sammen trådløst. 
+
+Men i påvente av et slikt produkt (synes vi dette er en god løsning for de som har en eldre, motorisert garasjeport og vil sjekke og fjernstyre den fra mobilen. 

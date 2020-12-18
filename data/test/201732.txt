@@ -1,0 +1,127 @@
+En av de fineste bærbare vi har sett på svært lenge
+Microsoft har fått vind i seilene, og lanserer nok en lekkerbisken av en datamaskin - denne gang spesielt myntet på skole og studier. 
+Men hva er det de har gjort med Windows 10? 
+
+Hvis vi ser bort fra en mobilsatsing som ser ut til å styre rett i avgrunnen, har det vært mye positivt å se fra Microsoft den siste tiden. 
+Vi tenker spesielt på lanseringen av Surface Book og Surface Studio i Norge, og ikke minst lovende Windows-takter i forkant av høstens store oppdatering. 
+
+Nå er de klare med nok en bærbar PC, Microsoft Surface Laptop - som faktisk kom offisielt i salg i Norge i går - 15. juni. 
+Vi har hatt den på testbenken noen dager, og her kan du lese hva vi mener om den. 
+
+Kommer med «nedstrippet» Windows 10 
+
+PC-en er den første som leveres med Windows 10 S. 
+Dette er kort forklart en Windows-utgave som tilsynelatende er helt lik Windows 10, men som kun kan kjøre apper som du laster ned fra Windows Store. 
+Dermed må du - enn så lenge - vinke adjø til Photoshop, Google Chrome, Spotify, VLC og alle andre klassiske Windows-programmene som ikke ligger i Windows Store - med unntak av nyeste versjon av Microsoft Office. 
+Les mer om 10 S hos Microsoft. 
+
+Har de ikke prøvd dette før, spør du kanskje. 
+Joda - det er ikke første gang Microsoft prøver å legge gamle prosjekter bak seg: 
+Sist var det Windows RT som var bygd rundt samme lest, et prosjekt som ble en gedigen fiasko. 
+
+Nå mener Microsoft at Windows Store inneholder alt det du trenger av apper. 
+I tillegg har de lansert verktøy som utviklere kan bruke for å konvertere gamle Windows-programmer til moderne apper. 
+
+Tryggere 
+
+- De nye appene er mye sikrere enn klassiske Windows-programmer. 
+En dårlig app kan kun gjøre skade på seg selv, fordi den kjører isolert fra resten av systemet, sier sikkerhetsansvarlig hos Microsoft, Ole Tom Seierstad, til Dinside. 
+
+Prøver du å kjøre et gammelt Windows-program, blir du møtt av denne advarselen: 
+
+Virus og annen elendighet som prøver å kjøre i bakgrunnen, vil heller ikke bli tillatt av systemet. 
+
+Det er i så fall en meget god ting i disse ransomware-tider, men vårt inntrykk er at det fortsatt gjenstår en god del før Windows Store inneholder alt det vi trenger i en litt over middels avansert PC-hverdag. 
+
+Den gode nyheten er at Windows 10 S kan oppgraderes til Windows 10 Pro. 
+Prosessen tar bare noen ganske få minutter, og er gratis fram til 31. desember i år. 
+Det blir altså en avveiing her, om du vil ofre full fleksibilitet og bakoverkompatibilitet for en ganske betydelig økt sikkerhet. 
+
+Det er ikke helt klart hva det vil koste å oppgradere etter denne datoen, men det dreier seg sannsynligvis om noen hundrelapper. 
+
+Veldig fin PC! 
+
+Selve maskinen er blant de aller mest linjelekre vi har hatt på testbenken. 
+Designen står ikke tilbake for Apples Macbook Air på noe som helst måte, mener vi. 
+Det er benyttet matt aluminium over det hele, maskinen veier knapt 1,2 kg og er ikke mer enn 1,44 cm på det tykkeste. 
+Det oser premium lang vei - i alle bauger og kanter. 
+
+Åpner du lokket, vanker det to overraskelser. 
+Den første er den 13,5 tommer store skjermen, som ikke har vanlig 16:9 bredde:høydeformat, men 3:2. 
+Det betyr at den har mer plass i høyden enn på en standard bærbar. 
+Det gir mer plass til dokumenter og nettsider, og gjør maskinen bedre egnet til denne typen oppgaver, mener vi. 
+
+Skjermoppløsningen er på 2256 x 1504 piksler, mot full HD som er 1920 x 1080 piksler. 
+Det er en berøringsskjerm med et lyssterkt panel som vi mistenker er av typen IPS, den byr i hvert fall på like god innsynsvinkler fra sidene uten at farger og kontraster blir skadelidende. 
+Overflaten er dekket av steinhardt Corning Gorilla Glass, og er for øvrig også forberedt for bruk med Surface Pen til tegning og presisjonsarbeid. 
+
+Over skjermen sitter det to kameraer som kan gjenkjenne ansiktet ditt og logge deg på uten at du behøver å huske så mye som en bokstav fra passordet ditt. 
+Funksjonen heter Windows Hello, og kommer nå på stadig flere nye bærbare PC-er. 
+
+Stoffdekke 
+
+Den andre store overraskelsen er at tastaturet og pekeplaten er omkranset av Alcantara-stoff, et syntetisk materiale som kan minne om skinn - men som er betydelig enklere å rengjøre. 
+Det ble en uvant opplevelse, men etter litt bruk synes vi det er mye mer behagelig å lene håndleddene ned mot dette stoffet enn mot hard plast eller kaldt metall. 
+
+Helt ny er løsningen imidlertid ikke. 
+Microsoft har tidligere brukt Alcantara på tastaturdeksler til den klassiske Surface Pro-serien. 
+
+Selve tastaturet er av god kvalitet. 
+Det er fast og responsivt - og tastene avgir lite støy - selv under touch-metoden. 
+Det er omtrent der vi forventer at det skal være på maskiner i denne prisklassen. 
+
+Tastene er baklyst, du kan velge mellom tre forskjellige lysstyrker, og i motsetning til de lysegrå tastene på Surface Book, blir det aldri vanskelig å se hva som står på de mørkere grå tastene her. 
+
+Pekeplaten fungerer også tilfredsstillende, hvis du fortsatt ikke helt synes skjermberøring er den beste måten å navigere deg rundt på. 
+
+Få tilkoblinger 
+
+Kikker vi på sidene av PC-en, får vi en overraskelse til - denne gangen av litt mindre positiv karakter: 
+Surface Laptop har kun én USB-port, og den er endogtil av den gamle USB-A-typen (USB 3.0). 
+I tillegg finner du en mini-Displayport-utgang for tilkobling til ekstern skjerm. 
+
+Hvorfor det ikke finnes noen USB-C-tilkobling her, er et komplett mysterium. 
+Det kunne for eksempel vært en kombinert USB-C-port med støtte for lading, Displayport eller HDMI, men nei. 
+
+På motsatt side finner du kun den magnetiske kontakten til strøminntaket. 
+Ikke noen kortleser heller, altså. 
+
+Slik yter den 
+
+Microsoft Surface Laptop kommer i flere forskjellige konfigurasjoner. 
+Den billigste, med Core i5-prosessor, 4 GB RAM og 128 GB SSD, har en veiledende pris på 10.990 kroner. 
+Vårt testeksemplar har Core i5-7500U-prosessor, 8 GB RAM og 256 GB SSD. 
+Det er kanskje den mest fornuftige konfigurasjonen for folk flest, og den koster veiledende 13.990 kroner. 
+
+Etter å ha oppgradert til Windows 10 Pro helt gratis, kunne vi kjøre vår sedvanlige testprosedyrer, og kan konkludere med at Surface Laptop ikke har noe å skamme seg over. 
+Maskinen kjører alt av klassiske Windows-programmer og nye apper uten særlige forsinkelser, og Intel HD 620-grafikken er mer enn sterk nok til å kjøre 4K-video på ekstern skjerm mens du samtidig jobber med en presentasjon på PC-en. 
+
+SSD-ytelsen er langt fra den raskeste vi har sett, med lesehastighet på maks 666 megabytes i sekundet og skrivehastighet på maks 240. 
+Hvorvidt det er et stort ankepunkt kommer helt an på bruken - for de fleste vil det ikke være merkbart i annet enn ved store filoverføringer og svært diskintensive programmer. 
+
+Det er først når du prøver å kjøre krevende spill at du vil se at grafikkortet raskt vil slite med å henge med - så til denne typen bruk bør du går for en maskin med et dedikert Nvidia- eller AMD-grafikkort. 
+
+Surface Laptop er imidlertid ikke vifteløs - så du kan oppleve noe vifteaktivitet med tilhørende susing i de mest tunge operasjonene. 
+Merk videre at maskinen er tynn og kan bli temmelig varm på et område til høyre på undersiden. 
+Det er imidlertid ikke noe vi har kategorisert som noe «problem». 
+
+God batteritid 
+
+Hva så med batteritiden? 
+Ifølge Microsoft skal du kunne se video i inntil 14,5 timer før du må finne fram laderen. 
+Vi brukte anbefalte innstillinger, og strømmet video fra YouTube i 9 timer og 35 minutter. 
+
+Det skulle bety at du i hvert fall bør klare å få 10-11 timer ut av batteriet, med variert lett bruk - uten å gå for mye ned på lysstyrken. 
+Det må betegnes som meget bra på en så lett og tynn PC. 
+
+Konklusjon 
+
+Det er bare å gratulere Microsoft med nok et vellykket laptop-prosjekt. 
+Surface Laptop er ganske enkelt en meget fin og solid PC med en super skjerm, innovativ overflateløsning og gode ytelser. 
+
+Vi er skeptiske til at Windows app-universet er godt nok til å tilfredsstille den typiske Windows-brukeren, men da er det greit å vite at du kan oppgradere til Windows 10 Pro gratis fram til nyttår - og prosessen er svært enkel. 
+Det gjør at vi ikke har trukket Surface Laptop i karakter for begrenseningene S-utgaven innebærer. 
+
+Få tilkoblingspunkter blir dermed eneste ankepunktet av særlig betydning, og vi lander derfor til slutt på en solid femmer på terningen. 
+
+Microsoft Surface Laptop i5 8GB 256GB 

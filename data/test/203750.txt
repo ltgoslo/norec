@@ -1,0 +1,97 @@
+Nye Mac mini er verdt ventetiden
+Et lite råskinn. 
+
+Vi må faktisk hele fire år tilbake for å finne sist gang vi testet en Mac mini. 
+Dette er med andre ord ikke Mac-produktet som oppdateres oftest av Apple, som igjen betyr at det er ganske spennende når det først skjer. 
+
+Den gang skrev vi at grunnmodellen faktisk var rimeligere enn modellen fra 2012, men slik er det ikke med den nye. 
+Mens Mac mini anno 2014 kostet 4.290 kroner da den ble lansert, starter 2018-serien på 8.990 kroner – et relativt stort prishopp. 
+
+På plass har man ting som en mye kraftigere prosessor, raskere arbeidsminne, lynrask SSD-lagring og oppgradert grafikkprosessor (selv om det er snakk om en integrert løsning – det er uansett ikke plass til et dedikert og kraftig grafikkort i Mac mini). 
+
+Av tilkoblinger har det også skjedd en del. 
+Apple har kvittet seg helt med mini DisplayPort og minnekortleser (dessverre), som erstattes av hele fire stykker av den universelle USB-C-kontakten med Thunderbolt 3-støtte. 
+Fordelen med denne kontakten er at man kan koble til to 4K-skjermer samtidig og overføre data i vanvittige hastigheter til og fra kompatible enheter. 
+
+Med HDMI 2.0 kan man for øvrig koble til en ekstern skjerm med en oppløsning på maksimalt 4096 x 2160 piksler og det ved 60 Hz. 
+Forrige modell leverte «kun» 4K (3840 x 2160 piksler) ved 30 Hz, så her snakker vi forbedring. 
+
+Inn med nye porter, ut med gamle 
+
+Designet er umiskjennelig Mac mini, og maskinen er skåret ut i et stykke aluminium med avrundede hjørner som gir maskinen et enkelt, men lekkert utseende. 
+Fargen er i kjent stil stellargrå med en svart Apple-logo på toppen. 
+Størrelsen er på imponerende 19,7 x 19,7 x 3,6 centimeter med en vekt på 1,3 kilo. 
+
+På fremsiden er det ikke mer enn et indikatorlys som viser at PC-en er påslått. 
+Det er nemlig på baksiden alt av tilkoblinger sitter, samt strømknappen. 
+Vi har nevnt noen av tilkoblingsmulighetene over, men kan oppsummere: 
+
+Husk også at Mac mini er utstyrt med kraftig wifi 802.ac-nett (Wifi 5) og Bluetooth 5.0, slik at man kan koble til en haug med trådløst tilbehør. 
+
+På baksiden sitter også vifteluken som sørger for at Mac mini-en holder seg avkjølt, noe den stort sett har gjort under testingen. 
+
+Undersiden har en sirkelformet «fot», eller bunnplate, i plast som løfter PC-en litt opp fra bordet. 
+En skulle tro at foten var designet for å holde Mac mini-en i ro, men slik er det ikke. 
+Man kan enkelt dytte på den uten særlig mye kraft. 
+Dette er ikke et stort problem i seg selv, det er ikke slik at den glir ned fra skrivebordet, men det virker noe merkelig. 
+
+Esken er for øvrig ikke den mest innholdsrike og inneholder Mac mini og en strømkabel. 
+Det betyr at man må skaffe tastatur og mus selv, noe som er greit å vite. 
+Et standard Apple-tastatur starter på 1.199 kroner mens Magic Mouse 2 koster 879 kroner i selskapets nettbutikk. 
+Dog er det ikke slik at man er avhengig av originalt utstyr, og vi brukte et tastatur- og mus-oppsett fra Microsoft under testingen. 
+
+I bruk 
+
+Vi testet utgaven vi har kalt «grunnmodellen» i oversikten over. 
+Det vil si en Mac mini utstyrt med en firekjernes Intel Core i3-8100B -prosessor paret med 8 GB minne og og en SSD på 128 GB. 
+Dette er også modellen mange vil gå for, og vår erfaring er at den leverer så det holder til vanlig bruk. 
+
+En Core i3-prosessor kan fort høres litt kjip ut, men man må huske at de nye Intel-brikkene er mye kraftigere takket være flere prosessorkjerner. 
+Vår testmodell har fire kjerner og utfører oppgavene vi kaster mot den, lett som en lek. 
+Det inkluderer alt fra e-postbehandling, nettsurfing med titalls faner åpne, til redigering i Lightroom og Photoshop. 
+Mye av dette skyldes selvsagt at macOS Mojave er svært lettkjørt. 
+
+Mac mini er med andre ord en ypperlig kontor-PC, og det er ekstra kjekt at den er så å si stillegående og tar minimalt med plass på skrivebordet. 
+
+For man er nødt til å huske hvilke bruksområder som er tiltenkt Mac mini. 
+Proffene som ønsker uovertruffen ytelse går nok for iMac Pro eller Mac Pro mens Mac mini er beregnet på litt mindre krevende arbeidsoppgaver. 
+Mye av dette skyldes mangelen på et dedikert grafikkort. 
+
+Dette betyr igjen at Mac mini ikke er spesielt egnet til spilling, men den møter faktisk minimumskravene til stadig populære «Fortnite». 
+Dog er den et stykke unna å nå de anbefalte systemkravene. 
+
+Spilltips: 
+Dette kan løses ved å kjøpe et ekstern grafikkort og koble den til via USB-C Thunderbolt 3. 
+
+Et punkt der Mac mini skinner, og som den alltid har gjort, er rollen som underholdningsmaskin i stuen (også bare kalt stue-PC). 
+Siden 2014 har riktignok enheter som Apple TV og Chromecast – samt PlayStation 4 og Xbox One – tatt litt over for de gamle stue-PC-ene, men siden Mac mini kjører et fullverdig operativsystem, er den mindre begrenset og mye kraftigere enn for eksempel en Apple TV. 
+
+Det er for øvrig vanskelig å sammenlikne Mac mini (2018) med andre maskiner av den enkle grunn at den ikke har spesielt mange konkurrenter. 
+Markedet for knøttsmå skrivebords-PC-er flommer ikke akkurat over. 
+
+Noen begrensninger 
+
+Vi kan kaste en håndfull superlativer etter Mac mini, men vi kommer ikke utenom ankepunktene ved maskinen. 
+For eksempel at tastatur, mus og skjerm ikke følger med i esken, og dermed påfører en ekstrakostnad hvis man ikke har disse tilbehørene stående. 
+Kanskje klarer man seg kun med tastatur og mus hvis man skal bruke den som en stue-PC. 
+
+Oppgraderingsmulighetene er også noe som har slike begrensninger. 
+For man kan ikke kjøpe den rimeligste Mac mini-en og oppgradere den med mer lagringsplass senere. 
+Joda, du kan koble til en ekstern harddisk/SSD, men den interne kan ikke byttes ut. 
+
+Så mye koster det for mer lagringskapasitet: 
+
+En gladnyhet er at man heldigvis kan oppgradere minnet, slik at det kan lønne seg å gå for en Mac mini med 8 GB og kjøpe mer minne selv. 
+Merk dog at det er en jobb som kan være litt krevende ettersom kabinettet er godt skrudd sammen. 
+
+Endelig kom det en ny og oppdatert Mac mini fra Apple, og vi er stort sett ganske fornøyde med den nye modellen. 
+Vi er spesielt fornøyde med ytelsen tross Intel Core i3-prosessor og 8 GB minne, men også det at den er svært stillegående. 
+
+Av tilkoblingsmuligheter dominerer USB-C og Thunderbolt 3, og mange vil nok savne flere vanlige USB-kontakter. 
+Dem er det kun to av. 
+Ellers er det kjekt at HDMI 2.0 er på plass, samt at det er like kjedelig at minnekortleseren er fjernet. 
+
+Merk at den rimeligste utgaven koster rundt det dobbelte av hva forgjengeren gjorde da den ble lansert i 2014, og det kan være en sum som er vanskelig å svelge for mange. 
+Samtidig som at det er dyrt med oppgraderinger til lagring og minne. 
+
+På tross av at innstegsprisen er litt høy og at oppgraderingene også har sin pris, er vi totalt sett storfornøyde med nye Mac mini fra Apple og kan trygt anbefale den til personer som ønsker en liten, nett og fleksibel PC som også takler det meste av oppgaver på strak arm. 

@@ -1,0 +1,99 @@
+Acer Aspire V3-372
+Fin lettvekter med gode spesifikasjoner og ytelser. 
+
+Den siste tiden har vi testet flere bærbare PC-er i premium-segmentet, men de store volumselgerne koster langt mindre. 
+Dagens testprodukt har en langt enklere finish enn for eksempel HP Spectre X360 og Dell XPS 13, men koster til gjengjeld omtrent halvparten så mye. 
+
+Mye for pengene 
+
+Ser man bort fra en enklere innpakning, står den knapt tilbake når det gjelder spesifikasjoner. 
+Acer Aspire V3-372 er nemlig meget oppdatert på nær sagt alle plan. 
+
+Her er en kjapp oversikt over de viktigste tekniske egenskapene: 
+
+Skjerm: 
+13,3 tommer matt IPS-skjerm, 1920 x 1080 pikslerProsessor: 
+Intel Core i5-6200U (2,3 GHz) 
+RAM: 6 GB (4 + 2 GB. 
+Maks er 16 GB)Grafikkort: 
+Intel HD 520Lagring: 256 GB SSD (M.2)Optisk drev: 
+NeiSkjermutganger: 
+HDMI 1.4USB-porter: 2 x USB 2.0, 1 x USB 3.0 + 1 x USB 3.1 (USB-C)Webkamera: 
+JaKortleser: 
+Alle typer full-størrelse SD-kortTrådløst nett: 802.11abgn+ac (Qualcomm Atheros QCA61x4)Kablet nett: 10/100 MbitAnnet: 
+Støtte for trådløs MU-MIMO-teknologiOS: Windows 10 HomeStørrelse: 32,8 x 22,8 x 1,9 cmVekt: 
+1,6 kgPris: 
+Fra 7.295,- (jf Prisjakt 5.2.2016) 
+
+Her er det mye positivt å merke seg, ikke minst at PC-en støtter inntil 16 GB RAM, støtter USB 3.1 gjennom den nye USB-C-porten, samt har støtte for trådløs MU-MIMO-teknologi som kan gi inntil tre ganger bedre trådløshastighet (hvis ruteren din ögså støtter MU-MIMO, riktignok). 
+
+At en såpass tynn og lett PC har støtte for kablet ethernet, er heller ingen selvfølge - men vi skulle gjerne sett at den støttet høyere hastigheter enn 100 Mbit. 
+
+Ikke premium-innpakning 
+
+PC-en er hvit, og med unntak av aluminiumslokket er resten av PC-en av plast. 
+Svake tversgående striper er preget i lokket, og med mindre du er møkkete på fingrene, vises nesten ikke fingeravtykk. 
+
+Den er litt tykkere og tyngre, men har ellers mange likhetstrekk med langt dyrere Asus Zenbook UX305. 
+Byggekvaliteten er nok ikke like god, men Aceren er tross alt langt rimeligere. 
+Vi skynder oss å legge til at konstruksjonen absolutt virker tillitvekkende nok. 
+
+Gode opplevelser 
+
+Skjermen har full HD-oppløsning, og basert på et IPS-panel fra LG Display. 
+Den er gjennomsnittlig lyssterk, og den matte overflaten sørger for lite refleksjoner. 
+At skjermen kan betraktes fra spiss vinkel uten at farger blekner og kontraster avtar, er også meget positivt - og ingen selvfølge for PC-er i denne prisklassen. 
+
+Tastaturet er fellesnordisk og meget behagelig å bruke. 
+Tastene avgir nesten ikke noen lyd i det hele tatt, noe vi ser på som positivt. 
+Plasseringen av taster er akkurat som vi ønsker det; helt i tråd med qwerty-standarden. 
+
+Under tastaturet sitter en multiberøringsfølsom pekeplate. 
+Den støtter såkalte «gestures», og du skroller for eksempel silkemykt gjennom lange nettsider og dokumenter med to fingre, og kan zoome inn og ut med knipebevegelser. 
+Her har vi absolutt ikke noe å sette fingeren på ;) 
+
+På undersiden sitter det et par høyttalere i fronten, som byr på overraskende fyldig lyd. 
+God diskant, mellomtone og også noe som minner om bass. 
+De fungerer helt greit til bakgrunnsmusikk og til nett-TV. 
+
+Stort sett meget støysvak 
+
+Merk også at det er to ganske store luftinntak på undersiden, og den varme luften blåses ut i bakkant. 
+Det fine er at det kan gå lang tid mellom hver gang de to viftene spinner opp, og de er dessuten meget støysvake. 
+
+Ikke én gang under testen har vi tenkt over viftene i det hele tatt, og det er et godt tegn, selv ikke den krevende sikkerhetspakken fra McAfee klarte å ødelegge det inntrykket. 
+
+Ytelstester 
+
+Ytelsesmessig ligger den omtrent der du kan forvente for en kompakt PC til i overkant av 7.000 kroner. 
+Det betyr at den ekspederer alle «normale» PC-oppgaver kjapt og greit, inkludert fleroppgavekjøring, og den fikser også 4K-video på ekstern skjerm (riktig nok med kun 30Hz oppfriskning over HDMI. 
+USB 3.1 kan muligens åpne for raskere oppfriskning, men dette har vi ikke fått verifisert). 
+
+Den integrerte Intel-grafikken har blitt vesentlig raskere med Skylake-generasjonen, og du kan faktisk spille litt eldre 3D-spill med OK flyt hvis du samtidig går ned på skjermoppløsning. 
+Misforstå oss rett, dette er ingen gaming-PC. 
+
+I diagrammene under har vi sammenlignet prosessorytelsen mot et knippe andre prosessorer på PC-er i samme prisklasse. 
+Vi har benyttet Passmark Performance Test: 
+
+Og grafikkytelse (3D): 
+
+PC-en er utstyrt med en 256 GB SSD, som er tilstrekkelig for de fleste av oss, i hvert fall hvis du har lagt MP3- og videosamlingen din på nettet. 
+Lesehastighet på inntil 500 MB pr sekund er absolutt godkjent, men skrivehastighet på 170 MB pr sekund er godt under det vi hadde forventet. 
+Det er fortsatt 75% raskere enn en tradisjonell harddisk, men vi ser ofte skrivehastigheter som er både to og tre ganger raskere. 
+
+Til slutt har vi gjort målinger på batteriytelse. 
+Helt uten belastning holdt det fulladede 4-cellers batteriet i nøyaktig åtte timer før maskinen slo seg av. 
+Med kontinuerlig videoavspilling gjennom Windows Media Player, var det slutt etter 388 minutter, nesten seks og en halv time. 
+Du kan derfor regne med mellom sju og åtte timers driftstid med variert bruk. 
+Det er ikke eksepsjonelt, men absolutt godkjent. 
+
+Konklusjon 
+
+Acer V3-372 kommer i flere konfigurasjoner, den vi har testet gir deg mye PC for pengene. 
+De få ankepunktene vi har funnet, er ikke nok til å fravriste den en klar femmer på terningen, samt vårt anbefalt-stempel. 
+
+Merk imidlertid at dette er en mellomklassemodell som ikke helt kan måle seg med byggekvaliteten i premium-klassen, men for de fleste bør kompromissene absolutt være til å leve godt med. 
+
+Se våre plusser og minuser i boksen under, og les også spesielt testen av klassekameraten Lenovo U31-70 før du bestemmer deg. 
+
+Acer Aspire V3-372 (NX.G7AED.009) 

@@ -1,0 +1,131 @@
+Når vi først snakker om proffe nettbrett
+Proffe brukere trenger tilgang til proffe verktøy. 
+I så måte stiller Microsoft Surface Pro i en helt annen divisjon enn Apple iPad Pro, mener vi. 
+Men en proff kan være så mangt. 
+
+Det har bare gått noen dager siden vi publiserte testen av den rykende ferske iPad Pro fra Apple, og nå har turen kommet til Microsofts nye nettbrett for proffene: 
+Microsoft Surface Pro. 
+
+Vi skynder oss å legge til at dette er femte generasjon Surface Pro, og det desidert mest avanserte så langt - halvannet år etter at de lanserte Surface Pro 4, og fem år etter lanseringen av førstegenerasjonen. 
+
+En komplett PC i brettet 
+
+Hvis du ikke helt vet hva Surface Pro er for noe, så kan vi avsløre at det er et nettbrett som både kjører Windows 10 pro og har maskinvare som en fullblods bærbar PC. 
+
+Det unike i forhold til de flest andre brett, er at den har integrert støtte som kan brettes ut bak. 
+Denne er trinnløs, slik at du kan helt fritt velge vinkel på skjermen. 
+
+Kombinerer du den med et deksel med integrert tastatur og en penn til tegning, notater og presisjonsarbeid, har du en pakke som blir et lettere alternativ til PC-en - og for noen: 
+Et bedre alternativ. 
+
+Mye likt 
+
+Halvannet år er lang tid, men på utsiden er det lite som har endret seg siden Surface Pro 4. 
+Designen er mer eller mindre lik, den har fortsatt bare en vanlig USB 3.0-port i tillegg til mini-Displayport, underlig nok mangler fortsatt en USB-C-port, noe vi kritiserte den for også forrige gang. 
+
+Støtten på baksiden er imidlertid enda mer fleksibel, og du kan nå bøye skjermen så langt tilbake at den kommer i lett skrånende tegnebrettmodus - eller Studio-modus, som Microsoft har valgt å kalle det. 
+
+De ytre målene er 292,1 x 201,4 x 8,5 cm og vekta stopper på 766 gram. 
+Til sammenligning måler 12,9-tommer-utgaven av iPad Pro 305,7 x 220,6 x 6,9 mm og veier 677 gram. 
+iPad Pro er litt større, litt tynnere og litt lettere, altså. 
+
+Super skjerm og bedre kameraer 
+
+Skjermen er fortsatt 12,3 tommer og har en oppløsning på 2736 x 1824 piksler. 
+Hvis du er god i hoderegning, skjønner du at bredde:høydeforholdet er 3:2, ikke 16:9 som på de fleste PC-er, noe som betyr flere verdifulle piksler i høyden. 
+Og kvaliteten er helt i toppklassen, lysstyrke og innsynsvinkler er slik vi forventer av et premiumprodukt. 
+
+Nytt er også frontkameraene, som har fått støtte for Windows Hello. 
+Det betyr at du kan logge på Windows bare ved å vise ansiktet ditt. 
+Det er ventet at løsningen på sikt også skal kunne brukes til å identifisere deg i andre settinger, for eksempel til pålogging på diverse nettjenester. 
+
+På baksiden sitter et hovedkamera som etter det vi kan bedømme, er bedre enn på forgjengeren - men ikke helt på iPad Pro-nivå (som bruker samme kamera som i iPhone 7). 
+Her er noen bildeeksempler: 
+
+Microsoft: 
+Mye bedre ytelse og batteritid 
+
+Det er på innsiden de største forandringene har skjedd, og Microsoft reklamerer med 50 prosent bedre ytelse og 50 prosent bedre batteritid. 
+Hvorvidt denne påstanden holder vann, avhenger i hvert fall av hvilken konfigurasjon du velger. 
+
+Du har faktisk hele seks forskjellige å velge mellom, hvor den dyreste - som er utstyrt med SSD på 1 terabyte, 16 GB RAM og en kraftig Core i7-prosessor fra Kaby Lake-generasjonen, koster hele 29.499 kroner veiledende. 
+Det er en nærmest absurd pris for en dings som selges uten tastatur. 
+
+Svært stillegående 
+
+De rimeligste er utstyrt med Core m3- og Core i5-prosessorer. 
+Disse kommer nå uten kjølevifte og er dermed helt lydløse. 
+Utgavene med Core i7-prosessor, deriblant vårt testeksemplar, er utstyrt med vifte, men vi har knapt hørt den en eneste gang under vår testperiode. 
+Det er gromt, med tanke på at dette er et brett som yter meget bra i de aller fleste situasjoner. 
+
+Morsomt er det også å se at disse i7-konfigurasjonene kommer med kraftigere Intel Iris-grafikk integrert i prosessoren, noe som gjør det mer aktuelt å kjøre tyngre grafiske 3D-programmer og spill enn på standard Intel HD 6xx-grafikkbrikken. 
+Selv om det er kraftigere, er det ikke mer enn ganske midt på treet hvis du sammenligner mot løsninger med dedikert grafikkort. 
+
+Dette kan du forvente 
+
+Uansett hvilken konfigurasjon du velger, får du gjort helt vanlige PC-oppgaver uten særlig forsinkelse. 
+Mye av æren må tillegges den lynraske SSD-en. 
+Vi målte skrivehastighet på inntil 1 gigabyte i sekundet og skrivehastighet på over 1,6 gigabyte på det raskeste. 
+Det er sjelden kost, selv i premiumsegmentet. 
+
+Passmark poeng: 
+3357 CPU: 6393 GPU (3D): 
+1721 SSD l/s: 977 MB/1,67 GB pr sek Batteri video: 536 min 
+
+Velger du en konfigurasjon med Core i7-prosessor, bør du være en bruker som tilbringer mye tid med tunge, krevende programmer og med utstrakt multitasking. 
+Her står ikke ytelsen tilbake mot mange bærbare PC-er vi har testet i 12-15.000 kronersklassen og som veier det dobbelte. 
+
+Godt over en arbeidsdag 
+
+I spesifikasjonene oppgir Microsoft at nye Surface Pro skal klare å spille video i 13,5 timer på et fulladet batteri. 
+Dette skal de ha klart på en utgave med Core i5-prosessor. 
+
+Vi klarte ikke like lenge, men strømmet YouTube-videoer i like under 9 timer. 
+Det er vesentlig bedre enn de 6 vi klarte med forgjengeren, og betyr at du kan forvente rundt 10-11 timer med lett, variert bruk. 
+Det er meget bra på et fullblods Windows-brett som ikke veier mer enn 760 gram. 
+
+Lading av batteriet går gjennomsnittlig raskt, fra 0 til 50 prosent på en time er godkjent. 
+
+Ikke for budsjettkonger 
+
+Prisene for Surface Pro starter på 9.299 kroner veiledende. 
+Hos Apple starter prisen på 8.990 kroner for rimeligste iPad Pro, men da med minder skjerm og halvparten så mye lagringsplass som du får hos Microsoft, 64 mot 128 GB. 
+
+Som hos Apple, er pennen Surface Pen og tastaturet Surface Pro Signature Type Cover ekstrautstyr som koster penger. 
+Prisene er sammenlignbare, altså rundt 1.600 kroner for tastaturet og 1.000 kroner for pennen. 
+De vet å ta seg betalt, med andre ord. 
+
+Spesielt tastaturet vil vi si er obligatorisk ekstrautstyr på Surface Pro, og i større grad enn på iPad Pro - der alt av apper er laget med tanke på skjermberøring, noe som slett ikke er tilfelle i Windows-verdenen. 
+
+Da havner billigste konfigurasjon på rundt 11.000 kroner. 
+Det er mye penger, spesielt med tanke på at det er relativt spinkelt spesifisert, med blant annet 4 GB RAM og 128 GB SSD. 
+Vi hadde nok landet på modellen med Core i5, 8 GB RAM og 256 GB SSD, som koster 13.990 (15.600 med tastaturet) - som ikke akkurat er gibort-pris. 
+
+Til gjengjeld er tastaturet blitt svært bra. 
+Det er fast og stillegående, og tastene er til og med bakbelyste. 
+Det er imponerende i en så tynn utforming! 
+
+Men for hvem? 
+
+Slik vi ser det, er det Microsoft Surface Pro og Windows 10 Pro som byr på desidert flest programmer og verktøy for proffbruk. 
+Det er også desidert best til å kjøre flere programmer/apper samtidig. 
+
+Det er imidlertid mye av dette som ikke er laget for finger- og skjermnavigering. 
+I så måte er iPad Pro i mye større grad rendyrket nettbrett enn Surface Pro er, og vil derfor trekke til seg andre brukere enn Surface Pro. 
+
+Vår mening er at Surface Pro for øyeblikket er det klart beste valget for klassiske produktivitets-oppgaver som Office-programmer, filbehandling og avansert bilde- og videoredigering, mens iPad Pro kanskje kan appellere mer til de mer innovative og kunstneriske profesjonelle miljøene. 
+Surface Pro har også den fordelen at du kan ha flere brukerkonti på samme enhet, og oser i det hele tatt mye mer «Pro» enn konkurrenten fra Apple. 
+
+Noen av de annonserte nyhetene i høstens iOS 11-lansering, tyder på at Apple ønsker at iOS skal nærme seg MacOS i funksjonalitet. 
+Det kan samtidig bety at forskjellene mellom Surface Pro og iPad Pro, for eksempel når det kommer til multitasking og filbehandling, vil bli mindre i fremtiden. 
+
+Konklusjon 
+
+Vi lander på en femmer på terningen, samme som iPad Pro - men vi regner altså målgruppene som litt forskjellige. 
+
+Er det klassiske PC-oppgaver som står på agendaen din, og du setter høy kvalitetsfølelse, god ytelse, lav vekt og topp mobilitet som viktigste kriterier, tviler vi på om du finner noe bedre brettløsning enn Surface Pro. 
+
+Er du mer opptatt av pengene, får du mye mer for dem om du velger en PC eller hybrid med berøringsskjerm, inkludert Microsofts egen Surface Laptop eller HP Spectre X360. 
+
+Få med deg plussene og minusene i boksen under før du bestemmer deg. 
+Du finner priser og forskjellige konfigurasjoner hos Microsoft. 

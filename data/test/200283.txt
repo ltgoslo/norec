@@ -1,0 +1,133 @@
+Lenovo Yoga 910
+En av de fineste hybridene vi har lagt våre hender på, og den kommer med en ekstremt skarp skjerm. 
+
+Det skjer ikke så mye på nettbrettfronten for tiden, men PC-produsentene har et stort fokus på PC-er som med et enkelt håndgrep kan settes i nettbrett-modus. 
+Typen der du skyver skjermen helt rundt på baksiden, er den mest utbredte, og det siste året har vi testet flere meget gode maskiner med denne formfaktoren. 
+
+Sist ut var HP Spectre X360, og nå er turen kommet til Lenovo Yoga 910 - som må ses på som en direkte konkurrent - med mye likt på spesifikasjonssiden - og med en prislapp som ligger i samme leie. 
+
+Mange forbedringer 
+
+Skjerm: 13,9-tommer, UHD IPS-berøringsskjerm, blank (3840 x 2160 piksler) OS: 
+Windows 10 Home norsk Prosessor: 
+Intel Core i7-7500u Grafikk: 
+Intel HD 620 RAM: 16 GB (som også er maks) SSD: 512 GB (M.2 PCI-e) Nett: 
+802.11ac, Bluetooth 4.1 Tilkoblinger: 2 stk USB-C (3.0), 1 stk USB 3.0, minijack for lyd inn/ut Størrelse: 30,6 cm x 22,45 cm x 1,43 cm Vekt: 
+1,377 kg 
+
+Noen av dere husker sikkert testen vår av Yoga 900S, som ble kronet med terningkast 6 i fjor. 
+910 er ikke direkte etterkommer til den, men til den noe større Yoga 900, som vi dessverre ikke rakk å teste. 
+
+Men det vi kan si, er at 910 har fått flere forbedringer i forhold til denne, blant annet større skjerm, mindre skjermramme, fingerleser, bedre batteri, ny prosessor-generasjon og nye porter. 
+
+De Luxe eksteriør 
+
+La oss starte med det ytre. 
+PC-en har et solid chassis av lys grå, børstet aluminium både på utsiden og innsiden. 
+Hengslet mellom skjerm og tastaturdel har en mekanikk som kan minne om en klokkelenke, og skal ifølge produsenten tåle svært mye belastning. 
+Det både ser ut og føles som et premiumprodukt lang vei. 
+
+I fronten, under tastaturdelen, sitter et par høyttalere merket JBL. 
+De låter greit, lyden fremstår som ganske balansert - men vi savner litt mer fylde til musikk og film. 
+Så tynne PC-er er imidlertid sjelden særlig bassterke. 
+
+Mangler HDMI 
+
+Alle tilkoblingene sitter på sidene, og de inkluderer to USB-C-porter (USB 3.0), en klassisk USB 3.0-port og kombinert lyd/mic-minijack. 
+I motsetning til på den omtalte Spectre X360, fungerer kun den ene USB-C-porten som strøminntak. 
+De to portene sitter rett ved siden av hverandre, og vi ser en potensiell fare for at man plugger kabelen i feil port. 
+Du risikerer imidlertid ikke annet enn at PC-en ikke får strøm. 
+
+HDMI-utgang eller andre rene skjermtilkoblinger har den ikke. 
+Det finnes imidlertid overganger fra USB til HDMI å få kjøpt, men du kan glemme høyere oppløsninger enn full HD på ekstern skjerm. 
+Det kan nok være et ankepunkt for noen. 
+Spectre X360 manglet også HDMI, men hadde ikke denne begrensningen, takket være støtte for både USB 3.1 gen2 og Thunderbolt 3. 
+
+Vi kunne også tenkt oss knapper for lydjustering på siden. 
+Det er vanlig på mange hybrider og er hendig når du jobber i nettbrettmodus, men mangelen er ikke noe stort ankepunkt. 
+
+Ekstremt skarpt bilde 
+
+Skjermen måler 13,9 tommer, altså 0,6 tommer større enn forgjengeren. 
+Til tross for det, er ikke selve maskinen blitt noe større - den er faktisk blitt bittelitt mindre. 
+Det skyldes blant annet at rammen rundt skjermen bare måler en knapp halv cm på sidene og i toppen. 
+
+På grunn av den smale rammen, har Lenovo flyttet webkameraet til under skjermen. 
+Det er forståelig, men etter vår mening er ikke plasseringen optimal ved normal PC-bruk. 
+
+I teltmodus og nettbrettmodus er plasseringen derimot helt topp. 
+
+Den berørings-følsomme skjermen har et IPS-panel som sørger for gode innsynsvinkler uten farge/ kontrastfeil. 
+Lysstyrken er også meget god. 
+
+Men mest imponerende er den særdeles høye oppløsningen. 
+3.840 x 2.160 piksler (4K/UHD) på en 13,9-tommer er sjelden kost, og det er en av de klart skarpeste PC-skjermene på markedet. 
+
+Merk at dette gjelder vår konfigurasjon, modellen fås også med full HD-skjerm - til en lavere pris. 
+
+4K-oppløsning på en så liten skjerm betyr imidlertid at du må skalere opp grafikk og tekst i Windows for at ikke alt skal bli smått og uleselig. 
+Windows 10 har etterhvert blitt god på dette, men det hender at programvinduer ikke henger helt med - som i eksempelet under. 
+
+God å bruke lenge om gangen 
+
+Tastaturet er typisk Lenovo, med avrundede taster i bunnen. 
+Svikten på midten, som ofte har forfulgt de billigste modellene, er totalt fraværende på Yoga 910. 
+Tastene er faste og responsive, og avgir minimalt med lyd under bruk. 
+Det innbyr til lange skriveøkter. 
+Baklyset skrur du enkelt på og av med et tastetrykk. 
+
+Enkelte kritiserer Lenovo for plasseringen av høyre Shift-tast til høyre for pil opp (det vanlige er til venstre), men med vårt bruksmønster har det aldri vært noe stort ankepunkt. 
+
+Pekeplaten er passe stor, med integrerte felter for venstre/høyreklikk. 
+Den er presis og behagelig å bruke, også flerberøringer går silkemykt. 
+Greit å vite dersom du ikke er tilhenger av å berøre skjermen direkte når du er i PC-modus. 
+
+Slik er ytelsen 
+
+Ytelsesmessig er dette noe av det ypperste du kan oppdrive i klassen. 
+Den nye Core i7-7500U-prosessoren løser alle normale PC-oppgaver kjapt og effektivt, og kombinert med rikelig med minne og en særdeles rask SSD, er dette i sum en meget kjapp PC. 
+
+Passmark poeng: 2614 CPU: 5165 GPU (3D): 
+1076 SSD les/skriv: 
+1,5 GB/1 GB pr sek 
+Videostrømming batteri: 590 min 
+
+Den integrerte Intel-grafikken holder greit til alt av 2D-opptegninger og video, også 4K-materiale. 
+Krevende spill med 3D-opptegninger er den ikke laget for, så er dette viktig for deg bør du velge helt andre maskiner - men du kan faktisk spille en del nyere titler om du tåler å gå ned på oppløsning og detaljrikdom. 
+
+Helt lydløs er den imidlertid ikke, i starten opplevde vi at viften gikk i lange perioder - og fortsatt når maskinen går på nettstrøm og med moderat aktivitet. 
+Etter hvert har det blitt flere perioder med avtakende og lite vifteaktivitet, det er forsåvidt normalt - men muligens kan også noen oppdateringer fra Lenovo ha spilt en rolle. 
+
+Om vifteaktiviteten er et stort ankepunkt? 
+Nei, så langt vil vi ikke gå - men aktiviteten er litt større enn vi hadde håpet på. 
+
+God batteritid 
+
+Batteritiden er det imidlertid lite å utsette på. 
+Vi strømmet video fra YouTube i 590 minutter på én batterilading, noe som tilsvarer 9 timer og 50 minutter. 
+Normalt bruker en 4K-skjerm mer strøm enn en full HD-skjerm, men dette er likevel 42 minutter lengre enn hva vi målte med HP Spectre X360. 
+Det vitner om at Lenovos påstand om rundt 10 timer med variert bruk, stemmer godt med virkeligheten. 
+
+Vi målte også hvor raskt batteriet lades. 
+Etter en halv time i stikkontakten hadde nivået nådd 23 prosent, etter en time 44 prosent. 
+Til sammenligning var tallene for HP Spectre X360 24 og 51 prosent. 
+Litt tregere lading altså, men samtidig litt bedre batteritid. 
+
+Konklusjon 
+
+Langt på vei er dette en super PC som vi vil huske spesielt for den svært skarpe og gode skjermen med den tynne rammen. 
+Dette er en PC som innbyr til mye bruk, både fordi den er solid og fordi den er behagelig å bruke. 
+
+I skrivende stund selges denne konfigurasjonen for 13.990 kroner direkte fra Lenovo. 
+Det er en meget god pris, og gjør at vi vurderer 910 til et noe bedre kjøp enn den omtalte konkurrenten fra HP. 
+
+OPPDATERT: 
+Vi er blitt gjort oppmerksom på at 13.990 kroner er for en enklere modell med Core i5-prosessor. 
+Laveste pris for «vår» konfigurasjon blir da 16.990 kroner i skrivende stund. 
+
+Noen ankepunkter har vi funnet. 
+Spesielt negativt er det at PC-en ikke uten videre kan kobles til en TV eller ekstern skjerm med kabel - da trenger du en overgang fra USB 3.0, noe som blant annet utelukker høyere oppløsning enn full HD. 
+
+De andre plussene og minusene av betydning finner du i boksen under. 
+
+Lenovo Yoga 910-13 80VF002NMX 

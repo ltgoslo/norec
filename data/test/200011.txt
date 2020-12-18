@@ -1,0 +1,123 @@
+Dette er langt mer enn en høyttaler
+Intet mindre enn en stuevennlig, relativt kraftig stasjonær PC i høyttalerinnpakning. 
+Vi har testet. 
+
+HP er kanskje ikke den produsenten man forbinder med de mest grensesprengende PC-løsningene, men det siste året har vi sett en del nye takter fra selskapet. 
+Du husker sikkert det kubeformede, gigantiske monsteret av en PC vi omtalte i fjor høst, samt den syltynne ultrabooken Spectre 13? 
+
+Denne gangen har vi sett nærmere på et produkt som er laget for å stå godt synlig i stuen. 
+
+Vi hadde aldri gjettet det 
+
+Pavilion Wave er navnet - og det ser først og fremst ut som en moderne, frittstående høyttaler. 
+Det vevde stoffet og Bang&Olufsen-logoen; fungerer i så måte bare bekreftende til denne antakelsen. 
+
+Men Wave er først og fremst en stasjonær PC, med en høyttalerkonstruksjon i toppen som sender lyd ut i alle retninger. 
+
+OS: 
+Windows 10 Home norsk Prosessor: 
+Intel Core i5-6400T Grafikk: 
+AMD R9 470M RAM: 
+8 GB (maks 16) 
+Lagring: 128 GB SSD (M.2 PCIe) + 1.000 GB harddisk Nett: 802.11ac, Bluetooth 4.2 Tilkoblinger: 1 stk USB-C (3.1 gen1), 3 stk USB 3.0, gigabit LAN, 1 stk DisplayPort, 1 stk HDMI, SD-kortleser, minijack for lyd inn/ut Størrelse: 
+235 x 168 x 173mm Vekt: 
+2,9 kg 
+
+Den prismeformede maskinen har avrundede kanter, måler 17.3 x 16.8 x 26.1 cm og er myntet på brukere som ønsker en PC som glir diskré inn sammen med resten av interiøret. 
+I så måte synes vi de har lykkes bra. 
+
+Merk imidlertid at strømfor-syningen er ekstern, og den er stor. 
+Se bilde lenger nede i saken. 
+
+Dette får du 
+
+Wave kommer i to forskjellige konfigurasjoner i Norge, med veiledende pris på 6.990 og 9.990 kroner. 
+
+Vi har sett nærmere på den kraftigste og dyreste. 
+Spesifikasjonene finner du i boksen til høyre. 
+Det følger dessuten med et minimalistisk tastatur (laptop-type) og en enkel mus som kobles til via Bluetooth. 
+
+Totalt sett er dette langt bedre enn hva man normalt finner i mini-stasjonær-segmentet - men så er da også prisen langt høyere. 
+
+Sånn sett er den absolutt en «ulv i fåreklær». 
+Mer om det siden. 
+
+Lekkerbisken 
+
+Eksteriørmessig synes vi den er lekker. 
+Den er kledd i et gråmelert tøystoff, og kun en USB-port og kombinert lyd inn/utgang er synlig i fronten. 
+På baksiden sitter alle tilkoblingspunktene plassert vertikalt, og her finner du alt det mest nødvendige - inkludert to skjermutganger, USB-C-port og SD-kortleser. 
+
+Ganske imponerende lyd 
+
+I toppen sitter en høyttaler som, takket være parabolkonstruksjonen over, sprer lyden i alle retninger. 
+Lyden er overraskende klar - og takket være den innvendige konstruksjonen får du passe ressonans og bassdybde til musikk. 
+Sammenlignet med mange av de små/mellomstore Bluetooth-høyttalerne vi har testet, synes vi den klarer seg bra. 
+
+Noen stereoeffekt vil du imidlertid ikke få, da må du ha to høyttalere med en viss avstand som sender to separate lydkanaler - som disse eksterne høyttalerne, som faktisk har et designuttrykk som ikke er så helt ulik Waves. 
+
+Skulle vi ha noen andre ankepunkter mot lyden, måtte det være at du ikke kan spille så høyt som du for eksempel kan med dedikerte høyttalere i denne størrelsen fra Bose, Sonos og de andre. 
+Sitter du rett ved siden av, er den imidlertid mer enn høyt nok. 
+Og lyden vrenger seg aldri. 
+
+Og en liten ting til - du kan ikke uten videre koble mobilen din til PC-en for å spille musikk gjennom den via Bluetooth, her må du ty til andre løsninger, for eksempel Spotify Connect. 
+Dette er mer en Windows-greie. 
+
+Ikke helt optimalt tastatatur 
+
+Den medfølgende Bluetooth-musen og -tastaturet er ganske minimalistiske i utformingen. 
+Tastaturet er oppladbart og tilsvarer det du kan finne på 15,6-tommere i størrelse. 
+
+Noen spesialtaster er plassert på litt ulogiske steder, og enter-tasten er så liten at vi bommer ofte når vi bruker den. 
+Vi har også opplevd at det lugger i kommunikasjonen med PC-en, samt at det plutselig kommer mange like tegn etter hverandre. 
+
+Responsen er dessuten for dårlig til at det kan anbefales til gaming. 
+
+Det er uvisst hva dette skyldes, men det ville ikke sjokkere oss om forklaringen ligger i Bluetooth-kommunikasjonen. 
+Ser vi bort fra dette, er tastaturet behagelig å bruke, med faste, støysvake og responsive taster. 
+
+Musen er enkel og fungerer like godt for venstre- og høyrehendte. 
+Knappene er usynlige, og vi savner litt tydeligere respons når de trykkes, men alt i alt fungerer den greit. 
+Denne er ikke oppladbar, men bruker to vanlige AAA-batterier. 
+
+Høy ytelse og temmelig lav støy 
+
+Maskinen er utstyrt med en rask SSD som systemdisk, samt en romslig harddisk for lagring av data. 
+Det er en meget smart løsning både ytelses- og kapasitetsmessig. 
+Ulempen er at harddisken, som roterer 7.200 ganger i minuttet, lager litt mekanisk during. 
+Kombinert med en kjølevifte som har flere hastighetstrinn, blir PC-en aldri helt lydløs. 
+Støynivået er imidlertid så lavt at det ikke representerer noe stort ankepunkt. 
+Kun under svært tung belastning er støyen på et nivå der man muligens får spørsmål av typen «hører du den duringen? 
+Hva kan det være for noe?» 
+
+Sett i forhold til hva denne PC-en er i stand til å levere av ytelse, må dette uansett absolutt karakteriseres som svært lavt. 
+
+Her ser du ytelstallene vi fikk med nyeste versjon av PassMark PerformanceTest: 
+
+Spesielt SSD-ytelsen imponerte oss, med lesehastigheter på inntil 1,8 GB i sekundet og skrivehastighet på rundt 700. 
+Også ytelsen på harddisken viste seg å være høy, med rundt 200 MB i sekundet både på lesing og skriving. 
+
+Grafikken fra AMD er kjapp nok til å spille mange nyere spilltitler med god detaljrikdom og god flyt, noe man slett ikke skulle tro når man ser den kompakte PC-en. 
+Vi tester ikke spillytelse spesielt, men teknosiden Techpowerup.com skriver i sin omtale av grafikkortet at det fint kan kjøre de nyeste spilltitlene på 1.650 x 1.050 piksler med rikeste detaljnivå. 
+
+CPU Mark på 5.954 poeng vil du ikke oppnå med noen PC-er med ULV-prosessor, og selv om ytelsen ligger godt under «fullblodsutgaven» av Intel Core i5-6300, byr den på mer enn god nok kraft til nær sagt alle normale PC-oppgaver. 
+
+Konklusjon 
+
+Vi er langt på vei imponert over det HP har fått til med Pavilion Wave. 
+God design, høy ytelse, lav støy og god lyd er noe vi definitivt verdsetter, og da ender vi til slutt på en femmer på terningen. 
+
+HP Pavilion Wave 600-A000no 
+
+Det største ankepunktet er tastaturet, takket være noen kommunikasjonsutfordringer, samt den svært lille enter-tasten. 
+Det er også helt på det rene at du får kraftigere PC-er med eksterne høyttalere til langt lavere pris, så det er helt klart ikke det beste valget hvis du er mer opptatt av ytelse pr krone enn kompakt og plasseringsvennlig design. 
+
+Fotnote: 
+
+Et lite hjertesukk til slutt: 
+I løpet av de første minuttene vi brukte PC-en, fikk vi ikke mindre enn tre advarsler fra McAfee om at vi var potensielt ubeskyttet, med oppfordring om å betale for denne sikkerhetspakken. 
+Slike opplevelser burde man være skjermet mot på en PC som ellers føles (og prises) som et premiumprodukt. 
+
+Vi har klaget så fælt på sikkerhetspakken de siste årene, at en av sjefene i det Intel-eide selskapet nylig tok kontakt med undertegnede og lovet at fremtidige versjoner vil være langt mindre plagsomme. 
+
+Det kan du lese mer om i denne artikkelen. 

@@ -1,0 +1,192 @@
+Android i sin reneste form
+…men i Norge blir det dyrt å kjøpe Google-telefonen. 
+
+Mange produsenter lager Android-telefoner, men oppigjennom har det kun vært Nexus-telefonene som har vært de «originale»; altså med en Android-utgave akkurat slik Google vil ha den. 
+
+Det har også gjort at eiere av Nexus-telefoner har vært de første til å få oppdateringer til nye Android-versjoner. 
+Andre produsenter må gjerne flikke litt på sine justeringer før de kan sende ut en oppdatering, noe som kan ta uker, måneder og år. 
+
+I høst døpte Google om Nexus-navnet til Pixel og lanserte to egne telefoner; Pixel og Pixel XL. 
+
+Egne i den forstand at det ikke lenger står en annen produsents navn på baksiden, slik det for eksempel gjorde med Nexus 6P og Nexus 5X, som var laget av henholdsvis Huawei og LG. 
+
+Det betyr dog ikke at Google har laget telefonene selv, og selv om det ikke er uttalt offisielt, skal det være HTC som er den usynlige partneren på Pixel-telefonene. 
+
+Enda bedre stemmestyring 
+
+Google Assistant er kanskje den største overskriften når det gjelder Pixel-telefonene. 
+Den er dog ikke tilgjengelig på norsk, så om du vil bruke den på Pixel, er du nødt til å sørge for at hovedspråket på telefonen er satt til engelsk. 
+
+Da kan du holde fingeren nede på hjem-ikonet, og så snakke i vei med assistenten. 
+En ekstra mulighet er å sveipe opp – da aktiverer du den såkalte «Now on tap»-funksjonen, som analyserer innholdet på skjermen og gir deg lenker til mer informasjon. 
+
+Under ser du for eksempel en e-post fra Rockefeller om en konsert, der jeg umiddelbart kan trykke meg videre til Spotify eller Instagram for å høre/se mer fra artisten, finne veien til konsertlokalene og den slags: 
+
+Google Assistant er en app som straks vil bli lansert til flere Android-telefoner enn Pixel. 
+Vi stiftet bekjentskap med den da vi prøvde ut chatte-appen Allo, hvor du kan påkalle assistenten ved å starte ei linje med @google. 
+
+Assistant er altså en videreføring av Googles stemmestyring; en funksjon tilsvarende Siri på iOS. 
+Du kan be assistenten om å starte apper, om været i morgen, kjørebeskrivelse til Geilo, valutakurser, oppføringer i kalenderen og mye mer. 
+
+I videoen under gir vi Google Assistant litt av hvert å bryne seg på: 
+
+Særdeles godt kamera 
+
+Om ikke Assistant skulle være så attraktivt for oss nordmenn, så er i hvert fall kameraet det. 
+
+Her har Google valgt en 1/2,3" sensor og 12 megapiksler, som gir en pikselstørrelse på 1,55µm; størst blant telefonene som selges i dag, så vidt vi kan erindre. 
+Blenderåpningen på f/2,0 er ikke noe ekstraordinær, og kameraet har heller ikke optisk bildestabilisering, men det er i programvaren Google klarer å gjøre ganske mye snedig. 
+
+Her brukes nemlig HDR-funksjonen ofte. 
+Ikke bare for å få frem detaljer i mørke og høylys når motivet er kontrastrikt, men Google-kameraet tar også flere bilder når det er mørkt, for så å sy dem sammen til ett bilde med mindre støy. 
+
+Eksempelvis er bildet under tatt i mørke forhold med ISO 4800; og støybehandlingen er svært imponerende til at følsomheten er så høy. 
+Du kan se urørte bilder i full størrelse lenger ned. 
+
+Google leverer også svært godt både på lysmåling og hvitbalanse. 
+Du får ikke gitt kameraene særlig større utfordring enn i bildet under, der vi står i en mørk tunnel med ei sterk sol lysende rett inn: 
+
+Allikevel får vi detaljer i veggene i tunnelen uten at himmelen er helt utbrent, og det er rett og slett en knallbra eksponering. 
+
+Under ser du også det typiske t-banebildet, der Pixel XL måler hvitbalansen meget godt; en situasjon der mange telefoner leverer et veldig gult bilde: 
+
+Detaljnivået på bildene er også svært godt. 
+
+Flere aktører har nå begynt å bruke to kameraer på baksiden for å kunne lage en forfalsket dybdeuskarphet spesielt egnet til portretter. 
+
+Selv om Pixel XL bare har ett kamera bak, lar Google deg også gjøre dette ved at du tar bilde og deretter beveger kameraet litt oppover. 
+Da sørger de smarte algoritmene for å kalkulere hva som ligger lenger unna i bildet og gjør det uskarpt deretter: 
+
+Vi har lagt ut noen testbilder i full størrelse, urørt fra kameraet i dette Google Foto-albumet som du kan ta en nærmere titt på om du vil. 
+
+Videomessig støttes for øvrig både 4K-oppløsning og 240fps saktefilm i 720p-oppløsning; altså tilsvarende som på iPhone der ett sekunds virkelighet gir åtte sekunder med video. 
+
+Og ekstra kjekt med Pixel-telefonene: 
+Alle bilder og videoer du laster opp fra dem bevares i sin originale form på Googles Foto-tjeneste uten at det teller mot lagringsplassen. 
+
+Utradisjonell design 
+
+Pixel kommer altså i to utgaver, der vi har testet størstemann; Pixel XL. 
+Den har en 5,5 tommers skjerm (Pixel har fem blank), er 8,5mm tykk og 75,7mm bred. 
+Det betyr at skjermen opptar 71,2 prosent av den totale flaten. 
+
+Det siste er for så vidt ikke alt for imponerende med tanke på at det ikke er noen fysisk hjemknapp på forsiden, så her er det relativt store rammer rundt. 
+
+Fingeravtrykksleseren er imidlertid plassert på baksiden, slik den også var plassert på Nexus 6P. 
+Den opplever vi som presis, men ikke fullt så raskt som de beste om dagen. 
+
+Kjekk er imidlertid muligheten for å tilordne den flere funksjoner, som at man kan sveipe ned på den for å trekke ned varslingsfeltet, og opp for å rulle det opp igjen. 
+
+Baksiden skiller seg godt ut fra andre telefoner, og det er, for å være diplomatisk, delte meninger om Pixel-telefonenes bakside. 
+Her har nemlig Google valgt å dekke et ganske stort felt med glass, som da bryter med aluminiumen på resten av telefonen. 
+
+Kameraet går i ett med baksiden, men studerer man nøye, ser man at telefonen er tykkere i toppen enn den er i bunnen, så det hadde stukket ut om telefonen skulle ha vært like tynn i topp som i bunn. 
+Kantene er avrundet over og under, men helt loddrette på siden, og vi liker godt grepskomforten på Pixel XL. 
+
+Skjermen er av AMOLED-typen og måler 5,5 tommer over diagonalen. 
+Det betyr et dypt sortnivå og sterke farger, om enn noe mer edruelig innstilt enn på Samsungs telefoner. 
+
+Den har QHD-oppløsning (2560x1440), og er altså en av svært få telefoner som er Daydream-kompatible. 
+Lysstyrken er også relativt god, selv om den ikke helt når opp til Samsung på det punktet, der skjermen ikke er like godt synlig i sterk sol. 
+
+Verdt å merke seg er at telefonen ikke er vanntett, og at den heller ikke støtter minnekort. 
+
+Ytelse 
+
+Pixel XL har en Snapdragon 821-prosessor innabords, som fremdeles er Qualcomms toppmodell. 
+Det endrer seg imidlertid om kort tid, der 835 tar over som ny toppmodell. 
+
+Skjermstørrelse: 5,5" - oppløsning: 2560x1440 - type: 
+AMOLED 
+
+Prosessor: 
+Snapdragon 821 RAM: 
+4 GB Lagringsplass: 32 GB / 128 GB Minnekort: 
+Nei Byggematerialer: 
+Glass/Metall 
+
+Lading: 
+USB-C 
+Fingeravtrykk: 
+Ja, bak Vanntett: 
+Nei Tykkelse: 
+8,5 mm Vekt: 168 gram 
+
+Kamera: 
+12Mp, f/2.0, 1/2,3" Frontkamera: 
+8Mp, f/2,4, 1/3,2" 
+
+Batteri: 3.450 mAh Lader: 
+18W (QuickCharge 3.0) 
+
+Operativsystem: 
+Android 
+
+Det gjør at Pixel XL er blant de sterkeste telefonene ytelsesmessig. 
+
+Opplevd ytelse i daglig bruk er svært god. 
+De rene Google-telefonene har alltid hatt en liten «edge» med tanke på flyt på hjemskjermen og den slags, der produsenter som modifiserer Android ligger ørlite bak. 
+Bytting mellom apper, navigasjon, animasjoner og nettsurfing går silkemykt på Pixel XL. 
+
+Men på ytelsestester som Geekbench havner den noe bak de beste. 
+Det samme gjelder PCMark-testene, der de siste Huawei-telefonene scorer høyest. 
+
+Og side om side med Huawei Mate 9 Pro, merker vi at ytelsen ved litt tyngre bruk ikke er helt på samme nivå. 
+Særlig når vi spiller opplever vi litt lugging og heng her og der på Pixel XL, som er totalt fraværende på Huawei-telefonen. 
+Dette har vi blant annet opplevd både på Golf Clash og Smashy Brick; undertegnedes guilty pleasures for tiden, og som begge krever en viss grad av presisjon. 
+Irriterende. 
+
+Batteriet er på 3.450 mAh, og vi opplever batteritiden som ganske solid på Pixel XL. 
+Spesielt går det med veldig lite strøm når telefonen ikke er i bruk, og på nattbordet har telefonen stort sett bare mistet et par prosentpoeng med batteri mens vi sov. 
+Dette er en telefon de aller fleste vil få til å rekke igjennom hele dagen og frem til lunsj neste dag. 
+
+Lyden fra den interne høyttaleren er over middels god, den har et høyt og godt output fra hodetelefonutgangen, men hva gjelder samtalekvalitet høres det ikke like rent ut som på de beste. 
+
+«Ren» Android 
+
+Nevnt er at Pixel XL har en «ren» Android-utgave innabords. 
+Telefonen kjører i skrivende stund versjon 7.1 av Android. 
+
+Launcheren (hjemskjermen) flyter svært godt, og Google har gjort en vri med app-skuffen der du bare sveiper opp fra bunnen for å se alle appene. 
+Noen av appene lar seg også trykkes lenge på, litt a la 3D Touch på iPhone, men uten at du må trykke hardt. 
+
+Litt irriterende er det dog at det ikke går an å fjerne Google-widgeten som opptar den øverste delen av hjemskjermen 
+
+Jeg har alltid likt den rene Android-opplevelsen på Nexus/Pixel-telefonene, men jeg må saktens innrømme at andre telefonprodusenter også bidrar med ting som faktisk gjør opplevelsen bedre. 
+
+Eksempelvis må du trikse det til for å få se batteriprosenten på statuslinja på toppen (og den er uansett svært lite lesbar). 
+Knappen for å lukke alle åpne apper er håpløst godt skjult (du må skrolle helt til toppen), og om du ikke vil ha såkalte heads-up-varsler fra en app (der det dukker opp et felt på toppen av skjermen som viser varselet), får du heller ingen vibrasjon eller lyd fra appens varsler. 
+Dette er ting så og si alle Android-produsenter legger til i sine brukergrensesnitt. 
+
+Og svært merkelig: 
+Du må trykke deg ganske dypt i innstillingene for å aktivere LED-varsellampen i front, som vi først trodde ikke fantes på Pixel XL. 
+
+Ikke i offisielt salg 
+
+Verdt å merke seg er at Google ennå ikke har lansert Pixel-telefonene i det norske markedet, som sannsynligvis kan ha sammenheng med at Assistant-funksjonen ikke forstår norsk. 
+
+Det betyr at du enten er nødt til å bestille telefonen fra utlandet, eller kjøpe den fra en norsk nettbutikk som har importert telefonen på egenhånd. 
+
+Vi fikk låne vårt eksemplar fra Multicom. 
+I vår pakke fulgte det med et britisk støpsel, men det finnes også EU-modeller med støpsel som passer her til lands. 
+
+Uansett kan du selvsagt bruke en annen USB-lader, som du sikkert har liggende allerede. 
+Kjekt er det for øvrig at det følger med både USB-C til USB-C-kabel i esken, samt en USB-C til USB-A-kabel («vanlig» USB). 
+
+Konklusjon 
+
+Det er mye å like ved Google Pixel XL. 
+Telefonen har et svært godt kamera, vi lar oss imponere av Google Assistant (selv om den bare er på engelsk), og opplevd hverdagsytelse er svært god. 
+Det vil også være en telefon som står først i køen når Google kommer med Android O i neste runde. 
+
+Attraktivt er det også at at Google tilbyr Pixel-eiere ubegrenset gratis sikkerhetskopiering av bilder man laster opp fra telefonen – i originalformat. 
+
+Men du betaler svært dyrt for Pixel XL. 
+Prislappen ligger i underkant av 10.000 kroner i norske nettbutikker, og det for 32 GB-utgaven (uten minnekortstøtte). 
+128 GB-utgaven koster enda en drøy tusenlapp. 
+
+Riktignok kan du spare en tusenlapp på å bestille fra USA, men da mister du samtidig de fordelaktige norske forbrukerrettighetene. 
+
+Takk til Multicom for lån av Google Pixel XL! 
+
+Google Pixel XL 32GB 

@@ -1,0 +1,34 @@
+Threes
+Knallgod utfordrer til Sudoku. 
+
+Én pluss to er tre. 
+Tre pluss tre er seks. 
+Seks pluss seks er tolv. 
+Tolv pluss tolv er tjuefire. 
+Tjuefire pluss tjuefire er førtiåtte. 
+Førtiåtte pluss førtiåtte er nittiseks. 
+Og slik fortsetter rekken til spillet Threes gjør utfordringen for stor. 
+
+Målet er å flytte brikker rundt på et lite brett og ved å dytte brikkene inn i hverandre kan de kombineres – eller adderes for å være helt korrekt. 
+Tallene en og to kan kun legges til hverandre, mens resten må adderes med et like stort tall. 
+
+Utfordringen, og kjernen i mobilspillet Threes, er å planlegge og forutse hvordan du kan få lagt sammen flest brikker uten å gå tom for plass på brettet. 
+
+Ved å bruke enkle sveipebevegelser kan du flytte brikkene omkring på mobiltelefonskjermen – det er ikke så lett å få til som jeg beskriver det her. 
+
+Godt design løfter spillet 
+
+Selv om utfordringen – å addere tallbrikkene – er enkel nok i seg selv, krever det en strategisk tanke for å stadig klatre høyere på poenglista. 
+
+For hvert sveip med fingeren på skjermen dukker det opp nye brikker som gir deg mindre plass og færre muligheter. 
+
+En spesielt godt utført designidé løfter Threes til noe mer enn utgangspunktet. 
+For ja, det er en elementær spillidé som har blitt raffinert og tilpasset berøringsskjermen. 
+
+Men spillet er også et ypperlig eksempel på i hvor stor grad en gjennomført visuell idé kan gjøre både spillkonseptet og selve læringsprosessen til en universell opplevelse. 
+
+Søte figurer med personlighet, som blir stadig mer monsteraktig etter hvert som du kombinerer stadig flere brikker, gjør tall-leken i Threes morsom for de minste – samtidig som utfordringene for erfarne tallknusere (les: voksne) er store nok til flere timers underholdning. 
+
+«Threes» er tilgjengelig til iOS-enheter gjennom Apple sin AppStore for 14 kroner. 
+
+(videoen under er skapt av YouTube-kanalen TouchGameplay og viser hvordan du spiller «Threes») 

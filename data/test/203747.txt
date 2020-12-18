@@ -1,0 +1,76 @@
+TEST:Smartklokka med svært god batteritid 
+
+En slags mellomting mellom aktivitetsarmbånd og smartklokke, og med svært god batteritid. 
+
+Hvis du spør oss om forskjellen på et aktivitetsarmbånd og en smartklokke, må vi innrømme at vi ikke har et krystallklart svar. 
+
+Særlig ikke etter å ha brukt Huawei Watch GT en måneds tid. 
+For selv om det vitterlig ser ut som en klokke og produktnavnet inneholder ordet «Watch», er ikke Watch GT like «smart» som konkurrentene fra for eksempel Apple og Samsung, med funksjonalitet som i utgangspunktet har mer til felles med aktivitetsarmbånd. 
+
+Men kanskje byr Huawei Watch GT på alt du trenger, og det er i hvert fall ikke vanskelig å la seg friste av den svært gode batteritiden, som Huawei oppgir til rundt 14 dager med normal bruk. 
+
+Selv har vi ligget på rundt 8-10 dager, men da med en ettåring i hus som synes den lille klokkeskjermen er mer spennende enn noe annet hjemme, og som trykkes og sveipes på rett som det er. 
+
+Måler pulsen kontinuerlig 
+
+Som seg hør og bør i 2019 har Watch GT innebygd pulsmåler og måler pulsen din døgnet rundt, der du via Huaweis tilhørende helseapp kan aktivere varsling om den blir for høy over tid. 
+Du kan se dagens pulsutvikling direkte på klokka eller via Huaweis appen, som du også laster ned for å komme i gang (iOS/Android). 
+
+Selvsagt teller den også skrittene dine og dine aktive minutter gjennom dagen. 
+Og – den har en rekke aktiviteter innebygd, som du kan starte manuelt om du skal trene. 
+Da logges vitale data når du løper, sykler, klatrer eller svømmer (vanntett ned til 50 meter), og det finnes både innendørs og utendørs programmer - sistnevnte da med GPS-måling. 
+
+Watch GT har for øvrig innebygd GPS (+ Glonass og Galileo), så telefonen kan fint ligge hjemme mens du trener, og GPS-en er kjapp til å finne plasseringen når du starter ei treningsøkt, med god presisjon. 
+
+På morgenen får du full rapport om nattesøvnen, med grafer og tall på hvor mye tid du har brukt i hver søvnfase. 
+Om du vil kan du sette alarmen slik at klokka får lov til å vekke deg inntil x minutter før tiden du har valgt om den merker at du er i en lett søvnfase, der du selv velger x (opptil 30 minutter). 
+
+I et samarbeid med Harvard medisinske skole analyseres søvndataene slik at du potensielt kan få 200 ulike forslag til hvordan du kan forbedre søvnen. 
+
+To varianter 
+
+Klokka kommer i to utgaver - sport og classic, som kun er ulike utseendemessig. 
+Vår utgave er sportsutgaven, mens classic-utgaven kommer med lær-reim og ser i våre øyne hakket mer elegant ut til hverdagsbruk. 
+Begge har samme prislapp - rundt 2.500 kroner i butikkene. 
+
+Den sirkulære AMOLED-skjermen måler 1,39 tommer i diameter og har oppløsning på 454x454 piksler. 
+Eller rettere sagt – det går 454 piksler på diameteren, som gir en punkttetthet på 326 per tomme. 
+Det er identisk med Apples «retina»-tetthet på iPhone-modellene og betyr at skjermen oppleves meget skarp i det daglige. 
+
+Ikke bygger den så mye heller: 10,6 mm på håndleddet, som er mindre enn Galaxy Watch (13 mm), Apple Watch (11,4 mm) og den første Huawei Watch-klokka (11,3 mm). 
+
+Betjeningsmessig er skjermen berøringsfølsom, og de to knappene på siden brukes henholdsvis for å hoppe til «hjemskjermen» (øvre knapp) og for å komme til treningsprogrammer (nedre knapp), eller som knapp for å starte og stoppe stoppeklokka, treningsøkter og den slags (nedre knapp). 
+
+Enkelt operativsystem 
+
+Mens tidligere Huawei-klokker har brukt Googles klokkeoperativsystem (Android Wear/Wear OS), har Huawei valgt å gå egne veier denne gangen med et eget operativsystem kalt Lite OS. 
+
+Og lett er det definitivt, for det er nok her de mest hardbarkede smartklokke-entusiastene vil bli skuffet. 
+Sammenlignet med konkurrentene er det ikke så voldsomt mye du får gjort på klokka - du kan se varsler fra telefonen (i appen velger du hvilke appers varsler som skal vises), men du får ikke sett bilder eller svart på dem. 
+
+Ei heller kan du snakke med noen smart assistent, styre musikkavspilling, se GPS-navigering, betale med klokka eller den slags. 
+
+Her finner du ingen tredjepartsapper eller nedlastbare urskiver; ei heller ledig lagringsplass til egen musikk eller den slags, og akkurat det siste er litt kjedelig, siden du da blir nødt til å ta med telefonen (eller en Mighty) om du vil høre musikk på joggeturen. 
+
+Foruten treningsfunksjonaliteten og puls har klokka innebygd barometer, kompass, værmelding, stoppeklokke/nedtelling, alarm og mulighet til å få telefonen til å ringe ved å trykke på en knapp (krever at den er innenfor Bluetooth-rekkevidde). 
+
+Men det er nok nettopp det at operativsystemet er såpass lett som gjør at Huawei altså kan varte opp med batteritid i størrelsesorden 1-2 uker før du må putte den i laderen. 
+Klokka lader for øvrig via en magnetisk ladeinnretning som igjen kobles til med USB-C-kontakt. 
+
+Det kanskje største problemet for mange, er at treningsdataene er ganske «lukket». 
+De kan sees i Huaweis helseapp og deles med Google Fit og MyFitnessPal, men vi ser hverken pulsdata eller svømmeøkta i Fit-appen, så det er tydeligvis begrenset hva som deles. 
+
+Dermed får du heller ikke brukt klokka med populære treningsapper som Strava, Endomondo, Runkeeper eller hva det måtte være. 
+Huaweis app er også relativt enkel og steril – uten mulighet til å konkurrere med venner og den slags. 
+
+Konklusjon 
+
+Personlig liker jeg Huawei Watch GT veldig godt – den gjør seg godt på håndleddet, har en meget skarp og fin skjerm, er lettvint å bruke og byr på nok interessante data til at jeg synes det er artig å titte innom helseappen av og til og sjekke hvilepuls, søvnmønster og øvrig aktivitet. 
+
+Det mest forlokkende med Watch GT er definitivt batteritiden, som virkelig er befriende kontra mange konkurrerende produkter. 
+
+Men selv om jeg kan navnet både på Strava, Endomondo og Runkeeper, skal jeg være den første til å innrømme at dette ikke er apper jeg bruker selv, og at mine krav til treningsfunksjonalitet nok er vesentlig lavere enn gjennomsnittet. 
+For jeg tror det vil være en uting for mange at treningsdataene er såpass låst til Huawei-appen som de er, og at denne appen igjen er relativt enkel. 
+
+Alt i alt har ikke Watch GT nok å stille opp med om du ser den som en konkurrent til smartklokkene fra Samsung og Apple, men de koster også en del kroner ekstra. 
+Som et aktivitetsarmbånd, derimot, synes vi Huawei-klokka klarer seg ganske godt – særlig med den batteritiden. 

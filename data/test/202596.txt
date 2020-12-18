@@ -1,0 +1,98 @@
+Asus EeeBook E200HA
+Glimrende kompromiss for deg som vil ha en liten og lett PC uten å bli ruinert. 
+
+Husker du konseptet netbook? 
+De små, billige PC-ene som var populære i tiden rett før nettbrettene entret arenaen? 
+I konkurranse med nettbrettene var de sjanseløse. 
+Det var rett og slett for krøkkete å jobbe på dem, de var trege, og skjermene var heller ikke mye å skryte av. 
+
+Helt borte ble de imidlertid ikke, selv om benevnelsen netbook nok har vandret over terskelen. 
+Enkelte produsenter har fortsatt å videreutvikle konseptet, ikke minst Asus. 
+
+Hvis du har fulgt med på PC-testene våre det siste året, husker du kanskje modellen EeeBook X205TA som vant en trippeltest i august i fjor? 
+Vel, dagens testprodukt er vesentlig bedre på flere punkter, uten at den er særlig dyrere. 
+Det er en utvikling vi liker godt. 
+
+God ergonomi 
+
+Asus EeeBook E200HA Book er på alle måter en voksen netbook. 
+I motsetning til den klassiske netbooken som hadde skjermer fra 7-10 tommer, har denne en på 11,6 tommer. 
+Den er også av brukbar kvalitet, og den økte størrelsen på kabinettet betyr også større plass til tastatur - som dermed blir mer ergonomisk riktig. 
+Faktisk er det like stort som på en Macbook air med 13,3 tommer skjerm. 
+
+Eksteriøret er enkelt, det er brukt plast over det meste, men dog - maskinen gir ikke noen fremtredende billig-følelse, kanskje med unntak av at den speilblanke overflaten blir fort veldig fettete. 
+
+(Artikkelen fortsetter etter bildene) 
+
+Spesifikasjoner 
+
+På innsiden er den også langt mer potent enn de klassiske netbookene. 
+Her er en kjapp oversikt over hva du får: 
+
+Skjerm: 
+11,6 tommer blank TN-skjerm, 1366x768 piksler, ikke berøringsfølsom Prosessor: 
+Intel Atom x5-Z8300 RAM: 
+2GB (som også er maks) Grafikkort: 
+Intel HD Graphics Lagring: 
+32 GB eMMC flashminne + 32 GB microSD-kort Optisk drev: 
+Nei Skjermutganger: 
+MicroHDMI USB-porter: 1x USB 2.0 + 1x USB 3.0 Webkamera: 
+Ja Kortleser: 
+MicroSD Trådløst nett: 
+802.11ac Kablet nett: nei Annet: 
+Bluetooth 4.1 OS: 
+Windows 10 Home Størrelse: 286 x 193 x 17,5mm Vekt: 
+1kg Pris: 
+Fra 2.790 kroner (jf. 
+Prisjakt 2.5.2016) 
+
+Minnemengden er 2 GB (som fortsatt ikke er veldig mye), men Windows er nå i 64-bits utgave og helt uten begrensningene vi husker fra de første netbookene. 
+
+Lagringsplass er fortsatt en knapp faktor, 64 GB er ikke mye (32 + 32 GB), og du har faktisk bare rundt 40GB til rådighet når Windows og programmene har beslaglagt sitt. 
+X205 hadde dog kun halvparten. 
+
+Inntil 1,5 TB i skyen 
+
+Skal du lagre mer lokalt, kan det være en løsning å sette inn et større microSD-kort. 
+For øvrig kan du lagre inntil 1 TB på Microsoft OneDrive i ett år takket være prøveabonnementet på Office 365 som følger med. 
+
+Du kan også bruke Asus sin egen nettskytjeneste Webstorage, der du kan lagre inntil 500 GB gratis i ett år. 
+Vi har såvidt tatt en titt på tjenesten, og den virket treg og langt fra så integrert i Windows som for eksempel Dropbox og nevnte OneDrive. 
+
+Slik er den i bruk 
+
+Så hvordan er det å bruke en PC med Windows 10, 2 GB RAM og siste generasjon Intel Atom-prosessor i 2016? 
+Ikke så verst, faktisk. 
+Noe av det første du vil legge merke til, er at PC-en er fullstendig lydløs. 
+Her er nemlig ingen vifter eller annen mekanikk som kan avgi ulyder. 
+
+Tastatur og pekeplate fungerer helt fint, du kan skrolle med to fingre glatt og bekymringsløst, og programmer og nettsider åpnes relativt kjapt. 
+
+Dette er uansett en maskin som trives best med én og én oppgave. 
+Selv om du kan kjøre tunge programmer og utføre komplekse kalkulasjoner, er det ikke noe vi vil anbefale. 
+Holder du deg til nettsurfing, kontorprogrammer, musikk og video, ser vi ikke bort fra at dette kan være alt du trenger. 
+
+Vi strømmet for eksempel YouTube-video i 4K-oppløsning, noe PC-en ikke hadde noen problemer med å kverne. 
+
+Sammenlignet mot ... 
+
+Diagrammet under viser prosessorytelsen sammenlignet med andre prosessorer i lavprissegmentet: 
+
+Diskytelsen på eMMC-flashminnet er langt lavere enn hva du kan vente deg av en normal SSD, men raskere enn på konkurrenten Acer Aspire R11. 
+Vi målte leseytelsen til 126 MB per sekund og skriveytelsen til 67 MB per sekund. 
+Som en litt slapp harddisk, altså. 
+
+Der maskinen virkelig skinner, er imidlertid på batteritid. 
+Asus lover rundt 12 timer med varierte oppgaver. 
+Vi strømmet YouTube-filmer nonstop i 10 timer og 24 minutter før batteriet måtte lades, så den lovnaden er nok ikke langt fra sannheten. 
+
+Konklusjon 
+
+Er du på utkikk etter en kompakt og svært lett PC, og setter lav pris høyere enn kraftig ytelse, er dette et meget godt valg. 
+Den er etter vår mening et bedre valg enn den langt dyrere konkurrenten Acer Aspire R11, dersom du klarer deg uten berøringsfølsom skjerm og nettbrettmodus. 
+
+Få uansett med deg plussene og minusene i boksen under før du bestemmer deg, og husk at terningkastet alltid må ses i forhold til hva du kan forvente å få i den samme klassen. 
+
+Andre aktuelle PC-tester finner du her. 
+
+Asus VivoBook E200HA-FD0009TS 

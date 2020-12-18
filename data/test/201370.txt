@@ -1,0 +1,174 @@
+Sony Xperia X
+Splitter ny serie, uten de helt store krumspringene. 
+
+Det kom noe overraskende på oss da Sony lanserte en splitter ny Xperia-serie på mobilmessen i Barcelona tidligere i år. 
+
+Mens japanerne har holdt Z-serien i live helt opp til tre Z5-telefoner i fjor høst (Z5 Compact, Z5 og Z5 Premium, var det plutselig duket for ny serie i Xperia X, som fullstendig erstatter Z-serien. 
+
+Foruten dagens testprodukt, som bare heter Xperia X, kommer også den rimeligere modellen Xperia XA og den dyrere modellen Xperia X Performance, med Qualcomms toppmodell Snapdragon 820 innabords. 
+
+Ifølge våre kontakter hos Sony vil Z5 Compact og Z5 Premium leve videre, mens X og X 
+Performance vil fase ut den «vanlige» Z5-modellen. 
+
+Ikke vanntett 
+
+Mens alle telefonene i Z-serien har vært vanntette, gjør Sony en ny vri på X-serien. 
+Av de tre nye modellene er det kun Performance-modellen som fortsatt er vanntett – dagens testprodukt, Xperia X, er ikke vanntett. 
+
+Ja, faktisk er det flere ting som gjør at Xperia X på papiret er svakere enn sin forgjenger, Z5, som i tillegg er en tusenlapp billigere i butikkene nå om dagen: 
+
+Z5 er med andre ord raskere, tynnere, vanntett og har større batteri. 
+I butikkene er prisforskjellen nøyaktig en tusenlapp i skrivende stund; også dette i Z5s favør. 
+
+«Prediktiv» autofokus 
+
+Xperia X har imidlertid et bedre frontkamera, og Sony har også jobbet med kamerateknologien slik at kameraet starter enda litt raskere enn før. 
+
+Det har også fått en ny funksjon: prediktiv autofokus. 
+Den fungerer slik at du kan trykke på et objekt i bildet (for eksempel en person), og så vil autofokusen følge dette objektet hele tiden; også dersom det forsvinner fra bildeutsnittet og kommer tilbake igjen. 
+Akkurat den biten har flere andre telefoner også, blant annet S6- og S7-telefonene fra Samsung. 
+
+Nytt er imidlertid at kameraet skal klare å forutsi bevegelsen. 
+Dermed mener Sony at autofokusen skal klare å justere seg slik at den forutser hvor objektet vil være i det utløseren fyrer av, slik at actionbilder skal få enda bedre skarphet. 
+
+Vi kan ikke si at vi helt ser dette i praksis – under testet vi mot Samsung Galaxy S7 side om side, der vi brukte objektsporing på sistnevnte, og det er på Samsung-bildet Ole Petter har blitt skarpest. 
+
+Dermed ser prediktiv autofokus ut til å være noe vi klarer oss fint uten. 
+
+Egen kameraknapp 
+
+Selv om Xperia X har mistet vanntettheten som har fulgt Z-telefonene de siste årene, har Sony valgt å beholde en annen ting vi liker godt – en egen kameraknapp som lar deg starte kameraet når som helst ved å holde den inne noen tideler. 
+
+I kamerainnstillingene kan du velge om telefonen bare skal starte kamerappen eller også ta et umiddelbart bilde. 
+Ifølge Sony skal dette gå på under 0,6 sekunder. 
+
+Den fungerer dessuten som en tradisjonell utløserknapp, der du kan holde den halvveis nede for å fokusere og så klemme den helt inn for å ta bildet. 
+
+Ikke bare rosenrødt 
+
+Vi har klart å få det til på under 0,6 sekunder, men det har også tatt både ett og to sekunder. 
+Hvor fort det går, avhenger av hvor mange apper som kjører og hvor nylig du brukte kameraet. 
+Her opplever vi at S7-telefonene leverer en mer konsistent opplevelse når man dobbeltklikker på hjemknappen for å starte kameraet direkte – og i bunn og grunn like kjapp. 
+
+Men i testingen av dette, opplevde vi flere ganger at kameraappen hang seg opp, krasjet, startet med søkerbilde uten knapper, startet med et svært overeksponert bilde og mer til, så det er tydelig at kameraprogramvaren har feil som Sony burde ha rettet opp i. 
+
+Og som vi har kommentert tidligere – det er merkelig at man må låse opp telefonen for å bytte kameramodus eller endre en av innstillingene når man har startet det direkte fra låst tilstand, for eksempel om man vil ta en video i sakte film. 
+Det trenger man ikke på andre Android-telefoner. 
+
+Dessverre finnes det heller ingen mulighet i kameraappen for å ta seriefoto, der du holder utløserknappen inne for å ta flere i slengen. 
+Det gjelder for øvrig for utløserknappen på skjermen også, noe vi synes er merkelig når prediktiv autofokus er en såpass het overskrift i markedsføringen. 
+Skal man først ta actionbilder, mener vi at det er viktig å kunne ta kjapp seriefoto også. 
+
+Slik blir bildene 
+
+Det ble mye om kameraet, så la oss også ta en titt på bildene vi får ut fra det. 
+Kamerasensoren på baksiden er den samme som i Z5-modellene, med andre ord en 1/2,3" sensor med 24,7 megapikslers oppløsning, men der hjørnene aldri brukes, slik at maks oppløsning er 23 megapiksler. 
+
+Som standard tar kameraet imidlertid bilder med 8 megapikslers oppløsning, der Sony mener at algoritmer i kameraprosessoren vil dra nytte av det å fange flere piksler, for så å nedskalere det på en smartere måte. 
+
+Lysstyrken er f/2,0 og brennvidden tilsvarende 24mm; en vidvinkel få andre telefoner kan skilte med. 
+Nytt denne gangen er at frontkameraet også er oppgradert, nå med 13 megapikslers oppløsning og også her f/2,0 blenderåpning. 
+
+Men la oss kalle en spade for en spade – Sony når ikke opp til beste mobilkameraene nå om dagen. 
+Bildene har ikke det samme detaljnivået og får ofte noe unaturlige farger. 
+
+La oss se med noen eksempler. 
+Alle bilder er tatt med full auto, som vi antar er den primære måten folk bruker mobilkameraet på. 
+
+Først et detaljbilde sammenlignet med Samsung Galaxy S7, 50 prosent skalert. 
+Ulik brennvidde og oppløsning gjør at vi ikke får det samme utsnittet. 
+Sony øverst: 
+
+Som du ser klarer ikke Sony-kameraet å levere det samme detaljnivået, og mange av de hvite blomstene fremstår som noe overeksponerte. 
+
+Så en vanskelig eksponering med både mørke og lyse partier. 
+Her eksponerer Samsung-kameraet himmelen godt, mens den blir i overkant lys fra Sony-kameraet. 
+Her må vi legge til at Sonys eksponering er over middels god – mange mobilkameraer ville ha gitt en fullstendig hvit himmel i dette tilfellet. 
+
+Neste bilde tok vi side om side med Huawei Mate 8 på en solskinnsdag. 
+Her synes vi Huawei-telefonen gjengir fargene godt, mens Sonys farger blir svært mettede og unaturlige, og det gjentar seg på de fleste av bildene vi har tatt i solskinn: 
+
+På det neste bildet har vi tatt et bilde i dunkel belysning for å se hvordan kameraet oppfører seg med høy følsomhet. 
+Også her mot Samsung Galaxy S7, der vi bevisst tok bildet litt nærmere med Xperia X for å prøve å få et ganske likt utsnitt. 
+Sony øverst: 
+
+Her har Sony-kameraet brukt ISO 2000, mens S7 har brukt ISO 1250, men det skyldes delvis også at Samsung-kameraet slipper inn 38 prosent mer lys. 
+Som du ser klarer ikke Sony å levere like gode detaljer, men signalprosesseringen er i det minste ganske god, med uniform støy. 
+
+Til slutt et eksempel fra frontkameraet. 
+Her har vi nedskalert Sony-bildet (13 megapiksler) slik at utsnittet matcher det fra Galaxy S7. 
+Også her må vi holde en knapp på Samsung-kameraet, som gir flere detaljer i skjegget: 
+
+Under kan du se flere bilder tatt med Sony Xperia X: 
+
+Traust design 
+
+Selv om serien har fått nytt navn, har ikke Sony gjort noen store endringer hva gjelder utseende, noe som også er med overlegg – det skal være gjenkjennelig Sony-design på X-serien. 
+
+Her finner vi praktisk talt det samme designet som har preget Sonys telefoner helt siden Xperia Z kom for tre år siden; et ekstra firkantet uttrykk med korte avrundinger av hjørnene. 
+De avrundede sidekantene gjør imidlertid at Xperia X føles komfortabel i hånda, og skjermstørrelse på fem tommer gjør at den vil passe i de fleste hender og kunne betjenes med én hånd. 
+
+Nytt i forhold til Z5 er at baksiden nå er av aluminium og ikke av glass, noe som gjør at det blir én mindre flate å knuse. 
+Selv om det ikke markedsføres fra Sonys side, har vi fått vite at det brukes Gorilla Glass 4 på forsiden. 
+
+Som på Z5 synes vi dog av plasseringen av volumknappene er lite hensiktsmessig; spesielt om du holder telefonen i høyre hånd og vil justere samtalevolumet. 
+De foretrekker vi å ha over midten. 
+
+Og fremdeles synes vi at det å plassere fingeravtrykksleseren på en av sidene gjør at den ikke er fullt så godt egnet for de som primært holder telefonen i venstre hånd, men det fungerer selvsagt å registrere venstre peke- eller langfinger også. 
+Den smalere bredden på telefonen (69mm) gjør faktisk at akkurat det går litt bedre enn på Z5. 
+
+Sony har også gjort noen endringer hva gjelder skjermen – nå er ikke lenger digitizeren en del av skjermen, noe som har gjort den godt synlig på telefoner i Z-serien (se bilde nummer to i Xperia Z2-testen). 
+Det betyr også at en knust skjerm i større grad vil kunne brukes – på tidligere modeller betød knust skjerm at man heller ikke fikk brukt berøringsfunksjonaliteten. 
+
+Nært "vanilje"-Android 
+
+En ting vi liker med Sonys telefoner er at Android-opplevelsen er tett opptil den du får direkte fra Google i deres Nexus-modeller. 
+Her har selskapet gjort lite med brukergrensesnittet på toppen, som også bør gjøre at fremtidige Android-oppdateringer kan komme ganske raskt. 
+
+Gledelig er det også at standardtastaturet som kommer forhåndsinstallert er Swiftkey – vår favoritt. 
+
+Ellers finnes det noen små ekstrafunksjoner her og der, blant annet en automatisk equalizer som skal justere seg basert på hva slags musikk du lytter til, en egen app-side med foreslåtte apper (både som du har installert og som du bør laste ned), en innebygd telefonsvarerfunksjon og mulighet for å laste ned en rekke temaer, som endrer både bakgrunnsbilde og utseendet generelt i menyene: 
+
+Ikke et råskinn 
+
+Mens toppmodellen Xperia X 
+Performance har en Snapdragon 820 innabords, er maskinvaren noe svakere i Xperia X. 
+Her har Sony gått for en Snapdragon 650 prosessor med seks kjerner (2 x 1,8 GHz, 4 x 1,4 GHz). 
+Telefonen har 3 GB arbeidsminne (RAM) og 32 GB internminne, pluss støtte for minnekort. 
+
+Når vi kjører ytelsestester ser vi at maskinvaren ikke holder tritt med toppmodellene nå til dags, men vi snakker uansett ikke om de dramatiske forskjellene i praktisk bruk. 
+
+Det er først og fremst på 3D-ytelse den sakker bak, med en 3DMark-score på 17.997 poeng. 
+Det er for eksempel drøye 2.000 poeng bak Xperia Z3 Compact, som ble lansert for snart to år siden, og dermed må du forvente noe hakking på de nyeste 3D-spillene. 
+
+I daglig bruk opplever vi imidlertid Xperia X som kjapp nok til det meste. 
+Sony har ikke gjort veldig mye med standardutgaven av Android, og både nettsurfing og generell navigering går smertefritt. 
+
+Hva gjelder batteriet er ikke det allverden på papiret, med 2.620 mAh kapasitet. 
+Dog har Sony lenge hatt ganske smarte strømsparingsfunksjoner, som gjør at vi allikevel opplever Xperia X som en telefon med helt grei batteritid, og som de færreste vil ha behov for å lade ekstra i løpet av en lang dag. 
+Etter ett døgn har vi nå 30 prosent igjen, med halvannen times skjermtid, der vi i tillegg har brukt telefonen både til GPS-navigering og strømming fra Spotify når skjermen ikke har vært tent. 
+
+Batteritiden kan dessuten forbedres ytterligere ved å aktivere Stamina-modus, som blant annet reduserer ytelsen, begrenser GPS, slår av bildeforbedringer og den slags. 
+
+Verdt å merke seg er også at Xperia X-telefonene benytter seg av patentert ladeteknologi fra Qnovo. 
+Den skal være mindre belastende på batteriet og doble tiden det tar før batteriet svekkes til et visst nivå. 
+
+Konklusjon 
+
+Med fem tommers skjerm er Xperia X en telefon som vil passe fint i de fleste hender – den er god å holde og vil for mange være akkurat passe stor, med sine 69mm i bredden. 
+
+Det vi imidlertid sliter litt med, er å finne noen gode argumenter for hvorfor du bør velge denne telefonen fremfor en annen i samme prisklasse. 
+
+Selv om kameraet starer raskt, har rask autofokus og god vidvinkel, blir ikke bildene like gode som hos de beste nå til dags. 
+Vi synes også Sony har en jobb å gjøre med kameraappen sin, som både har enkelte svakheter, mangler og tidvis oppleves ustabil. 
+
+Xperia X er svakere enn sin forgjenger, Xperia Z5 – den er ikke vanntett, den har svakere ytelse, er tykkere og har mindre batteri, til tross for at den er en tusenlapp dyrere. 
+Riktignok er Z5 på vei ut, og prislappen på X er noe lavere enn hva Z5 hadde ved lanseringstidspunktet. 
+
+Og vil du ha en litt mindre telefon, synes vi Xperia Z5 Compact, til en enda lavere pris, fremstår som et langt bedre kjøp. 
+I skrivende stund har Lefdal denne på tilbud – nesten til halve prisen av Xperia X. 
+
+Sony Xperia X lanseres 30. mai. 
+
+Sony Xperia X 
+F5121 

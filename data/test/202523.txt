@@ -1,0 +1,105 @@
+Asus ZenBook Pro UX501VW
+Denne PC-en har nesten alt, men det koster å være kar. 
+
+De siste årene har mye av innovasjonen på PC-markedet dreid seg om ultrabook og hybrider mellom PC-er og nettbrett. 
+
+Men disse modellene tilfredsstiller ikke alle bruksmønstre, spesielt ikke dem som ligger høyt på kravstigen, inkludert gaming, konstruksjon og seriøs video- og bilderedigering. 
+
+Pro-maskin 
+
+Det er «mer seriøst bruk» Asus hadde i tankene da de konstruerte Zenbook Pro UX501V. 
+Det er slett ingen billig PC vi har hatt på testbenken den siste uka, men til gjengjeld har vi funnet svært få ankepunkter å snakke om. 
+
+Men før vi går videre skal vi se litt på hva maskinen har å by på av sentrale spesifikasjoner: 
+
+Skjerm: 15,6" blank IPS berøringsskjerm, 4K-oppløsning (3840 x 2160 piksler) Prosessor: 
+Intel Core i7-6700HQ RAM: 
+16GB (maks 24GB) 
+Grafikkort: 
+Nvidia Geforce GTX 960M, 2GB RAM Lagring: 
+Samsung M.2 SSD på 512GB (PCIe-basert) Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 + DisplayPort 1.2/Thunderbolt 3.0 over USB-C USB-porter: 3 x USB 3.0 + 1 x USB 3.1 (USB-C-port) Webkamera: 
+Ja Kortleser: 
+Ja, for SD/SDHC/SDXC Trådløst nett: 802.11AC (Intel AC7265) + Bluetooth 4.0 Kablet nett: 
+Ja, via medfølgende adapter (Gbit LAN) 
+Annet: 
+Plass til 2,5" SSD/harddisk i tillegg OS: 
+Windows 10 Home Størrelse: 38,3 cm x 25,5 cm x 2,13 cm Vekt: 2,27kg Pris: 
+Fra 18.995 kr inkl mva (jf Prisjakt 6.5.2016) 
+
+Solid og oppdatert 
+
+Vi merker oss også at PC-en er utstyrt med USB-C port, som både støtter USB 3.1 (dobbel så rask som USB 3.0), Thunderbolt og DisplayPort - en slags universalport for svært rask dataoverføring (inntil 40 Gbit) til alt fra lagringsenheter til svære 4K-skjermer. 
+
+Det som ikke kommer fram i spesifikasjonslisten, er at Asus har benyttet aluminium i hele kabinettet, noe som gir en følelse av robusthet og kvalitet. 
+Designuttrykket er kjent fra andre ZenBook-modeller, og den sirkelformede dekoren øverst til venstre og høyre har vi også sett tidligere. 
+
+Oh la la-skjerm 
+
+Berøringsskjermen beskyttes av en glassplate, men vi har ikke funnet noe bevis for at det er spesielt herdet, som vi ofte ser på nettbrett. 
+
+Glassplaten er uansett speilblank, noe som kan være problematisk under vanskelige lysforhold. 
+
+Utover dette ankepunktet, er skjermen helt eksemplarisk, og blant de beste vi har sett på en bærbar PC. 
+IPS-panelet fra LG Display sørger for at verken farger eller kontrast avtar eller endres når du beskuer skjermen fra sidene. 
+Driver du med bilde- og videoredigering og er opptatt av mest mulig korrekte farger, er det greit å vite at skjermen dekker 100 prosent sRGB fargegamut og 74 prosent Adobe RGB. 
+
+Tastaturet er stort og tastevennlig, og har tre nivåer av bakbelysning. 
+Det har en anelse svikt - egentlig over det hele, men ikke nok til at det påvirker bruken negativt, mener vi. 
+Pekeplaten er gjennomsnittlig stor og ligger en anelse til venstre for midten. 
+Den fungerer helt ok, inkludert flerberøring, hvis du foretrekker slik styring foran skjermberøring (noe vi mistenker at mange gjør). 
+Det eneste som irriterer oss litt, er at de integrerte knappene har litt skarp/høy klikkelyd. 
+
+Ikke Pro-Windows 
+
+Windows 10 Home er på plass, men på en PC til nesten 19.000 kroner - som til og med har pro i produktnavnet - bør etter vår mening utstyres med pro-utgaven av Windows 10. 
+Det er spesielt mangelen på støtte for kryptering og domenepålogging vi savner, noe mange i pro-segmentet helt sikker ønsker seg. 
+
+Slik er ytelsen 
+
+Ytelsesmessig er dette som ventet uansett en råtass, både takket være Intel Core i7-prosessoren, SSD-en og Nvidia Geforce GTX 960M-grafikken. 
+I målinger foretatt med Passmark Performance Test, fikk vi et ytelsestall på 8240 på prosessoren. 
+Det er for eksempel godt over dobbelt så raskt som den uhyre populære Intel Core i5-6200U, som sitter i mange nye PC-er i mellomskiktet, og som løser de fleste oppgaver kjapt og smertefritt. 
+
+SSD-en er også lynrask, vi målte lesehastighet på 668 MB per sekund og skrivehastighet på hele 934 MB per sekund. 
+Det er rundt dobbelt så raskt som en gjennomsnittlig rask SATA-basert SSD, og 6-10 ganger raskere enn en typisk harddisk. 
+
+Takler nye spill 
+
+Når det gjelder 3D-ytelsen til grafikkortet fra Nvidia, får vi tallet 3298, som er rundt tre ganger raskere enn den interne Intel-grafikken. 
+Det er et high-end kort, blant de 6-7 raskeste på markedet, og raskt nok til å spille mange av de mest populære spillene på markedet med bra flyt. 
+Du må imidlertid belage deg på å gå ned på oppløsning fra 4K til full HD. 
+
+For en liste over hva du kan forvente deg av bilder per sekund (fps) i populære spilltitler med dette kortet, har Notebookcheck en fyldig oversikt. 
+
+PC-en er ikke lydløs - det merker du når det virkelig drar seg til med tunge oppgaver. 
+Da startes viftene, men selv om de er godt hørbare, vil vi ikke karakterisere dem som spesielt sjenerende. 
+Ved lett arbeid vil maskinen være svært stillegående gjennom lange perioder. 
+
+Overraskende seiglivet 
+
+Er det én ting vi har lært etter å ha testet bærbare PC-er siden år 2000: 
+Det er svært sjelden slike kraftige PC-er har særlig mye å slå i bordet med når det kommer til batteritid. 
+Vel, det gjelder ikke denne PC-en. 
+Hele 561 minutter holdt batteriet med kontinuerlig streaming av YouTube-filmer, før det gikk tomt for strøm. 
+
+Det er 9 timer og 21 minutter - oppsiktsvekkende lenge for en så kraftig maskin, og faktisk på nivå med og foran mange lette bærbare med strømgjerrige ULV-prosessorer. 
+
+Konklusjon 
+
+Dette er en av de mest komplette PC-ene vi har testet. 
+Den har en svært god ytelse på de fleste områder, inkludert batteritid - noe som er sjelden vare. 
+Skjermen er også særs god, og vi lander til slutt på en svært sterk femmer og Anbefalt produkt-stempel. 
+
+Av ankepunkter har vi trukket frem høyttalerne - som mangler den bassen vi forventer av en slik PC, og at du ikke får pro-utgaven av Windows 10. 
+At prisen er såpass stiv vil nok også være et ankepunkt for mange, men er du ikke så glad i kompromisser, tror vi prisen vil være underordnet. 
+
+Meget bra levert, Asus! 
+
+PS! 
+En enklere versjon uten berøringsskjerm, med 8GB RAM og 256GB SSD kan fås for flere tusenlapper mindre. 
+
+Sjekk også testen vår av Multicom Kunshan P651S, som har enda kraftigere grafikkort (og som har blitt oppgradert med samme prosessor som i Asus ZenBook Pro UX501VW). 
+
+Asus ZenBook Pro UX501VW-FJ044T 

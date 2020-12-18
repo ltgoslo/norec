@@ -1,0 +1,54 @@
+Bedre batteritid og smartere pålogging
+Vi har hatt den nye utgaven av Acer Aspire S13 på testbenken - den første PC-en vi tester med syvende generasjon Intel Core-prosessor. 
+
+Det har allerede gått et halvt år siden vi testet den mye omtalte ultrabooken Acer Aspire S13, og landet på et sterkt terningkast 5. 
+At vi nå har tatt den inn igjen for å kjøre noen nye tester, skjer utelukkende fordi den har kommet i en ny utgave med syvende generasjon Intel Core-prosessor, samt fått innebygd fingeravtrykksleser som skal gjøre det like enkelt å logge på PC-en som på mobilen. 
+
+Dette blir første gang vi stifter bekjentskap med denne prosessorgenerasjonen, og vi ønsket å finne ut hva du kan forvente av ytelsesforbedringer og batteritid i forhold til forrige generasjon. 
+I tillegg ønsket vi å sjekke ut pålogging ved hjelp av fingertuppen. 
+Det kan du lese alt om i denne artikkelen. 
+
+Dette får du 
+
+For seks måneder siden konkluderte vi med at Acer Aspire S13 er en PC med fin og solid design, tynn og lett med fine spesifikasjoner, god skjerm, godt tastatur og meget god batteritid (rundt 10 timer variert bruk). 
+
+På minussiden hadde vi bemerket noe viftestøy under tung belastning, samt at overflaten ikke gir samme premiumfølelsen som resten av PC-en. 
+
+Oppdaterte målinger 
+
+Testeksemplaret vi fikk låne fra Acer, er utstyrt med prosessoren Intel Core i5-7200U. 
+Dette er en av fem nye Core-prosessorer som er tilgjengelig i markedet. 
+Dette kan du lese mer om her. 
+
+Målinger vi har foretatt med Passmark PerformanceTest, viser at prosessorytelsen ligger i snitt cirka 10 prosent bak Core i7-prosessoren fra forrige generasjon. 
+Grafikkytelsen, både i 2D og 3D, er imidlertid noe høyere. 
+Sammenlignet med snittet for Core i5-6200U, er ytelsen til i5-7200U i vår test-PC, marginalt høyere. 
+
+Acer Aspire S5-371 (NX.GHXED.009) 
+
+Det er uansett helt på det rene at generell ytelsesøkning ikke er et argument for denne prosessorgenerasjonen, med unntak av litt bedre grafikkytelse. 
+Er du opptatt av spilling, bør du uansett velge en PC med dedikert grafikkort. 
+
+Helt lydløs er den fortsatt ikke, det hender titt og ofte at viften starter opp - akkurat som på forgjengeren. 
+Noe stort ankepunkt er dette uansett ikke. 
+
+Batteriet varer en time lenger 
+
+Hva så med batteritiden? 
+For et halvt år siden klarte vi å strømme videoer fra YouTube i 9 timer og 25 minutter før batteriet måtte lades. 
+Det nye eksemplaret har riktignok en litt svakere prosessor, men tallet 11 timer og 2 minutter gir en klar indikasjon på at batteritiden er blitt bedre - helt i tråd med hva Intel har lovet - spesielt på videoinnhold. 
+
+Vi anslo en batteritid på rundt 10 timer ved variert bruk på forrige generasjon. 
+Et nytt anslag på i overkant av 11 timer på denne generasjonen, bør absolutt være edruelig og innafor, basert på våre beregninger. 
+
+Konklusjon 
+
+Noen forbedringer kan du altså forvente, dersom du velger en PC med syvende generasjon Intel Core-prosessor, kontra tidligere versjoner på ellers lik maskinvare. 
+Og i valget mellom første og andre generasjon S13, er sistenevnte absolutt å foretrekke. 
+
+Men her er det veldig mange andre elementer som spiller inn og som påvirker både ytelse og batteritid, ikke minst programvaren. 
+
+De helt store batteriforbedringene ventes imidlertid ikke før den åttende generasjonen Core-prosessorer kommer til neste år. 
+Det er den første som er basert på 10 nanometer produksjonsteknikk, mot dagens 14 nm. 
+
+Vesentlig mindre strømbruk og tilhørende redusert kjølebehov, vil sannsynligvis føre til at PC-vifter kun blir nødvendig på de kraftigste PC-ene. 

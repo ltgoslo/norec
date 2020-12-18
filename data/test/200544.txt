@@ -1,0 +1,135 @@
+900 gram med utrolig mye PC
+Tredje generasjon Zenbook er lettere og mindre enn noensinne. 
+Det skulle man ikke tro når man ser på de tekniske egenskapene. 
+
+Teståret 2017 er godt i gang, og vi har allerede testet to forrykende hybrider, HP Spectre X360 og Lenovo Yoga 910. 
+Begge ble kronet med terningkast 5, og begge er premium-modeller i øvre pris- og kvalitetssjikt. 
+
+Skjerm: 12,5-tommer, FHD IPS-skjerm, blank (1920 x 1080 piksler) OS: 
+Windows 10 Home norsk Prosessor: 
+Intel Core i7-7500u Grafikk: 
+Intel HD 620 RAM: 
+8 GB* SSD: 512 GB (M.2 PCI-e) Nett: 
+802.11ac, Bluetooth 4.1 Tilkoblinger: 1 stk USB-C (3.1 gen2, minijack for lyd inn/ut, mini-dock med 1x USB 3.0, HDMI og USB-C. 
+Størrelse: 29,6 cm x 19,1 cm x 1,2 cm 
+
+Vekt: 0,91 kg 
+
+* Vårt testeksemplar ble levert med 16 GB RAM, men det er ikke mulig å oppgradere fra 8 til 16. 
+
+Nå er turen kommet til nok et premiumprodukt, Asus Zenbook 3. 
+Den svært kompakte PC-en veier ikke mer enn 910 gram, til tross for at spesifikasjonene er helt på linje med dem vi fant i de modellene fra HP og Lenovo. 
+Prisen er også i samme leie, i skrivende stund koster den fra 16.990 kroner, ifølge Prisjakt. 
+
+Dette er imidlertid ikke noen hybrid, det er en fullblods, klassisk PC. 
+Den har ikke en gang berøringsskjerm, men mer om det siden. 
+
+Utrolig mye i liten innpakning 
+
+Dette er en meget kompakt PC. 
+Skjermen måler 12,5 tommer, og selv om rammen ikke er så tynn som på de to modellene vi har testet tidligere i år, er de ytre målene godt under vanlig for 13,3-tommere. 
+
+Og så måler den bare 1,2 cm på det tykkeste - og vektnåla stopper altså på godt under kiloen. 
+Dette er en PC om ber om å bli drasset med rundt overalt, noe den gode byggekvaliteten understreker. 
+Her er det benyttet et lett metall rundt hele maskinen, fargen er mørk blå med detaljer i gull (du får den også i sølv og sort). 
+Dette er uansett en maskin med høy smykkefaktor! 
+
+Dokk følger med 
+
+PC-en har kun to tilkoblingspunkter, en kombinert lyd inn/utgang på venstre side, og en USB-C-port til høyre. 
+Denne brukes også som strøminntak. 
+Heldigvis følger det med en minidokk til denne som gir deg en USB-C-port, en klassisk USB 3.0-port og HDMI-utgang. 
+Det er et OK kompromiss, synes vi - selv om vi gjerne skulle sett et par USB-porter til. 
+
+Dessverre har vi opplevd at utstyr har plutselig sluttet å virke når de har vært tilkoblet dokken, blant annet en Microsoft-mus. 
+Da har vi måttet koble dokken fra og til igjen for at den skal fungere. 
+Vi aner ikke hva som er årsaken til dette, men det er kjedelig når det er eneste tilkoblingsmulighet. 
+Musen fungerer helt fint mot andre PC-er vi har prøvd den på. 
+
+OPPDATERT: 
+Vi fikk tilsendt en ny dokk fra Asus, og denne fungerte tilfredsstillende. 
+
+God lyd! 
+
+Til tross for sitt kompakte ytre, finner du hele fire høyttalere på denne PC-en, to under i fronten, og to rett under skjermen. 
+Disse skal gi deg en følelse av surround under bruk, mener Asus. 
+
+Vi er ikke helt sikre på om vi er imponert over effekten, men vi er i hvert fall ganske overrasket over at lyden har en vis fylde - der vi faktisk kan høre bassgitarer som ellers ofte blir borte på bærbare. 
+Vi spiller mer enn gjerne litt lav bakgrunnsmusikk på denne PC-en. 
+
+Blank men solid 
+
+Skjermen har blank overflate, nærmere bestemt Gorilla Glass 3. 
+Det betyr god beskyttelse mot skader, men betyr samtidig at den er meget utsatt for refleksjoner. 
+Det har vært en trend den siste tiden at skjermer som ikke er berøringsfølsomme, har en mattere overlate enn berøringsskjermer - men da uten herdet glass som her. 
+
+Personlig legger vi ikke skjul på at vi foretrekker en mer matt overflate. 
+Skjermen er for øvrig lyssterk og fin, og IPS-panelet sørger for at farger og kontrast holder seg selv om du beskuer skjermbildet fra en av sidene. 
+
+Oppløsning på 1920 x 1080 piksler sørger for fine raster og overganger, men de fleste vil nok måtte skalere opp tekst og grafikk i Windows en smule, for å sikre at ikke alt blir for smått. 
+
+Ikke perfekt tastatur 
+
+Under skjermen sitter et tastatur som går nesten helt ut til kantene. 
+Det er akkurat nok til at det ikke er noe mindre enn på en vanlig 13,3-tommer. 
+Hver tast er også ganske mye tynnere enn på forgjengeren. 
+Tastaturet er baklyst, og du har fire forskjellige lysnivåer å velge mellom. 
+
+Tastaturplaten er fast og fin, men dessverre er vi ikke 100 prosent fornøyde med responsen. 
+Verst er det med mellomromstasten på vårt eksemplar, som ikke registrerer trykk dersom du trykker langt ut på sidene - noe vi til stadighet gjør når vi bruker touch-metoden. 
+Det bør man kunne forvente ikke skal være noe problem i denne prisklassen. 
+
+Pekeplaten er nærmest så stor som den kan være. 
+Den støtter flerfingerbevegelser, og fungerer bra. 
+De to integrerte knappene for venstre og høyreklikk avgir en lav lyd når de trykkes på, noe som er supert - men litt mer markert respons hadde ikke gjort noe. 
+
+Oppe til høyre på pekeplaten finner du en fingeravtrykkleser, som du kan benytte for å logge deg raskt på PC-en (Windows Hello). 
+
+Slik er ytelsen 
+
+Til tross for den beskjedne størrelsen og lave vekten, er denne PC-en utstyrt med den raskeste ULV-prosessoren på markedet, Core i7-7500U. 
+Modellen har ellers 8 GB RAM og 512 GB SSD. 
+Den leveres også med 16 GB RAM og inntil 1 TB SSD, men merk at du ikke kan oppgradere fra 8 til 16 GB etter at du har kjøpt PC-en. 
+Dette fordi minnet er fastloddet i hovedkortet. 
+
+Passmark poeng: 3015 CPU: 
+5366 GPU (3D): 
+1082 SSD l/s 1,6 GB/1,5 GB pr sek Videostrøm batteri: 
+475 min 
+
+Ytelsestallene våre fra Passmark viser faktisk høyere totalscore (marginalt) enn på de to foregående maskinene, selv om de hadde samme prosessor og var langt større. 
+Det er imponerende! 
+
+SSD-en er også blant de raskeste vi har testet. 
+
+Den integrerte Intel-grafikken holder greit til alt av 2D-opptegninger og video, også avspilling av 4K-materiale. 
+Krevende spill med 3D-opptegninger er den ikke laget for, så er dette viktig for deg bør du velge helt andre maskiner - men du kan faktisk spille en del nyere titler om du tåler å gå ned på oppløsning og detaljrikdom. 
+
+Maskinen er for det meste lydløs, men viftene kan gå på ganske høyt turtall under tyngre belastning. 
+Det har også hendt ved et par anledninger at de har kjørt på full guffe litt uten at vi har funnet noen god grunn. 
+Dette kan bero på drivere eller systeminnstillinger som fortsatt har forbedringspotensiale. 
+Noe stort problem er det uansett ikke. 
+
+Batteritesten vår baserer seg på strømming av video fra YouTube. 
+På fulladet batteri kunne vi strømme video i 475 minutter før PC-en måtte i laderen igjen. 
+Det er rett i underkant av 8 timer. 
+Det er ikke usannsynlig at du kan bruke PC-en til varierte oppgaver i mellom 8 og 9 timer mellom hver lading, noe som også er imponerende - PC-ens størrelse, vekt og ytelse tatt i betraktning. 
+
+Å lade batteriet går kjappere enn på de to andre PC-ene. 
+Etter 30 minutter var det 25% ladet, etter én time hadde det nådd 57%. 
+Litt dårligere batteritid har du riktig nok, men batteriet lades til gjengjeld litt raskere. 
+
+Konklusjon 
+
+Det er mye bra ved Asus Zenbook 3, ikke minst er det smått utrolig at produsenten har klart å stappe så mye teknologi og ytelse inn i den beskjedne boksen på 910 gram. 
+Det må være ingeniørkunst av høy klasse. 
+
+Maskinen ser bra ut, den yter meget bra, og byggekvaliteten er upåklagelig. 
+Den er således super å dra med seg overalt, og får også plass i en liten veske (det følger en med). 
+
+Vi må imidlertid trekke en del for at tastaturet har noen taster som kunne vært mer responsive, samt at dokken virker å være noe ustabil. 
+Kanskje dette ikke gjelder alle eksemplarene, men når du legger 17.000 kroner på bordet, bør det være dønn pålitelig hver gang, mener vi. 
+
+PC-en finnes også i både rimeligere og dyrere konfigurasjoner, fra rundt 12.000 til 20.000 kroner. 
+
+Asus ZenBook 3 UX390UA-GS075T 

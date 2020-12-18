@@ -1,0 +1,90 @@
+TP-Link Archer C2600
+Nok en brukervennlig allround-ruter fra TP-Link med god rekkevidde, men det finnes noen forbedringsområder. 
+
+Selv om mange av oss har fått svært raske internettforbindelser inn til huset, sliter fortsatt mange med både stabilitet, rekkevidde og hastigheter internt i heimen. 
+
+Svært ofte ligger problemet i den trådløse ruteren. 
+En moderne familie kan gjerne ha 10-20 enheter oppkoblet, og eldre og rimelige rutere er sjelden optimalisert for å håndtere høye hastigheter mot mange enheter samtidig. 
+Sørg også for å plassere ruteren på et fornuftig sted. 
+
+Det kan også lønne seg å bytte kanal manuelt på ruteren, noe du kan lese mer om lenger ned i denne testen 
+
+Laget for mange tilkoblinger 
+
+TP-Link Archer AC2600 er en såkalt MU-MIMO-ruter (Multi-user MIMO), som er optimalisert for nettopp å håndtere mange enheter samtidig. 
+
+I teorien skal den klare hastigheter på inntil 800Mbps i 2,4GHz frekvensbåndet, og 1733Mbps i 5GHz-båndet, men for maksimal effekt av MU-MIMO-teknologien kreves også at nettverkskortet støtter dette. 
+
+Foreløpig er utvalget av MU-MIMO-utstyr relativt beskjedent, men dette er en teknologi for fremtiden. 
+
+Her er en kjapp oversikt over de viktigste tekniske egenskapene: 
+
+Modell: TP-Link Archer C2600 
+
+Standarder: 802.11a/b/g/n/acAntenner: 4USB-porter: 2 x USB 3.0USB-funksjoner: 
+Nettverkslagring og skriverdelingLAN-porter: 4 x 1Gbps LAN + 1 x 1Gbps WAN Gjestenett: 
+JaAnnet: MU-MIMO-støtteStørrelse: 
+263,8 × 197,8 × 37,3 mmVekt: 
+1,67kgPris: 
+Fra 1.899 kr (jamfør Prisjakt 7.4.2016) 
+
+Fin og praktisk design 
+
+Ruteren har en design som er langt mer behagelig for øynene enn den forrige ruteren vi testet. 
+
+LAN og WAN-tilkoblingene sitter i bakkant, mens av/på-bryter for trådløst nett, WPS og to USB 3.0-porter sitter på siden. 
+
+Begge USB-portene kan brukes mot lagringsenheter eller skrivere som du ønsker å dele i nettverket. 
+Eventuelle disker eller minnepinner kan konfigureres med tilgangskontroll, eller være åpent for alle som er tilkoblet nettet. 
+De kan også nås via internett dersom du skulle ønske det. 
+Merk imidlertid at ruteren ikke har innebygd VPN-server. 
+
+Installasjon 
+
+I esken følger det med en hurtigveiledning som er lettfattelig, men som dessverre ikke kommer på norsk. 
+
+Grensesnittet i menyene er også på engelsk, men vi vil likevel karakterisere menysystemet som meget brukervennlig. 
+Endrer du på innstillingene, effektueres endringene som regel kjapt. 
+
+Foreldre vil garantert sette pris på gode kontrollmuligheter, blant annet kan du tidsstyre tilgangen til spesielle PC-er og mobiler. 
+Dette er svært enkelt å sette opp: 
+
+Ikke alt er perfekt 
+
+Vi har imidlertid funnet noen ankepunkter. 
+Det første er at ruteren ikke kan oppdateres automatisk, noe alle de andre ruterne vi har testet siden i fjor høst kan. 
+
+Her må du i stedet sjekke nettsidene til TP-Link om det har kommet ny firmware, laste ned for deretter å laste opp manuelt til ruteren i etterkant. 
+
+Det er for tungvint. 
+
+Det andre ankepunktet er at ruteren krasjet ved flere anledninger ved kanalskifte. 
+Vi måtte rett og slett skru den av og på manuelt for å få den opp igjen. 
+
+Dette er ikke noe du behøver å gjøre så ofte, men det trekker ned helhetsinntrykket noe. 
+
+Økte hastigheten med nesten 30 prosent med enkelt triks 
+
+Vi brukte samme utstyret og fulgte samme testprosedyre som er beskrevet i denne artikkelen, og testet også to Linksys-rutere samme dag. 
+
+Av disse tre var TP Link Archer tregest på trådløst, faktisk så mye tregere at vi prøvde alle fire kanalene på 5GHz-båndet manuelt for å avdekke problemer. 
+
+Ved å bytte fra kanal 44 (automatisk) til 40 i oppsettet, økte vi hastigheten i samme rom fra 24 til 33MB i sekundet. 
+Hastigheten holdt seg bra gjennom hele huset, som du ser av diagrammet under. 
+
+Selv om vi ikke er 100 prosent fornøyd med hastigheten, bør du merke deg følgende: 
+Bruker du ruteren først og fremst til å komme deg på internett og har under 200Mbps internettlinje, hadde du fått full valuta i alle tre etasjer i vårt hus. 
+
+Vi tok med oss PC-en på en tur rundt huset, og kan konstatere at rekkevidden er like bra som på TP-Link Touch P5, altså helt i toppklasse. 
+Vi kunne for eksempel surfe med grei fart fra en benk som lå 75 meter fra huset. 
+
+Vi målte også hastigheten mot USB-lagring, og her er vi spesielt fornøyd med lesehastigheten - som er blant de aller beste vi har testet: 
+
+Konklusjon 
+
+TP-Link Archer C2600 er ingen dårlig ruter. 
+Det er bare at utvalget av konkurrenter som byr på bedre trådløshastighet, enklere oppgradering og bedre stabilitet, er stort. 
+Derfor havner vi til slutt på en treer på terningen denne gangen. 
+
+Er du ute etter en ruter i denne prisklassen, vil vi trekke fram Netgear R7500 og TP-Link Touch P5 som mer fornuftige valg akkurat nå. 
+Har du tid til å vente noen dager, bør du også få også med deg testen av Linksys EA7500 som blir publisert her på Dinside i nær framtid. 

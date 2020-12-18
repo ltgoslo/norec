@@ -1,0 +1,121 @@
+Samsung Gear S2 3G Classic
+Samsungs runde smartklokke har ganske fiffig betjening. 
+
+Selv om smartklokka Gear S2 fra Samsung har vært i markedet en stund, kommer den i disse dager i en oppgradert utgave, der klokka også har fått 3G-støtte. 
+
+Altså der den kan være koblet til nett uten å ha kontakt med mobiltelefonen. 
+
+Og ikke bare det – Gear S2 har ingen SIM-port. 
+Den benytter seg av den nye eSIM-standarden, som betyr at den har et elektronisk SIM-kort som kan programmeres direkte. 
+
+Det er nok noe vi vil se mer av i fremtiden også på mobiltelefoner og nettbrett, der vi slipper å måtte vente på et lite plastkort i postkassa for å bytte abonnement. 
+
+Kun for OneCall 
+
+I Norge har OneCall fått eksklusiv rett til å selge Gear S2 3G Classic resten av året. 
+Med andre ord er du nødt til være OneCall-abonnent om du vil utnytte eSIM-funksjonaliteten i klokka. 
+
+Derfor fikk vi også låne klokka og en telefon med SIM-kort fra OneCall. 
+Selv om vi fikk låne en Samsung-telefon, kan Gear S2 brukes sammen med alle Android-telefoner som kjører minst versjon 4.4 og har minst 1,5 GB arbeidsminne. 
+Samsung har også annonsert planer om å støtte iOS i løpet av året. 
+
+Å programmere eSIM-kortet er veldig enkelt. 
+Man parer først klokka med mobiltelefonen via Bluetooth og Samsungs Gear-app, og deretter skanner man en QR-kode med Gear-appen på telefonen. 
+For OneCall-kunder som kjøper klokka, vil denne QR-koden være å finne på «Mine sider» hos OneCall. 
+
+Når det er gjort, er klokka på nett selv om den ikke har kontakt med telefonen. 
+Vi har prøvd både å ringe og sende meldinger fra den, og det fungerer fint; også når telefonen er helt avslått. 
+Vel å merke fungerer ikke den innebygde dikteringen på norsk (altså stemme-til-tekst), så med mindre du sender engelske meldinger, må du enten velge blant forhåndsdefinerte tekster eller skrive med god, gammeldags T9-funksjon. 
+
+Det kan selvsagt være kjekt om man går tom for strøm, har glemt/mistet telefonen eller er ute på sykkeltur uten telefon. 
+Da kan du fortsatt bruke GPS-funksjon og nås på telefonen. 
+Ganske elegant er også at mobiltelefonen sender varsler til nettskyen og videre til klokka, så du får også meldinger fra Facebook Messenger, for eksempel, selv om du ikke har kontakt med telefonen. 
+Ikke dukker de opp som «sett» hos avsenderen heller – nok et pluss, spør du oss. 
+
+Her ser du klokka i aksjon: 
+
+2.000 kroner ekstra 
+
+eSIM-funksjonen er altså det du får om du kjøper 3G-utgaven av Gear S2 Classic. 
+
+I tillegg har denne versjonen av klokka en høyttaler, slik at du kan føre telefonsamtaler fra håndleddet (kan også gjøres ved å koble til et Bluetooth-hodesett). 
+
+Videre er den litt større og tykkere (to millimeter ekstra tykkelse) enn den vanlige classic-utgaven, siden den har et batteri med 20 prosent større kapasitet, men noe svakere batteritid, siden 3G-oppkoblingen trekker strøm. 
+Den vanlige classic-utgaven har heller ikke GPS. 
+
+Pristillegget for dette er 2.000 kroner, altså 5.500 hos OneCall mot 3.500 i de billigste nettbutikkene. 
+Det er et noe stivt pristillegg i våre øyne. 
+
+Så – hvordan er klokka? 
+
+Vi rakk aldri å teste den vanlige Gear S2-utgaven da den ble lansert før jul, så derfor ble dette også en ypperlig anledning til å rette opp gamle synder. 
+
+Gear S2 er altså en sirkulær smartklokke fra Samsung som ikke kjører Android. 
+Her har nemlig Samsung brukt sitt eget operativsystem, Tizen, som vi slett ikke har noe i mot. 
+
+Android-klokkene har ikke så voldsomt mye mer nyttig funksjonalitet enn å vise varslene fra telefonen uansett, men med Tizen synes vi funksjonaliteten er betraktelig forbedret, der man i større grad kan gjøre ting på klokka. 
+Over 2.000 apper er tilgjengelig foreløpig og installeres da via Gear-appen på telefonen. 
+
+Og den kan altså vise varsler fra telefonen slik Android-klokkene kan. 
+Urskivene kan også tilpasses til å vise informasjonen du er mest interessert i, enten det dreier seg om antall skritt, gjenværende batteri, temperaturen ute eller lignende. 
+
+Navigering med urkransen 
+
+Tar vi det utvendige først, kommer Classic-utgaven av Gear S2 med skinnreim og føles nokså komfortabel på håndleddet. 
+På siden finner du to knapper; en hjem-knapp, og en tilbake-knapp. 
+
+Skjermen er berøringsfølsom, men det vi liker ekstra godt, er at urkransen (ringen rundt urskiva) er sentral i navigeringen. 
+Ved å rotere på den kan du skrolle opp og ned i lister, og i brukergrensesnittet er det tenkt sirkulært, der appene for eksempel er plassert rundt hele kanten. 
+Da føles det veldig naturlig å snurre på denne ringen for å navigere. 
+
+Vibreringen når man mottar et varsel er også relativt lydløs, selv om den ikke er like elegant som det den er på Apple Watch. 
+
+Skarp skjerm 
+
+Den lille skjermen måler 1,2 tommer i diameter og har en oppløsning på 360x360 piksler, som gir en punkttetthet på 302 per tomme. 
+Som med mye annet fra Samsung er også denne av AMOLED-typen, som sørger for at sort er helt sort. 
+
+Kjekt er det også at Gear S2 er IP68-sertifisert, som i praksis betyr at den vil tåle en god regnskur og en runde i dusjen. 
+Det er imidlertid ikke en dykkerklokke; ei heller noe du bør svømme med. 
+Samsung hevder at den skal tåle inntil en halvtime ned til 1,5 meters dyp. 
+
+Batteriet er 300 mAh på 3G-utgaven, som allikevel får litt svakere batteri enn den vanlige S2-utgaven (250 mAh). 
+Samsung oppgir to dager (to-tre på den vanlige), og det ser ut til å stemme ganske godt. 
+Vi har brukt klokka i over ei uke nå og er den fulladet en morgen, holder den som regel til kveldstid dagen etter. 
+
+Styres fra Android-appen 
+
+Hånd i hånd med Gear S2 Classic er Samsung Gear-appen, som altså foreløpig kun er tilgjengelig på Android, men ikke begrenset til Samsung-telefoner. 
+
+Det er fra denne appen du kan installere klokkeapper og nye urskiver, samt administrere plasseringen av klokkeappene på skjermen, endre enkelte innstillinger om hvordan klokka skal oppføre seg og lignende. 
+
+Dessuten kan du velge hvilke appers varsler du også vil ha på håndleddet, samt sende musikk og bilder til klokka fra telefonen. 
+Klokka har 4 GB lagringsplass, men cirka halvparten er tilgjengelig når operativsystem og den slags har tatt sitt. 
+Via Gear-appen kan du overføre både bilder og musikkfiler slik at de kan vises/spilles av direkte fra klokka. 
+
+Mangler norsk stemmekontroll 
+
+Er det ett ankepunkt vi har mot Gear S2 Classic, så er det at Samsung stemmeassistent, S Voice, ikke støtter norsk; hverken hva gjelder kommandoer eller diktering. 
+
+Dermed kan du ikke bruke stemmen til å svare på tekstmeldinger og lignende, med mindre du har for vane å sende meldinger på engelsk, selvsagt. 
+
+Tåler du å snakke litt engelsk til klokka di, kan du blant annet gi den kommandoer som «set an alarm for 7am», «call Alexander», «check my schedule tomorrow», «what will the weather be like in Oslo, Norway tomorrow» eller «who is the prime minister of Sweden». 
+S Voice bruker blant annet Accuweather og Wolfram Alpha til å svare på spørsmålene, men stemmen som leser opp svaret er omtrent umulig å forstå, og vi synes også responstiden er noe treg. 
+
+Konklusjon 
+
+Vi liker godt Samsungs nyeste smartklokke. 
+I motsetning til Android-klokkene den i hovedsak konkurrerer mot, har Samsung her valgt å bruke sitt eget operativsystem, Tizen, som kort og godt gjør at det mer å gjøre på selve klokka. 
+
+Den er god å betjene, takket være den smarte urkransen, som kan roteres for å navigere i menyer, skrolle i lange meldinger og den slags. 
+Kjekt er det også at klokka er vanntett, og det finnes mange urskiver som lar deg tilpasse klokka slik du vil. 
+I tillegg er app-utvalget godt, med både treningsapper, nyhetsapper og lignende. 
+Litt synd er det dog at du ikke kan styre den med norsk stemme. 
+
+Med mindre du er blant de 200 første som bestiller 3G-utgaven fra OneCall (2.999,-) havner prisen på 5.500 kroner, som vi synes blir i overkant mye. 
+Det er 2.000 kroner mer enn den vanlige utgaven for å kunne bruke den uten at telefonen er i nærheten, og for de fleste vil ikke det være et scenario man opplever veldig ofte. 
+
+For ordens skyld gjør vi oppmerksom nok en gang på at 3G-utgaven kun er tilgjengelig for OneCall-abonnenter resten av året. 
+Den kan du bestille her. 
+
+Samsung Gear S2 Classic Black 

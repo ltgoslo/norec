@@ -1,0 +1,120 @@
+Den kom sent, men godt
+Microsofts første bærbare PC er endelig klar for Norge. 
+Vi har testet den norske utgaven, som blant annet kan skilte med en batteritid som overgår alt vi før har sett. 
+
+Microsoft Surface Book ble annonsert allerede høsten 2015, og Dinside var faktisk til stede under avdukingen hos Microsoft i Seattle. 
+Og selv om Microsoft viste frem flere nyheter der, stjal Surface Book omtrent all oppmerksomhet fra de frammøtte journalistene. 
+
+Men ting tar dessverre ofte tid i store selskaper, og Norge er ikke akkurat i sentrum på det globale IT-markedskartet. 
+Derfor er det først nå - halvannet år senere, at norske kunder endelig kan sikre seg et eksemplar av denne spesielle PC-en. 
+Det er lovlig sent, tatt i betraktning at det har skjedd ett og annet på maskinvarefronten siden den gang. 
+Vi har for eksempel fått 7. generasjon Intel-prosessorer og nesten alle PC-er som har blitt lansert det siste året har fått den nye USB-C-porten, for å nevne noe. 
+
+Kommer maskinen litt i seneste laget? 
+Vel, Surface Book er ikke helt ferskvare, men den oppleves overhodet ikke som utrangert. 
+
+Maskinen kom riktignok i en oppdatert utgave i fjor høst, som fikk navnet Surface Book med Performance Base. 
+Den har kraftigere grafikk, bedre batteri - og er litt tykkere enn førsteutgaven, men fortsatt med forrige generasjon maskinvare. 
+Det er denne vi har testet. 
+
+Dette får du 
+
+Dette er altså en 2-i-1 enhet. 
+Det betyr at den er en PC som med enkle håndgrep kan gjøres om til et nettbrett. 
+
+Du skal imidlertid være god for å se at dette ikke er en helt vanlig PC med solid metallchassis og berøringsskjerm. 
+Selve koblingen mellom skjerm og tastatur er nemlig svært sømløs, den sitter bom fast og du kan også vinkle skjermen fritt, nesten som på en vanlig PC. 
+Når vi sier nesten, er det fordi maksvinkelen er litt mindre enn på de mest fleksible ultrabookene. 
+
+Når den er klappet sammen, blir det en glippe mellom skjermen og tastaturet. 
+Det kan virke litt snodig, og det bygger også maskinen mer enn nødvendig i høyden. 
+Vi tør vedde på at dette er endret i en eventuell helt ny versjon av Surface Book. 
+
+All sentral maskinvare sitter i skjermdelen, som løsnes fra tastaturdelen ved hjelp av en elektronisk styrt mekanisk lås, mens typiske PC-porter (kortleser, to USB 3.0-porter og DisplayPort) sitter i tastaturdelen. 
+
+Tastaturdelen inneholder dessuten et stort batteri, som både sørger for (ekstremt) god batteritid, og gir nok tyngde til at maskinen står støtt på bordet, uansett vinkel på den relativt tunge skjermen. 
+Her sitter også et dedikert grafikkort på enkelte konfigurasjoner. 
+
+Maskinen kommer nemlig i flere utgaver, prisene varierer fra rundt 16.000 kroner for den billigste med Intel Core i5-prosessor, 8 GB RAM og 128 GB SSD, til 35.000 kroner for den hvasseste Performance base-utgaven, med Core i7-prosessor, 16 GB RAM, 1 TB SSD og kraftig Nvidia-grafikkort. 
+Alle leveres med Windows 10 Pro. 
+
+Klasse-skjerm 
+
+Skjermen måler 13,5 tommer og har en oppløsning på 3.000 x 2.000 piksler. 
+Det betyr at den har et 3:2-format, ikke 16:9 som på vanlige PC-er. 
+Det gir mer plass i høyden, noe vi tror mange vil verdsette, spesielt om man jobber med dokumenter og lignende. 
+
+Pikseltetthet er på 267 ppi, så det er svært vanskelig å oppdage prikkene med det blotte øye. 
+
+Panelet er beskyttet bak glass, noe som gir en blank overflate. 
+Den byr på svært god fargegjengivelse, og dekker blant annet 100 prosent av sRGB fargespekteret, fra alle vinkler. 
+Det er vel og bra, men merk at disse blanke skjermene er utsatt for en del gjenskinn. 
+Vi har sett enkelte PC-er med matte(re) berøringsskjermer, og forventer å se flere i tiden som kommer. 
+
+Endelig en god pennopplevelse 
+
+En penn følger med til presisjonsarbeid, samt diverse apper for kunstnere og arkitekter, deriblant en skissebok. 
+Flere apper kan lastes ned fra Windows Store. 
+
+Pennen er for øvrig av meget høy kvalitet. 
+Opplevelsen er blant de aller beste vi har testet, for eksempel endrer tykkelsen på streken seg etter hvor hardt du trykker den mot skjermen. 
+Det er fortsatt en liten forsinkelse til strekene tegnes opp, men tar du det litt rolig er ikke treg opptegning lenger noe stort problem. 
+
+Har ikke brukt mye penger på kameraene 
+
+Over skjermen sitter et frontkamera, som også støtter Windows Hello og pålogging med ansiktet ditt - og det kjenner deg igjen raskt. 
+På baksiden sitter også hovedkamera, som er mest aktuelt å bruke når du bruker Surface Book som nettbrett. 
+
+Uansett: 
+Bildekvaliteten er ikke noe å skrive hjem om; den er på nivå med hva du kan forvente av en billig-mobil. 
+
+Baklys-svakhet 
+
+Tastaturet er fullverdig, fast og fint. 
+Det er dessuten baklyst, noe som samtidig er en av maskinens største svakheter. 
+Belysningen er nemlig ujevn, og mot de lysegrå tastene kan det enkelte ganger være vanskelig å se hva hva som står på dem. 
+Du kan heldigvis enkelt skru av baklyset, da blir kontrasten god, men dette er en tullete svakhet, synes vi. 
+
+Den store pekeplaten er imidlertid svært god, og kan registrere inntil fem fingerberøringer samtidig. 
+En fullgod pekeplate er et must for deg som ennå ikke har funnet deg helt til rette med skjermberøring. 
+
+Råskinn! 
+
+Microsoft Surface Book i7 Performance Base 16GB 1TB 
+
+Uansett hvilken konfigurasjon du skulle ende opp med, får du en maskin som løser de aller fleste oppgaver raskt og effektivt. 
+Vi testet toppmodellen til rundt 35.000 lapper, men den er fullstendig overkill for de aller fleste av oss. 
+
+Den er for eksempel utstyrt med Nvidia Geforce GTX 965M-kort, som ifølge Futuremark er det åttende raskeste grafikkortet for bærbare PC-er, og som lar deg kjøre nyere spilltitler med relativt høy oppløsning og detaljrikdom. 
+SSD-en rommer dessuten hele 1TB, og er vanvittig rask - vi målte den til inntil 1,5 GB i sekunder på lesing og 1,1 GB i sekundet på skriving. 
+
+Velger du den rimeligste utgaven (ikke med Performance Base), må du nøye deg med 128 GB SSD, noe som kan være i minste laget. 
+Trenger du mer plass, må du punge ut med rundt 20.000 kroner for utgaven med 256 GB SSD. 
+Det er mye penger! 
+Alternativt kan du selvfølgelig bruke et minnekort. 
+
+Hva så med batteritiden, jo - den er vanskelig å matche. 
+Den knuser nemlig alt vi har testet tidligere. 
+
+Her må vi skynde oss å legge til at det er snakk om to batterier her, ett i skjermen og ett i tastaturdelen. 
+Totalt snakker vi om 1.395 minutter med minimal belastning og 923 minutter med kontinuerlig strømming av video. 
+Det er henholdsvis 23 timer og 15 minutter, og 15 timer og 23 minutter. 
+Rundt 17-18 timer med variert bruk bør være helt innen rekkevidde, eller rundt det dobbelte av hva vi normalt vil si er akseptabelt for et typisk 2-i-1-produkt. 
+
+Merk at den rimeligste utgaven har en litt enklere batteriløsning, som ifølge Microsoft skal holde til rundt 12 timer. 
+
+Konklusjon 
+
+Surface Book med Performance Base er basert på forrige generasjon maskinvare, den mangler USB-C-porter, men bærer ellers på ingen måte preg av å være utdatert. 
+Legger vi sammen prosessorytelse, diskytelse og batteritid på toppmodellen, er den faktisk fortsatt noe av det råeste du kan finne på markedet. 
+
+Den koster imidlertid mer enn skjorta, og de færreste vil være interessert i å betale 35.000 kroner for en datamaskin - uansett hvor kraftig den er, men bryr du deg ikke døyten om pengene er det bare å løpe å kjøpe. 
+
+For oss andre er selv 15.000 kroner for innstegsmodellen mye, spesielt med tanke på at den har begrenset lagringsplass: 
+Vi er overbeviste om at hadde Surface Book blitt lansert i dag, hadde innstegsmodellen hatt dobbelt så stor SSD. 
+
+Og hvem vet - allerede 24. mai går det rykter om at Microsoft er klare med en ny generasjon Surface Book. 
+Så får vi håpe at en eventuell oppfølger kommer raskere i butikkene enn hva tilfellet var med denne. 
+Vi ville i hvert fall ikke sendt av gårde noen bestilling på nåværende Surface Book før etter 24. mai. 
+
+Få også med deg disse testene av gode 2-i-1-produkter før du bestemmer deg: 
