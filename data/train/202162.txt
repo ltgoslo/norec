@@ -1,0 +1,136 @@
+Multicom Compal IFL90+
+Den nye Centrino-plattformen gir oss en ny generasjon bærbare, og vi har latt oss imponere av Compal IFL90+ - arvtageren til den populære HEL80 - som nå er i handelen. 
+
+Denne PCen har vi hatt på testbenken to ganger - en gang i en slags beta-utgave, den andre gangen (altså nå) i fiks ferdig stand. 
+
+LES OGSÅ: 
+
+En del av denne testen er resirkulert - det eksterne utseendet og byggekvaliteten er den samme - med unntak av skjermen. 
+Inni er det også noen forandringer, men det tar vi for oss senere i testen. 
+
+Den taiwanske PC-produsenten Compal er interessant nok en av verdens største, men samtidig også nokså ukjente da de hovedsaklig lager deler for andre merker (som for eksempel Dell). 
+
+Compal selger dog også et slags halvfabrikat, som er maskiner som bygges ferdig i mer hjemlige butikker. 
+Dersom du har fulgt med vil du kanskje huske HEL80, en modell som blant annet har blitt solgt av både PS Data og Multicom. 
+
+I forbindelse med den o'store overgangen til Santa Rosa har Compal stablet en ny modell på beina, da selvfølgelig bygd på den nye Centrino-plattformen. 
+
+IFL90+ kommer i sort plast og er designmessig nokså ukomplisert. 
+
+Som det nå enn gjerne er med nyere bærbare har du et visst valg når du bestiller PCen - la lommeboka og behovene bestemme hvor god PC du ønsker. 
+Prisen starter på rett under den magiske grensen på 10.000 kroner (uten operativsystem), og derfra går det fort oppover dersom du vil ha det aller beste. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo fra 1,8 til 2,4 GHz 15,4" skjerm på 1280 x 800 (glare) eller 1680 x 1050 (matt) punkter Fra 1 til 4 GB DDR2-minne 100 - 250 GB harddisk nVidia GeForce 8600M GT (512 MB minne) WLAN (a/b/g/n), gigabit LAN + modem 4 x USB, FireWire 1 ExpressCard/54 kortplass Kortleser for SD, MMC, MS VGA og S-Video ut, lyd inn, analog/digital lyd ut Blåtann og TV-tuner kan velges 6- eller 9-cellers batteri Fingeravtrykksleser, 2.0 Mp webkamera og integrert mikrofon Dimensjoner (B/D/H): 36,6 x 26,9 x 4,4 cm Vekt ca 3,0 kilo 
+
+Prisen på toppmodellen med 2,4 GHz Core 2 Duo, 4 GB RAM og 250 GB harddisk ligger på drøye 16.000 kronasjer - slett ikke avskrekkende. 
+En omtrent likt spesifisert MacBook Pro ville tross alt koste deg over 10.000(!) kroner mer. 
+(RAM står forøvrig for mesteparten her - det å gå fra 2 til 4 GB koster omtrent 1.500 på IFL90+ hos Multicom, mens Apple vil ha 6.000 for å gjøre det samme på en MacBook... vi forestiller oss at dette kan gjøres billigere ved å oppgradere selv.) 
+
+Vårt første testeksemplar (beta-utgaven) hadde en Core 2 Duo på 2,2 GHz (T7500), 2 GB RAM og vanlig harddisk. 
+
+Verstingen vi har sittet med de siste dagene er en Core 2 Duo T7700 (2,4 GHz), 2 GB RAM og 250 GB harddisk pluss Intel Turbo Memory. 
+Vi har testet dette litt i denne artikkelen. 
+
+Vårt nye eksemplar har en større skjerm (fremdeles på 15,4 tommer, men altså høyere oppløsning) enn den vi så på sist. 
+Den "nye" skjermen har ikke det blanke kontrastbelegget, men dette imponerte oss uansett ikke på beta-utgaven - dens bilde virket litt blasst og utvasket. 
+
+Matte skjermer har selvfølgelig også sine begrensninger på akkurat det med fargegjengivelse og kontrast, men vi er egentlig mer fornøyd med denne nye skjermen. 
+Den er relativt lyssterk, innsynsvinkelen er bedre og oppløsningen på 1680 x 1050 punkter gir en stor og arbeidsflate - i det minste dersom du ikke har dårlig syn. 
+Alt i alt er dette en fin oppgradering fra det "gamle" displayet på 1280 x 800 punkter. 
+
+Konstruksjon 
+
+Lokkets bakside er i sort lakk som glitrer svakt i godt lys. 
+Ikke så blankt som på mange "pianolakk"-modeller vi har vært borti, og du slipper på grunn av det også litt av problematikken med fingeravtrykk. 
+Resten av datamaskinen er i matt plast. 
+
+Selve maskinen virker solid nok, og lokket er godt henglset og passe stivt. 
+Vi kunne dog ønsket oss litt mer stivhet i selve chassiset - her gir den etter litt for fort for vår smak, men i praksis trenger dette ikke være noe problem. 
+
+Tastaturet har litt svikt men er behagelig å skrive på, og utmerker seg heller ikke som spesielt støyende så lenge du ikke hamrer løs på tastene. 
+Layouten kunne vært bedre - det at Fn-tasten ikke burde stå til venstre for Ctrl har vi nå gjentatt til det kjedsommelige. 
+
+Av/på-knapp og noen snarveier finner vi over tastaturet. 
+Til venstre for tastaturet har vi to knapper. 
+En er for å gi strøm til USB-portene dine når maskinen er avslått, for eksempel til opplading av MP3-spilleren din. 
+Den andre knappen er visstnok til en eller annen form for smart eller rask lading, men vi kan ikke si vi fikk noen synlig reaksjon når vi trykket på den. 
+
+IFL90+s touchpad er god, følsom og i likhet med skjermen i bredformat. 
+Den har ikke dedikerte skrollefelt men kan settes til å skrolle både vertikalt og horisontalt. 
+De to knappene under touchpaden er ikke av de største vi har vært borti, men er så avgjort av de mer responsive. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter er plassert på sidene, mens vi i fronten finner høyttalere og en liten bryter som skrur av og på blåtann og trådløst nett. 
+Bak finner vi batteriet, plass til kensingtonlås og utblåsing av varmluft. 
+
+På venstre side har vi VGA og S-Video ut, GB LAN, modem, 2 USB-porter, FireWire, ExpressCard-slot, minnekortleser og lyd inn/ut. 
+
+Høyre side har plass til det optiske drevet, 2 x USB, antenne/S-Video inn (ekstrautstyr) og inntak for strøm helt bakerst. 
+
+Ytelse og batterilevetid 
+
+Multicom Compal IFL90+ er ikke den første Santa Rosa-maskinen vi tester, vi var nemlig tidlig ute med TravelMate 6292 fra Acer. 
+Denne 12,1-tommeren imponerte med god ytelse, og da vårt eksemplar av den nye Compal-modellen kunne skilte med samme prosessor hadde vi også høye forventninger her. 
+
+Nytt for oss er derimot grafikkortet som sitter i IFL90+. 
+GeForce 8600M GT (finnes også i en noe dåligere GS-utgave) fra nVidia er det første grafikkortet for bærbare med støtte for Direct3D 10 (DirectX 10), og vi var naturligvis spent på om grafikkytelsen stod i stil til resten av PCen. 
+
+Som sammenligningsgrunnlag bruker vi den nevnte Acer TravelMate 6292, og i tillegg sammenligner vi med Dell XPS M1710. 
+Sistnevnte er en rå 17-tommers bærbar vi testet for nokså nøyaktig ett år siden, med en prislapp som da lå på 27.000 kroner. 
+Hvordan vil IFL90+, med pris pålydende mindre enn halve det beløpet, klare seg når vi ser på ren styrke? 
+
+NB! 
+Merk at det er ytelsen til beta-utgaven som er oppgitt her. 
+Den nye testmaskinen gjorde det litt bedre på prosessorsiden av naturlige grunner, ellers var det nokså likt. 
+Harddiskytelsen var forresten også litt bedre - og det hadde nok med turbominnet å gjøre. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Intels nye Centrino-plattform fortsetter å imponere. 
+Totalt ligger Dells råskinn foran, men det ser vi hovedsaklig skyldes dennes grafikkort, som var kongen på haugen for bærbare for et år siden. 
+Når vi først er inne på grafikk ser vi at Aceren ligger langt bak, men så har også denne kun en integrert grafikkløsning. 
+Driverne var også umodne da vi hadde den inne til test. 
+
+Totalt sett ser vi at IFL90+ har jevnt over meget god ytelse. 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+IFL90+ har et stort batteri på 9 celler som stikker ut bak - ikke noe vi er så veldig glad i, men noe vi vet mange gladelig aksepterer for å få god batterilevetid. 
+I vår vante test gjør denne datamaskinen en meget god figur ved å holde i hele fire timer, noe som må sies å være imponerende med tanke på ytelsen til både prosessor og grafikkløsning. 
+
+Når det gjelder viftestøy er denne til stede under hard jobbing, og virker nesten litt nervøs der den dynamisk følger belastningen på grafikk og prosessor. 
+Men den spinner altså fort ned, og når maskinen ikke er opptatt med noe krevende er det hovedsaklig suset fra harddisken du hører. 
+Vifta spinner riktignok litt opp av og til selv når den er uvirksom, men viftestøyen er meget svak,. 
+Du må i praksis være i et stille rom for at det kan klassifiseres som noe problem. 
+
+Vi er kort sagt fornøyd med støynivået. 
+
+Turbominne! 
+For den nette sum av ca. 300 kroner kan du få maskinen levert med 1 GB "Intel Turbo Memory", altså en liten ekstra brikke med flashminne som settes inn i datamaskinen. 
+
+I følge Intel skal dette turbominnet hjelpe for både batterilevetid og ytelse. 
+Vi har altså gjort noen små tester på denne nye teknologien, og det kan du lese om her. 
+I artikkelen kan du også lese litt om teknologien bak. 
+
+Vurdering og konklusjon 
+
+Etter denne testen av Multicom Compal IFL90+ sitter vi igjen med et inntrykk av en godt utstyrt og fleksibel bærbar 15,4-tommer med få svake punkter. 
+Når også skjermen er byttet ut fra den som fulgte med beta-utgaven er vi egentlig godt fornøyd. 
+
+Javel, det finnes ting å trekke for. 
+Tastaturlayouten er diskutabel og statuslysene i front av maskinen er for sterke dersom du for eksempel skal se film i et mørkt rom. 
+Vi fikk heller ikke hurtigladingen til å virke, eller i det minste sa den ikke fra om at den virket... 
+Dette er likevel småplukk som i stor grad oppveies av den relativt lave prisen på denne potensielle råtassen. 
+
+Når det gjelder pris og ytelse er det ingen tvil om at prisene vil fortsette å synke i takt med at maskinene blir bedre. 
+Som noen av dere sikkert husker er det ikke mange dagene siden Dell slapp sine nye modeller, og akkurat de nye fargeglade Inspiron-modellene (1520 og 1521) vil ligge i direkte konkurranse med IFL90+. 
+Markedet er stort i dette segmentet, og vi kan ikke annet enn å vente oss flere konkurrerende maskiner her. 
+
+Men det skal en del til for å gjøre det så veldig mye bedre enn IFL90+, som fortjener en god femmer på vår terning! 
+
+En liste over maskiner vi har testet i det siste finner du her! 

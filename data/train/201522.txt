@@ -1,0 +1,101 @@
+Asus MeMO Pad 7 (2015-utgaven)
+Kompakt nettbrett med flott skjerm og god byggekvalitet. 
+Men ikke alt er perfekt i paradis. 
+
+Apple og Samsung dominerer stort på nettbrettfronten, men det betyr ikke at konkurrentene ligger på latsiden. 
+Til tross for at toppen ser ut til å være nådd, er dette et gigantisk marked - og det er mange som ønsker å ta sin bit av kaka. 
+
+Asus er en av verdens ledende PC-produsenter, men har også en ikke ubetydelig nettbrett-satsing på gang. 
+Så langt har de gjort seg best bemerket i økonomisegmentet, blant annet med deres MemoPad. 
+Vi glemmer heller ikke Padfone og Fonepad, som er hybride nettbrett/mobiler som vi har testet og omtalt her på DinSide tidligere. 
+Googles Nexus 7 er for øvrig også produsert av Asus. 
+
+Fin oppgradering 
+
+MeMO Pad HD 7 har vært på markedet en stund, og 16 GB-utgaven får du nå for under tusenlappen i mange nettbutikker. 
+Vi har ikke testet den, men tilbakemeldingene fra kundene hos Prisjakt kan tyde på at dette er et kurant kjøp i billigsegmentet. 
+
+Under årets IFA-messe i Berlin i begynnelsen av september, lanserte Asus etterfølgeren - som har fått ny prosessor, mye skarpere skjerm og et materialvalg som umiddelbart øker kvalitetsfølelsen. 
+Det er tydelig at selskapet ønsker å treffe et segment som stiller litt større krav denne gangen. 
+
+Før vi går videre tar vi en kjapp titt på de viktigste egenskapene, forrige utgave er i parantes. 
+
+Skjermtype: 
+7" IPS (samme) Skjermoppløsning: 1920x1200, 323 ppi (1280x800, 216ppi) 
+Operativsystem: 
+Android 4.4 (Android 4.2) Prosessor: 
+Intel 1,83 GHz, fire kjerner, (ARM 1,2GHz, fire kjerner) Internminne: 16/32GB (samme) 
+Arbeidsminne: 2GB (1GB) 
+Utvidbart: microSD inntil 64 GB Mål: 114,4 x 200 x 8,3mm (120,6 x 196,8 x 10,8mm) 
+Vekt: 
+279g (302g) Kamera bak: 5MP (samme) Kamera foran: 2MP (1,2MP) Batteri: 15 Wh (samme) 
+
+Alle spesifikasjoner 
+
+Ganske store forbedringer på mange felt, men også høyere pris. 
+Det blir mer naturlig å sammenligne brettet mot nettopp Nexus 7, som fikk strålende omtale hos oss da vi testet det i september i fjor. 
+Og her er det egentlig mye som er likt, men Asus-brettet har et ess i ermet: 
+Mulighet for å utvide minnet med minnekort. 
+Det er en fordel som ikke er til å kimse av. 
+
+Merk for øvrig at MeMO Pad HD 7 også kommer i en utgave med 4G-støtte mot et pristillegg. 
+Alternativt kan du selvfølgelig bruke delt internett på smartmobilen. 
+
+Pen design 
+
+Designmessig liker vi brettet godt. 
+Kvalitetsfølelsen er god, bedre enn på Nexus 7, vil vi påstå - takket være bakside i metall. 
+Vårt testeksemplar har fargen Rose Champagne, og du får også i Gentle Black og Burgundy Red. 
+
+Holder du det i landskapsmodus sitter hodetelefonutgangen til venstre, lydjustering og av/på-knapp på toppen, microUSB til høyre, og kortspalte til microSD-kort på undersiden. 
+
+Dårlig kamera 
+
+Brettet har to kameraer, et foran og et bak. 
+
+Kameraet bak kan ta bilder på inntel fem megapiksler, og kan også filme i inntil HD-ready-oppløsning (1280 x 720 piksler). 
+Frontkameraet er helt greit til videokonferanser og Skype, men ikke forvent allverdens kvalitet. 
+
+Det samme gjelder hovedkameraet, som ikke akkurat imponerte oss. 
+Detaljer er utvasket, kontrastene harde, og oppskarpingen er overtydelig. 
+Dette innbyr ikke akkurat til omfattende fotografering, og det er litt synd. 
+
+Skarp skjerm 
+
+Sjutommer skjerm er imidlertid et meget hendig format, og med så høy oppløsning blir tekst og bilder herlig skarpe og behagelig for øynene. 
+IPS-skjermen har også meget god lysstyrke og tåler vide betraktningsvinkler. 
+
+Merk at oppløsningen gir et 16:10-forhold på høyde/bredde. 
+I Android går det imidlertid ofte bort en del plass til statuslinje øverst og navigasjonsknapper nederst, noe som fortsatt gir et litt smalt bilde når du bruker brettet liggende. 
+
+Brukeropplevelse og ytelse 
+
+Brettet kommer med en god del apper som Asus står bak, i tillegg til standardappene i Android. 
+Dessuten har de sitt eget ZenUI-grensesnitt som skal forenkle brukeropplevelsen, noe vi synes fungerer greit. 
+Brukervennligheten vil vi generelt betegne som bra. 
+
+I tillegg finnes det tusenvis av apper å laste ned fra Play Store, men utvalget og kvaliteten henger fortsatt litt etter det iPad-brukerne kan boltre seg med i Apple Store. 
+Du finner likevel noe til de aller fleste behov, men det er greit å være klar over at denne forskjellen fortsatt er gjeldende. 
+
+Berøringsfølsomheten er god, og støtter inntil 10 fingre. 
+Navigasjon, start og veksling mellom apper går kjapt og greit. 
+
+Spillytelsestesten i Epic Citadel gir oss et snitt på 59,3 bilder i sekundet. 
+Det er faktisk noe av det beste vi har målt i denne oppløsningen, og betyr at du kan forvente brukbar ytelse i ganske grafikkintensive spill. 
+På webytelse er det kun enkelte av de nyere Galaxy Note/Tab-brettene fra Samsung som kan skilte med bedre tall. 
+
+Verken 3DMark Ice Storm Unlimited eller Geekbench 3 virker å være Intel-kompatible, da begge måleverktøyene nektet å la seg installere. 
+
+Batteritesten vår viste 10 timer og 9 minutter med kontinuerlig nettsurfing. 
+Det er 51 minutter under det Asus angir som hva du kan forvente, men absolutt godkjent. 
+Merk at små justeringer i lysstyrke fort kan utgjøre mange minutter i brukstid. 
+
+Konklusjon 
+
+2015-utgaven av Asus MeMO Pad 7 er en vesentlig oppgradering fra forrige utgave, og har etterlatt seg et positivt inntrykk. 
+Er du på utkikk etter et godt Android-brett i kompaktklassen er dette et brett vi definitivt ville ha vurdert opp mot Google Nexus 7. 
+Det største ankepunktet er kamerakvaliteten, men hvis dette ikke er viktig for deg, er MeMO Pad 7 et klokt valg. 
+
+Brettet kommer i butikkene i midten av oktober, og prisen starter på rundt 2000 kroner for 16 GB-utgaven, altså i samme prisleie som nevnte Nexus 7. 4G-utgaven vil koste tusenlappen mer. 
+Nexus ble kronet med en terningkast 6, men konkurransen og forventningene våre ett år senere er noe høyere. 
+Vi lander uansett på en sterk femmer for Asus MeMO Pad 7. 

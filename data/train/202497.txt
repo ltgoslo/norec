@@ -1,0 +1,84 @@
+Test:Komplett Gamer i20 
+
+Får du en bra gamer-PC til under 10 lapper? 
+
+Rett før sommerferien testet vi en gamer-PC med AMD-prosessor og ATI-grafikk, nå er tiden inne for å teste et alternativ. 
+Da faller valget på Intel og samarbeidspartner nVidia. 
+
+Hva som skal sitte i en kapabel gamer-PC bestemmes av budsjett og ytelseskrav. 
+Hvis begge deler er i den øvre del av skalaen er det nesten ikke grenser for hvor mye du kan brenne av. 
+
+Men hva er strengt tatt nødvendig for å få en god spillopplevelse? 
+
+Komplett Gamer i20 har lagt seg midt på treet, med en konfigurasjon som ikke er helt hinsides prismessig, men som gir en god spillopplevelse nesten uansett hvilke spill det er snakk om. 
+Noen kompromisser må man gjøre, men det kommer vi tilbake til. 
+
+Spesifikasjoner 
+
+Her er listen over komponentene i maskinen: 
+
+Kabinett og montering 
+
+Kabinettet i vårt testeksemplar kommer fra anerkjente Coolermaster og tilbyr god plass og fleksible kjøleløsninger. 
+
+Både lagringsenheter og tilleggskort festes uten skruer, og med plass til 5 3,5-tommers og 5 5,25-tommers enheter holder det lenge for de fleste. 
+
+Det er plass til vifter både i bakkant og foran diskene, pluss på siden og eventuelt i bunnen. 
+Der sitter det allerede et støvfilter, noe som kommer godt med. 
+
+Maskinen var utstyrt med kabinettvifter i bakkant og på siden. 
+Prosessorviften var den orignale som følger med prosessoren. 
+
+Kabllingen og buntingen er grei. 
+
+Fronten har allsidig kortleser over DVD-brenneren og et praktisk tilkoblingspanel på toppen, spesielt hvis maskinen står på gulvet. 
+Her er det både FireWire, lyd inn/ut, 2 x USB og eSATA. 
+
+Prosessor og grafikkort 
+
+Maskinen kommer med Core i5-750 på 2,66 GHz, denne er midt på treet blant Intels prosessorer. 
+Den regnes for å være tilstrekkelig for de aller fleste bruksområder hvor ikke ren, rå prosessorkraft er helt sentralt. 
+
+Grafikkortet er et GeForce GTX 460 fra nVidia, som er et rimelig potent kort, et hakk over HD 5830 som det satt to av i AMD-maskinen. 
+
+I bruk 
+
+Maskinen er kjapp og har god respons, selv om det er brukt en tradisjonell harddisk, og ingen SSD. 
+Vi brukte den på vår to-skjermsløsning og det var ingen problemer med tilkoblingene. 
+
+Maskinen starter fra påslag til desktop på et lite minutt, de første 16 sekundene er POST (Power On Self Test). 
+Den avslutter fra desktop på 14,6. 
+
+Til all vanlig bruk er maskinen ytelsesmessig godt dimensjonert, du skal være svært kravstor for å ha noe å utsette på dette. 
+
+Det er rikelig med tilkoblinger, 10 USB i tillegg til de på toppen, Gigabit nett og surroundlyd. 
+Det eneste som mangler er digitallyd ut, men det finnes tilgjengelig på hovedkortet. 
+Der finner du også mulighet for tilkobling av braketter med serie og parallellport, skulle det være aktuelt. 
+
+Testing 
+
+Vi brukte maskinen til mange typer spill i tillegg til generell bruk. 
+Maskinen håndterer det meste av spill uten problemer, det eneste er de få ekstremt krevende variantene som Crysis med alle innstillinger på fullt. 
+Alt annet gir fin flyt 
+
+VI har også kjørt våre vanlige tester: PCMark Vantage, 3DMark, Passmark og Geekbench. 
+
+Støy 
+
+Maskinen kommer med standard CPU-vifte og et par ekstra vifter i tillegg til de som sitter i grafikkortet og strømforsyningen. 
+Det var en tydelig tone fra en av viftene og ved nærmere inspeksjon viste det seg å være viften i sidepanelet som var sangeren. 
+Det var en god del slark i denne, spesielt i akselretningen. 
+
+Med denne viften ute av spill var maskinen rimelig støysvak, selv om det under intens aktivitet ble mer aktivitet fra viften på skjermkortet. 
+For en spillmaskin er dette akseptabelt. 
+
+Konklusjon 
+
+Gamer i20 er en velbalansert maskin, ytelsen på de forskjellige komponentene står godt i forhold til hverandre. 
+En SSD til systemet hadde gjort den til noe ekstra, men her er det prisen som begrenser. 
+
+Maskinen håndterer alt med god margin, bortsett fra det helt ekstreme. 
+
+OBS: 
+Du kan bytte ut komponenter og tilpasse maskinen til dine egne behov. 
+Komplett sin pakke på nettsidene kan variere etter hvert som priser og komponenter utvikler seg. 

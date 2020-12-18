@@ -1,0 +1,21 @@
+Box – Ubegrenset plass i skyen
+Den eldste skytjenesten gir betalende kunder uendelig med plass, men er for treg og mangler finesser. 
+
+Oppsettet er stort sett lik de øvrige: 
+En påmelding online etterfulgt av en bekreftelsesmail for å sikre identiteten. 
+Deretter må man hente et klientprogram til hver enhet som Box skal brukes på. 
+
+Brukergrensesnittet ligner til forveksling de øvrige. 
+Som en fiks detalj kan man slå synkroniseringen av og på med en knapp på grensesnittet. 
+Mindre fikst er det at det ikke er noen papirkurv til å redde filer som slettes ved en feil. 
+
+Når plassen er brukt kan man kjøpe 100 GB for 65 kroner om måneden. 
+Det er litt beskjedent sammenlignet med de andre, men til gjengjeld får ikke mindre enn ubegrenset plass for over 100 kroner i måneden! 
+
+Synkroniseringshastigheten er ikke Box sitt sterkeste kort. 
+Opplasting av 1 GB testfiler tok omtrent en time. 
+Nedlasting gikk heldigvis betydelig raskere enn opplastingen. 
+Det tok under er kvarter å hente testfilene. 
+
+Det er ikke noe som skiller Box fra de andre i en sådan grad at det kan forklare hvorfor det er 20 ganger flere brukere hos hver av de andre brukerne. 
+Til gjengjeld betyr den lille brukerbasen at Box vil få vanskeligheter med å klare seg i konkurransen fremover. 

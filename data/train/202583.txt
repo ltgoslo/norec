@@ -1,0 +1,129 @@
+Multicom Xishan W350S
+Gamer-PC i budsjettklassen, med ny generasjon prosessor og grafikkort. 
+Her får du mye for pengene! 
+
+Norske Multicom har for vane å være tidlig ute med PC-er basert på ny Intel-teknologi, så også etter lanseringen av fjerde generasjon Core i-prosessorer. 
+Allerede samme dag som Intel-lanseringen var Multicom klare med flere nye modeller basert på Haswell-generasjonen. 
+
+I den anledning har vi sett nærmere på modellen Xishan W350S, som er en relativt kraftig PC myntet på kunder som ønsker en PC som det går an å spille de nye spillene på - uten å tømme sparekontoen helt. 
+Ikke bare har den fått Haswell-prosessor, men også et helt fersk og temmelig kraftig grafikkort fra Nvidia. 
+
+Her er en kjapp oversikt over de viktigste egenskapene: 
+
+Skjerm: 15,6" blank TN-skjerm, full HD-oppløsning (1920 x 1080 piksler, ikke berøringsfølsom) Prosessor: 
+Intel Core i7-4700MQ (firekjernet på 2,4 GHz, max 47W) RAM: 
+8 GB (2 x 4 GB. 1 ledig slot) Grafikkort: 
+Intel HD 4600 + Nvidia GeForce GTX 765M Lagring: 750 GB harddisk, 5400 rpm. 
+Ledig 2,5" plass til harddisk nr 2 + mSATA-plass for eventuell SSD som systemdisk Optisk drev: 
+DVD-leser/brenner Skjermutganger: HDMI, VGA USB-porter: 3 x USB 3.0 + 1 x USB 2.0 Webkamera: 
+2 megapiksler Kortleser: 
+SD/SDHC/SDXC/MS Trådløst nett: 
+Intel Centrino Advanced-N 6235 (a/b/g/n) Kablet nett: 10/100/1000 Mbit Annet: 
+Bluetooth, eSATA OS: 
+Leveres uten til denne prisen Størrelse: 374 x 250 x 16.3~42.7mm Vekt: 
+2,7 kg Pris: 7.495 kroner (hos Multicom.no 6.6.2013) 
+
+Nok av muligheter 
+
+Ingen tvil om at dette er en meget godt utstyrt PC. 
+Vi merker oss spesielt muligheten til å bygge vesentlig ut med tanke på lagring. 
+Ikke nok med at du har plass til to harddisker eller SSD-er i 2,5"-format, du kan i tillegg sette inn en fysisk mindre SSD i mSATA-sporet, som for eksempel kan brukes som rask systemdisk. 
+
+For øvrig er det verdt å merke seg at Multicom har utstyrt PC-en med et meget godt trådløst nettverkskort med støtte for både 2,4- og 5 GHz-båndene. 
+
+PC-en er i det hele tatt godt utstyrt, prisen tatt i betraktning. 
+At den også har full HD-skjerm er jo heller ikke vanlig i denne prisklassen: 
+
+Merk imidlertid at den har et PN-panel, noe som blant annet betyr at kontrast og farger ikke blir optimale fra sidene og topp/bunn. 
+Men ser du på skjermen rett forfra (og det gjør man jo som regel) er dette ikke noe problem. 
+
+Innpakningen er i plast, og her har produsenten hatt mer fokus på funksjon enn design. 
+Den virker rett og slett litt retro (les: 3-4 år gammel) rent designmessig. 
+Litt traust, kanskje, med tanke på målgruppen. 
+Den er heller ikke veldig slank, men det hadde vi heller ikke forventet av en PC som er såpass utbyggingsvennlig. 
+
+Alle tilkoblingene sitter på sidene, med unntak av strøminntak og VGA-utgang som begge sitter på baksiden. 
+
+Tastaturet er av island-typen, der hver tast er isolert fra de andre. 
+En stor fordel ved slike er at de er enkle å rengjøre. 
+Tastene er relativt faste, og det er godt å skrive på. 
+Det er bittelitt klirrelyd fra tastene, men ikke noe veldig sjenerende. 
+
+Pekeplaten fungerer bra, den er multiberøringsfølsom (bruk for eksempel to fingre for å skrolle opp og ned), og under den sitter en knapp med to trykkpunkter for venstre- og høyreklikk. 
+Den fungerer også tilfredsstillende. 
+
+Med eller uten Windows? 
+Du bestemmer 
+
+Vi fikk PC-en ferdig satt opp med Windows 8 64 bits-utgaven. 
+Dette må du betale 750 kroner ekstra for hos Multicom, og ytterligere 349 kroner dersom du ikke ønsker å gjøre installasjonsjobben selv. 
+Du kan til og med få den levert med Windows 7, hvis du er skeptisk til åtteren. 
+
+En stor fordel ved å velge en slik løsning er at du får en ren Windows-opplevelse, uten en haug med demoer og tilleggsprogrammer du ikke har bedt om - noe som er mer malen enn unntaket når du kjøper PC-er fra andre produsenter. 
+
+Slik er den i bruk 
+
+Og det er ingen tvil om at PC-en er av den raske sorten. 
+Oppstart av tunge programmer, flere side om side - og veksling mellom dem skjer uten særlig forsinkelse. 
+Kun en SSD ville kunne korte tiden ytterligere, og det er nok en løsning vi ville ha valgt hvis du har fokus på best mulig ytelse, men da blir dette fort en mye dyrere PC. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,9 Minne: 7,9 Grafikk: 6,8 Spillgrafikk: 
+6,8 Primær harddisk: 
+5,9 
+
+Støy er definitivt ikke noe tema så lenge maskinen ikke kjører tunge programmer og spill, men når belastningen blir stor blir også viften meget hørbar. 
+Ikke bare hørbar, men også merkbar i form av vibrasjon i kabinettet. 
+Det merkes spesielt godt dersom du lar venstre håndbak hvile ved siden av pekeplaten. 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester. 
+Siden vi også er interessert i ytelsen du får rett fra prosessoren (med Intel HD 4600-grafikken), har vi også målt dette. 
+I diagrammene under har vi sammenlignet tallene vi fikk mot noen eksisterende, populære prosessorer og grafikkløsninger. 
+
+Prosessoren har en ytelse som definitivt ligger på øvre del av skalaen, i det Intel kaller Performance segment. 
+I diagrammet over har vi sammenlignet ytelsestall med andre populære, eksisterende prosessorer fra Ivy Bridge-generasjonen, inkludert toppmodellen - som er å finne på langt dyrere PC-er enn denne. 
+Som du ser er ikke forskjellen ekstremt stor, ingen tvil om at prosessoren i denne PC-en gir en god balanse mellom ytelse og pris. 
+
+Her har vi sammenlignet med kort som sitter i andre PC-er i prisklassen 7.500-10.000 kroner. 
+Som du ser er grafikken nesten fire ganger raskere når du bruker det dedikerte grafikkortet enn den du får rett fra prosessoren. 
+I praksis er dette mer enn nok til god ytelse i de aller fleste nye spillene. 
+
+Det som imidlertid også er interessant er å se at den integrerte HD 4600-grafikken sørger for vesentlig bedre ytelse enn hva som er typisk for forgjenger HD 4000 (40-50% forbedring, ifølge våre målinger). 
+
+Selv om ytelsen fortsatt ikke er tilstrekkelig til å gi en flytende opplevelse i de mest krevende spillene, kan det være tilstrekkelig for spilltitler som er 3-4 år gamle, og til alt annet 2D- og 3D-arbeid. 
+Den store fordelen er at man da samtidig sparer strøm dersom man jobber mobilt. 
+
+Harddisk/SSD 
+Med en lese/skrivehastighet på rundt 95 MB pr sekund er harddiskytelsen her ganske midt på treet. 
+Med en rask SSD kunne hastigheten vært tre til fem ganger høyere. 
+
+Er du entusiast og ønsker best mulig ytelse, helt uten venting av noe slag, bør en slik investering absolutt vurderes, ikke minst med tanke på at du i denne PC-en kan ha både SSD og harddisk samtidig. 
+
+Batteri 
+
+PC-en har en egen "strømspareknapp" som man bør trykke hvis man er langt fra stikkontakten: 
+
+Denne tvinger PC-en til å bruke den integrerte grafikkprosessoren, noe som betyr vesentlig strømsparing. 
+Med minimal belastning klarte vi å få batteriet til å vare i fem timer og 12 minutter. 
+Ved variert bruk vil nok rundt fire timer være sannsynlig. 
+Multicom selv anslår 375 minutter, eller 6,25 timer. 
+Det er vel optimistisk, i så fall må i hvert fall lysstyrken senkes betraktelig. 
+
+Fire-fem timer er uansett brukbart, sett i lys av at dette er en kraftig maskin. 
+
+Konklusjon 
+
+Dette er den første PC-en vi tester med fjerde generasjon Intel Core i-prosessor. 
+En av de store fordelene med denne i forhold til tidligere generasjoner er mindre strømbruk og dermed bedre batteritid. 
+Akkurat på det området er det nok helt andre modeller som kommer til å imponere oss langt mer enn Xishan W350S. 
+
+For dette er en PC for deg som er opptatt av spilling, og det fikser maskinen meget bra - til en pris som bør være overkommelig. 
+Merk imidlertid at dette ikke er noen designperle (ikke i våre øyne i hvert fall), skjermen er høyoppløst, men er ikke av den beste typen, og påregn også noe støy under tung bruk. 
+
+Alt i alt er vi likevel godt fornøyd med PC-en, som redder i land en femmer på terningen takket være ytelse, utbyggingsvennlighet og, ikke minst, en fin pris. 
+Det bør være viktige faktorer for målgruppen. 
+Se for øvrig oppsummeringsboksen under for plusser og minuser. 
+
+Takk til Multicom for lån av PC til test. 

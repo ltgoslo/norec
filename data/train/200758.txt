@@ -1,0 +1,63 @@
+Dragon Dictation:App som skriver det du sier 
+
+Talegjenkjenning, det er noe kjent med det... 
+
+Fra tid til annen dukker fenomenet talegjenkjenning opp i en eller annen sammenheng. 
+Vi snakker altså om at en datamaskin analyserer lyden fra en person som snakker i en mikrofon og gjør om dette til lesbar tekst. 
+
+Ser man rundt seg, enten det er på jobb eller i en hvilken som helst annen sammenheng, eller spør sin venner om hva de gjør når de er alene, så er det svært liten sjanse for at noen av dem snakker inn i en mik koblet til PC-en når de skal skrive tekst. 
+
+Hvorfor snakker f.eks. Bill Gates stadig om dette som Den Neste Store Greia? 
+Også mange andre med store framtidsvyer kommer trekkende med dette når det skal spås om framtiden. 
+Det forskes over hele verden på å å få maskiner til å forstå tale, men det har ikke akkurat resultert i noen verdensomspennende suksess. 
+
+Det som derimot har blitt en verdensomspennende suksess er iPhone, ikke minst skyldes dette alle appene som gjør mobilen i stand til nesten hva som helst. 
+
+Og selvsagt finnes det talegjenkjenning for iPhone. 
+
+Dragon Dictation 
+
+Dragon er en programvare som har vært utviklet helt siden 1982 på forskjellige maskinplattformer. 
+Den finnes både som Windows-program og til MacOS i forskjellige varianter. 
+Hele bakgrunnshistorien kan du lese på Wikipedia 
+
+For kort tid siden kom det en gratis versjon til iOS og vi måtte selvsagt laste ned og prøve. 
+
+Etter installasjonen velger du språk og allerede her ble vi litt mistenksomme. 
+Valget som ble presentert som vårt morsmål var "Norska". 
+Nettopp. 
+
+Du kan også få programmet til å gjenkjenne navnene på kontaktlisten din, slik at de blir stavet riktig når programmet mener at du nevner noen av navnene på listen. 
+
+Resten var ren plankekjøring, programmet er superenkelt å bruke. 
+Det er bare å trykke på knappen, snakke i vei og så trykke knappen igjen når man er ferdig. 
+Så dukker teksten opp på iPhone-skjermen. 
+
+Hvis alt har gått som det skulle kan man så lese det man nettopp har sagt i klartekst som kan kopieres og limes inn i andre programmer på vanlig vis. 
+
+Men alt går sjelden som det skal. 
+
+Vi har jo hatt mye moro med stavekontrollen på iPhone, som har foreslått og erstattet helt kurante ord med de mest fantasifulle vendinger. 
+Den siste var "halvpensjon" som ble foreslått erstatte med "halvår sjonglører". 
+
+Mulig vi er litt konspiratoriske, men vi har en mistanke om at det eksisterer et hemmelig utvekslingsprogram mellom Nuance, som eier Dragon, og Apple. 
+For fantasien bak det som dukker opp av tolkninger står ikke på noen måte tilbake for det Apple foreslår når vi skriver inn tekst på vår iPhone. 
+
+Prosessen og resultatet ser du i denne videoen: 
+
+Konklusjon 
+
+Alt vi har vært borti av talegjenkjenning helt siden vi begynte med datamaskiner tidlig på 80-tallet har vært underholdende, men totalt ubrukelig. 
+
+Vi har forståelse for de som liker å forske på dette, og for funksjonshemmede kan det sikkert tilpasses spesialløsninger som kan være et godt hjelpemiddel. 
+
+Men til annen bruk som erstatning for tastatur? 
+Beklager, men vi har ingen tro på denne teknologien, i hvert fall ikke i vår levetid. 
+Det er heller ikke hensiktsmessig, det er ingen arbeidsplasser hvor det ville ha vært en fordel å sitte og lese inn i stedet for å taste. 
+Det hadde blitt det rene kaos med folk som enten er i ferd med å le seg ihjel, river seg i håret av fortvilelse, eller blir rett og slett rasende. 
+Eller dypt deprimert... 
+
+Men er du ute etter ufrivillig maskinell underholdning går slike programmer stavkontrollen en høy gang når det gjelder kreativ språkbehandling! 
+
+Søk på Dragon Dictate i AppStore så kan du også teste. 
+Gratis moro. 

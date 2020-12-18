@@ -1,0 +1,88 @@
+Olympus Mju 750
+TEST: 
+Det snertne lille kameraet fra Olympus byr på hele 5x optisk zoom, og de som er glade å fotografere i regnet kan glede seg over at det tåler en skyllebøtte. 
+
+Olympus var veldig tidlig ute på digitalkameramarkedet, og var i mange år blant de aller fremste med tanke på salgstall. 
+Også Mju-serien har en god tradisjon her i Norge - en designmessig lekker serie, som i tillegg har vært brukervennlig og tatt fine bilder. 
+Dessuten tåler kameraene litt ekstra og kan brukes i regn, eller spyles av i dusjen hvis de har fått litt sand på seg. 
+
+På testbenken denne gangen har vi Mju 750 - en videreføring av Mju 700, som vi testet i vinter. 
+Denne gangen har kameraet blant annet fått et annet objektiv, og 5x optisk zoom er slett ikke til å kimse av i et så lite kamera. 
+Vidvinkelen er imidlertid ikke spesielt god, med brennvidde tilsvarende 36mm, og objektivet er noe lyssvakt både på vid og tele, med f/3,3-f/5 som største blendertall. 
+Makronærgrensen er for øvrig 3cm. 
+
+Konstruksjonen er ganske solid - kamerahuset er i metall (med unntak av plastlokk foran batteri og strøminntak) og tåler, som nevnt, regn og snø. 
+Skal du bade, derimot, blir du nødt til å kjøpe Mju 725 SW, som er vanntett ned til fem meter. 
+En svakhet, imidlertid, er at kameraet lett får riper. 
+
+CCD-brikken er, noe utradisjonelt, 1/2,3" stor og har en oppløsning på 7,1 megapiksler. 
+ISO-verdien kan settes manuelt opp til 1600, og kameraet har en innebygget anti shake-funksjon, der gyroskoper registrerer skjelvingen og flytter CCD-brikken deretter. 
+Vi sitter imidlertid igjen med inntrykket av at Olympus' anti-shake ikke er like effektiv som hos enkelte av konkurrentene, og det kommer av at optisk stabilisering (der linseglass flyttes) er mer effektiv enn å flytte på brikka. 
+
+Laber LCD 
+
+LCD-skjermen er 2,5" stor og har en god oppløsning på 215.000 piksler. 
+Dessverre har den et markant etterslep - dårligere enn noe annet kamera vi har testet det siste halvåret. 
+Innsynsvinkelen er heller ikke spesielt god - skjermen er spesielt følsom for fingeravtrykk, og i sterkt lys er det vanskelig å se søkerbildet. 
+På den positive siden er Olympus-skjermene gode i mørket, og trenger svært lite lys for å kunne vise hva du er i ferd med å ta bilde av. 
+
+Mju 750 er godt å betjene - menystrukturen er godt bygget opp, og tekst og konstraster byr ikke på noen problemer i forhold til lesbarhet. 
+Den litt vinklede konstruksjonen gjør at kameraet er godt å holde i, og betjeningskomforten er god, med godt merkede knapper og et funksjonshjul som føles akkurat passe. 
+Et negativt punkt er imidlertid plasseringen av blitsen, som har veldig lett for å bli liggende bak langfingeren på høyre hånd hvis du ikke er forsiktig. 
+
+Hjelp til nybegynnere 
+
+Funksjonshjulet lar deg bytte mellom avspilling, opptak, SCN-modus (motivtyper, med et solid utvalg av ulike situasjoner), guide (med hjelp til å ta bilder) og filminnspilling. 
+Spesielt guide-funksjonen er veldig fin for nybegynnere - velg fra menyen at du ønsker å ta bilde mot sola, så foreslår kameraet at du bruker fyllblits, spotfokusering eller eksponeringskompensasjon og utfører det når du trykker OK. 
+Du kan også få hjelp til å skape en uskarp bakgrunn eller redusere uskarphet. 
+
+Når kameraet står i innspillingsmodus, fungerer også piltastene som hurtigtaster til blitsstyring, selvutløser , makro og eksponeringskompensasjon. 
+Disp-knappen lar deg styre informasjonsnivået på skjermen (levende histogram og hjelpelinjer er mulig), og meny-knappen trenger vel ingen egen forklaring. 
+I tillegg finnes knapper for sletting av bilder og direkteutskrift av valgt bilde. 
+
+På toppen finner vi av/på-knapp, utløserknapp og en egen knapp for aktivering av anti shake-funksjonen; spesielt nyttig når det ikke er allverden med lys og du ønsker å ta bilde uten blits. 
+
+Kameraet bruker for øvrig xD-kort, i likhet med kameraene fra Fujifilm. 
+Både strøm, USB og A/V bruker den samme pluggen, og batteriet er skjermet bak et plastlokk i bunnen med en liten pinne som i tillegg holder det på plass. 
+Batterilevetiden er for øvrig oppgitt til 190 bilder, som er noe i svakeste laget (spesielt nå som vinteren er rett rundt hjørnet, og de oppgitt batterilevetid er i overkant). 
+
+Mju 750 er først og fremst et kamera for den mindre avanserte brukeren. 
+Kameraet har hverken mulighet for blender- eller lukkerprioriterte bilder; ei heller for manuell fokus, men har mye funksjonalitet knyttet til bildevisning, blant annet kalenderfunksjon. 
+
+Ytelse 
+
+Det lille kameraet fra Olympus er ingen racer, og scorer relativt middelmådig på alle våre tester. 
+Spesielt er oppstartsiden svært treg, og autofokusen er ikke like rask som på de fremste i denne klassen. 
+
+Her er den vanlige tabellen: 
+
+Bildekvalitet 
+
+Vi var ikke veldig importe over bildekvaliteten sist gang vi testet et kamera fra Olympus, og også denne gangen kan vi styre vår begeistring. 
+For å ta det positive først, har kameraet nå fått bildestabilisering i form av flytting av CCD-brikken, som gjør at det er litt lettere å ta skarpe håndholdte bilder. 
+
+Bildene har imidlertid begrenset skarphet. 
+Det kommer i hovedsak av støyreduksjonen i kameraet, som visker ut detaljene i bildet selv på moderate ISO-verdier. 
+Riktignok er nivået av støy er forholdsvis moderat på ISO 400, men tapet av detaljer er stort. 
+
+Under ser du et eksempel på hvordan detaljer er visket ut på bildene fra Olympuskameraet sammenlignet med bildene fra Nikon - bildene er tatt med få sekunders mellomrom og er ikke nedskalert. 
+ISO-verdien er 80 og lukkertiden 1/320s. 
+
+Objektivet byr på 5x optisk zoom, som er en utfordring i et så lite kamera. 
+Spesielt legger vi merke til at hjørnene på bildene blir veldig uskarpe på vidvinkel, og den kromatiske feilbrytningen er i overkant høy ut mot kanten, noe du ser eksempel på i bildet til høyre. 
+Innendørsbilder får også ofte et gulstikk. 
+
+Som vanlig har vi lagt ut et knippe bilder vi har tatt med kameraet, så du har mulighet til å vurdere bildekvaliteten selv. 
+
+Konklusjon 
+
+For fem-seks år siden lagde Olympus kameraer som var noe av det absolutt beste som var å få tak i, men i løpet av de siste par årene har flere av konkurrentene dratt fra. 
+Mju 750, som er den nest øverste modellen, og sannsynligvis den modellen som tar de beste bildene, er et utseendemessig attraktivt kamera med funksjoner som i utgangspunktet som virker forlokkende, men det blir allikevel et middelmådig inntrykk vi sitter igjen med etter å ha testet kameraet den siste uka. 
+
+Spesielt er det bildekvaliteten og ytelsen det faller på. 
+Bildene mangler detaljer, autofokusen er ikke spesielt rask i våre tester og en oppstartstid på tre sekunder er for mye når konkurrentene starter på halvannet. 
+I tillegg er ikke LCD-skjermen spesielt god, avanserte funksjoner er en mangelvare og batterilevetiden i knappeste laget. 
+
+En ting skal Olympus ha - å bruke Mju 750 går som en lek. 
+Menyene er lette å lese, kameraet har innebygget hjelp som sikkert er nyttig for mange, og de mange motivprogrammene gjør at det er lett å stille inn kameraet riktig til ulike bildesituasjoner. 
+Kameraet er også det eneste av de vi har testet i denne omgangen som faktisk tåler en runde i regnværet eller i skibakken, så har du slike behov kan det være verdt å ta en titt i retning Olympus, som tilbyr en ganske rimelig løsning i så måte. 

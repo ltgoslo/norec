@@ -1,0 +1,67 @@
+OCZ RevoDrive 120 GB PCIe RAID 0
+Dette er en nesten latterlig rask diskløsning. 
+
+Vi har skrevet det før, men det tåler å gjentas: 
+Skal du ha en raskere PC er det harddisken som må byttes ut med SSD for at du virkelig skal merke forskjell. 
+Mer minne eller raskere prosessor gir deg ikke på langt nær samme gevinst, da må du i realiteten bytte ut hele innmaten i PC-en og legge en god del mer penger på bordet. 
+
+Men det finnes mange varianter av SSD. 
+Alle bruker flashminne i stedet for roterende plater, men både minnekretsene og kretsene som styrer bruken av flashminnet kan være forskjellige og gi forskjellig ytelse og egenskaper. 
+
+Vanligvis er en SSD laget for å passe inn i stedet for en 2,5-tommers harddisk, det finnes også tilsvarende som erstatter 3,5-tommers eller 1,85-tommers disker. 
+
+Men det finnes andre løsninger. 
+
+Revo - alt på ett kort 
+
+Mange hovedkort har mulighet for å koble to disker i RAID, som jobber parallelt og gir bortimot dobbel leseytelse. 
+Det finnes også egne diskkontrollere for RAID-løsninger, hvor man kan koble til mange disker i forskjellige kombinasjoner. 
+
+OCZ har satt alt på ett PCI express kort, her er både RAID-kontroller, minnekontroller og selve flashminnet samlet og ferdig til bruk. 
+Det jobber i RAID 0 som altså gir bortimot dobbel leseytelse. 
+Når vi snakker om SSD blir det helt ville lesehastigheter når vi sammen ligner med harddisker. 
+
+Installasjon 
+
+Kortet passer inn i en PCI ekspress x4 kortplass, som du finner på alle moderne hovedkort. 
+For de som ikke er vant med å mekke PC betyr dette at Revo bare passer i en stasjonær PC. 
+Du må skru den opp og sette kortet ned i en kontakt, og så feste det med en skrue eller klemme, avhengig av maskintype. 
+
+Når kortet er på plass må du slå på maskinen og laste inn en driver. 
+Denne følger ikke med på noe lagringsmedium, men du laster den ned fra OCZ sitt nettsted. 
+Da er du sikret at du får nyeste versjon ved installasjonen. 
+
+Etter omstart er disken klar til bruk. 
+
+Hvis du vil bruke Revo som oppstart/systemdisk må du gjøre noe tilsvarende. 
+Da må driverfilene du har lastet ned legges på en minneplugg. 
+Når du så installerer Windows dukker ikke RAID-løsningen opp (dette gjelder ikke bare Revo, men alle andre RAID-løsninger også). 
+Da må du velge alternativet "laste inn driver" og manøvrere deg fram blant diskene til minnepluggen der driverfilene er lagret. 
+Da dukker Revo opp blant diskene, og du kan fortsette installasjonen av Windows. 
+
+I bruk 
+
+Bytter man fra en vanlig rask SSD til en Revo-løsning går man fra utrolig rask til vanvittig rask. 
+På små operasjoner merker man ikke så mye fordi forskjellen mellom 0,1 og 0,2 sekunders respons er så liten i seg selv. 
+
+Men når du jobber f.eks. med store bilder i Photoshop, eller kopierer over mange filer er det høyst påtagelig. 
+Oppstart av Windows og programmer er også langt raskere. 
+
+Det du merker det mest på er den totale opplevelsen, at alle de små ventetidene blir borte, at maskinen bare reagerer lynraskt hele tiden. 
+At de irriterende pausene forsvinner, som oppstår når Windows må rydde opp og flytte om på ting mellom minne og vekslefil. 
+
+Målinger 
+
+Vi har målt med testprogrammet Atto, vårt eget testprogram, PCMarks Vantage og AS SSD: 
+
+Konklusjon 
+
+Dette er den raskeste lagringsløsningen vi har testet. 
+For de som trenger eller ønsker superrask disk er det dette konseptet som gjelder. 
+
+Revo finnes i flere størrelser, på 50, 120 og 240 GB. 
+
+Prisen på 120 GB utgaven ligger på 2475 kroner, litt dyrere enn den vanlige utgaven i 2,5-tommers format. 
+Men er du ute etter ytelse er det vel verdt pengene! 
+
+Takk til Netshop for utlån av testeksemplar. 

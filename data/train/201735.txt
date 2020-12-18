@@ -1,0 +1,111 @@
+Acer Aspire S7
+En av de aller beste ultrabookene på markedet. 
+Ferdig snakka. 
+
+Acer er nå ute i markedet med sine første maskiner som er bygd rundt Windows 8 og multiberøringsskjermer, og vi har testet den modellen som kanskje er mest spennende av dem alle: 
+Aspire S7 med 13,3 tommer skjerm. 
+
+To utgaver 
+
+S7 kommer i både 11- og 13- tommers utgaver. 
+Begge har "unibody design", som innebærer at chassiset er frest ut av massiv aluminium, som gir en stiv og stabil konstruksjon samtidig som den skal være mindre energikrevende og mer miljøvennlig enn andre produksjonsmetoder. 
+
+11-tommeren har også aluminiumsdeksel over skjermen, mens 13-tommeren har Gorilla Glass 2, som gir en enda tynnere konstruksjon, på bare 11,9mm. 
+Det er faktisk tynnere enn mange mobiler (samme tykkelse som Sony Xperia Acro S, for eksempel)! 
+Begge har forøvrig T-profiler i rammen rundt skjermen, som gjør den ekstra stiv og stabil. 
+
+S7 leveres i flere konfigurasjoner, og billigste 13,3 tommer koster i underkant av 10.000 kroner. 
+Her er de viktigste tekniske egenskapene på vårt testeksemplar: 
+
+Skjerm: 13,3" blank berøringsfølsom IPS-skjerm, full HD-oppløsning (1920 x 1080 piksler) Prosessor: 
+Intel Core i7-3517U RAM: 
+4 GB (som også er maks) Grafikkort: 
+Intel HD 4000 Lagring: 256 GB (2 x 128 GB SSD i RAID0) 
+Optisk drev: 
+Nei Skjermutganger: 
+Micro-HDMI USB-porter: 
+2 stk USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: a/b/g/n Kablet nett: 10/100 Mbit via USB-overgang (medfølger) Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Størrelse: 
+323,3 × 11,9 × 223,5 mm Vekt: 1,27 kg Pris: fra Ca 12.900 kr (Prisjakt 30.1.2013) 
+
+Skjermen har en hengsling som byr på ekstra motstand når den står i en naturlig 110 graders vinkel, for å ikke gi etter når man bruker berøringsskjermen. 
+
+Alle tilkoblinger sitter på sidene, trukket lengst fra brukeren. 
+
+To vifter transporterer luft ut og inn fra baksiden, for å gi lavere temperatur på alle berørte flater. 
+Og ja, PC-en er relativt kjølig uansett belastning, og vifteaktiviteten er som regel svært lav ved normal, lett bruk. 
+Selv på full rotasjon er ikke viftene spesielt bråkete, det er mer snakk om et jevnt sus uten høyfrekvente ulyder. 
+
+Tastatur-trøbbel 
+
+Tastaturet er bakbelyst og meget fast og fint. 
+Det avgir svært lite støy under bruk. 
+
+Likevel har vi en høne å plukke med Acer, og det gjelder tastaturets layout. 
+For det første har det få taster, noe som betyr at hver tast har flere tegn. 
+F-tastene har for eksempel blitt lagt på talltastene øverst, PrintScreen ligger på Å. 
+Pipe-tegnet som normalt står til venstre for 1-tallet er flyttet ned ved siden av Caps Lock, men verst er at AltGr-tasten mangler helt. 
+Skal du for eksempel få fram @-tegnet, må du nå holde nede ALT+CTRL og trykke på 2-tallet. 
+
+Tastaturet krever med andre ord litt tilvenning, men vil aldri bli like brukervennlig på spesialtaster som et "normalt" tastatur. 
+
+Pekeplaten har integrerte sensorer for venstre- og høyreklikk, og fungerer tilfredsstillende. 
+
+Den totale konstruksjonen som helhet virker meget solid og gjennomarbeidet. 
+Vi får helt klart et solid premium-inntrykk av denne PC-en i nær sagt alle bauger og kanter. 
+
+Slik yter den 
+
+Premium-inntrykket fortsetter også under bruk. 
+Fra vi skrur på maskinen til den er klar inne i Windows 8 går det knapt 8 sekunder, og det er noe av det raskeste vi har målt noen gang. 
+Kun noen av Samsungs ultrabooker kan måle seg mot dette. 
+Og ja - PC-en løser allslags oppgaver raskt og smertefritt. 
+Vi fjernet prøveversjonen av sikkerhetspakka fra McAfee og ble enda mer fornøyd (man slipper uhøvelige sprettoppvinduer); som kjent har Windows 8 all den sikkerheten du trenger innebygd. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,1 Minne: 5,9 Grafikk: 
+5,4 Spillgrafikk: 
+6,4 Primær harddisk: 
+8,4 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsestallene mot andre, relevante ultrabooks i samme klasse: 
+
+Som ventet ligger i7-ytelsen på denne PC-en helt i toppen sett i forhold til andre Ultrabooks. 
+I praksis betyr det god ytelse i nær sagt alle relevante situasjoner, til alt fra kontoroppgaver til bilde- og videoprosessering. 
+
+Dette er ingen spill-PC, men grafikkytelsen holder i bøtter og spann til alt annet. 
+Du kan selvfølgelig også spille litt eldre spill og enklere 2D-spill uten problemer. 
+Alle PC-ene i diagrammet over har den integrerte Intel HD 4000-brikken som sitter i prosessoren, merk at Samsung har klart å skvise litt mer ytelse ut av den enn de andre, uten at vi tror dette er særlig merkbart i praksis. 
+
+Hva skal man egentlig si? 
+Ytelsen som oppnås ved å bruke to stk SSD-er i RAID0-oppsett er ekstrem, og det merkes i mange sammenhenger. 
+Både lese- og skriveytelsen er i en helt annen liga enn hos konkurrentene. 
+Merk også at skriveytelsen er kraftig forbedret i forhold til Aspire S5, som har et lignende oppsett. 
+
+Hva med batteritiden? 
+
+Vel, det er ett av få områder der denne maskinen kunne vært bedre. 
+Vi klarte å skvise batteriet til å holde ut i 6,5 timer med minimal belastning. 
+Under videoavspilling var det stopp etter 3 timer. 
+5 timer med variert bruk kan være oppnåelig, og det er litt under snittet i klassen: 
+
+Det som imidlertid bør imponere de fleste er at maskinen kan ligge i dvale i opptil 80 dager fra fulladet batteri før det går tomt. 
+Det er sjelden kost på bærbare PC-er! 
+
+Konklusjon 
+
+Undertegnede har testet bærbare PC-er i en årrekke, og tror ikke jeg har blitt like imponert over en PC fra Acer siden jeg testet den første Centrino-PC-en fra selskapet for nesten 10 år siden. 
+Det burde si det meste. 
+
+Kan du leve med mangel på AltGr-tast og middels god batteritid, får du en knakandes god ultrabook hvis du velger denne PC-en. 
+Kanskje den aller beste akkurat nå. 
+
+Synes du 13.000 kroner er mye, bør du vurdere i5-utgaven med 128 GB SSD. 
+Den yter ikke mye dårligere, og du får den i skrivende stund til under 10.000 kroner flere steder. 
+
+Acer Aspire S7-391-73514G25aws (NX.M3EEG.004) 

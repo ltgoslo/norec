@@ -1,0 +1,67 @@
+Nikon Wu-1b trådløst nett for kameraer
+Hva kan den og hvordan virker det? 
+
+Som regel er et kamera noe du har i hendene og foran ansiktet når du bruker det. 
+Da er fjernbetjening ikke akkurat noe nærliggende problemstilling. 
+Men det kan være situasjoner hvor det er svært gunstig å ikke befinne seg bak kamera. 
+Da tenker vi ikke på paparazzivirksomhet, men heller på situasjoner hvor man ønsker å justere motivet av forskjellige grunner. 
+Da er det kjekt å slippe å løpe fram og tilbake mellom kamera og motiv. 
+
+Nikon Wu-1b 
+
+Nikon har hatt flere trådløse moduler for sine proffe kameraer, men de nyere utgavene er både langt mindre i omfang og ikke minst dramatisk rimeligere i pris. 
+En trådløs senderenhet WT-3 til Nikons (og vår) gamle D200 koster 5 590 kroner, mens Wu-1b bare koster rundt 400! 
+
+Modulen Nikon Wu-1a som fungerte med D3200 ser nesten lik ut og har samme lave pris, men da Nikon slapp D600 lanserte de også Wu-1b. 
+Den fungerer også med Nikon 1-modellene S1, J3 og V2. 
+
+Selve enheten er en liten USB-sak som plugges inn i porten på siden av kameraet. 
+Den stikker ut, men er ikke i veien for betjening. 
+Den dekker over HDMI-utgangen, men den brukes jo ikke under fotografering uansett. 
+
+Den leveres i en eske full av brukerveiledninger på mange språk, og det følger også med en praktisk holder med lokk, som kan tres på kamerastroppen. 
+En meget smart løsning. 
+
+For å komme i gang 
+
+Wu-1b fungerer som en trådløst WiFi sender, og du knytter deg opp til den fra iPhone eller Android-mobil ved å velge dette nettverket i listen. 
+
+For å kunne kommunisere med kameraet fra mobilen må du laste ned og installere en gratis app fra Appstore/GooglePlay. 
+
+Du slår på kameraet, logger deg på nettverket og starter appen. 
+Så er du i gang. 
+
+I bruk 
+
+Det løsningen kan gjøre er begrenset av hva selve kameraet er i stand til. 
+Verken D600 eller Nikon 1 har motordrevet zoom, så utsnittet må du velge manuelt ved å dreie på zoomringen. 
+
+Men fokusering er motordrevet, så du velger hva som skal være i fokus fra mobilen ved ganske enkelt å peke i søkerbildet som overføres fra kameraet til skjermen på mobilen. 
+Der dukker det opp en grønn firkant som markerer hva som er i fokus. 
+Så trykker du på utløsersymbolet og bildet tas. 
+
+Søkerbildet overføres i nær sanntid, forsinkelsen er vanskelig å måle, men den er under et sekund. 
+
+Du kan velge om bildene som tas skal overføres til mobilen med det samme eller om du vil gjøre det senere. 
+Skal du ta flere bilder etter hverandre er det en fordel å utsette overføringen, den tar jo noen sekunder hvis du opererer med full oppløsning og kvalitet. 
+Det er bare JPG-bilder som overføres, ikke råformat (NEF). 
+Alle bilder blir uansett lagret på minnekortet i kameraet. 
+
+Her ser du noen skjermdumper fra programmet og hvilke muligheter som finnes. 
+
+Konklusjon 
+
+Denne løsningen har ikke så stort repertoar. 
+Du kan velge fokus, fjernutløse og overføre bilder til mobilen. 
+Men det er i grunnen akkurat det man trenger. 
+Ved å overlate redigeringsfunksjoner og opplastning til nettjenester til mobilen blir løsningen langt enklere for kameraet. 
+Disse funksjonene finnes jo allerede i en mengde varianter på mobilene og det er ingen grunn til å bruke ressurser på å lage varianter som bare virker på visse kameramodeller. 
+
+Kombinert med skytjenester slipper du å overføre bildene med kabel eller kortleser. 
+Bruker du iPhone og har aktivert Bildestrøm på dine andre datamaskiner vil alle bildene du nettopp har tatt lastes ned med en gang maskinene er på nett. 
+
+Og de kreative bruksområdene er jo omfattende. 
+Du kan plassere kameraet på steder hvor du selv ikke kommer til for å se i søker eller på kameraskjermen. 
+Skal du ta bilder av fugler eller dyr kan du selv være helt ute av syne og få spennende nærbilder. 
+Selvportretter og gruppebilder er også situasjoner som kan løses på en enklere måte. 
+Og så videre, det er bare å bruke fantasien. 

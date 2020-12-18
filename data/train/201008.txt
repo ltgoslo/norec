@@ -1,0 +1,102 @@
+Packard Bell iGo 3481
+Den har mange av egenskapene som vi verdsetter ved bærbare PCer, og vi nøler ikke med å kalle iGo 3481 for årets foreløpig største positive overraskelse på bærbar-fronten. 
+
+Vi fikk se de nye iGo-PCene allerede i fjor høst, og har gledet oss til å stifte nærmere bekjentskap med maskinene. 
+Vi har tidligere kun testet Packard Bell-maskiner ved noen ganske få anledninger, og det vil være en overdrivelse å si at vi ble spesielt imponert av de tidligere modellene. 
+
+LES OGSÅ: 
+
+Bra utstyrsnivå 
+
+iGo 3481 er utstyrt med en mobilprosessor fra AMD, nærmere bestemt Athlon XP1800+. 
+Den tilsvarer en 1,7 GHz Pentium4 mobilprosessor i ytelse under de fleste forhold, i følge våre egne målinger. 
+Harddisken er en 30 GB-utgave fra IBM, og maskinen er for øvrig utstyrt med 256 MB DDR-minne som kan bygges ut til 1 GB. 
+
+Dessuten får du en kombinert DVD-spiller/CD-brenner, og en innebygd diskettstasjon sikrer bakoverkompatibiliteten. 
+
+Grafikken besørges av en ATI Radeon IGP320M-brikke, den samme som sitter i blant annet Amilo A fra Fujitsu-Siemens. 
+Denne stjeler 32 MB av internminnet i maskinen, slik at de 256 megabytene blir redusert til 224. 
+
+Av tilkoblinger finner du FireWire for høyhastighets tilkobling av eksternt utstyr som DV-kamera og harddisker, 3 USB-porter (dessverre ikke USB2.0), 2 PCMCIA-porter, VGA og TV-utgang, standard seriellport og parallellport, nettverksport (10/100 Mbit) og 56 Kb modem. 
+Alt i alt godt med utstyr og tilkoblinger! 
+Vi savner som sagt USB2.0 og skal vi være riktig storforlangende, trådløst nett og IrDA (infrarød). 
+Maskinen har heller ikke PS/2-port, så skal du koble til mus og tastatur må du bruke USB-versjoner. 
+
+Apple-inspirert 
+
+Selve kabinettet minner unektelelig om de nye Apple-bærbare, sølvgrått med avrundede hjørner og myke linjer. 
+iGo er litt mer "stylet", men vi synes at designet er bra, vi. 
+Her er ingenting i metall, til tross for at lokket kunne trengt det. 
+Det er tynt, gir etter ved belastning, og gir ikke den aller beste beskyttelsen for skjermen. 
+
+Skjermen har for øvrig en oppløsning på 1024x768 punkter. 
+Det kunne godt ha vært mer, synes vi, mens mange vil si at XGA er perfekt for en 14,1". 
+
+PCen er for øvrig kompakt, de ytre målene er 325x265x37mm, og den veier nøyaktig 3 kg. 
+Dette er innenfor hva vi mener er akseptabelt - selv for deg som er mye på farten. 
+
+Tastaturet har en logisk (klassisk) tasteplassering. 
+Tastene er faste, her er ingen skranglelyder. 
+Spesialtastene mellomrom og linjeskift er store og lette å treffe. 
+
+Skal vi trekke noe på tastaturløsningen, måtte det være at responsen på tastene ikke er av de beste vi har prøvd. 
+Bruker du touch-metoden vil du blant annet merke at du må trykke hardere med lillefingerene enn du kanskje er vant til. 
+Om du opplever dette som et problem, vil det uansett neppe vare mer enn dag eller to. 
+
+Under tastaturet finner du en avrundet pekeplate, og mellom høyre og venstre "museknapp" finner du en todelt knapp for skrolling opp/ned. 
+Over tastaturet finner du knapper for styring av medieavspiller, samt hurtiknapper for starting av nettleser og epost. 
+Her finner du også av/på-knappen. 
+
+Tilkoblingene er logisk plassert bak, på høyre side og i fronten. 
+Aller best likte vi at FireWire-kontakten er plassert i fronten, noe som gir lett tilgjengelighet når du skal koble til DV-kamera, MP3-spiller etc. 
+Her finner du også tilkobling for hodetelefon og mikrofon, samt hjul for justering av lydnivå. 
+Bra! 
+
+De innebygde høyttalerne er derimot ikke fullt så bra. 
+De er plassert i fronten, og byr på svært spinkel lyd - der bassen er totalt fraværende. 
+
+Stor programpakke 
+
+iGo 3481 kommer med en lett packardbellisert Windows XP Home Edition (norsk) installert, sammen med en rekke programmer. 
+Vi nevner Microsoft Word, Money, Internet Security fra Symantec, Ulead Videostudio (videoredigering), blant mange andre som du normalt må betale ganske mye penger for (se tekniske detaljer for komplett liste). 
+Vi, og sikkert mange andre, setter pris på at du får spørsmål om å installere flere av disse programmene de første gangene du starter PCen. 
+Ikke alt er like aktuelt å installere for alle. 
+
+Slett ikke verst 
+
+iGo 3481 er meget behagelig å bruke. 
+Den scorer bra på ytelsestestene, men grafikkytelsen i 3D er for lav til at PCen vil tiltale de ivrigste spillentusiastene. 
+Disse vil garantert bli bedre tilfredsstilt andre steder enn foran iGo 3481. 
+Ytelsen er likevel god nok til at du kan spille mange av de nyeste 3D-spillene hvis du går ned på oppløsning og detaljnivå. 
+
+Ytelse i 2D, videoavspilling, kontorprogrammer, musikkavspilling etc er ikke lenger noe stort tema; det løser iGo 3481 og de aller fleste bærbare PCene du finner i butikkene i dag, uten problemer. 
+
+Super-stille 
+
+Det er derimot flere andre egenskaper som gjør iGo 3481 til en av våre absolutte favoritter i denne klassen; en av de viktigste er at den er musestille! 
+Kun under de mest krevende scenene i 3D-testprogrammene våre og en sjelden gang innimellom startet viften, som i tillegg er støysvak. 
+Man skulle da tro at prosessoren og dermed også PCen ville bli svært varm etter hvert - men det blir den ikke! 
+Maskinen er behagelig å ha i fanget selv etter timer i bruk, noe som slett ikke kan sies om alle dens konkurrenter. 
+Snodig, men veldig positivt! 
+
+PCen har også andre egenskaper som vi vet å verdsette, og som gjør dette til en "riktig" bærbar PC. 
+Vi har allerede nevnt den høyst akseptable vekten på 3 kg, og det skulle også vise seg at batteriet var av den seige sorten. 
+Vi startet batteriltesten kl 14 i Oslo, og forventet at den skulle bli ferdig før hjemturen kl 1630. 
+Det ble den ikke. 
+Vi tok derfor PCen med i bilen, batteritesten gikk fortsat, og vel hjemme kl 1720 viste måleren fortsatt 9% strøm igjen. 
+Skjermen ble først svart etter 3 timer og 35 minutter. 
+Det er overraskende bra, faktisk blant de aller beste resultatene vi noen sinne har oppnådd med vårt testprogram fra Ziff Davis. 
+
+Konklusjon 
+
+Etter å ha testet en rekke modeller i denne prisklassen, danner man seg en forventning foran hvert nytt møte, og ofte viser det seg at forventningene innfrir. 
+
+Denne gangen tok vi feil. 
+
+Packard Bell iGo 3481 er etter våre begreper en meget vellaget modell med gjennomtenkte detaljer. 
+Mest imponert ble vi over det ekstremt lave støynivået og den svært gode batterilevetiden. 
+
+Når maskinen i tillegg yter tilfredsstillende, leveres med mange programmer, ser bra ut og har et høyere utstyrsnivå enn de fleste andre i klassen, er vi ikke lenger i tvil. 
+Packard Bell iGo 3481 er vår nye testvinner i økonomiklassen. 
+
+Fra Packard Bell får vi opplyst at modellen selges til 12.999 kroner blant annet i landets Expert-butikker (pr 7. februar 2003). 

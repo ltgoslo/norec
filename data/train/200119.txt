@@ -1,0 +1,44 @@
+Ny test:Asus 52X CD-brenner 
+
+Det første eksemplaret vi testet fungerte ikke optimalt, nå har vi hatt et nytt eksemplar på testbenken. 
+
+Problemene med det første eksemplaret av brenneren var først og fremst knyttet til lesing. 
+Dette var ikke konsekvent, under installasjon av programvare støtte vi ikke på problemer. 
+Derimot var det umulig å få noen fornuftige data ut av brenneren når vi forsøkte å rippe musikk-CD. 
+
+LES OGSÅ: 
+
+Du kan lese hele rapporten i denne artikkelen. 
+
+Installasjon av nytt eksemplar 
+
+Det nye eksemplaret var produsert i januar 2003 i følge merkelappen, mens det gamle var produsert i november 2002. 
+
+Vi hadde allerede installert siste versjon av Nero som støtter brenneren, derfor var det ingen problemer med å finne brenneren. 
+
+Testing 
+
+Den nye brenneren er ikke like kresen på media, 48x plater ble nå akseptert som 52x. 
+
+Brennetidene var derimot høyere enn på den første modellen! 
+Nå brukte den 2 minutter og 42 sekunder på den ene 52x platen som fulgte med, mens Verbatim 48x ble brent på 2:40 som 52x. 
+Når vi satte hastigheten ned et hakk til 48x på 48x plater, brukte den 2:42 på brenningenn 
+
+Den forrige brenneren var helt nede i 2:26 på 48x media som ble brent som 48x. 
+
+CD-RW ga det samme imponerende resultatet som tidligere, med 3:21 på 24x. 
+
+Lesing var nå uproblematisk med en starthastighet på 3 300 KB/sekund 22x og en topphastighet på 7 473 KB/sekund (49.82x). 
+Gjennomsnittet var på 3 335 KB/sekund (22,23x). 
+
+Aksesstiden lå på 90 ms. 
+
+Rippingen var nå perfekt og helt nede i 2:02! 
+Det er hele 9 skunder raskere enn den andre 52x brenneren vi har testet. 
+
+Konklusjon 
+
+Brenneren er rask, men lever ikke helt opp til spesifikasjonene. 
+I praksis er den likevel innenfor det absoluttet toppsjiktet og CD-RW og rippingen av musikkCD er imponerende rask. 
+
+Prisen er lav, så vi har ikke noe problem med å anbefale brenneren, selv om den ikke ble noen ny testvinner. 

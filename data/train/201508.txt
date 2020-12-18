@@ -1,0 +1,82 @@
+Toshiba Satellite 1410-303
+Toshiba har for øyeblikket testvinnerne i både proffklassen og mellomklassen. 
+Med Satellite 1410 er de også godt representert i økonomiklassen, og nok en gang gjør Toshiba et solid inntrykk. 
+
+Satellite-serien fra Toshiba består stort sett av kraftige og store modeller. 
+Her er det utstyr og ytelse som er det viktigste, ikke mobilitet. 
+1410 er den billigste modellen i serien, og finnes i to versjoner. 
+Billigst er 1410-303, som koster 10.530 kroner inkl mva. 
+1410-604 koster noen lapper mer, men kan by på raskere prosessor og høyere utstyrsnivå. 
+
+LES OGSÅ: 
+
+Maskinene leveres med Windows XP Home Ed. norsk, og med en programpakke som blant annet inkluderer kontorprogrampakken Microsoft Works Suite 2002. 
+
+I motsetning til de fleste andre PCene vi har testet i denne prisklassen, har ikke Satellite 1410 AMD-basert prosessor, men Intel Celeron. 
+Dette er siste generasjon mobile Celeron-prosessor, basert på Pentium 4M-teknologien. 
+
+Godt utstyrt 
+
+Satellite 1410-303, som vi har testet, har en 1,5 GHz prosessor, 256 MB DDR-minne (maks 512), 20 GB harddisk, DVD-spiller, diskettstasjon, nettverkskort (10/100 Mbit), 2xPCMCIA, 3x USB-porter, IR-port, Parallellport, v90-modem, og en god 14,1" TFT skjerm med 1024x768 punkters oppløsning. 
+Her mangler altså f. eks Firewire-port og brenner, men utstyrsnivået må uansett betegnes som meget høyt, prisen tatt i betraktning. 
+
+Skjermen har forresten god lysstyrke og kan betraktes fra nærmest død vinkel. 
+Lokket som skjermen sitter i gir tilsynelatende god beskyttelse i kantene, men er dessverre veldig mykt på midten, og gir derfor lett for lett etter ved trykk. 
+
+Overraskende kraftig grafikk 
+
+Grafikkbrikken som sitter i 1410-303 er en nVidia GeForce 420 Go. Grafikkminnet er bare 16 MB, men brikken gir meget høy ytelse i både 3D og 2D-applikasjoner og spill. 
+Vi oppnådde for eksempel over 100 bilder pr sekund i vår Quake 3D-test i 1024x768 punkters oppløsning og 32 bits fargedybde. 
+Det er rekord i økonomiklassen! 
+Her finner du for øvrig også TV-utgang (kompositt). 
+
+Eksemplaret vi hadde på testbenken var i tillegg utstyrt med trådløst nettverkskort (innebygd). 
+Vi opplevde meget god rekkevidde, bedre enn de aller fleste andre modeller vi har testet med innebygd WLAN-støtte. 
+
+Praktisk 
+
+Selve maskinen har en lett gjenkjennelig utforming. 
+3,35 kg og litt klumpete kanskje, med de karakteristiske høyttalerne i bakkant og den høyreiste skjermen. 
+Kabinettets farge er ubestemmelig, men ligger i grenselandet mørk blått/sort med detaljer i sølv. 
+Her er ingen detaljer i metall, men maskinen virker rimelig solid bygd. 
+Alle Satellite-maskinene har forøvrig beskyttende plastdeksler over portene på baksiden. 
+Bra! 
+
+I fronten finner du IR-port, samt knapper for styring av CD- og medieavspilling, og heldigvis et hjul for å styre lydstyrken. 
+De innebygde høyttalerne bak gir forresten helt grei lyd til bakgrunnsmusikk mens du jobber. 
+
+Kritikkverdig 
+
+Vårt første ankepunkt er tastaturløsningen. 
+Tastene er faste og gir god respons, men her finner du det som sannsynligvis er klassens minste linjeskift- og mellomromstast. 
+Plasseringen av enkelte spesialtaster er vi heller ikke særlig fornøyd med, her er flere avvik fra normalen, noe som kan være forvirrende i starten for touchere. 
+
+Pekeplaten og knappene burde også vært supplert med hjul eller knapper for å styre vertikal/horisontal scrolling, i tillegg til scrollemulighetene som ligger innebygd i pekeplaten. 
+
+Variert ytelse 
+
+Når det gjelder ytelsen, har vi varierende erfaringer. 
+Grafikkytelsen er, som vi allerede har påpekt, meget høy. 
+En del tyngre operasjoner, som for eksempel MP3-komprimeringstesten, gav lavere resultat enn vi hadde forventet. 
+3 minutter og 16 minutter er for eksempel 20 sekunder tregere enn Acer Aspire 1302x, som var utstyrt med XP1600+ prosessor. 
+Til de fleste PC-oppgaver yter PCen likevel meget bra. 
+
+Vær forresten oppmerksom på at en del nyere PC-spill krever mer enn 16 MB minne for å kjøre optimalt; vi fikk blant annet ikke kjørt alle 3D-testene våre i 32 bits fargedybde. 
+
+Klikk på Tekniske data i oppsummeringsboksen for detaljer fra ytelsestestene. 
+
+No problem 
+
+I praktisk bruk støtte vi ikke på nevneverdige problemer i det hele tatt. 
+Batteriet holdt ut i overkant av 2 1/2 time, og det er ganske midt på treet i dette selskapet. 
+Og er du redd for å få en PC som støyer mye, har du lite å frykte dersom du velger Satellite 1410-303. 
+Du vil oppleve at viften blåser litt innimellom, men den er støysvak, og vi opplevde den aldri som sjenerende. 
+
+Konklusjon 
+
+Toshiba leverer varene nok en gang, ingen tvil om det. 
+Prisene har den siste tiden gått kraftig ned, men 1410-303 gir likevel overraskende mye for pengene. 
+Hvis vi skulle bruke 10.000 kroner på en bærbar PC i dag, kunne vårt valg meget gjerne falt på denne modellen. 
+
+OPPDATERT 6.5.2003: 
+Prisen er nedjustert til 8.995 kroner - som er prisen hos blant andre Telehuset. 

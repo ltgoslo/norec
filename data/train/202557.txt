@@ -1,0 +1,51 @@
+Revodrive 3 X2
+Kan det bli raskere enn dette? 
+
+For snart et år siden testet vi forrige versjon av RevoDrive og ble nærmest blåst over ende. 
+Det parkerte alt vi tidligere hadde testet av lagringsmedier, på grunn av sin spesielle konstruksjon. 
+
+Nå har vi testet etterkommeren RevoDrive3, vårt testeksemplar har denne gangen dobbelt så stor kapasitet, enda høyere ytelse og de viktigste manglene ved forrige generasjon er rettet opp. 
+
+Alt på to kort 
+
+Den forrige utgaven vi testet hadde alt plassert på ett kort, denne gangen er det også et datterkort som huser flere minnebrikker for å oppnå kapasiteten. 
+Derfor har løsningen fått betegnelsen X2, siden datterkortet dobler antall gigabyte til 240. 
+
+Det er også 4 kontrollbrikker av typen SandForce SF-2281 og disse kommuniserer med en egen brikke som tar seg av RAID-funksjonen og kommunikasjonen med PCIe x4. 
+
+Denne løsningen er mer effektiv enn den foregående, spesielt siden TRIM-kommandoen i Windows 7 nå støttes, og gir mer effektiv sletting/opprydding og fordeling av data i flashminnekretsene. 
+
+RevoDrive x2 kommer også i større kapasiteter, helt opp til 960 GB. 
+
+Installasjon 
+
+Kortet krever en egen driver som må lastes ned fra OCZ sitt nettsted, dermed vil du alltid få den nyeste versjonen. 
+
+Skal du bruke RevoDrive som oppstartsmedium må du laste inn en driver før selve installasjonen av Windows starter, på same måte som når man har et RAID-oppsett med tradisjonelle disker. 
+
+Vi sjekket ut begge alternativer og hadde ingen problemer med disse. 
+
+Vår testmaskin har et Asus P8Z68-V LE hovedkort med Intel Core i7 2600 prosessor og 4 GB minne. 
+
+I bruk 
+
+Etter at vi testet første generasjon RevoDrive har vanlige SSD av nyeste generasjon kommet opp i tilsvarende hastigheter og vel så det med 6Gb/s SATA. 
+
+Derfor fikk vi ikke like stort hakeslepp denne gangen, siden vi har vent oss til lynrask respons. 
+Selv om hastigheten dobles og responstiden halveres, så er forskjellen fra "vanvittig" til "helt sinnsyk" i seg selv så liten at vi ikke registerer det som dramatisk. 
+Når halve tiden er 30 sekunder oppleves det ganske forskjellig fra 30 millisekunder, vi snakker om korte vs ultrakorte øyeblilkk. 
+
+Men over tid venner man seg til den raske responsen og vil da tydelig merke når den ikke er helt den samme lenger. 
+
+Målinger 
+
+PCMark Vantage hadde en HDD score på 58 870 
+
+Konklusjon 
+
+RevoDrive3 X2 er en ekstrem løsning, den er utmerket for de som lever av å levere tyngre innholdsproduksjon, utvikling av programvare eller rett og slett vil ha det beste og raskeste - uansett pris. 
+
+Ytelsen er ekstrem, men de nyeste SSD-ene har også blitt så raske at de aller fleste av oss vil klare oss med en av disse, til vesentlig lavere pris. 
+Skal man ut med såpass mye penger vil de fleste ha større glede av større kapasitet enn enda høyere ytelse. 
+
+OCZ RevoDrive 3 X2 PCI-Express SSD 240GB 

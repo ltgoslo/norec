@@ -1,0 +1,71 @@
+Pressy - den ekstra knappen
+«Almighty» og «Almighty», fru Blom. 
+
+Pressy – The Almighty Button er et produkt som så dagens lys etter at det ble finansiert via Kickstarter; en folkefinansieringstjeneste som lar folk med en idé få finansiering fra Kickstarter-brukerne slik at ideen kan utvikles til et produkt. 
+
+Kort fortalt er dette en knapp du stikker inn i hodetelefonutgangen på en Android-telefon, og via en tilhørende app kan du så definere snarveier til hva som skal skje når du trykker på denne knappen, enten du trykker kort, lenge eller flere ganger. 
+
+Målet var å få inn 40.000 dollar til finansieringen, men da Kickstarter-kampanjen var over, klarte Pressy-skaperne å få inn nesten 700.000 dollar, eller cirka 4,3 millioner kroner. 
+
+Enkelt å komme i gang 
+
+Pressy-knappen kommer i en liten pappeske der alt av instruksjoner er trykket på esken. 
+Knappen har et hylster med en nøkkelknippe-ring, slik at du har et sted å putte den når du ikke har den i telefonen – den opptar jo tross alt hodetelefonutgangen, så hvis du vil høre musikk uten å sjenere andre, må den tas ut. 
+
+Alt du trenger å gjøre er å laste ned Pressy-appen, starte den og aktivere den med koden som følger med i esken. 
+Til slutt stikker du den inn, svarer at det er Pressy (og ikke andre hodetelefoner) som er plugget inn, og så er du klar (dette må du svare på hver gang du putter noe i denne inngangen når Pressy-appen er installert). 
+Appen har også en liten veiledning som viser deg hvordan du lager ulike snarveier basert på hvordan du trykker. 
+
+Dessverre for kollega Kirsti, som hadde bestilt enheten, spurte hun om jeg ville teste den. 
+Det har seg nemlig slik at aktiveringskoden kun gjelder én gang, så nå er det bare jeg som får brukt den. 
+
+Ikke at hun ble fryktelig lei seg, dog. 
+Pressy er nemlig et produkt du fint kan la være å bestille. 
+
+Flere snarveier 
+
+Du kan altså lage flere typer snarveier her. 
+Alle er definert på forhånd i Pressy-appen, som for eksempel å starte lommelykt-funksjon, ringe en kontakt direkte, starte en app, ta et bilde med kameraet, slå av Bluetooth, hoppe til neste sang eller lignende. 
+
+Hver snarvei kan kobles til en kombinasjon av knappetrykk. 
+Knappen skiller på korte og lange trykk, slik at du for eksempel kan lage én snarvei som aktiveres om du holder knappen inne, en som fungerer når du trykker to korte trykk etter hverandre eller ett langt og ett kort. 
+Totalt er det ni ulike knappekombinasjoner du kan lage snarveier til (1-2-3 korte, 1-2-3 lange og 1-2 lange etterfulgt av 1-2 korte). 
+
+For å kunne bruke lange trykk (og dermed ha flere enn tre snarveier) må du igjennom noen skjermbilder for å deaktivere apper som kan krasje med Pressy (f.eks. S Voice på Samsung Galaxy S5), men der er alt forklart og går ganske greit å sette opp. 
+
+Når du har installert Pressy-appen kan du også bruke hodetelefoner med knapp på ledningen på samme måte som Pressy-knappen. 
+Når du plugger i noe i inngangen, blir du spurt om det er Pressy, hodetelefoner eller hodetelefoner med egen knapp. 
+
+Problemet er bare at det ikke virker som det burde. 
+Ikke i nærheten. 
+
+Noen trykk er allerede reservert 
+
+Vi begynte med å definere ett kort trykk som hopp til neste sang. 
+Da vi prøvde, ble imidlertid musikken pauset. 
+Etter litt fikling innså vi plutselig at både ett og to korte trykk tilsynelatende er reservert til henholdsvis play/pause og neste sang av operativsystemet (dette er snarveier du allerede kan trykke om du har et par ørepropper med knapp på ledningen). 
+
+Vi har heller ikke lykkes å lage en snarvei til tre korte trykk – da oppfattes bare de to første (altså neste sang), og vi har prøvd mange ganger. 
+
+Igjen står vi altså igjen med snarveier som begynner med et langt trykk; totalt seks snarveier. 
+
+Dårlig funksjonalitet om telefonen er låst 
+
+På vår testtelefon, en Galaxy S5, er det mulig både å starte kameraet og Google-søket direkte fra låseskjermen, uten å måtte låse opp telefonen først. 
+Velger du å starte kameraet fra Pressy-knappen, er du dessverre nødt til å låse opp telefonen først. 
+
+Dermed får du ingen rask tilgang til kameraet når skjermen er avslått, selv om man har huket av at snarveien også skal gjelde om skjermen er sort. 
+
+Du kan imidlertid velge å ta et umiddelbart bilde der du aldri får et søkerbilde. 
+Dette fungerer selv om skjermen er slukket, men «umiddelbart» er brått 3-4 sekunder fra du trykker, og du får heller ingen tilbakemelding om at bildet er tatt før du slår på skjermen og så vidt får et glimt av det. 
+
+Enkelte ting fungerer uten å låse opp først, blant annet å ringe en kontakt direkte, bruke blitsen som lommelykt eller slå av og på stillemodus. 
+
+Konklusjon 
+
+Vi lar oss på ingen måte imponere av Pressy, som rett og slett føles ut som et betaprodukt. 
+Vi klarer ikke å lage egne snarveier til korte trykk, og funksjonaliteten er begrenset dersom skjermen er låst. 
+
+Forhåpentligvis er dette noe utviklerne klarer å rette på i fremtidige oppdateringer av appen, men spør du oss, er det i hvert fall foreløpig liten vits å bruke to hundre kroner på å bestille den fra Pressybutton.com. 
+
+Vi kunne fint ha gitt den bort til en av våre lesere, hadde det ikke vært for at den kun kan aktiveres med én Google-konto, så det ville heller ikke være noe stort poeng. 

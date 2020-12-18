@@ -1,0 +1,60 @@
+Samsung TS-H552
+16X 
+DVD-brennere er i teorien helt i grenseland for hva som er mulig når det gjelder hastighet og presisjon. 
+Men det er et stykke fram til vi nærmer oss dette i praksis. 
+
+Spesifikasjonene for Samsing TS-H552 er imponerende, med støtte for 16X for DVD+R, 12X for DVD-R, 4X for DVD+/-RW og 2,4X for DVD+R DL - og 40X for CD. 
+
+LES OGSÅ: 
+
+Rotasjonshastigheten for 16X DVD og 40X 
+CD er den samme, ca 9500 o/min, men dataraten er svært forskjellig på grunn av tettheten på mediet. 
+På en DVD kommer vi opp i 21 600 KB/sek, mens en CD bare håndterer 6 000 KB/sek. 
+Det krever helt andre egenskaper både hos elektronikken, laseren og for selve materialet i platen. 
+
+Men dette er teori, hvordan fungerte den i praksis? 
+
+Installasjon 
+
+Tilsynelatende fungerte alt greit, men ytelsen var langt under det forventede. 
+Etter en liten sjekk ble det klart at årsaken var at brenneren opererte i PIO-modus i stedet for Ultra DMA. 
+Dette var det ikke mulig å endre, og vi sjekket ved å installere den i flere forskjellige test PCer. 
+Da sjekket vi om det var ny firmware tilgjengelig på Samsungs nettsted. 
+Det var det, og etter en svært brukervennlig nedlastning og installasjon ville brenneren operere i et fornuftig modus. 
+
+Programvaren som følger med er Pinnacle Instant CD/DVD som er et rent brenneprogram. 
+Det følger ikke med noe videoredigeringsprogram i retail-pakken, som vi testet. 
+
+Ytelse 
+
+16X plater er ikke akkurat tilgjengelig i dagligvarebutikkene, det raskeste som er greit tilgjengelig er 12x DVD+R og 8X DVD-R. 
+Vi bruker Verbatim plater til all DVD- testing. 
+
+Med 12X DVD+R fra Verbatim klarte Samsung TS-H552 2 GB på 4 min 24 sek, og 4 GB på 7 min 41 sek. 
+Dette er samme ytelse som med 8x plater - den ville ikke brenne disse platene på mer enn 8x. 
+
+Vi hadde ett eksemplar av Plextor 8X (som fungerer som 12X på flere brennere) tilgjengelig, og dette ville Samsung-brenneren gjerne brenne på 12X. 
+Resultatet ble da 6 minutter og 52 sekunder på 4 GB. 
+
+Til sammenligning klarte BenQ DW1600A å brenne 2 GB på 3:40 og 4 GB på 5:43. 
+
+4 GB på DVD-R ble unnagjort på 7:51 og 2 GB på 4:25. 
+
+2 GB DVD+RW tok 6:43 
+
+2 x 4 000 MB på Dual Layer tok 43 minutter og 12 sekunder i 2,4X. 
+
+Brenning av CD tok 2:40 som er ny rekord! 
+
+Men ripping av CD var katastrofe. 
+Her ville den ikke over 4,6X uansett hvilket program som ble brukt, eller hvilken PC den var installert i. 
+Resultatet ble spektakulært dårlig, vi må tilbake til første halvdel av 90-tallet for å matche tiden på 18 minutter og 28 sekunder. 
+BenQ-brenneren DW1600A, som har rekorden, rippet på 2:31. 
+
+Konklusjon 
+
+Det kan virke som om denne brenneren ikke er helt ferdig, og at det må enda en ny firmware-oppdatering til før alle brikkene faller på plass. 
+
+Den er for kresen på plater, og rippingen holder ikke mål. 
+
+Vanlig lesing av data fungerte utmerket. 

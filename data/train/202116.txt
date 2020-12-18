@@ -1,0 +1,100 @@
+Acer Aspire 9800
+Er du lei av at ingen legger merke til deg når du er ute på café med PCen din? 
+Da har Acer noe for deg. 
+Aspire 9800 med 20,1" bredskjerm trekker nemlig til seg teknofile voksne som unger til jordbær-is. 
+
+Stor og tung troner Acer Aspire 9800 på skrivebordet og ligger langt fra det vi normalt sett tenker på når vi sier bærbar datamaskin. 
+Acer ser tydeligvis ikke dette som noen hindring og sikter - om ikke mot et nytt marked - så mot verstingklassen av skrivebordserstattere. 
+Med dobbeltkjerneprosessor, et dugelig grafikkort, TV-kort og den rå skjermen kan denne maskinen dekke mange folks behov. 
+For eksempel ble redaksjonens behov for oppmerksomhet dekket etter kort tid, ettersom denne saken er noe folk tydeligvis bare MÅ se nærmere på... 
+
+LES OGSÅ: 
+
+Denne lille kjempen vekker oppsikt, ingen tvil om det. 
+
+Spesifikasjoner: 
+
+Intel Core Duo T2300 @ 1,66 GHz 20,1" skjerm i bredformat (1680 x 1050 piksler) 1 GB DDR-minne (2 x 512 MB) 2 x 120 GB harddisk (5400 rpm) i RAID 8x DVD dual-layer DVD-RAM/DVD/CD-brenner nVidia GeForce Go 7600 (256 MB minne) 54 Mbps WLAN (a/b/g) Gigabit LAN og modem Bluetooth 2.0 + EDR Infrarød port 4 x USB, 1 x FireWire (4-pin), lyd inn/ut 1 CardBus og 1 ExpressCard kortplass 5-in-1 kortleser: SD, MMC, Memory Stick/Pro, xD VGA, DVI og S-Video-utgang (7-pins) TV-kort med AV-inn og antenneinngang (digital/analog), pluss fjernkontroll og separat digital antenne. 
+Integrert Acer OrbiCam på 1.3 megapiksler 8-cellers batteri Dimensjoner (B/D/H): 
+47,5 x 38,0 x 6,5 cm Vekt ca. 7,8 kilo Pris: 
+25.000* 
+
+Det skal også nevnes at maskinen vi har sett på er en såkalt "engineering sample", altså ikke 100% ferdig for markedet. 
+Det kan derfor være visse små forskjeller på vårt eksemplar og de maskinene som kommer i butikken. 
+
+15,4 mot 20,1 tommer. 
+Ikke så vanskelig å gjette hvem som er hvem... 
+
+Konstruksjon 
+
+Det første du ser er skjermen, og ikke uten grunn. 
+Bredskjermen er nemlig en "20.1" WSXGA+ high-brightness (200 nit) Acer CrystalBrite TFT LCD". 
+Hva det betyr i praksis er at den er stor, har blankt kontrastbelegg og er nydelig. 
+Faktisk er det ikke en tynn skjerm vi er vant til å se på bærbare - løsningen som er valgt er å smekke på en "normal" LCD-skjerm. 
+Derfor er selve "lokket" med skjermen tykkere enn den andre delen av datamaskinen, og innsynsvinkelen er også bedre enn hva som er typisk for bærbare. 
+
+Et ankepunkt for noen vil være skjermoppløsningen. 
+1680 x 1050 er fint på en 20-tommer til en stasjonær PC, men på en bærbar sitter du som regel nærmere skjermen. 
+1920 x 1200 hadde vært fint å kunne velge for de som ville ha det. 
+
+Vekten på den bærbare... eller slepbare, alt ettersom hvor mange bærere du har, er på nærmere åtte kilo. 
+Fordelen er at hvis noen prøver å stikke av med den er det uproblematisk å jogge etter. 
+Det skal også en del til å rive den ned fra bordet ved å snuble i ledningen. 
+Det vil si at når guttungen har nådd vekta som må til, vil han trolig også være gammel nok til å jobbe ned det reparasjonen vil koste. 
+
+Datamaskinen er hovedsakelig bygget i plastikk, som på en måte fungerer greit. 
+Men plasten er også fleksibel, og kombinert med den høye vekta fikk vi litt følelsen av at maskinen lett kunne bli ødelagt hvis vi løftet den feil. 
+I praksis var det allikevel ingen reelle problemer, og - la oss innse det - dette er ikke datamaskinen du drar med deg hver dag. 
+
+Touchpaden er forseggjort og er i bredformat. 
+Den har tre knapper, med (usynlig) skrollfelt vertikalt og horisontalt. 
+På grunn av skjermens bredde har Acer hatt god plass til tastaturet, som derfor også har plass til nummertastene. 
+Over tastaturet finner vi snarveisknapper for internett og epost, pluss av/på og soveknappen. 
+Til venstre har vi noen medieknapper: volum opp/ned, play/pause, forrige/neste og stopp. 
+I tillegg er det en knapp som starter "Acer Arcade", som er et grensesnitt for medieavspilling. 
+
+Maskinen er stappet med tilkoblingsmuligheter: 
+
+På høyre side finner vi minnekortleseren, 3 USB, FireWire, en ExpressCard- og en CardBus-slot (PCMCIA). 
+
+På venstre er DVD-spilleren (slot-in) plassert. 
+Har finnes også USB nummer fire og modem-kontakten. 
+
+Bak er det mye rart. 
+Helt til venstre er det tre innganger: Strøm, antenne og AV-inn. 
+Den gule midt på er TV-ut, deretter kommer VGA, DVI og kablet nettverk. 
+Til slutt finner vi en god gammeldags skriverutgang i rødt og en liten seriell kontakt. 
+Varmluften kommer også ut her. 
+
+Fronten har griller for de innebygde høyttalerne, samt inn/utganger for lyd. 
+Her er det også to knapper som slår av og på blåtann og trådløst nettverk. 
+
+God ytelse, hard på batteriet 
+
+Akkurat som Dell Inspiron 6400, som vi testet i forrige uke, har denne en Core Duo dobbeltkjerneprosessor fra Intel på 1,66 GHz, og ytelsen er tilsvarende når vi snakker om applikasjoner som hovedsakelig er prosessordrevne. 
+Men i 3D-spill gjør den det helt klart mye bedre, og det skulle også bare mangle med et dedikert grafikkort. 
+
+Vi fikk dessverre ikke all verden av ytelse da vi testet grafikkortet, noe som trolig var et problem med vårt prøveeksemplar. 
+Vi vil derfor ikke frigjøre noen resultater da dette vil være villedende. 
+Men omtrentlig 3DMark05-score vil trolig ligge på mellom tre og fire tusen poeng. 
+Helt greit, men spillinteresserte gjerne utnytte en såpass stor skjerm når de spiller. 
+Og dessverre vil ikke grafikkortet ha saft nok til å spille de aller mest krevende spillene i de høyere oppløsningene. 
+
+At det ikke er prosessoren som er hard på batteriene visste vi allerede, men Aspire 9800 har flere ting som virkelig trenger strøm. 
+To harddisker og separat grafikkort gjør sitt, men synderen er nok den store skjermen. 
+BatteryMark holdt derfor ikke i mer enn en time og 37 minutter, mens BatteryEater Pro klarte biffen på en time og 13. 
+Altså ikke så bra, men det hadde vi strengt tatt ikke ventet heller. 
+
+Maskinen blir ikke varm, og det har en grunn: vifta går kontinuerlig. 
+Støynivået er slett ikke ubehagelig og drukner i vårt kontorlandskap, men sitter du mye alene i stille rom så er det absolutt en faktor som må vurderes. 
+Det at luften som kommer ut bak ikke er varm i det hele tatt betyr at det er en del å gå på her, så vi kan håpe at Acers ingeniører setter en høyere terskel for å spinne opp viftene på den endelige utgaven. 
+
+Konklusjon 
+
+Acer Aspire 9800 har tja... nesten alt. 
+God ytelse, stor og fin skjerm, TV-kort, anstendig grafikkort og alt du kan ha bruk for av tilkoblinger. 
+Den har til og med integrert webkamera og mikrofon. 
+Portabiliteten satt til side: for sitt bruk - som er nesten alt bortsett fra seriøs gaming - er det en god maskin. 
+Men med stor skjerm kommer ekstra vekt og volum, kort batterilevetid og høy pris; det koster fremdeles å være kar! 
+Til gjengjeld vil du garantert få mange lange blikk fra alle med bærbare i "smågutt"-klassen. 
+Det at du selv også kommer i bedre form av å dra rundt på minimonsteret er en ren bonus. 

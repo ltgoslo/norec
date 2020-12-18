@@ -1,0 +1,97 @@
+TEST:Fantec TV-LHD Media Player 
+
+Vi håpet favoritten vår skulle få seg en smell. 
+Slik gikk det ikke. 
+
+Da vi for tre måneder siden publiserte vår begeistrede test av mediespillerboksen Western Digital WD TV, ga mange forumdebattanter mer eller mindre inntrykk av at de ville ha seg frabedt å i det hele tatt måtte lese om et produkt som ikke hadde nettverksforbindelse. 
+
+De bør lese denne testen. 
+Fantec TV-LDH er nemlig i utgangspunktet minst like fleksibel som WD TV, og skal kunne spille "alt" du har liggende av musikk-, video- og bildefiler. 
+I tillegg har den altså nettverksforbindelse som gjør det mulig å streame innhold fra eksterne PCer, Macer og nettverksdisker, og den er vifteløs og helt støyfri. 
+
+På papiret ser det med andre ord svært lovende ut. 
+Men i praksis? 
+
+Stor nok kontroll 
+
+Enheten er svært lett og utstråler ikke så mye annet enn plastfølelse. 
+Det er helt greit, vi er ikke så pripne når det kommer til små, diskret mediebokser. 
+TV-LHD skal ikke ta stor plass, heller ikke i overført betydning. 
+
+På samme måte som med WD TV kan du også her koble til det du måtte ønske av harddisker og minnepinner i USB-porten på baksiden, selv om du, i motsetning til hos konkurrenten, bare finner én USB-plugg. 
+Det behøver ikke bety så mye, men det kan være nyttig med to hvis du for eksempel ønsker å ha én harddisk stående permanent i enheten, og en minnepinne som er enkel å flytte i den andre USB-kontakten. 
+
+Baksiden inneholder også en HDMI-kontakt, optisk og koaxial lydutgang (med støtte for 5.1-surround), og analoge komposittsignaler - som vi ikke vet om noen som faktisk bruker. 
+Sist, men ikke minst, finner du en Ethernet-kontakt. 
+
+Fjernkontrollen er relativt stor, størrelsen på hovedenheten tatt i betraktning, og har knapper så store som fjell. 
+Det hjelper dog ikke på responsen. 
+TV-LHD er ikke så veldig rask i oppfatningen, så sørg for å holde fjernkontrollen rett på enheten for å unngå frustrasjon. 
+Etter en tids bruk er vi likevel fortsatt ikke komfortable med forholdet mellom fjernkontrollen og den lille, svarte boksen, så her er innkjøringsperioden opplagt ganske lang. 
+
+Treg i bruk 
+
+Mediespillere som Apple TV og allerede nevnte WD TV kan skilte henholdsvis lekkert og over gjennomsnittet pent menysystem, som i hovedsak er både inuitivt og motstandsfritt i bruk. 
+Kobler du til en disk eller en minnepinne sorteres innholdet i henhold til hovedkategorier som "Musikk", "Film" og "Bilder", og boksene krasjer ikke hvis de blir satt på prøver som er litt mer enn de takler. 
+
+Slik er det ikke med Fantec TV-LHD. 
+
+Tanken bak menyene er at det skal reflektere filsystemet som finnes på en vanlig Windows-PC, og det er for så vidt en grei tanke. 
+Problemet er bare at når du kobler til en PC-formatert minnepinne eller harddisk, så ser du for eksempel en rekke systemfiler du faktisk ikke trenger se - overhodet. 
+Det gjør at inneholdet på disken eller USB-pinnen ser altfor rotete ut (se blant annet bilde 6 i bildespesialen under). 
+
+(Vær oppmerksom på at TV-LHD ikke leser Mac-formaterte lagringsenheter.) 
+
+Heller ikke responsen fra menyene er rask nok. 
+Vi opplevde blant annet at det tok lang tid å sette i gang avspillingen av mkv-filer, og første gang du ønsker å spole deg framover i en videofil skal TV-LDH av en eller annen grunn indeksere filen først - en pussig løsning som endte opp med å ta 10-12 sekunder før spolingen faktisk begynte. 
+
+Og hvorfor fungerer tilbake-knappen på fjernkontrollen bare på enkelte menyer, ikke konsekvent over hele fjøla? 
+
+Vi beklager klisjéen, men som den observante leser allerede har skjønt er det mye å rette opp på for Fantec på dette området. 
+
+Avspillingsproblemer 
+
+TV-LHD kan spille av videomateriale i de fleste kjente formater helt opptil 1080p, i det minste på papiret. 
+
+Vi testet en rekke ulike filer på Fantec-boksen, men opplevde problemer med to av tre mkv-filer. 
+Den ene fikk vi simpelthen beskjed inneholdt et "unsupported format", den andre ville den ikke spole i, mens den tredje altså fungerte fint. 
+
+Overraskende nok snublet vi også over problemer med en helt vanlig avi-fil, som etter en tids avspilling begynte å hakke og stotre. 
+Filmen fungerte dog helt fint på en MacBook-laptop. 
+
+På ett punkt imponerte likevel TV-LHD. 
+Den takler ISO-filer atskillig bedre enn WD TV. 
+DVDer som er lagt over i dette formatet er mer eller mindre intakt, med blant annet kapittelinndeling og undertekster på plass. 
+Det gir pluss i boka. 
+
+Nettverkskrasj 
+
+En del av våre lesere ville som allerede nevnt ikke ta Western Digital WD TV på alvor da vi overøste den med skryt for noen måneder siden, av den enkle grunn at den manglet nettverkstilkobling ut av eska. 
+
+TV-LHD har nettverk, og selv om det ikke er trådløst, vil Ethernet-kontakten (10/100) være til hjelp for mange. 
+
+Setter du opp disk-deling på PCen eller Macen din, vil Fantecs lille sorte sannsynligvis finne disken mer eller mindre umiddelbart. 
+Deretter kan du bla deg gjennom innholdet slik du ville gjort med en vanlig harddisk. 
+
+Vi liker ikke at boksen ikke støtter UPnP, en felles og ganske utbredt standard for deling av medieinnhold, men det behøver ikke være noe stort savn for de som ikke forholder seg til denne standarden. 
+Kjører du derimot en UPnP-server, vil det altså ikke gjøre susen med TV-LHD. 
+
+Vi liker heller ikke problemene vi opplevde da vi koblet boksen til vårt interne jobbnettverk. 
+Da krasjet nemlig TV-LDH fullstendig. 
+Dette skjedde konsekvent, og uansett hva vi prøvde ville den ikke opptre vennligsinnet overfor IPen den fikk tildelt. 
+
+Disse krasjene opplevde vi tidvis også i andre situasjoner, som enten medførte at boksen tok en automatisk omstart, eller at den rett og slett skrudde seg av. 
+
+Konklusjon 
+
+Hvis du har fulgt teksten helt til konklusjonen er det ikke så vanskelig å forstå at Fantec TV-LHD ikke er i nærheten av en noen toppscore. 
+
+Treeren kan kanskje til og med synes noe snill, men til tross for alle innvendingene ser vi et potensiale i boksen. 
+Det er ikke så mye her som ikke kan rettes opp ved hjelp av en programvareoppdatering eller fire, og da kan det være håp. 
+
+Slik TV-LHD framstår i dag er den derimot ikke verdt pengene. 
+At boksen krasjet såpass mange ganger i løpet av testperioden er ikke tillitsvekkende, og når den i tillegg sliter med både mkv og, ikke minst, avi-filer er det mange som bør tenke seg om før de kjøper sin neste mediespiller. 
+Vi er heller ikke spesielt begeistret for filnavigeringen, som også trenger en opprydning, eller til og med en fullstendig revurdering. 
+
+Prisdifferansen på WD TV fra Western Digital er rundt 600 kroner, og for den forskjellen er alt du får en Ethernet-kontakt - i tillegg til alle problemene. 
+Vi er ikke i tvil om hva vi hadde valgt, nettverk eller ikke nettverk. 

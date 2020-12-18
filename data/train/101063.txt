@@ -1,0 +1,107 @@
+Et fantastisk mobilkamera til en rimelig penge
+Microsoft sier at dette er en toppmodell på budsjett. 
+Vi er enige. 
+
+Nokia Lumia 830 er en av de siste Microsoft-telefonene som bærer Nokias logo. 
+Da den ble lansert i september ble det sagt at Lumia 830 skulle være en toppmodell på budsjett. 
+Telefonen koster rundt 3100 kroner om du kjøper den på nett. 
+Det er ikke spesielt billig, men dersom den deler kvaliteter med telefonene som koster rundt 2000 kroner mer kan påstanden likevel stemme. 
+
+På utsiden ser det ut til at Microsoft har sine ord i behold. 
+Telefonen føles svært solid, med en forholdsvis kraftig aluminiumsramme som går rundt hele telefonen. 
+
+﻿Knotete batterideksel 
+
+Under dekselet skjuler det seg plass til både SIM-kort og et ekstra minnekort, i tillegg til et batteri på 2200 mAh. 
+Inntrykket av en helstøpt pakke slår litt sprekker så fort vi skal sette på dekselet igjen. 
+Det nærmest selvlysende oransje polykarbonat-dekselet har korte stubber av noen klips som skal inn i den harde aluminiumsrammen. 
+Flere ganger i løpet av prosessen lurer vi på om vi har kommet i skade for å kverke noen av beina, og det skal mye fikling til før vi er noenlunde sikre på at dekselet sitter på slik det skal. 
+Heldigvis er vanligvis ikke dette en operasjon som skal gjentas ofte. 
+
+Den fem tommer store skjermen har meget god billedkvalitet. 
+Oppløsningen er 1280 x 720 piksler, og selv om full-HD er den vanligste oppløsningen blant toppmodeller på denne størrelsen skal du ha et rimelig godt falkeblikk før du ser forskjell. 
+Innsynsvinkelen er god og lysstyrken er også grei nok. 
+Vi har sett mer lyssterke skjermer enn denne, men ut over dette har vi ikke mye å utsette på Lumia 830-skjermen. 
+
+﻿Forsinket oppdatering 
+
+Det er Microsofts egen Windows Phone 8.1 som kjører på Lumia 830. 
+Telefonen ble lansert sammen med en ny oppdatering kjent under navnet Update 2/GDR2. 
+Telefonen vi fikk til test leveres imidlertid uten den nye oppdateringen, og har kun en tidligere versjon forhåndsinstallert. 
+Det innebygde oppdateringsverktøyet finner ingen nyere varianter. 
+For en tid tilbake gikk det rykter om at oppdateringen, som skulle kommet nå på senhøsten, hadde blitt forsinket til så vidt inn på nyåret. 
+
+Nyhetene i Update 2 handler for det aller meste om kamerafunksjoner, men også enkelte endringer i menyer og hurtigvalg er på vei til Lumia 830. 
+Denne testen er altså gjort før disse elementene er på plass. 
+
+Raske og enkle menyer 
+
+Som vanlig for Windows Phone er menyene kjappe og gode. 
+De er for det meste enkle å finne frem i, også for deg som ikke har brukt operativsystemet før. 
+Innstillingsmenyen er et lite unntak, der egenskaper ligger litt hulter til bulter. 
+Skal du nullstille telefonen gjøres det for eksempel under «Om»-valget i menyen. 
+Innstillinger for skjermen er spredt under en rekke valg, så som «låseskjerm», «lysstyrke», «øyekast-skjerm», «skjermrotasjon» og til slutt bare «skjerm». 
+De fleste av disse valgene skjuler en bryter eller to hver. 
+Denne typen rot virker helt unødvendig for et operativsystem som ellers fungerer så godt som det gjør. 
+
+I rettferdighetens navn skal det sies at også innstillingsmenyen i Apples iOS begynner å bli et kråkereir av spredte brytere som styrer mange av de samme tingene. 
+
+Vi tvang en iPhone-fantast til å skifte mobil: 
+– Windows Phone er jo genialt 
+
+﻿På innsiden av Lumia 830 er det en Snapdragon 400-brikke som er motoren. 
+Dette er en firekjernet systembrikke med betydelig mindre muskelmasse enn det du finner i for eksempel Snapdragon 80x-serien, som du blant annet finner i Lumia 1520 og Lumia 930. 
+Med Lumia 830 skal det godt gjøres å merke denne forskjellen før du begynner å starte svært krevende apper. 
+
+Et lite irritasjonsmoment er måten fleroppgavekjøring virker på Windows Phone. 
+Går du ut av en app er den i praksis helt nedstengt. 
+Det gjelder også musikkavspilling og en del andre funksjoner som kan fortsette i bakgrunnen. 
+Selve appen må startes helt på nytt om du skal tilbake for å styre avspillingen. 
+Vi opplevde ikke store tregheter på Lumia 830, men de treghetene som er å finne gjentar seg forholdsvis ofte når man hopper inn og ut av apper. 
+
+Windows Phone er designet for å kjøre raskt på all maskinvaren som er støttet av plattformen, det betyr at selv telefoner til få hundrelapper oppleves som kjappe, der mange Android-telefoner med samme teknologi oppleves som trege i bruk. 
+
+En app for det meste 
+
+Vi må som vanlig nevne litt om apputvalget på Windows Phone-plattformen også. 
+Hvis du er på jakt etter de originale appene du kjenner fra iOS og Android vil du bli skuffet ganske regelmessig med en Windows-telefon. 
+Mange av dem er her, men det er også mange som glimrer med sitt fravær. 
+Er du derimot åpen for å bruke alternative apper for en del av de samme funksjonene, bør du klare deg greit med Windows Phone. 
+Utvalget av tredjeparts apper er så stort at du skal jobbe ganske hardt for å finne tjenester som ikke er støttet av ett eller annet i Microsofts appbutikk. 
+
+Tidligere Lumia-modeller pleide å vise tid og varsler på skjermen også med telefonen i dvalemodus. 
+Det kan du skru på for Lumia 830 også, men med en vanlig LCD IPS-skjerm er det sannsynligvis ikke en fornuftig ting å gjøre, ettersom hele skjermen trekker strøm for å vise innholdet. 
+Telefonene med denne funksjonen har ofte hatt AMOLED-skjermer, som betyr at de ikke bruker strøm på det svarte rundt – det er kun visningen av klokkeslett og varslinger som trekker strøm. 
+Mellomtingen som er aktivert som standard i Lumia 830 lar deg se denne informasjonen dersom du legger hånden over skjermen et lite øyeblikk. 
+
+Mobilkamera som rivaliserer dobbelt så dyre telefoner 
+
+Ved lanseringen var det spesielt én ting Microsoft la vekt på. 
+De utfordret toppmodeller fra Samsung og Apple til duell, og mente at Lumia 830 skulle ha et bedre kamera enn i flere av markedets mest påkostede modeller. 
+Da vi testet den hadde vi en iPhone 6 Plus og en LG G3 for hånden – to svært kapable kameratelefoner, om enn med litt forskjellig utgangspunkt. 
+
+Etter å ha knipset de samme bildene med alle tre telefonene legger vi merke til at G3 tilfører bildene litt i overkant mye støy fra billedbehandlingen som gjøres i programvaren på telefonen. iPhone 6 Plus har ikke denne støyen, men bildene blir heller ikke fullt så skarpe som vi kunne ønske oss. 
+Bildene fra begge telefonene blir vesentlig mørkere enn de vi tar med Lumia 830. 
+
+Vi er tilbøyelige til å Microsoft rett i påstanden om at Lumia 830 gjør fotojobben like godt som en dyr toppmodell. 
+Du kan se flere sammenligningsbilder fra de tre telefonene på neste side. 
+Her går vi også gjennom noen av funksjonene som er på vei til Lumia 830. 
+
+Konklusjon og alternativer 
+
+Til rundt 3100 kroner er ikke Lumia 830 veldig billig, men den er billigere enn toppmodellene, også innenfor Lumia-serien. 
+Microsofts påstander om at dette er en toppmodell med budsjettpris kan høres ut som en drøy påstand, men vi er langt på vei enige. 
+
+﻿I de fleste praktiske gjøremål med Lumia 830 har vi ikke merket noe som skiller den nevneverdig fra skikkelige toppmodeller. 
+På lydkvalitet og billedkvalitet fra kameraet skinner den vel så godt som mange av telefonene som koster 2000 kroner mer. 
+
+Det kanskje viktigste alternativet til Lumia 830 heter Lumia 930. 
+Her får du mer av alt denne modellen er god på, i tillegg til sprekere innmat og en svært høyoppløst AMOLED-skjerm. 
+Den eneste ulempen vi kommer på er at du mister minnekortplassen. 
+Prisforskjellen er heller ikke avskrekkende – omtrent 700 kroner ekstra må du legge på bordet for å sikre deg det som i dag er Lumia-seriens toppmodell. 
+
+Ser vi til Android-verdenen etter alternativer er det LGs G3 som utpeker seg klarest. 
+Også denne koster rundt 700 kroner mer enn Lumia 830, men da får du også en telefon som er toppspesifisert på så å si alt. 
+
+Ellers er Samsung Galaxy S4 4G+ et meget godt alternativ i omtrent samme prisklasse. 
+Teknologimessig legger den seg midt mellom Lumia 830 og LG G3. 

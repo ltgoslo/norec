@@ -1,0 +1,84 @@
+Acer Ferrari 4000
+TEST: 
+Acers siste Ferrari bytter ut det signalrøde lokket til fordel for svart, herdet karbonfiber, og er også mer oppdatert på det tekniske. 
+Vi tar den på en runde i testbanen vår. 
+
+Det er ikke hver dag vi får besøk av noen fra Acer med en flunkende ny Ferrari-maskin under armen til test, men når de først kommer tar vi villig i mot. 
+Acer Ferrari 4000 bruker de aller siste teknologiene til det fulle, og markerer seg også designmessig. 
+
+LES OGSÅ: 
+
+Maskinen kommer i to forskjellige utgaver; den første med "vanlig" 15.4-tommers bredskjerm med 1680 x 1050 bildepunkter og Windows XP Pro - mens "hjemmeutgaven" har 1280 x 800 bildepunkter, kontrastbelegg og XP Home. 
+Vi har testet førstnevnte. 
+
+At dette skal være et prestisjeprodukt er det liten tvil, og nå som det røde har blitt sendt til sidene i stedet for toppen har vi enda mer sansen for den enn før. 
+Men er maskinen mer enn et hett navn og en flott logo? 
+
+Spesifikasjoner 
+
+Prosessor: AMD Turion 64 ML-37 (2 GHz, 1 MB L2) 
+Brikkesett: 
+ATI RADEON XPRESS 200P 1 GB DDR333-minne 15,4-tomers WUXGA-skjerm (1680 x 1050 bildepunkter) ATI Mobility Radeon X700-grafikk (128 MB) 100 GB harddisk (4200 rpm) 
+802.11 b/g WLAN (54 mbps) Gigabit LAN + Modem DVI/VGA/TV-utganger 5-i-1 kortleser Dimensjoner (B/D/H): 363 x 265,7 x 30,6 mm Vekt: 
+2,86 kilo 
+
+Kraftig også på utsiden 
+
+Designmessig er Acer Ferrari 4000 en imponerende liten pakke, men i motsetning til forrige versjon har designen og materialene en ekstra funksjon - den er dønn solid. 
+Vanligvis tester vi litt med å trykke hardt bak på skjermen og å strekke hjørnene i hvert sin retning - men med Ferrarien får vi ingenting tilbake for det. 
+
+Vi forsøkte med slag, vridninger og trykk, men lite bet på denne maskinen. 
+Dette er helt klart den mest robuste PCen vi har testet, hvis vi ser bort fra roughbookene fra Panasonic og Zepto. 
+
+Tastatur med bøy 
+
+Acers Ferrari 4000 har det sedvanlige bøyde tastaturet - der tastene er arrangert i en fem graders sving nedover. 
+Dette skal gi bedre ergonomi i følge Acer, men krever en del tilvenning. 
+
+Fordelen er at du slipper å vri håndleddene utover på en unaturlig måte for å skrive, og kan i stedet holde dem i takt med armene på en naturlig måte - som sikkert er bra for å unngå stresskader i håndleddene. 
+
+Maskinen har for øvrig to skjermutganger - som gjør det mulig å drive to eksterne skjermer samtidig, men ikke sammen med den innebygde. 
+Det følger også med en knall Ferrari-rød blåtann-mus som du kan lade opp fra hovedbatteriet i PC-en. 
+
+Vi nevner også at maskinen kommer med et lass av programvare - et av de mest nyttige er Acer GridVista, et program som sørger for at enkeltprogrammer holder seg innenfor bestemte soner på skjermen. 
+Veldig praktisk! 
+
+Gummiert base 
+
+Rundt tastaturet og på hele basen er maskinen dekket med gummi, som gjør sitt for å holde håndleddene på plass. 
+Det bidrar også til racer-preget til maskinen, og basen er også en av de ryddigste og mest stilrene vi har sett på denne siden av Apples Powerbook-maskiner. 
+
+Det er veldig få knapper her, bortsett fra selve tastatuet og noen hurtigknapper øverst i hjørnene. 
+Det virker som om maskinen er laget med det samme fokuset på oppgaven som cockpiten i en formel 1-bil - som antakelig er helt bevisst. 
+
+I tillegg er dette en av de få maskinene som har egen knapp for å slå av og på Bluetooth-nettverk, i tillegg til den stadig vanligere WLAN-knappen (de har hver sin farge). 
+Det bidrar til å trekke mer liv ut av maskinen. 
+
+Docking og moduler 
+
+På kantene og foran ligger det masser av porter og knapper - det er totalt 4 USB 2.0-porter her, i tillegg til FireWire, docking-kontakt og en slot-in DVD-brenner med 8x hastighet - som for øvrig er kompatibel med Acers andre modulenheter og således kan byttes med et ekstra batteri eller en harddisk. 
+
+Sidene er for øvrig knallrøde - i takt med Ferraris klassiske farge - så hvis du bytter ut optikken, er det nok best å skaffe seg litt spraymaling mens du er i gang! 
+
+Turion64=det beste fra AMD 
+
+Men hvordan yter egentlig Ferrari-maskinen? 
+Vi har kjørt den gjennom de vanlige testrutinene våre, og er ganske imponert over ytelsen som ligger i Turion 64-prosessoren fra AMD. 
+Riktignok ligger den et godt stykke tilbake for de superbærbare PCene, og den kommer ikke helt opp på nivå med Fujitsu Siemens sitt E8020-råskinn. 
+Men den ligger over 3500 poeng i PCMark 04 - en sjeldenhet i PC-testen til nå. 
+
+En såpass kraftig prosessor skal klare å håndtere de fleste oppgavene du gir den uten videre problemer - også litt mer avansert foto- og videoredigering. 
+
+Grafikken besørges av et Radeon Mobility X700-kort fra ATI med 128 MB dedikert minne. 
+Det får 6337 poeng i 3DMark - og kan måle seg med mange av de stasjonære PCene vi har testet i vår vurdering av PC-tilbud den siste tiden. 
+De siste spillene får du med andre ord ingen problemer med her. 
+
+Alt dette gjør derimot sitt for batterilevetiden, som ender på to og en halv time i Batterymark-testen vår. 
+Dette er lavere enn du får med de fleste Centrino-maskiner i samme klassen; men du kan likevel forvente noe lenger levetid under normalt, lett bruk. 
+
+Konklusjon 
+
+Acer Ferrari 4000 er den eneste Turion64-baserte bærbare PC-en vi har testet til nå - og er også en av de raskeste. 
+Sammen med bunnsolid design, god programvare og topp ytelse er lite annet å si enn at Acer har gjort det igjen. 
+
+Men det koster å være kar, og Acer Ferrari 4000 er definitivt ikke myntet på et publikum som har til vane å gjennomsøke lommeboka i flere omganger før det bestemmer seg for liten eller stor soft-is. 

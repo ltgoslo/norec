@@ -1,0 +1,112 @@
+Acer Aspire 5943 Intel i5-460M
+Lekker multimedia-bærbar for tolv tusenlapper, men du får likevel ikke alt. 
+
+Stadig flere velger bærbar i stedet for stasjonær PC, og spanderer da gjerne en del mer kroner for å få en maskin med et omfattende bruksområde. 
+
+De fleste produsenter har bærbare i høyere prisklasser, og Acer har mange modeller å velge mellom. 
+
+Maskinen vi har testet heter Aspire 5943 og er ikke blant de aller største framtoningene. 
+Den har en skjerm på 15,6 tommer og er proppet med komponenter fra de øvre hyllene. 
+Dessuten er designet mer forseggjort enn på andre Acer-modeller med denne skjermstørrelsen. 
+
+Spesifikasjoner 
+
+Maskinen er altså utstyrt med en prosessor fra den nest kraftigste serien til Intel, og klarer det meste med god margin. 
+4 GB minne er standard og holder til det meste. 
+Harddisken er den største 2,5-tommers disken for bærbare du får i vanlig salg, med kapasitet på 640 GB. 
+
+Skjermkortet fra ATI er en noe moderert utgave av tilsvarende modell for stasjonære gamer-PC-er, og byr på svært god ytelse for en bærbar. 
+Selv svært krevende spill håndteres og HD-video i 1080p er ingen utfordring. 
+
+Selve skjermen har imidlertid ikke full HD-oppløsning, for video er ikke dette så viktig, men for vanlig PC-bruk vil mange ha høyere oppløsning enn 1366 x 768. 
+
+Blu-ray optisk drev gir i utgangspunktet full frihet til å spille av hva som helst av plater. 
+
+Prosessoren, Blu-ray-støtte, harddisken og grafikkortet er elementer som er medvirkende årsaker til den høye prisen. 
+Denne PC-en skal kunne erstatte de fleste stasjonære PC-er hva angår både funksjon, ytelse og lagringsplass. 
+I tillegg spiller naturligvis design og luksusfølelse en vesentlig rolle. 
+
+Design 
+
+Maskinen er ganske gedigen (veier 3,3 kg) og har mange stilige detaljer. 
+Den er i sort og sølv med sett matte flater på utsiden. 
+
+Når du åpner lokket legger du merke til at skjermflaten går sømløst helt ut i kantene. 
+Den er skinnende blank, noe som kan gi plagsomme reflekser hvis du er uheldig med belysningen. 
+Betraktningsvinkelen er som på de fleste andre TN-skjermer, ikke spesielt vid. 
+Bare i et lite område er farger og lysstyrke på plass. 
+
+På venstre side finner vi tilkoblinger for nettverk, VGA, HDMI, kombinert USB/eSATA, FireWire og 2 USB-porter. 
+
+På høyre side er det tilkobling for strøm, Kensington-lås, skuff til BD-drevet, USB, og tre minijacker for linje/mik/hodetelefon. 
+
+I fronten finner vi relativt diskret blinkende indikatorer for forskjellige aktive komponenter. 
+Lengre til venstre sitter volumkontrollen, den er plassert rett nedenfor pekeplaten, som en forlengelse av den runde knappen som sitter mellom mus-knappene. 
+Volumkontrollen er ikke analog, den kan dreies uten stopp i noen retninger og åpner et lite display på skjermen som viser lydstyrken. 
+
+Til høyre for denne sitter spalten til minnekortleseren. 
+
+Det sølvfargete tastaturet har opphøyde taster med avrundede kanter. 
+De er klart definerte og behagelige å skrive på. 
+
+Pekeplaten er speilblank og har god respons. 
+Knappene er klart definerte og gir god tilbakemelding. 
+Den runde knappen aktiverer et mediemodus, da lyser det opp definerte felter som fungerer som knapper. 
+Du kan velge Movie eller Music, et eget avspillingsprogram dukker opp og du styrer med transportknapper og muteknapp. 
+En fiks og elegant løsning, hadde det ikke vært for at avspillingsprogrammet som følger med legger seg bak Windows' pop-opp meny når du setter inn en plate. 
+Da må du slå av kontrollfunksjonen, klikke bort popopp-menyen og så slå på kontrollmodus igjen. 
+En uelegant detalj som i kke skyldes Acer, men Windows. 
+
+De tradisjonelle klistremerkene fra komponentleverandørene pluss spesifikasjonsoversikten er på plass, og fjerner du disse blir maskinen enda mer elegant! 
+
+Oppstart og installasjon 
+
+Maskinen kommer med Windows 7 Home Premium, og et lite utvalg ekstra programvare som ber om oppmerksomhet etter at du har gått gjennom Windows-installasjonen. 
+
+Dette er et irritasjonsmoment for mange, og det finnes alternative gratisløsninger som byr på mindre ergrelser. 
+Noe stort problem er det ikke å avinstallere disse på denne maskinen. 
+
+Lyd og ulyd 
+
+Maskinen har et meget lavt og jevnt støynivå. 
+Vi opplevde ikke noen hysteriske vifter noen gang under variert bruk, heller ikke under kontinuerlig avspilling av video i flere timer. 
+Under selve prosessortestingen steg imidlertid hastigheten på viften hørbart, men likevel moderat nivå. 
+Temperaturen på ut-luften var heller ikke påtagelig høy. 
+
+Lyden fra høyttalerne skilter med Dolby Home Theater. 
+For å få noen kinoopplevelse lydmessig må du legge haka på tastaturet, og selv da er det beskjedent med lydtrykk. 
+Men den låter rent og stort og nivået passer utmerket på f.eks. et hotellrom eller hybel. 
+Men du skremmer ikke naboene med denne. 
+
+I bruk 
+
+Maskinen er som nevnt behagelig i bruk, har god respons og takler det meste med glans. 
+Selv tyngre programmer, som ganske avansert bildebehandling og videoredigering fungerer fint. 
+Vi snakker ikke produksjon her, men for entusiaster går det bra. 
+
+Filmavspilling er selvsagt helt smertefri, både fra filer og DVD. 
+Men Blu-ray ville ikke maskinen spille av slik vi mottok den. 
+Avspillingsprogrammet støttet rett og slett ikke Blu-ray. 
+Vi testet både med egne filmer og demoplaten som lå i esken, men den samme feilmeldingen dukket opp uansett. 
+Man kan selvsagt kjøpe avspillingsprogrammer for Blu-ray, men vi forventer at dette følger med når maskinen er utstyrt med BD-spiller. 
+
+Ytelse 
+
+Geekbench-resultatet på 4416 er ikke noe å skamme seg over, selv ganske kraftige stasjonære maskiner ligger ikke så veldig langt over. 
+
+PCMarks Vantage som tester maskinen under intens bruk med mange oppgaver samtidig, målte ytelsen til 5876 PCMarks. 
+Dette er også en god score. 
+
+Batterilevetiden var god for en maskin av denne typen. 
+Ved kontinuerlig avspilling i fullskjermsmodus var 196 minutter (3 timer og 16 minutter). 
+Uten aktivitet varte batteriet 367 minutter 6 timer og 7 minutter. 
+Det betyr at under vanlig, variert bruk vil levetiden ligge et sted rundt 5 timer. 
+
+Konklusjon 
+
+Denne maskinen hever seg godt over den typiske billige bærbare, både i egenskaper og ytelse. 
+Designet er også mer elegant og forseggjort, og gir en god brukeropplevelse. 
+
+Men det mangler noe når helt vesentlig programvare for å utnytte maskinens egenskaper uteblir. 
+
+En stor takk til Netshop for utlån av PC-en 

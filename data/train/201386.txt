@@ -1,0 +1,160 @@
+Windows Phone 7
+Endelig er Microsofts helt nye mobile operativsystem her. 
+Vi har testet! 
+
+Det sikreste tegnet på at du har kommet over en overraskelse er at hjertet slår litt raskere, adrenalinnivået stiger et par hakk, og pupillene blir ørlite større. 
+Her vil nok noen mene at vi snakker om uventet kjærlighet, et uventet jobbtilbud, eller et skambud på en leilighet som plutselig ble godtatt. 
+
+Men vi er ikke der. 
+Vi snakker om de viktige tingene i livet, som et helt nytt mobilt operativsystem fra verdens kanskje mest utskjelte dataselskap. 
+Microsoft Windows Phone 7 er endelig her, og vi har testet ferskingen. 
+
+Den korte versjonen: 
+Vi er imponert. 
+Tidvis veldig imponert. 
+
+Innholdsfortegnelse: 
+Slik er Windows Phone 7Full orden på hjemmeskjermenE-post-støtte og kalenderMen kan du bruke appene? 
+Ikke ubrukeligMangler bakgrunnskjøringInternet Explorer i førersetetSosiale medier på ett stedKonklusjon: 
+Lukter det gull? 
+
+Den litt lengre versjonen følger med andre ord her: 
+
+Slik er Windows Phone 7 
+
+Det er uansett på innsiden at det virkelig blir interesssant. 
+Microsoft har med Windows Phone 7 gjort det eneste rette: 
+De har gitt opp forsøket på å putte mer og mer sminke på den gamle grisen vi kjente som Windows Mobile, et operativsystem som ble laget for en helt annen tid og for en helt annen type mobiler. 
+
+WP7 er laget for mobiltelefoner med berøringsfølsom skjerm, og det er laget for smarte mobiltelefoner med berøringsfølsom skjerm. 
+
+Grensesnittet er lekkert. 
+Microsoft har gjort en formidabel jobb med å redesigne operativsystemet, og borte er alle de små menyene, den lille teksten, de små områdene en måtte berøre med en fingernegl eller berøringspenn for å treffe riktig. 
+Morsomt nok har den amerikanske teknologi-giganten gått motsatt vei: 
+De har blåst opp deler av grensesnittet så mye at de store, store bokstavene rett og slett flyter utover skjermflaten. 
+
+Det er et bevisst designvalg, naturligvis, og det gjør at blant annet epost-klienten ser strålende ut. 
+
+Full orden på hjemmeskjermen 
+
+Hjem-skjermen er todelt, hvorav hoveddelen består av en en rekke ensfarga, firkanta ikoner. 
+Dette er de programmene, eller appene om du vil, du bruker mest. 
+Trykker du på høyrepilen får du tilgang til alle appene som er installert på mobilen i liste- og ikonform. 
+Her finnes foreløpig ingen mapper, så alt er ordnet alfabetisk. 
+
+Ved å holde nede fingeren over et ikon kan du enkelt flytte det over på hoved-hjemskjermen, et prinsipp som også går igjen på hoved-hjemskjermen, men hvor det her brukes til å omarrangere eller slette appene. 
+
+Stort sett det fungerer dette utmerket, selv om større ulikhet mellom ikonene hadde gjort det enda enklere å finne programmet du leter etter. 
+Microsoft har ihvertfall klart å skille seg markant ut fra både Googles Android og Apples iOS, og det i selv er nok til at de fortjener en stor klapp på skulderen. 
+
+E-post-støtte og kalender 
+
+WP7 kommer som alle andre smartmobiler i dag med støtte for alle de kjente e-post-leverandørene eller -standardene. 
+Det er med andre ord svært enkelt å legge inn både Outlook-kontoer og Google Mail-kontoer, og du kan velge om du vil pushe e-posten, hente den manuelt, eller la e-post-programmet sjekke om det er kommet ny mail hvert 15., 30. eller 60. minutt. 
+
+Du får også tilgang til alle mapper du måtte ha knyttet til e-post-kontoen, og du kan enkelt scrolle deg videre til uleste beskjeder, såkalt "flaggede" meldinger, og til viktige beskjeder, alt ved å sveipe fingeren enten mot høyre eller venstre. 
+Elegant. 
+
+Grensesnittet har vi allerede vært inne på, men det er altså virkelig lekkert, uten at det går på bekostning på funksjonaliteten. 
+De har fulgt deler av Apples designfilosofi med å animere alt fra tekstblokker til slettefunksjonen, og det er helt greit for oss. 
+
+Vi liker derimot ikke at det ikke er mulig å samle alle e-post-kontoene i én innboks, noe som medfører at alle e-post-kontoer du oppretter kjører som en egen applikasjon. 
+
+Kalenderne fra de ulike e-post-kontoene blir derimot samlet på ett sted - i kalender-appen. 
+Her er der også mangler, blant annet så vises bare hovedkalenderen fra Google Calendar. 
+Har du flere tilleggskalendere finnes det ikke noen elegante måte å flette dem inn i WP7-universet. 
+
+Kalenderen har heller ingen ukevisning, men kan vise dagens hendelser delt inn i timesbolker, eller som en såkalt agendaliste. 
+Den har også månedsoversikt, og alle de tilleggselementene du forventer når du skal legge til en kalenderhendelse. 
+
+Men kan du bruke appene? 
+
+Lanseringen av Windows Phone 7 skjer litt stykkevis og delt, og verken Norge eller Norden er blant de landene som kan glede seg over et oversatt operativsystem. 
+For nordmenn går det i engelsk, og det gjelder over hele fjøla. 
+
+Så, nei: 
+Du finner ikke norsk tastatur på WP7. 
+Det kommer helt sikkert etterhvert, og forhåpentligvis før heller enn seinere, men enn så lenge må du nøye deg med å holde nede "a" eller "o"-tastene for å få opp henholds "æ" og "å", og "ø". 
+
+Den andre åpenbare begrensningen er at du som nordmenn (eller danske eller svenske, for den saks skyld) ikke kan kjøpe applikasjoner gjennom Microsoft Marketplace. 
+Tjenesten tilsvarer Android Market (Google) og App Store (Apple), og ettersom Apples app-butikk sto bak en betydelig del av revolusjonen på smartmobilmarkedet er ikke dette noe brukere vil være foruten. 
+
+Ikke ubrukelig 
+
+Det betyr ikke at Marketplace er ubrukelig, slik noen synes å tro. 
+Du kan fint laste ned gratis-apper, og, ikke minst, du kan laste ned demoversjoner av betalapplikasjoner. 
+Den biten er det viktig å merke seg. 
+Så vidt vi kan se har nemlig alle apper en slik demofunksjon, og har dermed har vi kunnet prøve ut alt fra omfattende spill til tyngre kontorapplikasjoner. 
+
+Marketplace passerte forrige uke 3000 apper, men bærer fortsatt preg av å være i startfasen. 
+De tunge, gode killer-appene glimrer med sitt fravær - selv Amazons Kindle-app mangler -,men det bør være håp om at utviklerne får opp tempoet etterhvert, selv om enkelte allerede har kritisert Microsofts utviklingsplattform. 
+
+Det ryktes at Microsoft vil kjøre en godkjenningsprosess som ikke er helt ulik den strenge varianten vi kjenner fra Apple, og det er dermed uvisst om de vil tillate apper som er like radikale som mange av appene vi finner på Android-plattformen. 
+Vil vi for eksempel i nærmeste framtid finne noe ala "Tasker" i Marketplace? 
+
+Kategoriinndelingen er forøvrig velkjent, og innenfor hver hovedkategori har en de selvforklarende underkategoriene "top", "new", "free" og "categories". 
+Sistnevnte inneholder underkategorier der dette er tilgjengelig, som under "games" og "lifestyle". 
+Det gir fin oversikt over hva som finnes hvor, selv om Marketplace svikter på ett punkt: 
+
+Det er ikke mulig å spesifisere hvor du vil søke når du søker etter apper, og ettersom Marketplace også omfatter blant annet musikk, risikerer du søketreff på ting du overhodet ikke er interessert i. 
+Her bør Microsoft få på plass et søkefilter. 
+
+Mangler bakgrunnskjøring 
+
+En annen ting vi liker, men som enkelte kan komme til å mislike sterkt, er den helhetlige designmalen som veldig mange utviklere tydeligvis følger. 
+Hvor vidt dette er noe de tvinges til av Microsoft vet vi ikke, men det gir ihvertfall appene en forutsigbarhet som betyr at du vil gjenkjenne navigasjon og oppførsel på tvers av ulike apper. 
+
+Om WP7 kommer til å ta i bruk multitasking slik vi finner det i for eksempel Android og Symbian, eller om det blir en kvasi-løsning ala det som finnes i Apples iOS der bare noen prosesser og ikke programmene som sådan kjører i bakgrunnen, er fortsatt uvisst. 
+Per i dag er bakgrunnskjøring i alle tilfelle ikke mulig, og det betyr på visse utfordringer for de av oss som har blitt vant med at ihvertfall noe skjer i bakgrunnen selv om vi svitsjer app. 
+
+Ringer mobilen mens du befinner deg i en app er sjansen stor for at denne starter fra begynnelsen av når samtalen er over. 
+Dette håper vi Microsoft prioriterer å løse raskt. 
+Moderne smartmobiler blir ikke fullt så smarte når visse programmer ligger på latsiden idet de ikke lenger er i forgrunnen. 
+
+Internet Explorer i førersetet 
+
+Like lite overraskende som at Apples nettleser Safari inkluderes med iPhone og iPad er det at Microsoft bruker Internet Explorer på nye Windows Phone 7. 
+Det dreier seg selvfølgelig om en spesialtilpasset mobilnettleser, men tatt i betraktning det dårlige ryktet IE har hatt tidligere gjør mobilutgaven en utmerket jobb. 
+
+Flash viser den derimot ikke, og pussig nok har ikke Microsoft engang funnet plass til sin egen plug-in-teknologi, Silverlight. 
+Det betyr blant annet at nett-TV fra NRK ikke fungerer hvis du bruker statskanalens vanlige nettsider. 
+Det er forsåvidt ikke så ille, atskillig verre er det at heller ikke mobilutgaven klarer spille av NRKs programtilbud. 
+Alt en får opp er en feilmelding ("Unsupported address"), og det er det. 
+
+IE er på den annen side hurtig, den tegner stort sett opp de sidene vi har besøkt riktig, den fokuserer på riktig del av nettsida når du dobbelttrykker på en bestemt seksjon eller sak, og den er svært enkel i bruk. 
+
+Sosiale medier på ett sted 
+
+I tråd med teorien om at vi alle snart lever våre liv utelukkende gjennom sosiale medier, og at et tradisjonelt sett autentisk liv i marka eller i bilen eller på bedriftsfotballbanen ikke får betydning får du har formidlet det gjennom en statusoppdatering, har Microsoft forsøkt å samle dine forbindelser i én app. 
+
+"People" inneholder først og fremst de ferskeste aktivitetene mellom deg og dine kontakter, enten det er via telefon eller Facebook. 
+Kontaktene som finnes i telefonboka di kan integreres med venner på Facebook og kontakter fra for eksempel Gmail, og du kan søke gjennom kontaktlista for raskt å ta kontakt med den du måtte ønske. 
+
+Du får også en rask oppdatering fra nyhetsstrømmen fra Facebook, og du kan selv poste nye statusoppdateringer. 
+
+Denne sosiale samlingsplassen er en god idé, men føles noe uforløst i første versjon. 
+Det skjer heller ingen oppdateringer i bakgrunnen (jfr. det vi skrev om bakgrunnskjøring tidligere i artikkelen). 
+Det ligger likevel et stort potensiale her, ikke minst hvis en etterhvert også kan samle andre sosiale tjenester på samme sted. 
+
+Konklusjon: 
+Lukter det gull? 
+
+Det er først og fremst tre ting vi har bitt oss merke i etter noen dager sammen med Windows Phone 7. 
+Det første er at vi i møte med et helt nytt operativsystem aldri har måttet konsultere en manual. 
+Det er imponerende, og det sier mye om hvor mye arbeid Microsoft har lagt i å "folkeliggjøre" det som tidligere var et operativsystem for nerder, forretningsfolk og hardbarka Microsoft-entusiaster. 
+
+Det kan selvfølgelig bety at de samme folka vil skyve WP7 fra seg fordi det ikke er dypt nok eller konfigurerbart nok, men all ære til Microsoft for at de tør velge side. 
+
+Det andre vi har lagt merke til er at det ikke er vanskelig å forstå hvorfor Windows Phone 7 har glidd inn i Norge uten særlig fanfare fra Microsofts side. 
+Joda, mobiler med WP7 er nå til salgs, men har det ikke vært påfallende få annonser i norske papir- og nettaviser? 
+Jo. 
+Og det er naturligvis fordi WP7 ikke er i nærheten av å være norsk, og at altså Marketplace, selv om det fungerer på vis, ikke er noen fullverdig app-butikk for norske brukere. 
+
+Det tredje er at WP7 åpenbart er jomfruturen. 
+På samme måte som både iOS fra Apple og Android fra Google var knappheten selv da de først ble lansert, spesielt hvis en sammenlikner med dagens utgaver, skal vi gi Microsoft en smule handlingsrom det første året. 
+For her er det faktisk mye som mangler, inkludert: 
+
+full tilgang til Marketplace for nordmenn skikkelig norsk tastatur norsk ordbok klipp og lim bakgrunnskjøring ikke mulig å samle programmer o.l. i kataloger begrenset støtte for bl.a. Google Calendar mange apps mangler tilstandslås ala iOS ikke mulig å legge inn annen søkemotor enn Bing som standardsøk i Explorer ingen enhetlig innboks ikke Flash eller Silverlight-støtte i nettleser kan ikke koble seg til skjulte trådløs-nettverk 
+
+Førsteinntrykk er naturligvis ikke alt, men av og til stemmer de forbausende bra. 
+Pusser Microsoft bort de fleste svakhetene i løpet av et år eller så kan dette bli virkelig bra. 

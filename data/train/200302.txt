@@ -1,0 +1,97 @@
+Nettverksdisk med fartsambisjoner
+Vi har testet Synology DS710+. 
+Her går det unna. 
+
+Såkalte nettverksdisker har i utgangspunktet ikke så veldig mange gode motargumenter. 
+De tar liten plass, er ofte enten helt stille eller svært støysvake, bruker minimalt med strøm selv når de står på, kan fungere som backup for flere familie- eller bedriftsmedlemmer, kan stå på samme sted kontinuerlig ettersom de er knyttet til nettet, du har tilgang til alle dokumentene dine fra hvor som helst i verden hvor det finnes nett, og etter hvert har det også blitt mulig å gjøre NAS-disker, som de også kalles, til multimediesentralen i stua. 
+
+Innholdsfortegnelse: 
+Tilkobling i en fei - kanskjeDen er rask! 
+Skuffende strømstyringMediehåndtering selv Geelmuyden.Kiese ville liktKonklusjon 
+
+Er Synology DS710+ verdt så mange tusenlapper? 
+På mange måter er den faktisk det, men det kommer an på hvilken leir du befinner deg i, og hvor løst pengene sitter. 
+
+Tilkobling i en fei - kanskje 
+
+På for- og baksiden finner du til sammen tre USB 2.0-porter, i tillegg til en gigabit Ethernet-forbindelse og eSATA-kobling. 
+Det gir rikelig med tilknytningsmuligheter til eksterne enheter, først og fremst harddisker, og skulle du være interessert i trådløsmuligheter er det i tillegg mulig å koble til en USB-pinne med Wlan (følger ikke med). 
+
+Merk at det ikke er vanlig å inkludere harddisk i NAS-pakkene, det er også tilfelle her. 
+Før opp noen ekstra kroner til på kjøpskontoen, med andre ord. 
+Den har til gjengjeld plass til to 2.5 eller 3.5-tommers disker, noe som blant annet gjør at den kan kjøre RAID0 og RAID1 - to synkroniserinsstandarder som muliggjør blant annet økt datasikkerhet og/eller økt lese- og skrivehastighet fra og til disk. 
+
+Skal du kjøre to disker stiger prisen ytterligere, og en basisløsning kommer fort opp i over 5000 kroner hvis du ønsker to terabytedisker på innsiden. 
+
+Det er svært enkelt å installere harddiskene, og du kan i tillegg bytte ut harddisker mens enheten er påslått. 
+
+Oppsettet begynner via et enkelt program som kjøres fra PCen eller Macen, og etter at DS710+ er funnet i nettverket, fortsetter konfigureringen via et web-grensesnitt. 
+Avhengig av nerdekompetansen din kan dette være alt fra en smal sak, til en litt tyngre utfordring. 
+For NAS-språket er fortsatt ikke i nærheten av å være like folkelig som et folkemøte under en valgkamp, og selv om det nok vil gå fint for de fleste å komme i gang med det grunnleggende (navn på enheten, administrering av kontoer og så videre), så kan de avanserte mulighetene gå deg hus forbi hvis du ikke leser deg opp litt. 
+
+For hva betyr egentlig "Pakkeadministrasjon"? 
+Ja, se det er det ikke alle som vet. 
+
+Her kan du uansett sette opp egen FTP-server, være vertsmaskin for nettsider, lage overvåkningsstasjon for video- og lydovervåkning av leiligheten (såkalt IP-kamera må kjøpes utenom), konfigurere egen epost-server, dele video-, lyd- og bildefiler, og kjøre programvare som for eksempel Squeezebox Server. 
+
+Og så videre. 
+
+DS710+ støtter også Time Machine, og du kan enkelt sette den opp som om den er en vanlig harddisk som brukes som destinasjon av Apples sikkerhetskopieringsprogram. 
+
+Med 1GB RAM og en 1.67GHz Intel AtomTM D410-prosessor er det ingenting å si på innmaten, noe vi merket raskt. 
+Responstiden er raskere på alle områder når vi sammenlikner med en av våre NAS-favoritter, Qnap TS-119, noe som merkes både ved tilgang til webgrensesnittet, hastigheten det tar å indeksere musikk med allerede nevnte Squeezebox Server, og, ikke minst, overføringshastigheten til og fra Macen. 
+
+Den er rask! 
+
+Med vår 3.5-tommers disk har vi oppnådd særdeles pene overføringstall ved kablet nettverkstilkobling (gigabit). 
+
+En fil på 4.83GB tok ett minutt og 37 sekunder å kopiere fra en MacBook Pro til NAS-disken, mens samme fil bare brukte ett minutt og 27 sekunder fra NASen tilbake til Macen igjen. 
+Det er raskt. 
+Snitthastigheten ender på cirka 51MB i sekundet til DS-710+, og rundt 57MB i sekundet fra Synology-disken. 
+
+Til sammenlikning hadde den forrige NAS-disken vi testet fra Qnap, SS-439, en overføringshastighet på henholdsvis 36 og 40MB i sekundet, mens TS-119, som vi har testet her, klarer relativt beskjedne 33MB/s og 31.5MB/s. 
+
+Det betyr at DS-710+ er nesten dobbelt så rask som TS-119 gitt de samme arbeidsbetingelsene. 
+Setter du to disker i RAID-modus skal du oppnå enda raskere hastigheter, forutsett at alle ledd i kjeden takler det. 
+
+(Artikkelen fortsetter under skjermdump-bildene!) 
+
+Alle slike nettverksdisker med to eller flere harddisker er avhengig av nedkjøling av både elektronikken i selve NASen harddiskene, og Synologys disk er ikke noe unntak. 
+Viftene er derimot noe av det roligste vi har hørt, og i løpet av vår testperiode har de aldri beveget seg over veldig stille-nivå. 
+
+Skuffende strømstyring 
+
+Vi liker også at det er mulig å utvide kapasiteten til DS-710+ med et ekspansjonschassis, DX-510. 
+Det koster riktignok like mye som hovedenheten, men du får til gjengjeld fem ekstra harddiskplasser, i tillegg til de to du allerede finner i 710+. 
+Det gir totalt sju disker i én pakke, og skulle du for eksempel drive en liten bedrift, eller være en av dem som later som om du driver egen bedrift, men egentlig bare laster ned altfor mye informasjon fra internettet, gir det en kapasitet på rundt 14 terabyte, gitt at alle inneholder en 2TB-disk. 
+
+En irriterende mangel ved Synology-disken er det likevel at det ikke er mulig å skru på disken til bestemte tider. 
+Det er derimot mulig å skru den av, men ifølge Synology er prosessorarkitekturen på 710+ (og større 1010+) slik at det foreløpig ikke er mulig å få til både av og på-timing. 
+
+OPPDATERT: 
+En nesten rykende fersk fastvareoppdatering har nå løst problemet med automatisk oppstart, dermed er ikke dette lenger noen innvending mot DS-710+. 
+
+Mediehåndtering selv Geelmuyden.Kiese ville likt 
+
+Hvis du lemper over videofiler, mp3-musikk, bilder og liknende, kan DS-710+ ta seg av mediefilene på ulikt vis. 
+Merk at den ikke har noen videoutgang som kan brukes til å koble den direkte i TVen, den fungerer mer som en - bokstavelig talt - mellomstasjon. 
+
+Det er for eksempel mulig sette opp en iTunes-server, slik at musikk og iTunes-kompatible videoer du har liggende på nettverksdisken kan spilles av rett fra alle maskiner i husstanden som har installert Apple-verktøyet. 
+
+Som vi allerede har nevnt er det også mulig å installere Squeezebox Server, som streamer musikk til Logitechs populære Squeezebox-produkter. 
+I bruk har vi merket betraktelig hastighetsforskjell sammenliknet med andre NAS-disker vi har testet fra Qnap, blant annet i forhold til hvor raskt du får tilgang til artist- og albumdatabaser, og hvor hurtig du kan navigere gjennom webgrensesnittet. 
+
+DS-710+ har på toppen av det hele såkalt DLNA/UPnP-støtte, som enkelt sagt betyr at du uten særlig trøbbel kan streame musikk, bilder og film til enheter som støtter denne overføringsstandarden. 
+Hvis ikke det skulle være nok kan de fleste medieavspillere, som for eksempel WD TV Live, knytte seg til 710+ uten dikkedarer og lese den, og altså innholdet, som vanlig harddisk. 
+
+Konklusjon 
+
+Så, er det mulig å gi noen konklusjon på spørsmålet i begynnelsen av denne artikkelen: 
+Er en nettverksdisk av dette kaliberet verdt 4000 kroner? 
+
+Svaret er at det vet du egentlig best selv. 
+Fordelen med Synologys NAS er blant annet at den tar svært liten plass, er støysvak, og at den bruker beskjedne strømmengder både i dvale og i aktiv tilstand. 
+
+Den er dessuten i stand til å gjøre de fleste jobbene en nettverksdisk forventes å gjøre i disse dager, og det med en hastighet som er imponerende, både hva gjelder dataoverføring og webgrensesnittet. 
+
+I et slikt perspektiv gjør DS-710+ seg fortjent til et anbefaltstempel. 

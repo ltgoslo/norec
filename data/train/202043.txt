@@ -1,0 +1,96 @@
+TEST:Huawei S7 mediebrett 
+
+iPad-konkurransen vil bli hardere og hardere, men Huawei S7 er ikke den største utfordreren. 
+
+Nettbrett-markedet ble strengt tatt erklært dødt og begravet for ganske mange år siden, først og fremst fordi teknologien ikke var moden nok til å flytte Windows over fra en kraftig PC til en altfor svak miniatyrversjon, men også fordi folk flest, de som skal finansiere herligheten, ikke fikk de såkalte tablet-PCene til å passe inn noe sted. 
+Hva skulle de egentlig bruke den til? 
+
+Så gikk det noen år. 
+Så lanserte Apple iPhone, en mobiltelefon med den inntil da beste berøringsfølsomme skjermen noensinne, og noen år etter at en anselig kundegruppe hadde 
+
+Innholdsfortegnelse:iPad er målestokkenIrriterende skjermIkke veldig elegantKresent batteriHurtig på visse områderKonklusjon 
+
+iPad er målestokken 
+
+Hvis vi maser mye om iPad i denne testen er det altså fordi den per nå er den suverene markedslederen, og strengt tatt det eneste mediebrettet som har vist hvor bra det kan gjøres. 
+Steve Jobs ser til å ha løst nettbrettkoden, og plutselig har både kjente og ukjente produsenter fått hastverk med å få ut en utfordrer til det som enn så lenge er mediebrettkongen. 
+En av disse er kinesiske Huawei, et blodferskt merke her til lands, men som med sine rundt 90.000 ansatte bør ha muskler nok til å gi Apple motstand. 
+
+S7 er en av de første mediebrettene med Googles Android-operativsystem i bunnen. 
+Den kommer med nestsiste offisielle versjon (2.1), og har akkurat samme fordel for de mange som allerede sitter med en Android-mobil som iPad hadde for iPhone-brukere: 
+Du vet umiddelbart hvor alt befinner seg. 
+
+På utsiden er forskjellen mellom S7 og iPad vesensforskjellig. 
+For det første er den sju tommer store skjermen langt mindre enn de 9.7 tommene du finner på Apples brett, mens designet er langt mer ordinært. 
+Wow-faktoren er med andre ord ikke helt den samme. 
+Du finner blant annet også minnekortplass (micro-SD), hodetelefonutgang, USB-kontakt, og seks knapper på fronten, tre på hver side av skjermen, hvorav en også fungerer som et mini-scrollhjul for de som ikke ønsker å bruke den trykkfølsomme skjermen. 
+
+Men hvorfor skulle du ikke ønske å bruke skjermen? 
+
+Irriterende skjerm 
+
+Da er vi allerede ved et av hovedankepunktene med Huawei S7: 
+Den bruker gammeldags skjermteknologi, som gjør at du må trykke på menyene eller tastene for at den skal registrere valgene dine, ikke bare berøre den slik som på iPad, eller mobiltelefoner som HTC Desire eller iPhone. 
+
+Det gjør brukeropplevelsen langt dårligere enn den burde vært. 
+Avstanden mellom trykk- og berøringsfølsomme skjermer føles bare lenger og lenger, og førstnevnte gjør blant annet at en stadig vekk kommer borti uønskede menyer eller lenker, og at en nærmest må føre fingeren tydelig fra topp til bunn hvis en ønsker å scrolle nedover en nettside. 
+
+Pussig nok kan du også ringe med S7. 
+Det er en bonus i form av at du, vel, kan ringe, men en svakhet fordi du ser ut som David med Goliat-mobil hvis du skulle finne på å bruke funksjonen i all offentlighet uten headset. 
+Det fungerer, men vi mistenker at de fleste vil styre unna ringefunksjonen. 
+
+Ikke veldig elegant 
+
+Oppløsningen på skjermen er respektabel (800 x 480 piksler), men bildekvaliteten framstår som altfor blass når en ser direkte på bildet. 
+Vrir en ørlite på skjermen øker kontrastnivået noe, men det er fortsatt ikke mulig å bli blendet av skjermen, verken i konkret eller overført betydning. 
+
+Videoavspilling, som garantert er noe brukere av mediebrett er opptatt av, tar seg derimot godt ut, selv om vi opplevde ørlite hakking på filer med høy oppløsning. 
+Android-operativsystemet er langt fra så ensartet som deler av Apples iOS4, systemet du finner i blant annet iPad og iPhone, noe som er både dets styrke og dets svakhet. 
+Vi lastet ned en alternativ spiller for å forsøke å spille av mkv-formatet, og selv om spilleren aksepterer formatet, blir oppløsningen for høy. 
+Dermed må videoen(e) uansett konverteres enten ned i oppløsning, eller over til et annet, mer spiselig format. 
+
+Mediehåndteringen er ikke fullt så elegant på Android enn på iOS 4, et ganske vesentlig poeng på det som i praksis blir et underholdningssenter i miniatyr, men en får stort sett jobben gjort. 
+Det er som nevnt enklere å få spilt av et bredere utvalg video- og musikkformater på Android enn på iOS4, uten at det betyr at du simpelthen kan dumpe over hva som helst på enheten. 
+Sjansen for at det faktisk funker uten konvertering er dog større her enn på iPad. 
+
+Kresent batteri 
+
+Batteritiden er en av tingene som virkelig har imponert med iPad. 
+Produsentløfter er ofte like mye verdt som gårsdagens nyheter og fisken du glemte å pakke inn kvelden før, men der iPaden faktisk ligger på rundt 10 timer per lading, og dessuten ikke mister kraft særlig raskere selv når en ser video eller spiller, leverer S7 langt dårligere levetid per lading. 
+
+Dette kan nok ha sammenheng med at Android er et operativsystem som, som vi allerede har nevnt, stiller krav til at brukeren holder oversikten over hvilke program som fortsetter å jobbe i bakgrunnen, men det skyldes også at den er knyttet til GSM-nettet. 
+Vi vet at 3G-versjonen av iPad også får redusert batterilevetid så lenge den jobber mot 3G-nettet, men likevel er de rundt 3-4 timene vi har fått ut av S7 til sammenlikning beskjedne. 
+
+Tatt i betraktning at skjermen og enheten som sådan er markant mindre enn hos den ene store konkurrenten som per i dag finnes på det norske mediebrettmarkedet, hadde vi kanskje forventet at det skulle gjenspeiles bedre på vektskåla. 
+Slik er det ikke helt. 
+Huawei S7 veier nøyaktig et halvt kilo, eller 180 gram mindre enn iPad. 
+Det er forsåvidt merkbart, men ikke så merkbart som vi hadde håpet. 
+
+Hurtig på visse områder 
+
+Likevel ligger den bedre i hånda enn iPad, først og fremst fordi den er smalere. 
+Det er betraktelig enklere å skrive på S7, ettersom bredden er såpass smal at grepet blir mer naturlig. 
+Det vil si, når jeg skriver betraktelig er det en liten overdrivelse, for det S7 vinner i smalhet, taper den på den allerede nevnte motstanden fra skjermen. 
+Her finnes ikke multitouch, og her finnes altså ikke berøringsfølsom skjerm, bare trykkfølsom. 
+Dermed merker du tidlig at hurtigskriving ikke er noe alternativ. 
+S7 klarer ikke henge med, og du må tvinge deg selv til å skrive langsommere. 
+
+På andre områder er S7 imponerende hurtig. 
+Websurfing viser at Huaweis mediebrett har potensiale, for her står den ikke mye tilbake for Apple-brettet. 
+Ulempen med den trykkfølsomme skjermen gir seg utslag også her, blant annet ved at du feilklikker på lenker når du skal scrolle (fordi du, igjen, må være tydelig når du scroller). 
+
+Et annet irriterende moment tilhører hjemmeskjermen, som det ikke er mulig å orientere til portrettformat. 
+Den fungerer bare i liggende modus. 
+Dette er sannsynligvis en Android-begrensning - vi så samme fenomenet da vi holdt Dells Streak mobiltablet i hånda for noen uker siden -, og vil forhåpentligvis være historie hvis/når S7 får neste versjon av operativsystemet. 
+
+Konklusjon 
+
+Har du lest testen så langt blir du ikke overrasket over konklusjonen: 
+Her er det for mange ting å sette fingeren på til at S7 kan anbefales som ditt første mediebrett. 
+
+Skjermen blekner kraftig sammenliknet med iPad, og når Huawei i tillegg har valgt trykkfølsom teknologi, og ikke berøringsfølsom, så blir navigasjonen knotete og irriterende. 
+Norsk pris på iPad er foreløpig ikke kjent, men hvis vi skal bruke differansen mellom norsk og britisk pris på iPhone 4, som i skrivende stund er null kroner, kan vi anta at rimeligste 3G-versjon havner på rundt 5000 kroner. 
+
+Da blir differansen mellom S7 og iPad cirka 1500 kroner, og med store innvendinger mot blant annet skjermkvalitet, touchteknologien og batterilevetiden er ikke en viss hurtighet, minnekortplass og Android alene nok til å forsvare prisen. 
+
+Mediebrettkonkurransen kommer til å bli hardere og hardere, men foreløpig behøver ikke Apple miste nattesøvnen. 

@@ -1,0 +1,44 @@
+500 GB fra Western Digital
+Det er flere disker på 500 GB fra forskjellige produsenter, som ligger i kø på testbenken. 
+Vi tester hva Western Digital har å tilby. 
+
+Western Digital var lenge vår favoritt blant disk-produsentene, og leverte rimelige, raske og svært stillegående disker. 
+Etter hvert har konkurransen blitt hardere, og forspranget har blitt innhentet av konkurrentene, spesielt på støy. 
+
+I dag er diskene generelt så støysvake i seg selv at det er på grensen av det praktisk mulige å måle støynivået utenom støytette laboratorier. 
+28 dBA oppgis å være støynivået på WD 5000 som vi har testet nå, dette innebærer i praksis at du må være noen desimeter unna i et stille soverom for å kunne høre at den spinner. 
+
+Når du monterer en disk i et kabinett blir saken straks en annen, da blir bildet mer komplisert. 
+Kabinettet kan fungere som en resonanskasse, og da blir det straks snakk om en helt annen lyd. 
+Har du hørt en akustisk stålstrengs-gitar og en elgitar (planke) uten forsterker så har du en viss peiling på forskjellen. 
+
+En harddisk opphengt i strikker eller annen akustisk død kobling til kabinettet gir svært lite støy. 
+I et kontormiljø vil det ikke være mulig å høre diskens bidrag gjennom all annen støy. 
+Det samme gjelder i de fleste hjem. 
+En stille dag på høyfjellet vil du kanskje registrere lyd på dette nivået. 
+
+Skrur du disken derimot rett i metallet, blir støybildet et helt annet. 
+
+Hvor rask er den 
+
+Ytelsen hos disker fra Western Digital har alltid vært svært god. 
+De har dessuten en egen klasse, WD er den eneste produsenten som tilbyr S-ATA disker som roterer med 10 000 RPM, i sin Raptor-serie. 
+De som vil ha den lille ekstra snerten installerer gjerne en Raptor som systemdisk, det gir litt kortere responstid her og der, og som bruker opplever man systemet totalt sett som raskere. 
+
+500 GB-disken roterer derimot med 7200 omdreininger, som alle andre 500GB-disker, og her må WD stort sett bite i gresset når vi sammenligner den med Samsung sin 500GB. 
+
+I snitt er WD 5 MB/sek langsommere på lesing, og nesten 8 MB langsommere på skriving. 
+
+Derimot er WD et snev raskere på aksesstid, med et knapt millisekund i snitt. 
+
+Også i burstmode ligger WD noe under Samsung, med 189 mot 225 MB/sek. 
+
+Konklusjon 
+
+Western Digital leverer en respektabel ytelse, men må se seg slått av Samsung sin utgave. 
+Vi snakker ikke om store forskjeller, og over tid vil tilstanden på disken, hvordan dataene ligger fordelt, bety mer enn den rå ytelsen på en ubrukt disk. 
+
+Temperaturen kom forøvrig opp i 44 grader med disken i "friluft" dvs. ikke montert i kabinett som kan lede bort varmen. 
+Det er helt akseptabelt og er innenfor deg vi kan karakterisere som håndvarmt - i betydningen at du kan holde den i hånden uten å brenne deg. 
+
+Neste disk i testen kommer fra Hitachi. 

@@ -1,0 +1,91 @@
+Compaq EVO N1020V
+Compaq bærbare PCer lever i beste velgående under HP. Compaq EVO N1020V er en rimelig maskin som gjør et solid inntrykk i økonomiklassen. 
+
+De billigste bærbare PCene er som regel utstyrt med mobilprosessor fra AMD, Celeron-prosessor (mobil eller desktop-utgave) eller Pentium 4-prosessor (desktop-utgave). 
+De mer avanserte Intel Pentium 4M og Pentium M-prosessorene er dyrere, og følgelig ligger også maskinene som regel høyere i pris. 
+Men også Pentium 4M-prosessorer blir billigere etter hvert, og 1,8 GHz-utgaven som sitter i Compaq EVO N1020V fra HP, gir i dag en fin kombinasjon av ytelse og pris. 
+
+LES OGSÅ: 
+
+(fortsetter under reklamen) 
+
+Godt utstyrt 
+
+Med denne modellen sikter HP seg inn på SMB-markedet, noe som gjenspeiles blant annet i moderat grafikkytelse, IrDA, 10/100 MB nettverkmodem og mulighet for å koble den til portreplikator (kontakt på undersiden). 
+Operativsystemet er da også Windows XP Professional (valgfritt norsk/engelsk). 
+
+Maskinen bør også appellere til studenter og hjemmebrukere, med blant annet DVD-spiller/CD-brenner, Firewire for f. eks videoredigering, samt 2 x 
+USB 2.0-porter for tilkobling av eksternt utstyr. 
+WLAN-antenne er også innebygd, men du må ha et WLAN-kort installert for å dra nytte av den. 
+
+Bakoverkompatibiliteten er sikret med blant annet innebygd diskettstasjon, parallellport og PS/2-port. 
+
+Utstyrsnivået ellers er rimelig bra, meget bra med tanke på prisen på produktet, med blant annet 256 MB DDR-SDRAM (maks 1 GB) og 30 GB harddisk. 
+Den er for øvrig utstyrt med en kurant 15" LCD-skjerm (en rimeligere 14,1"-utgave finnes også). 
+Skjermen har en oppløsning på 1024x768 punkter, som er perfekt for 14,1" store skjermer, men som godt kunne vært noe høyere på 15-tommeren. 
+I tillegg kan maskinen kobles til ekstern skjerm og TV. 
+
+Ikke for 3D-entusiaster 
+
+Grafikkløsningen er hentet fra ATI, og stjeler 32 MB fra internminnet i PCen. 
+3D-spillentusiaster blir neppe tilfredsstilt av løsningen, men for alle andre gir den mer enn god nok ytelse i de aller fleste situasjoner. 
+
+Morsomt er det også at maskinen er utstyrt med innebygde høyttalere i fronten av merke JBL. 
+De gir bedre lyd enn de fleste andre innebygde høyttalere, med ett unntak; Harman Kardon-høyttalerne i Satellite-serien fra Toshiba. 
+De er to-tre hakk bedre, og har i tillegg en bedre plassering (bak) 
+
+NB! 
+EVO N1020V finnes i en rekke forskjellige versjoner, og spesifikasjonene på forskjellige tilbud kan derfor avvike fra vårt testeksemplar. 
+
+Se tekniske data i oppsummeringsboksen for alle detaljene omkring maskinvaren. 
+
+Pent, konservativt design 
+
+EVO N1020V har et klassisk, pent design. 
+Kabinettet er i sort plast, med detaljer i grått. 
+Den er ikke spesielt liten, de ytre målene er 32,71 x 26,75 x 3,9 cm, og maskinen veier totalt 3,2 kg. 
+Det er nok i overkant for mange i de mest mobile miljøene, mens "normalgruppen" garantert ikke vil stille spørsmålstegn ved vekten. 
+
+Over tastaturet finner du programmerbare hurtigknapper (Compaq Easy Access Buttons), for å starte nettleser, epost, medieavspiller etc. 
+Her finner du også knapper for å justere lydnivået direkte, noe vi ser på som positivit. 
+
+Selve tastaturet er kvadratisk, og av OK kvalitet. 
+Vi likte den litt rue plasten som er benyttet på tastene, den bidrar til en stødig følelse under innskrift. 
+Tasteplasseringen ligger nært opp til et vanlig tastatur. 
+Linjeskift og mellomroms-tasten kunne med fordel vært litt større. 
+
+Pekeplaten akkompagneres av venstre/høyre museknapp, med en knapp i midten med fire akser for scrolling horisontalt og vertikalt i dokumenter og nettsider. 
+
+De minst brukte portene og kontaktene på baksiden beskyttes bak et fjærbelastet lokk, og løsningen kan sammenlignes med den du finner på en rekke Toshiba-PCer. 
+I utgangspunktet en god ting, men vær obs på at lokkene ikke tåler all verden av ytre påkjenninger. 
+
+Compaq-bærbare bruker å avgi lite støy, og EVO N1020V er intet unntak i så måte. 
+Selv under rimelig tung belastning vil du sjelden oppleve at viften i det hele tatt starter. 
+Meget behagelig, med andre ord. 
+
+Ytelse som forventet, overraskende batterilevetid 
+
+Når det gjelder ytelse, har vi allerede vært inne på grafikkytelsen. 
+Den duger ikke i de høyeste oppløsningene og høyeste detaljnivå i moderne 3D-spill, men det finnes langt svakere løsninger på markedet. 
+2D-ytelsen er derimot helt topp, og både DVD- og DivX-avspilling kjører uten noen tegn til svette. 
+
+Når det gjelder den øvrige ytelsen er den omtrent som forventet. 
+Lese- og skrivehastigheten til harddisken er under middels, for øvrig yter maskinen omtrent som andre med samme prosessor. 
+I klartekst betyr det mer enn nok kraft for alle vanlige, moderne PC-programmer og operativsystemer. 
+Liker du å kjøre mange programmer samtidig, kan du med fordel oppgradere minnet til 512 MB. 
+
+Morsomt også å se at ytelsestallene er omtrent identiske med en annen fin bærbar, utstyrt med Athlon XP 1800+ Mobile-prosessor, Packard Bell iGo 3481. 
+
+Batterilevetiden var overraskende god. 
+Maskinen "tok kvelden" først etter 3 timer og 38 minutter; et langt høyere tall enn HP selv går ut med. 
+Det er uansett godt over snittet i denne klassen. 
+
+Se Tekniske data i oppsummeringsboksen for detaljene omkring ytelse. 
+
+Konklusjon 
+
+Det begynner å bli et godt utvalg av kraftige PCer med bra utstyrsnivå i 10-12.000-kroners klassen. 
+Compaq EVO N1020V er utvilsomt et av de aller beste kjøpene du kan gjøre i denne klassen akkurat nå. 
+Den skiller seg ut fra de andre maskinene vi har testet i denne klassen, med blant annet større skjerm, mulighet for portreplikator og Windows XP Professional installert. 
+
+Når vi legger til at PCen har lang batterilevetid og er spesielt støysvak, er det ingen tvil om at Compaq EVO N1020V må bli vår nye testvinner i økonomiklassen. 

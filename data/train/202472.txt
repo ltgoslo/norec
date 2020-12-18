@@ -1,0 +1,212 @@
+Genialt fra Toyota
+Etter å ha testet Toyota Prius Plug-in Hybrid oppleves "normale" biler som latterlig gammeldagse. 
+
+Vi er blant dem som har skrytt mye av tredje generasjon Toyota Prius, som ble lansert her i landet i fjor høst. 
+Takket være et svært avansert og meget velfungerende samarbeid mellom en spesiell bensinmotor, et stort batteri og en elektromotor, kan Prius III skilte med et forbruk på 0,39 liter bensin per mil. 
+Dette innebærer et CO2-utslipp på bare 89 gram per kilometer. 
+
+Globalt - og lokalt 
+
+Men Prius er ikke bare en god nyhet for det globale miljøet. 
+Fordi Prius har bensinmotor - og ikke en dieselmotor - er den også svært snill mot det lokale miljøet den ferdes i. 
+For det første inneholder ikke Prius-avgassene de skadelige PM-partiklene overhodet, for det andre er utslippene av nitrogenoksid (NOx) ekstremt lave, nærmere bestemt 0,0058 gram per kilometer. 
+
+Til sammenligning slipper en splitter ny dieselmotorisert Toyota Avensis sedan ut 0,14 gram NOx per kilometer - rundt 24 ganger så mye. 
+Og Avensis er overhodet ikke blant de verste NOx-forurenserne på markedet. 
+
+Elektrisk drift 
+
+Ikke nok med det. 
+Prius kan nemlig også skilte med en EV-knapp (Electric Vehicle). 
+Når føreren trykker på denne, vil Prius - avhengig av aktuell batterikapasitet - kunne kjøres på ren batteridrift inntil 2 kilometer, for eksempel i kø. 
+I elektrisk modus er Prius like lokalmiljøvennlig som en elbil. 
+Det betyr at den ikke belaster miljøet med lokal forurensing overhodet. 
+
+Kommer i 2012 
+
+Men Toyota har selvsagt ikke tenkt å gi seg med det. 
+Japanerne er allerede i full gang med utviklingen den neste Prius-utgaven; Prius Plug-in Hybrid. 
+Toyota har faktisk kommet så langt i prosessen at 600 førproduksjons-eksemplarer de siste ukene er sendt rundt omkring i verden. 
+Tre av dem er nå på plass i Norge, og DinSide har - som første norske medium - fått mulighet til å gjøre en fullverdig test av bilen. 
+Planen er at Prius Plug-in Hybrid skal lanseres for fullt i 2012. 
+Den vil imidlertid ikke erstatte Prius III, men skal i stedet selges parallelt med dagens utgave. 
+
+20 kilometer på strøm 
+
+Plug-in Hybrid kan oversettes med "ladbar hybrid" og innebærer at bilen kan lades via det ordinære strømnettet. 
+Takket være nye batterier med langt større kapasitet enn dagens, kan derfor Prius Plug-in Hybrid kjøres drøye 20 kilometer som en ren elbil. 
+
+20 kilometer innebærer at en stor andel av verdens urbane befolkning vil kunne kjøre både frem og tilbake til jobb på strøm - uten at bilen trenger å starte bensinmotoren. 
+Og har man lademuligheter på arbeidsplassen, blir det mulig å kjøre helelektrisk også for den som har inntil 20 kilometer å kjøre hver vei. 
+Avhengig av temperaturforhold og grad av utlading, tar det ifølge Toyota mellom 1 time og 1 time og 45 minutter å fullade batteriet. 
+
+Funker i praksis 
+
+Vår erfaring tilsier at Toyota ikke overdriver når de hevder at bilen har 2 mil rekkevidde på et fulladet batteri. 
+Vi oppnådde i hvert fall drøye 23 kilometer ved bykjøring med klimaanlegg aktivert. 
+
+Når batterikapasiteten er oppbrukt, fungerer bilen i praksis som en "ordinær" Prius. 
+Det vil si at bremseenergi løpende ledes til batteriet, som i neste omgang mater en elektromotor med energi. 
+Elektromotoren kobles så inn ved behov, noen ganger alene, andre ganger i kombinasjon med bensinmotoren. 
+
+Bensinmotoren vil vanligvis kuttes ved full stopp, for eksempel i lysskryss eller i stillestående kø. 
+Igangsetting foregår sømløst og mykt fordi batteriet og elektromotoren har så gode ytelser at de ikke er avhengige av å vente på at bensinmotoren skal starte. 
+
+Dobbel forbruksmåling 
+
+Før vi oppgir de imponerende forbrukstallene Prius Plug-in kan skilte med, bruker vi et par setninger på å forklare hvordan disse tallene er regnet ut. 
+I motsetning til normale biler, har nemlig Prius Plug-in vært gjennom EU-testsyklusen to ganger; én gang med fulladede batterier og én gang med tomme. 
+De oppgitte forbrukstallene reflekterer gjennomsnittet av de to målingene. 
+
+0,26 liter per mil 
+
+Hvilke tall endte så Prius Plug-in opp med? 
+Jo, et forbruk på latterlig lave 0,26 liter per mil. 
+Det betyr at vi nesten snakker om fire mil per liter bensin. 
+Oversatt i CO2-utslipp innebærer forbruket imponerende lave 59 gram. 
+Til sammenligning oppgir Toyota 0,39 liter og 89 gram for dagens Prius. 
+
+Her skal det selvsagt understrekes at forbrukstallene vil bli høyere på langtur, fordi effekten av det fulladede batteriet da vil bli relativt liten. 
+Samtidig vil bilen altså kunne skilte med et forbruk på 0,0 liter per mil forutsatt at kjøreturen er kortere enn 20 kilometer. 
+
+Og dermed forstår vi logikken bak den spesielle testsyklusen Prius Plug-in måles etter. 
+
+Ny batteriteknologi 
+
+Hvordan har Toyota klart å skape en bensinbil med et forbruk på bare 0,26 liter per mil? 
+Jo, for det første er nikkelmetallhydrid-batteriet (Ni-Mh) som sitter Prius III, er erstattet av tre litiumion-batterier (Li-ion); et hovedbatteri og to "sub-batterier". 
+
+Hvert enkelt batteri har en kapasitet 1,7 kilowatt-timer (kWh), til sammen 5,1 kWh. 
+Når den medfølgende kabelen plasseres i stikkontakten, som er lokalisert på høyre forskjerm, lades alle de tre batteriene helt opp. 
+Med utgangspunkt i en kraftpris på rundt 1 krone (leveranse + kraft) koster hver lading omkring en femkroning. 
+
+Enda mer effektiv regenerering 
+
+Dermed er det klart for rundt 20 kilometer i EV-modus (Electric Vehicle). 
+Når de to "sub-batteriene" er tømt, tar disse imidlertid "pause" til neste kabel-baserte lading. 
+Toyota har valgt å gjøre det slik at kun hovedbatteriet tar i mot lading fra bilens egen generator under marsj. 
+
+Likevel er evnen til å regenerere bremseenergi ytterligere forbedret. 
+Dette blant annet fordi hovedbatteriet har en kapasitet på 1,7 kWh, 0,4 kWh mer enn Ni-Mh-batteriet i Prius III. 
+Dermed har Prius Plug-in i hybrid-modus (HV) et enda større innslag av elektrisk drift enn Prius III. 
+
+Varmepumpe-teknologi 
+
+I tillegg ligger det haugevis av andre teknologiske endringer og forbedringer i Prius Plug-in. 
+Av plasshensyn har vi dessverre ingen mulighet til å gå nærmere inn på alle disse. 
+Vi må imidlertid nevne at Toyota har tatt i bruk varmepumpe-teknologi. 
+Varmepumpen produserer både kupévarme (ned til - 2 grader) og kupékjøling. 
+Varmepumper har den egenskapen at de produserer varme og kulde langt mer energieffektivt enn andre tilgjengelige teknologier. 
+
+Ved svært lave temperaturer (-2 til -15 grader) overtar imidlertid en PTC-varmer (Positive Temperature Coefficient). 
+Skulle det bli enda kaldere, så startes bensinmotoren. 
+Denne varmer opp kjølevæsken, som i neste omgang varmer kupeen. 
+
+50.000 kroner i påslag? 
+
+Prius III koster i dag mellom 264.000 og 339.000 kroner, avhengig av utstyrsnivå. 
+Hva vil egentlig Prius Plug-in komme til å koste når den kommer på markedet i 2012? 
+Dessverre vil den sannsynligvis bli betydelig dyrere enn en ordinær Prius. 
+Et grovt anslag fra importøren antyder et prispåslag på rundt 50.000 kroner. 
+Størsteparten av dette påslaget skyldes svært dyr batteriteknologi. 
+
+Men med et CO2-utslipp på bare 59 gram vil da vel Prius Plug-in få god hjelp av det norske avgiftssystemet? 
+Jo, en viss CO2-avgiftsfordel får den. 
+Men fordi den grunnet større batterier og mange nye komponenter veier 1.500 kilo, 130 kilo mer enn Prius III, stiger samtidig vektavgiften. 
+Netto ender Prius Plug-in i dag bare opp med en avgiftfordel på drøye 9.000 kroner, noe som altså er altfor lite til å veie opp for kostnadene knyttet til all den nye teknologien. 
+
+Gratis lade-parkering? 
+
+Nå er det imidlertid fullt mulig at bilavgiftssystemet vil bli revidert til Prius Plug-ins fordel innen den kommer på markedet. 
+Det er også mulig at bilen i likhet med elbiler vil få tilgang til gratis parkering på kommunale plasser med lademulighet, noe som i tilfelle vil bli et incitament for potensielle kunder. 
+
+Det er imidlertid ingen ting som tyder på at fremtidige Prius Plug-in-eiere vil nyte elbil-privilegier som generell fri kommunal parkering, fri passering av bomstasjoner og mulighet for å kjøre i kollektivfeltet. 
+
+Enda mindre lasterom 
+
+I tillegg til økt egenvekt er det også knyttet et par andre ulemper til Prius Plug-in. 
+Li-ion-batteriene tar nemlig mer plass enn dagens Ni-Mh-batteri, noe som gir et høyere lasteromsgulv. 
+Dette går i neste omgang selvsagt på bekostning av lasteromsplassen, som allerede i utgangspunktet er en Prius-svakhet. 
+Volumet reduseres ifølge Toyota fra 445 til 403 liter. 
+Samtidig målte vi en maksimal høyde - rett bak seteryggene - på beskjedne 59,5 centimeter. 
+Dette er synd; hadde Prius hatt et større lasterom ville den nemlig ha vært et mer aktuelt alternativ også for barnefamilier. 
+For benplassen i baksetene er meget god. 
+
+I tillegg øker 0-100-tiden fra 10,4 til 11,4 sekunder. 
+Når det er sagt, må det understrekes at Prius Plug-in i likhet med Prius III oppleves som en sprek bil både fra stillestående og ved akselerasjon i fart. 
+
+En mer tungtveiende ulempe er det imidlertid at det heller ikke for Prius Plug-ins vedkommende vil bli mulig å få hengerfeste. 
+
+Fremtiden 
+
+Vi er imidlertid villige til å se gjennom fingrene med disse og andre mindre svakheter når det gjelder Prius Plug-in. 
+Vårt totalinntrykk er nemlig at dette er en imponerende bil, både fra et teknologisk og et brukermessig synspunkt. 
+Prius Plug-in evner nemlig i enda større grad enn Prius III å få "normale" biler til å fremstå som steinalderske. 
+
+Når du kjører Prius kan du i likhet med skiløpere og syklister glede deg til nedoverbakkene. 
+Da ser du via det kule displayet at batteriet fylles opp, noe som gir deg mulighet til å kjøre på strøm når du kommer til bunnen av bakken. 
+Og dermed vil du klare å senke forbruket ytterligere. 
+
+Motiverende grafikk 
+
+I det hele tatt har Toyota vært særdeles dyktige i å lage grafiske grensesnitt som i så stor grad motiverer til å kjøre miljøvennlig, at det går sport i det. 
+I Prius Plug-in har det kommet til enda flere motiverende elementer, blant annet en graf som viser fordelingen mellom EV-drift (elektrisk) og HV-drift (hybrid). 
+Dermed motiveres man til å lade bilen via strømkabelen så ofte som mulig. 
+
+I tillegg har det kommet et skjermbilde inne i navigasjonen som viser den langsiktige Plug-in-effekten. 
+Bildet viser et landskap og hvis eieren kjører økonomisk over måneder og år, vil bildet sakte men sikkert fylles opp av blomster, trær, dyr og fugler. 
+
+Samtidig gir det en helt spesiell følelse å se en kjørecomputer som viser et snittforbruk på 0,15 liter per mil (etter rundt 32 kilometer med utgangspunkt i fulladet batteri). 
+
+Genialt 
+
+Alt dette bidrar til at vi nok en gang - etter å ha testet en Prius - sitter igjen med følgende tanker: 
+Dette er jo genialt. 
+Hvorfor er det bare Prius som virkelig utnytter all den overflødige energien som oppstår i alle nedoverbakker og ved alle nedbremsinger? 
+Hvorfor er det bare Honda som har klart å lage en Prius-konkurrent? 
+Hvorfor er ikke alle de andre bilprodusentene på banen for lenge siden? 
+Første generasjon Prius ble tross alt introdusert i 1997 - for 13 år siden. 
+
+Samtidig er bilen - all teknologien til tross - særdeles lettkjørt. 
+Den bittelille automatgirspaken er forbilledlig lettbetjent og det spesielle, todelte bakvinduet gjør bilen svært enkel å rygge. 
+
+Forbedringspotensial 
+
+Bilen vi har kjørt er altså en førproduksjonsbil, noe som innebærer at det godt kan hende vi vil se endringer i den endelige produksjonsbilen. 
+
+Og vi håper faktisk på et par endringer. 
+For eksempel ønsker vi den nevnte EV-knappen vi kjenner fra Prius III. 
+Denne knappen sørger for at Prius-eiere aktivt kan velge hel-elektrisk drift når de selv ønsker det, for eksempel i tett bytrafikk eller når man kommer hjem sent på kvelden. 
+Av ukjente årsaker har Toyota valgt å fjerne EV-knappen i Prius Plug-in. 
+Det betyr at føreren ikke selv kan velge fritt når vedkommende ønsker å disponere de "elektriske" kilometrene. 
+
+Flere indikatorer 
+
+Vi ønsker oss også to batteri-indikatorer, én som viser situasjonen for alle de tre batteriene når disse er ladet via stikkontakten og en egen for hovedbatteriet som lades under drift. 
+
+I dag har Prius Plug-in i likhet med Prius III kun én indikator. 
+Resultatet er enkelte merkverdigheter. 
+Som at indikatorene viser 8 av 8 streker når batteri-rekkevidden er drøye 20 kilometer - og 4 av 8 streker, altså halvparten, når det bare er snaue 3 kilometer igjen. 
+
+Samtidig opplevde vi det som en frustrerende faktor at det under hybriddrift ikke er mulig å komme opp i mer enn 3 av 8 streker. 
+
+Med en egen "EV-indikator" kunne Toyota vist en lineær synkende trend for den totale batteripakken etter lading. 
+Så kunne en egen "HV-indikator" gitt føreren gleden av å se alle 8 strekene - etter å ha klart å fylle hoved-batteriet ved hjelp av supereffektiv kjøring og noen nedoverbakker. 
+
+Bremsene fungerer 
+
+Etter flere mer eller mindre troverdige historier basert på underlige opplevelser med Toyotaer, deriblant et par Priuser, benyttet vi selvsagt anledningen til å forske litt på dette feltet. 
+Blant annet gjorde vi en rekke forsøk der vi trykket gasspedalen i bunn, samtidig som vi bremset med venstrefoten. 
+Dette gjorde vi en rekke ulike hastigheter og med ulik tyngde på bremsefoten. 
+Det vi opplevde - uten unntak - var at bilen helt udramatisk bremset ned med den hastigheten vi indikerte med bremsepedalen. 
+
+Konklusjon 
+
+Det geniale med Prius Plug-in er at byborgere rundt omkring i verden i stor grad vil kunne bruke den som en ren elbil - uten å bidra med lokale utslipp overhodet. 
+Hvorfor da ikke kjøpe en elbil i stedet? 
+Jo, av to årsaker. 
+For det første fordi Prius Plug-in i motsetning til en elbil også kan brukes på langtur til Vestlandet, Nord-Norge eller Frankrike. 
+Og fordi Prius - i motsetning til elbilene på markedet i dag - kan frakte fem personer. 
+Samtidig som den altså er særdeles gjerrig og klimavennlig også i ordinær hybriddrift. 
+
+Vi venter med andre ord spent på at Prius Plug-in Hybrid settes i produksjon i 2012. 

@@ -1,0 +1,79 @@
+Asus RT-AC68U
+Antagelig verdens raskeste trådløse ruter akkurat nå. 
+Men ikke under alle forhold. 
+
+De raskeste trådløse løsningene hører til i avdelingen for de litt mer spesielle variantene. 
+Da snakker vi om to toppspekkede AC-rutere som snakker direkte med hverandre, eller mellom en ruter og en nettverks/mediebro. 
+Stiller du med en mobil enhet, enten det er en bærbar PC, nettbrett eller mobil, så er du alltid et godt stykke unna i ytelse. 
+
+Slike løsninger har sin misjon, de kan erstatte kabel mellom to bygninger eller mellom to etasjer, med et nettverk av maskiner på hver side av forbindelsen. 
+
+Men du kan altså ikke regne med å få samme ytelse mellom din bærbare og en ruter, selv om den er den raskeste på markedet. 
+
+Dette med standarder ... 
+
+Asus RT-AC68U er den raskeste ruteren fra Asus, og dette skyldes teknologien fra Broadcom. 
+Den er ikke Asus alene om, også Netgear har lansert en ruter bygget på de samme brikkene. 
+
+Men når vi snakker om topphastighet er det, som med det meste annet, ikke uten at visse forutsetninger er på plass. 
+
+For at topphastigheten skal kunne oppnås må både sender og mottaker støtte alle egenskapene og varianter av protokollene. 
+Det er det svært lite utstyr som gjør, og i skrivende stund er det bare mellom to slike rutere, med den ene satt opp som nettverksbro, at man får optimal teoretisk brutto hastighet på opptil 1300 Mbps. 
+
+Også på 2,4 GHz båndet har Asus noen ekstra triks i ermet. 
+Eller rettere sagt, Broadcom, som er produsenten av brikkesettet. 
+De har bygget inn støtte for det de kaller TurboQAM. 
+Dette er en teknikk for å få mer informasjon ut av hver svingning i signalet. 
+Du kan lese mer om dette i denne artikkelen. 
+
+Med TurboQAM moduleres 2,4 GHz signalet i 40 MHz båndbredde på samme måte som 5 GHz på 80 MHz båndbredde i 802.11ac-standarden. 
+Dermed får de tynt ut teoretisk 600 Mbps i stedet for 450 Mbps. 
+
+Men dette krever at både ruter og klient støtter alle disse parameterne. 
+
+Dermed er altså AC1900 ytelsesmessig forbeholdt rutere med dette brikkesettet. 
+I hvert fall foreløpig. 
+
+Design og tilkobling 
+
+Ruteren kommer i en utførelse vi kjenner igjen fra tidligere modeller, med sitt karakteristiske rutenettmønster i sort plast. 
+Den er laget for å stå, det er ingen andre alternativer. 
+Antennene stikker ut på topp, her er det ikke gjort noe for å skjule at dette er en trådløs ruter. 
+
+Tilkoblingene er de vanlige WAN pluss 4 x LAN alt med Gigabit ytelse, men nytt er både en USB 2.0 og en USB 3.0 på baksiden. 
+Her kan du koble til lagringsutsyr som deles av brukerne på nettverket. 
+
+En annen nyvinning er teknisk sett svært banal, men ikke desto mindre svært velkommen: en bryter på baksiden som slår av alle LED-lysene. 
+Det blinker jo ellers blått hele tiden, noe som er mer sjenerende enn praktisk når ruteren står på et sted hvor den er synlig. 
+
+På siden finnes knapper for kjapp tilkobling med WPS og for å slå av/på det trådløse nettet. 
+
+Installasjon 
+
+Er du tilfreds med standardinnstillingene er det bare å koble til ruteren og starte den opp. 
+Vil du endre på innstillingene går du gjennom en veiviser og setter passord, nettverksnavn og nye passord. 
+Vil du gå i dybden har du alle muligheter ved å velge manuell modus. 
+
+Grensesnittet er det samme som Asus har brukt det siste året og er oversiktlig og funksjonelt. 
+
+Ruteren er også rask til å oppdatere egne innstillinger. 
+
+Ytelse 
+
+Siden det fremdeles ikke finnes klienter som støtter hele repertoaret for denne ruteren, har vi testet med Intels 7260-nettverkskort med to antenner/strømmer (AC) og med Intels forrige toppmodell (ikke AC) 
+N-6300. 
+
+Ytelsen er definitivt i toppklasse, men likevel et godt stykke unna de optimale hastighetene som oppnås når ruter og klient med 100% støtte står rett ved siden av hverandre. 
+Da er det vel streng tatt heller ikke behov for noen trådløs forbindelse .... 
+
+Det kan altså fremdeles være mye å hente med en 3-antenners klient som Intel N-6300, spesielt på 2,4 Ghz. 
+
+Konklusjon 
+
+Asus RT-AC68U er antagelig den raskeste ruteren på markedet i skrivende stund. 
+Men foreløpig får man ikke særlig glede av dette før klientene kommer på banen. 
+Det ser ut til å ta lengre tid enn vi trodde tidligere i år. 
+
+Når en del av superytelsen i tillegg er forbeholdt utstyr som ennå ikke finnes og blir litt på siden av standardene kan man jo kanskje se det litt an. 
+
+Asus RT-AC68U 

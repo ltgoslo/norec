@@ -1,0 +1,122 @@
+Samsung Galaxy:Test av Android-mobilen 
+
+En helt glitrende Amoled-skjerm og Android på innsiden. 
+Dette lukter gull. 
+
+Det er på høy tid at Apples iPhone får reell konkurranse, og nå som Android-mobilene begynner å rulle ut i butikkene er det bare å følge med – for nå lanseres godsakene på rekke og rad. 
+
+Men hva menes med Android? 
+
+Android er kort fortalt navnet på mobilens operativsystem (OS), og det er Google som står bak nyvinningen. 
+Målet er selvsagt å stjele markedsandeler fra Apples suksesshistorie iPhone, hvor mobilen styres via trykkfølsom skjerm – samtidig som brukeren kan fråtse i ulike programmer og applikasjoner via App Store. 
+
+Androids versjon av App Store heter Android Market, og gir deg altså samme muligheten til å utvide mobilens kapasitet med ekstra innhold (gratis og betalt). 
+Android har for øvrig to store jokere i ermet: 
+De stiller (visstnok) ikke så strenge krav til utviklerne, både når det gjelder form og type innhold som gjøres tilgjengelig for brukerne. 
+I tillegg klarer Android-mobilene fint å kjøre flere programmer samtidig (multitasking), en mulighet som fortsatt er kraftig begrenset på iPhone. 
+
+Sånn, det var teorien. 
+Det store spørsmålet er jo om Galaxy holder mål. 
+
+Godt førsteinntrykk 
+
+Det ubeskjedne navnet Galaxy gir i hvert fall meg positive assosisasjoner, og på papiret er det lite å klage over: 
+
+En Amoled-skjerm på 3,2-tommer (320X480 pixler), en standard minijack-inngang for hodetelefoner, MicroUSB-tilkobling, og ikke minst 8 GB internminne - som i tillegg kan utvides med et 32 GB minnekort. 
+Vi noterer også at Galaxy er den eneste Android-mobilen med 5 megapiksel-kamera, og som forventet er både wlan, super-3G og GPS-mottaker på plass. 
+
+Det største minuset, på papiret, er at Exchange-støtte ikke er lagt inn i mobilen, men heldigvis finnes det omveier (mer om dette lenger ned). 
+
+Design og en liten overdose knapper? 
+
+Under skjermen finner du for øvrig seks fysiske taster (litt avhengig av hvordan du teller). 
+Etter litt tilvenning fungerer de helt ok, selv om de fleste funksjonene like gjerne kunne blitt utført ved å trykke rett på skjermen. 
+
+Samsung har alltid vært glad i pianolakk, og fornekter seg heller ikke her. 
+Det gjør mobilen skinnende blank, men også svært mottakelig for flekker og fingermerker. 
+Omtrent som iPhone altså. 
+Selve skjermen tålte vårt nøkkelknippe overraskende bra (det var ikke meningen, Samsung), og til tross for plast i chassiet har den en tyngde som inngir tillit. 
+
+Dette liker jeg 
+
+Amoled-skjermen er rett og slett glimrende, og er den beste vi har sett på en Android-mobil hittil. 
+Fargene er krystallklare, og ikke minst er lysstyrken svært god – selv når du har den på middels. 
+
+Den trykkfølsomme skjermen er også berøringsfølsom på linje med HTC Hero og iPhone 3GS – altså av den kapasitive typen. 
+Dette er en klar fordel kontra den litt eldre, trykkfølsomme utgaven som du blant annet finner på HTCs budsjettmodell Tattoo, der du må legge mer markant vekt på fingertrykkene for å få respons. 
+
+Vi noterer likevel at du fortsatt må trykke litt hardere enn på iPhone, men dette er en vanesak og noe du kommer raskt inn i. 
+
+Android i bruk 
+
+Galaxys hovedbilde viser snarveiene til standardprogrammene. 
+Du har totalt tre skjermbilder tilgjengelig (dra skjermen til høyre eller venstre for å veksle), som du kan fylle med favorittprogrammer 
+- widgets - og sortere i den rekkefølgen du vil. 
+
+(Merk deg at HTC Hero gir deg hele syv skjermbilder, mens du her altså må nøye deg med tre. 
+I min bok er ikke dette noe stort problem, men for de ivrigste nedlasterne der ute kan det jo være et poeng.) 
+
+Vil du flytte et program fra hovedmenyen til et av skjermbildene er det bare å holde fingeren på programnavnet, og dra det over. 
+Dette fungerer bra. 
+
+Programmer laster du som nevnt ned fra Android Market, og dette er enkelt og greit. 
+Vi liker også at du kan laste ned flere programmer og applikasjoner samtidig, og underveis ser du nedlastingsstatusen øverst i skjermen. 
+Praktisk og brukervennlig altså. 
+
+Men dette liker vi ikke 
+
+Skuffende nok mangler Galaxy-programvaren (for PC) støtte for Windows 7, enten det gjelder 32- eller 64-bits versjonen. 
+Dette gjør altså at du ikke har noen nytte av den medfølgende programvaren, Samsung New PC-studio. 
+
+Dette bør være unødvendig i 2009, og selv om Samsung har lovet at en fiks vil bli lagt ut på nettsidene deres, har vi trukket for dette. 
+
+Vi synes også Galaxy automatisk burde dukke opp som en egen enhet på PC-en når vi koblet den til. 
+Det gjør den imidlertid ikke, for først må du gjennom disse punktene: 
+
+• 
+Når du plugger i USB-kabelen kommer det opp ”USB-tilkoplet” øverst i mobilskjermen • 
+Ta tak i den og dra ned rullgardinen • 
+Trykk på koble til • 
+Trykk så på montere • 
+Først nå dukker mobilen opp som egen enhet på PCen. 
+
+Heller ikke dette er like brukervennlig som vi skulle ønske. 
+
+Vi gir også Galaxy trekk for at den ikke leveres med norsk ordbok, for selv om du velger norsk språk er det altså engelske ord som blir foreslått. 
+Heldigvis kan du laste ned norske ordbøker fra Android Market som løser biffen, men dette burde vært standard. 
+
+Mens Gmail fungerer svært bra på Galaxy, så mangler den altså Exchange-støtte, noe som er litt masete hvis du i likhet med oss har en jobbkonto som bruker denne standarden. 
+Heldigvis kan også Exchange-støtte lastes ned fra Android Market, men siden det er flere alternativer å velge mellom ble det mye prøving og feiling før vi kom i mål. 
+
+Til slutt fant vi imidlertid Roadsync som fungerte brillefint, og ikke minst: 
+Var svært enkelt å sette opp. 
+Her ble både mail, kontakter og kalender-data lastet ned uten problemer. 
+
+Selv valgte vi manuell oppdatering, men den skal også være Push-klar. 
+Roadsync koster nå cirka 10 dollar, men du kan prøve fullversjonen gratis i 14 dager før du bestemmer deg. 
+Våre erfaringer var i hvert fall gode. 
+
+Har du forslag til andre eller bedre programmer er det bare å dele det med oss i diskusjonsgruppen nederst. 
+
+Kamera og musikk 
+
+Galaxy har altså et 5 megapiksel-kamera med fotolampe, noe som det per dags dato bare er Hero som matcher 
+
+Til tross for at vi savner en ordentlig blitz fungerer kameraet helt ok. 
+Det tar likevel fortsatt for lang tid fra du trykker på utløseren til bildene blir tatt til at den kan konkurrere med de rene kameramobilene. 
+
+Eksempelbilder tatt med mobilen får du ved å trykke på lenkene: 
+
+Musikk-spilleren fungerer også helt ok, og vi liker som sagt at du kan bruke dine egne hodetelefoner uten å måtte ty til en adapter-ledning. 
+Det er både praktisk og bra for lydkvaliteten. 
+
+Konklusjon 
+
+Økt konkurranse sikrer at både Apple og Googles operativsystemer utvikler seg raskere enn om Apple hadde sittet på haugen alene, så personlig ønsker jeg Android velkommen med åpne armer. 
+
+For Samsung Galaxy gjør mye som er svært bra: 
+Samtalekvaliteten har vi ingenting å utsette på, den jobber raskt, har en nydelig skjerm og Android gir deg utallige muligheter. 
+
+For at den skulle fått en femmer burde imidlertid Windows 7-støtte, norsk ordbok og Exchange vært på plass. 
+
+Alt i alt ender vi likevel opp på en sterk firer på grunn av alle mulighetene du får via Android, og hvis ikke utseendet på Hero faller i smak er det denne Androiden du bør kjøpe akkurat nå. 

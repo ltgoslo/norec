@@ -1,0 +1,88 @@
+Multicom Kunshan P150
+Snakk om ulv i fåreklær! 
+
+Nettbutikken Multicom ligger på Åmli utenfor Arendal, og har 22 ansatte. 
+I skrivende stund er Multicom Norges eneste produsent av bærbare PC-er. 
+Det vil si, de skrus sammen og tilpasses her, under eget merkenavn. 
+
+For få år siden var det mange her til lands som gjorde det samme, hvem husker ikke Cinet, Zepto og Tundra, for eksempel. 
+Nå er alle borte, men Multicom har funnet sin nisje, og kjører på for fullt med sine spillmaskiner. 
+
+Råtass i dress og slips 
+
+Og det er i sannhet en spillmaskin vi har hatt på testbenken, selv om man ved første, andre og tredje øyekast på maskinen tenker mer bedrift, dress og slips. 
+Men dette er i sannhet en ulv i fåreklær, noe vi merker så snart vi starter maskinen. 
+
+Men først tar vi en kjapp titt på noen av de viktigste egenskapene: 
+
+15,6" matt skjerm med full HD-oppløsning (1920 x 1080 piksler) Intel Core i7-2720QM firekjernet prosessor (Sandy Bridge) Nvidia GeForce GTX560M grafikkort med 1,5 GB minne 8 GB minne 500 GB harddisk, 7200 rpm DVI Dual Link og HDMI 1.4 skjermutganger Trådløst nettverk (a/b/g/n) Bluetooth Gigabit nettverk DVD-brenner for alle formater Fingeravtrykkleser4 stk USB-porter (2x 2.0 og 2x 3.0) 1 stk Firewire-kontakt 1 stk eSata-kontakt S/PDIF digital lydutgang 2 megapiksels webkamera Minnekortleser (MMC/MS/SD) 
+Levert med Windows 7 Home Premium 64 bits 376 x 256 x 35~43mm (BxDxH) 3,1 kg Pris denne konfigurasjonen 13.382 kroner Pris starter på 11.869 kroner (uten OS) 
+
+Dette er uten tvil blant de best utstyrte bærbare vi har hatt på testbenken, ikke minst hører skjerm med full HD-oppløsning, Dual Link DVI (muliggjør høyere oppløsning enn full HD på ekstern skjerm) og fingeravtrykkleser til sjeldenhetene. 
+
+Legger vi til den kraftige prosessoren og grafikkortet, er det ingen tvil om at det er gamerne Multicom først og fremst henvender seg til. 
+
+Rent designmessig er maskinen temmelig anonym. 
+Innpakning i mørkt grå, matt plast - uten fartsstriper, symboler og lys, gjør dette til en ulv i fåreklær, som appellerer til langt flere enn til hardbarka gamermiljøer. 
+
+Maskinen har en slags gumiert overflate som er svært motstandsdyktig mot fingeravtrykk, og det setter vi pris på. 
+En annen ting vi liker er at strømkontakt, skjermutganger og eSata-tilkobling sitter i bakkant. 
+Å slippe disse (tykke) kablene på siden, ser vi på en som stor fordel. 
+
+Skjermen er lyssterk og fin, og det er en sann befrielse å jobbe (og spille) mot en matt skjerm som ikke reflekterer alt og alle. 
+Spesielt når du sitter med ryggen mot vinduet, og når skjermbildet er mørkt, kan blanke skjermer være et stort problem. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Tastaturplaten er fast og fin, og tastene responsive. 
+De avgir litt lyd under skriving, men ikke noe i nærheten av hva som kan kategoriseres som støy eller skrangel. 
+Tasteplasseringene er fornftige, returtasten bred og høy - i det hele tatt er dette et godt tastatur å skrive på. 
+
+Og nevnte vi at ÆØÅ-tastene er markert med KUN ÆØÅ? 
+Ett av veldig får helnorske tastaturer akkurat nå. 
+
+Windows som opsjon 
+
+Vårt testeksemplar kom med ferdig installert og konfigurert Windows 7. 
+Men i motsetning til 9 av 10 PC-er som selges, kommer den uten "crapware", det vil si prøveversjoner av programvare fra tredjepartsleverandører som fungerer som rene reklamekampanjer, gjerne med tilhørende sprettoppvinduer i hytt og vær. 
+Det kan hende du sparer noen kroner på at maskinen kommer med dette, men vi foretrekker defintivt et "rent" oppsett som på denne maskinen. 
+
+Og hvis du har Windows-lisens fra før kan du få maskinen levert uten - og spare 500 kroner. 
+
+Oh-la-la for en ytelse 
+
+Windows er ferdig lastet på 30 sekunder. 
+Det er raskt, men vi tør vedde på at det ville gått dobbelt så raskt med en potent SSD innabords. 
+Maskinen kan leveres med inntil 600 GB SSD i stedet for harddisk, så mulighetene er definitivt til stede for den som vil ha enda raskere maskin. 
+
+Men rask - det er den uansett. 
+Windows egen opplevelsesindeks gir oss følgende pekepinn, og i tabellen under har vi sammenlignet mot MSI GT680R - som er den raskeste maskinen vi har testet før vi fikk Kunshan P150 på testbenken: 
+
+Multicom bedre på tre av fem punkter, altså, men ytelsestestene til Passmark gir mer kjøtt på benet, og hvis vi holder oss til de to maskinene fortsatt, får vi følgende forskjeller: 
+
+MSI knuser Multicom på diskytelse takket være at den har to disker i RAID, men har også vesentlig raskere minne. 
+Men prosessoren er ganske mye raskere på Multicom-maskinen. 
+Ytelsen under praktisk bruk behøver derfor totalt sett ikke være særlig stor mellom de to maskinene. 
+Det er i hvertfall ikke noe vi var i stand til å oppdage. 
+
+Hvis vi sammenligner prosessoren i denne PC-en med andre PC-er i prisklassen rundt 12.000 kroner, ser vi at ytelsen ligger helt i toppklassen: 
+
+Også grafikkløsningen biter godt fra seg, og understreker at dette er en PC som definitivt bør tas med i betraktningen hvis spilling er i din interesse. 
+Nok en gang har vi sammenlignet med andre PC-er til rundt 12.000 kroner: 
+
+Batterilevetiden er imidlertid ikke allverden, men det hadde vi heller ikke forventet. 
+Høyytelsesmaskiner er sjelden veldig strømgjerrig, naturlig nok. 
+I diagrammet under har vi sammenlignet levetiden mot de to naturlige konkurrentene MSI GT680R og Asus G73S: 
+
+Konklusjon 
+
+Kunshan P150 framstår som en solid maskin med høyt utstyrsnivå og ytelse som ligger helt i toppen i denne prisklassen. 
+
+Vi har funnet få ting å sette fingeren på, det måtte være at viftene opptrer litt nervøst, noe som kan oppleves som forstyrrende om du sitter i svært stille omgivelser, og at batterilevetiden ikke er dens sterkeste side. 
+Det tror vi imidlertid ikke betyr allverdens for målgruppen, og derfor kroner vi maskinen ganske enkelt med terningkast 6. 
+
+Ytelse i toppen altså, men for hvor lenge? 
+Senere i sommer skal vi blant annet se nærmere på toppmodellen fra Alienware - som ifølge Dell skal være den raskeste maskinen på planeten. 
+Følg med! 
+Husk også å få med deg de andre PC-ene vi har testet i det siste. 
+
+Takk til Multicom for utlån av maskinen. 

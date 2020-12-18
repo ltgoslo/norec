@@ -1,0 +1,74 @@
+HP Slate 7
+Et brett helt uten wow-faktorer. 
+Men rimelig, det er det. 
+
+Nettbrett selger i bøtter og spann. 
+Veksten hos for for eksempel Elkjøp er på flere hundre prosent de siste to årene. 
+
+Det er imidlertid ikke alle brett som selger like mye, og salgslisten hos den nevnte leverandør viser mye det samme bildet som vi ser også andre steder: 
+Apples iPad selger best, fulgt at Samsungs Galaxy Tab. 
+Alle de andre kjemper om noen ganske få prosent av markedet. 
+
+Virker avventende 
+
+Og det er kanskje ikke så rart at aktører som for eksempel HP ikke har særlig markedsandel å slå i bordet med. 
+Selskapet, som for inntil kort tid siden var verdens største PC-produsent, virker nemlig ikke å ta helt på alvor at nettbrett-markedet øker kraftig. 
+I skrivende stund har HP kun to rene brett i markedet; Elitepad (Windows 8) og Slate 7 (Android). 
+
+Og det er lite ved Slate 7 som tyder på at HP vil noen steder med nettbrettsatsingen sin. 
+Ser vi bort fra den tøffe, knallrøde baksiden (finnes også i sølv) og den blanke HP-logoen er det nemlig ikke så mye med Slate 7 som vi ikke har sett før, i bøtter og spann. 
+
+Dette er hva du får 
+
+Som navnet mer enn antyder er det snakk om en brett med 7 tommer skjerm, med en temmelig bred kant rundt. 
+Brettet er dessuten ikke veldig tynt med sine 10,7 mm, vekten på 381 gram er akseptabel. 
+
+Operativsystemet er ikke uventet Android, og det er versjon 4.1 HP har satset på her. 
+Det er ikke den aller siste versjonen, men aktuell nok. 
+Foruten en app som setter brettet i kontakt med HP-skrivere på nettet ditt er det i bunn og grunn en helt ren Android-implementasjon. 
+Det synes vi ikke er noen ulempe. 
+
+Skjermoppløsningen er kun 1024 x 600 piksler, noe som ikke gir den aller beste skarpheten. 
+Skjermen er heller ikke spesielt lyssterk, og kan oppleves som litt blass i mange sammenhenger. 
+Den har riktignok noe bedre kontrast når du ser den rett forfra enn fra siden, noe som ikke nødvendigvis er noe stort problem, men som viser at dette ikke er noe state of the art-brett. 
+
+På innsiden sitter en ARM Cortex-A9-prosessoren med to kjerner på 1,6 GHz. 
+Arbeidsminnet (RAM) er på 1 GB, og du har 8 GB med lagringsplass (5,74 GB tilgjengelig). 
+Dette kan heldigvis utvides takket være et microSD-spor (inntil 32 GB). 
+Tilkobling til PC skjer via microUSB-porten nederst, og slik lader du samtidig brettet. 
+
+Trådløs kommunikasjon besørges av WLAN (802.11 b/g/n) og Bluetooth (2.1). 
+
+Slik er den i bruk 
+
+For øvrig har brettet to kameraer, hovedkameraet tar bilder bestående av tre millioner bildepunkter. 
+Kvaliteten er som ventet av den mer beskjedne typen. 
+Her er noen eksempler: 
+
+Ytelsesmessig er det også helt greit. 
+Det lugger litt i de tyngste nettsidene, videoavspilling, musikk og enkle spill går det helt fint med, tyngre spill vil brettet slite med. 
+Det er som forventet på et billig-brett. 
+
+Hva så med lyden? 
+Beats Audio-implementasjonen skal gi bedre lyd, hevder HP. 
+I praksis dreier implementasjonen seg om noen kvalitetskrav med hensyn til komponenter og støynivåer, men mest om fremheving av bass og diskant. 
+Effekten kan skrus av og på (tre forskjellige nivåer), og lydforbedringene oppleves ofte som svært store. 
+Det er fordi at "av" ikke er ensbetydende med et nøytralt lydbilde, men at bass og diskant er nedjustert i forhold til mellomtonene. 
+
+Det er med andre ord slett ikke sikkert at lyden er noe bedre på brett, mobiler og PC-er som har implementert Beats Audio-teknikken. 
+Lyden i den interne høyttaleren på Slate 7 er imidlertid dårlig, både med og uten Beats Audio påslått. 
+
+Batteritiden er også veldig gjennomsnittlig, fem timer med videoavspilling er helt greit, men et stykke bak de beste. 
+
+Kort oppsummert 
+
+Det er ikke så mye annet å si om dette brettet enn at det er et rimelig brett som gjør det det skal, uten noe som helst wow-faktor. 
+Det har vi kanskje ikke lov å forvente i denne prisklassen. 
+
+Det vi imidlertid bør kunne forvente er at HP tar nettbrettmarkedet mer på alvor og velger en mer innovativ og spenstigere linje neste gang. 
+
+Det finnes mange brett i denne prisklassen nå, og vi vil betegne Google Nexus 7 som vesentlig bedre, og Acer Iconia B1 som et brett som bør vurderes - ikke minst fordi det koster under 800 kroner nå. 
+
+På siden finnes også Asus sin Memopad til omtrent samme pris og med dobbelt så mye minne. 
+
+HP Slate 7 8GB 

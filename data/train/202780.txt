@@ -1,0 +1,81 @@
+Samsung SpinPoint F1 750GB
+Nå får du harddisker på 750 GB til under tusenlappen - vi har sett på Samsungs F1-modell. 
+
+Samsung er kjent for sine stabile og rimelige harddisker, og for omtrent et år siden så vi nærmere på SpinPoint T166, også kjent som HD501LJ. 
+Denne disken, med en kapasitet på 500 GB, 16 MB hurtigminne og pris på omtrent 1.300 kroner, var både rask, stillegående og fornuftig priset. 
+
+I dag kan du få denne harddisken til under 700 kroner i visse nettbutikker. 
+
+I stedet er det nå harddiskene på 750 GB som vaker rundt tusenlappen, og i den anledning har vi sett litt nærmere på en slik disk ved navn SpinPoint F1. 
+De to største modellene (750 GB og 1 TB) får du med et hurtigminne (også kjent som hurtigbuffer eller cache) på hele 32 MB, og det er altså denne vi har testet her. 
+
+Samsung SpinPoint HD753LJ 
+Familie: 
+F1 Desktop Class Kapasitet: 750 GB RPM: 7200 Cache: 32 MB Grensesnitt: 
+SATA/300 Antall plater: 
+3 Kapasitet per plate: 250 GB Format: 3,5" 
+
+I tillegg er tettheten på selve lagringsplatene i F1-klassen kraftig forbedret i forhold til forrige generasjon disker. 
+T-klassen har en maksimumskapasitet på 167 MB per plate, mens HD753LJ som du ser har en platekapasitet på 250 GB. 
+
+Alt i alt forventer vi altså et merkbart hopp i ytelse fra vår gamle T166. 
+
+Målinger 
+
+Gjennomsnittlig lesehastighet: 
+74.3 MB/s Gjennomsnittlig skrivehastighet: 61,5 MB/s Aksesstid: 
+14,1 ms 
+
+I HD Tach sprinter først vår F1 av gårde med en lesehastighet på mellom 80 og 90 MB i sekundet, men innover platen dabber farten som vanlig av. 
+Skrivehastigheten er mer ujevn, men den store hurtigbufferen gjør at den holder farten oppe. 
+
+Sammenligner vi med den eldre 500-gigabyteren ser vi økning både i lese- og skrivehastighet, men det er førstnevnte som virkelig merkes. 
+Her gjør Samsung et hopp fra 65 MB/s, altså en økning på ti megabyte i sekundet. 
+
+Klikk bildet til høyre for å få sammenligningen i større format. 
+
+En annen ting som er interessant her er hvordan SpinPoint HD753LJ kan måle seg mot turbodisken Raptor 150 GB fra Western Digital. 
+
+Målt på samme maskin gir Raptoren oss disse resultatene: 
+
+Gjennomsnittlig lesehastighet: 77,9 MB/s Gjennomsnittlig skrivehastighet: 49,8 MB/s Aksesstid: 
+7,8 ms 
+
+Raptoren har altså en langt jevnere kurve, men hastigheten er ikke lenger imponerende når vi sammenligner med den nye SpinPointen. 
+Likevel har den langt lavere aksesstid, og det er selvfølgelig en stor fordel ved praktisk bruk. 
+
+Det samme ser vi i HD Tune (SpinPoint til venstre): 
+
+PCMark05 tester diskene på en annen måte, og simulerer oppstart av operativsystem, åpning og lukking av programmer, kombinerte lese- og skriveoperasjoner og så videre. 
+Alle verdier er i MB\s. 
+
+Her er det ingen tvil - WD Raptors lave aksesstid gjør at den fremdeles er en vinner som systemdisk. 
+
+For ren sekvensiell lesing og skriving er det derimot et annet bilde. 
+Spesielt 
+F1 gjør det sterkt her. 
+
+Støy, varme og vibrasjon 
+
+F1 en relativt stillegående harddisk. 
+Den hveser kanskje en tanke mer enn forgjengeren T166 500 GB, men du må være svært nærme disken for å merke forskjell. 
+Lyden er nøytral og uten pipetoner eller annet som kan irritere. 
+"Knatringen" som kommer ved flytting av lese/skrivehodet er også svært dempet og kan knapt høres uten at du legger øret inntil disken. 
+
+Varmeutviklingen er innen normalen for denne typen disker, og faktisk et par grader lavere enn T166. 
+
+Når det gjelder vibrasjoner merkes dette godt, og har du et spinkelt kabinett kan nok dette forplante seg og lage ekstra lyd. 
+Egnet oppheng anbefales altså til denne disken. 
+
+Oppsummering og konklusjon 
+
+Samsung SpinPoint F1 750GB er en stillegående disk med høy lese- og skriveytelse, og for hvermansen vil den gjøre en god jobb både som lagringsplass eller systemdisk. 
+
+Er du på den annen side litt mer enn normalt opptatt av ytelse er den ingen erstatning for en Raptor eller lignende som systemdisk. 
+Men som en sekundær harddisk for å holde spill, film, musikk og så videre er den meget godt egnet. 
+
+Til slutt nevner vi at terabyte-versjonen av F1 har like mange plater som denne på 750 GB, men tettheten er høyere. 
+Med hele 334 GB per plate kan du altså forvente deg enda bedre ytelse av den på 1 TB. 
+Men belag deg også på å betale nesten det dobbelte av hva en HD753LJ på 750 GB koster. 
+
+Prisen på HD753LJ varierer forresten en del, men er i skrivende stund å få tak i til under tusenlappen i visse nettbutikker. 

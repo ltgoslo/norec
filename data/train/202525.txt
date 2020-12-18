@@ -1,0 +1,62 @@
+Netgear N600
+Ett hakk under toppmodellen - hva skiller? 
+
+For to år siden testet vi WNDR3700 som er forgjengeren til N600/WNDR3800. 
+Det var også en ruter som sendte på begge frekvenser. 
+
+Dagens N600 er svært lik av utseende, og bygger videre med disse funksjoner: 
+
+Spesifikasjoner: 
+
+802.11n Dual band 2,4 GHz og 5 GHz4 Gbit nettverksporter - 1 WAN portIPv6 støtte300+300 MbpsQoSDLNA media streamingUSB lagring eller printingTilgang til USB-lagringsenhet via apper på iPhone eller AndroidBrytere for av/på av trådløst og strøm 
+
+Ruteren er i svart, blank plast og er svært monteringsvennlig. 
+Den kan ligge flatt, henges på veggen i begge retninger med kryssåpninger på undersiden eller stå på en fot. 
+
+Tilkobling 
+
+I motsetning til andre rutere kommer ikke Netgears nyeste rutere med noen CD med programvare som sørger for å sette i gang installasjon. 
+Du skal bare slå av modemet, koble til ruteren, koble den til PC med nettverkskabel og starte en nettleser. 
+Så venter du litt og så skal ruteren og nettleseren begynne å snakke sammen. 
+Hvis dette ikke skjer av seg selv, eller man blir for utålmodig, kan man skrive "routerlogin.net" i adressefeltet på nettleseren, så skal det etableres kontakt. 
+Og det gjorde det. 
+
+Du kan så velge assistert oppsett med Netgear Genie - den nesten automatiske konfiguratoren - eller mauell innstilling. 
+Genie fant ikke ut av Telenor sin ADSL bruker PPPoE, så vi måtte inn og velge de riktige parameterne "for hånd". 
+Når det var gjort gikk alt videre i den skjønneste orden. 
+
+Netgear Genie har både Grunnleggende og Avansert modus, og du kan også få den i norsk språkdrakt. 
+
+Standardinnstillingene er utmerkede, du trenger egentlig bare bytte passord så er du i gang. 
+Men mulighetene for å tilpasse ruteren er omfattende. 
+Noe vi la merke til er at topphastigheten til 2,4 GHz var satt ned til 130 Mbps som standard. 
+Har du en moderne PC med tilsvarende trådløst nettverkskort og gode antenner får du ikke full hastighet før du setter denne opp til 300. 
+På den annen side legger du mindre beslag på båndbredde i dekningsområdet hvis du justerer den ned. 
+Har du ikke trådløse klienter som klarer 300 Mbps er det bortkastet. 
+
+Forøvrig byr N600 på gjestenett både på 2,4 GHz og 5 GHz, som i utgangspunktet ikke gir adgang til annet enn Internett. 
+Du kan imidlertid åpne for dette, og også for at flere gjester kan dele filer seg i mellom uavhengig av ditt eget nettverk. 
+
+Ruteren har også en omfattende foreldrekontroll hvor du kan filtrere netttjenester og nettsteder basert på en lang rekke elementer. 
+Du kan også selv velge blant nøkkelord som "nakenhet", "sex", "våpen" osv. 
+
+Du kan også slå av og på det trådløse nettverket til faste tider, i tillegg til den manuelle knappen på forsiden. 
+
+USB-tilkoblingen støttes i Netgears ReadySHARE, og kan brukes til deling av lagring på USB-disk eller minneplugg, du kan også dele en skriver. 
+Du kan også få tilgang til denne lagringen via Internett, det finnes også apper til iOS og Andoid. 
+
+Ytelse 
+
+Netgear N600 støtter som navnet sier 2 trådløse datastrømmer på tilsammen 600 Mbps. 
+Dette innebærer 4 strømmer på 150 Mbps, 2 i 2,4 GHz området og 2 i 5 GHz området. 
+
+Dette gir meget gode hastigheter, både med 2 og 3 antenner hos klientene, både på 2,4 GHz og 5 GHz. 
+
+Ikke minst rekkevidden er god, begge de nyeste Netgear-ruterne vi har testet er overlegne på rekkevidde, og de eneste som klarte å gi dekning på 5 GHz fra mønet til kjelleren i vår bolig på 2-etasjer pluss hems. 
+
+Sammenligner vi med toppmodellen N900 som har totalt 6 strømmer mot N600 sine 4 strømmer, ser vi at N600 ligger noen hakk under, spesielt når du har en klient med støtte for 3 antenner. 
+
+Konklusjon 
+
+Netgear N600 er en svært avansert, men likevel brukervennlig ruter med et omfattende repertoar av tjenester. 
+Både hastighet og dekning er utmerket, helt i toppklasse for rutere i denne prisklassen. 

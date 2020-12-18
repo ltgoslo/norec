@@ -1,0 +1,98 @@
+Acer Aspire 5600
+Bestykket med kun det nødvendigste, pluss et webkamera, er dette en fin bærbar fra Acer med grei ytelse. 
+Vi har klådd litt på den. 
+
+Denne fine sommeren vier vi altså en del av vår oppmerksomhet til bærbare datamaskiner. 
+Fra vår sammeligning tidligere denne måneden har vi nå kommet til den maskinen som fikk flest stemmer av dere lesere: 
+Acer Aspire 5600, eller 5601AWLMi som vår modell så fint og enkelt heter. 
+
+LES OGSÅ: 
+
+Ingen store overraskelser i designet. 
+Helt klart en Acer. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2050 @ 1,60 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne 80 GB harddisk (5400 rpm) 8x DVD dual-layer DVD/CD-brenner ATI Mobility Radeon X1300 (128 MB minne) 54 Mbps WLAN (a/b/g) GB LAN + modem 3 x USB, lyd inn/ut 1 CardBus kortplass 5-in-1 kortleser: SD, MMC, xD, MS/PRO VGA ut Integrert 1,3 Mp webkamera Operativsystem: 
+Windows XP Home Dimensjoner (B/D/H): 36,4 x 27,8 x 4,0 cm Vekt 2,7 kilo Pris: 
+8.999,- kr inkl. mva. 
+
+Alle tekniske data finner du her! 
+
+Dere som er sånn noenlunde våkne vil legge merke til at denne PCen IKKE har tv-ut og mangler firewire. 
+Dette trenger jo ikke å bety problemer, men for noen vil det være nok til at denne bærbare ikke fremstår som en seriøs kandidat. 
+
+Prosessoren er en litt atypisk sak. 
+Normalt sett tusler Core Duo-prosessorene av gårde på en 667 MHz på systembussen, mens T2050 er lagd for 533 MHz (eller, alt ettersom du ser det, skulle vært en T2300 men som ikke klarte 667 MHz...). 
+Uansett, dette legger den altså etter et system med en T2300 i ytelse. 
+
+15,4 tommeren på Aceren er en blank (såkalt CrystalBrite på acersk) bredskjerm, med en oppskriftsmessig oppløsning på 1280 x 800 piksler. 
+Kvalitetsmessig var det initielt noe som skurret. 
+Fargene var riktignok mer levende enn på for eksempel Tundraen vi nettopp testet, men teksten på skrivebordet virket diffus og blass. 
+Til slutt fant vi synderen: 
+"Clear Type" under metode for kantutjevning av skjermskrifter (Egenskaper for Skjerm --> Utseende --> Effekter) var slått på som standard. 
+Det er det absolutt ingen grunn til; det er bare å slå den av. 
+Skjermens betrakningsvinkelen er forøvrig verken spesielt bra eller dårlig. 
+
+Konstruksjon 
+
+Aspire 5600 virker... litt myk. 
+Plasten har ganske enkelt litt svikt når vi bender litt på den. 
+Det er jo i og for seg ikke noe galt i det, men går vi tilbake til skjermen så blir dette lett et problem. 
+Riktignok sitter den godt hengslet (litt for stramt, faktisk), men det skal ikke mye press til på baksiden av skjermen før det synes på LCD-panelet. 
+I det hele tatt virker det som Aceren bør behandles med litt forsiktighet, men dette burde jo for øvrig gjelde for alle bærbare. 
+Designet er som nevnt helt typisk for Acer: sort, sølv og rund i kantene. 
+
+Touchpaden i bredformat er følsom og god og en av de de bedre. 
+Den har i tillegg til usynlig skrollefelt i begge retninger også en senterknapp som kan tippes opp/ned og sidelengs. 
+Tastaturet er behagelig, lydsvakt og har en helt ok layout. 
+
+Aspire 5600 har tilkoblinger foran, bak og på høyre side. 
+Venstre side er satt av til DVD-brenneren. 
+
+Bak har vi altså strøminntaket, en USB-port, LAN og modem. 
+På høyre side bak (ikke avbildet) er det plass til en kensington-lås. 
+
+Ut- og inntak for lydkilder er plassert foran, og minnekortleseren finner vi også her. 
+Til høyre for den igjen er det knapper for blåtann av/på (som jo ikke virker siden denne modellen ikke har blåtann) og trådløst nett av/på. 
+
+Høyresiden har PCIMCA, 2 x USB og VGA-ut. 
+I tillegg kommer varmluften ut her. 
+
+God nok til det meste 
+
+Vi sammenligner naturlig nok Aspire 5600 med Tundra 1032X, og i tillegg Dell Inspiron 6400. 
+
+Prosessorytelse i sekunder, lavere er bedre. 
+Som forventet legger Aceren seg litt under Dellen, og identisk med resultatene fra testen av Tundraen ser vi at Pentium M kun sjefer under MP3-koding. 
+
+3DMarks og PCMarks: høyere er bedre. 
+Tundraens 
+Go 6600 er ingen fair fight mot et stakkarslig ATI X1300, så er du tung på spillingen er dette et klart bedre valg. 
+Men ser vi forbi grafikken er Aceren en bedre maskin på de fleste andre områder. 
+
+Batteritid i minutter. 
+Seks og en halv for Inspiron 6400, tre og en halv for Tundra 1032X og to timer for Aspire 5600. 
+Acer selv oppga batteritiden til nærmere 3 timer, men det er altså ikke i nærheten av det vi målte selv. 
+
+Aspire 5600 er en rolig maskin, på tross av at vifta går kontinuerlig når den først har blitt varm. 
+Egentlig har en helt ok lydsignatur som drukner i bakgrunnsstøyen på kontoret, men du hører den når du er i nærheten i et rolig rom. 
+Den blir heldigvis heller ikke så varm som Aspire 5672. 
+
+Acers OrbiCam er et lite kamera på 1,3 megapiksler som sitter øverst på skjermen. 
+Det kan snus til å ta bilde eller film av det som er foran skjermen like greit som bak, slik at du nokså diskret kan ta bilder av alle de lekre gutta på cafeen. 
+Kvaliteten, spesielt i dårlig lys, er ikke noe å rope hurra for, men stort sett er vi ikke direkte misfornøyde heller. 
+
+Konklusjon 
+
+Acer Aspire 5600 er en gjennomført maskin, og styrken ligger på mange måter i at den ikke har noen direkte svake sider. 
+Den kan kanskje ikke skilte med den beste ytelsen i sin klasse, men det er heller ikke så mye å trekke den for. 
+Kort sagt er det en god allrounder som duger like godt til lett spilling som surfing og skolearbeid, men utstyrsmessig ligger den nok litt under par. 
+
+Det som kanskje kan felle Aceren er batteritiden. 
+For noen er ikke dette noe tema, men andre igjen vil ha batterilevetid som holder. 
+For eksempel vil en Dell Inspiron 6400 til omtrent samme pris med et likt grafikkort (ATI X1300) og 9-cellers batteri ha en levetid på nærmere fem timer. 
+Men du må da belage deg på å dra med deg et par hekto ekstra i sekken, og webkamera følger heller ikke med. 
+
+Totalt sett er altså Aspire 5600 en helt kurant maskin som leverer varene, men ikke noe særlig mer heller. 
+Den får derfor en firer på terningen. 

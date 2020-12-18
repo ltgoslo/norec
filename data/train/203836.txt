@@ -1,0 +1,115 @@
+Her har Lenovo gjort svært mye riktig
+Den lekre Lenovo Yoga 730 byr på mye kraft i en meget kompakt innpakning. 
+
+Yoga-familien fra Lenovo har tidligere scoret meget bra i Dinsides tester. 
+Dette er såkalte 2-i-1-maskiner som med enkle håndgrep kan gjøres om til nettbrett. 
+Denne fleksibiliteten er også årsaken til navnevalget Yoga. 
+
+Oppdatert og oppgradert kjenning 
+
+Yoga 730 er oppfølgeren til fjorårets 720. 
+Det er langt flere likhetstrekk enn forskjeller på utsiden, men på innsiden har maskinen blitt utstyrt med åttende generasjon Intel Core i5/i7-prosessor. 
+Antall kjerner er økt fra 2 til 4, noe som gjør store utslag i ytelsen - spesielt i apper og programmer som til fulle drar nytte av flere prosessorer, samt til fleroppgavekjøring. 
+
+Maskinen kommer i en rekke forskjellige konfigurasjoner, med 13,3 og 15,6 tommer skjermer, og prisene starter på rundt 9.000 kroner. 
+
+Vårt testeksemplar med 13,3 tommer skjerm er å regne som en mellomvariant, og den koster rundt 11.000 kroner på testtidspunktet. 
+Se oppsummeringen nederst for dagens pris. 
+
+Vi rakk aldri å få testet forgjengeren, men ut fra beskrivelsene er 730 litt lettere, litt tynnere, har fått en ekstra USB-C-port med Thunderbolt 3-støtte - og så har den fått mikrofoner som kan fange opp tale fra inntil fire meters avstand. 
+Årsak? 
+Den kunstige intelligensen Cortana - som kan utføre oppgaver basert på stemmen din (støttes ikke på norsk ennå, dessverre). 
+Alternativet Alexa fra Amazon skal også støttes. 
+
+Kompakt og lett med god skjerm 
+
+Yoga 730 med 13,3 tommer skjerm er en temmelig kompakt maskin, med sine 30,6 x 21,6 x 1,4 cm og vekt på 1,19 kg. 
+Materialet aluminium, og PC-en framstår som godt oppstivet og solid bygd. 
+Den berøringsfølsomme IPS-skjermen kan skilte med oppløsning på 1920 x 1080 piksler, noe som er å regne for mainstream i 2018. 
+
+Hele skjermflaten er dekket av et blankt belegg, På hver side av selve skjermpanelet er det en sørgerand på beskjedne 4 millimeter, i toppen er den rundt 1 cm - og dermed er det plass til webkamera her. 
+Vi har sett flere tilfeller den siste tiden der kameraet har måttet vike plass for at rammen skal bli tynnest mulig. 
+
+Det som er mer interessant, er at det er relativt mye plass i bunnen, plass som kunne vært brukt til mer skjerm - som på Huawei Matebook X og Microsoft Surface Book. 
+
+Skjermen kan betraktes fra nærmest død vinkel uten at farger og kontrast avtar i særlig grad, men det er ganske mye gjenskinn i den blanke overflaten. 
+Lysstyrken er dessuten helt ordinær, så til utendørsbruk - spesielt i solskinn, vil du raskt få noen utfordringer med den. 
+
+Prima tastatur 
+
+Tastaturet er typisk Lenovo, med den lette buen nederst på hver tast. 
+Vi elsker dette tastaturet. 
+Det er fast, tastene reagerer kontant på anslag og støynivået er meget lavt under tasting. 
+Utformingen er logisk og du har to lysstyrker å velge mellom i baklyset. 
+Eksemplarisk. 
+
+Under tastaturet sitter en mellomstor pekeplate med integrerte knapper for venstre- og høyreklikking. 
+Den er naturligvis følsom for flerberøring, og fungerer vel så godt som skjermberøring i mange tilfeller - mener vi. 
+
+Til høyre for denne sitter en fingeravtrykkleser - for sikker pålogging til Windows og etter hvert sannsynligvis også autentisering på nettjenester og betaling gjennom løsningen Windows Hello. 
+
+Bra med tilkoblinger, men mangler HDMI 
+
+På venstre side sitter de to USB-C-portene. 
+Begge har støtte for Thunderbolt 3 og USB 3.1 gen2 - altså de aller høyeste hastighetene som er mulig å få ut av disse portene. 
+Det betyr også at du kan koble PC-en din til to 4K-skjermer uten problemer, men du trenger da overganger til HDMI/DisplayPort - noe som dessverre ikke følger med som standard. 
+
+På høyre side sitter en klassisk USB-port, denne skal støtte USB 3.1 gen1, ut fra de opplysningene vi har klart å oppdrive (samme hastighet som USB 3.0). 
+Her finner du også en av/på-knapp, som har en lysende ring når PC-en er påskrudd. 
+Det liker vi. 
+
+Lyden besørges av et par stereohøyttalere som sitte under i front. 
+Lyden er helt OK, men litt bedre bass hadde ikke skadet. 
+Til lett bakgrunnsmusikk, tale og lignende, kan dette duge greit. 
+
+Blant de bedre i klassen på ytelse 
+
+Når det gjelder ytelse, medførte overgangen fra syvende til åttende generasjon Intel-prosessorer et markant løft. 
+Ja, så mye som 20-30 prosent ytelsesøkning i snitt, er slett ikke usannsynlig. 
+Enkelte oppgaver går vesentlig raskere enn dette også. 
+Nå skynder vi oss å legge til at disse prosessorene blir varme, og for å unngå mye viftestøy, har en del produsenter valgt heller å skru ned hastigheten litt under de tyngste operasjonene - spesielt på de tynneste maskinene. 
+
+Vi har lest flere rapporter som konkluderer med at så også er tilfelle med Yoga 730, men i våre tester er dette knapt merkbart - så her snakker vi sannsynligvis om langvarig, tung bruk. 
+
+Vårt testeksemplar, med Core i5-8250U-prosessor og 8 GB RAM oppnådde 8822 CPU-poeng i Passmark Performance Test, og det er faktisk det beste resultatet vi har målt på en PC med denne prosessoren. 
+Det betyr at du ikke behøver å bekymre deg over ytelsen - den er på par med hva du kan forvente av denne prosessoren - kanskje til og med litt over. 
+
+PC-en er stort sett svært stillegående, men under tung belastning vil du kunne høre at viftene spinner opp - for så å spinne ned så snart aktivitetene avtar. 
+Dette er helt uproblematisk og ikke noe vi ble plaget av en eneste gang under testperioden. 
+
+Grafikkytelsen er god nok til alt av 2D og videomateriale i alle aktuelle oppløsninger, men 3D-ytelsen er noe mer begrenset. 
+Ikke forvent å spille de nyeste, krevende spillene - med mindre du går kraftig ned på oppløsning og detaljrikdom. 
+Dette er med andre ord ikke en maskin for det gaming-glade publikum - naturlig nok. 
+
+Midt på treet-batteri 
+
+Batteritiden er alltid spennende å måle, og vi kjørte vår normale testprosedyre der vi strømmer video fra YouTube til batteriet gikk tomt. 
+Det holdt i 443 minutter. 
+Det er 7 timer og 23 minutter. 
+Lenovo antyder batteritid på rundt 10,5 timer. 
+Det tror vi kan holde hardt, men 8-9 timer er realistisk ved lett, variert bruk. 
+Det er ganske midt på treet sammenlignet med andre PC-er i samme klasse. 
+
+Men når det gjelder tiden det tar å lade batteriet opp igjen, er Yoga 730 blant de beste. 
+Etter en time i stikkontakten var nivået på 75 prosent. 
+Det er 5 prosent mer enn konkurrenten Spectre X360 fra HP og 3 prosent mer enn familiemedlemmet Yoga 920. 
+
+Dette liker vi ikke 
+
+Helt på tampen må vi legge til at PC-en kommer med en demoversjon av en sikkerhetspakke fra McAfee - som med sine sedvanlige varsler prøver å skremme deg til å tegne abonnement. 
+
+Vi har sagt det mange ganger før, men kan godt gjenta det igjen: 
+Dette er reklame som bidrar negativt itl brukeropplevelsen. 
+Vi har også opplevd at PC-er har fått bedre batteritid etter at vi har avinstallert denne pakken, men her bedyrer McAfee at de har skjerpet seg. 
+
+Hvis du skulle få lyst til å avinstallere pakken, er det greit å vite at Windows Defender (som er innebygd i Windows 10), byr på grunnleggende og god sikkerhet - uten at du behøver å betale en krone. 
+
+Konklusjon 
+
+Møtet med Lenovo Yoga 730 ble i hovedsak meget positivt. 
+Dette er en fin, fleksibel og kompakt maskin, pakket inn i robust materiale. 
+Ytelsen er høyere enn det du normalt kan forvente i denne størrelsesklassen og det meste av det andre er også på stell. 
+
+Se våre plusser og minuser i boksen under, og les også testen av konkurrentene HP Spectre X360 og Acer Spin 5 før du bestemmer deg. 
+
+Du finner vår nye, søkbare PC-testforside her. 

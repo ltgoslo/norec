@@ -1,0 +1,131 @@
+Acer TravelMate 6492
+Acer gjør mye riktig for tiden - og TravelMate 6492 er et av de mest solide bevisene vi har sett på det. 
+
+Skolestart nærmer seg, og ikke uventet har vi fått to køer her i redaksjonen: i den ene finner vi en lang rekke med bærbare PCer som bare venter på å bli testet, den andre køen finner du i undertegnedes e-postboks, der folk gjerne vil at vi skal teste den og den maskinen. 
+
+LES OGSÅ: 
+
+I underbemannet sommermodus har vi allerede fått unna 13,3-tommeren Multicom Z37S, og i dag er det Acer TravelMate 6492 som står for tur. 
+Dette er ikke uventet den litt større slektningen til TravelMate 6292 som vi testet sent i vår. 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo T7100 (1,8 GHz) 14,1" skjerm på 1280 x 800 punkter 2 GB DDR2-minne 160 GB harddisk Intel GMA X3100 grafikk WLAN (a/b/g/n), gigabit LAN, modem, Blåtann 3 x USB, FireWire, infrarød CardBus kortplass RS-232 seriell port (COM-port) Kortleser for SD, xD, MMC, MS, MSPRO VGA ut, lyd inn, analog/digital lyd ut 6-cellers batteri Fingeravtrykksleser Acer Crystal Eye 0.3 Mp webkamera og integrert mikrofon Dimensjoner (B/D/H): 
+33,9 x 24,5 x 3,9 cm Vekt ca 2,5 kilo Pris: 9.990,- 
+
+Den matte bredskjermen er på 1280 x 800 punkter, men uten å direkte sammenligne med en skjerm med kontrastbelegg føler vi ikke at den mangler verken skarphet eller gode farger. 
+
+Konstruksjon 
+
+Siden TravelMate 6492 er rettet mot forretningsfolk i tillegg til de mer krevende privatbrukerne er kan den vel ikke akkurat anklages for å være dristig i fargevalget - her er det mørk grå over hele linja, med et noe lysere lokk. 
+Blanke overflater med fingeravtrykk er også fraværende, noe som er praktisk på en maskin som er beregnet for mye og krevende bruk. 
+
+Som nevnt er kvaliteten meget god, ekstra avstiving av chassiset gjør at vi ikke finner noen svake punkter, harddisken har fått litt ekstra beskyttelse (DASP), og slark i fester eller knapper er fraværende. 
+
+Går vi over til å se på tastatur og touchpad så er dette en gledens dag. 
+Acer har her produsert en av de beste løsningene vi har sett - for det første digger vi komboen med både styrepinne (kanskje best kjent fra Lenovo ThinkPad) og en god touchpad i bredformat som lar deg skrolle i alle retninger. 
+Her kan du ganske enkelt velge å holde deg til din favoritt eller veksle på det. 
+
+Av/på-knappen er plassert til høyre over tastaturet, og der er også snarveier for epost, Internett, Acers "Empowering Technology" og "Launch Manager". 
+
+Den andre gledelige saken her er selve tastaturet, som er svakt krummet for å gjøre det en tanke mer ergonomisk riktig. 
+Hvorvidt det er akkurat dette som gjør utslaget er vi ikke sikker på, men det er ikke til å komme bort i fra at det er meget behagelig å skrive på. 
+Layouten er vi også stort sett fornøyd med, selv om noen kanskje vil rynke litt på nesa av raden til høyre for linjeskift-tasten. 
+Men nevnte tast er såpass stor og bred at vi overhodet ikke opplevde dette som noe problem. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter er plassert rundt på maskinen. 
+
+I front finner vi foruten høyttalerne inn- og utganger for lyd, brytere for blåtann og WLAN av/på, minnekortleser og IR-port. 
+
+På venstre side er S-Video (TV ut) plassert, sammen med FireWire, modem, LAN, en USB-port og CardBus-slot. 
+Varmluften blåses også ut her. 
+
+Høyre side har en USB og seriell port (gjemt bak et lokk), samt en "MediaBay" der vi finner det optiske drevet. 
+Dette kan dog tas ut og erstattes med for eksempel en harddisk eller et ekstra batteri dersom du trenger dette (ekstrautstyr). 
+
+Bak har vi plass for Kensingtonlås, VGA ut, inngang for strøm og en USB-port. 
+Batteriet på 6 celler går i ett med bakre del av maskinen, men det er også mulig å oppgradere til et 9-cellers der det stikker noe ut bak. 
+
+Ytelse og batterilevetid 
+
+Acer TravelMate 6492 er nok en Santa Rosa-maskin, og vår erfaring med disse har enn så lenge vært god. 
+Det naturlige blir da å sammenligne denne maskinen med andre bærbare av denne typen. 
+
+Vi har derfor målt mot: 
+Compal IFL90+: 15,4 tommer, Core 2 Duo @ 2,2 GHz, GeForce 8600M GT grafikk. 
+Multicom Z37S: 13,3 tommer, Core 2 Duo @ 2,0 GHz, GeForce 8400M G grafikk. 
+Acer TravelMate 6292: 12,1 tommer, Core 2 Duo @ 2,2 GHz, Intel GMA X3100 grafikk. 
+Samtlige av disse har altså sterkere prosessor enn TravelMate 6492. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+I dette selskapet er det ingen overaskelse at 6492 kommer inn på siste plass, men det betyr slett ikke at maskinen er dårlig. 
+Til vanlig, enkel bruk vil du ikke merke store forskjellen mellom disse maskinene. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+Er du ute etter en maskin for 3D-spill er det derimot viktig å plukke en PC med et godt grafikkort. 
+Intels nye GMA X3100 har litt bedre potensiale enn det vi ser her, men enn så lenge har det ikke blitt sluppet anstendige drivere til denne grafikkløsningen. 
+
+Men vi forventer oss på ingen måte at det vil kunne nå opp til GeForce 8400M G -løsningen som finnes i Multicom Z37S, og Compal IFL90+ er i en klasse for seg selv her. 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+I vår test med BatteryMark TravelMate 6492 sitt 6-cellers batteri i tre timer, noe som vi synes er et anstendig resultat. 
+Holder ikke dette for deg har du muligheten til å oppgradere til et større batteri - eller sette et ekstra i plassen for det optiske drevet. 
+
+Støy og varme 
+
+Denne laptopen har ingen spesielt varme punkter og holder seg generelt ganske kjølig. 
+Dette har selvfølgelig litt med den relativt beskjedne grafikkløsningen å gjøre, men vifta gjør også en god del her. 
+
+Støymessig kan vi ikke påstå at vifta er av de stilleste vi har hørt, og den må dessuten være nokså aktiv for å holde PCen såpass kjølig - så den spinner opp og ned av og til selv når maskinen er uvirksom. 
+
+Når vifta setter fart høres godt i rolige omgivelser, men støyen forsvinner så å si i et vanlig kontorlandskap eller lingnende miljøer. 
+Personer som er sensitive for støy - og hovedsaklig har tenkt å bruke den i stille omgivelser - bør ta en liten lytteprøve før de kjøper. 
+
+Dokking 
+
+Med i testpakken vår fikk vi denne gang et eksemplar av Acers nye dokkingløsning: ezDock II. 
+Denne passer til en rekke bærbare fra Acer, og selvfølgelig TravelMate 6492 - som altså er utstyrt med dokkingkontakt på undersiden. 
+
+Hvorvidt selve stasjonen er spesielt pen skal vi ikke henge oss opp i her, vi skal kun konkludere med at fargene matcher med vår bærbare og at løsningen fungerer upåklagelig. 
+
+I tillegg til å servere strøm og koble maskinen mot dokkingstasjonens mange kontakter vinkles den bærbare svakt opp: 
+
+Selve stasjonen, som koster omtrent en tusenlapp, er velutstyrt og har det meste du kan får bruk for av kontakter. 
+Det som ikke synes her på bildet er 2 USB-kontakter, FireWire og ExpressCard/54 plassert på høyre side og en MediaBay (til optisk drev/harddisk/batteri) på venstre: 
+
+Vurdering og konklusjon 
+
+Acer TravelMate 6492 gjør det på ingen måte noe enklere å handle bærbar PC i dag. 
+Mange av de nyere bærbare vi har testet er av bedre kvalitet, har bedre ytelse og fåes til en lavere pris enn noengang før. 
+TravelMate 6492 føyer seg også pent inn i denne rekka. 
+
+Den er bunnsolid bygget, og er en fryd å bruke med en relativt fin skjerm, touchpad/pekepinne-komboen og et behagelig tastatur. 
+Den har anstendig batterilevetid og er dessuten relativt godt utstyrt med det meste du trenger av tilkoblingsmuligheter: gigabit LAN, WLAN (inkl. 
+802.11n), blåtann, IR, USB, FireWire og så videre. 
+
+Og vi må selvfølgelig også nevne MediaBay'en som gir deg ekstra utbyggingsmuligheter, fingeravtrykksleseren, TPM, webkamera og mikrofon. 
+
+Alt dette og mer til i en pakke på to og en halv kilo. 
+
+Kort sagt er det ikke så veldig mye å klage over når vi ser på denne laptopen, men vi kunne altså ønsket oss en litt stillere vifteløsning. 
+En annen ting vi nå savner er ExpressCard-slot, Acer er nå en av de siste som hovedsaklig kjører CardBus for ekspansjonskort. 
+Da kan vi for eksempel ikke bruke denne. 
+
+Prisen på ti tusenlapper gjør at den i stor grad også får konkurranse fra andre PC-produsenter som nå slipper ferske modeller - disse vil vi teste løpende de nærmeste ukene. 
+I tillegg har vi også MacBook. 
+
+Men i skrivende stund er det ingen tvil om at Acer TravelMate 6492 fortjener en god femmer på terningen, og kan være et meget godt valg for de som krever det lille ekstra i brukskvalitet. 
+
+Men tenk også over dine egne behov - skal du for eksempel bruke PCen til spill råder vi deg heller til å gå litt opp i pris og vekt til for eksempel Compal IFL90+. 
+Men den er altså tyngre og tåler kanskje til gjengjeld på langt nær så mye juling. 
+
+En liste over maskiner vi har testet finner du her! 

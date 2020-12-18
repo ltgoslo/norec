@@ -1,0 +1,56 @@
+D-Link DI-634M
+Nå er også D-Link klar med sin ruter med MIMO, antenneteknikken som gir bedre dekning og rekkevidde. 
+Vi har testet. 
+
+Som vi har skrevet i en tidligere artikkel står MIMO for Multiple In Mutiple Out, og teknikken generelt er ikke helt dagfersk. 
+Den ble omtalt allerede i 1996 i en artikkel fra Bell Labs. 
+
+LES OGSÅ: 
+
+Både Belkin og Linksys annonserte produkter med denne teknikken, basert på Airgo sin basisteknologi 
+TrueMIMO allerede i fjor, men det er først nå de begynner å bli tilgjengelige. 
+Linksys har dessuten skapt sin egen term "SRX" som står for "Speed and Range eXpansion" 
+
+Grovt skissert går teknikken ut på å sende flere signaler på samme frekvens på flere antenner. 
+Ved å bruke en signalering som utnytter refleksjonene som oppstår i dekningsområdet, får man bedre rekkevidde og høyere hastighet enn ved andre antenneløsninger. 
+
+Ordinært trådløst utstyr bruker enkle eller doble antenner, og med ordinære signaler vil refleksjonene i dekningsområdet ofte gi utfasinger og dermed mindre rekkevidde. 
+
+Nå er også D-Link klar med sin MIMO-ruter, som har fått navnet DI-634M og er en del av 2XR produktfamilien. 
+2XR står for Xtended Range og Xtended Rates. 
+Et annet medlem i familien er det trådløse PC-kortet DWL-G650M som vi også testet sammen med ruteren. 
+
+Installasjon 
+
+Installasjon og oppsett av utstyr fra D-Link har vi alltid hatt gode erfaringer med, og også denne gangen var det ingen problemer. 
+Responsen på menyvalg og aktivering av endringer var riktignok merkbart tregere enn hos andre rutere fra D-Link. 
+
+Funksjonaliteten er den samme som hos de fleste andre typiske 802.11g bredbåndsrutere, med 4 svitsjede porter, NAT, VPN, WPA, osv. 
+Det som er spesielt er antenneløsningen. 
+
+Rekkevidde 
+
+Sammenlignet med vårt basisutstyr som består av en DI-624 ruter og en Dell Inspiron med innebygd 802.11g (blå ring), var rekkevidden med MIMO-løsningen fra D-Lnik (gul ring) bare litt større. 
+Vi snakker om en økt avstand med dekning på rundt 3 meter. 
+
+Her var Linksys sin løsning (rød ring) langt bedre, vi snakker om å dekke neste nabo i veien... 
+
+Stabilitet 
+
+Men når det kommer til stabilitet innenfor det dekningsområdet som er relevant, nemlig innenfor husets vegger fra hems og ned i kjelleren, så var D-Lniks løsning klart bedre. 
+
+Med en gang vi hadde løsningen med PC-kortet installert i den bærbare, og kontakten med ruteren var etabliert, så kom meldingen om at forbindelsen var Excellent. 
+På det ordinære utstyret opererer vi med Very Good på samme sted. 
+
+Dekningen på alle fil typer var konsistent i hele huset, så små avvik og så jevn ytelse har vi aldri sett hos noen annen løsning vi har testet. 
+
+Linksys løsning hadde en god del større avvik og systemet måtte jobbe mer for å opprettholde forbindelsen. 
+
+Også med den innebygde 802.11g i Dell-PCen ga D-link meget bra, men ikke like jevn ytelse. 
+
+Konklusjon 
+
+DI-634M og DWL-650M ga den beste dekningen vi har målt innenfor vårt trehus. 
+Rekkevidden utendørs var ikke dramatisk mye bedre enn vårt ordinære referanseutstyr, men målbart. 
+
+Les også del 2 av denne testen! 

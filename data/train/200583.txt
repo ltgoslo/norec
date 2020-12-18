@@ -1,0 +1,88 @@
+Samsung SGH-i600
+Etter en rekke mer eller mindre skuffende modeller kommer Samsung sterkt tilbake. 
+
+Vi begynte å bli litt bekymret på vegne av Samsung etter de foregående testene vi har gjort (les for eksempel her). 
+De har riktignok scoret høyt på design og originalitet, men i bruk har de tidvis vært en like stor prøvelse som femåringen som bare skal prøve karusellen én gang til. 
+
+Da er det fint å kunne presentere SGH-i600, en vellykket smartmobil fra Samsung. 
+
+Pent 
+
+Design har ikke stått øverst på prioteringslista til mange smarttelefonprodusenter, men i600 er faktisk noe så sjeldent som et pent stykke arbeid. 
+Den har til og med mottatt komplimenter fra den delen av befolkningen som føder barn og leser Kvinner og Klær, et sikkert tegn på at noen har gjort noe riktig. 
+
+Den matte, svarte finishen gjør at telefonen stikker seg ut akkurat nok til at du legger merke til den, men uten at den skriker om oppmerksomhet. 
+Den er dessuten smalere enn alle andre fulltastatur-mobilene vi har vært borti, og til tross for at Qwerty-tastene er små, går det helt greit å skrive på tastaturet, først og fremst på grunn av avstanden mellom tastene og deres avrundete form. 
+
+Noen (det er deg, Amer fra IT) påstår forøvrig at den ser ut som en kalkulator, et hyppig brukt argument mot smartmobiler med fullt tastatur fra personer som knapt har sett en smartmobil før. 
+Dem om det, er vårt beste argument. 
+
+Navigering 
+
+i600 bruker operativsystemet Windows Mobile 5.0, og til tross for vår litt uheldige erfaring med en tilsvarende mobil nylig, har Samsung vært atskillig heldigere (og dyktigere) med sin implementering av WM5 enn for eksempel HTC. 
+
+(Du kan forøvrig oppgradere gratis fra WM5 til Windows Mobile 6 i løpet av juni hvis du kjøper telefonen allerede nå.) 
+
+Ikke bare har de gjort tilgangen til de mest grunnleggende funksjonene enklere, de har også simplifisert alt fra kalenderen til meldingssentralen. 
+Vi hadde spesielt sansen for det automatiske e-post-oppsettet, hvor alt vi behøvde skrive inn var navnet vårt og e-post-adressen, så ordnet serverinnstillingene for mottak og sending selv. 
+Smart. 
+
+Exchange-funksjonaliteten har vi dessverre ikke fått testet, simpelthen fordi IT-avdelingen ikke har de nødvendige ressursene for Exchange-synkronisering installert på sine servere. 
+
+Litt grensesprengende 
+
+Det som virkelig gjorde oss mo i knærne var måten Samsung har skrudd sammen åpningsskjermen. 
+Den kan for det første konfigureres på cirka ti forskjellige måter, noe vi tror Samsung er første mobilprodusent som gjør, og for det andre er for eksempel det såkalte "korthjul"-oppsettet på grensen til å være genialt. 
+
+Den ligner ikke så rent lite på bla-funksjonen i Windows Vista, Aero, og består av flere ark som er en mini-applikasjon i seg selv. 
+Her får du rask tilgang til alt fra favorittkontakter (ti stykker), e-post og SMS, til alle bildene du har tatt med kameraet eller det sist spilte albumet i mp3-spilleren. 
+
+Her har Samsung gjort et lite stykke nybrottsarbeid, og på enkelt og elegant vis flettet en rekke funksjoner sammen til én elegant helhet som du har direkte tilgang til. 
+
+Vi har også sansen for at telefonen går rett inn i kontaktlista hvis en taster en eller flere bokstaver, og de nesten uendelige mulighetene for å tildele snarveier til ulike programmer og funksjoner via tastaturet. 
+Tar du i bruk scrollhjul-snarveiene vi nevnte over har du svært mange muligheter for å bevege deg fra A til Å uten å gå innom alle de andre bokstavene. 
+
+Ser dobbelt 
+
+i600 har fått en splittet personlighet når det kommer til batteriet, men på en god måte. 
+Du kan velge mellom to forskjellige batterier, som har forskjellig kapasitet og størrelse. 
+Bruker du det største må du bruke et alternativt bakdeksel som gjør telefonen litt tykkere. 
+
+Her har du med andre ord en gyllen mulighet til å teste forfengelighets-grensene dine. 
+Skal du gå for lang tale- og brukstid og litt styggere mobil, eller velger du kortere brukstid og penere, tynnere telefon? 
+Et fascinerende dilemma. 
+
+Den 2.3 tommer store skjermen er knivskarp og fargesterk, og til tross for at den bare viser 65 536 farger, og ikke de 262 144 som etter hvert begynner å bli vanlige, har den ingen synlige mangler. 
+
+Her går det gæli 
+
+Til tross for at det er mye å like her, finnes det også noen svakheter. 
+
+Den mest irriterende av dem er at flere programmer rett og slett ikke kan avsluttes fra applikasjonen, og blir kjørende i bakgrunnen der de stjeler både minne og batteriressurser. 
+Disse programmene kan kun avsluttes via oppgavebehandleren. 
+
+Litt av det samme fenomenet finner igjen ved aktivisering av 3G/Edge-forbindelsen. 
+Til tross for at den trådløse nettforbindelsen kan settes til å deaktiveres etter så og så lang tids inaktivitet, så skjer det ikke. 
+Den forblir derimot aktiv, selv etter at alle nettlesere er avsluttet. 
+
+Kameraet tar helt greie bilder utendørs, men vi trekker desimaler for at det bare er 1.3 megapiksler, og for at spesielt innendørsbilder sliter med dårlig kontrast, støy og fargegjengivelse. 
+
+Også scroll-hjulet på høyresiden av mobilen er mangelfullt, all den tid det bare kan scroll vertikalt, og ikke horisontalt. 
+Ikke akkurat noen vesentlig mangel, men det betyr at du ofte må veksle mellom navigasjonsflaten på forsiden og scroll-hjulet, istedenfor å tilby en total, og enklere, navigeringsløsning for sistnevnte. 
+
+Du kan dog bruke hjulet til å legge inn en bråte med snarveier, enten det nå er til URLer, applikasjoner, mapper eller dokumenter. 
+
+Du kan se bilder tatt med telefonen her, her, her og her. 
+Klikk her for å se videoopptak gjort med mobilen. 
+
+Konklusjon 
+
+Til tross for noen skjønnhetsfeil og mildt irriterende svakheter ved operativsystemet, er Samsung SGH-i600 i all hovedsak en smartmobil som er enkel å anbefale. 
+
+Prisen på drøye 4000 kroner er litt i overkant, men i og med at du får tilgang til så å si alle de trådløse nettstandardene som finnes, inkludert såkalt super-3G (HSDPA), gratis oppgradering til Windows Mobile 6, og en åpningsskjerm som er den smarteste og nyttigste vi har sett, er det verdt det. 
+
+Ikke minst hvis du tekster like mye som en fjortis, men har byttet ut "koz og klemz" med den dresskledte signaturen "med vennlig hilsen din evig underdanige undersått som kysser dine knær og er villig til å dø for at tredje kvartal blir det mest lønnsomme siden 2001." 
+
+Sjekk også ut vår nye Mobilvelger! 
+
+Mobiltesten er et samarbeidsprosjekt mellom nettstedene DinSide Data, ITavisen og Dingz.no 

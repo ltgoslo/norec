@@ -1,0 +1,121 @@
+TEST:Cowon iAudio 9 
+
+Den veier nesten ingenting, er spekket med funksjoner og er syltynn. 
+Men holder den mål? 
+
+Det er en stund siden vi testet noe fra Cowons iAudio-serie. 
+Sist gang (2006) var det iAudio 6 som lå på testbenken, denne gangen har vi testet iAudio 9. 
+
+En kan nesten si at Cowon legger seg på en motsatt linje av hva Apple gjør. 
+Den er ikke låst til noe enkelt format eller overføringsmetode, og overføringskabelen er standard mini-USB. 
+Filoverføring skjer enten via Cowons JetAudio-program (kun til Windows), eller bare ved å dra og slippe filene inn i riktig mappe - spilleren dukker opp som en egen disk (også i Mac OS). 
+Sistnevnte fungerer veldig greit, da programvaren som følger med ikke er noe å skrive hjem om. 
+
+Ikke bare kræsjet det når vi koblet til MP3-spilleren, det dukket også opp en annonse da vi åpnet programmet (!). 
+
+Med i pakken følger det et sett med øreplugger av den dårlige sorten, og en USB-kabel til lading og overføring av filer. 
+I tillegg får du også 35 sanger og en lydbok på kjøpet dersom du registrerer deg i Cowons musikkbutikk. 
+
+Selve spilleren 
+
+Den nette tassen er omtrent like tynn som en vanlig Bic-kulepenn, og har en berøringsfølsom del under skjermen som er opplyst. 
+På siden ligger volum-, tastelås- og menyknappen, der sistnevnte tar deg tilbake til hovedmenyen. 
+
+Her er litt fakta: 
+
+Mål: 
+43 millimeter bredde, 95 millimeter høyde og 8,9 millimeter tykkVekt: 
+40 gramSkjerm: 
+2 tommer TFT LCD 320x240, QVGA (262 000 farger)Innebygget høyttalerStøtter Mac OS X, Windows og LinuxUSB 2.0Støtter MP3, WMA, FLAC, OGG, APE og WAVFunksjoner: 
+Dokument-leser (txt-filer), Flash-støtte, klokke, videoavspilling, bildeviser, radio og opptagerPris: 1295 (8 gigabyte). 
+Kommer også med 4 og 16 gigabyte flash-minne 
+
+Spilleren er svært lett, den veier bare 40 gram. 
+Den er 8,9 millimeter tykk, noe som er litt mindre enn en kulepenn. 
+Den ligger godt i bukselomma, med andre ord. 
+Formatstøtten er også god: 
+Mp3-, WMA, FLAC, APE og WAV burde holde for de fleste. 
+Av videoformater støtter spilleren Avi, Wmv og ASF. 
+Dokumentleseren støtter kun txt-formatet. 
+
+Batterilevetiden er oppgitt til å være 29 timer med lydavspilling, eller 7 timer video, noe som kan sies å være meget bra. 
+Det er verdt å merke seg at oppgitt batterilevetid og faktisk levetid er to forskjellige ting. 
+Vi brukte spilleren et par dager til og fra jobb, i tillegg til litt i arbeidstiden, og har fortsatt godt med batteri igjen. 
+
+Under den lille 2-tommers skjermen (320 x 240) ligger de berøringsfølsomme knappene. 
+Her har produsenten av en eller annen merkelig, mest sannsynlig tvilsom estetisk grunn, valgt å lage en diagonal linje til å skrolle med. 
+Du kan også bevege tommelen rett opp og ned, noe vi opplevde som bedre. 
+I tillegg til play/pause-knappen, er det en knapp for å gå tilbake. 
+De berøringsfølsomme knappene minner veldig om de man finner på Samsung S5 - ikke akkurat positivt når man i motsetning til Samsungs spiller må bruke denne typen knapper til å skrolle med. 
+
+God lyd 
+
+De medfølgende øreproppene kan du bare hive med en gang, slik det er med det meste av ørepropper som følger med MP3-spillere. 
+Med et annet sett ørepropper eller hodetelefoner er det imidlertid ingenting å utsette på lyden. 
+Det finnes også et hav av ferdige innstillinger, og du kan lagre fire egne oppsett. 
+
+Spilleren starter på et par sekunder og det er ingen hakking i menyene, med mindre du forsøker å «rulle» nedover. 
+Det virker som om Cowon har forsøkt å lage et «flytende» grensesnitt, likt det man har på en iPod Touch. 
+Når man sveiper fingeren fort over den berøringsfølsomme delen av spilleren har Cowon tenkt at markøren skal «rulle» nedover valgene. 
+Dette virker mot sin hensikt, ettersom markøren heller snubler nedover i stedet for å rulle - det blir med andre ord hakkete. 
+Knappene kan også gi litt dårlig respons til tider, man må ofte trykke to ganger for at det skal skje noe. 
+
+Av en eller annen uforståelig grunn har Cowon plassert volum-, hjem- og tastelås-knappene nederst på siden av spilleren slik at de blir mer utilgjengelige enn det som strengt tatt er nødvendig. 
+De blir svært klønete å bruke når du holder spilleren i hånden, men ikke like klønete som menysystemet. 
+
+Ikke gå deg bort i menyene 
+
+Menysystemet kan beskrives som litt rart. 
+Når man begynner å bruke det, føles det som om man opererer i to forskjellige dimensjoner. 
+For å bla i artister eller album må du nemlig først trykke på MP3-ikonet i hovedmenyen. 
+Trykker man på tilbake-knappen nok ganger kommer man til slutt til en annen hovedmeny, bare organisert som mapper og med artist, album og sjanger-sortering av musikken din øverst. 
+For å se den mer animerte og estetisk bedre menyen må du trykke på menyknappen på siden. 
+
+Her er det altså to hovedmenyer å velge mellom, og Cowon burde nøyd seg med en. 
+For selv om man venner seg til det, så er det ikke helt logisk. 
+
+Når du blar i menyen får du heller ingen mulighet til å bytte sang eller pause musikken. 
+Er du for eksempel nederst på lista over sanger, må du skrolle helt opp igjen og velge «Now Playing». 
+
+Ved å holde inne Play-knappen får du opp en ekstra-meny. 
+I MP3-delen for eksempel, kan du bytte mellom ulike lydoppsett eller sette på shuffle. 
+
+Spilleren er velutstyrt på funksjonsfronten og har dokument-leser, opptaker, støtte for Flash og radio (FM). 
+Radioen fungerer helt fint, du kan søke gjennom FM-båndet og få en liste over hvilke frekvenser det er lyd på. 
+Her må du altså huske hvilken frekvens de ulike radiokanalene er. 
+
+Mikrofonen, som sitter på siden av spilleren, er litt svak. 
+Du kan bruke den til å ta opp din egen stemme, men da må du ha den nesten helt inntil lydkilden. 
+Videoavspilling på den lille skjermen kan bli litt lite, men man har muligheten. 
+Det samme gjelder høyttaleren - det blir ikke særlig god lyd, men man hører hva som blir spilt. 
+
+Pleasant flash life 
+
+I tillegg har spilleren støtte for Flash-applikasjoner med det Cowon på litt god «Engrish» kaller «Pleasant Flash Life» - et behagelig Flash-liv høres jo ikke dumt ut (eller ...). 
+
+Dessverre oppleves Flash-livet til Cowon som ganske ubehagelig. 
+Undertegnede sliter med å finne Flash-innhold på Cowons nettsider. 
+Det er bra at Cowon gir brukerne mulighet til å overføre Flash-filer med dra-og-slipp-metoden, men de kunne jo sparket det hele i gang ved å tilby Flash-innhold som viser hva vi skal med denne funksjonen. 
+
+Etter litt googling kom vi over denne pakken med Flash-spill til Cowon S9, en annen modell enn vår iAudio 9. 
+Det var bare å dra filene over i Flash-mappen på MP3-spilleren, men det var klin umulig å bruke selve flash-filene på spilleren. 
+
+Det er nemlig helt umulig å navigere i Flash-filene, noe som gjør at du ender opp med å stirre på en introskjerm uten å få komme i gang med spillet. 
+Cowons «pleasant flash life» er ikke et liv for oss. 
+
+Oppsummering 
+
+Cowon skal ha honnør for å styre unna proprietære løsninger. 
+Uansett om du bruker Windows, Linux eller Mac er det bare å koble til spilleren, og dra over sanger og annet innhold. 
+Formatstøtten er også god, med både OGG og FLAC på listen, i tillegg til DRM-beskyttede Windows Media-filer (hvis du fortsatt har slike liggende). 
+
+Knappene er dårlige, og volum-knappene er plassert på en slik måte at de blir litt kronglete å bruke. 
+Menysystemet kan være litt knotete å bruke i begynnelsen, og vi finner ikke noe vettugt å bruke Flash-funksjonen til. 
+Ellers er det god lyd, og spilleren ser ikke så aller verst ut. 
+Den er også liten og veier nesten ingenting. 
+
+Det er også mulig å koble spilleren til TVen via en egen kabel, men dette har vi ikke fått testet. 
+
+Anbefalt utsalgspris på 16-gigabyteversjonen er 1 595 kroner. 
+4 gigabyte koster 1 095, mens 8 gigabyteversjonen som vi testet gjør deg 1 295 kroner fattigere. 
+Til sammenligning koster en iPod nano i samme størrelse 1 250 hos Apple Store. 

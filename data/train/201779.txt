@@ -1,0 +1,81 @@
+Rutertest:Asus RT-N66U 
+
+Ny toppmodell fra Asus – leverer den? 
+
+De siste månedene har det dukket opp nye toppmodeller fra alle ruterprodusentene, og det er ikke noen tilfeldighet. 
+Grunnen er at teknikken bak har kommet et hakk videre og resultert i nye brikker. 
+Dermed er det "bare" å bygge et nytt produkt rundt basisteknologien. 
+
+Dette er selvsagt ikke gjort i en håndvending, og de som er først ute har ikke alltid alt på stell. 
+Derfor blir det gjerne noen runder med oppdateringer før brikkene har falt på plass, bokstavelig talt. 
+
+Asus hadde egentlig den nye toppmodellen klar allerede i fjor, men trakk den tilbake og gjorde noen viktige endringer. 
+Den mest påfallende endringen var å droppe viften, og det var en fornuftig beslutning. 
+I stedet er det nå en stor kjøleribbe som dekker mesteparten av kretskortet. 
+Dette gjør at det man tror er en lett liten plastdings er overraskende tung. 
+
+Asus RT-N66U 
+
+I motsetning til alle de andre ruterne vi har testet i det siste er Asus RT-N66U utstyrt med tre forholdsvis store avtagbare utvendige antenner. 
+Den henvender seg derfor ikke til de designfølsomme i samme grad som for eksempel Linksys har gjort med sin serie. 
+På den annen side er det mange som prioriterer funksjon, og velger med glede ytelse framfor utseende. 
+
+Forøvrig har overflaten samme type tekstur som den forrige toppruteren fra Asus, som i seg selv er ganske stilig, og i tillegg ikke er noen storsamler av fingeravtrykk. 
+
+Tilkoblingene er de vanlige 4 Gbit LAN (for lokalnettet) og 1 WAN (for internettilkoblingen), men Asus har også 2 USB-porter. 
+Disse støtter tilkobling av felles skriver, lagring og 3G-modem (i tilfelle den kablede internettilkoblingen skulle svikte). 
+
+Elegant og kjapp installasjon 
+
+Installasjon og oppsett er kanskje det mest velfungerende vi har sett hittil. 
+Det ser pent ut, er oversiktlig og dessuten raskt, de fleste endringer skjer med det samme. 
+
+Det er ingen CD, det er bare å koble til PC-en og starte nettleseren så dukker websiden til ruteren opp. 
+Den er på godt norsk bortsett fra et par småting som mangel av store bokstaver hist og pist og ett sted der det står "gambling" der det helt sikkert var ment "gaming". 
+
+Funksjonalitet 
+
+Denne ruteren mangler ingen ting, og støtter alt fra trafikkprioritering, foreldrekontroll, VPN og portmapping til opptil seks uavhengige gjestenettverk – perfekt for de som leier ut hybler. 
+Du kan også sette opp ukedager og tidspunkter for aktivering av radio. 
+Strenge foreldre kan da slå av nettilgangen om natten hvis de vil ty til slike metoder i oppdragelsen. 
+
+Trådløs ytelse 
+
+RT-N66U støtter tre datastrømmer på 150 Mbit hver og skal i teorien klare 450 Mbit. 
+Dette er det samme som Linksys og Netgear støtter i sine toppmodeller. 
+
+I praksis er ytelsen avhengig av både omgivelser og plassering, i tillegg til ytelsen på klientene. 
+For å få optimal ytelse trenger du en bærbar med tre antenner pluss et internt nettverkskort som støtter alle disse med full ytelse. 
+Men denne kombinasjonen er ikke vanlig kost hos bærbare, selv om det er relativt rimelig å oppgradere nettverkskortet til et Intel Centrino Ultra N 6300. 
+
+Vi testet både med Asus eget nettverksadapter EA-N66 med tre antenner og med en MacBook Pro med 2 antenner. 
+
+Kort fortalt var ytelsen og rekkevidden på 5 GHz meget bra med 2 antenner, men med Asus' egen 3-antenners løsning fikk vi ikke så godt resultat som forventet. 
+(vi hadde ikke tilgang til 3-antenners PC med Intel Centrino Ultra). 
+
+Ujevn nettilgang 
+
+Et annet fenomen som vi ikke har erfart tidligere var at RT-N66U etter noen timers bruk ble ekstremt treg til å laste inn visse nettsider. 
+Spesielt hvis det ble kjørt mye gamingtrafikk på en forbindelse ble det etter hvert håpløst å laste inn nettsidene til TV2, Facebook, DinSide, PCWorld og Aftenposten, mens VG, Google og de fleste utenlandske nettsteder var uproblematiske. 
+
+Etter å ha slått ruteren av noen sekunder og så på igjen ble det normalt igjen, men ble tregt igjen etter noen timer. 
+Hvis ruteren sto på uten å bli brukt for eksempel over natten, var det ingen problemer, det var bare etter aktiv bruk at tregheten oppsto. 
+(Vi testet med firmware 3.1.0.3.76). 
+
+Konklusjon 
+
+Asus RT-N66U er en potent ruter med et stort repertoar og svært vennlig brukerflate. 
+Den leverer meget god ytelse og rekkevidde på 5 GHz, men var skuffende på 2,4 GHz. 
+
+Det er også tydelig at det er noen barnesykdommer som må fikses opp i før brikkene er helt på plass. 
+Den er absolutt en kandidat til å kunne bli anbefalt når alt virker som det skal, men i sin nåværende tilstand er den det ikke. 
+
+For alt vi vet kan dette bli ordnet opp i i løpet av kort tid med ny firmware. 
+Det vil vi i så fall komme tilbake til med ny testing. 
+Det fortjener den. 
+
+OPPDATERT: 
+Vi har nå testet et nytt eksemplar av ruteren, og problemene er borte og ytelsen forbedret! 
+Les ny test av RT-N66U her. 
+
+Asus RT-N66U 

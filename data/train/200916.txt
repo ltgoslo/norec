@@ -1,0 +1,219 @@
+Motorola Xoom
+Android 3.0 er den kranglete ungdommen man aldri klarer å bli sinna på. 
+
+Jeg hater "IPAD-KILLER"-overskrifter. 
+
+Først og fremst fordi modellene som da testes ofte kjører utdaterte Android-versjoner, som aldri var ment for nettbrett. 
+Og dermed ligger slakterkniven aldri langt unna. 
+
+Dette endret seg da Google endelig dro sløret av Android 3.0; "Honeycomb". 
+Vi fikk et paradigmeskifte. 
+Endelig kunne man begynne å snakke om skikkelige "IPAD-KILLERE", om det på død og liv er så viktig å ta livet av surfefjøla til Apple. 
+
+Motorola Xoom er det første brettet med Googles nyeste grønne maskott under plasten. 
+Men det er langt fra det siste. 
+I løpet av året kommer det utallige modeller, også til Norge, som alle vil kjøre Honeycomb. 
+
+Som første, norske medium skal vi dykke ned i systemet, for å finne ut om fremtiden virkelig tilhører Android. 
+
+Skikkelig kraftplugg 
+
+Som bildene våre vil vise deg: 
+Xoom er en av de peneste amerikanerne vi har møtt på lenge. 
+
+Forsiden er sort og blank, som seg hør og bør i dagens motebilde. 
+Her finner vi blant annet kamera for videoprat (eller sminking om du måtte ønske) og en indikatorlampe som lyser om du for eksempel har mottatt en epost. 
+
+Skjermen måler 10,1 tommer, med et 16:10 format. 
+Dermed er dette et bredt brett; mye bredere enn iPad. 
+Skjermen er klar og fin, og gir luksusfølelsen man higer etter. 
+Det er dog mye gjenskinn i den, så om du ikke er glad i ditt eget speilbilde bør du holde deg langt unna sollys. 
+
+Baksiden har en brun metallflate, toppet av en gummiaktig plaststripe med kamera, blits, to høyttalere og en av- og på-knapp. 
+Denne ligger altså bak skjermen, noe som gjør at mange må bruke et par minutter på å finne ut hvordan den skrus på. 
+Når knappen er funnet, fungerer den fint. 
+
+Du kan regne med omlag åtte timers intens bruk per ladning. 
+Da er det kanskje ikke så rart at den som amerikanere flest veier den litt mer enn den burde; 730 gram. 
+Dette er bare rundt 100 gram mer enn iPad, men nok til at den enkelte ganger sklir lenger ned i fanget ditt enn du skulle ønske. 
+
+Den ru plasten på baksiden gjør at du som regel klarer å holde den under kontroll. 
+Og tyngden øker inntrykket av at dette er en fast fisk, som er proppet med teknologi. 
+
+Vår nye bestevenn 
+
+Med 32 gigabyte minne, en Nvidia Tegra 2-prosessor på to ganger én gigahertz og alle sensorer og duppeditter du kan tenke deg, ligger alt til rette for en flytende og funksjonsrik opplevelse. 
+
+Tekniske spesifikasjoner, Motorola Xoom Wifi: 
+
+Skjermstørrelse: 10,1 tommerOppløsning: 1280 x 800 piksler, 150 piksler per tomme Prosessor: 
+Nvidia Tegra 2, med to kjerner på én gigahertz hverInnebygd minne: 32 gigabyte lagring, én gigabyte DDR2 SDRAMMinnekort: 
+Micro SD, etter fremtidig oppdatering Android-versjon: 3.0.1Kamera: 
+5 megapiksler med LED-blits, 2 megapiksler forranVideo: 720pUtganger: 3,5 mm jack, micro HDMI, micro USB (kun til data, kabel følger med), laderWifi: 
+802.11 a, b, g, nBluetooth: 
+2.1 + EDR + HIDMål: 
+249.1 x 167.8 x 12.9 mmVekt: 730 gramBatteri: 6500 mAhPris: 
+Rundt 5.000 kroner fra Ebay inkludert frakt og momsSensorer: Akselerometer, gyroskop, kompass, aGPS, nærhetssensor, lysmåler, barometer 
+
+Her kan du se hvordan herligheten tar seg ut: 
+
+Å presse juice ut av alt dette er Android 3.0 sin jobb. 
+Og glem alt du vet om Android fra før. 
+Det er en ny droide i byen. 
+
+Hun spytter i fjeset på sine lillesøstre. 
+Hun er hottere, glattere og større enn noen sinne. 
+Hun er typen man vil vise frem til vennene sine. 
+Bare for å vise hva du har, som ikke de har. 
+
+Hun kan fylles opp med widgets og ikoner, svinges frem og tilbake uten ett lugg, fikles med og klasses på, uten at det dukker opp så mye som en svetteperle i pannen hennes. 
+Du kan kjøre det ene programmet oppe på det andre, og hun vil ikke finne på å klage på manglende ressurser eller pustepauser. 
+
+Alt dette går lekende lett med det flunkende nye brukergrensesnittet. 
+Du har en linje nederst, som nesten alltid er der. 
+Til venstre har du knapper for å gå tilbake, få frem programmene som kjører i bakgrunnen eller gå til hjemskjermen. 
+Til høyre har du varsler om for eksempel nye eposter, samt klokke og ikoner som viser batteri og wifi-signal. 
+Trykker du på dette feltet får du opp alle varsler, og rask tilgang til innstillinger som lysstyrke og låsing av automatisk rotering av skjermen. 
+
+En gledelig nyhet for nissene på berget er at Android 3.0 faktisk leveres med norsk tastatur, til tross for at det ikke er lansert her til lands. 
+Nisseluen av for det. 
+
+3D er mer enn 2D 
+
+Applikasjonene som følger med Honeycomb fungerer strålende. 
+Epost-leserne, både til privat- og jobb-epost, er av ypperste klasse, og det er ikke noe problem å gå gjennom 50 nye jobb-eposter på terassen med Android på fanget. 
+Takket være widgets og de fine varslene slipper man å gå ut og inn av epost-applikasjonen i ett kjør. 
+
+Kalenderen er strålende på samme måte, og widgets gjør at man også her slipper å forholde seg til selve kalender-appen for å holde seg oppdatert. 
+
+YouTube, Maps, galleriet og musikk-appen gir deg skikkelige 3D-opplevelser, på samme måte som hjemskjermene. 
+Google mener tydeligvis at tre dimensjoner er bedre enn to, og gjør en god jobb med å overbevise deg om det samme. 
+
+Nettleseren er en av Honeycombs store styrker. 
+Den er fanebasert, og man får en PC-aktig surfeopplevelse. 
+Rulling opp og ned på sidene går glatt, akkurat som zoomingen med to fingre. 
+Fra Android Market kan man laste ned Flash, og dette fungerer som oftest veldig bra. 
+Det varierer noe hvor glatt videoene går, og hvor bra Flash-spill fungerer, men på sitt beste blir det vanskelig å forstå hvorfor enkelte avskyr denne standarden. 
+
+Mer om hvordan alt dette fungerer ser du i videoen nederst i saken, og i denne bildeserien: 
+
+Det som derimot ikke fungerer bra, er en irriterende misforståelse mange nettsider har om at Android kun befinner seg på mobiltelefoner. 
+Mange nettsider, som DinSide og VG Nett, vil gi deg en mobilversjon når du går inn på dem. 
+Dette kan løses relativt enkelt, men man må gjøre det samme trikset hver gang man slår av og på brettet. 
+
+Først i skuddlinjen 
+
+At ikke nettleseren har enklere muligheter for å fikse dette er merkelig. 
+Og som du vil se i videoen under, er ikke dette den eneste mangelen i operativsystemet. 
+
+Motorola Xoom er først ute med Android 3.0. 
+Og kjøper du førstegenerasjons maskinvare med førstegenerasjons programvare, vil du også oppleve førstegenerasjons problemer. 
+Det er ikke uvanlig at enkelte applikasjoner låser seg, både de Google har laget selv og dem man laster ned. 
+Det forekommer at man må slå den av og på, og det skjer at den restarter helt av seg selv. 
+
+Ytelsen kan også være varierende, fra flytende til luggete, men heldigvis varer dette vanligvis bare noen sekunder. 
+
+Heldigvis er Android 3.0 en slik type som kan tillate seg å være litt vrien en gang i blant, rett og slett fordi hun er så utrolig allright til vanlig. 
+
+Du glemmer de tøffe tidene når multitaskingen går som en lek. 
+I motsetning til andre konkurrenter (jeg ser på deg, Apple) gjør multitaskingen faktisk det den skal. 
+Laster du opp en video i Youtube-appen, kan du surfe nettet uten at opplastningen settes på pause. 
+
+Noen har hevdet at Android 3.0 ble sluppet ut av Googles hovedkvarter før hun ble skikkelig voksen, og det kan de ha rett i. 
+Men personlig vil jeg heller ha en litt kranglete jente med spennende nye tanker, enn en stabil og kjedelig mann med dress og slips (jeg ser på deg igjen, Apple). 
+
+Få apps, mange spill 
+
+Uansett om man liker Apples eller Googles løsninger best, er det ett punkt hvor ingen kan slå Apple foreløpig: 
+Apps. 
+
+Der hvor iPad flommer over av vakre og kjekke nettbrett-apps, må Honeycomb-brukere greie seg med en håndfull. 
+Nøyaktig hvor mye man har å velge mellom er vanskelig å finne ut av, da Android Market i Norge ennå ikke har en egen nettbrett-kategori, slik man har i USA. 
+Dermed må man begi seg ut i forum-jungelen for å finne egnede nedlastninger. 
+
+Her kan du se noen bilder som er tatt med kameraet bak på Motorola Xoom. 
+Kvaliteten er helt grei, men å ta bilder med et stort nettbrett er ikke noe vi kommer til å gjøre ofte. 
+
+Det skal finnes omlag 100 som er tilpasset den store skjermen, men det er bare et fåtall som faktisk gir deg noen særlig verdi. 
+CNN var tidlig ute, og har en vakker sak for de som vil holde seg oppdatert på utenriksstoff. 
+Også Pulse er tilpasset Honeycomb, og gjør nyhetslesning gøyere enn hva nettleseren kan tilby. 
+
+Android 3.0 sin flotte ebok-leser Books er heller ikke tilgjengelig i Norge, viser det seg. 
+Så drømmen om en ny ebok-tilværelse gikk i grus. 
+Gamle travere som Kindle-appen fungerer greit, men er ikke på langt nær så sexy som det Google egentlig vil du skal bruke. 
+PDF-er fungerer også fint, men heller ikke dette gir deg den store "virtuell bok"-opplevelsen. 
+
+Selv om utvalget er sparsomt nå, vil det forhåpentligvis eksplodere på lik linje som det har gjort på Android-telefoner. 
+Xoom er eneste modell med Android 3.0 i skrivende stund, så det er ingen overraskelse at ikke flere utviklere har kastet seg på riktig ennå. 
+
+Akkurat som iPad-brukere kan laste ned iPhone-apps, kan også Honeycomb-brukere laste ned Android-apps beregnet på mobiltelefoner. 
+De finnes det mange av, og kvaliteten blir bare høyere og høyere. 
+Heldigvis skaleres telefon-apps annerledes enn på iPad, som bare zoomer inn på appen. 
+På Honeycomb blir appens elementer strukket ut i alle retninger, noe som gjør at for eksempel Tweetdeck fungerer fint også på en større skjerm. 
+I alle fall inntil noen lager en skikkelig nettbrett-Twitter-app. 
+Du finner en app for det aller meste på Android Market; spørsmålet er bare hvor bra den ser ut på et nettbrett. 
+
+Når det gjelder spill, er det overraskende mye bra å velge mellom, blant annet fordi Xoom har Tegra 2-prosessoren, som har tiltrukket seg mange flinke utviklere. 
+En egen app gir deg spillene som er optimalisert, og de ser nydelige ut. 
+Det gjør også mange av de andre Honeycomb-spillene man finner på Android Market, som klassikeren Angry Birds. 
+
+TV-ut med HDMI-tut 
+
+"Det er ikke noe som heter micro-HDMI" har jeg fått beskjed om fra flere butikker i Oslo sentrum, da jeg var på panisk kabeljakt. 
+Men det er det. 
+Og Xoom-en har en utgang for det. 
+
+Dermed kan du surfe nettet, vise bilder, spille av video og leke med sinna fugler på flatskjermen din. 
+Kvaliteten er god, og Android 3.0 blåser opp linjen nederst slik at alt du gjør på brettet faktisk blir i perfekt 16:9-format for TV-en din. 
+
+Men igjen: 
+Unge Android 3.0 kan slå seg vrang. 
+I Youtube-appen opplevde vi flere ganger at brettet slo seg av da vi forsøkte å spille av innhold på TV-en. 
+
+Men igjen: 
+Når det fungerer, fungerer det utmerket. 
+
+Mona Lisa-smilet 
+
+Etter en uke med Motorola Xoom og Android 3.0 sitter man med et ambivalent Mona Lisa-aktig smil om munnen. 
+
+Man forelsker seg fort i Honeycombs grensesnitt, muligheter og følelse. 
+Hun gir deg noe nytt, noe du ikke har følt før. 
+Hun er spennende. 
+Men akkurat i det forholdet går som best, gjør hun noe du ikke hadde forutsett, og du får blandede følelser: 
+
+"Burde jeg heller ha gått for den trygge og staute iPad? 
+Hva har jeg rotet meg opp i?" 
+
+Så slår hun til igjen med en ny innstilling, en ny app, en ny mulighet, og betenkelighetene druknes av ny kjærlighet. 
+
+Er Motorola Xoom det beste valget for min far? 
+Nei. 
+Han vil ha det enkelt, ut av boksen, og en iPad gjør jobben. 
+Derfor klistrer vi heller ikke "Anbefalt-produkt"-merket på denne testen. 
+
+Men er Xoom et godt valg for meg og andre teknofrelste? 
+Ja. 
+Vi liker å fikle og prøve nye ting, og takler en krangel om utfallet blir bedre enn hva konkurrenten kan tilby. 
+Dette er uten tvil det beste Android-brettet hittil. 
+
+Men Motorola Xoom er ikke tilgjengelig i Norge, og vil heller aldri bli det. 
+Det er kanskje like greit. 
+For når produsentene denne sommeren skal spy nettbrett ut over vårt ganske land, vil det nesten garantert være et Android-system som er langt mer stabilt, har langt flere apps og vil overbevise langt flere om at produkter som kommer fra andre enn Apple kan være vel så bra. 
+Eller enda bedre. 
+Slik gikk det med Android for telefoner, og slik vil det gå for Android for nettbrett. 
+
+Derfor får Xoom og Honeycomb ett øye på terningen for å være et skikkelig Android i storformat. 
+
+Ett for grensesnittet. 
+
+Ett for mulighetene. 
+
+Ett for ytelsen. 
+
+Og ett for fremtiden. 
+
+Her kan du se en rask gjennomgang av noen av funksjonene i Android 3.0, som avsluttes med et krasj: 
+
+Det er vanskelig å få med alt i én test, er det noe du lurer på? 
+Spør under artikkelen! 

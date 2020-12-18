@@ -1,0 +1,110 @@
+Kodak EasyShare V1253
+TEST: 
+Kodak EasyShare V1253 er et helt vanlig lommekamera med en ganske uvanlig egenskap. 
+Det tar opp video i HD-oppløsning. 
+
+DinSide Data har gjennomført en test av seks 12 megapiksels lommekameraer for TV2 Hjelper deg. 
+
+Full testoversikt med karakterer og rangeringer finner du her. 
+
+Det tredje kameraet i testen er Kodak EasyShare V1253. 
+
+En smak av fremtiden 
+
+Det har lenge vært spekulert i om vi i fremtiden vil få en perfekt sammensmelting av egenskapene til fullblods fotoapparater og videokameraer. 
+
+Vi har sett en rekke eksempler den siste tiden på at dette er i ferd med å skje, men foreløpig har det vært få lommekameraer som har kunnet ta opp video i høyere oppløsning enn 640 x 480 piksler, og kvalitetsmessig har de ligget et stykke bak hva man kan forvente av selv de billigste DV-kameraene med hensyn til kvalitet på lyd og bilde. 
+
+Kodak EasyShare V1253 forandrer bildet (bokstavelig talt) med ekte HD-oppløsning. 
+Riktig nok ikke "full HD" 1080P, men 720P (1.280 x 720 piksler) og stereomikrofon, ganske så oppsiktsvekkende for et kamera som i praksis for øvrig er et ganske alminnelig kompaktkamera, både utformings- og spesifikasjonsmessig. 
+
+Når vi først er inne på egenskapene, her er noen viktige fakta om EasyShare V1253: 
+
+Testens største skjerm er skarp og er synlig fra nær sagt død vinkel. 
+Den fungerer ok i direkte sollys og i mørke omgivelser. 
+For øvrig merker vi oss at objektivet ikke verken er spesielt lyssterkt eller byr på imponerende vidvinkel - men at kameraet byr på ansiktsgjenkjenning, og stabilisator. 
+Sistnenvte ligger verken i optikken eller CCDen, men digitalt - og det gir ikke like god effekt som mer sofistikerte løsninger. 
+Ansiktsgjenkjenning vil si at kameraet sørger for at ansiktet/ansiktene fokuseres skarpt på portretter. 
+
+Kameraet kan ta bilder i en rekke forskjellige oppløsninger (inkludert full HD 1920 x 1080), utvalget av manuelle innstillinger er over middels, og du har også en rekke forskjellige motivrelaterte scener å velge mellom. 
+
+For øvrig betjenes kameraet greit, vanlige funksjoner er lett tilgjengelig, og resten styres enkelt med stryrespaken på baksiden. 
+Skjermen er klar og skarp, med ekstremt god innsynsvinkel, men det er litt etterslep når kameraet beveges raskt. 
+
+Hastighetsmålinger 
+
+Vi har gjennomført en rekke hastighetsmålinger, og i tabellen under ser du tallene for Kodak EasyShare V1253. 
+Merk at utløsermålingene er gjort innendørs, tre meter fra et motiv med sterke kontraster, og målt uten forfokusering, fra fingertuppen berører utløseren til bildet er tatt: 
+
+Fem stoppunkter er lite på 3x optisk zoom, og kan føre til at du ikke får det utsnittet du ønsker uten å bevege deg litt. 
+For øvrig merker vi oss at utløserhastigheten er treg på full tele, blant de allere tregeste i testen. 
+Det som ikke kommer fram i tabellen over, er at zoomen er svært treg, og kameraet er også det desidert tregeste til å skru seg av(!). 
+Det tar flere sekunder fra du har trykket på knappen til objektivet trekkes inn i huset. 
+
+Kvalitetsvurderinger 
+
+Bildekvaliteten står til godkjent under de fleste forhold, men ikke mer. 
+Detaljer på avstand blir ikke skarpe, det ser ut som de er "malt". 
+Om dette blir veldig synlig eller ikke avhenger naturligvis av hvor stort format bildene vises eller printes i, men sett i forhold til de andre kameraene i testen er Kodak svakest på dette punktet. 
+Kameraet har også en tendens til å overeksponere lyse partier i bildet. 
+
+Men alt er ikke elendighet, automatisk hvitbalanse er stort sett bra på alle testbildene, og det er ikke noen selvfølge i lommeklassen. 
+Vi merker oss også at kromatisk feilbrytning nærmest er fraværende. 
+
+Støynivået er lavt til moderat, selv ved høy ISO - men da er tilgjengjeld detaljene borte. 
+Det er definitivt ikke noen fordel for deg som ønsker å bearbeide bildene i etterkant. 
+
+Vi har lagt ut noen uredigerte testbilder, slik at du får dannet deg et inntrykk: 
+
+Over til video 
+
+Vi var spent på HD-video-egenskapene, og før vi går på kvalitetsinntrykket kan vi opplyse om at kameraet er i stand til å fange 30 bilder pr sekund i oppløsningen 1280x720p - og det klarer det i inntil 80 minutter. 
+Det er imponerende, tatt i betraktning de fysiske forutsetningene i det kompakte huset. 
+
+Formatet er Apple Quicktime (.mov). 
+I Mac-verdenen er støtten for formatet standard i operativsystemet, og redigeringsprogrammer som iMovie håndterer filene fra V1253 uten konvertering, mens utvalget av tilsvarende programmer til Windows er noe mer begrenset. 
+
+Plasskrevende 
+
+Ett minutts opptak i beste kvalitet legger beslag på rundt 90 MB plass på minnekortet. 
+Det betyr at de tregeste SD-kortene vil få problemer, en skrivehastighet på mer enn 2 MB pr sekund er absolutt å anbefale. 
+
+Du kan zoome mens du filmer, men motorduren høres svært godt på opptakene. 
+
+Kvaliteten på opptakene avhenger i stor grad av lysforholdene. 
+Er det lite lys får kameraet raskt problemer med støy, detaljer blir grøtete, og vi opplevde også at kameraet deler bildet inn i store blokker/firkanter ved raske bevegelser. 
+Sistnevnte er et velkjent digitalt knep som man blant annet kan oppleve under avspilling av sterkt komprimert videomateriale. 
+
+Utendørs i solskinn fikk vi gjort noen opptak som ble temmelig bra, men vi opplevde at autofokusen noen ganger fikk problemer - spesielt etter å zoomet litt fram og tilbake, og ved skiftende lysforhold. 
+Også her vaskes detaljene ut ved raske bevegelser, og detaljer langt unna forsvinner i litt større grad enn vi setter pris på. 
+
+Kvaliteten kan altså på ingen måte sammenlignes med den du kan forvente fra fullblods HD-videokameraer, men i rettferdighetens navn; i dagslys er dette uansett noe av det bedre vi har sett på lommekamerafronten. 
+Mye tyder dessuten på at mange av oss, i disse YouTube-tider, er mindre kresen når det gjelder videokvalitet enn hva tilfelle er med stillbilder. 
+
+Lyden er imidlertid klar og god, med lite støy og andre forstyrrelser. 
+
+Klikk på filmklippene under for å se og høre kvaliteten (krever iTunes 7 eller nyere) 
+
+Hvis du ønsker å vise klippene på TV - finnes en HDTV-dock med fjernkontroll til formålet, denne kan kjøpes som tilleggsutstyr. 
+Docken kommuniserer med TVen via RGB. 
+Det kan gi bra resultater, men vi kunne tenkt oss en digital HDMI/DVI-utgang i tillegg. 
+
+Kameraet kan for øvrig kobles direkte til TV via medfølgende kabel, men da kun via kompositt og med monolyd. 
+
+Overføring til PC skjer via en meget proprietær kabel, men når den samme kabelen kan brukes til å lade kameraet via USB, blir vi blide igjen. 
+
+Oppsummering 
+
+Etter full gjennomgang av Kodak EasyShare V1253 kan vi konkludere med at det er et helt greit kompaktkamera som tar greie bilder, men ikke noe mer. 
+Sammenlignet med de andre i testen havner nok Kodak nederst når det gjelder bildekvalitet. 
+Hastigheten er generelt ikke noe å skryte av. 
+
+Apparatet er imidlertid temmelig lett å bruke, og skjermen er det klasse over. 
+
+Når det gjelder videoopptakene er det verdt å merke seg følgende: 
+Du får HD-oppløsning, men det er fortsatt mye å gå på med tanke på videokvaliteten - spesielt på scener med mye bevegelse og ikke minst - lite lys. 
+
+Da er det kanskje grunn til å spørre hva du egentlig ønsker deg, er høyoppløselig video til din nye 42-tommer høyt på ønskelisten er dette kameraet ikke noe for deg. 
+I et vindu på PC-skjermen kan saken være en helt annen. 
+
+Full testoversikt med karakterer og rangeringer finner du her. 

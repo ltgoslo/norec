@@ -1,0 +1,66 @@
+Belkin N750
+Belkin er ute med en ny serie rutere. 
+Vi har testet toppmodellen. 
+
+Noe som ikke forandrer seg på noen av ruterne vi henter inn til test er antallet nettverksporter. 
+Alle har bare fire porter, og stadig flere produsenter spanderer Gbit-ytelse på disse. 
+Men å utvide til flere porter er tydeligvis ikke aktuelt. 
+
+I den siste generasjonen rutere har ytelsen på trådløst nett gått vesentlig opp, og det har blitt vanlig med USB-kontakter for tilkobling av både skrivere og felles lagringsenheter. 
+
+Belkin har nå fem rutere i sin siste serie, som dekker forskjellige behov fra hybelnivå til entusiast. 
+Surf-modellene har bare støtte for grunnfunksjonene, og med begrenset hastighet og rekkevidde. 
+Play-modellene støtter både 2,4 og 5 GHz og har støtte for flere krevende bruksområder. 
+Forskjellen ligger i hastighet, interne funksjoner og antallet USB-porter. 
+
+Toppmodellen N750 byr på "alt", med 2,4 og 5 GHz trådløst nett, Gigabit nettverksporter, 2 USB-kontakter for felles skriver og lagring, og i tillegg topp ytelse og rekkevidde. 
+
+N750 
+
+Ruteren er laget for å stå på høykant, foten er fast montert. 
+Overflaten er i blank pianolakk og fasongen er både moderne og diskret. 
+
+På baksiden sitter alle tilkoblingene, på fronten er det bare blått lys som viser at ruteren er på, pluss en skjult knapp for aktivering av WPS - WiFi Protected Setup. 
+
+Brukervennlig 
+
+Til tross for de avanserte funksjonene kommer også toppmodellen levert med kabler allerede ferdig tilkoblet. 
+Dette gjør installasjonen så enkel som mulig. 
+
+På CD-en som følger med ligger det et installasjonsprogram som følger brukeren trinn for trinn gjennom prosessen. 
+Det er ikke så mange av disse trinnene, og det går rimelig raskt. 
+
+Når installasjonen er over er nettverkstilgangen på plass, men de mer avanserte egenskapene må man sette opp på annen måte. 
+Da er vi over i et mer tradisjonelt menysystem som kjører på ruteren og betjenes fra nettleseren. 
+
+Her kan du sette opp gjestenett, 2,4 og 5 GHz nett, konfigurere skriver og lagringstjenester tilkoblet USB-portene, prioritere oppgaver osv. 
+Alle muligheter er på plass. 
+
+Du kan også styre dette ved å kjøre Belkins "apps" fra PC-en, som så setter i gang handlinger fra ruteren. 
+
+On nettverkslagring via USB er tingen kan diskuteres. 
+Er det få og små filer det er snakk om går det greit, men snakker vi video og store bildefiler blir USB 2.0 for tregt, særlig hvis det er mange brukere som vil hente ut data samtidig. 
+Da er det langt med effektivt med en dedikert PC til filhåndtering, eller en nettverksdisk. 
+
+Det er heller ikke alltid at ruteren og skriveren ønskes plassert på samme sted, så skriverstøtten er ikke alltid så aktuelt. 
+Dessuten kommer svært mange skrivere i dag med trådløst nett innebygd. 
+
+Ytelse 
+
+Vi testet den trådløse ytelsen med to forskjellige PC-er, med støtte for henholdsvis 2 og 3 antenner. 
+
+I stua, 2 etasjer ned fra hemsen, fikk vi rett og slett imponerende hastighet med den bærbare som har støtte for 3 antenner. 
+Ytelsen falt en del da vi testet i kjelleren, men ytelsen var likevel meget bra. 
+
+Med PC-en med 2 antenner falt ytelsen en del. 
+I stua var det fremdeles meget god ytelse, men i kjelleren ble forskjellen en god del større. 
+Likevel absolutt brukbart. 
+
+Forøvrig har vi brukt ruteren til samtidig streaming og BF3-gaming, tung filkopiering over Gbit-nettverket og opp og nedlasting uten tegn til hikke. 
+
+Konklusjon 
+
+Belkin N750 er en meget rask og kapabel ruter, med egenskaper og ytelse på topp. 
+Den er brukervennlig både for entusiaster som vil fikle og de som bare vil ha prestasjoner og minimalt med fuzz. 
+
+Belkin N750 DB Wireless Dual-Band N+ Router F9K1103AT 

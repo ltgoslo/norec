@@ -1,0 +1,107 @@
+Asus Eee PC 1015PN
+Er dette den aller beste minibærbare PC-en på markedet? 
+
+Da den minibærbare PC-en, eller netbooken, entret markedet sommeren 2008, var det med brask og bram og stor interesse i markedet. 
+Endelig kom det små bærbare med prislapper som passet hvermansens lommebok. 
+Produktkategorien ble en umiddelbar suksess. 
+
+Men tidene forandrer seg fort på den digitale arenaen. 
+DinSide Data har nettopp vært i kontakt med flere av de store norske nettbutikkene, som kan melde om at interessen for disse maskinene er i klar tilbakegang. 
+
+Det er nok flere årsaker til det. 
+Nettbrettenes inntog med sine praktiske vertikale skjermer er en av dem, en annen kan være at den minibærbare PC-en lett faller mellom to stoler. 
+Ja, den er liten og lett å ta med seg, men den er også tregere, har ofte lavoppløst skjerm, og byr som regel på langt dårligere ergonomi enn sine storebrødre i "normalklassen". 
+
+Prismessig er det også blitt langt mindre forskjeller mellom en minibærbar og de rimeligste normalmodellene, og Windows-versjonen som følger med den minibærbare er som regel temmelig begrenset (Windows 7 Starter). 
+Da sitter man igjen med klart færre salgsargumenter enn for to år siden. 
+
+Lys i tunnelen? 
+
+Men produktene utvikler seg, og det er flere PC-produsenter som fortsatt satser tungt i minibærbar-segmentet. 
+En av dem er Asus, som er ute med en helt ny modell som overgår det meste av hva vi har sett tidligere. 
+
+Eee 1015PN heter den, og her er en kjapp oppsummering av de viktigste tekniske egenskapene: 
+
+10,2" skjerm, 1024 x 600 piksler Intel Atom N550 dobbelkjerneprosessor 1 GB DDR3-minne 250 GB harddisk (+ 500 GB nettlagring hos ASUS) 
+Nvidia ION2 grafikkbrikke HDMI- og VGA-utgang 10/100 Mbit nettverk Trådløst nettverk (B/G/N) 
+Bluetooth 3.0 Webkamera Minnekortleser Kensington-lås Windows 7 Home Starter Størrelse: 26,2 x 17,8 x 3,6 cm Vekt: 1,25 kg Pris: ca 3.500 kroner 
+
+Det er noen punkter som er spesielt interessante å merke seg. 
+Det første er Atom N550-prosessoren. 
+Den er temmelig ny, har to kjerner, og vil i mange tilfeller by på langt bedre ytelse uten at det går ut over batterilevetiden, sett i forhold til sin enkjernede lillebror N450. 
+
+Det andre er den ferske Nvidia ION2-grafikkbrikken og HDMI-utgangen. 
+Sammen med prosessoren skal det dermed ikke være noe problem å spille av høyoppløselig video (full HD) og vise det på TV-en. 
+I teorien i hvert fall. 
+
+Det som vi imidlertid setter et spørsmålstegn ved, er at maskinen kun har 1 GB internminne. 
+Dette, kombinert med en lang liste med programmer som kommer preinstallert, mange av dem kjørende til enhver tid, gjør at vi er litt skeptiske. 
+Mer om dette senere i denne anmeldelsen. 
+
+Bra eksteriør og byggekvalitet 
+
+Vi liker godt at Asus har brukt en plastoverflate som er matt, både på innsiden og på utsiden av PC-en. 
+Dermed slipper du de skjemmende fingeravtrykkene man så lett får på mange av de speilblanke konkurrentene. 
+
+Dessuten har Asus brukt en matt skjerm, noe som er en kjempefordel hvis du stadig irriterer deg over gjenskinnsproblematikken de fleste PC-er i dag er befengt med. 
+
+Tastaturet er fast og presist, og avgir lite lyd under skriving. 
+Det er faktisk oppsiktsvekkende bra å skrive fort på med touch-metoden, kanskje takket være at det utnytter hele bredden og at det er god plass mellom tastene. 
+Dermed blir feiltrykkene sjeldne. 
+Vi opplevde det som i en helt annen klasse enn tastaturet på Asus Eee PC 1005PE 
+
+Maskinen har en vifte som går mer eller mindre konstant. 
+Den er imidlertid svært støysvak, og det svake suset kan definitivt ikke omtales som plagsom. 
+I et normalt kontormiljø eller på kaféen vil den ikke være hørbar i det hele tatt. 
+
+Hva med ytelsen? 
+
+Dette er i det hele tatt kort og godt den mest behagelig minibærbare vi har jobbet på, og den oppleves som relativt kjapp til vanlige kontor- og internettoppgaver. 
+Det er imidlertid nok en gang verdt å nevne at listen over installerte programmer, hvorav mange kjører i bakgrunnen, er lang. 
+
+Mange av disse programmene er dessuten relativt unyttige for folk flest, og en runde med "vask" med Decrapifier kan definitivt være smart, spesielt hvis du ønsker bedre ytelse til fleroppgavekjøring. 
+Oppgradering av minnet til 2 GB er også noe vi absolutt vil anbefale. 
+Det er en billig investering, og ting vil stort sett gå mer smurt etterpå. 
+
+Tyngre oppgaver? 
+Tja... 
+
+Men hva med litt tyngre bruk? 
+Vel, det er ikke det man bruker en minibærbar til. 
+Windows gir oss følgende score på opplevelsesindeksen: 
+
+Spill-entusiaster bør gå for noe helt annet, men den relativt potente ION2-grafikken kan, når den brukes sammen med et egnet avspillingsprogram, avspille høyoppløselige videofiler. 
+Men noen 100%-løsning er dette dessverre ikke. 
+Slett ikke alle testvideoene våre i 1920 x 1080 pikslers oppløsning (1080P) lot seg avspille uten hakking eller andre problemer (vi testet VC1-format i MKV-konteiner, AVCHD (H.264) og Divx sammen med Windows Media Player og Media Player Classic Home Cinema). 
+
+Det er mulig vi hadde oppnådd bedre resultater dersom vi hadde kjørt Decrapifier først og optimalisert systemytelsen på forskjellige måter, men dette illustrerer uansett vårt poeng om at dette ikke er noen supercomputer. 
+Ingen PC med Atom-prosessor er det. 
+
+Derfor: 
+Hvis poenget med å kjøpe en bærbar er å koble den til TV for å spille av HD-video, og få det til å gå som smurt hver gang, bør du etter vår mening gå for noe annet, eksempelvis ASUS X5DIJ. 
+Den er riktignok større, men den koster omtrent det samme, og har mye mer av det meste. 
+
+Batterilevetiden er imidlertid en av styrkene ved denne PC-en. 
+Den har tre forskjellige ytelsesmodi, som kan velges manuelt - eller styres automatisk: 
+
+Autoposisjonen er å anbefale i de flest tilfeller, men vet du at det vil gå lang tid til du ser en stikkontakt igjen, kan du velge strømsparemodus manuelt. 
+I denne modusen og med variert bruk kan du se fram til 6-7 timer mellom hver lading. 
+Da kjører maskinen samtidig på strømsparende Intel HD-grafikk, som i videosammenheng blir temmelig svakt sammen med denne prosessoren. 
+
+Konklusjon 
+
+Man kan selvfølgelig innvende at det største problemet med dagens minibærbare, med unntak av at mange har et trangt og dårlig tastatur, er skjermoppløsningen - og retningen. 
+Det liggende formatet og kun 600 piksler i høyden er ikke optimalt for stort annet enn film, og slett ikke arbeid med dokumenter og lesing nettsider. 
+Her etterlyser vi noen som kan tenke nytt - og som kan gi nytt liv til produktkategorien minibærbare. 
+
+Formatet har altså sine klare begrensninger pr i dag, men Asus Eee PC 1015PN er uansett en god minibærbar PC. 
+Vi fremhever først og fremst byggekvalitet, skjerm og tastatur som positive aspekter, samt god batterilevetid. 
+Her ligger denne maskinen helt i toppen i forhold til det aller meste som befinner seg i klassen. 
+
+Men så spørs det da, om 3500 kroner er en litt drøy pris for en såpass enkel maskin. 
+Vi tror det. 
+Uansett vil konkurransen mot nettbrettene kanskje bli i tøffeste laget for produktkategorien i 2011, og det handler ikke bare om pris, men like mye om den totale brukeropplevelsen. 
+
+Men sammenligner man denne PC-en med andre minibærbare vi har testet (og det skal man jo gjøre), lander vi på en femmer på terningen. 
+
+Asus Eee PC 1015PN - 1,5GHz DC 1GB 250GB 10" 

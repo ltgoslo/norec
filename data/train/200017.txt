@@ -1,0 +1,67 @@
+Sandberg Hard Disk Cloner
+Trenger du å bytte disk? 
+Eller lage identiske kopier? 
+
+Hvis man har flere PC-er i huset og driver med oppgraderinger og vedlikehold er det ofte behov for å kopiere disker eller hente ut innhold fra dem. 
+Det kan by på forskjellige praktiske utfordringer, med demontering, montering og til- og frakobling av disker. 
+
+For å gjøre disse oppgavene enklere og ryddigere har Sandberg funnet en løsning, som heter Hard Disk Cloner. 
+Men den kan mer enn å "klone" disker. 
+
+I pakken 
+
+I pakken finner vi selve Cloneren, som er en dokk med to brønner for harddisker på høykant. 
+Videre er det en strømforsyning, en USB-kabel og en eSATA-kabel, en liten brukerveiledning og en CD med programvare for Windows. 
+
+På baksiden av enheten finner vi ikke overraskende tilkoblinger for strøm, USB og eSATA. 
+Nede i diskbrønnene finner vi standard tilkobling for SATA, både data og strøm. 
+
+Du kan altså bruke den med SATA disker i både 2,5" og 3,5" format, men ikke for eldre PATA/IDE-disker. 
+
+Tilkobling 
+
+Kobler du den til med USB fungerer den som en ekstern lagringsenhet med to flyttbare disker. 
+De dukker opp i utforskeren akkurat som andre flyttbare disker. 
+
+USB har som kjent en begrenset hastighet for dataoverføring, så større mengder data kan ta lang tid å overføre mellom diskene i PC-en og i dokken. 
+
+Et godt alternativ er eSATA-tilkoblingen, som er like rask som selve disken. 
+For å kunne bruke denne må PC-en ha en eSATA-kontakt, noe som er vanlig på de fleste nyere stasjonære og litt mer avanserte bærbare. 
+Det finnes også tilleggskort for PCIexpress og ExpressCard. 
+
+Men det er bare disken i brønn A som kan kobles til med eSATA, den andre blir ikke registrert. 
+
+Kobler du til en diski eSATA i brønn A og setter en annen disk i brønn B blir begge koblet til via USB. 
+
+Noen PC-er støtter hot-swap for disker koblet til med eSATA, dette avgjøres av grunnkonfigurasjonen i PC-en. 
+Hvis ikke disken dukker opp under Safe Removal/trygg fjerning i oppgavelinjen er dette ikke støttet på den maskinen. 
+
+I bruk 
+
+Det smarte med en egen, frittstående boks for kloning av disker er at dette kan gjøres mens du bruker PC-en til noe annet. 
+
+Da kobler du ikke boksen til PC, men setter originaldisken i brønn A og disken som det skal kopieres til i brønn B. 
+Så slår du på strømbryteren til dokken. 
+
+Når diskene har spunnet opp trykker du ned Clone-knappen på dokken og holder den nede i litt over 3 sekunder. 
+Så slipper du den opp og trykker den ned igjen med det samme. 
+Da starter kloneprosessen, og de blå lysdiodene på kapasitetsskalaen blinker etter hvert som kloningen skrider frem. 
+
+Det går omtrent så raskt som diskene klarer å jobbe, vi klonet en 250 GB disk over på en 320 GB disk, og det tok en time og ni minutter. 
+Dette var litt eldre disker, og regner vi om finner vi at klonehastigheten lå på ca 70 MByte/sek, og det er faktisk det disse diskene kan prestere. 
+
+Når kloningen er ferdig har den klonede disken fått en partisjon som er nøyaktig like stor som på originaldisken. 
+Den ledige kapasiteten er ikke partisjonert. 
+
+Hvis disken skal plasseres i en maskin med Windows 7 er det enkelt å ordne opp i dette. 
+Under diskbehandling kan du velge å utvide en partisjon slik at den inneholder mer av eller hele den tilgjengelige kapasiteten på disken. 
+Dette er gjort på et øyeblikk. 
+
+Har du en eldre Windows-utgave må du bruke et annet program til å utvide partisjonen, eller lage en ny partisjon på det ledige området. 
+
+Konklusjon 
+
+Hard Disk Cloner er et fleksibelt og allsidig produkt. 
+Det er enkelt i bruk og gjør en utmerket jobb. 
+
+Prisen er heller ikke avskrekkende, sammenlignet med å anskaffe to eksterne diskkabinetter. 

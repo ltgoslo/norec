@@ -1,0 +1,86 @@
+ATI Radeon 5450
+Vifteløs grafikkort for mediesenter-PC, vi har testet ATI sitt siste tilskudd til 5x-serien. 
+
+Vi har skrevet flere artikler i det siste om mediesenter- og stue-PCer. 
+Temaet er blitt høyaktuelt i det siste, mye takket være nye online video- og musikktjenester som Voddler, Headweb og Spotify. 
+
+Mange ønsker dessuten å kombinere muligheten til å se filmer, lytte til musikk og samtidig kunne benytte seg av vanlige surfemuligheter via TV-skjermen, og her er PC-en foreløpig den desidert beste inngangsporten. 
+
+Og det behøver ikke koste skjorta. 
+Vi omtalte nylig prosessoren AMD Sempron 140, som sammen med et hovedkort med integrert HDMI-utgang og 2 GB minne, var i stand til å spille av materiale i full HD, inkludert Blu-ray og MKV-filer, ved bruk av riktige programmer. 
+Totalprisen på disse tre delene var 1095 kroner. 
+Du finner artikkelen her. 
+
+Første vifteløse 
+
+Men hva om du allerede har en PC med integrert grafikk eller svakere grafikkort som ikke er i stand til å spille av HD-materiale, eller ikke byr på utgangene du ønsker? 
+Det er først og fremst denne målgruppen AMD har i tankene med sitt sylferske ATI Radeon 5450-kort. 
+Dette er et budsjettkort, prisene starter på under 400 kroner. 
+Og da byr kortet på både VGA, HDMI og DVI-utganger, DirectX 
+11-støtte og internminne på 512 MB. 
+
+Alle tre utganger skal dessuten kunne benyttes samtidig, slik at du kan ha tre skjermer tilkoblet. 
+Maks oppløsning på HDMI og DVI-utgangene er 2560 x 1600 piksler. 
+
+5x-serien har høstet mange godord de siste månedene, og har ført til at AMD igjen har et lite overtak på konkurrenten Nvidia. 
+Dette bølger imidlertid alltid fram og tilbake. 
+5450 er det første i serien som kan kjøles passivt, takket være svært lavt strømforbruk (19 W under belastning). 
+
+Ikke for spillentusiastene 
+
+Kortet har mange av de egenskapene som storebrødrene i serien byr på, men spillerne bør se en annen vei. 
+5450 avløser 4350, og byr på ganske mye høyere ytelse i spillsammenheng, men det er neppe nok for spillentusiastene. 
+
+Nettstedet TechSpot har allerede testet dette kortet med fokus på spill, og har kommet fram til at mye av det som var hot i 2007 kan spilles i rimelig god kvalitet og oppløsning. 
+Men nyere titler er som regel langt mer krevende, og da bør man gå opp et par klasser og hundrelapper. 
+
+Vårt testoppsett 
+
+I vår test har vi ikke fokusert på spillytelsen, men multimedia-egenskapene. 
+Og her er Radeon 5450 helt på høyden. 
+Kortet vi har testet er levert av produsenten XFX, og er en vifteløs variant, noe som absolutt bør være interessant i en stue-PC, der lav støy er svær viktig. 
+Kortet har tre utganger, DVI, VGA og HDMI. 
+Sistnevnte støtter også HDCP-kryptering, slik at den kan fint brukes i sammenheng med en Blu-ray-spiller i PC-en. 
+
+Alle tekniske data 
+
+I pakka følger det også med en brakett som gjør det mulig å montere kortet i et lavprofil-kabinett, nok et bevis på at dette er myntet på mediesenter/stue-PC. 
+For øvrig er det ikke mye annet som følger med, med unntak av en driver-CD og tynn manual. 
+
+Vi installerte Windows 7 på vår test-PC, samme lavbudsjettmodell som ble brukt i denne testen, og siden kortet er så ferskt ble det ikke gjenkjent av operativsystemet. 
+Installasjonsprogrammet på CD-en krasjet da vi prøvde å kjøre det, så vi var nødt til å laste ned siste driveren fra ATI.com. 
+Etter en omstart var alt på plass. 
+
+Ytelsen 
+
+Vi kjørte deretter Windows 7 sitt innebygde ytelsesmåler, og fikk følgende resultater: 
+
+Sammenligner vi tallene med samme PC men med den integrerte Geforce 8200-grafikken, ser vi at det først og fremst er spillytelsen som er litt høyere: 
+
+Vi opplevde hakking ved avspilling av HD-materiale ved bruk av programmet VLC på den integrerte grafikken. 
+Det samme opplevde vi med Radeon 5450 på plass. 
+Dette skyldes at VLC i hovedsak belaster PC-prosessoren under avspilling, og da spiller grafikkortet mindre rolle. 
+
+Media Player Classic, derimot, gav oss en helt annen opplevelse. 
+Med den integrerte grafikken gikk det også fint, men som vi ser av bildene under, er prosessorbelastningen med 5450 på plass svært mye lavere, takket være at prosesseringen i all hovedsak foretas av grafikkprosessoren: 
+
+Dermed kunne vi gjøre andre oppgaver på PC-en samtidig, uten å merke noen begrensninger i ytelsen. 
+Ut fra dette skjønner vi at 5450 kan egne seg til formålet på PC-er med langt svakere prosessor enn i vår test-PC. 
+
+Varmt 
+
+Med et så lavt strømforbruk som 19W under maks belastning, burde varmeutviklingen være lav. 
+Vår test er gjort i et romslig miditower-kabinett, riktig nok uten andre vifter enn den som sitter i strømforsyningen, men vi synes det er urovekkende at temperaturen ble over 70 grader under avspilling av HD-film: 
+
+70 grader er ikke noe problem, men i et trangere kabinett kan det fort bli det. 
+I så fall ville vi ha satset på et kort med vifte, eventuelt en ekstra kabinettvifte som kan dra varmen ut. 
+
+Final words 
+
+Dette grafikkortet er helt supert til vanlig PC-bruk og videoavspilling. 
+Det har HDMI-utgang med støtte for full surround-lyd, og er derfor veldig enkelt å koble i en surroundforsterker eller rett i TV-en. 
+
+Det er imidlertid liten grunn til å kjøpe dette kortet hvis du allerede har en PC med nyere hovedkort med integrert grafikk som allerede er i stand til å spille av HD-materiale og byr på de utgangene du trenger. 
+Det måtte i tilfelle være hvis du ønsker en løsning med tre eller fire skjermer koblet til samtidig. 
+
+Vifteløst kort er fint, men dette blir så varmt under belastning at en kabinettvifte er absolutt å anbefale. 

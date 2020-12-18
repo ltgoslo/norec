@@ -1,0 +1,149 @@
+PC-TEST:Nå kommer kineserne for fullt 
+
+Huawei er plutselig å regne med i PC-markedet. 
+
+Huawei har passert Apple i mobilmarkedet to måneder på rad, nå legger det kinesiske selskapet grunnmuren som også skal gjøre dem større enn MacBook-produsenten i PC-markedet. 
+
+Apple er riktig nok ikke den største PC-leverandøren og ligger på fjerde- eller femteplass, avhengig av hvilket analyseselskap man spør, men Huawei skal gjøre en god jobb for å passere dem. 
+Den solide grunnmuren selskapet har lagt for sine MateBook-PC-er, gir i hvert fall optimisme til suksess i et nytt marked. 
+
+MateBook D 
+
+Det hele startet med den første MateBooken for et par år siden. 
+For nordmenn ble Huaweis PC-er mer interessant da MateBook X ble sluppet her rundt dette tidspunkt i fjor. 
+Vi var strålende fornøyd med Huaweis første PC i det norske markedet. 
+«Denne PC-en er en innertier», skrev vi om MateBook X og gav den full pott. 
+
+2018 er blitt enda mer spennende og vi har sett lanseringen av imponerende MateBook X 
+Pro, men også MateBook D som vi har hatt inne på testbenken de siste ukene. 
+D-serien er for øvrig ikke ny, men det er første gang den blir tilgjengelig her til lands. 
+
+Huawei handler mye om å gi kundene alternativer og det gjør de jammen meg også med MateBook D. Den er tilgjengelig med en rekke Intel-prosessorer, Nvidia-grafikkort, men også CPU og GPU fra AMD. 
+Det er sistnevnte vi har testet. 
+
+Som du kan se av tabellen over, er det i hovedsak to ting man går glipp av hvis man velger AMD-utgaven fremfor modellen med Intel/Nvidia. 
+Først og fremst det dedikerte GeForce MX150-kortet fra Nvidia. 
+Om ikke superkraftig, er det i hvert fall kraftigere enn AMDs interne Vega 8-løsning. 
+
+Den andre tingen er biometrisk opplåsning. 
+Nærmere bestemt Windows Hello-fingersensor. 
+I MateBook X og X 
+Pro beviste Huawei at de er klasseledende på fingerpålogging på PC – Apples Touch ID er ikke i nærheten hva gjelder funksjonalitet og hurtighet – så det er synd å se en PC fra Huawei uten denne. 
+
+Ellers deler PC-ene mange av de samme egenskapene. 
+Begge har for eksempel én USB-C-kontakt (til lading og data), én USB 3.0, én USB 2.0 og én HDMI 2.0. 
+Merk at det skiller rundt 1500 kroner mellom de to modellene. 
+
+Obs, obs. 
+At USB-C er på plass, betyr ikke at MateBook D har Thunderbolt 3. 
+Det har den faktisk ikke, men man kan bruke kontakten og for eksempel HDMI-adapter for å koble til en ekstern skjerm. 
+Husk at en PC som har USB-C, forteller egentlig svært lite. 
+
+God byggekvalitet 
+
+Huawei gjør ikke noe overilt med designet. 
+På utsiden ser MateBook D ut som hvilken som helst annen sølvgrå laptop (de er det mange av), men med den lettkjennelige Huawei-logoen. 
+Åpner man lokket kan man lett forveksle med en MacBook, men det er altså ikke. 
+
+På hver side av tastaturet sitter det to forholdsvis store høyttalergriller. 
+PC-en er utstyrt med fire høyttalere og har Dolby Atmos-sertifisering. 
+Vi var ganske opprømte over lydbildet MateBook X 
+Pro leverer, tross den slanke utformingen, og MateBook D gjør seg heller ikke bort. 
+Lydmessig virker som at Huawei har et overtak på konkurrentene. 
+
+Chassiset er utformet i aluminium, og byggekvaliteten er for det meste slik man forventer av en PC til rundt 8.500 kroner. 
+Hvis man skal pirke på noe her, må det være at lokket svikter litt når man trykker på det. 
+
+Vekten er for øvrig på 1,45 kilo, noe som ikke er spesielt avskrekkende for en PC på 14 tommer. 
+
+Litt tam skjerm 
+
+MateBook D har en IPS-skjerm med en oppløsning på 1920 x 1080 piksler, noe som vil holde for de fleste, men lysstyrken på 250 nits er ikke spesielt imponerende. 
+Det gjør at de laveste nivåene er altfor mørke og man må opp til minst 50 prosent for et levelig bilde. 
+En annen ting er at innsynsvinkelen er noe begrenset, samtidig som vi savner litt mer levende og dypere farger. 
+Kjekt i tilfeller der man ikke vil at sidemannen skal se hva man jobber med, men kjipt i andre. 
+
+Oppløsningen kunne gjerne vært høyere, men da hadde det nok ført til høyere pris og kanskje noe kortere batteritid. 
+Merk at skjermen er matt så den er ikke like plaget av reflekser som blanke PC-skjermer. 
+
+Ellers fortjener tastaturet og styreflaten skryt. 
+Tastaturet likner veldig på det mye omtalte «butterfly-tastaturet» til de nyere MacBook Pro-maskinene, men MateBook D kan skilte med lengre vandring. 
+Et ekstra pluss er at det avgir forholdsvis lite lyd. 
+
+Styreflaten er av typen Windows 10 Precision – som blant annet betyr at den støtter det som er av flerfingergester i Windows 10 – og er rask og responsiv. 
+Hvis det er noe vi skal utsette på denne fronten, må det være at styreflaten er noe liten. 
+
+Lite skrot, men 
+
+MateBook D leveres med det som kalles Signature Edition av Windows 10. 
+Kort fortalt betyr det at det ikke ligger noen tulleprogrammer som demoversjoner av antivirus og liknende fra tredjeparter, men PC-en er ikke helt ren. 
+Forhåndsinstallert lå flere spill og andre apper som skaper mer irritasjon enn de gjør nytte. 
+
+Dette er ikke Huaweis feil, men heller Microsoft som besudler det ellers så flotte Windows 10 med unødvendige apper og tjenester fra andre selskaper. 
+
+Én eneste app fra Huawei ligger forhåndsinstallert og det er det nyttige PC Manager. 
+Det har mange likheter med «Telefonbehandling»-appen på selskapets smarttelefoner og gjør at man kan sjekke MateBook 
+Ds tilstand (for eksempel om det er noe maskinvarefeil), koble mot smarttelefonen sin for enkel deling av bilder og video og enkel oppdatering av drivere. 
+Med andre ord en ganske nyttig app. 
+
+Ytelse og batteri 
+
+Det er greit å ta det først som sist: 
+MateBook D er ingen spill-PC. 
+Vi fikk ikke engang startet «Forza Horizon 4», men ble møtt med et varsel om at PC-en på ingen møter kravene til å spille det. 
+Greit nok det, «Forza Horizon 4» er et ganske vakkert og ressurskrevende spill, og opplevelsen ville neppe vært noe god med AMDs integrerte Vega 8-GPU. 
+
+«Minecraft» gikk derimot helt fint og var ingen utfordring for grafikkortet, men det spillet kan ikke sammenliknes med Microsofts bilspill. 
+«Fortnite» og «Football Manager» er to spill som også går greit på MateBook D, men da på lavere grafikkinnstillinger. 
+
+Ellers er ytelsen til MateBook D som vi egentlig hadde forventet. 
+Den gjør seg godt til kontorarbeid tilkoblet en ekstern skjerm – dette tilfellet en 4K-skjerm fra Dell og MateBook D leverer maksimal oppløsning uten å hikke – surfing, underholdning som Spotify, Netflix og HBO og er nok perfekt for studenten. 
+
+Dog er ikke all rosenrødt og det hender at ting henger i noen sekunder fra tid til annen. 
+I disse tilfellene er musepekeren aktiv, men intet annet responderer. 
+I tillegg kommer det overraskende mye viftestøy fra PC-en, og det skjer spesielt under opplading. 
+Dette er to ting som forhåpentligvis kan fikses med en fastvareoppdatering. 
+
+Vi kjørte MateBooken gjennom den sedvanlige testen til Passmark PerfomanceTest, og her scorer AMD Ryzen 5-prosessoren 7675 poeng. 
+Det er rundt 15 prosent lavere enn den toppspesifiserte MateBook X 
+Pro-utgaven vi testet tidligere i år, noe som faktisk er så ille. 
+Grafikkytelsen er derimot mye svakere og det samme er SSD-hastighetene: 
+
+CrystalDiskMark. 
+Test av SSD-en: 
+
+Som du ser er ikke SSD-en ganske kraftig, men man må nok litt opp i pris for en PC med raskere lagringsbrikker av typen NVMe. 
+
+I vår batteritest – som inkluderer kontinuerlig strømming av video – holder MateBook D det gående i nærmere syv timer, noe som må sies å være tilfredsstillende for en PC i denne prisklassen. 
+
+MateBook X 
+Pro klarte til sammenlikning drøye ti timer, men har samtidig en høyere prislapp. 
+
+Uansett går ladingen forholdsvis raskt, noe som virker å være tilfellet med samtlige produkter fra Huawei som vi tester. 
+Forvent rundt 60 prosent etter 1 time med lading. 
+
+Hvilken skal man velge? 
+
+Et av de viktigste spørsmålene er om en skal velge MateBook D med AMD-brikkesett, Intel eller kombinasjonen Intel/Nvidia. 
+Det nærmeste alternativet til AMD-versjonen er den med Intel-brikkesett og som koster 500 kroner mer. 
+Brukertester fra UserBenchmark viser at Intel i5-8250U yter noe bedre enn Ryzen 5 2500U, men forskjellen er ikke stor nok til at vi anbefaler deg å bla opp en femhundrelapp ekstra for Intel basert på kun ytelse. 
+
+Batteritid spiller også inn her, men den er vanskelig å si noe om uten å ha testet begge modellene. 
+Huawei estimerer med 12 timer batteritid for MateBook D med Intel, mens AMD opplyser at deres tester viser at Ryzen-modellen har en batteritid på 7–8 timer. 
+I tillegg kan vi jo nevne fingersensoren som er ganske kjekt å ha og som kun Intel-utgavene har. 
+
+Derimot er det enklere å anbefale utgaven med Intel-prosessor og Nvidia-grafikk hvis man liker å spille og ønsker en forholdsvis god opplevelse. 
+Man må ut med 1500 kroner ekstra – en tusenlapp mer enn den med integrert Intel-kort – men vil for spillere være verdt den ekstra summen. 
+
+Konklusjon 
+
+Huawei gjør det stort i mobilmarkedet og vi tror det bare er et tidsspørsmål før de begynner å dukke opp på statistikken blant de mestselgende PC-produsentene i verden. 
+Vi var strålende fornøyd med både MateBook X og MateBook X 
+Pro, og Huawei fortsetter den gode trenden med MateBook D. 
+
+Dette er for så vidt en rimeligere modell, så den totale kvalitetsfølelsen er litt lavere sammenliknet med de to andre nevnte modellene. 
+Byggekvalitet, skjerm og ytelse er ting som ikke er samme gate, men nå må man riktig nok ut med noen tusenlapper ekstra for X-ene. 
+
+Er man for eksempel ute etter en PC som skal brukes mens man studerer, er MateBook D et alternativ vi trygt kan anbefale. 
+Det gjelder både den med Intel og med AMD. 
+Ønsker man å spille litt i tillegg, bør man unngå Ryzen-modellen og heller gå for den med dedikert MX150-kort fra Nvidia. 

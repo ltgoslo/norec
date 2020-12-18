@@ -1,0 +1,66 @@
+Windows Movie Maker 2011
+Er dette alt du trenger for å redigere hjemmevideoen? 
+Vi har tatt en titt på 2011-versjonen av Windows Movie Maker. 
+
+Windows Movie Maker. 
+Lansert i år 2000 med brask og bram, som standard videoredigeringsprogram i den sagnomsuste Windows Me, operativsystemet som de fleste har glemt i dag, litt over 10 år senere. 
+
+Men noen elementer fra Windows 
+Me har fått leve videre i nyere Windows-utgaver. 
+Videoredigeringsprogrammet Windows Movie Maker er en av dem, riktig nok ikke lenger en standard Windows-komponent, men løftet ut som en del av Windows Live-konseptet. 
+Du laster det ned hvis du ønsker å bruke det, men det er fortsatt helt gratis. 
+
+Forenkler prosessene 
+
+Alle som har drevet med en eller annen form for videoredigering vet at det ikke alltid er så lett. 
+Programmene blir gjerne altfor kompliserte og uoversitklige, prosessene blir tunge og krever mer av maskinene din enn den er i stand til, og etter at du er ferdig med den første tapen frister det sjelden å gå på tape nummer to. 
+
+I 2011 snakker vi ikke om tape lenger, skjønt mange har slike liggende. 
+Og Windows Movie Maker lar deg importere direkte fra DV eller Digital8-kamera via FireWire-porten, eller du kan importere filer som du har laget med fotoapparatet, videokameraet, mobiltelefonen eller andre kilder. 
+Webkamera på direkten støttes også. 
+
+Formatstøtten (på importsiden) er ganske bra, og inkluderer vanlige formater som M4V, WTV, MOV, AVCHD, MPEG-4, MT2, og 3GP - for å nevne noen. 
+Du kan også importere stillbilder (JPG, BMP osv) som du kan putte inn mellom videoklippene. 
+
+Kun det viktigste 
+
+Poenget med Windows Movie Maker er, og har alltid vært, å gjøre det enkelt å klippe i og sette sammen videoklipp og eksportere dette til en ny videofil. 
+Selv om grensesnittet har forandret seg vesentlig gjennom årene, er enkelheten fortsatt vesentlig, og det går forståelig nok på bekostning av de mer avanserte funksjonene. 
+
+Du kan legge på tekst og lyd, men ikke bilde - i - bilde eller flere elementer oppå hverandre. 
+
+Du kan imidlertid velge mellom en rekke overganger mellom klippene, du kan snu videoer som er filmet på høykant, velge ferdig definerte temaer, og kan også legge på effekter av ymse sorter for å skape spesielle stemninger. 
+Et godt tips er imidlertid å holde ting så enkelt og rent som mulig, for å unngå "tivoli-effekter", med mindre det er litt av meningen. 
+
+Grensesnittet i programmet minner om fanene i nyere versjoner av Office. 
+Poenget med disse er at alt skal være synlig uten behov for nedtrekksmenyer. 
+Det fungerer ganske greit, men vi har sett løsninger som har visualisert en naturlig redigeringsprosess bedre. 
+Det er imidlertid feil å si at dette ikke er brukervennlig, for det er det. 
+
+Bilder, lyd og videoklipp 
+
+Import av klipp er enkelt, du bare drar og slipper bilder, lydfiler og videofiler filer til høyre del av programvinduet, og setter dem i den rekkefølgen du ønsker. 
+Du kan også klikke på dem for å sette markøren på et spesielt tidspunkt, høyreklikke og markere start/slutt på det aktuelle klippet. 
+Ønsker du å sette inn en overgangseffekt, klikker du bare i starten av et klipp før du klikker på den ønskede overgangen. 
+Denne blir visualisert med det samme. 
+
+Bildetekster settes inn på samme måte. 
+I tillegg kan du lage tittelbilde (først) og rulletekst (til slutt) 
+
+Til venstre forhåndsvises prosjektet ditt i et eget videovindu med avspillingskontroller. 
+
+Ferdig redigert video kan blant annet eksporteres til Facebook, Flickr og YouTube, eller brennes til DVD. 
+
+Du kan også eksportere til diverse forhåndsdefinerte - eller egendefinerte profiler (inkludert HD-video), men kun i WMV-format - noe som kan være en begrensende faktor for enkelte. 
+
+Å "kverne" en ferdigrediert 720P HD-film på to minutter tok litt under minuttet på vår stasjonære PC med Windows 7 64 bit, 6 GB minne og AMD Phenom II 905E-prosessor. 
+Hvor lang tid det tar for deg avhenger av PC og hvilken formatprofil du velger. 
+
+Konklusjon 
+
+Windows Movie Maker 2011 byr på begrenset videoredigeringsmuligheter, men det fungerer, det er gratis, og det er relativt enkelt å jobbe i. 
+Glimrende for deg som bare ønsker å lage en kjapp video for deling for eksempel i sosiale nettverk, men blir fort for begrenset for deg som har litt større ambisjoner. 
+Er du blant dem, bør du ta en titt på våre omtaler av Sony Vegas Movie Studio og Pinacle Studio 14. 
+
+Windows Movie Maker 2011 er en del av Windows Live Essentials-pakka. 
+Du finner mer informasjon og kan laste ned hele eller deler av pakka fra denne siden. 

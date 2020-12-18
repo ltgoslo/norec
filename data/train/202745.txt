@@ -1,0 +1,126 @@
+Kodak EasyShare V610
+Nok en gang får vi et kamera med to objektiver fra Kodak. 
+Denne gangen heter modellen V610 og byr på 10x optisk zoom. 
+Med det er det verdens minste 10x-kamera! 
+
+For noen måneder siden testet vi Kodak V570, som med to objektiver kunne by på vidvinkel tilsvarende 23mm i et kompakt ytre. 
+Vi klarte imidlertid å styre vår begeistring, for selv om idéen var god, hadde kameraet nokså dårlig bildekvalitet, brukervennligheten var så som så og heller ikke ytelsen var spesielt å skryte av. 
+
+Så 
+ hva har Kodak funnet på denne gangen? 
+Jo, fortsatt er det plassert to objektiver i kameraet, men denne gangen er det ikke vidvinkel som står på programmet 
+ V610 har nemlig blitt verdens minste kamera som har 10x optisk zoom, med et brennviddeområde på 38-380mm. 
+Når du zoomer nok inn til at det vanlige objektivet ikke lenger klarer å zoome, trykker du bare zoomkontrollen inn nok en gang for å bytte objektiv. 
+Da kan du fortsette innzoomingen, men løsningen ville ha vært bedre dersom den var sømløs og det tar lang tid å zoome fra én ende av brennviddeområdet til det andre. 
+Det skal sies at det ikke er helt fullverdig 10x optisk zoom, og at vi finner et hull siden det ene objektivet har 38-114mm og det andre har 130-380. 
+
+Objektivene er ganske lyssvake 
+ vidvinkelobjektivet har en maksimal blenderåpning på f/3,9 og det er ikke mye å skryte av. 
+Faktisk slipper det inn omtrent halvparten så mye lys som et objektiv med f/2,8, og det betyr enten dobbel ISO-verdi eller dobbelt så lang lukkertid for å få samme lysmengde. 
+Tele-objektivet har f/4.8 som største blender. 
+
+Ellers har kameraet to 1/2,5 CCD-sensorer som fanger seks megapiksler 
+ en til hvert objektiv. 
+En av nyhetene denne gangen er at V610 også støtter Bluetooth, som gjør at du f.eks. kan sende bildene du tar rett til mobiltelefonen din, eller til en PC, skriver eller kamera i nærheten som har støtte for Bluetooth. 
+
+Stort og firkantet 
+
+Design er naturligvis smak og behag, men vår mening er at kameraet ikke er så pent å se på. 
+Det er stort (markant større enn det typiske "lommekameraet"), firkantet og ikke spesielt ergonomisk utformet, annet enn at plassen til høyre tommel er noe buet for et bedre grep. 
+I front troner det store linsedekselet når kameraet er slått av, som raskt går til siden når kameraet slås på. 
+Blitsen er plassert helt oppe i hjørnet og gjør at du må være ekstra forsiktig så du ikke får satt pekefingeren foran når du tar bilder. 
+
+På baksiden troner den 2,8 store LCD-skjermen. 
+Den imponerer oss på ingen måte annet enn å være stor og ha god innsynsvinkel, men søkerbildet blir veldig kornete og uskarpt i tillegg til å ha et tydelig etterslep 
+ at denne skjermen har 230.000 piksler kommer på ingen måte til sin rett, og dessuten er den vanskelig å se i sollys. 
+I tillegg synes vi at det er litt merkelig at Kodak viser en langt mer støyfylt og dårlig utgave av bildet i det du har knipset (ved auto preview). 
+Velger du å vise bildet manuelt i etterkant, ser det mye bedre ut  sannsynligvis er bildet som vises først helt ubehandlet av kameraprosessoren. 
+
+En ting vi liker er at bildene roteres automatisk dersom du vinkler kameraet. 
+Har du tatt bilde på høykant, kan du bare rotere kameraet på høykant for å se bildet 
+riktig vei. 
+Det er funksjonalitet vi finner hos noen få andre kameraer. 
+
+Som vanlig fra Kodak brukes det lite ikoner og heller mer tekst til knappene. 
+Vi finner ingen grønn avspillingsknapp, men knapp nummer fire av fem er merket review og gjør at du kan se på bildene. 
+Spør du oss, er dette en lite brukervennlig løsning fra Kodak. 
+De andre knappene er scene (der du kan velge hva slags motiv du tar bilde av), delete, menu og share. 
+Sistnevnte knapp tar deg inn i menyen for deling av bilder, og her kan du sende bildet via Bluetooth, markere det for utskrift eller e-postsending når du kobler det til PC, eller legge det til i favorittene dine. 
+
+Favorittene er lett tilgjengelige via en knapp på toppen av kameraet, og på denne måten kan du bla igjennom dine "Kodak moments" uten å måtte se alle de andre bildene. 
+Ved siden av favorittknappen finner vi også knapper for å bytte mellom videoinnspilling og vanlig kameramodus, i tillegg til av og på-knappen og en knapp som lar deg kontrollere bruk av blits. 
+På piltastene på høyre side finner vi snarveier til hvor mye informasjon som skal vises i displayet og makromodus. 
+Både hjelpelinjer og histogram kan vises i displayet, og makronærgrensen er oppgitt til 5cm, som er på det jevne for denne typen kameraer. 
+
+Vanskelig i bruk 
+
+Brukervennligheten er bra når det gjelder enkelte ting, men jevnt over burde den ha vært bedre. 
+Vi liker den røde share-knappen som raskt gir oss mulighet til å legge bilder til i favorittene eller merke dem for utskrift, epost-sending eller sende dem pr Bluetooth til mobiltelefonen eller andre enheter. 
+Da kan vi velge om bildet skal sendes i fullformat, stort nok til 10x15-utskrift eller om 320x240 holder, og oppsett av enheter og overføring fungerer helt smertefritt. 
+
+Panoramamodusen fungerer også fint  den er begrenset til tre bilder der du først definerer om de går fra venstre mot høyre eller omvendt, og kameraet sørger da for å vise litt av det forrige bildet slik at du kan ta det neste bildet tett inntil. 
+Sammensying av bildet gjøres direkte i kameraet, og sammensyingen gjøres overbevisende, som du kan se i eksempelet under. 
+
+Det vi imidlertid ikke liker, er at mye ved kameraet virker så tilfeldig utført. 
+De nevnte knappene på venstre side virker å være vilkårlig plassert, og det er ikke intuitivt å trykke på knapp nummer fire av fem, merket review for å se på bildene du har tatt 
+ så og si alle som prøvde kameraet spurte hvordan man fikk sett på bildet i etterkant. 
+I det minste kunne den ha vært grønn! 
+
+Menyene burde også ha vært bedre. 
+Hos de fleste kameraer er menyvalgene typisk 
+white balance, ISO Speed, burst og sharpness, men på Kodak-kameraene er det selve verdien som er teksten til menyvalget, altså auto, auto, off og normal. 
+Hva verdiene står for, ser du ikke før du merker denne verdien, annet enn et lite ikon som det ikke alltid er like lett å skjønne hva betyr. 
+
+Du har heller ingen kontroll over blenderåpning, men lukkertiden kan justeres via menyvalget LT, eller 
+Long time exposure. 
+Her kan du velge en lukkertid mellom 0.5 og 8 sekunder, men full kontroll får du ikke. 
+Det er heller ikke mulig å fokusere manuelt, og ved full innzooming sliter autofokusen med mindre lystilgangen er veldig god. 
+Batterilevetiden er oppgitt til 135 bilder etter CIPA-standarden 
+ det er noe av det minste vi har vært borti. 
+
+Bildekvalitet 
+
+Vi var ikke spesielt fornøyde med bildekvaliteten hos forgjengeren V570, og heller ikke V610 imponerer oss på det punktet. 
+Bildene har et høyt støynivå, som er godt synlig allerede på ISO 200. 
+Legg til at objektivet er såpass lyssvakt som det er, så blir kameraet enten nødt til å heve ISOen eller bruke lengre lukkertider, og det er vanskelig å få skarpe og rene bilder innendørs. 
+Kameraet har heller ingen bildestabilisator, og med mindre du monterer kameraet på stativ, har du derfor begrenset glede av 10x optisk zoom. 
+
+Utendørs er graden av kromatisk feilbrytning ganske høy, noe du kan se et utsnitt av i bildet til høyre. 
+Vi skulle gjerne ha sett at objektivene i V610 hadde tegnet noe skarpere, og sammenlignet med Canon Ixus 800 IS under (kommer på torsdag), ser vi at bildene fra V610 fremstår som noe bløte, i tillegg til at de har et magentarødt fargestikk. 
+I tillegg avtar skarpheten markant ut mot hjørnene i bildet. 
+
+Kameraet kan også filme 30 bilder i sekundet i 640x480-oppløsning i MPEG4-format. 
+Lyden er i mono, men zoomfunksjonen kan brukes under opptak, som er ganske stillegående. 
+Kvaliteten ser du selv i følgende filmklipp: 
+
+Ytelse 
+
+Som nevnt er batterilevetiden svært dårlig på V610, med bare 135 bilder etter CIPA-standarden, der halvparten av bildene tas med blits, halvparten uten og der alle bildene vises i displayet etter at de er tatt. 
+Til sammenligning hadde det forrige kameraet vi testet, Casio Exilim EX-Z850, mulighet til å ta 440 bilder ved samme bruksmønster! 
+
+Kameraet er heller ingen racer ellers, hverken når det gjelder bilde-til-bilde-ytelse eller oppstart, som tar hele fire sekunder. 
+En positiv egenskap er seriefotografering uten blits, der kameraet klarer åtte bilder på 5 sekunder, men da blir det opptatt cirka 15 sekunder etterpå - kameraet bruker lang tid på å lagre bilder! 
+Vi har også nevnt at det tar lang tid å flytte seg fra full vidvinkel til full tele, og du er også nødt til å slippe knappen midtveis og trykke den inn igjen for å skifte objektiv. 
+Vi klokket inn vårt raskeste forsøk til 5.5 sekunder. 
+
+Autofokusen er en underlig sak - noen ganger er den lynrask, og på våre tester der et kontrastfylt område i normalt innendørs dagslys på tre meters hold tas bilde av med tvungen blits, er autofokusen blant de raskere av de vi har sett. 
+I praktisk bruk, derimot, blir det mye fokusjakt. 
+Spesielt når du zoomer sliter autofokusen, og den gir oftere tapt enn andre kameraer vi har hatt til test i det siste. 
+
+Konklusjon 
+
+Har du lest hele artikkelen skjønner du at vi ikke er så fornøyde med V610 fra Kodak. 
+Bildekvaliteten er ikke spesielt bra og ytelsen ganske dårlig - en batterilevetid på 135 bilder er alt for lite, og flere av konkurrentenes batterier holder tre ganger så lenge. 
+Vi blir heller ikke imponerte av LCD-skjermen, som fremstår som uskarp med etterslep, og som synes dårlig på en godværsdag. 
+I tillegg synes vi knappene er plassert noe vilkårlig og lite intuitivt, som gjør kameraet unødvendig vanskelig å bruke. 
+
+10x optisk zoom 
+ det høres bra ut på papiret, men det har omtrent ingenting for seg ved dagligdags bruk når det gjelder lommekameraer; i hvert fall når kameraet ikke har optisk bildestabilisering. 
+Uten dette er det nesten umulig å ta skarpe bilder på frihånd, og må du først drasse med deg stativ, kan du vel like gjerne ha med deg et litt større kamera også? 
+Canon PowerShot S3 IS har for eksempel enda større brennviddeområde og langt bedre egenskaper enn dette kameraet på de aller fleste områder, og koster ikke veldig mye mer. 
+Panasonic har også et nokså lite 10x zoom-kamera som har optisk bildestabilisator, DMC-TZ1K (vi har ikke testet dette). 
+Siden stabilisatoren (i dette tilfellet) gir deg mulighet til å bruke åtte ganger så lang lukkertid uten at bildet skal bli mer uskarpt på grunn av dine håndbevegelser, er dette etter vår mening langt mer interessant, og i tillegg har det bredere vidvinkel med 35mm kontra V610s 38mm. 
+
+Ikke at det ikke er noe å like på dette kameraet 
+ vi synes implementasjonen av deling av bilder, også via Bluetooth, fungerer smertefritt, og kameraet har et par småfinesser som for eksempel automatisk rotering av bildet når du heller på kameraet og en indikasjon på hvor mye du skalv da du tok bilde. 
+Vi synes allikevel at den store featuren - 10x optisk zoom, bare blir en gimmick, og at du fint kan finne kameraer som både tar bedre bilder, er raskere og mer brukervennlige; i hvert fall tatt i betraktning at dette kameraet er blant de dyreste lommekameraene på markedet. 

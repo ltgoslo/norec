@@ -1,0 +1,125 @@
+Multicom JFT02
+14,1-tommeren med mer muskler enn sjarm. 
+Men trenger man sjarm hvis man har nok muskler? 
+
+Multicom er en av de siste nettbutikkene her til lands som tar inn såkalte "barebone"-systemer og bygger de opp etter eget (eller kundens) ønske. 
+Vi har testet flere av disse tidligere, blant annet IFL90+, Z37S og JFT00 som alle har fått gode skussmål av oss. 
+
+LES OGSÅ: 
+
+Basisen for dagens test-modell kommer fra Compal (som produserer deler for flere av de mest kjente merkene) og går under navnet JFT02. 
+Det er også den første bærbare vi ser på med de nye Intel-prosessorene bygd på 45 nm produksjonsprosess. 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo T9500 @ 2,6 GHz 14,1" skjerm i bredformat (1280 x 800 piksler) 4 GB DDR2-minne 320 GB harddisk (5400 rpm) nVidia GeForce 8400M GT 256 MB grafikk WLAN (a/b/g/n) Gigabit LAN 4 x USB, FireWire, blåtann 1 ExpressCard/54 kortplass Kortleser for SD, MMS, MS/PRO S-Video og VGA ut, lyd inn/ut DVD/CD-brenner Integrert webkamera Fingeravtrykksleser Windows Vista Home Premium Dimensjoner (B/D/H): 
+33,7 x 24,5 x 4,3 cm (uten batteri) Vekt 2,66 kilo (med 9-cellers batteri) Pris: ca. 13.500 inkl. mva. 
+(med operativsystem) 
+
+Konstruksjon 
+
+Utseendemessig er det ingen som kan beskylde JFT02 for å være direkte spennende. 
+Bortsett fra lokket, som har en slags "glitter-metallic" finish, er overflaten i sort matt plast. 
+Chassiset er godt avstivet og har ingen spesielt svake punkter. 
+Det er litt svikt i området mellom tastatur og skjerm, men det er uansett ikke et sted som vanligvis er utsatt for press. 
+
+Går vi tilbake til lokket virker dette fast og godt hengslet. 
+Det har litt fleksibilitet, men tåler også press ovenfra ganske bra. 
+
+Bredskjermen på 14,1 tommer er på 1280 x 800 punkter - de som foretrekker større oppløsning får se seg om etter en annen modell. 
+De fleste normalbrukere vil nok likevel finne denne oppløsningen naturlig på en skjerm av denne størrelsen. 
+
+Panelet kommer med det nå vanlige blanke kontrastbelegget, noe som betyr et klart bilde med god kontrast og fargegjengivelse. 
+Skjermen er også lyssterk nok etter vår smak, men vi kunne nok ønsket oss litt bedre vertikal innsynsvinkel. 
+Men det gjelder for de fleste skjermer på bærbare PCer. 
+
+På toppen av skjermen er det et integrert 2,0 megapiksels webkamera som også kan tiltes litt opp og ned. 
+
+Siden maskinen er helt fersk har vi testet en modell med engelsk layout 
+- PCen kan leveres med dette om ønskelig, men vanlig vil altså være norsk tastatur. 
+
+Tastene har kort og kontant tilslag, er behagelig å skrive på og lager lite lyd med mindre du hamrer inn ordene - men da bråker også alle tastaturer vi har vært borti. 
+Alt vi ønsker å prike på her er at venstre Ctrl og Fn-tasten burde ha byttet plass. 
+
+Touchpaden er som skjermen i bredformat, og har usynlige felt for både vertikal og horisontal skrolling. 
+
+Tilkoblingsmuligheter 
+
+Multicom JFT02s kontakter er plassert på sidene. 
+I front finner vi kun statuslys og en bryter som slår av og på blåtann/trådløst nettverk. 
+
+På høyre side finner vi DVD-brenneren, to USB-kontakter og inntak for strøm. 
+
+Det meste finnes på venstre side: 
+VGA og S-Video ut, kontakter for nettverk og modem, ytterligere to USB, FireWire, minnekortleseren, ExpressCard/54 og lydkontakter. 
+
+På baksiden er det plass for kensingtonlås, men ellers er det batteriet og utluftingen som tar opp plassen. 
+Batteriet på 9 celler (bildet) står to cm ut fra maskinen, men du kan også få et på 6 celler som ikke stikker ut. 
+
+Ytelse og batteri 
+
+Vårt testeksemplar har en Core 2 Duo T9500 - denne kjører på 2,6 GHz og er den kraftigste prosessoren vi har hatt i en bærbar for testing. 
+Prosessorytelsen er på høyde med den vi finner i vår stasjonære test-PC Kåre. 
+
+Men prosessorytelse ikke er alt, så vi har sammelignet med to andre nyere bærbare. 
+Den ene er 13,3-tommeren Dell XPS M1330, som har den samme grafikkløsningen - et GeForce 8400M GS fra nVidia. 
+
+I tillegg har vi sammenlignet med vårt forrige testsubjekt Amilo Si 2636 fra Fujitsu Siemens - den også på 13,3 tommer. 
+
+Først har vi sett på den rene prosessorytelsen i et par program: 
+
+Kjøretid i sekunder - lavere er bedre. 
+
+Det kommer egentlig ikke som noen overraskelse at JFT02 med den nye Intel-prosessoren gjør det markant bedre enn de to andre - disse er jo også lavere klokket. 
+
+Ytelse i PCMark05: 
+
+PCMark05 bekrefter at denne bærbare har mer under panseret på nesten alle plan. 
+Dells XPS M1330 ligger likevel foran på grafikkdelen. 
+
+Ytelse i 3DMark05 og -06: 
+
+Også 3DMark forteller oss at XPSen gjør en bedre jobb når det gjelder 3D-spill. 
+3DMark06 tar større hensyn til prosessorens ytelse og gjør at JFT02 her ikke er langt bak, men det er nesten 1.000 poeng som skiller i 3DMark05. 
+
+Med tanke på at disse to på papiret har samme grafikkort var dette et uventet resultat, men etter å ha klødd oss i skjegget og målt kortets klokkehastighet virker det som om JFT02 sitt GeForce 8400M GS har lavere klokket minne enn standard. 
+8400M GS' minne skal etter nVidias spesifikasjoner ha en klokkefrekvens på 600 MHz, mens PowerStrip fortalte oss at det som satt i JFT02 gikk på 400 MHz. 
+
+Det er for øvrig ikke første gang vi opplever en Compal-modell med underklokket grafikkløsning. 
+Den poulære HEL80 hadde samme særegenhet. 
+
+Batterilevetid 
+Med vår JFT02 fulgte det med et 9-cellers batteri. 
+Dette stikker som nevnt ut bak, og liker du ikke det kan du også gå for et med mindre kapasitet. 
+
+Levetiden på 9-celleren målte vi til litt over fire timer i BatteryMark 4.01, noe som burde tilfredsstille de fleste vanlige brukere. 
+Hvordan batteriet på 6 celler yter i forhold vet vi dessverre ikke. 
+
+Støy og varme 
+
+Som de aller fleste bærbare datamaskiner summer og suser også Multicom JFT02 litt, men kun de aller mest kresne vil finne dette sjenerende. 
+Litt spesielt er det at maskinen egentlig heller ikke bråker når den jobber for fullt - noe vi blant annet kan takke den nye prosessorlinjen for. 
+Vifta går litt fortere riktignok, men det er fremdeles langt unna det vi er vant til med andre bærbare. 
+
+Det er også litt varmeutvikling på undersiden, noe som gjør at JFT02 ikke akkurat er maskinen du vil ha på fanget under hard belastning. 
+På oversiden har vi heldigvis ikke det samme problemet. 
+
+Vurdering og konklusjon 
+
+Multicom JFT02 er den første bærbare som kommer vår vei med Santa Rosa Refresh - som i praksis mer eller mindre betyr at den er utstyrt med de nye prosessorene fra Intel. 
+
+Dersom du velger en kraftig prosessor, kaster inn en stor harddisk og mye RAM blir ikke JFT02 dumt priset, og klarer fint en sammeligning mot andre 14- og 15-tommere - om du da i det hele tatt klarer å finne en like kraftig bærbar PC akkurat nå. 
+
+I lavere spesifiserte konfigurasjoner er ikke saken like klar - konkurransen er hard i prisleiet rundt 10.000 kroner. 
+Du bør dessuten tenke nøye gjennom dine behov - blant annet se på størrelse og vekt i forhold til hvor mye du har tenkt å dra den med deg. 
+Og skal du spille med maskinen så husk at grafikkortet som nevnt også er lavere klokket enn standard, og at du kan få både billigere og lettere bærbare som gjør en bedre jobb der. 
+Eller du kan gå opp noen hekto og se på 15-tommere, der er det enda mer spillytelse å hente per krone. 
+
+Vi kan vel heller ikke kalle JFT02 spesielt sjarmerende. 
+Bevares, den virker robust, funksjonell og har kontaktene fornuftig plassert, men får deg på ingen måte til å utbryte "aj aj, den var lekker" når du ser den. 
+Men greit nok, hadde du vært så nøye på det hadde du vel kanskje heller kjøpt en MacBook... 
+
+Ynde og spill-egenskaper til side: 
+Multicom JFT02 er en råtass med en ytelse få andre bærbare datamaskiner kan matche i skrivende stund. 
+I tillegg er maskinen stillegående, selv under hard belastning. 
+Alt i alt er det ikke så veldig mye konkret å trekke for, og ender derfor opp med en femmer på vår terning. 

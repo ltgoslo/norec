@@ -1,0 +1,53 @@
+Asus EA-N66 trådløs adapter
+Den kan være klient, aksesspunkt eller utvide nettverket 
+
+Vanligvis klarer vi oss med en trådløs ruter som ymse apparater får kontakt med via sine innebygde trådløse nettverkskort og antenner. 
+
+Men det er ikke alltid det er nok, eller den mest potente løsningen. 
+
+Noen ganger trenger man å utvide nettverket, fordi den trådløse ruteren ikke klarer å dekke hele området som skal ha tilgang. 
+Andre ganger trenger man et trådløst aksesspunkt, fordi det bare finnes kablet nettilgang. 
+Og noen ganger er den innebygde antenneløsningen rett og slett for dårlig. 
+
+Asus EA-N66 løser alle disse tre utfordringene, med en liten enhet med svært spesiell design. 
+De som har vært på LAX – flyplassen i Los Angeles – får antagelig assosiasjoner, selv om Asus sin enhet bare har 3 bein. 
+
+Den støtter også både 2,4GHz og 5 GHz og opptil 3 datastrømmer som i teorien skal gi brutto 450 Mbit/sek. 
+
+Nettverksporten støtter Gigabit nettverk. 
+
+Installasjon 
+
+Vi har sett det på flere trådløse enheter i det siste, det er ingen CD som skal kjøres. 
+Man kobler enheten til PC-en med en nettverkskabel, starter en nettleser og etter en kort stund dukker det opp en nettside hvor du velger innstillinger. 
+Alt nettverksutstyr har jo en webserver innebygd, og det er egentlig ingen grunn til å måtte gå via en CD for å sette opp utstyret. 
+
+På Asus EA-N66 får du tre valg ved oppstart: 
+
+Vi valgte det øverste alternativet, å bruke EA-N66 for trådløs tilkobling i stedet for den gamle innebygde trådløse nettverksløsningen i maskinen. 
+
+Oppsettet var i prinsippet greit, bortsett fra at det i første forsøk endte i ingenmannsland. 
+Etter resetting via spiss gjenstand til reset-knappen innenfor hullet på undersiden og nytt forsøk kom vi i mål. 
+
+Hva presterte Asus EA-N66? 
+
+Vi testet først med Netgear N900 ruteren og fikk god hastighet i begge våre testposisjoner, i stua og i kjelleren. 
+Men det var på 2,4 GHz. 
+Asus-enheten fant ikke 5 GHz nettverket i det hele tatt. 
+Dette har også skjedd med annet utstyr, vi mistenker at feilen ligger hos Netgear-ruteren. 
+
+Vi koblet så opp Linksys E4200 og da var det ingen vanskeligheter med å finne 5 GHz nettverket. 
+
+Hastigheten i stua var tilsvarende 2,4 GHz med Netgear sin ruter. 
+
+Men vi fikk også brukbar hastighet i kjelleren med 5GHz og det har vi aldri hatt tidligere med Linksys-ruteren! 
+
+Konklusjon 
+
+Asus EA-N66 er en spesiell og smart liten dings som har mange bruksområder. 
+Har du en eldre kombinert modem/ruter eller lignende fra nettverksleverandøren kan du bruke denne som trådløst aksesspunkt med mye bedre dekning enn den innebygde løsningen. 
+
+Den fungerer også bedre enn de aller fleste innebygde nettverkskort. 
+Trenger du en trådløs bro mellom ruteren og flere trådløse enheter løser denne også det problemet, i kombinasjon med en rimelig svitsj. 
+
+EA-N66 er på vei ut på markedet, sjekk med din forhandler for leveringstid. 

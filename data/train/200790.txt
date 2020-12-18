@@ -1,0 +1,71 @@
+OCZ Synapse Cache
+Smart utnyttelse av SDD og harddisk - i pose og sekk? 
+
+Caching - eller mellomlagring - er et anerkjent prinsipp på mange områder. 
+Når du lagrer noe på en harddisk vil operativsystemet først lagre dataene i en minnebuffer, så skrives dataene fra minnebufferen til harddisken etter hvert, uten at du legger merke til det. 
+Da blir programmet ferdig med sin lagringsjobb svært raskt, slik at du kan fortsette å jobbe. 
+I PC-ens barndom ble all skriving gjort direkte fra programmet, slik at du måtte vente før du kunne jobbe videre. 
+
+I virkeligheten er det ikke så rosenrødt. 
+En enkel løsning fungerer fint for enkle problemer, men når det blir for mange av dem blir ikke løsningen god nok. 
+
+Når man har mange programmer oppe og alle skal skrive og lese data fra disk og minne samtidig, så blir det rift om resursene. 
+Det er ikke nok minne til å holde både programmer og data, så det blir mye trafikk til og fra harddisken. 
+
+Så hva gjør man da? 
+
+SSD som cache 
+
+I Windows 7 finnes det noe som heter ReadyBoost, som innebærer at du bruker f.eks. en minneplugg til å avlaste harddisken ved håndtering av bl.a. vekslefilen. 
+Siden håndtering av småfiler bruker mer tid på å finne filene enn til å skrive/lese dem til harddisk kan til og med en USB-minneplugg fungere som en forbedring. 
+
+Men forskjellen er ikke spektakulær, de fleste tester viser liten forskjell i praksis på varierte oppgaver. 
+
+Det finnes også harddisker med en liten integrert SSD, som Seagate Momentus XT som vi har testet tidligere. 
+
+Men en langt mer potent løsning kommer fra OCZ - som bruker en rask SSD som cacheminne i bakgrunnen. 
+For brukeren oppleves det som om den originale harddisken plutselig har blitt dramatisk mye raskere, uten å måtte gå ned på den totale kapasiteten. 
+
+Installasjon 
+
+Synapse kommer som en vanlig SSD, med festebrakett for 3,5-toms brønn og skruer inkludert. 
+
+Den er beregnet på å installeres i en maskin som allerede har operativsystem installert, og du monterer, kobler til og formaterer den som en helt vanlig disk. 
+Den viste bare en kapasitet på 29,6 GB etter formatering, men dette skyldes måten SandForce kontrolleren fungerer på, med 50% reserve 
+
+Neste skritt er å laste ned Dataplex cache-programvaren fra OCZ sine nettsider, og installere denne. 
+Før du får lastet ned må du oppgi en kode som står på undersiden av selve SSD-en. 
+Med andre ord er det lurt å notere seg denne koden før du monterer og installerer SSD-en i PC-en. 
+Under installasjonen må du også taste inn koden på nytt. 
+
+Etter en omstart er maskinen klar til bruk, og du ser ikke lenger at det er installert noen ny lagringsenhet, den blir skjult av Dataplex-programmet. 
+Alt ser ut som før du begynte å installere noe som helst - det er ingen ting å stille inn eller å forholde seg til - alt skjer i bakgrunnen. 
+
+Men du merker fort at alt går vesentlig mye raskere. 
+
+Målinger 
+
+En cache fungerer slik at første gang noe leses fra disken, så hentes dataene fra disken og blir samtidig skrevet til cachen. 
+Men neste gang hentes dataene fra cachen og alt går mange ganger raskere. 
+Det kan hende at det er ved tredje gangs lesing at maksimal ytelse oppnås, det vil variere noe mellom forskjellige typer programmer. 
+Men forskjellen merker man allerede etter første gang. 
+
+Vi kjørte PCMarks Vantage generell PC-test, samt AS SSD og ATTO diskmåling. 
+
+Tallene og grafene taler for seg. 
+
+Maskinen oppfører seg nesten som ved en ren SSD-installasjon. 
+
+Men du behøver ikke bekymre deg over plassproblemer på SSD-en! 
+
+Konklusjon 
+
+En OCZ 
+Synapse sammen med en vanlig harddisk gir deg i de fleste situasjoner under vanlig bruk bortimot samme ytelse som om du hadde installert en SSD som systemdisk. 
+Samtidig unngår du kapasitetsproblemet og slipper å måtte forholde deg til logistikken med å ta hensyn til forskjellig plass for system, programmer og data. 
+
+Samtidig er dataene like sikre som om de hadde ligget på harddisken, fordi det faktisk er det de gjør! 
+Dataplex vil til en hver tid sørge for at de mest leste dataene leses fra kopien på cache-SSDen i stedet, men "originalen" ligger alltid på harddisken. 
+
+En fordel med OCZ 
+Synapse er at den fungerer på alle platformer, du trenger ikke noe bestemt brikkesett fra Intel, den fungerer også på maskiner med eldre hovedkort og prosessorer og selvfølgelig også på PC-er basert på AMD. 

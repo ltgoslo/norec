@@ -1,0 +1,89 @@
+HTC TyTN
+Denne telefonen kan veldig mye, men er det nok? 
+
+Taiwan-baserte HTC er kanskje ikke den mest kjente mobilprodusenten som er representert på det norske Norge, noe som først og fremst skyldes at de utelukkende opererer på det såkalte Pocket PC og smartmobil-markedet. 
+De begrepene sier egentlig ikke så mye om hvor smarte eller brukervennlige mobilene er i bruk, men de sier litt om at telefonene har en rekke muligheter som du ikke vil finne på en standardmobil fra Nokia eller Sony Ericsson. 
+
+HTC TyTN tilhører førstnevnte kategori, og er altså en slags lomme-PC. 
+Det høres ut som et ambisiøst prosjekt, men når du ser størrelsen og kjenner vekta på telefonen skulle det bare mangle at ikke du får med en del ekstra. 
+Med sine 176 gram og en tykkelse på 2.2 centimeter er TyTN litt som en to-åring som kjeder seg - det er ikke en telefon du glemmer at du har med deg. 
+
+På utsiden 
+
+Denlitt klumpete fasongen gjør ikke underverker for utseendet, så hvis du er en større tilhenger av design enn funksjonalitet bør du se en annen vei allerede her. 
+
+Ergonomisk sett er TyTN helt grei i bruk. 
+På hver sin side av telefonen finner du diskret knapper for snarveier, aktivering av kamera, memo-funksjonen og et BlackBerry-aktig scrollhjul med tilhørende "ok"-knapp. 
+
+Hjulet er derimot plassert på venstre side av telefonen, noe som ikke er i nærheten av å gi samme elegante navigeringen som BlackBerrys tilsvarende mobiltelefoner. 
+Å styre hjulet med pekefingeren blir, sammenliknet med tommelen, nesten like klønete som å skrive tekstmeldinger på et tastatur uten bokstaver. 
+Her burde HTC simpelthen ha byttet side. 
+
+Tastaturet glir relativt enkelt ut fra under telefonen, og har et fullverdig QWERTY-oppsett. 
+Det vil si, helt fullverdig er det ikke, ettersom de norske tegnene er lagt på et eget nivå, slik at du må bruke en tilleggstast for å bruke dem. 
+Litt klønete i begynnelsen, men det går greit etter hvert. 
+
+Det er derimot verre å bli vant med tastaturets størrelse og respons. 
+Tastene ligger akkurat litt for langt fra hverandre til at en klarer utvikle den helt store skrivehastigheten, og ettersom det ikke finnes noen mellomting mellom "av" og "på" føles tastene dessuten noe mekanisk. 
+
+På innsiden 
+
+TyTN benytter som alle HTCs telefoner Microsofts operativsystem for mobiltelefoner, Windows Mobile 5 (WM5). 
+Alt etter hvilken mobilerfaring du har kan det være både en fin og ikke fullt så fin opplevelse. 
+
+For å ta problemene først: 
+En av utfordringene ved et så omfattende operativsystem som for eksempel Windows Mobile er at en risikerer å miste brukeren og brukervennligheten av syne i og med alle mulighetene. 
+Å kombinere dybde med tilgjengelighet er ingen enkel sak, og når valgmulighetene blir så mange som tilfellet er her kan det hele oppleves som overveldende for en fersk bruker. 
+
+Går du for eksempel inn på "Programmer"-menyen får du listet opp en rekke ikoner som gjør helt forskjellige ting, og som ikke har noe til felles. 
+Dermed ender du opp med å måtte lete deg gjennom tilfeldige symboler før du forhåpentligvis finner det du er på jakt etter. 
+"Innstillinger"-delen er litt bedre organisert i forhold til ikonenes funksjonalitet, men sammenliknet med, igjen, BlackBerrys brukergrensesnitt oppleves dette tidvis som tungvint. 
+
+Ta for eksempel antall valgmuligheter for å skru av kvitteringslyder ved sending og mottak av både SMS og e-post. 
+Vi ga rett og slett opp å finne hvilken meny som faktisk var relevant for å fjerne lyden, først og fremst fordi språket tidvis er så kryptisk at det kan virke som det er beregnet på andre enn oss. 
+Dessuten virker ikke språket konsekvent, slik at det som i ett valg blir formulert på én måte, blir fomulert anderledes i en annen - selv om valgene er beslektet. 
+
+Er du derimot vant med WM5 er dette forhåpentligvis noe du for lengst er fortrolig med - og har akseptert - men det hever terskelen ganske kraftig for brukere som vet de vil ha noe mer enn en standardmobil, men som ikke helt er klar for å dirke opp safer hver gang de ønsker å gjøre en ganske banal manøver. 
+
+Estetikeren i oss, han som tror han liker å se kunst han ikke nødvendigvis forstår noe av, har heller ikke så mye til overs for WM5s utseende. 
+Ikonene er grovkantede og ser ut som de er hentet fra Windows 95, og layouten er ofte så gammeldags at vi får flashback som nesten strekker seg tilbake til ungdomsskolen. 
+Kalenderen er kanskje det beste eksempelet på hva vi mener, med dagsbokstaver ("m", "t", "o" og så videre) i knøttliten fontstørrelse som menyvalg. 
+
+Når det er sagt, så er Windows Mobile 6 allerede lansert, og selv om WM6 ikke kan kjøres på TyTN, er det ikke tvil om at den nye versjonen har gjennomgått til dels kraftige utseendemessige forbedringer. 
+
+Aktiv synkronisering og nettverk 
+
+Ett av salgsargumentene for en forretningsorientert telefon som denne er den smertefrie synkroniseringen av mobilen og Microsofts epost-program, Outlook. 
+
+Hvis du er avhengig av å ha med deg en oppdatert innboks over alt hvor du beveger deg, tilbyr TyTN nesten sømløs integrering. 
+Installér Active Sync (følger med telefonen), koble den til enten via blåtann eller USB, og etter en kjapp paring av PCen og telefonen vil TyTN straks gå i gang med å synkronisere epost-innboksen med tilsvarende boks på PCen. 
+
+Og det fungerer akkurat så smertefritt som vi håpet. 
+Kort tid etter at programvaren var installert ble arkivert e-post på PCen lempet over på mobilen, og ny mail ble automatisk sendt over i løpet av veldig kort tid. 
+Vær bare oppmerksom på at du må skru av mobilens nesten-dvale-funksjon (se under) ved synkronisering, hvis ikke mister du simpelthen forbindelsen i tide og utide. 
+
+Andre nettverksoppgaver ble mer kompliserte. 
+Å sette opp en trådløs forbindelse med jobbnettverket involverte mer dypdykking, og sammenliknet med Nokias relativt ferske nyvinning med å legge en Wlan-søker på telefonens førsteside blir dette altfor gammelmodig. 
+
+Surfing er derimot en fin opplevelse når en først er i gang, og hvis du i tilleg slår ut tastaturet og vrir skjermen ser nettsidene enda bedre ut. 
+TyTN sliter dog med de samme problemene som andre Wlan-telefoner, noe som betyr at store nettsider fortsatt tar en liten evighet å hente inn. 
+Enten bør en benytte seg av for eksempel Googles oversettelsestjenester (som gjør store nettsider håndterbare for mobile enheter), eller så bør en holde seg til wap-sider. 
+
+Vi liker på den annen side godt den effektive ordgjettefunksjonen ved meldingsskriving, og sparefunksjonen som gjør at telefonen går inn i en nesten-dvale hvor den bare mottar telefonsamtaler og meldinger er også smart. 
+En telefon som TyTN sluker strøm, så det gjelder å knipe sammen der det er mulig. 
+
+Konklusjon 
+
+Den største innvendingen mot TyTN er at selv om den ønsker å gjøre absolutt alt blir det vanskelig å finne én helhetlig måte å bruke den på. 
+Jeg fant meg selv i å veksle fram og tilbake mellom å skyve ut tastaturet, skyve det tilbake igjen, bruke det grafiske mini-tastauret (med og uten pekepennen), uten egentlig å ende opp med noe som føltes naturlig, eller spesielt behagelig. 
+
+TyTN appellerer naturligvis til en helt spesiell gruppe mobilbrukere, til de som vil ha det aller meste samlet i én enhet, og som ikke har noe imot å begi seg ut på dypt vann for å komme seg dit. 
+Befinner du deg der er TyTN noe du kan vurdere, selv om prisen på godt over 6000 synes litt i overkant for en telefon som tross alt har seriøse konkurrenter hos de store, etablerte merkenavnene. 
+
+For de fleste andre blir dette i overkant. 
+
+En parentes til slutt: 
+Det er ikke ofte vi nevner ringetonene i en mobil, men her gjør vi et unntak. 
+TyTN har nemlig de mest øreskjærende ringetonene vi har hørt på en stund, og de ligner litt på noe som er samplet fra en mobil fra 1999, som så er kjørt gjennom en transistorradio fra 1930. 
+
+Mobiltesten er et samarbeidsprosjekt mellom Dingz, ITavisen og DinSide Data 

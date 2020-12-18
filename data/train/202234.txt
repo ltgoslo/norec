@@ -1,0 +1,93 @@
+Samsung Series 9 NP900X3C
+Samsung imponerer stort med sin nye Series 9 Ultrabook. 
+
+Produsentene er godt i gang med å levere andre generasjon Ultrabooks, og Samsung er blant dem det stilles størst forventninger til. 
+Selskapet var svært tidlig ute med sin første generasjon Series 9, som ble annonsert allerede i januar i fjor, som var meget lett og fin, men som opplevde visse problemer blant annet knyttet til antennen til det trådløse nettverkskortet. 
+
+Nå er 2. generasjon i butikkene, og denne gangen leverer Samsung både en 13,3 tommer og en 15 tommer. 
+Vi har sett nærmere på førstnevnte, som ifølge produsenten er verdens tynneste PC med sine 1,29 cm. Vekten er på behagelige 1,18 kg. 
+
+Til tross for disse tallene dreier det som en potent PC på flere plan, hør bare her: 
+
+13,3" matt LED-baklyst LCD-skjerm, 1600 x 900 piksler Intel Core i5-3317U prosessor (1,7 GHz) 
+Intel HD 4000 grafikk 4 GB RAM (maks 8) 120 GB SSD 2 USB-porter (1x USB 3.0, 1x USB 2.0) VGA-utgang (krever overgang) mini-HDMI-utgang WiDi-støtte (Wireless Display) Trådøst nett (a/b/g/n) Bluetooth 4.0 Ethernet-støtte (1000 Mb) (krever overgang som følger med) 1,3 Mp webkamera Windows 7 Home Premium 64 bit Mål: 
+313.8 x 218.5 x 12.9 mm Vekt: 1,18 kg Pris: 
+Fra ca 10 600 kr (12. juni 2012) 
+
+Dette er kompromisser man foreløpig må inngå når vekt og ikke minst tykkelse skal holdes på et minimum. 
+
+Og selv om dette kanskje er verdens tynneste PC for øyeblikket, er den definitivt ikke noen skjør kamerat. 
+Hele chassiset består av metall, både på inn- og utsiden. 
+Dette sørger for god oppstiving, og vi får aldri følelsen av at dette er noe annet enn en meget solid bygd maskin - og akkurat passe tung. 
+Overflaten er matt, fingeravtrykk vises, men er langt fra så sjenerende som på mange med blank overflate. 
+
+Alle tilkoblingene har fått plass på sidene, trukket lengst unna brukeren. 
+
+Skjermen måler 13,3 tommer, og er kort og godt den beste og mest lyssterke vi har sett på en bærbar (400 nits). 
+Det sier litt om hvor langt framme Samsung er på skjermfronten, og her har de brukt det beste de har å by på. 
+Den er høyoppløst og skarp, med meget god fargegjengivelse fra nær sagt alle vinkler. 
+Og nevnte vi at den ikke har noe som helst problemer med gjenskinn, takket være matt overflate? 
+
+Tastaturet kompletterer den gode opplevelsen. 
+Det er fast og lydsvakt, og utformingen er etter vår mening perfekt, små funksjonstaster, resten er romslig, entertasten er bred og piltastene er skilt ut fra resten. 
+
+Bedre har vi knapt brukt noen gang. 
+Og ja: 
+Det er baklyst, men for å hindre at det skal sluke batteri, tennes lyset først når det er mørkt i rommet du befinner deg i. 
+Du kan selvsagt også skru det av. 
+
+Pekeplaten er stor, flerberøringsfølsom (multitouch) og har integrerte knapper for venstre- og høyreklikk. 
+Vi har tidligere ofte vært litt kritiske til slike, spesielt dersom man er vant til å la venstre pekefinger hvile på venstre knapp mens man styrer med høyre. 
+Flere pekeplater kan da oppfatte det som om man skal zoome ut eller inn (pga to berøringer). 
+Men Samsung har tydeligvis tenkt på dette også, for vi opplevde ikke noen problemer med dette i det hele tatt, og på dette tidspunktet begynner vi faktisk å få stjerner i øynene. 
+
+På undersiden kan vi skimte to vifter bak små luftehull, som suger luften inn og blåser den ut bak. 
+I fronten sitter et par stereohøyttalere, som byr på bedre fylde i lyden enn mange PC-er som er både tre og fire ganger så tykke. 
+
+Viftene er svært støysvake, og selv under tung belastning var de aldri noe sjenerende, knapt nok hørbare hvis det var helt stille i rommet. 
+Merk også at maskinen kommer med styreprogram for viftene som i praksis kan gi deg en helt støyfri opplevelse dersom du er villig til å gå litt ned på ytelsen. 
+
+Lynkjapt 
+
+Det bringer oss over i neste seksjon, nemlig bruks- og ytelsestester. 
+Og for å si det med en gang, dette er den raskeste Ultrabooken vi har testet noen gang. 
+Det er kanskje ikke så rart, all den tid at vi nettopp har begynt testingen av den nye generasjonen Ultrabooks basert på Ivy Bridge-plattformen. 
+
+Men en oppstart på 12 sekunder - fra helt avskrudd til du kan begynne å jobbe i Windows, det er rett og slett parkering av alle PC-er vi har hatt på testbenken noen gang. 
+
+Lukker du lokket går maskinen i dvale, og når du åpner lokket er den klar til bruk før du får lagt hånden på tastaturet. 
+Samsung sier 1,4 sekunder. 
+Vi fant ingen grunn til å etterprøve den påstanden. 
+
+Windows egen Opplevelsesindeks sier følgende. 
+Skalaen går fra 1.0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+6,4 Spillgrafikk: 
+6,4 Primær harddisk: 
+7,4 
+
+Ved hjelp av Passmark PerformanceTest har vi sammenlignet prosessor-, grafikk- og diskytelsen mot et knippe maskiner fra første generasjon Ultrabook. 
+På prosessorytelse har vi også tatt med ytelsestallet fra Core i5-2450M, en av de mest populære det siste året på helt vanlige bærbare PC-er. 
+Som du ser er ytelsen i ULV-prosessoren som sitter i vår test-PC helt på høyden med denne: 
+
+Siste testene vi foretok gikk på batteritiden. 
+Som vanlig kjørte vi batteriet helt tomt uten å gjøre noe som helst annet enn å være tilkoblet trådløst nett (som for øvrig fungerer smertefritt nå). 
+I neste omgang ladet vi det fullt, for så å spille av et 720P-videoklipp i Windows Media Player til det gikk tomt. 
+I begge tilfeller plasserte batteritiden seg i toppen: 
+
+Konklusjon 
+
+75% av komponentene i den nye 9-serien er utviklet av Samsung selv, noe som ifølge produsenten er selve nøkkelen til å lage et produkt som er så til de grader gjennomført. 
+Vi har ikke noe problem med å tro på den påstanden. 
+
+Denne Ultrabooken eliminerer behovet for et tungt beist i sekken eller vesken for de aller fleste av oss, og totalen er så bra at vi ikke kan huske å ha blitt mer overbevist av noen kompakt PC vi har testet tidligere. 
+
+Skulle vi likevel pirke på noe, måtte det være at du ikke kan koble den til ekstern skjerm eller kablet nettverk med standardkabler. 
+Prismessig ligger den dessuten helt klart i øvre skikt, og det vil nok skremme mange. 
+Når det er sagt, prisen ligger i samme leie som Macbook Air, og Samsungs nye 9-serie står etter vår mening slett ikke tilbake for denne hva angår opplevd kvalitet. 
+
+Vi ser ikke bort fra at det kommer konkurrenter som vil matche Samsungs 9-serie i ukene og månedene framover, men i øyeblikket er dette en ener. 
+Og enere får terningkast 6. 
+
+Samsung 900X3C-A01SE 

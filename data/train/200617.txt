@@ -1,0 +1,100 @@
+Mac: iMovie '08
+Den nye iLife-pakken fra Apple inneholder en helt ny utgave av iMovie. 
+Vi ga den litt å tygge på med AVCHD, HDV og litt av hvert annet. 
+
+Å holde på med video er som regel en opplevelse med svært mange sider. 
+Det spenner seg fra det svært enkle og hyggelige til store frustrasjoner over apparater og programmer som ikke vil jobbe sammen. 
+
+LES OGSÅ: 
+
+Dagens kameraer er ganske imponerende, og kan under heldige omstendigheter levere resultater som kan matche eller overgå mye av det man ser på TV. 
+Spesielt gjelder dette HD, som ikke mange har tilgang til i spesielt stort utvalg fra de man kjøper TV-sendingene fra. 
+
+Det siste på kamerafronten er HD-kameraer med innebygd harddisk. 
+Det er praktisk og lettvint når man skal gjøre opptak, og kapasiteten tilsvarer flere kassetter enn man ønsker å holde orden på. 
+
+Vi har tidligere testet noen av disse kameraene, du finner artikkelen her. 
+
+Vi har også testet forskjellige alterative programmer for redigering av AVCHD på PC, og denne artikkelen finner du her. 
+
+Hva tilbyr Apple? 
+
+Men Apple har jo alltid vært frampå med gode og ikke minst svært brukervennlige løsninger for videoredigering. 
+Den nyeste kreative pakkeløsningen iLife '08 som kommer med alle nye Mac'er byr på en helt ny variant av iMovie. 
+Apple fotalte pressen nylig at bakgrunnen for denne utgaven var at en av utviklerne av Apples profesjonelle videoredigeringsprogram 
+- Final Cut Pro - gjerne ville gjøre en kjapp og grei redigering av sine AVCHD-opptak med iMovie, og fant ut at det verken fungerte eller var tilrettelagt på en tilfredsstillende måte. 
+
+Resultatet var at han gikk i gang med en ny versjon, vi mistenker at denne er basert på samme kildekodemateriale som Final Cut Pro, som angriper problemene på en helt annen måte. 
+
+(At all programvare for videoredigering har samme kodebase er nok også en sterk motivasjon hos de som bestemmer slikt i Apple...) 
+
+Derfor installerte vi iLife '08 på vår MacBook Pro og fyrte opp iMovie '08. 
+Vårt Sony HDR SR7E ble koblet til en av USB-portene og satt til å åpne harddisken og vi ventet i spenning. 
+Etter noen nervepirrende sekunder rapporterte iMovie at et kamera var funnet, og alle opptakene dukket opp i importvinduet. 
+
+Så langt en studie i brukervennlighet. 
+
+Vi fikk så valget mellom å importere HD-materialet i 960x540 eller 1920x1080 format. 
+Det ble anbefalt å bruke det "lille" formatet, på grunn av plasshensyn. 
+Vi kunne også få problemer med avspilling, mente programmet. 
+Vi lot oss ikke overtale, men valgte full oppløsning. 
+
+Så satte kverna i gang. 
+
+Vi ventet og ventet. 
+
+Det var til sammen 9:06 minutter opptak som skulle inn og dette tok 14:31 minutter å tygge og tilrettelegge for maskinen. 
+
+Til sammenligning tok import av 2:31 min SD MPEG2 video fra samme kamera (omtrent som vanlig DVD-kvaliltet) bare 1:18 sek. 
+
+Men på AVCHD-importen måte vi altså vente lenge - veldig lenge! 
+På PC-løsningene vi har testet tar det ikke mange sekundene å overføre dataene fra kameraet, og inn i programmene tar det heller ikke plagsomt lang tid i begynnelsen av prosessen. 
+Det var først underveis og ved endelig koding til ønsket format at ting tok tid. 
+
+Over til turbo! 
+
+Men når videomaterialet først var tygget, opplevde vi videre håndtering av klippene i en helt annen sfære. 
+Raskere og mer direkte respons for video har vi rett og slett aldri opplevd! 
+
+Alle klippene legger seg etter hverandre i oversiktsvinduet, og du bare beveger musen sidelengs over dem - da hurtigspoler du direkte både i det lille klippet under musepekeren og i redigeringsvinduet. 
+Lynraskt! 
+Også i fullskjerm, da får du en stripe i bildet hvor du velger posisjon. 
+
+For å velge hva du skal bruke er det bare å klikke og dra slik at den gule rammen markere utsnittet - og slippe det i prosjektvinduet. 
+Om det er i en sekvens eller over flere sekvenser spiller ingen rolle - du velger begynnelse og slutt og det er det. 
+Fintrimming kan du hele tiden gjøre om igjen på det du har valgt og lagt i prosjektet. 
+
+Du ser også hva du har brukt av råmateriale, det er markert med streker over råklippene. 
+
+Avspilling i normal hastighet skjer med et dobbeltklikk eller mellomromstasten, men du kan bruke musa så raskt eller sakte du vil over filmbitene og overgangene i alle undervinduene, for å fin-sjekke klipp og overganger osv. 
+
+Videre redigering, som teksting, efektoverganger, fargejustering gjøres like elegant og direkte, uten ventetid. 
+Du kan beskjære og rotere utsnitt, både for video og stillbilder, Ken Burns-effekten er selvsagt også på plass. 
+
+Generelt er det ikke overflod av "kreative" verktøy, noe som egentlig passer bra i en løsning som denne. 
+De fleste profesjonelle er svært sparsomme med slikt, og en hjemmevideo uten effekter blir som regel langt bedre enn med... 
+
+Hva gjør du med videoen? 
+
+Tidligere var det som regel brenning av DVD som var målet for videoredigering. 
+I dag er det bare ett av mange alternativer. 
+For vår egen del brenner vi svært lite DVD, vi lagrer heller opptak på husets filserver. 
+Derfra kan vi se alt på PCene - eller Mac'en - og på plasmaen som er koblet til stuePCen. 
+Noe overføres også til iPod, og i blant kan det være aktuelt å legge ut noe på nett. 
+
+Alle disse valgmulighetene pluss eksport til YouTube finner du praktisk presentert i eksportmenyen, og vil du ha enda flere avanserte alternativer finner du dem under eksport til QuickTime. 
+
+Men full HD fant vi ingen mulighet til å eksportere... 
+
+Eksport av en 5:04 minutters video i 960 x 540 tok 12:50 minutter og ble 145 MB stor, den tok bare 22 sekunder å overføre til husets server. 
+
+Avspilling av m4v-filen håndteres utmerket av iTunes eller VideoLan og den ser faktisk helt ok ut i fullskjermmodus på vår 24-tommers skjermen med 1920 x 1200 oppløsning. 
+Trikset er bare å sette seg litt unna :-) 
+
+Konklusjon 
+
+Det tar tid å få materialet inn i iMovie, og tilsvarende å få det ut til det endelige formatet. 
+Men selve redigeringen er en fryd! 
+Vi har aldri opplevd lignende respons noen gang på video, uansett maskinvare og plattform. 
+
+Mer om iMovie '08 finner du her. 

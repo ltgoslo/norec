@@ -1,0 +1,116 @@
+TEST: WD TV Live mediespiller
+Western Digital overbeviste med WD TV. 
+Nå er oppfølgeren her, og det meste har blitt bedre. 
+
+Alle som har brukt en binders til å dirke opp kontorskuffen hjemme fordi nøkkelen er borte, vet at smått kan være veldig godt og veldig nyttig. 
+
+WD TV Live er slik: 
+Beskjeden når det kommer til dimensjoner, alt annet enn beskjeden når det kommer til prestasjoner. 
+Oppfølgeren til en av våre desiderte mediespillerfavoritter det siste året, WD TV, er altså her, og den gjør nesten alt riktig. 
+
+Boksen kan spille det aller meste du måtte ha liggende av digitale mediefiler, det være seg bilder, videoer, filmer og musikk. 
+
+Næmen, så uskyldig 
+
+De fysiske målene på WD TVs storebror er nøyaktig de samme som hos lillebror, og selv fjernkontrollene er identiske. 
+Forskjellene finner du først og fremst på baksiden, og på innsiden, selv om mange, deriblant oss, mener gråfargen kler boksen enda bedre enn den pianolakkaktige finishen til WD TV. 
+
+For det første får du nå enda flere tilkoblingsmuligheter. 
+HDMI-utgangen (v1.3) er fortsatt der, det samme er USB-porten og den optiske lydutgangen. 
+Western Digital har derimot forminsket kompositt og lyd-utgangene i form av en 3.5mm-kontakt, og like godt lagt til en komponent-utgang (også det en 3.5mm-plugg). 
+
+Alt dette har de nok først og fremst gjort for å plass til det WD TV Lives største nyhet, noe mange av være lesere og andre WD TV-brukere har etterspurt fra dag én: 
+Nettverkstilkobling. 
+Nå pryder nemlig en Ethernet-kontakt baksiden, og dermed skal det plutselig være en smal sak å hente bilder, film og musikk fra eksterne nettverksdisker, PCer og Macer. 
+
+(Mange lesere vet sikkert allerede at det i lang tid har vært mulig å installere såkalt tredjepartsprogramvare på gamle WD TV, som blant annet gjør det mulig å få den lille, svarte boksen på nett. 
+Nå er dette altså mulig uten å gå omveien rundt uoffisielle løsninger.) 
+
+Rett på nett 
+
+Etter å koblet til en Ethernet-kabel, var vi umiddelbart på nett. 
+Ingen konfigurering, ingen transfigurering (det siste er ikke en gang et ord, men du forstår hva vi mener). 
+WD TV Live har riktignok ikke trådløs tilkobling, men en godkjent USB-plugg med Wlan tar seg av den saken om du vil ha det trådløst. 
+
+Neste steg besto i å koble seg til vår lokale nettverksdisk, eller NAS hvis du ikke liker å sløse med bokstavene. 
+Det gikk også smertefritt, selv om vi først måtte finne ut at WD TV Live ikke vil koble seg til NAS-enheter som bare har aktivert Apples såkalte "afp"-protokoll. 
+Skrur du derimot på "smb", den vanligste standarden for å koble seg til andre Windows-enheter, er det grei skuring. 
+Legg inn brukernavn og passord, så kan du fritt navigere rundt på NASen. 
+
+Innloggingsinformasjonen lagres lokalt, slik at du slipper å legge det inn på ny hver gang du skrur på WD TV Live (fjernkontrollen er heller ikke spesielt gunstig å skrive med, så dette vil du uansett helst unngå). 
+
+Vi aktiverte også fildelingsfunksjonen på Macen vår, og, sannelig, etter noen sekunder dukket også den opp i listen over tilgjengelige nettverksenheter på WD TV Live. 
+Regla er den samme her: 
+Skriv inn brukernavn og passord, logg på. 
+
+Du kan også streame musikk, video og annet medieinnhold fra såkalte streamingservere. 
+Vår NAS-disk kjører en variant kalt Twonkymedia, og etter å ha aktivert denne blir alt indeksert innhold tilgjengelig for WD TV Live. 
+Hvis du allerede har satt opp en streamingserver, for eksempel til bruk med Xbox 360 eller PlayStation 3, ser vi derimot ingen grunn til å anbefale det sammen med WD TV Live - da er det enklere å forholde seg til ett nettverksvolum. 
+
+På toppen av det hele kan du koble til en USB-disk eller to til WD TV Live, og deretter dele disse både på det interne og det eksterne nettet. 
+Det er nemlig mulig å logge seg på WD TV Live, slik at du kan se, og bruke, alle enheter som er knyttet til den vesle boksen. 
+
+Enheten støtter ikke såkalt gigabit-Ethernet, men vi opplevde aldri nettverkshastigheten som noe problem i løpet av testperioden. 
+
+Takler det meste - uten hakking 
+
+Et av de beste argumentene for å kjøpe WD TV ga vi i allerede mars, da vi altså testet forgjengeren: 
+Den takler så å si alle formater, enten det gjelder lyd, bilde eller video. 
+Det har naturligvis ikke forandret seg med Live-versjonen, som tvertimot har forbedret formatlista på et vesentlig punkt. 
+
+WD TV taklet ikke DTS digitallyd, noe som gjorde at du måtte bruke en ekstern receiver for å få spilt av filmer med digitalt lydspor. 
+Koblet du WD TV rett i TVen hørte du ikke et pip. 
+Nå er altså det rettet opp, og alle filmene med digitale lydspor som vi har spilt av gjennom WD TV Live fungerte utmerket. 
+
+Faktisk er det bare ett format vi har vært borti i løpet av testperioden som Live ikke liker, og det er Apples Lossless-format. 
+Flac, et annet nerdelydformat, fungerer derimot bra, det samme gjør filer kjøpt gjennom iTunes som ikke har kopibeskyttelse (DRM). 
+Har de derimot DRM, vil WD TV Live like lite vite av slike filer som du eller jeg vil. 
+
+Vi hadde heller ingen problemer med å spille av filmer over nettverket, uansett hvilken kvalitet det var snakk om. 
+En 1080p-fil på 7-8 gigabyte i mkv-format ble spilt av fra en Mac koblet til et trådløst nettverk uten hakking, og alt vi kastet mot den grå boksen ble tatt i mot med åpne hender. 
+
+Kapitler og menyer 
+
+Hvis du tilhører dem som ripper DVDene dine over i VOB-format eller som ISO-fil, bør du derimot være oppmerksom på at WD TV Live, som sin forgjenger, ikke viser DVD-menyen, og heller ikke støtter kapittelinndeling. 
+Det betyr ikke at du ikke kan veksle mellom lydformater eller ulike undertekster - det gjør du fra "options"-menyen når filmen er i gang -, men du kan altså ikke uten videre velge for eksempel ekstramateriale fra filmene dine. 
+
+Kapittelinndeling fungerer fint hvis du koder filmene dine i mkv-format. 
+
+Den eneste tingen vi er direkte misfornøyd med, er måten WD TV Live håndterer bildevisning på. 
+Det er rett og slett ikke mulig å manuelt bla seg gjennom bilder du har liggende på harddisker eller på PCen: 
+Her MÅ du bruke avspillingsknappen. 
+Den tar deg gjennom bildene i et forhåndsdefinert tempo (som du heldigvis kan justere), men det er uansett ikke en optimal måte å gjøre det på. 
+
+Ting som ikke fikk plass andre steder 
+
+Med nettverksfunksjonaliteten har du nå også muligheten til å foreta lettere filbehandling direkte på WD TV-boksen. 
+Du kan kopiere, flytte og slette filer fra (og mellom) alle enheter som er koblet til boksen, så sant du har tilstrekkelige tilgangsrettigheter. 
+
+Menysystemet er ikke veldig ulikt det er på forgjengeren, men orienteringen er ørlite forandret. 
+Hastigheten på menynavigeringen virker å være som før, og det går stort sett kjapt å flytte seg rundt i meny- og filhierarkiet. 
+
+Av en eller annen grunn - vi tipper den lave prisen på snaue 1000 kroner kan være forklaringen - følger det ikke med verken Ethernet og HDMI-kabel, så sørg for å ha liggende et ekstra eksemplar hvis du ønsker å bruke boksen samme dag som du får den. 
+
+Vi savner forøvrig en bokmerkefunksjon, der det er mulig å legge til kataloger fra nettverksvolum som er knyttet til disken. 
+Hvis du har organisert musikken eller filmene med dype kataloghierarkier, må du kanskje gjennom en to-tre-fire kataloger før du er framme ved filmen eller serien du var på jakt etter. 
+Et bokmerke kunne ha gjort denne operasjonen atskillig enklere. 
+
+Du kan nå se videoer fra YouTube rett fra WD TV. 
+Vanligvis er knøttsmå videoer i det som kun kan karakteriseres som VHS-kvalitet ikke noe særlig å se på en stor flat-TV, men videokvaliteten på YouTube har generelt sett blitt bedre, og en del av materialet vi fant holdt overraskende høy kvalitet. 
+Det er riktignok ingen fryd å søke seg fram til videoer, ene og alene fordi fjernkontrollen er så liten at den ikke har plass til noen form for tastatur, men hvis du har lyst til å bla deg gjennom populære videoer, temavideoer eller annet YouTube-innhold som ligger inne som ferdige kategorier, kan det fungere som tidsfordriv i ny og ne. 
+
+Fototjenesten Flickr er derimot ingen suksess. 
+Bildene er altfor små, og hvis du velger å blåse dem opp via zoom-funksjonen forringes bildekvaliteten naturlig nok betraktelig. 
+
+Konklusjon 
+
+Så, jada, WD TV Live har noen små svakheter, men dette er først og fremst en boks laget for musikk og video, og den oppgaven løser den mesterlig. 
+
+Det er enkelt å koble seg til andre enheter på lokalnettet, den spiller av det aller meste uten å bevege seg over hvilepuls, den har ikke vifter og er derfor musestille i bruk, og den tar ikke større plass enn en pocketutgave av, tja, Bibelen. 
+
+På toppen av det hele kommer prislappen. 
+WD TV Live koster ganske nøyaktig det samme som WD TV kostet da den kom tidligere i år, samtidig som du får langt mer for pengene. 
+
+Har du liggende en haug med musikk og film på en harddisk eller fire, er dette en boks du absolutt bør sjekke ut. 
+
+Takk til Komplett.no for utlån av produktet! 

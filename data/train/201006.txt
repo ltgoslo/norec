@@ -1,0 +1,123 @@
+4G ruter Huawei B593
+På papiret har den hastigheter som overgår det meste. 
+Holder det i praksis? 
+
+Som vi har skrevet i en tidligere artikkel, er det mange som ikke får tilgang til raskt bredbånd via forskjellige former for kabel. 
+Årsaken til dette er at de som eier den gamle infrastrukturen ikke ser lønnsomhet i å fornye den for små, potensielle kundegrupper. 
+Det er heller ingen tilkoblingsplikt for internett, slik det var med telefon i Televerkets tid. 
+
+En av de mest potente løsningene er en trådløs bredbåndsruter fra Netcom. 
+Den støtter 4G-mobilnettet og har både WLAN og porter for kablet nett for hjemmenettet. 
+Den egner seg også til mindre bedrifter og selges også til Netcoms bedriftskunder. 
+
+Huawei B593 
+
+Den kinesiske leverandøren Huawei er omfavnet både av Telenor og Netcom som utstyrsleverandør til utbyggingen av mobilnettet. 
+Men de lager også produkter i andre enden av forbindelsen, både små USB-enheter og den trådløse ruteren vi har på testbenken: 
+Huawei CPE B593. 
+
+Selve boksen er litt større enn de fleste andre bredbåndsrutere vi har testet i det siste. 
+Den er i hvit og blå plast, og den er laget for å plasseres stående. 
+
+Baksiden har fire porter for kablet nett som støtter 100 Mbit. 
+Det er også to RJ11 kontakter merket TEL1 og TEL2 for tilkobling av "fast"-telefon, og en USB-kontakt. 
+
+Det er enda en USB-kontakt på den ene siden, hvor av/på bryteren og spalten til SIM-kortet sitter. 
+På den andre siden finner vi en multiknapp som både fungerer som reset, WLAN av/på og WPS-oppsett (Wireless Protected Setup). 
+
+På baksiden er det et deksel som skjuler to antennekontakter. 
+Disse er ikke alltid nødvendige å ta i bruk, men det følger med to antenner som standard. 
+Disse er litt lengre og flatere enn de vi ser på andre rutere. 
+
+Det er også mulig å koble på større eksterne antenner, her finnes det spesialforhandlere med ekspertise på slike installasjoner. 
+De kan imidlertid bli ganske dyre, regn med noen tusen for en komplett installasjon. 
+
+Vi testet både med og uten antenner og oppnådde uansett imponerende hastigheter. 
+
+Installasjon 
+
+Enklere enn dette kan en installasjon knapt bli. 
+Man setter inn SIM-kortet, slår på ruteren og venter til alle symboler lyser, logger seg inn på ruteren fra nettleseren i maskinen med den informasjonen som står på baksiden. 
+Da kommer du til basisoppsett hvor du taster inn PIN-koden. 
+Så er det bare å vente noen lange sekunder til ruteren har fått kontakt med 4G nettet. 
+
+Så er du på nett med standardinnstillingene som står bak på ruteren. 
+Vi snakker om brukernavn, passord, WLAN-navn (SSID) og ditto passord, som man gjerne endrer til sine egne. 
+
+Da er det bare å koble opp PC-ene og andre kablede nettverksenheter til de fire portene, så er man i gang på hjemmenettet. 
+Siden portene bare støtter 100 Mbit har vi valgt å bruke en separat Gigabit svitsj til alle kablete enheter, herfra går det en kabel til selve ruteren. 
+Da kjører det lokale nettet på Gigabit hastighet, mens internett går via 100 Mbit-porten på ruteren. 
+100 Mbit er også maks av det selve ruteren kan håndtere fra 4G-nettet, så flaskehalsen ligger uansett utenfor brukerens område. 
+
+Ruteren har alle de vanlige funksjonene, den har støtte for USB-lagring på minneplugg, eller SSD /harddisk i USB-kabinett. 
+Kontaktene støtter USB 2.0 gjør at du ikke får full hastighet fra disker og SSD. 
+Du setter opp brukere og tilgang til lagringsenhetene. 
+
+Det er også støtte for opptil 4 separate trådløse nett med hver sin SSID. 
+Du kan opprette egne trådløse nett for gjester, hybelboere, ungdommer og så videre, som er isolert fra hverandre, men alle har tilgang til internett. 
+
+Ruteren fører også statistikk over trafikken. 
+Dette er viktig når du har begrenset kvote som kan lastes ned/opp i abonnementet. 
+
+Statistikken føres også over trafikken per nettverksport. 
+
+I bruk 
+
+Sammenlignet med en slapp 3 Mbit/300Kbit ADSL linje som vi har vært henvist til er forskjellen enorm. 
+Alt smetter på plass i nettleseren når man surfer, nedlasting går så det griner, opplasting av bilder til nettjenester er gjort på et blunk, videoer starter med det samme - alt er bare fryd og gammen! 
+
+Målinger med DinSides Surfometer gir varierende resultater, men vi har aldri målt under 20 Mbit i vår bolig ved Høybråten, øverst i Groruddalen. 
+Her spiller den lokale trådløse dekningen inn, siden den faller med avstanden. 
+
+Målt med stasjonær PC koblet til ruteren med kabel lå vi mellom 40 og 80 Mbit nedlastning, og rundt 30 Mbit på opplastning. 
+
+Dette slår de fleste andre løsninger både i hastighet og pris! 
+Spesielt opplastningen gjør denne løsningen klart å foretrekke for de som jobber med nettbaserte løsninger og sender store filer, bildemateriale osv. 
+Men også de som laster opp tull og tøys til Facebook vil glede seg over den overlegne opplastningshastigheten. 
+Det eneste som kan konkurrere er fibernettverk, som har samme hastighet i begge retninger. 
+
+Med iPhone, iPad og andre WLAN-løsninger blir ikke hastigheten like høy, men 20 Mbit ned og rundt 15 Mbit opp er heller ikke dårlig på iPhone 4 med WLAN, ytelsen med iPad ligger vesentlig høyere. 
+
+Vi målte også nede i Oslo sentrum, i våre redaksjonslokaler ut mot Storgata. 
+Der fikk vi langt lavere hastigheter, i underkant av 20 Mbit nedlasting og mellom 10 og 15 Mbit på opplasting. 
+Men dette er likevel svært gode hastigheter som holder til det meste. 
+
+WLAN hastigheter 
+
+Den trådløse delen for hjemmenettet er av mer ordinært kaliber, men rekkevidden er god. 
+Den støtter bare 2,4 GHz og to strømmer. 
+
+Sammenlignet med de beste ruterne er hastigheten mer enn godkjent, rekkevidden er den svakeste siden. 
+Muligens kan denne økes ved å montere et par eksterne antenner, men det ble ikke levert med ruteren. 
+Vi hadde heller ingen for hånden. 
+Trenger du raskere trådløst kan du bruke en trådløs dual-band ruter med støtte for 5 GHz og flere strømmer for bedre WLAN-ytelse og sette opp denne som rent aksesspunkt og deaktivere ruterfunksjonen. 
+
+Begrenset datakvote? 
+
+Da denne løsningen først ble lansert var det en alvorlig svakhet med abonnementene som hører med: 
+Datakvoten var på 15 eller 30 GByte pr måned for de to alternativene. 
+Etter dette gikk hastigheten ned til 120 Kbit eller man kunne kjøpe en ny kvote. 
+
+Kvotene var også ganske dyre: 
+
+Å beregne hva man trenger i forhold til bruksmønster er komplisert. 
+Netcom ga en oversikt i denne tabellen: 
+
+En annen måte å se det på er hvor lang tid det tar å tømme kvoten ved kontinuerlig nedlastning. 
+Med 40 Mbit bruker du 18 Gbyte i timen. 
+Med 66,66 Mbit tar det en time å tømme kvoten på 30 GByte. 
+
+Med slike uforutsigbare variabler som trafikk på internett og bruksmønster for en familie blir det vrient for menigmann å beregne. 
+
+Konklusjon 
+
+Denne løsningen er et utmerket alternativ til kablet bredbånd. 
+Hastighetene varierer mellom svært gode og imponerende, og det eneste som overgår ytelsen i privatmarkedet er fibernett, men da til en høyere pris. 
+
+Løsningen er svært enkel å komme i gang med, og ikke mer komplisert enn andre rutere hvis man vil skreddersy og tilpasse løsningen til spesifikke bruksområder. 
+
+Prisen på abonnementet er konkurransedyktig, særlig hvis man også trenger rask opplastningshastighet, da er man på samme nivå som med fiber. 
+
+En begrenset datakvote har vært sperren for mange. 
+Vi har selv sittet på 4G-gjerdet over et år, og ventet både på en ruterløsning og at kvoten skulle fjernes eller økes vesentlig. 
+Endelig har begge ønsker blitt innfridd og vi gir løsningen en god femmer. 

@@ -1,0 +1,122 @@
+HTC S710
+Dette er den første telefonen i Norge med Microsofts nye operativsystem. 
+Les hva vi mener om den. 
+
+(Mobiltesten er et samarbeidsprosjekt mellom nettstedene DinSide, ITavisen og Dingz) 
+
+HTC er nærmest synonymt med Windows Mobile. 
+I flere år har denne produsenten levert avanserte PDA-telefoner med Microsofts operativsystem. 
+
+Windows-optimalisert 
+
+Fordelene med en slik telefon er mange. 
+Du slipper kryptiske drivere og halvferdig programvare for å få telefonen til å kommunisere mot din PC - og ikke minst mot Outlook og de andre Office-programmene. 
+Du kan imidlertid ikke opprette Word, Excel- eller Powerpoint-dokumenter, bare jobbe med de du har laget selv på PCen eller mottatt fra andre. 
+
+Utvalget av tredjeparts programvare er enormt - det er nesten ikke grenser for hva du kan få en Windows-telefon til å gjøre (selv om IR-porten dessverre er vekk, slik at du ikke lenger kan bruke den som universalfjernkontroll). 
+Og sist, men ikke minst har du i utgangspunktet full synkronisering mot jobbens Exchange-server. 
+
+Bedre Exchange-støtte 
+
+Det er på dette siste punktet at de viktigste forbedringene i versjon 6 ligger. 
+Den nye versjonen har fått mye bedre selektiv synkronisering, slik at du slipper å bruke dyrebar mobiltid på å oppdatere en masse data du strengt tatt ikke trenger. 
+I tillegg har 6-versjonen en søkefunksjon som gir deg nesten like bra tilgang på mail-historikken din som om du satt på kontoret med PCen din. 
+
+Flere av de nye, smarte funksjonene krever imidlertid at IT-avdelingen din har oppgradert til Exchange Server 2007, noe de færreste bedrifter har (2007-versjonen er ikke helt anbefalt av konsulentene ennå). 
+Selv hadde klarte vi med respekt å melde ikke å synkronisere noe som helst mot vår Exchange-server, som er versjon 2003. 
+Verken via GSM-nettet eller WLAN. 
+
+Synk på autopilot 
+
+Vi måtte altså nøye oss med å ta ned e-posten via IMAP og synkronisere mot egen PC via den medfølgende USB-kabelen. 
+Det siste gikk dessverre ikke helt smertefritt. 
+Windows Vista gjenkjente ikke telefonen (den er jo veldig ny...), og insisterte på å bruke en generisk driver som viste seg å ikke fungere. 
+Vi måtte inn med HTCs programvare-CD. 
+
+Når forbindelsen mellom telefonen og Vista vel var etablert, startet synkroniseringen umiddelbart. 
+Problemet var bare at siden S710 forsøksvis var satt opp til å synkronisere rett mot serveren, hoppet Vista like godt over hele Outlook og startet synkronisering mot Windows Media Player i stedet. 
+
+Til alt overmål skjønte ikke programvaren at den skulle legge de store mediefilene på det 1 GB store Micro SD-kortet vi hadde satt inn før testen. 
+I stedet fylte den opp det beskjedne internminnet med filmer og musikk. 
+
+Bra Explorer 
+
+Alt dette lot seg imidlertid enkelt fikse med noen håndgrep. 
+Men det er en stund siden vi har klødd oss slik i hodet under utpakkingen og installeringen av en mobiltelefon. 
+Vi skal ikke se bort fra tenkes at andre får denne dingsen til å virke rett ut av boksen, men for oss ble det en ganske lang periode med prøving og feiling før den gjorde det vi ville. 
+
+Når alt er satt opp riktig, er det mye å fryde seg over i det nye operativsystemet. 
+Internet Explorer har blitt betydelig bedre, og fungerer nå faktisk til lesing av vanlige nettsider så lenge du bruker horisontal skjerm. 
+Siden du fint kan lese e-posten og kalenderen din i Exchange via Web, gjør det kanskje ikke så mye at det er trøblete å synkronisere. 
+
+Operativsystemet veldig ryddig og oversiktlig, og klart mer brukervennlig enn tidligere versjoner. 
+Spesielt liker vi Comms Manager, som lar deg skru av og på nettverksforbindelsene etter behov. 
+Veldig praktisk på flyturen, når du vil bruke telefonen selv om den ikke er på nett. 
+
+Fortsatt noe som mangler 
+
+Det er likevel enkelte ting vi fortsatt savner. 
+Som å kunne lukke applikasjoner individuelt. 
+Det blir fort fullt i minnet, og da er det tungvint å måtte gå til Task Manager for å lukke programmer du ikke bruker. 
+Og Internet Explorer burde ha fått en zoom-funksjon. 
+Samtidig hadde det som sagt vært fint å fått lov til å opprette Office-dokumenter. 
+
+Vi prøvde forresten å installere Opera Mini for Windows Mobile. 
+Det endte med full stillstand, der fjerning av batteriet var eneste utvei. 
+Kanskje er forklaringen at Opera heler ikke har kommet så langt som til Windows Mobile 6. 
+
+Bra søkefunksjon 
+
+Adresselisten er veldig intuitiv. 
+Når du venner deg til det nye søket som på grunnlag av bokstavkombinasjonene du skriver inn «skjønner» hvem du skal ha tak i (en slags T9 for søk), går det som en lek å ringe opp kolleger og venner fra en liste på flere hundre kontakter. 
+
+Kalenderen har også fått et kraftig løft, både utseende- og funksjonsmessig. 
+Og kameraet er en fryd og bruke. 
+Å sende bilder og video pr. mail eller MMS går også som en lek, om enn noe tregt. 
+
+Null 3G 
+
+For denne telefonen har overraskende nok ikke 3G (eller WCDMA, som mange kaller det nå). 
+Du er med andre ord henvist til å bruke GPRS, EDGE. 
+Telefonen har heller ikke HSCSD (høyhastighetsdata med GSM). 
+Dermed har telefonen ikke mobilt bredbånd, noe som i 2007-sammenheng må sies å være det samme som å være henvist til å være «fotgjenger». 
+Det kan være både tidkrevende og frustrerende å logge seg inn på lukkede, trådløse WiFi-nett med alle de ulike krypterings- og sikkerhetsstandardene man må forholde seg til. 
+3G er dermed langt å foretrekke. 
+
+Designet er derimot svært bra. 
+Telefonen er lekker (selv om den ikke helt kvalifiserer til uttrykket griselekker), og vekker berettiget oppsikt rundt kafébordet. 
+Knappene både på det uttrekkbare QWERTY-tastaturet og på telefonens framside er gode og presise å bruke, selv om vi har sett det enda bedre. 
+De to knappene som styrer hovedfunksjoner som menyer og bekreftelser er derimot i minste laget for de av oss som har en bestefar som var grovsmed... 
+
+Glimrende skjerm 
+
+Skjermen er derimot veldig bra. 
+Vi kan ikke huske å ha sett en klarere, mer lyssterk og kontrastrik mobilskjerm noen gang. 
+Bilder og video gjengis med bravur, og det går faktisk an å se en hel film krympet til wmv-formatet. 
+
+Det spørs likevel om det er praktisk mulig på tur, om du da ikke sitter på hotellet. 
+Til vanlig mobilbruk har S710 imponerende batteritid. 
+Men vær klar over at når du begynner å spille film - og ikke minst slår på WiFi - går måleren raskt nedover. 
+Det anbefales med andre ord å ta med laderen over alt om du har tenkt å bruke all moroa. 
+Fortsatt er det nok slik at om du virkelig mener noe med å ta med deg musikk, film og nett på tur - da drar du på mediespiller og/eller laptop. 
+
+Knøttsmå funksjonstaster 
+
+Med musikk varer imidlertid showet lengre, selv om lyden i de medfølgende hodetelefonene ikke er stort å glede seg over. 
+Du kan dessverre ikke bruke andre hodetelefoner, siden denne har mini-USB-plugg (noe som er naturligvis er praktisk i andre sammenhenger). 
+
+På tross av to tastaturmuligheter savner vi trykkfølsom skjerm- rett og slett fordi menyene, undermenyene og ikonene er så mange og de to «museknappene» er så små. 
+Men det er jo en sjeldenhet i telefoner i denne størrelsesklassen. 
+
+Konklusjon 
+
+HTC S710 er et greit produkt med et operativsystem som selv i sin sjette utgave fremdeles må betegnes som «lovende». 
+Dessverre skjemmes pakken av for mange uferdige og lite gjennomtenkte funksjoner. 
+Mye av dette må tilskrives Microsoft, som denne gangen ligger litt i forkant av kundene sine. 
+
+Samtidig er det nesten uforståelig at HTC velger å lansere et produkt uten 3G nå som store deler av verden har dekning det knapt finnes noen avanserte telefoner uten. 
+At det er støtte for trådløst nett (WiFi) oppveier ikke helt. 
+
+Det er mange gode grunner til å velge en Windows-telefon. 
+Men interesserte bør kanskje vente til det dukker opp flere modeller, fortrinnsvis med 3G. 
+Og godsnakke med IT-avdelingen sin i god tid før kjøpet... 

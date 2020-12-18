@@ -1,0 +1,92 @@
+Sandisk Sansa e250
+TEST: 
+Med iDon't-kampanjen prøver Sandisk å vekke folk fra iPod-rusen. 
+En umulig oppgave? 
+Vi har testet Sansa e250, og her får du vite vår mening. 
+
+Skal man lykkes på markedet for MP3 og PMP-spillere i 2006 er man avhengig av at følgende er på plass: 
+
+1. 
+Et produkt som fremstår som unikt i forhold til konkurrentene 2. 
+Avsindig mye penger til markedskampanjer 3. 
+En usannsynlig stor porsjon selvtillit. 
+
+Det kan virke som en umulig oppgave. 
+Apple har på en finurlig måte klart å få fullstendig kontroll på dette markedet, både når det gjelder salg av spillere og handelsløsninger for musikken. 
+Det er egentlig temmelig uvanlig at en aktør som til de grader verner om sine egne proprietære løsninger klarer nettopp det. 
+Det skyldes først og fremst at Apple "tok" dette markedet mens de seriøse produsentene av musikkutstyr brukte energien sin på å bekjempe den eneste naturlige utviklingen, men det skyldes også Apples ubegripelig flinke designere, som gang på gang har satt malen i dette markedet. 
+
+iPod-kjøpere og sauer 
+
+Det er ingen tvil om at også Sandisk har skjelet til Apples iPod Nano da de designet Sansa e250. 
+Samtidig går de hardt ut mot markedslederen i en ironisk kampanje på nettstedet www.idont.com, der iPod-brukere i mer eller mindre klare ordelag sammenlignes med en saueflokk. 
+Det er på tide å bryte ut av flokken og gå mot strømmen, mener Sandisk, som er en av verdens største produsenter av flashminne. 
+
+Sansa e250 er da også en flash-basert PMP (Portable Media Player). 
+Den spiller naturligvis MP3-filer, men også WMA, inkludert musikk med kopibegrensninger (DRM). 
+Dette kan være kjøpt og leid musikk fra for eksempel MSN Music, som er Apples iTunes Music Stores største konkurrent. 
+I tillegg kan Sansa spille av både video og bilder, og den er i tillegg utstyrt med stemmeopptaker. 
+En versjon av spilleren er også utstyrt med FM-radio med opptaksmuligheter, men denne er av en eller annen grunn ikke tilgjengelig på det europeiske markedet. 
+
+Skjermen er 1,8" stor, den har høy oppløsning, og relativt god kontrast og fargegjengivelse. 
+Under den sitter et mekanisk hjul som svarer til den trykkfølsomme platen på iPod Nano. 
+I midten sitter en OK/Bekreft-knapp, og rundt hjulet finner du fire knapper; avspilling/pause, forrige, neste og valg. 
+Nederst i høyre hjørne sitter power-knappen, som også brukes når du vil tilbake til menyen, da med kun et lett trykk. 
+
+Navigeringen er relativt enkel, men det mekaniske hjulet er litt slarkete, og knappene rundt kan være vonde å treffe med litt store fingre. 
+Kvalitetsfølelsen er generelt høy, men disse momentene trekker den noe ned. 
+
+På venstre side sitter en direkteknapp for stemmopptak, praktisk for alle som ønsker å bruke den som diktafon. 
+På motsatt side sitter leseren for de ørsmå microSD-kortene. 
+På undersiden sitter USB-tilkoblingen, som dessverre er like proprietær som tilkoblingen på iPod Nano. 
+Skulle du glemme eller miste den, må du dermed bestille ny fra leverandøren. 
+Mer hyggelig er det at ved å løsne de fire skruene på undersiden, kan du bytte ut li-ion-batteriet når det begynner å bli slitent. 
+
+Grei lyd 
+
+De medfølgende ørepluggene er av "gammel" type med putetrekk. 
+De sitter rimelig godt i undertegnedes ører, og lydkvaliteten er midt på treet. 
+Du kan velge mellom forskjellige EQ-innstillinger, men vi savner generelt litt mer bass. 
+Vi prøvde også med diverese andre hodetelefonløsninger, og kan bekrefte at de medfølgende pluggene ikke yter spilleren full rettferdighet. 
+Totalinntrykket er imidlertid verken dårligere eller bedre enn for eksempel iPod Nano eller Creative Micro. 
+
+Minnet er på 2 GB, nok til rundt 500 sanger i kurant kvalitet, 2,5 timer med video, eller noen tusen bilder. 
+Dersom du ønsker mer lagringsplass, kan internminnet enkelt utvides ved hjelp av et microSD-minnekort, men av en eller annen grunn har Sandisk valgt å reservere slikt tilleggsminne til musikkfiler alene. 
+
+Valgfri overføring 
+
+Overføring av musikk kan skje på flere forskjellige måter. 
+Foretrekker du for eksempel å bruke Windows Media Player, må du stille den til såkalt MTP-modus, som også sørger for at DRM-beskyttet musikk blir dekryptert riktig i spilleren. 
+Ønsker du at spilleren skal dukke opp som en ekstern disk i utforsker, setter du den i MSC-modus. 
+Deretter er det bare å dra og slippe musikken til music-mappen på spilleren. 
+Batteriet lades når spilleren er tilkoblet, andre lademetoder er ikke tilgjengelig. 
+Da er det greit å vite at et fullt oppladet batteri holder til rundt 20 timer avspilling (MP3-musikk). 
+Ikke verst! 
+
+Skal du overføre bilder og videoer, må du derimot bruke det medfølgende programmet "Sansa Media Converter": 
+
+Dette støtter de vanligste bilde- og videoformatene, inkludert DivX og VOB (DVD). 
+Bilder konverteres til BMP med en bestemt kompresjon og oppløsning, mens videoer konverteres til - ironisk nok - Apples Quicktime-format (basert på MPEG4). 
+Det er ikke mulig å stille kompresjonsgraden, den er etter vår mening satt alt for lav i forhold til behovet. 
+For eksempel ble vår eksempelvis vår 1 times lange testfil i DivX-format doblet i størrelse fra 400 til 800 MB, til tross for at oppløsningen var mer enn halvert. 
+Dessuten ble filmen splittet opp i en rekke segmenter (separate filer), ikke særlig elegant når du skal bla gjennom filmbiblioteket. 
+
+Totalt tok konverteringsprosessen 28 minutter på vår bærbare PC med Pentium M-prosessor (1,7 GHz). 
+Prosessorbelastningen var som ventet høy (80-90%) gjennom hele denne prosessen. 
+
+En mappe med MP3-filer (91 MB) ble overført til spilleren på 43 sekunder. 
+Det gir en overføringshastighet på 2,1 MB pr sekund, som svarer til 16 mbps. 
+Raskere enn USB1.1 altså, men langt fra potensialet til USB 2.0 HiSpeed. 
+
+Konklusjon 
+
+Sandisk Sansa e250 etterlater seg et godt inntrykk. 
+Det er imidlertid ikke ensbetydende med at den vil bli den suksessen Sandisk håper på. 
+Spørsmålet er om den skiller seg markant ut fra de heteste konkurrentene, og der er vi noe usikre. 
+Vi stiller for eksempel et stort spørsmålstegn ved at radiodelene er fjernet for det europeiske markedet, men mest ser vi faren for at likheten med den sorte utgaven av iPoden - rent utseendemessig - er så stor at den kun vil bli betraktet som en kopi. 
+Og er det noe som sjelden blir trendprodukter, så er det kopier. 
+
+Bortsett fra dette er det ingen tvil om at kjøpere av Sansa e250 får en bra spiller med mange muligheter, til en relativt rimelig pris. 
+Mens veiledende pris ligger på rundt 1.500 kroner, har vi sett den i flere nettbutikker til 1.200-1.300 kroner. 
+
+Norsk distributør er Aronsen AS. 

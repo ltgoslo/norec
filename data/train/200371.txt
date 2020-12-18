@@ -1,0 +1,118 @@
+Toshiba Satellite U940
+Fin ultrabook i mellomsjiktet. 
+
+Toshiba har laget noen fine, veldig lette ultrabooks. 
+Vi husker blant annet godt Z930-11C fra i fjor høst, som bare veide litt over 1 kg og som blant annet imponerte oss med svært god SSD-ytelse. 
+
+Denne gangen er det en litt annen type ultrabook det er snakk om, Satellite U940 heter den, og er både større og tyngre, men også billigere. 
+Dessuten er den godt utstyrt med blant annet stor disk og mye systemminne. 
+
+Her er en kjapp gjennomgang av de viktigste tekniske egenskapene: 
+
+Skjerm: 14" blank LED-baklyst LCD, 1366 x 768 piksler, ikke berøringsskjerm Prosessor: 
+Intel Core i5-3317U RAM: 
+8 GB (4 + 4 GB) - maks 16 GB Grafikkort: 
+Intel HD 4000 Lagring: 640 GB hybrid harddisk med 32 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 2 x USB 3.0 + 1 x USB 2.0 Webkamera: 
+1 Mpix Kortleser: 
+Alle typer SD + MS Trådløst nett: b/g/n (Intel Centrino Wireless-N 2230) 
+Kablet nett: 10/100 Mbit Annet: 
+Bluetooth 4.0, Intel WiDi, USB-lading med PC avskrudd OS: 
+Windows 8 64 bit Størrelse: 
+339,6 x 238,3 x 20,7 mm Vekt: 1,72 kg Pris: 
+Fra ca 6.000 kr pr 23.3.2012 
+
+Til denne prisen er spesifikasjonene absolutt i øvre sjikt. 
+Merk for øvrig at minnet kan oppgraderes til hele 16 GB, hvis du tar ut de to brikkene som står i og erstatter dem med 2 x 8 GB-brikker. 
+
+Typisk mellomklasse 
+
+Som ventet i denne prisklassen er imidlertid skjermen av den mer enkle sorten, med TN-panel. 
+Lysstyrke og fargegjengivelse er helt OK, innsynsvinkel fra venstre og høyre er også (overraskende) bra, kontrasten avtar ikke i samme grad som på mange andre rimelige skjermer. 
+Sett neden- og ovenfra er det imidlertid klare begrensninger, og bildet blir fort invertert. 
+Oppløsningen er dessuten lav i forhold til spydspissene i kategorien nå, som riktig nok koster mye mer. 
+
+Materialvalget er også enklere enn på dyrere modeller, plastbruken er gjennomgående. 
+Likevel synes vi ikke konstruksjonen bærer preg av å være billig i samme grad som hva som var tilfelle med HP 
+Pavillion 14 som vi testet tidligere i år (den er riktig nok også billigere). 
+I det hele tatt virker den fin og fast i konstruksjonen. 
+Ikke vises fingeravtrykk heller, takket være den ru overflaten. 
+
+Det eneste vi setter et lite spørsmålstegn ved i konstruksjonen, er skjermleddene. 
+De er smale, og det er veldig lett å bøye skjermen bakover. 
+Kan dette bli slarkete etter hvert? 
+Det er i hvert fall blant de mest løse vi har sett på en stund. 
+
+Tastaturet er bakbelyst og aldeles strålende i bruk. 
+Det avgir nesten ikke lyd i det hele tatt, og er fast og fint. 
+Dette kunne godt ha sittet på en langt dyrere modell! 
+
+Alle tilkoblingene sitter på høyre side, med unntak av én USB-port. 
+Ingen tilkoblinger sitter i bakkant, slik vi har sett på flere Toshiba-bærbare tidligere. 
+Vi tror de fleste vil sette pris på lett tilgjengelige USB-porter på sidene, og kanskje like viktig; at alle tilkoblingspunktene har full størrelse. 
+Det er ikke alle ultrabooks som kan skilte med det. 
+
+Pekeplaten har integrerte sensorer for venstre- og høyreklikk. 
+Vi liker best separate knapper, her opplever vi av og til at pekeren sklir til siden når vi skal trykke. 
+Men noe stort problem er det definitivt ikke. 
+Dessuten lager trykkene nesten ikke lyd. 
+Slikt liker vi. 
+
+Stillegående 
+
+Og maskinen i seg selv lager heller ikke mye lyd. 
+For å være en modell med mekanisk disk kan vi ikke annet enn å være meget fornøyde. 
+Under tung belastning vil naturligvis viften begynne å surre, men vi kan absolutt ikke påstå at vi er blitt sjenert av den under testen - på noen som helst måte. 
+
+Merk imidlertid at viften sitter på undersiden, og at luftinnsuget skjer der. 
+Derfor ville vi vært forsiktig med å ha PC-en på en pute eller lignende, da den fort kan bli litt vel varm. 
+
+Maskinen er utstyrt med noen små høyttalere som sitter under i fronten, og de byr på en svært spinkel lyd. 
+Den er vesentlig mer dybdeløs enn de aller, aller fleste PC-ene vi har testet den siste tiden. 
+Så her er det bare å finne fram eksterne høyttalere eller hodetelefoner med det samme, for dette skjærer i ørene... 
+
+Slik yter den 
+
+Fra du skrur på PC-en til du er inne i Windows tar det 17 sekunder. 
+Det er raskt til å være en PC med harddisk, men vi oppdaget at Toshiba har gjort visse modifikasjoner på denne maskinen før de sendte den til test. 
+Blant annet har de fjernet sikkerhetspakken fra McAfee, som vi ofte har uttalt oss kritisk til. 
+Det kan ha påvirket oppstartstiden noe, og den øvrige brukeropplevelsen - som vi har har lite å utsette på. 
+Maskinen oppleves som rask og responsiv i nær sagt alle situasjoner. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 7,4 Grafikk: 
+5,7 Spillgrafikk: 
+6,4 Primær harddisk: 
+5,4 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og i diagrammene under har vi sammenlignet tallene vi fikk mot andre, relevante modeller vi har testet den siste tiden: 
+
+Toshibaen ytter noen prosent bedre enn snittet for PC-er samme type i5-prosessor, og vesentlig bedre enn AMD-baserte modeller. 
+Det viktigste er uansett at PC-en løser de aller fleste oppgaver raskt og smidig. 
+
+Også grafikkytelsen er litt bedre enn våre snittmålinger for i5-prosessoren. 
+Det betyr null problemer med ALT av videoinnhold, men fortsatt ikke nok krutt til å spille de mer avanserte spillene. 
+Er det viktig for deg bør du vurdere en annen maskin med dedikert grafikkort fra AMD eller Nvidia. 
+
+Harddisken har helg gjennomsnittlige ytelser. 
+I praksis kan den oppleves som en flaskehals, spesielt når du jobber med flere tunge programmer og store brukerfiler samtidig. 
+Her vil en SSD være å foretrekke, og kan i mange tilfeller mangedoble ytelsen. 
+Her er det dine behov som må være avgjørende, man kan alltid bytte ut harddisken med en SSD på et senere tidspunkt hvis behovet melder seg. 
+
+4-5 timer på batteri 
+
+Hva så med batteritiden? 
+Ikke så aller verst, selv om det finnes langt seigere løsninger på markedet. 
+Toshiba selv antyder rundt 4,5 timer med variert bruk, og vi tror det er ganske korrekt. 
+Vi målte i overkant av 6 timer med lav belastning, og 3 timer ved videoavspilling. 
+Det er omtrent der vi forventer at en modell i midtskiktet bør ligge. 
+
+Konklusjon 
+
+Til tross for at den ikke er spesielt dyr, har denne Toshiba-en gjort et meget bra inntrykk på oss i testperioden. 
+Det er rett og slett mange ting å like her, og vi var lenge i tvil om vi skulle gi den en firer eller femmer på terningen. 
+I mangel på 4,5 havner vi til slutt på en meeget sterk firer og godt kjøp-stempel takket være fin pris. 
+Men se våre plusser og minuser under før du bestemmer deg. 

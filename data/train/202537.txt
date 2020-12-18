@@ -1,0 +1,127 @@
+TEST:Philips Spotify Multiroom høyttalere 
+
+Billig inngangsbillett til lyd i flere rom. 
+
+2015 ser ut til å bli multirom-året. 
+For nesten hver uke i fjor høst dukket det opp nye trådløse høyttalersystemer fra kjente og ukjente produsenter. 
+
+Hvor stort dette markedet er i Norge, er det ennå for tidlig å si. 
+De fleste kjøper nok fortsatt enkeltstående Bluetooth/AirPlay-høyttalere, og nøyer seg med å streame musikk fra mobilen. 
+
+Men nå er kampen mot Sonos i full gang 
+
+For det er åpenbart at de store elektronikkprodusentene har sett på suksessen til markedslederen Sonos, og at de ikke vil sitte rolig å se på at det amerikanske selskapet håver inn hele profitten. 
+
+Philips er blant de som var tidlig ute med trådløs lyd. 
+Derfor er det interessant hva de har å tilby nå som markedet er mer modent. 
+
+Det ville ikke overraske oss om Philips har et mer avansert multiromsanlegg i ermet. 
+Men i dag er høyttalerne SW700 og SW750 tilbudet deres inne dette feltet. 
+
+Beskjeden prislapp 
+
+Den gode nyheten er at prisen på begge er svært beskjeden, takk i betrakting av at konkurrentene selger sine trådløse høyttalere til mellom 1600 (Sonos Play :1) og 5000 (Denons HEOS 7) kroner stykket. 
+Mens SW700 koster 995 kroner, får du storebroren SW750 1495. 
+
+Den dårlige nyheten er at du er låst til Spotify (Premium-abonnement). 
+Du kan med andre ord ikke spille musikken du har lagret på mobil, PC, nettbrett, Mac eller nettverksdisk (NAS). 
+Du kan heller ikke bruke WiMP, Deezer eller andre musikkstrømmere. 
+
+Heller ikke kan du spille nettradio, noe som kanskje er det dypeste savnet for de av oss som gjerne slår på BBC om morgenen for å høre nyheter og musikk fra den andre siden av Nordsjøen. 
+
+Begrenset til fire høyttalere 
+
+Spotify Radio er i så måte ingen erstatning. 
+Der ligger det ikke direktesendte kringkastere, og du kan dermed bare spille boksemusikk som allerede ligger hos Spotify (om enn på en ny måte). 
+
+Philips-høyttalerne bruker Spotify Connect, et system som er svært enkelt å bruke. 
+Du trykker rett og slett bare på Connect-sympolet nederst i høyre hjørnet på Spotify-appen. 
+Deretter velger du den enheten du vil at musikken skal gå til. 
+
+Ønsker du å strømme musikken videre til flere høyttalere, så er det bare å legge dem til i Philips egen app. 
+
+Antallet høyttalere som kan spille musikk samtidig er begrenset til fire. 
+Dette er i snaueste laget, siden konkurrentene opererer med inntil 32. 
+
+Likevel finnes det en løsning om du ikke planlegger å ha fest med samme musikk i hele huset. 
+Du kan jo installere så mange du vil om du kan leve med å spille ulik musikk i ulike rom. 
+Men vil du styre dem fra samme app, er det en begrensing på 16. 
+
+Ikke helt enkelt å sette opp 
+
+Å sette opp anlegget fra grunnen av kan ikke beskrives som vanskelig, men det kunne nok ha vært betydelig enklere. 
+
+Først må du erstatte ditt eget trådløse nett med nettadressen til høyttaleren. 
+Deretter må du tilbake til ditt eget nett og skrive inn passordet på ny. 
+Siden høyttalerne ikke har logiske navn, kan dette være noe forvirrende. 
+Men når det først er gjort, fungerer det greit. 
+
+Du kan også bruke Setup og WPS-knappene på baksiden av høyttalerne for henholdsvis oppsett for iOS/Android-app og forbindelse til ruteren, men vi hadde ingen problemer med å sette opp alt fra appen uten å trykke på disse. 
+
+Philips-høyttalerne bruker vanlige trådløst nettet (wiFi), og lager i motsetning til Sonos og Samsung ikke et eget nett for å kommunisere seg i mellom. 
+
+Best med ny ruter 
+
+To av høyttalerne vi plasserte rundt om i huset fikk «Poor», på måleren som forteller hvor god forbindelsen er. 
+Dette på tross av at mobiltelefon og nettbrett viste at fullt utslag samme sted. 
+
+På tross av dette fungerte det helt fint, og høyttalerne viste ingen tegn til ustabilitet. 
+Vi vil likevel anbefale å investere i en ny ruter før du kjøper et flerroms-musikkanlegg som dette. 
+
+Philips-høyttalerne støtter alle trådløse standarder opp til 802.11n (både 5 og 2,4Ghz). 
+
+Enkel app 
+
+Selve appen (vi har bare testet iOS-versjonen) er i likhet med andre tilsvarende apper fra andre aktører innen trådløs lyd (minus Sonos, som er eksperter på dette) nokså primitiv både når det gjelder brukervennlighet, utseende og funksjonsrikdom. 
+
+Det tar en god stund fra du starter appen til enhetene dukker opp i listen over rom. 
+Du kan ikke velge hva de ulike rommene skal hete. 
+Her må du nøye deg med de engelske betegnelsene som Livingroom, Bedroom etc. 
+
+Å velge rom er derimot lekende lett. 
+Du spleiser lett rom og fjerner dem igjen fra listen like enkelt ved å markere de runde feltene ved siden av hvert rom i appen. 
+
+Bare å trykke på «Play»-knappen 
+
+Like lett er det å spille musikk når Spotify-appen først er koblet sammen med en høyttaler. 
+Du trykker bare på «Play»-knappen på en høyttaler, så fortsetter den der du slapp sist. 
+
+Det samme gjelder om du hører musikk i Spotify-appen på mobilen din. 
+Når du kommer hjem, er det bare å fortsette å høre samme musikk på Philips-anlegget. 
+
+Du kan derimot ikke spille forskjellige låter i ulike rom samtidig, for det nekter Spotify deg å gjøre. 
+Men siden Spotify Connect-appen pares med hver enkelt høyttaler kan du jo bruke flere Spotify-kontoer på samme anlegg. 
+
+Overrasket over lyden 
+
+Det er fortsatt langt igjen før høyttalere som disse kan konkurrere med et fullblods stereoanlegg. 
+Men nesten hver gang vi pakker opp og kobler opp en mini-høyttaler nå om dagen, blir vi positivt overrasket over lyden. 
+Dette er også tilfelle med den minste Philips-høyttaleren SW700M). 
+
+LES OGSÅ: 
+TEST: 
+Sonos Play :3 
+
+Det har uten tvil blitt gjort store tekniske framskritt på denne fronten de siste årene, og gamle dagers blikkbokslyd i slikt utstyr er nå erstattet av en varm og fyldig klang som både er behagelig å høre på, går langt ned i bassen (det gjør den egentlig ikke, men det høres slik ut) og til og med formidler detaljer i øvre mellomtone og diskant på en måte vi knapt hadde trodd var mulig i noe annet enn «ordentlige» stereoanlegg. 
+
+I enda større grad er dette tilfelle med den 2 X 
+10 watt sterke (utgangseffekten for SW700 er ikke oppgitt) SW750, som egentlig bare er mer av det samme. 
+Her kan du spille høyere. 
+I en stue på rundt 30 kvadratmeter var det ingen problemer å få høyt nok nivå til at både AC/DC og Mahler stortrivdes. 
+
+Begge er i utgangspunktet stereo, men noen særlig bredde og dydeeffekt får du ikke. 
+De kan heller ikke kobles i par slik at du får ekte stereo. 
+
+Konklusjon: 
+
+Philips SW700 og SW750 Spotify-høyttalere er en rimelig og vellydende inngangsbillett til et trådløst multiromsystem. 
+
+Vi har sett systemer som er mer intuitive å sette opp. 
+Men når dette først er gjort, er høyttalerne både stabile og enkle å bruke. 
+
+Spesielt liker vi at du kan spille musikk sømløst mellom mobil og anlegg, og at Play-knappen på toppen av høyttalerne er såpass smart. 
+
+Vi synes likevel at Philips er litt gjerrige når de ikke tillater andre musikk-kilder enn Spotify. 
+Mange vil gjerne høre nettradio, og mange har egen musikk lagret lokalt som de gjerne vil spille. 
+
+Den største svakheten er at det verken har Bluetooth eller mulighet til å spille av lyd fra andre apper enn Spotify via WiFi. 

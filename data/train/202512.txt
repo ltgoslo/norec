@@ -1,0 +1,52 @@
+Logitech QuickCam SphereMP
+Har du problemer med å plassere webkameraet eller deg selv i forhold til linsen? 
+Du er tydeligvis ikke alene, siden Logitech har en modell som løser begge problemene. 
+
+De fleste webkameraer er beregnet på plassering på toppen av en PC-skjerm. 
+Vi har sett en del forskjellige festeløsninger, men ingen har vært så fleksible at de passer på alle typer skjermer. 
+Enten er skjermen for tykk eller for tynn, og resultatet kan bli et kamera som rister eller faller ned ved den minste berøring. 
+
+Noen kameraer sitter på et bordstativ, men det er ikke så smart hvis man er ute etter et bilde som viser noe annet enn haka og neseborene undenifra. 
+Det er jo ikke så flatterende. 
+
+Logitech har et bredt utvalg webkameraer, og har også tenkt på de som har problemer med plassering av webkamera. 
+
+Løsningen består av en solid fot, en stang og en kule på toppen med kameraet. 
+
+Stangen er ikke så høy at du kan plassere den på skrivebordet bak en LCD-skjerm, den rekker ikke høyere enn ca midt på. 
+Hvis du skal bruke kameraet til å vise bilde av deg når du sitter ved PCen må du altså velge en plassering ved siden av skjermen, og presentere deg litt mer i profil. 
+
+Har du to skjermer kan du for eksempel plassere kameraet mellom skjermene, da får du jo en vanligere bildevinkel fra webkameraet. 
+
+Det sitter USB-kontakter i foten og i kameraet, og i begge ender av stanga. 
+Derfor er det også mulig å plassere kulen rett i foten. 
+
+Installasjon og bruk 
+
+Installasjonen gikk uten problemer på to av våre test-PCer, men på den tredje fikk vi noen pussige problemer. 
+Her hadde vi allerede installert siste versjon av QuickCam-programvaren, som er den samme for alle Logitech-webkameraer. 
+Kameraet vi hadde koblet til var UltraVision, men å koble til Sphere MP i stedet fungerte ikke. 
+Vi fikk bilde, men styreprogrammet var ikke komplett og manglet blant annet kontroll av motorene i Sphere-kameraet. 
+
+Noe av det smarte er nemlig at du har mulighet til å fjernstyre små motorer som styrer både pan og tilt (sideveis og opp-ned bevegelser) i fot og kule. 
+
+Dette kan du gjøre enten med stangen montert eller uten, med kamerakulen festet direkte i foten. 
+
+Denne funksjonen fungerte likevel bare ved oppløsninger på 640x480 eller mindre. 
+Ved HD (960x720) eller høyere var det ingen respons fra motorene i kameraet. 
+
+Bevegelsene er heller ikke så jevne som vi skulle ønske, det går i rykk og napp. 
+Prøver du å ta opp video med lyd og bruker mikrofonen i kameraet, og panorerer under opptak, så høres tydlig summing fra motorene på opptaket. 
+
+Bildekvalitet 
+
+Sammenlignet med Logitech UltraVision var bildekvaliteten synlig dårligere. 
+Alle nye Logitech-kameraene bruker den nye programvaren RightLight2, som gjør en vesentlig bedre jobb enn tidligere utgaver når deg gjelder lysmåling og bildebehandling. 
+Likevel er råmaterialet som kommer fra optikken og bildesensoren avgjørende for resultatet av prosesseringen. 
+
+Konlusjon 
+
+Fjernstyringen av kameraet ved hjelp av motorer vurderer vi mer som en gimmick enn som en direkte nyttig funksjon. 
+Hadde systemet fungert bedre hadde det vart mer moro, men vi synes det er for hakkete og dessuten langt fra støyfritt når du bruker mikrofonen i kameraet. 
+
+Prisen er ligger på i overkant av 900 kroner, vi ville definitivt spandert en hundrelapp til og dratt hjem med Logitech Ultra Vision i stedet. 

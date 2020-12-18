@@ -1,0 +1,90 @@
+Toshiba Qosmio X70
+Flott skrivebordserstatter for deg som er opptatt av film og underholdning. 
+
+Denne PC-en inngår i en trippeltest av PC-er myntet på gaming og underholdning. 
+Du finner testoversikten her. 
+
+Qosmio er en velkjent produktfamilie for alle som er kjent med Toshiba og består av kraftige maskiner med fokus på spill og underholdning. 
+X70 er siste tilskudd, og denne 17,3-tommeren er i sannhet en underholdningsmaskin, og den eneste i denne testen som leveres med innebygd Blu-ray-spiller. 
+Ikke nok med at den kan spille Blu-ray-filmer, den kan også brenne Blu-ray-plater, inkludert de nye XL-platene som har en kapasitet på inntil 100GB pr stk. 
+
+Her ser du de viktigste spesifikasjonene (uthevet), sammenlignet mot de to andre PC-ene i testen: 
+
+Som vi ser av tabellen er dette den klart største og tyngste av de tre, men 2,8kg er ikke spesielt mye for en PC med 17,3" skjerm. 
+Den er også den eneste av de tre som leveres med VGA-utgang, og dermed kan du enkelt koble den til «alt» av projektorer direkte, om du skulle få behov for det. 
+
+Og i motsetning til de to andre leveres denne modellen med harddisk, ikke SSD. 
+Det er imidlertid en hybridløsning, med 8GB flashminne. 
+Denne sørger for at filer og programmer som kjøres ofte, starter raskere - men som du skal se litt senere, er det ikke noen løsning som kan konkurrere med SSD når det gjelder generell ytelse. 
+
+Slik ser den ut 
+
+Maskinen er den tykkeste i testen, med sine 3cm på det tykkeste. 
+Det er imidlertid verdt å legge til at siden den er så mye større enn de andre, virker ikke 3cm spesielt tykt likevel. 
+Det er i grunnen kun HP Omen, med sine 2 cm, som framstår som spesielt tynn i dette selskapet. 
+
+Alle tilkoblingene sitter på venstre og høyre side, med unntak av kortleseren som sitter i fronten. 
+Overflaten er i koksgrå aluminium med svake horisontale linjer. 
+Sammen med de røde detaljene får den fram en racerbilaktig følelse av fart og stil - og vi liker det. 
+
+Metallet og de røde detaljene fortsetter på innsiden, og gir et solid inntrykk. 
+Tastaturet har rødt baklys, er svært fast og gir ikke etter for selv harde trykk. 
+Det avgir også svært lite støy under skriving, noe som bare bekrefter kvalitetsinntrykket. 
+Gaming-tastene W, A, S og D er merket med piler. 
+
+Over talltastene sitter det hurtigtaster for blant annet medieavspilling og lydjustering, og du må holde inne FN-tasten for å aktivere F-tastene, inkludert Printscreen og Pause. 
+
+Under tastaturet sitter en multiberøringsfølsom pekeplate med integrerte felt for venstre- og høyreklikk. 
+Trykking avgir noe lyd, noe som kan kanskje irritere enkelte når det er helt stille i rommet. 
+
+Mellom skjermen og tastaturet sitter et par høyttalere merket Harman/Kardon, og de sørger for ganske god lyd med bra diskant, mellomtone og spor av bass. 
+Vi lytter gjerne til musikk eller ser en film med lyd fra disse høyttalerne, som vi har vurdert til å være testens beste. 
+
+Skjermen er høyoppløst og stor, og sett rett forfra er den super. 
+Kontrast og farger endrer seg imidlertid raskt fra sidene, og vi antar derfor at det er et TN-panel som sitter i den. 
+Her framstår skjermene i de to andre maskinene som strået hvassere. 
+
+Undersiden er av plast. 
+
+Slik er den i bruk 
+
+Maskinen er rimelig greit konfigurert, med et utvalg programmer og apper fra samarbeidspartnere - inkludert Spotify, Microsoft Office, Netflix, Cyberlnk, Google og McAfee. 
+Sistnevnte er en sikkerhetspakke som dessverre gjør litt for mye av seg, med irriterende sprettoppbokser i tide og utide. 
+Om du skulle få lyst til å avinstallere denne begrensede prøveversjonen, er det greit å vite at Windows Defender, som allerede ligger i operativsystemet og er gratis, byr på relativt god sikkerhet uansett. 
+
+Under lav og moderat belastning er PC-en relativt stille. 
+Det eneste suset som er konstant, kommer fra harddisken. 
+Ser du etter en lydløs PC må du se andre veier, men i klassen for kraftplugger er denne slett ikke ille. 
+
+Ytelsestestene som vi foretok med Catzilla (spillytelse) og Passmark (allround ytelse) viser at maskinen er svært rask til alt arbeid som krever høy prosessorkraft (for eksempel tallknusing, videoredigering, videokompresjon), men er temmelig moderat når det kommer til spilling. 
+For å ta prosessorytelsen først, ser vi at den ligger likt med Multicom-maskinen, men noe bak HP - alle tre har samme høytytende Core i7-prosessor med fire kjerner: 
+
+Catzilla-testene foretok vi i 1080P (full HD), og det er helt på det rene at de nyeste og mest krevende spillene blir for heftige for grafikkortet i den oppløsningen. 
+Resultatet blir såkalt , som oppleves som hakking under spilling. 
+Ved å gå ned på oppløsning og detaljrikdom kan mange titler likevel være spillbare. 
+
+Vi har laget en video som demonstrerer problemene i de mest krevende situasjonene, i tillegg til å illustrere problemene med gjenskinn i skjermoverflaten. 
+Som du vil se i testene av HP Omen og Multicom Kunshan, flyter grafikken mye bedre der: 
+
+Tabellen under viser 3D-tallene vi oppnådde i Passmark, og de forklarer denne forskjellen ganske klart: 
+
+Vi nevnte så vidt diskytelsen innledningsvis, den ligger generelt godt bak de to andre - som begge er utstyrt med SSD-er. 
+Merk imidlertid at ytelsesmålingene ikke fanger opp data som bufres i de 8 GB med flashminne som ligger her, og som lastes vesentlig raskere enn data som ikke er bufret: 
+
+Hva så med batteritiden? 
+Nå er ikke dette de mest portable PC-ene på markedet, men det er greit å kunne ha muligheten til å sitte litt i sofaen eller i senga med PC-en uten å måtte være avhengig av strømpluggen hele tiden. 
+Her gjør Qosmio det relativt skarpt i forhold til de to andre, og har desidert best batteritid under lav belastning. 
+Med variert bruk kan du forvente en batteritid på mellom 4-5 timer. 
+
+Konklusjon 
+
+Dette er den største og tyngste i testen, og med sin 17,3" store full HD-skjerm, Blu-ray-spiller, meget gode høyttalere og kraftige prosessor, er den definitivt en glimrende underholdningsmaskin. 
+Den markedsføres som en modell som også egner seg for spilling, men våre tester viser at den ikke henger helt med i svingene når de virkelig krevende scenene utfolder seg. 
+Derfor: 
+Best egnet til underholdning, inkludert musikk og videospilling/redigering. 
+
+Sjekk plussene og minusene i boksen under før du bestemmer deg. 
+
+Tilbake til testforsiden eller les om de to andre PC-ene i testen, HP Omen og Multicom Kunshan P651S 
+
+Toshiba Qosmio X70-B-10M 

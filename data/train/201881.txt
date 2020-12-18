@@ -1,0 +1,56 @@
+D-Link RangeBooster
+Mens vi venter på at enigheten om den nye standarden for trådløst nett skal bli stemplet og godkjent, kan vi glede oss over at produsentene har tjuvstartet. 
+Her er D-Links kandidat. 
+
+Standarden for neste generasjon trådløst nett har vært under utvikling og diskusjon i lang tid. 
+Deler av de nyhe teknikkene som inngår i denne har vært i bruk en god stund, og vi har testet de fleste av disse. 
+MIMO-teknikken står sentralt, med bruk av 3 antenner mens tidligere løsninger brukte 1 eller 2. 
+
+LES OGSÅ: 
+
+Høye hastigheter og bedre rekkevidde er også på listen over egenskaper, noe som kan komme til nytte for mange brukere. 
+I vanskelige omgivelser har MIMO-rutere gjort tidligere døde områder til helt brukbare arbeidsrom. 
+Og selv om høyere hastighet på trådløst hjemmenett enn det Internett-oppkoblingen tilbyr er helt uinteressant for svært mange, er det andre som har stor nytte av dette. 
+Så trivielle ting som å vise svigermor bilder fra ferien på en bærbar, mens dataene ligger på en av husets stasjonære PCer er langt mer behagelig med et raskt trådløst nett. 
+Bildene spretter da fram, i motsetning til å sige ned over skjermen... 
+
+I teorien i hver fall. 
+
+D-Link RangeBooster har de vanlige tilkoblingene, bortsett fra USB-porten som ikke er for tilkobling til skrivere eller nettverkslagring, men for tilkobling til PCen hvis du ikke har nettverksport i denne, eller ønsker å bruke den til noe annet. 
+
+Enkel installasjon 
+
+D-Link RangeBooster kommer med en gul lapp klistret over portene, hvor beskjeden ikke er til å ta feil av. 
+
+Vi fulgte oppfordringen, og kom inn i et installasjonsprogram. 
+
+her var det bare å klikke på startknappen, og etter en liten stund med venting og tilkobling av nettverkskabler når vi fikk beskjed om det, hadde ruteren funnet ut hva slags nettverk vi var koblet til og var klar til bruk. 
+Eksemplarisk. 
+
+Bedre rekkevidde 
+
+De to forrige trådløse ruterne vi testet, som skrøt av flere ganger rekkevidde og mangedobbel hastighet, klarte ikke å få kontakt med vår bærbare plassert oppe på mesaninen bak perforerte stålplater. 
+Det hadde derimot de første MIMO-ruterne fra Linksys og Belkin ingen problemer med. 
+
+D-Link hadde heller ingen problemer med å etablere og holde på forbindelsen, et klart pluss i boka. 
+
+Ytelsen var mer ujevn enn det Linksys SRX presterte, men i snitt over tid var ytelsen sammenlignbar. 
+
+Inne i testlab og ute i kontorlandskapet klarte D-Link seg bra i forhold til konkurrentene: 
+
+I hjemlige omgivelser 
+
+I vårt trehus, med ruteren plassert oppunder mønet midt i huset, var rekkevidden og ytelsen utmerket. 
+
+Hva med svigermor og feriebilder? 
+
+Feriebildene, både fra Canon Ixus 800IS og Nikon D200 som krever sitt, ble presentert med en ytelse som ikke er så fjernt fra lokal lagring på den bærbare. 
+
+Men video fra Ixus'en var ikke like vellykket. 
+Avspilling av video over en viss kvalitet er ikke det som trådløst nett egner seg best til - selv om tallene på eskene skulle tyde på noe annet. 
+Med mer bufring er det selvsagt mulig, men for menigmann og kvinne som bare fyrer opp MediaPlayer og håper det beste, er det ikke en uproblematisk verden. 
+
+Krysskompatibilitet? 
+
+Hvordan de nyeste og raskeste ruterne fungerer sammen med konkurrentenes kort og med integrerte standardløsninger i bærbare? 
+Det er neste punkt på vår testplan. 

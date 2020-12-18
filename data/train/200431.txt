@@ -1,0 +1,77 @@
+Toshiba Satellite Pro M30
+Bærbare PCer med bredskjerm er i ferd med å bli en stor suksess, ikke minst gjelder dette PCer som først og fremst er bygd med hensyn til underholdning. 
+Toshiba Satellite Pro M30 er i så måte en spennende modell. 
+
+Toshiba er tilbake på banen her hjemme, etter en noe turbulent periode. 
+Nye spennende modeller er alt på plass hos forhandlerne, og en av dem som det har vært knyttet stor spenning til, er bredbånds-PCen Satellite Pro M30. 
+
+LES OGSÅ: 
+
+Selv om Toshiba først og fremst tenker bedriftsmarked med denne modellen, har den spesifikasjoner som absolutt bør tiltale privatmarkedet: 
+
+Intel Centrino med Pentium M 1,5 GHz prosessor 512 MB minne (2 x 256) 60 GB harddisk, 4.200 rpm 15,4" bredskjerm, WXGA oppløsning (1280 x 800 punkter) Nvidia Geforce FX 
+Go 5200 grafikk, 64 MB DVD-brenner for formatene DVD-R, DVD-RW samt CDR og CDRW (2x DVD-R, 1x DVD-RW, 16x CDR, og 10x CDRW). 
+Leser også DVD-RAM. 
+VGA med TV-utgang iR-port Firewire-port SD-minnekortleser PC Card-slot (PCMCIA) 
+Harman-kardon høyttalere 56 Kb modem 10/100 Mbit nettverk 802.11b trådløst nettverk SD-minnekortleser 1x PC-card (PCMCIA) for utvidelse 3 x USB 2.0-porter 1 x 
+Firewire-port 
+Ytre mål: 360 x 270 x 25 (front) / 36 (bak) mm Vekt: 
+2782 gram (+ strømforsyning som veier 396 gram) 
+
+Praktisk utformet 
+
+Det er egentlig en ganske stor PC, men vekten på knappe 2,8 kg er likevel absolutt lavere enn man skulle forvente. 
+Kabinettet virker solid. 
+Lokket er kledd i metall, noe som gir god beskyttelse for skjermen. 
+VGA, nettverk og modem-kontakter er hensiktsmessig plassert i bakkant, mens alle tre USB 2.0-porter er hensiktsmessig plassert på sidene. 
+Det samme gjelder Firewire, PCMCIA, SD-kortleseren, TV-ut, mic og lydutgang. 
+
+Et lokk til venstre skjuler parallellporten, det vil nok forbli lukket for de fleste som kjøper denne PCen. iR-porten sitter i fronten. 
+Kabinettet skrår litt innover i fronten, så den kan være vanskelig å oppdage. 
+Ved siden av porten sitter en bryter for å skru av/på støtte for trådløst nettverk. 
+Det kan være hensiktsmessig å skru av av støtten når du ikke har behov for den, for å spare batterilevetid. 
+
+Omdiskutert tastaturløsning 
+
+Tastaturløsningene til Toshiba skiller seg fra mengden på et spesielt område: plasseringen av spesialtaster avviker i forhold til hva vi er vant til på vanlige tastaturer. 
+Windows-tasten er for eksempel plassert øverst i høyre hjørne, pipe/paragraf har sneket seg inn mellom Alt og mellomromstasten, Del-knappen sitter også på nederste rekke. 
+Hvorfor Toshiba sverger til dette oppsettet er for oss et komplett mysterium, og alltid et irritasjonsmoment under testingen. 
+
+Vi liker heller ikke at mellomromstast og linjeskift er små, og at spesialtaster er plassert til høyre for sistnevnte. 
+Det fører bare til at vi taster feil oftere. 
+Da hjelper det lite at tastaturet for øvrig er fast og fint. 
+
+Over tastaturet sitter de omtalte Harman/Kardon høyttalerne, som byr på litt fyldigere lyd enn du vanligvis får på bærbare PCer. 
+Plasseringen er optimal, og lyden duger når du for eksempel sitter ved PCen og ser på DVD-film. 
+Til venstre for tastaturet finner du av/på-knappen, lys som indikerer aktivitet (HD, CD, SD, WLAN), samt hurigknapper for å åpne nettleseren, Toshiba infopanel og aktivering av TV-utgangen. 
+Særlig sistnevnte er nyttig - det vet alle som har prøvd å få koble PCer til TV-skjermen. 
+
+Lydløs ytelse som forventet 
+
+Som de fleste Centrino-baserte PCer er også Satellite Pro M30 mer eller mindre lydløs. 
+Kun under ekstrem belastning av grafikk og prosessor kan du oppleve at viftene starter, for så å avslutte med det samme belastningen tar slutt. 
+
+Ytelsesmessig fikk vi oss få overraskelser. 
+1,5 GHz Pentium M er et meget klokt prosessorvalg, den yter omtrent som en 2,2-2,4 GHz Pentium 4-prosessor i de fleste situasjoner. 
+Harddisken kunne mer enn gjerne vært raskere, det hadde gjort PCen raskere under mellomlagring, skriving og lesing. 
+
+Vi var litt spente på hvordan PCen ville oppføre seg under spilling, og ble litt skuffet over ytelsen til Geforce FX Go 5200-grafikken. 
+Vi fikk 906 poeng i 3DMark 2003, og det er for eksempel mer enn 200 poeng lavere enn vi oppnådde med HP Compaq nx7010, som har den sammenlignbare Mobility Radeon 9200-brikken fra ATI. 
+Grei ytelse til det meste, men den vil neppe tilfredsstille de mest spilleglade. 
+
+Mer tilfredsstilt ble vi da vi testet batterilevetiden. 
+4 timer og 24 minutter er overbevisende, og vi skynder oss å legge til at Toshiba sjelden skuffer på dette punktet. 
+
+Du kan klikke her for å lese detaljene fra ytelsestestene og få mer info om de øvrige tekniske dataene. 
+
+Konklusjon 
+
+Dette er slett ingen dårlig PC. 
+Den har godt med utstyr og tilkoblingsmuligheter, og er pakket inn i et smakfullt og robust kabinett. 
+Skjermen er upåklagelig og egner seg meget bra til visning av DVD-filmer. 
+Batterilevetiden er rett og slett strålende god. 
+
+Det som trekker ned i vår totalvurdering av PCen, er først og fremst noe skuffende grafikkytelse, treg brenner som ikke støtter DVD+, samt at harddisken kunne vært raskere. 
+At vi ikke liker tastaturet, er mer en smakssak enn et punkt som kan tillegges vekt i vurderingen. 
+
+Mer nyttig fra DinSide Data: 

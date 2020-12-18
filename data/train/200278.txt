@@ -1,0 +1,63 @@
+MPIO One
+TEST: 
+Den er ikke større enn et 9-volts batteri, men har innebygd OLED-skjerm og 1 GB minne. 
+Må-ha, eller ha-ha? 
+
+Mange vil hevde at elektronikkbransjen er blitt eksperter på å skape behov for nye duppedingser, herunder håndholdte spillkonsoller, musikk- og videospillere. 
+Markedet for denne typen produkter er i rivende utvikling. 
+Stadig ser vi nye innretninger som langt fra er fullkomne, men som forteller oss ikke så rent lite om veien videre. 
+
+I Japan er for eksempel video på mobiltelefonen blitt en stor suksess, og undertegnede ville for eksempel aldri vurdert en mobiltelefon i dag uten en god MP3-spiller. 
+
+Kinesiske MPIO er blant annet kjent for sine MP3-spillere som ikke krever proprietære programløsninger for å fungere. 
+Du bare plugger dem i PCen via USB, og overfører musikkfilene gjennom Windows Utforsker. 
+Her kreves ingen driverinstallasjon, det er bare å dra filene over, enkelt og greit. 
+
+Selskapet hevder at MPIO One er verdens minste PMP. 
+Hvis du ikke kjenner til forkortelsen, kan du like godt lære deg den med det samme. 
+PMP står for Portable Media Player; spillere som håndterer både lyd og bilde. 
+MPIO 
+One er på størrelse med og ser ut som et 9 volts batteri, så vi har ingen grunn til å betvile påstanden. 
+Vekt? 
+34,5 gram. 
+Det hører med til historien at spilleren forsvant for oss flere ganger under testen, og nettopp dette er kanskje det største problemet; det kan rett og slett bli for smått. 
+
+Den lille størrelsen til tross; spilleren har innebygd skjerm, støtter bilde- og videoavspilling, har innebygd FM-radio med 30 forvalg (med opptaksfunksjon), stemmeopptaker, spiller lyd i MP3, WMA og Ogg Vorbis-format, og kan til og med komprimere lyd fra analoge kilder til WMA-format i sanntid. 
+Nesten like imponerende er batterilevetiden, som er på inntil 15 timer! 
+
+Ingen ekte DivX-spiller 
+
+På esken står det at spilleren støtter DivX, WMV og en rekke andre videoformater. 
+Det viste seg i praksis at dette ikke medførte riktighet. 
+Alle videoene må nemlig konverteres på PCen først, til et lavoppløselig format tilpasset spillerens skjerm og prosessor. 
+Programmet som foretar konverteringen takler riktig nok nær sagt "alt" av formater, men prosessen er tidkrevende. 
+Vår test-PC har en 2,8 GHz prosessor, og konvertering av en halvannen times spillefilm i DivX-format gikk omtrent i 1x hastighet. 
+Da hadde samtidig filstørrelsen blitt redusert til 102 MB. 
+Du kan altså få plass til rundt 10 spillefilmer på denne spilleren! 
+
+Men den store filmopplevelsen kan du naturligvis bare glemme. 
+Spilleren har innebygd OLED-skjerm på 1 tomme (!), og oppløsningen er på beskjedne 96 x 64 punkter. 
+Helt greit til visning av tekst, mens bilder blir naturligvis veldig grovkornet og detaljfattige. 
+Det mest positive er at skjermen er lesbar fra alle vinkler, takket være OLED-teknologien. 
+TV-utgang hadde vært toppen! 
+
+Lydkvaliteten er imidlertid OK, men vi skulle ønske at vi kunne styre kompresjonen selv i konverteringsprogrammet. 
+Det er dessverre ikke mulig. 
+
+Betjeningen krever noe tilvenning, blant annet fordi enkelte knapper må holdes nede en stund før de reagerer, og kan ha forskjellig funksjon avhengig av situasjon. 
+Det gikk riktig nok bedre etter hvert, men vi har sett langt mer brukervennlige løsninger. 
+
+Overføring skjer via USB 2.0 HiSpeed, så her blir det minimalt med venting! 
+Filene organiseres og vises i en trestruktur ikke ulik Windows Utforsker, men vi merker oss at ID3-tagger ikke støttes. 
+Du er dermed avhengig av at musikkfilene har vettige navn, dersom du skal ha håp om å finne fram. 
+Batteriet lades via USB-porten. 
+
+Konklusjon 
+
+MPIO One har imponerende mange funksjoner, størrelsen tatt i betraktning. 
+Dessverre har det ført til at den er litt tungvint å betjene. 
+Den innebygde skjermen er for liten til at den egentlig er brukendes til annet enn å imponere kolleger og venner. 
+Som MP3-spiller duger den imidlertid godt, med bra lyd og veldig enkel overføring. 
+Men her har den imidlertid mange, bedre og billigere konkurrenter. 
+
+Takk til MPX for utlån av produktet. 

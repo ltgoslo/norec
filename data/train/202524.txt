@@ -1,0 +1,111 @@
+Multicom Arya MS-1771
+Tynnere 17,3 tommer skal du slite med å finne, i tillegg får du meget god ytelse. 
+
+Det er mange gode grunner til å ha en PC med stor skjerm. 
+Driver du med bilde- og videoredigering og liker å ha mange vinduer åpne samtidig, er det nærmest en nødvendighet med en viss arbeidsflate. 
+Og liker du å spille, får du en helt annen opplevelse når skjermen fyller en stor del av synsfeltet ditt. 
+
+Multicom er en av svært få norske aktører som fortsatt selger PC-er under eget merkenavn. 
+De har funnet sin nisje innen gaming, og har etter hvert blitt en ettertraktet aktør innenfor dette feltet. 
+
+Nylig lanserte de sin nye Arya-serie, ultratynne gaming-maskiner med 17,3 tommer skjerm. 
+Som tidligere er det snakk om maskiner som kommer fra en asiatisk OEM-produsent, som Multicom konfiugerer med blant annet minne, lagring og operativsystem. 
+Vår test-PC kom for eksempel med Windows 7 Home Premium, som fortsatt er foretrukket av mange gamere. 
+
+Veldig tynn 
+
+Ifølge produsenten skal dette være en av verdens tynneste 17,3-tommere på markedet, med sine 21,8 mm. 
+Det har vi ingen problemer med å tro på, vi har i hvert fall aldri hatt tynnere på testbenken. 
+
+Og til tross for den tynne utformingen er PC-en meget godt utstyrt. 
+Hør bare her: 
+
+Skjerm: 17,3" full HD 1920 x 1080 piksler LED-baklyst LCD, TN-panel, matt Prosessor: 
+Intel Core i7-4700HQ RAM: 
+8 GB (2 x 4 GB - maks 2 x 8 GB) 
+Grafikkort: 
+Nvidia GeForce GTX 765M 2 GB Lagring: 128 GB SSD (mSATA) + 750 GB 7200 rpm harddisk Optisk drev: 
+Nei Skjermutganger: 
+HDMI + 2 x mini DisplayPort USB-porter: 4 x USB 3.0 Webkamera: ja, 1280 x 720 piksler Kortleser: 
+SD/SDHC/MMC Trådløst nett: 
+Intel Dual Band Wirelss AC-7260 Kablet nett: 10/100/1000 Mbit Annet: 
+Ledig mSATA-spor til enda en SSD OS: 
+Ingen, kan leveres med Win7 eller Win8 Størrelse: 
+41,8 x 28,7 x 21,8 cm Vekt: 2,66 kg Pris: 
+10.995 kr inkl mva (6.11.2013) 
+
+Meget oppdatert 
+
+Som vanlig er Multicom meget oppdatert på maskinvarefronten, her er siste generasjon firekjernet i7-prosessor fra Intel, godt med minne og et kraftig grafikkort fra Nvidia. 
+Det mest oppsiktsvekkende er imidlertid at maskinen har tre skjermutganger og mulighet for inntil tre interne lagringsenheter, to SSD-er i mSATA-spor samt en SSD eller harddisk i standard 2,5" utforming. 
+Løsningen som er valgt i vår test-PC er uansett gunstig nok for de fleste, med en rask SSD som systemdisk og 750 GB harddisk til data. 
+
+Det er også verdt å merke seg at maskinen er utstyrt med et nettverkskort som støtter den nye AC-standarden. 
+Det betyr trådløshastigheter som mange ganger kan måle seg med kablet forbindelse, hvis ruteren din også støtter standarden. 
+
+Nøytralt og solid ytre 
+
+Maskinen har et meget nøytralt ytre i matt, svart lakkert metall - ja, her er det brukt metall rund baut, kun rundt skjermen er det en plastramme. 
+Dessverre vises fettflekker litt lett på den matte overflaten. 
+
+Alle tilkoblingene sitter på venstre og høyre side. 
+
+Det mest uvanlige her er kanskje at strømtilførselen er trukket ned mot midten til høyre. 
+Kontakten har heldigvis en 90-graders knekk, så plasseringen utgjør ikke noe problem i så måte. 
+
+Skjermen kan bøyes temmelig langt bakover før det sier stopp, og hengslet er bredt og virker solid. 
+
+Rammen rundt skjermen er større enn på mange mindre PC-er, men her må vi ta i betraktning at de også har færre utvidelsesmuligheter og/eller er tykkere. 
+
+Skjermen er høyoppløst og fin når du betrakter den rett forfra. 
+Farger og kontrast avtar så snart den betraktes fra siden, noe som er typisk for skjermer av TN-paneler. 
+Disse er vesentlig rimeligere enn mer avanserte skjermer med IPS og PLS-paneler. 
+
+Tastaturet sitter ca midt på platen, og er baklyst med blålige LED-lys. 
+Tastene har typiske "gaming-fonter", og er fast og meget behagelig å skrive på. 
+Merk imidlertid at enter-tasten er smal, og Windows-tasten har flyttet seg til høyre for mellomromstasten. 
+
+Den store pekeplaten under fungerer også meget bra. 
+Den har integrerte felter for venstre/høyre-klikk, med god respons og akkurat passe høy klikkelyd. 
+
+Meget høy ytelse 
+
+Vi fikk maskinen levert med Windows 7 Home Premium, og Windows Opplevelsesindeks gir oss her følgende ytelsestall. 
+Merk at skalaen går fra 1,0 til 7,9 i Windows 7: 
+
+Prosessor: 7,6 Minne: 7,6 Grafikk: 
+5,2 Spillgrafikk: 
+7,2 Primær harddisk: 7,9 
+
+Dette er generelt gode tall, selv om Grafikk-tallet ikke gir et helt korrekt bilde. 
+GeForce GTX 765M er i følge Futuremark det 9. raskeste grafikkortet for bærbare PC-er i skrivende stund, og den nest mest populære i spill-PC-er, fordi det gir mye ytelse for hver krone. 
+
+I praksis vil det ikke ha noe problemer med å kjøre de nyeste spillene i full HD med tilfredsstillende flyt, selv med dyp detaljrikdom og i de mest krevende scenene. 
+
+Det er også verdt å merke seg at PC-en har vifter som går kontiunerlig. 
+Dette er altså ikke av de mest stillegående PC-ene, men støyen øker ikke nødvendigvis mye selv når prosessor og grafikk belastes kraftig. 
+Under våre ytelsestester i Passmark økte faktisk ikke frekvensen i det hele tatt. 
+
+Prosessoren blir heller neppe noen flaskehals i PC-ens levetid. 
+Den har fire kjerner og ekspederer alle jobber kjapt og greit, også når du kjører flere tyngre jobber samtidig. 
+
+SSD-en fra Toshiba er også av den raske typen, med les/skrive-hastigheter på mellom 450 og 500 MB pr sekund på store filer: 
+
+Ikke for folk på farten 
+
+Dette er imidlertid ikke noen PC som er laget for deg som ofte sitter med PC-en på fanget på toget eller på hytta uten strøm. 
+Batteritiden oppgir Multicom til rundt 3 timer ved variert bruk, og dette er også inntrykket vi sitter igjen med. 
+Under gaming vil den mest sannsynlig være vesentlig kortere. 
+
+Konklusjon 
+
+Totalt sett er Arya velegnet til mer enn bare gaming. 
+Den fungerer faktisk meget bra som en skrivebordserstatter, hvis du ikke plages av viftene som surrer konstant, vel og merke. 
+Maskinvaremessig er den på høyden i flere år fremover, og du har også gode utvidelses- og tilkoblingsmuligheter. 
+
+De største ulempene er noe viftestøy, kort batteritid og at skjermen ikke har samme gode farge- og kontrastegenskaper som IPS- og PLS-skjermer, men det vil neppe være noe ankepunkt for målgruppen. 
+
+Terningkastet må altså ses i lys av at dette er en PC myntet på gaming. 
+Mer informasjon hos Multicom. 
+
+Multicom Arya MS-1771-MFB1 

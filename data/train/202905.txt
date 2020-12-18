@@ -1,0 +1,75 @@
+Acer TravelMate 291LCi
+Det er sjelden vi får så mange oppfordringer om å teste en PC-modell som vi har fått vedrørende denne PCen. 
+Det er kanskje ikke så rart, for dette er en svært prisgunstig Centrino-basert maskin. 
+
+Acer er en av verdens største produsenter av bærbare PCer, og har ofte kommet godt ut i våre tester. 
+Mange har sikkert fått med seg testen av Acer Ferrari 3000, som ble publisert på DinSide Data i forrige uke. 
+
+LES OGSÅ: 
+
+TravelMate 291LCi er nok målgruppen en annen. 
+Mens Ferrari 3000 først og fremst er laget med fokus på design og ytelse, er 291LCi myntet på mobile brukere - der størrelse, vekt og batterilevetid er viktigere enn rå ytelse. 
+PCen måler 33,4 x 27,2 cm, og høyden i lukket tilstand er på knappe 3 cm. 
+
+Her er et kort sammendrag av maskinvaren: 
+
+Intel Pentium M 1,4 GHz prosessor 40 GB ATA100 harddisk 512 MB DDR SDRAM Kombinert DVD-leser og CD-brenner (8x DVD, 24x 10x 24x CD) Intel PRO/Wireless 2100 trådløst nettverk (802.11b) 15" skjerm, 1024 x 768 punkter (XGA) 
+Integrert Intel Extreme grafikk (inntil 64 MB delt) 10/100 Mbit nettverk 56 Kbit modem 3 stk USB 2.0-porter FireWire-port infrarød port parallellport mic-inngang (mono) og uttak for øretelefoner VGA og TV-utgang 1 x PCMCIA-plass 
+
+Gammel kjenning? 
+
+Designmessig er den klassisk og diskré, og vi dro raskt kjensel på kabinettet. 
+Denne PCen er vi ganske sikre er identisk med Zepto Znote 4050 som vi testet tidligere i høst, med unntak av at Acer har puttet i en større harddisk og mer minne i vårt testeksemplar. 
+Dette var da også noe av det vi bemerket som negativt ved Zeptoen. 
+Til gjengjeld var Zeptoen utstyrt med en leser for SD-minnekort, noe som blir mer og mer vanlig - som erstatning for floppydisken. 
+
+Mens Zepto Znote 4050 leveres uten operativsystem og programmer, blir vårt testeksemplar fra Acer levert med både Windows XP Professional (norsk), Norton Antivirus og DVD-avspilling/CD-brennerprogrammer - til en pris som ligger under den renskede Zeptoen. 
+Ikke verst! 
+
+Kabinettet er for øvrig i plast, men Acer forsikrer om at det skal stå for en støyt, etter å ha kjørt diverse trykk- og dropptester. 
+Det tok ikke vi sjansen på å motbevise, men i prinsippet foretrekker vi metallokk på PCer som skal transporteres mye, og kanskje ligger i klem i kofferter, ransler og lignende. 
+Men, som vi også påpekte i Zepto-omtalen, plasten i lokket tåler at vi trykker ganske hardt på den uten at skjermbildet forstyrres. 
+
+Tastaturet har standard kvadratisk utforming, og tastene er stille og behagelige å jobbe på. 
+Under tastaturet sitter en pekeplate og to knapper. 
+Pekeplaten har innebygd klikke- skrollfunksjonalitet (både horisontalt og vertikalt). 
+
+Mange setter pris på at PCen støyer minst mulig, og disse blir ikke skuffet når de prøver Travelmate 291LCi. 
+Med unntak for den svake summingen fra harddisken (du hører den knapt før du legger øret inntil) er den musestille. 
+Viften går et sekund eller to etter at du har skrudd på PCen, men siden har i hvert fall ikke vi klart å provosere den til å starte - selv under de tunge grafikk- og prosessortestene. 
+Dette er en egenskap vi verdsetter! 
+
+Ytelse 
+
+Ytelsesmessig fikk vi oss ingen overraskelser, med unntak av harddisken! 
+Dette er blant de aller raskeste 4.200 rpm-diskene vi har testet overhodet. 
+Det merker du ved at enkelte operasjoner fullføres raskere, for eksempel dersom du kjører flere programmer samtidig, og en del av disken brukes som virtuelt minne. 
+
+Hvis du lurer på hvordan Pentium M-prosessoren yter i forhold til AMD Athlon XP og Intel Pentium 4, viser våre tester at 1,4 GHz-prosessoren er omtrent like rask som Athlon XP 2200+ eller Pentium 4 2,2 GHz. 
+I praksis betyr det mer enn god nok ytelse til å utføre de aller fleste PC-oppgaver kjapt og greit. 
+
+Men noen spillmaskin er dette ikke. 
+Grafikkbrikken duger til 2D-oppgaver, herunder avspilling av film (for eksempel DVD og DivX), men skal du spille 3D-spill kan du risikere å måtte gå ned både på detaljnivå og oppløsning for å få ting til å flyte uten hakking. 
+
+For målgruppen er det viktigere med god batterilevetid, og der skuffer PCen ikke. 
+4 timer og 8 minutter er omtrent som vi forventer av en god Centrino-PC, og det er 8 minutter mer enn Acer antyder i sin egen markedsføring. 
+
+En morsom detalj: 
+Under uttesting fikk vi plutselig kontakt med naboens trådløse nettverk - i huset på andre siden av gaten. 
+Riktig nok var signalet lavt, men nok til surfing på det usikrede nettet hans var det dog. 
+Det tyder i hvert fall på at PCen er utstyrt med god antenne! 
+
+Klikk på Tekniske data i oppsummeringsboksen for detaljer! 
+
+Konklusjon 
+
+TravelMate 291LCi seiler opp som et av de aller beste "valuta-for-pengene" Centrino-kjøpene akkurat nå. 
+Den er rimelig, har godt med utstyr, støyer ikke, og har et seiglivet batteri. 
+Brukerfølelsen er svært god, og totalt sett har vi lite å sette fingeren på. 
+Selvsagt kunne skjermen hatt høyere oppløsning, og lokket kunne hatt et metallbelegg, men det hadde helt sikkert gjort PCen en god del dyrere. 
+Kompromissene bør være til å leve med. 
+
+Husk derimot på at målgruppen ikke innbefatter den mest spillhungrige delen av markedet. 
+Dette er først og fremst en PC for kontoroppgaver, men multimedia og video fikser både grafikkbrikke og skjerm med bravur. 
+
+Oversikt over testede PCer finner du i venstremargen! 

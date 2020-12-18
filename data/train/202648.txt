@@ -1,0 +1,130 @@
+Toshiba Satellite P755-119
+Siste generasjon Toshiba har mye bra å by på, men også noen klare svakheter. 
+
+Toshiba er en av PC-produsentene som har omfavnet WiDi-teknologien fra Intel, som gjør det mulig å koble den bærbare PC-en til en ekstern skjerm eller TV - uten kabler. 
+Satellite P755 er blant PC-modellene som har denne støtten. 
+
+Vi har testet WiDi med denne PC-en og en mottakerboks fra Netgear, men ble ikke helt overbevist om at dette kan utkonkurrere kabelen med det første. 
+Les vår test her. 
+
+WiDi krever at PC-en for øvrig er utstyrt med siste generasjon Intel-prosessor med integrert grafikk, og spesifikasjonene til P755 viser at Toshiba har tatt godt for seg i ferskvareavdelingen: 
+
+15,6" LED-baklyst, blank skjerm, 1366 x 768 piksler oppløsning Intel Core i3- 2310M prosessor (2,1 GHz) 
+4 GB internminne (maks 8) 640 GB harddisk, 5400 rpm Kombinert grafikkløsning: 
+Intel GMA HD og Nvidia GeForce GT540M 
+DVD-brenner for alle formater 3 stk USB 2.0-porter og 1 stk USB 3.0-port VGA og HDMI skjermutganger + WiDi-støtte Gigabit nettverk Trådløst nett (b/g/n) Webkamera med mulighet for pålogging vha ansiktsgjenkjenning Minnekortleser Multiberøringsfølsom pekeplate Fjernkontroll for Windows Media Center Windows 7 Home Premium 64bit 38 x 25 x 2,8~3,5 cm 2,6 kg 2 års garanti, 1 års garanti på batteriet Pris: 5.495 kroner (hos netonnet.no) 
+
+Dette er et utstyrsnivå som er omtrent som du bør forvente for en maskin i mellomklassen sommeren 2011. 
+Av egenskaper som skiller seg positivt ut fra mengden, nevner vi stor og romslig harddisk, fjernkontroll og naturligvis WiDi som vi allerede har nevnt innledningsvis. 
+I tillegg er det positivt at Toshiba gir to års full garanti, der konkurrentene som regel nøyer seg med ett. 
+Det vitner om at Toshiba (i likhet med blant andre Samsung og Asus), har en god kvalitetskontroll under produksjonen. 
+
+Merk at enkelte P755-konfigurasjoner kommer med innebygd 3D-skjerm, men det har ikke den utgaven vi har testet. 
+
+Grå plast med nyttige striper 
+
+Utseendemessig er den ganske anonym, men den har noen detaljer som vi setter pris på. 
+Stripene som er preget inn i lokket og rundt tastaturet, sørger for at fingeravtrykk ikke setter seg. 
+
+Pekeplaten er også litt ru, noe som gir en følelse av god kontroll under bruk, selv om man er litt fuktig på fingertuppene. 
+
+De to knappene under pekeplaten er vi ikke fullt så glade i. 
+For det første lager de en ganske høy kneppelyd, og for det andre er de litt harde. 
+Det gjør at vi spenner musklene i hender og armer når de brukes. 
+De er for øvrig hardest å trykke ned ut mot kantene. 
+
+Tastaturet er derimot en behagelig affære. 
+Det er svært stillegående, og tastene lyser opp når du trykker på dem, for så å fade ut etter et par sekunder. 
+Det gjør at tastene blir lette å se når det er mørkt. 
+Dessverre har enkelte taster flere funksjoner, og ikke alle symbolene blir opplyst. 
+For eksempel brukes F6 og F7 i kombinasjon med FN-tasten til å dempe og øke lysstyrken på skjermen. 
+Men verken FN-tasten eller symbolene på F-tastene lyses opp i mørket. 
+En aldri så liten glipp der, altså. 
+
+Og skal vi være i det kritiske hjørnet, kan vi jo også nevne at Enter-tasten er smal. 
+Det har hendt flere ganger at vi har trykket 4 eller 7 på det numeriske tastaturet når vi egentlig ønsket å starte på en ny linje. 
+Men nå er vi veldig kritiske, altså. 
+
+God lyd og skjerm 
+
+Over tastaturet sitter et par høyttalere fra Harman Kardon. 
+Og hvis du lurer på lydkvaliteten, kan vi røpe at den ikke er så verst! 
+Helt greit til lav bakgrunnsmusikk, synes vi. 
+Langt bedre enn mye annet du får på bærbare i dag, med god diskant og noe som minner om bass også. 
+
+Mellom høyttalerne sitter hurtigknapper for vanlige funksjoner, også disse er opplyste. 
+Bra! 
+
+Skjermen er lyssterk og god, over snittet i denne klassen, vil vi påstå etter å ha testet rundt 20 maskiner så langt i år. 
+Den er blank, og det gir gjenskinn i mange situasjoner - men der skiller den seg ikke ut fra de fleste andre i klassen. 
+Det er kun unntaksvis vi ser matte skjermer i 2011, dessverre, vil mange si. 
+
+Alle tilkoblinger sitter på siden, nærmest brukeren, og det er veldig praktisk. 
+Vi har sett eksmpler i det siste der strøm og skjermkabler kobles til bak - og det hadde vært optimalt, synes vi. 
+Minnekortleser sitter i front. 
+
+I bruk 
+
+Maskinen kommer med en rekke forhåndsinstallerte programmer, deriblant flere prøveversjoner, og ikke alle oppleves som like nyttige. 
+Internettsikkerhet fra McAfee er sikkert gode greier, men programmet gjør mye av seg, og kommer med advarsler og beskjeder i hytt og vær. 
+Her har vi sett langt smidigere løsninger, noen av dem endogtil gratis. 
+
+Og vi mistenker noen av de mange programmene og prosessene som ligger og lurer i bakgrunnen for å være årsaken til at vi i ikke alltid opplever denne PC-en som spesielt rask: 
+
+Windows-oppstarten, inkludert alle programmene som lastes automatisk, tar bortimot 2 mnutter, og det er for eksempel besynderlig at det trådløse nettverket er tregere på denne maskinen enn på en annen PC med nøyaktig samme trådløskort fra Intel som vi har sammenlignet med, selv om signalstyrken tilsynelatende er identisk. 
+Er det McAfee som bruker tid på å analysere sidene før de tegnes opp? 
+Ikke vet vi, men kjedelig er det. 
+
+Videoen under viser et typisk eksempel. 
+Vi laster BT.no på begge PC-er. 
+Nettleseren er Internet Explorer 8, og begge maskiner er utstyrt med omtrent like raske Core i-prosessorer, 4 GB minne og Windows 7 Home Premium 64 bit. 
+Ingen av nettleserne hadde lastet BT.no tidligere: 
+
+Hvis vi hadde kjøpt denne PC-en, hadde vi startet med en grundig gjennomgang av installerte programmer, og fjernet alt vi ikke fant nyttig. 
+Et godt verktøy til slik opprydning, er The PC DeCrapifier.. 
+
+En ting vi derimot virkelig liker, er den sømløse overgangen mellom Intel-grafikk og dedikert GeForce-grafikk. 
+Sistnevnte gir mer enn doblet 3D-ytelse, og slår inn automatisk ved behov, for eksempel i spill. 
+Dermed kan du få relativt grei ytelse til nyere spilltitler, selv om dedikerte gamere nok vil ønske seg enda mer futt i grafikken. 
+Men til alle andre oppgaver, inkludert full HD på både ekstern og intern skjerm samtidig, er dette mer enn kraftig nok. 
+
+Egentlig over snittet 
+
+Men hva sier så ytelsestestene? 
+Først ser vi på Windows' innebygde Opplevelsesindeks, og den gir oss følgende tall: 
+
+Prosessor: 6,4 Minne: 5,9 Grafikk: 
+4,6 Spillgrafikk: 
+6,6 Primær harddisk: 
+5,8 
+
+Passmark PerformanceTest 7.0 gir oss følgende ytelsestall for grafikk og prosessor, og for å gjøre dem forståelige har vi sammenlignet dem med typiske løsninger i andre PC-er som ligger i samme prisklasse: 
+
+Vi ser altså at det ikke er noe i veien med maskinvaren, den ligger litt over snittet i forhold til hva du kan forvente deg for 5-6000 kroner. 
+Men likevel er ikke opplevelsen alltid like god, dessverre. 
+Det handler først og fremst om måten programvaren og bakgrunnsprosesser er implementert på, og vi er overbevist om at mye av dette kunne vært gjort smidigere. 
+
+Maskinen har en kjølevifte som starter så snart maskinen opplever litt belastning. 
+Den er imidlertid relativt støysvak, og blir sjelden sjenerende. 
+Men helt stille er maskinen ikke. 
+
+Hva så med batterilevetiden? 
+Med minimal belastning klarte vi å tyne batteriet til å holde ut i 5 timer og 4 minutter. 
+Under kontinuerlig videoavspilling (HD, 720P) måtte det kaste inn håndkledet etter 3 timer og 28 minutter. 
+Det er forsåvidt OK ytelse, det. 
+Under normal belastning kan du forvente en levetid på mer enn 4 timer. 
+Et stykke bak de beste, men det er mange PC-er i klassen som har langt dårligere batterilevetid. 
+
+Konklusjon 
+
+Vi vil huske denne maskinen for det gode tastaturet, lyssterke skjermen og relativt gode lyd, samt muligheten for å koble den til TV-en trådløst. 
+Men dessverre vil den også bli husket for sine negative sider, og her er det først og fremst tregheten, blant annet ved nettsurfing som er fremtredende, dessverre. 
+Det er mye "greier" med programvaren som følger med, som irriterer oss og som trekker totalopplevelsen ned. 
+
+Vi lander derfor til slutt på en svak firer på terningen, til tross for at maskinen kvalitetsmessig er upåklagelig, og på papiret gir temmelig mye for pengene. 
+
+Takk til Netonnet.no for utlån av maskinen. 
+OPPDATERT: 
+Netonnet selger denne maskinen med det omtalte Netgear WiDi-adaptert inkludert i prisen. 
+
+Husk også å få med deg de andre PC-ene vi har testet i det siste. 

@@ -1,0 +1,78 @@
+Toshiba NB200
+Toshiba har alltid hatt små PC-er. 
+Nå også minibærbare. 
+
+Toshiba har lang fartstid når det gjelder bærbare PC-er. 
+Allerede på 80-tallet hadde de maskiner som var langt mindre enn alle andre (som var digre kofferter), med røde plasmaskjermer. 
+
+I nyere tid har Toshiba vært spesialister på små bærbare, men de har ikke vært billige, snarere tvert i mot. 
+Maskinene har vært beregnet på det profesjonelle markedet, som arbeidsverktøy for regnskapsfolk, selgere og journalister. 
+
+I fjor lanserte Toshiba sin første minibærbare, NB100, som scoret bra i vår test, og oppfølgeren NB200 er naturlig nok svar på tilbakemeldingene fra kunder og den generelle utviklingen i dette markedet. 
+Den nye serien byr på større skjerm, kraftigere prosessor og lengre batteritid. 
+
+Det kommer to modeller til Norge, den ene NB200-10G med 3-cellers batteri og Intel Atom N270 prosessor, noe som skal gi 3,5 timers batteritid. 
+Den andre modellen NB200-10Z har et litt annerledes design, Intel Atom N280 prosessor og 6-cellers batteri. 
+Dette skal gi nesten 9 timers batteritid. 
+
+NB200-10G på testbenken 
+
+Maskinen kommer med de typiske designtrekkene, blank topp og matt underdel. 
+Det er en tekstur inne i plasten som gir et stilig inntrykk når du holder den opp mot lyset. 
+Det som ikke er så stilig er at da ser du samtidig alle fingermerkene på den blanke overflaten. 
+
+Maskinen har 10,1-tommers skjerm, den er nett og lett, både størrelse og vekt gjør at den gjerne blir med i veska, den føles faktisk lettere enn vekten skulle tilsi, noe vi regner med har med balansen i konstruksjonen å gjøre. 
+
+Skjermen er også blank, med sine ulemper og fordeler, heldigvis er rammen rundt matt. 
+Oppløsningen er standard for dette formatet 1024x600 og skjermen er skarp og klar. 
+Betraktningsvinkelen er akseptabel i de vinklene som er viktigst, både med skjermen brettet helt ned så langt den går og oppover mot vertikalen. 
+Men der begynner også denne skjermen å miste farge og kontrast. 
+
+Tastaturet er blant de bedre, har god definisjon av taststrykkene, slik at du kjenner når du faktisk har trykket, men uten unødvendig motstand. 
+Selv om maskinen er smal er de viktigste tastene prioritert slik at det ikke føles så trangt. 
+Avstanden mellom venstre side av Q-tasten og høyre side av Æ-tasten er 20,4 cm, på vært ordinære tastatur er den 21,2. 
+Hele tastaturet er 25,5 cm bredt mot 27,5 på vårt ordinære. 
+
+Pekeplaten er nesten 8 cm bred og også blant de beste, en middels rask bevegelse over hele platen flytter pekeren fra kant til kant mens langsomme bevegelser gir god presisjon. 
+Skrolling vertikalt var jevn og fin, men krever litt tilpasning, man må plassere fingeren litt innpå pekeplaten for å få optimal respons, helt ute mot høyre kant skjer det ikke stort. 
+Knappene er separate og gir også god respons. 
+
+Det lille batteriet tar ingen plass utenfor selve konstruksjonen, og gir som nevnt god balanse i hele konstruksjonen. 
+
+Ytelse 
+
+Maskinen har god ytelse i testprogrammer, men utmerker seg ikke spesielt. 
+Her er det standardkomponenter som brukes av alle produsenter, det er lite en produsent kan gjøre for å gjøre ytelsen merkbart bedre. 
+
+Det produsenten derimot kan gjøre er å installere minst mulig av resurskrevende småprogrammer som gjør at brukeropplevelsen blir dårlig. 
+Her er vi ikke helt enige med Toshibas valg, det er alt for mye som surrer og går i for- og bakgrunn. 
+
+Blant annet dukker denne opp hele tiden hvis du sitter med maskinen på fanget og bytter benplassering innimellom. 
+Eller ligger i sofaen og surfer med maskinen på magen og hoster... 
+
+Andre maskiner med samme spesifikasjoner, men uten alle småprogrammer kjørende oppleves merkbart mer responsive. 
+
+God batteritid 
+
+Med 3 celler får du ikke svimlende batteritider, men over 3 timer er likevel bra. 
+Pussig nok brukte maskinen nesten like mye batteri ved kontinuerlig videoavspilling (201 minutter) som ved minimal brukeraktivitet (210 minutter). 
+Innstillingene var selvsagt de samme. 
+Vi mistenker at dette skyldes automatiske aktiviteter som settes i gang når maskinen ikke brukes aktivt, som nevnt i avsnittene over. 
+
+Du kan også kjøpe ekstra 6-cellers batteri, det er dessuten generelt praktisk å ha et ekstra batteri til bærbare. 
+Vi snakker av erfaring... 
+
+Støy 
+
+Viften setter i gang nå og da, tilsynelatende ikke alltid relatert til tunge oppgaver. 
+Støyen er ikke høy og har heller ikke spesielt sjenerende elementer, men du legger jo merke til den i stille omgivelser. 
+
+Konklusjon 
+
+Toshiba NB200-10G er en nett og hendig maskin, med et ok design og ergonomiske egenskaper utover det vanlige. 
+
+Ytelsen er god, batteritiden er god. 
+
+Det eneste ankepunktet er programvaren som gjør at maskinen oppleves som mindre kraftig enn den egentlig er. 
+
+Flere minibærbare vi har testet: 

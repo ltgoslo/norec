@@ -1,0 +1,127 @@
+Zepto Znote 120SL
+Norske Zepto tar opp konkurransen med Medion om å lage landets billigste ultraportable PC. 
+Denne veier bare 1,1 kilo og koster 12 276 kroner - men optikken er ektrautstyr, og kommer på utsiden. 
+
+Zepto Znote 120SL er ved første øyekast en av de tynneste bærbare PCene vi har sett i denne prisklassen - for ultraportable under 15 000 kroner. 
+Den er fysisk mindre, lettere, og oppsiktsvekkende mye smalere enn de nærmeste konkurrentene. 
+
+LES OGSÅ: 
+
+I tillegg bruker den en ULV-prosessor fra Intel, som er laget for øke batterilevetiden og redusere støynivået. 
+Denne prosessoren er en vesentlig grunn til at Znote 120SL var mulig å bygge såpass liten. 
+
+Selv om maskinen ikke er tilgjengelig før noen uker ut i nyåret, har vi fått et av landets første eksemplarer å leke oss med. 
+Vi har tatt en runde på bakrommet med Zeptos siste vidunder. 
+Er dette den nye kongen over ultrabillige ultraportable? 
+
+Spesifikasjoner 
+
+1 GHz Pentium M ULV-prosessor 12,1-tommers TFT-skjerm (1024x768) 256 MB DDR333-minne 40 GB harddisk (4200 rpm) 
+Intel Extreme Graphics 2 (delt minne) SD-kortleser 802.11b/g WLAN, 10/100 LAN 3x USB 20., 1x PC-kort AC97-lyd, m. 
+Linje ut og inn, fastmontert mikrofon Vekt: 1,17 kilo Mål (B/D/H): 
+28,5/30/2 cm 
+
+Se flere spesifikasjoner her 
+
+Den største mangelen er åpenbart at det ikke finnes noen optisk stasjon her. 
+Det er kanskje ikke å strekke virkeligheten for langt hvis vi antar at de fleste som leser dette har en stasjonær PC allerede - og det gjelder dobbelt for bedrifter. 
+I så fall kan du installere programmer over nettverket. 
+
+Dermed får du ikke problemer før du oppdager at maskinen kommer uten Windows. 
+Så du må enten bruke en tusenlapp ekstra for å få Zepto til å installere operativsystem for deg, eller bruke en tusenlapp på å kjøpe en ekstern optisk stasjon som du kan starte maskinen med. 
+
+Liten, lett og robust? 
+
+Znote 120SL er på papiret en av de letteste bærbare vi har testet til nå, selv om vekten fra Zepto er oppgitt uten batteri. 
+Det er som om vi har kommet til et vannskille, der ultraportable og superlette maskiner endelig har kommet innenfor oss dødeliges budsjetters rekkevidde. 
+
+Såvidt vi forstår er Zeptos ultraportable bygget på en magnesiumramme, og dekket av en blanding av magnesium og plast. 
+Dette gjør den både lett, rimelig og svært robust. 
+
+Maskinen er også veldig tynn. 
+Den umulig være mer en et par centimeter høy, og vi tok oss selv på fersk gjerning i å behandle den som et veldig omtålelig objekt. 
+Det er den jo ikke, men tynne og lette dingser har gjerne denne effekten på folk. 
+
+Den champagnefargede metallflaten på lokket, sammen med de rene linjene, gjør den til en perfekt "briefe"-maskin på møterommet. 
+
+Hvis du vil ha et ekstra batteri for å tyne ut de annonserte ti timene, og legger til en ekstern optisk stasjon (med egen strømforsyning) begynner vekten å krype forbi Medions SIM2000. 
+Dessuten ender du opp med å holde styr på veldig mange ledninger. 
+
+Skjerm og grafikk 
+
+Skjermen til Znote 120SL er på tolv tommer, og fyller nesten hele flaten på undersiden av lokket. 
+Sistnevnte er også veldig tynt - under en centimeter på linjalen vår. 
+Den har også grei innsynsvinkel og skarphet. 
+
+Dette er også den første skjermen på lenge som ikke får "utslett" av harde trykk på baksiden. 
+
+Oppløsningen er for øvrig på 1024 x 768, som mange vil si er den absolutt øvre grensen for 12-tommere. 
+Blir det stort høyere oppløsning enn dette, kan du få problemer med å lese teksten, og de som er litt oppe i årene kan få problemer allerede på denne oppløsningen. 
+
+Intel Extreme Graphics II er en løsning vi ikke har særlig sansen for når det kommer til 3D-spilling, og den stjeler i tillegg noen megabytes av systemminnet. 
+
+På den andre siden er dette et spørsmål om pris og bruksområder: 
+Intel-brikken koster selvfølgelig mindre, og det er få som kjøper en ultraportabel med 3D-spilling som hovedformål. 
+
+Systemet får 114 poeng i 3DMark 03, og Quake III er rimelig spillbart på 54,2 rammer i sekundet. 
+
+Topp ytelse i liten pakke? 
+
+De som tror at en såpass liten maskin, med en 1,8-tommers harddisk og Pentium M ULV-prosessorm vil yte på linje med de fremste desktoperstatterne burde tenke seg om én gang til. 
+
+PCMark04-testene gir ikke verdens mest oppløftene resultater, men dette en maskin der mobilitet blir prioritert foran rå ytelse. 
+
+Den totale poengsummen ble på 1906 - godt under Celeron M-utstyrte Zepto Znote 3050CW sine 2124 poeng, og milevidt unna Acer Ferrari 3200 sine 3370 poeng. 
+Det er derimot omtrent det samme som Fujitsu Siemens P7010, som også bruker ULV-prosessor, fikk. 
+
+Det samme går igjen i resten av ytelsestestene, som du kan se resultatene av her 
+
+Ikke verdens beste batteri.... 
+
+Vi har derimot sett bedre batterilevetider enn Znotens. 
+Etter en runde med Batterymark bukket den under før det var var gått halvannen time - og da begynner vi å lure på om det stemmer at den er designet for maksimal mobilitet. 
+
+Denne testen kjører en rekke automatiserte kontoroppgaver uten å bruke noen form for optikk, som ofte tar enda mer strøm. 
+85 minutter holder knapt til en tur rundt ringveien i Oslo. 
+
+I følge Zepto kan du derimot få opp til ti timers batterilevetid hvis du snapper på et ekstra batteri til rundt 1000 kroner med moms, og da begynner det å ligne på noe. 
+Dette vier omtrent 350 gram. 
+
+Lydproduksjon 
+
+Når det kommer til lyden virker det ikke akkurat som om Znote 120 SL er laget for multimedia, heller, i likhet med de fleste andre det er naturlig å sammenligne den med. 
+De innebygde høyttalerne kan spille veldig høyt, men med en bøtteaktig diskantklang. 
+Takk og pris for hodetelefonutgangen! 
+
+Vi gir derimot høy karakter for mangelen på lydproduksjonen fra resten av maskinen. 
+Det sitter riktignok en liten vifte i, men denne får du sjelden høre, og når du gjør det skal du lytte nøye etter for å få det med deg. 
+
+Miniaturtastatur 
+
+Det neste kompromisset er tastaturet, som er mindre enn vanlig - og har et par knapper her og der som ikke helt stemmer med dem vi er vant til. 
+
+Tastaturer i miniformat er dog en vanesak. 
+Hvis du bruker det ofte nok, kommer du til å synes at tastene på den stasjonære maskinen er i overkant store, så det er ikke der problemet ligger. 
+
+Problemet ligger i berøringen og fingersatsen hvis du skriver med Touch-metoden. 
+Tastaturet har for eksempel horisontal retur-knapp, som er lett å bomme på, og knappene for punktum, komma og bindestrek er så små at de rett og slett er vanskelig å treffe med voksne fingre. 
+
+Bortsett fra dette er tastaturet faktisk veldig stivt og fint, ettersom Zepto har gått for en løsning der komponentene installeres fra undersiden - uten å løfte av tastaturet. 
+
+Oppsummering 
+
+Zeptos Znote 120SL har altså en del mangler - den mangler operativsystem, optisk stasjon og tastatur i full størrelse. 
+Derimot er den veldig liten og lett, og byr på en form for mobilitet som vanskelig lar seg gjøre med mange maskiner som har "full pakke." 
+
+Men det er ikke så mye "ultra" i halvannen times batterilevetid. 
+
+Legger vi så til en 1305 kroner for en optisk stasjon, og 1352 kroner for Windows XP Pro, går både prisen og vekten dramatisk opp. 
+Når disse bitene har falt på plass, kommer prisen opp 15 570 kroner med moms, i følge Zeptos prislister. 
+
+Da har du fått en ultraportabel som med kabler og ekstrautstyr veier ganske nøyaktig 2,15 kilogram. 
+Legg til en tusenlapp, og et par hundre gram for et ekstra batteri. 
+
+Selv om dette er noe dyrere enn Zepto forespeilte oss, får du faktisk ganske mye for pengene. 
+Det gjelder også hvis du går for oppsettet som følger med listeprisen på 12 276, som er mer enn nok for mange. 
+
+Og hvis dette er nivået vi kan vente fra ultraportable fremover, gleder vi oss til fremtiden. 

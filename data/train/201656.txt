@@ -1,0 +1,130 @@
+Multicom Xishan W550S
+Fin bærbar fra norske Multicom - til en meget fin pris. 
+
+Multicom er en av svært få aktører som setter sammen bærbare PC-er i Norge, og har først og fremst konsentrert seg om gaming-segmentet. 
+Men selskapet byr også på noen fine allround-maskiner til meget konkurransedyktige priser. 
+
+OPPDATERT: 
+Maskinene kommer som halvfabrikata til Multicom, som bygger dem ferdig med blant annet disker, optisk drev, tastatur, minne og trådløst nettverkskort. 
+
+FullHD til under 5.000 
+
+En av de mest interessante bærer navnet Xishan W550S, og er en slank 15,6 tommer med full HD-skjerm. 
+Prisene starter så lavt som 4.995 kroner for enkleste konfigurasjon, men da kommer maskinen uten Windows. 
+Du må da enten skaffe deg Windows på andre måter eller bruke et annet operativsystem, for eksempel Linux Mint. 
+
+Konfigurasjonen vi har sett på er imidlertid langt hvassere, og inkluderer både 240GB SSD, 1 TB harddisk og firekjernet Intel Core i7-prosessor fra Haswell-generasjonen, men fortsatt til en meget hyggelig pris. 
+Her er de viktigste spesifikasjonene oppsummert: 
+
+Skjerm: 15,6" matt IPS fullHD 1920x1080 piksler Prosessor: 
+Intel Core i7-4712MQ (2,3->3,3GHz) RAM: 
+8 GB (maks 16) 
+Grafikkort: 
+Intel HD 4600 Lagring: 
+240GB SSD + 1000GB harddisk Optisk drev: 
+DVDRW-brenner Skjermutganger: 
+HDMI 1,4a + VGA USB-porter: 2 x USB 2.0 + 2 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/MS/MMC Trådløst nett: 
+Intel N-7260 a/b/g/n Kablet nett: 
+1000Mbit Annet: 
+Bluetooth 4.0, helnorsk tastatur OS: 
+Ikke inkludert Størrelse: 374 x 252 x 25mm Vekt: 
+2,2 kg Pris: 7595,- inkl mva (31.10.2014) 
+
+Mye bak et anonymt ytre 
+
+Kombinasjonen SSD og harddisk gir deg både i pose og sekk når du ikke ønsker å velge mellom hastighet og kapasitet, og vi liker også at tastaturet er helnorsk - ikke fellesnordisk som på de aller fleste andre bærbare i dag. 
+
+Designen er som alltid fra Multicom temmelig anonym. 
+Byggekvaliteten er typisk for mellomsegmentet, her er brukt plast hele veien. 
+Det er imidlertid ikke noe ved konstruksjonen som gjør at vi rynker på nesen. 
+
+Alle tilkoblingene sitter på venstre og høyre side, mange av dem trukket nærmest brukeren, kun kortleseren sitter i fronten. 
+
+Det nevnte tastaturet er romslig, fast og godt å skrive på. 
+Under tastaturet sitter en relativt liten pekeplate, men den er multiberøringsfølsom og fungerer godt. 
+De to separate knappene under er en klassisk og velfungerende løsning vi setter stor pris på. 
+
+Skjermen er av typen IPS, noe som i utgangspunktet betyr skarpe bilder og god fargegjengivelse fra alle kanter. 
+Det matte panelet sørger for at gjenskinn ikke blir noe problem. 
+Opplevelsen av skjermen er imidlertid helt gjennomsnittlig, vi har sett bedre og vi har sett dårligere. 
+Lysstyrken er bra, men betrakter du skjermen skrått ovenfra, har bildet en tendens å bli invertert. 
+
+PC-en er utstyrt med et par enkle innebygde høyttalere. 
+Skal du lytte til musikk eller film, er hodetelefoner eller eksterne høyttalere nærmest påkrevd. 
+Merk at PC-en støtter Bluetooth 4.0, noen som betyr at du kan overføre lyden trådløst til mange dokker, stereoanlegg, TV-er og aktive høyttalere, for eksempel disse fra Logitech. 
+
+Støtter 4K 
+
+HDMI-utgangen støtter 4K-oppløsning (4x fullHD, også kalt UHD eller UltraHD). 
+Dette begynner å bli viktige for mange brukere, takket være økt salg av 4K-TV-er og 4K-skjermer for skrivebordet. 
+Utvalget av 4K-videomateriale er også økende, selv om det fortsatt vil gå en stund før dette er dagligdags. 
+
+Vi testet en slik oppkobling mot en 28" 4K-skjerm fra ASUS som vi har på testbenken, og kan bekrefte at det fungerte bra. 
+
+Merk imidlertid at 4K-video krever mye av maskinvaren, og grafikkløsningen på denne PC-en er ikke den hvasseste. 
+
+Vi opplevde hakking i enkelte av våre demoklipp i 4K, men her er det mange variabler som spiller inn, ikke minst programvare som brukes, innstillinger og videoformater og kodeker. 
+YouTube-videoer i 4K via Google Chrome fungerte som regel helt fint. 
+Det er imidlertid verdt å merke seg at det kan hende du må inn og fikle litt med kodeker og innstillinger i avspillerprogrammet for å få ting til å flyte glatt (vel og merke når du spiller av på en 4K-skjerm, ikke den interne skjermen). 
+
+Ikke noe crapware 
+
+En av de store fordelene med å kjøpe en PC uten operativsystem, foruten at du sparer noen kroner, er at du slipper å få med den såkalte "crapwaren" som ofte oversvømmer enkelte modeller. 
+Dette er gjerne demoversjoner av kjente og ukjente programmer, ofte helt irrelevante i forhold til dine behov. 
+
+Hvis du ikke har Windows-lisens eller ikke er fortrolig med å installere operativsystemet selv, kan du bestille maskinen med Windows 8.1 ferdig satt opp - men uten noen av de nevnte demoprogrammene - for 1.180 kroner i tillegg. 
+Gjør du jobben selv, er prisen 839 kroner. 
+
+Vi testet maskinen med Windows 8.1, og naturlig nok opplevde vi den som kjapp og fin. 
+En ren Windows-installasjon oppleves som å sitte med "blanke ark", og du kan konfigurere maskinen helt etter eget ønske. 
+Befriende for mange, kanskje spesielt for litt mer avanserte brukere. 
+
+Maskinen er normalt meget stillegående i de aller fleste situasjoner. 
+Under tung jobbing kan viftene begynne å gå, noen ganger på høyt turtall, og da høres maskinen godt. 
+Det er imidlertid så sjelden det skjer at det overhodet ikke er noe vi vil karakterisere som et problem. 
+
+Vi kjørte noen ytelsestester med Passmark PerformanceTest 8.0 og Crystal Disk Mark, og i avsnittene under har vi kommentert tallene for å gi deg en forståelse av hva de innebærer. 
+Vi har også kjørt batterimålinger i to omganger. 
+
+Prosessor: 6761 poeng 
+Denne prosessoren tilhører high-end-delen av Intels Haswell-generasjon, noe som betyr at ytelsen er meget god til nær sagt alle oppgaver. 
+Fire kjerner sørger for at denne er ypperlig til fleroppgavekjøring. 
+
+3D-grafikk: 586 poeng 
+Den integrerte HD4600-grafikken duger til alt av 2D, inkludert det meste av 4K-video. 
+Det er imidlertid ikke noe førstevalg for deg som er opptatt av gaming. 
+Da bør du se etter en maskin med dedikert grafikk fra AMD eller Nvidia. 
+Skjønt enklere spill fra noen år tilbake vil ofte kunne spilles, men vær forberedt på å gå ned på skjermoppløsning og detaljnivå. 
+
+Harddisk/SSD Les: 
+Inntil 452 MB i sekundet Skriv: 
+Inntil 282 MB i sekundet Disse tallene gjelder SSD-en (Cruical mSATA). 
+Lesehastigheten er høy, mens skrivehastigheten er mer gjennomsnittlig. 
+Merk imidlertid at begge deler er langt bedre enn selv de raskeste harddiskene for bærbare PC-er, som sjelden overgår 120-130 MB i sekundet. 
+
+Batteritid Multicom oppgir at du kan forvente rundt 7 timers batteritid ved variert bruk. 
+Vi testet først maskinen med minimal belastning og i batterisparemodus. 
+Da tok det 346 minutter fra batteriet var fulladet, til det var tomt og maskinen slo seg av. 
+Det er 5 timer og 46 minutter. 
+Deretter ladet vi batteriet helt opp, og spilte HD-video i 720P til batteriet ble tomt igjen. 
+Det tok 262 minutter, eller 4 timer og 22 minutter. 
+Det er dermed vår klare oppfatning at 7 timer ikke stemmer helt med virkeligheten, og at en tid rundt 5 timer er mer sannsynlig med variert bruk. 
+
+Konklusjon 
+
+Det er fristende å dra sammenligning mot Acer Aspire V15 Nitro, som vi testet nylig. 
+Den kom også med tilsvarende SSD+harddiskløsning, matt full HD-skjerm, i7-prosessor og var også temmelig lik størrelse- og vektmessig. 
+Selv med Windows ferdig installert er Multicom-maskinen et par tusenlapper billigere. 
+
+Det er imidlertid noen klare forskjeller, og V15 Nitro er for eksempel vesentlig raskere på flere punkter, ikke minst på SSD og grafikk, noe som nok vil være enklere å oppdage for enkelte brukegrupper enn andre. 
+
+Totalinntrykket ligger jevnt over mellom god og meget god, og modellen vipper dermed mellom en firer og femmer på terningen. 
+
+Vi lander til slutt på en meget sterk firer, i mangel på en 4/5-karakter. 
+Se deg ikke blind på terningkastet, for det er helt på det rene at du får mye PC for pengene her. 
+
+Er du en normalbruker som ikke bryr deg så mye om spilling men verdsetter god generell ytelse og romslig lagringsplass, er denne PC-en definitivt et godt valg. 
+
+Multicom Xishan W550SU1-CFB5 

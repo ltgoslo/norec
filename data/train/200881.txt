@@ -1,0 +1,89 @@
+Tundra/HPC 1557
+Forgjengeren het 1555, og var en flott maskin som dessverre hadde litt for treg grafikk for å tilfredsstille de mest iherdige spillinteresserte. 
+Det er til de grader rettet på. 
+Hva sier vi nå? 
+
+Mange som ønsker å gå fra en stasjonær til bærbar PC, ønsker seg færrest mulige kompromisser med hensyn til ytelse og tilkoblingsmuligheter. 
+Dessverre har høy ytelse ofte betydd både tunge og bråkete maskiner med kort batterilevetid - inntil vi så de første Centrino-maskinene for snart et år siden. 
+
+LES OGSÅ: 
+
+Norske PS Data har det siste året markert seg positivt i dette markedet, med PC-merket Tundra. 
+Dette er maskiner som er bygd på såkalte 
+barebone-løsninger fra blant andre Aopen - dvs at kabinett med hovedkort, grafikkbrikke og skjerm leverese fra produsenten, og så utstyres PCene med prosessor, minne, grafikkort, harddisk, samt norsk tastatur her hjemme. 
+Spesialtilpasninger og konfigurasjonsløsninger blir dermed enkelt. 
+
+Maskinene selges for øvrig også under navnet HPC i enkelte segmenter av markedet. 
+
+Tundra 1557 er etterfølgeren til Tundra 1555 som vi testet i fjor. 
+
+Den er kraftig oppgradert, blant annet med en særdeles kjapp grafikkløsning og bedre skjerm. 
+Her er noen av de viktigste egenskapene: 
+
+Intel Centrino-basert PC 1,6 GHz prosessor (tilsvarende eller raskere enn 2,2 GHz Pentium 4) 1 GB DDR-minne 60 GB 7200 rpm harddisk DVD+RW-brenner 15" TFT LCD bestående av 1400 x 1050 punkter ATI Mobility Radeon 9600 grafikk, 64 MB VGA med TV-utgang 802.11b trådløst nettverk (11 MBit) 10/100 Mbit nettverk 56 Kb modem 3 x USB2.0-porter 1 x 
+Firewire-port 1 x parallellport 1 x infrarød port 1 x PCMCIA SD-minnekortleser innebygd 
+
+Mest oppsiktsvekkende er kanskje grafikkløsningen, som er vesentlig oppgradert siden 1555. 
+Dette er i skrivende stund blant de aller raskeste løsningene som finnes for bærbare PCer. 
+Internminnet er på hele 1 GB, og det kan nok diskuteres hvorvidt man vil dra nytte av dette ved normal bruk pr i dag. 
+Her skal det legges til at både minne og harddisk kan spesialtilpasses. 
+Sistnevnte er for eksempel dyr pga den høye rotasjonshastigheten, men er til gjengjeld meget kjapp. 
+
+Videre ser vi at PCen ikke er utstyrt med diskettstasjon, men har i stedet fått en innebygd leser for SD-minnekort, MMC og MemoryStick. 
+Det har vi selvsagt ikke noe i mot, tvert i mot. 
+Kommunikasjonsløsningene er også meget gode, og inneholder det meste (med unntak av Bluetooth). 
+Skal vi være kritisk til noe, måtte det være at PCen godt kunne hatt en eller flere USB2.0-porter, all den tid det ikke finnes noe PS/2-port for tilkobling av ekstern mus eller tastatur. 
+
+Som de fleste andre PCer i denne prisklassen, leveres også Tundra 1557 med DVD-brenner. 
+Denne er fra Ricoh, og har noe begrenset brennehastighet (2,4x på DVD+R og DVD+RW, samt 16x på CDR og 8x på CDRW). 
+PCen leveres med Windows XP Professional, kontorpakken Works 7.0 fra Microsoft, samt PowerDVD for DVD-avspilling og Nero Burning ROM express for DVD/CD-brenning. 
+så her er det bare å sette i gang å jobbe/la seg underholde - stryk det som ikke passer. 
+
+PCen har en slank og stilren utforming, målene 27 x 325 x 270 mm og vekten på 2,7 kg burde ikke skremme noen.Kabinett består av plast fra innerst til ytterst. 
+Det optimale hadde vært et aluminiumslokk. 
+Den virker likevel ganske solid bygd, men legg for sikkerhets skyld aldri tunge gjenstander på lokket, da det kan skade skjermen. 
+
+Tastaturet gir litt etter på midten, men tastene er relativt faste, og har en logisk plassering i forhold til et vanlig tastatur. 
+Det gjør det behagelig å skrive på. 
+Under tastaturet finner du en pekeplate, museknapper og en knapp med fire akser for skroll-funksjonalitet i dokumenter og websider.Til venstre for tastaturet finner du hurtigknapper for nettleser og epost, bryter for WLAN, samt to knapper som du kan programmere selv. 
+Over tastaturet finner du knapper og LCD for styring av medieavspilling. 
+Du kan faktisk spille musikk-CDer uten å skru på PCen. 
+
+Høyttalere finnes det også, og disse formidler lyd, men de faller igjennom så snart du skrur på musikk. 
+Helt klart et forbedringspotensiale her altså, all den tid at vi har sett flere bærbare PCer med ganske flotte høyttalerløsninger i det siste, sist Dell Inspiron 8600. 
+
+Flott skjerm, superrask grafikk 
+
+Skjermen har fått høyere oppløsning siden sist, og 1400 x 1050 punkter er etter vår mening optimalt for denne skjermstørrelsen (15"). 
+Den er middels lyssterk, med fint sideinnsyn. 
+Vi oppdaget ingen svakheter under vår test, ei heller under avspilling av video og spill. 
+Og nettopp spill og 3D er noe denne PCen håndterer med bravur. 
+Dette skyldes først og fremst den fantastiske grafikkbrikken ATI Mobility Radeon 9600, som er blant de aller raskeste på markedet for øyeblikket. 
+
+Dermed er vi over på neste punkt i denne testen, og den omhandler ytelse. 
+Pentium M er etter vår mening den optimale løsningen for bærbare PCer for tiden. 
+Ikke bare yter disse prosessorene mer pr MHz enn noen andre på markedet, strømforbruket og tilhørende kjølebehov er dessuten langt lavere. 
+Dermed generer PCene mindre støy. 
+Kun i de mest krevende situasjonene startet viftene, men det ble aldri plagsomt.Vi merker oss også at harddiskytelsen som ventet er langt bedre på denne PCen enn på Dell Inspiron 8600, i følge PCMark 2004 - for øvrig er resultatene omtrent som forventet for denne typen PC. 
+
+Hva med batterilevetiden? 
+Tundra 1555 scoret svært bra, med 4 timer og 25 minutter. 
+1557 krever litt mer av batteriet, og vårt testeksemplar tok kvelden etter 4 timer og 7 minutter. 
+Uansett et meget anstendig resultat. 
+
+Holder nesten til Ringenes Herre 
+
+Vi benyttet forresten PCen til å se en hel DVD-film på 1 time og 40 minutter - uten å være tilkoblet strømnettet. 
+I løpet av denne perioden forsvant ca 60% av batteristyrken, så det er helt klart at levetiden avhenger av bruken. 
+Til ren tekstbehandling kan du kanskje forvente mer enn 4 timer. 
+
+For alle detaljene omkring de øvrige ytelsestestene i PCMark og 3DMark, henviser vi til Denne siden. 
+Klikk for øvrig på Tekniske data i oppsummeringsboksen for alle detaljene omkring de fysiske egenskapene - samt de viktigste ytelsestallene. 
+
+Etter vår mening er dette en av de maskinene som medfører færrest kompromisser for øyeblikket. 
+Du får høy ytelse, og en relativt lett og stillegående maskin med godt utstyrsnivå og bra med tilkoblingsmuligheter. 
+Prisen er heller ikke avskrekkende, målt mot hva du får igjen.Vi hadde blitt glade om vi så denne modellen med metallokk og bedre høyttalere, men det forandrer ikke vår totaloppfatning av at dette er en meget bra PC. 
+
+Anbefalte bruksområder: 
+
+Spill: meget velegnet Video: meget velegnet Musikk: velegnet Internett- og kontoroppgaver: meget velegnet Bildebehandling: meget velegnet Grafisk design: velegnet Stille omgivelser: meget velegnet Mobilitet: velegnet 

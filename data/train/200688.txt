@@ -1,0 +1,85 @@
+24"BenQ FP241W 
+
+BenQ serverer en 24-tommers LCD i bredformat med HDMI og analoge videoinnganger - mer enn en PC-skjerm. 
+Vi har testet. 
+
+Svært mange av de store LCD-skjermene byr på flere tilkoblingsmuligheter enn det PCen krever. 
+Innganger for analog video har vi sett på skjermer fra flere av de kjente leverandørene, som Samsung, Nec og Dell. 
+Typisk er det snakk om koaks, S-video og kopmponent (RGB) som enten kan brukes til bilde-i-bilde sammen med PC-signalet eller det tar over hele skjermflaten. 
+
+LES OGSÅ: 
+
+Begge våre egne bredskjermer på 20 og 24 tommer har slike analoge innganger, og det har til tider vært praktisk. 
+Men analoge videosignaler med interessant innhold har en egen tendens til å havne i digitalisert form på harddisken i PCen, så mye bruk av dette har det ikke vært for vår del. 
+Det er vel først og fremst spillkonsoller som er mest nærliggende å kobles til slike skjermer, men det står ikke på vår agenda. 
+
+Men analoge utganger fra digitale apparater som skal kobles til digitale skjermer er jo egentlig meningsløst. 
+Grunnen har vært manglende standarder, noe som nå er historie. 
+Nå har vi HDMI, som støtter de formatene som er aktuelle i overskuelig framtid. 
+
+Og BenQ er da tidlig ute med å tilby HDMI som en slags ekstra rosin i pølsa, i tillegg til VGA og DVI for PC samt koaks, komponent (RGB) og S-video. 
+
+Konstruksjon og design 
+
+Både selve skjermen og foten er gedigne. 
+Dette er solide og tunge saker, som står svært så stødig når det er på plass. 
+
+Foten er justerbar på alle måter, den kan heves og senkes, skjermen kan vippes og vris til høydeformat, og den øverste delen av foten kan dreies rundt aksen. 
+Dette er en fot i toppklasse, det eneste vi skulle ønsket er at den kunne vært litt lavere. 
+Det er behagelig å ha undersiden av skjermen enda litt lavere enn det BenQ tilbyr her. 
+
+Rammen rundt panelet er noe tykkere enn hos mange av konkurrentene, men vi snakker fremdeles om ganske slanke linjer. 
+Fargen er sølv rundt kanten, resten er gråsort. 
+
+Betjeningen sitter på den høyre yttersiden av skjermen, noe vi ikke setter pris på. 
+Det er god plass på fronten og betjeningen ville gått langt lettere hvis du hadde sluppet å bøye deg rundt til siden av skjermen for å finne riktig knapp. 
+
+Responsen i menysystemet er dessuten tregere enn på noen andre skjermer vi har testet i det sister. 
+
+Skjermen har forhåndsdefinerte fargeprofiler som velges med en av knappene, men av disse var det bare "normal" som vi fant brukbar. 
+Her kommer smak og behag inn i bildet, bokstavelig talt, akkurat som folk bruker bass og diskant - eller de kanskje tar den helt ut med en EQ - på sitt musikkanlegg. 
+
+Det er også en USB HUB, med to tilkobligner på siden og 1 i toppen av skjermen under et gummideksel. 
+
+Bildekvalitet 
+
+Vi koblet skjermen først til vår testPC med DVI og et standard skjermkort. 
+Skjermen åpenbarte seg som fargerik og flott, med utmerket dynamikk og betraktningsvinkel. 
+Her er det ikke noe billig TN-panel, og denne skjermen er i klasse med skjermer fra f.eks. Dell og Samsung i samme format og prisklasse. 
+
+For entusiasten er dette en skjerm som fungerer utmerket til bilderedigering, video og multimedia i alle fasonger. 
+
+Selvsagt er skjermen sylskarp og perfekt til store regnark, konstruksjonstegninger, flere dokumenter samtidig med tekst og tall - den leverer. 
+
+Hva med HDMI 
+
+Vi installerte vårt PowerColor Radeon X1600PRO kort med HDMI i test-PCen og koblet til. 
+
+Skjermen dukket da opp med HD-oppløsningen 1920 x 1080, som ikke så spesielt pent ut i Windows. 
+Å endre oppløsningen til skjermens egen 1920 x 1200 var ikke mulig. 
+
+Vi spilte så av vårt testmateriale av HD-video som vi bruker ved testing av flat-TVer koblet til PCer. 
+Det så forsåvidt kurant ut, men heller ikke noe mer. 
+
+Vi kjørte også det samme materialet med det ordinære skjermkortet og DVI i skjermens riktige oppløsning. 
+Resultatet var på ingen måte dårligere. 
+
+HDMI er ubrukelig som PC-tilkobling og gir ikke noe bedre bildeopplevelse enn med DVI. 
+Hva er da poenget? 
+
+Noe skrikende behov blant store deler av befolkningen har vi vanskelig å se. 
+HD-materiale på frittstående mediespillere av typen HD-DVD eller Blu-Ray ligger vel neppe under juletreet i de tusen hjem denne julen. 
+Og de som finner en slik spiller kobler den sannsynligvis til sin store flat-TV eller projektor - de savner neppe å kunne koble den til PC-skjermen. 
+
+De som installerer en Blu-Ray eller HD-DVD spiller/brenner i PCen med tid og stunder, vil sannsynligvis være like fornøyd med bildet på DVI-tilkoblingen. 
+
+Men skulle det dukke opp en Playstation 3 under juletreet, fra en rik onkel i Japen eller USA, så kan HDMI-kontakten på skjermen være god å ha. 
+Eller for neste variant av Xbox 360? 
+
+Konklusjon 
+
+BenQ FP241W er en utmerket PC-skjerm for entusiaster og krevende brukere. 
+Den leverer en utmerket bildekvaliet og har en svært fleksibel fot. 
+
+De ekstra tilkoblingene gjør at den også fungerer sammen med underholdningsprodukter, i første rekke spillkonsoller. 
+Med HDMI er den klar for neste generasjon. 

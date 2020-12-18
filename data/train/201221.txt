@@ -1,0 +1,173 @@
+Samsung Galaxy Note 10.1
+Android-nettbrett med penn og flere finesser. 
+
+Markedet for nettbrett er fortsatt dominert av én aktør – Apple har hatt gigantisk suksess med sine iPad-brett og troner alene på toppen av lista over solgte enheter. 
+
+Samsung er imidlertid blant de mer populære Android-produsentene, og har også særdeles mange modeller i markedet. 
+Det finnes to sju-tommere, én 7.7-tommer, én 8,9-tommer og tre (!) ti-tommere, medregnet dagens testmodell, Galaxy Note 10.1. 
+
+Note-serien betegner altså enhetene som selges med en medfølgende penn. 
+Fra før finnes Samsung Galaxy Note (5,3" telefon) og nylig ble også Galaxy Note 2 sluppet. 
+
+Spesifikasjoner, Galaxy Note 10.1 
+
+La oss ta det tekniske først – her er nøkkelspesifikasjonene: 
+
+Prosessor: 1,4GHz (4-kjerner)Arbeidsminne: 2GBInternminne: 16GBSkjermstørrelse: 10,1" LCDSkjermoppløsning 1280x800Minnekort: 
+Ja (micro SD opp til 32GB, følger ikke med)Kommunikasjon: 3G HSPA+ (21Mbps, kan ringe og sende SMS også), Bluetooth 4.0, WiFi Direct, IR-sender, 802.11 b/g/n WiFiKamera: 
+5Mp bak, 1,9Mp foranBatteri: 
+7000mAhMål: 180 x 262 x 8,9 mmVekt: 
+600g 
+
+La oss åpne ballet med en videopresentasjon: 
+
+Konstruksjon 
+
+Med en overflate som i all hovedsak består av plast, gir ikke Galaxy Note 10.1 noen spesiell premium-følelse, men det skal sies at vi allikevel finner den svært komfortabel å holde i, mye på grunn av den avrundede sølvfargede kanten rundt. 
+
+Den gir også Samsung mulighet til å feste høyttalere på fremsiden av brettet, og det er et aspekt vi liker godt. 
+Lyden kommer tydeligere frem enn f.eks. iPad (med høyttaler på baksiden) og lydnivået er også høyere når man ser på film. 
+
+Skjermen er imidlertid under pari etter dagens standard. 
+Både Asus og Apple har nettbrett med henholdsvis 1920x1080 og 2048x1536-oppløsning i denne prisklassen, mens Note 10.1 kun skilter med 1280x800. 
+Det skal også nevnes at fingeravtrykk synes unormalt godt på Note-skjermen. 
+
+Med unntak av den proprietære ladekabelen i bunnen av nettbrettet (når det holdes i landskapsmodus), ligger alle andre kontakter og brytere på oversiden av brettet. 
+Fra venstre mot høyre: av/på-knapp, volum ned/volum opp, micro SD-spor, IR-sender, 3,5mm-utgang og SIM-spor. 
+
+Merk rekkefølgende på volum ned/volum opp. 
+Det er selvsagt greit nok i landskapsmodus, der de gjenspeiler volumvisningen på skjermen, men i portrettmodus blir de det motsatte av hva som er logisk, der den nederste knappen øker volumet. 
+Vi finner det litt snodig, siden Note-appen, selve "hjertet" i dette nettbrettet, definitivt fungerer best i portrettmodus, der den gjenspeiler formen på en notatblokk. 
+
+La oss også bruke et avsnitt på IR-porten. 
+Dette er altså en sender som gjør at du kan styre TV-er og andre duppeditter som baserer seg på en infrarød fjernkontroll. 
+Det følger med en app som lar deg velge hva slags enhet du vil styre; også fra andre produsenter enn Samsung. 
+I utgangspunktet kan du endre volum, trykke kanalnummer, menyknapp, piltaster og den slags, men du kan også legge til knappene du selv vil, som valg av ekstern inngang, bildeaspekt etc. 
+
+Medfølgende penn 
+
+Rosinen i pølsa med Note-nettbrettet er altså at det følger med en penn, som Samsung har døpt S Pen. 
+Når den ikke er i bruk befinner den seg i et hull i nettbrettet, og sitter såpass godt fast at den må pirkes frem med neglen. 
+Når den tas ut av sporet sitt, tennes også skjermen. 
+
+Pennen er særdeles lett, men god å holde i på grunn av prismeformen. 
+Tuppen av pennen kan byttes ut, og det følger med tre andre tupper i esken med varierende belegg slik at du kan velge den du synes glir mest i tråd med dine preferanser. 
+Det er også en knapp på pennen som kan brukes for å gi den ekstra funksjonalitet. 
+Eksempelvis kan du holde knappen nede mens du holder pennen på skjermen for å ta et skjermbilde. 
+
+Siden hullet er helt i hjørnet av nettbrettet er designen slik at det kun er én riktig vei (av fire) når du putter den inn i nettbrettet, og vi har måtte prøve et par ganger ved flere anledninger, for å si det sånn. 
+Litt uheldig er det også at det går an å dytte den inn "feil" slik at den blir sittende fast, og at det da blir knotete å få den ut igjen. 
+
+Ellers fungerer S Pen meget godt. 
+Tuppen har kan registrere 1024 ulike trykknivåer, og dermed vil det bli forskjell når du tegner hardt og løst. 
+Nettbrettet kan også oppdage at pennen er i nærheten av skjermen og viser da en liten prikk (hvis du har lyst) rett under tuppen. 
+I tillegg låses brettet slik at det kun er pennen som får trykke dersom den befinner seg nærme skjermen – dermed får du ingen uheldige streker på grunn av at resten av hånda berører skjermen. 
+
+Android 4.0 med Touchwiz 
+
+Galaxy Note 10.1 kjører den ikke-lenger-så-splitter-nye 4.0-versjonen av Android (Ice Cream Sandwich) med Samsungs Touchwiz-grensesnitt på toppen. 
+Det er mildt sagt delte meninger om Touchwiz – selv synes jeg det fungerer helt OK (selv om det har litt å gå på utseendemessig), og det er også noen smarte funksjoner på Note 10.1: 
+
+Delt skjerm – I landskapsmodus kan skjermen deles i to slik at du kan kjøre to apper ved siden av hverandre, som hver opptar halve skjermen. 
+Dette gjelder imidlertid bare en håndfull apps: standardnettleseren, Polaris Office, S Note, Videospiller, Galleri og E-post (ikke Gmail)"Småprogrammer" 
+- Ved å trykke på en pil nederst i midten, spretter det opp en håndfull småprogrammer. 
+Disse kan sammenlignes med widgets, men flyter på toppen av eventuelt andre apper. 
+Eksempler er kalkulator, en mindre variant av S Note, epost, kalender og ringefunksjon/SMS-applikasjon.Knapp for å ta skjermbilde 
+- Ved siden av tilbake/hjem/kjørende programmer finnes det også en fjerde knapp som ikke er standard. 
+Ut av boksen tar den skjermbilde (kan også gjøres ved å holde penn-knappen nede og så holde pennen på skjermen), men du kan også velge å starte kameraet, vise alle programmer eller søke. 
+Snarveier – Som på telefonene får du også raske snarveier til å slå av og på WiFi, Bluetooth, mobildata, synkronisering, varslinger etc. dersom du åpner statusmenyen (ved å trykke nederst til høyre) 
+
+Verdt å nevne er også tastaturet – her kan du bruke knapper som vanlig (med egen numerisk rad på toppen), men du kan også velge å bruke skriftgjenkjenning når du skriver eposter, tekstmeldinger, Facebookoppdateringer eller hva det måtte være. 
+Samsungs "smart stay"-funksjon fra Galaxy S III er også på plass her – det betyr at nettbrettet ikke slår seg av dersom du ser på det. 
+Kjekt hvis du f.eks. leser en lang artikkel. 
+
+Her er appene som følger med (bortsett fra de som er felles for alle Android-brett): 
+
+Photoshop Touch 
+- Denne trenger ingen stor introduksjon – altså fullversjonen av Photoshop beregnet for nettbrett. 
+Den er ikke like funksjonsrik som PC/Mac-utgavene, selvsagt, men lar deg gjøre grunnleggende bildebehandling, bruke effekter, sette på tekst, jobbe med layers osv. 
+Her kommer pennen til sin rett; det oppleves langt mer presist enn å bruke fingeren. 
+Koster egentlig 70 kroner via Google Play. 
+
+Smart remote 
+– Nevnt lenger opp i teksten og er altså en app som lar deg bruke nettbrettet som en IR-fjernkontroll mot en rekke andre enheter; også fra andre produsenter (fungerer f.eks. utmerket på en Philips-TV). 
+Appen er dog mer fancy i USA enn den er her i Europa, der du også får en slags TV-guide-modus. 
+
+Crayon Physics – Et slags tenkespill der du må tegne broer, bokser og annet for å få ballen fra A til B. 
+
+Polaris Office 4.0 – Fullversjonen av Polaris Office lar deg både vise og redigere Word-, Excel- og Powerpointfiler; også 2003 2007-versjoner (.docx, .xlsx og .pptx). 
+Du får selvsagt ikke alle de avanserte funksjonene som du får på PC-versjonen, men nok til at de fleste klarer seg, inkludert tabeller, tekstdekorasjon etc. 
+
+Dropbox 
+- Selvsagt bare å laste ned gratis fra Google Play, men du får 50GB lagringsplass i to år uten kostnad på den populære nettlagringstjenesten. 
+
+Det følger også med Music Hub (nettbutikk for musikk), Game Hub (portal for spill) og et par andre Samsung-relaterte apps. 
+
+Og selvfølgelig – S Note. 
+
+S Note - hjertet i Galaxy Note 10.1 
+
+Det er pennen kombinert med S Note-appen som er Galaxy Note 10.1s største salgsargument. 
+S Note lar seg også bruke uten penn, men det er når du bruker pennen du får utnyttet hele potensialet. 
+
+Denne gjør altså Galaxy Note 10.1 til en "notatblokk". 
+Du kan lage mange forskjellige notattyper og organisere dem med navn og i mapper. 
+Det er også mulig å kjøre den i den nevnte splittet skjerm-modusen der du kan notere mens du leser epost eller surfer på nettet, og du kan dessuten dra bilder over i notatblokka; enten direkte fra nettleservinduet eller ved å ta skjermbilde av den ene halvdelen av skjermen. 
+
+Ved siden av å tegne for frihånd går det også an å taste inn tekst manuelt, og S Note har også tre ganske fiffige funksjoner: 
+
+- Muligheten til å tegne geometriske figurer for frihånd, hvorpå appen lager en "rett" utgave (altså; tegn et rektangel så blir det til et rektangel med helt rette sider og vinkler). 
+
+- Gjenkjenning av håndskrift. 
+Denne fungerer imponerende bra på å kjenne igjen det man skriver, men håndteringen av hvordan teksten plasseres på skjermen er ikke like imponerende. 
+Litt snodig er det også at man har knapper for mellomrom, enter og backspace i stedet for at man kunne ha gjort dette med definerte former (f.eks. ned og til venstre for enter). 
+
+- Matematikk-modus. 
+Skriver du f(x)=x2 med pennen, gjøres det om på formatet du nettopp leste det på. 
+Du kan også velge å løse det du har skrevet inn ved å trykke på en knapp, som automatisk sender det du har skrevet til Wolfram| 
+Alpha, som da løser ligninger, plotter funksjoner etc. 
+
+Det finnes også flere bakgrunner å velge blant, f.eks. noteark. 
+
+Alt i alt fungerer S Note greit, men det er en del småting som trekker ned. 
+Nevnt er at du må trykke på knapper for enter og space, og det er også svakheter knyttet til hvor tekstgjenkjenningsfunksjonen plasserer teksten på skjermen. 
+Vi skulle også gjerne ha hatt muligheten til å tegne på et større område, men det går ikke. 
+100% visning dekker akkurat hele skjermen i portrettmodus. 
+
+Ytelse 
+
+Galaxy Note 10.1 har mye krutt under panseret, og det er tydeligvis også påkrevd med løsninger som splittet skjerm etc. 
+Dette er ikke noe Android støtter i utgangspunktet, men noe Samsung har klart å fikle til på egen hånd. 
+I praksis er det bare ett program som kjører, så om du hopper over til det andre vinduet blir det med en viss forsinkelse. 
+
+Vi blir ikke blåst av banen av ytelsen – det hakker litt her og der, det er en merkbar forsinkelse når man bytter mellom appene i splittet skjermmodus, trykker på hjem-knappen etc. 
+Bruker vi Google+-appen som eksempel, flyter den langt bedre på iPad enn på Galaxy Note 10.1, og da altså på en skjerm med rundt tre ganger så mange piksler. 
+
+Flyten i grensesnittet bør vel å merke forbedres når Android 4.1 (Jelly Bean) etter hvert ankommer nettbrettet, siden Google i denne versjonen har adressert akkurat dette med "project butter". 
+
+Selv om vi altså ønsker oss litt bedre flyt til enkelte oppgaver, er det nok av kraft i Note 10.1 til å spille spill, se på video i full oppløsning (eller i et lite vindu som blir flytende over resten av skjermen) etc. 
+En runde med zombie-skytespillet Dead Trigger er helt uproblematisk, og nettbrettet blir heller ikke spesielt varmt ved belastning. 
+Igjen kan vi også trekke frem stereohøyttalerne – de kommer til sin rett når man spiller. 
+Som med øvrige Samsung-produkter spiser også Note 10.1 de aller fleste videoformater. 
+
+Batteriet på 7000mAh har god kapasitet, og Samsung oppgir også 2 måneders standby. 
+Akkurat det har vi ikke tenkt til å verifisere, men vi kan si at brettet bruker svært lite strøm når det ikke er i bruk; i hvert fall til Android-nettbrett å være. 
+I bruk er det oppgitt å holde i åtte timer, og med mindre du bruker det hele tiden, holder det med andre ord fint fra morgen til kveld. 
+
+Konklusjon, Samsung Galaxy Note 10.1 
+
+Galaxy Note 10.1 er et friskt pust i dagens marked der Android-brettene har mange likheter. 
+Den medfølgende pennen og tilpasningene Samsung har gjort for å støtte den er meget interessante, med muligheter for småprogrammer som "flyter" over skjermen, støtte for å kjøre apps side om side etc. 
+
+Pennen er god å skrive med, og ser du for deg at dette kan være et nyttig verktøy er Note 10.1 absolutt å anbefale. 
+Det skal dog sies at spesielt S Note-appen føles litt upolert der vi stusser over en og annen svakhet her og der, men at dette jo også er noe som kan bli rettet opp gjennom programvareoppdateringer. 
+
+Det som trekker ned er at skjermoppløsningen er på beskjedne 1280x800; vesentlig mindre enn konkurrerende nettbrett i samme prisklasse. 
+For Note 10.1 er blant de dyrere brettene på markedet med en prislapp på drøye 4500 kroner i de rimeligste nettbutikkene. 
+
+Et fleksibelt verktøy er det uansett. 
+Svært godt på multimedia, muligheten for både å 3G-surfe, ringe og sende SMS, i tillegg til at det også kan brukes som fjernkontroll til forsterkere, TV-er og andre duppeditter du måtte ha i stua. 
+
+Vi lander derfor på en svak femmer til Samsung denne gangen, men har du ikke bruk for pennen finnes det bedre valg; enten til samme pris eller for en rimeligere penge. 
+
+Samsung Galaxy Note 10.1 GT-N8000 16GB 

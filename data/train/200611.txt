@@ -1,0 +1,173 @@
+Samsung Galaxy NotePro 12.2
+Kanskje det mest avanserte nettbrettet vi har testet. 
+Og vi liker det meste vi ser. 
+
+Samsung lanserte to nye serier med nettbrett under CES-messen i Las Vegas tidligere i år, TabPro og NotePro. 
+Begge seriene kommer med skjermer på 8,4 og 12,2 tommer, og er myntet på profesjonell eller avansert bruk. 
+
+Den viktigste forskjellen på de to seriene er at NotePro kommer med penn og tilhørende spesialfunksjoner, mens TabPro utelukkende styres med fingertuppene, i likhet med de fleste andre nettbrett. 
+
+For noen uker siden hadde vi gleden av å leke oss med et ikke-ferdig eksemplar av TabPro-brettet i 8,4"-utgave. 
+Nå har vi sett nærmere på et fullverdig eksemplar av NotePro i 12,2" størrelse. 
+
+Tekniske data 
+
+Før vi går i gang med den biten, skal vi se litt nærmere på hva det er vi har i hende. 
+Her er det nemlig flere ting enn pennen som er oppsiktsvekkende. 
+Først, de viktigste tekniske egenskapene: 
+
+Skjerm: 12,2" 10-punkts PLS berøringsskjerm, 2560 x 1600 piksler Prosessor: 
+Firerkjernet ARM-basert på 2,3 GHz (Qualcomm Snapdragon 800) Minne: 3 GB Lagring: 
+32 GB (24 GB ledig) 
+Ekstra lagring: 
+MicroSD-kortleser (inntil 64 GB) + 50 GB gratis nettlagring i 2 år via Dropbox Andre ut/innganger: Minijack, dock/microUSB 3.0 Trådløse tilkoblinger: 
+Trådløst nett 802.11 a/b/g/n/ac + Bluetooth 4.0 + Wi-fi Direct + infrarød sender + 3G/LTE-mobilnett Kameraer: 
+8 Mpix hovedkamera, 2 Mpix frontkamera Satellittjenester: GPS/GLONASS 
+Operativsystem: 
+Android 4.4 (Kit Kat) 
+Annet: 
+Mikrofon , stereohøyttalere, telefon, akselerasjonsmåler, omgivelseslyssensor, digitalt kompass, gyrosensor, hall-sensor, RGB-sensor, NFC Størrelse: 
+295,6 × 204 × 7,95 mm Vekt: 750 gramPris: 
+Fra 8.549 kr (Prisjakt 5.2.2013) OPPDATERT: 
+Fra Samsung får vi opplyst at veiledende pris settes til 7.990 kroner når brettet er i butikkene rundt 15. februar. 
+
+Sjelden kost 
+
+For å si det slik: 
+Prisen er høy, men mye kraft og funksjonalitet koster penger, og det får du altså her. 
+
+For det første er det svært sjelden vi ser nettbrett med så stor skjerm som denne. 
+12,2 tommer er for eksempel vesentlig større enn skjermen på en iPad (9,7 tommer). 
+
+NotePro til venstre, iPad til høyre 
+
+NotePro 12.2 er da også vesentlig tyngre, med sine 750 gram mot iPad Airs 469. 
+Med tanke på at mange velger Note-produktene fra Samsung nettopp for å ta notater, tegne og lage skisser, vil det for mange være naturlig å ha så stor skjerm som mulig, uten at det blir for tungt å holde i hånden. 
+
+Kjempetelefon 
+
+For det andre fås brettet kjøpt med 3G/4G-støtte, ikke bare til dataoverføringen, men også til telefoni. 
+Ja, du leste riktig: 
+Kjøper du denne har du samtidig en mobiltelefon med gigantskjerm. 
+Men skal du bruke den bør du enten benytte høyttaleren eller handsfree. 
+Denne kolossen holder du ikke opp til øret. 
+
+Det ringer, det ringer, hør hvem kan det være? 
+
+Når det er sagt, telefonen fungerer helt utmerket. 
+Tekstmeldinger og MMS kan du selvfølgelig også sende og motta, i tillegg til alle nettjenestene du får tilgang til med 3G/4G-mobilsurfing. 
+
+Solid inntrykk 
+
+Utformingsmessig gir dette absolutt en følelse av "hel ved". 
+Designet følger for øvrig i samme spor som de siste Tab/Note-brettene, med sølvkant rundt og bakside i plast med et preg av imitert skinn. 
+
+Pennen skyves inn øverst til venstre sett bakfra 
+
+Blankt glass dekker hele overflaten, rammen rundt skjermen er i underkant av to centimeter på det bredeste. 
+Samsung-logoen, frontkameraet og hjemknappen levner ingen tvil om at Samsung vil du skal bruke brettet i landskapsmodus. 
+
+Takket være at skjermen er så stor blir også skjermtastaturet tilnærmet like stort som et vanlig, fysisk tastatur når du bruker brettet liggende. 
+Meget behagelig! 
+
+Trenger du eksternt tastatur og mus kan du koble til helt vanlig utstyr ved hjelp av for eksempel denne overgangen 
+
+Siste Android-utgave - men med nogo attåt 
+
+Operativsystemet er altså Android 4.4.2, kanskje bedre kjent som "Kit Kat". 
+Denne versjonen introduserer en del nyheter i forhold til eldre versjoner, men ingen som er revolusjonerende. 
+Vi har gjennomgått endringene i videoen i denne artikkelen. 
+
+Det som imidlertid er verdt å merke seg er at Samsung har utstyrt brettet med sitt eget lille "Metro"-grensesnitt, det vil si levende fliser som kan vise nye eposter, bildesamlingen din, dato, tid, temperatur, eller ganske enkelt være snarveier til apper. 
+
+Høres det kjent ut? 
+Dette er så nær fliseløsningen i Windows 8 og Windows Phone 8 som det er mulig å komme. 
+
+Samsungs svar på Microsofts "Metro"-meny 
+
+Flisene kan selvfølgelig organiseres, flyttes og endres på som du selv ønsker, og bak dem finner du fortsatt det klassiske Android-grensesnittet som vi kjenner fra eldre Samsung-brett. 
+Faktisk er det det klassiske Android-skrivebordet som dukker opp først, men med en sveip til siden dukker flisene opp. 
+Det tror vi er et lurt trekk - ikke alle er like begeistret for levende fliser, men måten Samsung har løst det på synes vi er helt OK. 
+
+I tillegg har Samsung laget en "App-skuff" som dukker opp når du sveiper inn fra høyre side av skjermen. 
+Det gir deg hurtig tilgang til apper du bruker ofte: 
+
+Og ikke nok med det: 
+Du kan dra dem ut til skrivebordet og organisere dem i vinduer - inntil fire stykker. 
+Dermed blir det enklere å multitaske enn det som er vanlig på slike brett. 
+
+Her kjører vi to apper side om side 
+
+Office-pakke kommer 
+
+Men hvor er det blitt av kontor-appene vi stiftet bekjentskap med under vår forhåndstitt av TabPro?. 
+Det var nemlig utstyrt med tekstbehandler, regneark og presentasjonsverktøy, dog i litt ustabile utgaver. 
+Appene hadde et grensesnitt som var til forveksling likt Microsoft Office, og var kompatible med filer opprettet i MS Office-programmene. 
+
+På vårt ferdige testeksemplar er disse appene erstattet med et program som er i stand til å viseMicrosoft Office-filer, ikke opprette og redigere. 
+Men det er bare midlertidig. 
+Vi har fått opplyst fra Samsung om at appene vi først fikk demonstrert skal kunne lastes ned gratis når nettbrettet er i butikkene i midten av måneden. 
+
+Det er bra, men ulempen er at vi ikke har fått prøvd hvor gode de egentlig er. 
+
+Klasseskjerm, men forbedringspotensiale for tegning og notater 
+
+Skjermen er svært høyoppløst og holder meget god kvalitet fra nær sagt død vinkel og under de fleste lysforhold. 
+Berøringsfølsomheten er også meget god, og presisjonsarbeid er ikke noe problem takket være den medfølgende pennen. 
+Den har en sensor som merker hvor hardt du klemmer den mot skjermen, noe som gir en meget virkelighetsnær opplevelse. 
+
+Hurtigmenyer kan åpnes bare ved å bevege pennen i lufta over skjermen, og ved hjelp av knappen på siden åpnes en rekke tilleggsfunksjoner for profesjonell bruk. 
+Du kan for eksempel ta notater og få brettet til å gjøre kråketegnene dine om til redigerbar tekst, utføre søk på bakgrunn av håndskrift, tegne, ta skjermdumper, klippe ut deler av skjermbildet og sende det i eposter, og en rekke andre oppgaver. 
+
+Ved hjelp av pennen kan du få fram denne hurtigmenyen 
+
+Det som også gjenstår- og det er en alvorlig mangel - er å få skikk på hastigheten på opptegningene. 
+
+Drar du pennen raskt over skjermen kommer noen ganger opptegningen mer enn en centimeter bak. 
+Det er kanskje ikke mer enn et tidel eller to, men det gjør at følelsen ligger langt bak penn og papir, som alltid er umiddelbar (med mindre du har gått tom for blekk). 
+Her er det følsomheten i skjermen som må bli raskere, ikke prosessoren. 
+
+Middels kamera 
+
+De færreste av oss synes det er stas å fotografere med et svært nettbrett. 
+Kameraet i NotePro er uansett langt fra det verste vi har prøvd. 
+Vi gir pluss for at utløseren reagerer raskt i nesten alle sammenhenger. 
+
+Kvaliteten er midt på treet, detaljer viskes ut innendørs når lysmengden er lav, som på de fleste andre mobil- eller nettbrettkamera. 
+Utendørs blir det bedre. 
+Her er noen testbilder, du kan laste ned originalene her. 
+
+Høy ytelse over hele linja 
+
+Brettet er imidlertid meget raskt til alt annet, takket være en av de kraftigste ARM-prosessorene på markedet. 
+Grafikken flyter også godt i høyoppløste filmer og spill. 
+Ytelsen er bare noen hårstrå unna Note 10.1 2014, som er det raskeste Android-brettet vi har testet så langt. 
+
+Her er tallene vi fikk på våre sedvanlige tester, høyste måling fra andre Android-brett i parantes: 
+
+Geekbench 3: 936/2835 (945/2980) 
+Epic Citadel: 
+56 fps (59 fps) SunSpider: 693 ms (598 ms) 
+
+Batteriet har en kapasitet på hele 9500 mAh, noe som sørger for meget god brukstid. 
+Ved kontinuerlig surfing på nettet anslår Samsung at batteritiden er rundt 13 timer, ved videoavspilling cirka 11. 
+Vi målte tiden ved hjelp av en app som simulerer nettsurfing, og da holdt brettet det gående i 707 minutter, eller i underkant av 12 timer. 
+Det må sies å være meget bra. 
+
+Konklusjon 
+
+Samsung og Apple dominerer stort på nettbrettfronten, noe av årsaken er at de er flinke til å tenke helhet og integrasjon mot andre produkter som de selv lager. 
+Men de dominerer også fordi de begge lager bra produkter, og Galaxy NotePro 12.2 er intet unntak. 
+
+Alt i alt kan imidlertid funksjonaliteten virke overveldende, slik vi også poengterte under testen av Galaxy Note 10.1 2014. 
+Å ta i bruk alle mulighetene krever en god del av brukeren, for ikke alt er like intuitivt, mener vi. 
+
+Men så er ikke dette et produkt som er myntet på hvermansen. 
+Vi ser for oss at dette først og fremst er et verktøy som kan være nyttig for designere, arkitekter, ingeniører og andre som jobber med tegning og presisjonsarbeid. 
+
+For alle andre som først og fremst tenker underholdning finnes det klokere og langt rimeligere alternativer, mener vi. 
+Oversikten finner du her. 
+
+(Merk også at modellen fås uten 3G/4G-støtte til rundt tusen kroner mindre). 
+
+Samsung Galaxy Note Pro 12.2 SM-P905 32GB 

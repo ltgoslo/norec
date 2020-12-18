@@ -1,0 +1,40 @@
+Ytelse, karakterer og konklusjon
+Intels mobilprosessorer er kjent for å være snille mot batteriene, og svak varmeutvikling gir ofte PCer med meget lavt støynivå. 
+Hva med Znote 3100 Wide? 
+
+Vår testmaskin ble levert med Windows XP installert. 
+Dette er derimot ikke standard; PCene fra Zepto leveres i utgangspunktet uten operativsystem, alternativt skal du etter hvert kunne få maskinen levert med en spesialsydd utgave av RedHat Linux, får vi opplyst fra Zepto. 
+
+LES OGSÅ: 
+
+Våre testprogrammer er tilpasset Windows, og i disse scoret maskinen stort sett meget bra - både med hensyn til minnehastighet, prosessor og harddiskhastighet. 
+Grafikkbrikken er dessuten rask nok til å kjøre ganske avansert 3D-grafikk i høye oppløsninger uten at du vil merke hakking. 
+
+Elvesus 
+
+Om det er prosessoren, brikkesettet, grafikkbrikken eller noe annet som krever vifteavkjøling, vet ikke vi. 
+Faktum er uansett at viften starter etter noen minutters bruk, og deretter går den bortimot konstant. 
+Viften er derimot langt mindre sjenerende enn mange andre løsninger vi har erfart den siste tiden; lyden minner langt mer som elvesus i det fjerne enn en veivalse, og du vil neppe oppleve den som spesielt sjenerende. 
+Uansett - en termostatstyrt støysvak vifte hadde vært en mer elegant løsning, synes vi. 
+
+Maskinen er derimot meget behagelig i bruk - men den blir litt varm under etter å ha stått på en stund. 
+Dette er derimot ikke uvanlig på bærbare PCer. 
+
+Hva med batterilevetiden? 
+Vi målte den til 2 timer og 40 minutter. 
+Det er litt i underkant av hva vi hadde forventet av en PC med denne prosessoren, og viften må kanskje bære litt av ansvaret her. 
+
+Klikk på Tekniske data i oppsummeringsboksen for detaljer omkring maskinvare og ytelse. 
+
+Konklusjon 
+
+Møtet med Zepto Znote 3100 Wide ble i hovedsak en positiv affære. 
+Maskinen er meget lekker å se på og behagelig å bruke. 
+Den brede skjermen gjør maskinen spesielt egnet til DVD-avspilling, og selv om oppløsningen godt kunne vært høyere, får du litt ekstra plass til programvinduer etc i forhold til en vanlig 15"-skjerm med 1024 x 768 punkters oppløsning. 
+
+Modellen vi testet var ekstra velutstyrt, uten at vi lot oss skremme av prisen av den grunn. 
+
+Vi synes at PCen burde vært utstyrt med flere USB-porter, og vifteløsningen burde vært smartere. 
+Er dette ting som er av mindre betydning for deg, har vi ingen problemer med å anbefale denne PCen - også for "folk på farten". 
+
+Tilbake til førstesiden 

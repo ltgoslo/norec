@@ -1,0 +1,125 @@
+Nokia N97
+TEST: 
+Endelig har vi prøvekjørt N97. 
+
+Vi må innrømme at dette var telefonen vi har hatt mest forventninger til de siste månedene, ja faktisk helt siden desember 2008. 
+Den virket som en utrolig kraftpakke av en telefon, kanskje ikke fullt så elegant som en iPhone eller en Android-mobil, men heller full av brutal kraft og funksjoner. 
+
+Nå som vi har brukt den ferdige versjonen av telefonen en stund, må vi si oss både fornøyd og skuffet. 
+Den lever definitivt opp til noen av forventningene, men ikke alle. 
+
+Først og fremst må vi jo snakke om det utvendige. 
+Telefonen er en ganske stor klump i lukket tilstand. 
+En kloss. 
+Den er ganske tykk, men heldigvis brukes frontsiden fornuftig - hele fronten domineres av skjermen. 
+Det er kun tre små knapper nedenfor den: 
+To trykksensitive taster for å svare og legge på, og en for å gå inn på menyene. 
+Rundt på sidene av mobilen finner vi ellers knapper for volum, kamera og bilder, samt en liten bryter som låser skjermen. 
+
+Åpent format N97 kommer imidlertid til sin fulle rett da vi åpner den. 
+En kjempeelegant mekanisme gjør at et lite dytt fra undersiden tvinger mobilen til å skyve seg fra hverandre, og det fullverdige QWERTY-tastaturet kommer frem. 
+
+Tastaturet er slett ikke verst. 
+Klart, de med eksepsjonelt store fingre vil sikkert slite med dette, som med de fleste andre mobile tastaturer. 
+Men vi synes at brukeropplevelsen generelt var veldig bra, med unntak av at mellomrom-tasten er plassert unaturlig langt til høyre. 
+Noe som krever tilvenning. 
+Og ja, det er norske bokstaver her, ikke på egne taster, men de aktiveres ved å trykke på blå knapp først og så på den korrekte knappen. 
+Dessuten er en styreknapp plassert til venstre for tastaturet, denne brukes logisk nok til å bla gjennom menyene. 
+
+Telefonen er ganske digg å holde i "skrivemodus", med ett unntak: 
+Batteridekselet er definitivt knirkete akkurat der du har fingrene. 
+Men ellers føles det som å virkelig holde i en liten datamaskin. 
+
+Det morsomme er at det er noe usedvanlig kult med måten telefonen skyves opp på. 
+Løsningen er så elegant at vi gang på gang åpnet og lukket den uten nevneverdig grunn. 
+Det er bare stilig, og de aller fleste rundt oss er enige. 
+Vi får håpe dette her ikke går i stykker for fort. 
+
+Skjermen bytter automatisk perspektiv ut fra hvilken modus du bruker. 
+I lukket modus trykker du bare på skjermen, i åpen modus kan du også bruke navigasjonsknappen. 
+
+Tilpass skjermen Hovedskjermen er veldig fleksibel. 
+Du kan fritt legge applikasjoner der gjennom såkalte widgets. 
+Du kan legge inn snarveier til alle mulige funksjoner, enten det er SMS, klokke, kalender eller kart, og du kan sette opp egne widget-vinduer for programmer du er mest glad i. 
+For eksempel Facebook, vær og e-post. 
+Alt dette kan settes opp direkte fra hovedskjermen, og informasjonen mates direkte inn i widgetene. 
+For eksempel Facebook-statusene til dine venner blir automatisk oppdatert. 
+Du kan selvsagt skru av oppdateringen om du er bekymret for datatrafikk. 
+Det som også er kult er at ved å dra fingeren sidelengs skjuler du alle dine widgets, som jo potensielt kan vise personlig informasjon, og det eneste som da synes på skjermen er klokkeslett og dato. 
+En fingerbevegelse til, og alt går tilbake på plass. 
+
+Vi oppdaget imidlertid at noen av applikasjonene hadde tendenser til å henge seg opp. 
+Vi måtte faktisk restarte telefonen for at feeden skulle bli oppdatert igjen. 
+
+Når vi først er inne på telefonens skjerm og trykking på den. 
+Til tross for at skjermen ellers er stor, tydelig og har fin (oppløsning på 360x640 piksler); så er trykkfunksjonaliteten mangelfull. 
+Vi klagde kanskje ikke så mye på det da vi testet Nokia 5800, som bruker den samme type skjerm, men for bare seks måneder siden var situasjonen en annen. 
+I dag er iPhone ekstremt godt etablert og Android er på banen, og der snakker vi elegante berøringsløsninger, som er superresponsive og digge å bruke. 
+
+Sliten brukeropplevelse N97 bruker såkalt resistiv trykkskjerm, og det føles mer og mer som gammeldags teknologi. 
+Du må trykke mer direkte på skjermen, du må legge litt kraft i det, og responsen er rett og slett ikke bra nok. 
+
+Menysystemet er også det samme som i Nokia 5800. 
+Og det er heller ikke lenger spesielt bra. 
+Det er tydelig at systemets røtter ligger i tradisjonell telefonbruk, og til tross for at de fleste ikonene er store og tydelige, bruker flere av applikasjonene liten tekst, små ikoner som er vanskelige å trykke på, og andre, lite brukervennlige løsninger. 
+Det er ofte alt for mange nivåer i menyene her, som tydelig ikke er helt tilpasset trykkskjerm. 
+Det å skrolle opp og ned lister er virkelig en plage, da du må trykke på en tynn stripe og dra fingeren opp og ned hele veien gjennom. 
+iPhone og Android gjør dette mye bedre. 
+
+En annen irritasjonsmoment er at noen av menyelementene krever dobbeltrykk, andre gjør ikke det. 
+Forvirrende og unødvendig. 
+
+Den generelle responsen og hastigheten er heller ikke imponerende. 
+Menysystemet er generelt raskt, men lugger på visse steder. 
+Det finnes, igjen, langt mer elegante løsninger der ute og vi hadde ventet mer. 
+
+Men om du kan leve med et operativsystem og en skjermløsning som ikke føles topp moderne i midten av 2009, får du i alle fall en telefon som kan alt. 
+
+Full pakke 
+Det finnes ikke en teknologi som N97 ikke støtter. 
+Alle tenkelige tilkoblinger for dataoverføring er det plass til, enten det er Bluetooth, WLAN eller super 3G. 
+Som kontormaskin fungerer N97 meget bra, det er selvsagt full støtte for e-post via Exchange, Office-pakken følger med, og Nokia har dyttet inn alle mulige mer og mindre nyttige funksjoner, til og med en FM-sender er på plass. 
+
+GPS-løsningen fungerer veldig bra takket være den store skjermen, Nokias kart er forhåndsinstallert og telefonen finner alle mulige relevante severdigheter, spisesteder eller andre interessepunkter i nærheten. 
+De som har brukt Nokias gode GPS-muligheter tidligere vil raskt kjenne seg igjen. 
+
+N97 er også solid når det gjelder multimedia. 
+Videoavspilleren fungerer fint, det samme gjelder musikkhåndteringen. 
+Riktignok støtter ikke videospilleren formater som Divx eller Xvid, så konvertering må til. 
+Vi er derimot glade for at Nokia har tatt med 3.5 mm-utgang for hodetelefoner, og mest av alt er vi imponert over den massive lagringsplassen som følger med: hele 32 GB. 
+Pluss at det er støtte for minnekort på opptil 16 GB (og større kommer). 
+48 GB til sammen er altså solide saker. 
+
+Tilfredsstillende bilder Kameraet kan beskrives som kompetent: 
+Det tar bilder i 5 megapiksel-oppløsning, og kvaliteten er stort sett bra. 
+Ikke helt på nivå med de beste telefonene med 8 eller 12 megapiksler og bedre optikk, men egner seg godt til de fleste situasjoner likevel. 
+Kameraet har ikke flott Xenon-blits som N82, kun dobbel fotolys, så bilder tatt i mørke omgivelser blir bare sånn passe. 
+Videofunksjonaliteten er også god, klippene tatt med telefonen er av fin kvalitet og kan brukes til litt mer enn bare tullete fyllefilming. 
+
+Men - alle disse funksjonene og mulighetene drar strøm. 
+For å si det rett ut, bare sett telefonen i laderen hver kveld, så er du trygg. 
+Uansett hvor mye batteri som er igjen. 
+
+Vi merker for øvrig at Nokia har nå gått bort fra sine vanlige ladere, og bruker USB-plugg til strøm. 
+Men det følger med en adapter i pakken som lar deg plugge inn dine gamle Nokia-ladere inn i USB-pluggen, noe som er et veldig hyggelig trekk. 
+Bare pass på, adapteren blir fryktelig varm. 
+
+Det er også viktig å påpeke at N97 har Nokias nye Ovi-butikk forhåndsinstallert. 
+Altså et applikasjonsmarked der en rekke programmer, spill og andre verktøy ligger. 
+Vi synes ikke utvalget var noe å skryte av så langt, men det er alltid fint med en nettbutikk, og vi er sikre på at kvaliteten blir bedre på sikt. 
+
+Bra, men med mangler 
+Når alt kommer til alt er dette en ganske vanskelig telefon å bedømme. 
+De positive og negative sidene går side om side. 
+Maskinvaren er glimrende, om noe klumpete. 
+Tastaturet er digg å skrive på, telefonen er veldig ergonomisk, spesielt i åpen tilstand, skjermen er stor og fin. 
+Den kan absolutt alt, funksjonsutvalget er glimrende, det er omtrent den mest komplette telefonen du får per dags dato. 
+Men når noe så essensielt som menysystemet og grensesnittet føles utdatert og for lite brukervennlig, når flere av konkurrentene er såpass mye lenger foran hva skjermteknologi angår, må vi trekke ned på karakteren. 
+
+Vi ble fort glad i N97, det er en veldig fet telefon, men den kunne vært enda bedre med mer gjennomtenkt brukeropplevelse. 
+Vi gir den en sterk og solid firer. 
+
+Telefonen koster rundt 5500 kroner uten abonnement. 
+Det er en høy pris, men du får faktisk temmelig mye for pengene her. 
+
+Mobiltesten er et samarbeid mellom DinSide Data og ITavisen 

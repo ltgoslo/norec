@@ -1,0 +1,102 @@
+Dell UP3214Q 4K skjerm
+Nå kommer det flere skjermer med super oppløsning, denne gangen Dells toppmodell. 
+
+Høyoppløselige skjermer finnes det millioner av, men de er for det meste i lommeformat. 
+Mobiler og nettbrett har hatt høy oppløsning lenge, helt siden Apple lanserte retina-skjerm med iPhone 4 i 2010. 
+
+Nå har andre produsenter laget mobilskjermer med enda tettere punkter, og bærbare PC-er har også fått skjermer med et antall punkter som tidligere var forbeholdt skjermer på flere ganger størrelsen. 
+
+Måler man antallet punkter per tomme (inch), som er et standard målebegrep, får man tall som er interessante å sammenligne: 
+
+En iPad Air har 264 ppi, mens iPhone 5 har 326 ppi og Galaxy S4 hele 440 ppi. 
+
+Men skjermene til PC-bruk har langt lavere oppløsning, for ikke å snakke om TV. 
+En 65-tommers TV med 4K-oppløsning har beskjedne 68 ppi, som tilsvarer en 32-tommers HD-skjerm. 
+
+4K PC-skjermene kommer! 
+
+Men nå begynner det å skje ting for krevende PC-brukere. 
+I august testet vi en 4K-skjerm fra Asus på 31,5 tommer. 
+Det er altså samme antall punkter som på en 65-tommers 4K TV, men på en fjerdedel av arealet. 
+
+Nå har også Dell lansert tre 4K-skjermer, i størrelsene 32, 28 og 24 tommer. 
+
+Prisene har også falt, da vi testet skjermen fra Asus hadde den en prislapp på 29.990 kroner, mens den i skrivende stund ligger rett under 23.000 kroner. 
+
+Dell sine skjermer ble lansert med en listepris på 26.411 kroner for 32-tommeren, mens 24-tommeren som kommer over nyttår har en listepris på 12.249 kroner. 
+28-tommeren vet vi ennå ikke prisen på ennå. 
+
+Og allerede rett etter lansering ser vi Dell sin 32-tommer til under 20.000 kroner i nettbutikkene. 
+For dagsaktuell pris, se oppsummeringsboksen nederst. 
+
+Dell UP3214Q 
+
+I datautstyr finner man samme nøkkelkomponenter i mange forskjellige produkter under forskjellige merkenavn. 
+Det er ikke på langt nær så mange produsenter av LCD-paneler som det er skjermprodusenter, så svært mange skjermer bruker de samme LCD-panelene. 
+
+Selve skjermpanelet på Dell-skjermen er det samme som sitter i skjermen fra Asus, og er levert av Sharp som også bruker dette i sin egen 4K-skjerm. 
+Men elektronikken som driver displayet varierer, og den mekaniske konstruksjonen er ikke den samme. 
+
+Forskjellen ligger ellers i mangel på høyttalere på Dell-skjermen og andre kontrastverdier, samt at menyene og betjeningsknappene er annerledes utformet. 
+
+Spesifikasjoner 
+
+Skjermen har følgende egenskaper: 
+Panelet: 
+
+31,5 tommer 16:9 format3840 x 2160 punkters oppløsningIGZO-panel med LED bakgrunnsbelysning80% NTSC fargemetning350 cd/m2 maks lysstyrke1000:1 kontrast176 graders betraktningsvinkel vertikalt og horisontaltFargegamut (typisk): 
+Adobe RGB 99%, sRGB 100%10-bits fargedybde8ms grå-til-grå responstid 
+
+Tilkoblinger: 1 x HDMI 1.4 DisplayPort 1.2 mini SisdplayPort 
+
+Fullstendige spesifikasjoner finner du hos Dell. 
+
+Tilkobling og konstruksjon 
+
+Skjermen har tilkoblinger for DisplayPort, miniDisplayPort og HDMI. 
+Det er også en USB 3.0 HUB med 3 tilkoblinger pluss en fjerde kontakt på selve bakpanelet som også støtter lading av USB enheter selv om skjermen ikke er i bruk. 
+
+Det er ingen ekstra finesser som høyttalere eller kortleser. 
+Dette tror vi de fleste fint kan klare seg uten. 
+
+Foten er både solid og stabil, men er likevel enkel å montere/demontere uten behov for verktøy. 
+
+Skjermen kan justeres i høyden, vippes og stammen kan dreies rundt. 
+
+Bildekvalitet 
+
+Denne gangen hadde vi en Asus VivoPC tilgjengelig, som har innebygd Intel-grafikk som støtter 4K-oppløsning. 
+Dermed var det bare å koble til med egnet kabel og skjermbildet dukket opp i full oppløsning. 
+Men oppfriskningsfrekvensen var fremdeles 30 Hz. 
+
+Det er en helt egen opplevelse å se gode bilder på en slik skjerm. 
+Har du et virkelig godt kamera, for eksempel fullformat speilrefleks, så ser du her virkelig hva kameraet presterer, da bildet består av hele 8,3 millioner piksler. 
+
+Det samme med høyoppløselig video, det ligger en del demomateriale på YouTube som er høyst imponerende. 
+Skjermen blir nesten som en glassvegg mot virkeligheten... 
+
+Betraktningsvinkelen, dynamikken og fargedybden er i den øverste klassen, og kombinert med oppløsningen er opplevelsen nærmest i en klasse for seg. 
+
+Som vi påpekte i testen av 4K-skjermen fra Asus, er ikke alle de grafiske elementene i Windows helt klar for så høy oppløsning. 
+Selv om man justerer opp størrelsen henger ikke alt med. 
+Dette har blitt bedre i de aller siste versjonene av Windows, og det er vel visse muligheter for at det blir gjort enda bedre tilpasning etter hvert. 
+Modern UI-grensesnittet skalerer imidlertid perfekt, men appene er som regel laget for alt annet enn store skjermer. 
+
+Menyer og innstillinger på selve skjermen er oversiktlige og brukervennlige. 
+Knappeplasseringen på fronten er også langt mer brukervennlig enn de som sitter på kanten eller under skjermen. 
+
+Her ser du noen skjermbilder av menyoppsettet: 
+
+Høne eller egg? 
+
+Foreløpig er det lite å hente for de fleste brukere i forhold til pris, når vi snakker om 4K-skjermer. 
+Skal du ha høyere oppfrisking enn 30 Hz må du over på heftige grafikkløsninger, selv den verste gamer-maskinvaren sliter med dette. 
+
+Innhold i 4K i form av video er ikke bredt tilgjengelig ennå selv om det nettopp ble lansert at Netflix skal gå i gang med distribusjon av 4K innhold om kort tid. 
+
+Så foreløpig er denne og andre 4K-skjermer mest relevant for de som skal produsere høykvalitets innhold, og i mindre grad egnet for de som skal ha glede av å betrakte det. 
+
+Men det er ingen tvil om at folk kan glede seg til når 4K blir standard oppløsning. 
+Og det tar garantert ikke like lang tid som veien fra VGA på CRT-skjermer til HD på LCD. 
+
+Dell UltraSharp UP3214Q 

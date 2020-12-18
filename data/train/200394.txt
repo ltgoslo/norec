@@ -1,0 +1,107 @@
+TEST:Samsung C6625 
+
+Epost-telefon som går litt for langt tilbake til fortiden. 
+
+Fortida kan være fin, den. 
+Hvem glemmer vel månelandingen, bryllupet til Lady Diana og Back To The Future-filmene. 
+Visse ting bør likevel bli værende i gamle dager, og det er for eksempel ikke vits å dra med seg gammeldags teknologi inn i framtida. 
+Det gjør bare vondt. 
+
+Samsung C6625 er en såkalt epost-telefon som er relativt rimelig til å være beregnet for forretningsmarkedet (rundt 2600 kroner), og som, modig nok, må finne seg i å bli regnet som konkurrent til telefoner som Nokia E71 og BlackBerry Bold. 
+Det kan få selv de mest overmodige til å bli litt skjelvne i knærne. 
+
+Så går C6625 gjennom testen med æren i behold? 
+
+Nei. 
+Den gjør vel egentlig ikke det. 
+
+Bra tasting 
+
+Utseendet er ikke nødvendigvis det en fokuserer mest på når det kommer til forretningsmobiler, all den tid dressmennesker ofte er en pragmatisk gjeng som, hvis de ikke abonnerer på GQ, først og fremst er opptatt av funksjonalitet. 
+C6625 ser helt okei ut, verken mer eller mindre, men er ikke i nærheten av allerede nevnte og veldig stilige E71 og Bold. 
+
+Tastaturet er hardt, men solid og bra, selv om det ikke har skjedd så veldig stor utvikling siden vi testet Samsung SGH-i600 for et par år siden. 
+Det er ikke så bra som på E71, men det duger til relativt lange eposter eller til lengre notater. 
+
+Styreflaten mellom tastaturet og skjermen føyer seg pent inn i rekken av mobilløsninger som velger det enkle framfor det nyskapende, og det er helt greit. 
+En stor knapp i midten, omringet av en firkant, og med tre knapper på hver sin side av firkanten. 
+Det er relativt romslig mellom tastene, og i motsetning til hvordan slike løsninger fungerer på mindre mobiler er det liten fare for at du knoter deg borti taster du ikke mente å trykke på. 
+
+Treg, tregere, tregest 
+
+Samsung befinner seg fortsatt i en litt schizofren fase, hvor de på sine avanserte mobiler veksler mellom å bruke Symbian og Windows Mobile som operativsystem. 
+C6625 inneholder versjon 6.1 av sistnevnte, og det gir ikke så mange pluss i boka (6.5 er riktignok på vei, men er først og fremst beregnet på Windows-mobiler med trykkfølsom skjerm. 
+Selv om for eksempel nettleseren 
+- Internet Explorer - vil kunne installeres separat, forblir de grunnleggende egenskapene ved 6.1 de samme. 
+Oppgraderingsprosessen fra 6.1 til 6.5 er uansett ikke noen ukomplisert affære.) 
+
+Hjem-skjermen ser grei ut, med den velkjente Start-menyen nede til venstre, og et spesiallaget "skin" med diverse snarveier, meldingsvarsel, kalenderpåminnelser og så videre dandert rundt på resten av området. 
+Det er blant annet mulig å legge inn opptil åtte kontakter som kan ringes opp direkte, og du kan også bla deg gjennom mediabiblioteket, fotoalbumet og så videre. 
+
+Problemet er bare at den er treg. 
+Veldig treg. 
+Hvis du for eksempel har noen bilder liggende under "Foto", må mobilen tegne opp siden med bilder før du får lov å bla deg videre. 
+Det gjør at hurtig navigering mellom hovedmenyene fort blir veldig plagsomt. 
+
+Tregheten gjennomsyrer nesten hele telefonen, og stort sett hele tiden er det noe som henger litt, lugger litt, stopper litt. 
+Det hjelper heller ikke at Windows Mobile 6.1 etterhvert både ser ut og føles som en gitarsolo fra 80-tallet: 
+Stort sett unødvendig, levert av en person som trenger ny garderobe og ny sveis. 
+
+For hva skal en for eksempel si om en katalogliste som inkluderer noe så byråkratisk formulert som "Innholdshåndtering", og som viser seg å inneholde mp3-filer, video og bilder? 
+Eller at du må bruke seks tastetrykk for å finne fram til blåtann-innstillingene? 
+Eller at det tar cirka 18-19 sekunder å starte GPS-programmet? 
+
+Det holder simpelthen ikke. 
+
+Batteritiden er heller ikke spesielt bra. 
+Selv med svært beskjeden bruk ble C6625 tømt for batterikapasitet på mindre enn et døgn, først og fremst takket være push-funksjonaliteten som følger med Exchange-kontoen. 
+Skrur du av denne vil batteritiden forbedres, men utgangspunktet er uansett ikke veldig oppløftende. 
+
+Nettleser - epost 
+
+Internett Explorer er fortsatt nettleseren du må forholde deg til når du tar den ut av esken, og det er en såpass blandet opplevelse at mange av oss velger å installere for eksempel Opera Mini (eller Opera Mobile hvis du foretrekker å laste ned nettsidene i sin helhet). 
+
+Hvis du har tenkt å forholde deg til vanlige nettsider er det ingen grunn til å forandre på den praksisen med C6625. 
+Til surfing på mobilsider gjør derimot Internet Explorer en fin jobb, selv om noen nettsteder framstår med litt for liten skrift noen steder, selv med "størst" som zoomvalg. 
+
+Et av problemene med denne Samsung-mobilen er derimot at de har kuttet ut Wlan, noe som virker som et underlig valg i en tid hvor bredbåndspunktene florerer. 
+Det betyr med andre ord at du må betale for all datatrafikken mobilen genererer, selv om du sitter hjemme med trådløs bredbåndsruter like i nærheten. 
+
+Eposten har derimot C6625 bra kontroll på. 
+Exchange-oppsettet er for eksempel gjort i løpet av kort tid, og du kan deretter gjøre det meste av det du kan på en PC med eposten. 
+Som vi allerede har nevnt er push-funksjonalitet noe av det verste et batteri kan utsettes for, og C6625 virker altså ekstra ille i så måte. 
+
+Hvis du ikke løper rundt med lader i lommen uansett hvor du befinner deg, kan det med andre ord lønne seg å heller satse på POP eller IMAP-epost. 
+
+Kamera og GPS midt på treet 
+
+Vi har allerede vært innom at GPS-programvaren (levert av Route 66) bruker lang tid på å starte, men vi har utelatt at den har fått det velklingende navnet "Samsung LBS". 
+Hvorfor kan ikke applikasjonen enkelt og greit kalles "GPS"? 
+Eller "Navigasjon"? 
+
+Når den først er oppe og går gjør den for så vidt jobben. 
+Det er ikke den mest intuitive GPSen vi har vært borti, og du får heller ikke med såkalt stemmebasert steg-for-steg-navigasjon - en ikke uvanlig prioritering på mobiler med navigasjonsfunksjoner. 
+Forvent en tur eller to innom manualen, for selvforklarende er ikke det første ordet vi ville brukt om programmet. 
+
+OPPDATERT: 
+Det følger med stemmebasert navigasjon. 
+Vi beklager feilen! 
+
+Den knytter seg på den annen side rimelig raskt opp mot GPS-satelittene, slik at du slipper å vente for lenge på selve navigasjonsprosessen. 
+
+Kameraet har beskjedne to megapiksler, men tar bedre bilder enn en skulle tro - resten av telefonen tatt i betraktning. 
+Det sliter med de vanlige problemene rimelige mobilkamera har (støy ved dårlig lys, kantete diagonaler, grovkornet gjengivelse når bildet blåses opp), men leverer verken bedre eller verre enn tilsvarende mobiler i samme prisklasse. 
+
+Du kan se eksempler på bilder tatt med kameraet her, her, her og her. 
+
+Konklusjon 
+
+Smartmobilmarkedet er ikke lenger et sted hvor en kan slippe unna med kronglete løsninger, dårlig batteritid og et operativsystem som føles like fastklemt i fortiden som en merittert, pensjonert fotballspiller som ikke klarer slutte å stirre på medaljesamlingen. 
+
+Her er det altfor mange småfeil til at brukeropplevelsen kan bli noe annet enn irriterende, og når den i tillegg mangler Wlan blir begeret litt for fullt. 
+Prisen er en formildende omstendighet, men ikke nok til å redde mobilen fra nestenhavari. 
+
+Vi har nevnt Nokia E71 noen ganger før, men vi holder den fortsatt som en uofisiell mester i smartmobilklassen. 
+Den koster usle 7-800 kroner mer enn C6625, men gir en langt bedre brukeropplevelse, har langt penere design, bedre batteritid, Wlan og enda bedre tastatur. 
+
+C6625 bør du uansett ikke velge. 

@@ -1,0 +1,144 @@
+HTC Titan
+Windows Phone 7-kjempen med 4,7 tommers skjerm. 
+
+For ikke mange ukene sine kom den svært etterlengtede oppdateringen Windows Phone-eiere har ventet på; Mango, eller versjon 7.5 om man bruker sifre. 
+
+Det er først med denne oppdateringen at Microsofts mobile operativsystem kan regnes som ordentlig lansert her til lands, med norsk tastatur, tilgang på Marketplace (app-butikk) og mer til. 
+Mango-oppdateringen har faktisk over 500 nyheter i forhold til den første utgaven av Windows Phone 7. 
+
+Derfor kommer det også et nytt inntog av Windows Phone-modeller utover høsten. 
+Eksempelvis har Samsung annonsert Omnia W, og det er også ventet at Nokias første Windows Phone 7-modell formelt annonseres i løpet av uka. 
+
+I mens har vi kost oss med HTCs nye Windows Phone 7-beist – HTC Titan. 
+
+Stor skjerm 
+
+Det mest oppsiktsvekkende med denne telefonen er utvilsomt skjermstørrelsen, som måler 4,7 tommer over diagonalen. 
+Diagonalt er skjermen dermed ganske nøyaktig 1cm lengre enn Samusung Galaxy S II og marginelt større enn den kommende Nexus-telefonen. 
+
+Allikevel har HTC knappet inn på det som befinner seg rundt skjermen, og fotavtrykket er faktisk ikke veldig mye større enn nevnte S II. 
+
+Selv om skjermen er stor, er oppløsningen fortsatt den samme som for de fleste andre smarttelefoner nå til dags; 480x800. 
+Til sammenligning har den nye Nexus-telefonen, med praktisk talt samme skjermstørrelse, 720x1280 piksler; altså 2,4 ganger så mange piksler. 
+
+I våre øyne er det allikevel på ingen måte skjemmende at ikke oppløsningen er høyere, og selv den minste skriften vises med god skarphet på HTC Titan. 
+Unntaket er når man ser fulle nettsider i nettleseren og har zoomet litt ut, men heldigvis er Titan god på å vise forventet innhold når man dobbelttrykker på et avsnitt. 
+
+Skjermen er også ellers meget god, med svært god innsynsvinkel, god fargemetning og et mer nøytralt hvitpunkt enn mange av konkurrentene. 
+Sortnivået er også meget godt, selv om Super LCD-skjermen ikke kan matche de beste AMOLED-skjermene på dette punktet. 
+
+Størrelsen gjør også at det er lettere å treffe riktig når du skriver på tastaturet, som vi for øvrig synes har blitt svært godt i den "norske" Mango-oppdateringen. 
+
+Føles solid 
+
+Konstruksjonen ellers bærer preg av kvalitet. 
+Titan føles akkurat passe tung (160g), den er relativt tynn (9,9mm) og kvaliteten og feedbacken når du trykker på de fysiske knappene er meget god. 
+En liten detalj er at kameraknappen kan holdes nede selv om telefonen er avslått, og du får også lov til å ta bilder uten å låse opp telefonen, akkurat på samme måte som i den siste versjonen av iOS. 
+
+Tar vi turen rundt telefonen, finner vi hodetelefonuttak på toppen, ved siden av av/på-knappen. 
+Volumbrytere og kameraknapp ligger på høyre side, mens micro USB-porten ligger på motsatt side. 
+Dette har HTC valgt å begynne med på alle sine telefoner, for lettest å kunne støtte ulike dock-løsninger. 
+
+I bunnen finnes en knapp som kan trykkes inn for løsne bakdekslet (som strekker seg over hele telefonen), og HTC har også valgt å gi Titan to LED-pærer ved siden av kameraet. 
+Det gir godt med lys både til fokusering og eksponering, i tillegg til at telefonen da faktisk fungerer utmerket som lommelykt. 
+
+Mangler støtte for minnekort 
+
+Et lite skår i gleden er at HTC Titan ikke støtter micro SD-minnekort, som gjør at du ikke kan utvide de 16GB med internminne som følger med telefonen. 
+Med en såpass filmvennlig skjerm synes vi dette er litt synd, siden videofiler tross alt opptar stor plass. 
+For deg som ikke ser mye film på telefonen (eller er villig til bare å kunne ha med en liten håndfull til en hver tid), bør 16GB holde fint, selv om Spotify/Wimp fortsatt ikke er på plass, som gjør at du foreløpig også er nødt til å ha med deg musikken også. 
+
+På bunnen av telefonen finnes tilbake-, søk- og windowsknapp. 
+Vi synes fortsatt det er synd at søkeknappen på Windows Phone 7 ikke virker ut fra kontekst (den gjorde det tidligere), men alltid åpner Bing-søkemotoren. 
+Åpner du f.eks. kontaktene og vil søke, må du bruke ikonet på skjermen. 
+
+Små tilpasninger 
+
+Der telefonprodusentene gjør ganske store tilpasninger på sine Android-modeller, er det langt fra like gode muligheter på WP7-plattformen. 
+I bunn og grunn er de fleste WP7-modeller helt like programvaremessig, selv om HTC har lagt ved noen apps. 
+
+Bak "HTC Hub" skjuler seg en ganske pen værmeldingsapp, aksjer og enkel RSS-leser. 
+Videre får du også en fotoforbedringsapp (lar deg påføre ulike filtre på bilder du har tatt) og HTC-tjenesten Locations, som også følger med på selskapets Android-telefoner. 
+Dette er en tjeneste som blant annet viser deg interessepunkter i nærheten av der du befinner deg. 
+
+Locations bruker imidlertid Bing-kartene, som har svært dårlig støtte for norske forhold. 
+For eksempel får vi ikke opp noen severdigheter i Oslo, og det er heller ikke mulig å be om kjøreruten til Colosseum i Roma; noe som er mulig på Android med Google Maps. 
+
+Filmtjenesten HTC Watch er også på plass i Titan, og da vi snakket med HTC i forrige uke, er den forsatt planlagt lansert i løpet av måneden; utsatt helt fra juni. 
+Sverige og Danmark har i hvert fall fått sine versjoner, så vi får håpe det snart dukker opp noe annet enn de samme åtte trailerne som har ligget der siden i sommer. 
+
+Du kan også laste ned gratis HTC-apps fra Marketplace, blant annet en konverteringskalkulator for vekt, temperatur, lengdemål etc. og et par ganske pene apps for å lage lister (sveip for å stryke ut, kjekt på butikken) og notater. 
+
+Og så appen Elsker, da, som lar deg plukke blader fra en blomst for å se om din kjære elsker deg. 
+
+Meget god ytelse 
+
+Med en 1,5GHz prosessor innabords er alt duket for en god brukeropplevelse hva hastigheter angår, og Titan innfrir som bare det. 
+Alt av animasjoner og overganger glir fint, og telefonen egner seg også meget godt til nettsurfing med glatt skrolling og meget god tilpasning av utsnittet dersom du dobbeltklikker på et avsnitt. 
+
+I Sunspider-testen, som måler hvor rask telefonen/nettleseren er til å håndtere javascript, får vi imidlertid litt over 6000ms, som er dobbelt så lang tid som de beste. 
+Når det gjelder surfing har vi imidlertid aldri reagert på at telefonen er noe tregere enn andre – snarere tvert om. 
+Side om side med iPhone opplevde vi Titan å være så og si nøyaktig like rask med å tegne opp nettsidene, og noen ganger så rask fra nettavisforside til en gitt artikkel at vi mistenker at nettleseren forhåndshenter nettsider det lenkes til. 
+
+Verdt å merke seg er at det ikke er støtte for hverken Flash eller Silverlight i Windows Phone 7, selv om sistnevnte er en Microsoft-teknologi. 
+
+Når det gjelder spill, ser også Titan ut til å klare seg bra. 
+Jet car stunts glir fint i sin tredimensjonale (dog noe minimalistiske) prakt, selv om Angry birds ser ut til å ha høyere bilderate både på iPhone og de beste Android-telefonene. 
+
+Batteriet på 1600mAh holder i praksis en dag med ganske aktiv bruk. 
+
+Multimedia 
+
+For å overføre musikk og film til HTC Titan (og øvrige WP7-telefoner), må du bruke Zune-programvaren som er tilgjengelig både for Windows og Mac; sistnevnte i form av Windows Phone 7 connector, som hentes gratis fra Mac App Store. 
+Løsningen integrerer seg da både med iPhoto og iTunes, slik at bilder og musikk/film kan overføres til og fra disse programmene. 
+
+Programmet konverterer også ikke-avspillbare filer til egnet format, med variert suksess. 
+Eksempelvis er én av testfilene vi bruker en MP4-fil kodet med H.264/AAC, og da vi prøvde å spille den på telefonen, endte vi opp med et hvitt bilde, selv om lyden fungerte fint. 
+Andre filer lot seg spille av som forventet. 
+
+På Mac er kompatibiliteten imidlertid begrenset også av iTunes, og det er kun filmer som kan importes til iTunes som kan flyttes videre til telefonen. 
+Man kan altså ikke bare dra en fil direkte fra Finder. 
+Dette er selvsagt ikke unikt for HTC Titan, men gjelder alle WP7-telefoner. 
+
+Ellers gikk det smertefritt å overføre musikkfiler og bilder fra iTunes og iPhoto, og du kan også velge å bruke smarte spillelister, f.eks. ved å synkronisere de 25 mest spilte sangene eller alle sanger gitt ut på 90-tallet. 
+
+Windows-støtten er bedre, og her kan du også leie film fra Zune Marketplace. 
+Merk at dette må gjøres via PC-en og er ikke tilgjengelig direkte på mobiltelefonen. 
+Vi fikk også overført flere av testfilene via Windows - Divx HD, Xvid og wmv/HD ble overført (og enkelte konvertert) uten problemer. 
+Avspillingen er jevnt over god, selv om bildet hakker noe på de med høyest oppløsning; spesielt det første sekundet etter åpning. 
+
+Kamera 
+
+Mens muligheten til å ta bilder tidligere var å regne som en kjekk ekstrafunksjon, er det faktisk blitt ett av de viktigste kriteriene for de som går til anskaffelse av en ny mobiltelefon – det er jo tross alt blitt kameraet du alltid har med deg. 
+
+Bildene fra HTC Titan ser jevnt over meget bra ut, spesielt utendørs, der detaljnivået er meget godt til mobilkamera å være. 
+Kameraet eksponerer stort sett godt, selv om motlyssituasjoner har en tendens til å bli i overkant undereksponert, og bildene mister en del detaljer når lystilgangen ikke er like god – i kveldslys eller innendørs belysning. 
+
+Under ser du noen bildeeksempler: 
+
+Titan kan også filme med 720p-oppløsning, og gjør det helt greit. 
+Vi har definitivt sett bedre; spesielt med tanke på detaljnivå i bildene, men først og fremst lydmessig, der lyden på videoopptak er noe ullen. 
+
+Tale og lyd 
+
+Det er sjelden vi reagerer på det nå til dags, men det skal sies at lydkvaliteten under samtaler er noe under par, der motparten høres med en viss forvrengning og ikke like godt som på de beste telefonene. 
+
+Lyden i den innebygde høyttaleren, derimot, er imponerende høy om du skrur opp volumet – antakeligvis den høyeste vi har hørt noen gang, uten at vi måler dette vitenskapelig. 
+Vær imidlertid oppmerksom på at den laveste voluminnstillingen (1 av 30) faktisk også er ganske høy, og at du derfor kanskje er nødt til å smugspille Angry Birds på do uten lyd. 
+
+Konklusjon 
+
+Vi er godt fornøyde med HTC Titan, og selv om vi fortsatt ikke helt føler at Windows Phone 7 er ordentlig tilpasset norske forhold (gjelder spesielt Bing/kart), holder det så vidt til en femmer på terningen. 
+
+Titan har en stor og flott 4,7"-skjerm, med god innsynsvinkel og nøytral hvitbalanse. 
+Den er også rask i bruk og godt egnet enten du vil se film, spille spill eller surfe på nettet. 
+Vi liker også konstruksjonen med gode knapper og fornuftig plassering både av knapper og utganger. 
+I tillegg skal det nevnes at Titan ikke er spesielt mye større enn enheter med 4,3"-skjerm. 
+
+Vær imidlertid oppmerksom på at de 16GB med intermninne ikke lar seg bygge ut med minnekort, så er du blant de som konsumerer mye musikk og video på telefonen, er det kanskje en liten showstopper. 
+Det kan også prislappen være – HTC Titan ligger i skrivende stund på rundt 5000 kroner i de billigste nettbutikkene. 
+
+Vurderer du å hoppe over til Windows Phone 7, er uansett HTC Titan et meget godt valg. 
+Vi håper imidlertid at forholdene snart ligger enda litt mer til rette for norske brukere; da spesielt med tanke på karttjenesten og muligheten for å laste ned film/musikk direkte til telefonen, i stedet for å måtte koble den til en PC og administrere den slags derfra. 
+
+Det gjelder imidlertid også øvrige WP7-telefoner. 

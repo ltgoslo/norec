@@ -1,0 +1,128 @@
+TEST:Qnap TS-119 Turbo NAS 
+
+Historien om nettverks-harddisken som også ville være PC. 
+
+Det er lenge siden en harddisk bare var en harddisk. 
+Med de såkalte nettverksdiskene ble de tidligere arbeidshestene selvstendige enheter som kan servere alt fra dokumenter og videofiler over både lokalnettverk og internett, slik at du har tilgang til det meste fra alle steder der det finnes nettverkstilknytning. 
+
+Qnap er en av de større aktørene på NAS-markedet, og har med sin TS-119 klart å gjøre meg svært begeistret. 
+
+Bare en ting til 
+
+Det første du bør være oppmerksom på hvis du ikke har vært borti NAS-disker før, er at de sjelden inkluderer harddisk i prisen, bare kabinettet. 
+Selv har jeg installert en Samsung SpinPoint-disk på en terabyte, først og fremst fordi den er både rask, rimelig og støysvak. 
+Det siste er spesielt nyttig når den skal brukes i TS-119, ettersom kabinettet er viftefritt. 
+Med en støysvak disk og et støyfritt kabinett er det ikke mye ulyd som sprer seg i rommet, en særdeles kjærkommen opplevelse. 
+
+Installering og konfigurasjon av Qnap-disken gikk som en drøm. 
+Jeg slet riktignok litt med å finne det riktige grepet for å fjerne lokket på kabinettet i forbindelse med installasjonen av harddisken, men etter at jeg endelig forstod logikken, gikk ting på skinner. 
+Disken glir inn i den ledige slissen, skrus fast med fire skruer, og etter å ha skrudd på lokket igjen, og koblet den til en ledig Ethernet-port på ruteren, er du klar til å starte byggejobben på programvaresiden. 
+
+Logg på - ta i bruk 
+
+Det er også en smal sak. 
+Først lastes siste firmware ned fra Qnaps nettsider (eller du kan bruke det som følger med på installasjons-CDen), som så installeres på TS-119. 
+Når det er gjort er du i praksis klar til å ta i bruk disken. 
+
+Tilkoblingsmulighetene til TS-119 er nesten endeløse, og du kan gjøre nesten hva som helst fra den lille, støyfrie boksen. 
+Alt kan styres via nettleseren, alt du behøver gjøre er å logge deg på IP-adressen som NAS-disken blir tildelt av ruteren. 
+Det har heller ingenting å si hvilket operativsystem du bruker, ettersom TS-119 støtter alle de vanligste OSene. 
+
+Legg forøvrig spesielt merke til at denne modellen er kraftig oppgradert sammenliknet med sin forgjenger, TS-109, blant annet i form av en 1.2GHz Marvell-prosessor og dobbelt så mye minne som tidligere - 512MB. 
+Det gir den såkalte "Turbo NASen" nok styrke til å gjøre jobben til langt over ståkarakter. 
+
+(Testen fortsetter under bildespesialen!) 
+
+Og hva kan den brukes til? 
+
+Det mest opplagt bruksområdet for TS-119 vil for mange være sikkerhetskopiering. 
+Et par knappetrykk via web-grensesnittet (se eksempler i bildespesialen) gir deg mulighet til å opprette en brukerkonto eller to til andre familiemedlemmer, som så kan logge seg på sin bruker og sørge for at laptopen eller den stasjonære maskinen på kontoret dumper innholdet over på NAS-disken. 
+
+Det er mulig å installere så store disker som 2TB i TS-119, og med mindre du tilhører fildelingseliten i Norge, skal det være mulig å være ganske fleksibel i forhold til den totale lagringsmengden alle familiemedlemmene. 
+
+Men Qnaps diskret boks er altså også en liten mini-PC, og kan derfor gjøre en rekke ting som en vanlig harddisk ikke kan. 
+Du kan blant annet sette opp web-server (nyttig hvis du har nettside du ønsker å drifte selv) og FTP-server, i tillegg til at TS-119 også har FTP og bittorrent-klient. 
+
+Alt dette, inkludert sistnevnte, kan styres, startes og stoppes fra hvor du enn måtte befinne deg i verden, og er atskillig enklere i bruk enn jeg hadde fryktet på forhånd. 
+
+Enda flere alternativer 
+
+Har du mye musikk (og film og bilder) liggende lagret på disken finnes det flere måter å gjøre den tilgjengelig på. 
+Alle mapper kan for så vidt åpnes opp for pålogging utenfra, slik at du blant annet kan deler bilder og lignende med familie og venner (andre, opphavsbeskyttede ting skal du naturligvis ikke dele). 
+
+Innenfor husets fire vegger kan du også sette opp din egen iTunes-server, slik at all musikken automatisk dukker opp i iTunes på en hvilken som helst maskin som kjører Apples musikkbibliotek. 
+
+De som kjenner de fabelaktige streaming-produktene fra Slim Devices vil sette stor pris på at SqueezeCenter-programvaren kan kjøres rett fra boksen, slik at TS-119 i praksis blir en musikkserver for blant annet Squeezebox-enhetene. 
+Dette har fungert knirkefritt for vår del, selv om en del ting som skanning av musikkbiblioteket og navigering via SqueezeCenters web-grensesnitt er litt langsommere enn når programmet kjøres fra en vanlig Mac eller PC. 
+
+Dog gjør det livet i stua særdeles mye enklere. 
+Nå kan hvem som helst (jeg nevner ikke navn) skru på Squeezeboxen når som helst på døgnet, og få lyd ut av den uten å skru på noe annet i tillegg. 
+
+En tredje mulighet er å aktivere TwonkyMedia-serveren. 
+Den distribuerer musikk, bilder og video via den såkalte UPnP-protokollen, og har du for eksempel et program på mobilen eller laptopen som støtter UPnP kan du streame innholdet direkte til enheten. 
+
+Denne standarden støttes også av spillkonsoller som Xbox 360 og PlayStation 3, slik at du blant annet kan se video lagret på TS-119 rett på flatskjermen i stua. 
+
+Og mere til 
+
+Alle fleste aspekter ved TS-119 kan altså kontrolleres via noen musetrykk i web-grensesnittet. 
+Det er for eksempel en smal sak å fortelle Qnap-kabinettet at det skal skru seg av klokken elleve på kvelden, og på igjen klokka sju om morgenen. 
+Dermed sparer du strøm, og du sparer disken for slitasje. 
+
+Disken på innsiden kan dessuten settes til å gå i dvale til faste intervaller, noe som bidrar til å forklare hvorfor TS-119 har et strømforbruk på bare 5 watt når den ikke er i bruk. 
+I bruk ligger forbruket på 15 watt, som fortsatt er svært beskjedent sammenliknet med en ordinær, stasjonær PC. 
+
+Du kan også sette opp en rekke ulike varslingsrutiner, som gir beskjed via SMS eller epost ved mer eller mindre kritiske "systemhendelser". 
+Det kan være alt fra en litt for varm disk til mer kritiske feil som kan kreve at du foretar deg noe. 
+
+Backup 
+
+Sikkerhetskopiering er også enkelt. 
+TS-119 har hele tre USB-porter, hvor du kan plugge inn eksterne harddisker. 
+En knapp på forsiden tillater umiddelbar backup til en forhåndsdefinert disk, eller du kan gjøre det via web-grensesnittet. 
+Det er også mulig å synkronisere backupen, slik at du slipper å lage en fullstendig kopi fra bunnen av hver gang du sikkerhetskopierer. 
+
+Selv om du kan navigere deg gjennom innholdet på disken via nettleseren, er det selvfølgelig også mulig via det vi kan kalle nerdestandarder som AFP (Mac) og SMB (både Mac og PC). 
+De som vet hva vi snakker om blir fornøyd, de som ikke gjør det kan trøste seg med at det ikke er spesielt komplisert å forstå. 
+
+For hvem som helst? 
+
+I utgangspunktet er ikke terskelen for å ta i bruk en disk som dette høy. 
+Det finnes enkelte områder av oppsettet hvor en kan rote seg bort, som for eksempel å sette opp en epost-server til bruk ved epost-varsling (se over), men ellers er dette relativt grei skuring. 
+
+Mens vi skriver dette får vi dessuten vite at versjon 3.0 av diskens firmware er lansert, noe som blant annet medfører en fullstendig redesign av grensesnittet, i tillegg til enda flere funksjoner. 
+Etter hva vi kan se av de første skjermdumpene har dette gjort TS-119 enda mer tilgjengelig for hvermansen. 
+
+(Vi kommer tilbake med en oppdatering av denne testen så snart vi har fått kjørt v3.0 gjennom testkverna.) 
+
+Hastigheter 
+
+TS-119 er kun tilgjengelig via en nettverkskabel, og det medfører visse hastighetsbegrensninger i forhold til lese- og skrivehastigheten sammenliknet med det du kan forvente av for eksempel eSATA, USB og Firewire. 
+
+Selv har vi bare testet farten mellom en bærbar Mac (med 802.11n), en gigabit-ruter og altså gigabit-grensesnittet som finnes i Qnap-disken. 
+
+Å overføre en fil på 1.63 GB fra Macen til disken tok cirka 3.28 minutter, som gir en hastighet på rundt 8.3MB i sekundet. 
+Tilbake igjen fra disken til Macen gikk det cirka fire minutter, eller rundt 6.8MB i sekundet. 
+Det er ikke så ille til å være trådløst, men virkelig hurtig blir det først når begge enhetene (TS-119 og Macen/PCen) benytter seg av en kablet forbindelse. 
+
+Vi har sett uavhengige tester på nettet som har målt gjennomsnittlig skrivehastighet på 44.8 MB i sekundet, og gjennomsnittlig lesehastighet på utrolige 76.8 MB i sekundet. 
+
+Det er hastigheter som slettes ikke er å kimse av, men for å utnytte dette til fulle ved vanlig bruk må alle enhetene i sammenkoblingen være optimale. 
+Sitter du med en sinke av en harddisk i laptopen eller en treg trådløsruter, kan du heller ikke forvente mirakuløse overføringshastigheter. 
+
+Konklusjon 
+
+Den største innvendingen mot TS-119 er prisen. 
+Du må ut med rundt 2400 kroner for selve kabinettet, og cirka 7-800 kroner for en 1TB-disk. 
+Hvis ikke du har et lager med disker liggende kommer totalsummen fort opp i drøye 3000 kroner. 
+
+Da er du ikke så veldig langt unna prisen på en mini-PC, som også kan plasseres diskret i stua, og som selvfølgelig også kan fjernstyres fra både hjemmefra og utenfra. 
+På den annen side er du avhengig av å kjøre en ekstern harddisk sammen med mini-PCen hvis du ønsker å bruke den som en disksentral, og da stiger utgiftene. 
+
+Vi ser likevel argumentene for en slik løsning, men hvis du ønsker å unngå enda en maskin i huset, og dessuten vil at den skal snakke enkelt sammen med en haug av ulike dippedutter, er Qnap TS-119 absolutt en løsning du bør ta nærmere i øyesyn. 
+
+Under optimale forhold er den lynrask, den kan brukes til nesten hva som helst når det kommer til spredning av multimedia, og er så enkel i bruk og så enkel å sette opp at selv far/mor (stryk det som ikke passer) kan bruke den. 
+
+Støy lager den heller ikke, og TS-119 konsumerer mikroskopisk lite strøm sammenliknet med alternative løsninger. 
+
+Og miljøvennlighet skal en som kjent ikke kimse av, selv om nesten ingen lenger snakker om det. 

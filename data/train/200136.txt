@@ -1,0 +1,55 @@
+Linksys WRT350N
+Linksys har vært på topp tidligere, men de første som støttet 802.11n nådde ikke helt opp. 
+Det gjør derimot denne nye modellen.. 
+
+Linksys har som regel levert utmerkede rutere, med god stabilitet, ditto egenskaper og ytelse. 
+De foregående modellene har likevel ikke vært like overbevisende og blitt slått av konkurrentene på flere områder. 
+
+LES OGSÅ: 
+
+Men nå er det slutt, den nyeste ruteren Linksys WRT350N hevder seg helt i toppklasse. 
+
+Utseendet er svært likt forgjengeren, med to vanlige antenner og en plateformet utgave i midten. 
+På den nye modellen er det nå støtte for Gigabit på de lokale portene pluss en USB-port for tilkobling av lagringsenhet. 
+Ruteren kan legges flat med antennene vippet opp, eller stå loddrett på en fot som følger med. 
+
+Enkelt oppsett 
+
+De fleste rutere fungerer på et vis rett ut av esken, gjerne med hjelp fra et installasjonsprogram som ligger på CDen i esken. 
+Det sitter faktisk en tape over portene på WRT350N hvor det står at man MÅ installere CDen før man kobler til og slår den på. 
+
+Men hva skjer hvis man ikke gjør dette? 
+Vi koblet den til vårt rutermodem fra Telenor som er satt i bridge-mode (alle ruterfunksjonene er koblet ut) for å sjekke. 
+
+Like etter at den hadde kommet igang dukket det opp en boble nede på oppgavelinjen i Windows XP, som fortalte oss at det hadde dukket opp en ny enhet på nettverket. 
+Da var det bare å klikke så var vi inne i oppsettsmenyen til ruteren. 
+Den er nemlig satt opp som en UPnP-enhet og gir seg til kjenne i en PC som støtter dette, noe som alle WindowsPCer gjør hvis det ikke bevisst er slått av. 
+
+De viktigste innstillingene for vanlig hjemmebruk finner man på hovedmenyene for netttilgang og for trådløst. 
+For de som kjører mer avanserte oppsett med egne fil-, mail- og gameservere osv. styrer du port-forwarding, QoS osv. fra undermenyene i kjent, oversiktlig og ryddig Linksys-stil. 
+
+Storage Link 
+
+For de som ønsker å ha felles tilgang til filer på hjemmenettet, men ikke vil sette opp en egen maskin eller boks til dette, kan koble til en USB-disk rett i ruteren. 
+Dette kan være en minneplugg eller en harddisk, men du kan ikke bruke en disk som allerede inneholder data i et vanlig PC-format som FAT32 eller NTFS. 
+
+Lagringsenheten blir formatert på nytt og du setter opp filområder og styrer brukertilgangen med eventuelle passord. 
+Filområdene dukker så opp under maskinnavnet du definerer selv i Mine Nettverkssteder/Nettverk i Windows XP/Vista. 
+
+Du kan også aktivere støtte for UPnP Media Server og FTP. 
+
+Hastigheten på det interne nettet begrenses av USB 2.0, så det er ikke ubegrenset med HD-strømmer du kan kjøre. 
+Men det er for mange et høyst brukbart alternativ til en egen NAS-boks. 
+
+Trådløs hastighet 
+
+Her viste den muskler. 
+Vi testet med et D-Link DWA-645 i vår bærbare, det samme kortet som vi har testet de senere ruterne med 802.11n fra flere leverandører. 
+
+Her matchet eller overgikk den vår tidligere testvinner D-Link DIR-655 på alle 3 målestedene. 
+På de to nærmeste var ytelsen i praksis lik, men helt nede i kjelleren var den like rask som bare noen få meter unna i en etasje ned. 
+
+Konklusjon 
+
+Linksys har kommet sterkt tilbake, og leverer nå den raskeste og mest fleksibile trådløse ruteren. 
+Storage Link er en fin bonus som sparer deg for utgifter til en nettverksbasert lagringsenhet. 

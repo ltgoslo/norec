@@ -1,0 +1,103 @@
+Lenovo IdeaPad Z370
+Liten og fin maskin, med noen smarte egenskaper. 
+
+Z-serien fra Lenovo består av maskiner med fokus på multimedia og underholdning, og IdeaPad Z370 er en av de minste i serien, med sin 13,3-tommer skjerm og vekt på 2 kg. 
+Sprek design, egen filmmodus-knapp og god lyd er egenskaper Lenovo selv trekker fram for å underbygge multimediefokuset. 
+
+For å ta utsiden først, Formen er avrundet og overflaten glatt, og bak det glassaktive lokket skimtes små tredimensjonale pyramider tett i tett. 
+Dessverre vises fingeravtrykkene langt bedre enn pyramidene, og det kan fort bli skjemmende. 
+
+Rundt tastaturet har Lenovo benyttet matt aluminium, og her vises ikke fingeravtrykk overhodet. 
+Det bidrar også til en god oppstiving av chassiset. 
+
+Sandy Bridge-utstyrt 
+
+På innsiden sitter blant annet siste generasjon Intel Core i-prosessor og en romslig harddisk, sistnevnte også viktig for multimedieentusiaster som gjerne sitter på store musikk- og videosamlinger. 
+Men det som gjør maskinen spesielt interessant, er noen funksjoner som Lenovo selv har bakt inn. 
+Mer om det senere, først skal vi se på spesifikasjonene: 
+
+Lenovo IdeaPad Z370 1025-57G13,3" LED-baklyst blank LCD, 1366 x 768 pikslerIntel Core i5 2410M-prosessorIntel HD Graphics 3000 grafikk4 GB DDR3 SDRAM (maks 8, ingen ledige sloter)750 GB harddisk, 5400 rpmDVD-brenner for alle formater2 Mpix webkameraTrådløst nett (b/g/n)Bluetooth 2.1Kablet nett 10/100 Mbit3 x USB 2.0-porter1 x eSATA-kontakt (deles med en USB-port)VGA og HDMI-utgangerMinnekortleser for SD, MS og xD-kortWindows 7 Home Premium 64-bitStørrelse: 32,8 x 22,2 x 3,3 cmVekt: 
+2 kgCa-pris: 5800 kr (26.8.2011) 
+
+5800 kroner høres kanskje mye ut for denne konfigurasjonen, men sammenlignet med andre 13,3-tommere med samme prosessor er det faktisk blant de aller rimeligste på markedet. 
+Når det er sagt er det hevet over enhver tvil at du får langt mer kraft (hvis det er hva du er ute etter) dersom du går for en 15,6-tommer, for eksempel X53SV fra Asus. 
+
+PC-en mangler USB 3.0-porter, den har en relativt enkel grafikkløsning som ikke er særlig glad i 3D-spill, og kablet nettverk begrenses til 100 Mbps. 
+Men du får altså en bra potent prosessor og romslig harddisk, noe som trekker opp. 
+Det er imidlertid andre ting ved denne maskinen som får oss til å smile, og de leses ikke ut fra spesifikasjonslisten. 
+
+Mye bra her 
+
+For det første har den et svært godt tastatur. 
+Responsive taster på en en plate med minimal svikt, fornuftig plassert og med godt mellomrom mellom hver tast. 
+Litt smal enter-tast, men vi opplevde ikke det som et problem her. 
+Enkelt å gjøre rent er det også. 
+
+For det andre har maskinen en egen knapp for å gjenopprette maskinen til tilstanden ved leveranse. 
+Du trenger ikke tenke på gjenopprettings-plater, alt ligger lagret på harddisken. 
+I løpet av minutter blir PC-en "ny" igjen. 
+
+For det tredje har maskinen gode høyttalere med god fylde - til både musikk og film, i hvertfall når du sitter alene og rett i mot. 
+Z370 har bedre lyd enn de aller, aller fleste PC-ene vi har testet denne sesongen. 
+
+Styr vifteaktiviteten selv 
+
+Over tastaturet sitter også berøringsfølsomme knapper for å justere lyd opp og ned, justere skjermlys og kontrast, og styre vifteaktiviteten(!). 
+Spesielt sistnevnte er verdt å merke seg. 
+Du kan velge mellom Standard, Supertaus, effektiv varmespredning og Avstøving. 
+
+Standard-innstillingen justerer vifteaktiviteten etter belastning, og her er nok Z370 litt mer ivrig i rotasjonene enn mange av konkurrentene, viften er nemlig godt hørbar. 
+
+Supertaus-innstillingen fjerner ikke vifteaktiviteten, men begrenser den, uten at ytelsen blir degradert. 
+Det fører imidlertid til at PC-en blir ganske varm på undersiden, oppdaget vi. 
+
+Effektiv varmespredning = aktiv vifte, mens Avstøving betyr at viften kjører på full hastighet for å prøve å blåse ut eventuell støv som har satt seg kjølegang og i risten. 
+Det bråker voldsomt, men hvis det er bare litt effektivt er det smart nok. 
+Å fjerne støv manuelt kan nemlig være både tidkrevende, krøkkete og forbundet med en viss risiko. 
+
+Blank skjerm 
+
+Skjermen skiller seg ikke nevneverdig fra de fleste i klassen. 
+Den er blank og kontrastrik, ulempen er først og fremst at den er speilblank og reflekterer "alt". 
+Sitter du med ryggen mot vinduet kan det fort bli problematisk, men Z370 er verken bedre eller verre enn 9 av 10 bærbare på markedet nå. 
+
+Oppløsningen på 1366 x 768 piksler synes vi er tilfredsstillende på en 13,3-tommer skjerm. 
+
+Alle tilkoblingene sitter på venstre og høyre side, mens kortleseren sitter i front sammen med bryter for det trådløse nettverket. 
+Strøminntaket sitter helt bakerst til høyre, og en fin 90-graders knekk på kontakten gjør at den aldri kommer i veien. 
+Strømforsyningen er avlang og smal, og tar ikke store plassen. 
+
+Slik er den i bruk 
+
+Maskinen virker godt konfigurert, med et fornuftig utvalg forhåndsinstallerte programmer, selv om vi har sett mer diskrete sikkerhetsprogrammer enn prøveversjonen av McAfee Antivirus. 
+PC-en oppleves som ganske kjapp i de fleste situasjoner, og Windows egen Opplevelsesindeks gir oss følgende pekepinn, skalaen går fra 1.0 til 7.9: 
+
+Sammenligner vi med andre 13,3-tommere i samme prisklasse, ser vi at prosessorytelsen er over snittet, og her har vi brukt tall fra Passmark PerformanceTest 7: 
+
+Grafikkytelsen derimot, og spesielt 3D-ytelsen, er ikke den største styrken til denne maskinen. 
+Har du behov i den retning, fortrinnsvis spilling, ville vi definitivt velge en PC med et av de andre kortene i oversikten under. 
+Alle er å finne i PC-er i samme prisklasse: 
+
+Når det er sagt: 
+Grafikkytelsen er mer enn god nok til alt av videomateriale, også høyoppløselig film i 1920 x 1080 piksler (1080P) på ekstern skjerm - komprimert i alt som kan krype og gå av formater. 
+
+Grei batterilevetid 
+
+Det er ingen tvil om at gjennomsnitt batterilevetid i mellomklassen har gjort et byks det siste året, ikke minst takket være de nye og strømgjerrige Sandy Bridge-prosessorene fra Intel. 
+
+Med minimal belastning holdt batteriet i denne PC-en ut i 301 minutter før det tok kvelden, altså ganske nøyaktig 5 timer. 
+Ved kontinuerlig videoavspilling holdt det ut i knappe 3 timer. 
+Under normal bruk vil batteriet holde i 4-4,5 timer. 
+Det er godkjent, men slett ikke oppsiktsvekkende lenge høsten 2011. 
+
+Konklusjon 
+
+Vi liker Lenovo IdeaPad Z370 bedre og bedre etter at vi har blitt bedre kjent med den. 
+Den har en solid og fin design, er meget god å skrive på, har bra generell ytelse og noen smarte funksjoner som vi også har sansen for. 
+
+Det finnes PC-er i klassen som er stillere, 3D-ytelsen kunne vært bedre, og den mangler USB 3.0 og Gigabit nettverk. 
+Dermed måtte batterilevetiden vært enormt bra for at vi skulle lande på en femmer på terningen. 
+Den er derimot helt gjennomsnittlig, og derfor lander vi til slutt på en solid firer. 
+Denne PC-en er definitivt ikke noe dårlig kjøp! 
+
+Lenovo IdeaPad Z370 1025-57G 

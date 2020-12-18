@@ -1,0 +1,100 @@
+Whitebox CL56
+Den er utstyrt med Radeon 9700-grafikk, dual format DVD-brenner (+ og -), 54 MBit trådløst nettverk, og en kraftig Pentium M-prosessor. 
+Det lukter 20.000 kroner lang vei, men der tok vi feil. 
+
+"Whitebox" er en betegnelse som ofte brukes på produkter uten noe spesielt merke, som regel fra såkalte OEM-produsenter av maskinvare. 
+Hønefoss-selskapet Whitebox 
+Data Systems har derimot gjort betegnelsen til sitt eget merkenavn. 
+Selskapet har spesialisert seg på import av bærbare PCer fra OEM-produsenter som Clevo, Compal og Elitegroup, og brander disse i Norge under Whitebox-navnet. 
+
+LES OGSÅ: 
+
+Kjært barn, mange navn 
+
+Dette er de slett ikke alene om på det norske markedet. 
+Både Zepto, Hattelco, Multicom og flere andre PC-leverandører her hjemme gjør det samme. 
+Du risikerer derfor å finne samme PC fra flere leverandører, men med forskjellige merkenavn. 
+Prisene kan derimot variere sterkt, og Whitebox er uten tvil blant de aller rimeligste leverandørene. 
+
+CL56 er en helt ny modell fra Compal, som er en av verdens største OEM-produsenter av bærbare PCer. 
+De produserer for øvrig PCer for blant andre HP og Acer, og PCer fra Compal har fått gode skussmål i en rekke av våre tester tidligere. 
+I følge Whitebox er de blant de aller første i verden som kan tilby en ferdig PC-løsning basert på CL56. 
+
+Vi drar umiddelbart kjensel på kabinettet, som er omtrent identisk med Zepto Znote 4100, som var en av våre absolutte favoritter i 2003-testen. 
+Eneste forskjellen vi kan se (foruten fargen) er at Whitebox-kabinettet har plastlokk, mens Zeptoen hadde metallokk. 
+
+Men på innsiden er det derimot temmelig store forskjeller, og her er en rask oppsummering av de viktigste tekniske dataene: 
+
+Intel Pentium M-prosessor 1,6 GHz (tilsvarer Pentium 4 2,4/2,6 GHz) 512 MB minne 60 GB 5.400 rpm harddisk 15" LCD-skjerm, oppløsning 1400 x 1050 piksler ATI Mobility Radeon 9700 grafikk, 128 MB minne Dual DVD-brenner (tar både + og - plater) 3 stk USB2.0-porter Firewire-port PC-card (PCMCIA) slot SD minnekortleser (erstatter diskettstasjon) IR-port parallellport VGA og TV-utgang 56 Kbit modem 802.11G trådløst nettverk (54 Mbit) 10/100 Mbit kablet nettverk Størrelse: 28 x 330 x 273 mm Vekt: 
+2,8 kg 
+
+Mye spennende 
+
+Det mest oppsiktsvekkende er selvsagt grafikkløsningen (som sannsynligvis er den aller raskeste på bærbar-fronten for øyeblikket), DVD-brenner som takler både DVD+R(W) og DVD-RW, samt 54 Mbit trådløst nettverk. 
+Sistnevnte er ikke Intel-basert, så PCen er ikke en ekte Centrino - selv om prosessoren er en Pentium M og brikkesettet heter i855. 
+
+I følge Whitebox vil 802.11G-løsningen muligens bli erstatt med en kombinert 802.11A/B/G-løsning fra Intel når denne foreligger, og dermed kan PCen smykke seg med Centrino-stemplet. 
+
+Stilrent 
+
+Designen er stilren og funksjonell i blågrå metallic. 
+DVD-brenneren sitter i fronten, og porter og tilkoblinger er logisk plassert på sidene og bak. 
+Tastaturet er meget fast, nærmest lydløst og behagelig å skrive på, tasteplasseringene er logiske, og mellomrom- og linjeskifttastene er store nok til at "touchere" aldri bommer. 
+
+Over tastaturet sitter to programmerbare hurtigknapper samt av/på-knappen. 
+Under tastaturet sitter en pekeplate og to knapper (venstre og høyre museknapp). 
+Synopsis-pekeplaten har innebygd skrollfunksjonalitet, dvs du skroller horisontalt og vertikalt ved å bevege fingertuppen frem og tilbake nederst, og opp og ned til høyre. 
+Praktisk. 
+
+Skjermen er skarp og lysstyrken er godt over middels. 
+Oppløsningen på 1400 x 1050 er etter vår mening den mest "riktige" på en 15" LCD. 
+
+Ytelsestester 
+
+Vi vet av erfaring at Pentium M er en ypperlig prosessor for bærbare PCer. 
+Den er klokket lavere enn Pentium 4, men yter langt mer pr MHz. 
+Strømforbruket og dermed også varmeutviklingen er dessuten langt lavere, og derfor vil Pentium M-baserte PCer svært ofte klare seg i timesvis på batterikraft, samtidig som de som regel er langt mer støysvak enn sine konkurrenter. 
+
+Whitebox 
+CL56 har på den annen side en kraftig grafikkløsning, som også krever en del strøm. 
+Det kan påvirke batterilevetiden i negativ retning, men vårt testresultat på 3 timer og 57 minutter er slett ikke verst i dette selskapet. 
+Det er omtrent der en Centrino bør ligge, mener vi. 
+
+Når det gjelder den øvrige ytelsen var den som ventet meget høy. 
+Grafikkytelsen er helt i toppklassen, og vi fikk også et høyere tall i 3DMark04 enn på de 9600-baserte løsningene vi har testet, selv om forskjellene var mindre enn vi på forhånd hadde trodd. 
+Det var uansett riktig morsomt å følge de forskjellige grafikktestene. 
+Den lett aldrende Quake 3D-testen gav oss for eksempel 181 bilder pr sekund. 
+Hvis du lurer på hvordan det så ut i praksis, kan du klikke på videoklippet under: 
+
+(tilsvarende test tok bortimot ett minutt på bærbare PCer vi testet for et par år siden). 
+
+Vi legger til at Whitebox 
+CL56 er musestille under alle forhold. 
+Viften starter innimellom under de aller tyngste operasjonene, men vi var nødt til å løfte PCen opp og legge øret inntil vifteåpningen for å høre om den i det hele tatt gikk. 
+Dette er selvsagt et stort pluss. 
+
+For detaljerte opplysninger vedrørende tekniske data og ytelsestestene, klikk her 
+
+Konklusjon 
+
+Dette er en meget bra bærbar PC til de fleste behov, verken mer eller mindre. 
+Utstyrsnivået er høyt, ytelsen er god, og PCen er lydløs. 
+Prisen er dessuten oppsiktsvekkende lav. 
+For mange vil dette kunne være en PC som erstatter den stasjonære PCen, og som samtidig er lett nok til at den innbyr til å ta med seg i felten, selv om et metallbelegg på lokket hadde gjort den enda bedre rustet i røffe omgivelser. 
+
+Lyden fra de interne høyttalerne er kanskje det svakeste punktet. 
+Vær dessuten klar over at prisen ikke inkluderer operativsystem, dette må du skaffe selv, alternativt kan du få levert PCen med Windows XP Home edition for rundt 920 kroner ekstra (inkl mva), får vi opplyst fra Whitebox. 
+
+Whitebox er et relativt lite og ukjent selskap, noe som helt sikkert vil gjøre enkelte betenkte med hensyn til oppfølging og garanti. 
+På den annen side er det ikke benyttet proprietære løsninger i denne PCen som er vanskelig å ersatte/oppgradere dersom PC-leverandøren skulle forsvinne fra markedet i fremtiden. 
+
+PCene selges med 2 års garanti, og CL56 vil i følge Whitebox være tilgjengelig i begynnelsen av april. 
+
+Her er våre anbefalinger knyttet til forskjellige bruksområder: 
+
+Spill: meget velegnet Video: meget velegnet Musikk: velegnet Internett- og kontoroppgaver: meget velegnet Bildebehandling: meget velegnet Grafisk design: meget velegnet Stille omgivelser: meget velegnet Mobilitet: velegnet 
+
+Les også vår test av Tundra 1557, som gir deg mye av det samme. 
+Du kan også sammenligne alle PCene vi har testet så langt i år ved å følge denne lenken 
+
+Mer nyttig fra DinSide Data: 

@@ -1,0 +1,66 @@
+ViewSonic AirPanel
+ViewSonic AirPanel representerer en strålende idé. 
+Jeg kan ta med meg skjermen fra PCen min, og bruke den hvor som helst i huset. 
+Takket være trådløst nettverk og trykkfølsom skjerm, kan jeg enkelt fjernstyre maskinen, benytte menyer og til og med skrive, helt uavhengig av tastatur og mus. 
+
+Når dette skrives, sitter jeg hjemme i stuen min, med en skjerm på fanget. 
+Takket være denne kan jeg surfe på internett -- uten en PC i rommet. 
+Alle programmene jeg har tilgjengelig på hjemme-maskinen min, kan brukes direkte, i og med at skjermen egentlig er en "fjernstyring" av denne PCen. 
+
+LES OGSÅ: 
+
+Realiteteten er at jeg nå har brukt skjermen i fire dager, uten å bli det minste lei. 
+Det har faktisk vært morsomt å lese -- og svare på -- eposter, benytte nettet, lese alle mine favorittmagasiner og aviser helt uavhengig av PC og tastatur. 
+Jeg innrømmer gjerne at skjermen har sine feil -- som jeg kommer tilbake til siden. 
+Men det er neppe tvil om at ViewSonic her har laget en første generasjon av en type produkt vi vil se mye til i årene som kommer. 
+
+ViewSonic AirPanel V150 Wireless Smart Display er ikke en Tavle-PC (eller Tablet-PC som man kaller det i mer engelskspråklige land). 
+Den er -- som navnet sier -- en skjerm som er litt "smartere" enn skjermer flest, med innebygget 400 MHz Intel XScale-prosessor, Windows CE for Smart Display operativsystem og støtte for trådløst nettverk. 
+Den kan ikke brukes på egenhånd som PC -- den krever at du allerede har en maskin med Windows XP Pro installert (XP Pro følger med skjermen). 
+
+Takket være god programvare (hvem hadde egentlig forventet det i første versjon?) er det bare å stikke den medfølgende CDen inn i PCen, og gjøre som instruert. 
+Det følger en trådløs basestasjon med skjermen -- for min egen del trengte jeg ikke denne i og med at jeg allerede har installert trådløs nettverk -- dermed var det bare å vente på at CDen installerte fjernstyringsmodulen i PCen og gjorde seg ferdig. 
+Skjermen fungerte umiddelbart 
+-- under fem minutter etter at jeg hadde pakket den opp hjemme. 
+
+Bruk fingen 
+
+Foran på AirPanel finner man noen få knapper; til venstre to "museknapper" og til høyre av/på-knapp, tastatur-knapp og en knapp som starter skjermens innebygde "kontrollpanel". 
+Under denne igjen, finner man en manøvreringsknapp for å bevege pekeren rundt på skjermen. 
+Skjermen er trykkfølsom, så man kan i og for seg benytte fingrene og andre ikke-spisse gjenstander til å bevege seg rundt, og ettersom den kommer med to "penner", slapp vi heldigvis å benytte den litt håpløse manøvreringsknappen. 
+
+AirPanel er i utgangspunktet ikke ment å erstatte skjermen du har på PCen din. 
+Den har f.eks. ikke egen skjerminngang -- av en eller annen besynderlig grunn. 
+Skal man benytte den som hovedskjerm, er man nødt til å kjøpe en "dokkingstasjon", hvor man ikke kan justere bruksvinkelen. 
+Det skal mye tilfeldigheter før man "treffer" med den vinkelen ViewSonic har valgt, selv valgte jeg kjapt å gå tilbake til min "gamle" skjerm -- nettopp på grunn av vinkelen. 
+
+Når AirPanel er i bruk, kan ikke andre bruke PCen, til tross for at den altså står der med egen skjerm. 
+Begrensingen ligger her i Windows XP. 
+
+Skal man skrive på AirPanel, kan man velge mellom et virtuelt tastatur eller skriftgjennkjenning. 
+Til tross for at sistnevnte faktisk var overraskende god (det sier kanskje mer om forventningene mine enn om at det virkelig fungerte godt), ble det til at jeg benyttet tastaturet. 
+Ingen av metodene er egentlig særlig effektive dersom man virkelig er nødt til å skrive mye tekst, men dette er jo heller ikke intensjonen bak produktet. 
+Man kan koble mus og tastatur direkte til skjermen, men et virtuelle tastaturet er imidlertid helt OK når man skal svare kort på eposter, skrive inn nye internettadresser osv. 
+Skal man benytte de tre særnorske bokstavene, må man gå via en egen tast -- det er umulig å sette opp AirPanel med norsk tastaturlayout. 
+
+Dersom noen ønsker å bruke skriftgjennkjenningen, bør de være oppmerksom på at man ikke kan hvile hånden på skjermen når man skriver, noe som også gjør det vanskeligere å skrive noenlunde skikkelig. 
+
+Størrelsen teller 
+
+AirPanel finnes i flere størrelser, vi testet 15 tommers utgaven som etter vår mening var både litt i største og litt i dyreste laget. 
+Den veier rundt tre kilo, og til tross for at vi faktisk har hatt mye glede av skjermen, er den ikke så altfor behagelig å bære rundt omkring. 
+Vekten gjør at man ikke orker å holde den i en noenlunde tilfredsstillende vinkel, og la vi den på låret, ble vinkelen i forhold til skjermbildet for stor. 
+Dessverre -- og dette kom litt overraskende på oss etter å ha sett på flere tavle-PCer -- kunne vi ikke velge om vi ønsket å benytte skjermen på høykant, den kunne bare brukes i "breddeformat". 
+
+Etter å ha testet diverse ViewSonic-produkter de siste årene, kommer det ikke som noen overraskelse at ViewSonic Airpanel V150 Wireless Smart Display fungerte strålende. 
+Selve skjermbildet var bra, den medfølgende programvaren utmerket, og fjernstyringen fungerte mer enn tilfredsstillende. 
+Men: 
+Det medfølgende utstyret, som trådløs basestasjon og full utgave av Windows XP Professional, gjorde at prisen ble relativt høy. 
+Og selv om vi generelt mener PC-skjermer skal være så store som mulig, tror vi i dette tilfellet at det beste nok hadde vært en mindre AirPanel -- gjerne 10-tommers-utgaven. 
+
+Kjekt å ha? 
+
+AirPanel virket overraskende godt for å være en tidlig utgave av en helt ny type produkter, og jeg er ikke i tvil om at det finnes mange spennende nye bruksområder for en slik skjerm. 
+En skikkelig "tavle" vil bli vanlig hos nokså mange nettbrukere -- men i så måte har ViewSonic to utfordringer: prisen og vekten. 
+Denne saken koster like mye som en bærbar PC, og veier faktisk også like mye. 
+Riktignok får man med både Office Pro og en trådløs basestasjon i prisen -- noe mange brukere forøvrig har fra før av -- men det er ikke nok. 

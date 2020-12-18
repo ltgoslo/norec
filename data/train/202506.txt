@@ -1,0 +1,112 @@
+Sony DCR-SR80
+TEST: 
+Trykksensitiv skjerm og stor lagringsplass, på tross av en nokså hyggelig pris. 
+Bildekvaliteten er imidlertid ikke helt på topp. 
+
+Kameraer fra Sony byr sjelden på overraskelser - vi har tidligere testet DCR-DVD205 og HDR-HC3, og også dette kameraet følger akkurat den samme lesten. 
+Så fort du stikker hånda igjennom stroppen, vet du akkurat hvordan kameraet slås på, hvordan menyen fungerer og hvor du skal trykke. 
+
+Det kanskje viktigste punktet bruksmessig, er den trykkfølsomme LCD-skjermen. 
+Ikke bare er den trykkfølsom, men den gir også et veldig godt bilde; også i vanskelige forhold som sollys utendørs. 
+Sammenlignet med JVC-kameraet vi også har testet i denne omgangen, gir skjermen også en mer nøytral fremstilling av bildet. 
+
+Skjermen er 2.7" stor og i 16:9-aspekt, med en oppløsning på 123.000 piksler. 
+På venstre side av skjermen finner du knapper for start/stopp av opptak, samt knapper for å zoome ut og inn. 
+Dette er for øvrig knapper du også har tilgjengelige på høyre hånd, men det kan være greit å ha valgmuligheten. 
+Menyen får du så opp ved å berøre "P-menu" nederst i hjørnet. 
+Da får du opp forsiden på menyen, der du selv kan konfigurere menyelementene slik at du får rask tilgang til de du bruker mest - et stort pluss. 
+Ved å gå inn i "Setup" får du hele menyen tilgjengelig, og du kan bla med oppover- og nedoverpil og trykke OK for å forandre en innstilling. 
+
+Kjekk spotfokusering 
+
+Den trykkfølsomme skjermen kan også brukes til spotfokusering og -eksponering, der du ganske enkelt peker på skjermen på det du ønsker å fokusere på. 
+
+På innsiden av skjermen finner du tre knapper: 
+"Wide select", som lar deg bytte mellom 16:9 og 4:3, "Disp", som lar deg bestemme detaljnivået på skjerminformasjonen, og "Easy", som tar fra deg så og si alt av innstillingsmuligheter - kjekt når kona andre skal bruke kameraet, og du ikke vil at de skal tukle med innstillingene dine. 
+SR80 har også såkalt Info-Lithium-batteri, som viser på minuttet hvor mye batterilevetid som er igjen øverst i hjørnet. 
+
+Batterilevetiden på dette kameraet er for øvrig meget god - oppgitt til en drøy halvannen time; omtrent det dobbelte av JVC-kameraet. 
+Vi savner imidlertid informasjon om hvor mange minutters opptak som gjenstår på harddisken - via menyen kan du få en oversikt over hvor stor plass som er igjen (i bytes), men ikke minutter ved ulike kvalitetsinnstillinger slik du gjør på JVC-kameraet. 
+Til opplysning får du også kjøpt tilleggsbatteri som varer i opp til seks timer. 
+
+Kameraet slås på ved å bruke modushjulet på høyre tommelfinger, og er klart til bruk relativt raskt - snaue seks sekunder målte vi fra vi skrudde på kameraet til LCD-bildet viste at kameraet var klart til dyst. 
+
+Stor harddisk 
+
+Harddisken på SR80 er 60GB, som gir deg 14 timer med den beste opptakskvaliteten. 
+Video lagres i MPEG2-format, og CCD-sensoren er 1/3" stor med effektiv oppløsning på 0,67 megapiksler, som er vesentlig svakere enn storebror og kameraet fra JVC. 
+Optisk byr kameraet på 12x zoom, med vidvinkel tilsvarende 46mm i 35mm-format (gjelder 16:9). 
+Største blender på vidvinkel er f/1,8, mens det er litt mindre lyssterkt i teleenden med f/2,5. 
+Vi synes det er positivt at kameraet har innebygget linsedeksel, som gjør at du slipper å ha ett hengende og slenge på kameraet mens du filmer. 
+
+Lukkertiden kan ikke settes manuelt, men automatikken kan variere den fra 1/3s (i super nightshot plus) til 1/3500s. 
+Super Nightshot plus virker å være den eneste teknologien som faktisk kan gi deg et bilde selv om det er bekmørkt, på bekostning av bilder pr sekund, naturligvis. 
+Fra Sony har vi også fått opplyst at kameraet har en sensor som registrerer plutselige fartsendringer, og mister du kameraet, vil harddiskhodene raskt kobles fra for å minimere skader på harddisken. 
+
+Selv om det i hovedsak er skjermen som brukes for å betjene kameraet, betyr ikke det at du ikke kan operere det med én hånd. 
+Høyre hånd har tilgang på det mest elementære av funksjoner - du kan starte og stoppe opptak, zoome inn og ut, samt ta stillbilde. 
+På stillbildefronten har ikke kameraet mye å slå i bordet med - 1 megapiksel kan ikke brukes til så veldig mye. 
+En ulempe er at du blir nødt til å sette videokameraet i en egen kameramodus for å kunne ta stillbilder, til tross for at du har en egen utløserknapp som burde kunne brukes når som helst. 
+
+Den trykkfølsomme skjermen gjør det veldig enkelt og greit å se på video i kameraet. 
+Klippene struktureres pr. dag, og et trykk på opp- og nedoverpil bytter innspillingsdagen. 
+Du kan også trykke på en egen flipp til stillbilder, samt at du kan slette klipp, skrivebeskytte dem og et par andre veldig enkle operasjoner. 
+Hvert klipp er representert med et lite ikon, og trykker du på ikonet, startes opptaket. 
+Du kan bytte til neste og forrige opptak, samt spole, pause og stoppe avspillingen. 
+
+Ikke standard mikrofoninngang 
+
+Mikrofonen er plassert i front, under objektivet og er av standard videokamerakaliber - spesielt sensitiv for vind, som gjør at det skraller litt i kameraet. 
+Positivt er det imidlertid at det ikke er noe lyd fra drivverk som bråker, slik det har lett for å gjøre spesielt på miniDV-kameraer. 
+Du kan imidlertid koble til en ekstern mikrofon som vil gi bedre lydkvalitet - det eneste minuset er at det ikke finnes noen standard kontakt, og at derfor du blir nødt til å koble på Sonys proprietære mikrofoner. 
+Dette gjør du via skoen på toppen av kameraet, som også brukes for å koble på blits/ekstern lyskilde. 
+
+Kameraet har også noen porter under skjermen, til fjernkontroll, lyd/bilde ut og strøm for lading av batteriet. 
+For å koble til en PC, blir du nødt til å sette kameraet i den medfølgende krybba. 
+
+Medfølgende programvare er ImageMixer og elektronisk manual. 
+Vi synes nesten det er merkelig at Sony legger ved en haug av manualer på 16 forskjellige språk (2 og 2), men ingen på norsk (svensk, dansk og engelsk følger blant annet med). 
+Det følger også med en trådløs fjernkontroll, som lar deg styre både innspilling og avspilling. 
+
+Overføring til PC 
+
+Overføring til PC skjer via det medfølgende programmet ImageMixer. 
+Her kan du enten koble til og overføre filer til harddisken, ta en DVD-backup med ett trykk, lage playlist eller redigere film. 
+Kameraet kommer også opp som en egen stasjon i Windows med MPG- og JPG-filer som du kan kopiere inn manuelt. 
+
+Redigeringsprogrammet som følger med er ikke videre avansert, noe tittelen avslører ("MPEG cutter") - du kan åpne et klipp, definere start og stoppunkter for ulike kutt og deretter lagre dem til egne filer. 
+Du kan ikke lage overganger, sette sammen kutt fra ulike klipp etc. 
+
+Videokvalitet 
+
+Sammenlignet med kameraet fra JVC, er det først og fremst fargenivået og dynamikken som er svakere på Sony-kameraet, og det ganske markant. 
+Her klarer ikke Sonys ene CCD-brikke å holde følge med 3CCD-systemet til MG505. 
+Spesielt gjelder det når lystilgangen blir dårlig - i en av våre tester senket vi lyset gradvis foran en knallrød vegg, og sammenlignet fargenivået på gitte tidspunkt. 
+Resultatet var slående i disfavør Sony, noe du kan se under (Sony til venstre): 
+
+Også autofokusen får litt problemer i dårlig lys, men er ellers rask. 
+På en av våre tester, der vi skifter mellom å fokusere på noe veldig nærme og noe på et par meters avstand, bruker autofokusen et drøyt halvsekund på å hente seg inn, og det var raskere enn JVC-kameraet. 
+Enda mer imponerte er vi imidlertid over lysmåleren, som vi opplever som svært rask når den skifter fra lyse til mørke omgivelser. 
+I tillegg er det ingen tvil om at Super SteadyShot fungerer bedre enn bildestabilisatoren fra JVC, selv om en optisk stabilisator hadde vært å foretrekke. 
+Objektivet har for øvrig nokså lav fortegning 
+
+Sony har også en meget god nattmodus, som riktignok ikke gir noen farger, men heller filmer med Big Brother-grønt. 
+Aktiveres superutgaven, kan du filme med enda mindre lys tilgjengelig, mot at bildet bare oppdateres 3-4 ganger i sekundet. 
+Stillbildekvaliteten er, som nevnt, ikke spesielt god - én megapiksel med relativt mye støy og dårlig dynamikk, som du kan se eksempel på under: 
+
+Når det gjelder lyden, er det lite som skiller kameraene. 
+Støy fra drivverk er fraværende, og stereoseparasjon er helt OK på begge kameraer. 
+
+Konklusjon 
+
+Kameraet fra Sony er billigere enn MG505 fra JVC - faktisk er det nesten 3.000 kroner som skiller dem. 
+SR80 har både positive og negative egenskaper i forhold til JVC-kameraet - bildekvaliteten, som de fleste vil være enige i at er det viktigste, er ikke like god som hos konkurrenten. 
+Bildene fra Sony-kameraet blir fort blasse i dårlig lys, selv om nattmodusen fungerer langt bedre enn de fleste konkurrenter. 
+Stillbildefunksjonen er heller ingenting å skrive hjem om - én megapiksel med relativt laber kvalitet. 
+
+SR80 har imidlertid andre egenskaper som er verdt å trekke frem - bedre bildestabilisator, dobbelt så stor lagringsplass og langt bedre batterilevetid er definitivt å sette pris på. 
+SR80 er også enklere å bruke, mye på grunn av en trykkfølsom skjerm. 
+Dessverre mangler det litt på tilkoblingsfronten - for å koble til ekstern mikrofon, for eksempel, blir du nødt til å kjøpe en proprietær mikrofon fra Sony, som i tillegg legger beslag på skoen for tilkobling av blits. 
+Den medfølgende programvaren er heller ikke mye å skryte av og kan ikke brukes til stort. 
+
+Når vi tar prisen med i betraktningen synes vi allikevel SR80 er et greit kjøp, uten at vi helt lar oss rive med. 

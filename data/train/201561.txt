@@ -1,0 +1,101 @@
+Samsung NV10
+TEST: 
+Med et revolusjonerende menysystem og oppsiktsvekkende retro-design, er NV10 fra Samsung noe av det lekreste vi har hatt i lomma på en stund. 
+Hva så med bildekvaliteten? 
+
+Samsung er en av produsentene som er i ferd med å markere seg på digitalkameramarkedet. 
+De har riktignok laget lommekameraer noen når nå, men med nytt speilrefleks på trappene og tre nye kameraer denne høsten, er det ingen tvil om at sør-koreanerne mener alvor i kampen om forbrukerne. 
+
+Av de nye lommekameraene er det dette som er toppmodellen. 
+NV10 tar bilder med 10 megapikslers oppløsning, men er først og fremst oppsiktsvekkende på grunn av meny- og knappesystemet. 
+
+Til å begynne med kan det kanskje se overveldende ut. 
+Rundt skjermen er det nemlig plassert sju knapper på undersiden som det ikke står noe på og seks knapper på høyre side. 
+Annet enn det, finnes bare en knapp for visning av bilder og zoomkontrollen. 
+Men - etter å ha brukt det i noen minutter, finner du raskt ut at dette designet faktisk var både morsomt og lett å bruke, og det blir spennende å se om flere følger etter med slik tankegang fremover. 
+
+Cluet er som følger: 
+Menyen er delt opp som en matrise (en tabell). 
+Når kameraet står i "vanlig" modus - med søkerbildet, er det et lite ikon knyttet til hver av tastene rundt. 
+Når du så trykker på knappen for f.eks. blits, bruker du knappene langs den andre aksen for å velge blitsinnstilling. 
+Selv om ikke alle ikonene er like intuitive, er også knappene følsomme for berøring (forskjellig fra trykk), som gir utvidet informasjon om menyvalget. 
+Vi savner imidlertid at følsomheten hadde vært noe mer presis, og det er ikke alltid at kameraet registrerer berøringer skikkelig. 
+
+Vi har snekret sammen en liten video som viser hvordan menysystemet fungerer: 
+
+Det er imidlertid flere detaljer ved designet som fanger oppmerksomhet. 
+Blitsen, for eksempel, som i ekte retro-hånd spretter opp ved behov, og som ellers ligger skjult på toppen av kameraet. 
+I tillegg er kamerahuset i sort, børstet aluminium, som kjennes tungt og solid ut i hånda. 
+
+Grepet er behagelig - utformet på en slik måte at langfingeren får sin naturlige posisjon og gjør at kameraet er lett å holde med én hånd. 
+På høyre side finnes også et funksjonshjul, som lar deg bytte mellom følgende modi: 
+
+Auto 
+- Gir deg begrenset kontroll: 
+Farge/lysstyrke, oppløsning, blits av/på og makro.P 
+- Her kan du stille på det meste: 
+Flere valg i forhold til blits, lysmåling, seriefoto, skarphet, ISO, hvitbalanse, eksponeringskompensasjon etc. 
+Kameraet mangler dog noen av de mer avanserte funksjonene, som histogramvisning og manuell fokusering.M 
+- Gir deg også kontroll over blender- og lukkertid. 
+Styringen av blenderåpning er ikke helt fri, men lar deg velge mellom to ulike verdier.Advanced shake reduction 
+- Fungerer som auto, men slår av blitsen og bruker høyere ISO-verdier for å begrense uskarpheten.E 
+- Effekter. 
+Lar deg velge rammer, lage animerte GIFer etter stop motion-prinsippet, fargefiltre etc.Scene - Motivtyper - fyrverkeri, portrett, soldnedgang etc.Film - Lar deg spille inn videooptakFotoalbum 
+- Visning av bilder, katalogisering i ulike album etc. 
+
+Objektivet er laget av Scnheider-Kreuznach og har en brennvidde tilsvarende 35-105mm, som er helt OK for denne typen kamera. 
+Lysstyrken er gode f/2,8 på vidvinkel, mens vi i teleenden gjerne skulle ha ønsket oss litt bedre tall enn f/5,1. 
+Makronærgrensen er fire centimeter. 
+ISO kan justeres manuelt opp til ISO 1000, og lukkertiden kan settes så høyt som 15 sekunder. 
+Batterilevetiden er oppgitt til 180 bilder etter CIPA-standarden, som er litt tynt, men et plusspoeng får Samsung fordi lademekanismen er noe av det mer elegante vi har sett. 
+Enten kan du lade det via USB-porten, eller så plugger du USB-enden (den lange flate) rett i en overgang til stikkontakt og videre i veggen. 
+
+LCD-skjermen er svært god på dette kameraet. 
+Den har en høy oppdateringsfrekvens selv i dårlig lys, som riktignok gir et mørkere bilde, men med mindre grums. 
+Den er 2,5" stor, høytoppløselig og veldig lyssterk. 
+Vi har imidlertid grunn til å tro at den kunne ha vært bedre i sollys, siden belegget er veldig blankt og vi lett ser refleksjoner fra glasset. 
+Informasjonen i displayet er upåklagelig, og det nevnte berøringssensitive knappesystemet gir utvidet informasjon om de ulike ikonene. 
+
+Som nevnt kan du også filme med kameraet, og filmene lagres i DivX-format med 328kb/s bitrate, som gir god kompresjon og relativt god kvalitet, noe du kan se ekempel på her: 
+
+Ytelse 
+
+Ytelsen blir ikke noe spesielt salgsargument for NV10. 
+Oppstarten går på drøye to og et halvt sekund, og det er et godt stykke bak de beste kameraene i denne klassen, og den nevnte batterilevetiden, som er tre ganger så kort som enkelte av konkurrentene, trekker naturligvis ned. 
+Seriefotograferingen er heller ikke spesielt rask, og ved bruk av stabilisatoren blir kameraet enda tregere i bruk. 
+Ved bruk av rammer etc. tar det også ganske lang tid frem til bildet er prosessert og kameraet er klart for nytt bilde, og autofokusen presterer ikke spesielt godt i forhold til konkurrentene. 
+
+Her er vår vanlige ytelsestabell: 
+
+Bildekvalitet 
+
+Frem til vi hentet bildene inn på PCen, var vi godt fornøyde med kameraet fra Samsung. 
+Dessverre skulle det inntrykket få en liten knekk. 
+
+Bildene fra NV10 er nemlig et godt stykke under par. 
+Støy melder seg markant allerede på ISO 200 (og er faktisk godt synlig på ISO 100). 
+400 kan til nød gå til 10x13cm-utskrifter, men over det er det lite å spare på. 
+Det dynamiske omfanget er heller ikke godt nok, og veldig ofte mister vi detaljer i de mørke partiene av bildet. 
+Detaljene blir også redusert ved økt ISO-verdi, noe du ser under: 
+
+Positivt er det imidlertid at lysmåleren som regel gjør en god jobb - i hvert fall når du ikke bruker blits. 
+Den undereksponerer riktignok ofte en smule, men sørger samtidig for at detaljer i høylysene beholdes i de fleste tilfeller. 
+Kameraet har heller ingen problemer med vignettering. 
+Kromatisk feilbrytning er noenlunde moderat - synlig her og der, men på ingen måte verst i klassen. 
+
+Innendørs med blits er vi passe fornøyde. 
+Eksponeringen varierer litt - noen blekansikter her og der, mens kameraet i de fleste tilfellene har kontroll. 
+De fleste av bildene, både med og uten blits, er svært fargesterke; spesielt når det gjelder røde farger som noen ganger fremkommer som blødende. 
+
+Konklusjon 
+
+Delte følelser for Samsung, med andre ord. 
+NV10 er unektelig et lekkert skue, og det nye menysystemet synes vi er en veldig god idé: så og si alt av funksjoner tilgjengelig med to tastetrykk. 
+I teorien er kameraet veldig brukervennlig, men dessverre er ikke implementasjonen av trykkfølsomme knapper helt 100%, som gjør at kameraet ikke alltid er like "smooth" å betjene. 
+Det er litt dumt, siden det i stor grad ødelegger hovedargumentet for å kjøpe kameraet. 
+
+Ankepunktet blir imidlertid bildekvaliteten - spesielt med tanke på støy, som er synlig selv på ISO 100. 
+Det gjør at bildene ikke bør blåses opp til noe særlig mer enn A4 med mindre det er utendørsbilder i godt lys, og da setter vi spørsmålstegn ved om det egentlig er så nødvendig med ti megapiksler på dette kameraet. 
+I tillegg er prislappen på tre og et halvt tusen en av de stivere på kompaktmarkedet. 
+
+For den designbevisste som er ute etter et kult kamera, derimot, og som ikke ser for seg å skrive ut bilder mer enn i 10x13cm, kan Samsung NV10 være verdt en titt. 

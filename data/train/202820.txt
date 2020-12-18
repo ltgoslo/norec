@@ -1,0 +1,102 @@
+TEST:Shuttle XS 3510MA 
+
+Den er flat, liten og leverer det den skal. 
+
+Shuttle var tidlig ute med små PC-er, som i sin tid ble kalt mini-PC-er. 
+I dag er dette formatet ikke lenger "mini", men likevel lavt i forhold til ordinære stasjonære PC-er. 
+
+Men små PC-er er praktiske i visse sammenhenger, spesielt hvis de i tillegg er støysvake og kraftige nok. 
+Her kommer den nye XS35-serien inn i bildet. 
+
+Dette er maskiner som er bare litt større enn en tradisjonell ekstern harddisk. 
+Den er basert på den nyeste ION2-platformen som består av en dobbeltkjerne Intel Atom prosessor kombinert med grafikkbrikke fra nVidia. 
+Dermed får du en nærmest lydløs maskin, det eneste som roterer og kan lage litt støy er harddisken og DVD-drevet. 
+
+Opp å stå 
+
+Maskinen er nærmest perforert, bare på kortsidene er det hele paneler med åpninger til optisk drev eller tilkoblinger. 
+Ellers består kabinettet av et metallgitter med plast på utsiden, med et utall åpninger. 
+
+Maskinen er laget for å stå oppreist, og det følger med en fot som skrus fast på den ene langsiden. 
+Det er ingen føtter, og det står uttrykkelig at maskinen skal plasseres på høykant, enten med foten eller et alternativt feste for montering på baksiden av en skjerm med VESA-feste. 
+
+Tilkoblinger 
+
+Alle kontakter sitter på kortendene, som blir foran og bak når maskinen står på foten. 
+
+På forsiden finner vi optisk drev. 
+På vårt testeksemplar var dette en DVD-brenner, men det kan også monteres et slimline Blu-ray drev eller en harddisk ved hjelp av et adapter. 
+
+Ved siden av drevet finner vi en USB-kontakt og en kortleser for flere formater opp til SD-kort. 
+
+På baksiden finner vi en åpning for Kensington lås, minijacker for mikrofon og hodetelefon/linje, 100 Mbit nettverk, 4 USB-kontakter, VGA, HDMI (kan brukes samtidig i flerskjemsløsning) og kontakt for strøm. 
+
+Strømforsyningen er ekstern, men heldigvis svært liten. 
+
+Hva med surroundlyd? 
+
+Maskinen har bare digitallyd ut på HDMI-kontakten, ikke på noen separat SPDIF-kontakt. 
+Har du en moderne receiver med HDMI, eller en TV med flere HDMI innganger og digital lydutgang til en eldre receiver, så kommer du i mål når du skal ha surroundlyd. 
+
+I bruk 
+
+Vi koblet maskinen til en full HD TV med HDMI, og det fungerte utmerket. 
+Responsen er god til surfing og enkle oppgaver, og alle former for video, inkludert HD i 1080p i forskjellige formater lagret på interndisken fungerte som det skulle. 
+
+Vi koblet den også til en eldre HD ready plasma med oppløsning på 1024x768 for avspilling av video fra vårt hjemmenett. 
+Vi brukte tilkobling med VGA, som er det eneste som gir et fornuftig skjermbilde i Windows. 
+Maskinen valgte selv denne oppløsningen og bildet ble som det skal, men nødvendigvis strukket i bredden. 
+
+Avspilling av video skulle vise seg å by på noen utfordringer. 
+Med VLC som avspiller - som fungerte fint til avspilling av innhold fra interndisken - var det ikke sjans å få spilt av MKV-filer i 1080p. 
+Det var total katastrofe. 
+Andre mediespiller var ikke stort bedre. 
+Men med Media Player Classic Home Cinema ble det noe annet! 
+Da fungerte alt helt strøkent. 
+
+Hva dette skyldes er nok sammensatt, vi mistenker både bufring av nettverksdata og utnyttelse av grafikkprosessoren. 
+Vi testet sanntidsreponsen med DPC-checker og det var ikke pent. 
+Forsinkelser på rundt 1000 mikrosekunder var i overveldende flertall, og maskinen med de installerte driverne er ikke egnet for sanntidskritisk bruk. 
+
+Windows 7 opplevelsesindeks ble målt til 3,3 begrenset av den ordinære grafikken. 
+Spillgrafikken klarte seg langt bedre med 4,6. 
+Prosessoren er heller ikke i den ypperste klassen, men 3,4 er absolutt til å leve med. 
+
+Vi kjørte også PCMark Vantage og fikk 1936 PCMarks. 
+Dette er ganske beskjedent, sammenlignet med den lille maskinen fra Asrock med Core i3 prosessor som vi testet nylig som klarte 5347. 
+
+Men til surfing og video er ytelsen likevel tilstrekkelig, hvis du velger riktig programvare. 
+
+Støy og varme 
+
+Støy er det praktisk talt ikke noe av, det eneste er såvidt hørbar knitring fra harddisken når det er helt stille i rommet. 
+
+Maskinen blir litt varm på toppen, men ikke verre enn at man fint kan holde hånden over så lenge man gidder. 
+
+Strømforbruket ligger på under 30 watt ved full aktivitet, typisk rundt 20 watt ved beskjeden bruk. 
+I standby bruker den bare 2,6 watt. 
+
+Fleksibel serie 
+
+Vårt testeksemplar er en variant i en serie med modeller som kan konfigureres etter behov. 
+Den leveres i utgangspunktet som en "barebone", som er en grunnkonfigurasjon bestående av kabinett og hovedkort med prosessor. 
+Så kan du sette inn minne og lagringsenheter etter behov. 
+
+Har du en hjemmeserver kan du klare deg med en liten SSD som systemdisk og droppe både harddisk og optisk enhet. 
+
+Du kan også sette inn en hybrid-disk og en slimline Blu-ray enhet for å få en komplett mediemaskin hvis det er det du ønsker. 
+
+Konklusjon 
+
+Shuttle XS 3510MA er en snerten og omtrent lydløs maskin som egner seg godt til mediePC eller til annen enkel bruk. 
+Med passende programvare presterer den tilstrekkelig, men krevende oppgver med ditto programvare kan bli for tøft. 
+
+Maskinserien kommer i salg i løpet av kort tid, men noen dato har vi ikke fått oppgitt. 
+
+Listepris på vårt eksemplar er 5220 kroner, med Windows 7 Home Premium. 
+Du finner fullstendig prisliste fra Shuttle her. 
+
+Disse prisene er høyere enn hva de faktiske prisene kommer til å ligge på. 
+Den rimeligste barebone-utgaven uten ION2, men med Intels egen integrerte grafikkløsning, ligger på 1795 kroner i nettbutikkene. 
+Denne skal fremdeles kunne spille av HD-filmer, men vil slite med spill. 
+Prisen inkluderer ikke minne, harddisk eller optisk drev, og heller ikke operativsystem. 

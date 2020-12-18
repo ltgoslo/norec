@@ -1,0 +1,164 @@
+LG G3
+Første modell på det norske markedet med QHD-skjerm. 
+
+NB! 
+LG har sendt oss et nytt testeksemplar etter at denne testen ble publisert fordi de mistenkte at vi hadde mottatt et ikke-produksjonsklart eksemplar av telefonen. 
+Det viste seg å være sannsynlig, for etter å ha kjørt det nye eksemplaret gjennom harde tester, har vi ikke klart å fremprovosere hverken varmeproblemet eller ytelsesproblemet. 
+Derfor er denne artikkelen oppdatert med kursiv tekst, og terningen har fått en ekstra prikk. 
+
+Hvor høy skjermoppløsning er godt nok? 
+
+Vi stiller oss spørsmålet etter å ha brukt LG G3 den siste uka, for skal vi være ærlige, er det liten forskjell å merke på denne og en full HD-skjerm, som er vanlig blant de øvrige toppmodellene i dagens marked. 
+
+Vi ser det riktignok på nært hold, men vi må innrømme at vi i det vanlige ikke tenker over at denne skjermen er skarpere enn øvrige toppmodeller. 
+
+LG stiller nemlig med svimlende 2560x1440-oppløsning i sitt siste flaggskip, LG G3, og fordelt på en 5,5 tommers skjerm tilsvarer dette en punkttetthet på 538 punkter per tomme; altså over 20 punkter per millimeter. 
+
+Til sammenligning har toppmodellene fra Samsung og Sony henholdsvis 432 og 424 punkter per tomme, mens iPhone 5s kan skilte med 326 punkter per tomme. 
+
+Svært mye skjermflate 
+
+I likhet med forgjengeren, LG G2, er det også på denne telefonen svært mye skjermflate i forhold til fotavtrykket den gir, med svært tynne kanter på sidene og knapper i selve skjermbildet, slik at det ikke finnes noen på undersiden av skjermen. 
+Derfor er den bare marginalt større enn Samsung Galaxy S5 (5,2 tommers skjerm). 
+
+Skjermen er selvsagt knivskarp og har meget god fargegjengivelse og innsynsvinkel på grunn av IPS-panelet. 
+Den har imidlertid ikke spesielt godt sortnivå og virker noe fattig på kontrast sammenlignet med de beste. 
+
+På toppen av skjermen finnes også en IR-sender, som gjør at du kan bruke telefonen som fjernkontroll via den medfølgende appen. 
+Telefonen kan også læres opp slik at den kan styre praktisk talt alt som mottar IR-signaler. 
+
+Knappene bak 
+
+LG har fortsatt med å plassere volumknapper og strømbryter på baksiden av telefonen; under kameraet. 
+Det gikk overraskende fort å venne seg til det, men vi setter et spørsmåltegn ved om denne plasseringen er den beste: 
+
+Vi trykker litt for ofte på en volumbryter i stedet for strømknappen. 
+Det er tungvint å ta skjermbilder (strømknapp + volum ned samtidig). 
+Vi tar ofte på kameralinsa, som gjør at den får fettmerker.Knappene er lite tilgjengelige når telefonen er plassert i en bilholder. 
+
+Verdt å merke seg er også at lokket kan tas av, som gjør det mulig å bytte batteri og bruke minnekort, noe man ikke kunne på forgjengeren. 
+Batteriet er for øvrig 3000mAh og hadde få problemer med å vare en hel dag under testingen, men ikke så mye mer enn det. 
+
+Bank inn koden 
+
+Skjønt; man må ikke bruke strømbryterknappen for å slå på telefonen. 
+LG lar deg, som på forgjengeren, banke to ganger på skjermen for å tenne den og har også støtte for det de kaller Knock code; en slags PIN-kode du angir ved å banke på skjermen når den er avslått. 
+Her er skjermen delt opp i fire seksjoner, der du må trykke mønsteret du har angitt for å låse opp telefonen direkte. 
+
+Det fungerer ganske greit, men litt for ofte opplever vi at vi møter en rød LED-pære som angir at koden var feil slik at man må prøve på ny. 
+Ved fem feil, må du heller bruke en PIN-kode du selv definerer på forhånd. 
+
+Du kan også prikke to ganger på bakgrunnen på hjemskjermen for å slukke skjermen. 
+
+Spesielle funksjoner 
+
+Under er noen av funksjonene som er dels unike for LG G3: 
+
+Dual Window – Lar deg splitte skjermen i to og kjøre to apper samtidig. 
+Du kan også regulere fritt hvor grensen mellom dem skal gå, så de trenger ikke å dele 50/50.Kamerasnarvei - Når skjermen er slukket kan du bruke volumknappene som snarveier til hver sin app. 
+Fungerer dog ikke mens du spiller musikk.QSlide - Enkelte apper lar seg kjøre i et lite, halvgjennomsiktig vindu slik at du kan gjøre andre ting samtidig.Stillemodus - Kan brukes om natten for å deaktivere ringing, vibrering, LED-blink etc.Smartskjerm - Sørger for ikke å slå av skjermen dersom du ser på den.Clip-skuff 
+- En utklippstavle som tar vare på de sist kopierte elementene. 
+Det liker vi! 
+Gjestemodus 
+- Lar deg definere egne opplåsingskoder til andre der du kan bestemme hvilke apper de skal ha tilgang til. 
+Kjekt for deg med barn, for eksempel.Innebygde hjelpekort 
+- Telefonen tipser deg om hvordan du kan bruke den bedre. 
+
+«Simple is the new smart» 
+
+Dette var LGs slagord da de viste frem 
+G3 for første gang og gir oss derfor forventninger til at dette skal være en telefon som er enkel i bruk. 
+Og joda, telefonen har en rekke tips og triks innebygd, som viser hvordan du bruker telefonen mer effektivt. 
+Noen av dem er kjekke tips, som å sveipe fingeren opp på kameraskjermen for å bytte mellom front- og bakkameraet. 
+
+Særlig de første dagene, men også underveis, spretter det opp varsler med slike tips i ny og ne (noe irriterende i våre øyne), og de er også tilgjengelige via en widget på forsiden eller ved å sveipe hjemskjermen mot venstre. 
+Der finner du også LGs helse-app, som ved oppstart kommer med følgende feilmelding: 
+
+Det er i våre øyne ikke like «simple». 
+
+Telefonen skjemmes også av dårlig oversetting til norsk, med eksempler som «stille arbeider» i stedet for «still working» og et brukergrensesnitt som ikke er tilpasset at enkelte norske ord har flere bokstaver enn på engelsk, for eksempel der hverken ordene «anropslogg» eller «Kontakter» får plass i sine respektive faner i ringeappen. 
+
+Et valg i innstillinger-menyen heter «Applikasjonens standardmelding» og lar deg velge hvilken meldingsapp som skal være standard. 
+Vi har også sett flere orddelingsfeil («liste visning», «lyd profiler») og annet grums i menyene. 
+Da vi hadde lite strøm igjen, fikk vi beskjed om at 12% mangler (remaining). 
+«Clear all» er oversatt til «Klarer alle». 
+Her virker det som om språkfila er oversatt ord for ord. 
+
+Når det er sagt, er innstillinger-menyen pent ordnet, med fire faner som deler opp i ulike kategorier slik at det blir lettere å finne frem. 
+
+OPPDATERT: 
+Som skrevet i toppen av artikkelen er testen oppdatert i forhold til varme- og ytelsesproblemer. 
+
+Varmeproblemer 
+
+Vi ble noe overrasket en times tid etter å ha mottatt telefonen til test. 
+Da logget vi oss på telefonen som vanlig og hentet ned en haug av apper, etterfulgt av en lunsj i friluft. 
+Siden det var vanskelig å se skjermen i sola, prøvde vi derfor å skru opp lysstyrken, men fikk da melding om at dette ikke kunne gjøres på grunn av varme i telefonen. 
+
+Tilsvarende har vi også opplevd flere ganger under testingen, uten at vi har gått inn for å stresse LG G3 noe mer enn vanlig. 
+
+Det ovennevnte har vi også opplevd på det nye testseksemplarer, der vi ikke får satt lysstyrken på fullt med en feilmelding om at enheten er for varm. 
+Det uten å stresse telefonen spesielt mye. 
+
+Vi har imidlertid prøvd å kjøre telefonen hardt – til og med i sollys, uten at vi har klart å fremprovosere meldingen om at telefonen vil slås av. 
+Vi har derfor fjernet denne delen av artikkelen. 
+
+Vi har heller ikke opplevd den samme luggingen hva gjelder ytelse som beskrevet i den opprinnelige testen, der vi måtte vente noen sekunder på at hjemskjermen tegnes opp nå og da. 
+Det nye testeksemplaret virker kvikkere i svingene enn det første. 
+Teksten under er derfor korrigert 
+
+God ytelse 
+
+LG 
+G3 er helt på høyde med øvrige toppspesifiserte telefoner og oppfører seg som forventet av en toppmodell nå til dags, med svært kjapp surfing og god score i ytelsestester. 
+
+Dog opplever vi for eksempel i Epic Citadel-testen at telefonen ikke klarer å levere like mange bilder per sekund som de beste, på grunn av høyere oppløsning (i praksis 2392x1440, siden skjermknappene opptar noe plass og testen ikke kjøres i fullskjermmodus). 
+Der klokker LG G3 inn til 50,2 bilder pr sekund, mens øvrige toppmodeller ligger tett opptil 60, som også er maks, siden de ikke tegner opp raskere enn bildeoppdateringsfrekvensen på skjermen (60Hz). 
+
+Tilsvarende får vi også lavere score i 3DMark enn hva tilfellet er for f.eks. Xperia Z2 og Galaxy S5. 
+
+Meget godt kamera 
+
+Er det én ting vi setter mer pris på enn noe annet i LG G3, så er det den optiske bildestabilisatoren. 
+Den gjør det lettere å ta skarpe bilder i situasjoner med dårlig lys ved å korrigere for dine ustøheter. 
+Det hjelper selvsagt ikke om motivet beveger seg, så er det sagt. 
+
+Lysstyrken på objektivet er f/2,4, altså litt bak de ledende telefonene, der for eksempel Sony Xperia Z2 har blenderåpning helt opp til f/2,0, som dermed slipper inn 44 prosent mer lys. 
+Sony-telefonen har også større sensor enn LG G3, mens Samsung Galaxy S5 ligger midt i mellom både hva gjelder lysstyrke og sensorstørrelse. 
+
+Side om side med Galaxy S5 er det fint lite forskjell på bildene vi får i dagslys. 
+Vi øyner noen flere detaljer i S5-bildene på grunn av en mindre aggressiv støyreduksjon (og høyere oppløsning, 16Mp vs 13Mp). 
+I situasjoner med mindre lys, kommer den optiske bildestabilisatoren i LG G3 til sin rett og serverer rett og slett svært gode bilder til et mobilkamera å være. 
+
+Bare se her – den optiske bildestabilisatoren gjør at LG G3 kan tillate seg lavere følsomhet og bevarer derfor flere detaljer i innendørsbelysning: 
+
+Ellers er vi godt fornøyde med eksponeringene vi får fra LG G3, hvis autofokus også oppleves som rask – ikke at vi blir «blown away» av laserfokus™, men absolutt på høyde med de beste. 
+
+Frontkameraet har også en kjekk «selfie»-funksjon, der du ved å knytte neven aktiverer selvutløseren på tre sekunder slik at du slipper å trykke selv. 
+
+Under ser du noen bilder tatt med LG G3 (for ordens skyld er bilde nummer to et resultatet av telefonens automatiske HDR-funksjon, som setter sammen flere bilder med ulik eksponering): 
+
+Og her kan du se et videoklipp. 
+Som du hører har telefonen en støyreduksjonsfunksjon som ikke alltid er like heldig og forårsaker noe knepping i lyden. 
+
+Lyd 
+
+I løpet av testuken har vi opplevd lydkvaliteten å være meget god i den interne høyttaleren (altså den du bruker til samtaler). 
+Lydutgangen serverer imidlertid noe lav lyd – selv bruker jeg en vanlig minijackkabel i bilen og må skru volumet noen knepp høyere med denne enn jeg må med andre telefoner, som da også kan være begrensende om du har tungdrevne hodetelefoner. 
+
+Den eksterne høyttaleren er lokalisert på baksiden og byr på god og klar lyd – ikke på høyde med HTC One M8, men likefullt over middels god. 
+De medfølgende øreproppene er også ganske gode – ikke så mye bass, men de sitter svært komfortabelt i øret og har en flat kabel som er mindre utsatt for krølling, og som heller ikke lager lyd i øret om du knipser borti den med fingeren. 
+
+Konklusjon 
+
+LG 
+G3 er den første telefonen vi har fått inn på testbenken med QHD-oppløsning, og det er selvsagt liten tvil om at dette er en svært skarp og god skjerm. 
+Kameraet må også trekkes frem som svært godt; spesielt i svak belysning der den optiske bildestabilisatoren sørger for skarpere håndholdte bilder. 
+
+Den norske oversettelsen er imidlertid langt under pari (også på den nye modellen) og ser ut til å være oversatt ord for ord, som gir mange ufrivillig morsomme formuleringer. 
+Merk at telefonen er heller ikke vanntett, noe konkurrentene fra Sony og Samsung i samme prisklasse er. 
+
+Vi trillet opprinnelig en firer på terningen til LG G3, blant annet fordi vi opplevde varmeproblemer og litt lugging ytelsesmessig. 
+Da vi fikk en ny telefon til test, var imidlertid dette problemet vesentlig mindre, og det gjør at vi hever terningkastet med et ekstra øye og klistrer på vårt Anbefalt produkt-stempel. 
+
+LG G3 D855 16GB 

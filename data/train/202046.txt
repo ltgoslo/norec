@@ -1,0 +1,43 @@
+Ytelse, karakterer og konklusjon
+PCen er utstyrt med en mobilutgave av Celeron-prosessoren fra Intel. 
+Ingen tvil om at den gir meget god ytelse for pengene, men hva med grafikkløsningen fra ATI? 
+
+Mobilutgaver av Intel og AMD-prosessorer yter vanligvis litt mindre enn sine stasjonære søsken. 
+På den annen side er mobilprosessorer mindre batterihungrige, og utvikler mindre varme - noe som normalt betyr mindre behov for viftekjøling, og dermed en stillere PC. 
+
+LES OGSÅ: 
+
+Det stemmer ikke helt på Pavilion ZE4278. 
+
+Viftesus 
+
+Her går viften mer eller mindre konstant, noe som i teorien ikke skulle være nødvendig, i hvert fall ut fra våre erfaringer fra andre modeller basert på samme prosessor. 
+Viften avgir en del støy, men går heldigvis på samme hastighet hele tiden, noe som gjør den lettere å overse. 
+Men vi ble helt klart overrasket og skuffet over vifteløsningen. 
+
+Til gjengjeld blir PCen knapt lunken, noe som gjør at den aldri blir ubehagelig å ha på fanget. 
+Vi har ikke verktøy for å måle støynivået, men sammenlignet med en typisk stasjonær PC som står på gulvet, blir du neppe skremt av viften på denne PCen. 
+
+God generell ytelse 
+
+Når det gjelder ytelse, oppnådde vi omtrent samme tall som på bærbare PCer basert på 1,8 GHz Mobile Pentium 4-prosessor, eller AMD Athlon 1800+. 
+Det betyr mer enn nok kraft til alle vanlige PC-oppgaver. 
+Vi opplevde ikke at den reagerte tregt eller hang under vår testing. 
+
+Grafikkbrikken fra ATI er langt fra noen testosteron-bombe, noe som bare gir moderat ytelse i 3D. 
+Eldre spill, som f. eks Quake III fra 1999, gikk derimot fint i 1024x768 punkter med full fargedybde (30 bilder pr sek). 
+Spillentusiaster bør uansett satse på andre løsninger, som for eksempel maskiner utstyrt med brikkene GeForce4 Go eller Mobility Radeon 9000. 
+Til alle andre oppgaver, inkludert DVD-avspilling, DivX og 2D-grafikk, er grafikkløsningen i HP Pavilion ZE4200 mer enn god nok. 
+
+Batteriet måtte lades etter 2 timer og 37 minutter. 
+Det er omtrent som snittet i denne klassen. 
+
+Du finner flere detaljer om maskinvaren og ytelsestestene ved å klikke på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Prisene på bærbare PCer faller som steiner for tiden. 
+I tillegg er vi heldige som opplever priskrig mellom de største butikkene. 
+Det fører til at du får mer og mer for pengene, og HP Pavilion ZE4287 er i så måte blant de beste kjøpene du kan gjøre i denne prisklassen akkurat nå. 
+
+Hvis du ikke bryr deg om størrelsen, og kan du leve med viftesus og moderat 3D-ytelse, har vi ingen problemer med å anbefale denne PCen. 

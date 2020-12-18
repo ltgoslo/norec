@@ -1,0 +1,104 @@
+Alienware M14x
+Bærbar som oser av gaming - lang vei. 
+
+Dells Alienware-maskiner har først og fremst gamere som sin primære målgruppe, og både design og ytelse levner ingen tvil. 
+Alienware er faktisk en spydspiss i så måte, vi kommer for eksempel aldri til å glemme Alienware M18x som vi fikk toppspekket til testlabben - med en prislapp på bortimot 50.000 kroner. 
+
+Denne gangen har vi lagt våre klamme hender på lillebror M14x - som er den andre maskinen vi tester som er basert på Intels helt nye Ivy Bridge-prosessorserie - også denne gangen Intel Core i7-3720QM. 
+Og selv om dette definitivt er en maskin med potente kvaliteter, koster den langt mindre enn storebroren som vi testet i vinter. 
+
+Modellen kan i stor grad konfigureres etter ditt behov hos Dell.no, så er du interessert i å bruke titalls tusen på ny PC, har du alle muligheter her. 
+Prisene starter på like under 10.000 kroner. 
+
+Her er en rask oversikt over vår testmodell: 
+
+14" blank LCD, 1600 x 900 piksler. 
+Intel® Core™ i7-3720QM prosessor 1GB GDDR5 NVIDIA® GeForce® GT 650M grafikkort 8 GB RAM (2 x 4 GB) 750 GB harddisk, 7200 rpm DVD-brenner for alle formater Intel Wireless N2230 trådløst nettverkskort (b/g/n) Bluetooth 4.0 HDMI, VGA og DisplayPort-utganger (kan bruke to eksterne skjermer samtidig i tillegg til den interne) 3 USB-porter (2 x USB 3.0, 1x USB 2.0) Minnekortleser Webkamera Gigabit kablet nettverk Windows 7 Home Premium 64-bits Mål: 
+Vekt: 
+2950 gram + 150W strømforsyning på 670 gram Pris denne konfigurasjonen: 
+13.800 kr inkl mva 
+
+Som du ser av spesifikasjonene, snakker vi her om en meget godt utstyrt 14-tommer, en størrelse som domineres av langt enklere maskiner. 
+Foruten den kraftige Ivy Bridge-prosessoren merker vi oss også at PC-en har godt med minne, høyoppløst skjerm og en romslig harddisk. 
+Sistnevnte kan byttes ut i en raskere SSD eller to SSD-er i RAID, men mange gamere setter pris på å ha godt med lagringsplass, og det får de her. 
+
+Det som kanskje vil overraske noen, er at grafikkortet ikke er high-end. 
+Det er et raskt kort i mellomsegmentet, og bør holde til de aller fleste nyere spill i moderate oppløsninger og med middels eller høyt detaljnivå. 
+Men har du stor spill-appetitt og tenker å kjøpe en spill-PC som skal henge med i svingene i flere år, hadde vi kanskje vurdert en annen modell. 
+
+Maskinen skiller seg vesentlig ut i mengden med sitt maskuline skall. 
+Det bakbelyste tastaturet er derimot i alle regnbuens farger (såkalte AlienFX. 
+Jada, slapp av - det kan skrus av). 
+Tastaturet er for øvrig klassisk i utformingen, og er meget godt å skrive på - nesten helt lydløst er det også. 
+
+Skal vi trekke fram noe negativt, måtte det være smal enter-tast samt at smuler og smuss legg kan falle ned mellom tastene og bli vanskelig å fjerne. 
+Her liker vi chicklet-løsninger, der hver tast er isolert fra de andre. 
+
+Alle tilkoblingene er plasser på sidene av denne relativt tykke PC-en, foruten strømkontakten som er plassert bak. 
+
+Det liker vi. 
+Da er den tykke strømledningen unna veien - og mindre utsatt med tanke på snubling og annet som kan føre til skade. 
+For dettee er nemlig en PC som trenger mye strøm, og kablene er tykkere enn hva som er vanlig. 
+Strømforsyningen er dessuten stor og tung, noe du må ta med i betraktningen - men hvis portabilitet er viktig for deg har du sannsynligvis hoppet av for lenge siden: 
+
+14-tommere veier som regel rundt 2 kg. 
+Denne er 50% tyngre. 
+
+Skjermen er blank, og det passer ikke alle. 
+Når det er sagt er den meget god, med glimrende sortnivå og generell kontrast. 
+Og den høye oppløsningen er faktisk perfekt for en 14-tommer med slike kvaliteter, mener vi. 
+Vi venter å se flere maskiner med 1600 x 900 pikslers oppløsning i tiden som kommer, og 1920 x 1080 på 15,6-tommere. 
+
+De innebygde høyttalerne og tilhørende Soundblaster-lydkort avgir en ganske klar og fin lyd med god bass. 
+Ja, det er faktisk basselementer i bunn av denne PC-en, og det merker du godt. 
+Du kan også føle en viss vibrasjon i chassis når du spiller høyt og har PC-en i fanget. 
+Noe superlyd får du imidlertid ikke, men dette er noe av det bedre vi har hørt på en bærbar PC. 
+
+Flott ytelse, lav støy 
+
+Noe vi la merke til tidlig i testen var at maskinen er svært stillegående. 
+Langt mer stillegående enn Multicom P150E, som riktig nok har et mer strømkrevende grafikkort, men AlienWare M14x imponerte oss stort på dette punktet. 
+Joda, under belastning starter viftene, men de er sjelden eller aldri sjenerende under vanlig bruk. 
+
+PC-en vi har hatt på benken er som sagt utstyrt med harddisk. 
+Derfor vil totalytelsen ligge temmelig langt under hva du kan forvente med SSD-er. 
+Her er hva Windows selv forteller oss, og vi minner om at skalaen går fra 1.0 til 7.9 - fra tregest til raskest: 
+
+Prosessor: 7,6 Minne: 7,8 Grafikk: 
+7,1 Spillgrafikk: 
+7,1 Primær harddisk: 6,9 
+
+Som vanlig har vi kjørt tilleggsmålinger med Passmark PerformanceTest, som gir oss gode indikasjoner på hva du kan forvente: 
+
+Og hvis du er i tvil om prosessorytelsen er "god nok", kan vi opplyse om at det er den. 
+Den parkerer alt av hva som har vært tilgjengelig på bærbar-fronten før Ivy Bridge, og parkerer også populære prosessorer som Intel Core i5-2500K og 2600K - som sitter i stasjonære PC-er. 
+
+Her ser du at ifølge Passmark, at det er kun 25 prosessorer i verden som har bedre gjennomsnittsmålinger, og nesten ingen av dem sitter i bærbare PC-er. 
+
+Når det gjelder grafikkytelsen finnes det som allerede nevnt langt kraftigere kort på markedet, men med et slikt innabords hadde også PC-en blitt langt dyrere. 
+Og selv om dette ikke helt kan måle seg med de beste, kan du spille både Battlefield 3 og Modern Warfare i middels høy oppløsning med alle detaljer. 
+Nettstedet Notebookcheck har gjort en inngående analyse av hva du kan forvente, Les mer om dette her. 
+
+Uansett: 
+Forvent meget gode ytelser. 
+Dette er en sjeldent kraftig 14-tommer. 
+
+Men hva med batterilevetiden? 
+Vi er ikke bortskjemte med god batterilevetid på PC-er i gaming-segmentet. 
+Derfor ble vi meget positivt overrasket over at Alienware M14x holdt ut i 6 timer og 20 minutter med minimal belastning. 
+Under kontinuerlig videoavspilling holdt den ut i 3 timer og 15 minutter. 
+Under lett bruk kan du faktisk forvente rundt 5 timer på en batterilading, naturligvis noe mindre med spilling. 
+Men alt i alt, meget gode tall for en gaming-maskin. 
+
+Konklusjon 
+
+Det er ingen tvil om at dette er en meget god og kraftig PC. 
+Den virker gjennomført i alle bauger og kanter, også med tanke på støy og batteritid. 
+Vi stiller imidlertid noen spørsmålstegn, ikke minst på om kombinasjonen 14-tommer og en vekt på 3 kg er en vinner, spesielt når grafikkytelsen ikke er oppsiktsvekkende. 
+Vi har allerede sett Ivy Bridge-utstyrte 15,6-tommere med samme grafikkort som både er lettere og flere tusen kroner billigere, så den bevisste vil ikke ha problemer med å finne gunstige alternativer i tiden som kommer. 
+
+Og så var det dette med designen, da. 
+Dette er definitivt ikke PC-en for hvermansen. 
+Vi vet imidlertid at Alienware har en sterk posisjon i gaming-miljøer, og M14x er i så måte helt sikkert et nytt medlem som vil bli godt tatt imot. 
+
+Maskinen kan konfigureres og kjøpes direkte fra Dell.no. 

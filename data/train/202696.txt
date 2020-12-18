@@ -1,0 +1,97 @@
+TEST:Netgear Stora 
+
+Sikker og tilgjengelig lagring for alle 
+
+NAS - som betyr Network-attached storage - er en lagringsenhet som alle på nettverket kan ha tilgang til. 
+Fra å være noe man bare hadde bruk for i bedriftssammenheng har behovet for felles lagring blitt mer og mer påtagelig også i de tusen hjem. 
+Dette har resultert i at det har dukket opp NAS-bokser som er billige, har stor kapasitet og etter hvert også svært brukervennlige. 
+
+Netgear Stora er en god representant for denne type løsninger, vi har testet. 
+
+Boksen 
+
+Til tross for navnet er det ikke store boksen. 
+Den måler 175 x 150 x 146 mm og veier 1,36 kg uten harddisker. 
+
+På forsiden er det et par lysende og blinkende symboler og en USB-port. 
+Lokket er bare til å løfte opp og du har adkomst til begge harddiskplassene. 
+Den ene plassen var okkupert av en disk med 1 TB kapasitet, i den andre plassen er tanken at du kan plassere en til for automatisk kopiering av dataene, i tilfelle den første disken skulle svikte (RAID 1). 
+
+USB-porten kan brukes for kopiering til en USB-disk eller kobles til en skriver som så vil bli tilgjengelig for alle på nettverket. 
+
+På baksiden finner vi kontakt for strømforsyningen og nettverkskontakt med støtte for Gigabit nettverk. 
+
+Fronten og sidene på boksen er svarte og blanke, de elsker støv, og her er det snakk om gjengjeldt kjærlighet. 
+Toppen er matt med perforert plate, og den har ikke blitt antydning til varm i de to døgnene den har kjørt på testbenken. 
+
+Komme i gang 
+
+Det første man gjør er å koble til Stora til nettverket og slå den på. 
+Så må du klargjøre den fra PCen. 
+Det følger med en CD med oppstartsprogram, men vi fikk også tilgang til Stora direkte fra oversikten over nettverksenhetene i Vista. 
+Høyreklikk og valg av enhetens webside bringer deg inn i oppsettet direkte fra nettleseren. 
+Om du kjører PC, Mac eller Linux spiller ingen rolle. 
+
+Enhver Stora har sin egen produktkode som må registreres. 
+Når du har gjort dette og valgt ditt eget brukernavn og passord, får du en konto hos www.mystora.com. 
+
+For å kunne få tilgang til filene dine fra hvor som helst i verden, må ruteren din settes opp til å støtte dette. 
+Nye rutere kommer gjerne med UPNP aktivert, da går det stort sett av seg selv. 
+Hvis ikke er det spesialhjelp for de fleste ruterfabrikater i installasjonsoppsettet. 
+Vi fikk først ikke tilgang gjennom vår d-link DIR-655 ruter, men den viste seg å være riktig satt opp. 
+Etter et nytt forsøk kom vi gjennom. 
+
+Installasjonsprogrammet og den nettleserbaserte veiviseren ender opp med en administrasjonsside hvor du kan laste opp filer til Stora. 
+Strukturen er lagt opp på forhånd med filmapper som heter FamilyLibrary, MyComputers og MyLibrary. 
+Under disse ligger det flere mapper for bilder, dokumenter, musikk og video. 
+Man kan selvfølgelige opprette det man ønsker av mapper utover dette. 
+
+Optimistisk valgte vi drag & drop og dro over en 40 GB stor mappe med bilder fra vår egen server (som er en gammel PC med Athlon XP 2500+ som har kjørt Windows XP 24/7 de siste årene). 
+
+Det gikk ikke akkurat fort, vi oppdaget så at det sto med liten skrift at man burde velge andre opplastningsprogrammer hvis filstørrelsen eller totalen overskred 2 GB. 
+Vi valgte likevel å la den fortsette kopieringen for å se hva som skjedde. 
+Det tok hele ettermiddagen og kvelden, først i løpet av natten var den ferdig. 
+
+Dagen etter logget vi oss direkte på enheten fra utforskeren i Windows, og kopierte filer på vanlig måte. 
+Da kopierte vi over en 53 GB stor mappe på 45 minutter, altså rundt 20 MB i sekundet! 
+Husk at for å oppnå mer enn 12,5 MB pr sekund kreves at du har Gigabit-støtte i nettverket ditt. 
+
+I bruk - lokalt 
+
+Som filserver oppfører Stora seg som en hvilken som helst PC på hjemmenettet, etter at du har logget deg på kan du laste opp og ned filer som om de lå på din egen maskin. 
+
+Hastigheten er ikke like høy som hos vår gamle Athlon PC som står som server, men det merkes ikke når man blar i bilder, spiller video eller spiller av musikk. 
+
+I bruk - over internett 
+
+Du går til www.mystora.com og logger deg inn med maskinnavn, brukernavn og passord. 
+Så får du tilgang til din Stora via nettleseren. 
+
+Her er det et par ting som gjør brukeropplevelsen blandet. 
+For det første er hastigheten på opplasting fra hjemmenettverket og ut på internett helt avgjørende. 
+Har du ADSL med lav opplastningshastighet blir alt ganske tregt. 
+I tillegg er det en del data som skal tygges for å presentere innholdet før du kommer så langt som til å kunne vise det fram - bildene dine - eller spille det av. 
+Da snakker vi om musikk. 
+Video kan du glemme å spille av hvis du ikke har en svært rask ut-linje. 
+
+Med vår slappe ADSL-internettforbindelse fra Telenor, som skyldes både lang avstand fra sentralen og varierende kvalitet på kablingen, vil vi si at det bare er i spesielle tilfeller at man orker å laste ned filer, eller bla gjennom bilder. 
+
+Det som derimot fungerer ok er å logge seg på med iPhone, og se bilder og spille av musikk. 
+Det tar rikignok en del sekunder å få opp hvert bilde, avhengig av originalstørrelsen, men det er til å leve med hvis det er noe spesielt man gjerne vil vise fram. 
+
+Musikk fungerer stort sett ok, det hender det faller ut i blant, man er igjen prisgitt nettforbindelsen. 
+
+Konklusjon 
+
+Netgear Stora er den NAS-enheten vi har vært borti som er enklest å sette opp og ta i bruk. 
+På et raskt nettverk fungerer den utmerket til det aller meste, selv om ytelsen ligger målbart vesentlig under både den lokale disken i PCen eller en annen PC på nettverket. 
+
+Den støyer også en del, i form av ivrig knatring når den er i bruk. 
+Siden den knapt blir varm kan den med fordel plasseres i et skap med god lydisolering. 
+Sett den gjerne på en bit fast skumgummi eller tykke møbelknotter, så ikke vibrasjonene forplanter seg fra hylla. 
+
+Noe annet svært attraktivt med Stora er den lave prisen. 
+Du får den til 1645 kroner inkludert 1 Terabyte harddisk! 
+Det eneste som kan konkurrere med dette er at du allerede har en relativt kurant PC som ikke lenger er i bruk, som kan settes opp som filserver. 
+
+Så alt i alt vil vi anbefale Stora - spesielt hvis du har en rask internettforbindelse. 

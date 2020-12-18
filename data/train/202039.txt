@@ -1,0 +1,248 @@
+Samsung Galaxy S III (S3)
+Et råskinn ytelsesmessig, med stor skjerm av svært god kvalitet. 
+Joda, Galaxy S III innfrir våre høye forventninger. 
+Såvidt. 
+
+Enkelt og greit – den beste telefonen vi har testet, konkluderte vi da vi testet Samsung Galaxy S II for et drøyt år siden. 
+
+Og telefonen holdt seg merkverdig godt – selv i dag er den fortsatt blant de aller beste. 
+
+Det var med andre ord vanskelig ikke å ha store forventninger da oppfølgeren, Samsung Galaxy S III, ankom testbenken forrige uke. 
+Den nye telefonen er forbedret på en rekke områder i forhold til forgjengeren, så la oss først ta en titt på spesifikasjonene (S II i parentes): 
+
+Tekniske spesifikasjoner, Samsung Galaxy S III 
+
+Skjermstørrelse: 4,8" (4,3")-oppløsning: 
+1280x720 (800x480)-type: 
+Super AMOLED HD (Super AMOLED Plus)Punkttetthet: 306ppi (218ppi)Prosessor: 1,4GHz, 4 kjerner (1,2GHz, 2 kjerner)Grafikk: 
+Mali-400MP (samme, men klokket høyere på S III)Kamera: 
+8Mp + 1,9Mp (samme, men raskere seriefoto og ansiktsgjenkjenning på S III)Arbeidsminne: 1GB (samme)Internminne, norsk versjon: 16GB (samme)Minnekort: 
+Ja, maks 64GB (Ja, maks 32GB) 
+GPS: A-GPS + GLONASS (A-GPS)Batteri: 
+2100mAh (1650mAh)Tilgjengelige farger: 
+Hvit ved lansering, senere blå (sort og hvit)NFC: 
+Ja (Nei)Mål: 136.6x70.6x8.6mm (125.3x66.1x8.5mm)Vekt: 
+133g (116g) 
+
+HTC One X 
+
+Stor og elegant 
+
+Med unntak av Samsungs egen Galaxy Note (5,3"), er S III den største telefonen i dagens marked og måler 4,8 tommer over diagonalen. 
+I størrelse er den tett fulgt av nevnte One X og Optimus 4X HD, HTC Titan, HTC Sensation XL (alle 4,7") og Samsung Galaxy Nexus (4,65"). 
+
+Og selv om lokket på baksiden er laget av plast – Galaxy S III ser unektlig svært lekker ut der den ligger på bordet. 
+I hånda gir den ikke helt den samme kvalitetsfølelsen som de beste, med en ganske glatt bakside i blank plastutførelse. 
+Fordelen er imidlertidig at lokket bak kan tas av, og det betyr igjen at du kan sette i et ekstra minnekort og bytte batteriet – en mulighet du ikke har på for eksempel One X. 
+
+Vi opplever uansett telefonen solid konstruert, med bare bittelitt knirk når vi klemmer og "bøyer" på den. 
+Galaxy S III har også en skjerm med Corning gorilla glass 2 utenpå, som tåler en god støyt. 
+
+God knappeplassering 
+
+Som på Galaxy S II er av og på-knappen plassert litt oppe på den ene siden, med volumbrytere på motsatt side. 
+Personlig har jeg tidligere foretrukket plassering på toppen, men med en såpass stor telefon er det velkomment at den plassert nærmere fingrene. 
+Gledelig å se er det også at Samsung har fått på plass LED-varselpære på S III, noe vi savnet på S II. 
+Det kan lyse i flere ulike farger og gjør at ulike varslingstyper blir representert med forskjellige farger på lyset. 
+
+I våre øyne er det også positivt at Samsung har valgt å beholde menyknappen (i tillegg til back) ved siden av hjemknappen, selv om Ice Cream Sandwich-versjonen av Android egentlig vil ha programbytteknapp der, og menyknapp plassert et annet sted skjermen. 
+Holder du hjemmeknappen nede, vises vinduet med kjørende programmer uansett. 
+Som på iPhone kan du også vekke telefonen fra standby ved å trykke på hjem-knappen, noe som slett ikke gjelder for alle Android-telefoner. 
+
+Fantastisk skjerm 
+
+Som med de forrige modellene i S-serien er det også Super AMOLED som gjelder denne gangen. 
+Riktignok ikke plus-utgaven som finnes i S II, men en PenTile-basert skjerm. 
+Det betyr at hvert piksel består av to (i stedet for tre) underpiksler. 
+
+Med såpass høy oppløsning på en så liten skjerm skulle man tro dette var en ubetydelig forskjell, og for de fleste vil det sannsynligvis også være det, men side om side med HTC One X er det ikke tvil om at sistnevnte fremviser større skarphet. 
+Det er spesielt merkbart på tekst i en nettleser. 
+I praktisk bruk, derimot, er ikke dette noe vi har bitt oss merke i – Galaxy S III har en svært skarp skjerm. 
+I tillegg kan man med et trent øye se at Samsung skarper opp bildene ytterligere når du ser på bilder i for eksempel galleri-appen. 
+
+Det Samsung-skjermen fortsatt scorer særdeles bra på, er fargemetning og sortnivå. 
+Faktisk så ekstremt at noen synes det blir for mye av det gode, men nå er det også mulig selv å angi fargemetningen slik at det går an å tone det noe ned om man vil. 
+
+I sollys kommer imidlertid AMOLED-skjermen til kort. 
+Kombinasjonen svak lysstyrke og refleksjon fra skjermen gjør at S III synes dårligere i sollys enn konkurrentene. 
+Det skal dog sies at denne skjermen også trekker mindre strøm enn konkurrerende teknologier. 
+Fargemessig er hvitpunktet ganske blågrønt i forhold til LCD-skjermene som sitter i de fleste telefoner per i dag. 
+
+Ny Touchwiz 
+
+Med S III har Samsung også laget en ny versjon av sitt Android-grensesnitt, Touchwiz. 
+Utseendemessig er det ikke så veldig mye som er forandret på, men funksjonsmessig er det en del nye fiffigheter. 
+
+For det første får man større kontroll på hjemmeskjermene. 
+Ikke bare på hvor mange det skal være, men også hvilken skjerm som skal være standardskjermen (på S II var startskjermen den helt til venstre), og det går også an å rulle rundt uten at den stopper i endene (altså hoppe mellom første og siste skjerm). 
+
+Bryterne på nedtrekksmenyen har også blitt flere (kan skrolles til siden), blant annet med muligheten til å deaktivere all varsling (kjekt på natten), forhindre skjermrotasjon, og slå av bruk av mobildata. 
+Samsung har også lagt ved en strømsparemodus som blant annet begrenser prosessorytelsen, slår av vibrering, og bruker lav skjermstyrke. 
+
+Nytt er det også at Samsung har laget støtte for endel "gestures" rundt omkring. 
+Eksempelvis kan du pause musikkspilleren ved å legge håndflaten mot telefonen (gjelder bare standardspilleren og ikke for eksempel Spotify), ta skjermbilder ved å legge siden på hånden på én side av skjermen og dra den over til den andre siden (fungerer alltid), samt skrolle til toppen av en liste ved å kakke to ganger på toppen av telefonen (fungerer bare enkelte steder, som i epost og kontaktliste, men ikke i nettleseren eller SMS-applikasjonen. 
+Noen ganger må vi dobbeltkakke 3-4 ganger for å få respons). 
+
+Ser du på en kontakt i kontaktlista eller leser en SMS, kan du bare løfte telefonet til øret for å ringe vedkommende, men igjen – dette gjelder kun i Samsungs apper, og ikke i for eksempel Go SMS Pro eller andre konkurrerende varianter. 
+
+Vi er noe lunkne i forhold til disse nyvinningene, siden funksjonaliteten er begrenset, noe inkonsistent, og ikke 100% velsmurt. 
+
+Mer kjekke nyheter er smart alerts, som gjør at telefonen vibrerer når du plukker den opp fra bordet hvis det er har skjedd noe i mellomtiden, samt smart stay, som sørger for ikke å slå av skjermen hvis du ser på den. 
+Måten dette fungerer på er at telefonen tar et bilde med frontkameraet rett før den har tenkt til å slå av skjermen. 
+Ser den øynene dine, vises et øyeikon på topplinja og skjermen fortsetter å lyse. 
+Kjekt når du leser lange artikler, for eksempel. 
+
+La oss også nevne den nye låsskjermen, som nå har fått ikoner som kan starte programmer direkte. 
+Den kan også vise klokke og været, og har en kjekk mulighet til å starte kameraet direkte ved at du holder fingeren på skjermen samtidig som du vrir telefonen til landskapsmodus. 
+Dette er imidlertid ikke like elegant utført som i iOS, for dersom du har låst telefonen med et mønster, PIN eller passord, må du uansett låse opp enheten før du får tatt bilde. 
+Dermed blir nytten noe begrenset, ettersom vi sterkt vil oppfordre deg til å låse telefonen. 
+
+Heldigvis har låsskjermen en fin nyhet, og det er muligheten for å hoppe til neste og forrige sang uten å måtte låse opp telefonen. 
+Dette gjelder også på tvers av apper, inkludert Spotify. 
+
+Medfølgende apper 
+
+Her er et lite utvalg av apper som følger med Samsung Galaxy S III: 
+
+S Memo 
+- Fin notatapp (også sett på Galaxy Note) som både lar deg tegne og skrive notater. 
+Kan også eksportere til PDF og mer til. 
+
+S Planner 
+- Samsungs kalenderapp er tilpasset den høye skjermoppløsningen og byr på god funksjonalitet, med zooming inn og ut for dag/uke/måned, rask innlegging av nye avtaler og så videre. 
+
+S Voice 
+- Lar deg styre telefonen med stemmen og har mye til felles med Apples Siri-løsning. 
+Her kan du sjekke værmeldingen, sette alarmer, lage kalenderavtaler, søke etter noe på nettet etc. 
+Funksjonen har også noen flere muligheter enn Siri, for eksempel å starte apper, slå av wifi, eller oppdatere Facebook. 
+Også her er alt på engelsk. 
+
+AllShare Play 
+- Samsungs løsning for å dele media på tvers av enheter fra Samsung, altså se bilder på TV og så videre. 
+Denne løsningen har vi ambisjoner om å ta et dypere dykk i en senere artikkel. 
+
+Dropbox 
+- Kan selvsagt bare lastes ned gratis fra Google Play, men Galaxy S III-eiere får 50GB lagringsplass i to år uten å betale. 
+
+Musikkspiller 
+- Også i ny versjon siden sist. 
+En nyhet er music square, som lar deg trykke i en matrise for å lage en spilleliste basert på ulike karakteristikker (for eksempel rolig eller rask). 
+Første gang den brukes, scanner appen igjennom musikk du har lagret på telefonen. 
+
+Videospiller 
+- Denne har også fått en overhaling siden sist. 
+Med såpass mye krutt under panseret viser Samsung miniatyrvideoer av alle videoene du har på telefonen (seks til åtte samtidig, altså), noe vi lar oss imponere av. 
+I tillegg er det mulig å vise videoen i et lite vindu "over" resten av telefonen, slik at du for eksempel kan svare på en SMS uten å pause avspillingen. 
+
+Og til og med – du kan se video mens du spiller et spill. 
+Vi prøvde med Wind-up knight og en testvideo i 1080p-oppløsning, og det fungerte helt fint. 
+Som før kan Samsung-telefonen også spille av en rekke videoformater, også med god støtte for undertekster. 
+Imponerende. 
+
+Ytelse 
+
+For det er når det kommer til ytelse er Samsung nok en gang har laget et råskinn. 
+I en god håndfull ytelsestester setter telefonen rekord i de fleste av dem, selv om den i enkelte tester også blir slått på målstreken. 
+Vi er ikke veldig opptatt av disse tallene, både fordi de ikke nødvendigvis gjenspeiler opplevd ytelse på telefonen, men også fordi gjentatte gjennomkjøringer kan gi sprikende resultater. 
+
+Noen målinger vi gjorde, side om side med en annen kraftkar, HTC One X: 
+
+Quadrant Standard (Måler prosessor, skrive/lese-hastighet og 3D - høyere er bedre): 
+HTC One X: 4788 Samsung Galaxy S III: 
+5328 
+
+GL Benchmark (Ytelse i 3D-spill, bilder per sekund): 
+HTC One X: 49fps Samsung Galaxy S III: 
+59fps 
+
+Sunspider (Nettleserytelse, lavere er bedre) HTC One X: 1688ms Samsung Galaxy S III: 
+1347ms 
+
+Browsermark (Også en nettlesertest, høyere er bedre) HTC One X: 103622 Samsung Galaxy S III: 
+160173 
+
+Det betyr også at det meste glir som en lek, enten du sveiper på hjemmeskjermen, ser video med HD-oppløsning, surfer på nettet eller spiller tunge 3D-spill. 
+Som med S II er surfeopplevelsen svært god på Galaxy S III, der alt glir så lett som bare det, og der dobbelttrykk på et avsnitt zoomer inn akkurat som forventet, noe vi fortsatt har til gode å se én Android-konkurrent få til skikkelig. 
+
+En liten irritasjon, derimot, er at hjemmeskjermen litt for ofte ser ut til å starte på ny når man trykker på hjem-knappen. 
+Dermed får man et lite lugg på alt fra noen tideler til halvannet sekund. 
+
+Verdt å nevne er det også at Galaxy S III, i likhet med både Galaxy Note og iPhone 4s, også støtter det russiske GLONASS-systemet (alternativ til GPS), som gjør det raskere å finne gjeldende plassering enn hva tilfellet er for konkurrentene. 
+Via et testprogram for GPS-enheten oppdaget S III satelitter og posisjonerte seg langt raskere enn HTC One X (uten GLONASS-støtte) da vi testet dem side om side. 
+
+Batteri 
+
+Batterikapasiteten er oppgitt til 2100mAh. 
+Det er blant de høyeste i dagens marked (10-15% mer enn de fleste), selv om det fortsatt er et stykke til Motorolas Droid Razr Maxx, som kommer med hele 3300mAh. 
+
+Høy kapasitet gjør også at det tar lang tid å lade opp – cirka 2,5 timer fra tomt til fullt. 
+I testperioden har vi stort sett hatt nyladet telefon på morgenkvisten, WiFi og push-Gmail aktivert, og ellers brukt telefonen "normalt", altså sjekket innom epost og Facebook i ny og ne, surfet litt på nettet, sendt et par-fem meldinger, tatt et par telefonsamtaler, spilt litt Spotify-musikk, imponert venner og kjente med HD-avspilling og den slags, og batteriet har stort sett ligget på 20-30% ved leggetid. 
+
+Det bør med andre ord bety at de aller fleste vil klare å få skvist en hel dag og vel så det ut av en batteriladning, og at noen også vil klare seg med å lade annenhver dag. 
+Kjekt er det også, som nevnt, at det går an å bytte batteri, hvis man skulle ha behov for ekstra utholdenhet. 
+
+Kamera 
+
+Vi har ingenting i mot at Samsung har valgt å holde fast på 8Mp-oppløsningen i hovedkameraet, altså samme oppløsning som hos forgjengeren. 
+Flere megapiksler på såpass små sensorer gjør som regel mer skade enn nytte, der det blir mer støy og større bildefiler. 
+
+Og kameraet kan knipse raskt. 
+3,3 bilder pr sekund i inntil 6 sekunder gjør det lettere å få tatt et skikkelig blinkskudd når timingen er viktig, selv om HTC kan skilte med enda høyere skuddtakt i One X. 
+Begge telefoner kan også knipse stillbilder mens man filmer. 
+
+Hvis du vil, kan du også aktivere "beste bilde"-funksjonen. 
+Da tar kameraet åtte bilder på rappen, for så å foreslå hvilket av bildene som ble best. 
+Her tar vi oss i å overstyre oftere enn å godta, men algoritmen skal i følge Samsung vurdere smil, skarphet og liknende. 
+Uansett har vi endt opp med forslag der personen blunker og så videre, og det skal ikke mange slike til før man automatisk begynner å bla i bildene for å finne hvilket som ble best. 
+
+En ting vi liker med kameraappen på Galaxy S III, er at du selv kan velge hvilke menyvalg du vil ha liggende på snarveislinjen. 
+Dermed endret vi kjapt fokuseringsmetode til eksponeringskompensasjon, slik at den er lett tilgjengelig dersom man ser at bildet blir for lyst eller for mørkt. 
+Kamerafunksjonen har også ansiktsgjenkjenning, som gjør at du kan lære opp telefonen til hvem som er hvem. 
+Dermed kan du også lett dele bilder med de du har tatt bilde av. 
+
+Hva så med bildekvaliteten? 
+Vi tok den med på tur side om side med HTC One X og iPhone 4s som referanse. 
+Ingen av dem var konsistent best på alle bildene, og forskjellene er ikke veldig store, men – kjapt oppsummert: 
+
+* Samsung Galaxy S III scorer ganske likt som HTC One X, men svakere enn iPhone 4s på utendørsbildene når det gjelder detaljnivå: 
+
+* Samsung Galaxy S III har mest korrekt hvitbalanse på utendørsbildene. 
+HTC-kameraet får som regel et markant rosa fargestikk, mens iPhone-kameraet ofte byr på i overkant varme toner. 
+
+* S III og One X blåser ofte ut høylysene i høykontrastsituasjoner, altså der lyse partier blir helt kritthvite. 
+Denne øvelsen gjør iPhone 4s det best på. 
+
+* I svakt lys (med høy følsomhet) har Samsung-telefonen den beste støyprosesseringen, der bildene har flere detaljer enn de to andre. 
+
+Alt i alt vil vi holde en knapp på iPhone 4s som en bedre kameratelefon når vi ser på ren bildekvalitet, men Galaxy S III plasserer seg trygt foran HTC One X. 
+
+Det er riktignok når du ser bildene på PC-en i etterkant. 
+Det skal imidlertid sies at de aller fleste bilder tross alt sees på direkte på telefonskjermen, og der ser bildene på Samsung Galaxy S III aldeles strålende ut. 
+
+Her er noen bilder tatt med Samsung Galaxy S III: 
+
+Videokvaliteten er også meget god på Galaxy S III, med god detaljrikdom, lite hakking i panoreringer og klar og fin lyd. 
+
+Samtalekvalitet 
+
+Når det gjelder kvaliteten på samtaler var dette noe vi hadde en liten innsigelse mot ved forgjengeren, der vi aldri følte at vi klarte å skru lyden høyt nok i støyete omgivelser. 
+Dette har Samsung adressert i S III, for samtalekvaliteten er meget bra på denne telefonen. 
+Motparten høres høyt og tydelig, og vi får også beskjed om at vi selv høres veldig godt. 
+For S II-eiere som har krysset fingrene for at nettopp dette ble bedre (jeg kjenner personlig flere), er dette altså en gladnyhet. 
+
+Konklusjon, Samsung Galaxy S III 
+
+Det er liten tvil om at Samsung Galaxy S 
+III er en av de ypperste telefonene på markedet, kanskje til og med den aller ypperste. 
+Men der forgjengeren i våre øyne var i en klasse for seg selv blant Android-telefonene, er konkurransen nå tilspisset, og S III stikker seg ikke like markant ut fra mengden som S II gjorde i fjor. 
+
+Skjermen er stor, skarp og byr på særdeles gode farger og sortnivå. 
+S III er lynrask både til surfing og spill, den spiller et hav av videoformater og har i tillegg "alt" av teknologi, inkludert støtte for store minnekort, avansert GPS-funksjon og NFC. 
+I tillegg byr den på god samtalekvalitet når man prater i telefonen, og kameraet tar både gode bilder og har høy skuddtakt, som kan være med på å sikre blinkskuddet. 
+At du får med 50GB gratis Dropbox-lagring er også velkomment. 
+
+Litt smårusk er det å finne, men stort sett gjelder våre innvendinger funksjoner som uansett ikke finnes hos konkurrentene. 
+
+Vi kommer med andre ord ikke unna en sekser på terningen til Samsung denne gangen heller. 
+
+Samsung Galaxy S III GT-i9300 16GB 

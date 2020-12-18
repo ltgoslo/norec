@@ -1,0 +1,134 @@
+Amazons minstemann har en haug av triks i ermet
+Og selv om lydkvaliteten ikke er allverden, er det enkelt å forbedre den. 
+
+For noen uker tilbake fikk vi kloa i Googles minste smarthøyttaler; Google Home Mini, og konklusjonen var klar: 
+Selv om den ikke er lansert offisielt her til lands, bød Google-høyttaleren på mye moro – også for oss nordmenn. 
+
+Men i dette produktsegmentet var det ikke Google som var først ute – det var Amazon, med deres Echo-høyttaler, som vi skrev om allerede i 2014. 
+Den har senere kommet i flere varianter, og den foreløpig minste er Echo Dot; dagens testprodukt. 
+
+I land der disse enhetene er tilgjengelige, som USA og Storbritannia, koster de omtrent det samme – rundt en 500-lapp i norske kroner. 
+I norske nettbutikker som importerer dem selv, må du som regel ut med et par hundrelapper ekstra. 
+
+En god grunn til at slike enheter ikke er lansert i Norge, er at de ikke forstår norsk, så både til Google og Amazon-høyttalerne er du altså nødt til å prate engelsk. 
+
+En stor hockeypuck 
+
+Dot er den minste Echo-enheten i sortimentet fra Amazon. 
+I tillegg finnes den originale Echo-høyttaleren, en Echo Plus-variant som er større, samt nyhetene Echo Show og Echo Spot, som i tillegg har innebygde skjermer. 
+
+Den er ikke veldig ulik en hockeypuck av størrelse – sort og sylinderformet, med høyde på 32 mm og diameter på 84 mm (en hockeypuck er 25,4 mm høy og 76,2 mm i diameter). 
+
+På toppen har den fire knapper; to for å styre volumet, en for å kutte mikrofonen og en som rett og slett aktiverer stemmegjenkjenningen, noe du også gjør ved å si «Alexa», som altså er navnet på Amazons stemmeassistent. 
+
+Da lyser LED-ringen rundt hele kanten av høyttaleren opp – det er definitivt lettere å se at Echo Dot har hørt deg, enn når du sier «OK Google» til Google-høyttaleren (for ikke å snakke om hvor mye enklere det er å si «Alexa»!), der fire små prikker lyser opp på toppen av høyttaleren. 
+På innsiden sitter det sju mikrofoner som kan fange opp stemmen din også på lang avstand. 
+
+Echo 
+Dot har dessuten en 3,5mm-utgang på siden, slik at du kan plugge den rett inn i et stereoanlegg for å få bedre lyd enn den Dot leverer selv. 
+Det samme kan du oppnå med en Bluetooth-tilkobling. 
+
+Som med Google Home får den strøm via en micro USB-kabel, og du trenger en strømforskyning som kan levere 9 watt eller mer. 
+I esken får du typisk med en med utenlandsk støpsel, så du trenger enten en overgang eller en egen USB-lader. 
+
+Settes opp med app - eller på web 
+
+For å sette opp Echo Dot første gang, trenger du enten Alexa-appen, som er tilgjengelig for iOS og Android (også i Norge), eller så kan du gjøre det via nettsidene på alexa.amazon.com. 
+
+Som med Google-høyttaleren er du nødt til å trikse litt for å få til alt. 
+Mens du på Google Home måtte sette telefonspråket til engelsk for å legge til Spotify-kontoen din, må du endre adressen på Amazon-kontoen din til en amerikansk adresse for å få gjort det samme på Echo Dot. 
+
+Begge har også støtte for å gjenkjenne flere ulike stemmer, slik at for eksempel dagens kalenderavtaler kan leses opp ulikt for deg og den du bor sammen med når en av dere spør. 
+
+Echo Dot støtter flere tredjepartstjenester – på musikkfronten er det Amazons egen musikktjeneste, Amazon Music, som står sentralt (ennå ikke tilgjengelig i Norge), mens du også kan koble inn Spotify, samt radiotjenester som TuneIn, IHeartRadio, Pandora og SiriusXM. 
+
+Den er også kompatibel med Sonos, samt lydboktjenesten Audible. 
+Det er i tillegg mulig å få Echo Dot til å lese opp bøker fra Kindle-biblioteket ditt. 
+
+Der du med Google Home kan få ting spilt av på TV om du har en Chromecast (eller en Android-TV), kan du få til tilsvarende med Echo-høyttalerne med en Fire TV-enhet plugget inn i TV-en. 
+
+Før jul begynte Amazon å tilby en «basic edition» av Fire TV Stick til det internasjonale markedet (inkludert Norge). 
+En Fire TV ligner på en Chromecast utseendemessig, men har mer til felles med Android TV-bokser (og Apple TV), med et eget grensesnitt og apper; snarere enn en ren strømmeenhet. 
+
+Svarer på det meste 
+
+Som med Google Home er det bare å stille spørsmål om det du lurer på, enten det er været for i morgen, hvordan det gikk med favorittlaget ditt i helga eller hva som er hovedstaden i Honduras. 
+
+Og du kan styre musikken på akkurat samme måte, enten det dreier seg om å sette på ei spilleliste eller om du bare husker et lite utdrag av sangteksten. 
+Under ser du hvordan Echo Dot lyser opp når vi sier «Alexa», og der lyset «snurrer» mens hun svarer. 
+
+Påminnelser, alarmer, nedtelling og den slags er også på plass, og du kan koble inn kalendertjenester fra Google, Microsoft, Apple med flere slik at du kan legge inn avtaler og høre dagens gjøremål. 
+
+For de som bor i USA og handler fra Amazon til daglig, er det også mulig å handle direkte via høyttaleren, slik at du bare kan bestille mer dopapir bare ved å bruke stemmen. 
+Her til lands er imidlertid ikke den biten like aktuell. 
+
+Men det er bare det som kommer rett ut av boksen. 
+En ting Amazon har laget veldig smart er nemlig det de kaller «Alexa skills». 
+
+Over 20.000 ferdigheter 
+
+Amazon har åpnet for at hvem som helst kan lage egne utvidelser til Alexa, eller da «skills» (ferdigheter) som de har valgt å kalle det. 
+Her er utvalget større enn hos Google, selv om sistnevnte også begynner å komme seg. 
+
+Du kan koble dem til ved å bruke appen eller nettsidene, men også med stemmen dersom de ikke krever noen videre sammenkoblinger av konti og den slags. 
+Noen ganger vil Alexa foreslå en ferdighet dersom du spør om noe hun ikke kan svare på. 
+
+Og mulighetene er mange – Alexa er kompatibel med et stort utvalg smarthjem-løsninger og bilsystemer; også med produkter som selges her til lands. 
+
+Ikke fullt så aktuelt her til lands er transportløsninger som Uber og Lyft, reservasjon av bord på restauranter via OpenTable, bestilling av pizza fra Domino's eller Pizza Hut, blomster fra 1-800-flowers og lignende – i det hele tatt er det mye shoppingrelatert som ikke er så aktuelt for oss nordmenn. 
+
+Men utvalget er også godt innen quiz-spill og andre morsomheter, integrasjon mot en rekke huskelisteapper, duppeditter som Fitbit og Tile, treningsprogrammer, drinkoppskrifter, naturlyder eller hva det måtte være, som også fint kan brukes her til lands. 
+
+Har du en kompatibel HP-skriver, kan du for eksempel be Alexa om å skrive ut handlelisten eller et linjeark, og så kommer det rett ut av skriveren. 
+Mulighetene er mange. 
+Veldig mange. 
+
+Full oversikt får du på Alexa Skills-siden hos Amazon (og her er den tilsvarende siden for Google Assistant). 
+
+Litt robot-aktig stemme 
+
+Er det en ting Echo 
+Dot er svakere enn Google på, så er det kvaliteten på den kunstige stemmen. 
+Der Google-høyttaleren høres ganske menneskelig ut, har Echo den typiske tekst-til-tale-stemmen som høres litt robot-aktig ut; uten særlig overbevisende tonefall. 
+
+Så selv om hun kan lese Kindle-bøker for deg, er ikke det å anbefale, for å si det sånn. 
+
+Det hjelpes heller ikke av at lydkvaliteten i selve høyttaleren er ganske svak. 
+Det fungerer greit nok til Alexas stemme, men så fort du vil høre på musikk skjønner du kjapt at den har sine begrensninger. 
+Der anbefaler vi definitivt at du kobler den til en mer velklingende høyttaler. 
+
+Full oversikt i appen 
+
+Alt du spør og får svar på er tilgjengelig i Alexa-appen; gjerne med lenker til mer informasjon og den slags. 
+
+Der kan du også utforske og legge til ferdigheter, se oversikt over alarmer, timere og påminnelser, lister du har laget og den slags. 
+
+En annen mulighet er å lage rutiner – sammenlignbart med makroer. 
+Eksempelvis kan du definere det slik at når du sier «Alexa, I'm up», så slår Alexa på den smarte kaffetrakteren og lyset i stua, gir deg værmelding for dagen, trafikken til jobb og de seneste nyhetene. 
+
+Det skal sies at valgmulighetene er litt begrenset her – eksempelvis kunne det gjort seg å sette på ei Spotify-spilleliste også, men det er ikke mulig. 
+
+Du kan prøve Alexa i nettleseren 
+
+Selv om du ikke har en Echo-enhet hjemme, er det fullt mulig å prøve ut Alexa-teknologien i nettleseren. 
+
+På nettstedet echosim.io kan du logge på med Amazon-kontoen din, gi tjenesten tilgang til mikrofonen på PC-en og så kan du holde mellomromsknappen inne mens du snakker. 
+Du får ikke brukt musikktjenester, men annet enn det skal opplevelsen være ganske lik den du får fra høyttaleren. 
+
+Konklusjon 
+
+Vi har nå stiftet bekjentskap med de rimeligste modellene fra de foreløpig to største aktørene innen stemmestyring; Amazon og Google. 
+
+Forskjellen på dem er ikke veldig stor – de kan begge svare ganske godt på kunnsskapsspørsmål, selv om Google Home Mini nok gjør den biten enda litt bedre. 
+Til Amazons fordel er det svært rike utvalget av «skills», der vårt inntrykk er at Alexa er kompatibel med flere dingser og tjenester enn Googles variant – i hvert fall per nå. 
+Dog er det også ganske mange av dem som blir noe irrelevant for oss her i Norge. 
+
+Når det gjelder selve enhetene, er Echo Dot bittelitt mindre, men det er ikke tvil om at Google byr på bedre lydkvalitet (og bedre kvalitet på stemmen i høyttaleren). 
+Echo Dot kan dog enkelt kan kobles til en bedre høyttaler, enten via kabel eller Bluetooth. 
+
+Utseendemessig blir det selvsagt en smakssak, men også her regner vi med at de fleste er enige med oss om at Googles høyttaler gjør seg litt bedre i bokhylla. 
+
+Å vise innhold på TV klarer begge to, men Amazons Fire TV-enheter må i så fall bestilles fra Amazon og er ikke like tilgjengelige som Chromecast-enheter her til lands. 
+Liker du tjenester som YouTube og Google Foto, får du ikke vist innhold fra disse på TV ved å snakke til Echo Dot. 
+
+Hvis du tvinger oss til å velge, tror vi Google-høyttaleren er den flest nordmenn vil bli fornøyd med, men vi triller likefullt en femmer til Amazons lille variant også – definitivt morsomme saker begge to. 

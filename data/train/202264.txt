@@ -1,0 +1,65 @@
+Adobe Premiere Elements 4.0
+Lettversjonen av Premiere Pro har kommet i ny utgave, vi har testet. 
+
+For drøyt et år siden testet vi versjon 3 av Adobe Premiere Elements, og var svært fornøyd med endringene og de nye egenskapene. 
+Du kan leste testen her. 
+
+LES OGSÅ: 
+
+Men konkurransen om denne delen av markedet for programmer til videoredigering er tøff, og Adobe har funnet det for godt å lansere en ny versjon, ikke bare en oppgradering. 
+
+Video er ikke lenger forbeholdt de som bruker et tradisjonelt videokamera og filmer barna, bikkja og de store høytider og viser det fram på TV til et mer eller mindre begeistret publikum. 
+Mobilen og lommekameraet tar utmerket video så lenge du skal sende det over nettet eller legge det ut på YouTube eller tilsvarende. 
+Samtidig har de mer tradisjonelle filmerne blitt mer krevende etter at store flatskjermer har fått plass i stua, og anskaffet seg et videokamera som håndterer HD. 
+
+Det blir dermed et stort spenn i repertoaret for et rimelig videoredigeringsprogram hvis det skal favne alle målgrupper. 
+
+Nytt i versjon 4 
+
+Det er ingen grensesprengende nyheter i versjon 4, verken når det gjelder funksjonalitet eller brukervennlighet. 
+
+Det som er nytt er følgende: 
+
+Organizer - som er søkbar organisering av video, bilder og annet som finnes på maskinen din (tilsvarende Photoshop Elements). 
+
+Har du mye video på maskinen din bruker den lang tid på å gå gjennom mappene dine. 
+Støter den på filer i formater som programmet ikke kan håndtere, får du en lang liste over disse filene, og er du heldig så kommer programmet opp igjen med en liste over alt brukbart materiale. 
+
+Det vi opplevde var at programmet stoppet opp etter at det hadde presentert listen over ikke-kompatible filer, og at det deretter kræsjet så snart vi klikket på Organizer-feltet. 
+Selv etter avinstallering og reinstallering av programmet var Organizeren i stand til annet enn å kræsje programmet. 
+Vi skal prøve om en System Restore fungerer, men det får vente. 
+
+En Organizer klarer vi oss utmerket godt uten, siden vi lagrer alle mediefiler i mapper med beskrivende navn og finner fram til det vi ønsker uten problemer. 
+
+Themes - dette er Adobes vri på "automagisk" klipping og redigering av materialet til underlagsmusikk. 
+
+Vi prøvde de fleste av variantene, og hanske raslt lages det intro, klippene får gjennomgå av et eller flere effektfiltre, overganger legges inn - alt i henhold til en valgt "stilart" som kan være Bryllup, Racing, Road Trip, New Baby osv. 
+Her er man avhengig av litt flaks for at resultatet skal bli bra, men det er også mulig å begrense inngrepene slik at f.eks. eksisterende overganger ikke blir erstattet av nye osv. 
+
+>Et nytt verktøy som virker langt mer interessant for de som lager musikalske videoer, er Beat Detector. 
+Her kan du la programmet analysere musikken du legger til, og sette unummererte markører i tidslinjen etter taktslagene. 
+Så kan bruke disse som referansepunkter og skifte klipp på musikalske taktslag. 
+
+Det hørtes fint ut i teorien, men i praksis fungerte det dårlig. 
+For det første er ikke analysemetoden eller algoritmen bra nok, den finner taktslag i hytt og pine. 
+For det andre så snap'er ikke video eller stillbilder til disse markørene, du får bare opp en hjelpe-pil når du has zoomet tett innpå. 
+Da blir det hele mer fiklete og upresist enn det burde ha vært. 
+Det var for oss en skuffende "feature". 
+
+Bildestabilisator kan være praktisk, det er jo bygget inn i de fleste kameraer. 
+Likevel er det ikke alltid nok, derfor finnes det i Elements 4 et Stabilizer-filter som fungerer som bildestabilisator. 
+
+Denne fungerer ikke så verst selv om mirakler ikke er det vi erfarte. 
+Du kan justere flere parametre og kan i mange tilfeller gjøre håpløse klipp til brukbare. 
+Det er jo bra. 
+
+Elements 4 tilbyr også brenning til Blu-ray plater og direkte opplasting til YouTube. 
+Vi har ingen Blu-ray brenner for hånden, så det fikk vi ikke testet. 
+
+Det vi savner mest i denne versjonen - og i andre videoredigeringsprogrammer fra Adobe - er støtte for AVCHD-formatet. 
+Siden Blu-ray brenning er støttet ville det vært naturlig å ha støtte for Sony's nye inn-format i siste generasjons kameraer også, men den gang ei. 
+
+Konklusjon 
+Vi var svært begistret for versjon 3 av Premiere Elements, og hadde sett fram til en videreutvikling med støtte for nye formater og flere smarte triks i ermet. 
+
+Vi får heller satse på versjon 5 til neste år... 

@@ -1,0 +1,150 @@
+Apple Macbook Air 11"
+Nærmest en maktdemonstrasjon i design. 
+
+Nye Macbook Air er helt unik. 
+
+Den så veldig besnærende ut da Steve Jobs viste den frem, men i løpet av noen dager med testing er inntrykket ytterligere forsterket. 
+
+Heldigvis for Apple har de siste oppgraderingene også gjort at Macbook Air nå er blitt kjapp nok for de fleste. 
+
+Og den imponerer på flere vis. 
+Blant annet er batteriløsningen enestående, med 5 timers ordentlig bruk og inntil 30 dagers stand-by, der maskinen er klar til dyst med en gang du åpner lokket. 
+
+Ekstremt tynn 
+
+Som med de fleste Macbook-maskiner som er produsert de siste åra, er også Macbook Air laget i såkalt unibody-design, som betyr at maskinen er frest ut fra ett stykke aluminium. 
+
+På sitt tykkeste måler maskinen snaue 1,7cm og måler bare 2,7mm i den smaleste enden. 
+11-tommeren (som vi har testet) veier bare 1,06kg, og føles ikke tyngre enn en iPad, selv om den veier 300 gram mer (i forhold til 3G-versjonen). 
+
+Med andre ord snakker vi om en ultraportabel maskin som er veldig lett og liten å ha med seg på tur. 
+Allikevel er denne utgaven "stor nok" - skjermen er 11,6 tommer diagonalt, og oppløsningen på 1366x768 piksler. 
+Og - den kanskje største fordelen er at tastaturet er nøyaktig like stort som det er på en 17" Macbook pro, så her er fortsatt komforten bevart. 
+Dog har ingen av de nye Macbook Air-maskinene bakgrunnsbelyst tastatur, som er å finne i øvrige Macbook-modeller. 
+
+Ingen harddisk 
+
+At iPad har vært inspirasjon for produktutviklingen av Macbook Air er det ingen tvil om. 
+Maskinen har nemlig ingen harddisk, men flashminne som er loddet direkte på hovedkortet. 
+Det betyr at Macbook Air er lynrask på flere bruksområder (operativsystemet lastes på 5-6 sekunder rett ut av boksen), og kopiering av filer og den slags går selvsagt lynraskt. 
+
+Ulempen er at lagringsplassen ikke er allverden (64GB og 128GB er tilgjengelig for 11-tommersutgaven), og dette må du ta stilling til ved bestilling, siden det ikke er mulig å oppgradere lagringsplassen senere, utover å koble til en ekstern harddisk, selvsagt, men da forsvinner mye av portabiliteten. 
+
+Dette er dermed ikke nødvendigvis maskinen for deg som samler på store filer av .mkv-typen, tar fryktelig mye bilder eller foretrekker et stort MP3-arkiv fremfor Spotify. 
+
+Imponerende batteri 
+
+Apple har blitt strengere mot seg selv når de oppgir batterilevetid, og på Macbook Air hevder selskapet at maskinen skal holde til 5 timer med "trådløs produktivitet", altså der du er koblet på et trådløst nettverk og bruker nettleser etc. 
+
+Vi opplevde faktisk få mer enn de oppgitte fem timene (hvis du dimmer skjermen litt varer batteriet lenger), og det elegante er at maskinen knapt bruker strøm når du klapper igjen lokket - faktisk tar det en måned før batteriet brukes opp når du har klappet det igjen, og åpner du det er maskinen klar til dyst på under ett sekund. 
+
+Den nye utformingen har også fått plass til 2 USB-porter (forrige utgave av Macbook Air hadde kun én, og den var plassert under et litt uhendig lokk), samt en Mini displayport-utgang slik at du kan koble på en ekstern skjerm (opptil 2560x1600 støttes). 
+Maksinen har også Bluetooth, og dermed kan du f.eks. koble til tastatur, mus, skjerm og eksterne høyttalere og bruke den på hjemmekontoret. 
+
+Multitouch-styreflate 
+
+En annen, og etter vår mening, undervurdert fordel med Macbook er styreflaten. 
+Den har støtte for Multitouch (registrering av flere fingre på en gang) og kan brukes svært så effektivt. 
+
+Eksempelvis kan du skrolle en webside opp og ned med to fingre, gå frem og tilbake med tre fingre, vise skrivebordet eller alle kjørende programmer med fire fingre etc. 
+I tillegg kan du bruke klypefunksjonen for å forminske eller forstørre bildet (på samme måte som på iPhone), bruke to fingre for å rotere (f.eks. i Photoshop) etc. 
+Kombinerer du dette med BetterTouchTool, kan du lage deg noen ganske snasne snarveier i forskjellige programmer. 
+
+I tillegg er maskinen svært stillegående, og det er nærmest umulig å høre noe lyd fra den ved vanlig bruk, selv når vi holder maskinen inntil øret og virkelig lytter. 
+Den suser riktignok litt ved hard belastning (avspilling av HD-klipp etc.), men den blir sjelden varm utover det som er komfortabelt å ha i fanget. 
+
+Noen vil kanskje savne optisk drev, men for undertegnedes del har det i hvert fall blitt stående ubrukt i månedsvis, siden det aller meste av data nå enten lastes ned eller leveres på minneplugger. 
+Faktisk følger det med en minneplugg for å gjenopprette systemet igjen også. 
+
+Ikke et lyntog, men allikevel kjapp 
+
+Til vanlig, lett bruk (nettsurfing, epost, musikk etc.), føles Macbook Air svært rask, men det er ikke til å stikke under stol at prosessoren i 11-tommeren bare snurrer på 1,4GHz, og at maskinen derfor ikke er myntet på tyngre bruk. 
+
+I stedet for å vise en drøss med tall fra syntetiske tester, illustrerer vi heller med noen praktiske eksempler. 
+Sammenligningsmaskinen er en 17" Macbook pro av nyeste sort, dvs med 2,53GHz Intel Core i5-prosessor, 4GB RAM og 500GB harddisk som snurrer på 5400rpm. 
+
+Konvertere et filmklipp til iPod-format 
+Vi lastet ned programmet Handbrake på begge maskiner og konverterte et filmklipp i H.264/mkv-format (totalt 159 MB) til iPhone-format (predefinert forhåndsvalg). 
+Dette er en operasjon som først og fremst drar nytte av prosessoren. 
+
+Macbook Pro 17" - 52s. 
+
+Det er hovedsaklig på denne type øvelser prosessoren i Macbook Air kommer til kort. 
+
+Duplisere stor fil 
+Her er lagringsmediet i fokus. 
+Vi brukte enkelt og greit OSX' innebygde funksjon for å duplisere en fil på 936MB og tok tiden. 
+
+Macbook Pro 17" - 28s. 
+Macbook Air 11" - 9,5s. 
+
+Som du ser er Macbook Air, som forventet, vesentlig kjappere på rene diskoperasjoner og både leser og skriver 1GB på under 10 sekunder. 
+
+Importere bilder til iPhoto 
+Denne øvelsen kombinerer diskhastighet og øvrig maskinkraft. 
+Vi importerte 112 .jpg-bilder (totalt ca 780MB) til iPhoto '11 (test kommer senere) og tok tiden: 
+
+Macbook Pro 17" - 53s. 
+
+Som du ser kommer Macbook Air til kort med tanke på videokonvertering, men klarer seg altså bra og vel så det i øvrige tester, og det mot en maskin som koster det dobbelte. 
+
+HD-avspilling? 
+Et spennende moment med årets utgave av Macbook Air er selvsagt hvorvidt den er kraftig nok til å spille av HD-materiale uten å hakke. 
+Vi spilte av en rekke testfiler, både Quicktime-filmer i 720p/1080p og H.264/mkv i 1080p, og alt gikk som smurt. 
+Vi brukte for øvrig Mac-mediesenteret Plex, som også støtter GPU-aksellerasjon. 
+
+Selv den letteste Macbook Air er altså kapabel til å spille av HD-materiale uten problemer. 
+
+Faktisk er den helt OK til spillbruk også - ikke til de hotteste 3D-shooterne i full oppløsning, men skjermkortet overrasket oss faktisk positivt etter å ha prøvd et par enklere spill. 
+
+Pris 
+
+Det er vanskelig å vurdere Macbook Air prismessig mot andre maskiner. 
+Har du først 8500 kroner å rutte med for en bærbar PC, får du selvsagt både raskere prosessor, mer minne og større diskplass om du går for en Windows-basert PC. 
+
+Eksempelvis selger Komplett en Lenovo IdeaPad U160 over to tusen kroner billigere enn den billigste Macbook Air-utgave. 
+Maskinen har like stor skjerm og oppløsning, men du får en Core i3-basert prosessor (bedre enn Core 2 Duo, som Macbook Air har), 500GB harddisk (vs 64GB på den billigste Macbook Air, men dette er altså flashminne og kan ikke sammenlignes), 4GB RAM (vs 2), kortleser (kun tilgjengelig på 13"-utgaven av Macbook Air) og kablet nettverk. 
+Maskinen kjører Windows 7 home premium. 
+
+Derimot er Lenovo-maskinen tyngre (1,4kg vs 1,06) og 2,3cm høy (vs 1,68=>0,27). 
+Skjermkortet er også bedre på Macbook Air, og man må også ta med følgende faktorer i regnestykket: 
+
+iLife '11 
+- Denne følger med alle nye Apple-maskiner og er en pakke bestående av et program for organisering av foto (iPhoto), for redigering av filmer (iMovie), musikklaging (Garageband), DVD-laging (iDVD) og hjemmesidesnekring (iWeb). 
+Vi kommer tilbake med tester av iPhoto '11 og iMovie '11, men kan uansett si at dette faktisk er meget gode programmer. 
+
+Multitouch-styreflate 
+- Styreflaten på Macbook er overlegent alt annet vi har prøvd, og med multitouch-muligheter gjør den deg ekstra produktiv. 
+
+30-dagers stand-by 
+- Macbook Air er umiddelbart tilgjengelig så fort du flipper opp lokket. 
+
+I tillegg til andre ting som Exchange-støtte direkte i OSX 
+(Office-pakke nødvendig i Windows), snedige løsninger som Magsafe-lader (magnetisk slik at den bare faller ut hvis noen snubler i ledningen i stedet for at maskinen går i gulvet) etc. 
+
+Priser på Macbook Air: 11", 1.4GHz, 2GB RAM, 64GB flashminne: 8490,- 11", 1.4GHz, 2GB RAM, 128GB: 
+9990,- 13", 1.86GHz, 2GB RAM, 128GB: 
+10990,- 13", 1.86GHz, 2GB RAM, 256GB: 
+13490,- 
+
+Altså betaler du 1500 kroner ekstra for 64GB ekstra flashminne på 11-tommeren og 2500,- ekstra for 128GB ekstra flashminne på 13-tommeren. 
+Sammenligner vi dette med en SSD-disk, er dette noe dyrere enn f.eks. SSD-disken fra OCZ, men allikevel ikke avskrekkende. 
+
+Konklusjon 
+
+Mens tidligere generasjoner Macbook Air var vesentlig lavere spekket sammenlignet med andre maskiner i samme prisklasse, er årets utgave et svært spennende produkt. 
+At Apple har byttet ut harddisk med flashminne gjør at maskinen presterer meget godt i dagligdags bruk, på tross av at prosessorhastighet og øvrige spesifikasjoner ikke er allverden. 
+
+Som en ultraportabel maskin i øvre prisklasse savner vi først og fremst støtte for 3G, som virkelig ville ha gjort maskinen komplett. 
+Det er også et lite savn at man på 11-tommeren ikke får med SD-kortleser (følger med 13-tommersversjonen), og du er nødt til å bestemme deg for størrelse på lagringsplassen ved kjøp - her er det ingenting som kan oppgraderes i etterkant. 
+
+Er dette noe du kan leve med, bør du absolutt vurdere den siste generasjonen av Macbook Air. 
+Maskinen yter "godt nok" for de aller fleste behov (og vel så det), den ser helt smashing ut (du skulle bare ha visst hvor mange som fikk veldig, veldig lyst på en i testperioden), og vi lar oss også imponere av batteriløsningen, der batteriet varer lenge, men der maskinen omtrent ikke bruker strøm når du klapper igjen lokket, til tross for at den er klar til dyst nærmest umiddelbart etter at du åpner det igjen. 
+
+Det er veldig fristende å trille en sekser på terningen til det vi på mange måter anser som det mest spektakulære PC-produktet på lang tid, men vi klarer under tvil å begrense oss til en sterk femmer. 
+
+Sjelden har du fått så lite Mac for pengene. 
+
+Og det er positivt ment. 
+
+Apple MacBook Air (Sve) - 1,4GHz DC 2GB 64GB 11,6" 

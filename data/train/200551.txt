@@ -1,0 +1,57 @@
+Linksys E2500
+Linksys tredje beste ruter, hva er forskjellen? 
+
+Det er ikke lett å umiddelbart få tak i forskjellene mellom rutere, verken mellom modeller av samme merke eller mellom de forskjellige konkurrentene. 
+
+Blant dagens rutere ligger de viktigste forskjellene i hvor mange samtidige datastrømmer de kan håndtere, hvilke frekvensbånd de støtter og hva slags tilkoblinger de har på selve enheten. 
+
+Forskjellen mellom toppmodellen fra Linksys, E4200 og tredjemann E2500 er i hovedsak to ting: 
+E2500 støtter bare to datastrømmer mot tre hos toppmodellen, og den har heller ingen USB-port for tilkobling av felles lagring eller skriver. 
+
+I praksis vil det si at du må ha en egen server-PC eller nettverksdisk (NAS-enhet) for å ha felles lagring til alle på hjemmenettverket. 
+Men USB-basert felleslagring på ruter er uansett en løsning med svak ytelse, så mange vil ikke oppleve mangelen på støtte for dette som noe savn. 
+
+Hvis du har en moderne bærbar PC som har tre interne antenner og nettverkskort som drar nytte av dette, vil du ikke få utnyttet dette med en ruter som støtter færre datastrømmer. 
+Jobber du med store filer over nettverket vil forskjellen kunne være høyst påtagelig, men til vanlig surfing og sofabruk er det ikke like merkbart. 
+
+Linksys E2500 
+
+Denne ruteren passer derfor til de som ikke har behov for optimal ytelse, og som har andre løsninger for felles lagring og utskrift. 
+I dag har jo de fleste skrivere for hjemmebruk innebygd støtte for trådløs tilkobling som standard. 
+
+Den støtter 2 datastrømmer, opererer både på 2.4 GHz og 5 GHz samtidig og har 4 interne antenner. 
+Du har også mulighet for gjestenett, som gir adgang til Internett, men ikke tilgang til maskinene på ditt hjemmenett, 
+
+Designet er diskret og elegant og ser ikke så "teknisk" ut som de aller fleste andre rutere. 
+Det er ingen synlige antenner, og plasserer du den slik at det ikke tyter ut ledninger over alt så kan den plasseres slik at den både fungerer optimalt og ikke sjenerer et strengt designfølsomt blikk. 
+
+Den har 4 porter for kablet 100 Mbit nettverk og en WAN-port for tilkobling til internettleverandørens boks. 
+
+Det er ingen "nøkkelhull" eller tilsvarende på undersiden for å feste den på vegg, den er beregnet å ligge flatt. 
+
+Installasjon 
+
+E2500 har samme elegante og brukervennlige installasjonsoppsett som storebror. 
+Du trenger ingen CD, alt ligger i ruteren. 
+Det enste du må gjøre er å koble den til PC og boks fra nettleverandøren og vente til den har startet opp. 
+Deretter åpner du bare en nettleser, så dukker oppsettet opp automatisk. 
+
+Ytelse 
+
+Vi sammenlignet med toppmodellen E4200 og Netgears toppmodell N900 (WINDR4500) fra våre standardplasseringer i stue 2 etasjer ned fra ruter plassert oppunder mønet på hemsen, og i kjeller. 
+
+Sammenligner vi E2500 med Linksys 4200 på 2,4 GHz under tilnærmet vanlige forhold (stue-plasseringen) er ytelsen temmelig lik, forskjellen er innenfor de variasjoner som hele tiden oppstår i trådløse nettverk. 
+
+Også i kjelleren er ytelsen absolutt kurant sammenlignet med andre rutere, men ytelsen ligger på halvparten av det vi målte i stua. 
+
+På 5 GHz fikk vi ikke forbindelse i kjelleren, men i stua fikk vi omtrent samme hastighet som på 2,4 GHz. 
+
+Vi la også inn i grafen målingene fra Netgears toppmodell med en bærbar med 3 antenner. 
+Dette gir omtrent dobbelt så høy ytelse, samtidig som rekkevidden øker. 
+
+Konklusjon 
+
+Linksys E2500 fungerer utmerket i et hjemmemiljø hvor man ikke trenger USB-støtte til felles lagring eller skriver. 
+Hastigheten og dekningen er helt kurant i vanlige leiligheter og andre boliger og støtter både 2,4 og 5 GHz, det siste er praktisk når man vil unngå å kjempe om båndbredde med alle naboene som fremdeles bare kjører på 2,4 GHz. 
+Men det forutsetter selvsagt at du har utstyr som støtter dette. 
+Har du en ny bærbar eller iPad 2 er du i mål på 5 GHz. 

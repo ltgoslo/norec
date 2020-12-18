@@ -1,0 +1,102 @@
+Acer eMachines E527
+Den er én av markedets billigste PC-er. 
+Men hva duger den egentlig til? 
+Vi har testet. 
+
+eMachines er merke under Acer, og består i hovedsak av rimelige maskiner. 
+Modellen E527 finnes i flere forskjellige utgaver med blant annet forskjellige prosessorer og minnestørrelse. 
+Vår modell er den billigste, og er utstyrt med Intel Celeron-prosessor, 2 GB minne og 320 GB harddisk. 
+
+Her er en kjapp oversikt over de viktigste spesifikasjonene: 
+
+eMachines E527-902G32Mi 15,6" blank skjerm, 1366 x 768 pikslers oppløsning Intel Celeron 900 prosessor, 2,2 GHz. 
+Intel GMA 4500M-grafikk (integrert) 2 GB DDR3-minne (maks 4, én slot ledig) 320 GB harddisk, 5400 rpm DVD-brenner for alle formater Kortleser for de vanligste minnekortene (ikke CF) Webkamera, 1,3 megapiksels sensor Trådløst nettverk (WLAN b/g/n) 10/100 Mbit netterkskontakt 6-cellers litiumion-batteri 37.2 cm x 24.7 cm x 4 cm 2,7 kg Leveres med Windows 7 Home Premium, 64 bits Pris: 3.490,- (MPX 21.9.2010) 
+
+Det er ikke noe ved disse spesifikasjonene som tyder på at dette er en kostbar maskin. 
+2 GB minne regnes som et minimum i 2010, og prosessoren har kun én kjerne. 
+Grafikkløsningen er integrert men burde holde til det meste, med unntak av tunge 3D-oppgaver som spill og lignende. 
+
+For øvrig er dette helt kurante spesifikasjoner for den jevne student, kontorist eller sofasurfer. 
+
+Enkelt 
+
+Designmessig er maskinen også temmelig anonym. 
+Den er relativt tykk, hele chassiset er i plast, og utvalget av tilkoblinger er relativt beskjedent. 
+Her mangler for eksempel HDMI for enkel tilkobling til TV, Firewire, spor for tilleggskort, og du må klare deg med kun to USB-porter, og overføringshastigheten i nettverket stopper på rundt 12 MB i sekundet hvis du bruker kabel. 
+
+Den brede skjermen har gjort det mulig å utstyre maskinen med numerisk tastatur til høyre, noe som er blitt mer og mer vanlig i det siste. 
+Selve tastaturet er svært mykt på midten, men dette byr ikke på problemer under skriving. 
+Tastene lager minimalt med "klirrelyder" under skriving, med unntak av mellomrom, slett- og returtastene som kan avgi en litt spiss lyd ved rask skriving. 
+
+Rett over tastaturet til venstre, sitter en meget beskjeden høyttaler som knapt tåler å bli sammenlignet mot en gjennomsnittlig mobiltelefon. 
+Du får kun monolyd, totalt strippet for bass, så her må du bruke øretelefoner. 
+
+Skjermen er skarp og fin. 
+Kontrast og lys avtar raskt når den vertikale vinkelen forandres, men ikke mer enn hva som er normalt i klassen. 
+
+Pekeplaten er ru og behagelig å bruke. 
+Den har et rullefelt til høyre, og to knapper i underkant. 
+
+Oppstart og installasjon 
+
+Første gang du starter PC-en blir du geleidet gjennom en installasjonsprosess der du blant annet skal velge språk. 
+Etter ca 10 minutter kan du begynne å bruke PC-en, men installasjon av diverse tillegg fortsetter i bakgrunnen i over 30 minutter. 
+Mens dette pågår responderer PC-en temmelig tregt, noe av skylden må den relativt enkle Celeron-prossesoren ta, den er slett ikke optimal for å kjøre mange oppgaver samtidig. 
+
+Som vanlig får du en haug med tilleggsprogrammer med "på kjøpet". 
+Disse kan ofte nedgradere brukeropplevelsen noe. 
+Dette opplevde vi imidlertid ikke som noe stort problem på denne PC-en, sammenlignet med mye annet vi har testet de siste årene. 
+Det meste lar seg dessuten raskt fjerne via kontrollpanelet eller ved hjelp av programmer som Decrapifier. 
+
+Svært stillegående 
+
+Det slo oss imidlertid at maskinen er svært stillegående. 
+Ved lette oppgaver som surfing, musikkavspilling og tekstbehandling kan det gå laaang tid mellom hver gang viften starter - om den i det hele tatt gjør det. 
+Det er slett ikke hverdags i billig-segmentet, og er et stort pluss for denne PC-en. 
+
+Derfor ville vi ikke nølt med å koble den til stereoanlegget for å spille musikk fra Spotify, nettradio og lignende. 
+Muligens også video tilkoblet TV, men det skal vi komme tilbake til i en annen artikkel. 
+
+Ytelstestester 
+
+Maskinen er behagelig å bruke, den blir aldri særlig varm (kanskje mye takket være romslig chassis), og vi opplever den ikke som noen sinke under normal, lett bruk. 
+
+Windows 7 opplevelsesindeksen gir oss følgende resultater: 
+
+Celeron 900-prosessoren er blant de raskeste enkeltkjerneprosessorene på markedet, men det er som kjent ikke veldig mange igjen av disse nå. 
+Passmark rangerer prosessoren som "lavre midt-skikt", her ser du den sammenlignet mot noen andre aktuelle prosessorer fra PC-er i 4-5000-kroners klassen: 
+
+I praksis? 
+
+I skrivende stund kjører vi Word 2010, i bakgrunnen spiller vi musikk via Windows Media Player, og vi veksler mellom Word og surfing på nettet. 
+YouTubes Flash-videoer i inntil 720P (1280 x 720 piksler) kjører i hovedsak fint uten hakking - så lenge den får kjøre alene uten andre prosessorkrevende oppgaver i bakgrunnen. 
+
+På andre videoformater er inntrykket det samme. 
+Enkelte videoer lot seg avspille i full HD (1080P), både MKV- og DivX-filer, men i scener med mye bevegelse opplevde vi av og til hakking. 
+Vi brukte her Windows Media Player Classic Home Cinema, som har støtte for grafikkortaksellerert avspilling. 
+
+DVD-avspilling er ikke noe problem i det hele tatt. 
+
+Viften starter nærmest umiddelbart ved avspilling av video, men stopper raskt når avspillingen er ferdig. 
+Den er uansett så lavfrekvent at den aldri blir et plagsomt moment. 
+
+Batterilevetiden målte vi i to omganger - én gang uten belastning, og én gang med kontinuerlig videoavspilling. 
+I den første testen klarte maskinen 246 minutter, altså i overkant av 4 timer. 
+Under kontinuerlig videoavspilling var det slutt etter 177 minutter, altså nesten 3 timer. 
+Normalt sett vil altså batterilevetiden ligge et sted mellom 3 og 4 timer, noe som er helt kurant i denne klassen. 
+
+Konklusjon 
+
+Acer eMachines E527 med det rimeligste oppsettet er en helt grei kontor-, musikk- og surfemaskin for deg med begrensede behov. 
+Vi gir et stort pluss for at den er svært stillegående. 
+
+Det er imidlertid ingen kraftkar dette, den sliter litt når det skal gjøres flere ting samtidig, spesielt når det er video inne i bildet. 
+Den er også i overkant beskjedent utstyr når det gjelder utstyr og tilkoblinger. 
+
+Totalt sett lander vi på en treer på terningen, men det betyr ikke at det er en dårlig PC. 
+Slett ikke. 
+Det kan imidlertid være smart å legge noen hundrelapper til på bordet, og gå for samme maskin med dobbelkjernet prosessor (Celeron T3300) og 3 GB minne. 
+Denne vil være langt mer potent, og sannsynligvis takle alt av høyoppløst video uten problemer. 
+Pris på denne er i skrivende stund 3.990 kroner hos MPX. 
+
+Takk til MPX for utlånet av maskinen! 

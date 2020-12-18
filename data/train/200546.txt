@@ -1,0 +1,96 @@
+MSI Adora 24 alt-i-ett PC med TV-kort
+Den optimale løsningen for en liten hybel? 
+
+Det er ikke mange år siden at PC-skjermer bygde en halv meter i dybden, og selv flate PC-skjermer fra få år tilbake er vesentlig tykkere enn MSI Adoras 2,1 cm. Derfor er det smått imponerende å tenke på at dette er mye mer enn en skjerm; det er nemlig en fullblods PC og TV på 7,5 kg. 
+
+For deg som er opptatt av minst mulig kabelspaghetti og begrenset plass på hybelen eller gutte/jenterommet, så kan dette definitivt være løsningen du har vært på utkikk etter. 
+
+Alle fingre 
+
+Selve skjermen er 24 tommer stor, overflaten er speilblank, og den er multiberøringsfølsom. 
+Det betyr altså at du kan styre PC-en og skifte TV-kanaler ved hjelp av fingertuppene, og Adora kan sense inntil 10 berøringer samtidig. 
+Raskt regnet skulle vel det tilsvare alle fingrene dine. 
+
+Oppløsningen er som ventet full HD (1920 x 1080), og panelet er av TN-typen. 
+Det betyr at bildet blir aller best sett rett forfra, kontrast og farger avtar fra sidene, og bildet inverteres hvis det betraktes skrått ovenfra. 
+Over skjermen sitter som ventet et webkamera og mikrofon. 
+
+MSI gjør imidlertid et poeng av at skjermen skal være snill mot øynene takket svært høy oppfriskningstakt av skjermbildet, en såkalt "flicker-free" opplevelse. 
+Denne påstanden kan vi dessverre ikke verken bekrefte eller avkrefte, da vi personlig sjelden opplever LCD-skjermer som særlig problematiske på dette punktet. 
+
+Under skjermen sitter etpar enkle høyttalere fra smått legendariske Creative SoundBlaster. 
+Lyden er så som så, til kontorbruk og enkel bakgrunnsmusikk vil det for de fleste være greit nok. 
+Til alt annet kobler du til eksterne høyttalere. 
+
+Bra med tilkoblinger 
+
+Og når vi først er inne på tilkoblinger, du finner litt av hvert på Creative Adora. 
+På venstre side sitter en minnekortleser for SD/MMC/MS-kort samt to USB 2.0-porter (én kan lade mobilen din selv når PC-en er avskrudd). 
+Over disse finner du betjeningsorganene for skjermen. 
+Vi savner en minijack for tilkobling av hodetelefoner her. 
+
+Den sitter nemlig på baksiden, sammen med de andre tilkoblingene. 
+Disse er vertikaltstilt i forhold til skjermen: 
+
+Det betyr at du må løfte på skjermen for å finne riktig tilkobling, og det er kanskje ikke den mest brukervennlige løsningen - men det er smart i forhold til å holde dybden til et minimum - og hvis du tenker å henge skjermen på veggen. 
+Tilkoblingene inkluderer fire USB 3.0-porter, strøminntak, HDMI-inngang, minijacker for lyd inn/ut, antennekontakt for digital-TV (DVB-T) samt kontakt for kablet nett (10/100/1000 Mbit). 
+
+Strømforsyningen er også ekstern, for å holde PC-tykkelsen og varmeutviklingen til et minimum. 
+
+PC-en har en standard bilderamme-støtte som vippes ut til ønsket vinkel. 
+Motstanden i leddet er så stor at det aldri er snakk om at den "sklir" ut av posisjon. 
+Praktisk er det også at PC-en kan legges helt flatt, ikke minst med tanke på berøring. 
+
+Bærbar innmat 
+
+På innsiden sitter en middels rask Intel Core i5-3320M prosessor fra fjorårets Ivy Bridge-familie - som i utgangspunktet er myntet på bærbare PC-er. 
+Grafikken besørges av den integrerte Intel HD 4000-brikken. 
+
+Kombinasjonen prosessor/grafikk har null problemer med å kjøre alt av video i oppløsninger på inntil 4K (fire ganger full HD), men til krevende 3D-oppgaver (les: Spill) er det dessverre ikke nok futt til å tilfredsstille krav i de hotteste action-titlene. 
+Alt annet er no problemo. 
+
+For øvrig får du 8 GB RAM og en relativt romslig harddisk på 1000 GB. 
+Støtte for trådløst nett er også innebygd. 
+På høyre side av skjermen sitter en DVD-spiller/brenner: 
+
+Enkel å sette opp 
+
+PC-en kommer uten tastatur og mus, så her er det bare å bruke det du eventuelt har hvis du ikke synes det er nok med skjermtastatur og berøring. 
+De fleste i målgruppen vil nok bruke trådløse varianter i tillegg til skjermberøring. 
+
+Installasjon og oppsett er gjort på rundt 15 minutter, og inkluderer blant annet valg av språk i Windows 8. 
+Du kan velge mellom en rekke språk, inkludert norsk. 
+
+PC-en oppleves som kjapp og responsiv de fleste situasjoner, omtrent som en bærbar PC i 5.000-kronersklassen. 
+Den er også meget støysvak, vi kunne kun høre en svak viftesus ved legge ørene inntil baksiden. 
+Også under tung belastning blir aldri viftene sjenerende, så denne PC-en egner seg meget godt til stuebruk. 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner på ytelsen, i Windows 8 går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,0 Minne: 7,4 Grafikk: 
+5,2 Spillgrafikk: 
+6,1 Primær harddisk: 
+5,9 
+
+Dårlig signal 
+
+Men TV-biten er vi ikke fullt så imponert over. 
+Det er AVerMedia TV Player som benyttes som TV-klient, og her har du blant annet opptaksmulighet. 
+Alt kan styres via den medfølgende fjernkontrollen, eller direkte på skjermen. 
+
+Problemet er bare at TV-mottakeren og antennen kun sporadisk klarte å fange signalene fra det digitale bakkenettet, selv i vårt redaksjonslokale som ligger midt i Oslo sentrum. 
+Dessuten har du ikke noen kortleser for dekryptering av krypterte TV-signaler, så mottak begrenses til NRK. 
+
+Hvis TV-titting er viktig for deg er det heldigvis en HDMI-inngang i PC-en. 
+Dermed kan du koble til en ekstern dekoder, noe vi antar vil være en nødvendighet for flere enn oss i testpanelet. 
+Tilkobling av spillkonsoll er også noe vi tror mange vil bruke denne inngangen til. 
+
+Konklusjon 
+
+MSI Adora er en bra alt-i-ett-PC som duger til det meste. 
+Den er overraskende tynn, er enkel å vinkle, og er nesten lydløs. 
+Den bør passe til alle som har et normalt behov når det gjelder PC-bruk, men er ikke kraftig nok til mer enn enkel spilling. 
+
+Les våre plusser og minuser i oppsummeringsboksen under før du eventuelt bestemmer deg for en Adora fra MSI. 
+
+MSI Adora24 0M-005EU 

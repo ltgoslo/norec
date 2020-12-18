@@ -1,0 +1,123 @@
+Lenovo G570
+Smart bærbar til fin pris. 
+
+Lenovos G-serie består av modeller for deg som har fokus på valuta for pengene, men PC-en har både eksteriør og funksjonalitet som slett ikke vitner om at det er snakk om en modell som starter på godt under 5000 kroner. 
+
+Mange utgaver 
+
+Modellen finnes imidlertid i over 20 forskjellige konfigurasjoner, får vi opplyst fra Lenovo Norge. 
+Utgaven vi har hatt på testbenken koster rundt 6.700 kroner i butikk, og har følgende viktige tekniske egenskaper: 
+
+15,6 tommer blank skjerm, 1366 x 768 piksler Intel Core i5-2410M (2,3 GHz) prosessor 6 GB minneAMD Radeon HD 6370M grafikk 750 GB harddisk (5400 rpm) 
+
+Den rimeligste utgaven vi har funnet i norske butikker har en Core i3 2310M-prosessor, 4 GB minne, 500 GB harddisk og Intel HD-grafikk, som må betegnes som rimelig potent med tanke på prisen, som starter på rundt 4700 kroner. 
+
+Felles for samtlige utgaver er et chassis i delvis plast/metall, DVD-brenner for alle formater, webkamera, trådløst nettverk (b/g/n), 4 USB 2.0-porter, VGA/HDMI-utgang, 10/100 Mbit nettverkskontakt, minnekortleser og et 6-cellersbatteri som skal holde til rundt 5 timer jobbing, ifølge Lenovo. 
+PC-en er 3,5 cm tykk, og vekten lander på rundt 2,6 kg. 
+Operativsystemet er Windows 7 Home Premium, 64 bit. 
+
+Eksteriør, tastatur og pekeplate 
+
+PC-en har en mørk, brunlig plastoverflate av den blanke typen som ser veldig fin ut når den er ren, men som ser rimelig shabby ut etter å ha vært i jevnlig kontakt med fettete fingre. 
+
+Alle tilkoblingene sitter lett tilgjengelig på sidene, kortleseren sitter i fronten mot høyre. 
+
+Når du åpner lokket blir du møtt av et forseggjort arbeidsmiljø. 
+Dekselet som omkranser tastatur og pekeplate er i metall, ser bra ut, og gjør dessuten sitt for at PC-en er relativt oppstivet. 
+
+God tastatur, men med ett litt for lite unntak 
+
+Selve tastaturplaten er av typen der hver tast er isolert fra naboene. 
+Hver tast er også lett krummet. 
+Det er meget fast og responsivt, og godt å skrive på, men vi kan ikke forstå hvorfor enter-tasten er så smal. 
+Vi klarte gang på gang å trykke på feil tast under "touching". 
+Foruten dette er vi meget fornøyd. 
+
+Pekeplaten støtter multiberøring, og har to adskilte knapper, noe mange vil like. 
+De avgir en tydelig lyd under trykking, men ikke så høy at den sjenerer. 
+
+Denne knappen burde alle ha 
+
+Over tastaturet sitter det to knapper. 
+En av-på-knapp, og en som aktiverer programvare som lar deg gjenopprette maskinen slik den var ved levering. 
+Denne er mye mindre enn av-på-knappen, så det skal mye til for å trykke feil. 
+
+En slik knapp burde være obligatorisk i 2011. 
+Har man vært flink til å ta sikkerhetskopier til eksterne medier, vil knappen i praksis gi deg tilbake ny-pc-følelsen. 
+
+Gjenopprettingsprosessen skjer på minutter, og krever ikke at du må lete opp gjenopprettings-DVD-er eller lignende. 
+Alt ligger nemlig i en skjult partisjon på harddisken. 
+Dette liker vi meget godt! 
+
+Når du har trykket på gjenopprettingsknappen blir du geleidet gjennom prosessen med å nullstille PC-en til utgangspunktet. 
+Dette vil samtidig slette alt av personlige data og spor på PC-en, så vær nøye med sikkerhetskopier før du går til dette skrittet. 
+
+Flere smarte detaljer 
+
+Men det er ikke den eneste smarte løsningen Lenovo har fått på plass. 
+Du kan for eksempel logge på ved hjelp av ansiktsgjenkjenning, DirectShare lar deg synkronisere filene dine med en annen PC, og sist men ikke minst - Enhanced Experience 2.0 kan optimalisere oppstarten slik at PC-en din starter mye raskere. 
+Alt dette er funksjonalitet som ikke bare er "nice to have", men som også har et klart nyttepotensiale. 
+
+PC-en leveres for øvrig med multimedie- og brenneprogrammer fra Cyberlink, og McAfee Antivirus med begrenset varighet. 
+Dette er ikke blant sikkerhetsprogrammene som gjør minst av seg, dessverre. 
+Personlig foretrekker vi mer sømløse løsninger, det finnes flere gode som er gratis. 
+
+Hva med ytelsen? 
+
+Utgaven vi testet koster rundt 2000 kroner mer enn den som er lettest tilgjengelig på det norske markedet i skrivende stund. 
+For det får du altså 2 GB ekstra minne, 250 GB ekstra lagringsplass, og litt raskere prosessor og grafikkløsning. 
+
+Windows opplevelsesindeks gir følgende indikasjoner på ytelsen, skalaen går fra 1 til 7.9: 
+
+Prosessor 6,9 minne: 7,4 Grafikk: 
+5,0 Spillgrafikk: 6,2 primær harddisk: 
+5,9 
+
+I figurene under har vi sett på ytelsen vi målte på vårt testeksemplar ved hjelp av Passmark Performance Test 7, og sammenlignet med snittytelsen til prosessorer og grafikkort på PC-er som ligger i samme prisklasse. 
+Vi har også tatt med konfigurasjonen til G570-modellen som rundt 4.700 kroner, for å gi deg et bilde på hva du kan forvente av forskjeller: 
+
+(fortsetter etter figurene) 
+
+Prosessorytelsen målt via Passmark PerformanceTest 7.0 
+
+3D-grafikkytelsen målt via Passmark PerforrmanceTest 7.0 
+
+Uansett hvilken G570 du går for, vil du få en PC med siste generasjon Intel-prosessor. 
+Og selv Core i3 2310M kan matche forrige generasjons i5 480M-prosessor, som sitter i mange dyrere PC-er. 
+
+Grafikkytelsen er derimot mer diskutabel. 
+Her er forskjellene langt mindre, og verken integrert Intel HD-grafikk eller AMD Radeon HD 6370M duger særlig godt til nye og krevende 3D-spill. 
+Her er Radeon HD5650 et langt bedre, og et vanlig alternativ i 6-7000-kroners klassen. 
+
+Duger til det meste 
+
+Uansett hvilken G570-modell du velger vil du få en maskin som vil oppleves som rask i de aller, aller fleste situasjoner. 
+Den vil ha null problemer med å ekspedere alt av høyoppløst videomateriale, samt kjøring av flere, tyngre oppgaver samtidig. 
+6 GB minne vil også bidra positivt til dette. 
+
+Merk likevel dette: 
+Det skal ikke særlig mye belastning til før viften i maskinen begynner å surre, og lyden er helt klart hørbar i stille miljøer. 
+Det kan ikke omtales som direkte støy, men det finnes stillere løsninger hvis du er følsom for slikt. 
+
+Batterilevetiden er omtrent som vi forventer i denne klassen, kanskje med unntak av at det var temmelig stor forskjell på levetiden med og uten belastning. 
+Med minimal belastning holdt batteriet i 6 timer før det måtte kaste inn håndkledet, mens under videoavspilling (720P) var det tomt etter ganske nøyaktig 2 timer og 30 minutter. 
+
+Under normal aktivitet vil det være sannsynlig at batteriet holder i 4-5 timer. 
+Det er bra, men vi har sett bedre. 
+
+Konklusjon 
+
+Møtet med G570 ble i hovedsak positivt. 
+Det er hevet over en hver tvil at PC-en fremstår som solid og med gjennomtenkte løsninger, og prislappen er også temmelig fornuftig. 
+
+Ytelsesmessig ligger den over hva du kan forvente fra modeller i samme prisklasse, spesielt gjelder det de rimeligste konfigurasjonene. 
+Dette vil nok endre seg når siste generasjon Intel-utstyrte PC-er nå kommer for fullt. 
+
+Vi trekker litt for vifta og liten enter-tast, men også for at den mangler USB 3.0-porter og støtte for gigabit nettverk. 
+Det bør en maskin som ellers oser av siste generasjon maskinvare ha, synes vi. 
+Derfor havner vi til slutt på en sterk firer på terningen. 
+
+(NB! 
+Prisene som oppgis under gjelder ikke testet modell, men en enklere utgave som refereres til i teksten). 
+
+Lenovo G570 4334-34G 

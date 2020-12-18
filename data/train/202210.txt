@@ -1,0 +1,44 @@
+OCZ Vertex4 
+
+Fjerde generasjon SSD fra OCZ på testbenken. 
+
+OCZ har vært på hugget i lang tid, og stadig kommet fram med SSD-løsninger som har vært imponerende. 
+Det siste skuddet på stammen for SSD for vanlige dødelige til en overkommelig pris er Vertex 4-serien. 
+Den ble lansert i april og bruker Infused Everest2-kontrolleren fra Indilinx, firmaet som OCZ kjøpte i 2011. 
+
+Denne kontrolleren skiller seg fra SandForce-kontrollerne som OCZ tidligere har brukt, ved at de fungerer uten å ta i bruk datakomprimering. 
+Dette har betydning ved håndtering av allerede komprimerte filer, som bildefiler, video, MP3, zip-filer og andre. 
+Hvordan det påvirker ytelsen i praksis er en annen sak, der hvor du vinner mest på å bruke en rask SSD har svært lite med håndtering av komprimerte filer å gjøre. 
+
+Uansett, ytelsen på denne kontrolleren, sammen med flashminnet og hurtigminnet (bufferminnet), ligger høyt opp på skalaen etter spesifikasjonene å dømme. 
+Prisen er også falt til et mer akseptabelt nivå. 
+
+OCZ Vertex 4 256 GB 
+
+Denne SSD-en har en kapasitet på 256 GB, er i 2,5-tommers format og kobles til med SATA III. 
+Festebrakett for 3,5-tommers brønn følger med, skruer er også inkludert. 
+
+Den finnes også med 64,128 og 512 GB kapasitet, og har en ytelse som er oppgitt til opptil 550MB/sek på sekvensiell lesing, opptil 95 000 IOPS vilkårlig og 120 000 IOPS maks. 
+
+Aksesstiden er oppgitt til 0,02 ms. 
+
+Enheten har et skall i plast og metall, og et kretskort som er svært tettpakket. 
+
+I midten sitter selve kontrolleren, som ligger an mot en varmeledende pute festet til metallokket. 
+
+Ytelse 
+
+Vi målte svært god ytelse med alle våre testprogrammer: 
+
+Både sekvensiell ytelse og IOPS er ganske enkelt i toppklasse, selv om tallene på vår Core i7 2600K testmaskin ikke ble like høye som toppverdiene OCZ annonserer med. 
+Til trøst gjelder dette også alle andre produsenter. 
+
+På alle viktige parametre scorer den helt på topp, selv om den langt mindre betydningsfulle sekvensielle ytelsen ligger litt under noen av konkurrentene. 
+
+Konklusjon 
+
+OCZ Vertex 4 er en svært rask SSD, som prismessig ligger noen hundrelapper over snittet i 256GB segmentet. 
+Blant de med topp ytelse ligger den derimot under både Crucial og Corsair sine modeller. 
+
+OCZ Vertex 
+4 Series SATA III 2.5" SSD 256GB 

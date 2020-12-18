@@ -1,0 +1,76 @@
+Devolo nettverk over strømkablene
+Tilsynelatende en god ide, men det er noen utfordringer. 
+
+Bor du i en normal leilighet er det sjelden problemer verken med trådløst nett eller med vanlig nettverkskabel. 
+Men i eneboliger og andre boliger over flere plan kan det bli problemer. 
+Støter du på tykke armerte betongvegger, eller gulv med vannbåren varme kan du fort miste dekning. 
+
+Den teknisk sett beste løsningen er alltid å trekke kabler, det blir raskest og mest stabilt. 
+Men hvis du ikke har anledning til å bore deg gjennom murvegger eller gå utenom vannrørene i gulvet - hva gjør du da? 
+
+Nettverk over strømkablene 
+
+En mulig løsning finnes i nesten alle bygninger, og det er de elektriske kablene som går mellom stikkontaktene. 
+De er forbundet både direkte mellom hverandre når de ligger på samme strømkurs, og strømkursene er også koblet sammen i sikringsskapet, på forskjellig vis. 
+Noen ligger på samme fase, men som regel er det tre faser inn i skapet som fordeles mellom kursene for å spre belastningen. 
+
+Disse kablene leverer vekselstrøm med en frekvens på 50Hz, men det er også mulig å sende signaler med langt høyere frekvens, med en avansert modulasjonsteknikk. 
+Dette har blitt formalisert i en standard som har mange varianter og navn. 
+De kalles PowerLAN, dLAN, HomePlug, og utstyr fra flere leverandører kan ofte fungere sammen uten videre, som annet nettverksutstyr. 
+
+Bruksområder 
+
+Et utbredt bruksområde for nettverk over strømkablene er fordeling av nettilgang i huset når tilkoblingen fra tilbyderen befinner seg i kjeller eller underetasje. 
+Selv om mange leverandører tilbyr trådløst nett i sine løsninger er det ikke særlig gunstig med en sender som er plassert nederst i dekningsområdet. 
+Antenner plasseres som kjent på høye master. 
+
+Ved å koble internettforbindelsen videre til etasjene via strømkablene får man både tilgang med nettverkskabel og trådløs dekning, hvis enhetene støtter begge teknikkene. 
+Dette har blitt en utbredt løsning hos flere leverandører. 
+
+Utfordringer i norsk strømnett 
+
+I Norge har vi et gammelt strømnett - IT-nett - som ikke har 0-leder i tillegg til jord og strømførende faser. 
+Det er altså ingen felles spenningsreferanse i strømnettet, og en av fasene kan godt ha forbindelse til jord uten at spenningen mellom fasene blir påvirket. 
+I et moderne system som brukes over alt ellers i Europa med felles 0-volt - TN- nett - ville sikringen gå. 
+Du kan les mer om dette her og her. 
+
+På grunn av dette er det ofte problemer med nettverk over strømkablene, siden disse enhetene er laget for TN-nett. 
+Noen ganger fungerer det ikke i det hele tatt, andre ganger går det helt uproblematisk. 
+Årsakene kan ligge i annet utstyr som skaper forstyrrelser på strømnettet, men det er ofte svært vanskelig å finne ut hvilken. 
+Noen ganger er det kombinasjoner som skaper problemer, og da blir det ekstra vanskelig å feilsøke. 
+
+Gamle og nye tester 
+
+Vi har testet flere slike løsninger tidligere, og du kan lese om dem her og her. 
+
+Nylig mottok vi et sett med adaptere fra den tyske produsenten Devolo. 
+Dette er enheter som skal kunne gi brutto hastigheter på opptil 500 Mbit/s. 
+
+Å sette opp en slik forbindelse er så enkelt som det kan få blitt. 
+Det er bare å plugge inn hovedenheten med en nettverkskabel fra ruteren, og klienten i en annen kontakt der du ønsker forbindelse. 
+Så er det bare vente til de har fått kontakt med hverandre og koble til det utstyret du ønsker med en annen nettverkskabel. 
+
+I praksis viste det seg at resultatet ble langt lavere enn de 500 Mbit utstyret skilter med. 
+Det var ikke mulig å få forbindelse mellom mange av de kontaktene vi testet, og vi sjekket ganske mange kombinasjoner før vi fant et par som fungerte. 
+
+Tidligere har vi testet et overvåkningssystem fra Logitec, som bruker nettverk over strømkablene til å sende bilder fra overvåkingskameraer. 
+Vi koblet inn dette og brukte hovedenheten fra Devolo i stedet for den fra Logitec, og dette viste seg å fungere. 
+Det er snakk om tre kameraer med hver sin sender. 
+
+Men hva med hastigheten? 
+
+Ingen målinger vi har gjort har kommet i nærheten av de beste resultatene med trådløst nett. 
+Men vi har testet i et trehus uten mange fysiske hindringer for signalene. 
+
+Med andre løsninger har vi målt mellom 4 og 5 kByte/sek (ca 32 og 40 Mbit/sek), med Devolo sin løsning kom vi faktisk nærmere 50 Mbit/sek. 
+
+Det fungerer helt ok til internettforbindelsen for de aller fleste. 
+Men til lokalnett er det i snaueste laget hvis flere skal dele forbindelsen og streame filmer, game og laste opp og ned bilder samtidig. 
+
+Konklusjon 
+
+Nettverk over strømkablene er en utfordring, om du får forbindelse og kvaliteten på denne er helt avhengig av ledningsnettet i den aktuelle bygningen samt hva som er koblet til av annet utstyr. 
+
+Vi anbefaler derfor sterkt å handle et sted hvor du har returrett hvis det viser seg at løsningen ikke skulle fungere tilfredsstillende. 
+
+Devolo dLAN 500 WiFi Network Kit (9096) 

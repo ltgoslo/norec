@@ -1,0 +1,112 @@
+Fujitsu Siemens Amilo Si 2636
+Denne design-PCen fra FS er på langt nær bare "nok et pent ansikt". 
+
+Det er ingen tvil om at rødt og sort står bra sammen, noe produsenter av bærbare PCer har visst om en god stund. 
+Acer har for eksempel sine Ferrari-maskiner, og Dell har også blitt langt mer glade i farger - bare sjekk ut XPS M1730 vi testet forrige uke. 
+
+LES OGSÅ: 
+
+Fujitsu Siemens er på sin side ikke akkurat kjent for å bevege seg så langt unna trauste nyanser i sort og sølv, men med Amilo 
+Si 2636 viser de en helt annen stil. 
+Denne 13,3-tommeren kommer med et lokk i skinnende sort pianolakk, og maskinens kanter er farget dyprøde og glinsende. 
+Utseendemessig er den unektelig mer innbydende enn mange andre modeller på markedet. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo T7500 @ 2,2 GHz 13,3" skjerm på 1280 x 800 punkter Slot-in DVD-brenner 2 GB DDR2-minne Intel Turbo Memory 250 GB harddisk Intel GMA X3100 grafikk WLAN (a/b/g/n), LAN, Blåtann 2 x USB, eSATA, FireWire, 1 ExpressCard/54 kortplass Kortleser for SD, MMC, MS, MSPRO HDMI ut, lyd inn og ut Webkamera og mikrofon integrert i skjermen Dimensjoner (B/D/H): 
+32,8 x 24,7 x 3,8 cm Vekt ca. 2,2 kilo 
+
+Et kort blikk på spesifikasjonene forteller oss at denne bærbare PCen har veldig mye til felles med XPS M1330 fra Dell. 
+Denne gjorde en meget god figur da vi tittet nærmere på den før jul, og det blir spennende å se hvordan Amilo Si 2636 klarer seg i forhold. 
+
+Den blanke skjermen har 1280 x 800 punkter, noe som er helt vanlig på bærbare med 13,3-tommers panel. 
+Lysstyrke og kontrast er god, mens fargene godt kunne hatt litt mer sprut. 
+Dette er dog noe som eventuelt kan rettes på i fargeinnstillingene. 
+
+Som nevnt er selve lokket i blank pianolakk, noe som betyr at fingermerker er uunngåelig - og vi kunne derfor ønsket oss at en liten pusseklut hadde fulgt med i esken på et produkt som ellers har såpass klasse. 
+
+Konstruksjon 
+
+Lokket er relativt stivt, men tåler som de fleste maskiner i denne klassen ikke spesielt mye trykk. 
+Hovedchassiset finner vi ingen svake punkter på, men batteriet sitter litt løst. 
+Det har ikke gitt oss noen praktiske problemer, men slarken merkes tydelig når vi for eksempel rister på maskinen, og ødelegger en smule for et ellers solid kvalitetsinntrykk. 
+
+Også med lokket åpent er Si 2636 et lekkert skue - og det mest iøynefallende er den runde touchpaden og metallsirkelen rundt som skjuler knappene. 
+Ellers er det svært få forstyrrende elementer inne i bildet, kun av/på-knappen og statuslysene oppe til venstre bryter med den minimalistiske designen. 
+
+Touchpaden er litt uvant å bruke i begynnelsen, men du venner deg fort til den. 
+Skrur du på skrollfunksjonen finner du også ut at denne virker på samme måte som på rektangelformede touchpader. 
+Det fungerer uproblematisk, men hadde kanskje ønsket oss en litt mer dristig løsning, som for eksempel sirkelbevegelsene som måtte til på Panasonics Toughbook CF-T4, som jo også har rund touchpad. 
+
+Knappene under metallringen er harde å trykke ned med mindre du presser direkte under touchpaden, men det er også en ren vansesak. 
+
+Selve tastaturet er av den felles skandinaviske typen som begynner å bli mer og mer vanlig å se hos de store produsentene. 
+Det er fast i fisken og meget behagelig å bruke, men støyer litt mer enn på de fleste andre bærbare vi har testet. 
+Ellers klager vi som vanlig over plasseringen av Fn- og venstre ctrl-tast. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter finner vi foran og på sidene. 
+
+I tillegg til en høyttaler på hver side finner vi i front statuslys, inn- og utgang for lyd, FireWire, minnekortleser og medieknapper for volum og play/pause. 
+Men kjære Fujitsu Siemens, kunne dere ikke ha droppet fargekodingen på lydkontaktene... 
+
+På venstre side har vi plass for kensingtonlås, LAN, to USB-kontakter og ExpressCard-porten. 
+Varmluften kommer også ut her. 
+
+Slot-in DVD-brenneren er plassert på på høyre side sammen med en av/på-bryter for blåtann og trådløst nettverk, eSATA (dobler som en ekstra USB), HDMI og inntak for strøm. 
+
+Ytelse og batterilevetid 
+
+Vår Amilo 
+Si 2636 har samme prosessor som gaming-maskinen XPS M1730 vi testet sist, så vi forventer at den sparker anstendig fra seg. 
+Men når det gjelder grafikk forventer vi på den annen side noe helt annet. 
+Intels GMA X3100 er slett ikke dum til å være en integrert grafikkløsning, men til moderne 3D-spill er den ikke brukbar. 
+
+I tillegg til Dell XPS M1330 har vi også sammenlignet med Multicom Z37S vi testet for et halvt år siden. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Som vi ser gjør 
+Si 2636 det sterkt på samtlige områder bortsett fra på grafikkfronten der Dell XPS M1330 ligger godt foran. 
+Merk også at mangelen på turbominne gjør at XPSens harddiskytelse ligger bak de to andre datamaskinene. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+I praksis er det altså spesielt på grafikksiden vi ser forskjellene - Amiloens interne grafikkløsning er som nevnt ikke beregnet på spill. 
+Men til all annen normal bruk er den mer enn god nok. 
+
+Batteri: 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+Integrert grafikk gjør på sin side gjerne gode ting for batterilevetiden, og dette er også tilfelle for Amilo Si 2636. 
+Med våre testrutiner klarer den litt over fire timer kontinuerlig drift, noe de aller fleste brukere vil være fornøyd med. 
+
+Støy og varme: 
+Under jobbing regulerer maskinen vifta etter belastningen, og kan egentlig lage litt leven ved kontinuerlig hard jobbing. 
+Driver du på den annen side med hovedsaklig "lettere" oppgaver som surfing, MP3-avspilling, tekstbehandling eller kjøring av kontorapplikasjoner vil vifta bare spinne svakt opp en gang i blant - PCen vil altså generelt ikke lage så mye lyd ut av seg i tillegg til susingen fra harddisken. 
+
+Når det gjelder varme blir datamaskinen som del fleste andre nokså varm på undersiden, og i tillegg har den en "hotspot" - et område som er merkbart varmere enn resten av overflaten - ved venstre håndleddstøtte. 
+Den er på ingen måte ubehagelig varm, men noen mennesker finner slikt sjenerende og bør derfor sjekke ut dette før de kjøper. 
+
+Vurdering og konklusjon 
+
+Bærbare med 13,3-tommers skjermer har med tiden gått fra å være noe som nesten eksklusivt ble forbundet med Apples MacBook til også å inkludere flere andre bærbar-produsenter - og vi kommer fremover til å se på flere modeller i denne størrelsen. 
+
+Amilo 
+Si 2636 er et verdig tilskudd i denne klassen bærbare PCer. 
+Den har god ytelse, er pen i tøyet og har en batterilevetid som burde tilfredsstille de fleste. 
+Totalinntrykket vårt er altså godt, men som du bør ha fått med deg har vi også litt småplukk å klage på. 
+
+I tillegg har Fujitsu Siemens også alvorlig konkurranse. 
+Hovedsaklig er det den mye omtalte XPSen som er den store trusselen med sin sterkere grafikkløsning og - i skrivende stund - bedre pris. 
+
+Vi skal heller ikke glemme Apple MacBook, som jo svelger store markedsandeler i akkurat dette prissegmentet. 
+
+Men uansett er Amilo 
+Si 2636 på sin side et godt og friskt pust fra Fujitsu Siemens, og får også en svak femmer på terningen. 

@@ -1,0 +1,123 @@
+HP Spectre 13
+En klar anbefaling til den beste HP PC-en vi har testet til dags dato. 
+
+Under en presselansering i Oslo nylig viste HP fram en rekke produktnyheter, og avslørte samtidig at selskapet i tiden framover vil sette design i høysetet - i nær sagt alle produktkategorier. 
+Ett av produktene som passer godt inn i den nye designfilosofien er dagens testprodukt, ultrabooken HP Spectre 13. 
+
+Nå skynder vi oss å legge til at det ikke er første gang vi stifter bekjentskap med Spectre-serien, allerede i 2012 testet vi HP Spectre XT, der vi også hadde mye positivt å si om nettopp designen. 
+
+Vesentlig oppgradering 
+
+Spectre 13 er imidlertid hvassere på nær sagt alle områder, ikke minst på det teknologiske. 
+Og siden det ordet allerede er nevnt, hopper vi likesågodt over til en kjapp gjennomgang av spesifikasjonene: 
+
+Skjerm: 13,3" blank IPS-skjerm med 10-punkts berøring, 2560 x 1440 piksler Prosessor: 
+Intel Core i5-4200U, tokjernet 1,6 GHz RAM: 
+8 GB (fastloddet) Grafikkort: 
+Intel HD 4400, integrert i prosessoren Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI + Mini DisplayPort USB-porter: 2 x USB 3.0 Webkamera: 
+Ja, 720P (1280 x 720 piksler) 
+Kortleser: 
+Alle typer SD-minnekort Trådløst nett: 
+Intel 802.11a/b/g/n/ac Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0, WiDi, 50 GB gratis nettlagring, Adobe Photoshop Lightroom 5 OS: 
+Windows 8.1 64 bit Størrelse: 32,4 x 22 x 1,5 cm Vekt: 1,48 kg Pris: 
+Veiledende 11.000 kr, tilbud i skrivende stund 8.995 kr (se oppsummeringsboks nederst for dagens pris) 
+
+Til og med esken som Spectre 13 kommer i, levner liten tvil om at HP mener alvor når det kommer til design 
+
+Mye ultrabook for pengene 
+
+Spesifikasjonsmessig er det ikke mye å utsette på Spectre 13, den er oppdatert og godt utstyrt på nær sagt alle plan. 
+8 GB RAM og 256 GB som standard er sjelden på ultrabooks til under 10.000 kroner, i hvert fall i kombinasjon med en så høyoppløst skjerm. 
+I tillegg ser vi at den har støtte for den nye trådløse AC-standarden som sørger for hastigheter som tåler sammenligning med kablet nett. 
+
+Og nettopp støtte for kablet nett er noe denne PC-en ikke har, men det er fortsatt mulig ved hjelp av overganger fra USB 3.0 til Ethernet (ekstrautstyr). 
+
+Designmessig er den rett og slett lekker. 
+Her er benyttet helstøpt, børstet aluminium fra innerst til ytterst, av den typen som ikke etterlater seg særlig med fingermerker. 
+Alle kanter er avrundet, noe som gir et mykt preg. 
+Og tykkelse på 1,5 cm, da. 
+Kudos til HPs designavdeling! 
+
+Godt tastatur og stor, velfungerende pekeplate 
+
+Tastaturet er baklyst og perfekt utformet. 
+Ett enkelt trykk på F5-tasten skrur lyset av eller på. 
+Ett enkelt trykk på F12 skrur det trådløse nettet av eller på, enkelt og logisk. 
+
+Tastaturplaten er fast, tastetrykkene er støysvake, og det er rett og slett en fryd å skrive lange artikler på denne PC-en. 
+
+Under tastaturet sitter en svært bred multiberøringsfølsom pekeplate. 
+Denne har to såkalte kontrollsoner til venstre og høyre, som skal gjøre det enklere å aktivere Windows 8-funksjoner som Charms-menyen og bla gjennom åpne apper. 
+
+Pekeplaten fungerer uansett meget bra, til glede for alle oss som ikke alltid foretrekker skjermberøring. 
+Man skulle tro det var en selvfølge, men det er det ikke. 
+HP har imidlertid forstått det. 
+
+Prima skjerm 
+
+Skjermen er høyoppløst, lys- og fargesterk, og bildet er like klart selv om det betraktes fra nærmest død vinkel. 
+Berøringsfølsomhet og respons er upåklagelig. 
+
+Oppløsningen er meget høy, noe som betyr at raster og overganger blir svært fine, og detaljrikdommen i høyoppløste bilder er i "retina"-klassen. 
+For Windows 8 sitt nye "Modern UI"-grensesnitt er alt fryd og gammen, men merk at ikke alle klassiske Windows-programmer er optimalisert for så høy oppløsning, noe som kan gi bugs som svært liten tekst, uskarpe programvinduer og menyer som ikke vises riktig. 
+Windows 8.1 inneholder flere mekanismer en Windows 8 for å bøte på problemene, og flere er ventet i en oppdatering i mai, så det er grunner til å tro at dette er forbigående utfordringer. 
+
+Snart på tide å pensjonere McAfee? 
+
+En annen utfordring som du heldigvis kan gjøre noe med på egen hånd, er den medfølgende prøveversjonen av sikkerhetspakken fra McAfee. 
+
+Ikke nok med at den serverer deg skremselspropaganda i form av popup-bokser i tide og utide (for å få deg til å betale for produktet, naturligvis), den er også til tider meget ressurskrevende. 
+Under testen opplevde vi flere ganger at viftene i PC-en gikk på høygir, takket være uforståelig høy prosessorbelastning: 
+
+Her ser du årsaken: 
+
+Ved å avinstallere McAfee-pakka fra Kontrollpanelet og aktivere Windows 8.1 sin innebygde sikkerhet, ble maskinen tyst i de fleste situasjoner. 
+Kjøleviften surrer og går riktignok, men på så lav frekvens at den i de fleste tilfellene oppleves som meget støysvak. 
+
+Resten av programpakka er vi langt mer fornøyd med, ikke minst Adobe Photoshop Lightroom 5, et program for etterbehandling av blant annet RAW-bilder, som koster noen hundrelapper hvis du kjøper det løst. 
+
+Rask på det aller meste 
+
+Ytelsen er det lite å utsette på, den er akkurat som forventet for denne typen ultrabook. 
+Det betyr at den løser de aller, aller fleste oppgavene kjapt og problemløst. 
+Oppstart skjer på under 10 sekunder, og fra dvale er den klar så snart du har løftet lokket. 
+
+Merk imidlertid at PC-en har en tendens til å bli temmelig varm i bakkant, selv uten å være tungt belastet. 
+Det er trangt i en PC som er 1,5 cm tykk, og denne varmen er sannsynligvis noe av prisen du må betale for det. 
+Vi opplevde imidlertid ikke dette som noe stort problem, og det blir neppe så varmt at det vil påvirke levetiden til komponentene i negativ forstand. 
+
+Her er ytelsestallene våre fra Passmark PerformanceTest, krydret med våre kommentarer: 
+
+Prosessor: 3569 poeng Gjennomsnittlig for ultrabooks i prisklassen, som betyr god, generell ytelse. 
+Merk imidlertid at ULV-prosessorer ikke bør være førstevalg for svært tunge oppgaver innen konstruksjon, kompresjon og 3D-modellering. 
+
+3D-Grafikk: 528 poeng 
+Her kan du spille av alt av video, inkludert 4K-materiale, uten å bekymre deg for hakking. 
+Grafikken er imidlertid ikke så kraftig at den anbefales til å spille de mest krevende, nye spilltitlene, men de fleste spill fra Windows Store flyter svært bra (inkludert GTA San Andreas). 
+
+SSD Les: 360 MB pr sekund Skriv: 
+287 MB pr sekund 
+Ikke blant de aller raskeste SSD-ene, men flere ganger raskere enn selv de raskeste harddiskene. 
+Så rask at SSD-en neppe vil oppleves som noen flaskehals, under noen omstendighet, i PC-ens levetid. 
+
+Batteri: 
+Rundt 10 timer 
+Vi målte batteritiden som vanlig i to omganger. 
+I første runde med lav belastning (kun tilkoblet trådløst nett og med skjermen aktivert, ellers standard innstillinger), og i andre omgang med kontinuerlig videoavspilling av HD-film. 
+Ved lav belastning holdt batteriet ut i 12 timer og 13 minutter før det var natta, ved kontinuerlig videoavsspilling tok det 7 timer og 26 minutter. 
+Det betyr at du, ved normal bruk, skal kunne forvente en batteritid på rundt 10 timer, noe som er det aller beste vi har målt på noen ultrabook, med unntak av MacBook Air. 
+
+Konklusjon 
+
+I løpet av mine 14 år som testjournalist har jeg aldri før blitt like imponert av en PC fra HP som etter møtet med Spectre 13. 
+Dette er helt klart en av de aller beste ultrabookene på markedet nå, og den koster til alt overmål mindre enn mange av konkurrentene som byr på omtrent lik konfigurasjon. 
+
+De få ankepunktene vi har er bare som pirk å regne, og vi ender derfor på en sekser til HP for første gang. 
+Vel fortjent, og en PC vi absolutt mener du bør vurdere om du er på jakt etter en solid og lett maskin med svært god batteritid. 
+Men før du bestemmer deg bør du også ta en titt på disse åpenbare alternativene: 
+
+HP Spectre 13-3000eo 

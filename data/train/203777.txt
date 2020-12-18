@@ -1,0 +1,192 @@
+Apple:- Den erstatter lett PC-en din. 
+Vi er ikke like sikre 
+
+Det heftigste nettbrettet du får kjøpt, om du har råd til det. 
+
+iPad Pro er ikke et nettbrett du kjøper for å sofasurfe med. 
+Bare navnet indikerer at det er myntet på profesjonelle brukere. 
+
+Da serien ble introdusert i 2015, ble den frontet som et verktøy for kreative; designere, illustratører, arkitekter og lignende. 
+Ikke bare fordi den hadde en større skjerm og kraftigere ytelse, men også fordi den kunne brukes med en ny digital penn, Apple Pencil. 
+
+Nå vil Apple at den skal ses på som en fullverdig datamaskin som skal brukes i stedet for en PC. 
+Den kommer fremdeles til kort som en tradisjonell bærbar, først og fremst på grunn av begrensinger i iOS. 
+Mer om det senere. 
+
+Høy startpris 
+
+La oss bare gjøre det klart med en gang: 
+Inngangsprisen på iPad Pro-serien er stiv. 
+
+Nye iPad Pro kommer i en 11-tommer utgave, som koster fra 8.890 kroner, og en 12,9-utgave som koster fra 10.890 kroner. 
+
+Vårt testeksemplar er den største modellen med maks lagringskapasitet på 1 TB som kommer på hele 18.390 kroner, noe vi tør påstå er i overkant for de fleste, i hvert fall oss vanlige dødelige som ikke har helt spesifikke behov innenfor for eksempel videoredigering, 3D-tegning og mer avanserte gjøremål. 
+
+Stor, men kompakt 
+
+11-tommeren er de mest hendige av de to, men etter å ha brukt forrige generasjons 10,5-tommer som primærmaskin hjemme de siste årene, setter jeg faktisk pris på den større arealet til 12,9-tommeren, selv om jeg bare gjør hverdagslige ting som å skrive, gjøre lett bilderedigering eller se på TV-serier. 
+
+12,9 tommeren er dessuten 25 prosent mindre enn før fordi den ikke lenger har noen hjemknapp, og det bare er en tynn ramme rundt skjermen. 
+Med en vekt på 633 gram er den fremdeles såpass tung at du ikke orker å holde den med én hånd for lenge av gangen, men den er merkbart lettere å håndtere enn forgjengeren. 
+
+Selv om skjermstørrelsen på den mindre utgaven har økt fra 10,5 til 11 tommer, er fotavtrykket faktisk det samme. 
+Denne veier bare 468 gram, noe som faktisk er mindre enn standard-iPad på 9,7-tommer. 
+
+Helt nytt design 
+
+Apple har som dere kanskje har skjønt utført ekstrem oppussing på eksteriøret av iPad Pro. 
+Som nevnt er hjemknappen fjernet, og vips har den fått en nesten heldekkende skjerm. 
+Rammen rundt skjermen er fremdeles 8 millimeter, så helt «kant-til-kant»- er det ikke. 
+
+Sidene på iPad Pro er ikke lenger avrundet, men helt flate, og det samme er baksiden. 
+Med den industrielle looken ser den proffere ut enn før. 
+Noen vil sikkert mene den har likheter med hovedkonkurrenten Microsoft Surface Pro. 
+
+Den kan også krone seg med tittelen «den tynneste iPad-en til nå», med en tykkelse på bare 5,9 millimeter på både 11- og 12,9-tommeren. 
+Forgjengerne var henholdsvis 6,1 og 6,9 millimeter. 
+
+Skjermen har også fått buede hjørner, akkurat som på iPhone X. 
+Utviklere må dog oppdatere appene sine for å passe helt ut i hjørnene, noe ikke alle har gjort ennå. 
+Facebook er som vanlig trege, og her ser vi at det er en ekstra svart ramme rundt appen. 
+
+Smidig med FaceID 
+
+Ved å fjerne hjemknappen, er det nå en ny måte å låse opp iPad Pro på. 
+Nemlig med ansiktet. 
+Der hvor frontkameraet tidligere var, finner du nå et såkalt TrueDepth-kamera, som du fremdeles kan ta selfier med, men som du også kan bruke til Apples FaceID-ansiktsopplåsning. 
+
+Men i motsetning til på iPhone X-familien, fungerer FaceID uansett hvilken retning du holder iPad-en, det være seg vertikalt, horisontalt, ja til og med opp ned. 
+
+Kanskje er det innbilning, men jeg opplever FaceID som raskere på iPad Pro enn iPhone Xs Max. 
+Den har dessuten aldri feilet. 
+
+Innimellom sier den fra om at kameraet er tildekket fordi jeg holder fingeren min over det, men den er ellers utrolig effektiv. 
+Vi må heller ikke holde iPad-en rett foran ansiktet, den kan like gjerne ligge på bordet mens vi ser ned på den, og det går like kjapt. 
+
+Om du bruker briller, har det ikke noe å si om du har dem på eller ikke; iPad Pro kjenner i hvert fall oss igjen uansett. 
+Vår erfaring er at Apple løser dette bedre enn Microsofts konkurrent Hello. 
+
+Det kjekke er at FaceID også brukes ved innlogging i nettsider og apper, enten via Apples Nøkkelring eller en tredjepartsapp som 1Password, så i det daglige går mye av det sikkerhetsmessige nesten uten at vi tenker over det. 
+
+Hjemknappen er allerede glemt 
+
+Etter å ha brukt iPad Pro noen dager, savner vi absolutt ikke hjemknappen. 
+Apple begynte å innføre nye sveipebevegelser for iPad i iOS 11, så man har allerede kunnet sveipe opp for å hente opp Dock-linjen med favorittapper. 
+
+Som på iPhone X er det en såkalt hjem-indikator (en strek) i bunnen av skjermen, som forteller deg at du kan sveipe opp for å gå tilbake til hjemskjermen. 
+Du kan også sveipe til venstre eller høyre nederst på skjermen for å gå bytte mellom mapper (her kan du også bruke fire fingre som før), eller dra fingeren enda lenger opp for å komme til app-veksleren. 
+
+Deretter kan du dra ned fingeren fra øverst til høyre på skjermen for å hente opp kontrollsenteret med hurtigsnarveier, eller øverst til venstre for å hente opp varsler. 
+
+Sløst mulighet 
+
+Selv om Apple har gjort gode tilpasninger for at iPad Pro er enkel å styre uten hjemknapp, er det her vi begynner å se hvor iOS er litt begrenset, i hvert fall om man skal bruke iPad mer som en tradisjonell PC. 
+
+På en stor 12,9-tommer skjerm, kunne vi ønsket oss enda flere funksjoner i kontrollsenteret, og kanskje et mer avansert varsel-oppsett i varselsenteret. 
+I stedet blir det mye ubrukt plass. 
+
+Og selv om Apple har introdusert en del multitasking-funksjoner på iPad i senere tid - du kan kjøre to apper ved siden av hverandre, og en app over en annen - er det ikke like effektiv som på en vanlig datamaskin, det være seg PC eller Mac. 
+Å bytte mellom apper, eller jobbe i flere apper samtidig, er fremdeles mer tungvint på en iPad. 
+
+For å ikke glemme at iOS fremdeles ikke har støtte for brukerkontoer. 
+Personlig hadde jeg hatt mer behov for dette på standard-iPaden på 9,7 tommer, da det er større sannsynlighet for at man vil dele denne med flere (les: ungene). 
+
+Endelig USB-C 
+
+Én ting som taler for iPad Pro som er mer seriøst arbeidsverktøy er introduksjonen av USB-C. 
+Apple valgte noe overraskende å skrote sin egen Lightning-plugg til fordel for den nye markedsstandarden, som de riktignok også har begynt å bruke på sine Mac-er. 
+
+Fordelene er mange: du kan koble til eksterne skjermer, du kan lade andre enheter (for eksempel din iPhone, selv om du da må kjøpe en USB-C til Lightning-kabel for 200 kroner), og du kan importere bilder og videoer fra ekstern lagring eller direkte fra kameraer. 
+
+Dessverre støtter ikke iPad vanlig ekstern lagring, så du kan ikke plugge i en USB-C-disk og se på dokumentene i Apples Filer-app. 
+En annen begrensning iOS Apple burde fjerne om de vil at iPad Pro skal anses som en tradisjonell datamaskin. 
+Bilder importeres dessuten rett inn i kamerarullen, så må du manuelt legge dem inn i Lightroom igjen om du vil ha de der. 
+
+Det er for øvrig også en masse annet utstyr du kan koble til, som lydutstyr, dokkingstasjoner, tastaturer og så videre - en del av det krever muligens en overgang av et eller annet slag. 
+
+Lynrask 
+
+På innsiden av nye iPad Pro finner vi en åttekjerners A12X 
+Bionic, som er en kraftigere versjon av prosessoren som finnes i nye iPhone XS. 
+
+Mens vi egentlig ikke liker å snakke om ytelsestester, gjør den nye 12,9-tommeren det så latterlig bra at vi nesten ikke kan la være. 
+I Geekbench 4 får den en poengsum i multicore på 17.990. 
+Til sammenligning fikk iPhone XS Max en poengsum på 11.408. 
+Samsung Galaxy Tab S4 fikk bare 6.510. 
+
+Apple skryter selv at den er raskere enn 92 prosent av alle bærbare PC-er solgt det siste året, og byr på grafikk like bra som Xbox One S. 
+
+I bruk merker vi dog lite til at den skal være ekstremt mye raskere som tallene tilsier. 
+Både fjorårets iPad Pro og standard-iPad-en fra tidligere i år oppleves som like kjappe. 
+Dog hadde det kanskje vært annerledes om vi testet ut noen ekstremt krevende apper. 
+
+Det er kanskje neste år, da Adobe endelig lanserer fullverdig Photoshop til iPad at man kan begynne å se de virkelige fordelene A12X 
+Bionic-brikken byr på. 
+
+Det skal dog sies at grafikktunge spill ser ordentlig bra ut på iPad Pro. 
+Realistiske med gode detaljer, og så flyter alt innmari bra. 
+Vi har også fått demonstrert redigering av bilder i RAW-format i Adobes Lightroom-app, hvor man har justert lyset på deler av et bilde uten at man ser noen forsinkelser. 
+
+Kraftigere lader 
+
+Når det kommer til batteriet, skal det ifølge iFixit være mindre enn på forgjengeren, noe som ikke er så rart med tanke på at nettbrettet har krympet i størrelse. 
+På 12,9-tommelen er det på 9.720 mAh, mot tidligere 10.875 mAh. 
+
+Apple lover en batteritid på 10 timer, noe som samsvarer bra med vår opplevelse etter noen dagers bruk. 
+
+En gladnyhet denne gangen er at Apple har valgt å legge ved en kraftigere 18 watts USB-C-lader i esken, mot tidligere 12-watt. 
+Dermed går ladingen raskere. 
+
+Det sitter fortsatt fire høyttalere i iPad Pro, og de justerer lyden etter hvilken retning du holder nettbrettet. 
+Lyden er knallbra til et slikt produkt å være, så det gjør nesten ikke noe at det ikke lenger finnes noe sted å plugge de dyre, kablede hodetelefonene dine. 
+
+Det har også støtte for blant annet eSIM, noe som kan være kjekt når du reiser utenlands. 
+
+Bedre penn 
+
+En fiffig sak med nye iPad Pro er at den har 102 små magneter på innsiden, noe som gjør det mulig å feste den på Apple Pencil og Smart Keyboard Folio, som begge har kommet i nye versjoner. 
+
+Nye Apple Pencil er kanskje den beste oppgraderingen av de to, hvor Apple mer eller mindre har tatt alt som var galt med den forrige, og fikset det. 
+
+For det første kan den altså festes på siden av iPad Pro ved hjelp av magneter. 
+
+For det andre vil du samtidig lade pennen, altså slipper du å plugge den i ladekontakten som tidligere, og du vil heller ikke miste korken i samme slengen, noe mange endte opp med å gjøre. 
+
+For det tredje er det nå mulig å dobbelttrykke på siden av pennen for å bytte funksjon. 
+Som standard er det satt til å bytte mellom gjeldende verktøy og viskelær, men dette kan du endre i innstillingene til pennen. 
+Tredjepartsapper har mulighet til å ta det i bruk, slik at du for eksempel i Procreate kan velge noe helt annet igjen. 
+
+Og til slutt er den nå i matt plast i stedet for blank, og den er helt flat på ene siden, slik at den ikke ruller av alle overflater som ikke er helt rette. 
+
+En annen kjekk detalj er at du kan trykke Apple Pencil på skjermen for å vekke den og åpne Notater-appen direkte for å skrive eller tegne. 
+
+Nye Smart Keyboard Folio dekker nå både foran og baksiden av iPad Pro, og kan dessuten settes i to ulike posisjoner. 
+
+Jeg har brukt det forrige en god del, og synes det er behagelig å skrive på. 
+Men jeg skulle gjerne sett at Apple hadde gitt det en funksjonsrad, for å for eksempel gå rett til hjemskjermen, justere lysstyrke og volum og så videre. 
+
+Når tastaturet er brettet bak skjermen, og du holder i det, er tastene på baksiden, og det føles litt rart ut, selv om det ikke er mulig å skrive på det. 
+
+Dessverre følger hverken pennen eller tastaturet med på kjøpe. 
+De vil koste deg henholdsvis 1.329 og 2.149 kroner (1.899 kroner for tastaturet til 11-tommelen) ekstra. 
+
+Har du førstegenerasjons Apple Pencil, vil den ikke fungere på nye iPad Pro, så du er nødt til å kjøpe ny om tegning er en vesentlig funksjon for deg. 
+
+Konklusjon 
+
+2018-utgaven av iPad Pro er utvilsomt den beste iPad-en til nå, og vi tør også påstå det beste nettbrettet på markedet. 
+Her byr Apple på det ypperste av teknologi i en lekker og solid innpakning. 
+Introduksjonen av USB-C er et velkomment tillegg, om enn ikke helt uten begrensninger. 
+Og det er ikke billig om du skal ha hele pakka med penn og tastatur. 
+
+Med større skjerm og så kraftig ytelse stiller vi imidlertid større krav til iOS hva gjelder multitasking. 
+Nye iPad Pro vil fremdeles ikke kunne erstatte den avanserte arbeidsflyten man får med en PC eller Mac, i hvert fall om det dreier seg om å for eksempelø jobbe med flere regneark samtidig hvor man skal flytte data mellom dem, og det gjøres enklest med mus. 
+
+Mange vil likevel kunne bruke iPad Pro den til «avanserte» formål, og i motsetning til andre nettbrett-plattformer, finnes det et stort utvalg apper som lar deg gjøre nettopp det. 
+
+Trenger du iPad Pro om du bare skal konsumere innhold? 
+Nei, ikke om penger ikke betyr noe. 
+Da kan du fint klare deg med den vanlige iPad-en på 9,7-tommer, som koster fra 3.490 kroner. 
+Skal du skape innhold, kan du fortsatt bruke «folkemodellen», da den også fungerer med Apple Pencil, riktignok kun forrige utgave uten magnetfeste. 
+
+Og er du ute etter et brett som kan brukes helt som en PC, bør du få med deg testen under: 

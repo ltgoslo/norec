@@ -1,0 +1,72 @@
+D-Link DIR-865L
+D-Links toppmodell på testbenken. 
+
+Vi har allerede testet et par andre rutere som støtter den nye 802.11ac standarden, som parkerer alt annet av trådløst utstyr. 
+Nå er det D-Link sin tur, med modellen DIR-865L. 
+
+Faktisk har vi allerede presentert den i en sammenligning med Asus og Buffalo sine rutere i samme klasse, hvor vi målte hva de klarer å prestere som nettverksbroer. 
+En slik test viser bare en side av ruteren, det er ikke vanlig at folk bruker to trådløse rutere for å etablere en forbindelse mellom to områder. 
+Men slik får man likevel testet toppytelsen. 
+
+Viktige forskjeller? 
+
+Vi tester ytelsen med overføring av en ikke-komprimerbar videofil på 100 MB. 
+I "gamle dager" tok det opptil flere minutter å overfør denne når man hadde dårlig dekning på det trådløse hjemmenettet med de gamle standardene 802.11b/g 
+
+Med kurant ruter og god dekning og dagens 802.11n tar en slik overføring vanligvis mellom 20 og 30 sekunder. 
+
+Med en topp ruter og tilsvarende topp trådløst med tre antenner på bærbar, er overføringen i mål på 8-9 sekunder. 
+
+Med 802.11ac er vi nede i 3-5 sekunder med de tre ruterne vi har testet. 
+
+Da blir forskjellen mellom den beste og den "dårligste" bare 2 sekunder. 
+
+Jo raskere utstyret blir, jo mindre blir forskjellene og dyrere blir løsningene. 
+
+D-Link DIR-865L 
+
+D-Link har valgt å lage sin ac-ruter som en høy, stående boks i blank, sort plast, uten eksterne antenner. 
+Den skal altså ikke legges ned, det er til og med merkelapper over skruene i foten, som sier at garantien ikke gjelder om disse fjernes og man tar av foten. 
+
+Utseende er nøytralt og trekker ikke til seg oppmerksomhet. 
+En ruter er jo ingen pyntegjenstand, den skal i utgangspunktet bare fungere. 
+Samtidig må den ikke gjemmes bort, da vil den fungere vesentlig dårligere. 
+
+Tilkoblingene er de vanlige, med 4 LAN-porter til kablet nettverk, 1 WAN-port til internett og 1 USB-port til lokal lagringsenhet. 
+I tillegg er det kontakt for strømforsyning, av/på bryter og åpning til reset-bryteren. 
+
+Installasjon 
+
+Som andre moderne rutere er det ikke nødvendig å installere eller kjøre programvare fra CD for å få en ruter opp å kjøre. 
+Du kobler den til, slår på strøm, så starter du nettleseren. 
+
+Etter en liten stund presenterer nettsiden til ruteren seg, og du kan starte veiviseren. 
+
+Hvis du bare skal ha nettilgang og trådløst nett er det bare tre vinduer du må forholde deg til. 
+Du skriver inn brukernavn og passord, og navn på det trådløse nettet. 
+Etter at denne informasjonen er på plass er ruteren klar til bruk. 
+
+Ruteren har også alle de avanserte egenskapene man kan komme til å trenge, hvis man er en entusiast eller krevende bruker som vil fintrimme nettverksløsningene. 
+
+Ytelse 
+
+Vi fikk meget god ytelse i stua to etasjer ned fra hemsen der ruteren står, både på 2,4 og 5 GHz. 
+
+I kjelleren var 2,4 GHz overlegen, her var 5 GHz på grensen av det brukbare. 
+Det er naturlig at 5 GHz har dårligere rekkevidde, men her har andre rutere prestert vesentlig bedre. 
+Men 2,4 GHz forbindelsen er god. 
+
+Sky-tjenester 
+
+D-Link har også tjenestetilbudene mydlink og SharePort Mobile som gir deg mulighet for blant annet å fjernbetjene ruteren over internett fra en mobil eller annen PC og få tilgang til lokal lagring via nettet. 
+
+Disse tjenestene fra D-Link og tilsvarende fra andre ruterprodusenter kommer vi tilbake til i en senere artikkel. 
+
+Konklusjon 
+
+D-link DIR-865L er en meget rask ruter, med et diskret utseende og god brukervennlighet. 
+Den gir svært god hastighet og rekkevidde på vanlig 802.11n på 2,4 GHz, men rekkevidden er ikke den beste på 5 GHz. 
+
+Ytelsen med 2 stk 802.11ac som nettverksbro kan du se i vår sammenligningstest her. 
+
+D-Link DIR-865L 

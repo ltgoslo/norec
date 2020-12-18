@@ -1,0 +1,68 @@
+HP Pavilion dv6060ea
+Dette er den rimeligste bærbare i denne trioen på testbenken, og er også den eneste med AMD-prosessor. 
+Denne var vi nysgjerrig på. 
+
+Fulle spesifikasjoner: 
+
+LES OGSÅ: 
+
+AMD Turion 64 X2 TL-52 15,4" WXGA 1280x800 (Brightview) 1024MB DDR2 667MHz/2 120GB SATA 5400 rpm DVD SuperMulti Drive (+,- RAM) 8x med Lightscribe teknologi NVIDIA GeForce Go 7400 128MB turbocache minne WLAN 802.11b/g GB LAN 3 USB 2.0 porter ExpressCard 34/54 5in1 kortleser , MMC, SD, Memory Stick, Memory Stick Pro og xD VGA og S-video utganger XP Home Edition Dimensjoener: 35,7x25.7x2,54 cm Vekt: 2,99kg 
+
+HP har stor bredde i utvalget av bærbare. 
+Det er mange serier under hp-etiketten og Compaq-navnet lever også videre for bærbare i bussiness-segmentet. 
+
+Pavilion-serien er beregnet på privat bruk, med blant annet direkte støtte for multimedia uten å måtte starte opp Windows. 
+Mer om dette lenger ned i artikkelen. 
+
+Noen i designavdelingen hos hp har muligens drevet med flislegging, det sorte blanke plastlokket har et mønster av tynne sølvstreker, som minner sterkt om det man får når man bruker tannsparkel og legger ut fliselim... 
+Effekten er faktisk ganske stilig, men som alle sorte blanke overflater får de også brukerens fete fingeravtrykk til å stå fram i all sin prakt. 
+Dette har hp også tydeligvis erfart, det følger med pusseklut! 
+
+Det er ingen lås mellom skjerm og tastaturdel, og man må holde igjen nedre del når maskinen skal åpnes. 
+Her må man altså sette fra seg kaffekoppen før man får satt fra seg og slått på PCen... 
+
+Designet er smakfult, uten for mye krimskrams, men alle klistrelappene skjønner vi ikke hvorfor alle produsentene på død og liv skal "pynte" med. 
+Brukeren har jo allerede kjøpt maskinen, hva er da vitsen med å reklamere for prosessor, grafikkbrikke, DVD-brenner, Windows Vista-kapabilitet osv osv? 
+Dette er jo ikke merker som er beregnet på å fjernes av brukeren. 
+
+Alle tilkoblingene er plassert på sidene og i front. 
+Ikke en eneste liten plugg finnes på baksiden. 
+På fronten sitter lydkontaktene og IR-vinduet, resten er på sidene. 
+
+I tillegg til de vanlige tilkoblingene finner vi en port for kabel til en dokk-stasjon, her kan du koble til omtrent alt som ellers finnes som separate porter. 
+
+Skjermen er blank og bred, med middels oppløsning på 1280 x 800 punkter. 
+Som de andre 2 maskinene i denne testrunden er betraktningsvinkelen begrenset på godt og ondt, og etterslepet akseptabelt. 
+
+Også her var ClearType slått på, noe som vi opplever gir en mindre skarp og lesbar tekst. 
+
+Tastaturet er behagelig, med gode taster og grei plassering av taster. 
+Enter-tasten er stor og plassert innenfor manøvreringstastene som er plassert helt ytterst tl høyre. 
+
+I tillegg er det berøringsfølsomme taster mellom tastaturet og skjermen, disse er for å styre medieavspilling uavhengig av Windows eller i Windows Media Player og andre programmer. 
+
+Berøringsfølsomme er ingen overdrivelse. 
+Da vi skulle pakke PCen pent sammen la vi inn beskyttelses-"teppet" som følger med. 
+Mer skulle det ikke til før maskinen startet opp som mediespiller... 
+
+Støynivået var lavt, maskinen var knapt hørbar nå viftene ikke gikk, og viftestøyen var svært lav og uten ulyder. 
+Mer enn godkjent. 
+
+Ytelse 
+
+Så var det dette med ytelsen da, kan AMD hamle opp med Intel? 
+Svaret på dette ut fra testene er et klart nei. 
+Maskinen litter under begge de to andre i alle testene, selv om vi ikke snakker om hårreisende forskjeller. 
+I snitt ligger forskjellen på rundt 10%. 
+
+Størst forskjell var det i grafikkytelse, men her er det verken AMD eller Intel som står for prestasjonene. 
+Grafikkløsningen er GeForce 
+Go 7400 fra nVidia og er svakere enn både Radeon X1400 og X1600 som satt i de andre maskinen i trioen. 
+
+Batterilevetiden var på 1:46 som er tre kvarter kortere enn det Acer holdt ut. 
+
+Konklusjon 
+
+Maskinen er lekker, ytelsen er kurant og utstyrsnivået er godkjent. 
+
+Den har likevel ikke like mye å by på som Acer og Elitegroup sine deltakere, verken i ytelse eller utstyrsnivå. 

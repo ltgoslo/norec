@@ -1,0 +1,107 @@
+Multicom Kunshan W860
+Nå er nyeste generasjon prosessorer klare for bærbare, og vi har testet! 
+
+Intels "superprosessor" Core i7 har vært tilgjengelig for stasjonære PC-er i et års tid, men den bærbare utgaven har latt vente på seg. 
+Det er flere grunner til dette, og de er ikke bare av teknisk art. 
+
+En viktig faktor er mangel på konkurranse fra AMD, Intel har kunnet levere sine to-kjerners prosessorer til alle produsentene uten å frykte konkurranse verken på pris, ytelse eller batteriforbruk. 
+
+Men nå leverer Intel de rimeligere og raskere utgaver av Core-serien for stasjonære, og følger opp med de bærbare variantene. 
+Nå snakker vi om fire kjerner! 
+
+Vi har hatt en maskin fra Multicom på test, her er våre erfaringer. 
+
+Multicom Kunshan W860 
+
+Multicom er blant dem som gir deg stor valgfrihet når du skal kjøpe bærbar PC. 
+I stedet for å gå seg vill i mange kryptiske modellbetegnelser velger du en grunnmodell som består av et chassis og hovedkort. 
+Så kan du velge selv hvilke komponenter som skal monteres inn. 
+
+Dermed kan du velge den kraftigste prosessoren og relativt svak grafikk hvis du skal jobbe med tunge digitale media. 
+Vil du heller ha en spillmaskin velger du det kraftigste skjermkortet og går heller ned på prosessorytelse. 
+
+Diskstørrelse, disktype og minne står deg også fritt. 
+Du kan velge roterende eller flashbasert harddisk, vanlig DVD eller Blu-ray. 
+
+Liker du blank skjerm for å se på film og bilder i halvmørket kan du velge en blank skjerm med HD-ready (1366x768) eller full HD-oppløsning (1920x1080). 
+Jobber du profesjonelt hvor det er takbelysning har du muligheten til å velge en matt skjerm med oppløsning på 1600x900. 
+
+Vårt testeksemplar inneholdt: 
+
+Maskinen har i skrivende stund en pris på 13 840 kroner inkl mva. 
+Men det er ikke noe problem å doble prisen hvis du velger det største, raskeste og beste av alt. 
+
+Maskinen er ikke av de letteste og mest kompakte, den veier 3,38 kilo og måler 364 x 269 x 41mm. 
+
+Når deg gjelder porter og tilkoblinger er det meste på plass: 
+
+På venstre side sitter modem-port, USB, FireWire, kortleser (SD/MS) og optisk drev. 
+
+På høyre side finner vi fire lydtilkoblinger for hodetelefoner, mikrofon, linje inn og SPDIF ut, USB (vi glemte visst å ta ut den lille mottakeren til Microsoft-musa...), ExpressCard 54 kortplass, eSATA og DVI. 
+
+På baksiden sitter hull til Kensington lås, HDMI, stømtilkobling, to USB-porter og nettverkskontakten. 
+
+I bruk 
+
+Dette er en tung maskin, den har et solid chassis og er meget solid bygget. 
+Den har karakter av arbeidsredskap, og er ikke noe man putter i veska uten videre. 
+Vi vil heller tro at den som regel vil være en del av et større lass, enten det er foto/musikk/video/dokumenter eller annet som står på agendaen. 
+
+Til musikkproduksjon håndterer den både profesjonelle lydenheter med FireWire samtidig som den har eSATA til lagring og ExpressCard til DSP-kort for ekstra prosessering eller lynrask lagring med flash-disk. 
+
+Til video håndterer den både eldre utstyr med FireWire, lagring på eSATA og ExpressCard til minnekort rett fra HD-kamera. 
+
+For profesjonelt bruk ville vi definitivt valgt en skjerm uten kontrastbelegg, på grunn av gjenskinnet som kan være plagsomt. 
+
+Tastaturet er det ingen ting å si på, det har god bredde og har nummertaster på høyre side. 
+Det er god plass, knappene er definerte og det er støysvakt. 
+En mønstret overflate der man hviler håndflatene er et pluss. 
+
+Pekeplaten er ordinær, knappen er ikke delt på midten og har en liten dødsone. 
+
+Man merker med det samme at dette er en kraftigere maskin enn den typiske bærbare i 6000-kroners klassen. 
+Dette skyldes både prosessor og grafikkort, som leverer ytelse man gjerne ser på stasjonære maskiner. 
+
+Støy og varme 
+
+Maskinen er ikke lydløs og kald, denne ytelsen fra både prosessor og grafikkprosessor krever sitt. 
+I et kontormiljø vil man ikke merke noe hvis man ikke sitter alene, eller er alene om å bruke PC og de andre holder pusten. 
+
+Vi opplevde heller ingen plutselige økninger i viftehastigheten, når den jobbet skjedde det jevnt og behagelig. 
+Det var ingen hørbare toner i støyen, dette gjør den langt mindre irriterende. 
+
+Maskinen ble heller ikke plagsomt varm. 
+
+Målinger 
+
+I PCMark Vantage fikk vi gode tall, som ventet vesentlig høyere enn vinneren i vår test av 6000-kroners PCer. 
+
+I PCMark05 fikk vi også gode tall der maskinen kom gjennom øvelsene. 
+Denne testen er gammel og Multicom-maskinen hadde dessuten 64-bits Vista installert. 
+
+Den klarte også en score på 12757 3DMarks06 
+
+Batteritid 
+
+Bærbare med Core i7 er ikke av den typen som er gjerrige på strømmen. 
+Prosessoren i vårt testeksemplar er designet for et strømforbruk på maksimalt 45 watt. 
+Med et batteri som kan levere denne effekten i en times tid blir det ikke lenge mellom ladingene. 
+
+Vi fikk maskinen til å kjøre i 68 minutter uten å kjøre noen programmer, men uten noen form for strømsparing. 
+
+Ved kontinuerlig avspilling av HD-video varte batteriet i 53 minutter før maskinen slo seg av. 
+
+Bruker du maskinen mer normalt, med strømsparingsfunksjoner slått på kan du kanskje få en time lenger brukstid, avhengig av type bruk. 
+Men noen transatlantisk ytelse kan du ikke regne med. 
+Det er heller ikke den type bruk denne maskinplatformen er konstruert for. 
+
+Konklusjon 
+
+Multicom Kunshan W860 er en kraftig maskin for krevende oppgaver. 
+Den er litt industriell i snittet, ikke så preget av designtrendene som andre PCer beregnet på større brukergrupper. 
+
+Maskinen er veldig allsidig på grunn av antall porter og tilkoblingsmuligheter. 
+
+Dessuten tilbyr Multicom om ikke skreddersøm så i hvertfall målsøm, slik at din bærbare kan tilpasses dine krav til ytelse innenfor de midlene du har til rådighet. 
+
+Konfigurerings-siden hos Multicom finner du her 

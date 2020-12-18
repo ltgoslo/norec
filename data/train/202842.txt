@@ -1,0 +1,99 @@
+Casio Exilim EX-Z1000
+TEST: 
+Casios nye toppmodell byr på intet mindre enn 10.1 megapiksler. 
+Vi har knipset! 
+
+For bare noen uker siden testet vi Casios forrige toppmodell, Z850, som vi med begeistring trillet en femmer til på terningen, mye på grunn av kameraets meget gode ytelse og jevt over gode kvaliteter ellers. 
+Nå har vi hatt den nye toppmodellen, Z1000, i et par uker, og i dagens megapikselrace er 10.1 i tet når det gjelder lommekameraer. 
+
+For å fange 10.1 megapiksler bruker Z1000 en CCD-brikke på 1/1,8"; den største av de to typene som er vanlige for lommekameraer. 
+I utgangspunktet vil mange være skeptiske til så mange piksler på en så liten brikke, men hvis vi regner på det, finner vi en sensortetthet på 262.000 pr. kvadratmilimeter kontra 243.000 på et kamera med 1/2,5" CCD og 6 megapiksler. 
+Med andre ord - ingen veldig stor forskjell sånn sett. 
+
+Optikken har Casio stått for selv, og objektivet har 3x optisk zoom med et brennviddeområde tilsvarende 38-114mm; det mest vanlige for lommekameraer, mens vi som vanlig gjerne skulle ha sett større vidvinkel enn 38mm. 
+Maksimal blenderåpning på vidvinkel er på fine f/2.8, mens f/5.4 i tele-enden er noe mindre enn vi kunne ønske oss. 
+Nærgrensen for makrofotografering kunne også vært bedre, selv om 6cm slett ikke er dårlig for denne typen kamera. 
+
+Konstruksjonsmessig synes vi ikke Z1000 har samme kvalitet som sin lillebror, Z850. 
+Huset er av riktignok av stål (Z850 er i børstet aluminium), men designet er et lite hakk kjedeligere. 
+På forsiden har blitsen en god plassering; øverst og litt til siden, men ikke så langt at du løper noen risiko i forhold til å få fingeren i veien. 
+Kameraet har også en autofokuslampe som aktiveres når lystilgangen er dårlig, og autofokusen fungerer jevnt over veldig godt på dette kameraet. 
+
+På toppen finner vi knapper for å slå av og på kameraet, utløserknapp, og en zoomkontroll som fungerer på samme måte som det forrige Casio-kameraet, og som også Canon har hatt for vane å bruke på sine kameraer. 
+Vi legger også merke til et litt ruglete parti til høyre tommelfinger som gir deg et litt mer solid grep når du holder kameraet med én hånd. 
+
+Litt på skrå over toppen finner vi knappene som skiller mellom avspilling og opptak; en knapp til hver. 
+Disse knappene kan du også bruke for å skru på kameraet - en fordel dersom du bare vil se på bilder er da at objektivet ikke kommer ut av kamerahuset. 
+Dersom du har tenkt til å ha kameraet i bagen, setter vi også pris på muligheten til å deaktivere dette via menyen. 
+En egen disp-knapp lar deg sette opp displayet slik du vil, og du kan justere lysstyrke, fargenivå og hva slags informasjon som vises, inkludert levende histogram for alle RGB-kanalene ved opptak. 
+
+Stor LCD-skjerm 
+
+LCD-skjermen er 2,8" i diameter og er i widescreen. 
+Vi stusset litt over dette, siden bildene som tas tross alt er i 4:3-format, men 16:9-knipsing er også mulig. 
+Det som imidlertid er kjekt, er at bredskjermen tillater deg å vise innstillingene i margen ved siden av 4:3-bildet. 
+Som du kan se på bildet under, gir det deg rask tilgang til de mest relevante innstillingene uten at noe av bildet dekkes til. 
+LCD-skjermen har forresten en oppløsning på 230.000 piksler, men med såpass størrelse på skjermen, fremstår den allikevel som mer uskarp enn flere av sine konkurrenter. 
+I likhet med lillebror er skjermen god i solskinn, og heller ikke innsynsvinkelen fra sidene er noe å klage på - vi synes imidlertid at skjermen har litt å gå på når det gjelder vertikal innsynsvinkel. 
+
+Til høyre for skjermen finner vi navigasjonstastene inkludert OK-knapp, en menyknapp og en knapp merket BS (Best shot). 
+BS-knappen gir deg mulighet til å velge hva slags type motiv du vil fotografere; det være seg portrettbilder, nattbilder etc. 
+En ting vi synes er litt merkelig er at både makrofotografering og filminnspilling kun er tilgjengelige fra denne menyen, og at det derfor tar et par unødvendige tastetrykk ekstra å aktivere disse funksjonene. 
+
+I BS-menyen finnes også noen spesialeffekter som pastell, sepia etc. 
+Du kan også velge "ID Photo", der du tar bilde, rammer inn ansiktet og trykker OK, før kameraet lager fem ulike størrelser av bildet. 
+
+Brukervennligheten er det lite å si på ellers - menyene er lett forståelige med tydelig skrift og fornuftig oppdeling, og det nevnte panelet på høyre side er veldig kjekt der du raskt har tilgang til ISO, hvitbalanse, blitsstyring, oppløsning etc. 
+Når du ser på bilder kan du få opp en kalender som lar deg velge hvilken dag du vil vise bilder fra, og du kan foreta enkle justeringer som beskjæring, rotering, fargekorreksjon og keystone, som lar deg justere perspektivforvrengninger. 
+Kameraet har også støtte for lysbildemodus der du kan vise bilder i serie - kjekt når du kobler kameraet til TV så du slipper å trykke deg igjennom selv. 
+
+Vi savner imidlertid manuell kontroll over blender og lukkertid, som vi hadde hos det forrige kameraet. 
+
+Ytelse 
+
+Z850 var et råskinn når det gjaldt ytelse, og Z1000 er også ganske raskt i forhold til mange av sine konkurrenter, selv om det ikke er like raskt som sin forgjenger. 
+Kameraet klarer 9 bilder uten blits på 10 sekunder, og kan også ta serier på tre bilder i løpet av et drøyt halvskund; både med og uten blits. 
+Det skal imidlertid sies at blitsstyrken da ikke er på det maksimale, og at kameraet bruker noen sekunder på vanlig blitslading. 
+
+Selv om Z1000 på fokuseringstesten vår gjorde det noe svakere enn sin forgjenger, er det fortsatt blant de raskere lommekameraene, og batterilevetiden på 360 bilder etter CIPA-standarden (halvparten med, halvparten uten blits + preview av alle bilder) er i det øverste sjiktet for lommekameraer. 
+
+Bildekvalitet 
+
+Det vi var mest spente på var selvsagt bildekvaliteten - 10 megapiksler høres flott ut på papiret, men vi har mang en gang pekt på at megapiksler ikke er ekvivalent med hverken bildekvalitet eller skarphet - der spiller også både optikk og singnalbehandling en vesentlig rolle. 
+I tillegg er det en kjennsgjerning at mange sensorer på en liten brikke ofte produserer mer støy. 
+
+Støymessig produserer kameraet høyst akseptable resultater til og med ISO 400, som er den høyeste manuelle innstillingen du kan sette. 
+Bruker du den såkalte anti-shake-funksjonen og lystilgangen er dårlig, benyttes høyere ISO-verdier for å korte ned lukkertiden, men over 400 blir det grumsete og detaljer forsvinner. 
+Under finner du et utsnitt med henholdsvis ISO 50, 100, 200 og 400. 
+Selv om detaljene avtar med høyere ISO-verdier er støynivået ganske akseptabelt. 
+
+Objektivet tegner også ganske skarpt, og vi finner flere detaljer i bildene enn for eksempel Ixus 800 IS; i hvert fall når kameraene står i ro og lystilgangen er veldig god. 
+Når lyset avtar, derimot, er bildestabilistaoren i 800 IS et hardt salgsargument, og etter å ha blitt bortskjemt med en slik hos flere av kameraene vi har testet i det siste, er dette et lite savn hos Z1000. 
+Som nevnt skulle vi også gjerne ha sett en større vidvinkel - 800 IS har 35mm, og selv det er en forskjell som merkes. 
+
+Z1000 har noe kromatisk feilbrytning å spore, som spesielt gjør seg synlig i bildekantene i høykontrastområder, men tønneforvrengningen er lav. 
+Himmelen blir ofte overeksponert; det gjelder også vinduer på innebilder. 
+Under tok vi det samme bildet med 800 IS og Z100 - legg merke til vinduet, som Canon gjengir langt bedre. 
+Med standardinnstillingene gir også Canonkameraet mer mettede farger: 
+
+Positivt er det også at kompresjonsstøyen er relativt lav; også på normale innstillinger, der bildestørrelsen ligger på 2.5-3MB. 
+I eksempelet under sammenligner vi igjen med 800 IS (som har færre megapiksler og bredere vidvinkel, derfor ikke det samme utsnittet), med en 4x forstørrelse. 
+Vi ser at Z1000 har mindre kompresjonsstøy enn 800 IS: 
+
+Konklusjon 
+
+Diskusjonen om hvorvidt 10 megapiksler er nødvendig på et lommekamera skal vi droppe å ta her, men Z1000 er uansett et godt kamera uten spesielt store svakheter, og vi ble faktisk positivt overrasket over bildekvaliteten. 
+Kameraet yter godt, har god brukervennlighet og tar generelt gode bilder med bedre detaljrikdom enn mange andre. 
+I tillegg setter vi pris på batterilevetiden, som er godt over det som er middels for denne type kameraer. 
+
+Vi savner imidlertid noe - et par småting her og der som kunne vært gjort bedre. 
+For eksempel litt raskere aksess til ofte brukte funksjoner som makrofotografering/filminnspilling og mer avanserte funksjoner som blender og lukkerprioriterte bilder, eller automatisk rotering av bilder du har tatt på høykant. 
+Vi skulle også ønske at vidvinkelen hadde vært bedre - 38mm er minimumet som sikkert 70% av alle kompaktkameraene har, og det er i minste laget når du skal fotografere innendørs, for ikke å snakke om gevinsten ved å ha en optisk bildestabilisator. 
+
+Kameraet er derfor bedre egnet til utendørsfotografering enn innendørsfotografering. 
+Sammenlignet med 800 IS holder vi fortsatt en knapp på sistnevnte, som etter vår mening er et bedre allroundkamera; spesielt til innendørsbruk. 
+Det betyr ikke at ikke Casio-kameraet er godt, og på testsesjoner der vi hadde med begge kameraene utendørs, synes vi Casioen var et hakk foran når det gjaldt skarphet og detaljer i mange av bildene. 
+
+Dette ble den siste kameratesten vi rakk før sommerferien. 
+Når den er over, kommer vi tilbake med flere tester, og vi har også kjøpt inn litt utstyr som fargekart og oppløsningskart for å kunne foreta litt mer objektive tester rundt bildekvaliteten. 
+I tillegg kommer det stadig flere speilreflekskameraer på markedet med en overkommelig prislapp for mange, og også disse vil bli testet og omtalt fremover. 

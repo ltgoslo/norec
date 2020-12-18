@@ -1,0 +1,40 @@
+Asus RT-N66U mot Netgear N900
+Toppmodellene fra Asus og Netgear, ny test utfordrer tidligere topplassering. 
+
+Vi har tidligere testet Asus nyeste ruter RT-N66U, og var svært fornøyd på de fleste områdene. 
+Den var svært rask å sette opp, og i tillegg svært oversiktlig og ikke minst behagelig for øyet. 
+
+Vi testet den med en to-antenners bærbar og med Asus sin egen tre-antenners nettverksbro/aksesspunkt. 
+Ytelsen var ikke helt som forventet, men forventningene var også svært høye. 
+Ut fra spesifikasjonene burde den prestere i nærheten av Netgear N900/WINDR4500, men det klarte den ikke med de klientene vi testet med. 
+
+Vi opplevde ogsÂ at Asus RT-N66U rett og slett mistet internettforbindelsen uten videre flere ganger under testingen, og måtte slås av og pÂ for å koble seg på igjen. 
+
+Av forskjellige grunner hadde vi heller ikke tilgjengelig testPC-en fra HP med tre antenner og Intel Centrino Ultra N6300 under testingen. 
+Derfor lovet vi å komme tilbake til ny testing når Asus mente de var klar med ny firmware eller annen oppdatering. 
+
+Asus var raskt ute med nytt testeksemplar, som var et helt ordinært produkt fra butikkleveransene. 
+Det første eksemplaret vi testet viste seg å være fra en tidligere produksjonserie, men i utgangspunktet skulle det ikke være noen forskjell pÂ denne og de som ble sendt ut til forhandlerne. 
+
+Men det viste seg at det var viktige forskjeller. 
+
+Ny testrunde 
+
+Den nye ruteren var nyaktig like kjapp og grei å sette opp som første gangen, som forventet. 
+Vi har også brukt den kontinuerlig i flere døgn uten antydning til avbrudd i internettforbindelsen. 
+
+Vi kjørte så våre sedvanlige ytelsestester både i stue og kjeller, med ruteren plassert oppunder mønet på huset. 
+Det blir altså 2 plan ned til stua og enda ett ned i kjelleren. 
+
+I stua målte vi praktisk talt identiske resultater som med Netgear N900, rundt 90 Mbit (11-12.000 KBytes/sek) på 5 GHz. 
+
+Med 2,4 GHz falt ytelsen noe, til rundt 70 MBit (8-9.000 KBytes/sek). 
+
+Men nede i kjelleren var forskjellen vesentlig større. 
+Der målte vi over 50 MBit med Asus RT-N66U på 2,4 GHz mens den på 5 GHz var praktisk talt lik Netgears 32 MBit. 
+
+Dette er ytelse i særklasse, og plasserer Asus RT-N66U totalt sett i toppen av de ruterne vi har testet i 2011/2012. 
+
+Her finner du vår test av Asus RT-N66U og her finner du vår test av Netgear N900. 
+
+Asus RT-N66U 

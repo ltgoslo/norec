@@ -1,0 +1,70 @@
+LG N1A1 NAS
+Felles lagring i netterket kan løses på mange måter. 
+Denne NAS'en fra LG er superenkel. 
+
+Maskiner og apparater kan være gjenstridige og lunefulle, eller de kan opptre som en hjelpende tjener som dukker opp og hjelper til når de skal - uten dikkedarier. 
+
+Vi lever i en tid hvor alt datautstyr er i stor forandring, vi aksepterer i stadig mindre grad "EDB-utstyr" av typen tekniske pleiepasienter som krever kontinuerlig stell av alvorlige menn og kvinner - helst i grå frakker. 
+Det vi ønsker er medgjørlige apparater som har en klar oppgave og som lar seg betjene med er fåtall knapper eller skjerminnstillinger. 
+
+En NAS-enhet for felles lagring på hjemmenettet, eller i et lite kontormiljø, kan med fordel være enkel å betjene. 
+At den rett og slett kan plugges inn og kobles til, og så tas i bruk. 
+
+Denne NAS'en er slik. 
+
+LG N1A1 
+
+Navnet er ikke akkurat fengende, men våre venner i øst har sin egen kultur når det gjelder å sette navn på produkter. 
+Vi blir alle dyslektikere så snart vi støter på denne typen betegnelser (dette er langt fra den verste, bare sjekk hva flat-TVene kalles), men for østens barn kan disse tegnene muligens være både vakre og meningsfulle. 
+Hva vet vi ... 
+
+Men i bruk viste N1A1 seg å være svært imøtekommende. 
+
+Vi koblet den direkte til vår ruter, som også er utstyrt med Gigabit nettverk. 
+Gigabit er en fordel selv i et beskjedent hjemmenett. 
+
+I tillegg til gigabit-nettverk har N1A1 en USB-port hvor du kan koble til andre lagringsenheter for backup, eller for en delt skriver. 
+Vi savner en eSATA-tilkobling og muligheten til å bygge ut kapasiteten med en ekstern SATA-disk. 
+USB er en flaskehals her. 
+
+Etter å ha startet opp og summet seg litt dukket det opp en enhet som het LG-NAS N1A1 i oversikten over nettverksenheter på våre PC-er, både de som kjører Windows 7 og de som kjører XP, og også på Mac'en. 
+
+Det var derimot ikke tilgang til filområdene, det ble spurt om brukernavn og passord, men et raskt oppslag i brukerhåndboken avslørte at "admin" og "admin" var sesam sesam og dermed var alle de ferdigdefinerte områdene tilgjengelig både for skriving og lesing fra alle maskinene. 
+
+Stort enklere kan det ikke gjøres. 
+
+Hva med ytelsen? 
+
+Grunnen til at vi selv ikke har installert en dedikert NAS-enhet, men heller brukt en PC til å ta seg av felles lagring i hjemmenettet skyldes tre ting: 
+Ytelse, diskplass og støy. 
+
+Men behovene er forskjellige, det er ikke alle som har plass til enda en PC, og de fleste klarer seg med noe mindre ytelse. 
+Kravene henger sammen med bruken, det er ikke alle som skal streame 4 HD-filmer samtidig som de koperer noen gigabyte med filer over til hus-serveren. 
+
+Vi målte skriveytelsen til i overkant av 16 MB/sek og leseytelsen til 34,4 MB/sek. 
+I grafene under har vi sammenlignet med våre PC-baserte servere, den gamle og den nye lydløse. 
+
+Ytelsen er i praksis utmerket til det meste, både dokumenter og mediedata som musikk og film, men større påtrykk fra mange krevende brukere er den ikke beregnet på å håndtere. 
+
+Mer avansert bruk 
+
+Det følger med et styreprogram som åpner for langt flere muligheter enn bare felles lagring med åpen tilgang til alle brukere. 
+
+Ved å installere styreprogrammet finner du lett fram til det nettleser-baserte oppsettet for NAS'en. 
+Med dette oppretter du brukere med brukernavn og passord som får tilgang til mapper som er definert som felles. 
+Du kan også opprette egne mapper til forskjellige brukere, som bare disse har tilgang til, eller som bare de kan skrive til og andre bare kan lese. 
+
+Du kan også sette den opp til å være DLNA-server, for å forsyne forskjellige medie-avspillere med data, den kan også huse alle iTunes-låtene og laste ned torrenter uten at en PC må stå på. 
+
+Ved hjelp av DDNS (som sørger for tilgang til enheter på nettverket ditt selv om du ikke har fast IP) kan du også laste opp og hente ut filer fra NAS-disken. 
+
+Konklusjon 
+
+LG N1A1 er en allsidig NAS, den er super-enkel for de som ikke vil gjøre annet enn å dele filer, og har mange muligheter for de som vil utforske de mer avanserte mulighetene. 
+
+Ytelsen er godkjent og på linje med lignende produkter i samme prisklasse. 
+
+Støynivået er svært lavt, den gir omtrent like lite lyd fra seg som en PVR-boks, eller annen stillegående enhet med en moderne harddisk i. 
+Hvis du ikke plasserer den i bokhylla i ørehøyde rett bak godstolen, så vil du ha problemer med å legge merke til den. 
+
+LG N1A1DD1 1TB 

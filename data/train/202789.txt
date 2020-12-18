@@ -1,0 +1,86 @@
+Bubba|2 - nettets nye midtpunkt
+Bubba er mye mer enn en kompakt hjemmeserver. 
+
+Interessen for NAS-er (Network Attached Storage) har økt betraktelig de siste årene. 
+Ikke uten grunn. 
+Det å kunne samle all musikk, bilder, videoer og annet digitalt materiale på ett sted, og gjøre det tilgjengelig fra datamaskiner tilknyttet både hjemmenettet og andre nettverk, er både smart og praktisk. 
+
+Vi i DinSide Data har testet en rekke forskjellige NAS-er tidligere, jeg har samlet lenker nederst i denne artikkelen. 
+
+Erstatter flere bokser 
+
+Bubba|2 er en slik NAS, men den kan mye annet også. 
+Den kan for eksempel erstatte den trådløse ruteren din, og beskytte nettverket ditt ved hjelp av en avansert brannmur, og den kan fungere som en medieserver som streamer musikk og filmer til TV. 
+I tillegg kan du koble en skriver til den som du vil dele i nettverket, og bruke Bubba som webserver, mailserver og webbasert filserver over Internett. 
+
+Vi rekker ikke å komme inn på alle bruksområdene, men i denne testen har vi tatt en titt på de viktigste. 
+
+Kompakt og stille 
+
+Bubba|2 er ikke større enn en vanlig ekstern harddisk med 3,5" harddisk på innsiden. 
+
+Den er ikke utstyrt med vifter, og den eneste lyden den avgir kommer fra harddisken. 
+Excito, selskapet bak Bubba, benytter kun Green Power-disker fra Western Digital, som er ekstremt stillegående, svale, og som ikke trekker mer enn maks 7 watt under bruk. 
+I praksis vil du ikke høre Bubba fra to meters avstand. 
+
+På baksiden sitter det to antennekontakter, til bruk dersom du ønsker å sette opp Bubba som en trådløs ruter. 
+Du behøver ikke montere på antennene hvis du skal bruke Bubba med kabler. 
+Her er også to USB-porter til printer, minneplugger og harddisker, og dessuten to eSata-kontakter som kan brukes til å utvide lagringskapasiteten, og eventuelt speile den interne disken mot en ekstern i backupøyemed. 
+
+Vår Bubba|2 ble levert med 1 TB harddisk, men den finnes også i 500 GB og 2 TB-versjoner, samt en SSD-variant med 32 GB kapasitet. 
+
+Her er både en WAN og en LAN-port. 
+WAN-porten kobler du direkte til bredbåndsmodemet, og LAN-porten kobler du til en svitsj eller rett i en PC. 
+Du trenger altså ikke lenger en ruter, da Bubba tar seg av den biten. 
+Du kan imidlertid bruke Bubba på innsiden av nettet ditt, tilkoblet en ruter via LAN-porten, og skru av ruter-funksjonaliteten. 
+Da krever det imidlertid mer arbeid dersom du ønsker å få tilgang til Bubba fra Internett. 
+
+Webbasert operativsystem 
+
+Når du har koblet Bubba til nettet, må boksen konfigureres. 
+Operativsystemet er Linux-basert og all konfigurasjon er web-basert. 
+Du skriver ganske enkelt http://bubba i adresselinjen, deretter får du fram dette skjermbildet: 
+
+Ved å logge inn som administrator, kan du konfigurere Bubba|2 ved hjelp av veivisere. 
+Den innebærer alt fra registrering av brukere til å konfigurere nettverk og tjenester. 
+Det meste er meget brukervennlig satt opp, og du behøver ikke å ha veldig store kunnskaper for å komme i gang med basisfunksjonaliteten. 
+
+Vi har laget et fotoalbum som viser deg deler av prosessen: 
+
+Brukere registreres med navn og passord, og disse kan deretter logge seg på http://bubba og få tilgang til forskjellige tjenester. 
+Et eksempel er musikkspilleren: 
+
+Fotoalbum er en annen funksjonalitet: 
+
+Man kan laste opp (og ned) filer via webgrensesnittet: 
+
+Men den mest effektive måten å laste opp og ned filer på, er via filbehandleren. 
+Både Mac, Linux og Windows støtter lagring til Bubba. 
+Du får kun tilgang til mapper du har rettigheter til: 
+
+Noen ankepunkter 
+
+Overføringshastigheten er imidlertid et ankepunkt. 
+I vårt gigabit-nettverk lå skrivehastigheten på rundt 5-6 MB i sekundet, og lesehastigheten på 7-8 MB. 
+Dette kan nok variere fra nett til nett, men gir deg en pekepinn på hva du kan forvente. 
+Her har vi testet langt raskere løsninger tidligere. 
+
+Vi var spent på streaming-funksjonaliteten. 
+Ifølge manualen skal det bare være å koble Bubba|2 til nettet, og fra XBox 360, Playstation 3 og andre DLNA-enheter skal man da få Bubba opp som en medieenhet. 
+Det viste seg ikke å være så enkelt, og vi savner en mer dyptpløyende forklaring på hvordan vi skal gå fram i feilsøkingsprosessen. 
+Enn så lenge har vi ikke fått testet denne funksjonaliteten, og det er synd. 
+
+Konklusjon 
+
+Bubba|2 er en meget funksjonsrik NAS og hjemmeserver, og det er svært enkelt å komme igang med basisfunksjonene. 
+Grensesnittet i administrasjonspanelet er i hovedsak logisk og enkelt oppbygd. 
+Vi liker også at den i praksis er lydløs. 
+
+Det vi ikke er så begeistret for er overføringshastighet, og ikke minst den noe høye prisen. 
+Her finnes det mange alternativer som kan konkurrere, også funksjonsmessig, ikke minst Netgear Stora - som riktig nok er både større og bråker litt, men som koster omtrent halvparten. 
+
+Vi setter også et lite spørsmålstegn ved streaming server-støtten (uPnP/DLNA/SMB) som vi ikke fikk til å fungere, og ikke fant hjelp til i manualen. 
+
+Les test av Qnap SS-439 NAS her 
+
+Takk til netshop.no for utlånet av Bubba|2 

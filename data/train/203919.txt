@@ -1,0 +1,118 @@
+Sannsynligvis verdens kraftigste 2-i-1 PC
+Microsoft har rettet på nær sagt alt vi satte fingeren på da vi testet første generasjon Surface Book. 
+Den nye generasjonen er rett og slett forrykende! 
+
+Høsten 2015 var jeg på besøk hos Microsoft i Seattle. 
+Der fikk jeg blant annet demonstrert Microsoft Surface Book, den første ordentlige PC-en fra selskapet. 
+Interessen for PC-en var så stor, at de fremmøtte journalistene nærmest glemte de andre produktene som ble vist fram. 
+
+Skiller seg ut 
+
+PC-en skilte seg fra den store hurven på flere måter: 
+For det første var det ikke bare en PC, men en kombinert PC og nettbrett. 
+Skjermen kunne nemlig hektes av tastaturdelen, men det var nærmest umulig å se: 
+De to delene var nemlig sømløst festet til hverandre, og krybben med det kraftige leddet bød på full fleksibilitet for vinkling av skjermen. 
+
+Det tok imidlertid lang tid før maskinen ble tilgjengelig i Norge, halvannet år for å være nøyaktig. 
+I vår test fra mai hadde vi noen ankepunkter, men konkluderte likevel med at det var blant de råeste 2-i-1-produktene på markedet - til tross for at det hadde gått tid siden lanseringen. 
+
+Slik er det ikke denne gangen. 
+Norge er blant de første som får gleden av å stifte bekjentskap med Surface Book 2, og for å gjøre en lang historie kort: 
+Microsoft har rettet på det aller meste av det vi hadde av ankepunkter på forgjengeren. 
+
+Mye likt på utsiden 
+
+Men la oss se på eksteriøret først: 
+Her er det nesten ingen synlige endringer. 
+Brettet er fortsatt 13,5 tommer stort (en 15-tommer er annonsert i april), den er fortsatt like strålende god og høyoppløst (3000 x 2000 piksler). 
+Av oppløsningen forstår du sikkert at den har 3:2 i bredde:høydeforhold, i motsetning til 16:9 som er markedsnormen. 
+Det betyr mer plass i høyden, noe vi vet å sette pris på. 
+
+Tar vi en titt på høyresiden av tastaturdelen, ser vi imidlertid en viktig endring. 
+Her er miniDisplayPort-utgangen byttet ut med en USB-C-port. 
+Mangelen på en slik var ett av ankepunktene vi hadde på forgjengeren. 
+Porten har fortsatt støtte for DisplayPort 1.3, så du kan fortsatt bruke den som skjermutgang. 
+På motsatt side finner du fortsatt to USB 3.0-porter, samt et minnekortspor. 
+
+Ifølge Microsoft skal leddet mellom skjermen og tastaturdelen også ha gjennomgått en revisjon som skal ha gjort det sterkere, men vi klarer ikke å se noen åpenbar endring i designen. 
+Den er fortsatt slik at det skapes en glippe mellom skjermen og tastaturet, noe som gjør maskinen tykkere bakerst enn den hadde behøvd å være. 
+
+Nå skynder vi oss å legge til at skjermen (eller brettet) inneholder all maskinvaren - med unntak av det dedikerte skjermkortet og batteri nr 2, og er dermed langt tyngre enn en standard skjerm, med sine 720 gram. 
+Det stiller naturlig nok store krav til leddet for å holde denne vekten i alle slags posisjoner - inntil en åpning på rundt 120 grader. 
+
+Totalvekten er på 1,64 kg. 
+
+Dette har blitt mye bedre 
+
+PC-en har to kameraer, og begge er vesentlig bedre enn i forgjengeren, med bedre skarphet, bedre kontraster og fargegjengivelser. 
+Det var egentlig helt på sin plass, og helt sikkert nødvendig for at ansiktspåloggingen (Windows Hello) skal fungere optimalt. 
+Helt på høyde med de nyeste iPad-ene er kvaliteten ikke, men den har blitt vesentlig oppgradert siden sist. 
+
+På innsiden har det også skjedd mye siden sist. 
+Med unntak av den aller rimeligste utgaven, har Surface Book blitt utstyrt med åttende generasjon Intel Core i5 eller i7 U-prosessor. 
+Antall kjerner har blitt doblet fra to til fire siden forrige generasjon, og avhengig av hvilke oppgaver - og hvor mange av dem som kjøres samtidig, kan du i mange tilfeller oppleve svært mye bedre ytelse enn tidligere. 
+
+Velger du utgaven med i7-prosessor, får du også et dedikert Nvidia Geforce GTX1050-grafikkort på kjøpet - som byr på god ytelse til spill. 
+Men da begynner også maskinen å bli lovlig dyr. 
+Vårt testeksemplar er toppspekket med i7-8650u-prosessor, 16 GB RAM og 1 TB SSD - og koster den nette sum av 33.490 kroner, moms inkludert, direkte fra Microsoft. 
+
+Innstegsmodellen har fått mer enn doblet lagringsplass fra 120 til 250 GB, men her må du altså nøye deg med en 7. generasjon Intel Core i5-prosessor med to kjerner, og integrert Intel-grafikk. 
+Denne koster veiledende 16.990 kroner. 
+
+Slik er den i bruk 
+
+Microsoft Surface Book 2 er først og fremst en PC, men fungerer også bra som nettbrett. 
+Skjermen kan betraktes fra nær sagt død vinkel, og byr på god lysstyrke. 
+Responsen på berøringer er rask og presis, og du kan fint tegne direkte på skjermen. 
+
+Pennen er fortsatt ekstrautstyr som koster en tusenlapp, men anbefales hvis du skal gjøre notater, lage skisser og tegne. 
+Vi kan ikke se at opptegningen er noe raskere enn på forgjengeren. 
+Det betyr bittelitt forsinkelse, mye mer enn på iPad Pro - men helt akseptabelt hvis du ikke haster altfor mye når du tegner. 
+
+Brettet har høyttalere av god kvalitet, sett i forhold til hva vi forventer i denne klassen. 
+Her er til og med tendenser til dybde og bass på de rette stedene. 
+
+Første over 10.000 poeng 
+
+Som PC er det temmelig lite å trekke denne gangen. 
+Ytelsen er helt i toppklassen, og maskinen er nærmest helt stillegående det aller meste av tiden. 
+
+For første gang måler vi over 10.000 poeng på en U-prosessor i Passmark Performance Test, og med en leshastighet på inntil 2,6 GB og skrivehastighet på inntil 1,25 GB i sekundet, er også SSD-en langt raskere enn på forrige generasjon. 
+
+Det betyr at Surface Book 2 kan brukes til de aller fleste oppgaver, også langt tyngre ting enn normal bruk - som konstruksjon, 3D-modellering og ikke minst spilling. 
+Det dedikerte Geforce GTX 
+1050-kortet byr på god ytelse i de fleste nye spilltitler, så lenge oppløsningen ligger på 1920 x 1080 og lavere. 
+
+Fortsatt litt rom for forbedring 
+
+Litt pirk har vi imidlertid funnet: 
+Tastaturet er ikke blant de mest stillegående, men har god respons og fungerer stort sett utmerket. 
+
+Lyset i tastene har tre nivåer, men bør skrus av i dagslys hvis du liker å se på tastene når du skriver. 
+Takket være lyset (som er litt ujevnt) og de lysegrå tastene, kan det til dels være vanskelig å se hva som står på dem. 
+
+Pekeplaten lager en distinkt klikkelyd når du trykker på dem, vi hadde ikke grått om den hadde vært litt stillere - men vi gir absolutt godkjent. 
+
+Merk videre at det sitter kjølevifter i brettet. 
+Legger du hånden omtrent på Windows-logoen når maskinen belastes hardt, vil du kjenne at temperaturen er meget høy. 
+Viftene må jobbe på høygir for å holde temperaturen nede, noe som medfører en god del støy i disse situasjonene. 
+Det kan absolutt være et ankepunkt for noen, og er i det store og hele det største punktet på minussiden denne gangen. 
+
+Suveren batteritid 
+
+Når det gjelder batteritiden, er det få maskiner som kan matche Surface Book 2. 
+Det skyldes blant annet at her er det to batterier, ett i brettet og ett i tastaturdelen. 
+
+Vi kunne strømme video fra Youtube i hele 15 timer og 33 minutter på fulladede batterier, noe som plasserer Surface Book blant de aller mest seiglivede maskinene vi har testet - noensinne. 
+
+Etter en time i stikkontakten, var kapasiteten oppe på 39 og 50 prosent i henholdsvis tastaturdel og brett - som ville gitt oss rundt 7 timer brukstid. 
+Det er slett ikke verst! 
+
+Konklusjon 
+
+Microsoft Surface Book 2 er en forrykende maskin, og er sannsynligvis den aller kraftigste og helt klart blant de beste 2-i-1 PC-en på markedet i skrivende stund, både hva gjelder utforming, skjermkvalitet, ytelse og ikke minst batteritid. 
+
+Noen ankepunkter har vi funnet - ikke minst kan prisen skremme vannet av de fleste, men lander på en svært sterk femmer på terningen og anbefalt produkt-stempel. 
+Få med deg plussene og minusene i boksen under. 
+
+Er du ute etter en 2-i-1 PC, bør du også få med deg testen av Lenovo Yoga 920, som koster mange tusenlapper mindre - og som ble skjenket terningkast 6 av oss og Best i test-stempel i vår oppsummering av teståret 2017. 

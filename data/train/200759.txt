@@ -1,0 +1,107 @@
+Panasonic Toughbook CF-W7
+I denne 12-tommeren har Panasonic kombinert lav vekt, god batterilevetid og en dønn solid konstruksjon. 
+Men ikke uten sin pris. 
+
+Panasonic har lagd bærbare datamaskiner i en årrekke, men deres modeller er noe du sjelden finner i private hjem. 
+Når det gjelder laptoper har de nemlig valgt en nokså smal sti og spesialisert seg på svært hardføre modeller som går under betegelsen Toughbook. 
+
+LES OGSÅ: 
+
+Men selv om mange av modellene kun er interessante for de med helt ekstreme behov finnes det også noen som retter seg mot hva vi kan kalle mer "vanlige" brukere. 
+Vi testet en slik for et par år siden - Toughbook CF-T4. 
+
+Nå har vi sett på en nyere modell som har betegnelsen CF-W7, og den ser slik ut: 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo U7500 @ 1,06 GHz 12,1" skjerm (1024 x 768 piksler) 2 GB DDR2-minne Intel GMA X3100 grafikk WLAN (a/b/g) Gigabit LAN og modem 3 x USB Blåtann v2.0 VGA ut, lyd inn/ut DVD/CD-brenner Minnekortleser for SD(HC), Plass for CardBus Integrert mobilt bredbånd (3G/HSDPA) 
+Leveres med Windows XP eller Vista Dimensjoner (B/D/H): 
+27,7 x 21,6 x 5,7* cm (*på det høyeste) Vekt 1,35 kilo Veiledende pris: ca. 25.000 inkl. mva. 
+
+Som vi ser er ikke dette noen racer-PC. 
+Prosessoren er hovedsaklig valgt for å være strømgjerrig, og med 2 GB minne er den fylt opp maks på det punktet. 
+
+Den er slett ikke alene om å fokusere på lav vekt og batterilevetid foran ytelse. 
+Vi finner tross alt den samme tankegangen bak for eksempel Toshiba Portégé R500 og Lenovo ThinkPad X300. 
+
+Solid sak 
+
+Panasonic Toughbook CF-W7 har som så mange andre Toughbooker et magnesium-chassis som gjør at den kan kombinere lav vekt og en meget solid konstruksjon. 
+I følge spesifikasjonene skal den takle et trykk på opp til 100 kilo. 
+Dette har vi riktignok ikke testet i praksis, men det kjennes ut som om den skulle takle det. 
+
+Ellers har maskinen en noe spesiell utforming. 
+Den er tykkere i bakkant og har en ekstra forhøyning på lokket, noe som får den til å virke nokså klumpete. 
+De fleste som plukker opp PC-en blir derfor overrasket over den lave vekten. 
+
+Skjermen er av den matte typen, men relativt god og i det stadig sjeldnere 4:3-formatet. 
+Oppløsningen er på 1024 x 768 piksler. 
+
+Tastatur er i stor grad en tilvenningssak, men her gjelder ikke regelen om at smått er godt. 
+Merk for eksempel enter-tasten over en linje og den lille mellomromstasten (space). 
+Noen vil heller ikke like at touchpaden er rund, men dette oppleves på ingen måte som problematisk. 
+Vi liker dessuten den vertikale skrollingen som gjøres ved å føre fingeren i sirkler langs kanten. 
+
+Tilkoblingsmuligheter 
+
+På venstre side har vi inntak for strøm, VGA ut, kontakt til portreplikator/dokking, og minnekortleser for SD(HC). 
+I tillegg er det plass til et PC-kort av den eldre CardBus-standarden. 
+
+På datamaskinens høyre side er det plassert tre USB-porter og kontakter for nettverk og modem. 
+
+I front finner vi av/på-knapp, lydkontakter, statuslys og en bryter som slår av og på trådløs kommunikasjon. 
+
+Her er også en knapp som slår av og på det optiske drevet. 
+For å få plass til en DVD-brenner i den lille maskinen har Panasonic gjort noe utradisjonelt på akkurat dette punktet. 
+
+Drevet er nemlig integrert på en nokså spesiell måte vi ikke har sett på andre bærbare. 
+Skal du sette i eller ta ut en disk får du tilgang gjennom et lite lokk som spretter opp under tastaturet. 
+
+Ytelse og batterilevetid 
+
+Som nevnt er ikke ytelsen prioritert på denne typen bærbare, men siden vi tross alt har et par andre PC-er å sammenligne med, altså Toshiba Portégé R500 og Lenovo ThinkPad X300, er det jo greit å kort se på forskjellen i prosessorkraft. 
+
+Kjøretid i sekunder. 
+Lavere er bedre. 
+
+Disse tre bærbare har alle prosessorer med ekstra lavt strømforbruk, og Panasonicen har også den svakeste av dem. 
+Men noen ekstreme forskjeller er det heller ikke snakk om. 
+
+Hva som uansett gjerne er mer viktig for bærbare i denne klassen er batterilevetid - og her er ikke CF-W7 noen lettvekter. 
+
+Med våre faste testrutiner klarte den godt over syv timer kontinuerlig drift, i praksis betyr det en lang arbeidsdag og enda litt til. 
+
+Stillegående - hvis du vil 
+
+I motsetning til CF-T4 som vi testet sist er ikke CF-W7 vifteløs, og støynivået øker som på de fleste bærbare i takt med belastingen. 
+
+Vifta kan du likevel til en viss grad kontrollere selv med "Fan Control Utility", altså programvare som forandrer på parameterne som tar seg av viftestyringen. 
+Her kan du heve eller senke terskelen for når vifta skal slå inn. 
+På "standard" går vifta kontinuerlig, men da så lavt at du må være i nokså rolige omgivelser for å merke den. 
+
+I tillegg har du "high speed" og "low speed" for oss støyallergikere. 
+På sistnevnte er maskinen tilnærmet helt lydløs under lav belasting, men går til gjengjeld litt varmere. 
+Den blir likevel ikke for varm til å ha på fanget. 
+
+Konklusjon 
+
+Det er vanskelig å sette karakter på bærbare datamaskiner av denne typen, ettersom den har en nokså snever kundegruppe. 
+Ofte er det slik at denne enten passer meget godt til ditt bruk eller ikke i det hele tatt. 
+
+Panasonic Toughbook CF-W7 kan faktisk være et godt valg for deg som prioriterer kvalitet, lav vekt og lang batterilevetid. 
+Men den koster også en del, og spesielt slank er den heller ikke. 
+
+Når det gjelder de to andre bærbare vi har sammenlignet med er ikke Toshiba Portégé R500 noen stor trussel. 
+Den er ikke i nærheten av å være like solid som CF-W7, noe som også gjenspeiles i at den er langt billigere. 
+
+ThinkPad X300 er en annen historie da den er slankere, raskere og relativt solid - om enn ikke like solid som Toughbooken - og kommer på omtrent samme pris. 
+Men hvis du ikke vil ofre det optiske drevet til fordel for et ekstra batteri snakker vi også om litt kortere batterilevetid. 
+Den støyer også noe mer. 
+Som alltid handler det om prioriteringer og preferanser. 
+
+Vi er alt i alt godt fornøyd med Panasonic Toughbook CF-W7. 
+Har du behov for en ekstra tøff og utholdende laptop gjør du ikke noe galt i å gå for en slik. 
+
+I så fall må du nesten kjøpe en her. 
+
+Har du mer normale behov kan du dog slippe unna med langt billigere og bedre utstyrte bærbare. 

@@ -1,0 +1,110 @@
+Sony Ericsson Satio
+Den er ufattelig funksjonsrik, men hva med gjennomføringen? 
+Her er våre inntrykk. 
+
+Det har vært knyttet ganske store forventninger til Satio hos Sony Ericsson. 
+Det er en avansert smarttelefon, men er ganske ulik Xperia som vi testet i vår og gav terningkast 3. 
+Det burde i utgangspunktet love godt? 
+
+For å ta det grunnleggende først: 
+Dette er en stor og tung telefon myntet på avanserte brukere (55 mm x 13 mm x 112 mm og 126 gram). 
+Den har 12 megapiksel-kamera med funksjoner man vanligvis bare finner i spesialkameraer, aGPS, WLAN, Bluetooth, den støtter Java og Flash, og alt det andre du bør kunne forvente i denne klassen. 
+
+Trykkeskjerm 
+
+Satio har ikke tastatur. 
+Den har i stedet en trykkfølsom bredformat-skjerm på 3,5 tommer, av typen som må presses ned for å reagere. 
+Det følger med en pekepenn, men pekefingeren kan også fint styre de fleste oppgaver på telefonen. 
+
+Skjermen er i seg selv meget bra, med høy oppløsning (640 x 360 piksler) , med god kontrast og presis fargegjengivelse. 
+Den er fint lesbar også i sterkt dagslys. 
+
+Tastaturet har forskjellige modi, og det inneholder æøå. 
+Når telefonen holdes horisontal, kan du få et bredt tastatur som det går greit å bruke pekefingeren på. 
+Stående er tastaturet så lite at du bør bruke pennen for å unngå feilstaving, men har du først fått på tastaturet, må du manuelt velge stort (liggende) eller lite (stående) 
+
+Du kan også bruke talltaster og T9 dersom du skulle foretrekke dette. 
+
+Ulikt Sony Ericsson 
+
+Operativsystemet er Symbian S60, og vi kjenner dette systemet igjen fra tidligere, blant annet i testen av Nokia 5800. 
+Sony Ericsson har riktig nok lagt inn en del egne elementer i menyene, inkludert egen musikkspiller, samt egne ikoner. 
+
+Betjeningsmessig fungerer telefonen OK etter litt øvelse, men det føles langt tyngre å navigere via denne skjermen enn på for eksempel iPhone, der det holder å berøre skjermen. 
+Ikke minst merkes dette i bilder og på websider der man trykker og drar for å navigere rundt. 
+
+Vi slet litt med å bli ordentlig dus med menyene, og reagerer negativt på at det er en del inkonsekvent bruk av symboler. 
+Det er også en del tregheter her og der, som kan være sjenerende. 
+
+Middels surfeopplevelser 
+
+Flere og flere nettsider er nå optimalisert for mobiltelefoner, som DinSide, VG og Dagbladet. 
+Da vi besøkte VG Nett med Satio ble imidlertid de vanlige nettsidene lastet ned, over 1,5 MB med data. 
+Vi priser oss lykkelig for at vi ikke gjorde dette i utlandet. 
+
+Og surfeopplevelsen blir aldri mer enn OK. 
+Den oppleves på langt nær like snappy og behagelig som med iPhone, og vi tror at den litt krevende og ikke alltid like responsive trykkingen på skjermen må ta en del av ansvaret. 
+Det blir liksom litt tiltak hver gang vi går inn for å sjekke noe på nettet. 
+
+Flash-støtte er positivt, og YouTube ligger som et eget valg i en av menyene. 
+Dessverre opplevde vi en del småhakking under avspilling, og vi sammenlignet den side om side med en iPhone, som spilte samme klippet uten hakking. 
+
+Ikke for musikkentusiaster 
+
+Musikkspilleren er den sedvanlige Sony-spilleren, men den mangler gode justeringsmuligheter for lydbildet. 
+Støttede formater er MP3 og AAC. 
+
+Videoavspilling fungerer også bra, men merk at telefonen kun støtter MPEG-4 og H.264-format. 
+Det betyr at du må konvertere DivX-filmene dine før du kan se dem på telefonen. 
+Et greit verktøy til dette er Videora for Satio. 
+
+Vi reagerer mer negativt på at det ikke går an å koble til vanlige øretelefoner uten overgang, og de medfølgende proppene er ikke veldig gode. 
+Det går greit å lytte til dem når volumet er lavt, men skrur du opp vil du oppleve at mellomtonen er for fremtredende. 
+Vi savner både mer diskant og mer bass. 
+
+Når det gjelder lyden under vanlige samtaler, er den litt hul, men langt bedre dersom du bruker ørepluggene. 
+
+Sony Ericsson har denne gangen droppet sin egen minnekortstandard, og bruker nå vanlig MicroSD-kort. 
+Et 8 GB-kort følger med. 
+Noe vi antar er en design-blunder gjør at du ikke kan ta ut minnekortet når øreplugger/lader er tilkoblet. 
+
+Bra bilder 
+
+Telefonen gjør sin aller beste figur som kamera. 
+Som nevnt er funksjonene knyttet til denne delen svært gode, og du kan også foreta enkel bilderedigering direkte på telefonen. 
+Kameraet har ekte blits, og kvaliteten på bildene er bedre enn hva vi vanligvis ser på mobiltelefoner. 
+Men sammenlignet med spesialkameraer er det fortsatt en lang vei å gå. 
+Støyen er for eksempel fremtredende allerede ved ISO 200: 
+
+Utsnittet over er vist i 100% størrelse. 
+Bildet er tatt innendørs, og vi brukte blits 
+
+Utebildene blir langt bedre enn innebildene, spesielt fine blir bilder tatt i gunstige lysforhold. 
+
+Her er noen bildeeksempler: 
+
+Men på ett punkt svikter kameradelen relativt ofte, og det er på hastighet. 
+Trykker du ned utløseren må du belage deg på at det kan ta sekunder før bildet blir tatt, spesielt på nært hold og med blits aktivert, og det er irriterende. 
+
+Dette var et stort problem på eldre digitalkameraer, og fra mine gamle kameraanmeldelser på begynnelsen av 2000-tallet brukte jeg å tipse om at man både må planlegge og knipse flere bilder for å sikre seg blinkskuddet. 
+Men skal du få med deg skihopperen ut fra hoppkanten eller andre action-blinkskudd skal du være i overkant heldig. 
+Dessverre befinner fortsatt mange mobiltelefoner seg på dette stadiet, Satio inkludert. 
+
+Som ventet av batteriet 
+
+Batterilevetiden er oppgitt til 340 timer i standymodus, og taletiden er oppgitt til 4 timer og 50 minutter. 
+
+I praksis kan du forvente en del mindre enn dette. 
+Vi måtte lade vårt testeksemplar etter to dager, og da med få samtaler men en del fikling og dataanrop. 
+Dette er imidlertid ikke uvanlig på så avanserte enheter. 
+
+Konklusjon 
+
+Funksjonsmessig er dette en telefon i toppklassen. 
+Skjermen er god, og kameraet er, til tross for at det er tregt, blant de alle beste vi har sett noen sinne, i mobilklassen. 
+
+Likevel er det en del som skurrer. 
+Inkonsekvens i menyer, svak musikkspiller, noe tregheter her og der, middelmådig surfeopplevelse, og ikke minst: en høy pris. 
+Rundt 5000 kroner må du ut med dersom du kjøper den uten abonnement. 
+
+Vi konstaterer at Sony Ericsson ikke har truffet helt blink denne gangen heller, men de positive sidene ved Satio sørger til slutt for at vi havner på en svak firer på terningen. 

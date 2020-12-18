@@ -1,0 +1,78 @@
+D-Link DIR-506L
+Tenk på den som en lommesky, hvor du kan få tilgang til filer. 
+
+For drøyt et år siden testet vi en liten batteridrevet trådløs lagringsenhet, som fungerte som ekstra lagring til iPhone og andre mobiler. 
+Den inneholdt flashminne og en liten trådløs ruter og kunne ligge i veska eller lomma. 
+Med en egen app kunne man så spille av filmer, se bilder og høre musikk. 
+
+D-Link DIR-506L 
+
+Dagens testprodukt har svært mye til felles med WiDrive, men løser oppgavene på en annen måte. 
+Dessuten har den et par andre funksjoner i tillegg. 
+
+Selve enheten er på størrelse med en kortstokk og er i kremhvit blank plast. 
+
+Den har en trådløs ruter innebygd, men har også tilkobling for kablet nett. 
+I tillegg er det to USB-kontakter. 
+
+Den lille USB-kontakten er for lading av det utskiftbare batteriet, mens den store er for USB-minne. 
+Selve enheten har altså ikke noe innebygd minne, det må du sørge for selv. 
+
+Et annet produkt som også har mye til felles med DIR-506L er D-Link DIR-505. 
+Men den plugget du inn i stikkontakten, og de færreste vesker og lommer er utstyrt med 230 volt tilkobling. 
+
+DIR-506L kan altså brukes som en frittstående, batteridrevet trådløs ruter som man logger seg på - for eksempel kan du ha den liggende i lomma og koble deg på fra mobilen når du sitter på bussen, eller som et trådløst aksesspunkt fra en kablet nettverksforbindelse, eller som en repeater, som videreformidler internettforbindelse fra et eksisterende trådløst nett, og samtidig gir tilgang til filer på USB-minne som er plugget i. 
+
+På toppen av det hele kan man lade mobilen fra USB-kontakten ved å tappe batteriet i DIR-506L. 
+
+I bruk 
+
+For å ta DIR-506L i bruk trenger du bare å lade batteriet med USB-kabelen, slå den på og plugge inn USB-minne. 
+
+Så må du laste ned appen SharePort fra AppStore eller Google Play. 
+
+Deretter må du velge nettforbindelsen dlink_DIR-506L og taste inn passordet som står i manualen. 
+
+Så starter du appen og kan begynne å bla i filene. 
+De sorteres etter kategori, du kan også bruke mapper for dokumenter. 
+
+Filformatene som støttes er: 
+
+Video: mp4 og mov Musikk: 
+MP3 og wav Bilder: jpg, png, gif og bmp Dokumenter: doc, xls, ppt, pdf, pages, numbers, txt, html, ref 
+
+Det tar litt tid fra du slår den på og setter i USB-minne til den har fått satt opp trådløst nett, gått gjennom og sortert filene og er klar til bruk. 
+Hvor lang tid avhenger av hvor mye data det er snakk om, men det kan ta noen minutter. 
+Skal du bruke den på toget på vei til jobben er det like godt å slå den på når du går ut døra hjemme, så er den sannsynligvis klar i god tid før du er på stasjonen. 
+Og i hvert fall før toget kommer. 
+
+Responstiden når du velger forskjellige typer data varierer også. 
+Den er rimelig rask på bilder og musikk, men tar litt lengre tid før en film er i gang. 
+
+Andre funksjoner 
+
+DIR-506L kan også fungere som en liten trådløs ruter. 
+Da kobler du den til en kablet internettforbindelse via nettverksporten. 
+
+Den kan også fungere som en repeater, hvor den hekter seg på et eksisterende trådløst nett og forlenger rekkevidden til nettverksforbindelsen. 
+
+Dataene som ligger på USB-minnet vil da være tilgjengelig for alle på nettverket, som en delt ressurs, med UPnP og DLNA-støtte. 
+
+For å sette opp disse funksjonene må du inn i ruteroppsettet via den trådløse forbindelsen, her er grensesnittet slik som hos andre rutere fra D-Link, men ikke like omfattende. 
+
+Konklusjon 
+
+Som lommeruter med lagring er den svært enkel i bruk og ikke minst fleksibel. 
+Å kunne bruke USB-minne i stedet for innebygd er en stor fordel. 
+Men den utvendige plasseringen er ikke optimal, det hadde vært bedre om minnepluggen kunne sitte inne i enheten, under et lokk eller i en nedfelt dokk. 
+At den stikker ut kan by på utfordringer og større sjanser for uhell. 
+
+Ytelsen er akseptabel, men ikke imponerende. 
+Den er tydelig tregere enn intern lagring, noe som egentlig ikke er noe problem ved film og musikk, men litt irriterende når man skal bla i bilder. 
+Det er jo ikke noen miniatyrbilder i opplistingen, så man må bla eller ha unike beskrivende navn på alle bildene. 
+Det er mildt sag uvanlig. 
+
+Men som alternativ til å kjøpe mobile enheter med mye internminne kan denne være et ypperlig og fleksibelt alternativ. 
+Ikke er den spesielt dyr heller. 
+
+D-Link DIR-506L 

@@ -1,0 +1,119 @@
+HP Pavilion dv6560eu
+HP slipper nok en bærbar i Pavilion-serien: dv6560eu. 
+Denne bærbare er velutstyrt og pen å se på - men er den perfekt for akkurat deg? 
+
+Som du kanskje har fått med deg testet vi rett før helgen en 15,4-tommer til ni tusenlapper, nemlig Fujitsu Siemens Amilo PI 2530, som med jevnt over god ytelse og "stille modus" gjorde en respektabel figur. 
+
+LES OGSÅ: 
+
+Men i denne prisklassen er det altså stor og god konkurranse, og i dag ser vi på en annen dem: dv6560eu, en PC i Pavilion-serien fra Hewlett-Packard. 
+
+Vi har en del erfaring fra diverse tidligere Pavilion-modeller, og dv6560eu ligner en god del på dv6060eu som vi testet for nokså nøyaktig 12 måneder siden. 
+Designen er lik, det samme er prisen... men ser vi nærmere på spesifikasjonene er det også en del forbedringer under panseret. 
+
+Spesifikasjoner: 
+
+AMD Turion 64 X2 TL-60 @ 2,0 GHz 15,4" skjerm med 1280 x 800 punkter 2 GB DDR2-minne 200 GB harddisk nVidia GeForce 8400M GS (128 MB RAM) WLAN (a/b/g/n), 10/100 LAN, modem 3 x USB, infrarød, blåtann ExpressCard/54 kortplass Kortleser for SD, xD, MMC, MS, MSPRO VGA, HDMI og S-Video ut Fingeravtrykkleser Lyd inn, analog/digital lyd ut Webkamera og integrert mikrofon Dimensjoner (B/D/H): 35,7 x 25,6 x 4,4 cm Vekt ca. 2,8 kilo Pris 8.990,- 
+
+Bredskjermen har - typisk nok for denne prisklassen - 1280 x 800 punkter og er av den typen HP selv kaller "Brightview", noe som vi som regel referer til som kontrastbelegg. 
+Det er altså den blanke, litt reflekterende overflaten som gir bedre skarphet og farger. 
+Skjermen på HPen er vi fornøyd med - sammenligner vi med for eksempel Amilo PI 2530 som vi testet for noen få dager siden er disse to maskinene på høyde med hverandre når det gjelder bildekvalitet. 
+
+Konstruksjon 
+
+Som sagt er utseendet på dv6560eu en kjent sak, med runde kanter, sølvfarget og mørk/sort plast som stikkord. 
+Selve lokket har et svakt, innlagt mønster og er i tillegg ganske så blankt, noe som også betyr at det har stort potensiale for å trekke til seg fingeravtrykk. 
+Derfor følger det heldigvis med pusseklut. 
+
+Kvaliteten på chassiset virker ok, lokket er på sin side relativt stivt, men har også et par svake punkter. 
+
+Flere av de store produsentene av bærbare PCer sparer inn der de kan, og som på Amilo PI 2530 har tastaturet en felles skandinavisk layout. 
+Det som er litt snodig er at i likhet med den nevnte bærbare fra Fujitsu Siemens er tastaturet en smule slarkete på høyre side. 
+Men i motsetning til Amiloen er også tastaturet ganske bråkete selv uten slarken, noe som totalt sett gjør det til et av de mest støyende tastaturer for bærbare PCer vi har vært borti. 
+
+Den store touchpaden under er vi mer fornøyd med, den er glatt og veldig følsom. 
+De to knappene under er store og gode. 
+På den sorte "listen" rundt selve pad'en er det også en knapp for å slå den av, kjekt å ha dersom du er av typen som lett kommer borti den når du skriver stil. 
+
+Mellom tastaturet og høyttalerne nærmest skjermen ligger av/på-knappen og en rekke berøringstaster for medieavspilling - heldigvis er de mindre følsomme enn de vi fant på forrige generasjon. 
+
+Tilkoblingsmuligheter 
+
+På Pavilion dv6560eu er alle kontaktene plassert på sidene og fronten - baksiden er fri for alt annet enn grillen som slipper ut varmluften. 
+
+I front er ut- og inngangene for lyd, samt bryteren som slår av og på trådløst nettverk + blåtann (mot venstre). 
+Her er også IR-mottakeren. 
+
+På venstre side har vi S-Video, VGA og HDMI, ekspansjonsport (for dokkingmuligheter), modem, LAN, 2 x USB, FireWire og minnekortleser. 
+
+Høyre side har ExpressCard/54-port, optisk drev, en USB og inntak for strøm. 
+
+Ytelse og batterilevetid 
+
+HP har som i fjorårets modell brukt en dobbeltkjernet AMD-prosessor i PCen. 
+Disse når ikke opp til Intels Core 2 Duo-prosessorer dersom vi sammenligner dem klokkefrekvens mot klokkefrekvens, så for å ha noen sjanse til å konkurrere mot slike prosessorer må de gå raskere. 
+Prosessoren i "vår" maskin tikket av gårde på 2,0 GHz. 
+
+Grafikkkortet er et GeForce 8400M GS fra nVidia med støtte for Direct3D 10. 
+
+Vi har i dette tilfellet selvfølgelig sammenlignet med Fujitsu Siemens Amilo PI 2530 og den litt mindre (14,1-tommer) og mer portable Acer TravelMate 6492. 
+Lurer du på ytelsen mot flere PCer kan du jo selv gjøre en enkel sammenligning ved å titte på den nevnte testen av Amilo PI 2530. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+AMD-prosessoren på 2,0 GHz kan ikke holde tritt med en Core 2 Duo selv om denne går på en lavere klokkefrekvens (1,8 GHz), og den store harddisken som spinner med 4200 RPM (omdreininger i minuttet) ligger også litt bak i ytelse. 
+Grafikkortet viser seg derimot å være litt raskere enn Fujitsu Siemens-PCen. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+I hva går mer på direkte spillytelse ser vi at GeForce 8400M GS går godt forbi Radeon HD 2300-kortet som er i Amiloen. 
+Hardbarkede spillere vil nok rynke litt på nesen, men de av dere er mindre kravstore kan nok klare dere med dette kortet - i det minste så lenge dere holder dere på såpass lav oppløsning som 1280 x 800. 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+I vår vante test med BatteryMark ligger Pavilion dv6560eu et knapt kvarter bak Amiloen, noe vi setter som mer enn godkjent. 
+
+Støy og varme 
+
+Denne Pavilion-PCen holder seg nokså fin og kjølig, men det har også sin pris - vifta går konstant. 
+Heldigvis er denne støysvak og jevn under lett belastning, men du slipper altså ikke unna et svakt viftesus. 
+De fleste vil likevel ikke ha noe problem med et slikt lavt volum. 
+
+Under belastning er den et annet dyr, og går kjapt opp og ned i takt med behovet for kjøling. 
+Fordelen her er at den raskt går ned til et mer levelig nivå når belastningen på prosessor og grafikkløsning blir mindre. 
+
+Vurdering og konklusjon 
+
+Når vi sammenligner to (eller flere) PCer til samme pris rettet mot samme kundesegment - som i dette tilfellet Amilo PI 2530 fra Fujitsu Siemens og dv6560eu fra HP - er det alltid et spørsmål som dukker opp: "hvilken er best"? 
+
+Dette høres kanskje ut som grei skuring, men nå er det engang slik at folk har forskjellig smak og forskjellige prioriteringer - og bærbare PCer i denne prisklassen har enn så lenge både sterke og svake sider. 
+
+La oss først se på bruk - som Amilo PI 2530 er dette en typisk "hjemmebærbar", altså en bærbar PC uten den helt store portabiliteten. 
+Den er riktignok et par hekto lettere enn den nevnte Amiloen, men rent bortsett fra vekt forteller også kvalitet og utseende at den ikke bør utsettes for daglig juling. 
+Bare det at lokket ikke lar seg låse inntil tastaturet i lukket tilstand kan være katastrofalt for en uheldig bruker med en løs penn i veska. 
+
+Så er målet en bærbar til å faktisk bære med seg er de fleste kanskje bedre tjent ved å gå for en PC som er litt lettere og mer solid. 
+
+Men for sitt bruk er HP Pavilion dv6560eu en meget velutstyrt PC, med en ytelse som vil være god nok for de aller fleste hjemmebrukere og de mindre kravstore spillerne. 
+HDMI gjør at du uten problemer kan koble den opp mot din nye flat-TV - og med 200 GB harddiskplass får du også plass til et kobbel med filmer. 
+
+Men vi kommer heller ikke unna litt pirk. 
+Det er tastaturet, som vi selvfølgelig gjerne skulle hatt både stillere og en tanke mer behagelig - men det er jo for mange også kun en vanesak. 
+En annen ting er at hvis den bærbare skal ha en fast plass kommer den til å se ut som en liten blekksprut med tanke på at alle ledninger vil stikke ut fra sidene og fronten på maskinen. 
+Her kan vi selvfølgelig bruke en dokkingstasjon, men en slik koster ekstra, tar plass og kontakten til denne er også på siden. 
+
+Så... er dv6560eu et bedre alternativ enn Amilo PI 2530? 
+Svaret vårt er at det er opp til deg, dine behov og hva du mener er viktigst. 
+PCen fra Fujitsu 
+Siemens har stille modus, er litt kraftigere til generell bruk og samler det meste av ledninger bak. 
+HPen vi har testet i dag er på sin side bedre utstyrt og en smule bedre til spill, men er også mer støyende - både når det gjelder vifter og tastatur. 
+
+I våre øyne blir de to PCene med sine fordeler og ulemper mer eller mindre likeverdige, og tallet på de øynene blir fire. 
+
+For denne prisklassen minner vi igjen om MacBook dersom du ikke er interessert i spill, og vil du spare noen tusenlapper er vår testvinner fra før sommeren også et stalltips. 
+
+En liste over maskiner vi har testet finner du her! 

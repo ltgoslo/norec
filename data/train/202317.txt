@@ -1,0 +1,84 @@
+Creative ZiiSound trådløse høyttalere
+Ikke helt uten ledninger, strøm må de ha. 
+
+Helt trådløse høyttalere hadde vært fint, men siden det ikke finnes så små atomkraftverk eller andre nesten evigvarende tilstrekkelig kraftige strømkilder finnes de ikke. 
+Batteridrift eller solceller er heller ikke aktuelt, løsningene er rett og slett mer komplisert enn problemet. 
+
+Men delvis trådløst kan ha noe for seg. 
+Strømtilkobling er som regel ikke noe problem, siden stikkontakter som regel finnes tilgjengelig eller i nærheten av der hvor man vil plassere høyttalere. 
+
+Så da er det signalkablene som står for hugg, og Creative har nå et system som bruker Bluetooth i stedet for signalkabler. 
+
+Du kan også bruke en vanlig stereo kabel med minijack til å forsyne hovedhøyttaleren med signal. 
+
+Vi har skrevet om systemet tidligere, nå har vi testet et system med 2 D5x høyttalere og en DSx sub. 
+I tillegg har vi brukt senderen BT-D5 til iPhone. 
+
+Oppsett 
+
+Det smarte med systemet er at ett høyttalerkabinett både fungerer som selvstendig stereohøyttaler og som en kanal i et større system. 
+Det er altså to forsterkere og dobbelt sett høyttalere i hvert kabinett. 
+
+Sub'en er derimot mono, som alle sub-er, fordi lyden i dette frekvensområdet ikke kan retningsbestemmes av vår hørsel. 
+Derfor kan man plassere subwooferen nesten hvor som helst hvor det er praktisk innredningsmessig. 
+
+For å høre på én D5x høyttaler skrur du den bare på, og setter den lille Bluetooth- sendermodulen BT-D5 i iPhone. 
+Etter noen sekunder har de funnet hverandre og du hører lyd. 
+Enkelt og greit. 
+
+Du kan selvfølgelig bruke alle andre lydkilder som sender lyd over Bluetooth, men da må du gi inn i Bluetooth-oppsettet på mobilen eller PC-en og etablerer kontakt med høyttalersettet på samme måte som du kobler til Bluetooth-hodetelefoner. 
+
+For å utvide systemet kan du koble opp en D5x til, og eventuelt en sub for å dekke hele toneområdet. 
+Da blir det straks litt mer plundrete. 
+
+I prinsippet er det enkelt. 
+Du velger en Dx5 som skal være høyre kanal og en slags "master" i systemet. 
+Så holder du inne Link-knappen, som ikke er noen knapp, men et følsomt område der LINK-teksten står. 
+Etter noen sekunder begynner det å blinke i 3 lysdioder, hvis du har truffet riktig og holdt der i riktig antall sekunder. 
+Da behøver du ikke å trykke lenger. 
+
+Så velger du neste D5x som skal være venstre kanal, og holder Link-knappen inne på samme måte, da begynner denne å blinke og du slipper knappen. 
+Da vil den venstre av de tre lysdiodene lyse jevnt og høyttaleren har blitt tilordnet venstre lydkanal. 
+
+Slik fortsetter du til du har satt opp hele systemet, inkludert sub'en som har en Link-knapp på baksiden. 
+
+I praksis er det litt knotete fordi det ikke er så lett å treffe Link-knappen, og om endring i status endres er avhengig av om du har fingeren riktig plassert hele tiden. 
+Det hadde vært enklere om du faktisk kjente at fingeren trykket ned en knapp. 
+
+Etter en del plundring fikk vi satt opp systemet og kunne lytte til forskjellige typer musikk. 
+
+Hvordan låter det? 
+
+Førsteinntrykket da vi sjekket ut en enkelt høyttaler var positivt. 
+Det er overraskende mye bassgjengivelse i det lille kabinettet og diskanten er svært krisp og klar, og låter uanstrengt ganske høyt opp i lydnivå. 
+Men det første du mister ved for høyt påtrykk er klarheten og luftigheten i diskanten, da begynner den å bli hesere og mer anstrengt, rett og slett mer forvrengning. 
+
+Med to D5x blir det både større bredde og dybde i lydbildet, naturlig nok, og nivåterskelen for sliten diskant løftes et par hakk. 
+
+Med sub-en får du mer enn nok bass, i et 2.1-system som vi testet måtte vi skru volumkontrollen på kl 11 for å få et balansert lydbilde. 
+
+Når det gjelder musikksjangere, så låter anlegget veldig bra på både lettere, mer gjenomsiktige lydbilder med akustiske instrumenter og stemmer. 
+Også jazz, på gode trommeopptak med visper hører du sirkelbevegelsene og med stikker hører du tre-lyden når tuppene treffer ride-cymbalet. 
+
+Også tyngre sjangere fungerer bra, i hvert fall opp til AC/DC, det er mye bånn og klarhet i toppen. 
+
+Men til klassisk orkestermusikk, som symfonier og kammerorkester med tettere teksturer fungerer ikke anlegget godt. 
+Lydbildet faller sammen i mellomtonen, det blir matt og grøtete mens bass og diskant lever sitt eget liv. 
+
+Til TV-lyd fungerer anlegget utmerket og gir et solid løft for enhver flat-TV, særlig med sub. 
+Men dette er begrenset til stereo, det er ingen dekoder for Dolby eller DTS som sender ut flerkanals lyd over Bluetooth. 
+
+Konklusjon 
+
+Anlegget ser stilig ut, gir god lyd for de fleste bruksområder og populære sjangere. 
+
+Det er litt knotete å sette opp, først og fremst på grunn av mangel på fysiske knapper. 
+Her har tydeligvis designavdelingen hatt overtaket. 
+Vi hadde gjerne sett en grei velger på baksiden som man kunne stille inn for høyre, venstre, senter, stereo og så videre uten dikkedarer - like enkelt som å trykke på etasjeknappen i en heis. 
+
+Pris og tilgjengelighet 
+
+ZiiSound D5x er tilgjengelig nå, og ZiiSound DSx sub ser ut til å være litt forsinket. 
+Den skulle etter planen vært tilgjengelig fra slutten av juni 2011 til en veiledende pris på kr. 1399,- 
+
+Creative ZiiSound D5 

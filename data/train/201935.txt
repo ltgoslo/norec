@@ -1,0 +1,77 @@
+Fujitsu-Siemens Amilo L7320
+Amilo L7320 fra FS er en rimelig og nokså enkel bærbar PC. 
+I tillegg er den i grunn helt blottet for overraskelser - både på godt og vondt. 
+
+I julen hadde vi den gleden å se på en billigmodell fra Asus, som til en pris av fem høvdinger viste seg å være et helt akseptabelt kjøp. 
+Men det finnes selvsagt flere alternativer i denne klassen, og et av dem kommer fra Fujitsu-Siemens. 
+
+LES OGSÅ: 
+
+Minimalistisk design i sort og sølv. 
+
+Fujitsu-Siemens kunne holdt prisen nede ved enten å ofre byggekvaliteten eller lempe på maskinvare, og det er hovedsakelig det siste som har vært aktuelt. 
+Dette gjenspeiles tydelig i spesifikasjonene: 
+
+Intel Celeron M 380 @ 1,60 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 512 MB DDR2-minne (1 x 512 MB) 40 GB harddisk (5400 rpm) 
+Dual-layer DVD/CD-brenner S3 Unichrome Pro (64 MB delt minne) 54 Mbps WLAN (b/g) 10/100 LAN + modem 3 x USB, lyd inn/ut VGA-utgang Dimensjoner (B/D/H): 35,8 x 27,8 x 4,4 cm Vekt ca. 2,6 kilo Windows XP Home Pris: ca. 5000 inkl. mva. 
+
+Selv hovedkomponentene er nokså beskjedne. 
+Det integrerte grafikkortet er av en type vi kun finner i de billigste maskinene, med 64 MB grafikkminne den stjeler fra systemminnet. 
+Harddisken er på kun 40 GB, ikke all verden av plass til bilder, musikk og filmer, men du har jo alltids mulighet til å bytte den ut eller supplere med en ekstern disk når behovet melder seg. 
+Når vi er inne på oppgradering må vi forresten også nevne at siden PCen kommer med kun en minnemodul så er det enkelt å oppgradere til en gigabyte RAM. 
+
+Bredskjermen på 15,4 tommer er faktisk ganske god. 
+Oppløsningen er som forventet på 1280 x 800 piksler, og skjermen er av den blanke typen, med god kontrast og klare farger. 
+Noe mer kan vi ikke forvente av en bærbar skjerm i denne prisklassen. 
+
+Konstruksjon 
+
+I motsetning til visse andre billigmaskiner er ikke L7320 bygd som en murstein, men holder Amilo-stilen med en relativt slank linje. 
+Chassiset er stivt og kvaliteten føles generell god, men lokket gir litt for lett etter for press og bøying. 
+Vekten på 2,6 kilo burde heller ikke skremme noen. 
+
+Touchpaden er som skjermen i bredformat, men mangler skrollefelt. 
+Tastaturet er stille og greit i bruk, men selv om layouten i stor grad er fin liker vi ikke taster til høyre for Enter og Backspace. 
+Det gjør det nemlig litt for lett å taste feil når vi hamrer løs på neste artikkel. 
+
+Ellers har maskinen absolutt ingen snarveisknapper, noe som egentlig er helt ok, og det forsterker inntrykket av en enkel og minimalistisk bærbar. 
+Men det skal innrømmes at slikt tar seg mye bedre ut på en Mac. 
+
+Manskinens tilkoblinger, som det altså ikke er så veldig mange av, er plassert bak og på sidene. 
+
+Venstre side er nokså spartansk. 
+Her har vi kun plugg for modem og DVD-brenneren. 
+
+PCens høyre side er mer tettpakket med lyd ut og inn, USB, inntak for strøm og LAN-kontakten. 
+Varmluften blåses også ut her. 
+
+Bak er det batteriet som tar det meste av plassen, men vi finner også de to restrerende USB-portene og VGA-utgangen. 
+På høyre side av batteriet er det også plass til en kensingtonlås. 
+
+Kontor- og surfemaskin 
+
+Ytelsesmessig er Amilo L7320 en helt, helt basic PC. 
+Den vil fungere tilfredsstillende til de fleste vanlige oppgaver som surfing, epost, avspilling av musikk og film, vanlige kontorapplikasjoner og kabal. 
+Og for mange vil dette være mer enn nok. 
+Kaster du inn en ekstra 512 MB minne vil du også fint kjøre Vista på denne PCen (kun Home Basic riktignok, men likevel). 
+
+Har du derimot krav til ytelse, vil kjøre tyngre eller mange programmer, eller har et ønske om å spille så bør du nok se etter en litt mer spenstig PC. 
+
+Når det gjelder batterilevetid er det et annet punkt der du ikke kan ha høye håp når det gjelder denne PCen. 
+Med Batterymark klemte vi ut knappe fem kvarter, eller 73 minutter for å være nøyaktig, noe som ikke akkurat betyr at den holder en lang dag med forelesninger. 
+
+Siden denne billigPCen er såpass beskjedent bestykket utvikler den heller ikke så mye varme, og kan fint plasseres på fanget uten større fare for fremtidige generasjoner. 
+Men dette kommer med en pris, nemlig at vifta går av og på med mer eller mindre jevne mellomrom for å holde temperaturen nede. 
+Maskinen er tilnærmet lydløs når denne er i ro, men er lett å legge merke til når vifta setter i gang. 
+
+Konklusjon 
+
+Fujitsu-Siemens Amilo L7320 er som nevnt en enkel PC, og det den ikke har i spesifikasjoner tar den igjen i lav pris og et solid ytre. 
+
+Problemet er at prissegmentet rundt 5.000 kroner begynner å ta seg opp, både i volum og kvalitet. 
+Og vi kan ikke si noe annet at ASUS A6RP, som vi altså også har testet, er langt mer attraktiv. 
+Den koster riktignok noen hundrelapper ekstra, men for de får du en bærbar med bedre batterilevetid, bedre prosessor og grafikkløsning, dobbelt så stor harddisk og en enda mer solid maskin med flere muligheter. 
+Asusen støyer også mindre. 
+
+Det betyr ikke at denne bærbare fra Fujitsu-Siemens er noe direkte dårlig produkt dersom du er ute etter en helt enkel PC. 
+Men i denne prisklassen er det så avgjort mulig å gjøre bedre kjøp. 

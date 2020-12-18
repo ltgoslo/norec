@@ -1,0 +1,97 @@
+Dell Alienware 11x R3
+Liten råtass av en bærbar. 
+
+En gang i tiden var små bærbare PC-er ensbetydende med laber ytelse og høye prislapper. 
+Den tiden er definitivt forbi, men skal du ha noe som virkelig svinger - med god byggekvalitet, SSD, høy grafikkytelse og lang batterilevetid, må du fortsatt belage deg på å åpne lommeboken på vidt gap. 
+
+Dell sin Alienware-satsning inneholder høyytelses-maskiner i flere pris- og størrelsesklasser. 
+Siste generasjon 11X er noe av det aller mest spennende fra den kanten. 
+Denne PC-en er knapt større enn en netbook, men har langt mer å by på under panseret. 
+
+Maskinen kan leveres i en rekke forskjellige konfigurasjoner, vår testmodell er utstyrt med følgende: 
+
+11,6" blank LCD (1366 x 768 piksler)Intel Core i7 2617M prosessor (1.5GHz)Nvidia GeForce GT 540M, 2 GB grafikkminne8 GB RAM (2 x 4 GB DDR3 SDRAM)256 GB SSD2 megapiksel HD webkameraFireWire-port (mini)Displayport- og HDMI-videoutganger2 x USB 3.0-porter1 x USB 2.0-portMinnekortleser (SD/MS)Trådløst nett (802.11 B/G/N)Gigabit kablet nettverkInnebygd Klipsch høyttalersystemWindows 7 Home Premium, 64 bitsStørrelse: 3,2 x 23 x 28 cmVekt: 
+2 kgPris denne konfig: 
+16.950 kroner(Startpris på modellen: 9.990 kroner) 
+
+Siste generasjon maskinvare er på plass, deriblant Intels sterke Sandy Bridge-arkitektur, USB 3.0-porter, godt med minne - og for ikke å glemme: 
+En romslig SSD har erstattet den tradisjonelle harddisken i vårt testeksemplar. 
+Merk imidlertid at denne alene koster 4700 kroner. 
+Klarer du deg med en mindre SSD eller harddisk, kan man fort spare tusenlapper, men merk at det normalt er stor forskjell på ytelsen på harddisker og SSD. 
+Sistnevnte er også lydløs, og bidrar til at PC-en totalt sett bråker mindre. 
+
+Merk videre at maskinen er utstyrt med både Displayport og HDMI-utganger. 
+Flere og flere skjermer, ikke minst i high-end-segmentet, støtter Displayport, som blant annet muliggjør høyere oppløsning enn full HD. 
+
+Vi må også påpeke at maskinen kommer uten optisk drev. 
+Selv om dette stadig blir vanligere, spesielt på små maskiner, kommer de fleste spill fortsatt på DVD. 
+Her må man i tilfelle ty til ekstern DVD-leser, noe som ikke er inkludert i pakka - og som ikke alltid er like hendig. 
+
+Eksteriør 
+
+Maskinen virker svært solid og tight, men også relativt tung for å være såpass liten. 
+Materialvalget er en blanding av metall og plast. 
+
+Designmessig vil vi også plassere den i råtass-segmentet, selv om vi har sett langt mer prangende løsninger enn denne, ikke minst fra Alienware selv, men også gamingmaskiner fra MSI og Asus oser mer av testosteron enn denne. 
+Og hvis du synes rødt blir for sært, finnes den også i sort. 
+
+Tastaturet har et særegent uttrykk, med blått bakgrunnslys (kan skrus av). 
+Vi gir honnør for at det er helnorsk, altså ikke noen fellesnordisk løsning med ØÆÄ på samme tast, som er blitt mer regelen enn unntaket de siste årene. 
+Tastaturet er også fast og fint, og avgir lite lyd under skriving. 
+Bra! 
+
+Alle tilkoblinger er plassert på sidene, med unntak av strøminntaket, som sitter bak. 
+Enheten har ikke optisk drev. 
+
+Under i fronten sitter et par høyttalere fra kvalitetsprodusenten Klipsch, og lyden havner på øvre halvdel sett i forhold til hva vi har testet tidligere denne sesongen - uten at det sier så veldig mye. 
+Sitter du for deg selv og skal spille eller lytte til musikk - så velger du eksterne lydløsninger. 
+Enkelt og greit. 
+
+Starter på 14 sekunder 
+
+At SSD gjør maskinen raskere ser man allerede under oppstarten av maskinen. 
+Windows 7 tar ikke mer enn 14 sekunder å laste, noe som omtrent er en halvering i forhold til de raskeste harddisk-baserte maskinene vi har testet. 
+
+Fornuftig oppsett av Windows 7 og tilleggsprogrammer er også noe av forklaringen på den gode responsen, som fortsetter under bruk av maskinen. 
+
+Måten den integrerte Intel-grafikken og det dedikerte Nvidia Geforce GT540-kortet samarbeider, er også mer sømløs enn hva vi har sett tidligere. 
+Sistnevnte tar ikke over stafettpinnen før det kreves, for eksempel i spill, og det skjer umerkbart for brukeren. 
+
+Ytelsesmessig er det ingen forskjell i 2D-ytelsen, men ganske mye når det kommer til 3D-ytelse. 
+Windows egen opplevelsesindeks gir oss følgende indikasjoner, skalaen går fra 1 (svakest) til 7,9 (best): 
+
+Prosessor: 6,6 Minne (RAM): 
+7,4 Grafikk: 
+5,6 Spillytelse: 5,6 (Intel), 6,7 (Nvidia) Primær harddisk: 
+7,6 
+
+Intel-prosessorer dominerer fullstendig på PC-er i prisklasse 10.000+ kroner, og dobbelkjerneprosessoren som er brukt i denne PC-en er populær blant annet fordi den trekker svært lite strøm (maks 17W). 
+Men som du ser i tabellen under, som er basert på et knippe maskiner i 10-15.000-kroners klassen, går strømgjerrigheten litt på bekostning av den råeste ytelsen: 
+
+Det samme bildet tegner seg når det gjelder 3D-ytelsen, som er god, men det finnes altså kraftigere løsninger i prisklassen: 
+
+Det er imidlertid viktig å poengtere at selv om du får gjennomsnittlig ytelse sett i forhold til prisklassen, er både grafikken og prosessoren langt raskere enn det meste du finner i lavere prisklasser - og mange ganger raskere enn på normale minibærbare maskiner med 11,6-tommer skjerm. 
+
+Og ja - du kan fint spille nyere 3D-spill på denne maskinen, og selv om du kanskje må gå ned litt på detaljnivået vil du fortsatt oppleve bra ytelse. 
+
+Stillegående 
+
+Selv med relativt tung belastning avgir maskinen svært lite viftestøy. 
+Og under vanlig arbeid med nettsider, dokumenter, musikk og regneark, står viften stille i lange perioder. 
+
+Maskinen er dessuten kjølig, mye takket være prosessoren, men også SSD-en. 
+Her er det totalt lite strømforbruk, noe vi får et klart bevis på under batterilevetidstestene våre. 
+
+Ved kontinuerlig videoavspilling i Windows Media Player (HD-klipp 720P) holdt batteriet ut i hele 5 timer og 7 minutter før maskinen sloknet. 
+Med minimal belastning holdt det ut i 8 timer og 15 minutter. 
+Begge deler er blant det aller beste vi har sett, uansett klasse. 
+
+Konklusjon 
+
+Alienware 11X 
+R3 er en helstøpt maskin av god kvalitet. 
+Den byr på mye av det meste - i en svært kompakt innpakning. 
+Vi har i det hele tatt svært lite å trekke for her, det måtte være at vekten er noe høyere enn vi kunne ønsket oss, at en PC som til dels er myntet på spillinteresserte bør komme med optisk drev, og selvfølgelig at den har en høy pris. 
+I øyeblikket vil en harddisk eller mindre SSD være fornuftig for de fleste, mener vi. 
+
+Den siste generasjonen 11X fås i skrivende stund kun gjennom Dell.no. 

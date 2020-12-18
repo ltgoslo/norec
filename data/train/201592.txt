@@ -1,0 +1,72 @@
+Bildekvalitet og konklusjon
+Bildestabilisator er definitivt kjekt å ha, men høyere ISO-toleranse hadde vært bedre. 
+
+Å ha bildestabilisator i kamerahuset er en meget hendig feature, men den har også sine svakheter. 
+Siden stabilisatoren fungerer ved at CCD-brikka flyttes på, vil du ikke se effekten av den i søkeren, slik du gjør når du har objektiver med bildestabilisator. 
+I tillegg vil bildestabilisatoren til et objektiv være skreddersydd til dette objektivet - CCD-flytting i kamerahuset vil ha ulik effekt for forskjellige brennvidder og ulike objektivtyper. 
+Derfor er det slik at selv om du sparer penger fordi du slipper å kjøpe objektiver med bildestabilisator, vil stabilisering i objektivet, i hvert fall på papiret, fungere bedre. 
+
+Vi har foretatt en liten uvitenskapelig test av bildestabilisatoren. 
+Vi tok først tre bilder i sierie uten stabilisator, brennvidde på 70mm (tilsvarende 105mm) på 1/125s, og deretter prøvde vi lengre lukkertider med stabilisatoren aktivert. 
+Fra hver pulje á tre bilder, plukket vi ut det skarpeste. 
+Her er resultatet: 
+
+1/60 er cirka ett stopp lengre, 1/30 cirka to stopp. 
+1/15 er dermed cirka 3 stopp og et sted mellom 1/10 og 1/15 vil være 3,5 stopp. 
+Som det fremgår av bildene, er det ikke merkverdig forskjell mellom 1/30s med bildestabilisator og 1/125 uten, men på 1/13, like under 3,5 trinn (cirka 3,2), begynner det å bli så vidt litt uskarpt. 
+Rundt tre stopp vil etter denne testmetoden være et ganske reelt tall for bildestabilisatorens effekt, og Sony oppgir fra 2-3,5 avhengig av objektiv (testen er foretatt med kit-objektivet). 
+Uansett er dette svært kjekt å ha dersom du ikke er så lysten på å svi av tusener av kroner på objektiver med bildestabilisering. 
+
+Dynamic range optimization har varierende effekt. 
+I mange tilfeller er det minimale forskjeller på bilder tatt med og uten, men spesielt i bilder med skyggepartier er det detaljer å hente i de mørkeste partiene ved å ha denne funksjonen slått på, noe du kan se på eksempelet under. 
+
+Mye støy fra ISO 800 
+
+Høyere ISO-toleranse vil i de fleste tilfeller være bedre enn en bildestabilisator. 
+En bildestabilisator er kjekk når motivet ikke er i bevegelse og kan tillate lengre lukkertider - skal du ta bilde av ting i bevegelse, derimot, er du avhengig av høy ISO for å holde lukkertiden så kort som mulig. 
+ISO-toleransen er dessverre ett av de svakeste punktene hos Sony Alpha A100, noe du kan se i følgende sammenligning: 
+
+Som det fremkommer av bildene, vil alt opp til og med ISO 400 være av akseptabel kvalitet, men ved ISO 800 begynner støyen å bli relativt markant. 
+På ISO 1600 får vi mye fargespill, og dessuten blir fargene langt mindre mettet. 
+Ved konvertering til LAB-format og isolering av kanalene finner vi støy i luminanskanalen, som for så vidt er greit nok, men i B-kanalen (gul/blå) er den ganske skjemmende på høye ISO-verdier. 
+
+Støynivået på Dynax 5D-kameraet er langt lavere, noe som kan ha sammenheng med at BIONZ-prosessoren i det nye kameraet har mindre støyreduksjon, at CCD-sensoren har flere megapiksler eller en kombinasjon av disse. 
+Uansett vil denne ISO-følsomheten spesielt gå utover bildekvaliteten på innendørsbilder uten blits. 
+Det anbefales også fra dette hold å gå til anskaffelse av en ekstern blits til kameraet, for den interne blitsen er heller ikke spesielt god - ofte blir det bleke personer og mørke bakgrunner med den interne blitsen. 
+
+Som nevnt er det også et problem at kameraet har en tendens til å undereksponere, spesielt ved situasjoner der deler av bildet er lyse, og detaljer forsvinner derfor i de mørkeste partiene. 
+Også ved blitsbruk har vi ofte følt det nødvendig å justere blitseksponeringskompensasjonen opp 0,3EV. 
+Dynamic range optimization kan riktignok fikse noe av dette, men den kan kun brukes på ISO-verdier fra 400 og nedover, i tillegg til at lysmålingen er nødt til å stå på multisegment. 
+
+Fargegjengivelsen er god på A100. 
+Den automatiske hvitbalansen fungerer som regel greit, men i spesiell belysning, som innendørs med stearinlys eller under lysstoffrør, blir du nødt til manuelt å angi fargetemperatur eller lystype. 
+Vi tok et bilde av vårt Gretag MacBeth-fargekart og tilpasset hvitbalansen ved å definere hvitpunkt på den hvite ruta. 
+Da fikk vi verdier som lå ganske nærme virkeligheten, og spesielt hudtoner gjengis veldig korrekt. 
+
+Merk at bildekvaliteten som gis i oppsummeringen er relatert til kameratype og prisklasse, og kan for eksempel ikke sammenlignes med kompaktkameraer. 
+
+Godt kit-objektiv 
+
+Vi har kun testet kameraet med kitobjektivet, som sannsynligvis vil være noe begrensende på skarpheten, men ettersom CCD-en trolig er den samme som sitter i D200 har vi grunn til å tro at Sony Alpha er i stand til å produsere meget skarpe bilder, for selv med kit-objektivet er vi meget godt fornøyde. 
+Det har en brennvidde på 18-70mm (tilsvarende 27-105mm), som gir litt ekstra spillerom i forhold til mange av konkurrentenes kit-objektiver på 18-55mm. 
+Lysstyrken er på f/3.5-5.6, som er helt standard for denne typen objektiver, og minste makroavstand er 38cm. 
+
+Kitobjektivet har lav fortegning, men noe kromatisk feilbrytning er å spore i høykontrastområder (se bilde). 
+Det virker for øvrig å være det samme kit-objektivet som det som fulgte med Konica Minolta 5D, om enn litt Sonyfisert. 
+
+I tillegg til 18-70mm selges også kameraet med et kit-objektiv på 75-300mm (f/4.5-5.6). 
+Regn med en ekstra femhundrelapp på prisen med 18-70mm og en ekstra tusenlapp oppå der igjen for å få med 75-300-objektivet (gatepris). 
+
+Konklusjon 
+
+Sony gjør et solid inntrykk med sitt første speilreflekskamera, og levner liten tvil om at gode tradisjoner fra Konica Minolta er videreført, samtidig som at kameraet har fått en liten touch Sony. 
+Kameraet har god batterilevetid, har et godt grep og en flott LCD-skjerm som viser såpass med informasjon at et ekstra "kalkulatordisplay" på toppen blir unødvendig. 
+
+I tillegg har det små finesser som øyeaktivert autofokus som også slukker skjermen, samt rotering av informasjonen når kameraet holdes på høykant, en bildestabilisator som tillater 2-3 trinn lenger lukkertider og et passe antall knapper som gir hurtig tilgang til funksjonene som brukes mest. 
+At seriefotografering pågår til minnekortet er tomt, er også et pluss, og bildekvaliteten er jevnt over meget god med presise farger og fin skarphet. 
+
+Vi finner allikevel et par negative punkter også - lysmåleren kunne ha vært bedre og har en tendens til å undereksponere bildene, også ved bruk av blits. 
+I tillegg er følsomheten en liten akilleshæl for Alpha-kameraet, som begynner å produsere fargestøy på ISO 800, og som i tillegg mister fargeintensitet ved ISO 1600. 
+Siden dette er Sonys første kamera, er tilgjengeligheten på ny optikk også litt dårligere enn hva tilfellet er for Canon og Nikon. 
+
+Vi føler allikevel at kameraet fra Sony vil være et godt kjøp for mange - spesielt dersom du har tilgang til gammel Minolta-optikk, eller ikke ønsker å svi av mange tusenlapper for å få objektiver med bildestabilisering; det trenger du nemlig ikke til Sony Alpha A100. 

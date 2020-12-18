@@ -1,0 +1,126 @@
+TEST:Sonos multiromsystem 
+
+Er markedslederen fortsatt best? 
+
+Etter å ha testet flerromsanlegg fra Samsung, Denon og Philips var det på tide å se nærmere på markedslederen Sonos. 
+For kan de fortsatt konkurrere, eller har de andre tatt dem igjen når det gjelder pris, funksjoner og brukervennlighet? 
+
+For å gi deg svaret satte vi oss ned med åtte Sonos-enheter: 
+Seks Connect-enheter, den største høyttaleren Play :5 og minstemann Play :1. 
+I tillegg har vi tidligere testet Play:3, som er den mellomstore høyttaleren. 
+
+Best for viderekomne 
+
+La oss begynne med å fortelle hva Sonos ikke er. 
+Om du bare ønsker deg en høyttaler som kan spille mobilmusikken din eller Spotify i flere rom samtidig (og altså ikke bare spille musikk via Bluetooth eller AirPlay i én enkelt høyttaler), finnes det både rimeligere og bedre løsninger. 
+
+For eksempel Philips Spotify Multiroom, som gir bra lyd for lite penger (henholdsvis 1.000 og 1.500 kroner per høyttaler) om du synes det holder med bare Spotify. 
+
+For Sonos-enhetene både gjør, og koster mer. 
+
+Inngangsbilletten er høyttaleren Play:1, som ligger på rundt 1.700 kroner. 
+Deretter kan du bygge ut etter behov. 
+De to rimeligste produktene, Bridge og Boost, brukes bare til å forsterke det trådløse signalet og kan ikke spille musikk alene. 
+
+Sonos er best tilpasset to grupper: 
+De som har utstyr fra før, og de som har mye musikk liggende på disk. 
+
+Utseende er jo en smakssak, men om du liker minimalistisk design i Apple-løypa vil Sonos-utstyret framstå som pent. 
+Høyttalerne er praktiske å bruke og låter slett ikke dårlig, men akkurat her er nok konkurrentene sterkere. 
+
+Kan kobles til det meste 
+
+Sonos Connect-enhetene kan kobles for eksempel til en hjemmekinoforsterker, en DAC, eller rett og slett brukes som en forforsterker med et effekttrinn. 
+
+Denne egenskaper deler de med Denon HEOS Link-enhet. 
+
+De to konkurrentene har også felles en forsterker med innebygget effekttrinn. 
+Sonos kaller det Connect :Amp, mens Denon-utgaven heter HEOS Amp. 
+
+To kjemper om tronen 
+
+For øvrig mener Sonos at Denons HEOS-serie ligger for nær opptil deres produkter. 
+Derfor har de gått til søksmål. 
+
+De to kamphanene har utvilsomt lagt seg i samme felt, der folk som er opptatt av lyd og fleksibilitet er målgruppa. 
+Det er likevel ingen av Sonos-høyttalerne som kan konkurrere med HEOS 7 når det gjelder å fylle en stor stue med party-lyd. 
+
+Du har også konkurrenter som i enda større grad sikter seg inn på lydentusiastene som har dyre stereoanlegg fra før. 
+En av dem er Bluesound, som også støtter HD-lyd (24/96 og 24/192). 
+For akkurat det gjør verken Denon eller Sonos. 
+
+Begge stopper ved lyd i CD-kvalitet (16/44.1/48), men med mindre man tilhører de som mener det er en fordel at anlegget kan gjengi frekvenser som ligger over det hørbare området, har dette trolig liten praktisk betydning. 
+
+Sonos støtter ellers de aller fleste 16-bitsformatene lydformatene (se den komplette listen), men det finnes ett unntak: 
+Nemlig Microsofts WMA Lossless. 
+Her støtter nemlig Sonos bare vanlig WMA. 
+
+Sonos hører på kundene 
+
+Sonos-brukere kommer med mange innspill og forslag på brukerforumet, og her er også Sonos-ansatte innom med svar og nyhetsoppdateringer. 
+
+Denne tette kontakten med brukerne har medvirket til at produktene har blitt stadig mer stabile og enklere å bruke. 
+Samtidig har nye funksjoner og musikktjenester blitt lagt til. 
+
+I dag støtter Sonos både WiMP og Spotify direkte, i tillegg til en lang rekke andre musikktjenester. 
+
+Mens de fleste andre nå bruker Spotify Connect, er Spotify hos Sonos integrert i systemet. 
+Det betyr at du ikke trenger å gå ut av Sonos-appen og inn i Spotify-appen for å velge musikk. 
+
+Søk på tvers 
+
+Du kan også søke på tvers av musikktjeneste du abonnerer på. 
+Om du ikke finner sangen du leter etter ett sted, kan den dukke opp et annet sted. 
+For eksempel på en PC eller en nettverksdisk der du har lagret egen musikk. 
+
+Alt gjøres altså i én og samme operasjon, og Sonos ser alle musikk-kildene dine under ett. 
+Bruker du iTunes for å lagre og søke i musikken din, støtter også Sonos det. 
+
+Tidligere hadde Sonos-systemet egne fjernkontroller som lignet litt på de første iPod-ene, men den tiden er over. 
+
+I stedet er det gratisapper for mobil, nettbrett, PC og Mac som har overtatt helt, og vår erfaring er at de er blant de mest oversiktlige og brukervennlige på markedet. 
+Ja, rent utseendemessig har vi ikke sett noe som er like pent. 
+
+Høyttalerne kan for eksempel settes sammen både til tokanals stereoanlegg og flerkanals hjemmekinoanlegg 
+
+Bruker du fortsatt CD, kassettspiller eller andre kilder fra «oldtiden» kan du plugge inn hva som helst annet (også Blu-ray, DVD og TV) og strømme det rundt i huset på lik linje med musikk fra strømmere og disker. 
+Du har valget mellom å strømme i MP3-kvalitet eller i CD-kvalitet. 
+Velger du det siste, kan det lett bli opphold i musikken om du bruker mange høyttalere samtidig. 
+
+Stabile forbindelser 
+
+Sonos bruker et såkalt MESH-system for å gjøre forbindelsen mellom enhetene mer stabil. 
+
+Dette fungerer svært bra, for selv i rom der vi sliter med å bruke nettbrett eller mobil spiller Sonos-utstyret trøstig videre. 
+Kort fortalt lager MESH-systemet et eget nett uavhengig av WiFi-nettverket ditt, noe som gjør at musikksystemet ditt ikke påvirkes om andre familiemedlemmer for eksempel strømmer video eller laster ned store filer. 
+
+Forbindelsen til eksterne musikkstrømmere blir derimot påvirket av dette. 
+Så om Spotify-musikken stopper, så bør du nok vurdere å bestille mer båndbredde fra nettleverandøren din. 
+
+Både digitalt og analogt ut 
+
+Sonos kommer virkelig til sin rett når du kobler en Connect-enhet via digitalutgangen til en DAC og videre til et stereoanlegg eller hjemmekinoanlegg. 
+
+Med tapsløse filer (FLAC eller Apple Lossless) får du lyd i CD-kvalitet, og det skal godt gjøres å høre forskjell på en god CD-spiller og en Connect via en god DAC dersom utstyret ellers er av høy kvalitet. 
+
+Du kan også koble analogt ut fra Sonos Connect. 
+Da får du omtrent samme lyd som med en rimelig CD/DVD/Blu-ray-spiller som du kobler rett til en forsterker. 
+Trolig bra nok for et flertall, men kanskje ikke for den dedikerte hifi-fansen. 
+
+Holder med Connect 
+
+Om du vil spare penger, holder det faktisk med en effektforsterker og høyttalere i tillegg til Connect-enheten. 
+Volumet kan reguleres både via fjernkontroll og fra enheten direkte. 
+Graderingen er absolutt god nok til at dette fungerer i praksis. 
+Det finnes også en «mute»-knapp, slik at du kan skru av musikken om det ringer på døra. 
+
+Har du ikke altfor krevende høyttalere (sjekk virkningsgraden) holder det med en Connect:Amp. 
+
+De mest lydbevisste (eller overtroiske?) modifiserer Sonos-enheten, slik at den angivelig gir fra seg et digitalt signal uten klokkefeil (jitter). 
+
+Svært allsidig, men ikke nødvendigvis best 
+
+Om du bare er ute etter en enkel, trådløs høyttalerløsning for flere rom i hjemmet finnes det etterhvert mange alternativer som både er billigere og gir bedre lyd. 
+
+Men har du mye lydutstyr fra før, vil ha mange utvidelsesmuligheter, og ikke minst ha et system som er enkelt i bruk? 
+Ja da er Sonos forsatt det beste valget. 

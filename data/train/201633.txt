@@ -1,0 +1,117 @@
+Acer TravelMate 803LCI
+Spenningen var stor foran møtet med den første PCen basert på Intels nye Centrino-teknologi. 
+Ville forventningene om ekstrem ytelse og batterilevetid bli innfridd? 
+
+Centrino-platformen lanseres i dag, på CeBit-messen i Hanover. 
+Intel selv er ikke uten lovord om teknologien, og hevder at den vil revolusjonere markedet for mobile datamaskiner. 
+
+LES OGSÅ: 
+
+Ny strømgjerrig prosessor 
+
+I praksis består platformen av en ny prosessor og brikkesett med innebygd WLAN (802.11a/b) - trådløst nettverk. 
+Prosessoren, som er døpt Pentium M, bruker mindre strøm og utvikler mindre varme enn dagens Pentium 4M-prosessorer. 
+Den er også klokket langt lavere enn Pentium 4M, men yter likevel mye mer pr MHz. 
+
+Mindre strømbruk betyr dessuten lengre batterilevetid, mindre batterier og dermed også lettere PCer. 
+
+Les mer om Centrino-platformen i denne artikkelen. 
+
+Acer tidlig ute 
+
+Acer er blant de aller første PC-merkene som er på banen med en Centrino-basert PC. 
+Vi fikk en såkalt "engineering sample" av TravelMate i hende allerede for tre uker siden, og har stiftet nærmere bekjentskap med både PCen og teknologien. 
+
+Og la det være sagt med en gang; denne PCen flytter grensene på flere områder. 
+
+1,6 GHz yter som 2,4 
+
+TravelMate 800 er en ny serie PCer, foreløpig bestående av modellene 800LCI og 803LCI. 
+Modellen vi har testet, 803LCI, er den kraftigste av de to, og er utstyrt med en 1,6 GHz Pentium M-prosessor, 512 MB DDR-minne (maks 2 GB) og 40 GB harddisk. 
+
+Den nye prosessoren kjører på 400 MHz FSB, og har hele 1 MB annetnivås hurtigminne. 
+Våre målinger viser at den yter omtrent som den raskeste 4M-prosessoren som er tilgjengelig i skrivende stund (2,4 GHz). 
+Det er oppsiktsvekkende, og bør få Intel til å revurdere sin strategi i GHz-galoppen. 
+
+Uferdige drivere 
+
+Grafikken besørges av den raskeste brikken på markedet, ATIs Mobility Radeon 9000 med 64 MB minne. 
+Driverne som var installert på vårt testeksemplar ga ikke optimal ytelse. 
+Ytelsesstallene fra 3DMark og Quake III Arena som du finner under "Tekniske data" er derfor ikke representative for potensialet som ligger i denne brikken. 
+Vi forsøkte å oppgradere med nye drivere fra ATI, men fikk feilmelding om at brikken ikke ble gjenkjent. 
+Vi går ut fra at Acer har ordnet problemet når du leser dette. 
+
+Skjermen er en relativt lyssterk 15" med SXGA+ oppløsning (1400x1050 punkter). 
+Det er etter vår mening optimalt for denne skjermstørrelsen. 
+
+Solid funkis 
+
+Selve PCen har en funksjonell utforming og "ren" innpakning uten dilldall , og kabinettet er solid. 
+Her er det for eksempel benyttet kraftig aluminiumslokk, og i følge Acer har PCen gjennomgått en rekke kvalitetstester med hensyn til ytre påkjenninger fra trykk og fall. 
+Betryggende. 
+PCen er stor (33 x 27,2 cm), men svært tynn (2,7 cm). 
+Den veier dessuten ikke mer enn 2,6 kg. 
+
+Tastaturet kjenner vi igjen fra tidligere TravelMate-PCer. 
+Det står i en svak, ergonomisk kurve, og er meget behagelig å bruke. 
+Etter vår mening et av de aller beste tastaturene på markedet. 
+Her finner du også seks hurtigknapper; 4 faste (Internet, epost etc), og 2 programmerbare knapper. 
+
+Kan kobles til "alt" 
+
+Lav vekt har ikke gått på bekostning av de øvrige spesifikasjonene - her flytter Acer grenser. 
+Hør bare her: 
+
+Kombinert DVD-leser/CD-brenner 
+
+4 x USB 2.0-porter 
+
+Kortleser for fire typer minnekort (PCMCIA-adapter) 
+
+Bluetooth-støtte 
+
+Firewire-port 
+
+WLAN innebygd (802.11a/b) 
+
+10/100 MBit nettverksport 
+
+Infrarød port 
+
+56K modem 
+
+SmartCard-leser (mulig å låse tilgang til PCen) 
+
+I tillegg har PCen VGA-utgang, TV-utgang, parallellport, lydinnganger/utganger, 1 x PCMCIA-plass samt kontakt for kobling til portreplikator. 
+Tilhengere av den gamle disketten må belage seg på å skaffe en ekstern diskettstasjon i USB-utgave, som er er ekstrautstyr. 
+Da skulle vel de fleste behov være dekket. 
+
+PCen leveres med Windows XP preinstallert, sammen med blant annet Norton Antivirus og programvare for CD-brenning og DVD-avspilling. 
+
+En hel arbeidsdag 
+
+Vi var spesielt interessert i hvordan batteriet ville klare seg i testene våre. 
+Vi ble ikke skuffet. 
+Standardbatteriet holdt ut i hele 4 timer og 39 minutter, som er ny rekord! 
+Hvis du synes det blir for lite, kan du erstatte den kombinerte DVD-leseren/CD-brenneren med et tilleggsbatteri, og dermed skulle du klare deg uten ekstern strøm en hel arbeidsdag. 
+Det er fantastisk, sett med 2003-øyne (selv om vi sikkert ler av det om fem år). 
+
+Du kan for øvrig sette inn en ekstra harddisk eller DVD-brenner i denne brønnen, eller la den stå tom hvis du vil gjøre PCen enda lettere. 
+
+For flere detaljer omkring ytelse, klikk "Tekniske data" i oppsummeringsboksen til høyre. 
+
+Oppsummering og konklusjon 
+
+Generelt vil vi si at PCen er meget behagelig å bruke. 
+Den er lett å bære med seg, og den solide innpakningen, svært gode batterilevetiden og alle tilkoblingsmulighetene gjør den til særlig egnet for deg som er mye på farten. 
+
+Prosessor og grafikkløsningen på TravelMate 803LCI er blant de raskeste mobile løsningene vi har testet, og derfor er det både overraskende og ikke minst gledelig at varmeutviklingen ser ut til å være meget lav. 
+Det betyr i praksis at støy knyttet til viftesus er fraværende i 99% av tiden du vil tilbringe foran PCen. 
+
+Vi er helt klart vitne til et generasjonsskifte innen mobil datateknologi, og Acer TravelMate 803LCI fremstår som en flott representant for den nye generasjonen. 
+Ny teknologi koster, og hvis du synes 28.500 kroner er for mye for en bærbar PC, kan kanskje 800LCI være mer aktuell. 
+Den har 1,3 GHz prosessor, og er for øvrig identisk med 803LCI. 
+Denne koster ca 21.700 kroner (priser inkluderer mva). 
+
+OPPDATERT 10.7.2003: 
+Prisen er nedjustert til 21.198 kroner inkl mva. 

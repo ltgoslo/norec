@@ -1,0 +1,73 @@
+TEST:Efergy Elite Energimåler 
+
+Må du ha hodet i sikringsskapet for å holde øye med strømforbruket? 
+
+Strømforbruket kan føre mange til fortvilelse, forbruket varierer hele tiden etter vær og vind, og hva som er de beste prisene er det ikke til å bli klok på. 
+
+Skal forbruket virkelig ned må man kutte der det monner, og da er det varmekildene som må til pers. 
+På med filttøfler og islender, ned med innetemperaturen til maks 18 grader. 
+Varmt badegulv, lange, varme bad og dusjer må ofres, og tørketrommel kan du bare glemme. 
+
+Men et slikt liv vil vi ikke ha, ihvertfall ikke hele tiden. 
+
+Lese forbruk i kroner og øre? 
+
+For svært mange er det med snev av angst man mottar strømregningen. 
+De fleste av oss har ikke målere hvor man til enhver tid kan se hva man bruker, eller hva det koster. 
+
+Nye målere er på vei ut til befolkningen, med automatisk innrapportering og mulighet for mer fleksibel prisberegning. 
+
+Men det finnes også løsninger som du kan montere selv, uten inngrep i det elektriske anlegget. 
+
+Efergy trådløs måler 
+
+Denne systemet består av tre følere som klipses rundt hver av de tre fasene som går til den faste strømmåleren i sikringsskapet ditt. 
+Den lille ledningen fra hver av følerne plugges inn i en trådløs sender, som legges i sikringsskapet. 
+Senderen drives av tre AA-batterier og rekker minst 30 meter eller gjennom tre etasjer, i følge brukerveiledningen. 
+Senderen aktiveres ved å trykke på knappen til lysdioden slutter å blinke. 
+
+Mottakeren drives også av tre AA-batterier og kan plassere hvor som helst. 
+
+På mottakeren stiller du spenningen som skal måles, valuta (kroner, euro eller britiske pund) og den totale strømprisen (kWh). 
+
+Måleren viser da hvor mye strøm du bruker i øyeblikket, daglig gjennomsnitt og forskjell mellom gårsdagen og i dag. 
+Et trykk på historieknappe viser forbruket siste uke og måned. 
+
+Den gir med andre ord god oversikt, og med fast strømpris får du prisen på aktuelt forbruk klart og tydelig fram. 
+Med varierende pris, som en av de mange prisvariantene basert på spotpris, blir det vanskelig å regne ut noe eksakt. 
+
+I praksis 
+
+Vi installerte Efergy i vårt noe tilårskomne sikringsskap, og fant tre kabler som går til måleren. 
+
+Den fjerde ledningen som brukerveiledningen refererer til finnes ikke på gammelt norsk strømnett uten 0-leder. 
+
+Sender og mottaker fungerte som det skulle og vi stilte inn mottakeren på kroner, 230V, og en strømpris på 50 øre. 
+Vi må si at vi ble mildt sagt forbauset da forbruket viste over 10kW... 
+
+Vi slo av alt som var av ovner og varmekabler, likevel var forbruket hinsides. 
+Det var ingen tvil om at noe var helt feil. 
+
+Vi sjekket følerne, og de satt som de skulle. 
+Vi testet en og en og forbruket varierte mellom 0 og 8 kW. 
+Da gikk det et lys opp for oss (ikke elektrisk, heldivis), spenningen på hver fase i forhold til jord er jo ikke 230V, men ca. 130V i norsk IT-nett. 
+Mellom 2 faser får vi da ca 230V. 
+
+Altså måtte instillingen på 230V på mottakeren være feil, og vi justerte den ned til 130V. 
+
+Da ble det meningsfulle verdier på avlesningen. 
+Den veksler nå mellom 4 og 5 kWh med 5 panelovner, varmekabler på bad og 2 kW varmtvannsbereder i kjelleren. 
+Pluss fryser, kjøleskap, PC-er osv. 
+Ganske normalt dagsforbruk for oppvarming i en norsk enebolig på østlandet om vinteren, med parafin eller vedfyring i tillegg. 
+
+Konklusjon 
+
+Denne måleren selges av Clas Ohlson, du finner flere forhandlere på nettet. 
+
+Måleren er ganske grei å montere, avhengig av hvordan sikringsskapet er lagt opp. 
+
+Instilling på selve måleren er grei, og visningen er både tydelig og fornuftig. 
+
+Vi fant én alvorlig mangel, og det var som nevnt at det ikke står noe om forskjellig spenningsinnstilling på forskjellige typer strømnett. 
+
+Mer info finner du hos Efergy. 

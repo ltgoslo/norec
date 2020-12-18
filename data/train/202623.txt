@@ -1,0 +1,32 @@
+AutoVer - aldri mer tapte filer
+Dette lille gratisprogrammet tar automatisk kopi av filene du jobber med, hver gang du trykker lagre-knappen. 
+
+Windows Vista har en smart funksjon som kalles Skyggekopier. 
+Hver gang en fil blir overskrevet, for eksempel når et dokument som blir redigert og lagret på ny, sørger funksjonen for at det lagres en skjult kopi av filen. 
+Ved å høyreklikke på filen kan du gjenopprette tidligere versjoner på et øyeblikk. 
+
+Les mer om hvordan du bruker Vistas skyggekopier her. 
+
+Men hva om du bruker Windows XP eller en tidligere versjon av Windows? 
+Det finnes heldigvis løsninger også for deg, noen av dem er til og med enda mer sofistikerte - og endogtil gratis, slik som AutoVer. 
+
+Bestem selv hvor 
+
+Det lille programmet overvåker kun de mappene du ønsker skal overvåkes, og i motsetning til Vistas skyggekopier kan kopiene legges hvor du skulle ønske, for eksempel på en ekstern harddisk, nettverksstasjon eller minneplugg. 
+Skulle harddisken i PCen ta kvelden, er du dermed trygg likevel. 
+
+Du kan også avgjøre om det på ett eller annet tidspunkt skal gjøres noe med revisjonene. 
+Skal de for eksempel slettes etter 90 dager? 
+Komprimeres til en ZIP-fil? 
+Ingenting? 
+Du bestemmer, programmet tar seg av resten. 
+
+Hver gang du trykker på lagre-knappen i programmet du jobber med, sørger AutoVer for at det lagres en kopi et annet sted. 
+Denne kopien heter det samme som originalen, men har i tillegg fått et "vedheng" av sifre, for eksempel mitt dokument.doc.080319132411.doc. 
+Sifrene indikerer år, måned, dag, time, minutter og sekunder. 
+Dermed sorteres revisjonene pent og pyntelig i Utforsker. 
+
+Konklusjon 
+
+Hvis du synes sikkerhetskopiering er en smart ting, ønsker full automatikk og samtidig ta vare på historikken, så er AutoVer et genialt verktøy. 
+Du finner mer informasjon og kan laste ned programmet på et øyeblikk fra denne siden. 

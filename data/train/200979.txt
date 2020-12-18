@@ -1,0 +1,59 @@
+Netgear Universal WiFi Range Extender
+Det finnes mange måter å utvide nettverket på, Netgear har denne. 
+
+Rekkevidde på trådløst nett varierer. 
+Plassering og bygningsmessige faktorer spiller inn, det er de færreste av oss som har en mast tilgjengelig hvor vi kan montere antenner for vårt trådløse nett. 
+Men det finnes enkle løsninger som kan løse problemet, uten store tekniske installasjoner og mye rimeligere enn en antennemast. 
+
+Når det gjelder trådløst nett finnes det bokser som du plasserer mellom det trådløse aksesspunktet eller ruteren og det stedet du vil ha dekning. 
+De fungerer med andre ord som en slags mellomstasjon - eller utkikkspost om man vil - som plukker opp signalene fra begge sider og sender dem videre. 
+Dermed utvides rekkevidden. 
+
+Netgear Universal WiFi Range Extender 
+
+Denne boksen setter du rett i en stikkontakt og lar antennene peke oppover. 
+Den kan godt sitte i en skjøteledning eller fordeler, det spiller ingen rolle. 
+
+Netgear beskriver tre måter å koble den til på. 
+
+Man kan koble den til med WPS (WiFi Protected Setup) knappen hvis ruteren din også har dette. 
+Da er det bare å holde knappen som aktiverer dette på den ene enheten inne i noen sekunder, så trykker du den tilsvarende knappen på den andre enheten før det har gått 2 minutter. 
+
+Et annet alternativ er å plassere Extenderen midt mellom ruteren og den enheten som trenger utvidet trådløst nettverk. 
+Da skal den automatisk konfigurere seg i løpet av et minutt. 
+
+Det tredje alternativet er å koble Extenderen til en bærbar med nettverkskabel og slå av det trådløse nettverksmottaket på den bærbare. 
+Når du så åpner en nettleser vil du uansett komme til oppsettet på Netgear-enheten. 
+Den har en liten innebygget webserver som tar seg av dette. 
+
+Her legger du inn navnet på det trådløse nettverket (SSID) ditt samt passordet. 
+Netgear-boksen vil da opprette et nytt nettverk og foreslå det samme navnet du tastet inn, men med _EXT i tillegg. 
+
+Det er altså opp til de trådløse enhetene du skal bruke i det nye dekningsområdet å skifte mellom dette og ditt opprinnelige trådløsenettverk ("roaming" som det heter) f.eks. når du beveger deg mellom disse med en bærbar trådløs enhet. 
+
+Netgear-enheten støtter 802.11b/g/n nettverk på 2,4 GHz - uansett hvilken ruter du bruker. 
+
+I bruk 
+
+Vi forsøkte å la den installere seg selv ved å sette den i kontakten mellom vår bærbare og ruteren, og la den holde på en stund for seg selv, men det ble det ikke noe greie på. 
+
+De fire lysdiodene som viser status kom aldri så langt at de lyste grønt på alle. 
+
+De to andre alternativene - WPS og manuell installasjon via nettverkskabel - fungerte derimot utmerket. 
+
+Vi plasserte så Extenderen i garasjen og gikk bortover veien med den bærbare for å sjekke mottaket. 
+Uten Extender rekker vårt nettverk så vidt utenfor garasjen, noen få meter bortenfor forsvinner dekningen, da naboens murhus står i veien. 
+
+Men med Extenderen i mellom fikk vi ca 30 meter lengre rekkevidde med dobbelt så høy hastighet som utenfor garasjen med det opprinnelige nettverket. 
+
+Konklusjon 
+
+Netgear Universal WiFi Range Extender er enkel å sette opp, har god rekkevidde - og noe mer har den ikke å by på. 
+Det er også akkurat dette en slik enhet skal bidra med, verken mer eller mindre. 
+
+Det eneste lille ankepunktet er at den oppretter et nytt nettverk med annen SSID i stedet for å bare videreformidle det eksisterende. 
+Du må derfor taste inn passord på utstyret du skal bruke første gangen du er på det utvidete nettet. 
+
+Les også testen av Linksys Wireless-n Range Extender. 
+
+Netgear WN3000RP 

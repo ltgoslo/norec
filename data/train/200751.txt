@@ -1,0 +1,125 @@
+HP Envy 14 Beats
+Lekker og råsterk multimediemaskin fra HP. 
+Vi har testet. 
+
+HPs bærbare Envy-serie har vært på markedet en god stund allerede, men nå har den nettopp kommet i en spesialutgave der den legendariske hiphop-produsenten Dr. 
+Dre har fått satt sitt preg på utformingen og programvaren. 
+
+Luksuspakke 
+
+Fokus er i korte trekk stil, kraft og lydopplevelse - blant annet gjennom et lydsystem som er utviklet av de samme ingeniørene som står bak Monsters serie med Beats by Dr. Dre-hodetelefoner. 
+
+Stilen er det ikke noe å si på, det slanke og heltrukne chassiset med sin sorte, matte finish og den lysende røde Beats-logoen vekker oppsikt, og utformingen minner sterkt om noe Apple kunne stått bak. 
+Og med i pakka får du også et sett med Beats Solo hodetelefoner, som gjerne koster rundt 1500 kroner i løssalg. 
+
+Kraft er det mer enn nok av for de aller fleste. 
+Maskinen er utstyrt med en firekjernet Intel Core i7-prosessor (toppserien fra Intel), samt relativt kraftig grafikkbrikke fra ATI/AMD. 
+
+Her er noen av de viktigste tekniske egenskapene: 
+
+HP envy 14 Beats Prosessor: 
+Intel Core i7-720QM (1,6 Ghz) 
+Minne: 
+4 GB DDR3-minne (maks 8) Lagring: 640 GB harddisk Optisk: 
+DVD-brenner av slot-in-typen Grafikk: 
+ATI Mobility Radeon HD 5650 Skjerm: 14,5", 1366 x 768 piksler Batteri: ett 6-cellers innebygd + eksternt 8 cellers tilleggsbatteri Vekt: 
+2,6 kg, eller 3,4 kg med tilleggsbatteriet Programvare: Windows 7 Home Professional, Adobe Premiere Elements 8, Adobe Photoshop Elements 8, Office 2010 Starter (Word og Excel) mm. 
+Lyd: 
+Leveres med lukkede hodetelefoner av typen Beats Solo. 
+Øvrig: minnekortleser for SD/MMC, webkamera (720P), gigabit nettverk, trådløst nett (a/b/g/n), Bluetooth, HDMI- og Displayport-utganger, kombinert optisk lyd/analog minijack-utgang, eSATA, tre USB 2.0-porter (én deles med eSATA). 
+Pris: 
+Veiledende 16.490 kroner, kampanjepris 14.490 kroner 
+
+Det som er verdt å merke seg her er at det er to minnespor ledig dersom du skulle ønske mer RAM. 
+Harddisken er blant de aller romsligste på markedet for bærbare PC-er. 
+Displayport gjør det mulig å koble PC-en til eksterne skjermer med svært høy oppløsning (f. eks 2560 x 1440). 
+
+Merk for øvrig at du må klare deg uten VGA-tilkobling, og minnekortleseren støtter verken xD eller Memorystick. 
+
+Ekstra batteri som dekker hele undersiden gjør det mulig å være uten stikkontakt en hel arbeidsdag, men gjør samtidig PC-en nesten 800 gram tyngre. 
+
+Photoshop Elements og Premiere Elements følger med i pakken, to glimrende programmer for bilde- og videoredigering 
+
+Flere bilder av PC-en og hodetelefonene: 
+
+Slik er en i bruk 
+
+PC-en har en bra skjerm, men det er ikke på dette punktet produsenten har lagt ned mest penger. 
+Tastaturet derimot, er suverent. 
+Det er fast og responsivt, samtidig som at det avgir nesten ikke lyd i det hele tatt under skriving. 
+Røde symboler på svarte taster er ikke optimalt, men ved å trykke F5 blir de bakgrunnsbelyst. 
+Stilig! 
+
+Under tastaturet sitter en svær multitrykkfølsom pekeplate. 
+Hvis du har til vane å hvilke håndleddet mot kabinettet når du skriver, er det veldig enkelt å komme borti den, noe som kan føre til at musepekeren "flyr" over skjermen i tide og utide. 
+Det er selvfølgelig ikke optimalt, men pekeplaten kan enkelt deaktiveres ved å dobbelklikke øverst i venstre hjørne på den. 
+
+Windows-installasjonen er spesialtilpasset for å matche Beats-designen, med eget skin og funksjonalitet fra Stardock. 
+Dette faller muligens bedre i smak hos andre enn hos undertegnede: 
+
+Det er heldigvis en smal sak å endre til mer standard utseende, hvis du skulle ønske det. 
+Om det er disse spesialtilpasningene som er årsaken, vites ikke, men vi opplevde at Internet Explorer krasjet da vi besøkte enkelte sikre nettsteder (HTTPS), og under avspilling av video med Windows Media Player frøs bildet da vi dro ut strømkabelen. 
+For øvrig opplevde vi ikke noen problemer under testingen. 
+
+Explorer krasjet under besøk på enkelte sikre https-sider. 
+
+Vi nevnte innledningsvis at lyd er et viktig aspekt ved denne PC-en. 
+Den har da også innebygde høyttalere av en kvalitet som vi sjelden opplever på bærbare, med god nok kvalitet og bassgjengivelse til at vi gjerne spiller litt musikk til arbeidet. 
+De medfølgende øretelefonene hever det hele imidlertid mange hakk. 
+Disse har vi testet og omtalt i en egen artikkel. 
+
+Beats-lydsystemet med kontrollpanel som lar deg skreddersy lydopplevelsen. 
+Vi har sett bedre oversettelser, riktig nok. 
+
+Noe viftestøy 
+
+Ikke fullt så positivt er det at maskinen avgir en del ulyder i form av viftestøy - så snart den må bryne seg på middels tunge oppgaver. 
+Det kompakte kabinettet er muligens årsaken, og selv med hissige vifter opplevde vi at temperaturen på prosessoren steg til 81 grader under de tyngste ytelsestestene. 
+Harddisken holdt seg imidlertid kjølig, og det er betryggende. 
+Den oversteg aldri 38 grader, mens grafikkortet lå mellom 51 og 78,5 grader, avhengig av belstning. 
+
+Litt treg oppstart, men høy ytelse 
+
+Oppstart av vårt testeksemplar tok i overkant av ett minutt, men alle prosessene, inkludert Stardock-skinnet, tok mer enn 20 sekunder ekstra. 
+Uten alle tillegg og bakgrunnsprosesser kan man nærmest halvere oppstartstiden, hvis man kjenner knepene. 
+
+Å vekke maskinen fra ventemodus gikk lynkjapt - vi målte 4 sekunder! 
+Fra dvalemodus tok det 22 sekunder, det var omtrent som forventet. 
+
+Alle oppgaver vi satte maskinen til å utføre, forløp kjapt og enkelt. 
+Det er da også noe man bør forvente i denne prisklassen. 
+
+Windows opplevelsesindeks gav oss følgende indikasjoner (7,9 er det høyeste som er mulig): 
+
+Prosessor: 7,0 Minne: 5,9 Grafikk: 6,7 Spill: 6,7 Harddisk: 
+5,9 
+
+PC Mark Vantage-testen gav totalscore på 4625. 
+Det er ikke noe å kimse av, men vi har testet maskiner til halve prisen som har hatt like gode resultater å vise til - men de har riktig nok vært større. 
+Merk uansett at til rent prosessorkrevende oppgaver, for eksempel komprimering av filer, videokonvertering, fleroppgavekjøring og lignende, så ligger denne PC-en helt i toppskiktet for hva som er mulig på bærbare maskiner i dag. 
+Også til detaljrike spillsesjoner har den godt med kraft å vise til. 
+
+Passmark-score på denne og noen andre aktuelle prosessorer: 
+
+Og grafikkytelsen: 
+
+Den høye ytelsen har imidlertid sine ulemper på denne PC-en, og det merkes først og fremst på batterilevetiden. 
+Litt over tre timer med liten belastning og i underkant av to timer ved videoavspilling er godt under hva vi hadde forventet. 
+Det eksterne batteriet vil selvfølgelig føre til en helt annen batterilevetid, men samtidig gi en langt mindre mobilvennlig PC. 
+
+Og hva er dette for slags melding, HP? 
+
+Det er første gang vi har sett en oppfordring om å velge en annen enn den medfølgende strømforsyningen for å oppnå maksimal ytelse, og vi kan ikke si vi liker det særlig godt. 
+Uansett tror vi ikke mangel på ytelse blir noe problem for den som kjøper denne PC-en. 
+
+Konklusjon 
+
+Hvis du synes høy ytelse, super lyd, lekker design og glimrende tastatur er viktigere enn å holde stramme budsjettrammer, er dette absolutt en PC du bør vurdere. 
+Den vekker oppsikt, den retter seg definitivt ikke mot hvermansen, og nærmest stråler eksklusivitet. 
+Og ikke glem at både øretelefoner og Adobe-programmene som følger med er verdt rundt 3000 kroner i seg selv. 
+
+Men går du litt bak skallet vil du finne PC-er som gir deg langt mer for pengene. 
+Dessuten skuffet batterilevetiden oss, og vi hadde egentlig også forventet litt mer stillegående kjøleløsning på en så dyr maskin. 
+Derfor havner til slutt på en sterk firer på terningen. 
+
+HP Envy 14 Beats selges kun i utvalgte butikker, i skrivende stund Expert Klingenberg, Siba Alnabru, Expert Sørlandsparken, Expert Åsane, Siba Forus Og Expert Forus, får vi opplyst fra HP. 

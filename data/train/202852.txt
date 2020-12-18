@@ -1,0 +1,123 @@
+Olympus E-PL1
+Lite. 
+Veldig lite. 
+
+Det skal bli spennende å se hvor systemkameraene tar veien i årene som kommer. 
+Både Panasonic og Olympus har lansert kameraer basert på Micro FourThirds-teknologien der speilet er fjernet, som resulterer i vesentlig mindre kamerahus (Panasonic Lumix 
+DMC-GF1 er foreløpig minst). 
+I tillegg har både Samsung og Sony annonsert at de vil følge opp med små systemkameraer i år, så får vi se om salget vil tvinge Canon og Nikon til å komme etter. 
+
+Det har unektelig noe for seg også, for det er langt mer behagelig å henge en PEN over skulderen eller dytte den ned i lomma på sekken enn det er med et speilreflekskamera med normale proporsjoner. 
+
+Vi har tidligere både lekt oss og testet det første PEN-kameraet, E-P1. 
+E-PL1 (altså dagens testmodell) er en noe enklere modell enn det første PEN-kameraet, som i etterkant også har fått en storebror i E-P2. 
+
+Lillebror til tross 
+- E-PL1 har i hvert fall fått blitsen vi savnet på E-P1. 
+Her er de tekniske spesifikasjonene: 
+
+Konstruksjon 
+
+Den lille størrelsen er åpenbart Olympus' sterkeste argument, og på tross av den kompakte utformingen, oppleves allikevel ikke kameraet som noe mindre greit å betjene enn de større kameraene i denne testen. 
+Grepet er riktignok lite, men siden PEN-kameraet holdes som et lommekamera går dette faktisk helt fint. 
+
+I forhold til E-P1 føles kameraet litt mindre robust, og plastfaktoren er noe høyere. 
+Dette reflekteres også av vekten, som er 20 gram mindre på tross av at volumet er 14% større. 
+
+Som nevnt innledningsvis har E-PL1 fått en innebygd blits, som aktiverer ved at du skyver på en bryter bak på kameraet. 
+Da spretter blitsen opp, noe den ikke gjør automatisk selv om kameraet står på automatikk. 
+Det synes vi for så vidt er helt greit, men Olympus kunne med fordel også ha brukt blitsen som hjelpelampe til autofokusen, noe vi kommer tilbake til i avsnittet om ytelse. 
+
+Skjermen er en 2,7" HyperCrystal LCD-skjerm, som har antirefleksivt belegg og som definitivt gir minst refleksjon av de fem kameraene. 
+Under testingen har vi vært mye utendørs i sterkt sollys kombinert med snø, og da har vi savnet større lysstyrke fra skjermen, for med tanke på innsynsvinkel er det ingen av kameraene som utmerker seg. 
+Olympus E-PL1 har tross alt ingen optisk søker, og under værforhold av denne typen opplevde vi at det var vanskeligere å komponere bildet enn når kameraet har optisk søker. 
+Det skal nevnes at Olympus også har en elektronisk søker som kan kobles på dette kameraet, men denne koster et par tusenlapper ekstra. 
+
+Knappeutvalget ellers er greit nok. 
+Det vi savner mest er et innstillingshjul slik at det går kjapt å endre blenderåpning, lukkertid o.l. (man må bruke piltaster), noe som finnes både på E-P1 og E-P2. 
+Kjekt er det imidlertid at kameraet har en dedikert knapp som starter filmopptak. 
+E-PL1 har også bildestabilisator på bildebrikken, som dog er oppgitt å være mindre effektiv enn de du finner på E-P1 og E-P2 (3 trinn vs 4). 
+
+Kit-objektivet fremstår som solid, og kan i tillegg gjøres ekstra kompakt når kameraet ikke brukes. 
+
+Brukervennlighet 
+
+Nødvendigvis gjør du alt på LCD-skjermen på Olympus-kameraet, og kameraet har derfor mer til felles med kompaktkameraene hva betjening angår. 
+I automodus er brukervennligheten satt i høysetet, og trykker du på OK-knappen (som viser menyen på høyre side i bildet), får du opp noen valg som forklarer konsepter som blenderåpning, lukkertid og eksponeringskompensasjon på en mer lettfattelig måte. 
+
+I tillegg kan E-PL1 vise direkte på LCD-skjermen hva som vil skje med bildet når du f.eks. vil overeksponere, bytte hvitbalanse eller endrer blenderåpningen. 
+Olympus har også valgt å bake inn noen fototips i kameraet, der du får noen tips relaterte til komponering, fotografering av barn etc. 
+
+Den mer avanserte brukeren, som vil stille hvitbalanse, ISO, blenderåpning etc. 
+må tilsynelatende trykke veldig mye for å endre på innstillingene, men Olympus' Super Control Panel gjør jobben vesentlig lettere. 
+Dog er det svært godt skjult - først må du inn i innstillinger-menyen for å aktivere den avanserte menyen, og deretter bla deg ett nivå ned i den avanserte menyen, bla til side 2, et nytt nivå ned, enda ett nivå ned og så sørge for at valget SCP er satt på i ønsket modus. 
+Da er kontrollpanelet tilgjengelig ved å trykke OK og deretter info, og det er over vår fatteevne at ikke dette er aktivert som standard, siden det gjør kameraet langt bedre å bruke. 
+
+Menyene er strukturerte i vertikale faner, men den avanserte menyen må som sagt aktiveres før den blir synlig, noe vi finner litt snodig; spesielt i P/S/A/M-modiene. 
+Det brukes svært mange uvante forkortelser i menyene (spesielt i norsk språkdrakt), og vi savner derfor en innebygd hjelpefunksjon slik Nikon D3000 har. 
+
+Olympus skal ha ros for en svært lettvint måte å sette manuell hvitbalanse på. 
+Legger du denne på den programmerbare funksjonsknappen, kan du bare holde den inne, ta bilde av en fargenøytral flate (hvit/grå) og dermed få satt hvitbalansen. 
+Knappen kan for øvrig programmeres til andre ting som eksponeringslås, aktivere RAW, my mode (der du kan lage et oppsett med dine innstillinger), manuell fokus m.fl., men ikke sette ISO-verdi, for eksempel. 
+
+Funksjoner 
+
+Det er veldig mye å stille på i menyene på Olympus PEN E-PL1, og skal du få fullt utbytte av kameraet må du nok bruke noen timer på å lese manualen. 
+Den avanserte menyen har ikke mindre enn 10 underfaner (det er ikke en gang plass til underfanene på én side), og de har til sammen 60 valg. 
+
+Verdt å sette pris på at de seks innebygde kunstfilterne, som man kan ha det mye moro med. 
+Eksempler er kornet film (gir en litt røff sort/hvitt-fremstilling av bildet), diorama (miniatyreffekt), popkunst (fargementing deluxe) og nøkkelhull, som lager overdreven vignettering i bildene. 
+Tar du bilder i RAW+JPEG vil RAW-bildet beholdes urørt, mens JPEG-bildet kan påføres kunsteffekten. 
+Filterne kan også brukes når du filmer, men bildeoppfriskningsraten senkes dramatisk på enkelte av filterne (2-3 pr sekund). 
+
+Som nevnt kan du forhåndsvise endringer i hvitbalanse, ekponeringskompensasjon, endring av blenderåpning etc. direkte på skjermen før du tar bildet, og det er også mulig å få et 14x forstørret bilde som assistanse når du fokuserer manuelt. 
+Ved avspilling kan du vise 100 bilder på skjermen samtidig og vise en kalender for kjapt å bla til dagen du ønsker å se bilder fra. 
+
+For mer avanserte brukere kan bracketing gjøres både med tanke på eksponering, hvitbalanse, ISO og med blits. 
+E-PL1 kan også styre eksterne blitser trådløst 
+
+Olympus PEN E-PL1 har også mulighet for HD-videoopptak, 720p der du også kan stille eksponeringen mens du filmer. 
+Autofokusen fungerer også mens du filmer, men bråker slik at det høres godt på filmen. 
+
+Ytelse 
+
+Når det gjelder fokusytelse er E-PL1 noe tregere enn de andre kameraene i denne testen og bruker brått et halvsekund på fokusering og enda litt mer i dårlig lys. 
+Den konstrastbaserte fokusen er også mer kresen på, nettopp, kontrast, og i svak belysning sliter kameraet noen ganger med å feste fokus på gjenstander med små fargevariasjoner i forhold til omgivelsene, eller hvis ting er i bevegelse. 
+
+E-PL1 har også den svakeste batterilevetiden i denne gruppen, som er forståelig siden all bildekomponering skjer på en LCD-skjerm i stedet for i en optisk søker. 
+Den er oppgitt til 290 bilder etter CIPA-standarden. 
+
+Oppstartstiden er på snaue halvannet sekund, altså tregest, men neppe noe irritasjonsmoment. 
+På 10-sekunderstesten vår klokker E-PL1 inn 22 bilder. 
+Hastigheten holder seg på rundt 3 i sekundet de første 14-15 bildene (testet med Sandisk Extreme III-minnekort), for deretter å avta. 
+
+Bildekvalitet 
+
+På tross av at Olympus-kameraet har en noe mindre bildebrikke enn de andre, presterer E-PL1 godt i de fotografiske testene. 
+Spesielt vil vi trekke frem det gode kit-objektivet som følger med i pakken, som har god skarphet; også ut mot kantene der flere av de andre kameraene viser uskarphet. 
+
+Støyen på høye ISO-verdier er synlig, men Olympus bevarer til gjengjeld mye av detaljene i bildet og fremstår som det nest beste kameraet med tanke på bilder tatt med høy følsomhet, etter Pentax, som virkelig har fått dreisen på dette aspektet. 
+
+Med tanke på dynamikk har den lille brikken litt mer problemer, der kameraet mister detaljer både i skyggepartiene og i de lyse partiene. 
+PEN E-PL1 har en tendens til å undereksponere bildene noe, som for så vidt i de fleste tilfeller er bedre enn det motsatte, men som også kan bli uheldig, som du ser på bildet til høyre. 
+
+Den automatiske hvitbalansen gir også et markant gulstikk i glødelampelys (som du sikkert har hjemme i stua), så her anbefales det å justere hvitbalansen til lysforholdene. 
+
+Videokvalitet 
+
+Olympus PEN E-PL1 er ett av to kameraer i denne testen som kan foreta videoopptak (Pentax K-x er det andre), og dette skjer med 720p HD-oppløsning med 30 bilder pr sekund. 
+
+Det er ingen tvil om at bildekvaliteten fra PEN E-PL1 har færre detaljer enn hva tilfellet er for Pentax-kameraet, men til gjengjeld kan du bruke autofokusen mens du filmer. 
+Denne gir dog noe sjenerende støy i opptaket. 
+
+Bitraten på videoopptakene ligger på drøye 4MB/s. 
+Under kan du se en eksempelvideo av video tatt med kameraet: 
+
+Konklusjon 
+
+Det er vanskelig å anmelde kameraer basert på Micro FourThirds-standarden uten å være en smule subjektive - størrelsesaspektet er nemlig såpass relevant her at det nødvendigvis må telle med i totalkarakteren. 
+PEN-kameraet er bittelite sammenlignet med de andre, men har allikevel meget god bildekvalitet som du ikke vil være i nærheten av å oppnå med et kompaktkamera, og nettopp det er noe av det vi setter mest pris på ved denne kameraserien fra Olympus. 
+
+På tross av den lille størrelsen, fremstår PEN E-PL1 som ett av de to mest avanserte kameraene i denne gruppen, med finesser som styring av trådløs blits, et hav av innstillinger og funksjoner og også funksjonalitet myntet på nybegynneren. 
+
+Vi skulle helst ha sett at autofokusen var noe raskere, og i sterkt sollys savner vi den optiske søkeren, men det er ingen tvil om at Olympus PEN E-PL1 er et meget godt og lite kamera, og vi gir derfor også "anbefalt produkt"-utmerkelsen til Olympus i denne runden. 

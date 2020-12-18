@@ -1,0 +1,83 @@
+Macbook Pro 15" core i7
+Vi har testet den siste versjonen av Macbook Pro. 
+
+Mange har ventet på de nye modellene av MacBook Pro, først og fremst på grunn av de nye prosessorene som alle visste måtte komme. 
+Vi har sett på stasjonære og på bærbare PC-er at spranget i ytelse fra forrige prosessorgenerasjon med Core 2 Duo til dagens Core i5 og Core i7 har vært påtagelig. 
+
+Mange har også ventet spent på hva annet de nye modellene hadde å by på, siden forrige modellskifte ga bedre batteritid, men ellers ingen store endringer. 
+
+Nå er de nye modellene kommet og man kan juble eller ikke, avhengig av behov, håp og forventninger. 
+
+Akkurat som før 
+
+Utseende og design er det samme som tidligere, chassiset er frest ut av aluminium og er både solid og elegant. 
+Men vi liker fremdeles ikke de skarpe kantene, spesielt kantene der du setter fingeren for å åpne maskinen er for skarpe til å være behagelige. 
+En runde med fint smergelpapir og pusskloss hadde gjort susen... 
+
+Ellers er maskinene velsignet fri for klistremerker og annet fjas, designet er estetisk i særklasse (- mens vi venter på Sonys Vaio-modeller). 
+
+Vårt testeksemplar var utstyrt med standard blank skjerm og 1440 x 900 oppløsning. 
+Undertegnede har overhodet ingen sans for blanke skjermer, men vi har muligheten til å velge en alternativ matt skjerm med 1680 x 1050 oppløsning. 
+Det koster 1 275 kroner ekstra. 
+Du kan også få samme oppløsning og blank skjermflate til 850 kroner ekstra. 
+
+Standard minne er 4 GB DDR3, du kan velge å få den levert med 8 GB, men det setter deg tilbake hele 3 400 kroner hos Apple. 
+
+I stedet for standard harddisk på 500GB og 5400 RPM kan du få levert 7200 RPM-utgaven for 425 kroner ekstra, men skal du ha 512 GB SSD må du ut med hele 11 050 kroner. 
+Da er 128 GB SSD til 1 700 kroner langt mer fristende. 
+
+Tilkoblingene har heller ikke endret seg, det er fremdeles bare FireWire 800, 2 x USB og SD-kort på 13 og 15-tommerne, mens 17-tommeren har ExpressCard i stedet for SD-kortleser og er utstyrt med 3 USB-porter. 
+
+Skal du koble MacBook Pro til ekstern skjerm må du kjøpe en overgang. 
+Det finnes tre varianter: for VGA, DVI og DualLink DVI for ekstra høyoppløselige skjermer (eller to skjermer med splitter). 
+Prisene ligger på 249 kroner for VGA eller DVI, mens DualLink DVI kommer på 799 kroner. 
+Det finnes rimeligere alternativer andre steder... 
+
+Det som er nytt 
+
+Det er i maskinens indre at de store forandringene har skjedd. 
+Nå er det Core i5 eller Core i7 som gjelder, bortsett fra minstemann på 13 tommer som fremdeles må klare seg med Core 2 Duo. 
+
+15-tommeren kommer i tre alternative grunnmodeller, med 2,4 GHz eller 2,53 GHz Core i5 eller 2,66 GHz Core i7. 
+
+Disse prosessorene er mobil-variantene i Core-serien, og er derfor ikke direkte sammenlignbare med de vi finner i stasjonære PC-er. 
+
+Vårt testeksemplar har 620M-varianten, som har 2 kjerner, Hyperthreading, TurboBoost opp til 3,33 GHz og 4 MB hurtigminne. 
+En typisk rimelig utgave av Core i7 på 1156 sokkel for stasjonære PC-er har 4 kjerner og 8 MB hurtigminne. 
+
+Likevel er arkitekturen i Core i-modellene mer effektiv, så ytelsen sammenlignet med forrige generasjon er opptil 1,5 ganger høyere. 
+
+Grafikken er også ny, som i forrige generasjon er det to grafikkløsninger, den ene nå integrert i prosessoren, og en separat, vesentlig kraftigere utgave NVIDIA GT 330M. 
+Vekslingen mellom disse skjer nå helt automatisk etter hva programmene du kjører krever. 
+Det er ikke lenger noen brukerkontroll av vekslingen. 
+
+I bruk 
+
+Alle versjonene av MacBook Pro, og forløperne i PowerBook-serien, har gitt en brukeropplevelse som få om noen andre bærbare har vært i stand til å matche. 
+Metalldesignet, det enkle og funksjonelle designet og ikke minst ytelsen har fått de krevende og/eller velbeslåtte Mac-entusiastene til å bla opp. 
+
+Det største spranget i ytelse kom da Apple gikk over til Intel prosessorer i 2006, da ble maskinene opptil 3 ganger raskere på en del oppgaver, spesielt rendring av 3D. 
+
+Vi kan ikke glede oss over en like dramatisk økning denne gangen, men den er likevel påtagelig. 
+Sammenligner man utviklingen siden 2006 er det først nå at det virkelig har skjedd noe med ytelsen, i følge tester med Geekbench: 
+
+Spanderer du 1700 kroner på en SSD i tillegg får du et råskinn av en maskin. 
+
+Pekeplaten er gedigen og støtter multi-touch. 
+Når man har lært seg gestene og vent seg til at hele platen er en "knapp" er den svært effektiv og presis, men en mus er likevel bedre. 
+
+Tastaturet er fremdeles utmerket, og baklyset er strålende, bokstavelig talt. 
+
+Vårt eksemplar var meget støysvak, og ble heller ikke varm, bare så vidt lunken. 
+
+Batteritiden varer typisk til allsidig bruk fra man kommer hjem ved femtiden og til halv tolv seint på kvelden, eller nesten en hel arbeidsdag - det kommer helt an på hva man bruker maskinen til. 
+Apple oppgir opptil 8-9 timer, men da er det ikke snakk om spesielt aktiv bruk. 
+
+Skal vi kritisere noe må det være at maskinen er i tyngste laget, den har noen skummelt skarpe kanter, skjermen er alt for blank og den mangler både USB 3.0 eSATA og ExpressCard. 
+
+Skal du ha den skikkelig proff, i den betydningen at du kan bruke maskinen sammen med annet proft utstyr med topp ytelse, er det 17-tommeren som gjelder. 
+
+Konklusjon 
+
+Standard 15-tommer MacBook Pro er kraftig og elegant, men fremdeles mer en luksusmodell enn en proffmodell, etter våre definisjoner. 
+Men behovene for forskjellige profesjoner varierer, som diskusjonen etter vår forrige omtale tydelig viste. 

@@ -1,0 +1,131 @@
+Acer Aspire V15 Nitro
+Den er slank og lett, men byr på meget høy ytelse. 
+Dette blir nok en favoritt blant mange gamere som liker å være på farten! 
+
+Vi har ikke for vane å teste særlig mange gaming PC-er her på DinSide, men noen ganger gjør vi unntak - for eksempel når det dukker opp spennende modeller som den sylferske V15 Nitro fra Acer. 
+
+Uvanlig tynn og lett 
+
+Denne fine og slanke PC-en veier nemlig kun 2,4 kg, men på innsiden skjuler det seg utstyr som bør tilfredsstille både spillentusiaster og andre grupper som setter store krav til prosessor- og grafikkytelsen. 
+
+Før vi går videre tar vi en kjapp titt på de viktigste tekniske egenskapene ved vårt testeksemplar: 
+
+Skjerm: 15,6" full HD 1920 x 1080 piksler, IPS, matt overflate (ikke berøring) Prosessor: 
+Firekjerners Intel Core i7 4710HQ (2,5->3,5 GHz) RAM: 
+16 GB (som også er maks) Grafikkort: 
+Nvidia GeForce GTX 860M Lagring: 256 GB SSD + 1 TB HDD (5400 rpm) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 3 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+802.11n med MIMO Kablet nett: 
+Gigabit LAN Annet: 
+Baklyst tastatur, 3 cellers batteri OS: 
+Windows 8.1 64bits Størrelse: 38,96 x 25,75 x 2,39 cm Vekt: 
+2,4 kg Pris: 
+Fra kr 11 995,- (Komplett.no 1/10-2014) 
+
+Vi kan bare slå fast med én gang at vi sjelden ser slike spesifikasjoner på PC-er med denne tykkelsen og vekt. 
+Noe av utfordringene med kraftige PC-er er jo varmeutviklingen, og det stilles store krav til designen i et minimalistisk kabinett for å lede varmen bort fra kabinettet på en effektiv måte, uten at støyen ligger på nivå med et Cesna småfly. 
+
+Effektiv kjøling 
+
+På denne PC-en har Acer løst det ved hjelp av to relativt store vifter som suger luft opp fra undersiden og blåser den ut i bakkant. 
+Store vifter betyr evne til å flytte mye luft uten for høy rotasjon, noe som gjør at PC-en under normal bruk ikke oppleves som støyende. 
+Viftene er imidlertid godt hørbare når du spiller tunge titler som Arma II, men med litt volum på de gode innebygde høyttalerne vil den være langt mindre merkbar. 
+
+For høyttalerne imponerer oss. 
+Det er fire av dem i tallet, plassert i hvert sitt hjørne på undersiden. 
+Både bass, mellomtone og diskant er velbalansert, og musikken får en fin dybde. 
+Samtidig buldrer det faktisk bra ting går i lufta i actionscener i spill og filmer. 
+
+På utsiden 
+
+La oss se litt nærmere på eksteriøret før vi går videre på brukeropplevelsen. 
+Kabinettet er i plast, overflaten har vertikale striper, og gledelig nok vises ikke fingeravtrykk overhodet. 
+I bakkant er det detaljer i speilblank sølvlakk, som er med på gi maskinen et stilig preg. 
+
+Alle tilkoblingene sitter på høyre side, SD-kortleseren sitter i front. 
+
+Skjerm uten særlig refleksjon 
+
+Skjermen er av typen IPS som normalt sett gir meget god innsynsvinkel, og oppløsningen er full HD (1920 x 1080 piksler). 
+Overflaten er matt, noe som er gunstig med tanke på gjenskinn. 
+Den betraktes utvilsomt best rett forfra, kontrasten avtar litt fra sidene - noe et blankt kontrastbelegg sikkert hadde fikset bedre. 
+Men alt i alt en fin skjerm med god lysstyrke. 
+
+Tastaturet er romslig og behagelig å skrive på, og det er baklyst med et rødt lys - helt i tråd med ambisjonene om å fremstå som et valg for gamere. 
+Til høyre har den også et numerisk tastatur. 
+
+Under tastaturet sitter en stor og fin multiberøringsfølsom pekeplate, som av en eller annen grunn på vårt testeksemplar hadde en tendens til å oppføre seg merkelig etter at maskinen var vekket fra dvale. 
+Dette er med all sannsynlighet et driverproblem som kommer til å bli fikset med en oppdatering - men likevel noe som er verdt å bemerke. 
+
+Utover det er vårt største ankepunkt at klikkelyden den avgir ved trykk er litt i høyeste laget for vår smak. 
+
+RIP optisk drev 
+
+Enkelte vil kanskje bemerke at en PC myntet på gaming bør komme med optisk drev, men faktum er at så og si alle aktuelle nye spilltitler kan kjøpes og lastes ned fra spillsamfunn som Steam og Origin. 
+Har du eldre spilltitler på plate kan du alltids benytte et eksternt drev tilkoblet USB-porten. 
+
+Raskere enn toget 
+
+Maskinen reagerer naturligvis lynkjapt på alle kommandoer, og fleroppgavekjøring er alltid problemfritt med kraftig prosessor, 16 GB RAM og meget rask SSD. 
+
+Som nevnt innledningsvis er PC-en generelt temmelig støysvak. 
+Ved lett bruk er den stille lange perioder, det eneste du hører er en lav susing fra harddisken. 
+Merk at operativsystemet ligger på SSD-en, harddisken er for brukerfiler, backup og store spillinstallasjoner. 
+
+Vi må også berømme MIMO-løsningen til det trådløse nettverkskortet, som sørger for høy og stabil nettverkshastighet. 
+Vi hadde for eksempel ingen problemer med å makse ut vår internettlinje på 100 Mbps mellom to etasjer: 
+
+Det eneste vi savner er støtte for den nye AC-standarden, men det er ikke noe stort ankepunkt. 
+
+Passmark PerformanceTest 8.0 ble brukt til inngående ytelstester, for å gi deg en pekepinn på hva du kan forvente. 
+Her er noen av de viktigste tallene, krydret med våre kommentarer: 
+
+Prosessor: 
+8951 poeng 
+Dette er en av markedets raskeste prosessorer for bærbare PC-er, og byr på svært høy applikasjonsytelse i nær sagt alle sammenhenger - og det vil den gjøre i overskuelig framtid, også etter lanseringen av Windows 10. 
+
+Grafikk: 3385 poeng 
+Dette grafikkortet ligger i øvre skikt blant løsniger for bærbare PC-er, og kan definitivt brukes til helt nye, krevende spilltitler. 
+De aller fleste spill vil flyte fint i full HD med høyeste detaljnivå. 
+Enkelte av de mest krevende titlene vil imidlertid trives best med normale innstillinger, da er du sikret mot alle tilløp til hakking. 
+På Arma III fikk vi 60 fps i full HD med normalinnstillinger, noe som gir god spillbarhet. 
+Se vår lille demovideo her: 
+
+SSD: 
+Les: 467 MB pr sekund Skriv: 461 MB pr sekund 
+Dette er fine tall, de færreste SSD-løsninger i bærbare klarer mer enn 500 MB pr sekund. 
+I praksis vil ikke dette oppleves som noen flaskehals overhodet, hva angår hastighet. 
+Harddisken er derimot langt tregere (rundt 100 MB pr sekund), men pr i dag er denne todelte løsningen et meget bra kompromiss. 
+Og så er det greit å vite at du kan bytte ut harddisken senere med en SSD, uten at det påvirker operativsystemene og programmene som du har installert på C:. 
+
+Batteritid: 
+4-5 timer Som vanlig testet vi batteritiden i to omganger, én med minimal belastning, kun tilkoblet det trådløse nettet, og én gang med videavspilling. 
+
+Uten belastning holdt batteriet ut i 382 minutter før maskinen slo seg av. 
+Det er 6 timer og 22 minutter. 
+Ved kontinuerlig videoavspilling var tallet 212 minutter, altså 3 timer og 32 minutter. 
+Det betyr at batteritiden normalt vil ligge mellom fire og fem timer ved normalt, variert bruk. 
+Det er ikke noe supertall i 2014, men det er heller ikke ofte at maskiner myntet på gaming byr på noe særlig bedre. 
+Et større batteri ville samtidig gjort PC-en både tykkere og tyngre, vi synes Acer har funnet en god balanse. 
+
+Konklusjon 
+
+Vi er smått imponert over hvordan Acer mede V15 Nitro har skapt en PC som tilfredsstiller et svært bredt spekter av brukere. 
+I så måte er den blant de beste vi har lagt våre klamme hender på de siste årene. 
+
+12 000 kroner er uansett mye for en PC i 2014, og det er kanskje vårt største ankepunkt. 
+Vi vil spesielt trekke fram aggresivt prisede Lenovo Y50-70, som er meget likt konfigurert, med unntak av harddisken. 
+Den får du for 3000 kr mindre i skrivende stund. 
+
+Men ønsker du en enda litt slankere gaming-PC som i tillegg har 1000 GB ekstra innabords, meget god lyd og svært god WiFi-hastighet, er dette definitivt en PC du bør vurdere. 
+Den kan absolutt anbefales. 
+
+Merk også at maskinen kommer i en utgave med 8 GB RAM og 128 GB SSD til rett under 10 000 kr. 
+
+Alle plussene og de små ankepunktene våre er oppsummert i boksen under. 
+
+Acer Aspire V Nitro VN7-591G Black Edition (NX.MQLED.006) 

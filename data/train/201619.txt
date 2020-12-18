@@ -1,0 +1,144 @@
+Fujifilm FinePix F200EXR
+Med den nye superbrikken tar F200EXR knallbra bilder, men ikke helt uten videre. 
+
+F-serien til Fujifilm har lenge vært populær, og det har spesielt vært de eldre kameraene F30 og F31fd som blant kompaktkameraene har vært anerkjent for å ta de beste bildene. 
+
+Faktisk har begge disse modellene vært til salgs på eBay lenge etter at produksjonen stoppet; til en pris høyere enn de opprinnelig kostet. 
+
+Deretter kom F40fd, som vi også var veldig fornøyde med, men så fikk serien en liten knekk i F50fd, der antall megapiksler var doblet og resultatene ikke lenger like gode som før. 
+Vi var mer begeistret for F100fd da vi testet det mot tre andre kameraer i fjor, og nå er den nye toppmodellen her  F200EXR, med splitter ny bildebrikke. 
+
+Redusert oppløsning gir gevinst 
+
+Den nye SuperCCD EXR-brikken, som vi tittet på da vi besøkte Photokina i høst, er en liten revolusjon i seg selv. 
+Du kan nemlig selv velge hvordan du ønsker å bruke brikken - enten ved å ta 12Mp-bilder i full oppløsning, eller redusere oppløsningen til 6Mp. 
+Velger du å knipse med halve oppløsningen kan du velge én av følgende godbiter: 
+
+Mindre støy 
+- Her fanges bildet slik at nabopiksler sammenlignes med hverandre. 
+Dermed får du mindre avvik mellom pikslene i det ferdige bildet, og dermed mindre støy i bildene. 
+Dette er spesielt praktisk i situasjoner med lite lys, der du må øke ISO-verdien for å få et skarpt bilde. 
+
+Større dynamisk omfang 
+- Kanskje enda mer spennende er denne modusen, der halvparten av sensorene eksponeres litt lengre enn de andre, og dermed fanger kameraet flere detaljer i de lyse og mørke delene. 
+
+Kjappa fakta 
+
+12Mp SuperCCD EXR-sensor, 1/1,6"5x zoom, tilsvarende 28-140mm f/3,3-5,13" LCD, 230.000 punkterMaks ISO: 3200 (12800 med redusert oppløsning)Blenderprioritet og manuell eksponeringVideoopptak i 640x480 med 30 bilder pr sekund15 scenemodi 
+
+Blant de tyngre 
+
+F200EXR er et kamera som er litt tyngre enn det typiske lommekameraet og bikker så vidt 200 gram med batteri og minnekort. 
+Kamerahuset er bygget i aluminium og gir et godt førsteinntrykk. 
+
+På toppen av kameraet ligger av og på-knappen, utløserknappen, samt en zoombryter som er plassert slik at den nås med høyre pekefinger. 
+Utløserknappen gir presis feedback når du trykker, med tydelig tilbakemelding når du trykker knappen halvveis ned. 
+
+På baksiden dominerer den tre tommer store skjermen, men vi synes det er litt rart at Fujifilm ikke har laget piltastene litt større, når det er god plass mellom skjerm og knapper. 
+Funksjonshjulet øverst lar deg bytte mellom ulike opptaksmodi, men kunne godt hatt litt mer motstand i våre øyne - i testperioden hendte det ved flere anledninger at vi fikk rotert hjulet et hakk uten å gjøre det med vilje. 
+
+Fujifilm er blant de produsentene som har en dedikert knapp til bildevisning på kameraet, og et lett trykk på utløserknappen tar kameraet tilbake i opptaksmodus, noe vi liker, siden man da slipper å skyve på en bryter for å komme tilbake til opptaksmodus. 
+
+8 funksjonsvalg 
+
+EXR 
+- En automatisk modus som lar deg velge mellom høy oppløsning, lavere støy eller høyere dynamisk omfang, i tillegg til en EXR auto-modus som velger dette for deg. 
+Du kan ikke styre ISO-verdien i denne modusen.Auto - "Vanlig" automodus - i praksis EXR med høy oppløsning. 
+Her kan du også velge Auto(400), Auto(800), Auto(1600) og Auto(3200) med høyeste mulige ISO-verdi i parentes.P - lar deg bestemme blenderen, og du kan i tillegg velge nøyaktig ISO-verdi (1EV-trinn) i tillegg til forrige punkts automodier. 
+Det er også mulig å velge ISO 6400 og ISO 12800 med redusert oppløsning.M - manuell eksponering der du styrer ISO, blenderåpning og lukkertid manueltVideoopptak 
+- Du kan velge mellom oppløsningene 640x480 eller 320x240. 
+Lengden på videoopptaket bestemmes av ledig minnekortplass.SP - Scenemodus. 
+Velg blant 15 ulike scenetyper, der du for enkelte også kan velge lukkertid, f.eks. i fyrverkerimodus. 
+En egen portrettfunksjon gjør også at hudtoner glattes ut.N 
+- Naturlig lys. 
+Hindrer bruk av blits, men bruker ekstra høy ISO-verdi.Nf - Tar to kjappe bilder på rappen; ett med og ett uten blits 
+
+Vi hadde helst sett at EXR-autofunksjonen også hadde latt deg sette maksimal ISO, for Fujifilm har som vanlig laget et kamera som er veldig glad i å velge høye ISO-verdier når du bruker automatikken, og selv enkelte bilder utendørs på en solfylt dag ble tatt med ISO 400, som er helt unødvendig i våre øyne. 
+
+Du kan riktignok øke det dynamiske omfanget i P-modus, men du er da nødt til først å sette ned oppløsningen manuelt, og du får ikke den samme økningen som du får i EXR-modus. 
+Hvis du ikke har satt ned oppløsningen på forhånd er menyvalget for økt dynamisk omfang grået ut, uten noe beskjed om hva du må gjøre for å aktivere den, som i våre øyne er lite brukervennlig. 
+
+På bunnen finnes det knapper for ulik visningsinformasjon og regulering av ansiktsgjenkjenning. 
+Den siste knappen kan også brukes når du ser på bilder for å zoome inn på alle ansikter som ble funnet i bildet da du tok det. 
+
+Bak en luke på høyre side av kameraet finnes det også et proprietært uttak for tilkobling til TV og USB. 
+Det hadde selvsagt vært å foretrekke om kameraet hadde hatt en standardisert USB-utgang slik at du slipper å ha med deg Fujifilms kabel dersom du skal overføre bilder, men siden kortlesere nærmest er standardutstyr på nye PC-er vil ikke dette være et veldig stort problem for de fleste. 
+
+Vi må også nevne at vi faktisk måtte gi opp å feste stroppen i kameraet - en helt merkelig innretning (se bildet) gav oss flashback til å tre tråd i trange synåler fra tekstiltimen. 
+I tillegg er den lille plastbiten som holder batteriet på plass til liten hjelp - batteriet sitter løst og trenger bare et lite dytt for å falle ut. 
+Heldigvis er selve lokket mer solid, og åpnet seg ikke under vår "oops"-testing. 
+
+Noe inkonsistens 
+
+Det finnes også to knapper for å gjøre innstillinger; F-knappen, som lar deg styre ISO, hvitbalanse, bildestørrelse etc., og meny-knappen der du foruten å endre oppsettet i selve kameraet også må inn for å aktivere seriefotografering, bytte mellom de ulike EXR-modiene etc. 
+Som vi har påpekt i tidligere Fujifilm-omtaler, synes vi grupperingen av disse er noe tilfeldig og at F-knappen i så fall burde inneholde alle menyvalg knyttet til eksponeringen; derunder også seriefoto og bytting av EXR-modier. 
+
+Brukervennligheten ellers er grei, og vi liker spesielt at kameraet byr på litt infotekst her og der, for eksempel når du bytter mellom ulike blitsmodi eller mellom ulike scener. 
+Noe vi imidlertid brenner oss på hver gang vi tester et Fujifilm-kamera, er at knappen merket Meny/OK bare halvveis fungerer som en OK-knapp. 
+I menyene er det som regel høyre piltast som brukes for å ekspandere et menyelement, men OK-knappen bekrefter valget og hopper ut av menyen - skal du gjøre flere innstillinger må du bruke venstre pil. 
+Andre steder, som for eksempel ved scenevalg, er det imidlertid OK-knappen som brukes for å bekrefte. 
+
+Igjen - inkonsistens som i våre øyne senker brukervennligheten og kan skape litt småirritasjon. 
+
+Ytelse 
+
+Ytelsesmessig får vi litt blandede resultater med F200EXR. 
+For å ta det positive først, er autofokusen meget rask; også i dårlig lys takket være hjelpelampen. 
+Seriefoto går ikke så raskt - med kontinuerlig opptak klokket vi inn 9 bilder på 10 sekunder (riktignok veldig nærme 10), som er en god del tregere enn de beste på markedet i dag. 
+
+Dersom du er villig til å ta bilder med ISO 400 og 3Mp oppløsning, kan du imidlertid glede deg over superfart på seriefotograferingen. 
+Du velger på forhånd om du vil beholde de 12 siste eller 12 "beste" bildene (sannsynligvis de 12 største bildefilene), og så skyter kameraet 5 bilder pr sekund helt til du slipper utløserknappen. 
+Perfekt når du skal ta bilder av barna på hoppkanten, for eksempel. 
+I tillegg går det veldig raskt å bla i bilder - holder du piltasten inne, blar kameraet rundt 8 bilder i sekundet, som er svært raskt. 
+
+Ikke fullt så bra er oppstartsiden, der F200EXR bruker to og et halvt sekund på å være klar til dyst. 
+I tillegg er den generelle ytelsen noe under middels, med nesten 3 sekunder mellom to blitsbilder og en sletterutine som, i likhet med tidligere kameraer, er unødvendig treg. 
+Batterilevetiden er også kun på 230 bilder som er under gjennomsnittet i dagens marked; langt under halvparten av de 580 bildene F30 kunne by på i sin tid. 
+
+Bildekvalitet 
+
+Med ett ord: Wow. 
+
+Jeg tror vi kan si at dette er de beste testbildene vi har sett av et kompaktkamera noen gang, vel å merke dersom du bruker kameraet med redusert oppløsning. 
+På 12 megapiksler virker det som om forskjellene til F100fd er ganske små, men vær klar over at 6 megapiksler holder i lange baner til utskrifter i A3-størrelse. 
+
+Spesielt er det innstillingen for økt dynamisk omfang som imponerer. 
+Med denne modusen aktivert, er kameraet i stand til å gjengi scener på en måte der andre kompaktkameraer kommer til kort, noe du kan se eksempel på under der detaljer er beholdt både i himmelen og i de mørke partiene: 
+
+Vi gir deg også et eksempel der vi har tatt bilde av Oslo Plaza med henholdsvis full oppløsning og økt dynamisk omfang. 
+En krympet versjon av det store bildet vises til venstre, samt tre utsnitt til høyre. 
+Legg merke til hvordan det mangler detaljer i de lyse partiene i det første bildet, mens de er på plass i det siste, selv om det ikke mangler noe i det mørke partiet i forhold til det første bildet (henger du med?): 
+
+6Mp, EXR dynamic range: 
+
+I følgende montasje har vi har tatt bilder på ISO 400, 800 og 1600, både med full oppløsning og EXR-modus for prioritering av lavere støy. 
+I tillegg har vi nedskalert bildene tatt med full oppløsning for å undersøke om EXR-modusen har noe for seg. 
+
+Som du ser, gjør F200EXR det langt bedre på støy når du velger nevnte EXR-modus. 
+Detaljgjengivelsen er bedre på høye ISO-verdier enn om du skalerer ned det store bildet, og støyen mindre fremtredende. 
+
+På vidvinkel ser vi en moderat tønneforvrengning, og også kromatisk feilbrytning er synlig i kantene uten å være fremtredende. 
+Lysmålingen i F200EXR er veldig god, men vi opplever småfeil i hvitbalansen her og der uten at det er veldig markant. 
+
+Se bilder tatt med kameraet: 
+
+For pikselavhengige ligger alle bildene i denne zipfila. 
+
+Konklusjon, Fujifilm FinePix F200EXR 
+
+Vi har ikke sett bedre bilder fra et lommekamera. 
+
+Det burde selvsagt være et killer-argument det lyste en sekser av, men det må legges til at ikke alle bilder blir fantastiske om du har alt på auto og knipser i vei. 
+For  i likhet med andre kameraer fra Fujifilm, synes vi automatikken i mange situasjoner tyr til unødvendig høye ISO-verdier. 
+Dermed kreves det en viss kunnskap for å få det beste ut av dette kameraet. 
+
+Den delen av kamerakjøperne som besitter denne kunnskapen vil savne enkelte ting. 
+Det er for eksempel ikke mulig å ta bilder med lukkerprioritet, og du kan ikke velge ISO manuelt om du vil bruke modusen vi ble mest imponert av, der det dynamiske omfanget økes mot lavere oppløsning på bildene. 
+I tillegg mangler kameraet mer avanserte ting som manuell fokusering og støtte for RAW-format, som for eksempel Panasonic Lumix 
+DMC-LX3 kan by på, og som også kan friste med vidvinkel tilsvarende 24mm. 
+
+I tillegg finnes det flere småting å trekke for - batterilevetiden er beskjeden med 230 bilder pr ladning, seriefotografering og oppstart er tregt, og vi har også enkelte innsigelser både på brukeropplevelse og konstruksjon. 
+Vi savner også muligheten til å filme med HD-oppløsning, noe flere av konkurrentene tilbyr på tilsvarende modeller i dag. 
+
+Men som sagt - er dette småplukk du ikke bryr deg om, er det bare å kjøpe Fujifilm FinePix F200EXR. 
+Bedre bilder får du neppe fra et lommekamera pr i dag. 

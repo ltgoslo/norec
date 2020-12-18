@@ -1,0 +1,46 @@
+Windows Movie Maker (Vista)
+Det er gratis og kommer ferdig installert, men er det noen vits i å bruke? 
+
+Microsoft har fått både kjeft og bøter for å inkludere programmer i Windows, og dermed ødelegge for programutviklere som forsøker å selge programmer. 
+Når det gjelder videoredigering har det ikke vært de store slagsmålene, skyldes det at Microsoft har lagt lista så lavt at Windows Movie Maker ikke framstår som noen konkurrent? 
+
+LES OGSÅ: 
+
+Det er nesten fristende å nikke bekreftende til dette, uten dermed å stemple programmet som ubrukelig. 
+
+Windows Movie Maker (WMM) slik det følger med i Windows Vista fungerer utmerket som en ABC i videoredigering. 
+Det presenterer en fersk videobruker for de grunnleggende konseptene, lærer ham begrepene og er en oversiktlig lekeplass hvor man kan gjøre seg erfaringer uten at de blir dyrekjøpt. 
+
+Muligheter og begrensningner 
+
+Dagens versjon av WMM lar deg hente video fra DV-kameraer eller andre digitale enheter. 
+Støtten for analoge kilder har blitt fjernet, så du må bruke andre hjelpeprogrammer for å hente video fra analoge videokameraer, webkamera osv. 
+Filene fra disse kan du så importere inn i WMM og redigere videre. 
+
+De nyeste videokameraene kan ta opp i HD, enten på DV-kassett eller på harddisk i AVCHD-format. 
+Ingen av disse formatene håndteres av WMM, verken rett fra kameraet eller import av filer. 
+
+Det finnes en omvei, det er å konvertere HD-video til Windows wmv-format. 
+Da kan du redigere HD-filer både i 720 og 1080 oppløsning. 
+Men dette tar tid og kan gi kvalitetstap. 
+
+Når det gjelder selve redigeringen legger den opp til at du har video som skal legges etter hverandre, legge på effekt-overganger eller effekter/fargejustering, samt legge på tekst og bakgrunnsmusikk. 
+Mer avanserte muligheter som å håndtere video på flere parallelle spor finnes ikke. 
+Lydmulighetene er også begrenset til å fade ut og inn og dempe volumet. 
+
+Når du har redigert ferdig kan du lage en videofil i de formatene Windows er mest fortrolig med, legge det tilbake i kameraet på en DV-kassett eller gjøre det klart til å brenne på DVD. 
+
+HD-video støttes som filer i wmv-format. 
+
+Er det brukbart? 
+
+Windows Movie Maker er brukbart til de enkleste oppgavene, og det kan i mange tilfeller være det beste som kjent. 
+
+Det fungerer også bra som en innføring, men så snart du får ideer og vil prøve noe mer kreativt møter du begrensningene. 
+
+Det er mulig å jobbe seg rundt at det ikke støtter HD-formater rett fra kildene, men praktisk er det ikke. 
+
+Er du helt grønn når det gjelder videoredigering, så er det verdt å lære seg det grunnleggende før du bruker penger på et kraftigere program. 
+Etter å ha lekt deg med Windows Movie Maker vet du jo mer om hva du trenger, og er bedre rustet til å vurdere de andre produktene på markedet. 
+
+Les også vår guide til Windows Movie Maker, den finner du her 

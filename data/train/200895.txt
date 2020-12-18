@@ -1,0 +1,90 @@
+HP Envy 5530
+Fin skriver til allround-bruk. 
+
+Helt siden jeg testet mine første blekkskrivere for DinSide i år 2000, har HPs modeller vært synonymt med god brukervennlighet og allroundfunksjonalitet. 
+14 år senere har skriverne blitt langt mer avanserte, raskere og skriver ut bilder som om de var blitt fremkalt hos fotografen - og alt til en brøkdel av prisen. 
+
+Envy 5530 er den mest plasseringsvennlige av de tre skriverne vi har hatt på testbenken denne gangen. 
+Den er kun 33 cm dyp, og siden papirskuffene sitter i fronten blir den enkel å ha stående i en hylle. 
+At den i tillegg har innebygd duplex-modul som gjør det mulig å skrive ut på begge sider av arket, er ganske så imponerende. 
+Skriveren er også den laveste, med sine 12 cm. 
+
+Her er en rask oversikt over de tekniske egenskapene, sammenlignet med de to andre modellene (du finner lenke til dem nederst i denne artikkelen): 
+
+Brukervennlighet 
+
+Skriveren er svært enkel å sette opp. 
+I motsetning til de to andre har den kun to blekktanker som smekkes kjapt på plass. 
+Deretter får du instruksjoner på skjermen om å kalibrere utskrift og skanner. 
+Dette innbefatter at det skrives ut et ark som etterpå legges på skanneplaten. 
+Det hele er gjort på få minutter. 
+
+Windows 8.1 er allerede utstyrt med grunnleggende utskrifts- og skannerfunksjonalitet til skriveren, så hvis du har enkle behov behøver du ikke å installere noe som helst. 
+Men for å få mest mulig ut av skriveren kan du installere styreprogram og annen skriverrelatert programvare fra den medfølgende CD-en. 
+
+Skjermen er den minste og simpleste i testen, den reagerer på trykk, ikke enkel berøring. 
+Det fungerer greit, og menyene er enkle og oversiktlige. 
+
+Funksjonalitet 
+
+I tillegg til basisfunksjonalitet (skriv/skann/kopi trådløst og via USB-kabel) får skriveren også sin egen epost-adresse. 
+Så sant den er koblet til Internett, kan du skrive ut fra hvor som helst, ved å sende dokumentet du vil ha skrevet ut som et vedlegg til eposten. 
+Smart! 
+Det finnes også en god del kreative, nettbaserte utskriftsløsninger å velge mellom på selve skriveren, for eksempel origami og sudoku-brett. 
+
+AirPrint-støtte gjør det enkelt å skrive ut fra iPhone og iPad, men funksjonaliteten er dårlig. 
+Du kan for eksempel verken velge kvalitet eller papirstørrelse, noe du kan på de to andre skriverne i testen. 
+Da vi sendte et bilde fra mobilen til skriveren, fylte det for eksempel bare en fjerdedel av et A4-ark. 
+
+Google Cloud Print støttes også, hvis du har Android-basert mobil. 
+
+Hastighet 
+
+Envy 5530 er tregere enn de to andre på de fleste oppgaver. 
+Det er imidlertid vårt inntrykk etter å ha hatt disse skriverne på testbenken en ukes tid, at HP-skriveren oftest kommer raskest i gang, selv etter å ha stått ubrukt en god stund. 
+Det er også verdt å trekke fram at skriveren har god kvalitet på tekst og enkel grafikk selv i kladdemodus. 
+Her ser du hastigheten på en del vanlige oppgaver, sammenlignet mot de to andre i testen: 
+
+Skannerkvalitet 
+
+Skannerne på HP-skrivere er mye bedre enn for få år siden. 
+Det er ikke mange år siden tilsvarende modeller som Envy 5530 hadde hatt problemer med de lyseste partiene i vår kompliserte testplansje, men det er historie. 
+
+Standardinnstillingene gir meget skarpe resultater i 300 dpi, med en detaljrikdom som ligger bare noen hårstrå bak de to konkurrentene - men neppe nok til at det blir oppdaget før du forstørrer bildene kraftig. 
+
+Om du vil, kan du laste ned denne .zip-filen (40MB), som inneholder en innskanning i full størrelse fra hver av skriverne. 
+
+Dokumentutskriftskvalitet 
+
+Kvaliteten på dokumenter, både i svart/hvitt og i farger med enkel grafikk, er helt i toppklassen. 
+I hastighetstestene våre på vanlig papir har vi faktisk brukt kladdemodus, da vi vurderer kvaliteten som god nok selv i raskeste modus. 
+Dette er rett og slett HP sin hjemmebane, og det merkes. 
+
+Fotokvalitet 
+
+Den generelle fotokvaliteten vil vi vurdere som god, ved bruk av de beste fotopapirene fra produsenten. 
+Fargegjengivelsen er bra, det samme er skarpheten. 
+Det er først ved sammenligning med modeller som har seks blekkfarger, at forskjellene kan bli fremtredende, kanskje spesielt i ansikter med fine konturer og overganger: 
+
+Vi har imidlertid et ankepunkt, og det er at det ofte vises synlige striper fra framtrekksmekanismen i skriveren, noe du kan se hvis du studerer bildene på nært hold. 
+Har du høye kvalitetskrav når det gjelder fotoutskrifter, kan det derfor være grunn til å tenke seg godt om før du går for Envy 5530: 
+
+Når det er sagt, må vi legge til en viktig detalj. 
+For moro skyld skrev vi ut noen fotografier på vanlig papir. 
+Her viste HP seg som temmelig suveren på kvalitet. 
+Det betyr at skriveren er ypperlig å bruke til for eksempel invitasjoner, menyer, takkekort, flyveblader og annet grafisk materiale som ikke innebærer fotopapir: 
+
+Konklusjon 
+
+HP Envy 5530 er en fin alt-i-ett-skriver til allround-bruk. 
+Den er den minste av de tre, men har god funksjonalitet og er enkel å sette opp. 
+Skriveren er spesielt god på dokumentutskrifter, og hvis du skal skrive ut bilder eller grafikk på vanlig papir, er Envy 5530 faktisk den som byr på aller best kvalitet. 
+Fotoutskrifter på fotopapir blir også fine, men studerer du utskriftene nøye kan du oppdage striper etter framtrekksmekanismen. 
+Merk også at hastigheten ligger litt bak de andre på de fleste oppgaver. 
+
+En stor takk til Multicom for utlån av skriver til testen 
+
+Les også om de to andre skriverne i testen: 
+Epson XP-760 Canon Pixma MG6650 
+
+HP Envy 5530 

@@ -1,0 +1,123 @@
+Den klassiske iPhonen kan fort bli et tredjevalg
+Men fortsatt en meget god mobil for Apple-tilhengerne. 
+
+Apple har nylig lansert tre nye iPhone-modeller. 
+iPhone X er den nye toppmodellen, den kommer litt senere i høst, mens iPhone 8 og 8 Plus allerede er tilgjengelig i butikkene. 
+
+Testen av iPhone 8 Plus kan du lese her. 
+Vi gav den en soleklar femmer på terningen, men satt igjen med en sterk følelse av at modellen lett kommer til å havne i skyggen av X, som representerer en helt ny design og oppdatert brukeropplevelse. 
+
+Og så har vi selvsagt det som nå blir lillebror i familien: iPhone 8. 
+Den har mange av de samme egenskapene som iPhone 8 Plus, og derfor vil mye av teksten i denne testrapporten være lik. 
+
+Men noen vesentlige forskjeller er det, og de er det viktig at du er klar over før du bestemmer deg for hvilken modell du eventuelt skal kjøpe. 
+
+Kjent og kjært 
+
+Fram til iPhone X kommer, har Apple nå praktisk talt hatt samme design på sine iPhone-modeller siden introduksjonen av iPhone 6 og 6 Plus i 2014. 
+Det er svært lenge i mobilverdenen, og det merkes. 
+
+Det betyr blant annet at også 8 har ganske tykke rammer rundt skjermen, sett i forhold til mange av årets nykomlinger. 
+Mobilen er for eksempel under én millimeter smalere enn Samsung Galaxy S8, til tross for at skjermen på sistnevnte er mye større (5,8 mot 4,7 tommer). 
+
+Faktisk er den også litt tykkere enn forgjengeren, 7,3 mot 7,1 millimeter, ifølge Apples målinger. 
+Vi har ikke kontrollmålt, men konkluderer med at økningen er akkurat stor nok til at det merkes når du klemmer dem begge i hånden. 
+
+Fremdeles finner vi en Touch ID-knapp i bunnen og avrundede sidekanter med de vanlige knappene; volumknapper, strømknapp og bryteren for å slå av og på stillemodus. 
+Telefonen er fortsatt vanntett, slik forgjengeren også var. 
+
+I bunnen finner vi fortsatt kun en Lightning-port slik tilfellet var på de forrige modellene; altså ingen 3,5mm-lydport som mange av konkurrentene fortsatt har valgt å beholde. 
+
+Du får riktignok med en overgang i esken, men da får du ikke lyttet med kabel og ladet samtidig med mindre du kjøper (dyrt) overgangsutstyr fra tredjepart. 
+Unngå for all del å kjøpe søppel som denne. 
+
+Ikke så voldsomt mye nytt på designfronten, altså, men en ting er nytt: baksiden. 
+Apple gått tilbake til glass, som vi må helt tilbake til iPhone 4s for å finne; i hvert fall over hele flaten. 
+Det skal ifølge Apple være det mest robuste glasset i en smarttelefon, som blant annet er forsterket av metall på store deler av innsiden. 
+
+Merk videre at mobilen fås med kun to valg av lagringsplass, 64 og 256 GB. 
+Forgjengeren kom med 32 og 128 GB. 
+Her savner vi en mellommodell. 
+I mangel på en slik, vil nok mange gå for 256 GB-utgaven - noe som kan vise seg å være smart på sikt - selv om mobilen dermed blir temmelig mye dyrere. 
+
+Nytt: 
+Trådløs lading 
+
+Glass på baksiden betyr én side til som kan knuses, men det gir imidlertid en etterlengtet fordel, og det er at det åpner for trådløs lading. 
+
+Vi synes det er veldig positivt at Apple her har valgt å gå for den utbredte Qi-standarden i stedet for å gjøre noe helt eget, og det betyr at de fleste trådløse ladere er kompatible; inkludert de du får kjøpt på Ikea og den slags. 
+
+Hadde de enda gjort det samme med porten i bunnen – iPhone og iPad bruker fortsatt Lightning-kontakten, mens «alle andre» bruker USB-C; Macbook inkludert. 
+Faktisk skal de nye iPhone 8-modellene støtte hurtiglading (0-50 prosent på 30 minutter) om du kjøper en Mac-lader på minst 29 W og en USB-C til Lightning-kabel, med en total prislapp på nesten 900 kroner. 
+Men verdt å merke seg er at iPad-laderen også er kraftigere og lader telefonen raskere – forskjellen er ikke enorm opp til den nevnte hurtigladeløsningen. 
+
+Trådløst går imidlertid ikke så fort – foreløpig lader Apple-telefonene kun med 5 W trådløst (samme hastighet som den medfølgende laderen), mens en programvareoppdatering senere i år skal gi 7,5 W ladeeffekt trådløst. 
+Det er fortsatt bare halvparten av det Samsung leverer med sin trådløse hurtiglader på 15 watt. 
+
+Skjerm med True Tone 
+
+TrueTone er en teknikk Apple introduserte på iPad Pro, der sensorer på fremsiden av skjermen fanger opp lysforholdene i rommet og justerer temperaturen på skjermen deretter. 
+
+Dette er nå å finne i alle de tre nye iPhone-modellene, og det er en funksjon vi liker godt. 
+Typisk vil skjermen være varmere (mer gul/rød) i normal innendørsbelysning og imiterer i større grad hvordan et ark i en bok ville ha vært belyst i samme setting. 
+Slår du den av, blir bildet stort sett en del kaldere (mer blått) og føles noe «hardere». 
+
+Ellers er LCD-skjermen som vanlig meget god, med spesielt naturtro farger. 
+Dog er det ikke til å stikke under stol at OLED-skjermen i iPhone X sannsynligvis vil være bedre, med dypere sortnivå, bedre kontrast og rikere farger. 
+X-skjermen har også HDR-støtte, noe vi ikke finner på 8-modellene. 
+
+Ekstremt rask prosessor 
+
+Ikke at hastighet noengang har vært noe problem på en ny iPhone, men iPhone 8 oppleves særdeles kjapp til all bruk. 
+
+På innsiden bor den nye A11 Bionic-prosessoren som feier konkurrentene av banen hva gjelder ytelse. 
+I AnTuTu-testen, som måler ytelsen innenfor flere grener, får iPhone 8 207.692 poeng (Plus klarte hele 224.974 poeng). 
+Til sammenligning fikk Samsungs toppmodell Note 8, 174.914 poeng. 
+
+I en annen test, flerkjernetesten i Geekbench 4, fikk iPhone 8 poengsummen 10.271. 
+Det er mer enn dobbelt så høy score som Note 8, og godt over dobbelt så høy score som forgjengeren iPhone 7. 
+
+A11-prosessoren har seks kjerner, og nytt denne gangen er at de tyngste appene har mulighet til å adressere alle seks kjernene samtidig for å bruke hele kraften. 
+
+Kjempekreftene kommer godt til nytte med AR-appene i iOS 11, der både menneskekropper, roboter og annet kan gjengis med svært god presisjon gjennom mobilkameraet, praktisk talt uten antydning til hakking. 
+
+Selv om den slags krever sitt av batteriet, synes vi iPhone 8-batteriet holder godt til daglig bruk. 
+Ved hyppig bruk har vi ikke noe problem å bruke opp batteriet i løpet av en dag, men det har hendt flere kvelder at vi har hatt 30-40 prosent igjen når vi har funnet sengen. 
+
+Enklere kamera 
+
+I motsetning til iPhone 8 Plus og iPhone X, har ikke 8-ern to hovedkameraer, men ett. 
+Det betyr at kameraet ikke har de mange fiffige mulighetene som vi ble så glade i under testen av 8 Plus, som lyseffekter og fjerning av bakgrunner på portrettbilder. 
+
+Når det er sagt, er det mye positivt å si om den generelle bildekvaliteten. 
+Fargemessig synes vi bildene fra iPhone 8 klarer seg meget godt i vanskelige lysforhold, sammenlignet med mange konkurrenter. 
+Blenderåpningen er på f/1,8 og oppløsningen 12 megapiksler. 
+
+Kontrastene kan imidlertid være litt harde, spesielt på bilder tatt om kvelden i svakt lys. 
+Isolert sett ser de veldig bra ut, men sammenligner vi bildene nøye mot forgjenger iPhone 7, ser vi at sistnevnte ofte har bevart detaljene hakket bedre. 
+Under ser du et par eksempler på nettopp det. 
+
+Apple har imidlertid gjort en vri med blitsen vi liker godt, og det er å introdusere såkalt «slow sync». 
+Du får ikke slått det av og på selv, men konseptet er at lukkeren holdes åpen lenger når du tar blitsbilder, slik at du får med mer av bakgrunnsbelysningen når du tar bilder med blits. 
+
+Bortsett fra dette, har vi sammenlignet en rekke bilder tatt med iPhone 8 mot forgjengeren, og kan vanskelig si at den generelle kvaliteten er blitt merkbart mye bedre, i hvert fall ikke nok til at kvaliteten blir et særlig vesentlig argument for iPhone 8 alene. 
+
+Nytt i årets iPhone-modeller er derimot muligheten for å filme med 4K-oppløsning og 60 bilder i sekundet, som gir et veldig jevnt bilde. 
+Her må du inn i innstillinger, kamera og video for å velge oppløsning – det gjør det litt tungvint å bytte frem og tilbake, og telefonen bruker cirka 400 MB i minuttet med full kvalitet. 
+Men så blir resultatet meget godt. 
+
+Her er noen flere bildeeksempler, klikk på dem for å se dem i større utgave. 
+Dessverre er kvaliteten noe degradert her, men du kan også laste ned og studere originalene: 
+
+Konklusjon 
+
+Lynrask maskinvare, godt kamera, flott skjerm og et stadig mer brukseffektivt operativsystem gjør iPhone 8 til en meget god mobiltelefon. 
+
+Men så er det heller ikke til å komme fra at den er blant de dyreste (9.490 kroner for 256 GB-utgaven), og at den bærer et aldrende design med tykke skjermkanter, som havner i skyggen av iPhone X når den kommer neste måned; med mye større skjerm i bare litt større utforming. 
+
+Når vi i tillegg ikke finner de samme argumentene for kameraet som vi finner på de to storebrødrene, blir iPhone 8 fort tredjevalget i årets kolleksjon. 
+
+At laderen som følger med bare er på 5 watt, er heller ikke noe som teller i favør Apple, der konkurrentene leverer langt kraftigere ladere i esken uten ekstra kostnad. 
+
+MEN: iPhone 8 er uansett en meget god mobil som vipper mellom 4 og 5 på terningen. 
+Når vi til slutt lander på en sterk firer, henger det sammen med at mobilen, med unntak av den svært kraftige ytelsen, ikke byr på mer enn hva du bør forvente av en toppmobil i denne prisklassen nå. 

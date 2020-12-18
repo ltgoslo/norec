@@ -1,0 +1,104 @@
+Acer Aspire Revo 100
+Dette er det klart smarteste mediesenter-PC vi har testet. 
+
+Det begynner å bli lenge siden vi først lot oss fascinere av å kunne koble PC-en til TV-en. 
+Temaet ble spesielt aktuelt etter at flate TV-er ble vanlig, med VGA-innganger, og etter hvert både høy oppløsning og enklere tilkobling via HDMI. 
+
+Mediesenter-PC-markedet har imidlertid aldri tatt helt av. 
+Mye av grunnen, mener vi, skyldes at produktene rett og slett ikke har vært tilpasset godt nok. 
+Windows har for eksempel ikke vært optimalisert for TV-bruk, prisene har vært høye, støy har vært en annen utfordring, for ikke å glemme mangel på gode styremuligheter. 
+
+Vi har tidligere konkludert med at ingenting slår trådløst tastatur og mus til stue-PC-er, men slett ikke alle er interessert i å ha slikt liggende på stuebordet. 
+
+Endelig modent? 
+
+Acer Aspire Revo 100 er kanskje produktet som kan snu opp ned på dette. 
+Den lille sorte PC-en minner litt om enn en Playstation 2, (bare litt større med sine 30 x 18 x 2,5 cm). 
+Den kan både ligge og stå oppreist, og til forskjell fra mange andre små PC-er vi har testet har den innebygd Blu-ray-spiller. 
+
+Rett under drevet i fronten sitter et lite kombinert multiberøringsfølsomt peke- og tastaturbrett som du kan løsne og bruke trådløst fra sofakroken. 
+
+Tastaturet, som betjenes enkelt med tomlene, har dessuten knapper for styring av medieavspilling, samt volumkontroll. 
+Trykk bekreftes av en kort pipelyd, og fungerer helt supert til å taste inn nettadresser, brukernavn og annen kortfattet informasjon. 
+
+Ved å trykke inn en knapp øverst til høyre bytter du mellom tastatur- og pekeplate-modus. 
+Nå mørklegger pekeplaten tastene. 
+Platen er som sagt multiberøringsfølsom, og "høyreklikk" aktiveres ved å klikke og holde fingeren der et par sekunder. 
+
+Litt av hvert å by på 
+
+PC-en har for øvrig en USB-port og kortleser for vanlige minnekort i fronten, og på baksiden sitter to USB-porter til, HDMI-utgang, optisk SPDIF-lydutgang (TOSLINK), lyd- inn og utganger (minijack), nettverkskontakt (gigabit støtte), samt tilkoblingspunkt for antenne på modeller med innebygd TV-tuner. 
+
+På innsiden sitter en strømgjerring dobbelkjernet AMD Athlon II Neo K325 prosessor som opererer på 1,3 GHz, 2 GB minne (maks 4) og en 500 GB harddisk. 
+Grafikkbrikken er en Nvidia Geforce 9400, også kjent under navnet ION. 
+Trådløst nettverk er naturligvis på plass (b/g/n). 
+
+Operativsystemet er Windows 7 Home Premium 64 bit, og maskinen kommer med spesialsydd mediesenter-programvare kalt Clear-fi. 
+
+Oppstart og installasjon 
+
+Vi koblet maskinen til en 42-tommer full HD LCD-TV fra LG, og startet den opp. 
+Det viste seg raskt at maskinen var like stillegående som vi hadde håpet på. 
+Første gang maskinen startes er det ganske mange ting som skal konfigureres og installeres, og denne prosessen tok rundt 20 minutter. 
+
+Skrivebordet var ikke optimalisert for TV og sofabruk, ikoner og tekst ble altfor smått. 
+Det følger med en TV-vennlig nettleser basert på Internet Explorer, men den har ikke mulighet for å justere opp skriftstørrelsen. 
+Her måtte vi rett og slett gjøre noen tilpasninger. 
+
+Vi måtte også gjøre noen endringer på strømstyringen, da det viste seg at maskinen gikk i dvale midt under avspilling av musikk fra Spotify. 
+Det førte til at TV-en vår også slo seg av kort tid etter at maskinen var gått i dvale, på grunn av manglende signal. 
+
+Vi mener at en maskin av denne typen, som til de grader er myntet på stuebruk, burde kommet med en veiviser som hadde gjort oppsettet mest mulig TV-vennlig. 
+Det hadde gjort den enda bedre tilpasset hvermansen, som ikke nødvendigvis innehar kunnskap om disse tingene. 
+
+Problemfri Blu-ray-avspilling 
+
+Vi satte inn Blu-ray-filmen "The Island", og etter ca 30 sekunder startet avspillingen gjennom Clear-fi-mediesenteret, uten at vi behøvde å foreta oss noe som helst. 
+
+Via tastaturbrettet kunne vi enkelt styre avspillingen, og det var ikke tegn til hakking eller andre problemer. 
+5.1-lyden (DTS) ble også dekodet og fordelt riktig gjennom surround-anlegget vårt. 
+Det var ikke mulig for oss å se forskjell på bildet i forhold til vår dedikerte Blu-ray-spiller til et par tusenlapper, eller sagt på en annen måte: 
+Kvaliteten var meget god. 
+
+Det eneste problemet vi har opplevd under testperioden hva Blu-ray-avspilling angår, var filmen Avatar, der lyden ble borte. 
+Vi har imidlertid ikke sett etter programvareoppdateringer til Clear-fi, noe som muligens kunne fikset dette problemet. 
+
+Vi gjør også oppmerksom på at selve drevet avgir en ganske tydelig suselyd under avspilling. 
+Den hører du godt når lyden på filmen er dempet. 
+
+Clear-fi spiller av mange forskjellige multimedieformater og filtyper, inkludert DivX, MKV etc, men ikke alle. 
+Det kan også kommunisere med nettverksdisker og PC-er via DLNA, og har også en viss internettfunksjonalitet. 
+Grensesnittet er enkelt, med store ikoner og tekst: 
+
+Vi installerte VLC og kunne raskt konkludere med at Revo 100 ikke har noen problemer med å avspille noen av våre 21 testfiler, inkludert materiale i full HD-oppløsning. 
+
+Som du ser av bildet under, var aldri prosessoren presset til sitt ytterste under avspilling: 
+
+Noen ord om ytelsen 
+
+For oss virker kombinasjonen AMD Athlon II Neo K325 og ION-grafikk som bedre enn tilsvarende grafikkløsning med Intels Atom-prosessor. 
+Vi har så alt for mange ganger støtt på problemer under avspilling av de tyngste videofilene på maskiner med Atom-prosessor. 
+
+Til alt av vanlig bruk, som nettsurfing, kontorprogrammer etc, i tillegg til musikk- og video er dette en helt OK løsning. 
+Det er imidlertid ingen spillmaskin, og tyngre oppgaver som videoredigering og -komprimering bør du velge en kraftigere PC til. 
+
+Windows Opplevelsesindeks sier følgende: 
+
+Hva sier så ytelsesmålinger om styrkeforholdet dem imellom? 
+Ifølge Passmark er det ingen tvil om at AMD-prosessoren er strået hvassere enn de vanligste Atom-alternativene: 
+
+Flere bilder: 
+
+Konklusjon 
+
+Det har vært morsomt å stifte bekjentskap med Acer Revo 100. 
+Den er det nærmeste vi har kommet en optimal stue-PC / mediesenter så langt. 
+Det finnes mange små PC-er som kan egne seg til stuebruk, men spesielt Blu-ray-støtten på Revo 100 gjør at den blir spesielt interessant. 
+At den ser bra ut, er stillegående og enkel å operere via tastaturbrettet, forsterker bare det gode helhetsinntrykket. 
+
+Litt støy fra drevet under Blu-ray-avspilling og det faktum at vi måtte gjøre et par tilpasninger manuelt for å gjøre Windows mer TV-vennlig, er omtrent det vi har satt på minussiden. 
+Det er ikke nok til å ta fra Revo 100 et vel fortjent anbefalt-stempel. 
+
+En stor takk til MPX for utlånet av PC-en. 
+
+Acer Aspire Revo 100 (PT.SESE2.027) 

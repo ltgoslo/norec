@@ -1,0 +1,72 @@
+Side 2: 15 ting vi digger i Windows 7
+8. 
+Kompatibel 
+
+En av fordelene med Windows 7 er at drivere og programmer som er skrevet for Windows Vista, også vil fungere i Windows 7. 
+Endringene på innsiden er nemlig langt mindre enn hva tilfellet var fra XP til Vista. 
+
+Kravene for å kjøre Windows 7 er dessuten ikke større enn for Vista, heller tvert i mot. 
+Windows 7 med Aero-grensesnittet kjører helt fint på vår bærbare PC med Celeron-prosessor og 1,5 GB minne. 
+
+9. 
+Internet Explorer 8 
+
+IE8 er på mange måter en helt ny nettleser. 
+Nå følger Microsoft standardene og har stengt mange sikkerhetshull. 
+I tillegg er IE8 en nettleser som kjører hvert vindu i egen prosess, lar deg surfe anonymt, og er kompatibel med det aller meste på nettet. 
+
+Det er gode nyheter for brukerne. 
+Spesielt for det store flertallet som ikke tar seg bryet med å installere en konkurrerende nettleser. 
+
+10. 
+Trenger færre drivere 
+
+I langt større grad enn i Vista inneholder Windows 7 drivere til mange flere av de mest utbredte maskinvarene. 
+I vårt tilfelle slapp vi å supplere med noe som helst i etterkant av Windows-installasjonen. 
+Det var bare tut og kjør. 
+
+11. 
+Mer logiske prosesser 
+
+Vanlige valg kun et høyreklikk unna, og innstillinger som hører naturlig sammen er samlet. 
+
+Se bare Tema-innstillingene. 
+Her finner du alt som har med farger, bakgrunn og lyder på ett sted. 
+
+12. 
+Enklere håndtering av skjermer og projektorer 
+
+Skjermegenskapene er redesignet, og er blitt enklere å forstå. 
+Trykker du Windows-tast og P kjøres skjermbildet via skjermutgangen over i projektor-kompatibelt format. 
+
+13. 
+Kontroll på advarslene 
+
+En av de mest utskjelte funksjonene i Vista var UAC 
+- User Account Control, som gir stadige meldinger om du virkelig ønsker å utføre en handling. 
+Denne er ikke fjernet i Windows 7, men gir nå en langt mindre dramatisk melding på skjermen. 
+Det gode er at du enkelt kan styre når Windows skal gi advarsler ved hjelp av denne spaken: 
+
+14. 
+Større valgfrihet 
+
+Windows 7 kommer uten epost-program, videoredigering, chatteprogram og bildebehandler- og bibliotek (blant annet). 
+
+Alt er imidlertid tilgjengelig for nedlasting gratis fra Microsoft. 
+Det gir deg større kontroll med hva du ønsker skal være installert, og sparer dessuten plass og installasjonstid. 
+
+15. 
+Bedre stabilitet 
+
+Windows 7 er foreløpig bare i en pre-beta-fase, og det endelige produktet er neppe ferdig før sommeren 2009, tidligst. 
+Likevel er det oppsiktsvekkende stabilt. 
+Vi har kjørt det i en uke og gjort en rekke installasjoner og tilpasninger uten at vi har opplevd krasj. 
+Det lover svært bra for det endelige produktet. 
+
+Foreløpig konklusjon - det kommer mer 
+
+Vi understreker nok en gang at operativsystemet fortsatt er i en pre-beta-fase, og at flere av funksjonene vi har vist i denne artikkelen kan bli endret og fjernet i den endelige versjonen. 
+
+DinSide Data kommer til å følge Windows 7-utviklingen tett i tiden som kommer. 
+
+Tilbake til Side 1 

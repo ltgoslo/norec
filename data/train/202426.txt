@@ -1,0 +1,53 @@
+Asus USB-N66 trådløs adapter
+Innebygd antenne og nettverkskort er ikke alltid den beste løsningen. 
+
+En interessant, men ikke spesielt gunstig utvikling, er at rutere med trådløst nettverk har utviklet seg voldsomt de siste årene og byr på hastigheter som vi knapt trodde var mulig. 
+Problemet er at det som skal motta signaler fra disse ruterne ikke på langt nær har utviklet seg tilsvarende. 
+Det ser heller ikke ut til at det står spesielt langt opp på prioriteringslista hos produsentene. 
+
+For at du skal få best kommunikasjon med en ruter må klienten matche ruterens egenskaper, det er jo på alle mulige måter en toveis kommunikasjon det er snakk om. 
+
+Men når så du sist at egenskapene hos antenner og trådløst nettverkskort ble trukket fram i annonser eller spesifikasjoner for bærbare PC-er eller annet trådløst utstyr? 
+Nettopp. 
+
+Det er fortrinnsvis dyrere bærbare PC-er beregnet på bedrifter som har gode antenne- og nettverksløsninger, med tre antenner og nettverkskort som støtter dette. 
+
+Ja, du kan faktisk bytte nettverkskort i en del bærbare, og det koster ikke mer enn noen hundrelapper. 
+Men du kan ikke montere flere antenner, hvis du ikke er brutalt fingernem. 
+
+Så den enkleste og beste løsningen for å få optimalt mottak er en ekstern trådløs klient, som kan plasseres uavhengig av selve PC-en. 
+
+Asus USB-N66 
+
+Utseendet på denne er praktisk talt identisk med EA-N66 som vi har testet tidligere. 
+Den ser futuristisk og karakteristisk ut, og ligner ikke på noe annet vi har sett. 
+
+Forskjellen er at denne er en USB-enhet, som det tydelig framgår av navnet. 
+
+Den har en USB-kontakt og en bryter, og får strøm fra USB-tilkoblingen. 
+Bryteren velger senderstyrke og kan i følge Asus gi 3 ganger så stor effekt og 150% større rekkevidde. 
+
+Installasjon 
+
+I motsetning til nettverks-utgaven EA-N66 som installeres fra nettleseren, må du installere driver og styreprogram fra CD som følger med for Windows, MacOS og Linux. 
+
+Du kan velge om du skal bruke den innebygde støtten i operativsystemet eller Asus sitt eget styreprogram for å velge nettverk og tilkobling. 
+
+Installasjonen var rett fram og i boks, uten problemer. 
+
+Ytelse 
+
+Vi testet denne mot Asus sin nyeste ruter, som også støtter 802.11ac - som kan gi omtrent halvparten av kablet Gigabit nettverk! 
+En slik ytelse får du bare med klienter som støtter 802.11ac, men også ytelsen hos 802.11n vil bli forbedret med disse ruterne. 
+
+Og ytelsen var rett og slett det raskeste vi har målt med 802.11n. 
+
+Sammenligner vi med Linksys AE3000 som klient er den litt under i målepunktet i stua (her gir den vesentlig bedre ytelse enn med en 802.11n ruter). 
+
+Men Asus er overlegen på dekning i målepunktet i kjelleren. 
+
+Konklusjon 
+
+Har du problemer med dårlig trådløst mottak på din bærbare er Asus USB-N66 en strålende løsning! 
+
+Asus USB-N66 

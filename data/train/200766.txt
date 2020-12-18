@@ -1,0 +1,119 @@
+Den mest imponerende iPad-appen?
+Vi har testet Auria - 48-spors lydstudio på iPad. 
+
+En app var opprinnelig en forkortelse for "applet" som var en enkel applikasjon med begrenset funksjonalitet. 
+De fleste apper passer til denne beskrivelsen, men det finnes noen eksempler på apper som går langt utenpå det man forventer. 
+Auria er en slik app. 
+
+Vi skrev en forhåndsomtale da programmet ble lansert på NAMM-messen i januar. 
+
+Sent men godt 
+
+Programmet skulle vært ferdig i mai, men det drøyde enda et par måneder før det ble sluppet. 
+Men den venter som kjent ikke forgjeves som venter på noe godt. 
+
+Auria er et nesten komplett musikkstudio, hvor du kan gjøre opptak på opptil 24 spor og spille av på opptil 48. 
+Hvert spor har prosesseringsmuligheter for dynamikk og EQ, og det er også støtte for plug-ins. 
+
+Det er to arbeidsflater, en som ser ut som et mikserbord og en med oversikt over opptakene på tidslinje. 
+I tillegg er det en menylinje med forskjellige valg. 
+
+For alle som har brukt miksere og opptaksprogrammer er det meste selvforklarende, først når man kommer litt dypere inn i materien er det behov for å sjekke brukermanualen på nett. 
+
+Hva trenger du? 
+
+For å få fullt utbytte av Auria trenger du et eksternt lyd-interface, og dette må være Class Compliant. 
+Det vil si at det ikke trenger drivere, men bruker den innbakte driveren som ligger i operativsystemet. 
+Både iOS, MacOS, Windows og Linux har disse innebygd, og har minimal forsinkelse i håndteringen. 
+Det betyr at du bare plugger det inn og at det reagerer umiddelbart (noen få millisekunder) når du endrer lydparametre. 
+
+Android har ikke denne egenskapen når det gjelder lydhåndtering, derfor er det ingen støtte for avanserte musikk og lydprogrammer på den platformen. 
+At det er langt mer lukrativt å utvikle iOS-programmer er en annen viktig faktor. 
+
+Auria støtter opptil 24 spors opptak samtidig, men det finnes i skrivende stund ingen maskinvare som er Class Compliant og tilbyr dette. 
+Det nærmeste man kommer er PreSonus AudioBox 1818VSL (som vi har testet med) og Focusrite Scarlett 18i6 som begge lar deg ta opp 18 spor samtidig. 
+
+Det finnes mange andre løsninger som tilbyr mellom 2 og 8 spors opptak, og med den innebygde mikrofonen kan du ta opp ett spor av gangen. 
+
+Avspilling skjer i stereo, det er ikke støtte for flere kanaler i dagens versjon av iOS. 
+
+Har du gjort mange opptak som bruker mye prosessorkraft i sanntid til EQ, effekter og annet kan du "fryse" sporene slik at de lagres som en ferdig lydfil med alle effektene. 
+Da sparer du mye prosessorkraft under avspilling, slik at du ikke får problemer med for lite av den til å gjøre nye pålegg. 
+
+Det er også mulig å sette markører for automatisk inn og uthopp hvis du skal rette opp en feil eller spille inn en ny solo eller lignende. 
+
+Import/eksport 
+
+Hvis du allerede har et annet opptaksprogram på Mac eller PC kan du hente inn filene fra dette inn i Auria og jobbe videre med prosjektet på iPad. 
+For å overføre filer kan du enten bruke DropBox eller iTunes File Exchange, det gjelder både import og export. 
+Fordelen med DropBox er at du kan hente filer hvor som helst bare det er nettilgang. 
+Med iTunes File Exchange må du naturlig nok koble sammen iPad og Mac/PC med USB-kabelen, men fordelen er at det går mye raskere. 
+Selv om filene allerede ligger i DropBox på iPad tar det forunderlig lang tid å overføre til Aurias filområde. 
+
+Det er plass til mye musikk på en iPad, de seks låtene vi testet med mellom 8 og 24 spor tar noe over 4 GB. 
+Selve programmet tar beskjedne 213 MB. 
+Med en 64 GB iPad kan man ha ganske mange og store prosjekter liggende klar. 
+Det tar ikke mange sekundene å laste inn en låt fra Aurias filområde. 
+
+All lagring skjer automatisk, hvis du skal eksperimentere med et opptak kan du laste inn en kopi av prosjektet slik at du ikke risikerer å ødelegge originalen. 
+
+Redigering og mix 
+
+Auria i denne første utgaven har hovedvekt på lineær jobbing, det vil si at du tar opp og redigerer musikk i lengre strekk, fra en hel låt ned til et vers eller deler av dette. 
+Hvis man foretrekker å lage musikk ved å kombinere loops og lyder fra virtuelle instrumenter er ikke Auria riktig verktøy. 
+Støtte for MIDI og virtuelle instrumenter er planlagt i kommende versjoner. 
+
+De klassiske redigeringsmulighetene er på plass, du kan sette markører, splitte ut biter, kopiere og flytte, både i et spor og mellom sporene. 
+
+Det er også automasjon av alle parametre, inkludert plugins. 
+
+Prosessering av opptaksdata er støttet, du kan prosessere volum og normalisere, reversere, kryssfade og erstatte deler av opptaket med stillhet. 
+
+De mer avanserte mulighetene som man kjenner fra de store, eldre programmene som for eksempel Cubase, Cakewalk og Logic er ennå ikke på plass, som analyse av rytmiske forløp og kvantisering av andre spor basert på rytmiske data fra et annet. 
+Men det er ikke utelukket at slikt kommer på plass senere. 
+Wave Mechanics, utvklerne av Auria, har andre profesjonelle produkter som er svært anerkjent. 
+Så det er ikke kompetansen det står på. 
+
+I bruk 
+
+Vi overførte forskjellige flerspors-prosjekter via DropBox og via iTunes File Exchange, og anbefaler absolutt iTunes til dette. 
+Det er langt raskere og bød aldri på problemer. 
+Via DropBox var det et par prosjekter som ikke ville laste inn. 
+
+Du kan importere og eksportere enkeltfiler eller flere, og også importere/eksportere hele prosjekter i AAF format, som støttes av flere større DAW-programmer. 
+
+Vi testet også samtidig opptak på alle 18 sporene, noe som var helt udramatisk. 
+Du plugger inn interfacet i Camera Connection kit-overgangen, det blir automatisk registrert med antall kanaler og alt. 
+
+Videre er det bare å bestemme hvilke spor de forskjellige inngangene skal tas opp på, trykke opptaksknappene på de aktuelle sporene, og gå i opptak. 
+Med 18 spor i opptak viste CPU-indikatoren max 22%. 
+
+Redigering av lydfiler på detaljnivå er også fullt mulig, med de vanlige fingergrepene kan du forstørre utsnitt av en lydfil så mye at du kan redigere helt nede på samplenivå. 
+
+Responsen i programmet er helt direkte, alt skjer umiddelbart og forutsigbart. 
+Skruknappene og spakene styrer du på samme måte, ved å berøre og så bevege fingeren opp og ned. 
+
+Miksefunksjonen er topp, siden du kan styre flere spaker samtidig kan du betjene Auria på samme måte som en fysisk mikser. 
+Både EQ og dynamikk (kompressor/ekspander) er tilgjengelig per kanal, sammen med individuelle insert-effekter. 
+Og alt kan automatiseres. 
+
+Det finnes også plug-ins som kan kjøpes inne fra programmet for erstatning av trommer med samples, mer avansert EQ, ekkoeffekter, "varming" av lyden, impulser til klangen osv. 
+Prisene er iOS-rimelige, spesielt sammenlignet med tilsvarende for andre operativsystemer/programmer. 
+
+Konklusjon 
+
+Auria viser hvor kraftig maskinvare som egentlig sitter i en iPad. 
+Det er ikke så veldig mange år siden man jobbet profesjonelt på utstyr med samme ytelse. 
+
+Med god programmering kan faktisk en iPad brukes til mer produktivt arbeide enn sofasurfing. 
+Og dette er egentlig bare begynnelsen. 
+
+Samtidig blir det noen ekstra grep når man er begrenset av fingerbetjeningen når man skal zomme seg inn og ut, bort og fram. 
+Mus og tastatur, pluss store skjermer gir en bedre arbeidsplass - men selvfølgelig til en helt annen pris. 
+
+Med Auria og en iPad, pluss et lite rack og en liten koffert med mikrofoner har du en portabel opptaksrigg som håndterer de fleste band og grupper, i alle sjangere. 
+
+Og du kan i tillegg høre på, redigere og mikse hvor som helst med gode hodetelefoner. 
+
+Med Auria, SampleTank, Animoog og den nye PPG WaveGenerator som kommer om kort tid, pluss mange andre smarte støtteprogrammer er det i dag nesten obligatorisk for musikere å ha en iPad. 
+Men Microsoft Surface kan også bli en heftig konkurrent med full Windows 8 og samme maskinvare som i bærbare PCer. 

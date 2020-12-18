@@ -1,0 +1,106 @@
+Acer Aspire S5
+Svært tynn, med innovative løsninger og ekstremt rask SSD. 
+S5 er Acers nye spydspiss i Ultrabook-segmentet. 
+
+Acer kastet seg tidlig inn i markedet for Ultrabooks, og var også blant de rimeligste med modellen Aspire S3, som riktig nok fikk litt blandet mottakelse i markedet. 
+Du kan lese vår test her. 
+
+Tynnere enn konkurrentene 
+
+Nå setter Acer sin lit til at etterfølgeren, S5, blir en større suksess. 
+Den er, ifølge Acer selv, tynnere enn alle konkurrentene, med sine 15 mm på det tykkeste. 
+Den er innpakket i magnesium og aluminium, har en skjerm på 13,3 tommer, og veier 1,36 kg. 
+
+Den er også den første Ultrabook-en vi har sett som har vært utstyrt med en høyhastighets Thunderbolt-port, som åpner for svært mange spennende bruksområder. 
+Mer om det siden. 
+
+Først skal vi ta en oppsummering av de viktigste egenskapene: 
+
+13,3" blank LED-baklyst LCD-skjerm, 1366 x 768 piksler Intel Core i5-3317U prosessor Intel HD 4000 grafikk 4 GB RAM (som også er maks) 128 GB SSD fra LiteOn Bluetooth 4.0 Trådløst nett b/g/n (Atheros-brikke) 2 stk USB 3.0-porter Thunderbolt-port HDMI-utgang (full størrelse) Webkamera (1280 x720 piksler) Windows 7 Home Premium 64 bits Størrelse: 
+32.3 x 21.85 x 1,5 cm Vekt: 1,34 kg Pris denne konfigurasjonen: 
+Ca 8.990 kroner 
+
+Med unntak av Thunderbolt-porten er maskinen veldig typisk for en gjennomsnittlig godt utstyrt Ultrabook. 
+Vi merker oss at den verken har kontakt for kablet nettverk, ei heller VGA-utgang. 
+Dette har måttet vike for å holde tykkelsen på et minimum. 
+
+Oppsiktsvekkende MagicFlip-knapp 
+
+Acer har dessuten gjort en annen liten spesialløsning for å spare plass i høyden. 
+Alle tilkoblingspunktene sitter bak, men de dukker ikke opp før du trykker på knappen på høyresiden av tastaturet, som Acer har kalt MagicFlip. 
+Da starter en motor som hever maskinen 7,5 mm i bakkant, og alle tilkoblingene kommer til syne. 
+
+Det er en litt snedig løsning, men det mest positive ved den, slik vi ser det, er at den beskytter tilkoblingene mot smuss og støv når de ikke er i bruk. 
+Den gir også maskinen et renere designuttrykk. 
+Det mest negative er at enhver motordrevet løsning kan ryke, og hva gjør man da, når man ikke får tilgang til portene? 
+
+Videoklippet under viser hvordan beskyttelsen fungerer i praksis: 
+
+Maskinen virker godt konstruert og oppstivet, med gode materialvalg. 
+Det sørger utstrakt bruk av metall for. 
+Den tynne skjermen er også godt oppstivet, og alt i alt gir det et tillitsvekkende inntrykk. 
+
+Rent og ryddig 
+
+Maskinen er helt fri for klistremerker, og har et fast og fint tastatur. 
+Det er imidlertid ikke baklyst, slik mange Ultrabooks er, og vi merker at vi savner det når lysforholdene er dårlige. 
+Små piltaster og enter-tast trekker litt ned totalinntrykket, men det er ikke problematisk. 
+
+Det som oppleves som litt mer problematisk er at den trykkfølsomme pekeplaten ikke alltid virker helt ut i kantene (ved trykk), spesielt ved høyreklikking har vi opplevd flere ganger at vi må flytte fingeren lenger inn på pekeplaten for at den skal registrere trykkene våre. 
+
+Utover dette har vi ikke noe å utsette på tastaturet og pekeplaten. 
+
+Ikke elite-skjerm 
+
+Skjermen er blank og relativt lyssterk, men lyset avtar raskt fra sidene. 
+Ser du skrått på skjermen fra toppen, blir bildet raskt invertert. 
+Dette er typisk for de enklere panelene, og vi har allerede sett hvordan Samsung og Asus har parkert alt alle med sine høyoppløste IPS-skjermer i Ultrabook-segmentet. 
+
+Helt grei skjerm, men i andre divisjon sett i forhold til Asus UX31/32 og Samsungs nye 9-serie. 
+
+På venstre side sitter av/på-knapp og minnekortleser (SD og MC-kort), på motsatt side sitter en 3,5" minijack-kontakt for både mic og hodetelefoner. 
+
+Alle andre tilkoblinger sitter bak. 
+Det er bra for ryddigheten, men dårlig for tilgjengeligheten. 
+En USB-port på siden hadde vært supert når vi ønsker raskt å kunne plugge inn minnepluggen eller mobilen. 
+Av portene er det verdt å merke seg Thunderbolt-porten. 
+Det er en høyhastighets-port som kan brukes til alt fra skjermer til eksterne lagringsløsninger. 
+Les mer om Thunderbolt her. 
+
+Maskinen suser en del under bruk, ofte uten at vi helt forstår hvorfor (ved lav belastning). 
+Åpner du en nettside, kan vi nesten garantere at viftene begynner å gå på relativt høy frekvens ganske umiddelbart. 
+Dette kan være sjenerende, spesielt hvis du befinner deg i svært stille omgivelser. 
+
+Lynet McQueen 
+
+Men den oppleves som svært rask, og fra å være helt avskrudd til å være klar for bruk, tar det bare 13 sekunder. 
+Det er kun Samsungs nye 9-serie som har vært raskere blant maskinene vi har testet, med 12 sekunder. 
+Fra hvilemodus tar det bare ett sekund eller to til den er klar. 
+
+En viktig årsak, hvis vi ser bort fra relativt fornuftig Windows-konfigurasjon fra Acers side, er den lynraske SSD-løsningen. 
+I praksis dreier det seg om et helt spesielt RAID-oppsett av to 64 GB SSD-er (som fremstår som én med 128 GB kapasitet). 
+Det gir en lesehastighet på 804 MB pr sekund på det raskeste, og skrivehastighet på 349 MB pr sekund. 
+Dette er vesentlig raskere enn noe annen SSD-løsning vi har testet tidligere. 
+
+I diagrammet under har vi sammenlignet ytelsen mot andre, aktuelle SSD-utstyrte Ultrabooks. 
+Vi har også tatt med en modell med harddisk, for å illustrere forskjellene: 
+
+Når det gjelder prosessor- og grafikkytelse er den på linje med det øvrige i klassen: 
+
+Det betyr i praksis at maskinen løser 99% av alle oppgaver kjapt og smidig, hvis man ser bort fra spill av den mer avanserte sorten. 
+Den er i stand til å håndtere en del nyere spill, men du må forvente å gå ned på oppløsning og detaljrikdom. 
+
+Batteriet målte vi til å holde i 6,5 timer med minimal belastning, og i underkant av 4 timer med kontinuerlig videoavspilling. 
+Det betyr at du, med normal bruk, kan forvente at batteriet holder i 5-5,5 timer. 
+Det er helt grei levetid, vi har sett både dårligere og bedre tider i Ultrabook-klassen. 
+
+Konklusjon 
+
+Ser vi bort fra SSD-ytelsen, som er helt enorm, samt muligheten for å koble til Thunderbolt-utstyr, er denne maskinen helt gjennomsnittlig bra i forhold til Ultrabook-segmentet for øvrig. 
+Vi savner baklyst tastatur, litt mindre vifteaktivitet, samt et par USB-porter på sidene. 
+
+Vi setter et spørsmålstegn ved prisen, som er noe høy i forhold til hva du får igjen, mener vi. 
+Og hva skjer om den motordrevne MagicFlip skulle ta kvelden? 
+Vi liker best best at portene er tilgjengelig hele tiden, men det er kanskje bare oss... 
+
+Acer Aspire S5-391-53314G12akk (NX.RYXED.001) 

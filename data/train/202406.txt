@@ -1,0 +1,91 @@
+Toshiba U920T-10H
+Hybrid ultrabook/nettbrett på en ny måte. 
+Fungerer den bedre enn de andre? 
+
+Toshiba har lang fartstid med tynne og lette PC-er, mange av dem har blitt testet av oss i DinSide de siste årene - ofte med godt resultat. 
+Nå er de på banen med en hybrid-PC spesielt tilpasset Windows 8 og berøring - U920T. 
+
+I likhet med de mange andre hybridene vi har testet det siste halvåret, dreier det seg om en PC som med enkle håndgrep blir til et nettbrett. 
+Men her er det ikke noen skjerm som vris rundt, den bøyes bare helt ned og skyves over tastaturet: 
+
+De fleste av PC-ens tekniske egenskaper kjenner vi godt fra "vanlige" ultrabooker: 
+
+Skjerm: 12,5" berøringsfølsom IPS-skjerm, 1366 x 768 piksler Prosessor: 
+Intel Core i5-3317M RAM: 
+4 GB (maks 8) Grafikkort: 
+Intel HD 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 2 stk USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: b/g/n Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0, hovedkamera 3 Mpix 
+OS: 
+Windows 8 Størrelse: 
+339,7 × 20,9 × 238 mm Vekt: 1,46 kg Pris: 
+Fra 8.995 kr (jf Prisjakt 30.4.2013 
+
+Konstruksjonsmessig er den temmelig annerledes enn de andre hybridene, både når den er PC og når den er nettbrett. 
+For å ta PC-modus først, så forsvinner rundt 20 prosent av tastaturplaten bak skjermen. 
+
+Tastaturet er i full størrelse, noe som dermed har gått ut over pekeplaten, som er vesentlig smalere enn hva som er vanlig på ultrabooker. 
+Den har i tillegg integrerte venstre- og høyreknapper. 
+Det er trangt, og det slår negativt ut på brukeropplevelsen. 
+Det er nemlig ikke uten grunn at multiberøringsplater som regel er mye større. 
+
+Selve tastaturplaten er imidlertid fast og oppleves som grei å skrive på, og avgir nesten ikke noe støy under bruk. 
+Vi liker også hurtigtastene øverst, som kan brukes uten at du behøver holde nede «FN»-tasten. 
+
+Baksiden av skjermen domineres av metallstenger, spor, tannhjul og annen mekanikk, så denne delen har Toshiba ikke brukt ressurser på å "gjemme bort". 
+Vi synes det gir litt prototype-preg. 
+
+Flere spørsmålstegn 
+
+På baksiden sitter også frontlinse til kameraet, men det underlige er at denne er skjult når skjermen er skjøvet inn over tastaturet, og PC-en er i nettbrettmodus. 
+Du må rett og slett skyve litt på konstruksjonen for å få den fram. 
+Vi godtar den, men noen hundreprosentløsning er dette etter vår mening ikke. 
+
+Og sist, men ikke minst: 
+Mekanikken, med stenger, spor og tannhjul klarer ikke å holde skjermen "fast" over tastaturet når man jobber i nettbrettmodus, som du ser i videoen lenger oppe i saken. 
+
+I det hele tatt setter vi noen spørsmålstegn ved konstruksjonen. 
+Har det rett og slett gått litt for fort her, Toshiba? 
+
+Tilkoblingspunktene sitter på siden og bak. 
+HDMI på baksiden er smart, men USB-porten kunne for enklere tilgang ha sittet på siden sammen med, eller på motsatt side av, den andre. 
+
+På venstre side sitter av/på-knapp, lydjustering og knapp for å låse retningssensoren. 
+Alle er temmelig dårlig merket. 
+Spesielt savner vi at av/på-knappen er lett synlig. 
+
+Skjermen er helt OK, men mye gjenskinn kan oppleves som et problem. 
+Oppløsningen er dessuten dårligere enn hva vi forventer av PC-er i 9.000-kronersklassen. 
+Lysstyrken opplevde vi også som dårligere enn på ultrabooker fra Samsung og Asus i samme klasse, og den avtar også mye raskere fra sidene enn på disse modellene. 
+
+Slik er den i bruk 
+
+Til all vanlig bruk oppleves maskinen som kjapp og fin. 
+Den er svært støysvak, men viftene starter en gang i mellom når belastningen blir for stor - uten at vi noen gang kan påstå at den er slitsom. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+4,8 Spillgrafikk: 
+6,2 Primær harddisk: 
+8,1 
+
+Ytelsen er helt i tråd med tilsvarende ultrabooker, foruten SSD-en, som absolutt ligger i øvre sjikt med lesehastighet på 465 MB per sekund, og skrivehastighet på 373 MB per sekund (sekvensiell les/skriv av store filer). 
+Dette er flere ganger raskere enn en vanlig harddisk, og bidrar til en god totalopplevelse av ytelsen. 
+
+Batteritiden er imidlertid et ankepunkt. 
+Toshiba anslår fire timer med variert bruk. 
+Med svært lav belastning klarte vi å tyne levetiden til fem timer og ti minutter, så anslaget fra Toshiba er nok temmelig riktig under variert bruk. 
+Det er mange ultrabooker som er vesentlig mer seiglivet, fire timer er godt under snittet sett i forhold til andre modeller i samme prisklasse vi har testet. 
+
+Konklusjon 
+
+Selve tanken bak denne skyveløsningen er god, men gjennomføringen er vi ikke like fornøyd med denne gangen. 
+Vi synes U920T-10H virker uferdig rent konstruksjonsmessig, og med middels skjerm og batteritid på godt under hva vi hadde forventet, har vi ikke noen tro på at dette blir en suksess for Toshiba. 
+
+Toshiba Satellite U920t-10H 

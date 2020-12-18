@@ -1,0 +1,155 @@
+Samsung Wave II S8530
+Bada-mobilen er "oppgradert", men spørsmålet er om Samsungs eget operativsystem vil bli en suksess. 
+
+Det er et halvt år siden vi testet Samsung Wave S8500; en telefon vi var ganske godt fornøyde med 
+
+Selv om Wave II er større enn forgjengeren, er lite forandret ved selve designen, og telefonen fremstår fortsatt som en delikat sak, med stor skjerm og fine knappeløsninger, selv om den føles noen millimeter unødig høy. 
+
+Wave II er heller ikke veldig forskjellig fra den første Wave-telefonen når det gjelder innmat. 
+Det er først og fremst skjermen som er blitt større, der størrelsen er økt fra 3,3" til 3,7". 
+Det gjør også at telefonen har blitt større enn tidligere (5mm lengre, 4mm bredere og 1mm tykkere) og også veier mer (135g vs 116g). 
+
+Forgjengeren hadde også en Super AMOLED-skjerm som vi var svært fornøyde med, med svært god fargemetning og høy kontrast, men denne har blitt erstattet med en såkalt Super LCD-skjerm, som gjør at Wave II ikke stikker seg like mye ut i mengden som forgjengeren, men som vi allikevel opplever som meget god. 
+
+Sortnivået er imidlertid ikke like mørkt som Super AMOLED-skjermen på f.eks. Samsung Omnia 7 (test rett rundt hjørnet), og side om side ser vi en klar kvalitetsforskjell på det punktet. 
+
+Presis skjerm 
+
+Samsung-skjermen oppleves uansett som presis med tanke på berøringsfølsomhet, og det er svært sjelden vi opplever å trykke feil. 
+På baksiden liker vi godt hvordan Samsung har løst låsemekanismen for batteriluken, der du må skyve på en bryter for å få lokket til å åpne seg, men der bryteren er solid nok til at du ikke gjør det ved et uhell; faktisk mer solid enn hva tilfellet er på selskapets Omnia 7-telefon. 
+Minnekortet ligger gjemt bak batteriet og kan derfor ikke byttes med mindre telefonen slås helt av. 
+
+Ellers er lite forandret fra den første telefonen - de har like rask prosessor, de samme kameramulighetene (5Mp stillbilder, 720p video) og like mye internminne etc. 
+Faktisk er også oppløsningen på skjermen den samme (480x800), selv om størrelsen har økt. 
+
+Dedikert kameraknapp 
+
+Vi setter spesielt pris på den dedikerte kameraknappen, som riktignok har vært vanlig på mobiltelefoner i lang tid, men som faktisk ikke veldig mange smarttelefoner kan by på. 
+Holder du denne inne noen tideler, startes kameraapplikasjonen uansett hvor du måtte befinne deg, og den brukes også som utløserknapp for å ta bilder. 
+Bildeeksempler får du se lenger ned i testen. 
+
+Kameraapplikasjonen er også meget godt utført, der ikoner på sidene gir deg mulighet til å stille på hvitbalanse, eksponeringskompensasjon, blitsbruk etc. 
+- alt veldig lettvint og kjapt å endre. 
+
+Fremdeles setter liker vi også løsningen Samsung har laget på micro USB-uttaket, der et ekstra lokk beskytter USB-porten når denne ikke er i bruk. 
+Etter å ha gått med en smartmobil (og alltid bare det) i venstre bukselomme i noen år nå, kan jeg skrive under på at det etter hvert kan samles litt lo i en slik port. 
+
+Av og på-bryteren er også plassert på siden av telefonen i likhet med flere andre Samsung-telefoner, noe som er litt uvant, siden de aller fleste konkurrentene har den plassert på toppen. 
+Underveis innså vi at dette faktisk var en ganske god plassering når du holder telefonen i én hånd, siden knappen da er plassert direkte på fingeren uten at du trenger å endre grep. 
+
+Nederst på forsiden finnes tre knapper; en som legger på eller lukker aktivt program, en som åpner app-menyen og en som viser aktivitetsloggen, men som tilsynelatende kun fungerer når du ser hjemmeskjermen. 
+Etter å ha prøvd en del Android-telefoner synes vi godt at denne knappen kunne ha vært en universell tilbake-knapp. 
+
+I bruk 
+
+Undertegnede hadde ikke prøvd en Bada-telefon før denne modellen, men opplever Bada-systemet som lett å sette seg inn i om du har litt erfaring med smarttelefoner fra før (også denne telefonen har Samsungs Touchwiz-grensesnitt som de også har på Android-telefonene). 
+
+Grensesnittet er pent utført med god fargebruk, tydelig skrift og gjennomgående store ikoner slik at du slipper å sikte. 
+Hjemmeskjermen er delt opp på samme måte som på Android, der bakgrunnsbildet beveger seg bittelitt når du sveiper til sidene. 
+Det er også lett å organisere hjemmeskjermene, legge til og fjerne etc. ved å legge telefonen i landskapsmodus. 
+
+Stort sett er applikasjonene også standardiserte slik at du nederst til venstre finner en knapp for "ok", "søk", "neste" etc, mens nederst til høyre har "tilbake", "avbryt" og så videre. 
+Dog strider det litt med hva som føles naturlig, der de i hvert fall i våre øyne burde ha vært byttet om, og så finnes det enkelte uregelmessigheter slik at en send-knapp blir til slett-knapp på neste skjermbilde, så det gjelder å følge med. 
+
+Den presise skjermen går at Bada-tastaturet er godt å skrive på, og det har også Swype-lignende funksjonalitet (Nuance T9 Trace) der du bare kan dra fingeren over bokstavene i ordet uten å slippe dem, selv om vi har inntrykk av at Swype (Android-applikasjon) er flinkere til å finne de riktige ordene i ordlista. 
+
+Som med en del Android-telefoner får du også såkalt tactile feedback, slik at telefonen vibrerer litt hver gang du trykker på en knapp. 
+Vibreringen fra Samsung Wave II er også, i mangel på et bedre ord, tight og kjennes i hånda uten at telefonen bråker. 
+Dog har den også sin ulempe ved at den ikke er like merkbar når telefonen ligger i lomma og du får en tekstmelding e.l. 
+
+Gode applikasjoner følger med 
+
+Applikasjonene Samsung har laget selv ser også veldig pene ut og gir en innbydende opplevelse av telefonen. 
+Rett ut av esken får du også godt med funksjonalitet, som aksesspunkt-mulighet der telefonen fungerer som en WiFi-ruter og bruker mobilnettet for nettilgang for opp til tre andre enheter, noe som for øvrig er tilgjengelig på Android (fra v2.2 og oppover), samt den kommende utgaven av iOS. 
+
+Videospilleren fungerer meget godt og støtter både Divx og .mkv-filer rett ut av boksen; også med støtte for undertekster. 
+Musikkspilleren er også pent utført, og en praktisk ting er at låseskjermen inneholder avspillingskontrollere dersom du spiller musikk og låser telefonen, slik at f.eks. kan hoppe til neste sang direkte fra låseskjermen. 
+I tillegg får du med musikkgjenkjenning, muligheter for spillelister, favoritter etc., men ingen mulighet for å hente cover-grafikk på nettet. 
+Fra musikkspilleren kan du også sette en sang direkte som ringetone (gjerne på én kontakt om du vil), alarmlyd, sms-tone etc. 
+
+Positivt er det også at telefonen kan kobles til datamaskinen som en masslagringsenhet, slik at du bare kan kopiere over filmer, musikk og bilder som om den var en vanlig minneplugg. 
+Dog er det litt knotete at du må huske å aktivere dette før du kobler telefonen til PC-en. 
+
+En del irritasjoner 
+
+Dog er det to ting ved Bada som er problematisk: 
+
+* 
+En god del irritasjonsmomenter i programvaren 
+* Dårlig støtte fra tredjeparter 
+
+Tar vi irritasjonsmomentene først, er det flere av dem. 
+Her er noen eksempler (og det finnes flere): 
+
+Stadig mas om WiFi-oppkobling 
+- Nesten hver gang vi tar i bruk datanettet, får vi spørsmål om å koble oss på et WLAN dersom det er noe tilgjengelig, selv om vi har fin 3G-dekning. 
+Å starte Samsung Apps (Samsungs app store) gjør at vi får spørsmål om vi vil koble oss på et WLAN (faktisk to ganger), og det samme gjelder når man starter nettleseren, Facebook eller andre ting (trykk på "refresh" og du får spørsmålet enda en gang). 
+Til tross for dypdykk i menyene har vi ikke klart å finne noe som forhindrer dette, utover å slå av WiFi.Sikkerhetsmekanismen har ingen timer 
+- Både på Android og iOS "husker" telefonen at du er logget inn i X antall minutter selv om skjermen slukker. 
+På Bada-plattformen må du taste inn sikkerhetskoden hver gang skjermen har slukket.Nettleseren (Dolfin Browser [sic]) komprimerer bilder 
+- Dette gjør selvsagt at den ikke trenger å laste ned like mye data, men vi finner ingen mulighet for å slå det av; ei heller om du er koblet på WiFi. 
+Det gjør at nettsider ikke ser like innbydende ut som på andre plattformer, som du ser eksempel på under: 
+
+I tillegg er Bada-støtten dårlig på nettsteder. 
+På de fleste av de store norske nettstedene får du fullversjonen, og ikke mobilversjonen av nettstedet. 
+Det er selvsagt ikke noe Samsung og Bada skal klandres for, men illustrerer allikevel manglende støtte fra tredjeparter. 
+
+Nettleseren skalerer heller ikke sidene godt dersom du dobbeltklikker på et avsnitt, og skrolling til sidene blir derfor nødvendig. 
+Dette klagde vi også på da vi testet Samsung Wave, uten at det er blitt fikset i versjon 1.2 av operativsystemet (som Wave II gis ut med). 
+
+Uheldigvis for Samsung virker det ikke som om Bada har fått noe fotfeste blant utviklere ennå. 
+Deres App 
+Store teller fortsatt bare et firesifret antall apps, og det er mye som mangler. 
+Glem de hotte lokasjonsbaserte tjenestene som Gowalla og Foursquare (og Facebook Places for den saks skyld), fotodelingstjenester som Instagr.am og PicPlz, musikktjenester som Spotify, meldingstjenester a la Kik eller superhiten Angry Birds. 
+Det var greit i fjor sommer da plattformen var relativt ny, men det er ikke like greit nå, selv om i hvert fall sistnevnte (fuglene, ja) skal være under utvikling. 
+I tillegg er f.eks. Facebook-appen et par hakk bak konkurrentene, der det ikke er mulig å like andres oppdateringer; ei heller mulighet for å sjekke inn via Facebook Places. 
+
+Det er også synd for Samsung at de ikke har større brukermasse på Bada-plattformen, for etter å ha gått igjennom ganske mange elementer i topplisten over apps, har vi ikke klart å finne én kommentar fra en bruker, selv om mange apper har rating på mer enn fire av fem stjerner (det finnes heller ikke informasjon om hvor mange som har stemt). 
+Risikoen for et bomkjøp er med andre ord godt til stede, og appene vi har testet har varierende kvalitet. 
+
+Kamera 
+
+Kameraet, derimot, er vi godt fornøyde med på Samsung Wave II. 
+Det er godt over gjennomsnittet på bildekvalitet, med relativt god skarphet. 
+Lysmåleren lar seg ofte lure i motlys, så eksponeringskompensasjon er svært kjekk å ha. 
+
+Men typisk - utendørsbilder blir vesentlig bedre enn innendørs, og med begrenset lysstyrke på optikken er det ofte vanskelig å få skarpe innendørsbilder, selv om blitsen hjelper noe. 
+
+Under ser du eksempler på bilder tatt med Wave II: 
+
+Og her et par eksempler på video, der Wave II også er blant de beste på markedet med meget god videokvalitet, og ikke minst - klar og fin lyd sammenlignet med mange andre: 
+
+En funksjon vi må trekke frem er muligheten til å filme med et høyt antall bilder pr sekund, slik at sluttresultatet blir i sakte film; riktignok med redusert oppløsning (320x240). 
+
+Lydkvalitet 
+
+Under testingen opplevde vi Wave II å ha god kvalitet under samtaler, og det medfølgende øreproppsettet er bedre enn hos mange andre, med støyisolerende gummi på tuppen. 
+Dog er det i overkant mye diskant og lite bass i dem, som til dels kan kompenseres for i telefonens innebygde equalizer. 
+De medfølgende proppene er også lettdrevne og gjør at det er mulig å spille ganske høyt - noe vi vet mange er opptatt av. 
+
+Verre er det med den eksterne høyttaleren, som ikke er spesielt god, og som heller ikke spiller så høyt. 
+Ringetonen er derfor vanskelig å høre utendørs med telefonen i lomma; spesielt når vibreringen heller ikke er like markert som på andre telefoner. 
+
+Batterilevetiden oppleves som god, og batterimåleren virker å være meget presis slik at du slipper ubehagelige overraskelser. 
+Under testingen ladet vi telefonen cirka annenhver dag, men det er selvsagt også en av fordelene med at telefonen ikke multitasker skikkelig. 
+
+Konklusjon 
+
+Det er vanskelig å trille terning Samsung Wave II. 
+Det er en telefon med god og presis skjerm, rask og fin respons, god ergonomi og et kamera som er blant de bedre i dagens marked. 
+Applikasjonene som følger med holder også god kvalitet, og både musikkspiller og videospiller er meget gode. 
+
+I tillegg er prislappen ganske fin, der telefonen i skrivende stund ligger et par hundrelapper under tilsvarende Android-telefoner maskinvaremessig. 
+I utgangspunktet er Samsung Wave II derfor mye telefon for pengene. 
+
+Dog har operativsystemet sine svakheter, som riktignok kan rettes opp i neste utgave, som forventes lansert til sommeren. 
+Det store spørsmålet er imidlertid om Bada vil være en aktuell plattform i fremtiden, eller om Android, iOS, Symbian og muligens Windows Phone 7 blir for store for Samsung å håndtere som eneste Bada-produsent (Bada er et foreløpig et lukket system, på samme måte som Apples iOS). 
+Det er ikke noe man bør trekke for når en plattform er splitter ny, men det begynner å bli et race mot klokka for Samsung på dette punktet dersom Bada skal overleve dagens smartmobilmarked. 
+
+Mangelen på apps i applikasjonsbutikken og generell støtte for tredjeparter er åpenbar, og når Samsung satser både i Android- og Windows Phone 7-markedet (og blant annet leverer sine beste skjermer til disse plattformene), føles det som om Bada står litt på sidelinjen. 
+Vi ville derfor ha ventet med et eventuelt kjøp 
+- Bada-plattformen har et potensiale, men om det skal bli en suksess, må Samsung gire opp et par hakk. 
+
+Og det ganske snart. 
+
+Samsung Wave 2 GT-S8530 

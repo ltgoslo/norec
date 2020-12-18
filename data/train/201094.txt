@@ -1,0 +1,138 @@
+Asus ZENBOOK Touch UX31LA
+Flaggskipet er forbedret på mange punkter. 
+Resultatet er strålende. 
+
+UX31LA er tredje generasjon UX31-bærbare fra Asus, og den første med berøringsskjerm. 
+Fra før har vi testet originalen UX31 fra 2011 og UX31A fra 2012, begge snuste på toppkarakteren og ble kronet med Anbefalt Produkt-stempel, men hadde noen små ankepunkter som gjorde at de ikke fikk sekser på terningen. 
+
+Alle gode ting er 3. generasjon 
+
+Nå har Asus hatt nesten to år på seg til å finpusse maskinen, og det er nettopp det de har gjort. 
+Vel vitende om at de hadde klart å skape et bra ultrabook-konsept, har de gjort noen små, men viktige justeringer for å perfeksjonere det. 
+
+De viktigste endringene fra UX31A er følgende: 
+
+Modellen har nå fått blank berøringsskjerm. 
+UX31A hadde blank, passiv skjerm. 
+Windows 8 erstatter Windows 7 Siste generasjon Intel-prosessor og grafikk, "Haswell", skal sørge for mindre strømbruk og dermed også bedre batteritid Støtte for den nye trådløse AC-standarden, som åpner for bedre rekkevidde og hastighet på trådløsnett Raskere SSD-løsning Forbedret pekeplate 
+
+Øvre prissjikt 
+
+Modellen kommer med en rekke forskjellige konfigurasjoner, og prisene varierer fra 10.490 kroner for den enkleste med Intel Core i5-4200U og 4 GB RAM, til 12.990 kroner med Core i7 og 8 GB RAM, ifølge Prisjakt. 
+Det er med andre ord mange ultrabooks på markedet som er langt billigere, men de har som regel lavoppløste skjermer og enklere innmat. 
+
+Her er en rask oversikt over de viktigste egenskapene ved vårt testeksemplar: 
+
+Skjerm: 13,3" multiberøringsfølsom IPS-skjerm, 1920 x 1080 piksler (full HD) 
+Prosessor: 
+Intel Core i7-4500U RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD 4400 Lagring: 
+2 x 128 GB SSD i RAID 0, totalt 256 GB Optisk drev: 
+Nei Skjermutganger: 
+Mini-DisplayPort og Mini-HDMI USB-porter: 2 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/MMC Trådløst nett: 
+802.11AC (Intel Wireless-AC 7260) 
+Kablet nett: 
+Nei* Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 64 bit Størrelse: 32,5 x 22,6 x 1,8 cm Vekt: 1,4 kg Pris: 
+12.990 (MPX.no 12.8.2013)* Mulig ved hjelp av USB->Ethernet-adapter 
+
+Dette er utvilsomt blant de kraftigste ultrabookene vi har hatt på testbenken noensinne, med det nødvendigste av tilkoblinger. 
+Den største endringen på tilkoblingssiden fra forgjengeren er at VGA-utgangen er byttet ut med DisplayPort: 
+
+Det gjør det blant annet mulig å koble PC-en til eksterne skjermer med høyere oppløsning enn full HD, noe som blir mer og mer aktuelt i disse dager. 
+
+God skjerm, veldig blank 
+
+Den interne skjermen har også plass til mye, og gir sylskarp tekst og bildedetaljer, takket være full HD-oppløsning. 
+Lysstyrke og innsynsvinkler er meget bra, men merk at overflaten er veldig blank, noe som ikke er like gunstig i alle lysforhold på grunn av gjenskinnproblematikk. 
+
+For øvrig er kabinettet veldig likt forrige generasjon, og det har vi definitivt ikke noe i mot. 
+Designen er i våre øyne meget god, og utførelsen er solid og gjennomtenkt. 
+Likhetstrekkene med MacBook Air er mange, ikke minst den lett skrånende designen fra siden. 
+
+Allt tilkoblingene sitter på venstre og høyre side. 
+
+Tastaturet har fått baklys. 
+Du kan selv velge om det skal tennes automatisk eller manuelt, og du kan også justere lysstyrken. 
+Det er fast og fint, og avgir lite støy under skriving. 
+Vi liker imidlertid ikke plasseringen av av/på-knappen like over backspace-tasten. 
+
+Et av ankepunktene på forgjengeren var at pekeplaten var veldig følsom. 
+Dette er nå fikset, og vi har absolutt ikke noe utsette på den store, multiberøringsfølsomme pekeplaten. 
+
+Fingeravtrykk vises nesten ikke, verken på inn- eller utsiden. 
+
+Bra lyd 
+
+Høyttalerne er fortsatt merket Bang & Olufsen ICEpower, og lyden er helt i toppen sammenlignet med andre Ultrabooks. 
+Den har naturligvis sine dynamiske begrensninger, men er mer enn god nok til lett bakgrunnsmusikk, YouTube og nett-TV, og det er nok også hensikten. 
+
+Strømpluggen har en praktisk 90-graders knekk, noe vi liker bedre enn dem som stikker rett ut. 
+De er ofte mer utsatt for brudd. 
+
+Bunnplaten er heltrukket og også av aluminium, og du trenger torx-trekker for å få tilgang til innmaten: 
+
+I bruk og målt ytelse 
+
+Fra du skrur på maskinen til den er klar til bruk tar det knappe 8 sekunder. 
+Det er faktisk det raskeste vi har målt noensinne, og en betydelig forbedring fra forgjengerens 24 sekunder - den gang riktig nok utstyrt med Windows 7. 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra McAfee (prøveversjon). 
+Denne påvirker ikke bruksopplevelsen i særlig grad, PC-en responderer kjapt i nær sagt alle situasjoner, men kommer med temmelig mange irriterende advarsler, blant annet om å aktivere og betale for å fortsatt være sikret etter prøveversjonen. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest). 
+Bak pipetegnet har vi oppgitt ytelsestallet fra UX31A, og vi ser at det er forbedringer over hele fjøla: 
+
+Prosessor: 7,2 | 
+7,1 Minne: 7,6 | 5,9 Grafikk: 6,5 | 6,4 Spillgrafikk: 6,5 | 6,4 Primær harddisk: 
+8,4 | 7,9 
+
+Stille som en musling 
+
+Morsomt er det da - at selv om ytelsen er forbedret, har kjølebehovet gått ned. 
+I praksis er denne maskinen nærmest lydløs i de aller, aller fleste situasjoner. 
+Kun ved svært tung belastning over tid vil vifterotasjonen være særlig hørbar, og dette er den eneste støykilden på UX31LA. 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og under har vi oppgitt noen av de mer sentrale tallene, og krydret dem med våre kommentarer: 
+
+Prosessor: 4187 poeng. 
+I praksis blant de kraftigste prosessorene i ultrabook-segmentet. 
+Det betyr god ytelse til de aller, aller fleste oppgaver, også videoredigering og -komprimering. 
+Det finnes langt kraftigere prosessorer, men de sitter i større maskiner beregnet på andre bruksområder. 
+
+3D-Grafikk: 556 poeng. 
+Det høyeste tallet vi har målt så langt på integrert Intel HD-grafikk. 
+Ca 50% høyere tall en snittet for forrige generasjon, noe som er mer enn vanlig, takket være den raske minnekonfigurasjonen i denne PC-en. 
+Ytelsen er god nok til å spille relativt krevende spilltitler fra et par år tilbake, hvis du går ned på detaljnivå og oppløsning. 
+Det er med andre ord ikke noe for gaming-entusiaster, men godt nok for alle andre. 
+Merk også at alt av 2D-spill og høyoppløst video går helt glatt. 
+
+Harddisk/SSD Lesehastighet maks 802 MB pr sekund. 
+Skrivehastighet maks 558 MB pr sekund. 
+Kort sagt ekstremt gode resultater, og der har vi forklaringen på den lynkjappe oppstarten. 
+Årsaken ligger i at maskinen er utstyrt med to SSD-er i RAID-oppsett, begge av den raske typen. 
+Dette bidrar til at dette faktisk er den raskeste ultrabooken vi har testet, med god margin. 
+
+Forbedret batteritid 
+
+Batteritiden er god, om ikke helt på nivå med markedslederen Apple MacBook Air. 
+Med minimal belastning og standardinnstillinger holdt batteriet i 10 timer. 
+Det er omtrent identisk med hva vi oppnådde med forgjenger UX31A. 
+Den store forbedringen kom imidlertid under videoavspilling. 
+Der holdt batteriet ut i 5 timer og 38 minutter, noe som er mer enn én time bedre enn forgjengeren. 
+
+Under variert, lett bruk bør du kunne forvente en batteritid på 7-8 timer, altså inntil en time bedre enn forgjengeren. 
+
+Konklusjon 
+
+Dette er utvilsomt blant de aller beste ultrabookene på markedet, og er nå på høyde med blant annet 9-serien fra Samsung. 
+Prismessig ligger den da også i et leie der du bør kunne forvente dette, men er du mest opptatt av kvalitet og gode ytelser blir du neppe skuffet om du velger UX31LA. 
+
+Les uansett testene av de andre sekserne Acer Aspire S7, Samsung 9-serie, nye Apple MacBook Air, samt våre plusser og minuser i oppsummeringsboksen under, før du eventuelt bestemmer deg. 
+
+Modellen er tilgjengelig fra rundt 15. august, oversikt over konfigurasjoner og forhandlerer finner du hos Prisjakt. 

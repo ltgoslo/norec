@@ -1,0 +1,133 @@
+HP Photosmart C8180
+Vi har testet det som sannsynligvis er verdens mest funksjonsrike funksjonsskriver. 
+
+Utvalget og salget av rene blekkskrivere skranter. 
+Nå er det multifunksjonsskrivere det fokuseres på, både hos produsentene og i markedet generelt. 
+Det er her den store utviklingen skjer, og HP sitter i førersetet sammen med Canon, Epson og Lexmark. 
+
+LES OGSÅ: 
+
+For noen år tilbake var multifunksonsskrivere ofte satt sammen av nest-best teknologi for å holde prisene på et akseptabelt nivå. 
+Slik er det ikke lenger, du kan få en meget god multifunksjonsskriver for 1.500-2.000 kroner som består av kvalitetsdeler fra A til Å. 
+
+Delene er blitt billigere, men det hender ikke sjelden at produktene selges med tap. 
+Grunnen er ganske enkelt at en skriver er like lite en engangskostnad som mobilen din. 
+Blekket holder ikke evig, verken i antall sider eller datomessig, og kostnaden knyttet til innkjøp av nye kan være betydelig. 
+
+Tvinges til å tenke nytt 
+
+Kvaliteten på utskriftene har nådd et så høyt nivå selv på de rimeligste produktene, at den jevne forbruker ikke klarer å skille fotoutskriftene fra laboratoriebilder. 
+Dermed tvinges bransjen til å tenke alternativt for å opprettholde (og helst øke) kjøpelysten i markedet. 
+
+Kamerabransjen er et godt eksempel på at man drar strikken langt i innovasjonsavdeleingene. 
+Folk er fortsatt fornøyd med kameraet de kjøpte i 2005, derfor bakes det for eksempel inn smile- og slankefilter, briller, barter og morsomme hatter på bildene fra nye kameraer, for å få deg til å ønske deg nytt kamera til jul. 
+
+Skriverbransjen baker også stadig flere flere funksjoner inn i produktene. 
+Utskrift på CD og DVD er et godt eksempel på slik funksjonalitet, og som folk faktisk finner nyttig. 
+HP fikk derimot aldri helt dreisen på dette med utskrift direkte på plate, så hvorfor ikke bygge en DVD-brenner inn i selve skriveren? 
+Det er her HP Photosmart C8180 kommer inn i bildet - den mest funksjonsrike multifunksjonsskriveren vi har sett til dags dato. 
+
+Listen over funksjoner er ikke mindre enn meget imponerende: 
+
+Skriver ut dokumenter med inntil 34 sider pr minutt (NB! HP sitt tall) 
+Ekte fotoskriver med egen skuff for fotopapir (6 blekkfarger) 96-bit skanner med integrert dias/negativ-modul Kopimaskin CD/DVD-brenner med LightScribe-støtte, dvs du kan "brenne" etiketter på platene Kortleser for de fleste aktuelle minnekorttypene Egen inngang for direkteutskrift fra kameraer og minneplugger 8,9 cm stor (3,5") trykkfølsom skjerm Innebygd fotoredigeringsprogram (henter bilder fra CD og minnekort) Trådløs tilkobling (WLAN 802.11b/g) 
+Ethernet-tilgang (kablet nettverk) USB-tilkobling Bluetooth-tilkobling for utskrift fra f. eks mobiltelefoner Kan brukes uten PC-tilkobling 
+
+Er det noe som helst vi savner? 
+Det måtte være faksmulighet, som tradisjonelt har vært en del av de dyrere modellene, men det er naturligvis ikke kontoristene HP ønsker å nå med dette Photosmart-produktet, det er hobbyfotografer og hjemmebrukere. 
+
+Man skulle kanskje også forvente at den innebygde brenneren brukte blekk for å påføre trykk/etikett på platene, men den gang ei. 
+Det kommer kanskje i neste versjon? 
+LigthScribe er egentlig en lasergravering. 
+Du brenner platen på vanlig måte. 
+Etterpå tar du den ut og snur den, og "inngraveringen" setter i gang. 
+Mer om dette senere i denne testen. 
+
+Enkel installasjon som tar noe tid 
+
+Oppsettet er rimelig enkelt, full installasjon av drivere og nødvendige programmer opptar 326 MB (i Vista). 
+Full installasjon beslaglegger 348 MB, noe som er betraktelig mindre enn forrige gang vi testet en multifunksjonsskriver fra HP (C5180 i fjor - mer enn 1 GB). 
+Installasjonsprosessen er imidlertid tidkrevende, vi synes nesten synd på dem som sitter på tregere maskin enn vår test-PC, i hvert fall hvis det haster å få ut første utskrift. 
+
+Også initialiseringen av skriveren tar noe tid, her skal det kalibreres og ordnes, alt du behøver å gjøre er imidlertid å besvare noen enkle spørsmål på skjermen. 
+
+Når installasjonen er ferdig, og hvis du koblet skriveren til PCen når du fikk beskjed om det, er det bare å sette i gang. 
+DVD-brenneren har dukket opp som egen stasjonsbokstav i Utforsker, og kan brukes som hvilken som helst annen DVD-stasjon. 
+Kortleseren har også fått sin egen stasjon. 
+
+Skal du ha fullt utbytte av brenneren trenger du imidlertid brenneprogramvare, og det kommer på en egen CD som må installeres separat. 
+Roxio Creator Basic versjon 9 er ikke siste utgave av denne programvaren, men nest siste. 
+CDen inneholder også et avspillingsprogram for DVD-filmer og etikettprogram for LightScribe. 
+Ønsker du å installere hele sulamitten må du først sørge for at du har 873 MB ledig plass på harddisken. 
+
+Så kom problemene 
+
+DVD-brenneren er av samme type som sitter i bærbare PCer, og støyer langt mindre enn de fleste som sitter i stasjonære utgaver. 
+Den støtter alle aktuelle formater, inkludert DVD-RAM. 
+
+Problemet er imidlertid at Roxio ikke er kjent for å lage de mest stabile programmene på markedet, noe vi fikk erfare allerede første gang vi puttet inn en tom CD i brenneren (denne var attpåtil levert av HP selv): 
+
+Det frosne bildet tinte heldigvis da vi tok ut CDen, som altså ikke ble gjenkjent som en blank CD. 
+Vi tok ut CDen for å prøve å lage etikett på den ved hjelp av LightScribe-teknikken. 
+Det resulterte i følgende: 
+
+Vi prøvde med en annen plate, men resultatet ble det samme. 
+Vi har dessverre ikke hatt tid til særlig feilsøking, men at kompatibilitetsproblemer med Vista kan være årsaken er vel mer enn overhengende sannsynlig. 
+
+Må oppdateres! 
+
+Om vi ikke ble helt overbevist over DVD-funksjonaliteten, ble vi derimot langt mer fornøyd med fotofunksjonaliteten. 
+Ved hjelp av HP Photosmart Essential 2.0, som er en fin bildeorganisator med noe uvant grensesnitt, var det enkelt å skrive ut fotokort i 10x15 cm og en haug med andre formater og oppsett. 
+Fotokortene ligger i en egen skuff over den vanlige papirmateren, slik at du slipper å sette inn ark hver gang du skal skrive ut et bilde. 
+
+Men også her opplevde vi ustabilitet dessverre, både i form av heng og til slutt også full krasj. 
+
+Det viste seg at selv om denne skriveren nettopp har dukket opp i butikkene, er den utstyrt med en gammel versjon av Photosmart Essential. 
+En oppgradering fra 2.0 til 2.5 var tilgjengelig fra nettet, og med denne installert gikk alt mye bedre. 
+Men programmet er til tider tregt å jobbe med. 
+Vi endte derfor opp med å bruke Windows Fotogalleri, som både er raskere og etter vår mening langt bedre til enkle fotoutskriftsjobber. 
+
+Særdeles bra fotokvalitet 
+
+Kvaliteten på fotoutskriftene er svært høy, det er for det blotte øye ikke mulig å si om våre fotoutskrifter er bedre eller dårligere enn de beste i fotofremkallingstestene vi har utført. 
+Kontrasten er ikke optimal like etter utskrift (premium fotopapir), det tar noen minutter, men resultatet er særdeles bra. 
+
+Vi testet også skannekvaliteten, og som du ser i illustrasjonen under er det dynamiske omfanget svært høyt. 
+Det er kun et fåtall skannere vi har testet som har klart å fange detaljene i "gråtone 5%"-feltet som du ser på illustrasjonen under. 
+Det tok ca 30 sekunder å skanne en hel A4-side i 300ppi oppløsning, inkludert klargjøring av lampen. 
+
+God fargegjengivelse og en rekke innstillingsmuligheter er også positive egenskaper ved skannerdelen. 
+
+Raskere med enkle inngrep 
+
+Hva så med hastigheten? 
+Spesifikasjonene lover ekstremt høye utskriftshastigheter, men vi vet av erfaring at slike tall må tas med en stor klype salt. 
+Det er et paradoks at mens oppgitt hastighet har økt fra rundt 10 til godt over 30 sider pr minutt på de beste blekkskriverne siden vi først begynte testingen for snart ti år siden, er den reelle økningen langt mindre. 
+
+I kladdekvalitet klarte vi å skrive ut 5 tekstsider på 29 sekunder. 
+Da er ca 7 sekunder med kverning før utskriften starter, tatt med. 
+Det betyr uansett at ved kontinuerlig utskrift - i kladdekvalitet - bruker skriveren 4-5 sekunder pr side, noe som betyr 12-15 sider i minuttet. 
+Misforstå oss rett, det er bra tall, men det er fortsatt under 50% av oppgitt tall. 
+
+Webutskrifter i farger ekspederes kjapt, 3 sider på rundt 20 sekunder er meget bra - sett i forhold til klassen for øvrig. 
+
+Bruker du Photosmart Essential til å skrive ut fotokort tar det rundt 1 minutt pr bilde, hvis du ikke gjør endringer i innstillingene. 
+Ved å gå ned fra "Best" til "Automatisk" kvalitet halverte vi utskriftstiden, uten at kvaliteten led merkbart av den grunn. 
+Men det krever altså at du må gjøre et par ekstra inngrep før du trykker på skriv ut-knappen. 
+
+Vi målte også tiden på enkel kopiering via frontpanelet. 
+En magasinside ble kopiert på rundt 40 sekunder, enten vi valgte farger eller sort/hvitt. 
+Det er ikke mer enn gjennomsnittlig kjapt i forhold til multifunksjosskrivere vi har testet tidligere. 
+
+Konklusjon 
+
+Vi hadde gledet oss til å teste brenneren og LightScribe-funksjonaliteten, men måtte skuffet innse at ikke alt fungerte som forventet i Windows Vista. 
+Vi setter også spørsmålstegn ved at skriveren, som akkurat har kommet i butikkene, leveres med gamle versjoner av HP-programvaren. 
+En oppgradering er faktisk påkrevd for å få en tilfredsstillende opplevelse med denne skriveren - vel og merke i Vista - muligens er det enklere i Windows XP. 
+
+For øvrig ble vi svært imponert over det brede utvalget av funksjoner og de mange tilkoblingsmulighetene, og ikke minst - enkelheten i bruk. 
+Å betjene skriveren frittstående til kopier og utskrifter av bilder er en lek, her har mange produsenter noe å lære av HP. 
+
+Kvaliteten på alle typer utskrifter er i toppklasse, men vi hadde kanskje forventet litt mer av hastigheten enn hva vi klarte å oppnå, særlig på fotoutskrifter. 
+Og 3.500 kroner er tross alt en god del penger. 
+Totalt sett kan det derfor ikke bli mer enn en firer på terningen denne gangen. 

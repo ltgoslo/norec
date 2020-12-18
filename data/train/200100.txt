@@ -1,0 +1,57 @@
+Pinnacle Studio 11
+Et halvt år er gått siden versjon 11 ble testet, vi har testet igjen. 
+
+Vi har testet Pinnacle Studio gjennom flere år, og vår erfaring er at det ikke bare er når de nye versjonene lanseres at det har skjedd mye med programmet. 
+Det kommer også viktige oppgraderinger underveis, som øker stabiliteten og får på plass til dels skranglete sider sider av programmet. 
+
+LES OGSÅ: 
+
+Når det er riktig å lansere en versjon, hvor mye feil som kan godtas osv. 
+er en evig diskusjon. 
+Vi har uansett gitt Studio 11 en ny sjanse i denne omgang, siden det var en del sider ved programmet som ikke fungerte tilfredsstillende da versjon 11 først kom på banen. 
+
+Det var ved det relativt tunge videoformatet AVCHD at vi støtte på disse problemene, de andre formatene gikk greit. 
+Men i den nye versjonen har det blitt gjort en del forbedrnnger i AVCHD-håndteringen, pluss at støtten for brennere har blitt ryddet opp i. 
+Den opprinnelige versjonen fant jo ikke nabge helt ordinære DVD-brennere. 
+
+Versjon 11.1 
+
+Versjonen vi nå har testet har nummeret 11.1.0.5219, kjekt å vite for de som har installerte versjoner å sammenligne med. 
+For nye brukere er det bare å laste ned oppdateringen etter at du har installert versjonen som ligger i pakken. 
+
+Da vi testet Studio 11 første gang hadde vi store problemer med å importere video fra vårt Sony AVCHD-kamera. 
+Programmet kræsjet stadig vekk under import av filer fra harddisken i kameraet. 
+
+I denne oppgraderte versjonen har vi ikke lenger støtt på slike problemer. 
+Vi hadde derimot noen få kræsj i forbindelse med lagring av prosjekter, men det hadde ikke noe å si for prosjektfilen som ble lagret, alt kunne leses inn igjen med prosjektet intakt. 
+
+Å lese inn i underkant av 2 GB med filer - ca 22 minutter - med video fra harddisken i AVCHD-kameraet tok i underkant av 2 minutter. 
+Dette inkluderer kopiering til intern disk i PCen. 
+
+Når de forskjellige videoklippene er lastet inn og vises med bilde i filoversikten er det bare å dra dem ned på tidslinjen eller i storyboard-visningen. 
+Dette går merkbart tregere enn med DV-materiale, men det er likevel til å leve med. 
+Det er jo langt større datamengder som skal håndteres, og det er ikke bare Studio 11 som det knirker i når det blir flere GB å forholde seg til. 
+(Vi nevner i parentes at vi tester på en Q6600 med 4 GB minne og en Raptor 10 000 rpm harddisk og et nVidia 8600GT skjermkort koblet til to LCD-skjermer på 24" og 20" som gir 5,5 i Experience index i Vista). 
+
+En annen ting som går svært tregt er effekter mellom klippene. 
+Med DV-materiale er overgangseffektene rendret på et øyeblikk og kan spilles av, men med AVCHD tar det mange ganger så lang tid. 
+Dette er det imidlertid ikke bare Pinnacle som lider under, det gjelder alle programmene vi har testet, mer eller mindre. 
+
+Teksting går derimot like raskt som med enklere formater. 
+Det samme gjelder pålegg av musikk og lydeffekter. 
+
+Brenning i HD DVD-format på vanlig DVD fungerte også utmerket. 
+En liten 6-minutters komprimert ferievideo (man skal ikke plage familile og venner mer enn nødvendig) ble klar på 16 minutter på vår 16x brenner. 
+
+Konklusjon 
+
+Denne oppdateringen har bragt Studio 11 et godt stykke framover, selv om det enda ikke er 100% stabilt. 
+Likevel mistet vi aldri data underveis, til tross for at programmet kræsjet en håndfull ganger. 
+
+Hvis hovedvekten er på ganske rett fram redigering av DV eller MPEG2, og prosjektene er av rimelig lengde, så fungerer Pinnacle Studio 11 helt utmerket. 
+Det er rett fram og kjapt og enkelt i bruk. 
+
+Også AVCHD håndteres greit, selv om det merkes at det er en god del tyngre. 
+Andre programmer sliter også med dette, så Pinnacle kan ikke ensidig dømmes for dette. 
+Begrenser du prosjektene til hyggelige spilletider går det greit. 
+Helaftens spillefilm bør nok vente litt... 

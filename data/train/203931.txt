@@ -1,0 +1,188 @@
+Ytelseskonge fra Lenovo
+Den kraftigste 2-i-1-maskinen vi har testet til dags dato, og den imponerer nesten like mye på batteritesten. 
+
+Denne høsten har vi testet en rekke PC-er som har gjort meget godt inntrykk på oss i redaksjonen, og vi har delt ut flere anbefalt-stempler, sist til HP Spectre 13 og noen uker tidligere var det Huawei Matebook X som fikk utmerkelsen. 
+
+Denne gangen har turen kommet til Lenovo Yoga 920, som også får det gjeve stempelet. 
+Dette er rett og slett et råskinn av en 2-i-1-PC. 
+
+Dette er for øvrig den siste PC-en vi rekker å teste i år, og da gjenstår bare kåringen av årets beste PC-er i en egen artikkel mot midten av måneden. 
+
+Tredje generasjon Yoga 900 
+
+Men først altså: 
+Testen av 2-i-1-modellen Yoga 920. 
+Dette er tredje generasjon i 900-serien, tidligere har vi testet Yoga 900s og 910 - begge scoret meget bra og fikk høye terningkast. 
+Derfor var også forventningene våre store før møtet med det siste tilskuddet i serien. 
+
+2-i-1 betyr at PC-en med enkle håndgrep kan gjøres om til et nettbrett. 
+Her kan skjermen skyves bakover til den går helt rundt, og dekker baksiden av PC-en. 
+Da blir samtidig tastaturet låst, og du kan bruke skjermen til å gjøre notater på og styre apper og funksjoner med fingertuppene eller den medfølgende pennen. 
+
+Hel ved, innerst til ytterst 
+
+PC-en har et solid chassis av lys grå, børstet aluminium både på utsiden og innsiden, og virker i det hele tatt meget solid. 
+920 både ser ut og føles som et premiumprodukt. 
+
+Den er litt bredere enn konkurrenten HP Spectre X360, men så er også skjermen 13,9 tommer mot 13,3 tommer på HP-en. 
+Vektnåla stopper på 1366 gram, som er omtrent som forventet - og bare 66 gram mer enn HP-en. 
+Det er ikke tilfeldig at vi velger å sammenligne mot den, det er to meget sammenlignbare modeller som kjemper om de samme kjøperne. 
+
+Hengselet mellom skjerm og tastaturdel har en mekanikk som kan minne om en klokkelenke, og skal ifølge produsenten tåle svært mye belastning. 
+Uansett vinkel på skjermen, sørger den for at den står der, dønn stabilt. 
+Dette virker mer helsveist enn de to enkeltleddene på X360, som kan sige litt når åpningen blir større enn 135 grader. 
+
+Vi liker også at luftinnsug og -utblåsing skjer i dette skjermleddet. 
+Intet innsug på undersiden altså, og dermed er maskinen mer fang-vennlig enn X360. 
+
+I fronten, under tastaturdelen, sitter et par høyttalere merket JBL. 
+De låter greit, lyden fremstår som ganske balansert - men vi savner litt mer fylde til musikk og film. 
+Så tynne PC-er er imidlertid sjelden særlig bassterke. 
+Opplevelsen er omtrent som på X360. 
+
+Vi kunne også tenkt oss knapper for lydjustering på siden. 
+Det er vanlig på mange 2-i-1-maskiner, også X360 har dette, og er hendig når du jobber i nettbrettmodus, men mangelen er ikke noe stort ankepunkt. 
+
+Dette er nytt 
+
+Mye er likt som på forgjengeren, og målene på maskinen ser også ut til å være de samme (323 × 13,95 × 223,5 mm). 
+
+Men Lenovo har gjort et par viktige, ytre endringer. 
+Den første er at de har plassert webkameraet over skjermen igjen, etter et litt mislykket forsøk på plassering under skjermen på 910. 
+
+Den andre endringen er på tastaturet, der høyre shift-tast er gjort bredere, og pil opp er nå plassert under denne, ikke til venstre for den, slik det var tidligere. 
+Endringen skal ha kommet etter at mange har gitt tilbakemelding om at gammel plassering var problematisk. 
+
+USB-C med full pupp 
+
+Maskinen har fortsatt to USB-C-porter til venstre og en klassisk USB-A-port (3.0) til høyre. 
+Her er også en analog minijack inn/utgang. 
+Men nytt er at de to USB-C-portene nå støtter de aller høyeste hastighetene (USB 3.1 gen 2) samt Thunderbolt 3. 
+
+Det betyr for eksempel at du kan koble PC-en til en ekstern 4K-skjerm og nyte 60 oppdateringer i sekundet, for eksempel. 
+Du kan også lade PC-en gjennom begge de to portene, på forgjengeren kunne du kun gjøre det via den ene. 
+
+Og når vi først er inne på lading: 
+Den nye strømforsyningen sørger for å lade batteriet vesentlig raskere enn på forgjengeren. 
+I løpet av én time når batteriet 73 prosent kapasitet, der forgjengeren stoppet på 44. 
+Det er en markant forbedring! 
+På Spectre X360 nådde indikatoren 70 prosent på en time. 
+
+God skjerm med fornuftig oppløsning 
+
+Den berøringsfølsomme skjermen måler altså 13,9 tommer og har et IPS-panel som sørger for gode innsynsvinkler uten farge/ kontrastfeil. 
+Kontrasten holder seg litt bedre fra sidene enn på X360, da sistnevnte har et ekstra filter i LCD-konstruksjonen. 
+Lysstyrken er også meget god. 
+
+Oppløsningen på vårt testeksemplar er 1920 x 1080 piksler (full HD), som vi mener er tilstrekkelig for de aller fleste av oss. 
+Modellen fås også med 4K-skjerm, hvis du skulle ha behov for det. 
+En av konfigurasjonene er til og med billigere enn vårt testeksemplar, men da må du leve med halvparten så mye minne og halvparten så stor SSD. 
+
+Bredde:høyde-forholdet er altså 16:9. 
+I det siste har vi sett en del eksempler på skjermer på premium-modeller med 3:2-forhold, som gir mer plass i høyden, deriblant Huawei Matebook X og Microsoft Surface Laptop. 
+I våre øyne er det et pluss, men enn så lenge sverger Lenovo til klassisk 16:9. 
+
+Det blanke kontrastbelegget gjør at du må leve med en del gjenskinn, noe som kan være et ankepunkt i vanskelige lysforhold. 
+Dette er imidlertid noe som gjelder de aller fleste berøringsfølsomme skjermer. 
+
+Det følger med en presis penn til tegning, notater og lignende. 
+Denne har mer enn 4000 trykkpunkter, og fungerer bra. 
+Du må imidlertid leve med en ørliten forsinkelse på opptegningene, spesielt hvis du skriver fort, så litt tilvenning må du regne med. 
+
+Premium-tastatur 
+
+Tastaturet er typisk Lenovo, med avrundede taster i bunnen. 
+Svikten på midten, som ofte har forfulgt de billigste modellene, er totalt fraværende på Yoga 920. 
+Tastene er faste og responsive, og avgir minimalt med lyd under bruk. 
+Det innbyr til lange skriveøkter. 
+Baklyset skrur du enkelt på og av med et tastetrykk. 
+
+Vi liker dette tastaturet litt bedre enn på X360. 
+Årsaken er at enter-tasten her går over to rader og er dermed enklere å treffe. 
+Den andre er at plasseringen av tasten med hake-tegnene er plassert mer logisk sett i forhold til vanlige tastaturer. 
+
+Mot høyre sitter en fingeravtrykkleser, som brukes til å logge raskt på PC-en gjennom en funksjon kalt Windows Hello. 
+Etterhvert er det også ventet at det vil komme betalingsløsninger og nettsteder som også støtter innlogging via dette feltet. 
+På X360 var denne plassert på siden. 
+
+Pekeplaten er passe stor, med integrerte felter for venstre/høyreklikk. 
+Den er presis og behagelig å bruke, også flerberøringer går silkemykt. 
+Greit å vite dersom du ikke er tilhenger av å berøre skjermen direkte når du er i PC-modus. 
+
+Kraftig forbedret ytelse - beste vi har målt i klassen 
+
+Så langt har vi snakket mest om de ytre detaljene, men det er kanskje på innsiden de største forbedringene ligger. 
+PC-en er nemlig utstyrt med en Intel Core i7-8550U-prosessor, fra Intels ferske 8. generasjon ULV-serie. 
+Vårt testeksemplar er utrustet med 16 GB RAM og en romslig SSD på 512 GB. 
+
+Forbedringene i ytelse fra forrige generasjon prosessor (som sitter i 910) er svært store, mye takket være at antall prosessorkjerner er doblet fra to til fire. 
+Maksimal klokkehastighet har også økt. 
+
+Forskjellene merkes best i apper og programmer som drar nytte av flere kjerner og tråder, samt når du kjører mange programmer og apper samtidig. 
+Her finner du en detaljert beskrivelse på hva du kan forvente når du velger en PC med åttende generasjon Core i-prosessor. 
+
+I ytelsestestene i Passmark får prosessoren poengsummen 8.744. 
+Det er det høyeste vi noen gang har målt på en 2-i-1-PC, og når forgjengeren - som vi omtalte som meget kjapp for et år siden - fikk 5.165 poeng, skjønner du at dette er kraftige saker. 
+Vi snakker her om poengsummer som for kort tid siden var forbeholdt kraftige (bærbare) spillmaskiner og (bærbare) arbeidsstasjoner med HQ-prosessorer. 
+
+X360 med samme prosessor, målte vi til til 8.074 poeng, altså relativt mye lavere. 
+Det kan skyldes at den blir varmere, og at hastigheten derfor automatisk justeres litt ned. 
+Om det vil være veldig merkbart i praksis, er ikke sikkert - det kommer helt an på oppgavene som kjøres. 
+
+Også grafikkytelsen har økt med rundt 20 prosent fra 910, til et nivå som fortsatt ligger godt bak dedikerte spillgrafikkort - men mer enn nok til det aller meste annet. 
+Eldre spilltitler går greit, men er du ute etter en PC som først og fremst skal brukes til gaming, må du velge noe annet. 
+
+Viftene starter opp når belastningen blir høy, men er stille i lange perioder når belastningen er lav. 
+Den starter ikke fullt så lett som på X360, men også Yoga 920 blir godt varm på ett punkt under PC-en - noe som gjelder alle de tre PC-ene vi har testet med denne prosessoren. 
+
+Den 512 GB store SSD-en som sitter i Yoga 920 er også blant de raskeste vi har målt noensinne, med maksimal lesehastighet på 2,7 GB og skrivehastighet på 1,5 GB i sekundet. 
+Dette er ganske likt som på X360, og vi antar at det er samme SSD fra Samsung som sitter i begge. 
+
+Totalt sett blir ytelsen på Yoga 920 strået hvassere enn på X360, og er dermed den kraftigste 2-i-1-modellen vi har testet til dags dato. 
+
+Strålende batteritid 
+
+Hva så med batteritiden? 
+Forgjengeren målte vi til 590 minutter på vår standardtest av videostrømming fra YouTube, noe vi omtalte som meget bra for et år siden. 
+Yoga 920 derimot, holdt ut i imponerende 829 minutter på samme test, altså 12 timer og 49 minutter. 
+Det tilsvarer en forbedring hele 4 timer. 
+Det er også 1 time og 40 minutter bedre enn hva vi målte Spectre X360 til. 
+
+Under lett, variert bruk ser vi ikke bort fra at du kan tyne batteriet til 14-15 timer, som også er ganske i tråd med Lenovos egne påstander, og noe av det aller beste vi har målt i våre tester. 
+
+Med 73 prosent kapasitet etter en time i stikkontakten, er det all grunn til å være imponert over batteriet på Lenovo Yoga 920. 
+
+Ikke «ren» Windows 
+
+Etter alt dette positive, er det dags for en liten fot i bakken før konklusjonen. 
+
+Mange av PC-ene vi har testet den siste tiden har kommet med Signature Edition av Windows 10, som i praksis betyr at den er rensket for prøveversjoner og programvare fra tredjepart. 
+Det gir etter vår mening den klart beste PC-opplevelsen fra første stund. 
+
+Yoga 920 leveres derimot med en god tilleggs-apper og programmer - flere av dem er prøveversjoner som er å betrakte som reklame, deriblant Microsoft Office og McAfee LiveSafe. 
+Sistnevnte har en lei tendens til å mase om registrering - og betaling etter prøveperioden, for at PC-en din skal være beskyttet. 
+Det var mer merkbart her enn på X360, som også hadde denne programvaren installert. 
+
+SKREMSEL: 
+I løpet av sju minutter i testen dukket disse to boksene opp. 
+Begge mangler valget «Avbryt». 
+
+Det som ikke opplyses noe om, er at nyeste utgave av Windows Defender (som er en gratis standardkomponent i operativsystemet), gir deg mye av denne sikkerheten uten at du behøver å betale noe som helst. 
+
+Heldigvis kan du avinstallere appene og programmene du ikke ser nytten av, men vi skulle ønske alle PC-produsentene implementerte slik reklame på en mer elegant og mindre forstyrrende måte, eller lot være å bruke den - og kanskje spesielt i premiumsegmentet. 
+
+Konklusjon 
+
+Den lille foten i bakken til tross, Yoga 920 er den beste 2-i-1-PC-en vi har testet noen gang. 
+Den byr på svært god byggekvalitet, ytelse og batteritid, som til sammen danner grunnlaget for årets tredje sekser på terningen. 
+
+Vi setter et lite minustegn ved den uønskede reklamen i Windows. 
+Samtidig vet vi at Elkjøp/Lefdal selger forgjengeren 910 i Signature Edition, og håper at det samme kommer til å skje med 920. 
+
+Merk videre at prisen på vårt testeksemplar er relativt høy, rundt 18.500 kroner i skrivende stund (og rundt 2.000 kroner mer enn den nevnte Spectre X360). 
+
+Klarer du deg med Core i5-8250U-prosessor (noe vi er ganske sikker på at du gjør), 8 GB og 256 GB SSD, starter prisene på rundt 4.000 kroner lavere - fortsatt med de andre, gode egenskapene. 
+Avhengig av behovene dine, kan det være et smartere valg. 
+
+I tillegg til testen av HP Spectre X360, bør du også få med deg vår test av Dell XPS 13 før du bestemmer deg. 
+Alle tre modeller ligger i samme prisleie, og er alle gode valg for deg som skal kjøpe et premiumprodukt. 

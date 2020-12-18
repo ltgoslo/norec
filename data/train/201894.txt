@@ -1,0 +1,130 @@
+Tundra/HPC 1551
+Tradisjonelt har ultraportable PCer vært dyre, og hatt begrensninger på utstyrs- og ytelsessiden. 
+Denne PCen står derimot ikke tilbake for langt større PCer, verken på den ene eller andre måten. 
+
+Bærbare PCer med Tundra-merke er i virkeligheten såkalte barebone-løsninger, dvs at kabinett, hovedkort og skjerm kommer ferdig fra fabrikken i Taiwan, mens minne, optisk drev, harddisk og evt ekstrautstyr puttes inn av Hattelco her i Norge. 
+Denne typen PCer er blitt ekstremt populære de siste par årene, ikke minst fordi mulighetene for skreddersøm er store, samt at prisene som regel kan holdes lave. 
+
+LES OGSÅ: 
+
+Frem til nå har det derimot vært lite ultraportabelt (PCer under 2 kg) blant barebone-løsningene. 
+PCer i denne klassen er først og fremst myntet på brukere som er avhengig av å ha med seg PCen "over alt", og som har vært mer opptatt av størrelse og vekt enn ytelse, utstyr og pris. 
+
+Tundra 1551 er derimot en svært interessant modell som kanskje kan gjøre ultraportabel-klassen enda mer populær. 
+
+Eksemplaret vi har fått til test fra PS Data koster ikke mer enn 15.795 kroner inkl mva (i skrivende stund), og her er de viktigste spesifikasjonene: 
+
+Tundra 1551 (selges under HPC-logo til bedriftsmarkedet) 
+
+Bygd på Barebook 1551-AW1 fra Aopen 
+
+Mobile Pentium-M 735 1.7GHz 400MHz 2M 
+Dothan 
+
+12,1" WXGA-skjerm, 1280 x 800 punkter 
+
+512MB PC333 DDR 
+
+60GB 7200RPM harddisk 
+
+24x/16x/8x-8x CD-RW/DVD 
+
+802.11g 54Mbit trådløst LAN 
+
+56 Kbit modem 
+
+10/100 Mbit LAN 
+
+Compact Flash type I/II-leser 
+
+Firewire-port 
+
+2 stk USB 2.0-porter 
+
+PCMCIA-slot 
+
+VGA og TV-utgang 
+
+Størrelse: 296 x 205 x 35 mm 
+
+Vekt: 1,9 kg 
+
+Flere tekniske data 
+
+Dothan-prosessor 
+
+Ved første øyekast er det nesten ikke noe i spesifikasjonene som vitner om at dette er en særdeles kompakt PC. 
+Vi biter oss merke i at det er benyttet den nye Pentium M-prosessoren med blant annet dobbelt så mye annetnivå hurtigminne. 
+Denne skal ikke bare gi bedre ytelse enn førstegenerasjon Pentium M, den skal også bruke mindre strøm, i følge Intel. 
+
+For øvrig er dette en godt utstyrt PC, med rask harddisk, raskt trådløst nett, og egentlig det meste av hva den jevne PC-bruker trenger av tilkoblingsmuligheter og utstyr. 
+Den har til og med leser for CompactFlash-minnekort, og det er sjelden! 
+Adapter for andre minnekort får du både i CF og PCMCIA-utførelse. 
+
+Perfekt for film 
+
+Du må riktig nok klare deg med litt mindre skjerm, men oppløsningen er ikke høyere enn at i hvert fall vi ikke hadde noen problemer med lesbarheten på tekst på nettsider og dokumenter. 
+Lysstyrken er middels god, under batteridrift dempes styrken ca 20% for å spare strøm. 
+Du kan derimot overstyre dette ved behov. 
+
+Formatet er dessuten supert til DVD/film-avspilling. 
+Rett under skjermen sitter et par høyttalere, optimalt plassert synes vi, og lyden er helt grei - litt boksaktig, men verken verre eller bedre enn de fleste andre bærbare PCer vi tester. 
+
+Lokket er mykt og kan lett vris. 
+Det gir dessverre ikke den beskyttelsen for skjermen som vi hadde håpet. 
+Bunnplaten i PCen er derimot av metall, noe som sørger for en bra oppstiving uansett når den er klappet sammen. 
+
+Firewire, mic og øretelefonutgang sitter i fronten, VGA, de to USB-portene, minnekortleseren og PCMCIA-slot sitter til venstre, mens optisk enhet, modem, nettverk, strøminntak og TV-utgang sitter på motsatt side. 
+Batteriet dekker alt bak, så her finner du ingen eksterne tilkoblinger. 
+Dette er en PC som er beregnet til feltbruk, så plassering av tilkoblingspunkter vil være mindre viktig for de fleste. 
+
+Mindre tastatur 
+
+Tastaturplaten er kompakt og mindre enn på en vanlig bærbar PC, og det blir litt trangt for store fingre. 
+Det gjør ingenting hvis du kun bruker pekefingrene når du skriver, men bruker du touch-metoden kan det nok hende at du bommer litt oftere, i hvert fall i starten. 
+For vår del var det egentlig verst med bindestrek-tasten. 
+Denne ligger litt lenger mot venstre enn på et vanlig tastatur, og sammen med punktum- og kommatasten er den enda mindre enn bokstav- og talltastane. 
+De øvrige spesialtastene er også komprimerte, men disse brukes sjeldnere, så det betyr mindre. 
+
+Undertegnedes hender er verken spesielt store eller spesielt små, og jeg hadde ikke noen problemer med anslagene etter hvert som jeg fikk brukt PCen en stund. 
+
+Tastaturplaten lager en viss klirrelyd når du skriver på det, men den virker rimelig fast. 
+Tastene har logiske plasseringer i forhold til et vanlig tastatur. 
+Totalt sett godkjent og vel så det. 
+
+Ytelse 
+
+Dette er den første PCen vi tester som er utstyrt med 2. generasjon Pentium M-prosessor, og ytelsesmessig skuffet den oss ikke. 
+I PCMark 2004 fikk vi totalresultatet 3744 poeng i CPU-testen. 
+Det er for eksempel over 500 poeng mer enn Dell Inspiron 8600, som hadde førsteutgaven med samme klokkefrekvens. 
+
+Faktisk er CPU-ytelsen den høyeste vi har målt så langt i de Cenrinoene vi har testet. 
+Denne PCen er med andre ord en riktig ulv i fåreklær! 
+Den er dessuten nærmest lydløs. 
+
+Harddisk- og minneytelsen er også helt på høyden, men grafikkytelsen er begrenset - og faktisk det eneste minuset når det gjelder ytelsestestene. 
+Navnet Intel Extreme Graphics II høres kanskje kraftigere ut enn løsningen egentlig er. 
+Den egner seg godt til 2D, inkludert film, bilder og videoredigering, men nyere 3D-spill krever mer enn denne løsningen kan levere. 
+Om det betyr noe for målgruppene er vi derimot i tvil om. 
+
+Batteriet som sitter i vårt testeksemplar er et 4-cellers spesialbatteri. 
+I vår levetidstest stoppet PCen å fungere etter 2 timer og 14 minutter. 
+Det er svakt, og kanskje den aller største innvendingen vi har mot denne PCen. 
+I følge distributøren kommer et 8-cellers batteri på banen etter hvert, og vi anbefaler alle som er mye på farten til å undersøke om dette er tilgjengelig før eventuelt kjøp. 
+Det vil gi langt bedre levetid, kanskje så mye som 4-5 timer. 
+
+For detaljer omkring ytelsestestene og spesifikasjoner, klikker du her 
+
+Konklusjon 
+
+Når det gjelder generell ytelse og utstyrsnivå er det faktisk lite eller intet som skulle tilsi at denne PCen er langt mindre enn en vanlig bærbar PC. 
+At den er rimelig og utstyrt med bredskjerm, blir som et ekstra jordbær på toppen - og bør gjøre den enda mer interessant for studenter, selgere og andre som ønsker en liten og lett PC. 
+
+På minussiden har vi satt et litt mykt lokk og begrenset 3D-ytelse. 
+Og så har vi satt et stort minus ved batterilevetiden, som vi innbiller oss er meget viktig for målgruppene. 
+Dette er også hovedgrunnen til at vi ikke har kunnet gi mer enn terningkast 4. 
+
+Vi kommer likevel ikke utenom at denne ultraportable PCen gir svært mye for pengene. 
+Med 8-cellers batteri vil den være en killer, og en klar 5'er på terningen! 
+
+Eksemplaret ble lånt ut av PS Data. 

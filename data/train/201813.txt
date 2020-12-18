@@ -1,0 +1,89 @@
+On LT1.1 BRZ
+Skiller seg ut ved å være anonym på utsiden. 
+
+Den svenske elektronikkbutikken NetOnNet tar opp kampen mot de store, etablerte PC-produsentene, og lanserte nylig sitt eget PC-merke: 
+On. 
+Vi har tatt en titt på en modell i det svært populære 13,3"-segmentet. 
+
+Først en titt på de viktigste spesifikasjonene: 
+
+13,3" LED-baklyst, blank LCD, 1366 x 768 piksler Kabinett bestående av børstet metall både over og under Intel Core i5-450M prosessor 4 GB DDR3-minne (maks 4) 500 GB harddisk ATI Mobility Radeon HD 5430 dedikert grafikk HDMI og VGA skjermutganger 3 stk USB 2.0-porter (en av dem er komibinert eSATA-kontakt) Kortleser for SD/MS/MMC minnekort Webkamera (1,3 megapiksler) Bluetooth 2.1-støøte Trådløst nettverk (B/G/N) 
+Gigabit nettverk Kommer UTEN optisk drev Windows 7 Home Premium 64 bits operativsystem 329 x 25,9 x 226 mm 1,8 kg Pris: 5.490 kroner inkl mva (14.2.2010) 
+
+Det er relativt uvanlig å finne 13,3-tommere med denne prosessoren, harddiskkapasiteten og relativt potente grafikkløsning, i denne prisklassen. 
+Du må som regel opp en tusenlapp, eller mer for samme konfigurasjon. 
+Betyr det at dette er et røverkjøp? 
+Det ville vi finne ut. 
+
+Enkelt og robust 
+
+Designen er slank og robust. 
+Det er brukt aluminium i lokket og rundt bunnplaten, noe som sørger for at PC-en er relativt stiv, og tåler litt røffere behandling enn de aller fleste modeller i de lavere prisklassene. 
+
+Mange vil nok også sette pris på at maskinen er fri for klistremerker og har en diskré overflate uten prangende symboler og merker. 
+Om dette gjelder kun vårt testeksemplar er i litt usikre på, men det er i hvertfall lov å håpe at det ikke gjør det. 
+
+En annen, og kanskje større fordel for mange, er at PC-en kommer svært godt konfigurert, og nesten kjemisk renset for tilleggsprogrammer (med unntak av Norton Internet Security med 12 måneders gratis oppdatering) og funksjoner som kan dra ned hastigheten og forringe totalinntrykket. 
+Dette har de siste årene blitt en plage på mange modeller fra de etablerte, store produsentene. 
+
+(Artikkelen fortsetter etter bildene) 
+
+Slike skrivebord liker vi på en ny PC 
+
+Tastaturet er av typen der tastene sitter svært nær hverandre, men med stor nok åpning til at støv og smuler kan falle ned mellom dem, og samtidig blir vanskelig å få rengjort. 
+Ikke noe stort problem kanskje, men verdt å merke seg likevel. 
+Her har vi langt større sans for tastaturet på konkurrentene Asus u36j og Toshiba r630, som også er hakket mer fast og stivt over hele platen, men som riktig nok koster temmelig mye mer. 
+
+Pekeplaten er akkompagnert med knapper av vippetypen med dødsone på midten. 
+Den er av en eller annen grunn tyngre å trykke ned til venstre enn høyre, mulig det kun gjelder vårt testeksemplar. 
+Å klikke på selve platen er bare å lære seg med det samme, det er definitivt å foretrekke. 
+
+Skjermen er imidlertid klar og skarp, og helt på høyden med de to dyrere PC-ene fra Asus og Toshiba som er omtalt tidligere i denne testen. 
+
+Bråker ikke 
+
+Maskinen er dessuten meget stillegående. 
+Selv under relativt tung belastning er det svært sjelden at viften er særlig hørbar. 
+Det er en stor fordel, men det er imidlertid en hake. 
+Maskinen blir temmelig varm, og det merkes best på undersiden og når den kjører tyngre oppgaver, for eksempel spiller av videoer. 
+Derfor: 
+Unngå å ha den i fanget over lengre perioder, både av hensyn til huden på lårene, og levetiden på maskinvaren. 
+
+En annen ting som irriterer oss litt: 
+PC-en avgir en lav, metallisk pipelyd. 
+Med mindre du har mistet evnen til å høre høyfrekvente lyder, er denne godt hørbar når du legger øret inntil undersiden av PC-en, og spesielt når den går på batteridrift. 
+Vi aner ikke hva dette kommer av, og hva som er kilden, men det kan være irriterende hvis du sitter i veldig stille omgivelser. 
+
+PC-en hadde imidlertid ingen problemer med stabiliteten under ytelsestestene våre. 
+Først resultatene fra Windows Opplevelsindeks i Windows 7. 
+Her sammenligner vi med de to konkurrentene: 
+
+Vi kjørte også ytelsestester gjennom Passmark Performance Test, og i diagrammene under har vi sammenlignet ytelsen fra denne PC-en med prosessorer og grafikkort som er typiske i denne pris- og størrelsesklassen: 
+
+Prosessorytelse (Passmark-indeks): 
+
+Grafikkytelse (Passmark-indeks): 
+
+Det er med andre ord lite å utsette på den generelle ytelsen. 
+Det er ingen spillmaskin, til det er 3D-grafikkytelsen for sped, men til alt annet - inkludert avspilling av full HD-video på både intern og ekstern skjerm, fleroppgavekjøring osv, er den helt på høyden. 
+Prosessorytelsen var som ventet helt i toppskiktet sett i forhold til snittet i klassen. 
+
+Svakt batteri 
+
+Men dette er ikke PC-en vi ville kjøpt hvis batteriytelsen var et viktig element. 
+Selv i batterisparemodus holdt ikke et fulladet batteri mer enn i 2 timer og 36 minutter med minimal belastning. 
+Ved kontinuerlig avspilling av HD-video (720P) med Windows Media Player, var batteriet flatt i løpet av 73 minutter, altså lenge sluttscenen i de fleste spillefilmer. 
+
+Under variert bruk kan du derfor ikke forvente mer enn 2 timer batterilevetid, og det er langt svakere enn de fleste 13,3-tommerne vi har testet denne sesongen. 
+
+Konklusjon 
+
+Dette er en bra PC. 
+Den har bedre ytelse og større harddisk enn en gjennomsnittet i denne prisklassen. 
+Den ser dessuten bra ut, støyer svært lite og har et robust kabinett. 
+
+Det som først og fremst trekker ned totalinntrykket er svak batterilevetid, og at den blir temmelig varm under belastning. 
+Den elektroniske pipelyden som følsomme ører vil legge merke til, er også verdt å nevne. 
+
+Det er imidlertid helt klart at du får mye PC-kraft for pengene her. 
+Vi gleder oss til å følge On-serien videre. 

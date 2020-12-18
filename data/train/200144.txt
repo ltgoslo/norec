@@ -1,0 +1,121 @@
+Acer Iconia Tab A500
+Endelig et nettbrett med Googles nye operativsystem som også vi nordmenn kan kjøpe. 
+Her er det mye å like. 
+
+Acers forsøk på å lage nettbrett med Windows 7 vakte svært liten begeistring i redaksjonen. 
+Iconia Tab W500 førte til undrende blikk, flakkende blikk og tendenser til måping, og ikke sånn måping som ledsager for eksempel Lionel Messis umenneskelige fotballtriks. 
+
+Nesten i samme vending som de lanserte Windows-brettet, slapp de derimot et langt hyggeligere bekjentskap på det norske markedet. 
+Iconia Tab A500, som ligger så nær opp til produktnavnet til sin Windows-bror at det kan by på misforståelser, kjører Googles mobile operativsystem, Android. 
+
+Ikke bare det, den kjører den versjonen av Android som først og fremst er laget for nettbrett, blant mobilnerder mest kjent som Honeycomb. 
+Formelt sett er dette versjon 3.0, og ettersom versjon 3.1 allerede er ute for noen nettbrett er ikke A500 helt oppdatert, men det sies at 3.1 også vil være tilgjengelig for A500 om ikke veldig lang tid. 
+
+Og med formalitetene i orden tar vi en kikk på resten. 
+
+Ganske elegant tjukking 
+
+Utseendet til Acers Android-brett er en blanding av elegant og ikke fullt så elegant. 
+Fronten er mest vellykket, mens baksiden minner litt for mye om en plastinfisert billiglaptop. 
+Det betyr egentlig ikke så mye, det som betyr mest er at den ligger godt i hånda, eller hendene. 
+
+A500 hører med sin ti tommer stor skjerm hjemme i den mest voksne nettbrettkategorien, og den har dessuten en vekt som plasserer den i en slags weltervekt. 
+765 gram er ikke noe å kimse av, og cirka én småtung smartmobil tyngre enn for eksempel iPad 2 (607 gram) eller nye Samsung Galaxy Tab 10.1 (599 gram). 
+
+Av tilkoblingsmuligheter finner du både micro-USB og vanlig USB, men så vidt vi har kunnet se støtter ingen av disse lading. 
+Det må gjøres via en dedikert lader, så husk for all del laderen når du legger ut på langtur. 
+
+De som liker å sende video eller bilder til TVen vil bli glad for å se micro-HDMI-kontakten, og de vil også bli ganske glad i skjermen med en oppløsning på 1280x800. 
+Det er bedre enn allerede nevnte iPad 2, men den virker ikke like lyssterk. 
+Selv med lysstyrken skrudd helt til topps synes vi det burde vært enda noen hakk tilgjengelig. 
+Gjenskinnet er, som vanlig med nettbrett, svært merkbart så lenge skjermen inneholder mye mørke partier, og befinner du deg i sterkt sollys bør du forberede deg på å bli skuffet - det er ikke under slike omstendigheter nettbrett som dette trives best. 
+
+Nye Android på innsiden 
+
+Versjon 3.0 av Android, som nå altså allerede er ute i versjon 3.1, er på mange måter Googles svar på Apples iOS for iPad. 
+Vi har tidligere skrevet en del om hva som er nytt i såkalte "Honeycomb" blant annet her, i tillegg til at du kan finne de ti beste Honeycomb-appene her. 
+Vi skal derfor ikke gå gjennom alle nyhetene her, men nevne det viktigste. 
+
+Hjemskjermen står for den tydeligste, visuelle forandringen. 
+Det er ikke slik at Google har laget Honeycomb bare med tanke på nettbrett, men versjonen som heter Honeycomb vil bare bli tilgjengelig for tablets som Iconia Tab A500. 
+Flere av funksjonene fra Honeycomb vil nok spre seg til Android for mobiltelefoner etter hvert, men sammensmeltingen mellom nettbrett og mobil skal etter planen skje i allerede annonserte "Ice Cream Sandvich" (vi tuller ikke), som du kan lese mer om her. 
+Der blir det spennende å se blant annet hvordan hjemskjermen tegnes opp, og hvor ulik den eventuelt blir versjonen vi har foran oss i dag. 
+
+Vi liker forøvrig også veldig godt de visuelle snarveiene til favorittnettsider som ligger og hviler øverst i høyre hjørne, hvor du også kan bla deg gjennom snarveiene uten å aktivere dem. 
+
+En annen favoritt er designen på samlesida for forandringer som kan gjøres på hjemskjermen. 
+Dette gjelder alt fra nye bakgrunner til snarveier og widgets, hvor du blant annet kan forhåndsvise utseendet på for eksempel widgets i ulike størrelser, og deretter dra dem direkte over til én av de fem hjemskjermene. 
+
+Men hvor er Exchange? 
+
+Fin er også flerkjøringsvisningen, der du med et trykk på menyknappen nederst til venstre får opp programmene som kjøres akkurat nå. 
+Dermed kan du raskt skrolle deg gjennom aktive apper, og like raskt hoppe over til en annen app. 
+
+De tre, av og til fire, symbolene nede til venstre er forøvrig symbolene som erstatter de tradisjonelle tre, av og til fire, fysiske knappene som Android-mobiler fortsatt benytter. 
+Det er uvant i begynnelsen, ikke minst på A500, der Acer har gjort dem vel futuristiske og abstrakte. 
+Vi foretrekker at symboler likner på det de representerer i større grad enn tilfellet er her. 
+
+Kalenderen og epost-klienten er også pent og gjennomført gjort, men av en eller annen grunn finnes det ikke støtte for Exchange på A500. 
+Vi får kun opp valgene "POP3" eller "IMAP", og etter å søkt oss gjennom manualen står det heller ikke der et ord om Microsofts økosystem for epost- og kalenderbehandling. 
+Det er skuffende. 
+
+HD-spill er inkludert 
+
+Nettleseren er på den annen side bra og rask. 
+Flash fungerer stort sett helt okei, selv om en merker på responsen fra nettleseren at det kreves mye ressurser for å spille av videoer og annet flashinnhold. 
+
+Av programvare får du med de vanlige Android-appene, i tillegg til blant annet tre såkalte "HD"-spill (laget med nettbrettvennlig oppløsning) - "NFS Shift", "Let's Golf" og "Hero of Sparta". 
+Det er fint gjort av Acer, og selv om videokvaliteten på innledningen av for eksempel sistnevnte spill er alt annet enn imponerende, ser spillet som sådan bra ut. 
+
+Helt ferdig er Honeycomb likevel ikke. 
+Det er for eksempel ikke alle designgrepene som er like vellykket, og vi synes blant annet det lille området nederst i høyre hjørnet er vel beskjedent og rotete anlagt. 
+Innstillingene får du for eksempel opp ved å trykke på et altfor lite ikon (til tross for at dette altså er et nettbrett med en skjerm på ti tommer), og løsningen bærer litt for mye preg av å være et forsøk på å blande PC-estetikk med nettbrettestetikk. 
+Det finnes heller ikke norsk ordbok i Honeycomb, noe de som taster raskest vil merke best. 
+
+Men dette er pirk. 
+Alt i alt er Honeycomb et svært lovende operativsystem for nettbrett, og selv om overgangen fra Android-mobil til Android-nettbrett med Honeycomb langt fra er like smertefri som overgangen fra iPhone til iPad, og selv om Android Market fortsatt ikke er i nærheten av elegansen til App Store fra Apple, er det mye å like her likevel. 
+
+Glem heller ikke at du med Android kan skru og mekke til du blir blå i ansiktet, noe Apple ikke tillater i samme grad med iPad. 
+
+Skuffende på video 
+
+Ett av områdene der nettbrett gjerne utmerker seg er ved avspilling av video. 
+Et brett som for eksempel Samsung Galaxy Tab spiller av nesten rubbel og bit, og selv HD-videoer av høy kvalitet takler den på strak arm. 
+
+Slik er det dessverre ikke med A500. 
+Den sliter betydelig mer med videoavspilling, og til tross for at vi forsøkte tre ulike video-apper var det en rekke videoer den rett og slett ikke ville forholde seg til. 
+Det er skuffende at et nettbrett som er så stødig på de fleste andre områder ikke klarer seg bedre, og selv enkelte HD-videoer kodet som 720p skapte problemer. 
+
+Kamera og batteri 
+
+Det er fortsatt ikke laget et nettbrett som tar like bra bilder som de beste smartmobilene, så A500 er ikke alene om å befinne seg midt på treet hva bildekvalitet gjelder. 
+Nå har vi for så vidt gjentatt dette til det kjedsommelige, men det er uansett ingen takknemlig oppgave å knipse bilder med et halvstort vaskebrett på over 700 gram, og oddsene er gode for at mobilen din allerede tar like bra bilder - og kanskje også video - som A500 gjør. 
+
+Batteritiden er hyggeligere lesning. 
+Den oppgis til rundt 10 timer hvis du bruker brettet til surfing og lettere oppgaver, men synker til åtte timer ved avspilling av HD-video. 
+Dette samsvarer også med våre inntrykk. 
+
+I motsetning til for eksempel Samsung Galaxy Tab kan ikke Iconia Tab A500 brukes på 3G eller GSM-nettet, og det er derfor heller ikke mulig å bruke den som mobiltelefon. 
+
+Konklusjon 
+
+Til tross for enkelte skjønnhetsfeil, og til tross for at vi møtte på litt for mange problemer ved avspilling av videofiler, er Iconia Tab A500 et hyggelig bekjentskap - og langt hyggeligere enn Windows 7-versjonen med nesten samme navn. 
+
+Vi er spesielt imponert over hvor mye du får for pengene. 
+A500 ligger for tiden på rundt 4.000 kroner i norske nettbutikker, noe som er hundrelappen mer enn for eksempel rimeligste Apple iPad 2, men du får til gjengjeld dobbelt så mye lagringsplass som på eplebrettet. 
+Det er i seg selv verdt noen hundrelapper. 
+
+Android i Honeycomb-drakt er også et svært lovende prosjekt, selv om det fortsatt ikke virker helt ferdig. 
+Forvirringen som oppstår idet en går fra Android-mobil til Android-nettbrett er merkbar, men, takket være vår venn vanen, tar det ikke så veldig lang tid før de nye menyene, de nye ikonene og de nye snarveiene sitter. 
+Android Market ser dessuten bedre ut enn noensinne, og hjemskjermen er med Honeycomb et lite kraftsenter i seg selv. 
+
+Vekta er litt i overkant, og batteritida ikke helt på høyde med iPad 2 (som til gjengjeld er ekstremt bra på video), men den er på langt nær så middelmådig som på HTC Flyer. 
+
+Vi skylder likevel leserne våre å gjøre oppmerksom på at Android-nettbrettene står i kø om dagen. 
+Samsungs nye Galaxy Tab-brett, som kommer med skjermstørrelser på både 8.9 og 10.1 tommer, ser svært lovende ut på papiret, det samme gjør LG Optimus Pad. 
+Nettbrettkjøpere har med andre ord mye å se fram til. 
+Enn så lenge nøler vi ikke med å gi A500 en femmer, selv om terningen ikke er den sterkeste vi har gitt. 
+
+For rundt 4000 kroner har du likevel lite å klage på hvis du går for en A500. 
+
+Acer Iconia A500 32GB 

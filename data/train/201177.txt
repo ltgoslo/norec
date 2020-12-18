@@ -1,0 +1,107 @@
+A.C. Ryan PlayOn!HD 
+
+Mediespillere til stuebruk blir stadig mer avanserte. 
+Og dette er kanskje den aller mest avanserte akkurat nå. 
+Vi har testet. 
+
+Stadig mer av filmer, musikk og bilder distribueres via Internett, og det har gjort at flere og flere ser behovet for en stue-PC eller en annen innretning som lar dem nyte mediefilene på TV-skjermen. 
+Dette har selvsagt produsentene fått med seg, og markedet overøses nå av forskjellige mediespillere, og prisene kryper stadig nedover. 
+
+Nylig la vi ut testen av Asus O!Play her på DinSide Data. 
+Dette var en mediespiller som tok så og si alt av digitale formater, noe som slett ikke var en selvfølge for bare kort tid siden. 
+Prisen er det heller ikke noe å si på, like under tusenlappen er veiledende pris fra Asus. 
+Les testen her. 
+
+Denne gangen har vi sett nærmere på en mer avansert sak, Playon! 
+HD fra A.C. Ryan har for eksempel innebygd harddisk, som kan fylles opp enten ved å la den fungere som en filserver i nettverket (NAS), fra portable harddisker eller direkte tilkoblet PC-en via USB. 
+
+Men det er mer. 
+Her er en liste over de viktigste egenskapene: 
+
+* Multimediespiller for video, bilder, musikk, tar så og si alt av formater (se lenger ned) * innebygd harddisk (vårt testeksemplar hadde en på 1000 GB) 
+* Kan brukes som vanlig ekstern harddisk (via USB) 
+* Eksterne USB-harddisker/minneplugger/minnekort kan kobles til * Kan kobles rett på nettverket via kabel. 
+WLAN er opsjon. 
+* NAS (innebygd SAMBA filserver) 
+* Kan streame fra uPnP-enheter i nettet 
+* Kan streame til uPnP-enheter i nettet * Innebygd bittorrent-klient 
+* Internettfunksjonalitet med streaming av nettradio full liste (ekstern lenke) 
+
+Som om ikke dette var nok, kan PlayOn! 
+HD også oppgraderes, og det planlegges blant annet støtte for YouTube-streaming, bildesøk etc i fremtidige firmware-oppdateringer. 
+Ta en titt her for å få en idé om noe av det som er på trappene. 
+
+Vi understreker at vi ikke har testet bittorrent- og NAS-funksjonaliteten, men har konsentrert oss om medieegenskapene som i de foregående testene våre. 
+
+Enkel oppkobling 
+
+Spilleren kobles enkelt til en ledig HDMI-inngang på TV-en din, og HDMI-kabel følger med i esken. 
+Hvis du har en eldre TV uten digitale HD-innganger, kan du i stedet koble til via komponent for analoge HD-signaler. 
+Som en kriseløsning kan du også bruke kompositt-kabler (som for øvrig også følger med), men dette anbefales strengt tatt ikke om du vil ha den beste bildekvaliteten. 
+
+PlayOn! 
+HD er utstyrt med en liten vifte i bakkant som gir en jevn suselyd som er lett hørbar når lyden er skrudd ned, men som ikke kan betegnes som sjenerende på noen som helst måte. 
+
+Den tar alt. 
+Nesten. 
+
+Seks sekunder tar det fra du skrur på spilleren til den er klar til bruk. 
+Det er kjapt for en enhet med innebygd disk! 
+Så er det bare å bruke fjernkontrollen til å navigere seg gjennom harddisken eller tilkoblede enheter. 
+
+Menystruktur og oppbygning minner mistenkelig om den du finner på Asus O!Play, og det skulle etter hvert vise seg å være flere likhetstrekk. 
+For formatstøtten er så godt som identisk, og feilmeldingene som dukket opp der vi støtte på problemer, var så og si de samme. 
+Vi antar derfor at dekoderen er identisk i de to spillerne. 
+
+For deg som bruker betyr det bare én ting: suveren formatstøtte med minimale problemer. 
+Vi har gjort dyptpløyende tester av formatstøtten, og våre erfaringer er listet ut i tabellen under: 
+
+De eneste større problemene vi oppdaget under videoavspilling, var altså feil skalering av 1080i-klipp i WMVHD-format, og manglende lyd på .ts-klippene våre. 
+Ønsker du at vi tester flere formater i fremtidige tester? 
+Bruk debatten nederst! 
+
+Litt smårusk 
+
+Når det gjelder navigeringen, er den funksjonell, men enkel. 
+Det er ikke mulig å vise miniatyrer av bilder og videoer, bare utlisting - med forhåndsvisning. 
+Denne kan imidlertid skrus av hvis du synes det blir slitsomt. 
+
+Vi oppdaget imidlertid et par feil - for eksempel sorteres filnavn som starter med liten bokstav sist i listene, og de norske bokstavene æøå blir flere steder skrevet med fet skrift. 
+Dette gjentar seg også i undertekster av typen SRT. 
+Noen små problemer som sikkert lar seg fikse i fremtidige firmware-oppdateringer. 
+
+Spilleren reagerer relativt kjapt på trykk på fjernkontrollen, men noen ganger hopet trykkene seg opp mens vi bladde i fillisten. 
+Det førte til at den bladde seg forbi filen vi ønsket å spille av. 
+Heller ikke noe stort problem, men Asus O!Play reagerte både raskere, og hadde ikke dette problemet. 
+
+Fjernkontrollen er større og har langt flere knapper enn de fleste andre mediespillerne vi har testet. 
+Det gir flere direktevalg, men kan også komplisere tingene mer enn nødvendig, synes vi. 
+
+For øvrig har PlayOn! 
+HD mye bra å by på. 
+Alle slags medier avspilles mer eller mindre kontant. 
+
+Morsomt at du kan spille av filmer i 2x hastighet med lyd, noe som gjør det mulig å gjøre seg ferdig med kjedelige partier uten å miste handlingen. 
+
+Vi likte også at du har full DVD-opplevelse med menyer og det hele ved avspilling av ISO-filer og VIDEO_TS-mapper. 
+
+Bør bli bedre på musikk 
+
+Som med Asus O!Play er ikke denne spilleren optimalisert for musikkavspilling, støtte for alle aktuelle filformater til tross. 
+Det finnes for eksempel ikke en knapp på fjernkontrollen som tar deg til neste sang, for eksempel, og sortering skjer på bakgrunn av filnavn, ikke tagger, med de uheldige utslag det kan ha. 
+
+Bildevisning er den imidlertid god på, og du kan velge mellom å bla selv eller sette på slideshow - med eller uten en eller alle av de 7 glidende overgangseffektene og bakgrunnsmusikk. 
+Men merk at den laster små bildefiler vesentlig kjappere enn store, og ønsker du å zoome på detaljer tar det fort noen sekunder på store bildefiler. 
+
+Treg NAS 
+
+Dersom du tenker å bruke denne spilleren til nettverkslagring, bør du være oppmerksom på at det kun sitter et 100 MBit-nettverkskort i den. 
+Det betyr at hastigheten neppe vil overstige 10 MB pr sekund, så for store filmengder - og størrelser, finnes det langt raskere løsninger på markedet. 
+
+Konklusjon 
+
+Du vil nok få problemer med å finne mange mediespillere med flere funksjoner enn denne, og viktigst av alt - den har den beste mediestøtten som finnes i markedet pr dags dato. 
+Det er også betryggende at A.C. Ryan har stort fokus på å utvide funksjonaliteten etter hvert. 
+
+Noen små minus er det imidlertid, som svak musikkfunksjonalitet, ikke optimal på æøå og sortering, men totalt sett en svært god mediespiller til en bra pris. 
+Med 1 TB harddisk ligger prisen på ca 2200 kroner, uten disk rundt 1500 kroner. 

@@ -1,0 +1,78 @@
+JVC Everio GZ-MG505
+TEST: 
+3CCD-brikke, 5Mp stillbilder og høy prislapp. 
+Er kameraet verdt de ekstra kronene? 
+
+JVC var først ute med harddiskkameraer, og i skrivende stund er det dette som er toppmodellen, med en prislapp tett oppunder 10.000 i de billigste nettbutikkene. 
+For de ekstra kronene (i forhold til Sony-kameraet vi også har testet i denne omgangen), får du midlertid et par ting verdt å sette fingeren på - for det første: en trippel CCD-sensor med 2,5Mp effektiv oppløsning. 
+3CCD-systemet går ut på at hver sensor er tilegnet én farge (rød, grønn og blå), og fargene splittes til hver sensor med et prisme. 
+Fordelene er at bildekvaliteten blir bedre enn den blir på kameraer med én brikke, fordi disse kameraene må bruke bayer-filtrering og interpolering for å danne bildet. 
+
+Det var dagens leksjon - vi tar en titt på kameraet, som gir oss et godt kvalitetsinntrykk ved første øyekast. 
+Kameraet er betraktelig tyngre enn SR80 og kommer i helsort, og det har også flere tilkoblingsmuligheter enn kameraet fra Sony. 
+Harddisken er imidlertid ikke like stor - 30GB kontra 60GB hos SR80, som gir 7 timer med opptak i beste kvalitet. 
+
+Optisk er spesifikasjonene ganske gode - 10x optisk zoom med vidvinkel tilsvarende 41,2mm gjør at du spesielt innendørs vil merke at du får plass til mer i bildet. 
+Blendertallet er f/1,8 på vidvinkel og f/2,4 på tele, som også er gode tall. 
+Spennet i lukkertid er også større enn for Sony-kameraet, med 1/4000s som korteste og 1/2s som lengste lukkertid. 
+Kameraet er også såpass avansert at du kan styre både blenderåpning og lukkertid manuelt. 
+
+LCD-skjermen er like stor som for Sony-kamera, men med litt lavere oppløsning på 112.000 piksler. 
+Den har et større avvik i forhold til "sannheten" når det gjelder fargenivå - mens LCD-skjermen på Sony-kameraet er noe grå, er det litt for mye farge i JVC-kameraet igjen. 
+Skjermen har også en ganske blank overflate, som gjør at den er litt svakere i sterk belysning. 
+Skjermen er heller ikke trykkfølsom. 
+
+På venstre side av skjermen finner vi en liten joystick. 
+Den brukes for å navigere i menyen, og dersom du har satt kameraet i manuell modus, kan du også bruke den som snarvei til fokusering, bildeformat, nattmodus og manuell kontroll (hvitbalanse, blender, lukker etc.). 
+Den manuelle fokuseringen kunne ha vært bedre - du bruker høyre og venstre på joysticken, men får ingen indikasjon på hvor langt unna du fokuserer, og den er ikke like effektiv som å kunne vri på en ring. 
+Den nederste knappen gir deg kjapp informasjon om gjenstående batterilevetid og tilgjengelig harddiskplass - sistnevnte i minutters opptak i forskjellige kvaliteter, noe vi foretrekker fremfor antall gigabyte. 
+
+På innsiden av LCD-skjermen finner vi også et lite utvalg av knapper. 
+En bryter bytter mellom film og stillbildemodus - setter du kameraet i sistnevnte, brukes start og stopp-knappen som utløserknapp. 
+Kameraet tar bilder med 5 megapikslers oppløsning; helt i en annen klasse enn Sony-kameraet, noe du ser eksempel på under. 
+Du finner også menyknappen her (litt knotete plassering, synes vi), en sletteknapp for opptak og en knapp som bytter mellom manuell og automatisk modus. 
+Kameraet slås på med en bryter på toppen av kameraet, med en oppstartsid nokså lik kameraet fra Sony, men et halvt sekund tregere (6,5s). 
+
+Kameraet har godt med tilkoblingsmuligheter. 
+En standard blitssko på toppen av kameraet og separat mikrofoninngang i front (mini jack), gir deg utvidede muligheter i forhold til Sony-kameraet. 
+Du kan også plugge USB-kabelen rett i kameraet for overføring av materiale, koble kameraet til TV eller koble laderen til for å lade batteriet rett i kameraet. 
+Batteriet lever ikke like lenge som det gjør hos Sony, og 45 minutter synes vi er i minste laget for denne typen kamera. 
+For øvrig følger det også med en fjernkontroll som kan brukes for å spille av og inn. 
+
+Overføring til PC 
+
+Som med Sony-kameraet dukker også MG505 opp i Windows under en egen stasjonsbetegnelse, men der Sony-kameraet produserte standard MPG-filer, ligger JVC-filene i MOD-format - ikke like fleksibelt, men kan heldigvis konverteres med medfølgende programvare. 
+
+Den medfølgende programvaren er levert fra CyberLink - PowerDVD 5 NE (til å spille av DVD-plater), PowerDirector Express NE (til å redigere film) og PowerProducer 3 NE til å lage DVD-plater. 
+Programvaren er langt bedre enn den som følger med SR80 - her kan du operere med tidslinje, klippe til, legge på musikk etc., og også lage DVD-menyer etc. 
+
+Videokvalitet 
+
+Sammenlignet med Sony-kameraet synes vi JVC har en generelt bedre bildekvalitet; spesielt når det gjelder farger, som bevares langt bedre når lystilgangen blir dårlig, og det er en situasjon du filmer i oftere enn du kanskje tror. 
+(JVC til høyre) 
+
+Alt er imidlertid ikke bedre. 
+For det første virker ikke objektivet å være like godt - det har mer enn moderat fortegning (tønneeffekt) og også den kromatiske feilbrytningen er noe høyere enn den er for SR80. 
+Bildestabilisatoren er heller ikke like god som hos Sony. 
+
+Autofokusen har mindre problemer i dårlig lys og "jakter" ikke like mye, men den er ikke like rask som SR80 i dagslys. 
+Det gjelder også for lysmåleren, som bruker et par tideler ekstra når du bytter raskt mellom lys og mørke. 
+
+Stillbildene fra MG505, som er fem megapiksler, har litt større bruksområde enn de fra SR80 og også bedre kvalitet, uten at det kan måle seg med et kurant stillbildekamera: 
+
+Konklusjon 
+
+MG505 fra JVC er nesten 3.000 kroner dyrere enn SR80 fra Sony, men kommer med både fordeler og ulemper. 
+Bildekvaliteten er bedre, spesielt med tanke på bevaring av farger i dårlig lys og dynamikk i bildet, og videokameraet har flere tilkoblingsmuligheter. 
+Blant annet kan du koble videokameraet rett i USB-porten uten å måtte drasse på en krybbe, og det er mulig å koble til både standard mikrofon og ekstern lyskilde på en gang. 
+Positivt er det også med 5Mp oppløsning på stillbildene, selv om bildekvaliteten ikke er like god som på et kurant stillbildekamera. 
+
+På den andre siden er ikke kameraet veldig brukervennlig, både når det gjelder betjening og det faktum at videofilene er i et format som må konverteres først. 
+Det er også egenskaper ved bildet som er bedre hos Sony, som for eksempel bildestabiliseringen og raskere respons ved skifting av lysforhold. 
+JVC-kameraet har dessuten bare halvparten så stor harddisk, og batterilevetiden er usle tre kvarter, som vi synes er alt for lite til et slikt videokamera. 
+På den positive siden, igjen, følger det med langt bedre programvare når du kjøper MG505, selv om vi fortsatt vil anbefale en oppgradering til Premiere Elements dersom du virkelig vil slå deg løs med hjemmevideoen. 
+
+Prislappen er også i høyeste laget. 
+Når kameraet koster nesten 10.000 er det ikke langt opp til HD-kameraene, som bør være høyaktuelle når du først har tenkt til å bruke så mye penger på et videokamera. 
+Sony HDR-HC3, for eksempel, koster omtrent like mye, men får en bildekvalitet ut av en annen verden på HDTV. 
+I tillegg kommer Sony straks med et harddiskkamera med HD (SR1), som mange venter spent på. 

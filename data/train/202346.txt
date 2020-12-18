@@ -1,0 +1,88 @@
+Acer Aspire 5672WLMi
+Acers 5672WLMi er en bærbar som nesten har alt. 
+Men har den rett mengde av de rette tingene? 
+Vi har testet. 
+
+Acer Aspire kommer i flere former enn kjempen vi nylig så på. 
+En annen av disse har den enkle betegnelsen 5672WLMi, og er i grunnen en litt merkelig skapning. 
+Men utseendemessig er den nokså normal: 
+
+LES OGSÅ: 
+
+Acer Aspire 5672WLMi er relativt slank og elegant, rund i kantene og, som bærbare gjerne er for tiden, oppskriftsmessig i sort og metallic plast. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2300 @ 1,66 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 2 GB DDR-minne (2 x 1024 MB) 100 GB harddisk (5400 rpm) 8x DVD dual-layer DVD-RAM/DVD/CD-brenner ATI Mobility Radeon X1400 (512 MB minne) 54 Mbps WLAN (a/b/g) Blåtann og IR + Gigabit LAN + modem 4x USB, 1x FireWire (4-pin), lyd inn/ut 1 CardBus kortplass, 1 ExpressCard plass (26-pin) 5-in-1 kortleser: SD, MMC, Memory Stick, Memory Stick Pro, xD DVI, VGA og S-Video-utgang (7-pins) Integrert Acer OrbiCam på 1.3 megapiksler Acer Blåtann VoIP telefon Dimensjoner (B/D/H): 
+36,5 x 27,9 x 3,8 cm Vekt 3,0 kilo Operativsystem: Windows XP Home Edition Pris: 
+14.000 inkl. mva. 
+
+Skjermen er, som i likhet med mange andre bærbare vi har sett på i det siste, en 15,4" bredskjerm med oppløsning på 1280 x 800 piksler. 
+Den er også av den blanke typen med kontrastbelegg og er klar og god - selv om betraktningsvinkelen ikke er like god som på en "vanlig" skjerm. 
+Som typisk for bærbare tåler heller ikke skjermen særlig press mot baklokket. 
+
+Konstruksjon 
+
+Maskinen er ikke akkurat en ultraportabel sak, men byggekvaliteten er god og designet er preget av runde kanter som trolig heller ikke vil skremme noen. 
+Vekta på tre kilo merkes selvfølgelig dersom du skal bære den rundt hele dagen, men det er nå engang hva bærbare på denne størrelsen pleier å veie. 
+
+Touchpaden er av samme type som vi fant på Aspire 9800 
+
+Over tastaturet er det noen snarveisknapper i tillegg til av/på-knappen: nemlig for internett, epost, og et par for Acer-styring, men du kan også konfigurere de selv. 
+Til venstre for tastaturet er det en smal stripe med medieknapper: volum opp og ned, play/pause, forrige, neste og stopp. 
+Andre snarveier styres med Fn-tasten. 
+
+Acerens tilkoblingsmuligheter er relativt mange, og er spredt litt rundt: 
+
+På høyre side er det litt av hvert. 
+Lengst fremme en firewire-port, etterfulgt av en CardBus- og ExpressCard slot. 
+Så kommer 2 x USB pluss TV-ut og VGA-kontakten. 
+Varmluften kommer også ut her mellom de to siste elementene. 
+
+Til venstre er det optiske drevet plassert. 
+I tillegg er det 2 x USB og modemkontakten. 
+Også strømuttaket er her, plassert lengst bak. 
+
+På baksiden er det ikke så mye, mye av plassen er nemlig en del av batteriet. 
+Kun DVI- og nettverkskontakten er her. 
+
+Fronten har altså (foruten høyttaler-grillene) inn- og utganger for lyd, infrarød sender/mottaker, minnekortleser og knapper for å enkelt skru av og på trådløst nett og blåtann. 
+På lokket sitter webkameraet, som også kan dreies rundt og ta bilde/film av det som er bak maskinen. 
+
+God ytelse, men... 
+
+Innen ytelse så vi på to ting: spillytelse og generell/prosessorytelse. 
+Sistnevnte var helt som forventet, altså god. 
+Vi sammenlignet med den nylig testede Dell Inspiron 6400 med samme prosessor: 
+
+Ren prosessorkraft. 
+Verdien er i sekunder, og lavere score betyr kjappere maskin. 
+Ikke helt uventet var ytelsen tilnærmet lik for de to maskinene. 
+
+I PCMark og 3DMark merker vi derimot tydelig at Aceren har et betydelig bedre grafikkort. 
+Høyere score her vil si bedre maskin. 
+
+Noe i Acer Aspire 5672WLMi er glad i strøm, for den blir varm. 
+Og vi ble vel ikke helt enige om hva som irriterer oss mest: at det fører at vifta slår seg av og på med jevne mellomrom (for den er ikke av de mest støyende), eller at touchpaden blir så varm at det rent blir ubehagelig for de av oss med puselanker. 
+Uansett betyr det at batteriet fort blir tomt. 
+Batterymark stoppet rett under to timer, og det er stor forskjell fra Dellen som holdt i seks og en halv! 
+
+Kan en graf si mer enn tusen ord? 
+Batteritid i minutter. 
+
+Vi testet også maskinen uformelt med et par spill, bare for å se hva en Mobility X1400 med 512 MB kunne klare. 
+Ved å lempe kraftig på kravene i F.E.A.R., med "medium" instillinger for maskin og "low" for grafikkortet, ble det spillbart i 800 x 600 oppløsning. 
+Men det ser jo litt gjørme ut. 
+
+Vi ville jo også prøve noe i 1280 x 800, og HalfLife2 er perfekt til dette. 
+Men selv når vi skrudde alle andre instillinger til det laveste kom vi såvidt over 40 FPS i snitt med Lost Coast Stress Test. 
+Så er du på utkikk etter en laptop å game på er nok ikke dette maskinen for deg. 
+
+Konklusjon 
+
+Vi er litt usikre på hva slags bruksområde Acer egentlig har tenkt med denne datamaskinen. 
+Ikke det at det er den direkte dårlig bærbar PC, men den faller på et vis mellom to stoler. 
+Seriøse spillere vil mene den er for svak, mens grafikkort og ikke minst mengden RAM er overkill for de som bare skal bruke den til Office, Internett og the Sims. 
+Til videoredigering og tung bildebehandling vil den nok føle seg hjemme, men vi tenker likevel at det kanskje ville vært bedre å kutte ned til en gigabyte minne og brukt de sparte pengene på et enda bedre grafikkort... 
+
+Når maskinen i tillegg har relativt kort batteritid og mye utvikler mye varme overskygger det dessverre den gode skjermen og den komplette pakka med webkamera, og gjør at Acer Aspire 5672WLMi dessverre ikke når helt opp. 

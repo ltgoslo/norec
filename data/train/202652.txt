@@ -1,0 +1,103 @@
+TEST:HTC Tattoo Android-mobil 
+
+Googles operativsystem vokser og vokser for hver dag som går. 
+Her er billigmobilen som skal gi Android til folket. 
+
+Den taiwanske mobilprodusenten HTC har de siste årene bare blitt bedre og bedre med å lage brukergrenesnitt som er både innbydende og funksjonelle, selv når de har måttet kle opp gamle Windows Mobile i ny drakt. 
+
+De var en av de første som tok i bruk Googles fleksible, mobile operativsystem,, og med HTC Tattoo begår de sin tredje smartmobil med Android installert. 
+
+You know - for the kids(*) 
+
+Tattoo har et navn som ganske tydelig markerer hvor i markedet mobilen har tenkt å slå seg ned: 
+HTC tenker mest på den oppvoksende slekt, noe som understrekes gjennom utvalget utskiftbare deksler som er, eller vil bli, tilgjengelig for de estetisk rastløse. 
+
+Designet er ikke helt ulikt mobilen vi lenket til i første avsnittet, HTC Touch, og sammenliknet med for eksempel HTCs nest-ferskeste Android-mobil, Hero er alt noe mindre. 
+Skjermen måler 2.8 tommer, vekta lander på 113 gram, mens de fysiske målene totalt sett er langt mer beskjedne enn hos den heltemodige storebroren. 
+
+Skjermen er trykkfølsom, og altså dessverre av den klassiske, eldre typen. 
+Både HTC 
+Hero og iPhone benytter seg av såkalte berøringsfølsomme skjermer, der bare en ørliten berøring er nok til at fingertrykket og -bevegelsene registreres. 
+På Tattoo må du være mer bestemt når du for eksempel starter et program eller skriver tekstmeldinger, og selv om HTC har gjort en bra jobb med å minske avstanden mellom de to teknologiene, er fortsatt en berøringsfølsom skjerm å foretrekke - i det minste for min egen del. 
+
+Trenger vi knappene? 
+
+Under skjermen finner du, avhengig av hvordan du teller, åtte fysiske taster. 
+De utfører ikke mer avanserte operasjoner enn at det burde være mulig å bake funksjonaliteten inn i operativsystemet, og kanskje bruke knappearealet til noe annet. 
+Det dreier seg blant annet om en hjem-knapp, en tilbake-knapp, en meny-knapp, og et par knapper for å svare og avbryte anrop. 
+
+Ellers har Tattoo det meste du måtte ønske deg av en moderne smartmobil, inkludert super-3G (HSDPA), Wlan, GPS, USB-tilknytning, standard minijack-utgang (3.5mm) for hodetelefoner, støtte for Exchange, push-teknologi, og et kamera med 3.2 megapiksler. 
+
+Ok, du kunne kanskje ønsket deg litt mer enn 3.2 megapiksler, men kameraet tar greie nok bilder til at du kan dokumentere festlige lag uten å hyre inn privatetterforskere i etterkant for å identifisere hvem som er med på bildene. 
+
+Slik er den i bruk 
+
+Nå er riktignok versjon 2.0 av Android-operativsystemet snart klar til å rulles ut, men enn så lenge er 1.6 den siste utgaven som er tilgjengelig for vanlige brukere. 
+På Tattoo er sistnevnte allerede installert. 
+
+Som vi nevnte innledningsvis er HTC flinke designere. 
+De vet at brukergrensesnitt ikke kan se ut som terminalkommandoer i MS DOS, og i Android får de virkelig lekt seg med både grafiske elementer og funksjonell design. 
+
+Hjemmeskjermen er ikke så veldig ulik det de har levert på Windows Mobile-mobiler tidligere, og har du en HTC Hero er vil du kjenne deg like godt igjen som når du kommer hjem til din egen stue etter en lang dag på jobb. 
+Oppsettet er lekkert, med en stor klokke øverst, og et utvalg brukerdefinerte såkalte widgets under der igjen. 
+I tillegg til hovedskjermen finner du flere "sideskjermer", som kan påkalles ved å dra fingeren over skjermen enten mot venstre eller høyre. 
+Disse skjermene kan også fylles med widgets, eller de kan tildeles bestemte applikasjoner. 
+
+Smått er godt 
+
+Widgetene (noen som tør prøve seg på en fornorsking?) er små applikasjoner som kan være alt fra epost-klient og meldingstjeneste til nettleser, kamera, Facebook, Twitter, Bittorrent(!) og det meste annet som enten følger med mobilen, eller som kan lastes ned fra programvarebutikken Android Market. 
+
+Dette er Googles alternativ til ekstremt populære App Store på iPhone, og selv om utvalget i disse utgjør omtrent en tiendel av det du finner hos Apple, burde selv den mest kresne bruker være fornøyd med rundt 11.000 applikasjoner. 
+
+Twitter-klienter og en Facebook-applikasjon er nok noe av det første mange Android-brukere vil laste ned, og selv om ingen av disse programmene så langt ser like bra ut som iPhone-alternativene, har begge én stor fordel sammenliknet med sine konkurrenter: 
+På Android kan slike programmer være aktive mens du holder på med helt andre ting. 
+
+Derfor kan du enkelt stille inn Twitter til å gi beskjed om at du skal varsles hver gang det dukker opp en tweet med ditt navn i, eller du kan få beskjed om at Facebook-oppdatert. 
+
+Slik tømmer du batteriet 
+
+De fleste prosesser kan altså kjøres parallelt. 
+Vær bare oppmerksom på at dette sluker batteri med en glupskhet vi knapt kan huske å sett på en mobil før. 
+Hvis du åpner alle dataslusene og lar ethvert program som kan jobbe i bakgrunnen hente data når det trengs, vil batterisymbolet nærme seg rødt i en, på sett og vis, imponerende hastighet. 
+
+Modererer du deg derimot en smule, og for eksempel bare lar noen datakanaler være åpner, vil batteritiden stige ganske betraktelig - selv om Tattoo ikke er den mest imponerende mobilen vi har vært borti på dette området. 
+
+Android-operativsystemet vil ikke støtte Microsofts epost- og kalenderprotokoll Exchange før i versjon 2.0, men HTC har inkludert sin egen løsning i Tattoo, som på vår modell gjorde akkurat den jobben den skulle. 
+Oppsettet er enkelt å klargjøre, og kort tid etter at det er lagret strømmer eposten inn i innboksen. 
+Du kan naturligvis også synkronisere kontaktene dine og kalenderen. 
+
+Vær også her oppmerksom på at Exchange er en såkalt push-tjeneste, hvilket betyr at den er kontinuerlig på nett for å sjekke om det finnes nye epost-, kalender- eller kontakthendelser. 
+Skru av push hvis du vil at batteriet skal holde helt til kvelds, med andre ord. 
+
+Talekvalitet og GPS 
+
+Samtalekvaliteten på Tattoo er god og volumet mer enn høyt nok, selv om diskanten kanskje er litt i snilleste laget for de av oss har passert både middags- og desserthøyden hva hørsel angår. 
+
+GPSen fungerte imponerende bra i vårt testområde, og ga inntrykk av å oppdateres oftere enn for eksempel iPhone 3GS' innebygde GPS. 
+Karttjenesten er naturlig nok levert av Google i form av en mobilifisert Google Maps, og gjør en habil navigasjonsjobb uten at den tråkker profesjonelle navigasjonsprogrammer på tærne. 
+
+Det vil si: 
+Det er nettopp det som kommer til å skje. 
+Google slapp nemlig en aldri så liten sjokkbeskjed denne uka, ikke minst hvis du heter for eksempel TomTom eller Garmin. 
+På sin egen blogg introduserte de et fullverdig GPS-program for Android 2.0-mobiler. 
+Det er foreløpig ikke kjent om Tattoo er klar for Android 2.0, men det vil være et pussig grep av HTC hvis de av en eller annen grunn skulle sette kjepper i hjulene for Tattoo-eierne. 
+
+Konklusjon 
+
+Det er mye å like med HTC Tattoo. 
+Den er er liten og lett, ligger godt i hånda, og er stappfull av funksjonalitet. 
+
+Android-operativsystemet er virkelig i ferd med å komme seg ut av puberteten, og kombinasjonen Android og HTCs overflatebehandling er et godt eksempel på hvor bra Android kan bli. 
+
+Helt voksent er det fortsatt ikke, men potensialet er kolossalt. 
+De har et mer enn brukbart alternativ til Apples iPhone App Store, som dessuten vokser i en voldsom fart. 
+Løsningen er langt fra like elegant, men det kommer. 
+Fleksibiliteten overgår dessuten det du finner i Apple-mobilen, ettersom alle, og ikke bare noen, programmer kan kjøre i bakgrunnen. 
+
+Tastaturet er derimot ikke helt i mål, og på Tattoo blir det tidvis i overkant slitsomt av to grunner: 
+Størrelsen på skjermen, og det faktum at den er trykkfølsom. 
+Det er en kombinasjon som i gamle dager ville ført til bruk av pekepenn, og selv om du aldri føler deg fristet til å finne fram tannpirkere for å skrive lange tekstmeldinger, er iPhone fortsatt referansen når det kommer til mobiltelefoner uten fysisk tastatur. 
+
+Likevel, med en prislapp på rundt 2800 kroner er det mye å like her. 
+Hvis neste versjon har berøringsskjerm og legger på seg et par tommer begynner vi virkelig å snakke. 
+Og skrive. 

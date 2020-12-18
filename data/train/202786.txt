@@ -1,0 +1,99 @@
+HP Folio 13
+HPs første ultrabook er blant de bedre vi har testet. 
+
+Markedet for tynne, lette bærbare er i sterk vekst, og mot slutten av 2012 regner Intel med at 2 av 5 PC-er som selges vil være av typen Ultrabook eller tilsvarende, altså maskiner som veier under halvannen kilo, og som i stor grad vil være utstyrt med SSD istedenfor harddisk, uten optisk drev og med spesialsydd strømgjerrig Intel-prosessor. 
+Også AMD kaster seg på bølgen, og snart vil vi se alternative ultrathins - som stiller i samme klasse, men med AMD-. 
+
+Men foreløpig er det Intel-baserte Ultrabooks som dominerer, og Folio 13 er et spennende tilskudd til disse - den første fra verdens største PC-produsent, HP. 
+
+Tyngre enn konkurrentene 
+
+Maskinen er litt tyngre enn de andre vi har testet, men dette får du igjen i form av bedre batteritid. 
+Mer om det senere i denne testen. 
+
+Her er en oversikt over de viktigste egenskapene: 
+
+13,3" LED-baklyst blank LCD, 1366 x 768 piksler Intel Core i5-2467M ULV-prosessor Intel HD 3000 integrert grafikk 4 GB RAM (maks 4) 128 GB SSD HDMI-utgang 3,5 mm lyd inn/ut 1 stk USB 2.0-port 1 stk USB 3.0-port Gigabit kablet nett Trådløst nett (b/g/n) Bluetooth-støtte Minnekortleser Windows 7 Home Premium Størrelse: 31,9 x 22 x 1,8 cm Vekt: 
+1,5 kg 
+
+Maskinen skiller seg ut fra de mest minimalistiske ved at alle tilkoblingspunkter er i fullstørrelse, det betyr for eksempel at du kan koble til nettverk og TV med standardkabler, uten behov for overganger. 
+
+Vekten er 100 gram høyere enn på de fleste andre ultrabookene vi har testet, noe som sannsynligvis skyldes at Folio er utstyrt med et større batteri (6 celler) enn de øvrige (4 celler). 
+Det skal ifølge HP føre til bedre batteritid. 
+
+Meget bra design 
+
+Maskinen er like tynn overalt, nærmere bestemt 1,8 cm. Overflaten er dekket av metall, det samme er innsiden rundt tastatur og pekeplate. 
+Rundt skjermen og på undersiden er det brukt et plastmateriale med lett gumiert overflate. 
+Det føles behagelig, og det føles solid. 
+
+Tastaturet er kanskje det beste vi har prøvd på noen ultrabook, med logiske plasseringer i chicklet-stil der hver tast er isolert fra de andre. 
+Det avgir minimalt med støy under skriving, og er responsivt og fast. 
+
+Pekeplaten er multiberøringsfølsom og krever imidlertid litt tilvenning, først og fremst fordi venstre/høyre knapp er integrert i selve platen: 
+
+Vi er litt skeptiske til en slik løsning, og mener separate knapper hadde vært bedre. 
+Merk imidlertid at hele platen kan benyttes til navigering så lenge berøringen er uavbrutt og starter over de integrerte knappene - noe som gir større handlingsflate enn hvis knappene ikke var integrert. 
+
+Alle tilkoblingspunktene sitter på venstre og høyre side, trukket mot bakkant. 
+Det er fornuftig mener vi. 
+Sitter du med PC-en i fanget er det enklere å komme til på siden med minnekort og øretelefonplugg, enn hvis disse satt i fronten - slik de gjør på enkelte maskiner. 
+
+Høyttalerne er merket Dolby Advanced Audio, og sammenlignet med de andre ultrabookene vi har testet er det ingen tvil om at disse avgir brukbar lyd, helt greit til bakgrunnsmusikk til arbeidet, radio og lignende. 
+
+Slik er den i bruk 
+
+Fra du skrur på maskinen til den er klar til bruk, går det ca 20 sekunder. 
+Det er omtrent som de andre, raskeste ultrabookene med SSD vi har testet. 
+
+Vi merker oss at maskinen avgir en godt hørbar viftesus som øker ved belastning, omtrent slik vi erfarte med Dell XPS 13 før vi oppgraderte BIOS-en på denne. 
+Det er mest utpreget når maskinen er tilkoblet nettstrøm. 
+
+Det er imidlertid en stor forskjell på Dell XPS 13 i forhold til Folio 13, og det er at sistnevnte kan bli temmelig varm på undersiden - selv med høy vifteaktivitet. 
+Det er et klart minus i våre øyne. 
+
+Maskinen er satt opp med et utvalg tilleggsprogrammer, de fleste fra HP selv. 
+Noen tredjeparts-programmer er også på plass, blant annet Norton Internet Security (2 mnds versjon), Evernote, Adobe reader og programvare til webkameraet, levert av Cyberlink. 
+Konfigurasjonen virker OK, og med unntak av varselbok om aktivere Norton - som ikke har lukkeknapp - er opplevelsen grei. 
+Maskinen er kjapp og fin i de fleste tilfeller, akkurat som sine konkurrenter med samme prosessor og SSD. 
+
+Hva med ytelsen? 
+
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen. 
+Vi minner om at skalaen her går fra 1.0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,3 Minne (RAM): 
+7,2 Grafikk: 
+4,7 Spillgrafikk: 
+6,2 Primær harddisk: 
+7,4 
+
+SSD-en har en middels god ytelse sammenlignet med de andre, det kan du se av diagrammet under. 
+Den er uansett langt raskere enn de aller fleste harddisker, spesielt når det gjelder skrivehastighet: 
+
+Passmark gir oss totalscore på 986, noe som plasserer den ganske midt på treet sammenlignet med ultrabook-ene vi har testet tidligere: 
+
+ULV-prosessoren fra Intel byr på god ytelse, og langt bedre enn Atom- og Fusion-løsninger i de billigere netbookene, men også et stykke bak tilsvarende Core i5-prosessorer til standard bærbare. 
+Om dette er særlig merkbart er ikke sikkert, det kommer an på hva du bruker PC-en til. 
+Til kontorbruk, surfing, video og musikk, inkludert multitasking, er vårt tips at du vil merke minimalt til det. 
+
+Noen spillmaskin er det imidlertid ikke, og det skyldes i hovedsak den integrerte grafikken i Core i5-prosessoren. 
+Det går greit til alt av video og enklere spill i nettleseren, men til tungt grafisk arbeid og nyere spill velger du noe helt annet. 
+Det er ikke mer å si om den saken. 
+
+Hva så med den tidligere omtalte batteritiden? 
+Som vanlig kjørte vi testen i to omganger, først uten belastning, kun tilkoblet WLAN - deretter med kontinuerlig videoavspilling til batteriet gikk tomt. 
+Resultatet - sammenlignet med andre, aktuelle ultrabooks, ser du i diagrammet under: 
+
+Konklusjon 
+
+Meget bra design, flott tastatur, god generell ytelse og batteritid, er positive ting vi vil huske fra denne testen. 
+Litt varm underside, noe viftestøy og litt vrien pekeplate er de største ankepunktene. 
+Vi lander til slutt på en svak femmer på terningen. 
+Absolutt en god maskin altså, men få spesielt med deg testene av Dell XPS 13 og Samsung 5-serie før du bestemmer deg. 
+
+Vi gleder oss til fortsettelsen, nå kommer snart ultrathins med innmat fra AMD, som vi har meget store forhåpninger til - ikke minst hva angår batteritid og grafikkytelse. 
+Så får vi se om det holder når annengenerasjon Ultrabook ankommer markedet omtrent samtidig. 
+Økt konkurranse vil imidlertid være gunstig for oss forbrukere uansett. 
+
+HP Folio 13-1000eo 

@@ -1,0 +1,56 @@
+Netgear N900
+Netgears toppruter lover ekstrem ytelse - leverer den? 
+
+Netgear N900, eller WNDR 4500 som den også heter, er ikke bare rask - den har også det meste man kan tenke seg at en bredbåndsruter for hjemmebruk har å by på. 
+Både ekstra rekkevidde og tilkoblinger av ekstrautstyr er med på lista, i tillegg til brukervennlighet og håndtering av alle typer trafikk. 
+
+Ruteren er litt større enn de andre ruterne vi har hatt på benken i det siste, og kommer med ferdigmontert fot for oppreist plassering. 
+Det er mulig å skru av denne foten og legge den flatt, hvis man har en passende torx-trekker for hånden. 
+
+Tilkobling 
+
+I motsetning til andre rutere kommer ikke denne med noen CD til installasjon. 
+Du skal bare slå av modemet, koble til ruteren, koble den til PC med nettverkskabel og starte en nettleser. 
+Så venter du litt og så skal den finne ut av det meste selv. 
+Siste hånd på verket må du selv ta deg av, men her kan du selv velge om du skal bruke enkle assistenter eller mer kompliserte manuelle oppsett. 
+
+Vi koblet opp som forklart i brukerveiledningen, men det skjedde ingen ting. 
+Nettleservinduet fikk ingen kontakt med noe som helst. 
+
+Da skal man skrive "routerlogin.net" i adressefeltet på nettleseren, så skal det etableres kontakt. 
+Og det gjorde det. 
+
+Men den videre nesten automatiske konfiguratoren fant ikke ut av Telenor sin ADSL bruker PPPoE, så vi måtte inn og velge de riktige parameterne "for hånd". 
+
+Når det var gjort gikk alt videre i den skjønneste orden. 
+
+Egenskaper 
+
+For å gjøre instillinger får man opp en brukervennlig Genie i nettleseren, herfra kan man velge enkle løsninger eller gå i dybden. 
+Alle egenskaper man forventer er på plass, i tillegg fant vi et par muligheter som noen kan være interessert i å aktivere. 
+
+Man kan stille inn tider hvor ruteren slår av og på det trådløse nettet, separat for de to frekvensene 2,4 og 5 Ghz. 
+
+Man kan også sette opp trafikkovervåking med begrensninger i oppetid eller opp/nedlastningsmengde. 
+
+De to USB-kontaktene på baksiden støtter skriver og felles lagring, noe som kan være praktisk der hvor plasseringen av ruteren passer rent praktisk. 
+USB er generelt også i tregeste laget for felles lagring. 
+
+Ytelse 
+
+Med den bærbare fra hp med 3 antenner var den enda et strå raskere enn Belkin sin toppruter når vi målte i stua to etasjer ned fra hemsen oppunder mønet. 
+
+Men ytelsen var ikke like god ned i kjelleren, der leverte Belkin både jevnere og raskere ytelse. 
+
+Med den bærbare fra Dell med to antenner var det motsatt. 
+Netgear var ikke like rask som Belkin, men lå nesten på dobbelt ytelse i forhold til Belkin. 
+
+Konklusjon 
+
+Netgear N900 tilbyr alt du kan tenke deg av muligheter, og for den avanserte bruker byr den på mer enn de fleste. 
+
+For de mindre entusiastiske er den ikke like strålende, det er noen få ting som skurrer litt. 
+
+Ytelsen er svært god, den ligger helt i toppen sammenlignet med de andre nyeste toppruterne, med litt annen ytelsesprofil enn vårt forrige testprodukt fra Belkin. 
+
+Netgear WNDR4500 v1 

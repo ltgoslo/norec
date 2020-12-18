@@ -1,0 +1,130 @@
+Toshiba Satellite C850D
+En bærbar PC til under 2500 kroner kan brukes til mangt, men ikke alt. 
+
+Vi har tidligere omtalt C850D som Norges billigste PC - med en prislapp på 2390 kroner for en utgave med 4 GB RAM og 500 GB harddisk. 
+For en hundrelapp mer kan man fortsatt få den med 6 GB RAM og 640 GB harddisk, og det er denne modellen vi har hatt på testbenken en ukes tid. 
+
+Mye for pengene 
+
+Og la det bare være sagt med én gang: 
+Så mye minne og så stor harddisk er svært sjelden kost i lavprismaskiner. 
+Maskinen er dessuten relativt bra utstyrt, så hvor har Toshiba spart penger? 
+
+Vel - det er først og fremst på valg av prosessor- og grafikkløsning. 
+Maskinen er nemlig utstyrt med en APU fra AMD (prosessor og grafikkort i én og samme brikke) som er blant de svakere på markedet. 
+Men hvordan vil det oppleves i praksis? 
+Det var noe av det vi ville finne ut. 
+
+Før vi går i gang med eksteriør og brukeropplevelse, skal vi ta en titt på de viktigste spesifikasjonene: 
+
+15,6" blank LED-baklyst LCD-skjerm, 1366 x 768 piksler AMD E2-1800 APU AMD Radeon HD7340M grafikk 6 GB RAM (maks 8) 640 GB harddisk DVD-brenner for alle formater Minnekortleser for SD-kort Bluetooth 4.0 Trådløst nett b/g/n (Atheros-brikke) 1 stk USB 3.0-port, 2 stk USB 2.0-porter HDMI- og VGA-utganger for tilkobling til eksterne skjermer/TV 100 Mbit kablet nett Webkamera (1280 x720 piksler) Windows 7 Home Premium 64 bits Størrelse: 380 × 33,52 × 242 mm Vekt: 
+2,3 kg Tilbudspris Elkjøp/Lefdal: 
+2.490 kroner (normalpris 3.990 kr) 
+
+Ikke noe å utsette på dette, altså - merk også at vekten er relativt lav for å være en standard PC med 15,6" skjerm, noe som ofte kjennetegner PC-er fra Toshiba. 
+Merk videre at modellen ikke støtter gigabit-hastigheter dersom den kobles til kablet nettverk, men for nettsurfing har det som regel intet å si. 
+
+Enkelt 
+
+Kabinettet er av plast fra innerst til ytterst, overflaten er matt med et finmasket mønster. 
+Fingeravtrykk vises, men er ikke spesielt sjenerende. 
+
+Byggekvaliteten er omtrent som vi forventer av maskiner som koster rundt 4000 kroner. 
+
+Tastaturet er stort og fint, med numerisk del til høyre. 
+
+Merk at Enter-tasten er litt smal, og det kan være lett å bomme, noe vi opplevde flere ganger. 
+
+Responsen er bra, men det er litt mykt på midten, og avgir en viss klirrelyd under skriving. 
+
+Pekeplaten har også den matte overflaten og pregingen, og fungerer meget bra. 
+De to knappene avgir en lav klikkelyd, som ikke er sjenerende overhodet. 
+
+Over tastaturet sitter et par stereohøyttalere som lager en tynn lyd nærmest fri for bass. 
+Her er det bare å koble til hodetelefoner eller eksterne høyttalere med det samme. 
+
+Tilkoblinger 
+
+Nesten alle tilkoblingene sitter på høyre side, og er lett tilgjengelig takket være at de sitter nært brukeren. 
+På motsatt side sitter drevet, én USB-port og strøminntak: 
+
+Merk at strømpluggen stikker flere centimetre rett ut, noe som gjør den utsatt for brudd. 
+Her skulle vi likt å se en plugg med 90-graders knekk: 
+
+Toshiba skal imidlertid ha honnør for å velge en strømkabel med to-polet kontakt, i motsetning til stiv kabel med jording som konkurrentene i de fleste tilfeller sverger til. 
+
+Skjermen er blank, lavoppløst og har begrenset innsyn fra sidene. 
+Dette er helt vanlig i prisklassen, skal du ha PC-er med høyere oppløsning må du enten velge en 17-tommer eller normalt gå opp flere tusenlapper i pris. 
+
+Slik oppleves den i bruk 
+
+Første gang du starter PC-en må du gjennom en installasjonsprosess som tar litt tid, og her merkes det at maskinen jobber litt saktere enn dyrere modeller fra Toshiba. 
+Når prosessen er ferdig og maskinen er klar til bruk, går det langt bedre. 
+
+Fra du skrur på maskinen til Windows og programmene er ferdig lastet og klar til bruk, går det i overkant av ett minutt. 
+Det er ikke raskt, men vi har sett eksempler på PC-er med raskere prosessor som har startet tregere. 
+Dette avhenger i stor grad av hvordan Windows og programmene er konfigurert. 
+
+Det er imidlertid mange programmer som lastes og som kjøres i bakgrunnen, og enkelte av dem kan dra ned hastigheten, blant annet McAfee Internet Security og en haug med styreprogrammer fra Toshiba som ikke alltid er like lett å vite verdien av. 
+
+Rusk i maskineriet? 
+
+Og vi må også sette et spørsmålstegn ved måten programvaren og drivere er konfigurert. 
+Vi opplevde for eksempel ved en anledning at maskinen ikke ville skru seg av, den bare ble hengende på avslutt-skjermen. 
+Etter noen omstarter fikk vi dessuten denne feilmeldingen: 
+
+Og vi har også opplevd at strømindikatoren står på fullt etter to timer med batteribruk, for så å stupe, og ved én anledning fungerte ikke tastaturet etter at maskinen hadde ligget i dvalemodus, og vi måtte starte maskinen på nytt for å få det til å fungere igjen. 
+Ikke ekstremt alvorlig, kanskje, men det er svært sjelden vi opplever denne typen problemer når vi tester PC-er i 2012. 
+
+I en senere artikkel skal vi avinstallere og deaktivere en del av programmene og prosessene for å se hvilken innvirkning det har på oppstart og brukeropplevelse. 
+
+Dette kan du forvente av ytelse 
+
+Windows egen Opplevelsesindeks gir oss følgende indikasjon på ytelsen, og som ventet er det prosessor (og grafikk) som trekker ned: 
+
+Prosessor: 3,9 Minne (RAM): 
+5,7 Grafikk: 
+4,5 Spillgrafikk: 
+5,8 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 7.0 gir poengsummen 852 på prosessor og 255 på 3D-grafikk. 
+Det betyr at ytelsen er er bare litt høyere enn fjorårets E-450 fra AMD, og det er ikke veldig flatterende. 
+Selv de rimeligste Intel Celeron-prosessorene som sitter i bærbare PC-er til rundt 3000 kroner byr på en ytelse som er rundt 50% høyere, og det merkes på flere måter. 
+
+For det første er det alltid litt mer venting når du installerer og starter programmer, veksler mellom dem, lukker og gjør innstillinger. 
+Det behøver ikke å være noe problem, men den snappy følelsen du gjerne forventer av en helt ny PC, den er der ikke. 
+
+Når det er sagt: 
+Det er absolutt ikke noe problem å jobbe med Word, Excel, PowerPoint, spille musikk eller surfe på nett - alt fungerer fint, selv om sider med tungt grafisk innhold kan hakke litt ved skrolling. 
+
+En årsak kan være Flash-basert innhold, for det er ikke denne PC-ens sterkeste punkt. 
+Høyoppløst materiale kan noen ganger hakke under avspilling, og Flash-video i 1080P (full HD) er bare å glemme. 
+
+Klarer alt av video... så vidt 
+
+Vi installerte videoavspilleren VLC og kjørte gjennom test-suiten vår som vi bruker når vi tester mediespillere og mobiltelefoner. 
+Den består av et utvalg grafikkintensive videoklipp i forskjellige oppløsninger og formater, og selv om 99% av avspillingen forløp greit, er det verdt å merke seg at prosessorbelastningen var svært høy under en del av dem. 
+Skjermbildet under er tatt fra avspilling av et klipp i H.264-format, pakket i MKV-konteiner, og viser prosessorbelastningen: 
+
+Det er med andre ord ikke så mye å gå på. 
+Får du et varsel om ny epost eller varsel om å oppdatere antivirusprogrammet, vil selv slike små forstyrrelser føre til at avspillingen hakker. 
+
+Det som imidlertid er langt mer positivt, er at maskinen er svært stillegående, viftene høres knapt under noen omstendigheter, uansett belastning. 
+
+Grei batteritid 
+
+Vi målte også batteritiden, først med minimal belastning, kun tilkoblet trådløst nett, deretter med kontinuerlig videoavspilling. 
+
+6 timer på førstnevnte test og 2 timer og 35 minutter på sistnevnte bekrefter noe av det vi har sett også i tidligere tester av AMD-baserte PC-er anno 2012: 
+Bra batteritid på enkle oppgaver, og litt raskere strømtap under belastning i forhold til Intel-baserte PC-er. 
+Men under normal bruk med bare litt video og musikk er det ikke umulig å få batteriet i PC-en til å vare i rundt 5 timer mellom hver lading. 
+
+Konklusjon 
+
+Har du et stramt budsjett og finner denne PC-en til 2490 kroner, gjør du et meget godt kjøp, vel og merke hvis du har et PC-behov som begrenser seg til lette oppgaver. 
+Hvis du derimot kjøper den for fullpris (rundt 4000 kroner) gjør du et ganske dårlig kjøp, mener vi. 
+I den prisklassen er det nemlig flust av maskiner å velge mellom, og basert på våre erfaringer og tidligere tester ville vi uten tvil valgt en PC med Intel-prosessor/grafikk med så mye penger tilgjengelig. 
+Her finner du aktuelle modeller å velge mellom. 
+
+Toshiba Satellite C850D-109 

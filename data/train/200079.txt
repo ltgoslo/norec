@@ -1,0 +1,89 @@
+Sony NWZ-A820
+Den nye Walkman-serien imponerer nok en gang med glimrende lyd og lekker design. 
+
+Walkman-spillerne fra Sony lever i beste velgående, men kassetter og CD-plater tilhører naturligvis fortiden. 
+Nå er det snakk om små, flashminnebaserte lommespillere, som fokuserer like mye på bilde og video som på musikk. 
+
+DinSide Data har testet flere modeller i A- og S-serien tidligere, og har stort sett gitt meget gode terningkast. 
+Aller best har modellen NWZ-S610 gjort det, som er en av svært få spillere som har fått terningkast 6 hos oss. 
+
+Tynn og lekker 
+
+A-serien fokuserer mer på design, der S-serien har fokus på funksjoner. 
+Innpakningen er i metall og glass, og som på forgjengeren er også A820-serien syltynn - kun 8 mm. 
+Flatemålet er derimot litt større, vi målte den til 9,4 x 5 cm, og vekta stopper på 57 gram. 
+
+Uansett hvilken spiller du velger fra Sony nå, kan du være trygg på at alle gamle lyter knyttet til kopisikring og proprietær, elendig programvare, tilhører fortiden. 
+Nye Walkman-spillere støtter ikke en gang Sonys eget lydformat, ATRAC, og det sier sitt. 
+Her må du begrense deg til WMA, AAC (inkludert ukryptert musikk kjøpt fra iTunes Store) og MP3, men skulle du være så uheldig å ha en svær samling av ATRAC-musikk, får du heldigvis med et lite konverteringsprogram på kjøpet. 
+
+Større skjerm 
+
+A820-serien er andre generasjon "frie" Walkman, og i forhold til forrige generasjon (A810) er skjermen blitt større (nå 2,4 tommer mot 2 på A810), kapasiteten på toppmodellen har økt fra 8 til 16 GB, og spillerne har fått støtte for Bluetooth-overføring av musikken, enten til trådløse øretelefoner, PCen eller Sony-anlegget i stua. 
+
+Knappene er de samme som tidligere, men plasseringen er litt annerledes. 
+De består av en firkantet navigasjonsknapp med play/pause i midten, samt Option og Back. 
+Betjeningen er etter vår mening en av de mest gjennomtenkte i klassen, akkompagnert med oversiktlige og lettfattelige menyer. 
+
+Et kort trykk på Option gir deg forskjellige valg knyttet til bilde- video og musikkavspillingen, et langt trykk skrur av spilleren. 
+Et kort trykk på Back tar deg et skritt tilbake fra stedet du befinner deg, mens et langt trykk tar deg til hovedmenyen. 
+
+Å bla i en stor bilde- video eller musikksamling, hoppe mellom musikkspor, starte og stoppe videoavspilling og lignende skjer umiddelbart uten venting. 
+Du finner dessuten en rekke forskjellige innfallsvinkler til samlingen, basert på tagger, men du kan også navigere på mappe/fil-nivå. 
+Sistnevnte er spesielt nyttig når musikksamlingen har mangelfull eller feilaktige ID3-tagger. 
+
+God på lyd og bilde 
+
+Til vår store begeistring noterer vi oss at det er de samme, glimrende ørepluggene som følger med A820-serien som fulgte med forgjengeren. 
+Bortsett fra at de ser litt snodige ut, er de uten tvil blant de aller beste du kan få med som standard når du kjøper deg en lommespiller i dag. 
+Proppene isolerer godt mot utenforstående støykilder, og tar god vare på lydbildet gjennom hele spekteret. 
+Vi ser ingen grunn til å bytte dem ut, for å si det på en annen måte. 
+
+I tillegg finnes en haug med innstillinger på spilleren som du kan boltre deg med for å gjøre lytteopplevelsen mest mulig behagelig, inkludert algoritmer for å "pynte på" sterkt komprimert musikk. 
+Det mest overraskende er at det faktisk virker! 
+
+Skjermen er særdeles skarp og fin, og bildet er synlig fra nesten død vinkel. 
+Du kan justere lysstyrken tre hakk opp fra standardposisjon, og det gjør skjermen merkbart bedre utendørs. 
+Ingen store problemer med synligheten, selv i solskinn. 
+
+I kjølvannet av god skjermkvalitet må vi sin noe om videofunksjonen. 
+Formatet er MPEG-4, og oppløsningen 320 x 240 piksler, og avspillingen skjer uten hakking (inntil 30 bilder pr sekund). 
+Det er altså ikke bredskjermformat, men videofilene kan spilles av liggende, og da utnyttes i det minste mer av skjermflaten. 
+
+Egnet og uegnet programvare 
+
+Programvare for overføring til spilleren trenger du strengt tatt ikke, så lenge formatene er kompatible. 
+Du kan velge å bruke Windows Utforsker eller en annen filbehandler, og dra og slippe filer til enheten. 
+Du kan selvsagt også bruke et egnet multimedieprogram, for eksempel WinAmp eller MediaMonkey. 
+Sony anbefaler selv å bruke Windows Media Player 10/11, som finnes allerede på de aller fleste PCer som har Windows på harddisken. 
+
+I tillegg følger programmet Sony Media Manager 1.1 med på CD, som vi mistenker er restene av gamle (og forhatte) SonicStage: 
+
+Det viste seg i tillegg å være en light-versjon, uten mulighet til å konvertere videofilene våre, og dermed ser vi rett og slett ingen grunn til å installere dette programmet. 
+Forgjengeren kom med programmet Image Converter 3, som sørget for dette. 
+Hvorfor funksjonen er tatt bort, vel, det forstår i hvert fall ikke vi. 
+Konkurrenten Creative er i så måte mer kundevennlige. 
+
+Vi har selv brukt programmet Slysoft CloneDVD Mobile for å rippe DVDer til en kompatibel MP4-variant, og det kan anbefales. 
+Det koster imidlertid noen kroner, og hvis du er ute etter en gratisløsning er det en god ide å ta et søk hos Snapfiles. 
+
+Seig overføring, seiglivet batteri 
+
+Overføringshastigheten er imidlertid ikke noe å skryte av. 
+Vi gjorde noen målinger som tyder på at den ligger på underkant av 2 MB pr sekund. 
+Har du en 16 GB-spiller som skal fylles opp, så snakker vi altså om minst et par timer, og det er ikke spesielt imponerende i 2008. 
+
+Når du først har fått overført filene dine, kan du kose deg med inntil 10 timer video eller 36 timer med musikk, før batteriet må lades. 
+Det skjer automatisk så lenge spilleren er koblet til PCen. 
+
+Konklusjon 
+
+Sony NWZ-A820 imponerer mest med god lyd, god skjerm, stilig design og enkel navigasjon. 
+Det er tre veldig viktige egenskaper ved en lommespiller. 
+Bluetooth-støtte er en morsom funksjon som hadde vært enda morsommere om den kom levert med trådløse øreplugger, noe visstnok enkelte utgaver av A820 kommer til å bli. 
+
+Du må klare deg uten radio, du får ikke konverteringsprogram for videofilene dine uten å betale ekstra, og du må leve med noe treg overføringshastighet. 
+Prisen er også høy, funksjoner og kapasiteter tatt i betraktning. 
+Hvis dette er underordnet er dette muligens spilleren for deg, men ta også en titt på testene av Creative Zen, Samsung P2 og iPod Touch før du bestemmer deg. 
+
+Spilleren vipper mellom en firer og en femmer på terningen, men brukervennligheten og lydkvaliteten trekker opp slik at vi til slutt lander på en svak femmer. 

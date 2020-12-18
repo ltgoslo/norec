@@ -1,0 +1,80 @@
+TEST:AMD Athlon II 
+
+Den koster bare noen få hundrelapper, men er med sannhet en ulv i fåreklær. 
+
+Stasjonær-markedet er i tilbakegang, men fortsatt velger svært mange å bygge PC selv eller oppgradere den gamle. 
+Det er det mange gode grunner til, ikke minst dersom du er opptatt av å få mest mulig ytelse for pengene. 
+
+Nordens største dataleverandør, Komplett.no, solgte for eksempel rundt 120.000 hovedkort i 2008 alene. 
+Det ironiske er at disse salgstallene ikke regnes som en del av det totale PC-salget, som de siste årene har vært dominert av bærbare PC-er. 
+
+Ny generasjon Athlon 
+
+En svært sentral del i en hver datamaskin er prosessoren, ofte omtalt som selve hjernen i maskinen. 
+Prosessormarkedet domineres i skrivende stund av Intel, og her finner du også de raskeste modellene. 
+Nylig lanserte imidlertid hovedkonkurrenten AMD flere nye prosessorer basert på 45nm-teknologi, deriblant en ny familie dobbelkjerneprosessorer kalt Athlon II. 
+
+Dette er rimelige prosessorer myntet på budsjettmarkedet, men som likevel byr på egenskaper du kun finner på dyrere Intel-prosessorer. 
+Athlon II har blant annet full støtte for virtualisering. 
+Dette betyr langt bedre ytelse hvis du planlegger å benytte deg av XP-modus i Windows 7, for eksempel. 
+
+Halv pris 
+
+Toppmodellen Athlon II X2 250, som vi har testet, får du for 6-700 kroner i mange norske nettbutikker. 
+Denne kjører på 2 x 3 GHz, og trekker maks 65 watt under maks belastning. 
+Dette er bare noen av likhetstrekkene til Intels Core2Duo E8400, som koster omtrent det dobbelte. 
+
+Prosessorene passer i hovedkort med sokkel av typen AM2+/AM3, og en rekke hovedkort som er solgt de siste par årene er allerede kompatibel med Athlon II direkte, eller etter en BIOS-oppdatering. 
+
+Kostnader knyttet til et nytt hovedkort som støtter de nyeste AMD-prosessorene behøver uansett ikke å koste skjorta. 
+I vår test brukte vi for eksempel hovedkortet ASUS M4N78-AM med integrert Nvidia GeForce 8200 grafikkbrikke, til rundt 550 kroner. 
+
+Testet med Windows 7 RC 
+
+Test-PCen var for øvrig utstyrt som budsjettmodeller flest, med et kurant Nvidia Geforce grafikkort (8500GT), 2 GB minne (DDR2-6400), 750 GB harddisk (Seagate Barracuda S-ATA) og en 20x Samsung DVD-brenner. 
+
+Vi installerte Windows 7 RC på maskinen, noe som viste seg å gå helt smurt, og unnagjort på 15 minutter. 
+Det var ikke behov for å installere drivere i etterkant, både nettverk, lyd og grafikk ble riktig installert og konfigurert umiddelbart etter omstart. 
+
+Det slo oss også at den medfølgende prosessorviften gikk jevnt og var knapt hørbar under hele prosessen. 
+
+Dette står i sterk kontrast til den tidligere toppmodellen Athlon X2 6400+, som er basert på 90nm-teknologi og trekker dobbelt så mye strøm. 
+Den ble levert med en kraftigere kjøler og vifte, som under samme prosess stadig økte omdreiningene og støyet langt mer. 
+
+God ytelse 
+
+Windows 7 sitt innebygde ytelsesprogram "Windows opplevelsesindeks" bruker nå en skala fra 1 til 7,9, og her er resultatene fra vår maskin, med de to prosessorene installert: 
+
+I praksis er ytelsen lik, til tross for at Athlon II er klokket lavere. 
+
+Hvordan er disse tallene sammenlignet mot en PC med Intels dobbelt så dyre C2D E8400-prosessor? 
+I følge Windows 7 er forskjellene svært små: 
+
+Ytelsestestene til Passmark går mer i dybden, og her vinner Intel med klar margin på de fleste punkter: 
+
+Det er likevel verdt å merke seg at tall og praktisk opplevelse ofte avviker, og at forskjellene var ikke store nok til at vi merket noe til dem under vanlig, variert bruk, inkludert avspilling av HD-film, kontorapplikasjoner, surfing og lett gaming. 
+
+I følge Passmark er det også systemer hvor Athlon II har fått en CPU-mark som har ligget enda nærmere C2D E8400 enn i vårt tilfelle. 
+
+Svært lav temperatur 
+
+Vi brukte diagnoseprogrammet SIW til å overvåke temperaturutviklingen under kjøring av ytelsestestene, og ble svært imponert over hvor kjølig Athlon II X2 250 holdt seg: 
+
+Vi monterte deretter den kraftige kjøleren fra Athlon X2 6400+ på Athlon II X2 250, noe som reduserte varmeutviklingen til maks 36 grader under den tøffeste belastningen. 
+Viften gikk da med en omdreining på rundt 1500 rpm, men kunne sikkert gått på halvparten dersom det var mulig, og fortsatt sikret svært god kjøling. 
+
+For virkelig å sette prosessoren på tøffe utfordringer koblet vi rett og slett bort viften og kjørte ytelsestestene i Windows 7 på nytt, og da var temperaturen oppe i 64 grader C. 
+Det var ikke nok til å påvirke stabiliteten. 
+Eneste luftstrøm i kabinettet var den som dras gjennom strømforsyningen. 
+
+Med god luftgjennomstrømning i et romslig kabinett, og med en voksen kjøleribbe, er det faktisk fullt mulig å kjøre Athlon II X2 250 helt uten egen vifte - under normal, variert bruk. 
+Vi tar av oss hatten! 
+
+Konklusjon 
+
+Er du ute etter god ytelse til lav pris, kommer du ikke utenom Athlon II X2 250. 
+Den er blant de klart smarteste utgangspunktene for en hver PC i budsjettklassen. 
+
+Vår test-PC, med Athlon II X2 250 prosessor, 750 GB harddisk, DVD-brenner, 2 GB minne og GeForce 8500 GT-grafikk har kostet oss rundt 2500 kroner å sette sammen. 
+
+Slenger du på 500 kroner til et kraftigere grafikkort får du en PC som er som skapt for Windows 7 og som trygler om å få bryne seg på langt mer enn enkel surfing og kontorbruk. 

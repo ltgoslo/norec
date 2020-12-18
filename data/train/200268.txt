@@ -1,0 +1,93 @@
+Zoom Q3HD
+Super lydopptaker med video - HD-utgaven har kommet. 
+
+Ved juletider i 2009 testet vi Q3, en opptaker fra Zoom som skilte seg ut fra alle andre opptakere. 
+Den var en lydopptaker med video, ikke et videokamera med lydopptak. 
+Hele konstruksjonen hadde lydopptak som første prioritet, med gode mikrofoner, konvertere og alt annet som skal til. 
+I tillegg kunne man gjøre helt kurante videoopptak i VGA-format. 
+Lagringsmedidet var SD-kort. 
+
+For alle som spiller musikk og vil legge ut resultatet på nett var dette midt i blinken, enten det var YouTube, familie, kamerater eller bare en selv som var målgruppe for "produksjonen". 
+
+Dessuten fungerer Q3 utmerket til små reportasjer med vekt på intervjuer osv hvor lydkvaliteten er svært viktig. 
+Vi kjøpte oss en slik og har brukt den til alt mulig fra konsertopptak til møtereferater. 
+
+Ny versjon i HD 
+
+Men i dag er ikke video i VGA noe å slå seg på brystet over, derfor har Zoom nylig sluppet en helt ny opptaker - Q3HD - nå med støtte for video i HD. 
+Da snakker vi om formater helt opp til 1080p. 
+
+Samtidig er lydkodekene som brukes forskjellige. 
+Den første utgaven tok opp i WAV eller MP3, HD-utgaven tar opp i WAV eller AAC. 
+
+Vi vil også understreke at du ikke MÅ ta opp video, både !3 og Q3HD kan brukes som rene lydopptakere, det er bare et enkelt menyvalg på Q3HD eller en bryterinnstilling på Q3. 
+
+Nytt design 
+
+Q3HD skiller seg raskt ut med sølvfarge, mens Q3 er blå. 
+Q3HD har samme fasong som Q3, men er flatere. 
+Mikrofonene er også mer synlige enn på den forrige utgaven. 
+Displayet er annerledes og menysystemet er også nytt. 
+
+Betjeningen på sidene er også annerledes, nå er av/på-knappen og luken til SD-kort plassert på høyre side, og allt annet av innganger og brytere på venstre, når man ser på displayet. 
+
+Den har fått HDMI ut i tillegg til analog video på minijack, lydutgangen er også på minijack, det samme er linjeinngangen, som er praktisk hvis du vil tappe f.eks. en lydmikser. 
+
+Innebygd USB-kabel er også praktisk hvis man ikke har kortleser for hånden når man skal overføre opptaksmaterialet til PC/Mac. 
+
+Spesifikasjoner 
+
+Stereo mikrofoner i 120 graders X/Y oppsett Video i 1080p 25, 720p 25 eller 50 i PAL tilsvarende i 30/60 i NTSC-format. 
+Video i WVGA ( bredformat) SD for mindre filstørrelser Videoformat MPEG-4 AVC/H.264 (MOV) 
+Lydopptak i 44.1/48/96kHz 16/24-bit WAV (PCM) eller AAC opp til 320kbps 
+
+2,4-tommers display i 320 x 240 Støtter opptil 32 GB SD-kort for opptil 7 timers opptak i 720p/25 og lyd i AAC 192 kbps Video/lyd ut på HDMI mini, minijack for analog video. 
+
+I bruk 
+
+Som sin forgjenger er Q3HD meget enkel i bruk for alle som har brukt en eller annen form for opptaker siden den gang kassettspilleren dukket opp. 
+Menysystemet er oversiktlig og kjapt, du behøver ikke trykke deg langt ned i systemet for å velge innstillinger. 
+
+Displayet gir ikke all verden av bildekvalitet, opptaket blir langt bedre. 
+Displayet er bare en søker, og du får med deg utsnitt og ser om lysforhold osv. 
+er innenfor rimelighetens grenser. 
+Det er også en digital zoom på 4x, men digital zoom bruker vel ingen? 
+
+Man velger opptaksnivå i to forhåndsinnstilllinger (lavt eller høyt lydnivå) eller Auto. 
+I menyene kan man velge om Auto bare justerer lydvolumet ned etter behov, eller om det skal justere seg opp etter sterke partier. 
+Ellers er det ikke mye annet å gjøre enn å trykke Record og holde kameraet i ro. 
+
+Kameraet er lett, så stativ (den har vanlige gjenger for fotostativ i bånn) bør brukes der hvor det er mulig - det er ingen bildestabilisering. 
+
+Skal du gjøre opptak utendørs, f.eks. intervjuer, passerende tog osv. 
+er en vindskjerm påkrevet. 
+Dette fulgte med den forrige modellen, men er ekstrautstyr for Q3HD. 
+
+Og kvaliteten? 
+
+Etter kort tids prøving innendørs og utendørs er våre erfaringer at videokvaliteten er omtrent som på de beste mobiltelefonene, men lydkvaliteten er i en helt annen liga - den er glimrende. 
+Det er først og fremst en lydopptaker med video attåt. 
+
+Med gode lysforhold kan video bli helt brukbart, fortrinnsvis med stativ. 
+Opptakene blir uten hakking, selv i 1080p, men pass på at du har en avspiller og PC som takler formatet. 
+Vi opplevde til å begynne med både hakking og dårlig synk mellom lyd og bilde, men det skyldtes ikke opptakeren, men avspillerne. 
+
+Du kan se mange opptak og sammenligninger på YouTube ved å søke på Q3HD eller sjekke Samsontechs YouTube-kanal 
+
+Konklusjon 
+
+Driver du med musikk eller annet som krever gode lydopptak er Zoom Q3HD et utmerket valg. 
+Vi hadde ideelt sett ønsket oss trinnløs innstilling av opptaksnivå, men de tre alternativene fungerer faktisk veldig bra. 
+Blir nivået for lavt kan du enkelt øke dette i de fleste lydredigeringsprogrammer uten at kvaliteten nødvendigvis lider påtagelig. 
+Overstyring er det derimot ikke noe å gjøre med. 
+
+Bildekvaliteten er god, og nærmer seg å kunne sidestilles med lydkvaliteten, men det er et stykke igjen til de er på samme nivå. 
+
+Skal du gjøre virkelig gode opptak bruker du et digitalt speilrefleks som håndterer video, og lar Zoom Q3HD (eller gamle Q3) ta seg av lyden. 
+Da får du et profesjonelt resultat, teknisk sett. 
+
+Så er det bare opp til deg og det du tar opp å levere resten. 
+
+Takk til Benum for utlån av testeksemplar. 
+
+Zoom Q3HD 

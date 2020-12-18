@@ -1,0 +1,104 @@
+Pentax Optio A10
+TEST: 
+Åtte megapiksler og bildestabilisator pakket inn i børstet aluminium. 
+Den lille krabaten fra Pentax ser unektelig fristende ut der den ligger. 
+Faktisk er vi knallfornøyde også. 
+
+Antall megapiksler øker stadig på kompaktkameraene, men det virker som om stadig flere innser at det holder med seks av dem, mens noen også drister seg med åtte og ni. 
+Pentax er en av de sistnevnte, som med sin nye modell, A10, byr på åtte megapiksler på en 1/1,8" CCD-brikke. 
+Det mest interessante er imidlertid at kameraet også har en optisk bildestabilisator, som gjør at du kan få skarpe bilder selv om du er litt skjelven på hånda. 
+
+Objektivet lager Pentax selv, og det byr på 3x optisk zoom, med et zoomområde på 38-114mm. 
+Det er med andre ord som normalt for denne type kamera, og f-tallet er på gode f/2.8 ved vidvinkel og ikke fullt så gode f/5.4 på full tele. 
+
+Parkinsonvennlig 
+
+Utvendig er kameraet lite og nett. 
+Det måler bare 89 x 55 x 23mm og veier 145 gram med batterier. 
+På toppen av kameraet finner vi utløser- og av/på-knapp, i tillegg til en egen knapp for aktivering av bildestabilisatoren. 
+Når den knappen holdes inne, blir det som vises på LCD-skjermen plutselig mye mer stabilt. 
+Det fungerer på følgende måte: 
+
+- To gyroskopiske sensorer fanger opp ustøheter når du holder kameraet 
+- En egen prosessor regner ut nødvendig korreksjon ut fra ustøheter og fokus 
+- En mekanisme flytter på CCD-brikken ut fra det som er regnet ut. 
+
+Vi liker også at dette er tilgjengelig ved filming. 
+En annen liten detalj vi legger merke til er et lite søkk på venstre side (sett bakfra). 
+Det passer fint til pekefingeren på venstre hånd, og hinter om at Pentax vil at vi skal holde kameraet med begge hender. 
+
+230.000 piksler på en 2,5 tommers skjerm gir skarpt bilde, selv om bildeoppdateringsfrekvensen kunne ha vært noe høyere. 
+
+Utformingen på knappene bak er akkurat slik vi liker det. 
+Zoomfunksjonaliteten er lett tilgjengelig med høyre tommel, og navigasjonen foregår med fire piltaster og en OK-knapp i midten. 
+Tre av piltastene fungerer også som snarveier til blits, selvutløser og makro. 
+Den siste, merket mode, lar deg bytte mellom ulike motivtyper, legge på en ramme eller skifte mellom film, lyd og stillbilder. 
+Alt dette med fargerike ikoner og bra navigasjon. 
+
+På siden av kameraet finner vi dessuten USB/AV og strømkontakt, som begge er beskyttet av et plastlokk. 
+
+Konfigurerbar knapp 
+
+En egen menyknapp tar deg til hovedmenyen, mens en grønn knapp kan konfigureres til funskjonaliteten du måtte ønske; riktignok begrenset til noen få alternativer som aktivering av bildestabilisator, eksponeringskompensasjon og bildekvalitet. 
+Det eneste vi har å utsette på menyen er at vi gjerne vil trykke 
+ok når vi skal velge og ikke høyre piltast. 
+OK-knappen fungerer nemlig som en tilbake-knapp. 
+
+Ellers er brukervennligheten god og intuitiv. 
+Vi liker blant annet den gode løsningen rundt sletting av bilder, der ni og ni miniatyrbilder vises på skjermen med rask respons, og der vi kan huke av hvilke bilder vi ønsker å slette før vi trykker på søplekasseknappen. 
+Det finnes også en del funksjonalitet i kameraet som gjør at du ikke nødvendigvis må gå veien om PC-en før du fremkaller. 
+Det er riktignok ikke like godt utført som på HP Photosmart R927, men det finnes funksjonalitet for automatisk fjerning av røde øyne, beskjæring av bilder, et lite knippe digitale effekter, justering av kontrast etc. 
+Vi setter også pris på at kameraet har støtte for manuell fokus 
+ det er en kjensgjerning at de fleste autofokuser ofte sliter i dårlig lys eller mot blanke overflater, og da er det fint å kunne hjelpe den litt. 
+
+En annen finesse er at du selv kan velge hvilke innstillinger kameraet skal huske når du slår det på igjen. 
+Dersom du for eksempel har slått av blitsen fordi du er i kirken, kan det være greit at den forblir avslått neste gang du slår på kameraet. 
+
+Det eneste vi savner er at vi gjerne vil kunne ta blender- og lukkerprioriterte bilder. 
+Det hadde satt prikken over ien. 
+En ting vi fant litt rart var at kameraet enkelte ganger ikke tok bilde når vi trykket ned utløserknappen. 
+Det var ikke verre enn at vi måtte slippe og prøve en gang til, og det skjedde ikke mer enn 3-4 ganger i løpet av de par hundre bildene vi knipset med kameraet, men det er naturligvis et lite irritasjonsmoment. 
+
+Bildekvalitet 
+
+Vi har langt på vei latt oss imponere av bildkvaliteten fra Pentax A10, da spesielt med tanke på støy, som slett ikke er så ille som vi hadde fryktet fra åtte millioner sensorer på så liten brikke. 
+Vår største innvending er at kameraet som oftest tar veldig mørke bilder med et sterkt blåskjær; særlig i ettermiddagslys. 
+Vi har illustrert dette med å bruke auto color i Photoshop på den delen av bildet som ligger øverst til høyre 
+ det samsvarer mer med hvordan været var da vi tok bilder. 
+
+Som nevnt syntes vi støynivået var bra på dette kameraet, og bare på ISO 400 (som også er max) ble støynivået såpass høyt at det var skjemmende for bildekvaliteten. 
+Automatikken bruker sjelden ISO 400 - for det meste brukes 50 og 100 utendørs og 100 og 200 innendørs. 
+Utsnittet under er vist i 100% størrelse, og kameraet har her brukt ISO 200. 
+Vi synes støynivået er lavt nok til at det er akseptabelt. 
+
+La oss så ta en titt på hvilken effekt vi får av den optiske bildestabilisatoren. 
+De to bildene under er tatt uten blits, ISO 200 og lukkertid på 1/5 sekund. 
+Vi holdt kameraet med to hender på strak arm og knipset den ikke alt for ryddige bokhylla bak oss: 
+
+Vi kan ikke annet enn å bli imponerte. 
+Pentax bildestabilisator gjør at bildene blir ganske skarpe selv med såpass lang lukkertid og en skjelvende hånd! 
+
+Du kan se bilder vi har tatt med kameraet i bildegalleriet. 
+
+Ellers er det mange som også er opptatte av kvaliteten på videoopptak. 
+De får sin tilfredsstillelse her. 
+Legg merke til at opptaket er komprimert i DivX-format rett ut av kameraet: 
+
+Ytelse 
+
+Seriefotografi er ikke A10s sterkeste side. 
+Det klarer å ta fem bilder uten blits på 10 sekunder, og bruker drøye fem sekunder på å ta to blitsbilder etter hverandre. 
+I tillegg har det en utløserforsinkelse på cirka 0,20 sekunder, som vi gjerne skulle sett at var noe mindre. 
+Det er altså tiden det går fra du trykker utløserknappen helt ned (forfokusert) til bildet faktisk blir tatt. 
+Fra kameraet slås på tar det cirka 2,3 sekunder til det er klart til dyst 
+ også det blant de tregere av de vi har testet den siste tiden. 
+Full ytelsestabell finner du under: 
+
+Konklusjon 
+
+Vi har ingen problemer med å anbefale Pentax A10. 
+På tross av åtte megapiksler på en liten brikke, synes vi støynivået er akseptabelt opp til ISO 200, og det er sjelden kameraet tyr til mer. 
+Den optiske bildestabilisatoren tillater bilder med lengre lukkertider, som gjør at også innendørsbilder uten blits blir skarpe. 
+
+Kameraet er i tillegg veldig brukervennlig, ikonene er fargerike og lette å forstå, og det finnes et par småfinesser som du kan lese mer om i omtalen. 
+Hadde ytelsen også vært på topp hadde det nesten ikke vært noe å utsette på dette kameraet, men femmeren på terningen er uansett fullt fortjent. 

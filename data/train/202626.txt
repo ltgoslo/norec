@@ -1,0 +1,99 @@
+Medion MIM 2210
+Du får denne i butikken til fem tusen kroner - nok et "PC-kupp på Coop"? 
+Dessverre, nei. 
+
+Coop stabler med ujevne mellomrom opp hyllene med bærbare PCer fra Medion, og det er nesten alltid like spennende å se hva de disker opp med. 
+For eksempel har vi blitt overrasket med en rosa jente-PC - som også var god nok til å få en femmer på vår terning. 
+
+LES OGSÅ: 
+
+På den annen side har vi også sett langt mer kjedelige og trauste modeller som på ingen måte har imponert oss - for eksempel MD96223. 
+
+Og nå er det altså på tide igjen. 
+Medion MIM 2210 kan friste med tja.. 
+om ikke annet lav pris, og som en følge av dette får vi mange henvendelser på om dette er en god maskin, og for eksempel kan være et bedre kjøp enn vår testvinner fra juni. 
+
+Det er det ikke. 
+
+Du kan slå deg til ro med det svaret, eller du kan fortsette å lese dersom du trenger å vite hvorfor den ikke er det. 
+
+Ikke så veldig spennende å se på kanskje. 
+
+Spesifikasjoner: 
+
+Intel Celeron M 440 @ 1,86 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (en modul) 120 GB harddisk (5400 rpm) 
+DVD dual-layer DVD/CD-brenner VIA Chrome9 HC grafikkløsning 54 Mbps WLAN (b/g), 10/100 LAN 4 x USB, lyd inn/ut 1 ExpressCard/54 kortplass VGA ut Operativsystem: 
+Windows Vista Home Basic Dimensjoner (B/D/H): 35,9 x 25,5 x 4,1 cm Vekt 2,65 kilo Pris: 4.990,- kr inkl. mva. 
+
+her 
+
+Starter vi med selve konstruksjonen så er dette kanskje maskinens sterkeste punkt. 
+Chassiset er fast i fisken og lokket godt hengslet - det beskytter ikke skjermen spesielt bra, men det er også helt vanlig blant billigere bærbare. 
+
+Tastaturet har litt svikt, men er helt kurant å skrive på. 
+Fn-tasten er feilplassert i våre øyne, men vi er også klar over at tastaturer i stor grad er en vanesak. 
+Det er heller ikke bråkete, så totalt sett er vi fornøyd her. 
+
+Touchpaden er følsom og har skrollefelt i begge retninger - men vi hadde ønsket oss at den var i bredformat. 
+De to tastene under er små, men lette å klikke. 
+
+Over tastaturet finner vi av/på-knapp og snarveier for e-post og Internett + en knapp merket "P1" som ikke gjør noe som helst. 
+Her finner vi også statuslysene, noe som betyr at disse ikke synes dersom lokket ligger nede. 
+
+Skjermen er klar, lyssterk og (veldig) blank. 
+Men den har et noe blasst bilde, spesielt viskes finere linjer ut dersom du ser på skjermen rett forfra eller vinklet litt ovenfra. 
+Vipper vi skjermen litt ekstra bakover ser det bedre ut, men da blir toppen av skjermen litt for mørk. 
+
+Bak: 3 x USB, LAN, VGA ut og plass for Kensingtonlås. 
+
+Venstre side: strøm inn, 1 x USB, lyd inn/ut og ExpressCard/54-slot. 
+
+Høyre side: optisk drev. 
+
+Ytelse 
+
+Prosessoren er en Celeon M 440, bygd over samme lest som Core Solo-prosessorene. 
+Det er altså en enkeltkjerneprosessor, noe som kombinert med "kun" 1 GB minne også merkes på maskinen - i det minste med Vista. 
+Den er på langt nær så kjapp og responsiv som vi er vant til på noe dyrere laptoper, men med en klokkefrekvens på 1,86 MHz er det ingen katastrofe. 
+
+Sammenligner vi for eksempel med testvinneren Acer Aspire 5613ZWLMi så har denne også en billigprosessor basert på Core-arkitekturen, da med to kjerner - men kjører på en lavere klokkefrekvens (1,73 GHz). 
+
+Dette betyr at ytelsen kan være bedre på Medion MIM 2210, alt avhengig av hva slags applikasjoner som kjøres. 
+For eksempel: 
+
+Kjøretid i sekunder. 
+Lavere er bedre. 
+
+Vår gamle MP3-koder er mest glad i prosessoren med høyest klokkefrekvens, mens SuperPI kjører bedre på Pentium Dual Core-prosessoren. 
+
+Høyere poengsum er bedre. 
+
+PCMark05 sin måling av total systemytelse plasserer MIM 2210 langt bak den nevnte Aceren (som jo også koster 2.000 kroner mer), og det er ikke bare prosessoren som gjør forskjellen. 
+Grafikkløsningen på MIM 2210 er en av de svakeste du får kjøpt for penger, og siden den ikke har noe eget grafikkminne tar den fra systemminnet. 
+Og det gjør den ikke dynamisk som på de fleste andre moderne integrerte grafikkløsninger - her må du selv inn i BIOS og velge mellom 64, 128 og 256 MB. 
+
+Celeron M-prosessoren mangler SpeedStep, altså teknologien som gjør at prosessoren jobber hardere ved belastning og klokkes ned når det ikke er behov for så mye kraft. 
+Når dette kombineres med et lite batteri skjer dette: 
+
+Etter en times kontinuerlig bruk sa altså batteriet takk for seg, og på en 15,4-tommer må vel dette være det dårligste vi har målt. 
+Med denne bærbare bør du altså alltid sette deg i nærheten av en stikkontakt. 
+Og ta med laderen - enda godt den ikke veier mer enn 380 gram. 
+
+Viftebråk Medion MIM 2210 er relativt rolig i et par minutter etter at du har fyrt den opp, men når den da blir varm i trøya setter vifta i gang - og stopper ikke før PCen går i hvilemodus eller slås av. 
+I tillegg til å gå kontinuerlig bråker den dessuten ganske mye - den høres selv i vårt relativt støyende kontorlandskap. 
+Bruker du den i rolige omgivelser håper vi du liker å høre vifta suse, ellers har du noe her som kan drive den mest sindige personen over kanten. 
+
+Oppsummering/konklusjon 
+
+Medion MIM 2210 er en spartansk utstyrt bærbar som leveres med Windows Vista - men vi må innrømme den ikke er sterk nok til å drive det spesielt bra. 
+XP hadde i våre øyne vært et langt bedre valg av OS på denne maskinen. 
+I tillegg holder ikke batteriet mål, skjermen er ikke noe å skryte av og vifta har potensiale til å gå deg på nervene. 
+
+På den annen side: den er billig, og RAMen kan enkelt oppgraderes siden den kommer med en ledig plass for en ekstra minnemodul. 
+Det lille batteriet gjør den dessuten relativt lett, og den duger fint til enkel bruk som surfing, epost og kontorapplikasjoner. 
+
+Men det holder likevel ikke helt i våre øyne, av den enkle grunn at det finnes bedre produkter i samme prisklasse. 
+Kanskje vil du legge i en ekstra femhundre- eller tusenlapp, men til gjengjeld får du en med et anstendig batteri - slik at du faktisk kan bruke den som en bærbar, bedre ytelse (vi anbefaler dobbeltkjerneprosessor til Vista), bedre skjerm og en roligere vifte. 
+
+Kort sagt: 
+Medion MIM 2210 er billig og fungerer, men det alene er ikke nødvendigvis gode nok grunner til å skaffe seg en. 

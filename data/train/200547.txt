@@ -1,0 +1,102 @@
+TEST:Fujitsu Esprimo Q900 
+
+Mini-PC med Core i5 - heftig mini-PC. 
+
+En mini-PC med like mye muskler som en vanlig stasjonær PC - omtrent. 
+Det er grenser for hva det er mulig å putte inn i en så liten boks, men i mange tilfeller er det mer enn nok. 
+
+Maskinen vi har hatt på testbenken er utstyrt med en Core i5 prosessor og den nyeste integrerte grafikken fra Intel. 
+Det gir mer enn nok muskel til de fleste bruksområder for denne maskintypen. 
+
+Stue-PC eller ikke? 
+
+Q900 er tenkt som en stue-PC, den kommer med en egen fjernkontroll som gjør mus og tastatur unødvendig i flere brukssammenhenger, da snakker vi om å la seg underholde av film og musikk og enkel surfing. 
+
+Men maskinen byr på mye mer kraft enn du trenger til dette. 
+Du trenger egentlig ikke en prosessor i Core-serien for å vise video - selv ikke HD - og surfe, og den integrerte grafikken er også kapabel til mer enn dette. 
+
+Dessuten vil du kunne bruke maskinen også til å lage innhold, som videoredigering, innspilling, redigering og miksing av musikk, bilderedigering osv. 
+
+Grønn maskin 
+
+Fujitsu har lagt vekt på lavt strømforbruk, derfor er det mobilversjonene av Core-prosessorene som brukes. 
+
+Dette gir et strømforbruk på ned til 13 watt når den står i hvilemodus, og typisk under 50 watt selv ved fullt pådrag. 
+
+Prosessoren Core i5-2520M er laget for max 35 watt, til sammenligning trekker en vanlig Core i5 2500 opptil 95 watt. 
+
+Det er også viktig å huske på at mobilversjonen av Core i5 har to kjerner, mens de ordinære har fire kjerner. 
+
+Også strømforsyningen bidrar med lite varme, den skal være 90% effektiv. 
+
+Spesifikasjoner 
+
+Forsiden har 2 USB-porter og kortleser. 
+
+På baksiden finner vi alle de andre tilkoblingene. 
+
+Ytelse 
+
+Windows' ytelsesindex ble målt til 4,7, her var det grafikken som trakk ned. 
+Harddisken ga 5,5 og minnehastigheten 5,9 3D og business grafikk ga 6,1 og prosessoren fikk den høyeste scoren med 7.0. 
+(Den høyest mulige score er 7,9) 
+
+Vi kjørte vår standardtest PCMark Vantage og sammenlignet for anledningen med Asrock-PC-en med forrige generasjon Core i3 som vi testet for omtrent et år siden. 
+
+Vi kjørte også PCMark 7 og fikk 1939 PCMarks i denne testen. 
+
+I bruk 
+
+Vi koblet opp maskinen til en LG 47VW550W TV vi hadde inne til test. 
+Da støtte vi på det første problemet: 
+Q900 har DVI og Displayport, men ingen HDMI-utgang. 
+Det følger med en overgang fra DVI til VGA, men det er lite aktuelt å koble denne maskin til noe som helst med VGA (bortsett fra en eldre TV). 
+
+Svært få TV-er har displayport eller DVI, men absolutt alle har HDMI. 
+Derfor burde det heller fulgt med en overgang til HDMI i pakken, eller at maskinen hadde HDMI i stedet for DVI. 
+
+Vi fant fram en av våre egne overganger fra DVI til HDMI, og korrekt bilde dukket opp på TV-en uten problemer. 
+Men lyd fikk vi ikke. 
+Det finnes heller ikke noen digital lydutgang, den eneste muligheten for å få surroundlyd er via Displayport. 
+Kobler du til en TV, skjerm eller projektor med DVI er det bare stereo analoglyd du får ut av maskinen. 
+Rettelse: 
+Vi har blitt gjort oppmerksom på at det finnes en digital utgang i samme kontakt som den analoge utgangen. 
+Med en spesialkabel får du SPDIF ut og kan koble til et surroundanlegg. 
+
+Vi koblet til kablet nettverk, som vi har klart best erfaring med når det gjelder stabil avspilling av HD-video. 
+Maskinen kommer også med trådløst nett med støtte for 802.11b/g/n med gode mottaksegenskaper. 
+
+Bluetooth er også installert. 
+
+Som forventet hadde maskinen ingen problemer med å spille av selv de mest krevende HD-videoformatene i vår testsuite. 
+
+Til generell PC-bruk leverer den også utmerket ytelse. 
+
+Oppstart etter dvale fungerte også utmerket i de fleste tilfellene, ved et par anledninger brukte den lang tid på å "våkne", men det var ikke noe mønster i dette. 
+Etter få sekunder var maskinen klar til dyst. 
+
+Støy og varme 
+
+Maskinen er svært støysvak i de aller fleste situasjoner. 
+De eneste gangene vi registrerte at viften begynte å jobbe og gi fra seg hørbar lyd var når grafikken ble kjørt hardt, og ved svært prosessorintensiv bruk. 
+Men lydnivået var fremdeles godt innenfor det akseptable. 
+
+Varme var ikke noe problem, viften blåser den hovedsakelig ut på baksiden, resten fordeler seg jevnt i den interne konstruksjonen som inneholder mye metall og gir god varmespredning. 
+
+Konklusjon 
+
+Q900 er kompakt, har et diskret utseende og en ytelse som er mer enn god nok til det bruksområdet den først og fremst er tiltenkt. 
+
+Skal du bare bruke den som en underholdnings-PC i stua kan du godt klare deg med en svakere konfigurasjon enn den vi har testet. 
+Men skal du også bruke den til mer krevende oppgaver, til kreative sysler eller hjemmejobbing, så er denne utgaven ypperlig. 
+Men til spill er det ikke nok hvis du vil ha høy oppløsning og en god visuell opplevelse. 
+
+Siden den bruker komponenter som også brukes i bærbare oppnås både kompakt format og stillegående bruk. 
+
+Prismessig faller denne maskintypen litt mellom to stoler, de blir i dyreste laget som stue-PC. 
+Til underholdning og surfing kan du fint klare deg med en maskin til et par tusen kroner mindre. 
+For det samme beløpet kan du alternativt kjøpe en bærbar med samme prosessor, minne og disk - da får du skjerm og tastatur "på kjøpet". 
+
+Men skal du absolutt ha en liten, men kraftig maskin for å koble til TV eller annen skjermløsning og styres fra sofaen, så leverer Q900. 
+
+Fujitsu Esprimo Q900 (VFY:Q0900PXP11NC) 

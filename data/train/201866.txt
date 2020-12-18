@@ -1,0 +1,44 @@
+D-Link DAP-1350 lommeruter
+Lommeruter eller reiseruter - du kan uansett ta den med deg. 
+
+For en tid tilbake skrev vi en forhåndsanmeldelse av denne lille nettverkssaken, som kan fungere som ruter, aksesspunkt eller klient. 
+
+Forhåndsomtalen finner du her. 
+
+Vi har også testet en forløper for denne, artikkelen finner du her. 
+
+På testbenken 
+
+Pakken består av et futteral som inneholder selve ruteren, strømforsyning, nettverkskabel og USB-kabel. 
+
+DAP-1350 har tilkobling for nettverkskabel og strøm, USB-porten kan brukes til å dele skriver eller du kan plugge i et 3G-modem. 
+Du kan ikke bruke hvilket som helst 3G-modem, det er bare D-Links egne som støttes. 
+(Vi prøvde for moro skyld med Netcom sitt standard 3G-modem, men det var ingen respons.) 
+
+Det mest typiske bruksområdet og der hvor DAP-1350 virkelig utmerker seg, er når du vil gjøre kablet tilgang trådløs. 
+Hvis du er på et hotell eller konferansesenter hvor det bare er tilgang til kablet nett, plugger du inn en nettverkskabel, strømkabel, setter bryteren på ruteren til AP (aksesspunkt) og trykker Reset-knappen. 
+
+Etter kort tid har du et trådløst nett som du kan bruke med bærbar, mobil, nettbrett osv. 
+
+Også i andre situasjoner hvor det både er trådløst med mange brukere og lav ytelse og kablet med god ytelse er DAP-1350 en nyttig boks. 
+
+Hvis du skal bruke den som ruter eller trådløs klient velger du RT (ruter) eller CT (klient) er det ikke alltid like enkelt. 
+Da må du logge deg inn i oppsettet for DAP-1350 og gjøre de rette innstillingene - akkurat som på en vanlig ruter eller annen trådløs klient. 
+
+Det er også en fot som kan vippes ut, slik at ruteren blir stående på høykant. 
+
+Ytelse og rekkevidde 
+
+Vi målte over tre avstander: en meter, 10 meter og 30 meter i kontormiljø. 
+Rekkevidden utover dette var ustabil, og ytelsen var vesentlig lavere enn ved de avstander DAP-1350 er beregnet på å dekke. 
+
+1 meter 27,8 Mbps ned 18,6 Mbps opp10 meter 8,8 Mbps ned 5,8 Mbps opp30 meter 1,7 Mbps ned 2,4 Mbps opp 
+
+I praksis vil dette bety at på et hotellrom er ytelsen glimrende, det samme gjelder også et møterom med plass til 20 mennesker. 
+
+Skal man ha dekning i større områder enn dette bør man ha en ordinær ruter med antenner som gir mer utstrålt effekt. 
+
+Men DAP-1350 kan fungere utmerket både som hjemmeruter for mindre boliger og som reiseruter. 
+Den har samme funksjoner som andre nye D-Link rutere, blant annt eget isolert gjestenett med egen SSID. 
+
+D-Link DAP-1350 

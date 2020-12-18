@@ -1,0 +1,142 @@
+Asus Transformer Book T100
+Full Windows 8.1 på halvkilos brett, og vi liker det! 
+Men T100 er ikke lytefri. 
+
+For å kjøre Windows 8.1 kreves en datamaskin eller nettbrett med x86 eller x64-prosessor fra Intel. 
+Disse har tradisjonelt krevd mer strøm og tilhørende kjøling enn ARM-baserte prosessorer som sitter i nettbrett som kjører iOS, Windows RT og Android. 
+
+En naturlig konsekvens er at nettbrett som kjører Windows 8/8.1 hittil har vært både tyngre og tykkere enn ARM-baserte konkurrenter. 
+Batteritiden er dessuten sjelden helt på høyden, og nesten alle har kjølevifter som skal forhindre overoppheting. 
+
+Intel-prosessorene har rett og slett ikke vært optimale for bruk i tynne, lette nettbrett. 
+De har vært laget med tanke på større bærbare og stasjonære datamaskiner, og for å kjøre et tradisjonelt sett ressurskrevende operativsystem: 
+Windows. 
+
+Nye og svært strømgjerrige prosessorer 
+
+Det er imidlertid i ferd med å endre seg raskt med lanseringen av Bay Trail-generasjonen Atom-prosessorer. 
+Disse er svært strømgjerrige samtidig som de yter langt bedre enn tidligere Atom-medlemmer. 
+I løpet av høsten kommer en rekke nettbrett og hybrider med disse innabords. 
+
+Intel har forresten besluttet å bruke benevnelsen "2-in-1" om slike hybride nettbrett/PC-er. 
+
+Svært interessant hybrid 
+
+Asus Transformer Book T100 er en slik "2-in-1", og den er blant de aller første basert på Bay Trail-prosessor. 
+Og selv om det 10,1 tommer store brettet har sine lyter, vitner det om at vi går svært spennende tider i møte hva angår brett med full Windows-funksjonalitet. 
+
+Før vi ser på den praktiske bruken kan vi kort oppsummere de viktigste egenskapene: 
+
+Skjerm: 10,1" multiberøringsfølsom IPS-skjerm, 1366 x 768 piksler Prosessor: 
+Intel Atom Z3740 (Bay Trail) RAM: 
+2 GB (maks 4) Grafikkort: 
+Intel HD (integrert i prosessoren) Lagring: 
+64 GB eMMC Optisk drev: 
+Nei Skjermutganger: 
+Micro-HDMI USB-porter: 1 stk USB 3.0 i tastaturdokken Webkamera: 
+1,2 megapiksler Kortleser: 
+MicroSD Trådløst nett: 
+Intel Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 OS: 
+Windows 8.1 32 bit Størrelse: 
+26.3 cm x 17.1 cm x 2.36 cm (bare brettet: 1,05 cm tykt) 
+Vekt: 574/1020 gram Pris: 
+Fra 3.790 kr inkl mva (jf Prisjakt 1.11.2013) 
+
+Lettere enn iPad 4 
+
+Brett og tastatur er laget av plast, og gir ikke den samme kvalitetsfølelsen som nettbrett og PC-er med metallinnpakning. 
+Brett-delen har kun en microUSB-plugg og en microHDMI-utgang, samt utgang for hodetelefoner. 
+Tastaturet gir deg i tilleggg en USB 3.0-port. 
+
+Det morsomme er at maskinen lades via microUSB-porten, og er den første fullblods Windows-enheten vi har testet som lades som en mobil. 
+Men i likhet med iPad må den være avskrudd for å kunne lades for eksempel fra en annen PC. 
+Mer om ladingen senere. 
+
+Uten tastaturet veier Transformer Book T100 beskjedne 574 gram. 
+Det er en god del lettere enn fjerde generasjon iPad, og 100 gram tyngre enn nettopp lanserte iPad Air. 
+
+Vinkles omtrent som en vanlig PC 
+
+Tastaturet (som følger med) dobler nesten vekta med sine 546 gram, så totalvekten tipper kiloen med 20 gram. 
+
+Det er altså vesentlig tyngre enn for eksempel tastaturdekslet til Microsoft Surface Pro 2, men har en rekke fordeler. 
+Den viktigste er at det kan vinkles omtrent som en vanlig PC når den er dokket i tastaturet, i motsetning til de fleste konkurrentene vi har testet tidligere (og som har vært et vesentlig ankepunkt mot disse). 
+Jo lenger du bøyer skjermen bakover, jo mer løfter tastaturet seg - en konstruksjon som sørger for at ikke enheten får overbalanse og tippe bakover. 
+
+Netbook-tastatur med svak pekeplate 
+
+I bruk er vi imidlertid ikke fullt så begeistrert over tastaturet. 
+Det har små taster (typisk netbook-ish) og fungerer forsåvidt greit når man får øvd seg litt, men den tilhørende pekpelaten er under pari. 
+
+For det første reagerer den ikke alltid på berøring, noe som er veldig slitsomt, for det andre er de integrerte feltene for venstre- og høyreklikking harde og avgir en særdeles høy klikkelyd. 
+Her ødelegger Asus litt for seg selv. 
+
+Flott nettbrett 
+
+Nettbrettbiten er derimot veldig bra. 
+Her er for eksempel ingen vifter, og IPS-skjermen er klar og tydelig fra alle vinkler. 
+Stereohøyttalere er på plass, og med relativt god lyd, størrelsen tatt i betraktning. 
+
+Oppløsningen er langt lavere enn på en iPad, men likevel oppleves ikke skjermen som spesielt pikselert eller uskarp, den måler tross alt bare 10 tommer. 
+
+PC-ytelsen er ikke høy, men den duger til lett jobbing på klassisk Windows-skrivebord med verdens desidert største programvutvalg. 
+Sammenlignet med en typisk netbook fra et par-tre år tilbake er ytelsen uansett omtrent doblet, viser testene våre fra Passmark PerfomanceTest 8.0. 
+
+Det betyr at du faktisk kan bruke T100 til det meste, uten uendelig mye venting og hakkende grafikk. 
+
+Responsen i Modern UI-sfæren i Windows 8.1 og berøringsfølsomheten er helt strøken. 
+
+Vi regelrett elsker å sitte i sofaen med brettet og en fullverdig Windows-opplevelse, med JAVA, Flash, gratisversjonen av Spotify og allting. 
+Jovisst tar enkelte ting litt lengre tid enn med en fullblods PC eller Microsoft Surface Pro, og med 2 GB RAM er det begrensninger for hvor mye man kan gjøre samtidig. 
+Men til alle oppgaver man normalt vil bruke et nettbrett til duger T100 veldig bra. 
+
+Ikke minst kan du bruke berøringsvennlige Internet Explorer 11, som er en langt mer avansert nettleser enn de man normalt får på nettbrett. 
+
+Det er også gledelig å brettet har null problemer med å spille av alt vi har av HD-filmer, og streaming fra for eksempel Netflix går også problemfritt. 
+Merk også at det trådløse nettverkskortet støtter 5 GHz-båndet, så har du en ruter som støtter dette er du sikret meget god surfehastighet. 
+
+Flere bilder: 
+
+Super batteritid 
+
+Men selve prikken over i-en er batteritiden. 
+For T100 parkerer alt av både PC-er og nettbrett vi har testet tidligere som kjører fullblods Windows. 
+Ved kontinuerlig HD-videoavspilling, og med tastaturet tilkoblet, holdt batteriet ut 10 timer og 51 minutter før maskinen sluknet. 
+Det er helt på høyde med de mest strømgjerrige ARM-baserte nettbrettene. 
+Med minimal belastning, bare tilkoblet trådløst nett, holdt batteriet ut i overkant av 13 timer og 10 minutter. 
+Det betyr at det ikke er usannsynlig at du vil kunne bruker brettet til varierte oppgaver i rundt 12 timer mellom hver lading. 
+
+Det er imidlertid en bitteliten hake ved det hele, og det er at selve ladingen er tidkrevende med den medfølgende USB-baserte veggladeren. 
+Er batteriet helt utladet bør det stå i kontakten over natten. 
+
+Vi må også legge til at selv om brettet har 64 GB lagringsplass, er det bare rundt halvparten tilgjengelig takket være at Windows 8.1 og programmene som følger med beslaglegger mye. 
+Man kan selvfølgelig avinstallere en god del av disse, og dermed få mer tilgjengelig plass. 
+Husk også at du kan doble lagringsplassen ved å putte inn et microSDXC-kort, 64 GB får du for 3-400 kroner. 
+
+Og en ting til på tampen: 
+Vi opplevde at Windows krasjet totalt én gang under testperioden, så kraftig at vi ikke trodde vi fikk fullført testen. 
+Problemet var at maskinen stoppet under oppstarten med beskjeden "Forbereder automatisk reparasjon", og ville ikke komme videre. 
+Uten at vi helt vet årsaken løste det seg ved å gå inn i BIOS og velge Windows oppstartsmeny. 
+Deretter gikk alt som smurt igjen. 
+
+Konklusjon 
+
+Intel har gjort en formidabel jobb med strømbruken på deres nye Bay Trail-prosessorer, og det merkes på T100 fra Asus. 
+Helt grei ytelse til lett bruk, og batteritid som ikke står tilbake for mer etablerte nettbrett. 
+Prisen bør heller ikke skremme noen. 
+
+Det mest negative er pekeplaten. 
+Den er ikke god. 
+Mulig problemene med dårlig respons kan fikses med oppdaterte drivere (det har vi sett eksempler på tidligere), men enn så lenge bør du heller bruke skjermberøringer i stedet. 
+På det området er jo T100 helt glimrende. 
+
+Vi setter også et spørsmålstegn ved systemkrasjen vi opplevde. 
+Det kan selvfølgelig skyldes feil ved vårt testeksemplar, men mest sannsynlig er det driverproblematikk som kan løses gjennom fremtidige oppdateringer. 
+
+Prisen tatt i betraktning er dette uansett et godt produkt som bør vurderes av alle Windows-brukere som egentlig hadde tenkt seg et rent nettbrett. 
+
+Trenger du mer ytelse og har mer penger å bruke, bør du definitivt også vurdere Microsoft Surface Pro. 
+
+Asus Transformer Book T100TA-DK003H 

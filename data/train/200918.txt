@@ -1,0 +1,66 @@
+Steinberg Loopmash for iPhone
+Hvis musikksmaken går i retning beats og electronica er det midt i blinken. 
+
+Musikk er så mangt, og er tett koblet med tilgjengelig teknologi. 
+Dette resulter i nye former og stilarter med helt andre spilleteknikker og lydbilder. 
+Til glede for mange, til andres irritasjon og ergrelse. 
+
+Det har gått lang tid fra eksperimentene på slutten av 50-tallet på Bell Labs i USA, hvor programmerere og komponister skrev kode for så å vente til stormaskinen hadde generert en lydfil. 
+
+I dag har man mange ganger datakraften i mobilen, og programmene er deretter. 
+Musikken blir også preget av hva som er mulig å få til, enheten program og maskin blir på mange måter et nytt instrument. 
+
+EDB og dansemusikk 
+
+Til moderne dansemusikk er signalprosessering av forskjellige loops helt sentralt. 
+En mye brukt teknikk er å dele opp loopen i de forskjellige slagene i taktene, og behandle hver lyd for seg. 
+I en trommefigur kan man da plukke ut alle basstrommslagene, prosessere bare disse og gi dem enda mer trøkk i lydbildet. 
+
+Andre lyder, som f.eks. hihat kan plukkes ut, timingen analyseres og brukes til å trigge andre lyder. 
+Blander man så inn andre figurer og synkroniserer alle disse, så får man etter hvert en groove og et lydbilde som kan være basis for en hel låt. 
+
+Dette høres ut som nitid lydredigering som krever presisjon og teknisk innsikt. 
+Men det kan altså kjøres i sanntid og styres med fingertuppene på en iPhone. 
+Med lydbibliotek på 250 loops med lyder som spenner over et stort register må du ut med hele 21 kroner. 
+
+Og programmet heter LoopMash og kommer fra Steinberg. 
+
+Slik virker LoopMash 
+
+iPhone-versjonen kan spille av 4 loops samtidig. 
+Du velger fritt fra biblioteket om du skal ha rytmiske looper, svevende lydtepper, bassfigurer, stemme, blåseriff, effekter osv. 
+
+Alle loopene stemmer selvfølgelig overens i tempo, som kan endres globalt. 
+Men dette er bare begynnelsen. 
+
+Programmet analyser slagene i loopene som brukes, og finner de som matcher. 
+Disse ser du får en lysere farge i displayet. 
+
+Så kan du justere mash-faktoren på de andre loopene som spiller, slik at de henger seg på de avmerkede slagene i hovedloopen. 
+Hvilken som er Master-loopen velger du ved ganske enkelt å berøre den. 
+Du kan også justere hovedterskelen, streken som går på tvers gjennom alle loopene. 
+
+Hele lydbildet forandrer seg umiddelbart når du velger ny Master. 
+
+Balansen mellom loopene justserer du med mixeren. 
+
+Utover dette kan du filtrere hele loopen med tre forskjellige filtere hvor du justerer frekvens og resonans med fingeren, dessuten kan du endre lengden på slagene i loopen, forskyve og justere. 
+
+Når du finner et oppsett du liker kan du lagre dette på en palett med plass til 8 oppsett, eller Scenes som Steinberg kaller dem. 
+
+Du kan dessuten både lagre og laste inn lagrede paletter i sanntid uten å stoppe musikken! 
+
+Hva synes vi? 
+
+Programmet er lett å lære, bare man ser en video eller leser litt om hva det gjør og hvordan det virker. 
+
+Lydbiblioteket er bra, høy kvalitet og svært variert. 
+Vi savner mulighet til å legge inn egne loops, men det kommer senere, i følge Steinberg. 
+
+Programmet er morsomt å bruke, alt skjer i sanntid og du kan lage alt mulig fra svevende bakgrunner til intense beats for dansegulvet. 
+
+LoopMash for iPhone er en mindre versjon av en modul i Steinbergs profesjonelle lydprogram Cubase, så det er enda mer som kan arves etter hvert som iOS-platformen blir kraftigere. 
+
+Mer info finner du hos Steinberg 
+
+Programmet lastes selvsagt ned fra Appstore, prisen er som nevnt 21 kroner. 

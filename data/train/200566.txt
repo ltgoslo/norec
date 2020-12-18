@@ -1,0 +1,31 @@
+Jensen LongRange
+Det finnes flere alternativer teknikker for å få lengre rekkevidde på trådløst nett. 
+Jensen har satset på en LongRange, som jobber innenfor dagens standarder. 
+
+Vi har testet rutere med MIMO, som er forløpere til den kommende standarden 802.11n. 
+Denne standarden er enda ikke i boks, selv om de få produktene vi har testet har fungert utmerket sammen med annet trådløst basert på standarden 802.11g. 
+
+LES OGSÅ: 
+
+Men Jensen har utviklet sin egen vri, som er basert på et brikkesett fra Atheros. 
+Dette skal gi 54 Mbit over et større område enn ordinære løsninger, 2-3 ganger i følge Jensen. 
+Rekkevidden påstås også å kunne bli 4-9 ganger lenger enn andre 802.11g-løsninger. 
+
+Ruteren har 4 svitsjede porter, og funksjonaliteten er den samme som hos de fleste andre typiske 802.11g bredbåndsrutere, med 4 svitsjede porter, NAT, VPN, WPA, osv. og er enkel å sette opp via nettleseren. 
+En glimrende veiviser er til god hjelp for de som skal innstallere en trådløs ruter for første gang. 
+
+Testing i trevilla 
+
+Vi testet ruteren Air:Link WBR 7954 og PC-kortet Air:Link 7054 i vår trevilla, og her fikk vi meget god dekning i hele huset, fra mønet og ned i kjelleren. 
+Hastigheten var også like god over alt. 
+
+Hastigheten lå likevel noe under andre rutere, MIMO-ruterne fra Linksys og D-Link lå begge et hakk over i hastighet. 
+
+Testing blant mur og metall 
+
+Trehus er en enkel utfordring for dagens trådløse rutere. 
+Derfor tester vi også under langt vanskeligere forhold, gjennom tykke murvegger og bak dekorative innredinger av perforerte metallplater. 
+
+Her var Jensen sin ruter vesentilig bedre enn ordinære rutere med tradisjonelle antenneløsninger. 
+
+Selv om hastigheten falt en del, var forbindelsen brukbar både i posisjonen gjennom murvegg og lengst vekk fra ruteren og oppe på mesaninen bak stålplatene. 

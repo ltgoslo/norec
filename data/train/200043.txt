@@ -1,0 +1,105 @@
+Transcend MP860
+TEST: 
+Stor skjerm og massevis av funksjoner. 
+Og til den prisen? 
+
+Markedet for MP3-spillere er vanskelig for de aller fleste, med unntak av Apple - som fortsatt surfer på en medgangsbølge. 
+Apple har store ressurser til å utvikle nye produkter, og på ligger alltid i forkant med design og funksjon når det lanseres nyheter. 
+
+Men i kjølvannet finnes det mange gode alternativer til iPoden, ikke minst er vi imponert over hva Sony har fått til med sine siste generasjoner med spillere. 
+Også Sandisk og Creative har lansert spillere som utmerker seg med god lyd og kurante priser de siste årene. 
+
+Les også: 
+MP3-testenes hovedside 
+
+Fokus på pris 
+
+Bak disse er det en rekke mindre produsenter som på en eller annen måte prøver å raske til seg smulene. 
+En av disse er Transcend, som kanskje er mest kjent for sin produksjon av minnekort. 
+De har flere spillere i markedet, og deres største konkurransefortrinn ser ut til å være lav pris. 
+
+MP860, som vi har testet, koster for eksempel bare litt over femhundrelappen i norske nettbutikker. 
+Men det er ikke "billig" som er det første som slår oss når vi ser den, kanskje mest takket være den store skjermen. 
+Den måler 2,4 tommer, og okkuperer godt over halvparten av overflaten. 
+
+Designmessig er MP860 slett ikke verst 
+
+Og funksjonslisten er dessuten også meget fyldig, her er noen av de viktigste av dem: 
+
+Transcend MP860 portabel mediespiller i lommeformat 8 GB flashminne Minnekortleser for microSD og microSDHC-kort (inntil 32GB) spiller MP3, WMA, Ogg Vorbis, Flac og WAV-lydfiler spiller XVID og FLV-videofiler viser JPG/BMP/GIF/PNG-bilder viser tekstfiler (.txt) 2,4" TFT fargeskjerm 240 x 320 piksler FM-radio med 20 forhåndsstilte stasjoner Stemmeopptaker/diktafon med egen rec-knapp Linjeinngang for opptak direkte på spilleren Innebygd høyttaler 
+En rekke lydinnstillinger, inkl equalizer og SRS WOW HD Variabel avspillingshastighet Oppladbart batteri via USB-kabelen, 22 timer levetid ved musikkavspilling 
+
+Sett i forhold til prisen, er det en del ting her som ikke er hverdagskost, først og fremst linjeinngangen og den store skjermen. 
+Kortleser lar deg utvide internminnet, og er heller ikke noe man ser på mange spillere, men er nok naturlig å inkludere for minnekortprodusenten Transcend. 
+
+(fortsetter under bildene) 
+
+Det følger med et beskyttelsestrekk i silikon som enkelt træs på spilleren 
+
+Med spilleren følger en installasjons-CD for konvertering av videoer til kompatibelt format, øreplugger av den klassiske typen (hardplast i ytre øret), silikon-trekk, lettfattelig brukerguide på engelsk (og noen andre språk, ikke norsk) og USB-kabel. 
+
+Dra og slipp 
+
+Når den kobles til PC-en får du spørsmål på skjermen om du vil koble den til for overføring og lading, eller avspilling og lading. 
+Velger du førstnevnte dukker den opp som en stasjonsbokstav i Windows Utforsker, og du kan deretter dra og slippe filer til og fra den. 
+
+Heldigvis trenger du ikke noen spesialkabel, her benyttes standard miniUSB-kontakt mot spilleren, og slike kabler får du tak i over alt dersom du skulle miste den som følger med. 
+
+Overføringshastigheten er imidlertid laber, rundt 2 MB pr sekund målte vi på vår relativt raske PC. 
+Det er ikke imponerende, og langt tregere enn på de aller fleste spillerne vi har testet de siste par årene. 
+
+MP860 er utstyrt med egen linjeinngang for opptak direkte til spilleren, for eksempel fra en CD- eller kassettspiller 
+
+Høylytt navigering 
+
+Hovedmenyen er bygd opp av ni ikoner som starter de forskjellige funksjonene eller tar deg til innstillingene. 
+Navigering skjer med den firkantede knappen med fire trykkfelter, venstre, høyre, opp og ned. 
+Den samme knappen brukes til å hoppe mellom spor (høyre - venstre), og lyden (opp - ned). 
+For å gå tilbake til forrige side bruker du return-knappen til høyre. 
+
+På siden sitter en egen rec-knapp for lydopptak. 
+Dermed har man en kurant diktafon med mange, mange timers opptaksmuligheter. 
+For å aktivere den må man holde knappen inne i noen sekunder. 
+Et kort trykk fungerer som alternativer-knapp, for eksempel under avspilling av musikk. 
+
+Det tok ikke mange sekundene med bruk før billig-inntrykket kom sigende. 
+Først og fremst er knappene i fronten litt slarkete, og kneppelyden er høy. 
+Det gjør at navigeringen aldri blir en like behagelig opplevelse som på mer forseggjorte spillere. 
+
+Klikker du for eksempel på musikk-ikonet, får du valget mellom Internal Memory, Playlist og Bookmark List. 
+Her dukker også minnekortet opp som eget valg dersom du har satt inn et slikt. 
+
+So far, so good - det er på neste nivå vi synes spilleren feiler. 
+Den viser nemlig kun mappestrukturen, og med mindre du har vært veldig flink til å tenke oppbygning da du kopierte musikk til spilleren, kan det bli vanskelig å orientere seg. 
+
+Den viser dessuten nøyaktig de samme mappene dersom du velger videoer, så her bør man kunne litt om filbehandling for å finne frem. 
+
+Ikke akkurat Apple-, Sony- eller Creative-standard på menyene 
+
+Skjermoppløsningen er bra i forhold til størrelsen (320 x 240), men oppleves som noe lavere enn den egentlig er under visning av bilder og avspilling av video - muligens på grunn av dårlig dynamisk omfang. 
+Bildet blir dessuten lett invertert hvis du ikke betrakter det rett forfra. 
+Med andre ord; opplevelsen blir så som så, men noe annet har vi kanskje ikke lov å forvente i denne prisklassen? 
+
+Konvertering må til 
+
+Vi har forresten ikke funnet noen videoklipp, verken Xvid eller FLV, som har latt seg avspille direkte, uten en tur innom konverteringsprogrammet som følger med. 
+Å konvertere en halvannen times spillefilm tok rundt 20 minutter på vår PC (Core 2 Duo E8200-prosessor, Windows 7). 
+Applikasjonen er simpel, og fungerte ikke helt bra under våre forsøk. 
+De fleste videoer ble konvertert greit, men lyden uteble på flere av klippene. 
+
+Lyden i de medfølgende øretelefonen er heller ikke noe å juble over, og kan godt kastes sammen med emballasjen. 
+Spilleren er imidlertid i stand til å produsere lyd som er mer enn bra nok for normale ører, dersom den kombineres med riktig lytteutstyr. 
+Med "riktig" mener vi et hodesett til noen hundrelapper. 
+Vi testet med utbredte Koss Porta Pro, og tipper de fleste ville blitt mer enn fornøyd med lyden fra spilleren med disse. 
+De mange innstillingene gjør det dessuten mulig å tilpasse lyden etter smak og behag, så her gir vi mer enn godkjent karakter. 
+
+Konklusjon 
+
+Den er billig, ser bra ut, og du får mye funksjonalitet for pengene, samt bra lyd dersom du straks og med en gang bytter ut de medfølgende pluggene med noe bedre. 
+For øvrig bærer MP860 preg av å tilhøre billigsegmentet, både med hensyn til betjening og grensesnitt, og totalt sett er dette en spiller vi kommer til å glemme fort. 
+Den er imidlertid akkurat god nok til at hvermansen med utpreget økonomisk sans og middels lydinteresse blir tilfredsstilt, tror vi. 
+
+MERK: 
+De fleste sammenlignbare spillerne med 8 GB minne koster noen hundrelapper mer, men en titt i noen av de ledende nettbutikkene kan være smart før du handler. 
+Vi fant for eksempel Zen MX fra Creative på tilbud til 499 kroner hos Komplett.no. 
+Det er en bedre spiller enn MP860 på nær sagt alle plan, mener vi. 

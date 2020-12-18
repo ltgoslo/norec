@@ -1,0 +1,40 @@
+OCZ Octane
+OCZ er mest kjent for SSD med SandForce, her er Indilinx. 
+
+Nøkkelkomponenten i SSD-enheter er kontrolleren, det er den som i hovedsak skiller enhetene fra hverandre. 
+Grunnen til dette er at man ikke kan skrive til og slette hver enkelt minnecelle. 
+Man må skrive til en 'page' på 4 - 8 KB, men sletting kan bare gjøres i blokker på 512 - 2048 KB. 
+Derfor blir det mye intern flytting av data for å skape ledige blokker for sletting som det så kan skrives til. 
+
+Hvordan kontrolleren håndterer dette er avgjørende både for ytelsen og levetiden til SSD-en, fordi hver typiske MLC flashminnecelle kan bare skrives til og slettes rundt 5000 ganger. 
+
+SandForce kontrolleren som brukes i de fleste av de raskeste SSD-ene komprimerer dessuten data før skriving, slik at det faktisk skrives mindre data. 
+Dermed økes både hastigheten og levetiden. 
+
+For de aller fleste bruksområder er komprimering en utmerket løsning, men når det skal håndteres ikke-komprimerbare data synker ytelsen. 
+
+OCZ har vært storbrukere av SandForce-kontrollere og etablert seg godt med SSD-enheter basert på disse. 
+Men "alle" andre produsenter bruker også SandForce, så konkurransen er skjerpet. 
+
+OCZ kjøpte derfor firmaet Indilinx i mars 2011, en produsent av flashminnerelaterte løsninger. 
+Octane-serien fra OCZ er basert på en kontroller fra Indilinx. 
+
+OCZ Octane 256 GB 
+
+Vårt testeksemplar ble levert uten noe ekstra, ikke som oppgraderingssett med brakett og kabler. 
+
+SSD-en støtter SATA III (6 Gb/sekund), bruker MLC-flash og støtter Trim. 
+
+Den leveres i flere kapasiteter, 128, 256 og 512 GB og prisene er blant de aller laveste i sine kategorier. 
+
+Ytelse 
+
+Vi kjørte våre standard ytelsestester og fikk følgende resultater: 
+
+Konklusjon 
+
+OCZ Octane er ikke like rask på skriving som de raskeste SandForce-baserte SSD-ene, men leseytelsen er i samme klasse. 
+
+I vanlig bruk er ikke forskjellen dramatisk, fordi ytelsen uansett er så god at forskjellen mellom "uhyre rask" og "sinnsykt rask" er så liten i seg selv. 
+
+Prisforskjellen er derimot svært vesentlig, sammenlignet med Intel ligger den i skrivende stund 1300 - 1400 kroner lavere. 

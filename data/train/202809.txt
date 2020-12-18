@@ -1,0 +1,89 @@
+Multicom Arctic W740S
+Overraskende kraftig bærbar i ultratynn utførelse. 
+
+Hvis du er ute etter en tynn og lett PC med stor kapasitet og mye datakraft, er sannsynligvis den sylferske Arctic-modellen fra norske Multicom et av de aller beste valgene. 
+Maskinen er ikke mer enn 2,1 centimeter tykk, og veier beskjedne 1,9 kilo. 
+Det skulle man ikke tro med slike ytelsestall - for ikke å glemme at den både har SSD og romslig harddisk. 
+
+Maskinen har dessuten noen andre egenskaper som vi falt pladask for, som deriblant 14" AUO-skjerm med full HD-oppløsning (1920 x 1080 piksler) og helnorsk tastatur. 
+Sistnevnte er ikke hverdagskost i PC-verdenen, der de fleste PC-er har fellesnordiske taster. 
+
+Vi legger også til at du kan kjøpe PC-en uten operativsystem, slik at du for eksempel kan velge å installere Windows 7 (kanskje du allerede har en lisens?) hvis du er skeptisk til Windows 8. 
+
+Potente saker 
+
+På innsiden av PC-en sitter en meget kraftig firekjernet Intel Core i7-4750HQ-prosessor med den integrerte Iris Pro 5200-grafikk-brikken. 
+Dette er den kraftigste grafikkbrikken Intel noen gang har laget for bærbare PC-er, og som du skal se litt senere sparker den godt fra seg. 
+
+PC-en leveres videre med hele 16 GB RAM (som også er maks), 120 GB SSD (mSATA) og en vanlig 5400 RPM harddisk med 1 TB kapasitet. 
+I tillegg har den et Intel Centrino N6235 trådløst nettverkskort (støtter a/b/g/n-nett + Bluetooth 4.0). 
+
+På sidene finner du blant annet HDMI-utgang, nettverkskontakt (inntil 1000 Mbit LAN), Mini Displayport, tre USB 3.0-porter og kortleser for SD-minnekort. 
+
+Optisk drev må du klare deg uten, forøvrig må vi si oss meget fornøyd med utstyrsnivået - PC-ens beskjedne størrelse tatt i betraktning. 
+
+Litt høy klikkelyd, men ... 
+
+Skjermlokket er av metall, mens innside og bunn er av plast. 
+Byggekvaliteten virker absolutt å være bra. 
+
+Tastatur og pekeplate er av middels god kvalitet, det er litt svikt i tasaturplaten på midten, uten at det påvirker opplevelsen i særlig negativ grad. 
+Det er relativt støysvakt også. 
+Venstre- og høyreklikk på den heltrukne pekeplaten lager litt høy klikkelyd, noe som ikke alltid er like ønskelig. 
+
+... lydløs i lange perioder 
+
+Effektiv kjøling er utrolig viktig på så kompakte PC-er med kraftig prosessor, og denne PC-en benytter en teknikk kalt Intel Hyperbaric Cooling Technology. 
+Den trekker luft inn fra sidene bak ved hjelp av to vifter, fører luften over komponentene før den blåses ut igjen i midten bak. 
+
+PC-en kan være lydløs i lange perioder med lav belastning, men viftene høres godt under belastning. 
+Heldigvis roterer de uten å lage de mest høyfrekvente lydene - så de blir sjelden veldig sjenerende. 
+
+Det er uansett prisen du må betale for å få en meget kraftig datamaskin i kompakt utforming. 
+
+I bruk og ytelsesmålinger 
+
+Oppstart av PC-en tar rundt ti sekunder med Windows 8. Fra hvilemodus tar det kun et par sekunder. 
+Det plasserer PC-en oppe i selskap med de raskeste vi har målt på dette punktet. 
+
+Windows Opplevelseindeks i Windows 8 gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,7 Minne: 
+8,2 Grafikk: 6,9 Spillgrafikk: 
+6,9 Primær harddisk: 
+8,1 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og i diagrammene under har vi sammenlignet tallene vi fikk med prosessorer og grafikkort som sitter i størrelses- og vektmessige like PC-er i samme prisklasse (10.000 kr): 
+
+De aller fleste PC-ene i denne klassen har såkalt ULV-prosessor som ikke yter på langt nær så bra som prosessoren i vår test-PC. 
+Prosessorytelsen er faktisk på høyde med hva du kan forvente av kraftige spill-PC-er 
+
+3D-ytelsen er nesten tre ganger høyere enn "standard" Intel HD 4000, noe som betyr grei ytelse også i nyere, krevende spill, i hvert fall om du går litt ned på oppløsningen. 
+Intel dominerer nesten totalt på PC-er rundt 10.000 kroner og med vekt på under 2 kg. 
+Vi tok med mellomklassekortet Nvidias GT 750M i diagrammet for sammenligningens skyld - dette finner du ofte i en del litt større PC-er i 10.000 kroners-klassen. 
+
+Harddisk/SSD Lesehastighet: 
+Inntil 430 MB pr sekund Skrivehastighet: 
+Inntil 424 MB pr sekund 
+
+SSD-en i vår test-PC har en ytelse som ligger høyt på listen, rundt 4-5 ganger kjappere enn typiske 5400 rpm-harddisker. 
+I praksis er det kun SSD-er i RAID 0-oppsett som har hatt bedre ytelse i våre PC-tester, men dette betyr uansett lynrask lesing og skriving av data på denne PC-en. 
+
+Hva med batteritiden? 
+
+Multicom sier at du skal kunne klare å kjøre PC-en med varierte oppgaver i rundt seks timer mellom hver lading. 
+Det hadde ikke vi nubbesjanse å få til, i beste fall klarte PC-en fire timer og 42 minutter, men under konstant videoavspilling var batteriet tomt på tre timer og 48 minutter. 
+
+Rundt fire til 4,5 timer er altså en mer korrekt angivelse, mener vi - tall som godt kunne vært litt høyere. 
+
+Konklusjon 
+
+Denne maskinen har en ytelse man skulle forvente av maskiner som veier minst 50 prosent mer og er dobbelt så tykke. 
+Designmessig er den ikke blant de mest spenstige, men brukeropplevelsen er i stor grad meget positiv. 
+
+Les våre plusser og minuser under for å finne ut om dette er PC-en for deg. 
+
+Takk til Multicom for utlån av maskinen til test. 
+
+Multicom Arctic W740SU-CFB2 

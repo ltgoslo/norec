@@ -1,0 +1,60 @@
+Ned.IT VC8100Z
+MINITEST: 
+Åtte megapiksler til snaue femten hundre kroner er sjelden vare. 
+Men er kameraet godt nok? 
+
+Vi har i det siste tatt en liten titt på kameraer i den nedre delen av prissiktet til rundt 1000-1500 kroner. 
+Vi har allerede testet ut Nikon CoolPix L4 og Fujifilm A500, men er kameraet fra Coop godt nok til å tukte de mer kjente merkene? 
+
+Kameraet fra Ned.IT er et OEM-kamera. 
+Det vil si at det lages av et opphavsfirma, men brandes av andre. 
+Ned.IT fra Coop er identisk med Advent-kameraet fra Elkjøp (Elkjøp er to hundrelapper billigere) 
+ faktisk har kameraet rundt tjue forskjellige navn rundt om i Europa. 
+Så vidt vi kan se (etter litt Googling) er kameraet egentlig tysk og heter Praktica, men lages i Kina. 
+
+Utvendig virker kameraet for så vidt ganske robust, selv om detaljene hinter om at kameraet er billig. 
+Huset er laget av sort plast og er ganske tungt, med sølvfargede knapper som er litt tunge å trykke inn og har et litt billig preg. 
+På den positive siden finner vi alle knappene vi ønsker å finne  piltaster for navigering i menyer, en velfungerende zoomkontroll, en knapp for å bytte mellom avspilling/opptak og knapper for både meny, display og bytte mellom film og lyd. 
+Positivt er det også at piltastene fungerer som hurtigtaster ved opptak, slik at det er lett å stille blits, selvutløser og makromodus. 
+Kameraet har i tillegg åtte forskjellige opptaksprogrammer, og det er også mulig å justere eksponeringskompensasjon, følsomhet og hvitbalanse. 
+
+Objektivet har et zoomområde på 38-108mm (35mm-format), altså snaue 3x optisk zoom. 
+På den videste vinkelen er kameraet relativt lyssterkt med maksimal blenderåpning på f/2.8, som dropper ned til f/5.1 ved full tele. 
+Ikke uvanlig for et kompaktkamera, men litt i svakeste laget i forhold til de beste. 
+Makromodusen har en nærgrense på 4cm, og kameraet støtter følsomhet opp til ISO 200. 
+CCD-brikken er 1/1,8 tommer, og det gir en sensortetthet på 210.000 pr. kvadratmillimeter, som selvsagt er i høyeste laget i forhold til støy. 
+
+LCD-skjermen er 2,4 tommer stor, og selv om oppløsningen ikke er oppgitt, tror vi ikke vi bommer veldig om vi gjetter på rundt 115.000 piksler. 
+Skjermen har ingen stor innsynsvinkel, men fungerer ellers helt greit, med ikoner for det meste av innstillinger og en generelt god oppfriskningsrate. 
+Menyene er noe enkle, men er til gjengjeld lette å navigere i, og det er også mulig å få frem et 3x3-rutenett for assistanse til å ta bilder med det gyldne snitt. 
+
+Ytelsen er et svakt punkt for Coop-kameraet. 
+Kameraet bruker fire og et halvt sekund fra det slås på til det er klart til å ta første bilde, og det er det tregeste vi har sett på lang tid. 
+Utløserforsinkelsen ligger på et par tideler, og autofokusen er middels rask 
+ vel å merke når den virker. 
+I dårlig lys opplevde vi ofte at autofokusen ikke klarte å gjøre jobben, og uten hjelpelampe eller manuell fokus er det derfor vanskelig å få til å ta gode bilder i mørket. 
+Ved et par anledninger kjempet autofokusen en så hard kamp at kameraet hang seg opp 
+ det eneste som hjalp var å ta ut batteriene og putte dem tilbake. 
+
+Det skal også nevnes at kameraet bruker lang tid på å lagre bilder, og at to blitsbilder tok opp mot ni sekunder. 
+Kameraet har forresten en seriemodus (uten blits) der fire bilder kan tas med ett sekunds mellomrom mellom hvert bilde. 
+
+Automatikken har også sine problemer; særlig lysmålingen, som vi flere ganger opplevde at bommet totalt. 
+Helt greie motiver i normalt dagslys ble plutselig overeksponert så til de grader, mens en lysstolpe mot en relativt grå himmel to minutter seinere ble alt for mørk. 
+Himmelen ble også i de fleste tilfeller helt kritthvit. 
+
+Selve bildekvaliteten er heller ikke imponerende. 
+Graden av kromatisk feilbrytning er stor, representert av blå kanter på bildet til høyre. 
+Automatikken bruker heller sjelden mer enn ISO 50, noen ganger ISO 100, men allikevel blir det mye støy i bildene. 
+Bildene har også dårlig dynamikk og mangler litt "punch" i konstrastene, særlig i mørke partier der det blir for lyst. 
+
+Det skal nevnes at videofunksjonen ikke er så ille  litt støyfylte bilder blir det, men 640x480 i 30fps flyter bra, og filmen komprimeres med DivX. 
+
+Konklusjon 
+
+Det er riktignok mange megapiksler til en billig penge, men som vi har prøvd å sette fokus på i det siste, håper vi at antall megapiksler ikke blir hovedkriteriet for hvilket kamera du kjøper 
+ det er kvaliteten på megapikslene som teller, og kan du ikke blåse opp bildene i mer enn A4-størrelse uten skjemmende støy og andre artifakter, er det ingen gevinst i forhold til et kamera med halvparten så mange piksler. 
+
+Ned.IT-kameraet er tregt i bruk, det er ustabilt i form av at det låser seg og automatikken (særlig lysmålingen) er spesielt dårlig, med en del rare resultater selv i normalt dagslys. 
+I tillegg er skjermen bare gjennomsnittlig bra, autofokusen har store problemer på tele 
+ det er i det hele tatt mye å sette fingeren på ved dette kameraet, og vi kan derfor på ingen måte anbefale det. 

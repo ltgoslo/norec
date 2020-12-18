@@ -1,0 +1,60 @@
+LiveDrive - grenseløs lagring på nett
+Dukker opp som en harddisk i Utforsker. 
+
+Stedsuavhengig lagring er et hett tema for tiden, og vi har vært innom det ved flere anledninger i det siste. 
+Det dreier seg altså om å lagre dataene dine andre steder enn på en lokal harddisk, minneplugg eller lignende, men et sted der du kan få tilgang til dem - uansett hvor du befinner deg og hvilken datamaskin eller dings du jobber på. 
+
+To av de mest populære gratis-løsningene er Windows Live Mesh og DropBox, som begge er gratis. 
+Ulempen er at de begge har en øvre lagringsgrense på noen ganske få gigabytes, og det er ikke særlig mye i disse multimedietider. 
+
+Ingen lagringsgrense 
+
+LiveDrive, derimot, er totalt fri for den slags begrensninger. 
+Den er samtidig kanskje den tjenesten som er enklest å bruke, all den tid at den bakes inn i Windows Utforsker med egen stasjonsbokstav. 
+
+Ja, du ser faktisk ikke forskjell på LiveDrive-stasjonen og en vanlig partisjon. 
+
+Den brukes da også på samme måte, og du kan lagre og åpne filer fra LiveDrive som fra hvilken som helst harddisk eller minneplugg. 
+
+Det går dessuten like kjapt som om du jobbet lokalt. 
+
+Hvordan er det mulig? 
+Jo - filene ligger både lokalt, en skjult mappe, og på ditt LiveDrive-område på nettet. 
+Synkroniseringen av den lokale kopien og "on-line"-versjonen foregår i bakgrunnen, uten at du merker det. 
+
+Kan jobbe offline 
+
+Du kan selv bestemme om alt kun skal lagres på LiveDrive, eller begge steder. 
+Sistnevnte byr på åpenbare fordeler med tanke på hastighet, for ikke å glemme at du kan bruke LiveDrive selv om du er offline. 
+Så snart du er online igjen vil synkroniseringen kjøre i bakgrunnen. 
+
+Installerer du klientprogrammet på en annen PC og logger deg på LiveDrive-området ditt der, vil du få tilgang til nøyaktig samme data, og hvis du ønsker det kan det lages lokale kopier av filene dine også her. 
+
+Hvis du ikke installerer klientprogrammet, kan du likevel aksessere og behandle filene dine - gjennom nettleseren. 
+Da vil du også få tilgang til andre funksjoner, deriblant fildeling med andre og revisjonshistorikk. 
+Sistnevnte gjør det mulig å gjenopprette tidligere versjoner av filer, for eksempel dokumenter og redigert bilder. 
+
+Noe gjenstår, gratis i beta 
+
+LiveDrive er foreløpig kun i beta-stadium, og det merket vi ved noen anledninger. 
+Det mest plagsomme er at miniatyrer av bildefiler og mapper med bilder ikke vises riktig. 
+De viser rett og slett ikke riktig bilde: 
+
+Vi savner også en enkel indikasjon om en fil er synkronisert eller ikke, slik for eksempel Dropbox byr på. 
+Og sist - ikke forvent å kunne forhåndsvise og redigere filene dine via nettleseren, selv om dette skal gå i teorien fikk vi bare feilmeldinger under vår test. 
+
+Bortsett fra dette er LiveDrive en svært enkel og imponerende tjeneste, og så lenge den er betafase, er den også gratis å bruke. 
+Vi snakker her altså om ubegrenset lagringsplass. 
+
+Blir betaltjeneste 
+
+Vi har dessverre ikke fått vite når LiveDrive går ut av betafasen, men vi vet at det kommer til å bli en betalingstjeneste. 
+For rundt 400 kroner i året får du fortsatt ubegrenset lagringsplass, men du får bare installere klientprogrammet på én PC. 
+For 900 kroner får du installere klientprogrammet på inntil 5 PCer. 
+
+Men før den tid har kanskje Google lansert sin mye omtalte GDrive, som mange håper og tror skal både by på ubegrenset lagring, og være helt gratis. 
+
+LiveDrive fungerer i de fleste nettlesere, men klientprogrammet virker kun i Windows XP eller nyere. 
+En Mac-versjon skal imidlertid være på trappene. 
+
+Du finner mer informasjon på www.livedrive.com 

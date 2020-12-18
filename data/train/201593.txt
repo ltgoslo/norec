@@ -1,0 +1,65 @@
+D-Link DAP-1320 Wireless Range Extender N300
+Har du trådløst som bare rekker nesten hele området? 
+Her er en enkel løsning. 
+
+Hvor god dekning man får med en trådløs ruter vil variere. 
+Både ruteren selv, plasseringen og hindringer i rommene, samt påvirkning fra andre trådløse nett gjør det vanskelig å si på forhånd hvor god dekning man vil få. 
+
+Noen ganger får man ikke tilstrekkelig dekning, da må man enten flytte den trådløse ruteren eller koble til en enhet som sørger for å utvide dekningsområdet. 
+
+Dette kan gjøres på mange måter, med flere forskjellige typer enheter. 
+Den beste er å strekke kabel og sette opp en ny trådløs sender. 
+Det er også den dyreste og mest kompliserte. 
+Den enkleste er å sette opp en "Extender", altså en enhet som utvider dekningsområdet. 
+
+DAP-1320 Wireless Range Extender N300 
+
+Denne vesle enheten fra D-Link er laget for å plasseres i ytterkant av dekningsområdet til et eksisterende trådløst nett. 
+Her fanger det opp signalene og forsterker disse, og skaper dermed et større dekningsområde. 
+
+En liten hake ved dette må man være klar over: 
+Den kan ikke sende og motta samtidig, derfor blir båndbredden og i praksis overføringshastigheten redusert til halvparten. 
+Men du får dekning. 
+
+Selve enheten er på størrelse med en liten strømforsyning, og settes rett i stikkontakten. 
+Den støtter 802.11n N300-standarden med to antenner/strømmer. 
+
+Installasjon 
+
+Det er ingen nettverkskontakter eller USB på enheten, så du må sette den opp trådløst. 
+Vi gjorde det fra vår iPhone. 
+
+Det første du gjør er å laste ned en gratis app fra D-Link til din mobil (den finnes også til Android). 
+Du kan enten søke den opp i App-store, eller du kan skanne QR-koden som står i manualen og kommer rett til nedlasting. 
+
+Når du har satt DAP-1320 i en stikkkontakt som er godt innenfor dekningsområdet til ditt trådløse nett, logger du deg på det trådløse nettet fra enheten i stedet, og taster inn passordet - det ligger i esken. 
+Så starter du appen og velger det eksisterende trådløse nettet du vil utvide rekkevidden til. 
+Du må også legge inn passordet hvis nettet er beskyttet. 
+
+Her ser du noen skjermdumper av prosessen: 
+
+Så gjør enheten en omstart, det er det hele. 
+Nå kan du flytte DAP-1320 til utkanten av dekningsområdet og sjekke hvor mye større dekningsområdet har blitt. 
+
+Ytelse 
+
+Som vi nevnte innnledningsvis vil dekningen variere med mange faktorer. 
+Vi testet både hjemme (utendørs) og inne på kontoret, og fikk dekningsområdet ble vesentlig utvidet begge steder. 
+
+Dekningen hjemme rekker akkurat innenfor den innerste enden av garasjen, på den siden som ligger nærmest huset, en avstand på cirka seks meter fra husveggen. 
+Hovedaksesspunktet står midt i huset, fem meter videre innover, og drøyt seks meter opp, under mønet. 
+Utenfor forsiden av garasjen er det likevel ikke dekning. 
+
+Med DAP-1320 plassert i stikkontakten på garasjeveggen nærmest huset fikk vi nå dekning også foran garasjen. 
+Det betyr en utvidelse av dekningsområdet på 13-14 meter, med forskjellige hindringer som bil, vedstabler, vegger og så videre. 
+
+På kontoret, hvor det er et stort, åpent område, fikk vi utvidet dekningsområdet med rundt 20 meter i fri sikt. 
+
+Vi har tidligere testet to andre enheter som utvider dekningsområdet, fra produsenteneLinksys og Netgear. 
+
+Konklusjon 
+
+DAP-1320 er en meget enkel enhet å installere og sette opp. 
+Trenger du noen meter større rekkevidde på det trådløse nettet er dette en enkel og rimelig løsning. 
+
+D-Link DAP-1320 

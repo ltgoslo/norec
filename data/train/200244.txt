@@ -1,0 +1,71 @@
+HP Compaq Mini 730
+En mini-PC med tilnærmet normal tastaturstørrelse? 
+Det kan vi like. 
+Vi har testet HP sitt siste tilskudd i klassen. 
+
+Det er tøffe tider for PC-bransjen, men for én type datamaskiner peker salgstallene oppover; minibærbare eller netbooks, som de også kalles. 
+
+Disse maskinene veier normalt sett rundt 1 kg, er utstyrt med Intel Atom-prosessor, 1 GB minne, og leveres med Windows XP eller en Linux-variant. 
+
+Vi har testet en rekke modeller tidligere, og nå er turen kommet til HP Compaq Mini 730. 
+Dette er andre generasjon minibærbar fra HP, den første, HP 2133, som kom i fjor høst, var utstyrt med en relativt svak prosessor fra VIA, men nå har også HP gått over til Intel Atom. 
+
+Godt utstyrt 
+
+For øvrig er Mini 730 relativt godt utstyrt, med 10,2-tommer skjerm (uten kontrastbelegg), B/G WLAN, Bluetooth, SD-minnekortleser, webkamera med mikrofon, Altec Lansing høyttalere og to USB-porter. 
+
+Operativsystemet er Windows XP Home Edition Service Pack 3 og en rekke oppdateringer siden den gang er på plass, inkludert Windows Media Player 11 (men ikke Internet Explorer 8). 
+
+Den interne skjermen har en oppgitt oppløsning på 1024 x 600 piksler. 
+Det viste seg imidlertid under testen at den vertikale oppløsningen kun var 576 piksler. 
+Det er så lavt at det er fornuftig å flytte oppgavelinjen i Windows til en av sidene, for å utnytte skjermplassen bedre, eventuelt sette den til å skjules automatisk. 
+
+Her er også mulighet til å koble maskinen til ekstern skjerm (DisplayPort). 
+
+Harddisken er mindre enn på mange andre i klassen, med sine 80 GB. 
+Vi stusser litt over dette valget fra HP, da 160 GB er relativt vanlig på konkurrerende modeller. 
+
+Selve maskinen veier 1,02 kg, og måler 16,6 x 26,1 x 2,5 cm. I tillegg følger en 30W ekstern strømforsyning med, og den er heldigvis temmelig liten og lett. 
+
+Designmessig hører PC-en hjemme i det øvre skikt, vil vi påstå, med sine svarte, blanke overflate og avrundede hjørner. 
+Den er også relativt tynn, og glir lett ned i skolesekken eller veska. 
+
+Stort tastatur 
+
+Det som imidlertid kanskje er PC-ens største force, er at den er er utstyrt med et stort tastatur, som måler 92% av størrelsen til et normalt tastatur til bærbar PC. 
+Det gjør at det er enkelt å skrive på, også med touch-metoden. 
+
+Ulempen med det store tastaturet er at det blir lite plass til overs til andre ting, for eksempel pekeplaten. 
+Den er plassert helt nederst, og høyre og venstre museknapp er plassert på sidene. 
+Det er en løsning vi ikke blir helt fortrolig med, uten å endre måten vi arbeider på. 
+
+Støy og ytelse 
+
+Maskinen er utstyrt med en vifte som stort sett går hele tiden. 
+Den kjører normalt på et lavt nivå, riktig nok er den hørbar i stille omgivelser, men ikke plagsom. 
+
+Ved litt tøff belastning (for eksempel avspilling av video eller tunge Flash-annonser) øker viftehastigheten, og suset skifter litt karakter. 
+Nå akkompagneres den plutselig av en lav, men høyfrekvent tone som kan være irriterende dersom du sitter på lesesalen, i senga eller andre stille steder. 
+Kjøleeffekten er imidlertid god, og maskinen blir aldri så varm at den blir ubehagelig å ha i fanget. 
+
+Vi kjørte ytelsestestene i PCMark05, og fikk resultatene 1493 på CPU, 2379 på Memory og 2910 på hardisk. 
+Sammenligner vi med HP 2133, ser vi at det meste er blitt bedre, med unntak av harddiskytelsen: 
+
+Til de fleste vanlige oppgaver, som surfing på nett, tekstbehandling og lignende, er ytelsesproblemer sjelden synlige. 
+Også til musikk og DivX-video og annet med oppløsning på inntil 720P, vil som regel som regel smertefritt. 
+
+Vår test av WMV HD-video i 1080P hakket imidlertid så mye at det var ødeleggende for opplevelsen, men da snakker vi om helt spesielle behov på nåværende tidspunkt. 
+
+Maskinen kommer forresten med Microsoft Works, som er en enkel samlig kontorprogrammer, samt et backup-program fra Roxio, en rekke spill og et program for synkronisering av data mellom denne maskinen og andre maskiner du skulle disponere. 
+
+Batterilevetiden målte vi i to omganger, en gang ved kontinuerlig videoavspilling - som definitivt krever sitt av batteriet, og en gang med minimal belastning. 
+
+Avhengig av hva du bruker PC-en til, vil altså levetiden ligge et sted mellom 2 og 3 timer, noe som er helt ordinært for en maskin med 3-cellers batteri. 
+
+Konklusjon 
+
+Compaq Mini 730 ser bra ut og har et av klassens desidert beste tastaturer. 
+Den er lett og tynn, og har oppført seg eksemplarisk de ukene vi har brukt den, i alt fra møtepresentasjoner til underholdning på togturen. 
+
+Litt liten harddisk, litt viftestøy under belastning, og en noe knotete venstre-høyre-museknapp er det vil likte minst. 
+Vi kunne også ha tenkt oss litt høyere skjermoppløsning vertikalt, men særlig mer enn 600 piksler er det de færreste mini-PCene som byr på, dessverre. 

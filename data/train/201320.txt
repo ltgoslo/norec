@@ -1,0 +1,212 @@
+TEST:Denon Heos trådløst musikkanlegg 
+
+Nykommeren har knallyd, men hvordan er de å bruke? 
+
+Fram til i dag har Sonos fått lov til å dominere markedet for trådlys lyd i flere rom. 
+Men nå kommer konkurrentene for alvor. 
+Ett eksempel er Samsung Multiroom-løsning, og i dag er det altså Denon Heos som står for tur. 
+
+Heos-serien består av tre aktive høyttalere: 
+Den største heter Heos 7, den midterste heter Heos 5, mens minstemann heter Heos 3. 
+Vi testet også Heos Amp og Heos Link. 
+
+Heos Amp er en dedikert stereoforsterker som selges ved siden av, og som er et praktisk alternativ for de som ikke har en egen forsterker allerede. 
+Heos Link er derimot en egen boks som lar deg bruke Heos-høyttalerne på ditt eksisterende anlegg. 
+
+Gamle lyd-mestere 
+
+Denon er jo kjent for å lage gode lydprodukter, og bak Heos står opprinnelig australsk-amerikaneren Brendon Stead, som laget trådløse musikkanlegg i ti år før Denon kjøpte selskapet hans. 
+
+Fra før av hadde Denon sikret seg høyttalerteknologien til legendariske Altec Lansing, selve gutteromsdrømmen for hifi-frikere på 1970-tallet. 
+
+Alt burde med andre ord ligge til rette for en god lydopplevelse. 
+
+Heos 7: 
+Her får du knallyd! 
+
+Og vi ble ikke skuffet. 
+Storebroren Heos 7 med hele fem forsterkere og fem høyttalerelementer er faktisk noe av det mest imponerende vi har hørt av slike trådløse høyttalere. 
+
+Bassen er fjellstø, og det er ikke spor av unoter selv ved partyvolum (vel, det går grenser...). 
+Stemmer kommer godt fram, og diskanten er fint avrundet slik at den ikke blir stikkende og ubehagelig. 
+
+En stund lurte vi faktisk på om vi hadde glemt å skru av våre velvoksne stuehøyttalere. 
+Men nei, den var Heos 7 som spilte. 
+Den ga faktisk litt simulert stereofølelse også, og fylte godt opp stua på 30 kvadratmeter med glassklar lyd. 
+Imponerende rett og slett. 
+
+Se flere bilder av Heos 7 her: 
+
+Om du setter den på golvet kan nok bassen bli i tyngste laget, så et bord eller en dyp hylle er å anbefale som underlag. 
+Du kan justere ned bassen via appen, men det beste er å få høyttaleren opp fra gulvet. 
+Helst med litt avstand til bakvegg og sidevegger. 
+
+Heos 5 og 3: 
+Mindre, men fortsatt bra 
+
+Heos 5, den nest største høyttaleren i serien, har naturlig nok ikke samme kraft. 
+Men så er den da også bygget for mindre rom. 
+
+Lyden har forbausende mange av 7-erns kvaliteter, men i nedskalert form. 
+
+Også her er bassen imponerende i forhold til størrelsen. 
+Men skal du bruke høyttalerne i stua, vil vi her anbefale gulvplassering for å gi bassen et løft. 
+
+Lillebror Heos 3 låter også bra, den beskjedne størrelsen til tross. 
+Igjen er det bassen som imponerer: 
+Dette har Denon virkelig fått til. 
+
+Høyttaleren, som både kan brukes stående og liggende, går greit på et hjemmekontor eller mindre soverom. 
+
+Men: 
+I større rom faller den litt igjennom, og vi vil ikke anbefale at du bygger opp Heos-anlegget rundt minstemann. 
+
+Forsterkeren Heos Amp 
+
+Forsterkermodulen Amp leverer 2 x 75 watt i «lure-motstanden» 6 ohm (slik motstand oppgis vanlig i 8 ohm). 
+
+Det er ikke all verden, men mer enn nok til å drive våre Klipsch RF7II-høyttalere som har en virkningsgsgrad på 101 desibel (målt med 1 Watt ut på 1 meters avstand). 
+
+Sammen med Heos-anlegget fikk vi låne et par CM1 S2 av HiFi-Klubben. 
+De fungerte også greit, selv om disse småtassene bare har en virkningsgrad på 84 db. 
+
+For moro skyld sammenlignet vi Amp med en 2 x 350 watts (8 ohm) high end-forsterker i 50.000-kronersklassen. 
+
+Det var selvsagt rått parti når det gjaldt detaljer, stereoperspektiv og basskontroll, men Amp sparker fortsatt godt fra seg. 
+For når vi sammenlignet med en hjemmekinoforsterker i mellomklassen, er den omtrent likeverdig. 
+
+Har du først høyttalere du trives med og som ikke er altfor tungdrevne, kan du derfor nøye deg med en Amp og et Spotify-abonnement. 
+
+Det er faktisk en løsning vi tror vil være aktuell for mange. 
+
+Heos Link: 
+For deg som vil bruke ditt eget anlegg 
+
+Link-enheten har ikke effekttrinn som Amp, og er en kombinert trådløs modul og forforsterker. 
+Enheten har både optisk og koaksial digitalutgang i tillegg til vanlige analoge RCA-utganger. 
+I likhet med de andre enhetene har den også USB-inngang. 
+
+Etter å ha hørt at lyden ut fra de analoge inngangene bare var grei, koblet vi Link digitalt til en ekstern DAC (digital til analog-omformer) av god, norsk kvalitet (Hegel HD 11). 
+
+Da kunne vi konstatere at Link ikke gjør noe fra eller til lydmessig så lenge du eliminerer de analoge kretsene. 
+
+Link kan dessuten fint brukes sammen med en bordradio eller en Bluetooth-høyttaler, forutsatt at disse har inngang for eksterne kilder (AUX/Line In). 
+Vi synes likevel den troner litt for mye ved siden av en standard bordradio, og skulle gjerne sett at Heos også leverte en mindre boks med en kombinert optisk og analog utgang. 
+
+Støtter ikke WiMP eller Apple Lossless 
+
+Heos støtter verken Bluetooth eller AirPlay, men kan spille musikken du har liggende på mobil og nettbrett som har Heos-appen installert. 
+
+Merk deg også at Spotify ikke er integrert i systemet, men kjøres via Spotify Connect. 
+
+Det betyr at du ikke kan foreta søk på tvers av strømmetjenester og egne filer. 
+Du kan heller ikke blande spillelister fra de ulike kildene. 
+
+Fordelen er at du får med deg oppdateringene i Spotify-appen, og at du for eksempel kan spille Spotify Radio. 
+
+I tillegg til Spotify, støtter Heos i dag Napster, TuneIn (nettradio), Pandora og Rhapsody. 
+
+Dessverre glimrer WiMP foreløpig med sitt fravær, men Heos oppgir at det kommer (også med støtte for WiMP HiFi). 
+I tillegg skal både rdio, Beats, SiriusXM, iHeartRadio og Qubuz (fransk lossless) være på vei. 
+
+Filformatene som støttes er MP3, WAV, AAC, WMA og FLAC. 
+Apple Lossless (ALAC) støttes dessverre ikke direkte, men du kan bruke en DNLA(Digital Living Network Alliance)-klient (for eksempel JRiver) for å spille av slike filer fra PC/Mac eller nettverksdisk (NAS). 
+
+Vær også oppmerksom på at Heos ikke støtter standarden UPnP (Universal Plug and Play) direkte, så NAS-en må settes opp for DNLA i tillegg. 
+Det er nok en terskel for de som vil ha det enklest mulig. 
+
+Flere multiromsystemer og streamere (blant dem Bluesound) markedsfører seg med støtte for 24 bits HD-musikkfiler. 
+
+Med Heos er du begrenset til CD-kvalitet, som trolig er godt nok for de fleste vanlige brukere. 
+
+Hovedproblemet: 
+Uferdig app 
+
+Appen er laget for å kunne fungere både på mobil og nettbrett, men kan dessverre bare brukes vertikalt. 
+Det betyr at du med nettbrett alltid må ha kortsiden opp, noe som er litt irriterende om du ellers bruker brettet horisontalt. 
+
+Her ser du hvordan HEOS-appen fungerer: 
+
+Vi liker heller ikke at vi må trykke mange ganger på en tilbake-pil når vi har søkt på musikk fra en lokal kilde. 
+Det hadde vært enklere og mer oversiktlig å ha alle funksjoner tilgjengelig på samme skjerm. 
+
+På den annen side er det lekende lett å redigere spillelister. 
+Søk på lokale enheter og nettverksdisker fungerer også helt fint, om enn litt tregere enn vi skulle ønsket. 
+
+Å spleise rom er også enkelt, selv om det tok litt tid før vi skjønte at rommene må «heises» på plass, de kan ikke bare dras og slippes. 
+
+Det er svært enkelt å legge samtlige rom i huset i én og samme gruppe (party-modus), samt å dele en gruppe opp i enkeltrom igjen. 
+Dette skjer med henholdsvis en knipebevegelse og en utvidelse med tommel og pekefinger, akkurat som når man zoomer på en nettside. 
+
+Litt irriterende er det derimot at menyen som regulerer lyden i hvert enkelt rom bare er oppe et øyeblikk før den forsvinner. 
+Du rekker rett og slett ikke å regulere nivået i hvert enkelt rom før volumkontrollene forsvinner og du må ta dem opp på nytt. 
+
+Smart gruppe-system 
+
+Heos tillater inntil 32 høyttalere. 
+Du kan ha inntil 16 grupper med maks 8 høyttalere i hver. 
+
+For å kunne bruke systemet må du opprette en unik Heos-konto med brukernavn og passord. 
+Dette vil gi deg tilgang til strømmetjenestene (forutsatt at du har logget deg inn der også). 
+
+For store husholdninger er det en god nyhet at flere kontoer kan brukes samtidig på samme system. 
+Det betyr at for eksempel husets tenåring kan spille musikk fra sin egen Spotify-konto, i stedet for å bruke for eksempel sin mors konto. 
+
+Og har du andre folk på besøk, kan de opprette sin egen konto, slik at de kan spille musikk fra egne Spotify-spillelister eller andre kilder uten å forstyrre ditt system. 
+På dette punktet har Samsungs alternativ en fordel, siden gjestene kan koble seg til enkelthøyttalerne via Bluetooth. 
+
+En konto som allerede er i bruk i en gruppe, vil heller ikke kunne brukes av en annen konto. 
+Det betyr at høyttaler/rom må frigis eller personen som bruker gruppa må logge seg ut før en annen kontoinnehaver kan bruke de samme høyttalerne. 
+
+Du kan gruppere rommene/høyttalerne/sonene akkurat som du vil, men rommet du begynte i kan ikke fjernes fra gruppa. 
+Du må med andre ord slå av lyden for dette rommet dersom du ikke lenger ønsker musikk der. 
+
+Bruker vanlig nett 
+
+Flere av konkurrentene (blant andre Sonos og Samsung) bruker en teknologi kalt MeSH for å unngå uønskede avbrudd i musikken. 
+
+HEOS bruker derimot det vanlige, trådløse nettet du har i huset (både 2,4Ghz og 5Ghz - husk å sette opp 5Ghz først for å bruke begge). 
+Dermed risikerer du at ungenes YouTube-maratonløp konkurrerer med musikkanlegget. 
+
+Vi opplevde da også at musikken avbrutt i perioder, for så å vende tilbake noen sekunder senere. 
+Dette skjedde utelukkende når to eller flere rom spilte samtidig. 
+
+Denon anbefaler å stille kvaliteten på overføringen mellom enhetene ned fra høy til normal dersom man opplever slike problemer. 
+Vi prøvde dette, og opplevde klart færre avbrudd. 
+Men helt borte ble de ikke. 
+
+Merk deg at Normal/høy-innstillingene her ikke vil påvirke lydkvaliteten i hovedrommet (altså i i det rommet du startet avspillingen), det er altså kun i det sekundære rommet at lydkvaliteten blir noe redusert slik at lydsignalet skal komme fram. 
+
+Signalforsterkeren Heos Extend til 798 kroner kunne muligens ha løst problemet, men den hadde vi dessverre ikke for hånden. 
+
+Elefanten i rommet 
+
+Selv om Sonos mener at Heos-konseptet er så likt at de har gått til søksmål, ser vi ikke på de enkelte produktene som direkte sammenlignbare. 
+
+Lydmessig er det likevel ingen tvil om at Heos har et fortrinn så lenge vi snakker om høyttalere og ikke eksternt utstyr: 
+
+Heos 7 kan for eksempel ikke sammenlignes med Play :5 eller annet Sonos-utstyr. 
+Den spiller rett og slett i en helt annen divisjon. 
+
+Heos 5 kan derimot sammenlignes med Play :5, men også her ville vi foretrukket Heos om lyden var avgjørende. 
+Det samme gjelder minstemann Heos 3, som lyder bedre enn Sonos Play :1. 
+
+Prismessig ligger Heos tett opp til Sonos, selv om vi altså mener at lyden er bedre. 
+
+Billig er det uansett ikke. 
+Heos-anlegget vi har testet her vil for eksempel koste deg rundt 18.000 kroner totalt, mens den tilsvarende (dog ikke 100 prosent sammenlignbare) utstyrsparken fra Sonos ender på rundt 15.000 kroner. 
+
+Her er en sammenligning enhet for enhet: 
+
+Og vinneren er... 
+
+Programvaren og appen til markedslederen Sonos har blitt foredlet gradvis siden 2002. 
+Det samme vil etter alt å dømme skje med Heos, men per dags dato ligger de likevel et godt stykke etter. 
+
+At WiMP ikke er med, gir også Heos en dårlig start på det norske markedet. 
+Apple- og iTunes-brukere har også grunn til å murre over at det eneste tapsløse musikkformatet som kan brukes med iOS-enheter ikke støttes uten å gå en omvei. 
+
+Det er heller ikke tillitvekkende at signalet kan virke ustabilt. 
+Vi har mistanke om at Denon/Heos hadde unngått dette dersom de hadde brukt Mesh-løsningen, slik som konkurrentene. 
+
+Heos er altså en klar vinner når det gjelder lyden fra egne høyttalere, mens Sonos vinner på alt det andre. 

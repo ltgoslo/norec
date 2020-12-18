@@ -1,0 +1,57 @@
+D-Link DIR-845L
+En ny utgave av ruteren som peiler ut hvor signalet trengs. 
+
+Rutere kommer i mange fasonger og utførelser. 
+Noen skal ligge, andre skal stå, noen har eksterne antenner mens andre har skjulte antenner. 
+Og noen få er nesten runde og skal stå på høykant, som DIR-845L fra D-Link. 
+
+Vår erfaring er at ytelsen til ruteren ikke har noen sammenheng med designet. 
+Det som betyr noe er først og fremst plasseringen. 
+Bølgelengden i de frekvensbåndene som brukes til trådløst nett er såpass kort at det er god plass til utmerkede antenner inne i en liten plastboks. 
+
+Trådløst utstyr sender vanligvis signalet i alle retninger, av flere gode grunner. 
+Først og fremst fordi det gir fleksibilitet, man slipper å sikte inn sender og mottagerutstyr mot hverandre. 
+Det hadde vært mildest talt upraktisk med retningsbestemte antenner når ruteren står på et fast sted og mange brukere både er i bevegelse og flytter seg mellom tilfeldige plasser i hjem eller andre miljøer. 
+
+Men det finnes måter å styre den totale sendeeffekten på, slik at den i praksis blir mer retningsbestemt. 
+Bruker man flere antenner og prioriterer effekten til de antennene som arbeider i den retningen som svarer på signalene, så kan man få bedre dekning der den faktisk trengs. 
+Prinsippet er i bunn og grunn det samme som når vi selv snur oss mot en person som snakker til oss. 
+Da både hører vi selv bedre og blir oppfattet bedre. 
+
+Denne løsningen har D-Link kalt SmartBeam og er også brukt i ruteren DIR-645, som vi har testet tidligere. 
+
+En tilsvarende teknikk brukes også i den nye 802.11ac-standarden og kalles beamforming. 
+Det er en anerkjent teknikk som har blitt brukt i mange sammenhenger tidligere. 
+
+DIR-845L bruker også denne teknikken, og forskjellen mellom DIR-645 er at DIR-845L støtter 5GHz i tillegg til 2,4 GHz. 
+
+Felles for begge er 300 Mbps oppgitt maks overførinshastighet. 
+
+Installasjon 
+
+Ruteren er svært enkel å sette opp, den er allerede ferdig satt opp med SSID og passord på en lapp festet på toppen av ruteren. 
+
+Man kobler den til, slår den på og etter kort tid kan man logge seg på det trådløse eller kommer på nett hvis man har koblet seg til med nettverkskabel. 
+
+Man kommer rett inn i hovedoppsettet, som er D-Links velkjente grensesnitt, hvor man kan gjøre endringer eller bare godta standardinnstillingene. 
+Har man dynamisk IP fra nettleverandøren trenger man ikke gjøre noe mer. 
+Har man ADSL med PPPoE må man velge dette og logge seg på med passordet. 
+
+Utover dette er det strengt tatt ikke nødvendig med ytterligere manøvrer, hvis man ikke har spesielle ønsker om prioritering av tjenester, tilgang utenfra eller restriksjoner av ymse slag. 
+
+Ytelse 
+
+Sammenlignet med forgjengeren ser vi at rekkevidden på 2,4 GHz har blitt påtagelig bedre i den nye modellen. 
+DIR-645 hadde et stort fall i ytelse nede i kjelleren, men med DIR-845L er det nesten ingen forskjell! 
+
+Ytelsen på 5 GHz er som forventet en god del over 2,4GHz i stua, men i kjelleren var det ikke tilstrekkelig signal til å kunne gjøre målinger. 
+
+Sammenligner vi med vår testvinner fra Asus må D-Link bite i gresset på alle målinger: 
+
+Konklusjon 
+
+Vi ble egentlig litt forbauset over at ikke rekkevidden var bedre på 5 GHz, med tanke på de egenskapene D-Link skilter med på denne ruteren. 
+
+Men på 2,4 GHz i kjelleren var ytelsen blant de aller beste vi har målt. 
+
+D-Link DIR-845L 

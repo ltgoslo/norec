@@ -1,0 +1,97 @@
+Toshiba Satellite Pro A120 - 128
+Verken utseende, spesifikasjoner eller ytelse utmerker seg spesielt ved denne no-nonsens bærbare PCen. 
+Men det betyr slett ikke at den er dårlig. 
+
+Etter å ha sett på både en ganske liten og en ganske stor Toshiba har vi kommet til en i mer anstendig størrelse. 
+Satellite Pro A120 kommer i en rekke konfigurasjoner fra omtrent 6000 kroner, men vi har vært helt på toppen og sett på hva vi kan få for om lag elleve tusenlapper. 
+
+LES OGSÅ: 
+
+Til å være en 15,4 tommer på nesten tre kilo føles den slank og fin når den plukkes opp. 
+Designet er tja... nesten minimalistisk, dersom vi ser på trenden med ekstra medieknapper, lys, lyd og skinnende overflater. 
+Dette, sammen med mangelen på et skjermkort som vil klare et og annet skytespill, gjør at A120 er mer rettet mot brukere med dragning mot forretninger enn mot de som foretrekker lek og moro. 
+
+Ingen store overraskelesmomenter i designet, og bortsett fra tastaturet er det kun en knapp: av/på. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2400 @ 1,83 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (2 x 512 MB) 100 GB harddisk (5400 rpm) 
+DVD dual-layer DVD-RAM/CD/DVD-brenner Intel GMA 950 grafikk (opp til 128 MB delt minne) 54 Mbps WLAN (a/b/g) GB LAN + modem 3x USB, lyd inn/ut 1 CardBus kortplass Kortleser for SD VGA ut Sensor for rystelser (harddiskbeskyttelse) Utvidet sikkerhet Windows XP Professional Dimensjoner (B/D/H): 36,8 x 26,8 x 4,0 cm Vekt 2,85 kilo Pris: ca. 11.000 inkl. mva. 
+
+Det er lett å lage inntrykk på panelet ved å trykke bak på lokket, men selv om det er kanskje litt i tynneste laget virker det solid satt fast og i takt med kvaliteten på resten av maskinen. 
+
+Konstruksjon 
+
+Som den lille U200 er A120 bygd for å tåle litt. 
+Vannbestandig tastatur, sensorer som parkerer harddiskhodene ved plutselige bevegelser og forsterket karosseri gjør at Toshiba har en maskin som det skal litt til for å ødelegge. 
+Ikke det at vi faktisk har prøvd... 
+
+Touchpaden er i "normalt" format, men følsom og fin i bruk. 
+Den har (usynlig) skrollfelt både vertikalt og horisontalt. 
+Tastaturet er kontant og tydelig å skive på, men støymessig er det ikke av de mest stille... tatt i betraktning av at det er et tastatur for bærbare, selvsagt. 
+Det er fremdeles mindre støyende enn vanlige tastaturer. 
+
+PCens tilkoblinger er relativt få, her er det ikke noe mer enn det aller nødvendigste som har fått være med. 
+Men de vi altså har er plassert i front, bak og på venstre side. 
+Høyresiden har kun plass til kensingtonlås og det optiske drevet. 
+
+Vi er ikke akkurat bortskjemte med godt plasserte tilkoblinger i fronten men dette må være et av de bedre eksemplene vi har sett. 
+Relativt diskret (faktisk litt vanskelig å se) har vi lyd inn og ut, en knapp for høyere/lavere lyd og en bryter som slår det trådløse nettverkskortet av og på. 
+Statuslys er plassert over. 
+
+På venstre side finner vi bare CardBus-sloten og SD-kortleseren. 
+Varmluften kommer også ut her. 
+
+Baksiden har plass til mer, men det som er tatt med er modem, VGA ut, strøminntak, de tre USB-portene og LAN. 
+
+God generell ytelse 
+
+Vi har ved et par tilfeller allerede referert til den mindre Satellite Pro U200 som vi testet i sommer. 
+Et kort overblikk vil fortelle deg at disse to maskinene så å si har like spesifikasjoner når det gjelder minne, prosessor og grafikk, så det er heller ikke så overraskende at ytelsen også er like god. 
+Eller - til spill - like dårlig. 
+Men det er som nevnt heller ikke hva disse bærbare PCene er ment til å være gode på. 
+
+Dersom du ønsker et sammenligningsgrunnlag kan du altså se på den nevnte testen, som fremdeles er aktuell. 
+
+Stjel meg ei 
+
+En ting (som faktisk er mer enn en ting) A120 kommer med er den såkalte "Toshiba Anti-theft Protection. 
+Det den gjør er ganske enkelt å forsøke hindre, eller i det minste avskrekke, tyveri av data. 
+
+Det gjør den ved å blande flere teknikker for sikrere datamaskiner. 
+Passord er selvfølgelig ikke noe nytt, men i tillegg til passord for å logge inn i Windows og boote opp maskinen kan du også kreve passord for å lese fra harddisken. 
+Sistnevnte passord følger faktisk også harddisken, så selv om denne settes i en ny maskin vil den kreve et passord. 
+Du kan også for eksempel bestemme at passordet må skrives inn etter at lokket har vært stengt, eller etter en predefinert tidsperiode. 
+
+Det er også bygd inn TPM (Trusted Platform Module) i Toshibaen. 
+Dette er en mikrochip som er unik for hver PC, og brukes med verifikasjon av maskinvare og kryptering av data. 
+TPM vil nok bli mer og mer vanlig fremover, ikke minst siden Windows Vista kommer til å bruke denne teknologien for filkryptering. 
+
+I tillegg er det mulig å bruke et SD-minnekort som en fysisk "nøkkel" i stedet for passord, dersom det er mer din stil. 
+
+Batterilevetid og støy 
+
+Under vår vanlige testrunde med Batterymark endte vi opp på jevne tre timers levetid. 
+Merk at vi da måler på vår egen måte, som er med nettverkskort slått av og skjerm på halv lysstyrke. 
+Mange bærbare har flere triks for å spare på strømmen avhengig av bruksmønster, men slik får vi i det minste en relativt rettferdig sammenligning. 
+
+Tre timer er et godt resultat, og bedre enn noen av de vi hadde i vår høst-test. 
+Men fremdeles er det Dell Inspiron 6400 som er kongen på haugen i denne klassen. 
+
+Denne bærbare er også stille og rolig, men vifta går mer eller mindre kontinuerlig. 
+Til sitt forsvar spinner den sakte ved lett bruk og lyden av den forsvinner fort hvis du har et snev av bakgrunnsstøy. 
+Maskinen holder seg også kjølig nok til at du faktisk kan ha den på fanget uten å svi av familiejuvelene av den grunn. 
+
+Konklusjon 
+
+Toshiba Satellite Pro A120 - 128 som den nevnte U200 en bærbar maskin med kanskje ikke så altfor bred appell. 
+Den sikter seg inn mot brukere som setter kvalitet, sikkerhet og funksjonelt design foran fet grafikk. 
+Så dersom vi ser utenom mangelen på mulighet for sjekke ut de siste spillene står vi igjen med en meget jevngod maskin. 
+
+Faktisk er Toshiba såpass sikre på kvaliteten at de for tiden kjører en kampanje der de lover både maskinen reparert og pengene tilbake dersom den ryker første garantiår! 
+
+Av ting å plukke på har vi litt for få tilkoblingsmuligheter, og vi skulle også gjerne ha byttet ut tastaturet med et som støyet litt mindre. 
+Men alt i alt er det ikke nok til å skremme vekk potensielle kjøpere. 
+Føler du at dette kan være en maskin som vil fylle dine behov vil vi så absolutt råde deg til å se nærmere på den. 
+
+Karaktereren blir en meget sterk firer. 

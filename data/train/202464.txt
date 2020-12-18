@@ -1,0 +1,75 @@
+TEST:Eye-Fi Mobi 
+
+Minnekort med WiFi gjør et gammelt kamera nymoderne. 
+
+På mange nye kameraer er det nå blitt mer og mer vanlig med støtte for trådløst nettverk. 
+Det gjør at du for eksempel har muligheten til å sende bildene over til telefonen din for deretter å dele dem på Facebook, slik at du slipper å vente til du kommer hjem til PC-en for å vise skrytebildene fra hotellbassenget. 
+
+Allerede i 2011 etterlyste jeg slik funksjonalitet i kameraene, der de kom på løpende bånd med flere megapiksler, sminkefunksjoner og annet, mens folket var mer enn villige til å ofre bildekvaliteten i et godt kamera for lettvintheten til et mobilkamera, samt muligheten til å dele bilder med andre der og da. 
+
+Eye-Fi mobi er et høst uvanlig minnekort. 
+Konseptet er at du putter det inn i kameraet på vanlig måte, men der minnekortet har mulighet til å opprette et trådløst nettverk rundt seg som du kan koble deg til med mobiltelefonen og dermed overføre bildene. 
+
+Kameraet og telefonen trenger ikke å være koblet til et trådløst nettverk, så dette kan du godt gjøre på telttur midt i skauen. 
+
+Medfølgende app 
+
+Alt som kreves er at du laster ned Eye-Fi-appen fra App Store eller Google Play; avhengig av om du har en iOS- eller Android-enhet. 
+På esken til minnekortet finner du en aktiveringskode du angir, som da er knyttet til minnekortet du har kjøpt slik at resten av oppsettet går automatisk. 
+
+På kameraet må du imidlertid aktivere Eye-Fi-funksjonen. 
+Siden minnekortet oppretter et trådløst nettverk vil dette selsvagt trekke sitt av batteriet, og kortet er smart nok til å slå av funksjonen igjen ved inaktivitet. 
+
+Men dette støttes vel ikke av alle kameraer? 
+
+Kanskje ikke alle, men flere enn du muligens tror. 
+Du kan selv sjekke om kameraet ditt støttes på denne siden. 
+Da vi testet første gang tok vi frem et Canon EOS 550D – et kamera vi testet for fire år siden, og det fungerte i hvert fall smertefritt. 
+Eye-fi-minnekortene har vært i markedet en god stund, selv om Mobi-utgavene (med støtte for å opprette trådløse nett) ble lansert i fjor. 
+
+Slik virker det 
+
+Vi testet først med en Android-telefon og lastet derfor ned appen fra Google Play-butikken. 
+Etter å ha angitt aktiveringskoden på baksiden av kortet var vi klare til dyst. 
+
+Når minnekortet er puttet inn i et kompatibelt kamera, dukker det opp et menyvalg kalt Eye-fi innstillinger. 
+Derfra kan du aktivere den trådløse funksjonaliteten. 
+Så er det bare å åpne appen. 
+
+Etter noen få strakser begynner kameraet å overføre bilder til mobiltelefonen. 
+Dette tar bare 2-3 sekunder pr bilde (typisk én megabyte i sekundet), før de deretter er lagret på telefonen. 
+Enkelte ganger opplevde vi imidlertid at det tok et halvt minutt før overføringen begynte. 
+
+Ikke så elegant 
+
+Det er imidlertid et par ting som ikke er så elegant: 
+
+Alle bilder på minnekortet overføres – du kan altså ikke utforske minnekortet fra telefonen og plukke ut de bildene du vil ha. 
+Bilder overføres også kun én gang, så hvis du har flere enheter tilkoblet det samme Eye-fi-kortet, får du kun lagret bildet på én av dem.Appen kunne også vært bedre. 
+På den nederste linja vises et miniatyrbilde når det er overført, men det kan man ikke trykke på. 
+På Android-appen fant vi ut at de dukket opp i den øverste oversikten først når vi holdt fingeren nede på et bilde (for å velge det) og deretter trykket på tilbakeknappen. 
+
+geotagge 
+
+Bedre iOS-app, men … 
+
+På iOS finnes en egen app for Eyefi Mobi-kortet (den på Android er kun for Eyefi-kort generelt). 
+Den er mer elegant og lar deg blant annet se bildene i et pent albumformat og tagge bildene med stikkord. 
+
+Appen er imidlertid kun tilgjengelig i den amerikanske versjonen av App Store og krever derfor en amerikansk konto om du vil bruke den. 
+Det skal også sies at bildeoverføring er litt mer tungvint på iPhone – mens Android bruker en WiFi Direct-forbindelse som bare opprettes automatisk, må du manuelt koble deg til Eye-Fi nettverket via innstillinger på iOS-enheter. 
+
+Til opplysning finnes ingen app til Windows Phone. 
+
+Konklusjon 
+
+Eye-Fi Mobi minnekortene er selvsagt dyrere enn vanlige minnekort, med en prislapp på 5-600 kroner i nettbutikkene for et 16GB-kort. 
+Til sammenligning koster et 16GB-minnekort fra Sandisk under 100 kroner i enkelte nettbutikker. 
+
+Og joda, det funker jo. 
+Bildene du har tatt på kameraet overføres til telefonen. 
+
+Løsningen er imidlertid langt fra elegant, særlig med tanke på at alle bilder overføres uten at du selv får velge hvilke. 
+At iOS-appen ikke er tilgjengelig i Norge og Android-appen virker ganske upolert er ikke akkurat med på å trekke opp helhetsinntrykket. 
+
+Eye-Fi Mobi SDHC Class 10 8GB 

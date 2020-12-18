@@ -1,0 +1,113 @@
+Lenovo ThinkPad X60
+Den tradisjonsrike ThinkPad-familien har i sin X-serie en av de minste, letteste og mest solide bærbare på markedet. 
+Vi har testet råtassen X60. 
+
+ThinkPad-serien fra Lenovo (merket som IBM ThinkPad, selv om IBM strengt tatt ikke lenger har noe med disse PCene å gjøre) har hovedvekt på funksjonalitet og sikkerhet. 
+
+LES OGSÅ: 
+
+Mange har skrevet til oss og lurt på tester av en ThinkPad-PC, og selv om målgruppen hovedsaklig er forretningsfolk vil nok også mange privatpersoner finne ThinkPad X60 interessant. 
+
+Med etterfølgeren X61 lurende i buskene 
+- Lenovo kommer til å lansere denne om kort tid - har vi tatt en kikk på en kraftig utgave av X60. 
+
+ThinkPad X60 kan du få i forskjellige versjoner etter hvor kraftig bærbar du er ute etter. 
+Trenger du så lang batterilevetid som mulig er det også en "slim" utgave å få tak i med X60s, som har noe lavere vekt, samt en LV-prosessor (low-voltage) med mindre strømforbruk og tilsvarende lav ytelse. 
+
+Her i full prakt. 
+Merk den utvendige antennen på høyre side av lokket. 
+
+Fulle spesifikasjoner: 
+
+Intel Core 2 Duo T7200 @ 2,0 GHz 12,1" skjerm (1024 x 768 piksler) 1 GB DDR2-minne (512 + 512 MB) 100 GB harddisk (5400 rpm) 
+Intel GMA 950 grafikk (opp til 224 MB delt minne) 54 Mbps WLAN (a/b/g) Gigabit LAN + modem 3 x USB, blåtann, infrarød 1 CardBus kortplass Kortleser VGA ut, lyd inn/ut Dimensjoner (B/D/H): 
+26,8 x 21,3 x 3,9 cm Vekt 1,45 kilo Pris: ca. 20.000 inkl. mva. 
+
+Skjermen er - noe uvanlig i våre tider - i 4:3, da det fremdeles er en gruppe som sverger til dette formatet. 
+Her er det heller ikke noe blankt kontrastbelegg som kan gi deg problemer hvis du sitter med mye lys i ryggen, og innsynsvinkelen er hverken bedre eller dårligere enn den vi vanligvis finner på bærbare PCer. 
+Den 12,1 tommers skjermen har en oppløsning på 1024 x 768 punkter. 
+
+Konstruksjon 
+
+Dersom du har vært borti en av IBM/Lenovos ThinkPads før, vil du ikke ha noe problem med å gjennkjenne X60 som en i samme familie. 
+Her er det ingen fargede pyntelister eller annet dilldall, og hele maskinen er kledd i en matt, sort farge. 
+
+Med en matchvekt på litt under halvannen kilo er det meningen at ThinkPad X60 skal kunne dras med seg over alt - og det er den i høyeste grad også konstruert for. 
+Designen er funksjonell, men også stilrent, noe som gjør at den tar seg godt ut i de aller fleste miljøer. 
+Byggekvaliteten er også meget god, her får vi straks følelsen av at maskinen tåler litt mer hardhent behandling enn mange i samme vektklasse. 
+
+Av/på-knapp og snarveier lyd er plassert over tastaturet. 
+I tillegg er det en knapp merket "ThinkVantage" som åpner et "Produktivitessenter" - i praksis en slags meny som hjelper deg med slikt som vedlikehold og konfigurering av datamaskinen. 
+
+Når det gjelder touchpaden så glimrer denne med sitt fravær, her er du pent nødt til å bruke den røde styrepinnen som er plassert midt på tastaturet. 
+Hvorvidt en slik er et bedre eller dårligere alternativ enn touchpaden er i stor grad en smaks- og vanesak. 
+
+Knappene under tastaturet fungerer (selvfølglig) som en høyre og venstre museknapp, mens knappen i midten fungerer som "skrollefelt" når den trykkes ned, slik at du med styrepinnen kan skrolle både vertikalt og horisontalt. 
+
+Tastataturet er behagelig å skrive på, og selv om vi ikke skal påstå at det bråker - i det minste så lenge du ikke hamrer løs på det - er det ikke av de aller roligste heller. 
+Layouten er vi også stort sett fornøyd med, men vi har da også vår vante kjepphest: 
+Fn- og Ctrl burde ha byttet plass! 
+
+Tilkoblingsmuligheter 
+
+PCens kontakter er plassert på sidene, mens vi i fronten finner høyttaleren og en bryter som lar deg skru av og på blåtann og/eller trådløst nett. 
+På undersiden av PCen finner vi også en kontakt for dokking. 
+
+På venstre side finner vi en USB, VGA ut, GB LAN, CardBus-slot og minnekortleser (SD). 
+Varmluft blåses også ut her. 
+
+Høyre side har infrarød sender/mottaker, to USB-kontakter, lyd inn/ut, modem, inntak for strøm og plass til kensington-lås. 
+
+I tillegg har den en liten smart løsning som vi ikke har sett på andre PCer, nemlig "leselys". 
+Det er ganske enkelt en liten LED plassert over skjermen som lyser ned på tastaturet. 
+Dette gjør at du kan se tastene selv i stummmende mørke, noe som er kjekt om du av en eller annen grunn må jobbe helt uten lys. 
+
+Ytelse og batterilevetid 
+
+Lenovos ThinkPad X60 føyer seg ikke rett inn i rekken av de letteste ultraportable vi har sett på. 
+De vi har hatt inne med en vekt under 1,5 kilo har hatt ULV-prosessorer (ultra low-voltage). 
+Vår X60 kom med en solid Intel Core 2 Duo, noe som gir denne PCen mer enn nok av prosesseringskraft for de oppgaver som vil ligge i dens hovedbruksområde. 
+På grafikksiden er det internt med GMA950 fra Intel, ikke noe for spillere altså. 
+
+Siden den er litt atypisk for sin vektklasse har vi likevel noen aktuelle konkurrenter. 
+For eksempel 3G-modellen Fujitsu Siemens Lifebook P7230, som kun veier en halv hekto mindre. 
+Også den lille LG A1 Express Dual fortjente å være med her. 
+Men da disse to har ULV-prosessorer tar vi også med Acer Ferrari 1000 siden den har en kraftigere prosessor enn de to andre. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+X60 kommer ut som best i alle disipliner bortsett fra grafikken, og på prosessorsiden dominerer den fullstendig. 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+Det tar selvfølgelig på å være tøff og ha lav vekt, og det betyr at batteritiden ikke alltid blir tipp topp. 
+Likevel, tre timer og tre kvarter i vår test er ikke noe å le av - faktisk er det ganske så bra ytelsen tatt i betraktning. 
+Den holder altså på langt nær ikke så lenge som for eksempel Lifebook P7230, men så gjør den det også mer enn dobbelt så bra i mange av ytelsestestene. 
+
+Når det gjelder støy og varme så er vi stort sett fornøyd med X60. 
+I områder med litt bakgrunnstøy gjør den ikke noe av seg, kun i rolige omgivelser merker vi det svake suset fra harddisken. 
+Vifta spinner også opp litt en gang i blant, og bråker da ikke spesielt mye, men har en litt "ulende" lydsignatur. 
+Heldigvis blir den ikke spesielt varm, slik at vi uten å svi familiejuvelene bokstavelig talt kan bruke den som en laptop - altså ha den på fanget. 
+
+Vurdering og konklusjon 
+
+Lenovo ThinkPad X60 er en gjennomført og solid bærbar lettvekter med sikkerhet, størrelse, vekt og prosessorkraft som gode argumenter. 
+Den virker kanskje litt gammeldags (mange vil si "klassisk") med en tvers gjennom funksjonell design og sin matte 4:3-skjerm, men det er ikke noe å si på ytelsen sammelignet med andre ultraportable fra samme generasjon. 
+
+I tillegg har vi altså dette med sikkerhet - det er ikke noe vi skal gå i dyben på her, men denne bærbare har altså blant annet fingeravtrykksleser slik at du slipper å huske passord, bevegelsessensor som ved rystelser parkerer lesehodet på harddisken - som også har sin egen krypterte del. 
+I tillegg er den altså som nevnt solid skrudd sammen og skal tåle en trøkk. 
+
+Men før springer til nærmeste butikk er det noen få ekstra parametre du må legge inn i beregningen. 
+For det første har ikke X60 noe optisk drev. 
+Er du avhengig av dette betyr det at du bør se etter en annen modell eller være forberedt på å gå til anskaffelse av en ekstern sak. 
+Det andre er prisen - tåler du litt dårligere kvalitet og/eller høyere vekt kan det være en del tusenlapper å spare. 
+Her må du ta i betraktning hva du trenger og hvordan du vanligvis behandler din bærbare. 
+
+Det aller siste punktet er det at den i skivende stund mer eller mindre er en utgående modell. 
+Etterfølgeren ThinkPad X61 skal som nevnt i innledningen lanseres allerede 31. mai - og er da bygd på den nye Centrino-plattformen Santa Rosa. 
+(Som vi så av vår test av Acer TravelMate 6292 kan det bety en klar forbedring.) 
+
+Det kan derfor kanskje være et sjakktrekk å vente noen uker for å se hvor god X61 er i forhold - eller om X60 går litt ned i pris når den tiden kommer. 
+Men uansett er X60 en maskin det er vanskelig å ikke like, og den ender også opp med en svak femmer på vår terning. 

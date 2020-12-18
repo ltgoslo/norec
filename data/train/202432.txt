@@ -1,0 +1,110 @@
+Sony Smartband SWR10
+Kjekt armbånd, kjekk app og kjekk pris. 
+
+Markedet for kroppsnær teknologi har skutt fart den siste tiden; særlig med inntoget av smartklokker fra flere av de største mobilprodusentene. 
+
+Treningsarmbånd har derimot vært på markedet en stund, og blant de mest kjente finner vi blant annet Jawbone Up, Fitbit Flex og Nike Fuelband. 
+Faktisk skrev Dinside om den første Fitbit-enheten allerede i 2008. 
+
+Det er dette segmentet Sony nå prøver å kapre andeler av med sitt nye armbånd, Sony Smartband. 
+I motsetning til Samsung-klokkene, som kun fungerer med Samsung-telefoner, kan du imidlertid bruke Smartband med alle Android-telefoner, så lenge de kjører siste utgave av Android (v4.4) og har støtte for Bluetooth LE (low energy). 
+
+Enkelt oppsett med NFC 
+
+Med i pakken får du to armbånd med ulik lengde, samt selve kjernen, som du setter inn i det armbåndet som passer deg best. 
+En knapp med to tapper trykkes inn i ønskede hull, og så er du klar til dyst. 
+
+Med mine langt under middels tykke håndledd valgte jeg det minste armbåndet (minus fem machopoeng), og i testperioden har det sittet godt på armen og fungert problemfritt. 
+
+Paring skjer enkelt via NFC, noe vi nesten kan påstå at alle telefoner som oppfyller kravene nevnt over også har støtte for. 
+Alt du gjør er å holde armbåndet inntil telefonens bakside, og så pares enhetene via Bluetooth (NFC må være aktivert på telefonen). 
+
+Da vises et skjermbilde med lenker til to apper du kan laste ned – en Smartband-app, som du bruker for å redigere innstillingene for armbåndet, og en Lifelog-app, som vi skal komme tilbake til senere. 
+En liten ulempe er at begge disse appene opptar hvert sitt permanente varsel på varslingsmenyen når du bruker armbåndet, og at ingen av dem har en valgmulighet for å skjule den. 
+
+Kan vekke deg når du sover lettest 
+
+Via den tilhørende Smartband-appen kan du styre hvordan enheten skal fungere. 
+Utangspunktet er en dag- og en nattmodus der førstnevnte teller skritt, vibrerer for å varsle deg og så videre, mens nattmodusen logger søvnmønster og kan vekke deg på det tidspunktet du sover lettest, innenfor perioden du har definert. 
+
+Eksempelvis kan du angi at du vil bli vekket mellom halv sju og sju, for så å bli vekket 06:41 fordi det da vil være lettest å våkne. 
+Vekkingen skjer ved at båndet vibrerer, og du stopper «alarmen» ved å trykke på knappen på Smartband-båndet. 
+
+Selv om det er mulig å definere hvilke dager du vil bli vekket på, skulle vi gjerne ha hatt en mulighet til å sette flere alarmer, f.eks. med et annet tidspunkt i helgene. 
+Vi savner også en slumrefunksjon. 
+
+Du bytter mellom dag- og nattmodus ved å holde knappen på armbåndet inne til det vibrerer, men via Smartband-appen kan du også definere når på døgnet telefonen automatisk skal settes i nattmodus. 
+Der kan du også se gjenstående batteritid – Smartband har cirka fem døgns varighet på én ladning, og den tar bare 30 minutter via USB, så her er scorer Sony svært godt på brukstid/lading-regnestykket. 
+
+Og – kjernen har en helt normal micro USB-inngang, slik at den lades direkte; uten å måtte sette den i en medfølgende dokk (20 centimeter kabel følger med). 
+
+I Smartband-appen kan du også definere hvilke appers varsler du vil ha gjengitt som vibrering rundt håndleddet. 
+Her får du opp en liste over alle appene som er installert på telefonen, og så er det bare å krysse av ved siden av de du vil ha varsler fra (dette skjer kun når enheten er i dagmodus). 
+
+Akkurat dette synes vi faktisk er en svært kjekk funksjon, siden det ikke er alltid man merker at telefonen vibrerer i lomma. 
+
+Om du vil, kan Smartband også vibrere når den mister kontakt med telefonen din – kjekt om du har en tendens til å legge den fra deg her og der. 
+
+Må ikke være tilkoblet hele tiden 
+
+Armbåndet er uansett smart nok til å logge aktivitet om den ikke er i nærheten av telefonen, som automatisk synkroniseres når de to har kontakt igjen. 
+I testperioden har vi fra tid til annen opplevd at båndet har mistet kontakt med telefonen (der begge parter kan ha skylden), men et kjapt stryk over baksiden av telefonen parer dem igjen. 
+
+Med én knapp på armbåndet er det begrenset med øvrig funksjonalitet, men du kan bruke det til å styre en app – standardvalget er musikkspilleren. 
+Ved å trykke på knappen på armbåndet og deretter prikke på det med fingeren, kan du pause avspillingen eller bytte sang. 
+Dette fungerer med appen som spiller musikk, så om du liker å bruke Wimp eller Spotify lar de seg også styre fra armbåndet. 
+Ett prikk pauser avspillingen, to prikk hopper til neste og tre til forrige. 
+
+Kontinuerlig logging 
+
+Via den tilhørende Lifelog-appen (som lastes ned fra Google Play) logger Sony «alt» du foretar deg. 
+På dagtid teller den antall skritt (appen kan skille mellom gange og jogging) og logger også hvor mye tid du bruker med forskjellige apper, bilder du tar, telefonsamtaler og lignende. 
+
+Appen skal også vise hva slags type aktivitet du har gjort når du blar igjennom tidslinjen, enten du har kjørt bil eller sittet på kontoret. 
+Akkurat her har ikke Lifelog fungert som det burde for vår del, der både sitting på kontorplassen og på toget blir oppfattet som at man står. 
+
+For hver av kategoriene kan du også sette deg mål, f.eks. X antall skritt hver dag eller et gitt antall forbrente kalorier. 
+Smartband har imidlertid ingen pulsmåler, så forbrenning beregnes ut fra kjønn, alder, høyde og vekt. 
+Appen kan også beregne hvor langt du har gått eller jogget basert på skrittlengden, som du enten kan angi nøyaktig selv eller få beregnet ut fra alder og høyde (standardinnstilling). 
+
+Lifelog kan dessuten vise deg hvor du har befunnet deg på et kart, og du kan også spille igjennom en gitt dag i etterkant for å se hvordan dagen fortonet seg, både med tanke på dine bevegelser, telefonaktivitet, vær etc. 
+
+I tillegg finnes muligheten for å sette et «bokmerke», enten i appen eller ved å dobbelttrykke på Smartband-knappen. 
+Da samler appen inn informasjon om hvor du befant deg, hvilken sang du spilte, bilder du har tatt, været der du var etc. slik at du kan hente frem minnene senere. 
+Kanskje ikke det største salgsargumentet i våre øyne, men … 
+
+Vanntett 
+
+Sony Smartband er IP58-sertifisert, og det er verdt å bite seg merke i. 
+Det første sifferet (5) angir graden av tetthet mot støv og smuss, og det andre (8) mot vann. 
+
+De fleste vanntette elektroniske enheter har syv som siste siffer (altså at de tåler 15-100 centimeter under vann i 30 minutter), men 8 betegner at enheten faktisk tåler varig neddykking og derfor også kan tas med også i svømmehallen. 
+
+Hva mangler den? 
+
+Flere armbånd av denne typen har innbakt funksjonalitet i appen for å logge hva man spiser og drikker, men det støttes ikke av Lifelog-appen. 
+
+For min del anser jeg dette som mindre viktig, spesielt siden det også finnes andre apper som kan brukes for å logge hva man spiser – en funksjon som uansett ikke er spesielt relatert til et armbånd. 
+
+Dog vil nok flere etterlyse flere motiverende funksjoner. 
+Mens andre slike treningarmbånd har lysdioder som viser deg progresjonen i forhold til målene du har satt deg eller lar deg konkurrere med venner om hvem som har gått lengst, er slike ting praktisk talt fraværende på Sonys løsning. 
+Riktignok finnes tre lysdioder også på Smartband, men de har ikke noe mer funksjonalitet enn å vise deg om enheten er i dag- eller nattmodus når du trykker på knappen én gang. 
+I appen kan du også se hvorvidt du har oppfylt dagens mål med tanke på antall skritt etc. 
+
+Det er heller ikke mulig å definere aktiviteter man har utført i Lifelog-appen, så for de mest aktive blir ikke Smartband den beste treningskompisen. 
+
+Konklusjon 
+
+Vi liker rett og slett Sony Smartband svært godt. 
+Med to medfølgende armbånd og flere hull i hvert, vil det være et armbånd de fleste vil finne komfortabelt å ha på seg, og vi setter også pris på at det lar seg lade opp med en helt vanlig micro USB-lader – uten behov for proprietære ladeløsninger. 
+I tillegg er det verdt å sette pris på at du kan bruke Smartband ikke bare med Sonys egne telefoner, men også med andre Android-telefoner som kjører på versjon 4.4 og oppover. 
+
+Kjekk er også muligheten for å bli vekket diskret i riktig søvnfase (uten å bråke for den ved siden av deg i dobbeltsenga), og at telefonvarsler kan utløse vibrering rundt armen for appene du selv plukker ut. 
+I tillegg fungerer det fint å styre musikkavspillingen slik at du slipper å fikle frem telefonen under joggeturen. 
+
+Smartband er vanntett (med IP58-sertifisering) og har en batteritid på fem dager etter 30 minutters lading. 
+Prislappen er også svært hyggelig sammenlignet med konkurrerende armbånd – godt under 600 kroner i de rimeligste nettbutikkene. 
+
+Er det noe vi savner er det først og fremst motiverende funksjoner fra den tilhørende appen, i tillegg til at Smartband har begrenset funksjonalitet, med tanke på selv å definere ulike treningstyper og så videre. 
+
+Sony SmartBand SWR10 

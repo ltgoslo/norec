@@ -1,0 +1,69 @@
+AirPatrol - styr varmepumpen med mobilen
+Med denne kan du fjernstyre varmepumpa uansett hvor du er. 
+
+Varmepumpe finnes i tusener av hjem, og sparer inn tusener av fyringskroner når den brukes fornuftig. 
+Og fornuftig bruk betyr først og fremst at den jobber mest når noen har glede av varmen, ikke når huset er tomt. 
+
+Samtidig er det stas å komme hjem til ferdig oppvarmet hus, og slippe å hutre til temperaturen er oppe i trivselsområdet. 
+
+Alle moderne varmepumper har mulighet for døgn- og ukeprogrammer, med automatisk regulering av temperaturen gjennom de forskjellige tider på døgnet. 
+Men det er ikke alle som har samme dagsprogram hver eneste dag og da jobber varmepumpa til ingen nytte. 
+
+Så hva er da løsningen? 
+
+Fjernstyring fra mobil løser disse problemene og åpner for andre muligheter. 
+
+AirPatrol 
+
+AirPatrol er en liten enhet som er bindeleddet mellom mobilen og varmepumpa. 
+Den kommuniserer med mobilen ved hjelp av vanlige SMS-meldinger og kommuniserer med varmepumpa ved hjelp av infrarøde signaler, de samme signalene som fjernkontrollen som følger med varmepumpa bruker. 
+
+For å slippe å taste inn kryptiske SMS-meldinger laster du ned en app, som genererer de riktige tekstmeldingene for deg når du trykker på mer begripelige knapper som tilsvarer et utvalg av dem som finnes på fjernkontrollen. 
+
+Installasjon 
+
+AirPatrol kommer i eske med strømforsyning og bruksanvisning. 
+For å få den til å fungere må du installere et SIM-kort, men først må du slå av PIN-kode-sjekk. 
+Det gjøres ved å sette SIM-kortet i en vanlig mobil, slå av denne funksjonen og så lagre den. 
+Deretter tar du ut SIM-kortet igjen og setter det inn i AirPatrol. 
+
+AirPatrol har bare reservebatteri og trenger strømforsyning til daglig bruk. 
+Denne følger med og tilkobling skjer med en microUSB-kontakt. 
+Du kan ta ut ledningen på to steder på undersiden av enheten. 
+
+For å kommunisere best med selve varmepumpens innedel skal AirPatrol plasseres på veggen til høyre for denne, på en vegg eller et bord, slik at de infrarøde signalene når fram. 
+Disse signalene reflekteres av harde underlag, så den kan godt peke nedover slik at signalet reflekteres opp til varmepumpen. 
+
+For å teste om de kommuniserer er det en skjult testknapp som du betjener med en binders eller annen tynn, spiss gjenstand gjennom et hull i AirPatrol. 
+
+Det enkleste er å sette inn en liten skrue i veggen som AirPatrol kan henge på. 
+
+I bruk 
+
+For å komme i gang laster du ned en gratis app for iPhone, Android eller Windows Phone 8. 
+I appen skriver du inn telefonnummeret som hører til SIM-kortet, gir installasjonen et navn og oppretter eventuell eier og bruker, med forskjellige rettigheter. 
+Du må selvfølgelig også velge i menyen hvilken varmepumpe du har for å få på plass de riktige kommandoene. 
+
+Så er det bare å velge temperatur, operasjonsmodus og viftehastighet. 
+Når du har valgt disse trykker du knappen "Send til utfør". 
+Da genereres en tekstmelding og meldingsappen åpnes. 
+Der ser du meldingen, så trykker du send-knappen og instruksene sendes til AirPatrol som oversetter til IR-signaler som sendes til varmepumpen. 
+
+Du kan også lagre tre favorittinstillinger i appen. 
+
+Konklusjon 
+
+AirPatrol var helt uproblematisk å sette opp og ta i bruk, og alt har fungert som forventet i testperioden. 
+
+Det eneste vi var litt usikre på var hva slags mobilabonnement vi skulle velge. 
+Siden AirPatrol bruker SMS bør den ha et eget nummer. 
+Et tvilling-SIM-kort er ikke optimalt, siden alle SMS-meldinger da ville havne både i din egen mobil og i AirPatrol. 
+
+Avveingen blir om du skal velge et abonnement med månedsavgift og fri SMS-bruk eller et uten månedsavgift og betaling pr SMS. 
+
+Uansett er AirPatrol en løsning som ikke er blant de aller billigste. 
+I tillegg til prisen på selve AirPatrol kommer mobilbruken i tillegg. 
+Alt dette kan du spare inn over tid, men hvor lang tid det tar i forhold til å skru ned temperatur og vifte før du går og opp igjen når du har kommet hjem, eller sette opp en fast reguleringssyklus - det blir et regnestykke som avhenger av svært mange løse tråder. 
+
+For hytteeiere som tar turen på sparket er løsningen glimrende, samt for dem som har uforutsette arbeidstider som ikke lar seg forhåndsprogrammere. 
+Som en ren "kjekt å ha" - løsning er den kanskje litt i dyreste laget. 

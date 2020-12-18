@@ -1,0 +1,118 @@
+Er dette begynnelsen på et veldig billig smarthus?
+Vi har testet det første produktet i «CO Home»-serien. 
+
+Stadig flere ønsker å styre ting i hjemmet sitt med mobilen. 
+Det har Clas Ohlson-kjeden skjønt for lengst. 
+Men nå vil de inn på markedet med en egen serie av billigprodukter kalt CO Home. 
+
+Dinside har prøvd det første produktet i denne serien, en liten smartstrømbryter som rett og slett slår strømmen fra en stikkontakt av og på fra en app på mobilen. 
+
+Vil gjøre det helt enkelt 
+
+De som finner det nyttig å styre huset sitt via mobilen kan få både automatiske dørlåser, overvåkingskameraer, dørklokker med nettforbindelse, smarte røykvarslere og garasjedøråpnere. 
+
+Men det enkleste er ofte det beste, som det het i en reklamekampanje. 
+
+En smartstrømbryter er rett og slett en liten dings du monterer i stikkontakten, og som slår av og på lyset, TV-en eller hva som helst annet. 
+
+Bryteren styres fra en app på mobilen. 
+Dermed kan du skru ting av og på både når du er hjemme, på jobben eller bortreist på ferie. 
+
+Disse må ikke forveksles med smart-termostater som regulerer temperaturen. 
+
+Smart-strømbrytere kan likevel hjelpe deg å knipe inn på strømregningen ved å passe på at ting som bruker strøm er helt skrudd av når du ikke trenger dem. 
+Men vær oppmerksom på at alle smartdingser også bidrar litt til strømforbruket i seg selv. 
+
+Snakker med Kina 
+
+Slike enkle, fjernstyrte brytere er det ingen mangel på fra før. 
+Faktisk har Clas Ohlson selv et godt utvalg av smartstrømbrytere fra før med merker som Cotech og Nexa. 
+
+Samme kjede selger også mer avanserte smarthjemsproduktene fra Telldus, som du også får mange andre steder. 
+Her styres smartstrømbryterne via en felles sentral som kobles til nettet. 
+
+HOME-bryteren fungerer noe annerledes. 
+Hver enkelt bryter er koblet til det trådløse nettet hjemme. 
+
+Når du skrur av eller på, sendes signalet til en server i utlandet. 
+Av en våken leser med IT-kunnskaper har vi fått tilsendt en liste over adresser som bryteren tar kontakt med. 
+
+Samtlige av adressene tilhører det kinesiske selskapet Broadlink. 
+Her ligger det et produkt som ser helt identisk ut med CO Home. 
+
+Pluggene kan for øvrig kjøpes i den kinesiske nettbutikken Aliexpress for rundt 110 norske kroner stykket, med fri frakt til Norge. 
+
+Signalet går til hver enkelt bryter som blir fortalt om den skal være av eller på. 
+«Skandinaviseringen» av produktet er utført av selskapet Daresay i Kista utenfor Stockholm. 
+
+De bedyrer at både sikkerhet og personvern skal være på plass. 
+Og det får vi håpe. 
+Tidligere har vi jo skrevet om hvor enkelt det er å ta over et smarthus når du først er inne. 
+
+Gikk som en lek … nesten 
+
+Clas Ohlsons multimedia-sjef Peter Olsson opplyser at hele poenget med Home-serien er å gjøre det så enkelt som mulig for brukeren. 
+Det er grunnen til at man har unngått en innendørs gateway (boks som kobler sammen ulike nettverk), slik mange andre systemer som kan styres utenfra har. 
+
+Og enkelt er det utvilsomt. 
+Vi satte bryteren inn i nærmeste stikkontakt. 
+Da den begynte å blinke, kom symbolet opp i appen (Android, iOS) vi hadde lastet ned på forhånd. 
+Deretter var det bare å døpe den til «Stålampe 1 Stue» og skru av og på via appen. 
+
+Verre var det på jobben. 
+Der godtok den ingen av de mange trådløse nettverkene som er tilgjengelige. 
+I bruksanvisningen står det imidlertid tydelig at pluggen ikke er kompatibel med nettverk som krever innlogging med brukernavn, som hoteller og arbeidsplasser. 
+
+Clas Ohlson-bryterne kan for øvrig ikke bruke 5Ghz-standarden som stort sett alle bedrifter kjører og mange også kjører hjemme parallelt med 2,4Ghz. 
+
+Hjemme hos oss har vi et TP-LInk Deco M5 sett på tre enheter. 
+Dette kjører 2,4Ghz og 5Ghz i tospann, noe Clas Ohlsons Home-smartbryter tydeligvis godtar. 
+
+Litt trøbbel måtte vi likevel gjennom også hjemme. 
+Feilmeldingen 
+«En feil har oppstått» med et kryptisk tall etter (-4000 eller – 4005) kom opp dersom vi var litt raske på labben. 
+
+Peter Olsson forklarer dette slik i en e-post til Dinside: 
+
+- Dette hender om man intensivt trykker på av/på-knappen. 
+Alt blir riktig, men siden alle oppdateringer (av/på) sjekkes med en server i California henger kommunikasjonen iblant ikke med. 
+
+For øvrig er tallkoden erstattet med det mer logiske «Forsøk igjen» i Android-versjonen. 
+Dette vil bli rettet opp også i iOS-appen, får vi vite. 
+
+Snakker ikke sammen 
+
+Siden bryterne ikke snakker sammen, kan du ikke stille dem inn slik at de samhandler. 
+
+Det betyr at du ikke kan slå av alle kontaktene på én gang eller programmere dem til å løse oppgaver i fellesskap. 
+
+Likevel er det flere muligheter for å sette opp hver enkelt bryter for seg. 
+
+Du kan for eksempel sette separate innstillinger for hverdager og helg. 
+Eller sette bryteren til å skru seg av og på tilfeldig for å lure skumlinger som måtte pønske på å bryte seg inn. 
+
+Bryteren har også nattlys, slik at du kan finne fram til stikkontakten i mørket. 
+
+Enkelt og billig, men nyttig? 
+
+Teknisk sett er dette en lysbryter med forbindelse til nettet som koster 299 kroner. 
+Og kjøper du tre, får du et sett for 699. 
+
+Sett i forhold til ambisiøse systemer til tusenvis av kroner er dette billig moro. 
+
+Likevel kan vi ikke fri oss fra tanken om at bryteren hadde vært en langt nyttigere første byggestein om du kunne bruke den sammen med utstyr du har fra før, eller som du har tenkt å kjøpe i framtida. 
+
+Dersom Home-smartbryteren skal følges opp av en rekke andre smarthus-produkter til en billig penge, bør nok Clas Ohlson sørge for at de samarbeider med de standarder som er på markedet, som Google Home og Apples Home Kit. 
+I det minste burde de støtte standarder som Zigbee og Z-Wave i tillegg til WiFi. 
+
+Selv i et eget univers ville det vært smidigere med en felles sentral innendørs, slik som smartlyssystemene til Philips og IKEA. 
+
+Konklusjon 
+
+Denne smartbryteren tilføyer ikke markedet for slike brytere noe vesentlig nytt. 
+Dessuten vitner tregheten med påfølgende feilmelding at kjeden har et stykke igjen å gå selv før denne spede begynnelsen er på skinner. 
+
+Vi venter i spenning på nye produkter i Home-serien. 
+Men vi tror at Clas Ohlson og deres samarbeidspartnere må tenke radikalt annerledes dersom de skal ha håp om å jakte med de store ulvene der ute. 
+
+Oppdatert: 26/2-2018 kl. 09.45. 

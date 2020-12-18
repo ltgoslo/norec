@@ -1,0 +1,94 @@
+Samsung BD-C8200
+Alt-i-ett Blu-ray, mediespiller, TV-mottaker og opptaker. 
+
+Tanken på å eie en TV med alt innebygd, både digital mottaker og kortleser, programopptak, multimediespiller for alskens medieformater, nettmuligheter og Blu-ray var for kort tid siden ansett som en fjern fremtidsdrøm. 
+I 2010 er situasjonen annerledes, selv om vi fortsatt har til gode å se produktet som treffer blink på alle funksjonene. 
+
+Samsung BD-C8200 er riktig nok ikke noen TV, men denne moderne videospilleren har mye av det andre: 
+
+Avspiller for Blu-ray og DVD-platerAvspiller for multimediefiler fra plate, USB og nettverk (kablet eller trådløst) Innebygd DLNA-medieserverHD-TV-mottaker for digitalt bakkenett (DVB-T) og kabel-TV (DVB-C)Opptaksfunksjon til innebygd harddisk på 250 GBInternet@TV gir tilgang til internettjenester, eksempelvis YouTube og FacebookFlere tekniske data (ekstern lenke). 
+
+La oss først kikke litt nærmere på eksteriøret. 
+
+Blått lys 
+
+Spilleren har en klassisk svart design, med bredde som en standard HiFi-komponent (43 cm). 
+Den har ikke fysiske knapper, bare en berøringsfølsom overflate i fronten. 
+Det blå lyset på toppen toner opp og ned som om spilleren puster, en stilig effekt, uten at det blir forstyrrende. 
+Det har imidlertid ikke noen praktisk betydning. 
+
+På baksiden sitter en liten vifte, og vi er alltid skeptiske til videospillere med aktiv kjøling, da de ofte lager mer lyd enn vi setter pris på. 
+Denne er imidlertid langt fra noe problem. 
+Først når du står helt inntil kan du høre den svakt summende lavfrekvente susingen. 
+
+Universalkontroll 
+
+Fjernkontrollen er oversiktlig og logisk, og kan også brukes mot nær sagt alt av TV-er som er solgt de siste årene. 
+Programmeringen er gjort på sekunder, og den fungerte helt fint mot de to TV-ene vi har testet enheten mot, en fra Samsung og en fra LG. 
+
+Man svitsjer mellom TV og spilleren med en knapp. 
+Den lyser grønt når den styrer TV, og oransje når den styrer spilleren. 
+
+Meget bra brukervennlighet 
+
+Vi koblet den mot vårt digitale kabelanlegg med vanlig antennekoaks, og til TV-en med HDMI-kabel. 
+Straks etter å ha skrudd på spilleren ble vi møtt av en veiviser som tok oss gjennom innstilling av språk, kanaler og nettverksoppsett. 
+Tilkobling til vårt trådløse nett gikk som smurt: 
+
+Det hele var unnagjort på få minutter. 
+Vi har sagt det før, og gjentar gjerne at Samsung er gode på brukervennlighet. 
+De norske oversettelsene er også prima. 
+
+Her har vi samlet en rekke bilder fra avspilling, menyer og innstillinger: 
+
+TV-mottak og opptak 
+
+Spilleren har støtte for krypterte sendinger, men da trenger du en CAM-modul i tillegg til programkort fra kanalleverandør. 
+Det hadde ikke vi, så vi fikk kun prøvd gratiskanalene i vårt digitale kabelanlegg (fra Romm AS). 
+Det skal også fungere mot de fleste andre kabelleverandørene, med unntak av GET, som foreløpig kjører en litt mer proprietær kabelløsning. 
+Ut fra spesifikasjonene skal også spilleren takle det digitale bakkenettet hvor Riks-TV distribueres. 
+Merk deg likevel at spilleren formelt sett ikke er godkjent av RiksTV. 
+Med andre ord: 
+Selv om du kanskje får sett RiksTVs programutvalg per dags dato, så er det altså ingen garanti for at dette også vil være tilfellet framover. 
+En oppdatert liste over hvilke mottagere som er godkjent får du her. 
+
+Og opplevelsen av bilde, lyd og opptak er i det hele stort sett meget bra. 
+Det er enkelt å ta opp, kvaliteten er bra og spilleren reagerer relativt kjapt på kommandoer. 
+Hopping mellom de ukrypterte kanalene skjer ikke umiddelbart, det er en forsinkelse på et par sekunder fra du trykker, men dette er ikke uvanlig for verken PVR eller TV i disse dager. 
+
+Rask Blu-ray 
+
+Avspilling av Blu-ray ble også en positiv opplevelse, spilleren brukte ikke mer enn 13 sekunder fra vi satte inn vår testplate til avspillingen startet, og da er vi omtrent på normalnivå for DVD-spillere. 
+Treg lasting har vært et problem for mange Blu-ray-spillere, spesielt første- og andregenerasjons. 
+
+Spilleren har naturligvis støtte for profil 2.0, som i praksis betyr tilgang til interaktivt materiale på nett, en slag forlengelse av filmene, om du vil. 
+
+Bildekvaliteten er topp, og mekanisk støy omtrent helt fraværende. 
+
+Så langt aspirerer spilleren til en solid femmer på terningen, men som vi nevnte innledningsvis er det få alt-i-ett-produkter som scorer like bra på alle punkter, og BD-C8200 har også sine klare svakheter. 
+
+Ikke modent ennå 
+
+Det går på nettfunksjonaliteten, og i hovedsak Internet@TV som vi rett og slett ikke fikk til å fungere tilfredsstillende i det hele tatt. 
+Vi fikk stadig feilmeldinger, beskjeder om at noe måtte oppgraderes, heng - og i det hele tatt synes vi at denne funksjonaliteten er svært prematur på nåværende tidspunkt. 
+Dette er også helt i tråd med de erfaringene vi har gjort med tilsvarende løsninger tidligere. 
+
+Spilleren har også innebygd medieserver som vi heller ikke fikk til å fungere, her illustrert mot en DLNA-tilkoblet TV: 
+
+Som ren mediespiller får den imidlertid godkjent karakter, selv om vi har sett bedre spesialspillere tidligere, med enklere navigasjon og bedre formatstøtte. 
+
+De vanligste videoformatene støttes imidlertid greit, inkludert undertekster - i form av eksterne SRT-tekstfiler. 
+NB! 
+Teksting bakt inn i MKV-filer støttes ikke: 
+
+H264 SD/HD ok MKV 720P/1080P ok DivX HD 720P/1080P ok Xvid SD ok MPEG2 DVD ok MPEG2 TS HD ok MPEG1 ok WMV HD/SD ok bilde, ingen lyd 
+
+Nå skynder vi oss å legge til at det stadig slippes nye forbedringer i form av firmware-oppgraderinger, så er man heldig blir mye av det vi har påpekt som negativt rettet på ett eller annet tidspunkt. 
+
+Konklusjon 
+
+Er du ute etter en Blu-ray-spiller med digital (HD)TV-mottaker og opptaksfunksjon, er BD-C8200 et godt valg. 
+Det er også en grei avspiller av mediefiler fra nettverk (DLNA), plate og USB-enheter, men som internettmaskin er vi ikke imponert. 
+Derfor havner vi til slutt på en firer på terningen. 
+
+Vi takker Netonnet for utlån av spilleren! 

@@ -1,0 +1,116 @@
+Acer Aspire E1-571G
+PC for alle oss andre. 
+
+Det siste året har vi i stor grad fokusert på lette, tynne og robuste PC-er i testene våre her på DinSide, men fortsatt selges det uhorvelig mange eksemplarer av "standard-PC-er" med 15,6" skjerm, romslig harddisk, stort og godt tastatur og DVD-brenner. 
+
+Ikke så underlig det, for det er i denne klassen du utvilsomt fortsatt får mest ytelse og utstyr for pengene. 
+
+Bra på papiret 
+
+Har du et PC-budsjett som begrenser seg oppad til 5000 kroner, bør du definitivt ta en titt på Acer Aspire E1-571G, som har vært på testbenken vår de siste par ukene. 
+Maskinen kommer i en rekke forskjellige konfigurasjoner, og vi har tittet på den mest vanlige. 
+
+Her er en kjapp gjennomgang av spesifikasjonene: 
+
+Skjerm: 15,6" LED-baklyst blank LCD, 1366 x 768 piksler Prosessor: 
+Intel Core i5-3230M RAM: 
+4 GB DDR3 (maks 8 GB, ett spor ledig) Grafikkort: 
+Dedikert Nvidia GeForce 710M, 1 GB RAM Lagring: 750 GB harddisk, 5400 rpm Optisk drev: 
+DVD-brenner for alle formater Skjermutganger: 
+VGA og HDMI USB-porter: 3x USB 
+2.0 Webkamera: 
+Ja Kortleser: xD/SD/SDHC/MMC/MS/MSPro Trådløst nett: 
+802.11b/g/n Kablet nett: 10/100/1000 Mbit/s Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 64-bits Størrelse: 38,2 x 25,3 x 3,31 cm Vekt: 
+2,5 kg Pris: ca 4.500 kroner (jf Prisjakt 8.4.2013 
+
+Her får man altså en potent prosessor, stor harddisk og dedikert grafikk som er kraftig nok til å kjøre nyere spill med moderate innstillinger, til en pris som ligger godt under hva du må ut med for en grei Ultrabook - som til gjengjeld har dårligere utstyrsnivå. 
+
+Bruk av dedikert grafikkort er sjelden kost i denne prisklassen, de fleste benytter kun grafikkbrikken som er integrert i prosessoren. 
+
+Mangler vesentlig ting 
+
+Det eneste vi setter et spørsmålstegn ved, et ganske stort sådan, er at PC-en ikke er utstyrt med USB 3.0-porter. 
+Dette er temmelig uforståelig i 2013, og betyr i praksis vesentlig lavere ytelse mot USB 3.0-utstyr, først og fremst harddisker og minnepinner som er laget for standarden. 
+
+Mer forståelig er det at skjermen har TN-panel og relativt lav oppløsning. 
+Det betyr blant annet at farger og kontrast avtar når du beskuer skjermen fra skrått hold, og at bilder og tekst ikke blir fullt så skarpe som med høyoppløste skjermer. 
+
+Om dette er et stort minus for den gemene hop er imidlertid diskutabelt. 
+
+Plast 
+
+Materialvalget er som forventet av den enklere sorten, her er det plast fra innerst til ytterst. 
+Overflaten er blank, og fingeravtrykk vises dessverre raskt. 
+Også på innsiden under tastaturet, har Acer satset på blankpolert plast, her sølvfarget og så lys at fettflekker ikke oppdages like lett som på lokket. 
+
+Tastaturet er romslig, med numeriske taster på siden. 
+Vi er ikke overbegeistret for tastaturet, det klirrer litt under skriving, venstre shift-tast er svært liten, og åpningen mellom tastene er akkurat så stor at smuler faller nedi og blir vanskelig å fiske opp igjen. 
+Her liker vi island-tastaturer langt bedre, der hver tast er isolert fra de andre. 
+
+Pekeplaten har adskilt knapp for venstre/høyreklikk, og den yter akkurat passe motstand - og lager ikke noen irriterende klikkelyder. 
+Den har tydelig markert skrollefelt til høyre. 
+Nærmest eksemplarisk utført. 
+
+Høyttalerne sitter over tastaturet, og lager skuffende spinkel lyd. 
+Til og med syltynne ultrabooks har ofte fyldigere lyd enn disse. 
+Så her er det bare å koble til eksterne høyttalere med det samme, eventuelt hodetelefoner. 
+
+Alle tilkoblingene sitter på venstre og høyre side, lett tilgjengelig. 
+Kun kortleseren sitter i fronten til venstre. 
+Luftinnsug sitter på undersiden og varm luft blåses ut på venstre side. 
+
+Stillegående 
+
+E1-571G blir aldri særlig varm, og støynivået er meget lavt. 
+Kun ved tung belastning vil viften starte. 
+Den er hørbar, men vi opplevde den aldri som spesielt sjenerende. 
+
+Maskinen kommer som ventet med en rekke forhåndsinstallerte apper og programmer, men til vår store overraskelse er ikke prøveversjon av en sikkerhetspakke blant dem. 
+Norton er riktig nok representert, men med et online backup-program. 
+Dette fortjener en kort, distinkt applaus. 
+I de fleste tilfeller vil internettsikkerhetspakker fra tredjepart være unødvendig (og til irritasjon), da Windows 8 allerede har slike funksjoner innebygd som standard. 
+
+Slik yter den 
+
+Fra du skrur på PC-en til Windows er lastet og klar til bruk, tar det bare 15 sekunder. 
+Det betyr at Acer har gjort en god jobb med konfigurasjonen, dette er nemlig noe av det raskeste vi har målt på harddiskbaserte bærbare. 
+Og diskytelsen er faktisk veldig bra for å være en 5400 rpm-disk, som vi skal se senere. 
+
+Maskinen responderer raskt på de fleste forespørsler, også med mange programvinduer åpne og småtunge programmer kjørende. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,2 Minne: 5,9 Grafikk: 
+4,6 Spillgrafikk: 
+6,4 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og i diagrammene under har vi sammenlignet tallene vi fikk mot utstyr som sitter i andre modeller i samme prisklasse: 
+
+Prosessorytelsen ligger helt i toppen av hva du kan forvente i prisklasse under 5000 kroner 
+
+Også grafikkytelsen er meget bra, prisen tatt i betraktning, omtrent som 630M fra forrige generasjon Nvidia GeForce 
+
+Harddiskytelsen ligger i overkant av hva som er typisk for PC-er i klassen, men langt bak typisk SSD-ytelse. 
+Diagrammet er basert på DinSides erfaringer fra PC-tester siste året. 
+
+Helt greit batteri 
+
+Når det gjelder batteritiden opplyser Acer at du kan forvente rundt 4,5 timer under variabel belastning. 
+I vår videotest varte batteriet 4 timer. 
+Med minimal belastning tok det 6 timer før det var tomt. 
+
+Det skulle faktisk ikke forundre oss at ved lett, variert bruk vil batteriet vare bortimot 5 timer, og det er omtrent det du bør forvente i denne klassen nå. 
+
+Konklusjon 
+
+Hvis du er ute etter en bra allround-PC til en relativt rimelig penge, er Acer Aspire E1-571G slett ikke noe dumt valg. 
+Her får du bra ytelse og godt med plass, og en maskin som er temmelig stillegående under bruk. 
+
+Vi er mest negative til at PC-en ikke har USB 3.0-porter, tastaturet kunne vært bedre og høyttalerne har spinkel lyd. 
+Kan du leve med dette, er det ingen tvil om at du her får mye PC for pengene. 
+
+Acer Aspire E1-571-53214G50Mnks (NX.M09EG.010) 

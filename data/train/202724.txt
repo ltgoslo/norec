@@ -1,0 +1,26 @@
+Point of View 6800 GT
+LES OGSÅ: 
+
+GeForce 6800 GT er en mini-versjon av Nvidias aller beste grafikkort: GeForce 6800 Ultra. 
+Det har 16 eksekusjonsenheter, en grafikkprosessor på 350 MHZ (mot 400 i Ultra) og GDDR3-minne på 1 GHz (mot 1.1 i Ultra). 
+
+Point of View (POV) sitt kort utmerker seg først og fremst med den originale kjøleløsningen, som best kan beskrives som en svær kobberplate med vifte på og kobberribber rundt. 
+Det mest interessante med den er at platen ikke ligger rett på kortet, men sitter på en massiv blokk som går fra selve grafikkprosessoren opp til viften, som er hevet circa to centimeter over resten av kortet. 
+
+Interessant kjøleløsning 
+
+Det vil si at det samtidig kommer mye luft til minnebrikkene under - som er svært bra for de som liker å overklokke. 
+Samtidig er dette testens minst støyende kort - og det sier litt hvis du for eksempel vurderer Gainward sitt kort med Ultra-vifte. 
+
+Dessverre fører denne løsningen til at kortet dekker to kortplasser, akkurat som GeForce 6800 Ultra-kortet gjør. 
+Det vil det nok være delte syn på, men det gjør i hvert fall kortet upassende til mini-PCer der det gjerne bare er én kortplass til grafikken. 
+
+God ytelse 
+
+POV har ellers den mest oppdaterte bundelen med det aller siste Splinter Cell-spillet, og det følger med alle kablene vi trenger for å bruke det. 
+Det utmerker seg for øvrig med å være testens eneste som trenger egen strøm til viften - som skyldes at den samme kan kjøpes som tilleggsutstyr til andre kort fra selskapet, og at viften tar såpass mye plass. 
+De fleste hovedkort har en ekstra kontakt til dette. 
+
+Ytelsen er testens nest beste, og overgås bare av Gainward sitt ferdig overklokkede kort. 
+En kjapp overklokkingstest viser derimot at dette overgår Gainward sitt også her. 
+POV sitt kort har derimot den høyeste prisen per 3DMark i testen, selv om resten av egenskapene etter vår mening gjør det til testens beste GeForce-kort - ikke minst på grunn av den lave støyen. 

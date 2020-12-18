@@ -1,0 +1,130 @@
+HP 2133 Mini-Note
+HPs første minibærbare ser og føles nesten ut som en million dollar, så det kommer ikke som noen stor overraskelse at den koster litt mer enn konkurrentene. 
+
+Dersom du er på jakt etter en kjapp, lett og rimelig minibærbar dastamaskin må du lete videre 
+- HPs 2133 Mini-Note har nemlig egentlig ingen av de egenskapene. 
+Med denne minibærbare har HP siktet seg inn mot det noe eksklusive business-segmentet, og ikke den gjengse forbruker. 
+
+LES OGSÅ: 
+
+Men det betyr på ingen måte at du ikke kan kjøpe den privat, dersom du har lyst på en. 
+
+For det er ingen tvil om at lystfølelsen lett kommer over deg når du legger øynene på denne modellen. 
+Med et forsterket chassis i eloksert aluminium får den et solid og ikke minst meget lekkert ytre. 
+
+Med lokket oppe ser den slik ut: 
+
+Spesifikasjoner testmaskin: 
+
+VIA C7-M @ 1,6 GHz 8,9" skjerm i bredformat (1280 x 768 piksler) 2 GB DDR2-minne 120 GB harddisk, 5400 RPM VIA Chrome9 grafikk WLAN (a/b/g) Gigabit LAN 2 x USB, blåtann VGA ut, lyd inn/ut Minnekortleser, ExpressCard/54 Integrert webkamera og mikrofon Windows Vista Business 6-cellers batteri Dimensjoner (B/D/H): 
+26,2 x 17,0 x 2,7~5,3 cm Vekt 1,4 kilo 
+
+Konstruksjon 
+
+Dersom du har fulgt litt med har vi altså testet minibærbare også tidligere i høst, og prisene har typisk ligget på tre til tre og et halvt tusen kroner. 
+2133 Mini-Note ligger på sin side godt over dette, og har blant annet med å gjøre at den kjører en litt dyrere Windows-lisens. 
+En annen grunn er naturligvis valget av komponenter. 
+
+For her skal du glemme kjip og billig plastikk - 2133 både ser og føles ut som den er i en annen klasse (noe som forsåvidt stemmer). 
+Over- og underside er som nevnt i børstet aluminium, og hele herligheten føles god og solid. 
+I forhold til størrelsen er faktisk maskinen litt tung med sine 1,4 kilo. 
+
+En annen ting vi virkelig liker ved Mini-Noten er tastaturet. 
+Den har store og gode taster med kort og konsist tilslag. 
+I og med at denne maskinen først og fremst er langd for å skrive på er det jo bra å ha anstendig redskap til å gjøre det med. 
+
+Med pekeplaten har HP valgt samme løsning som vi finner på Acer Aspire One - en bred men litt stutt plate og "tastene" plassert på siden. 
+Disse tastene er for så vidt gode, og pekeplaten duger etter litt tilvenning, men for presisjonsarbeide vil du nok koble til en skikkelig mus. 
+
+Hva som er nokså spesielt på HP 2133 i forhold til andre minibærbare vi har vært borti er skjermen. 
+For det blanke panelet på knappe ni tommer (som for øvrig er dekt med ripesikker akryl) har en oppløsning på hele 1280 x 768 punkter! 
+Det betyr at du bør ha godt gangsyn for optimal opplevelse med denne PC-en. 
+
+Fordelen med såpass god oppløsning er blant annet en bedre surfeopplevelse, ettersom du slipper å skrolle så mye som når du bruker andre minibærbare - de har nemlig en typisk oppløsning på 1024 x 600 (så du ofte av og til også må skrolle sidelengs). 
+Vi er fornøyd med farger og kontrast, men vi savner lysstyrken på LED-skjermene som vi har på Acer Aspire One eller MSI Wind, spesielt fordi HPens skjerm er såpass blank som den er. 
+
+En annen ting vi skulle ønsket oss er at skjermen kunne vippes lengre bakover. 
+Med det medfølgende batteriet på 6 celler vippes først rompa opp slik at tastaturet får en vinkel på 10 grader fra bordflaten, og lokkets maksimale åpne vinkel blir da omtrent 125 grader. 
+I de fleste tilfeller vil dette riktignok være nok, men vi ser også at noen vil kunne ønske seg mer - for eksempel høye personer som vi skrive med maskinen på fanget. 
+
+Tilkoblingsmuligheter 
+
+Tilkoblingene på HP 2133 Mini-Note finner vi på sidene. 
+I front har vi aktivitetslys for harddisk og brytere for å slå av/på selve maskinen og det trådløse nettet + blåtann. 
+
+Venstre side har VGA ut, en USB-kontakt og lyd inn/ut. 
+Varmluften kommer også ut her. 
+
+På PC-ens høyre side er minnekortleseren, plass til ExpressCard/54, en USB, LAN, inntak for strøm og plass for kensingtonlås. 
+
+Ytelse 
+
+Det som er spesielt med denne modellen mot de andre minibærbare på markedet ligger ikke bare i det ytre - også inni er det fundamentale forskjeller. 
+I stedet for Intel-innmat har HP i stedet gått for en løsning fra VIA (som du kanskje kjenner til dersom du har hengt med en stund). 
+
+Den enkeltkjernede prosessoren på 1,6 GHz heter C7-M og er en litt snodig skrue. 
+I tandem med 2 GB RAM og et VIA brikkesett med integrert grafikk yter den godt nok til å kjøre Vista uten at det oppleves som håpløst tregt - men samtidig oppleves den som en direkte sinke når det gjelder krevende applikasjoner. 
+
+Her er noen eksempler på ytelsen mot Asus EEE PC 900 og MSI Wind U100 (med Windows XP). 
+Lurer du på Acer Aspire One kan denne sidestilles med Wind. 
+
+Høyere poengsum er bedre 
+
+Som vi ser er det forskjell her på prosessorene. 
+Wind har en Intel Atom N270 @ 1,6 GHz, mens Eee 900 kjører en Intel Celeron M 353 @ 900 MHz. 
+HPs Mini-Note gjør det bare "bra" i harddisktesten, og da på grunn av Eee 900s svært trege SSD. 
+
+Tid i sekunder - lavere er bedre 
+
+I oppgaver som går på store kalkulasjoner henger VIA-prosessoren milevis bak de andre. 
+Å regne ut Pi med 2 millioner desimaler tar den over 11 minutter, mens en vanlig moderne PC gjør unna det på en tidel av tiden. 
+
+Med koding av MP3-filer gjør den en bedre jobb, men er fremdeles den tregeste i klassen. 
+
+Prosessor - flere tråder: 
+
+Høyere poengsum er bedre 
+
+Med Cinebench R10 lar vi prosessoren prøve seg på flere tråder - om den klarer det. 
+Her ser vi at det er kun Intels Atom-prosessor som med hyper-threading kan dra nytte av dette. 
+Og igjen har vi VIA-prosessoren på jumboplass. 
+
+Levetid i minutter, konstant på 
+
+Mini-Noten kommer som standard med 6-cellers batteri, og dette holder i hele fire og en halv time med våre testrutiner. 
+Her har ikke konkurrentene noe å stille opp med. 
+Det skal nevnes at det er mulig å få tak i større batterier til disse - men da må du selvfølgelig også betale for det. 
+
+Støy og varme 
+
+Med HP 2133 har vi ingen spesielle klager når det gjelder støy. 
+Maskinen gir fra seg et lavt og jevnt sus som kun vil plage de mest innbitte og fanatiske støyallergikere. 
+
+Under hard belastning kan chassiset bli varmt - spesielt på undersiden - men varmen er fordelt og ikke konsentrert på spesielle hotspots. 
+Så de fleste vil derfor likevel kunne sitte med PC-en på fanget uten større bekymringer. 
+
+Konklusjon 
+
+Om HP 2133 Mini-Note er datamaskinen for akkurat deg kommer i stor grad an på dine bruksområder og ikke minst budsjett. 
+For mange er jo poenget med en minibærbar at den skal være billig, og akkurat på det punktet er kanskje ikke 2133 førstevalget. 
+
+Er du opphengt i å være mest mulig portabel er 2133 mer enn solid nok, men det skal også innrømmes at den med sine 1,4 kilo må regnes for å være litt tung til å være så liten. 
+Mangelen på digital skjermutgang vil nok også skuffe noen, og ser vi på ren datakraft er den heller ikke god til spesielt prosessorkrevende oppgaver. 
+
+Men som oftest er det ikke tunge kalkulasjoner som teller med disse minibærbare. 
+Er du hovedsaklig ute etter en liten maskin for skriving, surfing og film (glem HD) klarer HPs Mini-Note seg fint med det gode tastaturet og den høyoppløste skjermen. 
+
+Og for å få en solid bygget maskin med god batterilevetid er det også en del som er villige til å bære med seg noen hekto ekstra. 
+
+At HP 2133 har et nokså lekkert utseende er vel heller ingen ulempe, og synes du fem tusen kroner er for mye nevner vi at den også kan leveres med SuSE Linux Enterprise Desktop 10 som et rimeligere alternativ. 
+
+Så det blir som vanlig å veie fordeler mot ulemper og du må selv finne ut hva som er viktigst for deg. 
+Sjekk den gjerne ut i en butikk for å finne ut om skjermen ikke er for blank, om oppløsningen er passe og den maksimale skjermvinkelen passer ditt bruk. 
+
+Vi minne også på at med sin pris og vekt er ikke 2133 Mini-Note så langt unna vanlige bærbare modeller. 
+Leter du litt rundt finner du for eksempel denne 12-tommeren til lavere pris enn en 2133 Mini-Note. 
+
+Helt til slutt må vi også nevne at selv om vårt testeksemplar for det meste oppførte seg eksemplarisk, har vi også flere ganger opplevd at maskinen har fryst helt eller "hengt seg" under batteridrift. 
+I følge vår mann i HP Norge har de ikke fått klager på dette fra andre kunder, så vi håper at det bare er vårt testeksemplar - selv om vi etter litt googling på temaet ikke føler oss helt alene på verdensbasis. 
+
+Så alt i alt får HP 2133 Mini-Note en sterk firer på terningen. 

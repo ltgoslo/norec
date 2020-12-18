@@ -1,0 +1,128 @@
+Fujitsu-Siemens Amilo D1840
+Trenden med bredskjerm på bærbar PC har sannsynligvis ennå ikke nådd toppen, og nå har også Fujitsu-Siemens kastet seg på markedet med Amilo D 1840. 
+Kruttet har de i hvert fall ikke spart på. 
+
+DinSide Data har testet en rekke bærbare PCer med bredskjerm det siste året. 
+Sist ut var Inspiron 8600 fra Dell, og før jul fikk vi gleden av å stifte bekjentskap med HP Pavilion ZT3017, som kanskje hadde den beste skjermen vi noensinne har sett på bærbare PCer. 
+
+LES OGSÅ: 
+
+Fujitsu-Siemens Amilo D1840 har også bredskjerm, men skiller seg likevel ganske markant fra de to nevnte PCene. 
+Man får kanskje inntrykk av at det eneste som gjelder for øyeblikket er Pentium M og Centrino, men i D1840 sitter en desktop Pentium 4-prosessor, en svært kraftig en. 
+Målgruppen er nemlig brukere som ønsker stasjonær kraft i bærbar utforming mer enn en lett bærbar med lang batterilevetid. 
+
+Men nå skal vi ikke gå for fort fram her, her er en oppsummering av de viktigste egenskapene: 
+
+3 GHz Intel Pentium 4 prosessor, 800 MHz FSB 
+
+256 MB DDR-minne (maks 1 GB) 
+
+80 GB harddisk, 4.200 rpm 
+
+DVD+RW brenner (2,4x/2,4x 
+- CDR 16x, CDRW 8x) 
+
+15,4" LCD, WXGA (1280 x 800 punkter) 
+
+ATI Mobility Radeon 9600 grafikk, 128 MB 
+
+VGA med TV-utgang 
+
+lydutgang med S/PDIF-støtte 
+
+innebygd mikrofon og mic-inngang (mono) 
+
+56 Kbit modem 
+
+10/100 Mbit nettverk 
+
+Infrafrød port (IrDA) 
+
+WLAN 802.11b trådløst nettverk 
+
+PCMCIA-plass 
+
+Firewire-port 
+
+3 stk USB 2.0-porter 
+
+Integrert minnekortleser (SD/MMC) 
+
+parallellport 
+
+Vekt 3,5 kg 
+
+mål: 358 x 269 x 36 mm 
+
+Så hva skal vi si om spesifikasjonene? 
+Dette er i utgangspunktet en meget sterk PC, ingen tvil om det. 
+Den har dessuten godt med tilkoblings- og kommunikasjonsmuligheter, inkludert WLAN og IrDA, men ikke mer enn hva som forventes i denne klassen nå. 
+Det som overrasker oss, er at PCen har et par åpenbare flaskehalser som slett ikke hører hjemme på en "monster-PC". 
+Den første er minnemengden - 256 MB er helt klart i knappeste laget. 
+Dessuten, og kanskje vel så viktig, harddisken har en rotasjonshastighet på 4.200 omdreininger pr minutt - og kan fort vise seg å bli en alvorlig flaskehals når arbeidsminnet er fylt opp. 
+Vi kommer for øvrig tilbake til ytelsestestene lenger nede i denne artikkelen. 
+
+Ikke noen smågutt 
+
+Dette er en stor PC, og den veier for mye til at den noensinne kommer til å bli noen favoritt blant dem som er mest på farten i skole og jobb. 
+Kabinettet er i plast, og lokket er temmelig mykt, noe som heller ikke er gunstig under transport, med de belastningene det gjerne fører med seg. 
+
+Skjermen er stor, og viser skarpe fine bilder. 
+Lysstyrken er midt på treet. 
+Noen vil sikkert foretrekke høyere oppløsning, vi har sett skjermer i denne størrelsen med opptil 1900 piksler horisontalt. 
+Det hadde derimot gjort denne PCen langt dyrere. 
+
+Det sitter et par høyttalere rett under skjermen. 
+En optimal plassering, men lydkvaliteten er så som så. 
+Men vi har tross alt opplevd langt svakere løsninger! 
+
+Tastaturet har en logisk plassering av taster, og er relativt fast og fint. 
+Mellomromstasten er litt liten, for øvrig er de andre spesialtastene som skift, slett og linjeskift er store og tydelige. 
+Det som derimot irriterer, er at Fujitsu-Siemens har plassert PageUp og PageDown-tastene til høyre for linjeskifttasten (og dermed øker sjansen for feiltasting), til tross for at her er mer enn god nok plass til andre plasseringer. 
+
+Pekeplaten har integrert felt for vertikal skroll. 
+Dette feltet burde vært markert bedre, for eksempel med en vertikal opphøyning. 
+Vi opplevde alt for ofte at vi utilsiktet aktiverte skrollfunksjonen under bruk av pekeplaten. 
+Under pekeplaten sitter en todelt knapp som også kan benyttes til vertikal skrolling. 
+Dessverre kan du ikke skrolle horisontalt ved hjelp av pekeplaten. 
+
+Tilkoblingspunktene er plassert greit på baksiden og på sidene. 
+Vi liker spesielt kodt den enkle tilgangen til nettverk, minnekort og DVD-spiller på sidene, siden dette er ting som benyttes ofte. 
+Men at strøminntaket sitter så tett inntil DVD-spilleren at ledningen lett kommer i konflikt med skuffen, har vi mindre til overs for. 
+Lydutgang i fronten er i og for seg greit når du skal koble til øretelefoner, men vi hadde foretrukket en annen plassering hvis vi skulle koblet PCen til et hifi-anlegg. 
+
+Ytelse omtrent som forventet, men med viftestøy 
+
+Som nevnt innledningsvis er vi kritiske til at PCen leveres med 256 MB minne, men aller mest kritiske er vi til at den leveres med 4.200 rpm harddisk. 
+Våre ytelsestester viser da også at dette er en vesentlig flaskehals på en ellers svært kjapp og kraftig PC. 
+
+Grafikkytelsen og den generelle ytelsen er på den annen side omtrent så god som det er mulig å få på en Intel-basert bærbar PC for øyeblikket, og helt på høyde med det beste vi har testet. 
+
+Vi har tidligere vært inne på at en uheldig bieffekt av høy ytelse er støy fra vifter i PCen. 
+Amilo D1840 er dessverre intet unntak. 
+Her er ikke bare PCen utstyrt med kraftige vifter, men også strømforsyningen! 
+Til sammen generer de støy omtrent som en gjennomsnittlig stasjonær PC. 
+Strømforsyningen kan selvsagt isoleres, puttes i en skuff eller lignende, for å dempe duringen noe. 
+
+En annen bieffekt er ofte kort batterilevetid. 
+Vi målte den til 1 timer og 51 minutter på Fujitsu-Siemens Amilo D1840. 
+Det bare understreker det vi allerede har antydet, dette er en stasjonær PC i bærbar utforming. 
+
+Klikk for øvrig på Tekniske data i oppsummeringsboksen for alle detaljene omkring de fysiske egenskapene - samt de viktigste ytelsestallene. 
+
+Her kan du se flere bilder av Amilo D1840 
+
+Konklusjon 
+
+Fujitsu-Siemens har så lyst så lyst til å gi deg det maksimale med hensyn til kraft og utstyr, men har måttet inngå et par kompromisser for å holde prisen godt under 20.000 kroner. 
+Hvis du tror at du kan leve med litt lav harddiskytelse og begrenset minne, får du fortsatt et råskinn av en PC til for eksempel spill og video. 
+Begge de nevnte flaskehalsene er enkle å fjerne hvis du senere ønsker å oppgradere, og da vil de fleste få en fullgod erstatning for en hver stasjonær PC. 
+
+NB! 
+PCen selges også med andre, rimeligere konfigurasjoner. 
+
+Anbefalte bruksområder: 
+
+Spill: meget velegnet Video: velegnet Musikk: velegnet Internett- og kontoroppgaver: meget velegnet Bildebehandling: meget velegnet Grafisk design: egnet Stille omgivelser: mindre egnet Mobilitet: mindre egnet 
+
+Mer nyttig fra DinSide Data: 

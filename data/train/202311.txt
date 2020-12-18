@@ -1,0 +1,137 @@
+Sony Ericsson Xperia X1
+Trenger vi egentlig denne mobilen? 
+
+Sony Ericsson sliter. 
+Da de første bildene av Xperia X1 nådde ryktebørsen ble mobilen en periode framstilt som en av redningsskøytene som skulle holde selskapet på stø kurs, men etter å ha fomlet med mobilen en stund er vi ikke så sikker på at den utgjør løsningen på så veldig mye. 
+
+Det finnes det flere grunner til. 
+
+Lag på lag 
+
+De nevnte bildene som nådde oss tidligere i år fristet med flere små såkalte paneler strødd symmetrisk utover den tre tommer store og trykkfølsomme skjermen. 
+Lite visste vi da at det ville bli operativsystemet Windows Mobile 6.1 som lå i bunn, noe som for mange i beste fall vil være en utfordring, i verste fall en ganske alvorlig turn-off. 
+
+Før vi forklarer nærmere hva vi mener om innsiden, tar vi en kikk på utsiden. 
+
+Retro? 
+
+I kompakt tilstand er X1 bemerkelsesverdig lite oppsiktsvekkende. 
+Knapperaden nederst truer med å velte skyvetelefonen inn under ordbokdefinisjonen på grell, mens sølvraden rundt tilfører X1 et aldri så lite element av retro. 
+Det er ikke direkte stygt, men det er heller ikke pent. 
+Pregløst er nok den mest presise betegnelsen. 
+
+Skyver en derimot ut qwerty-tastaturet ser ting straks bedre ut. 
+Dette er en av få skyvetelefoner som ser bedre ut i utslått tilstand enn mens den er kompakt. 
+Tastaturet som sådan gjør heller ikke skam på noen. 
+Det er ikke det beste vi har skrevet på - den tittelen tilhører akkurat nå Nokia E71 -, men aluminiumstastene gjør en god jobb med å få fingrene dine til å føle seg velkomne. 
+
+Merk: 
+Ettersom vårt testeksemplar bare har engelsk tastatur må vi gå ad ad omveier for å finne fram til kjente og kjære, særnorske tegn. 
+Dette vil det bli slutt på når den norske utgaven av X1 kommer på markedet "en gang rundt årsskiftet", ifølge Sony Ericsson. 
+Operativsystemet er også engelsk når telefonen slippes i Norge i disse dager, men også det vil bli oversatt til norsk i samme åndedrag som justeringen av tastaturet. 
+
+Mer om knapper 
+
+Den allerede nevnte knapperaden kan brukes til å navigere gjennom de fleste menyer og funksjoner, og vi er spesielt glad for "OK"-knappen. 
+Den brukes ikke bare til å bekrefte valg og lignende, den kan også avslutte aktive programmer. 
+Windows Mobile er notorisk kjent for å la programmer fortsette å kjøre i bakgrunnen uten det er behov for det, noe som blant annet spiser opp hukommelse og ørlite batteritid. 
+
+En av de andre knappene du skal bruke mye er Panel. 
+Den aktiverer de mye omtalte panelene, og det var først og fremst her Xperia X1 skulle sett inn et av sine nådestøt. 
+Slik er det ikke. 
+De føles mer som litt kløe i huden etter et myggstikk enn et dødelig slag mot konkurrentene. 
+
+Den store firkanten midt på knapperaden er ikke helt som resten av tastene: 
+Den fungerer som en slags styreflate i miniatyr, hvor du kan flytte markøren rundt på skjermen ved hjelp av små, glidende bevegelser. 
+Det er ingen grensesprengende opplevelse - løsningen virker av og til noe knotete -, og er blant annet tidligere prøvd ut av Samsung. 
+I små doser fungerer den uansett tilfredsstillende. 
+
+Miniatyr 
+
+Panelene er ikke noe annet enn mini-programmer som har fått sitt eget vindu på hovedskjermen. 
+Som standard får du med sju slike paneler på X1, som gir deg alt fra en oversiktsskjerm med kalender, mottatte sms-er, epost og så videre, til blant annet et Google-panel (snarvei til Google-funksjoner), multimedia-panel (tilgang til egne video- og musikkfiler) og fotopanel (bla deg gjennom bildebiblioteket). 
+
+Det er også mulig for hvem som helst å utvikle nye paneler, som så kan lastes ned gratis av brukeren. 
+Vi prøvde blant annet et panel for nettsidene til coolhunting.com, men det er ikke stort mer enn en liten portalside for - nettopp - Cool Huntings nettsider. 
+Den tar i tillegg lang tid å få opp, og trykker du på en av sakene sendes du simpelthen videre til Xperias nettleser, hvor artikkelen lastes ned. 
+
+Det er alt. 
+
+Løsningen med slike overbygg er ikke ukjent for de som allerede har vært borti Windows Mobile-telefoner fra for eksempel HTC, som også har laget overflatiske skall-løsninger for å forenkle navigeringen. 
+
+Kjør paneldebatt! 
+
+Det paradoksale med disse overflatene er at de kan tolkes som en slags innrømmelse av at det underliggende operativsystemet 
+- Windows Mobile - er for komplisert til at det kan brukes som det er. 
+Derfor må det dekkes over for å tilfredsstille brukere som ikke nødvendigvis har behov for den utrolige mengden valgmuligheter WM tross alt tilbyr, men da gjenstår fortsatt spørsmålet om hvorfor ikke brukeren simpelthen bare bør kjøpe en enklere - og rimeligere - telefon? 
+
+Et annet problem med panelene og tilsvarende løsninger er at så snart du klikker deg videre til for eksempel kalenderen eller epost-leseren, befinner du deg midt i kjernen av Windows Mobile 6.1. 
+Da ser plutselig operativsystemet ut som noe helt annet enn stedet du kom fra, og det gjør denne todelingen ekstra problematisk. 
+
+For hvor er helhetstanken? 
+
+Hakker og stotrer 
+
+Bedre blir det ikke når de elegante panel-animasjonene fra Xperia-reklamevideoene er erstattet med hakkete og alt annet enn elegante bevegelser i virkeligheten. 
+Å orientere telefonen fra vertikal til horisontal posisjon skulle og burde vært en liten oppvisning, men isteden hoster og harker ikonene seg fra et sted til et annet som en influensasyk pensjonist når du skyver ut (og skyver tilbake igjen) tastaturet. 
+
+På toppen av det hele tar det i snitt fire-fem sekunder fra orienteringen begynner til den er ferdig, noe som føles som en liten evighet. 
+Den samme tregheten går igjen når flere av panelene aktiveres, og ved andre, generelle operasjoner som ikke har med panelene å gjøre, men med Windows Mobile. 
+
+Her kan du se en liten videosnutt som demonstrerer hva vi mener: 
+
+Har alt 
+
+Når det er sagt, så står ikke Xperia X1 tilbake for andre, tilsvarende Windows-modeller når det kommer til spesifikasjonene - med unntak av kameraet. 
+
+Det hjelper ikke med 3.2 megapiksler når bildene ofte blir ufokuserte eller ser ut som om noen har vært altfor hardhendte med komprimerings-innstillingene i Photoshop. 
+Selv utendørsbilder i fullt dagslys ender opp med å se middelmådige ut, og er ikke i nærheten av for eksempel Nokias toppmodeller fra N-serien. 
+
+Grepet er dessverre heller ikke spesielt solid, ettersom du stort sett ender opp med å presse mot den delen av telefonen som skyves ut, og dermed får følelsen av at grepet så vidt glipper hver gang du trykker ned utløseren. 
+
+Sony Ericsson har dog gjort et smart grep i forbindelse med den manuelle fokuseringen. 
+Du kan simpelthen velge tingen(e) eller personen(e) som skal være i fokus ved å trykke på skjermen før du knipser, noe som forenkler fokuseringsjobben betraktelig. 
+
+(Du kan se bilder tatt med telefonen i full oppløsning her, her, her og her.) 
+
+Multimedia 
+
+Musikk- og filmavspillerpanelet er identisk med multimediedelen på Sony Ericssons nyere Walkman-mobiler, og det er bra. 
+Det er en effektiv og pen måte å navigere seg gjennom samlingen på, inspirert (antar vi) av det lekre grensesnittet til Sonys minispillkonsoll, PSP. 
+
+Xperia har heldigvis også standard hodetelefonutgang som passer alle hodetelefoner (3.5mm jackplugg), noe allerede nevnte HTC fortsatt ikke har funnet plass til på sine Windows Mobile-mobiler. 
+Lydkvaliteten er utmerket, og nivået like så. 
+Vi hadde for eksempel ikke problemer med å drive et par større Beyerdynamic-hodetelefoner. 
+
+Det slippes få proffmobiler i disse dager som ikke har GPS, eller A-GPS for å få være helt nøyaktig, og Xperia er ikke noe unntak. 
+Den er like enkel som den som befinner seg på for eksempel Apples iPhone, som vil si at grafisk punktnavigering via Google Maps. 
+Den som vil ha lyd-navigering med ruteinstruks må med andre ord betale for tjenesten. 
+
+Knivskarp 
+
+Den tre tommer store skjermen er et kapittel for seg. 
+Den har en oppløsning på hele 800 x 480, og er noe av det skarpeste og mest behagelige vi har sett på en mobil noensinne. 
+Bredformatet gjør den dessuten gunstig til å se film, selv om den beskjedne betrakningsvinkelen kombinert med blank skjermoverflate har en tendens til å gjøre blant annet mørke scener en smule anstrengende for øynene. 
+
+Når det kommer til nettlesere gir Xperia deg to valg: 
+Internet Explorer i sedvanlig Windows Mobile-innpakning, eller Opera Mobile. 
+Det er ikke tvil om hva som fungerer best, og det er det norske alternativet. 
+Explorer er i det store og det hele tung og treg, og tegner dessuten opp en rekke vanlige nettsider med til dels alvorlige feil. 
+Opera er atskillig mer elegant og langt kjappere, og sammenliknet med Explorer en fryd å bruke. 
+
+Konklusjon 
+
+Hvis du har fulgt oss helt ned til konklusjonen er du nok ikke overrasket over at vi ikke har blitt forelsket i Xperia. 
+
+Vi sliter rett og slett med å se poenget. 
+Er du Windows Mobile-tilhenger finnes det en rekke alternativ til Xperia, for eksempel fra Samsung og HTC, og noen av modellene er priset godt under de nesten 6000 kronene (uten abonnement) du må ut med for Sony Ericssons WM-alternativ. 
+
+Xperia føles tidvis mer som et slit enn som den relativt sømløse brukeropplevelsen enn mobiltelefon helst skal tilby, og sammenliknet med gleden som akkompagnerer bruken av - vi må si det - en iPhone, er dette milevis unna. 
+
+Det blir for så vidt en ganske urettferdig sammenlikning, all den tid mange hardbarka forretningsmennesker vil finne skrikende mangler ved Apple-telefonen. 
+Problemet er bare at Sony Ericsson har laget panelene sine for å forenkle Windows Mobile-opplevelsen, men hvorfor skal en betale en skyhøy pris for en forenklet opplevelse når en kan kjøpe en billigmobil som har både kalender, mp3 og videospiller, bildeviser, kamera og GPS? 
+Og hvis en tilhører det avanserte segmentet, hvorfor skal en velge Xperias paneler når det finnes andre som gjør paneljobben langt bedre? 
+
+Tilhører du bedriftsmarkedet er Nokia E71 i våre øyne et langt bedre, langt kjappere og langt morsommere produkt enn Xperia X1, og det for nesten 2500 kroner mindre. 
+
+Det sier jo litt. 

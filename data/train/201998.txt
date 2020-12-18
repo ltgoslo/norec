@@ -1,0 +1,241 @@
+Windows Phone 7 Mango
+Norsk språk, norsk tastatur og norsk app-butikk. 
+Men noe mangler fortsatt. 
+
+- Vent med Windows Phone 7, sa Microsoft til nordmenn tidligere i år. 
+
+Med god grunn. 
+
+Operativsystemet har nemlig aldri blitt offisielt lansert her til lands, og dermed har telefoner på norsk jord med Windows Phone 7 (WP7) kjørt en slags halvveisversjon. 
+Uten norsk tastatur, uten norske menyer og uten tilgang til hele app-butikken Marketplace har WP7 vært uaktuelt for mange nordmenn. 
+
+Inntil nå. 
+
+Mango, eller Windows Phone 7.5, er den versjonen som skal opp på norske reklameplakater og åpne norske øynene for noe annet enn iPhone og Android. 
+Versjonen er nå tilgjengelig for LG Optimus 7, og vil komme til flere telefoner, både gamle og nye, utover høsten. 
+
+Nå bør norske forbrukere kjenne sin besøkelsestid. 
+WP7 har blitt en moden frukt alle bør smake. 
+
+Vil du ha Mango med én gang? 
+Våre kolleger i Itavisen har oppskriften! 
+
+Pent som alltid 
+
+DinSide har tilbrakt over en uke med en Mango-fisert LG Optimus 7. 
+Maskinvaren skal vi la ligge. 
+Det er de myke pakkene som er interessante. 
+
+Vi har allerede testet telefonen: 
+HTC 7 Trophy vs. LG Optimus 7 
+
+Om du har vært borte i WP7 tidligere blir du ikke blåst av stolen når du fyrer opp Mango-versjonen. 
+Men er dette ditt første møte med Microsofts mobilsatsning, bør du bør gripe et ekstra godt tak rundt armlenene. 
+
+For WP7 er annerledes, og pent. 
+Det er fristende å si at dette er det peneste mobile operativsystemet på markedet. 
+Nei, vet du hva, jeg sier det: WP7 er penest. 
+
+Operativsystemet flyter nå enda glattere enn tidligere og de store bokstavene, ensfargede boksene og minimalistiske menyene er en fryd å jobbe med. 
+Microsofts Metro-design får alt til å se lekkert ut, alt fra innstillinger til epost. 
+Og snarveiene på hjemskjermen, "flisene", er både pene og tidvis kjekke. 
+
+I så måte blir det en nedtur å levere fra seg denne telefonen og gå tilbake til Android. 
+
+Mer om det senere. 
+Først: 
+En tur gjennom noen av nyhetene! 
+
+Dette har de fikset 
+
+Da vi testet WP7 for første gang i november i fjor, listet vi opp en rekke ting vi savnet i systemet. 
+
+Mange av disse har nå blitt ordnet opp i. 
+Blant annet: 
+
+Full tilgang til Marketplace 
+At det tok omlag et år er latterlig, men nå er det her. 
+Du kan nå både kjøpe og prøve apper. 
+Er du glad i spill, er WP7 overraskende innfriende, med Xbox Live-støtte og mange kvalitetsspill med pen grafikk. 
+Mange av appene er også lekre. 
+Mange norske apper er allerede på plass, som løsninger for Yr og Trafikanten. 
+Men fortsatt mangler det mye. 
+Apper andre kan laste ned, som IMDB og den offisielle Twitter-appen, er ikke tilgjengelige for nordmenn ennå. 
+Dette skal komme. 
+Og fortsatt mangler det blant annet apper for populære tjenester som Spotify, Wimp, NRK og Springpad. 
+Dette skal også komme. 
+Spørsmålet er bare når. 
+
+For Wimps vedkommende gikk det fort: 
+Wimp er klar for WP7 allerede nå! 
+
+Forøvrig har Microsoft i likhet med Apple strenge regler for hva utviklere kan tukle med og ikke. 
+Blant annet kan du bare glemme å installere alternative tastaturer, slik man kan på Android. 
+
+Norsk tastatur og ordbok Tastaturet på WP7 er strålende, og har nå Æ, Ø og Å. 
+Man har også norsk ordliste. 
+Den er et tveegget sverd som på alle andre telefoner, og retter til tider ting som ikke er feil i det hele tatt. 
+En irriterende detalj er også at "feilstavede ord" (les: ord WP7 ikke har hørt før) får en rød strek under seg som i Word. 
+Fordelen er at disse raskt kan legges til i ordlisten din. 
+
+Klipp og lim 
+Det skulle bare mangle, men WP7 har nå en utklippstavle. 
+Ord markeres ved å trykke på dem, og man kan markere setninger ved å dra markeringen. 
+Dette er noen ganger en prøvelse, da markeringen ikke alltid følger dine ordre, men går som regel greit. 
+
+Bakgrunnskjøring 
+En av de store nyhetene i Mango er multitasking. 
+Ved å holde inne bakover-knappen får du oversikt over de fem siste appene du har brukt, og bytting mellom disse er både glatt og pen. 
+For å lukke en app trykker du på tilbakeknappen mens du er inne i appen, helt til du kommer til hjemskjermen. 
+Dessverre virker det ikke som alle apper er tilpasset denne nye muligheten, og blant annet Facebook-appen starter seg selv på nytt hver du går inn i den. 
+
+Enhetlig innboks Mango lar deg snekre sammen egne innbokser med så mange epost-kontoer du ønsker. 
+Disse kan så legges på hjemskjermen. 
+Selv bruker jeg en innboks til privat epost (to Gmail- og én Hotmail-adresse), en innboks til all jobb-epost (Outlook) og en innboks til jobb-epost som kun er sendt til meg (en Outlook-mappe). 
+En annen gledelig nyhet er at epost-samtaler vises som tråder, slik man kjenner det fra blant annet Gmail. 
+
+Her er en gjennomgang av det pene grensesnittet i WP7: 
+
+Dette har de ikke fikset 
+
+Men slett ikke alle ankepunktene våre er rettet opp. 
+
+Blant annet består fortsatt disse problemene: 
+
+Ikke Flash eller Silverlight-støtte i nettleser Microsoft vil ikke støtte sin egen standard Silverlight, og heller ikke Flash. 
+HTML5, derimot, støttes til gangs. 
+Faktisk kan du for eksempel spille musikk fra nettsiden Beat.no, og styre musikken på låsskjermen, via HTML5-standarer. 
+Og nettleseren er så glatt og rask at det er vanskelig å ikke bli glad i den. 
+
+Ikke full støtte for Google Calendar Dette er fullstendig uforstålig. 
+Du kan kun bruke hovedkalenderen fra Google-kontoen din. 
+Har du flere kalendere, noe mange jo har, kan du bare glemme å se dem alle på telefonen. 
+Noen hevder dette er Googles feil, og det finnes metoder for å rette på dette, men det oppleves likevel som en stor og irriterende mangel. 
+Selv måtte vi slå sammen våre kalendre i én for å komme rundt problemet. 
+Ingen god løsning. 
+Til gjengjeld kan du få Facebook-arrangementer inn i kalenderen, noe vi liker. 
+
+Ikke andre søkemotorer enn Bing Søkeknappen på WP7 er nå ubrukelig. 
+Rett og slett. 
+Tidligere gjorde den ulike ting ut fra hvor du befant deg på telefonen, for eksempel søkte den opp kontakter om du trykket på den i kontaktlisten din. 
+Slik Android-telefoner gjør. 
+Ifølge Microsoft var dette forvirrende, så nå gjør knappen kun én ting: 
+Åpner Bing-appen. 
+Og dette kan ikke endres. 
+Dermed får du en knapp på telefonen din som i våre øyne er ubrukelig, om du foretrekker for eksempel Googles søk fremfor Microsoft sitt. 
+
+Vi savner også et skikkelig varslingssystem. 
+Får du en ny tekstmelding dukker det opp et varsel øverst, som du kan trykke på der og da. 
+Men senere må du selv legge merke til at meldingsflisen din har oppdatert seg. 
+Nå som også iPhone får et varslingssystem, som likner urovekkende mye på Android sitt, er det rart ikke også WP7 har kastet seg på ballen. 
+
+Sosial telefon 
+
+Det er ikke bare mangler vi tidligere har påpeket som er rettet opp. 
+Andre, nye funksjoner har også kommet. 
+
+Blant annet er WP7-telefonene nå gjennomsyret av sosiale medier. 
+Du kan legge til Twitter-, Facebook- og LinkedIn-kontoer, og bruke telefonens egne apper for å holde deg oppdatert. 
+
+Ved å koble sammen kontaktene dine med deres sosiale kontoer, kan du for eksempel holde deg oppdatert fra samme sted hvor du går inn for å ringe dem. 
+Ved å lage kontaktgrupper, for eksempel en for kameratene eller veninnene dine, og legge denne som en flis på hjemskjermen, kan du enkelt finne ut hva som skjer i gjengen ved å få oppdateringer fra bare dem, på ett sted. 
+Du kan også bruke disse gruppene for å raskt finne telefonnummeret deres, eller sende en tekstmelding til alle på likt. 
+
+Det sosiale aspektet kan dog gå begge veier. 
+For eksempel: 
+Om du vil være tilgjengelig for chat på MSN og Facebook, dukker chat-meldingene du skriver opp sammen med vanlige tekstmeldinger. 
+Dette kan ikke endres på, ifølge Microsoft. 
+Du kan også få vel mange kontakter plutselig, som du ikke har noen interesse av å gjøre noe telefonisk med. 
+Det hele kan rett og slett bli rotete. 
+
+Blant annet derfor foretrekker vi å bruke egne Facebook- og Twitter-apper for å holde oss oppdaterte, og heller bruke den sosiale integrasjonen til enkle ting som å få bilder i kontaktlisten vår eller dele bilder direkte fra album. 
+
+Office-telefon 
+
+En annen nyhet er Office-tilgangen. 
+
+Gjennom Microsofts gratis lagringstjeneste SkyDrive, nettløsningen Office 365, Sharepoint eller ved å bare jobbe lokalt, kan du lese, redigere og lage Office-dokumenter på telefonen. 
+
+Du kan lage helt nye Word- og Excel-dokumenter, samt OneNote-notater. 
+I tillegg kan du vise og redigere PowerPoint-presentasjoner. 
+
+At du skal sitte på telefonen og utforme infløkte regneark er selvfølgelig heller urealistisk, men Microsoft legger ved blant annet maler for å oppføre golfresultater, og ved å feste OneNote-notater på hjemskjermen har man plutselig et greit alternativ til apper som Springpad og Evernote. 
+
+Grensesnittet er, som det alltid er på WP7, både pent og enkelt. 
+
+Her er noen av appene som er tilgjengelige for nordmenn nå: 
+
+WP7 + PC = Trøbbel 
+
+WP7 er annerledes enn resten av gjengen. 
+Det er operativsystemet mange vil enten hate eller elske. 
+Selv elsker vi deler av det, og hater andre. 
+
+Vi hater blant annet hvordan WP7 legger seg tett inntil iPhone når det gjelder innlåsing. 
+Dette har ikke endret seg med oppdateringen. 
+
+Vil du overføre musikk, bilder og video til eller fra datamaskinen din, noe man jo gjerne vil, må du gjøre dette via Zune-programvaren. 
+Dette tilsvarer Apples iTunes, og det er også Zune du må registrere deg hos om du vil kjøpe apper. 
+Forvirrende til tider, og ekstremt irriterende til andre tider. 
+Bruker du Mac, må du bruke iPhoto for bilder og iTunes for musikk, men gjennom en Zune-løsning. 
+Jada. 
+
+Og neida: 
+Du får ikke opp telefonen som en stasjon, slik til og med iPhone gjør, for å overføre bilder og filmer. 
+Microsoft er tydeligvis enig med Apple om at filer er gammeldags. 
+Selv hevder de dette dreier seg om sikkerhet. 
+Vi hevder dette er meningsløst. 
+
+En fordel med Zune er at alle videoer du får overført garantert fungerer på telefonen. 
+De fungerer forresten veldig bra, også. 
+
+Bildene du tar med telefonen kan automatisk lastes opp til Microsofts gratis lagringstjeneste Skydrive. 
+Men de blir kraftig forminsket, og dermed blir ikke dette noe alternativ til Zune. 
+
+Ikke helt klar for Norge 
+
+Mye av poenget med Mango er å ha en splitter ny versjon når nordmenn nå endelig får ta del i moroa. 
+Men for at nordmenn skal være klare for WP7, må WP7 være helt klar for nordmenn. 
+
+Og det er den ikke. 
+Microsoft vil ha deg til å tro det, men det er løgn. 
+
+Det er fortsatt ting som er stengt for oss i nord. 
+Leser du for eksempel om en fin WP7-app på nettet, er det slett ikke sikkert du får lastet det ned. 
+Rett og slett fordi du bor i Norge. 
+
+"Vi har dette på radaren, og spurt IMDB og andre pent om å slippe dette utenfor USA. 
+Men vi kan ikke presse dem så lenge de ikke er klare" svarer Microsoft Norge når DinSide spør. 
+
+Et annet problem er kartet som følger med. 
+Dette baserer seg på Microsofts Bing-tjeneste; en tjeneste som ikke er helt klar for vårt moderland riktig ennå. 
+Dermed får du kun én funksjon i kartet: 
+Se hvor du befinner deg. 
+Du kan ikke engang søke opp en adresse. 
+
+"Bing er ikke lansert på norsk, og derfor begrenset så lenge man bruker norsk som søke- og nettleserspråk. 
+Inntil Bing lanseres i Norge vil dette være slikt" sier Microsoft. 
+
+Dette er selvfølgelig problemer som forhåpentligvis vil forsvinne ganske snart. 
+Men vær klar over prisen man betaler ved å være tidlig ute. 
+Slik er det alltid. 
+
+Gledelig er det at WindowsPhone.com fungerer utmerket i Norge. 
+Tjenesten lar deg blant annet se hvor telefonen din befinner seg på et kart, eller få den til å ule om du har mistet den bak sofaen. 
+For som kjent er det ikke alltid så lett å ringe telefonen når du har mistet telefonen du skulle bruke til å ringe telefonen. 
+
+Derfor bør du vurdere WP7 
+
+Listen over ting vi savnet i WP7, men som nå er på plass, er langt lenger enn listen over det som fortsatt mangler. 
+
+Vi likte godt systemet da det først så dagens lys, og vi liker det enda bedre nå. 
+Forhåpentligvis vil de nye Mango-mobilene få luft under vingene i løpet av høsten, spesielt Nokia sine, og dermed vil for eksempel utvalget av apper eksplodere. 
+Dessuten er apper langt fra det viktigste for alle. 
+
+Det er noe med følelsen man får av å bruke noe splitter nytt som appellerer voldsomt i WP7. 
+Borte er de lange listene med apper, de "fotorealistiske" ikonene og følelsen av å se noe man har sett hundre ganger tidligere. 
+Igjen sitter du med smarte løsninger, stilsikker design og følelsen av å se fremtiden i hvitøyet. 
+
+Så vil du ha et operativsystem som føles like bra som det virker, som er så pent at det blir gøy å lese kjedelige jobb-eposter og som hviler på skuldrene til en gigant som garantert ikke vil skuffe sine mobilkunder fremover, må du unne deg selv en tur innom nærmeste mobilbutikk i høst for en skikkelig munnfull Mango. 
+
+Det er tross alt ikke alle som elsker epler. 

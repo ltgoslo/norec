@@ -1,0 +1,52 @@
+D-link DIR-652
+Gigabit-ruter til hjemmebruk - trenger du det? 
+
+Mange internett-tilbydere leverer en boks som både er modem og ruter med WLAN (trådløst nett). 
+Men det er ikke alltid at denne boksen tilfredsstiller de som stiller krav til litt mer avansert nettbruk. 
+Andre tilbydere leverer enklere tilkoblinger og lar det være opp til brukeren å anskaffe ruter som passer til bruken. 
+
+For de som har flere datamaskiner, en hus-server, flere smartmobiler og kanskje spillkonsollerer og mediespiller i tillegg, blir det fort behov for en ruter med gode egenskaper. 
+
+D-link DIR-652 
+
+DIR-652 er en ruter beregnet på moderne nettbruk med krav til høy hastighet på hjemmenettverket. 
+Derfor er den utstyrt med fire porter som støtter Gigabit nettverk. 
+De aller fleste stasjonære datamaskiner som har vært solgt i de siste årene har nettverkskort som støtter dette, det samme gjelder nyere bærbare og NAS-enheter. 
+
+Skrivere, mediespillere og spillkonsoller støtter som regel ikke mer enn 100 Mbit nettverk. 
+
+I den trådløse delen har DIR-652 støtte for 802.11n, men bare på 2,4 GHz. 
+Dette er tilstrekkelig for de fleste formål, men hvis man er omgitt av svært mange andre trådløse nett kan det være en fordel å bruke rutere som også opererer på 5GHz-båndet. 
+Dette støttes ikke av så mange klienter, og har ikke like lang rekkevidde så det er heller ikke alltid dette er noen bedre løsning enn 2,4 GHz. 
+
+I bruk 
+
+Ruteren er kjapp å sette opp. 
+Har man ikke satt opp noen ruter tidligere kan man bruke installasjonsprogrammet som ligger på CD-en som følger med. 
+Er man allerede kjent med rutere er det bare å skrive inn ruterens IP-adresse (som står på undersiden av ruteren) i nettleseren og kjøre veivisere eller manuelt oppsett derfra. 
+
+DIR-652 støtter alle standardfunksjoner som forventes av rutere, og konfigurasjonsoppsettet er oversiktlig og greit. 
+
+Trenger du kontroll over brukerne av nettverket kan du sperre for tilgang til nettsteder ved å føye dem til i listen: 
+
+Ruteren kan også prioritere trafikken avhengig av hva som krever rask respons (spill, video og andre sanntidsoppgaver). 
+Dette er i utgangspunktet satt opp automatisk, men er du vel bevandret i protokollene kan du føye til programmer og porter på listen og sette prioriteringen manuelt. 
+
+Vi likte også støtten for trådløse gjester. 
+Du kan settes opp ett eget nett, med eget navn (SSID) og sikkerhetsløsning, som fungerer uavhengig av det andre trådløse nettet. 
+Her kan du også velge om brukerne skal få tilgang til de delte nettverksresursene eller ikke. 
+
+Rekkevidde 
+
+I vårt trehus har vi alltid plassert og testet rutere oppunder mønet midt i huset, der vi har tilkobling fra nettleverandøren og vårt hjemmekontor på hemsen. 
+
+Herfra bød DIR-652 på god dekning ned i 2. etasje, 1. etasje og nede i kjelleren. 
+
+Ut fra huset dekket den også terrassen og ca 20-30 meter utover i hagen, avhengig av hindringer. 
+Med garasjen i mellom (ca 30 meter fra ruteren) var det ikke brukbar dekning, her er det også mange andre nettverk i nabolaget. 
+
+Konklusjon 
+
+DIR-652 er en ruter som er enkel å sette opp for enkel bruk, men har i tillegg støtte for det aller meste av det avanserte og krevende brukere forlanger. 
+
+Rekkevidden er utmerket, og med våre 8 klienter merket vi ingen problemer. 

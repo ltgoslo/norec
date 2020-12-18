@@ -1,0 +1,136 @@
+Lenovo Thinkpad Twist
+Ny Ultrabook med en vri. 
+Vi har testet. 
+
+Twist er en ultrabook i den velkjente Thinkpad-serien fra Lenovo, med en skjerm som kan dreies helt rundt og klappes over tastaturet. 
+
+Dermed kan også denne maskinen brukes som nettbrett via den berøringsfølsomme skjermen. 
+
+Maskinen føyer seg dermed inn i den sterkt voksende hybrid-kategorien, der vi tidligere har testet Samsung ATIV Smart PC Pro og Dell XPS Duo 12. 
+
+Modellen er utstyrt med en 12,5" IPS-skjerm, og kommer i en rekke forskjellige konfigurasjoner, inkludert mulighet for 3G-kort for mobildata. 
+Prosessoren er enten av typen Core i5 ULV eller Core i7 ULV, og man kan velge å få den levert med 500 GB harddisk eller 128 GB SSD. 
+
+Vårt testeksemplar har følgende sentrale spesifikasjoner: 
+
+Skjerm: 12,5" IPS berøringsskjerm (Gorilla Glass), 1366 x 768 piksler Prosessor: 
+Intel Core i5 3317U RAM: 
+4 GB (maks 8) Grafikkort: 
+Intel HD 4000 Lagring: 500 GB harddisk (7200 rpm) + 24 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+Mini DisplayPort + Mini-HDMI USB-porter: 2 x USB 3.0 Webkamera: 720P Kortleser: 
+4-i-1 Trådløst nett: 
+802.11a/b/g/n Kablet nett: 10/100/1000 Mbit Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Pro Størrelse: 313 × 20 × 236 mm Vekt: 1,59 kg Pris: 
+Fra 8.108 kroner inkl mva (Kilde: 
+Prisjakt 2.1.2013) 
+
+Rent spesifikasjonsmessig er det lite som trigger wow-faktoren hos testpanelet – det måtte i så fall være at maskinen er utstyrt med Pro-utgaven av Windows 8. Mini DisplayPort er heller ikke veldig vanlig, og gjør det mulig å koble PC-en til ekstern skjerm med høyere oppløsning enn full HD (1920 x 1080 piksler). 
+Maskinen har ikke noe dokkemuligheter, noe enkelte proff-brukere nok vil savne. 
+
+Solid 
+
+PC-en har en lett gumiert overflate, materialet er magnesium. 
+Det gir et meget solid inntrykk, men merk at den matte overflaten lett viser fettflekker. 
+
+Når lokket er stengt eller maskinen brukes i "nettbrettmodus", er den 2 cm tykk over det hele. 
+Ikke spesielt tykt for en PC, men mer enn dobbelt så tykt som et "rent" nettbrett, og maskinen veier også mer enn dobbelt så mye som en vanlig iPad. 
+Dette er utfordringer ved hybrider vi regner med vil ta en generasjon eller to for å få løst. 
+
+Alle tilkoblinger sitter på venstre og høyre side. 
+Av/på-bryteren sitter ved siden av skjermen. 
+Der finner du også en låseknapp for skjermorienteringen. 
+Den virker kun når du bruker maskinen i nettbrettmodus. 
+
+Enkelt 
+
+Å dreie skjermen rundt er svært enkelt, takket være det midtstilte leddet: 
+
+Deretter er det bare å klappe baksiden av skjermen over tastaturet, og du har et nettbrett: 
+
+Berøringsfølsomheten opplever vi som meget god i Windows 8-grensesnittet. 
+Den klassiske skrivebordsmodusen er imidlertid krøkkete å bruke med berøringsfølsomhet, og vi opplevde gang på gang å bomme på knapper og menyer. 
+Det er imidlertid ikke Lenovo Thinkpad Twist alene om. 
+Det er bare å innse at det klassiske Windows-grensesnittet fungerer hundre ganger bedre med mus. 
+Ferdig snakka. 
+
+Trøblete museknapper 
+
+Twist har - i god Thinkpad-ånd - både pekeplate og den røde, karakteristiske styrepinnen som mange entusiaster sverger til. 
+Vi likte sistnevnte klart best. 
+Det viste seg nemlig at musepekeren hadde en lei tendens til å flytte på seg når vi trykket på de integrerte venstre- og høyreknappene på pekeplaten, videoen under illustrerer problemet: 
+
+Vi håper og tror dette er driverpoblematikk som vil bli rettet ved fremtidige oppgraderinger. 
+De to knappene som akkompagnerer styrepinnen har ikke dette problemet. 
+
+Maskinen leverer derimot meget godt når det kommer til tastatur. 
+
+Det har de karakteristiske, lett buede Lenovo-tastene, og representerer kort og godt noe av det beste du får i klassen. 
+Fast og fint med meget god respons, perfekt for lange skriveøkter. 
+
+Slik er den i bruk 
+
+Fra du skrur på PC-en til du er klar for å jobbe i Windows 8 tar det 27 sekunder. 
+Det er vesentlig tregere enn på de fleste ultrabookene som har ren SSD, men bedre enn mange maskiner med vanlig harddisk. 
+Det skyldes SSD-delen på 24 GB, som sørger for å hurtigbufre filer som benyttes ofte. 
+
+Det er imidlertid viktig å huske på at dette er en kompromissløsning som sannsynligvis vil være borte om ett år eller to - når rene SSD-er er blitt billige og romslige nok til å kunne erstatte harddisker helt. 
+
+En del rusk i systemet 
+
+Windows og programmene er brukbart konfigurert, og maskinen reagerer kjapp og responsivt i de fleste tilfeller. 
+Den er også meget stillegående, selv ved moderat belastning. 
+
+Det er imidlertid litt å sette fingeren på. 
+For det første er en del av den norske oversettelsen ubegripelig dårlig: 
+
+For det andre er det enkelte glipper som burde vært luket ut, som her - ved valg av strømspareplan: 
+
+For det tredje er PC-en utstyrt med prøveversjon av sikkerhetspakke fra Symantec, som på et tidspunkt tvinger deg gjennom en registreringsprosess: 
+
+Merk at Windows 8 har svært omfattende sikkerhet innebygd, og for mange brukere vil Symantec-pakka av den grunn oppleves som overflødig. 
+
+For det fjerde opplevde vi at lysstyrken på skjermen gikk opp og ned av seg selv, uavhengig av belastning. 
+Dette, sammen med problemene med museknappene på pekeplaten, er ting vi regner med kan rettes ved fremtidige oppdateringer av fastvare/drivere, men dog greit å være klar over. 
+
+Ytelsesmålinger 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+4,4 Spillgrafikk: 
+6,1 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsestallene mot de to nevnte hybridene, samt to andre, meget relevante modeller vi har testet den siste tiden: 
+
+Ingen store overraskelser her. 
+Prosessoren yter det du kan forvente av en i5 ULV-prosessor av siste generasjon. 
+Det betyr rask ekspedering av alle kontor- og multimedieoppgaver 
+
+Mer enn kraftig nok til dagens krevende multimedieoppgaver, men dette er ikke PC-en du velger hvis du er opptatt av å spille de seneste spillene med alle detaljer aktivert. 
+
+Ytelsesforskjellen mellom harddiskbaserte løsninger som i denne PC-en, og rene SSD-er, er påfallende. 
+Det merkes spesielt godt ved oppstart av PC-en og åpning av store programmer og filer. 
+SSD er klart å foretrekke til alt annet enn kapasitet. 
+
+Batteriet holdt i 6 timer med minimal belastning, med standardinnstillingene. 
+Det er 1 time mindre enn hva Lenovo antyder i sin markedsføring. 
+Ved kontinuerlig filmavspilling holdt batteriet i 3 timer. 
+Sammenlignet med de nevnte modellene ser det slik ut: 
+
+Konklusjon 
+
+Lenovo Thinkpad Twist er en solid bygd maskin med et av markedets beste tastaturer. 
+Den er også stillegående, og byr på Pro-utgaven av Windows 8. Designmessig er den også pen, mener vi. 
+
+Det er imidlertid også en maskin som oppleves som noe uslipt når det kommer til det program- og drivermessige. 
+Legg til moderat skjermoppløsning og ytelse, og du får en maskin som aldri snuser på noe mer enn midtskiktet. 
+I mangel på karakteren 3,5 havner vi til slutt på en svak firer på terningen, og vår favoritt av Windows 8-hybridene er fortsatt helt klart Dell XPS Duo 12. 
+Men flere modeller er på vei til testlabben vår, det er bare å følge med i tiden fremover. 
+
+Se plussene og minusene i oppsummeringsboksen før du eventuelt bestemmer deg for en Lenovo Thinkpad Twist. 
+
+Lenovo ThinkPad Twist S230u 3347-27G N3C27MN 

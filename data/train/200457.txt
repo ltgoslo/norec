@@ -1,0 +1,83 @@
+Lexmark X4650
+TEST: 
+Nå kan du altså få en trådløs alt-i-ett-skriver til 795 kroner. 
+Vi har testet. 
+
+Det aller meste innen data- og forbrukerelektronikk har blitt vesentlig billigere de siste årene. 
+Og blant produktene som har falt mest i pris, ligger skrivere og multifunksjonsprodukter høyt på listen. 
+
+LES OGSÅ: 
+
+Lexmark har i flere år vært blant de mest hissige produsentene når det gjelder pris, og våre tester har avslørt at produktene har vært bedre egnet for brukere som bare trenger en skriver for å få en utskrift i ny og ne, enn entusiasten som verdsetter kvalitet og hastighet. 
+
+Nå er imidlertid Lexmark på banen med nye multifunksjonsprodukter, med fine spesifikasjoner og nok en gang svært behagelige priser. 
+Modellen X4650, som vi har testet, har for eksempel en veiledende prislapp på 795 kroner. 
+
+Spesifikasjonensmessig er det derimot lite som skulle tilsi en så lav pris: 
+
+Skriver, skanner og kopimaskin 4800x1200 dpi oppløsning på utskrifter, 600 dpi/36 bit skanner Kantløse fotoutskrifter USB og trådløst nettverk (802.11b/g) 
+Kortleser i fronten for de vanligste minnekortene, minneplugger og kamera (PictBridge) Betjeningspanel med LCD (norsk tekst), med blant annet ettrykks kopiering Programvare for bilde- og utskriftsbehandling, samt skanning og OCR (tekstgjenkjenning) 
+
+Det mest oppsiktsvekkende er naturligvis den trådløse støtten, som gjør det mulig å dele skriveren og sette den hvor som helst i huset uten å måtte tenke på kabling. 
+Det i seg selv er ikke uvanlig i dag, men i denne prisklassen hører det med til sjeldenhetene. 
+
+(Artikkelen fortsetter etter bildet) 
+
+Det følger med en driver- og program-CD som fungerer både med Windows og MacOS. 
+Vi testet skriveren med Windows Vista. 
+Hele installasjonsrutinen går på norsk, og du får en meget god og beskrivende hjelp til prosessen gjennom veivisere underveis. 
+Her er det nesten umulig å tråkke feil. 
+
+Programmene som følger med inkluderer Lexmark Productivity Studio og Abbyy Fine Reader Sprint 6.0. 
+Førstnevnte er en alt-i-ett-løsning for utskrifts- skanne- og kopihåndtering, og er meget brukervennlig og relativt funksjonsrikt. 
+Fine Reader inneholder en OCR-modul som gjør det mulig å omgjøre tekst på papir til redigerbar tekst på datamaskinen. 
+
+Vi har installert mange skrivere, men sjelden opplevd at det har vært mer rett fram enn her. 
+Etter få minutter var vi klare til å kjøre de første testene. 
+
+Vurdering av utskriftene 
+
+Vi kjørte først noen testutskrifter, og fant fort ut at skriveren er relativt kjapp på tekstutskrifter. 
+Fem sider var skrevet ut på 40 sekunder, det er ca 15 sekunder tregere enn de raskeste vi har testet, men absolutt godkjent. 
+Kvaliteten var meget bra - på billig kopipapir. 
+
+Ved å stille kvaliteten til kladdemodus var jobben gjort på under halvminuttet, men kvaliteten var så som så. 
+Er du ikke så nøye på kvaliteten, og vil spare blekk, er det kladd du skal velge. 
+
+Det viste seg imidlertid at så snart vi blandet litt bilder inn i teksten, gikk det vesentlig tregere. 
+Tre websider med blandet tekst og grafikk tok litt over to minutter å skrive ut med standard innstillinger. 
+Her havner Lexmark svært langt ned på listen, men kvaliteten var nok en gang absolutt godkjent. 
+
+Skriveren kommer med to blekkpatroner, en sort og en med tre kamre for fargene cyan, magenta og gul. 
+Hvis du ønsker å bruke skriveren til fotobruk kan du bytte ut den svarte patronen med en fotopatron, som sørger for at overganger og sjatteringer blir så gode som overhodet mulig. 
+Vi fikk dessverre ikke testet med fotopatron, men er sånn passe fornøyd med kvaliteten på fotoutskrifter uten denne på plass. 
+På normal betraktningsavstand kan utskriftene forveksles med fremkallinger fra fotobutikken, riktig nok hvis du bruker anbefalt fotopapir. 
+
+Men nok en gang er hastigheten på nedre del av skalaen, et ark med to 13x18-fotografier ble skrevet ut på fire minutter og tretti sekunder. 
+De raskeste bruker rundt ett minutt på foto som dekker en hel A4-side. 
+
+Vi gir også pluss for at skriveren er relativt stillegående. 
+
+Brukbar skanner 
+
+Forhåndsvisning av materiale på skanneplaten tar bare noen få sekunder, og innskanning av et A4-fotografi i 300 dpi tar rundt 36 sekunder. 
+Det synes vi ikke er verst! 
+Kvaliteten er midt på treet, og sannsynligvis tilstrekkelig for de aller fleste behov. 
+
+Vår avanserte testplansje avslører imidlertid problemer med å fange detaljer i de aller lyseste og mørkeste partiene. 
+Så hvis nøyaktig avfotografering er vesentlig for deg, skal du velge en annen løsning enn X4650. 
+
+Kortleseren 
+
+Som nevnt tidligere i artikkelen er det en kortleser for de fleste vanlige formatene på høyre side i fronten av skriveren. 
+Alle spaltene samles i én stasjon i Windows Utforsker, noe som betyr at du kun kan ha i ett kort om gangen. 
+
+Overføringshastigheten er raskere enn USB 1.1, men relativt lav. 
+Den reelle hastigheten avhenger naturligvis av flere ting, deriblant lese- og skrivehastigheten til kortet/minnepluggen. 
+Men vårt relativt kjappe SD-minnekort ble matet med rundt 3 MB i sekunder, og lesehastigheten lå på rundt 5-6. 
+
+Konklusjon 
+
+Totalt sett er dette slett ingen dum alt-i-ett-skriver, og absolutt verdt prislappen sin. 
+Den scorer middels på det meste, men høyt på brukervennlighet og valuta for pengene. 
+Slikt blir det en firer på terningen av! 

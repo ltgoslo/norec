@@ -1,0 +1,109 @@
+Toshiba Satellite C660D / C670D
+En av Norges billigste PC-er, og det merkes på ytelsen. 
+
+Hvor billig kan en PC egentlig bli? 
+For øyeblikket ser ikke prisene ut til å ha noen bunn, og den siste tiden har vi sett alt fra minibærbare til under tusenlappen, til fullverdige bærbare til like over det dobbelte. 
+Mens de fleste modellene har vært av utgående karakter, dukker det også opp nye serier med maskiner som benytter siste generasjon prosessorer og arkitekturer, men som er laget for å være billig. 
+
+Et godt eksempel på dette er Toshiba Satellite C660D-14E, som riktig nok normalt skal ha en prislapp på 2990 kroner, men som Elkjøp i disse dager selger for utrolige 2.395 kroner. 
+Den kommer også i en 17 tommer-versjon, C670D-10W, som har en veiledende pris på rundt 3.495 kroner. 
+Denne er altså identisk med 15-tommeren med unntak av skjermstørrelsen. 
+
+Her er en kjapp titt på noen av de viktigste egenskapene, vi har tatt med C670D også: 
+
+Toshiba Satellite C660D-14E / C670D-10W 15,6 tommer blank skjerm, 1366 x 768 piksler / 17-tommer med 1600 x 900. 
+AMD E-240 prosessor, 1,5 ghz, én kjerne 2 GB minne (maks 8) 320 GB harddisk Integrert ati radeon h 6310m-grafikk, delt minne DVD-leser/brenner Trådløst nettverk (b/g/n) 10/100 mbit kablet nettvverk 2 stk usb 2.0-porter Webkamera VGA-skjermutgang Minnekortleser (sd/sdhc/mmc) 6-cellers batteri, oppgitt levetid 6,15 timer (4,5 timer på 17-tommeren) Windows 7 home premium, 64 bits Mål: 25 x 38 x 3,5 cm / 27 x 41 x 3,8 cm 2,54 kg / 2,8 kg 
+
+Det er lite ved disse spesifikasjonene som skulle tyde på at dette er noe annet enn en rimelig PC. 
+Den mangler for eksempel HDMI-utgang, den har relativt beskjedent med minne, begrenset nettverkshastighet og selvfølgelig må du se langt etter støtte for USB 3.0. 
+
+Prosessoren er et nytt bekjentskap. 
+den har kun én kjerne, noe som i de fleste tilfellene betyr klare begrensninger - spesielt når det kommer til fleroppgavekjøring. 
+
+Mer positivt er det at harddisken er relativt romslig, og hvis oppgitt batterilevetid stemmer, er den såpass bra at den havner i øvre skikt hva angår rimelige datamaskiner av denne typen. 
+
+Men før vi går innmaten nærmere i sømmene, skal vi ta en titt på eksteriøret. 
+Vi gjør oppmerksom på at vi har hatt 17-tommeren på testbenken, men alt det følgende vil også gjelde 15-tommeren. 
+
+Rent og enkelt 
+
+Plast-kabinettet har en klassisk utforming strippet for fansy løsninger, med en mønstret, matt overflate både på ut- og innsiden. 
+
+Den skjuler imidlertid ikke fettflekker etter fingrene, som opptrer som mørkere felter. 
+konstruksjonen virker ikke spesielt spinkel, og lokket tåler ganske harde trykk uten at det blir forstyrrelser i skjermbildet. 
+
+Alle tilkoblingspunktene sitter på venstre side, på høyre sitter det optiske drevet. 
+
+Tastaturplaten er fast og overraskende god og stillegående å skrive på. 
+Enter-tasten er smal, og det er lett å trykke feil når man bruker touch-metoden, spesielt i starten. 
+Mellomromstasten er også smal, uten at vi anser det som like problematisk. 
+
+Pekeplaten er akkompagnert av to adskilte knapper for venstre- og høyreklikk. 
+begge deler fungerer tilfredsstillende, men vi får følelsen av at det er brukt billig materiale, spesielt gjelder dette respons og klikkelyder fra knappene. 
+
+Over tastaturet sitter av/på-knappen og to høyttalere. 
+De avgir spinkel lyd uten bass, men det er mer malen enn unntaket i de aller fleste pc-klasser - dessverre, uten at vi helt skjønner hvorfor. 
+
+I bruk 
+
+Maskinen går gjennom en installasjonsrutine ved første gangs oppstart. 
+dette var ferdig utført på vårt testeksemplar, og vi mistenker at grunnen er at dette er en ganske tidkrevende prosess, selv på mye kraftigerer maskiner enn denne. 
+og at denne maskinen ikke er særlig kraftig, fikk vi tidlig mange beviser på. 
+
+Det er unormalt mye venting, både med tanke på å installere og starte programmer, kopiere og pakke ut filer, og vi får ofte følelsen av at maskinen jobber mot oss og ikke for oss. 
+Resultatet blir at vi ofte trykker på knapper og symboler flere ganger fordi vi tror maskinen ikke har fått det med seg. 
+
+Ved ett tilfelle satte vi inn en USB-plugg for så å nappe den ut igjen med det samme. 
+Etter noen sekunder dukket det opp en melding på skjermen om at vi hadde satt inn en plugg, med spørsmål om hva vi ønsket å gjøre med den. 
+Etter at vi hadde dratt den ut, altså. 
+Meldingen forsvant av seg selv etter en tid, men dette illustrerer noe av problemene her. 
+
+Og selv en så vanlig aktivitet som å surfe på nettet byr noen ganger på utfordringer. 
+Opptegningen av VG.no for eksempel i Internet Explorer 8, tok vesentlig lenger tid enn vi er vant til på bare litt dyrere PC-er, og ressursbruken var flere ganger oppe i nesten 100% - uten at vi kjørte noen andre programmer på PC-en samtidig. 
+
+På den positive siden: 
+Maskinen er svært stillegående, og kan nesten ikke høres i de aller, aller fleste situasjoner. 
+
+Men dette klarte den faktisk! 
+
+Det var nesten så vi kviet oss til å prøve å spille av videomaterialet som vi normalt bruker til tester av frittstående mediespillere. 
+I dag er det nærmest selvsagt at enhver bærbar PC takler slik avspilling i alle oppløsninger, med unntak av minibærbare basert på Intel Atom-prosessor og modeller som denne med én prosessorkjerne. 
+
+Overraskelsen ble desto større da det viste seg at den klarte å spille av det meste av HD-filene våre. 
+Både MKV-filer og DivX-filer i 1080P ble avspilt uten hakking, selv om ressursbruken noen ganger nærmet seg absolutt kokepunkt: 
+
+Men kjører du noen programmer i bakgrunnen blir det raskt for tøft for den beskjedne maskinvaren. 
+
+Svært beskjeden ytelse 
+
+Ytelsestestene fra Passmark bekreftet alle opplevelsene våre på nær sagt alle punkter. 
+I diagrammene under har vi sammenlignet med ytelsen mot typiske prosessorer og grafikkløsninger i lavprissegmentet, det vil si rundt 3000 kroner: 
+
+Som du ser er prosessorytelsen vesentlig lavere enn snittet, det finnes faktisk en rekke Intel Atom-prosessorer som yter bedre enn dette, prosessorer som sitter i minibærbare (netbooks). 
+Grafikkytelsen er mer på snittet, men heller ikke den er noe å skryte av - men skal ha æren for at PC-en i det hele tatt klarer å spille av HD-materiale. 
+Spilling på denne PC-en vil fortone seg som et eneste langt gjesp, i verste fall irritasjoner, hjertebank og irrasjonelle grep, for eksempel slenge den i gulvet i ren frustrasjon. 
+
+Batterilevetiden ble heller ingen opptur. 
+Med minimal belastning holdt batteriet ut i 250 minutter, eller 4 timer og 10 minutter. 
+Ved kontinuerlig videoavspilling holdt det ut 2 timer og 47 minutter, noe som betyr at du kan forvente en batterilevetid på mellom 3 og 4 timere med variert bruk. 
+Vi gjør oppmerksom på at vi gjorde disse testene på 17-tommeren C670D, 15-tommeren C660D vil sannsynligvis vare noe lenger. 
+
+Konklusjon 
+
+Denne maskinen er billig. 
+Den er stillegående, har et godt tastatur og er relativt bra bygget med tanke på at prisen er så lav. 
+Vi har sett dyrere maskiner som har vært mindre tillitsvekkende enn denne på de områdene. 
+
+Det er imidlertid en så svak maskin ytelsesmessig sett, at vi slett ikke vil anbefale noen å kjøpe den. 
+En ting er at den er så treg ved leveranse, vi ser med skrekk og gru for oss når eieren får brukt den en stund, disken begynner å bli fragmentert, man har installert noen bakgrunnsprogrammer, verktøylinjer og lignende. 
+Vil den da i det hele tatt kunne brukes? 
+Det er jammen ikke godt å si. 
+
+Legg heller noen hundrelapper til på bordet, og gå for en modell med en annen, raskere prosessor. 
+Og er du opptatt av å få produktene billigst mulig, vil det i de fleste tilfeller vil være langt smartere å velge en nedsatt fjorårsmodell enn å gå for helt nye maskiner som er laget for å koste minst mulig. 
+
+OPPDATERT: 
+C660 finnes i flere forskjellige varianter, deriblant én med Intel Pentium T4500-prosessor. 
+Den vil være et svært mye bedre valg. 
+
+Toshiba Satellite C660D-14E 

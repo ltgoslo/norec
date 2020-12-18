@@ -1,0 +1,48 @@
+OCZ Vertex 450
+Med denne serien tar OCZ spranget over i en helt egenutviklet SSD. 
+
+OCZ var tidlig ute med å sette sammen komponenter fra andre leverandører til vellykkede SSD-løsninger. 
+Verken flashminnet, SATA-grensesnittet eller selve kontrolleren var utviklet i eget hus, alt var kjøpt inn. 
+
+Gjennom oppkjøp av utviklerne Indilinx og egen utviklingsvirksomhet har OCZ nå etablert seg med en egenutviklet kontroller som har fått navnet Barefoot 3 M10. 
+Forløperen ble tidligere brukt i Vector-serien av SSD fra OCZ, som har fått svært gode omtaler. 
+
+I tillegg kjøper nå OCZ hele silisiumplater fra produsentene og pakker selv flashminnet i brikker, nå med 20 nanometers teknikk. 
+
+Dermed er det farvel til Marvel og SandForce kontrollerne, og full fart med den nye serien Vertex 450. 
+Her brukes det ikke kompresjon av data før skriving, og alle typer data håndteres like raskt. 
+
+Vertex 450 256 GB 
+
+SSD-en er helt i metall og leveres sammen med en festebrakett til 3,5-tommers brønner, fersteskruer og en installasjonskode til Acronis True Image, for overføring av eksisterende systemdisk til den nye SSD-en. 
+Selve programmet må du laste ned selv. 
+
+Høyden er bare 7mm, så den får også plass i slanke bærbare. 
+
+Tilkoblingene er SATA3 - en standard som etter hvert begynner å bli for trang for flashbasert lagring. 
+I de nyeste slanke ultrabookene brukes utelukkende miniPCI som kan gi 2,5 ganger raskere overføring mellom hovedkort og SSD. 
+De nyeste stasjonære PC-ene har også kortplass for dette i tillegg til de store, standard PCIexpress-plassene. 
+OCZ sin nye Vector PCIe-serie for arbeidsstasjoner er foreløpig bare tilgjengelig for standard kortplasser. 
+
+Ytelse 
+
+Det som er viktig med en SSD er ytelsen, spesielt IOPS når du bruker den som systemdisk, som de fleste jo gjør. 
+Denne parameteren har fått spesiell oppmerksomhet hos OCZ, og skulle være på høyden med de beste av konkurrentene. 
+
+Vi har testet på en stasjonær PC med Intel Core i5 3570K og 8 GB 1600 MHz minne. 
+Vi kjørte vårt standardutvalg av tester og fikk disse resultatene: 
+
+Konklusjon 
+
+Vertex 450 er en utmerket SSD som hevder seg fint i konkurransen, selv om den måler bitte litt lavere på sekvensiell ytelse enn Vertex 3.20 på noen områder. 
+Men på IOPS knuser 450 forgjengeren. 
+Ytelsen er ellers generelt jevn og høy, og at den ikke bruker kompresjon før lagring gjør at ytelsen også er utmerket uansett datatype. 
+Dette er en fordel når man skal overføre store mengder video/bildedata. 
+
+Prismessig ligger den ikke i det aller laveste sjiktet, men i forhold til ytelse ligger den i samme område som konkurrentene. 
+
+Generelt har forholdet mellom pris/ytelse blant konkurrentene jevnet seg ut, slik at det i dag ikke er noen produsenter som skiller seg markant ut på noen vesentlige områder. 
+Du får stort sett det du betaler for fra de anerkjente leverandørene hos de anerkjente forhandlerne. 
+Og OCZ har nå befestet posisjonen blant de anerkjente leverandørene. 
+
+OCZ Vertex 450 SATA III 2.5" SSD 256GB 

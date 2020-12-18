@@ -1,0 +1,51 @@
+Plex for Android
+Streamer hele mediebiblioteket ditt rett til mobiltelefonen. 
+
+For de som samler på film, bilder og musikk, er Plex en av godbitene når det gjelder programvare. 
+Mediesenterløsningen er tilgjengelig både for PC og Mac og er basert på Xbox Media Center, som i sin tid ble laget for modifiserte utgaver av den første Xbox-konsollen. 
+TV-produsenten LG leverer også sine nye TV-er med Plex innebygd. 
+
+Vi skrev om Plex den gangen det kun var tilgjengelig for Mac: 
+Plex - et briljant mediesenter 
+
+Senere fikk det også en tilhørende iPhone/iPad-app som gjorde at du kunne streame innhold direkte til iOS-enheten, eller bruke enheten som fjernkontroll. 
+
+Nå er også Android-versjonen på plass, og det betyr at også Android-eiere kan streame musikk, bilder og video direkte fra hjemmemaskinen. 
+
+Enkelt oppsett 
+
+Vi har testet løsningen, og oppsettet foregår svært enkelt. 
+Alt du trenger er å sørge for at Plex Media Server (en del av Plex-programvaren) kjører på PC-en hjemme. 
+Deretter kjøper og laster du ned applikasjonen fra Android Market og starter den. 
+
+I løpet av sekunder er biblioteket oppdaget (forutsatt at enhetene er på samme trådløse nettverk), og dernest kan du bla i alle tilgjengelige filer. 
+På Mac blir dessuten iPhoto og iTunes-biblioteket også tilgjengelig, derunder også hendelser og spillelister. 
+
+Konverteres på direkten 
+
+Videoer konverteres av Plex-applikasjonen på direkten slik at den vises på Android-enheten uavhengig av formatstøtte. 
+Det tar noen få sekunder å starte en film, men deretter spiller den greit uten hakking. 
+
+Kvaliteten avgjøres av hastigheten på det trådløse nettverket, og det er også mulig å nå medieserveren uten å være i samme trådløse nettverk. 
+Du kan velge bitrate selv eller la Plex selv avgjøre kvaliteten, og det er mulig å bruke ulike innstillinger basert på hvorvidt enhetene er i samme trådløse nett, over 3G eller om du er koblet til et trådløst nett et annet sted i verden. 
+
+Kan også brukes som fjernkontroll 
+
+Som med iOS-versjonen kan du også bruke Plex for Android som fjernkontroll til mediesenteret. 
+Da kan du bruke piltaster for å bla i menyene, samt styre avspillingen. 
+Det er imidlertid ikke mulig å spole til et vilkårlig sted midt i filmen, slik du kan dersom du ser filmen på telefonskjermen. 
+
+Innledningsvis hadde vi også trøbbel med å få opp Plex-utvidelsene, men etter nærmere undersøkelser viste det seg at de heller ikke virket på desktop-versjonen (selv om de var oppdatert til siste versjon), og at vi var nødt til å starte om og nullstille hver enkelt utvidelse. 
+Dette var ikke så veldig elegant, og fortsatt ser det ut til at vi ikke får tilgang til alle. 
+
+I tillegg savnes muligheten for undertekster når du spiller av videoklipp på telefonen – det er tilgjengelig på iOS-versjonen. 
+
+Konklusjon 
+
+Hvis du kjører Plex som mediesenter på PC-en din, kan du spille av musikk, video og bilder direkte på Android-telefonen eller -nettbrettet ved å kjøpe dette programmet. 
+I tillegg kan du bruke telefonen som fjernkontroll til mediesenteret; dog uten visse funksjoner, som muligheten til å spole i filmen eller aktivere undertekster. 
+Sistnevnte er heller ikke tilgjengelig når du ser film på telefonen. 
+
+Det ser også ut til at støtten for plug-ins er noe varierende, og vi ser derfor frem til første oppdatering. 
+
+Plex for Android (Android Market, kr 27) 36MB, kan flyttes til SD-kort 

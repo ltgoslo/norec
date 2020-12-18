@@ -1,0 +1,69 @@
+Lynrask draft-n ruter fra SMC
+Den nye standarden for trådøst nett er i ferd med å sette seg, men er fremdeles ikke stemplet av nemnda. 
+Vi har testet SMC sin nye ruter 
+
+Det har vært mange forskjellige kandidater ute for neste generasjon trådløst. 
+Resultatene har vært variable, og noe i næærheten av den oppgitte/oppskrytte hastigheten har vi aldri målt. 
+
+LES OGSÅ: 
+
+Likevel, hastigheten har blitt stadig høyere, og rekkevidden under vanskelige forhold har også blitt påtagelig bedre. 
+
+Da skulle man kunne anta at den siste ruteren vi har testet er den raskeste, og det er helt riktig, den knuser konkurrentene på de fleste områder. 
+Vi snakker om SMCWBR1-N. 
+
+Boksen 
+
+Selve ruteren og det matchende Cardbus-kortet som ble brukt i testen er det ikke noe bemerkelsesverdig med i det ytre. 
+Ruteren er en liten plastboks med tre antenner på, akkurat som alle de andre. 
+
+På baksiden er det heller ikke noen nyvinninger, vi finner WAN mot boksen fra internettleverandøren og 4 LAN-porter til PCer på lokalnettet. 
+Reset-knapp og strøminntak kompletterer det hele. 
+
+Installasjonen forklares i en liten guide på papir, det er ingen programvare på CDen. 
+
+Oppsettet var det ikke noe bemerkelsesverdig ved, ruteren fant ut at det allerede var en DHCP-server på nettverket og slo derfor av sin egen. 
+
+Installasjonen av Cardbus-kortet på den bærbare var tilsvarende likefrem, bortsett fra at her var det selvsagt snakk om å installere en driver. 
+
+Ytelse 
+
+Både i kontormiljø og hjemme viste SMC at den hadde både hastighet og rekkevidde å by på. 
+Rekkevidden var riktignok ikke spektakulært bedre enn konkurrentene, men den matchet disse helt fint. 
+På mindre avstander var den derimot overlegen. 
+
+I vårt eget hjemlige miljø var SMC sin draft-n ruter rett og slett overlegen over det hele. 
+
+Ytelseskurven var også svært jevn, noe som er viktig ved tidskritiske overføringer, som video. 
+
+Hva betyr dette i praksis? 
+
+Under vår test av D-Links ruter ble det tydlig at overføringen ikke var jevn, den kom i rykk og napp. 
+Dette ga seg tydlige utslag ved visning av bilder på en bærbar, med filene liggende på en annen PC i nettverket. 
+
+Det samme gjaldt i enda større grad video, selv Mjpeg fra vårt Ixus 800 var problematisk. 
+
+Med denne ruteren fra SMC var alt derimot helt uproblematisk. 
+10-megapikslers bilder ble lastet inn på typisk drøyt et halvt sekund, noe som virker raskt selv om det tar over dobbelt så lang tid som visning av lokale filer. 
+
+Video hadde vi heller ingen problemer med, har var det fin flyt uansett format. 
+
+Andre egenskaper 
+
+SMC tilbyr også støtte for gaming, VoIP og streaming med automatisk sensing av trafikktype. 
+
+I tillegg finner vi de vanlige støttefunksjonene for virtuel server, brannmur, tilgangskontroll etc. 
+
+Portene til LAN er 10/100, Gigabit nettverksstøtte er vel det eneste vi egentlig savner på denne boksen. 
+
+Konklusjon 
+
+En lynrask ruter som parkerer alt annet vi hittil har testet, med god støtte og funksjonalitet for alle bruksområder man støter på i typiske små nettverk. 
+
+Ruteren er på vei ut i butikkene og veldende priser er: 
+
+Router: SMCWBR14-N: 985,- kroner Adapterkort: 
+
+SMCWPCI-N: 
+475,- kroner (PCI kort) 
+SMCWCB-N: 475,- kroner (Cardbus) 

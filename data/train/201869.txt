@@ -1,0 +1,85 @@
+HP Pavilion dm3-1070
+Den er ikke bare liten og lekker, den er også utholdende. 
+
+I klassen for mindre bærbare PC-er er det kamp om plasseringene. 
+Mini-bærbare (også kjent som Netbooks) dominerer i kategorien aller minst, lettest og billigst, men krever du litt mer blir prisene fort mer "normale". 
+
+Egenskapene lav pris, lite størrelse, lav vekt og brukervennlighet er ikke lett å samle i samme produkt, men de prøver. 
+Tidligere var de minste og letteste også de dyreste. 
+Med mini-bærbare ble de de billigste, men ytelsen på en slapp Atom-prosessor er ikke noe å skrive hjem om, det er ikke stort mer enn akkurat det de duger til. 
+
+Hva som er det beste formatet finnes det ikke noe svar på, men 13,3-tommers skjerm og 1366x768 er et svært kurant format. 
+Det gir god plass til et godt tastatur, samtidig som skjerbildet også kan leses av de som ikke er utstyrt med falkeblikk. 
+
+Når dete formatet kombineres med et lett konstruksjon og et godt design, da får du en maskin som du gjerne putter i veska og som dessuten oppleves som kraftig nok til det meste man gjør på farten. 
+
+DM3 - i mange varianger 
+
+HP har mange varianter av sin bærbare, i skivende stund er det 33 forskjellige i en tilfeldig valgt nettbutikk, og av DM3 finnes det tre forskjellige utgaver. 
+Forskjellen på disse tre er først og fremst prosessoren, de leveres med 2 forskjellige typer Intel-prosessorer og en fra AMD. 
+Den rimeligste er med AMD-prosessor og prisen ligger på 5 995 kroner. 
+En tusenlapp til og du får en 1,3 GHz Intel Pentium SU4100 dobbeltkjerne-prosessor og enda en tusenlapp gir deg en bærbar med 1,3 GHz U7300 Core2 Duo og GeForce G105 grafikkprosessor. 
+
+(Forskjellen mellom SU4100 og Core2 Duo er først og fremst at 1 MB av hurtigminnet er koblet ut, for å gi lavere strømforbruk i stedet for bedre ytelse, samt manglende støtte for SSE4.1 instruksjonssettet.) 
+
+Vårt testeksemplar er toppmodellen, utstyrt med 1,3 GHz U7300 Core2 Duo og 4 GB minne, samt 320 GB disk. 
+
+Stilig maskin 
+
+Maskinen kommer i en slags børstet aluminiums-look, med et renslig design og linjer som ikke blir avbrutt av unødvendigheter. 
+
+Den er slank, og når man griper om den i de fremre hjørnene virker den ekstra tynn. 
+Bakre halvdel av undersiden er imidlertid tykkere, det er der batteriet sitter. 
+Utformingen gjør at maskinen får bedre lufting, det er mange steder på undersiden hvor luften får strømme fritt. 
+Dette gjør at maskinen jobber svalere, den ble nesten ikke varm under bruk, og støyer heller ikke. 
+
+Tilkoblinger 
+
+Dette er en maskin spesielt godt egnet for høyrehendte. 
+På høyre side sitter det bare 2 USB-kontakter og en åpning for Kensington-lås. 
+Her sitter også grillen for utblåsing fra prosessorfiften, som kunne varmet opp en kald muse-hånd. 
+Men vi opplevde aldri noen varmluft som ble blåst ut herfra. 
+Av/på-bryteren og av/på for trådløst sitter også her. 
+
+På venstre side sitter kontaktene for strøm, nettverk, VGA, HDMI, 2 x USB, små minnekort (ikke CF, men SD/MS og nære slektninger) og lyd, plassert i en logisk og fornuftig rekkefølge. 
+Det er ikke noen selvfølge ... 
+
+Skjerm, tastatur og pekeplate 
+
+Skjermen er glinsende blank og har like dårlig betraktningsvinkel som alle andre skjermer av samme type (TN-panel). 
+Skjermen kan brettes så langt tilbake at du oppnår den beste vinkelen, men denne vinkelen får du ikke når du sitter trangt på et fly eller tilsvarende. 
+
+I ideelle omgivelse er skjermen sylskarp og klar, med høy lysstyrke og kraftige farger. 
+
+Tastaturet her ikke numerisk del, men har samme bredde som et standard løst tastatur i full størrelse. 
+Ctrl-tasten er plassert ytterst til venstre. 
+Det er ingen svikt i tastaturet, det er ingen ulyder og det er behagelig å skrive på. 
+
+Pekeplaten er speilblank, det er behagelig, men fingeravtrykk er jo uungåelig. 
+Følsomheten er god, skrollefunksjonen er middels, litt for rykkete etter vår smak. 
+Knappene er også litt i hardeste laget, men er to separate knapper - ingen vippe. 
+En fin ting er at du kan slå av pekeplaten med en knapp mellom platen og tastaturet. 
+Da slukkes også det litt intense lyset som viser at den er aktiv. 
+
+Ytelse 
+
+Ytelsen er ikke like vass som på maskiner som er beregnet på å stå stille. 
+Du må velge ytelse eller batterilevetid, og på denne maskinen er det det siste som har fått prioritet. 
+
+Likevel er ytelsen god, til de bruksområdene maskinen er laget for. 
+Et par-tre programmer oppe, surfing og mail - det går helt utmerket. 
+HD-video går også uten antydning til hikke. 
+
+Batteritiden var hele 456 minutter eller 7 timer og 36 minutter ved ingen aktivitet og ingen strømsparerfuksjoner aktive. 
+
+Ved kontinuerlig avspilling av video holdt batteriet i 224 minutter, eller 3 timer og 44 minutter. 
+
+Dette er meget gode batteritider! 
+
+Konklusjon 
+
+HP 
+DM3 er en elegant, veldesignet maskin som balanserer ytelse og portabilitet på en utmerket måte. 
+Den kommer dessuten i flere varianter som passer til forskjellige tykkelse på lommebøkene. 
+
+Hadde det bare vært en enkel måte å fjerne klistremerkene på, men det er vel like vanskelig som å rive sponsormerkene av en toppidrettsutøver. 

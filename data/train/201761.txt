@@ -1,0 +1,62 @@
+WD Raptor 150 GB
+Ser vi bort fra disk-løsninger som krever egne kontrollerkort som SCSI og FC, er Raptor fra Western Digital den raskeste disken du får. 
+Nå har den kommet i 150 GB utgave, vi har testet. 
+
+Disker til PCer har blitt større og billigere, noe som i stor grad kommer av stadig høyere datatetthet på platene i selve disken. 
+I det siste har denne utviklingen dabbet noe av, etter at diskene nådde en kapasitet på godt over 100 GB pr plate. 
+
+Men det er en innlysende måte å få opp ytelsen på, nemlig å øke hastigheten. 
+For ATA-disker er det bare Western Digital som tilbyr dette i sin Raptor-serie, som har plater som roterer med 10 000 omrdeininger i minuttet. 
+Dette har gitt et forsprang både i ren overføringshastighet og aksessid, siden kapasiteten har vært lavere. 
+Dataområdet er mindre, og det tar kortere tid for mekanismen å beve seg over dette. 
+
+Men Raptor-diskene har hatt svært beskjeden kapasitet. 
+Den første utgaven var på 36 GB, den neste på 74 GB. 
+I den siste utgaven har Western Digital doblet tettheten til 75 GB pr plate, og den største Raptor-disken er nå på 150 GB. 
+
+Dette er ikke mye sammenlignet med kapasiteten på disker med 7200 omdreininger, som nå er oppe i hele 500 GB. 
+Men bruksområdet er litt annerledes, og da er kapasiteten tilstrekkelig. 
+
+Typisk vil entusiastene bruke en Raptor til systemdisk og til tunge datafiler som stadig skal lastes inn. 
+Spill med store brett er typiske bruksområder. 
+Produksjon av musikk og video er også tjent med raske disker, samt store bildefiler. 
+
+Ny rekord 
+
+Selve det ytre av disken gir ikke inntrykk av noen ekstrem ytelse, alle harddisker er jo svært like i grunnkonstruksjonen. 
+Når den spinner opp er det heller ingen turbin som dras i gang, støynivået er ikke høyere enn mange ordinære 7200-omdreiningers disker. 
+
+Tilkoblingene er SATA, og disken støtter "bare" 150 MB/sek utgaven av denne standarden. 
+Det er likevel tilstrekkelig med god margin. 
+
+Det er tilkobling for strøm etter begge standarder, så en overgang er ikke påkrevet. 
+
+Temperaturen er heller ikke alarmerende høy, det går fint an å holde hånden oppå disken etter mange timers bruk. 
+Nederst på sidene derimot, er det i grenseland, men det er ikke snakk om brannfare... 
+
+Men ytelsen er høyere enn noen annen disk vi har testet, med god margin. 
+Dette har alltid vært tilfellet ved lansering av en ny Raptor, og tradisjonen holdes i hevd. 
+
+Vi testet med HD Tach og ytterst på disken er leseytelsen hele 85 196 KB/sekund og skriveytelsen et hår under med 84 472 KB/sekund. 
+
+Ingen andre disker vi har testet har kommet over 70 MB/sekund på lesing, og 60 MB/sekund på skriving. 
+Her vinner Raptor med god margin. 
+
+Innerst på disken faller ytelsen ned mot 50 og 40 MB/sekund for lesing og skriving, og i snitt snakker vi om leseytelse på over 75 MB/sekund og skriving på over 48 MB/sekund. 
+
+Vi sjekket med vårt eget testprogram, og fikk bekreftet tallene. 
+
+Sammenligner vi med tidligere utgaver av Raptor ser vi en pen utvikling i ytelse! 
+
+Konklusjon 
+
+Western Digital har nok en gang hevet listen et hakk med en Raptor som utklasser alle andre ATA-disker i ytelse. 
+
+Støy og varme er innenfor det akseptable, vi ble likevel litt forbauset over at også denne disken vibrerte såpass mye. 
+Dette gjelder de fleste disker, og vi ville tro at det var mulig å avbalansere de roterende delene bedre. 
+Dette ville gi mindre støy og varme, men det er vel et spørsmål om kostnader, her som i så fleste andre sammenhenger. 
+
+Uansett har vi ingen problemer med å anbefale Raptor 150 hvis du er ute etter den optimale ytelse framfor størst kapasitet for pengene. 
+
+Vil du vite mer om harddisker? 
+Da kan du følge DENNE lenken. 

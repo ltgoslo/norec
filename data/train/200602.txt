@@ -1,0 +1,148 @@
+Sony VaioFit multi-flip 15A 
+
+Skikkelig lekkerbisken med innovativ skjermløsning. 
+Holder det helt inn? 
+
+Sony har lang fartstid som PC-produsent, og de senere årene har også Norge vært på listen over land som får tilgang til deres lekre VAIO-maskiner. 
+
+Det klassiske PC-segmentet er imidlertid i tilbakegang, og også Sony eksperimenterer med formatene i et forsøk på å lokke kundene tilbake til butikken. 
+
+At Sony Vaio 
+Fit 15A egentlig er en hybrid mellom PC og nettbrett er imidlertid ikke så lett å oppfatte ved første øyekast. 
+Det måtte eventuelt være på grunn av den mystiske stripen som går tvers over lokket. 
+Mer om det senere. 
+
+Første gang vi stiftet bekjentskap med Fit-serien var under fjorårets IFA-messe i Berlin. 
+
+Vi har sett nærmere på den største modellen i serien, som akkurat er innenfor grensene for å kunne kalles en stor ultrabook. 
+Her er de viktigste spesifikasjonene på vår toppspekkede testprodukt: 
+
+Skjerm: 15,5" LED-baklyst berøringsskjerm, 2880 x 1800 piksler Prosessor: 
+Intel Core i7-4500U (tokjernet) RAM: 12 GB (maks 16) 
+Grafikkort: 
+Intel HD 4400 / Nvidia Geforce GT 735M Lagring: 1000 GB SSHD Optisk drev: 
+Nei Skjermutganger: 
+HDMI (1.4) USB-porter: 3x USB 3.0 Webkamera: 
+Ja, 2 mpix Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+802.11 bgn (Intel Wireless-N 7260) 
+Kablet nett: 
+1000 Mbit Annet: 
+Bluetooth 4.0, NFC OS: 
+Windows 8.0 Størrelse: 377 x 254 x 20 mm Vekt: 
+2240 gram Pris: 
+Ca 12.990 kroner (se oppsummeringsboks nederst for dagspris) 
+
+Ingen tvil om at dette er en velutstyrt PC, med en flott, høyoppløst skjerm som høydepunkt. 
+Skjermen er dessuten fleksibel. 
+Ved enkle håndgrep kan den legges ned over tastaturet, eller vippes rundt slik at den peker fra deg. 
+Kjekt på møter i små møterom, og når du vil se på film og vil ha tastaturet unna veien. 
+
+Videoen her viser prinsippet (her: 13,3-tommeren): 
+
+Innovativ skjermløsning med tre bruks-posisjoner. 
+Dermed kan PC-en både være fremviser, nettbrett og PC på én gang 
+
+Vi liker også at alle Fit-PCene har NFC, slik at de enkelt kan kobles sammen med mobiltelefonen eller nettbrettet ditt for avspilling av trådløs musikk. 
+
+Bra utstyrt 
+
+I tillegg har maskinen hele 12 GB RAM og en romslig hybriddisk som både er vanlig platelager og SSD. 
+Den sørger for at data som aksesseres ofte bufres i SSD-delen, slik at de lastes raskere. 
+I skrivende stund er dette et bra kompromiss mellom ytelse og kapasitet, men ikke det aller beste. 
+Det beste finner du her. 
+
+Det er også elementer her vi stusser litt over, gitt at dette er en dyr maskin. 
+Den leveres for eksempel med Windows 8.0, til tross for at 8.1 har vært lenge på markedet. 
+Den har heller ikke "ren" SSD, og den har ikke støtte for de nye trådløse AC-ruterne. 
+
+Burde vi forvente mer av en maskin til 13.000 kroner i februar 2014? 
+Det er i hvert fall diskuterbart. 
+
+Byggekvaliteten er imidlertid god. 
+Den føles stram og fast, godt oppstivet, og det baklyste tastaturet er meget støysvakt og godt å skrive på. 
+Vi blir også glade når hybrid-PC-er har en meget velfungerende pekeplate, det er nemlig ikke alltid at pekeskjerm er det mest hensiktsmessige. 
+
+I lokket og rundt tastaturplaten er det metall, bunnplaten er i plast. 
+
+Skjermen er høyoppløst og sylskarp. 
+Lysstyrken justerer seg avhengig av hvor mye lys som er i rommet. 
+Vi er ikke veldig imponert over denne løsningen, da den justerer seg opp og ned litt for mye. 
+Det skjer heller ikke glidende, men i rykk og napp. 
+
+Alt av tilkoblinger sitter lett tilgjengelig på venstre og høyre side. 
+Også høyttalerne sitter på sidene. 
+Lyden er relativt fyldig, men noe annet hadde vi heller ikke forventet fra lydspesialisten Sony. 
+
+Merk også at av/på-knappen sitter på høyre side, ikke over tastaturet som på de fleste bærbare PC-er. 
+Det er selvfølgelig gjort med tanke på at du skal kunne bruke den i "nettbrettmodus" uten å måtte løfte på lokket. 
+
+I tillegg sitter det volumknapper på baksiden. 
+Bra tenkt! 
+
+Slik yter den 
+
+Første oppstart av maskinen tar deg gjennom prosessen med å velge språk og tilpasse Windows til dine behov. 
+Denne prosessen er plankekjøring, men vi merker at maskinen er langt fra lydløs. 
+Dette er ikke noe nytt på Sony VAIO, viftene går ofte litt mer hyppig enn på de stilleste konkurrentene. 
+
+Det er imdlertid mulig å kjøre maskinen i stillemodus, med vesentlig lavere vifteaktivitet. 
+Da går imidlertid også ytelsen ned. 
+
+Oppstart tar rundt 25 sekunder, et bra tall til å være en maskin med harddisk (men de raskeste med SSD bruker under ti sekunder). 
+Fra hvilkemodus starter maskinen på et par sekunder. 
+
+I de aller fleste situasjoner reagerer den kjapt, og vanlige oppgaver forløper uten særlig forsinkelse. 
+Vi irriterer oss over sikkerhetspakken fra McAfee, som til stadighet gir oss advarsler og vil at vi skal tegne abonnement. 
+Det er vår oppfatning at McAfee drar ned totalopplevelsen, og derfor avinstallerer vi den alltid, og lever godt med den innebygde sikkerheten i Windows 8. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,1 Minne: 7,3 Grafikk: 
+5,8 Spillgrafikk: 
+6,3 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, her har vi kommentert tallene vi oppnådde: 
+
+Prosessor: 4110 poeng 
+Dette er en strømgjerrig ULV-prosessor, men av de raskeste ULV-prosessorene til Intel. 
+Den er mer enn rask nok til alt av vanlige oppgaver, men driver du med tyngre ting, for eksempel mye redigering av høyoppløst materiale, konstruksjon, kompresjon, 3D-spill og lignende, hadde vi valgt en PC med vanlig i7M-prosessor. 
+Fordelen er først og fremst mindre varmeutvikling og mindre strømbruk, slik at maskinene blant annet kan bygges mindre og lettere, uten at denne maskinen kan sies å være et premieeksempel i så måte. 
+
+Grafikk: 
+473.8 / 778 poeng Joda, du kan spille nyere spill på denne PC-en, men ikke forvent at du kan gjøre det i full HD og med alle detaljer skrudd på. 
+I det hele tatt ville vi ikke valgt denne PC-en om du er veldig interessert i den slags. 
+Til alle andre oppgaver, inkludert film i 4K-oppløsning og "alt" av 2D-materiale, yter grafikken mer enn godt nok. 
+
+Harddisk/SSD: Les/skriv: 
+103/65 MB pr sekund 
+På grunn av SSHD-ens virkemåte blir ikke disse målingene helt korrekte. 
+Lesehastigheten vil være langt høyere enn 103 MB per sekund dersom dataene nylig har vært brukt. 
+Til alt annet er ytelsen omtrent som forventet av en hardddisk, det vil si langt lavere enn for en "ren" SSD. 
+Til gjengjeld har den bedre kapasitet. 
+
+Batteritid: 
+Cirka sju timer med lite aktivitet, cirka tre timer med kontinuerlig videoavspilling 
+Dette er ikke noe imponerende tall, gitt at maskinen både er stor og har ULV-prosessor. 
+Vi antar at den høyoppløste skjermen er noe av årsaken, samt at maskinen er utstyrt med et litt beskjedent batteri (36 Wh). 
+
+Konklusjon 
+
+Sony Vaio 
+Fit multi-flip 15A er en innovativ hybrid med god kvalitetsfølelse. 
+Den er velutstyrt, har flott skjerm, godt tastatur og pekeplate. 
+Ytelsen er også generelt god. 
+
+Det som trekker ned er at vi hadde forventet litt mer av batteriet, spesielt ved videoavspilling. 
+Det er heller ikke blant de stilleste maskinene på markedet, samt litt smårusk her og der. 
+Se oppsummeringsboksen under for detaljer. 
+
+En liten ting helt på tampen: 
+Dette er kanskje den siste Sony VAIO vi tester her på DinSide. 
+Det kan du lese mer om i denne artikkelen. 
+
+Sony Vaio 
+Fit multi-flip 15A SVF15 
+N1Z2E 

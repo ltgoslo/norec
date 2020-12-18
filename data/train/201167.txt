@@ -1,0 +1,140 @@
+Toshiba Kira-102
+Rask og lekker ultrabook, med overbevisende batteritid. 
+Men det koster å være kar! 
+
+Det er gode tider for deg som er på utkikk etter ny PC. 
+I vår sammenlignende PC-oversikt viste vi deg nylig at du kan få svært mye PC for helt ned mot 3 500 kroner, vel og merke hvis du har moderate krav med hensyn til vekt, skjermoppløsning, byggekvalitet og batteritid. 
+
+Det er spesielt disse fire faktorene som ofte er med på å drive prisene oppover. 
+
+High end 
+
+Toshiba henvender seg til helt andre kjøpegrupper med sin andregenerasjon Kirabook. 
+Denne er tilgjengelig i Norge gjennom Elkjøp og Lefdal, og har spesifikasjoner som plasserer den helt i toppen hva angår kompakte og lette maskiner: 
+
+Skjerm: 13,3" blank berøringsskjerm, 2560 x 1440 piksler Prosessor: 
+Intel Core i7-4510U (Haswell-generasjonen) RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD Graphics 4400 Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 USB-porter: 3 x USB 3.0 Webkamera: 720P Kortleser: 
+SD/SDHC/SDXC/MMC Trådløst nett: 
+Intel 802.11 a/b/g/n/ac Kablet nett: 
+Nei Annet: 
+Harman Kardon-høyttalere, Bluetooth 4.0 OS: 
+Windows 8.1 Professional Størrelse: 31,6 x 20,7 x 0,95~1,98 cm Vekt: 1,35 kg Pris: 
+12.990 kr inkl mva (jf Prisjakt 16.9.2014) 
+
+Maskinen er kort fortalt meget oppdatert på utstyrsfronten, og relativt toppspekket. 
+Høy skjermoppløsning, kraftig i7 ULV-prosessor, romslig SSD og støtte for den trådløse AC-standarden, som sørger for å øke overføringshastigheten betraktelig mot kompatibelt utstyr. 
+Windows 8.1 Professional har flere funksjoner som ikke finnes i standardutgaven, mange er myntet på bedriftsbrukere. 
+
+Det som ikke kommer fram i listen er at kabinettet består i all hovedsak av aluminium og magnesium. 
+Den slanke maskinen er meget godt oppstivet, og gir definitivt et solid inntrykk. 
+
+Svært høy oppløsning 
+
+Stadig flere PC-er i klassen får skjermoppløsninger som er høyere enn full HD, og Kira er intet unntak. 
+Her får du et skjermbilde med svært høy pikseltetthet, noe som definitivt kommer til nytte når du skal se bilder og studere detaljer i høyoppløste fotografier. 
+
+Toshiba leverer maskinen med oppskalert tekst og ikoner i Windows, noe som fungerer brukbart i Windows 8.1. 
+Helt i mål er vi imidlertid ikke, enkelte programmer skalerer nemlig ikke like bra. 
+Et eksempel er Windows Media Player, der kontrollene blir veldig små. 
+Vi vet at Microsoft jobber med å forbedre slike ting i fremtidige oppdateringer av operativsystemet. 
+
+Fellesnordisk tastatur 
+
+Skjermen etterlater et godt inntrykk, med god fargegjengivelse, lysstyrke og berøringsfølsomhet. 
+Vi har imidlertid sett skjermer der kontrasten avtar mindre fra sidene enn det som er tilfelle med Kira-skjermen, men noe stort ankepunkt er dette ikke. 
+
+Tasaturet er som forventet av chicklet-typen, der alle tastene er isolert fra hverandre. 
+Det er støysvakt, responsivt og det er minimalt med svikt i platen mens du skriver. 
+Hurtigtastene øverst gir deg rask tilgang til vanlige funksjoner, uten å måtte trykke ned FN-tasten først. 
+Slik liker vi. 
+
+Vi vil imidlertid bemerke at tastaturet er fellesnordisk, der blant annet ÆØÅ har påtrykt tegn for norsk/svensk/dansk. 
+Skulle man kunne forvente et helnorsk tastatur i denne prisklassen? 
+Vi mener i hvert fall det. 
+
+Under tastaturet sitter en stor multiberøringsfølsom pekeplate, med støtte for fingerbevegelser for å skrolle, forminske, forstørre og så videre ved hjelp av flere fingre. 
+Det fungerer utmerket. 
+
+4K-kompatibel 
+
+Alle tilkoblingene sitter på venstre og høyre side, hele tre USB 3.0-porter synes vi er bra for en så tynn og kompakt maskin. 
+
+Merk også at HDMI-utgangen støtter oppløsning på eksterne skjermer på inntil 4K, men kun med lav Hz. 
+Til film og denslags er det helt OK, men spilling er en annen historie. 
+Men vil du bruke denne PC-en til spilling? 
+Neppe. 
+Mer om det senere. 
+
+Strømpluggen stikker hele fem cm rett ut på venstre side, og det forstår vi ikke poenget med. 
+Hadde den hatt en 90 graders knekk hadde den blitt langt mindre sårbar hvis man er uheldig å dulte borti den. 
+
+Bra lyd, lav støy 
+
+På undersiden sitter det to høyttalere av merke Harman Kardon. 
+De produserer ganske bra lyd, PC-ens størrelse tatt i betraktning. 
+Det er litt mer fylde enn vi er vant til, helt greit til film og bakgrunnsmusikk. 
+Skal du derimot nyte musikken, tar du på deg hodetelefoner eller kobler til eksterne høyttalere. 
+Merk at PC-en kan kobles til Bluetooth-høyttalere trådløst, takket være Bluetooth 4.0-støtten. 
+
+Under sitter også luft-inntaket, og luften blåses ut i bakkant ved skjermfestet. 
+Ved belastning er vifta definitivt hørbart, men ved normal bruk er den oftere tyst enn bråkete. 
+Helt stille er denne maskinen altså ikke, men den er heller ikke spesielt bråkete. 
+Omtrent som du må forvente av en relativt kraftig PC i liten innpakning per september 2014. 
+
+Ytelse og programvare 
+
+Det bringer oss over på neste punkt, PC-ytelsen. 
+Core i7-prosessoren sørger for meget god ytelse til det aller meste, inkludert fleroppgavekjøring - og er i så måte ideell partner til den kjappe SSD-en. 
+
+Toshiba har i hovedsak gjort en bra jobb med å konfigurere maskinen, og det er ikke så mye rusk fra tredjepart, noe vi synes er positivt. 
+Men prøveversjon av sikkerhetspakke fra McAfee slipper du ikke unna. 
+Dette er etter vår mening en av de minst diskré sikkerhetspakkene, og serverer deg store varsler på skjermen om alt og ingenting. 
+Hvis du også finner den støyende og forstyrrende, kan du avinstallere den. 
+Vår erfaring er at Windows sin innebygde sikkerhetsløsning Defender (brannmur/antivirus/antispyware) vil være god nok beskyttelse for mange. 
+
+Den integrerte grafikken er ikke kraftigere enn at det blir mye hakking i nyere spilltitler. 
+Til enklere spill som «Minecraft», «The Sims», «Fotball Manager» og denslags, bør den absolutt klare å henge med i svingene, og selvfølgelig er den mer enn kraftig nok til alt annet - inkludert video i 4K-oppløsning på ekstern skjerm. 
+Noe mer enn det trenger du ikke, i hvert fall ikke de neste 4-5 årene. 
+
+Vi brukte som vanlig Passmark PerformanceTest 8.0 til å tallfeste ytelsen, og her er noen av de viktigste tallene: 
+
+Prosessor: 3913 poeng. 
+Dette er omtrent som snittet for denne prosessoren, en høytytende i7-prosessor fra det strømgjerrige U-segmentet. 
+I diagrammet under har vi sammenlignet ytelsen mot to andre populære Haswell-prosessorer, som ofte er å finne i rimeligere ultrabooks: 
+
+Grafikk: 468 poeng. 
+Dette er også som forventet. 
+God ytelse til de fleste applikasjoner, men litt lite for krevende 3D-spill. 
+Ønsker du deg en spillmaskin bør tallet være det dobbelte. 
+Du bør med andre se andre veier. 
+
+SSD: 
+Lesehastighet: 
+486 MB pr sek Skrivehastighet: 468 MB pr sek 
+Begge deler er meget gode tall, fire, fem ganger kjappere enn hva du kan forvente av en standard 5400 rpm harddisk. 
+SSD-en er dessuten lydløs, robust og veier nesten ingenting, og er derfor perfekt for denne typen PC. 
+
+Meget god batteritid 
+
+Ved hjelp av vårt eget testprogram for batteriytelse fant vi at Kira holdt ut i hele 12 timer og 36 minutter med minimal belastning. 
+Det er et sjeldent høyt tall! 
+
+Under kontinuerlig videoavspilling sa maskinen takk og god natt etter sek timer og 45 minutter. 
+Det betyr at batteritiden, ved variert bruk, helt sikkert vil ligge mellom ni og ti timer. 
+Det er blant de aller beste batteritidene vi har målt. 
+Meget bra, Toshiba! 
+
+Konklusjon 
+
+Det er helt på det rene at Toshiba har laget en meget god ultrabook i denne andregenerasjon Kirabook. 
+Det største ankepunktet vi har funnet, er faktisk prisen. 
+Det er nemlig slik at du får litt av hvert for nesten 13.000 kroner, og det er noen åpenbare modeller vi ville ha vurdert sammen med denne maskinen, som Lenovo Yoga 2 Pro og HP Spectre 13. 
+Apples nyeste MacBook Pro bør også kunne være en kandidat, hvis OS X er et mulig alternativ til Windows. 
+Men for all del, Kira er en meget god ultrabook, denne gangen har Toshiba truffet bra. 
+Sjekk våre plusser og minuser i boksen under. 
+
+Toshiba Kira-102 

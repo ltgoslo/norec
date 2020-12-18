@@ -1,0 +1,63 @@
+Dremel Multi-Max
+Dremel utvider utvalget av større verktøy enn de ble kjent for, nå med et multiverktøy 
+
+Multimaskiner som driver utskiftbare verktøy med vibrasjon (kalles også oscillasjon når det skal høres avansert ut) finnes det etter hvert en del av, etter at patentet til Fein gik ut i oktober 2008. 
+Designet er diktert av ergonomi og funksjon: 
+Det er avlangt og verktøyet festes parallelt med maskinen med en bolt i en vibrerende holder som sitter vinkelrett på maskinen. 
+
+Verktøyet kan være et sagblad i forskjellige fasonger og dimensjoner, knivblad, forskjellig slipeutstyr og her hos Dremel også en forsats for løvsagblad. 
+
+Om Multi-Max 
+
+Dremel sin maskin kommer i de tradisjonelle Dremel-fargene lysgrå, sort og blå, og leveres som sett i plastkoffert med lader, to batterier og forskjellige verktøy. 
+
+Det er altså batteridrevet, kraften kommer fra et 10,8 volts 1,3 Ah litium-ion batteri som har en oppladingstid på 1 time. 
+Det samme batteriet brukes også i 8200-serien av Dremel roterende universalverktøy. 
+
+Vekten er 825 gram og hastigheten på vibrasjonene med 3 graders utsving kan justeres fra 3 000 til 21 000 i minuttet. 
+
+Feste av verktøy gjøres med en bolt og tilhørende sekskantnøkkel, og du behøver ikke skru bolten helt ut for å skifte verktøyene, siden de ikke har et hull, men en spalte som tres inn rundt festebolten. 
+Unntaket er pussklossen som må festes på gamlemåten, hvor bolten må helt ut og inn gjennom senterhullet. 
+
+Verktøyene har senterhull med hullkrans som ligner på tilsvarende for eldre Fein-maskiner, men disse passer ikke. 
+Heller ikke verktøy for Bosch eller Cotech (Clas Ohlson) passer i festet. 
+
+Det finnes et adatpter som gjør at du kan bruke Dremel-verktøy på disse maskinene, men ikke omvendt. 
+
+I bruk 
+
+Vi testet maskinen til forskjellilge oppgaver, og vår erfaring er meget gode. 
+Den ligger svært godt i hånden, vekten er lav og det er en befrielse å slippe strømledning. 
+
+Separat av/på bryter og hastighetsregulering gjør at du kan stoppe maskinen og så starte igjen med samme turtall. 
+Hastigheten justerer du med en skyveregulator, det gjør det lettere å se hvilken hastighet maskinen er satt til, sammenlignet med et dreiehjul som hos Bosch og Cotech. 
+
+Når du slår av maskinen bråstopper den, det tar en brøkdel av et sekund. 
+Men oppstarten er myk og tar ca ett sekund avhengig av innstilt hastighet. 
+
+Saging fungerer fint, det er mer enn nok kraft i motor/batteri og det er ingen problemer med kontroll grunnet godt grep og presis hastighetskontroll. 
+
+Maraton 
+
+Batteridrift er ikke hva det var. 
+I dag klarer de fleste maskiner å gjøre det samme som de som drives direkte fra strømnettet. 
+Spesielt spesialverktøy som dette, som vanligvis brukes til små og spesielle oppgaver. 
+
+For å sette maskinen/batteriene (og oss selv) på en utholdenhetsprøve startet vi med to fulladede batterier og en bunke med slipepapir av forskjellige grovhetsgrader. 
+Prosjektet var å slipe ned lakken på en kjøkkenbenk i limtre pluss tilhørende kjøkkenøy med komfyr og avlastningsbord i samme materiale. 
+
+Jobben tok ca 3 timer med noen puste- og vibrasjons-pauser, man blir uansett ganske nummen i hendene etter hvert når man jobber med vibrerende slipemaskin. 
+Vi kjørte batteriet tomt, byttet med det i laderen og fortsatte. 
+
+Slik holdt vi altså på, med gjentatte batteribytter etter en viss, minskende tid, til vi var ferdig med jobben. 
+Da var det både mer strøm i batteriet som satt i maskinen, pluss at det andre batteriet sto i laderen, klart til å overta. 
+
+Maskinen ble varm, men ikke på noen måte ubehagelig. 
+Man passer selvsagt på å ikke holde over ventilasjonshullene. 
+
+Vi kunne sikkert holdt på minst en time til før lade/bruke-syklusen med to batterier hadde blitt for kort til å være praktisk. 
+
+Tilbehør 
+
+Det finnes et godt utvalg av tilbehør, fra sagblader til slipeutstyr. 
+Spesielt for Dremel er forsatsen med løvsagblader. 

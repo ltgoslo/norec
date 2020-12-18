@@ -1,0 +1,84 @@
+Ruteren som ser ut som den er hentet fra Star Wars
+For deg med stort hus, raskt internett og som synes svarte, hvite, diskré og anonyme dingser er fryktelig kjedelige. 
+
+Den oser både fart og kraft, trådløsruteren D-Link DIR-895L. 
+Dette er en såkalt AC5300-ruter med MU-MIMO-støtte, som er blant de kraftigste på markedet i dag. 
+Tallet 5.300 angir den totale, teoretiske båndbredden i megabits, som den trådløse ruteren disponerer, fordelt på to nett i 5 GHz-båndet og ett i 2,4 GHz-båndet. 
+
+Dette er forresten den femte AC5300-ruteren vi tester, de foregående er Asus RT-AC5300, TP-Link Archer C5400 (best i test), Netgear Nighthawk X8 R8500 og Linksys EA9500. 
+
+To motorveier og en kjerrevei 
+
+Hvis du bruker en analogi mot biltrafikken, skulle det tilsvare to firefelts motorveier for pendlere med dyre biler og dårlig tid, og én kjerrevei uten midtstripe for søndagskjørere, syklister og gående. 
+
+Eller sagt med andre ord: 
+Dette er en trådløs ruter for storhusholdningen, med mer enn nok båndbredde til å håndtere en rask internettlinje, mange PC-er, nettbrett, spillkonsoller og mobiler samtidig. 
+
+Som hentet rett ut fra Star Wars 
+
+Ruteren har, med sine åtte antenner og kantete design med blodrød metallic-lakk, en design som minner om et stealth-fly eller et fartøy som er hentet fra Star Wars. 
+Dette er definitivt ikke noe for deg som ønsker noe lite og diskré, da bør du heller se på en av de mange mesh-løsningene vi har testet den siste tiden. 
+
+På toppen sitter det seks lysdioder som viser status, og på baksiden finner du to USB-porter (en 2.0 og en 3.0) for tilkobling av eksterne harddisker, minnepinner og skrivere, fire gigabit LAN-porter for tilkobling av utstyr som ikke kan kobles til trådløst, gigabit WAN-port som kobles til bredbåndsuttaket, samt en nyttig bryter som enkelt lar deg gjøre ruteren om til en såkalt range extender. 
+
+Det betyr at du kan øke rekkevidden av wifi-dekningen ved å bruke to eller flere eksemplarer av ruteren, på en svært enkel måte. 
+
+Enkelt oppsett, men dobbel oppdatering 
+
+Første gangen du kobler deg til ruteren, bruker du påloggingsinformasjonen som står trykket på undersiden av ruteren. 
+
+Deretter starter du nettleseren og følger veiviseren som tar deg gjennom oppsettet. 
+Det hele er svært enkelt og oversiktlig, men dessverre har ikke D-Link lagt inn støtte for norsk språk. 
+
+Her får du også mulighet til å registrere deg som bruker hos D-Link, og på den måten kunne få tilgang til ruteren din fra hvor som helst i verden. 
+
+Under prosessen får du spørsmål om du vil sjekke om det har kommet nye firmware. 
+
+Det gjorde vi, og da oppdateringen var ferdig, fikk vi på ny beskjed om at det forelå en ny firmware, noe som er litt underlig. 
+
+Dermed gjentok vi prosessen, og etter noen minutter var vi klare til å koble opp enhetene våre. 
+
+Treghet i systemet 
+
+Men når vi først er inne på ruteroppsettet: 
+Enkelte endringer tar relativt lang tid å få gjennomført, det tar for eksempel 80 sekunder å skru av gjestetilgangen, og selv små endringer medfører omstart av ruteren og gjerne rundt halvminuttet ventetid før du kan fortsette. 
+
+God fart når vi først fant motorveien 
+
+I utgangspunktet vil du kun få ett aksesspunkt å forholde deg til. 
+Ruteren skal, hvis alt fungerer, automatisk velge «raskeste vei» for deg, enten i 2,4 GHz-båndet eller i 5 GHz-båndet. 
+Slik oppkobling kalles Smart Connect, og er noe alle AC5300-ruterne vi har testet støtter. 
+
+Som regel fungerer det fint, men i dette tilfellet fungerte det dårlig. 
+Det oppdaget vi så snart vi kjørte de første ytelsesmålingene, som viste langt lavere hastigheter enn vi hadde forventet - og vi mistenkte raskt at det kunne ha med at vi var blitt plasser på «kjerreveien» (2,4 GHz-båndet). 
+Dette opplevde vi både med vår test-PC og en iPhone 7. 
+
+Ved å separere de tre nettene fra hverandre, og deretter koble PC-en opp mot det ene 5 GHz-aksesspunktet, flerdoblet hastigheten seg umiddelbart, og vi målte overføringshastigheter internt i nettet på inntil 576 Mbps, som er omtrent det vi forventer av denne typen rutere. 
+
+I diagrammene under har vi sammenlignet hastighetsmålingene på våre faste målepunkter, opp mot testvinneren fra TP-Link. 
+Målingene er gjort samme dag, med en bærbar PC med et AC-7265-kort fra Intel: 
+
+Som du ser, ligger ikke målingene særlig langt unna testvinneren, og vi kan konkludere med at ytelsen er meget høy over hele boligen vår på rundt 250 kvadratmeter. 
+
+Vi har altså på ingen måte problemer med å få utnyttet vår 160 Mbps bredbåndslinje hvor enn vi befinner oss i boligen, da er det eventuelt hos klientene begrensningene ligger. 
+
+Smart disk-deling 
+
+Vi målte også hastigheten mot en ekstern harddisk som var koblet til USB 3.0-porten, og registrerte lese/skrivehastigheter på mellom 50 og 60 MB i sekundet begge veier mot en kablet PC, og rundt 25 MB i sekundet begge veier trådløst. 
+Disse målingene ble gjort med enkel filkopiering via Filutforsker. 
+
+Vi har målt hastigheter på over 90 MB i sekundet på enkelte av de andre AC5300-ruterne, men dette er absolutt greie tall for enkel backup og deling av mediefiler i hjemmenettet. 
+
+Vi liker dessuten godt at D-Link har utstyrt ruteren med en liten web-server som gjør det mulig å strømme videoer og musikk fra den delte disken, internt i nettet via nettleseren. 
+På den måten er det veldig enkelt å dele innhold med hverandre i familien. 
+Det fungerer brillefint! 
+
+Konklusjon 
+
+D-Link DIR-895L er en brukervennlig, funksjonsrik og rask ruter som sørger for god dekning og hastighet i store boliger. 
+Vi setter et lite spørsmålstegn ved Smart Connect-løsningen, den fungerte ikke optimalt for oss. 
+Dessuten synes vi det er litt mye venting når man har gjort endringer i oppsettet. 
+
+Vi savner også norsk språk i oppsettet - men måten D-Link har organisert menyene på, gjør at det slett ikke er komplisert å sette den opp hvis du behersker litt engelsk. 
+
+Få også med deg de andre testene av rutere i samme klasse, Asus RT-AC5300, TP-Link Archer C5400 (best i test), Netgear Nighthawk X8 R8500 og Linksys EA9500, og hvis du ønsker god dekning i store boliger, uten behov for en prangende ruter, bør du få med deg våre tester av mesh-nettverksløsninger. 

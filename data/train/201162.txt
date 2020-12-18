@@ -1,0 +1,101 @@
+TEST:Komplett Gamer Premium 
+- AMD Vision Black 
+
+Den beste spillopplevelsen krever en kraftig stasjonær PC. 
+
+Det er en stund siden vi har testet stasjonære PC-er i DinSide data, og enda lenger siden vi testet PC-er beregnet på gamere. 
+Men nå var tiden inne, siden det har dukket opp maskinvare som er interessant å sjekke uansett. 
+Spesielt gjelder dette 6-kjerners prosessoren AMD Phenom II X6. 
+
+Det er også andre komponenter og kombinasjoner som er oppdatert, som SSD til systemdisk og roterende disk til lagring. 
+
+Grafikkløsningen er heller ikke spesielt pinglete, den består av 2 kort fra ATI koblet sammen i CrossFireX. 
+
+Spesifikasjoner 
+
+Her er listen over hva maskinen inneholder: 
+
+Prisen for et ferdig system ligger ca 900 kroner høyere enn om du skulle satt sammen alle delene selv og installert programvare osv. 
+Samtidig gir dette deg 3 års garanti. 
+
+Kabinett og montering 
+
+Kabinettet er et midi-tower, med mulighet for 4 vifter. 
+Det er i stål og plast og kommer bare i sort. 
+Viftene er plassert i topp (200mm!) og på baksiden (120mm) og foran hver av de to diskmodulene i front (120mm). 
+
+Det er plass til 9 lagringsenheter, 3 optiske 5,25" og 6 standard 3,5" som festes i to diskmoduler som kan tas ut fra fronten. 
+Modulene har gitter i front, og bak dette sitter en vifte som suger luft inn. 
+Foran viften sitter et luftfilter som enkelt kan tas ut for rensing. 
+
+Hastighetskontroll for viftene sitter øverst bak på kabinettet. 
+Legg også merke til de blå USB 3.0 kontaktene. 
+
+På toppen sitter av/på og reset-knapp, og 2 USB, 1 eSATA og jacker for hodetelefon og mikrofon. 
+
+Monteringen er utmerket, kablingen er ryddig, men det er brukt standard CPU-vifte. 
+
+Prosessor og grafikkort 
+
+Prosessoren er en Phenom II X6 1055T, den kjører på 2,8 GHz, men i turbo mode kan kjerner klokkes opp til 3,3 GHz. 
+L2 hurtigminnet er på 6 x 512k og felles L3 er på 6 MB. 
+Effektforbruket er på opptil 125 W. 
+
+Skjermkortene ASUS Radeon HD 5830 1GB GDDR5 er det to av og de er naturligvis koblet i CrossFire. 
+Disse skjermkortene er i seg selv ganske kraftige, og i par sparker det desto mer. 
+
+I bruk 
+
+Vi koblet opp PC-en på 2 skjermer. 
+Hovedskjermen var en BenQ på 22 tommer med 1920 x 1080 HD-oppløsning og ekstraskjermen en 19-tommer Fujitsu på 1440 x 900. 
+
+BenQ-skjermen ble koblet til HDMI (den har bare HDMI og VGA inn) og Fujitsu på DVI. 
+BenQ-skjermen fikk problemer med overscan og bildet dekket ikke hele skjermflaten. 
+Da koblet vi den til VGA med overgang fra DVI og den andre skjermen med overgang fra HDMI til DVI. 
+ATI-kortene har bare DVI, DisplayPort og HDMI ut - ingen egen VGA-kontakt. 
+
+Maskinen starter opp Windows 7 Home Edition på 40 sekunder og avslutter på 12. 
+I oppstarten tar det ca 12 sekunder før operativsystemet lastes inn. 
+
+Til all vanlig PC-bruk er den klart overdimensjonert, og alt skjer lynraskt. 
+
+Men dette er først og fremst en spillmaskin og her er ytelsen langt mer kritisk. 
+Mange av de populære online-spill som Call of Duty og CounterStrike er helt uproblematisk for denne maskinen, det er først ved tyngre spill at kreftene kommer til sin rett. 
+Spesielt når vi kjører dem i full HD (1920 x 1080) slik vi har testet. 
+
+Vi har spilt kjente spill som Team Fortress 2, Half-Life 2, Counter Strike Source, GTA IV, FarCry 2, Crysis og Crysis Warhead, Call of Duty Modern Warfare 2 - og maskinen håndterer disse stort sett uten problemer med alle instillinger på maks. 
+
+Men i Crysis og Crysis Warhead hakker det fremdeles på de aller mest krevende innstillingene, som ved Anti-Aliasing stilt på maks. 
+
+Vi fikk også noen problemer med Far Cry og Tean Fortress 2 da vi forsøkte å tweake innstillingene i Catalyst Control Center. 
+Standardinstillingene fungerte faktisk best. 
+
+Hvordan vi testet 
+
+Vi har brukt PC-en en drøy uke, først og fremst til spill, men også til vanlige oppgaver. 
+Spillene vi har kjørt tester på er FarCry 2, Company of Heroes og GTA IV. 
+
+Vi har også kjørt følgende tester: PCMark Vantage, 3DMark, Passmark og Geekbench. 
+
+Støy 
+
+Ved påslag er maskinen ganske støysvak. 
+Det er den også under vanlig bruk, helt til man begynner å belaste prosessoren. 
+Da begynner prosessorviften å øke turtallet, og når det virkelig er hardkjør, slik som under intens gaming og i noen av testene, da høres det ut som om den snart tar av og flyr ut av maskinen... 
+
+Når aktivitetsnivået synker følger viftehastigheten fort etter og går etter hvert ned til et behagelig nivå. 
+
+Temperaturen på luften som kommer ut av maskinen er aldri ubehagelig varm, men den bidrar likevel godt til oppvarmingen av rommet. 
+Det er tross alt noen hundre watt som brukes når det står på som verst, og det tilsvarer en liten panelovn. 
+
+Konklusjon 
+
+Komplett Gamer Premium - AMD Vision Black er en svært potent gamer-PC. 
+Med unntak av Crysis/Crysis Warhead - som bare helt ekstreme maskiner klarer med alt på fullt - er det bare å gi på, maskinen presterer. 
+
+Vi ville nok valgt en annen kjøler og vifteløsning til prosessoren på grunn av støyen, som er ganske heftig. 
+
+Systemdisken er heller ikke så rask som vi hadde ventet, og siden den er ganske liten er det naturlig at programmene lagres på den roterende disken. 
+Da er det bare selve Windows som får gleden av å bruke SSD-en. 
+
+Mer info om maskinen finner du hos Komplett. 

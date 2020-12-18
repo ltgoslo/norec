@@ -1,0 +1,47 @@
+500 GB Hitachi Deskstar 7K500
+Hitachi Deskstar er den største disken du får tak i, og med en kapasitet på 500 GB skulle det ta litt tid å fylle den opp. 
+Vi har testet. 
+
+I januar 2005 ble Deskstar 7K500 lansert, det skjedde på CES-messen i Las Vegas. 
+I tillegg til 100 GB større kapasitet enn konkurrentene, var det en rekke andre egenskaper som ble fremhevet. 
+Disse er først og fremst knyttet til S-ATA II spesifikasjonen, men også andre viktige egenskaper knyttet til sikring av integritet av dataene ved lagring og lesing. 
+
+Nyhetsartikkelen finner du her. 
+
+Mange plater 
+
+Den nest største disken vi har testet, Seagate Barracuda 7200.8, har en kapasitet på 400 GB som er fordelt på 3 plater. 
+Det opereres altså med en svært høy tetthet i det magnetiske mønsteret. 
+
+Hitachi har valgt en annen løsning, med flere plater og mindre tetthet. 
+Deskstar 7K500 bruker 5 plater og 10 lesehoder, som gir noe større toleransemarginer. 
+
+Høyere masse og flere mekaniske elementer tilsier vanligvis et høyere strømforbruk, varmeutvikling og mer støy, men Deskstar 7K500 er likevel godt innenfor det akseptable. 
+Den blir knapt håndvarm og har et støynivå på beskjedne 31 dB. 
+
+Dette gjør at disken egner seg både til større installasjoner for masselagring og til rimelig støysvake PCer. 
+Det er ikke noe problem å bruke den til lagring av store mengder video i en ellers støysvak stuePC. 
+
+Ytelse 
+
+Vi testet både med HD Tach og vårt eget testprogram. 
+
+Ytterst på disken er vi oppe i en skrivehastighet som vaker rundt 60 MB/sek og faller så pent ned mot 30-tallet innerst på disken. 
+
+Skriveytelsen viser tilsvarende utvikling, men med en del større variasjoner i ytelsen over mindre segmenter på disken. 
+Dette skyldes håndteringen av databuffere og bus-trafikk og er et vanlig fenomen. 
+
+Den gjennomsnittlige skriveytelsen lå et lite hakk over Seagates 400 GB disk, med 52 MB/sek mot 47 MB/sek. 
+
+Den gjennomsnittlige leseytelsen var nærmest identisk, med 51,1 MB/sek mot Seagates 50,8 MB/sek. 
+
+Lese- og skriveytelsen er dermed godt balansert på begge diskene, dette er en utvikling vi setter pris på. 
+Tidligere har gapet mellom lese og skriveytelse vært svært stor på en del disker. 
+
+Konklusjon 
+
+Disken er imponerende stor, og har en ytelse i toppsjiktet. 
+
+Kombinert med beskjeden støy og varmeutvikling vil disken være et utmerket valg for en rekke bruksområder, både til privat bruk for data-samlere og for andre krevende lagringsbehov. 
+
+Testeksemplaret ble lånt ut av Komplett. 

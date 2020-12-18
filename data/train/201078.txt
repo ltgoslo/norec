@@ -1,0 +1,113 @@
+Get box II
+Gets nye kabel-TV-dekoder har først og fremst framtiden foran seg. 
+Det er nemlig ikke sikkert du trenger den i dag. 
+
+Det har utrolig nok allerede gått fem år siden Get lanserte sin første HD PVR, en opptaker med innebygget kabel-TV-dekoder og modem for nettilkobling. 
+Boksen har vært en ubetinget suksess for Get, ikke minst på grunn av menysystemet og utmerket brukervennlighet. 
+
+I sommer lanserte Get enda en HD PVR, og selv om den har fått det litt anonyme navnet Get Box II, levnes det liten tvil om at dette er andregenerasjon med HD PVR når vi leser spesifikasjonene. 
+
+På papiret er nemlig boksen en råtass. 
+
+Den har blant annet 16 tunere, harddisk på 500 gigabyte (som gir plass til rundt 140 timer med opptak), innebygget trådløsruter, støtte for IP-telefoni og støtte for Dolby Digital Plus-lyd. 
+I tillegg er den betydelig mindre enn sin forgjenger, først og fremst ved at den er smalere og har en firkantet heller enn rektangulær form. 
+
+Er du kjent med HD PVR-en fra før, vil du umiddelbart føle deg hjemme med nye Get box II. 
+Du setter i programkortet (som nå er like stort som et SIM-kort), kobler TV-antennen til boksen, og skrur på. 
+Menysystemet er fullstendig likt som før, det samme er fjernkontrollen. 
+Avstanden estetisk sett mellom fjernkontrollen og den riktig så pene Get box II er nå like stor som avstanden mellom en supermodell og en kassebil fra 70-tallet, men det gjør forsåvidt ikke så mye - vi er godt vant med fjernkontrollen, og liker den. 
+
+Så hvor ligger egentlig forskjellene? 
+Og hvorfor skal du eventuelt oppgradere? 
+
+Slik er den i bruk 
+
+Ettersom den første HD PVR-en var vifteløs, har vi aldri hørt annet forsiktige lyder fra harddisken når den er i bruk - og da må vi lene oss inntil boksen. 
+Vi ble derfor litt bekymret da vi så en vifte på baksiden av Get box II, men etter et par uker i bruk har vi aldri lagt merke til sus eller annen viftestøy. 
+Det er godt mulig harddisken også er bedre isolert, for den er blitt usedvanlig vanskelig å høre. 
+Dette er gode nyheter, men det var altså heller ikke noe problem med HD PVR, så i prinsippet er også dette som før. 
+
+Den mest åpenbare forskjellen ligger i navigeringshastigheten. 
+Get box II er utstyrt med en betydelig raskere prosessor enn forgjengeren, og alt fra kanalveksling til å bla gjennom menyene er merkbart raskere. 
+Akkurat det er kjærkomment, for selv om HD PVR aldri har vært treg, har den heller ikke utmerket seg som noe fartsmonster. 
+
+En av tingene vi hadde sett fram til med Get box II var den vanvittige mengden tunere den er utstyrt med. 
+Da boksen først ble kjent og presentert av Get ga tallet seksten oss et aldri så lite hakeslepp, selv om vi fort ble klar over at vi absolutt ikke kunne forvente å bruke kanskje, muligens mer enn halvparten av disse til opptak og andre TV-aktiviteter. 
+
+På HD PVR er det bare mulig å ta opp maksimalt to programmer samtidig. 
+Skuffelsen er derfor stor når vi nå ser at Get, i etterkant av den første presentasjonen, har valgt å utstyre spesifikasjonslisten sin med "Get box II lanseres med 2 aktive tv-tunere". 
+Det betyr enkelt og greit at per i dag alt er som før: 
+Du kan ta opp to programmer samtidig, men ikke noe mer. 
+Gitt at vi mer enn én gang har opplevd såkalt opptakskonflikt på HD PVR, det vil si at du forsøker å se på en tredje kanal mens dekoderen tar opp på to andre kanaler (ikke mulig), er dette en stor skuffelse. 
+
+Vi vet heldigvis fra Get at dette vil forbedres ved seinere programvareoppdateringer, og vi vet at Get har store planer for de resterende tunerne (se lenger ned i artikkelen under "Dette skal framtida bringe"). 
+Det vil neste år bli mulig å ta opp fire programmer samtidig, men akkurat nå er den altså like låst som før ved opptak. 
+
+Ellers mener vi fortsatt at mensystemet og funksjonaliteten fungerer utmerket, og er en oppvisning i brukervennlighet. 
+Selv om det ikke har skjedd dramatiske ting siden lanseringen av HD PVR i 2008, oppleves menyer, TV-guide og så videre fortsatt som relativt moderne. 
+Bildekvaliteten er fortsatt strålende, og selv om vi fortsatt savner muligheten til å velge bort kanaler fra "bla-lista2 som vi ikke vil se på eller som vi ikke har tilgang til, er helhetsinntrykket svært solid. 
+
+En grei ruter for de fleste 
+
+Nytt med Get box II er det altså også at den fungerer som en trådløsruter. 
+Den støtter både såkalt 2,4GHz og 5GHz trådløsoverføring, eller rask og raskere som vi for enkelhets skyld kan kalle det her. 
+
+Passordet til nettet står på undersiden av Get-boksen, så husk å noter deg dette før du forsøker å koble deg til, eller så blir det noen år med gjetting for å komme seg gjennom den godt krypterte WPA2-tilkoblingen. 
+
+Som ruter for folk flest fungerer dette helt greit. 
+Vi har ikke opplevd ustabilitet av noe slag underveis, og både nettbrett, smartmobiler og bærbare har trivdes godt sammen med den innebygde trådløsfunksjonaliteten. 
+
+For enkelte vil det imidlertid være noen ganske store men her, hvor den alvorligste er at Get box II ikke kan fungere som et rent modem. 
+Det vil si, vi har funnet en oppskrift på nettet som absolutt ikke støttes av Get, for ringer du og spør Gets kundeservice vil du få vite at, nei, den skal kun fungere som kombinert kabelmodem og ruter i ett - den skal ikke bare være et kabelmodem. 
+
+Ruter-rot med tilkoblinger 
+
+Hvorfor er dette dumt? 
+Fordi mange rutere simpelthen er bedre, og ikke minst raskere, enn trådløsruteren inne i Get box II. 
+For all del, Get-boksen støtter blant annet såkalt retningsstyring, hvor den forsøker å lete seg fram til enheter koblet til ruteren, og deretter sende mer av trådløsstyrken i retning enheten(e), istedenfor å sende like mye av trådløssignalet i alle retninger. 
+
+Men den støtter derimot ikke den ferske AC-standarden. 
+Har du en nyere bærbar som støtter denne standarden, som er betydelig raskere enn for eksempel et vanlig 5GHz-signal, vil du med andre ord ikke kunne bruke denne sammen med Get box II for å få maksimal hastighet. 
+Da må du eventuelt ringe Gets kundeservice og få tilsendt et dedikert kabelmodem, men da er plutselig en del av vitsen med å samle alt i én boks litt borte. 
+
+Dette er likevel til å leve med for de fleste, og AC-standarden har foreløpig beskjeden utbredelse. 
+Problemet for produsenter av alt-i-ett-bokser vil alltid være at en må legge listen et bestemt sted, og vi er ganske sikre på at for nittifem prosent av Get-kundene vil ikke dette være noen ulempe i dag. 
+
+OPPDATERING: 
+Øyvind Husby hos Get forteller at det er mulig å koble til en trådløs ruter til Get box II, for eksempel en ruter med ac-standarden implementert, og at denne så får tildelt IP-adresse fra Get-boksen. 
+Get box II er dessuten såkalt "modulbasert", noe som blant annet medfører at senere versjoner av boksen vil kunne inneholde ac-standarden. 
+Om rundt fire uker vil den nye boksen dessuten bli utstyrt med såkalt "full bridge"-modus, og dermed også kunne fungere som rent modem. 
+Gode nyheter, altså! 
+
+Verre er det nok med ruterens brukergrensesnittet. 
+Også dette jobbes det med hos Get, men per i dag er det et salig rot. 
+Layouten er stygg, og rett og slett litt forvirrende, og alle som har vært borti brukergrensesnittet på for eksempel en nyere Asus-ruter vil raskt se at Get har litt å jobbe med når det kommer til brukervennlighet. 
+
+Ruteren mangler også såkalt QoS-funksjonalitet, som vi også mistenker at en del Get-kunder ikke er så opptatt av. 
+Det er en tjeneste hvor en kan styre hvilken datatrafikk som har prioritet i nettet, for eksempel at spillkonsollen din skal få stjele ekstra mye båndbredde når den er i bruk, eller at nedlasting av torrents skal nedprioriteres kraftig ved tildeling av båndbredde. 
+Bruker du dette må du bruke egen ruter og kabelmodem. 
+
+Dette skal fremtiden bringe 
+
+Get er klar på at Get box II per i dag ikke utgjør noen stor revolusjon sammenliknet med hva du allerede finner i HD PVR. 
+Den er riktignok merkbart raskere, den er mindre, og den har utvidede opptaksmuligheter i form av en større harddisk. 
+Den har også fått på plass en trådløsruter, som vi likevel mistenker at de fleste har allerede. 
+
+Så hvorfor skal du oppgradere i dag? 
+Tja, det finnes strengt tatt ikke veldig gode grunner til at du skal gjøre det i dag, men vi vet at Get jobber med lanseringsplaner for neste år som virkelig kan gjøre Get box II spennende. 
+
+Da skal en blant annet kunne bruke flere av tunerne til å kringkaste signaler fra Get box II trådløst i hele huset, slik at noen kan for eksempel kan se fotballkamp på soverommet, mens andre kan se film eller barne-TV i kjellerstuen. 
+Det vil forhåpentligvis også bli mulig å se opptak gjort med Get box II via for eksempel Gets micro-boks, og det jobbes også iherdig fra Gets side med å integrere mobiler og nettbrett i Get-universet. 
+
+Konklusjon 
+
+Ønsker du å kvitte deg med kabelmodem og ruter og samle det meste av trådløsuniverset i én elegant boks kan Get box II absolutt ha noe for seg, og har du fortsatt ikke tatt steget opp til digitale HD-opptakere, er det strengt tatt ikke noen gode argumenter for å bestille en HD PVR. 
+Det vil si, hvis du har avanserte behov på rutersiden (som vi allerede har vært inne på lenger oppe i artikkelen), bør du vente med Get box II. 
+Gitt en prisforskjell på 30 kroner per måned er det i dag derimot ikke noen grunn til å begynne med en HD PVR til 99 kroner i månedsleie - da går du rett til Get box II. 
+
+Har du allerede en HD PVR er argumentene langt svakere for å oppgradere. 
+Det mest spennende med Gets nye HD-boks er som nevnt hva den vil bringe i framtiden, ikke hva den bringer til bords i dag. 
+Ikke bare må du betale 499 kroner i et engangsgebyr for å bytte boks, du må også legge ut 360 kroner ekstra det første året på grunn av høyere månedsleie. 
+860 kroner er for mange for småpenger å regne i 2013, men har du for eksempel liggende et tonn med opptak du ikke har sett på din gamle HD PVR, klarer ikke jeg gi deg noen suveren begrunnelse for å oppgradere. 
+
+DinSide.no vil komme tilbake med flere anmeldelser av Get box II etter hvert som boksen oppgraderes! 

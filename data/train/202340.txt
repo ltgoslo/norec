@@ -1,0 +1,115 @@
+Samsung WB550
+24mm vidvinkel, smart autofunksjon og sylskarp LCD-skjerm. 
+
+I vår første trippeltest har vi tatt med kameraer som har vidvinkel tilsvarende 25mm eller mindre og 200mm eller mer som største tele. 
+I tillegg må kameraene kunne filme med 720p HD-oppløsning og veie mindre enn 250 gram. 
+
+Samsung WB550 er siste kamera ut i denne trippeltesten, og det er også det største, med sine 105x61x37mm og 249 gram på vektskåla. 
+Det betyr at det begynner å bli litt for tykt til å gli "subtilt" ned i innerlomma, men det betyr også at kameraet er "litt å ta i". 
+Dessuten er det lettere å holde et tungt kamera stødig når du tar bilder. 
+
+Optikken er ganske lik den på Casio Exilim EX-H10. 
+10x optisk zoom og vidvinkel tilsvarende 24mm (=240mm tele), og med en lysstyrke på f/3,3-5,8 (H10 har f/3,2-5,7 - altså marginelt mer lyssterkt). 
+
+WB550 har en bedre skjerm enn de to andre, med dobbelt så høy oppløsning (460.000 punkter kontra 230.000 hos de to andre), som spesielt merkes i menyene der teksten er mer lettlest og der det er plass til mer informasjon på skjermen. 
+
+Konstruksjon og knapper 
+
+Dette kameraet er større enn de andre, på godt og vondt. 
+Det sitter godt i hånda (selv om vi gjerne skulle ha hatt et enda mer markant grep), men kameraet føles litt klumpete og er nok litt for stort til å fungere som et festkamera. 
+
+På toppen: av og på-knapp, utløserknapp med zoomring rundt og funksjonshjul; akkurat samme layout som på Lumix 
+DMC-ZX1. 
+Samsung-kameraet har imidlertid et bedre funksjonshjul, der alle 360 gradene er utnyttet, og der motstanden er såpass stor at du neppe får byttet funksjon når du drar kameraet opp fra lomma, noe vi bemerket i Panasonic-omtalen. 
+
+Også på dette kameraet er blitsen plassert ganske langt ut mot høyre (sett bakfra), som gjør at høyre langfinger kan komme litt i veien når du tar bilder med blits, slik vi også opplevde på H10. 
+Panasonic-kameraet, derimot, har blitsen plassert lenger inn, slik at dette ikke er noe problem. 
+
+På baksiden - en 3 tommer stor skjerm, som altså har en høyere oppløsning enn de to andre med 460.000 punkter. 
+Men - etter å ha sammelignet noen eksempelbilder ser vi ingen spesiell utnyttelse av dette ved bildevisning; faktisk skalerer skjermen bildene litt dårlig, der skjeve linjer får en aliasing-effekt (der linjen fremstår som kantete). 
+
+Piltastene er plassert inntil hverandre i en ring, men er mer presise enn på Casio-kameraet, og også her fungerer de som hurtigtaster til blits, selvutløser, makro og endring av informasjonsnivået på skjermen. 
+
+En egen Fn-knapp (funksjonsknapp) fungerer som snarvei til innstillinger som lysmåling, fokustype, ISO-verdi, hvitbalanse etc, og kameraet har (slik Casio EX-H10 også har) en dedikert knapp for å vise bilder, der visningen kan brytes ved å trykke lett på utløserknappen. 
+En egen effektknapp er kun tilgjengelig i enkelte modi, men lar deg da velge bildestil der du blant annet kan stille fargemetning, skarphet, kontrast etc. 
+Denne knappen er imidlertid inaktiv når du bruker f.eks. automodusen. 
+
+WB550 har også en todelt betjening øverst til høyre som brukes i enkelte sammenhenger, f.eks. til å styre eksponeringskompensasjon eller regulere lukkertiden. 
+Kameraet er dessuten det eneste av disse tre som har HDMI-utgang, slik at du kan bruke en standardkabel når du skal koble kameraet til TV (de andre bruker proprietære kabler). 
+
+Enkelte vil også sette pris på at stativfestet er plassert ganske nøyaktig på midten av kameraet. 
+På Casio-kameraet ligger det på ca 44% av bredden, mens Panasonic-kameraet har festet plassert helt på den ene siden. 
+Dog er det ingen av dem som har stativfestet plassert nøyaktig på midten av objektivet. 
+Her er det Casio-kameraet som er nærmest. 
+
+Brukervennlighet og funksjoner 
+
+Samsung WB550 hjelpes godt av den skarpe skjermen med tanke på brukervennlighet. 
+Menyene er veldig lettleste, og du får også hjelpetekst om valgt modus, eller hvis ett av ansiktene i bildet har blunket i det bildet ble tatt (ganske snedig funksjon, forresten). 
+
+Menyene er også strukturert slik man forventer det. 
+Vi savner litt hjelpetekst til noen av funksjonene (f.eks. ACB, såkalt auto contrast balance, som du neppe skjønner uten å lese i manualen, Gud forby), men menyene viser tydelig hva som er valgt under de ulike innstillingene og fremstår som oversiktlige og greie. 
+
+En svakhet i forhold til brukervennlighet er at det hadde vært kjekt med tilbakemelding når du trykker på knapper som ikke fungerer i valgt modus. 
+Trykker du på E-knappen i automodus skjer det ingenting; det samme dersomom du trykker på de to knappene øverst til høyre. 
+
+Et annet eksempel der vi klødde oss i hodet var hvordan man i all verden fikk aktivert seriefoto. 
+Valget var der i menyen, men de ulike alternativene var grået ut. 
+Etter hvert fant vi ut til at dette var fordi ansiktsgjenkjenning var aktivert, men vi fikk ingen beskjed om at denne måtte slås av for å bruke kameraet i seriefotomodus. 
+
+Kameraet fra Samsung har noen fiffige funksjoner. 
+Vi tar først den sedvanlige turen rundt funksjonshjulet: 
+
+Smart Auto - Automodusen gir deg få muligheter til å stille noe som helst, men viste seg å fungere utmerket under vår testing. 
+Spesielt i en motlyssituasjon var WB550 på pletten med å informere om at dette var motlys, og bildet ble eksponert særdeles bra sammenlignet med de to andre, noe du skal få se eksemel på under avsnittet om bildekvalitet.Auto - Hmm...betyr det at det finnes en automodus som ikke er smart også? 
+Vel, med denne funksjonen er fortsatt det meste av innstillinger satt på automatikk, men du gis muligheten til å endre fokustype (punkt, område etc.), i tillegg til å velge en bildestil dersom du f.eks. ønsker deg kalde farger, sort/hvitt e.l.P 
+- Her får du lov til å stille på det meste, inkludert ISO, hvitbalanse etc. 
+Du har også tilgang til hele effektmenyen der du blant annet kan justere skarphet, kontrast, balansering av farger etc. 
+WB550 kan også ta bilde med inverterte farger, slik at du blir sort i ansiktet og får rare tenner.M 
+- Manuell modus. 
+Her kan du stille blenderåpningen (men kun velge mellom to verdier), samt regulere lukkertiden dersom du f.eks. vil ta et kveldsbilde av trafikken der lyset fra bilene blir til lange streker. 
+Lukkertiden kan stilles langt mer fleksibelt enn blenderåpningen. 
+Lengste lukkertid er 16 sekunder, men blenderåpningen kan ikke gjøres mindre enn f/7,3.Dual - Modus for å bruke både optisk og såkalt "digital" bildestabilisator. 
+I praksis blir bildene tatt med høye ISO-verdier, og som vi skal se senere, er ikke dette Samsung-kameraets sterkeste side. 
+Dette er med andre ord ikke en funksjon vi vil anbefale deg å bruke om du kjøper dette kameraet.Beauty shot - Sminkefunksjon for portretter, som glatter ut huden.Film - Kameraet kan filme med HD-oppløsning (720p), 30 bilder pr sekund, eller i 640x480 (30) og 320x240 (60). 
+Du kan også bruke effektmenyen for å gi videoen et fargepreg, f.eks. sepia eller sort/hvitt. 
+
+WB550 merker også dersom noen blunker i det bildet blir tatt, og det kan vente med å ta bilde til personen smiler. 
+Selvutløserfunksjonen har også en kjekk innstillling, som tar bilde 6 sekunder etter at det ikke er bevegelse i bildet. 
+Dermed har du aldri dårlig tid når du skal gå tilbake til gruppa for det obligatoriske gruppeselvportrettet i neste familielag. 
+
+Ytelse 
+
+Samsung WB550 har dårligst batterilevetid av de tre kameraene med 280 bilder pr ladning (330 hos Panasonic, 1000 (!) hos Casio). 
+Oppstartstiden er rundt 2 sekunder, men seriefotohastigheten er raskest, der vi klokket inn 14 bilder på 10 sekunder. 
+
+Autofokusen oppleves som den tregeste av de tre, og i dunkel belysning i stua på kveldstid var treffraten under 50% med tanke på antall bilder der kameraet faktisk fant fokus. 
+
+Bildekvalitet 
+
+Samsung-kameret tar generelt gode bilder. 
+På den positive siden vil vi spesielt trekke frem lysmåleren, som kombinert med smart auto-funksjonen viste seg å gjøre det meget bra. 
+Se bare på bildeeksempelet under hvordan WB550 har eksponert bildet langt mer riktig enn de to andre: 
+
+Det skal dog sies at også WB550 sliter litt med utbrente høylys i høykontrastscener; for eksempel når du tar bilder av et bygg med himmel i bakgrunnen, der sistnevnte ofte har en tendens til å bli helt hvit selv om det er overskyet. 
+
+På høye ISO-verdier er Samsung-kameraet noe bedre enn kameraet fra Casio, men fortsatt viskes det mye detaljer ut fra ISO 400, og her fremstår Panasonic ZX1 som klart sterkest. 
+Under ser du testbildet av hovedkortet med ISO 400: 
+
+Siden ISO 400 typisk velges av automatikken på innendørsbilder med blits, er det ikke fritt for at ansikter blir seende litt "utvasket" ut der detaljene forsvinner. 
+
+Videokvalitet Samsung-kameraet plasserer seg i midten av disse tre (bak Panasonic, foran Casio). 
+Detaljnivået i videoklippet er lavt, og det synes også på filstørrelsen, der WB550 kun ligger på rundt halvannen megabyte i sekundet, mens tilsvarende tall for Panasonic-kameraet er nesten fire. 
+Som du vil se på filmen under, har den også fått et ganske markant blåstikk: 
+
+Konklusjon, Samsung WB550 
+
+Kameraet fra Samsung presterer helt ålreit på de fleste punkter, men i denne gruppen sliter vi litt med å finne de slående argumentene for hvorfor du bør velge WB550 foran ett av de andre, selv om kameraet vel å merke er noen hundrelapper billigere enn begge de to konkurrentene. 
+
+WB550 er riktignok raskest på seriefoto (men vi har sett raskere), og du har til dels mulighet for å eksponere manuelt (lukkertiden kan i hvert fall stilles ganske fritt). 
+At skjermen har dobbelt så høy oppløsning utgjør mindre forskjell enn vi trodde på forhånd og er først og fremst fordelaktig fordi man får plass til mer og skarpere tekst på skjermen. 
+
+På den andre siden er kameraet markant større og mer klumpete enn de to andre, det har svakest batterilevetid, tregest autofokus (som vi opplever som upresis i mørket) og enkelte småplukk relatert til brukervennlighet trekker også litt ned. 
+Med tanke på bildekvalitet er det ikke voldsomme forskjeller på kameraene, men på ISO 400 og oppover har også WB550 problemer med å gjengi detaljene. 
+
+Senere i dag poster vi oppsummeringsartikkelen der vi kroner vår første trippeltestvinner. 

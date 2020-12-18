@@ -1,0 +1,63 @@
+Ytelse og konklusjon
+Med grei ytelse og lavt støynivå gjør U400 en god figur. 
+
+Ser vi spesifikasjonene i forhold til den likt prisede og råeste utgaven av forgjengeren U300(-144) har det på en måte gått begge veier. 
+
+LES OGSÅ: 
+
+Harddisken har riktignok blitt litt større og vi har fått mer RAM på U400, men til gjengjeld har turbominnet forsvunnet, og prosessorens klokkefrekvens er litt lavere. 
+
+De to modellene kjører også samme brikkesett (med integrert grafikkløsning), noe som betyr at de eksemplarene av U400 vi finner i butikkene i dag ikke tilhører den nye Centrino 2. 
+
+Så bortsett fra det faktum at U400 har fått digital video ut i form av HDMI, er den store forskjellen fra U300 mer et spørsmål om utseende og design enn spesiell funksjonalitet og tekniske løsninger. 
+
+Vi nevner likevel en ny ting som ligger i programvaren - ansiktsgjenkjenning med det innebygde webkameraet. 
+Du kan nemlig "registrere" fjeset slik at du ikke trenger skrive inn passord for å logge på datamaskinen. 
+Dette fungerer for så vidt greit (og er kult), men det er langt kjappere å bare skrive inn passordet... 
+
+Vel, la oss se på ytelsen: 
+
+PCMark05: 
+
+Høyere poengsum er bedre 
+
+Vårt testeksemplar (U400-X10) blir liggende etter den raskeste utgaven av forgjengeren. 
+Spesielt merker vi den raskere prosessoren på U300-144 og at den har Intel Turbo Memory. 
+
+Levetid i minutter, konstant på 
+
+Med våre testmetoder målte vi batterilevetiden til 2 timer og 45 minutter - et resultat som verken imponerer eller skuffer. 
+Dette ligger ikke overraskende rett i nærheten av forgjengeren, ettersom innmaten i stor grad er den samme. 
+
+Støy og varme 
+
+Det vi klagde mest på når det gjaldt U300 var viftestøyen, og her har heldigvis Toshiba tatt grep. 
+Satellite U400 er nemlig langt mer behagelig for øret, det er kun ved vedvarende hard belastning at den virkelig støyer. 
+Ved lettere bruk gir den hovedsaklig fra seg et jevnt sus og er uten sjenerende ulyder. 
+
+Når datamaskinen må jobbe litt blir den en tanke varm under, men kan også periodevis klare seg i fanget ditt. 
+På overflaten er det varmeste området touchpaden. 
+Du brenner selvfølgelig ikke fingertuppene, men er du følsom for varme kan dette være litt plagsomt, spesielt når maskinen belastes hardt. 
+
+Konklusjon 
+
+Alt i alt er vi nokså fornøyd med Toshibas Satellite U400. 
+Til å være en 13,3-tommer er den relativt velutstyrt (vi savner dog gigabit LAN), og selv om kanskje ikke alle finner blank plastikk like eksklusivt holder materialvalget for så vidt mål med tanke på kvalitet, målgruppe og pris. 
+
+Kontakter og tilkoblinger er ok lagt opp, skjermen er god og vi har heller ingen spesielle klager på tastatur eller touchpad. 
+I tillegg er støynivået lavt. 
+
+Dette er på ingen måte den raskeste bærbare der ute, men til all normal husholdningsbruk (medieavspilling, kontorprogrammer, vanlig bilde- og videobehandling osv.) er den god nok, selv om vårt testeksemplar ikke klarte å holde følge med forgjengeren. 
+Merk også at det integrerte grafikkortet gjør at den ikke er egnet for de fleste nyere spill. 
+
+Men bortsett fra en til tider litt for varm touchpad har vi ellers ikke så mye direkte negativt å si om Satellite U400. 
+Er du på jakt etter en liten, grei og ikke for dyr bærbar, og ikke synes 2,1 kilo er for mye å bære på, mener vi denne 13,3-tommeren bør være med i vurderingen. 
+
+Karakteren ligger helt på vippepunktet mellom en firer og femmer. 
+Vi vipper den opp fordi du selvfølgelig går for 13N-modellen, ikke 10X-modellen som vi har testet til i dag. 
+13N har støtte for draft-N (802.11n) trådløst nettverk og har en litt raskere prosessor. 
+Vi har sett den priset til under syv tusenlapper. 
+
+NB! 
+Er du i generell kjøpemodus for en bærbar PC, hold ut et par dager til. 
+Da presenterer vi nye bærbare PC-tilbud i nettopp denne prisklassen! 

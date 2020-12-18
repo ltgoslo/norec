@@ -1,0 +1,60 @@
+D-Link DIR-645
+En ruter som peiler ut hvor signalet skal sendes! 
+
+Tidligere var rutere flate bokser med én eller flere antenner som sprikte mer eller mindre tilfeldig i alle retninger, siden de bare var skrudd på bak på boksen av brukeren selv. 
+
+Men synlige antenner er ikke lenger vanlig på de nyeste ruterne. 
+Både Linksys/Cisco, Netgear, Belkin, Asus og andre har bygget inn antennene i flate kabinetter, og det er ikke lenger noen mulighet for at brukeren roter til antenneplasseringene og retningene på disse. 
+
+De nyeste modellene har også flere antenner inne i kabinettene. 
+Den trådløse teknikken utnytter plasseringen av disse i forhold til hverandre og til antennene i mottakeren for å bedre tolke signalene og oppnå bedre signalkvalitet. 
+Her brukes både direktesignalet og refleksjoner i prosessen. 
+
+DIR-645 
+
+D-Link DIR-645 skiller seg umiddelbart ut ved å være nesten rund, den har et dråpeformet tverrsnitt. 
+Den kunne nesten bli tatt for en vannkoker eller annet kjøkkenutstyr ved første øyekast. 
+
+Utførelsen er i blank plast, av den populære typen som gir fin bakgrunn til fingermerker. 
+
+På fronten har vi to lys som viser nettstatus og aktivitet, WPS-knapp og av/på knapp. 
+På den smale baksiden finner vi internettport, 4 gigabit-porter og en USB-port. 
+
+Ruteren må stå oppreist, og kablene stikker rett ut på baksiden og ledningsbunten krever sin plass hvis du kobler til alle portene. 
+
+DIR-645 støtter 802.11g/n på 2,4 GHz og er utstyrt med 6 interne antenner. 
+Disse er satt opp i det D-Link kaller SmartBeam, som skal fordele signalstyrken i de retningene det befinner seg utstyr som kommuniserer med ruteren. 
+
+Installasjon 
+
+Installasjonen var enkel, den følger D-Links tradisjonelle standard hvor du starter en installasjonsveiviser fra CD. Underveis får du beskjed om å legge inn relevant informasjon og etter litt venting mellom de forskjellige trinnene i prosessen havnet vi på nett. 
+Du må selv velge hva slags oppkobling du har fått fra nettleverandøren, brukernavnet og passordet. 
+For å få tilgang til de mer avanserte egenskapene til ruteren setter du opp brukernavn og passord. 
+
+Man kan som vanlig også gå rett inn i oppsettet fra nettleseren og taste inn IP-adressen til ruteren i adressefeltet. 
+
+Egenskaper 
+
+Ruteren har bred støtte for det meste, som QoS med automatisk eller manuelt oppsett, filter, brannmur, iTunes-støtte, DLNA, trådløst gjestenett, IPV6, gratis DDNS for tilgang til hjemmenettet fra web, tidsinnstilling, variabel senderstyrke og mye annet. 
+
+Vi kjørte ruteren med opptil 10 klienter med varierende trafikktyper og datamengde, og hadde aldri noen problemer. 
+
+Ytelse 
+
+Vi testet i våre to standardposisjoner og fikk glimrende ytelse både med 2 og 3 antenner på klientene. 
+
+Med den bærbare med 3 antenner fikk vi praktisk talt identiske resultater som med toppmodellen Belkin N750. 
+
+Med den bærbare med 2 antenner fikk vi faktisk bedre resultat enn med Belkin-ruteren, spesielt ned i kjelleren. 
+
+Vi forsøkte også å teste SmartBeam ved å sette i gang heftig samtidig opp og nedlastning i forskjellige plasseringer rundt i huset i forhold til maskinen vi målte på, for å "forstyrre" denne fra forskjellige retninger. 
+
+Men vi fikk ikke noen fornuftige måleresultater av dette, ytelsen ble lavere med ekstra trafikk, men det var ikke noe entydig mønster, det varierte like mye uansett over tid. 
+
+Konklusjon 
+
+D-Link DIR-645 er en svært kompetent ruter, med et stort repertoar av tjenester og en ytelse og rekkevidde i toppklasse. 
+
+Den dekker de fleste behov, har et interessant design og har et oversiktlig og greit oppsett. 
+
+Men det litt ufleksible fysiske formatet og at den ikke støtter 5 GHz gjør at den ikke får toppkarakter. 

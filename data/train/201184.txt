@@ -1,0 +1,91 @@
+Intel NUC (2014-utgaven)
+Den nyeste NUC PC-en fra Intel har litt mer og litt mindre å by på enn forgjengeren. 
+
+Til tross for at salget stuper, er ikke PC-en død. 
+Den kommer derimot i stadig nye fasonger. 
+Så lenge det er behov for å kjøre "ordentlige" programmer, og ikke bare små apper, så trenger vi maskiner å kjøre dem på. 
+
+Men den store PC-kassa er unødvendig for de aller fleste, og Intel har pakket alt man egentlig trenger inn i en liten boks som de kaller «Next Unit of Computing». 
+Riktignok trenger den ekstern strømforsyning, som de faktisk kunne ha klemt inn i hovedeneheten hvis de ville, men her har nok økonomene fått det siste ordet. 
+
+En NUC er veldig liten, sammenligner vi den med en Mac Mini er forskjellen påtakelig. 
+
+NUC D54250WYK 
+
+For kort tid siden testet vi en tidligere NUC-modell, med det velklingende navnet DC53427HYE. 
+Navnevalget til Intel tyder på at det er høy lageringeniørfaktor ute og går, skal man finne fram i utvalget av modeller må man være varsom og ikke røre i alfabetsuppen. 
+
+Dette eksemplaret er enda litt lavere enn den forrige modellen og har fått sølvfargede sider i stedet for sorte. 
+
+Den er utstyrt med den nyeste generasjonen Core i5-prosessor, hvor både brikkesett, grafikk og prosessor er samlet i én brikke. 
+
+Spesifikasjoner 
+
+Installasjon 
+
+NUC-kommer som "Barebone", det vil si at alt er ferdig montert bortsett fra noen få kritiske komponenter. 
+NUC-serien trenger minne, lagring og eventuelt trådløst nett som må monteres, resten er på plass. 
+
+Vi installerte en 8 GB SO-DIMM minnemodul fra Crucial. 
+Det er viktig at du leser etiketten på minneplassene, der står det 1,35 V DDR3. 
+Setter du inn mer vanlige 1,5 volts SO-DIMM står NUC-en bare og blinker i på-knappen sin, noe som betyr minnefeil. 
+Dette fant vi ut på den litt tungvinte måten. 
+
+I tillegg til minne og lagring installerte vi også en kombinert trådløs (802.11ac) og Bluetooth-løsning i form av Intels 7260-trådløskort. 
+Antennekablene i NUC-en var påsatt krympeslange, som var noe vriene å fjerne fra de små, tynne ledningene med bittesmå antennekontakter. 
+Fin-tenger og lupe-lampe er godt å ha. 
+
+Vi installerte en 120 GB mSATA SSD fra Kingston til operativsystem og lagring. 
+En slik NUC er vanligvis beregnet for nettverksbruk med tilgang til data over nettverket fra lokal lagring og lagring i skyen. 
+
+Tilkoblinger 
+
+De nyeste NUC-ene har fått USB 3.0 over alt, det sitter to kontakter i fronten og to bak. 
+Mens den forrige modellen vi testet hadde en standard HDMI-kontakt og to mini-DisplayPort tilkoblinger, har denne en mini-HDMI kontakt og bare én mini-DisplayPort. 
+
+I fronten sitter det nå tilkobling til lydutstyr som for eksempel hodetelefon. 
+Ved siden av er det også kommet en infrarød sensor. 
+
+Internt har det lille hovedkortet både SATA-kontakter for data og strøm, og en USB 2.0 dobbel pinnekontakt for tilkobling av kontaktmodul. 
+Det sitter også en vanlig flerpinne-tilkobling for tradisjonelle kabinetter på hovedkortet. 
+
+I bruk 
+
+Vi installerte Windows 8 fra minneplugg, og oppgraderte til Windows 8.1 når 8 var oppe og gikk. 
+Driverne fra Intel må lastes ned, du får alle i en zip-fil, men må installere hver og en for seg. 
+Det finnes ikke noe oppsettprogram som legger inn alle driverne automatisk, slik som andre hovedkortprodusenter ofte har tatt seg bryet med å lage. 
+
+Pussig nok forsvant både mus og tastatur etter driverinstallasjon, selv om begge deler fungerte i UEFI/BIOS, da vi brukte USB-versjoner fra Microsoft. 
+
+Men ved tilkobling av en trådløs desktop-løsning via en USB-svitsj fikk vi kontakt igjen. 
+Etter en lang remse oppdateringer av Windows 8, som var nødvendig for å oppgradere videre til 8.1 i Windows Store, kom også støtte for mus og tastatur på USB på plass igjen. 
+
+Vi ble altså ikke spesielt imponert over to av de største aktørene i PC-verdenen når de klarer å rote det til med noe så grunnleggende som driver-installering og støtte for mus og tastatur. 
+
+En annen ting er at denne NUC-en støyer. 
+Viften går hele tiden selv om lufta som kommer ut ikke er varm. 
+Det er også noe resonans i kabinettet, som forsvinner når man klemmer på lokket. 
+Å justere kabinettskruene har ingen effekt på ulydene. 
+
+Ytelse 
+
+Vi kjørte de samme testene som på forrige NUC og fikk disse resultatene: 
+
+Overraskende nok var ytelsen litt lavere enn vi målte på forrige modell. 
+Ikke mye, og vanskelig å skille under vanlig bruk, men tydelig på målinger. 
+
+Ytelsen på SSD-ene ligger i samme område, begge er utmerkede løsninger. 
+
+Konklusjon 
+
+Vi må si oss litt skuffet over at prosessorytelsen var lavere enn på forgjengeren. 
+Installasjonen var heller ikke så strømlinjeformet, men det blir man jo ferdig med. 
+
+Det vi likte dårligst var støyen. 
+Det er ikke noe som går over, og støyen var dessuten av den svært irriterende typen, med tydelig tone og karakter. 
+Det er med andre ord ikke snakk om sus som blir borte blant annet sus. 
+
+Det positive er at det nå er USB 3.0 overalt, og at det er IR-mottaker i front sammen med utgang til hodetelefon eller lydanlegg. 
+At det ikke er støtte for mer enn to skjermer er ikke noe problem for de fleste av oss, og støtte for DisplayPort 1.2 og 4K er jo lovende. 
+
+Intel NUC D54250WYK (Sølv/Sort) 

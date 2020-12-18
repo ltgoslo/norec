@@ -1,0 +1,67 @@
+TEST:Vido - trådløs dørtelefon med video 
+
+Er det svigerfar eller kemneren som er på døra? 
+
+En dørtelefon med video er ikke uvanlig i nye leilighetskomplekser, eller i næringsbygg. 
+Men til privat bruk er det ikke veldig vanlig, og en fast dørtelefon med skjerm er ikke noe alle vil ha på veggen. 
+
+Men det finnes alternativer, vi har testet Vido, en porttelefon med trådløs mottaker med video. 
+
+Hva ligger i pakken? 
+
+I pakken finner du de to hovedenhetene, utedelen med ringeknapp, høyttaler og kamera, og innedelen med mottaker og holder. 
+I tillegg er det de to strømforsyningene, som brukes fast på utedelen og som fungerer som lader på innedelen, som drives av lithiumbatterier. 
+
+Holderen til innedelen kan enten monteres på vegg eller settes på et bord eller lignende ved å trekke ut støttebenet. 
+Eller du kan la vær å bruke den i det hele tatt. 
+Glemmer du hvor den er kan du jo bare gå ut og ringe på ... 
+
+Montering og tilkobling 
+
+Utedelen har en ramme som festes i ytterveggen, selve kamera-delen stikkes inn i denne og festes med en skrue på undersiden. 
+
+Strømtilkoblingen må føres gjennom et hull i veggen bak utedelen. 
+Det er skrudd fast en kort kabel med skjøtekontakt for strømforsyningen i koblingspanelet bak på utedelen. 
+
+Her er det også feste for elektrisk døråpner, som aktiveres med en bryter på den trådløse innedelen. 
+Det finnes flere koblingsalternativer, for normalt åpen (NO) eller normalt sluttet (NC) kontakt. 
+(Vi er noe skeptiske til å føre styreledninger til en døråpner ut av huset, man trenger bare være McGyver light for å aktivere åpning ved å kortslutte eller bryte kretsen med koblingsledningene...) 
+
+Innedelen har en vanlig USB mini-kontakt til laderen. 
+Der er mulig å feste laderpluggen i bunnen av holderen, slik at innedelen lades når den settes i holderen. 
+Dette fungerer uansett om du fester holderen på veggen eller lar den stå på et bord eller i en hylle. 
+
+LCD-skjermen er på 2,4 tommer med oppløsning på 320 x 240 punkter. 
+Standbytiden er på 72 timer, ladetiden er på 4 timer. 
+
+I bruk 
+
+Begge enhetene leveres ferdig satt opp til å kommunisere med hverandre. 
+
+For å etablere kontakt mellom utedelen og flere innedeler må du trykke og holde forskjellige knappekobinasjoner, og følge med på displayet for statusmeldinger, hvis du ønsker flere innedeler, f.eks. en i hver etasje. 
+
+Når en besøkende trykker på ringeknappen ute, ser du med det samme bilde fra kameraet. 
+Svarer du med taleknappen aktiverer du toveis samtale, du kan altså både høre og snakke til den som ringer på. 
+
+Du kan også slå på kameramonitoren på innedelen med en egen knapp, uavhengig om noen ringer på eller ikke. 
+
+Hvordan fungerte løsningen? 
+
+Kommunikasjonen fungerte utmerket da vi koblet til strøm og prøvemonterte utstyret. 
+
+Vi resatte så utstyret for å sjekke oppsett fra bånn av, fulgte den engelske brukerveiledningen og fikk etter litt småfikling med knappene både etablert kommunikasjon og valgt ringetoner. 
+
+Deretter var det helt uproblematisk å bruke løsningen. 
+
+Lydkvaliteten var helt utmerket, bildekvaliteten var ikke fantastisk, men grei. 
+Du kan stille inn lysstyrken med +/- knappene ved siden av skjermen. 
+
+Selv i mørket får du et tydelig bilde av den som befinner seg utenfor, fordi kameraet også fungerer med infrarødt lys. 
+
+Rekkevidden var det ingen problemer med, vi hadde dekning i alle tre nivåer pluss kjeller. 
+
+Konklusjon 
+
+Har du arbeidsrom i annen etasje eller kjeller, og vil gjerne vite hvem som forstyrrer, eller har behov for å se hvem som ringer på og kunne snakke med vedkommende, så er Vido en utmerket løsning. 
+
+Flere tekniske data finner du hos importøren Boligsikring AS 

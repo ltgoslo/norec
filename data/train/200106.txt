@@ -1,0 +1,96 @@
+Jensen Media:Link 1000 mobil-TV 
+
+Developed in Norway. 
+Det må vel være et kvalitetsstempel? 
+Vi har testet mobil-TV-en ML1000 fra Jensen Scandinavia. 
+
+Du har kanskje fått med deg at vi har fått et nytt TV-tilbud her til lands? 
+DMB er fjernsynets svar på radioens DAB, og er i praksis TV-sendinger tilpasset mobile enheter, som mobiltelefoner og lommespillere. 
+
+Koster ikke noe 
+
+Fordelen med DMB er at mottak er helt gratis! 
+Det er imidlertid noen haker. 
+For det første er det begrenset utvalg av TV-kanaler (NRK-kanalene, TV2 og TV2Nyheter og TV3), og fram til 2011 er det kun du som holder til rundt indre Oslofjord som er garantert mottak, som riktig nok teller omkring 1 million mennesker. 
+
+Det er imidlertid også mulig å ta inn DAB-radiokanaler på de fleste DMB-apparatene, og som regel har de også støtte for avspilling av et bredt utvalg multimediefiler. 
+
+Foreløpig er det imidlertid et beskjedent utvalg av slike mobil-TVer i markedet, men de dukker nå opp en etter en. 
+
+Norskutviklet 
+
+Vi har tidligere testet denne mobil-TV-en fra Cowon, samt en DMB-mottaker for PC, og nå har turen kommet til sylferske Media:Link 1000 (ML1000) fra Jensen Scandinavia. 
+TV-en er faktisk utviklet i Norge, og kan skilte med norske menyer, men serieproduksjonen foregår på en fabrikk i Korea. 
+
+ML1000 har en særdeles attraktiv, flat utforming, der den 4,3-tommers trykkfølsomme LCD-en dominerer 90% av oveflaten. 
+Her er noen knapper på siden, blant annet av/på samt volumjustering, men de fleste operasjonene foretas direkte på skjermen, enten ved hjelp av fingertuppen (OK), eller den medfølgende pennen (Best). 
+
+Bredskjerm 
+
+Skjermen har en oppløsning på 480 x 272 piksler, i samme bredde-høydeforhold som vanlige flat-TVer. 
+Den får du størst glede av ved avspilling av mediefiler, mindre ved TV-visning. 
+Mer om det senere. 
+
+Av sentral funksjonalitet ut over TV- og radio-mottak (og opptak), trekker vi fram bildevisning (JPG/MBP, GIF, PNG), musikkavspilling (MP3, Ogg Vorbis, WMA) og video (DivX/Xvid). 
+Og blir det for lite med de innebygde 8 gigabytene, kan du utvide med et SDHC-kort på inntil 32 GB. 
+
+ML1000 har innebygde høyttalere på undersiden, men lyden er spinkel. 
+Det følger med øreplugger, men kontakten mot spilleren er i høyeste grad proprietær. 
+In-ear-pluggene som følger med er greie nok, men stiller du krav til lyden er det greit å vite at det følger med en overgang til vanlig 3,5 mm minijack. 
+
+Svært enkel installasjon 
+
+Første gang du starter spilleren får du spørsmål om du vil søke etter kanaler. 
+I vårt tilfelle fant den raskt 3 TV-kanaler (av totalt 6) og en rekke DAB-kanaler. 
+Og vips - så var vi i stand til å bruke den. 
+
+Et trykk på skjermen vil avduke en rekke valg i form av ikoner, og ikke alle er like intuitive, dessverre, men basisfunksjonaliteten er grei nok. 
+
+Kvalitet og dekning 
+
+Bildekvaliteten fra TV-sendingene er helt OK i et lite vindu, men DMB-sendingene er pr i dag tilpasset 4:3-formatet. 
+Derfor blir bildet strukket i bredden når du serdet i fullskjerm. 
+Her savner vi muligheten til å vise bildet slik det skal være, med svarte kanter på siden. 
+
+Dekningsmessig fikk vi få overraskelser. 
+Vi kunne uten problemer sitte og nyte nyhetssendinger uten avbrudd på toget mellom Sandvika til Oslo, som er midt i smørøyet hva angår dekningsområdet. 
+
+På nordøstsiden av byen derimot, fra Oslo sentrum mot Gardermoen, forsvant signalene like etter Lillestrøm stasjon, og dukket opp bare sporadisk ved et par anledninger lenger nord, og slett ikke lenge nok av gangen til å få med seg noe som helst. 
+
+Kan ta opp sendinger 
+
+Når du skal ut på tur et stykke unna byen er det jo greit å ha muligheten til å ta opp på forhånd, og se sendingene offline på spilleren etterpå. 
+
+Opptakene lagres i et tilsynelatende proprietært format som vi ikke klarte å spille av på andre enheter. 
+Det er med andre ord en løsning som virker låst til denne TV-en. 
+
+Her ser du en video av hvordan spilleren fungerer i praksis: 
+
+Vurdering av de andre funksjonene 
+
+Spilleren støtter som nevnt også avspilling av DivX/Xvid-filmer, men sjansen er stor for at du må kverne filene dine gjennom det medfølgende konverteringsprogrammet først. 
+Et par av våre DivX-demofiler ble i hvert fall ikke gjenkjent uten videre. 
+
+Et bredt utvalg av musikkformater støttes også, disse er bare å kopiere over til TV-en når den dukker opp som egen stasjon i Utforsker. 
+Navigering og grensesnitt er derimot noe krøkkete, og derfor velger vi heller å ha to dingser i lommen enn å ha all musikken på denne. 
+
+Visning av bilder går greit på små filer, men våre 10 megapiksels fotografier tar svært lang tid å vise. 
+Nok en funksjonalitet som gjør seg bedre på spesifikasjonslisten enn i praksis. 
+
+Batterilevetiden er rundt 3,5 timer med TV-mottak, 5 timer med videoavspilling og 30 timer ved musikkavspilling. 
+Du lader TV-en via USB eller med den medfølgende nettstrømadapteren. 
+Den kan brukes tilkoblet nettstrøm, men alle funksjoner deaktiveres når den et tilkoblet PC-en. 
+
+Konklusjon 
+
+Som TV-mottaker for DMB-sendinger rundt indre oslofjord gjør ML1000 absolutt nytta si, og den er dessuten enkel å sette opp til dette formålet. 
+Det eneste ankepunktet er fullskjermmodus, der bildet blir strukket, men dette vil fort endre seg når 16:9-sendinger starter senere. 
+
+Som generell mediespiller mangler den en del på brukervennlighet og logikk, menyer og ikoner virker uferdige, noe også firmware-versjon 0.2 vitner om. 
+Og en så enkel ting som at TV-en ikke er utstyrt med vanlig minijack-utgang til øretelefoner, er også en designglipp, mener vi. 
+
+Som mobil-TV gir vi den terningkast 4, men som mediespiller ville den fått lavere score. 
+
+Fra Jensen Scandinavia får vi opplyst at ML1000 blant annet selges hos Elkjøp, Lefdal og Expert, og at veiledende pris er 2.490 kroner. 
+
+Husk å få med deg testen av Cowon mobil-TV-en også. 

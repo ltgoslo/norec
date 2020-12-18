@@ -1,0 +1,34 @@
+Terratec Aureon Dual USB
+Misfornøyd med lydkortet i PC-en din? 
+Da bør du sjekke ut denne USB-løsningen. 
+
+Integrerte lydkort i PC-er blir stadig bedre, og med høyttalere på skrivebordet gjør de fleste nyere løsningene en god nok jobb. 
+Men det finnes situasjoner som setter større krav til lydutstyret, for eksempel i miljøer med større høyttalere og surroundanlegg. 
+
+I vårt tilfelle har vi en Mac Mini som er koblet TV-en og anlegget i stuen. 
+Lydkortet i minien har sine klare begrenseninger, blant annet hender det at vi kan høre forstyrrende artifakter, spesielt i lyse filmscener og med lydstyrken på kino-nivå. 
+Dette gjelder dersom vi bruker analog tilkobling til musikkanlegget. 
+
+Mange datamaskiner har heller ikke mulighet for surroundlyd uten videre, og erfaringsmessig har integrerte 5.1 og 7.1-løsninger også sine begrensninger, blant annet med ullen kanalseparasjon. 
+
+En ledig USB-port 
+
+I en vanlig stasjonær PC kan det i slike tilfeller være smart å investere noen hundrelapper i et dugandes lydkort som settes i et ledig PCI-spor, men verken Mac Mini eller bærbare PC-er og Mac-er har denne muligheten. 
+Da kan et USB-lydkort være en smart løsning, som for eksempel Aureon DualUSB fra Terratec. 
+
+Den er på størrelse med en minneplugg, og krever ingen spesielle drivere for å fungere rett ut av esken med Windows XP, Vista eller nyere versjoner av MacOS. 
+Sekunder etter at den er plugget i, har operativsystemet oppdaget den og satt den som standard lyd-enhet. 
+
+Optisk utgang 
+
+USB-lydkortet har to tilkoblingspunkter i enden, en 3,5 mm inngang for mikrofon og en 3,5 mm utgang for vanlig minijack. 
+Samme utgang kan imidlertid også brukes for digital optisk lyd (overgang følger med), noe som betyr at lyden er digital hele veien fram til forsterkeren, og dermed foregår all prosesseringen der, med de lydkvalitative fordelene det medfører. 
+
+I vårt tilfelle merket vi forbedringene først og fremst med tanke på at de forstyrrende digitale artifaktene ble så godt som borte, og det var det viktigste for oss. 
+Dette er rett og slett en billig og lynkjapp måte å få ren, klar lyd fra PC-en din. 
+
+Merk imidlertid at Aureon DualUSB ikke er i stand til å formidle full surround. 
+Hvis du trenger det, er det Aureon 5.1 USB MKII som gjelder: 
+
+Det er imidlertid en noe dyrere løsning enn DualUSB, som i skrivende stund koster rundt 200 kroner i nettbutikkene. 
+Og den kan trygt anbefales. 

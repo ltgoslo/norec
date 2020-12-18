@@ -1,0 +1,99 @@
+Fujifilm FinePix Z5fd
+TEST: 
+Lekkert, lite og rosa - hva mer kan en kvinne ønske seg? 
+
+Fujifilm er på hugget om dagen i markedet for lommekameraer. 
+Mens F-serien går sin seiersgang verden rundt, har vi denne gangen tatt en titt på det nyeste medlemmet i Z-serien. 
+
+Z-serien er Fujifilms "moteserie", noe som også gjenspeiles i fargeutvalget. 
+Z5fd fås i moccabrun (som vi fikk låne), sølv og bringebærrød (eller rosa som vi sier her til lands) og har et snertent design. 
+På grunn av at objektivet er innfelt i kamerahuset er kameraet ganske tynt, og det slås av og på ved å skyve hele fronten til side. 
+Litt ekstra bling-bling blir det også av at "Z5" lyser opp på forsiden av kameraet når det slås på. 
+
+Innfelt optikk 
+
+Optikken som sitter i kameraet følger som sagt det såkalte "folded optics"-prinsippet, der linseelementene er felt inn i kameraet. 
+Fordelen er at kameraet kan lages tynnere og at oppstartstiden kan gjøres raskere, siden objektivet ikke trenger å komme ut av kamerahuset. 
+
+Tradisjonelt sett er imidlertid ikke disse objektivene like lyssterke, og det gjelder også for dette kameraet: svake f3.5 er største blender på vidvinkel (teleenden er riktignok relativt lyssterk med f4.2). 
+Kameraet har 3x optisk zoom og brennvidden på vidvinkel tilsvarer 36mm. 
+Makronægrensen er på 8 cm. 
+
+Fujifilm har utstyrt også dette kameraet med en SuperCCD HR-brikke, men dog bare 0,4 tommer (ca 1cm), som er den minste av de mer vanlige brikkene. 
+Dette betyr på papiret at støyegenskapene ikke vil være like gode som de er på F-serien, som har 0,625 tommers brikke (ca 1,59cm). 
+Allikevel har også Z5fd gode muligheter for å ta bilder med høy følsomhet 
+- ISO 1600 er tilgjengelig i full oppløsning, og hvordan det går skal vi se på senere i denne omtalen. 
+
+Skyvelokk 
+
+I likhet med Sonys T-serie har denne serien et skyvelokk som fungerer som av og på-knapp, og som også beskytter objektivet når kameraet ikke er i bruk. 
+Blitsen er plassert omtrent midt på kameraet, et godt stykke fra objektivet, men kameraet har ingen hjelpelampe til autofokusen. 
+
+På toppen av kameraet finner vi utløserknappen, en liten bryter som bytter mellom video og bildeinnspilling og en knapp for ansiktsgjenkjenning. 
+fd i modellnavnet står nemlig for nettopp "face detection", og denne knappen kan aktivere/deaktivere funksjonen, i tillegg til at den kan brukes for å hoppe fra ansikt til ansikt under visning av bilder tatt med funksjonen aktivert; kjekt hvis du skal sjekke kjapt at ingen blunket på bildet. 
+
+Ansiktsgjenkjenningen er for øvrig svært rask, og Fujifilms teknologi kjenner igjen opp til 10 ansikter når du tar bilde. 
+Deretter sørger kameraet for å justere eksponering og blitsbruk, men etter å ha testet litt med og litt uten synes vi ikke forskjellen er veldig åpenbar, men det er heller ment som ros til kameraet enn det er kritikk av ansiktsgjenkjenningen - i motlyssituasjon opplevde vi at kameraet brukte blitsen uavhengig av om ansiktsgenkjenningen var slått på. 
+For enkelte vil ansiktsgjenkjenning imidlertid være en fordel fordi du ikke trenger å tenke på først å fokusere og deretter komponere utsnittet - du kan komponere med en gang, og så sørger ansiktsgjenkjenningen for fokuseringen. 
+
+Behagelig betjening 
+
+På baksiden av kameraet finner vi som vanlig en LCD-skjerm; denne gangen med 230.000 piksler og 2,5 tommer (6,3cm) diagonalt. 
+Den har et noe refleksivt belegg som gjør at den ikke synes veldig godt i sollys, men kan heldigvis justeres opp i lysstyrke ved å trykke på oppoverpila. 
+
+Zoomkontrollen er en tradisjonell dobbeltknapp merket "W" og "T" for vidvinkel og tele. 
+Under denne finner vi litt gummi som gir tommelen feste, før vi finner den vanlige piltastkonfigurasjonen under. 
+Selv om kameraet er lite har det på ingen måte gått ut over betjeningskomforten. 
+
+Piltastene fungerer som snarveier til makro, blits, selvutløser og sletting av bilder/lysere skjerm, og rundt disse finner vi fire andre knapper: 
+Knappen merket med "play-symbolet" bytter til avspillingsmodus (et lett trykk på utløserknappen og kameraet er klart til dyst igjen), F-knappen lar deg stille ISO-verdi, bildekvalitet og fargeintensitet, disp-knappen bytter mellom ulike visningsmodi (informasjon og rutenett kan slås av og på) og en knapp lar deg bytte til enten anti-ristemodus (som i praksis bruker høyere ISO-verdi) eller dobbeltbilde, der kameraet tar ett bilde uten og ett med blits med kort mellomrom. 
+
+Ellers er menyene slik de har vært på Fujifilms kameraer de siste par årene: grå, blå og hvite - lettfattelige og greie. 
+Vi savner dog en Auto(400)-funksjon slik F-serien har fått, og dette kommer vi tilbake til under bildekvalitetsavsnittet. 
+Kameraet har heller ingen manuelle funksjoner, noe vi for så vidt ikke ville ha forventet av et kamera i dette segmentet, men vi savner automatisk rotasjon av bildene som er tatt på høykant. 
+Dette må du selv gjøre manuelt på PCen. 
+
+I bunnen sitter batteriet og minnekortet bak et plastlokk. 
+Batteriet har en ekstra tapp som holder det godt på plass (tommel opp). 
+På høyre side finnes sender/mottaker for IrSimple - en overføringsprotokoll for trådløs overføring av bilder til kompatible enheter. 
+
+Ytelse 
+
+Sammenlignet med andre kameraer med innfelt optikk, er vi noe misfornøyde med oppstartstiden, som tar 2 sekunder med minnekort. 
+Ikke at det er avskrekkende mye, men en av fordelene med at optikken ikke stikker ut av huset er nettopp at dette kan gjøres kjappere. 
+
+Uansett - kameraet oppleves som normalt kjapt ved vanlig bruk, og spesielt autofokusen er rask. 
+Ingen imponerende prestasjon på seriefoto, riktignok, men vi ser ikke for oss at dette nødvendigvis er det som teller mest for denne typen kamera. 
+
+Under ser du våre målinger: 
+
+Bildekvalitet 
+
+Det vi først og fremst var spente på ved Z5fd var støynivået ved høye ISO-verdier. 
+F-serien gjør dette bedre enn noen annen kameraserie, men siden CCD-brikken er mindre på dette kameraet vil det nødvendigvis være noe mer støy enn hva tilfellet er for "storebrødrene". 
+
+Opp til ISO 400 ser det slett ikke så ille ut, men den aggressive støyfjerningen reduserer detaljene i bildet allerede fra 200. 
+800 og oppover bør unngås med mindre bildet skal brukes til web, noe du ser eksempel på under: 
+
+Problemet er, i likhet med andre kameraer fra Fujifilm, at automatikken er for ivrig til å stille høy ISO. 
+Bildet under tok vi midt på en overskyet dag, og da er det helt unødvendig med ISO 800 og 1/210s lukkertid. 
+Når kameraets målgruppe ikke nødvendigvis samsvarer med de som er ivrigst på å stille inn ISO-verdien synes vi dette er en liten bommert fra Fujifilm; i det minste hadde det vært lurt med en Auto (400)-funksjon, som F-kameraene har. 
+
+Eksponeringsmessig treffer kameraet som regel veldig godt; utendørs som innendørs, med en tendens til heller å undereksponere litt enn å blåse ut høylysene, som vi for så vidt synes er bedre. 
+Objektivet har normalt god skarphet for denne slags optikk, men sliter litt med kromatisk feilbrytning, noe du ser eksempel på til høyre. 
+Fortegning og vignettering er nokså moderat på vidvinkel, mens teleenden har litt putefortegning. 
+
+Se bilder tatt med kameraet! 
+
+Konklusjon 
+
+Fujifilm Finepix Z5fd er et levende bevis på at lekkert design ikke trenger å gå ut over brukervennligheten. 
+Selv om kameraet er relativt lite er det også god plass til knapper, og kameraet er komfortabelt å betjene. 
+
+Kameraet er ikke det raskeste, men presterer jevnt over greit i våre ytelsestester. 
+Bildekvaliteten er god på lave ISO-verdier, men Z5fd har ikke det samme "ISO-våpenet" som F-serien har, noe som er naturlig siden bildebrikken er mindre. 
+
+Dette burde imidlertid Fujifilm også tatt konsekvensen av; automatikken må ofte overstyres fordi den har en tendens til å velge høye ISO-verdier, som degraderer bildekvaliteten unødvendig. 
+Det gjør at de i våre øyne bommer noe på målgruppa, som ikke nødvendigvis er de ivrigste på å stille på ISO-verdier. 
+
+Se bilder tatt med kameraet! 

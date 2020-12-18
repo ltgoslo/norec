@@ -1,0 +1,52 @@
+Kingston HyperXPredator 512 GB 
+
+En voksen minneplugg på 512 GB med USB 3.0 
+
+Allerede i desember 2012 fikk vi nyss om en minneplugg som ville ha fire ganger så stor kapasitet som dagens varianter. 
+Og på CES i januar 2013 ble den lansert. 
+Det var Kingston som lanserte den, og har gitt den navnet Predator. 
+
+Nå har vi fått inn et eksemplar til test, men det er en lillebror på "bare" 512 GB. 
+
+HyperX 
+Predator 
+
+Minneplugger finner man overalt, til og med i dagligvarehandelen. 
+Og hos Clas Ohlson ligger de i "fristelseskurvene" rett før kassa, sammen med barberskum, batterier, superlim og LED-lykter. 
+
+Prisene er lave og kapasiteten er gjerne på 16 eller 32GB, noe som holder til å ta med seg de viktigste dataene når man skal hit eller dit. 
+
+Men skal du frakte mye data må du gjerne over på en portabel disk, og da blir det både mer å dra på og tregere i bruk. 
+
+Men med raskt flashminne og USB 3.0 får du både høy hastighet og kompakt format. 
+Hvis du dropper metallesken vel å merke. 
+
+I boks 
+
+Predator kommer i en metallboks som er nesten like stor som en 3,5-tommers harddisk. 
+Den inneholder selve minnepluggen, en forlengelseskabel (som ofte er nødvendig fordi pluggen er så stor) og en nøkkelring. 
+
+Minnepluggen har en hylse som kan skyves inn og trekkes ut for å skjule og beskytte selve USB-kontakten. 
+
+Ytelse 
+
+Stor kapasitet krever rask overføring av data til og fra enheten. 
+Og ut fra spesifikasjonene er denne i en helt annen liga enn vanlige minneplugger. 
+
+Vi testet med flere forskjellige testprogrammer og fikk disse målingene. 
+
+Konklusjon 
+
+Oppsummert ser vi at skriving av store filer går svært raskt og lesing enda raskere. 
+Men rask veksling mellom skriving og lesing av små filer fungerer derimot dårlig. 
+
+Det betyr at Predator er glimrende til overføring av store filer som video og store bildefiler, lyddata og annet som tar stor plass. 
+
+Men det er ikke spesielt lurt å jobbe med redigeringsarbeide med data liggende på denne. 
+Det er mer effektivt å kopiere dataene over på en SSD og jobbe på denne, og så ta en kjapp sikkerhetskopi over på Predator. 
+
+Prisen er høy, du slipper billigere med en 512 GB SSD i et USB 3.0 kabinett. 
+Det er minst like raskt, men det tar større plass. 
+
+Kingston USB 3.0 DataTraveler HyperX 
+Predator 512GB 

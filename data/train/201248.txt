@@ -1,0 +1,71 @@
+MINITEST:Zoom Q3 
+
+Noen ganger er lyden viktigst, faktisk oftere enn man tror. 
+
+De senere årene har det dukket opp flere gode lydopptakere som tar opp i stereo med høy kvalitet og lagrer data på minnekort. 
+Disse har blitt svært populære både blant proffer og entusiaster i mange forskjellige sammenhenger. 
+
+Det finnes også et enormt utvalg av små apparater som tar opp video, fra mobiltelefoner til videokameraer. 
+Men det er ikke mange av disse som tar opp lyd i spesielt god kvalitet, snarere tvert i mot. 
+
+Mange vil gjerne ta opp live musikk på video, men resultatet blir ikke spesielt tilfredsstillende, fordi lyden som regel blir helt krise. 
+Spiller du i band, eller har venner eller unger som spiller i en eller annen sammenheng, må du godt opp i pris før du får et kamera som håndterer lyd uten å vrenge på grunn av for høy følsomhet, eller "pumper" nivået på grunn av automatisk volumkontroll. 
+
+Også for proffbruk er det mange ganger behov for en kvalitetslydopptaker som også kan fange video, og det er ikke alltid behov for topp HD-videokvalitet. 
+Spesielt ikke i forbindelse med musikk, intervjuer eller reportasjer. 
+
+Zoom Q3 Handy Video Recorder 
+
+Selve opptakeren er litt større enn en fjernkontroll, har innebygde stereo mikrofoner i X/Y posisjon for ekte stereo og tar opp på SD-minnekort på opptil 32 GB (SDHC). 
+Opptakstiden er opptil 16 timer, oppløsningen på video er 640x480 (VGA) og lyden kan tas opp i MP3 opptil 320 kbps eller WAV i 48 kHz/24-bit. 
+Du kan også ta opp rene lydopptak (uten video) i 96 khz/24bit WAV. 
+
+Det er et 2,4-tommers display og et oversiktlig betjeningspanel. 
+I prinsippet kan du bare slå den på, peke mot objektet og trykke Rec for å ta opp, hvis du vil bruke innstillingene fra forrige gang. 
+
+Det er ingen instillinger på video, objektivet har fast brennvidde og fokuserer fra 0,8m til uendelig. 
+Opptakene tas opp i MPEG-4 SP. 
+Du kan zoome under opptak med "<<" og ">>" knappene. 
+
+På venstre side finner du inngang til strømforsyning (den kjører også på 2 AA batterier), utgang for hodetelefoner/forsterker, velger for video eller bare lydopptak, følsomhetsvelger for lydnivå og av/på knapp. 
+
+På høyre side finner du luke til SHC kort, utgang til TV (overgangskabel følger med) og en USB-plugg med en liten kabelstump, som kan felles inn i opptakeren. 
+
+På undersiden er det gjenger for stativ. 
+
+I bruk 
+
+Som nevnt over er den latterlig enkel å bruke. 
+Du velger opptaksformat, så er det bare å trykke Rec, og innstillingene huskes til neste gang du slår den på. 
+
+For å spille av opptakene trykker du avspillingsknappen under displayet. 
+Du kan lytte i innebygd høyttaler eller i hodetelefoner. 
+
+For å overføre opptakene kan du bruke opptakeren som USB-kortleser, du bare trekker ut pluggen og kabelen og kobler den til PC-en. 
+Har du allerede kortleser er det bare å sette i kortet og spille av derfra, eller overføre til PC-en og redigere, sende videre eller arikvere. 
+
+Det følger med en svært enkel programvare for redigering, her kan du bare kutte i begynnelsen og slutten, for å fjerne ventetid før og etter opptaksstart/slutt. 
+For videre redigering kan du bruke et hvilket som helst annet kurant videoredigeringsprogram. 
+
+Blir det bra? 
+
+Vi fikk bare anledning til å leke oss med opptakeren i noen korte timer, og testet den på simulerte intervjuer og reportasje. 
+Det fungerte helt utmerket til det meste under normale forhold, problemene dukket ikke uventet opp ved dårlige lysforhold og næropptak. 
+Men lyddelen fungerer svært overbevisende, og både tale fra intervjuer og objekt kommer godt inn på opptaket, i tydelig stereo. 
+
+Til musikkopptak fikk vi ikke tid og anledning til å ta opp live band, men noen takter på vårt gamle Hammond ble helt utmerket. 
+
+Du kan også se opptaket på YouTube 
+
+Det er tre innstillinger for opptaksnivå, L, H og Auto som står for lav følsomhet (høy lydkilde), H for høy følsomhet (lav lydkilde) og Auto som stiller seg inn automatisk etter det høyeste lydnivået. 
+Auto fungerte overraskende bra, fordi den ikke justerer lydnivået opp, bare ned. 
+Dermed får du ingen pumping i lydnivået, som hos andre opptakere, som hele tiden prøver å tilpasse seg til skiftende lydnivå. 
+
+Til musikkopptak vil det være en fordel å velge en av de faste innstillingene, men her hadde det vært optimalt med bedre justeringsmulighet, det er stor forskjell mellom Lav og Høy følsomhet. 
+Imidlertid blir opptakskvaliteten såpass bra på lav følsomhet, at du som regel kan dra opp nivået i ved avspilling eller redigering uten at det blir problematisk. 
+Forvrengte opptak pga for høy følsomhet er det derimot ingen ting å gjøre med, verken på denne opptakeren eller andre opptakere som hittil er oppfunnet... 
+
+Konklusjon 
+
+Zoom Q3 er en lydopptaker med video og gjør jobben på en svært overbevisende måte. 
+Lydkvaliteten kan sammenlignes med rene lydopptakere i samme klassen, betjeningen og de praktiske egenskapene er logisk og enkel. 

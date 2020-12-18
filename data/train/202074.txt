@@ -1,0 +1,72 @@
+TEST:VGA og lyd til HDMI 
+
+Noen ganger må det konverteres, kan en boks gjøre det helt enkelt? 
+
+Det er ikke alltid apparatene snakker samme språk. 
+Når man selv verken forstår det ene eller det andre er det en ren ønskedrøm som går i oppfyllelse hvis man bare kan koble inn en automatisk tolk mellom partene. 
+
+Skal du koble noe til en TV i dag - vi snakker selvsagt om en flat en - er det HDMI som er det enkleste og mest praktiske. 
+Da slipper du å tenke på oppløsning, og lyden følger også med. 
+Men det er fremdeles situasjoner hvor signalkilden ikke har noe HDMI signal å by på. 
+En bærbar med VGA og analog lyd ut er en typisk kandidat, en videomaskin med komponentutganger kan være en annen. 
+
+De fleste TV-er har innganger for VGA, men det kan være plundrete å komme til. 
+Det samme gjelder komponentinnganger. 
+Dessuten er det dette med innstillinger. 
+
+For å gjøre det enkelt har Sandberg lansert en boks som blant annet oversetter fra VGA og lydutgang til HDMI, og er så enkel i bruk at du er ferdig på sekunder. 
+
+Det er teorien, i henhold til Sandberg. 
+Hvordan fungerer det i praksis? 
+
+Tilkobling 
+
+Selve boksen er akkurat så stor at det er grei plass til kontaktene som alle sitter på den ene langsiden. 
+
+Det følger med VGA-kabel og en stereo minijack-kabel i tillegg til strømforsyningen. 
+HDMI-kabel må du sørge for selv. 
+
+Vi koblet boksen til HDMI2-inngangen på vår Sony LCD-TV som har full HD oppløsning. 
+Der kom det fram at signalet som ble presentert var på 720p. 
+Boksen leverer altså et HD-signal i 720p, ikke 1080P. 
+
+Det er ingen brytere eller knapper som lar deg velge oppløsning på boksen. 
+Den eneste bryteren velger mellom VGA og komponent-signal (YpbPr). 
+
+Vi koblet VGA-inngangen til utgangen på vår Acer minibærbare som har en skjermoppløsning på 1366x768. 
+Signalet til ekstern monitor kan varieres, skjermkortet melder hvilke oppløsninger som støttes av den eksterne skjermen. 
+
+I dette tilfelle er det Sandberg-boksen som er "skjermen", og i kontrollpanelet på PCen kunne vi velge mellom oppløsninger på 640x480, 800x600, 1024x768 og 1280x800. 
+
+Men ikke i noen av disse oppløsningene kunne vi se hele skrivebordsflaten, heller ikke statuslinja nederst på skjermen. 
+
+Vi byttet til vår gamle 
+Dell bærbare og her var resultatet det samme. 
+Ingen fullverdig skrivebordsflate, og tildels problemer med å få tilgang til det som ligger på PCen. 
+
+Kan det likevel brukes? 
+
+For vanlig PC-bruk fungerer det dårlig. 
+En ting er at du ikke ser hele skjermflaten, en annen ting er at oppløsningene fra boksen ikke stemmer med oppløsningen på skjermen. 
+All tekst og strekgrafikk blir derfor svært lurvete. 
+
+Men da vi hentet opp bildealbum og forskjellige videoer ble inntrykket straks mye bedre. 
+
+Høyoppløselige bilder fra vår speilrefleks så faktisk helt utmerket ut på vanlig sitteavstand dvs 2-3 meter fra 40-tommeren. 
+
+Det samme gjaldt video, egne opptak fra ymse apparater ble så bra som utgangspunktet tillot. 
+Opptak fra vårt HD-kamera konvertert fra AVCHD til 720p WMV for å kunne avspilles på svakere bærbare dekket skjermen i riktig format. 
+Andre oppløsninger og formater ble avspilt med svarte felt på sidene eller over, avhengig av format. 
+
+Og bare så det er nevnt, lyden var uproblematisk. 
+
+Konklusjon 
+
+Dette er ingen trylleboks som gjør hvilken som helst flat-TV til en god PC-monitor. 
+Men til å vise videofiler, presentasjoner og bilder funger det lettvint og bra. 
+
+Den skal også fungere på konsollspill med komponentutganger, men det rakk vi ikke å teste. 
+
+Prisen er 869 kroner i Sandbergs webshop. 
+
+Mer info finner du her 

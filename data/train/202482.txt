@@ -1,0 +1,36 @@
+Freecorder - tar opp det du hører
+Hører du noe på PCen som du ønsker å lagre? 
+Her er kanskje den beste gratisløsningen. 
+
+Nettradio, musikk, intervjuer og portretter. 
+Mye av det som strømmer gjennom PC-høyttalerne dine kunne vært kjekt å ta med seg på MP3-spilleren eller mobiltelefonen, men det er ikke alltid så enkelt. 
+
+Det er her Freecorder fra Applian Software kommer inn i bildet. 
+Programmet legger seg som en egen verktøylinje i Firefox og Internet Explorer, og når du hører noe du gjerne vil lagre til harddisken i form av en MP3-fil, er det bare å trykke på "Record"-knappen. 
+
+Når sendingen eller sporet er ferdigspilt, kan du bare trykke på stopp-knappen. 
+
+Helt til høyre på verktøylinjen ligger til og med en mini nettradiospiller, der du kan legge inn dine favorittkanaler. 
+To kanaler som spiller musikk ligger der allerede. 
+
+Alt du kan høre 
+
+Programmet klarer å fange lyden uansett kilde, og bruker teknikker som fungerer bedre enn andre programmer som typisk bruker "Stereo Mix" fra lyddriveren når innspillingen pågår. 
+
+For det første stilles innspillingsvolumet korrekt uansett hvor høyt du spiller, du kan til og med skru av lyden helt. 
+For det andre spiller den kun inn fra den første lydkilden. 
+Det betyr at lyder som dukker opp i etterkant mens opptaket pågår, som klikk fra nettleseren og lyder fra windowsmiljøet, ikke forstyrrer opptaket. 
+Det er imidlertid mulig å overstyre dette dersom du skulle ønske det. 
+
+Automatiske spor 
+
+Programmet starter ikke opptaket før lyden dukker opp, og oppdager selv opphold mellom sanger, og lager separate MP3-filer av materialet. 
+
+Utviklerne understreker at programmet bruker en driverløs modell, og at systemet ditt ikke vil påvirkes negativt av å ha installert Freecorder. 
+
+Gratis 
+
+Applian har også noen langt mer sofistikerte løsninger i sin portefølje, som blant annet analyserer musikken og lager korrekte filnavn automatisk, men disse programmene koster penger. 
+
+Freecorder er som nevnt gratis, og fungerer i Windows XP og Vista. 
+Du finner mer informasjon og kan laste ned programmet (2 MB) fra denne siden. 

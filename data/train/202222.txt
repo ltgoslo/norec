@@ -1,0 +1,105 @@
+SampleTank for iOS
+Kan du slippe å dra med deg laptop eller instrumenter? 
+
+I august i år skrev vi om to programmer - eller apper som det heter i dag - som gjør iPhone eller annen i-dings til en lydmodul. 
+
+Mobiler er allsidige verktøy, de er dessuten like kraftige som PC/Mac'er til tre ganger prisen var for få år siden. 
+Men det som før het "applikasjonsprogrammer" har ikke bare fått mye kortere navn, de er langt billigere, og koster ofte en brøkdel. 
+Er de like bra? 
+
+Minste motstands vei 
+
+Musikkprogrammer som lager lyd baserer seg på to teknikker: 
+Sampling som er digitale opptak av lyder, eller simulering hvor programvaren lager lyden fra bunn av, ved å simulere (eller modellere) det som fysisk skjer i et "ekte" eller tenkt instrument. 
+Dette kan være akustiske fenomener eller elektroniske, man kan simulere piano og synther, trompet og gamle Hammond tonehjulsorgler osv. 
+
+Vi kaller begge variantene for virtuelle instrumenter, siden de ikke finnes fysisk, men bare som et dataprogram. 
+
+Siden prosessorkraften i iOS-enheter ikke er i samme liga som flerkjerneprosessorene i datamaskiner er sampling en mindre utfordring enn avansert simulering når det skal lages lyd som skal kunne spilles. 
+Når man trykker ned en tangent skal det jo låte med en gang. 
+
+Apropos tangenter, å spille på en glassplate gir bare sånn passe spilleopplevelse, det er som med skrive-tastaturer man foretrekker jo å kjenne at fingrene beveger et eller annet og at det plass til hendene. 
+Dette er enda viktigere på spille-tangenter hvor man skal styre lydstyrken med anslagshastigheten. 
+
+Siden iOS-enhetene alle bruker flashminne også til lagring av data som hører til hver app, ligger alle samplingen raskt tilgjengelig. 
+En harddisk hadde vært en flaskehals, siden den hadde måttet blitt satt opp med mye bufring og dvalefunksjoner for å fungere i en bærbar enhet, men det slipper vi å tenke på. 
+Sample-avspilling er ikke så krevende når man har raskt lagringsmedium. 
+
+MIDI-tilkobling 
+
+For å kunne bruke et tangentinstrument på en iOS-enhet må man ha et som sender ut spilleinformasjon, også kjent som MIDI. 
+MIDI sendes enten via USB eller du må koble et MIDI-interface imellom som gjør om MIDI-signalene fra instrumentet til USB-format. 
+
+På iPad kan du bruke Apples Camera Connection Kit for å få USB-tikobling til instrument/interface, men dette fungerer ikke på iPhone. 
+Der må du ha et eget MIDI-interface som kobles rett i kontakten på iPhone. 
+På dette er det kontakter til overgangskabler som kobles til MIDI-kontaktene på instrumentet. 
+
+SampleTank for iOS 
+
+Tilbake til programvaren. 
+I midten av oktober kom endelig SampleTank for iOS, som kjører på iPhone, iPod Touch og iPad. 
+
+Vi har testet på iPad 2, siden iRig MIDI ennå ikke er tilgjengelig i handelen i Norge. 
+
+Programmet kommer i en grunnversjon til 70 kroner, og kommer med et knippe instrumenter og ferdige looper og patterns. 
+
+For 35 kroner stykket kan du kjøpe flere instrumenter inne fra programmet, det finnes 22 "pakker" til 35 kroner stykket. 
+Du kan også kjøpe hele repertoaret til 280 kroner - det er en bra rabatt. 
+
+Både nedlasting og installasjon tar ganske lang tid, og grunnen til det fant vi ut da vi kjøpte hele samlepakken med lyder. 
+Det gikk på et øyeblikk - alt var allerede lastet ned, kjøpet var bare en "nøkkel" for tilgang. 
+
+I bruk 
+
+Programmet er ganske lett å bruke, du har mulighet for fire samtidige lyder, hver av disse har sitt eget sett med patterns (små MIDI-sekvenser med figurer) som kan aktiviseres med Pad'er eller de aller dypeste tangentene. 
+
+Til å begynne med stusset vi litt på at den dypeste C på et 5-oktavs tastatur trigget en pattern i stedet for å være rett og slett den dypeste tonen uten transponering. 
+Men dette kan man jobbe seg rundt. 
+Vil man ikke bruke disse selvspillende patterns i det hele tatt kan man ganske enkelt slå dem av, slik at man har alle tangentene til disposisjon. 
+
+Redigering av lydene er til en viss grad mulig, man har hele tiden mulighet til å variere filtersettingen, som byr på frekvens, resonans, attack og decay. 
+Man kan også velge romklang for hver av de fire lydene, men bare mengden; karakteren er felles og påvirker alle lydene. 
+
+Noen lyder har egne effekter, som f.eks. phaser, flanger, delay osv. 
+Disse er imidlertid låst til hver lyd, du kan ikke bytte effekt, bare justere parameterne. 
+
+Lasting av lydene skjer raskt, det tar bare noen få sekunder i verste fall, når man skal laste inn store lyder som Grand Piano. 
+Synthlyder er på plass med det samme. 
+
+Hvordan er oppsettet å spille på? 
+
+Virtuelle instrumenter på datamaskiner hadde tidligere problem med responstid, som regel omtalt som "latency". 
+Det betyr at det tok merkbar tid fra anslag til man hørte lyden. 
+Det er lenge siden dette var noe problem, og det er heldigvis heller ikke noe problem på en iPad. 
+Det er rett og slett like naturlig å spille på SampleTank som på et vanlig keyboard når det gjelder responstid. 
+
+Lydkvaliteten er derimot varierende, på flere måter og av flere grunner. 
+Skal man for eksempel ha en virkelig dynamisk og velklingende flygellyd trengs det mange og lange samples. 
+Alle hørbart forskjellige anslagsstyrker må være med, og alle tonene skal klinge ut. 
+Så råflott har man ikke vært i lydbiblioteket til SampleTank, men vi må likevel si oss fornøyd med både flygel og elpianoer, som det finnes mange varianter av til forskjellige stilarter. 
+
+Trommelydene og bassene er omfattende, gitarer og gruppen "kromatiske" instrumenter som vibrafon, marimba osv. byr også på mye bra. 
+En del av synthlydene er også brukbare, mens andre er heller merkelige. 
+Men smaken er jo som kjent delt. 
+
+Strykere og blåsere er vanskelige saker, her er det høyst blandet. 
+Solistiske lyder er veldig vanskelige, men ensemblene er heller ikke imponerende. 
+
+Samlet vil vi si at lydene er omtrent i samme liga som et kurant keyboard. 
+For en samlet pris på 350 kroner er ikke det noen skuffelse. 
+
+Det som er litt skuffende er at det ikke er noen mulighet for å laste inn egne lyder. 
+SampleTank finnes for PC og Mac og kan håndtere et stort repertoar med samples fra mange kilder. 
+Det hadde vært stas å kunne kombinere dette med iOS-versjonen. 
+
+Konklusjon 
+
+SampleTank for iOS er brukervennlig og velfungerende, lydrepertoaret er omfattende og stort sett spillbart, her kommer også egne ferdigheter pluss smak og behag inn i bildet. 
+
+På iPad trenger du bare et Camera Connection kit til 229 kroner og et rimelig MIDI interface til et par hundrelapper, hvis du ikke har et keyboard med generisk USB. 
+
+IK Multimedia sitt iRig MIDI interface koster ¤54,99 pluss frakt og (muligens) mva. direkte fra IK MUltimedia. 
+Norsk pris fra distributør er ikke annonsert. 
+
+På YouTube kan du høre mange av lydene i SampleTank for iOS. 
+Etter flygeldemoen kan du klikke deg videre og sjekke ut andre lyder. 

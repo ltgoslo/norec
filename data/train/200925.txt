@@ -1,0 +1,141 @@
+Olympus E-400
+TEST: 
+Skal du pakke lett til turen, kan dette kameraet være noe for deg - vi har testet verdens minste speilreflekskamera. 
+
+Vi har i høst sett på både Canon EOS 400D, Nikon D80, Pentax K100D, Nikon D40 og Sony Alpha A100 - kameraer vi jevnt over har vært meget godt fornøyde med, alle som en. 
+Rett før jul fikk vi inn en ny krabat på testbenken, og "krabat" er virkelig beskrivende denne gangen - Olympus E-400 er nemlig verdens minste speilreflekskamera og veier bare 420 gram med batteri; nesten 25% mindre enn kameraet fra Canon, med andre ord. 
+
+Det kan FourThirds-systemet ta mye av æren for. 
+Mens de fleste andre digitale speilreflekskameraer har en CCD-brikke med aspekt på 3:2, har Olympus, Leica (, Sigma, Kodak) og Panasonic brikker med 4:3-aspekt, som er noe mindre enn en typisk speilreflekssensor og gir en cropfaktor på 2. 
+Fordelen er at diameteren på bajonetten er større enn størrelsen på sensoren, slik at lyset kan brytes mer korrekt i objektivet (i kantene treffer lyset sensoren mindre skrått). 
+Spesielt vil skarpheten være likere over hele flaten (i stedet for at hjørnene er mer uskarpe), den kromatiske feilbrytningen vil være lav, og også flares etc. vil være mindre skjemmende. 
+Designet gjør også at objektiver og kamerahus kan lages mindre, noe Olympus E-400 er et levende eksempel på. 
+
+Du kan lese mer om FourThirds-systemet på de offisielle sidene. 
+
+Uvant 
+
+Hvis vi skal bruke ett ord for å beskrive følelsen av å holde i E-400 for første gang, vil "uvant" være ganske dekkende. 
+I beste "verdens minste"-ånd har nemlig Olympus laget et kamera uten det typiske grepet på høyre side som er vanlig for denne typen kamera. 
+Resultatet blir at du holder kameraet på en helt annen måte - høyre pekefinger blir liggende på høyre side av kameraet, og det føles lettere å miste kameraet enn det gjør med ett som har et skikkelig grep. 
+
+Grepet er for øvrig gummiert på forsiden, i tillegg til at feltet beregnet for høyre tommelfinger også har et gummibelegg. 
+Her svinger også kameraet litt inn som øker grepskomforten - når du holder kameraet slik du gjør når du tar bilder, er grepet godt nok - problemet er at det er lite praktisk å holde det på samme måte dersom du går med det i hånda og ikke bruker stropp, og vi setter derfor et spørsmåltegn om gevinsten med redusert størrelse veier opp for at riskioen er større for å miste kameraet når du bærer på det; spesielt med tanke på at de fleste har et objektiv montert på til en hver tid uansett - den tenkte omsluttende prismen ville sånn sett ikke ha vært noe større om kameraet hadde hatt et skikkelig grep. 
+
+Litt upraktisk til tross - kameraet har et retropreg som garantert fanger oppmerksomhet når du drar det frem. 
+Ser vi bort fra det forsvunne grepet, er kameraet veldig likt sin forgjenger, E-500, med modus- og innstillingshjul plassert på toppen av kameraet, til høyre for søkeren. 
+Der finner vi også knappen for eksponeringskompensasjon, i tillegg til at av og på-bryteren er plassert under funksjonshjulet. 
+Den er såpass hard å skyve til side, at det er vanskelig å klare det med bare én hånd på kameraet, noe som etter vår mening er et ørlite minus i margen. 
+På den positive siden er det omtrent umulig at kameraet slår seg på mens det ligger i bagen. 
+Oppstarten er ikke av de raskeste, men det har sin naturlige forklaring i at kameraet bruker såkalt "Super sonic wave filter", høyfrekvente lydbølger, for å rense CCD-brikken for støv. 
+
+Mange motivprogrammer 
+
+Funksjonshjulet har fem motivprogrammer (portrett, landskap, makro, sport og natt) og de vanlige Auto/P/A/S/M som er å finne på alle digitale speilreflekskameraer. 
+I tillegg finnes en egen scene-modus, som lar deg velge mellom 19 ulike motivprogrammer, der skarphet og fargetone blir påvirket som følge av hva du angir at du skal fotografere. 
+
+Søkeren er et pentaspeil med 95% dekning og 0,92x forstørrelse, men siden cropfaktoren er større enn det som er vanlig for denne typen kameraer, vil fortørrelsen, sammenlignbart med f.eks. Sony, Nikon og Pentax-kameraer i samme klasse, tilsvare 0,69x. 
+Siden formatet er 4:3 (med mindre i bredden) føles den også enda litt mindre, og er med andre ord blant de aller minste - så vidt større enn den hos sin forgjenger. 
+Informasjon om blender- og lukkertid etc. er for øvrig plassert på høyre side av søkerbildet, men informasjon om ISO-verdi er ikke tilgjengelig i søkeren. 
+Lyden når speilet åpnes og lukkes ligner mest på 400D av de kameraene vi har testet, med en motorlyd pluss "klakk"; veldig likt det som er vanlig i spillefilmer, egentlig. 
+
+På venstre side av søkeren finnes knapper for blits og selvutløser/seriefoto. 
+Selvutløseren kan settes på 2 eller tolv sekunder, og kameraet tar seriebilder med 3 bilder i sekundet opp til oppgitte 27 bilder, mens våre tester gav oss noe redusert hastighet etter 9-12 bilder. 
+Vi er allikevel imponerte over at kameraet klarer å holde så høy hastighet, med tanke på at JPEG-bilder i høy kvalitet tar rundt 7MB hver. 
+
+På baksiden av kameraet er det få overraskelser, men i motsetning til de fleste andre, ligger som nevnt innstillingshjulet (altså det du bruker for å regulere lukkertid, eksponeringskompensasjon etc.) på toppen av kameraet. 
+LCD-skjermen er 2,5 stor og har en oppløsning på 215.000 piksler; så vidt bak de beste, med andre ord. 
+Skjermen har en noe refleksiv overflate, som gjør at den kan være litt vanskelig å se i sollys. 
+
+Noe å bli vant til 
+
+Alle innstillinger foregår via LCD-skjermen. 
+Til en hver tid er det mulig å se alt om bildet som skal tas; det være seg bruk av blits, ISO-verdi, blender/lukkertid, lysmåling etc (se bilde). 
+Trykker du inn OK-knappen i midten av piltastene, kan du bruke pilene for å regulere en verdi  det ser litt rotete ut til å begynne med, men du blir fort kjent med hvor de ulike funksjonene ligger slik at du raskt kan foreta det nødvendige. 
+
+Det er imidlertid et par skjær i sjøen 
+ LCD-skjermen er nesten alltid slått på, og bare når du holder utløserknappen halvveis nede slår den seg av. 
+Det er for så vidt greit nok  verre er det at den slår seg på igjen når du slipper halvtrykket. 
+Dersom du for eksempel vil foreta en ny måling og slipper opp knappen, lyser skjermen opp og virker distraherende når du har kameraet til øyet. 
+Der skulle vi helst ha sett at skjermen ble værende av, eller at Olympus hadde hatt en øyesensor slik den du finner hos EOS 400D og Alpha A100. 
+E-400 har heller ingen gyroskopisk sensor som gjør at innholdet på skjermen snus når du holder kameraet vertikalt, men bildene blir i hvert fall snudd i avspillingsmodus. 
+Et annet minuspoeng får kameraet fordi det ikke er konsekvent når opp og ned-knappene kan brukes. 
+De kan for eksempel brukes på forsiden (altså rett etter at du har trykket OK), men ikke når du stiller inn ISO-verdien (der de ulike verdiene ligger i en matrise), og vi savner også at menyvalg som ikke er tilgjengelige (gjelder først og fremst i auto-modus) burde ha vært synlig deaktivert. 
+
+Olympus E-400 har allikevel god brukervennlighet 
+ fargene er behagelige å se på, skriften lett å lese og menyen følger den logiske oppbyggingen som er vanlig for denne type kameraer; en rad med 
+flipper og ett hovedvindu med menyvalg der du også ser den aktive innstillingen for hvert menyvalg. 
+Via menyen kan du sette opp hvordan du vil at fokus/eksponeringslås-knappen skal fungere, du kan konfigurere Fn-knappen til enten å fungere som DOF-preview, til å ta et testbilde som ikke blir lagret eller vår favoritt: manuell hvitbalansering. 
+Da holder du knappen inne, peker på noe med en nøytral farge (hvitt/grått) og trykker på utløserknappen, så vil hvitbalanseringen bli riktig. 
+
+Kalenderfunksjon 
+
+Piltastene er separerte med OK-knappen i midten; en løsning vi foretrekker fremfor for eksempel Nikon D80, der knappene er smeltet sammen i én kontroll. 
+På venstre side av skjermen, finner vi knapper for meny, avspilling, sletting av bilder og informasjon, som du kan trykke på når du blar i bilder for å få opp histogram (også separert i fargekanaler), markering av skygge/høylysutbrenning etc. 
+I avspillingsmodus kan du for øvrig bruke innstillingshjulet for å vise 2x2, 3x3, 4x4 og 5x5 bilder på rappen, i tillegg til en kalendermodus der du kan bla i kalenderen til ønsket dag og vise bilder fra denne dagen. 
+Sånt liker vi! 
+
+Av mer avanserte funksjoner har E-400 et noe begrenset utvalg. 
+Det supersoniske filteret kan nevnes, som med høyfrekvent lyd sørger for å rense CCD-brikken. 
+Kameraet har også støtte for bracketing i 0,3/0,7/1,0EV-trinn, og dessuten kan ISO-verdien stilles i 0,3EV-trinn opp til 1600. 
+Hvitbalansen kan stiles inn i kelvin med 200K-trinn, og du kan selv velge kompresjonsgraden på bildene som skal tas. 
+Kameraet har også støtte for punktmåling, men mangler mer avanserte ting som speillås, bulb-funksjon etc. 
+Vi synes også det er verdt å bemerke at batteriindikatoren kun har to nivåer - fra grønt og "fullt" batteri går det plutselig over til blinkende rødt, og da mister indikatoren litt av sin hensikt. 
+
+Ytelse 
+
+Her varierer resultatene i våre tester. 
+På den positive siden er kameraet raskt på seriefoto, med tre bilder pr sekund selv om bildefilene i høyeste kvalitet, JPEG er 7MB store; i hvert fall til du har tatt noen bilder. 
+Det oppgis at kameraet kan ta 27 bilder med 3b/s - på vårt minnekort (et Twinmos 150x-kort) fikk vi følgende seriefotoytelse: 
+
+På den negative siden yter autofokusen dårlig når lystilgangen er dårlig, til tross for at den får hjelp fra blitsen. 
+Innendørs på kveldstid må kameraet ofte fyre av tre-fire runder med blinkende blits før autofokusen finner frem (den har for øvrig tre punkter), og da snakker vi fort 3-4 sekunder. 
+I tillegg bruker kameraet nesten to sekunder på å starte opp som følge av CCD-rensingen. 
+Denne forsinkelsen er imidlertid lettere å leve med. 
+
+Her er den fullstendige ytelsestabellen: 
+
+Bildekvalitet 
+
+Vi har testet Olympus E-400 med kit-objektivet på 14-42mm (28-84mm). 
+Det har største blender på f/3,5-f/5,6 på hhv. vidvinkel og tele og har ED-glass som reduserer den kromatiske feilbrytningen, som knapt er synlig på våre testbilder. 
+Zoomringen har jevn og god motstand som gir et kvalitetsinntrykk; fokusringen likeså. 
+Aller helst skulle vi også ha hatt en avstandsmåler til fokusringen. 
+Nærgrensen er for øvrig 25 cm. 
+
+Kit-objektivet opplever vi som ganske godt. 
+Som nevnt har det så og si ingen kromatisk feilbrytning, og skarpheten avtar ikke like dramatisk i kantene som på andre objektiver av denne typen. 
+Vi ser en moderat tønneforvrengning på vidvinkel, og vignettering er heller ikke et nevneverdig proglem med kit-objektivet. 
+Siden et lett kamera er vanskeligere å holde helt stødig enn ett som er større, ville det være svært velkomment med bildestabilisering i kamerahuset; spesielt siden utvalget av optikk med bildestabilisering er mildt sagt begrenset (etter det vi har funnet er det bare ett fra Leica, 28-100mm-ekvivalent med f/2,8-3,5, og det koster ca. 9.000 i Japan og selges foreløpig kun bundlet med Panasonic Lumix 
+DMC-L1 og Leica Digilux 3). 
+
+Når det gjelder støynivå ved høye ISO-verdier, klarer ikke Olympus å levere like godt som de beste i denne klassen, som kan forklares med at sensoren er noe mindre. 
+Opp til ISO 400 går det greit, på 800 begynner støyen å bli synlig, og på 1600 begynner det å bli mye fargespill og støy. 
+Vi har lagt ut tre store utsnitt på henholdsvis ISO 400, 800 og 1600 i denne fila: . 
+
+Allikevel synes vi støynivået er noe bedre enn det er hos Sony Alpha A100, som til gjengjeld kan skilte med bildestabilisator i kamerahuset, som i mange tilfeller vil kunne kompensere for bruk av høy ISO-verdi. 
+
+Innendørsfotografering er det punktet vi er minst fornøyde med - den innebygde blitsen er noe svak, som resulterer i mørke bakgrunner, og en ekstern blits er i større grad påkrevd enn det er for f.eks. 
+Nikon D80 og Canon EOS 400D. 
+
+Se bilder tatt med kameraet! 
+
+Mens vi er inne på bildekvalitet, kan det også være verdt å nevne at kameraet er forhåndsinnstilt på å bruke AdobeRGB-profil, mens de fleste bruker sRGB. 
+Bildene får heller ingen ICC-profil bakt inn ("embedded"), så i programmer som ikke støtter ulike fargeprofiler (f.eks. 
+FastStone Image Viewer), vil bildene i de fleste tilfeller fremstå som langt gråere enn de er. 
+Se eksmpel under - bildet til høyre er konvertert til sRGB i Photoshop og begge er skjermbilder fra Faststone. 
+
+Konklusjon 
+
+Olympus E-400 er definitivt et kamera du må venne deg til - det har en form som er svært uvant, med et manglende grep på høyresiden som gjør at du må holde det litt annerledes enn du pleier. 
+I tillegg er kameraet verdens minste digitale speilreflekskamera, som betyr at du er nødt til å prøveholde det for å finne ut om det er noe for deg - E-400 er ikke et kamera som nødvendigvis alle vil finne komfortabelt å bruke. 
+
+Dersom du imidlertid er ute etter et kompakt speilreflekskamera der også optikken kan lages ganske kompakt, treffer Olympus E-400 målgruppa godt. 
+Vi er meget godt fornøyde med brukervennligheten og liker godt måten kameraet betjenes på, selv om det tar litt tid å bli vant til. 
+
+Ikke at vi ikke har noe å utsette på E-400 - spesielt presterer autofokusen svært dårlig når lystilgangen er dårlig (testet med kit-objektivet), og kameraet bruker nesten to sekunder på å starte opp. 
+I tillegg er kameraet bare middels godt på høye ISO-verdier, og uten bildestabilisator i huset og et svært begrenset utvalg av objektiver med bildestabilisering (bare ett), er det en liten akilleshæl for et såpass lett kamera. 
+
+Vi er heller ikke overbevist om at fordelen ved det kompakte formatet (spesielt med tanke på det manglende grepet på høyre side av kameraet) veier opp for ulempene (lettere å miste, vanskeligere å holde stødig), og triller derfor en sterk firer til Olympus E-400, som vel og merke ikke er noen dårlig karakter, men en liten advarsel om at du bør være kjent og komfortabel med ulempene før du eventuelt går til innkjøp av kameraet. 
+
+Til testforsiden for digitalkameraer 

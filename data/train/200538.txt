@@ -1,0 +1,24 @@
+Fake me out of here
+Android-app lar deg riste i telefonen, og vips ... 
+
+Åh, hvis noen bare kunne ha ringt meg nå ... 
+
+Du har sikkert vært der. 
+På en halvdårlig date, i prat med den gamle klassekameraten du egentlig ikke har så mye å prate med om, på et kjedelig møte eller på vei hjem en sen kveld der en skummel fyr ser ut til å ha parkert tredve meter foran deg. 
+
+Fake me out of here er en Android-applikasjon som fungerer på følgende måte: 
+Etter å ha satt opp programmet første gang, kan du bare riste telefonen din, og etter et predefinert antall sekunder ringer telefonen din, som om noen ringer deg. 
+Du kan selv velge "hvem" som ringer deg, med navn og nummer. 
+
+Mens gratisversjonen ikke har så mye funksjonalitet, koster fullversjonen 11 kroner og gir deg følgende muligheter: 
+
+Velg hvem som ringer deg fra dine kontakter"Samtalen" kan vises i samtaleloggen etterpå (for ekstra autentisitet)Vibrering av/påSpill inn "motparten" på forhåndKommer snart: 
+Forhåndsprogrammér opp til 50 anrop (tidsbasert, ikke aktivert med vibrering) - ett anrop på gratisversjonen. 
+
+Etter å ha testet appen synes vi den er helt okay, men det er et par ting å sette fingeren på: 
+
+Kontakten som ringer kommer ikke opp med bildeAnropet skjer med originalt Android-utseende. 
+På en HTC-telefon, for eksempel, vises ikke Sense-grensesnittet når anropet kommer. 
+De som kjenner deg godt vil derfor skjønne at noe er muffens.Krever at skjermen er slått på før du kan riste (kan ikke gjøres når skjermen er slukket), men du trenger ikke å låse den opp.Anropsloggen inneholder telefonnummer, men ikke navn på kontakten.Forhåndsinnspilte lyder spilles ut av den eksterne høyttaleren slik at andre kan høre detNår samtalen er avsluttet, vises innstillingssiden for selve appen etterpå. 
+
+Med andre ord - den gir deg for så vidt muligheten til å bli oppringt på en litt diskrét måte, men overbeviser ikke helt på autentisitet. 

@@ -1,0 +1,138 @@
+Logitech Harmony Ultimate
+Alt-i-ett-pakken det er vanskelig å si nei til. 
+
+Logitech har i mange år vært markedslederen når det gjelder universalfjernkontroller, og den posisjonen ser de ikke ut til å ville gi slipp på. 
+
+Logitech Harmony Ultimate er siste skudd på stammen, og er intet mindre enn en komplett løsning. 
+I praksis er fjernkontrollen prikk lik sin forgjenger Harmony Touch, men Harmony Ultimate er mer enn bare en fjernkontroll. 
+
+Alt inkludert 
+
+For med i pakken følger også Harmony Ultimate Hub. 
+Den er en diskret liten sak som plasseres på TV-benken eller et passende sted i nærheten. 
+
+Derfra sender den kommandoer videre fra fjernkontrollen og over til enhetene du skal kontrollere, som for eksempel DVD-spiller, TV eller stereoanlegg. 
+
+I tillegg følger det med to IR-blastere. 
+Med disse kan du uten problemer kontrollere enheter som står bak lukkede skapdører. 
+De kobles til hub-en via tynne kabler og plasseres strategisk slik at IR-signalene når fram inne i skapet. 
+
+Har du en Harmony 900 eller 1100? 
+Slik får du fancy ikoner på en enkel måte. 
+
+Allsidig sak 
+
+Men vi er ikke ferdig. 
+Harmony Ultimate kan også kontrollere Playstation 3 (som kommuniserer via Bluetooth). 
+
+Faktisk trenger du ikke bruke fjernkontrollen en gang, for Harmony Hub kan kobles på trådløsnettet. 
+
+Laster du ned en app på mobiltelefonen (iOS eller Android) kan du gjøre stort sett det samme som du kan med fjernkontrollen, og siden det går på trådløsnettet kan du skifte kanal fra stua, kjøkkenet, badet, hagen - ja, overalt hvor du har tilgang til hjemmenettet. 
+
+Det er ganske praktisk, synes vi - selv om det bør nevnes at det ennå ikke finnes noen dedikert tablet-app. 
+På iPad må du altså nøye deg med iPhonevisning. 
+
+Her kan du se bilder av Harmony Ultimate: 
+
+Skuffer ikke 
+
+Det beste av alt er at det faktisk fungerer som lovet. 
+Vi har testet Harmony Ultimate sammen med en TV fra Samsung, Apple TV, Playstation 3 og en Get box mikro. 
+
+Vi har tidligere testet Harmony Touch, og der snakket vi mye om brukeroppsettet. 
+Siden systemet er ganske likt vil vi ikke bruke mye spalteplass på å gå gjennom det her, men du kan lese mer om brukeroppsettet i denne testen. 
+Selve fjernkontrollen er også ganske lik. 
+
+Likevel er det noen forskjeller som er greit å være klar over. 
+
+Designet er litt annerledes. 
+Der Touch hadde en underside med myke, bølgende former, har Ultimate fått en litt skarpere overgang (se bildeserie). 
+
+Grensesnittet på skjermen er også endret litt, og for å bruke gestures trenger du nå bare "trekke" skjermen opp når du er i en aktivitet. 
+Da får du en tom flate du kan boltre deg på. 
+Overraskende praktisk, egentlig. 
+
+Du bruker også samme nettbaserte grensesnitt til å installere fjernkontrollen, og dette gikk kjapt og smertefritt da vi skulle teste fjernkontrollen. 
+Det kan altså tyde på at barnesykdommene er borte. 
+Det eneste problemet vi hadde var at Get nylig har endret kanalplasser på en rekke kanaler. 
+Dette har ikke Logitech fått med seg, så har du Get må du inntil videre redigere kanalnumrene selv. 
+Dette var heldigvis enkelt å gjøre i det nettbaserte grensesnittet. 
+
+Smart system 
+
+Det mest interessante med Harmony Ultimate er imidlertid utstyret og mulighetene som følger med. 
+Som sagt følger det altså med to IR-blastere og en Harmony Ultimate Hub. 
+
+Sistnevnte er hjernen i dette systemet. 
+
+Fjernkontrollen kommuniserer med hub-en via RF-signaler. 
+Det vil si at du ikke er avhengig av å måtte peke den mot hub-en for å få formidlet kommandoene. 
+
+Her er en video fra Logitech som viser hvordan systemet fungerer: 
+
+Fra hub-en sendes signalene videre i den form enhetene vil ha dem: IR til Get-boks, TV og Apple TV, Bluetooth til PS3. 
+Også denne delen gikk smertefritt. 
+
+En liten bonus er det også at du kan styre lyset i huset dersom du bruker Phillips Hue. 
+
+Sist, men ikke minst: 
+Du kan bruke mobilen din når fjernkontrollen ligger for langt vekke. 
+Dette fungerte helt supert, vi fikk tilgang til alle knappene som finnes på originalfjernkontrollen og kommunikasjonen (over Wi-Fi) gikk lynraskt. 
+
+En ypperlig løsning altså. 
+
+Slik ser grensesnittet ut i iPhone-appen: 
+
+God spredning fra hub 
+
+For å teste hva hub-en var god for, satte vi den litt på prøve. 
+Målet var å se hvor godt IR-signalene nådde fram til de forskjellige enhetene. 
+
+Hjemme hos undertegnede sto den plassert på TV-benken, med TV, Apple TV og Get box mikro stående ved siden av, eller bak hub-en. 
+
+Dette var ikke noe problem. 
+
+På kontoret testet vi den i testkroken, sammen med tre TV-er vi har hatt på test. 
+Alle er Panasonic, så de svarte på de samme basiskommandoene. 
+Også her gjorde hub-en jobben, selv om den sto plassert under TV-en til venstre. 
+
+Til og med da vi plasserte den godt inn i TV-benken klarte den å formidle signalene, sannsynligvis godt hjulpet av de hvite veggene rundt. 
+
+Hub-en besto altså prøven med glans. 
+
+Praktisk skjerm 
+
+Harmony Ultimate har en rekke fysiske knapper, men begrenset til de viktigste funksjonene. 
+Avspillingsknapper, som play og pause, er plassert øverst på fjernkontrollen, mens retningsknapper og diverse menyknapper er plassert nederst, under skjermen. 
+
+Skjermen kan du også bruke som "knapp", ved å gjøre ulike fingerbevegelser. 
+Drar du for eksempel fingeren nedover på skjermen demper du volumet. 
+
+Disse bevegelsene kan du også justere selv, og du kan definere bevegelser med én finger eller to, korte trykk eller lange. 
+
+Skjermen kan ikke skryte av noe fantastisk kontrastnivå, men i vanlig stuebelysning ser du informasjonen godt. 
+I sterkt sollys kan det derimot bli noe vanskeligere. 
+
+Litt trege animasjoner gjør at responstiden noen ganger føles litt lang. 
+Da går det langt kjappere gjennom Harmony-appen. 
+
+Konklusjon 
+
+Har du ikke universalfjernkontroll fra før av, og er villig til å bruke litt penger på det, er det ikke tvil om at det er Harmony Ultimate du skal velge. 
+Fjernkontrollen er enkel i bruk, fungerer som den skal og gir deg muligheten til å skjule komponenter bak skapdører. 
+
+Samtidig vil du få muligheten til å kunne styre stua fra mobiltelefonen, noe som i utgangspunktet er praktisk, men som raskt tar steget over til genialt når du ikke finner fjernkontrollen eller ligger svært komfortabelt i godstolen. 
+
+Står alle dine komponenter ute i det fri kan du sikkert klare deg med en Harmony Touch, men da går du blant annet glipp av muligheten til å styre enhetene med mobilen. 
+
+Harmony Ultimate er liten, laderen tar lite plass og hub-en er pen og diskret. 
+Kort sagt får du med Harmony Ultimate en totalpakke som gir deg og de andre i husstanden full kontroll i stua, og det med bare én fjernkontroll å krangle om. 
+
+Egentlig finnes det ikke noe særlig å trekke for, og da ender vi opp med å gi full pott. 
+
+PS: 
+Har du en Harmony Touch fra før kan du vurdere om du bare vil investere i en Ultimate Hub, og på den måten få muligheten til å styre enhetene fra mobilen. 
+Den selges separat i USA, og ligger på 99 dollar. 
+I skrivende stund er det ingen butikker som forhandler hub-en i Norge. 
+
+Logitech Harmony Ultimate 

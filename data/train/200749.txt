@@ -1,0 +1,115 @@
+Acer Aspire Timeline U M3-581TG
+Ultrabook med DVD-brenner, dedikert grafikk og 15,6" skjerm. 
+Ja, du leste riktig. 
+
+Å kalle Acers nye PC-er i Timeline U-serien for Ultrabooks, er vel kanskje litt drøyt - størrelsen tatt i betraktning. 
+Men hvorvidt betegnelsen er korrekt eller ikke skal vi imidlertid ikke henge oss opp i her. 
+Dette er uansert svært slanke og elegante PC-er, med 14 og 15,6" skjermer. 
+Vi har sett nærmere på sistnevnte. 
+
+For å ta tykkelsen først: 
+M3 måler like under 2 cm over det hele, noe som også er kravet fra Intel for å kalle PC-en for Ultrabook. 
+Den er også utstyrt med SSD og Ultrabook-prosessor, vårt eksemplar er utstyrt med den populære Core i5-2467M ULV-prosessoren. 
+
+Noen vil kanskje reagere på at dette er førstegenerasjon Ultrabook-prosessor, for allerede i begynnelsen av juni kommer som kjent 2. generasjon, som bruker mindre strøm og som yter enda bedre - spesielt på grafikksiden. 
+
+Sistnevnte er imidlertid ikke noe problem med M3, den har nemlig både integrert Intel-grafikk (perfekt når det skal spares strøm) og Intel Geforce GT 640M-grafikk (perfekt til spilling i ny og ne). 
+
+Og hva mer? 
+Jo, integrert DVD-brenner, for alle som ikke er helt klare for å pensjonere de optiske platene helt ennå. 
+
+Da er det på tide å oppsummere de viktigste tekniske egenskapene: 
+
+15,6" blank LED-baklyst LCD-skjerm, 1366 x 768 piksler Nvidia Geforce GT 640M grafikk 6 GB RAM (maks 8) 128 GB SSD DVD-leser/brenner Trådløst nett (b/g/n) Bluetooth 4.0 Gigabit kablet nett HDMI skjermutgang Minnekortleser SD/MMC 2 stk USB 2.0-porter 1 stk USB 3.0-port som også kan lade telefoner etc når maskinen er skrudd av 1,3 megapiksels webkamera Windows 7 Home Premium 64 bit Mål: 37,6 × 2 × 25,3 cm Vekt: 
+2 kg 
+
+Dette er spesifikasjoner som vitner om en helt normal, bærbar PC, med unntak av ULV-prosessor, tykkelsen og kanskje SSD, selv om sistnevnte dukker opp i stadig flere sammenhenger også i det markedet. 
+
+Plast og metall 
+
+Maskinen har et lokk som er dekket av en tynn metallhinne, resten er av plast. 
+Den etterlater dermed ikke et like solid inntrykk som mange av sine mindre Ultrabook-slektninger. 
+
+Overflaten er matt, men fingeravtrykk vises ganske godt - spesielt på lokket. 
+
+Alle tilkoblingene sitter bak, og det er svært lenge siden vi har sett: 
+
+Det er en grunn til dette har blitt sjelden med årene, og det er at det er svært bekvemt å ha tilgang til hodetelefonutgang og USB-porter på siden. 
+Her må du altså bak PC-en hver gang, noe som vi tror mange vil synes er litt ugunstig. 
+Vi er enig. 
+Strøm- og skjermutgang er greit å ha bak, mens porter man bruker ofte godt kunne vært lettere tilgjengelig. 
+
+Skjermen har standard 1366 x 768 pikslers oppløsning. 
+Dette er den mest vanlige oppløsningen på 15,6-tommere, spesielt i de lavere prisklassene, og med en prislapp på rundt 7000 kroner er ikke dette en spesielt dyr maskin - alt tatt i betraktning. 
+Overflaten er blank, noe som betyr mye gjenskinn hvis lysforholdene er vanskelige. 
+Det betyr imidlertid at du er sikret god kontrast, noe som er hovedargumentet for blanke skjermer. 
+Vi ser imidlertid en økende interesse for matte skjermer igjen, noe vi ikke akkurat er lei oss for. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Enkelt å gjøre rent er det, og meget bra å skrive på. 
+Det avgir svært lite støy. 
+Numerisk tastatur er også på plass, vi savner bare baklys som en prikk over i-en. 
+
+Pekeplaten er svær, multiberøringsfølsom, og har integrerte knapper. 
+Den krever noe tilvenning, spesielt for undertegnede som ofte bruker to hender og lar venstre pekefinger hvile på venstre museknapp. 
+Det kan føre til problemer her, siden hele overflaten kan brukes til navigering. 
+
+Maskinen er utstyrt med et høyttalerpar som gir ok lyd med noe som kan minne om bass, overraskende bra - selv tykke PC-er gir sjelden noen bedre lytteopplevelse. 
+Alt er imidlertid relativt, mot selv enkle eksterne PC-høyttalere faller de interne miniatyrhøyttalerne igjennom. 
+
+Vi har uansett ingen problemer med å lytte til musikk i bakgrunnen mens vi jobber, så lenge volumet ikke skrus for høyt. 
+Og det kan vi ikke si om alle PC-er. 
+
+Slik er den i bruk 
+
+Fra du skrur på maskinen til du er inne i Windows og klar til å begynne å bruke den, tar det 25 sekunder. 
+Vi har testet Ultrabooks som har startet noen sekunder raskerer, men det er uansett langt raskere enn hva du må belage deg på med harddisk (40-50 sekunder er ikke uvanlig). 
+Fra dvale til PC-en er klar til bruk tar det bare noen små sekunder, og det er jo denne "av/på"-modusen de fleste bruker i dag. 
+
+Maskinen svitsjer mellom integrert og dedikert grafikk uten at du merker noe som helst. 
+I svært mange situasjoner vil det kun være nødvendig å bruke den integrerte grafikken, som bruker mindre strøm og yter mer enn nok til alle 2D-oppgaver. 
+Mindre strømbruk betyr også mindre støy, og her er vi svært fornøyd med Timeline U M3. 
+Den er nærmest lydløs i de aller fleste situasjoner, og den stillegående viften blir aldri sjenerende - selv under relativt tung belastning. 
+
+I det hele tatt virker maskinen godt konfigurert, og kombinert med SSD går det meste kjapt og fint. 
+Det er helt på det rene at ULV-prosessoren i kombinasjon med en rask SSD er et langt bedre valg enn med mekanisk harddisk. 
+
+Windows egen Opplevelsesindeks gir oss følgende tall på ytelsen, her går skalaen fra 1.0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,4 Minne: 7,1 Grafikk: 
+5,1 Spillgrafikk: 
+6,9 Primær harddisk: 7,9 
+
+Passmark PerformanceTest 7.0 gir en totalscore på 1312 poeng, og vi får følgende resultat på prosessortesten, og her har vi sammenlignet mot typiske prosessorer du finner på maskiner i mellomsegmentet: 
+
+SSD-en har en meget god lese/skrive-ytelse, her har vi sammenlignet mot noen flere Ultrabooks: 
+
+Hva med spillytelse? 
+
+Den dedikerte grafikken yter mer enn dobbelt så bra til 3D-spill enn den integrerte, som du finner i nær sagt alle de andre Ultrabook-ene på markedet. 
+Merk imidlertid at ytelsen bare så vidt er bedre enn det vi har sett av Intel-etterfølger HD 4000 er i stand til å levere, riktig nok fra tester av Core i7 og ikke ULV-utgaven av i5 (som ikke slippes før i juni). 
+Det er meget sannsynlig at ytelsen ligger godt over hva HD 4000 vil være i stand til å levere. 
+Nok en gang har vi brukt Passmark PerformanceTest 7.0: 
+
+Og det fungerer fint til det meste, dersom du holder deg til standardoppløsningen (du har mulighet for høyere oppløsning på ekstern skjerm eller TV). 
+Teknologinettstedet 
+Engadget har for eksempel kjørt Battlefield 3 med høyt detaljnivå aktivert på denne maskinen, og i 1366 x 768 pikslers oppløsning lå oppdateringshastigheten på mellom 30 og 40 fps. 
+Det er nok til å gi en flytende og fin spillopplevelse. 
+
+De som har fulgt med på testene våre, vet at Timeline-PC-ene fra Acer alltid har scoret svært godt på batteritid. 
+M3 er ikke noe unntak. 
+Uten belastning, kun knyttet til trådløst nett, holdt batteriet ut i nesten 10 timer. 
+Med kontinuerlig videoavspilling holdt det ut i nesten 5 timer og 40 minutter. 
+Dette parkerer faktisk alt av Ultrabook-konkurranse så langt. 
+
+Konklusjon 
+
+Acer Aspire Timeline U M3-581TG har definitivt etterlatt et positivt inntrykk på testpanelet. 
+Den er lett for 15,6 tommer å være, den er nærmest lydløs under bruk, har bra høyttalere og yter godt både i vanlige Windows-programmer og spill. 
+
+Man kan naturligvis sette spørsmålstegn ved at den er basert på førstegenerasjon Ultrabook-spesifikasjoner, og hvorfor ikke det er en eneste USB-port eller lydutgang på siden. 
+Hadde den hatt dette, kanskje toppet med baklyst tastatur, hadde den snust på toppkarakteren. 
+Men det kommer kanskje neste gang? 
+Uansett en meget bra maskin, og terningkast 5. 
+
+Acer Aspire M3-581TG-52466G12Mnkk (NX.RYKED.016) 

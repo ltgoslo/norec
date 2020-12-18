@@ -1,0 +1,104 @@
+Asus O'Play Mini Plus
+Den nye O'Play er en mediespiller som vil veldig mye, og kommer nesten helt i land. 
+
+For inntil et par år siden testet vi en rekke frittstående mediespillere for TV-bruk her på DinSide.no. 
+Siden den gang har mediespilleren funnet veien inn i enhver TV med respekt for seg selv, det samme kan sies om spillkonsoller og de mange Blu-ray-spillerne som har funnet veien til norske stuer de siste årene. 
+
+Internett-innhold kommer 
+
+Så er det egentlig et marked for dedikerte, filbaserte mediespillere lenger? 
+Joda. 
+Markedet er der fortsatt, spillerne får stadig ny funksjonalitet, og er ikke lenger isolerte fra omverdenen. 
+I 2011 snakkes det mye om nettskyen og streaming av innhold fra diverse nettjenester, og Asus følger opp med en trådløs mediespiller som sikter høyt på dette punktet. 
+
+Men nettstreaming er bare én av en rekke ting Asus O!Play Mini Plus på papiret skal takle. 
+Hør bare her: 
+
+Mediespiller for formatene MPEG1/2/4, H.264, VC-1, RM/RMVB, MP4, MOV, AVI, AS, WMV, FLV, MKV, TS, M2TS, DAT, MPG, VOB, MTS, ISO, TRP, MP3, WAV, AAC, OGG, FLAC, AIIF, Dolby Digital AC3M, DTS, Dolby Digital Plus, PCM/LPCM, Dolby TrueHD, JPG, BMP, PNG, GIF og TIFF 
+Støtter filsystemene FAT, FAT32, NTFS og EXT3 1 stk USB 2.0-port, samt 1 delt USB/eSATA-port Minnekortleser for SD/MS/xD Nettverksstøtte, både kablet (Gblan) og trådløst (802.11N) 
+Streamer fra PC-er i nettverket + en rekke online-tjenester, inkludert YouTube, Picasa, MediaFly og Flickr HDMI 1.3 TV-utgang Optisk lydutgang m full surround-støtte (S/PDIF) minijack stereoutgang Mål: 15 x 10 x 3 cm Vekt 175 gram 
+
+Boksen kommer med denne fjernkontrollen, som har noen interessante og mindre interessante knapper: 
+
+Mest interessant, eller skal vi si oppsiktsvekkende, er "Like"-knappen og Facebook-knappen. 
+Dessverre virker ingen av dem foreløpig, det skal komme på plass i slutten av oktober, lover Asus. 
+
+Mindre interessant, eller skal vi si totalt uforståelig, er DVD-knappen med tilhørende Eject-knapp. 
+Her er jo ingen DVD-drev, men i instruksjonsboka står det at knappen skal "spille av DVD-filer". 
+Et trykk på knappen bringer bare opp et forbudt-skilt på skjermen, så vi antar at Asus ikke helt har bestemt seg for hva de skal gjøre her. 
+
+Oppstart tar rundt 30 sekunder, men vi måtte trykke flere ganger på fjernkontrollen før boksen reagerte, av grunner vi ikke helt har funnet ut av. 
+Til alt annet er samspill mellom fjernkontroll og boks uproblematisk. 
+
+Du blir straks møtt av dette bildet: 
+
+Tilkoblede enheter, for eksempel en harddisk, oppdages og "monteres" automatisk. 
+Så hvis jeg velger Filmer-ikonet og trykker på OK-knappen, listes alle filmene, uavhengig av mappestruktur. 
+Det samme skjer med bilder og musikkfiler. 
+Har du mye rart på disken, blir utlistingen like rar: 
+
+Hvis du synes filbehandling er en morsommere og mer effektiv måte å komme til innholdet på, er det også støtte for å kunne bla i trestrukturen. 
+En fordel med dette er at du da slipper å ta stilling til medietype først. 
+Fint dersom du for eksempel har både bilder, MP3-filer og videofiler i én og samme mappe, altså. 
+
+Men merk at mapper og videofiler ikke sorteres hver for seg, men i en alfabetisk liste: 
+
+Du kan også velge forskjellige måter å vise filene, med miniatyrbilder (virket ikke med annet en generisk videobilde) og med forhåndsvisning i et vindu til venstre (virket ok). 
+Du kan også slette og endre på navn ved å trykke på den grønne knappen på fjernkontrollen. 
+
+Enkel navigasjon 
+
+Når du starter avspilling kan du enkelt trykke på NEXT og PREV-knappene på fjernkontrollen for å hoppe til neste fil - med ett viktig unntak, og det er hvis filmer har kapittelmerker (f. eks i MKV-filer). 
+Da hopper du til neste kapittel med samme knapp. 
+Her burde det vært separate knapper, mener vi. 
+
+Du kan også trykke Pil-tast venstre og høyre. 
+Da hopper du et definert antall minutter fram og tilbake inne i filen. 
+Det kan være en rask måte å navigere seg i lange videoklipp. 
+Du kan også spole i forskjellige hastigheter, men denne funksjonen trenger polering. 
+Jo raskere du spoler, jo mer ustabil blir den - og det virker som om filformatet også spiller en rolle på stabiliteten. 
+Vi opplevde ved et par anledninger at spolingen "hang seg opp" og ikke lot seg stoppe. 
+
+Men formatstøtten er imponerende. 
+Alle våre testfiler ble avspilt uten problemer, og det er første gang vi opplever, så vidt jeg kan erindre. 
+
+Det er også støtte for undertekster via dedikert knapp, med et overveldende utvalg justeringsmuligheter: 
+
+Bilde- og lydkvaliteten er så god som man kan forvente, ut fra format, oppløsning og bitrate, med ett unntak: 
+Bildene er oppskarpet for mye, og blir for harde i uttrykket. 
+Du kan riktig nok justere lys og kontrast, men det løser ikke problemet med oppskarpingen. 
+
+Nettverk på en-to-tre 
+
+Vi koblet oss ganske enkelt til vårt hjemmenettverk, og fikk tilgang til innholdet på andre PC-er som vi hadde brukernavn og passord til. 
+Den trådløse rekkevidden virker å være ganske god: 
+
+Boksen kommer også med PC-programvaren O!Direct, som skal la deg sende innhold fra PC-en til boksen. 
+Det minimalistiske klientprogrammet var det imidlertid umulig å finne noe ut av, og instruksjonsboken sa heller ikke et kløyva ord om hvordan koblingen skulle settes opp. 
+Litt for dårlig tid før lansering, Asus? 
+
+Mye å gå på 
+
+Vi var videre spente på Internett-funksjonaliteten, men denne delen er ikke bare upolert, den virker langt fra ferdig. 
+
+Vi har allerede nevnt at Facebook-støtte kommer senere i høst, som blant annet skal gi mulighet for å dele Internett-videoer og bilder på veggen din. 
+YouTube, Picasa og Flickr er greie innholdsleverandører, det er også videoleie og salg gjennom Acetrax, hadde det bare vært tilgjengelig for oss nordmenn: 
+
+Et selskap av Asus' kaliber burde vært i stand til å få på plass avtaler med de store utleie-aktørene som også opererer i Norge, på lik linje med LG og Samsung. 
+Først da blir internettfunksjonalitet på TV interessant, mener vi. 
+
+De andre tjenestene havner i rusk & rask-kategorien, i våre øyne. 
+Enkelte av dem gav oss bare beskjed om at de ikke kunne nås for øyeblikket, mens andre har innhold som virker helt tilfeldig og var av svært variabel kvalitet. 
+
+Det kan jo hende dette blir bedre på sikt, men slik det fremstår i dag havner Asus O!Play Mini Plus sin internettfunksjonalitet for norske brukere i samme kategori som Internett-kapable TV-er fra 2009. 
+Jeg har ennå tilgode å høre om noen som benytter seg av dem. 
+
+Konklusjon 
+
+Asus O!Play imponerer først og fremst på formatstøtten, som er enorm, og redder terningkastet sitt på dette alene. 
+Betjeningsvennligheten og kvaliteten står også til en firer på terningen, som betyr at den er god. 
+
+Internettfunksjonaliteten og O!Direct-løsningen virker imidlertid ganske prematur, dessverre. 
+Heldigvis lar O!Play Mini Plus seg oppgradere enkelt via Internett, så mye kan heldigvis rettes på sikt - men vi medgir at vi sitter igjen med en blandet følelse når alt kommer til alt. 
+
+Ifølge Asus kommer boksen for salg nå i oktober, veiledende pris vil ligge på under tusenlappen. 

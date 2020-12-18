@@ -1,0 +1,68 @@
+AMD FX - nytt gjennombrudd for AMD?
+Bulldozer var kallenavnet, blir det vei i vellinga? 
+
+Det var en gang, for drøyt ti år siden, at Intel havnet på et blindspor både når det gjaldt prosessorarkitektur og minneløsninger. 
+Da snakker vi om Pentium 4 og RIMM (Rambus In-line memory module). 
+Denne æraen varte helt fram til Core-serien dukket opp i 2006. 
+I denne perioden kom AMD på banen med stadig kraftigere prosessorer, som fant sin plass i maskiner til all slags bruk - fra servere til gaming-maskiner. 
+
+De siste 5 årene har Intel sine prosessorer blitt stadig bedre, og AMD har ikke hatt noe å stille opp med i konkurransen om best ytelse. 
+Men de har likevel vært på banen med prosessorer som har vært prisgunstige og fullt på høyde med Intels modeller i de lavere prisklassene. 
+
+Men AMD har ikke slått seg til ro med å spille annenfiolin, de har jobbet hardt både med å utvikle bedre integrerte grafikkløsninger, noe som løsnet etter kjøpet av ATI, og med å utvikle en ny prosessorarkitektur. 
+Les for eksempel vår test av denne lydløse PC-løsningen. 
+
+Men over til noe langt mer potent: 
+Kodenavnet har vært Bulldozer og nå er de nye prosessorene her! 
+
+Elegant hovedkort 
+
+Vårt testeksemplar er en AMD FX FD8150 og ble levert ferdig installert på et Crosshair V Formula hovedkort fra Asus. 
+De nye FX-prosessorene er kompatible med den eksisterende AM3-sokkelen og 9-serie brikkesett, men krever en oppdatert firmvare. 
+
+Hovedkortet leveres i en elegant innpakning og er velutstyrt både med 4 USB 3.0 porter og 7 stk SATA 600. 
+
+Det har 3 PCI Express 2.0 x16 kortplasser, 1 PCI Express 2.0 16 (X4 modus) og en PCI Express 2.0 X1. 
+En PCI-kortplass er det også funnet plass til. 
+
+AMD FX - styrker og svakheter 
+
+Prosessoren har åtte kjerner, men hver kjerne er ikke helt selvstendig, den deler både regne og minneresurser med en annen kjerne, dette kalles da en modul. 
+
+Problemet med mange kjerner er at verken dagens Windows 7 eller programmer er helt tilpasset å fordele oppgavene på flere kjerner. 
+Å doble antall kjerner vil ikke doble ytelsen, og mange programmer klarer fortsatt bare å ytnytte én kjerne. 
+
+AMD sin egen definisjon på hva en kjerne skal bestå av er heller ikke gunstig i forhold til hvordan Windows 7 fordeler oppgaver. 
+Der hvor det hadde vært optimalt å bruke kjerner parvis kan Windows finne på å spre bruken til vilkårlige kjerner, og dermed i stedet legge beslag på ressurser i modulene. 
+Windows 8 skal etter sigende være forberedt på dette og kunne utnytte Bulldozer-arkitekturen bedre. 
+
+For det viser seg ganske fort under testingen, at det er i programmer som klarer å utnytte mange kjerner at AMD FX trives og leverer. 
+
+Disse programmene er det dessverre ikke mange av, og de hører gjerne hjemme blant spesialistene som bruker PC til programutvikling og innholdsproduksjon. 
+
+Vi testet med programmer som måler ren prosessorbruk, og sammenlignet med en Intel Core i7 2600 pluss vår gamle firekjerners Intel Core2 Q6600. 
+
+De grundige entusiastene og ekspertene hos Anandtech, Tom's Hardware osv. 
+har gjort langt mer omfattende tester, men alle viser det samme - kjerneytelsen er svakere enn vi hadde ønsket. 
+
+Konklusjon 
+
+Mange sitter på PC-er med Core 2 prosessorer og vurderer å oppgradere. 
+Skal man gå for en Intel Core i5, Core i7 eller satse på AMD FX? 
+
+Prismessig ligger AMD FX midt i mellom Core i7 og Core i5 i pris, når man velger de gunstigste modellene etter pris/ytelse i Core i5/7-seriene. 
+
+Ytelsesmessig når det gjelder både vanlig bruk og krevende spill vil en AMD FX ligge lavere enn en Core i5 i de fleste sammenhenger. 
+Bare ved spesielle oppgaver som støtter flere kjerner blomstrer den. 
+
+Spanderer man noen hundrelapper mer får man en Core i7 som kjører fra AMD FX på alle områder, både i ytelse og strømforbruk. 
+
+Hva som skjer framover vites ikke. 
+AMD er både for seint ute og for tidlig. 
+Å basere seg på flere kjerner er å skyte på neste mål, og i mellomtiden scorer Intel i nesten åpent mål. 
+
+De fleste som har vært entusiastiske og krevende PC-brukere hadde gjerne sett at det ble enda mer konkurranse om prosessorytelse, særlig nå som SSD har bortimot fjernet flaskehalsen for lokal lagring. 
+
+Men foreløpig stiller AMD fremdeles med handikap på ytelsesfronten, selv om avstanden er mindre enn tidligere. 
+
+AMD FX-Series FX-8150 3,6GHz Socket AM3+ Box 

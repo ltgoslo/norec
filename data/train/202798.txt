@@ -1,0 +1,103 @@
+Samsung ATIV Book 9
+Kanskje verdens beste Ultrabook akkurat nå. 
+
+Samsung ATIV Book 9 Plus er en premium Ultrabook med 13,3 tommer skjerm. 
+Den minner mye om forgjengeren Series 9 som ble kronet med en sekser i vår test, men med noen unntak: 
+Kraftig oppgradert innmat og en skjerm av en annen verden. 
+Etter å ha testet den i en uke er vi overbeviste om at det er den beste ultrabooken vi har testet noen sinne. 
+
+Slik er selve PC-en 
+
+Modellen vi har fått kikke på er utstyrt med en Intel Core i5-4200U-prosessor fra den nye "Haswell"-generasjonen, 4 GB RAM og 128 GB SSD. 
+Vekten er 1,4 kg, og maskinen er beskjedne 1,36 cm tykk, og sistnevnte er kanskje det mest oppsiktsvekkende rent designemssig. 
+
+Kabinettet er i metall fra innerst til ytterst, og alle tilkoblingene sitter på høyre og venstre side. 
+Her finner du to USB 3.0-porter, samt Ethernet-, VGA- og HDMI-utganger som alle krever overganger. 
+Vi er ikke veldig glad i overganger, men det er kompromisser man må inngå or å få en så tynn PC som mulig. 
+
+Tastaturet er baklyst og har taster som er isolerte fra hverandre. 
+Det er meget fast, fint og behagelig å skrive på. 
+
+Den store pekeplaten er imidlertid litt vel følsom, noe du vil merke ved dobbelklikk og når du kommer i skade for å berøre den med håndbaken. 
+De beste pekeplatene skiller mellom håndbak (skjer ingenting), og fingertupper. 
+Muligens kan dette fikses med nye drivere, det har vi i hvert fall sett på andre modeller. 
+Pr i dag er dette et lite ankepunkt på ATIV Book 9 Plus. 
+
+God lyd, god ytelse 
+
+Under tastaturet sitter et sett stereohøyttalere som gir uvanlig god lyd tatt i betraktning tykkelsen. 
+Her har Samsung virkelig lagt ned en god jobb! 
+Relativt god fylde gjør at vi fint lytter til musikk og koser oss med en spillefilm uten å koble til hodetelefoner eller eksterne høyttalere. 
+
+PC-en har god ytelse til de allere fleste oppgaver med unntak av krevende spill, og er også meget støysvak. 
+Under tung belastning er viftene hørbare, men aldri sjenerende. 
+
+Her er noen flere bilder: 
+
+Men så over til det som for mange er det viktigste: 
+
+Superskjerm, hva betyr det egentlig? 
+
+De fleste bærbare PC-er i dag har skjermer på 13,3 og 15,6 tommer. 
+Og velger du en PC i budsjettklassen er sjansene store for at skjermoppløsningen er relativt lav, som regel 1366 piksler horisontalt, og 768 piksler vertikalt. 
+Oppløsningen på en PC-skjerm definerer den maksimale detaljrikdommen i skjermbildet, der hovedregelen er at jo flere piksler, jo skarpere bilde og tekst. 
+
+Samsung ATIV Book 9 Plus har en 13,3" skjerm med smått utrolige 3.200 x 1.800 piksler. 
+
+Det gir en pikseltetthet på 316,15 ppi (piksler per tomme), og det er i praksis tilnærmet umulig å oppdage pikslene for det blotte øye. 
+Dette er uten tvil den beste skjermen vi har sett på en bærbar noen gang. 
+Innsyn fra sidene, topp og bunn er ikke noe problem, det eneste ankepunktet er at overflaten er så speilblank at refleksjoner kan bli sjenerende under vanskelige lysforhold. 
+
+Den høye oppløsningen gjør skjermen i stand til å vise samtlige piksler i et 6 megapiksels fotografi. 
+Skarpheten blir så god at alt blir svært virkelighetsnært. 
+
+Skjermen har ti berøringspunkter, og kan legges helt flatt med tastaturet for enklere fingerbetjening: 
+
+Høy oppløsning betyr imidlertid også at tekst, ikoner og programvinduer blir mindre, og det kan slå negativt ut for lesevennligheten. 
+Derfor kan du i operativsystemet skalere opp tekst og andre elementer slik at de fordeles over flere piksler, og dermed figurerer som større på skjermen, eller gå ned på oppløsningen. 
+
+Samsung har faktisk valgt sistnevnte når vi får levert PC-en til test. 
+Oppløsningen er satt ned til full HD - 1920 x 1080 piksler. 
+Når vi senere endrer denne til 3200 x1800, får vi en advarsel på skjermen om vi virkelig vil gjøre det, for alt vil bli veldig smått. 
+
+Oppskalering påkrevd 
+
+Og det er helt korrekt. 
+Å bruke denne PC-en uten å endre på skaleringen i klassisk Windows-miljø er imidlertid svært vanskelig, uansett hvor godt man ser, og med denne videoen har vi forsøkt å demonstrere hvor smått allting blir: 
+
+I det nye Modern UI-grensesnittet i Windows 8 og 8.1 skjer denne skaleringen automatisk, mens det klassiske skrivebordet og standard Windows-programmer krever at du gjør en innstilling på kontrollpanelet. 
+Prosessen har vi beskrevet i denne artikkelen. 
+
+Ulemper i Windows 8, bedre i 8.1 
+
+Skaleringen har imidlertid noen negative sider, da mange programvinduer ikke har tatt høyde for å støtte dette. 
+Her ser du for eksempel hva som skjedde med menyen i et av våre testprogrammer da vi skalerte alt til dobbel størrelse: 
+
+Den gode nyheten er at Windows 8.1 skalerer langt bedre enn Windows 8. 
+Her ser du hvordan menyene framstår med samme oppskalering i Windows 8.1: 
+
+Svært god batteritid 
+
+En av de store fordelene med siste generasjon Intel-prosessorer er at de bruker mindre strøm enn sine forgjengere. 
+Til dels mye mindre, uten at ytelsen har blitt skadelidende. 
+Samsung ATIV Book 9 Plus drar virkelig nytte av dette. 
+Ved minimal belastning holdt batteriet ut i hele 748 minutter før maskinen slo seg av. 
+Det er nesten 12 1/2 timer! 
+
+Ved kontinuerlig videoavspilling holdt batteriet ut i nesten 6,5 timer. 
+Det skulle bety at du kan forvente rundt 8-9 timer batteritid ved normal, variert bruk, som er minst et par timer bedre enn forgjengeren. 
+Det er ikke helt på nivå med Apple MacBook Air, men fortsatt en svært bra batteritid. 
+
+Konklusjon 
+
+Samsung ATIV Book 9 er en svært vellykket PC. 
+Med unntak av den litt følsomme pekeplaten og at du trenger overganger til en del av tilkoblingene, er det i det hele tatt svært lite å trekke. 
+Hele brukeropplevelsen, med den svært gode byggekvaliteten, skjermen og gode batteritiden veier opp, og derfor ender vi på en sekser på terningen - som representerer det beste av det beste i markedet. 
+
+Modellen er på vei til butikkene i skrivende stund, og vil være på plass mot slutten av neste uke, får vi opplyst fra Samsung. 
+Prisen på vår konfigurasjon vil ligge på 11.990 kroner veiledende. 
+Det er mye penger, men du får prima vare. 
+
+Få også med deg testene av de andre ultrabookene som også endte opp med en sekser: 
+
+Samsung 940X3G-K01SE 

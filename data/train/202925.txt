@@ -1,0 +1,97 @@
+Samsung ATIV One 5
+Samsungs alt-i-ett-løsning med PC i skjermen har én stor svakhet: 
+Den mangler SSD. 
+
+Å ha hele PC-en bygget inn i skjermen er en meget god løsning for mange. 
+Sammenlignet med en tradisjonell stasjonær blir det færre kabler og ingen boks som må plasseres på eller under pulten og samler støv. 
+
+Disse maskinene har også i stor grad overtatt for de digre bærbare, "flyttbare" er vel mer passende, med 17-tommers skjerm eller større som ble brukt som stasjonære. 
+I stedet har vi fått alt-i-ett-maskiner med skjermer på 21 tommer eller mer. 
+Dette gir en langt mer behagelig brukerflate, enten det er snakk om jobb, skole eller underholdning. 
+
+Samsung ATIV One 5 
+
+Samsung har nok skult til en viss amerikansk produsent av datamaskiner oppkalt etter en frukt, da de designet denne maskinen. 
+Selv sier de at designet er inspirert av Samsungs mobil Galaxy S4. 
+
+På denne maskinen er strømforsyningen ekstern, dermed kan den gjøres enda litt tynnere. 
+Materialet er plast, og metalldeler har også et belegg i samme plast. 
+
+Vårt testeksemplar er hvitt og blankt, og baksiden er påtagelig tiltrekkende for støv. 
+Det er mulig at dette skyldtes all skumplasten i den trange emballasjen som skapte statisk elektrisitet når vi trakk maskinen ut. 
+
+Skjermen er blank, men ikke berøringsfølsom på vårt testeksemplar. 
+Trådløs mus og tastatur følger med, og bruker en liten felles mottaker som settes i en av de fire USB-portene på baksiden. 
+
+Tilkoblingene er felles minijack for hodetelefon og mikrofon, to USB 2.0 porter og to USB 3.0. 
+Videre er det HDMI inn for tilkobling til for eksempel spillkonsoll, TV-dekoder eller Blu-ray spiller og HDMI ut for tilkobling til ekstra skjerm. 
+
+Nettverkskabel for gigabit kablet nett er på plass, tilkobling for strømforsyning og antenneinngang for TV (digitalt bakkenett - DVB/T). 
+En åpning for Kensington låsemekanisme er også på plass. 
+
+Det følger også med en fjernkontroll til TV-bruk. 
+Denne TV-løsningen er ganske begrenset, og om man får noen glede av den avhenger av hva man har tilgang til av TV-signal. 
+Siden det ikke er noen mulighet for å sette inn noe programkort får du ikke tilgang til kodede kanaler. 
+Men HDMI-inngangen kan jo som nevnt over brukes til å koble til en dekoder. 
+Nett-TV i forskjellige varianter er jo enda ett alternativ. 
+
+På venstre side finner vi en kortplass til SD-kort av forskjellige varianter. 
+
+Maskinvaren 
+
+Maskinen har prosessor fra AMD, her er det snakk om en AMD A6-5200 som kjører på 2 GHz. 
+Dette er en mobilprosessor, som bruker mindre strøm og dermed utvikler mindre varme enn tilsvarende beregnet på ordinære stasjonære PC-er. 
+Men ytelsen blir noe svakere, denne ligger i øvre mellomsjikt. 
+
+Grafikken er integrert i prosessoren og har helt kurant ytelse i denne sammenhengen. 
+
+Minnet er på 4 GB og lagring tas hånd om med en harddisk på 500 GByte, som roterer med 5400 omdreininger. 
+
+Maskinen støtter kablet gigabit nettverk og trådløst nettverk opp til 802.11n, samt Bluetooth 4.0. 
+
+I bruk 
+
+Maskinen er lett å sette opp, det er bare å koble til strøm og eventuelt kablet nett, sette i den trådløse mottakeren til tastatur og mus i en USB-port. 
+
+Maskinen står meget stødig, foten er solid uten å virke for massiv. 
+Skjermvinkelen kan justeres, men ikke høyden. 
+Du kan heller ikke rotere skjermen eller foten. 
+
+Maskinen blir levert med Windows 8, og Samsung leverer med noen utvalgte programmer/apps samlet under blokken Samsung Picks. 
+
+Maskinen byr også på SideSync, som innebærer at du kan koble til en annen enhet med USB-kabel eller på trådløst nett med en app. 
+Da kan du styre den andre enheten med samme mus og tastatur, og dra over filer og mye annet. 
+Men det er bare Samsung-produkter som støttes. 
+Det samme gjelder også for Samsung mobiler og nettbrett. 
+
+HomeSync 
+Lite lar deg synkronisere innhold fra den mobile enheten til ATIV-maskinen. 
+
+Forøvrig er maskinen i bruk som en Windows 8 PC, men uten berøring. 
+Oppgradering til Windows 8.1 anbefales. 
+
+Ytelse 
+
+Vi målte prosessorytelsen med Geekbench og sjekket Windows opplevelesindeks. 
+
+Vi testet også hardiskytelsen med Atto. 
+
+Det som trekker ned i opplevd ytelse er at denne maskinen har en tradisjonell roterende harddisk. 
+Sammenligner vi med en maskin med SSD gir harddiskmaskinen bare en femtedel av ytelsen en SSD har når man opererer med store filer. 
+Men med stadig skriving/lesing av småfiler, som operatisystemet hele tiden holder på med, er ytelsen på en harddisk ofte bare en brøkdel av hva en SSD gir. 
+
+Dermed blir ytelsen merkbart dårligere når du har mange ting gående på maskinen, og skal holde på med mye på en gang og bytte raskt mellom programvinduer - gjerne mens noe skjer i bakgrunnen. 
+
+Bruker du maskinen hovedsakelig til en ting av gangen er ikke dette så stort problem. 
+
+Det ser heller ikke ut til å være noen enkel måte å åpne maskinen på for å kunne bytte ut lagringsenheten på et tidspunkt. 
+
+Konklusjon 
+
+Maskinen har et fint design, er slank og lite plasskrevende, og har de nødvendige tilkoblingsmulighetene pluss litt til. 
+
+Den er helt grei i bruk, selv om en annen lagringsløsning hadde vært å foretrekke. 
+
+Har du andre, mobile enheter fra Samsung får du enhetene til å jobbe sammen. 
+
+Samsung 505A2G-K01SE 

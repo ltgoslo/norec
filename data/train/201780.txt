@@ -1,0 +1,126 @@
+Samsung ATIV Smart PC Pro XE700T1C
+Potent nettbrett og PC i ett. 
+Samsung gir oss en forsmak på fremtidens datamaskin. 
+
+Det har gått litt tregt, men nå begynner PC-er med berøringsfølsomme skjermer å fylle PC-hyllene i elektronikkbutikken. 
+Årsaken er naturligvis Windows 8 og det nye Modern UI-grensesnittet som er optimalisert for fingerberøring. 
+
+Samtidig vokser det fram en ny kategori hybrid-PC-er, som er maskiner som med enkle håndgrep kan gjøres om til nettbrett. 
+Vi har allerede testet Dells bidrag i denne kategorien, og denne gangen har vi sett nærmere på Samsungs nye ATIV Smart PC-serie og modellen XE700T1C. 
+I motsetning til Dell-en sitter hele PC-innmaten i skjermen, og kan med et enkelt trykk løsnes helt fra tastaturet: 
+
+Dermed sitter du igjen med et mer tradisjonelt nettbrett, men som kan kjøre alle de gamle Windows-programmene og spillene dine - i tillegg til nye Windows 8-apper. 
+
+Når tastaturet er koblet til er det lite som vitner om at dette i realiteten er en hybridløsning. 
+
+Jeg har tidligere uttrykt begeistring for tanken på en slik løsning, men klarer Samsung å innfri? 
+Les videre, så får du vite hva vi mener. 
+
+Først skal vi se på noen tørre fakta om denne hybridmodellen: 
+
+Skjerm: 11,6" LED-baklyst LCD, multitouch, full HD-oppløsning 1920 x 1080 piksler Prosessor: 
+Intel Core i5-3317U RAM: 
+4 GB Grafikkort: 
+Intel HD 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+Micro-HDMI USB-porter: 1 x USB 3.0 i skjerm, 2 x USB 2.0 i tastaturdokk Webkamera: 
+2 Mpix + 5 Mpix kamera bak Kortleser: 
+MicroSD Trådløst nett: 
+802.11a/b/g/n Kablet nett: 
+Nei Annet: GPS, Bluetooth 4.0, NFC, WiDi, 3G OS: 
+Windows 8 Pro Størrelse: 30,4 x 1,2 x 18,9 cm (brett) Vekt: 908 gram (brett) 1614 gram (brett og tastatur) Pris: 
+Fra 12.990 kr (Kilde: 
+Prisjakt 27.12.2012) 
+
+Maskinvaremessig er mye av dette typisk for ultrabooks-klassen av bærbare PC-er, men med tastaturet er den vesentlig tyngre enn de fleste ultrabooks. 
+Som brett er den også nesten 50% tyngre enn iPad, men det er viktig å understreke at vi her snakker om en fullblods PC. 
+
+Det den mangler av fysiske tilkoblingspunkter tar den igjen på det trådløse. 
+Maskinen støtter surfing på 3G-nettet (HSDPA+), og har både Bluetooth og NFC-støtte. 
+Trådløs overføring av skjermbildet til nye WiDi-kompatible TV-er og mottakerbokser er også på plass. 
+GPS er heller ikke vanlig kost i Ultrabook-segmentet, men relativt vanlig på nettbrett. 
+
+Sylskarpt 
+
+Og så har den en lyssterk PLS-skjerm med høyere oppløsning enn de aller, aller fleste ultrabookene. 
+Full HD på en såpass liten skjerm betyr svært høy detaljrikdom og sylskarpe bilder og tekst. 
+Ulempen er at tekst og grafiske elementer på det klassiske Windows-skrivebordet kan bli minste laget for mange. 
+Ikke bare kan dette være en utfordring for øynene, men også i høyeste grad for fingertuppene som skal prøve å treffe det lille røde krysset i hjørnet, for eksempel. 
+
+Det klassiske Windows-skrivebordet og programvinduene er ikke laget for berøring, ferdig snakka, og det blir ekstra tydelig når alt blir så smått som her. 
+Og nettopp dette kan vise seg å bli en stor utfordring for Microsoft og PC-industrien. 
+Det må komme Modern UI-apper fortere enn svint som kan erstatte klassiske Windows-programmer, ellers blir berøring i Windows-sfæren relativt meningsløst. 
+Dessverre kan det se ut til at det er et stykke igjen til vi er der. 
+
+De fleste knapper og tilkoblingspunkter sitter på toppen. 
+USB-port, kortleser og SIM-luke er beskyttet bak lokk. 
+HDMI-utgangen sitter på venstre side. 
+
+Bra tastatur 
+
+Tastaturdokken byr på to ekstra USB-porter. 
+For øvrig er det "dumt", og byr ikke på andre funksjoner enn taster og pekeplate. 
+
+Det er imidlertid fint og fast å skrive på, og fornuftig utformet. 
+Det avgir lite lyd når det brukes, og det er minst like behagelig å bruke som sammenlignbare tastaturer på ultrabooks. 
+
+Ikke helt optimalt 
+
+Det er imidlertid en vesentlig ting å tenke på, og det er at ATIV Smart PC Pro har en helt annen vektbalanse enn en standard bærbar. 
+Her er nemlig skjermen vesentlig tyngre enn tastaturdelen. 
+
+Det er ikke noe problem så lenge PC-en står på et bord når du bruker den, men i fanget er det umulig å bruke den uten å la håndbaken hvile på den. 
+Hvis ikke, vil den ganske enkelt vippe bakover, noe vi ser på som en betydelig ulempe sammenlignet med en klassisk PC. 
+
+Det er ikke den eneste innvendingen vi har mot maskinen, dessverre. 
+Pekeplaten har nemlig en lei tendens til å ikke reagere på første berøring, og vi må gjøre samme bevegelse om igjen. 
+Joda, vi vet at vi kan bruke skjermberøring, men det er som tidligere nevnt ikke alltid den beste løsningen. 
+
+Det er imidlertid ikke noe å utsette på skjermen og responsen på berøringer i Modern UI-apper, men det føles underlig å holde i et nettbrett som både blir varmt og som må kjøles av vifter - selv under kjøring enkle oppgaver. 
+Vi er neppe de eneste som tenker denne tanken, og vi forventer at neste generasjon brett basert på Intels Haswell-arkitektur ikke kommer til å ha dette problemet (ja, vi ser på det som et problem, all den tid at vi er vant til at nettbrett IKKE behøver vifter). 
+
+Yter bra 
+
+La oss gå videre og titte nærmere på hva maskinen har å by på av datakraft. 
+I utgangspunktet er den snappy og fin til alle vanlige Windows-oppgaver, sånn sett det er ingen tvil om at den kan erstatte det meste av PC-er i normalklassen. 
+Oppstart (fra helt avskrudd) skjer på imponerende 11 sekunder. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen, her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+4,6 Spillgrafikk: 
+6,2 Primær harddisk: 
+7,5 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsen mot ultrabooks i samme prissegment: 
+
+En smule lavere ytelse enn vi er vant til fra samme prosessor i andre PC-er, men innenfor grensene for hva som neppe er merkbart i praksis. 
+Holder i massevis til alle "normale" PC-oppgaver. 
+
+Samme her - litt lavere ytelse enn tilsvarende i ultrabooks. 
+Duger uansett til alt av 2D-grafikk, inkludert video i alle oppløsninger, inkludert full HD. 
+Men noen spillmaskin er dette ikke, selv om alt Modern UI-spill vil kunne kjøres uten noe som helst problem. 
+
+God leseytelse, men under middels på skrivehastighet. 
+Uansett mye raskere enn hvis det hadde sittet en harddisk i maskinen. 
+
+Batteritid: 
+Vi kjører alltid batteritesten i to omganger, én med video kjørende kontinuerlig, og én med minimal belastning - kun tilkoblet trådløst nett. 
+Batteritiden er ganske på par med ultrabooks, men det er langt opp til dedikerte nettbrett som for eksempel iPad: 
+
+Konklusjon 
+
+Konseptet er spennende, men i sin nåværende form føler vi at hybrider som dette har et stykke igjen før de er "modne". 
+Det handler litt om prosessoren som krever mye mer kjøling enn dedikerte nettbrettprosessorer fra for eksempel ARM, og litt om vekt og batteritid og ikke så rent lite om Windows og et app-univers som foreløpig har langt igjen før det matcher iPad-en. 
+
+Rent utformingsmessig er vi heller ikke helt overbeviste, relativt få kontaktpunkter, en noe trøblete styreplate og en vektfordeling som gjør at den vipper bakover når du har den på fanget er med på å trekke ned totalinntrykket. 
+
+Når maskinen i tillegg ikke er spesielt lett og har en såpass stiv prislapp, får den ikke noen anbefaling fra oss i sin nåværende form. 
+Vi har imidlertid tro på at neste generasjon kommer til å bli langt bedre, kjenner vi Samsung (og Intel) rett. 
+
+Men før den tid skal vi se på hvordan andre har løst hybrid-konseptet. 
+Først ut er Lenovo og deres spennende Yoga-serie. 
+Test kommer rett over nyttår. 
+Følg med! 
+
+Samsung Ativ Smart PC Pro 700T1C-H01SE 

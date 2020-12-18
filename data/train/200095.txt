@@ -1,0 +1,123 @@
+Samsung Galaxy Note 10.1 (2014-utgaven)
+Sannsynligvis det beste Android-brettet akkurat nå, men det koster. 
+
+Nettbrettmarkedet er i kraftig vekst. 
+Tidligere denne uken var jeg i samtale med nettgiganten Komplett.no, som kunne fortelle at de snart selger like mange nettbrett som PC-er. 
+
+Samsung og Apple desidert størst 
+
+Men det er mange produsenter som ønsker en bit av denne kaka, og så langt har Apple og Samsung forsynt seg grovt, og stort sett bare etterlatt seg smuler til de andre. 
+
+Mye handler om å disponere et smart og dyktig markedsapparat, men også om kvalitet og evnen til å differensiere produktene fra den store hurven - blant annet ved å bake inn ekstra funksjonalitet og by på fordelsprogrammer. 
+Her har Samsung vært blant de aller beste, og vi kjenner allerede godt til deres Note-konsept gjennom smartmobilen Galaxy Note 3 
+
+Ikke lenger bare underholdning 
+
+Selskapet kjører nå knallhardt på Note også i større formfaktor, gjennom nettbrett-flaggskipet Galaxy Note 10.1, som nettopp har kommet i ny og forbedret utgave. 
+Så langt har fokus i brettverdenen i stor grad vært på spill og underholdning, men med Note 10.1 prøver Samsung å overbevise brukeren om at slike innretninger også egner seg til produktivitet. 
+
+Selve nøkkelen ligger i den medfølgende pennen, Microsoft Office-kompatibel kontorprogramvare, samt mulighet for å kjøre apper side om side. 
+
+Alt dette skal vi komme inn på senere, først skal vi se litt på noen av de viktigste tekniske egenskapene: 
+
+Skjerm: 10,1" 10-punkts PLS berøringsskjerm, 2560 x 1600 piksler Prosessor: 
+Firerkjerne ARM-basert på 2,3 GHz Minne: 
+3 GB Lagring: 
+16 GB Ekstra lagring: 
+MicroSD-kortleser (inntil 64 GB) + 50 GB gratis nettlagring i 2 år Andre ut/innganger: Minijack, dock/microUSB Trådløse tilkoblinger: 
+Trådløst nett 802.11 a/b/g/n/ac + Bluetooth 4.0 + Wi-fi Direct + infrarød sender Kameraer: 
+8 Mpix hovedkamera, 2 Mpix frontkamera Satellittjenester: GPS/GLONASS 
+Operativsystem: 
+Android 4.3 (Jelly Bean) 
+Annet: 
+Mikrofon , stereohøyttalere, Akselerasjonsmåler, omgivelseslyssensor, digitalt kompass, gyrosensor, hall-sensor, RGB-sensor Størrelse: 
+24,31 x 0,79 x 17,14 cm Vekt: 540 gramPris: 
+Fra 4.899 kr (jf Prisjakt 20.11.2013) 
+
+Brettet har en klassisk utforming med relativt smal ramme rundt skjermen. 
+Merk forøvrig at skjermen har 16:10 bredde-høydeforhold, og byr på 160 flere piksler i høyden enn hva tilfelle ville vært ved tilsvarende 16:9-skjerm. 
+Det gir kjærkommen ekstra plass på skjermflaten. 
+
+Superduper skjerm 
+
+Skjermen er noe av det beste vi har sett på noe nettbrett noensinne, og med en pikseltetthet på tett oppunder 300 ppi er det så godt som umulig å spotte piksler i bilder og tekst. 
+
+Og i motsetning til den klassiske Windows-verdenen slipper du å bekymre deg over at alt skal bli smått og uleselig; her er hele opplevelsen vektorbasert, og Android skalerer alt helt glimrende. 
+
+Berøringsfølsomheten er også meget god, og presisjonsarbeid er ikke noe problem takket være den medfølgende pennen. 
+Den har en sensor som merker hvor hardt du klemmer den mot skjermen, noe som gir en meget virkelighetsnær opplevelsen. 
+
+Hurtigmenyer kan åpnes bare ved å bevege pennen i lufta over skjermen, og ved hjelp av knappen på siden åpnes en verden av muligheter. 
+Mer om dette senere. 
+
+Over skjermen sitter frontkameraet, og under sitter den fysiske hjemknappen samt berøringsfelter for tilbake og meny. 
+
+Sidene er av sølvfarget plast, med langsgående striper som gir en følelse av ark i en notisbok. 
+Det er neppe tilfeldig. 
+
+Her finner du av/på-knapp øverst til venstre, ved siden av denne sitter volumknappen. 
+På midten sitter en infrarød sender til bruk mot TV-en. 
+Ja, du kan bruke brettet som fjernkontroll til TV-en, med full programguide og det hele. 
+De fleste TV-er og kabel/satellittbokser støttes. 
+
+Baksiden er av plast, og har et mønster som imiterer skinn: 
+
+Vi synes resultatet er temmelig vellykket, og selv om det er utstrakt bruk av diverse plastmaterialer er det ikke noe å si på kvalitetsfølelsen til brettet. 
+
+Bildekvalitet: 
+G+ 
+
+På baksiden sitter også frontlinsen til hovedkameraet, og bildekvaliteten er ikke mer enn kurant - hvis lysforholdene er bra. 
+Nå skynder vi oss å legge til at kamerakvalitet ikke virke å være så veldig viktig for nettbrettprodusentene på nåværende tidspunkt: 
+
+Topp ytelse 
+
+Ytelsen er på den annen side meget god, totalt sett er dette det raskeste Android-brettet vi har testet, ja - til og med på spillytelse er det ingen andre brett som har bydd på flere bildeoppdateringer i sekundet enn 2014-utgaven av Galaxy Note 10.1, til tross for at oppløsningen er vesentlig høyere enn på alle de andre. 
+
+Merk også at brettet har støtte for den nye trådløse AC-standarden, som åpner for langt raskere nettsurfing dersom du er koblet til en kompatibel ruter. 
+
+Her er ytelsestallene fra vår standard testsuite: 
+
+Generell ytelse 
+- Geekbench 3: 945/2980 Spillytelse 
+- Epic Citadel: 59,3 fps (2560 x 1600) 
+Nettleser/Javascript 
+- Sunspider: 668 ms 
+
+Vi målte også batteritiden ved nettsurfing med appen LAB501. 
+Her fikk vi 10 timer og 27 minutter, noe som er omtrent som forventet i denne klassen. 
+
+Notér deg dette 
+
+Så langt er det bare å konstatere at dette brettet har gjort et solid inntrykk, og er kanskje det mest gjennomførte Android-brettet vi har testet. 
+Og i tillegg til "normal" brettbruk har altså Samsung implementert en rekke ekstrafunksjoner, som kan være nyttig bare du lærer deg å bruke dem. 
+
+Et eksempel er app-skuffen som ligger på siden i skjermbildet, som gjør det mulig å åpne to apper side om side. 
+Dette er noe mange PC-brukere har savnet på nettbrett: 
+
+Det som virkelig åpner for økt produktivitet er imidlertid den medfølgende pennen. 
+Du kan for eksempel ta notater og få brettet til å gjøre kråketegnene dine om til redigerbar tekst, utføre søk på bakgrunn av håndskrift, tegne, ta skjermdumper, klippe ut deler av skjermbildet og sende det i eposter, og en rekke andre oppgaver. 
+
+Mulighetene er faktisk så omfattende at Samsung bad om å få komme til redaksjonen for å demonstrere dem for oss - og her ligger også litt av utfordringen, tror vi: 
+Funksjonalitet som krever opplæring blir dessverre ikke alltid like populær. 
+
+Jovisst er mye av det Samsung har bakt inn nyttig, men bruken er ikke så intuitiv som vi tror den må være for at den skal bli mye brukt. 
+Derfor tror vi at verdien av å vite at man har mulighet til å bruke funksjonene blir det viktigste, og at PC-en fortsatt er førstevalget når folk flest skal være produktive. 
+
+Det som også gjenstår- og det er en alvorlig mangel - er å få skikk på hastigheten på opptegningene. 
+
+Drar du pennen raskt over skjermen kommer noen ganger opptegningen mer enn en cm bak. 
+Det er kanskje ikke mer enn et tidel eller to, men det gjør at følelsen ligger langt bak penn og papir, som alltid er umiddelbar (med mindre du har gått tom for blekk). 
+Her er det følsomheten i skjermen som må bli raskere, ikke prosessoren. 
+
+Konklusjon 
+
+Samsung Galaxy Note 10.1 er et supert nettbrett for Android-tilhengerne, som byr på alt det beste platformen har å by på i øyeblikket. 
+Sammen med iPad Air er dette vårt favorittbrett i skrivende stund. 
+
+Brettet har få svakheter, vi setter likevel et lite spørsmålstegn ved om ekstrafunksjonaliteten som Samsung har bakt inn gjennom pennen er brukervennlig nok til at det brede lag kommer til å bruke den. 
+Der er vi i tvil. 
+Kostnadsmessig er det også greit å være klar over at Galaxy Note 10.1 ligger i øvre del av skalaen. 
+Er du ikke så opptatt av høy skjermoppløsning og pennefunksjonaliteten kan du altså spare mye penger på å velge et brett fra konkurrentene. 
+
+Samsung Galaxy Note 10.1 SM-P600 16GB 

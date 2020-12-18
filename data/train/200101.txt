@@ -1,0 +1,82 @@
+Tundra 1555
+Det begynner å komme en del bærbare maskiner basert på Intel Centrino og Pentium M-prosessoren. 
+Nå er også norske Hattelco klar med sin første modell, og vi har testet. 
+
+Vi har tidligere testet en annen "norsk" Centrino, Znote 4100 fra Zepto. 
+Tundra 1555 har mange likhetstrekk med denne, men er derimot langt rimeligere enn Zeptoen. 
+Spørsmålet er om det er en dårligere maskin av den grunn, vi tror ikke det etter å ha testet den en uke. 
+
+LES OGSÅ: 
+
+"Halvt" norsk 
+
+Grunnmodellen bygges av anerkjente Aopen, mens minne, harddisk, prosessor etc blir ettermontert i Norge. 
+Dermed kan leverandørene her hjemme tilby en viss form for spesialtilpasning. 
+Vårt testeksemplar var utstyrt med en 1,3 GHz Pentium M-prosessor (tilsvarer 2.0 GHz Pentium 4), 40 GB harddisk og 256 MB minne. 
+Dessuten har maskinen 3 USB 2.0-porter, Firewire-port, infrarød port, parallellport, VGA med TV-utgang, en PCMCIA-plass, 10/100 MBit nettverk, WLAN og et 56 Kb modem. 
+
+Du finner også en kombinert DVD-leser/CD-brenner, samt en kortleser for Memory Stick og SD/MMC-minnekort. 
+Denne erstatter dermed diskettstasjonen. 
+
+Skjermen er på 15", og oppløsningen er 1024x768 (XGA). 
+Den hadde tålt høyere oppløsning, men det hadde samtidig gjort maskinen noe dyrere. 
+Skjermen har over middels god lysstyrke, selv når maskinen går på batteri. 
+Grafikkmotoren er integrert i i855-brikkesettet. 
+
+PCen leveres med Windows XP Professional og kontorpakken Works 7.0 fra Microsoft, så her er det bare å sette i gang å jobbe. 
+
+Slank 
+
+PCen har en slank og stilren utforming, målene 27 x 325 x 270 mm og vekten på 2,7 kg burde ikke skremme noen. 
+
+I likhet med en annen populær Centrino, Dells 500M, har Tundraen et kabinett som består av plast fra innerst til ytterst. 
+Den virker likevel ganske solid bygd, men legg for sikkerhets skyld aldri tunge gjenstander på lokket, da det kan skade skjermen. 
+
+Tastaturet kompakt, men likevel godt å skrive på, tastene er blå og delvis gjennomsiktige. 
+Plasseringen av spesialtaster er logiske, og taster du sjelden bruker (som F-tastene) er litt mindre for å gi mer plass til de andre tastene. 
+Smart. 
+Under tastaturet finner du en pekeplate, museknapper og en knapp med fire akser for skroll-funksjonalitet i dokumenter og websider. 
+
+Til venstre for tastaturet finner du hurtigknapper for nettleser og epost, bryter for WLAN, samt to knapper som du kan programmere selv. 
+Over tastaturet finner du knapper og LCD for styring av medieavspilling. 
+Du kan faktisk spille musikk-CDer uten å skru på PCen. 
+
+Høyttalere finnes det også, og i likhet med de fleste andre høyttalerløsningene på bærbare PCer formidler disse lyd, men er ikke særlig egnet til musikkavspilling. 
+
+Yter uten å syte 
+
+Vi får stadig henvendelser fra lesere som er opptatt av støynivået når de skal kjøpe bærbare PCer. 
+Det er vi også, og mener et lavt støynivå er vesentlig for en positiv brukeropplevelse. 
+Tundra 1555 er så godt som lydløs. 
+Ikke en gang våre heftige 3D-tester fikk hisset den nok til at viften startet. 
+Til tross for dette ble maskinen aldri så varm at den ble ubehagelig å ha i fanget. 
+
+Når vi først er inne på 3D-tester, skynder vi oss å legge til at dette er en av de få svakhetene vi har kunnet avsløre på denne PCen. 
+Svakhet og svakhet, det er egentlig bare å poengtere at denne maskinen ikke er noen spillmaskin. 
+Til det er 3D-ytelsen for svak. 
+Men til alle andre oppgaver, inkludert videoavspilling og 3D-spill i lav oppløsning, er den mer enn rask nok. 
+
+Vi kjørte tester på minne, harddisk og prosessor, og kan konkludere med at Tundra 1555s ytelser ikke skiller seg ut i særlig stor grad, verken positivt eller negativt, i forhold til de andre 1,3 GHz-Centrinoene vi har testet så langt. 
+Den er et par sekunder kjappere på MP3-koding enn Zepto Znote 4100, men sistnevnte er på den annen side langt, langt kjappere på krevende 3D-grafikk. 
+
+Seiglivet batteri 
+
+Batterilevetesten ble en positiv opplevelse. 
+4 timer og 25 minutter er meget bra, faktisk blant de aller beste resultater vi har målt noensinne. 
+Enkelte PCer er "døde" så snart batteriindikatoren når 10%. 
+Tundra 1555 ga derimot ikke opp, og de 10 siste prosentene varte lenger enn de 10 første. 
+Imponerende! 
+
+For detaljer omkring ytelsestestene, samt utstyr, mål og vekt, trykk på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Tundra 1555 er en meget fin bærbar PC. 
+Den er musestille, lett, har en god skjerm, ser bra ut og har et meget seiglivet batteri. 
+Dessuten er den rimelig, betydelig billigere enn det meste vi har sett på Centrino-fronten så langt. 
+
+Bortsett fra 3D-grafikkytelsen er det generelt svært lite å trekke på denne PCen. 
+Den virker generelt som et meget godt kjøp, både for deg som er ute etter et utholdende arbeidsverktøy i felten, og for deg som ser etter en rimelig og god erstatning for den stasjonære PCen. 
+
+OPPDATERT 10.7: PCen selges nå hos PS Data med 1,4 GHz prosessor, og kan kjøpes uten operativsystem for kroner 13.295 inkl mva - uten operativsystem. 
+Med Windows XP Home blir prisen ca 14.295 inkl mva, og med XP Pro ca 14.795 inkl mva. 

@@ -1,0 +1,104 @@
+Lenovo Thinkpad Edge E520
+Et fornuftig valg for deg som setter stillhet og kvalitet høyere enn rå ytelse. 
+
+Thinkpad, en gang navnet på kostbare, robuste PC-er fra IBM, lever videre i beste velgående under Lenovos ledelse - 19 år etter at det første medlemmet i familien så dagens lys. 
+Nå omfatter den imidlertid maskiner i en rekke forskjellige segmenter, men de fleste er fortsatt myntet mer på produktivitet enn på underholdning. 
+Derfor er Thinkpad spesielt populære i skole- og bedriftssammenheng. 
+
+Den lille røde 
+
+Et kjennetegn ved disse maskinene er den røde knappen mellom G, H og B på tastaturet. 
+Dette er en styrepinne for musepekeren, og den har sine egne museknapper under mellomromstasten på tastaturet. 
+Mellom disse sitter en skrolle-bryter, som sammen med strypinnen lar deg skrolle vertikalt i lange dokumenter og nettsider, for eksempel. 
+
+Det er også en egen pekeplate på nyere Thinkpads, for deg som ikke finner deg til rette med styrepinnen. 
+Det gjelder også modellen vi har hatt på testbenken, Thinkpad Edge E520. 
+
+Modellen fås i en rekke forskjellige konfigurasjoner, vårt testeksemplar er en budsjettmodell med 8 GB minne som selges for den nette sum av 3.590 kroner hos MPX. 
+
+Her er noen av de viktigste egenskapene: 
+
+15,6" matt LED-baklyst LCD-skjerm, 1366 x 768 piksler Intel Pentium B950 dobbelkjernet prosessor (2,1 GHz) 
+Intel HD Graphics 3000 integrert grafikk 8 GB RAM (4 GB installert, 4 GB leveres løst) 500 GB harddisk, 5400 rpm DVD-brenner for alle formater Minnekortleser for SD/SDHC/SDXC-minnekort 3x USB 2.0-porter, hvorav en gir strøm når PC er avskrudd 1x delt USB 2.0 / eSATA-port ExpressCard-spor Webkamera med HD-oppløsning (1280 x 720 piksler) Trådløst nettverk (B/G/N) 
+Gigabit kablet nettverk Bluetooth 3.0 Størrelse: 38 x 24,9 x 3,4 cm Vekt: 
+2,5 kg 
+
+Edge-serien kom på markedet i fjor, og avviker en del fra tradisjonelle Thinkpads. 
+Den er fortsatt sort på innsiden, men finishen for øvrig er ganske så "oppmyknet", for å tekke vanlige konsumenter. 
+Vårt testeksemplar har for eksempel et knallrødt lokk med matt, gummiert overflate, og sølvfarget kant rundt skjermen. 
+Den vekker faktisk oppsikt, etter vår mening på en positiv måte. 
+
+Tastaturet er av chicklet-typen, der hver tast er en isolert øy i forhold til de andre. 
+Men tastene er lett kurvet, tastaturplaten bred og romslig, og en drøm å skrive på, time etter time. 
+Det er som skapt for lange skoleoppgaver og rapporter. 
+
+Vi må også trekke fram at tastaturet er helnorsk - altså ingen delte, fellesnordiske ØÄÅ-taster og forvirrende fargekoder, som er blitt mer malen enn unntaket de siste årene. 
+Sett i lys av at dette er en rimelig modell, må vi absolutt gi honnør til Lenovo for denne viktige detaljen. 
+
+Det eneste vi ikke liker ved tastaturet, er at CTRL og FN-tastene har byttet plass i forhold til andre PC-tastaturer. 
+Dette har Lenovo drevet med i årevis, og det fører til en del feiltasting for oss som er vant til andre tastaturer. 
+
+For øvrig er det gledelig at Lenovo har utstyrt PC-en med en matt skjerm. 
+Vi aner en tiltakende trend der flere og flere går bort fra de speilblanke skjermene som har regjert de siste årene, og vi gråter ikke av den grunn. 
+Her får du en PC som kan brukes under de fleste lysforhold helt uten problemer. 
+Skjermen er dessuten lyssterk og fin, med bra sideinnsyn. 
+
+Alle tilkoblingene sitter på sidene, med unntak av nettverkskontaken, som sitter bak. 
+
+I likhet med blant annet Asus X53SV har også E520 en strømplugg som stikker rett ut på siden, men kontakten er stivet opp med en plastkonstruksjon på innsiden, som etter alle solemerker gjør den mer robust. 
+Men vi er fortsatt av den oppfatningen at en 90-graders knekk på pluggen er å foretrekke når kontakten sitter på siden. 
+
+Strømforsyningen er på 65 Watt og er svært liten. 
+Det setter vi definitivt pris på. 
+
+Moderate ytelsestall 
+
+Som vi nevnte innledningsvis er ikke dette en maskin for de tyngste oppgavene, men Pentium B950-prosessoren (som er basert på siste generasjon Core i-serie fra Intel) biter likevel godt fra seg til vanlige oppgaver. 
+Til alt fra surfing, kontorarbeid til medieavspilling var ikke prosessorkraft noe vi savnet, men til tyngre oppgaver, inkludert kompresjon av videodata, konverteringer, utstrakt fleroppgavekjøring og lignende, hadde vi vurdert en annen modell. 
+
+Her er Windows' egne tall (Windows Opplevelsesindeks), der skalaen går fra 1.0 (svakest) til 7.9 (sterkest): 
+
+Prosessor: 
+5.9 Minne (RAM): 
+5.9 Grafikk: 
+4.6 Spillgrafikk: 
+5.9 Primær harddisk: 
+5.8 
+
+Passmark PerformanceTest 7 gav oss en totalscore på 862, og i diagrammet under har vi sammenlignet prosessorytelsen med gjennomsnittstall fra andre, populære prosessorer i budsjettsegmentet: 
+
+Grafikken er integrert i prosessoren, men ytelsen viste seg å være en god del lavere enn hva vi har sett fra samme grafikkbrikke i Core i3- og i5-prosessorer. 
+Hvis du ikke bryr deg om spilling, betyr dette imidlertid lite. 
+Tar vi for eksempel utgangspunkt i HD-video, som normalt er noe av det tyngste av oppgaver du normalt vil sette denne grafikken til å kverne, tar den rubb og rake av våre testvideoer uten særlige anstrengelser. 
+
+Tyngst gikk det under avspilling av Flash-video fra YouTube i full HD (i Internet Explorer), men fortsatt var det mye prosessorkraft igjen: 
+
+I diagrammet under har vi sammenlignet 3D-ytelsen med andre maskiner i budsjettsegmentet, nok en gang ved hjelp av PerformanceTest 7: 
+
+Mye minne og lav støy 
+
+8 GB internminne er uansett veldig velkomment, og bidrar til at vi slett ikke vil karakterisere denne PC-en som noen sinke, hvis du har helt ordinære behov du vil dekke. 
+Det betyr for eksempel at du kan veksle raskt mellom minnehungrige applikasjoner, uten behov for stadig bufring på harddisken. 
+
+Vi må også fremheve det lave støynivået. 
+Selv under tunge ytelsestester startet viften sjelden, og bare i noen ganske få sekunder hver gang. 
+Maskinen ble heller ikke særlig varm. 
+Den eneste støyen kom fra harddisken, og fra en svak vibrasjon i kabinettet som den genererte. 
+Vårt testeksemplar var utstyrt med en 7200 rpm harddisk, mens modellen normalt er utstyrt med en litt tregere 5400 rpm-variant, og da er oppstår problemet erfaringsmessig langt sjeldnere. 
+
+Lenovo fremhever at batterilevetiden ligger på over 6 timer for denne modellen. 
+Det klarte vi også å få den til å vare, men bare når maskinen ble utsatt for minimal belastning. 
+Ved kontinuerlig videoavspilling (720P) i Windows Media Player, holdt batteriet ut i 4 timer og 13 minutter. 
+
+Ved normal, variert bruk kan du forvente en levetid på rundt 5 timer. 
+Det er absolutt godkjent for en budsjettmodel som dette, men et godt stykke bak de mest strømsparende modellene vi har testet. 
+
+Konklusjon 
+
+Lenovo Thinkpad Edge E520 har etterlatt et godt inntrykk. 
+Den er ikke blant de kraftigste modellene i budsjettklassen, men den har et bra utstyrsnivå, god kvalitetsfølelse, er svært stillegående og har en prislapp som ikke bør skremme noen. 
+For deg som ønsker mye for lite er den definitivt et godt valg. 
+
+Takk til MPX for utlånet av maskinen! 
+
+Du finner flere konfigurasjoner og priser her. 

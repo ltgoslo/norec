@@ -1,0 +1,54 @@
+FW/USB: 250 GB Wstern Digital WD2500
+Vil du helst at en harddisk bare skal lagre og levere data og ellers ikke legges merke til? 
+Da er ikke denne disken noe for deg. 
+Med rosa neonlys, og blå og grønne lysdioder, er den mildest talt synlig... 
+
+Det har etter hvert utviklet seg en del svært forskjellige kulturer blant PC-brukere. 
+Blant entusiaster har det etter hvert blitt like populært å style PCen som å style bilen i andre miljøer. 
+Eller kroppen for den saks skyld... 
+
+Denne eksterne harddisken henvender seg i svært liten grad til de som ikke har noe forhold til utseendet på PCen. 
+Med sine neonlys og blå og grønne lysdioder er den like diskret som Surferosa... 
+
+Kabinettet er altså i gjennomsiktig plast, med de to rosa lysrørene på hver side, og de blå lysdiodene plassert under disse. 
+
+I fronten finner vi en vanlig grønn lysdiode som indikerer at disken er på. 
+Som om det skulle være mye tvil om det, det er nemlig ikke mulig å slå av de andre lysene... 
+
+Tilkoblinger 
+
+Disken bruker en ekstern strømforsyning av middels størrelse, denne kobles til nettet med en vanlig løs strømkabel. 
+Tilkoblingen til disken skjer med en mini-DIN kontakt på baksiden. 
+
+Videre på baksiden finner vi en USB-kontakt, som selvsagt støtter HiSpeed USB, også kjent som den høyeste hastigheten som USB 2.0 tilbyr. 
+Ved siden av denne finner vi 2 FireWire-kontakter, som er parallellkoblet. 
+Du kan altså koble inn f.eks. et DV-kamera til disken samtidig som den er koblet opp på PCen. 
+Kjekt for de som har bærbare PCer med bare en FireWire-kontakt. 
+
+Bare så det er nevnt: 
+Det er bare mulig å bruke en type tilkobling samtidig, enten USB eller FireWire. 
+
+Ytelse 
+
+Inne i kabinettet befinner det seg en gammel kjenning, det er den samme 250 GB 7200 RPM disken med 8 MB hurtigbuffer som vi har testet både som parallell ATA og S-ATA. 
+
+Men testene viste at ytelsen hos denne eksterne disken ikke kommer i nærheten av det de interne modellen presterer. 
+
+Mens den interne S-ATA utgaven skriver med opptil 55 577 KB/sekund, klarer den eksterne varianten tilkoblet med USB beskjende 25 045 KB/sekund. 
+Med FireWire er ytelsen så vidt et strå høyere, 25 219 KB/sekund. 
+
+Leseytelsen er 56 607 for S-ATA utgaven, men med USB faller den ned til 30 876 KB/sekund og med FireWire enda et lite hakk til 29 912 KB/s. 
+
+Konklusjon 
+
+Disken er stor og den er stilig hvis man liker denne formen for estetikk. 
+Den er også støysvak. 
+
+Men ytelsen er ikke i nærheten av hva den interne utgaven presterer. 
+
+Likevel er den mer enn rask nok til de aller fleste bruksområder, inkludert videoredigering og flerkanals lyd. 
+Som arkiv for store mengder mediadata, som filmer og musikkfiler er den også mer enn rask nok i de fleste praktiske sammenhenger. 
+Det er jo også dette den er tenkt å brukes til. 
+
+Men du må vente på eksterne diskløsninger med S-ATA for å få den optimale ytelsen. 
+Det er mulig, spesifikasjonen sier at maks kabellengde er 1 meter, selv om S-ATA først og fremst er beregnet på å være en intern løsning. 

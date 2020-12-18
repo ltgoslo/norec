@@ -1,0 +1,149 @@
+Asus Zenbook UX301LA
+Rålekker, rask og overbevisende batteritid, men til denne prisen burde det blott bare mangle. 
+
+Asus sin Zenbook-serie består av premium bærbare PC-er i ultrabook-segmentet, altså særs tynne og lette maskiner. 
+Flere av dem har fått terningkast 5 og 6 i våre tester. 
+
+Meget kraftig og lett 
+
+UX301LA er siste tilskudd i premium-segmentet, og er en meget fin sak. 
+Ikke bare er den lekker, den er også blant de aller kraftigste ultrabookene på markedet, og er toppspesifisert på de fleste punkter. 
+Hør bare her: 
+
+Skjerm: 13,3" 10-punkts blank berøringsskjerm (IPS), 2.560 x 1.440 piksler Prosessor: 
+Intel Core i7-4558U (to kjerner, fire tråder) RAM: 
+8 GB (som også er maks) Grafikkort: 
+Intel HD 5100 (Iris) 
+Lagring: 
+2 x 256 GB SSD (eSATA) 
+Optisk drev: 
+Nei Skjermutganger: 
+Micro-HDMI (1,4a) og DisplayPort USB-porter: 2 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/MMC Trådløst nett: 
+Intel 802.11a/b/g/n/ac Kablet nett: 
+Via medfølgende adapter Annet: 
+Bluetooth 4.0, skaifutteral OS: 
+Windows 8 norsk 64 bit Størrelse: 325 x 223 x 15 mm Vekt: 
+1,2 kg Pris: ca 17.990 kroner (jf Prisjakt 26.11.2013 
+
+Svært høyoppløst skjerm 
+
+Fjorårsutgaven av dette flaggskipet hadde full HD-skjerm, nå er oppløsningen økt til hele 2.560 x 1.440 piksler. 
+Hvis våre antakelser er riktige er det samme skjermpanel som sitter i nye Acer Aspire S7 som vi testet i forrige uke. 
+
+Skjermen kan registrere inntil ti fingerberøringer samtidig, IPS-panelet kommer fra LG/Philips og har en innsynsvinkel på maks 170 grader. 
+Betrakter du skjermen fra skråere hold, enten fra toppen eller siden, kan du oppleve at fargene blir inverterte. 
+
+Det er imidlertid et svært lite problem på denne fine skjermen. 
+Refleksjoner i skjermflaten fra lyskilder i rommet vil nok mange oppleve som vel så sjenerende. 
+
+Klassisk Windows-skrivebord er en utfordring 
+
+Om en slik oppløsningen er nødvendig på en 13,3" skjerm er naturligvis diskutabelt, men det gir i hvertfall svært skarpe bilder og tekst helt uten synlige raster. 
+Det nye, vektorbaserte Modern UI-grensesnittet og tilhørende apper skalerer alt helt uproblematisk, men det klassiske Windows-skrivebordet er langt fra optimalt for små, høyoppløste skjermer. 
+
+Derfor er det nærmest påkrevd å manuelt skalere opp tekst, ikoner og grafiske elementer i klassisk skrivebordsmodus til minst 150 prosent. 
+
+Men merk følgende: 
+Denne skaleringen er ikke uproblematisk i Windows 8. 
+Ikke alle programmer er kompatible, menytekster kan for eksempel forsvinne og vinduer kan bli uskarpe. 
+Mye av dette er løst i Windows 8.1, og derfor prøvde vi oppgradere i løpet av testperioden. 
+
+Smårusk 
+
+Dessverre stoppet PC-en gang etter gang under prosessen, og vi måtte til slutt gi opp. 
+Vi håper og tror dette skyldes konfigurasjonsfeil ved vårt testeksemplar, for dette skal man ikke behøve å oppleve på et nytt produkt til 18.000 kroner, mener vi. 
+
+En annen ting man ikke burde behøve å oppleve i denne prisklassen, er tremåneders prøveversjon av et sikkerhetsprogram som serverer skremselspropaganda i tide og utide. 
+Her forventer vi at Asus og de andre PC-produsentene sørger for en premium-opplevelse på alle plan! 
+
+Griselekkert 
+
+På den annen side er utformingen av PC-en meget bra. 
+Maskinen er slank, materialvalget er aluminium og glass. 
+Konstruksjonen virker solid bygget, men merk at den blanke glassoverflaten viser fingeravtrykk svært lett. 
+
+Høyttalerne på undersiden er levert av Bang & Olufsen, og byr på bra lyd til bakgrunnsmusikk og lignende, med både et snev av bass og bra diskant. 
+
+Alle tilkoblingene sitter på sidene. 
+Litt synd at det ikke er fullstørrelses HDMI-utgang og til kablet nett, men overganger følger med. 
+For de fleste bør det være til å leve med. 
+
+Keitete plassering 
+
+Tastaturet er helt supert - med ett lite unntak. 
+Av/på-knappen har fått plass rett over backspace-tasten, i form av en tast. 
+Uforståelig plassering, mener vi. 
+Undertegnede har trykket på knappen i vanvare ved to anledninger, noe som har ført til at maskinen har gått i dvale. 
+Uansett: 
+Vi liker tastaturutformingen langt bedre enn den som sitter på Acer Aspire S7 
+
+Den flerberøringsfølsomme store pekeplaten fungerer uten store lyter. 
+
+Raskeste ultrabooken så langt? 
+
+Den høye prisen må ses i forhold til at dette er en meget potent maskin på alle plan, ytelse og batteritid er intet unntak. 
+
+I Passmark PerformanceTest 8.0 fikk vi følgende tall: 
+
+CPU Mark: 
+4929.2 2D Graphics Mark: 
+579.6 Memory Mark: 
+2125.7 Disk Mark: 
+5897.5 3D Graphics Mark: 
+859.3 PassMark Rating: 
+2653.1 
+
+Det som er spesielt verdt å merke seg her er 3D- og diskytelsen. 
+Iris 5100 byr på rundt dobbel så høy 3D-ytelse som standard Intel HD 4400-grafikk som sitter i mange Haswell-baserte ultrabooks nå om dagen. 
+3D-ytelse på over 800 betyr for eksempel at du kan spille nyere spill, i hvert fall om du går litt ned på oppløsning og detaljrikdom. 
+Men noen superytelser er det uansett ikke snakk om, ekte gamere bør altså velge en PC med dedikert grafikk fra AMD eller Nvidia. 
+Også Iris 5200 byr på høyere ytelse. 
+
+SSD-ene byr på en lese/skrive-hastighet på hele 784 og 477 MB i sekundet, rett og slett strålende resultater sett i forhold til det aller meste vi har testet i år. 
+Lagring og lesing av data innebærer ikke lenger noen flaskehalser i systemet med slike tall. 
+
+Stillegående, men... 
+
+PC-en er i stor grad svært stillegående. 
+Men, og det er et ganske stort men her: 
+På vårt testeksemplar ble plutselig viften godt hørbar, i form av en metallisk skrapelyd, som om den tok borti chassis. 
+Da vi løftet PC-en forsvant lyden, og avhengig av vinkelen vi holdt den i kom den tilbake. 
+Dette er skuffende å oppleve på en av de dyreste PC-ene vi har testet i 2013. 
+
+Det forteller oss samtidig at det er minimalt med "tomrom" rundt viften. 
+Om du skulle velge denne PC-en og slik "skraping" skulle oppstå på ditt eksemplar, bør det være en klar reklamasjonsgrunn, mener vi. 
+
+Og så var det batteritiden da. 
+Asus selv hevder rundt 9,5 timer under variert bruk. 
+Vi målte batteritiden under to forskjellige situasjoner: 
+Først uten belastning, bare knyttet til trådløst nett. 
+Da holdt batteriet ut i 12 timer og 13 minutter. 
+Ved kontinuerlig videoavspilling var det slutt etter 6 timer og 50 minutter. 
+Asus sin påstand om rundt 9,5 timer bør derfor ikke være langt unna sannheten. 
+
+Merk samtidig følgnede: 
+Windows Media Player tærer vesentlig mer på batteriet enn Modern UI videospiller-appen. 
+Våre tester viser at gevinsten ofte kan være på mer enn én time. 
+Vi benytter nå kun sistnevnte i våre tester. 
+
+Konklusjon 
+
+Asus Zenbook UX301LA avslutter årets meget fyldige testrunde (rundt 45 modeller er testet), nå gjenstår bare kåring av årets beste PC-er. 
+
+Dette er blant de kraftigste og lekreste Ultrabookene på markedet, men vi har også noen bemerkninger og spørsmålstegn som gjør at vi ikke havner på en sekser, men en relativt trygg femmer. 
+
+Det er for eksempel verdt å bemerke følgende: 
+Vi mener PC-en burde vært levert med Windows 8.1 nå, og ikke 8.0. 
+Denne oppfatningen forsterkes av problemene vi støtte på da vi prøvde å oppgradere den. 
+Windows 8.1 skalerer nemlig mye bedre tekst og programvinduer, noe som er svært viktig når oppløsningen er så høy som på denne skjermen. 
+
+Vifteproblematikken og fingeravtrykk er også blant ankepunktene som trekker noe ned. 
+
+Og nesten 18.000 kroner er svært dyrt for en PC. 
+Skjermen og dobbel SSD er en stor del av forklaringen. 
+Klarer du deg med mindre SSD får du etter vår mening minst like god eller bedre kvalitet ved å velge Samsung Ativ Book 9 eller "lillebror" Asus Zenbook Touch UX31LA. 
+Sistnevnte har riktignok lavere skjermoppløsning, men for de fleste av oss bør full HD på en 13,3" mer enn godt nok til dagens apper og programmer. 
+
+Asus ZenBook UX301LA-DE002H 

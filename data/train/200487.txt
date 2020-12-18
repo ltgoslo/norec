@@ -1,0 +1,106 @@
+Panasonic LumixDMC-ZX1 
+
+Lite, men stort. 
+
+I vår første trippeltest har vi tatt med kameraer som har vidvinkel tilsvarende 25mm eller mindre og 200mm eller mer som største tele. 
+I tillegg må kameraene kunne filme med 720p HD-oppløsning og veie mindre enn 250 gram. 
+
+I forhold til konkurrentene i denne trippeltesten, er Panasonics største fortrinn den svært beskjedne størrelsen. 
+Kameraet måler bare 96x55x26mm, men kan allikevel by på 8x optisk zoom og vidvinkel tilsvarende 25-200mm. 
+Dette er riktignok ikke like mye som kameraene fra Casio og Samsung, som begge har omfang tilsvarende 24-240mm, men forskjellen er ikke veldig stor i praktisk betydning. 
+
+ZX-serien er helt ny fra Panasonic, og kameraet har også fått deres nye optiske bildestabiliseringssystem, Power O.I.S., som Panasonic hevder at kan stabilisere opp mot 4 trinn. 
+Det betyr at du i situasjoner med dårlig lys, der du skal ta bilde håndholdt av noe som ikke er i bevegelse, kan tillate deg opp mot 16 ganger så lang lukkertid (24) uten at bildet blir uskarpt på grunn av ustøheter på hånda. 
+
+(I denne trippeltesten har også Samsung WB-550 optisk bildestabilisering, mens Casio EX-H10 kun har stabilisering ved at CCD-brikken flyttes, noe som tradisjonelt ikke er like effektivt som optisk bildestabilisering.) 
+
+Konstruksjon og knapper 
+
+På tross av den lille størrelsen har ZX1 en konstruksjon som gjør kameraet godt å holde i, mye takket være det runde grepet på høyre side av kameraet (sett bakfra). 
+Kameraet er også såpass lett at det går fint å betjene det med kun én hånd. 
+
+På toppen finnes en av og på-bryter, utløserknappen med omsluttende zoombryter, samt et funksjonshjul for å bytte mellom de ulike modiene. 
+Dette hjulet har vist seg å gi litt for liten motstand til at det ikke alltid står på samme plass når du tar det opp fra lomma igjen, og vi stusser også litt over at nesten halve hjulet ikke brukes til noe. 
+Da kunne Panasonic like gjerne hatt større mellomrom mellom funksjonene og oppnådd et mer presist hjul. 
+
+På baksiden finnes de sedvanlige piltastene, som i motsetning til de to andre kameraene er separerte med mellomrom. 
+I våre øyne gjør det at bruken av disse knappene er mer presis på ZX1. 
+Knappene fungerer også som hurtigtaster til selvutløser, blits, makromodus og eksponeringskompensasjon (som du bruker i situasjoner der automatikken tar for lyse eller for mørke bilder). 
+
+En egen Q.menu-knapp gir deg kjapp tilgang til de mest aktuelle innstillingene i forhold til bildet som skal tas (følsomhet, seriefotografi etc.), mens en egen E.zoom-knapp gjør at du zoomer enten helt inn eller helt ut så fort som mulig. 
+På dette kameraet tar det drøye to sekunder å zoome fra innerst til ytterst, mens Casio bruker halvannet og Samsung WB550 bruker snaue to sekunder. 
+
+Opptak/avspillingsbryteren er en skyvebryter; en mekanisme vi liker dårligere enn en knapp for avspilling, der kameraet settes rett i opptaksmodus når du trykker utøserknappen halvveis. 
+Med Panasonics innretning risikerer du å slå på kameraet mens det står i avspillingsmodus - litt irriterende dersom du skal forte deg å ta et bilde. 
+
+Brukervennlighet og funksjoner 
+
+Med tanke på brukervennligheten er Panasonic i sitt ess. 
+ZX1 er rett og slett briljant enkelt å bruke. 
+Knappene gjør det man forventer (bortsett fra i menyene, der set-knappen går ut av menyen) og menyene er lettleselige og fornuftig strukturert. 
+
+Automodusen, som Panasonic har kalt Intelligent auto velger automatisk sceneprogram ut fra bildet som skal tas. 
+Holder du kameraet på kort avstand, svitsjer det automatisk over til makro, og er det bevegelse i bildet, bruker kameraet høyere ISO for å korte ned lukkertiden etc. 
+
+Her er en oppsummering av de ulike kameramodiene (foruten Intelligent Auto): 
+
+Normal picture 
+- Lar deg gjøre flere innstillinger enn hva tilfellet er for Intelligent Auto, blant annet stille ISO-verdi, fokustype, hvitbalanse etc.MS - Aktiverer en høyhastighets seriefotomodus der bildeoppløsningen reduserers til 3 megapiksler (fortsatt nok til skarpe A4-utskrifter), men der kameraet drar unna drøye 5 bilder i sekundetSCN 
+- Lar deg velge blant 29 ulike scenetyper. 
+Foruten de vanlige som sport, portrett, landskap etc. finnes det noen filtre (sort/hvitt med støy, nøkkelhull etc.), slanke- og sminkefunksjon (som henholdsvis strekker bildet og glatter ut hudtoner), baby- og kjæledyrfunksjon der babyens/kjæledyrets alder stemples på bildet når du tar bilde av dem, panoramafunksjon etc.Film - ZX1 kan filme med forskjellige oppløsninger, opp til 1280x720 med 30 bilder pr sekund (720p)Clipboard 
+- Tar lavtoppløslige bilder (1 eller 2 megapiksler) som lagres til kameraets internminne (50MB stort) og ikke på minnekortet. 
+
+Det er altså ikke mulig hverken å fokusere manuelt; ei eller styre blender- og lukkertiden. 
+
+Panasonic Lumix 
+DMC-ZX1 har muligheten for å gjenkjenne ansikter, der du kan definere opp til 6 ansikter ved å ta opptil 3 bilder av dem og angi navn og alder. 
+Oppdages så denne personen i det du skal ta bildet, vises navnet under fokusruten, og du kan da også velge kun å vise bilder av en gitt person når du blar igjennom bilder. 
+Løsningen virker faktisk å fungere bedre nå enn den gjorde da vi prøvekjørte ZX1 ved lanseringen hvor kameraets firmware ikke var ferdigstilt. 
+
+Ytelse 
+
+Generelt er ZX1 raskt i bruk. 
+Kameraet er klar til dyst på et drøyt sekund og autofokusen oppleves som normalt rask (men EX-H10 er enda raskere). 
+Vi skulle ønske oss litt raskere zooming, der det tar mer enn to sekunder å komme fra innerst til ytterst. 
+
+Vi har allerede nevnt MS-modusen, der du får rundt 5 bilder i sekundet med redusert oppløsning (3Mp), men ved vanlig seriefoto får du bare 3 bilder av gangen over halvannet sekund før kameraet må lagre litt. 
+Ved å gjenta denne klarte vi å få 8 av bildene innenfor 10-sekundersgrensen. 
+
+Batterilevetiden er oppgitt til 330 bilder etter CIPA-standarden; et tall som er ganske vanlig for kompaktkameraer, men som altså bare er en tredjedel av hva H10 kan skilte med. 
+
+Bildekvalitet 
+
+Begynner vi med støynivået, ser det ut til at Panasonic stadig klarer å forbedre sine prestasjoner på dette området - faktisk er vi ganske imponerte over ZX1, som feier de to andre konkurrentene av banen på høye ISO-verdier. 
+
+Her er hovedkortet tatt med ISO 400: 
+
+Sammenlignet med begge de andre kameraene, er det Panasonic-kameraet som best klarer å bevare detaljene når ISO-verdien økes, og støynivået holder seg faktisk ganske lavt helt opp til ISO 1600, for et kompaktkamera, vel å merke. 
+Vi har få betenkeligheter med å bruke ISO 800 om det er nødvendig, og til og med ISO 1600 er kurant nok til 10x15-utskrifter. 
+
+Eksponeringsmessig klarer ZX1 stort sett jobben, selv om også dette kameraet sliter litt med utbrente høylys i enkelte kontrastfylte utendørsscener, og også her ser vi litt av bloomingen slik tilfellet var for Casio EX-H10. 
+I motlyssituasjoner gjør automatikken stort sett en god jobb, noe du ser eksempel på til høyre, der det fortsatt er farger i himmelen. 
+Innendørs får bildene dog et rødgult stikk som er ganske tydelig hvis du bruker den automatiske hvitbalansen. 
+
+Med tanke på objektivet er detaljnivået også godt. 
+Vi har lite å utsette på de optiske egenskapene - kromatisk feilbrytning er fraværende, forvrengningen moderat og bildene blir heller ikke merkverdig uskarpe ut mot hjørnene i bildet. 
+
+Videokvalitet 
+Av disse tre kameraene er det uten tvil Panasonic ZX1 som trekker det lengste strået også her. 
+Kvaliteten er god både på bilde og lyd; noe du kan se eksempel på under: 
+
+Konklusjon 
+
+Panasonic er på hugget om dagen, og leverer ett av høstens mest spennende kameraer i ZX1. 
+Kameraet er såpass lite at det er innerlommevennlig, men byr allikevel på imponerende 25mm vidvinkel og 8x optisk zoom. 
+
+Kameraet er lett å betjene, tar meget gode bilder og har også den beste videokvaliteten av disse tre kameraene. 
+Den intelligente automodusen er blant de beste på markedet og sørger for godt resultat i de fleste situasjoner, og vi er også meget godt fornøyde med bildekvaliteten; også på høy ISO. 
+
+Ytelsesmessig har det litt å gå på - autofokusen er normalt rask uten å briljere, seriefotomodusen kunne ha vært raskere, og batterilevetid på 330 bilder er kun middels godt. 
+
+PS! 
+Hvis ZX1 høres ut som et aktuelt kamera for deg, tipser vi også om at Panasonic har en modell, DMC-TZ7, med 25mm vidvinkel og 12x zoom (ZX1 har 8x) og høyere oppløsning på skjermen, men der kamerahuset måler en halv centimeter lenger i høyden og bredden, samt 7mm mer i tykkelse og 70 ekstra gram på vektskåla. 
+Dette har vi dog ikke testet på DinSide. 
+
+Til trippeltesten: 
+25-200mm kompaktkameraer 

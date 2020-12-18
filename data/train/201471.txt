@@ -1,0 +1,68 @@
+Sanyo Xacti HD1
+Testens dyreste kamera er også det eneste som filmer i HD-oppløsning. 
+Filmkvaliteten er allikevel ikke god nok til å forsvare en så stiv pris. 
+
+På papiret er Sanyo Xacti HD1 er meget spennende kamera. 
+Det er ganske lite (selv om det er betydelig kraftigere enn lillebroren, C6), det er det eneste kameraet med OLED-skjerm, det kan filme i HD-kvalitet (720p) og det tar stillbilder med fem megapikslers oppløsning. 
+Et allsidig kamera, med andre ord. 
+
+Både film og bilder lagres rett på minnekort. 
+Filmene blir komprimert med MPEG4, og den høyeste oppløsningen har en bitrate på 9 Mbps. 
+Det høres kanskje mye ut med en drøy megabyte i sekundet, men når det er HD-oppløsning det er snakk om, er dette faktisk ganske lite. 
+
+God betjening 
+
+Betjeningsmessig fungerer kameraet greit. 
+Det har to store knapper for henholdsvis video og stillbilde, der videoknappen starter og stopper video og stillbildeknappen brukes for å knipse bilder. 
+Menyen nås med en egen knapp, og med en navigasjonsspak som trykkes inn for å bekrefte kan du bla i menyvalgene. 
+Den har en tendens til ikke å være så veldig presis når du forsøker å trykke den inn, og det er lett at du heller skyver den i en av retningene. 
+Vi synes også oppbyggingen av menyen er noe dårlig, med en todeling i utgangspunktet, men der den ene av de to delene er delt opp enda en gang. 
+
+Du har gode muligheter til å regulere kvaliteten på det som tas opp, og en egen knapp under OLED-displayet bytter mellom HD og normal filming. 
+For øvrig er det kun 4:3-oppløsning som er tilgjengelig dersom du ikke benytter HD. 
+
+Ellers finnes det greit med kontroll her. 
+Hvitbalansen kan du selv definere ved å fortelle kameraet hva som er hvitt, og du kan både aktivere manuell fokus, makro og blender/lukkerprioritet. 
+HD1 byr også på seks ulike forhåndsprogrammer til ulike motivtyper, og makrofunksjonen har faktisk en nærgrense på 1cm. 
+Vi liker også at det finnes snarveier på navigasjonsspaken til f.eks. makromodus, manuell fokus og eksponeringskompensasjon. 
+
+Fancy skjerm 
+
+Vi blir langt på vei imponerte av skjermen. 
+Her har Sanyo benyttet OLED-teknologi som blir sett på som LCD-skjermenes arvtaker fordi den ikke krever baklys og dermed trekker langt mindre strøm. 
+Den opererer på 60 bilder pr sekund når den ikke filmer, og da går den så flytende at man nesten får hakeslipp, men er noe lyssvak når sola står på for fullt. 
+Den kutter forresten ned til 30fps dersom man filmer med dette (60fps er mulig i 640x480). 
+
+En gimmick som var litt morsom til å begynne med er at en damestemme hele tiden bekrefter det du gjør. 
+"Camera mode" sier hun med typisk science fiction-datamaskinstemme når du velger å ta stillbilder. 
+Litt slitsomt er det at hun også skal fortelle deg at du er i ferd med å slå av kameraet, og det tok ikke lang tid før hun fikk en velfortjent sommerferie. 
+
+Gode stillbilder, men alt er relativt 
+
+HD1 har en blits på toppen som spretter opp via en egen knapp, og stillbildene er i en klasse for seg selv i denne testen, sammen med lillebror C6. Allikevel blir vi ikke imponert over bildekvaliteten, og sammenlignet med stillbildekameraer til et par tusenlapper er det ikke bra. 
+Spesielt er støynivået høyt, og med f/3.5 som største blenderåpning har kameraet problemer i mørket. 
+Bildet under er et utsnitt i 100% størrelse der vi ser at S3 IS-kameraet fra Canon (kanskje ikke motstanderen du helst vil møte i ringen) har langt bedre dynamikk og detaljrikdom, i tillegg til at kameraet fra Sanyo har et tydelig gulstikk. 
+
+Problemet i mørket gjelder også filmingen, og det er her de største problemene melder seg. 
+For mens konkurrentene normalt har blenderåpninger som typisk ligger på f/1.8, slipper f/3.5 inn alt for lite lys til at kameraet kan brukes noe særlig innendørs eller i mørke omgivelser, og dynamikken i det mørkeste områdene blir særdeles dårlig. 
+Heller ikke utendørs blir det spesielt bra, og selv om lyset er godt, ser vi at autofokusen bruker lang tid på å hente seg inn, spesielt når man zoomer. 
+I de lyse partiene mister kameraet også detaljene, og noe blooming kan synes ved panorering. 
+
+Vi skulle også gjerne ha sett en bedre bildestabilisator. 
+Siden kameraet er såpass lite og designet for å holdes med én hånd er det vanskelig å holde det ordentlig stødig, og bildet blir derfor ganske hakkete. 
+Vi skulle også gjerne ha sett at hastigheten på zoomen hadde vært noe raskere, og å zoome fra 1-10x tar nesten tre sekunder. 
+
+Lite tilfredsstillende HD-kvalitet 
+
+Kvaliteten i HD er selvsagt bedre enn i vanlig modus, men sammenlignet med andre HD-kameraer som for eksempel Sony HDR-HC3 er det som natt og dag med tydelige kompresjonsforstyrrelser og dårlig dynamikk for Sanyokameraet (en litt ufair sammenligning siden både prislapp og størrelse er vidt forskjellig, men allikevel). 
+Dersom du har HDTV og er på jakt etter et kamera som filmer i HD, vil dette kameraet på ingen måte leve opp til det du potensielt kan få ut av apparatet ditt. 
+
+Lydkvaliteten er heller ikke all verden, og bærer, som bildet, preg av å være komprimert. 
+I likhet med de fleste andre kameraene har modellen en innebygd vindreduksjonsfunksjon som ikke er noe særlig å skrive hjem om, og plasseringen av mikrofonen på baksiden av OLED-skjermen gjør at den har "feil" retning dersom du vinkler den ut fra utgangsposisjonen. 
+Drivverket støyer selvsagt ikke i det hele tatt, men fokuseringen tikker og går og høres i lydbildet. 
+
+Det skal nevnes at den medfølgende programvaren virker å være den beste i denne testen. 
+Ulead DVD MovieFactory og MotionDirector er å finne på CD-platene, og siden kameraet støtter HD-format er det komponentutgang fra krybba med medfølgende kabel, men ingen HDMI-utgang. 
+
+Sanyo HD1 er dyrt, og selv om det kombinerer to verdner i et lite format, er det lite som gjør at vi kan anbefale det. 
+Kvaliteten på stillbilder er uansett ganske dårlig og kan på ingen måte hevde seg mot et godt digitalkamera til et par tusenlapper, og videokvaliteten er dårligere enn for kameraer i firetusenkronersklassen som de vi har testet her; spesielt i mørket der objektivet blir alt for lyssvakt. 

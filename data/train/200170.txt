@@ -1,0 +1,70 @@
+Asus VG278H
+27 tommer 3D og 120 Hz - for gaming og video! 
+
+27-tommers LCD-skjermer har hittil enten vært beregnet for arbeidsstasjoner og spesielt krevende oppgaver, som tekniske konstruksjoner, finansielle analyser, video og bilderedigering, lydopptak og redigering osv. 
+- eller rett og slett som relativt små TV-apparater. 
+
+Oppløsningen har enten vært 2560 x 1440 for arbeidsstasjonene, vi snakker om HD på 1920 x 1080 eller lavere (for eksempel "HD-ready" 1366 x 768) for TV-apparatene. 
+
+Men nå finnes det 27-tommere som først og fremst er beregnet på gaming og video, i tillegg til generell PC-bruk. 
+Disse har HD-oppløsning, altså 1920 x 1080 piksler. 
+
+Den første av disse vi testet var Samsung A950, testen finner du her. 
+
+Det som gjør disse skjermene spesielle er 120Hz oppfriskning og 3D-støtte. 
+
+Vi har også testet en 120 Hz 3D-skjerm fra Asus, 23-tommeren VG236H. 
+Testen av denne finner du her. 
+
+Asus VG278H 
+
+Men nå er Asus klar med sin 27-tommer som har en lang liste med forbedringer, sammenlignet med 23-tommeren. 
+
+Spesifikasjoner: 
+
+Størrelse: 27″ (69 cm) 16:9, TN, LED bakgrunnslysOppløsning: 1920×1080Pikselavstand: 0.311 mmLysstyrke: 300 cd/m2Kontrast: 50,000,000:1 (dynamisk)Betraktningsvinkel (kontrakst >=10): 
+170° H / 160° VResponstid: 
+2 ms (GtG)Video innganger: 
+Dual-link DVI-D, VGA, HDMI 1.4aStrømforbruk: 65W, <1W dvale, <1W av/standbyLyd: 2x 3W stereo høyttalereJusteringsmuligheter: 
+Vipp +15°~-5°, dreies og heves/senkesDimensjoner (BxHxD): 643 x 460 x 220 mmVekt: 
+8 kg. 
+
+Skjermen er i blank pianolakk og utførelsen er solid og stabil. 
+Høydejusteringen og vinkelen er fleksibel nok, og dreiingen av hele skjermen byr også på passe motstand. 
+
+Betjeningen sitter under høyre kant, med tydelige symboler. 
+
+Menysystemet er oversiktlig og greit og gir store variasjonsmuligheter. 
+Du kan også velge fargemodus direkte ved å trykke på S-knappen helt til venstre. 
+
+Tilkobling 
+
+For å utnytte denne skjermen må du ha et Nvidia skjermkort som støtter 3D Vision 2. 
+Tilkobling skjer med DualLink DVI-D (kabel følger med) og VGA, eller HDMI 1.4. 
+Du kan dermed ha både PC og spillkonsoll/TV koblet til samtidig. 
+
+3D Vision 2-brillene som følger med har 20% større brilleglass og en tøffere innfatning som blokkerer strølys fra sidene. 
+Dette gir en vesentlig bedre totalopplevelse. 
+
+Den infrarøde senderen sitter integrert i topplisten på skjermen, og kan vippes til beste spredningsvinkel. 
+Det er også flere modus for å tilpasse og unngå interferens fra andre elektroniske apparater med infrarøde sendere. 
+
+Lyssterk og kjapp 
+
+Skjermen er matt, det er gledelig å se. 
+Man legger umiddelbart merke til at skjermen med "Lightboost"-fuksjonen aktivert byr på kraftig lysstyrke, den oppgitte lysstyrken på 300 cd/m2 er en sterk underdrivelse. 
+Spesielt med 3D er dette viktig, siden brillene tar noe av lyset og mange spill har svært mørke scener. 
+Denne fungerer påtagelig bedre enn 23-tommeren, som mistet en del av trøkket i fargene i 3D-modus. 
+
+Som vanlig 2D-skjerm er den helt fantastisk i spill, hvor du sitter rett foran og får fantastisk respons og superjevne bevegelser i 120 Hz, forutsatt at du har et skjermkort som leverer. 
+Vi testet med Asus GTX590 som er helt på topp når det gjelder ytelse. 
+
+Men til annen bruk har den de samme svakhetene som andre TN-skjermer, som går på betraktningsvinkel og fargeforandring. 
+Man kjøper ikke en slik skjerm til fargekritisk arbeide, men sitter man flere ved siden av hverandre og ser på film på ganske nært hold, vil de som sitter på sidene se et dårligere bilde enn de som sitter temmelig rett foran. 
+
+Konklusjon 
+
+Dette er først og fremst en 3D-skjerm, 27" er litt for stort til bare å ha 1920 x 1080 oppløsning, så til PC-bruk er den best egnet til de som har en svært tilbakelent arbeidsstilling - eller et snev av langsynte. 
+
+Til gaming er den super, og entusiasten vil heller betale for disse egenskapene enn høyere oppløsning og bedre fargegjengivelse og betraktningsvinkel. 
+Man får ikke i pose og sekk. 

@@ -1,0 +1,124 @@
+Packard Bell EasyNote BG45/46
+Denne 12-tommeren passer for deg som verken vil eller trenger å dra på mye. 
+
+Dette er slett ikke første Packard Bell serverer oss en liten og billig bærbar datamaskin. 
+Våren 2007 ble vi overlevert EasyNote BU45 - en 12-tommer uten de helt spektakulære spesifikasjonene, men til å være en såpass liten maskin var den rasende billig. 
+
+LES OGSÅ: 
+
+I våre øyne hadde EasyNote BU45 kun ett problem, nemlig den korte batterilevetiden. 
+For våre lesere lå derimot problemet i at den så å si var umulig å få tak i - det tok nemlig lang tid før noen få eksemplarer fant veien til en og annen butikk. 
+
+Det er derfor betryggende å vite at dagens testmaskin allerede ligger ute i handelen. 
+I praksis er det to modeller det er snakk om: 
+Packard Bell EasyNote BG45 og BG46. 
+Forskjellen på disse to er kosmetisk - BG45 er sort og har metalloverflater rundt tastatur og på lokket. 
+Den adskillig lysere BG46 (aka "Limited Edition") er nokså hvit med grønne kanter, og i stedet for metall i lokket har vi hvit plast. 
+Men også her finner vi børstet aluminium rundt tastaturet. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo T5450 @ 1,66 GHz 12,1" skjerm i bredformat (1280 x 800 piksler) 2 GB DDR2-minne 160 GB harddisk (5400 rpm) 
+Intel GMA X3100 integrert grafikk 802.11 WLAN (a/b/g) 10/100 MB LAN 3 x USB, blåtann Kortleser for SD, MMS, MS/PRO VGA ut, lyd inn/ut Ekstern DVD/CD-brenner Integrert webkamera og mikrofon Windows Vista Home Premium Dimensjoner (B/D/H): 
+29,6 x 21,2 x 3,9 cm Vekt 1,60 kilo Pris: ca. 8.500,- for BG45, mens BG46 er noen hundrelapper billigere. 
+
+BU45 
+
+Konstruksjon 
+
+Packard Bell EasyNote BG45 virker relativt godt satt sammen uten spesielt svake punkter i chassiset. 
+Vekten på 1,6 kilogram bidrar uansett til at belastningen ikke blir stor ved løfting av maskinen. 
+Lokket kunne godt vært litt stivere, men det tåler fint litt trykk ovenfra og vi er derfor ikke spesielt redde for at den skal bli kvestet i veska. 
+
+Bredskjermen er på 12,1 tommer og står fint til 1280 x 800 punkter - og er som de fleste paneler utstyrt med blankt kontrastbelegg for å bedre farger og kontrast. 
+Skjermen er i stor grad av samme kvalitet som de andre vi har sett på bærbare den siste tiden, den har svak vertikal betraktningsvinkel men gjør i det hele tatt jobben sin bra. 
+
+Listen rundt panelet er i pianolakkblank plast, og er for øvrig kanskje den delen på maskinen som føles minst solid. 
+Her har Packard Bell satt inn et webkamera og mikrofon over skjermen slik at du kan ha videosamtaler dersom det er din greie. 
+
+Tastaturet er av den felles skandinaviske typen som vi finner på flere modeller. 
+Når det gjelder layouten peker vi ut plasseringen av høyre shift, som trolig kommer til å føre til en god del piling oppover. 
+
+Ellers sitter tastene en tanke tettere eller er litt mindre enn på vanlige tastaturer, men sånn sett er bruken i stor grad en vanesak. 
+Det bråker heller ikke mer enn de fleste andre tastaturer for bærbare PCer, med mindre du da virkelig hamrer løs. 
+
+Over tastaturet på venstre side har vi vanlig av/på-knapp og berøringssensitiv tast for trådløst nettverk. 
+I tillegg har vi en "Eco"-tast, denne senker ytelsen litt. 
+Dessverre gjør den ikke underverker for verken viftestøy eller batterilevetid. 
+
+Som på Fujitsu Siemens' Amilo 
+Si 2636 er touchpaden på BG45 rund. 
+Det fungerer fint etter en kort tilvenningsperiode, og den virker ellers som en vanlig og god rektangulær touchpad med skrollfelt i alle retninger. 
+En kul detalj er lyset rundt som fader av og på i takt med berøring, men for å spare strøm kommer dette kun på når strømmen er koblet til. 
+
+Tilkoblingsmuligheter 
+
+Packard Bell EasyNote BG45 er som nevnt ikke av de best utstyrte - så kontakter finner vi kun på sidene. 
+Kun minnekortleseren sitter i front, og skjermen kommer i veien for eventuelle kontaktpunkter bak. 
+
+På høyre side har vi en USB-kontakt, plass for kensingtonlås, LAN og inntak for strøm. 
+
+Venstre side er holder VGA ut, to USB og minijackkontakter for lyd inn og ut. 
+Varmluften blåses også ut her. 
+
+Savner du optisk drev sier du? 
+Det følger også med maskinen, men siden ikke alle bruker dette like mye har Packard Bell valgt å gjøre dette til en ekstern løsning, noe vi synes er helt greit. 
+DVD-brenneren veier 400 gram og kobles til via USB, der to kontakter sørger for nok strøm. 
+
+Ytelse og batteri 
+
+Det er nå noen måneder siden vi testet vår forrige 12-tommer, i det siste har det nemlig gått mer i 13,3-tommere. 
+Vi har derfor valgt å sammenligne opp mot en av hver: 12,1-tommeren Multicom Compal JFT00 på 2,0 kg og 13,3-tommeren Dell XPS M1330 på 1,9 kg. 
+
+EasyNote BG45 med sine 1.603 gram altså er henholdsvis fire og tre hekto lettere enn disse to maskinene. 
+
+Før vi presenterer ytelsesmålingene er det viktig å merke seg forskjellene i spesifikasjoner på de testede eksemplarene. 
+JFT00 ble testet med en Intel Core 2 Duo-prosessor på 1,8 GHz, mens grunnmodellen i dag leveres med en prosessor klokket til 2,0 GHz. 
+Konfigurerer du den ellers likt som BG45 (2 GB RAM, 160 GB harddisk, blåtann, og Vista Home Premium) kommer den på samme pris som en EasyNote BG45 - men prosessoren vil altså være raskere. 
+
+Når det gjelder Dell XPS M1330 kan denne konfigureres til å bli kliss lik BG45 - og da matcher også prisen Packard Bells maskin. 
+Men merk at da vi testet XPS M1330 var vårt eksemplar utstyrt med en bedre prosessor (2,0 GHz) og dedikert grafikkort (sistnevnte komponent - et GeForce 8400M GS fra nVidia - vil øke prisen med 750 kroner). 
+
+Ytelse i PCMark05: 
+
+Målingene er altså ikke direkte sammenlignbare, men en JFT00 til samme pris som en BG45 vil altså gi en jevnt over bedre ytelse. 
+Dataene vi her har på XPS M1330 er med dedikert grafikkort, noe som på det punktet parkerer de to 12-tommerne som begge har integrert Intel GMA X3100. 
+
+Ytelse i 3DMark05: 
+
+Vi tar med 3DMark mest for syns skyld - den integrerte grafikkløsningen i BG45 yter som forventet. 
+Har du planer om å spille med maskinen er et dedikert grafikkort å foretrekke. 
+
+Batterilevetid 
+Mens forgjengeren EasyNote BU45 hadde nesten latterlig kort batterilevetid har Packard Bell gjort en langt bedre jobb på BG45. 
+To og en halv time er kanskje ikke best i klassen, men det slår Multicom JFT00 med nesten 30 minutter. 
+
+Vi målte også tiden med maskinen i "Eco"-modus, men fikk kun en økning på 10 minutter med dette påslått. 
+
+Støy og varme 
+
+EasyNote BG45 blir ikke spesielt varm, ikke en gang på undersiden, så du kan fint ha den i fanget dersom du ønsker. 
+Men det kommer til en pris. 
+Viftekontrolleren spinner opp og ned vifta med intervaller på et par minutter, slik at den går omtrent to minutter på og så er to minutter av. 
+Dette er altså når PCen ikke jobber med noe spesielt. 
+
+Dette blir lett litt masete, spesielt siden lydvolumet på vifta ikke er blant de laveste. 
+Men i kontorlandskapet vårt legger vi så vidt merke til at den setter opp dampen, det er altså i stille omgivelser den kan bli litt plagsom for noen. 
+
+Vi kan med hånden på hjertet heller ikke si at "Eco"-knappen hjelper på vifta i nevneverdig grad. 
+
+Vurdering og konklusjon 
+
+EasyNote BG45 og -46 er for all del spennende og interessante maskiner fra Packard Bell. 
+Kvalitetsfølelsen er jevnt over god og skjermen lyssterk og klar. 
+Det store salgsargumentet til akkurat disse er likevel den lave vekten - selv om du tar med deg med strømadapteren vil du likevel dra rundt på mindre enn to kilo. 
+
+Men vekten på 1,6 kilogram har mye med tapet av optisk drev å gjøre, og legger vi dette inn i ligningen får plutselig BG45 alvorlig konkurranse fra blant annet de to PCene vi har sammenlignet med tidligere i denne artikkelen: 
+Dell XPS M1330 og Multicom JFT00. 
+Vi skal heller ikke glemme Apples MacBook som ligger på en knapp tusenlapp over BG45/46. 
+
+Så det blir selvfølgelig - som det alltid er ved kjøp av datamaskiner - opp til deg og hva du prioriterer. 
+Er lav vekt viktigere enn ytelse og integrert optisk drev, ja da er BG45 (eller -46) så avgjort en bærbar du bør sjekke ut. 
+Det eneste vi egentlig har i mot denne maskinen er viftestøyen, men der er vi jo også kjent for å være nokså pirkete. 
+
+Alt i alt får EasyNote BG45 en solid firer på vår terning. 

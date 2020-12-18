@@ -1,0 +1,60 @@
+OCZ Vertex2 SSD 120GB 
+
+Prisene på superraske SSD har falt, vi har testet. 
+
+SSD-en regnes som harddisken etterfølger. 
+I motsetning til harddiskens mekaniske, roterende plater, er SSD-en basert på flashminne. 
+Ikke noen bevegelige deler, veier nesten ingenting, støyer ikke, og tåler langt mer juling. 
+Les mer om SSD-teknikken i i denne artikkelen. 
+
+I mars testet vi en Intel X-25M SSD på 80 GB som systemdisk i vår hoved-PC hjemme. 
+Grunnen til at vi valgte denne SSD-en var at den var prisgunstigst på den tiden, i forhold til egenskaper og ytelse. 
+Prisen lå på i overkant av 1800 kroner. 
+I skrivende stund et halvt år senere har prisen falt til 1450 kroner. 
+
+Ytelsen var i toppklasse på lesing, men på skriving var den langt fra like rask og leverte bare rundt en tredjedel av lesehastigheten. 
+Men den var stabil og ytelsen falt ikke påtagelig etter en tids bruk som på en del andre SSD-er, av mindre anerkjente merker. 
+
+Litt senere på året dukket OCZ Vertex 2 opp med en SSD med en nyutviklet, kraftigere kontroller. 
+Den skulle levere omtrent like gode lese og skrivehastigheter, enda et hakk over Intels prestasjoner. 
+
+Men prisen på 120 GB utgaven lå på over det dobbelte av det vi betalte for vår 80 GB Intel SSD, den lå på rundt 4000 kroner. 
+
+Prisras 
+
+Men prisen sank jevnt og trutt utover sommeren. 
+For noen få uker siden hadde prisen havnet nede på 1849 kroner hos Netshop.no, og det var tid for å handle. 
+
+Det er interessant å merke seg at prisnivået på akkurat den størrelsen fremdeles spriker kraftig. 
+I skrivende stund er det butikker som tar nærmere 3000 kroner for den samme enheten. 
+
+I pakken 
+
+Innpakningen er uvanlig god til disk å være, med disken plassert i godt beskyttende skumplast. 
+Det følger også med en plate for innfesting i 3,5-tommers brønn og passende skruer. 
+
+Ingen programvare følger med, skal du overføre data fra en eksisterende systemdisk må du ordne dette på egen hånd. 
+
+Ytelse 
+
+Intel X-25M SSD har en oppgitt leseytelse på opptil 250 MB/sek og skriveytelse på 70 MB/sek. 
+Siden leseytelsen er viktigst for en disk som brukes i en vanlig PC som systemdisk funger Intel X-25M utmerket. 
+
+OCZ Vertex 2 har en oppgitt ytelse på opptil 285 MB/sek og skriveytelse på 275 MB/sek og en maks vedvarende skriveytelse på 250 MB/sek. 
+
+Hvordan arter denne forskjellen seg i praksis på en systemdisk? 
+Hvis man bruker andre disker til å lagre datafilene sine - noe de fleste av oss er nødt til så lenge SSD er såpass dyrt - så er det håndtering av vekslefilen som går raskere ved høy skriveytelse. 
+Dette opplever man som regel bare når man kjører tunge programmer som håndterer mye data, men det er jo også da man trenger den ekstra ytelsen. 
+
+Vi kjørte flere forskjellige testprogrammer og noen sammenligninger: 
+
+Mest interessant er PCMarks Vantage som måler ytelsen ved å kjøre faktiske programmer: 
+
+Konklusjon 
+
+OCZ vinner på de rene målingene, og også i den mer praktiske orienterte testen er den et strå vassere. 
+
+Vurderer vi pris/kapasitet ligger OCZ Vertex 2 også bedre an enn Intel, selv om vi ikke kan sammenligne direkte. 
+Produktene har forskjellige kapasiteter, men 80 GB Intel og 120 GB OCZ gir hver for seg mest for pengene sammenlignet med andre størrelser fra samme produsent. 
+
+Så hvis du fikk igjen skattepenger og vil ha mest mulig forbedring av ytelse i PC-en din for pengene - kjøp en SSD som systemdisk. 

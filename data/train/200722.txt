@@ -1,0 +1,84 @@
+hp pavilion dv5054EA
+En allsidig bærbar med bredskjerm, til en høyst akseptabel pris for de fleste, vi har testet hp's nye folkemodell 
+
+Prisnivået på bærbare holdt lenge stand, så lenge det var journalister, selgere og revisorer som utgjorde hovedtyngden av brukere. 
+Men nå skal "alle" ha bærbar og konkurransen er større enn noensinne. 
+Prisene faller nå like mye på bærbare som på stasjonære PCer. 
+
+LES OGSÅ: 
+
+Pavilion-serien til hp har flere modellserier og modellen vi har testet hører hjemme i dv5000-serien, som har fire modeller. 
+5054EA er den nest dyreste, prisene strekker seg fra 6999 til 9999 kroner, med 1000 kroner i forskjell mellom hver modell. 
+
+Forskjellen mellom modellene ligger i prosessor, minne og utstyrsnivå, vår modell var svært bra utstyrt, med FireWire i tillegg til USB 2.0 og byr på både ExpressCard og PCCard. 
+
+Prosessoren er ML-32 utgaven av Turion64 (mobilutgaven av Athlon64), og kjører med 1,8 GHz klokke og 512K hurtigminne. 
+
+Spesifikasjoner 
+
+Prosessor AMD Turion64@ 1,8 Ghz 15,4" skjerm i bredformat (1280 x 800) 1 GB 333MHz DDR-minne 80 GB harddisk (4200 rpm) 8x DVD dual-layer DVD/CD-brenner Radeon XPRESS 200M (128MB dedikert) 54 Mbps WLAN (b/g) 10/100 LAN + modem 3x USB, 1x FireWire (4-pin), lyd inn/ut ExpressCard/54 og PC Card kortplass 6-in-1 kortleser SD, MMC, Memory Stick, Memory Stick PRO, xD-Picture Card VGA og S-Video-utgang Dimensjoner (B/D/H): 358 x 264 x 44 mm Vekt 3 kilo Gatepris: ca 8500 kr inkl. mva. 
+
+Maskinen har et utstyrsnivå som gjør den egnet til mer enn de trivielle oppgavene. 
+Skjermen er i bredformat, etterhvert er dette blitt nærmest standard på bærbare. 
+
+Skjermoppløsningen på 1280 x 800 er ikke spesielt høy, men den er behagelig for de fleste. 
+Dessuten er dette med på å holde prisen nede. 
+
+Skjermen har kontrastbelegg, som gir kraftig gjenskinn i en del situasjoner. 
+Betraktningsvinkelen er på linje med de fleste skjermer på bærbare, med andre ord ikke spesielt høy vertikalt. 
+
+Alt av tilkoblinger er plassert på sidene. 
+Fronten har en langsgående høyttalergrill, mens baksiden har åpning for luften fra viften. 
+
+Høyre side har lyd ut/inn, USB og ExpressCard kortplass i tillegg til DVD-brenneren, modem og strømkontakt. 
+
+Venstre side byr på PCCard (PCMCIA) minnekortleser, FireWire, USB, docking-kontakt, nettverk, S-Video og VGA. 
+
+Alle tilkoblingene er godt merket med symboler, også på oversiden. 
+Dermed er det ikke nødvendig å løfte opp maskinen for å finne riktig kontakt. 
+
+Mellom tastaturet og skjermen er det plassert en rad med trykknapper for direkte kontroll av DVD-spilleren og høyttalervolum. 
+Det er også av/på-knapp pluss av/på for trådløst nett. 
+Alle knappene har ganske intense blå lysdioder, litt for intense etter vår smak. 
+
+Konstruksjon 
+
+Maskinen er solid og har et ryddig design uten dilldall. 
+Det eneste vi har å innvende er de sterke lysdiodene og den blanke plasten rundt selve tastaturet. 
+Fingeravtrykk synes svært godt på denne, og den er i tillegg følsom for riper. 
+Den matte plasten på de andre flatene er langt mer praktisk og delikat. 
+
+Skjermen har solid beskyttelse i baklokket, du må presse virkelig hardt for at skjermen skal bli påvirket. 
+Hengslene er også passe stramme, slik at du slipper å holde igjen hoveddelen hver gang du løfter opp skjermen. 
+
+Tastaturet er helt ok å skrive på, tastene er definerte og passe støysvake. 
+Plasseringen av tegn, kommando og navigasjonstaster er ikke etter vår favorittlayout, men dette er en smaks- og vanesak. 
+
+Styreflaten er bred som skjermen, med et riflet felt for skrolling. 
+Dette er en av de bedre løsningene vi har testet og plasseringen av knappene er også utmerket. 
+
+Grei ytelse 
+
+Ytelsen er helt grei i denne prisklassen, men grafikkytelsen innbyr som forventet ikke til de tunge spillene. 
+
+Til annen bruk er maskinen helt tilfredsstillende. 
+
+Vi testet også med de nyeste versjonene av PCMark og 3DMark, pluss SuperPi og SysTool: 
+
+3DMark05 715 PCMark05 1905 SuperPi (2m) 02:02 SysTool (8m) 193 
+
+Batteriet holdt i 2 timer og 11 minutter med Battermark, det er slett ikke dårlig. 
+
+Nevnte vi støyen? 
+Maskinen er nesten helt lydløs, viften tar seg noen runder en gang i blant, men det virker som om det mest er for treningens skyld. 
+
+Maskinen blir heller ikke spesielt varm. 
+
+Konklusjon 
+
+hp pavilion dv5054EA er en velbygd maskin med god ytelse og gode spesifikasjoner i forhold til prisnivået. 
+
+Den fungerer utmerket til de fleste bruksområder, bortsett fra de spesielt krevende. 
+Men både video, musikk, bildebehandling og multimedia håndteres bra. 
+
+Prisnivået er også behagelig, og har du mindre behov for utbygging og fleksibilitet finnes det modeller i samme modellserie med enda lavere priser. 

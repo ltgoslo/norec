@@ -1,0 +1,81 @@
+D-Link DWR-921 4G ruter
+Kablet eller trådløst i begge ender, D-Link DWR-921 kan brukes til det meste. 
+Men leverer den? 
+
+Heldigvis begynner det å bli flere gode alternativer for raskt bredbånd, også for oss som ikke har tilgang på fiber eller koaks og bor for langt fra sentralen til at ADSL ha mer å by på enn noen få megabit. 
+Nå har både Telenor og Netcom 4G i mange byer, og videre utbygging pågår. 
+
+4G blir vanligvis omtalt som mobilt bredbånd, først og fremst for smartmobiler og nettbrett, men man må på ingen måte flytte på seg for å ha glede og nytte av denne utmerkede forbindelsen. 
+Selv om det ikke er mengder av utstyr for stasjonært bruk i hjemmet, så dukker det opp utstyr. 
+Vi vil tro at det ikke blir mindre av det etter hvert. 
+
+Tidligere har vi testet USB-dongler for 4G, som kan brukes av både stasjonære og bærbare PC-er. 
+Det er også mulig å dele denne nettverksforbindelsen med andre, du kan for eksempel bruke din bærbare som en trådløs ruter, slik at du kan surfe med 4G hastigheter i sofaen med nettbrett og smartmobil, via vanlig trådløst nettverk. 
+
+Det finnes også små trådløse lommerutere med 4G støtte, som kan brukes både hjemme og på reise og støter flere enheter samtidig. 
+
+Men har du et hjemmenettverk med flere maskiner, NAS, spillkonsoller, smart-TV eller enda smartere bokser koblet til TV - da er en 4G ruter et mer egnet valg. 
+
+Vi har tidligere testet en slik ruter, en Huawei B593 som leveres blant annet av Netcom. 
+Den støtter både kablet og trådløst nett til hjemmenettverket. 
+
+Nå har også D-Link kommet med en liten ruter som har de samme funksjonene - DWR-921. 
+
+DWR-921 - egenskaper 
+
+Dette er en ganske enkel ruter, som byr på akkurat det mange trenger, og ikke noe særlig ekstra. 
+Det er ingen USB-tilkoblinger, ingen Gigabit-porter og ingen avanserte finesser. 
+
+- Internettilkobling via 3G, 4G eller via WAN-port (til ADSL eller annen boks fra nettleverandør). 
+- Lokalnettilkobling via fire 10/100 Mbit nettverksporter. 
+- Trådløst nett 802.11b/g/n 
+- Spalte for SIM-kort 
+- Inngang for strømforsyning 
+- Av/på-bryter 
+
+På fronten er det indikatorer for aktiviteten på alle områder. 
+
+Installasjon 
+
+Du kan koble denne ruteren med kabel til forskjellige nettverksleverandørers bokser, men det ser vi ikke helt poenget med. 
+Det finnes langt bedre og billigere løsninger til slikt bruk. 
+
+Det som er spesielt med denne er å koble seg til 4G mobilnettet for å få tilgang til internett for flere maskiner i et hjemmenettverk. 
+
+Du kan komme i gang ved å kjøre en CD med et oppsettsprogram, eller bare starte nettleseren og skrive inn IP-adressen 192.168.0.1 i adressefeltet. 
+
+I begge tilfellene kommer du inn i ruterens webbaserte grensesnitt, som er velkjent for alle som har vært borti nettverksutstyr fra D-Link. 
+
+For vanlig bruk holder det å døpe om nettverksnavnet, sette opp tilgangskontroll og passord, taste inn PIN-koden til SIM-kortet og ta en omstart av ruteren. 
+Etter et minutt er den opp og går igjen og etter enda litt tid i tenkeboksen har den koblet seg opp på 4G (eller 3G hvis 4G ikke er tilgjengelig). 
+
+Ytelse 
+
+Det er mange faktorer som bestemmer ytelsen på trådløse enheter. 
+Først og fremst er det plasseringen, så er det konstruksjonen og ytelsen på komponentene som er valgt. 
+Det er jo komplekse signaler som skal håndteres, og det krever en viss prosessorkraft som ikke er gratis. 
+
+Vi testet boksen med en rask PC koblet til via kablet nett, og koblet oss på og testet både mot Telenor og Netcoms 4G nett. 
+
+Telenor oppgir ikke at de støtter høyere hastighet enn 40 Mbit. 
+Vi fikk litt lavere nedlastningshastighet. 
+
+Opplastningshastigheten var noe lavere, men fremdeles ytterst brukbar. 
+Ingen ADSL-tilkoblinger er i nærheten av slike hastigheter. 
+
+Netcom har ikke noen begrensning på sin hastighet, man får det som er tilgjengelig og utstyret kan levere til en hver tid. 
+På vår Huawei-ruter varierer hastigheten på nedlasting på mellom 70 og 90 Mbit, mens opplasting ligger på opp i mot 40 Mbit. 
+
+Men med 4G SIM-kortet fra Netcom i D-Link ruteren fikk vi ikke mer enn uansett, og opplasting var vesentlig lavere. 
+
+Konklusjon 
+
+DWR-921 er en allsidig ruter, som dekker både mobil og fast internettilgang og både kablet og trådløst nettverk for hjemmenettet. 
+
+Den er enkel i bruk og byr på de grunnleggende funksjonene som de aller fleste av oss klarer oss godt med. 
+
+Hastigheten på 4G var langt fra like høy med 4G fra Netcom sammenlignet med Huawei sin ruter, men på 4G fra Telenor var den ikke langt unna de 40 Mbit som Telenor tilbyr. 
+
+Skal du ha 4G fra Netcom anbefaler vi helt klart Netcoms løsning med Huawei B593. 
+
+D-Link DWR-921 

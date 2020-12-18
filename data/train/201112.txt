@@ -1,0 +1,39 @@
+Test:Samsung SpinPoint 400 GB 
+
+Store er de og billigere blir de - vi har testet 400 GB fra Samsung. 
+
+Første gang vi testet en disk på 400 GB var i januar 2005. 
+Den gangen var det snakk om en enorm kapasitet, men likevel ikke mer enn at vi regnet med at de fleste som kjøpte en slik disk også ville fylle den opp ganske raskt. 
+Nedlastning er jo en ren besettelse/"hobby" for mange, som knapt får verken sett eller hørt mer enn en liten del av filene.... 
+
+Prisen på en 400 GB Seagate Barracuda 7200.8 var den gang 2 990 kroner. 
+I dag koster en 400 GB fra Samsung bare 1 250 kroner og vi ville gjerne sjekke forskjellen i ytelse. 
+
+Lun og stille 
+
+Samsung-diskene er kjent for å være blant de aller mest stillegående og denne er ikke noe unntak. 
+Den er så stille at du knapt hører den i et stille rom, som er vanskelig å finne i dagens sommertemperaturer hvor alt som finnes av vifter og kjøleanlegg kjører for fullt... 
+
+Apropos, så bidrar den heller ikke til å heve temperaturen i omgivelsene i særlig grad. 
+Det var oppunder 30 grader på testrommet, men selve disken ble aldri mer enn 41 grader varm noe sted på overflaten. 
+
+Utmerket ytelse 
+
+Vi testet først med HD Tach og målte en skriveytelse som startet på over 60 MB/sek og falt ned til 30 MB/sek på slutten av disken. 
+Dette gir et gjennomsnitt på 50,5 MB/sek. 
+
+Leseytelsen startet høyt på 70-tallet og falt ned til 40 MB/sek på slutten, gjennomsnittet blir på 62,4 MB/sek. 
+
+Med vårt eget testprogram målte vi skriveytelsen til 56 582 KB/sek på begynnelsen, og 36 453 KB/sek på slutten. 
+
+Leseytelsen startet på 80 471 KB/sek og havnet på 42 605 KB/sek på slutten. 
+
+Aksesstiden var på kurante 15,9 ms. 
+
+Sammenligner vi med vår test av Seagates 400 GB utgave vi testet for halvannet år siden, så finner vi at den blir slått av Samsung på lesing, mens skrivingen var tilsvarende raskere. 
+
+Konklusjon 
+
+Samsungs 400 GB disk er rimelig, stillegående og har lav varmeutvikling. 
+Den er rask nok til det aller meste, de som ønsker en disk som er merkbart raskere - og dyrere - må over på en Raptor fra Western Digital. 
+Da må de riktignok leve med en lavere kapasitet. 

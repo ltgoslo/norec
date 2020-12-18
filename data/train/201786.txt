@@ -1,0 +1,90 @@
+Fujitsu-Siemens Esprimo U9200
+Godt utstyrt ultraportabel på 1,8 kg til 5.000 kroner, kan det virkelig være noe? 
+Vi har testet. 
+
+Prisene på bærbare fortsetter å synke, og klasse som tidligere kun hadde kostbare modeller følger etter. 
+En av dem er ultraportabel-klassen, der det nå stadig dukker opp nye modeller i lavprissegmentet. 
+Vi har tatt en titt på Fujitsu-Siemens Esprimo U9200, som flere steder den siste tiden har vært å finne til rundt 5.000 kroner inkludert mva. 
+
+LES OGSÅ: 
+
+Før vi går videre kan vi ta en titt på de tørre fakta om denne maskinen: 
+
+Core 2 Duo T5250 prosessor, 1,5 GHz prosessor 12,1" TFT bredskjerm uten glanset belegg 1 GB minne DDR2 (maks 4 GB) 120 GB SATA harddisk - 5400 rpm DVD-brenner for alle aktuelle formater 3x USB 2.0-porter Intel GMA X3100 grafikk med VGA og TV-utgang Trådløst nett (802.11a/b/g/n), Intel WiFi Link 4965AGN Gigabit ethernet Bluetooth Minnekortleser for SD- og MS-kort Innebygd webkamera, 1,3 megapiksler Windows Vista Business evt Windows XP Professional (CDer medfølger) Størrelse: 30 cm x 22.3 cm x 3.7 cm Vekt: 
+1,8 kg 
+
+Vi ser også at Vista-versjonen er Business, som både har støtte for Aero glass-effektene og mer avansert funksjoner innen sikkerhet og fjernstyring, som ikke er å finne i de enkleste versjonene av Vista. 
+
+At modellen både har innebygd web-kamera og Bluetooth-adapter, er også positivt - og slett ikke hverdagskost i denne prisklassen. 
+U9200 kommer for øvrig også i en utgave med innebygd UMTS-adapter for trådløst bredbånd, men vårt eksemplar hadde ikke dette. 
+
+Design og tastatur 
+
+Maskinen har en meget diskré og klassisk utforming, med grå topp og sort bunn. 
+Skjermen er uten glansbelegget, noe som faktisk begynner å bli en sjeldenhet - men det har sine klare fordeler med tanke på å unngå refleksjoner. 
+
+Tastene er stort sett i full størrelse, med unntak av spesialtastene, noe som gjør maskinen like enkel å "touche" på som et vanlig bærbar-tastatur. 
+Tastaplasseringene er som på et standard tastatur, men for å spare penger har Fujitsu-Siemens utstyrt maskinen med samme tastatur i Norge, Sverige og Danmark. 
+Derfor står for eksempel Ö, Æ og Ø trykket på en og samme tast. 
+Vi misliker det, men ser det stadig oftere. 
+Vi er rett og slett ikke viktige nok her oppe i nord til at det blir brukt penger på å produsere tre forskjellige tastaturer. 
+
+Det er litt svikt i tastaturplaten, men responsen er god, og vi har ikke noe videre å utsette på det. 
+
+Installasjon og bruk 
+
+Første gang du starter opp PCen får du spørsmål om hvilket språk operativsystemet skal ha, og etter hvert får du også spørsmål om du ønsker at harddisken skal bestå av én stor sammenhengende partisjon, eller om du vil dele den i to, og ha alle personlige filer på D:. 
+Dette er en litt uvanlig vri, men definitivt noe vi har sansen for. 
+Med alle dokumenter, bilder, videoer og musikk liggende på D: kan du senere gjenopprette Windows på C: uten å måtte bekymre deg for at de verdifulle dataene dine blir slettet i samme operasjon. 
+
+I utgangspunktet installeres Vista Business, men såkalte gjenopprettings-CDer med Windows XP Professional følger med i pakka - dersom du heller foretrekker å bruke forrige generasjon operativsystem fra Microsoft. 
+
+Vi liker absolutt måten Fujitsu-Siemens inkluderer tredjepartsprogrammer på. 
+I motsetning til mange andre, deriblant Toshiba og Lenovo, er ikke sikkerhetsprogrammer og andre tilleggsprogrammer installert, men de ligger lett tilgjengelig på skrivebordet dersom du skulle ønske å installere dem. 
+Det er en løsning som sparer deg for masse potensiell trøbbel, hvis du ønsker å bruke andre programmer enn dem som følger med. 
+
+En annen ting som er verdt å understreke er at slik bundling av ferdig installerte programmer ofte påvirker stabiliteten negativt. 
+Vi har i den sammenhengen ingenting å klage på når det gjelder U9200. 
+
+Litt viftestøy innimellom 
+
+Vi har testet en del Fujitsu-Siemens-maskiner tidligere som har hatt ganske støyende vifter, og også denne maskinen er utstyrt med en liten rakker som kan spinne ganske raskt og lage ganske høy lyd. 
+Men den spinner opp og ned etter behov, og i lange perioder - for eksempel mens vi skriver dette, er den nærmest tyst. 
+Men dersom belastningen øker - kommer også støyen snikende. 
+En dårlig programmert flash-annonse i nettleseren, for eksempel, er nok til at nettopp dette skjer. 
+Og da blir gjerne maskinen temmelig varm på undersiden også, noe som definitivt merkes når den ligger i fanget. 
+
+Vi må også berømme den trådløse nettverksløsningen. 
+Ikke bare er rekkevidden bedre enn på mange andre modeller vi har testet tidligere, inkludert Broadcom-brikker og tidligere Intel-løsninger, men den er også uhyre kjapp med oppkobling. 
+Så snart vi har logget oss inn er vi på nett. 
+Bra! 
+
+En ting som ikke er fullt så imponerende, er lyden. 
+De innebygde høyttalerne klarer kun spinkel, lav lyd, og med øretelefoner kan man høre forskjellige mekaniske bakgrunnslyder mellom sporene dersom man skrur lyden ekstra høyt. 
+Dette har historisk sett vært et ankepunkt mot integrerte lydkortløsninger, men er i stor grad eliminert i 2008. 
+
+Ytelse 
+
+For å si det enkelt - det er ikke Intels GMA X3100-grafikk som er førstevalget for spillelskere, men nå er ikke dette en maskin myntet på denne brukergruppen heller. 
+Til alt annet er X3100 helt OK, både når det gjelder video (inkl HD 720P), bilder og "alt" av 2D og enkel 3D kvernes og behandles helt uten hakking og andre problemer. 
+Men mer minne er etter vår mening obligatorisk, det vil du merke så snart du prøver å kjøre flere oppgaver samtidig. 
+Nå er det heldigvis en særdeles billig fornøyelse å doble minnet, og du setter selv inn brikken på 1-2-3. 
+
+Prosessoren er ikke førstevalg for de mest krevende oppgavene, for eksempel tung videoredigering og kompresjon. 
+Hvis det er sentrale oppgaver i jobben din, kan du få maskinen med kraftigere C2D-prosessor, men da naturligvis til en annen pris. 
+Til enklere kompresjonsoppgaver, deriblant CD-ripping etc, sitter bremseklossene andre steder enn i prosessoren, og her yter U9200 meget bra. 
+
+Og da trenger vi kanskje ikke å poengtere at kontoroppgaver, nettsurfing, musikk og alle de andre oppgavene vi har for vane å bruke datamaskinen til, har U9200 absolutt kreftene som skal til for at de fleste blir fornøyd. 
+
+Hva så med batterilevetiden? 
+I reklameannonsene har vi sett at det oppgis inntil 6 timer - men vi har aldri vært i nærheten. 
+Det skyldes at maskinen kan utstyres med to batterier, dersom du kan klare deg uten det optiske drevet, og "noen" har falt for fristelsen å oppgi denne levetiden som standard. 
+Som regel holder batteriet i rundt 2,5 timer med normal bruk med standardbatteriet (6 celler). 
+Det er ikke noe å skrive hjem om, spesielt med tanke på at dette er en maskin som i hovedsak er myntet på mobile brukere. 
+
+Konklusjon 
+
+Er du ute etter en billig og svært portabel PC med gode egenskaper, kommer du ikke utenom Fujitsu-Siemens Esprimo U9200. 
+Vi har brukt den selv på tur i 3 uker, delvis under tøffe forhold, og maskinen har klart seg meget bra. 
+
+Totalt sett sitter vi igjen med et positivt inntrykk av denne fine, lille maskinen, som snuser på femmeren, men som til slutt havner på en sterk firer på terningen. 

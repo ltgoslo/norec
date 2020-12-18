@@ -1,0 +1,95 @@
+TEST:Nokia E75 
+
+Overraskende elegant tungvekter. 
+
+Definisjonene på hva som egentlig er en smarttelefon blir vagere og vagere etter hvert som andelen mobiltelefoner på markedet med såkalt "avansert funksjonalitet" nærmer seg 80 prosent - eller deromkring. 
+
+Nokia E75s tilhørighet er det uansett liten tvil om. 
+Dette er smartmobil fra øverste hylle. 
+
+Det er snart to år siden vi testet Nokia E90 Communicator, monstermobilen som E75 på mange måter kan sees på som en forlengelse og forbedring av - ihvertfall så lenge du ikke er avhengig av E90s veldig store og litt pussig formaterte skjerm. 
+
+Designmessig er dette et kvantesprang framover for veldig viktige forretningsfolk med store mobilbehov. 
+Telefonen føles med sine 139 gram relativt tung i hånda, men tatt i betraktning at du kan rulle ut et fullt qwerty-tastatur er ikke dét noe å klage over. 
+
+Med unntak av den knallrød versjonen ser E75 ser like saklig ut som en årsrapport, og føles solid både med og uten utslått fulltastatur. 
+Den er ikke spesielt mye tykkere enn en iPhone, og har solide taster på oversiden og på qwerty-delen. 
+Sistnevnte er beregnet for lange eposter (og kanskje til romanutkast fra slitne børsmeklere som ønsker å bytte karriere), og gjør i så måte en helt grei jobb. 
+
+Tastaturet er nemlig ikke fantastisk - til det blir avstanden mellom tastene for stor -, men med litt trening bør du klare å få opp en respektabel skrivehastighet. 
+Norske tegn har det også blitt plass til, selv om "å" bare så vidt fikk plass som tilleggstegn. 
+Det betyr at du må trykke ned shift-tasten for å bruke bokstaven, men det gjør ikke tastingen upraktisk. 
+Hvis vi hadde måttet velge, hadde vi faktisk gått for tastaturet på E71. 
+Det er kanskje det beste fulltastaturet vi har prøvd, med akkurat passe avstand mellom tastene - forutsatt at ikke hendene dine er på Steffen Tangstad-nivå. 
+Da vil nok i så fall E75 falle mer i smak. 
+
+Den 2.4 tommer store skjermen roteres naturligvis automatisk når du skyver ut tastaturet. 
+
+Full pakke 
+
+Det begynner å bli noe av en klisjé å skrive "denne mobilen har alt", for, som vi allerede har vært inne på, rekken av telefoner med avansert funksjonalitet er nå så lang at det skal godt gjøres å skille seg ut i toppsjiktet. 
+
+E75 har som forventet nødvendigheter som super-3G (HSDPA), wlan og GPS, og en hjemmeskjerm som Nokia-kjennere vil være svært fortrolig med. 
+Det er fortsatt mulig å veksle relativt hurtig mellom et såkalt "arbeidsskrivebord" og et "fritidsskrivebord", en funksjon vi blant annet omtalte i testen av E71, og som vi fortsatt er usikker på nytten av. 
+
+Skjermbildet er i utgangspunktet så ryddig at det ikke egentlig er nødvendig å skifte fra dress til dongeri (som synes å være den ideologiske tanken bak de to desktop-modusene), men liker du å holde strenge skiller mellom jobb og hjem er det mulig du vil finne de to skrivebordene nyttig. 
+(Testen fortsetter under bildespesialen!) 
+
+Epost 
+
+En mobil som E75 er uten tvil rettet inn mot svært ivrige epost-brukere, og Nokia begynner virkelig å få dreis på sakene sine hva elektroniske meldinger angår. 
+
+Som før har du full tilgang til alt som har med Exchange å gjøre, og E75 snakker utmerket sammen med Microsofts epostmiljø. 
+Konfigureringen tar heller ikke tid, og er nå så enkel at selv fedre som sliter med tastelåskombinasjoner klarer det fint. 
+
+Nokia Messaging-klienten er derimot den store vinneren. 
+Tjenesten er foreløpig bare tilgjengelig for et utvalg Nokia-mobiler som kjører operativsystemet Symbian S60, og er et ekstraprogram som gjør at du blant annet kan gjøre en hvilken som helst epost-konto som støtter POP3 og IMAP om til push-epost. 
+
+Flere funksjoner 
+
+Det vil med andre ord si at mobiltelefonen oppdateres med ny epost i mer eller mindre samme øyeblikk som den treffer for eksempel Gmail-kontoen din, en funksjonalitet Exchange og BlackBerry-brukere har vært bortskjemt med i årevis, men som har glimret med sitt fravær for vanlige dødelige med tradisjonelle epost-konti. 
+
+I tillegg kan posten organiseres på flere måter enn tidligere, og det er også mulig å søke gjennom epost-arkivet - en veldig nyttig funksjon når Exchange-boksen er stappfull, og du desperat forsøker å finne tilbake til en mail fra en måned tilbake i tid mens du er på farten. 
+
+Nokia Messaging er i det hele tatt et flott innslag på E-serien, men det finnes likevel et lite skår i gleden: 
+Tjenesten er for tiden gratis (det eneste du betaler er datatrafikken), men det er fordi den har beta-status. 
+Når den tiden er forbi blir dette en betalingstjeneste. 
+Det er litt skuffende, selv om vi har forståelse at infrastrukturen som blant annet sørger for push-løsningen ikke uten videre kan gis bort. 
+
+Kamera, GPS, nettverking 
+
+Det er ikke så mye nytt å finne verken i kameradelen eller i GPSen på E75. 
+Kameraet tar helt kurante bilder, selv om innendørsbildene blir vel støyete, og er akkurat så enkelt å bruke som på andre Nokia-mobiler. 
+
+Heldigvis får du også med autofokus, som gjør sannsynligheten for uskarpe bilder under dårlige lysforhold atskillig mindre. 
+Autofokusen er også ganske rask, men kanskje ikke rask nok til å fange barn som leker eller ekstreme prestasjoner på fotballbanen. 
+
+Du kan se eksempelbilder fra E75 i full oppløsning her, her og her. 
+
+GPSen er identisk med den vi blant annet testet i allerede nevnte Nokia E71, og fungerer akkurat like bra. 
+Du må fortsatt betale for stemmenavigering, men bortsett fra det har vi lite å utsette på navigasjonsløsningen. 
+
+Ikke helt på nett 
+
+Nettleseren har vi derimot fortsatt innvendinger mot. 
+Det er ingen enkel sak å laste inn store nettsider på en 2.4 tommer stor skjerm, og det er fortsatt en utfordring som Nokia ikke har løst. 
+Sidene blir altfor klumpete og uhåndterlige, og det er på ingen måte noen drøm å manøvrere seg rundt på for eksempel VG Nett i fullformat. 
+Mobilifiserte nettsider går naturligvis greit, men wap-surfing har stort sett ikke vært noen utfordring for en mobiltelefon siden 2005. 
+
+På surfesiden er det greit å merke seg Ovi Files, en synkroniseringstjeneste som gjør det mulig å få tilgang til inntil 5GB med filer fra for eksempel mobiltelefonen eller en hvilken som helst PC. 
+Slike tjenester blir mer og mer vanlig, og Ovi Files ser ikke ut til å tilby så veldig mye mer enn det for eksempel Dropbox gjør. 
+Ovi Files konfigureres ved å installere et program som kjører i bakgrunnen på alle enheter du vil skal ha tilgang til de synkroniserte filene. 
+Har du for eksempel tekstdokumenter eller videofiler du vil ha med deg uansett hvor du er, kan du logge deg på via E75 og hente ned og se/vise filene. 
+
+Ovi Files kommer med gratis prøveperiode, men koster penger hvis du ønsker å videreføre tjenesten. 
+
+Konklusjon 
+
+Den største overraskelsen med E75 er den vi nevnte innledningsvis: 
+Kombinasjonen med fulltastatur som skyves ut og mobiltelefon i vanlig format er overraskende bra gjennomført. 
+
+Bortsett fra det er det ikke så mange ting som er oppsiktsvekkende, uten at det tar noe bort fra kvaliteten på E75. 
+Dette er, nesten som vanlig med Nokias forretningsorienterte E-serie, solid og til å stole på. 
+Med unntak av nettleseren, som fortsatt ikke er der den bør være, er dette et mobilt kontor som bør gi sykelig jobbavhengige personer den hjelpen de trenger. 
+
+Selv holder vi fortsatt en knapp på E71, som har det meste E75 har, men med en lavere prislapp og et enda bedre tastatur. 

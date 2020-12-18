@@ -1,0 +1,83 @@
+Test:Photoshop Elements 9 
+
+Magien er også med i den folkelige utgaven av bilderedigeringsprogrammet fra Adobe. 
+
+Photoshop Elements er altså den folkelige utgaven av Selve Photoshop. 
+Den egentlige Phtoshop er bilderedigeringsprogrammet som er hovedverktøyet for praktisk talt alle som driver med bilder i profesjonell sammenheng. 
+
+Grunnene til at Photoshop er så dominerende er mange, det er selve verktøyene og mulighetene de gir, kvaliteten på resultatene, brukervennligheten og faktisk utbredelsen i seg selv. 
+
+Elements-utgavene inneholder som navnet sier de viktigste elementene, og de er også tilrettelagt for en annen arbeidsflyt. 
+Spesielt gjelder dette sluttresultatet, det er forskjell på hvor bildene fra proffene og folket havner. 
+
+Få med deg oversikten over ti gratis bilderedigeringsprogrammer 
+
+Det store bildet 
+
+Utfordringen til Adobe er å legge til rette og samle de utvalgte elementene og presentere disse i et brukervennlig program. 
+Fagterminologi må begrenses, og bruken må være mest mulig interaktiv, slik at det er enkelt å prøve og feile, uten å risikere å rote seg helt bort. 
+
+Adobe har også bygget inn en god del intelligens i Elements, slik at noen verktøy nesten framstår som magiske. 
+
+Andre verktøy er svært arbeidsbesparende også for de mer erfarne amatørene (og proffene) som kjenner knepene. 
+
+Les også hva som var nytt i Creative Suite 5, med blant annet nye Photoshop CS5 fra mai i år. 
+
+Det magiske 
+
+Skillet mellom tillempet teknologi og magi er nesten borte, og versjon 9 av Photoshop Elements har et lite knippe nesten magiske verktøy. 
+
+Det mest oppsiktsvekkende er Spot Healing verktøyet, som nå har fått støtte for Content Awareness. 
+På godt norsk innebærer dette at du markerer med en virtuell pensel et element du ikke vil ha med i bildet. 
+Programmet fjerner da dette og erstatter tomrommet med en versjon av bakgrunnen som den analyserer seg fram til å passe. 
+Og det fungerer! 
+Noen ganger svikter analysen, men som regel er resultatet oppsiktsvekkende bra. 
+
+Et annet nesten-magisk verktøy setter sammen flere bilder til ett, vi snakker om panorama i bredden eller høyden. 
+Bildene kan sys sammen på mange forskjellige måter og du har kontroll både over perspektiv og plassering. 
+Når prosesseringen gjør at det blir "hull" i bildet kan du velge at Spot Healing-verktøyet automatisk kommer inn i bildet og fikser dette. 
+
+Det finnes mange andre programmer som lager panorama, men dette går en god del lenger. 
+
+Gruppebilder hvor noen smiler mens andre lager grimaser kan du nå slå sammen til ett ved å velge et hovedbilde og så merke av på de andre bildene hva du vil ha med i stedet. 
+Det gjelder ikke bare ansikter, men også andre elementer og gjenstander i bildet. 
+
+Mange beslektede verktøy finnes også, hvor du kan "transplantere" ansiktsdeler mellom personer og lage morsomme eller groteske bilder. 
+
+Også flere utgaver av samme motiv, men med forskjellig eksponering, kan smeltes sammen område for område etter utvalg, for å balansere bildet. 
+
+Det samme gjelder Style Match, som lar deg kopiere stilmessige egenskaper fra et bilde til andre. 
+
+Effekter 
+
+Hvis man er ute etter effekter finner du en rekke nye verktøy i versjon 9, både med guidet hjelp og helt på egen hånd. 
+
+Repertoaret spenner fra diskret retusjering til ekstreme forvrengte bildekreasjoner som ville fascinert selv Timothy Leary. 
+
+Resultater 
+
+Ferdige bilder kan nå lastes opp til Facebook og andre online-tjenester, til avspillere og mobiltjenester, brennes til optiske plater, sendes til digitale bilderammer, utskrift i bildealbum og mye annet. 
+
+Krevende? 
+
+Selv om programmet heter Elements og ikke inneholder "hele pakka" er det ikke noen lettvekter vi snakker om. 
+Det er lett å komme i gang med, og veien videre inn i mulighetene er også godt tilrettelagt. 
+
+Men programmet krever en ganske oppegående maskin og rikelig med minne og diskplass. 
+Elements 9 er ikke et program som trives på en bærbar i laveste økonomiklasse, i hvertfall ikke hvis du har mange store bildefiler som du skal sjonglere med i programmet. 
+De fleste verktøyene baserer seg på en ganske tung analyse av bildefilene, og dette krever både prosessorkraft og andre ressurser. 
+
+Vi gikk stadig vekk i taket med feilmeldinger om for lite minne (RAM). 
+I programmets kontrollpanel kan man sette hvor stor del av minnet programmet skal bruke, og vi måtte øke det til maks selv om maskinen har 4 GB minne og vi ikke kjørte andre krevende programmer samtidig. 
+
+Og hva er så prisen? 
+
+Programmet koster i nettbutikker 680 kroner for engelsk versjon og 719 for svensk. 
+Har du en tidligere versjon koster den engelske oppgraderingen 610 kroner. 
+
+Du får også kjøpt Photoshop Elements og Premiere Elements i samlepakke til 1065 kroner. 
+
+Du kan også laste ned en prøveversjon som gjelder i 30 dager. 
+Denne kan du så kjøpe lisens til og få åpnet til full versjon. 
+
+Mer informasjon finner du hos Adobe. 

@@ -1,0 +1,123 @@
+Zepto Znote 4100
+PC-produsentene står i kø for å lansere nye modeller basert på Intel Centrino og den nye Pentium M-prosessoren. 
+Norske Zepto er blant de aller første i køen. 
+
+Med modellen Znote 4100 er Zepto tidlig på banen med en modell basert på Centrino-plattformen fra Intel. 
+Plattformen består av en ny prosessor (Pentium M), et nytt i855-brikkesett og innebygd WLAN. 
+Du kan lese mer om Centrino i denne artikkelen. 
+
+LES OGSÅ: 
+
+Tekniske spesifikasjoner 
+
+Znote 4100 er en meget lekker og slank PC, og de ytre målene og vekten kan minne ganske kraftig om Acer TravelMate 800. 
+Men i følge Acer selv er maskinene bygd på forskjellige fabrikker, Zepto-maskinen er bygd på Compal-fabrikken i Taiwan, mens TravelMate 800 er bygd på en av Acers egne fabrikker. 
+Compal produserer riktig nok enkelte andre modeller fra Acer, Toshiba og en rekke andre. 
+
+Men noen forskjeller er det likevel. 
+Znote 4100 leveres med 256 MB minne og 1,4 GHz Pentium M-prosessor (vi testet en tidlig 1,3 GHz-utgave, og ytelsestallene fra testen vår er derfor noe lavere enn hva du kan forvente), den har 3 USB 2.0-porter mot 4 på Acer-maskinen. 
+Dessuten finner du ikke innebygd Bluetooth-støtte, og Znote 4100 er også helt skrelt med hensyn til programvare. foruten operativsystemet. 
+Dette kan du forresten velge bort, og dermed sparer du rundt 1.500 kroner. 
+
+Her er en kort oppsummering av hva du får: 
+
+Intel Pentium M 1,4 GHz prosessor 
+
+40 GB harddisk 
+
+256 MB RAM 
+
+15" TFT-skjerm, 1.400x1.050 punkter 
+
+Kombinert DVD-leser/CD-brenner 
+
+Innebygd leser for SD-minnekort 
+
+ATI Mobility Radeon 9000 grafikkbrikke, 64 MB RAM 
+
+Innebygd trådløst nettverk (WLAN) 
+
+FireWire-port 
+
+3 x USB 2.0-porter 
+
+1 x PCMCIA 
+
+IrDA 
+
+VGA og TV-utgang 
+
+56 KB modem 
+
+10/100 MBit nettverk 
+
+Det er med andre ord snakk om en PC med et høyt utstyrsnivå og tilkoblingsmuligheter, selv om Acers modell er strået hvassere. 
+Hva med diskettstasjon? 
+Vårt tips er at den ikke blir å finne på mange Centrino-PCer. 
+Du kan selvsagt anskaffe en USB-floppy, men vi anbefaler en minneplugg for å transportere data. 
+
+Design i sentrum 
+
+Som nevnt innledningsvis synes vi PCen er en lekkerbisken rent designmessig. 
+Lokket er i gråblå aluminium. 
+På innsiden er det brukt enkel og stilren gråblå plast med en bred aluminiumsstripe som går gjennom pekeplaten. 
+
+PCen er ikke spesielt liten, men den er bare 2,8 cm tykk. 
+Det er et par millimeter tykkere enn Acer-maskinen. 
+Vekten er 2,8 kg, også dette litt mer enn Acer TravelMate 800. 
+Men bevares, vi har ingenting å utsette på vekten. 
+
+Tastaturet er helt standard og kvadratisk. 
+Linjeskift og mellomromstasten på vårt testeksemplar var små, men tastaturplaten er nå byttet ut med en der disse tastene er større. 
+Tasteplasseringen er logisk. 
+
+Her finner du ingen knapper for scrolle-funksjonalitet i dokumenter og nettsider, men ved å føre pekefingeren opp og ned i høyre del av pekeplaten oppnår du samme effekt. 
+Det samme kan du gjøre hvis du ønsker å "scrolle" horisontalt, da fører du fingeren frem og tilbake nederst på pekeplaten. 
+
+Oppdatert: 
+Tastaturplaten er ny siden vi testet maskinen, med blant annet større linjeskift- og mellomromstast. 
+
+Skjermen er godt beskyttet av aluminiumslokket. 
+Den er lyssterk og god, og oppløsningen er 1.400x1.050 punkter. 
+Det synes vi en så stor skjerm tåler godt. 
+
+1,3 GHz - yter som 2.0 
+
+Hva så med ytelsen? 
+1,3 GHz er i utgangspunktet ikke imponerende i 2003, men de nye M-prosessorene yter langt mer pr MHz enn Pentium 4M. 
+Vi har gått gjennom ytelsestallene, og funnet ut at i de mest prosessorkrevende testene yter Znote 4100 rett i underkant av en gjennomsnittsmaskin basert på Pentium 4M 2.0 GHz. 
+Det er oppsiktsvekkende, og betyr at det slett ikke er noen sinke det er snakk om her. 
+
+Oppdatert: 
+Maskinen leveres nå med 1,4 GHz prosessor til samme pris. 
+
+Grafikkbrikken som sitter i Znote 4100 er markedets raskeste, ATI Mobility Radeon 9000. 
+Eksemplaret vi har testet var i likhet med Acer-maskinen en pre-produksjonsenhet, men i motsetning til maskinen fra Acer var grafikkdriverne optimalisert på Znote 4100. 
+Dermed ble også ytelsestallene langt høyere på Zepto-maskinen. 
+I praksis betyr det intet mindre enn rå grafikkytelse i de aller fleste situasjoner, både 2D og 3D, og oppnådde tall i 3DMark er blant de aller høyeste vi har sett på en bærbar PC noensinne. 
+
+Vi legger til at ZNote 4100 er musestille under alle forhold. 
+Viften starter innimellom under de aller tyngste operasjonene, men vi var nødt til å løfte PCen opp og legge øret inntil viften for å høre om den i det hele tatt gikk. 
+Dette er selvsagt et stort pluss. 
+
+Batteriet 
+
+Vi har allerede rukket å bli skjemt bort med hensyn til batterilevetid, etter møtet med Acer Travelmate 800. 
+Den holdt ut i 4 timer og 39 minutter i vår test, mens Zeptoen kastet inn håndkledet etter 3 timer og 41 minutter. 
+Sett i forhold til Pentium 4M-maskiner vi har testet, er dette meget bra. 
+Men det er litt skuffende i forhold til Travelmate 800. 
+
+Oppdatert: 
+Vi har kjørt batterilevetidstesten på et nyere eksemplar av Znote 4100, uten at vi opplevde økt batterilevetid. 
+Vi bruker Battery Mark fra ZDnet for å måle levetiden. 
+
+For detaljer omkring ytelsestallene, klikk på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Zepto Znote 4100 er en verdig representant for den nye Centrino-generasjonen på de fleste områder. 
+Den er slank og fin, yter meget bra og har et høyt utstyrsnivå. 
+Det eneste som ikke er 100% i tråd med forventningene, er batterilevetiden. 
+Den er god, men ikke så god som vi hadde håpet. 
+
+Uansett er det snakk om en meget fin PC til en fin pris, og et spesielt godt valg for deg som sitter med lisenser fra før på operativsystem og de programmene du ønsker å bruke. 

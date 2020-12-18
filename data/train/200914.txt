@@ -1,0 +1,81 @@
+Acer Aspire 7600U
+Alt-i-ett på 27 tommer - med smart fot. 
+
+Acer har en serie med alt-i-ett-PC-er med Windows 8 og berøringsfølsom skjerm. 
+Forskjellene ligger i skjermstørrelse og prosessor, samt lagringskapasitet. 
+Vårt testeksemplar har stor skjerm, men prosessoren er midt på treet. 
+
+Her er de andre stasjonære PC-ene med berøringsskjerm vi har testet så langt: 
+
+Acer-serien består av tre modeller, de to minste har 23-tommers skjerm, Core i3 eller i5 prosessor, 4 eller 8 GB minne og 500 GB eller 1 TB harddisk. 
+
+Vårt testeksemplar har følgende spesifikasjoner: 
+
+Prosessor: 
+Intel® Core™ i5-3210M (to kjerner) 
+Minne: 
+8GB DDR3 NVIDIA® GeForce® GT 640M 2GB Lagring: 
+1TB + 32GB Cache SSD Optisk drev: 
+Blu-Ray Skjerm: 27" 1920 x 1080 10-punkters berøring. 
+Nettverk: 
+Gbit kabel, WLAN 802.11abgn, Bluetooth 4.0 Trådløst tastatur USB3.0 
+
+Design 
+
+Acer kaller det "Airy design" - skjermen har et heldekkende glass som fortsetter nedenfor selve skjermen og utgjør støtteflaten i front. 
+Det kan dermed se ut som om maskinen svever over bordflaten. 
+
+Tastaturet og musen har matchende design. 
+
+I tillegg til glassplaten har maskinen et støttebein som trekkes ut fra baksiden av maskinen når den pakkes opp. 
+Når du så har plassert maskinen på bordet kan du ganske enkelt forandre vinkelen på skjermen ved å dytte eller trekke toppen av skjermen bakover eller forover. 
+Foten er bevegelig nok til å la seg justere, men er samtidig fast nok til at det ikke er noen fare for at den skal begynne å sige bakover. 
+En utmerket løsning. 
+
+Det er også mulig å henge skjermen på veggen, det følger med en spesialbrakett med VESA-kompatible skruefester og avstandsskruer. 
+Denne braketten skrur du fast i veggfestet, så kan du ganske enkelt hekte maskinen av og på veggfestet. 
+
+På skrivebordet kan skjermen legges bakover mellom 30 og 80 grader. 
+Selve skjermen måler vi til å være beskjedne 35 mm tykk, og baksiden er flat. 
+Men den kan ikke legges flatt fordi festet til støttebeinet stikker ut ca 18mm 
+
+Tilkoblinger 
+
+Maskinen har tilkoblinger for lyd inn og ut, samt SD- kortleser og to USB 3.0 porter på venstre side. 
+
+På høyre side finner vi Blu-ray spilleren som også fungerer som DVD-brenner. 
+
+På baksiden finner vi tre HDMI tilkoblinger (to av disse er innganger for spillkonsoll eller annet utstyr som trenger skjerm), optisk lyd ut, nettverk og to USB 3.0. 
+
+Tilkoblingen for strøm er fiffig, den sitter i tuppen av støttebeinet. 
+Dermed er den aldri i veien. 
+
+I bruk 
+
+Med firekjerners Core i5, nVidia grafikk og SSD som cache til harddisken oppleves maskinen som rask både i oppstart og bruk. 
+Det er fremdeles lit strikk-respons ved rask flytting av vinduer og en del objekter, men det er ikke problematisk. 
+
+Skjermen har god betraktningsvinkel, men som alle andre berøringsskjermer får du rikelig med gjenskinn og fingermerker. 
+Pusseklut følger med. 
+
+Oppløsningen på 1920 x 1080 er ikke optimal for en 27-tommer, men prisen blir en del lavere enn de råeste - som byr på 2560 x 1440 piksler. 
+
+Ytelsen målt med Geekbench ga en score på 8642, som er et godt stykke under det Dell sin 27-tommer med Core i7 presterte. 
+Prosessiren i Acer 7600U er en mobilprosessor og har lavere ytelse og varmeutvikling enn prosessorene beregnet på ordinære stasjonære PC-er. 
+Skal du drive med videoredigering eller annen tung bruk vil du merke forskjell. 
+Til hverdagsbruk er ytelsen imidlertid mer enn god nok. 
+
+Windows opplevelsesindeks gir samme resultat som Dell sin maskin, her er det i begge tilfeller skrivebordsgrafikkytelsen som trekker ned. 
+Prosessorytelsen ligger på 7,1 sammenlilgnet med Core i7 sin 7,9. 
+Diskytelsen er også den samme på 5,9. 
+
+Konklusjon 
+
+Maskinen er elegant og funksjonell. 
+Designet er gjennomført og den er ganske fleksibel i bruk, både som alminnelig stasjonær og tilbakelent som berøringsskjerm. 
+
+Ytelsen er god til det aller meste, inkludert lettere spill og kreativ bruk. 
+
+Her er de andre stasjonære PC-ene med berøringsskjerm som vi har testet så langt: 
+
+Acer Aspire 7600U (DQ.SL6EQ.001) 

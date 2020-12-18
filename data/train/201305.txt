@@ -1,0 +1,184 @@
+Sony Ericsson XPERIA Arc
+Tynn og elegant Android-toppmodell. 
+
+Den er riktignok ikke verdens tynneste, men Arc fra Sony Ericsson er i hvert fall blant de aller tynneste smarttelefonene på markedet og måler bare 8,7mm over midjen. 
+
+I tillegg veier telefonen bare 117 gram og føles veldig lett når du holder den i hånden. 
+Den har en dedikert kameraknapp, stor skjerm (4,2") og kjører i tillegg Sonys Bravia-motor som forbedrer bildekvaliteten. 
+
+Arc kan også filme med 720p HD-oppløsning og har micro-HDMI-utgang slik at den kan kobles direkte til en TV for å vise innhold. 
+Og – den er blant de aller første telefonene som kommer med Android v2.3 (Gingerbread). 
+
+Vi tar først en titt på det tekniske spesifikasjonene: 
+
+Tekniske spesifikasjoner, Sony Ericsson XPERIA Arc: 
+
+Skjermstørrelse: 4,2"Oppløsning: 
+854x480 pikslerSkjermteknologi: 
+LED-bakbelyst LCDProsessor: 
+1GHz Scorpion med Adreno 205 GPUInnebygd minne: 512MB RAM, 320MB internlagring (til apps som ikke kan kjøres fra minnekort)Minnekort: 
+Micro SD opp til 32GBAndroid-versjon: 
+2.3 (Gingerbread)Kamera: 
+8MpVideo: 1280x720 (720p)Radio: Stereo FM m/ RDS (krever medfølgende ørepropper)Utganger: 3,5mm jack (ørepropper følger med), micro HDMI (kabel følger med), micro USB (til lading/dataoverføring, kabel følger med)WiFi: Wi-Fi 802.11 b/g/n, DLNA3G: 
+HSDPABluetooth: v2.1Mål: 
+125 x 63 x 8,7 mmVekt: 117 gramBatteri: 
+1500mAhPris: ca 4300 kroner 
+
+Konstruksjon 
+
+Førsteinntrykket av Xperia Arc er todelt. 
+De fleste blir imponerte av å se telefonen fra siden og synes den kurvede designen er lekker, men så fort den kommer i hånda er de fleste skjønt enige om at plastfaktoren er noe høy. 
+
+Dette gjelder spesielt lokket på baksiden av telefonen, der vi også hører noe knirking når vi klemmer hardt, og kombinert med den svært lave vekten på 117 gram er det ikke å unngå at inntrykket av eleganse minker noe. 
+
+Kurveformen gjør imidlertid at telefonen er særdeles god å holde i hånda. 
+
+Lokket på baksiden må tas av for å få tilgang til batteri, SIM- og minnekort. 
+Konstruksjonen er gjort slik at det ikke er mulig å ta ut minnekortet uten at batteriet også må tas ut, noe vi likte med blant annet LG Optimus 2X. 
+
+Vi lar oss ikke begeistre av hardware-knappene. 
+Av og på-knappen er svært liten og hard å trykke inn, og kameraknappen likeså. 
+I tillegg er kameraknappen plassert så langt ut på siden av telefonen at det er problematisk å holde telefonen stødig når man tar bilder (spesielt når den i tillegg må trykkes hardt på og telefonen er såpass tynn og lett), men det går heldigvis an å trykke på skjermen for å ta bilde også. 
+
+Skjermen, ja – den er heldigvis meget god på Xperia Arc. 
+Når telefonen er avslått er skjermen så mørk at den nesten ikke synes ved siden av den sorte kanten på telefonen, og Sonys Bravia-programvare sørger for å forbedre bildekvaliteten når du ser på bilder og film slik at skjermen fremstår med svært gode farger uten å overdrive det. 
+I tillegg fungerer den automatiske lysstyrken meget godt, og selv ikke på taket på Operahuset en skyfri dag var det problemer med å se skjermen. 
+
+Innsynsvinkelen er imidlertid ikke så god, der bildet fort mindre synlig når du vrir på telefonen, men skjermen reflekterer mindre lys enn de fleste fordi displayet er limt fast i glasset som gjør at skjermen føles veldig "nærme" når du bruker telefonen. 
+
+På undersiden av skjermen finner du knapper for tilbake, hjemmeskjerm og meny, men ikke den fjerde som også er ganske vanlig på Android-telefoner; søkeknappen. 
+Vi stusset litt over dette valget, siden PlayStation-telefonen Xperia Play har nettopp denne knappen, men respresentanten vi snakket med fra Sony kunne ikke forklare det på noen annen måte enn at telefonene hadde hatt forskjellige utviklingsteam. 
+
+En fiffig detalj som ikke er så ofte å finne på mobiltelefoner, er et feste for bærestropp (som er vanlig på kompaktkameraer, men som ikke følger med i esken). 
+Det vitner om at kameraet er noe Sony Ericsson har prioritert på denne telefonen, og det skal vi komme tilbake til lenger ned i artikkelen. 
+
+Ellers er både lyd- og micro USB-porten plassert på sidene av telefonen (spesielt førstnevnte er litt dumt hvis du putter telefonen i lomma og har en ørepropptilkobling som stikker rett ut), og på baksiden er det også et hull inn til den sekundære mikrofonen, som hjelper til med å filtrere ut bakgrunnsstøy når du prater. 
+Høyttaleren er for øvrig plassert bak et lite hull nederst på baksiden av telefonen; en god plassering som vi sjelden har opplevd å dekke til med fingeren i testperioden. 
+
+Android v2.3 
+
+Det er gledelig å se at Sony Ericsson er på hugget hva gjelder den siste versjon av Android, for Xperia Arc er telefon nummer to ut med Gingerbread, etter den "offisielle" Google-telefonen, Nexus S, som ble belønnet med en femmer på DinSide-terningen tidligere denne uken. 
+
+Selskapet har tidligere vært kritisert (og det med god grunn) for manglende og trege oppdateringer av Android, og dette ble også tatt opp som et tema på pressevisningen av denne telefonen. 
+Representanten fra Sony Ericsson hevdet at de ikke hadde forutsett at Android-oppdateringene skulle være så viktige for folk, og at de hadde gjort så mange tilpasninger dypt inn i operativsystemet at det ble svært mye jobb for dem å bytte til ny versjon. 
+Dette har de nå omstrukturert og vil i fremtiden være klar med nye Android-versjoner langt raskere enn hva tilfellet har vært til nå. 
+
+...men med eget skall Som de fleste produsenter av Android-telefoner har også Sony Ericsson et eget brukergrensesnitt på toppen av Android (UX), noe den offisielle Google-telefonen ikke har (den kjører såkalt "Vanilla" Android; altså en umodifisert utgave). 
+
+Vi synes Sony Ericssons brukergrensesnitt er svært tiltalende, med pene animasjoner, menyer og farger, som er med på å gi telefonen et snev av eleganse. 
+Det finnes også noen små detaljer de har modifisert på, som muligheten bytte mellom lydløs og ringing direkte på låsskjermen ved å dra bryteren på høyre side mot venstre. 
+Vi hadde også likt muligheten for å kunne ta bilder (og bare det) direkte med kameraknappen fra låst telefon, men det er dessverre ikke mulig uten å låse den opp først. 
+
+Listen over alle installerte programmer kan sorteres på flere måter; alfabetisk, basert på når programmene ble installert, basert på bruksfrekvens eller manuelt. 
+TimeScape, der oppdateringer fra Facebook, samtalelogg, SMS etc. samles i en slags kortstokk flyter bedre enn på tidligere modeller, og en kjekk funksjon der du "klyper" hjemmeskjermen, gjør at alle widgets vises. 
+
+Medfølgende apps 
+
+Det er ikke så fryktelig mange applikasjoner som følger med på Xperia Arc, men for å dra igjennom de som kommer med telefonen: 
+
+Timescape (app/widget) 
+- En "kortstokk" som viser alle de siste samtalene, tapte anrop, mottatte SMS, Facebook-oppdateringer og Twitter-oppdateringer. 
+Sistnevnte vil selvsagt gjøre at det blir svært mye innhold dersom du følger mange på Twitter, og vi skulle helst ha sett muligheten til å begrense dette til tweets som nevner deg. 
+
+PlayNow 
+- Sonys egen nettbutikk for apps og musikk. 
+Ikke så veldig stort utvalg og høye priser - typisk spillpris er 40 kroner, og musikksporene koster 15 kroner stykket. 
+
+Brukerstøtte 
+- Faktisk ganske kjekt med en online-brukermanual for telefonen din, som oppdateres etter hvert som brukerne sender inn spørsmål. 
+
+Synkroniseringsverktøy 
+- Sony Ericsson har en nettjeneste som lar deg laste opp kontakter slik at du kan synkronisere dem til en ny telefon. 
+
+TrackID 
+- Dette var faktisk Sony Ericsson tidlig ute med i sine javabaserte modeller og fungerer på samme måte som nå mer kjente Shazam. 
+Gjør at du kan finne ut hvilken sang som spilles, enten du hører på radio eller sitter på café. 
+
+Let's Golf! 
+- Golfspill fra GameLoft. 
+Helt OK. 
+
+Touchnote Postcard 
+- En applikasjon som lar deg sende et fysisk postkort hvor som helst i verden. 
+Vi tok et bilde fra Operataket og sendte hjem, så får vi se hvor lang tid det dukker opp (ett gratis postkort følger med). 
+For øvrig tilgjengelig i Android Market (Touchnote Postcard, gratis) 
+
+Officesuite 
+- Lar deg lese .pdf-filer, samt Office-dokumenter, men ikke redigere dem. 
+Da trenger du pro-versjonen, som selges igjennom gratisutgaven. 
+
+Medieserver 
+- Lar deg bruke telefonen som en DLNA-server, slik at du kan få direkte tilgang til mediefiler f.eks. fra PlayStation 3/Xbox 360, eller en TV som støtter DLNA. 
+
+Hanachi 
+- Et sosialt nettverk laget av Sony Ericsson for de som har lyst til å sende ting og tang til vennene sine uten å bruke Facebook. 
+
+I tillegg har Sony Ericsson modifisert på noen av standardapplikasjonene, som kontaktliste, meldingsapplikasjon etc. 
+Et lite minus er epostklienten for Exchange, som ikke støtter flytting av e-post til mapper. 
+
+Som et miljøtiltak er også PC-programvaren lagt på selve telefonen. 
+Denne er imidlertid kun Windows-kompatibel. 
+
+Småfeil 
+
+Det er litt rusk i programvaren på Xperia Arc. 
+For det første opplever vi en gang i blant at telefonen mister tilgangen til Internett når den er koblet på WiFi, men løsningen er heldigvis ikke verre enn å koble seg av og på, selv om det selvsagt er et irritasjonsmoment. 
+Vi har også forhørt oss med to andre som har telefonen til test, og én av dem har det samme problemet, så det er er tydeligvis ikke bare vår modell det er noe galt med. 
+
+Et noe større problem er at kameraapplikasjonen henger seg opp en gang i blant, slik at man må avslutte den og starte på nytt. 
+Det kan være til mer irritasjon når en skal ta det kjappe blinkskuddet som er over to sekunder etterpå. 
+
+Forhåpentligvis er dette noe Sony Ericsson kan rette opp i fremtidige programvareoppdateringer. 
+
+Ytelse 
+
+Vi er innrømmelig blitt litt bortskjemte med superytelsen til dobbeltkjerneprosessoren hos LG Optimus 2X, men opplever allikevel Xperia Arc som kjapp og responsiv i bruk. 
+Grensesnittet flyter bra, kameraapplikasjonen starter på et par sekunder etter at du har trykket inn knappen og skrolling i nettleseren går behagelig. 
+
+På Quadrant Standard-testen scorer Arc 1621, som er noe lavere enn hva de beste modellene i denne prisklassen tilbyr (Optimus 2X fikk 2578). 
+Det betyr at den ikke er like egnet til de tyngste spillene, og kan også få problemer med å spille av høytoppløselig innhold. 
+For øvrig er tilgjengelig intern lagringsplass til applikasjoner (ikke inkludert minnekort) omtrent 320MB, og minnekortet som følger med er på 8GB. 
+
+Når det gjelder videoavspilling, er den innebygde formatstøtten også ganske sped, der telefonen ikke en gang støtter Divx rett ut av boksen. 
+Vi forsøkte med avspilleren Rockplayer, og da ville flere filer spille av, men mens lyden fungerte på flere av filmene, var det enten veldig hakkete bilde eller ikke bilde i det hele tatt. 
+Dette gjaldt for eksempel både for Divx-og H.264/MOV-filer. 
+MKV-filer ville for ordens skyld ikke spille av i det hele tatt. 
+
+Koblet til en TV er det heller ikke så imponerende med tanke på videoavspilling, der filmene hakker mer enn de gjør på telefonen. 
+Kjekt er det imidlertid at du kan bruke piltastene på TV-fjernkontrollen for å bla i bilde- og videoarkivet. 
+Output fra telefonen er maksimalt 720p. 
+
+Kamera, video og samtalekvalitet 
+
+Er det ett punkt Arc kan heve seg over mange av konkurrentene, er det på kamerabiten, for bildende fra Arc ser faktisk svært gode ut (spesielt i godt lys), og Bravia-motoren på telefonen gjør også at de ser svært gode ut også på mobilskjermen. 
+
+Sony har satt en bakbelyst Exmor R-brikke i denne modellen, altså samme type bildebrikke som de bruker i sine kompaktkameraer. 
+Kombinert med relativt lyssterk optikk på f/2.4 (de fleste toppmodellene har f/2.8) gjør det at kameraet også klarer å fange mer lys, som igjen fører til skarpere bilder også i dårligere belysning. 
+Dog skal det sies at støyprosesseringen er i overkant aggressiv når følsomheten blir høy, og at detaljene derfor viskes ut i overkant mye i dårlig lys. 
+
+Allikevel - i godt lys gjør Arc en svært god jobb. 
+Bildene har lite støy sammenlignet med mange andre, og hvitbalanseringen ser ut til å være svært habil. 
+Det hadde imidlertid ikke gjort noe om bildeprosessoren hadde skarpet opp bildene litt mer – de er litt uskarpe, selv om detaljnivået er godt. 
+
+Når det gjelder video er vi ikke like begeistret, selv om Arc også her leverer kvalitet det fint går an å leve med. 
+Sammenlignet side om side med iPhone 4, fremstår iPhone både med bedre bilde (spesielt er kompresjonen mindre tydelig) og bedre lyd, der Arc har en tendens til å høres noe ullen ut. 
+
+Under finner du foto- og videoeksempler: 
+
+Vi er også godt fornøyde med samtalekvaliteten på Xperia Arc, som gir oss støyfri og klar lyd når vi snakker med andre. 
+At telefonen har en sekundær mikrofon på baksiden gjør også at den i større grad kan filtrere ut bakgrunnsstøy fra samtalen slik at mottaker hører deg bedre, men vi gjorde ikke noen vitenskapelige tester på det området utover å få bekreftet at mottaker hørte oss godt i et kontormiljø. 
+
+Konklusjon, Sony Ericsson Xperia Arc 
+
+Alt i alt, altså - jevnt over meget godt fra Sony Ericsson denne gangen; langt bedre enn X10, som kom for ganske nøyaktig ett år siden. 
+Det er positivt at selskapet som fortsatt lanserte Android 1.6-telefoner når versjon 2.1 var i markedet nå er nummer to ut med Gingerbread, og lovnadene om å være på hugget her fremover er definitivt positivt for potensielle kjøpere av Arc. 
+
+Telefonen er lekkert utformet, selv om den riktignok ser bedre ut enn den føles, der plastfaktoren definitivt er til stede. 
+Vi synes også et par av designvalgene er uheldige, som at kameraknappen er for hard og plassert for langt ut på siden, samt at lyduttaket også er plassert på siden av telefonen, som gjør det litt mer knotete å ha den i lomma med ørepropper plugget i. 
+Vi er heller ikke så fornøye med at hardware-søkeknappen ikke er å finne på denne telefonen, men så skal det sies at vi er vant med å ha den tilgjengelig. 
+
+Skjermen holder uansett høy kvalitet, og det samme gjør bildene fra kameraet. 
+Vi synes også grensesnittet til Sony Ericsson er elegant, og selv om det er noe smårusk i forhold til blant annet trådløst nett, er det ingen showstopper for de fleste, vil vi tro. 
+Har du derimot krav til den råeste ytelsen og god støtte for videoformater, må du se deg om etter en annen modell, som for eksempel LG Optimus 2X. 
+
+Sony Ericsson Xperia Arc 

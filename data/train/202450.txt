@@ -1,0 +1,112 @@
+Dell XPS 13
+Dell kom sent til bordet med sin første ultrabook, men kom de godt? 
+
+Det begynner etter hvert å bli et bra utvalg av ultrabooks på det norske markedet, altså svært tynne og lette bærbare PC-er som produsentene håper skal demme opp for den stadig tiltagende konkurransen fra nettbrett og smartmobiler. 
+
+PC-en har rett og slett havnet i en slags skvis: 
+Flere og flere oppgaver som tidligere var uløselig knyttet til PC-bruk kan nå gjøres lekende lett på andre dingser som er lettere å transportere. 
+
+Men det er fortsatt mange ting PC-en egner seg bedre til, ikke minst når det kommer til arbeid og produktivitet. 
+Men vi liker å være mobile, og da passer ultrabooken godt inn med sin lave vekt og gode batterilevetid. 
+
+Fin maskin 
+
+Og 
+Dell gjør et poeng av at XPS 13 har god batteritid. 
+Den er også robust og lett, noe vi kommer tilbake til senere i denne testen. 
+
+Men først skal vi se på de tekniske egenskapene på vårt testeksemplar: 
+
+13,3" blank LED-baklyst LCD, dekket av Gorilla-glass, 1366 x 768 piksler Intel Core i5-2467M prosessor Intel HD Graphics 3000 grafikk 4 GB RAM (som er maks) 120 GB SSD 1 stk USB 2.0-port 1 stk USB 3.0-port 1 stk mini-Displayport 1,3 megapiksels webkamera Trådløst nett (a/g/n) (Intel Centrino Advanced-N 6230) Bluetooth 3.0 Mål: 316 × 6~18 × 205 mm Vekt: 1,38 kg Veil pris: 
+9990,- 
+
+Vi gjør oppmerksom på at maskinen kan konfigureres hos Dell.no, og du kan for eksempel få den med både Core i7-prosessor og 256 GB SSD - hvis du har penger til det. 
+
+Noen begrensninger 
+
+Av alle ultrabookene vi har testet, er imidlertid Dell XPS blant dem som har færrest tilkoblingspunkter. 
+Her er for eksempel verken HDMI eller VGA-skjermutganger, da trenger du en eventuelt en overgang fra mini-Displayport, og dette er ekstrautstyr. 
+Det er heller ikke noen ethernet-kontakt, da trenger du overgang fra USB, som heller ikke er standardutstyr. 
+I tillegg mangler leser for minnekort, noe vi også setter et spørsmålstegn ved. 
+
+Men eksteriørmessig er den definitivt i toppskiktet. 
+Den formelig oser av high-end, og den er også mindre og tynnere enn mange av konkurrentene, blant annet takket være den smale rammen rundt skjermen. 
+
+Solide saker 
+
+Lokket er av aluminium og usedvanlig stivt. 
+Vi liker også det brede hengslet og bruken av karbonfiber i bunnplaten, som gir et solid inntrykk. 
+Karbonfiberet har dessuten den fordelen at det ikke blir varmt på samme måten som aluminium, og det er aldri ubehagelig å ha XPS 13 i fanget. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Slike tastaturer er enkle å rengjøre. 
+Det er også baklyst, noe som er en fordel i mørke omgivelser. 
+Tastene er avrundet, platen er fast og avgir lite støy under skriving. 
+Med unntak av en smal enter-tast er alle tastene passe store, og vi synes absolutt Dell XPS 13 er god å skrive på. 
+
+Under tastaturet sitter en multiberøringsfølsom pekeplate med integrert venstre og høyre museknapp. 
+Det er ikke noe vertikalt skrollefelt, her bruker du ganske enkelt to fingre for å skrolle vertikalt og horisontalt. 
+Bruken krever noe tilvenning, ikke minst fordi dobbelprikking på pekeplaten ikke gir noen reaksjon hvis den gjøres for raskt. 
+
+Vi liker godt det rene uttrykket, her er ingen glinsende klistremerker av noe slag, og et sølvfarget lokk på undersiden dekker Windows produkt-id-en og annen informasjon som er uvesentlig for de fleste av oss. 
+
+Like ren er ikke opplevelsen i Windows, mye takket være sikkerhetspakken fra McAfee, som popper opp med advarsler i hytt og vær, men også Dells egen programvare kommer med oppdateringsvarsler som kunne vært mindre prangende. 
+Det er ikke alltid like lett å finne lukk-knappen heller: 
+
+Slik er den i bruk 
+
+Fra den er helt avskrudd til Windows er lastet og du er klar for å begynne å jobbe, tar det 19 sekunder. 
+Det er omtrent så raskt som andre ultrabooks med samme prosessor og SSD. 
+Men i 2012 skrur man sjelden maskinen av, og i dvale (fra du åpner lokket til den er klar) tar det bare et par-tre sekunder. 
+
+Maskinen har en vifte som er godt hørbar, og den kan gå i lange perioder mellom hver pause - vel og merke når den går på nettstrøm. 
+Under belastning kan den faktisk bli på grensen til sjenerende, den er i hvert fall blant de ultrabookene vi har testet som avgir mest lyd. 
+På motsatt ende av skalaen finner vi Samsungs 5-serie, som til gjengjeld blir noe varmere under belastning. 
+
+MEN: 
+På batteridrift er den stort sett tyst, blant annet være temmelig nedjustert prosessorhastighet. 
+
+OPPDATERT: 
+Viftestøy-problemet ble løst med en BIOS-oppdatering. 
+Les mer om det her. 
+
+God ytelse 
+
+Maskinen oppleves uansett som godt konfigurert og rask til de fleste oppgaver, med unntak av til krevende spill. 
+Det bringer oss over i neste del av denne testen, ytelsesmålingene. 
+Windows' egen opplevelsesindeks gir oss følgende pekepinn, og her går skalaen fra 1,0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,3 Minne (RAM): 
+5,9 Grafikk: 
+5,8 Spillgrafikk: 
+6,2 Primær harddisk: 7,9 
+
+Passmark PerformanceTest 7.0 gir en totalscore på 1124,3, og i tabellen under har vi sammenlignet tallet fra denne PC-en mot andre, aktuelle ultrabooks: 
+
+Prosessor-, grafikk- og minneytelsen er omtrent identisk på disse PC-ene, men på diskytelsen er det store forskjeller, spesielt mellom modeller med kombinert SSD/snurredisk og ren SSD. 
+Skrivehastigheten på SSD-en i Dell XPS 13 er faktisk den beste vi har sett i ultrabooks så langt, og bidrar sterkt til at PC-en totalt sett er den nest raskeste vi har testet: 
+
+Batterilevetiden er også meget god, med hele 9 timer med minimal belastning, kun tilknyttet trådløst nettverk. 
+Ved kontinuerlig videoavspilling holdt batteriet ut i 4 timer og 45 minutter. 
+Sammen med Asus UX31 er dette det beste vi har målt, og du kan forvente rundt 7-8 timer batteritid under normal, variert bruk. 
+Under har vi sammenlignet med aktuelle konkurrenter (alt her er DinSide-tall): 
+
+Den vanskelige konklusjonen 
+
+Dell XPS 13 er, med unntak av Apple MacBook Air, den mest elegante og robuste ultrabooken vi har testet. 
+Det er tydelig at Dell har brukt mye energi på å lage et godt, og ikke minst stilfullt produkt: 
+PC-en er kompakt, lett, har god ytelse og batterilevetid. 
+Lyden fra høyttalerne er også noe av det beste vi har sett i klassen. 
+
+Det er imidlertid ikke mulig å trille terning uten å ta hensyn til flere aspekter. 
+Det vi misliker er begrensningene knyttet til tilkoblinger, manglende kortleser, høy pris og litt mer viftestøy enn vi setter pris på. 
+Samsungs 5-serie Ultra er i så måte et bedre valg, mener vi. 
+Den er også billigere enn XPS 13, med tilsvarende stor SSD. 
+Vi testet modellen med harddisk, og med SSD ville den sannsynligvis snuset på sekseren på terningen. 
+
+Når det gjelder Dell XPS 13 har vi utvilsomt med et kvalitetsprodukt å gjøre, og maskinens mange gode egenskaper gjør at den får en femmer på terningen. 
+Men om du lurer på å kjøpe, les plussene og minusene i boksen under, og få også med deg testene av de mest åpenbare konkurrentene før du bestemmer deg: 
+
+Takk til Dell for utlån av maskinen 
+
+Dell XPS 13 L321x (321X-9735) 

@@ -1,0 +1,115 @@
+Asus G73SW
+Vi lover deg - denne PC-en gir deg kraft i bøtter og spann. 
+
+Det skulle egentlig bare mangle; når du legger 15.000 kroner på bordet til ny PC bør du få vesentlig mye mer av det meste, i forhold til de av oss som alltid sverger til volumsegmentet (4-6000 kroner). 
+Og vi har sagt det mange ganger; er du for eksempel interessert i seriøs spilling MÅ du opp i prisklasse, det er ingen vits i å spørre en gang hvis du har stramt budsjett. 
+
+Råtass 
+
+Og det er nettopp den kjøpesterke gruppen Asus vil nå med sin G73S-serie. 
+PC-ene i denne serien har et litt brutalt utseende, omtrent så langt fra en rosa mini-PC som det går an å komme. 
+Og modellen vi har sett på er definitivt ingen mini, verken fysisk eller funksjonelt. 
+
+Her er noen av de viktigste egenskapene: 
+
+Fullt navn: 
+Asus G73SW 17,3" LED-baklyst, matt skjerm, 1920 x 1080 piksler (full HD) 
+Skjermen støtter 120 Hz og 3D-visning Intel Core i7-2630QM prosessor (4-kjernet Sandy Bridge) Nvidia Geforce GTX 460 grafikkort, 1,5 GB GDDR5 8 GB DDR3-minne 2 x 500 GB harddisker, hybrid SSD/HDD DVD-brenner for alle formater Minnekortleser HDMI/VGA-utganger 4x USB-porter, hvorav én USB 3.0 Gigabit LAN Webkamera (2 megapiksler) Innebygde 2.1-høyttalere 8-cellers li-ion-batteri, 5200 mAh Windows Home Premium 64 bits Størrelse: 41,5 x 32 x 5,7 cm Vekt: 3,9 kg Ca-pris: 
+14.995 kroner inkl mva 
+
+Spesifikasjonsmessig er dette noe av det råeste vi har vært borti, det eneste vi savner er en Blu-ray-spiller. 
+Merk at Sandy Bridge-baserte maskiner nå endelig er på vei tilbake i butikkene etter at Intel tidligere i år kalte alle hovedkort tilbake på grunn av en feil i brikkesettet. 
+
+Det er ingen tvil om hvem Asus ønsker å nå her. 
+Designen har et rått og kraftfull uttrykk, den formelig oser av testosteron. 
+Maskinen er likevel mer anonym i utformingen enn maskinene fra Alienware som har spesialisert seg på PC-er for gamere. 
+
+Overflaten er svart og gumiert, og tåler således fingeravtrykk langt bedre enn sine blanke artsfrender. 
+Alle tilkoblingspunktene sitter på sidene. 
+Kanskje en stor maskin som denne, som stort sett vil bli brukt stasjonært, burde hatt lyd- og strømuttak i bakkant? 
+Vi tror flere enn oss synes at det ville vært enda mer ryddig. 
+
+God ergonomi 
+
+Men ingen spiller hele tiden, og da er det jo greit å vite at maskinen har et stort, godt og responsivt tastatur av typen der hver tast omkranses av tastaturplaten. 
+Tastene er faste og avgir svært lite støy under skriving. 
+Det er en liten svikt i platen når du trykker hardt på midten, men ikke nok til at det svekker tilliten til kvaliteten. 
+
+Det numeriske tastaturet har litt mindre taster, selv om det er flere centimetre med plass på sidene. 
+Litt rart kanskje, men hvilken gamer bryr seg? 
+
+Pekeplaten har en matt overflate og to separate knapper helt adskilt fra denne. 
+Totalen er etter vår mening nær perfekt. 
+Asus har rett og slett hatt et hav av plass å ta av, og det har ført til langt bedre ergonomi enn på mange mindre maskiner. 
+
+Magnifique 3D-skjerm 
+
+17" og full HD, 1920 x 1080 piksler, og matt overflate. 
+Etter vår mening en ideell oppløsning for denne skjermstørrelsen, og matt overflate oppleves under mange lysforhold som en befrielse i forhold til de blank som råder markedet. 
+
+Asus har imidlertid justert opp skriftsstørrelsen til 125%, noe som etter vår mening er en unødvendig tilpasning for de fleste. 
+Dette er imidlertid enkelt å justere. 
+
+Dette er altså en bærbar PC med 3D-skjerm. 
+Det betyr ikke at bildet kun fungerer med 3D-visning, men den har muligheten for det - takket være et 120 Hz-panel og medfølgende aktive briller. 
+
+3D-funksjonen aktiveres ved hjelp av en egen hurtigknapp øverst til venstre for tastaturet, og krever i tillegg spill og programmer som er forberedt for 3D. 
+CinePlayer fra Roxio følger med, og denne har muligheten til å spille av filmer i 3D. 3D Vision Photo Viewer byr på en funksjon for å gjøre vanlige 2D-bilder om til 3D, men den virkelig gode opplevelsen får du først når materialet er tilpasset. 
+
+Da får du ikke bare følelsen av en dybde i bildet, men også at elementer stikker ut av skjermen. 
+Absolutt fascinerende, og kanskje aller mest spennende for spillentusiaster. 
+
+God spillytelse 
+
+Vi testet med Call of Duty Black Ops, Left 4 Dead 2 og Half-LIfe 2 Episode 2, og kan melde om at den generelle spillytelsen er meget bra (ingen overraskelse, egentlig). 
+Selv i full HD-oppløsning og med alle detaljer skrudd på gikk alt silkemykt og fint 95% av tiden, men vi opplevde litt hakking i de aller mest krevende scenene i Black Ops. 
+
+Og det tar oss over i neste del av denne testen, der vi går ytelsen nærmere i sømmene. 
+Først en titt på Windows 7 sin innebygde ytelsesinformasjon, Windows Opplevelsesindeks, skalaen går fra 1 til 7,9: 
+
+Asus G73S slår alle tidligere maskiner vi har testet her. 
+I tabellen har vi sammenlignet med det nærmeste vi har vært så langt, en annen sylfersk Sandy Bridge-maskin, Multicom Compal PBL21 - som med en prislapp som ligger langt under faktisk byr på ganske sammenlignbar ytelse, ifølge Windows. 
+Grafikken ser imidlertid ut til å ligge et hestehode foran. 
+
+PCMark Vantage går imidlertid dypere til verks, og her er forskjellene langt mer synlige - både på gaming og diskytelse. 
+Asus-en har som vi allerede har nevnt hybride SSD/HDD-disker, og det merkes: 
+
+Dette gir et ganske så annerledes bilde enn Windows interne målinger, spesielt ser vi dette på gaming- og harddisk-ytelsen, som taler til Asus sin fordel. 
+
+Hvordan er så prosessor- og grafikkytelsen sammenlignet mot hva du ellers finner i 10-15.000-klassen? 
+Vi har brukt ytelsesmålingene til Passmark Performance Test som grunnlag: 
+
+Dette illustrerer først og fremst at siste generasjon prossorer ligger langt over hva angår ytelse sammenlignet med forrige generasjon - uten at prisen nødvendigvi er høyere. 
+
+Nvidia Geforce GTX 460 er dessuten en meget potent grafikkløsning. 
+Her er hva du får på andre maskiner i samme prisklasse: 
+
+Støyer ikke 
+
+Uansett hvordan man vrir og vender på det er det ingen tvil om at PC-en ytelsesmessig ligger helt i toppskiktet i denne prisklassen. 
+
+Betyr det at den bråker? 
+Nei. 
+Asus har laget et meget effektivt system som leder varme fra prosessor, harddisker og grafikkort bort fra maskinen. 
+Det er vifter som går kontinuerlig, men de er meget støysvake, også under ganske tung belastning. 
+Støy og varmeutvikling er definitivt ikke et problem, så langt vi har kunnet måle. 
+
+Hva så med batterilevetiden? 
+Et 8-cellers batteri sørger for 2 timer kontinuerlig videoavspilling (720P i Windows Media Player). 
+Med minimal belastning holdt batteriet i vårt testeksemplar ut i nesten 3 timer. 
+Det er ikke imponerende, men dette er ikke maskinen du kjøper dersom det først og fremst er lang batterilevetid du ønsker deg. 
+
+Konklusjon 
+
+Denne PC-en imponerte oss på flere plan. 
+Ikke bare byr den på knallsterk ytelse, den har god ergonomi og avgir forbausende lite støy uten å bli særlig varm. 
+Skjermen er svært god, med akkurat passe oppløsning, og totalt sett egner maskinen seg like godt som produksjonsverktøy som spillmaskin. 
+
+Kompromissene du må inngå går først og fremst på portabilitet og batterilevetid, men det tror vi målgruppen bryr seg lite om. 
+Men det er klart: 
+15.000 kroner er mye penger for en PC i 2011. 
+Men har du råd, er det ingen tvil om at du får en råtass du vil ha glede av lenge for pengene. 
+
+Takk til Komplett.no for utlån av PC-en. 
+
+Asus ROG G73SW-91208V 

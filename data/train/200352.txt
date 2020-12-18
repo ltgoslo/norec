@@ -1,0 +1,41 @@
+Buffalo DriveStation Velocity
+Eksterne disker er nyttige, men byr også på utfordringer. 
+Her er Buffalos løsning. 
+
+Har du en bærbar PC er sjansen stor for at disken før eller senere blir mer eller mindre full. 
+Dette er ofte data du egentlig ikke trenger, men lar være å rydde opp i - eller du vil helst arkivere dem og ha tilgang i blant. 
+
+Løsningen er da enten en nettverksdisk hvis dere er flere i husholdningen som har samme behovet, eller ekstern disk hvis man vil ha dataene helt for seg selv. 
+
+Buffalo har tatt skrittet enda lenger, de har nå laget en ekstern disk med støtte for kryptering. 
+
+DriveStation Veolcity 
+
+Selve enheten er en 3,5-tommers 7200 RPM harddisk i et ganske nett, svart plastkabinett. 
+Det sitter en liten vifte i bakkant, og tilkoblingene er for ekstern strømforsyning og USB 3.0. 
+Vårt testeksemplar hadde en 1 TB disk installert, men du får også utgaver med 2TB og 3TB kapasitet. 
+
+Disken er stille i bruk og viften er sjelden i aktivitet. 
+
+USB 3.0 kabel følger med, og det er selvsagt påkrevet med USB 3.0 i PC-en for å få full utnyttelse av diskens ytelse. 
+
+Programvare 
+
+Disken inneholder flere nytteprogrammer. 
+Krypteringsfunksjonen installeres for seg, Buffalo Tools for seg og Picasa/Chrome kan også installeres rett fra harddisken. 
+
+Programmene byr på automatisk sikkerhetskopiering, RAM-disk (har du ledig minne kan du sette opp en midlertidig, superrask disk som arbeidsdisk), strømsparing og TurboPC EX som skal gi enda høyere overføringshastigheter. 
+
+Ytelse 
+
+Vi testet disken både med og uten kryptering, og forskjellen er absolutt tilstede. 
+Du merker det ikke alltid, men responsen varierer mer med kryptering enn uten. 
+Lagrer du små datamengder innimellom merker du lite, overfører du mange store mapper skjer det noe i blant. 
+
+Konklusjon 
+
+Buffalo DriveStation Velocity er en praktisk, fleksibel og rask løsning for ekstern lagring. 
+Ytelsen kan sammenlignes med en intern disk og ekstrafunksjonene som kryptering gjør den rimelig sikker mot uønsket tilgang. 
+
+Buffalo DriveStation Velocity HD-LX 
+U3 1TB 

@@ -1,0 +1,117 @@
+TEST:Sony Vaio Z 13,1" Core i7 HD 256GB SSD 
+
+Lettere og kraftigere PC skal du lete lenge etter. 
+
+Sony kan dette med å pakke sammen elektronikk til utrolig små formater, og ofte med svært tiltalende design. 
+Tidligere var de i en helt egen klasse på dette området, og vi i Norge skulte med misunnelse mot de land hvor Sony hadde funnet det for godt å selge disse lekre maskinene. 
+Her i Norge måtte vi klare oss med de langt mer trauste utgavene fra andre produsenter. 
+
+I mellomtiden har også andre produsenter klart å lage nett og stilige apparater fullstappet med kraftig elektronikk, og omsider kom også Sony på banen også her i landet. 
+
+I høst (2010) testet vi en annen bærbar fra Sony, med spesifikasjoner på linje med en kraftig stasjonær maskin. 
+Maskinen - en Vaio F - var ikke av de minste, med skjerm på 16,4 tommer blir det en del å dra rundt på. 
+
+Vaio Z-serien 
+
+Denne serien er av et annet kaliber, her snakker vi om svært lette og portable maskiner, men spesifikasjonene er fremdeles helt i toppsjiktet. 
+Vi snakker om 13,1-tommers skjerm i full HD, Core i7 prosessor, hybrid grafikk og SSD i Raid 0. 
+
+Vekten er bare 1,43 kg. 
+
+Dette er maskiner som er laget for krevende brukere som gjerne spanderer mange ganger så mye som mannen i gata. 
+Prisnivået er fra 20 000 og opp. 
+
+Design og løsninger 
+
+Sony Vaio skiller seg fremdels fordelaktig ut sammenlignet med mange andre bærbare. 
+Hadde det ikke vært for klistremerkene hadde maskinen vært lekker rett ut av esken. 
+
+Utførelsen er i karbonfiber, med overflate som minner om børstet metall. 
+Fargene er metallisk grønn og koksgrå, som gir et diskret utseende. 
+
+Konstruksjonen er lett og virker fast i fisken. 
+Skjermen er svært tynn og fleksibel, og kan legges ganske langt bakover. 
+
+Betjening 
+
+Det er standard avstand mellom tastene, med god separasjon og skrivekomfort, numerisk tastatur er det ikke plass til. 
+Skrivekomforten er meget bra, og det er ingen svikt i tastaturet. 
+
+Spesialtaster finner vi for bytte av grafikkløsning, som kan settes til Auto og bli styrt av programinnstillinger eller manuelt i utholdenhets- eller ytelsesmodus. 
+
+Til høyre finner vi fire dedikerte knapper: 
+"Assist" bringer fram Vaio Care for systemvedlikehold på maskinen, neste knapp får fram et eget kontrollpanel og "Vaio" starter styreprogrammet for mediehåndtering. 
+Ytterst er det utløserknapp for det optiske drevet. 
+
+Området rundt pekeplatener er bygd opp til en slags håndleddstøtte, selve pekeplaten er så vidt nedsenket og knappene er separert med en fingeravtrykksleser. 
+
+Pekeplaten støtter gester med flere fingre, du kan knipe og sprike med fingrene for å zoome inn og ut. 
+
+Skrolling og manøvrering med fingerbevegelser fungerer sånn passe, har man vant til responsen på moderne smarttelefoner og nettbrett faller det helt igjennom. 
+Dette er jo egentlig Windows' feil, det er vanskelig å få en flodhest til å gjøre baklengs salto. 
+
+Skjermen 
+
+Full HD på en 13,1-tommers skjerm blir smått for mange, men den høye oppløsningen gjør at alt, og spesielt bilder og film ser ekstrasylskarpt ut. 
+
+Overflaten er blank, men ikke av de aller blankeste. 
+Reflekser er likevel et problem. 
+
+Betraktningsvinkelen er ikke spesielt god, den er ikke noe bedre enn på de billigste bærbare. 
+Dessverre er dette vanlig også på andre dyre bærbare. 
+Sitter du trangt på fly kan du risikere at skjermen blir bortimot uleselig. 
+Men med skjermen brettet ned i riktig vinkel ser det flott ut, spesielt film i HD ser utmerket ut. 
+Skjermen har en litt mørk valør som gjør den egnet til film. 
+
+Tilkoblinger 
+
+På venstre side finner vi strømtilkobling, åpning til Kensington-lås, nettverksjontakt, HDMI, USB, ExpressCard og enda en USB. 
+
+På høyre side finner vi USB, optisk drev og VGA-utgang. 
+
+I front sitter spalter for MemoryStick og SD-kort til venstre og bryter til trådløst nett og hodetelefoner/mikrofon til høyre. 
+
+Ytelse 
+
+Som forventet er maskinen kjapp, med Core i7 og SSD skulle det bare mangle. 
+Sammenligner vi med Vaio F maskinen vi nevnte tidligere i artikkelen, så knuser denne lettvekteren sin storebror. 
+
+Dette skyldes rett og slett SSD'en, og viser nok en gang hvor flaskehalsen i dagens PC-er ligger. 
+
+Geekbench, som bare måler prosessor- og minnerelatert ytelse, ga et litt svakere resultat, med 4940 mot F-seriens 5352. 
+
+Vi testet også med DPC Latency Checker, og der var resultatet svært blandet. 
+Til tider slet maskinen med sanntidsrespons, det hadde vi ikke ventet. 
+Men da vi satte maskinen i utholdenhetsmodus "stamina" (alternativene er Speed/Stamina/Auto) var sanntidsresponsen jevnest. 
+
+Støy og varme 
+
+I motsetning til maskinen i F-serien var Z-modellen nærmest lydløs og ble bare så vidt varm etter intens bruk. 
+
+Her er flere bilder av maskinen: 
+
+Batteritid 
+
+Til å være så kraftig er batteritiden imponerende. 
+Den kjørte HD-video kontinuerlig i 2 timer og 45 minutter, og varte i 5 timer og 15 minutter påslått med et par Geekbench-tester og minimalt med aktivitet en gang i blant. 
+Grafikken i bruk var internløsningen, ikke nVidia-brikken. 
+
+Konklusjon 
+
+Maskinen er både stilig og potent, men det er en liten hake ved den. 
+Det er selvsagt prisen, som ligger et eller annet sted rundt 27 500 kroner. 
+
+Hva du får av alternative løsninger til den summen kan bli en lang liste. 
+Er det snakk om bærbarhet kan du kjøpe en MacBook Air og to iPads, eller PC-er til hele familien, f.eks. to stasjonære, inkludert en gamer-maskin, og to ordinære bærbare til allsidig bruk. 
+
+Men hvis du har mye penger og vil ha det ypperste på PC-fronten, så er det ingen som tilbyr tilsvarende format, vekt og ytelse til lavere pris. 
+
+Du får også maskinen med svakere prosessor, mindre SSD og skjerm med lavere oppløsning. 
+Da nærmer prisen seg halvparten. 
+
+Vi har fått flere tilbakemeldinger både i debatten og pr epost om at det har skjedd endringer i tilgjengelighet, modeller og betegnelser. 
+Sjekk derfor priser og spesifikasjoner hos din forhandler. 
+
+Hele Vaio Z-serien i alle varianter finner du mer informasjon om hos Sony. 
+
+Sony Vaio VPC-Z12Z9E 

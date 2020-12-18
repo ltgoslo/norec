@@ -1,0 +1,111 @@
+Kraftig forbedret Spectre X360
+Den nye generasjonen Spectre X360 har blant annet fått en helt spesiell skjerm og åttende generasjon Intel-prosessor. 
+Sistnevnte merkes på ytelsen! 
+
+Den fjerde generasjonen HP Spectre X360 har vært på testbenken vår den siste uken, ti måneder etter at forgjengeren gjorde et solid inntrykk og fikk terningkast 5 i vår test. 
+
+Fortsatt er det snakk om en såkalt 2-i-1-PC, som betyr at du med et enkelt håndgrep kan gjøre PC-en om til et nettbrett. 
+Du skyver ganske enkelt skjermen helt rundt 360 grader, og da forstår du hvorfor modellen bærer navnet X360. 
+
+Nesten identisk 
+
+Eksteriøsmessig er det mange likhetstrekk fra forrige utgave, den er ifølge målinger bare marginalt tynnere og lettere. 
+
+Dessuten: 
+Vårt testeksemplar er toppspesifisert og har fått nøyaktig samme veiledende prislapp som forgjengeren hadde: 
+16.990 kroner. 
+
+Fortsatt har HP benyttet matt aluminium i kabinettet, tykkelsen er 1,36 cm mot forgjengerens 1,38. 
+
+Vekten er også redusert med noen få gram, og stopper nå på 1,3 kg, som må regnes som lett for en PC med berøringsskjerm i denne størrelsen. 
+
+På sidene finner du fortsatt to USB-C-porter, en vanlig USB-port og analog lyd inn/ut-kontakt. 
+USB-C-portene støtter også Thunderbolt 3, som med riktige overganger kan brukes til alt av utstyr som krever høy båndbredde (4K-video på ekstern skjerm med 60 oppfriskninger i sekunder, for eksempel). 
+PC-en lades også gjennom disse portene, det spiller ingen rolle hvilken av dem du kobler ladekabelen i. 
+
+At den fortsatt mangler HDMI-utgang er nok en ulempe for noen, her trengs en overgang fra USB-C/Thunderbolt 3 til HDMI hvis du for eksempel vil koble den til TV-en. 
+Du trenger også overgang fra USB-C til Ethernet hvis du vil koble deg til nettet med kabel. 
+HP gir ingen slike overganger med lenger. 
+Det følger imidlertid med en liten veske til PC-en når du skal på tur. 
+
+På undersiden sitter et par stereohøyttalere, merket Bang & Olufsen. 
+Det er ikke ensbetydende med gromlyd, opplevelsen er etter vår oppfatning veldig midt på treet. 
+Bruk hodetelefoner eller eksterne høyttalere hvis du er opptatt av god lyd. 
+
+Meget bra tastatur 
+
+Tastaturet er fortsatt fast og er etter vår mening helt på høyde med det beste fra konkurrentene. 
+Baklyset skrus enkelt av og på med F5-tasten, og i motsetning til mange andre lyses bokstaver og symboler godt opp på de sølvfargede tastene. 
+
+Skal vi være kritiske til noe ved tastaturet, måtte det være at enter-tasten kun dekker én linje, noe som medførte at vi trykket litt feil i begynnelsen. 
+Dette er imidlertid et lite hinder som man fort overvinner. 
+Vi merker oss også at hake-tegnene sitter til venstre for piltastene, ikke til venstre for Z som på vanlige tastaturer. 
+
+Hurtigtastene øverst kan trykkes direkte, uten behov for å holde nede funksjonstasten samtidig. 
+Dermed kan du enkelt justere volum, lysstyrke og hoppe til neste sang i mediespilleren din. 
+Det er forresten også volumknapper på siden av PC-en, naturligvis beregnet på nettbrettmodus - når tastaturet låses av. 
+
+Pekeplaten er middels høy, men til gjengjeld bredere enn hos mange konkurrenter. 
+Den er naturligvis multiberøringsfølsom, responsiv og fin. 
+Ikke alle liker skjermberøring, ikke kan den brukes i alle sammenhenger heller, og da er det helt avgjørende med en god pekeplate. 
+
+Smart skjerm med filter 
+
+Skjermen er forøvrig fortsatt bygd rundt et IPS-panel, oppløsningen er fortsatt 1920 x 1080 piksler. 
+Berøringsfølsom er den naturligvis, og registerer inntil ti trykk samtidig. 
+
+Det følger med en penn for presisjonsarbeid, tegning og skriblerier, og denne lades ganske enkelt med ladekabelen til PC-en. 
+
+Farger, lys og kontrast på skjermen er meget bra, men det er verdt å nevne at lysstyrken avtar en smule fra skrå vinkler. 
+Det er god grunn til å anta at dette skyldes en oppfinnelse som HP har kalt Privacy Shield. 
+
+Privacy Shield er et filter, utviklet i samarbeid med 3M, som ligger innebygd i skjermen. 
+Når det aktiveres ved å trykke en tast på tastaturet, blir mulighetene for innsyn fra sidene svært begrenset, slik at uinnvidde får problemer med å snike til seg informasjon - for eksempel på flyet eller på bussen. 
+HP kaller det «visuell hacking». 
+
+Dette er en nyhet på Spectre X360 som garantert vil falle i smak hos mange. 
+
+Nær dobling i ytelsestall 
+
+PC-en har dessuten blitt betydelig kraftigere siden forrige møte. 
+
+Ytelsesforbedringene skyldes først og fremst at den er utstyrt med Intels nye i7-8550U-prosessor, som nærmest dobler ytelsen i mange tilfeller, målt mot forgjengeren i7-7500U. 
+Denne har fire prosessorkjerner og åtte tråder, mot forgjengerens to kjerner og fire tråder. 
+
+I programmer og apper som drar nytte av dette (eksempelvis Adobe Photoshop og Premiere), vil ytelsesforbedringene være markante. 
+Også ved kjøring av mange programmer samtidig, vil disse forbedringene være merkbare. 
+Les mer om ytelsen du kan forvente her. 
+
+I tillegg har HP byttet ut den raske SSD-en i forgjengeren, med en enda raskere en. 
+Det påvirker også ytelsen, om ikke så merkbart som forbedringene på prosessorsiden. 
+Vi snakker om bortimot 2,5 GB lesehastighet i sekundet på det raskeste, nesten 1 GB mer enn vi målte forgjengeren til. 
+
+Og når vi først er inne på ting som går raskt: 
+Ladingen av batteriet går vesentlig raskere nå enn på forgjengeren. 
+Etter én time i stikkontakten har batteriindikatoren gått fra 0 til 70 prosent, der forgjengeren ikke kom lenger enn til 51. 
+
+Batteritiden er dessuten ikke svekket. 
+Forgjengeren målte vi til 548 minutter med kontinuerlig videostrømming, den nye utgaven holdt ut i 669 minutter, altså 11 timer og 9 minutter. 
+Det er en forbedring på 121 minutter, som er det samme 2 timer og 1 minutt, noe vi må si er en formidabel forbedring. 
+
+Blir varm, må kjøles 
+
+Prosessoren blir imidlertid varm under høy belastning, dette kan være knyttet til at maksimal klokkehastighet har økt på åttende generasjon Intel Core i-prosessorer. 
+Av denne årsak kan PC-en bli temmelig varm på ett felt på undersiden, sannsynligvis rett under der prosessoren sitter. 
+
+For å holde varmen nede, må du leve med en del vifteaktivitet når belastningen er høy. 
+Er den lav, kan du oppleve at PC-en er stille i lange perioder av gangen. 
+
+Også denne gangen har vi opplevd at enkelte programmer kan legge beslag på en del av ressursene, og det kan være programmer som du ikke nødvendigvis bruker. 
+Vi tenker først og fremst på sikkerhetspakken fra McAfee og nettskytjenesten Dropbox - som begge kan erstattes av funksjonalitet som allerede er innebygd i Windows, og som har vist seg å bruke færre ressurser i mange tilfeller. 
+
+Konklusjon 
+
+HP Spectre X360 har blitt fornyet, og det merkes først og fremst på ytelsen, både prosessor og batteritid har blitt betydelig bedre enn på forgjengeren. 
+Skjermfilteret er også med på å gjøre dette til en av de aller mest interessante 2-i-1-maskinene i premiumklassen. 
+
+Vær oppmerksom på at PC-en ikke er lydløs, og at den kan bli temmelig varm på undersiden når du kjører den hardt. 
+Vi anbefaler også at du tar en liten runde med avinstallasjon av apper og programmer du ikke trenger. 
+
+Alle plussene og minusene finner du i boksen under. 
+Få også med deg oversikten over andre PC-er vi har testet i det siste. 

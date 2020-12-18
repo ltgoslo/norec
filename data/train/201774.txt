@@ -1,0 +1,52 @@
+Test:Flügger fargeguide 
+
+Klarer denne appen å finne riktig malingsfarge? 
+
+Farger i alle sine nyanser dekker et område som er for stort til at vi kan beskrive det med ord. 
+I det digitale fargespekteret avhenger omfanget av hvor mange bits som brukes til å måle de forskjellige valører, og med dagens apparater kommer vi fort opp i millioner av farger. 
+
+Hva gjør vi når vi skal velge farger på maling? 
+De fleste av oss velger en farge vi tror vil passe, kjøper en boks og tar sjansen på at det blir bra. 
+Er man usikker kjøper man en liten boks først, og prøver på en del av veggen eller på en bit av samme materialet. 
+Så godkjenner man, prøver en annen nyanse, eller velger kanskje noe helt annet. 
+
+Men i dag finnes det mer avanserte metoder, en kan for eksempel bruke en iPhone-app. 
+
+Flügger fargeguide 
+
+Konseptet er enkelt, du tar et bilde, velger en farge i bildet, så analyserer appen fargen og finner fram til en matchende farge i Flüggers omfattende utvalg. 
+
+I virkeligheten er det ikke like greit. 
+
+Det er så mange parametre involvert når man tar bilder, og det er alltid snakk om tolkning som foregår i bildeprosessoren i kameraet. 
+Variasjoner i lysforhold og hvitbalanse gir ofte svært forskjellige resultater, det ser man umiddelbart på skjermen. 
+Da blir det også vanskelig for et program å analysere for å velge. 
+
+Du får også opp fargekart på skjermen og kan plukke ut forskjellige virtuelle prøvestriper. 
+
+Det mest spennende er kanskje at du kan ta et bilde, eller velge et fra bildearkivet på iPhone, og fargelegge vegger og liknende med farger du velger fra utvalget. 
+Da får du et visst inntrykk av hvordan en farge vil bli på en vegg, og skygger blir tatt hensyn til. 
+
+I praksis 
+
+Vi hentet noen fargekart hos Flügger og tok bilder av fargene med iPhone i dagslys, men ikke i direkte sollys. 
+
+Så sjekket vi om appen klarte å plassere fargene. 
+
+Det gjorde den ikke. 
+
+Den fant noe som var mer eller mindre i nærheten, men sammenlignet med hva egne øye klarer var det helt på bærtur. 
+
+Fargelegging 
+
+Det som var morsommere og også mer nyttig var fargelegging. 
+Her sjekket vi en vegg med en "knekk" som hadde en skygge med annen fargevalør. 
+
+Med duse farger ble resultatet klar bedre enn med knallfarger, som aldri fylte flatene. 
+
+Verdt å prøve? 
+
+Noen god fargeanalysator er det heller ikke mulig å kalle denne appen, på dette området er den akkurat like dårlig som Jotun sin app, som vi har testet tidligere. 
+
+Fargeleggingen kan derimot være inspirerende, og siden programmet er gratis er det jo bare å laste ned og la seg inspirere. 
+Men ikke forvent så mye mer. 

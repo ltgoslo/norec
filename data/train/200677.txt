@@ -1,0 +1,55 @@
+74 GB Western Digital D Raptor
+En S-ATA harddisk på 10 000 omdreininger, med mye av de samme finessene som gjør at SCSI-disker har vært overlegne på mange områder - det er Western Digitals Raptor. 
+Vi har testet. 
+
+Raptor fra Western Digital, som roterer med 10 000 omdreininger, har vært tilgjengelig som 36 GB i stanrt et år. 
+Vi har testet den, og du kan lese testen her. 
+
+Selv om den utgaven var svært rask, levde den ikke helt opp til forventningene. 
+Den hadde både skrive og leseytelse på over 50 000 KB/sekund, og en aksesstid på 8,8 ms. 
+Men sammenlignet med større disker som f.eks. WD2500, med flere plater og høyere datatetthet, så hadde den egentlig ikke så mye annet å by på enn en lavere aksesstid. 
+
+Men nå har altså 74 GB utgaven kommet, med 2 plater og kraftig forbedret kontroller. 
+
+Grensesnittet er S-ATA, og strømtilkoblingen er kompatibel både med game og nye kontakter. 
+
+Utseendet er det samme, med kjøleribber langs sidene for å bedre lede bort varmen. 
+Temperaturen er klart høyere enn 7200 disker som WD2500 JB, og støynivået er også klart høyere. 
+Men det er likevel ikke spesielt høyt, og langt lavere enn gamle SCSI-disker som f.eks. Cheetah som roterte på 10 000 omdreininger med et høyt hvin... 
+
+Vesentlig raskere! 
+
+Det ble fort klart at den nye Raptoren knuser den gamle. 
+Med HD Tach 2.61 målte vi en maks leseytelse på hele 71 707 KB/sekund. 
+og reduserte gradvis til 38 440 innerst. 
+Gjennomsnittet lå på 63 186 KB/sekund 
+
+Skriveytelsen lå på 51 642 KB/sekund ytterst og 25 589 KB/sekund innerst, med et gjennomsnitt på 36 605 KB/sekund. 
+
+Aksesstiden lå på 7,6 millisekunder. 
+
+Vi målte også med vårt eget testprogram, og fikk følgende ytelsestall: 
+Lesetest: 
+69 797 KB/s og skrivetesten ga hele: 69 543 KB/s! 
+
+Dette er vesentlig raskere enn 36 GB utgaven, som det fremgår av grafene under: 
+
+Dette er målt på den første partisjonen, med best ytelse. 
+
+Grafen under viser samme test på innerste partisjon, med lavest ytelse: 
+
+Resultatene etterlater ingen tvil - dette er den raskeste S-ATA disken du får tak i! 
+
+Bruksområder 
+
+Selv om disken er rask, så er ikke kapasiteten spesielt stor. 
+Dermed blir bruksområdene litt mer spesielle. 
+
+En ny egenskap hos Raptor 74 GB er at den støtter Tagged Command Queing. 
+Dette innebærer at disken selv finner ut den optimale rekkefølgen på data som skal håndteres i en rotasjonssyklus, uavhenging av rekkefølgen instruksjonene ble mottat i. 
+Dette øker effktiviteten enormt, på samme måte som når en heis går oppover og stopper og tar i mot passasjerer etter hvilken etasje de er i, ikke etter hvem som trykket først på knappen. 
+
+Trenger du den raskeste disken til system og innlesing av programmer, eller en RAID-løsning som håndterer databaseoppslag på linje med mange SCSI-disker? 
+Raptor 74 er antagelig det beste kjøpet du kan gjøre. 
+
+Mer nyttig fra DinSide Data: 

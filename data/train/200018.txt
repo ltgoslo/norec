@@ -1,0 +1,96 @@
+Samsung Q1
+En datamaskin på 775 gram og med 7 tommers bredskjerm. 
+Kan en sånn sak brukes til noe fornuftig? 
+
+Vi ble ikke helt enige om hva Samsungs Q1 ser ut som: medieavspiller, GPS, PDA og håndholdt spillkonsoll ble nevnt. 
+Gjerne med ordet "forvokst" (eller noe i nærheten) foran. 
+Men enten kan vi si at den har potensiale til å være alt det foran, eller så er den noe helt annet. 
+
+LES OGSÅ: 
+
+I følge bransjen er det en Ultramobil PC (UMPC). 
+Det betyr at den har mer å skilte med enn en PDA, den skal nemlig takle alle program som fungerer med vanlig XP. 
+(Og jo, den taklet alt bortsett fra PCMark...) 
+På den annen side er den litt vel spartansk til å kalles en bærbar PC. 
+
+Du kan i hvert fall surfe med den... 
+
+Hovedspesifikasjoner: 
+
+Intel Celeron M ULV @ 900 MHz 7" berøringsskjerm i bredformat (800 x 480 piksler) 512 MB DDR2-minne (1 x 512 MB) 40 GB 1,8" harddisk (4200 rpm) 
+Intel GMA 900 (opp til 128 MB delt minne) 54 Mbps WLAN (a/b/g) 10/100 LAN 2x USB, blåtann og Compact Flash-port. 
+Lyd ut: høyttalere og hodetelefoner. 
+Lyd inn: intern mikrofon. 
+VGA ut Dimensjoner (B/D/H): 
+22,8 x 14,0 x 2,9 cm Vekt 775 gram / strømforsyning 370 gram Operativsystem: Windows XP Tablet PC Edition Pris: ca. 8.500 inkl. mva. 
+
+Oppløsningen på 800 x 480 piksler føles av og til i minste laget når du trenger litt oversikt, og det er derfor lagt inn en egen knapp til å bytte til et par alternative oppløsninger: 800 x 600 og 1024 x 600. 
+Men disse to er så absolutt ikke ideelle oppløsninger for denne skjermen, så til vanlig arbeid er det 800 x 480 som gjelder. 
+
+Skjermen er heller ikke spesielt lyssterk, så selv om det er kjekt å kunne sjekke kinoprogrammet uten å forlate uteserveringen så er den ikke spesielt god til bruk utendørs. 
+Men innsynsvinkelen er godkjent og med lysstyrken skrudd helt opp fungerer den bra inne. 
+
+Tilkoblingsmuligheter 
+
+Tilkoblingene på maskinen er plassert på sidene og toppen: 
+
+Øverst er det altså utlufting for varmluft. 
+Av/på-knapp, et lite hull til svenskeknappen (reset), CF-slot og LAN (de to siste med fine lokk foran). 
+Stylus-pennen har garasjeplass til venstre for utluftingen. 
+
+På venstre side: strøm ut for ekstern disk, USB, lyd ut og volum opp/ned, "hold"-knapp og feste til bærestropp. 
+På fremsiden er det en tommelstyringsknapp (fungerer som piltaster) og snarveien for å bytte skjermoppløsning. 
+
+Høyresiden har strøminntak, USB og VGA-ut. 
+Foran på Q1en er det (fra venstre) en snarveisknapp for en kjekk hurtigmeny, enter-knapp og en programmerbar snarveisknapp. 
+
+Mangler tastatur 
+
+Normalt sett er en tastaturløs PC nokså kjip å bruke, men Q1 gir deg likevel flere muligheter her. 
+Først og fremst er det kurant å koble til et eksternt tastatur, alt fra etthåndstastaturer via blåtann til de helt vanlige koblet til med USB. 
+
+Har du ikke lyst til å dra med et tastatur så kan du selvfølgelig, som på PDAer, få fram et tastatur på skjermen slik at du kan skrive inn tekst. 
+Dette egner seg nok hovedsakelig for små notater. 
+Det er også muligheter for håndskriftgjenkjenning, men det fungerer dessverre ikke med norske språkinstillinger. 
+
+Får du ikke nok trening ved å sende SMS sier du? 
+DialKeys er tingen! 
+
+Til slutt har du en mulighet til å bruke tomlene, og nei, da snakker vi faktisk ikke om noe SMS-tastatur. 
+DialKeys heter denne løsningen, og den legger ganske enkelt ut et "tastatur" fra skjermhjørnene. 
+Dette tastaturet er beregnet for å betjenes med tomlene. 
+Egentlig ganske kult, men problemer er det jo: ikke norsk tegnsett, og det er fryktelig uvant å skrive med. 
+Fysiske faktorer som veldig store eller små tommeltotter kan selvfølgelig også være et problem. 
+
+En ting som denne PCen i hvert fall ikke gjør er å bråke. 
+Den har en vifte som spinner opp av og til, men det er ikke så veldig mye som lager varme i Samsung Q1. 
+Den lille vifta hører du selvsagt i svært rolige omgivelser, men vi kan ikke akkurat betrakte den som støyende. 
+Temperaturen er også fin. 
+Den her kan du faktisk bruke på fanget uten å sette fremtidige generasjoner i fare. 
+
+Bruksområder? 
+
+Stikkordet for denne maskinen er mobilitet. 
+Bruksområdene er jo litt avgrenset, siden en Celeron M på 900 MHz ikke er all verden i våre dager, og Intels GMA 900 grafikkløsning heller ikke er så mye å skryte av. 
+Ikke det at vi opplevde noen problemer, men vi snakker altså her om en PC for kontorarbeid, medieavspilling og nettbruk, men de fleste har jo allerede en datamaskin eller elektronisk apparat som tar seg av dette. 
+
+Q1 sitt "store" fortrinn er at den er lett å dra med seg. 
+Dessverre går mye av den fordelen bort i at den ikke har skriftgjennkjenning eller DialKeys for norsk tegnsett, noe som i praksis betyr at du må dra med deg et eksternt tastatur hvis du faktisk skal bruke den til å gjøre noe særlig mer fornuftig enn surfing. 
+Og da er det nok kanskje mange som velger en ultraportabel bærbar PC i stedet. 
+
+En mulighet er jo at du ofte bytter arbeidsplass og drar rundt på en bærbar til dokking. 
+Da kan du likegreit bruke en slik Ultramobil PC, hvis du da kan leve med den relativt labre ytelsen. 
+Uansett, med en ekstern skjerm og tastatur/mus (USB/blåtann) vil du får like gode arbeidsvilkår som du har med en stasjonær PC. 
+
+Batterilevetiden målte vi forresten til to timer og tre kvarter. 
+Ikke oppsiktsvekkende bra, men det er så avgjort ikke avskrekkende heller. 
+Men legger du inn en film og vil se hele, er det kanskje like greit å holde seg unna den utvidede versjonen av Ringenes Herre... 
+
+Konklusjon 
+
+Samsung Q1 er en nokså spesiell sak. 
+Det er unektelig et interessant produkt, men vi vet faktisk ikke helt hva vi skal bruke en maskin på denne størrelsen til. 
+Potensialet er der, men ser vi forholdet mellom brukervennlighet (spesielt med norsk språk og dertil manglende muligheter for å skrive inn tekst uten eksternt tastatur), pris, ytelse, størrelse og vekt så er det nok fremdeles litt igjen for at denne UMPCen vil kunne slå an blant massene. 
+Hvis du på den annen side er du teknofil og mener du sårt trenger en slik sak, eller har behov som er litt utenom det vanlige, så er det faktisk ikke noe direkte i veien med denne småtassen fra Samsung. 
+
+Vi gir den en svak firer i karakter. 

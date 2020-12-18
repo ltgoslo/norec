@@ -1,0 +1,36 @@
+Hitachi Deskstar 500 GB
+Hitachi var tidlig ute med sin 500 GB harddisk og vi testet den første gang i august 2005. 
+Nå har det dukket opp nye utgaver. 
+
+Hitachi lanserte sin 500 GB disk på CES i januar 2005, du kan lese vår omtale her. 
+Dermed fikk de et forsprang på 100 GB i forhold til konkurrentene. 
+
+Vi testet den første utgaven i august 2005, det tar som kjent noe tid fra produkter blir lansert på messer til de er å få i butikkene. 
+
+Disken leverte den gang en utmerket ytelse, og var behagelig både med hensyn til støy og varme. 
+
+I dag er den samme disken fremdeles tilgjengelig, men har som de fleste teknologiprodukter blitt oppdatert underveis, uten at basisspesifikasjonene har blitt endret. 
+
+Det har også kommet en nyere utgave, hvor den største forskjellen er dobbelt så stort hurtigminne - 16 MB. 
+Denne er på vei inn til test. 
+
+Men den opprinnelige utgaven er fremdeles tilgjengelig, og vi har testet den om igjen, på oppdatert maskinplatform for å få en oppdatert sammenligning. 
+Det har jo skjedd en del på PC-siden, med nye brikkesett og diskkontrollere siden vi gjorde den opprinnelige testen. 
+
+Den første testen finner du her. 
+
+Ny disk - nye resultater 
+
+Ytelsen var ikke dramatisk forskjellig fra det vi målte for drøyt et år siden. 
+Det som er mest påtagelig er hvor mye jevnere skriveytelsen er. 
+Ved den første testen var det svært hyppige og store utsving, mens dagens test viser en kurve som er like jevn som kurven for lesehastigheten. 
+
+Dette henger sammen med håndteringen av hurtigminnet på disken, hvordan kontrolleren i PCen kommuniserer med dette. 
+Her har det tydeligvis skjedd en del, siden de dramatiske utsvingene er borte. 
+
+Sammenligner vi med Samsung SpinPoint 500GB,så er det en tydelig forskjell i ytelse. 
+
+Når det gjelder støy og varme er Hitachi sin disk beskjeden. 
+Den blir godt håndvarm som vil si ca 42 grader. 
+Støyen er så lav at den ikke er mulig å måle i normale omgivelser, som har en bakgrunnsstøy som er mange ganger høyere enn det disken melder. 
+Legger du øret til, så hører du det surrer svakt når du er ca 10 cm unna. 

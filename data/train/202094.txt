@@ -1,0 +1,79 @@
+TEST:Mac mini som mediesenter 
+
+Joda, den er en slags sjef i stua. 
+Men bare hvis du kommer deg over prissjokket, og videoproblemene. 
+
+Mac Mini har vært en av Apples mest beskjedne maskiner i en årrekke, og fremstilles gjerne som han fyren som gjerne blir sittende alene i et hjørne på julebordet, selv om han har vært i bedriften i årevis. 
+
+Forrige uka ga DinSide aller ferskeste mini en runde i tall-bingen, hvor den blant annet gjorde en habil jobb med å knuse tall i Geekbench. 
+Intet spektatulært, når alt kommer til alt, med unntak av utseendet (som er fantastisk) og prisen (som ikke er fullt så fantastisk). 
+
+I etterkant av tallknusingen har vi plassert minien i stua, i håp om å finne ut hvor bra den duger som mediesenter. 
+
+Innholdsfortegnelse: 
+HDMI-jomfruDVD-rotMediesenter to the rescueKonklusjon Mac mini som mediesenter 
+
+Slik er det dessverre ikke, for det er noe som skurrer her. 
+
+HDMI-jomfru 
+
+Apple er ikke kjent for å være først med flette inn nye standarder i sine produkter, og HDMI-utgang er ikke noe unntak. 
+Minien vi har hatt på besøk denne uka er første Mac noensinne med denne videotilkoblingen, noe som med all tydelighet viser at Apple er klar for å gjøre dette til et stuevennlig mediesenter. 
+
+Det gjør det atskillig enklere å koble maskinen til annet hjemmekinoutstyr, inkludert TVer og hjemmekinoreceivere. 
+Vi brukte ikke veldig lang tid på å tilpasse ut-signalet til TVen, selv om vi måtte justere overskanningen noen hakk i skjermer-kontrollpanelet for å fylle TV-flaten helt. 
+Det er først og fremst den fire år gamle Samsung TVen sin skyld, for på en ferskere Sony TV slapp vi å forholde oss til dette i det hele tatt. 
+
+Støynivået er imponerende, i den forstand at den ikke kan høres når en sitter i sofaen - selv med minien stående oppå TV-benken. 
+Vi har i tillegg presset maskinen til det ytterste, og blant annet konvertert store HD-video-filer i sanntid via den fabelaktige Air Video-serveren uten at vifta gikk raskere enn rundt 26-2700 omdreininger i minuttet (normalen er 1800 omdreininger per minutt) på det meste. 
+
+For de som ikke har noe forhold til slike tall holder det å si at det er imponerende, og selv ikke her blir viftestøyen irriterende eller sjenerende. 
+
+Men så blir ting litt trøblete. 
+
+DVD-rot 
+
+Til prisen synes vi det er en svakhet at Mac mini mangler Blu-ray spiller, her må du nemlig nøye deg med en DVD-rom, og den var vi heller ikke fornøyd med. 
+
+For etter å ha nistirret på noen videofiler, og dessuten spilt av DVDer via miniens interne DVD-spiller, ble det etter hvert klart at det er noe som skurrer. 
+Bittesmå hopp i avspillingen tyder på at avspillingsmekanismen ikke fungerer helt slik den skal, noe som blant annet ble tydelig på panoreringer. 
+
+Det er ikke alle som vil legge merke til disse små hakkene i avspillingen, men bruker du i overkant mye tid på film er vi helt sikre på at du vil se forskjellen på avspilling via minien og en vanlig DVD eller Blu-ray-spiller. 
+
+Vi spilte av en av problemfilmene i vår Blu-ray-spiller til 990 kroner, og der fantes det ikke tegn til hakking eller hopping eller andre ujevnheter. 
+At en såpass dyr maskin som mini ikke er i stand til å konkurrere med en budsjettspiller er overraskende. 
+
+Når en først har lagt merke til disse svakhetene er det vanskelig å ignorere dem, og de ser dessverre ikke ut til å være avgrenset til DVDer. 
+Flere HD-videofiler viste samme tendensene, i det minste når de ble spilt av via Apples egen programvare (Quicktime med Flip4Mac). 
+
+Vi fant løsningen på problemene i gratis mediesenter-programvare. 
+
+Mediesenter to the rescue 
+
+En av de virkelig fine tingene med å lage seg mediesenter er at det finnes mye veldig bra gratisprogramvare. 
+
+Og alle liker gratis. 
+
+Nettopp fordi vi tidlig mistenkte at Apples egen programvare ikke er så flink på videoavspilling som den burde være, i det minste ikke på denne mini-modellen, forsøkte vi å få bort den irriterende småhakkingen ved videoavspilling gjennom tre ulike varianter - Plex, XBMC og Boxee. 
+Sistnevnte er bygget på XBMC, og bød på den hyggeligste overraskelsen. 
+
+Boxee taklet absolutt alt vi prøvde av videoformater, inkludert hakkefri avspiling av noen av problem-DVDene (som vi konverterte til ISO-format), alt presentert i en meget pen pakke. 
+
+Vi har tidligere sett nærmere på Boxee i denne artikkelen, og skal derfor ikke gå i detalj her. 
+Vi nøyer oss med å fastslå at det er rart at vi må ty til tredjepartsprogramvare for å få bukt med videosamlinga, og vi synes det er enda rarere at en 2.4GHz Core2Duo maskin med oppgradert grafikkort og en prislapp på 6.590 kroner har problemer med å spille av visse DVDer uten hakking og hikking her og der. 
+
+Konklusjon 
+Mac mini som mediesenter 
+
+Vi har allerede gitt Mac mini en firer basert på en ren ytelsestest som du kan lese her. 
+
+I denne runden var det imidlertid mediesenter-funksjonen vi var ute etter, og der når den ikke helt opp. 
+
+Er du i stand til å overse problemene vi har nevnt, vil du etter all sannsynlighet bli særdeles fornøyd med Mac mini som mediesenter. 
+Den genererer ikke sjenerende støy, er relativt sett ganske kraftig, og er så elegant som stueelektronikk kan bli. 
+
+Prisen er derimot for høy. 
+
+Hadde Apple klart å presse den under 5.000 kroner ville den solgt omtrent like bra som iskald øl på festival, men når en må ut med nesten 7.000 kroner begynner det virkelig å svi i lommeboka, spesielt hvis du "bare" skal bruke den som mediesenter. 
+
+Nye Mac mini er med andre ord litt her og litt der. 

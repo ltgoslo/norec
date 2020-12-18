@@ -1,0 +1,115 @@
+Samsung Series 7 700Z
+Nær perfekt PC fra Samsung. 
+
+Samsung har de siste årene blitt oftere og oftere forbundet med produkter med meget god design, ikke minst på TV-fronten. 
+Da de tidligere i år lanserte Series 9-PC-en, var det klart at også selskapets datadivisjon virkelig hadde satt design på dagsordenen. 
+
+Maskinen gav klare assosiasjoner til MacBook Air, med sin syltynne design - uten verken harddisk eller optisk drev innabords. 
+Ingen tvil om at Intel hentet inspirasjon fra begge da de definerte den nye PC-kategorien ultrabook i sommer. 
+
+Apple-assosiasjoner 
+
+Series 7 hører derimot ikke til ultrabook-segmentet, men også denne gangen har Samsung laget en PC som designmessig minner om en Mac - nærmere bestemt Macbook Pro. 
+Det er altså snakk om en fullblods PC med Intel Core i-prosessor, med både harddisk og optisk drev, men med noen smarte detaljer som gjør at den skiller seg ut fra den store hurven. 
+
+Og vi sier det med én gang, 700Z har vært en av de mest spennende PC-ene vi har lagt våre klamme hender på denne testsesongen. 
+Forskjellen ligger i detaljene, og her har Samsung truffet spikeren på flere områder: 
+
+Stilren design – slank og glatt utforming uten utstikkende detaljer og nesten uten klistremerker. 
+Børstet metall i lokk og rundt tastaturet, bunnen er i plast, men med samme metalliske preg. 
+Kun ett lokk på undersiden, tydelig merket "Memory" for deg som vil oppgradere fra 6 til 8 GB RAM. 
+
+Tynn ramme – vår test-PC har 14-tommer skjerm, men kabinettet tilsvarer egentlig en 13,3-tommer. 
+I likhet med siste generasjon Samsung-TV-er, har nemlig Series 7 en svært tynn ramme rundt skjermen. 
+Lekkert! 
+
+Høyoppløst, matt skjerm – 1600 x 900 piksler på 14-tommer skjerm gir vesentlig bedre skarphet - og mulighet for flere programvinduer - enn sedvanlige 1366 x 768. 
+Skjermen er dessuten lyssterk, og har gode innsynsvinkler. 
+Lysstyrken dempes automatisk når det er mørkt i rommet. 
+
+SSD integrert på hovedkortet. 
+8 GB integrert SSD sørger for rask oppstart og oppvåkning fra dvale, samt at programmene du bruker mye starter raskere. 
+Dette vil fungere selv om du skulle velge å bytte ut harddisken i maskinen med en annen disk/SSD. 
+
+Godt utrustet 
+
+På innsiden i vår testmodell sitter en Intel Core i5-2430M-prosessor. 
+Når det gjelder best mulig kombinasjon mellom ytelse/pris er dette kanskje det klokeste prosessorvalget i dag. 
+I tillegg har den blant annet en romslig harddisk på 750 GB (7200rpm), hybrid Intel/AMD-grafikkløsning, USB 3.0-port og Bluetooth 3.0-støtte. 
+For full oversikt over spesifikasjonene, klikk her. 
+
+Slik er den i bruk 
+
+Fra du skrur på maskinen til Windows 7 Home Premium er lastet og klar til bruk, tar det ikke mer enn 18 sekunder. 
+Det er ekstremt raskt, vi har knapt sett raskere i våre tester. 
+Dette skyldes i stor grad at PC-en har en hybrid SSD/harddisk-løsning, som tidligere beskrevet. 
+Også når maskinen er i dvalemodus går det relativt kjapt før maskinen er klar til bruk igjen, normalt mellom 3-5 sekunder. 
+
+Chicklet-tastatur med baklys gjør det enkelt å bruke maskinen i mørke. 
+Refleksjoner i skjermen fra baklyste taster er ikke noe problem, siden denne er matt. 
+
+Tastene er dessuten fast, støysvake og tastaturet som helhet er eksemplarisk utformet - med ett lite unntak: 
+Enter-tasten burde gått over to rader, det hadde eliminert denne typen tastefeil: 
+
+Pekeplaten er stor og multberøringsfølsom. 
+De helintegrerte knappene krever muligens litt tilvenning. 
+Personlig har jeg for vane å bruke to hender på pekeplaten, og oppdaget for eksempel at man ikke kan berøre venstre museknapp når man skal høyreklikke. 
+I de fleste tilfellene handler det om (u)vaner, og etter noe bruk hadde vi ikke problemer med løsningen. 
+
+Bra lyd, lite støy 
+
+I skjermleddet sitter et par stereohøyttalere, og disse avgir en lyd som er fyldigere enn hva en normalt opplever fra denne typen PC-er. 
+Til lav bakgrunnsmusikk til arbeidet er dette absolutt akseptabelt, men forvent ikke så mye mer. 
+
+På baksiden av skjermleddet sitter en vifte. 
+Denne summer på svært lave hastigheter i de aller fleste situasjoner, og er dermed knapt hørbar, det er faktisk vanskelig å avgjøre om det er viften eller suset fra harddisken vi hører. 
+Under tung belastning kan du risikere at den spinner opp, men den blir aldri sjenerende - og gir seg så snart belastningen er over. 
+Nok en gang et eksempel til etterfølgelse. 
+
+Maskinen kommer med en del programmer installert, blant annet prøveversjoner av Norton Internet Security og Norton Online Backup. 
+Disse "nag-er" deg litt og ber deg registrere deg for å fortsatt få tilgang etter prøveperioden. 
+Utover dette er utvalget relativt fornuftig - og viktigst av alt - det degraderer ikke bruksopplevelsen som vi dessverre har opplevd på en del av konkurrentene de siste årene. 
+Maskinen oppleves som rask og responsiv. 
+
+God generell ytelse 
+
+Og det leder oss over på ytelsestestene. 
+Først tar vi en titt på Windows' egen opplevelsesindeks: 
+
+Prosessor: 6,9 Minne (RAM): 
+5,9 Grafikk: 
+3,5 Spillgrafikk: 
+6,5 Primær harddisk: 
+5,9 
+
+Grafikk-tall på 3,5 er lavt, og lavere enn hva som er vanlig for Intel HD Graphics 3000. 
+Det er imidlertid ikke noen grunn til å bekymre seg, maskinen takler alt av vårt utvalg av HD-filmer, uten å bli det minste svett. 
+Starter du et spill eller andre grafikkintensive applikasjoner, tar AMD Radeon 6490-grafikkbrikken over, og dette skjer sømløst i motsetning til første generasjon hybride grafikkløsninger. 
+
+Grafikkytelsen er uansett ganske midt på treet, i diagrammet under har vi sammenlignet tall vi fikk i Passmark Performance Test, og sammenlignet mot grafikkløsningen i andre PC-er til rundt 8000 kroner: 
+
+Prosessorytelsen er mer enn nok til det aller, aller meste, men slett ikke enestående sett i forhold til andre maskiner til omtrent samme pris: 
+
+God batterilevetid 
+
+Batterilevetiden er imidlertid svært god. 
+Merk imidlertid at maskinen kommer satt opp til å slutte å lade ved 80% kapasitet. 
+Dette er gjort bevisst for å øke antall ladesykluser (maskinen skal klare mer enn 1000, ifølge Samsung), og kan skrus av hvis ønskelig. 
+
+Hvis du gjør det, viser våre målinger at du kan forvente en batterilevetid på mellom 7 og 8 timer, eller mellom 5 og 6 dersom du stopper på 80%. 
+Dette er meget bra tall, selv om vi har sett bedre tidligere denne sesongen. 
+
+Konklusjon 
+
+Samsung Series 7 er den første PC-en vi har hatt inne denne sesongen der vi stort sett er fornøyd med alle aspekter. 
+De få ankepunktene vi har skissert i oppsummeringen under er langt fra nok til å fravriste maskinen en sekser på terningen. 
+Det er bare å gratulere Samsung med en av årets beste PC-er. 
+
+7 Series dukker opp i butikkene i november, både som 14-tommer og 15,6-tommer. 
+Prisen på vår konfigurasjon ligger på rundt 8000 kroner på lanseringstidspunktet. 
+
+Les også vår test av en åpenbar konkurrent: 
+Dell XPS 15Z. 
+Hele testoversikten finner du her. 
+
+Samsung 700Z3A-S01SE 

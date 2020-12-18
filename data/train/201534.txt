@@ -1,0 +1,112 @@
+SamsungP2 
+
+TEST: 
+Samsung 
+P2 har mange likhetstrekk med superspilleren iPod Touch fra Apple, men kan den måle seg? 
+
+Dingser med trykkfølsomme skjermer er i vinden for tiden, ikke minst på grunn av at det er et voksende ønske fra publikum om størst mulig skjermer. 
+Det finnes en rekke eksempler på slike produkter, mest oppmerksomhet har det vært rundt iPhone og iPod Touch fra Apple, men også HP har markert seg med sitt nye lommekamera med svær skjerm i sommer. 
+
+I august annonserte Samsung sin nye trykkfølsome mediespiller P2, og selv om tankene i dag umiddelbart ledes mot iPod Touch, ble faktisk Samsung-spilleren annonsert flere uker før nyheten om iPod Touch ble offentliggjort. 
+Det er på ingen måte noen kopi det her er snakk om altså, men likhetstrekkene er der. 
+
+Samme kvalitetsinntrykk 
+
+P2 er en del mindre og lettere enn Touch, og har også mindre lagringskapasitet. 
+Men den speilblanke, glatte, sorte overflaten og den store trykkfølsomme skjermen gir oss noenlunde samme kvalitetsinntrykk. 
+Hele fronten er av et glasslignende materiale, mens baksiden er av metall. 
+
+Her er en rask oversikt over egenskapene: 
+
+Samsung YP-P2 
+- Sort eller hvit utførelse - 16:9-skjerm på 3,1 tommer (480 x 272 piksler) - 2, 3 og 8 GB kapasitet 
+- Støtter musikkformatene MP3 og WMA (inkl DRM) 
+- Støtter videoformatene MPEG4 og WMV 
+- Støtter bildeformatet JPG - FM radio 
+- Diktafon* - Tekst-leser 
+- Bluetooth-støtte - Kalender, klokke, alarm - 35 timer batterilevetid (musikk) - 5 timer batterilevetid (film) - 100 x 52 x 9,9 (mm) - 79 gram 
+
+Som vi ser av listen har P2 flere egenskaper som mangler på Touch, viktigst er FM radio, diktafon* og bluetooth-støtte. 
+Touch på sin side har støtte for WLAN, Internett og streaming av video fra Youtube - blant annet. 
+Formatstøttene avviker også, iPod mangler støtte for WMA/WMV mens P2 mangler støtte for AAC/Quicktime. 
+
+Bluetooth-støtten kan brukes i forbindelse med trådløse øretelefoner samt overføring av filer mellom enheter. 
+Den enkleste overføringen av filer fra PC er imidlertid via USB, og da lades samtidig spilleren. 
+Fullt oppladet batteri etter 2,5 timer er ikke verst, og batterilevetiden er heller ikke til å kimse av. 
+
+Smartere lydjustering 
+
+På siden av spilleren finnes volumkontrollen, noe vi setter stor pris på. 
+Dermed kan du justere lydnivået uansett om du skulle befinne deg dypt inni menyene, noe som ikke er mulig på iPod Touch - der du må bruke den trykkfølsomme skjermen til justering av lydnivået. 
+
+På motsatt side sitter av/på-knapp og en play/pause-knapp. 
+For øvrig betjenes spilleren i sin helhet via den trykkfølsomme skjermen. 
+Da vi skrudde på spilleren første gangen viste bare noen av menyvalgene, og ved å dra pekefingeren lett over flaten vertikalt, dukket det opp flere valg - akkompagnert med digitale lydeffekter. 
+Stilig kanskje, men vi likte bedre den klassiske menyen som vi enkelt kunne bytte til fra innstillingsmenyen. 
+
+Enkelt og intuitivt 
+
+De norske undermenyene er særdeles enkle å navigere, og betjeningen sitter i fingrene nærmest umiddelbart. 
+Et klikk med pekefingeren på et menyvalg markerer, ett klikk til åpner. 
+Enkelt og intuitivt. 
+Returknappen ligger hele tiden nederst til venstre, og holder du fingeren på denne ett par sekunder, kommer du tilbake til hovedmenyen. 
+Under avspilling av media vil du ved å dra fingeren horisontalt over skjermen kunne skifte spor eller spole (kan konfigureres), men vi ser ikke den store verdiene av dette. 
+
+Du finner flere forskjellige innfallsvinkler til mediesamlingen din, og du kan også lage spillelister direkte på spilleren. 
+Vi gir ekstra pluss for at du i tillegg kan bla gjennom innholdet på mappe/filnivå, noe som blant annet er nyttig på samlinger som mangler tagger, for eksempel. 
+
+Bevegelsene er ikke så animerte, elegante og glidende som på iPod Touch, men betjeningen er minst like brukervennlig. 
+
+Svært god skjerm 
+
+Skjermkvaliteten er formidabel, med svært god kontrast, skarphet og fargegjengivelse - helt på høyde nok en gang med iPod Touch. 
+Det er en fryd å se filmer på denne skjermen. 
+
+Det eneste vi ikke liker er at konverteringsprogrammet som følger med er avhengig av spesielle kodeker for å konvertere videoer du har liggende på PCen, selv om du har installert støtte for avspilling/dekoding av disse fra før. 
+Det kan muligens skape problemer for enkelte, men fungerte greit i vårt tilfelle. 
+
+Et par ankepunkter 
+
+*Vi støtte imidlertid på en litt underlig sak under testingen - spilleren har mikrofon på undersiden, og det står også i spesifikasjonene at spilleren har støtte for lydopptak. 
+OK, men hvor er menyvalget for denne funksjonen? 
+Vi fant den i hvert fall ikke, og instruksjonsboken sier heller ikke noe om den. 
+
+En annen detalj å sette fingeren på(!) er at hovedmenyen er engelsk, selv om vi har valgt norsk språkdrakt. 
+Undermenyene er heldigvis norske. 
+
+Forhåpentligvis er dette ting som kan fikses med fremtidige firmware-oppdateringer. 
+
+Kan brukes uten ekstra programvare 
+
+P2 kobles til PCen via den medfølgende USB-kabelen, som dessverre er proprietær i enden som kobles i spilleren. 
+Derfor må du ta godt vare på den, ellers får du verken ladet eller overført musikk til spilleren. 
+
+Samsung Media Studio 5 som følger med kan brukes til organisering og overføring, men du kan også bruker Windows Media Player eller Windows Utforsker for den saks skyld. 
+P2 dukker nemlig opp som en enhet i Utforsker, og da er det bare å dra og slippe filer til de riktige mappene på spilleren, og vice versa. 
+
+Overføringshastigheten ligger på rundt 3 MB i sekundet. 
+Det er ikke oppsiktsvekkende raskt, tatt i betraktning at P2 støtter USB 2.0 HiSpeed, så her er det nok skrivehastigheten til flashminnet som er flaskehalsen. 
+
+Lyden i sentrum 
+
+Synes du ikke overføringen går raskt nok, kan det være en idé å krympe filene først. 
+Vi oppdaget nemlig ved en tilfeldighet at spilleren støtter WMA PRO-formatet, som gir akseptabel lyttekvalitet på svært små filer, 48-64 kbps. 
+Bruker du Windows Media Player 11 kan du enkelt konvertere CDene dine til dette formatet eller komprimere musikkfilene i det de overføres til spilleren. 
+
+Men den beste lyden får du naturligvis ikke med mindre du velger høyere bitrater, samt noen andre propper enn de medfølgende, eller aller helst øreklokker. 
+Når det er sagt er lydkvalitetene slett ikke verst i de medfølgende proppene. 
+11 forhåndsinnstilte equalizer-innstillinger og ikke minst DNSe-forbedringene som bare er et lite tastetrykk unna, gjør også at lytteopplevelsen kan bli meget bra uten behov for ekstra investeringer. 
+
+Radioen fungerte dessuten utmerket på steder med god dekning, men i vårt kontorlandskap på Mølleparken i Oslo var det mye sus, her har vi testet flere som har vært klarere, blant annet radioen på Sony S610. 
+
+Konklusjon 
+
+Vi liker P2 bedre og bedre jo lengre vi bruker den, og med unntak av småplukket vi har kommentert underveis, er dette en av de klart beste spillerne vi har testet i år. 
+Samsung har rett og slett gjort en flott jobb med P2, og for alle som ønsker et alternativ til iPod Touch som fungerer uten iTunes og andre spesialprogrammer: værsågod. 
+
+Det er imidlertid grunn til å sette spørsmålstegn ved lagringskapasiteten. 
+I disse dager dukker det opp flashbaserte spillere med både 16 og 32 GB kapasitet, mens P2 kun finnes i 2, 4 eller 8 GB-utgaver. 
+Det skal imidlertid ikke forundre oss mye om det dukker opp større kapasiteter etter hvert. 
+Prisen på 4 GB-utgaven ligger på rundt 1.600 kroner, mens 8 GB-utgaven har vi sett til rundt 2.000 kroner. 
+
+Du finner flere tester av spillere lengre nede på denne siden. 

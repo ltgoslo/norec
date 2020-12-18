@@ -1,0 +1,86 @@
+TEST:Asrock Vision 3D 
+
+Mac mini er liten og lekker, men mangler Blu-ray og 3D-støtte. 
+Det får du derimot her, og vi har testet hvordan det fungerer. 
+
+Asrock har flere miniPC-er som er beregnet på stuebruk, med et design som gjør at den skal tåle å bli sett. 
+Vision 3D tar et par skritt lenger enn den forrige varianten Core 100 som vi testet tidligere, med et langt mer elegant kabinett. 
+
+Utseendet er ikke helt uten et skråblikk til Mac mini, men den er en del større, både i fotavtrykk og høyde. 
+Utførelsen er matt bortsett fra den litt skålformede topplaten som er skinnende blank. 
+Maskinen finnes i sort eller sølv. 
+
+Bygg eller bestill 
+
+Maskinen er en barebone, som vil si at den fås kjøpt uten prosessor, minne og lagringsmedier. 
+Disse kan du velge blant kompatible komponenter og montere selv eller få forhandleren til å gjøre jobben. 
+Vårt testeksemplar har vi lånt fra Multicom. 
+
+Maskinen er basert på Intel-teknologi, og du kan velge en prosessor i Core i-serien med 1156 sokkel. 
+Det er to minneplasser for DDR3 1066 MHz, maks kapasitet er 8 Gb. 
+
+Det er plass til en 2,5-tommers harddisk (eller SSD) og et optisk drev. 
+Enda er det en ledig SATA-kontakt på hovedkortet, men egentlig ingen plass i kabinettet til noe å koble den til. 
+Med litt egenmekking kan man antagelig få plass til både en SSD og en harddisk der hvor disken sitter. 
+
+Den leveres med Blu-ray drev eller DVD super-muliti, og det er bare mulig å bruke en slot-in utgave (uten skuff). 
+
+Foran og bak 
+
+I fronten er det tilkoblinger for hodetelefoner og mikrofon, to USB 3.0-kontakter, kortleser for MMC/SD/MS/PRO og av/på bryter. 
+
+På baksiden er det kontakt for den eksterne strømforsyningen, optisk og analoge lydutganger, gigabit nettverkskontakt, USB 2.0 og USB 3.0-kontakter, DVI, eSATA, HDMI og fire USB 2.0 kontakter. 
+En åpning for Kensingtonlås finner vi også, ved siden av knappen som løser ut lokket. 
+Godt med tilkoblinger til de fleste behov, altså. 
+
+Testresultater 
+
+Maskinen vi fikk på testbenken var utstyrt med en Core i3-370M prosessor, 4 GB DDR3 1066MHz RAM, NVIDIA GeForce GT425 3-D kapabel grafikk, 500 GB harddisk og Blu-ray optisk drev. 
+
+Vi målte ytelsen med Geekbench: 
+
+Windows opplevelsesindeks viste 5,9, restultatet ble trukket ned av disk- og minneytelse. 
+
+PCMark Vantage ga 5998 PCMarks, en god og typisk score for denne konfigurasjonen. 
+
+Vi sjekket også sanntidsresponsen med DPC, en test den passerte med glans. 
+
+I bruk 
+
+Maskinen utmerker seg med å være svært kjapp i oppstart, den kan startes med fjernkontrollen som også tar seg av all styring av MediaCenter funksjonene. 
+
+Både kald oppstart og oppvåkning fra dvale er rask, fra dvale snakker vi om ca 8 sekunder til du har kontroll på desktoppen. 
+
+Asrock har en spesiell dvale/oppstartsrutine, som hopper over en del av prosessene som vanligvis skjer i Windows. 
+Den gjør at du kommer rett til desktoppen i løpet av sekunder når maskinen vekkes opp, forutsatt at det ikke er satt opp passord og flere brukeroppsett på maskinen. 
+
+Generelt er maskinen støysvak, men ikke helt lydløs, det er prosessorviften og det optiske drevet som høres. 
+Men om dette vil sjenere under filmavspilling med litt volum på lydanlegget er heller tvilsomt. 
+
+Avspilling av Blu-ray var helt utmerket, det følger med en egen versjon av PowerDVD som støtter dette. 
+Med både optisk og analoge utganger får du surroundlyd enten du har PC-anlegg eller kobler maskinen til TV og surround i stua. 
+
+Du kan koble til og bruke to skjermer samtidig, f.eks. TV på HDMI og en vanlig PC-skjerm på DVI-kontakten, eller to PC-skjermer. 
+
+Maskinen har HDMI 1.4a og støtter 3D hvis du har en TV som håndterer dette. 
+Du kan velge styringsenhet med aktive briller (ekstrautstyr) eller bruke rød/grønne briller som følger med. 
+Vi fikk ikke testet dette. 
+
+Til vanlig PC-bruk er maskinen utmerket, til de aller heftigste skytespillene i full oppløsning er den ikke helt på høyden, men stilt inn med litt lavere oppløsning er den svært brukbar for de fleste. 
+
+Også til mer krevende oppgaver kommer man langt, inkludert videoredigering av AVCHD. 
+
+Konklusjon 
+
+Maskinen er kompakt og elegant og håndterer det meste for de fleste. 
+Med både eSATA og USB 3.0 kan du koble til mye ekstern lagring uten å skape flaskehalser. 
+Det eneste du ikke kan bruke er utstyr som krever FireWire, der er det ingen muligheter. 
+
+For å få en optimal stue-PC opplevelse kreves det at man tilpasser bruken med sine favorittprogrammer. 
+Her er det mange muligheter, og ingen produsenter har noe som tilfredsstiller alle. 
+
+Men maskinvaren fra Asrock vil uansett kunne spille sammen med dette, den har ytelse på alle områder som teller. 
+
+Takk til Multicom for utlånet av PC-en! 
+
+ASRock Vision 3D 137B 

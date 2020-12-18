@@ -1,0 +1,61 @@
+AMD Athlon II X4 635
+Vi har testet den kraftigste Athlon-prosessoren på markedet. 
+
+AMD har i skrivende stund lite å stille opp med mot de raskeste Intel-prosessorene på markedet, i hvert fall hva angår ytelse. 
+Det virker som om det viktigste for AMD nå er å posisjonere seg i markedet for prosessorer som gir mest ytelse for pengene. 
+Selv den kraftigste Phenom II-prosessoren på markedet, Phenom II X4 965, fås til rundt 1500 kroner i norske nettbutikker. 
+
+Og hvis du synes det er for mye, får du firekjerners Athlon II-prosessorer til 7-800 kroner. 
+Den største forskjellen mellom Athlon II- og Phenom II-prosessorene er mindre L2-hurtigminne, noe som kan påvirke ytelsen negativt i enkelte situasjoner. 
+
+Les også: 
+
+Tusen kroner for toppmodellen 
+
+Den dyreste Athlon II-prosessoren koster i skrivende stund rundt 1000 kroner i nettbutikker vi har sjekket. 
+Den heter Athlon II X4 635, og kjører på 4 kjerner x 2,9 GHz. 
+Strømforbruket er maks 95W. 
+
+Disse prosessorene passer i hovedkort med såkalt AM3-sokkel, men passer også i en del hovedkort med sokkel av typen AM2+. 
+Her er det brikkesettet og BIOS som eventuelt setter begrensningene. 
+Vi installerte Athlon-toppmodellen i et sylferskt hovedkort fra Gigabyte, 890GPA-UD3H, som både støtter USB 3.0 og er utstyrt med grafikkbrikken Radeon HD 4290, som skal duge til ganske krevende grafiske oppgaver. 
+
+Dette kortet koster også rundt 1000 kroner, og da har man altså et godt og fremtidsrettet utgangspunkt å bygge PC på for 2000 kroner. 
+
+Videre utstyrte vi hovedkortet med 4 GB DDRIII-minne og installerte 64-bits Windows 7 Ultimate. 
+
+Meget lav temperatur ved moderat belastning 
+
+Prosessorkjøleren som følger med har egen temperatursensor, og regulerer viftehastigheten ved behov. 
+Det viste seg at temperaturen under lav belastning lå på under 30 grader, og viften var knapt hørbar i vårt miditower testkabinett. 
+Kabinettet hadde én 12 cm vifte som trekker varme ut av kabinettet. 
+
+Vi kjørte deretter noen tester som medførte 100% prosessorbelastning, og nå økte både turtall og varmeutvikling relativt mye, men uten at vi følte at støyen ble sjenerende. 
+
+Vi har tidligere berømmet AMD for å lage svært kjølige prosessorer, ikke minst modellen AMD Phenom II 905e - som ifølge Windows 7 har en ytelse som ligger svært nært Athlon II 635: 
+
+Windows opplevelsesindeks strekker seg fra 1.0 til 7.9 
+
+I klartekst betyr dette at begge prosessorer byr på en ytelse i nær sagt alle situasjoner som innebærer svært lite venting - også når man kjører flere og tunge operasjoner samtidig. 
+
+Bedre enn storebror 
+
+Ved å kjøre ytelsestestene til Passmark viste deg seg imidlertid at Athlon II-prosessoren gjorde det skarpere på de fleste punkter, til tross for at den er noen hundrelapper billigere enn Phenom II-prosessoren: 
+
+Hvordan er så ytelsen på Athlon II i forhold til Intel-prosessorer i samme prisklasse? 
+Passmark-oversiktene sier oss følgende: 
+
+AMD henger med, og koster ca 100 kroner mindre enn Q8300 fra Intel, som byr på omtrent identisk ytelse. 
+Tokjerne-prosessoren E7500 er håpløst akterutseilt, mens nykommer Core i3, som representerer et nytt kapittel Intel-prosessorer, foreløpig ikke helt matcher ytelsen pr krone. 
+
+Ved å utstyre begge prosessorene med en billig kjøler fra Akasa som kjørte konstant på ca 900 omdreininger - uansett belastning, kunne vi se at Athlon II-prosessoren ble temmelig mye varmere enn den energigjerrige Phenom II 905e: 
+
+Ut fra dette forstår vi at avhengig av hvilken utlufting som sitter i kabinettet, kan det føre til noe mer variabel viftehastighet med Athlon II 635 med originalviften, enn Phenom II 905e, og dermed også støynivå - men vi tror ikke dette vil være særlig merkbart i et normalt kontor- eller hjemmemiljø. 
+
+Konklusjon 
+
+AMD Athlon II X4 635 byr på god ytelse i de fleste situasjoner, og bør absolutt vurderes dersom du er ute etter en stille allround-PC som ikke blir en sinke dersom du plutselig får lyst å rippe blu-ray-video, spille eller redigere HD-filmer. 
+
+Intel byr imidlertid på samme ytelse med sin Core 2 Quad Q8300, som koster nesten like lite. 
+Intel har et godt grep om markedet for tiden, og derfor tror vi at prisen på Athlon II 635 bør ned enda noen kroner for å overbevise det store publikum. 
+Her har muligens AMD mer å fare på blant de enda billigere prosessorene. 

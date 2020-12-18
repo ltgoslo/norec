@@ -1,0 +1,79 @@
+KiSS DP-1100
+TEST: 
+Den skjules nesten under et A4-ark, men den lille DVD-spilleren fra KiSS Technology støtter flere formater enn de fleste andre DVD-spillerne på markedet. 
+
+Danske KiSS Technology har i flere år vært en av markedets mest innovative produsenter av DVD-spillere. 
+De var blant annet først ute med en MP3-kompatibel spiller, og senere også først med DivX-støtte. 
+Vi har testet en rekke av disse spillerne, og har tidvis vært meget imponerte, selv om det ofte har vist seg å være en god del "barnesykdommer" knyttet til spillerne, blant annet når det gjelder stabilitet. 
+
+Heldigvis har selskapet vært flinke til å legge ut gratis oppgraderinger av den interne programvaren etter hvert som feilene har vært oppdaget, og de største problemene har etter hvert blitt ryddet av veien hos de fleste modellene. 
+
+Liten og rimelig 
+
+KiSS DP-1100 er en ny, rimelig DVD-spiller fra selskapet. 
+Eller rettere sagt, en multimediespiller. 
+
+Listen over støttede formater er nemlig meget lang, både når det gjelder video- og lydavspilling. 
+En interessant detalj er at den støtter oppskalering av bildet til HD-format 1080i, noe som kan gi et bedre bilde dersom du har en TV som støtter standarden. 
+
+Utforming 
+
+Selve spilleren er meget kompakt, overflaten er så vidt større enn et A4-ark. 
+I fronten er det bare to knapper, play/pause og stop/eject. 
+Under DVD-skuffen er det et info-panel som blant annet viser tiden under avspilling. 
+
+Det første vi reagerte på var det sterke blå lyset som kom fra de to knappene når spilleren er påslått. 
+Det viste seg umulig å skru av, ironisk nok kan du justere lyset i info-panelet, men ikke de to knappene. 
+Lyset er så sterkt at du kan se noe av innmaten i spilleren gjennom den mørke plastfronten, og gir spilleren et prototype-preg. 
+
+I bruk 
+
+Tilkobling til TV gjør du via scart (RGB), component (RGB), S-video, eller via kompositt-utgangene. 
+Vi brukte førstnevnte, noe som gav et meget bra bilde (ved DVD-avspilling) på vår 42-tommer LG 42PX3RV. 
+
+Menyene kommer på norsk, og er etter vår mening blant markedets beste og mest oversiktlige. 
+Første gang du starter spilleren blir du ledet gjennom oppsettet, og her trenger du slett ikke være noen ekspert. 
+
+Som nevnt gav DVD-filmer gode bilder, men vi savner noen funksjoner ved DVD-avspilling, mest en resume-funksjon. 
+Kommer du i skade for å trykke Stop under avspillingen, må du starte avspillingen forfra igjen. 
+Dette har vi påpekt ved flere tidligere KiSS-tester, og vi er litt forbauset over at dette fortsatt ikke er fikset. 
+
+Setter du inn en brent plate (CD/DVD) med musikk-, video- og bildefiler på, vises mapper og filer i en struktur ikke ulik Windows Explorer. 
+Lange filnavn og norske tegn vises korrekt. 
+Navigering skjer ved hjelp av fjernkontrollens fire navigasjonsknapper og OK-knappen i midten. 
+
+Format-test 
+
+Støtten for Xvid/DivX-avspilling er blitt "moden", og start, spoling og opphenting fungerte upåklagelig, men vi må innrømme at lysten til å se en helaftens spillefilm i DivX-format på vår nye, store TV, er begrenset. 
+Undertekster i .srt-format ble også vist automatisk og korrekt. 
+
+Spilleren støtter også det mer sofistikerte MPEG4-formatet Nero Digital, som blant annet kan inneholde kapitler og undertekster. 
+Her var resultatene mer ymse. 
+Spesielt undertekstene viste seg å være problematiske å vise korrekt, den var som regel justert for langt ned i bildet til at den ble lesbar. 
+Skifte av kapitler tok flere sekunder, og ved et par anledninger frøs avspillingen totalt. 
+I de tilfellene måtte vi dra ut strømkontakten, fordi spilleren ikke har noen "hard reset" knapp. 
+
+Avspilling av musikk i formatene WMA, MP3 og Ogg Vorbis fungerte uten problemer. 
+ID3-tagger støttes imidlertid ikke. 
+Du kan ikke programmere rekkefølgen, og heller ikke spille av filene i tilfeldig rekkefølge. 
+Du kan imidlertid gjenta én sang eller alle sangene i en mappe. 
+Lydfiler i Nero AAC-format (MP4) ble også avspilt, men med svart skjerm - sannsynligvis fordi spilleren behandlet dem som videofiler. 
+
+Spilleren støtter også bildefiler i JPG-format, og slide-show startes automatisk. 
+Hvis du ønsker å betrakte et bilde i mer enn de få sekundene det vises, kan du trykke på pause-knappen. 
+Små bildefiler (under 1 MB) anbefales. 
+Grunnen er enkel. 
+Dersom bildefilen er stor, tar det lengre tid å dekode bildet, og resultatet kan bli at bildet bare vises i et glimt før spilleren går videre. 
+
+Flere tekniske data 
+
+Konklusjon 
+
+Joda, til tross for lav pris, DP-1100 gjør jobben stort sett bra. 
+DVD-kvaliteten er upåklagelig. 
+DivX og musikk dekodes også uproblematisk. 
+Nero Digital er fortsatt problematisk, men vi regner med at dette fikses i fremtidige firmware-oppgraderinger. 
+Vi likte ikke de blå lysene i fronten, manglende resume-funksjon, og at vi måtte dra ut kontakten for å få nullstilt spilleren de gangene vi opplevde at den låste seg. 
+Likevel: bra valuta for pengene. 
+
+Flere bilder fra menyene 

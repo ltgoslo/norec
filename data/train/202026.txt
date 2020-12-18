@@ -1,0 +1,109 @@
+Sony Vaio T13
+Vi har testet Sonys første Ultrabook, her er våre inntrykk. 
+
+Til tross for at PC-er i Ultrabook-segmentet ikke har solgt så godt som Intel og produsentene kanskje har håpet, er det liten tvil om at det er på dette området det skjer mest spennende for tiden. 
+Nå har også Sony kastet seg inn i kampen om kundenes gunst. 
+
+Eller, for å være helt korrekt: 
+Sony er slett ikke ukjent med ultratynn-segmentet, vi husker spesielt godt vårt første møte med Vaio X i 2010. 
+Den gangen var ikke Vaio-serien å få i norske butikker, til vår store fortvilelse. 
+På det tidspunktet var nemlig PC-en ekstremt elegante i forhold til nær sagt alt av konkurranse som var å oppdrive her på bjerget. 
+
+Sent på banen 
+
+Sony har opplevd mange nedturer de siste årene, og det lukter litt mindre offensivt av selskapets PC-divisjon i juli 2012 enn for to år siden. 
+Det har for eksempel tatt lang tid før T13, selskapets første ekte Ultrabook, dukket opp i butikkene. 
+Det skjedde i juni, og mens konkurrentene fokuserte på andre generasjon Ultrabook-maskinvare, var den første T13 basert på første generasjon. 
+
+Men allerede nå er T13 oppgradert, med Intel Core i5-3317U (Ivy Bridge) prosessor og tilhørende Intel HD 4000-grafikk. 
+
+Nå foregriper vi begivenhetene litt her. 
+La oss først se på de viktigste spesifikasjonene: 
+
+13,3" blank LED-baklyst skjerm, 1366x768 piksler Intel Core i5-3317U prosessor Intel HD 4000 grafikk 4 GB RAM (maks 8) 320 GB hybrid harddisk/ 20 GB SSD 1 x USB 3.0-port, 1 x USB 2.0-port HDMI og VGA-utganger Gigabit LAN a/b/g/n trådløst nett (Atheros brikke) Windows 7 Home Premium 64-bit Mål: 323 x 226 x 17.8 mm Vekt: 
+1,526 kg Pris denne konfigurasjonen: ca 7000 kr 
+
+Ved første øyekast ikke noe som er bemerkelsesverdig verken ene eller andre veien, det måtte være at vekten er litt høyere enn på de fleste 13,3"-konkurrentene, som normalt ligger på 1,3-1,4 kg. 
+Men Sony har et lite ess i ermet, de har nemlig fullstørrelses tilkoblinger for skjerm og nettverk, der konkurrenter som Asus og Samsung krever overganger. 
+
+Merk også at minnet er oppgraderbart, noe ikke alle konkurrentene gir deg muligheten til. 
+
+Selve chassiset består av aluminium/magnesium og plast. 
+Hele undersiden er av plast, noe som drar den totale kvalitetsfølelsen noe ned, men for øvrig er det lite å utsette på Sonys løsninger på design. 
+Lokket har en børstet metallook, og det hele er riktig så lekkert. 
+
+Den samme følelsen får vi når vi åpner lokket, det hele er stilrent og pent. 
+Tastaturet er av chicklet-typen, og er svært godt å skrive på. 
+Det avgir minimalt med støy, og er kontant og fast. 
+Vi liker også godt at piltastene står for seg selv. 
+Tastaturet er imidlertid ikke baklyst, noe vi absolutt hadde sett på som en fordel. 
+
+Spesialtaster finner vi tre av, den ene åpner nettleseren, den andre er programmerbar, mens den tredje åpner en "troubleshoot"-side som vi finner noe mangelfull, dessverre. 
+Vi hadde i hvert fall ikke klart å løse noen problemer med den informasjonen vi fant der. 
+
+Pekeplaten har integrerte knapper, og fungerer bra, selv med venstre pekefinger hvilende på den, slik vi har til vane å gjøre. 
+Den er noe mindre enn på mange av konkurrentenes Ultrabooks, uten at vi ser noe problem med det - overhodet. 
+
+Skjermen er blank og lyssterk, men langt fra like bra som på de nyeste Ultrabookene fra Samsung og Asus, som dog er noe dyrere maskiner. 
+Det merkes blant annet på innsynsvinklene, der disse to for øyeblikket er i en særklasse. 
+Merk også at den blanke skjermen gir mye gjenskinn, noe som kan være irriterende. 
+Både Samsungs nye 9-serie og Asus UX31A har matte skjermer - med høyere oppløsning. 
+
+Lyd er imidlertid noe Sony og T13 er gode på. 
+Alt er selvfølgelig relativt, men i forhold til konkurrentene er lyden på T13 helt i toppklasse. 
+Det betyr grei lyd med litt bass til bakgrunnsmusikk og radio mens du jobber, til alt annet velger du eksterne høyttalere. 
+
+Alle tilkoblingene sitter på sidene, og er lett tilgjengelig. 
+
+Vår testmaskin var utstyrt med en 320 GB hybrid harddisk/SSD, men den leveres også med ren SSD for optimal lese/skriveytelse, mindre strømbruk og varmeutvikling. 
+Det går på bekostning av plassen, for største SSD den kan leveres med er på 128 GB. 
+
+Rask oppstart 
+
+SSD-delen sørger imidlertid for at programmer du kjører ofte, starter raskt. 
+Oppstart av maskinen er også vesentlig raskere enn de fleste PC-er med vanlig harddisk, vi målte 24 sekunder. 
+De fleste SSD-baserte ligger på underkant av 20 sekunder, mens Samsungs nye 9-serie var nede på 12. 
+
+Maskinen virker bra konfigurert, og oppleves som ganske kjapp i de fleste situasjoner. 
+Vi setter et lite spørsmålstegn ved valget av sikkerhetspakken fra McAfee. 
+Denne pakken er sikkert effektiv mot de fleste trusler, men er også blant dem som "gjør mest av seg" med varsler i øst og vest, og som vi også har sett har bremset hele systemet i enkelte situasjoner. 
+
+Og Sonys egen snarveilinje som dukker opp når du beveger musepekeren mot toppen av skjermen, er fancy og fin - men også forstyrrende, da den legger seg over programvinduet. 
+Slike elementer kan man selvfølgelig fjerne om man ikke helt ser nytten av dem. 
+
+Og vi kan ikke gå videre før vi sier noen ord om det som kanskje er den største innvendingen vi har mot denne maskinen; den har en nervøs vifte som starter i tide og utide, uten at vi helt ser noen grunn til det. 
+Selv når maskinen står uten å ha noe å gjøre, starter og stopper den, noen ganger surrer den raskere, andre ganger tregere. 
+Rett og slett et irritasjonsmoment når det ellers er stille rundt deg. 
+
+Ytelsestestene 
+
+Windows egen opplevelsesindeks sier følgende om ytelsen. 
+Husk at her går skalaen fra 1.0 (tregest) til 7.9 (raskest): 
+
+Prosessor: 6,9 Minne (RAM): 
+5,9 Grafikk: 
+4,6 Spillgrafikk: 
+6,2 Primær harddisk: 
+5,9 
+
+Av en eller annen grunn får PC-en dårligere score på grafikkytelse enn Samsungs nye 9-serie, selv om prosessor og den integrerte grafikken er den samme. 
+
+Passmark PerformanceTest 7.0 gir oss mer kjøtt på benet, og diagrammene under forteller om hvordan prosessor, grafikk- og diskytelse er i forhold til en del konkurrenter vi har testet den siste tiden. 
+
+Det siste målepunktet er batteritiden. 
+Her skryter Sony av at du kan bruke maskinen i inntil 7 timer. 
+Vel, det fikk ikke vi til. 
+Selv med minimal belastning holdt ikke batteriet ut i mer enn 6,5 timer, og ved kontinuerlig videoavspilling holdt det ut i litt over 4. 
+Det betyr at du kan regne rundt 5 timers brukstid mellom to ladinger, noe som i beste fall kan omtales som middels lenge i Ultrabook-sammenheng. 
+
+Konklusjon 
+
+Sony Vaio T13 har en meget fin design og et av de beste tastaturene i klassen. 
+Vi setter dessuten stor pris på at den har full størrelse på tilkoblingspunktene, og på de innebygde høyttalerne - som er blant de bedre vi har hørt på Ultrabooks. 
+Pris i forhold til spesifikasjoner er heller ikke så ille. 
+
+Det vi ikke liker er først og fremst noe viftestøyen og en batteritid som vi hadde håpet hadde vært bedre. 
+Får Sony rettet på dette til neste gang, er ikke veien til en femmer på terningen veldig lang. 
+
+(Pris på vår konfigurasjon er ca 7000 kroner. 
+Du finner oversikt over de forskjellige konfigurasjonene og prisene hos prisjakt.no) 

@@ -1,0 +1,113 @@
+Pentax K100D
+TEST: 
+Med en prislapp på under seks tusen kroner, kan K100D fra Pentax være et godt alternativ for førstegangskjøpere av speilrefleks. 
+Vi har testet! 
+
+Tidligere i år annonserte Pentax sin nye K-serie; en videreføring av *ist-serien som har vært på markedet siden 2003. 
+De billigste kameraene, K110D og K100D, er helt identiske med unntak av én ting: 
+K100D har innebygget bildestabilisator i kamerahuset, som gjør at det fremstår som en svært attraktiv løsning for førstegangskjøpere. 
+Storebroren, K10D, er et prisgunstig, værbestandig kamera som vi også vil teste om ikke lenge. 
+
+I likhet med sine forgjengere i *ist-serien er K100D et ganske kompakt speilreflekskamera. 
+Det er ikke det minste på markedet, men størrelsesmessig ganske likt Canon EOS 400D, som vi har testet tidligere i høst. 
+CCD-brikken er den samme som sitter i blant annet D40 og D50 fra Nikon og byr på seks megapikslers oppløsning med en cropfaktor på 1,5. 
+Kameraet har en Pentax KAF bajonett, som gjør at du kan bruker objektiver av typen KAF2, KAF og KA. 
+K-objektiver kan brukes med noen begrensninger, og S- og 67/645 med adapter. 
+
+Kamerahuset kan enten kjøpes frittstående, eller med et kit-objektiv på 18-55 (27-82,5)mm med blender på f/3,5-5,6. 
+Det er dette objektivet vi har brukt under testingen av K100D. 
+
+Kameraet ligger godt i hånda, og selv om det er lite, er grepet tykt nok til at også de med litt større hender får et godt tak. 
+Overflaten er ruglete, men kameraet er såpass lavt at de fleste nok vil foretrekke å plassere lillefingeren på undersiden av kameraet. 
+På tross av det kompakte designet har Pentax gitt oss to skjermer på denne modellen - en LCD-skjerm på 2,5" på baksiden, og en LCD-"kalkulatorskjerm" på toppen. 
+LCD-skjermen på baksiden har en oppløsning på 210.000 piksler og har meget god innsynsvinkel. 
+
+Skjermen på toppen viser gjeldende blender og lukker, gjenstående batteri, antall bilder igjen på minnekort, blitsinformasjon m.m., men ikke like mye som hos tilsvarende skjerm på Nikon D80. 
+Det skal nevnes at batteriindikatoren er meget upresis - selv opplevde vi å få "battery depleted"-feilmelding selv om indikatoren bare sekunder før hadde antydet at batteriet var fulladet (to streker av to mulige), og med lite batteri igjen er det litt "hipp som happ" om du får tatt bilde eller ikke - slå av og på, så får du alltids tynt et dusin bilder til ut av kameraet og vel så det. 
+Kameraet bruker AA-batterier, men det følger ikke med noen oppladbare batterier i pakka; kun vanlige alkaliske, som i følge CIPA-standarden skal rekke til 300 bilder. 
+Vi måtte skifte etter 105, men så er vi veldig glade i å trykke rundt i menyene også ... 
+
+Få knapper 
+
+Knappeutvalg og plassering byr heller ikke på noen store overraskelser, selv om de er noe færre i antall enn hva som er vanlig hos konkurrentene. 
+Piltastene er separert slik de er på EOS 400D (noe vi liker), med en OK-knapp i midten. 
+I tillegg finnes en funksjonsknapp som gjør at piltastene fungerer som snarveier til hvitbalanse, ISO etc. 
+Som på Sony Alpha finnes også en bryter for å aktivere og deaktivere bildestabiliseringen. 
+
+På venstre side av skjermen finner vi de vanlige tastene for avspilling og meny. 
+I tillegg er en egen knapp dedikert til å slette bilder (gjelder avspillingsmodus), og en knapp viser ulike grader av informasjon, både om et bilde som er tatt eller om det som skal tas. 
+Øverst til venstre finner vi en knapp for å flippe opp blitsen, en plassering vi synes er langt bedre enn å ha den på siden av blitsen. 
+I automodus flipper kameraet opp blitsen selv dersom det er nødvendig, mens du selv er herre over den i P-modus. 
+
+Det som imidlertid kanskje er det beste konstruksjonsmessig, er plasseringen av innstillingshjulet ("tannhjulet"); lenger inn mot midten enn hva som er vanlig fra andre produsenter, som gjør at tommelen treffer svært godt når du holder kameraet. 
+Vi synes også plasseringen av dybdeforhåndsvisningen er ganske smart - av og på-knappen dras et ekstra hakk og så tas et prøvebilde som ikke lagres. 
+Lokkene som beskytter minnekort og inn-/utganger er også av god kvalitet, og åpne- og lukkemekanismen føles veldig solid. 
+Et lite minus noterer vi oss på utløserknappen, som mangler et definert mellompunkt til forfokusering, i tillegg til at vi gjerne skulle ha hatt muligheten for baklys på den øverste skjermen. 
+
+Søkeren er et pentaspeil med 96% dekning og en forstørrelsesgrad på 0,85x; omtrent som vanlig i denne klassen. 
+En velkommen funksjon er at det du kan stille på med innstillingshjulet er understreket i søkeren - tar du bilde med blenderprioritet, er blendertallet understreket. 
+Smart! 
+En annen smart løsning er at speilet åpnes med en gang når tar bilde med selvutløser, slik at dette ikke skaper unødige vibrasjoner i det lukkeren åpnes. 
+
+Mange motivprogrammer 
+
+Funksjonshjulet til venstre for blitsen lar deg bytte mellom ulike innspillingsmodi. 
+I likhet med EOS 400D finnes en egen innstilling som ikke bruker blitsen, og du har også en bulb-funksjon, som det ikke er vanlig å finne på såpass billige kamera. 
+Bulb-funksjonen lar deg holde lukkeren åpen så lenge du måtte ønske; enten ved å holde utløserknappen nede eller å bruke en fjernkontroll. 
+I tillegg P, Av, Tv og M finnes også fem ulike motivprogrammer, mens en egen scene-innstilling lar deg velge mellom enda åtte ulike programmer, som snø og stearinlys, der hvitbalanse etc. optimaliseres. 
+Auto-modusen fungerer faktisk på den måten at den velger et egnet motivprogram, som merkes av i EXIF-informasjonen. 
+
+Kameraet lagrer bildene på SD-kort som ligger bak et lokk på høyre side av kameraet, mens vi på motsatt side finner inngang for strøm og fjernkontroll + utgang til video. 
+I bunnen ligger batteriene godt beskyttet - K100D bruker som nevnt ikke et proprietært batteri, men fire AA-batterier. 
+
+Når det gjelder brukervennlighet, gir K100D blandede inntrykk. 
+På en side er menyene fargerike og tydelige, mens formuleringer som "Swtch dst msr pt" er litt mer kryptisk. 
+Ikke at vi ikke skjønner hva menyvalget betyr, men når kameraet tross alt er et rimelig frieri til førstegangskjøpere, synes vi at brukervennligheten burde ha vært bedre sånn sett; aller helst med norske menyer. 
+
+Vi hadde også helst sett at noen av funksjonene, som hvitbalanse, fokuseringsmetode og ISO (justerbar opp til 3200), hadde hatt egne knapper på baksiden av kameraet - her må først funksjonsknappen trykkes, deretter en piltast (vises på skjermen) og så foretas valget (gjelder blits, seriefoto, ISO og hvitbalanse), mens for eksempel fokuseringsmetode stilles inn fra menyen. 
+Her kan du for øvrig velge mellom 16-segment, sentrumsvektet og spot. 
+
+Ved å trykke på info-knappen kan du også få se histogram for bildet som er tatt, i tillegg til all informasjon om ISO, blender, lukker, brennvidde, hvitbalanse etc, men kameraet indikerer ikke utbrente høylys. 
+I avspillingsmodus har kameraet et par morsomme funksjoner, som "soft", som gir bildene et drømmeaktig preg (tilsvarende et nytt lag påført gaussian blur med redusert ugjennomsiktighet i Photoshop), "slim" som lar deg strekke bildet slik at man kan fremstå tynnere og en haug av fargefiltre i alle regnbuens farger. 
+Dessverre har ikke kameraet gyroskopiske sensorer som gjør at bilder kan rettes opp automatisk, noe som er blitt ganske vanlig i disse kameraene. 
+
+Ikke det raskeste 
+
+Pentax K100D er ikke blant de raskeste kameraene. 
+Bufferet har ikke plass til mer enn fem/tre bilder (JPEG/RAW) før det er fylt opp - ikke veldig ideelt dersom du har behov for den slags funksjonalitet. 
+Bilde-til-bilde-hastigheten er også noe treg, og en gang i blant måtte vi vente flere sekunder på den røde lampa etter å ha tatt bilde. 
+Dette gjaldt selv om vi testet med flere minnekort. 
+Autofokusen er også bare middels rask. 
+
+Bildekvalitet 
+
+Vi er godt fornøyde med bildekvaliteten fra K100D. 
+Den innebygde bildestabilisatoren bidrar til at håndholdte bilder har god skarphet, og i de fleste tilfeller eksponerer kameraet godt, med unntak av at himmelen ofte blir hvit i mange av våre testbilder. 
+
+Et lite minus er at LCD-skjermen på kameraet er ganske mørk, og det gjør at bildene tilsynelatende fremstår som undereksponerte. 
+Når vi testet, så vi oss ofte nødt til å ta et ekstra bilde med EV +0,5, men etter å ha overført bilder til PCen, viste det seg at det ikke var nødvendig. 
+
+Støymessig imponerer Pentax-kameraet. 
+Under ser du en sammenligning av ISO-verdier fra 200-3200, og det er egentlig bare på 3200 at detaljnivået blir merkbart dårligere og støyen merkes godt. 
+Ved 1600 og 3200 avtar også fargemetningen. 
+
+Pentax har valgt å la fargemetningen være noe overdrevet på forhåndsinnstillingen, en innstilling du kan (og enkelte ganger bør) dempe. 
+I bilder med mye farge i, ser vi nemlig en gang i blant at spesielt rødkanalen blir overmettet og mister detaljene. 
+Under ser du forskjellen på forhåndsinnstilte og nedtonede farger: 
+
+Kit-objektivet er av OK kvalitet - det føles ikke spesielt solid, men har en komfortabel zoomring og en fokuseringsring med avstandsindikator. 
+Vi noterer oss noe kromatisk feilbrytning på utendørsbildene og også moderat tønneforvrengning på vidvinkel, men hjørneskarpheten er god. 
+En liten ulempe er at solblenderen er ganske dyp, som gjør det problematisk å zoome dersom du har satt den på "feil vei", som er vanlig å gjøre når du ikke bruker den. 
+Objektivet har også tydelig vignettering. 
+
+Innendørs med den innebygde blitsen klarer kameraet seg greit - bakgrunner har en tendens til å bli ganske mørke, men vi har nesten ikke fått røde øyne på testbildene våre, og det er positivt. 
+
+Konklusjon 
+
+Jevnt over er vi godt fornøyde med kameraet fra Pentax. 
+Det er godt å holde i, tar gode bilder og byr på bildestabilisering i kamerahuset til en rimelig penge - uten tvil det beste kjøpsargumentet for dette kameraet. 
+For den som sitter på gamle Pentax-objektiver og har et begrenset budsjett vil K100D være et meget godt kjøp; da spesielt med tanke på at alle de gamle objektivene vil få stabilisering fra 2-3,5 trinn. 
+
+Vi synes imidlertid at det også er et par småting å sette fingeren på - kameraet er ganske tregt i bruk, noe som spesielt gjelder seriefoto: 
+Fem bilder på rappen er lite å slå i bordet med, og kameraet oppleves noe tregt i forholt til fokusering og lagring av bilder. 
+Vi setter også et lite spørsmålstegn ved brukervennligheten enkelte steder, i tillegg til at LCD-skjermen gir et noe feilaktig (for mørkt) bilde av bildene som blir tatt. 

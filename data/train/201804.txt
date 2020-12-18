@@ -1,0 +1,58 @@
+Logitech QuickCam UltraVision
+Den største svakheten hos de fleste webkameraer ligger i optikken. 
+I sin nye serie har Logitech tatt i bruk en langt mer avansert optikk. 
+Det ga resultater. 
+
+Et hvert digitalt bilde består av informasjon generert av lys. 
+Det første leddet som møter lyset når det skal fanges og digitaliseres er kameralinsen, og kvaliteten på denne er den første flaskehalsen i prosessen. 
+Det som ikke passerer her er borte for alltid. 
+
+De andre elementene i en en webkameraløsning, som elektronikk, innkapsling og programvare, blir stadig billigere. 
+Derfor er det smartest å spandere litt ekstra på linsen, det gir et vesentlig bedre bilde til samme pris. 
+
+Den nye linsen i Logitecs UltraVision har større glassflate og større effektiv blenderåpning. 
+Resultatet blir et bedre utgangspunkt for bildebrikken og programvaren som skal bearbeide informasjonen og du sitter igjen med gevinsten - et bedre bilde. 
+
+Fungerer det også slik i praksis? 
+
+Installasjon og montering 
+
+Løsningen består av kamera og bøyle som er fast montert sammen pluss programvare på CD. Installasjonen gjøres uten at kameraet er tilkoblet, og er ganske omfattende. 
+
+Etter omstarten er det bare å koble til kameraet med USB-kontakten, og starte den programvaren du vil bruke. 
+Kameraet fungerer med alle programmer som kan bruke webkameraer, som Skype, alle forskjllige Messenger-varianter osv. 
+Det følger også med et program for opptak av stillbilder og video i forskjellige formater og kvalitetsnivåer. 
+
+Å plassere kamera kan være en utfordring, avhengig av hva slags skjerm du har. 
+På en tynn bærbar er det ikke mulig å bøye bøylen slik at den støtter kameraet. 
+Derfor blir kameraet hengende på kanten og vippe, og den som ser video av deg blir sjøsyk etter kort tid. 
+Litt tape fikser dette, men elegant er det ikke. 
+Logitech har webkameraer beregnet på bærbare, det kan virke som om dette kameraet er designet for å ikke konkurrere med disse... 
+
+På flatskjermer funger det stort sett bedre. 
+På våre Dell-skjermer passet den perfekt, men på den slankere Acer-skjermen var det samme problem som på den bærbare. 
+
+Den delen hvor linsen sitter kan dreies for å justere den vertikale kameravinkelen. 
+
+Bildekvalitet 
+
+Vi tok stillbilder i dagslys innendørs og kvaliteten var rett og slett imponerende. 
+Fargegjengivelse og detaljrikdom var påtagelig bedre enn noe annet webkamera vi har testet. 
+
+Oppløsningen er 1,3 megapiksler, men styreprogrammet kan ta stillbilder i oppløsninger fra 320x240 til 2304x1728 ved hjelp av interpolasjon, hva nå poenget skulle være med det. 
+I 1280x960 er bildekvaliteten optimal og langt over det du trenger til webkamerabruk. 
+
+Video fungerer ok i oppløsninger opp til 640x480, over dette blir det hakkete. 
+Dette skyldes at USB 2.0 ikke klarer å håndtere datastrømmen av ukomprimerte bildedata. 
+
+I praktisk bruk som webkamera fungerte Ultra Vision også langt bedre enn tidligere kameraer; bildet var skarpere og lyset riktigere. 
+
+Den nye bildeprosesseringen som ligger i RightLight 2 programvaren bidrar sterkt til den gode bildekvaliteten. 
+Lysmålingen er bedre og mer intelligent, slik at balansen mellom baklys og motivlys blir mer naturlig. 
+
+Konklusjon 
+
+Dette er rett og slett det beste webkameraet vi har testet hittil. 
+Det gir best farger, flere detaljer og riktigere bildebehandling enn noen andre løsninger vi har testet. 
+
+Prisen er også på topp, du må betale over 1000 kroner for dette kameraet, men ikke så mye mer, og det varierer sterkt mellom de forskjellige (nett)butikkene. 

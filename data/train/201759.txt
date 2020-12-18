@@ -1,0 +1,53 @@
+Hiyatek EB-1030
+Savner du noen data fra en gammel disk som ligger i en skuff? 
+
+Vi bytter gjerne ut datamaskinene etter noen år, eller bytter ut harddiskene når de blir fulle. 
+Men det som ligger på diskene i disse tar vi vare på. 
+Vi kopierer over til den nye maskinen, eller legger alt på en felles maskin eller disk, eller kanskje en felles nettverksdisk (NAS). 
+
+Men det skjer rett som det er at det er et eller annet som man glemmer å overføre, som ligger på en gammel disk i en eller annen skuff. 
+
+Hvordan får du så tak i disse dataene på enklest mulige måte? 
+
+Problemet 
+
+Harddisker er laget for å monteres inne i maskinen, og har kontakter for kabler mellom disk og hovedkortet og strømforsyningen. 
+Disse kontaktene finner du ikke på utsiden av maskinen, derfor må du åpne maskinen for å kunne koble til den gamle disken. 
+Så gjelder det å finne passende kabler. 
+
+Har du byttet til en bærbar er det ikke plass noe sted for å koble til en disk som har sittet i en stasjonær, og for å montere den gamle må du ta ut den nye, og da er du ikke en gang like langt. 
+
+Overganger 
+
+Det finnes alle slags overganger og konverteringsutstyr, men de fleste av disse håndterer en løsning. 
+Men når vi tar med eldre disker er det minst 3 forskjellige tlkobllingsstandarder. 
+
+Den mest fleksible overgangen er selvfølgelig USB, siden alle aktuelle PC-er har en slik port eller fler. 
+Hastigheten blir ikke optimal i forhold til direkte tilkobling med diskens egentlige tilkoblingsstandard, men dette oppveies av det praktiske med USB. 
+
+Men er det praktisk med flere overganger til forskjellige typer disker? 
+
+Smart kombi-adapter 
+
+De aktuelle tilkoblingene er IDE/ATA for 3,5-tommers disker pluss strøm, IDE/ATA for 2,5-tommers disker og SATA, som vi finner på alle moderne lagringsenheter for alle typer PC, uansett størrelse og format. 
+IDE/ATA for 2,5" trenger ikke separat tilkobling for strøm, det sitter i felleskontakten. 
+På SATA sitter strømkontakten ved siden av datakontakten, de har lik fasong og kan kobles til med en kombinertkontakt. 
+
+Og alle disse kontaktene kan EB-1030 HDD adapter fra Hyatek kobles til, uten separate adaptere for hver kontakttype. 
+
+På to av sidene finner vi kontakter til IDE/ATA-disker på 3,5" og 2,5". 
+
+På de andre sidene finner vi SATA-kontakter for data og strøm, og USB: 
+
+og tilkobling til strømkabel med overgang og bryter. 
+
+Trenger disken mer strøm enn det som leveres fra USB-tilkoblingen, det gjelder alle 3.5" disker og optiske enheter (CD/DVD/Bluray osv.), så følger det med en ekstern strømforsyning med 12 volts plugg som kobles til i brytermodulen. 
+
+Hvordan fungerer den? 
+
+Vi har koblet til harddisker i alle fasonger samt optiske enheter, både på Mac og PC og det har fungert helt knirkefritt. 
+
+Overføringshastigheten ved kopiering fra harddisk ligger rundt 30 - 32 MB/sekund, som er bra for USB i praksis. 
+
+I brukerveiledningen står det (på et langt fra stødig engelsk) at du kan koble til flere disker samtidig, men bare én IDE/ATA og én SATA, ikke to IDE/ATA. 
+Problemet med dette er at det uansett ikke fungerer rent fysisk, diskene kommer rett og slett i veien for hverandre, uansett tilkobling. 

@@ -1,0 +1,99 @@
+LG W1
+Hva har bredskjerm på 17,1 tommer, er mørkeblå og veier litt over tre kilo? 
+Jo, et nerdete blåbær. 
+Eller W1, en bærbar PC fra LG. 
+Vi godtar begge svarene. 
+
+LG har i høst oppdatert flere av sine modeller med Core 2 Duo-prosessorer, og i tillegg en god nyhet for de som liker både størrelse og portabilitet. 
+W1 er nemlig i følge selskapet selv verdens letteste bærbare med 17,1 tommers bredskjerm. 
+Og jo, den er lettere enn hva vi har vært borti av 17-tommere, kun litt over over tre kilo tung (eller lett) går den inn i samme vektklasse som mange 15,4" bærbare. 
+
+LES OGSÅ: 
+
+Stor og slank, med fullt numerisk tastatur. 
+
+Fulle spesifikasjoner: 
+
+Intel Core 2 Duo T7200 @ 2,0 GHz 17,1" skjerm (1680 x 1050 piksler) 2 GB DDR2-minne 160 GB harddisk (5400 rpm) 
+ATI Mobility Radeon X1600 grafikkort (256 MB RAM) 54 Mbps WLAN (a/b/g) og blåtann Gigabit LAN + modem Lyd inn, analog/digital lyd ut 4 x USB 1 PCMCIA kortplass 5-i-1 kortleser for xD, SD, MMC, MS og MS PRO VGA og S-Video ut Windows XP Media Center Edition Dimensjoner (B/D/H): 39,2 x 27,5 x 3,1 cm Vekt 3,15 kilo Pris: ca. 19.500 inkl. mva. 
+
+Konstruksjon 
+
+Med en skjerm på 17,1 tommer sier det seg selv at PCen er stor, men til gjengjeld er den altså både lett og slank. 
+Skjermen har for øvrig kontrastbelegg og er meget god, selv om innsynsvinkelen ikke er noe utover det vi vanligvis finner på bærbare. 
+Oppløsningen er på 1680 x 1050 piksler, noe som egentlig passer bra på en skjerm i denne størrelsen. 
+
+Konstruksjonsmessig er det egentlig ikke så mye å utsette på W1. 
+Den er slett ikke dum å se på, er passe rund i kantene og både lokket og resten av maskinen virker fast og solid. 
+Skal vi pirke på noe kan det være at lokket er litt hardt hengslet, men det blir altså bare pirk. 
+I det hele tatt er det en kvalitetsfølelse over denne bærbare. 
+
+Tastaturet er helt greit i bruk, men taster som enter og mellomrom kan bråke litt dersom du vanligvis skriver hardt. 
+Og Fn-tasten sitter på feil sted, vi vil nemlig ha ctrl rett under shift, som det er på "vanlige" tastaturer... 
+
+Eksemplaret vi testet ble sendt over fra broderfolket, og har derfor ikke norsk tastatur. 
+
+Trouchpaden er i bredformat, følsom og god med skrollefelt både horisontalt og vertikalt. 
+
+Over tastaturet finner vi, foruten av/på, knapper som kontrollerer lydvolumet, og snarveier for start av Media Center og LG Dolby Home Theater. 
+Denne bærbare PCen har nemlig en påkostet lyd-del, men da snakker vi ikke om de innebygde høyttalerene som er diskret plassert i fronten. 
+Saken er at W1 støtter S/PDIF (digital lydoverføring) og en liten haug Dolby-teknologier som skal gi deg en bedre lydopplevelse. 
+
+Tilkoblingene på maskinen er plassert bak og på begge sider. 
+I front er det en IR-mottager i tillegg til høyttalerne. 
+Det følger faktisk også med en fjernkontroll. 
+
+På høyre side finner vi to minijacker for lyd ut og inn, nok en infrarød sender, FireWire, DVD-brenner, 2x USB og plass for kensingtonlås. 
+
+Venstre: VGA-ut, en god gammeldags parallellport (bak lokket), plass for PCMCIA-kort og minnekortleseren. 
+Vamluften kommer også ut her. 
+
+Bak er det S-Video ut, linjeinngang for lyd, modem, LAN, 2x USB og inntak for strøm. 
+Vårt svenske testeksemplar har også et TV-kort (for digitalt bakkenett - DVB-T), men det vil ikke finnes på den norske modellen. 
+
+På undersiden er det for øvrig en docking-kontakt. 
+
+Nok kraft 
+
+Ytelsen er upåklagelig. 
+Prosessoren er Intels Core 2 Duo T7200 på 2,0 GHz, og burde være mer enn nok for vanlige dødelige. 
+I tillegg har den 2 GB med minne og ATI Mobility X1600 grafikk. 
+Det finnes klart bedre grafikkkort i handelen, men dette vil holde til de fleste nyere spill, om enn ikke alltid med de råeste innstillingene. 
+
+Vi har ikke testet så mange bærbare med 17-tommers skjermer i det siste, men vi har sammenlignet med Dell XPS M1710 vi testet tidligere i år, som jo var en rå maskin. 
+
+Ingen store forskjeller i ytelse på prosessorene. 
+Måltall i sekunder, lavere er bedre. 
+
+Høyere poengsum er bedre: 
+Dell-maskinen har et langt kraftigere grafikkort, noe som gjenspeiles kraftig i totalsummen. 
+I PCMark04, som legger mindre vekt på grafikk, stakk W1 av med seieren. 
+
+Batterilevetiden ble målt til litt under tre timer i Batterymark - et godt resultat tatt i betraktning størrelsen på skjermen og maskinens lave vekt. 
+
+Batterilevetid i minutter. 
+Heller ikke her noen spesielt stor forskjell på de to 17-tommers bærbare. 
+
+Stille på kommando 
+
+W1 er en nokså støysvak bærbar, kun i rolige rom er du klar over at den står på. 
+Viftene spinner selvfølgelig opp under belastning, men LG har en spesiell løsning på lur når det gjelder støy. 
+Maskinen har nemlig tre modi på viftekontrollen: normal, cool og silent. 
+Normal er... vel, normal modus, som spinner opp vifta når maskinen blir varm. 
+Cool prioriterer kjøling. 
+Kort sagt, terskelen for at vifta skal sette i gang senkes slik at PCen holder seg kaldere, for den som mener normal modus ikke er god nok. 
+
+Men den virkelige interessante modusen er silent. 
+Under belastning spinner ikke vifta opp til noe mer enn en gitt punkt som er ganske så støysvakt. 
+Blir maskinen varm senkes i stedet ytelsen for å unngå overoppheting. 
+
+Oppsummering 
+
+LG W1 er det vanskelig å si noe direkte negativt om. 
+Det er selvfølgelig noe småplukk som tastaturet, spillegale ville nok ha ønsket seg et enda bedre grafikkort, DVI-ut i stedet for VGA hadde vært kjekt osv, men i det store og hele imponerer LG med denne modellen. 
+Lav vekt og en slank linje, flott skjerm, god ytelse og lyd pluss lavt støynivå. 
+Denne PCen passer til nesten all slags bruk. 
+
+Men for å kunne bli eier av verdens letteste bærbare PC med 17,1-tommers bredskjem må du bla opp neste tjue tusenlapper når den faktisk er i butikkene her i Norge, noe LG håper skal skje før jul. 
+Så er du på jakt etter en god allrounder med stor skjerm og lav vekt er kanskje det lureste å tipse nissen om denne modellen. 
+Hvis du har vært snill nok i år da. 

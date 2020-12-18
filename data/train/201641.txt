@@ -1,0 +1,96 @@
+TEST:Vorwerk Kobold VR200 
+
+Modellen som går rett i strupen på iRobots toppmodell. 
+
+En robotstøvsuger i toppklassen, men da øker også kravene vi stiller. 
+Holder VR200 helt inn? 
+
+Tyske Vorwerk samarbeider tett med Neato som vi har anbefalt før, så når Vorwerk ubeskjedent nok påstår at deres versjoner er «bedre» utgaver, gikk vi til oppgaven med en viss forventning. 
+
+Og på papiret ser det riktig så bra ut: 
+
+På VR200 er nemlig sidebørste er på plass, den skal ha et lavere støynivå, filterne skal være bedre, mens batteriet både skal være kraftigere og ikke minst ha dobbelt så lang levetid. 
+
+Hva får du? 
+
+I tillegg til den hvite støvsugere, som i likhet med Neato-modellene er flat på den ene siden, består esken av en matchende dokkingstasjon, ett filter, en sidebørste, en fjernkontroll, samt en rull med magnetbånd. 
+
+Magnetbåndene kjenner vi igjen fra Neato, og fungerer ganske enkelt ved at du legger dem på gulvet der du vil hindre støvsugeren i å jobbe på bestemte områder. 
+En litt annen vri på iRobots virtuelle vegger her altså. 
+
+Små detaljer vitner om et gjennomtenkt konsept: 
+Et praktisk bærehåndtak er på plass, mens baksiden av dokkingstasjonen lar deg skjule overskytende strømkabel dersom du har stikkontakten rett i nærheten. 
+
+Men den medfølgende fjernkontrollen ble lite brukt: 
+Rekkevidden var ikke spesielt god, og styringen såpass ullen at vi heller valgte å programmere VR200 direkte, og la den gjøre jobben selv. 
+
+Dette er forøvrig den samme erfaringen vi hadde med iRobot Roomba 880, og i denne prisklassen ville ganske enkelt foretrukket en brukervennlig app, slik at alt kunne fjernstyres direkte fra mobilen eller nettbrettet. 
+
+Det pussige er at det på nettet faktisk ligger bilder av VR200, der det ser ut som om den har en app-funksjon. 
+
+På vår testmodell var det imidlertid ikke nevnt et ord om dette, så hvorvidt appstyring vil bli tilgjengelig via en framtidig softwareoppdatering blir derfor kun spekulasjoner. 
+
+Oppdateringsmuligheten er uansett et poeng hvor Voerwerk og Neato skiller seg fra Miele og iRobot. 
+
+For der de to sistnenvte må oppdateres hos forhandler/service-senter, kan både Voerwerk og Neato oppdateres direkte av kunden. 
+Voerwerk har for eksempel lovet at norsk språk blir tilgjengelig i menyen innen 12 måneder, og dette vil altså kundene kunne fikse selv. 
+
+Det gir pluss i margen hos oss. 
+
+Fargeskjerm og sensorbonanza 
+
+Informasjonsdisplayet er i farger, og selv om du foreløpig ikke får norsk språk, er det enkelt å komme igang også her. 
+
+Merk deg likevel at skjermen ikke er trykkfølsom, styringen skjer altså via små piltaster og en OK-knapp under skjermen. 
+De fungerer helt greit, selv om de ikke er de mest responsive tastene vi har vært innom. 
+Den grønne knappen nederst i venstre hjørne slår forøvrig roboten av og på, eller starter et manuelt støvsugerprogram. 
+
+Alle produsentene skryter i dag av hvor avanserte deres robotstøvsugere er, og Vorwerk skryter blant annet av hele 14 sensorer. 
+
+For oss er egentlig ikke det så viktig. 
+Det eneste vi bryr oss om strengt tatt hvor bra den støvsuger, og hvorvidt den kjører seg fast eller ikke. 
+
+Som på alle andre støvsugerroboter anbefaler vi uansett at du fjerner hindringer før du drar på jobben, og som du ser på bildet er ungenes hårstrikker et godt eksempel på hva som skjer hvis du slurver her. 
+
+Se hvordan VR200 jobber her: 
+You need a browser that can handle Iframes to be able to view this page. 
+
+Vorwerk skryter av at hjulene skal ha en slags klatrefunksjon, uten at vi helt har sett behovet for det: 
+VR200 takler uansett overgangene mellom flis, høye og lave tepper, samt dørlister på 1,8 centimeter inn til andre rom uten problemer. 
+Dette er likevel ikke mer enn vi forventer på en modell i denne prisklassen. 
+
+Den er også bedre til å unngå, eller komme seg løs fra hindringer (i dette tilfellet våre barkrakker), enn det Mieles alternativ var. 
+Vår dom er likevel at den ikke er like flink til å komme seg løs fra hindringer eller kjøre seg ut av trange områder som Roomba 880. 
+
+Husk likevel at dette er de to beste robotene vi har testet så langt, så forskjellene er små. 
+
+Hvor bra støvsuger VR200? 
+
+I likhet med hovedkonkurrenten iRobot Roomba 880 gjør VR200 en utmerket jobb på harde overflater som fliser og parkett, til tross for at de jobber veldig ulikt. 
+
+For der Roombaen går i et tilsynelatende vilkårlig sikksakk-mønster, går VR200 langt mer systematisk til verks. 
+I praksis skanner den rommet med alle sine utallige sensorer og skannere, slik at den følger den traseen den har målt opp. 
+Dette ser du også om den skulle gå tom for batteri underveis: 
+Da går den nemlig til ladestasjonen, for så å returnere akkurat der den stoppet og fortsette jobben når batteriet er ferdigladet. 
+
+Men har det noe å si i praksis? 
+Svaret er strengt tatt nei. 
+For selv om de har ulik innfallsvinkel til jobben, er vår dom at begge de to konkurrentene gjør en så god jobb når de støvsuger på harde overflater at det er vanskelig å skille dem. 
+
+Men VR200 er bedre på tepper og hundehår: 
+I vår nylige test av iRobot Roomba 880, konstaterte vi at vår private Neato XV15 fortsatt gjør en bedre jobb på hundehår, og hovedforklaringen er nok at Neatoen suger kraftigere. 
+
+For selv om VR200 ikke bråker like mye som Neatoen, virker det som om sugeeffekten er minst like god på tepper, og også her forsvant det derfor mer hundehår enn Roombaen klarte å trylle vekk. 
+
+Konklusjon 
+
+VR200 gjør en god jobb både på harde og myke flater, og er også bedre enn Roomba 880 på hundehår. 
+Har du dyr i huset er det et viktig punkt. 
+
+Men noen ren storeslem blir det ikke. 
+For tross alle sine sensorer kjører den seg oftere fast enn erkekonkurrenten Roomba 880. 
+Her er du altså nødt til å rydde gulvet helt før du lar den gjøre jobben, og da synes vi prisen på 7.500 blir vel stiv. 
+
+Vi har likevel stor sans for oppdateringsmuligetene du får på VR200: 
+En ting er at navigeringen kan bli endre bedre med fintuning av softwaren, men i det fjerne ligger også en mulig app-styringsfunksjon. 
+Vi ender derfor på en litt svak femmer i denne runden. 

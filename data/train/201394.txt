@@ -1,0 +1,118 @@
+Asus Taichi
+Bærbar PC med to skjermer! 
+
+Vi trenger teknologiselskaper som Asus. 
+Selskaper som ikke er redd for å ligge i forkant av utviklingen og tør utfordre markedet med innovative produkter. 
+Taichi bør definitivt falle inn i den kategorien. 
+Dette er nemlig en bærbar PC - en ultrabook - med to skjermer på hver sin side av lokket. 
+Den ene er berøringsfølsom og blank, og den andre er en standard, matt skjerm. 
+
+Du ser kanskje poenget. 
+Når PC-en er lukket, vil den berøringsfølsomme, blanke skjermen sørge for at den blir forvandlet til et nettbrett. 
+Når lokket åpnes, har du en helt vanlig ultrabook med en flott, halvmatt skjerm. 
+Dette er altså en hybrid PC/nettbrett, men den kan i tillegg brukes til flere ting. 
+
+Tenk deg for eksempel at du sitter i et lite møtelokale, og ønsker å kjøre en presentasjon til de fire-fem andre i rommet. 
+Da kan du kjøre presentasjonen på skjermen som er vendt ut mot deltakerne, mens du selv sitter med bakgrunnstall og info på den interne skjermen. 
+Eller hva om du sitter og jobber med et dokument i PC-modus og lar barna se en film på den andre skjermen? 
+Joda, det er fullt mulig med Taichi. 
+
+Hvordan skjermene skal oppføre seg i forhold til hverandre styres ut fra én tast: 
+
+Den gir deg en meny der du enkelt kan svitsje mellom forskjellige modi, og bestemme hva som skal skje når du lukker lokket: 
+
+Jobber du for eksempel i Notebook Mode, vil den ytre skjermen forbli svart, og maskinen vil gå i dvale når du lukker den. 
+
+I denne testen skal vi først og fremst konsentrere oss om hvordan PC-en er å jobbe med i nettopp Notebook Mode, men først skal vi se litt på de tekniske egenskapene ved denne innovative lille saken: 
+
+Skjermer: 2 stk IPS-skjermer på 11,6", begge full HD, en blank multiberøringssskjerm, og en halvblank standard skjerm Prosessor: 
+Intel Core i7-3517U RAM: 
+4 GB (som også er maks) Grafikkort: 
+Intel HD 4000 Lagring: 
+Sandisk 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+VGA (krever overgang) og micro-HDMI USB-porter: 2 stk USB 3.0 Webkamera: 
+Ja, 2 stk - hvorav ytre har 5 mpix Kortleser: 
+Nei Trådløst nett: a/b/g/n Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Størrelse: 306,6 × 17,4 × 199,3 mm Vekt: 1,25 kg Pris: 
+Fra 12.490 kr (jf Prisjakt 3.5.2013) 
+
+Spesifikasjonene, med unntak av skjermene, er temmelig typisk for ultrabooks i øvre prissjikt. 
+Den store SSD-en er absolutt et pluss for deg som lagrer mye lokalt, og maskinen er overraskende tynn og lett med tanke på at den huser to skjermer - begge med full HD-oppløsning. 
+
+Merk imidlertid at 4 GB er maks minnemengde, og i likhet med mange av de andre ultrabookene som er like tynn, er utvalget av tilkoblinger noe begrenset. 
+Vi savner også en leser for minnekort. 
+
+Små skjermer 
+
+11,6 skjerm er ikke stort, og selv om alt blir sylskarpt er det ikke til å stikke under stol at lesbarheten er bedre på større skjermer. 
+Du kan selvfølgelig øke størrelsen på tekst og grafikk i operativsystemet, men ikke alle programmer skalerer like bra, dessverre. 
+Men har du skarpt og godt syn er det neppe noe problem. 
+Lys, kontrast og farge er meget bra på begge skjermer. 
+Vi liker spesielt godt at den indre skjermen er halvblank, noe som sikrer lite gjenskinn i forhold til helblanke utgaver. 
+
+Vi har bare én ting å utsette på skjermen, eller lokket, er at når du jobber i PC-modus stikker nedre del av lokket dypere enn gummiknottene på undersiden. 
+Etter vår mening er dette en designfeil. 
+Jobber du med PC-en på et bord, er det kun to gummiknotter som treffer bordplaten, og det gir dårligere stabilitet: 
+
+Tastaturet er imidlertid meget fast og fint, og baklyset sørger for at det aldri er noe problem å bruke PC-en i mørke. 
+Pekeplaten har integrerte trykkfelter for venstre- og høyreklikk, og funger også bra. 
+
+Trøblete start 
+
+Første gangen vi startet PC-en fikk vi beskjed om at det var Asus-oppdateringer som måtte installeres. 
+Når installasjonen var fullført, ble vi bedt om å starte maskinen på nytt. 
+Etter omstart fikk vi nok en beskjed om å oppdatere Asus-programvare, med påfølgende omstart. 
+
+Denne prosessen gjentok seg hele fire ganger, noe vi setter store spørsmålstegn ved. 
+Og dette kommer i tillegg til de sedvanlige Windows-oppdateringene: 
+
+Etter den litt trøblete starten har Taichi fungert fint. 
+Den oppleves som rask, og er det store og hele temmelig støysvak. 
+Kun i de mest krevende situasjonene er viften godt hørbar. 
+
+Fin ytelse 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,1 Minne: 5,9 Grafikk: 
+5,5 Spillgrafikk: 
+6,3 Primær harddisk: 
+8,1 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og i diagrammet under har vi sammenlignet prosessorytelsen med andre ULV-prosessorer som benyttes i ultrabooks - samt AMD sin toppmodell for sine ultrathins: 
+
+Grafikkytelsen ligger helt på snittet i klassen, med rundt 400 Passmark-poeng. 
+Det er mer enn nok til alt av 2D-programmer, video og bildebehandling, men blir for tregt for de nye, grafikkintensive spill. 
+Det er imidlertid ikke denne brukergruppen Asus har siktet seg inn på med Taichi. 
+
+SSD-ytelsen er god, med rundt 270 MB pr sekund både under lesing og skriving av sekvensielle data, men vi har testet mange som har vært raskere. 
+Om det er spesielt merkbart i praktiske situasjoner er imidlertid høyst diskutabelt, som regel sitter flaskehalsene andre steder. 
+
+Grei batteritid 
+
+Ifølge Asus skal batteriet holde til rundt fem timer med variert bruk. 
+Vi fikk bare målt batteritiden under kontinuerlig videoavspilling. 
+Da holdt det ut i tre timer og 40 minutter, og erfaringsmessig holder batteriet ofte et par timer lenger med minimal belastning. 
+Derfor har vi ikke noen grunn til å tvile på Asus sitt anslag på fem timer. 
+
+Vi gjør oppmerksom på at dette var med kun én skjerm aktivert. 
+
+Det er godkjent tid, men ikke mer. 
+Det finnes mange ultrabooks med bedre batteritid, ikke minst Asus egen Zenbook UX31A. 
+
+Konklusjon 
+
+Det er ingen tvil om at Asus Taichi er en spennende PC. 
+Den har høy ytelse, to flotte skjermer, og er oppsiktsvekkende tynn til tross for dette. 
+
+Den er imidlertid dyr, og vi vil nok plassere den i kategorien for spesielt interesserte. 
+Det er uansett spennende å se at PC-produsentene virkelig prøver å tenke alternativt i disse dager, for å tilfredsstille brukere som ønsker det beste fra to verdener - PC-en og nettbrettet. 
+Helt i mål er de imidlertid ikke kommet ennå. 
+
+Sjekk våre plusser og minuser i boksen under hvis Taichi falt i smak. 
+
+Asus TAICHI21-CW009H 

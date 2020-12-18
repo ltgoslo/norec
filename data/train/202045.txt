@@ -1,0 +1,52 @@
+Test:Microsoft LifeCam Studio 
+
+Bedre oppløsning enn dette trenger du ikke! 
+
+Webkameraer blir stadig bedre, både Logitech og Microsoft flytter grensene hele tiden. 
+Dessuten blir båndbredden høyere for mange brukere, slik at det er mulig å sende mer data. 
+Resultatet er bedre videokvalitet og større bruksglede. 
+
+Maskinkraft er også veldig viktig, for å sende video må dataene komprimeres, og det gjøres ikke i kameraet. 
+Det er prosessoren som må ta seg av dette, og for å få fullt utbytte av et godt videokamera trenger du all den prosessorkraften du kan få. 
+
+Bildekvalitet 
+
+Men selv om du ikke har verdens raskeste internettforbindelse, og heller ikke en lynrask 6-kjerners prosessor, så har et godt webkamera kvaliteter som du likevel kan ha glede av. 
+
+Oppløsning er ikke alt, det som er vel så viktig er at webkameraet fanger lyset og leverer et balansert bilde. 
+Dette avgjøres både av optikken og bildeprosesseringen, og det er her det nye webkameraet fra Microsoft stiller sterkest. 
+
+Kameraet 
+
+Kameraet minner om forgjengeren Microsofts LifeCam Cinema, som vi testet i oktober 2009. 
+Det er flere viktige forskjeller: 
+
+- selve kamerahuset er større - ledningen kommer ikke ut av huset, men av foten - det er en gjengeinnsats i foten, så kameraet kan enkelt festes på vanlige kamerastativer 
+
+Ellers kobles kameraet til med USB, og det følger med installasjons-CD. 
+Programvaren ligger ikke på denne, men lastes ned fra nett. 
+Dermed er du garantert å få den nyeste versjonen. 
+
+Styreprogrammet er det samme, og effektene de samme som fulgte med LifeCam HD-5000 webkameraet vi testet i mai 2010. 
+
+Forskjellen 
+
+Forskjellen er at Lifecam Studio leverer et mye større utsnitt, her snakker vi om skikkelig vidvinkel! 
+
+HD og HD fru Ballmer ... 
+
+Styreprogrammet som følger med lar deg ikke ta opp video i høyere oppløsning enn 720p. 
+Du kan derimot ta stillbilder i full HD 1080p. 
+
+Med annen programvare kan du ta opp i full HD, men det krever en raskere maskin enn vår gamle Q6600 fire-kjerners. 
+Vi prøvde i Sony Vegas, men frameraten ble på beskjedne 7,5 fps med mange frames som ble droppet. 
+
+I chatteprogrammer får du heller ikke mer enn 720p, men du skal som nevnt innledningsvis ha både meget rask maskin og rask internettforbindelse for å kunne levere dette. 
+
+Konklusjon 
+
+HD eller ikke, kameraet leverer et meget bra bilde, med noe mer beskjeden oppløsning enn skryteversjonen. 
+
+Ønsker du vidvinkel leverer dette webkameraet meget bra! 
+
+Microsoft LifeCam Studio 

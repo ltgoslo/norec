@@ -1,0 +1,93 @@
+Zepto Znote 4050
+Znote 4100 er fortsatt en av de beste Centrino-PCene vi har testet noensinne. 
+Nå er lillebroren Znote 4050 klar. 
+Innfrir den forventningene? 
+
+Våre tester viser at Centrino/Pentium M-baserte PCer har noen vesentlige fordeler i forhold til PCer basert på andre prosessorer og brikkesett. 
+De viktigste er høy ytelse pr MHz, lavt strømforbruk og liten varmeutvikling. 
+Sistnevnte medfører at disse PCene som regel er fri for viftestøy. 
+
+LES OGSÅ: 
+
+Enklere modell 
+
+Zepto har tidligere gjort seg bemerket med Centrino-modellen Znote 4100, som fikk en solid femmer da vi testet den. 
+Modellen er fortsatt tilgjengelig på markedet, men akkompagneres nå med en litt mindre avansert modell - Znote 4050, som selges til en lavere pris. 
+
+De største forskjellene mellom 4050 og 4100 er at sistnevnte har kraftigere grafikkløsning, skjerm med høyere oppløsning, samt en mer robust innpakning. 
+Utstyrsnivået for øvrig er meget bra på begge PCer. 
+
+Her følger en kjapp oppsummering av spesifikasjonene på vår 4050-testmodell: 
+
+ 15" TFT-skjerm, 1024x768 punkter 
+ Intel Pentium M prosessor, 1.3 GHz* 
+ 30 GB harddisk 
+ 256 MB minne 
+ Kombinert DVD-leser/CD-brenner (8x DVD, 24x 10x 24x CD) 
+ Intel Extreme Graphics 2, 64 MB delt grafikkminne 
+ 3 x USB 2.0 porter 
+ 11 Mbit trådløst nettverk (WLAN 802.11b) 
+ Infrarød port (IrDA) 
+ Firewire-port 
+(IEEE 1394) 
+ VGA skjermutgang og TV-utgang (S-video)  PCMCIA port (1 x Type II) 
+ Parallellport (LPT1) 
+ Nettverkskort 10/100 mbps  56K fax/modem (v.92)  Hodetelefon/SPDIF-utgang 
+ Mikrofon-inngang 
+ SD minnekortleser 
+ Vekt: 
+2.8 kg 
+ 2 års garanti (batteri: 6 mnd) 
+
+* Erstattet av 1,4 GHz uten tillegg i pris. 
+
+Både harddisk, minne og prosessor kan forandres, og WLAN kan velges bort. 
+I tillegg kan den kombinerte DVD-leseren/CD-brenneren byttes ut med en DVD-brenner. 
+Her er det behovet og lommeboka som setter begrensningene. 
+
+Operativsystem og programvare må du sørge for selv. 
+Du kan eventuelt kjøpe PCen med lisensiert Windows preinstallert, dersom du skulle ønske det. 
+
+Solid plast 
+
+Selve PCen har en design som ikke vekker særlig oppsikt. 
+Den er sort, med detaljer i sølvgrått rundt tastaturet. 
+Og her er det brukt plast hele veien for å holde kostnadene nede. 
+Likevel viser våre tester at lokket tåler ganske harde trykk før det blir forstyrrelser i skjermbildet, noe som tyder på at den likevel er temmelig robust. 
+PCen er dessuten ganske tynn, i underkant av 3 cm, og de ytre målene for øvrig innbyr til transport. 
+
+Porter og tilkoblinger er plassert bak og på sidene, og det optiske drevet har åpning i front. 
+SD-minnekortleseren sitter under PCMCIA-plassen på venstre side. 
+I det hele tatt har vi ikke noe å utsette eller bemerke i negativ forstand når det gjelder plasseringene. 
+
+Tastaturet har standard kvadratisk utforming, og er helt OK å skrive på. 
+Under tastaturet sitter en pekeplate og to knapper. 
+Pekeplaten har innebygd klikke- skrollfunksjonalitet (både horisontalt og vertikalt). 
+
+Støyer ikke 
+
+PCen er helt lydløs, vi klarte ikke å få viftene til å gå selv under de mest prosessorkrevende oppgaver. 
+Det er etter vår mening en særdeles viktig egenskap, spesielt dersom du har planer om å jobbe på "stille" steder som lesesal, soverom etc. 
+
+Ytelsesmessig bød den på få overraskelser. 
+Vårt testeksemplar var utstyrt med en 1,3 GHz-utgave av Pentium M-prosessoren. 
+4050-PCene som selges fra Zepto er derimot utstyrt med minimum 1,4 Ghz-utgaven. 
+Denne prosessoren yter omtrent som en Pentium 4 2.2 GHz under de fleste forhold, i følge våre egne målinger. 
+Det 
+
+Grafikken bærer preg av å være en integrert løsning, og passer langt bedre til kontorapplikasjoner, film og andre 2D-oppgaver enn de mest avanserte 3D-spillene. 
+Grafikken stjeler minne fra systemminnet, i utgangspunktet 16 MB. Siden Windows XP er veldig glad i mye minne, er det en god ide å utstyre PCen med 512 MB RAM dersom valget ditt faller på Znote 4050. 
+
+Bra batterilevetid 
+
+Batterilevetiden viste seg å være bedre enn på storebror 4100, og våre tester viser at du kan regne med å bruke PCen i godt over fire timer uten å være i nærheten av stikkontakten. 
+Det må sies å være meget bra. 
+
+Klikk på Tekniske data i oppsummeringsboksen for detaljer omkring ytelse og andre egenskaper ved PCen. 
+
+Konklusjon 
+
+Zepto Znote 4050 virker absolutt som en solid PC til kontorbruk. 
+Den yter bra, arbeider helt lydløst, og både batterilevetid/vekt bør gjøre den aktuell for deg som farter mye i jobb/skolesammenheng. 
+
+3D-grafikkytelsen vil nok skremme bort de mest spillhungrige kjøperne, men det er ikke dem Zepto retter seg mot denne gangen. 

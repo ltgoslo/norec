@@ -1,0 +1,61 @@
+Test:Seagate hybrid SSD/Harddisk 
+
+Vi har testet Seagates nye løsning. 
+
+I mai lanserte Seagate en ny disk i Momentus-serien, i 2,5-tommers format og med 7200 omdreininger, i forskjellige kapasiteter. 
+Det interessante med denne serien disker var imidlertid at de hadde innebygd 4 GB SSD, som fikk overført de mest brukte dataene av en egen kontroller på disken. 
+Dermed vil data som leses ofte bli lest fra SSD, noe som er mye raskere enn fra en roterende disk. 
+Dessuten er aksesstiden enormt mye kortere, noe som er vel så viktig med lesing av mange små filer. 
+
+Et slags hurtigminne? 
+
+SSD-delen fungerer på en måte som et slags hurtigminne, noe vi beskrev slik i vår forhåndsomtale av disken: 
+
+I alle harddisker sitter det et hurtigminne. 
+Dette fungerer som buffer mellom systemet og skriving/lesing, slik at systemet ofte oppfatter disken som raskere enn den egentlig er. 
+Data mellomlagres her slik at skrivingen kan gjøres etter hvert som mekanismen får gjort jobben. 
+Data lese inn og beholdes også i bufferminnet, også under lesing, her bruker disken styrelogikk som sørger for at det er stor sjanse for at de neste dataene det spørres etter allerede har blitt lastet inn i hurtigminnet. 
+Derfor virker disken raskere så lenge det ikke er snakk om mer data enn det er plass til i hurtigminnet. 
+
+I tillegg har operativsystemet lignende håndtering av disk-data i sitt eget minne. 
+
+Men dette fungerer bare så lenge maskinen står på, når du slår av glemmer disken alt. 
+Neste gang du slår på starter logikken på nytt igjen, og ingen "erfaringer" fra tidligere bruk er tilgjengelig. 
+
+Seagate [har] utviklet buffer/mellomlagringsteknikken - de kaller det Adaptive Memory Technology - slik at disken både husker mer og dessuten husker til neste gang. 
+
+Momentus XT vil lagre filer som leses ofte i SSD-delen, mens større datafiler alltid vil lagres på den ordinære disken. 
+Hvilke filer som legges hvor blir hele tiden vurdert ut fra den aktuelle bruken og endringer vil skje hvis bruksprofilen endres. 
+
+Det smarte er at dette vil fungere uansett operativsystem, alt skjer i selve disken. 
+
+På testbenken 
+
+For å teste dette i praksis her vi kjørt PCMark Vantage flere ganger etter hverandre i to omganger: 
+Først to kjøringer, så tre kjøringer. 
+Mellom omgangene brukte vi maskinen til en del andre ting. 
+
+Det var påtagelig forskjell mellom første og annen gang vi kjørte testen, men senere kjøringer viste svært små forskjeller. 
+
+Det indikerer at konseptet faktisk fungerer. 
+
+Vi har også sammenlignet med de forrige testene vi gjorde, av SSD som systemdisk sammenlignet med en 10 000 omdreiningers Raptor. 
+
+Forskjellen mellom Seagate sin hybriddisk og en SSD er enorm, det er det ingen tvil om. 
+Skal du virkelig øke hastigheten og responsen hos PC-en din er det SSD som gjelder. 
+
+Men sammenligner vi med en enda raskere roterende harddisk så kommer hybriddisken fra Seagate faktisk bedre ut hele tiden, og spesielt på disk-testen. 
+
+En gang under oppstart fikk vi meldingen under, men dette kan skje med vanlige disker også, fra tid til annen. 
+Etter automatisk reparasjon fungerte alt som vanlig. 
+
+Konklusjon 
+
+En normal harddisk med en SSD som intelligent hurtigminne kan ikke konkurrere med rene SSD-løsninger. 
+Men den er absolutt konkurransedyktig når man sammenligner den med andre harddisker. 
+
+Spesielt i bærbare, hvor du ikke har mulighet til å bruke 3,5-tommers Raptor-disker, så er Seagate Momentus XT et svært interessant alternativ. 
+Spesielt siden den kommer med høy kapasitet, ikke blir spesielt varm og heller ikke støyer. 
+Den ble aldri mer enn håndvarm og var knapt hørbar på 20cm avstand. 
+
+Disken kommer også i 250GB (795 kroner) og 320GB (875 kroner) utgaver til litt lavere priser, men vi skjønner egentlig ikke vitsen med å halvere kapasiteten og spare en fjerdedel av prisen... 

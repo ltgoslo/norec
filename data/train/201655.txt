@@ -1,0 +1,50 @@
+Asus PCE-AC68
+Trådløst nett kan også brukes i stasjonære PC-er. 
+
+Naturlig nok er trådløst nett først og fremst en løsning beregnet på bærbare og mobile enheter. 
+Men også for utstyr som alltid står på sin faste plass kan trådløst nett være en praktisk løsning. 
+
+Årsaken til å bruke trådløst er i de aller fleste tilfeller at man slipper å trekke nettverkskabel gjennom flere rom og etasjer, eller til og med utendørs i noen tilfeller. 
+Noen vil ha trådløst nett i furtebua eller garasjen, det er jo forståelig. 
+
+Mange løsninger 
+
+For å koble seg på trådløst nett finnes det flere løsninger. 
+Små USB-enheter er de vanligste, men det finnes også nettverksbroer, som er overgangsenheter mellom trådløst og kablet nett. 
+For enheter uten USB, men bare kablet nett, da er nettverksbroer tingen, men slike enheter blir det stadig færre av. 
+
+Men hvis det er snakk om å få en stasjonær PC på nett, i et rom der det ikke er aktuelt å legge opp nettverkskabel, da finnes det en ny og moderne løsning som vi har testet: 
+
+Asus PCE-AC68 
+
+Dette er et lite PCIe kort som kan plasseres i hvilken som helst kortplass, den krever bare én linje men kan godt stå i en 4x eller 16x kortplass. 
+
+Hele løsningen ligner til forveksling forgjengeren PCE-AC66 som vi har testet tidligere, men elektronikkene er oppgradert for enda høyere ytelse. 
+
+Hele oversiden av kortet er dekket av en stor kjøleribbe, og tilkoblingen til tre antenner er på braketten på utsiden av kortet. 
+
+Det følger med en holder med kabler slik at du ikke må feste antennene rett på baksiden av PC-en. 
+
+Det er selvsagt mulig, men gir ofte dårligere mottak siden en PC gjerne blir plassert under et bord inn mot en vegg. 
+Med holderen kan du ha antennene på bordet eller på veggen om det passer bedre. 
+Jo færre hindringer jo bedre resultat får du. 
+
+Installasjon og bruk 
+
+Installasjonen var enkel og grei fra driver-CD-en som fulgte med. 
+I tillegg lastes et styreprogram som gir deg oversikt over bruken av kortet, som lister over nettverk, tilkobling, passord osv. 
+
+Opplevd bruk var både rask og stabil, men ikke like kvikk og lettbent i responsen som en rask kablet gigabit-linje. 
+
+Målingen sammen med ruteren Asus RT-AC66U viser at den rå UDP-hastigheten lå på over 500 Mbit. 
+For mer komplisert trafikk som TCP, som har stålkontroll over hver eneste bit som blir sendt lå hastigheten på 115 Mbit i snitt. 
+
+Dette er enda et hakk over forgjengeren, som ikke kom over 100 Mbit i snitt. 
+
+I praksis betyr dette at for internettbruk er hastigheten glimrende og godt over det de fleste har tilgjengelig fra sin nettleverandør. 
+
+For krevende nettbruk på lokalnettet hjemme, som overføring av mange og store filer, for eksempel video og høyoppløselige bilder, så er likevel fortsatt den tradisjonelle nettverkskabelen en god del raskere. 
+
+Men blant trådløse løsninger er den blant de beste vi har testet. 
+
+Asus PCE-AC68 

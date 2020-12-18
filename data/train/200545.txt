@@ -1,0 +1,67 @@
+D-Link DVG-5802S (Andybox)
+En toppspekket ruter fra D-Link, med norsk firmware! 
+
+Kravet til rutere for hjemmebruk har ikke blitt mindre med årene. 
+Flere brukere og tyngre bruk krever sitt, og nye løsninger kreves. 
+For å møte disse utfordringene har D-Link kommet med en boks som skiller seg ut fra hovedstrømmen på flere punkter: 
+D-Link DVG-5802S. 
+
+Forskjeller 
+
+For det første er utseendet annerledes enn de andre ruterne fra D-Link, med avrundete sider og metallisk bånd i bakkant over luftespaltene. 
+Fargen er den samme som på de senere modellene, blank og kremhvit. 
+
+Den har to eksterne antenner, den tredje skjuler seg inne i boksen, som bruker selvsagt bruker 802. 
+11.n med MIMO og resten av repertoaret. 
+
+På baksiden er det større forskjeller, her finner vi hele 7 porter, ikke bare de vanlige 4 som sitter på prakisk talt alle andre rutere. 
+Alle portene støtter Gigabit nettverk. 
+
+Dessuten finner vi to kontakter til analoge telefoner, boksen støtter IP-telefoni og kan ha to separate linjer med hvert sitt apparat. 
+
+Den siste kontakten er USB, som bare har støtte for overføring av innstillinger til PCer som skal på trådløst nett med ruteren. 
+Ingen felles lagring er støttet i denne versjonen av firmwaren. 
+Om det kommer noen oppgradering her, slik at den kan brukes til deling av lagring eller skriver, vites ikke. 
+
+Utviklet i Norge! 
+
+Boksen blir presentert slik: 
+"Firmwaren til Andybox er utviklet av det norske selskapet Owera, og er basert på state of the art komponenter i alle ledd. 
+Den har routingkapasitet og trafikkprioriteringsmekanismer som gjør at med Andybox kan du takle dagens og morgendagens nettverkstrafikk uten problemer." 
+
+Vi var på besøk hos Owera og fikk en meget overbevisende demonstrasjon, hvor online-spill, torrent-nedlastning og IP-telefoni foregikk samtidig. 
+Med QoS (Quality of Service) generelt og WISH (Wireless Intelligent Stream Handling) for trådløst som tar seg av detektering av trafikk og prioritering av forskjellge typer tjenester var det klare kvalitetsforskjeller. 
+Spillrespons ble prioritert, og kom gjennom upåvirket av annen bruk. 
+Det samme gjaldt IP-telefoni hvor kvaliteten ble sterkt forbedret med GIPS (Global IP Sound) aktivert. 
+
+De tjenestene som måtte "lide" var nedlastning og vanlig nettbruk, som ikke er tidskritisk slik som tale, video og spillrespons. 
+
+I daglig bruk 
+
+Vi har hatt DVG-5802S på test i daglig bruk i heimen i en måneds tid uten problemer. 
+Den store forskjellen sammenlignet med D-Link-ruteren vi ellers bruker (DIR-655) har ikke vært påtagelig, siden denne også byr på samme QoS og WISH. 
+
+Siden vi har IP-telefon fra Telenor er det ikke mulig å bruke de innebygde SIP-portene til fritt valgt IP-telefoni. 
+Du er avhengig av en åpen tjeneste eller en lokal tilbyder som tilbyr tjenesten på DVG-5802S. 
+Er du tilknyttet et slikt nett har du sikkert allerede blitt informert om dette. 
+
+En annen ting er at QoS bare kan prioritere utgående trafikk, altså den ut-trafikken du selv genererer med dine PCer og enheter på ditt lokale nettverk. 
+Det du tar i mot kommer når det kommer, og ruteren kan ikke gjøre noe med rekkefølgen. 
+Det eneste ruteren kan gjøre er å sørge for å videresende pakkene fra Internet til de forskjellige PCene inne på nettverket så raskt som mulig, dette ordnes med rå rutingkapasitet og krever ingen andre inngrep som sortering og vurdering som bare ville ha forsinket dataene. 
+
+Dessuten er det ingen ting som kan erstatte båndbredde. 
+Er det ikke plass til alle dataene uten at det skjer tidskrotiske avbrudd, da er det ingen ting QoS kan gjøre med saken. 
+Sitter du på en beskjeden forbindelse og laster ned, spiller FPS over nett og snakker i Skype, mens noen andre snakker i IP-telefon og en tredje forsøker å laste opp filer til jobben mens han ser video - da holder det rett og slett ikke med en slapp ADSL-linje. 
+Med mye trafikk inn spises også kapasiteten ut opp, på grunn av trafikkadministrasjonen. 
+Resultatat blir at ingen tidskritiske datastrømmer kommer helskinnet gjennom hele tiden. 
+
+Sitter du derimot på et raskt kabel- eller fibernett gjør QoS-teknikken i ruteren din totalbildet et hakk bedre. 
+
+Trådløst 
+
+Den trådløse ytelsen var på høyde med andre rutere i vårt miljø. 
+Det er stadig flere trådløse nett som slåss om båndbredde, så ytelsen blir i praksis lavere enn den var for et år siden på tilsvarende utstyr med 802.11n. 
+
+Konklusjon 
+
+DVG-5802S er en ruter i toppklassen, men full uttelling av alle egenskapene får du ikke før du sitter på en rask internettlinje hos en nettilbyder som også støtter IP-telefonidelen i ruteren. 

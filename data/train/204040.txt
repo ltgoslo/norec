@@ -1,0 +1,60 @@
+Enkel deling av mobilt internett på tur
+Ypperlig til alt fra bilen, båten til leirbålet i skogen 
+
+Vi konsumerer stadig mer data på dingsene våre via mobilnettet, og nylig avslørte Ookla (selskapet bak surfometeret Speedtest.net) at Norge har verdens raskeste mobilnett. 
+
+Men fortsatt er det relativt dyrt å surfe på mobilnettet i Norge, sammenlignet med våre naboland. 
+Datapakkene som følger med de rimeligste abonnementene er dessuten svært begrenset, og egner seg ikke til våre nye medievaner der spesielt videostrømming står sentralt. 
+
+Smart deling av mobilt internett 
+
+Et alternativ er at ett familiemedlem tegner et abonnement med romslig datapakke, og deler denne med de andre ved hjelp av en 4G-ruter - for eksempel på hytta eller i ferieleiligheten. 
+Man kobler seg til denne ved hjelp av vanlig trådløst nettverk, og så sørger ruteren for å rute datatrafikken via mobilnettet. 
+
+Hva om du ikke har tilgang til strøm? 
+
+Dersom du har tenkt å dele abonnementet på steder der du ikke har tilgang til nettstrøm, for eksempel i bilen, i teltet, i båten eller rundt leirbålet, kan du enten opprette en delt internettoppkobling direkte på mobilen (trekker mye strøm) eller benytte en 4G-ruter som går på batteri. 
+
+TP-Link Mobile Wifi M7350 er en slik løsning. 
+Den lille ruteren koster rundt en tusenlapp, og er så liten at den får plass i skjortelomma. 
+
+Den sørger enkelt forklart for at inntil 10 enheter kan være oppkoblet samtidig og dele samme mobile internettilkobling (4G/3G). 
+Enhetene kan også kommunisere med hverandre direkte når de er oppkoblet. 
+
+Som en liten rosin i pølsa, har ruteren også innebygd kortleser for microSD-kort. 
+Der kan du for eksempel legge inn filmer som tilkoblede PC-er kan dele. 
+
+Dette er en ruter som har vært på markedet en god stund, men den er fortsatt en av de mest aktuelle, ifølge Prisjakt. 
+
+Slik er den i bruk 
+
+Installasjonen er ganske enkel. 
+Du åpner lokket, tar ut batteriet og skyver inn SIM-kortet. 
+Adapter fra Nano og Micro til standard SIM, følger med. 
+Har du et microSD-kort, kan du også skyve dette inn i sporet ved siden av. 
+
+Deretter setter du inn igjen batteriet og klikker på lokket. 
+Hold inne power-knappen i noen sekunder, til displayet på enheten lyser opp. 
+
+Via displayet får du tilgang til en liten meny. 
+Her finner du blant annet navnet på det trådløse nettverket samt passordet. 
+
+Når du har koblet opp mobilen eller PC-en, åpner du en nettleser og taster inn ruterens IP-adresse, 192.168.0.1. 
+Så er det bare å legge inn koden på SIM-kortet, og vips - så er du på nett. 
+
+Du kan be ruteren huske koden til neste gang den skrus på, og du kan også sette en grense for hvor mye data de tilkoblede enhetene kan konsumere via dette oppsettet. 
+
+Ikke full 4G+-hastighet 
+
+Vi koblet til en iPhone 6s, og oppnådde rundt 50 Mbps i nedlastingshastighet via Telenor 4G. 
+Direkte på telefonen nådde vi derimot over 90 Mbps på samme sted. 
+Årsaken til denne begrensningen er at M7350 ikke støtter LTE-A-standarden (4G+), men 50 Mbps er uansett nok til å håndtere det som er av strømmetjenester på nettet i dag. 
+
+Batteritiden er oppgitt til rundt 10 timer med kontinuerlig bruk. 
+I standby-modus skal den vare rundt 600 timer, ifølge produsenten. 
+Skal du på langtur med telt i skogen, kan det uansett være smart å investere i en mobil nødlader i tillegg. 
+
+Konklusjon 
+
+TP-Link Mobile Wifi M7350 er en enkel, kompakt og smart løsning for deling av mobilt internett og filer via microSD-kortet. 
+Oppsettet er enkelt, men vi savner norsk språkdrakt og naturligvis også støtte for 4G+. 

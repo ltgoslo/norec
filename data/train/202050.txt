@@ -1,0 +1,58 @@
+Live!Cam Connect HD 
+
+Webkamera med innebygd bildekomprimering - løser det problemet med lav båndbredde? 
+
+Webkamera kan være både moro, hyggelig og interessant, men et vanlig problem er hakking, pikselering og svært ujevn bildekvalitet. 
+Grunnen til dette er at videosignalet fra kameraet leverer en svært heftig datastrøm, og at PC-en derfor må håndtere mye data for å kunne sende ut et noenlunde transportabelt signal. 
+
+At de fleste sitter med asymmetriske linjer, hvor hastigheten ut bare er en brøkdel av hastigheten inn, gjør det ekstra vanskelig. 
+
+Hva er løsningen? 
+
+Live! 
+Cam Connect HD - med kompresjon i kameraet 
+
+Selve kameraet ser svært så uskyldig ut, det er lite og lett og har en svært enkel, men fleksibel festemekanisme. 
+Denne er nærmest bare et hengsel pluss at selve kameraet kan justeres litt opp og ned. 
+Det er enkelt, men tilstrekkelig. 
+
+Ved hjelp av litt tape kan du feste det skikkelig, hvis det skulle være nødvendig. 
+
+Linsen er spesiell, i følge Creative har den en flytende krystall-basert løsning som gir fullstendig støyfri autofokus. 
+Mekaniske løsninger gir ofte ulyder inn i mikrofonen som sitter like ved. 
+
+Oppløsningen er HD 720p og det smarteste av alt: 
+Den har H.264 komprimering i maskinvare i selve kameraet! 
+
+Installasjon 
+
+Selve kameraet er bare å plugge inn i en USB-port, det trengs ingen ekstra drivere i Windows 7 eller nyeste MacOS. 
+
+Så kan du starte Skype, Messenger eller annet chatteprogram, og kameraet blir oppdaget og kan tas i bruk med det samme. 
+
+Det følger også med en CD med programvare, og her finner vi den vanlige varianten med mulighet for å ta bilde og video, samt bruke avatarer som følger med ansiktsbevegelsene dine. 
+Bare tull og tøys, men moro for unga. 
+
+Vi hadde forøvrig problemer med å installere denne programvaren på to av våre testPC-er med Windows 7, på den eldste - vår hjemmePC - fungerte det helt uproblematisk. 
+På vår nyeste IvyBridge PC bare plugget vi inn kameraet uten å installere noe, og det fungerer utmerket. 
+
+På de to problemmaskinene fikk vi ikke en gang startet kameraet etter å ha installert programvaren. 
+
+I bruk 
+
+Vår internettlinje hjemme er lusne saker, med usle 401 Kbit/s opplasting og 3,77 Mbit nedlasting. 
+Derfor blir bildet fra vanlige webkamera tilsvarende elendig. 
+
+Men med dette kameraet ble det en helt annen verden. 
+Vi testet både mot DinSides redaksjonslokaler hvor vi har rundt 80 Mbit tilgjengelig i begge retninger og mot våre venner og familie som har varierende hastigheter, men langt høyere enn vår. 
+
+Vi svitsjet mellom et vanlig webkamera og Live! 
+Cam Connect HD og forskjellen var latterlig stor. 
+Fra lurvete, hakkete bilder med det vanlige webkameraet til klare, jevntflytende bilder med Live! 
+Cam Connect HD. 
+
+Konklusjon 
+
+Selve kameraet løser båndbreddeproblemet ytterst elegant og gir utmerket bildestrøm selv på en langsom nettlinje. 
+Men programvaren er i større grad et risikoprosjekt. 
+Heldigvis er den ikke nødvendig for å ha stor nytte og glede av kameraet. 

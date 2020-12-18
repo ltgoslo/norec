@@ -1,0 +1,56 @@
+Kjør Linux-programmer i Windows
+Det er faktisk fullt mulig ved hjelp av KDE on Windows. 
+Men vær forberedt på at de krasjer. 
+Ofte. 
+
+Før du leser videre er det greit å gjøre oppmerksom på at dette ikke er noen forsinket aprilspøk. 
+Det er nemlig mulig å kjøre programmer som egentlig er laget for Linux, i Windows, hvis man av en eller annen grunn skulle ønske det. 
+Man må bare ha de rette verktøyene for å gjøre det. 
+
+Linux-brukere har en løsning kalt Wine, som gjør at de kan kjøre Windows-programmer, så hvorfor ikke? 
+
+Vi skynder oss samtidig med å legge til at KDE on Windows ikke er en løsning fri for komplikasjoner. 
+Den er fortsatt på eksperiment-stadiet, vil vi hevde, og du må derfor regne med en god del ustabiliteter dersom du skulle få lyst til å prøve den. 
+
+Litt info om KDE 
+
+Men hva er så KDE on Windows? 
+Dersom du er bevandret i Linux-verden, vil du vite at KDE er et såkalt skrivebordsmiljø for Linux. 
+Det er altså snakk om det grafiske grensesnittet du møter med programvinduer, startmeny og ikoner, og med på lasset følger en rekke spesialsydde programmer og konfigurasjonsverktøy. 
+
+KDE er et av de mest populære skrivebordsmiljøene til Linux, en annen du muligens har hørt om er Gnome. 
+Det finnes mange andre også, men disse er de to mest utbredte. 
+
+KDE on Windows er rett og slett et side-prosjekt som ble startet for å gjøre det mulig å kjøre KDE-programmer i Windows. 
+
+Mye bra 
+
+Hvorfor skulle man det, vil du kanskje spørre, og da svarer vi at det finnes mange gode programmer for KDE, som for eksempel multimediespilleren Amarok, kontorpakken Koffice, en rekke pedagogiske programmer, spill og mye mer. 
+
+Foreløpig er det bare noen av programmene som er tilgjengelig i Windows gjennom denne løsningen, men det dukker stadig opp nye. 
+
+Slik gjør du det 
+
+For å komme i gang, må du først laste ned og kjøre det lille programmet KDE-Installer, og følge instruksjonene. 
+Underveis vil du få spørsmål om hvor du vil laste ned programmene fra, og da er et godt tips å velge ftp.sunet.se, som er en rask server lokalisert i Sverige. 
+Husk at det fort dreier seg om noen hundre megabytes som må lastes ned. 
+
+Dersom du ønsker å fjerne eller legge til programmer senere, kjører du bare KDE-Installer en gang til. 
+
+Våre inntrykk 
+
+Vi lastet ned og installerte en rekke KDE-programmer på vår test-PC med norsk Windows Vista, både programmer merket "Stable" og "Unstable". 
+
+De fleste programmene startet, og kunne i sin enkleste form brukes. 
+Problemer oppstod imidlertid ofte så snart vi trykket på åpne/lagre eller prøvde noen av spesialfunksjonene. 
+
+De enkleste spillene og programmene fungerte imidlertid stort sett greit, men vi ser ikke de store poengene ved å bruke enkle Linux-programmer der det finnes et utall bedre løsninger for Windows, mange av dem også gratis. 
+
+Konklusjon 
+
+KDE on Windows har en lang vei å gå før det blir en løsning som kan anbefales. 
+Programutvalget er begrenset, og stabiliteten er for dårlig pr i dag. 
+
+Dersom du er Windows-bruker og ønsker å bli kjent med Linux, anbefaler vi heller å installere Ubuntu eller Linux Mint i en virtuell PC. 
+
+Du finner mer informasjon om KDE on Windows-prosjektet på windows.kde.org. 

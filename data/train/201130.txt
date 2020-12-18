@@ -1,0 +1,62 @@
+Test:Draytek Vigor 2710Vn ADSL ruter 
+
+Alle funksjoner i en boks er praktisk. 
+
+ADSL har vært tilgjengelig for norske forbrukere siden slutten av 2000, og vi fikk det installert i januar 2001. 
+Denne typen forbindelse finnes i mange varianter med forskjellig ytelse, avhengig av kvaliteten på telefonledningene mellom deg og sentralen og er den mest utbredte formen for internettilgang i Norge. 
+
+Den første varianten hadde en maksimal hastighet på 6 Mbit ned og ca 1 Mbit opp, forutsatt god kabling. 
+
+Senere kom ADSL2 og ADSL2+ som gjorde det mulig med økte hastigheter, helt opp til ca 25 Mbit under svært gode forhold og kort avstand mellom bruker og sentral. 
+
+Tidligere måtte man ha et ADSL modem, en ruter og et trådløst aksesspunkt for å etablere et moderne hjemmenett. 
+Men det finnes ogs løsninger hvor du får alle funksjoner i én boks, vi har testet Vigor 2710Vn. 
+
+I pakken 
+
+Pakken inneholder selve ruteren, separat strømforsyning, en fot, tre antenner og et par kabler. 
+Dessuten følger det med skruer og plugger for å montere den i veggen. 
+
+En liten trykksak, Quik Start Guide med CD følger også med. 
+
+Oppsett 
+
+Tilkoblingene for ADSL og det lokale nettverket sitter plassert på enden av ruteren. 
+
+Etter å ha koblet ruteren til ADSL-splitteren og videre til PC-en slår du på PC-en og venter til den har fått IP-adresse av ruteren. 
+Deretter åpner du en nettleser og skriver inn IP-adressen til ruteren, som er 192.168.1.1. 
+
+Deretter kjører du en veiviser- Quick Start Wizard - som detekterer ADSL-linjen og skal få det på nett. 
+Det er en fordel om du setter deg inn i hvilke parametre de forskjellige Internettilbyderne opererer med før du kommer så langt. 
+Forhandleren bør kunne hjelpe deg med dette, eller du kan sjekke nettsiden til distributøren. 
+
+Vi måtte endre én instilling i oppsettet for at forbindelsen til Telenor ADSL skulle komme på banen, denne informasjonen fant vi på nettet. 
+Deretter var det bare å legge inn brukernavn og passord, tvinne tomler i noen minutter mens apparatene gikk inn i harde forhandlinger og ble enige om å være venner og snakke sammen i all uoverskuelig framtid. 
+
+Resten av ruteroppsettet er ganske rett fram, hvis man har satt opp én ruter, så er det ikke store forskjellen mellom de forskjellige produsentene. 
+Det er bare skjermbildene som er mer eller mindre fancy. 
+DrayTek sine menyer er av den enkle sorten. 
+
+I bruk 
+
+Dette er en av de enklere ADSL-ruterne fra DrayTek, men dekker fint behovet til de fleste hjem og mindre virksomheter. 
+
+Vi støtte ikke på noen merkverdigheter i testperioden, forbindelsen både internt og eksternt var helt stabil til enhver tid. 
+
+Også det trådløse nettet oppførte seg eksemplarisk. 
+Hastigheten var god og rekkevidden var like god som med de beste fra andre produsenter. 
+I hele huset, fra hems til kjeller og i hagen var det utmerket dekning. 
+
+USB-kontakten kan brukes til å koble til en felles printer, hvis det er praktisk at den står samme sted som ruteren. 
+
+Her kan man også koble til et USB 3G-modem, som ekstraløsning hvis hovedforbindelsen faller ned - eller som alternativ hovedløsning. 
+
+Modellen 2710Vn som vi hadde til test har også støtte for VoIP (IP-telefoni), men det har vi ikke testet. 
+
+Konklusjon 
+
+DrayTek Vigor 2710 er en praktisk og elegant ruter, som dekker basisbehovet for vanlig hjemmebruk og for mindre virksomheter. 
+
+Den er grei å sette opp, stabil og har god rekkevidde. 
+
+Mer informasjon får du hos distributøren Formosa 

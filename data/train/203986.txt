@@ -1,0 +1,86 @@
+Noen ganger er to like bra som tre
+Dette settet består av en trådløs ruter og en satellitt, og er spesielt myntet på deg med stort hus med alt på én flate. 
+Men vår test viser at flere etasjer heller ikke er noen stor utfordring. 
+
+Hvis du har fulgt med på Dinsides teknologistoff den siste tiden, har du sikkert fått med deg at vi har begynt å teste trådløse mesh-nettverk. 
+
+Mesh kan kort forklares slik: 
+Istedenfor å ha én trådløs ruter, har du i stedet flere små bokser (noder) - gjerne tre, plassert på strategiske steder i boligen. 
+Nodene kommuniserer med hverandre i et eget beskyttet trådløst nett, for å sørge for best mulig hastighet mellom dingsene dine og internett. 
+
+Avhengig av hvor i boligen du befinner deg, kobles dingsene dine automatisk til den noden som har best signalstyrke. 
+Har man et veldig stort hus, kan man bygge ut med flere noder til man er fornøyd. 
+
+Våre tester viser at dette er en effektiv metode for å gi trådløsdekning til hver krinkelkrok - samtidig som hastigheten holdes på et høyt nivå. 
+
+En tradisjonell løsning med ruter + range extender, kommuniserer derimot med hverandre i det samme nettet som enhetene dine er tilkoblet, noe som begrenser ytelsen. 
+
+Tredje løsning på testbenken 
+
+De to foregående mesh-løsningene vi har testet, Asus Lyra og TP-Link Deco M5, bestod av tre slike noder. 
+Orbi RBK40 fra Netgear, består av kun to. 
+
+De to er imidlertid langt større enn de foregående, men den stående designen, som kan minne om en vase, er ikke så aller verst plasseringsvennlig likevel. 
+
+RBK40 er litt mindre enn søstersettet RBK50, som har vært i markedet en stund. 
+Begge støtter MU-MIMO. 
+Enkelt forklart sørger MU-MIMO-støtten for bedre og jevnere ytelse når mange MU-MIMO-kompatible klienter er tilkoblet. 
+
+Oppdatert: 
+Vi beklager at vi først kom i skade for å skrive at RBK50 ikke støtter MU-MIMO. 
+
+Merk også at de to boksene har innebygd gigabit svitsj med plass til totalt sju kablede enheter. 
+Dette er vesentlig mer enn de andre vi har testet, som kun har plass til én eller to kablede enheter pr node. 
+
+Og vi må også legge til at Orbi ikke støtter kablet kommunikasjon mellom nodene, noe konkurrentene gjør. 
+Dette er normalt ikke noe du vil ha behov for å gjøre, med mindre boligen din har en svært krevende utforming med utpreget bruk av materiale som stopper trådløse signaler. 
+
+Brukervennlig oppsett, men få funksjoner i appen 
+
+I pakken ligger det lettfattelige instruksjoner på hvordan du setter opp Orbi. 
+Det enkleste er å bruke Orbi-appen, og følge veiviseren. 
+Appen laster du ned gratis fra Google Play eller App Store. 
+
+Du kan også bruke en vanlig nettleser på PC-en til å sette opp mesh-en, noe vi faktisk vil anbefale - for det er ikke noen mulighet til å oppdatere firmwaren fra mobil-appen, og den bør oppdateres. 
+I vårt tilfelle var det kommet tre oppdateringer siden Orbi-ene ble lagt i esken på fabrikken. 
+
+Faktisk er det svært lite du kan gjøre fra appen, annet enn å sette opp nettet og se at alt fungerer. 
+Alt annet må du gjøre fra web-klienten, der du til gjengjeld har mye avansert funksjonalitet og skreddersøm å boltre deg med. 
+Her har Netgear en jobb å gjøre for å komme på høyde med konkurrentenes mer funksjonsrike mobil-apper. 
+
+I vårt tilfelle tok hele prosessen med å sette opp og oppdatere Orbi, i underkant av ti minutter. 
+
+Imponerende dekning og hastighet 
+
+Netgear fremhever at Orbi er en ideell løsning for store boliger (inntil 250 kvadratmeter) på én flate. 
+I vårt tilfelle er det også snakk om en bolig på rundt 250 kvadratmeter, men den er fordelt over tre etasjer. 
+
+Vi plasserte ruteren på samme sted i toppetasjen som i de andre testene, og satellitten plasserte vi i etasjen under. 
+Siden settet bare består av to enheter, ble det dermed ingen satellitt i kjelleren. 
+
+Under testingen viste det seg imidlertid at dette ikke var noe problem overhodet, med vår 160/160 Mbps fiberlinje mot internett. 
+I tabellen under ser du hvilke resultater vi fikk mot Speedtest.net med vår iPhone 6S Plus - først med kun en Orbi tilkoblet, deretter med begge to: 
+
+Det viktigste å merke seg her er tallene helt til høyre, som alle viser høyere hastigheter enn de 160 megabitene pr sekund vi har tilgjengelig på vårt bredbåndsabonnement - altså sørger to noder i dette tilfelle for like god dekning som tre noder i tilfellet med TP-Link og Asus. 
+
+At hver node sørger for bedre dekning hos Netgear enn hos konkurrentene, ser vi også når vi tester med kun én aktiv node. 
+Den gir faktisk bra dekning i hele huset, med 80 mbps som laveste hastighet, to etasjer under der den er plassert. 
+
+Vi testet også dekningen i garasjen, som er i en tilstøtende bygning. 
+Her målte vi 79 mpbs ned og 65 opp, også det helt fine hastigheter og tilstrekkelig for strømming av video i aller beste kvalitet. 
+Her var Asus Lyra raskere på nedlastingshastighet, mens Netgear viste seg å være overlegen på opplasting. 
+
+Vi må også legge til at det var få og små variasjoner mellom målingene våre, noe som tyder på stabil og god dekning. 
+
+Konklusjon 
+
+Netgear Orbi RBK40 er en super løsning for deg som sliter med trådløsdekningen i huset ditt. 
+Takket være at hver node sørger for kraftigere signaldistribusjon enn konkurrentene fra TP-Link og Asus, var det tilstrekkelig med to noder i vårt tilfelle - en stor enebolig på 250 kvadratmeter med tilstøtende garasje. 
+
+Vi er ikke veldig imponert over mobil-appen, og at du må bruke PC for å oppdatere firmwaren og gjøre avanserte innstillinger på Orbi, men utover det har vi ikke særlig mange innvendinger. 
+
+Prismessig plasserer den seg mellom TP-Link Deco og Asus Lyra, med prislapp fra rundt 3.800 kroner i de billigste nettbutikkene. 
+Det er fortsatt mye penger sammenlignet med hva du må ut med for mange kraftige rutere, som i noen tilfeller også kan gjøre susen. 
+Se bare denne sammenligningen. 
+
+Få også med deg testene av TP-Link Deco og Asus Lyra. 

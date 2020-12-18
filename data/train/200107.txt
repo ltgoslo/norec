@@ -1,0 +1,84 @@
+Dell Inspiron 9400
+Denne 17-tommers bærbare har virkelig noe å bevise, for lillebroren har tidligere imponert oss stort. 
+Kan Inspiron 9400 være like lett å like som sin yngre slektning? 
+
+Vår lille testserie med 17" bærbare fortsetter. 
+For en uke siden var det den lette og elegante W1 fra LG som stod på testbenken, i dag ser vi på storebroren til en gammel kjenning. 
+
+LES OGSÅ: 
+
+Inspiron 9400 har det samme designet som Inspiron 6400 - sølvfarget med hvite lister i kantene. 
+
+Fulle spesifikasjoner: 
+
+Intel Core 2 Duo T7200 @ 2,0 GHz 17" skjerm i bredformat (1440 x 900 piksler) 1 GB DDR2-minne (2 x 512 MB) 160 GB harddisk (5400 rpm) 
+DVD dual-layer DVD/CD-brenner ATI Mobility Radeon X1400 (256 MB minne) 54 Mbps WLAN (a/b/g) 10/100 LAN + modem 6x USB, 1x FireWire (4-pin), lyd inn/ut 1 ExpressCard/54 kortplass 5-in-1 kortleser: SD, MMC, Memory Stick/Pro, xD DVI, VGA og S-Video-utgang (7-pins) 9-cellers batteri Dimensjoner (B/D/H): 
+39,9 x 28,8 x 4,7 cm Vekt ca. 3,7 kilo OS: 
+Windows XP Media Center Edition Pris: ca 15 tusen inkl. mva. og frakt 
+
+Konstruksjon 
+
+Inspiron 9400 er altså konstruert på samme måte som den nevnte 6400, altså litt lubben, og samme nivå når det gjelder kvalitet. 
+Ikke det at maskinen gir oss noen umiddelbar følelse av luksus og eksklusivitet, men jevnt over sitter vi igjen med et inntrykk av en solid og funksjonell PC. 
+Designet er ikke det mest spenstige på markedet, men fungerer selv om tastaturet - som forøvrig er stille og behagelig å skrive på - lett ser merkelig lite ut på en såpass bred maskin. 
+
+Touchpaden har vi egentlig heller ingenting å si på. 
+Som skjermen er den i bredformat, følsom og med skrollfelt i alle retninger. 
+Knappene for høyre og venstre museklikk er store og behagelige - her har de fleste konkurrentene fremdeles litt å lære. 
+
+De to andre knappene på maskinen er plassert over tastaturet: av/på-knappen og en "MediaDirect" snarveisknapp. 
+Sistnevnte starter i vårt tilfelle selve Media Center-applikasjonen. 
+I fronten er det foruten høyttalere også snarveisknapper for medieavspilling og volumkontroll, så du kan spille musikk med lokket igjen. 
+Resten av snarveiene styres med Fn-tasten og det vanlige tastaturet. 
+
+Tilkoblingene på maskinen er plassert bak, på høyre og på venstre side. 
+I front finner vi altså kun høyttalerne og medieknappene: lydløs-tast(mute), volum opp/ned, play/pause, forrige/neste og stopp. 
+
+På høyre side er det en ExpressCard/54-slot, FireWire, lyd inn og ut, samt minnekortleser. 
+Helt i bakkant luftinntak. 
+
+Bak har vi åpninger på begge sider for varmluft. 
+Ellers finner vi S-Video ut, LAN og modem, 4x USB, både DVI og VGA ut + inngang for strøm. 
+
+Venstresiden er hovedsaklig okkupert av det optiske drevet og luftinntaket bak, i tillegg er det kun plass til kensingtonlås og 2x USB her. 
+
+Fin ytelse, men ikke vær for kresen på spillene 
+
+Prosessorytelsen er som forventet god. 
+Av resultatene under kan vi se at det ikke er mye forskjell på de tre maskinene. 
+Noe annet hadde også overrasket oss, siden LGen har nøyaktig lik prosessor under panseret. 
+
+Prosessorytelse. 
+Verdien er i sekunder, og lavere score betyr raskere datamaskin. 
+
+I PCMark05 tar Inspiron 9400 sisteplassen. 
+Ved å se på delkarakterene er det lett å se at det er grafikkortet som gjør at den havner bakerst. 
+
+Høyere poengsum tilsvarer bedre ytelse 
+
+Dette betyr slett ikke at maskinen er håpløs til spill, spesielt med en såpass lav oppløsning som 1440 x 900 piksler vil et X1400 klare de fleste nyere spill så lenge du ikke skrur opp alle detaljer. 
+
+X1400 vil også være glimrende til det pene Vista-grensesnittet. 
+Dell lar deg oppgradere fra XP til Vista for et lite mellomlegg, men kun dersom du velger engelsk operativsystem... 
+
+Vi var spente på om Inspiron 9400 med 9-cellers batteri ville være like seig i driften som lillebror 6400, som fremdeles er legendarisk. 
+Og vi ble ikke skuffet: litt over fem timer i Batterymark er meget bra. 
+Tross alt er skjermen større og grafikkortet mindre gjerrig på strømmen enn det interne som vi fant i den Inspiron 6400 vi testet. 
+
+I forhold til de to andre 17-tommerne vi har sett på har 9400 laaangt bedre utholdenhet på batterifronten. 
+Men til sitt forsvar skal det nevnes at W1 kan leveres med bedre batteri enn det som er målt her... 
+
+Støymessig er også Inspiron 9400 en fryd. 
+Maskinen er ikke lydløs, men det svake suset som hun kan høres i rolige omgivelser er slett ikke sjenerende. 
+Under bruk som belaster prosessoren eller grafikkortet over tid spinner selvfølgelig viftene opp, men også da er volumet godt under toleransegrensen. 
+
+Konklusjon 
+
+Dell Inspiron 9400 lever på alle måter opp til det vi håpet den skulle være etter hvor fornøyd vi var med lillebroren. 
+Mens designet for tiden kanskje ikke er verdens mest spenstige er dette en god arbeidsmaskin: stillegående, utholdende, solid og en ytelse som skulle være god nok for de aller fleste. 
+
+Som en en jevnt over god 17-tommers bærbar PC med få svake kunne dette lett vippet opp på en femmer. 
+Men til denne prisen savner vi savner det lille ekstra som finnes hos mange av konkurrentene. 
+Vi gir den derfor til slutt en meget sterk firer! 
+
+Likevel, hvis du føler at denne maskinen har mer enn nok for deg og liker det du ser er dette en knallgod kandidat. 

@@ -1,0 +1,133 @@
+Samsung Galaxy Tab 10.1
+Det er ikke Samsungs skyld at alle har hyllet dette nettbrettet som den første skikkelige iPad-konkurrenten. 
+Det er derimot mest Samsungs skyld at vi ikke jubler uhemmet etter å ha brukt den. 
+
+Å ta opp konkurransen mot Apples nettbrettdominans i dag er bortimot det samme som å forsøke å velte Rolf Wesenlund ned fra tronen som den mest suverene Fleksnes-fortolkeren dette landet har sett (slapp av - det lar seg ikke gjøre). 
+
+Ifølge enkelte amerikanske analytikere vil 74 prosent av alle nettbrett som selges i 2011 være en iPad, og ettersom iPaden allerede har vært på markedet en god stund, kan ikke konkurrerende nettbrett akkurat stå med lua å hånda og kremte forsiktig hvis de ønsker å gjøre inntrykk. 
+
+Samsung kremter ikke forsiktig. 
+Samsung er schwære, og selv om de allerede har hatt et nettbrett på markedet i et helt år - utmerkede Galaxy Tab P1000 - er det først med Galaxy Tab 10.1 at de virkelig håper å sette standarden. 
+
+Svært tynn - svært lett 
+
+Brettet kommer med aller siste versjon (3.1) av Honeycomb, Googles Android-operativsystem spesialtilpasset nettbrett. 
+Det kommer også med påstanden om at Samsung har laget "verdens tynneste nettbrett", og med en tykkelse på bare 8.64 millimeter kan det sikkert stemme. 
+Hvorvidt det har betydning for brukeren at Galaxy Tab er 0.16 millimeter tynnere enn iPad 2 er mer usikkert. 
+Da er nok viktigere at den kutter rundt 40 gram på iPad 2 sine 604 gram, men de 40 grammene utgjør ikke noen markant forskjell. 
+
+Innholdsfortegnelse: 
+Svært tynn - svært lettLandskap eller portrett? 
+Ørlite tregLitt nettleser-krøllUjevn batteritidMedfølgende programvareHvor er nettbrett-appene? 
+Og hva skjedde med videostøtten? 
+Kjøpe eller ikke kjøpe 
+
+Galaxy Tab 10.1 kommer i prinsippet i tre ulike modeller med henholdsvis 16, 32 og 64GB lagringskapasitet, der hver modell enten leveres med bare WiFi, eller med både WiFi og 3G-tilkobling (krever SIM-kort). 
+
+Landskap eller portrett? 
+
+En annen forskjell fra iPad, som ikke virker så vesentlig på papiret, er skjermformatet. 
+Her er, som på andre Honeycomb-nettbrett, bredden gitt prioritet, og vi snakker om et vaskeekte 16:9-format. 
+Det betyr at Galaxy Tab 10.1 er snill mot filmer og tv-serier (det vil si, ikke helt - mer om det seinere), nettopp fordi de ofte fyller 16:9-formatet helt ut i kantene. 
+
+Men i og med at såkalt landsskapsmodus er foretrukket fører det blant annet til en del inkonsekvens, som for eksempel at en del programmer (inkludert Android Market) kun fungerer i denne modusen. 
+Det fører også til at brettet ikke ligger like godt i hendene når en bruker portrettmodus. 
+Mange, inkludert han som skriver dette, foretrekker høydeformatet til ting som epost, Twitter, Facebook og surfing - tjenester der informasjonen i hovedsak distribueres i høyden heller enn i bredden. 
+
+Dette vil nok være en smakssak, og vi snakker virkelig om livsfjern industrilandsproblematikk når en klager over at det blir litt for mye fysisk vriing og vending av brettet fra portrett til landskap til portrett igjen. 
+Men nå har vi ihvertfall nevnt det. 
+
+Ørlite treg 
+
+Mer alvorlig er det at Galaxy Tab 10.1 ikke oppleves som spesielt kjapp ved vanlig navigering. 
+Oppstart av apper, installering av småprogrammer og veksling mellom de fem hjemskjermene er strengt tatt ikke trege, men det føles litt for ofte som om det ligger et etterslep og vaker mellom fingerbevegelsene dine og det som skjer på skjermen. 
+Det er ikke dermed sagt den er treg - det er den ikke - den føles bare ikke så rask som en kanskje hadde håpet når en leser at den har en tokjerneprosessor på 1GHz på innsiden. 
+
+Et annet irritasjonsmoment er lyssensoren som skal regulere lysstyrken på skjermen i forhold til hvor mye lys det er i rommet. 
+Den er åpenbart ikke finjustert, for til tross for at en sitter med brettet i hånda i omtrent samme stilling og under samme lysforhold, kan lysstyrken finne på plutselig å forsterkes, for så å bli svak igjen, før den - du gjettet det - blir sterk igjen. 
+Den automatiske lyssensoren kan heldigvis skrus av. 
+Det gjorde jeg. 
+(Så får vi heller se om dette fikses i en oppdatering senere, slik tilfellet har vært på Galaxy S II) 
+
+Litt nettleser-krøll 
+
+Samsungs nettleser er stappfull av funksjoner, men er, som det meste annet på Android, utskiftbar. 
+Liker du den ikke kan laste ned en annen. 
+
+Visse ting virker likevel å være spikret fast, som for eksempel at nettleseren ikke viser noe særlig av innholdet før etter at rundt 70-80 prosent av innholdet er lastet inn. 
+Det betyr at du blir sittende og vente litt for lenge før du kan begynne å lese for eksempel overskrifter og ingresser, i motsetning til andre nettlesere, der innholdet lastes i henhold til en prioritert rekkefølge og vises fortløpende. 
+
+Også zoomingen når en vil nærmere en tekstkolonne har til tider vist seg upålitelig. 
+Noen ganger zoomer nettleseren simpelthen for langt inn, og da må en vente til teksten brekkes om før en kan begynne å lese. 
+Andre ganger zoomer den ikke så langt inn som den burde, hvilket forsåvidt er et mindre problem. 
+
+Nettleseren er heller ikke ekstremt rask. 
+En uhøytidelig test på britiske Guardian viser at en iPhone 4 for eksempel brukte rundt 13-14 sekunder på innlasting av sida, mens Galaxy Tab 10.1 lå på rundt 16 sekunder. 
+Dette er uten lasting av Flash-innhold. 
+
+Når det gjelder sistnevnte gjør derimot Galaxy Tab en god jobb, og naturligvis langt bedre enn iPad - som ikke spiller av Flash i det hele tatt. 
+
+Ujevn batteritid 
+
+Batteritiden er grei, men ikke helt på høyde med iPad 1 og 2, spesielt ikke på video. 
+Der holder Galaxy Tab merkbart kortere enn sin Apple-konkurrent, rundt 7 timer på én lading. 
+Brettet tåler heller ikke å ligge påskrudd, men ubrukt, i lengre perioder, det går med endel batterikraft selv i dvalemodus. 
+Dette skyldes sannsynligvis at brettet er tilknyttet mobilnettet, og vi tipper at Wlan-utgaven vil gjøre en betydelig bedre jobb med å holde på batterikapasiteten når brettet ikke er i bruk. 
+Oppladingen av batteriet er også, som på iPad, langsom. 
+
+Android blir gjerne hva du selv gjør det til, men det skjer også på eget ansvar. 
+Vi har deaktivert endel funksjonalitet for å bedre på batterilevetiden, og du vil garantert merke at batteriet sliter hvis du slår på automatisk henting av epost, automatisk oppdatering av sosiale strømmer, og i det hele tatt lar det trådløse livet seile sin egen sjø. 
+
+Kamerakvaliteten er helt på det jevne. 
+Bildene blir akseptable under gode lysforhold, men bildestøyen blir veldig tydelig under svakere lysforhold. 
+Å ta bilder med nettbrett er uansett en kuriositet. 
+De fleste foretrekker sannsynligvis litt mindre oppmerksomhet rundt egen person enn det medfører å ta bilder med et ti tommer stort brett foran øynene. 
+
+Medfølgende programvare 
+
+Som seg hør og bør i Android-verden har Samsung lagt ved en del programvare som skal gjøre det enklere å bruke brettet i, eh, bredden allerede fra første dag. 
+Den mest umiddelbart synlige vrien er snarveien til seks apper som ligger nederst på menylinja på hjemskjermen. 
+Her finner du oppgavebehandling (administrasjon av kjørende apper), kalender, verdensklokke, "Pen memo" (notater-app), kalkulator og musikkspiller. 
+
+Kjekt å ha, men det er ikke fullt så kjekt at du ikke kan bytte ut appene med andre apper. 
+
+Social Hub er forsåvidt ikke ny, men samler en del sosiale tjenester under samme paraply. 
+Den fungerer både som miniprogram ("widget") og app, og er en grei måte å raskt sjekke om det har skjedd noe nytt på for eksempel Twitter eller Facebook. 
+Den støtter også epost og meldingstjenesten (SMS og MMS). 
+
+Pulse er en pen RSS-leser (som på den annen side ikke er eksklusiv for Samsung, den er tilgjengelig for alle Android og iOS-brukere), Music Hub er en tjeneste for kjøp av musikk i mp3-format (levert av 7Digital), mens Polaris Office er nyttig for deg som både leser og redigerer Office-dokumenter med ujevne mellomrom. 
+
+Hvor er nettbrett-appene? 
+
+På programvaresiden er Android Market fortsatt en ganske stor skuffelse for nettbrettbrukere. 
+Det finnes så langt ingen måte å liste opp dedikerte Honeycomb-apper, og utvalget er ikke i nærheten av det som finnes for iPad i App Store. 
+
+Er du smart besøker du Android Central, der denne lange tråden har en veldig bra oppsummering av hva som finnes av Honeycomb-vennlige apper. 
+Når det er sagt, kan en naturligvis bruke vanlige Android-apper på et Honeycomb-nettbrett. 
+Ofte ser det helt greit ut, andre ganger ser det ikke ut i det hele tatt. 
+
+Og hva skjedde med videostøtten? 
+
+En av tingene som virkelig imponerte med Samsungs aller første nettbrett, som altså også het Galaxy Tab, men hadde mindre skjerm (sju tommer), var hvor enkelt den taklet avspiling av så å si alle videofilene i testsuiten vår. 
+Selv HD-filer med 1080p-oppløsning og høy bitrate sklei gjennom systemet uten å gi brettet hikke. 
+
+Det var også én av grunnene til at den scoret høyt i vår store nettbrettest tidligere i år, til tross for at den var testens desidert eldste deltaker. 
+
+Hva Samsung har gjort med Galaxy Tab 10.1 vites ikke, men brettet presterer dessverre ikke like bra som sin ett år eldre slektning. 
+Flere 1080p-filer er rett og slett ikke mulig å spille av uten store forsinkelser, og blant annet støtten for såkalte mkv-filer er svak. 
+Heller ville heller ikke testfilen vår i 720p spille av uten hakking. 
+Vi har forsøkt med tre ulike video-apper uten at det hjalp nevneverdig. 
+
+Dette er naturligvis skuffende, uten å være noen katastrofe. 
+Det finnes en rekke konverteringsprogrammer som gjør videofiler nettbrettvennlige på relativt kort tid, og flere er også gratis. 
+
+Kjøpe eller ikke kjøpe 
+
+Vi er ikke overveldet av Samsung Galaxy Tab 10.1, selv om vi håpet å bli det. 
+Avstanden til andre Android-nettbrett, som for eksempel Motorola Xoom, Acer Iconia Tab A500 og Asus EEE Pad Transformer, er på ingen måte betydelig, selv om vekta og formfaktoren (først og fremst tynnheten) ikke skal bagatelliseres. 
+
+Det er litt for mye småpirk til at vi klarer trekke fram superlativene, men ihuga Android-brukere vil helt sikkert finne mye å like, til tross for at Honeycomb fortsatt føles litt for uferdig til at vi kan snakke om det optimale nettbrett-operativsystemet. 
+
+Femmeren vi triller i denne testen er med andre ord litt lunken, og vi synes fortsatt at iPad 2 - til tross for Flash-mangelen - tilbyr en mer komplett nettbrettopplevelse enn for eksempel Galaxy Tab 10.1. 
+
+Samsung GT-P7500 Galaxy Tab 10.1 16GB 

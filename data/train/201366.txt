@@ -1,0 +1,68 @@
+4G miniruter fra Telenor
+Og den kan være et smart valg. 
+
+Telenor fikk omsider ut fingeren og lanserte 4G høsten 2012. 
+Vi har nå blitt utrustet med begge løsningene de tilbyr av tilleggsutstyr, både miniruter med WiFi og USB-dongle til datamaskiner. 
+
+Og vi begynner med miniruteren. 
+
+Mobilt hotspot 
+
+Bak på miniruteren står det Mobile Hotspot. 
+Den er på størrelse med en liten mobil, og mobil er den, vekten er beskjedne 118 gram. 
+Den kan du ha i veska eller i lomma, eller liggende framme om du vil. 
+
+Poenget med denne er at den kobler seg til 4G-nettet og videreformidler dataforbindelsen som vanlig trådløst nett (WiFi). 
+Dermed kan du koble på både vanlige smartmobiler, bærbare PC-er, nettbrett, stasjonære PC-er - hva som helst som støtter trådløst nett. 
+
+Inntil 5 trådløse enheter kan kobles til samtidig. 
+
+Hvis det ikke er 4G dekning svitsjer den automatisk til 3G eller 2G (Edge) for å opprettholde nettverksforbindelsen. 
+
+Installasjon 
+
+Miniruteren leveres med batteri og lader og en grei og kortfattet norsk brukerveiledning. 
+
+Det er ikke vanskeligere å sette opp denne enn det er å ta i bruk en ny mobil. 
+Du åpner den, setter inn SIM-kort og batteri og setter på lokket. 
+Så lader du den med USB-laderen som følger med. 
+
+Du kan begynne å bruke ruteren med det samme når den er koblet til laderen. 
+Du trykker bare på den store knappen for å slå den på. 
+Deretter går du til innstillingene for trådløst nettverk på den enheten du vil koble til, velger nettverk og taster inn nøkkelen. 
+Første gangen må du også åpne en nettleser og taste inn PIN-koden som står på arket som fulgte med SIM-kortet. 
+Vi måtte starte Internet Explorer for å gjøre dette, Chrome åpnet ikke konfigurasjonssiden til miniruteren. 
+
+Så er miniruteren klar til bruk. 
+
+Første hastighetstest på kontoret i Oslo sentrum ga nedlastingshastigheter på rundt 15 MBit/sekund. 
+Etter å ha sjekket både i og utenfor sentrum er denne hastigheten ganske vanlig, men du kan også oppleve å få vesentlig høyere hastigheter under spesielt gunstige forhold. 
+Vi målte over 28 Mbit/sek både opp og ned utenfor Nationaltheatret ombord på trikken, med miniruteren i veska. 
+
+Også på toget oppover Groruddalen var ytelsen god, opp mot 15 Mbit/sekund. 
+
+Men på T-banen er det usle saker. 
+Inne i tunneller og nede i skjæringer faller ofte hele dekningen ut, i beste fall har man en dårlig 2G-dekning, 3G og 4G er det bare der det er rimelig åpent lende. 
+
+Om miniruteren lå i veska eller ble holdt i hånden ut mot vinduet utgjorde ingen praktisk forskjell. 
+
+Batteritiden er opptil 4 timer bruk, og 100 timer standby. 
+På reiser med varierende dekning vil battertiden bli lavere, siden effektbruken øker med dårligere dekning. 
+Hvis man bruker den til og fra jobb og på kortere turer er den relativt korte brukstiden ikke noe problem. 
+Hjemme eller andre steder bruker man den jo mens den står tilkoblet laderen. 
+
+Konklusjon 
+
+Bortsett fra på T-banen ga denne ruteren oss vesentlig høyere hastigheter og kjappere respons. 
+Med iPhone og iPad var det nesten eller samme hastigheten som på trådløst nett hjemme eller på jobb. 
+
+Bor du et sted hvor 4G-dekningen er god kan dette godt være din eneste internettforbindelse, som du i tillegg kan ta med deg over alt. 
+Du behøver da verken 3G-utgaven av nettbrett eller eget modem til bærbar PC hvis du er på farten og kan spare mange kroner på det. 
+
+Den eneste innvendingen vi har er datakvoten, som er for lav til å være en veldig god totalløsning for aktive brukere. 
+Skal du streame video og musikk, samt laste opp og ned egne data til Dropbox, Skydrive og andre tjenester så er kvotene på 10/20/30 GB i de forskjellige abonnementene ofte for lite hvis det er flere i husholdningen. 
+
+Det er naturlig å gjøre en sammenligning med Netcom sine tilbud, med de har en helt annen prisskala med både lavere og høyere priser og hastigheter, kvoter og ekstratilbud (Spotify). 
+Derfor kan man ikke sammenligne punkt for punkt, må du vurdere totaltilbudet selv etter egne preferanser. 
+
+Men at miniruteren gir en stor forbedring i surfeopplevelsen sammenlignet med 3G når du beveger deg på overflaten i en by med utbygd 4G nett er det ingen tvil om. 

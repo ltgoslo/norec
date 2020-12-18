@@ -1,0 +1,57 @@
+Sandberg Wireless BatteryFree Mouse Pro
+Lei av batteribytte og imot ledning? 
+Denne musa trenger bare sitt eget underlag. 
+
+Det er et utall forskjellige mustyper, og tilkobling og kommunikasjon med datamaskinen gjøres på mange forskjellige måter. 
+Allerede i musens barndom fant man ut at en kule-basert mekanisme var en støvsamler som førte til hyppige serviceintervaller. 
+Så kom optiske mus som løste problemet, de første krevde riktignok en egen plate med et rutemønster, i dag fungerer de beste på praktisk talt alle underlag. 
+
+Problemet med mus er at de trenger strøm til elektronikken, så kabel eller batterier har vært de eneste mulighetene. 
+
+Men det finnes andre måter å løse dette problemet på. 
+
+Wireless BatteryFree Mouse Pro 
+
+Denne løsningen fra Sandberg bruker induksjon til å forsyne musa med strøm. 
+Når du beveger musa på den medfølgende underlagsplata, beveger du en magnet i et elektrisk felt, og energien fra bevegelsen blir gjort om til elektrisk strøm som driver kretsene i musa. 
+
+Tilkoblingen er enkel, du plugger inn USB-kabelen fra den runde enheten som sitter på kabelen fra underlagsplata, og etter noen strakser har den generiske driveren lastet seg inn og musa er klar til bruk. 
+
+Hvis musa av en eller annen grunn ikke reagerer, trykker du på Tune-knappen på den lille boksen. 
+Frekvensen vil da endres. 
+
+Den røde PWR-lysdioden lyser hele tiden mens musa er tilkoblet, den grønne RUN-dioden lyser når du beveger musa. 
+
+Musa er utstyrt med 2 skrollehjul og to tommelknapper. 
+I tillegg er det en knapp for å doble hastigheten ved siden av skrollehjulet. 
+
+For å sette opp funksjonene du kan styre med alle disse knappene og hjulene, må du installere driverprogrammet som følger med på en mini-CD. 
+Da får du opp kontrollprogrammet som gir deg god oversikt. 
+
+I bruk 
+
+Musa glir svært lett på underlagsplata. 
+Den er også ganske lett, så du blir ikke sliten i hånda etter lang tids bruk. 
+
+Presisjon og hastighet er utmerket. 
+Vi testet den på et to-skjermsoppsett og du rekker fint over begge skjermflatene uten å måtte løfte musa eller ha for liten presisjon. 
+
+Fasongen på musa er tradisjonell, og har ingen spesielle ergonomiske finesser. 
+For en middels stor hånd passer den fint. 
+Har du en stor hånd kan dem bli i minste laget, hvis du liker å hvile håndflaten på musa. 
+
+Fungerer musa alene? 
+
+Det er nærliggende å lure på om musa fungerer alene, som en vanlig trådløs mus, eller om den alltid må brukes sammen med ladeplaten. 
+
+Svaret er enkelt: 
+Musa fungerer ikke på annet enn platen, så snart du prøver å bruke den på et annet underlag skjer det ingen verdens ting. 
+
+Dermed er denne museløsningen i praksis forbeholdt en stasjonær PC, eller en fast plass til en bærbar. 
+
+Konklusjon 
+
+Både trådløs og batteriløs på en gang er en god kombinasjon. 
+Musa fungerer utmerket hvis du liker lette og lettglidende mus. 
+
+Og selve poenget med løsningen er utmerket, du slipper både batteribytte, lading og ledning (direkte fra musa, altså), og behøver ikke ta noen spesielle grep for å bruke løsningen. 

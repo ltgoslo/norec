@@ -1,0 +1,116 @@
+Apple Mac mini (2014-utgaven)
+Duger den billigste modellen? 
+
+Mac mini er, som navnet tilsier, en bitteliten datamaskin. 
+Det er Apples minste stasjonære, og er i grunn bare en aluminiumsboks uten skjerm, tastatur og mus. 
+
+Det er også Apples billigste Mac, med en startpris på 4.290 kroner; 3.400 kroner billigere enn den nest billigste produktgruppen, MacBook Air. 
+
+Da Apple tidligere i høst oppgraderte Mac mini-serien, var det to år siden forrige gang. 
+Den har fått litt mer moderne innmat, som en ny prosessor og grafikkløsning, samt raskere WiFi. 
+
+Grunnmodellen koster dessuten 600 kroner mindre tilsvarende modell fra 2012, så i teorien burde den være et bedre kjøp enn noensinne. 
+Men den er ikke helt uten begrensninger. 
+
+Lekker og kompakt 
+
+Hva gjelder design, ser årets Mac mini ut som den har gjort siden 2011. 
+Lekker, støpt ut i et stykke aluminium med runde hjørner og skarpe kanter. 
+Det skal godt gjøres å finne en stasjonær datamaskin som er like elegant, kanskje med unntak av Apples egen iMac. 
+
+Mac mini egner seg like godt på TV-benken som den gjør skrivebordet, og ikke bare på grunn av utseendet og størrelsen, men også fordi det ikke følger noe ekstra utover selve maskinen enn en strømkabel. 
+
+Skjerm, tastatur og mus må du med andre ord anskaffe selv. 
+
+Maskinen kommer til gjengjeld fiks ferdig konfigurert og skrudd sammen. 
+Du trenger ikke gjøre noe annet enn å plugge i den medfølgende strømkabelen, samt koble til nødvendig tilbehør, før den er oppe og går. 
+
+Tre konfigurasjoner 
+
+Mac mini kommer i tre standardkonfigurasjoner. 
+Alle er oppgradert fra tredje- til fjerdegenerasjons Intel-prosessorer, fra Ivy Bridge til Haswell, som byr på bedre ytelse og strømforbruk sammenlignet med forgjengeren. 
+
+Spesifikasjonene er som følger: 
+
+Vi har hatt både grunn- og mellommodellen inne til test. 
+
+Begrensningene 
+
+Før vi sier litt om ytelsen og ytelsesforskjellene mellom akkurat de to, er det et par ting verdt å merke seg: 
+
+Apple tilbyr ikke lenger en firekjernet prosessor som alternativ for Mac mini, det er kun tokjernet prosessor som gjelder. 
+Til vanlige oppgaver, som surfing, epost og dokumentbehandling, vil ikke dette ha så mye å si for ytelsen. 
+Det vil det derimot til de tyngre jobbene, som foto- og videoredigering. 
+
+Tester gjennomført av Ars Technica viser faktisk at 2012-modellene er langt kjappere på de mest prosessorintensive oppgavene, deriblant videokonvertering i Handbrake. 
+
+Det gjelder imidlertid kun den mellomste og dyreste konfigurasjonen. 
+Den billigste modellen kom med tokjernet prosessor i forrige runde også, så her vil ytelsen være noe bedre, om enn ikke enormt mye. 
+
+Tidligere kunne du skru av lokket i bunnen av Mac mini for å bytte minnebrikker selv. 
+Nå har Apple fjernet denne muligheten, og minnebrikkene er loddet fast til hovedkortet. 
+Dermed må du bestemme hvor mye arbeidsminne (RAM) du tror du trenger når du kjøper maskinen. 
+
+Det hadde vært greit nok, men Apple tar seg godt betalt for ekstra minne. 
+Den billigste Mac mini-en kommer med 4GB RAM som standard, og det koster 860 kroner for å oppgradere til 8 GB eller 1.760 kroner for å oppgradere til 16GB. 
+
+Det om prispåslaget gjelder for øvrig andre komponenter også. 
+Ønsker du å oppgradere lagringsløsningen på grunnmodellen fra en 500GB harddisk til en 1TB Fusion Drive (harddisk/SSD hybrid), koster det hele 2.150 kroner. 
+Og dette kan du heller ikke bytte på egenhånd. 
+
+Ønsker du å gå utover standardkonfigurasjonen kan det med andre ord være lurere å velge en av de dyrere modellene. 
+
+I bruk 
+
+Som skrivebordsmaskin: 
+Grunnmodellen, som trolig vil være den som er aktuell for folk flest, er ikke akkurat noen kraftplugg, men byr likevel på helt kurant ytelse til vanlig hjemmebruk. 
+
+For øvrig bruker den samme prosessor som i nyeste MacBook Air, hvilket i teorien burde gi lik ytelse. 
+Men siden Mac mini har vanlig harddisk, mens MacBook Air har en raskere flashminne-basert løsning (SSD), blir likevel den bærbare maskinen raskere. 
+
+Grunnmodellen henger ikke like bra med i svingene som mellommodellen. 
+Det vil si at den er litt tregere til å starte opp, og den snurrende badeballen dukker litt oftere opp når vi starter et program eller har mange oppgaver gående samtidig. 
+
+Det skyldes ikke bare en raskere prosessor, men også at den har mindre arbeidsminneminne, 4GB mot 8GB. 
+
+Med integrert Intel HD 5000-grafikk, er imidlertid ikke grunnmodellen spesielt godt egnet til spilling, så fremt du ikke spiller veldig enkle spill som Angry Birds eller skrur ned grafikken til de laveste innstillingene. 
+
+Da vi prøvde å installere World of Warcraft, fikk vi faktisk advarsel om at maskinen ikke møtte minstekravene og at spillet derfor ikke ville kjøre spesielt bra. 
+Dette skyldes riktignok også prosessoren på 1,4GHz - minstekravet er 2,2GHz. 
+
+Mellommodellen er heller ikke noe spillbeist, selv om den har en noe bedre Intel Iris 5100 integrert grafikkløsning. 
+
+Som stuemaskin: 
+Den billigste Mac mini-en fungerer også helt fint som stuemaskin. 
+Med innebygd HDMI-inngang er det en enkel sak å koble den opp mot TV-en, så fremt du har en HDMI-kabel (dette følger ikke med). 
+
+På fremsiden av maskinen er det en infrarød port, så har du installert et mediesenter-program som Plex, kan du bruke en fjernkontroll til å styre den. 
+
+Ved å koble Mac min opp mot TV-en får du muligheten til å både surfe og se på filmer eller tv-serier. 
+Vi synes begge deler fungerte fint på vår 42" TV fra LG. 
+Det fløt fint når vi skrollet i nettsider, og Netflix-strømmingen hadde vi heller ingen store problemer med. 
+Det gikk også fint å se videofilene i full HD-oppløsning vi har liggende, noe vi ikke kan med for eksempel Apple TV helt uten videre. 
+
+Vi skulle imidlertid ønske det var mulig å bruke Mac mini som en Apple TV, altså ved at man kan streame innhold fra iPhone eller iPad til Mac mini-en (og dermed til TV-en). 
+Du kan få det ved å installere et tredjepartsprogram som AirServer, men vi hadde gjerne sett at det var innebygd. 
+
+Til slutt kan det nevnes at Mac mini støtter 4K-skjermer, men bare opp til 30Hz, altså 30 bilder i sekundet. 
+Det er halvparten av hva de siste Macbook Pro- og iMac-maskinene klarer og ikke spesielt egnet for kontorarbeid. 
+
+Konklusjon 
+
+Mac mini er den samme lekre, kompakte stasjonære maskinen den alltid har vært - og en rimelig inngangsbillett til Mac-verdenen. 
+Grunnmodellen fungerer fint til vanlig hjemmebruk, det være seg på kontoret eller stua. 
+Med operativsystemet, OS X 
+Yosemite, får du også det meste du trenger av programvare til enkle formål. 
+
+Mac mini er ingen spillmaskin, og skal du bedrive tyngre oppgaver som foto- og videoredigering, bør du kanskje vurdere andre alternativer, da de viser seg at selv de dyrere modellene faktisk er tregere enn forgjengerne. 
+
+Grunnmodellens pris på 4.290 kroner er forlokkende, og lavere enn før, men ikke glem at du må kjøpe skjerm, tastatur og mus i tillegg om du ikke har det alt. 
+4GB RAM kan bli i minste laget, og det trekker også ned at det ikke er mulig å bytte selv, spesielt siden oppgraderingsprisen er en del høyere enn om man kjøper minnebrikkene separat. 
+
+Går du for Apples trådløse tastatur og mus, må du riktignok ut med 1.198 kroner. 
+Elegant, men dyrt - og til stuebruk er det ikke så praktisk med separat mus. 
+Da ville vi heller gått for en flerbruksløsning, som dette rimelige Logitech-tastaturet med integrert styreflate. 
+
+Apple Mac Mini - 1,4GHz DC 4GB 500GB 

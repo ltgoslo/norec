@@ -1,0 +1,87 @@
+Brukervennlighet, bildekvalitet og konklusjon
+TEST: 
+Verdens mest solgte digitalkamera har fått en oppfølger. 
+Vi har testet ut Canons store publikumsfrieri. 
+
+Ser vi på menyene, har de mye til felles med kameraet fra Sony; både når det gjelder informasjonsvisningen ved opptak, farger i hovedmenyen og oppbyggingen generelt. 
+Hovedmenyen er delt opp i fem deler, hver med sin egen flipp. 
+To av dem går på innstillinger i forhold til opptak, én er rettet mot avspilling og to lar deg stille på mer generelle ting ved kameraet - språk, dato/tid, formattering av minnekort etc. 
+
+Som nevnt har du hurtig tilgang til flere innstillinger - ISO, hvitbalanse, bildestiler, fokusering og lysmåling er alle tilgjengelig via piltastene, i tillegg til en egen knapp for eksponeringskompensasjon (som brukes i kombinasjon med tannhjulet). 
+Skjermens høye oppløsning gjør at skrift og ikoner fremstår som klare og tydelige, og fargene har god kontrast uten å være for harde. 
+
+En annen ting å like er automatisk rotering av bildene du har tatt, der du selv har kontroll over om de skal lagres og/eller vises rotert eller ikke. 
+
+Inkonsekvent og unødig tungvint 
+
+Vi har imidlertid et par ting å utsette på brukervennligheten: 
+For det første er det merkelig at det i flere menyer kun er mulig å bruke piltastene opp og ned, mens det i andre menyer også er mulig å velge ved å bruke piltastene til høyre og venstre. 
+For å konkretisere kan du hoppe rett fra ISO 100 til 800 i ISO-menyen med høyre piltast, men skal du velge bildestil, derimot, fungerer ikke høyre og venstre piltast, selv om valgene står oppført i to kolonner. 
+
+Et annet problem er at det i menyene mangler noen snarveier som definitivt burde ha vært der. 
+Eksempel: 
+Bildestiler. 
+Når du trykker bildestiler kan du velge mellom de ulike, men det finnes ingen snarvei for å justere dem. 
+Dette må du gjøre ved å gå inn på side to i hovedmenyen, og det medfører en del unødvendige trykk. 
+Det samme gjelder den manuelle hvitbalansesettingen der vi ønsker oss en mer smidig løsning enn først å ta bilde, for deretter å gå inn i menyen og finne frem til egendefinert WB, velge bildet vi tok, gå ut av menyen, inn i hvitbalansemenyen og velge manuell hvitbalanse. 
+Kameraet tipser til og med om at vi må sette på manuell hvitbalanse - hvorfor i all verden ikke bare gjøre det? 
+
+Vi savner også større kontroll over selvutløseren, som kun kan brukes ved at den tar ett bilde etter ti sekunder. 
+
+God ytelse 
+
+Vi har testet kameraet med kit-objektivet, og ytelsesmessig synes vi Canonkameraet gjør en meget god jobb. 
+Seriebilder på 3 bilder pr sekund er på høyde med de beste kameraene i denne klassen, og autofokusen er rask og presis. 
+Vi lar oss spesielt imponere av at den klarer å finne frem når den ikke får noe hjelp fra blitsen, som er greit dersom du befinner deg et sted der de ikke er så begeistret for blitslamper. 
+
+I tillegg starter kameraet opp vanvittig fort, og du kan potensielt ta bilde et snaut halvsekund etter at du har slått på kameraet, selv om du nok i praksis vil bruke lenger tid bare på å løfte det til øyet. 
+
+Bildekvalitet 
+
+Vi må berømme Canon når det gjelder bildekvaliteten - bildene fra 400D er jevnt over av meget høy kvalitet; det være seg innendørs som utendørs, med blits som uten. 
+
+Spesielt imponerte er vi av prestasjonene på høye ISO-verdier; et punkt der Canon-kameraene til nå har vært overlegne, men der Nikon etter sigende nesten har utlignet med D80. 
+Uansett - vi har faktisk ingen skrupler med å ta bilder på ISO 1600 og skrive ut i A4-format: 
+
+Riktignok skulle vi gjerne hatt litt mindre kromatisk støy (fargespill), men allikevel. 
+Sett i forhold til Alpha-kameraet fra Sony, er det et hav av forskjell. 
+Bildet under viser støy i LAB-fargekanal A ved ISO 100 og 1600: 
+
+Det hadde sikkert ikke vært noe i veien for å la 400D også støtte ISO 3200 (til 10x15-utskrifter) også, men 1600 er maksimalt denne gangen. 
+Helt opp til 800 er støyen knapt merkbar, og nedskalerer vi et ISO 1600-bilde til A4-utskrift eller mindre, vil den ikke være noe problem. 
+
+En annen ting vi setter pris på er evnen kameraet har til å balansere bildene godt ved bruk av blits innendørs. 
+Med Alpha-kameraet fra Sony opplevde vi litt problemer i så måte, med lyse ansikter og mørke bakgrunner - dette er ikke noe problem med 400D. 
+Er du av dem som neppe kommer til å kjøpe en ekstern blits, er dette en egenskap du vil sette pris på: 
+Hudtoner blir behagelig korrekte uten å bli overeksponerte. 
+
+Fortsatt er det noen hvitbalanseproblemer når du lar automatikken bestemme; spesielt i innendørslys fra lyspærer, der gulstikket blir ganske påfallende. 
+Nå vil det riktignok ikke være helt riktig at hvitt blir hvitt under en gul lyspære, men en mellomting hadde vært å foretrekke. 
+Den manuelle hvitbalansen fungerer godt - sikt på noe fargenøytralt og velg deretter å justere hvitbalansen etter dette bildet, så justeres den korrekt (dog burde den som nevnt ha vært litt lettere å bruke). 
+Et annet lite problem er at kameraet har en tendens til å undereksponere bildene, men dynamikken er svært god. 
+
+Fargene er også godt gjengitt, og muligheten kameraet gir til å påvirke fargene, kontrasten og skarpheten er velkomne for den mer avanserte fotografen. 
+Vil du ha mindre mettede farger, kan du med et par tastetrykk få til det ved å velge for eksempel "Nøytral"-bildestilen, mens du kan jazze opp fargene på himmel og skog ved å velge "Landskap"-bildestilen. 
+
+Som vanlig har vi lagt ut en del bilder tatt med kameraet. 
+Klikk på bildet under for å se noen av bildene vi har tatt: 
+
+Konklusjon 
+
+Dette er grei skuring for Canon - å lage en oppfølger til verdens mest solgte kamera høres vanskelig ut på papiret, men det skal jo egentlig ikke så mye til når man allerede har en vinneroppskrift for hånden. 
+400D byr ikke på noe revolusjonerende nytt, men er forbedret i flere ledd - bildeoppløsningen har økt, skjermen har blitt større og høytoppløselig, bildestilene fra EOS 30D er implementert, kameraet er blitt litt mer brukervennlig, og så videre. 
+Med disse forbedringene er det allikevel tvilsomt om Canon frir til eksisterende 350D-brukere, for så store er de ikke - 400D er først og fremst for deg som ikke har et speilrefleks fra før. 
+
+At kameraet er lite har sine fordeler i forhold til plass og vekt når du pakker sekken, men de med fingerstørrelse over gjennomsnittet vil få litt problemer med å holde kameraet bekvemt, og du er nesten nødt til å kjenne litt på det før du kjøper kameraet (eller være forberedt på å bruke angreretten). 
+Et par småting trekker også ned helhetsinntrykket - noen av menyoperasjonene er i overkant tungvinte, hvitbalanseringen kunne vært bedre i enkelte tilfeller, i tillegg til at temperaturstyring mangler, vi savner spotmåling og søkeren kunne godt ha gitt bedre forstørrelse. 
+Vi skjønner selvsagt dilemmaet i forhold til å gjøre kameraet for bra (som vil gå ut over salget av 30D), og semiproffe brukere bør nok vurdere å hoppe på sistnevnte. 
+
+For deg som er førstegangskjøper, gjør du neppe noen feil ved å kjøpe 400D. 
+Kameraet byr på svært gode bilder rett ut av boksen - innendørsbilder balanseres godt, og velger du å droppe blitsen, kan du pushe ISO-verdien opp til 800 uten merkbar reduksjon av bildekvalitet, i tillegg til at du fint overlever med ISO 1600 hvis du er avhengig av kort lukkertid. 
+Kameraet er lett å bruke, og når det i tillegg har en såpass fin prislapp, har vi ingen betenkeligheter med å anbefale kameraet til deg som skal ha speilrefleks første gang. 
+
+Å velge et digitalt speilreflekskamera blir nesten som å velge religion eller favorittlag i engelsk fotball. 
+Du kjøper en del av et system, der komponentene byttes ut (akkurat som spillerne på et fotballag byttes ut etter hvert, hvis du ikke tok den) - det er også viktig å vurdere utvalget av optikk, blitser og annet tilleggsutstyr (i tillegg til hvor bekvemt kameraet er å bruke, naturligvis); også sett i forhold til hvor mye du er villig på å bruke på oppgraderinger. 
+Hvis du har tenkt til å investere mye tid og penger i fotografi, bør du også tenke på hvilke andre modeller du har å oppgradere til. 
+
+På det punktet er det i hvert fall ikke noe problem å velge Canon. 

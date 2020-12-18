@@ -1,0 +1,187 @@
+Pandora
+Dette er nerdenes våte drøm. 
+
+Siden jeg bestilte min Pandora har jeg fått én nevø, enda en gravid søster, fått og mistet ett stykk samboer, byttet jobb og vært i to bryllup og én begravelse. 
+
+Dingsen ble bestilt 1. oktober 2008. 
+Men den skulle ikke dukke opp før 30. april 2011. 
+
+Grunnen? 
+Tja. 
+En vulkan og et par jordskjelv, blant annet. 
+
+Og gjerne på verst tenkelige tidspunkt. 
+
+100 prosent hjemmebrygget 
+
+Pandora er kjærlighetsbarnet til übernerdene "Craig", "Fatih" og "EvilDragon". 
+Dette er 100 prosent hjemmebrygget moro ned til hver minste detalj, uten store selskaper i ryggen. 
+
+De tre elsket håndholdte Linux-dingser med emulatorer og enkle programmer, som for eksempel GP2X. 
+Men disse dingsene kommer ofte fra gjerrige selskaper i Asia, som holder tilbake på de virkelig imponerende funksjonene. 
+
+Sammen med sine nettvenner drodlet de derfor frem Pandora: 
+En håndholdt lommedata med spillkontroller, åpenhet rundt både kode og design, fete spesifikasjoner og kort sagt alt en nerd måtte drømme om. 
+
+Planen var å bestille delene fra diverse produsenter rundt om i verden, skru den sammen i England og sende dingsen til de tusen første kundene før julen 2008. 
+Slik gikk det altså ikke, blant annet på grunn av diverse naturkatastrofer og late delprodusenter. 
+Den ble utsatt om og om og om igjen. 
+To måneder til. 
+Bare litt til. 
+Snart. 
+
+Men nå er den her. 
+Endelig. 
+Og DinSide kan som eneste norske medium åpne Pandoras eske for aller første gang. 
+
+Unik liten boks 
+
+Pandora likner ingenting du har sett tidligere. 
+Det er sjeldent så riktig å bruke denne floskelen som her. 
+
+En kollega kalte den "Nintendo DS gone ugly", men jeg må si meg uenig. 
+Den likner kanskje en DS, men denne hjemmesnekrede boksen er overraskende lite "ugly". 
+Man får et fullt QWERTY-tastatur som fungerer over all forventning, kontrollere DS bare kan misunne og et design det er vanskelig å forstå at ingen har brukt før dem. 
+Alt i et lommeformat. 
+
+I tillegg til den digitale D-paden, de fire ABXY-knappene og de to skulderknappene, får man to analoge styrespaker, slik vi kjenner det fra Xbox- og Playstation-kontrollere. 
+
+Inne i boksen skjuler det seg følgende teknologi: 
+
+Texas Instruments OMAP3530-prosessor med 600 MHz (som lett lar seg overklokke til minst 1 GHZ med medfølgende programvare) og en ARM Cortex-A8-kjerne PowerVR SGX-grafikkprosessor (GPU)256 MB DDR-333 SDRAM512 MB NAND Flash-minneWifi 802.11b/g Bluetooth 2.0800x480 punkters 4,3 tommer LTPS LCD resistiv berøringsskjerm 
+To SDHC-minnekort-lesere (maks 128 GB totalt)TV-ut med egen kabel (som ennå ikke er tilgjengelig) og vanlig minijack for hodetelefonerMikrofon (og inngang for mikrofon hvor man plugger i hodetelefoner)USB 2.0-inngang (eksterne harddisker, mus, tastatur, 3G-modem også videre kan plugges i samtidig via USB-hub)Utskiftbart lithium-polymer-batteri på rundt 4.000 mAh (opptil 10 timer bruk)Størrelse: 140 x 83,4 x 27.5 millimeterVekt: 
+335 gram med batteri 
+
+Her går vi gjennom maskinvaren, viser deg operativsystemet og prøver noen spill: 
+
+Fullverdig mikro-PC 
+
+Det er ikke til å legge skjul på at spesifikasjonene var mer imponerende da de ble lagt frem i 2008, enn hva de er i 2011. 
+Nå som selv kaffetraktere ser ut til å ha doble kjerner og 3D-skjermer. 
+
+Men innmaten sikrer god flyt i Pandoras operativsystem; Linux-distribusjonen Ångström. 
+Du kan starte opp systemet enten i en hjemmelaget miniversjon som kun gir deg snarveier til programmene dine, eller i fullmodus som byr på alle mulighetene til Linux. 
+
+Følelsen av å sitte med en fullverdig PC i hånden er uslåelig. 
+Du kan styre musepekeren med de analoge styrespakene eller ved å trykke på skjermen med fingeren eller pennen som sklir inn i kroppen. 
+
+I tillegg kan du også koble til mus og tastatur via USB-inngangen og en USB-hub. 
+Pandora takler både eksterne harddisker, minnepinner og til og med 3G-modem om du virkelig går inn for det. 
+Listen er lang, om du har tid og lyst til å fikle deg frem til en løsning. 
+
+For dette er i bunn og grunn en Linux-maskin. 
+På godt og vondt. 
+Det meste fungerer i Linux, og dermed også på Pandora. 
+Men det er ikke nødvendigvis gjort i en håndvending. 
+
+Programmer for alt 
+
+Programbiblioteket til Pandora er voksende, og allerede ganske omfattende. 
+Mange Linux-programmer kan brukes slik de er, eventuelt må de tilpasses, noe mange gjør for deg. 
+
+Maskinen har et eget filsystem som gjør installasjon av programmer til en lek. 
+Man legger ganske enkelt inn en "PND"-fil på et bestemt sted på minnekortet, og ikoner og nødvendige mapper dukker opp av seg selv. 
+Programmene finner du for eksempel på Pandoras egen nettside. 
+I tillegg har smarte hoder laget et program som lar deg enkelt laste ned og oppdatere programmene, som en slags "App Store". 
+
+Ettersom minnekortene er denne maskinens harddisker, er det enkelt å forholde seg til både programmer og annen data. 
+Og skal noe gå galt, og maskinen trenger en skikkelig formatering, har du lite å frykte ettersom alt ligger trygt bevart på kortene. 
+
+Flere bilder av operativsystemet og noen av programmene: 
+
+Programvaren som er tilgjengelig dekker de aller fleste behov. 
+Du kan lage og høre på musikk, skape og se på bilder, skrive og lese, chatte og surfe. 
+Det er lite, om noe, du ikke kan gjøre på en Pandora. 
+Og prosessoren lar seg enkelt klokke opp og ned for å balansere batteri/ytelse, slik at det meste flyter fint. 
+
+Noen av programmene bærer preg av å være hjemmelaget, men også kjente programmer som Chromium (Linux-versjonen av nettleseren Chrome), Firefox, GIMP (Photoshop-liknende verktøy) og Audacity (lydverktøy) er tilpasset systemet, og fungerer perfekt. 
+
+Og skjermen som gir deg opplevelsen er både lyssterk og klar. 
+Og ikke minst matt; et deilig avbrekk fra dagens blanke skjermer som gir deg gjenskinn bare du har tent et stearinlys på andre siden av rommet. 
+
+Quake og Pengupop 
+
+Det er en grunn til at Pandora har mange funksjoner tilpasset spilling. 
+Pandora er først og fremst en spillmaskin, i alle fall for meg. 
+
+Spillene på Pandora faller i tre hovedkategorier: 
+Hjemmelagde spill, portede spill og emulerte spill. 
+
+Det er en stor utviklerskare rundt Pandora, og det blir stadig gitt ut nye spill som er bygd kun for denne maskinen. 
+Det blir også portet mange spill, det vil si at spill tilpasses maskinen. 
+Dette kan være alt fra Quake 2 (hvor du selv må eie spillet og stå for selve datafilene) til gratis Linux-klassikere som Pengupop. 
+
+Alt dette er 100 prosent lovlig og stuerent. 
+
+Men den tredje og kanskje største delen, emulerte spill, markerer starten på den vriene delen av denne anmeldelsen. 
+For Pandora er en maskin som ikke bare byr på lovlige spillopplelvelser. 
+
+Mario og Monkey Island 
+
+Pandora er som sagt først og fremst en spillmaskin, men for å være mer konkret: 
+Pandora er først og fremst en retrospill-maskin. 
+Det vil si spilling av gamle spill fra de gode, eldre dager. 
+
+Dette gjøres via emulatorer. 
+En emulator er et program som får datamaskinen din til å fremstå som en bestemt spillkonsoll, og som dermed lar deg spille spill som ikke er utgitt på den plattformen du sitter på rent fysisk. 
+
+Man emulerer da gjerne maskiner som har møtt sin død for lenge siden. 
+Og Pandora har en emulator for det meste, som Nintendo, Gameboy, Sega, Commodore 64 og nyere maskiner som Playstation og Nintendo 64. 
+Samt MAME for arkade-emulering, DOSBox for gamle DOS-spill (eller for Windows 3.1!) og ScummVM for å spille "point-and-click"-eventyr som Monkey Island. 
+
+På kant med loven 
+
+Så hvor lovlig er alt dette? 
+Det er det store spørsmålet. 
+
+Eier du Monkey Island, kan du bruke datafilene til å spille det i ScummVM. 
+Eier du et gammelt DOS-spill, kan du spille det med god samvittighet via DOSBox. 
+Når du eier filer selv, kan du kopiere dem til eget bruk. 
+
+Eier du et Super Mario Bros. 3 til gamle Nintendo, har du ifølge enkelte kilder lov til å spille dette i en Nintendo-emulator, om du selv kopierer spillet over til maskinen din (noe de aller, aller fleste ikke har muligheten til). 
+
+Men Nintendo er klokkeklare på sine nettsider. 
+De hevder emulering kun oppfordrer til ulovlig piratkopiering, og tollererer det ikke. 
+Samtidig har amerikanske domstoler nektet å vedta en lov som definerer emulatorer som ulovlig. 
+
+Det finnes mange kilder som tilbyr lovlige spill, laget både av selskaper og enkeltpersoner. 
+Så klarer du å navigere i den juridiske jungelen, byr Pandora på nærmest uendelig mange spillopplevelser. 
+
+Og kontrollene er upåklagelige. 
+Hvorfor ikke flere håndholdte spillkonsoller har slike kontroller kan man lure på. 
+
+Verdt å vente på 
+
+I en anmeldelse skal man gjerne si hva dingsen kan, og hvor godt den gjør det. 
+Pandora gjør alt, og godt. 
+Og er det noe den ikke gjør, kan du vedde spillsamlingen din på at noen snart finner ut hvordan. 
+
+Den gjør kort og greit alt en Linux-PC kan, i hånden din. 
+Og den gjør bare mer og mer for hver dag som går. 
+
+Som på Linux-maskiner flest er ikke alt like enkelt, men det kan tilgis med tanke på at denne maskinen har et langt og rikt liv forran seg, og stadig oppdateres med nye programmer og funksjoner. 
+Man må regne med noen krasj, og noen søk i forumet, men dette er uansett ikke maskinen du gir junior til bursdag. 
+
+Dette er et leketøy for voksne. 
+Mer spesifikt; spesielt interesserte voksne. 
+
+Vi måtte vente i nesten tre år på herligheten. 
+Det koster å være først. 
+Men det koster enda mer, rent kronemessig, nå. 
+Du må punge ut 2.643 kroner (500 dollar) pluss frakt og moms, men så er du også sikret en kortere leveringstid. 
+På nettsidene oppgis det en leveringstid på syv dager. 
+
+Men kjenner vi Pandora rett, tar det nok noen uker ekstra. 
+De produseres fortløpende, og det er fortsatt ting som kan gå galt. 
+Og da gjør det nok nettopp det. 
+
+Men én ting skal du vite: 
+Det er verdt å vente på. 
+
+Dette er alle nerders våte drøm. 
+
+Alle bildene av Pandora i større format: 
+
+Kjenner du til Pandora fra før? 
+Synes du den ser fristende ut? 
+Si din mening under! 

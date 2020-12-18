@@ -1,0 +1,66 @@
+Plextor Premium
+Plextor Premium representerer sannsynligvis det siste stadiet av CD-brennere, vi tror ikke de kommer til å utvikle seg mer etter dette. 
+Derfor er nok dette den siste CD-brenneren vi kommer til å teste på DinSide. 
+
+Plextor er på ingen måte først ute med 52x brennere, vi testet den første allerede i desember 2002. 
+Men Plextor er først ute med 32x brenning av CD-RW, og i tillegg er det flere andre spesielle finesser som Premium-modellen har å by på. 
+
+LES OGSÅ: 
+
+Tøye grensene 
+
+Det som er mest spesielt av de nye finessene, er GigaRec. 
+Det innebører at du kan redusere lengden på fordypningene som brennes, slik at det blir plass til mere data på en helt vanlig plate! 
+På en 80-minutters plate får du da plass til hele 1 GB eller 112 minutter, og på en 99 minutters CD får du plass til hele 1,2 GB eller 140 minutter. 
+
+Problemet med dette er at avspillingsmulighetene blir problematiske, siden man beveger seg i ytterkanten av toleransene for å kunne lese platen. 
+
+På den mest aggressive settingen var det faktisk *ingen* av husets 8 optiske spillere (CD/CD-RW/DVD/Discman) som klarte å lese alle 25 sporene på Musikk-Cden vi brant. 
+Enten stoppet de foran et av de siste 4 sporene, ellers så hoppet de til et tidligere spor. 
+Det var dessuten ikke alle avspillere som klarte å spille av sporene på Plextor Premium-drevet heller. 
+WinAmp 2.9 klarte det ikke, mens Windows MediaPlayer hadde ingen problemer. 
+
+Så du bør ikke regne med å kunne distribuere GigaRec-prosjektene til alle venner og bekjente... 
+
+Du bør også ha god tid, GigaRec fungerer bare ved 4x hastighet, og vår 25-låters musikk-CD tok over 29 minutter å brenne... 
+
+Sikkerhet 
+
+En annen finesse er SecuRec, som lar deg passordbeskytte lesing av dataene på Cden. 
+
+PowerRec har vi sett hos tidligere Plextor-brennere, det betyr at brenneren sjekker platen før brenning, for å sikre optimal hastighet for feilfritt resultat. 
+
+VariRec er det motsatte av GigaRec, her økes lengden på fordypningene som brennes, for at man skal være sikker på at dataene leses korrekt, og unngå at feilkorrigeringen slår til. 
+Denne finessen ser vi på som en ren gimmik, og Plextor skriver da også om VariRec på esken: 
+Make Audio CD with a personal touch. 
+
+Lesing 
+
+Som kjent øker lesehastigheten utover platen på alle CD-lesere, og det er over dobbelt så høy lesehastighet på slutten som på begynnelsen. 
+
+Dermed blir kapasiteten på CD-en også en parameter, jo større kapasitet, jo høyere lesehastighet. 
+
+Vi tester konsekvent med 74-minutters ur-standard CD-format, og lesehastigheten kom ikke opp i mer enn 50,59x helt på slutten. 
+Starthastigheten var 22,42x og gjennomsnittet blir da 38,44x. 
+
+Ripping av musikkCD gikk unna på 2:04, som er 2 sekunder bak vinneren i vår test. 
+
+Aksesstiden lå derimot på 97 msec, som er noe høyere enn forventet, langt over de 60 ms som 48x-brenneren fra Plextor klarte. 
+
+Skriving 
+
+Det raskeste brenneren klarte å prestere var 2 minutter og 35 sekunder på vår test-image. 
+Det er 12 sekunder bak den raskeste brenneren i vår test, men 2 sekunder foran 3dje plass. 
+Plextor Premium trenger seg dermed inn på 2. plass i testen. 
+
+Brenning av CD-RW er oppgitt til 32x, men det finnes ikke plater som støtter denne hastigheten. 
+Den medfølgende platen var bare i stand til brenning på 24x, og dette ble unnagjort på 3:29, som også er 2. plass, beskjedne 8 sekunder etter vinneren. 
+
+Konklusjon 
+
+Plextor Premium er en klar nummer to på nesten alle våre målinger, og har noen spesielle finesser i tillegg. 
+
+Den har også den mest behagelige skuffemekanismen vi har vært borti. 
+Den er både rask, stillegående og myk, med en elegant nedbremsing mot inne og ute-posisjonene. 
+
+Selv om den ikke vinner de enkelte testene, er avstanden til vinneren både mindre og jevnere enn hos noen annen brenner vi har testet. 

@@ -1,0 +1,146 @@
+En av de beste PC-ene vi har testet
+Årets utgave av den svært kompakte 13,3-tommeren har blitt bedre på nesten alle punkter. 
+Bli med på gjennomgangen av maskinen som står til terningkast 6. 
+
+Det tradisjonelle PC-formatet er under press, spesielt i privatmarkedet. 
+Hovedårsaken er naturligvis mobiltelefonen. 
+Du kan jo starte med å spørre deg selv: 
+Hvilke oppgaver er det du fortsatt MÅ bruke PC-en til? 
+
+Miniatyriseringstrend 
+
+PC-produsentene er naturligvis fullt klar over utviklingen, og svarer med å lage stadig mindre, tynnere og lettere maskiner - med batteritider som for kort tid siden ville vært rene utopien. 
+De beste kan nå driftes i to hele arbeidsdager mellom hver lading, viser våre tester. 
+
+Dell er blant produsentene som virkelig har tatt tak i dette med miniatyrisering. 
+Fjorårsutgaven av Dell XPS 13 var allerede den gang verdens minste 13,3-tommer, med et fotavtrykk som en typisk 11-tommer. 
+Vi testet 2-i-1-versjonen av fjorårsmodellen, og gav den terningkast 5. 
+
+Årets utgave har blitt bedre på nær sagt alle punkter. 
+
+Lekkert og minimalistisk 
+
+Vi starter med det ytre. 
+Årets utgave av Dell XPS 13 er blitt marginalt mindre enn fjorårsutgaven, og måler nå 302 x 199 mm. 
+Tykkelsen er redusert til 7,8 på det tynneste, til 11,6 mm på det tykkeste. 
+Vekten er redusert med 30 gram, til 1,21 kg. 
+Størrelsesmessig er den perfekt til brukere som er mye på farten, og helt super til å ha på bordet mellom setene i flyet. 
+
+Materialet er fortsatt i hovedsak aluminium, med unntak av karbon på tastaturdelen. 
+Sistnevnte gir en behagelig og mindre kald overflate enn aluminium, uten at det går på bekostning av styrken. 
+90 prosent av konstruksjonen skal være gjenvinnbar, ifølge Dell. 
+
+Åpner vi opp lokket, blir vi møtt med en skjerm som nærmest går helt ut i kantene. 
+Rammen er redusert med én millimeter siden sist, og måler nå kun 4 millimeter på sidene og i toppen. 
+Effekten er slående, og får andre, normale PC-er til å se ut som de er flere år gamle. 
+
+Webkamera som logger deg på 
+
+PC-en har også webkamera, men dette er plassert under skjermen. 
+Det er ikke optimalt med tanke på vinkel i videosamtaler, det blir fort mange dobbelthaker på selv normalvektige mennesker. 
+
+Løsningen har imidlertid to frontlinser og er Windows Hello-kompatibel. 
+Det betyr at du kan logge på Windows ved hjelp av ansiktet ditt, og den gjør det oppsiktsvekkende kjapt. 
+Men da jeg tok av brillene, kjente den meg ikke igjen. 
+Løsningen er altså ikke like smart som Apples Face ID, vil vi påstå. 
+
+På sikt er det ventet at Windows Hello også kan brukes til bank- og betalingsløsninger på nett. 
+Pålogging med fingertuppen via av/på-knappen er ikke mulig på vårt testeksemplar, men det er en opsjon man kan velge når man konfigurerer maskinvaren Dell-butikken. 
+
+Fabelaktig skjerm 
+
+Skjermen er ikke berøringsfølsom, og dekket av glass av typen Corning Gorilla glass 4, som skal være mer bestandig enn tidligere utgaver. 
+Overflaten er blank, men et antirefleksbelegg gjør at gjenskinn er et mindre problem enn på mange andre modeller vi har testet. 
+
+Paneltypen er IPS, og kvaliteten er rett og slett glimrende. 
+Fargegjengivelsen dekker 100 prosent av sRGB-fargeskalaen, og med lysstyrke på 400 nits kan den brukes nær sagt overalt. 
+IPS-panelet sørger dessuten for gode betraktningsvinkler. 
+Dette er kort sagt en skjerm som bør tilfredsstille selv de mest kresne brukerne. 
+
+Godt tastatur 
+
+Tastaturet er omtrent like stort som det du finner på ordinære 13,3-tommere, med unntak av enkelte av spesialtastene - som Enter, Backspace og Delete, som ofte er en del større. 
+Det betyr at vanlig skrivecomfort er godt ivaretatt. 
+Tasting bråker lite og responsen er god over det hele. 
+Det er ikke noen tegn til svikt noe sted. 
+
+Tastene er dessuten baklyst, og takket være svarte taster er det ikke noe problem med kontrasten, som for eksempel på de grå tastene til Microsoft Surface Book 2. 
+
+Pekeplaten er passe stor, med integrerte felter for venstre og høyreklikking. 
+Trykk gir en tydelig, men ikke sjenerende klikkelyd. 
+Platen støtter flerberøring, til glede for deg som ikke ønsker å bruke skjermen når du skal navigere rundt i Windows-programmene dine. 
+
+Metallet rundt tastaturplaten og pekeplaten er av karbon. 
+Overflaten er mindre glatt enn aluminium og mye mindre kald. 
+Den er behagelig å lene håndbakene mot, samtidig som den er lett å rengjøre. 
+
+På undersiden ser vi at vi har et luftinnsug, så det beste er å plassere PC-en på et jevnt og hardt underlag når du bruker den. 
+
+Toppspesifiserte tilkoblinger 
+
+Det er ikke uvanlig at produsenten kutter ut tradisjonelle, plasskrevende porter på de tynneste PC-ene. 
+Det er også tilfelle her. 
+På venstre side sitter det to USB-C-porter, på motsatt side sitter det nok en USB-C-port samt en minnekortleser (microSD). 
+Det følger imidlertid med en overgang fra USB-C til USB-A, bedre kjent som standard USB 3.0-port. 
+
+Men USB-C kan være så mangt, og her er det viktig å trekke fram at alle portene er USB 3.1 gen2-kompatible (dobbelt så rask dataoverføring som USB 3.0 og USB 3.1 gen1), to av dem støtter Thunderbolt 3 (inntil 40 Gbps) og alle tre støtter DisplayPort. 
+Her kan du faktisk koble til to eksterne 4K-skjermer samtidig med oppfriskningsrate på 60 Hz! 
+Alle tre portene kan dessuten brukes som ladeport til den medfølgende strømforsyningen. 
+
+Dette er ikke hverdagslige egenskaper, ikke en gang i premium-klassen. 
+
+På hver side sitter også et par høyttalere av ganske OK kvalitet. 
+Lydbildet er balansert og duger bra til lav bakgrunnsmusikk, med et snev av bass. 
+Trenger du mer kraft, må du bruke eksterne høyttalere eller hodetelefoner. 
+
+PC-en er også utstyrt med fire mikrofoner, spesiallaget for å plukke opp instrukser fra andre siden av rommet til stemmeassistenten Cortana - som foreløpig dessverre ikke forstår norsk. 
+
+Latterlig høy ytelse! 
+
+Så var det ytelsen da. 
+Den er rett og slett latterlig høy, størrelsen på PC-en tatt i betraktning. 
+Mye av årsaken ligger i prosessoren, som er en åttende generasjon Intel Core i7-prosessor (8550U). 
+Denne har fire kjerner, mot forrige generasjons to, noe som åpner for langt bedre ytelse i mange situasjoner. 
+I tillegg kan vi boltre oss med 16 GB RAM og 512 GB SSD, samt Windows 10 Professional, på vårt testeksemplar. 
+
+Passmark PerformanceTest gir prosessoren 10.260 poeng, som er det nest høyeste vi har oppnådd på noen bærbar med ULV-prosessor. 
+Bare Microsoft Surface Book 2 har scoret høyere, med fattige 8 poeng. 
+
+Med tanke på det minimalistiske kabinettet, er dette ekstremt imponerende - og vitner om at de to viftene i Dells kjøleløsning frakter varmen ut av kabinettet raskt og effektivt. 
+Ellers ville poengsummen garantert vært lavere, siden prosessoren automatisk setter ned hastigheten dersom det blir for varmt. 
+
+Noe viftestøy må påregnes under tung belastning, men ved lav belastning - for eksempel når du ser en film - er det ikke sikkert du hører noe i det hele tatt. 
+
+Den innebygde grafikkløsningen er også mye raskere enn på forrige generasjon, men ikke forvent allverdens av spillytelse. 
+Eldre spill kan gå fint, spesielt om du går ned på oppløsning og detaljer - men er gaming din greie, velger du en annen maskin - enkelt og greit. 
+
+SSD-en byr på helt gjennomsnittlig skrivehastighet med rundt 600 MB i sekundet. 
+Lesehastigheten er imidlertid langt bedre, og topper på rundt 2,9 GB i sekundet. 
+Totalt sett er ytelsen så høy at den neppe blir noen flaskehals, uansett hva du skulle bruke maskinen til. 
+
+Batteriytelse i toppklasse 
+
+Vi var meget spente på batteriytelsen, ikke så rart - når Dell operer med vanvittige 19 timer mellom to ladinger - ved lett bruk. 
+
+Vi kjørte vår sedvanlige videostrømmetest, og klokket den inn på 798 minutter. 
+Det tilsvarer 13 timer og 18 minutter. 
+Det er det tredje beste resultatet vi har målt noengang, og desidert lengst av alle PC-er i denne størrelsen. 
+Rett og slett fabelaktig bra! 
+
+Ladetiden er imidlertid ikke blant de raskeste. 
+Etter én time i stikkontakten har nivået steget til 54 prosent. 
+De aller beste ligger på 70-80 prosent i løpet av samme tid, men 54 prosent vil her tilsi rundt 7 timer driftstid, som absolutt er bra. 
+
+Konklusjon 
+
+Det skjer fra tid til annen, men det er sjelden vi baler med å finne noe å trekke i en bærbar-test. 
+Det blir bare småplukk denne gangen, og ingenting som er alvorlig nok til at det skulle forhindre en sekser på terningen. 
+Du finner plussene og minusene i oppsummeringsboksen øverst. 
+Her nøyer vi oss med å klaske inn et stempel som lyser Anbefalt produkt lang vei. 
+
+Men det er klart, vi snakker her om et premiumprodukt med høy pris: 
+17.650 kroner koster vår konfigurasjon i skrivende stund i rimeligste nettbutikk. 
+Det er mye penger. 
+
+Klarer du deg med Windows 10 Home, 256 GB SSD, 8 GB RAM og Core i5-prosessor, får du den for litt over 14.000 kroner, ifølge Prisjakt, fortsatt med alle de andre, gode kvalitetene. 
+Det vil etter vår mening være en klokere konfigurasjon for mange - om ikke de fleste - av oss. 

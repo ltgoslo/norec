@@ -1,0 +1,135 @@
+Boxee Box mediespiller
+Det er overhodet ingenting å si på designet. 
+Det er derimot litt å si på innholdet. 
+
+Denne boksen har vi ventet på. 
+Det begynner å bli en liten evighet siden de første bildene av det oppsiktsvekkende Boxee-designet dukket opp på nettet, og lanseringen har da også latt vente på seg. 
+
+Innholdsfortegnelse: 
+Strålende designFullt tastaturKjent og kjært programStor databaseJada - den har appsEgen nettleserSpiller (nesten) altHvor er resten av innholdet? 
+Konklusjon 
+
+Nå er den endelig her, og hvis du har ventet på en dings som kan spille og vise alle videoene, bildene og musikken du har liggende på enten PCen eller på en ekstern harddisk bør du lese videre. 
+
+Strålende design 
+
+Boxee kobles til TVen via en HDMI-kabel, og den lille boksen kan for eksempel settes i en skjenk, eller gjerne stå fremme hvis du ønsker å vise fram den pussige skråformen som gjør at mediespilleren ser ut som den er senket ned i underlaget. 
+Vi liker designet svært godt, og synes det frisker opp i et ellers ganske grått og sort mediespillermarked. 
+
+Den er ikke helt lydløs, til tross for at det ikke finnes noen harddisk eller andre bevegelige deler på innsiden, men støyen er svært beskjeden og vil knapt være merkbar selv med TV-lyden av. 
+
+Tilkoblingene gjøres på baksiden, der du finner Ethernet-inngang, to USB-porter, optisk lydutgang, analog lydutgang og strømtilkobling - i tillegg til den allerede nevnte HDMI-porten. 
+På siden har D-Link, som produserer Boxee-boksen, også fått plass til en SD-minnekortleser. 
+
+Den har også trådløsmuligheter. 
+Filmene, bildene og musikken din kan med andre ord leses fra Boxee via trådløsnett, kablet nett og for eksempel en harddisk eller minnepinne som kobles rett i USB-porten(e). 
+
+Fullt tastatur 
+
+Fjernkontrollen er smart. 
+Den er akkurat passe liten, ligger greit i hånda, og har to sider. 
+Hovedsiden er utstyrt med tre knapper (play/pause, navigering, tilbake/meny), mens baksiden har et fullverdig QWERTY-tastatur. 
+Det vil si, helt fullverdig er det ikke for oss nordmenn, ettersom det mangler norske tegn. 
+
+Du er riktignok nødt til å holde kontrollen på en bestemt måte for å unngå tastene på ene siden mens du trykker på andre siden, men stort sett oppleves ikke dette som noe problem. 
+Vi savner dog en hjem-knapp som kan ta oss rett til hovedmenyen uten omveier, spesielt i de mini-applikasjonene (se lenger ned i artikkelen) som involverer mye blaing. 
+
+Oppstartstiden er overraskende lang, og det tar rundt et minutt fra du trykker på på-knappen til den er klar til bruk. 
+Mange vil nok velge å sette den i dvale mellom film- og musikkslagene, og oppstartstiden er derfor ikke noen vesentlig innvending mot Boxee. 
+
+Kjent og kjært program 
+
+Mange av våre lesere kjenner sannsynligvix 
+Boxee-programvaren fra før. 
+Det er et svært populært, gratis mediesenter for både PC, Mac og Linux. 
+Utgaven som finnes på Boxee-boksen fra D-Link er ørlite mer polert enn versjonen som lastes ned fra Boxee sine hjemmesider, men alle som har vært innom Boxee tidligere vil umiddelbart føle seg hjemme. 
+
+Grensesnittet er ganske lettforståelig, selv om ikke alle uten videre vil finne ut hvordan de skal legge musikk og video til biblioteket. 
+Etter at du har funnet ut av det og lagt til kildene dette vil Boxee skanne kilden for relevante filer, og deretter legge dem inn i hovedkategoriene "Music", "Movies", "TV Series" og så videre. 
+Du kan som nevnt bruke alt fra nettverksdisker til eksterne USB-disker, minnepinner og SD-minnekort til å servere innhold. 
+
+Vi liker derimot ikke at hyppigheten for skanning av disker og liknende maksimalt kan settes til én gang per døgn, og ikke for eksempel hver time. 
+
+Stor database 
+
+Det fine med denne organiseringen er at Boxee henter en rekke tilleggsinformasjon, inkludert omslagsbilde og oppsummering av handlingen, fra egnede databaser. 
+Programvaren gjør en overraskende god jobb med å identifisere filene, men hvis noe går galt, som for eksempel at "Rambo" blir identifisert som "Tid For Ømhet", kan du søke opp filmene manuelt i etterkant slik at feilene blir rettet opp. 
+Filer som overhodet ikke blir gjenkjent kan også søkes opp manuelt. 
+
+Alt dette bidrar til å gi Boxee-programvaren et elegant og enkelt grensesnitt, og de store symbolene er enkle å forholde seg til når du sitter i sofakroken noen meter unna TVen. 
+
+Jada - den har apps 
+
+Markedet for mini-applikasjoner har tatt helt av etter Apples suksess med App Store på iPhone, og også Boxee Box kommer med en haug små ekstraprogrammer. 
+
+Det dreier seg stort sett om video- og bildeinnhold, men vi gjetter at for den brede hop er det ikke så veldig mye som vil falle i smak i den relativt lange lista. 
+Verre er det at mye videoinnholdet presenteres i altfor dårlig kvalitet. 
+Ta for eksempel Cinetrailer-applikasjonen, som - du gjettet det - viser ferske filmtrailere. 
+Vår app var en av eller annen grunn stilt inn på italiensk språk. 
+Det er en ting. 
+Når en først begynner å spille av traileren er kvaliteten langt dårligere enn en bør kunne forvente på en dedikert medieboks, som om noen har blåst opp en YouTube-film i et format den ikke hører hjemme i. 
+
+Boxee har heller ingen overordnet designmal som app-utviklerne er underlagt, og dermed må brukeren ofte forholde seg til vilkårlige navigeringsløsninger. 
+
+Egen nettleser 
+
+En av appsene som har holdt igjen Boxee Box-lanseringen er etter det DinSide kjenner til nettleseren. 
+Den er ikke spesielt synlig - du må bla deg langt ned i apps-lista for å finne den -, men den er egenutviklet av Boxee, og den viser i hovedsak nettsider slik de er ment å vises, inkludert Flash-innhold. 
+
+Problemet er bare at nettleseren er grusomt kjedelig å bruke, ihvertfall med den inkluderte fjernkontrollen. 
+Du styrer musen ved å holde ned pilknappene, og det ... går ... langsomt. 
+Du kan riktignok koble til en mus til USB-porten, men det tar bort mye av poenget med sofabruken - en mus er ikke det enkleste å manøvrere når en har senket sitt slitne legeme ned på de myke putene. 
+
+Spiller (nesten) alt 
+
+Vi vet fra før at Boxee-programvarens mediestøtte er fenomenal. 
+Det går tiår mellom hver gang vi møter et format det sliter med, så forventningene til Boxee Box var skyhøye. 
+
+Og den innfrir. 
+
+DinSide har laget en testsuite med all verdens vanlige og uvanlige videoformater, og av de 21 filene var det bare to som ikke kunne spilles av. 
+Alle de etablerte formatene, inkludert mkv, DVD-rip (vob), iso og avi takles på strak arm, og selv DVD-menyer fungerer fint. 
+
+På lydsiden er støtten nesten like bred, og det eneste kjente formatet Boxee Box ikke liker er så vidt vi kan se Apple Lossless. 
+Flac, ogg, aiff, mp3 og wav går for eksempel helt fint. 
+
+Hvor er resten av innholdet? 
+
+At en mediespiller trakterer en rekke mediefiler er ikke noe nytt. 
+WD TV Live, for eksempel, koster i disse dager mer enn tusen kroner mindre enn Boxee, og spiller av nesten like mange formater. 
+En annen boks som er like bra på avspilling, og som DinSide.no likte godt, er AC Ryan Playon! 
+HD mini. 
+
+Når du går inn på "Movies"-kategorien får du i skrivende stund listet opp godt over 800 filmer. 
+Noen vil du kjenne igjen uten å tenke deg om, andre vil du mene du har hørt om engang for lenge siden, veldig mange kjenner du ikke igjen i det hele tatt. 
+
+Det er fordi Boxee Box i Norge ikke har avtaler med så mange eksterne innholdsleverandører som kan levere kommersielt innhold. 
+Per nå er det MUBI som serverer filmene, og ettersom de har spesialisert seg på såkalt alternativ film vil du ikke finne så veldig mange Hollywood-suksesser i den lange lista. 
+
+Det verste er likevel videokvaliteten. 
+Du får riktignok norsk tekst - et stort pluss -, men streamingen holder knapt DVD-nivå, og en kan se tydelige komprimeringssvakheter i filmen. 
+Hver film koster 26 kroner å leie, og da har du sju dager på å få sett ferdig filmen. 
+Du kan eventuelt også abonnere på MUBI for 99 kroner per måned, noe som gir ubegrenset tilgang til alle filmene. 
+
+Kvaliteten er på trailerne er begredelig. 
+YouTube-filmer i 360p ser ille ut på en stor TV. 
+
+På musikk- og TV-serie-fronten finnes det så vidt vi vet ingen slike kjøpe- eller leiemuligheter. 
+
+Konklusjon 
+
+Problemet med Boxee Box er ikke hva den gjør, problemer er det den ikke gjør. 
+
+Den spiller mer eller mindre alt av videoer og musikkfiler, har stort sett rask menynavigering og bra fjernkontroll, er støysvak, og tar nesten ikke plass på eller i TV-benken. 
+Den støtter en lang, lang rekke lydkodeker for hjemmekinoentusiaster, og sender også ut video i full HD. 
+
+Men det er det også mange andre bokser som gjør, og mange av dem koster langt mindre enn Boxee Box. 
+I USA er det allerede snakk om at populære videotjenester som Netflix og Hulu vil bli integrert med D-Links lille svarte og grønne, men i Europa er dette fortsatt en fjern drøm. 
+
+Dermed sitter vi igjen med en boks som kan bli veldig bra, men som ikke blir det før innholdsleverandører kan streame filmer og musikk i langt bedre kvalitet enn tilfellet er med MUBI i dag. 
+Først da kan denne bli et veritabelt mediesentrum i stua. 
+
+Vi kan godt vente litt til. 
+Det bør muligens du også gjøre. 
+
+D-Link Boxee Box DSM-380 

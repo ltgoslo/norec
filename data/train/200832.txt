@@ -1,0 +1,108 @@
+Sony NWZ-S610
+TEST: 
+DinSide Data deler svært sjelden ut seksere. 
+Her er unntaket. 
+
+S610 er så bra at vi nesten har glemt alle gamle synder allerede. 
+
+De av dere som husker testen av Sony NW-A805 i fjor vil huske vår begeistring for spilleren. 
+Det meste stemte, med to alvorlige unntak: fryktelig programvare for organisering og treg overføring av filer. 
+Uavhengige testmagasiner verden over har i årevis slaktet Sonys proprietære SonicStage-programvare, uten at det har sett ut til å hjelpe. 
+
+Si din mening nederst i saken 
+
+Sony, som ikke akkurat er kjent for å tråkke i andres spor, har også sverget til sitt proprietære lydformat ATRAC. 
+Formatet er lukket og kryptert, og ingen andre enn Sonys egne spillere - og forhatte SonicStage-programvare kan spille av musikkfilene. 
+Samtidig har Sony pøst ut store summer for å bygge opp sin egen musikkhandelsløsning Connect, som langt fra har blitt den suksessen selskapet hadde håpet på. 
+
+Tok til fornuft 
+
+Det skulle imidlertid gå flere år før Sony omsider innså det verden hadde forsøkt å fortelle dem hele veien, at sporet de tråkket gikk både i feil retning og ville til slutt ende i avgrunnen. 
+Publikum hadde nesten gitt opp da nyheten om helomvendingen kom tidligere i høst. 
+
+Sony bestemte seg nemlig for å gjøre alle de nye spillerne sine kompatible med Windows Media Player, WMA-formatet, MP3 og AAC. 
+Du kan dessuten slippe programvare helt, om du ønsker det, ved å dra og slippe filer via Utforskeren til spilleren, og fra spilleren tilbake til PCen. 
+Ikke nok med det - de nye spillerne er ikke lenger kompatible med Sonys eget ATRAC-format, og Connect-satsningen er besluttet nedlagt. 
+
+Valget må ha vært tøft for Sony, men var etter vår mening tvingende nødvendig. 
+Det første resultatet av omleggingen har vi hatt gleden av å teste de siste par ukene, og bærer navnet NW-S610. 
+Den lille mediespilleren er betydelig mindre enn en klassisk iPod Nano, men er likevel utstyrt med en større skjerm som også kan vise bilder og film. 
+
+Støtter iTunes 
+
+NWZ-S610 kommer i flere farger (sort, sølv, rød og rosa) og kapasiteter (2,4 og 8 GB), og støtter de nevnte musikkformatene, JPG-bilder og MPEG4-video (som også blir PS3 og PSP-kompatibel). 
+Det følger med programvare for konvertering av videofiler til kompatibelt format, samt konvertering av ATRAC-filer til MP3. 
+
+Sony har alliert seg med Napsters musikkhandelsløsning, men denne er dessverre ikke tilgjengelig for norske brukere i skrivende stund. 
+Det finnes imidlertid mange butikker som selger WMA-filer med DRM, og disse støttes helt fint. 
+
+Du kan også handle musikken din gjennom iTunes Store, og spille den av på Sony-spilleren, så lenge du holder deg til DRM-frie filer, riktig nok. 
+Mye tyder imidlertid på at DRM snart vil være borte. 
+Nylig startet Amazon salg av ubeskyttede MP3-filer, og her hjemme har også Musikkonline forkastet WMA-format med DRM til fordel for MP3. 
+Da er det uansett greit å vite at S610 støtter alle disse alternativene. 
+
+Funker i Linux og MacOS 
+
+For øvrig har spilleren klokke og FM-radio, og kan også brukes som ekstern lagringsenhet for datafiler. 
+Overføringshastigheten er betydelig oppgradert siden vi testet A805, og nå overfører du omtrent en sang pr sekund via USB-porten (ca 4 MB pr sek). 
+Og ja - den funker like godt mot Linux og MacOS som mot Windows. 
+Vi har testet alle tre plattformene. 
+Når den er tilkoblet maskinen lades batteriet, som temmelig hurtig når 80%. 
+Fulladet holder den til 33 timer med kontinuerlig musikkspilling, noe som betyr at den er i toppsjiktet i sin klasse på dette punktet. 
+
+Kontakten på undersiden av spilleren er ikke-standard, så ta godt vare på kabelen. 
+Vi liker best når spillerne har standard miniUSB-port, men Sony begrunner valget blant annet med at spilleren kan kobles til diverse dokk-løsninger, blant annet på nyere Sony stereoanlegg. 
+
+Enkel i bruk 
+
+Spilleren har en utforming som er lett å like. 
+Den har avrundede hjørner, og er tynn og lett nok til at den får plass nær sagt hvor som helst. 
+Skjermen måler 1,8 tommer, er usedvanlig skarp og er godt lesbar i alle lysforhold, også i solen. 
+Men det som gleder oss mest er betjeningsvennligheten på spilleren. 
+Her har Sony virkelig funnet vinnerformelen. 
+Navigeringen sitter i fingrene etter få trykk. 
+
+Mellom fire retningsknapper sitter play/pause-knappen, og over sitter knappene Back og Option. 
+Sistnevnte gir deg relevante valg knyttet til hvor du befinner deg i menyen eller hvilken mediefil som avspilles. 
+Responsen på knappene er umiddelbar, også når du starter spilleren; det er gjort på brøkdelen av et sekund. 
+
+Lyden har egen todelt knapp på høyre side, og på motsatt side sitter en skyveknapp for å låse betjeningen når spilleren ligger i lomma. 
+Genialt enkelt og brukervennlig. 
+
+Mange innfallsvinkler 
+
+Spilleren sorterer filene basert på tagger og/eller filnavn. 
+Sistnevnte er spesielt ålreit når du har sortert filer i mapper, og når taggene er feil eller mangelfulle. 
+Det beste er imidlertid musikkfiler med fyldig ID3-informasjon, da kan du boltre deg i mange forskjellige innfallsvinkler til samlingen din. 
+Søk på forbokstav samt en egen shuffle-funksjon som spiller musikk fra et tilfeldig årstall er blant de morsomme og nyttige ekstrafunksjonene som drar nytte av dette. 
+
+Overbeviser på lyd 
+
+Vi var full av lovord om lydkvaliteten på A805. 
+Den spilleren ble levert med en spesiell in-ear-løsning, mens S610 leveres med plugger som hviler i det ytre øret. 
+De sitter imidlertid godt takket være den lett eggeformede utformingen. 
+Lyden er også denne gangen meget bra, og feinschmekkere har muligheten til å justere lydbildet gjennom en rekke forhåndsdefinerte innstillinger og to brukerdefinerte innstillinger basert på den innebygde equalizeren. 
+
+Effekter som virtual surround, karaoke, stadium etc finnes også, og selv om vi prøver å unngå akkurat disse, ser vi ikke bort fra at de kan skape en ekstra dimensjon til musikken som enkelte vil like. 
+
+Skjermen er liten til videoavspilling, men den avlange formen hjelper i det minste på. 
+Kvaliteten er i tillegg blant de aller beste vi har sett i denne typen spillere, så det er slett ikke umulig å få god opplevelse av KliKK-episodene på trikken med denne. 
+
+Til slutt må vi også berømme FM-radioen, som har en uvanlig sterk mottaker. 
+Våre lokaler i Mølleparken er en god arena for å teste slike, og her har ingen lommespiller scoret bedre enn Sony NW-S610. 
+Du kan lagre stasjoner automatisk eller manuelt, veksle mellom stereo og mono, og kan også bestemme hvor sterk kanalen må være for at den skal lagres automatisk. 
+
+Konklusjon 
+
+Sony har laget en spiller som fungerer slik publikum ønsker at MP3-spillere skal fungere. 
+Det har mange andre også gjort den siste tiden, blant annet Creative, men til Sonys forsvar må legges til at det er svært sjelden vi har så lite å utsette på en spiller etter en test som vi har på denne. 
+
+Sony NWZ-S610 er rett og slett gjennomført i nær sagt alle bauger og kanter, og med fornuftige prislapper er dette blant de klart beste kjøpene du kan gjøre i flash-klassen akkurat nå. 
+Men så spørs det da, om Sony er for sent ute. 
+Dette markedet er som kjent "eid" av Apple, og salget av rene MP3-spillere er alt i tilbakegang, mens musikkmobiler er i sterk vekst. 
+
+Vi gratulerer uansett Sony med terningkast 6 og anbefalt-stempel fra DinSide.no. 
+
+OPPDATERT 01.10: 
+S610-serien skal være på vei ut i butikkene i disse dager. 
+Det første partiet er i følge Sony sendt til Netshop.no 

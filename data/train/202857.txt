@@ -1,0 +1,72 @@
+Apple iPad camera connection kit
+Gjør det mulig å overføre bilder fra kamera til iPad. 
+
+Selv om iPad ikke har noe USB-port tilgjengelig, er det fortsatt mulig å overføre bilder fra kameraet ditt og inn på nettbrettet. 
+
+Det du trenger heter iPad camera connection kit og koster et par hundrelapper. 
+Med i pakken får du to enheter; en som du kan putte et SD-minnekort inn i (det mest vanlige minnekortet som brukes i kameraer pr i dag), samt en med USB-uttak slik at du kan koble kameraet ditt direkte til iPaden og overføre bilder. 
+
+Med andre ord kan du også overføre bilder fra kameraer som ikke bruker SD-minnekort. 
+For eksempel er det fortsatt speilreflekskameraer som sverger til de litt større CompactFlash-kortene, noen nye kompaktkameraer (og mobiltelefoner) bruker micro SD, mens litt eldre modeller fortsatt kan bruke f.eks. xD eller MemoryStick. 
+Det er også mulig å kopiere bilder og video fra iPhone 4/3GS (men ikke fra iPhone 3G). 
+
+I produktbeskrivelsen fra Apple heter det seg som følger: 
+
+Med iPad Camera Connection Kit kan du importere bilder og videoer fra et digitalt kamera på to måter: 
+Du kan bruke kameraets USB-kabel eller du kan importere rett fra SD-kortet. 
+iPad og Camera Connection Kit støtter standard bildeformater, inkludert JPEG og RAW. 
+
+Det hele foregår ganske enkelt - du setter i overgangen, dytter i minnekortet og ganske snart åpner bildeapplikasjonen seg, der innholdet vises i form av miniatyrbilder. 
+Dernest kan du enten velge å importere alle bildene, eller huke av ett og ett før du starter overføringen. 
+
+Overføringsraten vil selvsagt avhenge av hastighet på minnekortet og størrelsen på bildefilene, siden det også går med litt tid til å opprette miniatyrbilder. 
+I vårt tilfelle brukte overføringen halvannet til to sekunder pr bilde der de fleste filene var rundt 4-5MB. 
+
+Når du er ferdig, kan du velge om du vil slette bildene fra minnekortet, eller om du vil beholde dem. 
+Bildeapplikasjonen husker uansett hvilke bilder du har importert fra før, så om du setter i det samme kortet senere, vil bildene du tidligere har overført være merket. 
+
+Støtten for videoformat er imidlertid begrenset - vi hadde kun suksess med .mov-filer (de er i Apples QuickTime-format, så det skulle bare mangle), mens f.eks. AVCHD-filer ikke dukket opp. 
+
+Deles opp pr dato 
+
+Så fort du har importert bilder, får bildeapplikasjonen også et hendelser-valg på toppen. 
+Dette fungerer på samme måte som i iPhoto for Mac, der bildene grupperes. 
+Dog blir bildene kun gruppert etter datoen for når de ble tatt, og det er ikke mulig å slå sammen hendelser eller gi dem et annet navn enn denne datoen, noe som absolutt burde ha vært mulig. 
+Det skal nevnes at det finnes en håndfull applikasjoner i App store som lar deg importere bildene fra iPaden og deretter sortere dem i selve programmet. 
+
+Når du kobler iPad til iTunes senere, blir også bilder du har overført synkronisert til maskinen du kobler den til. 
+Det er derimot ikke mulig å kopiere noe til minnekortet du har koblet i. 
+
+Vi måtte selvsagt teste med litt andre bildetyper også, for å sjekke hva som støttes, men vi fikk ikke opp noen bilder som ikke var i JPEG-format. 
+Vi kopierte f.eks. et par .png-filer over på minnekortet, men disse ble ikke gjenkjent. 
+
+Noe overraskende var det dog at det heller ikke gikk an å kopiere JPG-filer fra PC-en og til minnekortet. 
+Bildene skal nemlig komme fra et digitalkamera og blir ikke oppdaget dersom de ikke har tilstrekkelig med EXIF-informasjon; ei heller om de er plassert andre steder enn under /DCIM-mappen på minnekortet. 
+Det er i våre øyne en unødvendig begrensning. 
+
+Men fungerer kameraet ditt? 
+
+Vi har kun testet enheten som leser fra SD-kort, men som nevnt får du også med en USB-enhet, som gjør at du kan koble kameraet direkte i USB-porten, uten å ta ut minnekortet. 
+Tidligere kunne denne også brukes til mye annet, der folk koblet til USB-tastatur og andre enheter – som om iPaden hadde fått en USB-port, rett og slett. 
+
+Fra iOS 4.2 har imidlertid Apple endret strømuttaket på denne porten, fra 100mA til 20mA, og skal vi tro tilbakemeldinger på Apples egne sider, har det gjort at mange kameraer ikke lenger fungerer med denne løsningen, der man kun får tilbakemelding om at enheten krever for mye strøm. 
+Det kan selvsagt være en ubehagelig overraskelse for mange, og dessverre er det heller ikke spesielt lett å finne ut av hvor mye strøm kameraet ditt krever dersom det kobles til en USB-port. 
+
+Merk også at det heller ikke er mulig å lade iPaden mens du har koblet i camera connection kit-et. 
+
+Konklusjon 
+
+Har du lest til hit, har du sikkert skjønt at vi ikke ble videre imponert av iPad camera connection kit. 
+Ja, den kan kopiere bilder tatt med et kamera fra et SD-minnekort, samt enkelte videoformater, men der stopper det også. 
+Flere brukere har problemer med USB-enheten der iPaden ikke klarer å levere nok strøm, og hvorvidt ditt kamera vil fungere er vanskelig å finne ut av på forhånd. 
+
+I tillegg er det kun veldig grunnleggende funksjonalitet som tilbys. 
+Bilder sorteres i hendelser basert på dato, men det er umulig å flytte dem eller gi dem navn. 
+En tur som har gått over flere dager blir derfor splittet opp i flere deler, og dersom du importerer bilder i flere omganger, legges de som ulike hendelser selv om de er fra samme dag. 
+
+Alt i alt, altså - ikke spesielt elegant utført, men dersom du f.eks. er på ferie og vil bruke iPad som en backupløsning fra SD-minnekort, fungerer det. 
+Forvent imidlertid ikke noe ekstra. 
+
+Takk til MPX.no for utlån av iPad camera connection kit! 
+
+Finn beste pris hos Prisjakt 

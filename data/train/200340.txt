@@ -1,0 +1,31 @@
+ZipGenius 6
+ZipGenius er et av de beste filpakkeprogrammene. 
+Og det er gratis. 
+
+Å pakke filer kan være smart, spesielt når du har flere filer som skal sendes med epost eller få plass på et lagringsmedium med begrenset plass. 
+Da kan du samle sammen alle filene til én arkivfil, og kan også krympe totalstørrelsen. 
+Det klart mest utbredte pakkeformatet heter ZIP, og Windows har innebygd støtte for å lage/lese og pakke ut zip-filer. 
+
+Hvor mye en fil kan krympes avhenger i stor grad av filtypen. 
+Tekstdokumenter kan som regel krympes langt mer enn JPG-bilder, for eksempel. 
+Det finnes også alternative pakkeformater (tre populære er RAR, 7Z, LZH), som kan egne seg bedre enn ZIP i mange tilfeller. 
+
+25 formater 
+
+Da er det lurt å installere et pakkeprogram som håndterer nær sagt alle sammen, og ZipGenius er i så fall et godt valg. 
+Programmet kan pakke ut hele 25 forskjellige pakkeformater, og kan også lage flere av dem, inkludert to av de mest populære, ZIP og 7Z. 
+
+Her har vi dobbelklikket en ZIP-fil, og får full oversikt over innholdet. 
+Vi kan dra og slippe filer fra arkivet til for eksempel skrivebordet. 
+Du kan også manipulere innholdet, for eksempel legge til eller slette filer. 
+
+Du kan velge mellom fem forskjellige krympenivåer, legge på passord, og lage selvutpakkende arkiver (som .EXE-fil). 
+
+Høyreklikk 
+
+Programmet integreres fint i Windows, og pakkeprosessen kan startes automatisk når du høyreklikker på en fil eller mappe: 
+
+Programmet har også andre nyttige funksjoner, for eksempel en egen backup-funksjon som lar deg sikkerhetskopiere alt fra Firefox-profiler til dokumentmapper. 
+
+Du finner mer informasjon om ZipGenius og kan laste det ned fra Zipgenius.com. 
+Programmet er freeware - altså helt gratis å bruke. 

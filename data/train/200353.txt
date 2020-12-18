@@ -1,0 +1,125 @@
+Compaq CQ60 (130EO)
+Denne PC-en er intet mindre enn et røverkjøp. 
+
+Som regel må man nøye seg med en enkel AMD-prosessor, svak grafikkløsning og for øvrig beskjedent utstyrsnivå når man går til anskaffelse av en billig PC. 
+Men av og til dukker det opp et og annet tilbud utenom det vanlige, også i prisklassen rundt 4.000 kroner. 
+
+HP er blant aktørene som ofte byr på aggressivt priset produkter, som for eksempel modellen Compaq CQ60. 
+Den finnes i flere konfigurasjoner, og en av dem deltok i vårens store PC-test her på DinSide Data. 
+Modellen vi har sett på denne gangen har tilleggsbetegnelse 130EO, og selges i skrivende stund for 3.990 kroner hos elektronikkjeden SIBA. 
+
+Svært mye for pengene 
+
+Det skulle man imidlertid ikke tro når man leser spesifikasjonslisten, maskinen har en dobbelkjernet Intel T3200-prosessor på 2.0 GHz, 2 GB minne, 250 GB harddisk, DVD-brenner med Lightscribe, webkamera, 5-1-kortleser (SD, MS, MS Pro, MMC, XD), WLAN (B og G), og sist men ikke minst - et temmelig kraftig Gforce 9200-grafikkort med 256 MB dedikert minne. 
+Spesielt grafikken er uvanlig i denne klassen, og hører normalt hjemme i langt dyrere maskiner. 
+
+Det du derimot ikke får, er en digital videoutgang, som HDMI, DVI og DisplayPort. 
+Slike er blitt vanlige i det siste, men her må du klare deg med standard VGA - som inntil videre i hvert fall er den mest utbredte tilkoblingstypen på det meste som finnes av skjermer og projektorer. 
+
+Du får heller ikke støtte for gigabit nettverk, her må du nøye deg med 100 Mbit på det meste, hvis du bruker kabel. 
+Det holder uansett for de fleste, skulle vi tro. 
+Men støtte for den raskeste WLAN-standarden (802.11N) hadde vært fint, spesielt når større filer skal overføres og videoer skal streames fra andre PC-er i nettverket. 
+
+CQ60 veier 2,8 kg, og vårt testeksemplar leveres med Premium-versjonen av Windows Vista. 
+For øvrig er den fylt godt opp med både nyttige og mindre nyttige programmer. 
+Mer om det senere. 
+
+Ekstra bred skjerm og tastatur 
+
+CQ60 har en blank, svart overflate, og byr en 15,6-tommer bredskjerm med samme oppløsning som du finner i mange HD Ready-TV-er, 1366 x 768 piksler. 
+Den er altså litt bredere og litt lavere enn typiske 15,4-tommere, som har dominert på bærbare de siste årene. 
+
+Skjermen har et blankt kontrastbelegg, noe som gir et bilde der hvitt oppleves som virkelig hvitt, og sort er sort. 
+Ulempen er først og fremst refleksjoner, som kan være plagsomme, en problemstilling som er fraværende for matte skjermer. 
+
+Takket være den brede skjermen, har HP fått plass til et numerisk tastatur til høyre. 
+Tastene er litt smalere enn de andre, uten at det betyr noe, synes vi. 
+Å lære seg å bruke numerisk tastatur er en gedigen fordel for alle som bruker datamaskinen til å punsje tall, og dem er det mange av. 
+
+Tastaturet er for øvrig meget godt å skrive på, det er fast og fint, og bråker minimalt. 
+Også pekeplaten er glatt og behagelig, og en knapp rett over den deaktiverer den. 
+Det er mange som sverger til ekstern mus, og da kan det være hensiktsmessig, spesielt hvis du er blant dem som stadig kommer borti pekeplaten utilsiktet. 
+
+For øvrig er maskinen utstyrt med høyttalere fra Altec Lansing, som vanlig, holdt vi på å si. 
+Vi har tidligere gitt HP honnør for akkurat dette. 
+Lyden er imidlertid ikke så god som vi hadde håpet, litt mer bass hadde vært på sin plass. 
+Men når sant skal sies velger vi øretelefoner eller eksterne høyttalere til alt som dreier seg om musikk og film, uansett hva som måtte befinne seg av innebygde høyttalere PC-en. 
+
+Alle tilkoblingspunkter sitter i front eller på sidene, inkludert tilkobling til ekstern skjerm (venstre side), og lyd inn/ut (front). 
+
+Full pakke 
+
+Første gangs oppstart er en relativt langdryg prosess. 
+Her skal ikke bare Windows installeres, men en haug med spesialinnstillinger og programmer fra HP og tredjepartsleverandører skal også på plass. 
+
+Når du omsider kan sette i gang med å jobbe, har du fått rikelig med programmer å starte med, deriblant kontorpakken Works fra Microsoft, DVD- og videoredigeringsprogrammer fra Cyberlink, Skype, spillpakke fra HP, prøveversjon på Norton Internet Security og mye mer. 
+
+Vi har mange ganger vært vitne til at slike "ferdigpakker" har degradert PC-opplevelsen, takket være at for mange programmer og prosesser har kjørt samtidig, på maskinvare som ikke akkurat et optimalisert for slik. 
+Det kan vi ikke påstå er tilfelle her. 
+En del treghet må påregnes ved første gangs kjøring, men når alt er konfigurert, indeksert og oppe og går, oppleves PC-en absolutt som kjapp og fin. 
+
+Meget bra ytelse 
+
+Kjapt og greit gikk det også å spille av alt av HD-testmateriale vi hadde liggende, inkludert 1080P-filer i Windows Media Video-format, samt matroska-filer og 720P-materiale i Adobe Flash. 
+Det hadde vi da også forventet av denne grafikkløsningen fra Nvidia, som også er i stand til å håndtere relativt komplekse spill, så lenge du ikke setter oppløsning og detaljnivå for høyt. 
+
+Windows Opplevelsesindeks stopper på 4,7 for 3D-spillopplevelse, og vi oppnådde hele 11 067 poeng i PCMark Vantage. 
+Hvis du lurer på hvor bra det er i forhold til "malen" i denne klassen, kan vi røpe at det er fem ganger raskere enn den kjappeste PC-en i vår samletest fra mars. 
+Og da snakker vi om maskiner som kostet mellom 5 og 6000 kroner. 
+
+Også totalresultatet 3299 er bedre enn testvinneren fra mars, takket være høyere grafikk- og harddiskytelse på denne langt rimeligere maskinen. 
+
+Kjølig 
+
+CQ60 er utstyrt med en trinnløs kjølevifte, som spinner opp og ned etter behov. 
+Den er tydeligvis effektiv, for maskinen blir aldri særlig varm på undersiden. 
+
+Det er også hyggelig at viften knapt er hørbar, kun litt svak susing kan merkes i stille omgivelser. 
+Litt ekstra sus ved tunge kalkulasjoner merkes, men vi kan ikke påstå at vi opplevde den som plagsom noen gang under testingen. 
+
+Husk å lage gjennopprettingsmedia 
+
+Maskinen leveres helt uten installasjons- eller gjenopprettingsmedia. 
+Dette ligger imidlertid på harddisken, og du kan lage gjenopprettingsmedia selv. 
+I korte trekk gir dette deg muligheten til å gjenopprette alt på PC-en slik det var da den ble levert. 
+Men husk at da overskrives samtidig alt du måtte ha av personlige filer, med mindre du har husket å ta sikkerhetskopi av dem først, da. 
+
+Prosessen er automatisert, men langdryg, både selve opprettelsen og ikke minst gjenopprettingen. 
+For de med dårlig tid vil vi heller anbefale en annen tilsvarende løsning som endogtil er gratis, Paragon Drive Backup Express 
+
+100% klar for Windows 7 
+
+Det er i tillegg en ting som opptar mange for tiden, nemlig om PC-ene er i stand til å kjøre Windows 7. 
+For eiere av CQ60 har vi gode nyheter. 
+Build 7068 av Windows 7 ble installert helt uten problemer. 
+
+Den eneste enheten den ikke fant drivere til, var grafikkortet - men den saken løste seg ved å kjøre Windows Update. 
+Ingen ekstra drivere utover dette var nødvendig å installere Windows 7, og brukeropplevelsen og stabiliteten viste seg å være tipp topp i Vista-etterfølgeren. 
+Vi antar at alle aktuelle Nvidia-drivere vil være på plass i den endelige versjonen av operativsystemet, som vil være på plass mot slutten av 2009. 
+
+Batterilevetid som forventet 
+
+Ved normal bruk og med anbefalte innstillinger fra HP i strømoppsettet, kunne vi bruke maskinen i ca 2 timer og 45 minutter på batteri før vi måtte finne en ledig stikkontakt. 
+"Normal bruk" innbefattet surfing på nettet, skriving av dokumenter og lytting til Spotify-musikk i bakgrunnen. 
+Det var ingen merkbar forskjell mellom Windows Vista og Windows 7 på dette punktet. 
+
+Batterilevetiden vil naturligvis variere med bruken, men dette er et resultat omtrent som forventet av et 6-cellers batteri og en PC med denne konfigurasjonen. 
+Det finnes langt bedre batteriløsninger, men også langt dårligere. 
+
+Konklusjon 
+
+Denne testen bekrefter hva vi alle vet så veldig godt: 
+Det som var et bra PC-tilbud i går, er et middelmådig tilbud i dag. 
+Akkurat nå tviler vi på om du får mer PC for pengene enn hva CQ60 130EO byr på. 
+Dette er en maskin som dekker behovene for 9 av 10 brukere, både med hensyn til ytelse og lagringsplass, mener vi. 
+Og til den prisen..! 
+
+Får du den for 3990 kroner finnes få motargumenter. 
+Selv for 5-600 kroner mer hadde vi kalt dette for et røverkjøp. 
+Vi gleder oss til fortsettelsen. 
+
+OPPDATERT: 
+Priskrigen på denne modellen er i gang. 
+Netonnet har satt prisen ned til 3890 kroner. 
+Noen bedre? 
+Bruk debatten under! 

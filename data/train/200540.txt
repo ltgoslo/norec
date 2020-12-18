@@ -1,0 +1,48 @@
+Corsair Force
+Blant de raskeste SSDene - og lav pris! 
+
+En SSD er på mange måter enklere å produsere enn en harddisk. 
+I hvert fall når man ser bort fra hva som trengs for å produsere de delene som inngår i en SSD. 
+Det som trengs er en kontroller, flashminne, SATA-brikke og litt annen standard elektronikk. 
+Så er det bare å legge ut baner på et kretskort, lodde det sammen og lage en fin innpakning. 
+
+Det er bare Samsung og Intel som produserer alle disse elementene i sine egne SSD- produkter, de andre SSD-produsentene velger blant tilgjengelige komponenter. 
+For å gi det ferdig produktet en profil finjusteres gjerne firmwaren for å optimalisere visse sider av ytelsen. 
+Valg av minnetype og SATA-løsning, pluss tilleggsutstyr i pakken gjør også forskjell både i ytelse og pris. 
+
+Men like hovedkomponenter gir aldri voldsomme forskjeller i ytelse. 
+
+Corsair Force 3 
+
+Corsair bruker en SandForce SF-2200 serie kontroller og NAND flashminne fra Micron. 
+Grensesnittet er SATA 3 med 6Gb/sek. 
+
+SF-2200 kontrollerne komprimerer dataene ved skriving og dekomprimerer ved lesing. 
+Dermed går ytelsen ytterligere opp under forutsetning av at dataene lar seg komprimere. 
+
+Typisk bruk av SSD til systemet fungerer utmerket med denne løsningen. 
+Oppstart av operativsystem, innlesing av programmer og skriving/lesing til vekslefil går lynraskt. 
+Bytter du fra harddisk opplever du maskinen som over dobbelt så rask i vanlig bruk. 
+
+Til lagring av bilder, video og musikk oppnår man ingen gevinst av komprimeringen, men skrive- og leseytelsen selv uten komprimering er likevel meget rask, og langt raskere enn harddisk. 
+
+Dessuten er aksesstiden på SSD bare en brøkdel av det en harddisk presterer, og den ytelsesgevinsten er blant de mest dramatiske. 
+
+Corsair Force 3 leveres med brakett for feste i 3,5" brønn, og skruer følger med. 
+Ingen kabler eller programvare til kloning eller overføring følger med. 
+
+Ytelse 
+
+Vi kjørte våre faste testprogrammer og fikk meget gode resultater, særlig på sekvensiell skriving og lesing. 
+
+Sammenlignet med Plextor sin SSD, som bruker en Marvell-kontroller uten komprimering, ser vi at Corsair ligger et stykke over, spesielt på skriving. 
+
+Men Plextor sin SSD er vesentlig raskere på I/O, og har dermed et klart overtak i bruk som systemlagringsenhet. 
+
+Konklusjon 
+
+Corsair Force 3 120 GB er en meget rask SSD, som fungerer utmerket både som dedikert systemenhet i en stasjonær PC eller som eneste lagringsenhet i bærbar. 
+
+Som alle SSD-er i denne ytelsesklassen trenger du SATA 3 støtte for å utnytte hastigheten. 
+
+Corsair Force 3 Series 120GB 

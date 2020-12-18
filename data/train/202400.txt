@@ -1,0 +1,122 @@
+Viasat PlusHD HD-PVR testet
+Opptaksdekoderen som kommer til å glede kundene. 
+
+Innholdsfortegnelse: 
+Viasat PlusHD, med ny softwareProgrammerbar fjernkontrollMenysystemSyv døgns EPG, og opptak i praksisFilmleie og Viaplay: 
+Mye innholdHva mangler egentlig? 
+Konklusjon 
+
+DinSide har fulgt denne utviklingen i flere år, og har flere saker på problemdekodere både fra RiksTV og Canal Digital. 
+Viasat har vi imidlertid savnet, men nå har vi endelig fått en full dag med deres siste alternativ i Viasats lokaler. 
+
+Viasat PlusHD, med ny software 
+
+Dekoderen er av merket Pace, og har allerede begynt å bli levert til nye kunder. 
+Vår testutgave var imidlertid utstyrt med en splitter ny software, som først blir tilgjengelig for kundene i midten av september. 
+
+Prisen for HD-PVRen er 995 kroner for nye kunder, mens eksisterende kunder må betale 1.495 for å oppgradere. 
+
+Men først litt detaljer: 
+Pace-dekoderen er utstyrt med en 320 GB-stor harddisk. 
+Det er også verdt å nevne at den mangler vifter, og i vårt testlokale (som riktignok ikke var helt ideelt) hørtes det ut som om den var svært stillegående. 
+Det er noe undertegnede setter stor pris på. 
+
+På forsiden av dekoderen dytter du inn programkortet på høyre side, mens du på venstre side har menyknapper. 
+I motsetning til Motorola-dekoderen til Altibox kan du her altså styre dekoderen selv om fjernkontrollen skulle gå tom for batterier. 
+
+Dekoderen har også de inngangene du trenger: 
+Det vil si HDMI-inngang, og nettverksinngang. 
+Vi liker også at den både har optisk og coaxial-inngang for digitallyd, noe som er en fordel for deg som har en litt eldre surroundreceiver uten HDMI-innganger i stua. 
+
+For deg som fortsatt sitter på litt eldre utstyr er det greit å vite at dekoderen fortsatt har scart (selv om vi selvsagt ikke anbefaler at du bruker den, du får jo desidert best lyd og bilde via HDMI...) og analoge lydkoblinger. 
+
+En HD-PVR lar deg altså ta opp fra to ulike programmer samtidig, men for at dette skal fungere må HD-PVRen ha to antennekabler fra parabolen. 
+Og her har Viasat valgt en smart løsning for deg som i dag bare har en ledning fra antennehodet. 
+
+I pakken følger det nemlig med en splitter med fire uttak som kan plasseres inne i huset. 
+Her kan du altså klare deg med en kabel fra selve satelittantennen og inn i huset. 
+Det er en praktisk løsning, spesielt for deg som vil ha en fullt utstyrt HD-PVR både i stua og i kjellerstua. 
+Det skal forøvrig være enkelt å utvide med flere splittere om du vil ha flere dekodere i huset, noe som kan være praktisk å ha i bakhodet for landets hybelverter. 
+
+Programmerbar fjernkontroll 
+
+Fjernkontrollen er også ny, og ikke minst langt mindre enn Viasat-kundene tidligere har vært vant til. 
+
+Fjernkontrollen er programmerbar slik at du kan legge inn din TV-modell og styre basisfunksjonene på denne. 
+Skiftet mellom hvilken enhet du styrer utføres enkelt ved å trykke på TV- eller Viasat-knappen helt øverst. 
+Som vanlig får du også hurtigtaster til mye brukte funksjoner, som for eksempel meny og VOD =(video-on-demand). 
+
+Menysystem 
+
+Et kanalskifte går på mellom to og tre sekunder, som er omtrent det samme som hos konkurrentene. 
+Det å aktivere og manøvrere i menyene går imidlertid langt kjappere, og i vanlig bruk oppleves dekoderen som smidig og rask. 
+
+Skjermmenyene er selvsagt på norsk, og ser så bra ut som vi bør forvente i 2011. 
+De er logisk oppbygd, og her er det så enkelt å bla seg gjennom og justere at selv de med teknofobi vil klare seg bra. 
+
+Tilhører du den typen som ønsker å sortere kanalene i den rekkefølgen du vil, er også det en prosess som er enkel å gjennomføre. 
+Favorittlisten fungerer fint, og aktiveres ved å dobbeltklikke på menyknappen, slik at du kan bla deg opp og ned i kanallisten via + og - tastene. 
+
+Syv døgns EPG, og opptak i praksis 
+
+Den elektroniske programguiden (=EPG) skal ha fått en kraftig oppdatering, og inneholder nå programinformasjon syv døgn fram i tid. 
+Verdt å nevne er at du til enhver tid har et live-miniatyrbilde av den kanalen du ser på i venstre hjørne, når du bruker den elektroniske programguiden 
+
+Også her liker vi menyutseendet. 
+Du får logiske fargeknapper som enkelt regulerer opptak, og der serieopptak er tilgjengelig kan du også enkelt markere dette. 
+Dekoderen gir deg også en oversiktsside over alle planlagte opptak, enten de er gjort via EPG-en, den manuelle timeren, eller er et hurtigopptak. 
+Det er faktisk en praktisk funksjon, spesielt for de av dere som pleier å fylle opp harddisken med mye innhold. 
+
+Se bildespesial for eksempler: 
+
+Hurtigopptak fungerer også som forventet, et trykk på Rec-knappen og du er i gang. 
+For deg som liker å spole mens du ser å bildet er forøvrig intervallene 4x, 8x, 16x og 30x hastigheten. 
+
+Du kan ta opp fra to TV-programmer samtidig, men kan da ikke skifte bort fra de to kanalene uten å stoppe et av dem. 
+Dette får du heldigvis varsel om i skjermmenyen. 
+Merk deg at du fint kan se på dine eksisterende opptak, samtidig som du tar opp fra de to andre kanalene. 
+
+I likhet med på Canal Digitals nye ADB-dekoder (som lanseres nå 1. september, full test kommer) tar dekoderen automatisk ta opp fra den kanalen du ser på, slik at du enkelt kan spole tilbake om du har gått glipp av noe. 
+
+Som standard er tidsbufferen her 30 minutter, men den kan enkelt økes til 90 minutter vi innstillingsmenyen - noe i hvert fall jeg ville ha endret til. 
+Det gjør det nemlig enkelt å spole tilbake til begynnelsen av filmen, eller nyhetene, om du ikke fikk med deg starten. 
+
+Tidsbufferen har også en annen praktisk funksjon: 
+Har dekoderen stått på, og du ønsker å få med deg starten på filmen som allerede har begynt; men gjerne vil spare den til et tidspunkt som passer bedre, så er det bare å trykke på opptaksknappen. 
+Da lagres nemlig også alt som ligger i selve tidsbufferen. 
+Det er god brukervennlighet i praksis. 
+
+Filmleie og Viaplay: 
+Mye innhold 
+
+Videobutikk: 
+Som forventet har dekoderen en filmleie-funksjon (video-on-demand), som lar deg leie filmer ved å betale via dekoderen. 
+Filmleieprisen er 39 kroner for filmer i SD-kvalitet, mens HD-filmer ligger på 45 kroner. 
+Viasat har faktisk også en del 3D-materiale, ca 15 filmer, som koster 59 kroner per film. 
+Du får også tilgang til et knippe gratis 3D-trailere og demoer her. 
+Betingelsen for at 3D-innholdet skal vises korrekt er imidlertid at du har en 3D-klar TV og tar på deg 3D-brillene dine. 
+
+For de seriegale tilbyr Viasat også en seriepakke til 39 kroner per måned - som gir deg tilgang til alle serier og episoder fra Warner i 30 dager. 
+
+Vi gir også pluss i margen for at det er enkelt å finne det utvalget du har lyst til på de ulike Play-kanalene. 
+Blant annet kan du søke etter tittel, og liste ut hvilke serier som er tilgjengelig. 
+
+Hva mangler egentlig? 
+
+Strengt tatt er det kun muligheten til å kunne starte og stoppe opptak på dekoderen via eksterne enheter som mangler på Viasats nye HD-PVR. 
+Altibox har f.eks. lenge latt deg gjøre dette via nettet, i tillegg til at du har dedikerte iPhone og iPad-apper for jobben. 
+Vi vet også at en slik fjernopptaksmulighet er på vei til Canal Digitals nye HD-PVR som lanseres nå i september. 
+
+Viasat tenker altså litt annerledes enn konkurrentene på dette punktet, og det er faktisk lett å skjønne tankegangen. 
+Behovet for å kunne fjernstyre dekoderen er jo ikke like akutt, så lenge innholdet allikevel vil være tilgjengelig for kundene via Play-konseptet. 
+Dermed er altså deres førsteprioritet å øke innholdet som ligger tilgjengelig der. 
+
+Konklusjon 
+
+Siden jeg kun hadde tilgang til dekoderen en dag, kan vi naturlig nok ikke være for bombastiske når det gjelder stabilitet over tid. 
+At lærekurven i bransjen har vært bratt de siste årene taler imidlertid til Viasats fordel. 
+
+Min oppfatning er derfor at PlusHD-dekoderen med denne softwaren ikke står tilbake for hva konkurrentene leverer akkurat nå: 
+
+Den er støysvak, enkel i bruk, og har fine menyer som reagerer raskt. 
+Dette er ganske enkelt en HD-PVR jeg fint kunne hatt hjemme. 

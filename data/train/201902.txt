@@ -1,0 +1,87 @@
+Asus G75VW
+Flott gaming-maskin fra Asus, som til alt overmål er oppsiktsvekkende stillegående. 
+
+Asus er verdens tredje største PC-produsent, og satser i alle segmenter av markedet - fra lette netbooks til svære beist av noen gaming-maskiner. 
+G75VW havner i sistnevnte kategori, definitivt med positivt fortegn. 
+
+Vi snakker her om en stor og tung maskin med 17" skjerm, med full HD-oppløsning og nok krutt under panseret til å ekspedere de siste spilltitlene med alle detaljer aktivert. 
+Mer om det senere i denne anmeldelsen, men først skal vi se litt mer på de tekniske egenskapene: 
+
+Fullt navn: 
+Asus G75VW-T1031V 17,3" matt LED-baklyst LCD-skjerm, 1920 x 1080 piksler (full HD) 
+Intel Core i7 3610QM-prosessor (Ivy Bridge) 8 GB RAM (maks 16) 750 GB harddisk, 7200 rpm Nvidia GeForce GTX 670M dedikert grafikkort, 3 GB HDMI, DisplayPort og VGA-utganger 4 x USB 3.0-porter Trådløst nett (b/g/n) Gigabit LAN Bluetooth 4.0 Webkamera Minnekortleser for MS/SD-kort (ikke SDXC) 
+DVD-brenner Windows 7 Home Premium 64-bit Mål: 415 × 52 × 320 mm Vekt: 
+4,2 kg + 180W strømforsyning på 1 kg 
+
+Dette er den andre gamer-PC-en vi tester som er basert på tredje-generasjon Core i-prosessor fra Intel, også kalt Ivy Bridge. 
+Det er en firekjernet Core i7-prosessor, klokket litt lavere enn i7 3720QM som sitter i Multicom Kunshan P150E. 
+Med GTX 670M-grafikkortet fra Nvidia er det duket for høy ytelse. 
+
+Den minner mye utseendemessig om fjorårsmodellen G73SW, men mangler 3D-støtte i skjermen. 
+
+Overflaten er av plast. 
+Den er matt, men du kan oppleve å se fingeravtrykk hvis du har fettete fingre: 
+
+Meget oppdatert maskinvare 
+
+Dette er for øvrig den første PC-en vi har på testbenken som bare har USB 3.0-porter. 
+Alle tilkoblingene sitter på sidene: 
+
+Det gir lett tilgang til dem alle. 
+Baksiden domineres av store luftehull som blåser varm luft ut av kabinettet: 
+
+På undersiden sitter det lokk som du enkelt kan åpne for å få renset viftene, dersom behovet melder seg. 
+Slikt setter vi pris på. 
+Her sitter også en bass-høyttaler (subwoofer) som skal sørge for ordentlig dybde i lydbildet. 
+Mer om dette senere i denne testen. 
+
+PC-en er utstyrt med harddisk, en rask som sådan, men hvis du er ute etter å tyne ytelsen til det maksimale bytter du den ut med en SSD, og setter harddisken inn som disk nr 2. 
+Ja, her er det nemlig plass til en ekstra harddisk/SSD. 
+Vi tipperat mange i målgruppen vil sette pris på romslig lagringsplass til spill og videoer. 
+
+Skjermen er stor og kontrastrik. 
+Flere og flere gaming-PC-er kommer med matte skjermer nå, fordelene med hensyn til gjenskinn er formidable. 
+OK, du mister kanskje litt kontrast, men rett forfra er dette ikke noe vi savner. 
+
+Skjermen oppleves som skarp, med god lysstyrke og kontrast mellom mørke og lyse partier. 
+En prima skjerm, i våre øyne - med en fin oppløsning til en 17,3-tommer. 
+
+Tastaturet er av chicklet-typen der hver tast er isolert fra de andre. 
+Det er svært fast og responsivt, og baklyset er prikken over i-en: 
+Dette er et glimrende tastatur. 
+Under tastaturet sitter en pekeplate som er multiberøringsfølsom, stor og presis. 
+Nok en gang: 
+Excellent. 
+
+Maskinen er utstyrt med stereo-høyttalere og en basshøyttaler under. 
+Vi synes imidlertid at lyden blir litt hul, det er rett og slett litt lite diskant. 
+Nok en gang foretrekker vi hodetelefoner eller eksterne høyttalere. 
+
+Nest-best på ytelse 
+
+Windows og programvaren virker meget godt konfigurert, og maskinen er kjapp til nær sagt alle formål - naturlig nok. 
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen, sammenlignet mot den aktuelle Kunshan-modellen fra Multicom. 
+Vi minner om at skalaen går fra 1.0 (tregest) til 7.9 (raskest): 
+
+Ikke store forskjellene altså, med unntak av harddisken, da. 
+Kunshan P150E var utstyrt med en lynrask SSD. 
+
+Passmark PerformanceTest gir oss mer kjøtt på benet, og i tabellen under har vi sammenlignet noen av de viktigste målingene mot Kunshan P150E + monstermaskinen fra Alienware til 50.000 kroner som vi testet i vinter: 
+
+Generelt litt lavere ytelse på Asus-en, altså - men det behøver ikke å bety at dette er noe dårlig valg for de av oss som krever høy ytelse og er godt over middels spillinteresserte, tvert imot. 
+Denne maskinen har overhodet ikke noe problem med å spille de seneste spillene, med dypt detaljnivå og høye oppløsninger, og gjør jobben uten at støyen blir sjenerende. 
+
+Men hvis du er interessert i en PC med lang batteritid, må du se andre veier. 
+Denne PC-en har ikke svitsjbar grafikk, noe som kan være litt av forklaringen på at vi aldri fikk batteriet til å holde ut i mer enn 3 timer - og da med minimal belastning. 
+Under videoavspilling var det tomt på 2 timer. 
+Vi har ikke målt batteritid under spilling, men det skal ikke mye fantasi til for å forestille seg at det ikke vil bli lange gleden. 
+
+Konklusjon 
+
+Dette er absolutt en høypotent spill-bærbar som imponerer på flere plan; God ytelse, glimrende skjerm og tastatur, samt meget lav støy. 
+Det finnes så klart modeller med mer krutt under panseret, men da stiger gjerne prisen betraktelig. 
+
+Merk imidlertid at den både er stor og tung, og batteritiden er ikke noe særlig å skryte av. 
+Hvis du ikke bryr deg om det, har vi ikke noe problem med å anbefale denne maskinen. 
+
+Asus ROG G75VW-T1031V 

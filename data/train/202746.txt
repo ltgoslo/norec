@@ -1,0 +1,134 @@
+Sony Vaio Pro 13
+Slank og lett lekkerbisken. 
+Endelig en innertier fra Sony? 
+
+Sony har forenklet PC-modellutvalget sitt betraktelig, og fokuserer nå på seriene Vaio Duo, Pro og Fit. 
+Disse tre utgjør grunnstammen i Vaio-familien. 
+Fit er standard bærbare med optisk drev, Duo er hybride PC-er/nettbrett, mens Pro er ultratynne og lette PC-er. 
+
+Og det er en Pro-modell vi har hatt på testbenken de siste par ukene, nærmere bestemt Pro 13. 
+Denne kommer i to utgaver, én med og én uten berøringsskjerm, og vi har testet utgaven med berøringsskjerm, som er spesielt aktuelt i disse Windows 8-tider. 
+
+Det mest oppsiktsvekkende er uansett vekten, på like over én kg, mens modellen uten berøringsskjerm veier like under én kg. 
+
+Pro 13 er for øvrig basert på Haswell-generasjonen fra Intel, det betyr det aller siste og beste hva angår prosessor og integrert grafikk fra den kanten. 
+
+Her er en kjapp oppsummering av de tekniske egenskapene på vårt testeksemplar: 
+
+Skjerm: 13,3" full HD blank multiberøring IPS-skjerm (1920 x 1080 piksler) Prosessor: 
+Intel Core i7-4500U RAM: 
+4 GB (maks 8) Grafikkort: 
+Intel HD 4400 Lagring: 
+128 GB SSD fra Toshiba 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI (overgang til VGA er ekstrautstyr) USB-porter: 2 x USB 3.0 Webkamera: 
+Ja Kortleser: SD, SDHC, SDXC Trådløst nett: (a/b/g/n) Intel Wireless N-7260 Kablet nett: 
+Nei Annet: 
+Bluetooth OS: 
+Windows 8 64 bit Størrelse: 
+13x322x216 mm Vekt: 1040 gram Pris: 9.219 kr (Sony Store 26.7.2013) 
+
+Med tanke på størrelse og vekt er det ingen tvil om at Sony har fått plass til mye i Pro 13. 
+Tykkelsen er bare 13 millimeter! 
+Vi kan i farten ikke huske å ha testet noen tynnere. 
+Merk forøvrig at du kan kjøpe et tilleggsbatteri som kan kneppes på bunnen av PC-en. 
+Det vil gjøre den tykkere, men vil samtidig mer enn doble batteritiden. 
+Mer om batteritid senere. 
+
+Materialvalget er karbonfiber, som er sterkt og svært lett, og der har vi mye av forklaringen på den lave vekten. 
+Merk at maskinen er så tynn at stivheten ikke er så god som på litt tykkere modeller med aluminiumschassis. 
+Dette behøver imidlertid ikke å være noe problem, siden vekten uansett er så lav. 
+
+Fingeravtrykk vises, men vi vil ikke si at det er noe problem. 
+Er du veldig var for fingeravtrykk, velger du den grå utgaven i stedenfor den svarte testmodellen vi har lagt våre fingre på. 
+
+Full HD med berøring 
+
+Skjermen måler altså 13,3 tommer og har full HD-oppløsning (1920 x 1080 piksler). 
+Den har et IPS-panel, noe som betyr bra sideinnsyn, men lysstyrken avtar likevel noe fra skrått hold. 
+Lysstyrken er ikke veldig høy, selv når den er skrudd helt på maks, men får uansett godkjent. 
+Overflaten er blank, som på nær sagt alle berøringsskjermer, men har likevel et litt mattere drag enn de aller mest speilaktige der ute. 
+
+Tastaturet er fellesnordisk og bakbelyst, og trykker du litt hardt på tastaturplaten gynger hele PC-en. 
+Sett i forhold til for eksempel ny MacBook Air, gir dette et langt mindre tillitsvekkende inntrykk. 
+Det er imidlertid behagelig å skrive på, og den store pekeplaten under fungerer også meget bra. 
+Det er slett ikke alltid at skjermberøring er optimalt, og da er en velfungerende pekeplate helt essensielt. 
+
+Alle tilkoblingene sitter på høyre side. 
+De er ikke veldig mange, men heldigvis er både USB-porter og HDMI-utgang i fullstørrelse. 
+Dermed slipper man å bruke overgang. 
+Merk også at en overgang fra HDMI til VGA kan fås mot et tillegg når man kjøper PC-en. 
+
+Slik er den i bruk 
+
+Fra du skrur på PC-en til du er inne i Windows og klar til å jobbe, tar det ... sekunder. 
+Det er omtrent der vi forventer at nye PC-er med SSD bør ligge. 
+Som regel lukker man jo bare lokket når man er ferdig å jobbe, og når du åpner det igjen er maskinen uansett klar før du har fått lagt hendene på tastaturplaten. 
+
+Maskinen oppleves ellers som kjapp og fin til nær sagt alle oppgaver. 
+Starte og avslutte store og tunge programmer og filer, lasting av store bildefiler og videoer, veksling mellom åpne programvinduer - alt går silkemykt og fint. 
+Spillytelsen er blitt bedre med Haswell, men dette er fortsatt ikke maskinen du velger hvis du er opptatt av å spille de nyeste spillene i full HD. 
+
+Det er imidlertid noen (viktige) ankepunkter. 
+For det første er vifteaktiviteten stor, selv med lav belastning kjører vifta, og med litt krevende oppgaver grenser den til å bli sjenerende. 
+Dette er nok noe av prisen man må betale for høy ytelse i en meget kompakt PC. 
+I tillegg hadde vår PC noe elektronisk støy; en høyfrekvent pipelyd som kunne variere i intensitet. 
+Om dette skyldes en feil ved vårt testeksemplar eller er gjennomgående, har vi ikke funnet svar på. 
+Irriterende er det lell. 
+
+Og til slutt: 
+Maskinen kan bli meget varm oppe til venstre på undersiden. 
+Det er sannsynligvis her prosessoren sitter. 
+Nok et kompromiss som følge av den slanke utformingen, antar vi. 
+
+Vaio Pro 13 Ytelsestester 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+5,8 Spillgrafikk: 
+6,2 Primær harddisk: 
+8,1 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og her er ytelsestallene vi fikk, krydret med våre kommentarer: 
+
+Prosessor: 4246 poeng 
+Sammenlignet med tilsvarende i7-prosessor fra forrige generasjon, er dette omtrent 5% høyere enn snittet. 
+Det betyr at man ikke taper veldig mye i ren prosessorkraft om man finner en maskin fra forrige generasjon på tilbud. 
+Grafikk: 
+445 poeng 
+Dette er omtrent 10% raskere enn snittet fra forrige generasjon. 
+Det skal gå an å tyne mer ut av grafikken, men da må man bruke raskere minnebrikker enn det Sony har utstyrt denne PC-en med. 
+Uansett er dette mer enn kraftig nok til å kjøre alt av 2D-grafikk, inkludert alt av høyoppløst video. 
+Til krevende 3D-applikasjoner og spill blir dette for svakt, dessverre. 
+Harddisk/SSD Lesehastighet: 
+Inntil 491 MB pr sekund Skrivehastighet: 
+Inntil 139 MB pr sekund Lesehastigheten imponerte oss, mens skrivehastigheten er godt under snittet for PC-er med SSD vi har testet tidligere. 
+Sammenligner vi med en typisk 5400 rpm-harddisk som sitter i rimeligere PC-er, er ytelsen uansett langt høyere. 
+
+Imponerende batteritid 
+
+At Haswell har løftet batteritiden på mange modeller hersker det ingen som helst tvil om. 
+Pro 13 holdt ut i hele 740 minutter med minimal belastning (12,3 timer). 
+Ved kontinuerlig filmavspilling var det imidlertid stopp etter 311 minutter (5,2 timer). 
+
+Ved variert bruk kan du forvente en batteritid på 7-8 timer, og det synes vi er temmelig imponerende de fysiske faktorene tatt i betraktning. 
+Med det omtalte ekstrabatteriet lover Sony bortimot 18 timer batteritid, og det burde holde til de fleste behov. 
+
+Konklusjon 
+
+Vaio Pro 13 er en florlett, lekker maskin med god batteritid. 
+Merk imidlertid at den blir varm, den kan støye noe under belastning, og er du uheldig kan du erfare elektronisk støy i tillegg til vifta. 
+Disse tingene gjør i hvert fall oss litt betenkt, og derfor ender vi på en firer på terningen. 
+
+Hvis du nøyer deg med Core i5-prosessor og ikke ser behovet med berøringsskjerm, er prisen nede i 7.999 kroner. 
+Det vil etter vår mening være et bedre kjøp for de fleste. 
+
+OPPDATERT: i5-utgaven med berøringsskjerm er også tilgjengelig i Elkjøps nettbutikk til kampanjepris 7.995 kroner. 
+
+I skrivende stund er konfigurasjonen vi testet kun tilgjengelig i Sony-butikken, men den skal være på vei til forhandlere i nær framtid. 
+
+For å finne andre, enda bedre alternativer: 
+Her er alle våre PC-tester! 

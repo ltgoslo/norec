@@ -1,0 +1,158 @@
+HP Chromebook 11
+Denne maskinen er en «netbook». 
+
+Er de billigste alltid-på-nett Chromebook-ene med operativsystem fra Google (og ikke Windows) et alternativ til andre billig-bærbare? 
+
+Kanskje, for det finnes flere modeller med mye bedre ytelse enn denne. 
+Det er nemlig akkurat det som er det store ankepunktet med HPs Chromebook 11 - den billigste modellen på det norske markedet. 
+
+Kun Google-tjenester 
+
+Google ønsker veldig gjerne at du velger denne nye typen maskiner, da disse maskinene ikke har annet enn Googles tjenester ombord. 
+
+Du kan ei heller installere Windows eller Linux på disse (du kan riktignok snik-installere det, men det er for spesielt interesserte). 
+
+Dette er en nett-PC på den måten at alt du foretar deg skjer på nett - svært lite lagres lokalt på maskinen. 
+Derfor er «programmene» du bruker alltid oppdatert, og du slipper å oppdatere annet enn selve OS-et, Chrome OS, og det er gjort i en håndvending. 
+
+Spesifikasjoner, HP Chromebook 11 
+
+11,6 tommer stor skjerm - 1366 x 768 oppløsningGoogle Chrome OS1.7 GHz Exynos 5 to-kjerne CPU2 GB arbeidsminne16 GB lagringsplass (SSD)N-standard WiFiBluetooth 4.02 x USB 2.01,22 kgVGA (640 x 480) webcamCirka 6 timer batteritid 
+
+Selve maskinen 
+
+HP Chromebook 11 har et innbydende og vennlig design. 
+Et positivt førsteinntrykk. 
+
+Vi synes altså fargen matcher godt med designet, og det er lite dilldall som ødelegger for helhetsinntrykket. 
+
+Det fikk også et skolebarn som lyste opp i i misunnelse erfare da han så maskinen flott poserende i Botanisk Hage på Tøyen i Grønland. 
+Men store som små bør ikke la seg lure av det innbydende førsteinntrykket. 
+
+Problemet oppstår nemlig ved berøring. 
+Det er stor forskjell å se på den, kontra faktisk å ta på og bruke den. 
+
+Alt er plast på denne, og den føles billig. 
+
+Du må holde igjen i nederste del av maskinen for å åpne den 11" store skjermen, som ikke akkurat oser kvalitet, men som er helt OK til innendørsbruk. 
+
+Svak skjerm 
+
+Oppløsningen i seg selv (1366x768) er ikke noe problem på en 11-tommer. 
+Problemet er at panelet er av relativt dårlig kvalitet og leverer et blasst bilde, noe som forårsaker enda større problemer enn vanlig om sola skinner, eller man sitter inne med en lyskilde hengende over maskinen. 
+
+Uansett, med eller uten lys: 
+Det er lett å se at panelet er en av de billigste på markedet - man får det man betaler for. 
+
+Noe svak maskinvare 
+
+Hva med ytelsen? 
+Har man brukt et moderne nettbrett de siste par årene, vil man nok ikke la seg imponere av ytelsen på denne maskinen. 
+
+Android og Apple-nettbrett flyter mye bedre når man leser aviser, er generelt kjappere, og berøringen kommer til sin fulle rett med berøringsgester. 
+
+Den samme opplevelsen får du ikke på denne HP-Chromebooken fordi den har mye lavere oppløsning enn nye nettbrett, og en liten styreflate uten smarte flerberøringsgester. 
+
+Dette er en maskin vi heller hadde skrevet en epost med enn et nettbrett, men for å surfekose i sofaen hadde vi heller gått for sistnevnte. 
+
+Den spiller av 1080p-video i YouTube, men med tidvis småhakking avhengig av hvor mye som skjer på skjermen. 
+Åpner du en ny nettfane, pauses klippet automatisk. 
+Da vi testet et 4K-klipp opplevde vi tidvis veldig mye hakking. 
+
+Et annet eksempel slik at du skjønner hvor vi er hen ytelsesmessig: 
+Det enkle fysikk-spillet «Cut the Rope» kjører ikke mykt. 
+
+Langt bedre fungerte nettleserspillet Assassins Creed Pirates. 
+Med høyeste detaljenivå kjørte spillet helt akseptabelt. 
+
+Under ser du resultatet av noen ytelsestester vi kjørte på maskinen, sammenlignet med Toshibas Chromebook, som koster så vidt litt mer: 
+
+SunSpider v1.0.2: 679,2ms 
+- Toshiba CB30: 408,5ms (lavere er bedre) 
+
+Peacekeeper: 1051 - Toshiba CB30: 2700 poeng 
+
+Browsermark v2.1: 1414 poeng 
+- Toshiba CB30: 3260 poeng 
+
+Alt foregår i nettleseren Chrome 
+
+Alt foregår i nettleseren, bortsett fra spill (som må lastes ned fra Google Play Store), og som åpnes i et eget vindu. 
+
+Chrome OS er ikke mer enn en bakgrunn og nettadresse-snarveier i arbeidslinjen til de mest brukte nett-tjenestene; Gmail, YouTube og Google Docs. 
+
+Notatblokka «Keep» (som også finnes til mobil og nettbrett) er ikke å finne i arbeidslinja som standard, men åpner du den og logger på, oppretter den en snarvei for deg samme sted. 
+
+Alltid på nett 
+
+Siden maskinen er bygget rundt en nettleser, er det ikke mye moro uten nett. 
+Heldigvis fungerer maskinen også uten nettilgang. 
+
+Mister du nettilgangen og skriver noe i notatbklokka, for så å koble den på nett igjen senere, lagres nemlig endringene automatisk på sekundet når den igjen er tilkoblet. 
+Du behøver derfor ikke være redd for å miste noe. 
+
+Den er forøvrig også lynrask til å koble seg til allerede kjente nett - kjappere enn «vanlige» bærbare vi har testet. 
+
+Alltid oppdatert 
+
+Fordelen med en Chromebook-maskin er at maskinen er fullstendig synkronisert mot alle Google-tjenester etter at du har logget inn på maskinen første gang med din Google-konto. 
+
+Men igjen: 
+Samtlige Google-tjenester finnes jo til Windows og Mac også. 
+
+Skal du bruke denne maskinen til å sende avgårde innhold til en TV må du kjøpe en Chromecast-stikke. 
+Maskinen fra HP har nemlig ingen HDMI-utgang slik Toshiba-maskinen har. 
+
+2590 kroner er også penger 
+
+Det er ingen dyr maskin dette, til 2590 kroner, men problemet til HP Chromebook 11 er at den nå må konkurrere mot en haug Windows-maskiner i samme prissegment - maskiner som har bedre ytelse og fullblods Windows, med mer lagringsplass og så videre. 
+
+Toshibas Chromebook CB 30 koster bare hundre kroner mer, og har mye bedre ytelse takket være en Intel Celeron 2955U (Haswell) CPU. 
+Den har også en større skjerm: 
+13,3". 
+
+Chromebook 11 har en prosessorarkitektur som opprinnelig var laget til telefoner og nettbrett. 
+
+Mange er ikke så glade i Windows 8-startmenyen, og det skal sies at Chrome OS er så simpelt at det er umulig ikke å finne frem, men den har for mange svakheter til at dette veier opp. 
+
+Kan rammes av glemt-i-skuffen-syndromet 
+
+Å kjøpe noe bare fordi det er billig er aldri noen god idè. 
+Å angre et kjøp er ingen god følelse. 
+Man bør vite hva man får. 
+
+Vi kan ikke med god samvittighet påstå at HP Chromebook 11 gir den beste surfeopplevelsen kontra en Windows-maskin i samme prisklasse, eller et nettbrett til samme pris. 
+
+Men siden den har tastatur, og alle Google-tjenestene du måtte ønske, kan den være å foretrekke som en svært enkel kontormaskin for lette oppgaver som epost, lynmeldinger og regneark. 
+
+Kjøper du den for andre grunner enn dette, vil vi påstå at den ikke kommer til å glede deg ved bruk. 
+
+Men dette er smart: 
+En kjekk ting med HP Chromebook 11 er at den lades med microUSB-kabel; med andre ord samme type ladekabel som mange allerede bruker til mobiltelefoner og nettbrett, slik at du kun trenger én lader på ferie. 
+Og – om du bruker en lader med for lite futt i, varsler maskinen at den kanskje ikke lades mens den er i bruk. 
+
+Rent og pent 
+
+Det finnes ingen avanserte berøringsgester, men man kan selvsagt bla i nettsider med to fingre. 
+Høyreklikksmenyen får du frem ved å trykke to finger ned på styreflaten samtidig. 
+
+Chrome OS er navnet på operativsystemet, men dette er som å bruke Chrome nettleseren på en vanlige bærbar - du vil derfor kjenne deg igjen på sekundet om du har brukt Chrome tidligere. 
+Et plusspoeng. 
+
+Heldigvis er Chrome OS lettere å bruke for for de aller fleste enn netbooks med Linux, fordi alle kjenner Googles tjenester, og fordi det eneste man bruker denne maskinen til er akkurat disse. 
+Også en fin ting. 
+
+En netbook med et annet navn 
+
+Husker du de de billige netbook-maskinene fra før iPad kom, og dominerte nettbrett-markedet, og satte en stopper for disse billige plastmaskinene? 
+
+Denne Chromebooken er en netbook med tanke på ytelse og byggkvalitet. 
+
+Forskjellen er at den har Googles OS og tjenester ombord, noe som for mange gjør den enklere å bruke enn netbooks med Linux, men likevel kommer den ikke helt i mål da ytelsen er akkurat litt for dårlig. 
+
+Det er en grunn til at netbooken forsvant: 
+Interessen falt lynkjapt når kundene fant ut at det var bedre alternativer å finne i samme prissegment, og ikke minst langt mer elegante surfeopplevelser. 
+
+Heldigvis finnes det kraftigere Chromebooks på markedet som vi heller vil anbefale om du vil ha en PC av denne typen, for eksempel CB30 fra Toshiba. 
+
+HP Chromebook 11-2081no 

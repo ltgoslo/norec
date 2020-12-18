@@ -1,0 +1,60 @@
+USB:Waitec Frisby II 
+
+Eksterne brennere kan ha flere fasonger, Waitec liker løsningen med lokk på toppen. 
+Vi har testet USB 2.0 versjonen 
+
+Hvis du først skal ha en ekstern brenner, er topp-mating praktisk i mange sammenhenger. 
+Du slipper å passe på at det ikke står noe i veien for skuffen når den åpner seg, som for eksempel et halvfullt pappkrus med kaffe.... 
+
+LES OGSÅ: 
+
+Dessuten tar denne typen brenner mindre plass generelt. 
+Den er nesten nøyaktig like stor som en intern brenner, som vil bli større når den monteres i et kabinett. 
+
+De små og slanke brennerne av typen slim-line er selvsagt enda mindre, men ligger et stykke under i ytelse. 
+
+Waitec Frisby II er spesifisert til å brenne CD-R med 40x, CD-RW med 12x og leser med 40x. 
+Det er ytelse i samme sjikt som de beste standard 5,25-tommers enhetene. 
+
+Utseendet er ukonvensjonelt, fargene går i grått og sølv, og navnet tyder på at den kan brukes til annet enn å brenne CD. 
+Så frustrerte ble vi ikke under testen, Frisby II oppførte seg rimelig pent på de fleste områdene. 
+
+Tilkobling 
+
+I likhet med andre portable enheter, bruker Waitec en stor multikontakt og en spesialkabel for tilkobling av USB 2.0. 
+Denne store kontakten på kabelen inneholder elektronikken og gjør at selve drevet kan kobles til USB eller FireWire bare ved å bytte kabel. 
+
+Problemet er hvis kabelen blir borte eller ødelagt, da hadde det vært mer praktisk med en standard kabel og elektronikken innebygget i brenneren. 
+
+Strømforsyningen er ekstern og den bruker en stor nettledning med jordet kontakt av samme type som vi kjenner fra en del bærbare PCer og LCD-skjermer. 
+Men det er ikke den vanlige typen som sitter alle PCer og skjermer. 
+
+Ta godt vare på kablene, med andre ord. 
+
+For øvrig var tilkoblingen såre enkel under Windows XP, plug & play helt etter boka. 
+Brenneren leveres med Nero, som vi allerede hadde installert på vår testPC. 
+
+Ytelse 
+
+Brenning av CD-R tok 2 minutter og 56 sekunder, som er svært bra, bare 4 sekunder mer enn Plextor sin 48x brenner. 
+
+CD-RW klarte den på 6 minutter og 45 sekunder, som er likt med skjema for 12x brennere. 
+Her oppdaget vi imidlertid at den ikke ville brenne våre 24x sertifiserte plater med høyere hastighet enn 2x! 
+Vi måtte ty til våre uspesifiserte, billige CD-RW for å oppnå 12x. 
+Det innebærer at det er ingen grunn til å betale ekstra for god margin når det gjelder media. 
+
+Leseytelsen kom opp i maks 5900 KB/sekund og aksesstiden målte vi til 80 ms i gjennomsnitt. 
+
+Ripping av vår musikk-CD ble unnagjort på 2 minutter og 31 skunder, som også er en god prestasjon. 
+
+Den er altså en ganske rask leser, men den er ikke av de mest stillegående når den jobber på det mest intense. 
+
+Konklusjon 
+
+Waitec har laget en brenner som høre hjemme blant vinnerne, selv om den ikke får plassering på pallen. 
+
+Foretrekker du en kompakt løsning med lokk på toppen i stedet for skuff, så er Frisby II midt i blinken. 
+
+Norsk distributør Multimedia Express AS 
+
+Pris 1 590 kroner. 

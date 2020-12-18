@@ -1,0 +1,72 @@
+Asus Eee Top
+Eee som minibærbar er bra, men duger den som stasjonær? 
+
+De små og billige minibærbare har blitt en suksess, og Asus var først på banen. 
+Eee hadde akkurat den riktige kombinasjonen av format, datakraft og pris, og slikt frister til gjentagelse. 
+Nye utgaver på samme lest, men med litt større skjerm, høyere ytelse og stadig lav pris, ble også tatt godt i mot. 
+
+Men konseptet var svært enkelt å kopiere, det var jo egentlig ingen unike løsninger, bare en smart måte å bygge sammen lett tilgjengelige komponenter på. 
+Dermed har mange konkurrenter slengt seg på karusellen, noe som forbrukerne nyter godt av. 
+
+Ny innpakning 
+
+Men Asus hadde andre planer: - en mini-stasjonær - Eee Box som dukket opp i fjor høst, og nå - en berøringsfølsom skjerm med innebygd kompakt PC. 
+
+Konseptet kjenner vi best fra Apples iMac-serie, men da er vi oppe i et annet prisområde. 
+iMac har heller ikke berøringsfølsom skjerm. 
+Også andre produsenter har forsøkt seg på lignende løsninger, men noe stort gjennombrudd har ikke disse maskintypene fått. 
+
+Asus kaller maskinen Eee Top, som vi antar peker mot desktop i dette tilfellet. 
+Den kommer i sort blank utførelse bortsett fra den nederste delen som er i klar plast. 
+Den står ved hjelp av et rørstativ i krom, som også har en bøyle som fungerer som bærehåndtak. 
+
+Maskinen ser helt grei ut, men noe designikon snakker vi ikke om. 
+
+Tastatur og mus følger med, begge for tilkobling til USB, altså med kabler. 
+Tastaturet har ikke nummerisk avdeling og musen har ingen ekstra knapper. 
+Begge matcher selve maskinen designmessig. 
+
+Hva inneholder den? 
+
+Maskinvaren kommer fra Intel, og består av en Intel Atom N270 prosessor på 1,6 GHz, det er 1 GB minne og brikkesettet er i945 med integrert grafikk. 
+
+Harddisken er på 160 GB, det er innebygd WLAN og Gbit kablet nettverk. 
+Kortleser for små minnekort (ikke CF), 6 USB-porter og lydutganger for surround i tillegg til innebygde høyttalere. 
+
+Skjermen er 15,6 tommer stor og har en oppløsning på 1366 x 768. 
+Den er altså berøringsfølsom, fingertuppen styrer muspekeren direkte. 
+
+I bruk 
+
+Maskinen kommer med Windows XP Home, og har også et slags skall med direkte valg av forskjellige programmer og oppgaver. 
+Dette kan du velge om du vil alltid skal starte opp eller ikke, det gir et slags "offentlig terminal" preg. 
+Du kommer vel egentlig like langt med å legge snarveier på skrivebordet på vanlig måte... 
+
+Det blir umiddelbart klart at dette ikke er noen racer. 
+Den er omtrent så rask som en 4-5 år gammel ordinær stasjonær, noe som bekreftes av en PCMark 05 måling på 1444. 
+Til sammenligning kan vi nevne at i vår siste test av bærbare er en ytelse på mellom 4000 og 5000 normalt. 
+
+Det holder til surfing og mail, nett-TV og video innen rimelighetens grenser. 
+Har du video i 1080p får du liten glede av det, det blir slideshow med dialog. 
+720p fungerer derimot utmerket. 
+
+Den berøringsfølsome skjermen fungerer dårligere enn mus, men du kan "klikke" på ikoner, velge tekst osv. 
+direkte med fingeren. 
+Du kan trykke på topprammen på et vindu og dra det omkring, men det går ikke helt glatt. 
+Gjør du det samme med musa kan du slenge vinduet omkring uten forsinkelse. 
+
+Berøringsfølsom skjerm er ikke spesielt egnet for vertikale skjermer annet enn til tilfeldig og kortvarig bruk, som på billettautomater osv. 
+Man blir fort sliten i armen, og har egentlig mye dårligere kontroll enn med mus, mener vi. 
+
+For små håndholdte enheter er det noe annet, der kan det fungere helt utmerket, med små bevegelser ovenfra, uten å måtte flytte hele armen. 
+
+Selve skjermen har også begrenset betraktningsvinkel, vinkler du den bakover slik at bildet blir best får du også mest refleksjoner fra taklys i den blanke skjermen. 
+
+Konklusjon 
+
+Vi ble ikke spesielt begeistret for denne maskinen. 
+Den kan fungere greit som en surfemaskin i en resepsjon eller lignende, eller som husets syvende PC for gjester. 
+
+Hadde den kostet vesentlig mindre hadde vi vurdert den annerledes, men til en pris på rundt 5 500 kroner finnes det mye kraftigere alternative maskiner på markedet, f.eks. en av de bærbare vi nylig testet, eller en rimelig kontor-PC med enda større skjerm, eller til og med Asus' egen Eee i boks-utgave til under 3 000 kombinert med en rimelig skjerm. 
+
+Da sparer du minst en tusenlapp og slipper berøringsfølsom skjerm... 

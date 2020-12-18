@@ -1,0 +1,98 @@
+Samsung Q330-JS04
+Liten og fin, og med flere smarte løsninger. 
+
+Denne vinteren har DinSides testpanel i stor grad hatt fokus på små, lette bærbare PC-er med 13,3-tommer skjermer, og senere denne uka vil vi publisere en sammenligning av de beste tilbudene i denne klassen. 
+
+Men først skal vi se på et ganske så spesielt tilbud på nok en spennende 13,3-tommer, denne gangen en modell fra Samsung som denne uken selges for beskjedne 4.395 kroner hos Netshop. 
+Normalt ligger prisen på godt over 5.000 kroner, ifølge Prisjakt.no. 
+
+En titt på spesifikasjonene avslører at dette, i hvertfall på papiret, er et meget godt tilbud: 
+
+13,3" blank LED-baklyst LCD, 1366 x 768 piksler Intel Core i3 370M dobbelkjernet prosessor (2,4 GHz) 4 GB DDR3-minne (2 x 2 GB) 320 GB harddisk, 5400 rpm Delt Nvidia GeForce 310M/Intel HD-grafikk DVD-brenner for alle aktuelle formater Minnekortleser for MMC/SD 10/100 
+Mb kablet nettverk Trådløst nettverk (b/g/n) Bluetooth 3.0 Webkamera HDMI/VGA-utganger 3 x 
+USB-porter 6 cellers batteri Windows 7 Home Premium 32,9 x 23 x 3,2 cm 2 kg 
+
+Spesifikasjonsmessig står den altså ikke langt tilbake for Asus U36J og Toshiba R630-13U, men er altså ganske mye billigere. 
+Så hvor har Samsung spart på kruttet? 
+Jo, Q330-JS04 har mindre harddisk, ikke støtte for Gigabit nettverk, og materialvalget er simplere enn i de to nevnte modellene. 
+Den er også tykkere og veier 500 gram mer enn de to. 
+
+Her er det utelukkende brukt plast i chassiset, uten at det behøver å bety at det er en dårlig løsning. 
+Men den er merkbart mindre stiv enn modeller der det er brukt aluminium og andre metaller, modeller som er beregnet på mer røff behandling. 
+
+Rent og pent 
+
+Utformingsmessig er det i hvertfall lite å utsette på Q330. 
+Den har alle tilkoblingene på sidene, og minnekortleser midt i fronten. 
+Overflaten er blank og sort med et svakt sikksakkmønster, men på innsiden er den sølvfarget. 
+Her er kun to små klistremerker, og heller ikke hurtigknapper de færreste bruker likevel. 
+
+Og så har maskinen et herlig tastatur, der hver tast er godt isolert fra hverandre, og med chassis tett rundt hver tast slik at smuler og smuss ikke blir noe problem. 
+Tastaturplaten er fast, og tastene avgir nesten ikke lyd under skriving i det hele tatt. 
+Det liker vi. 
+
+Det minner litt om MacBook, dette her, men til en mye lavere pris. 
+
+Vi vil også trekke fram skjermen som et positivt punkt. 
+Den er svært lyssterk og har god kontrast; skjermer er noe Samsung kan. 
+Det blanke kontrastbelegget vil imidlertid gi en del skjemmende refleksjoner når lysforholdene er vanskelige, men ikke verre enn på 9 av 10 bærbare på markedet i dag. 
+
+Første oppstart 
+
+Første gang du starter maskinen foretas konfigurasjon av harddisk, operativsystemet og en rekke tilleggsprogrammer. 
+Spesielt førstnevnte er verdt å merke seg. 
+Du får her spørsmål om du vil partisjonere harddisken i to deler. 
+Det gir deg mulighet å skille systeminstallasjonen fra brukerfilene, noe som kan være en stor fordel: 
+
+Det opprettes samtidig også en skjult gjenopprettingspartisjon, som inneholder systemet slik det var ved installasjon. 
+Dermed kan du gjenopprette stasjon C (systemet) ved behov, uten at brukerfilene på D blir overskrevet. 
+
+Etter rundt 20 minutter ble vi møtt av dette skrivebordet, og var klare til å bruke PC-en: 
+
+Som du ser får du masse vedheng, blant annet i form av prøveversjoner av sikkerhetsprogrammer og office-programmer. 
+Hvis du synes dette blir "too much" anbefaler vi deg å lese vår artikkel om PC Decrapifier. 
+
+Ikke bare søppel 
+
+Her er imidlertid også noen svært nyttige Samsung-programmer som du bør merke deg. 
+En av dem er Battery Life Extender som lar deg styre hvordan batteriet lades. 
+Du kan stoppe ladingen når nivået er på 80%, noe som vil føre til batteriet vil tåle langt flere ladinger enn hvis den alltid får gå til 100%, ifølge Samsung: 
+
+En annen nyttig sak er Chargeable USB 
+Du kan faktisk be maskinen gi strøm til USB-porten selv når maskinen er avslått. 
+Det betyr for eksempel at du kan lade telefoner og MP3-spillere uten at PC-en behøver å være skrudd på. 
+Smart! 
+
+I bruk 
+
+Maskinen er svært behagelig å bruke. 
+Vi har alt nevnt det gode tastaturet og den gode skjermen, og legger til at PC-en for det meste er meget stillegående. 
+Viften starter kun ved tyngre belastninger, og maskinen kan samtidig bli litt varm øverst til venstre på undersiden, men langt fra så varm som den åpenbare konkurrenten On LT1.1 som vi testet for kort tid siden. 
+
+Ytelsesmessig er maskinen god på det meste, og helt på høyde med andre 13,3-tommere som koster flere tusenlapper mer. 
+Så hvis ren grafikk- og prosessorytelse er fokus, er det ingen tvil om at du får mye for pengene: 
+
+Grafikkytelsen er uansett ikke god nok til å tilfredsstille seriøse gamere, men mer enn bra nok til alt annet, inkludert alt av HD-video. 
+
+På batterilevetid er det derimot større forskjeller på disse modellene. 
+Batterilevetiden på Q330 målte vi til 5 timer og 15 minutter med minimal belastning, og 2 1/2 time med kontinuerlig avspilling av HD-video. 
+Det betyr at du kan regne bortimot 4 timer med variert, lett bruk, noe som er ganske midt på treet i klassen nå. 
+
+Sammenligner vi med de andre 13,3-tommerne ser vi forskjellene tydelig: 
+
+Konklusjon 
+
+Det er vanskelig å ikke like Samsung Q330. 
+Den har smarte løsninger som valgfri partisjonering, batteriladekontroll og USB-strøm når maskinen er avskrudd, den har et glimrende tastatur og god skjerm, og minst like viktig for mange - den ser svært bra ut. 
+
+Det finnes langt kraftigere maskiner på markedet, men få i denne prisklassen. 
+Ytelsen matcher lett maskiner vi har testet i prisklassen over. 
+
+Får du den for 4.395 kroner, ja - så er den rett og slett et røverkjøp. 
+Den vipper mellom en sterk firer og en svak femmer på terningen, vi lander til slutt på sistnevnte. 
+
+Takk til Netshop for utlån av PC-en 
+
+Få også med deg disse ferske testene av konkurrerende 13,3-tommere: 
+
+Samsung Q330-JS04SE 

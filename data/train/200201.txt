@@ -1,0 +1,93 @@
+Netgear ReadyNAS Duo V2
+Nettverkslagring er nå både enkelt og raskt. 
+
+Felles lagring er praktisk for bilder, dokumenter, filmer, musikk og annet som alle på hjemmenettverket kan dele. 
+Men hvordan? 
+Hva er den rimeligste, raskeste og mest fleksible løsningen? 
+
+Alternativet er enten en PC som står på hele tiden, eller en NAS (Network-attached storage) eller nettverksdisk på norsk. 
+
+Tidligere har NAS-enheter vært småknotete å forholde seg til, og de har også vært tregere enn selv en svært enkel PC. 
+Derfor har vi i de senere år sverget til å sette opp en egen PC til felles lagring, med stillegående og strømsparende komponenter. 
+
+Men det har skjedd ting. 
+Dagens testprodukt fra Netgear er et svært tydelig eksempel på det. 
+
+Netgear ReadyNAS Duo V2 
+
+Duo betyr i denne sammenhengen at den har plass til to 3,5-tommers SATA harddisker, hver med en kapasitet på opptil 3TB. 
+
+Selve boksen er på størrelse med en lav brødrister og er helt i metall. 
+Den har tilkoblinger på baksiden til nettverket og ekstra lagringsenheter. 
+Nettverksporten støtter Gigabit nettverk og det er to USB 3.0 porter til ekstra lagring. 
+
+Strømforsyningen på 60W er ekstern, og er på størrelse med en middels lader til bærbare PC-er. 
+
+På fronten finner vi av/på knapp og en backup-knapp. 
+Denne er tilknyttet USB 2.0 porten og setter i gang backup av en minneplugg eller annen USB-lagringsenhet som kobles til denne. 
+
+Dekselet i front åpnes og svinges til siden for enkel tilgang til diskene. 
+Et lite trykk og disken frigjøres fra kontakten mens en spak vippes opp, og man kan trekke braketten med disken ut. 
+
+I vårt testeksemplar var det montert og klargjort en 3,5-tommers disk på 1 TB. 
+For å montere inn enda en disk er det bare å ta ut braketten, skru fast disken og dytte inn braketten igjen. 
+
+Hvis du av en eller annen grunn ønsker å sette i en 2,5-tommers disk eller SSD blir det plundrete. 
+De brakettene vi har sett som følger med de små enhetene lar seg ikke feste i braketten i NAS-en. 
+Men med drill og oppfinnsomhet kan man alltids få det til. 
+
+Diskene formateres når de installeres i NAS'en og du kan ikke bruke disker som er ferdig formatert og beholde informasjonen. 
+Dataene må kopieres over etter at NAS-en er satt opp. 
+
+Diskene kan settes opp i RAID, for å optimalisere på ytelse eller sikkerhet. 
+I tillegg til RAID 0 for ytelse, RAID 1 for duplisering og sikkerhet har Netgear også en egen variant – X-RAID2. 
+Her brukes en disk for data, mens den andre sørger for datasikkerhet. 
+
+Du kan også sette den opp til JBOD (Just a Bunch Of Disks) for å få mer plass, uten spesielle sikkerhetsforanstaltninger. 
+
+Vi fant ikke info om hvordan USB-diskene kommer inn i bildet noe sted i dokumentasjonen. 
+Slik som enheten var satt opp, med én disk, ble USB-lagring rett og slett lagt til i oversikten over volumer. 
+Koble til, og alle får tilgang hvis ikke noe annet er definert. 
+
+Installasjon 
+
+ReadyNAS har sin egen interne nettside hvor du har tilgang til alt via nettleseren. 
+
+Installasjonen er enkel, brukerflaten er både tiltalende og forståelig og vi var oppe å kjøre i løpet av kort tid. 
+
+Som på alle andre NAS-enheter kan du opprette brukere og filområder (shares) og styre hvem som har tilgang til hva. 
+Opptil 32 000 bukerkonti kan defineres, men Netgear anbefaler å holde seg under 100 for å ikke miste ytelse. 
+
+Ytelse 
+
+Vi sammenlignet med våre målinger da vi satte sammen vår egen hjemmeserver, og Netgear ReadyNAS viste seg å være helt på høyde med vår maskin. 
+
+I praksis vil denne ytelsen si at du kan streame flere HD-filmer samtidig fra NAS-en, samtidig som du bruker den til helt andre ting, som å kopiere inn eller ut en mengde bildefiler eller oppdaterer musikkbiblioteket. 
+
+Andre egenskaper 
+
+ReadyNAS støtter DLNA for at TV-er og musikkenheter kan spille av mediebiblioteker som du setter opp selv på NAS-diskene. 
+
+En annen praktisk egenskap er at du har full tilgang til ReadyNAS fra hvor som helst på Internett, ved hjelp av en nettbasert tjeneste fra Netgear. 
+Både Mac og PC samt bærbare enheter basert på Android eller iOS får tilgang via egne app som lastes ned gratis. 
+Her hjelper det 
+
+Støy og varme? 
+
+ReadyNAS er stillegående, viften går ikke hele tiden, og disken spinner ned når den ikke er i bruk. 
+De eneste gangene vi la merke til den var når den spant opp igjen fra dvale. 
+Da var det litt knirking i noen sekunder, mens disken kom opp i turtall. 
+
+Temperaturen lå aldri over 28 grader, som var 8-10 grader over romtemperaturen. 
+Med flere disker og intens bruk vil temperaturen og støyen stige noe, men vi ser ikke dette som problematisk. 
+Og det gjelder uansett hvilken lagringsløsning man bruker. 
+
+Konklusjon 
+
+Netgear ReadyNAS Duo V2 er en utmerket NAS-løsning til hjemmebruk, med god ytelse og enkel betjening. 
+Om du bare vil ha åpen, felles lagring, eller skreddersydde definerte brukerområder og tillatelser er opp til deg. 
+
+Nettilgang er også en fordel, forutsatt at du har en nettforbindelse som kan levere data i tilfredsstillende båndbredde. 
+Her kommer ofte ADSL til kort. 
+
+Prisen på en drøy tusenlapp uten disk er også svært gunstig, og konstruksjonen er svært robust. 

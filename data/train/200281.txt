@@ -1,0 +1,30 @@
+PowerColor Radeon X850 Pro
+LES OGSÅ: 
+
+Radeon X850 Pro-kortet til PowerColor yter nesten godt nok til å være testens kraftigste kort, men med bare 12 ekseskusjonsenheter blir det ikke nok til å slå Gainward sitt 6800 GT-kort. 
+
+Oppgradert 6800-konkurrent 
+
+Radeon X850 Pro baserer seg på brikken som kom ut samtidig med GeForce 6800-serien, men lå langt bak i ytelse allerede da. 
+Nå er det et hestehode bak begge GeForce-kortene i testen, men ligger godt foran X800 XL-kortene til tross for at det faktisk har færre eksekusjonsenheter enn disse. 
+
+Spørsmålet er om den ekstra ytelsen - knapt 1.000 poeng i 3DMark 03 - er nok til å være verd nøyaktig 600 mer enn Sapphires X800 XL-kort. 
+Sistnevnte har også bedre bundle og støyer mindre, samtidig som dette er testens andre kort som får plass i en mini-PC. 
+
+Gode videoegenskaper 
+
+I likhet med resten av Radeon-kortene har X850-serien også støtte for HDTV og Video inn/ut, og også her følger det med et spill 
+- Pacific Fighters, som det også blir gjort et poeng av i grafikken på viften, som støyer sånn omtrent nøyaktig nok til ikke å være plagsom. 
+
+Dette er kanskje det kraftigste skjermkortet du kan få plass til i en mini-PC, men prisen er litt vel stiv når du ser på ytelsen og bundelen - og det kommer litt for dårlig ut i sammenligningen med de andre kortene i testen. 
+
+Pris/ytelse igjen 
+
+Derimot er kortet hakket hvassere enn det noe dyrere kortet til Point of View i 3DMark 05 (som bruker DirectX), men litt dårligere i Doom 3 (Som bruker OpenGL - to forskjellig "grafikkspråk") - men det støyer mer. 
+Samtidig er det mindre rent fysisk og har også video inn - men du kan altså få nesten samme ytelse for 700 kroner mindre med Sapphire sitt kort. 
+
+Det dreier faktisk bare om 300 3DMark-poengs forskjell - og så mye er de kanskje ikke verd. 
+Igjen er det egentlig bare én ting som taler til PowerColors fordel - plassen. 
+Dette kortet tar bare én plass, og er altså det råeste kortet i denne testen du får plass til i mini-PCen din. 
+
+Ser vi på hvor mange 3DMark-poeng du får for pengene dine, er dette kortet nøyaktig midt på treet med 29 øre per poeng. 

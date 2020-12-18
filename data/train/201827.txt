@@ -1,0 +1,66 @@
+Netgear WNDR3700
+Det er mulig, men det er et men... 
+
+Vi har testet trådløst nett helt siden det dukket opp, og mange signaler har blitt sendt ut i eteren siden 1999. 
+Til tider har vi oppnådd imponerende hastigheter, men etter som utbredelsen har blitt stadig større har kampen om båndbredde ført til at ytelsen har gått vesentlig ned. 
+
+Årsaken til dette er at de mest populære løsningene bruker det samme frekvensområdet, fordelt rundt 2,4 GHz. 
+Både 802.11b, 802.11g og 802.11n ligger her, dessuten må de dele med Bluetooth, mikrobølgeovner og alt mulig annet - dette er et vidåpent frekvensområde. 
+
+Teknikken har blitt så bra at ingen ting sperrer totalt for hverandre, det er bygget inn en viss "høflighet" i systemene, slik at alle slipper til etter hvert. 
+Men hastighet og stabilitet i overføringene lider under dette. 
+
+5 GHz - en ekstra fil 
+
+En annen variant av trådløst nett som har fått liten utbredelse var 802.11a. 
+Den sender på 5 GHz og har flere kanaler, og ble tatt i bruk først og fremst i større bedriftsinterne løsninger. 
+Du finner svært få trådløse nett av denne typen på kaféer og hoteller, og de er vanligvis ikke støttet i innebygd maskinvare i bærbare PC-er. 
+
+Men den nyeste standarden 802.11n opererer både på 2,4 GHz og 5 GHz, og stadig flere bærbare støtter dette på begge frekvenser. 
+I tillegg finnes det eksterne løsninger for USB som kan kobles til. 
+
+Vi tester Netgear RangeMax 
+
+For å få maks hastighet på det trådløse nettet i heimen trenger du da en ruter med støtte for 2,4 og 5 GHz 02.11n. 
+På testbenken nå har vi hatt Netgear RangeMax eller WNDR3700 som den også heter. 
+
+Og vi kan si det med det samme: 
+Forskjellen i ytelse er stor! 
+
+Selve enheten er en liten boks i blank svart plast, uten utvendige antenner som stikker opp. 
+Den kan dermed plasseres synlig og gi bedre dekning, og ikke gjemmes bort på grunn av et det noen vil kalle et skjemmende utseende. 
+
+Den kan plasseres liggende, eller settes på foten som følger med og stå oppreist. 
+
+På baksiden finner vi tilkoblingene, med 4 nettverksporter som støtter Gigabit nettverk. 
+
+Det er også en USB-port hvor du kan koble til felles lagring for hele nettverket. 
+Det er bare å sette i en USB-minneplugg eller USB-harddisk, så er den tilgjengelig for alle på nettet. 
+
+Installasjon av ruteren er rett fram, i likhet med de fleste andre rutere kan du enten sette i en CD og kjøre et program med en veiviser, eller bare koble den til og gå inn i oppsettet via nettleseren når PC-en din har fått tildelt IP-adresse fra ruteren. 
+Det du trenger å vite står da på undersiden av selve ruteren. 
+
+Inne i oppsettet kan du så velge en veiviser eller sette opp alt manuelt. 
+
+Netgear-ruteren oppførte seg eksemplarisk og vi var raskt på nett. 
+
+Overføring av data 
+
+Vi testet - som vi alltid har gjort - overføring av en MPEG-fil på 100 MB. MPEG-filer lar seg ikke komprimere under overføring, det er allerede gjort i selve formatet. 
+Derfor ser vi hva ruteren og klienten faktisk klarer å overføre. 
+Tekstfiler og andre ukomprimerte datafiler komprimeres før de sendes, dermed oppnår du en mye raskere overføring av datamengden (omtrent som når du zip'er filer). 
+Dette er svært nyttig i praktisk bruk, men når man skal sammenligne ytelse må man omgå dette. 
+
+På 2,4 GHz har vi flere andre nett i nærheten, det er noen år siden vi var alene om å ha trådløst i vårt nærområde. 
+
+Men på 5 GHz er vi alene, i hvertfall foreløpig... 
+
+Forskjell i ytelse er ikke til å ta feil av, og den er ikke bare målbar, men høyst merkbar. 
+Både under surfing, filkopiering og videoavspilling er forskjellen stor. 
+
+Støtter PC-en din dette? 
+
+Hvis du har en bærbar PC med støtte for 5 GHz 802.11n vil du se nettverket som støtter 5GHz i listen over tilgjengelige nettverk, ellers vil du ikke se det. 
+
+Det finnes som nevnt flere alternative USB-klienter, vi testet med en D-Link DWA-160 som kommer med en USB-fot som kan plasseres der du får best forbindelse. 
+Netgear har også en slik adapter som heter WNDA3100. 

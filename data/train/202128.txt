@@ -1,0 +1,72 @@
+Logitech Z Cinéma
+Disse høyttalerne er laget for å spille høyt. 
+Fjernkontroll til å styre Windows Media Center følger med i prisen. 
+
+PC-høyttalere blir stadig mer sofistikerte, og det gjøres stadig små fremskritt som forbedrer lydopplevelsen. 
+Og takket være stadig større skjermer på pulten, fokuserer høyttaler-produsentene oftere og oftere på at du skal få en opplevelse av å være på kino - også lydmessig. 
+
+Surround-effekt 
+
+Logitech Z Cinéma er nettopp et eksempel på slik tankegang. 
+Settet består av en sub på 110W RMS og to satellitt-høyttalere med både mellomtone og diskant, men takket være teknologi fra SRS Labs (Trusurround HD) skal man i følge reklamen få en følelse av å være omringet av høyttalere - noe som skal gi en langt bedre surround-lignende lydopplevelse når du skal nyte favorittfilmen din - på PCen. 
+
+Og for å gjøre det klart med en gang: 
+Disse høyttalerne har vært i handelen en god stund allerede, men har av forskjellige årsaker ikke havnet på DinSides testbenk før nå. 
+De er imidlertid fortsatt like høyaktuelle som da de ble lansert i fjor. 
+
+Fungerer uavhengig av lydkortet 
+
+Cinéma-høyttalerne er heldigitale. 
+Det betyr at du ikke trenger lydkort på PCen for å bruke dem; alt du trenger er en ledig USB-port. 
+I utgangspunktet er det en meget god idé, for veldig mange, spesielt billige PCer, har lydkort av begrenset kvalitet, som igjen påvirker lydbildet negativt. 
+Her foregår all signalprosessering i sub'en, slik at lydkvaliteten blir ivaretatt enten du bruker en billig bærbar eller en studio-PC fra øverste hylle. 
+
+Høyre høyttaler har i tillegg en analog inngang (minijack), slik at du for eksempel kan koble til MP3-spilleren din. 
+Samme høyttaler har også utgang for øretelefoner, noe som slett ikke er dumt når naboen i underetasjen klager på at det blir for mye brumming i taket hennes. 
+
+Bygget for høy lyd 
+
+Og en ting er sikkert: 
+Disse høyttalerne ber om at du skrur opp lyden. 
+Og da funker de til gjengjeld meget bra, med dyp bass og fyldig lydbilde. 
+
+Surround-effekten fra SRS kan imidlertid diskuteres, i våre ører minner det mer om omdiskuterte "stereo widening" enn ekte surroundlyd - men en forbedring i forhold til standardinnstillingene vil det uansett snakk om i enkelte situasjoner. 
+For skeptikerne er det uansett greit å vite at effekten kan skrus av og på etter eget ønske. 
+
+Ulempen er at Cinéma slett ikke overbeviser like mye når du bare ønsker litt bakgrunnsmusikk til arbeidet. 
+Her plages de nemlig av det vi vil kalle for en nervøs bass. 
+Selv med bassen skrudd til maksnivå er det ikke sikkert du vil høre forskjell i det hele tatt, med mindre du skrur opp lyden, da. 
+I stedet risikerer du å oppleve at bassen slår inn med ujevne mellomrom. 
+
+Følsom på kompresjonen? 
+
+Vi har prøvd en rekke forskjellige musikkfiler og avspillingsprogrammer for å komme til bunns i problemet, og har foreløpig konkludert med at det har en viss sammenheng med hvordan lyden er komprimert. 
+
+Jo lavere komprimering, desto mindre virker problemet å være, men selv om vi ser et mønster her, er det slett ikke uten unntak. 
+
+Skrur du opp lyden avtar problemet som regel raskt, og da sørger Cinéma for god lyd, om ikke helt den gromlyden vi faktisk hadde håpet på i denne prisklassen. 
+
+Krever drivere i Vista 
+
+Vi testet først høyttalerne i betautgaven av Windows 7, og bare sekunder etter at de var koblet inn kunne vi starte Windows Media Center og styre avspilling og lyd via den medfølgende fjernkontrollen. 
+Ingen driverinstallasjon var nødvendig altså. 
+
+Deretter koblet vi dem til en PC med Windows Vista, og fikk oss en liten overraskelse. 
+Det gikk ikke an å stille lydnivået! 
+Og siden høyttalerne ikke har en fysisk volumknapp, var vi nødt til å installere driverne fra Logitech fra den medfølgende CDen for å få justert lyden. 
+
+Installasjonen viste seg å være grei skuring, og nå kunne vi også konfigurere hvilke programmer som skulle startes når vi trykker på "music" og "videos", nyttig for alle som ikke har Windows Media Center - og det er det jo mange som ikke har. 
+
+Mange programmer kan styres med fjernkontrollen, deriblant iTunes, Winamp og RealPlayer. 
+Vi rakk dessverre ikke å teste hvor godt den fungerer mot disse. 
+
+Konklusjon 
+
+Vi sitter igjen med et litt blandet inntrykk etter å ha testet disse høyttalerne. 
+Som lydpakke for deg som liker å spille høyt er det absolutt en kompetent løsning, men for alle som liker å spille lavt innimellom, samtidig som man kjenner den dype bassen under bordplata, er vi slett ikke overbevist. 
+
+Vi synes også at det burde vært en fysisk volumknapp på selve høyttalerne, noe som hadde gjort det enklere hver gang vi roter bort fjernkontrollen. 
+
+Og det skjer dessverre både titt og ofte. 
+
+Til slutt legger vi til at Cinéma krever at du kjører Windows. 

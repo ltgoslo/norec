@@ -1,0 +1,103 @@
+Asus G75Vx
+Flott gaming-PC fra Asus. 
+
+Asus er en av verdens største PC-produsenter, og satser i alle segmenter av markedet - fra lette nettbrett til svære beist av noen gaming-maskiner. 
+G75Vx havner i sistnevnte kategori, definitivt med positivt fortegn. 
+Dette er et oppdatert søsken av G75VW, som vi testet i 2012. 
+Mye av beskrivelsene i denne testen vil derfor være sammenfallende med vår test av G75VW. 
+
+Vi snakker her om en stor og tung maskin med 17" skjerm, med full HD-oppløsning, 3D-støtte og nok krutt under panseret til å ekspedere de siste spilltitlene med alle detaljer aktivert. 
+Mer om det senere i denne anmeldelsen, men først skal vi se litt mer på de tekniske egenskapene: 
+
+Fullt navn: 
+Asus G75VW-T1031V 17,3" blank LED-baklyst LCD-skjerm, 1920 x 1080 piksler (full HD), støtter 3D (aktive briller følger med) Intel Core i7 3630QM-prosessor (Ivy Bridge) 8 GB RAM (maks 16) 750 GB harddisk, 7200 rpm Nvidia GeForce GTX 670MX dedikert grafikkort, 3 GB HDMI, DisplayPort og VGA-utganger 4 x USB 3.0-porter Trådløst nett (b/g/n) Gigabit LAN Bluetooth 4.0 Webkamera Minnekortleser for MS/SD-kort Blu-ray-leser/brenner Windows 8 64-bit Mål: 415 × 52 × 320 mm Vekt: 
+4,5 kg + 180W strømforsyning på 1 kg 
+
+Dette er den tredje gaming-PC-en i G7x-serien vi har testet her i DinSide. 
+Den har en firekjernet Core i7-prosessor, klokket litt høyere enn i7 3720QM som blant annet sitter i Multicom Kunshan P150E. 
+Med GTX 670MX-grafikkortet fra Nvidia er det duket for litt høy ytelse i spill. 
+
+Selv om den er i stor grad er lik fjorårsmodellen G75VW har den altså blant annet fått blank skjerm med 3D-støtte og Blu-ray, og minner dermed nesten like mye om 2011-modellen G73SW. 
+
+Overflaten er av plast. 
+Den er matt, men du kan oppleve å se fingeravtrykk hvis du har fettete fingre, men det er ikke noe stort problem. 
+
+Maskinen har et bredt utvalg av tilkoblingsmuligheter, alle av dem sitter på venstre- og høyre side. 
+Det gir lett tilgang til dem alle. 
+
+Vi merker oss også at USB 2.0 er helt borte, nå er det kun USB 3.0 som gjelder. 
+
+Baksiden domineres av store luftehull som blåser varm luft ut av kabinettet: 
+
+På undersiden sitter det lokk som du enkelt kan åpne for å få renset viftene, dersom behovet melder seg. 
+Slikt setter vi pris på. 
+Her sitter også en bass-høyttaler (subwoofer) som skal sørge for ordentlig dybde i lydbildet. 
+Mer om dette senere i denne testen. 
+
+Burde hatt SSD? 
+
+PC-en er utstyrt med harddisk, en rask som sådan, men hvis du er ute etter å tyne ytelsen til det maksimale bytter du den ut med en SSD, og setter harddisken inn som disk nr 2. 
+Ja, her er det nemlig plass til en ekstra harddisk/SSD. 
+
+Vi tipper at mange i målgruppen vil sette pris på romslig lagringsplass til spill og videoer, men må samtidig stille spørsmålstegn ved hvorfor ikke Asus har utstyrt maskinen med SSD eller hybrid SSD/harddisk. 
+Det ville ført til enda bedre totalytelse. 
+
+Full HD-skjerm 
+
+Skjermen er stor, blank og kontrastrik. 
+Flere og flere gaming-PC-er kommer med matte skjermer nå, denne har det ikke, så gjør regning med gjenskinn hvis du har mange lyskilder i rommet du befinner deg i. 
+Bildet oppleves som skarpt, med god lysstyrke og kontrast mellom mørke og lyse partier. 
+Oppløsningen er i våre øyne perfekt for en 17,3-tommer. 
+
+Det er imidlertid ikke noen IPS/PLS-skjerm, og det merkes på innsyn - spesielt fra topp og bunn, men også fra sidene. 
+Der når den ikke opp mot de beste. 
+Det er heller ikke noen mulighet for berøringsstyring her, noe vi vet at mange Windows 8-brukere ønsker seg. 
+
+Tastaturet er av chicklet-typen der hver tast er isolert fra de andre. 
+Det er svært fast og responsivt, og baklyset er prikken over i-en: 
+Dette er et glimrende tastatur. 
+Under tastaturet sitter en pekeplate som er multiberøringsfølsom, stor og presis, og med separate, støysvake knapper. 
+Nok en gang: 
+Excellent. 
+
+Maskinen er utstyrt med stereo-høyttalere og en basshøyttaler under. 
+Det gir god fylde og dybde, men vi synes lyden kan bli litt hul til tider, det er rett og slett litt lite diskant. 
+Nok en gang foretrekker vi hodetelefoner eller eksterne høyttalere. 
+
+Flott ytelse på det meste 
+
+Windows og programvaren virker meget godt konfigurert, og maskinen er kjapp til nær sagt alle formål - naturlig nok. 
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen, sammenlignet mot noen av de raskeste spill-PC-ene vi har testet tidligere. 
+Vi minner om at skalaen går fra 1.0 (tregest) til 9.9 (raskest): 
+
+Passmark PerformanceTest gir oss mer kjøtt på benet, og i tabellen under har vi sammenlignet noen av de viktigste målingene mot G75VW, Kunshan P150E + monstermaskinen fra Alienware til 50.000 kroner som vi testet i fjor vinter: 
+
+Litt overraskende at vi fikk lavere score på 3D-ytelsen på grafikkortet, da 670MX er en oppdatert utgave av 670M, som ifølge produsenten skal gi bedre ytelse i mange sammenhenger. 
+Dette kan skyldes flere ting; overgang fra Windows 7 til Windows 8, drivere og naturligvis spillene som benyttes i Passmark-testene. 
+Vi ser imidlertid at 2D-ytelsen har økt betraktelig. 
+
+Ifølge notebookcheck.net skal uansett ytelsen være så høy at det kun ekstremt krevende titler som The Witcher 2, ikke vil gå flytende i høyeste kvalitet, mens Battlefield 3, Skyrim, and Crysis 2 vil være spillbare i full HD med absolutt høyeste detaljnivå. 
+Les mer her. 
+
+Ekstra gledelig er det at G75Vx gjør jobben uten at støyen blir sjenerende. 
+
+Merk også at DisplayPort-utgangen muliggjør tilkobling til 4K-skjermer, med oppløsning på inntil 3840 x 2160 piksler... 
+
+Ikke noe batterikonge 
+
+Men hvis du er interessert i en PC med lang batteritid, må du se andre veier. 
+Denne PC-en har ikke svitsjbar grafikk, noe som kan være litt av forklaringen på at vi aldri fikk batteriet til å holde ut i mer enn 3 timer - og da med minimal belastning. 
+Det er samme batteritid som på G75VW. 
+
+Under videoavspilling var det tomt på 2 timer. 
+Vi har ikke målt batteritid under spilling, men det skal ikke mye fantasi til for å forestille seg at det ikke vil bli lange gleden. 
+
+Konklusjon 
+
+Dette er absolutt en høypotent spill-bærbar som imponerer på flere plan; God ytelse, glimrende tastatur og pekeplate, samt lav støy. 
+Det finnes så klart modeller med mer krutt under panseret, men da stiger gjerne prisene temmelig raskt. 
+
+Merk imidlertid at den både er stor og tung, skjermen passer ikke alle, og batteritiden er ikke noe særlig å skryte av. 
+Hvis du ikke bryr deg om det, har vi ikke noe problem med å anbefale denne maskinen til spillentusiaster. 
+
+Asus ROG G75VX-CV044H 

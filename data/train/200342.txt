@@ -1,0 +1,34 @@
+iPodMe - superrask video til iPod
+Konverterer filmene dine på en blunk, enkelt og gratis. 
+
+Hvis du har en iPod Touch eller iPhone, har du også en ypperlig dings til avspilling av filmer på bussen og toget. 
+Problemet er bare at de fleste filmene du har liggende på PCen din skjønner ikke iPoden din en døyt av, og iTunes gjenkjenner verken DivX eller Windows Media Video. 
+
+Det du trenger er et program som kan konvertere filmene dine til et format som iPoden din kan forstå, og det er her iPodMe kommer inn i bildet. 
+
+Dette er det enkleste programmet vi har prøvd til formålet, og det er attpåtil gratis. 
+Alt du behøver å gjøre, er å dra og slippe videofilene dine til programvinduet, trykke på Convert, og resten går av seg selv. 
+
+Vi har prøvd med både DivX, WMW og høyoppløste MKV-filer, og iPodMe tygde seg gjennom dem alle. 
+
+Støtter undertekster 
+
+Du kan dessuten legge til flere videofiler mens konverteringen pågår, og be om at maskinen skal skru seg av når prosessen er ferdig. 
+Som om ikke det var nok, har du undertekster liggende som .srt-filer, kan de bakes inn i den ferdige MPEG-4-filmen. 
+Dette krever riktig nok at du først installerer tilleggsprogrammet AVISynth, men det er også gratis. 
+
+Så langt, så bra - men det beste med iPodMe er at det jobber svært raskt, selv i idle-prioritet. 
+på vår PC med Core 2 Duo E8400-prosessor tok det knappe 15 minutter å konvertere en halvannen times spillefilm. 
+
+Kvaliteten ble helt OK til skjermen på vår iPhone. 
+Er du ordentlig kresen kan du velge en profil som hever kvaliteten, men vi fant ingen grunn til å gjøre det. 
+
+Når konverteringen er ferdig, er det bare å kopiere filmen over til iPoden via iTunes, og løpe til toget. 
+
+Fungerer meget bra 
+
+Vi har testet iPodMe på en rekke filmer og klipp vi hadde liggende, og bare ved ett tilfelle opplevde vi at lyd og bilde ble ute av synk. 
+Det vitner om et godt programmert lite program, som ikke en gang krever installasjon - og kan dermed kjøres direkte fra en minneplugg eller lignende. 
+
+iPodMe kan lastes ned fra Softpedia. 
+Der finner du også mer informasjon om programmet. 

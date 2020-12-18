@@ -1,0 +1,58 @@
+Sandisk Ultra Backup :Superenkelt 
+
+Ingen installasjon, bare sett i pluggen og trykk på knappen. 
+Resten går av seg selv. 
+
+Sikkerhetskopiering av viktige filer til minneplugg er blitt langt mer aktuelt ettersom kapasiteten på disse har økt, og prisene er blitt mer spiselige. 
+
+Det er dette markedet minneprodusenten Sandisk nå for alvor ønsker å ta et stort jafs fra, med lanserigen av løsningen Ultra Backup. 
+
+Inntil 32 GB 
+
+Dette er i praksis små minneplugger med kapasitet på 8 til 32 GB, med en egen backup-knapp på. 
+Et enkelt trykk på knappen setter i gang sikkerhetskopieringen, og så blir du varslet i systemverktøylinjen i Windows når prosessen er fullført. 
+
+Første gang den brukes må du imidlertid naturligvis konfigurere litt, gjennom et lettfattelig og oversiktlig grensesnitt: 
+
+I utgangspunktet blir det tatt backup av rubbel og bit som har med bilder, dokumenter, filmer og musikk å gjøre, men her kan du skreddersy selv om du vil. 
+
+Mange muligheter 
+
+Du kan også bestemme om det skal tas kopi av filer som er endret, slik at du kan ha flere revisjoner av en og samme fil i backupen din. 
+
+Backup-programmet teller hele tiden gjennom hvor mye data det er snakk om, og gir deg beskjed dersom det ikke er nok plass på pluggen. 
+
+Ved neste gangs bruk er det bare å trykke på knappen, og resten går av seg selv. 
+
+Det er også mulig å bruke samme plugg på flere PC-er, det opprettes da profiler slik at dataene holdes adskilt. 
+
+Egen startmeny 
+
+Når pluggen er tilkoblet, vil du oppdage et lite symbol i nedre høyre hjørne av skjermen. 
+Klikker du på dette, vil du få opp en startmeny, og der finner du backup-programmet. 
+Via dette kan du ved behov velge å gjenopprette filene, alle eller bare et utvalg: 
+
+Men hva er meningen med en egen startmeny? 
+Det har med å gjøre at pluggen er U3-kompatibel. 
+Det betyr i praksis at du kan installere en rekke programmer på den, som så kan kjøres på hvilken som helst PC den kobles til. 
+For en oversikt over U3-programmer du kan installere, og hvordan systemet fungerer, ta en titt på denne siden. 
+
+Du kan selvfølgelig også kopiere data til pluggen manuelt, om du skulle ønske det. 
+
+Bra hastighet 
+
+Vi kjørte ytelsestester gjennom CrystalDiskMark, og det gav oss følgende resulater: 
+
+-------------------------------------------------- CrystalDiskMark 2.2 (C) 2007-2008 hiyohiyo Crystal Dew World : http://crystalmark.info/ -------------------------------------------------- 
+
+Sequential Read : 
+26.523 MB/s Sequential Write : 
+15.402 MB/s Random Read 512KB : 26.715 MB/s Random Write 512KB : 3.179 MB/s Random Read 4KB : 5.987 MB/s Random Write 4KB : 0.008 MB/s 
+
+Test Size : 100 MB Date : 2009/06/11 15:45:36 
+
+Vi legger til at backup-programmet krasjet da vi koblet pluggen til en PC med Windows 7 RC installert, men fungerte fint når vi satte det til å kjøre i Vista-kompatibilitetsmodus. 
+
+Konklusjon 
+
+Sandisk Ultra Backup koster fra 499 kroner (8 GB) til 995 kroner (32 GB), og er definitivt en enkel og effektiv løsning. 

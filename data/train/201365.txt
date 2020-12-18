@@ -1,0 +1,99 @@
+Packard Bell EasyNote R7720
+Denne PCen har produsenten valgt å kalle et bærbart underholdningssenter. 
+Her er det i hvert fall lagt vekt på at den visuelle delen skal være best mulig. 
+
+EasyNote R-serien består i skrivende stund av to modeller, begge har såkalte bredskjermer, og er bygd med tanke på spill, multimedia og annen underholdning. 
+Den største forskjellen på de to modellene er at R7720 har fått en spesialskjerm. 
+Skjermen har speilblank, glassaktig overflate, ikke matt som på vanlige LCD-skjermer. 
+Løsningen skal i følge Packard Bell føre til betydelig bedre bildeskarphet og kontrast i forhold til vanlige LCD-skjermer. 
+
+LES OGSÅ: 
+
+På innsiden 
+
+PCen har den nye Pentium M 715-prosessoren (1,5 GHz), 512 MB arbeidsminne og 60 GB harddisk. 
+DVD-brenner for begge formater (ettlags-plater) får du også med, noe som nærmest er blitt standard i denne klassen nå. 
+
+Grafikken besørges av den kraftige ATI Mobility Radeon 9600, og den omtalte skjermen er på 15,4" og har en oppløsning på 1280 x 800 punkter. 
+For øvrig har PCen et rimelig høyt utstyrsnivå, og godt med programvare får du også med . 
+
+Se detaljert oversikt 
+
+På utsiden 
+
+Designmessig er det en PC i tiden, her er det brukt sort og sølvfarget plast, med avrundede kanter. 
+Pekeplaten er formet som en ishockeybane, med eget vertikalt rullefelt til høyre. 
+Plastlokket tåler lette trykk fra baksiden uten at skjermbildet blir forvrengt, men vi ville ikke lagt tunge gjenstander på det, og ville også vært forsiktig med å stappe PCen ned i en trang ransel. 
+
+PCen har ytre mål på 3,2 x 34,5 x 25,5 cm - og vektnålen kryper så vidt under 3 kg. 
+
+De fleste tilkoblingene finner du på venstre side, inkludert VGA-kontakten for tilkobling til ekstern skjerm, nettverk, modem og én av de tre USB-portene (de to siste sitter bak). 
+Dermed er det enkelt å koble seg til på kontoret om morgenen. 
+På motsatt side sitter DVD-brenneren. 
+I fronten sitter en kortleser for MemoryStick, SD og MMC, firewireporten og lyd- inn og utganger. 
+Enkel tilgang også her altså, men tilkoblet hifi-anlegget hadde det vært penere med disse tilkoblingene et annet sted. 
+54 Mbit trådløst nettverk er bra, men vi savner en iR-port for bl.a. kommunikasjon mot mobiltelefonen. 
+
+I bruk 
+
+Tastaturet er imponerende stort, fast, og meget godt å skrive på. 
+Stort nærmere et frittstående tastatur er det nesten ikke mulig å komme. 
+Tastene er logisk plassert, og de fleste spesialtastene er store og vanskelig å bomme på. 
+
+Den første store skuffelsen fikk vi derimot allerede etter å ha brukt PCen i noen få minutter. 
+En relativt støyende vifte startet å gå etter at vi hadde kikket på en Flash-animasjon, og den stoppet ikke før vi skrudde av PCen! 
+Dette er særdeles uvanlig for Centrino-PCer, også kraftigere modeller enn denne. 
+Som regel starter viftene under den tøffeste belastningen, for så å stoppe når belastningen er over. 
+Vi dro ut kontakten, vi stengte alle programmer, men nei. 
+Viften gav seg ikke. 
+Vi opplevde derimot at den speedet opp hastigheten når vi startet diverse programmer. 
+
+Vi er overbeviste om at det ikke behøver å være slik. 
+Vi har opplevd noe lignende med enkelte modeller tidligere, men da har problemet blitt eliminert etter en oppgradering av BIOS. 
+Vi håper det samme er tilfelle for denne PCen, for dette var ikke bra. 
+
+Men så var det skjermen da. 
+Den er for det første meget lyssterk, og for det andre gir den et svært livaktig bilde i spill og filmer. 
+Man får virkelig inntrykk av at det sorte er sortere og det hvite hvitere, og det skyldes helt sikkert den speilblanke overflaten. 
+Den største ulempen med løsningen er at "alt" speiler seg i den. 
+Sitter du med ryggen mot vinduet, eller har kraftige lamper i bakgrunnen, kan refleksene bli et lite problem (se bilde). 
+
+Ytelse 
+
+En rask titt på tallene fra ytelsestestene forteller gav oss ingen store overraskelser. 
+1,5 Ghz prosessoren yter omtrent som en stasjonær Pentium 4-prosessor på 2,2-2,4 GHz i de fleste situasjoner. 
+
+Harddisken vil nok være den største flaskehalsen for totalytelsen, noe vi merket godt i de situasjonene der vi prøvde å jobbe med mange programmer samtidig (pga hurtigbufring). 
+Å installere mer arbeidsminne (RAM), vil nok hjelpe, men en raskere harddisk ville nok stått øverst på vår ønskeliste. 
+
+ATI Mobility Radeon 9600 er fortsatt blant de beste grafikkløsningene for bærbare PCer. 
+Ytelsen kan ikke måle seg med de råeste 3D-kortene for stasjonære PCer, men bør absolutt være tilfredsstillende for de fleste behov. 
+Vi prøvde Doom 3, bare for å sette grafikken ordentlig på prøve, og måtte ned i 800 x 600 og middels detaljnivå før vi ble fornøyd med flyten. 
+Spillets egen advisor foreslo derimot 640 x 480 og lavt detaljnivå... 
+Uansett - her snakker vi om et ekstremt krevende spill. 
+
+2D-ytelse har ikke vært noen utfordring for noe som helst kort de siste årene, men nå dukker det opp krevende løsninger også her. 
+High Definiton video er et godt eksempel på løsninger som setter grafikkortet på ordentlige prøver. 
+Her snakker vi om video med langt høyere oppløsning enn DVD. 
+Vi prøvde noen 1080p Windows Media HD-filer, og de fløt aldeles nydelig over den kontraststerke skjermen. 
+Hvis du vil vite mer om dette formatet, finner du informasjon her. 
+
+Stakkars batteri... 
+
+En uheldig bieffekt av vifteproblematikken, var at batteriet så ut til å lide kraftig. 
+Mens de fleste Centrinoene med 8-cellers Li-ion batteri som vi har testet har holdt det gående i minst 3 1/2 time, slukket denne maskinen lyset etter ca halve tiden. 
+
+Alle detaljene fra ytelsestestene finner du her 
+
+Konklusjon 
+
+Fantastisk skjerm, glimrende tastatur, høyt utstyrsnivå og generell god ytelse. 
+Dette kunne vært en særdeles flott multimedie-PC, hadde det ikke vært for vifteproblemet - som vi tror også har skylden for den korte batterilevetiden. 
+
+OPPDATERT: 
+Vi har fått bekreftet fra Packard Bell at det snart vil bli komme en BIOS-oppgradering til denne PCen, som skal få ned vifteaktiviteten. 
+Det vil føre til mindre støy, og forhåpentligvis bedre batterilevetid. 
+
+Du kan for øvrig sammenligne alle PCene vi har testet så langt i år ved å følge denne lenken. 
+
+Mer nyttig fra DinSide Data: 

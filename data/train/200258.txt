@@ -1,0 +1,87 @@
+PNY Geforce GT 520 :Budsjettgrafikk som klarer brasene 
+
+Er video, oppløsning og flere skjermer viktigere enn gaming? 
+Da kan du spare mange penger. 
+
+Vi har nå kommet til den fjerde delen av vår PC-bygg-serie. 
+Så langt har vi sett på delene vi valgte, hvordan vi satte sammen maskinen, oppsett av EFI Bios og installasjon av Windows og drivere. 
+Nå skal vi se nærmere på hvordan vi løste grafikkproblemet som oppstod da det viste seg at skjermen vår hadde for høy oppløsning i forhold til hva den integrerte grafikken i prosessoren var i stand til å takle. 
+
+Vi bruker ikke PC-en til spilling, så den biten er av mindre interesse - men det er et poeng for oss å kunne koble til to skjermer- hvorav én har en oppløsning på 2560 x 1440 piksler og den andre en en HD-skjerm med oppløsning på 1920 x 1200 piksler, uten at det skal by på problemer for maskinvaren. 
+
+Lett å bli blendet 
+
+Grafikkort finnes i ekstremt mange varianter, og prisene varierer fra et par hundrelapper til mange tusen. 
+Det kan være svært vanskelig å få den fullstendige oversikten, så her kan det være smart å søke informasjon på nettet på forhånd før du går til innkjøp. 
+
+Et godt hjelpemiddel for å få et inntrykk av relative ytelsesforskjeller mellom de forskjellige kortene og brikkene, er rangeringene til Passmark. 
+De er basert på analyser av tusenvis av PC-er som har kjørt ytelsesprogrammet PerformanceTest fra selskapet. 
+
+Det er imidlertid lett å ende opp med kort som ikke er tilpasset ditt behov. 
+Mange lar seg imponere av spesifikasjoner og høye ytelsestall, og bruker mange penger på et kort som både bruker mye strøm og som krever så mye kjøling at man ender opp med en PC som støyer mye mer enn nødvendig. 
+For deg som ikke bruker PC-en primært som spillmaskin, er det både penger, strøm og støy å spare ved å velge riktig kort. 
+
+Da bør du heller fokusere på andre egenskaper, for eksempel disse: 
+
+Tilkoblingsmuligheter: 
+Selv de billigste kortene har i dag muligheten for å koble til to skjermer samtidig. 
+De vanligste tilkoblingsmulighetene er VGA (analog tilkobling), DVI (digital tilkobling) og HDMI (digital tilkobling med lyd). 
+Mange kort har støtte for Dual-link DVI, og kan dermed kobles til skjermer med høyere oppløsninger enn full HD. 
+Slike skjermer er ikke veldig vanlige ennå, men det kommer de til å bli! 
+
+HDMI gjør det for eksempel svært enkelt å koble PC-en til TV, gjerne via en surround-forsterker, men merk at ikke alle kort har støtte for flerkanallyd gjennom HDMI-kontakten. 
+
+Merk også at selv om kortet har tre utganger støtter de sjelden mer enn to skjermer samtidig. 
+
+Vifte eller ikke vifte: 
+De fleste grafikkort har integrert vifte, men det finnes også mange kort uten. 
+Disse har som regel en stor kjøleribbe i stedet. 
+Du bør imidlertid være klar over at hvis kortet utsettes for tøffe påkjenninger, vil det bli varmt både på kortet og rundt det. 
+Det optimale vil derfor være å bruke vifteløse grafikkort i kabinetter med god plass, og god gjennomstrømning av luft - for eksempel ved hjelp av store, støysvake kabinettvifter. 
+
+Støtte for ulike teknologier Skal du bruke kortet sammen med en Blu-ray-spiller må det støtte HDCP-kryptering. 
+Nyere kort støtter også Blu-Ray 3D (HDMI 1.4a). 
+Støtte for de siste OpenGL- og DirectX-implementeringene kan blant annet gi bedre grafiske opplevelser i spill og enkelte programmer (men da snakker vi ikke om Excel og Photoshop). 
+
+PNY GeForce GT 520 - mer enn god ytelse til 599 kroner 
+
+"The perfect upgrade component for casual gamers who will be able to enjoy their favourite games without breaking the bank." hørtes ut som et godt utgangspunkt for oss, og vi bestemte oss for å teste dette kortet sammen med PC-en vi har bygd. 
+
+Her er en kjapp gjennomgang av hva dette kortet har å by på: 
+
+PCI Express-tilkobling til hovedkortet VGA, DVI-I og HDMI-utganger 1 GB DDR3-minne Core clock: 
+810 MHz Shader clock: 
+1620 MHz Memory clock: 
+1794 MHz 
+
+Kortet støtter også de siste teknologiene: 
+
+Microsoft® DirectX 
+11 NVIDIA CUDA™ Technology - med CUDA C/C++, DirectCompute 5.0 og OpenCL NVIDIA PhysX 
+PCI Express 2.0 Dual Link DVI-I tilkobling HDMI 1.4a Dual Link HDCP OpenGL 4.1 
+
+Før vi installerte kortet kjørte vi ytelsestester med grafikkløsningen som er integrert i i5 2500K-prosessoren, slik at vi i ettertid kunne sammenligne ytelsen. 
+Først Windows 7 sine egne ytelsestall: 
+
+Windows opplevelsesindeks med integrert Intel HD-grafikk 
+
+Windows opplevelsesindeks med PNY GeForce GT 520 
+
+Legg merke til at det er ikke bare grafikkytelsen som har steget etter oppgraderingen, men også minneytelsen. 
+Dette henger sammen med at den integrerte grafikken deler minne med resten av systemet, mens GT 520 har eget dedikert minne på 1 GB. 
+
+I PCMark Vantage kan vi studere hvordan ytelsesforbedringene arter seg i praktiske situasjoner. 
+Her har vi plukket ut noen minne- og grafikkintensive oppgaver, og som du ser er det snakk om vesentlige forbedringer på disse områdene: 
+
+Noen spillytelse i toppklassen får du imidlertid ikke, men kortet fungerer perfekt med vår relativt krevende toskjerms-løsning (én skjerm med oppløsning 2560 x 1440 via DVI, og én med 1920 x 1200 via VGA). 
+Kortet hadde ingen problemer med å spille to forskjellige HD-filmer på hver sin skjerm, og mer krevende grafiske oppgaver enn det kommer i hvert fall ikke vi til å ha behov for å løse. 
+
+Den lille vifta på skjermkortet kan imidlertid være et ankepunkt for noen. 
+PC-en vår har blitt merkbart mer hørbar nå, men så lenge den står på gulvet under pulten er det et mindre problem. 
+Optimalt sett hadde vi uansett ønsket oss et kort med litt større kjøleribbe og større vifte med lavere frekvens. 
+
+Konklusjon 
+
+Med nytt grafikkort er PC-en vår komplett. 
+Den oppleves som svært rask i alle situasjoner. 
+Vi har bevisst valgt et rimelig grafikkort som dekker våre behov, og så lenge vi bruker XBox 360 og PlayStation 3 til de siste spilltitlene, er valget fullstendig uproblematisk. 

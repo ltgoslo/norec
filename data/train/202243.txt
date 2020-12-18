@@ -1,0 +1,164 @@
+Google Nexus 7
+Her har Asus og Google puttet mye krutt i en billig pakke. 
+
+Google Nexus 7 er det første «offisielle» Android-nettbrettet, og det er laget av Asus for Google. 
+Alle de offisielle Google-produktene har Nexus i modellnavnet, som betyr at de også kjører en ren Android-utgave uten modifikasjoner fra produsenten. 
+
+Dermed kan du også regne med å stå først i køen når Android oppdateres til ny versjon. 
+Bare mens vi har hatt produktet til test, har vi fått den splitter nye Android-versjonen – versjon 4.2. 
+
+Som modellnavnet tilsier er dette et nettbrett som måler sju tommer over diagonalen, og som derfor har mindre skjermflate enn iPad Mini (7,9"). 
+Den har til gjengjeld noe høyere oppløsning. 
+Prislappen er også svært aggressiv – 32GB-versjonen av Nexus 7 (kun WiFi) koster tett oppunder 2.000 kroner i de rimeligste nettbutikkene. 
+Til sammenligning koster iPad Mini 3.290 kroner, altså over 60 prosent mer. 
+
+Verdt å merke seg er at 3G-versjonen foreløpig ikke er tilgjengelig i Norge. 
+Vi har ikke lykkes å få noen dato fra Asus på 3G-versjonen (som er tilgjengelig i USA), men den ville neppe komme i noe stort volum før over nyttår. 
+
+Tekniske spesifikasjoner, Google Nexus 7 
+
+Skjermstørrelse: 7"Skjermoppløsning: 
+1280x800 pikslerProsessor: NVIDIA Tegra 3, fire kjerner, 1,2GHzInterminne: 16/32GBArbeidsminne:1GBOperativsystem: 
+Android v4.2 Jelly Bean (nylig oppdatert)Mål: 120x199x10,5mmVekt: 
+340gKamera: 
+Kun front, 1,2MpBatteri: 
+4325 mAh 
+
+Konstruksjon 
+
+Hvis ikke du har holdt i et 7"-nettbrett før, er det verdt å merke seg at denne type nettbrett er vesentlig lettere enn 10"-utgavene som iPad og Galaxy Note 10.1. 
+Vektnåla stopper på 340 gram på Nexus 7, og det er ganske nøyaktig halvparten av hva en iPad veier. 
+
+Allikevel er det ikke imponerende lavt i forhold til størrelsen – iPad Mini (7,9" skjerm) veier 308 gram, og fjorårets Samung Galaxy Tab 7.7 sniker seg også inn noen få gram under Nexus 7-vekta. 
+
+Til tross for en konstruksjon som i hovedsak består av plast, føles Nexus 7 solid. 
+Vi hører ingen knirking når vi klemmer rundt på baksiden, som for øvrig er belagt av mange små hull som gir en ru overflate og godt håndgrep. 
+
+Vårt testeksemplar hadde vært ute på vift før vi fikk det i hende og hadde fått noen ganske tydelige riper på baksiden, så ved røff bruk vil du sannsynligvis få et nettbrett som ikke er så veldig pent. 
+Vi klarte imidlertid ikke å fremprovosere lignende merker med en nøkkel og relativt fast trykk, selv om vi ikke tok i alt vi kunne. 
+
+Nexus 7 virker også godt balansert. 
+Det er uproblematisk å holde i én hånd, men selvsagt litt for stort til at du når over hele skjermen med den samme hånda uten å risikere å miste det i bakken. 
+Det er også akkurat smalt nok til å gå ned i en litt romslig bukselomme, selv om vi neppe ville ha satt oss ned med den i lomma. 
+
+I forhold til iPad Mini er ikke fremsiden utnyttet like effektivt med tanke på skjermplass og kanten rundt skjermen. 
+Der iPad Mini har et svært tynt område rundt skjermen, er det slett ikke beskjedent på Nexus 7. Uten at det gjør noe, for så vidt - for vår del er det like greit å ha et sted å hvile tommelen på på utsiden av skjermen. 
+
+Både hodetelefon og micro-USB-inngang er plassert i bunnen av enheten, men der iPad Mini har sin karakteristiske hjem-knapp under skjermen, er det ingen fysiske knapper på forsiden av Nexus 7. 
+Vi må innrømme å ha opplevd mer enn én gang å lete etter av og på-knappen på feil side av nettbrettet – det eneste som avslører om du holder det riktig vei eller ikke på forsiden er plasseringen av kameraet, som er nokså diskré mot den helsorte bakgrunnen. 
+
+Av og på-knappen sitter øverst til høyre når du ser riktig vei på skjermen, og rett ved siden av er volumknappene. 
+Begge er lett tilgjengelige, og greie å føle seg frem til i mørket. 
+
+Vi har også et positivt inntrykk av den såkalte digitizeren, det vil si den delen av skjermen som konverterer fingerberøringen til digitale signaler. 
+Responsen er kjapp når man sveiper fingeren langs skjermen, og den oppfører seg også presist når vi spiller spill som Funky Smugglers. 
+
+Android v4.2 
+
+Nexus 7 er altså den første enheten som kjører den splitter nye Android-versjonen (4.2), en oppdatering vi fikk i løpet av testperioden. 
+Vi drar ikke igjennom alle nyhetene en gang til, vi presenterte de viktigste punktvis da vi så på den nye Nexus 4-telefonen i forrige uke. 
+
+Flere brukere 
+En av tingene vi gledet oss mest til på nettbrettutgaven, var muligheten for flere brukere. 
+På papiret så det nemlig ganske fiffig ut: 
+Hver bruker har eget sett med apps og innstillinger, slik at det går an å låne bort nettbrettet til venner og familie uten samtidig å gi tilgang til for eksempel epostkontoen, og flere kan spille samme spill uten å påvirke progresjonen til hverandre og så videre. 
+
+Endelig har noen skjønt at et nettbrett er en familie-greie, var min første tanke. 
+
+Jeg synes imidlertid Google har implementert dette helt feil. 
+
+Som administrator har du mulighet til å opprette flere brukere. 
+Disse kan få sitt eget bilde på låsskjermen, og hver bruker kan ha sin egen opplåsingskode. 
+So far, so good, som de sier i land der de snakker engelsk. 
+
+Hver bruker har så sine sett med bilder, epostkonti og så videre. 
+Det er imidlertid en stor hake: 
+Første gang en ny bruker logger på, har vedkommende kun standardappene. 
+For å få tilgang til flere apps, må man ha en Google-konto og kjøpe dem eller laste dem ned fra Google Play-butikken. 
+Du slipper riktignok å laste ned (og bruke ekstra plass på) appen om den finnes på nettbrettet fra før, men det er en mager trøst. 
+
+Det er altså ikke bare å lage konti til alle familiemedlemmene. 
+Da må hver og én kjøpe sine apps i stedet for at den som er administrator kan stå for app-shoppingen, og så velge hvem som skal få tilgang til hva. 
+Og barna må altså ha hver sin Google-konto. 
+Det gjør at de voksne heller ikke kan ha kontroll på hva barna laster ned til sin brukerkonto. 
+
+(Vil du begrense barnas muligheter på nettbrettet ditt, kan du eventuelt sjekke ut Famigo Sandbox.) 
+
+Dobbel nedtrekksmeny 
+En annen nyhet i versjon 4.2 er muligheten for å trekke ned varselmenyen på to måter. 
+Avhengig av om du drar fingeren ned på høyre eller venstre siden av midten, vises ulike menyer. 
+Til venstre (der varselikonene ligger) er den "vanlige" varselemenyen, der elementene nå også kan inneholde mer informasjon enn før (utvides ved å trekke ned to fingre), og der enkelte også har muligheten for direkte handlinger fra varselmenyen. 
+For eksempel kan du sende en epost til alle som skal delta på et møte ved å trykke på en knapp på direkten. 
+
+Drar du fingeren ned på høyre side av midten vises den nye «quick settings»-menyen. 
+Derfra kan du endre bruker, gå direkte til innstillinger, endre lysstyrke, slå på Bluetooth og så videre. 
+
+Widgets på låseskjermen 
+Dette blir nok en kjekk mulighet, men foreløpig er det et veldig tynt utvalg med widgets som kan puttes der. 
+Det skal imidlertid være lettvint for tredjeparter å gjøre sine widgets låsskjerm-kompatible, og foreløpig er det kun kalender, epost og klokke som er tilgjengelige valg fra Google. 
+Du kan da for eksempel se dagens avtaler, men for å komme inn i kalenderen, kreves det opplåsingskode dersom du har aktivert en. 
+
+Nytt tastatur 
+Det nye tastaturet er en gledelig nyhet. 
+Det støtter nå sveipeskriving, der du bare drar fingeren over alle knappene uten å slippe den mellom hver knapp, og så gjør de smarte algoritmene resten av jobben når det gjelder å finne ut av hvilke ord du ville skrive. 
+
+Mens du drar fingeren rundt ser du hele tiden ordet som vil bli skrevet rett over fingeren din, og løsningen virker vel så solid som Swype, og faktisk hakket mer elegant. 
+
+Siden Nexus 7 ikke har noe kamera på baksiden, har enheten heller ingen fotoapp, så Photosphere-nyheten i Android 4.2 får vi ikke testet ut. 
+Det er fortsatt noe usikkert om Nexus 7 har støtte for Miracast eller ikke, men foreløpig er den ikke på den offisielle listen. 
+Miracast er en teknologi som lar deg sende bilder, video og liknende direkte til en Miracast-kompatibel mottaker (i praksis en TV eller liten tilkoblingsboks); litt a la Airplay fra Apple. 
+
+Nevnt er også Google Nå-funksjonen, som i våre øyne er helt fabelaktig, og som søker opp informasjon for deg uten at du trenger å løfte en finger. 
+
+Kjapp og responsiv 
+
+Med Jelly Bean-oppdateringen (versjon 4.1) kom også "project butter", hvis mål var at operativsystemet konsekvent skulle kjøre på 60 bilder i sekundet, og Nexus 7 føler som et veldig raskt Android-nettbrett når det gjelder basisfunksjonene. 
+Sveiping av hjemskjermene går glatt som bare det, og dette brettet er det første Android-brettet som gir oss "iPad-følelsen" når man håndterer det, der alle trykk resulterer i ganske umiddelbar respons. 
+
+Skrolling i nettleseren og den slags flyter også bra, men helt iPad-esque er det ikke. 
+Nexus 7 henger også litt bak i ytelsesmålinger i nettleseren, på tross av en på papiret ganske kraftig maskinvare. 
+SunSpider-testen fullføres på 1674ms (1481 på iPad Mini, der lavere er bedre), og i Browsermark 2.0-testen scorer Nexus 7 1651 poeng mot 2086 poeng hos rivalen fra Apple. 
+Men altså - sammenligningen er ikke helt fair, gitt en relativt markant prisforskjell. 
+
+Nexus 7 føles dog litt utilstrekkelig på de tyngre spillene. 
+Bilderaten er langt fra imponerende på spill som Six Guns (3D-western-action), så er spill noe du vet du vil bruke mye tid på er det ikke nødvendigvis Nexus 7 du skal gå for. 
+
+Men hvor blir det av innholdet? 
+
+Er det ett punkt der Android-brettene har hatt en vesentlig ulempe kontra iPad, så er det utvalget i apps og annet innhold. 
+Fortsatt er ikke Google Play-butikken spesielt tilpasset nettbrett annet enn en seksjon med «redaksjonens utvalgte». 
+Man vet derfor sjelden om en app ser pen ut på nettbrettet (utover å se på brukertilbakemeldinger fra samme enhet), eller om den kun er laget for mobiltelefon – enten ved at appen bare dekker en liten del av skjermen eller skaleres opp til fullskjerm der det blir masse tomrom. 
+Det ser slett ikke pent ut. 
+
+I tillegg har Google fortsatt ikke lansert innholdstjenestene sine i Norge, som filmleie, musikktjeneste og bøker. 
+Det er et skår i gleden for norske brukere, selv om Netflix og Spotify selvsagt veier opp noe. 
+
+Batteri 
+
+Batterikapasiteten på Nexus 7 er 4325 mAh, og skal i følge Google/Asus holde til ni timers avspilling av HD-videomateriale, eller 10 timers surfing. 
+Det er sikkert riktig, men det er verdt å nevne at Android bruker mer batteri enn iOS når enheten ikke er i bruk. 
+Derfor klarte vi for eksempel bare å holde liv i den i cirka tre døgn selv om skjermen bare hadde vært i bruk to timer totalt over de tre døgnene (opptil 300 timer oppgis som standbytid). 
+
+Dette avhenger selvsagt en del av hva du har aktivert av push-meldinger, epostsynkronisering og lignende. 
+
+Tilgjengelige versjoner 
+
+Nexus 7 ble lansert i to utgaver – 8GB og 16GB (kun WiFi). 
+Senere ble dette endret til at begge versjonene fikk doblet kapasitet, og 32GB-versjonen koster nå snaue 2.000 kroner i de billigste nettbutikkene. 
+
+Det kommer også en 3G-versjon, men som Asus ikke kan love kommer før jul, og spør du oss er 3G-oppgraderingen vel verdt å vurdere på nettbrett i denne størrelsen. 
+De er mer portable enn titommerne, og langt mer appellerende å ta med seg på innerlomma. 
+
+Konklusjon 
+
+Vi liker Nexus 7. I de siste Android-oppdateringene (4.1 og 4.2) har Google begynt å få på plass mye bra saker, anført av Google Nå, et operativsystem som flyter langt bedre, et svært godt stemmesøk og mange små nyvinninger. 
+
+Nexus 7 er lett å ha med seg på tur, komfortabelt å holde og jevnt over raskt i bruk, selv om det ikke er helt tilstrekkelig til å gi en god spillopplevelse på de mest ressurskrevende spillene. 
+
+Som nordmenn savner vi tilgang til hele Google Play-butikken, der man i utvalgte land har mulighet til å bruke musikktjenesten, leie filmer og kjøpe magasiner og aviser. 
+Google har fortsatt en jobb å gjøre med å tilpasse app-butikken bedre, for ofte blir man noe skuffet etter å ha lastet ned en app og få den i et merksnodig oppblåst format på nettbrettet. 
+
+Uansett - til snaue 2.000 kroner for 32GB-versjonen er dette god valuta for pengene. 
+Vi vil imidlertid råde deg til å tenke deg godt om – på en sjutommer kan det være at du heller vil vente på 3G-versjonen. 
+
+Google Nexus 7 32GB 

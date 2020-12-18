@@ -1,0 +1,58 @@
+Kjekk liten sak som hurtiglader det meste
+Støtter Quick Charge 3.0 og har USB-C. 
+
+I mange hjem begynner det å fylles opp med dupeditter, og skal man lade mange samtidig må det ofte gjøres rundtom i huset, i tråd med hvor man har stikkontakter. 
+
+En USB-ladestasjon kan i så måte være en fin løsning. 
+Da trenger du bare å legge beslag på én stikkontakt, og så har du gjerne en håndfull USB-porter til disposisjon. 
+
+For noen år tilbake testet vi for eksempel en variant vi fant på Teknikmagasinet, som kunne lade inntil ti enheter samtidig. 
+Da måtte du riktignok ta til takke med 5 watt (5V/1A) på hver port. 
+
+4+1 USB-port 
+
+Dagens testprodukt fra Doca byr «bare» på fem porter; 4x USB-A (vanlig USB) og 1x USB-C, men interessant er at enheten har støtte for Quick Charge 3.0, som betyr at du kan lade ganske mange Android-toppmodeller med full hastighet. 
+
+Portene har følgende spesifikasjoner: 
+
+For å forsyne strøm til selve USB-ladestasjonen følger det med en egen strømadapter på 15V/3A, altså 45 watt. 
+Med andre ord vil du ikke klare å kjøre full guffe på alle portene samtidig, som totalt ville ha utgjort 68 watt. 
+
+Selve ladestasjonen er svært kompakt av størrelse – bare 16,5 mm høy og cirka 7 centimeter i diameter. 
+Portene er godt merket med kapasiteten og mellomrommet mellom portene stort nok til at vi fint fikk plass til multimeterne våre, som er ganske store. 
+
+Lader det meste kjapt 
+
+Vi hadde tre USB-multimetere for hånden og plugget i en nødlader med Quick Charge 3-støtte og to mobiltelefoner samtidig. 
+Da fikk vi levert 18 watt på nødladeren (9V/2A) og 10 watt på de to mobiltelefonene (5V/2A), altså 38 watt totalt. 
+
+Plugget vi i en fjerde enhet i den siste porten (5W), droppet ladeffekten på nødladeren tilsvarende, så 38 watt ser ut til å være ganske nært maksimalt output, som også høres fornuftig ut, siden noe energi går med til spenningskonverteringen. 
+
+Her er farten vi fikk da vi prøvde å lade en håndfull enheter: 
+
+Både Sony XZ Premium og Xiaomi-nødladeren (test kommer) har støtte for lading via Quick Charge 3 og lader følgelig med 9 volt og dertil høyere effekt. 
+Sonys nyeste modell, derimot, XZ3, har ikke støtte for denne teknologien og er den som lader svakest av enhetene vi prøvde – men akkurat like raskt som med den medfølgende laderen, som også er 7,5 watt. 
+
+Quick Charge-porten leverer imidlertid svak ladeeffekt på mange av enhetene som ikke er QC3-kompatible, så for de fleste telefonene gikk det raskest i en av 2,4A-portene. 
+
+Men overraskende nok – iPhone 
+Xr ladet omtrent like raskt som med en iPad-lader da vi brukte QC3-porten, men bare med 5 watt på de andre portene. 
+Her må man altså prøve seg litt frem, og det er ikke like enkelt uten et USB-multimeter, som vi regner med at de færreste har i arsenalet. 
+
+Quick Charge 3.0 er for øvrig en teknologi fra Qualcomm, som lager Snapdragon-prosessorene som sitter i veldig mange mobiltelefoner, bortsett fra modeller fra Apple, Samsung og Huawei, som alle står for den biten selv. 
+Det kan altså være at du kan lade disse telefonene raskere med Doca-enheten enn med laderen som fulgte med i esken. 
+
+Som du ser av spesifikasjonene, kan ladestasjonen levere maksimalt 15 watt på USB-C-porten, som betyr at den ikke vil fungere som et mellomledd når du vil lade en bærbar PC – den må du fortsatt plugge direkte i stikkontakten. 
+Den minste Macbook-laderen er for eksempel på 30 watt. 
+
+Konklusjon 
+
+Det er mye å like ved Doca D576 – den har en kompakt utforming, men allikevel godt mellomrom mellom portene og byr på kjapp lading av de fleste enheter, selv om du riktignok må «føle deg frem» til den beste porten å bruke. 
+
+Vi hadde helst sett at også inngangen var standardisert, og at USB-C-porten kunne levert mer effekt slik at den kunne lade en bærbar PC kjapt når ingen andre enheter er koblet til. 
+Men da holder det ikke med 15 watt. 
+
+Selve strømkabelen er også bare én meter lang – som kan være litt i korteste laget om du vil ha en slik på en kommode eller lignende. 
+Her hadde en halvmeter ekstra gjort susen. 
+
+Men annet enn det har vi få innsigelser på dette produktet, som i Norge selges av Multicom til 249 kroner (takk for lånet!). 

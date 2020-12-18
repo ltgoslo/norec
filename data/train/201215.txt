@@ -1,0 +1,52 @@
+Plextor SSD PX-128M2P
+Fra brennere til SSD - hva har Plextor å fare med? 
+
+Plextor har gode tradisjoner som leverandør av optiske brennere i særklasse. 
+Det var alltid Plextor som lå på topp når det gjaldt kombinasjonen av ytelse og stabilitet, selv om andre produsenter ofte var tidligere ute med bruk av ny teknologi. 
+At en Plextor-brenner kostet noen hundrelapper mer kunne entusiastene fint tåle, det sparte man fort inn igjen på fravær av ergrelser og irritasjoner. 
+
+Markedet for brennere av optiske plater er i fritt fall siden bruken av hjemmebrente optiske plater har blitt erstattet av minneplugger og lagringsløsninger på nett. 
+
+Men det lagringsproduktet som er i sterkets framvekst er SSD, og her satser Plextor. 
+De har nå sluppet tredje generasjon SSD etter at de kom inn på arenaen for 18 måneder siden. 
+
+PX-M2P serien 
+
+Serien består av to modeller på henholdsvis 256GB og 128GB og byr på noen egenskaper som er litt spesielle. 
+I informasjonen fra Plextor er det hastigheten med alle typer data som det legges vekt på, sammen med smart styring av bruk av lagringscellene. 
+Summen av det hele kaller Plextor True Speed. 
+
+SSD med SandForce-kontrollere komprimerer data ved skriving og gjenoppretter ved lesing, dette gir hastighetsgevinst siden mindre data faktisk skrives og leses. 
+Men allerede komprimerte data, som video og MP3-lyd, lar seg ikke komprimere ytterligere og man oppnår da ikke noen hastighetsgevinst. 
+
+Plextor bruker en 88SS9174-kontoller fra Marvell som gir full hastighet uansett om data er komprimert eller ikke, og i kombinasjon med Toggle-mode NAND-flash fra Toshiba og en generøs RAM buffer er komponentvalget rigget for mer strabasiøse profesjonelle brukermiljøer enn hos den jevne entusiast. 
+
+Vår kommentar er at typisk bruk av SSD er som systemdisk. 
+Lagring av komprimerte filer for avspilling har ikke noe for seg på en SSD, bortsett fra de tilfellene hvor SSD er det eneste lagringsmediet på en bærbar. 
+Men hastigheten er heller ikke kritisk bortsett fra de gangene man skal kopiere over et helt bibliotek, og i et slikt scenario er det mye annet enn SSD-enheten som begrenser ytelsen. 
+
+Derfor er kompresjon av data en helt legitim metode, den kommer definitivt til nytte i praktisk bruk, mens fordelen ved å ikke bruke dette er helt marginal. 
+
+I pakken 
+
+Plextor leverer SSD-en sammen med en festebrakett og skruer for montering i en 3,5" brønn. 
+I tillegg følger det med en CD med programvaren Acronis True Image, som er praktisk for overføring av innhold fra harddisk til SSD når du skal bruke den som systemdisk. 
+
+Selve enheten er forseggjort med et hus av børstet grå eloksert aluminium. 
+Det er festet med fire skruer, men garantien brytes hvis man demonterer og bryter forseglingen. 
+Det har andre gjort, og det mest interessante er at det sitter varmeledende puter som overfører varme fra brikkene over i aluminiumsdekselet. 
+Effektforbruket er maks 6 W ved oppstart, under bruk ligger den på opptil 5W og i dvale under 1W. 
+
+Formatert kapasitet er 128 033 222 656 byte eller 119 GB. 
+
+Ytelse 
+
+Hastigheten målte vi til noe under de oppgitte spesifikasjonene, men det er ingen overraskelse. 
+Ytelsen er likevel meget god, blant de bedre SSD-ene. 
+
+Konklusjon 
+
+Plextor leverer god ytelse, stabile komponenter, programvare og monteringsbrakett. 
+Den er ikke av de billigste, men er rigget for å levere god og stabil ytelse i hele levetiden. 
+
+Plextor PX-128M2P 128GB 

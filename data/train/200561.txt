@@ -1,0 +1,53 @@
+Bildekvalitet, karakterer og konklusjon
+Standard bildestørrelse er 2272x1504 punkter, som gir et bredde-høydeforhold som tilsvarer fotoprint i 15x10 cm. 
+
+Det er første gang vi tester et kamera som har denne innstillingen som standard. 
+Du kan i tillegg velge 2272x1704 punkter (skjermtilpasset), samt de noe spesielle oppløsningene 1120 x 840 og 544 x 408 punkter. 
+Filmopptakene får en oppløsning på 320 x 240 punkter, 15 bilder pr sekund i AVI-format (med lyd). 
+
+Du kan velge mellom tre forskjellige grader av JPEG-komprimering, i tillegg til ukomprimert TIFF-format. 
+Kameraet bruker SD-minnekort til lagring av bildene, og et 32 MB kort følger med kameraet. 
+Det gir plass til rundt 14 bilder hvis du bruker automatiske innstillinger (for print). 
+
+Ikke nr 1 
+
+Når det gjelder bildekvalitet, havner Digimax 
+V4 ut omtrent midt på treet. 
+Bildestøyen er moderat i de fleste tilfeller, men fargemessig er det ofte en god del å hente i forhold til de beste. 
+
+Både inne- og utebildene som vi tok, fikk ofte et rød/gulstikk, og bar preg av en noe unøyaktig automatisk hvitbalanse. 
+Du kan forresten velge mellom tre forhåndsprogrammerte innstillinger for hvitbalansen dersom du opplever tilsvarende problemer med helautomatikken. 
+Enkelte bildeprogrammer, for eksempel Photoshop, har dessuten glimrende verktøy for å rette opp farger og lys i etterkant. 
+
+Noen av nærbildene vi tok ble derimot riktig bra. 
+
+Enkel overføring 
+
+Overføring av bilder til PC er enkelt. 
+I Windows XP var det bare å koble kameraet til en ledig USB-port, og kort tid etter dukket det opp som en egen diskstasjon i Utforsker. 
+Av en eller annen grunn gikk overføringen noe tregere enn hva vi er vant til fra de fleste andre kameraer vi har testet. 
+
+Mange strømalternativer 
+
+Digimax 
+V4 får strøm fra et 3V Lithium-batteri. 
+Lader og oppladbare batterier er dessverrre ekstrautstyr, og dette har i skrivende stund en veiledende pris på 595,-. 
+Da får du samtidig nett- og biladapter, og laderen kan også lade oppladbare AA-batterier. 
+Du kan for øvrig bruke vanlige alkaliske AA-batterier (2 stk). 
+
+Det medfølgende Lithium-batteriet viste seg å være meget utholdende; vi har tatt rundt 150 bilder med og uten blits, med mye zooming, samt flere videoopptak, og fortsatt viser indikatoren full batteristyrke. 
+
+Kameraet leveres for øvrig med et hendig etui i etterlignet lær, samt programvare for bildebehandling og utskrift. 
+
+Konklusjon 
+
+Digimax 
+V4 lover godt for fortsettelsen fra Samsung, og det er hevet over enhver tvil at du får mye for pengene dersom du velger dette kameraet. 
+Når det gjelder utvalg av funksjoner, kan kameraet helt klart måle seg med langt dyrere kameraer. 
+
+Men helt uten lyter er kameraet dessverre ikke, og det mest negative er at bildene ofte får et gul/rødstikk. 
+Dette kan riktig nok til en viss grad rettes i etterkant ved hjelp av egnet programvare. 
+
+Vi setter også et lite spørsmålstegn ved at programvaren i kameraet frøs fullstendig ved en anledning under testen. 
+Slike feil kan muligens rettes ved å oppdatere firmwaren. 
+Om Samsung vil legge ut en oppdatering, gjenstår å se. 

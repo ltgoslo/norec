@@ -1,0 +1,55 @@
+Linksys WRT300n
+Trådløst nettverk som er raskere enn 100Mbit med kabel? 
+Det er hva den nye 802.11n standarden påstås å kunne levere. 
+Vi har testet hastigheten på Linksys sin løsning. 
+
+Overdrivelse har vi ikke blitt forskånet for i markedsføringen av trådløse nettverkskløsninger. 
+Helt fra de første 11 Mbit-løsningene har overføringshastigheten blitt oppgitt som brutto, uten all "innpakningen" som kreves for å holde trafikken gående. 
+I tillegg er det selvsagt den maksimale, mulige ytelsen under best tenkelige forhold som oppgis som Hastigheten. 
+
+LES OGSÅ: 
+
+Men utviklingen av trådløst nett har gått kraftig framover. 
+Det siste framstøtet er rutere etter den såkalte "draft-n" spesifikasjonene. 
+De siste ruterne vi har testet har brukt beslektet teknologi, Belkin har til og med kalt sin ruter-teknologi for "pre-n". 
+
+Flere leverandører er nå klare med produkter etter "draft-n" spesifikasjonen, som antagelig vil bli den endelige standarden etter noen flere runder med diskusjoner. 
+Det loves store forbedringer i ytelse, flere ganger raskere, flere ganger rekkevidden og Asus skilter med at deres løsning til og med skal være raskere enn nettverkskabel! 
+
+Linksys WRT300N ser uansett svært så potent ut med tre antenner, hvorav den i midten minner om en retningsbestemt utgave. 
+
+Vi testet med CardBus-kortet WPC300N fra Linksys som bruker samme teknologi. 
+
+Tilkoblingene ellers er helt standard, med en WAN-port og 4 LAN-porter. 
+
+Topp ytelse 
+
+Etter litt småplunder med oppsettet, som skyldes stadig økende tetthet av trådløse nett i nabolaget, hadde vi kontakt. 
+Vi måtte bytte kanal i aksesspunktet for å få en stabil forbindelse, flere andre nett viste seg å bruke kanal 6 som WRT300N valgte som default. 
+
+Ytelsen var den høyeste vi har målt hos noe trådløst utstyr hittil. 
+Sammenlignet med vår tidligere testvinner, Linksys SRX (WRT54GX), var WRT300N dobbelt så rask! 
+
+Vi har tidligere målt raskere overføring på trådløst, men det var i kombinasjon med kraftig komprimering av enkle data på D-Link Xtreme-G. 
+
+Med overføring av ukomprimerbare MPEG-data falt også D-Link ned på et normalt nivå, mens Linksys WRT300N er like rask på alle typer data. 
+
+Raskere enn kabel? 
+
+Vi trodde ikke noe på at trådløst nå var blitt raskere enn kabel, og måtte selvsagt sammenligne med 100 Mbit nettverk. 
+
+Det er et stykke igjen... 
+
+Rekkevidde 
+
+Rekkevidden på forgjengeren WRT54GX var svært overbevisende, både ut i terrenget og innendørs i vanskelige bygningskonstruksjoner. 
+
+Her hang ikke WRT300N med, ytelsen i rekkevidde var typisk midt på treet. 
+Våre første målinger i de vanskelige kontorlokalene ga heller ikke noe godt resultat, men vi vil foreløping ikke trekke noen endelig konklusjon før vi har testet mer. 
+
+Foreløpig konklusjon 
+
+Trådløst nett står foran nok et kvantesprang når det gjelder ytelse og stabilitet. 
+Flere leverandører er nå i ferd med å sende utstyr på markedet, og vi har en konkurrerende løsning fra Asus på testbenken. 
+
+Etter ferien vil vi komme tilbake til en sammenlignende test av alle de nye ruterne med "draft-n" teknologi. 

@@ -1,0 +1,110 @@
+Cinet Smartbook 1100
+Den gamle PC-giganten Cinet er tilbake i rampelyset, og lanserer nå flere nye modeller i sin Smartbook-serie. 
+Vi har sett nærmere på Smartbook 1100, den minste av to Centrino-PCer. 
+Det ble i hovedsak en meget positiv erfaring. 
+
+Cinet AS er en av de virkelige veteranene innen PC-produksjon i Norge. 
+På siste halvdel av 90-tallet var Cinet blant de aller største PC-leverandørene i landet, enkelte år solgte selskapet mer enn 50.000 Cinet-PCer. 
+Samtlige maskiner var satt sammen i Cinets produksjonsanlegg, den gang lokalisert i Nydalen i Oslo. 
+
+LES OGSÅ: 
+
+På offensiven 
+
+Siden den gang har Cinet og Cinet-navnet hatt flere eiere, og en stund så det mørkt ut for PC-produksjonens videre skjebne. 
+Men nå er Cinet på vei tilbake som en offensiv og tydelig aktør i det norske PC-markedet, også på bærbar-fronten, med lansering av to rykende ferske modeller basert på Intel Centrino-plattformen. 
+
+Først ut er Smartbook 1100. 
+Dette er en meget kompakt og prisgunstig modell, den måler 309 x 254 x 29 mm og vekten stopper på 2,4 kg. 
+Til tross for de beskjedne målene er det slett ikke en lettvekter vi har med å gjøre, rent spesifikasjonsmessig: 
+
+Intel Pentium M 1,3 GHz* 
+
+512 MB DDR SDRAM 
+
+14,1" TFT-skjerm, 1400 x 1050 punkters oppløsning 
+
+Intel grafikk, integrert i brikkesettet (delt minne) 
+
+40 GB harddisk, 4200 rpm* 
+
+Kombinert DVD-leser/CD-brenner (8x DVD, 24x 10x 24x CD) 
+
+WLAN 
+
+Infrarød port på siden 
+
+4 x USB 2.0-porter 
+
+Firewire-port 
+
+100/10 Mbit nettverk 
+
+56 Kb modem 
+
+1 x PCMCIA 
+
+Kontakt for portreplikator 
+
+Vi merker oss at grafikkløsningen ikke er blant de raskeste. 
+For øvrig gledelig at PCen er utstyrt med 4 USB 2.0-porter. 
+I tillegg har PCen parallellport og VGA-utgang. 
+Sistnenvte, kontakt for portreplikator, samt to av USB-portene, er skjult bak et lokk på baksiden. 
+Den som leter etter diskettstasjon leter forgjeves, og den dukker sjeldnere og sjeldnere opp på nye bærbare PCer. 
+
+Gledelig å se at PCen leveres med en godt polstret bæreveske inkludert i prisen. 
+
+Solid innpakning 
+
+Hvis du er på utkikk etter en PC som du ønsker å ta med deg over alt, bør den ha et robust chassis. 
+Smartbook 1100 har lokk i grått, børstet metall, som sørger for god beskyttelse for skjermen. 
+Plastlokket som dekker portene på baksiden sørger også for å holde støv og skitt på avstand, men vår erfaring med lignende løsninger er at lokket før eller siden knekker; i hvert fall dersom PCen stadig er på farten. 
+
+På innsiden er PCen diskre og ujålete. 
+Plasten er koksgrå, nesten sort, og både tastatur, pekeplate og knapper har samme farge. 
+Tastaturet føles litt trangt, dette kunne lett vært unngått ved å ikke plassere taster til høyre for linjeskift, skift og slettetaster. 
+Dessverre er disse tastene så smale at touchere sikkert vil oppleve å taste litt feil i begynnelsen. 
+De norske tegnene æ og ø, samt flere spesialtaster, er også mindre enn de andre tastene. 
+Plasseringene er stort sett i tråd med et vanlig tastatur. 
+
+Skjermen er på 14,1", og den er meget lyssterk. 
+Det gjør at den tåler vanskelige forhold som for eksempel sollys, bedre enn mange andre LCD-skjermer. 
+Oppløsningen er på hele 1400 x 1050, noe som fører til temmelig liten skrift i Windows. 
+Personlig setter vi pris på å at vi får plass til mye informasjon og mange vinduer. 
+Får du problemer med å lese teksten kan du gjøre mange innstillinger i operativsystemet for å bedre lesbarheten. 
+
+Tilkoblingspunktene har stort sett fornuftige plasseringer på sidene og bak, men en USB-port eller to på siden hadde vært på sin plass i disse minneplugg- og digitalkameratider. 
+
+Det sitter et par høyttalere på undersiden(!) i fronten, og lyden disse produserer låter like ille som på de fleste bærbare PCer. 
+Musikk bør med andre ord nytes gjennom andre kanaler. 
+
+Helt uten støy 
+
+Smartbook 1100 er en drøm for alle som setter pris på støysvake løsninger. 
+Hvis vi ser bort fra en liten blås et par sekunder etter at vi har slått på PCen, klarte vi ikke å få viften til å starte i det hele tatt under vår test. 
+Det er etter vår mening en stor fordel med denne PCen, og bidrar sterkt til en positiv brukeropplevelse. 
+
+Den generelle ytelsen avviker ikke særlig fra andre PCer vi har testet med samme prosessorløsning (1,3 GHz Pentium M). 
+I praksis betyr det meget god ytelse i de fleste oppgaver (tilsvarer 2.0 GHz Pentium 4). 
+
+Grafikkytelsen i 3D er langt svakere enn de kjappeste løsningene fra ATI og Nvidia, men den duger til kontorbruk, enklere 3D-spill og video - og er i praksis kraftig nok for alle som ikke må spille de seneste spillene i høyeste oppløsning og med maks detaljrikdom. 
+
+Topp batterilevetid 
+
+Batteriløsningen er meget god; vi målte levetiden til rundt 4 1/2 time, og det er helt i toppklasse sammenlignet med andre maskiner vi har testet i det siste. 
+I skrivende stund er det bare Acer Travelmate 800 som har holdt ut lengre i vår batterilevetest, den slo Cinet Smartbook 1100 med knappe 10 minutter. 
+
+WLAN-ytelse står vanligvis ikke på planen når vi tester bærbare PCer. 
+Vi finner likevel grunn til å nevne at vi opplevde rekkevidden til Smartbook 1100 som meget god. 
+Dessuten har vi ikke opplevd problemer med å gjenopprette kontakten etter at maskinen har blitt vekket opp fra dvalemodus. 
+Dette kan være et problem på enkelte modeller, også Centrinoer. 
+
+Klikk på lenken Tekniske data i oppsummeringsboksen for flere detaljer omkring ytelse og egenskaper 
+
+Konklusjon 
+
+Den er robust, kompakt og lett, yter bra, er stillegående og har et seiglivet batteri. 
+Prisen er heller ikke verst. 
+
+Vi har sett bedre tastaturløsninger, og 3D-ytelse er ikke PCens sterkeste punkt. 
+Det rokker ikke ved vår oppfatning av at Cinet Smartbook 1100 utvilsomt er et av sommerens beste kjøp i denne prisklassen, sammen med Tundra 1555. 

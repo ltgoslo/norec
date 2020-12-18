@@ -1,0 +1,85 @@
+Zepto Znote 1120A
+Det er fullt mulig å få svært kraftige bærbare PCer til under 10.000 kroner, men som regel er det minst én hake ved disse, nemlig vekten. 
+Markedet har nærmest vært klinisk ren for billige bærbare PCer på under 3 kg, noe norske Zepto har tenkt å forandre på. 
+
+Zepto har i løpet av de siste to årene slått seg opp som en av de store leverandørene av bærbare PCer i Norge, og PCene deres har flere ganger scoret godt i våre tester. 
+Denne gangen er det en kompakt og lekker PC vi har stiftet bekjentskap med; Znote 1120A måler beskjedne 310 x 259 x 25 mm, og vekten stopper på behagelige 2,5 kg. 
+
+LES OGSÅ: 
+
+Her er en kort oppsummering av maskinvaren: 
+
+Mobil AMD Athlon XP 2000+ prosessor 
+
+256 MB minne 
+
+40 GB harddisk 
+
+DVD-ROM/CD-brenner (10x brenn, 8x overbrenn) 
+
+14,1" TFT-skjerm (1024x768 piksler) 
+
+4 stk USB 2.0-porter 
+
+10/100 mbit nettverk 
+
+modem 
+
+klargjort for trådløst nettverk (innebygd antenne) 
+
+(For flere detaljer omkring maskinvaren, trykk Tekniske data i oppsummeringsboksen) 
+
+Lettere enn de andre 
+
+For å holde vekt og kostnader nede, har Zepto valgt å ikke utstyre PCen med verken parallellport, FireWire-port eller IR-port. 
+
+Generelt vil vi si at maskinvaren tilsier at dette er en PC til rundt 10.000 kroner, men da snakker vi om en PC som vanligvis ville være langt større og tyngre enn Znote 1120A. 
+I skrivende stund har 1120A en veiledende pris på 9.490 kroner + mva. 
+Men da kommer den helt uten programvare. 
+
+Pen maskin 
+
+Det er ikke mye å utsette på designen på denne PCen. 
+Den er slank og lekker i sort og sølv utførelse. 
+Det er ikke brukt metall, kun plast, men den virker ikke veik av den grunn. 
+Hvis vi skal være veldig kritiske, ville vi ha foretrukket en litt mer samlet plassering av tilkoblinger, aller helst på baksiden (med unntak av lyd og USB-porter). 
+Lydtilkoblinger i front er fint når maskinen står på et bord, men krøkkete når du har den i fanget, synes vi. 
+
+Tastaturet er stort og romslig, og godt å skrive på. 
+Litt liten retur-tast er omtrent det eneste vi har å trekke her. 
+Noen vil kanskje også slite litt med at det er plassert taster til høyre for backspace og linjeskift. 
+Uansett er dette en vanesak. 
+Utformingsmessig er tastaturet omtrent identisk med et vanlig løst tastatur. 
+
+Musekontroll skjer via en stor sølvgrå pekeplate, med en stilig to-aksers (venstre/høyre) knapp under. 
+Pekeplaten har integrert skrollefunksjonalitet; du beveger pekefingeren opp og ned til høyre når du vil skrolle vertikalt, og frem og tilbake nederst for horisontal skrolling. 
+
+Skjermen er passe stor for denne oppløsningen, farger og kontrast er meget bra. 
+Innsyn fra sidene er også bra, men vertikalt blir det fort forvrengning, som også er helt normalt på bærbare PCer. 
+
+Stort sett stillegående 
+
+PCen er utstyrt med en vifte, men denne starter kun når maskinen presses; for eksempel under komprimering av MP3-filer, spilling og andre krevende oppgaver. 
+Vi opplevde den dessuten ikke som spesielt sjenerende. 
+Vårt testeksemplar avgav en høyfrekvent pipelyd når vi beveget musepekeren, noe vi antar skyldes en feil ved dette eksemplaret, som stammer fra preproduksjonen. 
+
+Ytelsestestene beviste nok en gang at AMD er et klokt valg på bærbare PCer. 
+7 WAV-filer på til sammen 270 MB ble komprimert til høykvalitets MP3 (LAME 3.92) på 2 minutter og 7 sekunder. 
+Det er omtrent som en gjennomsnitts Pentium 4 på 2 GHz har klart i samme test, og da snakker vi desktop-utgaven. 
+Ikke verst! 
+
+Ikke spillemaskin 
+
+Verre gikk det i 3D-grafikktestene; her gikk det trått med 1120A. 
+Vi kan slå fast at denne maskinen vil være et dårlig valg for en hver spillentusiast. 
+
+Heller ikke batterilevetiden fikk oss til å hoppe i stolen av begeistring; begge gangene vi kjørte levetidstesten kastet batteriet inn håndkledet etter ca 2 timer. 
+
+For tall og flere detaljer omkring ytelse, klikk Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Hvis du først og fremst har fokus på kontoroppgaver, og underholdningsbehovet ditt begrenses til film og musikk, er dette en maskin vi absolutt kan anbefale. 
+Den er tøff å se på, og er både stillegående og lett; noe spesielt studenter bør merke seg. 
+
+Spillere bør se andre veier, det samme bør du som sjelden ser stikkontakter i løpet av arbeidsdagen din. 

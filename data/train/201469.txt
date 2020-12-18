@@ -1,0 +1,101 @@
+HP Photosmart C6180
+TEST: 
+Vi innrømmer at vi ikke først og fremst tenkte "foto" da vi så Photosmart C6180 første gangen. 
+Listen over funksjoner er imidlertid imponerende. 
+
+Utvalget av multifunksjonsskrivere er stort, det er her produsentene opplever den største veksten både i antall solgte enheter og inntjening. 
+Det er imidlertid hevet over en hver tvil at det er først og fremst på blekk og papir de tjener penger, for produktene er blitt svært billige. 
+
+LES OGSÅ: 
+
+I så måte er faktisk Photosmart C6180 i det øvre prisskiktet, med en prislapp på rundt 2.500 kroner. 
+
+Tar vi en titt på funksjonslista, får vi imidlertid forklaringen: 
+
+Skanner, kopimaskin, faks og skriver Egen papirmater for skanning/kopiering/fax 
+Seks fargers fotoblekk, separate blekktanker Automatisk papirgjenkjenning Minnekortleser for alle aktuelle korttyper + USB-minneplugger Utskrift direkte fra kamera 2,4" LCD-skjerm muliggjør redigering og utskrift uten datamaskin Trådløs tilkobling (WLAN) i tillegg til Ethernet og USB 2.0 
+
+Se flere tekniske data 
+
+Det du må klare deg uten, er skanning av dias/negativer samt utskrift direkte på CD/DVD. 
+For å bøte på sistnevnte har HP bakt inn et eget menyvalg for utskrift på HPs egne CD-etiketter, som klistres på brente plater. 
+
+Stor, men plasseringsvennlig 
+
+Maskinen kan som sagt fungere helt fint frittstående, dersom du kobler til kameraet eller putter inn minnekort. 
+Den er ikke blant de minste skriverne, men bygger kun 38 cm i dybden. 
+Med papirmating i fronten blir det derfor ikke så vanskelig å plassere den i en hylle. 
+Den har også en papirmater nr. 2, en egen skuff for fotopapir over A4-skuffen. 
+
+Skriveren har et utpreget kontor-look, med papirmater til skanneren på toppen og de mange knappene i fronten. 
+Ved nærmere øyesyn er knappene langt mindre "farlige" enn man kan få inntrykk av først, med både symboler og tekster på norsk er det hele faktisk meget brukervennlig. 
+Vi synes kanskje knappene for å starte jobbene var større enn de andre, men dette var kun et savn i starten. 
+
+Mulighetene til å gjøre endringer i bilder, endre formater og navigering i menyene satt i fingrene etter få minutter. 
+Dette har HP brukt mye tid på å gjøre så brukervennlig som mulig. 
+Det eneste vi skulle ønske oss annerledes, måtte være en skarpere skjerm med bredere innsynsvinkler. 
+
+Installasjon 
+
+Før bruk må du sette inn hele 6 blekktanker, de fire vanlige cyan, magenta, gul og svart + lys cyan og lys magenta for optimal kvalitet på fotoutskriftene. 
+Dette er relativt enkelt, her er det godt merket hva som skal hvor. 
+Deretter følger en prosess med justering av skrivehode og rensing av dyser, dette tok nesten fem minutter. 
+Deretter er det bare å sette i gang å bruke skriveren frittstående, eller fortsette med installasjon av drivere og programvare. 
+
+Denne delen av installasjonen er temmelig omfattende og tidkrevende, og full installasjon legger beslag på over 800 MB (Windows-installasjon). 
+Da får du til gjengjeld en rekke programmer som er velegnet til å katalogisere store bildesamlinger, gjøre enkle redigeringer og skreddersy utskriftsjobber. 
+Ønsker du å bruke egne programmer, slipper du med minimuminstallasjon på 205 MB. 
+
+Lurvete styreprogram 
+
+En av de store fordelene ved HP sine skrivere, er at du som regel kan trykke på "skriv ut" og bli godt fornøyd med resultatet, uten å velge verken papirtype eller utskriftskvalitet. 
+Hvis du derimot lager bilder for fotoalbumet, eller vil skrive ut i formater som krever spesialinnstillinger, er vi langt mindre imponert. 
+Styreprogrammet til C6180-driveren viste seg rett og slett å være lurvete. 
+
+Valgte vi for eksempel en kladdeprofil, ble papirtypen satt til "Letter". 
+Valgte vi fotoutskrift uten kanter, ble kvaliteten satt til "Automatisk", og papirtypen til "Premium". 
+Valgte vi foto med kanter, endret kvaliteten seg til "Best" og papirtypen til "automatisk", bare for å nevne noen eksempler. 
+Legger vi til et par skrivefeil, er dette helt klart med på å trekke helhetsinntrykket ned, og førte flere ganger til at utskriften ble annerledes enn vi hadde forestilt oss. 
+
+Sparer blekk 
+
+Skriveren bruker noe tid på å komme i gang med utskriftene dersom det er en stund siden sist du brukte den. 
+Dersom dyser må renses ved å kjøre blekk gjennom dem, samles imidlertid dette og tilbakeføres til patronene. 
+Det gjør at minimalt med blekk går til spille. 
+Selv om C6180 ikke har de fyldigste tankene, gjør dette at skriverøkonomien er god. 
+Av alle skriverne vi har testet så langt i høst, er dette skriveren som har prosentvis mest blekk igjen etter at vi har kjørt dem gjennom alle våre testutskrifter. 
+
+Alt avhengig av innstillinger og utskriftsoppdrag, er skriveren alt fra treg til meget rask. 
+Tregest er den på fotoutskrifter i beste kvalitet, ca 5 minutter på A4-foto uten kanter. 
+Det er imidlertid få grunner til å velge denne innstillingen. 
+Automatiske innstillinger gjør at fotoutskrifter går vesentlig raskere, ca 3 minutter på Premium Plus fotopapir. 
+
+Raskest er den naturligvis på kladdeutskrifter, og i likhet med Canon MP810 blir kvaliteten på tekstutskrifter i raskeste modus så bra kvalitetsmessig at de i mange tilfeller kan betraktes som normalutskrifter. 
+Med standardinnstillingene plasserer C6180 seg slik i forhold til de andre modellene vi har testet i høst: 
+
+Utskrift av blandet tekst/grafikk er den altså best på, og har i tillegg en uhyre rask kortleser, noe som slett ikke er å forakte i disse 10 megapikselstider. 
+På foto er den imidlertid bak både Epson og Canons representanter i samme prisklasse. 
+
+Kvalitetsvurderinger 
+
+Som ventet er kvaliteten på utskriftene generelt meget bra på alle typer utskrifter. 
+Fotokvaliteten er også god, men havner litt bak Epson på dynamikk og "glød". 
+Isolert sett ville vi uansett satt bildene inn i fotoalbumet uten betenkeligheter. 
+
+Vi er imidlertid ikke imponert over skannerens evne til å fange detaljer i de lyse partiene. 
+Med standardinnstillingene klarte den ikke å gjengi verken 5% eller 10% grått i vår avanserte testplansje. 
+Vi klarte imidlertid å manipulere lys/kontrast slik at det ble fanget opp, men da ble alle hvite partier i plansjen grå. 
+Ikke helt optimalt altså, her gjorde både Canon Pixma MP810 og Epson Stylus Photo RX560 en god del bedre jobb. 
+
+Konklusjon (oppdatert 25.1.2007> 
+
+Skannekvaliteten ligger altså litt bak de beste. 
+Der hadde vi forventet litt mer av en multifunksjonsskriver i denne prisklassen. 
+Hastigheten på fotoutskriftene er også bak de raskeste på de beste kvalitetene. 
+Produktet ligger derfor og vipper mellom en sterk firer og en svak femmer på terningen. 
+Etter en ny vurdering og sammenligning med andre aktuelle modeller januar 2007 har vi til slutt landet på en svak femmer. 
+
+For Photosmart C6180 imponerer med et vell av funksjoner, høy grad av brukervennlighet og den scorer samtidig godt på kvalitetstestene våre. 
+Programpakken som følger med er omfattende og god. 
+Hastighetsmessig ligger den et stykke bak de raskeste på fotoutskrifter, men er til gjengjeld blant de raskeste på blandet tekst/grafikk, som utgjør kanskje den største andelen av utskriftene for stadig flere av oss. 
+Og har du i tillegg fortsatt bruk for en fax, ja - så er C6180 et meget godt valg. 

@@ -1,0 +1,63 @@
+Ytelse og konklusjon
+JHL90+ er en skikkelig allrounder med jevnt over god ytelse. 
+
+Velmenende mennesker sier alltid at det er det indre som teller, og når det gjelder datamaskiner stemmer det faktisk - uten dugelig innmat blir det det lett en kjip brukeropplevelse uansett hvor flott en datamaskin er å se på. 
+
+LES OGSÅ: 
+
+Som vi nevnte tidligere i artikkelen kjører denne modellen den blodferske Centrino 2-plattformen fra Intel, som betyr nytt brikkesett og oppgradert prosessor. 
+I tillegg kommer også en relativt ny grafikkløsning fra Nvidia: 
+GeForce 9600M GT der grafikkprosessoren er skapt med 65 nanometers produksjonsprosess. 
+I teorien betyr dette en mer effektiv grafikkløsning med tanke på ytelse, varme og strømforbruk. 
+
+Siden det er såpass mye ny teknologi i JHL90+ har vi ikke noe å sammenligne med direkte (ennå). 
+Men for å få et visst grunnlag kan vi se den i forhold til forgjengeren IFL90+. 
+I tillegg har vi målt ytelsen mot den større Acer Aspire 8920G, en sværing på 18,4 tommer som har en prislapp på omtrent 15000,-. 
+
+Høyere poengsum er bedre 
+
+Det er altså den øverste (grønne) søylen som er "vår" PC, og som vi ser holder den godt følge med den store Acerwn. 
+JHL90+ henger riktignok litt bak på grafikkfronten, men det er ikke allverden det er snakk om. 
+
+Forgjengeren IFL90+ ligger på sin side et godt stykke bak, spesielt når vi snakker grafikkytelse. 
+
+Levetid i minutter, konstant på. 
+
+JHL90+ kan leveres med 6 eller 9-cellers batteri (som koster omtrent det samme), og vårt testeksemplar kom med sistnevnte. 
+I motsetning til 6-celleren stikker dette dog litt ut bak, så du må selv velge mellom det estetiske eller så lang levetid som mulig. 
+Eller kjøpe flere batterier. 
+
+Uansett, 9-celleren holdt i ganske nøyaktig fire timer med våre testrutiner, noen få minutter bedre enn forgjengeren. 
+
+At ytelsen er forbedret mens batterilevetiden holder seg på samme nivå kan nok tilskrives at grafikkløsning, prosessor og brikkesett er blitt mer effektive. 
+
+Støy og varme 
+
+Som på de fleste bærbare med god ytelse vil vifta lage en del lyd når maskinen jobber hardt, men ved lav belastning er JHL90+ relativt støysvak. 
+Den har et jevnt sus og er uten sjenerende piping eller andre ulyder. 
+
+Vifta spinner litt opp av og til selv når PC-en er uvirksom, men det er nesten ikke til å unngå på såpass kraftige maskiner. 
+I kontorlandskapet er det uansett noe vi ikke tenker på, det må nokså støysvake omgivelser til for å merkes dette. 
+
+Når det gjelder temperatur blir håndleddsstøttene litt varme. 
+Ikke så varme at vi kan kalle det hotspots, men vi vet også at noen er veldig følsomme på akkurat dette. 
+Er du en av dem kan dette være et lite problem. 
+
+Konklusjon 
+
+Multicom Compal JHL90+ fortsetter i samme bane som vi er kjent med fra forgjengeren IFL90+. 
+Løsningen gir deg en rekke valgmuligheter ut i fra hva du er ute etter av ytelse, og med den rette sammensetningen får du en god allrounder til en fin pris. 
+
+Ytelsen er det altså ikke noe å si på, men er du en hardbarka gamer bør du være obs på at maskinen ikke kan måle seg med mer dedikerte (og dyrere) spillmaskiner som Dell XPS M1730 (eller Multicoms egen Kunshan-serie) på grafikksiden. 
+Men JHL90+ vil likevel fint kunne dra de aller, aller fleste spill, og da med god detaljgjengivelse - hva vi mener er en fornuftig balanse mellom pris og ytelse. 
+
+Av konkurrenter her nevner vi i farten den oppgraderte Acer Aspire 5920G og 8920Gs lillebror 6920, som begge har GeForce 9500M GS grafikk. 
+Denne ligger litt bak 9600 GT som vi finner i JHL90+, men ikke så mye at de ikke kan være interessante. 
+Og flere aktuelle modeller vil så avgjort komme i dette markedet. 
+
+Ytelse, støy og batterilevetid fungerer på JHL90+, men den er som sine forgjengere ikke perfekt. 
+Vi ønsker oss blant annet et bedre tastatur og vi liker ikke varme på håndleddstøttene - selv om de færreste vil finne det direkte plagsomt. 
+I tillegg kunne vi jo kanskje ønsket oss et litt mer spennende utseende bærbar, men her er jo uansett smaken forskjellig... 
+
+Med forbehold om at de blanke skjermene holder mål er vi likevel totalt sett fornøyd med Multicom Compal JHL90+. 
+Den ender opp på en svak femmer på vår terning. 

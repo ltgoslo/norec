@@ -1,0 +1,44 @@
+OCZ Agility 3 240 GB
+Romslig og rimelig SSD på testbenken. 
+
+De SSD-ene vi har testet så langt har stort sett hatt det felles at størrelsen har ligget på 120 eller 128 GB. 
+Grunnen til dette er ganske enkelt forholdet mellom pris, ytelse og behov. 
+120 GB er akkurat passe for de fleste av oss, siden du får plass til operativsystem og en god del programmer, pluss en normal mengde data. 
+Trenger du mer plass bruker du en harddisk, internt på en stasjonær PC eller eksternt på en bærbar. 
+
+Men prisene faller, og nå er også SSD med dobbelt så stor kapasitet ikke lenger svimlende dyr, OCZ Agility 240 kostet 2 750 kroner da vi testet den. 
+Det finnes også enda rimeligere SSD med tilsvarende kapasitet. 
+Prisene har falt med nesten 1000 kroner på kort tid. 
+
+Hvorfor rimelig? 
+
+Det er to hovedkomponenter i en SSD i tillegg til innpakningen: 
+Kontrollbrikken og flashminnebrikkene. 
+Det er prisen på disse som er avgjørende for hvor rimelig produktet kan presses ned i pris. 
+
+Den viktigste grunnen til den lave prisen på Agility-serien er at den bruker asynkront flashminne. 
+Dette har noe lavere ytelse, men kontrolleren kan til en viss grad kompensere for dette. 
+SandForce kontrolleren som brukes i Agility reduserer komprimerer og dekomprimerer dataene i farta ved skriving og lesing, så datamengden som faktisk skrives til flashminnet ligger på rundt 60 prosent av rådata. 
+
+Men det er ikke alle datatyper som er komprimerbare, og de virkelig store datafilene som folk flest bruker finner vi bare i video. 
+Bilder og musikk kan også ta en del plass, men da snakker vi i hovedsak om proffer og entusiaster som opererer med RAW-filer og flerspors, ukomprimert lyd med høye bit- og samplerater - ikke noe folk flest bryr seg om. 
+
+Så i praksis vil en Agility-disk, og andre typer med asynkront flashminne, være tregere enn de dyre SSD-ene ved kopiering av store mengder mediefiler, men likevel vil de være raskere enn forrige generasjon SSD og langt raskere enn harddisker. 
+
+Til avspilling er forskjellen helt uinteressant, siden dette ikke krever på langt nær så mye båndbredde, faktisk bare en brøkdel av hva SSD-en er kapabel til. 
+
+På testbenken 
+
+Vi kjørte tre testprogrammer for sekvensiell skriving og lesing, og alle gir gode resultater. 
+Vårt eget testprogram viste en gjennomsnittlig skriveytelse på 207 443 KB/sekund og leseytelse på 251 431 KB/sekund, og de andre testprogrammene viste lignende verdier, med avvik i begge retninger. 
+
+Det viktigste med en SSD er hvordan den håndterer hyppig skriving og lesing av småfiler, noe som skjer hele tiden ved vanlig PC-bruk hvor man har mange programmer og nettsider oppe samtidig og veksler mellom disse. 
+
+Her leverer Agility 3 meget bra, med resultater som går langt over forrige generasjon SSD. 
+
+Konklusjon 
+
+Agility 3 240 GB er en relativt rimelig og svært rask SSD til generell bruk. 
+Den scorer høyt på de viktige parameterene, og svakhetene ved skriving/lesing av store, ukomprimerbare filer er knapt merkbare i praksis for de brukerne den er beregnet på. 
+
+OCZ Agility 3 Series SATA III 2.5" SSD 240GB 

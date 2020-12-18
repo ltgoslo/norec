@@ -1,0 +1,77 @@
+SoundBlaster ZXR - lydkort i særklasse
+Hva tilbyr et toppklasse-lydkort som ikke den innebygde lyden tilbyr? 
+
+SoundBlaster var svært tidlig på banen med lydkort i PC-ens barndom. 
+Den gang var det ikke lyd i PC-er, bortsett fra pipelyder fra en høyttaler som ikke var ment til underholdning, men feilmeldinger. 
+Skulle du ha lyd var det SoundBlaster som gjaldt, spesielt for gaming, men også for musikk- og lydfiklere. 
+
+Etter at den interne PC-lyden også kunne spille musikk, og stadig ble bedre, ble det færre og færre som kjøpte dedikerte lydkort, kanskje med unntak av HiFi-folk, musikere, gamere og PC-entusiaster. 
+
+Men Soundblaster er ikke død. 
+Vi har testet ZXR-kortet til en pris på rundt 1500 kroner. 
+
+SoundBlaster ZXR - egenskaper 
+
+Kortet, eller rettere sagt <>kortene 
+
+Det er bare det ene kortet som har kontakt som kobles til PCIe-bussen (1x), det andre kortet kan stå hvor som helst der det er ledig plass og flatkabelen mellom dem rekker fram. 
+
+Det ekstra kortet tar seg av lydinngangene og innspilling, mens det lengste kortet tar seg av avspilling og prosessering. 
+
+Tilkoblingene er både analoge og digitale. 
+På det store kortet er det stereo 6,25 millimeters jacker for stereo inn- og utganger, mens surround og senter/sub er på to stereo minijacker. 
+Det lille kortet har phono-kontakter, pluss optiske for inn og utgang. 
+Det følger med overgangskabler. 
+
+Kortet er bygget med kvalitetskomponenter, og for den virkelig harde kjerne er det mulig å bytte ut noen sentrale aktive komponenter, op-ampene i utgangen. 
+Disse sitter på sokler og er enkle å håndtere. 
+
+Konverterne kommer fra velrenommerte Burr-Brown, og hele løsningen, med deksler for skjerming, gullbelagte kontakter og så videre, vitner om at de har tatt oppgaven på alvor. 
+
+En tungvekter av en kombinert volumkontroll og tilkoblingsboks følger også med. 
+Denne kobles til det store kortet med jack-plugger, og du kan velge mellom kontakter for minijack og store jackplugger for tilkobling av hodetelefoner og mikrofon. 
+
+Installasjon 
+
+Programvaren er ikke lenger så omfattende og nedlesset som for en del år siden. 
+Alt som har med kortets funksjoner å gjøre er samlet i et oversiktlig kontrollpanel. 
+
+En litt pussig opplevelse var det likevel at vi først ikke fikk en lyd ut av kortet etter installasjon av maskinvare og programvare. 
+
+Men det følger med et diagnoseverktøy, og etter at alle sjekkpunkter var funnet i orden gikk det gjennom oppsettet. 
+Da viste det seg at kortet var satt opp i surround-modus, mens vi bare hadde koblet til hodetelefoner. 
+Ved å velge hodetelefoner som arbeidsmodus var alt på plass. 
+
+I bruk 
+
+Det er to ting som umiddelbart er helt klart: 
+Det er masse volum å gå på for hodetelefoner av alle typer, og signalet er helt støyfritt og ikke påvirket av noe som helst annet du måtte gjøre på PC-en. 
+
+Kjører du kortet i nøytral modus er det helt transparent, og det er slik et lydkort skal være. 
+Det skal ikke ha noen egen karakter, det er det andre elementer i lydkjeden som har, enten du vil eller ikke. 
+Da tenker vi først og fremst på rommet, høyttalerne og musikkproduksjonen. 
+
+Men skal du bare ha Helt Ren Lyd kjøper du deg heller en DAC. 
+Et SoundBlaster-kort er mer et sofistikert lydleketøy, som lar deg gjøre noe med lydsignalet. 
+Om man kaller det forbedring eller forvrengning er et ideologisk spørsmål, heldigvis er det ikke noe regelverk for egen lytting. 
+
+Med SBX Pro Studio i kontrollpanelet kan du få simulert surround, legge på mer overtoner med Crystalizer og tilvarende i bassregisteret med Bass-funksjonen med variabel delefrekvens. 
+
+Du har også flere funksjoner som presenteres fint i kontrollprogrammet, du kan sjekke skjermdumper i bildespesialen under. 
+
+Vår dom 
+
+Det er ikke tvil om at dette er et veldig bra lydkort. 
+Det kombinerer støyfri lydkvalitet med gode og robuste tilkoblingsmuligheter, og støtter både vanlig musikkavspilling, flerkanallyd og prosessert lyd med effekter. 
+
+Det er også tilrettelagt både for gaming og delvis for kreativ musikkbruk med støtte for profesjonelle lydformater. 
+
+Så det er ikke et helt komplett alt-i-ett kort, men først og fremst beregnet på god gjengivelse og lek med lyd. 
+Skal du ha en løsning til innspilling finnes det mange alternativer i samme prisklasse, fra for eksempel Focusrite, PreSonus, M-Audio og mange andre. 
+Det samme gjelder for HiFi-entusiastene som vil unngå påvirkning av lyden underveis i kjeden, de velger heller en rendyrket DAC som ikke har så mange funksjoner som et lydkort. 
+
+Så vi står igjen med entusiasten som har en slant til overs og vil ha noe som tilsvarer funksjonaliteten i en integrert lydløsning, men som vil opp i kvalitet og brukervennlighet. 
+
+Og det leverer dette kortet. 
+
+Creative Sound Blaster ZxR 

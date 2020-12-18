@@ -1,0 +1,103 @@
+Toshiba Satellite L855D-100
+Den første PC-en vi tester basert på AMD sin nye Trinity-platform. 
+Kan AMD endelig true Intel på bærbar-fronten? 
+
+AMD er som lilleputter å regne i forhold til Intel, men nå håper den amerikanske prosessorprodusenten at ting skal endre seg. 
+DinSide var, som eneste nordiske medium, til stede under avdukingen av Trinity-generasjonen av prosessorer med integrert grafikk (APU) og brikkesett i Austin, Texas tidligere i år. 
+
+Nå begynner de første Trinity-baserte PC-ene å entre arenaen, og en av de aller første er Toshiba Satellite L855D-100. 
+Denne maskinen selges kun gjennom Elkjøp i øyeblikket, og prisen er 5990 kroner. 
+Den er utstyrt med den nest raskeste firekjernede Trinity-APU-en, A8-4500M, som har integrert Radeon HD 7640G-grafikk. 
+
+Bedre på alt 
+
+AMD framhever at Trinity ikke bare byr på langt raskere ytelse både til applikasjoner og spill, men også til vesentlig senket strømbruk - som gavner både batteritiden og ikke minst støynivået. 
+Disse to tingene har sjelden vært AMD-baserte maskiners største styrker. 
+
+Først skal vi se på noen av de viktigste tekniske egenskapene: 
+
+15,6" LED-baklyst blank LCD, 1366 x 768 piksler AMD A8-4500M APU AMD Mobility Radeon HD 7640G integrert grafikk 8 GB RAM (maks 8) 640 GB harddisk, 5400 rpm DVD-brenner 2 stk USB 3.0-porter 1 stk USB 2.0-port Webkamera 802.11b/g/n trådløst nett Gigabit LAN HDMI og VGA-skjermutganger Minnekortleser (SD/SDHC/SDXC) Windows 7 Home Premium 64 bit Mål: 24,2 x 38 x 2,9-3,25 cm Vekt: 
+2,2 kg Pris: 
+5990,- (hos Elkjøp) 
+
+Vi merker oss at maskinen er rimelig godt utstyrt, med blant annet mye minne og romslig harddisk - men det er ikke uvanlige egenskaper for maskiner i 6000-kroners klassen. 
+
+Utseendemessig er den temmelig klassis, lokket er dekket av grå børstet aluminium, det samme er brukt på innsiden under tastaturet. 
+Undersiden er av plast. 
+Kvalitetsfølelsen er uansett ganske bra. 
+
+Tastaturet er av chicklet-typen, der hver tast sitter isolert fra de andre. 
+En positiv side ved slike tastaturer er at de er enkle å rengjøre, smuler og støv blir liggende "oppi dagen" og kiler seg aldri bak tastene - slik som kan være tilfelle med andre tastaturer. 
+
+Under skriving avgir tastaturet svært lite støy, det er relativt fast, responsivt og behagelig å bruke. 
+Merk imidlertid at noen taster er mindre eller smalere enn hva som er normen, det gjelder enter-tasten, mellomromstasten og piltastene, som er krympet for å få plass til nummerisk tastatur til høyre. 
+Noe stort problem er dette imidlertid ikke. 
+
+Pekeplaten er litt ru og akkompagneres av to knapper som dessverre avgir litt for markant klikkelyd. 
+Hvorfor dette skal være nødvendig, er for oss et mysterium. 
+
+De integrerte høyttalerne har null bass, og lydopplevelsen blir veldig spinkel. 
+Så er du opptatt av god lyd, koble til eksterne høyttalere med det samme. 
+
+Alle tilkoblingene sitter på sidene, det eneste du finner i fronten er minnekortleseren - og det synes vi er helt OK. 
+
+Strøminntaket sitter på venstre side, og vi må også nevne at strømforsynigen bruker vanlig, tynn strømkabel med åttetallskontakt - uten jording. 
+Det har vi definitivt sansen for! 
+
+Slik er den i bruk 
+
+Fra du skrur på maskinen til den er klar til bruk tar det ett minutt og 10 sekunder. 
+Det er ikke spesielt imponerende. 
+De raskeste SSD-baserte maskinene bruker ofte kun 20 sekunder. 
+Å utstyre denne maskinen med SSD på et tidspunkt, vil i våre øyne være en meget fornuftig oppgradering, men vi tviler på at du vil klare å boote maskinen på 20 sekunder. 
+Her er det nok for mange prosesser som skal snurres i gang før du er inne i Windows. 
+
+Den generelle brukeropplevelsen er imidlertid snappy og fin, selv om Toshiba har falt for fristelsen å utstyre PC-en med en prøveversjon av en sikkerhetspakke fra McAfee. 
+Denne er, etter vår mening, blant de mer plagsomme sikkerhetspakkene, med stadige varsler og lite diskré framtoning. 
+I tillegg er maskinen utstyrt med mediepakken Kwik Media fra Nero, som er alt annet enn kvikk. 
+Bruk noen minutter på få finne (gratis) alternativer, og du vil få en enda bedre opplevelse, mener vi. 
+
+Windows gir oss følgende indikasjoner på ytelsen - her går skalaen fra 1,0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,7 Minne (RAM): 
+7,3 Grafikk: 6,7 Spillgrafikk: 
+6,7 Primær harddisk: 
+5,9 
+
+Prosesorytelse på 6,7 er omtrent som dobbelkjerneprosessoren Intel Core i5-2450M prosessor fra Intel, som er naturlig å sammenligne med - også prismessig. 
+Ganske midt på treet, med andre ord. 
+
+Passmark PerformanceTest gir oss litt mer kjøtt på benet, og her har vi sammenlignet mot typiske prosessorer på maskiner i samme prisklasse: 
+
+Som vi ser er totalytelsen bedre enn på 2-kjernede alternativer fra Intel, mens den firekjernede i7-prosessoren fortsatt ligger godt foran. 
+Merk også at alle disse tallene fra Intel er hentet fra Sandy Bridge-generasjonen, som i disse dager avløses av en ny generasjon, Ivy Bridge. 
+Allerede i juni kan bildet se annerledes ut, når Core i5-prosessorer fra Ivy Bridge-generasjonen dukker opp. 
+
+Diagrammet under viser at grafikkytelsen er meget høy sammenlignet med Intel HD 3000, som finnes i dagens Core i3/i5/i7-prosessorer (Sandy Bridge) fra Intel, og ligger også foran Intel HD 4000 i helt ferske Core i7-prosessorer (Ivy Bridge): 
+
+En ytelse som ligger omtrent som det dedikerte grafikkortet Nvidia GT540M er oppsiktsvekkende, og betyr at både A8- og A10-baserte Trinity-PC-er vil kunne brukes til temmelig avanserte spill, noe også denne videoen bekrefter. 
+
+Batteri-skuffelse? 
+
+Vi var svært spente på batteritiden, da dette skal være ett av punktene AMD virkelig skal ha gjort store forbedringer på i Trinity, og lover levetid på inntil 12 timer på enkelte PC-modeller. 
+Det gjelder imidlertid ikke for Satellite L855D-100, men levetid på 7 timer og 36 minutter uten belastning er meget bra. 
+
+Ved kontinuerlig videoavspilling går batteritiden kraftig ned - til 3 timer og 12 minutter. 
+Under normal bruk vil en levetid på rundt 4,5 timer være sannsynlig, noe Toshiba også antyder. 
+Det er ikke direkte dårlig, men særlig imponerende er det heller ikke i 2012. 
+Vi håper vi vil se Trinity-baserte PC-er som byr på langt bedre levetid enn dette, det må til hvis de skal ha en sjanse mot Intel-baserte maskiner og den nye Ivy Bridge-plattformen. 
+
+Konklusjon 
+
+Det første møtet med en AMD Trinity-basert maskin ble en temmelig positiv opplevelse, med god generell ytelse både til applikasjoner og spill. 
+Toshiba L855D-100 er også stillegående, og er i våre øyne ikke noe dårlig valg i forhold til en standard Intel Core i5-basert maskin fra Sandy Bridge-generasjonen. 
+
+Vi skulle imidlertid sett at den hadde noe bedre batteritid, men det største spørsmålstegnet setter vi ved prisen på 5990 kroner. 
+Det er temmelig mye, med tanke på at en Core i7 Ivy Bridge-basert "bror" fås til samme pris. 
+Denne prosessoren er vesentlig raskere enn A8-4500M. 
+Du må imidlertid klare deg med 4 GB minne dersom du går for Intel-maskinen. 
+
+Men bevares - Satellite L855D-100 er en fin, rask og stillegående maskin som dekker kravene fra de aller fleste av oss meget bra . 
+
+Maskinen selges hos Elkjøp, som også lånte oss testeksemplaret. 
+Takk for det. 

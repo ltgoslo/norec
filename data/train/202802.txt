@@ -1,0 +1,69 @@
+Sony NW-E407
+Se godt på denne lekre MP3-spilleren. 
+Det er en av de beste flashminne-baserte spillerne på markedet. 
+Likevel har vi vansker med å anbefale den. 
+
+Ingen kan beskylde Sony for å lage dårlige produkter. 
+Sony er et av verdens mest kjente selskaper, og "Walkman" er heller ikke langt nede på lista over kjente varemerker. 
+Men Sony har hatt sine markedsmessige utfordringer de siste årene, og det jobbes nå intenst med å vinne tilbake markedsandelene der de en gang dominerte stort; på markedet for håndholdte musikkspillere. 
+
+Nylig meldte selskapet om en markedsandel i Japan på 27% blant digitale lommespillere med flash-minne, en aldri så liten opptur for Sony, men den store suksessen lar foreløpig vente på seg i viktige markeder som Europa og USA. 
+
+Kom sent, og ikke veldig godt 
+
+Grunnene er flere. 
+En av de viktigste er at Sony entret markedet for MP3-spillere lovlig sent. 
+Og da de først dukket opp, var det med spillere uten direkte MP3-støtte; musikken måtte først konverteres til ATRAC-format, Sonys proprietære og kopibeskyttede musikkformat. 
+Det medførte blant annet at eierne av slike spillere måtte bruke et spesielt program i forbindelse med overføringen, OMG Jukebox - senere Sonic Stage. 
+
+Gleden blant Sony-fansen var derfor stor da selskapet kom med de første virkelige MP3-kompatible flash- og harddiskbaserte spillerne i fjor. 
+Endelig fikk brukerne det som de ville, trodde de. 
+
+Se godt på spilleren over, Sony NW-E407. 
+Det er uten tvil en av de aller beste flashminne-baserte spillerne vi har testet. 
+Den ser bra ut, har god kapasitet (1 GB), god skjerm, bra lyd, utradisjonell men etter hvert enkel betjening, og sist men ikke minst - den har en utrolig god batterilevetid, det antydes 50 timer på fulladet batteri. 
+Lading via USB-porten går dessuten lynkjapt; ett minutt i USB-porten betyr én time fornyet batterilevetid! 
+
+Spilleren dukker opp som egen stasjon i Windows Utforsker når den er koblet til PCen. 
+Men selv om spilleren støtter MP3-formatet, blir filer som kopieres direkte via utforskeren liggende i et ingenmannsland, fullstendig usynlig for spilleren når du trykker på play-knappen. 
+Du er derfor pent nødt til å installere Sonic Stage, nå i versjon 3.1, for å få kontakt på musikalsk nivå. 
+
+Og der starter også problemene. 
+Grensesnittet i Sonic Stage er riktig nok ryddig nok, du kan rippe musikk fra CDer, og programmet presenterer musikken du har liggende på PCen i en oversiktlig trestruktur. 
+Deretter er det bare å "dra og slippe" album og enkeltspor til spillervinduet til høyre. 
+
+En tålmodighetsprøve 
+
+Men Sonic Stage er sannsynligvis det tregeste av alle jukebox-programmene vi har testet sammen med MP3-spillere de siste årene, noe som merkes ekstra godt dersom du har en stor musikksamling. 
+Dessuten leser ikke alltid programmet taggene i MP3-filene perfekt, noe som kan føre til rotete sortering. 
+Mer irriterende: 
+Programmet bruker laaang tid på å indeksere musikken din. 
+I vårt tilfelle var prosessen så tidkrevende at både vi og Windows XP var sikre på at programmet hadde låst seg. 
+Det tok nærmere 45 minutter å indeksere rundt 12.000 spor, på en relativt kjapp PC med 2,8 GHz prosessor og 1 GB minne. 
+
+Overføring av MP3 "direkte" kan du faktisk bare glemme. 
+Sporene pakkes inn og krypteres slik at det blir umulig å dele dem med vennene dine. 
+Det verste er imidlertid at dette tar tid. 
+Nærmere 2 1/2 minutt å overføre ett enkelt album med tretten spor, totalt 52 minutter spilletid. 
+Det betyr bortimot en time på å fylle spilleren helt opp. 
+Da hjelper det fint lite at spilleren støtter USB 2.0 High Speed! 
+I tillegg er programmet temmelig ressurskrevende. 
+I vårt tilfelle merket vi dette godt gjennom "lugging" i andre programmer mens overføringen pågikk. 
+
+Verre blir det dersom du ønsker å benytte deg av den innebygde støtten for ATRAC3Plus-formatet. 
+Vi er naturligvis kjempefornøyde med at vi fikk plass til hele 630 spor, men en overføringstid på over 4 timer frister ikke akkurat til gjentakelse. 
+
+Og hvorfor i alle dager skal det ta nærmere 15 minutter å slette alle sporene på spilleren via Sonic Stage? 
+
+Hadde det ikke vært for Sonic Stage... 
+
+Det kan virke som om Sony helt har glemt at stikkord for 99 av 100 kommersielle suksesser er enkelhet. 
+For oss er det komplett uforståelig at Sony ikke for lengst har kastet Sonic Stage på dør. 
+Samtidig har Apple bevist at det går an å kombinere enkelhet med proprietære løsninger, gjennom sin iTunes-programvare og musikkbutikk. 
+Resten av historien kjenner vi. 
+
+Nylig lanserte Sony Ericsson sin første Walkman-mobiltelefon. 
+Uten Sonic Stage. 
+Uten behov for eget overføringsprogram. 
+Uten kryptering av MP3-filene dine. 
+Aner vi en endring i kursen fra elektronikkgiganten? 

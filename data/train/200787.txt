@@ -1,0 +1,192 @@
+Samsung Galaxy S II (S2)
+Enkelt og greit – Samsung Galaxy S II er den beste mobiltelefonen vi har testet. 
+
+I blant er det en fryd å teste produkter, og sjelden har en sekser på terningen vært så klokkeklar som for Samsungs nye toppmodell. 
+Android-baserte Galaxy S II er nemlig et råskinn hva gjelder ytelse, den har en briljant skjerm med vanvittige fargeegenskaper og er så tynn og lett at det er på grensen til det utrolige. 
+
+Til tross for all kraften under panseret, lar vi oss allikevel imponere av batterilevetiden, og med mindre du bruker den veldig mye, er det faktisk ikke nødvendig slik at du må sette den i laderen hver kveld. 
+
+Galaxy S II er proppfull av teknologi, har en vanvittig kjapp nettleser, et flott kamera og et stort internt minne (16GB), der telefonen i tillegg støtter minnekort. 
+Samsung har også kommet med et par innovative funksjoner til sitt TouchWiz-grensesnitt (som kjører "oppå" Android) som vi også liker veldig godt, og spiller dessuten 1080p .mkv-filer rett ut av boksen. 
+
+Merk: 
+Samsung Galaxy S II blir tilgjengelig i butikkene denne uka. 
+
+Tar vi en titt på de tekniske spesifikasjonene først, får vi følgende liste: 
+
+Tekniske spesifikasjoner, Samsung Galaxy S II 
+
+Skjermstørrelse: 4,3"Skjermoppløsning: 
+800x480 pikslerSkjermtype: 
+Super AMOLED PlusProsessor: 1,2GHz (Samsung Exynos 4210, dobbeltkjerne)Grafikk: 
+ARM Mali-400 MP (norskutviklet)Innebygd minne: 16GB (2GB til apps som ikke kan kjøre fra minnekort)Minnekort: 
+MicroSD, opp til 32GB (følger ikke med)Android-versjon: 
+2.3.3 (Gingerbread)Kamera: 
+8Mp + 2Mp (bak og foran)Videoopptak: 1920x1080FM-radio: 
+Stereo FM med RDS (krever medfølgende ørepropper)Utganger: Micro USB (MHL, med støtte for overgang til HDMI), 3,5mm jackWiFi: Wi-Fi 802.11 b/g/n, DLNA, WiFi Direct3G: 
+HSPA (21Mbps)Bluetooth: v3.0+HSMål: 66,1 × 125,3 × 8,49 mmVekt: 
+116gBatteri: 
+1650mAhPris: ca 4800 kroner 
+
+Konstruksjon 
+
+Med en vekt på bare 116 gram fremstår Galaxy S II som en svært lett mobiltelefon, og de fleste som får prøveholde den tror knapt det står et batteri i, for med såpass stort fotavtrykk (4,3" skjerm er blant de største på markedet) er det rett og slett oppsiktsvekkende hvor lite S II veier. 
+
+Sett forfra er det mye som minner om iPhone, med én synlig knapp (hjemmeknappen), men der meny- og tilbakeknapper vises om du berører områdene ved siden av hjemmeknappen. 
+Vi synes det er kjekt at Galaxy S II lar seg slå på ved å trykke på denne knappen, og ikke bare via av-og-på-knappen som er plassert på siden av telefonen. 
+
+Som seg hør og bør er uttaket til hodetelefoner plassert på toppen av telefonen, volumbryter på siden og micro USB-uttaket i bunnen. 
+Merk at telefonen ikke har en dedikert HDMI-utgang, men micro USB-porten er av MHL-typen, som gjør at du foreløpig kan koble telefonen til en TV via en overgangskabel, men der fremtidige TV-modeller også vil støtte denne kabelstandarden. 
+
+Skjermen er rett og slett fantastisk. 
+Den er av Super AMOLED Plus-typen, der Plus-utgaven har 50% flere sub-piksler og bruker 18% mindre strøm enn den forrige Super AMOLED-skjermen, som blant annet var å finne i den første Galaxy S. 
+Dermed fremstår skjermen som svært skarp, den har et vanvittig fargenivå og et sortnivå som går veldig, veldig dypt. 
+Å se film på Galaxy S II, med såpass stor, skarp og fargerik skjerm er virkelig imponerende. 
+Overflaten er såkalt Gorilla glass, som skal være svært motstandsdyktig mot riper. 
+
+På baksiden er batteri, minnekort og SIM-kort beskyttet av et særdeles tynt bakdeksel, men uten at telefonen virker mindre solid av den grunn. 
+Dekselet er laget såpass tynt for å støtte NFC (Near Field Communication); en kommunikasjonsprotokoll beregnet over veldig korte avstander som gjør at telefonen kan brukes til små betalinger, lesing av elektroniske visittkort og den slags. 
+Selv om den første utgaven av Galaxy S II ikke støtter NFC, vil det komme en identisk modell senere i sommer som støtter det, mot et pristillegg på et par-tre hundrelapper i følge Samsung Norge. 
+
+Spretter vi opp lokket, ser vi at minnekortet ligger beskyttet av batteriet, og kan derfor ikke byttes uten at batteriet tas ut. 
+Kameraet på åtte megapiksler har en LED-pære ved siden av seg som fungerer som blits (eller lommelykt). 
+For øvrig har utsiden av lokket en ruglete overflate, som kombinert med et søkk nederst gjør at telefonen ligger godt i hånda. 
+
+Galaxy S II har også et kamera i front beregnet for videosamtaler og selvportrett, samt en lyssensor som justerer den automatiske lysstyrken ut fra hvor lyse omgivelsene er. 
+Akkurat denne justeringen skjer litt hakkete, og i ekstra sterkt sollys finnes det skjermer som synes enda litt bedre enn S II, selv om det også her er liten grunn til å klage. 
+
+Som nevnt har også telefonen berøringsfølsom meny- og tilbakeknapp, men mangler en dedikert søkeknapp. 
+Du kan imidlertid holde menyknappen nede for å søke både fra hjemmeskjermen og i Android-market, men støtten i tredjepartsapplikasjoner er ikke den samme som på de telefonene som har en dedikert søkeknapp. 
+
+For øvrig skal det nevnes at Samsung også frir til businessmarkedet med denne telefonen, og Galaxy S II støtter 90% av alle sikkerhetsfunksjonene i Exchange, i tillegg til å ha integrert krypteringsbrikke. 
+
+I bruk 
+
+De fleste Android-produsenter legger sitt eget grensesnitt på toppen av Android for å gjøre telefonen mer til sin egen. 
+HTC bruker Sense-grensesnittet, LG og Sony har også egne grensesnitt, og Samsungs TouchWiz er nå i versjon 4.0 med noen små og store forbedringer fra tidligere. 
+
+Spesielt liker vi muligheten for bevegelsesfunksjoner. 
+Vil du flytte et ikon fra en hjemmeskjerm til en annen (totalt 7 er tilgjengelige), holder du fingeren nede mens du vipper telefonen til sidene. 
+Du kan også putte to fingre på telefonen og vippe den mot deg for å zoome inn (gjelder f.eks. bildevisning og nettleseren) i stedet for å gjøre en motsatt klypebevegelse. 
+Vi synes for øvrig det er litt dumt at det er hjemmeskjermen helt til venstre som er "standard" og foretrekker at standardskjermen er den i midten, men det er selvsagt smak og behag. 
+
+I nettleseren er uansett telefonen god på å zoome inn på avsnitt om du dobbelttrykker på dem. 
+Det er også mulig å snu telefonen med skjermen ned når den ringer, slik at den automatisk stopper ringelyden, noe som for øvrig har vært mulig på tidligere modeller; også fra HTC. 
+
+Ved siden av å sveipe hjemmeskjermene på tradisjonelt vis, kan du også bytte mellom dem ved å dra fingeren over de små ikonene i bunnen, og når du ser hvor raskt og flytende dette går, skjønner du kjapt at Galaxy S II har mye under panseret. 
+Som med de fleste andre telefoner kan du også gjøre en knipebevegelse for å se en miniatyrutgave av alle hjemmeskjermene. 
+
+Vil du se hvordan noe av dette fungerer i praksis, lagde vi en video da vi publiserte våre førsteinntrykk av Samsung Galaxy S II. 
+
+Samsung har også gjort andre tilpasninger, for eksempel av varslingsmenyen, som også inneholder snarveier til å slå av og på WiFi, Bluetooth, GPS, lyd og automatisk rotasjon (som kan være smart å slå av hvis du ligger på ryggen og skriver meldinger, for eksempel). 
+Mens vi er inne på GPS, kan vi også rapportere om en kjapp og korrekt GPS-modul, en funksjon mange Galaxy S-eiere har hatt trøbbel med. 
+
+Telefonapplikasjonen har også noen finesser. 
+Den støtter muligheten for å "ringe med bokstaver" (f.eks. ringe til "Rune" ved å trykke 7863) og viser antall treff i kontaktlista, med en ekstra liste for å finne frem til den du var ute etter. 
+Kontaktlista er også oversiktlig og grei, med mulighet for å se full historikk (samtaler, SMS, epost) etc. 
+På favoritter-siden får du dessuten se kontaktene du kommuniserer mest med, og det er mulig å koble til kontaktenes Facebook-profiler etc. 
+
+Applikasjonsmenyen (altså der alle applikasjoner er samlet) sorterer applikasjonene basert på når de ble installert, men lar deg også flytte rundt på applikasjoner som du vil; dog ikke automatisk sortere dem alfabetisk. 
+
+Det er også verdt å merke seg at tidligere modeller fra Samsung ikke har blitt oppdatert "over luften" når det har kommet nye Android-versjoner (men via den medfølgende Kies-programvaren), men fra og med denne telefonen vil fremtidige modeller også støtte over-the-air-oppdateringer der disse dyttes til telefonen din slik at du kan oppdatere den uten å koble til en PC. 
+
+Medfølgende programvare 
+
+I tillegg til modifikasjonene med TouchWiz-grensesnittet, følger det også med en håndfull applikasjoner på Galaxy S II. 
+Den beste er uten tvil Kies Air, som lar deg administrere telefonen fra en PC uten å koble i kabelen. 
+
+Starter du Kies Air, kjører telefonen en webserver som du når via nettleseren på PC-en (uavhengig av hva slags operativsystem du kjører), og så får du tilgang til alt på telefonen. 
+Du kan laste opp og ned videoer, bilder, ringetoner, lyder etc., redigere kontakter, utforske filsystemet lese og sende meldinger og så videre; alt via nettleseren på PC-en. 
+Det skal sies at enkelte deler av systemet kunne ha vært mer elegant (f.eks. bildearkivet, som bare viser ALT av bilder på telefonen, inkl det som er cachet fra appliaksjoner osv), og vi har heller ikke lykkes med å bruke filutforskeren utover å se katalogene på rotnivå, så fortsatt er kabel å foretrekke til filhåndtering fra PC. 
+
+Dernest finner vi Samsungs "huber" - Music Hub, Social Hub, Readers Hub og Game Hub. 
+Music Hub gir deg mulighet til å spille av musikk lagret på telefonen og Samsung samarbeider også med den britiske nettbutikken 7digital slik at du kan kjøpe sanger derfra (funker også i Norge; vi har testet). 
+Veldig elegant er det ikke, der du for eksempel ikke får registrert deg (bare logget inn) når du har puttet musikk i handlekurven, mens registrering skjer et annet sted i applikasjonen. 
+Musikkspilleren ellers er helt fin og støtter spillelister, equalizer, "smarte" spillelister (mest spilte, sist spilte), sortering på sang/album/artist/mappe etc. 
+
+Game 
+Hub er strengt tatt bare en bitteliten samling av spill der du kan prøve de som koster penger, og Social Hub samler oppdateringer fra flere sosiale nettverk og kommunikasjonstjenester (Facebook, Twitter, LinkedIn, MySpace, Windows Live Messenger, Google Talk etc), men her foretrekker vi strengt tatt mer dedikerte applikasjoner med mer funksjonalitet. 
+
+Readers Hub, derimot, er ganske kjekk, der Samsung samarbeider med PressDisplay, Kobo og Zinio for henholdsvis aviser, bøker og magasiner. 
+Med førstnevnte kan du for eksempel lese enkelte norske (og mange internasjonale) aviser, der 7 gratisutgaver følger med før du evt må betale. 
+Du kan også velge å få avisen levert til telefonen hver dag. 
+PressDisplay-appen finnes for øvrig for andre Android-telefoner, samt for iOS. 
+
+Galaxy S II kommer også med en AllShare-app, som kan dytte bilder, lyd og video trådløst til en DLNA-enhet (f.eks. en moderne TV, PlayStation/Xbox etc), forutsatt at de er koblet på samme trådløse nettverk. 
+I tillegg har koreanerne gjort flere modifikasjoner på standardapplikasjonene, med mulighet for forhåndvisningspanel i epostapplikasjonen om du holder den sidelengs, en fin og funksjonell kalenderapplikasjon etc. 
+
+Du får også med småting som bilde- og videoredigeringverktøy (relativt enkle), lydopptaker, FM-radio (krever at du bruker medfølgende hodesett), minidagbok, Polaris Office (som kan åpne Office-dokumenter) etc. 
+For deg som liker å ta skjermbilder fra telefonen, er det også kjekt at Galaxy S II kan ta skjermbilder på samme måte som iPhone; med andre ord ved å holde hjemme- og av-og-på-knappen inne samtidig. 
+
+Verdt å merke seg er også at tastaturprogrammet Swype følger med. 
+Dette aktiverer du hvis du har lyst og gjør at du kan skrive uten å løfte fingeren. 
+Du sveiper innom de bokstavene du skal skrive, og så gjetter telefonen stort sett riktig med tanke på hvilket ord du hadde tenkt til å skrive. 
+Fortsatt sverger vi imidlertid til Swiftkey, som også er i stand til å gjette det neste ordet du skal skrive. 
+
+Kamera 
+
+Heller ikke på kamerafronten skuffer Samsung, og kameraet på Galaxy S II leverer skarpe og detaljerte bilder; kanskje de beste vi har sett i god belysning, som også jevnt over er meget godt eksponerte. 
+Fargene ser riktignok enda mer smashing ut på mobilskjermen, men er ikke fullt så radikale i virkeligheten. 
+Det gjør imidlertid ingenting, for det kan bli litt for mye av det gode på den fargerike skjermen. 
+
+Innendørs er vi også godt fornøyde, selv om både støy og reduksjon av detaljer melder seg i dårlig belysning, som gjør at vi fortsatt holder en knapp på Xperia Arc til innendørsbilder. 
+Samsung skal imidlertid ha for at den automatiske hvitbalansen oppfører seg eksemplarisk, og både bilder og videopptak har bedre hvitbalansering enn de fleste andre kameratelefoner vi har testet. 
+
+Videoopptak skjer som nevnt i full HD-oppløsning (1920x1080) og ser også meget, meget bra ut. 
+Her bør man imidlertid være oppmerksom på at kameraet beskjærer opptaket og bruker sensorpikslene 1:1 når man filmer i full HD (altså de "midterste" 1920x1080 punktene), som gjør at du ikke får like god vidvinkel som du gjør på stillbildene. 
+Bruker du lavere oppløsning, derimot, blir også utsnittet bredere. 
+Lyden spilles dessuten kun inn i mono, men låter helt OK. 
+
+Under finner du et filmklipp hentet rett fra telefonen (i full HD): 
+
+For øvrig starter kameraapplikasjonen meget raskt (det gjør for øvrig alt mulig annet også) og har godt med funksjonalitet. 
+Du kan stille selvutløser, hvitbalanse, eksponeringskompensasjon osv, i tillegg til at kamera-appen kan sy sammen panoramabilder (der du starter opptaket og beveger kameraet langs horisonten), fyre av bildet når motivet smiler og mer til. 
+
+Ytelse 
+
+Galaxy S II er et råskinn, og alt oppleves som svært raskt på denne telefonen. 
+Nettleseren takler lett de tyngste sidene, og eksempelvis den fulle VG-forsiden (med Flash-elementer) skroller flytende som bare det. 
+Bare å navigere på hjemmeskjermen er en fryd selv om du har fylt den opp med widgets og ikoner, og programmer starter kjapt – det er i det hele tatt sjelden vi venter på telefonen i daglig bruk. 
+
+Vi har kjørt et knippe programmer som måler ytelsen vis-a-vis markedets første dobbeltkjernetelefon, LG Optimus 2X, og i de fleste testene stikker Galaxy S II av med seieren. 
+I det kanskje mest populære testprogrammet, Quadrant Standard, måler vi 3415 vs 2579 i favør S II, og også i Sunspider-testen (som måler javascriptytelse i nettleseren), er S II foran med 3729ms vs 3996ms. 
+
+Under finner du flere ytelsesmålinger. 
+Merk imidlertid at siden Galaxy S II har såkalt vertical sync og dermed er "låst" til 60 bilder i sekundet, vil dette gjøre utslag på mange av testene. 
+Spesielt gjør det utslag på Neocore- og FPS2D-testene, der Samsung-telefonen aldri tegner opp flere enn 60 bilder i sekundet og derfor bare havner tett oppunder 60 bilder i sekundet totalt. 
+Electopia-testen, derimot, som er av den tyngre sorten, viser at Galaxy S II yter meget bra (Optimus 2X i parentes) 
+
+Quadrant Standard (minne, CPU, grafikk): 
+3415 (2579) Linpack (CPU): 46,138 (34,037) Neocore (grafikk): 59,7fps (74,7fps) FPS2D (CPU): 
+59fps (114fps) Smartbench 2011, productivity: 3379 (3062) Smartbench 2011, games: 2255 (2633) BenchmarkPi (CPU): 
+585ms (705ms) AnTutu (CPU, grafikk, minne): 
+4423 (3898) Electopia (CPU/grafikk): 36,29fps (15,8fps) 
+
+Gledelig er det også å se at Galaxy S II spiller det aller meste av video rett ut av boksen. 
+Eksempelvis har telefonen null problem med å dra 1080p h.264/mkv-klipp, og bildekvaliteten er fremragende. 
+Vi har dessverre ikke fått testet hvordan telefonen oppfører seg når du kobler den til en TV med kabel (MHL krever foreløpig spesiell adapter, men vil kunne kobles direkte til MHL-kompatible TV-er som kommer på markedet senere i år). 
+I Samsungs kommende TV-er vil det dessuten være mulig å se TV-signalet direkte på telefonen, noe som for øvrig også gjelder de kommende nettbrettene fra Samsung. 
+
+Lydkvalitet 
+
+Når det gjelder telefonsamtaler er lydkvaliteten meget god, og telefonen har også en sekundær mikrofon som er med på å filtrere ut bakgrunnsstøyen slik at motparten hører deg bedre. 
+Dog skulle vi gjerne ha sett at det var mulig å skru lyden enda litt høyere under samtaler, for i bråkete omgivelser har det hendt at vi har trykket forgjeves på plussbryteren i et forsøk på å høre samtalepartneren bedre. 
+Den utvendige høyttaleren, derimot, er i stand til å ringe veldig høyt. 
+
+De medfølgende øreproppene er noe isolerende og sitter godt i ørene, men byr ikke på den helt store opplevelsen lydmessig, der spesielt bassen er fraværende selv om man prøver aldri så mye å stille equalizeren. 
+Videospilleren har for øvrig muligheten for å "fake" 5.1-surround, som faktisk gir et lydbilde som virker bredere når det er aktivert. 
+FM-radioen fungerer utmerket og kan også kjøre lyden ut av den eksterne høyttaleren når hodetelefonene er plugget i. 
+
+Konklusjon, Samsung Galaxy S II 
+
+Den er ikke perfekt, men Samsung har gjort voldsomt mye riktig med Galaxy S II, og telefonen fremstår som den beste telefonen i dagens marked og dermed også den beste telefonen vi noensinne har lagt våre klamme fingre på. 
+
+Skjermen er oppsiktsvekkende skarp og fargerik, og telefonen er lynrask i alle bauger og kanter – fra å skrolle på hjemmeskjermen til å starte applikasjoner, spille video i full HD-oppløsning eller hva det måtte være. 
+
+I tillegg er designen tiltalende uten at det går ut over brukskomforten – Galaxy S II er syltynn, nesten helt latterlig lett og ligger godt i hånda. 
+Batterimessig opplever vi også at telefonen holder ut lenger enn de aller fleste av konkurrentene, og kameraet tar svært gode bilder og videopptak. 
+
+Joda, det finnes ting vi savner – dedikerte kamera- og søkeknapper, "vanlig" HDMI-utgang og LED-lys for å vise at noe har skjedd på telefonen mens du har vært borte (NoLED kan fikse den biten), men dette blir bare småplukk på en ellers fantastisk telefon. 
+
+Er du i markedet for en ny toppmodell trenger du med andre ord ikke å lete lenger. 
+Samsung Galaxy S II er verdens beste mobiltelefon akkurat nå. 

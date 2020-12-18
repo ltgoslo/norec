@@ -1,0 +1,62 @@
+Netgear PTV1000 / Intel Wireless Display
+Det snakkes mye om WiDi om dagen - trådløs overføring av skjermbildet på PC-en til TV-en. 
+Vi har testet. 
+
+Intel Wireless Display er navnet på en trådløs overføringsteknologi som kommer som standard på flere bærbare PC-er som er utstyrt med Intels siste generasjon Core i-prosessorer, kalt "Sandy Bridge", og Intel GMA HD-grafikkort. 
+Poenget er å kunne overføre skjermbildet på PC-en til TV-en, uten bruk av kabler. 
+
+I tillegg til en WiDi-kompatibel PC trenger du også en WiDi-kompatibel TV eller WiDi-mottakerboks tilkoblet TV-en. 
+Foreløpig er utvalget tynt, men Toshiba og Netgear er blant andre på banen med produkter, og flere er ventet å følge i tiden som kommer. 
+
+Liten WiDi-boks 
+
+Netgears mottakerboks har fått navnet PTV1000 (PTV står for Push To TV) og den tar ganske enkelt imot WiDi-signalet og formidler det videre til TV-en via en kort HDMI-kabel. 
+Både lyd og bilde overføres. 
+Boksen koster rundt 600 kroner, inkludert mva. 
+
+Oppsettet er i prinsippet såre enkelt. 
+Man kobler boksen til TV-en, som straks viser følgende skjermbilde: 
+
+Deretter starter du Wireless Display-programvaren på PC-en, som straks starter søket etter WiDi-enheter: 
+
+Når boksen blir funnet, dobbelklikker man på den i listen, og får deretter beskjed på TV-en om å taste inn en firesifret kode for å sikre kommunikasjonen mellom PC og boks: 
+
+Når du har gjort det, skal skjermbildet fra PC-en bli klonet på TV-en. 
+Helt av seg selv, hvis alt har gått som det skulle: 
+
+Ikke helt enkelt 
+
+I praksis er det imidlertid ikke alltid like lett. 
+Vi opplevde en rekke ustabiliteter med denne løsningen, parret med en ny Toshiba-PC (som du kan lese test av på DinSide i neste uke). 
+
+Selv om vi befant oss bare 3 meter unna boksen (6 meter er maks), opplevde vi at parringen feilet flere ganger. 
+Vi opplevde også at signalet forsvant da vi flyttet på PC-en. 
+
+WiDi-programvaren krasjet også for oss et par ganger: 
+
+Men når det virket, virket det OK - men med klare begrensninger. 
+Oppløsningen er på maks 1280 x 720 piksler (dette gjelder WiDi generelt), og det er til tider lang forsinkelse fra du gjør operasjoner på PC-en, til de vises på TV, gjerne bortimot et par sekunder. 
+Det er derfor temmelig vanskelig å gjøre ting på PC-en for å demonstrere på TV, uten å måtte se på den interne skjermen. 
+
+Ikke optimalt for film heller 
+
+Et typisk bruksområde, foruten presentasjoner og bildefremvisning, er naturlig nok video. 
+Fungerer løsningen til det? 
+Nok en gang kan vi ikke gi helt godkjent karakter. 
+
+Uansett oppløsning og bitrate på materialet, opplevde vi tendenser til hakking fra tid til annen. 
+Dette gjaldt både bilde og lyd, og det var såpass merkbart at vi ikke hadde likt å se en hel spillefilm på denne måten. 
+
+Konklusjon 
+
+Intel Wireless Display er en fersk teknologi, og det er foreløpig store og åpenbare forbedringsområder, slik vi opplevde løsningen. 
+
+Så skynder vi oss å legge til at WiDi benytter det meget velbrukte 2,4GHz-båndet (WLAN), og mange trådløse nett i nabolaget er muligens medvirkende årsaker til at vi sitter igjen med et litt småskuffet inntrykk. 
+Men bor man i et tettsted er en frodig trådløs-populasjon mer regelen enn unntaket i 2011. 
+
+Inntil videre strekker vi heller en lang HDMI-kabel over gulvet når vi vil vise ting på TV-skjermen. 
+Det fungerer hver gang, uten forsinkelse og forstyrrelser, og i akkurat den oppløsningen vi selv ønsker oss. 
+
+Takk til Netonnet.no for utlånet av boks og PC. 
+
+Netgear Push2TV PTV1000 

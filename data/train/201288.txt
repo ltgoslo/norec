@@ -1,0 +1,80 @@
+Buffalo AirStation 1750
+Nye og raskere rutere dukker opp, vi har testet toppmodellen fra Buffalo. 
+
+Buffalo AirStation 1750, eller WZR-D1800H som den heter i oppsettet, skilter med Extreme Performance på esken. 
+Det høres jo spennende ut, og at den støtter den kommende standarden 802.11ac i tillegg til b/g/n er jo stas. 
+Selv om det i skrivende stund ikke finnes klienter å oppdrive, verken nettverkskort eller USB-enheter, som støtter denne standarden. 
+
+802.11ac skal støtte opptil 1 Gbit fra ruteren, og opptil 500 Mbit per forbindelse. 
+Det er jo lovende, men vi ser neppe dette i stor utbredelse før om en del år. 
+802.11n og 5 GHz er jo ikke en gang på plass over alt, spesielt ikke i offentlige miljøer. 
+
+AirStation 1750 
+
+Ruteren skal plasseres stående, og det følger med et sett med føtter. 
+De sitter ikke veldig fast, men det virker som det er tilstrekkelig. 
+Man skal jo ikke danse med den. 
+Den kan også monteres på vegg, da blir den en veggpryd (for å holde oss til danseterminologien). 
+
+Monterer du bena på to topp og bunn kan ruteren også brukes liggende. 
+
+Den har et diskret utseende, med koksgrå, svært fin veluraktig overflate og detaljer i sølvfarge og klar plast. 
+
+Det er ingen synlige antenner, og tilkoblingene er de vanlige WAN, 4xLAN (Gigabit) og USB 2.0 for felles lagring i NAS-stil. 
+
+Helt nederst stikker det ut en liten flik som det står Configuration på. 
+Denne hører til en liten huskelapp som man kan bruke når man skal sette opp ruteren for første gang, eller når man vil gjøre endringer i oppsettet. 
+
+Ruteren støtter 2,4 og 5 GHz nettverk, med hastigheter på opptil 450 Mbps og 1300 Mbps henholdsvis. 
+Rekkevidden påstås å være flere ganger høyere med ac enn n-standard, men det er det altså for tidlig å si noe om før det finnes utstyr som gjør det mulig å teste. 
+
+Installasjon 
+
+Ruteren finner selv internettforbindelse og setter opp trådløst helt på egen hånd, her er det snakk om full plug&play.; 
+Ved hjelp av informasjonen på Configuration-lappen finner man brukerkode og kommer inn på det trådløse hvis man ikke vil gjøre endringer. 
+For å gjøre endringer går man via nettleseren, enten på en PC eller fra en hvilken som helst annen enhet som er på nett, fra Smart-TV til mobil. 
+
+Brukervennligheten i dette oppsettet er imidlertid forbeholdt de som har kunnskaper. 
+Det er svært teknisk og med omfattende hjelpetekster som åpnes til høyre for konfigurasjonsvinduene. 
+
+For de som vet hva de er ute etter er det uproblematisk, selv om det krever litt manøvrering og leting, siden mange parametre skjuler seg bak faner som ikke alltid vekker oppmerksomheten uten videre. 
+
+Har du Andoid-enheter er det også mulig å koble seg på ved å laste ned en app: AOSS. 
+Dette fungerer på samme måte som WPS, du trykker en knapp på den ene enheten (virtuell skjerm-knapp i dette tilfellet) og så på en knapp på den andre. 
+Etter kort tid er det etablert en forbindelse. 
+
+Egenskaper 
+
+Utover USB-tilkobling for nettlagring og felles skriver er det ikke mange ekstra-finesser hos denne ruteren. 
+Den har DLNA-støtte for medieavspilling, men det er ikke oppsett for alternative gjestenett. 
+
+Ytelse 
+
+Som da vi testet Linksys sin nyeste ruter, fant ikke nettverkskortet Intel N-6300 i vår test-bærbare 5 GHz nettet. 
+Det gjorde derimot en nye iPad. 
+Vi brukte derfor USB-enheten AE3000 til testing. 
+
+Førsteinntrykket var svært overbevisende da vi testet på måleplassen i stua. 
+Grafen la seg umiddelbart rundt 20 Mbyte/sek og holdt seg der ganske stabilt under filoverføringer, enda mer stabilt enn Linksys EA4500 som vi nylig testet. 
+Det var rett og slett imponerende! 
+
+Men da vi kom ned i kjelleren var det en ganske annen opplevelse. 
+Her fikk vi så dårlig og ustabil dekning på 5 GHz at det ikke var mulig å gjennomføre noen måling. 
+Vi stilte inn USB-mottakeren, som står fritt i en dokk med kabel, i alle mulige og umulige vinkler. 
+Resultatet ble uansett helt ubrukelig. 
+
+På 2,4 GHz var også resultatet i kjelleren bortimot tragisk. 
+Det var signal, men ytelsen var rett og slett begredelig. 
+
+På måleposisjon i stua var ytelsen på 2,4 GHz kurant, men vesentlig lavere enn det vi har målt nylig med toppmodeller fra andre produsenter. 
+
+Konklusjon 
+
+Buffalo AirStation 1750 utmerker seg med å både være veldig bra og veldig dårlig. 
+Ytelsen er helt topp på 5 GHz med moderat avstand mellom ruter og klient, og elendig under vanskeligere forhold. 
+På 2,4 GHz er den ikke like imponerende under moderat avstand, og svak på avstand. 
+
+Installasjonen er superenkel hvis man ikke vil endre på noe, her er det snakk om full plug&play.; 
+Men skal man endre på noe gjelder det å holde tunga rett i munnen. 
+
+Vi håper at det vil komme firmwareoppdateringer som tar hånd om den svake ytelsen på noen områder, men det er mest nærliggende å velge en annen ruter hvis du er ute etter topp ytelse, rekkevidde og egenskaper. 

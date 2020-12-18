@@ -1,0 +1,70 @@
+Test:Tellstick - smart lysstyring 
+
+Kombinert med rimelige fjernstyrte brytere kan du få til det meste. 
+
+Fjernstyring av lys og andre apparater er både behagelig og praktisk, noen vil også si bedagelig. 
+Dem om det. 
+I stedet for å svinse rundt, bøye seg bak og under møbler og innredning, kan man styre alt med en fjernkontroll. 
+
+Men man kan også gå enda lenger. 
+
+Styrer alt 
+
+Tellstick er en enhet du kobler til PC-en din, og ved hjelp av denne kan du styre lys og varme i hele boligen fra PC-en. 
+
+Den mest vanlige frekvensen som brukes til lysstyring er 433,92 MHz. 
+Både de billige settene du får i elektrobutikken og mer avansert utstyr bruker alle denne frekvensen. 
+Med et felles styringssystem kan selv de mest avanserte løsninger bygges opp. 
+
+Men selve Tellstick'en og basisfunksjonene er svært enkle i bruk og kan håndteres av alle. 
+
+Installasjon 
+
+Selve enheten er en liten USB-dongle med en kort antenne. 
+Programvaren laster du ned, den ligger ikke i pakken. 
+Dermed får du alltid siste versjon. 
+
+Etter at programvaren er installert setter du inn Tellsticken i en USB-port (vi brukte en USB-skjøtekabel for å få antennen opp i friluft), så det bare å sette i gang. 
+
+I hovedlisten kan du legge til, endre og fjerne enheter som skal styres. 
+
+Fjernstyrte brytere kan styres på flere måter. 
+De enkleste bruker en kodebryter med et lite antall valgmuligheter, på disse enhetene er det 12 muligheter per bryter. 
+
+Mer avanserte enheter har en lærefunksjon. 
+Du ber om en tilfeldig Remote kode i programet, så setter du den fjernstyrte bryteren i læremodus (den blinker), så trykker du Save, blinkingen stopper og instillingen er lagret. 
+
+I bruk 
+
+Når du har satt opp forskjellige brytere der du vil styre lys eller andre elektriske apparater, og lagt alle inn i programmet er det bare å lagre. 
+Da har du full styring fra PC-en over alt som er koblet til. 
+
+Ver oppmerksom på at brytere som bruker læremodus ikke alltid kan styres både av Tellstick-systemet og fjernkontrollen som fulgte med. 
+Det er fordi bryteren bare har ett minne for styringskode. 
+Mer avanserte brytere har flere minneplasser for styrekode, og vil kunne brukes av begge styringene, ved å gå i læremodus fra begge systemene. 
+
+De enkle bryterne med kodebryter er mer velegnet i slike sammenhenger, fordi det ikke er noe minne inne i bildet. 
+Du veler A, B, C eller D og 1,2 eller 3 og kan styre bryteren både fra den lille fjernkontrollen som følger med og fra Tellstick-systemet. 
+
+Rekkevidden er oppgitt til 30 meter og alt fungerte utmerket fra plassering oppunder mønet og ned over 3 plan. 
+
+Hvordan kan dette brukes? 
+
+Installasjon og oppsett av brytere er bare første trinn, hvordan skal man bruke dette i praksis? 
+
+Her er det flere muligheter, avhengig av hvor langt man vil gå. 
+
+På Tellsticks nettsted finnes det en rekke løsninger man kan laste ned og tilpasse til egne behov. 
+
+Over internett 
+
+Laster du ned Telldus Live! kan du styre hjemmet ditt fra hvilken som helst datamaskin som er koblet til internett. 
+Du må først aktivere dette på maskinen som kjører Tellstick-systemet, som må være på nett og koblet opp 24/7. 
+Så logger du inn på live.teslldus.com og får opp installasjonen din og kan styre den derfra. 
+
+Med iPhone 
+
+Med Telldus Live! kan du også betjene styringen fra din iPhone eller iPod Touch. 
+Du laster bare ned en gratis app i AppStore, så er du i gang: 
+
+For priser og steder du kan handle trykk her 

@@ -1,0 +1,86 @@
+Dette smarte boret gjør to ting på en gang
+Gjør det superenkelt å lage hull med gjenger. 
+
+Skrue med mutter er greit, men det er mye enklere når det bare er å skru i skruen. 
+Men hvordan skal du få det til? 
+
+Når noe skal festes i metall, er det flere løsninger. 
+Det finnes selvgjengende skruer og man kan også feste nagler med gjenger. 
+Men ofte er det beste vanlige maskingjenger. 
+Da kan du skru ut og inn skruene mange flere ganger enn med selvgjengende skruer. 
+Skal du feste nagler med gjenger, trenger du spesialverktøy. 
+
+Den tradisjonelle måten å gjenge på er å bruke en gjengetapp. 
+Men da må du først bore et hull med en spesiell diameter. 
+Skal du ha M3 (tre-millimeters metriske gjenger) trenger du et bor med en diameter på 2,5 mm, skal du ha M4 må du bore med 3,3mm og til M5 er det 4,2mm og så videre, som spesifisert i denne tabellen: 
+
+Finnes det ikke en enklere måte å gjøre dette på? 
+Å joda. 
+
+Kombinert bor og gjengetapp 
+
+Vi kom tilfeldigvis over en annonse på nett, for et sett med gjengetapper kombinert med bor i riktig diameter, fra forhandleren Pillowbread.com. 
+Vi snakker altså om ett enkelt verktøy som begynner som bor og fortsetter som gjengetapp. 
+Med andre ord: man borer og gjenger i samme operasjon. 
+
+Dette så jo helt genialt ut, så det var bare å bestille. 
+Ikke var det spesielt dyrt heller; inkludert frakt til Norge holdt vi oss like under 350 kronersgrensa. 
+
+Settet inneholder 6 bor-tapper: M3, M4, M5, M6, M8 og M10. 
+Alle ender i 1/4" sekskantfeste, så de passer i alle typer skrumaskiner og driller, også slagtrekkere. 
+
+Alle bor-tappene er like lange, men lengden på tapp-delen varier fra 12,5 mm på M3 til 19 mm på M10. 
+Dermed kan du ikke lage gjenger i tykkere gods enn gjengedelen. 
+
+Gjengedelen på vanlige gjengetapper er lengre, våre egne tradisjonelle gjengetapper måler fra cirka 18 mm på M3 til cirka 29 mm på M10. 
+
+I bruk 
+
+Når man borer i metall gjelder det å bore med noenlunde riktig hastighet, slik at boret ikke blir overopphetet. 
+Man bør også bruke skjæreolje eller annen egnet kjøle/smøremedium. 
+
+Vi satte batteridrillen i laveste hastighetstrinn og justerte momentet ned noen hakk for å få bedre kontroll. 
+Borer du for raskt og hardt, risikerer du at du drar over gjengene før du rekker å stoppe drillen. 
+
+Materialene vi testet i var 3 mm og 5 mm aluminium, 2 mm stålplate og i pleksiglass. 
+
+Det er som alltid lurt å lage et merke med en kjørner eller et senterbor før man begynner å bore med det egentlige boret. 
+
+Vi fant ut at relativt lav hastighet fungerte utmerket, litt høyere på de mindre borene naturlig nok, for samme skjærehastighet. 
+
+Borene var skarpe og overgangen til gjengedelen var lett å kjenne. 
+Man merker fint når gjengingen er gjort gjennom materialet. 
+Da er det bare å stoppe og reversere drillen for å få ut verktøyet. 
+
+Verktøyene fungerte også fint med slagtrekker, belastningen ble ikke så høy at slagmekanismen ble aktivert på de materialene vi testet. 
+
+Resultatet 
+
+Det blir noen grader og en liten kant både ved inngang og utgang av hullet, men noen tak med en fil eller annet gradverktøy fikser det. 
+
+Gjengene fungerte fint, særlig fra M4 og oppover. 
+M3 er alltid litt kilent, toleransene er mindre på grunn av de små dimensjonene. 
+
+Det eneste problemet, som er generelt med håndholdt verktøy, er at det er lett å bore - og dermed gjenge - skjevt. 
+Hvis det er viktig at hull og gjenger er rett kan man bare sette bor-tappen i en søyleboremaskin først og bore selve hullet. 
+Så kan man flytte bore-tappen over i en håndholdt drill. 
+En ekstra operasjon, men ganske enkel. 
+Å bore og gjenge i samme operasjon i søyleboremaskinen fungerer veldig dårlig, siden du ikke styrer hastigheten underveis og ikke rekker å stoppe den før det er for seint. 
+Vi prøvde … 
+
+Vår konklusjon 
+
+Vi liker løsningen. 
+Den er enkel i bruk og fungerer som vi håpet. 
+Terskelen for å gjenge i stedet for å bruke skrue og mutter har blitt vesentlig lavere. 
+Nå får gjengetappene våre avløsning. 
+
+Disse bor-tappene har vi ikke sett i butikker her til lands, men de finnes i mange varianter på nett. 
+Ebay og Amazon har svært mange varianter å velge mellom i forskjellige sett og utførelser. 
+Et søk etter «tap drill bits» vil gi deg mange resultater. 
+
+Vi kjøpte fra Pillowbread.com - prisen var ca 214 kroner. 
+Med frakt til Norge, holdt vi oss akkurat under 350-kronersgrensa. 
+
+Prisene varierer også fra svært rimelig til overraskende dyrt. 
+Noe av dette skyldes sannsynligvis kvalitetsforskjeller, men spennet fra en femtilapp til mange hundre kroner kan skyldes så mangt. 

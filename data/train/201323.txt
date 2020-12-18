@@ -1,0 +1,65 @@
+Samsung SPP-2040
+TEST: 
+Med en liten fotoskriver slipper du både PC-overføring og tungvinte programmer. 
+Vi har sett på en løsning fra Samsung. 
+
+De små fotoskriverne blir stadig nettere, mer funksjonsrike og mer brukervennlige. 
+SPP-2040 fra Samsung veier bare en drøy kilo og har beskjedne mål på 18 x 13.6 x 6.6 cm. 
+Den er kompatibel med både PC og Mac, er utstyrt med en 2 LCD-skjerm for å vise bilder før de skrives ut, og har både Pictbridge og kortleser for alle kjente minnekorttyper. 
+Dessuten har den USB 2.0 for kobling til PC, der opp til 32MB kan overføres til skriveren for deretter å skrives ut. 
+Storebroren, med en B bakerst i modellbetegnelsen, byr også på overføring via Bluetooth, men koster noen hundrelapper ekstra. 
+
+LES OGSÅ: 
+
+Skriveren benytter seg av A6-fotoark (10 x 15 cm) som det følger ti av med i pakka. 
+Ekstra ark kjøpes i pakker på enten 40 eller 120, der det også følger med fargebånd. 
+Skriveren bruker, som du kanskje gjettet, sublimeringsteknikk for å trykke bilder, med den fordelen at de er mer holdbare og vannfaste enn typiske blekkutskrifter. 
+Dette fungerer ved at fargene gul, magenta og cyan smeltes ned i papiret etter tur, for deretter å få en beskyttende hinne over seg, og arket blir derfor trukket fire ganger ut og inn før utskriften er ferdig. 
+
+Billig i drift 
+
+Siden 120 fotoark med fargebånd koster cirka tre hundrelapper, regner vi oss lett frem til at utskriftskostnadene omtrent havner på to og en halv krone pr. bilde, og det er blant de billigste av de kompakte fotoskriverne vi har testet til nå. 
+Med sublimeringsteknologi er utskriftskostnadene kostante, og ett bånd rekker til 40 bilder; verken mer eller mindre. 
+
+Bytte av bånd er lett som en lek 
+ en luke på siden av skriveren åpnes og en knapp skyves for at det forrige båndet skal sprette ut. 
+Deretter putter du inn det nye, og skriveren er klar til dyst. 
+Arkmateren har plass til 20 ark, og arkene har en avrivbar kant på hver side. 
+
+Når minnekortet så stikkes inn, oppdager skriveren alle bildefiler som ligger der og tilbyr en miniatyrutgave i LCD-displayet. 
+Vi opplevde denne prosessen som noe treg, og skriveren bruker urimelig lang tid til å katalogisere alle bildene. 
+Resultatet er derfor at bildenavigasjonen i begynnelsen bruker så mye som femten sekunder pr. bilde, men etter et par minutter går det på et par-tre sekunder. 
+Fortsatt er det i tregeste laget sammenlignet med hastigheten du får når kortet sitter i et digitalkamera. 
+
+På toppen av skriveren finner vi fire nagivasjonstaster pluss en OK-knapp. 
+På hver side finnes knapper både for zoom inn og ut, meny og tilbakeknapp, samt en stor knapp som setter i gang utskriften. 
+I menyen kan du justere skarphet, farge eller sort/hvitt og lyshet, og du kan angi om du ønsker sidekanter eller om du ønsker en annen størrelse på bildet du skriver ut. 
+Du kan for eksempel skrive ut fire mindre utgaver av bildet på ett ark og deretter skjære/klippe selv. 
+I tillegg har du mulighet til å skrive ut alle bildene. 
+Siden denne typen skrivere først og fremst er ment til bare å stikke inn minnekortet og skrive ut bilder, savner vi litt mer funksjonalitet som fjerning av røde øyne, justering av fargebalanse etc. 
+
+Når du så blar fra bilde til bilde, angir du enkelt og greit med oppover- og nedoverpila hvor mange eksemplarer du ønsker av det gitte bildet. 
+I displayet ser du også det totale antallet bilder du har satt opp til utskriftsjobben, og når du er fornøyd trykker du bare to ganger på printknappen. 
+
+Manuell beskjæring 
+
+Zoomknappene kan brukes til å beskjære bildet slik at du får det utsnittet du ønsker. 
+Lar du være å velge utsnitt selv, vil skriveren selv gjøre jobben. 
+Dersom du da valgte ikke å ha med sidekanter, tar den med så mye den klarer av bildet slik at det passer med 10x15-aspektet. 
+Siden de fleste kameraene tar bilder med 4:3-format, vil du med andre ord oppleve et kutt på toppen og bunnen av bildet, eller så må du ta til takke med hvite kanter og deretter eventuelt skjære til selv. 
+
+Skriveren er forholdsvis rask sammenlignet med andre enheter i denne klassen. 
+Produsenten oppgir utskrifter på en side i minuttet, men vi klokket inn seks av våre testbilder til 7m19s, som betyr cirka 1m13s på hvert bilde. 
+
+Bildekvalitet 
+
+Når det gjelder bildekvalitet, er vi særdeles godt fornøyde med SPP-2040, og på flere av testbildene synes vi det utpeker seg med naturtro fargegjengivelse uten spesielle fargestikk; også på sort/hvitt-bildene. 
+Skarpheten er også veldig bra, og vi ser detaljer i skjeggvekst og lignende elementer som vi ikke ser hos for eksempel Epson PictureMate 500. 
+Vi legger imidlertid merke til at hudfarger noen ganger har en tendens til å bli litt mer rosa enn den burde, men alt i alt er bildekvaliteten på Samsungen blant de beste av kompaktskriverne vi har testet. 
+
+Konklusjon 
+
+Med andre ord har Samsung laget en liten og nett fotoskriver som er billig i drift og skriver gode bilder. 
+Akilleshælen er at den til tider er fryktelig treg uten at vi ikke helt klarer å se mønsteret i dette. 
+Den bruker lang tid første gang minnekortet stikkes inn, og den kan bruke alt fra 2-3 sekunder på å bla bilde for bilde til plutselig å la deg vente i et halvminutt og enda mer. 
+Den har heller ikke noe særlig med finesser utover at du selv kan velge utsnitt og justere fargenivået, men alt i alt likte vi skriveren fra Samsung som noe overraskende viste seg å være på høyde med de mest kjente skriverprodusentene når det gjelder bildekvalitet. 

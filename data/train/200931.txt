@@ -1,0 +1,148 @@
+Slik er Google Chromecast
+Det lille den gjør, gjør den bra. 
+Alt den ikke gjør, savnes sårt. 
+
+Google Chromecast er en liten dings du plugger inn bak TV-en for å spille av videoinnhold fra nettet via mobilen, PC-en eller nettbrettet. 
+Produktet er ennå ikke lansert i Norge, men er likevel å få tak i. 
+I utgangspunktet skal mediespilleren være like billig som den er liten; i USA koster den rundt 250 kroner. 
+Men i Norge koster den mellom 500 og 600 kroner pluss frakt. 
+
+Chromecast markedesfører seg selv med "Alt du elsker, nå på din TV". 
+
+Dette må tas med store klyper salt. 
+Foreløpig gjør den nemlig ikke stort i det hele tatt. 
+
+Først bør du se videoen øverst i artikkelen, hvor vi går gjennom alt Chromecast kan på tre minutter! 
+
+Enkelt oppsett 
+
+Å sette opp Chromecast er gjort på fem minutter. 
+Du setter HDMI-pluggen inn i TV-en, kobler USB-strømkabelen til TV-en eller strømadapteren, og følger instruksjonene på skjermen. 
+Vil du gjøre oppsettet fra Android-mobilen må du laste ned Chromecast-appen fra andre kilder enn Google Play, da den ikke er tilgjengelig i Norge ennå. 
+Det gjorde vi, og det gikk uten problemer. 
+Så lenge Chromecast og dingsen du vil styre den med er koblet på samme nettverk, går det unna i en fei. 
+
+Her ser du hva du får i pakken, fra vår "unboxing"-sak: 
+You need a browser that can handle Iframes to be able to view this page. 
+
+Når du har satt den opp fungerer Chromecast på alle dingsene dine: PC, Mac, Android-mobiler og -nettbrett, iPhone og iPad. 
+Vi testet alle unntatt iPhone. 
+
+Og vips, så kan du gjøre tre ting i Norge: 
+
+Se på Youtube via mobilen, nettbrettet eller PC-en. 
+Se på Netflix via mobilen, nettbrettet eller PC-en. 
+Speile en Chrome-fane fra PC-en. 
+
+Youtube og Netflix fra Android og iPad 
+
+Å se filmer fra Youtube eller Netflix via mobil eller nettbrett på TV-en, er det Chromecast gjør klart best. 
+Støtten for dette ligger i mobilappene, på både iOS og Android. 
+Ikke overraskende støttes ikke Windows Phone. 
+
+Det eneste du trenger å gjøre er å starte innholdet du vil se på og velge Chromecast i en delingsmeny i appen. 
+Etter noen sekunder begynner innholdet å spille på TV-en din i flott HD-kvalitet, potensielt 1080p, og med god lyd, potensielt surround. 
+Dingsen i hånden din blir en fjernkontroll, og du kan finne innhold, spole og styre volum fra mobilen eller nettbrettet. 
+Eventuelt kan du gjøre helt andre ting på mobilen din, mens Chromecast fortsetter å spille av innholdet. 
+
+På Android får du en fin, liten bonus i varslingsmenyen, som alltid viser deg enkle kontroller uten å gå inn i appen som styrer avspillingen. 
+
+Det er ikke så mye mer å si om akkurat dette enn at det fungerer tilnærmet perfekt, både i Android og iOS. 
+Chromecast er like enkel å bruke som en Bluetooth-høyttaler, og de sekundene det tar før innholdet starter på TV-en har vi ikke noe problem med. 
+
+Chromecast sammen med Chrome 
+
+Chromecast kan også brukes sammen med PC-en eller Mac-en din, om du har nettleseren Chrome. 
+
+Youtube og Netflix får den samme delingsknappen i spillerne sine som du finner på mobilen, og å spille innhold herfra fungerer på akkurat samme måte som som fra mobilen. 
+Supert, med andre ord. 
+
+Det som ikke er supert, er speiling av Chrome-faner. 
+Ved å installere et tillegg i nettleseren kan du velge å sende alt innhold fra en fane på PC-en over til Chromecast på TV-en, som i utgangspunktet byr på et hav av muligheter. 
+
+Vi testet blant annet: 
+
+NRK Nett-TV. 
+Fungerer som regel fint. 
+Dropbox.com. 
+Å se på bilder går uten problemer, video fungerer greit. 
+Spotify sin nettspiller: 
+Ser ikke spesielt pent ut på TV-en, men fungerer bra. 
+Gametrailers.com. 
+Av og til hakkete, andre ganger greit. 
+Generell nettsurfing: 
+Det henger et sekund etter det som skjer på PC-skjermen, men så ser vi heller ingen praktisk nytte av akkurat dette. 
+
+Spar tusenlapper i året på å kaste ut tradisjonell TV og gå over til nett-TV! 
+
+Alt i alt er Chrome-speilingen en funksjon som mange kan få glede av, men som burde gitt bedre resultater. 
+
+Mest spent var vi på NRKs nett-TV, som heldigvis går ganske så greit. 
+Men bildet fra speilingen blir aldri så godt som på Netflix og Youtube, uansett hva vi testet. 
+Vi opplever tidvis hakking, tidvis usynkronisert lyd og store variasjoner fra nettsted til nettsted. 
+Det blir bedre med soveroms-iMac-en enn med vår Samsung 9-serie bærbare, trolig på grunn av kablet nett og mer kraft i Mac-en. 
+Så det er en fare for at PC-en og nettverket ditt kan få mye å si for hvor god kvalitet du får. 
+Spilling fra Chrome fungerer nemlig helt annerledes enn spilling fra Youtube og Netflix. 
+I sistnevnte tilfeller er det nemlig Chromecast selv som står for spillingen, mens det under speiling er datamaskinen din, gjennom nettverket. 
+
+Dessuten må du ha videoen i fullskjerm på PC-en om du vil ha den i fullskjerm på TV-en. 
+Det betyr at du ikke får brukt nettleseren din til noe annet mens du spiller videoen, med mindre det er Youtube- eller Netflix-innhold. 
+
+Alt som ikke går 
+
+Du kan ikke speile mobilskjermen til Chromecast, slik man blant annet kan med Apple TV og Airplay (som ikke støtter Android). 
+Du kan heller ikke speile faner fra Chrome på annet enn PC-en. 
+Googles musikk- og videotjeneste Play fungerer med Chromecast, men fungerer ikke i Norge. 
+
+Frister Chromecast? 
+
+(Avsluttet) 
+
+Og du får ikke bøtet på dette ved å spille lokalt lagret innhold. 
+Det støttes nemlig ikke. 
+Å ikke engang kunne se på mobilbildene sine på TV-en virker håpløst på en dings som frontes som mobilens nye bestevenn. 
+Du kan dra filer inn i Chrome på PC-en og speile fanen, men det har vi hatt vekslende hell med. 
+Og amerikanere kan spille egen musikk gjennom Google Play-tjenesten, men som sagt støttes ikke denne i Norge. 
+
+Bruksområdene til Chromecast vil bli utvidet etterhvert som utviklerne får lekt seg med den, og når alle Google Play-tjenestene forhåpentligvis blir tilgjengelige også for oss. 
+Men hvor lang tid dette tar, og hva som blir resultatet, er det ingen som vet. 
+Det eneste vi vet, er at bruksområdene for Chromecast i dag er svært begrensede. 
+Vi savner mest: 
+
+Støtte for lokal musikk, bilder og video. 
+Støtte for flere apper, som HBO. 
+Speiling av Chrome-faner også på mobil og nettbrett. 
+Eller enda bedre: 
+Speiling av hele skjermen, så vi selv kan bestemme hva vi vil vise. 
+
+Hvem trenger Chromecast? 
+
+Selv har vi en Samsung Smart-TV, som dukker opp i Youtube og Netflix på akkurat samme måte som Chromecast. 
+Funksjonaliteten her og på Chromecast er så og si prikk lik, så vi har styrt Youtube og Netflix fra mobilen lenge før Chromecast flyttet inn. 
+Med andre ord: 
+Selv trenger vi ikke en Chromecast. 
+Og da Chromecast foreløpig, i alle fall i Norge, er en dings som trolig blir mest populær hos entusiaster, er dette et paradoks: 
+For det er jo nettopp entusiaster som ofte har nye TV-er som gjør Chromecast unødvendig. 
+Selv synes vi det er enklere å bruke TV-ens innebygde funksjoner enn å gå gjennom Chromecast, og vår har derfor blitt stående ubrukt etter testing. 
+
+Vi håpet at Chromecast skulle bidra med noe mer enn hva TV-er kan fra før. 
+Speiling av Chrome-faner er en slik ting, og på sitt beste er det en god funksjon. 
+Å sette på en film fra NRKs nett-TV på soverommet og se den på TV-en i stua er tipp topp, men vi har ennå ikke kunnet stole 100 prosent på det alltid flyter like glatt. 
+Derfor har vi fortsatt å bruke stue-PC-en vår. 
+
+Hadde Chromecast kostet noen hundrelapper, slik den gjør i USA, kunne den vært et røverkjøp for de som vil gjøre en "dum" TV til en smart-TV. 
+Og for rundt 600 kroner, slik den koster i Norge i dag, er det selvfølgelig en langt billigere løsning enn å kjøpe ny TV eller en egen stue-PC. 
+Men for alle oss som allerede har løsningene på plass, kan den ikke mange nok triks til å fortjene sin egen HDMI-inngang, uansett hvor billig den er. 
+Og med tanke på at Apple TV ligger på rundt samme pris, med langt mer funksjonalitet om du har andre Apple-produkter, blir det desto verre. 
+
+På samme måte: 
+Om Chromecast faktisk brer om seg og blir "Androids Airplay", kan den raskt bli et må-ha-produkt for Android-brukere, slik Apple TV er for mange Apple-brukere i dag. 
+Men da må den klare helt banale ting som å vise bilder, spille av din egen musikk og støtte mer enn to apper fra mobilen. 
+At Chromecast er flink på Youtube og Netflix veier ikke opp for alt den ikke kan. 
+
+Derfor er Chromecast milevis fra å leve opp til slagordet "Alt du elsker, nå på din TV". 
+Et mer ærlig slagord ville vært noe sånt som "Litt av det du elsker, som du trolig har på TV-en din fra før". 
+
+Takk til Multicom for utlån av Chromecast til test i DinSide 
+
+Google Chromecast 

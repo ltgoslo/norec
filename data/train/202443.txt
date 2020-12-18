@@ -1,0 +1,134 @@
+Asus EEE Pad Transformer
+Nettbrettet med et ess i ermet – medfølgende tastatur. 
+
+Det er først nå vi får inntoget av nettbrettene som kjører Honeycomb-utgaven av Android; en versjon av Googles operativsystem tilpasset store skjermer og oppløsninger. 
+
+Vi har tidligere sett på Motorola Xoom, forleden dag var Acer Iconia A500 med i DinSides test av nettbrett og senere i sommer står blant andre Samsung og LG klare med sine Honeycomb-nettbrett; henholdsvis i juli og juni. 
+
+Felles for de Honeycomb-nettbrettene vi har sett til nå, er at de alle kjører "ren" Android med svært små modifikasjoner, i motsetning til Android 2.x-telefonene, der nesten alle produsenter fikser på grensesnittet som ligger på toppen, og noen ganger også under overflaten. 
+I tillegg er de maskinvaremessig ganske like – stort sett har de samme prosessor, minnestørrelse, skjermstørrelse/-oppløsning etc., som i utgangspunktet gjør det litt vanskelig å skille seg ut. 
+
+Men – er det ett brett som skiller seg ut, så er det Asus EEE Pad Transformer, som kan kjøpes med et tilhørende tastatur som ikke bare gjør nettbrettet til et bedre arbeidsverktøy, men som også har et solid batteri innabords, samt USB-porter, styreflate og SD-kortleser. 
+
+Vi drar som vanlig igjennom de tekniske spesifikasjonene: 
+
+Tekniske spesifikasjoner, Asus EEE Pad Transformer 
+
+Skjermstørrelse: 10,1"Skjermtype: 
+LED-bakbelyst IPS-panelSkjermoppløsning: 
+1280x800 (16:10)Android-versjon: v3.0 (Honeycomb), 3.1 i juniProsessor: NVIDIA Tegra 2 (1GHz, dobbeltkjerne)Minne (RAM): 1GBMinne (internt): 
+16GB/32GBMinnekort: 
+Micro SD (+ SDHC på tastatur-delen)Tilkoblinger: 3,5mm (til hodetelefoner og/eller mikrofon), mini HDMI, strøm/dock – på tastatur: 2x USB, SDHC, strømTrådløst: WLAN 802.11b/g/n, Bluetooth v2.1+EDR, GPS (ikke 3G)Kamera: 5Mp (bak) + 1,3Mp (front)Mål: 27x17x1,3cmVekt: 680 gram (drøye 1,3kg med tastatur)Batteri: 
+3300mAh (kun brettet)Pris: 32GB ca 4.000,- / 16GB og tastatur ca 4500,- 
+
+Pen design 
+
+Vi liker godt designen på Transformer, som med sin bronsefarge skiller seg litt ut fra resten av markedet. 
+Baksiden har en ru overflate som gjør at den aldri sklir ut av hånda, og kurveformen på baksiden har mye til felles med iPad, selv om materialet i all hovedsak er i plast. 
+
+Til tross for at hjemmeskjermen i Honeycomb lar seg rotere hvis du snur nettbrettet 90 grader, er det ingen tvil om at Transformer i utgangspunktet er designet for landskapsmodus. 
+Volumknappene (og av/på-knappen) ligger på en av kortsidene, og strømkabel/dock er plassert midt på langsiden, med to ekstra åpninger slik at kontakten mellom nettbrett og tastaturdock blir mer solid. 
+På motsatt kortside finner du uttak til hodetelefon, mini HDMI-port og en åpning for micro SD-minnekort. 
+
+Skjermen har god skarphet (1280x800 piksler) og tekst på nettsider fremstår svært skarp og lettlest. 
+Side-om-side med andre nettbrett, ser vi også at hvitt fremstår svært fargenøytralt, der for eksempel iPad har et langt mer markant gulstikk enn nettbrettet fra Asus. 
+Innsynsvinkelen er dog ikke like god sammenlignet med iPad, og Transformer er derfor ikke like godt egnet når flere skal se film samtidig. 
+
+Meget god tastaturløsning 
+
+Som nevnt er det tastaturet som gjør Transformer unik, for docket i det tilhørende tastaturet (kan kjøpes separat eller i pakkeløsning med 16GB-utgaven) blir enheten plutselig til en "bærbar PC" med svært god batterilevetid (16t oppgitt). 
+Måten dette fungerer på er at du setter nettbrettet i et spor, hvorpå en lås automatisk flippes til siden. 
+Denne må du så skyve til motsatt side dersom du vil løsne det fra tastaturet igjen. 
+Det skal sies at vi finner denne mekanismen noe tung - det krever både presisjon og litt kraft for å få den til å sitte som den skal, noe som er lettere når tastaturet står på et skrivebord enn når du har det på fanget. 
+
+Positivt er det imidlertid at tastaturet, i hvert fall til en viss grad, er tilpasset Android. 
+Her får du dedikerte knapper for hjem, søk, wifi av/på, volum, innstillinger, lysstyrke etc., slik at du i utgangspunktet slipper å trykke på skjermen. 
+Og ikke bare det – tastaturet har også en styreflate og musknapper, og når du kobler det til får du derfor også en muspeker på skjermen som fungerer akkurat som forventet. 
+Legg til at styreflaten også støtter multitouch der du f.eks. kan dra to fingre til siden for å bytte hjemmeskjerm, så er dette faktisk en utmerket løsning. 
+
+Det skal sies at visse ting henger igjen fra Windows-verdenen, der blant annet krøllalfategnet stadig befinner seg bak alt gr+2 etc. 
+– i dagens epost- og Twitter-verden synes vi godt @ kunne ha vært en egen knapp. 
+At tastaturet har f.eks. ctrl-knapp finner vi også litt snodig i Android-verden, men her virker det som om Asus har tenkt på Windows-brukerne, der ctrl+t åpner en ny fane i nettleseren, ctrl+a merker all tekst osv. 
+Helt 100% er det ikke – for eksempel kan du ikke bruke piltaster for å skrolle en nettside, men for undertegendes del skjer det med to fingre på styreflaten uansett. 
+
+Vår testmodell har ikke nordisk tastatur, men Android lar seg uansett tilpasse softwaremessig slik at norske bokstaver kan skrives også med det fysiske tastaturet. 
+Når du kobler brettet til eller fra tastaturet, dukker det opp en dialogboks der du velger hvilken tastaturlayout du vil bruke. 
+Tilkoblingen til tastaturet gjør også at enheten slår seg av og på når du henholdsvis klapper og åpner lokket; litt på samme måte som smartcoveret på iPad 2, altså. 
+
+Brukskomforten til tastaturet er helt OK, men gir et visst "minibærbar"-preg, der både bredden og knappene er noe mindre enn et vanlig bærbar-PC-tastatur, og storfingrede vil muligens synes det blir litt for smått. 
+
+USB og minnekortleser 
+
+Kjøper du utgaven med tastaturet får du også 2 USB-porter, samt SD-kortleser. 
+Fremover vil Android få bred USB-støtte, slik at du f.eks. kan bruke Xbox 360-kontrolleren for å spille spill, eller koble på en ekstern mus om du vil. 
+Da vi koblet til en kortleser med SD-kort (strengt tatt ikke nødvendig siden den har SD-kortleser, men bare for å prøve), dukket enheten sporenstreks opp og var klar til dyst på få sekunder. 
+Så er det bare å navigere i filstrukturen, merke filer og kopiere dem rett inn på det interne lagringsminnet. 
+Det tok ca ett minutt å kopiere rundt 1GB med videofiler, som gir en hastighet på rundt 15MB/s. 
+
+Riktignok tok det litt tid før vi fant et sted i filstrukturen der vi faktisk hadde skriverettigheter (mappen heter SDCARD selv om vi ikke hadde satt i noe micro SD-kort), og akkurat her kunne Asus gjerne ha laget en egen applikasjon slik at det blir litt enklere for den jevne forbruker å gjøre slike ting. 
+
+Se bilder av Asus EEE Pad Transformer: 
+
+Små modifikasjoner 
+
+Til tross for at EEE Transformer kjører en ganske uendret versjon av Android 3.0, er det noen småting Asus har gjort med operativsystemet. 
+Blant annet er ikonene for tilbake, hjem, meny etc (nederste linje) endret til det bedre i våre øyne, fargene er noe annerledes og Asus har også laget noen pene, tekstbaserte widgets både med tanke på vær, ulest epost etc. 
+
+I tillegg får vi med noen apps: 
+
+MyLibrary - Applikasjon for å lese ebøker/aviser. 
+Du kan sette bokmerker i ebøker for å finne tilbake lettere (boka åpner seg også på samme sted som der du var sist), og det er mulig å søke, samt få teksten lest opp. 
+Avisene leses via PressReader, som også har en håndfull norske aviser å by på, og de 1280 pikslene i høyden kommer godt med når du vil lese papiraviser i stort format (og til nettsurfing, selvsagt). 
+
+MittNett 
+- Litt norsk og engelsk om hverandre her, altså – MittNett er en norsktilpasset DLNA-app som lar deg dele eller spille av musikk, bilder og film til og fra andre DLNA-kompatible enheter i samme trådløse nettverk. 
+Det fungerte aldeles strålende da vi testet. 
+
+MyCloud 
+- Tilbake til engelsk igjen – med MyCloud får du tre tjenester i én: 
+MyContent gir deg ubegrenset lagringsplass hos Asus (gratis det første året) slik at innholdet er tilgjengelig fra flere enheter, enten via Windows-programvare eller direkte fra web. MyDesktop lar deg installere tilhørende programvare på Windows eller OSX slik at PC-en din kan fjernstyres direkte fra nettbrettet (bruker løsningen SplashTop Remote, som også er tilgjengelig i Android Market) og @Vibe; en nettradio/musikktjeneste som leveres fra Aupeo; litt a la Last.fm der du velger en artist eller sang som utgangspunkt for deretter å streame "relatert" musikk. 
+
+I tillegg følger fullversjonen av Polaris Office med, der du både kan lese eller opprette Word, Excel og Powerpoint-filer. 
+For de som er interessert, kan vi også nevne at hele 12,5GB er tilgjengelig til intern lagring av apps på 16GB-utgaven. 
+
+Snart Android v3.1 
+
+Vi går ikke veldig i detalj rundt Android 3.0 denne gangen, men må allikevel trekke frem at Honeycomb foreløpig er litt ruskete, der vi litt oftere enn ønskelig opplever at applikasjoner avslutter av seg selv (eksempelvis slet vi lenge med å få kameraapplikasjonen til å starte), og det er selvsagt med på å trekke ned helhetsinntrykket. 
+
+I kontakt med Asus får vi midlertid beskjed om at 3.1-oppdateringen blir å finne på EEE Transformer allerede i juni, og ut fra våre erfaringer med v3.1 på Xoom-brettet er det gjort en rekke forbedringer både med tanke på ytelse, funksjonalitet og stabilitet der. 
+
+Vi håper også at Google snart får tilpasset Android Market slik at det blir lettere å se hvilke apps som er tilpasset nettbrett, og foreløpig må man lese artikler som de 10 beste Honeycomb-appene for å finne frem til godbitene. 
+Mens noen apps skalerer bra til den økte skjermstørrelsen/-oppløsningen, gjelder det slett ikke alle. 
+
+2 kameraer, men ... 
+
+Ja, EEE Transformer har to kameraer. 
+Nei, de er ikke gode. 
+Vi kunne ha satt punktum der, men la oss legge ved et 100%-utsnitt fra et bilde tatt på et lyst møterom med bakkameraet, så skjønner du hva du har å regne med. 
+Samtidig skal det nevnes at nettbrett neppe er førstevalget når du skal knipse bilder? 
+
+En ting vi dog savner, er muligheten til å stikke i et SIM-kort og bruke 3G-nettet. 
+Transformer selges ikke i 3G-versjon, så her må du i så fall bruke mobiltelefonen som en trådløs hotspot hvis du er på farten; noe som blant annet støttes i siste utgave av iOS, samt Android v2.2 (Froyo) og høyere. 
+
+Ellers er vi godt fornøyde med hastigheten på Transformer – de første Honeycomb-brettene har ganske lik maskinvare, og selv om hjemmeskjermen ikke går helt flytende når du legger på for mange widgets, starter applikasjoner kjapt og oppleves generelt som responsiv. 
+Surfeopplevelsen er også helt OK, selv om nettsider med flash hikker litt mer enn de gjør på f.eks. Samsung Galaxy S II, og i likhet med andre Android-brett viser foreløpig de fleste nettsider mobilversjonen når du åpner dem. 
+Fyrer vi opp Angry Birds Rio går alt imidlertid så flytende og fint – som forventet. 
+
+Videostøtten ut av boksen er imidlertid ikke spesielt god. 
+Med en spiller som Rockplayer eller Moboplayer får du spilt av filer i en del formater, men nesten samtlige går hakkete uten synk på bilde og lyd, og skal du se film er det H.264/MP4-formatet som gjelder. 
+Vi klarte imidlertid ikke å få vårt testklipp i 1080p til å gå 100% flytende, så 720p er heller å anbefale (også fordi du da slipper nedskalering av bildet). 
+
+Konklusjon 
+
+Vi liker EEE Pad Transformer. 
+Tastaturløsningen gjør denne enheten unik i et tett marked, for ikke bare får du mulighet til å skrive på et fysisk tastatur; det gjør også at du får SD-kortleser, 2x USB-porter, styreflate og dobbelt batterilevetid. 
+
+En lang dag (ti timer) på konferanse med relativt mye (men lett) bruk (og push-epost aktivert) gjorde at batteriet i selve brettet så vidt var påbegynt etter endt dag, og det gjør EEE Transformer godt egnet også som arbeidsverktøy; spesielt med tanke på at det, som andre nettbrett, er klar til dyst umiddelbart. 
+
+Transformer har i tillegg en skarp og fin skjerm med god fargebalanse og nøytralt hvitnivå, og bronsefinishen skiller seg positivt ut utseendemessig. 
+Det vi først og fremst savner er 3G-støtte, i tillegg til at Honeycomb-utgaven av Android fortsatt ikke er helt 100%, der det blant annet er vanskelig å finne hvilke apps som er tilpasset nettbrett, og der vi litt for ofte opplever at programmer må startes på ny o.l. 
+Det regner vi uansett med at blir mer stabilt i versjon 3.1. 
+
+Drepte Asus akkurat den minibærbare PC-en? 
+
+Asus Eee Pad Transformer TF101 with Keyboard Dock 16GB 

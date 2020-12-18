@@ -1,0 +1,104 @@
+Sony Ericsson W800i
+TEST: 
+Fremtidens Walkman er her, og den har telefon, kamera, radio og mye mer. 
+Vi har tatt et dypdykk i W800i fra Sony Ericsson. 
+
+Med merkenavnet "Walkman" skapte Sony et begrep som ble ensbetydende med en spesiell type produkter - kassettspillere i lommeformat. 
+Det er det få andre produsenter som har klart, med unntak av Xerox og noen få andre (Xerox = kopimaskin i USA). 
+Rettighetene til å bruke Walkman-navnet har imidlertid ingen andre enn Sony selv, og nå videreføres benevnelsen til en helt annen produktfamilie; mobiltelefoner. 
+
+Først ut 
+
+W800i er første telefon i Sony Ericssons nye Walkman-serie. 
+Senere i høst kommer den litt enklere lillebroren W550i. 
+Telefonen bygger på suksessmodellen K750i, men har fått friskere farger, forbedret programvare for musikkavspilling, egne knapper for aktivering av musikkavspilling, samt øretelefoner optimalisert for musikkopplevelser. 
+Dessuten leveres den med 512 MB minnekort, nok til rudnt 10 timer med musikk i god MP3-kvalitet. 
+
+Men før vi snakker mer om musikkfunksjonene, skal vi ta en titt på de øvrige viktige spesifikasjonene: 
+
+Sony Ericsson W800i: 
+Mål: 100 x 46 x 20,5 mm Vekt: 101 gram Skjerm: 172 x 220 piksler, 262.000 farger Minne: 34 MB innebygd + 512 MB MemoryStick Duo minnekort (Pro støttes også) Musikkavspiller for AAC/M4A og MP3-formater 2 megapiksels kamera med lys og autofokus (1.632x1.224 piksler), 4x digital zoom Videoopptak 176 x 144 piksler RDS-radio Polyfonisk lyd, 40 stemmer Nett: GSM 1800, 1900, 900 Kommunikasjon: USB (2.0 Full Speed), iR og Bluetooth 
+
+Telefonen kan altså kommunisere over alle tre GSM-båndene, men støtter verken 3G eller Edge, noe vi faktisk begynner å forvente nå. 
+Vi reagerer også på at den ikke støtter USB 2.0 HiSpeed, noe som i praksis gjør overføringen av musikkfiler til en tidkrevende affære. 
+For øvrig er dette en meget godt spesifisert telefon, og sett i lys av størrelsen ligger den helt i toppen av hva du kan få i skrivende stund. 
+
+Gjennomtenkt utforming 
+
+W800i har den samme størrelsen og velkjente utformingen som ble introdusert med 2003-modellen T610. 
+Vi vil imidlertid påpeke at det er gjort en del smarte forbedringer siden den gang. 
+Tastene er flate, men samtidig faste og gir kontant respons. 
+I mørke bakgrunnsbelyses de med oransje lys. 
+Er du glad i å skrive tekstmeldinger vil du neppe få problemer, det måtte i tilfelle være i blinde, siden tre og tre taster ligger tett inntil hverandre horisontalt, uten markante skiller. 
+
+Skjermen er klar og fin også utendørs i skarpt lys, og tekst og symboler er kontraststerke og vanskelig å misforstå. 
+Har du brukt nyere Sony Ericsson-telefoner vil du neppe ha problemer med å navigere deg rundt i menysystemet. 
+Vi merker oss at det er, i likhet med K750i, litt flere animasjoner og langt raskere respons enn K700i og eldre modeller. 
+
+Lommelykt med SOS-signal 
+
+Baksiden av telefonen er viet kameralinse og lys. 
+Lyset er meget kraftig, men som blitserstatter duger den ikke på mer enn maks 2 meters avstand, naturligvis avhengig av hvor mørkt det er. 
+Mer interessant er det at du kan bruke den som en enkel lommelykt, og til å blinke SOS hvis du skulle være så uheldig å havne i havsnød eller lignende, uten mobildekning. 
+
+Dypdykk i musikkfunksjonene 
+
+Vi kommer ikke utenom en grundig gjennomgang av musikkegenskapene i en test av telefon med Walkman-stempel. 
+Det første vi merker oss er at telefonen kommer med spesialkabel mellom telefon og plugg til øretelefonene. 
+Pluggen har innebygd mikrofon, og sammen med de medfølgende øreproppene har du dermed en handsfree-løsning. 
+Pluggen er imidlertid standard minijack, og dermed er det fritt fram for å bruke andre, bedre øretelefoner dersom du ønsker det. 
+Når det er sagt, må vi poengtere at lyden fra de medfølgende øreproppene er fyldig og god, og de har dessutenen utforming som gjør at de passer bedre i ørene og stenger ute lyder fra omgivelsene bedre enn de fleste andre øreproppeløsningene vi har prøvd tidligere. 
+Lyden er også mulig å justere høyt nok til de fleste aktiviteter. 
+
+W800i kommer med det brukervennlige programmet Disc2Phone, som lar deg rippe musikk til PCen/Macen og overføre musikken videre til telefonen. 
+Du kan også overføre musikken på annen måte, for eksempel via Windows Utforsker (telefonen dukker opp som egen stasjon), men må da passe på at filene ligger i riktig mappe, og følger denne oppbygningen MP3\Artist\album\fil.mp3. 
+Hvis ikke blir de ikke oppdaget av avspillingsprogramvaren på telefonen. 
+
+Telefonen støtter formatene MP3 og AAC/M4A. 
+Sistnevnte brukes blant annet av iTunes-avspilleren, men kryptert musikk kjøpt i iTunes Music Store støttes ikke. 
+Støtte for plassbesparende AACplus/HE AAC er dessuten fraværende, dessverre. 
+Og hvor ble det forresten av Sonys proprietære Atrac3-format? 
+
+Spillelister kan opprettes på telefonen, og du kan sette avspillingsrekkefølgen til tilfeldig, og repetere én eller alle sporene i en mappe eller spillelisten i sin helhet. 
+Det burde være dekkende for de flestes behov. 
+Innfallsvinklene til musikken er enten via artist, spor eller spillelste. 
+Avspilleren tar seg også av videoklipp. 
+
+Navigering gjør du enklest ved hjelp av den trykkfølsomme joysticken. 
+Ved å skyve og holde til venstre og høyre kan du spole i sangene. 
+
+Det hele er faktisk overraskende enkelt og oversiktlig. 
+Vi ble også positivt overrasket over at Sony har valgt en annen overføringsmetode enn via deres velkjente (og beryktede)SonicStage programvare. 
+Mindre positive er vi til at det hele må skje via USB 2.0 Full Speed, som i praksis har samme overføringshastighet som aldrende USB 1.1. 
+Det frister heller ikke å ta ut minnekortet og sette det i en leser hver gang man skal fylle på frisk musikk, først og fremst er gummidekslet omtrent umulig å få opp dersom du ikke har lange negler, deretter er det nesten vanskeligere å få minnekortet ut - for fingrene på en normal voksen mannehånd. 
+
+God batterilevetid 
+
+Batterilevetid er alltid er spørsmål på musikkspillere, her er den respektable 15 timer dersom den brukes i telefonmodus, eller hele 30 timer dersom du setter telefonen i en egen musikkmodus. 
+Men da må du klare deg uten telefoni. 
+
+RDS-radioen kan kun merkelig nok kun aktiveres i telefonmodus. 
+Den støtter sereo og fungerer greit i bystrøk, men hvorfor vises ikke kanalnavnene automatisk? 
+Inntil 20 frekvenses kan forhåndslagres, og du kan riktig nok legge inn kanalnavn manuelt i ettertid. 
+
+Fortsatt beste bildekvalitet 
+
+Når det gjelder kamerakvaliteten, står vi fortsatt ved at denne telefonen, sammen med K750i, representerer det beste du kan få i skrivende stund, i hvert fall på vårt hjemlige telefonmarked, selv om det fortsatt er en god vei til mobiltelefonen kan erstatte det digitale lommekameraet ditt. 
+
+Oppløsningen er utradisjonelle 1.632x1.224 piksler, som skulle tilsi omtrent 2 megapiksler. 
+Brennvidden er fast på 4,8 mm og lysstyrken er F2,8. 
+Sistnevnte er som på de fleste digitale kompaktkameraer, og dermed ligger det meste til rette for å få brukbare bilder i god belysning, først og fremst utendørs. 
+Men hastigheten er fortsatt til å grine av, sammenlignet med rene digitale lommekamaer. 
+Her er du avhengig av god tålmodighet og en solid porsjon flaks for å fange blinkskuddene, omtrent som digitalkameraentusiaster anno 2001. 
+
+Vi har tatt noen nye bilder, du finner dem her. 
+Sjekk også bildene tatt med K750i, som har samme kameraløsning. 
+
+Konklusjon 
+
+Joda, Sony Ericsson W800i svarer langt på vei til forventningene våre. 
+Vi ble positivt overrasket over den gode lydkvaliteten, brukervennligheten til overføringsprogrammet på PCen, og musikkavspilleren på telefonen. 
+Funksjonene og brukervennligheten for øvrig står til Meget pluss. 
+
+Treg overføring, ingen Edge/3G-støtte, kronglete bytte av minnekort, og et stort forbedringspotensiale når det gjelder kamerahastighet, står på siden for ting vi ikke var fullt så glade for. 
+Men alt i alt et vellykket produkt med meget høy gadget-faktor. 

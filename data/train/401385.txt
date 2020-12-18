@@ -1,0 +1,47 @@
+Overview of most mulitmedia elements in Aftenposten
+This is an overview of multimedia elements that are generated as html intergrations (API-links) in SMP in Aftenposten. 
+At the end there is a link to a typical special feature which probably needs to be renderes fully webview. 
+
+Grade 
+
+This is a scale from 1 to 6. 
+
+Animated messages: desk format 
+
+Example article where this is used in production: https://www.aftenposten.no/amagasinet/Meldingene-fra-Utoya-585194b.html 
+
+Animated messages: SMS-format 
+
+Poll 
+
+This is an integration to do polls in the article. 
+
+SPELT/PELT 
+
+A SPELT/PELT is a manually curated related link box/slideshow 
+
+Datawrapper 
+
+Exernal tool used to create graphic data presentations. 
+
+Table 
+
+Interactive maps 
+
+Examples in production: 
+
+Contributions from readers 
+
+Pre-moderated contrubitions. 
+Each contribution has its own embed code. 
+
+SOME-links 
+
+Live blog 
+
+The special 
+
+The typical long story that has extra visual elements. 
+These stories are typically the most valuable. 
+
+Example: https://www.aftenposten.no/amagasinet/i/l1zaQM/Dette-er-de-norske-nettovergriperne 

@@ -1,0 +1,157 @@
+Huawei U8230
+En Android 2.1-telefon til under 2 000 kroner. 
+Har de kuttet for mange kostnader? 
+
+Det begynner å bli et solid utvalg av Android-telefoner - og meget gode som sådan. 
+
+Vår garvede mobiljournalist Thomas Marinowsky testet for eksempel Android-telefonen HTC Desire nylig. 
+Dommen ble at telefonen sannsynligvis er den beste på markedet i dag , og terningen landet på en sekser. 
+Flere nettbutikker selger HTC Desire uten abonnement for litt over 4 000 kroner. 
+
+Den kinesiske telegiganten Huawei, som er store innenfor mobilmaster og annen infrastruktur, satser nå stort på mobilmarkedet, og har Norge som et av sine satsingsområder. 
+Først ut er en billig smarttelefon. 
+Vi har testet Huawei U8230, som koster omtrent halvparten av hva Desire koster, men som er basert rundt samme Android-versjon, nærmere bestemt 2.1. 
+
+Er billig godt nok, eller har det å presse prisen altfor langt ned sin ... eh, pris? 
+
+Harde fakta 
+
+- TFT 320x480 kapasitiv berøringsskjerm (ikke multi-touch) - 116mm lang ×62.5mm bred ×13.6mm tykk - Android 2.1 med Huawei Emotion Skin - Vekt: 
+135 gram 
+- Standard micro-USB - 3,2 megapixler-kamera - 256 megabyte RAM - 192 megabyte intern lagringsminne, kan utvides til 16 gigabyte med micro-SD - Qualcomm MSM7200A 528 MHz-prosessor 
+
+Utseende og førsteinntrykk 
+
+Telefonen er i hvit plast, med en sort ramme rundt skjermen. 
+Foran er det knapper for å ta og legge på røret, en meny-knapp og en tilbake-knapp. 
+I midten er det plassert et styrehjul. 
+Huawei har også fått plass til et lite kamera foran. 
+
+På høyre side er det volum- og en kameraknapp, på venstre side er det av/på-knapp og en inngang for micro-SD. 
+Bak er det hovedkamera og høyttaler. 
+På toppen har Huawei plassert inngang for øreplugger og USB-kabel. 
+Mer om dette lenger ned i artikkelen. 
+
+Plassert ved siden av HTC Desire kommer ikke Huawei veldig godt ut. 
+Telefonen er kun tilgjengelig i hvitt, og den hvite plasten stikker etter vår mening litt i øyet. 
+Et billig-preg kanskje, men dette er imidlertid helt subjektivt, og vurderer du å kjøpe denne telefonen er det noe du må avgjøre selv. 
+
+Telefonen kommer med Android 2.1 og Huawei Emotion Skin - en slags grafisk utvidelse på toppen av Android. 
+På et par områder virker det som om Huawei har slurvet litt med grensesnittet. 
+«Velkommen til oppsett av e-post! 
+BREAK_0BREAK_1» er et eksempel på småfeil som kan dukke opp. 
+Djevelen er i detaljene, og ting som dette får telefonen til å virke lite gjennomført. 
+Enkelte steder er menyvalgene også så lange at du ikke kan lese hvilke innstillinger du aktiverer/deaktiverer uten å snu telefonen i landskapsmodus. 
+
+Bildet over er tatt i Huaweis e-postapplikasjon. 
+I tillegg følger det med en GMail-applikasjon og et program som heter RoadSync for å koble seg til exchange-kontoer. 
+Tre e-postapplikasjoner til en telefon? 
+Som standard? 
+Det er greit med valgfrihet, men dette er å overdrive. 
+
+Huaweis Emotion Skin er heller ikke i nærheten av HTCs meget lekre Sense, men med maskinvaren i U8230 ville det vært katastrofalt å prøve seg på noe slikt. 
+Aktive bakgrunner, Androids navn på animerte bakgrunnsbilder, kan du bare glemme, det er den ikke kraftig nok til å fikse. 
+
+Det er litt irriterende at produsenter på død og liv må lansere egne skall som det ikke er mulig å fjerne på en offisiell måte. 
+Installerer du en annen SMS-applikasjon enn den offisielle, kan du ikke fjerne den Huawei har plassert nederst på hjem-skjermen din uten å gå gjennom en kronglete prosess som kalles å roote telefonen og installere en «ren» Android-versjon. 
+Rimelig uaktuelt for menigmann. 
+
+I bruk 
+
+Det første du legger merke til når du bruker U8230 er at den ikke har tatt for mye Møllers tran - det lugger, og til tider kan det bli ille. 
+Det kan gå over et sekund fra du skrur på skjermen til den vises. 
+Meny-animasjoner hakker merkbart og noen ganger reagerer ikke skjermen på berøring før det har gått et par sekunder. 
+
+Legger du den ved siden av Desire og sveiper fingeren for å bla nedover i menyen blir det veldig tydelig 
+- Desire sklir elegant avgårde mens U8230 kommer humpende etter. 
+Tregheten gjør at bruksopplevelsen senkes mange hakk. 
+Det går som sagt tregt når man blar i menyer, men da vi testet spillet Robo Defense fungerte det like bra på U8230 som på Desire. 
+Det kommer helt an på situasjonen, med andre ord. 
+
+Surfing bør du helst gjøre på nettsider som har en egen mobilversjon. 
+Siden det ikke er multi-touch, er det to egne zoom-knapper på skjermen som du må bruke for å zoome inn - og det kan gå treeeeegt. 
+Det er også vanskelig å lese tekst før du zoomer ordentlig inn, på grunn av den lave oppløsningen. 
+Surfeopplevelsen på U8230 er noe begrenset, noe du kan se i videoen under, der vi sammenligner Desire og U8230: 
+
+Begge telefonene er på det samme trådløse nettverket. 
+Legg merke til hvor tregt det går å surfe med U8230. 
+
+Batterilevetiden er som på smart-telefoner flest. 
+Bruker du den mye må du regne med å lade den hver kveld, slik at du er sikker på at du har nok til neste dag. 
+På Huawei U8230 holder batteriet litt over et døgn ved vanlig bruk. 
+
+I Android kan du bla nord, sør, øst og vest og plassere ulike widgets, eller snarveier til innstillinger eller applikasjoner. 
+Android har blant annet en widget som lar deg skru av og på WiFi, GPS, synkronisering, bluetooth og stille lysstyrken på skjermen med ett trykk. 
+Dette burde være like enkelt på andre smart-telefoner! 
+
+Billig-skjerm 
+
+Man merker også fort at skjermen ikke er verdens beste. 
+Det er mye vanskeligere å skrive tekstmeldinger enn på for eksempel iPhone eller Desire. 
+Staveprogramvaren som følger med kan være overivrig i bruk. 
+Skriver man fort uten å følge med ender man opp med helt andre, og mye lengre ord enn det man var ute etter. 
+De har også gått for et litt merkelig kompromiss hva tastatur angår: det var plass til bokstaven æ, men ikke ø og å. 
+Man må holde inne a eller o for å kunne velge ø og å. 
+Heller ikke i landskapsmodus får man opp disse bokstavene. 
+
+Det er mulig å skru på en funksjon som lar deg sveipe fingeren nedover på en tast for å velge et tegn, hvorfor kunne ikke de to siste bokstavene i alfabetet vært der? 
+Jeg bruker dem oftere enn jeg bruker parantes (helt sant). 
+
+Snur man telefonen på siden til landskapsmodus blir det bedre, men her får man lide for at det ikke er en multi-touchskjerm. 
+Skriver du veldig fort vil du oppdage at den ikke rekker å registrere alle trykkene, slik at du må skrive saktere for at telefonen skal få med seg alt. 
+Det blir litt som kappgang - for å komme seg raskt fram lønner det seg å ikke ha begge beina i bakken på en gang. 
+
+Med det sagt kan du skru på vibrasjonfeedback - slik at det vibrerer forsiktig hver gang du skriver en bokstav, og når du ringer noen og de tar telefonen. 
+Det aner oss at ikke alle vil sette like mye pris på dette, men vi liker det svært godt. 
+
+Ødelegger for seg selv 
+
+En ting er sikkert - U8230 er ikke en musikk-mobil. 
+
+Det mest irriterende med denne telefonen er nemlig at den bare har 2,5 millimeter jack-inngang. 
+En vanlig jack-plugg er på 3,5 millimeter. 
+Altså vil du ikke kunne bruke egne hodetelefoner eller øreplugger, med mindre du benytter overgang, sitter på en stor samling som passer til telefonen eller bruker pluggene som følger med - forstå det den som kan. 
+
+Som om ikke det er nok er den gjemt bak et lite deksel sammen med USB-kontakten, og du må knote for å få den opp. 
+Handsfree-enheten og ørepluggene som følger med er gode nok til å føre en samtale, men ikke stort mer enn det. 
+
+At det skal være mulig å bruke telefonen som MP3-spiller bør man kunne forvente i 2010. 
+En mulig løsning er selvsagt å bruke et adapter, men det burde virkelig ikke være nødvendig. 
+
+Styrehjulet, eller ballen om du vil, i midten av knappene fremstår for oss som helt meningsløs. 
+Du kan bruke den, men det er utrolig tungvint. 
+Dersom du blar i applikasjonsmenyen hopper den en applikasjon om gangen istedet for at man bare blar nedover med tommelen og trykker på den applikasjonen man skal åpne. 
+For å si det på en annen måte; hva skal du med det når det ligger en 3,5 tommers berøringsskjerm en centimeter fra der du har tommelen din? 
+
+Bilder 
+
+Selv om telefonen har en egen kameraknapp på siden er det ikke den du bruker til å ta bilder - den brukes kun til å sette fokus - for å ta bilde må du trykke på en knapp på skjermen. 
+Videoopptak kan du starte med kameraknappen som er på siden. 
+
+Selv om det er plassert et kamera på forsiden, følger det ikke med noe program som lar deg bruke det - til annet enn å ta et lavoppløselig bilde av seg selv. 
+
+Her er en bildeserie tatt med telefonen: 
+
+Kameraet ter seg som et mobilkamera. 
+Du får helt OK kvalitet, men jeg ville ikke latt kompaktkameraet ligge hjemme. 
+Video-kvaliteten er heller ikke noe som får videokamera-produsentene til å skjelve i buksa. 
+
+Øverst er et bilde tatt med U8230, under er et bilde tatt med Desire. 
+Husk at du kan klikke på lenken under bildene for å se dem i full størrelse: 
+
+Litt dårligere kvalitet og mer glorete farger på U8230. 
+Men kameraet kan som sagt brukes til enklere ting. 
+
+Konklusjon 
+
+Det er bra at det kommer billige Android-telefoner. 
+Det er bra at noen presser på pris. 
+Men Huawei bommer etter vår mening litt. 
+De har sluppet en smart-mobil som åpenbart er for treg for sitt eget operativsystem, de har slurvet med grensesnittet og de har valgt noen merkelige løsninger, for eksempel kameraknappen som er autofokus-knapp. 
+
+Spikeren i kista er en 2,5 millimeters jackplugg (en vanlig er på 3,5 millimeter) som attpåtil er gjemt bak et knotete panel. 
+
+Ja, du kan ringe med den og lese e-post, men du vil alltid irritere deg over hvor treg den er samtidig som det blir trangt i lomma - du må jo ha med egen MP3-spiller. 
+
+Telefonen koster riktignok halvparten så mye som Desire, og er litt under halvparten så god. 
+Terningen lander derfor på en sterk toer. 

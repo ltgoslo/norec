@@ -1,0 +1,140 @@
+Nikon CoolPixP3 
+
+CoolPix 
+P3 er Nikons tyngste modell når det gjelder lommekameraer og byr på åtte megapiksler, bildestabilisator og trådløst nettverk. 
+Vi har testet! 
+
+De senere ukene har vi testet flere av de nye CoolPix-kameraen fra Nikon. 
+Mens L(ife)-serien henvender seg til nybegynnersegmentet (L2 | 
+L4) og S(tyle)-serien frir til de designbevisste (S5), er det den profesjonelle som skal få mest utbytte av P-serien. 
+
+Og det synes på spesifikasjonene - ikke mindre enn åtte megapiksler dras ut av den lille 1/1.8" CCD-sensoren, med en maksimumsoppløsning på 3264x2448 punkter. 
+Nikkor-objektivet byr på 3.5x optisk zoom, med en brennvidde tilsvarende 36-126mm i 35mm-format. 
+Objektivet er forholdsvis lyssterkt på vidvinkel med f/2.7, men har en noe svak f-verdi med 5.3 på full tele. 
+
+Litt klumpete 
+
+CoolPix 
+P3 er ingen lettvekter. 
+Kameraet veier rett i overkant av 200g med batteri og minnekort, og det er vesentlig tykkere enn mange andre kameraer av denne typen. 
+Som du ser på bildet, har det også en litt buet vinkling, uten at vi helt ser noen hensikt med det, annet enn for designet sin skyld - selve grepet har nemlig ingen spesiell tilpasning til fingrene som tilsier at det skal være for å bedre ergonomien. 
+
+Blitsen er plassert helt øverst i hjørnet på kameraet, og en bør derfor være litt oppmerksom så ikke noen fingre på venstre hånd kommer i veien. 
+Øverst i midten er det en liten lampe som hjelper autofokusen - den fungerer ganske godt, og kameraet klarer som regel å fokusere godt i dårlig lys når avstanden ikke er så veldig lang. 
+Vi legger også merke til den lille mikrofonen til videoopptak, som vi finner nederst på fremsiden. 
+
+Velutstyrt funksjonshjul 
+
+Toppen av kameraet domineres av funksjonshjulet, og det meste av funksjonalitet styres med hjulet som utgangspunkt. 
+Vi tar en kjapp gjennomgang av de ulike valgene: 
+
+- Den grønne modusen fjerner det meste av innstillingsmuligheter - faktisk fungerer ikke menyknappen en gang, men gir bare en feilmelding som vi synes er litt i overkant "alvorlig". 
+I tillegg vises den et sekunds tid, og det kan være irriterende når du prøver å være rask (se bilde). 
+- P-modus er den vi har brukt mest når vi har testet. 
+Der kan du selv styre både hvitbalanse, eksponeringskompensasjon, ISO-verdi etc. 
+- A-modus lar deg ta blenderprioriterte bilder. 
+Merk at kameraet ikke har mulighet for lukkerprioriterte bilder. 
+- Scene inneholder 16 forskjellige motivtyper. 
+Her kan du velge om du er i ferd med å ta et landskapsbilde, portrettbilde, bilder av fyrverkeri etc. 
+9 av valgene har flere valgmuligheter, men det som i utgangspunktet er en god idé, er veldig klønete utført, med mange tastetrykk for å finne ut av hva de forskjellige menyvalgene betyr. 
+Se bildeserien under, så skjønner du hva vi mener: 
+
+- Filmmodusen gir deg mulighet til å ta film med 640x480 oppløsning og 30 bilder pr. sekund, eller 320x240 om du heller vil ha mindre filer. 
+Opptak av levende video fungerer ganske bra, selv om mikrofonen er noe følsom for vind når du filmer utendørs. 
+Bruk linken under for å se et eksempel på film tatt med kameraet. 
+
+- WB gir deg menyen for justering av hvitbalanse. 
+Merk at den grønne modusen ikke vil bli affisert av valget du gjør her. 
+- ISO lar deg styre ISO-verdien på samme måte som punktet over. 
+- Bildekvalitet lar deg velge oppløsning og kompresjonsgrad på bildene du tar. 
+- WiFi lar deg overføre bilder direkte til en PC eller skriver, forutsatt at du har en trådløs router eller trådløst nettverkskort. 
+For å sette opp dette, må du først koble kameraet til PCen via USB-kabelen for så å laste over en trådløs profil. 
+- Setup gir deg de vanlige oppsettsfunksjonene som type fokusering, formattering av minnekort, tid- og datojustering etc. 
+
+Både ISO, WB og bildekvalitet er også tilgjengelige via menyen dersom du ikke bruker kameraet i grønn modus, men vi skulle gjerne sett et par knapper ekstra for hurtig regulering av et par av innstillingene. 
+Funksjonshjulet er litt unødvendig tungvint å bruke. 
+
+Velfungerende bildestabilisator 
+
+CoolPix 
+P3 har også innebygget optisk bildestabilisator. 
+Denne aktiveres via VR (vibration reduction)-knappen på toppen av kameraet, og kan enten slås av, på eller settes i såkalt "active"-modus der den kompenserer for enda litt tøffere risting. 
+Her på kontoret er vi såpass rolige at vi ikke brukte active-modusen, men effekten av VR kan du se i eksempelet under: 
+
+Selvsagt finner vi også utløserknappen på toppen, i tillegg til en liten knapp for å slå av og på kameraet. 
+Denne er ganske beskyttet mot uhell og må holdes inne et lite halvsekund før den responderer. 
+
+Baksiden av kameraet domineres av den 2.5" store skjermen. 
+Den har en oppløsning på 150.000 punkter og har gode egenskaper både i forhold til innsynsvinkel og sollys. 
+Til høyre for skjermen finner vi alle knappene; et sett med piltaster+OK-knapp, en horisontal zoomkontroll, en avspillingsknapp, en sletteknapp og en knapp for å gå inn i menyen. 
+
+Som med andre Nikon-kameraer finner vi også snarveier på piltastene; noe vi synes er veldig hendig. 
+Her kan du styre blits, makro, selvutløser og eksponeringskompensasjon. 
+På høyre side av kameraet finner vi dessuten et gummideksel som beskytter USB- og A/V-utgangene. 
+
+WiFi schmifi? 
+
+Oppsettet av trådløs overføring skulle by på problemer. 
+Først må kameraet kobles til PCen via USB-kabelen, og deretter overføres den trådløse profilen fra PCen og til kameraet. 
+Enkelt og greit i prinsippet, men hva gjør man når det ikke virker? 
+Vi prøvde mye frem og tilbake på kontoret og lagde både ad hoc og infrastrukturprofiler, men det lot seg altså ikke gjøre. 
+
+P3 har også en lillebror, P4, som koster et par hundrelapper mindre. 
+Da vi var på pressekonferanse tidligere i vår, kunne Nikon fortelle at den eneste forskjellen på kameraene var at P3 hadde WiFi. 
+
+Vårt spørsmål er da - trenger vi egentlig WiFi i et lommekamera? 
+Når minnekortene er så billige som de er (1GB koster 200 kroner). 
+er det sjelden man har behov for å tømme det, og uansett har de fleste PCer en minnekortleser som det går mye raskere å overføre bilder til enn det gjør med trådløs overføring. 
+
+Ytelse 
+
+Når kameraet slås på, tar det langt tid før det er klart til dyst; faktisk så mye som 3.6 sekunder, noe vi synes er i overkant mye. 
+Det rare er at oppstarten går et drøyt sekund raskere når du slår av velkomstbildet, og når straffen er så stor, undrer vi oss hvorfor Nikon velger å la dette være en standardinnstilling. 
+
+Autofokusen er middels rask, men klarer seg godt på vidvinkel i dårlig lys med hjelp fra den innebygde lampa. 
+Når avstanden blir stor og du zoomer inn på full tele, derimot, hjelper ikke lampa lenger, og kameraet måtte få flere forsøk før det klarte telezoomtesten vår. 
+Oppladning av blits går heller ikke spesielt raskt, men seriemodusen noterer vi et pluss ved siden av, med 12 bilder på ti sekunder. 
+
+Kameraet har også et par serieopptaksfunksjoner ekstra - i Ultra high mode tar kameraet 90 640x480-bilder på tre sekunder (et sant mareritt å bla igjenom etterpå), og du kan også lage en collage med 16 bilder som tas på 7-8 sekunder, og som deretter settes opp til ett stort 8Mp-bilde. 
+
+I likhet med andre CoolPix-kameraer har P3 også funksjoner som ansiktsprioritert autofokus (se videodemonstrasjon i denne omtalen), d-lighting (lar deg lysne på de mørkeste partiene i bildet) og 
+Best shot selector, som lar deg ta en serie bilder mens du holder knappen nede, før en algoritme plukker ut og tar vare på det beste bildet. 
+
+P3 har også støtte for bracketing; enten basert på hvitbalanse eller eksponering, og bruker fast +/- 0.5EV uten mulighet for å endre. 
+
+Bildekvalitet 
+
+Nikon har alltid vært blant de ledende produsentene når det gjelder god bildekvalitet, og det skulle bare mangle om ikke "toppmodellen" fortsatte den gode trenden. 
+Både farger og dynamikk er veldig bra i testbildene våre, om enn noe kaldere enn det vi ser hos f.eks. Canon, uten at det gjør noe. 
+
+Hvis vi tar med i betraktningen at kameraet tross alt leverer åtte megapiksler og er såpass lite, er støynivået blant de bedre i klassen. 
+Det betyr imidlertid ikke at støy ikke er et problem, og 100%-utsnittet under er tatt innendørs uten blits, der automatikken valgte ISO 129. 
+ISO 400, som er det maksimale, er ganske ubrukelig, mens ISO 200 er overlevbart med omtrent samme støy som på bildet under. 
+I dagslys er imidlertid støynivået veldig lavt, og med ISO 50 som standard på de aller fleste bilder som tas i dagslys, leverer kameraet bilder av svært god kvalitet. 
+
+Kromatisk feilbrytning er nesten fraværende. 
+Vi ser små tendenser til blåfarging, men alt i alt gjør 
+P3 det veldig godt på dette punktet. 
+Automatikken er veldig god, både når det gjelder lysmåling og hvitbalanse - spesielt med tanke på hvitbalanse ble vi imponerte, og bildene vi tok hadde så og si ingen fargeskjær i det hele tatt. 
+Nærgrensen er for øvrig på 4cm, og makromodusen fungerer veldig bra. 
+
+Du kan selv vurdere bildekvaliteten ved å klikke på kollasjen under. 
+Her finner du også et par eksempler på makrobilder. 
+
+Konklusjon 
+
+Vi hadde store forhåpninger til CoolPix P3, men må dessverre si oss litt småskuffet over kameraet. 
+Det tar riktignok meget gode bilder, og for deg som KUN bryr deg om bildekvalitet er dette kompaktkameraet med åtte megapiksler av de vi har testet som tar de beste bildene, selv om støynivået også for dette kameraet er noe påfallende når ISO-verdien kryper seg opp over 100. 
+
+En av kameraets svake sider er at det er litt lite brukervennlig. 
+Det blir mange ekstra trykk i menyene for å foreta justeringer, og når de er lite forklarende (se eksempel lenger opp i artikkelen) blir det unødvendig mye bruk av hjelpeknappen. 
+Vi synes også at bruk av funksjonshjul på toppen for å stille hvitbalanse, ISO etc. 
+er en dårlig løsning kontra å ha hurtigtaster på baksiden. 
+I tillegg er oversettelsen til norsk litt halvveis ("Exit"->"Avslu.", "Accept"->"Bekre." osv.), og at menyknappen gir en "alvorlig" feilmelding i automodus synes vi er en uting. 
+
+Ytelsesmessig gjør kameraet det heller ikke mer enn middels - oppstartsiden er i overkant høy, og blitsen lades ikke spesielt raskt. 
+På et kamera som er myntet på de mest avanserte brukerne, savner vi funksjoner som lukkerprioriterte bilder og manuell fokusering - det er nemlig ikke alltid autofokusen klarer å gjøre jobben selv; spesielt når man zoomer inn på objekter som er litt for langt unna til at hjelpelampen klarer å belyse dem. 
+
+Men for all del 
+- Nikon CoolPix 
+P3 er slett ikke et dårlig kamera, og dersom dette er svakheter du kan leve med, er det ingen 8Mp kompaktkameraer som leverer like god bildekvalitet som denne krabaten; i hvert fall av de vi har testet. 

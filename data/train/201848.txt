@@ -1,0 +1,70 @@
+Acer Smart Display DA220HQL
+Nå har vi hatt Acers kombinerte Android PC og berøringsskjerm på testbenken. 
+
+Acer har tatt fram en ny variant som forsøker å bygge bro mellom nettbrettets umiddelbare respons og brukerflate og en helt vanlig PC-skjerm. 
+
+I stedet for å bygge en full Windows 8 PC inn i skjermen har de bygget inn en langt enklere og ikke minst rimeligere Android-basert "motor". 
+Men skjermen er også en helt normal PC-skjerm med HDMI-inngang. 
+Den kan derfor brukes på de fleste typer datamaskiner, fra stasjonære til bærbare og nettbrett. 
+Den kan også kobles til en spillkonsoll eller TV-tuner og brukes som TV på hybelen. 
+
+Du kan bruke den som et nettbrett, den slår seg på fra dvale i løpet av halvannet sekund, og Skype, Messenger, Google+, YouTube, Talk, Search, Maps og tusenvis av apper er tilgjengelig hos Google Play. 
+
+Dette er med 
+
+På toppen av dette har Acer utvidet grensesnittet med Acer Ring, som gir enklere håndtering både av favorittinnhold og fleroppgavekjøring. 
+Virtuelt tastatur med XT9-støtte er på plass, dessuten har skjermen også støtte for Acer Cloud, en sky-tjeneste for deling av dine mediefiler på tvers av enheter og plattform. 
+
+Skjermen kan legges ned til 20-graders vinkel som er godt egnet til berøring, eller stå i 70-graders vinkel for vanlig skrivebordsbruk. 
+
+Treg oppstart, så sett den i dvale 
+
+Vi koblet opp skjermen, men måtte først ut og få tak i en overgangskabel fra vanlig HDMI A til micro-HDMI. 
+
+Det er innganger for strøm, nettverk og micro HDMI i en brønn bak på skjermen. 
+
+På sidene er det tilkobling for USB til PC og USB til ekstrautstyr på skjermen. 
+
+Oppstarten er ikke spesielt rask, den er derimot direkte treg, men den er ikke beregnet på å skulle slås helt av eller på, men gå i dvale. 
+Fra dvale slår den seg på i løpet av noen få sekunder. 
+
+For å velge mellom skjerm-modus og Android-modus velger du On Screen Display (OSD) innstillingen enten ved berøringsmenyen når du er i Android, eller ved å holde av/på knappen nede noen sekunder når du er i skjerm-modus. 
+
+Som PC-skjerm 
+
+Vi koblet den til PC-en med HDMI og med den spesielle USB-kabelen som fulgte med. 
+Driveren ble etter litt intern forvirring i vår Windows 7-PC installert og skjermen fungerte som en 2-punkts berøringsskjerm også i Windows. 
+Siden det ikke er mer enn to punkter får du ikke full berøringsfunksjonalitet i Windows 8, som krever ti punkter. 
+
+Som skjerm er den skinnende blank, som alle dagens berøringsskjermer. 
+Dermed blir den selvsagt full av fingeravtrykk etter kort tids bruk, og det er kritisk hvordan belysningen i rommet er i forhold til skjermen og plasseringen. 
+I ekstreme tilfeller konkurrerer speilbildet med selve skjermbildet... 
+
+Betraktningsvinkelen er ikke imponerende, de oppgitte 178 grader stemmer ikke når det gjelder fargegjengivelse. 
+
+Velger du en av de nyere og rimelige IPS-skjermene som koster litt over halve prisen, får du en langt bedre PC-skjerm. 
+Men da uten noe ekstra. 
+
+For en drøy tusenlapp i tillegg får du altså en ganske fullverdig datamaskin basert på Android. 
+
+Som alt-i-ett Android-maskin 
+
+Den er utstyrt med en TI OMAP 4428, dual core ARM® Cortex-A9 på 1 GHz, og gjør jobben helt utmerket. 
+
+Alle såkalte "vanlige" bruksområder fungerer helt fint, fra HD-video på YouTube til bildevisning og generell surfing. 
+Hos Google Play finner du apper for det meste. 
+
+Trådløst nett, Bluetooth og USB fungerte utmerket og som forventet. 
+
+De innebygde høyttalerne er som på skjermer flest av begrenset nytte, siden det ikke er noen bassgjengivelse. 
+
+Konklusjon 
+
+Hvis det først og fremst er en skjerm du er ute etter ville vi nok valgt noe annet. 
+Men er du ute etter en alt-i-ett PC og ikke trenger Windows, så er det interessant både på grunn av prisen og egenskapene. 
+At den så i tillegg kan fungere som skjerm til mediespillere, TV-tunere og spillkonsoller gjør det enda mer interessant. 
+
+Vi ville aller helst hatt en grei fysisk bryter som valgte mellom HDMI og Android-modus, i stedet for skjermmeny og holde-inne-på-knappen-lenge-løsningen. 
+Men man skifter vel ikke modus like ofte i vanlig bruk som under testing. 
+
+Acer DA220HQL (bmiacg) 

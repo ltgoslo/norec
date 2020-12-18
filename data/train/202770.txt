@@ -1,0 +1,157 @@
+Ubuntu 10.10 Maverick Meerkat
+Sannsynligvis det nærmeste du kommer en fullgod erstatter for Windows og MacOS. 
+
+Ubuntu 10.10, med tilnavnet Maverick Meerkat, ble sluppet i endelig versjon i går 10.10. 
+Vi har installert operativsystemet på et par av våre test-PCer, og her får du vite alt om våre inntrykk så langt. 
+
+Tredje størst 
+
+Men før vi går i gang kan vi fortelle uinnvidde at Ubuntu er det tredje mest utbredte operativsystemet for personlige datamaskiner, etter Windows og MacOS. 
+Det er gratis, og basert på åpen kildekode. 
+Med i installasjonen følger det en rekke programmer som sammen med operativsystemet utgjør en distribusjon. 
+Her finner du blant annet kontorpakka OpenOffice.org, nettleseren Firefox, epostløsningen Evolution, samt alt fra videoredigering til spill og ordbøker. 
+
+Ubuntu kommer i nye versjoner to ganger i året, i april og oktober, og forbedringene fra gang til gang har den siste tiden vært store - spesielt på brukervennlighet. 
+
+Dette er nytt 
+
+Innholdsfortegnelse: 
+Tredje størstDette er nyttForbedret installasjonMaskinvarestøtte - våre opplevelserMultimediestøtteProgrammene og Ubuntus programvaresenterNoen ord om ytelseKonklusjon 
+
+Ubuntu One Music Store og musikkspilleren Rythmbox svarer til Apples iTunes Store og iTunes-avspiller 
+
+En egen versjon tilpasset minibærbare (netbooks) er også ute, og denne har fått et nytt og forbedret utseende tilpasset små skjermer. 
+
+Men i denne testen har vi fokusert på Desktop-utgaven av 10.10 Maverick Meerkat. 
+
+Hovedtestingen har foregått på en stasjonær PC med AMD Phenom II 905e-prosessor, 4 GB minne og et ATI Radeon HD 5450-basert grafikkort 
+
+Forbedret installasjon 
+
+Ubuntu 10.10 kan brukes på forskjellige måter. 
+Den kan kjøres direkte fra minneplugg eller CD, du trenger altså ikke å installere systemet på harddisken hvis du bare er nysgjerrig på hva dette dreier seg om, og du kan da prøvekjøre funksjonene uten risiko. 
+Dette er spesielt myntet på deg som allerede har Windows eller et annet operativsystem på harddisken. 
+
+Ønsker du å installere Ubuntu, kan det uansett gjøres på en virtuell harddisk i Windows. 
+Da kan det avinstalleres som et hvilket som helst Windows-program, og dette er den tryggeste måten å prøve ut funksjonaliteten. 
+Eneste ulempe med dette er at diskytelsen til systemet ikke blir fullt så god som hvis systemet installeres direkte til harddisken. 
+
+Denne siste metoden anbefales først og fremst dersom du ønsker å kjøre kun Ubuntu på PC-en din. 
+Selv om det er mulig å ha både Windows og Ubuntu som sidestilte operativsystemer, har vi opplevd så mange utfordringer knyttet til dette at det ikke uten videre anbefales, med mindre du langt over middels teknisk anlagt. 
+
+Vi valgte installasjon i Windows på vår primær-PC, og den veiviser-baserte prosessen var unnagjort på rundt 15 minutter. 
+
+På en annen PC installerte vi Ubuntu som primærsystem, og fikk da stiftet bekjentskap med forbedringene på installasjonssiden. 
+Her får man blant annet mulighet for å laste ned oppdateringer under installasjonen, samt installere tillegg som gjør det mulig å spille av MP3-filer og andre begrensede formater direkte. 
+
+Nytt er også at installasjonen fortsetter i bakgrunnen mens man oppretter brukere og setter regionale innstillinger, noe som forkorter prosessen. 
+Når dette er gjort får du muligheten for å bla deg gjennom slides som forteller deg hva du har i vente. 
+Meget bra forbedringer. 
+
+Ubuntu 10.10 byr på forenklet installasjonsprosess 
+
+Maskinvarestøtte - våre opplevelser 
+
+En av fordelene med Ubuntu Linux i forhold til Windows er bred maskinvarestøtte "rett ut av esken". 
+Hvis PC-en din ikke består av den aller seneste teknologien kan du forvente at alt av brikkesett, grafikkort, nettverkskort inkludert WLAN, lydkort etc er ferdig installert og satt opp så snart operativsystemet er på plass. 
+Ubuntu 10.10 er intet unntak, og begge våre test-PCer var klar til bruk med det samme. 
+
+Det ene av tre problemer vi støtte på var en integrert USB 3.0-kontroller på den ene PC-ens hovedkort. 
+Til tross for iherdig leting på diverse fora på nett har vi ennå ikke funnet drivere til denne relativt utbredte kontrolleren fra Nec, og her berører vi noe av kritikken mot Linux: 
+Når noe ikke støttes direkte kan det være svært kronglete å finne støtte og/eller installere uten mye mer knoting enn hva som er tilfelle i Windows - der det som regel kun er å dobbelklikke en installasjonsfil. 
+
+Det andre problemet var knyttet til vår Canon Pixma MP640 multifunksjonsskriver. 
+Den ble oppdaget av systemet, men ingen drivere ble installert. 
+Da vi forsøkte å søke etter drivere gjennom Ubuntu, fikk vi opp en meningsløs liste som inkluderte alt fra OKI til Lexmark-relaterte drivere, og tilhørende feilmelding: 
+
+Etter iherdig googling fant vi imidlertid en løsning som involverte utpakking av komprimerte tar.gz-filer og kjøring av kryptiske installasjonskommandoer i ledetekstvindu, men heldigvis traff vi omsider blink: 
+
+Skriveren fungerer, skanneren likeså, men begge deler reagerer noe tregere enn vi er vant til fra Windows. 
+Vi har foreløpig kun testet kablet tilkobling. 
+
+Det tredje og siste problemet er knyttet til iPhone 4. 
+Denne ble gjenkjent og installert av systemet, og dukker også opp som enhet i musikkbiblioteket Rythmbox. 
+Vi kan bla og spille i musikk på iPhone, men så snart vi prøvde å overføre ny musikk til den, fikk vi følgende feilmeldinger: 
+
+Resten fungerte problemfritt. 
+Vi ble også gjort oppmerksom på at det fantes tredjeparts drivere til vårt ATI Radeon HD5000-kort som ville by på bedre ytelse, og disse ble installert raskt og effektivt. 
+
+Multimediestøtte 
+
+Til vår store overraskelse oppdaget vi at vi kunne spille av våre DivX-, MP4 og MKV-filer direkte uten å måtte installere flere tillegg, sannsynligvis kom dette på plass sammen med MP3-støtten under installasjonen av operativsystemet. 
+Kvaliteten og responsen var upåklagelig, men via HDMI-kontakten fikk vi ikke støtte for surroundlyd, kun stereo. 
+
+Alle vanlige multimedieformater støttes nesten helt uten videre. 
+Det gjør Ubuntu velegnet til mediesenterbruk, men vi fikk ikke surroundlyd gjennom HDMI. 
+
+Vi besøkte diverse nettsteder med Firefox, og fikk enkelt installert Adobe Flash slik at vi blant annet kunne se videoer på YouTube og DinSide.no. 
+
+Fullt så bra gikk det ikke i NRK sitt videoarkiv. 
+Her har du valget mellom å bruke videostrømmer i Windows Media- eller Silverlight-format. 
+Førstnevnte fungerte ikke, og Firefox fant heller ikke noen plugin som kunne støtte dette. 
+Silverlight finnes ikke for Linux, men Novell har laget en erstatning kalt Moonlight. 
+Vi testet både 2.0 og 3.0 beta-utgaven av Moonlight, ingen av delene ville spille i Firefox. 
+
+Vi fikk først problemer med NRK sitt videobibliotek 
+
+Tilfeldigvis sjekket vi Windows Media-støtten igjen etter at vi hadde lastet ned et tillegg til mediespilleren for å få den til å gjenkjenne noen AVCHD-filer vi hadde liggende. 
+Da fungerte det utmerket! 
+Vi må imidlertid understreke at billedkvaliteten ikke var fullt så god som i Windows, men dette var kun merkbart i fullskjermmodus. 
+
+Og der var Windows Media Video-støtte på plass, uten at vi helt skjønte hvorfor... 
+
+Programmene og Ubuntus programvaresenter 
+
+Canonical, selskapet bak Ubuntu, har satt sammen en imponerende programpakke, samtlige basert på åpen kildekode. 
+Den største nyheten fra forrige gang er Shotwell fotobehandler, som erstatter F-spot. 
+Etter vår mening er det en gedigen oppgradering, både bruks- og funksjonsmessig. 
+Her kan man både bla i bildesamlingen og gjøre korrigeringer av ymse slag, og resultatene blir bra: 
+
+(Fortsetter etter bildene) 
+
+Shotwell fungerer både som bibliotek og fremviser... 
+
+...og som enkel men effektiv bilderedigerer. 
+
+PiTiVi stiftet vi bekjentskap med i versjon 10.04, og dette er et enkelt men bra alternativ til for eksempel Windows Movie Maker: 
+
+Kontorpakken OpenOffice.org bør være kjent for de fleste, i tillegg får du blant annet CD/DVD-brenneprogrammet Brasero og en rekke småspill. 
+Gwibber sørger for å logge deg på diverse meldingsnettverk og Twitter, PDF-viser er på plass, og ønsker du å laste ned bittorrent-filer, blir også en klient for dette installert. 
+
+Gwibber er en utmerket Twitter-klient. 
+
+Hvis du ikke er fornøyd med utvalget vil du like Ubuntus programvaresenter. 
+Dette er vesentlig oppgradert både på inn- og utsiden. 
+Da vi testet det var det hele 34.528 programmer og løsninger tilgjengelig for gratis nedlasting. 
+Slå den! 
+Alt er kategorisert og søkbart. 
+
+Ubuntus programvaresenter imponerte oss. 
+Dette burde vært på plass i Windows og MacOS for lenge siden, mener vi. 
+
+Nytt er det at du får en rask oversikt over installert programvare, du finner full historikk over operasjonene dine, og det er også kommet på plass enkelte betalprogrammer som er kategorisert for seg selv. 
+Finner du et program du vil ha, trykker du bare på installér. 
+Ikke noen veivisere eller avhukinger, like enkelt som å navigere seg i AppStore eller Android Market på telefonen. 
+
+I våre øyne er dette en vesentlig bedre løsning enn hva Microsoft byr på i Windows. 
+Det finnes riktignok noen gigantiske programbiblioteker på nettet, men veien fra du har funnet et program til du har det installert (uten haugevis av irriterende vedheng) er oftere og oftere kronglete og lang. 
+
+Noen ord om ytelse 
+
+Mange har en oppfatning av at Ubuntu er mindre ressurskrevende enn Windows 7, og viser blant annet til at videoer lar seg avspille lettere og at ting generelt går raskere på mer beskjeden maskinvare. 
+Dette er imidlertid ingen udiskutabel sannhet. 
+Vi har brukt Ubuntu og andre Linux-distribusjoner i en årrekke på svært mange platformer, og hvis du har en PC som er nyere enn tre-fire år gammel, vil neppe forskjellene være betydelige verken i den ene eller andre retningen. 
+
+På bærbare PC-er har vi dessuten opplevd hyppigere vifteaktivitet med Ubuntu installert enn Windows. 
+Dette henger sannsynligvis sammen med mer gjennomarbeidet driverstruktur, avhengig av maskinvaren naturligvis. 
+Vi vet også at ytelsen i Adobe Flash er dårligere i Ubuntu enn i Windows. 
+
+Konklusjon 
+
+Ubuntu 10.10 har gjort et meget godt inntrykk på testpanelet, både utseendemessig og funksjonsmessig er det blitt bedre og enklere enn tidligere. 
+Det er også gledelig å se at de norske oversettelsene i større grad gjelder hele programmene og ikke bare deler av dem. 
+
+Hvis du bygger datamaskiner selv eller har en PC med en gammel og sliten Windows-installasjon bør du definitivt gi Ubuntu 10.10 en sjanse. 
+Har du en nyere PC med Windows 7 ser vi imidlertid ikke noen store poenger i det, men er du nysgjerrig kan du uansett installere det på en virtuell disk, slik vi gjorde - eller kjøre det direkte fra minneplugg eller CD. 
+
+Du finner mer informasjon og kan laste ned Ubuntu 10.10 fra ubuntu.com (ca 700 MB). 

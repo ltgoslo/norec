@@ -1,0 +1,123 @@
+Acer Aspire TimelineX3830T 
+
+Ikke kjøp ultrabook før du har lest denne testen. 
+
+I en tid der alle produsentene kaster seg på ultrabook-bølgen og setter sin lit til at de syltynne maskinene på maks 1,4 kg skal redde PC-salget i 2012, finnes det meget gode alternativer - til langt lavere priser. 
+Ultrabook-segmentet er sylferskt, og derfor er prisene fortsatt kunstig høye. 
+
+Du må imidlertid tåle at maskinen veier noen hundre gram mer, men fordelene ved en PC som Acer Aspire TimelineX 
+3830T er mange: 
+Den har for eksempel bedre batterilevetid, er kraftigere og har bedre lyd, og koster vesentlig mindre enn selv den billigste ultrabooken. 
+
+Kupp på utgående modell 
+
+En av grunnene til at du kan gjøre et kupp på denne modellen nå, er at den har vært på markedet en god stund allerede, og er å regne som utgående. 
+Den er imidlertid slett ikke utdatert. 
+Hør bare her: 
+
+13,3" blank LED-baklyst LCD, 1366 x 768 piksler Intel Core i5-2430M prosessor Intel HD 3000 grafikk med WiDi-støtte 4 GB RAM (Maks 8, ett spor ledig) 500 GB harddisk (5400 rpm) 
+Intel Centrino N 6205 trådløst nettverkskort for 2,4 og 5 GHz-bånd (a/b/g/n) Gigabit kablet nettverk 1 stk USB 3.0-port med støtte for lading av mobil selv når PC er avskrudd 2 stk USB 2.0-porter VGA og HDMI-utganger Webkamera, 1,3 megapiksler Kortleser for xD, SD og MMC-minnekort SPDIF optisk lydutgang 6-cellers batteri med inntil 9 timer levetid (ifølge produsenten) Windows 7 Home Premiun 64 Bit Størrelse: 321 × 29,25 × 228 mm Vekt: 1,85 kg Pris: 4390 kroner (CDON.no 8.3.2012) 
+
+Maskinen er altså ca 9 mm tykkere enn kravet for ultrabooks, men må fortsatt regnes som meget slank. 
+
+Vekten plasserer den godt innenfor ultraportabel-segmentet. 
+Og så merker vi oss at maskinen har WiDi-støtte, noe som betyr at du kan overføre skjermbildet trådløst til TV-er og mottakerbokser som støtter dette. 
+USB 3.0 og et kraftig trådløst nettverkskort er på plass, og maskinvaremessig får du utvilsomt mye for pengene. 
+
+Merk imidlertid at optisk drev ikke er på plass, noe det heller ikke er på ultrabooks. 
+Det er i det hele tatt sjeldnere og sjeldnere at optisk drev er innebygd på maskiner i lettvekter-segmentet. 
+Man kan uansett koble til et eksternt drev hvis man har behov, disse får man for noen få hundrelapper hos PC-forhandleren. 
+
+Designmessig skiller vårt testeksemplar seg litt ut i mengden, med sitt blå aluminiumslokk. 
+Det er kun lokket som er av metall, resten er av plast. 
+Kvalitetsfølelsen er imidlertid temmelig høyt, maskinen er tight og godt oppstivet. 
+
+En ulempe er at lokket viser fingeravtrykk forbausende lett: 
+
+Åpner du lokket ser du at den blå fargen går igjen nederst, mens tastaturet er omkranset av sølvfarget plast. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Det har flere fordeler, blant annet er det enklere å rengjøre enn tidligere Timeline-modeller, der det var åpning rundt hver tast. 
+Dermed kunne smuler og smuss ramle nedi og gjerne havne under tastene. 
+
+Bruksmessig er tastaturet middels bra. 
+Det er litt svikt på midten, men tasteplasseringer og bred enter-tast gjør det temmelig behagelig å skrive på. 
+
+Bra lyd, faktisk 
+
+Over tastaturet sitter et par høyttalere, samt teksten "Dolby Home Theater - Professionally Tuned". 
+
+Påstander som hinter om god lyd fra små PC-høyttalere skal man alltid ta med en klype salt, men vi må medgi at lyden av disse høyttalerne - sammen med den installerte Dolby Theater-programvaren for lydforbedring, er av de bedre vi har hørt på maskiner i denne størrelsesklassen. 
+Vi har ikke noe problem med å la høyttalerne sørge for bakgrunnsmusikk mens vi jobber, her er til og med et lite snev av bass å spore. 
+
+Alle tilkoblingene sitter på sidene, de fleste er trukket mot fronten, noe som gir lett tilgang, men kanskje ikke det mest ryddige inntrykket hvis du har flere enheter tilkoblet. 
+Dette er uansett en PC beregnet for mobile brukere, og da er enkel tilgang vel så viktig. 
+
+Slik er den i bruk 
+
+Første gangen du starter PC-en må du gjennom en relativt tidkrevende installasjonsprosess. 
+Denne innebærer blant annet to omstarter, og dette er uvanlig i 2012. 
+Hele prosessen tar rundt en halvtime, men så er alt på plass. 
+
+Maskinen virker relativt godt konfigurert, men personlig kan vi spare oss for begeistring for prøveversjonen av sikkerhetspakken fra McAfee, som vi synes er i overkant masete. 
+Her finnes langt mer høflige alternativer, personlig velger vi å installere Microsoft Security Essentials 2.0. 
+
+Listen over relativt uinteressante programmer er videre ganske lang, men de påvirker heldigvis ikke brukeropplevelsen, som vi mener er meget bra på denne maskinen. 
+
+God ytelse 
+
+Det trådløse nettverkskortet er blant de sterkeste vi har testet, i hvert fall på PC-er i denne prisklassen. 
+Hele 16 trådløse nett fanget det opp i vårt hus, mens en annen PC med Atheros-kort får inn 6. 
+Her leverer Intel varene, som de har for vane å gjøre når det gjelder trådløs teknologi. 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner på ytelsen, og her går skalaen fra 1,0 (svakest) til 7,9 (sterkest): 
+
+Prosessor: 7,0 Minne (RAM): 
+5,9 Grafikk: 
+4,7 Spillgrafikk: 
+4,7 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 7.0 gir oss en totalscore på 1105, og i diagrammet under har vi sammenlignet gjennomsnittlig prosessorytelse fra de tre aktuelle ULV-prosessorene som benyttes i disse PC-ene. 
+
+Som du ser er det ingen ultrabooks som kan måle seg med prosessorytelsen på denne PC-en. 
+Grafikkytelsen er imidlertid veldig lik, alle har den samme Intel HD 3000-brikken som er integrert i prosessoren, og det er bare små forskjeller. 
+Felles for alle er at de sluker alt av HD-materiale uten problemer, og det er gjerne de tøffeste jobbene denne typen PC-er utsettes for. 
+Noen spillytelse må du imidlertid se langt etter, i hvert fall hvis du tenker nye, krevende 3D-utgivelser. 
+Da må du se etter PC i et helt annet segment. 
+
+Diskytelsen er imidlertid ikke den beste på TimelineX 3830T, sammenlignet med ultrabook-ene. 
+Dette skyldes naturlig nok at disse enten har SSD eller harddisk med SSD-del. 
+Denne PC-en har en helt vanlig 500 GB mekanisk harddisk: 
+
+Å bytte ut harddisken med en ren SSD vil være en meget smart oppgradering av denne PC-en, hvis du er opptatt av høyest mulig ytelse. 
+Det vil også senke temperaturen i kabinettet, og føre til mindre vifteaktivitet. 
+Når det er sagt: 
+Denne PC-en er allerede meget stillegående. 
+Det er en vifte som surrer og går, men den er knapt hørbar før maskinen utsettes for tung belastning. 
+Den holdt seg dessuten kjølig og fin under hele testperioden, noe som vitner om en effektiv transport av varmen ut av PC-en. 
+
+Batterilevetiden er et kjempeargument for denne PC-en. 
+Hele 11 timer holdt batteriet ut med minimal belastning av maskinen, og rundt 6 timer med kontinuerlig videoavspilling av HD-video i Windows Media Player. 
+Det skulle bety at med normal bruk skal batteriet holde mellom 8 og 9 timer før det må lades. 
+Det er imponerende. 
+
+Til sammenligning har de fleste ultrabookene en levetid på rundt 6 timer med variert bruk. 
+
+Konklusjon 
+
+Acer Aspire TimelineX 
+3830T ble lansert i fjor, er utgående, men bør absolutt vurderes, ikke minst for prisen som er vesentlig lavere nå enn ved lanseringen. 
+Har du rundt 4500 kroner til ny PC, er dette et av de aller beste kjøpene i ultraportabel-klassen, og for mange vil det være et langt mer fornuftig valg enn å kjøpe en 400g lettere og flere tusenlapper dyrere ultrabook, mener vi. 
+
+Kompakt og lett, god generell ytelse, svært godt trådløs-dekning og lang batterilevetid - for 4.395 kroner? 
+Det gir en soleklar terningkast 5 og Anbefalt produkt-stempel fra DinSide. 
+Vi regner imidlertid med at den blir borte fra hyllene ganske snart. 
+
+OPPDATERT: 
+Den aktuelle konfigurasjonen med i5-prosessor er ikke lenger tilgjengelig. 
+To andre utgaver, med i3-prosessor og større lagringsplass, skal være tilgjengelig hos flere forhandlere til omtrent samme pris. 
+Forskjellen i ytelse mellom disse vil ikke være større enn at vårt anbefalt produkt-stempel også kan omfatte disse. 
+
+Acer Aspire TimelineX 
+3830T-2434G50ibb (LX.RFN02.127) 

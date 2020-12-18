@@ -1,0 +1,101 @@
+Dell U2711 Ultrasharp
+Vi har testet Dells 27-tommers flaggskip. 
+
+Hvor stor kan en PC-skjerm være før den bli for stor, og hvor høy oppløsning er optimalt? 
+Sjansen er stor for at en ekspert ville svart noe helt annet for 15 år siden enn i dag, og grensene tøyes stadig. 
+
+I 2010 selges det aller mest av 22 og 24-tommere til PC-bruk, og oppløsningen på disse er nesten alltid uten unntak 1920 x 1080 piksler - bedre kjent som full HD. 
+Dette holder for de aller fleste, og gir et detaljnivå som mange regner som optimalt for et normalt syn og med normal betraktningsavstand. 
+
+Men enkelte av oss kan aldri få nok av verken tommer eller piksler. 
+
+Faller du inn i den kategorien, vet du sikkert at det begynner å komme en del 27- og 30-tommere med oppløsning som overgår full HD, de fleste av dem har 2560 piksler horisontalt, og minst 1440 piksler vertikalt. 
+Det betyr blant annet at du kan fylle skjermen med mange programvinduer, og ha full oversikt på samme tid. 
+
+Ikke for alle 
+
+Hvis du synes det høres fristende ut med en gigantskjerm på skrivepulten, er det en del ting du må være klar over: 
+
+- Disse skjermene er som regel flere ganger dyrere enn en typisk 24-tommer. 
+- De krever et grafikkort i PC-en som støtter grensesnittene Dual DVI eller Displayport. 
+
+Har du en bærbar PC med VGA- og/eller HDMI-utgang for tilkobling til ekstern skjerm, kan du for eksempel bare glemme det. 
+Disse vil ikke være i stand til å gjengi så mange piksler, og resultatet vil bli et grøtete og uskarpt bilde. 
+
+(Fortsetter under bildene) 
+
+Dell-flaggskip 
+
+Hvis PC-en har et kompatibelt grafikkort, som for eksempel dette rimelige, er Dell U2711 Ultrasharp en het kandidat. 
+Den har "alt" av tilkoblinger, kommer med både Dual DVI- og Displayport-kabel, og har en prislapp som ligger under de fleste konkurrerende modeller. 
+
+Her er en kjapp oppsummering av de viktigste egenskapene: 
+
+Dell U2711 Ultrasharp Panel: 
+IPS Baklysteknikk: 
+CCFL Størrelse: 
+27 tommer Oppløsning: 2560 x 1440 piksler Kontrast: 
+1000:1 (dynamisk 80.000:1) Betraktningsvinkel: 178 grader høyre/venstre Reaksjonstid: 6 ms Overflate: 
+Matt Tilkoblinger: 
+HDMI, DVI-D x 2, DisplayPort, VGA, Komponent, Kompositt, minijack inn/ut (lyd). 
+Annet: 4 stk USB-porter, kortleser for de fleste formater. 
+Ergonomi: 
+Vridbar, høydejusterbar, vippbar Størrelse: 
+646,71 mm x 427,83 mm x 199,95 mm Vekt: 
+10,46 kg Pris: 7.989 kroner inkl mva (Dustinhome.no 28.9.2010) 
+
+Skjermen leveres ferdig kalibrert for Adobe RGB og sRGB fargespekter, slik at for de fleste er det ikke nødvendig å gjøre etterjusteringer. 
+Hvis det ikke ringer en bjelle hos deg når du hører ordet skjermkalibrering, er du neppe alene. 
+I praksis betyr det å stille inn skjermen optimalt med hensyn til farger og kontrast. 
+Dette er svært viktig i mange miljøer, spesielt i grafisk bransje, fotobransjen osv. 
+
+Påfallende mye bedre bilde 
+
+Vi stilte skjermen ved siden av en rimelig BenQ 24-tommer, og betraktet samme bilder på de to skjermene. 
+Isolert sett er vi meget godt fornøyd med bildet på BenQ-en, men ved siden av denne ble forskjellene påfallende. 
+Detaljer som var utvasket eller helt borte på BenQ-skjermen, var helt tydelige på Dell-en. 
+Sort var ordentlig sort, ikke grått. 
+Fargene var dessuten langt blassere på BenQ, hvitt virket gulaktig, selv etter at vi hadde prøvd å justere skjermen til å ligne mest mulig på Dell-en. 
+Det var rett og slett divisjonsforskjeller. 
+
+En annen vesentlig forskjell var innsynsvinkelen. 
+Dell u2711 er utstyrt med et avansert IPS-panel som blant annet sørger for at farger og kontrast holder seg mer eller mindre konstant, uansett hvilken vinkel du betrakter den fra, mens BenQ ble mer eller mindre invertert når vinkelen ble for skrå. 
+
+Når du får en arbeidsflate på hele 27 tommer er dette en vesentlig egenskap. 
+Avstanden fra sentrum til kantene er så stor at synsvinkelen i forhold til hjørnene ville skapt problemer på de fleste billigskjermene, og man måtte ha flyttet hodet for å få riktig fargegjengivelse og kontrast. 
+
+Likevel er det viktig å poengtere nok en gang at forskjellen først og fremst blir påfallende når skjermene står ved siden av hverandre og viser samme bilde. 
+
+Enkel å tilpasse 
+
+Nederst i høyre hjørne sitter av/på-knapp og fem berøringsfølsomme knapper som lar deg velge inn-kilde og gjøre forskjellige tilpasninger. 
+Det hele er svært enkelt å betjene, i motsetning til mange andre skjermer vi har testet, med knotete og ulogiske knapper og menyer. 
+
+Skjermen justeres enkelt i høyden, men kan ikke snus på høykant slik en del andre avanserte Dell-skjermer kan. 
+Det skulle det imidlertid ikke være behov for her, du kan fint plassere 2 x 
+2 A4-dokumenter på skjermen i horisontal posisjon, og jobbe med alle fire samtidig... 
+
+Utvalget av tilkoblinger er overveldende, og du har også mulighet til å vise to videokilder samtidig - side om side på skjermen. 
+Smart også med integrert USB-hub (fire porter) og minnekort for de fleste aktuelle typer (med unntak av CF) på venstre side. 
+
+Et par små ankepunkter 
+
+Men er alt bare gull ved denne skjermen? 
+Vel, vi har et par ankepunkter. 
+For det første er den selvfølgelig veldig kostbar, og det er pr i dag ikke veldig mange som har behov for så høy oppløsning. 
+For det andre bruker den vesentlig lengre tid på å skru seg på enn de fleste andre, mindre skjermer vi har testet. 
+Hvis du har aktivert skjermsparing i operativsystemet, vil du måtte vente noen sekunder fra du beveger musen til skjermbildet dukker opp. 
+Ikke noe stort problem, men verdt å merke seg lell. 
+
+Og så er det en liten ting til: 
+Enkelte vil føle at skjermflaten rett og slett blir for stor. 
+Det er en grense for hvor stor en skjerm kan bli før ergonomien blir et tema - så lenge du har nesa 50 cm fra den. 
+Personlig brukte jeg et par dager på å venne meg til det brede bildet, og for de fleste er det nettopp det som må til; tilvenning. 
+
+Konklusjon 
+
+Dell U2711 Ultrasharp er en fantastisk skjerm, den beste undertegnede har testet noensinne. 
+Den byr på et glimrende bilde, et vell av tilkoblinger, trenger minimalt med etterjusteringer, og har praktiske USB-tilkoblinger og minnekortleser. 
+
+Eneste aberet er prisen, men det gjelder for "alt" på markedet med IPS-panel og denne oppløsningen. 
+Enn så lenge. 

@@ -1,0 +1,125 @@
+Asus U32U
+Ønsker du en kompakt PC med god batterilevetid, men har begrenset budsjett? 
+Vel, da bør du få med deg testen av denne lille overraskelsen fra Asus. 
+
+Bruker du PC-en til å surfe på nettet, kommunisere med omverdenen, betale regninger, jobbe med ett og annet dokument og se på bilder, videoer og lytte til musikk? 
+I så fall tilhører du det store flertallet i befolkningen. 
+Den gode nyheten er at du trenger ikke å ruinere deg selv for å finne en PC som kan håndtere disse behovene. 
+
+For så lite som 3000 kroner kan du faktisk få en maskin som ikke bare håndterer disse jobbene, men som også gjør dem raskt og smidig. 
+De fleste dugandes maskinene i denne prisklassen er imidlertid sjelden blant de mest kompakte. 
+Men om du går litt opp i pris, kan du finne maskiner med 13-14-tommere som veier under 2 kg, og som har batterilevetid som holder en hel arbeidsdag. 
+
+Asus U32U er en slik maskin, og den har vært vår primærmaskin hele den siste uka. 
+Her er en kjapp oversikt over noen av de viktigste spesifikasjonene: 
+
+13,3" LED-baklyst LCD-skjerm, 1366 x 768 piksler AMD E-450 APU 
+(2 kjerners prosessor med integrert grafikkbrikke) AMD Radeon HD 6320 grafikk integrert i APU-en 4 GB RAM (maks 8) 320 GB harddisk (5400 rpm) 0,3 megapiksels webkamera Gigabit LAN Trådløst b/g/n nett Bluetooth 3.0 2 stk USB 3.0-porter, 1 stk USB 2.0-port VGA/ 
+HDMI-utganger Kortleser for SD/MS/MMC-minnekort Windows 7 Home Premium 64 bit Størrelse: 32,8 x 23,8 x 2,4 cm Vekt: 
+1,8 kg Pris: 
+Rundt 3990 kroner 
+
+Spesifikasjonsmessig oppdatert, blant annet med USB 3.0 og Bluetooth 3.0, men maskinen er likevel relativt enkel. 
+Prosessoren er for eksempel ikke kjent for å være spesielt egnet for de tyngste oppgavene, men en relativt kraftig integrert grafikkdel gjør at HD-video og annet tyngre video- og grafikkmateriale ekspederes effektivt likevel, i programmer som nyttegjør seg dette. 
+
+Optisk drev har den ikke, så her må du eventuelt koble til et eksternt drev via USB hvis du fortsatt ser behovet for dette. 
+
+Billigste 13,3-tommer under 2 kg? 
+
+Det som likevel gjør denne maskinen attraktiv, mener vi, er størrelsen, materialvalget, vekten - og ikke minst prisen. 
+3.990 kroner for en relativt tynn maskin med metallfinish på godt under 2 kg, gjør plutselig dette segmentet langt mer tilgjengelig for "folk flest". 
+Dessuten har maskinen en respektabel batterilevetid. 
+Mer om det senere i denne testen. 
+
+Overflaten er altså i grå, børstet aluminium, fingeravtrykk vises knapt på denne. 
+Alle tilkoblinger sitter på venstre og høyre side, og vi liker spesielt godt at VGA og strøminntak er trukket lengst bak. 
+Strømpluggen har dessuten en 90-graders knekk, noe som gjør at den er bra beskyttet fra ytre belastning (Les: 
+Brudd forårsaket av at du dulter borti den eller snubler i kabelen). 
+
+På undersiden sitter et stort lokk som åpnes ved hjelp av én liten skrue. 
+Bak dette får du enkel tilgang til minne og harddisk. 
+Minnemengden kan dobles (det er et ledig spor), og mange vil nok vurdere å bytte ut harddisken med en SSD på et tidspunkt: 
+
+Batteriet sitter i bakkant, og buler en knapp cm ut fra undersiden, noe som gir maskinen en lett skrånende vinkel. 
+Modellen kan også leveres med et batteri med mindre kapasitet, som gir en glattere og renere design, men altså vesentlig kortere batterilevetid. 
+I skrivende stund er det kun PC-er med det store batteriet som er tilgjengelig i Norge, får vi opplyst fra Asus. 
+
+Det metalliske preget fortsetter når du åpner PC-en, men bare finishen; her har nemlig Asus brukt plast med et metallisk preg, ved første øyekast skulle man tro det var brukt nøyaktig samme materiale som på lokket. 
+
+Tastaturet er av chicklet- eller island-typen, der hver tast er isolert fra de andre. 
+Det gjør det enkelt å holde rent. 
+Tastaturet er dessuten er helt OK å skrive på, men litt svikt og klirr her og der gir ikke den samme kvalitetsfølelsen man ofte finner på dyrere modeller. 
+
+Pekeplaten akkompagneres med to adskilte knapper for venstre- og høyreklikk. 
+Begge avgir en ganske høy klikkelyd, noe vi ikke er veldig begeistret for. 
+
+Slik er den i bruk 
+
+Første gang du starter maskinen må du gjennom en ganske kort og grei installasjonsprosess, før du kan begynne å bruke den. 
+Konfigurasjonsmessig synes vi Asus er blitt flinke, og det er lite vi umiddelbart ser behov for å fjerne av ferdiginnstilt programvare, noe som ikke alltid kan sies om enkelte konkurrenter. 
+
+En kjølevifte går mer eller mindre konstant, men på lavt turtall - så den bør ikke være sjenerende med mindre du har svært følsomme ører. 
+
+Under tung belastning kan du oppleve at viften spinner opp i høyere hastighet, men sjelden eller aldri veldig bråkete. 
+Vi bør imidlertid poengtere at luftinntakene på undersiden ikke bør dekkes til, da det kan føre til at maskinen blir meget varm. 
+Et glatt og hardt underlag er definitivt å foretrekke. 
+
+Maskinen responderer kjapt og fint på de fleste instrukser, og selv om den slett ikke er blant de raskeste på tyngre ting (som spill, kompresjon, konvertering, kalkulasjoner og lignende), er det ikke sikkert at det behøver å bety så mye for de fleste av oss. 
+Alt av HD-video vi fikk testet, ble ekspedert problemfritt med programmer som VLC og Windows Media Player. 
+
+Til kontoroppgaver følte vi heller aldri at den ble for slapp, vi laget for eksempel to skjermdumper av en rullende webside og gjorde dette om til en PDF-fil på 288 sider, ved hjelp av Faststone Capture. 
+En relativt tung prosess, men elegant og kjapt løst av U32U. 
+
+Bør holdes i form 
+
+Det som imidlertid er viktig å poengtere er at en maskin med såpass enkel prosessor krever at du holder den i form. 
+
+En ting er å sette den på prøve med nyinstallert operativsystem og programmer. 
+Å teste den igjen etter diverse programinn- og avinstalleringer, fragmentert disk og lignende, kan være noe helt annet. 
+Dette gjelder forsåvidt alle PC-er, men "fartsdumpene" gjør seg gjerne gjeldende tidligere på maskiner med enkel maskinvare - spesielt prosessor og harddisk. 
+Her er det greit å vite at bytter du ut harddisken med en SSD på et tidspunkt, har man i praksis fått en vesentlig raskere PC. 
+
+Ytelsesmålinger 
+
+Windows egen Opplevelsesindeks gir oss følgende pekepinn på ytelsen. 
+Her går skalaen fra 1,0 (svakest) til 7.9 (sterkest): 
+
+Prosessor: 3,9 Minne (RAM): 
+5,8 Grafikk: 
+4,5 Spillgrafikk: 
+5,9 Primær harddisk: 
+5,7 
+
+Veldig typiske midt-på-treet-tall, med unntak av prosessoren, som må sies å ligge i lavere segment. 
+
+Passmark PerformanceTest 7.0 gir oss mer kjøtt på beinet, og en Passmark-rating på 560 er forholdsvis lavt. 
+Det skyldes i stor grad prosessoren, som får en score på 868. 
+Den integrerte grafikken får 329. 
+
+Diagrammene under viser hva du får av grafikk- og prosessorytelser, sammenlignet med andre maskiner i samme prisklasse - her har vi dog inkludert maskiner med skjermer på 14 og 15,6 tommer. 
+
+Ganske midt på treet-resultater, altså, men det som er interessant er at maskinen yter langt bedre enn snittet for den aktuelle APU-en. 
+Spesielt oppsiktsvekkende er grafikkytelsen, som faktisk ligger høyere enn for snittet for Intel HD Graphics-brikkene som er integrert på langt dyrere Intel Core i3/i5-prosessorer. 
+
+Uansett: 
+Noen løsning for spillere er dette definitivt ikke, men til alt av videomateriale i alle oppløsninger har maskinen null problemer. 
+Og der går gjerne grensen for hvor avansert grafikkløsning folk flest faktisk har behov for. 
+
+God batterilevetid 
+
+Batterilevetiden er også et stort pluss på denne modellen. 
+Asus antyder 10 timer, våre tester viser noe lavere resultater, men fortsatt meget bra. 
+Under laveste belastning, tilkoblet trådløst nettverk, slo maskinen seg av etter 488 minutter. 
+Da var det fortsatt 5% levetid igjen, ifølge indikatorene. 
+Det er uansett godt over 8 timer. 
+
+Under normal bruk med litt surfing, video og musikk kan du forvente mellom 6-7 timer, noe vi absolutt gir godkjent karakter på. 
+
+Konklusjon 
+
+U32U er et rimelig alternativ til de langt dyrere ultrabook-ene. 
+Den er litt tyngre og noen millimetre tykkere, men koster altså mindre. 
+Du får en maskin som fungerer bra til vanlige oppgaver, og som i tillegg er stillegående og byr på god batterilevetid. 
+
+Noen kraftig maskin er det imidlertid ikke, noe som helt sikkert vil skremme vekk en del kjøpere. 
+Men vår test viser at en godt konfigurert maskin basert rundt AMD E-450 med integrert grafikk ikke behøver å være noe dårlig valg for deg som har stramt budsjett. 

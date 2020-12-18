@@ -1,0 +1,84 @@
+Asus X5DIJ
+Ute etter ny PC og har begrenset budsjett? 
+Da er dette et av de aller smarteste kjøpene akkurat nå. 
+
+For et par uker siden testet vi en av markedets rimeligste PC-er fra Acer. 
+Modellen eMachines E527 var svært stillegående og løste de fleste oppgaver greit, men fikk problemer med HD-video, og hadde også svært begrensede tilkoblingsmuligheter. 
+
+Mer for pengene 
+
+Asus er også representert med enkelte modeller til under 4.000 kroner. 
+X5DIJ koster for eksempel 3.590 kroner hos MPX, det er kun 100 kroner mer enn hva E527 kostet da vi testet den. 
+Og selv om de to modellene har mange likhetstrekk, er forskjellene mellom dem likevel større enn hva prisen skulle tilsi. 
+
+Men før vi går igang med våre tester og vurderinger, skal vi se nærmere på de viktigste tekniske egenskapene: 
+
+Asus X5DIJ 15,6" blank skjerm, 1366 x 768 piksler Intel Celeron T3300-prosessor (dobbelkjernet) Intel GMA 4500M grafikk (integrert) 2 GB minne (maks 4) 320 GB harddiskWebkamera, 1,3 megapiksels sensor DVD-brenner for alle formater Kortleser for de vanligste minnekortene (ikke CF) 4 stk USB 2.0-porter Altec Lansing stereo høyttalere VGA-utgang Trådløst nett (b/g/n) 10/100 Mbit nettverk 6-cellers li-ion batteri Mål: 37 x 25,6 x 3,6 cm, vekt 2,6 kg. Windows 7 Home Premium 64 bit Pris: 3.590 (MPX 25.10.2010) 
+
+De viktigste forskjellene fra E527 er en kraftigere prosessor, dobbelt så mange USB-porter og langt bedre høyttalere. 
+
+Det er også helt på det rene at innpakningen virker mer eksklusiv enn E527. 
+Den er litt tynnere, blankere og veier dessuten 100 gram mindre. 
+
+Tastaturet har ikke den omtalte svikten på midten som vi opplevde på E527, og opplevdes av den grunn som litt mer solid. 
+
+Det som imidlertid kanskje ikke er like tillitsvekkende som på på E527, er de mange tilleggsprogrammene som er installert så snart maskinen er initialisert og klar til bruk. 
+Det er helt på det rene at slike programmer (her fra Trend Micro, Skype, Adobe, Boingo, Cyberlink, Google m. fl.) er med på å finansiere denne PC-en, men kan virke forstyrrende for brukeren. 
+
+Dersom du ikke er interessert i disse programmene er det mulig å avinstallere dem ganske greit, for eksempel ved å bruke Decrapifier. 
+
+God brukeropplevelse 
+
+Bortsett fra dette har vi lite å utsette på brukeropplevelsen. 
+Dobbelkjerneprosessoren fra Intel sørger for at det går langt bedre å kjøre flere programmer samtidig, og veksle mellom dem enn tilfellet var på E527. 
+Det er etter vår mening gode grunner for å velge en PC med dobbelkjerneprosessor, nærmest uansett hvor enkle behovene dine er, siden forskjellen i prisen normalt er liten. 
+2 GB er imidlertid litt lite i 2010, spesielt hvis du liker å kjøre flere tyngre programmer samtidig. 
+Litt ekstra minne kan derfor være en rimelig og smart investering. 
+
+Høyere prosessorytelse 
+
+Windows Opplevelsesindeks i Win7 gir denne prosessoren karakteren 5,1, mens enkeltkjerneprosessoren i E527 får 4,4 (av 7,9). 
+Det høres kanskje ikke mye ut, men de mer omfattende testene til Passmark gir et annet bilde: 
+
+I praksis var det denne forskjellen som skulle til for at maskinen var i stand til å spille av alt av HD-materiale som vi benytter i PC-testene våre, med gratisprogrammet Media Player Classic Home Cinema. 
+Det aller mest krevende klippet, en MKV-fil basert på VC1-formatet, hakket mye på den nevnte Acer-PC-en, men fløt helt fint på X5DIJ. 
+En titt på prosessorbelastningen viser imidlertid at det ikke er veldig mye å gå på her: 
+
+Den integrerte Intel-grafikken i kombinasjon med Celeron T3300-prosessoren er uansett kraftig nok til HD-video, men kommer til kort når det gjelder 3D-spill. 
+Er dette noe du er opptatt av, må du velge en helt annen maskin. 
+
+Støyer ikke 
+
+Høy belastning fører ofte til mye viftestøy på mange PC-er. 
+Det er derimot ikke tilfelle på denne maskinen (og heller ikke på Asus-maskiner generelt). 
+Maskinen er utstyrt med en støysvak vifte som surrer på lavt turtall. 
+Denne er knapt hørbar, og blir aldri plagsom. 
+Maskinen blir heller aldri særlig varm. 
+Dette er meget positivt. 
+
+Merk at høy prosessorbelastning er ikke veldig gunstig dersom du kjører på batteri. 
+Spiller du HD-video av denne typen, tappes batteriet kjapt. 
+PC-er med kraftigere grafikkløsning enn på X5DIJ vil kunne spare prosessoren for belastning under avspilling, og i noen tilfeller også spare batteriet. 
+
+3-4 timers batterilevetid 
+
+Vi målte batterilevetiden under relativt høy belastning (videoavspilling) og uten belastning. 
+Under kontinuerlig videoavspilling med lyd, holdt batteriet i 2 timer og 50 minutter. 
+Det var 10 minutter mindre enn E527. 
+Når PC-en ikke ble belastet, holdt batteriet i 4 timer og 3 minutter som er omtrent det samme som konkurrent fra Acer. 
+Du kan derfor regne med at du kan bruke PC-en på batteri i mellom 3 og 4 timer med normal aktivitet. 
+Det er omtrent der du kan forvente batterilevetiden vil ligge i denne klassen. 
+
+Konklusjon 
+
+Asus X5DIJ er en rimelig PC som byr på nok kraft til de fleste behov. 
+Den ser bra ut, har et godt tastatur og støyer nesten ikke i det hele tatt. 
+
+Grafikkbrikken er enkel, og er ikke brukbar til krevende 3D-spill. 
+Slike finner du ikke denne prisklassen. 
+Merk også at enkelte modeller i sub-4000-klassen har mer minne enn denne maskinen, noe som kan gi en bedre opplevelse for deg som er vant til å kjøre mange programmer samtidig. 
+
+Det er imidlertid få PC-er til denne prisen som kan hamle opp med den totalpakka du får hvis du velger Asus X5DIJ. 
+Du får rett og slett mye for pengene, og slipper de store kompromissene. 
+
+Takk til MPX for utlånet av maskinen. 

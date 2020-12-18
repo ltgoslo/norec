@@ -1,0 +1,88 @@
+Nokia 7390
+TEST: 
+Selv om designet frir til den feminine delen av markedet, har ikke Nokia lagt noen fingre imellom når det gjelder å fylle 7390 med tekniske finesser. 
+Endelig en telefon som kombinerer design og teknologi? 
+
+La oss slippe katta ut av sekken med én gang: 
+Nokia 7390 er en telefon som kan sette din maskulinitet på prøve, forutsatt at du allerede har en. 
+
+En overveiende stor del av de mannlige kollegene som løftet opp 7390 møtte nemlig telefonen med omtrent samme blikk som hvis de hadde blitt bedt om å ta på seg maskara før julebordet. 
+
+Fasjonabel 
+
+Jeg kan forstå hva de mener. 
+Flippmobilen 7390 tilhører Nokias motetelefon-segment, og er en del av den såkalte L'Amour-serien, eller kjærlighetskolleksjonen om du vil. 
+Det betyr ornamenterte paneler både på inn- og utsiden, og en fargesammensetning som ikke nødvendigvis vil passe alle. 
+Hvis en aksepterer premissene for telefonen vil en likevel, sannsynligvis, sette pris på designet. 
+
+Men også en motetelefon har en innside, og her er det faktisk veldig mye å like. 
+
+Series 40 
+
+Nokia har lagt 40-serien av sitt Symbian-light-aktige operativsystem i bunn av telefonen. 
+Det skal du ikke tenke så veldig mye på, det betyr bare at telefonen har utvidet Java-kompatibilitet og for eksempel kan benytte seg av en rekke forskjellige Java-programmer fra tredjeparts leverandører. 
+
+Det betyr også at telefonen er kjapp. 
+I motsetning til en del andre Symbian-telefoner, selv de som kjører de mer avanserte utgavene, så er responsen nesten umiddelbar når en beveger seg gjennom menysystemet. 
+Følelsen av treghet er med få unntak nesten fraværende, noe som bidrar til å gi 7390 fin flyt ved daglig bruk. 
+
+Det som kan ende opp med å sinke deg er organiseringen av menysystemet. 
+Ikke alle er like komfortable med måten Nokia ordner ikonene sine i Symbian-operativsystemet, men her synes vi faktisk de har gjort en god jobb. 
+Du kan naturligvis velge hvilke applikasjoner som skal ligge på telefonens førsteside gjennom den såkalte "active standby"-funksjon, og snarveiene for navigasjonsknappene er også svært enkle å individualisere. 
+
+Mykt, men konsist 
+
+Tastaturet er, unnskyld uttrykket, en herlig opplevelse. 
+De store knappene er enkle å bruke selv for vektløfterhender, og avstanden opp til funksjons- og navigeringsknappene er akkurat så stor som den skal være. 
+Er det én ting motetelefoner ikke bør påføre sine brukere så er det strekkskader. 
+
+Den minimale skjermen på utsiden fungerer helt greit som en kjapp oversikt over hva som foregår under lokket. 
+Her kan du ved hjelp av tre taster navigere deg innom kamera, radio, musikkavspiller og taste-lås. 
+Innsideskjermen er ,til tross for sine 16 millioner farger og oppløsning på 240x320 piksler, bare grei nok. 
+Det betyr på ingen måte at den er dårlig, men den er verken blendende lys eller skarp og vil ikke gi deg ståpels eller oppmuntre til å ta bølgen på bussen. 
+
+Multimedia 
+
+Som forventet finner du musikkspiller og foto- og videoopptaker av helt grei kvalitet på 7390. 
+Mp3-filer kan enkelt dras over til telefonen via for eksempel USB-tilkobling, og musikkspilleren skanner minnekortet for ny musikk hver gang den startes opp. 
+Også radioen er enkel og rett-fram i bruk, kanskje litt for enkel. 
+Den mangler for eksempel RDS, så hvis du sliter med ujevn kvalitet på radiosignalene til og fra jobb får du ikke noe gratis her. 
+
+Vi liker derimot spesielt godt at den aktive radiokanalen er synlig fra førstesiden på begge skjermene, slik at en kan manøvrere seg gjennom kanalene uten å bla seg fram til radio-menyen. 
+Ikke noen ny funksjon, men fortsatt nyttig. 
+
+En 2.5mm-plugg gjør at du ikke uten videre kan bruke vanlige hodetelefoner, og de medfølgende ørepluggene var for store for mine ører - som i praksis pleier bety at de passer greit i de fleste andres ørekanaler. 
+Er du glad i musikk bør du uansett forberede deg på å anskaffe deg noe bedre enn lavprispluggene som følger med her. 
+
+Gjerrig på lagringsplass 
+
+Kameraet har 3.15 megapiksler, og produserer bilder på det jevne. 
+Det betyr kantete og grovkornet kvalitet på innebilder og ved dårlige lysforhold, mens bildene blir betraktelig bedre i dagslys utendørs. 
+(Trykk på bildene for eksempler!). 
+
+Det inkluderte minnekortet på 128MB blir i snaueste laget for ivrige dusjfotografer fest- og feriefotografer. 
+Et bilde med høyeste kvalitet og oppløsning tar rundt 0.7MB, og seks-sju minutter med video vil alene fylle opp kortet. 
+Hvis kortfilmsjangeren er din greie vil du sette pris på begrensningene, men hvis du har planer om å dokumentere motevisninger i Paris for misunnelige venninner i Oslo blir 128MB for tynt. 
+
+Du kan laste ned en video som viser kvaliteten på videoopptak her: 
+
+Nettproblemer 
+
+Nettleseren byr ikke på de store overraskelsene, og har alt du trenger for å bla deg gjennom tilrettelagte wap-sider. 
+Hvis du skal surfe på vanlige nettsteder blir sidene brukket om på lettere kaotisk vis, men hvis du absolutt må, foreslår vi vår favoritt Opera Mini, som tvinger gigantiske nettsider ned til lett håndterbare mobilstørrelser. 
+
+Det er et større problem at nettforbindelsen tidvis virker ujevn. 
+Vi har riktig nok brukt 7390 sammen med Netcom, som ikke er kjent for å levere de mest stabile dataforbindelsene over 3G og Edge, men sammenliknet med vår faste surfepartner, Nokia E61, er dette merkbart svakere. 
+7390 mister forbindelsen litt for ofte, ikke minst ved overgangen fra 3G til Edge, og alt du får vite er "Kobling ikke tilgjengelig. 
+Prøv igjen." 
+
+Den eneste måten å gjenopprette koblingen på er å starte nettleseren på ny, som føles omtrent like moderne som et rutete vinylgulv. 
+Vi antar at dette blir fikset gjennom en firmware-oppgradering, men enn så lenge er det plagsomt hvis du surfer mer enn gjennomsnittet. 
+
+Konklusjon 
+
+Det blir først og fremst en sak mellom deg og smaksløkene dine. 
+Trend-telefoner appellerer først og fremst til forfengeligheten, men dette er noe så sjeldent som et pent ansikt med en like pen innside. 
+
+Joda, nettproblemene kan være plagsomme, og vi kan alltids pirke litt i for eksempel radiofunksjonaliteten og kameraets grovkorna innebilder. 
+Totalinntrykket er likevel dønn solid, og hvis bare Nokia legger litt bølgedemping på den ustabile surfinga er dette riktig så bra. 

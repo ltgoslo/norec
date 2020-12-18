@@ -1,0 +1,50 @@
+D-Link DIR-615
+Har du ikke trådløst eller sitter med en gammel ruter, men vil ikke bruke mye penger? 
+
+Trådløse rutere har blitt allemannseie, spesielt etter at de bærbare kom ned i pris og foretrekkes av de fleste hjemmebrukere. 
+Vi har dessuten trådløse skrivere, mediespillere og spillkonsoller - nye mobiltelefoner og MP3-spillere får også støtte for trådløst. 
+
+LES OGSÅ: 
+
+Mange har allerede hatt en trådløs ruter i flere år, og har vært fornøyd med den. 
+Men utviklingen har ikke stått stille, både hastigheten og rekkevidden på nye rutere som støtter 802.11n er langt bedre i dag enn da utstyr med 802.11b kom på banen, og forskjellen til 802.11g er også påtagelig. 
+
+Har du nylig kjøpt bærbar er det stor sjanse for at denne har støtte for 802.11n. 
+Sitter du da med en eldre ruter får du ikke utnyttet den bærbare, spesielt ikke når du skal kopiere filer mellom andre PCer på hjemmenettet som er koblet til med nettverkskabel. 
+
+Da er det kanskje en idé å vurdere å bytte til en raskere ruter? 
+
+Billig ruter for hjemmebruk 
+
+D-Link har utviklet DIR-615 for bruk på den hjemlige arena, for de som ikke har ekstreme behov. 
+Det er i første rekke lagt vekt på lav pris, enkel installasjon og egenskaper som er aktuelle for den vanlige bruker. 
+
+Men det betyr ikke at den ikke støtter mer avanserte finesser som dynamisk DNS, port forwarding, filtrering osv. 
+Alt dette er på plass, men for den typiske hjemmebruker som bare skal dele tilgang til internett er det lag til rette med en svært enkel installasjon. 
+
+CDen som følger med sjekker status på PC og internettilkobling, og veileder deg trinn for trinn til du er på nett. 
+Det tar et par minutter og det eneste som kreves er at du vet hva slags tilkobling du har, brukernavn og passord. 
+Du velger så sikret eller åpent trådløst nett, legger inn passord og eventuelt skjult nettverksnavn og det er det hele. 
+
+Som de fleste andre rutere har den 4 porter til kablet nettverk og en port til boksen fra nettleverandøren. 
+
+Like bra som storebror? 
+
+D-Link har flere rutere, og en av de aller raskeste vi har testet er storebroren DIR-655. 
+Denne har gigabit nettverksporter, mer avansert håndtering av datastrømmer, en mer avansert antenneløsning, og koster i skrivende stund omtrent dobbelt så mye. 
+
+DIR-615 har bare 2 antenner, og 100Mbit nettverksporter, og vi forventet ikke at den skulle yte like bra. 
+Det gjør den da heller ikke, men det er ikke like viktig for alle brukere. 
+
+Gigabit nettverk trenger du bare hvis du stadig overfører mange og store filer mellom maskiner på nettverket. 
+3 antenner gir både bedre spredning og mottak, men har du en mindre bolig er ikke dette nødvendig. 
+Er du en ivrig gamer og må dele nettverksforbindelse med andre i familien som bruker Skype og/eller andre IP-telefoniløsninger eller laster ned filer - da trenger du bedre styring av datastrømmene (QoS - Quality of Service). 
+
+Hvis dette ikke er din for for husbruk så klarer du deg med en enklere og rimeligere ruter, som DIR-615. 
+
+Hastigheten er helt kurant for vanlig nettbruk, og holder seg godt selv om PCen er nede i kjelleren og ruteren er plassert oppe under mønet på hemsen 3 etasjer over. 
+
+Men sammenlignet med toppmodellen fra D-Link har den ikke en sjanse. 
+
+Så valget er ditt. 
+Trenger du noe enkelt med bra ytelse eller det råeste du får til dobbelt pris? 

@@ -1,0 +1,126 @@
+MSI GT780DX
+Tro oss: 
+Dette er et monstrum av en maskin. 
+
+Første gang jeg hørte noen omtale en datamaskin som et monstrum, var da jeg kjøpte min første 486 DX2 66 MHz i 1994. 
+Maskinen hadde tross alt et Tseng PCI-grafikkort med 1 MB minne, 8 MB RAM og en harddisk på hele 540 MB, og kostet så mye at jeg har fortrengt det med årene, men selgeren var klokkeklar: 
+- Gratulerer med et monstrum av en maskin. 
+
+I dag får du armbåndsur som hadde parkert den gamle PC-en, både i kraft og kapasitet, og i forhold til dagens kraftigste bærbare PC-er er den ikke en gang som en mygg å regne. 
+
+Kraftigst 
+
+En av dem har vi hatt på testbenken siste uka. 
+MSI GT780DX er kort og godt den kraftigste bærbare PC-en vi har hatt til test noen sinne, og det har vært et morsomt bekjentskap. 
+Det er imidlertid ikke den raskeste på markedet, mer om det senere. 
+
+Noen av dere vil sikkert huske lillebror GT680R, som vi testet i mai, og som den gang var den raskeste maskinen vi hadde testet. 
+GT780DX har fått flere forbedringer, ikke minst SSD og raskere grafikkort. 
+Og ja, vi har en ny bestenotering her. 
+Mer om det senere. 
+
+For før vi går i gang med ytelsestall og våre inntrykk av maskinen, skal vi se nærmere på noen viktige tekniske data: 
+
+17,3" matt skjerm med full HD-oppløsning (1920 x 1080)Intel Core i7-2630QM prosessor (fire kjerner)16 GB RAMNvidia Geforce GTX 570M grafikkort (1,5 GB GDDR5)1 x 120 GB SSD + 750 GB harddiskBlu-ray leser / DVD-brennerWebkamera med HD-oppløsning (720P)Gigabit nettverkTrådløst nettverk (G/B/N)Bluetooth V3.0+HS2 USB 3.0-porter + 3 USB 2.0-porterHDMI- og VGA-utgangereSATA-kontaktKortleser for SD/MS/XD-minnekort 9-cellers batteriWindows 7 Home Premium, 64-bits42,8 x 5,5 x 28,8 cm3,5 kg 
+
+Her har produsenten forsynt seg godt på øverste hylle, med lynrask firekjernet prosessor, SSD fra Intel som systemdisk, hele 16 GB minne, og en av de raskeste grafikkløsningene tilgjengelig. 
+Blu-ray-leser og fem USB-porter, hvorav to er USB 3.0, betyr at de færreste av oss vil savne noe som helst. 
+
+Alle tilkoblingene sitter på sidene, med unntak av skjermutganger, eSATA og strøminntak, som sitter i bakkant. 
+
+Kabinettet er i hovedsak i plast, men det er et aluminiumsbelegg i lokket som beskytter skjermen godt mot trykk. 
+Det er også et aluminiumsbelegg under tastaturet, som gir en kjølende effekt når du lener håndleddene mot dem. 
+
+Deilig med matt skjerm 
+
+Matt skjerm med full HD-oppløsning er noe mange vil sette pris på, og vi har fått mange tilbakemeldinger fra leverandører om at gamer-publikummet spesielt etterspør matte skjermer. 
+Fordelen er først og fremst at du slipper gjenskinnet som rammer nær sagt alle skjermer med blank kontrastoverflate. 
+
+En så stor skjerm tåler dessuten godt full HD-oppløsning, og bildekvaliteten er god. 
+Men i likhet med de fleste skjermer i bærbare PC-er, er heller ikke her innsynsvinklene de aller beste. 
+
+Regnbue-tastatur 
+
+PC-en har et helt greit baklyst chicklet-tastatur fra Steelseries (med unntak av altfor liten enter-tast), og det er ikke et hvilket som helst baklys. 
+Det starter med rødt på venstre siden, går over i oransje, gult, grønt, turkis og blått på motsatt side. 
+Da forstår du sikkert at PC-en slett ikke er myntet på et konservativt publikum. 
+
+Effekten kan heldigvis skrus av, hvis du synes det blir litt over kanten. 
+Den berøringsfølsomme bryteren, samt flere andre snarveier, sitter over tastaturet - mellom høyttalerne. 
+Vi merker her at det er en viss svikt i panelet, noe som tyder på at materialvalget ikke er like solid overalt. 
+
+God lyd! 
+
+Høyttalerne er fra DynAudio, og sammenlignet med de fleste vi har lyttet til tidligere kan vi absolutt gi tommelen opp. 
+Lyden er uvanlig fyldig og velbalansert - med en rund og presis bass. 
+Til spilling og enmannskino er dette helt OK, men naturlig nok ikke noe du vil fylle et rom med. 
+
+Under tastaturet sitter en matt pekeplate med to adskilte knapper for venstre- og høyreklikking. 
+Bruksmessig helt OK, men knappene avgir litt høyere klikkelyd enn vi setter pris på. 
+
+I bruk 
+
+Maskinen kommer lastet med en god del demo-programmer og noe crapware som du neppe vil få bruk for - men vi har sett langt verre. 
+Programmene senker ikke bruksopplevelsen i særlig grad, og kan uansett fjernes. 
+
+En stjerne øverst i midten på skjermen skjuler en verktøylinje med en rekke snarveier til funksjoner du kanskje bruker ofte, og du kan legge til flere selv. 
+
+Naturlig nok oppleves maskinen som kjapp i nær sagt alle sammenhenger. 
+og spesielt morsomt er det å se hvordan den kverner høyoppløst spillgrafikk uten det minste tegn til besvær. 
+Grafikkytelsen er da også den klart beste vi har sett noen sinne. 
+Selv hardcore gamere vil finne dette tilfredsstillende, også når de nyeste spillene skal utforskes med aller høyeste grad av detaljer aktivert. 
+
+Windows Opplevelsesindeks gir oss klare indikasjoner på at dette er en maskin som befinner seg høyt oppe i øvre skikt, hva angår ytelse. 
+Her går skalaen fra 1.0 (svakest) til 7,9 (raskest): 
+
+Prosessor: 7,4 Minne (RAM): 
+7,3 Grafikk: 
+7,3 Spillgrafikk: 
+7,3 Primær harddisk: 
+7,6 
+
+Passmark PerformanceTest 7.0 gir oss følgende tall, her har vi sammenlignet ytelsen mot 680R: 
+
+Forskjellene er altså ikke enorme, så at PC-en oppleves som raskere skyldes først og fremst at den er utstyrt med SSD som systemdisk der 680R hadde harddisk - riktignok i RAID-oppsett. 
+
+Merk imidlertid at harddisken i denne PC-en skrur seg av automatisk. 
+Har du filer liggende der, kan det derfor ta noen sekunder å åpne dem, siden harddisken må "vekkes til live" først. 
+Fordelen er at du slipper å høre at harddisken surrer til en hver tid. 
+Strømstyring av harddisk kan uansett justeres fra kontrollpanelet i Windows. 
+
+Prosessor og grafikk i øvre skikt 
+
+Totalt sett - ingen tvil om at dette er den raskeste maskinen vi har testet noen sinne. 
+Men finnes det raskere maskiner på markedet? 
+Ja, det gjør det, men merk at de færreste maskinene med raskere prosessor og grafikkort kommer med SSD som systemdisk. 
+Den spiller en vesentlig rolle for den totale hastigheten. 
+
+Passmark sier følgende om prosessorytelsen, sammenlignet med prosessorer som sitter på andre maskiner i 15-20.000 kroners klassen. 
+Merk at denne prisklassen domineres totalt av Intel-prosessorer: 
+
+Grafikkytelsen er meget høy, men det finnes også langt raskere kort på markedet nå, spesielt de raskeste i 6-serien fra AMD har mer pudding å by på: 
+
+Maskinen har effektive - men også litt støyende vifter som slår inn under tøff belastning, og noen ganger uten særlig belastning. 
+Du kan imidlertid sette maskinen i øko-modus, og spare deg for viftene i lange perioder, for eksempel under kontorarbeid, film og lignende. 
+
+Godkjent batterilevetid 
+
+Høy prosessor- og grafikkytelse går gjerne på bekostning av batterilevetiden, og MSI GT780DX er intet unntak. 
+Det store 9-cellers batteriet holdt i 2 timer og 50 minutter under kontinuerlig videoavspilling, og rundt 4 timer med minimal belastning. 
+Det betyr at levetiden ligger på rundt 3,5 timer ved normal, variert bruk. 
+Det er langt fra elendig, men også langt fra toppen. 
+
+Konklusjon 
+
+Spillglad med god økonomi? 
+Da bør du se hit. 
+Her har du en svært kraftig PC med godt utstyrsnivå som vil dekke PC-behovene i lang tid framover. 
+Vi nevner også at MSI tilbyr full garanti i 2 år. 
+
+PC-en er stor og tung, og designen tiltaler nok ikke alle. 
+Men som spill- og underholdningsmaskin på gutte- og jenterommet bør den absolutt vurderes. 
+
+Merk imidlertid at SSD og Blu-ray er vesentlig dyrere enn harddisk og DVD-leser, noe som gjør at PC-en nok vil være i dyreste laget for mange. 
+Er du spillinteressert bør du også få med deg testene av Toshiba Qosmio F750, Multicom Kunshan P150 og Asus G73SW. 
+
+MSI GT780DX-231NE 

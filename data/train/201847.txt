@@ -1,0 +1,64 @@
+LinuxMint 10 Julia 
+
+Sannsynligvis den beste Linux-distribusjonen for skrivebordet. 
+
+Linux lever i skyggen av Windows og MacOS, og har bare rundt 1% markedsandel på skrivebordet på verdensbasis, til tross for at operativsystemet er gratis. 
+Det er mange grunner til det. 
+Hovedgrunnen er at det knapt er mulig å kjøpe ny datamaskin i dag uten Windows eller MacOS installert. 
+En annen viktig grunn er at det finnes et hav av forskjellige Linux-distribusjoner, noe som er mildt sagt uoversiktlig for sluttbrukeren. 
+
+Vår favoritt-Linux 
+
+DinSide Data har testet og omtalt en rekke Linux-distribusjoner (distribusjon=operativsystem+programmer) gjennom mange år, men ingen av dem har gjort bedre inntrykk på oss enn Linux Mint. 
+Det som gjør Linux 
+Mint spesielt interessant er at du ikke behøver å tenke på å installere videokodeker, Java, Flash og lignende, alt er på plass med det samme du starter maskinen. 
+
+Grensesnittet er dessuten temmelig likt Windows, noe som gjør det relativt enkelt å komme i gang med for folk flest. 
+Linux 
+Mint er bygd på en annen kjent Linux-distribusjon, Ubuntu, og alle drivere og programmer som fungerer i Ubuntu, fungerer også i Linux Mint. 
+
+10. utgave 
+
+Nå er den tiende utgaven av Linux Mint nettopp lansert, og vi har selvsagt prøvd den. 
+For en oversikt over alt som er nytt, klikk her. 
+
+Denne gangen installerte vi operativsystemet på en eldre bærbar Lenovo-PC med Celeron-prosessor, 1,5 GB minne og Intel grafikkbrikke. 
+Svært beskjeden maskinvare, med andre ord, men Linux Mint krever ikke mer for å fungere helt greit og uten kjedelige forsinkelser. 
+
+Operativsystemet kommer denne gangen i en CD-versjon og en DVD-versjon som kan lastes ned fra linuxmint.com eller en av de mange "mirror"-nettstedene i form av ISO-filer. 
+Disse ISO-filene kan deretter brennes til plate, i Windows 7 gjøres dette enkelt ved å høyreklikke på ISO-filen: 
+
+DVD-versjonen inneholder litt mer enn CD-versjonen, men dette kan uansett enkelt installeres i etterkant. 
+
+Kan kjøres rett fra CD 
+
+Linux 
+Mint kan kjøres rett fra plata (starte PC med plate i drevet), installeres i et virtuelt dataområde i Windows, parallelt med Windows (via oppstartsmeny) eller som eneste operativsystem på PC-en. 
+Det siste er alltid det beste valget, men om du vil beholde Windows som standardsystem anbefaler vi å installere Linux Mint i et virtuelt dataområde: 
+
+CD-en/DVD-en inneholder operativsystemet på en rekke språk, også norsk, men vi vil definitivt anbefale engelsk. 
+Dette skyldes at ikke alt er oversatt, samt at noen av oversettelsene er pinlig dårlige. 
+Velkomstskjermen er et godt eksempel på det: 
+
+Har du en litt eldre PC er sjansene store for at du ikke behøver å tenke på installasjon av drivere til maskinvaren i etterkant. 
+Vår PC er intet unntak, og det er forbløffende å kunne være på nett og ha alle nødvendige kontorapplikasjoner (OpenOffice.org), grafikkprogrammer (The Gimp) og multimedieprogrammer på plass en halv time etter å ha satt inn platen første gang. 
+
+Her har vi samlet skjermbilder av noen av dem: 
+
+Kompatibel så det holder 
+
+Hele 20 av våre 21 videoformater lot seg avspille helt uten videre, én etter én, det var bare å dobbelklikke på dem: 
+
+Vår relativt svake PC klarte å spille av et divx-videoklipp i 1080P (full HD), mens MKV-fila i samme oppløsning hakket. 
+Vi har tidligere påvist at det normalt ikke er noen stor forskjell i videoytelsen i Linux i forhold til Windows. 
+
+Den største positive overraskelsen var derimot at vi kunne spille av videoene i NRKs programbibliotek, TV2 Sumo og lytte til P4 gjennom Firefox helt uten behov for konfigurasjoner av noe slag. 
+
+Vi har samlet en del skjermbilder under, som viser de forskjellige nettjenestene vi testet mot, og hvilke som fortsatt er problematiske: 
+
+Konklusjon 
+
+Den beste Linuxen (mener vi) for skrivebordet, er blitt enda litt bedre. 
+Har du lyst å prøve et godt alternativ til Windows og Mac, behøver du ikke lete lenger. 
+
+Du finner mer informasjon og kan laste ned Linux Mint 10 Julia fra linuxmint.com. 

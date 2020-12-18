@@ -1,0 +1,132 @@
+Dell XPS M1330
+Dell har hatt sine problemer med forsinkelser, men når den først kommer frem er ultraportable XPS M1330 verd ventetiden. 
+
+Det er nå nærmere et år siden vi sist hadde en Dell-merket bærbar på vår testbenk, og en god del har naturligvis skjedd på det året. 
+Santa Rosa har tatt over showet med nytt brikkesett og Core 2 Duo-prosessorer. 
+Prisene er lavere, ytelsen er høyere og kundene mer kresne. 
+Alt i alt helt som forventet. 
+
+LES OGSÅ: 
+
+Dells XPS-maskiner har i lang tid vært "high end" innen bærbare for privatmarkedet, og trettentommeren M1330 har uten tvil vært en av høstens mest etterlengtede og omdiskuterte - for ikke å snakke om forsinkede - ultraportable datamaskiner. 
+
+XPS M1330 deler selvfølgelig det konseptet Dell har vært kjent for - altså at du kan forandre på spesifikasjonene ettersom du har penger og behov. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo fra 1,5 til 2,2 GHz 13,3" skjerm på 1280 x 800 punkter Slot-in 8x DVD+/-RW Fra 1 til 4 GB DDR2-minne 120 - 320 GB harddisk Intel GMA X3100 eller nVidia 8400M GS grafikk WLAN (a/b/g/n), LAN, Blåtann Kan fåes med mobilt bredbånd (innebygd 3G/HSDPA-modem) 2 x USB, FireWire, 1 ExpressCard/54 kortplass Kortleser for SD, MMC, MS, MSPRO VGA og HDMI ut, lyd inn, 2 x lyd ut 4, 6 eller 9-cellers batteri Fingeravtrykksleser kan velges Webkamera og mikrofon integrert i skjermen Dimensjoner (B/D/H): 
+31,9 x 23,9 x 3,6 cm (med 4- eller 6-cellers batteri) Vekt ca 1,9 kilo 
+
+Vår testmodell var bestykket med Core 2 Duo T7300 (2,0 GHz), 2 GB RAM (2 x 1024 MB), 160 GB harddisk (5400 RPM), GeForce M8400 GS grafikkløsning, White-LED-skjerm, fingeravtrykksleser og 6-cellers batteri. 
+Totalt snakker vi om en pris på omtrent 13.500 for denne, inkludert Windows Vista Home Premium. 
+
+Vi ble også tilsendt et 9-cellers batteri og har målt dette i forhold til det på 6 celler. 
+
+Konstruksjon 
+
+Da Dell i sommer annonserte XPS M1330 reklamerte de den som "verdens tynneste 13-tommers laptop", noe som må sies å være en sannhet med modifikasjoner. 
+Den er riktignok kun 2,2 cm tykk, men det er kun ved fronten av maskinen, den er langt tykkere bak. 
+Dessuten kommer føtter i tillegg, så med våre målemetoder (fra bordflaten og ved tykkeste punkt) skrives den inn på 3,6 cm. 
+
+Til test hadde vi den sorte utgaven, som ikke uventet har et matt sort topplokk med både Dell-logo og "XPS" i sølv. 
+Den kan i skrivende stund også fås med rødt panel. 
+Inni er den hard på sort og sølv i plast - med unntak av håndleddstøtten av børstet aluminium. 
+
+Typisk for Dell-maskiner er de gode tastaturene, og XPS M1330 skuffer på ingen måte med sitt sølvfargede. 
+Hele maskinens bredde er utnyttet, noe som gir god plass til tastene. 
+Fn er plassert til høyre for Ctrl, og det er satt av ekstra plass til høyre for linjeskift-tasten - akkurat som vi liker det. 
+Tastaturet har litt svikt, men på ingen måte så mye at det ikke er godt å skrive på. 
+Støynivået er også lavt, med unntak av mellomroms-tasten (space) som gjør litt vel mye ut av seg ved energisk tasting. 
+
+Av/på-knappen finner vi plassert midt på over tastaturet. 
+Til venstre for denne har vi en snarvei til Dell Media Direct-programvaren, og til høyre en rekke trykkfølsomme medietaster. 
+Over denne raden igjen er høyttalerne plassert. 
+
+Touchpaden er god og følsom, med skrollefelt i alle retninger. 
+Tilhørende knapper er også av god kvalitet - passe store og behagelige i bruk. 
+
+Når det gjelder hovedchassiset er dette solid og fast selv om slot in-mekanismen gir en liten svakhet på høyre side. 
+Vi ser likevel ikke at dette skulle være noe problem. 
+
+Lokket er på den annen side en liten bekymring. 
+Det er godt hengslet, men samtidig tynt og ikke spesielt stivt. 
+Kort sagt er dette delen på denne maskinen vi ville passet ekstra godt på å ikke gi for mye juling. 
+
+White-LED-skjermen med 1280 x 800 punkter benytter seg - som navnet hinter til - av LED-lamper for å gi baklys til skjermen, noe som skal gi bedre bilde og samtidig bruke mindre strøm. 
+Hva vi i det minste kan se er at lysstyrken er bedre enn på de "gamle" LCD-skjermene for bærbare, og det betyr jo at farger og kontrast kommer bedre frem. 
+Og selv om det fremdeles er best å sitte rett foran skjermen får vi også bedre bilde dersom vi ser på skjermen fra sidene eller ovenfra. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter finner vi foran og på sidene. 
+Varmluften blåses ut bak. 
+
+På venstre side finner vi inntak for strøm, VGA ut, LAN, USB, HDMI og FireWire. 
+
+Slot-in DVD-brenneren tar mye av plassen på høyre side, men det er også blitt funnet plass til feste for kensingtonlås, en USB til (ja, maskinen har kun to USB), ExpressCard/54-slot, knapp som skrur av og på trådløs oppkobling og en såkalt WiFi-catcher. 
+Denne sistnevnte anretningen lar deg se etter trådløse nett uten å behøve skru på maskinen. 
+
+Foran er to lydutganger og en inngang. 
+I tillegg kommer minnekortleseren. 
+
+Ytelse og batterilevetid 
+
+Det vrimler enn så lenge ikke av 13,3-tommere på markedet, og mens den kanskje mest populære her har vært Apple MacBook. 
+Denne har vært gjennom et par oppdateringer siden vi testet den og vi vil derfor ikke sammenligne med denne nå, men vi har også testet Multicom Z37S - noe vi gjorde i sommer. 
+Denne kan i likhet med XPS og MacBook konfigureres etter ønske og behov. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Multicom Z37S og XPS M1330 er ganske likt konfigurert, men Dellen gjør det jevnt over litt bedre - grafikkløsningen har her mye å si. 
+
+Z37S har på sin side Intel turbominne, og gjør det derfor også bedre på generell diskytelse. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+Som vi ser er forskjellen spesielt stor på grafikksiden - begge maskinene har GeForce 8400M fra nVidia, men Z37S har 8400M G, mens XPSen har 8400M GS. 
+Som vi kan se kan en liten bokstav bety mye når det gjelder grafikkytelse... 
+
+Grafikkdelen på små og lette bærbare er sjelden spesielt kraftige, og mens GeForce 8400M GS på ingen måte kan regnes som en entusiastløsning er det så avgjort blant de beste kortene det er mulig å finne på en ultraportabel PC. 
+
+Batteri: 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+Dell har ofte imponert oss med lang levetid på batteriet og opprettholder med XPS M1330 sitt overtak på den fronten. 
+Med våre testrutiner klarer den altså tre og en halv time med 6-cellers batteriet, noe som burde holde for de fleste vanlige brukere. 
+
+Men trenger du mer tid har du altså muligheten til å kjøpe et større batteri. 
+Det store på 9 celler målte vi til 316 minutter - altså fem timer og et kvarter. 
+Men merk at dette batteriet stikker ut bak på maskinen og vipper vekten over to kilo. 
+
+Støy er et annet punkt 
+Dell ofte har gjort det bra på, og på mange måter er XPS M1330 en fryd for øret. 
+Når den ikke jobber hardt suser den litt, men det er ikke stort mer enn harddisken vi hører. 
+Så får vi heller leve med at den blir litt varm (men ikke brennvarm) på undersiden. 
+
+Men får maskinen mye å jobbe med kan vi ikke akkurat kalle den stillegående. 
+På den annen side vet vi ikke om noen vanlig bærbar med muskler som ikke støyer under hard belastning. 
+
+En ting til vi også må nevne i denne sammenhengen er en svak, høyfrekvent "piping" fra XPSen, som vi spesielt har merket i stille omgivelser når strømkabelen er koblet til. 
+Den har ikke vært høy nok til å være direkte plagsom, men merkbar for folk som reagerer på denne typen lyder. 
+Er du var for slikt kan det altså bli et irritasjonsmoment. 
+
+Vurdering og konklusjon 
+
+Dell XPS M1330 har vært et produkt med høye forventninger knyttet til seg, og vi må si at maskinen innfrir - dette er nok et bevis på at Dell lager gode bærbare. 
+Batterilevetid, viftestøy (eller rettere sagt mangel på dette) og generell kvalitetsfølelse er på topp, men vi kunne ønsket oss et litt mer solid lokk/skjerm. 
+
+Men vær altså obs på at dette er en maskin der du får det du betaler for. 
+I forhold til modellen vi har testet vil grunnprisen på litt over ni tusenlapper gi deg en dårligere skjerm, dårligere grafikkort (for spilling), ingen blåtann, prosessor på 1,5 GHz, kun 1 GB minne og så videre. 
+
+Og da vil plutselig Apple MacBook være et høyst reelt og kanskje bedre alternativ. 
+Et annet godt alternativ er selvfølgelig Multicom Z37S som vi har sammenlignet med, her må du veie det du sparer i penger opp mot økt batterikapasitet og grafikkytelse. 
+
+Men bortsett fra at du ikke får noe gratis er det lite å klage på ved M1330. 
+Vi hadde ønsket oss omplassering av lydkontaktene i fronten, gigabit kablet nettverk og en USB-port eller to til, men det er hovedsaklig småtterier som ikke forandrer på det faktum at Dell denne gangen har satt sammen en lekker liten sak. 
+
+Dell XPS 1330 fortjener en sterk femmer. 

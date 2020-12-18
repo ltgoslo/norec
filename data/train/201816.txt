@@ -1,0 +1,111 @@
+HP Photosmart R927
+TEST: 
+Som en av de første publikasjonene i verden, har vi fått lov til å leke oss med HPs nye toppmodell. 
+Her er dommen! 
+
+HP har lenge vært blant de flinkeste i klassen når det gjelder brukervennlighet, med menyer på norsk, lettfattelige tilbakemeldinger og innebygde funksjoner i kameraet som nesten gjør det unødvendig å overføre bildene til PC før de skrives ut. 
+Da vi var på PMA-messen i Orlando forrige uke, pratet vi med noen av HPs høye herrer der de bekreftet vår mistanke om at målgruppen for samtlige av HPs kameraer først og fremst var amatører som trengte noe enkelt, og som gjerne bare ville ta ut minnekortet og levere til fremkalling uten noe mer PC-mikkmakk. 
+
+Med en veiledende pris på tre tusenlapper (pluss 500 for krybba) får du åtte megapiksler og en tre tommers skjerm pakket inn i børstet stål. 
+Objektivet er levert av Fuji og byr på 3x optisk zoom (7.5-22.5mm, som tilsvarer ca. 35-105mm på 35mm-språk) med blenderåpning på f/2.8 til f/5.0 på henholdsvis vidvinkel og tele. 
+Med andre ord et relativt lyssterkt objektiv når zoomen ikke brukes, men litt i svakeste laget på full tele. 
+CCD-brikken er av typen 1/1. 
+8  ganske vanlig for denne typen kamera, selv om åtte megapiksler på en så liten brikke støymessig kan by på problemer. 
+
+I denne sammenhengen har vi lyst til å introdusere et måltall: 
+CCD-sensorer pr. kvadratmillimeter. 
+I dette tilfellet måler sensoren 7,18mm x 5,32mm og har dermed et areal på 38,2 kvadratmillimeter. 
+Med en oppløsning på 3296x2480 betyr dette at tettheten er 8174080 / 38,2 eller cirka 214.000 sensorer pr. kvadratmillimeter (!). 
+
+Solid førsteinntrykk 
+
+Som vanlig tar vi en rundtur på utsiden først 
+ på forsiden biter vi oss merke i et søkk som akkurat passer til høyre langfinger, og som gjør kameraet mer bekvemt å holde. 
+Utløserknappen er stor og lett og finne, og blitsen er plassert i god avstand fra linsa for å begrense røde øyne, uten at det nødvendigvis har vært hensikten, siden kameraet har innebygd fjerning av røde øyne. 
+
+Snur vi kameraet rundt, finner vi en stor tretommers skjerm med 170.000 piksler; en passende oppløsning til en så stor skjerm, men ikke den høyeste vi har vært borti. 
+Med så stor skjerm er vi ikke overrasket av ikke å finne noen optisk søker. 
+
+Nede til høyre har vi piltaster med en meny/ok-knapp i midten som er vinklet på en måte som gjør at tommelen sitter fint, og det er lett å føle seg frem selv om det er mørkt. 
+Det samme gjelder zoomkontrollen lenger opp 
+ i det hele tatt er R927 meget ergonomisk utformet. 
+
+På toppen av kameraet finner vi seks knapper  en knapp som er dedikert til film (og som kan starte filmopptak når som helst), og knapper for kontroll av blits, makro/fokus, deling av bilder, avspilling/opptak og av og på-bryter. 
+Sistnevnte må holdes nede et lite halvsekund for å slå av og på kameraet, så slipper man uhell mens det ligger i lomma. 
+
+Oppstartstiden målte vi til 2,3 sekunder  ikke helt blant de beste, men når objektivet skal komme ut av kameraet, bruker kameraet som regel litt lengre tid på å starte. 
+Kameraet starter alltid med automatisk blits og uten noen forhåndsinnstilte programmer, men tar vare på noen av dine innstillinger som bildekvalitet, automatisk røde øyne-fjerning etc. 
+
+Særdeles brukervennlig 
+
+Menyene er i særklasse 
+ det store displayet gjør teksten svært lettlest og fin, med fornuftig grupperte funksjoner og hjelpetekster til det meste. 
+Du kan også få analysert bilder du har tatt, der kameraet kommer med tips til svakheter med bildet; for eksempel at det er ute av fokus og at du holdt det ustøtt da du tok bilde, med tips om å dobbeltsjekke at du får 
+grønt lys før du trykker utløserknappen helt ned. 
+
+Kameraet har også et drøyt dusin forhåndsinnstilte modi, som for eksempel sportsfotografering, nattlys og snø. 
+Vi liker også at det er mulig å ta både blender- og lukkerprioriterte bilder, og at kameraet før du tar bilde gir deg et hint dersom bildet kommer til å bli alt for mørkt. 
+Manuell fokusering er også en mulighet, og det fungerer ved at et område sentralt i bildet blir forstørret opp, slik at man lettere kan justere fokus. 
+Dessverre er oppløsningen litt i dårligste laget på det forstørrede bildet, og det er ikke alltid like lett å finne optimal hva som blir optimalt dersom motivet ikke har høy kontrast. 
+
+I tillegg finner vi så å si alt av kjente og kjære funksjoner, som selvutløser, eksponeringskompensasjon, hvitbalanse, autofokustype, følsomhet etc. 
+Vi har også muligheten til å aktivere det HP kaller alternativ eksponering, der kameraet lagrer tre bilder med litt ulik lyssetting, eksponering eller farge. 
+På den måten kan du velge det beste bildet etterpå, ikke helt ulikt best shot-funksjonen vi finner i blant annet Nikons modeller. 
+
+Et hav av funksjoner 
+
+Når bildet er tatt, byr kameraet på et hav av muligheter til å justere i etterkant. 
+HP har utviklet en algoritme for automatisk å finne og fjerne røde øyne, og denne fungerer veldig bra når det gjelder gjenkjenning, men vi synes at justeringen på noen av bildene gir litt for sorte øyne slik at personene får et tomt blikk. 
+Dette gjelder spesielt bilder der motivet har blitt litt uskarpt som følge av en ustø hånd, der pupillkanten blir unaturlig skarp (se bilde under). 
+
+Kameraet har også en innebygd panoramafunksjon, noe HP-kameraene også tidligere har vært gode på, og det hadde ingen problemer med å stifte sammen våre testbilder uten at skjøtene syntes. 
+
+Det er i det hele tatt gode muligheter for å leke seg 
+ i det såkalte designgalleriet finnes en rekke effekter, og mange av dem kjenner vi igjen fra filter-menyen i Photoshop. 
+Her kan du endre bildet slik at det ser ut som det er tegnet med store blekkdråper, vannfarger eller retrostil a la Andy Warhols bilder av Marilyn Monroe. 
+Videre kan du manipulere bildet til å se ut som et gammelt fotografi, med riper, støv og brunskjær, eller kanskje det artigste  muligheten til å gjøre personer i bildet slankere enn de egentlig er. 
+Du kan også legge på rammer og lage kaleidoskop. 
+
+For det er nettopp dette HP først og fremst tilbyr med dette kameraet 
+ muligheten til å foreta justeringer i kameraet for deretter å levere minnekortet i en fotobutikk eller skrive ut direkte med PictBridge. 
+Du kan også merke hvilke bilder du ønsker å skrive ut slik at dette skjer automatisk når du kobler kameraet til en skriver, eller velge en epostadresse å sende bildene til med en gang du er tilbake foran PCen (som du har definert på forhånd via medfølgende programvare). 
+
+Med andre ord 
+ et hav av funksjoner, glimrende brukervennlighet, solid konstruert  hva så med bildekvaliteten? 
+
+Bildekvalitet 
+
+HP-kameraet verken skuffer eller imponerer når det gjelder bildekvalitet, og det tar generelt greie bilder uten alt for mye støy, mens automatikken takler de fleste forhold på en god måte; både på knipserunde i solfylte Orlando og i snøfylte Norge. 
+Opp til ISO 100 er bildene relativt støyfrie, mens det på ISO 200 (og 400) begynner å melde seg en del støy som spesielt er synlig i mørke partier. 
+Det er riktignok lite fargespill i støyet, og det setter vi pris på. 
+
+Vi opplevde i mange av bildene ganske sterk kromatisk feilbrytning. 
+Følgende er et utsnitt fra en solfylt dag i Orlando 
+ legg merke til de tydelige lilla kantene rundt betongblokkene. 
+Dette fenomenet gjentar seg på mange bilder; særlig av skarpe kanter mot en lys himmel. 
+
+En annen innvending er at bildene blir litt mangelfulle når det gjelder detaljnivå, noe du selv kan se på i bildegalleriet. 
+
+Videofunksjonen er det også verdt å nevne. 
+Kameraet fanger 24 bilder pr. sekund med 640x480 pikslers oppløsning, men byr på noe vi ikke har sett hos noen andre 
+ filmen kan nemlig spilles av bilde for bilde, både forlengs og baklengs, og alle bilder kan dermed lagres separat på minnekortet. 
+En liten kommentar til videosnutten under: 
+Hun til høyre er ikke en dukke. 
+
+Ytelse 
+
+Ytelsesmessig er akilleshælen autofokuseringen som bruker lang tid i dårlig lys, og som i slike forhold noen ganger må melde pass. 
+Kameraet har heller ikke noe imponerende makrofunksjon, med en nærgrense oppgitt til 12cm, og det er blant de dårligste. 
+
+Kameraet yter ellers på det jevne for kameraer i denne klassen, men med en litt svak oppstartstid på 2,3 sekunder. 
+To blitsbilder går unna på drøye to og et halvt sekund, og kameraet kan ta tre bilder uten blits i løpet av 1,3 sekunder før bufferet må tømmes. 
+Vi liker også at zoomen er ganske rask og bruker et snaut sekund hver vei. 
+
+Under følger en ytelsessammenligning med noen av kameraene vi har testet i det siste: 
+
+Konklusjon 
+
+HP R927 er først og fremst et kamera for deg som vil ha det enkelt  det er enormt brukervennlig og tilbyr massevis av funksjoner i kameraet som automatisk panoramaliming, fjerning av røde øyne og morsomme effekter som gjør at bildene ikke trenger å være innom en PC før de fremkalles i en fotobutikk eller skrives ut direkte fra minnekortet. 
+Bildekvaliteten er generelt grei nok til å skrive ut bilder i 10x15 eller 13x18, og kameraet er lite og godt å holde i. 
+
+For den som er litt mer avansert og som først og fremst setter bildekvaliteten i fokus, ofte med behov for større utskrifter, synes vi ikke bildekvaliteten holder helt i mål, og vi mener det i så måte finnes bedre kameraer i samme prisklasse. 

@@ -1,0 +1,99 @@
+Tundra 1032X
+Denne bærbare PCen har duglig med kraft, god batterilevetid og er solid bygd. 
+Men er alt som det bør være? 
+
+LES OGSÅ: 
+
+Som kjent har vi nylig sammenlignet 10 bærbare datamaskiner, og i den anleding ba vi dere, kremen av våre lesere, om å si fra hvilke maskiner dere ville hatt testet i tillegg til vår favoritt. 
+I dag får dere altså den første av disse to (eller, for å være presis, den som havnet på andreplass), nemlig Tundra 1032X fra PS Data. 
+
+Sølvfarget plast hele veien... og sort tastatur. 
+
+Fulle spesifikasjoner: 
+
+Intel Pentium M 755 @ 2,0 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR-minne 80 GB harddisk (5400 rpm) 8x DVD dual-layer DVD/CD-brenner nVidia GeForce Go 6600 (128MB minne) 54 Mbps WLAN (b/g) 10/100 LAN + modem 4 x USB, 1x firewire (4-pin), lyd inn/ut 1 CardBus kortplass 4-in-1 kortleser: SD, MMC, MS/PRO VGA og S-Video-utgang (7-pins) Dimensjoner (B/D/H): 
+35,6 x 25,5 x 3,5 cm Vekt 2,7 kilo Pris: 9.495 kr inkl. mva. 
+
+Alle tekniske data her! 
+
+Operativsystemet er det som oftest kommer med ferdige PCer i dag: 
+Windows XP Home Edition. 
+
+Prosessoren er av typen Pentium M, som er Intels forrige generasjon CPU for bærbare. 
+Også grafikkortet er på vei ut, men likevel er begge to et gyldig valg i denne prisklassen. 
+
+I de siste månedene har det vært en markant økning i bredskjermer på markedet og de bærbare følger selvsagt trenden. 
+Faktisk var det blant de ti tilbudene vi fikk inn kun ett med "vanlig" skjerm, så for bærbare ser det nå ut til at bredskjermene har tar over. 
+Oppløsningen på Tundraen er 1280 x 800 piksler. 
+Den har også blankt kontrastbelegg, en annen ting som har blitt vanlig. 
+Når det gjelder skjermkvaliteten ellers så har vi absolutt sett bedre. 
+Betraktningsvinkelen på denne er litt mindre enn det som må betegnes som normalt for slike skjermer, og i tillegg er det problem med at den nederste delen av skjermen er for lys mot sort bakgrunn. 
+
+Konstruksjon 
+
+PCen virker solid bygget og er fast i fisken med et helt greit design. 
+Skjermen sitter godt hengslet men litt vel stramt, her er det altså ikke noen mulighet for å åpne den elegant med kun en hånd. 
+Lokket er heller ikke overfølsomt for trykk som på mange andre bærbare. 
+
+Touchpaden er som skjermen i bredformat og har skrollefelt både vertikalt og horisontalt. 
+De tilhørende knappene er små og kan kanskje være vanskelige å treffe dersom du har store hender. 
+Tastaturet er på den annen side kontant og behagelig, selv om selve layouten av tastene ikke er optimal. 
+Blant annet ville vi gjerne ha sett den venstre ctrl-tasten rett under shift, og hatt større enter-tast. 
+Riktignok venner du deg til dette oppsettet, men vi mener likevel at det optimale er å ha det så likt "vanlige" tastatur som mulig. 
+
+Det er få knapper for snarveier på Tundraen, det begrenser seg til trådløst nett av og på, media player og lyd opp og ned. 
+
+Tilkoblingene på maskinen er plassert foran og på begge sider. 
+Bak er det plass til en kensington-lås og resten består for det meste av batteriet (som i det minste ikke stikker ut). 
+
+På venstre side har vi strøminntaket, 2 x USB, LAN, modem og DVD. 
+
+Foran finner vi firewire, lyd inn og ut, infrarød port og snarveisknapper for media center og lyd opp/ned. 
+
+Varmluften kommer ut på høyresiden, noe som kan være irriterende for de som bruker mus. 
+Med mindre du da er venstrehendt. 
+PCMCIA-porten, minnekortleseren, TV- og VGA ut samt de restrerende 2 USB-portene kjemper også om plassen her. 
+
+God grafikkytelse 
+
+Enn så lenge kan vi ikke gjøre noe annet enn å sammenligne med vår favorittmaskin så langt, nemlig Dell Inspiron 6400. 
+Men vi må huske på at den testede Dellen kun hadde et integrert grafikkort (Intel GMA 950), og det vil selvfølgelig merkes på resultatene: 
+
+Prosessorytelse i sekunder, lavere er bedre. 
+Bortsett fra til MP3-encoding, der Pentium M prosessoren drar nytte av sin høyere klokkehastighet, er det Dellens Core Duo som er sjef. 
+
+3DMarks og PCMarks. 
+Høyere er bedre, og selvfølgelig gjør grafikkortet i Tundraen god forskjell. 
+PCMark04 legger minst vekt på grafikken, og her ligger derfor Dellen foran. 
+
+Batteritid i minutter. 
+Tre og en halv time for Tundraen er bra, spesielt med tanke på grafikkortet, men den er altså langt unna rekorden. 
+
+Maskinen er så absolutt ikke blant de mest bråkete, men er heller ikke så stille som for eksempel Inspiron 6400. 
+Harddisken hviner litt mer enn vi liker, og blir heller ikke overdøvet av vifta som går kontinuerlig, men sakte og stille, når maskinen først blir varm. 
+Dette selv om den ikke jobber med noe. 
+Generelt er det likevel en rolig maskin, selv om harddisken har en tendens til å gjøre lydsignaturen litt irriterende i lengden. 
+
+Tundraen kommer også med en backupløsning, og det første den gjør er å automatisk lage et image av Windows. 
+Dette er noe som i og for seg er greit, og de fleste produsenter har jo et slikt system og å bruke litt harddiskplass på backup er normal praksis. 
+Men løsningen på Tundraen (Drive Image SE) er et gammelt system og bruker hele 11 GB (noe som jo er en del på en bærbar med 80 GB harddisk), og hvorfor PS Data holder på dette skjønner vi egentlig ikke helt. 
+
+Konklusjon 
+
+Tundra 1032 er en maskin med ganske god ytelse, både på prosessorsiden og ikke minst grafikkmessig. 
+Dessuten ser den ut til å tåle litt, og har god batterilevetid. 
+Men dessverre er det mer enn litt hvin fra harddisken som står i veien for at denne blir et anbefalt produkt. 
+Programvaren, og da tenker vi spesielt på backupløsningen, er avleggs og legger beslag på en god del av harddisken. 
+Skjermen er heller ikke helt opp til par, og både tastaturet og touchpadknappene kan designes mer elegant. 
+For mange vil heller ikke inn- og utganger virke spesielt optimalt plassert. 
+
+Kort sagt er dette en maskin som kan bli god, men du bør være klar for å leve med svakhetene. 
+Hvis du hovedsakelig skal ha en bærbar for spilling er dette så avgjort ikke det verste kjøpet, men for generelt arbeid finnes det så avgjort bedre løsninger. 
+
+Alt i alt havner Tundra 1032X på en svak firer. 
+
+NB! 
+Denne artikkelen ble oppdatert 29.06.2006. 
+Hvorfor? 
+
+Tester av andre bærbare finner du forresten HER! 

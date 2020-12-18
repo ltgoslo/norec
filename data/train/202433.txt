@@ -1,0 +1,75 @@
+Linksys E4200
+Enkel og avansert trådløs ruter - er det mulig? 
+
+Trådløst nett er teknisk sett svært kompliserte greier, men alt er heldigvis pakket inn slik at det fremstår som ganske enkelt i bruk. 
+De fleste har ingen problemer med å koble seg til, bare man vet hva det trådløse nettverket heter og hva passordet er. 
+
+Men for å sette opp et trådløst nett må man installere en trådløs ruter, og det har ikke alltid vært like enkelt. 
+Samtidig har ruterne blitt mer avanserte og byr på mange muligheter for de som vil skreddersy hvordan ruteren skal behandle forskjellige tjenester. 
+
+I tillegg har det mange steder blitt en utfordring å få dekning og rekkevidde, siden "alle" skal ha trådløst nett og konkurrerer om tilgjengelig spektrum. 
+
+På toppen av det hele skal ruteren ha et utseende som gjør at den ikke må gjemmes bort. 
+
+Linksys - som nå eies av Cisco - har flere løsninger på alle disse utfordringene og vi har testet toppmodellen. 
+
+Linksys E4200 
+
+Dette er toppmodellen til Linksys, den opererer både på 2,4 og 5 GHz, støtter både hovednett og gjestenett, har tilkoblinger for gigabit kablet nettverk og USB-kontakt som støtter felles lagring eller skriver. 
+
+Ser man den fra forsiden har den et diskret utseende i matt, koksgrå plast delt med et sølvfarget midtfelt. 
+Kanskje ikke noe å ha på stuebordet, men den burde tåle selv et strengt innredningsblikk, sammenlignet med andre rutere som ser mer ut som et "teknisk apparat". 
+
+På baksiden har vi de vanlige tilkoblingene, med 4 gigabit-porter, port til Internettilkoblingen WPS-knapp, USB-kontakt, strømkontakt og av/på bryter. 
+
+Den er laget for å ligge flatt, det følger ikke med noen form for bein, det er heller ikke noen "nøkkelhull" til å tre over skruer på en vegg slik at den kan henge. 
+
+Installasjon og oppsett 
+
+De som behersker TCP/IP både skriftlig og muntlig kan lese den ordentlige brukerveiledningen som ligger på CD-ROMen som følger med, taste inn 192.168.1.1 i nettleseren, taste inn brukernavn og passord og ta det derfra. 
+
+Men Linksys har også et eget Setup-program som guider deg gjennom installasjonen på en utmerket måte. 
+
+Her har vi tatt skjermdumper av hele prosessen, som var svært brukervennlig og foregikk helt smertefritt. 
+
+Ytelse 
+
+Ytelsen på trådløst nett er lett å måle, samtidig gir det ikke nødvendigvis et resultat som vil gjelde i andre sammenhenger. 
+Det er omtrent som å måle hvor godt leselys man får av en stålampe - alt avhenger av plassering, andre gjenstander og annen belysning. 
+Det er så mange forskjellige boliger, konstruksjoner, materialer og innredninger i tillegg til konkurrerende trådløse nett at måleresultatene ikke lar seg overføre mellom forskjellige steder. 
+
+Men man kan sammenligne rutere, plassert på samme sted og distribuert til samme bærbare PC andre steder i boligen. 
+
+Vi har her sammenlignet med en Apple TimeCapsule som er en av de ruterne vi har hatt best erfaring med når det gjelder rekkevidde og hastighet. 
+
+Som bærbar maskin har vi brukt en splitter ny Dell Vostro. 
+Målingen er gjort på 2.4 GHz båndet, som er det mest kompatible og med lengst rekkevidde. 
+
+Hastigheten under normale avstander og betingelser, som etasjen under i et trehus, viser i praksis samme ytelse mellom de to trådløse ruterne. 
+
+Men da vi målte med den bærbare plassert nede i kjelleren viste det seg at Linksys E4200 hadde påtagelig bedre rekkevidde enn Apple-ruteren, med større signalstyrke og dermed høyere hastighet på overføringen. 
+
+Vi målte også utendørs og fikk 6dB kraftigere signal på vår iPhone med E4200 enn med TimeCapsule i samme posisjon som vi testet Linksys Range Extender. 
+
+Egenskaper 
+
+E4200 har alle de vanlige egenskapene som vi forventer på en ruter, og er forberedt for enda raskere overføring når det dukker opp flere klienter som har antenner og sender/mottakerkort som håndterer 450 Mbps. 
+Dette krever at kombinasjonen håndterer tre datastrømmer, hver på 150 Mbps. 
+I skrivende stund er det ytterst få av disse. 
+
+Deling av harddisk eller minneplugg på USB ser vi ikke som noen stor sak, dette er en veldig treg løsning sammenlignet med dedikert hjemmeserver, NAS eller å dele interne harddisker mellom PC-er på hjemmenettverket. 
+
+Trådløse skrivere har også etter hvert blitt så vanlig og billig at å koble en skriver til en ruter ikke er spesielt attraktivt. 
+Også fordi plasseringen av en ruter og plasseringen av en skriver ikke passer overens. 
+En ruter bør stå høyt for å få best dekning, mens en skriver skal være lett tilgjengelig. 
+
+Konklusjon 
+
+Linksys E4200 er en stilig, brukervennlig og kraftig trådløs ruter, med egenskaper som matcher de fleste konkurrenter. 
+
+Vi liker spesielt godt det brukervennlige oppsettet, men hastigheten var også overbevisende. 
+Det vi satte enda mer pris på var den gode rekkevidden. 
+
+Om du er svært nettverkskyndig eller bare vil at det skal virke og ha spesielt god rekkevidde, så er Linksys 4200 en glimrende ruter. 
+
+Linksys E4200 

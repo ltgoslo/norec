@@ -1,0 +1,89 @@
+Apple MacBook Air 2012 13"
+Hva er nytt på den nyeste MacBook Air? 
+Vi har testet. 
+
+Siden den første MacBook Air dukket opp i 2008 har det ytre vært rimelig uforandret. 
+Det viktigste har hele tiden vært minimal tykkelse og eksklusivt design, og først i det siste året har dette også blitt hovedtrenden i PC-verdene for mange maskiner i tilsvarende prisklasse - såkalte Ultrabooks. 
+At MacBook Air var stamfaren til Intels Ultrabook-konsept er ganske tydelig. 
+
+Men om det ytre har vært tilnærmet likt har det skjedd mye på innsiden. 
+Den opprinnelige modellen hadde en egen variant av Intels strømgjerrige Core 2 Duo, 2 GB minne og en 80 GB harddisk. 
+Selv om alle var begeistret over det ytre formatet, var ytelsen ikke noe å rope hurra for, bortsett fra hos de som hadde råd til å spandere noen tusen ekstra for en 64 GB SSD. 
+
+I 2011 kom det største spranget, da ble maskinene utstyrt med Core i5 som standard og ble nesten like kraftige som MacBook Pro, men uten samme tilkoblings- og utvidelsesmuligheter. 
+
+2012-utgaven tilbyr en ytterligere oppgradering av maskinvaren, i det ytre er maskinene så like at ingen legger merke til at du har siste modell. 
+
+Nytt i 2012 
+
+Maskinene kommer nå med Ivy Bridge utgavene av Core i5, (1,8 GHz 3427U) eller Core i7 (2 GHz 3427U). 
+Disse prosessorene har HD4000 grafikk som er vesentlig raskere enn fjorårets HD3000. 
+
+Standard minne er nå på 4 GB, med mulighet for 8 GB. 
+
+Den maksimale SSD-størrelsen er nå jekket opp til 512 GB, men standard er fremdeles 128 eller 256 GB. 
+
+Tilkoblingene er de samme på begge sider som på 2011 modellen, med 1 USB på hver side, og Thunderbolt og SD-kortleser på den ene siden og lydutgang og ny og mer solid MagSafe 2 strømtilkobling på den andre siden. 
+
+Men nå er det USB 3.0 på begge sider, det er kanskje den mest dramatiske endringen for mange. 
+
+Forøvrig er det fremdeles en blank TN-skjerm med begrenset betraktningsvinkel, og oppløsning på 1440 x 900. 
+Skjermen er meget lyssterk og er brukbar også i bortimot direkte sollys (de få gangene man måtte bli utsatt for slikt for tide ...), men helt på høyde med de nye, og beste Ultrabookene fra Samsung og Asus, er den ikke. 
+
+Forskjellige komponenter 
+
+Sjekker man på nettet hos entusiastene som plukker fra hverandre nye Mac'er, finner vi at det er flere leverandører av viktige komponenter til MacBook Air. 
+Først og fremst er det skjerm (Samsung og LG) og SSD som kan variere, med merkbare, men ikke alltid dramatiske forskjeller. 
+
+Det er lite du kan gjøre med skjermvalget, du må ta det du får, og forskjellene er små og godt innenfor hva Apple mener du kan forlange. 
+
+Når det gjelder SSD er det derimot muligheter for større forskjeller mellom enhetene fra Samsung og Toshiba, og det er kontrolleren som er nøkkelen. 
+SSD fra Toshiba bruker en SandForce kontroller som komprimerer data før de skrives til selve flashminnet. 
+Dermed blir skriveytelsen vesentlig dårligere når du skal skrive komprimerte mediedata som musikk og video til SSD. 
+I en bærbar hvor SSD er den eneste lagringsenheten spiller dette en større rolle enn i stasjonære hvor du kan ha en egen SSD som systemdisk hvor du i svært liten grad skriver og lagrer ikke-komprimerbare data. 
+
+Uansett er SSD en av de få tingene hos MacBook Air som du kan oppgradere selv. 
+Det er fremdeles et eget design, helt ulikt standard SSD-format, men det finnes flere leverandører av kompatible SSD-enheter. 
+
+I bruk 
+
+MacBook Air er en kjapp maskin, alle programmer starter i løpet av få sekunder, og det er ingen tendenser til hakking når man bruker lokale data. 
+At nettet kan være tregt er jo en annen sak, men med en rask linje sitter alt rett i skjermen. 
+
+Videohåndteringen er også uproblematisk, vi kjørte 12 YouTube-videoer samtidig uten hakking eller andre tegn til anstrengelser. 
+
+Det som har gjort størst inntrykk de dagene vi har brukt maskinen er at den er helt påtagelig stille. 
+Vi har ennå ikke hørt viftesus verken under vanlig bruk eller i tester. 
+
+Geekbenchresultatet på 6738 ligger rundt 1000 poeng høyere enn fjorårets MacBook Air, det er en vesentlig forbedring. 
+Mye av dette ligger i mediehåndtering, som er det mest resurskrevende i hverdagsbruk. 
+
+SSD-ytelsen målte vi til 195,2 MB/sek på skriving og 388,3 MB/sek på lesing. 
+Dette er en "Apple SSD TS128E" som er Toshiba-enheten med SandForce kontrolleren. 
+Dette er helt på høyde med de raskeste Ultrabookene. 
+
+Strømforbruket er lavt, men vi har ikke fått gjort noen egne tester denne gangen. 
+Andre rapporterer om 7 timers bruk, noe som samsvarer bra med snittet av Ultrabooker vi har testet, med tilsvarende maskinvare. 
+Vårt erfaring er at den holder fint i to dager når den ligger framme, man setter seg ned og sjekker ting, surfer, spiller noen videoer, jobber litt - typisk bærbar hjemmebruk hvor man bare klapper den sammen og aldri slår den helt av. 
+
+Priser 
+
+Den rimeligste 13-tommeren koster 9 990 kroner, med 1,8 GHz Core i5, 4 GB minne og 128 GB SSD. 
+
+Med alle ekstra utvidelser som 2.0 GHz Core i7, 8 GB minne og 512 GB SSD kommer du opp på 18 090 kroner. 
+
+Konklusjon 
+
+Den nye MacBook Air 13"er klart raskere og mer stillegående enn fjorårets modell, og en enorm forbedring fra 2010-modellen. 
+
+Dette skyldes både prosessor og arkitekturen rundt, og i minst like stor grad nye raskere SSD-løsninger. 
+
+Utformingen er velkjent og har dannet skole, den er stilren og elegant selv om det er noen detaljer vi for vår del ikke er helt begeistret over. 
+De skarpe kantene, av/på-bryteren som er en vanlig tast, og topphengslingen av styreflaten som gjør det vanskeligere å klikke hvis fingeren er nær toppen. 
+
+Skjermen er heller ikke i samme klasse som resten av maskinen, en eIPS-skjerm hadde definitivt gjort seg. 
+Vertikal betraktningsvinkel er rett og slett kritisk på en maskin som er beregnet på portabel bruk. 
+Det hadde heller ikke vært dumt med en WLAN-løsning med 3 innebygde antenner. 
+
+Men MacBook Air 13" er langt mer enn en surfe- og skrivemaskin, mange som har sverget til MacBook Pro vil finne den som et relevant alternativ. 
+Hadde skjermen vært bedre hadde enda flere vurdert Air som portabel arbeidsmaskin. 

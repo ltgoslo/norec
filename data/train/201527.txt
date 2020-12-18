@@ -1,0 +1,71 @@
+Test:Air Display 
+
+iPad som ekstra skjerm, fungerer det bra? 
+
+Man kan si - og det har blitt sagt - at en iPad er noe man egentlig ikke trenger. 
+Nettopp derfor kan den brukes til så mye, siden den ikke fyller et forhåndsbestemt behov. 
+
+Vi som har levd med PC-er siden de dukket opp og vel så det husker at det var samme sak den gang PC-ene kom på markedet. 
+Det var mange fantasifulle begrunnelser for anskaffelse av "hjemmedatamaskin", men mange kjøpte rett og slett fordi de hadde lyst til å kjøpe og eie denne fliken av "fremtiden". 
+
+Når man så har skaffet seg iPad er tiden inne til å finne noe lurt å bruke den til når man ikke ligger i sofaen og surfer. 
+Og mulighetene er mange. 
+
+Ekstra skjerm 
+
+AirDisplay er et program som lar deg bruke iPad som ekstra skjerm. 
+Dermed kan du bruke den på jobb i stedet for å la den ligge ubrukt i vesken. 
+
+Du laster ned Air Display som er et lite program fra AppStore. 
+I tillegg laster du ned og installerer du et program på Mac eller PC. 
+Viktig: 
+Du må også være på samme trådløse nett med både iPad og Mac/PC som skal bruke iPadsom skjerm. 
+
+På oppgavelinjen på maskinen dukker det opp et lite programikon. 
+Her velger du å koble til eller fra, samt plassering av iPod i forhold til de andre skjermene. 
+
+For å få AirDisplay i gang må du først starte programmene på begge maskinene. 
+Så velger du enheten du vil bruke - og etter et par blaff over skjermflatene er bildet på iPad forandret til bakgrunnsbildet på PC-en/Mac-en. 
+
+Så er det bare å plassere hva du vil på den nye ekstra skjermen. 
+
+Hvordan fungerer det? 
+
+Vi testet AirDisplay både som ekstra skjerm til vår MacBook Pro og som skjerm #3 på vår PC med Windows 7. 
+
+På MacBook Pro som i utgangspunktet var koblet opp mot vårt trådløse nett fungerte alt uten videre. 
+Vi startet først opp App'en på iPad, så dukket den opp som valg i kontrollprogrammet på Mac'en. 
+Dermed var det bare å velge iPad og alt var på stell. 
+
+Vi startet for moro skyld Air Display både på iPhone 4 og iPad, men begge kan ikke brukes samtidig som ekstra skjerm. 
+
+På jobbPC-en var det litt verre. 
+Den er koblet til et raskt kablet nett, og vi ville ikke degradere nettforbindelsen. 
+Demed måtte vi sette opp et eget lite trådløst nett for anledningen, også kjent som Ad Hoc nett. 
+
+Vi hadde en USB-dongle for trådløst nett liggende, som vi installerte på PC-en. 
+Under nettverksinnstillingene i Windows 7 er det et valg for å koble maskinen til et nettverk. 
+I listen som dukker opp finner du Ad 
+Hoc som et av valgene. 
+Her setter du opp nettverksnavn og passord og etter noen sekunder er PC-en klar til å kommunisere. 
+
+Du velger så å koble til dette trådløse nettverket på iPoden, så starter du Air Display. 
+
+Før vi fikk noen kontakt mellom PC-en og iPad måtte vi slå av Brannmuren i Windows. 
+Deretter fungerte det som det skulle. 
+
+Ytelse 
+
+Man merker fort at dette ikke er noen løsning som egner seg for aktiv bruk. 
+Responsen er rett og slett ganske treg, så bruksområdet blir i første rekke "parkeringsplass" for noe man vil ha stående oppe for å se på. 
+Epost eller Facebook fungerer greit når man skal holde et øye med hva som skjer uten å la det være hovedaktivitet. 
+
+Men å flytte på ting og generell interaktivitet er t-r-e-g-t. 
+
+Vi prøvde også å bruke iPad som styringsdel for andre programmer som kjørte på Mac'en, men det fungerte dårlig. 
+Oppløsningen var rett og slett for dårlig, slik at responsen kom i rykk og napp. 
+
+Konklusjon 
+
+Air Display fungerer som parkeringsplass for programmer som fortrinnsvis skal stå stille og vise fram tekst eller bilde til brukeren. 
+Responsen er ellers rett og slett for dårlig til å gi en positiv brukeropplevelse. 

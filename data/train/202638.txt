@@ -1,0 +1,69 @@
+Pinell DAC mini
+Nå kommer det en ny DAC mini fra Pinell. 
+
+For de som ikke kjenner alle 3-bokstavsforkortelsene så er en DAC en Digital til Analog Converter. 
+Den tar i mot lyd-data, i de fleste tilfeller fra datamaskines USB-kontakt, og leverer analog lyd ut på to phonokontakter. 
+
+Egentlig er en DAC en liten elektronisk komponent som finnes i det aller meste av moderne lydavspillingsutstyr som leser lydfiler og leverer lyd til hodetelefoner eller musikkanlegg. 
+Men for feinschmeckere finnes den altså som en separat enhet - for å gi best mulig lyd. 
+
+Når en slik DAC skal konstrueres er det mange forskjellige løsninger som velges, avhengig av hvilken vei produsenten velger å gå. 
+Det finnes ganske store apparater med ganske avanserte strømforsyninger og ditto analoge kretser som driver utgangene. 
+Designet er gjerne i massive metaller med kunstferdig og forseggjort utforming. 
+Prisen er gjerne skyhøy. 
+
+Men man kan også velge en langt enklere løsning, som å bruke USB-både som signalinngang og strømforsyning, og lage et kabinett som ikke er større enn helt nødvendig og samtidig tar seg godt ut. 
+Det er dette Pinell har gjort med sine DAC'er. 
+
+Den nye utgaven 
+
+Den første utgaven som vi testet i juni 2012 har et design som er helt lik dagens utgave, bortsett fra lengden. 
+Den nye er 3 centimeter kortere. 
+
+Utførelsen er i aluminium, overflaten er børstet og er uimottakelig for fingermerker. 
+
+Den ene enden har en mini-USB-kontakt og den andre enden har to phonokontakter merket med henholdsvis rød og sort ring. 
+
+Men den viktigste forskjellen er at den nye modellen støtter opptil 96 kHz samplerate og 24-bits oppløsning. 
+
+Installasjon og bruk 
+
+Installasjon er i prinsippet helt uproblematisk. 
+Den er Class Compliant, det vil si at den følger standarden for USB Audio som er innebygget i de fleste kurante operativsystemer. 
+Du kan plugge den i en Mac, PC eller Linux-maskin og driveren blir installert automatisk. 
+
+Den forrige utgaven kunne også kobles til iPad med USB-kontakten i Camera Connection Kit, men den nye utgaven trekker for mye strøm til å kunne kobles til direkte. 
+Du må da koble den til via en USB-hub med strømforsyning, som kan være litt upraktisk. 
+
+Men vi fikk heller ikke den nye til åvirke med en USB-hub koblet til PC-en. 
+Koblet vi den direkte til en USB-kontakt bak på PC-en fungerte den utmerket. 
+
+Det er ingen volumkontroll, så all styring av volum må skje enten i PC-en (da påvirkes selve datastrømmen) eller i enheten du kobler DAC-en til - da justerer du bare den videre forsterkningen av det analoge signalet fra DAC-en gjennom signalkjeden. 
+
+Hvordan låter den? 
+
+Pinell påstår at du vil glede deg over enorm forbedring av lydkvaliteten når du bruker denne DAC-en. 
+Det kommer selvsagt an på hva du har brukt tidligere og hva slags utstyr du kobler den til. 
+
+Vi sammenlignet med den forrige DAC-modellen, og med andre kvalitetsenheter for musikkproduksjon fra M-Audio, PreSonus og Native Instruments. 
+
+Vi har lyttet på forskjellige høyttalersystermer og hodetelefoner. 
+
+Lydmaterialet var alt fra tett, elektriske lydbilder til egne akustiske opptak av strykekvartett i 96 kHz/24-bit. 
+
+Heller ikke denne gangen har vi noe å utsette på lyden. 
+Den er både krystallklar og behagelig, uten noen særegenheter eller preg. 
+Den legger ikke noe til og trekker ikke noe fra - akkurat slik en DAC skal være. 
+Det er selvsagt ikke antydning til sus eller andre unoter. 
+
+Konklusjon 
+
+Pinell DAC mini - 2013 utgaven - leverer glimrende lyd med høy oppløsning. 
+Med ekte støtte for høye samplerater og bitdybde får den et større bruksområde enn forgjengeren. 
+(Windows re-sampler ned lydfiler til 44,1/16-bit hvis du ikke har maskinvare som håndterer disse parameterne.) 
+
+De eneste innvendingene vi har er at den rapporterer om for høyt strømforbruk til iOS enheter, noe vi tviler på egentlig er tilfellet, men heller en innstilling i USB-firmwaren. 
+At vår hub også hadde problemer kan også ha med dette å gjøre. 
+
+Pris og leveringstid har vi foreløpig ikke mottatt, artikkelen oppdateres så snart vi får info om dette. 
+Prisinfo om den forrige modellen finner du hos Prisjakt. 

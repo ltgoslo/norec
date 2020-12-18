@@ -1,0 +1,134 @@
+Samsung 9-serie (900X4C-A02SE)
+Storebroren til en av de beste PC-ene vi har testet noen gang. 
+Lever 15-tommeren opp til forventningene? 
+
+Vi legger ikke skjul på at forventningene våre foran møtet med denne 15-tommers ultrabooken fra Samsung var skyhøye. 
+Ikke så rart kanskje, med tanke på at 13,3 tommer-utgaven vi testet i sommer landet på en ubestridt sekser på terningen. 
+Den er muligens den mest gjennomførte PC-en vi har testet noen gang. 
+
+Like bra? 
+
+På papiret ser det ikke ut til at 15-tommeren i 9-serien er noe dårligere. 
+Designmessig er den ganske lik, den er riktig nok noe tykkere - men fortsatt er det snakk om svært beskjedne 1,49 centimeter. 
+Samsung hevder at dette er verdens tynneste 15-tommer, og vi har i hvert fall ikke noen holdepunkter for å påstå noe annet. 
+
+Og vekten? 
+1,685 kg - like lett som mange 13,3-tommere i ultrabook-segmentet. 
+
+Før vi ser nærmere på eksteriøret kaster vi et raskt blikk på hva denne syltynne pakken har å by på av spesifikasjoner: 
+
+Skjerm: 15,0" LED-baklyst LCD, matt overflate, 1600 x 900 piksler Prosessor: 
+Intel Core i7-3517U (dobbelkjernet) RAM: 
+8 GB (2 x 4 GB) 
+Grafikkort: 
+Intel HD 4000 Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI og VGA (begge krever adapter) USB-porter: 2 x USB 3.0, 1 x USB 2.0 Webkamera: 
+1,3 Mpix Kortleser: 
+SD/SDHC/SDXC-kort Trådløst nett: 
+Intel Centrino Advanced-N 6235 (a/b/g/n) 
+Kablet nett: 10/100/1000 Mbit (krever adapter) Annet: 
+Bluetooth 4.0, Intel WiDi OS: 
+Windows 8 Størrelse: 35,7 x 23,7 x 1,49 cm Vekt: 
+1,685 kg (DinSides eget tall) Pris: 
+Fra 11.339 kr inkl mva (4.12.2012) 
+
+Maskinen er relativt godt utstyrt - størrelse og vekt tatt i betraktning, blant annet med romslig SSD og 8 GB RAM. 
+Det eneste vi har å utsette, er noen begrensinger i tilkoblingene; du kan for eksempel ikke bare koble til ekstern skjerm uten overgang eller spesialkabel. 
+Det samme gjelder nettverk, men her får du riktig nok overgangen med. 
+
+Dette er kompromisser Samsung tydeligvis mener man må inngå når vekt og ikke minst tykkelse skal holdes på et minimum. 
+
+Robust, tynn, lett og stilig 
+
+Og selv om dette kanskje er verdens tynneste 15-tommer for øyeblikket, er den definitivt ikke noen skjør kamerat. 
+Hele chassiset består av metall, både på inn- og utsiden. 
+Dette sørger for god oppstiving, og vi får aldri følelsen av at dette er noe annet enn en meget solid bygd maskin - og akkurat passe tung. 
+
+Overflaten er matt, fingeravtrykk vises, men er langt fra så sjenerende som på mange med blank overflate. 
+
+Alle tilkoblingene har fått plass på sidene, trukket lengst unna brukeren. 
+
+Skjermen måler 15 tommer, og er altså litt mindre enn det sedvanlige for klassen (som er 15,6 tommer). 
+Rammen rundt skjermen er også tynn, og bidrar til å gjøre denne PC-en relativt mye mindre enn konkurrerende modeller: 
+
+En typisk 15,6" ultrabook blir relativt mye større 
+
+Oppløsningen er 1600 x 900, noe som gir skarpe bilder og detaljer - men når vi ser hvor glimrende full HD kan fungerer på 15-tommere som for eksempel Asus U500VZ, stiller vi oss spørsmålet om ikke Samsung også burde fulgt etter her. 
+1600 x 900 er tross alt den samme som Samsung har på sin 13,3 tommer i 9-serien. 
+
+Overflaten er matt, noe som betyr at gjenskinn ikke er noe problem. 
+Den er også svært lyssterk, og har bra innsyn fra sidene, men har langt dårligere innsyn fra topp og bunn enn de beste IPS-skjermene, her sammenlignet mot den aktuelle Asus-modellen: 
+
+Dette er litt underlig, synes vi - skjermen på 13,3-tommeren hadde nemlig ikke denne svakheten. 
+
+Bra tastatur, ikke fullt så bra pekeplate denne gangen 
+
+Tastaturet er bra, fast og lydsvakt, og utformingen er etter vår mening perfekt. 
+Små funksjonstaster, resten er romslig, entertasten er bred og piltastene er skilt ut fra resten. 
+
+Det er også baklys, men for å hindre at det skal sluke batteri, tennes lyset først når det er mørkt i rommet du befinner deg i. 
+Du kan selvsagt også skru det av. 
+
+Pekeplaten er stor, multiberøringsfølsom og har integrerte knapper for venstre- og høyreklikk. 
+Vi har tidligere ofte vært litt kritiske til slike, spesielt dersom man er vant til å la venstre pekefinger hvile på venstre knapp mens man styrer med høyre. 
+Flere pekeplater kan da oppfatte det som om man skal zoome ut eller inn (på grunn av to berøringer). 
+Det fungerer imidlertid bra her. 
+
+Den er likevel ikke lytefri. 
+For det første har vi opplevd en del ganger at venstre museknapp ikke fungerer. 
+Det kan være ting som fikses ved hjelp av BIOS- eller driveroppdateringer. 
+De høye klikkelydene fra museknappene er derimot verre å få fikset. 
+Slikt tjener ingen misjon, mener vi. 
+
+På undersiden kan vi skimte to vifter bak små luftehull, som suger luften inn og blåser den ut bak. 
+I fronten sitter et par stereohøyttalere, som byr på bra lyd - men vi savner litt mer bass når vi lytter til favorittmusikken. 
+
+I bruk og ytelsesmålinger 
+
+Oppstart av PC-en tar kun 13 sekunder, noe av det raskeste vi har målt noensinne. 
+Maskinen er svært stillegående under normal bruk. 
+Under belastning kan viftene starte, men de stopper så snart belastningen avtar (les: uproblematisk). 
+Merk også at maskinen kommer med styreprogram for viftene som i praksis kan gi deg en helt støyfri opplevelse dersom du er villig til å gå litt ned på ytelsen: 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,1 Minne: 5,7 Grafikk: 
+5,8 Spillgrafikk: 
+6,5 Primær harddisk: 
+8,1 
+
+Passmark PerformanceTest 8.0 gir oss følgende resultater på ytelsesmålingene, og her har vi sammenlignet med andre, relevante ultrabooks vi har testet den siste tiden: 
+
+Denne ULV-prosessoren er blant de aller kjappeste på markedet. 
+Sett i forhold til en firekjernet i7-prosessor med dobbelt strømforbruk ligger den imidlertid godt bak. 
+Hvor merkbart denne forskjellen er i praksis, kommer an på bruken din. 
+Tyngre oppgaver = større forskjeller. 
+
+Noen spill-PC er dette ikke, men med moderate innstillinger kan mange 3D-spill fungere tilfredsstillende. 
+Alt av 2D-spill, grafikk og video forløper helt uproblematisk. 
+
+Denne PC-en har en av de raskeste SSD-ene vi har testet. 
+Merk at de som ligger over i leseytelse er utstyrt med to SSD-er i et RAID-oppsett. 
+Det gir som regel vesentlig raskere dataoverføring enn kun én SSD. 
+Ytelsen er uansett flere ganger høyere enn selv de raskeste harddiskene for bærbare. 
+
+Holder hele dagen! 
+
+Batteritiden er rett og slett strålende. 
+Over seks timer med kontinuerlig videoavspilling, og 9,5 timer med minimal belastning savner nesten sidestykke i våre ultrabook-tester. 
+Batteritiden ved videoavspilling er faktisk den beste vi har målt noen sinne, en hel time mer enn andreplassen! 
+Og under minimal belastning er det kun Asus UX31A som har vært bedre, med nøyaktig ti timer. 
+
+Ved variert bruk vil 8-9 timer være oppnåelig - uten særlige problemer. 
+
+Konklusjon 
+
+Samsung har nok en gang levert en meget god PC, og vi tar av oss hatten for utformingen - og ikke minst batteritiden. 
+Noe terningkast seks blir det imidlertid ikke denne gangen, og det skyldes først og skjerm og pekeplate, samt en noe høy pris dette tatt i betraktning. 
+
+For bare litt mer får du en annen 15,6 tommer ultrabook med IPS full HD-skjerm og mye høyere ytelse i Asus Zenbook U500VZ. 
+Men hvis stil, lavest mulig vekt, lang batteritid og musestille operasjon er viktigst for deg, look no further. 
+
+Samsung 900X4C-A02SE 

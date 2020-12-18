@@ -1,0 +1,80 @@
+TEST:Schedalls 
+
+Slik får mor bursdagsmelding fra deg hvert eneste år. 
+
+"Jeg skulle akkurat til å ringe deg!" 
+
+Jeg har ikke tall på hvor mange ganger jeg har dratt denne. 
+Bursdager, morsdager, bryllupsdager og farsdager man absolutt ikke må glemme, har en tendens til å bli nettopp det. 
+Og man husker det ofte akkurat når det er for sent. 
+For eksempel når vedkommende ringer selv. 
+
+"Jo, jo, selvsagt har jeg husket bursdagen din! 
+Jeg skulle jo akkurat til å ringe deg!" 
+
+Mange muligheter 
+
+Min mor har en kalender på kjøleskapet som tilsynelatende oppdaterer seg i sanntid, og en hukommelse en gammel elefent bare kan drømme om. 
+Dermed ringer hun alltid etter et jobbintervju, alltid på bursdager, alltid til alle. 
+
+Min løsning er en Android-app. 
+Med gratis-appen Schedalls kan du forhåndsprogrammere tekstmeldinger, som blir sendt ut på de riktige dagene. 
+Samme om du husker dem eller ikke. 
+
+Schedalls gir deg muligheten til å: 
+
+Skrive meldingen, velge mottaker og bestemme når den skal bli sendtSende meldingen bare på en bestemt dato, hver dag, hver uke, hver måned eller hvert årBli minnet på at du faktisk har sendt meldingen når de tikker ut av telefonenLage maler for hvordan for eksempel en bursdagsmelding skal se utHente bursdagsdatoer fra kontaktlisten din, og lage en forhåndsprogrammert melding for bursdagen ved bare et par trykkSjekke alle forhåndsbestemte meldingerSjekke alle meldinger som har blitt sendt ut av appen 
+
+Enkelt i bruk 
+
+Appen er veldig enkel å bruke. 
+Startskjermen gir deg én stor knapp, som lar deg programmere en melding. 
+Her skriver man inn hvem som skal motta meldingen, hva meldingen skal inneholde, når den skal bli sendt og hvor ofte den skal sendes. 
+
+Skal du for eksempel spørre søsteren din hvordan jobbintervjuet gikk, kan du legge inn meldingen til å bli sendt en time etter intervjuet, og naturligvis bare én gang. 
+Bursdagen til moren din kan du programmere så den blir sendt ut hvert år på den bestemte datoen. 
+Vil du gi livstegn fra deg til foreldrene dine hver uke, kan man også gjøre det. 
+
+Men det tar nok ikke mange ukene før far stusser over å få en nøyaktig lik melding på det samme tidspunktet hver bidige søndag. 
+
+Kjører alltid 
+
+Etter at meldingen er programmert, er det bare å lagre den og vente. 
+Når bursdagen, morsdagen, bryllupsdagen eller hva det måtte være kommer, vil meldingen sendes og appen si fra at den har gjort jobben sin. 
+Man trenger ikke å kjøre programmet; meldingen sendes uansett, og kvitteringen legger seg i Androids varslingsfelt. 
+Slår du av og på telefonen vil appen likevel utføre sine plikter. 
+
+Om telefonen er avslått når meldingen skal ut, eller dekningen mangler, blir meldingen sendt når muligheten kommer. 
+
+Prikken over i-en er funksjonen for å ta sikkerhetskopi av alle de forhåndsprogrammerte meldingene dine til minnekortet. 
+Dermed kan du bytte telefon eller formattere den du har uten å gjøre hele jobben på nytt. 
+
+Senere skal appen også få muligheten til å sende eposter, Facebook-meldinger og Twitter-beskjeder. 
+
+Rar tekstboks 
+
+Appen fungerer som lovet. 
+Forhåndsprogrammeringen går som en drøm, og telefonen din spytter ut meldingene slik den blir fortalt. 
+
+Det eneste problemet vi har, er at tekstfeltet hvor meldingene skrives inn ikke fungerer slik tekstfelt gjør andre steder. 
+For eksempel blir ikke forbokstavene i nye setninger store, og ord blir ikke rettet slik de vanligvis gjør. 
+Rart. 
+
+Det andre problemet er som nevnt observante mottakere. 
+Om man hver bursdag får en prikk lik melding, kan man fort bli mistenksom. 
+Samtidig er et år en lang tid, så om du skriver relativt nøytrale meldinger som "Gratulerer så mye med dagen, vi snakkes senere!" bør ikke dette være noe problem. 
+Ettersom du blir minnet på at meldingen er sendt, kan du jo faktisk gjøre alvor av lovnaden også. 
+Problemet blir større om du programmerer natta-meldinger til kjæresten din hver kveld når du er på reise. 
+
+Personlig liker jeg spesielt godt muligheten til å forhåndsprogrammere én og én melding som kun skal bli sendt én gang. 
+Får jeg høre når min søster skal på ultralyd, kan jeg skrive meldingen der og da i stedet for å satse på å huske det. 
+Ettersom man blir varslet når meldingen sendes, kan dette til og med erstatte kalenderoppføringer. 
+
+Etikken rundt en slik app vil mange ærlige sjeler stille spørsmåltegn ved. 
+Men jeg mener å ha mitt på det rene: 
+
+Det er tanken som teller. 
+Ikke når man tenkte det. 
+
+(PS: iPhone-folket har ikke like gode muligheter for slike apper, da Apple ikke godtar at apper sender sms direkte fra telefonen. 
+Har du derimot en jailbreak-et iPhone kan du blant annet prøve BiteSMS) 

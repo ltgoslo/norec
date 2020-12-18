@@ -1,0 +1,83 @@
+Elitegroup Green 556
+Intels Centrino-plattform var utvilsomt fjorårets mest hyggelige nyhet på bærbar-fronten, og maskinene har etterhvert fått prislapper som ligger innenfor høyst ordinære innkjøpsbudsjetter. 
+Green 556 er er en av de aller kraftigste centrinoene vi har testet. 
+
+OPPDATERT 22.4.2003: 
+PCen leveres nå med nytt tastatur og stillegående kjøleløsning. 
+Fra Multicom får vi opplyst at kunder som har kjøpt den første versjonen vil kunne få oppgradert maskinen til støyfri utgave gratis ved innlevering til Multicom. 
+
+LES OGSÅ: 
+
+Multicom selger Elitegroup-maskinene i Norge, og modellene vi har sett på tidligere har utmerket seg først og fremst som kraftige løsninger til en rimelig penge. 
+I praksis kjøper Multicom "halvferdige" maskiner fra Taiwan, og installerer selv minne, harddisk, prosessor, optisk drev etc på lisens på fabrikken på Åmli. 
+
+Dermed kan de tilby f. eks Green 556 med en rekke konfigurasjoner, tilpasset forskjellige kjøpergrupper. 
+Prisene starter på rundt 12.500 inkl mva for enkleste konfigurasjon, med 40 GB harddisk, 1,4 GHz prosessor og CD-brenner. 
+
+Eksemplaret vi har testet er derimot den aller heftigste Multicom tilbyr av Green 556, og den koster i skrivende stund 17.995 kroner inkl mva. 
+Og det er slett ikke snakk om noen pusling: 
+
+Intel Pentium M 1,7 GHz prosessor 1 GB internminne 80 GB harddisk (5.400 rpm) DVD+R(W) brenner, 4x DVD+R, 2.4x DVD+RW, 24X CDR, 10x CDRW) 15" TFT skjerm, oppløsning 1400x1050 punkter ATI Mobility Radeon 9600 grafikk, 128 MB VGA og TV-utgangTrådløst nettverk (802.11b) 10/100 Mbit nettverk 56 Kbit modem Firewire-port Infrarød port 2x USB 2.0-porter parallellport lyd ut, også surround 5.1 (SPDIF) 1 stk PC-card plass (PCMCIA) innebygd mic og egen mic-inngang Størrelse: 326 x 258 x 25 mm Vekt: 
+2,9 kg 
+
+Hva savner vi da? 
+2 USB 2.0-porter er lite, all den tid at PCen ikke har PS/2-porter for tilkobling av eksternt tastatur og mus. 
+DVD-brenneren tar kun + formatet, vi har sett de første brennerne for bærbare PCer som tar både + og -. 
+PCen har heller ikke innebygd minnekortleser, noe som også begynner å bli vanlig. 
+
+Men alt i alt er det snakk om en meget velutstyrt PC. 
+
+Robust og gjennomtenkt 
+
+OKabinettet er enkelt og funksjonelt, i lysgrå og koksgrå farge. 
+Lokket har aluminumsbelegg, noe som er et stort pluss dersom PCen ofte er på farten. 
+Vi liker godt at nettverk, modem, firewire og øretelefonutgang sitter lett tilgjengelig på venstre siden, og DVD-skuffen åpnes på motsatt side. 
+IR-porten kunne godt sittet på siden, for øvrig er dette nært optimalt, synes vi. 
+
+Over tastaturplaten sitter det par hurtigknapper (starter Internet Explorer og epost-programmet ditt), og under tastaturet sitter en Synopsis pekeplate som kan programmeres i det vide og brede. 
+Den akkompagneres av en fire-akses skrolleknapp, men du kan like godt skrolle ved å føre pekefingeren opp og ned på høyresiden og sidelengs nederst, for å oppnå det samme. 
+
+Kraftig forbedret tastatur 
+
+OPPDATERT: 
+Den første utgaven vi testet av denne PCen hadde en svak tastaturløsning, med "skranglete" taster og en tastaturplate som beveget seg kraftig når du trykket på tastene. 
+Dette tastaturet er nå byttet ut med en langt fastere og bedre utgave. 
+Fortsatt synes vi at linjeskift og mellomromstasten er for små til at du aldri vil oppleve å bomme. 
+At det er plassert taster til høyre for linjeskift og backspace gjør det heller ikke noe bedre. 
+
+Skjermen har derimot en perfekt oppløsning i forhold til størrelsen, lysstyrken er godt over middels, og bildet kan betraktes fra nærmest død vinkel. 
+
+Høyttalerne er omtrent så dårlig som de er på de fleste andre bærbare PCer, så vi anbefaler sterkt å bruke en ekstern løsning. 
+Her støtter Green 556 5.1-lsurroundlyd, og det er jo ikke verst. 
+
+Ytelse 
+
+Argumentene for å kjøpe bærbare PCer med desktop-prosessor blir gradvis dårligere ettersom prisene på Pentium M-baserte PCer synker. 
+Ikke bare byr de på uslåelig ytelse pr MHz, de trekker mindre strøm og genererer således langt mindre varme. 
+Det betyr som regel mindre støy, lengre batterilevetid og mulighet for mer kompakte og lette maskiner. 
+Green 556 er riktig nok like under 3 kg, men hele 400 gram tyngre enn Multicom oppgir på sine sider. 
+
+Grafikk, disk og minneytelse er helt i toppskiktet, vi fikk faktisk nesten like gode 3D-resultater med M10-grafikken i denne PCen som M11-grafikken (Radeon 9700) i Whitebox CL56, noe som antakelig skyldes raskere prosessor og minne i Green 556. 
+
+PCen ble ustabil og krasjet under batterilevetidstesten, og vi fikk aldri fullført den. 
+Men det vi fikk av tall kan tyde på en levetid på rundt 3 1/2 time mellom hver lading. 
+Den hadde sannsynligvis vært lenger med en annen vifteløsning, men vi understreker at vårt resultat er stipulert på bakgrunn av halvkjørt levetidstest. 
+
+OPPDATERT: 
+Den første utgaven vi testet av Green 556 hadde en støyende vifteløsning. 
+Den gikk konstant, og under hard prosessorbelastning hvinte den omtrent som en Volvo 142 i 150 km/t. 
+Den nye utgaven er langt bedre. 
+Under normal belastning (surfing, video, tekstbehandling etc) går ikke viften i det hele tatt, og PCen blir dermed helt musestille. 
+
+Viften starter riktig nok ved behov når du belaster prosessor og grafikk hardt (for eksempel spill, kompresjon av lyd/video), men den støyer ikke lenger mer enn snittet i klassen - og den gir seg så snart de tunge oppgavene er fullført. 
+Sånn skal det gjøres! 
+
+Konklusjon 
+
+OPPDATERT: 
+Det er ingen tvil om at denne PCen er kjapp og kraftig, den er faktisk blant de aller raskeste centrinoene vi har testet så langt. 
+Grafikk og skjermløsning bør dessuten være tiltalende for spilleglade. 
+
+Etter at leverandøren fikk utbedret vifte- og tastaturløsningen, fremstår Green 556 nå som en gjennomført støysvak, rask og kort sagt meget god PC. 
+Du får faktisk mye for pengene, til tross for at denne modellen bruker den dyre 1.7 GHz Pentium M-prosessoren. 
+Er du riktig smart, velger du en av de andre konfigurasjonene med litt lavere prosessorhastighet og litt mindre minne, og sparer samtidig mange penger - uten at totalytelsen behøver å bli merkbart lavere. 

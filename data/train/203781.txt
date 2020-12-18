@@ -1,0 +1,69 @@
+Slik får du god surfe­opplevelse i alle etasjer
+Men prisen er fremdeles høy. 
+
+Hvis du bor i en større bolig og bare har én trådløs ruter, har du kanskje merket at signalene i deler av boligen er mye svakere enn nærmest ruteren. 
+Dette kan relateres til en blanding av begrensninger på rekkevidda til ruteren din, størrelsen på boligen og at vegger – spesielt med betong/mur – gjør at signalene ikke er like sterke overalt. 
+
+For å løse dette problemet, kan man blant annet kjøpe nettverksforsterkere, som mottar signaler fra ruteren, forsterker disse og sender dem videre. 
+En annen ting, som har kommet mer og mer de seineste åra, er mesh-nettverk (spindelvevnett). 
+Her er tanken at i stedet for å bruke en trådløs ruter (og forsterker), har flere små noder som plasseres rundt i boligen og danner et nettverk som skal sørge for gode signaler i hele boligen. 
+
+Netgear Orbi RBK23 
+
+I fjor tok vi en titt på Netgears mesh-løsning, Orbi RBK40, som består av et sett på én trådløs ruter og én satellitt. 
+Vi var stort sett fornøyd med opplevelsen og trillet terningkast 5. 
+
+Nå har vi også fått testet Netgear Orbi RBK23. 
+Dette er i Orbi RBK20-serien, men med en ekstra satellitt slik at man har én trådløs ruter og to mesh-noder. 
+
+Oppsettet av RBK23 er forholdsvis likt RBK40, men i dette tilfellet vil vi faktisk anbefale å bruke appen til å sette opp mesh-løsningen framfor å bruke PC-en og en nettleser. 
+Rett og slett fordi oppsettsprosessen er mer oversiktlig og rett fram, i tillegg til at vi opplevde at stegene var noe ulike. 
+
+For eksempel står det i nettleseren at man skal vente til lyset på satellittene lyser kontinuerlig før man trykker på synkroniseringsknappen. 
+I appen står det at lyset skal pulsere, noe som er riktig. 
+
+Uansett, gikk oppsettet stort sett greit. 
+Det tok noen minutter å koble hver satellitt mot hovedruteren, men det advares det faktisk om når man startet oppsettet. 
+
+Mye bedre app 
+
+Noe vi ikke var helt fornøyde med da vi testet Netgears mesh-løsning i fjor, var mobilappen som var forholdsvis begrenset. 
+«Faktisk er det svært lite du kan gjøre fra appen, annet enn å sette opp nettet og se at alt fungerer. 
+Alt annet må du gjøre fra web-klienten, der du til gjengjeld har mye avansert funksjonalitet og skreddersøm å boltre deg med», skrev vi i fjor. 
+
+Netgear har heldigvis gjort noe med dette og nå kan appen brukes til ting som: 
+
+Bra tilkobling i hele huset 
+
+Vi testet Orbi RBK23 i en enebolig med to etasjer (rundt 200 kvadratmeter (pluss en garasje (rundt 50 kvadratmeter) under huset. 
+Ruteren er plassert omtrent midt i hovedetasjen, noe som gir et godt utgangspunkt for hvor man skal plassere satellittene. 
+
+PS. 
+Netgear gir også tips om hvor man bør plassere ruteren og satellittene, og man ser et oransje indikatorlys på satellitten(e) når signalene ikke er gode nok. 
+
+Den første satellitten plasserte vi i andre etasje, også den omtrent midt i. 
+Dette var definitivt den beste løsningen og sørget for gode signaler i hele etasjen, og en stor forbedring fra én ruter som ikke er i stand til å nå ut i ytterkantene. 
+
+Deretter installerte vi den andre Orbi-noden i garasjen. 
+Mellom hovedetasjen og garasjen er det mye betong og armeringsjern, noe som bremser signalene betraktelig. 
+Det tok litt lengre tid for ruteren og satellitten å finne hverandre, men det gikk omsider. 
+Her var også hastighetsøkningen høyest med nesten en tredobling. 
+
+Legg merke til tallene i kolonnen til høyre som viser hastigheten med to Orbier (altså ruter pluss én satellitt koblet sammen). 
+Ettersom ruteren er plassert ganske sentrert i boligen, mellom etasjene, var det i dette tilfellet nok med én node i hver etasje og man vil ikke merke noe særlig hastighetsøkning med en ekstra node i for eksempel toppetasjen. 
+
+Har man en bolig med tre etasjer, der ruteren er enten plassert i nederste eller øverste etasje, vil man plassere én satellitt i hver etasje for best mulig opplevelse. 
+
+Konklusjon 
+
+Mesh-nettverk kan være en ypperlig løsning hvis man har en større bolig og ønsker stabil og god Internettdekning i alle rom og etasjer. 
+Netgear Orbi RBK23-settet med én ruter og to satellitter er et godt alternativ hvis man ønsker god stabilitet over flere etasjer. 
+
+Settet er ikke like kraftig som RBK40, samtidig som det har færre LAN-kontakter, hvis man er avhengig av det. 
+RBK23 har dog den fordelen at det har en ekstra node. 
+Prisen er faktisk så å si lik, så da må en nesten avgjøre om det holder med to bokser, men flere LAN-kontakter, eller har en bolig der det er kjekkest med én ruter + to satellitter. 
+Orbi RBK40 klarer uansett fint flere etasjer. 
+
+Vi kan uansett trygt anbefale både Orbi RBK23 og RBK40, som begge leverer et godt og stabilt internettsignal. 
+
+Les også våre andre tester av mesh-nettverk. 

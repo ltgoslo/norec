@@ -1,0 +1,61 @@
+Ytelse og konklusjon
+Vi ser hvor godt Zeptoen gjør det i praksis - og hva som går galt. 
+
+Som nevnt er såpass små bærbare for spill nokså sjelden kost - det er normalt sett 15,4-tommere og større maskiner som hører til den kategorien. 
+
+LES OGSÅ: 
+
+Vårt testeksemplar har en Core 2 Duo T9300 - denne kjører på 2,5 GHz og er en av de kraftigste prosessorene vi har hatt i en bærbar for testing. 
+Grafikkløsningen er det nVidia som står for med et GeForce 8600M GT. 
+Det har 512 MB dedikert minne. 
+
+Jovisst har vi sett på kraftige småtasser før, men de fleste av disse har hatt en langt svakere grafikkløsning. 
+Det er derfor ikke lett å finne bærbare å sammenligne med direkte, men for å få et visst grunnlag her har vi tatt en kikk på både en litt mindre og en litt større maskin, representert ved henholdsvis Dell XPS M1330 og Multicom Compal IFL90+. 
+
+Felles for disse to bærbar er at de i likhet med Zeptoen til en viss grad kan konfigureres etter ønske, men de er også forskjellige med tanke på grafikkløsning. 
+13,3-tommeren XPS M1330 har et GeForce 8400M GS, mens Multicom-maskinen har den samme løsningen som vi finner i Zeptoen - 8600M GT. 
+Men IFL90+ er altså en 15,4-tommer. 
+
+Ytelse i PCMark05: 
+
+PCMark05 bekrefter at denne bærbare har mye under panseret, men her er det altså i stor grad et spørsmål om hvordan du konfigurerer PCene. 
+Både XPSen og IFL90+ ble testet med mindre minne, tregere prosessor og 5400 RPM harddisk mot Zeptoens 7200 RPM. 
+
+Ytelse i 3DMark05 og -06: 
+
+Det kan virke litt merkelig at Zeptoen gjør det dårligere enn IFL90+ i 3DMark05, men det har sin forklaring, som vi straks kommer til. 
+IFL90+ ble forresten dessverre aldri testet med 3DMark06. 
+
+Batterilevetid 
+Vårt eksemplar av Znote 6224W kommer med et 6-cellers standardbatteri, men du kan få større batterier dersom du godtar høyere vekt og mer masse. 
+Batteriet holdt i nesten to timer i vår test, noe som ikke akkurat er imponerende - men heller ikke spesielt overraskende. 
+
+Merk at resultatet for IFL90+ er med et 9-cellers batteri. 
+
+Houston, vi har et problem 
+
+Det er en grunn til at vi sjelden ser kraftige prosessorer og grafikkløsninger i såpass små bærbare - som kjent utvikler slikt en god del varme, og varmen må ledes vekk. 
+I stasjonære og større bærbare er det plass til gode løsninger for dette, mens det i mindre maskiner ganske enkelt fort blir for trangt. 
+
+Og kjølingen er punktet der Znote 6224W virkelig faller gjennom. 
+Den blir nemlig svært varm, som for det første gjør at vifta går konstant - noe som høres. 
+Det andre er at kjøleløsningen ganske enkelt er for dårlig. 
+Under hard belastning ligger prosessortemperaturen på om lag 80 grader, og grafikkløsningen går opp mot 120 grader. 
+
+Slike temperaturer er slett ikke godt for komponentene i det lange løp, og fører dessuten til at ytelsen automatisk reduseres i et forsøk på å holde temperaturen nede. 
+Så i praksis vil altså spilling føre til redusert ytelse - om du da får spilt noe særlig i det hele tatt. 
+Vi opplevde nemlig også under testingen at maskinen ganske enkelt slo seg av på grunn av varmen. 
+
+Vurdering og konklusjon 
+
+Zepto har lenge tilbudt anstedige bærbare til gode priser, og vi likte for så vidt Znote 6224Ws forgjenger. 
+Men når det gjelder nettopp 6224W er vi på ingen måte fornøyd på tross av god ytelse. 
+
+Fordelen ved å velge en 14,1-tommer skal være mindre størrelse og lavere vekt, men kort batterilevetid tvinger deg mer eller mindre til å alltid ha med deg laderen eller velge et større batteri. 
+Uansett får dette vekt og/eller størrelse opp på nivå med en 15,4-tommer. 
+Og går du du opp til denne klassen får du bedre utstyrte maskiner til lavere pris enn en tilsvarende Znote 6224W. 
+
+Men selve spikeren i kista er det alvorlige problemet at den ikke tåler varmen den selv genererer under hard, langvarig belastning av prosessor og grafikkort. 
+Dette er selvfølgelig noe en bærbar PC profilert som "spillmaskin" burde takle, og betyr strykkarakter i kvalitet. 
+
+På bakgrunn av dette kan vi ikke se noen grunn til å anbefale kjøp av Znote 6224W. 

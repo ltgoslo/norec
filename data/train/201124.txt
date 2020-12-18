@@ -1,0 +1,89 @@
+Aiptek PocketCinema V20
+Her snakker vi virkelig om en lommeprojektor. 
+
+At store apparater blir mindre og mindre uten å miste funksjonnalitet ser vi stadig. 
+Noen ganger blir de i minste laget, og vanskeligere å bruke. 
+Mange telefoner og kameraer er så små at du helst bør ha fingre i barnestørrelse for å betjene dem. 
+Det er ikke nødvendigvis noe framskritt. 
+
+Projektorer har nå krympet fra et firemannsløft til lommestørrelse. 
+Selv om ytelsen ikke kan sammenlignes, spesielt ikke lysstyrken, er det likevel mange av bruksområdene som lommeversjonen dekker. 
+
+Vi har testet veldig små LED-baserte projektorer tidligere, du finner den siste her. 
+Men Aiptek PocketCinema V20 er den første vi har sett som faktisk går ned i en skjortelomme. 
+
+Utrolig liten 
+
+Den er bare 130 x 55 x 23 mm stor og har fasong som minner om en mobil. 
+Vekten er på 167 gram med batteri, som er utskiftbart. 
+
+På toppen sitter det en liten høyttaler og et berøringsfølsomt betjeningspanel. 
+
+På venstre side finner vi AV-inn/lyd ut på minijack, plass til SD-kort og av/på knapp. 
+
+På høyre side sitter VGA-kontakten, IR-mottaker til fjernkontrollen og fokuseringshjulet. 
+
+På baksiden sitter det en mini-USB kontakt for lading og overføring til internminnet på 2 GB. 
+
+På undersiden finner vi dekselet til batteriet og hull med standard gjenger til kamerastativ. 
+
+I tillegg til det lile trebeins bordstativet følger det med to etuier til projektor og tilbehør (lader og kabler). 
+
+Oppløsningen på bildet er VGA ( 640x480) og lysstyrken er oppgitt til <15 lumen. 
+65 tommer er oppgitt som maks brukbar størrelse på bildet som projiseres. 
+
+Levetiden på RGB LED'en er oppgitt til 20 000 timer. 
+
+I bruk 
+
+Projektoren er veldig enkel i bruk og du kan bruke den som frittstående avspiller eller som ren projektor. 
+Du slår den på, og for å vise filer som ligger i internminnet eller på minnekortet manøvrerer du i den lille menyen med de fire retningstastene. 
+Du velger med knappen i midten hvilken type media som skal håndteres og trykker knappen i midten igjen for å starte avspilling. 
+
+Vil du bruke den som projektor koblet til PC-en bruker du spesialkabelen som følger med. 
+Den har VGA-kontakt og 2 USB-kontakter (for å kunne hente strøm fra PC-en) i den ene enden, og spesialkontakt for Aiptek-boksen i den andre. 
+Du behøver ikke velge inngang, det skjer automatisk. 
+
+Plugger du inn en AV-minijack i kontakten får du valget om å bruke tilkoblingen som AV inn eller lyd ut. 
+Da trenger du en overgangskabel med 3 phonojacker, rød og hvit for lyd og gul for komposit- video. 
+
+Fokusering stilles med det lille hjulet som er både lett og presist. 
+
+Formater 
+
+PocketCinema V20 støtter mange filformater, men ikke alle. 
+Derfor følger det med en versjon av ArcSoft Media Converter som er fastlåst til å konvertere til formater som støttes. 
+
+JPG-bilder er ikke noe problem, så lenge bildene ikke er for store og mappene ikke inneholder hundrevis av bilder. 
+Setter du inn et fullt 16 GB SD-kort blir innlesing og manøvreringen seig som sirup. 
+Du kan velge slideshow med faste intervall eller manuell. 
+
+Lydavspilling av MP-3 filer under bildevisning gjøres ved å legge filene i samme mappe som bildene, så blir de spilt av automatisk. 
+
+Men videoformater er en annen historie. 
+Svært lite av det vi hadde for hånden lot seg spille av direkte. 
+Konverteringsprogrammet var heller ikke spesielt imøtekommende, alle MOV-filene våre fra Zoom Q3 opptakeren ville det ikke konvertere. 
+QuickTime 7 eller høyere ble etterlyst, men det ligger vitterlig på PC-en. 
+Filer fra YouTube i MP4 format var heller ikke spiselig, men her var konverteringsprogrammet mer samarbeidsvillig. 
+
+Men de aksepterte videoene spilte av helt utmerket i VGA-oppløsning. 
+
+VGA fra PC fungerte også utmerket, men noen programmer krever en del justering for å få noe fornuftig ut i VGA når man er vant til å jobbe med langt større oppløsning. 
+Dette gjelder spesielt regneark og annet med mye tall/tekst. 
+Normale presentasjoner burde derimot gå bra. 
+
+Bildekvalitet 
+
+15 lumen på strøm og 12 på batteri er ikke allverden av lysstyrke. 
+Derfor er projektoren avhengig av et halvmørkt rom for at det skal bli noe sus over bildet. 
+
+Men under gunstige betingelser er bildet overraskende bra, og helt på høyde med tidligere mini-projektorer vi har testet. 
+
+Konklusjon 
+
+Med litt forarbeide når det gjelder tilpasning av størrelse og format, er Aiptek PocketCinema V20 kjapp og praktisk å ta med på reise. 
+Skal du bruke internminnet eller minnekort kreves det mest forabeide, bruker du den tilkoblet en PC til VGA-inngangen slipper du unna formatkonverteringen. 
+
+Kvaliteten er overraskende bra, når forholdene ligger til rette. 
+
+Mer info finner du hos Aiptek 

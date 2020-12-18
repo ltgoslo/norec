@@ -1,0 +1,62 @@
+Ytelse, bildekvalitet og konklusjon
+TEST: 
+Mellomvekteren fra Nikon kan lett forveksles med en tungvekter. 
+Det beste kameraet under 10.000 kroner? 
+
+Ser vi på ytelsen først, starter kameraet på et blunk - 18 hundredeler oppgis av Nikon, og det ser vi ingen grunn til å betvile. 
+I motsetning til f.eks. Sony Alpha og EOS 400D, ristes ikke bildebrikken, som på disse kameraene bruker et lite sekund dersom det gjøres ved oppstart. 
+18 hundredeler kan i praksis ses bort i fra - kameraet er klart til dyst før du får løftet det til øyet uansett. 
+
+Når det gjelder seriefotografi, oppgir Nikon at kameraet tar 3 bilder pr sekund opp til 100 bilder (JPEG, stor, normal kvalitet), men vi fikk en følelse av at det gikk noe tregere, som vi fikk bekreftet i følgende test: 
+Vi tok bilde av en stoppeklokke på skjermen (slik vi pleier å gjøre det når vi tester seriefoto) og regnet etterpå ut hvor mange bilder vi hadde tatt på hvor mange sekunder. 
+
+3 bilder pr sekund? 
+
+Resultatet ble at vi fikk tatt 45 bilder på 24,3 sekunder, eller cirka 1,85 bilder i sekundet. 
+Dette gjaldt både med fine og normal kvalitet. 
+I teorien skal minnekortet vi brukte være raskt nok - et Twinmos Ultra-X 150x, og uansett burde de første bildene gå unna med 3 pr sekund så lenge det er plass i bufferet; noe som ikke var tilfelle. 
+
+Blitsen lades svært fort - riktignok kan du ikke holde knappen nede for å ta bilder i serie, men vår vanlige test gav oss over halvannet bilde pr sekund med blits, inkludert forsinkelsen som oppstår når vi skal slippe og trykke inn utløserknappen på nytt (manuell fokus). 
+Utløserforsinkelsen er også svært kort - målt til cirka fem hundredeler. 
+
+Det skal forresten nevnes at det går svært fort å bla i bilder på D80 - ved å bruke innstillingshjulet kan du lett gjøre unna 3-4 bilder i sekundet. 
+
+På D80 er autofokusen svært betinget av objektivet, siden det er der motoren sitter. 
+Vi har foretatt våre vanlige tester med kitobjektivet på 18-70mm, men presiserer at resultatene vil bli annerledes med andre objektiver. 
+På vidvinkel målte vi i snitt 0,6 sekunder (tvungen blits, belyst møterom, ca. 2,5 meters avstand, 5 eksponeringer, snittet av de tre midterste målingene) og 0,75 på tele, som også er meget bra. 
+I stedet for å bruke den innebygde blitsen, bruker D80 en hvit autofokuslampe, som er en mer behagelig løsning for de du tar bilder av. 
+
+Dette gir oss følgende ytelsestabell: 
+
+Bildekvalitet 
+
+Nikon D80 er i stand til å levere meget gode bilder; også med kit-objektivet (testet: 18-70mm) som holder en betydelig høyere kvalitet enn hva tilfellet er for Sony og Canon-kameraene. 
+Det merkes allerede på vekten (og prisen, for så vidt), der Nikkor-objektivet føles langt mer solid, som følge av at det er laget av metall. 
+
+I tillegg kan du overstyre autofokusen (altså at du kan vri på fokusringen etter at autofokusen har låst fokus), og objektivet har også avstandsindikator som hjelper godt når du vil fokusere manuelt. 
+Det er også mer lyssterkt på tele - f/4,5 mot f/5,6 som er vanlig, som betyr at 54% mer lys slipper inn. 
+Kit-objektivet har liten kromatisk feilbrytning og tegner ganske skarpt over hele bildeflaten; også i kantene, som ofte er et problem på billigere objektiver. 
+Det eneste som er verdt å nevne på minussiden er at objektivet har en del vignettering på vidvinkel, noe du ser i eksempelet til høyre. 
+
+Det mest imponerende er lysmåleren, som sørger for at bilder eksponert korrekt i nesten alle sammenhenger. 
+Den fungerer ved at farge- og lysverdier måles på 420 punkter i bildet, for deretter å sammenligne målingene med målinger for 30.000 motiver, som ligger lagret i kameraet. 
+
+Hvitbalanseringen fungerer som regel godt i de fleste tilfeller, men i normal innendørsbelysning blir det ofte et påfallende gulstikk i bildet. 
+Tar vi en titt på støynivå ved ulike ISO-verdier, får vi følgende resultater: 
+
+Ganske gode resultater, som vi ser, og til og med ISO 800 er det helt uproblemetisk å bruke bildene, og også 1600 går fint til A4-utskrifter og nedover. 
+Vi legger dog merke til at støynivået er marginelt noe høyere enn Canon EOS 400D. 
+
+Merk også at du for de høyeste ISO-verdiene kan styre hvor hard støyreduksjon som skal utføres. 
+Under følger et eksempel på "ISO 3200" (ukalibrert, og derfor navngitt Hi1). 
+Det øverste utsnittet er uten støyreduksjon, mens det nederste er med støyreduksjon satt på "high". 
+
+Konklusjon 
+
+Den nye gruppen speilreflekskameraer holder jevnt over meget høy kvalitet, og det er omtrent ikke mulig å gjøre bomkjøp; noe som reflekteres av karakterene vi har delt ut. 
+
+Allikevel synes vi Nikon D80 har det lille ekstra - det virker mer solid, det har det beste kit-objektivet, det har flest funksjoner og innstillingsmuligheter, større søker m.m., og gir rett og slett et proffere inntrykk enn de andre kameraene vi har testet i høst (dette reflekteres også av prislappen). 
+I tillegg er bildekvaliteten svært god - takket være den meget gode lysmåleren eksponeres bildene svært godt i de aller fleste tilfeller, og støyegenskapene er meget gode på høye ISO-verdier. 
+
+Det er ikke nødvendigvis kameraet som passer best for alle, men vet du hva du er ute etter, har vi ingen skrupler med å gi D80 våre varmeste anbefalinger. 
+Det beste SLR-kameraet til under 10.000 av de vi har testet. 

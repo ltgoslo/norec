@@ -1,0 +1,89 @@
+Sony CD WalkmanD-NE511 
+
+Navnet Atrac3plus klinger ikke like godt i ørene som MP3, og vil nok heller aldri gjøre det. 
+Men at Sony har peiling på lydkomprimering, er hevet over en hver tvil etter vår test av D-NE511. 
+
+Atrac er navnet på et komprimert lydformat utviklet av Sony, som har vært benyttet på minidiscer i over 10 år. 
+Formatet er senere videreutviklet flere ganger, og Atrac3plus er siste versjon. 
+Atrac3plus tåler ekstremt kraftig komprimering, faktisk inntil tre ganger mer enn MP3 uten vesentlige kvalitetstap, i følge Sony selv. 
+Dermed skulle formatet være perfekt for bruk i flashminnebaserte spillere, mobiltelefoner, PDAer etc med begrenset lagringsplass. 
+
+Minst 30 plater 
+
+I vår lanserte Sony en serie bærbare CD-spillere som støtter Atrac3plus i tillegg til vanlig CD audio og MP3. 
+Spillerne ble levert med programmet SonicStage Simple Burner, som kunne konvertere MP3-filer og audio CDer til Atrac3plus-format, for deretter å brenne Atrac3plus-musikken direkte til CDR/CDRW. 
+Hvis hver musikk-CD i samlingen din har 60 minutters spilletid i snitt, betyr det at du får plass til hele 30 fulle plater på én 700 MB CDR, dersom du velger kraftigste komprimering (48 kbit pr sek). 
+
+Den brente Atrac3plus-CDen vil da bare være spillbar på en CD-spiller som støtter formatet. 
+Filene kan ikke kopieres tilbake, og CDen kan heller ikke spilles av på PCen. 
+
+Den billigste av dem alle 
+
+CD Walkman 
+D-NE511 er den billigste av spillerne i serien. 
+Den har display som viser artist, sangtittel, mapper, spilletid etc. 
+Den er grei, men dessverre ikke baklyst, noe som gjør den ubrukelig i dunkel belysning. 
+
+All betjening foregår i fronten av spilleren. 
+Til venstre fro LCDen finner du knapper for enkelt å navigere deg fra mappe til mappe på CDen, du kan bytte mellom forskjellige visninger i LCDen, og velge avspillingsmetode (spille alle, repetere, tilfeldig rekkefølge). 
+Du kan dessverre ikke programmere avspillingsrekkefølgen. 
+
+I tillegg finner du knapper for volumstyring og bass på sidene. 
+Vi skulle gjerne også hatt muligheten til å justere diskanten, men det kan du ikke på D-NE511 
+
+Til høyre for LCDen finner du et navigasjonshjul for rask navigeringn mellom mapper og spor, og til høyre for denne igjen er en rund knapp med akser for de vanlige valgene (start, stopp, pause, forrige, neste, spoling). 
+Betjeningsmessig er dette den største svakheten, synes vi. 
+Har du store fingre blir det alt for lett å treffe feil akse på knappen. 
+
+Pip-pip til besvær 
+
+Og hvorfor i all verden skal det komme skjærende pipelyder hver gang du trykker på en knapp? 
+Trykker du på pause-knappen piper det i ett sett! 
+Direkte molbo, synes vi. 
+OPPDATERT: 
+Pipelyden kan fjernes ved å ta ut batteriene og trykke stopp-knappen samtidig som du setter inn netadapterpluggen i spilleren. 
+Takk til Bjørn Elias Hesthamar for opplysningen! 
+
+I motsetning til de dyrere spillerne i serien leveres D-NE511 uten oppladbare batterier. 
+Men fortvil ikke; to vanlige AA-batterier holder til flere døgn med uavbrutt avspilling. 
+Spilleren har dessuten et mer traust og tradisjonelt design enn storebrødrene, og ser litt mer "plastic" ut. 
+For øvrig er både funksjonalitet og lydkvaliteten tilnærmet lik, får vi opplyst på et av utsalgsstedene. 
+
+Problemfri men tidkrevende konvertering 
+
+SonicStage Simple Burner viste seg å være svært enkelt å bruke. 
+Programmet har to vinduer, et hvor du velger MP3-filer eller audio CD, og et som viser hva som blir brent til CDen. 
+Over dette vinduet vises hele tiden hvor mye plass som gjenstår på en tom CD-plate. 
+
+Når du har valgt ut all musikken du ønsker å brenne, starter konverteringen til Atrac3plus. 
+Vi fikk plass til 32 CD-plater i vår test, til sammen 542 spor! 
+Konverteringen tok halvannen time på vår PC med Athlon XP2500+ prosessor, så har du en tregere PC kan det kanskje være en ide å starte prosessen før du går til sengs om kvelden. 
+
+Hvis du synes at 10-12 CDer er greit nok, kan du like gjerne bruke et hvilket som helst CD-brenneprogram og fylle en CDR/CDRW med MP3-filer. 
+D-NE511 spiller nemlig også MP3-plater. 
+
+Slett ikke verst 
+
+Vi var i utgangspunktet svært skeptiske til å konvertere MP3-filer til et nytt komprimert lydformat. 
+Vi har tidligere gjort forsøk med konvertering til ogg vorbis og MP3pro, og lyden har blitt tydelig degradert, spesielt på bitrater under 64 kbps. 
+Derfor ble vi oppriktig overrasket over hvor mye Atrac3plus-formatet klarte å bevare av lydinformasjon, helt ned i 48 kbps. 
+Vår oppfatning er at formatet er utrolig mye snillere mot vokal, piano og akustiske gitarer enn både ogg vorbis og mp3pro ved så kraftig komprimering. 
+I våre ører gir WMA så skjærende diskant i bitrater under 96 kbps, at vi ikke trekker det frem i denne sammenligningen i det hele tatt. 
+
+Har du ekstra fine ører kan du velge en lavere komprimeringsgrad. 
+Atrac3plus benytter enten 48 eller 64 kbps. 
+For lavere komprimering kan du gjennom SonicStage Simple Burner velge minidiscformatet Atrac3, som spilleren også leser uten problemer. 
+
+Øreproppene som følger med gir faktisk meget fyldig lyd, blant de bedre vi har prøvd, faktisk. 
+Det er veldig hyggelig med tanke på at dette er en spiller som koster under 1.000 kroner. 
+
+Konklusjon 
+
+Sony CD Walkman 
+D-NE511 skiller seg først og fremst ut fra andre CD-baserte MP3-spillere gjennom støtten for Atrac3plus. 
+Og det er etter vår mening en betydelig forskjell, all den tid at lydkvaliteten er så god. 
+Nå får du riktig nok CDR-plater nesten gratis i butikkene, men det er uansett mer bekvemt å ha én plate med deg på tur enn tre. 
+Vi gir også pluss for god lyd i øreproppene, enkel navigering og god batterilevetid. 
+
+Det blir en solid femmer til D-NE511. 
+Hadde LCDen hatt baklys hadde vi vært faretruende nær en sekser. 

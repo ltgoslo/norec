@@ -1,0 +1,95 @@
+Multicom Kunshan P651S
+Glimrende gaming-maskin med 4K-skjerm og forrykende ytelse. 
+
+Denne PC-en inngår i en trippeltest av PC-er myntet på gaming og underholdning. 
+Du finner testoversikten her. 
+
+Multicom er en norsk PC-leverandør som setter sammen bærbare PC-er i Norge. 
+I praksis dreier det seg om halvfabrikatmodeller fra OEM-produsenter som Clevo, som Multicom setter opp med disker, minne og prosessor. 
+
+Selskapet er en av svært få leverandører som tilbyr deg å kjøpe PC uten operativsystem, og vi skynder oss å legge til at prisen i oppsummeringsboksen nederst IKKE inkluderer Windows. 
+Skal du ha den levert med Windows 8.1 må du ut med rundt 900 kroner - vel og merke hvis du fikser installasjonen selv. 
+
+Den klare fordelen med en slik løsning er at du står 100% fritt til å konfigurere Windows nøyaktig slik du selv ønsker, og slipper alle demo-programmene fra tredjepartsleverandører som ofte kommer med PC-er fra andre produsenter. 
+
+Før vi går videre skal vi ta en titt på noen av de viktigste spesifikasjonene (uthevet), sammenlignet mot de to andre PC-ene i testen: 
+
+Det er noen helt åpenbare forskjeller mellom Multicom-maskinen og de to andre. 
+For det første har den en UHD-skjerm, altså fire ganger høyere oppløsning enn full HD. 
+Det betyr sylskarpe bilder - tro oss! 
+Du må imidlertid skru opp skriftstørrelsen i Windows for at ikke alt skal bli altfor smått, og heldigvis begynner Windows (og programmene) å bli ganske flinke på dette området nå, men fortsatt forekommer det at programmer ikke er helt kompatible, slik at menyer forsvinner eller tekst blir uleselig, heldigvis skjer det sjeldnere og sjeldnere. 
+
+Den andre som må trekkes fram, er at maskinen har både en SSD og en harddisk. 
+Dette er pr i dag det optimale kompromiss mellom ytelse og kapasitet, i påvente av at SSD-er blir så billige at det ikke er noe poeng i å kjøpe harddisker lenger. 
+Kort sagt byr SSD på flere ganger høyere lese- og skriveytelse enn harddisker, noe som i stor grad påvirker følelsen av å ha en rask PC. 
+Mer om det senere. 
+
+Vi ser også at PC-en er oppgraderingsvennlig - det er tre ledige minnespor som lar deg utstyre den med inntil 32 GB RAM, og du kan også sette inn enda en SSD ved behov. 
+Grafikkortet er også det kraftigste i dette selskapet, og fingerprintleser og eSATA-tilkobling er også Multicom alene om å tilby. 
+
+Slik ser den ut 
+
+Overflaten er av metall og lakkert i matt, svart lakk. 
+
+Det er også brukt metall rundt tastaturet og på undersiden av PC-en, noe som bidrar til en temmelig høy kvalitetsfølelse. 
+
+Men i motsetning til de to andre PC-ene i testen er utseendet meget anonymt. 
+Mange vil nok sette pris på det, mens andre gamere kanskje foretrekker litt mer bling, farger og lys. 
+
+PC-en er relativt slank, med sine 2,5 cm. Alle tilkoblingene sitter på venstre og høyre side, med unntak av strøm og eSATA som sitter bak. 
+
+Tastaturet er helnorsk (hurra), og baklyst med hvitt lys. 
+Spilltastene W, A, S og D er merket med røde piler, og understreker at dette er en PC myntet på gaming. 
+På f-tastene øverst sitter det hurtigvalg for blant annet lys og lyd, disse aktiveres ved holde inne fn-tasten nederst. 
+Tastaturet er relativt fast, men ved harde trykk beveger platen seg litt på midten. 
+For øvrig lager det lite lyd under bruk. 
+
+Pekeplaten er multiberøringsfølsom og relativt stor, og akkompagnert med to adskilte knapper for venstre- og høyreklikking. 
+Dette ser vi på som udelt positivt. 
+Begge avgir lav lyd ved klikking. 
+Mellom de to sitter fingerprintleseren, som skal kunne kobles til pålogging og transaksjonsløsninger i kompatible programmer (vi har ikke testet dette). 
+
+Super skjerm 
+
+Skjermen er en åpenbaring, og sammen med HP Omen testens beste. 
+Den er imidlertid fire ganger skarpere enn HP-skjermen, og det er stor stas å nyte både svært høyoppløste bilder og video - begge med en detaljrikdom vi for kort tid siden ikke hadde drømt om ville bli mulig. 
+Kvalitetsforskjellen fra forrige Multicom-maskin vi testet, er stor. 
+
+Denne videoen yter naturlig nok ikke skjermen full rettferdighet, men du vil få et visst inntrykk - spesielt av farger og lys (og gjenskinn): 
+
+Mellom tastaturet og skjermen sitter et par Onkyo-høyttalere, og de produserer lyd med ganske så god fylde. 
+Vi har ikke noen problemer med å lytte til musikk mens vi jobber, men for ordentlig buldrebass i spill og film må du selvfølgelig bruke hodetelefoner eller eksterne høyttalere. 
+
+Slik er den i bruk 
+
+Vi fikk maskinen levert med Windows 8.1 ferdig installert, og det rene oppsettet er en fryd å bruke. 
+Her er det ingen irriterende sprettoppbokser fra tredjepart som ønsker å selge deg lisenser på programmer du aldri har etterspurt, og du står med blanke ark til å velge dine egne programløsninger. 
+
+Maskinen er stillegående når belastningen er lav, kun svak summing fra harddisken er hørbart. 
+Under belastning starter viftene, og de øker til et moderat nivå i de tyngste oppgavene - men roer seg raskt når belastningen avtar. 
+
+Generelt oppleves maskinen som svært rask, og det henger selvfølgelig sammen med den kraftige prosessoren og SSD-en. 
+Prosessoren er den samme som i de to andre, og ytelsen er helt på linje med Toshiba Qosmio X70, og litt bak HP Omen, uten at vi tror det vil være særlig merkbart i praksis: 
+
+SSD-en er tregere enn den som sitter i HP-en, men er samtidig flere ganger raskere enn harddisken i Toshibaen: 
+
+Det viktigste med en spill-PC er naturligvis grafikkytelsen, og her er Multicom i en særklasse raskest. 
+Sjekk bare denne videoen som viser ytelsestester foretatt med Catzilla (som samtidig illustrerer problemet med gjenskinn i blanke skjermoverflater). 
+Dette er svært krevende scener i full HD-oppløsning, som kortet har null og niks problemer med: 
+
+Brutt ned til tall i Passmark PerformanceTest ser vi at 3D-grafikkytelsen ligger solid i tet av de tre maskinene: 
+
+Når det gjelder batteritid plasserer Multicom seg mellom de to andre, og ut fra våre målinger skal du kunne forvente å bruke maskinen mellom 4 og 4,5 timer med normal, variert belastning før du må finne et støpsel. 
+Merk imidlertid at gaming normalt vi suge ut energien langt raskere: 
+
+Konklusjon 
+
+Multicom Kunshan P651S har den klart beste spillytelsen av de tre, og en sylskarp og meget god skjerm som har fire ganger høyere oppløsning enn de to andre. 
+Den er også den eneste som har både SSD og harddisk, og byr også på flere muligheter for oppgradering og tilkobling av ekstrautstyr. 
+Den er derfor en verdig testvinner i dette selskapet. 
+
+Sjekk plussene og minusene i boksen under før du bestemmer deg. 
+
+Tilbake til testforsiden eller les om de to andre PC-ene i testen, Toshiba Qosmio X70 og HP Omen 
+
+Multicom Kunshan P651SE-CFB2 

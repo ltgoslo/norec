@@ -1,0 +1,59 @@
+Linksys EA6900 AC1900-ruter
+Flere produsenter kaster seg på AC1900 - også Linksys er med i klubben. 
+
+Linksys' nye AC-ruter er bygd på samme lest som de andre ruterne som skilter med samme hastighet, og betegnelsen AC1900 står for den raskeste 802.11ac-spesifikasjonen. 
+
+Design og installasjon 
+
+I motsetning til flere av de andre AC-ruterne som er stående med interne antenner, har Linksys EA6900 et liggende design med løse antenner som kan dreies i alle retninger. 
+På undersiden er det også festehull for å henge ruteren over to skruer på en vegg. 
+
+Tilkoblingene er på baksiden når ruteren plasseres liggende, henger man den på veggen vil ledningene stikke ut fra siden. 
+
+Det er fire nettverksporter for lokalnett, en for internettforbindelsen og to USB-porter for deling av tilleggsutstyr. 
+Den ene av disse er USB 3.0, den andre er USB 2.0. 
+
+Installasjon gjøres via nettleser eller ved hjelp av CD-en som følger med. 
+Vi valgte å starte nettleseren, og konfigurasjonssiden i ruteren dukker da opp siden det ikke er noen internettforbindelse før ruteren er satt opp. 
+
+I bildespesialen under ser du skjermdumper fra hele prosessen. 
+Denne er en av de mest brukervennlige og oversiktlige vi har sett. 
+
+Ytelse 
+
+Som nevnt over forventer vi ikke dramatisk forskjell i ytelse når man sammenligner utstyr bygget på samme eller svært like brikkesett. 
+
+Målingene sammenlignet med to andre rutere vi nylig har testet bekrefter dette. 
+
+Det som var litt interessant var at ytelsen på 2,4 GHz lå noe over ytelsen på 5 GHz på denne ruteren. 
+Dette kan jo være en fordel i mange situasjoner, siden svært mye utstyr fremdeles bare fungerer på 2,4 GHz. 
+
+Hva er forskjellen kontra andre rutere? 
+
+Rutere av forskjellige merker som er bygget på det samme brikkesettet, slik AC-ruterne gjerne er, vil i utgangspunktet være svært like både når det gjelder egenskaper og ytelse. 
+Det som skiller mest mellom produsentene vil derfor ligge i designet på enheten og i hvordan oppsettet presenterer seg for brukeren. 
+
+Etter hvert vil det også kunne komme oppgraderinger fra de forskjellige produsentene som byr på forbedringer og justeringer. 
+
+Men selve grunnytelsen vil være svært lik, og det vil typisk kunne være større forskjeller mellom to plasseringer enn mellom to rutere basert på samme brikkesett. 
+
+Etter hvert som teknikken modnes ser vi også stadig mindre forskjell i ytelse mellom produktene fra forskjellige produsenter. 
+
+Konklusjon 
+
+Linksys EA6900 AC1900 er en utmerket ruter, basert på de aller nyeste tekniske løsningene. 
+Fremdeles er det få klienter som matcher det ruterne kan levere, men det er bare å smøre seg med tålmodighet. 
+Ytelsen er i klasse med de beste. 
+
+Vi likte designet, en liggende ruter er mer stabil enn en stående, spesielt når du kobler til mange kabler. 
+
+Utformingen av oppsett og konfigurering er også svært funksjonell og brukervennlig, blant det beste vi har sett på noen ruter. 
+
+Tilleggstjenestene er også brukervennlig, og styres via en nettjeneste. 
+Her får du først og fremst fjernadministrasjon av ruteren, men også tilgang til nettverksinnhold fra lagringsenhet tilkoblet USB-porten via FTP. 
+
+Du kan også sette opp gjestenett til fem, ti, 20 eller flere brukere, som ikke får tilgang til lokalnettet, bare til internett. 
+
+Kontroll av tilkoblede enheter kan også kobles ut til faste tider, eller fjernstyres, hvis man vil gjøre seg mektig upopulær hos andre familiemedlemmer. 
+
+Linksys EA6900 

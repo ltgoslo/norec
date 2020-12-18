@@ -1,0 +1,114 @@
+Dell Vostro V131
+Syltynn, robust, glimrende tastatur og svært god batterilevetid. 
+Dell snuser på terningkast 6. 
+
+Vi går en spennende tid i møte på bærbar-fronten, og allerede om ett år vil en stor del av PC-ene som selges være såkalte "Ultrabooks", tror Intel. 
+Da snakker vi om syltynne, lette maskiner, uten harddisk og optisk drev, og med lang batterilevetid. 
+
+Dell Vostro V131 er ikke helt der, men den knallrøde PC-en er meget tynn i 2011-målestokk. 
+Den har dessuten et robust metallchassis, og utmerker seg positivt på flere områder. 
+
+Skreddersøm 
+
+Som alltid med Dell, kan du skreddersy modellen slik at den passer ditt behov. 
+Med den aller enkleste konfigurasjonen, som inneholder en Celeron ULV-prosessor og 2 GB minne, starter prisen på så lavt som 3737 kroner (2995 + mva). 
+Konfigurasjonen vi har testet er langt mer potent, med en prislapp i skrivende stund på 9825 kroner (7860 + mva). 
+
+For denne prisen får du følgende: 
+
+13,3" matt LCD-skjerm, 1366 x 768 piksler Metallchassis, enten rødt eller sølv Intel Core i5 2410M prosessor Intel HD Graphics 3000 integrert grafikk med WiDi-støtte 4 GB DDR3 minne (maks 8) 120 GB SSD Trådløst nett (b/g/n) Bluetooth 3.0 Gigabit ethernet 2 stk USB 3.0-porter, 1 stk USB 2.0-port Baklyst tastatur 
+Fingeravtrykkleser HDMI og VGA-skjermtilkoblinger 6-cellers batteri Leveres med Windows 7 Home Premium 64 bits versjon Mål: 329,3 × 21 × 237,65 mm Vekt: 
+1,9 kg Pris: 9825 kroner inkl mva og frakt 
+
+Som vi ser er PC-en godt oppdatert på maskinvarefronten, med siste generasjon Intel-prosessor, USB 3.0-porter, SSD og 6 cellers batteri, der forgjengeren V130 kun hadde 4-cellers. 
+Vi merker oss også at maskinen har matt skjerm, dermed slipper man irriterende gjenskinn. 
+
+SSD-en gjør imidlertid at PC-en blir vesentlig dyrere enn dersom man velger harddisk. 
+Bytter du den mot en rask 7200 RPM-harddisk i stedet, synker prisen til 7188 kroner, inkludert mva og frakt, får vi opplyst fra Dell. 
+
+Merk videre at modellen selges som såkalt business-modell, til tross for at den leveres med hjemme-utgaven av Windows 7, som for eksempel ikke støtter domene-pålogging. 
+Og optisk drev er, som oftere og oftere i denne klassen, fraværende. 
+
+Pent 
+
+V131 får du enten i matt sølvfarget eller rød utførelse, og som nevnt innledningsvis er chassiset av metall - både overflate og underside. 
+Det bidrar både til en eksklusiv følelse, samt god oppstiving og følelse av kvalitet. 
+På innsiden, rundt tastaturet, er det brukt plast, også denne matt, slik at fingeravtrykk ikke blir et problem. 
+
+Batteriet stikker litt ut på undersiden, og derfor skrår maskinen lett mot deg når den står på bordet. 
+Det er ikke mulig å bestille V131 med et mindre batteri, noe enkelte design-opptatte muligens ville foretrukket. 
+Til gjengjeld byr V131 på svært god batterilevetid, noe du kan lese mer om senere i denne artikkelen. 
+
+Alle tilkoblinger sitter på venstre og høyre side, med unntak av strømtilførselen, som sitter bak til venstre. 
+På undersiden sitter flere luftinntak, mens den varme luften blåses ut til venstre. 
+Under lett bruk går det imidlertid ofte lang tid mellom hver gang viftene starter. 
+Sannsynligvis fungerer chassiset i seg selv som en effektiv varmeavleder. 
+
+Vi må imidlertid understreke at viften, når den går, ikke er blant de stilleste vi har hørt. 
+Og har du maskinen i fanget og dekker til luftinntakene, kan den litt høyfrekvente lyden bli sjenerende i enkelte sammenhenger. 
+Men altså - plassert på stabilt underlag og med tekstbehandling og surfing på nettet, er PC-en som regel stille som en mus. 
+
+Glimrende tastatur og pekeplate 
+
+Tastaturet er bakbelyst, og av typen der hver tast er isolert fra hverandre (chicklet). 
+Det er blant de aller beste vi har testet - uansett modell. 
+Det er fast, responsivt, støysvakt, og tastene er brede og gode å trykke på. 
+Vi var rett og slett "dus" med tastaturet i samme sekund som vi tok det i bruk. 
+
+At det i tillegg er sølebestandig, er prikken over i-en. 
+Skulle du være så uheldig å søle kaffe på det, er det bare å tørke av og fortsette arbeidet. 
+
+Under tastaturet sitter en pekeplate som har to adskilte knapper. 
+Også disse er faste, men avgir ingen irriterende klikkelyd overhodet. 
+Se og lær, konkurrenter! 
+
+Over tastaturet til høyre sitter tre hurtigknapper. 
+Den første starter Windows Mobilitetssenter, der du kan skreddersy brukeropplevelsen i forhold til vanlige funksjoner, den andre setter deg i kontakt med Dell Support, mens den siste er programmerbar til hva du enn måtte ønske av funksjonalitet. 
+
+I fronten sitter et par stereohøyttalere, men lydopplevelsen er ikke den beste. 
+Den blir for metallisk, bassen er fraværende. 
+Men det er mer malen enn unntaket i klassen, dessverre. 
+
+Skjermen er som tidligere nevnt matt, og har god skarphet, kontrast og fargegjengivelse. 
+Oppløsningen er helt OK på en såpass liten skjerm. 
+
+God applikasjonsytelse 
+
+Vårt testeksemplar er utstyrt med den meget fornuftige allround-prosessoren Intel Core i5 2410M, som byr på meget god applikasjonsytelse til nær sagt alle oppgaver. 
+Grafikkløsningen er integrert i prosessoren, og sørger for å spille av alt av høyoppløst materiale uten å belaste verken batteri eller prosessor i særlig grad - også når ting skal vises på ekstern skjerm og i full HD. 
+Men til spilling av nyere, grafisk komplekse spill ville vi valgt en annen løsning. 
+Dette er ikke noen maskin for deg som har tenkt å bruke din nye PC til de ferskeste 3D-spillene, med andre ord. 
+
+Først: 
+Her er hva Windows Opplevelsesindeks sier om ytelsen, skalaen her går fra 1.0 (dårligst) til 7,9 (best): 
+
+Prosessor: 6,9 Minne (RAM): 
+5,9 Grafikk: 
+4,7 Spillgrafikk: 
+6,2 Primær harddisk: 
+7,6 
+
+Passmark Performancetest sier litt mer om prosessor- og grafikkytelse. 
+I diagrammene under har vi sammenlignet ytelsestall fra denne PC-en mot typiske konkurrerende løsninger på andre PC-er som er sammenlignbare. 
+Høyere er bedre: 
+
+Som du ser er prosessorytelsen midt på treet, og grafikkytelsen en del under, uten at det betyr at den er dårlig. 
+Den er bare ikke optimalisert for spilling. 
+
+Hel arbeidsdag på batteri 
+
+Men på batterilevetid er denne maskinen helt i toppen - sammenlignet med det meste av hva vi har testet tidligere i år. 
+Med minimal belastning holdt batteriet ut i 10 timer og 16 minutter før det gikk tomt, og under kontinuerlig videoavspilling (720P i Windows Media Player) 
+Holdt det ut i underkant av 6 timer. 
+Det betyr at du kan se spillefilmer kontinuerlig på flyturen mellom Oslo og New York, kun avbrutt av en time bespisning over Sør-Grønland. 
+
+Ved variert bruk kan du forvente en levetid på mellom 8 og 9 timer, og det er det beste vi har målt denne sesongen! 
+
+Konklusjon 
+
+Det er ikke ofte at PC-er snuser på sekseren på terningen, men Dell Vostro V131 gjør det. 
+Vi vil huske den for sin elegante, robuste og tynne utforming, for ikke å glemme det glimrende tastaturet og den overbevisende batterilevetiden. 
+
+Du får riktig nok langt rimeligere 13,3-tommere med samme prosessor og bedre grafikkytelse, men de færreste har SSD, og kun et fåtall kan matce byggekvalitet og batterilevetid på Vostro V131. 
+Til tross for litt høy pris; 
+Dell Vostro V131 får en solid femmer og klar anbefaling fra oss. 

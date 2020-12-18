@@ -1,0 +1,39 @@
+500GB Hitachi T7K500
+Hitachi er nå klare med en ny utgave av 500GB-disken, med dobbelt så stort hurtigminne. 
+Vi har testet - den gamle havner klart i skyggen når det gjelder ytelse. 
+
+For et par uker siden testet vi Hitachis "gamle" 500 GB harddisk, du finner testen her. 
+Det var tydelig at denne lå en del under konkurrentene i ytelse, noe som skyldes både eldre teknologi og halvparten så stor minnebuffer. 
+
+Nå har vi fått tak i den nye utgaven, og som vi hadde ventet leverer den vesentlig bedre ytelse. 
+
+Utseendet viser at det er en del forandringer, selve kabinettet er praktisk talt identisk, men elektronikken er ny. 
+
+De blanke platene på den eldre disken (til venstre på begge bildene under) er også borte, den funksjonen de må ha hatt er det tydeligvis ikke lenger bruk for. 
+
+Det snodige er at begge diskene Deskstar E7K500-500 (modellnummer HDS725050KLA360) og Deskstar T7K500-500 (modellnummer HDT725050VLA360) står oppgitt med 16 MB buffer i oversikten på Hitachis nettsted, mens i omtalen av den eldre disken står det "opptil 16 MB buffer". 
+Vårt eks. 
+av den gamle modellen hadde altså bare 8 MB. 
+
+Men den store forskjellen ligger i antallet plater/hoder. 
+Den eldre modellen har 5 plater og 10 hoder mens den nye har 3 plater og 6 hoder. 
+Høyere datatetthet med andre ord, og det gir høyere ytelse. 
+Overføringen direkte fra plate til hode ligger på max 998 Mb/sek vs. 817 Mb/sec på den eldre modellen. 
+
+Støyen er 1 dB lavere - fra 31 til 30 dB, og strømforbruket har gått ned fra 5V 670mA/12V 850 mA for den eldre utgaven til 5V 730mA/12V 640 mA på den nye utgaven. 
+
+Temperaturen utvendig målte vi til max 42 grader, nøyaktig det samme som hos forgjengeren. 
+
+Målinger 
+
+Sammenlignet med forgjengeren er det en påtagelig forbedring både i lese og skriveytelse med den nye plate/hode-konfigurasjonen. 
+
+Forskjellen i gjennomsnittlig leseytelse er på 16,3 MB/sek og i gjennomsnittlig skriveytelse måler vi 5,2 MB/sek. 
+
+Sammenligner vi med Samsung sin 500 GB disk, så ser vi at Hitachi er et strå vassere med 66,4 MB7sek som er 1,4 MB/sek høyere leseytelse enn Samsung, men litt under på skriving med 56,3 MB/sek som er 1,7 MB/sek lavere enn Samsung. 
+
+Temmelig jevnbyrdige med andre ord, dette er forskjeller som normalt ikke merkes i praktisk bruk. 
+
+Konklusjon 
+
+Hitachi sin nyeste 500 GB 3,5" harddisk hevder seg helt i toppen, og leverer nå tilsvarende ytelse som konkurrentene. 

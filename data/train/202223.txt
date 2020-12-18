@@ -1,0 +1,69 @@
+Linksys Bridge WES610N
+De kaller den Entertainment Bridge. We were not amused. 
+
+En nettverksbro er en boks som bygger bro mellom to nettverk - det sier seg nesten selv. 
+Når trenger man det? 
+Et typisk eksempel er når man skal koble til nettverksklienter som bare støtter kablet nett, og det eneste som er tilgjengelig er trådløst nett. 
+
+Vi har testet slike nettverksbroer tidligere, de har som regel hatt én nettverksport og har vært tiltenkt å koble til ett apparat. 
+
+I dag er det ikke vanskelig å tenke seg at det kan være behov for en nettverksbro ned flere tilkoblinger. 
+Et eget rom hvor man har TV, Blu-rayspiller og spillkonsoll er ikke uvanlig, og det er ikke alle som har lyst til å strekke kabler rundt i boligen (selv om det er den sikreste og raskeste løsningen). 
+
+Linksys tilbyr derfor en ny løsning: 
+
+Linksys WES610N 
+
+Dette er en nettverksbro med fire porter til nettverkskabler, og støtte for både vanlig 2,4 GHz og 5 GHz trådløst nett. 
+Den er forholdsvis stor til å være en nettverksenhet, står på høykant og skal i prinsippet være svært enkel å ta i bruk. 
+Brukerveiledningen forteller oss at man skal koble broen til strømmen og slå den på, så trykke WPS-knappen (Wireless Protected Setup) på ruteren sin og innen 2 minutter trykke WPS-knappen på Bridgen. 
+Etter kort tid skal forbindelsen være etablert. 
+
+Så enkelt er det nødvendigvis ikke, fant vi ut. 
+
+Inkommunikado 
+
+Vi testet først med Netgear N900 som ruter, men det var ikke snakk om å få etablert kontakt med Linksys-broen. 
+Vår tålmodighet ble strukket til det ytterste, men ruter og bro bare blinket og blinket uten å komme i mål. 
+
+Alternativet er da manuelt oppsett. 
+Den greieste måten å gjøre dette på er å koble broen til ruteren med en nettverkskabel. 
+Så må man finne ut hvilken IP-adressen den har blitt tildelt av ruterens DHCP-server. 
+Så legger man inn denne i en nettleser og logger seg inn på broen. 
+
+Etter litt fikling kom vi til. 
+
+Her kan broen sjekke hva den finner av trådløse nettverk, og det var en god del. 
+Men vårt 5 GHz nett fant den ikke selv om det kjørte friskt og lett på vår iPad. 
+
+Vi kjørte likevel våre tester på 2,4 GHz. 
+
+Kommunikado 
+
+Vi hadde også en Linksys-ruter for hånden, en E2500 som også støtter både 2,4 og 5 GHz med 2 nettverksstrømmer for 300 Mbps. 
+
+Etter å ha installert denne fungerte WPS som det skal. 
+Ett trykk på knapp på ruter og ett trykk på knapp på bro - etter et minutts tid var det etablert kontakt. 
+
+Men hvilket nett var vi koblet til - 2,4 eller 5 GHz? 
+
+Etter å ha funnet ut tildelt IP på samme måte som tidligere kom vi oss inn og fant ut at broen hadde koblet seg på 5 GHz nettet. 
+
+Her fikk vi kjørt test på en av testposisjonene, men rekkevidden holdt ikke ned til den andre, som er nede i kjelleren 3 plan ned fra ruteren. 
+
+For å tvinge broen til å koble seg på 2,4 GHz nettet slo vi av 5 GHz nettet i ruteren og kjørte WPS på nytt. 
+Ny manuell inspeksjon bekreftet at dette var vellykket. 
+
+Ytelse? 
+
+Målingene viste greie, men ikke spektakulære hastigheter. 
+
+Sammenlignet med hva vi oppnådde med Netgears ypperste ruter og HP sin 3-antenners bærbare med Intel nettverkskort snakker vi om drøyt en tredjedel av ytelsen. 
+
+Med Cisco-ruteren fikk vi også noe svakere resultater enn med Netgear-ruteren, både på 2,4 og 5 GHz. 
+
+Konklusjon 
+
+Konseptet er utmerket, men verken kompatibilitet eller ytelse er noe å skryte av når det gjelder dette produktet. 
+
+Vi ville tatt oss bryet med å legge nettverkskabel og koblet på en svitsj i stedet. 

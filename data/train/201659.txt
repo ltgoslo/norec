@@ -1,0 +1,27 @@
+Philips SPC900NC
+Philips lager det meste som drives med elektrisk strøm, også webkameraer. 
+
+Dette er toppmodellen til Philips. 
+Kameraet har høy oppløsning og skal også håndtere svært svakt lys, ned til ca 1 lux. 
+
+Designet er lekkert, med sylinderformet kamera og en stilig støttebøyle. 
+Programvaren støtter de grunnleggende opptaksfunksjoner for stillbilder og video, men det er ingen ekstrafinesser utover dette. 
+
+Montering 
+
+Under linsen er det en kant på tvers av det sylinderformete huset, med gummibelegg inne i kroken, for at kameraet skal kunne sitte over kanten. 
+Støttebøylen bøyes til ønsket posisjon, og selve kameraet kan justeres opp og ned til ønsket vinkel. 
+
+Løsningen er helt kurant, men i likhet med de lignende mekanismene hos Logitech og Creative ikke helt stødig. 
+Det skal ikke store dytten til på skjermen før det faller ned. 
+
+Bildekvalitet 
+
+Kameraet bruker en spesielt følsom CCD-brikke, som gjør at det kan gjengi gode farger selv i svært svakt lys. 
+Dette assisteres av programvare som justerer opp signalene, og det fungerer. 
+Selv i mørke, med bare PC-skjermen, stjernene og lys fra nabohusene gjennom vinduene, klarte kameraet å presentere et etter forholdene imponerende bilde. 
+
+Det er ikke unaturlig å innvende at man uhyre sjelden bruker webkamera i mørket, men poenget er at selv med svak belysning vil dette kameraet kunne levere et bedre bilde enn noen av de andre kameraene vi har testet. 
+
+Under gode lysforhold presterte kameraet utmerket, men kom ikke opp i samme kvalitet som Creative med lysrør som belysningskilde. 
+Der var fargene igjen kalde og rød/blå, som er typisk for de fleste webkameraer under slike betingelser. 

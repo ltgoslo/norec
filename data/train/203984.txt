@@ -1,0 +1,92 @@
+Denne lille PC-en gir deg sannsynligvis alt du trenger (og mer til)
+En stasjonær PC på størrelse med en liten matboks. 
+Men ikke la deg lure av den kompakte innpakningen. 
+
+Selv om PC-markedet domineres stort av bærbare modeller, er det fortsatt mange som trives mye bedre foran en stor og god skjerm, et ordentlig tastatur og mus. 
+
+Tilhører du denne gruppen av brukere som foretrekker stasjonær PC og ikke er opptatt av gaming, er det lenge siden du trengte en stor PC-kasse under pulten. 
+
+De senere årene har det nemlig dukket opp stadig flere relativt kraftige mini-PC-er og vi har testet en rekke av dem her på Dinside. 
+
+Til stua eller kontoret 
+
+Nå er turen kommet til en interessant modell fra Asus, som blant annet byr på en potent i5-prosessor fra siste generasjon Intel Core-familie (Kaby Lake) og egenskaper som dekker behovene for de aller, aller fleste av oss. 
+Modellen er en oppgradert utgave av UN65H, som vi testet for to år siden. 
+
+Maskinen er også ypperlig som mediesenter i stua, der du for eksempel kan bruke Kodi som et TV-vennlig mediesenter som styres enkelt fra sofakroken. 
+
+Enkel å bygge ut 
+
+Her får du for eksempel 8 GB RAM, som kan bygges ut til 32 GB ved behov, og en SSD på 256 GB - som også kan oppgraderes med en annen på inntil 1 TB. 
+Og trenger du mer plass, kan du sette inn en vanlig 2,5-tommer harddisk eller SSD i det vesle kabinettet. 
+
+Nå skynder vi oss å legge til at Asus VivoMini også selges med andre konfigurasjoner, og som «barebone» - altså uten RAM og SSD. 
+Sistnevnte er myntet på deg som har slikt liggende eller ønsker å kjøpe det separat for å bygge din egen PC. 
+
+Kan monteres på skjermen 
+
+Kabinettet tar jo nesten ikke plass på skrivebordet, så de fleste vil nok ha den i umiddelbar nærhet ved siden av eller under skjermen (eller TV-en), eller du kan montere den på baksiden av skjermen. 
+Den har nemlig skruefester for vanlig VESA-montering, og dermed kan du lage din egen alt-i-ett-PC av en vanlig PC-skjerm. 
+
+Det krever naturligvis at du er flink til å bunte kablene, men det er fullt mulig for den fingernemme. 
+
+Apropos kabler: 
+PC-en har fire USB 3.0-porter (to foran og to bak). 
+Du finner også en Gigabit ethernet-kontakt på baksiden, hvis du ikke er fornøyd med ytelsen til det interne trådløse AC-kortet. 
+Det er for øvrig et Intel-kort som byr på gode hastigheter, som også byr på Bluetooth 4.0-støtte. 
+
+I tillegg har den to skjermutganger; en HDMI og en DisplayPort. 
+Analog lydutgang (minijack) er også på plass. 
+I tillegg har den en kortleser for SD-kort og Kensington-lås på siden. 
+
+Vi savner en USB-C-port, men ser at utstyret som kobles til denne porten ikke akkurat har blitt veldig utbredt ennå - men det kommer på et tidspunkt. 
+Da trenger du en overgang for å bruke kompatibelt utstyr mot denne PC-en. 
+
+Mer informasjon om maskinvare og tilkoblinger får du hos Asus. 
+
+God ytelse til det meste 
+
+PC-en leveres med Home-utgaven av Windows 10, og en del programmer - de fleste kan du glatt avinstallere om du ikke trenger dem - men behold gjerne styreprogrammene fra Asus, som kan være nyttige for å få det meste ut av PC-en og muligheter for skreddersøm. 
+
+Prosessoren i vårt testeksemplar er den samme som sitter i en rekke tynne PC-er i mellomsegmentet, og byr på mer enn god nok datakraft til det meste folk bruker PC-ene sine til i dag. 
+Den håndterer også fleroppgavekjøring på en fin og effektiv måte, og den integrerte grafikken har ingen problemer med å spille av og strømme video i alle oppløsninger - inkludert 4K. 
+
+Du må imidlertid merke deg følgende: 
+HDMI-utgangen støtter kun 30 oppdateringer av skjermbildet pr sekund dersom du benytter 4K-oppløsning (3.840 x 2.160 piksler) på TV-en eller PC-skjermen. 
+Det går greit til video, men du vil merke at musepekeren beveger seg hakkete - det samme gjelder når du flytter på vinduer og elementer. 
+Dette problemet får du ikke i mer normale oppløsninger som full HD (1.920 x 1.080) og QHD (2.560 x 1.440). 
+
+Da er det greit å vite at PC-en også har en DisplayPort 1.2-utgang, som støtter 60 oppdateringer i sekundet i 4K. 
+Denne vil definitivt være å foretrekke dersom skjermen din har en slik inngang. 
+
+SSD-en er av typen M.2 og den skal ifølge spesifikasjonene kommunisere via PCI-e. 
+Det betyr normalt veldig høye hastigheter, men vi målte den til maks 562 MB/s på lesing og 267 MB/s på skriving. 
+Det er hastigheter vi normalt ser på SATA-løsninger, altså en god del lavere enn vi hadde forventet. 
+
+Og ganske riktig: 
+Etter å ha åpnet maskinen fikk vi våre antakelser bekreftet: 
+Det sitter er en SATA-basert SSD her. 
+Noe stort ankepunkt er dette uansett ikke ved normal PC-bruk. 
+
+Støyer lite 
+
+Og når vi først er inne på normal PC-bruk, kan vi legge til at VivoMini UN65U er meget stillegående i lange perioder. 
+Den trinnløse viften spinner opp når belastningen øker, og er godt hørbar når PC-en kverner seg gjennom tyngre oppgaver. 
+
+Ønsker du heller at prosessorhastigheten skal senkes for å holde temperaturen nede, kan du til en viss grad få kontroll over viftene ved å følge trikset på punkt 4 i denne oversikten. 
+
+De eneste oppgavene vi ville styrt unna, er tyngre grafiske kalkulasjoner i høy oppløsning, for eksempel spilling av nyere, krevende spill. 
+Eldre spill kan gå greit om du går ned på oppløsning og detaljer. 
+
+Konklusjon 
+
+Asus VivoMini UN65U er en potent liten tass som får unna det meste av oppgaver i høyt tempo uten forsinkelser. 
+Mest sannsynlig vil du aldri savne å bruke en klassisk, stasjonær PC igjen etter å ha tatt den i bruk - med mindre du har tenkt å bruke den til spilling. 
+Da bør du velge noe annet. 
+
+Vi savner en USB-C-port, og er ikke imponert over SSD-ytelsen. 
+Vi synes kanskje også at prisen er litt høy (starter på rundt 6.000 kroner). 
+Du kan finne bærbare PC-er med mye samme spesifikasjoner til rundt samme pris, som også kan kobles til ekstern skjerm, tastatur og mus. 
+Så her må du rett og slett vurdere hvor viktig den kompakte innpakningen - og fleksibiliteten med hensyn til enkle oppgraderinger er for deg. 
+
+Få også med deg denne: 

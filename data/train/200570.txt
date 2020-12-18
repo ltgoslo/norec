@@ -1,0 +1,62 @@
+EZ View+
+Nå kan du koble hvilken som helst PC til TV - uten bruk av kabel. 
+Vi har testet. 
+
+Mange av oss har et behov for å koble PC-en til TV, enten for å vise bilder, spille video, musikk, eller surfe på nettet sammen med familien. 
+Med HDMI ble det for første gang enkelt, siden både lyd og bilde overføres gjennom samme kabel, og takket være den digitale standarden er det som regel enkel plug & play. 
+
+Men ikke alle PC-er har HDMI-utgang, og det er ikke alltid at det er ønskelig - eller mulig å bruke kabel. 
+Heldigvis finnes det flere løsninger på dette, den mest kjente er kanskje WiDi - Wireless Display, som er en standard og varemerke fra Intel. 
+
+Skal du koble PC-en til TV via WiDi, kreves imidlertid at grafikkortet har støtte for standarden, noe de færreste PC-ene i dag har. 
+Vi var heller ikke veldig imponert i vår test av 1. generasjons WiDi - blant annet opplevde vi både forsinkelse og manglende støtte for høye oppløsninger. 
+Siden den gang har WiDi kommet i 2. generasjon, og vi håper å få gjort en ny test av denne på nyåret. 
+
+Passer nesten alle PC-er med XP, Vista og Windows 7 
+
+Så hva gjør du dersom du ønsker å koble en PC uten WiDi-støtte til TV-en? 
+Det er her EZ View+ kommer inn i bildet. 
+Dette er et sett bestående av en USB 2.0-plugg som kobles i PC-en, samt en mottaker som kobles i TV-en via USB-kabel. 
+Mottakeren har også både digital (optisk SPDIF) + analog minijack lydutganger, for tilkobling til hjemmekinoanlegg. 
+Både HDMI og SPDIF-utgangen støtter full surround (5.1). 
+
+EZ View+ benytter Wireless USB-standarden. 
+All kommunikasjon mellom enhetene foregår i 5 GHz-båndet. 
+Ifølge produsenten skal det sikre høy båndbredde, god dataflyt og minimalt av ytre forstyrrelser. 
+
+Rekkevidden er oppgitt til 10 meter, og sender og mottaker må befinne seg samme rom. 
+Vår test avslørte imidlertid at det ikke er mye som skal komme i veien mellom sender og mottaker før signalet forstyrres, selv ved tre-fire meters avstand opplevde vi at bildet og lyden hakket og ble forvrengt. 
+
+Produktet fungerer i Windows XP og nyere. 
+Produsenten oppgir at selv en veldig enkel PC med Celeron eller Atom-prosessor kan brukes til "office-oppgaver" og andre, mindre grafisk krevende ting, men anbefaler en PC med 1.8 GHz Intel Core2 Duo prosessor og minst 1 GB RAM for multimedia. 
+Vi benyttet en PC med en nyere Intel Core i5-prosessor og 4 GB RAM. 
+
+Avspilling av Blu-ray via denne løsningen er ikke støttet, på grunn av manglende støtte for dekoding av HDCP-krypteringen. 
+
+Veldig enkelt oppsett 
+
+Installasjonen er temmelig rett fram. 
+Drivere følger med på CD, og når disse er installert, vil programvaren automatisk oppdage dersom det er en mottaker innen rekkevidde. 
+Vi valgte riktig HDMI-inngang på TV-en, og vips - så var skjermen på den bærbare PC-en klonet. 
+Ved å velge separat bilde på de to skjermene i Windows, ble oppløsningen på vår TV automatisk valgt til 1920 x 1080 piksler, altså full HD. 
+
+I motsetning til WiDi-løsningen vi testet tidligere, er det så og si ingen forsinkelse i signalet her. 
+Det betyr at du kan fint bruke mus, starte programmer, spole i musikk og videoer, og systemet reagerer som om du jobbet på en lokal, tilkoblet skjerm. 
+Det gjør at løsningen er langt bedre egnet til disse oppgavene enn WiDi (versjon 1.0). 
+
+Å se lavoppløst video går som regel helt fint, men selv om systemet i teorien skal klare å overføre inntil 200 Mbps, er vi ikke helt overbeviste. 
+I flere av våre HD-videoer fløt ikke bildet uten en viss hakking ved panorering, noe som gir en litt degradert følelse i spillefilmer og lignende. 
+Det var imidlertid aldri noe problem med å holde lyd og bilde i synk. 
+
+Nå legger vi til at vi aldri opplevde full signalstyrke, selv når vi befant oss svært tett på mottakeren. 
+
+Det er dessuten helt på det rene at teknologien krever en del strøm fra PC-en for å fungere. 
+Strømindikatoren sank merkbart raskere på vår normalt seiglivede PC, og USB-pluggen ble også temmelig varm etter en tids bruk. 
+
+Konklusjon 
+
+Noen 100% erstatning for kabelen er dette med andre ord ikke, men det er sannsynligvis det nærmeste du kommer foreløpig. 
+Se plussene og minusene i oppsummeringsboksen under for å se om EZ View+ dekker dine behov. 
+
+Og prisen bør heller ikke skremme noen, settet koster under 1000-lappen flere steder. 
+Dagsaktuelle priser og utsalgssteder finner du her. 

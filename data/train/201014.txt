@@ -1,0 +1,63 @@
+Clas Ohlson USB 2.0 nettverksserver
+Smart server lar deg dele USB-enheter på nettverket. 
+
+Poenget med et nettverk er å dele, men hva som kan deles og hvordan vil variere. 
+Noen enheter er i utgangspunktet laget for å deles, som skrivere og lagringsenheter (NAS). 
+Men andre USB-enheter er bare laget for å brukes på den PC-en den er koblet til. 
+
+Noen rutere har en eller flere USB-porter og mulighet for å dele på nettverket enheter koblet til disse, men her er repertoaret svært begrenset. 
+Som regel er det bare skrivere og lagringsenheter som kan deles. 
+
+Men vi kom over en litt annerledes enhet da vi egentlig lette etter en USB-velger i forbindelse med en annen artikkel. 
+Hos Clas Ohlson fant vi en USB nettverksserver. 
+Her kan du koble til 4 USB-enheter og en nettverkskabel. 
+
+Ingen hub 
+
+På en ene siden av den lille boksen ser den ut som en vanlig USB hub, som fordeler trafikken til og fra flere enheter til én USB-port på PC-en. 
+De fire portene kan kobles til i prinsippet hva som helst av USB-utstyr. 
+
+På den andre siden er det ingen USB-kontakt, men en nettverkstilkobling, med støtte for Gigabit nettverk. 
+Det er også en kontakt for strømforsyning, som følger med i pakken. 
+Den kan drive selve boksen og fire USB-enheter som trekker opptil 500 mA hver. 
+
+I motsetning til en HUB som bare virker uten videre, må det installeres programvare på PC-ene for at USB-nettverksserveren skal fungere. 
+
+Installasjon 
+
+Installasjonsprogrammet liger på en CD og installeres uten valgmuligheter. 
+Det er det samme programmet enten du bruker Windows XP, Vista eller Windows 7 , 32 eller 64-bits. 
+Du får beskjed om å ta omstart etter installasjonen. 
+
+Etter omstarten ligger det to programmer på skrivebordet. 
+Det ene er en veiviser som når den har kjørt, atomatisk aktiverer eventuell skriver tilkoblet USB-serveren. 
+Det andre programmet styrer selve oppsettet for USB-serveren. 
+
+Når du har koblet til USB-enheter og starter oppsettsprogrammet får du opp et slikt vindu: 
+
+For å velge den enheten du vil bruke klikker du på linjen og klikker Connect Device. 
+Enheter som er tilkoblet vises med en grønn knapp med hake. 
+
+Bruk 
+
+For å få tilgang må alle PC-ene på nettverket ha styreprogrammet fur USB-serveren installert. 
+Men: 
+Hvis enheten er i bruk på en annen PC har du ikke tilgang. 
+
+Det er altså ikke mulig å dele enheter i betydningen bruke dem samtidig. 
+Kun en av gangen kan bruke en USB-enhet som er koblet til serveren. 
+
+Ønsker du at flere skal ha fri tilgang til felles lagring på nettverket er altså ikke denne enheten noen løsning, da kjøper du heller en NAS. 
+
+Men til andre typer enheter, som skanner, kameraer, kortlesere, lydenheter osv. kan USB-serveren være tingen. 
+
+Det må også bemerkes at den ikke fungerer på Mac. 
+Ikke bare det, så snart vi slo på Mac'en i nettverket stoppet USB-serveren å fungere... 
+
+Konklusjon 
+
+Denne rimelige USB-serveren er utmerket til spesielle løsninger, vi har ikke sett noe tilsvarende med samme funksjonalitet. 
+
+Den er enkel å sette opp og enkel i bruk, så snart du holder deg unna Mac'er på nettverket. 
+
+Boksen koster 499 kroner hos Clas Ohlson. 

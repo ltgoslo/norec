@@ -1,0 +1,79 @@
+TEST:Point Of View Mobii Tokyo PC 
+
+Pang for penga og et mediesenter som duger. 
+
+Du behøver ikke begrave hodet ditt i sofaputa i skam hvis ikke du har hørt om Point Of View (POV), men det nederlandske firmaet har i ti år levert grafikkort til PC-markedet med relativt stor suksess. 
+
+Innholdsfortegnelse: 
+Dette mangler denMen dette har denTakler det mesteFordel med ren installasjon? 
+Konklusjon 
+
+Dette mangler den 
+
+Vår konfigurasjon, med blant annet 2GB RAM og en relativt beskjeden harddisk på 320GB, koster bare 2390 kroner. 
+Det er rett og slett imponerende, selv om du bør være klar over at prisen medfører at du må godta et par mangler. 
+
+Du får verken med tastatur eller mus, og du må også velge operativsystem på egenhånd. 
+Det behøver ikke koste en krone, all den tid du fint kan installere en gratis en Linux-variant som for eksempel Ubuntu, og fortsatt få gjort de aller fleste tingene en mediesenter-PC bør kunne. 
+
+Har du i tillegg en mobiltelefon som støtter applikasjoner som kan styre PCer på egenhånd slipper du dessuten å anskaffe deg både tastatur og mus. 
+Vi brukte vår iPhone sammen med et lite program kalt Air Mouse Pro, og fikk med den styrt alt fra nettleseren til Spotify og avspilling av video. 
+
+POV Mobii Tokyo inkluderer heller ikke trådløstilkobling, men det kan du kompensere for med et trådløsadapter som settes i USB-porten. 
+
+Men dette har den 
+
+Listen over hva POV faktisk har inkludert er uansett mer enn tilfredsstillende. 
+Den har blant annet DVI, VGA og, ikke minst, HDMI-utgang, i tillegg til kablet nettverk (Gigabit Ethernet), 1.6GHz Intel Atom 330-prosessor, digital lydutgang, hele seks USB-porter, og et Nvidia ION-grafikkort. 
+
+Det siste er verdt å bite seg merke i, for det er dette grafikkortet som blant annet gjør at du klarer spille av video med full HD-oppløsning (1080p). 
+
+På toppen av det hele har kabinettet plass til to 3.5", mens et optisk drev (DVD-RW 8X) følger med på kjøpet. 
+Maskinen takler totalt 4GB RAM, og både minne og eventuelle ekstra harddisker kan du installere selv. 
+Kabinettet åpnes enkelt opp ved å fjerne tre skruer, og innsiden er såpass åpen og lite forkludret (tenk, vi brukte ordet forkludret) av ledninger at du ikke bør ha spesielt store problemer med manøvreringen. 
+
+Takler det meste 
+
+Vi har i hovedsak brukt POV 
+Tokyo som et mediesenter, og den korte versjonen er at der gjør maskinen en særs tilfredsstillende jobb, ikke minst med tatt i betraktning prislappen. 
+
+Grafikkortet er allerede nevnt, og Nvidias ION-prosessor gjør at vi knirkefritt har kunnet spille av selv HD-filmer i 1080p uten hakking eller stotring. 
+Med støtte for digitallyd i 7.1-format er det med andre ord ikke noe i veien for at dette kan gjøres til forsyningssentral i stua for alt du måtte ha liggende av multimediefiler. 
+
+Det vil si, du bør være oppmerksom på at POV Tokyo ikke er helt støyfri. 
+Som de fleste vet er optiske drev sjelden en støyfri affære, slik er det også med denne POV-modellen. 
+Har du tenkt å se DVDer rett fra boksen er ikke det noe sjakktrekk, til det bråker viftene for mye. 
+Ved vanlig bruk vil du også høre viftestøyen (vi hadde vårt testeksemplar stående i en TV-skjenk), men det er en ganske snill viftelyd som ikke forstyrrer når du hører musikk eller ser film med et visst volum på. 
+
+Installerer du et mediesenterprogram som for eksempel fabelaktige og elegante Boxee har du et svært pent oppsett som har kostet veldig lite penger, og selv hvis du kjøper en 2TB-disk eller to i tillegg, vil ikke totalsummen brenne hull i noens lommebok. 
+
+Vær oppmerksom på at vi slet med å spille av HD-filmer i det populære programmet XBMC, mens det altså ikke var problemer i Boxee. 
+Det kan tyde på at sistnevnte er bedre optimalisert for HD-avspilling enn førstnevnte, uten at vi skal komme med for bastante konklusjoner. 
+
+Fordel med ren installasjon? 
+
+Det kan også være verdt å vite at vi installerte Windows 7 fra bunn av, og at det også kan ha påvirket avspillingskvaliteten. 
+Maskiner med ferdiginstallert operativsystem fra Microsoft har en tendens til å yte svakere enn "rene" installasjoner på grunn av alle tilleggsprogrammene som følger med, noe vi tidligere har diskutert blant annet i denne artikkelen. 
+
+Ved å bruke Windows' interne måleprogram får en et visst inntrykk av ytelsen til maskinen, og tallene til Point Of View Mobii Tokyo bekrefter at dette ikke er noe fartsmonster (se tabell til høyre), selv om den mer eller mindre holder seg på linje med tilsvarende maskiner DinSide.no har testet tidligere (MSI Wind Box DE220 og ASROCK Mini-PC). 
+
+Tunge gamere bør med andre ord bruke pengene sine på noe annet. 
+Likevel bør dette være godt nok for de som vil se film og bilder og høre på musikk. 
+
+Konklusjon 
+
+De som har lest hele teksten blir ikke overrasket av å lese en konklusjon som nesten helhjertet anbefaler Point Of View Mobii Tokyo. 
+Den har alle tilkoblinger du trenger fra en mediesenter-PC, den koster usle 2390 kroner, og den spiller av selv 1080p-filmer uten å hakke. 
+
+Hovedinnvendingen er støynivået. 
+Støy kan riktignok måles, men det er likevel et subjektivt spørsmål når det kommer til hvor mye en aksepterer. 
+Hva angår POV 
+Tokyo er viftesusen på ingen måte plagsom, men den er heller ikke umerkelig. 
+
+Noen vil kanskje også innvende at denne mini-PCen ikke har verken operativsystem eller mus og tastatur, men vi liker at forbrukere som ikke har behov for verken Microsoft Windows eller tastatur faktisk har muligheten til å la være å betale for noe de ikke trenger. 
+
+Glem heller ikke utvidelsesmulighetene i form av to harddiskplasser og totalt 4GB minne, som summa summarum kan gjøre Point Of View Mobii Tokyo til en kjekk liten sak å ha i stua. 
+
+Testproduktet er lånt oss av NetOnNet.no. 
+
+Få også med deg de andre testene av ministasjonære vi har gjort den siste tiden, av Acer Aspire Revo, MSI Wind DE220 og ASRock ION 330. 

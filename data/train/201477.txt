@@ -1,0 +1,93 @@
+Fujitsu-Siemens Amilo D 8830
+Ikke før har vi kåret Amilo D 8820 som den beste desktop-erstatteren, før etterfølgeren 8830 ligger på testbenken. 
+Og dette er sannsynligvis den aller kraftigste bærbare PCen du får for øyeblikket. 
+
+Amilo D-maskinene er bygd rundt komponenter du vanligvis kun finner i stasjonære PCer, som i845-brikkesettet fra Intel, og en vanlig Intel Pentium 4-prosessor. 
+Vanlig og vanlig fru blom; prosessoren som sitter i vårt testeksemplar har en klokkehastighet på 3 GHz og støtter Intels Hyperthreading-teknologi. 
+Rått! 
+
+LES OGSÅ: 
+
+Men super-spesifikasjonene stopper ikke her. 
+Hør bare: 
+
+512 MB DDR-SDRAM (maks 2 GB) 
+
+ATI Mobility Radeon 9000 grafikk, 64 MB 
+
+60 GB ATA100-harddisk 
+
+15” lyssterk skjerm, oppløsning 1400 x 1050 punkter 
+
+DVD+R/RW-brenner 
+
+5 USB 2.0-porter (!) 
+
+FireWire-port 
+
+I tillegg finner du en parallellport, PS/2-kontakt, utgang for ekstern skjerm (VGA) og TV-utgang, og en PCMCIA-brønn for videre utbygging. 
+10/100 MBit ethernet nettverkskontakt og 56 Kb modem er selvagt på plass. 
+
+Er det noe vi savner? 
+Diskettstasjonen er tatt bort, og det finnes ikke infrarød port. 
+Heller ikke vanlig seriellport. 
+Men vi gråter ikke av den grunn, selv om vi synes den burde ha beholdt den infrarøde porten fra forgjengeren. 
+Innebygd WLAN (trådløst nettverksadapter) får du heller ikke. 
+
+Et stort pluss for at Fujitsu-Siemens har utstyrt PCen med hele 5 hi-speed USB-porter. 
+Det gir deg muligheten til å koble til eksternt utstyr al mas, som skanner, skriver, eksterne harddisker etc. 
+Supert! 
+
+PCen leveres dessuten med Windows XP Home Edition ferdig installert, samt den fyldig kontorpakken Works Suite 2003 med blant annet Word XP og leksikonet Encarta. 
+Programvare for CD-brenning, DVD-avspilling samt Norman Antivirus får du også med, så her får du det meste rett ut av boksen. 
+
+Nytt design 
+
+PCen er temmelig annerledes enn forgjengeren rent utformingsmessig. 
+Kabinettet er i lys sølvgrå plast, og rammen rundt skjermen er tykk og solid. 
+Men denne ruggen på 3,5 kg er en PC som bør forbigås i stillhet dersom du ser etter en maskin som du skal ha med deg over alt; da finnes det langt mer robuste og lettere maskiner som bør vurderes først. 
+
+USB-portene er plassert på sidene, mens FireWire, VGA-og TV-utganger samt den brede parallellporten er plassert på baksiden. 
+Fronten er fri for tilkoblingspunkter og åpninger, og det sier vi ikke noe på, men FireWire-porten kunne godt ha sittet et annet sted enn bak for enklere tilkobling av f. eks DV-kamera. 
+
+Tastaturet er stort og meget godt å skrive på. 
+Tasteplasseringene er logiske i forhold til et vanlig tastatur, og hvitt trykk på sort gjør tastene lette å lese. 
+Spesialtaster som linjeskift og skift-taster er store og ”umulig” å bomme på. 
+
+Pekeplaten akkompagneres av fire knapper; venstre/høyre museknapp samt to knapper for vertical skrolling. 
+Over tastaturet finner du hurtigknapper for å åpne nettleser og epost, samt av/på-knapp. 
+Her sitter også et par stereohøyttalere, og de sitter farlig nær hverandre. 
+Regn ikke med noen wide-effekt, altså. 
+Lyden er faktisk ikke så verst, sammenlignet med lydløsningen på mange andre bærbare PCer. 
+
+En smartere vifteløsning 
+
+En av de største innvendingene vi hadde til forgjengeren, var viftestøyen. 
+P4-prosessorer i flere-gigahertz-klassen trenger mye kjøling, og da er det vanskelig å komme unna et visst støynivå. 
+8830 er intet unntak i så måte, men viften er ikke så plagsom, og lyden ikke så høyfrekvent som på forgjengeren. 
+En av grunnene til at den oppleves som mindre plagsom er at start og stopp gjøres silkemykt, ikke brått og ubehagelig som på mange PCer vi har testet tidligere. 
+Viften starter og stopper hele tiden, men hvis du kjører prosessorkrevende oppgaver kan du regne med at den vil måtte gå konstant. 
+
+Denne maskinen må uansett ses på som en erstatter for en stasjonær PC, og støynivået er tross alt mye lavere enn på mange sammenlignbare stasjonære løsninger. 
+Dette kan vi leve med. 
+
+Fartsbølle 
+
+Som ventet ble det fullt hus i samtlige ytelsestester, PCen er rett og slett det kjappeste vi har testet noen gang, og sannsynligvis vil du få problemer med å finne en raskere på markedet akkurat nå. 
+Dette gjelder på de aller fleste punkter, både prosessor, grafikk, harddisk og minne-ytelser. 
+
+Men utholdenheten til batteriet er det derimot lite å skryte av. 
+Etter 2 timer og 15 minutter var det dødt, noe som for så vidt ikke kom som en overraskelse. 
+
+Klikk på Tekniske data i oppsummeringsboksen for å se detaljer fra testene våre, og klikk her for å sammenligne tallene fra denne PCen med andre PCer vi har testet. 
+NB! 
+Vi har denne gangen tatt med langt flere tall fra ytelsestestene våre. 
+Heretter vil det dermed bli flere parametre i vårt sammenligningsverktøy. 
+
+Konklusjon 
+
+Jo da, Amilo D 8830 innfridde våre forventninger, og vel så det. 
+Dette er etter vår mening et av de klokeste kjøpene du kan gjøre i dag dersom du først og fremst ønsker en kompakt og fullgod erstatning for en stasjonær PC. 
+
+Denne testen markerer en tjuvstart på høstens testrunde, og vi vil derfor vente med å kåre nye vinnere i klassen til vi har testet er representativt utvalg. 
+Men ønsker du det aller råeste akkurat nå, behøver du ikke å lete lenger. 

@@ -1,0 +1,58 @@
+hp dvd630i
+Nå har også HP kommet med en 16x brenner. 
+Hva har den å tilby før 16x plater er på plass? 
+Vi har testet. 
+
+hp er en av pionerene i etableringen av +RW og +R formatet, allerede i 2001 testet vi den første brenneren - dcd100i. 
+
+LES OGSÅ: 
+
+Dagens modell er sjette generasjon og har fått betegnelsen 630i. 
+Det er en ren oppdatering av 530i, i det ytre er det bare tallet 6 som er nytt. 
+
+Spesifikasjonene sier at den skal kunne brenne 16x på DVD+R og DVD-R. 
+I virkeligheten er det enda litt tid til 16x plater er generelt tilgjengelig og fintrimmingen av firmwaren i brennerne er på plass. 
+
+Det som er interessant i mellomtiden er blant annet hvordan brenneren takler forskjellige plater og hastigheter ut over spesifikasjonene. 
+
+Det finnes mange forskjellige plater, og sterkt varierende priser. 
+Vi har valgt å standardisere på anerkjente kvalitetsmerker når vi tester brennere, og fokuserer på ytelse. 
+
+I den praktiske hverdag er det interessant å finne en balanse mellom pris, kvalitet og ytelse. 
+Her vil preferansene variere sterkt, etter forskjellige parametre. 
+Noen har god tid og lite penger, andre bryr seg ikke om noen ekstra kroner hvis de kan redusere den samlede ventetiden med en time i løpet av en dag. 
+
+Hvordan er så dvd630i forbedret i forhold til 530i? 
+
+Ytelse 
+
+Vi testet 2GB og 4GB, samt 2x 4000 MB på Dual Layer. 
+Det er ikke alle som brenner fulle DVD-plater, det er jo mye annet enn vanlige spillefilmer som kan brennes... 
+
+Hastigheten på brenningen varierer utover platen, og det er til dels stor forskjell på hvor raskt de første 2 GB brennes på forskjellige brennere. 
+
+På 2 GB fil på DVD+R brukte dvd530i 5:35, og 7:31 på DVD-R. 
+Her brukte 630i henholdsvis 4:36 og 4:18. 
+En markant forbedring på brenning av i underkant halve kapasiteten. 
+
+I begge tilfeller var det snakk om 8x brenning på 8x plater. 
+
+På 4 GB brukte forgjengeren 8:53, mens dagens testobjekt var over minuttet raskere med 7:44 på DVD+R. 
+
+På brenning av DVD-R på 8x med 8 x plater, viste den seg å være mer kresen på plater enn på DVD+R. 
+Her varierte brennetidene fra 8:52 og helt opp til 15:17 på -R fra TDK, mens Verbatim lå stabilt rundt 7:47. 
+
+hp 630i ville ikke brenne noen av platene med høyere hastighet enn 8x, heller ikke 12x-platene fra Verbatim. 
+
+DVD+RW ble brent på 4x, som tok 6:45, en bra tid. 
+
+Dual Layer ble brent på 2.4x og tok 45:10. 
+Her klarte både Nec og TDK å brenne på 4x, som reduserte tiden til rundt 26:20. 
+
+CD 
+
+Brening av CD var unnagjort på 3:17 og ripping av musikkCDen på 2:37, som er svært raskt. 
+
+Konklusjon 
+
+hp har forbedret sin topp-brenner en god del, men siden den ikke er villig til å brenne raskere enn 8x er det fremdeles et stykke igjen til at ytelsen kan sammenlignes med BenQ og Nec. 

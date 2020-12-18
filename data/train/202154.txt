@@ -1,0 +1,107 @@
+HP Spectre XT
+Lekker Ultrabook fra HP. 
+
+Den har hatt en litt trang start, den nye PC-kategorien "Ultrabooks". 
+Vi har våre teorier om hvorfor, noe du kan lese mer om i denne kommentaren. 
+
+PC-produsentene ser imidlertid ikke ut til å gire ned tempoet i nye lanseringer, og den ene lekre modellen etter den andre havner på testlaben i DinSide. 
+Den siste uken har vi hatt gleden av å stifte bekjentskap med Spectre XT, en high-end Ultrabook fra HP. 
+
+Før vi går i gang med analysen, skal vi se på de tekniske egenskapene: 
+
+Skjerm: 13,3" HD BrightView WLED (blank, 1366 x 768 piksler) Prosessor: 
+Intel® Core i5-3317U, 1,7 GHz RAM: 
+4 GB DDR3, (1 x 4 GB) 
+Grafikkort: 
+Intel HD-graphics 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 1 x USB 3.0 og 1 x USB 2.0 Webkamera: 
+TrueVision HD Kortleser: 
+SD/MMC Trådløst nett: 
+802.11a/b/g/n Kablet nett: 
+Gigabit Annet: Bluetooth, Widi, Beats Audio med 4 høyttalere, bakbelyst tastatur, leveres med Adobe Photoshop Elements og Adobe Premiere Elements versjon 10. 
+OS: 
+Windows® 7 Home Premium 64 Størrelse: 316 x 14,5 x 224 mm Vekt: 1,39 kg Ca pris: 
+8490 kroner 
+
+Maskinen er godt oppdatert på utstyrsfronten, men det mest oppsiktsvekkende er den imidlertid den oppgitte tykkelsen på beskjedne 1,45 cm. Nå viser våre målinger at den korrekte tykkelsen - på det tykkeste - er rundt 1,7 cm, men fortsatt er det snakk om en meget slank PC, om ikke fullt så oppsiktsvekkende lenger: 
+
+Vi gir også en pluss for foto- og videoredigeringsprogrammene fra Adobe som følger med - uten begrensninger. 
+Disse er blant de desidert beste på markedet innenfor sine områder: 
+
+Materialvalget i PC-en har vi også meget stor sans for. 
+Lokket er dekket av et lag lys, børstet aluminium, som ikke viser fingeravtrykk overhodet: 
+
+Det samme materialet går igjen på innsiden: 
+
+Alle tilkoblingene sitter på sidene, og vi merker oss at både nettverk- og HDMI-utganger er i full størrelse. 
+Det er ikke alle Ultrabooks som kan skryte av: 
+
+Det vi derimot ikke er så begeistret for, er strømpluggen, som stikker hele fem centimeter rett ut på siden, noe som gjør den svært utsatt for utilsiktet belastning - med fare for tilhørende kontaktbrudd. 
+Her hadde vi likt en 90-graders knekk: 
+
+Tastaturet er romslig og godt, og avgir nesten ikke lyd i det hele tatt under skriving. 
+Veldig behagelig! 
+Det har også baklys som kan skrus av og på via F5-tasten: 
+
+Fin lyd 
+
+Over tastaturet sitter det to høyttalere, og på sidene sitter det også to høyttale - totalt fire høyttalere, altså. 
+Og lyden fra Beats Audio-systemet er bra, vesentlig bedre enn hva tilfellet er på Ultrabookene fra HPs Envy-serie som vi har testet tidligere. 
+Med litt mer bass hadde vi gitt toppscore. 
+
+Under tastaturet sitter en trykkfølsom og multiberøringsfølsom pekeplate med integrert venstre/høyre-klikking. 
+Den er akkurat passe følsom. 
+Knappene avgir litt lyd, men aldri plagsomt. 
+
+Skjermen er passe lyssterk og har et blankt kontrastbelegg. 
+Belegget gir dessverre mye gjenskinn, og innsynsvinklene er ikke så bra som på de nye high end-modellene fra blant andre Asus og Samsung. 
+Oppløsningen er også ordinære 1366 x 768 piksler. 
+
+Rask maskin 
+
+Oppstart fra helt avskrudd til PC-en er klar for bruk, er knappe 20 sekunder. 
+Det er temmelig normalt for en SSD-basert Ultrabook, men vi har sett raskere. 
+Men sett i forhold til modeller med harddisk, er det selvfølgelig svært raskt. 
+Vekking fra dvaletilstand tar aldri mer enn et par sekunder. 
+
+Og som diagrammet under viser, er det ikke tvil om at HP har benyttet en SSD som virkelig leverer - både på lesing og skriving. 
+Merk: 
+Acer scorer veldig bra her på grunn av at de benytter to SSD-er i RAID-oppsett: 
+
+Lese- og skrivehastighet i MB pr sekund, SSD 
+
+Windows innebygde opplevelsesindeks gir oss følgende indikasjon på ytelsen, og her går skalaen fra 1,0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,1 Minne: 5,9 Grafikk: 
+5,9 Spillgrafikk 6,4 Primær harddisk: 7,9 
+
+I diagrammene under har vi sammenlignet prosessor- og grafikkytelsen med andre ultrabooks vi har testet i det siste, basert på målinger foretatt med Passmark PerformanceTest 7.0. 
+Her er Spectre XT helt på linje med andre maskiner med samme prosessor: 
+
+Totalt sett er dette en Ultrabook som kan skilte med god ytelse over hele fjøla. 
+De aller fleste oppgaver vil løses kjapt og greit, hvis man ser bort fra spill av den mer avanserte sorten. 
+Den er i stand til å håndtere en del nyere spill, men du må forvente å gå ned på oppløsning og detaljrikdom. 
+
+Relativt stillegående, god batteritid 
+
+Merk også at maskinen også er stillegående i lange perioder, men vifta kan plutselig starte - uten at maskinen belastes i særlig grad. 
+Merk imidlertid at HP gjør et nummer av at maskinen holder seg kjølig nær sagt uansett, noe som også er vår erfaring. 
+Sånn sett er det egentlig godt gjort at ikke vifta starter oftere. 
+
+Batteritiden er blant de beste vi har sett på Ultrabooks. 
+Vi målte 8,5 timer med minimal belastning, med standard innstillinger. 
+Med kontinuerlig videoavspilling av 720P-video gjennom Windows Media Player, holdt batteriet ut i 4,5 timer. 
+Det vil si at du kan forvente 6-7 timer med variert. 
+lett bruk, noe vi må si er meget bra. 
+
+Her har vi sammenlignet batteritiden mot andre Ultrabooks i high end-segmentet: 
+
+Konklusjon 
+
+HP har skapt en meget solid, lekker og kraftig Ultrabook med Spectre XT. 
+Den holder mål på de aller fleste punkter. 
+Vi setter et lite spørsmålstegn ved skjermen, vi begynner nå å se toppmodeller med IPS-panel og høyere oppløsning fra konkurrenter som Asus og Samsung. 
+Utover det er dette absolutt en fin maskin som fortjener en femmer på terningen. 
+
+HP Spectre XT 13-2000eo 

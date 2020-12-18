@@ -1,0 +1,52 @@
+D-Link DIR-605L Cloud ruter
+Enkel ruter med tjeneste attåt 
+
+I det siste har vi hovedsakelig testet rutere i toppsjiktet, med vekt på ytelse og egenskaper. 
+Disse ligger i prisklassen rundt tusenlappen, helst noe over, og er de raskeste og har best dekning. 
+
+Men det er ikke alle som er like opptatt av topp ytelse, eller er villig til å betale for noe de mener at de ikke trenger. 
+Dessuten har denne ruteren noen andre muligheter i tillegg. 
+
+D-Link DIR-605L 
+
+Selve ruteren er en kompakt, sort og blank enhet med to utvendige antenner. 
+
+På baksiden finner vi de vanlige 4 nettverksportene og en port til internettforbindelsen. 
+Det er ingen USB-kontakter for tilkobling av annet utstyr. 
+
+De fire nettverksportene støtter 100 Mbit nettverk, ikke Gbit som de større ruterne. 
+
+Ruteren støtter bare 2,4 GHz og to strømmer på 300 Mbit. 
+
+Installasjon 
+
+Det er ikke lenger nødvendig med CD, og godt er det siden mange bærbare ikke lenger er utstyrt med denslags. 
+Ruteren kobles til og oppdages av Windows, nettleser startes og man kan kjøre veiviseren. 
+
+Veiviseren oppdaget riktig variant av internettforbindelse med det samme, noe som ofte tar vesentlig lenger tid eller ikke fungerer på langt mer avanserte rutere. 
+
+Øvrige innstillinger var helt i tråd med D-Links standard brukerflate, som har vært ganske uforandret de siste årene. 
+
+Ytelse 
+
+Vi testet med samme PC som vi har testet andre rutere med i det siste og fikk et resultat som ikke var imponerende. 
+Det var imidlertid helt kurant til nettsurfing, her ligger ofte flaskehalsen helt andre steder. 
+
+Men skal du overføre filer, spille av video fra en annen maskin eller NAS over trådløs forbindelse - da blir det trangt. 
+Kobler du til kablet nett blir det selvsagt noe annet, men 100 Mbit har også sine begrensninger. 
+
+Mydlink cloud 
+
+En egenskap ved denne ruteren er mulighet for fjernadminstrasjon via tjenesten Mydlink cloud. 
+Via en annen PC/Mac koblet til internett eller en app som kjører på en mobil, skal man kunne fjernbetjene ruteren. 
+Et av bruksområdene som blir nevnt skal være at foreldre kan overvåke og styre barnas nettbruk ved hjelp av denne tjenesten. 
+
+Det er delte meninger om slikt, men vi fikk ikke testet tjenesten. 
+Den eneste responsen vi fikk var at "server might not be running". 
+Videre testing av dette vil vi komme tilbake til. 
+
+Konklusjon 
+
+Resultatet var omtrent som forventet, en enkel, rimelig ruter klarer ikke å matche toppmodellene, og krevende bruk som tunge filoverføringer og trådløs videoavspilling over trådløst nett krever kraftigere ruterløsninger. 
+
+D-Link DIR-605L 

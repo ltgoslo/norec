@@ -1,0 +1,109 @@
+Medion MD96223
+En ny Medion-bærbar med anstendige spesifikasjoner til under 8.000 kroner. 
+Et røverkjøp eller katta i sekken? 
+Vi har testet. 
+
+Coop og Medion har virkelig vært på hugget i det siste med sine tidsbegrensede tilbud. 
+Først ble vi servert den gode og meget spesielle Swarovski-modellen, og så var det duket for en stue-PC som også gjorde god figur. 
+
+LES OGSÅ: 
+
+Denne gangen skal vi nok en gang se på en bærbar, men her er det dårlig med krystaller i lokket eller annet som skal lokke deg til til å ta denne med deg hjem. 
+Her er det snarere lagt vekt på funksjonalitet og pris - MD96223 er hovedsaklig lagd for å brukes, ikke beskues. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2300E @ 1,67 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (512 + 512 MB) 160 GB harddisk (5400 rpm) 
+DVD-brenner nVidia GeForce Go 7400, 64 MB minne (opp til 320 MB delt) 54 Mbps WLAN (a/b/g) 10/100 LAN + modem 3 x USB, lyd inn/ut 1 ExpressCard/54 kortplass 4-i-1 kortleser: SD, MMC, MS/PRO VGA og S-Video ut Windows Vista Home Premium Dimensjoner (B/D/H): 35,8 x 25,7 x 4,5 cm Vekt: ca. 3 kilo Pris: 7.990 inkl. mva. 
+
+Konstruksjon 
+
+Det kommer vel ikke som noen overraskelse at Medion MD96223 kommer i sort og sølvgrå plast - det er noe som går igjen på mange bærbare PCer. 
+Både hoveddelen og lokket er solid og fast i fisken, med unntak av nederste delen av skjermen som er litt for lett å bøye på midten etter vår smak. 
+
+Snarveier for Media Center-appliksjonen og WLAN av/på er plassert til venstre for av/på-knappen, mens to programmerbare snarveistaster er plassert til høyre. 
+
+Tastaturet, som ligger midt på støyskalaen når det gjelder bruk, er kontant og behagelig å skrive på. 
+Layoutmessig har vi heller ikke noe spesielt å sette fingeren på. 
+
+Touchpaden er av en er god og følsom, og er som skjermen i bredformat. 
+Den har også et tydelig og godt felt for vertikal skrolling. 
+De to knappene under touchpaden er store og fine. 
+
+Tilkoblingsmuligheter 
+
+Hovedsaklig er det på sidene vi finner kontakter og tilkoblinger på denne bærbare PCen. 
+
+Fronten er naken og på baksiden er det kun plass til kensingtonlås og utlufting for varmen. 
+
+Høyre side er kun bestykket med modem, 2 x USB og strøminntak. 
+I tillegg kommer DVD-brenneren. 
+
+På venstre side finner vi S-Video og VGA ut, inn- og utganger for lyd, LAN, en USB, FireWire, minnekortleser og slot for ExpressCard/54. 
+
+Ytelse og batterilevetid 
+
+Vårt testeksemplar har en Intel Core Duo (ikke Core 2 Duo) på 1,67 GHz, altså ikke av de ferskeste prosessorene, men den holder seg likevel bra. 
+Likevel kan ikke T2300E sies å være noe fartsmonster. 
+Det samme gjelder for så vidt om nVidia GeForce Go 7400, som er et grafikkort i nedre mellomklasse. 
+
+Sist vi hadde en stor test av 15-tommere var før juletider, og som sammelingningsgrunnlag har vi tatt med en av våre favoritter fra den gang: 
+Multinote Compal HEL80. 
+Denne hadde en pris på ca. 
+10.000 i desember 2006. 
+I tillegg har vi sammenlignet med den årsgamle Dell Insprion 6400, men merk at eksemplaret vi brukte denne gang hadde et bedre grafikkort: ATI X1400. 
+
+Ytelse i følge PCMark05: 
+
+Høyere poengsum er bedre. 
+
+MD96223 yter som forventet. 
+HEL80 har bedre prosessor og grafikkort, mens Dell-maskinen har omtrent det samme å rutte med styrkemessig. 
+Kun den store og raske harddisken på Medionen gjør den lille/store forskjellen. 
+
+Når det gjelder batteritid klokket vi inn Medionen på nesten to og en halv time, som er et kurant resultat. 
+Den ligger da på høyde med normen blant 15-tommere, men mot HEL80 og Inspiron 6400 er den ingen match, da de klarer henholdsvis en og to timer mer i vårt testprogram BatteryMark. 
+
+Støymessig ligger også Medionen på linje med det de flere maskiner i denne klassen. 
+Vifta spinner opp under belastning og intervallvis når PCen ikke jobber med noe spesielt. 
+Lydvivået er ikke spesielt lavt - det forsvinner riktignok ved mye bakgrunnsstøy men er fremtrendende i roligere omgivelser. 
+
+Ekstrautstyr 
+
+For å lokke med litt søtt har Medion også lagt med litt ekstrautstyr i pakka. 
+Først og fremst snakker vi om en sort bæreveske du kan ha den bærbare ++ i, og av "++" er det ment at du skal ta med deg en liten mus (kanskje ingen dum ide), et headsett og ekstra ledninger for S-Video-kontakten. 
+I tillegg må du jo dra med deg den halv kilo tunge strømforsyningen. 
+
+De ekstra ledningene synes vi er fine, for de er overganger fra S-Video til kompositt og komponent. 
+Dersom du har planer om å koble datamaskinen til TVen din kan dette gjøre ting enklere. 
+
+Når det gjelder headsettet er det verken elegant, behagelig eller noe å skryte av kvalitetsmessig. 
+Men ikke kast det i søpla, levér det inn til en butikk for kassering i stedet. 
+Miljøvern, folkens! 
+
+Konklusjon 
+
+Medion MD96223 er en bærbar som egner seg til det aller meste... surfing, epost, kontorapplikasjoner, skolearbeid, medieavspilling og litt spilling er ikke noe problem på denne PCen. 
+
+Den har stor harddisk og i forhold til spesifikasjonene en fin pris, om enn ikke sensasjonelt god. 
+Bæreveske og litt ekstrautstyr følger med, og Vista Home Premium gjør at den også er fin som mediesenter. 
+
+Likevel vil vi ikke si at dette er noe "løp og kjøp"-tilbud. 
+Dette virker kanskje litt merkelig, ettersom vi for hvert punkt i denne testen har vært nokså positive. 
+Men til sist blir det uansett totalen som teller, og her har vi en følelse av at den blir mindre enn summen av alle delene. 
+
+For det første er dette en av de kjedeligste bærbare undertegnede har testet så langt, uten noen som helst spor etter ynde, sjarm eller forsøk på stil. 
+MD96223 fremstår som en planke av grå og sølvfarget plast, ute av stand til å vekke en antydning til "må ha"-følelse. 
+
+Men nå er uansett ikke vår jobb å dømme en PC etter utseendet, men etter funksjon. 
+Problemet er at den heller ikke her imponerer på noen spesiell måte. 
+Den har middels ytelse, skjermen er blass og den har for eksempel ikke blåtann eller webkamera og mikrofon, noe vi er blitt vant til på nye bærbare PCer. 
+
+I tillegg kommer små og store problemer med vår testmaskin. 
+Skjermen hadde en lysende død piksel, touchpadens venstreklikking hang seg opp etter en dag (mus måtte til), og den ene bokstaven i logoen løsnet da vi fjernet beskyttelsesplasten. 
+Dette er normalt sett ting vi avfeier som tilfeldigheter, for mange slike trekker ned på totalopplevelsen. 
+Det føles som at det er brukt litt mange billige komponenter for å gjøre maskinen rimelig. 
+
+I slike tilfeller kan det noen ganger være bedre å spytte i en ekstra tusenlapp for å få en bedre bærbar, og vi vet at det sånn sett er bedre tilbud å finne. 
+
+Totalt vipper Medion MD96223 mellom en tre og fire på terningen, og ender opp en svak firer. 

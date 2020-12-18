@@ -1,0 +1,67 @@
+D-Link DAP-1520 AC Range Extender
+Trådløs rekkevidde kan oppnås på flere måter, vi har testet en liten enhet fra D-Link. 
+
+Rekkevidden på trådløst nett er ikke lett å beregne på forhånd i en bolig eller annet lokale. 
+Den avhenger av en rekke faktorer, fra selve ruteren/aksesspunktet, antennene, plassering, avstand, refleksjoner, bygningskonstruksjon, materialer og trafikk på andre nettverk i nærheten. 
+
+Hva som er «den beste løsningen» i en hver situasjon er derfor umulig å si før man har prøvd alt, og det er jo ikke mulig. 
+
+En moderne ruter fra en anerkjent leverandør er som regel et godt valg, deretter får man eksperimentere med plasseringen for å få best mulig dekning. 
+
+Slik utvider du rekkevidden 
+
+Men om det likevel skulle være vanskelig med dekning i visse områder finnes det en enkel løsning: 
+En extender – en enhet som rett og slett utvider dekningsområdet ved å ta i mot og videresende signalet. 
+
+Du plasserer den i utkanten av området der du har dekning, og i nærheten av det området der du ønsker dekning. 
+Den vil da kommunisere med ruteren og videresende all trafikk på et nytt nettverk til klientene i det nye dekningsområdet. 
+
+Enkel å sette opp 
+
+Selve enheten plugges i en stikkontakt og etter kort tid blinker den oransje og er klar til bruk. 
+Det er ingen av/på bryter. 
+
+Når DAP-1520 har startet opp begynner den å sende ut et nettverkssignal. 
+SSID og passord står i dokumentasjonen og på undersiden av enheten. 
+Dette nettverket må man logge seg på for å sette opp dekningsutvidelsen. 
+
+Du kan gjøre dette på flere måter: 
+
+Du trykker WPS-knappen på siden av DAP-1520 etter at du først har trykket WPS-knappen på ruteren din. 
+
+Etter et par minutter kan du logge deg på det forlengede trådløse nettverket som nå har fått samme SSID som det eksisterende, men med tilføyelsene -EXT og -EXT5 for henholdsvis 2,4 GHz og 5 GHz frekvensene. 
+
+Egen app for mobiler 
+
+Det finnes også en app for iOS og Android, hvor du kan logge deg på og sette opp nettverket fra en mobil enhet. 
+
+Den tredje, manuelle måten er å logge seg på nettverket til DAP-1520 med en bærbar PC, åpne en nettleser og følge veiviseren. 
+
+Du ser framgangsmåten i bildespesialen under. 
+
+I praksis 
+
+Oppsettet gikk helt uten problemer, og vi flyttet test-PCen fra stua ned i kjelleren for å sjekke forskjell i signalstyrke og ytelse. 
+Ruteren står på hemsen over annen etasje, DAP-1520 var plugget inn i første etasje, rett ved vår vanlige testposisjon. 
+
+Vi brukte Asus RT-AC68U som ruter, og den har så stor rekkevidde at den dekker hele huset fra møne til kjeller i alle kriker og kroker pluss størstedelen av tomten utenfor huset. 
+
+Men med DAP-1520 fikk vi stor forsterkning i signalene både i første etasje og i kjelleren. 
+
+Men hva med ytelsen? 
+
+Med mange enheter som utvider dekningsområdet vil man aldri oppnå den samme ytelsen som ved direkte oppkobling til ruteren. 
+Grunnen til det er at enhetene ikke kan motta og videresende signalet samtidig. 
+
+Men i DAP-1520 er det to radioenheter, en for hvert frekvensbånd, og disse kan samarbeide slik at den ene tar i mot, mens den andre sender videre. 
+Dermed blir ikke ytelsen redusert i like stor grad. 
+
+Dette gjelder imidlertid bare når det andre båndet ikke er i bruk. 
+Har du enheter både på 2,4 og 5 GHz som er i bruk samtidig faller du tilbake til lavere ytelse. 
+
+Konklusjon 
+
+DAP-1520 er meget enkel å sette opp og gir deg muligheten til å tøye rekkevidden på ditt trådløse nett. 
+Den støtter også den nyeste og raskeste WLAN-teknikken 802.11ac som er en fordel dersom du har moderne mobiler eller bærbare som også støtter dette. 
+
+D-Link DAP-1520 

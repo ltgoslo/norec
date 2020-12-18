@@ -1,0 +1,147 @@
+Sony Ericsson Xperia Pro
+Android-telefon med fysisk tastatur og gunstig prislapp. 
+
+Mens de fleste nå har begynt å venne seg til å skrive direkte på en berøringsskjerm, er det fortsatt mange som sverger til fysiske knapper, og da er det brått ikke like mange modeller å velge blant. 
+
+En av nyhetene denne høsten er imidlertid Sony Ericsson Xperia Pro, med uttrekkbart tastatur som også har egne knapper for æ, ø og å. 
+Det har ikke f.eks. HTC ChaCha, der du er nødt til å holde enkelte knapper inne for å skrive de særnorske tegnene. 
+
+Xperia Pro er da storebroren til Xperia Mini Pro (også med tastatur, men med mindre formfaktor) og har "vanlig" størrelse og oppløsning på skjermen. 
+
+Xperia Pro er ellers en telefon med spesifikasjoner på det jevne i 3000-kronersklassen. 
+Prosessoren snurrer på 1GHz (enkeltkjerne), telefonen har 1GB intern lagringpsplass (8GB minnekort følger med) og skjermen er 3,7" over diagonalen med en oppløsning på 480x854; altså noen piksler flere i høyden enn den mest vanlige oppløsningen (480x800). 
+
+Godt tastatur 
+
+Bortsett fra at den har fysisk tastatur, har Xperia Pro mye til felles med Xperia Neo, som vi likte svært godt da vi testet den for et halvt år siden. 
+Telefonen har omtrent samme formfaktor og innmat, og Pro-modellen er bare 0,7mm tykkere (og 4mm høyeren) enn Neo. 
+Xperia Pro veier 140 gram (vs 126 på Neo), og fremstår på ingen måte tung når man holder den i hånda. 
+Kvalitetsfølelsen er imidlertid ikke så høy hverken på Neo eller Xperia Pro med mye plast og mindre komfortable knapper både på fremsiden og på siden. 
+
+Mest interessant er det fysiske tastaturet som skyves ut fra langsiden (brukes i landskapsmodus). 
+Tastaturet har 42 knapper, inkludert alle bokstavene i det norske alfabetet, men plasseringen er endret til fordel for at piltastene er plassert "riktig". 
+Det finnes ingen egen sifferrad, men sifre er tilgjengelig ved å holde en funksjonstast nede, og alle knappene er tydelig merket. 
+De lyser også i mørket. 
+
+Siden telefonen da i stor grad brukes i landskapsmodus, roteres også innholdet på hjemmeskjermen dersom du drar ut tastaturet (men bare når det er dratt ut). 
+Ellers har Xperia Pro tre fysiske knapper under skjermen (tilbake, hjem, meny), men ingen dedikert søkeknapp. 
+Det gjelder en del andre telefoner også, men Sony Ericsson har ikke implementert det slik at du kan holde menyknappen inne for å utføre et søk; merkelig nok. 
+
+Sony Ericsson har også valgt en noe utradisjonell plassering av utganger og knapper på Xperia Pro. 
+Micro USB-porten er å finne på toppen, som gjør at ladekabelen ikke er i veien dersom du ikke bruker tastaturet, men vil du skrive på tastaturet må ledningen ut. 
+
+Hodetelefonutgang på siden er greit nok om du bruker de medfølgende øreproppene med vinklet plugg, men er ikke helt hensiktsmessig hvis du vil bruke andre hodetelefoner (med rett plugg) og samtidig ha telefonen i bukselomma. 
+Rett ved siden av finner du av/på-knappen, mens volumbryterne ligger på motsatt side ved siden av en micro-HDMI-utgang. 
+
+Egen kameraknapp 
+
+Xperia Pro har også en egen kameraknapp, og holder du denne noen tideler, starter kameraappen uansett hva du ellers måtte holde på med på telefonen. 
+Som regel ganske kjapt, men noen ganger tar det 3-4 sekunder. 
+
+Men – der vi virkelig likte plasseringen av denne knappen på Xperia Neo, følger denne malen fra Xperia Arc; en liten, hard knapp plassert nesten helt ytterst på siden, som gir et litt ukomfortabelt grep. 
+At den er hard gjør at det også blir vanskelig å holde telefonen helt stødig når du tar bilde, og i testperioden tok vi derfor de fleste bildene ved å trykke på skjermen i stedet, så knappen ble mest brukt for snarveiens skyld. 
+
+Skjermen er som nevnt 3,7" og har oppløsning på 480x854; altså 54 piksler mer i høyden enn det som er vanlig i dette segmentet. 
+På Sonys Xperia-modeller kjøres også deres såkalte Bravia-motor, som forbedrer galleribilder og -video med tanke på farge og kontrast – uten å overdrive, noe vi liker veldig godt med Sony Ericssons nyere telefoner. 
+
+Merk imidlertid at Xperia Pro ikke har noen lyssensor, og derfor er det heller ikke mulig å velge "automatisk" under lysstyrke på skjermen. 
+Litt snodig i 2011, må vi bemerke. 
+
+Pent, men noen mangler 
+
+De fleste Android-produsentene bygger på Android både med tanke på utseende og funksjonalitet, men på dette punktet er Sony Ericsson ganske konservative i forhold til f.eks. HTC. 
+Menyene og kjerneprogrammene har en gjennomgående design i blått og grått og er ganske rene stilmessig. 
+
+Det er et par ting vi savner her og der. 
+Eksempelvis vises antall tapte anrop og uleste meldinger på låsskjermen, men du kan ikke åpne tilhørende apper direkte; kun låse opp telefonen på vanlig vis og deretter starte tilhærende app. 
+Og – selv om ringeprogrammet har bokstaver under sifrene, kan du allikevel ikke ringe "Rune" ved å trykke 7863; ei heller skrive navn på personer med det fysiske tastaturet uten først å gå inn i kontaktlista. 
+
+Smart tastatur 
+
+Positivt er det imidlertid at Sony Ericsson har tenkt litt smart med tanke på tastaturet, for når du trekker ut dette, vil telefonen gjøre ulike ting basert på hva du holder på med. 
+Er den bare slått av, får du låseskjermen slik at du kan låse opp telefonen, men leser du en epost for å så å trekke ut tastaturet, får du automatisk spørsmål om du vil svare, svare alle eller videresende e-posten (gjelder imidlertid ikke Gmail-appen). 
+Via en egen widget kan du også begynne å skrive, før du deretter kan velge om innholdet skal postes på Facebook, sendes på epost, som SMS e.l. 
+
+Tastaturet har også en knapp som fungerer som en snarvei til språkinnstillingene når et tekstfelt er aktivt. 
+Vi skulle imidlertid gjerne ha sett at vi kunne konfigurere denne selv, for eksempel for å starte nettleseren e.l. 
+Ellers finner vi de fysiske knappene behagelige å skrive på, og spesielt piltastene er verdt å sette pris på dersom man er nødt til å endre en skrivefeil før man sender av gårde eposten. 
+
+Medfølgende apps 
+
+Det følger med en håndfull apps til Xperia Pro. 
+Timescape er et program fra Sony Ericsson som samler SMS-er, tapte anrop, Facebook-oppdateringer, Twitter-oppdateringer etc. 
+i ett og samme vindu og finnes også som en widget. 
+TrackID lar deg identifisere musikk som spilles og "dataovervåking" holder oversikt over hvor mye datatrafikk du bruker, med mulighet for å bli varslet når du nærmer deg månedsgrensen for abonnementet ditt. 
+Du får også med golfspillet Let's golf, samt enkel programvare for å lese og skrive Office-filer. 
+
+FM-radioen kunne ha vært litt mer brukervennlig etter vår mening, der du enten må endre frekvensen manuelt eller klikke på noen tynne streker som merker kanaler som er funnet, men en fiffig detalj er at du bare kan trykke på TrackID-knappen for å se hvilken sang som spilles på radioen. 
+Som vanlig krever FM-radioen at du bruker de medfølgende øreproppene. 
+
+De to "trekkplastrene" er sikkerhetsprogrammet McAfee WaveSecure, som vi tidligere har tatt en titt på (følg lenka du passerte), og Moxier Pro. 
+Førstnevnte er en løsning som lar deg ta backup av telefonen og låse den eller slette innholdet dersom den blir stjålet. 
+Beklageligvis fikk vi bare en feilmelding da vi skulle registrere telefonnummeret og kom aldri inn i programmet. 
+Ja, det var jammen ikke lett å få bort feilmeldingen heller. 
+
+Når det gjelder Moxier, står det ingenting om programmet i manualen, og når du klikker på ikonet for å sette opp programmet, blir du først møtt med et skjermbilde som forteller at du gir programmet tillatelse til å slette alt på telefonen – ikke akkurat fristende, selv om det kun innebærer at du kan slette innholdet på telefonen via Exchange, dersom den blir borte. 
+Programmet er imidlertid et finfint epostprogram om du bruker Exchange på jobb, så her kunne SE med fordel ha gitt brukeren litt mer info på forhånd. 
+Slike ting gjør at opplevelsen føles litt upolert. 
+
+Mye halvhjertet 
+
+Ellers finnes det et par litt halvhjertede apps for å vise hvilke apps, filmer og bilder Facebook-vennene dine deler som ikke helt fungerer som forventet. 
+Sony Ericsson har også en egen nettbutikk for spill, musikk, ringetoner, sms-toner etc. 
+Eksempelvis koster det 15 kroner både for en enkel dørklokke-sms-lyd og et bakgrunnsbilde, og det grenser til det komiske når du tross alt finner bøttevis med lignende innhold gratis gjennom Zedge. 
+I tillegg er butikken langt fra finpolert, med småkryptiske feilmeldinger etc. 
+Ja, enkelte ganger får vi ikke en gang kontakt med tjenesten selv om nettet funker fint ellers, som nå, når vi skulle ta et skjermbilde og vise frem. 
+Jaja. 
+
+Et annet problem med Xperia Pro er også at vi litt for ofte opplever at telefonen oppfatter et sveip som et trykk, for eksempel når vi blar i menyvalg eller app-lister. 
+Dette skyldes at telefonen har en tendens til å lugge litt en gang i blant; noe vi også har opplevd flere ganger når vi har trykket hjem-knappen, der telefonen bruker noen sekunder på å "tegne opp" ikonene på hjemmeskjermen. 
+Bortsett fra det oppleves telefonen kjapp og grei i daglig bruk; også til nettsurfing. 
+Batteriet er også på det jevne i denne klassen, som betyr at du stort sett må lade hver kveld om du har vært ekstra aktiv. 
+
+Et irritasjonsmoment er også at varsellyden piper og piper mens den henter ned nye eposter hvis det er lenge siden du sjekket sist. 
+Når jeg nå henter epost fra de siste tre dagene har telefonen gitt lyd fra seg hvert andre sekund i tre minutter (man kan selvsagt dempe lyden mens det pågår). 
+
+Vi skulle helst ha sett at telefonen også hadde litt mer enn 320MB av internminnet til lagring av apps (se artikkel om internminne på Android-telefoner). 
+
+For oss som trenger skjermbilder til artikler, er det imidlertid gledelig å se at du kan ta bilde av skjermen ved å holde av/på-knappen nede litt og velge "ta skjermbilde". 
+Dette er funksjonalitet stadig flere telefoner har fått og finnes f.eks. både i Samsung Galaxy S II og LG Optimus 2X. 
+
+Kamera 
+
+Vi er jevnt over godt fornøyde med bildene fra Xperia Pro. 
+Telefonene fra Sony Ericsson har de siste par rundene blitt meget gode på dette punktet, og også Xperia Pro bruker samme sensor som f.eks. 
+Xperia Ray. 
+Spesielt er lysmåleren god og eksponerer stort sett bildene på en god måte, selv om det er i overkant mye korn på innendørsbildene og noe svakt detaljnivå på grunn av støyreduksjon. 
+
+Under ser du noen bilder tatt med Xperia Pro: 
+
+Pikselentusiaster får et par av dem i full størrelse her og her. 
+
+Som med Xperia Ray blir vi ikke like imponerte av videokvaliteten, der også Xperia Pro bruker relativt høy kompresjon som synes godt i videoopptakene. 
+
+Vi nevner også at kameraappen er ekstra fin der du kan se de siste bildene på høyre side og sveipe slik at flere vises, og på venstre side finner du kamerainnstillinger; også der med mulighet til å sveipe for å se flere. 
+
+Vi blir ikke like imponerte av 3D-panoramafunksjonen, der du trykker ned knappen, sveiper kameraet rundt og ender opp med et 3D-bilde som kan sees om du kobler telefonen til en 3DTV via HDMI-utgangen. 
+For det første kompenseres det ikke noe for ustøheter på hånda, så linjer i bildet som burde ha vært rette blir langt derfra; ei er ikke dybdefølelsen noe å rope hurra for, så nytten av denne funksjonen er begrenset utover å kunne sette på nok et klistremerke på esken. 
+
+Talekvaliteten er imidlertid meget god, og også i andre enden av røret har vi fått kommentarer på at de hører oss bedre enn vanlig. 
+In-ear-øreproppene som følger med lettdrevne og i stand til å spille ganske høyt, og de byr på lydkvalitet over par til medfølgende å være; spesielt hvis du justerer opp bassen litt ved å velge f.eks. "hip hop"-lydprofilen på equalizeren i musikkprogrammet. 
+Øreproppene har for øvrig en knapp som lar deg pause musikken, svare og legge på samtaler etc. 
+
+Konklusjon 
+
+Vi ender opp med en firer på terningen til Sony Ericsson Xperia Pro, som jevnt over er en god allround-telefon spesielt egnet for den som føler at et fysisk tastatur er nødvendig. 
+Ja, kanskje vil vi driste oss til å påstå at dette er den beste telefonen med fysisk tastatur akkurat nå, med konkurrenter som HTC ChaCha, den noe aldrende HTC Desire Z, Sony Ericssons egne Xperia Mini Pro og Nokia E7 for å nevne noen. 
+
+Vi liker hvordan Sony Ericsson har tenkt et ekstra hakk med tastaturet, slik at du f.eks. begynner å svare på en epost om du leser en og så trekker ut tastaturet, selv om dette ikke fungerer helt uniformt i alle apps. 
+Plusspoeng får Sony Ericsson også for kameraet i Xperia Pro, som jevnt over gir gode bilder til mobilkamera å være. 
+
+Det er imidlertid litt for mye smårusk som trekker ned. 
+For det første opplever vi litt for ofte at telefonen tror at vi trykker når vi mener å sveipe, et par av utgangene/knappene er noe uheldig plassert og enkelte av de medfølgende appene er under par. 
+
+Vi finner det også noe snodig at telefonen ikke har lyssensor som kan justere lysstyrken på skjermen automatisk og at brukergrensesnittet enkelte steder blir litt for upolert. 
+I tillegg gir ikke konstruksjonen et spesielt kvalitetsinntrykk; spesielt med tanke på knappene som er små og lite komfortable å trykke på. 
+
+Sony Ericsson Xperia Pro 

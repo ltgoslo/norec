@@ -1,0 +1,104 @@
+Logitech Alert - overvåking for alle
+For overvåking av hus eller hytte er Logitechs system midt i blinken 
+
+Det kan være mange grunner til at man vil overvåke sin eiendom, enten det nå er hovedboligen, hytta eller båten. 
+Det finnes profesjonelle løsninger som inkluderer vaktselskap og vektere som rykker ut ved innbrudd og ødeleggelser, men det kan også være andre og mindre dramatiske grunner til å ønske overvåking: 
+
+På hytta kan det være praktisk å sjekke snømengden om vinteren, så man kan måke av taket før det bryter sammen. 
+At båten ligger som den skal, med presenningen på plass, at gjerdet på hytta er helt så ikke sauer eller andre villdyr tar seg inn og gjødsler over alt, eksemplene er mange. 
+
+Men hva trenger man? 
+
+I teorien trenger man bare noen kameraer og en internettforbindelse, og helst en opptaksmulighet og litt styring. 
+I praksis bør dette være et gjennomtenkt system, som kan monteres og installeres selv av den middels nevenyttige. 
+
+Logitech Alert er et slikt system ogbestår av kamera, tilkoblingsutstyr og programvare. 
+Grunnpakkene finnes i to varianter, med innendørs eller utendørs kamera. 
+I tillegg til dette kan du utvide ved å kjøpe flere kameraer etter behov. 
+
+Les også vår test av overvåkningstjenesten Cameramanager fra Panasonica 
+
+Hvordan fungerer det? 
+
+Du må begynne med grunnpakken. 
+I tillegg til selve kameraet følger det med to bokser som plugges i hver sin stikkontakt. 
+Den ene plugges i nærheten av kameraet og du kobler til kameraet med en flat nettverksledning som følger med. 
+Du må skru opp et deksel for å komme til kontaktene, koblingen blir dermed både sikker og tett. 
+
+Den andre boksen setter du i en kontakt i nærheten av ruteren din, og kobler en nettverksledning fra boksen til ruteren. 
+Du må altså ha en konstant internettforbindelse og en ruter med en ledig port. 
+
+Boksene sender bilder som nettverkssignaler over strømnettet i boligen/hytta/båthuset/osv. 
+og formidler signalene videre over Internett via ruteren. 
+
+Så kan du være hvor som helst i verden og sjekke kameraene dine fra en hvilken som helst nettleser, enten på en PC eller på en moderne telefon. 
+
+Alert Commander 
+
+Systemet er ikke avhengig av noen PC når det er i drift, men for å sette det opp og konfigurere det må du installere styreprogrammet med det lett militaristiske navnet Alert Commander. 
+
+Du plugger først inn nettverksboksen i stikkontakten ved ruteren og kobler nettverksledningen inn i denne. 
+Når styreprogrammet er installert og er oppe og kjører, plugger du inn boksen til kameraene som automatisk vil bli registrert av programvaren. 
+
+Så kan du gi hvert kamera et unikt navn og stille inn hvordan informasjonen fra kameraet skal brukes i systemet. 
+
+Når du vil at andre skal passe på boligen: 
+Vi har pristestet alarmselskapene 
+
+Oversikt 
+
+Programmet gir deg god oversikt over hva kameraene ser, og du kan velge alternative visningsoppsett og zoomfaktor. 
+
+For varsling kan du velge hele bildet eller flere soner i dette. 
+Disse trekker du enkelt opp som firkanter med musa. 
+
+Du kan be om varsling på e-post ved bevegelse i sonene. 
+
+Kameraene har internt lagringsplass for video, men du kan også sette av plass på en lokal harddisk for å lagre disse over lengre tid. 
+
+Når du vil se gjennom opptakene får du opp en tidslinje med hendelsene tydelig markert på hvert sitt spor. 
+
+Du flytter markøren med musa eller med pilene, og kan spille av hver enkelt hendelse ved å trykke den store Play-knappen til høyre. 
+Dette panelet oppfører seg som en hver annen avspiller. 
+
+Og videoen er utmerket, den er akkurat passe flytende til å se tydelig hva som foregår uten å ta opp for mye plass i kameraminnet. 
+
+Hvordan fungerte det? 
+
+Vi ble positivt overrasket over denne løsningen. 
+Tidligere forsøk på å installere enkel overvåkning har ikke vært verken så enkelt eller med like god bildekvalitet. 
+
+Installasjonen gikk helt smertefritt, og alle tre kameraene ble registrert uten problemer. 
+Spesielt dette var vi i utgangspunktet noe skeptisk til, siden våre erfaringer med nettverk over strømledningene aldri har vært spesielt gode. 
+
+Siden opptakene gjøres i hvert enkelt kamera er man heller ikke avhengig av at nettverkskoblingen er så rask, videokvaliteten blir like god uansett, det tar bare litt lengre tid å laste den opp når du skal se gjennom opptakene. 
+
+Det var heller ikke nødvendig å gå inn i ruteroppsettet for å åpne for trafikk, alt ble lagt pent til rette under installasjonen. 
+
+Det er heller ikke nødvendig å betale for å sjekke kameraene over nett, det kan gjøres av hvilken som helst nettleser eller på en smarttelefon. 
+Vi kunne sitte på toget og se kameraene på vår iPhone med 3G-forbindelse. 
+Ikke noen festforestilling, men strålende bildekvalitet: 
+
+Vil du ha mer avanserte tjenester over nett til mobil eller datamaskin koster dette ekstra. 
+
+Bildekvaliteten var vi svært fornøyd med, både utendørs og innendørskameraene leverte strålende bilder under alle lysforhold. 
+
+Det kan ta litt tid, vi snakker om en del sekunder, før du får kontakt med kameraene når du sjekker via nett/smarttelefon, men det kan vi leve med. 
+Det er også avhengig av internettforbindelsen fra boligen, og ADSL er som kjent ikke noen racer på opplastning. 
+
+Som totalløsning for å kunne holde et øye med eiendom til en overkommelig pris har vi hittil ikke sett noe bedre enn Logitech Alert. 
+
+Veiledende priser: 
+
+Grunnpakken med utendørskamera: 
+2 999 kroner Grunnpakken med innendørskamera: 
+2 699 kroner 
+
+Alert 700e ekstra utendørskamera: 
+2 699 kroner Alert 700i ekstra innendørskamera: 
+2 299 kroner 
+
+Web and Mobile Commander tilgang: 
+399,20 kroner 
+
+Les også vår test av overvåkningstjenesten Cameramanager fra Panasonica 

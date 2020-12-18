@@ -1,0 +1,79 @@
+Test: B-speech Rx2 Bluetooth-mottaker.
+Trådløs lyd, enkelt og billig 
+
+Å distribuere musikk i boligen er noe mange er opptatt av. 
+Det finnes avanserte løsninger med dedikerte servere hvor all musikken er lagret, og kostbart trådløst utstyr for å sende og ta i mot. 
+Det finnes også musikkanlegg med innebygd mottaker for trådløs lyd. 
+
+For å betjene det hele finnes det app'er for mobiler eller nettbrett, eller egne styringsenheter. 
+Er man entusiast er det ikke grenser for hvor mye penger man kan bruke eller hvor omfattende systemer man kan sette sammen. 
+
+Men det går også an å gjøre det enkelt og billig. 
+
+Kjøkkenløsningen 
+
+Først og fremst ser vi bort fra den hardeste indre kjerne av lyd- og musikkentusiaster, og konsentrerer oss om de som ganske enkelt vil høre spillelister de har på Spotify, iTunes, Wimp eller en annen løsning på mobilen sin. 
+Men de vil høre det over kjøkkenanlegget, eller på anlegget i stua eller arbeidsværelset, og styre det med mobilen. 
+
+De kan gjøre følgende: 
+Kjøp en liten Bluetooth-mottaker med lydutgang og koble den til musikkanlegget. 
+Så er det bare å slå på dette og styre avspillingen fra mobilen, som om du brukte hodetelefoner. 
+
+Vi har testet den rimeligste løsningen vi fant, B-speech Rx2 fra Clas Ohlson til 299 kroner. 
+
+Småtteri 
+
+Bluetooth finnes som kjent i det meste av telefonutstyr, og elektronikken som tar seg av dette er bitteliten. 
+Det samme gjelder brikken som konverterer lydsignalet til analogt format. 
+Strømforbruket er også svært lavt og det lille oppladbare lithiumbatteriet tar heller ikke mye plass. 
+
+Resultatet av dette er at hele mottakeren er bitteliten, på størrelse med en pakke Fox. 
+
+På den ene siden finner vi en stereo minijack. 
+
+På den andre siden sitter det en USB-kontakt for ladekabelen. 
+
+På toppen er det en enslig bryter, som brukes til å slå av og på enheten. 
+Når du holder den nede i 7 sekunder blinker den og sender ut informasjon slik at du kan opprette kontakt med mobilen din. 
+
+Bryteren lyser også, og veksler mellom orange signal når den lades, og blått når den mottar signal. 
+
+Tilkobling 
+
+Den trådløse tilkoblingen, også kjent som Bluetooths parringsrituale (pairing) gikk helt uten problemer. 
+Bluetooth kan etter vår erfaring være temperamentsfull, men det slapp vi her. 
+
+For å koble til et lydanlegg følger det med 2 kabler. 
+Den ene har stereo minijack i begge ender, den andre har to phono-kontakter. 
+Dermed kan du enkelt koble den til PC-høyttalere eller vanlig analogt utstyr. 
+
+Lydkvalitet 
+
+Det er verdt å merke seg at denne og andre Bluetooth-enheter for musikk ikke bruker den samme 64 kbit/sek protokollen som brukes til de enkleste formene for Bluetooth handsfree. 
+Her brukes A2DP (Advanced Audio Distribution Profile) som støtter høykvalitets lyd og EDR (Enhanced Data Rate) som er opptil 3 Mbit, typisk 2,1 Mbit. 
+
+Dermed er overføringskapasiteten mer enn god nok til å overføre stereo lyd med svært god kvalitet. 
+
+Vi testet først på kontoret med hodetelefoner fram til en avstand av godt over de oppgitte maksimale 10 meter og hadde ingen problemer med overføringen. 
+
+Hjemme var det ikke like gode mottaksforhold, men så lenge vi holdt oss innenfor 10 meter og ikke så mange meterne unna fri sikt så fungerte det smertefritt. 
+
+Vi testet også på et par anlegg hjemme, både minianlegget på kjøkkenet og på våre M-Audio nærfelt studiomonitorer. 
+
+Med avspilling av komprimert musikk fra iPhone, både fra internt minne og fra Wimp, var den eneste forskjellen at Bluetooth-mottakeren leverte et lavere signalnivå enn direkteutgangen på iPhone. 
+Noen hakk opp med volumkontrollen på anlegget løser det "problemet". 
+Noen forskjell i lydkvaliteten som sådan var det ikke, og heller ingen sus eller andre ulyder. 
+Når enheten slår seg av høres det en dempet impuls, men det er ikke noen dramatisk lyd. 
+
+Hva skjer hvis telefonen ringer? 
+
+Hvis det kommer inn en samtale dempes lyden på iPhone akkurat som vanlig, og du kan svare på anropet i telefonen. 
+Så snart du avslutter kommer musikken tilbake igjen i høyttalerne. 
+
+Konklusjon 
+
+Denne lille enheten fungerer utmerket til vanlig musikklytting, den er både praktisk og rimelig. 
+
+Hvis det du ønsker rett og slett er å spille av musikken på mobilen, fra minne eller fra en nettbasert tjeneste, over høyttalerne dine uten å måtte koble den til med kabel, er dette en løsning som fungerer. 
+
+Det eneste ankepunktet er at utgangsnivået er litt lavt. 

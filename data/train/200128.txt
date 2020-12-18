@@ -1,0 +1,71 @@
+Bosch GLM 80 + R60
+Et vanlig vater er ikke det mest nøyaktige som finnes, og det kan heller ikke måle avstand. 
+
+"Nå er det i vater, og væl så det", er en gammel snekkervits. 
+I praksis er det nærmere sannheten enn man ofte ønsker at det var. 
+Vi som driver og pusser opp hus kjenner godt til avvik både i "rette" vinkler og på gulv og annet som skulle være vannrette. 
+
+Et tradisjonelt vater, eller vaterpass som det egentlig heter, har som kjent libeller, buede glassrør nesten fylt opp med en væske (som regel sprit), med en liten boble i. 
+Når boblen ligger midt mellom de to strekene er vaterpasset vannrett (eller loddrett, eller i 45 graders vinkel - det er som regel tre libeller i vanlige vaterpass). 
+
+Ikke nøyaktig nok 
+
+Men et vanlig vater er ikke alltid nøyaktig nok. 
+Hvis lengden på det som skal være vannrett er over noen meter, blir avviket fort en centimeter eller mer i endene. 
+Man kan da skaffe seg et langt vater, bedre kjent som rettholt, som fåes i lengder på opptil 600 cm. 
+
+Et annet alternativ er et laserverktøy, her finner du vår artikkel om flere varianter av disse. 
+
+Men det finnes enda en løsning, som er en kombinasjon av det kompakte vaterpasset og moderne digital teknologi. 
+
+Bosch GLM 80 og R60 
+
+Vi har tidligere testet PLR 50 laserbasert avstandsmåler fra Bosch, men den var beregnet på hobbybrukere. 
+GLM 80 er blå tilhører det proffe utstyret og byr på en god del flere muligheter. 
+
+For det første har den lengre rekkevidde med 80 meter mot 50 meter maksimal avstand, den er også litt mer nøyaktig med 1,5mm vs 2mm maks avvik. 
+
+Men de viktigste forskjellene er først og fremst at GLM 80 kan måle vinkler, helt ned til 0,1 grad. 
+Dernest at den kan lagre 20 målinger i minnet i tillegg til gjeldende måling. 
+
+Dermed blir bruksområdet langt videre enn med PLR50. 
+
+GLM 80 leveres også i sett sammen med R60. 
+Dette ser ut som et ordinært vaterpass, og fungerer fint som det. 
+Men det har en dokkstasjon til GLM 80 som gjør kombinasjonen til et enda mer nøyaktig måleverktøy. 
+
+Du bare setter inn GLM 80 og låser den med hendelen, så sitter den dønn fast. 
+Deretter er det bare å legge R60 med GLM 80 ombord ned på det du skal ha vannrett og lese av vinkelen. 
+
+I praksis 
+
+Vi har testet GLM 80 i flere sammenhenger, sammenlignet med PLR 50, og kontrollmålt med gammeldagse analoge måleverktøy som målebånd og tommestokk. 
+
+Forskjellen mellom Bosh-enhetene i nøyaktighet ved lengdemåling er i praksis svært liten, det er større sjanse for at du slurver med å holde måleren stødig mens du trykker knappene enn at apparatene tar feil. 
+
+Og av de ekstra egenskapene til GLM 80 er det definitivt minnet med listen over 20 målinger som er den vi har satt mest pris på. 
+Da slipper vi å notere hver enste måling. 
+
+Men det smarte er vinkelmålingen. 
+Helningsvinkelen vises alltid i displayet, og oppgis med 0,1 grads nøyaktighet. 
+Dette er mer nøyaktig enn du klarer å plassere boblen i libellen i et vanlig vater. 
+Forskjellen kan være fra noen millimeter til noen centimeter, avhengig av lengden på det som skal være i vater, og det kan være kritisk i blant når ting skal passe sammen. 
+
+Ikke minst er størrelsen utrolig praktisk. 
+Du trenger som regel ikke bruke hele kombinasjonen, det fungerer utmerket å legge selve GLM 80 på det som skal måles. 
+Da slipper du å dra på et langt vater, men har det rett og slett i lomma. 
+
+Men skal du måle f.eks. mellom to hylleknekter eller andre oppheng, er R60 svært praktisk. 
+Dessuten blir vinklen lettere å lese, siden displayet endrer seg til større gradtallvisning så snart GLM 80 spennes fast i dokken. 
+
+Mer info om GLM 80 finner du hos Bosch. 
+Du finner også mange videoer av GLM 80 og R60 på YouTube. 
+
+Konklusjon 
+
+Bosch GLM 80 og R60 er en utmerket kombinasjon som gjør de fleste måleoperasjoner langt enklere. 
+Den er kompakt og nøyaktig, har oppladbart lithiumbatteri som holder til titusenvis(!) av målinger. 
+
+Den erstatter målebånd, tommestokk og vater, pluss notisblokk og kalkulator. 
+
+Bosch GLM 80 

@@ -1,0 +1,111 @@
+Asus U36J RX044V
+Liten, tynn og solid PC med noen meget gode egenskaper. 
+
+Asus har i løpet av få år blitt en av verdens største bærbar PC-produsenter. 
+DinSide Data har testet en rekke modeller siden den gang, og har sjelden opplevd å bli skuffet. 
+
+Produsenten har blant annet spesialisert seg på ultraportable PC-er, og har blant annet hatt stor suksess med modellserien UL30, som kom i fjor. 
+Dette har i lang tid vært blant de mest populære modellene i markedet, blant annet på grunn av det hendige formatet og svært gode batterilevetid. 
+
+Svært tynn 
+
+Nå er Asus på banen igjen med serien U36, som de selv hevder er verdens tynneste PC med kraftig Core i-prosessor, den måler kun 1,9 cm på det tykkeste. 
+
+For å sørge for godt oppstiving og stabilitet har Asus brukt en aluminium/magnesium-legering i chassiset, og en glassfiberblanding i bunnplaten. 
+Dette gjør at det er minimal svikt selv når du holder maskinen horisontalt i ene siden. 
+
+Overflaten er matt, og det skal mye til for at fingermerker vises. 
+Det er etter vår mening et eksempel til etterfølgelse! 
+
+Vekten passerer akkurat 1,5 kg, ifølge våre egne målinger, noe som bør være godt innenfor smerteterskelen for deg som tar med PC-en overalt. 
+
+Her er de viktigste tekniske egenskapene: 
+
+Utover det som står i tabellen kan U36J skilte med webkamera, tre USB-porter, Bluetooth-støtte, minnekortleser, kombinert stereo/optisk lydutgang (3,5mm), gigabit nettverk og VGA/HDMI-utganger for tilkobling til ekstern skjerm. 
+
+Fornuftige løsninger 
+
+Tastaturet er i fullstørrelse, og har den samme, matte overflaten som resten av chassiset. 
+Det er av typen der hver tast er isolert fra de andre, og det er enkelt å rengjøre mellom dem. 
+Det er ikke plass til numerisk tastatur. 
+Tastaturplaten har ingen bevegelse, alt virker fast og fint. 
+Responsen er meget god, og tastene avgir svært lite støy under bruk. 
+
+Over tastaturet til høyre sitter av/på-bryteren, til venstre er en bryter for Asus Express Gate Cloud, et Linux-basert minioperativsystem som starter på få sekunder. 
+Dette er en nettsky-løsning som gir deg tilgang til nettleser, Facebook, Youtube, noen spill, etc. 
+Brukeropplevelsen er imidlertid så som så, mener vi, blant annet blir bilder og tekst strukket i bredden, og vi fant ikke noen mulighet for å endre på dette. 
+
+Den samme bryteren brukes også til å svitsje mellom forskjellige bruksmodi i Windows, som blant annet påvirker ytelse og batterilevetid. 
+Mer om dette senere. 
+
+Alle tilkoblingene sitter på sidene, lengst bort fra brukeren, noe vi synes er en ryddig løsning. 
+
+Skjermen er som nevnt blank, den har god kontrast, hvitt er hvitt og svart er svart. 
+Ulempen med denne typen skjermer er naturligvis gjenskinnet som er uunngåelig i mange lysforhold, men det skal snart godt gjøres å finne PC-er med matte skjermer, dessverre for mange. 
+
+Det sitter et par høyttalere i fronten, og de gir akkurat så spinkel lyd fra seg som "normalen" i klassen. 
+For musikk velger du enten eksterne høyttalere eller hodetelefoner. 
+
+I bruk 
+
+Asus har nesten bestandig støysvake modeller, og U36J er ikke noe unntak. 
+Kun i de mest krevende ytelsestestene opplevde vi at viften ble hørbar, men aldri sjenerende. 
+
+Asus benytter sin egen strømstyringsløsning Power4Gear til å håndtere diverse innstillinger basert på hvordan du bruker PC-en. 
+
+Dette skal sørge for at det ikke brukes mer energi enn nødvendig, og fungerer stort sett greit. 
+For eksempel går maskinen i Battery save-modus når du drar ut strømkontakten, lyset dempes, og grafikkmotoren skifter fra Nvidia Geforce 310M til Intel GMA HD, som er mer strømgjerrig. 
+Forskjellen i ytelse er imidlertid ikke veldig stor; 310M er langt fra noen high-end-løsning, og slett ikke myntet på seriøs gaming. 
+
+Intel-grafikken i Core i-familien er dessuten sterkt forbedret i forhold til tidligere generasjoner, og byr for eksempel på mer enn nok "futt" til å spille av full HD-video og moderat spilling. 
+
+Pass på at du ikke kjører video i Windows Media Player når du drar ut kontakten. 
+Da vil Windows Media Player krasje. 
+Det samme har vi opplevd også tidligere med Power4Gear-strømstyringen. 
+
+Høy ytelse 
+
+Maskinens generelle ytelse er helt super til det meste av bruksområder, først tallene fra Windows 7 sin egen opplevelsesindeks, hvor skalaen går fra 1 til 7,9: 
+
+For å sammenligne forventet ytelse mot andre systemer i klassen, har vi brukt Passmark Performance Test 7.0. 
+Det gav oss følgende resultater: 
+
+Ser vi på prosessorytelsen isolert, sammenlignet med andre populære prosessorer som sitter i PC-er i samme klasse, får vi følgende indikasjon: 
+
+Prosessorytelsen er med andre ord helt i toppen sammenlignet med andre ultraportable i samme prisklasse. 
+Spesielt interessant er det å se at det er minimale forskjeller mellom i3 og i5 her. 
+Ytelsen er imidlertid 2,5 ganger bedre enn på den omtalte UL30-serien. 
+
+Grafikkytelsen er imidlertid helt på linje av hva du kan forvente deg i klassen: 
+
+Legg merke til de små forskjellene sammenlignet med for eksempel siste generasjon Intel HD-brikke. 
+Noe førstevalg for gamere er dette imidlertid ikke, og maskinene i klassen som har GT-grafikkort yter en god del mer. 
+
+Batterilevetid 
+
+Denne maskinen er ikke utstyrt med det kraftigste batteriet, ifølge Asus skal det vare i inntil 5 timer mellom to ladinger. 
+Det er uansett ikke til å kimse av, dette er tross alt en maskin med ganske høy ytelse. 
+
+DinSide bruker egenutviklet programvare for å måle batterilevetiden. 
+Først kjører vi en runde der vi måler levetiden ved kontinuerlig HD-videoavspilling (720P, Windows Media Player), og her holdt maskinen ut i 2 timer og 40 minutter før den slo seg av (Battery Save-modus). 
+I neste omgang kjører vi batterilevetiden ved minimal belastning, og da holdt den ut i ganske nøyaktig 5 timer. 
+Derfor: 
+Under normal, variert bruk vil du kunne forvente en batterilevetid på mellom 4 og 5 timer. 
+Det er absolutt godkjent, men et stykke bak de beste. 
+
+Konklusjon 
+
+Dette er en svært god PC. 
+Den er godt skrudd sammen, det er brukt sterke materialer, og den er både tynn og lett, og støyer ikke. 
+Tastaturet er av de bedre vi har testet på denne typen maskiner. 
+
+Den mangler DVD-leser, noe vi ser oftere og oftere i denne klassen. 
+Det kan du imidlertid koble til eksternt via USB. 
+For øvrig er det lite å trekke, maskinen er like god eller bedre på de fleste punkter, sett i forhold til snittet i klassen. 
+Slikt blir det en klar femmer på terningen av. 
+
+Vi skulle imidlertid likt å se denne med siste generasjon Intel Core-prosessor (Sandy Bridge). 
+Det ville gitt enda bedre ytelse, og sannsynligvis bedre levetid på batteriet med 4 celler. 
+Men den som venter på noe godt... 
+
+Asus U36JC-RX044V 

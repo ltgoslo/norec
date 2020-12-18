@@ -1,0 +1,112 @@
+SqueezeboxRadio: 
+Fordi den virker 
+
+En nettradio med Facebook-funksjon? 
+Ja, det er faktisk mulig. 
+
+Squeezebox 
+Radio er rett og slett en nettradio, som i tillegg lar deg bruke nettbaserte musikktjenester og lar deg spille av musikk du har lagret på PC-en eller nettverket ditt. 
+
+Det som virkelig imponerer oss er imidlertid hvor enkel den er i bruk. 
+
+Fra bra til bedre 
+
+For etter å ha testet både Squeezebox, Squeezebox 
+Duet og ikke minst high-end produktet Transporter begynner vi nå å få god kjennskap til Squeezebox-universet. 
+
+Vi føler derfor vi har belegg for våre ord når vi konstaterer at brukeropplevelsen har blitt mye bedre, ja Squeezebox 
+Radio oppleves faktisk som så enkel i bruk at selv husets femåring fint klarer å bruke den. 
+
+Men vi får starte fra begynnelsen. 
+
+Lekker liten sak 
+
+Squeezebox 
+Radio glinser innbydende mot deg når du pakker den opp, og jada; vi synes dette ser riktig så bra ut. 
+Pianolakken har imidlertid sine ulemper, og skal du bevare det flotte utseendet bør ikke pussekluten være for langt unna. 
+
+På høyre side får du også opp en liten (2,4 tommer) fargeskjerm av LCD-typen, som via tekst og bilder gjør det svært enkelt både å stille den inn, og ikke minst: 
+Å ha full kontroll over hva du hører på, eller hvor du befinner deg når du blar deg gjennom ditt eget musikkbibliotek. 
+
+Radioen kan kobles til nettet via kabel, men den har også en innebygget trådløs enhet som gjør den svært plasseringsvennlig. 
+Til vår glede oppdaget vi også at den trådløse mottageren er langt kraftigere enn på vår Squeezebox 
+Duet, for der den siste markerer to i signalstyrke viser nemlig Radioen full pott – selv når de står side om side. 
+
+Selve tilkoplingen til det trådløse nettet er nå tilnærmet idiotsikker, ettersom du manøverer via den ene styrespaken, samtidig som du ser statusen i displayet på høyre side. 
+I praksis tok det oss under to minutter å få den på nett og klar til bruk. 
+
+Facebook på radioen? 
+
+Squeezebox 
+Radio har også en Facebook-funksjon, som kort og godt oppdaterer profilen din med hva du hører på. 
+Det kan være morsomt en eller to ganger, men i praksis er dette en litt unødvendig gimmick. 
+
+Vi synes heller ikke skjermen på 2,4 tommer er stor nok til at vi gidder å bruke tid på å lese gjennom nyhetsoppdateringene på fjesboken, men bevares: 
+Her har du altså muligheten. 
+
+Squeezebox server 
+
+For fullt utbytte av Squeezebox 
+Radio bør du imidlertid også ha musikksamlingen din tilgjengelig på nettverket, og dette setter du raskt opp via den siste versjonen av Squeezebox server – et program som installeres på Mac-en, PC-en eller på NAS-disken din. 
+
+Selv har vi rippet alle våre CD-plater i beste kvalitet (WMA lossless, Flac og Apple Lossless), og den lille radiotassen fant all musikken plassert på vår mediedisk uten problemer. 
+Også dette gikk kjapt, og ja; det er unektelig ganske behagelig å sitte på kjøkkenbenken og ha hele musikksamlingen tilgjengelig via noen få knappetrykk. 
+
+Har du tagget låtene dine riktig når du rippet CD-ene dine (eller har kjøpt låter via iTunes), får du for øvrig opp all den informasjonen som er lagret. 
+F.eks vises navn på artist/album, låtskriver, hvilken radiokanal osv. osv. 
+Vi liker for øvrig at ikoner, både fra nettradiostasjonene og platecover fra dine album vises i displayet. 
+Dette øker rett og slett brukervennligheten. 
+
+Gullkorn 
+
+Vi har allerede nevnt at den nye programvaren er langt bedre enn tidligere, og det fine med Squeezeboxene er at de selv sier i fra når ny programvare er tilgjengelig, slik at du alltid er oppdatert. 
+
+Navigeringen er som sagt enkel. 
+Du blar gjennom menyene med den store skruknappen og trykker på den for å aktivere valget ditt – en prosess som hele tiden vises i skjermen på høyre hånd. 
+
+Alle norske kanaler er forøvrig skilt ut i en egen liste, og totalt har du 89 store og små norske kanaler å velge blant. 
+Alle NRK-kanalene har forøvrig sin egen mapppe i tillegg, så her vil selv bestemor klare å aktivere P2. 
+
+Utenlandske kanaler er også bare få trykk unna, og er organisert etter sjanger (sport, musikk, prat, osv osv), land eller tema, og søkefunksjonen fungerer også godt. 
+
+Dessverre følger det ikke med fjernkontroll i pakken, men er du fra før av eier av en Squeezebox Duet, eller har en iPhone? 
+Ja, da bør du følge nøye med: 
+
+Du kan nemlig fjernstyre styre Squeezebox 
+Radio med Duetens fjernkontroll eller en av Squeeze-appene på iPhonen din (selv brukte vi Squeemote på iPhonen). 
+
+I tillegg til at dette gir deg fjernkontrollmuligheten kan du også synkronisere de ulike Squeezebox-komponentene dine, slik at den samme musikken spilles av fra begge enhetene om du ønsker det. 
+Også dette fungerte bra under vår testperiode. 
+
+Hva mangler? 
+
+Fjernkontroll er dessverre ekstrautstyr (med mindre du altså har en Duet eller bruker iPhonen), men det største minuset er at Squeezebox 
+Radio mangler digitale lydutganger, slik at den ikke kan kobles til stereoanlegget ditt. 
+Vi skulle også ønske at det hadde vært støtte for Spotify. 
+
+Men hva med lyden? 
+
+Lydkvaliteten avhenger definitivt av hva du hører på: 
+Låter i dårlig kvalitet blir ikke mye å skryte av, men har du rippet musikken din i lossless-kvalitet er det faktisk ikke så verst. 
+
+Personlig skulle vi imidlertid ønsket oss en kraftigere bassgjengivelse, men dette er altså en liten kjøkkenradio – så alt i alt gir vi godkjent også her. 
+
+Konklusjon 
+
+Er du på jakt etter en nettradio som ikke bare gir deg utallige radiostasjoner, men også er enkel i bruk? 
+Ja, da kommer du nesten ikke utenom Squeezebox Radio, den er nemlig en fryd både å sette opp og i den daglige betjeningen. 
+
+Vi har nå brukt den daglig i over 10 dager, og den har faktisk bare mistet kontakten med nettverket en eneste gang. 
+Dette er langt bedre enn mange av de andre nettradioene vi har prøvd, og på Squeezeboxen slipper du også unna med færre tastetrykk og kjappere tilkopling. 
+Kort sagt: 
+Den virker slik den skal. 
+
+Har du i tillegg en Squeezebox 
+Duet fra før av? 
+Ja da blir det enda mer spennende, ettersom du da også kan bruke fjernkontrollen den har – i tillegg til å synke musikken i flere rom. 
+Veiledende pris er cirka 1700 kroner, men vi har sett den i flere nettbutikker til rundt 1500 kroner. 
+
+Konkurrenter: 
+Sjekk også ut Pinell Supersound om du vil ha DAB og FM-funksjon i tillegg. 
+
+Mer info får du på Logitechs norske nettsider. 

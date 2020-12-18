@@ -1,0 +1,74 @@
+Plextor PX-755A
+DVD-brennerne er i ferd med å nå sin endelige topp i ytelse og egenskaper, og nye standarder presser på for å overta. 
+Vi har testet Plextors nyeste - og kanskje siste? 
+- DVD-brenner. 
+
+DVD-brennere er en selvfølgelig komponent i en hver PC, det er ikke noe alternativ som er meningsfylt for privat bruk. 
+Prisene generelt er nå så lave at det er få som kniper en hundrelapp og klarer seg med en DVD-leser. 
+De aller gjerrigste klarer seg med en CD-brenner, da kan de knipe enda en hundrelapp. 
+
+LES OGSÅ: 
+
+Men noen vil betale litt mer for å få en DVD-brenner som hever seg over de rimeligste alternativene, og Plextor har som regel levert produkter i toppklasse. 
+Noen ganger har konkurrentene vært farlig nær, både BenQ og Nec har hatt bedre ytelse på enkelte områder og dessuten til lavere pris. 
+
+Nå som DVD-brennerne snart blir avløst av brennere for HD-DVD og BlueRay, som med til visshet grensende sannsynlighet også vil håndtere DVD og CD, vil vi ta en siste runde med tester av de meste populære DVD-brennere. 
+
+Vi starter da med Plextor som representerer toppen i pris og anerkjennelse, så vil det vise seg om de andre klarer å matche prestasjonene. 
+
+I Retail-pakken følger det også med sort frontpanel. 
+
+Brenneren leveres med vanlig parallell ATA tilkobling, det finnes også en utgave med S-ATA tilkobling, men ytelsen er den samme 
+
+Forbedringer? 
+
+Den forrige brenneren vi testet fra Plextor var PX-716A, mens etterfølgeren PX-740A aldri havnet på testbenken. 
+PX-716A var en svært kapabel brenner, men avstanden til konkurrentene var ikke stor. 
+Testen finner du her. 
+
+Den siste modellen PX-755A påstår Plextor er den raskeste DVD-brenneren hittil, og i tillegg kommer den med en rekke spesielle finesser og egenskaper. 
+
+Testingen viste at brenning på 16x av både DVD-R og DVD+R var rask, men ikke overlegent i forhold til brennere vi har testet tidligere. 
+
+På DVD+R og 2 GB data var den med sine 3:55 7 sekunder senere enn forgjengeren PX-716A, og 14 sekunder etter Nec ND-3520A. 
+
+På DVD-R og 2 GB data kom den ut på topp med sine 4:05 som er et helt minutt raskere enn forgjengeren PX-716A, men bare 12 sekunder foran Nec ND-3520A. 
+
+På 4 GB klarte den 6:58 for +R og 7:22 for -R, her havner den godt nede på lista og blir slått av både BenQ og Nec. 
+
+Også på overskriving av DVD+RW var den tregere enn de ande, med 7:17 som er over et halvt minutt tregere enn konkurrentene. 
+
+Men på Dual Layer var den lynrask! 
+Her brukte den 15:23 på 8000 MB, som er 11 minutter raskere enn tidligere brennere. 
+
+CD-brenning og ripping var også i toppklasse, med 2:39 for brenning og 2:31 for ripping. 
+Her var PX-716 5 sekunder raskere på brenning, mens rippingen var identisk. 
+
+Andre egenskaper 
+
+Tradisjonen tro byr Plextor på en rekke forskjellige løsninger for å gi bedre resultater i forhold til forskjellige typer media. 
+Her er et utvalg: 
+
+Autostrategy - egenskapene hos media analyseres og lagres i opptil 31 forskjellige settinger, for forskjellige media. 
+Dette gjøres både med kjente og uykjente media, for optimale resultater. 
+
+Plexeraser - her overskrives både Lead-in og datasporene på platen, slik at den blir uleselig. 
+Et alternativ til det gamle trikset med å knuse, brekke eller brenne (med flamme) platen... 
+
+SecureRecording - for passordbeskyttlse av platen. 
+Uten passord kan du verken se hva som ligger på platen eller lese innholdet. 
+
+Buffer underrun proof - sørger for at det alltid ligger data klare til brenning under prosessen 
+
+Silent mode - senker hastighet og støynivå for bruk i stille miljøer. 
+
+SpeedRead - for lesing av CD-R plater med full hastighet på brenneren. 
+Ikke for skrøpelige plater... 
+
+GigaRec - lar deg brenne opptil 130% av nominell kapasitet på en CD-R for de store prosjektene, eller ned til 70% på samme flate for bedre lesbarhet. 
+
+PlexTools Professional 
+- Plextor har alltid levert med en samling verktøy for entusiastene, som gir deg full kontroll over brenningen. 
+Denne finner du også på www.plextools.com 
+
+Distributør er EET. 

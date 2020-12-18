@@ -1,0 +1,55 @@
+80 GB S-ATA Seagate Barracuda 7200.7
+Vi har testet Seagate Barracuda 7200.7 på 80 GB. 
+Denne gangen testet vi også på to forskjellige testPCer, som ga et interessant resultat. 
+
+Dette er den nye serien disker fra Seagate, som leveres både i parallell ATA-utgave og i S-ATA. 
+Vi har tidligere testet Barracuda V med S-ATA, og var spente på hva denne utgaven hadde å by på. 
+
+Det skulle vise seg at det var flere interessante observasjoner å se fram til. 
+
+Disken roterer med 7200 RPM og 80 GB utgaven bruker av bare en plate, og to hoder. 
+Hurtigbufferen er på 8 MB på S-ATA utgaven. 
+
+I motsetning til tidligere modeller, er ikke elektronikken skjermet med deksel på undersiden. 
+
+Seagate er konsekvente med hensyn til tilkoblingene, her er det ingen tradisjonell kontakt for strømtilkobling. 
+For de fleste betyr dette at du må skaffe en overgang, hvis du ikke har en strømforsyning som er ustyter med S-ATA strømkontakter som standard. 
+De er enda ikke standard hyllevare de fleste steder. 
+
+Først installerte vi disken i vår ordinære testPC, som er bygget på hovedkortet Asus P4S8X med SiS brikkesett og 2,53 GHz Pentium 4 CPU og 533 MHz systembus. 
+
+Dette hovedkortet har både vanlig integrert ATA-133/100/66 kontroller samt en RAID-løsning basert på en Promise-brikke, som støtter S-ATA på to kanaler og ATA-133 på i tillegg på en av kanalene. 
+
+Promise-kontrolleren støtter også tilkobling av en enkelt disk enten til ATA-133 eller S-ATA. 
+
+Vesentlig raskere 
+
+Det ble umiddelbart klart at Seagate har fått opp hastigheten vesentlig, både på skriving og lesing. 
+
+Lesehastigheten startet på over 55 000 KB/sekund, som ligger 10 000 over den forrige modellen fra Seagate. 
+
+Skrivehastigheten er også over 50 000 KB/sekund, dette er en enda større forbedring fra tidligere målinger, som bare kom opp i overkant av 33 000 KB/sekund. 
+
+Også aksesstiden er knepet in med ett millisekund, nå er den nede på i overkant av 13 ms. 
+
+Alternativ test på Intel-hovedkort 
+
+Vi måtte også sjekke denne disken på vår nyeste testPC, med Intel 875P-basert hovedkort D875PBZ med integrert støtte for S-ATA. 
+
+PCen har 3 GHz 
+P4 prosessor på 800 MHz systembus og 1 GB minne. 
+
+Resultatet var interessant nok, målingene viste marginale forskjeller på lese/skrive-hastighet og aksesstid. 
+
+Det som derimot var klart forskjellig var CPU-forbruket, som lå helt nede på 0,6%. 
+På den andre testPCen lå det på 3,3%. 
+Ingen av målingene representerer noen tung belastning, men den relative forskjellen er likevel svært stor. 
+
+Samtidig var burst-hastigheten på lesing konsekvent høyere, den toppet måleskalaen på 80 MB/sekund hos HD Tach. 
+På den andre testPCen målte vi nede i 70 MB/sek. 
+
+Konklusjon 
+
+Seagate har gjennomført en kraftig opprustning av diskene sine, de er støysvake og har en middels høy varmeutvikling. 
+
+Diskene leveres også i større kapasiteter, på 120 eller 160 GB. 

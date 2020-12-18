@@ -1,0 +1,72 @@
+Sony Network Media Player SMP-N100
+På papiret ser alt veldig bra ut, men teori og praksis behøver ikke være sammenfallende. 
+Her er et bevis på det. 
+
+DinSide Data har testet mediespillere til stuebruk i flere år, og vært vitne til at kvaliteten er blitt stadig bedre, samtidig som prisene har gått kraftig nedover. 
+De spillerne vi har testet det siste året har stort sett slukt alt av formater uten å mukke, og det er jo hele poenget om multimediefilene skal kunne fri seg fra datamaskinen. 
+
+Frigjør deg fra PC-en 
+
+Og hvis du ikke henger helt med nå, så kan jeg avsløre at poenget med disse mediespillerne er å spille av digitale videoer, musikk og vise bilder og vise dem på TV, ting man tidligere måtte bruke PC-en til å spille av. 
+Verre er det ikke. 
+Men nyere mediespillere har fått utvidet funksjonalitet, og mange støtter avspilling av nettinnhold, både fra lokalnettet (ting som ligger lagret på PC-er, for eksempel) og Internett (for eksempel fra YouTube). 
+
+Mange tror imidlertid at disse mediespillerne kun vil eksistere i en mellomfase. 
+Stadig oftere kommer nye TV-er med integrert mediespiller, og da slipper man både ekstern boks og en ekstra fjernkontroll på stuebordet. 
+Men enn så lenge er det et stort marked for denne typen produkter, noe også Sony har lyst å ta del i. 
+
+Liten og snerten boks 
+
+Modellen vi har testet heter SMP-N100, og er en liten og plasseringsvennlig boks med USB-port i fronten for tilkobling av minneplugger og eksterne harddisker. 
+
+På papiret støtter den nær sagt "alt" som kan krype og gå av aktuelle videoformater. 
+Du finner mer informasjon om funksjonaliteten hos Sony. 
+
+På baksiden sitter en rekke tilkoblinger, det enkleste for de fleste er å bruke HDMI-tilkobling til TV, som både frakter bilde og lyd. 
+Ønsker du å avspille nettinnhold finner du kontakt for kablet nett, og SMP-N100 har i tillegg også støtte for trådløst nettverk. 
+
+Boksen har ingen vifter, og er således helt stille under bruk. 
+Den kommer med en brukervennlig fjernkontroll, og grensesnittet i menyene er ikke ukjent for deg som har Playstation 3 eller et nyere Sony-TV: 
+
+Det hele er rett og slett brukervennlig, men kanskje ikke det lekreste grensesnittet vi har sett. 
+Spilleren reagerer raskt på kommandoer, og fjernkontrollen behøver ikke å rettes rett mot fronten for å få kontakt. 
+
+Rett på nett 
+
+Første gang du starter boksen blir du ledet gjennom en veiviser for oppsett av blant annet språk (norsk er et av valgene), skjermoppløsning og nettverk. 
+Vi koblet oss enkelt på vårt WPA-krypterte trådløse nett, og straks etterpå kunne vi bla oss gjennom en rekke "stasjoner" på Internett, inkludert YouTube og Eurosports videoarkiv. 
+Du får imidlertid ikke tilgang til videoleie og den type innhold i Norge som er mulig med Boxee Box, men dette kan komme på sikt. 
+
+Vi fikk imidlertid problemer med å koble oss til DLNA-servere vi hadde satt opp i hjemmenettet, uvisst av hvilken årsak. 
+Her mangler boksen gode forklaringer og hjelpefunksjoner: 
+
+Vår USB-minneplugg med 21 test-videofiler ble imidlertid raskt oppdaget og vi kunne bla oss gjennom innholdet med fjernkontrollen: 
+
+Ikke godt nok 
+
+Det viste seg imidlertid at boksen fikk problemer med mange av våre testfiler. 
+Flere av MKV-filene ble ikke gjenkjent, en DivX-fil i full HD-oppløsning krasjet, MOV-filer fra digitalkameraet vårt ble ikke en gang listet ut, Flash-videoer vistes heller ikke, ei heller ISO-speilbildefiler. 
+En mappe med DVD-struktur og meny ble ikke avspilt riktig, men vi kunne avspille én og én VOB-fil. 
+
+Windows Media Video-filer ble avspilt, men vi opplevde enkelte ganger at kun lyd ble avspilt, andre ganger at bare bildet ble vist, uten lyd. 
+
+Kvaliteten på videoene som ble avspilt, både lyd og bildekvalitet, var imidlertid upåklagelig: 
+
+Konklusjon 
+
+Hvis du synes det vi har rapportert om videoformatstøtte over virket gresk, kan vi gjøre det enkelt for deg: 
+Det er ikke sikkert denne boksen er i stand til å spille av videofilene dine, den er rett og slett for kresen i forhold til de beste. 
+Du finner mange andre spillere som er langt mindre kresne, og som spiller hva du enn kaster til dem. 
+
+Det hører med til i historien at spilleren vi testet var merket med "Not for sale", og vi kontaktet derfor Sony for å få bekreftet at dette virkelig var et ferdig eksemplar, identisk med den du finner i butikken. 
+Det kunne de bekrefte. 
+
+Vi testet den dessuten samtidig med en annen mediespiller, koblet til samme nettverk og med samme minneplugg og testfiler. 
+Denne gav oss helt andre resultater, og dermed fikk vi bekreftet at feilen ikke ligger i minnepluggen, testfilene eller vårt nettverksoppsett. 
+Vi sjekket også at vi hadde siste oppdatering til spilleren på plass. 
+Så får vi bare håpe for Sonys del at fremtidige oppdateringer vil rette på disse problemene. 
+
+Ingen anbefaling til Sony denne gangen, altså. 
+Sjekk heller en av disse mediespillerne før du går til innkjøp. 
+
+Sony SMP-N100 

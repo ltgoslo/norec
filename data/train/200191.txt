@@ -1,0 +1,88 @@
+Jawbone Big Jambox
+Batteridrevet Bluetooth-høyttaler med mye krutt. 
+
+Jawbone Jambox har vært en av min husstands mest brukte dingser det siste året. 
+Den lille høyttaleren byr på bemerkelsesverdig god lyd i forhold til størrelsen, fungerer med "alle" enheter (via Bluetooth), har ti timers batterilevetid og er lett å ha med seg i sekken. 
+
+Derfor har den også vært med på stranda, på hotellferie, grillkvelder og mer til. 
+
+Der var derfor ikke med lave forventninger vi pakket opp storebroren - Big Jambox. 
+I tillegg til å være vesentlig større enn sin forgjenger, har den også fått flere knapper og bedre batterikapasitet. 
+
+Og selvsagt får man også både bedre og høyere lyd. 
+Mye høyere. 
+
+Beklager til dere på Bøler som ble plaget tirsdag kveld. 
+
+Føles solid 
+
+Med sine 1,23 kilo fordelt på 256x80x93mm er Big Jambox slettes ingen pingle, og veier da over tre ganger så mye enn forgjengeren. 
+Høyttaleren er tilgjengelig i sort, grå og rød, og som du ser på bildene har gitteret en bølgete overflate som i hvert fall i våre øyne fremstår som ganske stilig. 
+
+På toppen finnes knapper for å øke og senke volumet, hoppe mellom sanger og pause/spille. 
+Den siste runde knappen kan du trykke på for å høre hvor mye batteri som er igjen (sies med en stemme), men den kan også konfigureres til å gjøre andre ting dersom den holdes inne. 
+
+For – noe av det som gjør Big Jambox spesiell, er at du kan koble den til nettjenesten MyJambox og gjøre enkelte endringer derfra. 
+Blant annet kan du bytte ut stemmen som følger med til andre stemmer (riktignok tar dette 4-5 minutter å oppdatere), og du kan velge hva den runde knappen skal gjøre når du holder den nede. 
+For eksempel kan den aktivere Siri på iPhone 4s (og tilsvarende stemmestyringsapper på Android) eller ringe favorittkontakten din. 
+Det finnes også en Android-app som lar deg se gjenstående batteritid, slå av og på LiveAudio™ (mer om det senere) og endre et par andre parametere. 
+
+Men, for å ta ferdig det konstruksjonsrelaterte – på høyre side sett forfra finnes inngang for den medfølgende laderen, micro USB-inngang (den kan også lades via USB-porten, men det går da tregere) og en vanlig 3,5mm-inngang dersom du heller vil koble med ledning enn å bruke Bluetooth. 
+Det gjør i så fall at batteriet også varer lenger. 
+
+I tillegg til av og på-bryteren har Big-utgaven også fått en egen "paringsknapp" som du trykker på for å sette Big Jambox i paringsmodus. 
+På forgjengeren var du nødt til å holde av/på-bryteren ekstra lenge. 
+Høyttaleren kan huske inntil åtte enheter (som den da parer seg med automatisk), og den kan også være tilkoblet to enheter av gangen. 
+Dermed kan man i praksis sitte med hver sin telefon og spille annenhver sang, eller kjøre den klassiske vorspiel-taktikken der hver sang spilles i ca 37 sekunder før noen bytter. 
+
+På undersiden finnes åtte gummiføtter som sørger for at enheten står stødig og ikke vibrerer unødig. 
+Big Jambox har også integrert mikrofon slik at du kan bruke den som handsfree til telefonen. 
+
+Her er en video som viser hvordan Jawbone Big Jambox ser ut: 
+
+Bred stereo med Liveaudio™ 
+
+En annen ting som er spesielt med Big Jambox er det Jawbone kaller Liveaudio™. 
+Dette er basert på såkalt binaurale lydopptak der man bruker to mikrofoner i studio for å skape 3D-lyd. 
+I utgangspunktet er dette rettet mot hodetelefonbruk, men Jawbone har klart å gjenskape dette på en svært god måte i Big Jambox. 
+Riktignok går det litt på bekostning av maksvolum og dynamikk, men på enkelte sanger er det nesten uvirkelig hvor bredt stereobildet blir. 
+
+Fyr opp de første sekundene av Vertigo (U2) og lukk øynene med Liveaudio™ aktivert, så høres det ut som om gitaren til The Edge befinner seg langt til side for Jawbone-høyttaleren. 
+På Think Twice av Ralph Myerz and the Jack Herren band er lydbildet helt vanvittig spredt, mens Melody Gardot nesten like gjerne kunne ha sittet i rommet på Baby I'm a fool. 
+Og via iPhone-appen 3D Audio Illusions (prøv "virtual haircut" med hodetelefoner, forresten!) … imponerende. 
+
+Det er vanskelig å sette fingeren på akkurat hva Liveaudio™ gjør med musikken, men den får en rikere klang og føles mer "åpen", selv om det ikke er alle sanger der effekten føles nyttig. 
+På enkelte sanger har vokalen en tendens til å bli litt for svak, og teknikken virker i våre ører å fungere best på instrumentalmusikk. 
+Den kan uansett lett aktiveres og deaktiveres ved å trykke på pluss- og minusknappen samtidig, eller via nevnte Android-app. 
+
+Ellers er vi meget godt fornøyde med lydkvaliteten. 
+På middels til høyt volum er boksen i sitt ess, med god fylde og bass, selv om vi savner litt mer av sistnevnte på lavere volum. 
+Ikke misforstå – selvsagt er ikke dette state-of-the-art, men til å være en liten batteridrevet krabat som veier drøye kilogrammet er dette imponerende. 
+
+Spiller du for full guffe låter det imidlertid ikke alltid like pent, og lyden har da en tendens til å bli noe forvrengt. 
+Det skal dog sies at du sjelden vil ha behov for å spille på fullt volum, for det er imponerende høyt volum før du når maksimalinnstillingen. 
+
+Kun hørbar feedback 
+
+Skal vi sette fingeren på noe, synes vi det er litt dumt at det ikke finnes noen visuelle indikatorer på Big Jambox; hverken når det gjelder volum, gjenstående batteri eller hvorvidt Liveaudio™ er aktivert. 
+
+Stemmen sier i fra når du har 25% igjen av batteriet, samt rett før det er tomt, og når du justerer lyden høres et lite pip som også endrer tone når du har nådd maksnivået, men vi skulle gjerne ha sett noen lys på siden som viste hvor høyt volumet var stilt inn. 
+Vi hadde også foretrukket en liten LED-pære som viste om Liveaudio™ var slått av eller på, i stedet for at en stemme forteller deg det hver gang du bytter innstilling. 
+
+Batteritiden er oppgitt til 12 timers spilletid med middels volum, men akkurat dette har vi ikke etterprøvd nøyaktig. 
+Det vi imidlertid kan si, er at etter å ha spilt i 3-4 timer med Bluetooth på middels volum og startet med "about half full"-batteri, får vi beskjed om at "battery is below quarter full" når vi trykker på den runde knappen, så 12 timer virker å være et godt estimat. 
+
+Ladetiden er cirka 2,5 timer når du bruker den medfølgende laderen (14,5V), mens du må påregne det tredoble om du lader den med vanlig USB-tilkobling, som da altså ikke er å anbefale med mindre du setter den på over natten. 
+
+Konklusjon, Big Jambox 
+
+Som nevnt innledningsvis hadde vi veldig sansen for den originale Jamboxen, og med Big-utgaven har Jawbone blåst den opp i størrelse og gitt den mer og bedre lyd, flere betjeningsknapper og en lydprosessering som på visse typer sanger fungerer svært bra, og som i tillegg kan oppgraderes senere via nettet. 
+
+Big Jambox er ikke noe du stikker i innerlomma, men er allikevel en nokså portabel høyttaler som vil fungere med de aller fleste moderne telefoner, nettbrett og PC-er (så lenge de har Bluetooth). 
+Den føles solid, byr på enkel betjening og kan også fungere som handsfree til telefonen. 
+Dessuten har den batterikapasitet på rundt tolv timer, som gjør at den sjelden blir førstemann som forlater festen. 
+
+Vi skulle gjerne ha sett at Big Jambox hadde hatt noen visuelle indikatorer på volum, batteri og hvorvidt Liveaudio™ var aktivert, fremfor at dette kommuniseres via en stemme. 
+Allikevel – til rundt 2000 kroner i de billigste nettbutikkene synes vi Big Jambox gir særdeles mye lyd og moro for pengene, og vi ender derfor opp med en sekser på terningen. 
+
+Jawbone Big Jambox 

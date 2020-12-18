@@ -1,0 +1,99 @@
+Fujitsu Lifebook AH531
+Med denne modellen markerer Fujitsu for alvor at de er tilbake i forbrukermarkedet. 
+
+Hvis du kikket på bærbare PC-er i nettbutikkene i det siste, har du helt sikkert sett den; Fujitsu Lifebook AH531 - og ofte til meget fordelaktige priser. 
+
+Maskinen finnes i en rekke forskjellige konfigurasjoner, fire av dem selges i Norge, og to av dem skal i tiden framover også selges i diverse Coop-butikker landet rundt. 
+
+Fujitsu har i flere år hatt hovedfokus på bedriftsmarkedet, men vil nå tilbake som en tung aktør også i privatmarkedet. 
+AH531 er første modell, men flere vil dukke opp etter hvert, ifølge Henrik Schanche i Fujitsu Norge. 
+
+Tre års garanti 
+
+De fleste PC-er som selges i Norge har enten 12 eller 24 måneders garanti. 
+Lifebook AH531 selges med inntil 36 måneders garanti, noe som både gir en god trygghet og vitner om at Fujitsu føler de har med et kvalitetsprodukt å gjøre - selv med en startpris på bare 2.990 kroner inkl mva (rimeligste Coop-modell). 
+
+Konfigurasjonen vi har sett på er imidlertid noe hvassere, blant annet med Core i5-prosessor og mye internminne. 
+Her er de viktigste spesifikasjonene: 
+
+15,6" LED-baklyst, blank LCD, 1366 x 768 piksler Intel Core i5-2410M prosessor Integrert Intel HD 3000 grafikk 8 GB RAM 
+(4 GB må monteres selv) DVD-brenner 320 GB harddisk, 5400 rpm HDMI og VGA skjermutganger Webkamera Minnekortleser for MS/SD-kort Gigabit LAN Trådløst nett B/G/N 3 stk USB 2.0-porter Windows 7 Professional 64 bit Størrelse: 378 x 36,5 x 252 mm Vekt: 
+2,5 kg Pris: 
+4369 kroner (MPX.no 12.4.2012) 
+
+Det mest oppsiktsvekkende her er minnemengden, og det faktum at maskinen selges med pro-utgaven av Windows 7. 
+Den har en del ekstrafunksjoner som ikke er standard i Home Premium-utgaven, blant annet mulighet for domenepålogging og fjernstyring. 
+
+Det som ikke er fullt så imponerende, er at den ikke er utstyrt med USB 3.0-porter, noe som begynner å bli standard i denne prisklassen nå. 
+
+Blankt 
+
+Selve maskinen har et ganske så klassisk og temmelig anonymt utseende, chassiset er en plastkonstruksjon med blanke overflater, som dessverre raskt skjemmes av fingeravtrykk. 
+Likheten med Toshiba L750-17D er mange, både i utforming, overflate, størrelse og vekt. 
+
+Alle tilkoblingene sitter på sidene, mens kortleseren og lyd inn- og utganger sitter i front. 
+
+Tastaturet er av typen der tastene står litt opp fra platen. 
+Det gir en fin respons og er godt å skrive på, ikke støyer tastene noe særlig heller, men merk at smuss og smuler kan komme på undersiden av tastene og skape trøbbel. 
+Flere og flere PC-er får nå såkalte chicklet-tastatur, der hver tast er isolerte "øyer" i tastaturplaten - noe som gjør det enklere å holde rent. 
+
+Det er imidlertid gledelig å merke seg at tastaturet er sølebestandig. 
+Det betyr at hvis du skulle være så uheldig å velte noe over det, skal det mye til for at maskinen blir skadelidende, da væsken ledes ut av PC-en. 
+
+Under tastaturet sitter en pekeplate med to adskilte knapper for venstre- og høyreklikk. 
+Vi merker oss at knappene avgir godt hørbare klikkelyder, noe som ikke er optimalt i alle arbeidssituasjoner. 
+
+AH531 har også innebygde, enkle høyttalere, og de avgir en ganske så spinkel lyd. 
+Flere og flere PC-produsenter klarer nå å få litt mer bass og fylde fra de interne høyttalerne, spesielt når chassis er såpass stort som her, så her har Fujitsu litt å gå på, mener vi. 
+
+Maskinen kommer med en 65W strømforsyning, som bruker ujordet kabel med standard 8-tallskontakt og smalt støpsel. 
+Dette er en stor fordel mener vi, da jordede kabler blant annet ofte er tykke og vanskeligere å pakke i PC-vesken. 
+
+Slik er den i bruk 
+
+AH531 settes enkelt opp ved hjelp av trinn-for-trinn-veiviser, og vi merker oss raskt at den er svært stillegående. 
+Selv under relativt tung belastning blir den aldri verken særlig varm eller særlig støyende, og eventuell vifteaktivitet avtar fort. 
+Det var ikke alltid tilfelle med eldre Fujitsu-Siemens-maskiner, og takk og pris for den forbedringen. 
+Ingen tvil om at Fujitsu AH531 er fornuftig bygd med tanke på å lede varmen effektivt bort uten at det krever særlig vifteaktivitet for å få det til. 
+
+Pakken med programmer som kommer ferdig installert er middels nyttig, og det eneste som er skikkelig irriterende er varselboksen fra Symantec som ber deg aktivere sikkerhetspakken; her har du ingen mulighet til å avbryte, det finnes rett og slett verken noen X i hjørnet eller Avbryt-knapp! 
+Ønsker du å bruke et annet sikkerhetsprogram, kan du imidlertid enkelt avinstallere Symantec-programvaren fra kontrollpanelet. 
+
+Slik er ytelsen 
+
+Maskinen oppleves som kjapp og fin til de aller fleste oppgaver. 
+Denne prosessoren er fortsatt et meget bra valg, og blant de kraftigste du vil finne på PC-er til under 5.000 kroner. 
+
+Konfigurasjonen vi har testet er uten dedikert grafikkort, altså med grafikkbrikke i selve prosessoren. 
+Men la deg ikke skremme av det, til alle normale oppgaver fungerer dette helt strålende, inkludert avspilling av HD-video i alle oppløsninger og formater. 
+
+Til spilling bør du imidlertid velge noe annet, her nevner vi at AH531 også kommer i en utgave med Nvidia Geforce GT 525M grafikkort, noe som hjelper betraktelig for den som liker å spille litt 3D-spill i ny og ne. 
+Men er ikke dette så interessant for deg, kan du trygt velge utgaven med integrert Intel-grafikk (og spare en del penger attpåtil). 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner på ytelsen, skalaen går fra 1.0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 6,9 Minne (RAM): 
+5,9 Grafikk: 
+4,7 Spillgrafikk: 
+4,7 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest gir oss litt mer kjøtt på benet, og gir oss totalscore på 1.101 poeng. 
+I diagrammene under har vi sammenlignet prosessor- og 3D-grafikkytelsen med løsninger som er relativt vanlig på andre PC-er i 4-5.000 kronersklassen. 
+
+Prosessorytelsen er som du ser meget bra, sammenlignet med konkurrentene: 
+
+Mens grafikkytelsen er ikke spesielt høy. 
+Merk imidlertid at dette er 3D-ytelse, 2D-ytelsen er mer enn god nok til det meste: 
+
+Totalt sett ganske gjennomsnittlig for klassen, men på batteritid leverer Fujitsu absolutt varene. 
+Med minimal belastning (kun tilkoblet trådløst nett) holdt batteriet det gående i nesten åtte timer. 
+Under kontinuerlig videoavspilling holdt batteriet ut i fire timer og 15 minutter. 
+Det betyr at med variert bruk bør batteriet holde til mellom seks og sju timer arbeid, og det er absolutt i overkant av hva vi forventer i denne klassen. 
+
+Konklusjon 
+
+Fujitsu Lifebook AH531 er en ganske så fornuftig og fin maskin, og vi vil spesielt huske den for god batterilevetid, høy applikasjonsytelse og for at den er blant de mest stillegående vi har testet i denne klassen. 
+
+Merk deg imidlertid de negative bemerkningene vi har gjort underveis, og som vi oppsummerer i boksen under. 
+Det er som kjent mye å velge mellom i denne prisklassen, og her finner du mange av dem. 

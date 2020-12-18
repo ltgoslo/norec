@@ -1,0 +1,74 @@
+Seagate GoFlexSatellite 
+
+Massiv ekstra lagring til iPhone, iPad og mye annet - trådløs! 
+
+Vi begynner å venne oss til å ha det meste tilgjengelig på mobile enheter, enten det er snakk om data som er lagret lokalt på enheten eller via en trådløs tjeneste. 
+Spiller det noen rolle hvor filmene, musikken, bildene eller dogumentene ligger? 
+Egentlig ikke, hvis vi alltid hadde hatt superrask trådløs tilgang over alt til et sikkert lagringssted. 
+
+Men det har vi ikke, i hvert fall ikke foreløpig. 
+
+Men hva med kortreist ekstern lagring, med trådløs tilgang? 
+Fra en liten enhet i veska, jakkelomma eller annet praktisk sted i nærheten? 
+
+Flere produsenter har tenkt på dette, Seagate har en hardiskbasert løsning - GoFlex Satellite. 
+
+Trådløs harddisk og app 
+
+GoFlex 
+Satellite er en 2,5-tommers harddisk på 500GB, som sitter i et lite kabinett sammen med et batteri og en trådløs (WLAN) sender. 
+
+Det følger med lader med USB-kontakt til strømnett med kontakt/overganger for USA, Europa og UK pluss egen adapter til sigarettenneruttak i bil. 
+
+Du kobler den til PC/MAC med overgangskabelen fra SATA til USB 3.0 for lynrask overføring. 
+USB 2.0 støttes selvsagt også, men går vesentlig tregere. 
+
+For å overføre data kan du enten kopiere over filer i filbehandleren som til en hvilken som helst annen disk. 
+Men Seagate har også et lite program som styrer det hele automatisk. 
+Dette programmet lastes ned fra Seagate sitt nettsted, og finnes både til PC og Mac. 
+
+Programmet kan synkronisere kompatibelt innhold fra private mapper på PC-en, eller valgte filmapper som du selv krysser av. 
+Synkronisering kan skje automatisk når du kobler til disken, eller starte når du selv velger. 
+
+Den trådløse forbindelsen fungerer som et vanlig trådløst nettverk. 
+I utgangspunktet er det åpent, men du kan sette et passord under Settings i Appen som du laster ned fra App store. 
+
+Denne Appen er en slags browser som gir deg oversikt over innholdet på harddisken i GoFlex og sorterer disse automatisk etter filtype, uansett hvordan de er organisert på disken. 
+
+Alternativt kan du velge Folder View for å finne innhold hvis du har organisert dette i mapper. 
+
+Hvis du ikke bruker en iOS-enhet kan du koble deg til med en hvilken som helst trådløs maskin, bærbar eller mobil, som har en nettleser. 
+Når denne er koblet til det trådløse nettet fra GoFlex vil nettleseren bare vise det som ligger på GoFlex, uansett hvilken URL du skriver inn i lenkefeltet. 
+
+Men GoFlex kan ikke koble seg opp til og videreformidle et annet trådløst nett. 
+
+I bruk 
+
+GoFlex 
+Satellite var svært rett fram å koble opp og ta i bruk, og alt virket som det skulle. 
+Vi valgte hvilke mapper vi skulle synkronisere og prosessen videre gikk helt smertefritt. 
+
+Den trådløse forbindelsen fungerte ogs utmerket, rekkevidden er oppgitt til 45 meter. 
+Vi hadde ingen problemer med rekkevidden inne i vårt trehus, når GoFlex 
+Satellite var plassert oppe på hemsen midt i huset under mønet og to etasjer ned. 
+
+Filmer startet raskt, det samme med musikk, men å bla i bilder som ligger på GoFlex 
+Satellite kan gå langt tregere enn å bla i bilder som ligger i iPhone/iPad sitt eget flashminne. 
+Det skyldes overføringen, men også nedskaleringen hvis du opererer med store originalbilder på 10 megapiksler som bare overføres slik de er til disken. 
+
+Programvaren fra Seagate behandler ikke filene slik at de blir optimalisert for iPhone/iPad, dermed går bildevisning av store filer noe tregt, og video i andre formater enn de som støttes på iOS-enheter kan ikke spilles av. 
+
+For å konvertere videoformater og redusere størrelser på bilder må du derfor bruke andre programmer. 
+
+Konklusjon 
+
+Kortreist, ekstern lagring kan være praktisk når man er på reiser eller av andre grunner trenger mye mer data enn det er plass til internt i den mobile enheten. 
+
+Harddisk gir stor kapasitet, men sammen med batteri og elektronikk blir det et lommeformat som passer best i frakken. 
+
+Løsningen fungerte utmerket i bruk, men det hadde vært enda mer elegant hvis programvare for filkonvertering hadde vært inkludert i løsningen. 
+
+Testeksemplar utlånt fra Netshop. 
+
+Seagate FreeAgent GoFlex 
+Satellite USB 3.0 500GB 

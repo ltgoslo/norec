@@ -1,0 +1,87 @@
+HP iPaq hw6515
+Smartphone-trenden fortsetter, og nå lanserer HP en herlig ny maskin med innebygd GPS-mottaker. 
+Den høres fantastisk ut på papiret, men hvordan er den i praktisk bruk? 
+
+Kombinasjonen av PDA og mobiltelefon er jo ikke noe nytt, vi har sett flere forsøk de siste årene, noen mer vellykkede enn andre. 
+Den aller siste trenden har vært å sette inn fullverdige QWERTY-tastaturer i PDAfonene, noe som gjør det betydelig mer praktisk å taste inn data, skrive e-poster og meldinger. 
+Den kanskje mest suksessfulle av disse enhetene har vært Sony Ericssons P910, og vi har også sett gode og enda mer komplette forsøk fra Qtek (med sin 9090) og Palm (Treo 650). 
+Fellestrekket er altså fullt tastatur, trykkfølsomme skjermer og fleksible operativsystemer som gjør det enkelt å få tilgang til e-post, Internett og kontorprogrammer. 
+
+Nokså stor 
+
+Den nye iPaq hw6515 følger i samme fotspor, designmessig skiller den seg for eksempel ikke nevneverdig fra Treo 650. 
+I motsetning til Qtek 9090, som hadde tastaturet skjult på undersiden, er tastaturet på iPaqen plassert nedenfor skjermen. 
+Selv skjermen har en noe redusert størrelse i forhold til andre Windows-baserte PDAer, noe som er logisk når man skal tenke på den totale størrelsen på enheten. 
+Palms Treo 650 er imidlertid fremdeles mindre enn 6515 
+ iPaqen er en ganske stor enhet som ikke alltid passer i bukselommen. 
+Vekten er på 180 gram, som jo også er en del tyngre enn en gjennomsnittlig mobil. 
+
+Men hw6515 er likevel en ganske revolusjonerende maskin med tanke på funksjonalitet. 
+Det kanskje aller mest spennende er at du får en GPS-mottaker bygd rett inn i enheten, med navigasjonsprogramvare fra Tom Tom forhåndsinstallert. 
+Dermed har du en fullverdig løsning for bilnavigasjon liggende i lommen, og det koster heller ikke skjorta. 
+
+Et annet interessant moment er at 6515 har to minnekortplasser innebygd. 
+Den ene støtter miniSD-kort, den andre rommer SD/MMC-kort, og støtter SDIO-standarden. 
+I praksis betyr det at du for eksempel kan ha både minnekort og WLAN-kort installert i iPaqen samtidig. 
+
+Trådløs drøm? 
+
+Når det gjelder kommunikasjon har enheten plass til det aller meste  men ikke alt. 
+Det er altså en fullverdig GSM-telefon med støtte for både GPRS og EDGE for dataoverføring 
+ men det er ikke plass til 3G eller WLAN i pakken, så de virkelig høye nedlastningshastighetene er ikke tilgjengelige i utgangspunktet. 
+Som sagt kan du imidlertid sette inne et WLAN-kort i et av minneportene, men vi hadde likt det enda bedre om muligheten var innebygd. 
+
+Videre er det også støtte for IrDA og Bluetooth for kommunikasjon med nærliggende enheter. 
+
+Skjermen til hw6515 er firkantet, og kortere enn andre PDAer som kjører Windows. 
+Oppløsningen på skjermen er 240x240 piksler med 65.000 farger, og selv om kvaliteten på bilder er meget bra, kan oppløsningen føre til noen problemer for tredjepartsprogrammer som er skrevet for større oppløsninger. 
+Størrelsen på skjermen er et kompromiss, og vi må dessverre leve med at ikke alle programmer passer denne skjermen ideelt. 
+
+Gode taster 
+
+Tastaturet er imidlertid blant de aller beste vi har prøvd på denne type enheter. 
+Overfor QWERTY-tastene er det plassert en joystick og snarveier til meldinger og kontakter, samt knapper for å svare og legge på samtaler. 
+Selve tastaturet er responsivt og lett å trykke på, selv om de med store fingre kan sikkert ha noen problemer med å nå visse taster. 
+Tastaturet fungerer likevel bedre enn Treo 650, for eksempel. 
+
+Operativsystemet er nok velkjent for alle som har brukt Windows-baserte PDAer tidligere. 
+På hovedmenyen får vi tilgang til oppgaver og meldinger, får informasjon om klokkeslett og dekning, og egne ikoner viser batterilevetiden og hvor mye minne som brukes. 
+Du kan også justere lysstyrken på skjermen direkte fra hovedmenyen. 
+Start-menyen tar oss til de viktigste funksjonene, som kalender, synkronisering, meldinger, telefon og Internet Explorer, og for å få tilgang til de mer avanserte funksjonene må du gå inn på Programmer-menyen. 
+
+Navigasjon 
+
+La oss ta en titt på GPS-mulighetene, den mest spennende delen av enheten. 
+Det første vi måtte gjøre var å installere et kart, det var dessverre kun Oslo-kart vi fikk tilgang til i utgangspunktet. 
+Etter installasjonen skrudde vi på posisjoneringen, og det tok en liten stund før iPaqen fikk kontakt med satellitt 
+ men når vi først var i gang var mottaksforholdene gode. 
+Vi plottet inn en reiserute fra jobben hjemover, og alt fungerte knirkefritt. 
+En kvinnelig stemme informerte oss om kommende retningsjusteringer og ruten vi ble presentert var relativt logisk, selv om det forekom mindre unøyaktigheter. 
+
+Programvaren kan også vise såkalte points of interest, altså bensinstasjoner, restauranter, hoteller, nattklubber, kinoer og diverse andre interessepunkter. 
+Disse er middels oppdatert, ikke overraskende er det bare de største og mest kjente restaurantene og nattklubbene som er oppført, men verre var det med kinoer. 
+Midt i tjukkeste Grønland var det nærmeste forslaget den ikke eksisterende IMAX-kinoen på Aker Brygge, og det nest beste alternativet var kinoen i Sandvika. 
+Noe sier oss at Tom Tom ikke har en avtale med Oslo Kinematografer om å inkludere dem i sine kart. 
+
+Alt i alt synes vi navigeringsdelen fungerte utmerket, men hvis du ikke har maskinen koblet til billader og skal for eksempel på sykkeltur, sørg for at enheten er fullt ladet. 
+GPSen trekker nemlig ekstremt mye strøm, og iPaqen varer ikke stort mer enn ca. tre timer i navigasjonsmodus. 
+
+Glem kameraet 
+
+Neste punkt på programmet er det innebygde 1.3 megapiksel-kameraet, som er plassert på baksiden. 
+Dette er iPaqens store skuffelse, til tross for en tilsynelatende god oppløsning er bildene støyete, kornete og uklare. 
+Her er det klart at kameraet var en ettertanke, og ikke er ment til å brukes til noe annet enn symbolsk knipsing av mindre seriøse motiver. 
+Derfor velger vi å ikke legge for stor vekt på denne funksjonen 
+ det er ikke bildemuligheter iPaq hw6515 fokuserer på. 
+
+Selve brukerfølelsen er for det meste veldig positivt, men vi merker en viss treghet noen ganger når vi utfører mer kompliserte utgaver. 
+Problemet er imidlertid ikke så stort at det gjør noe. 
+Det er litt verre med batterikapasiteten, som ikke bare er svært liten ved bruk av GPS, men varer ganske kort også ved vanlig PDA/telefonbruk. 
+
+Men for å oppsummere: 
+Vi liker denne iPaqen veldig godt. 
+Den har sine feil (mangel på WLAN, dårlig kamera og svakt batteri), men er likevel en meget komplett løsning med gode muligheter for utbygging, og ikke minst GPS-funksjonalitet, noe som er sjelden vare på markedet. 
+Det er en ganske perfekt kontormaskin som lar deg gjøre det alle meste, og selv om prisen er ganske høy (ca. 
+6.300 kroner), er det mye du får for pengene. 
+Qtek 9090, for eksempel, med dårligere funksjonalitet, koster over 7.000 kroner. 
+Vi kan ikke gjøre annet enn å anbefale denne, med et par forbehold. 

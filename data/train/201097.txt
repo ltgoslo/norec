@@ -1,0 +1,113 @@
+HP Omen
+Svært linjelekker og høytytende gaming-PC fra HP. 
+
+Denne PC-en inngår i en trippeltest av PC-er myntet på gaming og underholdning. 
+Du finner testoversikten her. 
+
+HP 
+Omen er en helt ny bærbar spill-PC fra HP. 
+Selskapet er kanskje mer kjent for helt andre typer bærbare PC-er, men Omen beviser at de kan mer enn å tilfredsstille kontor- og allround-markedet. 
+Ikke bare er den den slankeste, letteste og etter vår mening lekreste av de tre gaming-maskinene; den byr også på best prosessor- og diskytelse. 
+Den er også en maskin som skiller seg ut i mengden, noe vi snart skal se nærmere på. 
+
+Før vi gjør det, tar vi en titt på noen av de viktigste spesifikasjonene (uthevet), sammenlignet mot de to andre PC-ene i testen: 
+
+Som vi ser i tabellen er dette den eneste med berøringsskjerm. 
+Berøring er kanskje ikke det som trigger flest gamere, men en god del spill fra Microsoft Store, samt det nye Modern UI-grensesnittet i Windows 8, er optimalisert for berøringsskjermer. 
+Vi ser videre at HP og Multicom har kuttet ut den aldrende VGA-skjermutgangen, og satser heldigitalt på HDMI 1.4 og MiniDisplayport - begge støtter 4K-oppløsning på eksterne skjermer. 
+
+HP 
+Omen er også maskinen med klart mest minne. 
+16GB er tilstrekkelig for selv de tyngste oppgaver - gjerne flere av dem kjørende samtidig. 
+
+De eneste ankepunktene (for enkelte) er mangelen på optisk drev og nettverkskontakt (Ethernet). 
+Disse er blitt ofret for å holde vekt og tykkelse på et minimum. 
+Vi tror de færreste vil savne dette utstyret, som uansett kan løses på andre måter. 
+Det finnes eksterne USB-baserte CD/DVD/Blu-ray-løsninger, og det finnes også overganger mellom USB og Ethernet, men dette blir å regne som ekstrautstyr i denne sammenhengen. 
+
+Det som ikke kommer fram av tabellen, men som likevel er ganske essensielt, er at alle tilkoblingene sitter bak. 
+Kun kortleseren sitter på høyre side. 
+
+Å ha hodetelefonutgang og alle USB- og skjermtilkoblingene på baksiden har sine fordeler (ryddig med hensyn til kabler), men vi savner en hodetelefonutgang, samt en enkel tilgang til én USB-port på siden, for eksempel når vi skal koble til mobilen. 
+Noe stort problem er det uansett ikke. 
+
+Overflaten er av metall og dekket av matt, svart lakk. 
+
+De små prikkene i pregingen er i praksis små trekanter - bittesmå piltaster, faktisk. 
+Også undersiden - som domineres av riller - er av metall, og bidrar til å gi et solid kvalitetsinntrykk. 
+
+Også området rundt tastaturet er av metall, og vi ser at HP har kuttet ut det numeriske tastaturet og i stedet har de fått plass til seks programmerbare taster til venstre. 
+Det viser med all tydelighet at det er gamere (og ikke kontorister) HP har hatt i tankene når de designet denne PC-en. 
+
+Selve tastaturplaten er baklyst med rødt lys, noe som er ganske typisk for gaming-PC-er. 
+Øverst på tastaturplaten sitter det hurtigtaster for blant annet lyd, lys og mediavspilling på F-tastene. 
+Disse aktiveres ved å holde nede fn-tasten nederst. 
+
+Før vi gjør oss ferdig med tastaturet må vi bare få understreke at det er svært fast og fint, og avgir minimalt med støy under bruk. 
+Dette oser det kvalitet av! 
+
+Pekeplaten er bred og multiberøringsfølsom, med integrerte felt for venstre- og høyreklikking. 
+De lager litt klikkelyd, men temmelig diskre. 
+
+Det som er litt mer spesielt er «discolysene» på hver side nederst, som blinker i takt med musikk og actionscener. 
+Sikkert mange som vil synes slikt er tøft, men særlig funksjonelt er det ikke. 
+
+Svært god skjerm 
+
+Men det er mer her som oser av kvalitet. 
+Skjermen er kanskje testens beste, med full HD-oppløsning og svært god innsynsvinkel fra alle kanter. 
+Både fargegjengivelse og lysstyrke er helt i toppklassen, men på batteridrift fant vi noen ganger det nødvendig å justere opp lysstyrken litt i forhold til standarden. 
+
+De integrerte høyttalerne merket BeatsAudio mangler imidlertid litt bass, noe som kan fort bli et savn i film og spill. 
+Koble til hodetelefoner eller eksterne høyttalere for å bøte på det. 
+
+Slik er den i bruk 
+
+Maskinen er svært tynn, og muligens er det lite plass til passive kjøleløsninger, for viftene i denne PC-en går mer eller mindre konstant. 
+Det betyr at du må leve med litt susing, selv når maskinen bare brukes til lette oppgaver. 
+Noen ganger spinner viftene opp uten at vi helt skjønner hvorfor. 
+Det er ikke direkte skjemmende, for støynivået er gjenerelt lavt, men helt optimalt er det ikke, synes vi. 
+
+Maskinen er bra konfigurert, og kommer med prøveversjoner av Microsoft Office og en sikkerhetspakke fra McAfee. 
+Sistnevnte gjør dessverre litt for mye av seg, med irriterende sprettoppbokser i tide og utide. 
+Om du skulle få lyst til å avinstallere denne begrensede prøveversjonen, er det greit å vite at Windows Defender, som allerede ligger i operativsystemet og er gratis, byr på relativt god sikkerhet uansett. 
+
+Den er også utstyrt med en god del HP-programmer som helt eller delvis overlapper standard Windows-funksjonalitet. 
+
+Når det er sagt er maskinen svært raskt. 
+Den starter opp på få sekunder, og nær sagt alt du normalt vil utføre på en PC går unna i rakettfart. 
+Det er to åpenbare årsaker til dette, den første heter Intel Core i7-4710HQ, og er PC-ens svært kraftige prosessor. 
+Vi får et enda litt høyere ytelsestall i Passmark på prosessoren i denne PC-en enn i de to andre, selv om det er den samme som sitter i alle tre: 
+
+Den andre årsaken er SSD-en. 
+Den er rett og slett svært rask, og klart raskere enn den som sitter i Multicom-maskinen og mange ganger raskere enn harddisken i Toshiba Qosmio X70. 
+Med lesehastigheter på godt over 600MB i sekundet og skrivehastigheter på godt over 500, blir det minimalt med venting: 
+
+Men så kommer det store spørsmålet: 
+Er 256 GB nok lagringsplass for en seriøs gamer? 
+Vi er litt i tvil, og hadde nok foretrukket det dobbelte - eventuelt at det var plass til en harddisk/SSD til, som i Multicom Kunshan P651S. 
+
+Spillytelsen er også temmelig god, selv i full HD-oppløsning, noe denne videoen fra ytelsesprogrammet Catzilla demonstrerer. 
+Vi understreker at dette er svært krevende scener: 
+
+Sammenlig gjerne med tilsvarende videoer fra testene av Multicom Kunshan P651S og Toshiba Qosmio X70. 
+
+Hvis vi tallfester spillytelsen ved hjelp av Passmark Performance Test, ser vi at den plasserer seg i midten i dette selskapet: 
+
+Hva så med batteritiden? 
+Vi tester alltid PC-ene i to omganger, én med minimal belastning - kun tilknyttet det trådløse nettet, og én med kontinuerlig videoavspilling i 720P. 
+Et normalt bruksmønster vil resultere i en batteritid som ligger mellom disse, noe som skulle tilsi rundt 3,5 timer for HP Omen. 
+Det er litt bak de to andre - og riktig nok tyngre maskinene i denne testen. 
+Vi må legge til at HP antyder rundt 7 timer, så vi utelukker ikke at det kan være noe spesielt med vårt eksemplar som trekker ned tiden. 
+Vi kjørte testene flere ganger. 
+
+Konklusjon 
+
+Den tynneste og letteste av de tre, og etter vår mening den lekreste, er sylferske HP Omen. 
+Maskinen byr på en glimrende full HD berøringsskjerm og testens raskeste SSD og prosessor. 
+Spillytelsen er også meget god til det aller meste, og får derfor en solid femmer på terningen. 
+Sjekk plussene og minusene i boksen under før du bestemmer deg. 
+
+Tilbake til testforsiden eller les om de to andre PC-ene i testen, Toshiba Qosmio X70 og Multicom Kunshan P651S 
+
+HP Omen 15-5000no 

@@ -1,0 +1,86 @@
+HP Compaq nx9010
+Det hører med til sjeldenhetene at de rimeligste bærbare PCene kommer med Windows XP Professional installert, men så er altså tilfelle med HP Compaq nx9010. 
+De øvrige spesifikasjonene kan tyde på at du totalt sett får temmelig mye for pengene her. 
+
+Med XP Professional installert aner vi at målgruppen for denne PCen først og fremst er bedriftsmarkedet. 
+Likevel er prisen så lav som 10.495 kroner inkl mva - det er oppsiktsvekkende, for spesifikasjonene for øvrig er ikke til å kimse av: 
+
+LES OGSÅ: 
+
+Intel Celeron prosessor, 2.4 GHz 
+
+30 GB harddisk 
+
+256 MB minne 
+
+Kombinert DVD-leser/CD-brenner 
+
+15" TFT-skjerm (aktiv matrise), oppløsning 1024 x 768 punkter 
+
+IR-port 
+
+56 Kb modem 
+
+10/100 Mbit nettverk 
+
+Firewire-port 
+
+3 stk USB 2.0-porter 
+
+Diskettstasjon 
+
+Innebygde JBL-stereohøyttalere 
+
+I tillegg finner du selvsagt en VGA-utgang for tilkobling av ekstern skjerm, samt en parallellport for tilkobling av eldre utstyr (skriver, skanner etc). 
+
+Først og fremst kontor 
+
+Grafikkløsningen er med på å understreke at dette først og fremst er en bedrifts-PC. 
+Selv om ATI Radeon-brikkene har ry på seg å være av den kjappe sorten, har denne PCen en integrert løsning som "låner" internminne fra PCen, og som ikke egner seg særlig godt til 3D-spill. 
+Til 2D-applikasjoner (inkludert video/DVD) er den derimot mer enn kraftig nok til å unngå hakking. 
+
+Likevel er det ikke til å stikke under en stol at utstyrsnivået er høyere enn du vanligvis finner på typiske kontor-PCer i denne prisklassen. 
+
+PCen er derimot helt klart ikke myntet på den mest mobile del av befolkningen, med en relativt høy vekt (3,5 kg). 
+Innpakningen er dessuten utelukkende i plast, noe som heller ikke er veldig gunstig under transport - der støt og slag kan forekomme. 
+Vi utførte noen trykktester på lokket, og merket raskt forstyrrelser i skjermbildet. 
+Tunge gjenstander på dette lokket vil sannsynligvis raskt kunne skade skjermen. 
+
+Tastaturet gir vi gode skussmål - det er relativt stort, og spesialtaster er logisk plassert. 
+Pekeplaten har et scrollefelt til høyre, og ved hjelp av et muse-styreprogram kan du legge mange funksjoner inn i selve pekeplaten, som for eksempel å åpne et spesielt program ved å tappe med pekefingeren i høyre hjørne. 
+Finurlig løsning, og helt sikkert nyttig for noen. 
+
+PCen leveres med Windows XP Professional, og du får blant annet også med Norton AntiVirus, Intervideo WinDVD (DVD-avspilling) og Roxio Easy CD Creator (CD-brenning). 
+Når du starter PCen første gangen får du spørsmål om du foretrekker norsk eller engelsk versjon av Windows. 
+Deretter begynner den automatiske installasjonen, og minutter senere er du klar til å begynne jobben. 
+Raskt og smertefritt. 
+
+Vifter 
+
+PCen er utstyrt med flere vifter, og etter en tids bruk eller ved litt tyngre oppgaver (kalkulasjoner, spill, multimedia) begynner minst en av disse å gå kontinuerlig. 
+Ved litt tyngre operasjoner blir støynivået fra viftene ganske fremtredende, og sjenerende nok til at vi ikke vil anbefale denne PCen til deg som planlegger å bruke PCen på "stille" steder (lesesal, soverom etc). 
+Den egner seg bedre i travle kontorlokaler, der viftestøyen drukner i lyden fra kolleger, telefoner og kontormaskiner. 
+
+Ytelsestestene 
+
+Hva så med ytelsen? 
+Vi var svært spent på hvordan de nye, kraftige Celeron-prosessorene kommer ut i forhold til Pentium M/Pentium 4/Athlon, samt om grafikken var kraftigere enn vi først antok. 
+Etter diverse tester kan vi slå fast at denne Celeron-prosessoren gir omtrent samme ytelse som en 1,7 GHz-utgave av Pentium 4-prosessoren, eller Athlon XP 1800+. 
+
+Grafikkløsningen viste seg å være noe tregere enn den integrerte Intel Extreme-løsningen som sitter i mange Centrino-baserte bærbare PCer myntet på bedriftsmarkedet. 
+Grei nok til det meste, men for svak til 3D-spill. 
+
+Med andre ord byr ikke denne PCen på de råeste løsningene, men det hadde vi heller ikke ventet til denne prisen. 
+Til kontorprogrammer, film og musikk derimot, duger den absolutt meget bra. 
+Vi ser likevel grunn til å bemerke at litt mer minne hadde vært å foretrekke, spesielt dersom du ofte jobber med flere oppgaver/programmer samtidig. 
+Du kan maksimalt utstyre denne PCen med 1 GB minne, som skulle holde til det meste... 
+
+Batteriet ga opp etter 2 timer og 14 minutter i vår levetidstest. 
+Det er heller ikke veldig mye å skryte av, men er med på å understreke at denne PCen passer best på et kontor der stikkontakten alltid er innen rekkevidde. 
+
+Trykk på Tekniske data i oppsummeringsboksen for detaljer omkring ytelse og fysiske egenskaper. 
+
+Konklusjon 
+
+HP Compaq nx9010 er absolutt en bra kontor/student-PC, og utstyrsnivået er faktisk svært høyt med tanke på den lave prisen. 
+Kan du leve med litt viftestøy, og først og fremst er ute etter en PC til bruk på kontoret, er sjansene meget gode for at du blir tilfreds med denne PCen. 

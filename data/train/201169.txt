@@ -1,0 +1,84 @@
+AOC i2353
+Superslank skjerm med godt panel og lav pris. 
+En vinner? 
+
+AOC er et "gammelt" skjermmerke, da de store kassene rådde grunnen var de høyst tilstede også her til lands. 
+I senere år har de ikke vært framme i lyset i like stor grad, men har i dag god distribusjon hos de aller fleste forhandlere og kjeder. 
+
+Vi har fått låne en AOC i2353 (den går også under betegnelsen I2353Fh) til test, og fikk umiddelbart et svært positivt inntrykk. 
+
+Egenskaper 
+
+Akkurat navnet er ikke noen informasjonsbærer som skaper det store visuelle inntrykket, men det er altså snakk om en 23-tommers skjerm som er ekstremt tynn. 
+
+Spesifikasjoner 
+
+Størrelse: 23”Skjermdiagonal: 
+58.4cmSkjermformat: 16:9Paneltype: 
+IPSFargedybde: 
+6bitLysstyrke: 250 cd/m² (typ)Statisk kontrast: 1000:1Punkttetthet: 0.265(H) x 0.265(V)Betraktningsvinkel: 
+178° / 178°Grå til grå responstid: 
+5msOppløsning: 1920 x 1080 @ 60HzTilkoblinger: 2x HDMI, 1x VGAStrømforsyning: 90~240VAC, 50/60HzStrømforbruk: 
+Standby: 0,5 watt, Av: 0,3 watt, typisk: 
+25 wattVekt: 2,9 kg 
+
+Det første vi reagerte på da pakken kom var vekten, den var jo fnugglett! 
+Det neste som gjorde inntrykk var den ytterst beskjedne tykkelsen på skjermen - vi snakker om 9 millimeter. 
+
+Foten er rund, og det eneste som kan justeres er vippen, altså vinkelen sett fra siden. 
+Høydejustering eller dreieskive finnes ikke. 
+
+Høyden fra bordplate til nederst på selve skjermbildet er 11 cm og dybden fra front til bak på foten er 18,7 cm. 
+
+Bildekvalitet 
+
+Skjermen har et e-IPS-panel, som gir praktisk talt samme fargegjengivelse uansett betraktningsvinkel. 
+Den er oppgitt til 178 grader, som betyr at du kan se fra kanten og langs skjermen og likevel se riktige farger. 
+På en skjerm med TN-panel, som har vært det vanlige på billige skjermer de siste årene, blir fargene forvrengt så snart du flytter deg til siden eller reiser deg opp. 
+
+De nye IPS-skjermene som vi nå ser i rimelige skjermer har noe mindre fargedybde enn de dyre IPS-skjermene som proffene og de krevende brukerne har brukt. 
+Forskjellen ligger i oppløsningen til panelene, som er 6 bits hos e-IPS og 8 bits hos IPS. 
+Det betyr at fargevalørene ikke blir like mange som på dyre IPS-paneler, de kan ikke vise 16,8 millioner farger. 
+
+Men produsentene har et triks i ermet, som heter FRC (Frame Rate Control). 
+Det innebærer at de svitsjer signalet til bildepunktene mellom intensitetsnivåer, slik at øyet oppfatter lyset som midt i mellom. 
+Dette kan gi forstyrrelser i bildet, men teknikken har blitt videreutviklet og justert og heter i dag A-FRC, hvor A'en står for "Avansert". 
+
+Og resultatet er for de aller fleste brukere helt utmerket, selv om man vil kunne se forskjeller hvis du har to forskjellige skjermtyper ved siden av hverandre. 
+For fotoentusiaster bør man nok ta en runde med kalibreringsutstyr for å få best mulig resultat. 
+
+På denne skjermen var det ingen forstyrrelser å se, verken flimmer eller tendenser til bånd i forløpninger. 
+
+Skjermoverflaten er behagelig matt, og du får derfor ingen problemer med reflekser. 
+
+Vi vil karakterisere skjermbildet som nøytralt og behagelig, de som liker overdrevne farger og ekstrem intensitet vil ikke bli like begeistret. 
+
+Etterslep var ikke synlig, det er oppgitt til mindre enn 5 ms. 
+
+Betjening og tilkobling 
+
+Betjeningen skjer med berøringsfølsomme merkede felt på foten, det er ingen brytere som sier klikk eller på annen måte gir fingerfølelse. 
+
+Menyene er oversiktlige og betjeningen er selvforklarende. 
+
+Tilkoblingene er i bakkant av foten, noe som er praktisk når det skal kobles, men tar ekstra plass. 
+HDMI-kabler tar vanligvis mindre plass enn de eldre kabeltypene, og man får jo også vinklede kontakter og overgangsplugger. 
+
+Vi liker at det er to HDMI-innganger og VGA, det gir stor fleksibilitet. 
+
+Det er også en lydinngang på minijack, for å bruke de interne høyttalerne når man bruker VGA.tilkoblingen og ikke får lyd via HDMI. 
+Vi hadde foretrukket at det heller var en utgang til hodetelefoner. 
+
+Høyttalerne sitter på hver side av foten, og har svært begrenset lydkvalitet. 
+
+Strømforsyningen er ekstern. 
+
+Konklusjon 
+
+AOC i2353 er en svært tiltalende skjerm både som konstruksjon og bildemessig. 
+Vi liker det svært slanke designet, den lave vekten matte overflaten, e-IPS panelet og løsningen med 2 HDMI-tilkoblingene. 
+
+Er du opptatt av gode farger er denne absolutt å anbefale framfor TN-skjermer. 
+Prisen burde ikke være noen hindring. 
+
+AOC I2353FH 

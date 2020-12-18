@@ -1,0 +1,90 @@
+Acer Aspire 5750
+Har det aller meste, og ikke minst en behagelig prislapp. 
+
+Aspire 5750 dukket opp allerede i vår, og som seg hør og bør i en rekke forskjellige konfigurasjoner. 
+Felles for dem alle er at de har samme kabinett, 15,6-tommer skjerm og vekt på rundt 2,6 kg. 
+Samtlige er også basert på siste generasjon Intel brikkesett og prosessorer, "Sandy Bridge". 
+
+Utgaven vi har sett nærmere på har vi fått låne fra Komplett.no, og grunnen til at vi ville se nærmere på den er at den skal selges for 3.990 kroner fra og med i dag. 
+Det gjør den til en av de aller billigste PC-ene vi har sett som er basert på den relativt kraftige Intel Core i5-2410M-prosessoren - og - for ikke å glemme, som også byr på USB 3.0-tilkobling. 
+
+Her får du en rask oversikt over de viktigste egenskapene: 
+
+15,6" blank skjerm, 1366 x 768 piksler Intel Core i5 2410M-prosessor (2,3 GHz) 
+4 GB DDR3 minne (max 8) 500 GB harddisk (5400 rpm) 
+Intel HD Graphics 3000 integrert grafikk DVD-brenner for alle formater Kortleser for SD/MS/XD-minnekor VGA og HDMI skjermutganger Trådløst nettverk b/g/n Gigabit Ethernet 2 x USB 2.0-porter + 1 x USB 3.0-port Windows 7 Home Premium 64 bits Mål: 38,2 x 25,3 x 3,3 cm Vekt: 
+2,6 kg Pris: 3.990 kroner inkl mva (Komplett.no 19.9.2011) 
+
+En kjapp titt på Prisjakt.no avslører at dette er typisk spesifikasjon på maskiner som koster fra 4500 kroner og oppover, mens man kan finne modeller med enklere Core i3-prosessorer i samme prisleie. 
+De færreste har imidlertid USB 3.0-port, som er en høyhastighetsstandard for blant annet ekstern lagring, som byr på mangedoblet hastighet i forhold til USB 2.0. 
+
+Eksteriør uten fettflekker 
+
+Kabinettet på denne PC-en er gjennomgående av plast. 
+Maskinen er ikke så oppstivet som X53-serien fra Asus, som har et aluminiumslag på innsiden, men konstruksjonen kjennes likevel helt kurant ut. 
+
+En ting vi liker godt er at den matte overflaten ikke skjemmes av fingeravtrykk, som så mange andre PC-er med speilblank overflate. 
+Dette er ikke noen bling-bling-PC, men først og fremst et arbeidsredskap. 
+I tillegg til et anonymt ytre er den også rensket for hurtigtaster, som erfaringsmessig sjelden brukes likevel. 
+
+Skjermen er imidlertid blank, ikke alle liker dette, men det er slik PC-skjermene er på de fleste PC-er i dag. 
+Oppløsningen på 1366 x 768 er også å finne på alt av modeller i denne prisklassen, du må opp flere tusenlapper for å få noe høyere. 
+For de fleste i målgruppen vil dette neppe være et savn. 
+
+Alle tilkoblingene sitter lett tilgjengelig på sidene. 
+Minnekortleseren sitter i fronten til venstre. 
+
+Tastaturet er fast og fint, bare med en liten anelse svikt mot siden. 
+Enter-tasten går over to linjer, helt eksemplarisk. 
+Det avgir dessuten lite støy under skriving. 
+
+Men merk at det er av typen der tastene står opp fra tastaturplaten. 
+Det betyr at smuler og rusk og rask kan komme under tastene, og dermed ikke er like enkelt å fjerne som på tastaturet der tastaturplaten omslutter hver tast - for eksempel på den omtalte Asus-modellen. 
+
+I bruk 
+
+Første gang du starter PC-en må du gjennom en veiviser som tar deg gjennom oppsettet. 
+Hele prosessen tok rundt 20 minutter, og så var maskinen klar til bruk. 
+Det er ikke uvanlig at denne prosessen tar så lang tid, men det er flere av konkurrentene som har vesentlig raskere oppsett enn dette. 
+
+Som vanlig får du en haug med programmer du ikke nødvendigvis kommer til å bruke, så en liten gjennomgang med tilhørende avinstalleringer er ikke dumt. 
+Men når det er sagt, maskinen er responsiv og rask, og det virker som om Acer har gjort en bra jobb med å optimalisere oppsettet sitt. 
+
+Maskinen er også svært stillegående, og selv ved moderat belastning er viften knapt hørbar. 
+Dette er blant de stilleste Acer-modellene vi har testet, og vi kan først og fremst takke den strømgjerrige Core i5-prosessoren med integrert grafikk for det. 
+
+Og selv om det er integrert grafikkløsning, er ytelsen mer enn tilfredsstillende til alt av video- og 2D-materiale, i alle oppløsninger, inkludert full HD på ekstern skjerm. 
+Den integrerte grafikken svetter først når den blir satt til kverne høyoppløste actionscener i nye, grafikkintensive spill i rasende fart. 
+Det går rett og slett dårlig. 
+Er det et mål for deg å gjøre denslags på PC-en, bør du se en annen vei. 
+
+Windows egen opplevelsesindeks gir oss følgende indikasjon på ytelsen: 
+
+I tabellen under har vi tatt utgangspunkt i prosessor- og grafikkytelsen til denne PC-en, og sammenlignet mot det som sitter i andre PC-er i 4000-kroners klassen. 
+Som du ser, har den lite å skamme seg over. 
+
+Ytelsestallene er hentet fra Passmark Performance Test 7.0. 
+Først prosessorytelse: 
+
+Deretter grafikkytelse: 
+
+Hva så med batterilevetiden? 
+Vi kjørte som vanlig testen med to forskjellige scenarier i tankene: 
+Først en runde med minimal belastning, deretter en runde med kontinuerlig HD-videoavspilling i Windows Media Player. 
+
+Med minimal belastning holdt batteriet ut i 5,5 timer. 
+Ved videoavspilling holdt det ut i 3,5. 
+Det skulle tilsi en batterilevetid på rundt 4,5 timer med blandet bruk. 
+Det er ikke eksepsjonelt, men absolutt godkjent for en maskin i lavprissegmentet. 
+
+Konklusjon 
+
+Det spørs om du finner noe bedre PC-tilbud til under 4.000 kroner akkurat nå, de er det i hvert fall ikke mange av. 
+Denne PC-en er et flott arbeidsredskap for deg som er ute etter noe som byr på høy ytelse i programmer uten å bråke, og uten at du må betale i dyre dommer. 
+
+5750 er ikke noe stilikon, heller ikke noe førstevalg for spillentusiaster - men bryr du deg ikke om slikt får du en PC som fikser alt annet av oppgaver til hjem, skole og jobb, raskt og støyfritt. 
+Og det er vel ikke så verst attest? 
+
+Takk til Komplett.no for utlån av PC-en 
+
+Acer Aspire 5750-2414G50Mnkk (LX.R9702.115) 

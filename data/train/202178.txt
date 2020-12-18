@@ -1,0 +1,159 @@
+TEST:Apple MacBook Air 13" (2014-utgaven) 
+
+Holder stand som den beste bærbare Mac-en for folk flest. 
+
+Fjorårets MacBook Air ga oss bakoversveis. 
+Batteritiden på nesten 12 timer var det meste vi noensinne hadde målt ved en videoavspilling, og svært imponerende for en så tynn og lett bærbar. 
+Vi ga den en sekser på terningen. 
+
+Liten oppgradering 
+
+2014-utgaven av MacBook Air kommer med usedvanlig få nyheter sammenlignet med fjorårets modell. 
+Det eneste som er annerledes er en litt raskere Intel Core i5-prosessor, opp fra 1,3GHz til 1,4GHz. 
+
+Prisen har riktignok også gått 100 kroner ned for den billigste og dyreste standardkonfigurasjonen. 
+
+MacBook Air kommer nemlig i fire ulike standardversjoner, to med 11,6-tommers skjerm og to med 13,3-tommers skjerm. 
+Den koster fra 7.690 kroner, og det er etter vår kjennskap laveste pris på en bærbar Mac noensinne. 
+
+Med så få nyheter gjør vi ikke en fullstendig ny test i denne omgang, men vi har undersøkt hva slags forskjell den nye prosessoren utgjør. 
+
+Aller først tar vi en kjapp gjennomgang av de viktigste tekniske egenskapene til vårt testeksemplar: 
+
+Skjerm: 13,3" LED-bakbelyst, 1.440 x 900 piksler 
+
+Prosessor: tokjerners 1,4 GHz Intel Core i5 
+
+RAM: 
+4 GB (8 GM er maks) 
+
+Grafikkort: 
+Intel HD Graphics 5.000 
+
+Lagring: 256 GB SSD 
+
+Optisk drev: 
+Nei 
+
+Skjermutganger: 
+Thunderbolt 
+
+USB-porter: 2x USB 3.0 
+
+Webkamera: 
+720p 
+
+Kortleser: 
+SDXC 
+
+Trådløst nett: 
+802.11ac 
+
+Kablet nett: 
+Nei 
+
+Annet: 
+Bluetooth 4.0 
+
+OS: 
+Mac OS X 
+10.9.3 
+
+Størrelse: 32,5 x 22,7 x 0,3-1,7 cm 
+
+Vekt: 1,35 kg 
+
+Pris: 10.190 kroner 
+
+... men fortsatt like bra 
+
+Hvis det ikke er ødelagt, hvorfor fikse det? 
+Til tross for få endringer er nyeste MacBook Air fortsatt en av de aller beste bærbare datamaskinene du får kjøpt. 
+
+Ikke mange andre pc-produsenter tilbyr en like bra totalpakke. 
+Vi snakker flott design, solid byggkvalitet, god ytelse og topp brukervennlighet. 
+
+MacBook Air føyer seg inn i rekken av Apple-produkter som har blitt designklassikere. 
+Den er elegant som få. 
+Selve kabinettet er fortsatt av børstet metall fra innerst til ytterst, av typen som ikke viser fingeravtrykk eller fettflekker. 
+
+Den slanke formfaktoren gjør at maskinen er sparsommelig utstyrt med tilkoblinger. 
+Du har to USB 3.0-porter, en minijack med kombinert lyd ut/inn, kortleser for SD-kort, samt en kombinert Mini DisplayPort/Thunderbolt-utgang. 
+Sistnevnte er en høyhastighets kommunikasjonsport mot eksternt utstyr, deriblant lagringsenheter og skjerm. 
+
+Av praktiske årsaker skulle vi ønske maskinen også hadde en HDMI-utgang, eller i det minste en overgang fra Mini DisplayPort til HDMI. 
+Dette må du eventuelt gå til innkjøp av selv. 
+Husk imidlertid at det også er mulig å sende bildet trådløst til en Apple TV dersom du har en slik koblet til TV-en. 
+
+God design er mer enn bare utseendet. 
+Noe av det beste med en bærbar Mac er at strøminntaket holder pluggen på plass ved hjelp av en magnet. 
+Skulle noen være så uheldig å snuble i kabelen, er sjansen minimal for at noe blir ødelagt, og det vil eventuelt alltid skje i kabelen og ikke inni maskinen. 
+
+Styreflaten er i en klasse for seg selv. 
+Den er behagelig å bruke, utrolig responsiv og støtter en lang rekke fingerbevegelser som lar deg bruke maskina på en effektiv måte uten mus. 
+Er du ny på Mac, bør du gå inn i Systemvalg > Styreflate for å lære deg dem. 
+
+Det bakbelyste tastaturet er blant de aller fasteste og beste vi har testet. 
+Det avgir litt lyd under tasting, men ikke mye. 
+
+Fortsatt ikke full HD-skjerm 
+
+Apple har beholdt samme skjerm som hos forløperen. 
+Den er ganske lyssterk, har god fargegjengivelse og en helt grei innsynsvinkel. 
+Selv om skjermoverflaten er blank, er ikke refleksjoner et altfor stort problem. 
+For de fleste vil den være mer enn god nok. 
+
+Men oppløsningen er fremdeles 1.440 x 900 piksler. 
+Vi etterlyste HD-oppløsning forrige gang, og ønsket er ikke noe mindre nå, spesielt ikke siden konkurrentene er i ferd med å ta steget videre fra full HD, altså 1.920 x 1.080. 
+
+Samsung ATIV Book 9 kommer for eksempel med en skjermoppløsning på hele 3.200 x 1.800 piksler. 
+
+Så var det ytelsen ... 
+
+100 MHz raskere prosessor, merkes det? 
+I rene ytelsestester, ja. 
+Men i vanlig bruk vil du neppe merke forskjell. 
+Da vi sammenlignet den med fjorårets modell, oppdaget vi imidlertid noe interessant med SSD-ytelsen. 
+Til noen diskrelaterte oppgaver var den faktisk litt tregere. 
+
+For eksempel kopierte vi en 1,67 GB stor mappe med 2067 dokumenter fra en Thunderbolt-disk, og på 2013-utgaven tok det 12,96 sekunder, mens det på 2014-utgaven tok 13,65 sekunder. 
+
+Så komprimerte vi samme mappe til en zip-fil, noe som tok 50,67 sekunder på 2013-maskinen, og 59 sekunder på 2014-maskinen. 
+
+Vi er ikke alene om denne erfaringen. 
+Macworld USA har også gjort samme funn. 
+Ifølge MacRumors er problemet at Apple benytter seg av flere leverandører av SSD-er, og de leverer ulik ytelse. 
+
+Men hva med batteritiden? 
+
+Fjorårets MacBook Air hadde som nevnt ekstremt god batteritid. 
+De gode nyhetene er at årets modell er intet unntak. 
+Vi kjørte vår sedvanlige 720p-testvideo som vi har kjørt i hundrevis av PC-tester, om og om igjen i iTunes, til batteriet gikk tomt. 
+Det tok sin tid. 
+
+Hele 12 timer og 39 minutter tok det før maskinen omsider sluknet. 
+Det er nesten tre kvarter mer enn fjorårets modell, og rundt 40 minutter mer enn hva Apple selv oppgir. 
+Imponerende. 
+Ved variert bruk skal det være fullt mulig å skvise ut enda mer ... 
+
+Konklusjon 
+
+Med samme lekre, slanke design, gode ytelse og fantastiske batteritid, er årets MacBook Air fremdeles et svært godt kjøp. 
+Det eneste vi virkelig savner nå er en skjerm med HD-oppløsning. 
+Noen synes sikkert også at det er på tide at Apple frisker opp utseendet litt bare for forandringens skyld. 
+
+Ifølge ITavisen ryktes det at Apple har planer om å slippe en 12-tommer Air med høyoppløst Retina-skjerm og ny design senere i år, så da kan det være at begge disse ønskene blir oppfylt. 
+
+Da kan det også være grunn til å vente med å kjøpe. 
+Hvis du eier fjorårets MacBook Air, er det etter vår mening ingen grunn til å oppgradere nå. 
+Spesielt ikke med tanke på den varierende SSD-ytelsen. 
+
+Hvis du er ute etter en jevnt over god, portabel og ikke minst brukervennlig bærbar datamaskin, kan vi imidlertid varmt anbefale MacBook Air. 
+
+Det finnes imidlertid flere gode Windows-alternativer. 
+Blant de beste er Samsung ATIV Book 9, som også har svært bra batteritid, for å ikke snakke om en langt mer høyoppløselig skjerm. 
+HP Spectre 13 er også en god kandidat som scorer høyt på de fleste punkter. 
+
+Les også flere av våre tester av bærbare pc-er før du eventuelt gjør et kjøp. 
+
+Apple MacBook Air - 1,4GHz DC 4GB 256GB 13" 

@@ -1,0 +1,103 @@
+MSI GT680R
+Denne maskinen har omtrent alt av utstyr, og er den klart råeste maskinen vi har testet noensinne. 
+
+Du får en helt OK bærbar PC i dag til 5000 kroner, som kan gjøre det aller aller meste. 
+Men hvis du er opptatt av spilling og skjermer med høy oppløsning, øker prisene raskt. 
+Og de mest kompromissløse bærbare når det kommer til ytelse, koster gjerne rundt 15000 kroner. 
+
+GT680R er en slik maskin. 
+Den har spesifikasjoner vi aldri har hatt maken til på testbenken i DinSide. 
+Hør bare her: 
+
+15,6" blank LED-baklyst skjerm, 1920 x1080 piksler (full HD)Intel Core i7-2630QM prosessor (fire kjerner)16 GB RAMNvidia Geforce GTX 460M grafikkort (1,5 GB GDDR5)2 x 750 GB harddisker i RAID 0 for økt ytelseBlu-ray leser / DVD-brennerWebkamera med HD-oppløsning (720P)Gigabit nettverkTrådløst nettverk (G/B/N)Bluetooth V2.1+EDR2 USB 3.0-porter + 2 USB 2.0-porterHDMI- og VGA-utgangereSATA-kontakt9-cellers batteriWindows 7 Ultimate Edition, 64-bits39,5 x 26,7 x 5,5 cm3,5 kg 
+
+MSI selv hevder at dette er den raskeste bærbare PC-en som er laget, noensinne. 
+
+Fartspreg 
+
+Og designen er alt annet enn ulv i fåreklær. 
+Dette er definitivt ikke en PC for deg som ikke ønsker å skille deg ut. 
+Detaljer ved knapper og fargevalg får oss til å tenke i Ferrari-baner, men MSI har ikke noen forbindelser dithen, slik Acer har hatt en stund. 
+
+Ved nærmere undersøkelser er det imidlertid en del ting som tyder på at MSI har brukt mesteparten av utviklingsbudsjettet på innmaten. 
+Innpakningen er nemlig fri for metall, her er kun brukt plast både i lokk og rundt tastaturplate. 
+Dette kan nok forsvares med at den som kjøper en slik PC ikke først og fremst er opptatt av mobilitet, med tilhørende robusthet. 
+
+Ikke bra tastatur 
+
+Vi stiller imidlertid et stort spørsmålstegn ved tastaturet. 
+Det er av chicklet-typen der tastene er isolert fra hverandre. 
+I utgangspunktet liker vi disse, de er blant annet enkle å rengjøre. 
+Men dette tastaturet er vi totalt sett mindre imponert over. 
+Det er en viss svikt i det, og vesentlig mer støy fra tastene på venstre side enn fra høyre. 
+I tillegg er Enter-tasten så liten at vi til stadighet trykker tasten over, og får apostrof-tegnet i hytt' og' vær' i teksten. 
+
+Enkelte taster, deriblant >< er plassert andre steder enn normalt, fordi andre taster tar stor plass, for eksempel venstre shift-tast, som er 50% bredere enn Enter-tasten. 
+Det har kanskje noe med gaming å gjøre? 
+Ikke vet vi. 
+Tastene W, A, S og D er i hvertfall merket med rødt, for spill der disse brukes som styretaster. 
+
+Konkurrenter, se hit 
+
+Den øvrige utformingen har vi langt mer sansen for, ikke minst at flere tilkoblingspunkter er plassert i bakkant, for eksmpel strøminntak, HDMI og VGA-utganger. 
+Slik skal det gjøres, MSI! 
+Få kablene unna veien. 
+Hadde lydtilkoblingene også vært plassert der, hadde alt vært perfekt, mener vi. 
+
+Skjermen er høyoppløst, og MSI har justert skriftstørrelsen opp med 25% for å bedre lesbarheten. 
+Har du normalt syn er det meningsløst, så her er det bare å justere tilbake via kontrollpanelet. 
+Skjermen er skarp og klar, men gjenskinnet kan være et problem i enkelte tilfeller: 
+
+De interne høyttalerne fra Dynaudio leverer bedre lyd enn det som er vanlig på bærbare PC-er, med god diskant og noe som minner om bass. 
+Vi blir imidlertid ikke helt overbeviste, og velger øreklokker og eksterne høyttalere til alt annet enn lav bakgrunnsmusikk eller radio. 
+
+Kjøling de luxe, men det høres 
+
+PC-en bør definitivt stå på et jevnt og hardt underlag, for å sikre god luftgjennomstrømning. 
+Og i likhet med Asus G73S, som henvender seg til samme publikum, er det lagt stor vekt på kjøling her. 
+Det er også fornuftig, men MSI har ikke klart å gjøre maskinen like stillegående som den nevnte Asus-en. 
+Viften går konstant, også under minimal belastning, men det er vår mening at et jevnt sus kan være bedre enn vifter som stadig endrer frekvens. 
+
+Om det er støyende? 
+Kommer helt an på situasjonen. 
+På senga, ja. 
+På gutterommet til høy musikk og spilling, definitivt ikke. 
+Men hvis du starter turbovifta, blir det nesten 99-kroners hårføner på full guffe-støy, men det gir jo samtidig et klart signal om at her er det kraftige saker som jobber. 
+
+Og det leder oss videre i testen, og til ytelsestestene. 
+Først tar vi en titt på Windows Opplevelsesindeks, der skalaen går fra 1 (svakest) til 7,9 (best). 
+I tabellen har vi sammenlignet med den Asus G73S: 
+
+Resultatene er altså identiske, takket være at prosessor og grafikkort er identiske, men Windows har blant annet ikke tatt høyde for RAID0-løsningen på MSI-en, som gir bedre lese- og skrive-ytelse enn på Asus-en. 
+
+Passmark Performance 
+Test gir oss et litt mer kjøtt på benet: 
+
+I diagrammet ser vi at MSI byr på vesentlig bedre minnehastighet og - ikke uventet - svært mye bedre lese- og skrive-ytelse på harddisken. 
+Hvis du heller ønsker 1,5 TB lagringsplass istedet for ekstrem ytelse, er det mulig ved å konfigurere RAID-oppsettet. 
+I klartekst betyr det at GT680R er den raskeste PC-en vi har testet, noensinne, og samtidig den best utstyrte. 
+
+Uansett om du velger den ene eller den andre; byr begge PC-er på ekstremt høy ytelse til allslags oppgaver, ikke minst gaming. 
+Tiden da seriøs gaming var forbeholdt store, stasjonære PC-er er definitivt over. 
+
+Et par timer på batteri 
+
+Men ingen spiller hele tiden, og hva om man ønsker å ta med seg GT680R på tur - hva kan man forvente av batteriet? 
+Vi målte først levetiden mens vi spilte en film i HD-oppløsning (720P) gjennom Windows Media Player. 
+Da var batteriet tomt etter 2 timer og 4 minutter. 
+
+Da vi på nytt målte levetiden uten belastning, holdt det ut i like over 3 timer. 
+Under normal belastning vil levetiden ligge et sted rundt 2,5 timer. 
+Dette er omtrent identisk med målingene vi gjorde på konkurrenten fra Asus. 
+Ikke veldig imponerende, men det er ikke først og fremst folk som jobber i felten som vil velge denne PC-en. 
+
+Konklusjon 
+
+Denne PC-en slår knock-out på alle konkurrentene vi har testet i gaming-segmentet, hva angår ytelse. 
+Er du ute etter en PC til spilling, vil du garantert bli mer enn tilfredsstilt. 
+Men det koster altså, prisen ligger på rundt 15000 kroner. 
+Og for den summen hadde vi satt pris på om MSI hadde gjort en litt bedre jobb med tastaturet, og kanskje også med kjølingen - som var hakket roligere på Asus G73S. 
+
+Totalt sett uansett en sterk femmer - men anbefalt-stempelet vårt for gamere er fortsatt forbeholdt Asus G73S, som er hakket mer helstøpt, mener vi, og også byr på 17" skjerm med 3D-støtte. 
+
+MSI GT680R-086NE 

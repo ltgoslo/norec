@@ -1,0 +1,92 @@
+Asus Transformer Book Trio
+Nettbrett, bærbar og stasjonær PC - i ett? 
+Jovisst det er mulig. 
+
+Asus hevder at deres nye Transformer Book Trio er den første "3 i 1-PC" på markedet. 
+Men hva mener de egentlig med det? 
+
+I utgangspunktet ser den ut som en vanlig, men litt tykk Windows-basert Ultrabook med 11,6" skjerm. 
+Men det er før du trykker på knappen over tastaturet og løfter av skjermen. 
+Da sitter du med to deler. 
+
+Skjermen forvandles til et Android-basert nettbrett, mens delen med tastaturet kan kobles til en skjerm på skrivebordet, og dermed fungere som en Windows-basert, stasjonær PC. 
+Dermed har du både nettbrett, bærbar PC og stasjonær PC - i ett. 
+
+Det er lite å utsette på kreativiteten hos Asus, i hvert fall. 
+
+Slik er eksteriøret 
+
+Til sammen er maskinen 23 mm tykk og veier 1,7 kg. 
+Det er temmelig mye sammenlignet med ultrabooks med samme skjermstørrelse, de ligger normalt på 1,1 kg eller deromkring. 
+
+Brettet alene veier 710 gram. 
+Det er litt mer enn de vanlige 10-tommerne, men her får du riktig nok litt større skjermplass å boltre deg på. 
+
+Skjermen er klar og lyssterk fra nær sagt død vinkel, og responderer fint og kontant på berøring, både i PC- og nettbrettmodus. 
+Den høye oppløsningen kommer virkelig til sin rett i miljøer som er optimalisert for det, som Android og "Metro" i Windows 8/8.1. 
+
+På det klassiske skrivebordet i Windows kan det være nødvendig å skru opp størrelsen på tekst og ikoner for å bevare lesevennligheten, noe som er gjort ved leveransen av denne maskinen. 
+
+Når brettet er dokket til tastaturdelen kan du enkelt svitsje mellom Android og Windows ved hjelp av en tast på tastaturet: 
+
+Det er altså ikke noe problem å bruke tastaturet og pekeplaten også når du jobber i Android-modus, om du skulle ønske det. 
+
+På innsiden - og forventet ytelse 
+
+Brettet og tastaturdelen har altså separat maskinvare som fungerer hver for seg. 
+
+Hvis vi ser nærmere på "tastaturdelen" først, er vårt testeksemplar utstyrt med en Core i5-4200U-prosessor, 4 GB RAM og 320 GB harddisk. 
+Operativsystemet er Windows 8. 
+Av andre egenskaper som er verdt å bemerke er støtte for Bluetooth 4.0 og den trådløse AC-standarden, som i teorien kan gi netthastigheter som kan måle seg med hva som tidligere kun var mulig via kabel. 
+
+Du får også to USB 3.0-porter samt mini DisplayPort og Micro-HDMI for tilkobling til ekstern skjerm. 
+
+Ytelsesmessig ligger PC-delen midt på treet i Ultrabook-segmentet. 
+Til alle "vanlige" PC-oppgaver er dette mer enn kraftig nok for de fleste av oss. 
+Grafikkytelsen er god nok for videoer i alle formater og oppløsninger, men kommer til kort i krevende 3D-spill og applikasjoner. 
+
+Harddisken er vesentlig tregere enn typiske SSD-er, og ligger også i nedre halvdel av andre harddisker vi har testet den siste tiden med rundt 70-75 MB pr sekund lesehastighet på det raskeste. 
+Den kan nok oppleves som en flaskehals ved lasting og skriving av store datamengder. 
+
+Litt vifteaktivitet må du påregne, PC-en er langt fra lydløs. 
+Nettbrettet er imidlertid tyst som en østers når det brukes isolert. 
+
+Nettbrettet er basert på en dobbelkjernet Intel Atom Z2560-prosessor på 1,6 GHz. 
+Dette er ikke av den aller siste Atom-generasjonen, men byr på grei ytelse til de fleste oppgaver, med unntak av de aller mest krevende spillene, da kan det nok hakke litt. 
+
+For øvrig kjører brettet Android 4.2 "Jelly Bean", altså ikke helt fersk Android-versjon (siste er 4.4). 
+Videre har brettet 2 GB RAM og 16 GB flashminne for lagring. 
+Trådløst må du her nøye deg med 802.11n og Bluetooth 3.0. 
+Nettbrettet har en del tilkoblinger direkte, som 1 micro-USB-port og microSD-kortleser og en minijack for lyd inn/ut. 
+
+Batteritiden på nettbrettet ligger på rundt seks timer ved variert bruk, noe som er godt bak de beste. 
+Men brukt som bærbar PC med Windows kan du forvente rundt 7-8 timer, som er temmelig bra. 
+
+Dette kan bli bedre 
+
+Det er mulig å få tilgang til harddisken fra Android-brettet, men ikke direkte. 
+Du må sette opp en trådløs forbindelse og mappedeling, og dette er forklart ved hjelp av animasjoner første gangen du klikker på Windows-disken i filbehandleren i Android. 
+Ikke noen optimal integrasjon, med andre ord. 
+
+Vi har også funnet noen flere ankepunkter. 
+Den første er at pekeplaten noen ganger "lugger", det vil si at man må gjenta en bevegelse fra tid til annen for at platen skal reagere. 
+
+Den andre er at vi har opplevd at brettet plutselig har aktivert Android-modus mens vi har jobbet i Windows. 
+Det har som regel vært knyttet til at vi har endret vinkelen på skjermen. 
+Det kan tyde på kontakttrøbbel mellom brettet og tastaturdelen, og kan selvfølgelig være en feil ved vårt eksemplar. 
+Men pekeplate-problemet har vi opplevd på to enheter, forhåpentligvis kan det rettes med oppdateringer av drivere. 
+
+Legg også til at vi har hatt problemer med å vekke skjermen fra dvale ved et par anledningen når den har stått dokket, et problem vi ikke har opplevd på rene Windows-PC-er på mange år. 
+
+Konklusjon 
+
+Asus Transformer Book Trio er nok et forsøk på å kombinere det beste fra nettbrett- og PC-verdenen i ett produkt. 
+Per i dag tilbyr Android et mye mer utbygd univers enn Windows på nettbrettsiden, ikke minst når det gjelder ekstrautstyr og apper, så kombinasjonen er ikke så dum. 
+
+Det er også enkelt å svitsje mellom Windows og Android, men totalt sett er løsningen langt fra kompromissløs. 
+
+Ankepunktene våre gjør oss usikre, og vi er derfor temmelig skeptiske til konseptet slik det står i dag. 
+
+Se våre plusser og minuser i boksen under før du eventuelt bestemmer deg for en Transformer Book Trio. 
+
+Asus Transformer Book Trio TX201LA-CQ002H 

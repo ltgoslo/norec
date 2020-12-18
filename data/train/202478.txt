@@ -1,0 +1,113 @@
+Multicom Compal PBL21
+Den ser kanskje anonym ut, men ikke la deg lure av maskinen med Intels nye og imponerende "Sandy Bridge"-prosessor. 
+
+Multicom er i skrivende stund den eneste norske PC-produsenten som har sin egen bærbare PC-serie. 
+I et stadig tøffere marked med til dels svært små marginer, har Multicom funnet sin nisje blant brukere som krever høy spillytelse og spesialegenskaper som ikke er så lett å finne i "mainstream"-segmentet. 
+
+Selskapet er også tidlig på banen med modeller basert på andre generasjon Intel Core-prosessor, og PBL21 er blant de første som blir tilgjengelig med en slik "Sandy Bridge"-prosessor, som både skal gi høyere ytelse og mindre strømbruk enn første generasjon. 
+
+Og det er ikke en hvilken som helst maskinkonfigurasjon vi snakker om, her har Multicom en meget god spekket maskin, der dette er noe av hva du kan boltre deg med: 
+
+15,6" LED-baklyst LCD-skjerm, 1920 x 1080 piksler (matt eller blank) Intel Core i7-2630QM "Sandy Bridge" prosessor, 4 x 2,0 GHz * 2 x 2 GB DDR3-RAM (maks 16 GB) 
+Nvidia Geforce GT 540M grafikkbrikke, 2 GB RAM 500 GB Hitachi harddisk, 7.200 rpm DVD-brenner for alle formater WLAN (b/g/n) 1,3 megapiksels webkamera 2 x USB 2.0 og 1 x USB 3.0 kontakter HDMI + VGA-tilkoblinger minnekortleser for SD/MMC/MS mic inn, linje ut lydutganger (minijack) 2-kanals HD-lyd Gigabit nettverk Multiberøringsfølsom pekeplate Kan leveres uten operativsystem med redusert pris 6-cellers batteri Størrelse: 37,6 x 24,9 x 3,49 (b x d x h) Vekt: 
+2,5 kg (* Erstattes av i7-2720QM 2,2 GHz i salg) 
+
+Det er flere ting som skiller denne PC-en fra den gemene hop. 
+Først og fremst har den en skjerm med full HD-oppløsning, noe som er høyst uvanlig i klassen for 15,6-tommere. 
+For det andre tilbyr Multicom deg å velge mellom matt eller blank skjerm. 
+For det tredje kan den leveres uten operativsystem. 
+I skrivende stund sparer du 600 kroner på å velge bort Windows 7 Home Premium, for eksempel. 
+
+Sylfersk vare 
+
+At PC-en også leveres med en USB 3.0-port, Nvidia Geforce GT 540M grafikkbrikke og siste generasjon i7-prosessor fra Intel, understreker at dette er noe av det ferskeste du kan få på PC-markedet akkurat nå - og noe av det kraftigste. 
+
+PC-en kan dessuten skreddersys i Multicoms egen PC-velger. 
+Der kan du for eksempel velge annen diskløsning, prosessor og minne, for å nevne noe. 
+
+Ulv i fåreklær 
+
+På utsiden er det imidlertid lite som minner om at dette i sannhet er en råtass. 
+Her er kun benyttet plast, oversiden er svart og helt blank (dessverre vises fingeravtrykk veldig lett), mens Multicom-merket under skjermen vises først når lokket er åpent. 
+
+Og i motsetning til nær sagt alt annet som kan krype og gå av modeller fra de store produsentene er PC-en kjemisk renset for klistremerker. 
+PC-en kan faktisk kjøpes helt uten operativsystem og programvare hvis du ber om det. 
+Det er en opsjon svært få av konkurrentene gir deg mulighet til. 
+
+Multicom satser dessuten kun på det norske markedet, så her får du norsk tastatur, uten de nordiske kombi-tastene med ÖØÆ og ÄÆØ som vi ser hos de fleste konkurrentene. 
+
+Tastaturet er av den klassiske typen der tastene ligger tett inntil hverandre. 
+Det er godt å skrive på, lager relativt lite lyd, og er akkompagnert av et numerisk tastatur til høyre. 
+
+Pekeplaten er sømløst integrert i chassiset, og under denne er en en vippeknapp for venstre- og høyreklikk. 
+Foruten av/på, bryter for WLAN i front og en strømbryter for USB-kontakter, er det ingen andre hurtigknapper eller andre spesialknapper. 
+Det hele er oversiktlig og greit. 
+
+I fronten sitter en minnekortleser og den nevnte WLAN-bryteren, mens alle tilkoblingspunktene sitter på siden, nærmest brukeren. 
+
+Slik Windows var tenkt å være 
+
+Vårt testeksemplar kom med Windows 7 Home Premium (64 bits) ferdig installert og konfigurert. 
+Vi må si at det var en sann befrielse å oppleve i praksis. 
+PC-en startet på 28 sekunder, og en mappe med drivere var det eneste som befant seg på skrivebordet. 
+
+Kjøper du en PC fra HP, Acer, Asus og de andre store produsentene, har du ikke noe valg - du får som regel med en haug med tilleggsprogrammer som du må forholde deg til, og som noen ganger kan være vrient å bli helt kvitt, mens du her står helt fritt til å installere kun det du trenger. 
+
+Flott med høyoppløst skjerm 
+
+Dette er den første 15,6-tommeren med full HD-oppløsning vi tester, og vi var svært spent på hvordan det ville være å jobbe med i praksis. 
+Normal oppløsning på denne størrelsen er 1366 x 768 piksler, mens denne altså har 1920 x 1080. 
+Det betyr at tekst og symboler blir mindre, men det opplevdes faktisk som midt i blinken for våre 39 år gamle øyne. 
+
+Fargene endrer seg når innsynsvinkelen passerer 50 cm den ene eller andre veien, men det er også helt vanlig. 
+Rett forfra er bildet sylskarpt, hvitt er hvitt og sort er sort, og alt i mellom ser bra ut. 
+
+Her er selvfølgelig mulighet å endre på skriftstørrelser og lignende dersom du synes det blir for smått, det kan du lese mer om i denne artikkelen. 
+
+Vårt eksemplar var utstyrt med blank skjerm, mens standardmodellen vil ha matt skjerm. 
+Det betyr langt mindre gjenskinn enn i vårt testeksemplar, noe som under mange lysforhold kan være en stor fordel. 
+
+Meget høy ytelse 
+
+Vi var spente på hva den nye i7-prosessoren kunne by på av ytelse, og vi ble ikke skuffet. 
+Til alle oppgaver knuste den alt av hva vi har testet tidligere. 
+Vi legger imidlertid til at de fleste modellene vi har testet før har ligget i lavere prisklasser. 
+
+Passmark gav oss resultatet 6713 på CPU-ytelse. 
+I tabellen under har vi sammenlignet med gjennomsnittsverdier fra prosessorer i andre PC-er som ligger i samme prisklasse (rundt 10.000 kroner): 
+
+Selv om klokkehastigheten pr kjerne er kun 2 GHz, er det snakk om et kraftig løft i forhold til hva du normalt finner i samme prisklasse. 
+
+Når det gjelder den nye GT 540M-grafikkbrikken fra Nvidia, er ytelsen mer "midt på treet" sett i forhold til grafikkbrikkene i andre PC-er i samme prisklasse: 
+
+Prosessoren er etter vårt skjønn mer enn kapabel til å løse alle oppgaver du gir den, raskt og effektivt, gjerne mange av dem samtidig. 
+Grafikkløsningen er rask nok til å dekke "casual gaming"-segmentet, og selvfølgelig mer enn kraftig nok til å drive HD-video og annet høyoppløst materiale. 
+
+PCMark Vantage gav oss resultatet 7634, og her har vi sammenlignet mot de to 6.500-kroners PC-ene vi testet rett før jul: 
+
+Stillegående og seiglivet 
+
+Selv om PC-en er utstyrt med en svært kraftig prosessor og rimelig kjapt grafikkort, blir PC-en verken særlig varm eller særlig støyende. 
+Under de tyngste ytelstestestene var viften godt hørbar, men den opplevdes aldri som plagsom. 
+
+Den nye Core-familien til Intel bruker mindre strøm enn første generasjon Core-prosessorer. 
+Den har også mer effektiv regulering av hastighet. 
+Dette merket vi i batterilevetid-testene våre. 
+Det er relativt imponerende å se at et 6-cellers batteri i en så kraftig PC holder koken i rett i underkant av 6 timer med minimal belastning, og 3 timer og 16 minutter med kontinuerlig HD-video-avspilling gjennom Windows Media Player. 
+
+Det betyr i praksis at du kan forvente en batterilevetid på mellom 4 og 5 timer under normal, variert belastning. 
+
+Konklusjon 
+
+Denne testen overrasket oss på flere måter. 
+Ikke først og fremst når det gjelder ytelse, vi visste at det var en kraftig sak, men bruksmessig. 
+Den har et bra, norsk tastatur, en høyoppløst og god skjerm, støyer lite og har et seiglivet batteri. 
+Når vi legger til at den i stor grad kan konfigureres og tilpasses, samt at den kommer uten alskens crapware innabords, er dette absolutt en maskin å seriøst vurdere hvis du er på utkikk etter en allround-maskin i klassen rundt 10.000 kroner. 
+
+Den har kanskje et litt traust ytre, alt av materialvalg er ikke like high-end, og du får PC-er med kraftigere grafikkort i samme prisklasse. 
+Hvis du ikke synes det gjør noe, er dette helt klart en meget god maskin som bør tilfredsstille de fleste behov. 
+
+Fra Multicom får vi opplyst av modellen blir tilgjengelig i slutten av måneden. 
+Den kan imidlertid bestilles nå. 
+
+Takk til Multicom for utlånet av maskinen. 

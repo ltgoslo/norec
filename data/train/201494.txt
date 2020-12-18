@@ -1,0 +1,137 @@
+Lenovo Thinkpad X1
+Her får du slank og veldreid Thinkpad-kvalitet, men det koster å være kar. 
+
+Thinkpad er IBMs legendariske PC-serie, kjent for sin gode byggekvalitet og slitestyrke. 
+Serien lever fortsatt i beste velgående, fem år etter at Lenovo overtok IBMs bærbar PC-divisjon, og X1 er det tynneste og letteste medlemmet så langt. 
+
+Og det er bare å venne seg til deg med det samme; PC-er som denne, med sine 1,65 cm på det tynneste, 2,2 cm på det tykkeste og vekt på 1,7 kg, blir snart vanlige innslag i de fleste prisklasser. 
+
+Velkjent 
+
+Det er imidlertid ingen tvil om at X1 er en Thinkpad. 
+Den er som alltid sort i utførelsen og har den velkjente røde styrespaken i midten, for dem som foretrekker den i stedet for pekeplaten. 
+De fleste konkurrentene har gått bort fra styrespak, men Lenovo og til dels Dell er fortsatt med på enkelte modeller. 
+
+X1 kommer i mange forskjellige utgaver med ulike konfigurasjoner. 
+Prisene starter på rundt 11.000 kroner, så det er ikke noen budsjettmodell vi snakker om her. 
+Fokus er først og fremst på bedriftsbrukere og andre som er mye på farten, og maskinen er derfor bygget for å tåle en støyt (og en kaffeskvett eller to). 
+
+Velutstyrt 
+
+Maskinen vi har hatt på testbenken koster mer enn 16.000 kroner i de billigste nettbutikkene vi har sjekket, veiledende pris er rundt 20.000. 
+Den høye prisen skyldes blant annet at den er utstyrt med en 160 GB SSD istedet for harddisk. 
+De billigste konfigurasjonene har vanlig, mekanisk harddisk. 
+
+Her er noen av de viktigste spesifikasjonene: 
+
+13,3" LED-baklyst blank skjerm, 1366 x 768 piksler Ripefritt Corning Gorilla-belegg Intel Core i5-2520 firekjernet prosessor 8 GB RAM 160 GB SSD fra Intel Intel GMA HD 3000 grafikk Trådløst nett (A/G/N) 
+Bluetooth 3.0 1 delt USB 2.0/eSATA-port 1 USB 2.0-port 1 USB 3.0-port Kortleser for SD-kort (alle typer) Webkamera (1 megapiksel) HDMI 1.4 og MiniDisplayPort 1.2 - skjermutganger Fingeravtrykkleser Internt 4-cellers batteri, mulighet for 6-cellers eksternt batteri i tillegg (ekstrautstyr) Windows 7 Professional 64 bits versjon Størrelse: 33,7 x 23,1 x 1,65~2,19 cm Vekt: 1,69 kg Veiledende pris denne konfigurasjonen: ca 20.000 kroner 
+
+Det mest oppsiktsvekkende her er SSD-en, samt en fullblods Sandy Bridge-prosessor. 
+Ultraportable maskiner med fokus på mobilitet har ofte litt enklere, strømsparende prosessorer for blant annet å kunne dra ekstra mye levetid ut fra batteriet, men ikke X1, altså. 
+
+4-cellers batteri kan muligens virke noe snaut, tatt i betraktning at maskinen ikke er utstyrt med strømsparende ULV-prosessor. 
+
+Og mange vil nok stille et spørsmålstegn ved skjermvalget - blank skjerm og relativt lav oppløsning er kanskje ikke det man skulle forvente i denne prisklassen, Sony har for eksempel VAIO-modeller med 13,3" skjerm med 1600 x 900 til 1920 x 1080, mens Apple og flere andre produsenter har modeller med like stor skjerm og 1440 x 900 piksler oppløsning. 
+
+Enkelt, stilrent og robust 
+
+Lokket er av metall og belagt med en matt, tynn, plastaktig overflate som sørger for at fettflekker og fingeravtrykk nesten blir fraværende. 
+Bunnplaten er frest i ett stykke, og bidrar til ytterligere oppstiving. 
+Liker du å gjøre inngrep i maskinvaren selv, for eksempel bytte disk og sette i mer minne, må altså tastaturplaten fjernes for å få tilgang til innmaten. 
+
+Her er ikke noe optisk drev, noe som blir sjeldnere og sjeldnere å finne i denne størrelsesklassen. 
+
+De fleste tilkoblingspunktene sitter i bakkant, med unntak av en USB-port og hodetelefonutgang bak et lokk på venstre side, og minnekortleser til høyre. 
+Det er helt etter vår smak, men lokket over portene på siden kunne vi klart oss uten. 
+Det gir imidlertid et mer helhetlig designpreg når den er på plass. 
+
+Flott tastatur 
+
+Tastaturet har lett kurvet taster, som også er bakbelyste (2 lysnivåer, eller av). 
+Det er som ventet av meget høy kvalitet, tastene er store, tasturplaten er fast og det er generelt meget behagelig å skrive på. 
+Helt nederst er det to tydelige hull tvers gjennom PC-en. 
+Du gjettet det sikkert, det er her eventuell kaffesøl havner, eller annet flytende du måtte være uheldig å velte over tastaturet. 
+For slikt har Lenovo tatt høyde for kan skje. 
+
+Men så var det dette med styrepinnen da. 
+Mange Thinkpad-brukere sverger til den i stedet for pekeplaten, mens andre (meg innbefattet) spenner muskler i arm og skuldre unødig når den brukes, med de uheldige konsekvensene det gjerne fører med seg. 
+
+Pekeplate til besvær 
+
+Under tastaturet ligger høyre og venstre museknapp beregnet til bruk sammen med styrepinnen. 
+Under denne igjen sitter en klikkbar pekeplate, der høyre/venstre museknapp er sømløst integrert. 
+Dette fungerer etter vår mening ikke særlig bra. 
+For eksempel har vi, etter gjentatte forsøk, ikke klart å høyreklikke en fil, for å dra en snarvei ut til skrivebordet. 
+Dette skyldes muligens at feltet som er satt av til museknapper, også benyttes til horisontal skrolling. 
+
+Vi har sett en del mindre vellykkede pekeplateløsninger gjennom årene, og denne havner dessverre i den kategorien. 
+
+Til høyre for tastaturet sitter knapper for å justere lyd og mikrofon, samt åpne Lenovo ThinkVantage Toolbox som blant annet hjelper deg med support og sikkerhetsinnstillinger: 
+
+Fingeravtrykkleser kan benyttes i stedet for passord, og denne sitter under piltastene til høyre. 
+
+Lynrask oppstart 
+
+Takket være SSD, rask prosessor og forskjellige optimaliseringsløsninger fra Lenovo, starter PC-en svært raskt. 
+Selve Windows-lastingen var unnagjort på knappe 15 sekunder, og legger du til rundt 5 sekunder med pre-OS-lasting, havner vi på totalt ca 20 sekunder. 
+Det er en god del raskere enn omtrent alt vi har testet på bærbar-fronten tidligere. 
+
+Den våkner også utrolig raskt fra hvilemodus, men dessverre er pekeplaten inaktiv i flere sekunder etter oppvåkningen. 
+Det trekker selvfølgelig inntrykket - og verdien - noe ned. 
+
+Maskinen leveres med en god del tilleggsprogrammer og prøveversjoner installert, men Lenovo har løst implementasjonen bra. 
+Maskinen oppleves som meget kjapp og fin i de fleste sammenhenger. 
+
+Og med lav belastning er den også til tider HELT lydløs. 
+Det er imidlertid ikke mye belastning som skal til før den lille, hissige viften starter å surre, og den surrer gjerne fort. 
+Den gir en litt for høy og spiss suselyd etter vår smak, og vi misliker dessuten at den har en lei tendens til å ikke roe seg så raskt som vi skulle ønske. 
+
+Maskinen blir også temmelig varm under tøff belastning, noe som ofte er en pris å betale på tynne modeller som denne. 
+Den kan bli så varm at den kan oppleves som ubehagelig å ha i fanget. 
+
+Men yter bra, det gjør den. 
+Først tar vi en titt på Windows 7 Opplevelsesindeksen, der ytelsen er rangert fra 1.0 til 7.9: 
+
+Prosessor: 7,1 Minne (RAM): 
+7,2 Grafikk: 
+4,7 Spillgrafikk: 
+6,1 Primær harddisk: 
+7,8 
+
+PerformanceTest 7.0 fra Passmark går mer i dybden, og i diagrammene under har vi trukket ut prosessorytelsen og sammenlignet med andre 13,3-tommere i klassen fra rundt 15.000 kroner: 
+
+Som du ser er ytelsen helt på høyde med hva du kan forvente dersom du har 15 lapper å bruke på en 13,3-tommer. 
+
+Grafikkytelsen er imidlertid langt mer beskjeden. 
+Den holder mer enn nok til HD-video i alle former og fasonger, men 3D-ytelsen er meget begrenset. 
+Sammenligner vi 3D-ytelsen med for eksempel Nvidia GeForce GT 540M, som blant annet sitter i den lille hissigproppen Dell Alienware 11X R3, ser vi dette veldig tydelig: 
+
+SSD-en er derimot et stor pluss, og den har vesentlig høyere ytelse enn vanlige 2,5" harddisker som har sittet i maskiner vi har testet den siste tiden, men ligger langt bak tallene vi fikk i Sony Vaio Z-testen i januar, som var utstyrt med en lynrask 256 GB SSD: 
+
+Hva så med batterilevetiden? 
+Den er kortere enn vi hadde håpet på. 
+Med minimal belastning og strømsparefunksjoner skrudd på, målte vi levetiden til 4 timer og 26 minutter. 
+Under kontinuerlig videoavspilling i Windows Media Player holdet batteriet ut i 2 timer og 40 minutter. 
+
+Men når det gjelder lading, er vi imponert. 
+Lenovo lover at batteriet skal nå 80% kapasitet etter 30 minutter, og våre forsøk viser at dette slett ikke er langt fra virkeligheten. 
+Så har du tilgang til en stikkontakt i ny og ne, behøver ikke den litt korte batterilevetien å bety noe. 
+Du kan eventuelt også kjøpe tilleggsbatteriet og få bortimot 10 timers levetid (ifølge Lenovo), men det gjør selvsagt også noe med portabiliteten. 
+
+Konklusjon 
+
+Det er hevet over en hver tvil at Lenovo har tenkt kvalitet, kvalitet og atter kvalitet da de konstruerte denne PC-en. 
+Mulig tok jobben for store ressurser, for vi synes prisen er høy i forhold til noen enkle forventninger vi har for klassen, først og fremst gjelder det batterilevetid, skjermoppløsning og kanskje også at det ikke er mulig å få maskinen levert med matt skjerm. 
+En åpenbar konkurrent er Samsungs 9-serie, som er tynnere og veier nesten halvkiloen mindre. 
+Den koster ikke mer enn rundt 12.000 kroner med en 128 GB SSD. 
+
+Vi er også kritiske til pekeplaten med integrerte knapper, og hadde forventet en litt mer støysvak kjøleløsning. 
+
+Ser vi bort fra det, er det ingen tvil om at den har sine klare styrker, blant annet i byggekvalitet, tastatur og tilkoblingsmuligheter. 
+Det får du riktig nok også på slanke og langt billigere modeller fra Samsung, Asus og HP, men Thinkpad-brukere er ikke alltid like lett å lure over til konkurrentene, tror vi. 
+Det har først og fremst med opplevd kvalitet over tid å gjøre, og vi vil bli overrasket om ikke også X1 også vil rage høyt på durability-listen de neste årene. 
+
+Husk også å få med deg de andre PC-ene vi har testet i det siste. 
+
+Lenovo ThinkPad X1 1294-2NG 

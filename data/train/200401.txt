@@ -1,0 +1,46 @@
+PNY XLR8 PRO SSD
+En SSD profilert mot gamere, hva betyr det? 
+
+Trenger de som driver med PC-spill andre typer SSD enn de som bruker maskinen til andre ting? 
+Det har vi vanskelig for å være med på, men PNY profilerer sin nye SSD-serie mot disse brukerne. 
+Vårt testeksemplar er en 240 GB enhet i standard 2,5-tommers format. 
+
+XLR8 PRO 
+
+Enheten leveres i eske, med en kort datakabel. 
+Monteringsskruer lå ikke i vårt testeksemplar, men som regel bruker man jo de som satt i harddisken man bytter ut, eller med monteringsbraketten som man må kjøpe separat hvis man skal montere den i en stasjonær PC. 
+Siden det ikke er noen bevegelige deler er det strengt tatt ikke nødvendig å skru den fast i en stasjonær PC ... 
+
+Kontrolleren er SandForce 2281 som komprimerer dataene før de skrives til flashminnet, og dekomprimerer etter lesing. 
+Dermed skriver man mindre til cellene i flashminnet, og levetiden på disse blir lengre. 
+
+Flashminnet er av MLC-typen og oppgitt til å klare minst 3000 skrive/leseoperasjoner. 
+Slik fordelingen av bruken gjøres vil dette bety at du typisk kan skrive langt mer enn 10 GB hver eneste dag i minst fem år framover. 
+Dette er langt over det man kan kalle normal bruk. 
+
+256-bits AES-kryptering støttes også, og grensesnittet er 6Gbit/sek SATA3. 
+
+Ytelse 
+
+PNY oppgir ytelsen til å være opptil 550 MB/sek på lesing og 510 MB/sek på skriving, med forbehold om testplattform. 
+Våre målinger er gjort på en PC med Intel Core i5 3570K og 8 GB 1600 MHz minne, og resultatene er derfor noe lavere. 
+
+Ytelsen er ikke ulik Intels 335-serie. 
+Dette er ikke så merkelig, siden kontrolleren er den samme, og egenskapene til flashminnet har også mye til felles hos begge enhetene, med samme antall skrivesykluser. 
+Intel har egen firmware, det er vel først og fremst her forskjellene ligger. 
+
+Det finnes flashminne som klarer flere skrivesykluser, men det er dyrere. 
+Likevel er det tilstrekkelig for de aller fleste bruksområder, siden de færreste av oss lagrer så mye data som vi leser. 
+All programvare skrives én gang, deretter leses den bare. 
+Det samme gjelder alle mediefiler og mesteparten av det vi produserer selv. 
+
+Her ligger vel også årsaken til at dette produktet blir profilert som en løsning for gamere, siden spill ikke genererer mye data som skal lagres. 
+Derimot er lesehastighet viktig, både for store og små filer, spesielt ved innlesing av nye brett slipper man mye kjedelig ventetid sammenlignet med data lagret på harddisk. 
+
+Konklusjon 
+
+PNY XLR8 PRO er en utmerket SSD som egner seg både til generell bruk og til gamere, med god ytelse på de fleste områder. 
+Den har litt høyere leseytelse enn Intel 335 som bruker samme kontroller, men på bekostning av skriveytelse. 
+Forskjellen er imidlertid svært liten. 
+
+PNY XLR8 Pro 2.5" SATA III 240GB 

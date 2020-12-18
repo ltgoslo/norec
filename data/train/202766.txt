@@ -1,0 +1,104 @@
+TEST:Samsung Omnia Lite 
+
+En smart smartmobil som kommer så nær, så nær. 
+
+Den eneste måten å få en mobil til å bli mindre oppsiktsvekkende på enn Samsung Omnia Lite, må være å male den i kamuflasjefarger og deretter kaste den fra seg i en skog. 
+Utseendemessig er denne Windows Mobile-telefonen altså så uspektaktulær at den nesten forsvinner mellom hendene dine når du holder den. 
+
+Vent litt. 
+Windows Mobile? 
+
+Jada, de er fortsatt her, til tross for raskt synkende markedsandeler og all hypen rundt Android og iPhone. 
+Etter noen minutters bruk forstår du likevel raskt at Samsung fortsetter det som tidligere var en trend, men som nå har blitt en vane: 
+Mobilprodusenter som lisensierer Windows Mobile fra Microsoft gjør alt de kan for å skjule at det er Windows Mobile. 
+
+Grunnleggende fakta 
+
+Og Samsung gjør en utmerket jobb med nettopp det. 
+Dette er en av de mest overbevisende dekkoperasjonene utført på Windows Mobile på lang tid, og selv om Samsung ikke gjør spesielt mye nytt i forhold til for eksempel Omnia eller Jet hva operativsystemet angår, er det fortsatt så helhetlig og konsekvent gjennomført at det er greit å nevne det likevel. 
+
+Designet som sådan har vi allerede vært innom, så det lar vi ligge. 
+Utsiden kan vi derimot si noen ord om, for den har en rekke knapper og tilkoblingspunkter som i disse anemiske iPhone-tider kan framstå som litt uvant. 
+
+Venstre side har volumknapper og en menyknapp som svitsjer mellom to ulike meny-layouter på hjemmeskjermen, mens høyre side har telefonlås, minnekortplass (microSD) og kameraknapp. 
+Øverst finner du en micro-USB-tilkobling, som også fungerer sammen med laderen. 
+
+Merk at Omnia Lite ikke har vanlig hodetelefonutgang, og at det av en eller annen grunn heller følger med adapter som gjør at du kan bruke egne hodetelefoner. 
+Det eneste du kan bruke ut av eska er de medfølgende øretelefonene. 
+
+Har alt 
+
+Skjermen har en helt grei oppløsning (320x400) for en mobiltelefon i disse dager, og utmerker seg ikke spesielt verken i negativ eller positiv retning. 
+
+På innsiden finner du alt som er vanlig å finne på dagens smartmobiler, inkludert super-3G (HSDPA), aGPS, støtte for microSD-minnekort, støtte for Exchange-synkronisering, Facebook-applikasjon, Office-støtte (Word, Excel og Powerpoint i mobilutgave), filbehandling, FM-radio, Messenger-applikasjon, og såkalte widgets - små miniprogrammer som gjør alt fra å gi deg været til BMI-verdier og nedtellingskalkulator for gravide. 
+Det meste, med andre ord. 
+
+I tillegg kan du naturligvis gjøre alt en Windows Mobile-telefon kan gjøre ved å snike deg inn i Windows Mobile 6.5 via "Start"-menyen på hjemmeskjermen, og se operativsystemet slik det ser ut når det er nakent. 
+Dette er tross alt et WM-produkt, men vær forberedt på at du - hvis du tar dette steget - er tilbake i en verden hvor du strengt tatt behøver pekepenn for å enklest mulig navigere deg gjennom et menysystem som er laget for små barnefingre. 
+
+Det lugger 
+
+Så langt, så godt, altså. 
+Det første hinderet vi må overkomme dukker likevel raskt opp, i form av den såkalt resistive skjermen. 
+Omnia Lite er tastaturløs, og det meste skjer derfor uten bruk av fysiske taster. 
+Med en resistiv skjerm er vi tilbake til den eldste typen trykkfølsomme skjermer, med strek under trykk. 
+
+I motsetning til kapasitive skjermer, som du finner på f.eks. iPhone og HTC Touch HD2, er brukeropplevelsen ikke helt på høyden hva flyt og respons angår. 
+Det samme gjelder dessverre her. 
+
+Kombinert med det som virker som en litt for beskjeden prosessor i forhold til hva Windows Mobile (og skinnet som Samsung har lagt over) krever, får dette først og fremst to konsekvenser: 
+At du flere ganger må være overtydelig når du for eksempel skriver tekstmeldinger eller skal flytte widgets rundt på hjemmeskjermene. 
+
+Stor fleksibilitet 
+
+Samsungs grensesnitt er derimot full av elegante, lovende løsninger. 
+For de som ikke kjenner det fra før har du en slags hovedmeny til venstre på skjermen, i form av en vertikal rekke full av ulike widgets. 
+Disse kan dras ut fra menyen til skrivebordet ved en enkel håndbevegelse. 
+Du har tre skrivebord å velge mellom, slik at du kan fylle hvert skrivebord med ulike widgets. 
+
+Ved menyknappen på venstre side kan du dessuten veksle mellom dette skrivebordsoppsettet og en mer tradisjonell, ikonbasert meny, slik du gjerne kjenner det fra Nokia og Sony Ericssons mobiler. 
+Dette fungerer stort sett smertefritt, og ettersom du også i den mer tradisjonelle menyen kan bytte ut hvilke programmer som er synlige etter behov, har brukeren svært stor fleksibilitet i forhold til hvordan mobilen utformes - og brukes. 
+
+I det hele tatt synes vi Samsungs grensesnitt har svært mye for seg, og de er i tillegg, som de har vært tidligere, flinke til å kombinere smarte løsninger med pen, innbydende utforming. 
+Enda et eksempel på det er oppgaveveksleren, hvor du får opp en grafisk oversikt over alle åpne prosesser. 
+Dermed kan du blant annet enkelt og hurtig svitsje deg fra nettleseren til epost-mappa. 
+
+Tilkoblingsrot 
+
+Et område hvor fleksibiliteten derimot ikke er så stor, er tilkoblingsmulighetene til Mac. 
+Det er rett og slett et lite mareritt, både via blåtann og USB, og du bør rett og slett sørge for at bilder, videoer og liknende du måtte ha liggende på mobilen lagres på minnekortet. 
+Da er det en smal sak å ta ut kortet, legge det i en minnekortleser, og kopiere filene til Macen. 
+
+At Mac-støtten til Samsung er dårlig er ikke noe nytt, men heller ikke mot Windows 7 er jobben imponerende. 
+I utgangspunktet har driveravhengigheten blitt betraktelig mindre komplisert med Microsofts siste operativsystem, men det er et stort paradoks at en Windows Mobile-telefon ikke uten videre kan kobles rett i en PC som kjører Windows 7. Først må du nemlig installere drivere ... 
+
+Surfing, epost og kamera 
+
+Nettleseren får bare større og større betydning på moderne mobiltelefoner, i takt med at nettforbindelsen blir raskere og flere og flere nettsteder tilpasses mobilbruk. 
+
+Samsung har valgt å legge ved Opera Mobile, som slettes ikke er noe dårlig valg. 
+Den gjør en utmerket jobb med de fleste nettsider, er rask, og har blant annet en elegant tabulatorløsning, rask scrolling opp og ned, og av en eller annen grunn bedre fingerrespons enn det du finner ved vanlig bruk (menynavigering og liknende). 
+
+At mobiltelefoner støtter Microsofts Exchange-standard er ikke lenger spesielt oppsiktsvekkende, så når vi sier at Omnia Lite gjør en solid jobb med både Exhange (via ActiveSync) og IMAP er det ingen grunn til å late som du er overrasket. 
+Dette er slik det skal være i 2010, som Arne Scheie kanskje ville sagt det når teknikken i kommentatorboksen fungerer slik den skal. 
+Kontakter, kalender og epost synkroniseres sømløst og så å si umiddelbart, og det er en smal sak å sette opp nye konti så lenge du sitter med basisinformasjon som navn på inn- og utgående server. 
+
+Kamera gjør en helt grei jobb, og bildene er stort sett så skarpe, fargerike og passe støyfulle som vi forventer av en 3.2-megapikselmobil. 
+Du får ikke med optisk zoom, men kameraet har autofokus. 
+Det er ikke mulig å skru av lukkerlyden, som dessuten er høy. 
+Alle rundt deg vet med andre ord når du knipser bilder. 
+
+Du kan se bilder i full oppløsning tatt med Omnia Lite her, her og her. 
+
+Og her er konklusjonen 
+
+Det er mye å like med Omnia Lite. 
+Operativsystemet som ligger i bunn er riktignok Windows Mobile, som selv i 6.5-versjon har et stykke å gå før det når opp til Android og iPhone, men Samsung gjør en svært god jobb med å kamuflere de mest irriterende egenskapene i Microsofts mobil-OS. 
+
+Batteritiden er også bra, og samtalekvaliteten helt utmerket. 
+
+Hovedinnvendingen vår går derimot nok en gang på to vesentlige hinder for bruksglede: 
+Den resistive skjermen, og det som virker å være en for treg prosessor. 
+Disse to tingene i kombinasjon er ingen innertier, og det gjør at du stadig vekk må utføre en operasjon både én og to ganger ekstra fordi skjermen ikke fanget opp trykket (du kan jo for eksempel forsøke å skrive tekstmeldinger i høy hastighet), og/eller fordi forsinkelser gjør at du må vente før du kan trykke deg videre - eller at du simpelthen trykker for tidlig. 
+
+Veldig mye bra på innsiden, altså, og selv om Omnia Lite utvilsomt snuser på en femmer, blir den stående med en sterk firer. 

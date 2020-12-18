@@ -1,0 +1,97 @@
+Zepto Nox A15
+TEST: 
+Nox har et stilrent ytre og og god ytelse, men er den verd prisen? 
+
+"Less is more" er ideologien bak mange vellykkede design, og Zepto har vel ikke med Nox akkurat vært redde for å gå for det mer rendyrkede og minimalistiske. 
+Også når det gjelder fargen - her er det matt sort over hele linja. 
+
+LES OGSÅ: 
+
+Chassiset er behandlet med et stoff som gir en slags litt myk "gummiert" overflate. 
+Konstruksjonen føles i det hele tatt svært solid, selv om lokket ikke akkurat viser seg upåvirket overfor trykk. 
+
+Vårt testeksemplar kom med en god og blank skjerm på 1680 x 1050, en glimrende oppløsning på en 15,4-tommer - i det minste så lenge du ikke har dårlig syn. 
+I så fall har du også muligheten til å gå for en løsning med 1280 x 800 punkter. 
+
+Over skjermen sitter, som på de fleste bærbare i dag, webkamera og mikrofon integrert. 
+
+Tastaturet på Nox A15 er kontant, behagelig å skrive på og støyer ikke. 
+Vi har heller ikke noe spesielt å utsette på layouten. 
+Når vi kommer til pekeplaten (touchpaden) er vi derimot ikke like lykkelige. 
+
+Zepto har nemlig gitt pekeplaten den samme overflatebehandlingen som lokk og chassis, noe som resulterer i dårligere følsomhet. 
+Selv med trykkesensitivitet og pekehastighet skrudd på maksimum er vi ikke fornøyd her - joda, det fungerer - men vi vet også at det kunne vært mye bedre, og forventer deretter av en dyr bærbar PC. 
+
+Bortsett fra av/på-knapp og fingeravtrykksleser er det ellers ikke noe som skal få lov til å bryte Zeptos rendyrkede stil. 
+For kjapt å bytte mellom strømstyringsplaner, slå av og på webkamera eller blåtann og så videre bruker du Fn-tasten i kombinasjon med en annen tast. 
+
+Tilkoblingsmuligheter 
+
+Nox A15 har kun kontakter på sidene, men har plass til en kensingtonlås i bakkant. 
+
+Venstre side har HDMI ut, 2 x USB, lyd inn og ut, volumhjul, minnekortleser og en ExpressCard/34-plass. 
+Varmluften kommer også ut lengst bak. 
+
+På høyre side finner vi det optiske drevet, USB, LAN og inngang for strøm. 
+I tillegg er det en bryter som slår av og på det trådløse nettverket. 
+
+Ytelse 
+
+15-tommere kan være anstendige spillmaskiner, og allerede i sommer så vi på en noenlunde likt bestykket maskin: 
+Multicom Compal JHL90+. 
+Men også blant PC-tilbudene for september - til 7000 kroner - var det en bærbar med et GeForce 9600M GT grafikkort, nemlig Acer Aspire 5930G. 
+
+Høyere poengsum er bedre 
+
+De helt store utslagene ser vi ikke her. 
+Når det gjelder prosessorene tilhører alle siste generasjon fra Intel, om enn litt forskjellige modeller. 
+Aceren tikker av gårde på 2,0 GHz og er naturligvis svakere enn Zepto og Multicom på henholdsvis 2,4 og 2,53 GHz. 
+
+Høyere poengsum er bedre 
+
+På grafikkfronten skal disse tre stille nokså likt, ettersom alle på papiret har GeForce 9600M GT fra Nvidia (med 512 MB RAM). 
+Likevel ser vi at JHL90+ ligger litt bak de to andre, og det på tross av at den har den sterkeste prosessoren. 
+Vi har ikke denne tilgjengelig for videre testing, men det skulle ikke forundre oss om grafikkløsningen på denne modellen er litt underklokket. 
+Det er noe vi har opplevd på et par andre Compal-modeller også: 
+JFT02 og HEL80. 
+
+Tid i sekunder, lavere er bedre 
+
+Ingen store overraskelser når det gjelder oppgaver som krever mye av prosessoren. 
+
+Batteri: 
+Du kan få to batterier til Nox A15 - det ene et 6-cellers på 4,4 Ah, det andre på 7,2 Ah (9 celler). 
+Det sistnevnte stikker et par centimeter ut i bakkant og veier 500 gram mot 6-cellerens 350. 
+
+Levetid i minutter, konstant på 
+
+Med det største batteriet holder Nox i fire timer, omtrent det samme som både Acer og Multicoms maskin - men på Aceren stikker altså ikke batteriet ut bak. 
+Klarer du deg med 2,5 timers batterilevetid kan du gå for det minste batteriet og spare litt vekt og noen hundrelapper. 
+
+Støy og varme 
+
+En bærbar med såpass muskler genererer naturligvis en del varme, og det merkes på Nox A15 - eller mer presist høres. 
+Vifta går relativt ofte og er ikke spesielt stillegående - det virker nesten som den bare har to hastigheter. 
+Vi snakker riktignok kun om susing, men det høres godt selv i kontorlandskapet. 
+
+På den annen side har vi ikke merket noe problem med spesielt varme overflater. 
+
+Konklusjon 
+
+Zepto Nox A15 er en bærbar vi stort sett er fornøyd med. 
+Vi klager på ingen måte på designen, og følelsen av kvalitet i chassiset står bra til skjermen og det gode tastaturet. 
+Det er også fint at du i stor grad selv kan bestemme hvor utstyrsnivået og hvor god ytelse din bærbare skal ha. 
+
+Men det er også visse irritasjonsmomenter, som at vifta er av det mer støyende slaget, og ikke minst pekeplata som med det myke overflatebelegget ikke er følsom nok etter vår smak. 
+
+Som vi ser det er det likevel prisen som er det store ankepunktet mot Zeptoen. 
+Vi skal ikke gå inn på noen større utredning om du får mindre enn det du betaler for - for Nox A15 har noen fine detaljer - men faktum er at du med en litt hissig konfigurasjon (med mindre du passer på å få en tungt rabattert Nox) bør undersøke markedet nøye. 
+
+Du kan nemlig spare flere tusenlapper ved å lempe litt på kravene og/eller velge en annen datamaskin - for eksempel vil en likt spesifisert Multicom JHL90+ være langt billigere (eventuelt kan du gå for den bedre Kunshan M860). 
+Eller, om du ikke bryr deg spesielt om skjemoppløsning, har vi altså modeller som Acer Aspire 5930G som ligger på betydelig lavere pris. 
+
+Og hvis det er ytelsen som teller for deg, ikke vekt og størrelse, kan du også se nærmere på hva du kan få av 17-tommere i den aktuelle prisklassen. 
+
+Om Zepto Nox A15 totalt sett vil være en god PC til prisen kommer derfor i stor grad an på hvilket utstyrs-/ytelsesnivå du legger deg på, og hvor begeistret du er for størrelse og utseende. 
+
+Sett for seg selv er den likevel ikke noen dårlig PC, og fortjener en svak femmer på terningen. 

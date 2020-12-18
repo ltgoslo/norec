@@ -1,0 +1,119 @@
+Dell Inspiron 15 7000-serien (7537)
+Den kan minne litt om Macbook Pro, men koster under det halve. 
+
+Dell Inspiron-serien har vært med oss i en årrekke, og vi har mange modeller her på DinSide tidligere. 
+I høst ble serien oppgradert med flere nye modeller, vi har tatt en titt på den elegante 15-tommeren Inspiron 15. 
+
+Modellen kommer i flere forskjellige konfigurasjoner, vår test-PC kommer med Core i7-prosessor, dedikert GeForce GT 750M-grafikk og harddisk på 1000 GB, men blar du opp et par lapper til får du den med en 256 GB SSD i stedet. 
+For mange som verdsetter stor lagringsplass høyere enn lynrask og stillegående operasjoner, er harddisk-versjonen fortsatt verdt å vurdere. 
+
+Her er en kjapp gjennomgang av de viktigste egenskapene: 
+
+Skjerm: 15,6" berøringsskjerm, LED-baklyst, full HD-oppløsning (1920 x 1080 piksler) Prosessor: 
+Dobbelkjernet Intel Core i7-4500U (inntil 3 GHz) RAM: 
+8 GB Grafikkort: 
+Intel HD 4600 / Nvidia GeForce GT 750M Lagring: 1000 GB, 5400 rpm Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 4x USB 
+3.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel Dual Band Wireless-N 7260 A/G/N Kablet nett: 
+Gigabit LAN Annet: 
+Bluetooth 4.0, 4 cellers batteri (58Wh) OS: 
+Windows 8.1 64 bit Størrelse: 
+Vekt: 
+2,6 kg Pris: 7.795 kr (jf Dell.no 22. januar 2014) 
+
+Mye for pengene 
+
+Hovedinntrykket er at du får temmelig gode spesifikasjoner for prisen. 
+Full HD og berøring er fordyrende, og med dedikert grafikkort som takler de aller fleste aktuelle spilltitlene der ute, bra med minne og god lagringsplass, er ikke en pris i underkant av 8000 kroner noe å si på. 
+
+Legg imidlertid merke til at prosessoren er av en såkalt ULV-varianet (Ultra Low Voltage). 
+Den er strømgjerrig, men yter ikke like bra som en fullblods M-prosessor, noe som påvirker totalytelsen noe - selv om de aller fleste får mer enn nok kraft med denne maskinen. 
+
+I tillegg merker vi oss at batteriet nok er valgt med tanke på at prosessoren benytter lite strøm, og vi forventer derfor ikke at det varer en full arbeidsdag. 
+
+Pent og funksjonelt 
+
+Utformingsmessig er det mye å like ved Inspiron 15. 
+Det meste av overflaten er dekket av metall, noe som bidrar til et solid inntrykk. 
+Bunnplaten er imidlertid av plast. 
+Designuttrykket kan minne litt om MacBook Pro. 
+
+Som på de fleste berøringsskjermer er også overflaten her speilblank, og det kan naturligvis være et ankepunkt dersom det er mange lyskilder i rommet som kan skape refleksjoner. 
+
+Lysstyrken er imidlertid meget bra, og berøringsfølsomheten likeså. 
+Full HD-oppløsning betyr skarpe detaljer og plass til flere vinduer ved siden av hverandre på skrivebordet, akkurat som vi er vant til med arbeid på eksterne HD-skjermer. 
+
+Bra tastatur og pekeplate 
+
+Tastaturet er fellesnordisk og behagelig å skrive på, og avgir lite støy under bruk. 
+Det er baklyst, men lyset er ujevnt og den svake kontrasten mellom de grå tastene og lyset gjør at det ikke alltid er like lett å se pregingen på tastene. 
+Dette er verst i godt opplyste omgivelser. 
+Enter-tasten er også i smaleste laget, synes vi. 
+For øvrig gir vi tastaturet absolutt godkjent-karakter. 
+
+Pekeplaten er relativt stor, og har integrerte felt for venstre- og høyreklikk. 
+Den er presis, har støtte for flerberøring, og skiller fint mellom uheldig berøring med håndbaken og bevisst berøring med fingertuppene. 
+Klikkelyden den avgir ved venstre- og høyreklikk er også lav og behagelig. 
+
+Alle tilkoblinger sitter lett tilgjengelig på høyre og venstre side. 
+
+God kvalitetsfølelse 
+
+Totalt synes vi designen er vellykket, og kvalitetsfølelsen vi sitter igjen med etter noen dagers bruk er god. 
+
+Det er imidlertid ikke blant de letteste 15-tommerne dette her, mange maskiner med ULV-prosessor har vekt ned mot 2-2,2 kg. 
+Om vekten er et ankepunkt må avgjøres av bruksmønsteret ditt. 
+For mange er PC-en noe som står igjen hjemme når man dra ut, da klarer man seg med mobil og nettbrett. 
+Da spiller vekten nada rolle. 
+
+I motsetning til mange konkurrenter kommer ikke Inspiron 15 nedlasset av tredjepartsprogrammer, men noen har fått innpass. 
+En av dem er en prøveversjon av en sikkerhetspakke fra McAfee som vi kan styre vår begeistring for. 
+Det er imidlertid bare å avinstallere om man heller ønsker å benytte innebygd Windows 8-sikkerhet, som for de fleste vil være god nok. 
+
+Ytelsesmålinger 
+
+I det hele tatt oppleves PC-en som relativt rask og fin i bruk. 
+Støynivået er lavt, viftene starter riktig nok når belastningen blir høy. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,2 Minne: 7,6 Grafikk: 
+6,5 Spillgrafikk: 
+6,5 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og her er resultatene, krydret med våre kommentarer. 
+
+Prosessor: 4110 poeng 
+Som nevnt tidligere sitter en ULV-prosessor i PC-en. 
+Den er ikke like rask som en fullblods M-prosessor, men yter godt til det aller, aller meste likevel. 
+Slik utviklingen har vært på program- og OS-fronten de siste årene blir den neppe noen flaskehals i PC-ens levetid. 
+
+Grafikk: 1536/474 poeng Den dedikerte Nvidia-grafikken byr på god nok flyt i nyere spill, mer enn tre ganger bedre 3D-ytelse enn den integrerte Intel-grafikken. 
+Sistnevnte benyttes likevel mesteparten av tiden, da den bruker mindre strøm. 
+Ved normal Windows-bruk, inkludert video og bilderedigering, vil ytelsesforskjellene uansett være minimale. 
+
+Harddisk: 103 MB pr minutt (les), 65,7 MB pr minutt (skriv) Mens leseytelsen er omtrent som forventet for en 5400 rpm-harddisk, er skriveytelsen noe lavere. 
+Dette kan imidlertid variere noe, blant annet avhengig av filstørrelser. 
+Uansett er det helt klart et felt som kan oppleves som en flaskehals som kan nærmeste elimineres ved å bytte til SSD. 
+Det er også verdt å merke seg at harddisken skaper en kontinuerlig suselyd som kan høres dersom det er helt stille i rommet, samt svake vibrasjoner i kabinettet. 
+Ulempen er selvfølgelig at maskinen både blir dyrere og får dårligere lagringskapasitet med SSD. 
+Du kan uansett oppgradere til SSD på et senere tidspunkt hvis du skulle ønske det. 
+
+Batteritid: 
+263 minutter med kontinuerlig videoavspilling 
+Du kan altså fint se to spillefilmer før batteriet går tomt. 
+Med variert bruk vil du erfaringsmessig kunne holde det gående et par timer lenger. 
+Det er ganske gjennomsnittlig for klassen, og du bør ikke forvente noe mindre enn dette i denne prisklassen. 
+
+Konklusjon 
+
+Møtet med nye Dell Inspiron 15 ble i all hovedsak en positiv opplevelse. 
+Her får du en fin totalpakke til en bra pris, med kraft nok til å fungere både med dagens og morgendagens Windows- og dataprogrammer - også dem som er optimalisert for å bli styrt med berøring. 
+
+Les uansett våre få ankepunkter under før du bestemmer deg, men totalen er så bra at femmeren på terningen absolutt er vel fortjent. 

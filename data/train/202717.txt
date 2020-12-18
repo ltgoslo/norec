@@ -1,0 +1,77 @@
+Netgear Powerline AV500
+Nettverk over strømnettet - har produktene blitt bedre? 
+
+Det er tre hovedalternativer når man skal legge opp en nettverksløsning i hjemmet. 
+Nettverkskabel gir den klart beste ytelsen, er billig, men ikke alltid så praktisk. 
+Trådløst nett er et innlysende alternativ, svært mange får løsningen på kjøpet når de kjøper PC og nettilgang med trådløs ruter. 
+
+Det siste alternativet er mindre utbredt, men kan være et kurant alternativ: 
+Nettverk over strømnettet. 
+
+Svært enkel løsning 
+
+De nyere utgavene av disse løsningene er svært enkle i bruk, omtrent som en skjøteledning. 
+Du plugger først den ene enheten i en stikkontakt, og kobler en nettverkskabel fra enheten til ruteren din. 
+
+Den andre enheten plugger du du i en stikkontakt der du skal bruke PC-en, og kobler en nettverkskabel mellom disse. 
+Etter få sekunder er du på nett. 
+
+Hastigheten er et kapittel for seg. 
+Den avhenger av mange faktorer, de viktigste er kvaliteten på det elektriske ledningsnettet i boligen, sikringsskapet og støy fra andre apparater koblet til strømnettet. 
+Og ikke minst hva slags strømnett som finnes i boligen. 
+
+Sær norsk strøm 
+
+Norsk strømnett er annerledes enn i de fleste andre europeiske land, bortsett fra Albania(!). 
+I Norge er IT-nett (Insulated Terra) det vanlige, med 230 volt mellom fasene, og hvor alle strømførende deler flyter i forhold til jord (spenningsforskjellen mellom en fase og jord kan og vil variere). 
+Dette er på en måte en fordel, fordi strømnettet kan fungere selv om det oppstår jordfeil. 
+
+Ulempen er elektrisk støy, som kan bli problematisk når man skal sende andre signaler over nettkablene. 
+Dessuten er det mer sårbart og farligere ved f.eks. lynnedslag. 
+
+I alle andre land brukes et TN-nett (Terra neutral) med 400 volt mellom fasene og 230 volt mellom fas og null-leder, hvor jord og null-leder forbindes ved transformatoren. 
+Dette gir færre elektriske støyproblemer siden spenningsreferansen blir mer stabil. 
+
+I praktisk talt alle nyere installasjoner i Norge blir det nå installert TN-nett. 
+
+Alt dette innebærer at apparater som sender data over strømnettet kan få en tøffere jobb i Norge enn i andre land. 
+Ytelsen vil derfor variere sterkt i forskjelige hus, avhengig av hva slags type strømnett det er koblet til. 
+
+Vi testet utstyret i et hus fra 60-tallet ned IT-nett. 
+
+I bruk 
+
+Boksene fra Netgear er merket med makshastighet på inntil 500 Mbit, og var akkurat så enkle å sette opp som man forventer. 
+Ikke minst var de svært raske til å finne hverandre og etablere nettverksforbindelse. 
+Vi snakker om en håndfull sekunder. 
+Andre løsninger vi har testet tidligere har tatt vesentlig lengre tid. 
+
+På hver enhet er det tre lysdioder som viser status, og skifter farge og lysmønster. 
+Dioden til venstre lyser grønt når det er strøm i kontakten, blinker grønt når den starter opp eller setter opp sikkerhetskobling. 
+
+Dioden i midten kan lyse med tre alternative farger, og lyser grønt når ledningskvaliteten er god og hastigheten kan være > 80 Mbps. 
+Lyser den oransje kan den kjøre mellom 50 og 80 Mbps, men lyser den rødt klarer forbindelsen under 50 Mbps. 
+
+Dioden til høyre lyser grønt når det er nettverksforbindelse. 
+
+Mange har lurt på hvor sikker denne løsningen er, om ikke forbindelsen "lekker" ut og kan plukkes opp hvis man plugger i en tilsvarende enhet i naboleiligheten. 
+
+Løsningen er enkel, du trykker og holder inne sikkerhetsknappen på siden i 2 sekunder. 
+Innen to minutter trykker du tilsvarende på den andre enheten. 
+Da er det opprettet en sikker forbindelse mellom disse to enhetene. 
+
+Ytelse 
+
+Vi sjekket ytelsen fra vår husserver på hemsen og ned i stue og kjeller: 
+
+Grafen viser at ytelsen på Netgears løsning i praksis er like god som vår tidligere favoritt fra Linksys. 
+Den er også noe mer stabil. 
+
+Ytelsen er ikke like god som et godt trådløst nett under meget gode forhold, men kan måle seg med et som ligger litt under midt på treet. 
+
+Der hvor trådløst av en eller grunn ikke klarer å oppnå akseptabel dekning og hastighet vil strømnettet kunne være et alternativ. 
+
+Men resultatet vi som nevnt innledningsvis avhenge av mange konkrete faktorer. 
+Men noe særlig dårligere enn våre målinger er det lite sannsynlig at du oppnår. 
+
+Netgear Powerline AV 500 Adapter Kit XAVB5001 

@@ -1,0 +1,153 @@
+Panasonic LumixDMC-GF1 
+
+Verdens minste systemkamera. 
+
+Både Panasonic og Olympus har nå lansert tre kameraer hver som støtter Micro FourThirds-standarden; en standard de to selskapene også har samarbeidet om å utvikle. 
+
+Kort fortalt er dette en digital standard for kamerahus og objektiver der kamerahusene ikke har noe speil, som gjør at avstanden til sensoren blir kortere. 
+Dermed kan også både objektiver og kamerahus konstrueres mindre. 
+
+Panasonic Lumix 
+DMC-GF1 er det minste systemkameraet på markedet i dag. 
+Det er riktignok 4mm bredere enn Olympus E-PL1, men det er 1mm lavere og 6mm tynnere enn Olympus-kameraet. 
+GF1 veier også 20 gram mindre (315g vs 334g). 
+
+La oss først se på de tekniske spesifikasjonene: 
+
+Sensor - 4/3 tommer CMOS, Micro FourThirdsOppløsning - 4000x3000 pikslerBildestabilisering 
+- Ikke på sensor, kun på objektiverMaks. 
+ISO - 3200Blits 
+- JaBilder pr sekund - 3LCD-størrelse - 3 tommerLCD-oppløsning - 460.000 punkterBatterilevetid - 350 bilder (CIPA)Film 
+- Ja, 1280x720@30 bilder pr sekund (720p, AVCHD lite)Tilkoblingsmuligheter 
+- HDMI, AV-ut, fjernkontroll, elektronisk søker 
+
+Konstruksjon 
+
+GF1 er et lite kamera, i hvert fall tatt i betraktning at det har utskiftbart optikk. 
+Størrelsesmessig er det ikke veldig mye som skiller det fra eksempelvis Canon G11, men GF1 er 1cm tynnere enn Canons kompakte toppmodell. 
+Om det er behagelig å holde i er litt smak og behag - noen vil nok savne et mer definert grep på høyre side, der kameraet heller ikke har noe friksjonsbelegg. 
+
+På toppen av kameraet har GF1 en dedikert videoknapp som vi synes er praktisk, i stedet for at man må sette kameraet i filmmodus. 
+Funksjonshjulet er todelt - selve hjulet kan roteres, og det er også en praktisk «spak» på undersiden som bytter mellom enkeltfoto, serieopptak, bracketing og selvutløser. 
+Dog gjør denne at det også blir litt trangt rundt selve funksjonshjulet, slik at det blir litt knotete å betjene hvis du har store fingre. 
+
+Blitsen ligger skjult i kamerahuset når den ikke er i bruk, og spretter kun opp når du trykker på en knapp (om automatikken bruker blits er derfor avhengig av om du har valgt å aktivere den eller ikke). 
+
+LCD-skjermen er svært bra. 
+Oppløsningen er på 460.000 punkter; det dobbelte av det som er vanlig i dette segmentet, og det er en forskjell som merkes i avspillingsmodus. 
+Den kan ikke vippes ut, men har svært god innsynsvinkel både fra sidene og topp/bunn, og oppfriskningsraten på 60 bilder i sekundet gjør også at bildet flyter veldig godt. 
+
+Knappene ellers er godt plassert og har litt luft rundt seg slik at man sjelden trykker feil. 
+Minnekort og batteri er begge i en luke på bunnen av kameraet som bruker en skyvebryter som lås, og på venstre side av kameraet finnes det HDMI-utgang, USB/AV-utgang og inngang for fjernkontroll. 
+
+Brukervennlighet 
+
+Panasonic har gode tradisjoner for å lage brukervennlige kameraer, og jevnt over er også GF1 greit å bruke. 
+Hovedmenyen er godt strukturert, menyvalgene er forståelige og teksten er klar og tydelig. 
+Piltastene fungerer som hurtigtaster til hvitbalanse, ISO-verdi og fokuseringsmetode, mens nedoverpila kan konfigureres i menyen der du kan velge blant en håndfull ulike innstillinger. 
+
+I tillegg har Panasonic sin sedvanlige «q menu»-knapp; en hurtigmeny som lar deg endre elementer som bruk av blits, oppløsning, aspekt, kvalitet, lysmåling etc. 
+- kort sagt de fleste funksjoner. 
+
+Allikevel er ikke alt perfekt. 
+Eksempelvis er det litt knotete er at denne hurtigmenyen er todelt, med noen innstillinger øverst i bildet og noen nederst. 
+Hvis det aktive valget er øverst i skjermbildet, skjules de nederst med hjelpetekst til det øverste valget, og du må derfor pile til siden helt til den nederste delen av menyen aktiveres (og den øverste skjules). 
+
+Funksjoner 
+
+Panasonic skal som vanlig ha ros for sin Intelligent Auto-modus, som er smart nok til å gjøre jobben godt i de aller fleste tilfeller. 
+Automodusen gjør en svært god jobb eksponeringsmessig ved å analysere hva slags type motiv du skal ta, og ISO-verdien stilles basert på bevegelse i bildet slik at lukkertiden kan holdes tilstrekkelig kort for å gjøre bevegelser så skarpe som mulig. 
+
+I tillegg kan GF1 prefokusere kontinuerlig, noe som reduserer autofokustiden (og batterilevetiden), og du kan se et forstørret bilde ved manuell fokusering slik at dette gjøres lettere. 
+I tillegg kan følgefokus brukes også på objekter som beveger seg ut av bilderammen, slik at kameraet gjenopptar fokusen når de kommer tilbake igjen. 
+
+Når du tar bilder kan du få se hjelpelinjer (til å komponere bildet) og levende histogram, og det er også mulig å velge flere fargestiler som retro (med blasse farger), silhouette (med vignettering), sort/hvitt etc. 
+
+Via scn-valget på funksjonshjulet kan du også velge blant 17 ulike sceneinnstillinger, som for eksempel fotografering av mat (sterkere farger), fest (med slow-blits for å bevare lyset i bakgrunnen) og barne- og kjæledyrinnstillinger der du kan definere barnas/dyrets alder i kameraet og dermed få lagret hvor gammel vedkommende er i det bildet blir tatt. 
+
+Via hovedmenyen kan man også fikle med en rekke innstillinger. 
+Eksempelvis kan man velge om følsomheten skal justeres i trinn på ±1EV eller ±0,3EV, og bracketing kan gjøres med inntil 7 bilder med 4EV mellom laveste og høyeste eksponering. 
+Det er faktisk sjelden vare. 
+Normal eksponeringskompensasjon kan gjøres med ±3EV. 
+
+Et lite minus er dog at kameraet ikke roterer bilder automatisk; bare hvis du bruker et objektiv med bildestabilisator, siden det er denne som brukes for å vurdere om bildet skal roteres eller ikke. 
+Derfor får du en jobb med dette etter å ha overført bilder til PC-en hvis ikke du har brukt et objektiv med bildestabilisator. 
+
+Hvitbalanse kan settes manuelt, enten ved å angi i Kelvin, eller ved å rette kameraet mot noe fargenøytralt og trykke på set-knappen. 
+Kameraet tar selvsagt også bilder i RAW, og kan som nevnt filme i AVCHD lite (720p). 
+Det er også mulig å filme i Motion JPG, samt med reduserte oppløsninger. 
+
+Ytelse 
+
+Vi lar oss imponere av hastigheten og presisjonen på autofokusen, som er svært god på GF1 (testet med 20mm f/1,7 objektivet). 
+Med prefokusering aktivert går det selvsagt ekstra raskt, men merk at autofokusen blir svært treg når du filmer (ofte 2-3 sekunder) - på dette punktet har vi fortsatt til gode å se et systemkamera som fokuserer raskt. 
+
+Oppdatert: 
+En leser har tipset om at siste firmwareoppgradering forbedrer autofokusytelsen mens du filmer. 
+
+Seriefoto er oppgitt til 3 bilder pr sekund, og våre målinger viser at dette er ganske korrekt, der vi klokket inn 30 bilder på 10,1 sekunder. 
+Blitsladning er på 1,5s, og kameraet oppleves generelt som kjapt i bruk; eksempelvis ved at du kan bla 7 bilder i sekundet i avspillingsmodus. 
+Lumix DMC-GF1 starter også kjapt og bruker omtrent syv tideler før det er klart til bruk. 
+
+Batterilevetiden på 350 bilder etter CIPA-standarden (der halvparten av bildene tas med og halvparten uten blits) er ikke spesielt god sammenlignet med speilreflekskameraer, men tatt i betraktning at GF1 ikke har noe optisk søker og dermed kun bruker LCD-skjermen, så er dette ok. 
+Til sammenligning har Olympus' nylanserte E-PL1 290 bilder på én ladning. 
+
+Bildekvalitet 
+
+På dette punktet gjør Panasonic Lumix 
+DMC-GF1 det meget godt. 
+Jevnt over tar kameraet nemlig svært gode bilder (i hvert fall med 20mm f/1,7-objektivet) - den omtalte automodusen sørger for korrekt eksponering i de aller fleste tilfeller, bildene har god skarphet og også på høye ISO-verdier er det lite støy å spore. 
+
+Starter vi med sistnevnte, synes vi at bilder selv på ISO 1600 er fullt brukbare, og er lystilgangen dårlig tåler også GF1 en ISO-verdi på 3200, selv om støynivået blir langt tydeligere. 
+Med tanke på at FourThirds har en mindre bildebrikke enn APS-C-kameraene, er uansett ISO-prestasjonen imponerende. 
+
+Under ser du tre utsnitt tatt med ISO 800, ISO 1600 og ISO 3200: 
+
+Den automatiske hvitbalanseringen er stort sett til å stole på, selv om også GF1 i likhet med de fleste andre gir et gulstikk i innendørsbelysning. 
+Dynamikken er også god, spesielt i skyggepartiet. 
+Den forhåndsinnstilte oppskarpingen i JPEG-bildene er dog muligens i overkant høy for enkelte. 
+
+Se bildene i full oppløsning (zipfil): 
+
+Kit-objektiv 
+
+Du får GF1 i to kit-løsninger. 
+Ett med det typiske 14-45mm f/3,5-5,6 som du også finner på Panasonic Lumix 
+DMC-G1 (cropfaktoren er 2 på FourThirds-kameraene, så dette tilsvarer 28-90mm) og en morsommere variant med 20mm f/1,7 fastoptikk (tilsvarende 40mm), som i våre øyne også passer bedre til et kamera hvis hensikt er å være så kompakt som mulig. 
+Sistnevnte koster deg en tusenlapp ekstra. 
+
+20mm-objektivet (som vi har hovedsakelig har testet med, ved siden av 7-14mm og 14-140mm OIS) tegner skarpt, også i kantene selv på store blenderåpninger. 
+Vignetteringen er svært lav, og kromatisk feilbrytning er praktisk talt fraværende. 
+
+Konstruksjonsmessig er det et pancake-objektivet selvsagt ikke så mye å holde i, men fokusringen har et godt grep og jevn og god motstand. 
+Totalt veier kamerahus, objektiv, minnekort og batteri 444 gram. 
+
+Filmfunksjon 
+
+Som med så veldig mange andre systemkameraer, er filmfunksjonen også på GF1 mer en skrytefunksjon enn en praktisk funksjon. 
+Fokuseringen er svært treg mens man filmer (se bemerkning om firmwareoppgradering lenger opp i teksten), og på GF1 er både bilde- og lydkvalitet heller laber. 
+Bildet får tydelige kompresjonsartifakter ved raske bevegelser, og lyden er kun i mono uten spesielt god kvalitet. 
+
+Eksempelvideo tatt med Panasonic Lumix 
+DMC-GF1 (Problemer med å åpne filen? 
+Den snurrer fint i VLC Media Player) 
+
+Konklusjon, Panasonic Lumix 
+DMC-GF1 
+
+Micro FourThirds lever videre som et spennende konsept, og Panasonic leverer nok en gang et godt kamera i Lumix DMC-GF1. 
+
+Kameraet er svært kompakt, tar meget gode bilder (også i auto-modus) og har en flott LCD-skjerm som både er skarp og har god innsynsvinkel. 
+Vi har også latt oss imponere av autofokushastigheten under testingen, et punkt kameraet gjør det svært godt på både i godt og dårlig lys. 
+
+Det er imidlertid ikke til å komme fra at den kompakte designen medfører visse ulemper. 
+Grepet er veldig lite og mangler i tillegg friksjon, og rundt funksjonshjulet på toppen er det noe trangt slik at det blir litt upraktisk i bruk. 
+Det er også noe smårusk knyttet til brukervennlighet; blant annet med en todelt hurtigmeny der halvparten av menyvalgene er skjult inntil du forflytter deg "ut på siden". 
+
+Prismessig synes vi også GF1 ligger noe høyt. 
+Nå har vi riktignok ikke testet nyannonserte Olympus E-PL1, men dette er en ganske lik modell både i størrelse og funksjonalitet, og som i tillegg har bildestabilisering som fungerer på alle objektiver, samt mikrofoninngang. 
+Prisforskjellen med 14-45mm er på 2000 kroner i favør Olympus-kameraet, og det gjør at vi synes prisen på Panasonic Lumix 
+DMC-GF1 er i overkant høy til at vi gir et "anbefalt produkt"-stempel til Panasonic denne gangen. 
+Men et godt kamera er det - bevares. 
+
+Artikkelen er oppdatert i forbindelse med et punkt vedrørende brukervennlighet som vi til slutt fant ut av. 

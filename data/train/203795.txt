@@ -1,0 +1,166 @@
+Plutselig var iPhone størst
+… og dyrest, men det er jo ikke noe nytt. 
+
+Mens konkurrentene stadig lanserte større og større telefoner, tviholdt Apple lenge på sin 3,5 tommer store skjerm – også da iPhone 4s ble lansert i 2011. 
+Rett før lanserte Samsung sin første Note-telefon, med en «gigantisk» 5,3 tommers skjerm. 
+Side om side så Apple-telefonen ut som en miniputt: 
+
+Året etter kom iPhone 5, der skjermstørrelsen var økt til fire tommer, men telefonen var fortsatt like bred som tidligere (58,6 mm for å være nøyaktig); den hadde bare blitt høyere. 
+Ikke før i 2014, med lanseringen av iPhone 6 (4,7") og 6 Plus (5,5"), begynte Apple å tilnærme seg konkurrentene med tanke på skjermstørrelsen. 
+
+Men inntil nylig har Apple hele veien tilbudt minst én iPhone med akkurat den nevnte bredden, som avdøde Apple-sjef Steve Jobs mente var den optimale med tanke på ergonomien. 
+Siden Apple nå har stoppet salget av iPhone SE finnes det ikke lenger en iPhone med 58,6 mm bredde. 
+
+Da Jobs ble konfrontert med hvorvidt Apple kunne ha gjort noe annerledes for å unngå antenneproblemene i iPhone 4, svarte han at man kunne ha laget telefonene så store at du ikke fikk hånda rundt dem, men at ingen ville kjøpe noe sånt. 
+
+Spol frem til 2018, og plutselig er det Apple som stiller med den største skjermen på det norske markedet. 
+iPhone Xs Max måler 6,5 tommer fra hjørne til hjørne, og diagonalen er dermed lengre enn eksempelvis Samsung Galaxy Note 9 (6,4"), Huawei P20 Pro (6,1") og OnePlus 6 (6,28"). 
+
+Arealet, derimot, er så vidt litt større på Note-telefonen, siden aspektet her er 18,5:9 kontra 19,5:9 på iPhone Xs Max, så er det nevnt. 
+
+Stor og flott skjerm, men … 
+
+Fjorårets iPhone X var Apples første telefon med OLED-skjerm, og det gjelder også arvtakerne Xs og Xs Max. 
+Den tredje og rimeligste modellen som kommer senere i høst, iPhone Xr, har for øvrig LCD-skjerm. 
+
+Fordelen med OLED-skjermene kontra LCD er at hver diode i en OLED-skjerm lyser selv, og dermed kan de også slukkes helt. 
+Det gjør at disse skjermene kan vise helt sort, og man får derfor en uendelig stor kontrast. 
+Dessuten er de svært gode på innsynsvinkel og kan potensielt bruke lite strøm om innholdet på skjermen er mørkt. 
+
+Ekspertene i Displaymate gjør en rekke vitenskapelige målinger både på mobilskjermer, TV-er og lignende (riktignok stort sett mobilskjermer fra Apple og Samsung), og har mange superlativer å dra frem i sin vurdering av skjermen på Xs Max. 
+Fargene er svært korrekte, innsynsvinkelen meget god og alt det der, men side om side med konkurrerende OLED-skjermer som på nevnte P20 Pro er forskjellene marginelle. 
+
+Ja, når vi først studerer det, legger vi merke til at Apples telefon ikke er i nærheten å gjengi bilder like skarpt når de vises med Google Foto-appen som når du bruker Apples egen bildeapp – selv om bildene er tatt med den samme telefonen. 
+Det samme gjelder på YouTube, der Huawei-bildet fremstår skarpere og med bedre kontrast enn hva tilfellet er for Apples toppmodell. 
+
+Uansett: 
+Bildet vi får på iPhone Xs Max-skjermen er jevnt over svært godt, og når skjermen er såpass stor og dekker så mye av det totale fotavtrykket gir det et ekstra pluss i margen. 
+
+Apple går for øvrig ikke i detalj på hvilken glasstype som brukes, men høyst sannsynlig er det snakk om Corning Gorilla Glass 6, som skal være ekstra robust mot å bli mistet i bakken. 
+
+iOS 12 og store skjermer 
+
+iPhone Xs Max kommer med iOS 12 forhåndsinstallert; en oppdatering som tradisjonen tro også er tilgjengelig for en haug av eldre iPhone-modeller. 
+
+Her er nyhetene flere – spesielt setter jeg pris på muligheten til å autofylle passord fra Lastpass, som jeg tidligere har savnet kontra Android. 
+
+Laster du ned en app og skal logge på, kan du trykke på passord-knappen, bli ansiktsskannet med Lastpass og vips, fylles brukernavn og passord inn. 
+Og likeledes med engangskoder på SMS, som nå også er tilgjengelig direkte fra tastaturet uten å måtte bytte app. 
+Vi har gått igjennom mange av de viktigste nyhetene i en egen artikkel om iOS 12. 
+
+Men det slår meg også at iOS ikke er spesielt godt tilpasset skjermer av denne størrelsen, for ikke bare er Xs Max-skjermen større (diagonalt) enn på tidligere Plus-modeller – den er i tillegg høyere, aspektmessig. 
+Totalt er Xs Max-skjermen nesten 3 centimeter høyere enn skjermen på iPhone 8 Plus. 
+
+Da blir det vanskelig å nå toppen med tommelen når du bruker én hånd, og derfor er det en ulempe at ikoner alltid må plasseres fra toppen på hjemskjermen, og at både varslingssenteret og kontrollsenteret må hentes frem ved å dra fingeren ned fra toppen. 
+
+Det med varslinger gjelder for så vidt på Android også, men der finnes det muligheter for tilpasning via andre snarveier, og spesielt når busslomma gjør at ting som batteriprosent, Bluetooth-status og lignende ikke synes med mindre du åpner kontrollsenteret, burde det ha vært en enklere vei dit. 
+
+Riktignok kan du hente ned den øverste halvdelen av bildet med et lite sveip nedover langs bunnen, men det krever litt omstilling av grepet og føles noe tungvint. 
+
+Ekstremt god ytelse 
+
+Den viktigste oppgraderingen i årets s-modeller er den nye A12-prosessoren fra Apple. 
+Det er den første prosessoren på markedet bygd på 7nm produksjonsteknikk, der Huawei også er rett rundt hjørnet med sin første i Mate 20 Pro, som etter alle solemerker vises frem i neste uke. 
+
+Nå har ikke ytelsen vært noe stort problem for iPhone-modellene de siste årene, men det er virkelig imponerende mye maskinkraft som bor i iPhone Xs Max. 
+En ting er hvor godt alt flyter i daglig bruk, men det er når man virkelig utfordrer maskinvaren man ser hvilket beist A12-prosessoren er. 
+
+Starter du en AR-app, der kunstige 3D-modeller settes troverdig på bildet fra kameraet, flyter bildet særdeles godt, med 60 bilder i sekundet, og 3D-beregningene skjer i sanntid. 
+Det er høyst imponerende. 
+Likeledes kan telefonen spille inn 4K-video med 60 bilder i sekundet, selv om det riktignok også gjaldt for fjorårets modeller. 
+4K med 60 bilder per sekund støttes også av Samsungs 9-modeller, men kun i fem minutter av gangen – den begrensningen gjelder ikke for iPhone. 
+
+Prosessoren kommer også til sin nytte når du bruker kameraet. 
+Den nye funksjonen i portrettmodus er å kunne regulere hvor uskarp bakgrunnen skal være, og dette skjer i sanntid mens du drar i bryteren, som du ser i skjermvideoen under. 
+
+Likeledes Apples nye «Smart HDR»-funksjon, der kameraet egentlig tar bilder i bakgrunnen kontinuerlig frem til du trykker på knappen. 
+
+Meget god batteritid 
+
+Strømgjerrig er den også. 
+Batteriet er på 3.174 mAh – Apples største iPhone-batteri til nå, men på papiret godt bak konkurrerende modeller som Huawei P20 Pro og Samsung Galaxy Note 9 (begge med 4.000 mAh). 
+
+Men etter to uker med telefonen har jeg fortsatt til gode å legge meg med noe særlig mindre enn 40 prosent igjen på batteriet, der typisk bruk er rundt to timers aktiv skjermtid hver dag, inkludert fotografering, litt Spotify-strømming på farten (som ikke regnes som aktiv skjermtid) og den slags. 
+
+Apropos batteriet må vi som vanlig kritisere Apple – når telefonen støtter hurtiglading er det gnient (spesielt til denne prisen) å levere med den gamle 5W-laderen som har fulgt iPhone siden sin spede begynnelse, og som lader iPhone Xs Max svært langsomt. 
+Da vi testet med denne laderen i 20 minutter, gikk vi fra 27 til 37 prosent på batteriet – altså et halvt prosentpoeng i minuttet, som skulle tilsi snaue 3,5 timer fra 0-100 og muligens noe lenger siden de siste prosentene går saktere. 
+
+Til sammenligning kom vi fra 0-51 prosent på Honor 10 på den samme tiden, som også kan skilte med bittelitt høyere batterikapasitet. 
+Og som koster en tredel av iPhone Xs Max. 
+
+For å få full uttelling for hurtiglading (0-50% på en halvtime) må du ut med over 500 kroner for en Macbook-lader, men iPad-laderen til en tohundrelapp er ikke så langt bak den heller, og kanskje har du en liggende fra før. 
+
+Og apropos ting som ikke følger med i pakken: 
+I år får du ikke en gang med overgang til kablede hodetelefoner, som også blir en hundrelapp ekstra om du trenger. 
+
+Mer avansert kamera 
+
+Vi har allerede gått grundig igjennom fotoegenskapene til iPhone Xs Max i en duell mot Huawei P20 Pro, der Huawei-telefonen gikk seirende ut av det. 
+
+Det betyr på ingen måte at Apple har noe dårlig kamera i iPhone Xs Max, for også dette er blant de beste mobilkameraene vi har brukt. 
+
+Vi må berømme Apple for portrettmodusen, som gir flotte portretter med svært behagelige farger, for at frontkameraet er meget solid (selv om vi skulle ha ønsket oss litt bedre vidvinkel der) og for at kameraet er eksemplarisk med tanke på å gi konsistent gode bilder. 
+
+Autofokusen oppleves også som svært rask, og den er merkbart raskere til å plukke ut ansiktet når man skal ta portrettbilder, som tidligere har gått noe tregere for seg. 
+
+Vi har tatt noen sammenligningsbilder side om side med fjorårets iPhone X som viser hva Apples nye Smart HDR-funksjon utgjør i praksis. 
+
+Som du vil se klarer Xs Max å hente frem mer detaljer både i skygger og høylys. 
+Sjekk for eksempel vinduene på Oslo S her: 
+
+Fortsatt ikke perfekt på Xs Max, for himmelen var ikke kritthvit, men vi ser i hvert fall mer utendørs enn hva tilfellet er for iPhone X. 
+
+Spesielt lyskilder blir bedre gjengitt. 
+Her er bilde fra t-banestasjonen på Oslo S, der lysrørene i taket blir langt mer presise på Xs Max enn på iPhone X, og der den nye telefonen også klarer å hente frem mer i de mørke partiene ved togskinnene. 
+I tillegg er fargestikket mer markant på iPhone X-bildet: 
+
+Bildet over er for øvrig beskåret og tilpasset slik at vi får noenlunde samme utsnitt på begge kameraer. 
+
+For verdt å merke seg er at selv om den fysiske brennvidden er blitt litt større i Xs-modellene, så har også sensoren relativt sett blitt enda større, og dermed får vi et bredere bildeutsnitt på Xs-modellene enn på Apples tidligere modeller. 
+
+I dette Google Foto-albumet finner du en samling av bilder vi har tatt med iPhone Xs Max de siste par ukene, og som du vil se, ser det jevnt over svært godt ut. 
+
+Hva gjelder video leverer Apple også svært imponerende. 
+Som nevnt kan du filme med 60 bilder i sekundet i 4K-oppløsning, og under ser du et eksempel med svært god stabilitet, skarphet, dynamikk og lyd: 
+
+Fortsatt ingen hjemknapp 
+
+Vi tviler på at Apples Touch ID-knapp noen gang kommer til å komme tilbake, for på alle de nye iPhone-modellene er det nå Face ID som gjelder – den avanserte ansiktsskanningen som også fungerer i mørke omgivelser, og som ble introdusert på fjoråretes iPhone X. 
+
+Flere av Android-konkurrentene har lansert lignende løsninger som stort sett oppleves tilnærmet like raske, men de er mindre avanserte enn Apples løsning (som gir noe lavere sikkerhet) og heller ikke like presise under alle forhold etter vår erfaring. 
+Selv med solbriller på, klarer vi som regel å låse opp Apple-telefonen. 
+
+Verdt å nevne er også at Apples vibrasjonsmotor er særdeles stillegående og allikevel kraftfull. 
+Den gir knapt lyd fra seg når du sitter ved middagsbordet, men den kjennes allikevel godt i lomma. 
+
+Årets Xs-modeller støtter også 4x4 MIMO, som er første gang for Apple. 
+Det betyr enkelt forklart at det er fire antenner mot 4G-nettet i stedet for to, og som derfor gir potensielt raskere nedlastinghastigheter under gode forhold og bedre signalmottak når dekningen er dårlig. 
+Dette er også å finne på de fleste konkurrerende Android-modeller, så er det sagt. 
+
+Det lille aberet der er for øvrig at Apple har vært nødt til å bryte symmetrien i bunnen av telefonen, som nå har fått et antennebånd på venstre side. 
+Hullene til venstre for ladeporten kommer det for øvrig ikke noe lyd ut av - høyttaleren befinner seg bak hullene til høyre. 
+
+Deknings- og samtalemessig har iPhone Xs Max oppført seg eksemplarisk, og selv med denne ene høyttaleren er telefonen blant de beste både på volum og lydkvalitet når du hører musikk eller ser film uten hodetelefoner. 
+
+Så var det prisen, da … 
+
+Faste lesere fikk sikkert med seg undertegnedes kommentar tidligere i høst, der jeg satte spørsmålstegn ved om det egentlig var helt hårreisende at de heftigste telefonene kostet et femsifret beløp, med tanke på alt man i dag bruker telefonen til. 
+
+Det betyr ikke at vi ikke synes iPhone Xs Max er dyr, for det er den sammenlignet med konkurrentene. 
+
+64 GB-versjonen koster 12.490 kroner; nesten 80 prosent mer enn Huawei P20 Pro, som i tillegg kan skilte med dobbelt så mye lagringsplass. 
+Vil du opp et hakk, til 256 GB, blir prisen enda et par tusenlapper ekstra; to og en halv gang så dyrt som 256 GB-utgaven av OnePlus 6. 
+
+Med 512 GB lagringsplass havner man på 16.700 kroner, som for eksempel er over 30 prosent dyrere enn Samsung Galaxy Note 9 med samme mengde lagringsplass. 
+
+iPhone Xs Max byr ikke på noen store overraskelser. 
+I praksis er det en større og raskere utgave av iPhone X med større batteri og et noe bedre kamera. 
+
+Og det gjør ingenting, for iPhone X var en særdeles god telefon, og det er også Xs Max. 
+Spesielt er vi imponerte over den ekstremt gode ytelsen, et kamera som gir konsistent gode bilder og knallgode videoer, meget god batteritid, effektiv ansiktskgjenkjenning (Face ID), smarte nyheter i iOS 12 og en flott skjerm med tynne rammer. 
+Det eneste ordentlig negative vi klarer å finne er at den medfølgende laderen er en vits. 
+
+For når prisen er langt høyere enn sammenlignbare modeller, burde man også ha fått noe mer. 
+iPhone Xs Max er blant de beste, bevares, men bare blant dem. 
+
+Ikke foran, som prisen skulle tilsi. 

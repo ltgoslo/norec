@@ -1,0 +1,122 @@
+Asus N55SF
+Den har full HD-skjerm, høyttalere fra Bang og Olufsen - med subwoofer, og lokk i svart pianolakk. 
+Er vi vitne til en ny multimediekonge? 
+
+For ikke mange år siden var PC-en først og fremst et arbeidsverktøy. 
+I 2011 er situasjonen en helt annen, og for mange er PC-en selve navet for det meste av hva man foretar seg mellom måltidene og timene på puta. 
+Her står også underholdning sentralt for mange, og mange PC-produsenter skreddersyr datamaskiner som er myntet på den som ønsker at PC-en også skal være en underholdningssentral, for musikk, film og spill. 
+
+Velutstyrt 
+
+Asus er slett ikke noe unntak, og N55SF er kanskje det mest gjennomførte eksempelet på at PC-produsenten tar underholdning på alvor - i hvert fall på papiret. 
+Stikkord er HD-video, kraftig grafikkort, glansfullt design og ikke minst - høyttalere fra Bang & Olufsen med dedikert subwoofer på skrivebordet. 
+Men fungerer det bra i praksis? 
+Mer om det senere. 
+
+PC-en fås i en rekke forskjellige konfigurasjoner, de rimeligste har ikke skjerm med full HD-oppløsning. 
+Vårt testeksemplar er blant de bedre utrustede, og har blant annet følgende å by på: 
+
+15,6" full HD-skjerm, matt (1920 x 1080 piksler) Intel Core i7-2630QM-prosessor, fire kjerner x 2 GHz Hybrid grafikkløsning, Intel HD Graphics 3000 / Nvidia GeForce GT555M (2 GB) 
+8 GB RAM (2 x 4 GB) 750 GB harddisk, 5400 rpm DVD-brenner for alle formater 2 x USB 3.0-porter 2 x USB 2.0-porter VGA og HDMI-videoutganger Utgang til medfølgende subwoofer (2,5 mm) 
+Lysfølsomt webkamera med 720P-oppløsning Minnekortleser for SD/MMC-kort Trådløst nettverk (b/g/n) Gigabit kablet nettverk Leveres med Windows 7 Home Premium 64-bit Mål: 37.9 x 26.1 x 3.7~3.75 cm Vekt: 
+2,7 kg Pris: 7799 kroner (Dustin Home 28.10.11) 
+
+Ut fra spesifikasjonene er det slett ikke noe å si på denne prisen, ut fra våre erfaringer med tilsvarende spesifikasjoner. 
+Det vi imidlertid savner, er Blu-ray-spiller, all den tid at Asus retter seg mot underholdningssegmentet, og skjermen støtter full HD-oppløsning. 
+Modellen finnes heldigvis med dette innabords, men da må du belage deg på en pris i overkant av 9000 kroner. 
+
+Selve innpakningen er i plast, men sidene på skjermen har fått en metallist som stiver den opp noe. 
+Merk at det speilblanke lokket virkelig suger til seg finger- og fettmerker, så en mikrofiber-klut innen rekkevidde er en god idé. 
+Byggekvaliteten virker forøvrig OK. 
+
+Flott skjerm 
+
+Vi ser at matte skjermer igjen er på vei inn i varmen, og skjermen på N55SF er en drøm å bruke. 
+Den har god kontrast, fargegjengivelse - og ikke minst, null refleksjoner. 
+Den har også gode innsynsvinkler fra sidene og ovenfra, men nedenfra blir fargene raskt invertert. 
+Det betyr imidlertid ikke så mye. 
+
+Full HD-oppløsning betyr at tekst blir smått, men hvis du har normalt syn vil du neppe ha problemer med dette. 
+Høy oppløsning betyr først og fremst at du får plass til flere programvinduer og mer informasjon på skjermen samtidig, noe som ofte er et problem på lavoppløste skjermer. 
+
+Mellom skjerm og tastatur setter et stort, grått felt som inneholder Bang & Olufsen-høyttalere. 
+Lyden er ikke verst for å komme fra en bærbar PC, med relativt god dybde og bass - selv uten subwooferen koblet til. 
+Vi savner imidlertid litt diskant for å bli helt overbevist, noe vi svært sjelden blir på bærbare. 
+
+Og subwooferen? 
+Vel - den sørger for litt mer bass, men forvent ikke allverden av en bord-sub på størrelse med en boks med rømme. 
+
+Tastaturet er er stort, og dekker hele bredden på maskinen. 
+Hver tast er også større enn vi har blitt vant til med alle chicklet-tastaturene vi har testet i det siste. 
+Tastaturet på N55SF er mer i retning av et vanlig, stasjonært tastatur. 
+Merk at det ikke er like lett å rengjøre som chicklet-tastaturer, smuler kan ramle nedi og legge seg bak tastene, for eksempel. 
+
+Til venstre sitter hurtigknapper for medieavspilling, og til høyre sitter et noe krympet numerisk tastatur. 
+
+Til å jobbe på er tastaturet meget bra. 
+Det er en liten svikt på midten, men det påvirker ikke bruksopplevelsen negativt. 
+Tastene avgir heller ikke særlig støy under bruk. 
+
+Luftinntaket sitter under PC-ens fremre del, og utblåsning skjer på venstre side. 
+
+Strømplugg til besvær? 
+
+Alle tilkoblingene sitter på sidene, og med unntak av strøminntak og subwooferutgang, sitter alle i fremre del. 
+Merk at pluggen på strømforsyningen ikke kan stikkes helt inn, og at det er en viss "dødgang" i den. 
+Merk videre at pluggen stikker flere centimetre rett ut, i motsetning til vanlige plugger med 90-graders knekk. 
+
+Grunnen til at vi gjør spesielt oppmerksom på dette, er at det er lett å dulte borti denne, med mulig skade på pluggen og/eller strøminntaket som resultat. 
+Dersom dette skjer, dekkes en reparasjon ikke av garantien, og vi har fått opplyst fra Asus at reparasjon av kontaktbrudd i strøminntak kan beløpe seg til mellom 3000 og 4000 kroner... 
+
+Dette videoklippet illustrerer problemet: 
+
+Strømforsyningen er forøvrig på 120W, og er temmelig stor. 
+Vektnåla stopper på voksne 680 gram. 
+
+Slik er den i bruk 
+
+Det tar rundt 50 sekunder fra du skrur på PC-en til du er inne i Windows og klar til å begynne å jobbe. 
+Vi har sett tregere, men også mye raskere maskiner, rund 18 sekunder på de raskeste, og felles for de fleste er at de har SSD istedet for harddisk. 
+Merk at harddisken i denne PC-en heller ikke er blant de raskeste, med sine 5400 rotasjoner i minuttet. 
+
+Det følger med en del prøveversjoner og programmer du neppe kommer til å bruke så ofte, men det er ikke noe av dette som oppleves som plagsomt eller forstyrrende. 
+PC-en virker rett og slett temmelig fornuftig konfigurert, og oppleves som rask og responsiv til nær sagt alle oppgaver. 
+
+Det skulle da heller bare mangle, med firekjernet I7-prosessor og relativt potent grafikkort. 
+Dette er en PC som sørger for å avspille alt av HD-materiale uten den miste antydning til svetteperler i pannen, og kan også brukes til spilling, vi har kjørt flere relativt krevende 3D-spill med godt resultat, om enn ikke alltid med absolutt høyeste detaljnivå. 
+
+God ytelse, lite støy 
+
+Vi liker også meget godt at støynivået er meget lavt, selv under tung belastning. 
+Her har mange av konkurrentene noe å lære av Asus - som svært sjelden har fått trekk i våre tester for støynivået. 
+
+Hva sier så ytelsestestene? 
+Windows' egen opplevelsesindeks ville av en eller annen grunn ikke la seg oppdatere, men vi har tall fra Passmark Performance Test som gir gode indikasjoner på hva du kan forvente: 
+
+Passmark rating: 1601 CPU mark: 
+6898 2D Graphics mark: 379 Memory Mark: 
+1726 Disk Mark: 511 3D Graphics Mark: 
+684 Hvis vi ser nærmere på prosessorytelsen og sammenligner mot prosessorer som sitter i andre PC-er i prisklasse rundt 8000 kroner, får vi følgende utslag - og vi gjør oppmerksom på at dette er snakk om snittall: 
+
+Testene av grafikkytelsen viser at den er godt over middels, noe som bør tiltale deg som er over middels interessert i å bruke PC-en til spilling. 
+Alt annet av oppgaver er som tidligere nevnt null problem: 
+
+Vi tar også med harddiskytelsen, og sammenligner den mot tallene vi fikk for SSD-en som sitter i ultrabooken Asus Zenbook UX31 - som vi testet nylig. 
+Joda, SSD er fremtiden: 
+
+Hva så med batterilevetiden? 
+Litt lavere enn vi hadde håpet på, kanskje, men 5 timer med minimal belastning og 3 timer med kontinuerlig avspilling av HD-video er likevel godkjent. 
+Det skulle bety rundt 4 timer under normal, variert bruk. 
+
+Det er likevel greit å være klar over at det finnes langt mer batterigjerrige modeller i 2011, hvis du har behov som går i den retningen. 
+Du finner flere av dem her. 
+
+Konklusjon 
+
+Joda, denne PC-en er en fin multimediemaskin som vil bli husket for god, høyoppløst skjerm, bra lyd og meget god ytelse - til en fin pris tatt i betraktning hva du får. 
+At den har lavt støynivå og kommer med 24 måneders garanti, sikrer femmeren på terningen. 
+
+Det finnes mer robuste kabinetter, lokket skjemmes fort av fingeravtrykk, og vi skulle gjerne sett en litt mindre strømforsyning med 90-graders knekk i pluggen. 
+For øvrige plusser og minuser, se oppsummeringsboksen under. 
+
+Asus N55SF-S1109V 

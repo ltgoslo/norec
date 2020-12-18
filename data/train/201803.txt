@@ -1,0 +1,166 @@
+Google Nexus 4
+LG tar oss litt på senga og har laget en særdeles lekker Android-telefon. 
+I tillegg er den knallbra. 
+
+Oppdatert 13.12: 
+Vi har nå fått bekreftet fra LG at det første partiet av Nexus 4-telefoner ankommer Norge i uke 51, altså neste uke. 
+På grunn av stor pågang er det et begrenset antall som kommer, skriver selskapet i en pressemelding. 
+Neste parti er ventet å ankomme i januar. 
+
+Vi må innrømme at LG sjelden har imponert oss hva gjelder design på mobiltelefoner, og de siste årene har gjerne toppmodellen havnet litt i skyggen for tilsvarende fra Samsung. 
+
+Nå slår de kraftig tilbake, for Nexus 4 er muligens den lekreste Android-telefonen vi noen gang har lagt våre klamme fingre på. 
+
+Ikke bare er den lekker – den er også rask som bare det, komfortabel å holde i hånda og føles meget solid. 
+Dessuten har den, som andre Nexus-enheter, siste versjon av Android og vil stå først i køen når det kommer nye oppdateringer. 
+
+Tekniske spesifikasjoner, Google Nexus 4 
+
+Skjermstørrelse: 4,7 tommerSkjermoppløsning: 
+1280x768 (318ppi)Skjermtype: IPS LCDProsessor: 
+Qualcomm Snapdragon S4 Pro (1,5GHz, fire kjerner)Grafikk: 
+Adreno 320Interminne: 16GB (ikke minnekort)Arbeidsminne: 2GBKamera: 
+8Mp + 1,3MpVideo: 1080p (30 bilder pr sekund)Batteri: 
+2100mAhKommunikasjon: 3G HSDPA+ (42Mbps), Bluetooth 4.0, 802.11 b/g/n WiFi, HDMI-ut (via Micro USB), Miracast 
+
+Konstruksjon 
+
+Sjelden har en Android-telefon gitt oss et så godt kvalitetsinntrykk ved første blikk. 
+Den store skjermen på framsiden har ingen knapper eller trykksensitive felter under seg og gir en veldig ren følelse. 
+
+Glasset ligger også noe høyere enn rammen rundt, slik at skjermen buer ned på hver side. 
+Det gjør det blant annet mer behagelig å flytte et ikon fra en hjem-skjerm til neste. 
+En bieffekt er imidlertid at glasset er i full kontakt med bordflaten om du legger fra deg telefonen opp-ned – skjønt, i likhet med andre toppmodeller er det også Corning Gorilla-glass på denne telefonen, som skal tåle å bli herjet litt med uten at det blir riper. 
+
+LG har også praktisk talt eliminert avstanden mellom glasset og skjermen, og i likhet med f.eks. HTC One X gjør det at skjermen føles veldig «nærme» når du betjener telefonen. 
+
+Nexus 4 har i tillegg en liten LED-lampe midt under skjermen som lyser opp dersom det har skjedd noe på telefonen, f.eks. om du har fått epost eller hvis noen har ringt dersom du har vært borte. 
+Den kan også lyse i alle farger avhengig av hva som har skjedd, og er en ting i hvert fall undertegnede setter veldig pris på med enkelte Android-modeller. 
+
+Baksiden er helt flat og glassbelagt, med "stjernehimmel" dersom du ser på den med riktig lysrefleksjon. 
+Selv synes jeg dette var ganske stilig, selv om andre har kommentert at det er i overkant bling-bling. 
+Merk også at dette lett kan knuses om du er uheldig å miste telefonen i bakken, slik tilfellet også er for iPhone 4 og 4s. 
+
+På sidene er telefonen belagt av gummi som sikrer et stødigere grep, og avrundingen mot baksiden gjør altså Nexus 4 til en telefon som ligger svært godt i hånda. 
+
+Av og på-knappen kunne imidlertid ha vært litt mer presis og gir minimalt med feedback når den trykkes inn. 
+På motsatt side finnes volumkontrollere, samt ladekontakt i bunnen og 3,5mm-utgang på toppen. 
+
+På baksiden er kameraet plassert nokså langt ned og inn i forhold til mange andre telefoner, og vår erfaring er positiv der vi sjelden dekker til kameralinsa med langfingeren når vi skal ta bilder i landskapsmodus. 
+
+Som du ser på bildet, ligger høyttaleren også litt ut på siden på baksiden – ikke SÅ smart om du hører musikk med telefonen liggende på bordet, men desto mer praktisk når du spiller spill eller ser film, der du vanskelig dekker til høyttaleren slik vi titt og ofte gjør blant annet på iPhone. 
+Det skal dog sies at det ikke er spesielt god lyd i denne høyttaleren, med ganske spinkelt lydbilde og heller ikke allverdens til volum. 
+
+Som med de fleste andre modeller i dette segmentet, har Nexus 4 også høytoppløselig skjerm; faktisk enda litt flere piksler enn det som er vanlig med 1280x768 mot mer vanlige 1280x720. 
+Skjermen er god, men ikke fullt så god som de beste. 
+Spesielt må vi sette fingeren på at skjermen ikke har like god innsynsvinkel fra sidene som fra topp og bunn, og at den føles litt fattig på kontrast med mindre du bruker den på høy lysstyrke. 
+
+Svært rask i bruk 
+
+Nok tørrprat – den første åpenbaringen vi får når vi bruker Nexus 4 er at den er særdeles kjapp. 
+Ikke bare er innmaten kraftig, med den nyeste Snapdragon-prosessoren og 2GB arbeidsminne, men at den også kjører "ren" Android gjør at det ikke ligger noe ekstra på toppen som trekker ressurser. 
+Kombinert med hastighetsforbedringene i Jelly Bean gjør det at Nexus 4 oppleves som en svært rask telefon. 
+
+Alt glir som bare det – apper starter på et blunk (og er ofte veldig kjapt tilgjengelig på grunn av det store arbeidsminnet) og skrolling skjer praktisk talt uten hakking (bortsett fra i Chrome, ironisk nok, der det går merkbart tyngre enn f.eks. Dolphin Browser). 
+Google+-innleggene raser nedover skjermen der de bygges opp trinn for trinn – i det hele tatt er Nexus 4 en fryd å bruke til daglig. 
+
+På rene ytelsestester, derimot, er ikke tallene like rosenrøde. 
+Det overrasker oss noe, siden Nexus 4 har nøyatig samme prosessor, grafikkbrikke og like mye arbeidsminne som Asus Padfone 2. 
+Quadrant Standard-testen gir for eksempel 4936 til Nexus 4, mens Padfone 2 her klinte til med 7366. 
+På AnTuTu er poengsummene henholdsvis 9572 og 13291, mens Nexus 4 er lynrask på Electopia-testen, der en spilldemonstrasjon ruller og går og ender opp på 57,78 bilder pr sekund, mens Padfone 2 her bare klarte 37,36 bilder pr sekund. 
+Forstå det den som kan. 
+
+Vi må innrømme at vi ikke vektlegge disse ytelstestene allverden, og grunnen ser du over. 
+Resultatene er høyst sprikende, og til syvende og sist er opplevd hastighet alltid den viktigste. 
+
+Og der er Nexus 4 blant de aller, aller ypperste. 
+
+Android v4.2 
+
+Nexus 4 kjører altså en helt «ren» utgave av Android; den splitter nye 4.2-versjonen, som i likhet med versjon 4.1 fortsatt kalles «Jelly Bean». 
+
+Nytt i denne utgaven er blant annet låsskjermen, som nå kan inneholde widgets og i tillegg bestå av flere sider. 
+Du kan sveipe den til venstre for å få direkte tilgang til kameraet (men der resten av telefonen er låst dersom du har brukt låsekode), eller til høyre dersom du har lyst til å vise enda mer på skjermen (f.eks. dagens kalenderavtaler eller de siste epostene) uten å måtte låse opp telefonen først. 
+
+Google 
+Nå er også forbedret i forhold til 4.1-versjonen, og kan nå følge med på Gmail-innboksen din dersom du får flybilletter, trackingnumre på forsendelser etc. 
+Funksjonen er tilgjengelig ved å sveipe opp fra hjem-knappen nederst på skjermen. 
+
+En tredje nyhet er Miracast, som også er støttet av Nexus 4. 
+Dette er en ny bransjestandard som tar sikte på å konkurrere med AirPlay; Apples løsning for trådløs overføring av bilde og lyd. 
+Dette forventes å være standard i en rekke TV-modeller i 2013 (og det vil komme bokser du kan koble til eldre TV-er), men vi har ikke hatt muligheten til å teste dette. 
+
+Å kjøre en ren utgave av Android betyr også at du raskt vil få nye oppgraderinger til denne telefonen. 
+Dog er det ikke til å stikke under stol at enkelte av produsentenes tilpasninger er til det bedre. 
+For eksempel gjelder dette ringeappen, der den «rene» utgaven ikke har støtte for å skrive inn navn direkte fra tallplaten, der for eksempel 7863 blir «Rune». 
+Den slags funksjonalitet er tilgjengelig på de fleste andre Android-telefoner, men kan selvsagt oppnås ved å laste ned en annen ringe-app fra Google Play. 
+
+La oss også bruke et avsnitt på det mye tastaturet, som nå støtter sveiping slik at du bare trekker fingeren over alle bokstavene i ordet, hvorpå telefonen gjetter hvilket ord du hadde tenkt til å skrive. 
+Dette er altså en funksjon Google har «lånt» av Swype og lignende løsninger, men Googles algoritmer er svært presise og treffer etter vår erfaring meget godt med sine antakelser. 
+Det gjør det fullt mulig å skrive tekstmeldinger og annet med én hånd. 
+
+Det er en rekke andre småting som er gjort ganske lekkert i Android v4.2. 
+Klokkeappen med stoppeklokke, timer og alarm er svært delikat, og den nye menyen for kjappe innstillinger er også kjekk; tilgjengelig enten ved å «trekke ned rullgardina» med to fingre eller trekke ned med én og deretter trykke på et ikon: 
+
+Kamera 
+
+Ett av ankepunktene som gjorde at den forrige Nexus-modellen, Galaxy Nexus (fra Samsung), endte opp med en firer på terningen, var at kameraet ikke var spesielt godt. 
+Det er heldigvis forbedret i LGs telefon, og med åtte megapiksler oppløsning tar det jevnt over greie bilder, men på høyde med de beste er den ikke. 
+Mer om det senere. 
+
+Den nye kameraappen er verdt å nevne – her er minimalisme i sentrum, der appen i utgangspunktet bare har tre ikoner synlige – ett for å ta bilde, ett for å bytte mellom stillbilde/film/panorama/PhotoSphere (mer under) og ett for å vise en sirkulær meny, som du også kan få frem ved å holde fingeren nede på skjermen. 
+Derfra kan du så bare trekke den i en retning for å endre et parameter, enten du vil slå av blitsen, aktivere HDR-modus (som kombinerer flere eksponeringer til ett bilde med større dynamisk omfang) eller lignende. 
+
+PhotoSphere, ja – det er en av nyhetene i Android v4.2. 
+Løsningen er ganske identisk med Microsoft PhotoSynth (tilgjengelig på iOS og Windows Phone) der du starter på ett punkt og deretter roterer kameraet rundt i alle retninger (både horisontalt og vertikalt), hvorpå kameraet knipser og knipser underveis. 
+
+Resultatet blir et 360-graders panoramabilde som lar deg «titte deg rundt» slik du gjør på gatebildefunksjonen til Google (Street View). 
+En fordel med Googles løsning er at filformatet er åpent slik at flere kan lage bildevisere, og der du kan se det i nettleseren uten noen utvidelser, mens Microsoft kun lar deg poste bildene på deres sider, der du også må ha Silverlight installert for å kunne se. 
+
+Men. 
+Den automatiske lappingen av bilder er etter vår erfaring ikke like god i PhotoSphere som i Microsofts løsning. 
+Flere steder er skjøtene ganske synlige; også når avstanden er relativt høy (disse løsningene er ikke så veldig godt egnet innendørs). 
+
+Jeg har lagt ut et eksempel på Google+ hvis du vil se en demonstrasjon. 
+
+Når det gjelder bildekvaliteten fra kameraet i Nexus 4 er den som nevnt grei, men ikke like god som på de beste mobilkameraene. 
+LED-blitsen er svært sterk, som gir ganske bleke ansikter ved innendørsfotografering, noe du ser eksempel på til høyre. 
+
+Bildene blir også ganske støyfulle og lite detaljerte når lystilgangen er dårlig. 
+Her side om side med iPhone 5 (100%-utsnitt): 
+
+Utendørs eksponerer kameraet litt varierende, og ofte noe lavt slik at skyggepartier blir veldig mørke. 
+Detaljnivået er langt bedre når lystilgangen er god, så det er først og fremst innendørs Nexus 4 kommer til kort. 
+
+Under ser du noen eksempelbilder tatt med Nexus 4: 
+
+Når det gjelder video lar vi oss ikke imponere av Nexus 4 bildemessig, med ganske sterk kompresjon som gir svake detaljer i bildet. 
+Lyden er derimot ganske klar og fin. 
+
+Batteri og samtalekvalitet 
+
+Batteriet har en kapasitet på 2100mAh, og etter å ha brukt telefonen i halvannen uke, vil vi påstå at de fleste nok vil klare seg igjennom en hel dag, men bare så vidt. 
+Selv har jeg stort sett vært nede på 10% batteri rett før leggetid, og typisk bruk er da halvannen time i telefonen i løpet av dagen, pluss halvannen time med skjermaktivitet, enten det er å sjekke Facebook, skrive meldinger, sende epost eller knipse bilder. 
+Og med push-epost, Facebook Messenger og så videre aktivert, samt WiFi kontinuerlig aktivert. 
+
+I testperioden har vi også hatt god erfaring med tanke på samtalekvalitet, der begge parter hører hverandre godt, og der volumet i samtalehøyttaleren kan settes tilstrekkelig høyt til å høre motparten selv i et støyende lokale. 
+
+Konklusjon, Google Nexus 4 
+
+LG har gjort en meget god jobb i konstruksjonen av Nexus 4. 
+Telefonen er lekker å se på, føles god i hånda og har en premium-følelse ikke mange andre Android-produsenter kan matche. 
+Glass på baksiden er lekkert, men har selvsagt også en ulempe – det kan knuse. 
+
+Og Nexus 4 er kjapp. 
+Veldig kjapp. 
+Sjelden har vi brukt en Android-telefon som så til de grader responderer når man trykker; enten det er for å starte en app eller skrolle nedover Facebook-feeden. 
+
+Kameraet er dog litt under par i denne prisklassen, og Nexus 4 har også noe begrenset minne med 16GB lagringsplass – uten støtte for minnekort. 
+Er det svakheter du kan leve med, bør Nexus 4 være en høyaktuell kandidat å sette på ønskelista. 
+
+Oppdatert 13.12: 
+Vi har nå fått bekreftet fra LG at det første partiet av Nexus 4-telefoner ankommer Norge i uke 51, altså neste uke. 
+På grunn av stor pågang er det et begrenset antall som kommer, skriver selskapet i en pressemelding. 
+Neste parti er ventet å ankomme i januar. 
+
+Google Nexus 4 E960 16GB 

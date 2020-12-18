@@ -1,0 +1,124 @@
+Toshiba Portege Z930-11C
+Den veier bare 1090 gram, uten at det har gått på bekostning av brukeropplevelsen. 
+
+Portege Z930 erstatter fjorårets Z830, og den vesentligste oppgraderingen er at maskinen nå er utstyrt med siste generasjon Intel-prosessor og brikkesett (Ivy Bridge). 
+Vi testet forbrukerversjonen Satellite Z830 i desember, og du kan lese testen her. 
+
+Forskjellen mellom Satellite og Portege er ofte liten, men sistnevnte har alltid Professional-utgaven av Windows 7, og gjerne matt skjerm, fingeravleser og ekstra sikkerhetsprogramvare. 
+Portege Z930-11C har verken matt skjerm eller fingeravleser, men Windows 7 Professional er i hvert fall på plass. 
+
+Og før vi går på eksteriøret skal vi se nærmere på de viktigste spesifikasjonene: 
+
+Toshiba Portege Z930-11C 13,3" LED-baklyst LCD, 1366 x 768 piksler, blank overflate Intel Core i5-3317M ULV prosessor Intel HD Graphics 4000 integrert grafikk 4 GB RAM (Maks 6) 120 GB SSD 2 x USB 2.0-porter, 1 x USB 3.0-port HDMI- og VGA-utganger Ethernet-port (10/100/1000 Mbit) Trådløst nettverk (B/G/N) 
+Webkamera (1,3 MP) 
+Minnekortleser (SD(HC/XC) + MMC) Windows 7 Home Professional, 64 bit 31,6 x 22,7 x 1,59 cm 1090 gram 
+
+Mye å like 
+
+Sammenligner vi Z930 med konkurrentene vi allerede har testet, skiller den seg positivt ut fra de fleste av dem på flere punkter. 
+Den er for eksempel lettest, alle tilkoblinger er i full størrelse, og PC-en har separate knapper for venstre- og høyreklikk (de fleste ultrabooks har integrert disse i pekeplaten). 
+
+Spesielt dette med vekt er viktig for mange. 
+Konkurrentene veier gjerne 250 til 300 gram mer enn Z830, og det merkes! 
+Med sin vekt på bare litt over en kilo merkes den knapt i sekken. 
+Det er kun den glimrende 9-serien fra Samsung som er i nærheten hva vekt angår. 
+
+Å slippe overganger for å koble den til ekstern skjerm eller kablet nettverk, er også positivt. 
+Og med tilkoblinger bak, slipper du kabler som stadig kommer i veien. 
+
+At Toshiba også leverer maskinen med en liten og lett strømforsyning, og med topolet strømleding og stikkontakt, er også positivt. 
+De fleste konkurrentene har jordet stikkontakt med tilhørende tykke kabler. 
+
+Magnesium 
+
+En så tynn PC må være godt oppstivet, og her har Toshiba brukt magnesium. 
+Kun rundt skjermen er det brukt plast. 
+Hele bunnplaten består av ett stykke metall, med åpning for luftinntak og to små hull i fronten for høyttalere. 
+Hele bunnplaten må fjernes for å få tilgang til minne og SSD. 
+
+Overflaten er matt, grå metall med svake horisontale striper. 
+Fingeravtrykk vises ikke spesielt lett. 
+
+Ikke topp-skjerm 
+
+Skjermen er blank og har normal oppløsning, med normale ytelser. 
+Det er imidlertid ikke til å legge skjul på at vi har latt oss skjemme bort av de nye IPS-skjermene fra Asus og Samsung, som stiller i en helt egen divisjon, både med hensyn til oppløsning, innsynsvinkel og lysstyrke. 
+
+Men en grei skjerm er det altså, om du ikke synes det gjør noe om det blir en del gjenskinn. 
+
+Diskutabelt tastatur 
+
+Tastaturet er av typen "chicklet" med god avstand mellom tastene. 
+Når det brukes tennes et baklys som gjør det enklere å bruke i mørke, men av en eller annen grunn lyses ikke de nordiske tastene opp. 
+
+Tastene er litt små og overflaten er glatt - noe enkelte sikkert vil mislike - men vi synes absolutt det er greit å bruke. 
+Litt smal entertast kunne med fordel vært bredere. 
+
+De to knappene som akkompagnerer pekeplaten er støysvake. 
+Det er ikke alltid tilfelle med PC-er fra Toshiba. 
+De er rikig nok noe hardere enn vi setter pris på. 
+Pekeplaten er multiberøringsfølsom, med to fingre kan du for eksempel skrolle, forstørre og forminske nettsider og bilder. 
+
+De integrerte høyttalerne er ikke spesielt gode. 
+Bassen mangler i stor grad, men det skjærer ikke i ørene våre når vi har på lav bakgrunnsmusikk eller lytter til radio. 
+Det er ingen selvsagt ting på så tynne maskiner med mye metall. 
+
+Slik er den i bruk 
+
+Det tar imponerende 13 sekunder å starte opp PC-en, og det er 5-6 sekunder raskere enn snittet for denne typen maskin med SSD. 
+Og hvis du lurte; Selv 19-20 sekunder er vesentlig raskere oppstart enn på nær sagt alt av maskiner som har harddisk, selv med langt kraftigere maskinvare. 
+
+Og i motsetning til forgjengeren er vifta langt mindre hissig. 
+Det kan gå lange perioder uten at vi hører sus i det hele tatt. 
+Men i likhet med forgjengeren merker vi at viftelyden skifter karakter når vi snur og vender på maskinen noen ganger. 
+Vi mistenker at maskinen ikke er like godt oppstivet som konkurrentene fra Samsung, Asus og de andre, som riktig nok alle veier litt mer, men som ikke har dette problemet. 
+
+Og i sedvanlig Toshiba-stil er maskinen utstyrt med mye programvare som kan oppleves som slitsom. 
+Her får du varsler og påminnelser i øst og vest (les: McAfee Internet Security), og slett ikke alt er av den nødvendige typen. 
+Her er dessverre Toshiba blant verstingene i klassen. 
+
+Det er selvsagt mulig å avinstallere det du ikke har bruk for, enten manuelt fra Legg til/fjern programmer i Windows, eller ved å bruke et tredjepartsverktøy som PC Decrapifier. 
+Det vil i mange tilfeller gi deg en helt annen PC-opplevelse i etterkant. 
+
+Når det er sagt oppleves ikke PC-en som noen sinke, selv uten å gjøre denne jobben. 
+Det er bra, for de fleste brukerne vil ikke ta seg bryet med å gjøre dette. 
+
+Dette sier ytelsesmålingene 
+
+Windows egen Opplevelsesindeks sier følgende om ytelsen, skalaen går fra 1.0 (svakest) til 7.9 (sterkest). 
+I tabellen har vi sammenlignet med forgjengeren Z830: 
+
+Og allerede her ser vi noen tydelige forbedringer, ikke minst når det gjelder SSD-ytelsen. 
+Ved hjelp av Passmark Performance Test 7.0 målte vi en lese- og skrivehastighet på begge maskiner, og tabellen under levner ingen tvil om den vesentlige oppgraderingen: 
+
+Sammenlignet med andre Ultrabooks vi har testet i det siste blir det heller ikke så verst: 
+
+Grafikkytelsen er helt lik som på de fleste andre ultrabooks i klassen. 
+Intel HD 4000 sørger for god generell ytelse til alt av film og 2D-oppgaver. 
+Også mer krevende spill kan flyte greit, om du går ned på oppløsning og detaljnivå. 
+Dette er uansett ikke en maskin man kjøper dersom man primært er opptatt av spilling, da bør man velge noe med dedikert grafikk fra AMD eller Nvidia. 
+
+Prosessorytelsen ligger litt bak de andre ultrabookene vi har testet den siste tiden, med unntak av Sleekbook fra HP, som riktignok benyttet AMD-prosessor: 
+
+Hva så med batteritid? 
+Joda, 7,5 timer med minimal belastning og 4,5 timer med kontinuerlig videoavspilling gir vi absolutt godkjent karakter for. 
+Vi understreker at vi har målt batteritiden med standard oppsett fra produsenten, da vi antar at det er slik de aller fleste vil bruke maskinene: 
+
+Du kan forvente en levetid på rundt 6 timer med variert bruk, og det er ikke så verst, og omtrent likt med forgjengeren. 
+
+Konklusjon 
+
+Det er mange ting å like ved Z930, ikke minst den svært lave vekten og tilkoblingsmulighetene - som faktisk ikke står særlig tilbake for PC-er i "full størrelse". 
+
+SSD-ytelsen er kraftig forbedret, og støyen har Toshiba kvittet seg med siden sist. 
+Det er derfor ingen tvil om at Z930 er en bedre maskin enn forgjengeren Z830. 
+
+Skjermen tilhører ikke toppdivisjonen, og de generelle ytelsene er veldig midt på treet. 
+Det samme er brukeropplevelsen, og vi lander derfor på en firer på terningen. 
+En meget sterk sådan. 
+Hadde vi kunnet gi 4 1/2 hadde Z930 fått den karakteren. 
+
+Derfor mener vi at Z930 absolutt bør tas med i vurderingen dersom du er ute etter en lett og kjapp maskin. 
+Men les plussene og minusene i oppsummeringen under før du bestemmer deg. 
+
+Toshiba Portege Z930-11C 

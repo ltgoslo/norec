@@ -1,0 +1,62 @@
+BenQ DW1600A
+BenQ er nå klar med sin 16x DVD-brenner, og jo - den er aller raskest. 
+Men det er mer å si om denne brenneren. 
+
+Det er ikke lenge siden vi testet Plextor sin 12X brenner, så dukker BenQ opp med sin 16X. 
+Dette er sannsynligvis den raskeste hastigheten optiske media kan håndtere i overskuelig framtid. 
+Dataraten på denne hastigheten er hele 22 160 KB/sekund. 
+
+LES OGSÅ: 
+
+Det er ikke så veldig lenge siden dette var en respektabel skrivehastighet for harddisker, og det er imponerende prestasjon å få til denne ytelsen på et rimelig, flyttbart medium. 
+
+Allsidig brenner? 
+
+BenQ DW1600A skriver altså DVD med opptil 16X, og leser med opptil 16X, i følge spesifikasjonene. 
+Dessuten brenner og leser den CD på 40x. 
+
+Den støtter også brenning av DVD-plater med "dual layer" eller DL, men her er hastigheten oppgitt til med beskjedne 2,4X. 
+Disse platene er ikke lette å få tak i, og vi har ikke testet dette. 
+
+Det som imidlertid ikke støttes, er -R formatet. 
+Dette var også tilfellet med DW800A, den forrige modellen fra BenQ, men denne kunne oppgraderes med en ny firmware som man kunne kjøpe på nett. 
+Denne muligheten kommer i august for DW1600A, og vil være gratis, får vi opplyst. 
+Brennerne som produseres fra august vil da også ha støtte for -R som standard. 
+
+Fremdeles er DVD-R generelt noe rimeligere enn DVD+R, men de som krever de raskeste brennerne har ikke noe valg, det er på +R de raskeste platene finnes. 
+
+Riktignok ligger ikke Plextor sin 12X så langt bak i ytelse også på DVD-R, så det finnes alternativer for de som også krever kompatibilitet. 
+
+Målinger 
+
+Vi testet med de samme platene vi brukte i testen av Plextor PX-712A. 
+Disse godkjente brenneren som støttet for 16X i Nero. 
+
+2 GB var bare 1 sekund raskere enn Plextor, med 3:40 mot 3:41. 
+Men den forrige brenneren fra BenQ klarte "bare" 4:23 på 2 GB, så det er klar framgang. 
+
+Først på 4 GB ble forskjellen tydelig, med 5:43 mot Plextors 5:58. 
+
+Også på DVD+RW var BenQ vesentlig raskere enn Plextor, med 6:53 mot 7:50. 
+Men dette er samme ytelse som den forrige BenQ-brenneren. 
+
+CD-brenning ble unnagjort på 3:13, som er kurant. 
+Her vant Plextor med 2:54 som er den raskeste i testen. 
+
+Ripping av musikk-CD var i toppklasse, med 2:38 mot Plextor 2:32. 
+Marginal forskjell, med andre ord. 
+
+Programvare 
+
+I retail-pakken følger det med kabel, skruer og følgende programvare: 
+
+Sonic Record Now 7.1 Sonic DLA 4.9 Intervideo WinDVD 4.0 Intervideo WinDVD Creator Plus 2.0 BenQ exclusive Qvideo 2.0 BenQ Book type management 8.2 
+
+Vi har ikke testet programvaren. 
+
+Konklusjon 
+
+BenQ leverer enda en gang en brenner med ytelse helt i toppsjiktet. 
+Den eneste innvendingen er manglende støtte for -R, men noe stort problem er det neppe. 
+
+Norsk importør av BenQ er EET, som vet hvilke forhandlere som selger produktene. 

@@ -1,0 +1,79 @@
+TEST: iPhoto '09
+Faces, places og andre godbiter. 
+
+Apple har nettopp lansert en ny iLife-pakke, som består av programmene iPhoto (bildeorganisering/redigering), iMovie (videoredigering), GarageBand (musikkprogram), iDVD (for å lage DVDer med spenstig innhold) og iWeb (for å lage websider). 
+De største oppgraderingene finnes i iMovie, Garageband og, dagens produkt, iPhoto. 
+
+Årets største nyheter er det Apple har kalt Faces og Places. 
+Du trenger ikke veldig god karakter i engelsk fra ungdomsskolen for å skjønne at dette dreier seg om ansikter og steder. 
+
+Hvem er hvem? 
+
+For å begynne med ansiktene, har iPhoto '09 nå fått funksjonalitet for å gjenkjenne ansikter i bilder. 
+Dette innebærer at du trener opp programmet til å skille personer fra hverandre, og første gang du starter iPhoto '09, analyserer programmet alle bildene du måtte ha lagt inn i din gamle iPhoto-versjon. 
+Prosessen tar en god stund, selvsagt litt avhengig av prosessorhastighet og antall bilder, men har du et par tusen bilder i arkivet, snakker vi en prosess som brått kan ta noen timer; i hvert fall hvis du bruker maskinen samtidig. 
+
+Når alle ansiktene så er funnet, må du fortelle hvem som er hvem. 
+Dette er løst veldig elegant - du går inn på et bilde, trykker på "navn"-knappen og får da se firkanter over ansiktene iPhoto har oppdaget. 
+Deretter klikker du på etiketten og skriver navnet på personen, og når du har gjort det, kan du se andre bilder iPhoto også mener at vedkommende er med på. 
+
+Siden det er lettest å illustrere med et eksempel, valgte jeg først et bilde av min datter, Elise, og angav på det første bildet at dette var Elise. 
+Når jeg så klikker på Elise under Ansikter-menyen, vises følgende: 
+
+Som du ser fungerte dette svært godt, og med få unntak hadde iPhoto helt rett i sine gjetninger (bortsett fra at det var et par bilder i listen som var av Alexander). 
+Enda bedre blir det når du trykker på "bekreft navn"-knappen. 
+Da vises en tettere beskjært versjon av alle ansiktene, og så er det bare å bekrefte ett og ett bilde: 
+
+Algoritmen for å gjenkjenne ansikter virker for oss å være blant de ypperste på markedet i dag - i eksempelet under er det mange forskjellige ansiktsuttrykk, en hånd som er litt i veien etc., men iPhoto har ingen probemer med å gruppere bildene: 
+
+Når du så har gått igjennom alle bildene, blir algoritmen forbedret, og så blir du presentert med flere bilder iPhoto tror kan være av riktig person. 
+Det skal sies at man etter hvert får stadig flere forslag som er feil, men siden ett trykk bekrefter personen og to trykk sier i fra om at det er feil person, er det lett å hjelpe algoritmen til å fungere bedre. 
+
+Du kan selvsagt også finne personer selv, noe som også er nødvendig, siden iPhoto ikke klarer å oppdage alle ansiktene. 
+Et lite problem melder seg da siden alle ansiktene iPhoto ikke har funnet må tagges manuelt, og vi savner da muligheten til å se alle bilder som ikke har blitt tagget med navn, slik at man kan gjøre "ferdig" jobben enklere. 
+
+Hvor tok du bildet? 
+
+Vi er imponerte over hvordan Apple har implementert places. 
+Enkelte produsenter av lommekameraer har nå begynt å lage kameraer med innebygd GPS-støtte, og det er selvsagt fordelaktig siden dette da bakes inn i EXIF-informasjonen i bildefilene. 
+Dermed kan du bare importere dem rett inn i iPhoto og se dem på et kart. 
+
+Jobben kan du også gjøre manuelt, og det gjør du enkelt ved å velge et bilde eller en hendelse og trykke på den lille informasjonsknappen. 
+Derfra kan du søke etter et sted ved hjelp av Google maps, finjustere og lagre det som f.eks. "hytta" eller "hjemme". 
+Tagging deretter skjer enda raskere. 
+
+En fordel med å tagge bildene med hvor de er tatt, er at Apple har utvidet de såkalte "smarte" fotoalbumene, slik at du kan lage deg virtuelle fotoalbum, som for eksempel kan inneholde alle bildene av mormor som er tatt på hytta. 
+Denne type fotoalbum vil så oppdatere seg automatisk, på samme måte som de smarte spillelistene i iTunes. 
+
+Mer elegant er det hvordan denne kartinformasjonen er integrert i andre deler av iPhoto. 
+Foruten at du selvsagt kan vise et verdenskart der bildene dine er merket med knappenåler, kommer også stedsinformasjonen til nytte dersom du for eksempel vil lage en fotobok. 
+Da kan du lager sider a la denne: 
+
+Del på Facebook og Flickr 
+
+En ting skal Apple ha - i stedet for å finne opp kruttet på nytt når det gjelder webdeling, lar de deg heller dele innholdet ditt på allerede populære nettsteder. 
+Nå har iPhoto blitt integrert mot Facebook og Flickr, der du kan dele bildene dine med et par musklikk, på samme måte som iMovie støtter opplasting til YouTube på en enkel måte. 
+
+Kjekt er det også at at dersom du eller noen andre tagger bildet på Facebook med flere navn, så oppdateres bildene deretter i din iPhoto slik at navnene vises. 
+
+I tillegg har iPhoto fått nyheter med tanke på bilderedigering. 
+Blant annet støtter iPhoto nå oppjustering av mørke partier (på samme måte som shadow-funksjonen i Photoshop), og en fiffig funksjon er muligheten for å endre fargemetningen i bildet, men uten at det går ut over hudtonene. 
+
+Også lysbildevisningen har blitt jazzet opp et par hakk. 
+Nå kan du velge blant flere måter å presentere bildene på, som for eksempel en scrapbook, der bildene tilsynelatende er klistret inn i en fotobok og animeres på skjermen. 
+Resultatet er svært delikat, og du kan også eksportere bildene til iPhone eller iPod touch. 
+
+Konklusjon, iPhoto '09 
+
+Så - er iPhoto verdt pengene? 
+Ja, definitivt, mener vi. 
+Apples iLife-pakke består av fem programmer (de andre er iMovie, GarageBand, iWeb og iDVD), som gjør at prisen på 790 kroner gir deg langt mer enn iPhoto '09. 
+Det skal dog nevnes at iPhotos kanskje største konkurrent, Picasa, helt gratis. 
+Her kan du lese vår test av Picasa for Mac. 
+
+Om det er verdt en oppgradering fra forrige versjon? 
+Der må du selv ta stilling til hvorvidt ansiktsgjenkjenning og geografisk tagging av bildene dine er noe du vil sette pris på, og om det vil gi deg bedre muligheter til å organisere bildene dine. 
+Det krever litt jobb å få på plass riktig informasjon på alle bildene, men Apple har laget det nesten så lettvint som det kan få blitt. 
+
+Husk også at flere programmer er oppdatert. 
+Vi kommer tilbake med en test av den nye Garageband-versjonen, samt den nye iMovie-versjonen, som blant annet også nå har fått geotagging, en svært imponerende stabiliseringsfunksjon, videoeffekter og mer til. 

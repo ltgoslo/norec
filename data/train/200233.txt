@@ -1,0 +1,42 @@
+250 GB S-ATA Western Digital WD2500
+Vår 250 GB testvinner fra Western Digital kan du nå få i flere varianter, både internt og eksternt. 
+Vi har testet den nye S-ATA utgaven. 
+
+Selve disken er identisk med den tradisjonelle parallell-ATA utgaven vi har testet tidligere, som vi utropte til testvinner. 
+
+Det interessante var selvsagt å sjekke om endring av grensesnittet til S-ATA har hatt noen betydning for ytelsen. 
+Tidligere har vi kunnet måle en ørliten forskjell i favør av S-ATA på en Seagate disk, men denne gangen var det faktisk motsatt. 
+
+Vi testet disken også denne gangen både med HD Tach og vårt eget testprogram. 
+
+Stadig rask 
+
+For sammenligningens skyld har vi satt inn tallene fra parallell-ATA i parentes: 
+
+HD Tach målte en leseytelse som startet på 58 950 (59 943) KB/sekund ytterst på disken, og reduserte gradvis til 27 519 (25 657) innerst. 
+Gjennomsnittet lå på 48 866 (49 021) KB/sekund 
+
+Skriveytelsen lå på 37 930 (44 440) KB/sekund ytterst og 18 064 (15 310) KB/sekund innerst, med et gjennomsnitt på 27 595 (27 288) KB/sekund. 
+
+Burst overføring (fra hurtigbuffer til kontroller) var på 73 (73,6) MB/sekund og aksesstiden lå på 13,9 (13,6) millisekunder. 
+
+Tallene ligger som ventet svært nær parallell-ATA utgaven, men toppytelsen er lavere mens minimumsytelsen er høyere. 
+Dette gjør at gjennomsnittet er nesten identisk. 
+
+Vårt eget testprogram målte en skriveytelse på henholdsvis 55 577 (55 701) starten, 50 553 (50 172) på midten og 39 348 (38 871) KB/sekund på slutten av disken, målt på hver av de tre partisjonene. 
+
+Leseytelsen målte vi tilsvarende til henholdsvis 56 607 (56 665), 50 917 (50 933) og 40 209 (40 262) KB/sekund. 
+
+Her ser vi langt mindre av den samme tendensen, forskjellene er helt marginale. 
+
+Konklusjon 
+
+Western Digital WD2500 er stadig en vinner, men den er ikke raskere i S-ATA utgave. 
+Fordelen er at nå kan du velge det grensesnittet som passer deg best. 
+
+En annen detalj er at det er tilkobling for vanlig strømkabel i tillegg til S-ATA strømkabe. 
+Da slipper de fleste å kjøpe en overgang og sparer noen tiere. 
+Bare de aller nyeste strømforsyningene har S-ATA strøm-kabling. 
+
+Disken er dessuten tilgjengelig i en ekstern utgave, som støtter både FireWire og USB2. 
+Den er dessuten utstyrt med fancy belysning, og ligger allerede på testbenken... 

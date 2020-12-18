@@ -1,0 +1,67 @@
+Mozilla Firefox 4 for Android
+Mobilsurfing til neste nivå? 
+
+I går ble den "offisielle" versjonen av Firefox lansert i Android Market. 
+Nettleseren har vært i betaversjon noen måneder nå, og Mozilla har fjernet feil og finpolert funksjonaliteten slik at Firefox i dag fremstår som en svært attraktiv mobil nettleser. 
+
+Det beror på flere ting. 
+For det første støtter også mobilutgaven av Firefox utvidelser, som nok var den største grunnen til at Firefox ble en suksess på PC i utgangspunktet. 
+Foreløpig er det riktignok ikke fryktelig mange utvidelser som er tilgjengelig (de fleste må oppdateres til versjon 4 først), men det finnes allerede noen godbiter. 
+
+Her er noen eksempler: 
+
+Tapsure 
+- En typisk utvidelse du ikke har tenkt på at du trengte før du begynner å bruke den. 
+Passordfelter har nemlig alltid vært en liten irritasjon på mobiltelefon, og i hvert fall for undertegnedes del, er det ofte det sniker seg inn en feil når man prøver å være litt rask. 
+
+Med Tapsure kan du lagre passordet i nettleseren, men i stedet for at det bare fylles ut automatisk når du skal logge inn, må du "tappe" et sikkerhetsmønster slik at passordet automatisk blir fylt inn. 
+
+Vi har laget en kjapp video for å illustrere: 
+
+Phony 
+- Lei av å bli tatt til mobilutgaven av et nettsted fordi du bruker mobiltelefon? 
+Med Phony kan du la Firefox imitere en annen enhet; det være seg Internet Explorer, eller iPad for den saks skyld. 
+Da kommer du stort sett til fullversjonen av nettstedet. 
+
+Readability 
+- Det blir brått mye forstyrrende bilder og flash-objekter på en nettside, men et trykk på Readability-knappen gjør at alt renskes og teksten gjøres større og tydeligere. 
+Readability kan du faktisk også bruke på nettleseren din, men koster nå penger (det var gratis før). 
+
+Reading list 
+- Snart på vei til utlandet? 
+Der koster det mye å surfe på nettet, og da er det kjekt med denne utvidelsen, som lar deg lagre nettsider til offline-visning. 
+Merk at den kun lagrer teksten (og ikke bildene). 
+Vil du ha hele siden, kan du lagre nettsiden i .pdf-format (støttet direkte i nettleseren). 
+
+Kjekk fanehåndtering 
+
+Vi opplever ellers Firefox som en rask og fin nettleser. 
+Ved å sveipe skjermbildet mot høyre, vises fanene du har åpne, og ved å sveipe det mot venstre, får du kjapp tilgang til å merke en nettside som en favoritt, navigere frem og tilbake etc. 
+Du kan også gjenåpne lukkede faner om du angrer deg. 
+
+På den velkjente Sunspider-testen, som måler javascript-ytelse i nettleseren, får vi særdeles gode 2696ms med Firefox på en HTC Incredible S (test i nær fremtid!). 
+
+Til sammenligning fikk vi 6166ms med den medfølgende nettleseren og Safari/iPhone 4 scorer så vidt i overkant av 4000ms. 
+
+Mobilutgaven har også en egen fane for nedlastinger, som for øvrig skjer i bakgrunnen mens du surfer videre. 
+
+Firefox' Awesomebar, som ble introdusert i versjon 3 for PC-varianten, er også på plass i mobilutgaven, som gjør at du sjelden trenger å skrive inn mye for å komme til nettsiden du ønsker. 
+Den indekserer både ord i sidetitler og URL-er, og som regel holder det med et par-tre knappetrykk for å få opp siden du ønsker. 
+
+For – det er nemlig en ting til som er ekstra smart med Firefox. 
+I hvert fall om du bruker Firefox på PC-en også. 
+
+Synkronisering 
+
+Firefox Sync, som er på plass i versjon 4 av Firefox er enkelt å sette opp og gjør at enhetene dine deler bokmerker, historikk, lagrede passord etc. 
+Har du noen nettsider åpne på PC-en for deretter å ta med mobiltelefonen ut, kan du få tilgang til nettsidene du har åpne på PC-en. 
+
+På samme måte kan du stjerne en artikkel på mobilen, og ved synkronisering vil da bokmerket også dukke opp på nettleseren på PC-en. 
+
+Se flere skjermbilder av Firefox 4 for Android: 
+
+Konklusjon 
+
+Firefox er faktisk så bra at det nå er mitt nye weapon of choice når det kommer til Android-nettleser. 
+Firefox er rask, funksjonsrik og brukervennlig. 
+Den hadde riktignok blitt enda bedre om Firefox var min primære nettleser til daglig, men det er definitivt et ekstra argument for å gå over til Firefox også på PC-en. 

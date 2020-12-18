@@ -1,0 +1,50 @@
+160 GB S-ATA Maxtor DM+9
+Maxtor er nå klar med S-ATA utgaven av sine DiamondMax Plus 9 harddisker. 
+Vi sammenligner den både med ATA-utgaven og konkurrenten Seagate sin S-ATA disk. 
+
+Maxtor er den tredje store diskfabrikanten som nå er klar med harddisker med S-ATA grensesnitt. 
+Seagate var først ute, med god margin. 
+Western Digital har levert sin Raptor i begrenset omfang, nå er det Maxtor sin tur. 
+
+Seagate valgte å utstyre en av sine eksisterende disker med S-ATA, mens Western Digital satset på en Raptor, som med sin e 10 000 omdrininger og lavare kapasitet, henvender seg til en ny nisje, uten konkurrenter verken i eget eller andres sortiment. 
+
+Maxtor har gjort som Seagate, det er en kjent modellserie som nå er tilgjengelig med S-ATA grensesnitt. 
+Serien heter DiamondMax Plus 9 og kommer i størrelser på 60, 80, 120, 160 og 200 GB. 
+
+Vi har testet 160 GB utgaven. 
+
+Forskjellen 
+
+Maxtor har gjort som Western Digital når det gjelder strømtilkoblingen, de bruker både den ordinære 4-pins kontakten som alle strømforsyninger tilbyr, og den nye S-ATA strømkontakten. 
+
+Dermed sparer du noen tiere, siden ingen strømforsyninger foreløpig leveres med S-ATA strømkabler. 
+Dermed sparer du en overgang hvis du bruker en Maxtor eller Western Digital S-ATA disk, mens en Seagate krever en overgangskabel som ikke er så lett å få tak i. 
+
+Selve disken er identisk med den vanlige ATA-133 utgaven, det eneste som skiller er at S-ATA grensesnittet kan overføre data et lite strå vassere, med 150 MB/sekund mot 133MB/sekund teoretisk hastighet. 
+
+Forskjellen er på ingen måte stor, men den er målbar. 
+
+Vi målte den raskeste lesehastigheten til 60 425 KB/sekund, mens den ordinære ATA-133 utgaven stoppet på 59 574 KB/sekund. 
+
+Skrivehastigheten toppet på 36 244 KB/sekund mens den ordinære ATA-utgaven klarte 38 614 KB/sekund. 
+
+Snitthastigheten på lesing var 47 347,4 KB/sekund mot 47 426,3 på ordinær ATA. 
+
+Snitthastigheten på skriving var 27 445,1 KB/sekund mot 28 975,8 KB/sekund. 
+
+Med andre ord er det en ørliten gevinst på lesing helt i begynnelsen av disken, forøvrig stiller de i praksis svært likt. 
+
+Sammenligner vi med Seagate sin S-ATA disk, så klarte ikke den mer enn 44 853 KB/sekund på lesing og 33 185 på skriving. 
+
+Maxtor er langt foran på ytelse, med andre ord. 
+
+Konklusjon 
+
+Maxtor leverer den raskeste S-ATA disken med stor kapasitet, det er det ingen tvil om. 
+Det er derimot helt marginale forskjeller fra den ordinære ATA-133 utgaven, som er litt rimeligere. 
+
+Vil du derimot være moderne, og slippe de uhåndterlige flatkablene, da er Maxtor DiamondMax Plus 9 S-ATA et naturlig valg. 
+
+Den er dessuten svært støysvak, og blir ikke varmere enn at det er mullig å holde hånden på den mens den er i drift, så lenge man gidder, selv når den ikke er montert i et kabinett som leder bort mye av varmen. 
+
+Vi ser fram til å teste utgaven på 200 GB. 

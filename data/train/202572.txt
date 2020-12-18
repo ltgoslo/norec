@@ -1,0 +1,59 @@
+AMD Phenom II X4 905e
+TEST: 
+Strømgjerrig og rimelig prosessor med fire kjerner fra AMD. 
+
+Er du usikker på hvilken betydning PC-prosessoren har i datamaskinen din, og hvilke modeller som er aktuelle? 
+I så fall bør du lese vår lille nybegynnerguide. 
+
+AMD har i øyeblikket ingen prosessorer på markedet som kan matche de raskeste i7-modellene fra Intel, men selskapet satser imidlertid tungt i den store mellomklassen. 
+Her har de i øyeblikket mange modeller, og en av de mest interessante er den strømgjerrige Phenom II X4 905e. 
+
+Dette er en firekjernet 45nm-prosessor som passer både i AM2+ og AM3-sokler på nyere hovedkort, og støtter både DDR2 og DDR3-minne. 
+Klokkehastigheten er 4 x 2,5 GHz. 
+
+Høy ytelse, tross beskjedent forbruk 
+
+I motsetning til andre firekjernede prosessorer, som vanligvis trekker rundt 95W eller mer, trekker ikke 905e mer enn 65W. 
+Det merkes først og fremst med mindre varmeutvikling, noe som igjen betyr mindre kjølebehov og lavere støynivå. 
+
+Det er imidlertid på det rene at slike e-utgaver ofte har en tendens til å yte litt mindre enn sine mer strømkrevende søsken på samme klokkefrekvens, men vi tror ikke eiere av 905e behøver å bekymre seg særlig for det, med mindre man har svært krevende behov. 
+Opplevelsesindeksen i Windows 7 viser nemlig 7,1 av 7,9 på prosessorytelse på vår test-PC. 
+Denne PC-en er for øvrig utstyrt med 2 GB DDR2-minne (PC6400), og hovedkortet er av typen ASUS M4N78-AM (Socket AM2+) 
+
+Hvis du lurer på hvor bra det er, har vi lagt ved tall fra tre andre, populære prosessorer, med tilsvarende maskinvare for øvrig: 
+
+En indikasjon på at 905e er kjappere enn de andre, fikk vi allerede under installasjonen av Windows 7. 
+Hele prosessen var unnagjort på 14 minutter på PC-en med denne prosessoren, noe som er mer enn ett minutt kjappere enn nestemann, Intels E8400. 
+
+En direkte sammenligning mellom prosessorer med 2 og 4 kjerner blir aldri helt rettferdig, men siden disse to prosessorene skal ha et like høyt strømforbruk og koster omtrent det samme, har vi valgt å gjøre det likevel for å vise hva du kan forvente for pengene dine. 
+
+Store forskjeller i viftehastighet 
+
+Først ønsket vi å se nærmere på temperatur og kjøling, naturligvis med vifteregulering aktivert i BIOS: 
+
+Tabellen over er interessant på flere måter. 
+For det første viser den at AMD-prosessoren er vestentlig kjøligere enn Intel-prosessoren, for det andre viser den at viften på førstnevnte roterer nesten dobbelt så raskt under belastning. 
+Der ligger nok også mesteparten av forklaringen på den relativt store temperaturforskjellen. 
+Det er helt på det rene at rotasjonshastigheten kunne vært langt lavere på AMD-viften, uten at overoppheting hadde vært et problem. 
+
+Dermed kunne også støynivået under belastning vært enda lavere. 
+Under normal bruk var viften knapt hørbar, men Intel-viften var hakket stillere, og flere hakk stillere under hard belastning. 
+
+Fordeler med 4 kjerner 
+
+Hva sier så mer dyptgående ytelsestester? 
+Vi kjørte testene til Passmark, hvilket gav oss følgende resultater fra de to prosessorene: 
+
+Her sammenligner vi den mot andre, populære 4/6-kjerners prosessorer, tallene er hentet fra Passmarks egne CPU-rangeringer 19.9.2009: 
+
+Intel Core2 Quad 8200 er helt klart den mest aktuelle konkurrenten fra Intel. 
+Den koster omtrent det samme, og byr på generelt noe høyere ytelse enn 905e. 
+Det er imidlertid verdt å nevne at Intel-prosessoren trekker vesentlig mer strøm (95W mot 65W). 
+
+Konklusjon 
+
+Det er ingen tvil om at en firekjernet prosessor har noe for seg, og vil i stadig flere operasjoner ha klare fordeler kontra dobbelkjernede prosessorer. 
+Spesielt gjelder dette moderne operativsystemer som Vista og Windows 7, som er optimalisert for flere kjerner. 
+
+AMD har ganske enkelt laget en meget strømgjerrig 4-kjernet prosessor med god ytelse, og den lave temperaturen gjør den velegnet til bruk i små kabinetter. 
+Det er imidlertid verdt å nevne at viftehastigheten (ved bruk av standardkjøleren) er relativt høy, og at dette kan merkes under hard belastning. 

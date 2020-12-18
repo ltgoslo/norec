@@ -1,0 +1,46 @@
+Samsung SpinPoint 500GB
+Harddisker blir større og billigere, sånn har det vært i årevis og slik fortsetter det. 
+Vi har tatt en stikkprøve og testet Samsungs 500 GB harddisk. 
+
+Samsung er som regel den rimeligste disken du får, samtidig som de er pålitelige og stillegående. 
+En sjekk på prislisten hos en av de største nettbutikkene viser fire forskjellige produsenter som tilbyr 500 GB disker. 
+Den dyreste er Maxtor med en pris på 2 250 kroner, neste er Hitachi på 2 025 kroner, så kommer Seagate på 1 995 kroner, Western Digital på 1 750 kroner mens Samsung koster 1 395 kroner. 
+
+Våre erfaringer med disker fra Samsung er gode, vi har enda ikke opplevd at noen av dem har sviktet. 
+De er også blant de mest stillegående og med minst vibrasjoner. 
+Spesielt det siste kan skape store støyproblemer hvis de ikke er montert i elastiske oppheng. 
+Mange kabinetter har en tendens til å begynne å skrangle hvis diskene begynner å vibrere i takt og utakt, de går jo sjelden med nøyaktig samme turtall og forskjellen får mange kabinetter til å synge med... 
+
+Kapasiteten på 500 GB gir deg i dag mest for pengene, 750 GB disker fra Seagate koster over dobbelt så mye som en Samsung på 500, og ca en tredjedel mer enn Seagates egen 500 GB. 
+
+Mindre disker koster ikke så mye mindre at det er verdt å spare en hundrelapp eller to. 
+
+Men hvilken 500 GB disk er best? 
+
+Det som er viktig med en disk er først og fremst hastigheten. 
+Varme og støy er også viktige faktorer, men avhenger i stor grad av monteringen og miljøet rundt. 
+Derfor fokuserer vi i denne omgang på hastighet, og først ute på testbenken er Samsung SpinPoint T166. 
+
+Imponerende rask 
+
+I testPCen befinner det seg i øyeblikket to andre disker som er kjent for god ytelse: 
+En noe mindre disken i samme Samsung-familie på 400 GB og en Raptor på 150 GB fra Western Digital. 
+Raptor roterer raskere med sine 10 000 RPM mot de andres 7200, og har mindre plater med mindre kapasitet. 
+Det gjør at aksesstiden blir vesentlig kortere, samtidig som kontinuerlig overføring også er blant de raskeste. 
+
+Vi sammenlignet først med 400 GB utgaven i samme familie, og ser at det er klar forskjell i 500 GB sin favør. 
+
+Sammenlignet med WD Raptor så er denne raskest ytterst på disken, men faller fortere av i kontinuerlig overføring. 
+
+Raptor er overlegen når det gjelder aksesstid, men burstmode, hvor det leses fra hurtigbufferen i styreelektronikken på disken, er ikke mindre enn imponerende hos 500 GB fra Samsung. 
+
+Konklusjon 
+
+Samsung SpinPoint 500 GB er den rimeligste av 500 GB'erne og hevder seg godt i toppen, selv sammenlignet med racerne. 
+
+Varmeutviklingen er beskjeden, den blir aldri mer enn håndvarm når den ligger åpent i rommet. 
+
+Støyen er så lav at du må være svært nær for å høre at den spinner. 
+Lydkarakteren er svært nøytral, i form av "hvesing" og ingen tegn til pipetoner. 
+
+Konkurrentene har her en stor utfordring, de vil bli testet fortløpende over nyåret. 

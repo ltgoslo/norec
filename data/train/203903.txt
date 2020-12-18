@@ -1,0 +1,117 @@
+Denne PC-en føles helt latterlig lett
+Den er ikke spesielt liten, men veier bare 970 gram. 
+Det føles helt merkelig i hånden. 
+Men hvordan er opplevelsen under bruk? 
+
+Swift-serien fra Acer inneholder mange av de beste PC-ene vi noen gang har sett fra PC-produsenten. 
+Nylig testet vi en av de nyeste tilskuddene, Swift 3 med AMD Ryzen-prosessor, som vi premierte med en femmer på terningen. 
+Nå har turen kommet til den nye generasjonen Swift 5, som er den klart letteste PC-en med 14-tommer skjerm vi har testet noen gang. 
+
+Nesten ikke til å tro 
+
+Den er så lett at det første som slo oss da vi løftet den ut av esken, var at her var sannsynligvis ikke batteriet satt inn. 
+De fleste ultrabookene med 14 tommer skjerm veier mellom 1,2 og 1,4 kg. 
+
+Denne veier 970 gram. 
+
+Det er svært lite for en PC som måler 32,9 cm x 22,8 cm x 1,49 cm. Designen er nemlig ikke så minimalistisk som vi har sett en del eksempler på den siste tiden, det er bortimot en centimeter kant på sidene av skjermen og 2,5 cm kant på hver side av tastaturet. 
+
+Magnesium 
+
+Hemmeligheten ligger først og fremst i innpakningen. 
+Her har Acer benyttet magnesium rund baut. 
+Det føles nesten litt som plast, men det er altså et svært lett metall - med tilhørende gode egenskaper når det gjelder robusthet. 
+
+Vi merker oss videre at batteriet sannsynligvis også bidrar til den lave vekten, med sine to celler og en kapasitet på 36 Wh. 
+Likevel hevder produsenten at Swift 5 skal klare inntil 8 timer driftstid mellom hver gang den må puttes i laderen. 
+Mer om det siden. 
+
+God skjerm, smart leddet 
+
+Swift 5 har noen likheter med Swift 3, blant annet har den et lignende skjermledd, der skjermen kan legges helt flatt. 
+Her gir det spesielt god mening, siden PC-en er utstyrt med en berøringsskjerm. 
+Å legge skjermen helt flatt gjør det for eksempel enklere å ta notater eller tegne på den. 
+
+Når vi først er inne på skjermen: 
+Her har Acer benyttet et IPS-panel fra LG Display, som sørger for at skjermen kan betraktes fra skrått hold uten at det påvirker farger, lys og kontrast. 
+Oppløsningen på 1920x1080 piksler er etter vår mening optimalt for denne skjermstørrelsen - men vi må innrømme at vi er større fan av bredde:høydeforhold 3:2 enn 16:9. 
+Flere PC-produsenter har fått øynene opp for 3:2-formatet den siste tiden, se bare på Microsoft og Huawei. 
+
+Skjermen har gjennomsnittlig god lysstyrke og er dekket av et blankt kontrastbelegg, slik ni av ti berøringsskjermer er. 
+Det betyr god kontrast, men også større fare for sjenerende reflekser. 
+
+Finfint tastatur og pekeplate 
+
+Tastaturet er baklyst, fast og tastene byr på meget god respons under bruk. 
+Det avgir også mindre støy enn mange andre i klassen, og vi har derfor ikke noen problemer med å tilbakelegge time etter time med jobbing her. 
+En relativt stor og god, multiberøringsfølsom pekeplate med integrerte venstre- og høyreklikk, er med på å gjøre arbeidssituasjonen behagelig. 
+
+Under tastaturet til høyre, sitter en fingeravtrykkleser. 
+Denne bruker du til å logge deg raskt på PC-en ved hjelp av funksjonen Windows Hello. 
+Det er ventet at du snart kan bruke denne funksjonen til å logge deg på nettjenester og utføre betalinger, på samme måte som du kan med fingeravtrykkleseren på mobiler. 
+
+Overraskende porter 
+
+På venstre side sitter en analog 3,5mm lyd inn/utgang, på den andre siden sitter det en - hold deg fast - fullstørrelses HDMI-utgang, to vanlige USB 3.0-porter og en USB C-port. 
+Spesielt HDMI-utgangen er svært sjelden kost på de tynneste og letteste PC-ene, vanlige USB-porter er også på vikende front. 
+At Swift 5 har disse, er både overraskende og udelt positivt! 
+
+USB-C-utstyr er ikke veldig utbredt ennå, men det kommer. 
+Den nye porten har mange fordeler kontra vanlig USB (USB-A). 
+Merk for øvrig at porten også støtter DisplayPort, og dermed kan du bruke både den interne skjermen og koble til to eksterne skjermer om du har behov for det. 
+Det er gull! 
+
+Undersiden har to høyttalere i front, disse gir middels god lyd - men bassen kunne godt vært mer markant. 
+Her er også tre åpninger for luftinnsug, luften blåses ut mellom skjerm og tastaturdel. 
+Det betyr at denne PC-en helst bør stå på et flatt underlag når den er i bruk, spesielt hvis du kjører den litt hardt. 
+På innsiden sitter nemlig en åttende generasjon Intel Core i5-prosessor (8250U), og denne har en tendens å bli litt varm ved belastning. 
+
+Vifter som høres 
+
+Samtidig er det verdt å merke seg at PC-en ikke oppleves som spesielt bråkete. 
+Joda, viftene starter ganske tidlig når belastningen tiltar, men holder seg som regel på relativt lavt turtall. 
+
+Den store oppesiden i forhold til sjuende generasjon, er ytelsen. 
+Antall prosessorkjerner er doblet fra to til fire, og du vil derfor oppleve at alle apper samt fleroppgavekjøring går raskere og smudere enn på forrige generasjon. 
+
+For øvrig har modellen 8 GB RAM og en SSD på 256 GB. 
+Det er som standard å regne i klassen rundt 10.000 kroner. 
+
+Slik er ytelsen 
+
+Våre tester i Passmark tyder på at prosessorytelsen er rundt 20 prosent høyere i snitt enn på forgjenger i5-7200U. 
+Det er en del lavere enn vi hadde forventet, og vi antar at Acer bevisst skrur ytelsen litt ned for å holde temperaturen nede - uten at viftene går bananas. 
+Det kan også være at Windows 10 skrur ned hastigheten etter en stund med tung belastning fordi temperaturen blir for høy. 
+
+Sammenligner vi med HP Spectre 13, som vi testet med samme prosessor, ser vi at ytelsestallene for denne er en god del høyere. 
+
+SSD-ytelsen er god - men litt bak de beste, spesielt på skriving (rundt 570 MB pr sekund i snitt). 
+Lesehastigheten er derimot upåklagelig med rundt 1,57 GB i sekundet på det raskeste. 
+
+Uansett: 
+Totaltytelsen er god - og mer enn god nok til vanlig PC-bruk, men ser du etter en PC til spilling, tunge matematiske operasjoner, 3D-konstruksjon og andre svært tunge oppgaver, bør du lete andre steder. 
+
+Litt bak på batteri 
+
+Vi nevnte så vidt batteriet innledningsvis, og Acers påstand om inntil 8 timers driftstid. 
+Vi tester batteriet ved å strømme video fra YouTube til maskinen skrur seg av av seg selv, og her holdt ikke Swift 5 ut i mer enn 305 minutter. 
+Det tilsvarer 5 timer og 5 minutter. 
+
+Det er et godt stykke bak de beste, og vi tror du skal slite med å klare åtte timer selv med lett bruk. 
+Kanskje kan tiden bedres med en oppdatering av fastvaren, men dette har du ingen garanti for. 
+
+Når det gjelder lading, er PC-en middels rask. 
+Etter én time i stikkontakten, er batterinivået 54 prosent. 
+De beste ligger på over 70 prosent. 
+Det hører med til historien at strømforsyningen er svært liten, nesten på størrelse med en mobillader, noe vi også setter stor pris på. 
+
+Konklusjon 
+
+Møtet med Acer Swift 5 ble i hovedsak en meget positiv opplevelse. 
+Maskinen er usedvanlig lett, den er behagelig å bruke og byr på alle de tilkoblingene vi ofte savner på de letteste maskinene. 
+
+På minussiden har vi notert oss at ytelsen er litt lavere enn vi hadde forventet av en PC med denne prosessoren. 
+Når det gjelder batteritiden er den også noe lavere enn hva man skulle tro ved å lese spesifikasjonene, men vi gir likevel godkjent med tanke på den meget lave vekta på denne maskinen. 
+
+Få også med deg testene av den åpenbare konkurrenten Huawei Matebook X. 
+De andre, ferske PC-testene finner du her. 

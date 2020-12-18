@@ -1,0 +1,45 @@
+Asus PCE-AC66 trådløst nettverkskort
+Kan du like godt droppe nettverkskabelen? 
+
+Trådløst nett har utviklet seg enormt siden de første aksesspunktene dukket opp rundt årtusenskiftet. 
+Både pris, brukervennlighet, dekning og hastighet har gjort trådløst til den foretrukne nettverksforbindelsen for mange. 
+
+Men den harde kjerne av brukere sverger fremdeles til nettverkskabel og tilhørende utstyr i gigabit-klassen. 
+Hvor langt unna er de mest avanserte trådløse alternativene? 
+
+Tidligere har vi testet to av de mest avanserte Asus-ruterne som jobber med 802.11ac standarden. 
+Resultatet var imponerende, men var likevel bare halvparten av det nettverkskabelen tilbyr. 
+Skal du ofte kopiere mye data kan du dermed spare en del kjedelige venteminutter ved å bruke kablet nettverk. 
+
+Nå har Asus kommet med PCE-AC66 - en ny klient for 802.11ac. 
+Den er for innmontering i stasjonære PC, og plasseres i en PCI Ekspress kortplass. 
+
+Installasjon 
+
+Installasjonen er enkel, det er bare å sette i kortet og skru fast braketten. 
+
+Så kan du enten montere antennene direkte på skrukontaktene på braketten, eller bruke forlengeren som følger med. 
+Det er helt klart det riktige å gjøre, ellers vil PC-kabinettet være en hindring for signalene, spesielt hvis maskinen plasseres under et bord innerst i en krok. 
+
+Testmaskinen med Windows 7 klarte ikke å installere driver automatisk, men både driver og konfigureringsprogram kommer på CD som følger med. 
+Installasjonen var svært enkel og da den var ferdig var 802.11ac kortet klart til bruk og det innebygde nettverkskortet deaktivert. 
+
+Oppsettsprogrammet er svært enkelt, men inneholder det du trenger og litt til. 
+
+Testing 
+
+Vi testet først med testmaskinen en meter unna ruteren. 
+Resultatet var imponerende, praktisk talt like raskt som kablet gigabit nettverk! 
+
+På den vanlige testplassen to etasjer ned hvor vi tester alle nettverksløsninger, var ytelsen ikke like imponerende, men likevel meget god. 
+Men den var ikke like rask som da vi satte opp to rutere, med den ene i bridge-modus. 
+
+Konklusjon 
+
+Under gunstige forhold er ikke forskjellen mellom gigabit nettverk og trådløst 802.11ac særlig stor. 
+
+Problemet er at hvis det ikke ligger til rette for kabling på grunn av betongvegger eller store avstander, så blir gjerne den trådløse dekningen også dårlig. 
+
+Men for midlertidige arrangementer og andre installasjoner der man ikke ønsker kabler av praktiske/estetiske årsaker, da er denne løsningen ypperlig. 
+
+Asus PCE-AC66 

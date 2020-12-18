@@ -1,0 +1,66 @@
+Logitech HD Pro Webcam c920
+Vi har sett på toppmodellen til Logitech. 
+
+Forløperen til dette kameraet testet vi for drøyt halvannet år siden, den modellen het HD Pro Webcam C910. 
+Etterfølgeren har fått seg en tier ekstra og heter altså HD Pro Webcam C920 - hva innebærer det? 
+
+Bort med CD-platen 
+
+Det første vi oppdaget var at det ikke følger med noen CD for installasjon av driver og programvare. 
+Dette løser seg i to trinn. 
+Det første er at kameraet allerede har grunnleggende støtte i Windows, det gjelder både selve kameradelen og mikrofondelen. 
+Kameraet vil derfor virke med grunninnstillingene uten videre. 
+
+Men skal man utnytte kameraet fullt ut må du laste ned styreprogrammet. 
+Dette skjer enten ved at du går til Logitechs nettsted og laster ned programvare for ditt system, eller helt automatisk. 
+Vi erfarte begge deler på de to PC-ene vi testet på, uvisst av hvilken grunn. 
+
+Montering 
+
+Kameraet har hengslet ledd som gjør at det sitter rimelig støtt på de fleste skjermer. 
+
+Det er også en innsats med gjenger, som gjør det mulig å sette kameraet på et kamerastativ, noe som er svært praktisk. 
+
+Programvaren 
+
+Det er ikke store endringer i programvaren, den fremstår som nærmest identisk med den som fulgte med forgjengeren. 
+
+Hovedmenyen lar deg starte forskjellige programmer som kan brukes sammen med videokameraet, som Skype, Windows Live Messenger, Logitech Vid og annet du måtte ha installert på maskinen. 
+
+I tillegg er det den vanlige dosen tull og tøys, med masker og figurer som følger dine egne munn- og øyebevegelser. 
+Det virker forbausende bra, men er kanskje ikke morsomst i lengden? 
+
+Forøvrig er det full automatikk i lyssettinger og andre parametre, men du kan selv overstyre disse innstillingene. 
+Vi mener at du ikke får det særlig bedre ved å justere selv, det eneste som kan ha mest for seg er å endre lysstyrke i bildet. 
+Men det er bedre å justere belysningen i rommet, og å ha en lys bakgrunn på skjermen. 
+Har du en blå skjermbakgrunn vil webkameraet vise et ansikt med blåtoner. 
+
+Bildekvalitet 
+
+Bildekvaliteten er svært god, du får skarpe bilder med gode farger. 
+Til å legge ut bilder av saker og ting på web er det høyst brukbart, og det er en stor fordel å kunne justere alt og bruke PC-skjermen som søker når du skal ta bilde. 
+
+Det samme gjelder video, du kan filme snutter og legge rett opp på YouTube, eller ta opp i Windows Live Movie Maker og redigere først. 
+
+Komprimering? 
+
+På nettsiden til Logitech og i informasjonen på emballasjen står det at kameraet støtter H.264 maskinvarekomprimering. 
+Samtidig står det at det kreves QuickTime og at kravet til opplastningshastighet for videostrøm i HD-format "varierer". 
+For full 1080p video kreves en betaversjon av Skype. 
+
+Dette virker ganske forvirrende. 
+Vi finner ingen innstillinger der man kan velge komprimering til H.264 i maskinvare når vi skal bruke kameraet i et chatteprogram. 
+Det er mulig at dette skjer i bakgrunnen, men vi tviler. 
+Vi fikk uansett ikke på langt nær samme kvalitet over vår dårlige nettlinje hjemmefra, som da vi brukte Creative sitt Live! 
+Cam Connect HD. 
+
+Men videoer vi tar opp direkte på harddisken blir lagret i MP4-format, som jo er H.264, og det er ingen ventetid for komprimering, slik det var med det forrige kameraet C910. 
+
+Konklusjon 
+
+Har du en rask linje er dette kameraet utmerket som webkamera. 
+I tillegg kan du ta ganske gode bilder og videosnutter som bare er å laste rett opp på YouTube eller andre nettsteder. 
+
+Men sitter du med slapp ADSL er det ikke noe sanntidskompresjon å hente for å få bedre bildekvalitet i chatteprogrammer. 
+
+Logitech HD Pro Webcam C920 

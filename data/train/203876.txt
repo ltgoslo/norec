@@ -1,0 +1,261 @@
+Mobiltelefon med monsterkamera
+Aldri før har det vært mulig å ta slike bilder i mørket. 
+
+Huawei har på få år etablert seg som en av de aller ypperste mobilprodusentene, og det er ikke tilfeldig. 
+
+Det kinesiske selskapet er eid av de ansatte og forventer å bruke hele 20 prosent av inntektene i 2018 på forskning og utvikling. 
+
+Den tunge investeringen der har i det siste resultert i stor satsing på kunstig intelligens og en utrolig spennende kamerateknologi: 
+Ingen selskaper sendte inn flere patentsøknader til det europeiske patentkontoret i 2017, enn kinesiske Huawei. 
+
+Denne våren lanserte kineserne to nye toppmodeller i P-serien: P20 og P20 Pro. 
+Dagens testprodukt er Pro-utgaven, som ligger på rundt 8.500 kroner i butikkene; altså henholdsvis 1.000 og 2.500 kroner rimeligere enn erkerivalene fra Samsung og Apple, og det med dobbelt så mye lagringsplass. 
+
+Det er fremdeles mye penger for en mobiltelefon, bevares, men sammenliknet med de argeste konkurrentene er likevel ikke prislappen så gal. 
+
+Den «vanlige» utgaven er et par tusen kroner rimeligere, men kan verken skilte med trippelkamera bak, AMOLED-skjerm eller vanntetthet, for å nevne noe. 
+
+#detKameraet 
+
+Og det er definitivt kameraet som er den største overskriften denne gangen, og som vi derfor skal vie litt ekstra spalteplass til. 
+P20 Pro er nemlig den første telefonen som kan skilte med tre kameraer på baksiden: 
+
+* Hovedkameraet er på 40 megapiksler, med sensorstørrelse på 1/1,7 tommer og lysstyrke på f/1,8. 
+Denne sensoren er over dobbelt så stor som den som sitter i iPhone X og 1,7 ganger større enn den på Samsung Galaxy S9+. 
+Her bruker Huawei såkalt «pixel binning», der fire og fire piksler slås sammen til én, slik at bildene har en standard oppløsning på 10 Mp (tilsvarende 2µm pikselstørrelse). 
+
+* Sort/hvitt-kameraet, som Huawei har hatt i en rekke modeller nå, er fortsatt på plass, med oppløsning på 20 megapiksler og lysstyrke på f/1,6. 
+Her er sensorstørrelsen 1/2,78 tommer. 
+
+* 
+Et nytt tele-kamera med brennvidde tilsvarende 80 mm, lysstyrke på f/2,4 og en liten 1/4,4 tommers sensor. 
+Her er oppløsningen 8 megapiksler. 
+Dette kameraet har også optisk bildestabilisering. 
+
+For øvrig har frontkameraet oppløsning på 24 megapiksler (f/2,0), som totalt gir 92 megapiksler fra alle kameraene til sammen. 
+Det tror vi jaggu er rekord. 
+
+Så viktig er kameraet for Huawei på denne telefonen, at de har trykket logoen og kamerainformasjonen på høykant, slik at de vises riktig når man holder telefonen på tvers. 
+I så måte synes vi selskapet burde ha vurdert å «ta en Sony» og legge på en egen utløserknapp på høyre langside – plass er det i hvert fall nok av. 
+
+Og det skal sies – vi har tatt noen svært gode bilder med denne telefonen, særlig på nattetid, men noen ganger blir vi nødt til å fikle litt selv for å få det beste resultatet. 
+
+Kunstig intelligens – som vi av og til slår av 
+
+Som med Mate 10 Pro drives P20 Pro av Huaweis Kirin 970-prosessor, som har en egen NPU-brikke dedikert til kunstig intelligens. 
+
+Denne brikken brukes blant annet til å optimalisere telefonens ytelse ved at den over tid lærer seg ditt bruksmønster, men den brukes også tungt i kameraappen. 
+Blant annet kan den gjenkjenne et par dusin ulike scener (f.eks. «blå himmel», «scenekunst», «grøntområder», «solnedgang», «mat», «hund» og liknende) og endre kamerainnstillingene deretter. 
+
+I tillegg kan kameraet automatisk bytte over til portrettmodus (med uskarp bakgrunn) eller nattmodus (med lang lukkertid) dersom den oppdager henholdsvis ansikter eller at det er mørkt. 
+I en framtidig oppdatering skal det også komme automatisk justering av vinkelen dersom du tar et typisk horisontbilde og ikke holder kameraet helt vannrett. 
+
+«Master AI» kaller Huawei løsningen, som kan slås av og på i kamerainnstillingene. 
+Når du får opp ett av de nevnte ordene nederst på skjermen, kan du eventuelt krysse det bort om du heller bare vil ta bilder med vanlig automatikk. 
+
+Og det gjør vi dessverre til stadighet. 
+Særlig når ordene er «blå himmel», der Huawei-kameraet serverer svært overdreven fargemetning – ikke bare på den blå himmelen, men også på andre farger i bildet. 
+
+I bildene under har vi latt Master AI gjøre jobben sin på bildet til høyre, mens vi har krysset bort «blå himmel» til venstre. 
+Sistnevnte ser langt mer naturlig ut. 
+
+For vår del kunne den også spart seg for å hoppe direkte i portrettmodus når den oppdager ansikter, siden det ikke er alltid vi vil forfalske en uskarp bakgrunn. 
+Og kanskje burde den kunstige intelligensen ha fanget opp at vi alltid krysser bort «blå himmel»-modusen og droppe den helt? 
+
+Magisk om natta 
+
+Når mørket faller på, finnes det neppe et bedre mobilkamera enn det Huawei serverer oss med P20 Pro, og det er først og fremst her den kunstige intelligensen imponerer voldsomt. 
+
+For ikke med noe kamera vi har brukt har det vært mulig å ta skarpe bilder med flere sekunders lukkertid – håndholdt. 
+Slik foregår det: 
+
+Huawei kaller konseptet AIS (artificial intelligent stabilization) og baserer seg da på at NPU-brikken gjenkjenner former og objekter i bildet, slik at lyset som fanges inn plasseres på riktig plass selv om du er litt ustø på hånda. 
+De to hovedkameraene har faktisk ikke engang optisk stabilisering (sannhet med modifikasjoner, se videoavsnittet lenger ned). 
+
+Vi lar bildene under tale for seg. 
+Som vanlig advarer vi mot at publiseringssystemet vårt ikke er velegnet til å vise fram bilder fra sin beste side på grunn av komprimering, så vi har samlet en hel del testbilder i dette Google Fotoalbumet, der de kan inspiseres i full oppløsning. 
+
+Solid automatikk og fine portretter 
+
+Ellers synes vi Huawei lenge har vært blant de ledende når det gjelder å levere gode bilder basert på automatikken i kameraet. 
+
+Vi får stort sett meget gode eksponeringer med god dynamikk og naturtro farger. 
+Et par eksempler ser du under, og spesielt bildet til høyre, i motlys, er svært godt eksponert, der personene i bildet vises tydelig uten at himmelen bak er helt utbrent. 
+
+Her er nok et eksempel i en tunnel med sterkt lys på utsida – Huawei-kameraet (til venstre) brenner riktignok ut himmelen, men får med seg hele gangveien, noe iPhone X (til høyre) ikke har klart å få med seg på dette bildet: 
+
+Portrettmodusen har også vist seg å være ganske habil – under ser du et eksempel, der mine to kolleger er ganske pent isolert fra bakgrunnen: 
+
+3x optisk zoom, 5x hybridzoom 
+
+Som nevnt har P20 Pro nå fått et tredje objektiv. 
+Tidligere har Huawei satset på to objektiver med lik brennvidde, der ett av dem kun fanger sort/hvitt, men nytt er altså et teleobjektiv med brennvidde tilsvarende 80 mm, som da altså gir 3x zoom versus hovedobjektivet (~27 mm). 
+
+I tillegg kan telefonen bruke pikselinformasjon fra de to andre objektivene og da tilby en 5x «hybrid-zoom». 
+
+For å holde de fysiske målene nede, er bildebrikken på tele-objektivet svært liten (1/4,4"), som gjør at det ikke fungerer like godt når det er mørkt. 
+Det blir fort mye støy på en så liten brikke og dertil sterk støyreduksjon, som fjerner mye detaljer i bildet. 
+(På iPhone velger telefonen heller å forstørre et bilde tatt med det vanlige objektivet enn å bruke tele-objektivet i svakt lys, siden tele-objektivet er mer lyssvakt og har mindre sensor.) 
+
+I dagslys, derimot, fungerer det fint. 
+Og det kjekke med 3x zoom når du velger å zoome inn, er at søkerbildet da tilsvarer nøyaktig det i den midterste firkanten om du har på hjelpelinjer i søkeren. 
+
+Under ser du et par eksempler – i godt utendørslys framstår bildet detaljert og godt, mens det blir en del svakere i dunkel belysning, der detaljnivået ikke er like godt: 
+
+På rent detaljnivå må vi også presisere at Huawei-kameraet ikke klarer å nå helt opp til de beste. 
+Under har vi sammenliknet en 100 prosent-beskjæring med Samsung Galaxy S9+, der det er åpenbart at Samsung-kameraet (nederst) leverer bedre på detaljer enn P20 Pro, noe du kan se i teksturene i plankene: 
+
+Men det er selvsagt først når man studerer pikslene på denne måten man oppdager slikt – på mobilskjermen, på TV eller på en fotoutskrift er ikke disse detaljene noe man legger merke til. 
+
+Ellers er fokuseringen og den generelle ytelsen i kameraappen svært kjapp på P20 Pro, med minimal utløserforsinkelse. 
+
+Video: 
+Fra 4K til supersakte 
+
+Verdt å merke seg med videomulighetene på P20 Pro er at stabilisering kun tilbys på full HD, og ikke dersom du filmer med 4K-oppløsning (ei heller med 60 bilder i sekundet på full HD). 
+
+Vi antar at dette er fordi telefonen baserer seg på stabilisering uten bevegelig optikk, og at høyere oppløsning/bilderate blir for mye for maskinvaren. 
+Nå skal det sies at iFixit har avslørt at alle tre objektivene faktisk har muligheter for optisk stabilisering, så kanskje vil støtten komme i en framtidig programvareoppdatering. 
+
+Men klarer du deg med full HD-oppløsning og 30 bilder i sekundet, klarer Huawei-kameraet i stor grad å stabilisere bildet. 
+Om du er nysgjerrig på hvordan stabiliseringen fungerer, har vi tatt opp to korte snutter, henholdsvis med full HD og stabilisering og full HD uten stabilisering. 
+Undertegnede bærer ei tung veske på skuldra når dette filmes, så rystelsene er større enn ved normal gange. 
+
+I likhet med Sony og Samsung kan du også fange supersakte film med P20 Pro, der telefonen i et veldig kort intervall (0,25s) fanger 960 bilder i sekundet (720p-oppløsning). 
+Dette blir da til åtte sekunder video når du spiller det av. 
+Med på videoen blir også det siste sekundet før du trykket på knappen, samt det neste sekundet etter saktefilmingen (videoen er for øvrig løvblåser vs. sagflis): 
+
+Men løsningen er langt fra like fleksibel som de fra Sony og Samsung, der du kan filme helt vanlig og så trykke akkurat der du vil ha saktefilm; og gjerne flere ganger i samme klipp. 
+Samsung lar deg i tillegg definere et område i bildet slik at saktefilmen slår inn når det blir bevegelse i dette området. 
+
+Sånn, da håper vi du har fått vite det du trengte om kameraet. 
+
+Skjerm med leppe 
+
+Etter at iPhone X kom på markedet i fjor høst, ser det ut til at flere produsenter tar etter med ei leppe på toppen av skjermen. 
+Huawei inkludert, der denne leppa riktignok er en del smalere enn hva tilfellet er for Apples toppmodell. 
+
+Det gjør også at vi ikke mister noe vital informasjon som på iPhone X. 
+Fremdeles er det plass til sju-åtte varslingsikoner på venstre side, og klokke, Bluetooth-status, batteri (med prosent) og liknende på høyre side. 
+
+Via innstillingene kan du velge om du vil «fjerne» leppa, i den forstand at det kun blir sort bak disse ikonene, og der app-vinduet alltid stopper under. 
+
+Skjermformatet blir derfor i 18,7:9-format (2240x1080), og som på Mate 10 Pro har også P20 Pro en AMOLED-skjerm, med dypt sortnivå, rike farger, meget god innsynsvinkel og forholdsvis god lysstyrke når sola lyser på den. 
+Kort og godt har denne telefonen en svært god skjerm, som for øvrig måler 6,1 tommer over diagonalen. 
+
+P20 Pro har også en modus som fungerer på samme måte som Apples TrueTone-teknologi, der lysforholdene i rommet gjør at hvitbalansen endres for økt komfort. 
+
+Men der leppa på iPhone X huser et vell av teknologi, med infrarøde projektorer og den slags, ligger det bare et frontkamera, høyttaler, nærhetssensor og en liten LED-lampe (til varslinger) på Huaweis utgave. 
+
+Ansiktsgjenkjenning med svak sikkerhet* 
+
+For ordens skyld – P20 Pro kan låses opp med fingeravtrykk på vanlig måte, med en knapp under skjermen. 
+Selskapets fingeravtrykkslesere har lenge vært de vi anser som best – de er ekstremt raskt og presise, og i grensesnittet finnes det ekstra funksjonalitet. 
+For eksempel kan du angi at enkelte apper og innhold i «safen» kun vises dersom du låser opp telefonen med en spesiell finger. 
+
+Akkurat på denne telefonen hadde vi likt å ha den på baksiden, som på Mate 10 Pro. 
+Da kunne rammene ha vært gjort enda tynnere, og dessuten tilbyr Huawei ekstra funksjonalitet når den er på baksiden, som at du kan sveipe den ned for å trekke ned varslingsfeltet eller bruke den som utløserknapp for selfie-kameraet. 
+
+Men du må ikke bruke den. 
+Ved siden av kode, mønster og PIN, har Huawei også valgt å tilby ansiktsoppløsning. 
+Funksjonsmessig ganske lik Apples variant, der du blant annet kan lese varslene på låseskjermen når ansiktet ditt oppdages, eller velge å hoppe rett til hjemskjermen når du er identifisert. 
+
+Skjermen tennes når telefonen registrerer at du løfter den opp, men her er ikke algoritmene like presise som hos Apple, der vi oftere er nødt til å tenne den selv ved å trykke på strømknappen (prikk på skjermen fra avslått tilstand fungerer ikke). 
+
+Og ansiktsgjenkjenningen er kjapp – det skal Huawei ha. 
+Faktisk har vi opplevd den som jevnt over raskere enn den på iPhone X, og ikke spesielt mer kresen på lysforhold selv om Apples teknologi her er langt mer avansert (motlys er alltid en utfordring). 
+
+Men vær dog klar over at sikkerheten er ganske dårlig. 
+For – som på Samsungs variant, klarer jeg fint å låse opp telefonen ved å peke den mot et bilde av meg selv på PC-skjermen, eller holde opp en annen telefon foran kameraet der jeg har tatt en selfie. 
+
+Det er selvsagt ikke noe stort problem om du blir utsatt for lommetyveri i Barcelona, men om du vil beskytte innholdet fra kompiser, familie eller hva det måtte være, er det ganske enkelt å bryte seg inn om du har aktivert ansiktsgjenkjenningen, så vet du det. 
+
+*PS! 
+Jeg har klart det flere ganger under testingen, men da jeg til slutt skulle ta video av hvordan det foregikk, prøvde jeg sikkert 50 ganger uten å få det til. 
+Det kan tyde på at mekanismen forbedrer seg etter hvert som den brukes, slik tilfellet også er for Apples løsning. 
+
+Stort batteri 
+
+Ellers er det glass å finne både på for- og baksiden av P20 Pro. 
+Vår versjon er den blå utgaven, og i tillegg finnes det en sort variant, samt en «twilight»-utgave, der fargene graderes over fra blågrønn til lilla. 
+Pro-utgaven er for øvrig vannbeskyttet (IP67-sertifisert). 
+
+Verdt å merke seg er at det ikke er støtte for trådløs lading her (selv med glass på baksiden), men det vil du neppe savne med den enormt sterke laderen som følger med P20 Pro. 
+Batteriet er på hele 4.000 mAh, og i løpet av en halvtime har du allerede ladet over 50 prosent av kapasiteten om du startet på null. 
+
+I motsetning til mange andre telefoner gjør det at vi aldri føler noe behov for å lade P20 Pro på nattetid – det er nesten så man får batteri til en dags bruk bare ved å dytte den i laderen mens man tar morgenstellet på badet, for telefonen er svært utholdende, der vi tror mange vil klare å strekke batteriet over to dager med moderat bruk. 
+
+I går kveld la jeg meg med 56 prosent igjen, etter å ha vært aktiv på skjermen i drøye halvannen time i løpet av dagen (mye ute i sola med høy lysstyrke) og tatt en del bilder og video. 
+
+EMUI gir mange muligheter 
+
+Mange er negative til Huaweis Android-skall, EMUI, og joda – det er blant skallene som er lengst vekk fra Googles originalopplevelse. 
+
+Men samtidig er det ingen som kan skilte med så mange tilpasningsmuligheter som Huawei. 
+Rett ut av esken kommer den uten app-skuff (altså der alle app-ikonene ligger på hjemskjermen, som på iOS), men i menyen kan du enkelt velge om du vil ha app-skuffen, slik at du kun kan ha de mest brukte appene på hjemskjermen. 
+
+Vant med å ha tilbakeknappen på høyre side etter å ha brukt Samsung-telefoner? 
+Ingen problem – i EMUI velger du selv hvilken rekkefølge navigasjonsknappene skal ha. 
+Og om du vil kan du fjerne dem fra skjermen og heller kun bruke fingeravtrykksleseren, der et lett trykk er tilbake, et langt trykk er hjem og der du kan sveipe inn fra siden for å få opp kjørende apper. 
+
+Nevnt er også at du kan gjemme unna private ting bak fingeravtrykket med en annen finger, du kan kjøre to instanser av flere apper slik at du kan ha være innlogget med flere brukere (f.eks. 
+Snapchat og Facebook), styre hvilke apper som skal få kjøre i bakgrunnen og/eller bruke mobildata og en rekke andre ting – som å se sanntids nedlastingshastighet i statuslinja eller tilpasse varslingene per app; for eksempel ved å droppe sprettoppboksen på toppen av skjermen, noe du ikke lenger kan i den rene Android-utgaven. 
+En kjekk funksjon er dessuten å sveipe fingeren bortover langs navigasjonslinjen for å forminske bildet, slik at du når opp til motsatt hjørne med tommelen. 
+
+Strømstyringen er som vanlig ganske aggressiv rett ut av boksen, der du kan oppleve ikke å få varsler fra en app som har blitt stengt for bakgrunnsaktivitet av systemet. 
+Du har imidlertid full kontroll i oppsettet – selv har jeg slått av alt slik at det er fritt fram. 
+
+P20 Pro støtter for øvrig to SIM-kort, om du vil skille mellom jobb og privat eller ofte er på utenlandsturer der det blir dyrt å bruke ditt norske SIM-kort. 
+
+Super opplevd ytelse 
+
+Vi ser en tendens blant produsentene om dagen at de ikke lenger fokuserer så mye på ytelse i presentasjonen av produktet. 
+På S9-lanseringen vi var på tidligere i vår, ble ikke prosessoren nevnt med et ord. 
+
+For telefonene har definitivt blitt kjappe nok. 
+Blant toppmodellene er det ingen telefoner som lenger skroller nettsider mindre pent eller hakker når man navigerer i menyene, og selv de nyeste spillene glir finfint på de fleste. 
+
+NPU-prosessoren hjelper også til med å optimalisere systemet, og vi opplever P20 Pro som spesielt rask med tanke på å starte apper og liknende, fordi de allerede blir lastet inn i bakgrunnen når telefonen lærer deg å kjenne. 
+Med 6 GB RAM innabords må apper sjelden lastes inn på nytt om de er brukt nylig, så å bytte fram og tilbake mellom apper går også lynraskt. 
+
+I rene benchmark-tall får vi toppnotering i PCMark Work 2.0-testen, med 7066 poeng (S9+: 5592 poeng). 
+Dette er testen vi synes er mest relevant for daglig bruk, blant annet med skrolling av nettsider, redigering av bilder og video og den slags. 
+
+På ren prosessorytelse (Geekbench), må imidlertid Huawei se seg slått av de nye S9-modellene med 1915/6742 poeng kontra 3598/8803 på S9+ og 4289/10450 på iPhone X. 
+Verdt å merke seg er at NPU-prosessoren ikke spiller inn på denne testen – da vi fikk utlevert P20 Pro til test kunne Huawei fortelle at det snart kom et par dusin apper som dro nytte av utviklerverktøyene Huawei har tilgjengeliggjort for å utnytte NPU-en, som blant annet skal være svært habil med tanke på identifisering av objekter i bilder og den slags. 
+
+På AnTuTu-testen, som måler en rekke aspekter som 3D-ytelse, prosessorytelse, lagring og mer til, får Huawei-telefonen 207.628 poeng, også her bak Samsungs 247.914 og Apples 227.723. 
+
+Merk at du kan koble P20 Pro direkte til en skjerm eller projektor og bruke en desktop-utgave av Android, der mobilen kan brukes som styreflate eller kan snakke med trådløst tastatur og mus, slik du også kunne på Mate 10 Pro. 
+Siden vi testet dette første gang, har Huawei oppgradert programvaren slik at også lading støttes mens du holder på (gjelder også Mate 10 Pro). 
+
+Atmos-lyd 
+
+Lydmessig har heller ikke P20 Pro noe å skamme seg over. 
+I likhet med flere andre toppmodeller om dagen bærer høyttalerne en Dolby Atmos-sertifisering, som er i stand til å levere et ganske rikt lydbilde, selv om det selvsagt er med begrenset volum og lite bass. 
+Til musikklytting holder vi fortsatt en knapp på høyttalerne i iPhone X. 
+
+Vi opplever også samtalekvaliteten som jevnt over god, selv om vi synes telefonen er kresen på hvordan man plasserer øret mot høyttaleren på toppen, der vi ofte må korrigere litt ved å flytte den en millimeter i riktig retning for å høre motparten optimalt. 
+
+Vi har heller ikke hatt problemer med dekning og liknende – her har Huawei alltid vært gode, der vi ofte lar oss imponere av hvor raskt Google Maps-navigasjonen henter seg inn når man kjører ut av en tunnel sammenliknet med andre telefoner. 
+Aktiverer du WiFi+, vil telefonen automatisk hoppe over på mobildata dersom nettverket du er koblet til er tregt (og gi deg en advarsel om at den har gjort det). 
+
+Som på Mate 10 Pro er lydutgangen i bunnen borte i denne runden, og det gjør at du eventuelt må bruke den medfølgende overgangen om du vil høre på lyd med kabel. 
+
+På den positive siden støtter P20 Pro Sonys LDAC-teknologi (inntil 990kbps Bluetooth-lyd) og AptX 
+HD. 
+
+Konklusjon 
+
+Det er bare å ta av seg hatten for Huawei om dagen – vi trillet seks øyne på terningen da vi testet Mate 10 Pro i høst, og vi triller seks øyne til P20 Pro nå. 
+
+Kameraet er enestående i mørket, og teknologien som ligger bak er høyst imponerende. 
+P20 Pro er en telefon som leverer svært godt på flere punkter: en meget god skjerm, en særdeles rask fingeravtrykksleser, svært høy opplevd ytelse, rikelig med lagringsplass, stor batterikapasitet og kjapp lading til en pris som ligger litt under de argeste konkurrentene – rett og slett et bunnsolid produkt fra kineserne, nok en gang. 
+
+Ikke at telefonen er perfekt – blant annet synes vi fortsatt at mangel på 3,5mm-lydutgang er et savn, og at den kunstige intelligensen i kameraet burde vært lettere å slå av, siden bildene av og til får farger vi ikke er helt komfortable med. 
+Ansiktsgjenkjenningen er kjapp, men lite sikker, og enkelte ting burde ha vært bedre løst, som mangelen på videostabilisering ved høy oppløsning og en ikke alt for elegant supersaktefilmløsning. 
+
+Men du verden. 
+Har du bestilt er det bare å glede seg. 
+
+Har du ikke, bør du sterkt vurdere det. 

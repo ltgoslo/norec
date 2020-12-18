@@ -1,0 +1,117 @@
+Canon Powershot S80
+TEST: 
+Hvis du tåler at lommekameraet ditt er litt større og tyngre enn den typiske IXUS-kategorien, får du et langt bedre kamera. 
+Vi har sett nærmere på Canons siste flaggskip i klassen, Powershot S80. 
+
+Powershot S-serien fra Canon har i flere år vært et alternativ for dem som synes Digital IXUS blir for enkelt, og at G-kameraene og speilrefleksene blir for store. 
+Nå er G-kameraene historie, og dermed blir S-serien mer aktuell enn noensine. 
+
+S80 erstatter S70, og er blitt kraftig forbedret på en rekke områder. 
+
+Tabellen under viser de største forskjellene i forhold til forgjengeren: 
+
+Som du ser av tabellen er det mange forbedringer, spesielt overgangen fra DIGIC 
+I til DIGIC II gjør kameraet vesentlig kjappere i de fleste situasjoner. 
+Vi legger også merke til at CompactFlash nok en gang er forkastet til fordel for Secure Digital-minnekort, noe som også har gjort det mulig å krympe kameraet en smule i bredden. 
+
+Videofunksjonen er kraftig forbedret, nå kan du filme i 640 x 480 piksler til filen blir 1 GB stor, og uten hakkende bevegelser. 
+Kvaliteten blir faktisk meget bra! 
+Du kan også zoome under filmingen, men kun digitalt, og det degraderer kvaliteten mer enn vi hadde forventet. 
+
+Og så ser vi at S80 kan ta opp video i 1024 x 768 pikslers oppløsning - noe vi faktisk ikke har sett på andre stillbildemodeller tidligere. 
+Ikke verst, men vi ser ikke helt behovet - så lenge kameraet kun klarer 15 bilder pr sekund. 
+
+Av funksjoner på S70 som vi savner på S80, er det kun mangelen på RAW bildekvalitet som stikker seg frem, noe som faktisk er et stort ankepunkt for noen, spesielt profesjonelle fotografer som ønsker minst mulig skader som følge av JPEG-komprimering. 
+
+Objektivet er det samme som på forgjengeren, et avansert og kompakt objektiv med god vidvinkel (tilsv 28 mm), og 3,6x zoom. 
+Lysstyrken er også brukbar, størrelsen tatt i betraktning, maks blenderåpning er f/2,8 ved full vidvinkel. 
+Men f/5,3 ved full tele er ikke fullt så imponerende. 
+Nærgrensen ved makrofotografering er respektable 4 cm. 
+
+Flere tekniske data 
+
+Utforming 
+
+Selve kamerahuset er som sagt blitt litt mindre siden forgjengeren, men i forhold til søskenbarna i Digital IXUS-serien, blir S80 å regne som en brødblings og IXUS som flatbrød. 
+Tykkere, men med vesentlig mer innhold. 
+Og vekta på 260 gram gir absolutt 
+wn følelse av hel ved. 
+
+En liten kritisk bemerkning til skjermen, som riktig nok er både stor, klar og fungerer udmerket i de fleste lysforhold, men den er uten beskyttelse. 
+En beskyttende hinne av pleksiglass som på F11 fra Fujifilm, hadde nok spart Canon for en del reklamasjoner. 
+Også vi i DinSide Data har mottatt flere henvendelser vedrørende skjermer som har gått i stykker uten særlig røff behandling. 
+Et Google-søk gir deg mange lignende historier. 
+
+Kameraet er også utstyrt med en optisk søker, og det kan være praktisk, kanskje først og fremst når batteriet synger på siste verset. 
+
+Minnekortet sitter bak batteriluken på undersiden, og bak luken på høyre side (sett bakfra) kan kameraet kobles til TV og PC - sistnevnte heldigvis via standard miniUSB-plugg og i meget høy hastighet (USB 2.0 HiSpeed). 
+
+Kameraet har også et funksjonshjul på siden som lar deg velge mellom helautomatikk, forhåndsdefinerte programmer, og forskjellige grader av manuell kontroll. 
+Det er langt flere programmer enn tidligere, blant annet innstillinger for fotografering i snøvær, på stranden og under vann (krever undervannshus). 
+Flere av posisjonene krever at du i tillegg gjør valg med func-knappen og rullehjulet, men det tok ikke lang tid før vi hadde dette "i fingrene". 
+
+I tillegg har kameraet direktevalg for ISO-innstillinger, eksponeringskompensasjon, seriefotografering, selvutløser, makro, manuell fokus og blitsstyring, altså alle de vanligste funksjonene for alle oss vanlige dødelige. 
+
+Brukervennlighet 
+
+Brukervennligheten er absolutt god, her er norske menyer og man slipper å gå seg vill i hierarkier. 
+Det er et stykke igjen til de mest brukervennlige løsningene fra HP og Kodak, men generelt er dette meget bra. 
+Det reagerer dessuten kjapt på de fleste kommandoer, også under avspilling av bilder. 
+
+For øvrig er knapper tydelig merket, og det nye hjulet rundt func-knappen gjør det enkelt å bla gjennom bilder og innstillinger. 
+Det burde imidlertid vært litt fastere, siden det også er trykkfølsomt. 
+Vi har for eksempel opplevd at hjulet har dreid når vi har trykket på det. 
+
+Bildene snus! 
+
+LCDen er meget bra, men kunne hatt noe høyere oppløsning. 
+Signalforsterkene er sterk nok til at du kan bruke LCDen i meget lyssvake omgivelser, og samtidig få rask oppdatering av skjermbildet. 
+Tar du bilder på høykant? 
+Det registrerer kameraet, og viser bildet på høykant under avspillingen, og i kompatible bildeprogrammer på PCen. 
+Snur du kameraet på høykant under avspilling, snus samtidig bildet slik at det dekker hele skjermen. 
+Meget nyttig, og ikke minst morsomt! 
+
+Se video av løsningen under: 
+
+Ytelsessmålinger 
+
+Oppstartstiden er vesentlig forkortet fra tidligere - vi målte den til 1,2 sekunder - raskt nok til at det ikke er noe du vil tenke over overhodet. 
+Utløserhastigheten er også som regel ganske rask, selvsagt avhengig av lys og motiv. 
+I vårt standard testmiljø var utløserhastigheten ved full vidvinkel i snitt 0,6 sekunder fra pekefingeren berørte knappen til bildet ble tatt, noe som er omtrent som snittet i klassen. 
+Ved full tele var tallet 0,9. 
+Ikke blant de kjappeste, men gjennomsnittlig. 
+
+Vi målte også tiden mellom to bilder med tvungen blits, og 3,8 sekunder i snitt er ikke imponerende kjapt. 
+De raskeste kameraene i lommeklassen er klare til å ta nytt bilde med blits etter knappe sekundet. 
+
+Seriefotografering med 1,8 bilder i full oppløsning pr sekund til minnekortet er fullt (naturligvis uten blits) er ikke verst, med tanke på de store bildefilene. 
+
+Blitsen har en rekkevidde på inntil 4,2 meter, noe som er godt over snittet i lommeklassen. 
+
+I følge CIPA-målinger skal det oppladbare batteriet i kameraet holde til 200 bilder mellom hver lading. 
+Det er akseptabelt, men ikke veldig imponerende i 2006-målestokk. 
+
+Bildekvalitet 
+
+Det kreves en del både av optikk, CCD og algoritmnene i kameraet for å dra nytte av 8 megapiksels oppløsning. 
+Og vi har sett mange tilfeller den siste tiden der 8 megapiksler rett og slett har vært for mye for kameraene, og rett og slett har ført til en degradering av bildekvaliteten. 
+
+Det er derfor gledelig å se at Canon har styrt unna mange av de samme problemene. 
+Har du behov for 8 megapiksler fra et lommekamera, er dette helt klart et av kameraene i klassen som tar best bilder. 
+
+Støyen er lav eller moderat til ISO 200, og er heller ikke avskrekkende ved ISO 400. 
+Det er nesten ingen kromatisk feilbrytning å spore, og detaljer og farger er meget bra i de fleste tilfeller. 
+
+Autofokusen støttes av en hjelpelampe, og denne sørget for at fokuseringen sjelden fikk problemer innendørs. 
+Resultatet er at de fleste bildene er skarpe og fine. 
+
+Klikk her for å se et utvalg av bildene vi tok under testen 
+
+Konklusjon 
+
+Joda, Canon har nok en gang klart å lage et godt kamera, og beviser med S80 at denne "mellomklassen" absolutt har livets rett. 
+Det er brukervennlig, kjapt til det meste, har massevis av manuelle funksjoner - og viktigst av alt - det tar meget gode bilder. 
+
+De mest negative bemerkningene vi har er at skjermen burde vært bedre beskyttet, og mangelen på RAW er frustrerende for kravstore brukere. 
+Det sier det meste. 
+Det er samtidig sannsynlig at S90 (når og om den kommer), vil få enda et hakk raskere autofokus og blitslader. 

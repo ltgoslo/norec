@@ -1,0 +1,70 @@
+Ytelse og konklusjon
+Acers nye kjempe har muskler så det holder. 
+
+LES OGSÅ: 
+
+Som vi nevnte på forrige side er Aspire 8920G godt utstyrt når vi tenker på ytelsen. 
+
+Dobbeltkjerneprosessoren er en Intel Core 2 Duo T9300 som tikker av gårde på 2,5 GHz og har hele 6 MB hurtigminne. 
+Grafikkortet GeForce 9650M har 512 MB dedikert minne og med TurboCache bruker den systemminne i tillegg dersom det er behov - opp til 1791 MB kan til sammen brukes på grafikk. 
+
+For å sammenligne har vi sett på ytelsen til de store bærbare vi har sett på tidligere, altså Dell XPS M1730, Toshiba Satellite X200 og HP Pavilion Media Center HDX9050EO, som alle var utstyrt med svakere Core 2 Duo-prosessorer (på henholdsvis 2,2, 2,0 og 2,0 GHz). 
+
+Det er på sin plass å nevne at noen av disse modellene har fått en overhaling siden vi testet dem. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Som vi ser gjør Aspire 8920G det godt på ytelsesfronten, faktisk bedre enn XPS-verstingen fra Dell som vi testet i vinter. 
+Denne hadde dog harddiskene i RAID-striping, noe som gjør at denne sparker såpass mye bedre fra seg på det punktet. 
+
+Kjøretid i sekunder. 
+Lavere er bedre. 
+
+Her ser vi tydelig at Aceren har en nyere og raskere prosessor. 
+
+Høyere poengsum er bedre. 
+
+I 3DMark05 og -06 viser Dells XPS M1730 å være langt bedre på grafikksiden, det kommer av at denne er utstyrt med to grafikkort i SLI. 
+3DMark tar hensyn til dette, mens PCMark05 ikke gjør det... 
+
+Det samme er tilfelle når det gjelder spill og SLI. 
+Det er store forskjeller på hvor mye du får utnyttet av å ha to grafikkort i PC-en - ikke alle titler utnytter dette like bra. 
+I tillegg betyr det jo økt strømforbruk og varmeutvikling. 
+
+Det vil altså finnes bedre (og langt dyrere) bærbare for gaming enn Aspire 8920G, men den vil likevel fint drive de fleste spillene selv om du ikke kan forvente å kjøre med den beste grafikken på verstingtitler som Crysis og World in Conflict. 
+
+Batteri, varme og støy Batterilevetid er som regel ikke kritisk for store bærbare, men det er jo kjekt å kunne flytte litt på datamaskinen en gang i blant uten å måtte bekymre seg for tilgjengelige strømkontakter. 
+
+Med våre testrutiner holdt Acer Aspire 8920G i litt over to og en halv time, noe som faktisk er ganske bra skjermstørrelse og ytelse tatt i betraktning! 
+Det er en hel time mer enn XPS-en og HPs HDX, og en halv time mer enn vi klarte å klemme ut av Toshiba Satellite X200. 
+
+Aspire 8920G har godt med muskler, men takket være nyere komponenter er ikke varme noe alvorlig problem. 
+Vifta går riktignok hele tiden og spinner opp under belasting, men generelt sett er det et jevnt viftesus uten spesielt sjenerende ulyder. 
+
+Shiny shiny, og Acer-logoen lyser selv om det ikke er så lett å se akkurat her. 
+
+Vurdering og konklusjon 
+
+Som nevnt i innledningen er det minst en god grunn til å ikke velge en såpass stor laptop - for omtrent samme pris kan du nemlig både få en stasjonær med bedre ytelse og en liten bærbar for de gangene du ikke skal spille. 
+
+Acer Aspire 8920G gjorde likevel et anstendig intrykk på oss. 
+Maskinen har ytelse nok til å drive de fleste spill på høy oppløsning, den er relativt godt utstyrt med HDMI for filmkveldene og 802.11n trådløst nett. 
+Vi savner FireWire litt, men dette er noe som mer og mer er på vei ut. 
+Batterilevetiden er også relativt god for å være en stor bærbar. 
+
+Så merk nok en gang at dette er en STOR bærbar med vekt på 4,1 kilo og bredde på 44 cm. Altså er det ikke en laptop du vil dra med deg på skolen hver dag, men den er enkel å frakte lokalt i huset eller tas med på hytta. 
+
+Aspire 8920G har også sine konkurrenter: 
+Dells XPS M1730 kan spesifiseres til å bli en kraftigere PC, men da også adskillig dyrere. 
+Toshiba X200 er litt billigere, men også svakere og kommer med HD DVD, som ikke akkurat er fremtiden. 
+HPs nye HDX (9350) kan konkurrere hva gjelder grafikkytelse, men har også lavere oppløsning på sin 20,1-tommers skjerm. 
+Den veier også nesten det dobbelte og er et par tusenlapper dyrere. 
+
+Alt i alt er vi altså fornøyde med 8920G, og Acer har funnet en fin balanse mellom konkurrentene hva gjelder pris i forhold til maskinvare. 
+Problemene vi hadde i begynnelsen med BD-avspillingen ødelegger til syvende og sist ikke vårt gode inntrykk av denne datamaskinen. 
+
+Så med svært lite å sette fingeren på ender Acer Aspire 8920G opp på en solid femmer på terningen, og stemples samtidig som et anbefalt produkt for deg som er på utkikk etter en god bærbar på denne størrelsen. 
+
+Diskusjonen finner du på forrige side. 

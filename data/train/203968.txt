@@ -1,0 +1,75 @@
+Suverent brukervennlig mesh-løsning fra Google
+Endelig kom Google Wifi til Norge, og vi har allerede testet den trådløse hjemmenettverksløsningen. 
+
+Det er sjelden vi får så mange forespørsler fra lesere om å teste et produkt, som vi har fått om Google Wifi. 
+Problemet har vært at Google ikke har hatt produktet tilgjengelig på det norske markedet, men nå er det omsider på plass i butikkhyllene også her. 
+
+Hva er det? 
+
+Google Wifi er en såkalt mesh-løsning, som erstatter den trådløse ruteren din. 
+
+Løsningen fungerer slik: 
+Istedenfor å ha én trådløs ruter, har du i stedet to, tre eller enda flere små bokser (noder), plassert rundt på strategiske steder i boligen. 
+Nodene er små og runde, uten eksterne antenner, og dermed langt mer plasseringsvennlig enn tradisjonelle rutere, som ikke alltid er like pene å se på. 
+
+Avhengig av hvor i boligen du befinner deg, skal dingsene dine automatisk koble seg til den noden som har best signalstyrke. 
+
+85 kvadratmeter per node 
+
+Google Wifi selges som en enkelt node, eller i pakker med tre. 
+En node skal gi god dekning overalt i en normal leilighet på inntil 85 kvadratmeter, hevder Google, mens tre stykker skal dekke større boliger på mer enn 170 kvadratmeter. 
+Du kan fortsette å føye til flere noder helt til du blir fornøyd med dekningen. 
+
+Nodene kommuniserer med hverandre i et eget beskyttet trådløst nett, for å sørge for best mulig hastighet mellom dingsene dine og internett. 
+Google Wifi-nodene har også mulighet til å kommunisere med hverandre via ethernet-kabel, hvis forholdene i boligen er veldig vanskelige. 
+
+Dessuten har hver node en ekstra ethernet-kontakt, for utstyr som ikke kan kommunisere trådløst i nettverket, som skrivere, NAS-er, kameraer og annet kablet utstyr. 
+
+Enkleste så langt 
+
+En av nodene kobles til bredbåndsmodemet fra internettleverandøren din, og blir da automatisk hovedenhet. 
+Denne sørger for å rute internettrafikk fra og til mesh-nettverket, samt å forsyne nodene med IP-adresser. 
+
+Oppsettet er særdeles enkelt. 
+Instrukser på norsk ligger i pakken, og all konfigurasjon gjøres fra en app som lastes ned fra App Store eller Google Play. 
+Denne er også på norsk, og etter vår mening er den både mer gjennomarbeidet og mer intuitiv enn de fleste fra konkurrenter vi har testet tidligere. 
+
+Merk at du er nødt til å ha en Google-konto for å sette opp Google Wifi. 
+Noen vil sikkert være skeptisk til dette, men du har full mulighet til å skru av innsamling av brukerstatistikk - som uansett skal være anonym. 
+
+Appen sørger for å koble mesh-nodene sammen, og deretter gir du nettet ditt et navn og passord. 
+Appen gir deg også muligheten til å lage gjestenettverk som er isolert fra hovednettverket, legge inn prioriteringer på utstyr som er tilkoblet, konfigurere familieinnstillinger med blant annet innholdsfiltrering, styre smarthusprodukter - med mer. 
+Her kan vi forvente flere funksjoner etter hvert, men funksjonaliteten er helt klart myntet på vanlige brukere, ikke de mest avanserte. 
+
+Hver ny node du legger til, har en QR-kode på undersiden. 
+Du skanner denne med appen, og så tar Google seg av resten. 
+
+Vår test 
+
+Vi plasserte nodene på de samme stedene som i tidligere tester; en i toppetasjen, en i stua (hovedetasjen) og en i kjelleren. 
+Med bare én node tilkoblet, fikk vi kun utnyttet vår 160/160 Mbit-linje full ut i samme etasje - akkurat som forventet. 
+
+Så snart vi hadde fått installert node nr 2 i stua, hadde vi også full hastighet i hele den etasjen - totalt ca 160 kvadratmeter. 
+Med enda en node på plass i kjelleren, fikk vi også bra ytelse der - rundt 120/130 Mbps. 
+
+Noe tap av hastighet var det altså, men fortsatt var ytelsen så høy at flere familiemedlemmer kan boltre seg med strømmetjenester i aller beste kvalitet i alle de tre etasjene - samtidig. 
+
+Litt svakere med vårt oppsett 
+
+Det er uansett verdt å merke seg at ytelsen er litt lavere i kjelleren med dette Google Wifi-oppsettet, enn med de tre andre løsningene vi har testet tidligere. 
+Det er forsåvidt i tråd med spesifikasjonene, men teoretisk skulle det være mer enn nok pudding til å kunne utnytte vår 160/160 Mbit-linje til fulle. 
+
+Vi skynder oss å legge til at det godt kan hende at vi hadde fått bedre ytelse i kjelleren, hvis vi hadde flyttet litt på nodene. 
+Det er jo en av de store fordelene med mesh, at du kan flytte rundt på nodene til du blir fornøyd. 
+Men for at sammenligningene skal ha noen mening, må vi teste alle løsningene med samme plassering. 
+
+Konklusjon 
+
+Google Wifi er den aller mest brukervennlige mesh-løsningen vi har testet så langt. 
+Appen som styrer det hele virker rett og slett mer gjennomarbeidet enn de andre, ikke minst er de norske oversettelsene meget gode. 
+Dette er noe nær sagt hvem som helst klarer å sette opp. 
+
+Ytelsesmessig ligger løsningen litt bak de beste, og du finner flere avanserte funksjoner i blant annet Netgear sin løsning, men alt i alt er Google absolutt et godt produkt. 
+Prismessig ligger løsningen også i nedre del, selv om det fortsatt er dyrere enn en ganske så avansert ruter. 
+
+Få også med deg testene av konkurrentene Asus Lyra og TP-Link Deco M5. 

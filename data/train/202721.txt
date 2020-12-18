@@ -1,0 +1,71 @@
+Synology DiskStation DS213+
+Ikke så stor forskjell utvendig, det er inni det skjer. 
+
+NAS, eller enheter for nettverkslagring, er den mest nærliggende løsningen når flere skal dele data. 
+Om det er familiens bilder, musikk og filmer eller felles data i en forening eller annen mindre virksomhet, en NAS er den enkleste og mest effektive løsningen. 
+
+Det har dukket opp mange andre lagringsalternativer i form av tjenster på nett. 
+Her betaler du en sum for en viss kapasitet som du får tilgang til via nettleseren eller egen programvare. 
+Dette er utmerkede løsninger, men erstatter ikke nødvendigvis en NAS. 
+Som tilleggstjeneste er det imidlertid topp. 
+
+Synology DiskStation DS 213+ 
+
+Synology har en rekke forskjellige modeller med plass til varierende antall og formater av disker. 
+De minste har plass til en eneste disk, men den vanligste løsningen for hjemmebruk har to diskplasser. 
+
+DS213+ har plass til to 3,5-tommers disker som sitter på braketter som er lette å ta ut og inn av selve enheten. 
+Brakettene har også skruehull for 2,5-tommers disker, her kan du også montere SSD-enheter hvis du vil ha en lydløs løsning. 
+
+Maskinvaren i DS213+ er en to-kjerners Freescale P1022 prosessor på 1.067 GHz. 
+I tillegg til å ta hånd om de to interne diskene pluss 2 USB 3.0 porter og en eSATA port, kjører den også Synologys DSM programvare som byr på en rekke praktiske tjenester. 
+
+Installasjon 
+
+Installasjon av diskene gjøres ganske enkelt ved å fjerne frontdekselet, ta ut brakettene, skru fast diskene i brakettene og sette dem inn i kabinettet. 
+
+Installasjon av hele systemet er litt mer omfattende, og kan ta lang tid avhengig av hvor store disker du har satt inn. 
+
+Selve installasjonen av DSM-programvaren er rimelig rask. 
+Du kobler DS213+ til nettverket, slår den på. 
+Så starter du opp konfigureringsprogrammet som finner enheten, så kan du velge om du vil bruke den DSM-programversjonen som ligger på CD eller laste ned nyeste versjon fra nett. 
+
+Deretter er den en veiviser som hjelper deg i gang fram til det siste leddet, som er å sjekke diskene og gjøre dem klar til bruk. 
+Det er dette som er tidkrevende. 
+Har du satt i et par 3 TB disker tar det noen timer, vi testet med en 240GB SSD og det tok ca 40 minutter. 
+Her er det ikke snakk om noen "quick format", men det er jo ganske viktig at lagringsenheter er sjekket grundig før den tas i bruk. 
+
+Det er forøvrig smartest å sette i én disk og klargjøre hovedinstallasjonen først. 
+Når du så setter i en ekstra disk vil denne formateres i bakgrunnen, mens du bruker NAS-en som normalt. 
+
+I bildeserien under ser du skjermdumper fra veiviseren ved opprettelse av delt lagring - på norsk! 
+
+Ytelse 
+
+I tillegg til stabilitet er ytelse den viktigste egenskapen hos en NAS. 
+For å få optimal ytelse er det viktig at den kobles til et Gigabit nettverk og at lagringsenhetene som monteres inn kan levere. 
+
+For at ikke disken skulle være noen flaskehals testet vi med en SSD, selv om alle moderne roterende disker har høyere overføringshastighet enn selve NAS-en. 
+De datatypene som typisk lagres på en NAS er større filer som krever høy sekvensiell overføringshastighet hos lagringsenheten. 
+Man jobber ikke med tung bilderedigering eller flerspors lydredigering og mix mot en NAS, men man henter datamaterialet derfra før jobb og legger det tilbake når man er ferdig. 
+
+Og ytelsen er meget bra. 
+Fra å bla i store bildefiler i original størrelse til overføringer av filer på flere gigabyte, DS213+ leverer på linje med overføringer direkte mellom andre PC-er på nettverket - rundt 80 MB pr sekund bør altså være mulig. 
+
+Stor fleksibilitet 
+
+I tillegg til ren lagring og filoverføring støtter DSM en rekke nettverkstjenester. 
+Det er et helt operativsystem som du betjener gjennom nettleseren, hvor du kan laste ned apps for det meste, fra felles iTunes-server til MailStation, WordPress, CRM, nettbutikker. 
+
+Du finner oversikten over alle mulighetene hos Synology. 
+
+Konklusjon 
+
+DS213+ er en rask og svært fleksibel løsning for nettlagring. 
+Kapasiteten er enorm, med plass til 2x4 TB internt og en eSATA og to eksterne USB 3.0 lagringsenheter i tillegg. 
+
+Med alle programvaremulighetene i tillegg er det fritt fram for selv den mest krevende bruker. 
+
+Prisen er slett ikke blant de laveste, men sammenlignet med å sette en PC til å gjøre jobben får du en vel så kraftig enhet i langt mer kompakt og brukervennlig format. 
+
+Synology DiskStation DS213+ 

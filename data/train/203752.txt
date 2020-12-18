@@ -1,0 +1,127 @@
+TEST:Dette er den mest unike PC-en vi har testet 
+
+Men har HP klart å gjenopplive PC-en? 
+
+HP kom med lovord om å gjenoppfinne PC-en i forkant av lanseringen av en ny PC tidligere i år, og 1. oktober ble Spectre Folio dratt opp av hatten. 
+Den bærbare PC-en er unik på flere måter: 
+Først og fremst ved at chassiset, som vanligvis er utformet i plast eller metall, i dette tilfellet stort sett består av lær. 
+En annen ting er hybriddesignet som enkelt gjør at man kan skifte mellom de tre modusene bærbar PC, multimedia og nettbrett. 
+
+Mer om det lenger ned i testen. 
+
+HP Spectre Folio 
+
+Ingen PC er som HP Spectre Folio. 
+Det har vi merket i løpet av testperioden der kolleger har stoppet opp for å ta den bærbare PC-en nærmere i øyesyn. 
+Mange tror at lærdetaljene er et etui og blir overrasket når vi forteller dem at nei, det er faktisk slik PC-en er. 
+
+Foruten området rundt skjermen og tastaturet går det i hovedsak i lær, og vi er så langt overraskende fornøyd med både kvaliteten og designet. 
+Nå har vi testet Spectre Folio i en drøy uke så det er vanskelig å si noe om holdbarheten i lengden, men er det ikke slik at lær bare blir flottere med årene? 
+Det gjenstår å se. 
+
+Av spesifikasjoner er vår testmodell utstyrt med en åttende generasjon Intel Core-prosessor av typen i7-8500Y med en basis klokkehastighet på 1,50 GHz. 
+Det er paret med en SSD-lagringsenhet på 256 gigabyte (GB) og 8 GB arbeidsminne. 
+Denne modellen koster veiledende 17.995 kroner. 
+Klarer man seg med en litt mindre kraftigere i5-8200Y-prosessor, får man PC-en til 16.995 kroner. 
+
+Toppmodellen har samme prosessor som vår testutgave, men er i tillegg utstyrt med 512 GB SSD-lagring og 16 GB minne. 
+Den går for 19.995 kroner. 
+
+Extravagant design 
+
+Skjermen er for øvrig på 13,3 tommer med en oppløsning på 1920 x 1080 piksler, noe vi ser på som absolutt minimum for en PC på denne størrelsen og i prisklassen. 
+Lysstyrken er for øvrig på rundt 400 nits, noe som for eksempel er mer enn nyeste Apple MacBook Air som ligger på rundt 340 nits. 
+
+Som nevnt over, kan skjermen vippes i tre ulike moduser. 
+Dette gjør man ved å presse skjermen ut av chassiset for så å flytte den en av de andre posisjonene. 
+Løsningen er litt annerledes enn det vi har sett av andre hybridmaskiner, men det fungerer minst like godt. 
+På Dell- og Lenovos hybrider må man nemlig vri hele skjermen rundt. 
+Det slipper man med Folio. 
+
+Vi liker for øvrig å flytte skjermen i nettbrettmodus, åpne OneNote og dra frem den medfølgende pennen når vi skal gjøre kjappe notater. 
+
+Og det er for øvrig dette bruksområdet vi har funnet ut fungerer best i nettbrettmodus. 
+PC-en blir rett og slett for stor og tung til å holde den opp i lengre tid, selv om knappe 1,5 kilogram ikke er avskrekkende. 
+
+Tilt-penn er navnet på pennen HP har lagt ved i esken. 
+Den er utformet i metall og føles på mange måter som en helt vanlig penn. 
+Vi ville kanskje ikke brukt den til å tegne med, men til notatbruk leverer den som forventet. 
+En artig detalj er at den lades via USB-C. 
+Kontakten finner man ved å vippe opp den øverste delen. 
+
+Mer USB-C 
+
+HP Spectre Folio er utstyrt med tre USB-C-kontakter hvor to av dem har støtte for Thunderbolt 3 (samtlige kan for øvrig brukes for å lade PC-en) og én minijackkontakt. 
+Det betyr at det er stor sjanse for at man må frem med en adapter hvis man ønsker å koble til tilbehør, men HP har vært hyggelige nok til å legge ved en USB-adapter i esken. 
+
+Når det er sagt, er det kanskje på tide at tilbehørsprodusentene får et spark i baken og kommer med utstyr, som kabel mus og tastatur, USB-minnepenner og så videre, med USB-C. 
+Apple har for lengst gått over til USB-C, noe de slettes ikke er alene om, så det er vel på tide at tilbehørsmarkedet følger opp. 
+
+Mange nyere PC-er er utstyrt med fingersensor, men dette har ikke Spectre Folio. 
+HP har i stedet gått for Windows Hello-ansiktsgjenkjenning som fungerer helt strålende. 
+Dette setter man opp under innstillingene og så kan man logge på med ansiktet sitt i samme stil som Face ID på iPhone XS og iPad Pro. 
+Disse teknologiene har på mange måter ført til at det er sjeldent vi taster inn en pinkode når vi skal logge på enhetene våre. 
+
+Leverer til sitt bruk 
+
+Tross det slanke designet har HP fått plass til en fullverdig i7-prosessor i Spectre Folio. 
+Dog er det verdt å merke seg at dette er en Y-serie fra Intel, som indikerer at det er lagt mer vekt på batteritiden fremfor ytelse, men til våre bruksområdet har PC-en levert så det holder. 
+
+Til studiebruk er Folio perfekt, og man vil absolutt få noen spørrende blikk fra medstudenter i forelesningssalen. 
+Vi har som vanlig brukt PC-en til jobbruk, vi journalister skriver en del, og her har vi ikke noe å si på ytelsen. 
+Tastaturet og styreflaten derimot, som du kan lese lenger ned i testen. 
+
+Som vi ofte skriver om denne typen syltynne PC-er, er de ikke ment for spilling. 
+Da bør man heller se seg om andre steder. 
+Men man kan få en grei spillopplevelse i for eksempel «Minecraft». 
+
+Så til faktiske ytelsestall. 
+Igjen har vi utført tester av selve systemets ytelse, hvor rask SSD-lagringen er og hvor god batteritiden er. 
+I PCMark10 skårer HP Spectre Folio 3017 poeng. 
+Til sammenlikning nådde Lenovo Yoga C930, som vi nylig testet, på drøyt 4200 poeng. 
+Prisen er noenlunde den samme, så man kan si at man får mest systemytelse for pengene ved kjøp av Yogaen. 
+
+HP har derimot gått for en lynrask SSD i PC-en: 
+
+Til dere som er bekymret over varmeutvikling i PC-en, kan vi forsikre om at Folio ikke blir plagsomt varm. 
+Vi merket at maskinen ble litt varmere under tung last, for eksempel i PCMark10-testen, men ikke så varm at det var til irritasjon. 
+Og viftestøy? 
+PC-en er ikke overraskende vifteløs, og dermed også stillegående. 
+
+Hva med batteriet? 
+Vi strømmet som vanlig en HD-video fra YouTube til batteriet gikk tomt. 
+Her hold Spectre Folio i 676 minutter, altså drøye 11 timer, noe vi er godt fornøyd med. 
+Batteritiden vil naturligvis avhenge av hva man bruker PC-en til. 
+
+Dette liker vi ikke 
+
+HP har totalt sett gjort en god jobb med Folio Spectre tross det unike designet, men det er tydelig at det er inngått kompromisser på flere områder. 
+For eksempel er vi dypt skuffet over styreflaten som føles trang og liten der den befinner seg mellom læreksteriøret. 
+Den er treg, unøyaktig og leverer noe helt annet enn det vi forventer av en PC i denne prisklassen. 
+
+Da kommer det godt med at skjermen er berøringsfølsom slik at man kan den fremfor å knote med den lille styreflaten. 
+
+Tastaturet er faktisk veldig godt å skrive på, men det er synd at HP ikke gir oss nordboere norsk oppsett. 
+Joda, æ, ø og å er merket av på tastaturet, men PC-en kjører amerikansk oppsett noe som får oss til å savne stor enter-tast og <> plassert mellom shift og z. 
+Vi har ikke tall på hvor mange ganger vi har trykket feil på tastaturet fordi vi er vant med stor enter. 
+
+Vi må også kommentere at nok en dyr og flott PC leveres med unødvendige apper fra tredjeparter. 
+Antivirus som maser og Dropbox som stadig kommer med «fristende» tilbud. 
+Dette er noe vi ikke ønsker å se på dyrere PC-er. 
+
+På minussiden har vi også de Bang & Olufsen-sertifiserte høyttalerne som leverer en litt spinkel lydopplevelse. 
+
+Konklusjon 
+
+HP sa de skulle gjenoppfinne PC-en. 
+Vi er litt usikre på om de faktisk har klart det, men med Spectre Folio har de i så fall levert et unikt og ganske interessant produkt. 
+Valget av lær er spennende nok i seg selv, og at man enkelt kan bytte mellom ulike moduser, bidrar til å øke opplevelsen noen hakk. 
+
+Vi syns det er kjekt at HP har valgt å gå for kun USB-C i Spectre Folio. 
+Vanlig USB er det uansett ikke plass til med tanke på størrelsen, så da er det toppers at det ligger en USB-adapter i esken til dem som har behov for det. 
+En ekstra stjerne i margen for at pennen medfølger. 
+
+Det er ikke alt vi liker med HPs unike hybrid-PC, og styreflaten, tastaturet og høyttalerne er noe som drar ned kvalitetsopplevelsen litt, og som bidrar til at terningen ikke ender på noe høyere enn fire (som uansett er en solid karakter). 
+
+Dog er det meste bra med Folio og vi håper HP fortsetter å forske på denne typen PC-er. 
+Slike design og innovasjoner ønsker vi å se mer av i bransjen. 

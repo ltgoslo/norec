@@ -1,0 +1,69 @@
+D-Link DIR-816L AC750 ruter
+Dette er en skreddersydd AC-ruter for mobile enheter 
+
+Rutere finnes i mange prisklasser, denne er blant de rimeligste som støtter den nyeste AC-standarden. 
+Denne standarden er den klart raskeste på korte avstander, men på lengre avstander er den ikke like overlegen. 
+
+Faktisk kan AC-standarden være dårligere på lengre avstander enn eldre løsninger som bare støtter 802.11n. 
+Det avhenger av ruterens plassering, bygningens utforming, samt materialer i vegger og innredning. 
+
+I tillegg er mottakeren like viktig, særlig når vi snakker om mobile enheter hvor antenner og plassering varierer hele tiden hvis ikke enheten ligger stille på et fast sted. 
+
+DIR-816L AC750 
+
+D-Link har mange forskjellige rutermodeller, og de rimeligste er beregnet på bruk der hvor forholdene ikke er spesielt kompliserte. 
+
+Det betyr i praksis at vi snakker om små og normale leiligheter, eller tilsvarende boliger eller steder hvor ruteren enten er synlig eller nesten synlig uansett hvor klientene befinner seg. 
+Må du flytte deg noen få meter for å se ruteren er vi godt innenfor denne definisjonen. 
+
+Ruteren er liten med to store antenner med 5 db gain. 
+Antenner som har gain er ikke rundtstrålende, men fokuserer energien i en eller flere retninger og øker dermed rekkevidden i dette området. 
+Rekkevidden blir da kortere i andre retninger. 
+
+Betegnelsen AC750 er en avrunding oppover til brutto megabits per sekund som kan leveres under teoretisk ideelle forhold. 
+Da snakker vi om summen av 300 Mbps på 2.4GHz og 433 Mbps på 5GHz. 
+I praksis er nettoytelsen bare en liten del av dette, og det gjelder alle trådløse rutere. 
+
+AC-standarden støtter egentlig flere datastrømmer, men to datastrømmer er alt du får tatt i mot på klienten, selv om det er en rådyr bærbar. 
+Ironisk nok er tilbudet av nettverkskort og mottakerløsninger for bærbare og mobile enheter svært begrenset, det er derimot mengder av kraftige AC-rutere. 
+
+På mobile enheter er det bare snakk om bare én datastrøm, og da er vi uansett nede på halvparten i teorien og enda lavere i den faktiske ytelsen. 
+
+I bruk 
+
+Installasjon og oppsett er rett fram, grunninnstillingene gjør at de aller fleste kommer på nett uten videre. 
+Det eneste mange velger er å bytte navn og passord på det trådløse nettverket. 
+
+Standard navn på trådløst nett samt passord står flere steder, inkludert på merkelapper under ruteren. 
+
+På baksiden finner vi de fire portene som støtter 100 Mbits kablet nettverk. 
+
+I tillegg er det også en USB-kontakt for å koble til en minneplugg for felles lagring. 
+D-Link og andre ruterprodusenter omtaler slike løsninger som «din egen nettsky» - som er noe lettvint. 
+Poenget med en nettsky er at andre driver tjenesten slik at du slipper å tenke på maskinvare og oppsett. 
+Det gjør du jo ikke hvis «nettskyen» er din egen maskinvare. 
+
+D-Link kaller sin løsning MyCloud og gir også mulighet for at dataene på en tilkoblet USB-enhet kan gjøres tilgjengelig for andre enheter via internett. 
+Her er flaskehalsen opplastningshastigheten hos internettforbindelsen du har hjemme. 
+Den er vanligvis svært mye lavere enn nedlastningshastigheten. 
+Med andre ord en lite imponerende løsning totalt sett. 
+At du kan fjernadminstrere nettverket ditt når du ikke selv er hjemme kan vel også sies å være en ganske sær mulighet for de fleste. 
+
+Ytelse 
+
+Vi tester rutere med faste plasseringer av ruter og klient, hvor ruteren står oppunder mønet i en trevilla og den bærbare klientPC-en står på spisebordet to etasjer under, i første etasje. 
+
+Dette er omstendigheter som er noe i overkant av hva man kan forvente at en enkel ruter skal håndtere. 
+
+Likevel fikk vi ytelser som ligger oppunder 40 Mbit, som jo er raskere enn internettforbindelsen for de fleste. 
+
+Konklusjon 
+
+DIR-816L er en av de rimeligste AC-ruterne i skrivende stund, og støtter den delen av standarden som faktisk fungerer med klienter som finnes, enten det er avanserte mobile enheter eller de ypperste av de bærbare. 
+Hvorfor bruke mer penger på noe man ikke får utnyttet likevel? 
+
+Ytelsen er ikke like rå som hos toppmodellene fra forskjellige leverandører, men i praktisk bruk vil du ikke merke forskjell hvis du bor i en liten bolig og bare bruker trådløse og mobile enheter. 
+
+MyCloud-løsningen og fjernbetjening ser vi ikke som viktige i praktisk bruk, siden det finnes gratis nettjenester som tilbyr raskere og tryggere løsninger. 
+
+D-Link DIR-816L 

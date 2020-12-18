@@ -1,0 +1,123 @@
+Samsung CA750 Central Station
+Dette er ikke bare en trådløs skjerm, det er en sentralstasjon! 
+
+"Central Station" assosierer vi først og fremst med jernbane eller tidlig funk, men dette er noe helt annet. 
+
+Vi må innrømme at vi til å begynne med ikke helt skjønte hvilke muligheter denne skjermløsningen byr på, fordi vi aldri har sett noe som gjør det samme. 
+
+Central Station fungerer ikke bare som skjerm, den er også en trådløs dokkstasjon, som bruker trådløs USB for å kommunisere med bærbare PC-er. 
+Samtidig kan den brukes med en stasjonær PC, koblet til med USB 3.0 og ikke noe annet. 
+Nettverk, skjermtilkobling og USB til tilleggsutstyr - alt går i samme forbindelse. 
+
+Oppkobling 
+
+Skjermen har vanlige tilkoblinger for skjerm med VGA og HDMI, og det er naturlig at man kobler til med en av disse for å sette opp skjermen første gang. 
+
+I tillegg har skjermen nettverkskontakt og USB 3.0 inn, 4 USB 2.0 tilkoblinger for tilleggsutstyr, VGA og HDMI skjerminngang og minijack til hodetelefoner. 
+
+Så kobler man til en USB 3.0 kabel (det er en forutsetning at PC-en har USB 3.0 støtte) og installerer programvaren som kommer på CD. 
+Da installeres en virtuell grafikkdriver og støtte for nett og generell USB. 
+
+Skjermen vil så kommunisere via USB 3.0 i stedet for VGA eller HDMI, og du kan koble fra skjermkabelen. 
+
+Da kan du koble til f.eks. en spillkonsoll eller en videospiller med skjermkabelen. 
+
+Trådløs tilkobling 
+
+Skjermen kan også kobles til trådløst fra PC-en. 
+Det følger med en liten dongle, som er litt mindre enn en minneplugg, men en del større enn de nye bittesmå mottakerne til mus og tastatur. 
+Den er så stor at du neppe vil ha den sittende permanent i den bærbare. 
+
+Du installerer driveren fra CD og Samsung-skjermen kan kobles til, uten ledning. 
+
+Automatisk bytte 
+
+Poenget med denne løsningen er at du kan komme med den bærbare, sette i den trådløse dongelen og så blir skjermen automatisk koblet til den bærbare. 
+
+Tar du så med deg den bærbare vekk fra skjermen vil den automatisk bytte tilbake til den stasjonære PC-en (hvis den står på), eller annen enhet som er koblet til med en eller annen kabel. 
+
+Dette var altså i teorien - hvordan fungerer det i praksis? 
+
+I praksis 
+
+Vi koblet til en USB 3.0-kabel og installerte først på den stasjonære PC-en, som også var koblet til en annen skjerm. 
+Samsung Central Station-skjermen ble da en tilleggsskjerm. 
+Installasjonen gikk uproblematisk og bildet på skjermen dukket opp som forventet. 
+
+Vi koblet så nettverkskabelen fra den stasjonære og inn i foten på Samsung-skjermen. 
+Etter et par øyeblikk var vi på nett, alt transportert gjennom USB 3.0-kabelen. 
+
+Så installerte vi driveren på den bærbare. 
+Dette gikk også uten problemer, og vi satte i dongelen for trådløs forbindelse. 
+Det skjedde ingen ting, men det var fordi innstillingene på skjermen ikke stod på automatisk gjenkjenning av trådløs signalkilde. 
+Etter at vi endret dette tok det bare noen øyeblikk, så dukket skjermbildet opp på skjermen. 
+Dette var en klone av skjermbildet på den bærbare, med feil oppløsning i forhold til hva skjermen byr på. 
+Ved å endre skjermstatusen til en tilleggsskjerm og utvidelse av skrivebordet kom alt på plass. 
+
+Henger skjermen med? 
+
+Vi testet med 1080p HD-video på skjermen via nettverket (altså ikke lagret lokalt) og USB 3.0 og dette fungerte glimrende. 
+Det var ingen synlig kvalitetsforskjell i avspillingen mellom den andre skjermen koblet til med HDMI og Samsung-skjermen med USB 3.0. 
+
+Også med trådløs tilkobling fungerte HD-video utmerket. 
+Noen få ganger var det litt forstyrrelser i form av blokker i bildet, men dette skjedde såpass sjelden at vi ikke synes dette var noe problem. 
+
+USB 2.0-enheter fungerte selvsagt også utmerket og f.eks. kortlesere kan deles mellom maskinene. 
+
+Men hvordan fungerte det å bytte mellom stasjonær og bærbar? 
+
+Automatikk? 
+
+Idéen med denne skjermløsningen er at det skal være uproblematisk og automatisk å bytte signalkilde, spesielt når man bytter til og fra trådløs forbindelse. 
+
+Det er det ikke. 
+
+For det første er USB 3.0 og driverprogramvaren ikke med på notene før PC-en har startet. 
+Derfor opplevde vi problemer når vi bare brukte USB 3.0 for tilkobling mellom den stasjonære og Central Station. 
+Noen ganger dukket ikke skjermen opp i det hele tatt, og maskinen krasjet. 
+Uansett tok det mye lenger tid å få skjermbilde enn med en vanlig tilkobling. 
+
+Det tok også noe tid før skjermen ville bytte til den bærbare, når denne ble slått på. 
+Flere ganger måtte vi trykke på inngangsvelgeren på skjermen og gå runden rundt og velge trådløs forbindelse før det ble kontakt. 
+
+Og inngangsvelgerfunksjonen er t r e g! 
+
+Det som fungerte best var da både den stasjonære og bærbare var påslått, og man satte den bærbare i nærheten av skjermen. 
+Da kom bildet relativt raskt. 
+Da vi fjernet den bærbare kom skjermbildet raskt tilbake til den stasjonære. 
+
+Nettverk og deling av USB-enheter fungerte derimot upåklagelig hele tiden. 
+
+Bildekvalitet 
+
+Selve skjermen er helt ordinær 23-tommer med standard TN-panel. 
+Den har matt overflate og er behagelig i bruk. 
+Justeringsmulighetene er begrenset, men den har ganske store muligheter for tilpasning i høyden. 
+Den kan ikke dreies til siden eller roteres. 
+
+Betraktningsvinkelen er begrenset, og gir påtagelige kontrast- og fargeforandringer når du ser ned på skjermen. 
+Den er oppgitt til 170 grader horisontalt og 160 grader vertikalt. 
+
+Oppløsningen er 1920x1080 piksler, lysstyrken er 250 cd/m2, og responstiden er 2 ms. 
+
+Konklusjon 
+
+Konseptet kan virke besnærende for dem som har en jobb-PC de gjerne vil bruke hjemme koblet til en større skjerm. 
+Spesielt at dette kan skje automatisk, uten kabel og på toppen av det hele med tilkobling både til nettverk og USB-enheter inkludert i pakka. 
+
+Men i praksis er det ikke så enkelt, det svikter i blant og da er det irriterende klønete. 
+Spesielt fordi responsen i menysystemet til Samsung er så tregt, verst ved skifte av signalkilde. 
+
+Vi ville nok vurdert en enkel HDMI-svitsjeboks med en HDMI-kabel liggende klar. 
+Det tar mye kortere tid og fungerer alltid. 
+Med Central Station skal man jo ikke bare sette inn dongelen, man må vente til den er registrert, og se på at skjermen skal skjønne at den skal bytte signalkilde. 
+Så må man bare håpe at den trådløse koblingen fungerer eller begynne å fikle med innstillinger. 
+
+De aller fleste har allerede trådløst nett hjemme, og deling av USB-enheter er sjelden nødvendig. 
+Da finnes det flere nettverksløsninger som gjør jobben raskere og bedre. 
+Da tenker vi på kortlesere, eksterne disker, skrivere osv. 
+
+En like god skjerm får du til halvparten av prisen, og en HDMI-svitsjeboks finner du mange steder til under 300 kroner. 
+Da kan du kjøpe deg mye annet ekstrautstyr i stedet. 
+
+Noen ganger brukes den nyeste teknologien til å lage upraktiske løsninger, det er ikke spesielt lurt. 

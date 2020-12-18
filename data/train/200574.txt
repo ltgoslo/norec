@@ -1,0 +1,89 @@
+Test: WD TV
+Et mediesenter til TVen må ikke ta mye plass. 
+
+Jakten på et enkelt, rimelig og fleksibelt mediesenter til TVen har for min egen del pågått en god stund, og selv om det finnes en rekke løsninger der ute, har den endelige avgjørelsen foreløpig uteblitt. 
+
+Men det spørs om ikke WD TV fra Western Digital er løsningen jeg og mange andre har ventet på. 
+
+Tilkobling 
+
+Den svarte boksen er svært beskjeden i størrelse, både på egenhånd, og, ikke minst, i nærheten av en 40-tommers flatskjerm. 
+På baksiden finner du kompositt-utganger (som det ikke finnes noen god grunn til å bruke), optisk lyd ut, og, viktigst av alt, HDMI-tilkobling. 
+
+Samme sted finner du også en USB-port, og ser du på toppen eller siden av WD TV (alt etter hvordan du plasserer boksen), vil du finne enda en USB-kobling. 
+
+WD TV har nemlig ingen intern lagringsplass. 
+Meningen med USB-portene er med andre ord at du skal koble til alt fra harddisker til minnepinner, slik at den svarte boksen kan lese bilder, filmer og musikk fra disse. 
+
+Det høres veldig enkelt ut, og sannelig: 
+Det er enkelt. 
+
+Formatering 
+
+WD TV aksepterer disker og USB-minne formatert i både Windows og Mac-format (vær dog oppmerksom på at du må bruke "Mac OS Extended", ikke "Mac OS Extended (journalført)" med sistnevnte), og så er det opp til deg å legge innholdet du vil se på TVen eller høre på gjennom stereoanlegget på disse lagringsenheten(e). 
+
+Vi brukte i hovedsak en 16GB-minnepinne, som i disse dager kan kjøpes til under 300 kroner, og fylte den opp med de fleste formatene vi kom over. 
+Med et par unntak slukte WD TV alt. 
+
+Høyoppløselig 
+
+Den spilte HD-video i 720p i såkalt mkv-format (den skal også takle 1080p helt fint), den spilte DVDer som var hentet ubehandlet over til harddisk, den spilte mp3er av ymse slag, og den spilte AAC-filer som ikke var kopibeskytta. 
+Sistnevnte er greit å vite hvis du handler mye på Apples musikksjappe, iTunes, samtidig som det også er verdt å merke seg at WD TV i hovedsak ikke vil vite av kopibeskyttede filer - akkurat som mange potensielle nettmusikkunder. 
+
+Lange lister over støttede formater pleier vanligvis å holde mer enn de lover, men vår erfaring er at WD TV har svært god dekning for formatoversikten du finner på Western Digitals hjemmesider. 
+
+Også det såkalte lossless-lydformatet FLAC spilles av knirkefritt, mens det dessverre ikke er støtte for Apple Lossless. 
+Det er synd for meg, ettersom jeg har kodet en rekke av CDene mine i dette formatet. 
+Det er dog ingen stor operasjon å konvertere disse filene til FLAC, så jeg er på ingen måte fortapt. 
+
+Undertekster 
+
+Legg også merke til at undertekst-støtten også er bra. 
+Vi har forsøkt oss med både .srt og .sub-filer, og det fungerte akkurat slik det skal så lenge filnavnet på video- og undertekstfilen er identisk. 
+
+Undertekster som følger med DVDer som er lagt over på disk virker også slik de skal, selv om vi synes det er litt irriterende at ikke WD TV informerer oss om hvilket undertekst-språk vi har valgt før teksten dukker opp nederst på skjermen. 
+Alt du får vite er at du har valgt for eksempel undertekst "6/13" eller "9/13", ikke at du har valgt polsk eller tysk. 
+Ser du mye franske kunstfilmer med femten minutter mellom hver dialog kan det med andre ord ta litt tid å avgjøre om du har valgt riktig. 
+
+Vi slet forøvrig med forferdelig støy på et par avi-filer som var hentet over fra et Fujifilm kompaktkamera, og ettersom filene er støyfrie ved avspilling både på Mac og PC, antar vi det er en liten bug med WDTV. 
+
+Som det meste annet med denne boksen er også oppgraderingen av firmware enkelt, så vi regner med det kommer flere feilrettinger etter hvert. 
+
+Bra bilde? 
+
+Bildekvaliteten er som forventet bra fra både fra DVD og HD-materiale, men hardt komprimerte videofiler vil naturlig nok se pikselerte ut hvis du har tenkt å bruke det på 46-tommeren din. 
+Det er nok også tvilsomt om WD TV kan konkurrere med såkalte oppskaleringsspillere, det vil si Blu-ray eller DVD-spillere som legger til flere piksler i bildet enn opprinnelig, uten at du skal la deg skremme av det. 
+Er utgangspunktet bra, som for eksempel den nest-siste Batman-filmen, vil også WD TV prestere bra. 
+
+På lydsiden er det støtte for surroundlyd så lenge du kobler deg til en surroundforsterker eller TV som kan dekode signalet, hvis ikke ender du opp med digital stereolyd. 
+Du kan dessuten kombinere dette med den optiske utgangen, hvis du for eksempel ønsker å kjøre film og musikk hver for seg. 
+
+Støyfritt 
+
+Menysystemet er også oversiktelig og greit, og svært så familievennlig. 
+Her finner du verken kryptiske menynavn eller grafisk design utført av dataingeniører ala Altinn.no, men en intuitiv hovedliste for bilder, film, musikk og innstillinger, og deretter selvforklarende undermenyer hvor du blant annet kan sortere innholdet etter dato, navn, eller for eksempel sist tillagte filmer. 
+
+Boksen bruker bare 4-5 sekunder å starte opp, så her behøver du ikke vente på en PC som skal boote, eller en boks med disk som skal hikke seg opp og stå. 
+Selve menynavigeringen er også hurtig, og selv tunge HD-filmer starter avspillingen i løpet av kort tid. 
+
+Like viktig er det at boksen er helt støyfri. 
+Det finnes ingen vifter på innsiden, og bruker du bare minnepinner som lagringsmedium vil det lille mediesenteroppsettet ikke lage en eneste ulyd. 
+
+Fjernkontrollen virker monstrøs sammenliknet med hovedenheten, men det skyldes naturligvis bare at WD TV er liten. 
+Den ligger greit i hånda, og har myke knapper som dekker de viktigste funksjonene. 
+Den gir også mulighet for å søke seg gjennom innholdet på USB-disken eller pinnen 
+
+Konklusjon 
+
+Hvis du har klart å komme deg helt fram til konklusjonen, er du sikkert nysgjerrig på prisen. 
+Den er nemlig like gledelig som resten av WD TV-opplevelsen. 
+
+På nettet kan du for øyeblikket kjøpe boksen for snaue 900 kroner, noe som må sies å være et lite varp i disse dager. 
+
+WD TV spiller nemlig så å si alt, inkludert HD-filmer i 1080p, er rask og enkel, og dessuten fleksibel i forhold til hva du forer den med. 
+Venner og kjente kan simpelthen ta med seg en minnepinne med musikk, bilder eller film, plugge den i boksen din, og så er WD TV klar til å vise det fram på TVen. 
+
+Med andre ord: 
+Bra, billig og muligens også best i sin klasse. 
+
+Takk til Netshop.no for utlån av testproduktet. 

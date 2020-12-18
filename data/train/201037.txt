@@ -1,0 +1,83 @@
+Fujitsu-Siemens Lifebook S6120
+Den er kraftig, har en robust innpakning, og byr på haugevis av tilkoblingsmuligheter. 
+Likevel veier den bare 1,7 kg. Ultraportable Lifebook S6120 fra Fujitsu-Siemens måtte naturligvis en tur innom testbenken. 
+
+Markedet for ultraportable PCer (2 kg eller mindre) er i vekst, mye takket være høyt utstyrsnivå og lavere priser. 
+Dette er først og fremst maskiner som er tiltenkt folk som arbeider mye ute i felten, og har derfor ofte et robust kabinett og god batterilevetid. 
+
+LES OGSÅ: 
+
+Velutstyrt 
+
+Lifebook S6120 tar utvilsomt mål av seg å være et fornuftig valg i denne klassen. 
+Ikke bare er den utstyrt med en svært kraftig Pentium M-prosessor på 1,6 GHz (tilsvarer Pentium 4 på 2,4 GHz under de fleste forhold), den har også en romslig 60 GB harddisk, 512 MB minne, og en kombinert DVD-leser/CD-brenner. 
+
+Dessuten, og kanskje like viktig for målgruppen, er den særdeles sterk på kommunikasjonssiden. 
+Her trekker vi frem Bluetooth, infrarød overføring, trådløst nettverk (WLAN 802.11b), vanlig ethernet (10/100 Mbit) og analogt modem. 
+I tillegg har den 2 stk USB 2.0-porter, 1 PCMCIA-plass og FireWire-port. 
+Det står det respekt av, med tanke på størrelsen. 
+
+Den kombinerte DVD-leseren/CD-brenneren kan byttes ut med et ekstra harddisk eller batteri, sistnevnte er smart dersom du planlegger å klare deg lenge uten nærvær av stikkontakter. 
+
+Vi merker oss også at S6120 har linje-inngang på baksiden, noe som av en eller annen grunn er blitt sjelden vare på de fleste nye bærbare PCer. 
+Mikrofon-inngangen er mono, og anbefales ikke dersom du ønsker å digitalisere gamle analoge lydopptak (kassett, LP). 
+
+Det følger med en portreplikator som kan være tilkoblet ekstern skjerm, tastatur, mus, nettverk etc. 
+Når du kommer på kontoret er det bare å smekke PCen i portreplikatoren, og skru på; ingen fikling med ledningene, altså. 
+En smart løsning som burde vært obligatorisk på enhver PC som først og fremst retter seg mot bedriftsmarkedet. 
+
+Operativsystemet er selvsagt Windows XP Profesjonal, og Nero Burning ROM følger også med. 
+Du får også med Norton Ghost, WinDVD (for DVD-avspilling og programvarere for Bluetooth-kommunikasjon. 
+
+Ikke spillemaskin 
+
+Selve PCen har en klassisk grå design. 
+Tastaturet er lyst, tastene er faste og gir god respons. 
+Tastaturplaten er dessuten stor nok til at det aldri blir trangt for hendene, selv for "touchere". 
+Over tastaturet finner du fire programmerbare hurtigknapper, en LCD som blant annet viser batterinivå, og høyttalerne sitter også her. 
+Det er etter vår mening den aller beste høyttalerplasseringen på bærbare PCer. 
+Lydnivået er derimot litt i laveste laget, så eksterne høyttalere/øretelefoner anbefales for god lydopplevelse. 
+
+Grafikken er integrert i Intel 855GM-brikkesettet, og byr på normal god ytelse. 
+Det er intet førstevalg for den mest spillhungrige delen av befolkningen, men det er heller ikke denne gruppen Fujitsu-Siemens har hatt i tankene denne gangen. 
+Skjermen er ikke større enn 13,3", og oppløsningen er på 1.024 x 768 punkter, som på de fleste andre ultraportable løsningene vi har sett på. 
+Den er god og lyssterk. 
+Maksimal oppløsning på ekstern skjerm er derimot 1.600 x 1.200 punkter. 
+PCen og skjermen er godt beskyttet, takket være lokket som er dekket av metall. 
+
+Grafikkytelsen er også meget bra i 2D, og godkjent i 3D. 
+Men hvis du liker å spille de siste spillene på markedet, må du gå ned på oppløsning og detaljer for å unngå hakking. 
+Dette gjelder alle PCer med i855GM-grafikk. 
+
+Litt viftestøy 
+
+Lifebook S6120 er utstyrt med en vifte som er hissigere enn på de fleste andre Centrino-PCer vi har testet. 
+Det skal ikke veldig stor belastning til før at den starter (noen kalkulasjoner i Excel, for eksempel). 
+Vi har ikke funnet andre forklaringer på dette enn at varmeutviklingen sannsynligvi er større når mye utstyr og raske løsninger settes i et så kompakt kabinett. 
+Spesielt plagsom er viften ikke, men PCen bråker mer enn vi hadde forventet. 
+
+Men ytelsen er det lite å utsette på, og nok en gang får vi bekreftet at Pentium M er den beste prosessorløsningen som finnes på markedet akkurat nå, med hensyn til ytelse pr MHz. 
+Både harddisk- og minneløsningen i S6120 er til gjengjeld av den meget raske sorten, noe som gir seg utslag i gode ytelsestall. 
+
+Den store negative overraskelsen fikk vi først under vår batterilevetidstest. 
+I følge spesifikasjonene skal batteriet holde i inntil 3,5 timer kontinuerlig drift. 
+I følge våre tester (som vi kjørte flere ganger), varte batteriet aldri mer enn *2 timer og 10 minutter. 
+Det er kort levetid i forhold til andre Centrino-PCer vi har testet. 
+Da hadde vi i tillegg skrudd av både WLAN og Bluetooth. 
+For detaljer omkring ytelse og tekniske spesifikasjoner, trykk på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Fujitsu-Siemens Lifebook S6120 er en flott ultraportabel PC med et utstyrsnivå vi sjelden har sett maken til i denne størrelsesklassen. 
+At den også er den letteste Centrino-PCen vi har testet, er også særdeles positivt og en viktig detalj for mange. 
+
+Vi setter et spørsmålstegn ved batterilevetiden, og hadde blitt enda mer begeistret dersom det var lengre opphold mellom hver gang viften startet. 
+
+* OPPDATERT: 
+I følge Fujitsu-Siemens er det stor sannsynlighet for at det har vært en feil ved batteriet i vårt testeksemplar. 
+Du skal kunne forvente en levetid på rundt 3,5 timer. 
+
+Prisen er høy, og det er helt på det rene at kombinasjonen lav vekt og høyt utstyrsnivå har skylden. 
+Likevel er det småtterier mot hva de raskeste ultraportable kostet for bare kort tid siden. 
+
+En enklere utgave med mindre minne, ingen Bluetooth og mindre harddisk koster ca 1.600 kroner mindre i skrivende stund, og vi synes ikke prisforskjellen er så stor at vi vil anbefale den enklere versjonen. 

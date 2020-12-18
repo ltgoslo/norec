@@ -1,0 +1,112 @@
+Macbook Air 2011
+Like liten, litt billigere, men mye raskere. 
+
+Det er noe spesielt med Macbook Air. 
+Designen får de fleste til å sikle, for en 13 tommers bærbar datamaskin i metallchassis og vekt på bare 1,35 kg er definitivt et sjeldent skue. 
+
+Nesten enda mer oppsiktsvekkende er det når man vipper opp skjermen og ser hvor uvanlig tynn Apple har klart å lage skjermen på Macbook Air. 
+Allikevel har den en respektabel oppløsning på 1440x900 piksler; en oppløsning som er høyere enn på de aller fleste 15-tommere. 
+
+Som med forrige generasjon er Macbook Air tilgjengelig i 11- og 13-tommers utgaver. 
+Foruten størrelsen på skjermen, er den største forskjellen at 13-tommeren har innebygd SD-kortleser og at den kommer litt høyere konfigurert om du går for standardmodellene (selv om begge kan oppgraderes ytterligere). 
+
+Størrelsen på tastaturet er den samme (faktisk like stort på 11" Macbook Air og 17" Macbook Pro), mens 11-tommeren naturlig nok har noe lavere oppløsning, med 1366x768 piksler. 
+
+Vi har denne gangen hatt 13-tommeren inne til test, og den drøye uken med Apples lille krabat har definitivt vært en fornøyelse. 
+Faktisk enda mer fornøyelig enn sist gang. 
+
+Raskere prosessor og bakbelyst tastatur 
+
+I forhold til den forrige generasjonen Macbook Air, som faktisk bare ble sluppet for ni måneder siden, har Apple oppgradert maskinvaren. 
+De nye maskinene har siste generasjon Core i5-prosessorer fra Intel (forrige versjon hadde Core 2 Duo) og snurrer på 1,6/1,7GHz (11"/13"). 
+Begge de nye modellene har dessuten fått bakbelyst tastatur slik at tastene lyser når omgivelsene er mørke; noe vi savnet på forrige generasjon. 
+
+Nytt er også at Macbook Air har fått en Thunderbolt-port. 
+Dette er en port som kombinerer PCI Express og Displayport i én og samme kabel og byr på overføringshastighet opp til 20Gbps; fire ganger raskere enn USB3.0 (og rundt 40 ganger raskere enn USB2.0). 
+
+Ny skjerm kommer 
+
+Denne måneden lanseres også Apples CinemaDisplay, som støtter Thunderbolt, og det finnes allerede eksterne harddisker på markedet med samme grensesnitt. 
+Thunderbolt har også støtte for såkalt «daisy chaining», som gjør at du kan koble flere enheter i serie etter hverandre (maks sju). 
+Siden Macbook Air ikke har et dedikert skjermkort, kan du allikevel ikke koble på to eksterne skjermer slik du kan på de nyeste maskinene i Macbook Pro-serien. 
+
+Merk allikevel at den nye CinemaDisplay-skjermen både har 3x USB, FireWire, nettverkskort og nok en Thunderbolt-port, så selv om kablet nettverk mangler på Macbook Air, er det en mulighet – ellers finnes det også USB-overganger som kan brukes for å koble Air på et kablet nettverk. 
+
+Siden sist har Apple også sluppet OSX 
+Lion; deres siste versjon av operativsystemet for Mac. 
+Det følger med maskinen når du kjøper en, sammen med selskapets iLife-pakke, som inkluderer iPhoto (fotoarkivering), iMovie (videoredigering), Garageband (musikkskaping), samt et par andre programmer. 
+Du får også med Mac App Store, som gir deg svært lettvint tilgang på tusenvis av prgrammer og spill, som kan kjøpes (eller lastes ned gratis) med et par klikk. 
+
+Ingen mekanisk harddisk 
+
+I motsetning til øvrige Mac-modeller, fås Macbook Air kun med flashminne. 
+Den billigste 11-tommeren kommer med 64GB SSD-disk, mens vår 13-tommers utgave har en disk på 256GB. 
+Det høres kanskje lite ut med 64GB, men etter inntoget av Spotify og dertil mindre behov for å ha musikksamlingen på harddisken, er det kanskje ikke et så stort problem som det høres ut, for mange. 
+Skjønt – har du et stort bildearkiv (spesielt hvis du tar bilder i RAW-format), eller liker å samle på videofiler på flerfoldige gigabyte, blir det muligens i minste laget. 
+
+Spørsmålet er dog hvorvidt du må ha det med deg til enhver tid, eller om du kan flytte det til en ekstern disk, NAS eller hjemmeserver, som tross alt også er et tryggere sted å oppbevare den slags enn å ha det med seg rundt omkring. 
+
+Rask og behagelig i bruk 
+
+For – nye Macbook Air er en fryd i bruk. 
+Takket være SSD-disken og en enda raskere prosessor enn sist, føles den svært responsiv der man flikker mellom skrivebord, blar i iPhoto-arkivet, kopierer filer, redigerer bilder i Photoshop eller hva man måtte finne på. 
+Til tung redigering av videofiler i full HD finnes det selvsagt smartere valg til en titusenlapp, men for den jevne bruker tilbyr Macbook Air mer enn nok kraft. 
+
+Tastaturet er svært behagelig, med isolerte taster som bråker lite og gir svært god respons, og styreflaten av glass er stor og presis, i tillegg til at den støtter multitouch, der du bruker flere fingre av gangen for å utføre kommandoer på maskinen. 
+Apple har også en genial lademekanisme, MagSafe, som er magnetisk slik at kabelen bare faller ut om noen snubler i ledningen, som kanskje er ekstra viktig på en så lett maskin. 
+
+Batterilevetiden er også meget god. 
+Apple oppgir henholdsvis 5 og 7 timers «produktivt nettbruk» på 11- og 13-tommeren, og etter å ha dratt den frem titt og ofte i løpet av en dagstur til Stockholm, ser det ut til å stemme ganske greit med virkeligheten – med mindre du bruker full lysstyrke på skjermen og belaster den tungt, selvsagt. 
+Stort sett er maskinen også nesten lydløs, men når du kjører den tungt med videokonvertering over flere minutter, høres de mikroskopiske viftene godt. 
+
+Lysstyrken er for øvrig meget god på siste utgave av Macbook Air, og side om side med fjorårets Macbook pro (glossy) er skjermen enda litt lysere og reflekterer mindre lys. 
+
+Dobbelt så rask 
+
+I følge Apple er maskinen 2-2,5 ganger så rask i bruk (gjelder henholdsvis 13- og 11-tommeren), og ser vi på noen tradisjonelle ytelsesmålinger, er hastigheten definitivt forbedret siden forrige generasjon. 
+
+Geekbench-scoren er for eksempel denne gangen 5952 (Core i5, 1,7GHz), mens 13-tommeren i forrige generasjon scoret 2966 (Core 2 Duo, 1,86GHz). 
+Vi prøvde også å spille Portal - noe maskinen klarte helt fint, med et lite hikk en gang i blant. 
+
+Vi konverterte et Divx HD-klipp (1080p, 109MB) med Handbrake til iPod-format, og dette klarte Macbook Air omtrent nøyaktig like raskt som fjorårets 17" Macbook Pro (Core i5, 2.53GHz) der det skilte noen få tideler i favør sistnevnte, og der begge klokket inn på cirka 67 sekunder. 
+
+I samme type øvelse brukte forrige generasjon Macbook Air nesten 2,5x så lang tid som nevnte Macbook Pro. 
+Altså er det liten tvil om at denne utgaven, som kommer ni måneder etter den forrige, er vesentlig raskere enn tidligere. 
+
+Konkurrenter 
+
+Det er ikke mange som lager bærbare PC-er med såpass nett utforming, men en av de argeste konkurrentene er Samsungs 9-serie, som veier 40 gram mindre og er 0,7mm tynnere på sitt tykkeste (men ikke like tynn på sitt tynneste). 
+Sammenligner vi maskinene får vi følgende: 
+
+* Adapter til kablet nettverk følger med. 
+Koster 219 kroner ekstra for Macbook Air. 
+
+Som vi ser av tabellen har Macbook Air raskere prosessor og høyere oppløsning på skjermen, mens Samsungs skjerm er mer lyssterk. 
+Samsungs 9-serie har også en USB 3.0-utgang og HDMI-ut, mens Apple bruker Thunderbolt. 
+Ellers er det ikke store forskjeller maskinvaremessig, selv om Macbook Air koster nesten 2.000 kroner mindre. 
+
+Priser: 
+
+Macbook Air selges i utgangspunktet i fire varianter, men det er mulig å skreddersy dem med større disk (maks 256GB) og raskere prosessor (opp til 1,8GHz core i7). 
+
+11", 1,6GHz, 2GB RAM, 64GB SSD: 7890,- 11", 1,6GHz, 4GB RAM, 128GB SSD: 9490,- 13", 1,7GHz, 4GB RAM, 128GB SSD: 10290,- 13", 1,7GHz, 4GB RAM, 256GB SSD: 
+12590,- 
+
+Oppgraderingen til 256GB SSD koster med andre ord 2300 kroner – tilsvarende prisforskjell i løssalg er ca 1500 kroner, så akkurat den oppgraderingen er noe kostbar. 
+
+Konklusjon, Macbook Air 
+
+Det er ikke rart den tradisjonelle Macbooken nå er tatt ut av Apples sortiment, for nye Macbook Air har blitt såpass rask at den ikke lenger oppfattes som noe kompromiss til fordel for pen design. 
+
+Siste utgave av Macbook Air er et lekkert skue og oppfører seg svært eksemplarisk og rask i daglig bruk. 
+Maskinen har også fått såpass med krutt under panseret at den fint kan brukes til noe tyngre aktiviteter, og det går for eksempel helt fint å spille Portal 2. 
+
+Fordelen med en SSD-disk har vi omtalt flere ganger før – operativsystemet starter på få sekunder, filkopiering går så det suser og andre disksentrerte oppgaver går kjappere enn på maskiner med mekaniske harddisker. 
+
+Til tross for at det bare er ni måneder siden siste utgave, er Macbook Air blitt vesentlig oppgradert, med betydelig raskere prosessor, mer minne, bakbelyst tastatur og Thunderbolt-port – i tillegg til at den selvsagt kommer med OSX 
+Lion; den siste versjonen som nylig så dagens lys. 
+
+Macbook Air er også enda mer aggressivt priset enn før og tilbyr i våre øyne nå meget god valuta for pengene. 
+Selvsagt betaler man ekstra for å få en syltynn maskin som bare veier 1,3kg, men for deg som er mye på farten er den reduserte vekten langt fra ubetydelig. 
+
+Apple MacBook Air (Sve) - 1,7GHz DC 4GB 128GB 13" 

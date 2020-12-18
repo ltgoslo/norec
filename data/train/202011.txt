@@ -1,0 +1,82 @@
+Dell XPS M1710
+Med en matchvekt på fire kilo og lyssetting som en påkostet gatebil klarer denne bærbare fra Dell å gruse de fleste PCer i både ytelse og styling. 
+Vi har sett nærmere på råtassen. 
+
+Med XPS M1710 har Dell kommet med en datamaskin som skal kunne takle de siste og hotteste spillene. 
+Som vanlig er det mulig å konfigurere maskinen sin selv, og en XPS kommer da fra omtrent 19 tusenlapper og oppover. 
+Vår konfigurasjon er av de mest aggressive, og har noe av det råeste av prosessor og grafikkort som kan klemmes inn i en bærbar i dag. 
+Den er naturligvis priset deretter. 
+
+LES OGSÅ: 
+
+Det mest fremtredende ved første øyekast er kanskje lysene. 
+Men under dette ikke akkurat diskré ytre har du en alvorlig rå datamaskin. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2600 @ 2,16 GHz 17" skjerm i bredformat (1920 x 1200 piksler) 2 GB DDR-minne (2 x 1024 MB) 100 GB harddisk (7200 rpm) 8x DVD dual-layer DVD/CD-brenner nVidia GeForce Go 7900GTX 
+(512 MB minne) 54 Mbps WLAN (a/b/g) Blåtann Gigabit LAN + modem 6x USB, 1x FireWire (4-pin), lyd inn/ut 1 ExpressCard/54 plass 5-in-1 kortleser: SD, MMC, Memory Stick, Memory Stick Pro, xD DVI, VGA og S-Video-utgang (7-pins) Dimensjoner (B/D/H): 
+39,5 x 28,7 x 4,7 cm Vekt 4,0 kilo Operativsystem: Windows XP Media Center Edition Pris: 
+27.000 inkl. mva. 
+
+Konstruksjon 
+
+Enten du eller folk rundt deg synes designet er harry eller råkult, så er det så avgjort noe som skiller seg ut i mengden. 
+Med lys i høyttaler- og luftgrillene, og "XPS" i rødt både i lokket og på touchpaden er dette så avgjort ingen simpel grå Dell-boks. 
+(Fargene kan forøvrig forandres eller slåes av over alt bortsett fra på touchpaden.) 
+Byggekvaliteten er meget god, noe vi også forventer i denne prisklassen. 
+Når skjermen åpnes gir den akkurat passe motstand, og det stilige baklokket tåler også press meget godt. 
+
+Touchpaden er som skjermen i bredformat og har skrollfelt både vertikalt og horisontalt. 
+Som nevnt har den altså innlagt lysende skrift. 
+Vi har heller ingenting å si negativt om kvaliteten på tastaturet; støynivået er lavt og følelsen er solid. 
+Over tastaturet har vi foruten av/på-knappen kun en snarveisknapp, akkurat som på Inspiron 6400, som starter Windows Media Center. 
+Fronten av maskinen er også lik den nevnte Inspiron 6400, med snarveisknapper for medieavspilling som er tilgjengelige når lokket er lukket. 
+Alle andre snarveier styres med det vanlige tastaturet og Fn-tasten. 
+
+Tilkoblingene på maskinen er plassert bak og på begge sider. 
+
+På høyre side er det altså en slot for ExpressCard/54, firewire, lyd inn/ut og kortleser. 
+
+Venstre side har kun det optiske drevet pluss 2 x USB. 
+
+Bak finner vi uttak for modem og LAN, 4 x USB, DVI, VGA og TV-ut. 
+Strøminntaket ligger til høyre for VGA-porten. 
+Varmluften kommer forøvrig ut på begge sider. 
+
+Foran har vi som nevnt medieknapper: lydløs-tast(mute), volum opp/ned, play/pause, forrige/neste og stopp. 
+Fronten har også griller for de innebygde høyttalerne. 
+Med lys! 
+
+Rå ytelse! 
+
+Prosessoren, en Intel Core Duo på 2,16 GHz er den mest potente vi har testet så langt og bortsett fra Acer TravelMate 8200 har vi ikke noe som kommer i nærheten. 
+Vi sjekket likevel også ytelsen mot vårt siste testeksemplar, Acer Aspire 5672WLMi, pluss Dells forrige generasjon bærbare for spilling: 
+Inspiron XPS Gen 2. 
+
+PCMark og 3DMark. 
+Høyere score her vil si bedre maskin. 
+Dessverre ble ikke TravelMate 8200 og Inspiron XPS Gen 2 testet med 05-versjonene, men vi skjønner jo tegninga... 
+
+Takket være et 9-cellers batteri er heller ikke M1710 noen katastrofe når det gjelder tiden den klarer seg på strøm. 
+Batterymark målte litt over to og en halv time, noe som er nok for mange. 
+BatteryEater Pro tygde seg gjennom på en time og 39 minutter. 
+
+Vekten er jo også en god kilo over det som er normalt for bærbare på denne størrelsen, så generelt sett må vi si at dette ikke er maskinen vi tar med på langtur. 
+
+Batteritid i minutter. 
+M1710 er slett ikke dårligst i klassen. 
+
+I motsetning til Acer Aspire 5672WLMi så har ikke XPS M1710 det samme varmeproblemet. 
+Bevares, med et så rått grafikkort og prosessor skulle det bare mangle at den ble varm, men kjølingen virker mye mer effektiv og støynivået er langt mindre enn vi hadde fryktet. 
+
+For å få bekreftet at ytelsen måtte vi jo også uformelt prøve et par spill. 
+Half-Life 2 i 1920 x 1200 er en visuell nytelse, og denne maskinen lar deg selvfølgelig spille på denne oppløsningen uten problemer. 
+F.E.A.R., som er et notorisk "tungt" spill å kjøre, skapte heller ingen problemer på høy oppløsning og høye detaljinstillinger. 
+
+Konklusjon 
+
+Dell XPS M1710 er en råtass av en maskin, og for gameren er den kanskje det ultimate valget. 
+Med noe av det råeste du får innen prosessorer og grafikkort for bærbare PCer feier den banen med både andre bærbare og en god del stasjonære datamaskiner. 
+Men det koster! 
+Likevel, har du mye penger og prioriterer ytelse kan dette være maskinen akkurat for deg. 

@@ -1,0 +1,103 @@
+ASUS Eee Box EB1012P
+Den er en av de mest omtalte mini-stasjonære PC-ene denne høsten. 
+Hva kan den brukes til? 
+Vi har testet! 
+
+De fleste velger bærbar PC i 2010, men mange synes fortsatt at en stasjonær PC med stor skjerm, godt tastatur og mus fungerer langt bedre for lange arbeidsdager. 
+
+Det er dessuten lenge siden en fullt dugandes PC behøvde å ta stor plass på pulten. 
+Vi har testet en rekke mini-stasjonære her på DinSide, enkelte av dem har bydd på mer enn nok datakraft for de fleste bruksområder, som for eksempel denne fra ASRock og ikke minst siste generasjon Mac Mini. 
+
+Asus Eee Box EB1012P har i motsetning til de to ovennevnte en langt svakere prosessor, men krever til gjengjeld nesten ingen kjøling overhodet. 
+Samtidig har Asus valgt å bygge PC-en rundt ION2-plattformen til Nvidia, noe som blant annet betyr kraftig nok grafikkbrikke til å muliggjøre avspilling av høyoppløst video uten å belaste prosessoren i særlig grad. 
+
+Dessuten har PC-en et svært godt utstyrsnivå, størrelsen tatt i betraktning. 
+Her er noen av de viktigste egenskapene: 
+
+ASUS Eee Box EB1012P mini-PC 22,2 x 2,7 x 17,8 cm - 1,17 kg Intel Atom D510 dobbelkjernet prosessor 2 GB internminne (kan oppgraderes til 4) 250 GB harddisk, 5400 rpm Nvidia Next Generation ION grafikkort, 512 MB minne HDMI-utgang VGA-utgang 4 stk USB 2.0-porter + 2 stk USB 3.0 eSata-kontakt Minnekortleser (SD/XD/MS) Gigabit nettverk Trådløst nettverk (b/g/n) Mic inn og lyd ut i front (minijack) Windows 7 Home Premium 64-bits operativsystem Minimus og standard tastatur (kablet) Pris: 3.295 kroner (MPX.no 15.10.2010) 
+
+Det er ikke småtterier Asus har fått plass til i den 2,7 cm tynne boksen. 
+Mest overraskende er kanskje støtte for USB 3.0, noe som blant annet betyr inntil ti ganger raskere overføring til og fra USB 3.0-forberedte eksterne harddisker enn hva som er mulig med USB 2.0. Harddisken er kanskje liten for mange, men den kan enkelt oppgraderes. 
+Det er bare å løsne to skruer på undersiden av PC-en. 
+
+Tilkoblingene er plassert på foran, bak og på toppen 
+
+Merk imidlertid at det ikke følger med DVD/CD-stasjon, trenger du dette må du bruke en ekstern løsning via USB-porten (fås for noen hundrelapper i databutikken). 
+
+Det største ankepunktet er imidlertid den relativt svake prosessoren, noe vi kommer tilbake senere i denne testen. 
+
+Kan henges på skjermen 
+
+PC-en kan enten monteres på den medfølgende foten (én skrue), eller henges på baksiden av skjermen/TV-en takket være det medfølgende VESA-festet. 
+De aller fleste skjermer har slike skruehull på baksiden, og det er kanskje den beste løsningen for deg som er opptatt av minst mulig "rot" på skrivebordet: 
+
+Som stueløsning kan den også legges flatt, men det følger ikke med gummiknotter. 
+Det anbefales isåfall, for å unngå riper i den speilblanke overflaten. 
+
+Det følger med strømkabel med ekstern strømforsyning på 65W, andre kabler må du besørge selv. 
+Vi koblet den til vår testskjerm via VGA, men HDMI vil være det mest nærliggende å bruke i forbindelse med TV-tilkobling, siden du da også får med lyd i samme kabel. 
+
+Oppstart 
+
+PC-en har en liten vifte som drar luft gjennom kabinettet, men den er så støysvak at den er knapt hørbar. 
+Dette stemmer godt overens med vårt generelle inntrykk av Asus-PC-er, både bærbare og stasjonære. 
+Som regel er maskinene blant de aller mest støysvake i nær sagt alle kategorier. 
+
+Det sterke blå lyset som indikerer harddiskaktivitet er etter vår mening malplassert og for sterkt. 
+Det flimrer i øyekroken, og vi valgte raskt å sette vri PC-en slik at dette ikke ble en hemsko. 
+
+Windows 7 med nogo attåt 
+
+Ved første oppstart blir Windows 7 og programmene konfigurert, dette tar noe tid (rundt 30 minutter). 
+Det første som møter deg når prosessen er fullført, er et varsel om at antivirusprogrammet må aktiveres, og dette er selvfølgelig en prøveversjon som koster penger etter noen ukers bruk: 
+
+Det samme gjelder flere av de andre programmene som følger med, blant annet et program som serverer deg internettradiostasjoner: 
+
+Som opplyst DinSide Data-leser vet du at slike programmer finnes i hopetall gratis på Internett, så dette betaler du selvfølgelig ikke for. 
+
+Det følger også med flere multimedieprogrammer fra ArcSoft, blant annet et mediesenter som også støtter Blu-ray-avspilling. 
+Det er greit å vite dersom du planlegger å koble til en ekstern Blu-ray-leser på et tidspunkt. 
+Forøvrig støttet dette mediesenteret de aller fleste multimediefilene våre, inkludert MKV, MP4 og DivX, men ikke RealMedia: 
+
+Av andre programmer som er verdt å trekke fram er naturligvis Microsoft Office Starter, som inneholder lettutgaver av Word og Excel - med de vanligste funksjonene. 
+Det er ikke noe tidsbegrensning på disse. 
+
+Du får også muligheten til å lagre filer på Asus Webstorage, som blir tilgjengelig i Utforsker: 
+
+Lagringsgrensen er 1 GB, og også dette kun gratis i en prøveperiode. 
+
+Hvordan er den i bruk? 
+
+Å være databruker i 2010 er temmelig annerledes enn for få år siden. 
+Nå er de fleste komfortable med å ha mange baller i luften, og veksler mellom flere åpne programvinduer og oppgaver. 
+Her er Asus Eee Box ikke det beste valget. 
+
+Windows 7 opplevelsesindeks gav oss følgende ytelsestall: 
+
+Til disse tallene kan vi føye til at det i praksis napper, rykker og henger litt her og der, og dette skyldes i hovedsak beskjeden prosessorkraft. 
+Å drive med tyngre bilde- og videoredigering kan du bare glemme, med mindre du er utstyrt med særdeles god tålmodighet fra naturen sin side. 
+
+Bedre som mediesenter, men bruk andre programmer 
+
+Mer interessant er det å vurdere denne maskinen til mediesenterbruk, tilkoblet TV-en i stua. 
+Da må du imidlertid bytte ut det medfølgende tastaturet og musa, og gå for noe trådløst med god rekkevidde, for eksempel dette. 
+
+Du kan allerede velge mellom Windows Media Center og Arcsoft Total Media Center, som begge er installert. 
+Sistnevnte gir best formatstøtte, men fikk problemer med testklippene våre i 1080P (full HD), både VC1-format i MKV-konteiner, samt DivX-format. 
+Full HD AVCHD-format fra et videokamera ble imidlertid avspilt uten problemer. 
+
+Problemene løste vi ved å bruke gratisprogrammer Windows Media Player Home Cinema og installere de siste DirectX-driverne fra Microsoft. 
+Da var vi i stand til å spille av alle testfilene våre, uten problemer av noe slag. 
+
+Vi sjekket prosessorbelastningen under avspilling av de mest krevende HD-filmene, og som du ser har maskinen fortsatt litt å gå på før det blir full belastning: 
+
+Konklusjon 
+
+ASUS Eee Box EB1012P er liten, lekker og lydløs. 
+Med de rette grepene spiller den av alt av materiale, inkludert full HD, og da er den super å bruke til video- og musikkavspilling tilkoblet TV-en og lydanlegget i stua. 
+
+Hvis du er ute etter en erstatning for skrivebords-PC-en din er vi imidlertid langt mer skeptisk. 
+Det tok ikke mange minuttene med bruk før vi syntes ventingen begynte å bli irriterende, spesielt når flere oppgaver ventet på "mat" fra prosessoren. 
+For 3.295 kroner kan du få en relativt potent maskin i dag, riktig nok en god del større innpakning, men det vil absolutt være å foretrekke for tyngre bruk. 
+
+Takk til MPX.no for utlånet av PC-en 

@@ -1,0 +1,175 @@
+Philips Fidelio AS851
+Den nye Fidelio-modellen kan dokke både Android og Windows Phone 7. 
+
+Du kan si hva du vil om iPhone, men én fordel har den: 
+Det er bare Apple som lager den. 
+
+Apple sørger blant annet for at telefonene deres er så enkle som mulig å bruke sammen med ekstrautstyr, og dette har blitt big business. 
+Spesielt høyttaler-dokker, som gjør iPhone til en reiseradio eller stereoanlegg. 
+
+Dermed blir det et mareritt for dokk-produsenter å lage noe som passer de fleste, ettersom alle Android-telefoner er forskjellige, og det mangler standarder for hvordan de skal se ut og oppføre seg. 
+
+Vi ble derfor glade for at Philips ville forsøke likevel, med sin nye Fidelio AS851. 
+
+Har de virkelig knekt koden? 
+
+En skikkelig klump 
+
+Fidelio AS851 har et trygt og greit design. 
+Og et forferdelig kjedelig navn. 
+
+Hele fremsiden ser ut som en eneste stor høytaler. 
+Her finner du selve dokking-pluggen, av- og på-knapp og volumkontroll. 
+Baksiden er blank og glatt, og gir deg strømuttak, AUX-inn for lyd og USB-ut for lading. 
+
+Totalt fortoner dokken seg som en stor, rund og tung klump. 
+
+Her ser du hvordan AS851 ser ut: 
+
+Skal takle det meste 
+
+Rent teknisk er ikke AS851 noe mer enn en Bluetooth-høytaler med en mikro-USB-lader. 
+
+Det vil si at en dings du dokker inn i Fidelio i virkeligheten strømmer lyden trådløst gjennom Bluetooth, mens den får strøm fra mikro-USB-pluggen. 
+I motsetning til iPhone-dokker, hvor både strøm og lyd går gjennom den samme pluggen. 
+Dette har med virkemåten til Android å gjøre. 
+
+Tanken er å plugge telefonen i dokken, at den gjennom Philips egen Android-app parer seg med AS851 automatisk via Bluetooth og at dokken lader telefonen gjennom USB-pluggen. 
+Fordelen med denne løsningen, er at AS851 kan kobles til det aller meste. 
+
+Og Philips har tenkt på problemer vi ærlig talt ikke så komme. 
+
+USB-pluggen kan snus. 
+Alle telefoner har nemlig ikke denne USB-inngangen samme vei. 
+Tilkoblingen kan justeres fra høyre til venstre. 
+Alle telefoner har nemlig ikke USB-inngangen nederst, og dermed må noen ligge. 
+Ved å justere pluggen får man telefonen til å ligge på midten likevel. 
+Tilkoblingen tilter ut og inn, for å tilpasse seg telefoner med ulik tykkelse.En dimp under tilkoblingen kan justeres opp og ned. 
+For eksempel vil et nettbrett lene seg til den ene siden på grunn av vekten, om USB-inngangen ikke ligger på midten av brettet. 
+Dimpen fikser dette. 
+Når alt annet feiler, kan du bruke den som en hvilken som helst annen Bluetooth-dings, eller koble til lyd gjennom AUX-inngangen. 
+Du kan også lade opp telefonen din med en USB-kabel via USB-ut på baksiden. 
+
+Fungerer i praksis 
+
+DinSide har testet dokken med en rekke forskjellige enheter, for å se om dette faktisk fungerer. 
+
+Slik gikk det. 
+
+HTC Desire Klassikeren Desire har USB-inngangen nederst på telefonen. 
+Dermed passer den perfekt sammen med AS851. 
+Og ved å først installere Fidelio-appen til Philips går alt automatisk når du plugger telefonen i dokken. 
+Bluetooth slår seg på, telefonen parer seg med høyttaleren og strømmen strømmer inn. 
+
+Motorola Atrix 
+Den nyeste Motorola-modellen i Norge har USB-inngangen på siden av telefonen, så vi må dokke den liggende. 
+Med Fidelio-appen går alt som smurt, men å ha telefonen liggende i dokken er langt fra ideelt. 
+Fidelio, og den medfølgende musikkspilleren Songbird, fungerer i landskapsmodus, men det gjør ikke for eksempel Spotify og Wimp. 
+Dermed må du holde hodet på skakke når du vil skifte låt, og resultatet blir ikke særlig brukervennlig. 
+
+Motorola Xoom Også nettbrett kan være fine å dokke, og Xoom-en fungerer greit i AS851. 
+Ettersom den har flere innganger enn kun USB, kan det være vanskelig å finne riktig hull. 
+Og når hullet først er funnet finner du ut at det hele var noe meningsløst, i og med at Xoom ikke støtter lading gjennom USB. 
+Fidelio-appen gjør heller ikke jobben i Honeycomb, så man må pare seg med dokken manuelt. 
+Men når dette er gjort blir resultatet fint, takket være den justerbare dimpen ved siden av USB-pluggen. 
+Uten denne hadde brettet fått vansker med å holde balansen. 
+
+Sony Ericsson Xperia Active 
+Denne mistenkte vi skulle bli en nøtt, og det ble den også. 
+Active er en robust klump, og har så mye plast rundt seg at USB-pluggen til AS851 ikke klarer å skvise seg inn. 
+Men ved å bruke Bluetooth kan man selvfølgelig fortsatt spille av musikk på den. 
+Ved å plugge en USB-kabel i utgangen på baksiden kan man også lade telefonen mens den spiller. 
+Men løsningen blir langt fra så elegant som hos de andre telefonene, og skal man først bruke dokken på denne måten er det kanskje like greit å velge andre løsninger som ikke er en dokk i det hele tatt. 
+
+HTC Titan AS851 markedsføres som en Android-dokk, men ettersom den baserer seg på åpne løsninger fungerer den utmerket også med andre telefoner. 
+For eksempel en Windows Phone 7-modell, som giganten Titan. 
+Philips har ikke noen app til Windows Phone 7 for automatisk paring, men gjør du det manuelt, kan du strømme lyd ut av Bluetooth-en og få strøm inn i USB-inngangen, akkurat som med Android-telefonene. 
+Dermed blir Fidelio-dokken også et godt valg for Windows Phone 7-folket, dog ikke like enkelt som for Android-brukere. 
+
+Vrien USB-standard 
+
+Generelt var det ofte vanskelig å få telefonen på plass. 
+USB-inngangene på Android-telefoner og andre dingser er ikke laget med tanke på dokking, og det merkes. 
+
+Men det blir nok forhåpentligvis en treningssak. 
+
+Det er også rart at telefonen ikke automatisk kobles fra dokken når du fjerner den, i og med at den automatisk kobler den til når du setter den i. 
+Det betyr at musikken fortsetter å spille via Bluetooth, helt til du kobler deg av dokkens Bluetooth, for eksempel via Fidelio-appen. 
+
+Samtidig kan dette selvfølgelig også være en fordel, spesielt med tanke på at mange telefoner blir vanskelige å manøvrere mens de er dokket. 
+
+God og mye lyd 
+
+Kort fortalt: 
+Fidelio AS851 har imponerende god lyd. 
+
+AS851-modellen ser prikk lik ut DS8550 til Apple-produkter, og vi skrøt av lyden til denne da vi testet dokken i fjor. 
+Heldigvis er det ikke bare på utsiden disse produktene likner. 
+
+Bassen er dyp og kraftig, både på høyt og lavt volum. 
+Alt fra tradisjonell pop til bass-fokusert elektronisk musikk og tung post-rock setter luften i bevegelse. 
+Så er du av typen som liker at det dirrer litt i mellomgulvet har du ingenting å bekymre deg over. 
+
+Volumet kan dessuten være langt høyere enn hva de fleste vil oppleve som behagelig, og dokken skal ikke ha noe problem med å fylle en fest med gromlyd. 
+Bassen vil de få med seg både i stuen og på kjøkkenfesten. 
+
+Begrenset fjernkontroll 
+
+AS851 leveres med en fjernkontroll. 
+Den har flere knapper vi egentlig ikke aner hva brukes til, og som heller ikke beskrives i bruksanvisningen, men hovedsaklig skal den la deg styre volum og avspilling. 
+
+Selv har vi kun brukt den til volumkontroll, da de andre knappene bare fungerer så som så, og noen ganger ikke i det hele tatt. 
+
+For eksempel opplevde vi at knappene for å styre avspillingen styrte Androids standard-musikkspiller i stedet for Philips egen Songbird. 
+Trykket vi på Play/Pause var det dermed Androids spiller som satte i gang, når vi egentlig ville pause musikken vi spilte fra Songbird. 
+Samme skjer i Wimp. 
+Resultatet blir kaos. 
+Dette kan være vårt Android-oppsetts feil, men her er vi tilbake på hovedproblemet med Android-dokker: 
+Det finnes for få standarder. 
+Hyggelig er det dog at fjernkontrollen fungerer utmerket i Windows Phone 7 med operativsystemets egen musikk-avspiller. 
+
+Fjernkontrollen lar deg også blant annet sette i gang radioen som følger med i Fidelio-appen, men ettersom man ikke kan velge radiostasjoner med den, blir dette heller meningsløst. 
+
+Den baserer seg dessuten på IR-signaler, slik de fleste tradisjonelle fjernkontroller gjør, og fører i dette tilfelle til dårlig dekning. 
+Man bør ha fri sikt før man skyter inn en kommando. 
+
+Begrensede apper 
+
+For å få dokken til å automatisk koble seg på Android-telefonen din, trenger du Philips Fidelio-app. 
+De anbefaler også at du laster ned musikkspilleren Songbird. 
+
+Men utover det å automatisk koble på dokken, som selvfølgelig er til god hjelp, gjør de lite. 
+Man får en grei musikkspiller, en nettradio med blant annet norske kanaler, alarm og en equlizer for dem som liker det. 
+
+Vi hadde håpet vi kunne bruke dokken som klokkeradio, i og med at Philips har både radio og alarm på plass. 
+Dette fungerer også på Apple-versjonene av Fidelio, men her kan du skuffende nok bare glemme det. 
+Kanskje det er vi som er gammeldagse, men en skikkelig klokkeradio kunne vært en "killer-funksjon" i vår bok. 
+
+Du finner apper på Market som kan gjøre oppsettet ditt til en klokkeradio, men det hadde vært fint å fått det servert på sølvfat. 
+På samme måte klarer du sikkert til å få dokken til å koble seg automatisk til telefonen ved hjelp av andre apper, om du ikke liker Philips egne. 
+
+Dokken kan forøvrig ikke brukes med batterier, så du kan ikke ta med deg AS851 ut i parken. 
+Den har heller ingen mikrofon, så skal du prate i telefonen må du fjerne den fra dokken. 
+
+Google må skjerpe seg 
+
+En dokk skal hovedsaklig gjøre én ting: 
+Gjøre det enkelt å bruke telefonen din som stereoanlegg. 
+
+Philips prøver så godt de kan, men de har hatt en vanskelig jobb. 
+Android er rett og slett ikke skapt for slikt, og det merkes. 
+Google må få på plass flere standarder for Android-telefonene før det kan bli noe skikkelig sving over dette. 
+
+Men med tanke på materialet Philips har hatt å jobbe med, er vi likevel imponert over hvor enkelt de tross alt har gjort det. 
+Og at det ikke bare passer Android-telefoner. 
+Og ikke minst hvor bra det lyder. 
+
+Bare synd ikke appen og fjernkontrollen topper kransekaka. 
+
+Før du gjør klart bankkortet, husk å spørre betjeningen om å få prøve den selv, med din egen telefon. 
+Sjansen for at den passer er stor. 
+Er du uheldig, risikerer du å kjøpe et produkt du bare får halvveis glede av. 
+
+Men da er det neppe Philips sin feil. 
+
+Philips Fidelio AS851 

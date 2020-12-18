@@ -1,0 +1,98 @@
+Canon Pixma MG8150
+Overbevisende fotokvalitet og lynrask skanner. 
+Joda, Canon leverer varene igjen, men ikke alt er perfekt. 
+
+Etter å ha testet toppmodellene HP Potosmart eStation AiO, HP Envy 100 AiO og Lexmark S815 Genesis, har turen kommet til en ny toppmodell blant multifunksjonsskrivere, denne gangen fra Canon. 
+
+MG8150 har et langt mindre oppsiktsvekkende design enn de tre ovennevnte, men har til gjengjeld et meget godt utvalg av funksjoner: 
+
+Her er de viktigste egenskapene: 
+
+Blekkbasert Skriver, skanner og kopimaskinSeks separate blekktanker, inkludert grått blekk for gråtoneutskrifter4" LCD-skjerm, norske menyer 4 800 dpi CCD-skanner Skanner også lysbilder og negativer 
+To arkmatere, i bakkant og skuff i front Skriver med inntil 9 600 dpi, 1 pl dråpestørrelse Automatisk tosidig utskrift USB, Ethernet og Wi-Fi-tilkobling utskrift direkte på CD/DVD/Blu-ray Størrelse: 470 × 392 × 199 mm Vekt: 10,7 kg Flere tekniske data 
+
+I motsetning til de andre tre vi har testet tidligere i vinter, kan denne altså skanne negativer og lysbilder, og kobles til nettet både med kabel og trådløst. 
+Utskrift direkte på CD og DVD ved hjelp av et adapter, er også Canon alene om blant de vi har sett på så langt. 
+
+Skriveren er stor og ruver på bordet, og er så tung og dyp at den passer bedre her enn i en hylle. 
+Midt på lokket sitter skjermen, som ikke er berøringsfølsom, men som styres relativt enkelt ved hjelp av berøringsfølsomme knapper og hjul i forkant. 
+Det spesielle ved disse er at kun de knappene som er aktuelle lyser opp, avhengig av hvor du befinner deg i innstillingene. 
+
+Enkelt og greit 
+
+Installasjon av blekkassetter er rimelig rett fram. 
+Først må du sette inn selve holderen der skrivehodene sitter, og deretter er det bare å smette kassettene på riktige plasser. 
+Vi merker oss at kassettene ikke lenger er gjennomiktige, og det er dermed ikke mulig å se om de er tomme, slik det var mulig på eldre Canon-modeller. 
+Det er imidlertid målere både i PC-programvaren og i kontrollpanelet på selve skriveren, som forteller deg når det er på tide å bytte ut kassettene. 
+
+Å koble seg til det trådløse nettet vårt var gjort på et lite minutt via dette panelet, intuitivt og greit. 
+
+Skriveren kommer med en rekke Canon-programmer for håndtering av utskrifter, skanning, bilde- og kalenderhåndtering, med mer, men kan også brukes frittstående. 
+Da kan du for eksempel koble kameraet direkte til skriveren, eller bruke minnekortleseren og velge aktuelle bilder på skjermen. 
+
+Hvis du ikke har behov for funksjonaliteten som ligger i programpakken, og ønsker å bruke egne programmer, er det bare å laste ned basisdrivere fra Windows Update (17 MB), hvis PC-en din har Windows 7. 
+
+Utskriftskvalitet av klasse 
+
+Første gang du bruker skriveren må den kalibreres og klargjøres. 
+Denne prosessen tar lengre tid enn på mange andre skrivere vi har testet, en plass mellom 5 og 10 minutter. 
+Prosessen gir imidlertid gode resultater, for utskriftskvaliteten på MG8150 er av de aller beste vi har sett noen gang. 
+
+På tekst- og enkel grafikk på vanlig kopipapir er det naturligvis vanskelig å skille modellene fra hverandre, men på fotoutskrifter ligger MG8150 helt i toppen hva kvalitet angår - riktig nok hvis du bruker riktig fotopapir - fra Canon. 
+Vi benyttet Photo Paper Plus Semigloss, og det kan trygt anbefales. 
+Ved et uhell satte vi inn et fotopapir beregnet på HP-skrivere, og da falt kvaliteten rett igjennom. 
+
+Hastighetsmålinger 
+
+Hastighetsmessig er den ikke like suveren - på utskrifter riktig nok, men likevel meget rask. 
+Et fotografi skrives ut i A4-størrelse på semigloss-papiret på 1 minutt og 29 sekunder i normal kvalitet, hvorav 10 sekunder gikk bort til forprosessering. 
+
+Ved å bruke Windows 7 sin innebygde fotoutskriftshåndterer skrev vi ut 4 fotografier i størrelse 9 x 13 cm på et et A4-fotoark på 1 minutt og 10 sekunder, eller ett minutts effektiv utskriftstid. 
+
+Også på sort tekst og websider med kombinert tekst/bilder i farger ekspederer skriveren jobbene relativt kjapt, 23 sekunder effektiv utskriftstid på 5 tettskrevne tekstsider og 24 sekunder på tre websider i farger. 
+I tillegg kommer da de 10 sekundene som alltid følger med til forprosesseringen. 
+
+Skjønt "alltid" er ikke helt korrekt. 
+En av de største ulempene med denne skriveren er at den fra tid til annen bruker lang tid på å gjøre seg klar. 
+Dette henger sammen med at de ørsmå dysene trenger å rengjøres for å sørge for topp kvalitet på utskriftene, og skjer oftest når den ikke har vært i bruk på en stund. 
+
+I videoen under ser du hvordan skriveren kverner og kverner mens det tar bortimot ett minutt før utskriftsjobben på én side omsider er på vei ut. 
+
+En annen ulempe knyttet til dette er at denne renseprosessen spiser en del blekk. 
+For å teste ut dette i praksis skrev vi ut én side hver dag den første uka. 
+Allerede etter sjette utskrift av blandet tekst/grafikk viste blekkmåleren at det var begynt å minke av fargene grå og cyan: 
+
+Like raskt nedover gikk det slett ikke da vi satte av en dag til å kjøre omfattende testing, og selv etter 15-20 A4-utskrifter der flere var helsides fotoutskrifter, var ikke nivåene sunket særlig mye mer: 
+
+Dette tyder rimelig klart på at MG8150 byr på vesentlig bedre skriverøkonomi dersom du bruker den hyppig. 
+
+Lynrask skanner 
+
+Vi har allerede trukket fram utskriftskvaliteten, der MG8150 befinner seg helt i toppskiktet. 
+Skanneren er også av meget høy kvalitet, og gjengir detaljer i høylys og mørke partier svært godt. 
+Skarpheten er også meget god, og styreprogrammet byr på en rekke avanserte muligheter som fjerning av støv, skanning av flere bilder samtidig med mer: 
+
+I eksemplet under har vi sammenlignet kvaliteten med Lexmark S815 Genesis. 
+Det burde tale for seg selv: 
+
+Minst like imponert er vi over skannehastigheten. 
+Selv første gang vi skulle bruke skanneren brukte den bare 3 sekunder på å bli klargjort, deretter 4 sekunder på å forhåndsvise en hel A4-side. 
+Selve innskanningen i 300 dpi tok beskjedne 9 sekunder. 
+
+Selv om dette er tre ganger så lang tid som Lexmark S815 Genesis, som avfotograferer sidene, er det så kjapt at det i praksis ikke på at "venting" ikke er ordet som faller inn i hodene våre. 
+
+Her er flere bilder av skriveren: 
+
+Konklusjon 
+
+For å gjøre en lang historie kort: 
+Canon Pixma MG8150 byr på den beste skanne- og utskriftskvaliteten vi har sett så langt. 
+Den er enkel å sette opp og bruke, og har et meget godt utvalg av nyttig funksjonalitet. 
+Skanneren er i tilllegg lynkjapp 
+
+Ulempen er først og fremst at den kan bruke lang tid på å bli klar dersom det er en stund siden den brukte den sist. 
+I denne prosessen renses dysene, og det krever en del blekk. 
+
+Foruten dette er dette en aldeles utmerket maskin. 
+
+Canon Pixma MG8150 

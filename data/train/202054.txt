@@ -1,0 +1,108 @@
+iRig MIDI
+Kan iPhone bli ditt nye piano? 
+Eller annet instrument? 
+
+Vi har tidligere skrevet om iPhone som "ordentlig" musikkverktøy, som man faktisk kan spille på fra et MIDI-keyboard. 
+
+I den første artikkelen skrev vi generelt om to samplebaserte løsninger, SampleTank for iOS og bs-16i, artikkelen finner du her. 
+
+I den neste artikkelen testet vi SampleTank på iPad, med Apples Camera Connection Kit og et M-Audio MIDI interface koblet til forskjellige MIDI-instrumenter. 
+Artikkelen finner du her. 
+
+Men iPhone fikk vi ikke testet, fordi Camera Connection kit av en eller annen grunn ikke fungerer på iPhone, selv om det er samme støtte for MIDI i iOS - operativsystemet som brukes både i i iPhone og iPad. 
+
+Derfor må man ha et eget MIDI-interface til iPhone for å spille på den direkte fra et "ordentlig" instrument. 
+
+iRig MIDI 
+
+MIDI-interface til iPhone testet vi allerede sommeren 2010, men generell støtte i selve operativsystemet kom ikke før i november 2010, med iOS 4.2. 
+
+I dag finnes det flere MIDI-interfaces å velge mellom, vi har testet iRig MIDI fra IK Multimedia. 
+Dette støtter selvsagt CoreMIDI som nå er standarden alle følger på iOS-enheter. 
+
+iRig MIDI er naturlig nok ikke store sakene, siden det skal passe sammen med iPhone, men da er det ikke plass til MIDI-kontakter som er mye større enn tykkelsen på interfacet. 
+Problemet løses ganske enkelt ved at MIDI-kablene som følger med har en 2,5 millimeters stereo plugg i den enden som skal inn i iRig MIDI og en vanlig MIDI-plugg i den enden som skal inn i instrumentet som sender MIDI-signaler. 
+
+Det er tre standard MIDI-tilkoblinger: IN, OUT og THRU, men det følger bare med to kabler. 
+I praksis er dette tilstrekkelig og vel så det. 
+De fleste klarer seg med en kabel til iPhone fra MIDI-instrumentet. 
+Den andre kan brukes når man vil bruke iPhone som kontrollflate til å styre en annen lydmodul, et program på en PC/Mac eller annet MIDI-utstyr. 
+
+iRig MIDI kobles til dokkingporten, dermed blokkeres også muligheten for å bruke ladekabelen under bruk. 
+Men iRig har en mikro-USB-kontakt på siden som kobles til laderen med USB, så det problemet er tatt hånd om. 
+I praksis er det sjelden man trenger å bruke denne tilkoblingen under bruk. 
+Strømforbruket under lydavspilling er langt lavere enn når du ser video eller kjører spill på iPhone. 
+
+Programvare 
+
+Første gangen du kobler til iRig MIDI får du beskjed om at enheten trenger programvare for å kunne brukes. 
+Denne programvaren består av driver og et enkelt MIDI-opptaksprogram som lastes ned fra AppStore når du trykker OK. 
+Driveren gjør at iRig MIDI kommuniserer med CoreMIDI i iOS og dermed mot alle CoreMIDI musikkprogrammer. 
+
+Hvis du vil vite mer om CoreMIDI og hvilke utfordringer som ligger i programmering av apps kan du lese om dette i denne artikkelen. 
+
+Fordelen med et dedikert MIDI-interface 
+
+Mange har støtt på forskjellige problemer når de bruker Camera Connection Kit på en iPad 2 og kobler til utstyr som sender MIDI via USB. 
+Mye slikt utstyr er ikke kompatibelt, de krever drivere for å fungere, og driverne for iOS finnes ikke. 
+Annet utstyr trekker mer strøm fra USB-kontakten enn det som er tilgjengelig, og vil derfor ikke fungere. 
+Tilkobling via en USB 
+HUB med egen strømforsyning kan løse det problemet, men da blir det mye kabler, strømforsyninger og bokser. 
+
+MIDI er 30 år gammelt og en moden standard som alltid fungerer. 
+Et dedikert MIDI-interface vil alltid fungere med alle MIDI-instrumenter, det er ingen ting å sette opp og det bare virker. 
+
+iRig MIDI i praksis 
+
+Enklere kan det ikke gjøres. 
+Du plugger det i iPhone eller iPad - så virker det. 
+Du starter en musikk-App, hvis det er første gang må du antagelig velge i oppsettet at appen skal motta MIDI fra CoreMIDI, deretter vil appen huske dette i framtiden. 
+
+Så er det bare å begynne å spille. 
+
+SampleTank på iPhone 
+
+Da vi testet SampleTank på iPad ble vi positivt overrasket over både lydkvalitet og spillbarhet. 
+Også Apples GarageBand har en del gode lyder, men programmet er mer lagt opp som hjemmestudio, ikke som lydmodul med enkel betjening og raskt skifte mellom lyder. 
+
+Noe av det viktigste for spillbarheten er forsinkelsen mellom anslag og lyd, som skal være minimal. 
+Sansene våre tolererer fint 10 millisekunders forsinkelse, men blir det mye mer virker det seigt å spille. 
+
+iOS er designet for rask respons på alle måter, all betjening skal oppleves som fysisk, at vi berører noe som oppfører seg som noe virkelig. 
+Dette er spesielt viktig i spill og musikk, og vi har ikke blitt skuffet. 
+
+Men det er begrensninger i prosessorkraft, så det er ikke uendelig polyfoni - aom betyr antall toner som kan spilles samtidig. 
+På moderne Mac-er og PC-er er det ikke praktiske grenser for hvor mange samtidige toner man kan spille, vi snakker om hundrevis. 
+
+Men i GarageBand for iOS er f.eks. piano begrenset til 10 stemmer. 
+Spiller du mange toner med pedalen nede blir den første tonen avbrutt når du spiller den ellevte. 
+
+På SampleTank er det 16 stemmer som kan klinge samtidig, og det fungerer langt bedre, spesielt på piano med pedalbruk. 
+
+Siden iPad 2 har langt kraftigere A5 dobbeltkjerneprosessor var vi spent på hvorda iPhone 4 med sin A4 presterte. 
+
+Det skulle vise seg at det var ingen forskjell i praksis. 
+iPhone 4 var akkurat like spillbar som iPad! 
+
+Egner iPhone seg som musikkinstriment? 
+
+Hva som fungerer musikalsk er fullstendig avhengig av sammenhengen. 
+Lydene som ligger i programmene er derfor mer eller mindre forseggjort både ut fra forventninger og musikalsk funksjon. 
+Piano vet de fleste hvordan lyder, derfor nytter det ikke å "lure" folk med dårlige pianolyder. 
+Andre lyder er ikke så krevende, som trommer, bass, synther og etniske slaginstrumenter. 
+Blåse- og strykeinstrumenter låter uansett mer eller mindre komisk, siden det er mer enn vrient å kontrollere lyden slik som man kan gjøre med et ordentlig instrument. 
+Dette er fordi slike instrumenter har en tettere og mer kompleks kobling til kroppen sammenlignet med tangenter og fingertupper. 
+
+Med dette som bakgrunn er det naturlig å legge vekt på de lydene som faller mest naturlig å spille fra tangenter, og piano, orgel og andre tangentinstrumenter ligger derfor øverst på lista over de vellykkede instrumentlydene både i SampleTank og GarageBand. 
+
+Andre instrumenter er også høyst brukbare, som bass og trommer og noen av gitarlydene, hvis de blir spilt fornuftig. 
+
+Konklusjon 
+
+Med iRig MIDI åpner det seg enda flere muligheter for bruk av iPhone (og iPad) som musikalsk verktøy, både som lydmodul og hjemmestudio. 
+
+Det er like enkelt i bruk som alt annet MIDI-utstyr og i kombinasjon med lettbetjente og rimelige apper ser vi begynnelsen på en helt ny æra av musikkutstyr. 
+
+Vi har allerede brukt dette til pianolyder på et par spillejobber, og det ser skummelt ut for vår MacBook Pro som framtidig reisefølge når iPhone eller iPad gjør jobben like bra. 
+
+iRig MIDI får du kjøpt i de fleste musikkforretninger og Apple Store. 

@@ -1,0 +1,102 @@
+Fujitsu-Siemens Lifebook E4010
+Intel Centrino-baserte PCer fortsetter å ta markedsandeler. 
+Denne modellen har dessuten en flott skjerm, og støyer ikke i det hele tatt! 
+
+Vi har tidligere testet en annen Centrino-basert PC i Lifebook-serien, ultraportable S6120. 
+E4010 ser temmelig lik ut, men er en god del større. 
+Det har både sine fordeler og ulemper. 
+
+LES OGSÅ: 
+
+Ytelse møter størrelse 
+
+Lifebook E-serien består av relativt lette, men kraftige PCer, enten utstyrt med Pentium 4 Mobile-prosessor, eller den nye og batterisparende Pentium M-prosessoren. 
+Sistnevnte benyttes blant annet i PCer som bærer Intel Centrino-stemplet, som du kan lese mer om her. 
+
+Lifebook E4010 er en velutstyrt PC beregnet for krevende, mobile brukere. 
+Den har blant annet et lokk i metall som beskytter skjermen godt mot støt, noe som er uunngåelig når PCen skal brukes som arbeidsredskap ute i felten. 
+Den er noe større enn de andre Centrino-PCene vi har testet, og vekten kryper så vidt under 3 kg. 
+
+Her er en kort oppsummering av løsningene i vår test-PC: 
+
+Pentium M 1,6 GHz 
+
+512 MB DDR-SDRAM 
+
+60 GB harddisk 
+
+15" LCD-skjerm, 1.400 x 1.050 piksler 
+
+Integrert Intel 82852/82855 grafikk 
+
+24x CD-ROM 
+
+Trådløst nettverk (Intel Pro 802.11b) 
+
+10/100 mbit nettverk 
+
+Infrarød kommunikasjonsport 
+
+56 Kb modem 
+
+TV-utgang 
+
+parallell- og seriellporter 
+
+2 stk USB 2.0-porter 
+
+2 stk PCMCIA-plasser 
+
+kontakt for portreplikator (p. er ekstrautstyr) 
+
+Vi setter et stort spørsmålstegn ved valget av optisk enhet; det begynner å bli lenge siden vi så maskiner i denne prisklassen med en enkel CD-leser. 
+I følge produksjef Jarle B. Hansen i Fujitsu-Siemens kan den også leveres med kombinert DVD-leser/CD-brenner, noe vi vil anbefale sterkt. 
+Og hvor er det blitt av Firewire-porten? 
+
+For øvrig er det lite å utsette på utstyrsnivået, med unntak av at vi gjerne skulle sett flere USB-porter. 
+Med eksternt tastatur og mus, trenger du for eksempel en USB-HUB for å få plass til minnepluggen eller skriveren. 
+
+Operativsystemet er Windows XP Professional, og du får med programmene NYHET! 
+Sammenlign denne PCen mot andre vi har testet 
+
+Klassisk 
+
+PCen har et klassisk design i lyst og mørkt grått. 
+Tasaturet er lyst grått, og er behagelig å skrive på. 
+Det kunne med fordel vært enda litt større (det er god plass på sidene), så hadde vi kanskje sluppet knappene til høyre for slette- og linjeskift-tasten, og dermed også feiltasting i begynnelsen. 
+For øvrig er tastaplasserigen logisk i forhold til et standard tastatatur. 
+
+Over tastaturet sitter et LCD-panel som viser batterilevetid, diskaktivitet mm, og fire programmerbare hurtigtaster. 
+Pekeplaten under tastaturet er klikkbar, og akkompagneres av høyre venstre museknapp, samt en toakses knapp for vertikal skrolling i midten. 
+Alt diskret, pent og rent, slik trenden er i denne klassen. 
+
+Meget støysvak 
+
+Til vår store glede oppdaget vi at PCen er så godt som lydløs - under alle forhold. 
+Den er utstyrt med en vifte på venstre side som starter når belastningen er på topp, men du må legge øret tett inntil for å høre den. 
+Med andre ord har Fujitsu-Siemens løst kjølebehovet på en elegant måte. 
+
+Skjermen er verdt et eget avsnitt i seg selv. 
+Den er faktisk en av de beste vi noensinne har sett på en bærbar PC. 
+Den er sylskarp, og kontrast og fargegjengivelse er så nær som perfekt. 
+Høy oppløsning er etter vår mening også en stor fordel når du har mange vinduer åpne samtidig, og en 15" LCD tåler godt denne oppløsningen, synes vi. 
+
+Bra ytelse, men ingen spillmaskin 
+
+Ytelsesmessig er det lite å utsette på maskinen, men som på alle andre PCer med denne grafikkløsningen, bør Lifebokk E4010 være ditt førstevalg dersom du er over middels spillinteressert. 
+3D-ytelsen er nemlig langt svakere enn på PCer med dedikert grafikk fra ATI og Nvidia. 
+Til alle andre oppgaver, inkludert filmavspilling i fullskjerm, er grafikken mer enn rask nok. 
+
+Batterilevetiden får også godkjent, med rundt 3 1/2 time. 
+Det er likevel et godt stykke bak de beste. 
+Acer Travelmate 800 holdt for eksempel ut i en time mer. 
+
+For flere detaljer omkring ytelse og egenskaper, klikk på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Møtet med Fujitsu-Siemens Lifebook E4010 ble i hovedsak positivt. 
+Spesielt den gode skjermen og det lave støynivået er ting vi vil huske i ettertid. 
+
+På den negative siden vil vi først og fremst trekke frem at PCen leveres med CD-ROM som standard, litt få USB-porter, og at grafikkløsningen ikke innbyr til krevende 3D-spilling. 
+Firewire-port finner du heller ikke, noe som nærmest er som standard å regne i 2003. 

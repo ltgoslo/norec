@@ -1,0 +1,73 @@
+Test: ZTE 4G USB-modem
+Raskere trådløs surfing over alt? 
+
+4G mobilnett er ikke bare det raskeste mobilnettet, det er også vesentlig raskere enn de fleste kablete internettilkoblingene man kan velge. 
+Mye raskere enn ADSL og ofte raskere enn det du får hos kabel-TV og fiber-tilbyderne. 
+Spesielt gjelder dette opplasting, så hvis du jobber med å ta bilder i felten som skal videsendes er det uslåelig. 
+
+Ja, forutsatt at du har dekning og tilgjengelig datakvote da. 
+Og hvorfor kommer vi tilbake til lenger ned. 
+
+4G er kjappere enn du tror 
+
+For at 4G er et ypperlig alternativ når du befinner deg et sted med god dekning har vi selv erfart. 
+Bor man noen kilometer fra Telenor sin sentral, og det ikke er fiber eller moderne kabel-TV tilgjengelig i området, er trådløst faktisk det eneste alternativet. 
+
+Du kan lese vår test av 4G stasjonært rutermodem i denne artikkelen. 
+
+Men hvis du trenger rask internettilkobling på farten må du ha en annen løsning. 
+
+ZTE 4G USB-modem 
+
+Dette modemet er en god del større enn en minneplugg, og enda litt større enn selv en av de større trådløse USB-mottakerne. 
+På en måte er dette en fordel, siden den ikke så lett blir borte. 
+Samtidig blir den litt mer krevende å plassere. 
+
+Hvis USB-kontaktene på den bærbare er liggende og på baksiden av skjermen, går det helt fint. 
+Hvis USB-kontaktene sitter på siden blir den lett i veien, og en skjøteledning eller helst en fot, kan være en bedre løsning. 
+
+Installasjon 
+
+Det er ikke med noen CD, heldigvis, og installasjonprogramvaren ligger i flashminne i selve enheten. 
+Dermed der det bare å plugge den inn og starte installasjonsprogrammet - så er man oppe å kjøre. 
+
+Det er forøvrig en fordel å sette inn SIM-kortet før man plugger inn modemet første gang. 
+Du åpner lokket, og setter inn et vanlig SIM-kort inn fra siden. 
+Pass på når du bryter løs SIM-kortet fra det store plastkortet, slik at du ikke sitter igjen med et lite mikro-sim... 
+
+Etter at programvaren er installert er det bare å starte tjenesten, så er man på nett. 
+
+Hastighet og dekning 
+
+Vi har sjekket ut forbindelsen i flere sammenhenger, og som ventet er det svært varierende hvor god dekning og hastighet man får. 
+
+Hjemme på Høybråten i utkanten av Oslo har vi fått nedlastningshastigheter på over 60 megabit, mens vi får over 80 med det store rutermodemet. 
+Siden antenneløsningene er så forskjellige (store eksterne på rutermodem og små interne på modemet) er dette et meget bra resultat. 
+
+Opplastningshastigheten er derimot omtrent den samme, den ligger mellom 20 og 30 megabit på begge enhetene. 
+
+Du kan sjekke statistikk over opp og nedlastningshastigheten inne fra appen: 
+
+Men når man beveger seg i bykjernen, spesielt innendørs i bygninger som strekker seg langt inn i kvartalene, faller dekningen og hastigheten voldsomt, i noen tilfeller mister man den helt. 
+
+Merk deg at modemet alltid svitsjer over til 3G når det ikke er forbindelse på 4G, så man blir ikke uten dekning. 
+
+Konklusjon 
+
+Hvis du bor på eller reiser til steder med god 4G dekning er dette en lynrask løsning som gir deg glimrende internettforbindelse. 
+
+Problemet er abonnementene, som opererer med svært begrensede datakvoter. 
+Hva er vitsen med en superrask varebil hvis du bare får lov til å frakte 500 kilo i uka? 
+
+Netcom, som foreløpig er den eneste 4G leverandøren, jekket riktignok opp kvoten på rutermodemet sitt fra 30 til 100 Gbit i måneden i sommer. 
+
+Det er ganske enkelt ikke nok. 
+
+Det er på tide at de enten øker eller fjerner disse begrensningene på 4G. 
+Fremtiden blir ikke trådløs så lenge dette sperrer for nettopp de bruksområdene som er attraktive, både for jobb og fritid. 
+
+For maskinvaren og forbindelsene funger jo utmerket! 
+
+Prisen i Netcoms nettbutikk er 199 kroner for selve modemet. 
+Abonnement kommer i tillegg. 
+Mer info finner du hos Netcom. 

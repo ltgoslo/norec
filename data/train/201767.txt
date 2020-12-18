@@ -1,0 +1,131 @@
+LG A1 Express Dual
+En gang i blant dukker det opp bærbare PCer som ganske enkelt er enda mer bærbare og lettere å like enn andre. 
+Ultraportable A1 er nettopp en slik modell. 
+
+For ikke så alt for lenge siden testet vi en stor LG-modell, en 17-tommer vi var ganske så fornøyd med. 
+
+LES OGSÅ: 
+
+Men LG har flere interessante bærbare maskiner, blant annet den lille tassen vi har sett på til i dag: modellen A1 (må verken forveksles med et kamera, rakett eller boyband) Express Dual. 
+Til å være såpass beskjeden i størrelse har den relativt store spesifikasjoner. 
+Bredskjermen måler kun 10,6 tommer, men oppløsningen er på anstendige 1280x768 piksler. 
+Den har likevel et tastatur i full størrelse, og et dedikert grafikkort: nVidia GeForce 
+Go 7300 - noe vi sjelden finner i så små bærbare. 
+Harddisken er riktignok kun på 80 GB, men det er fordi den kun er på 1,8 tommer, ikke 2,5 som vi vanligvis finner i bærbare PCer. 
+Og vekten for hele herligheten er kun en kilo! 
+
+Tastaturet fyller naturlig nok hele bredden på LGs A1. 
+Noe særlig mindre maskin med normalt tastaur får du ganskel enkelt ikke - i det minste med tradisjonelle løsninger. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo U2500 @ 1,2 GHz 10,6" skjerm i bredformat (1280 x 768 piksler) 1,5 GB DDR2-minne (512 + 1024 MB) 80 GB harddisk - (4200 rpm) 
+Ekstern USB DVD-RAM/CD/DVD-brenner nVidia GeForce Go 7300, 64 MB minne (opp til 256 med TurboCache) 54 Mbps WLAN (a/b/g) Gbit LAN + modem 3x USB, blåtann, lyd inn/ut 1 ExpressCard/34 kortplass 5-i-1 kortleser: SD, MMS, MS/PRO, xD VGA ut To batterier: 3 og 6 celler Windows XP Professional Dimensjoner (B/D/H): 
+27,1 x 19,5 x 3,0 cm Vekt 1,05 kilo med 3-cellers batteri, 1,20 kilo med 6-cellers Pris: ca. 21.000 inkl. mva. 
+
+LCD-panelet har det har det blanke belegget vi finner på moderne skjermer, og oppleves som lyssterkt og med god kontrast. 
+Fargene har vi heller ikke noe å si på, og oppløsningen er som nevnt på hele 1280 x 768 piksler på denne 10,6-tommeren. 
+Innsynsvinkelen er dog ikke så bra - men det er noe som er helt typisk for bærbare maskiner. 
+
+Konstruksjon 
+
+Byggekvaliteten på LGen virker god. 
+Det er riktignok plastikk over alt - det har nok sitt med vekten å gjøre - men chassiset er stivt og solid. 
+Det helt samme kan vi ikke si om lokket, men her må vi altså ta i betraktning maskinen den sitter hengslet på. 
+Siden hele PCen kun veier en kilo ødelegger du ikke noe ved å løfte maskinen etter lokket - ikke det at vi anbefaler å gjøre det til en vane. 
+Alt i alt virker PCen mer enn solid nok for sin vektklasse! 
+
+Lokket har en lakkoverflate med svært mørk blåfarge, men utenom i dagslys virker den sort ved første øyekast. 
+Som lakkoverflater flest blir lokket fort tilgriset av fingeravtrykk, og maskinen leveres derfor med en pusseklut. 
+Den må så avgjort brukes en gang i blant. 
+
+Tastaturet ser nesten litt for stort ut på A1, og det er altså fordi det er i full størrelse. 
+Responsen på tastene er kort og kontant, men slett ikke ubehagelig. 
+Støynivået er også meget lavt så lenge du ikke hamrer på tastene. 
+I tillegg er layouten god, med Fn-tasten plassert på riktig sted og en Enter-tast som ligger helt til høyre og går over to linjer. 
+Faktisk er det vanskelig å finne noe å klage på når det gjelder tastaturet. 
+
+Touchpaden føles i begynnelsen litt ru (en vanesak), men følsomheten er god, og den har skrollefelt i alle retinger. 
+Vi kunne dog ha tenkt oss at den hadde vært bred - slik som skjermen. 
+Da hadde det vært mer plass til knappene under, slik de er nå virker de lett litt for små til jobben. 
+
+En annen ting å merke seg er at det ikke er et internt optisk drev i A1. 
+DVD-brenneren er ekstern og med samme stile og finish som selve PCen. 
+Den kobles til via USB, og krever ingen strøm utenom den som blir servert gjennom USB-porten. 
+Den korte kabelen sitter fast i brenneren og skyves inn i et hulrom når den ikke er i bruk. 
+Praktisk og elegant. 
+
+Tilkoblingene på maskinen er plassert foran og på begge sider. 
+Bakerst er det batteriet og hengslene som tar opp plassen. 
+Det lille (3-cellers) batteriet går jevnt med resten av PCens bakside, mens det større batteriet stikker et par centimenter ut. 
+Bilde av A1 med sistnevnte batteri finner du lenger ned på siden. 
+
+I front er det kun to plasser som for mange ikke er så ofte i bruk: minnekortleser og ExpressCard/34. 
+
+På venstre side finner vi VGA ut, plass for kensingtonlås, to USB-kontakter og av/på-knappen lengst fremme. 
+Varmluften kommer også ut her. 
+
+Høyresiden har to knapper: en for å regulere volum og en for å skru på SRS-lydforsterkning. 
+I tillegg er det kontakter for lyd ut og inn, USB, modem, LAN og strøminntak. 
+
+Ytelse og batterilevetid 
+
+Prosessoren vi finner i A1 er en Core Duo U2500 fra Intel, og er av typen Ultra Low Voltage (ULV) - noe som er posistivt med tanke på batterilevetid og varmeutvikling. 
+Overraskende er det også å finne et dedikert grafikkort i denne lille PCen - vanligvis er det kun bærbare med skjermer over 12" som har dette. 
+
+Vi har ikke testet så veldig mange lignende bærbare, så det har ikke vært helt klart hvilke maskiner vi skulle sammenligne A1 med. 
+Vi tok derfor et knippe med forskjellige små PCer vi så på sist kalenderår: 
+Ferrari 1000 - ultraportabel 12-tommer på 1,6 kilo fra Acer. 
+Satellite Pro U200 - ultraportabel 12-tommer på 1,9 kilo fra Toshiba. 
+Toughbook CF-T4 - ultraportabel 12-tommer på 1,5 kilo fra Panasonic. 
+Samsung Q1 - ultramobil PC med 7-tommers skjerm på litt under 8 hekto. 
+
+A1 har altså til sammenligning en skjerm på 10,6 tommer og veier en kilo. 
+Prisen på 21.000 kroner ligger mellom Ferrarien (18 tusen) og Toughbooken (litt over 22). 
+Toshibaen er langt rimeligere, men veier også nesten det dobbelte. 
+Samsung Q1 er et helt annet dyr, men vi har likevel tatt den med, ettersom vekten faktisk ikke er så veldig langt unna A1. 
+
+Vi begynte med å se på prosessorytelse: 
+
+Verdien er i sekunder, lavere er bedre. 
+Mens Ferrarien og Toshibaen har mer "normale" prosessorer, er det mer energieffektive modeller å finne i de andre maskinene. 
+Panasonics Toughbook har en ULV Pentium M på samme klokkefrekvens som Core Duoen vi finner i A1 (1,2 GHz), noe som resulterer i at de yter nokså likt på dette punktet. 
+Men verken Panasonic Toughbook eller Samsung Q1 har dobbeltkjerneprosessor. 
+
+3DMark. 
+Høyere poengsum her vil si bedre maskin. 
+Med tanke på grafikkytelse er det så avgjort A1 som skinner i forhold til konkurrentene, men sett i forhold til andre grafikkort skal det nevnes at GeForce Go 7300 hører til det laveste sjiktet. 
+Kort sagt, dette er ingen stor spillmaskin, men er så avgjort ikke helt håpløs heller. 
+For eksempel vil ytelsen være mer enn god nok til å kjøre Aero-grensesnittet i Windows Vista. 
+
+PCMark05 - høyere poengsum er bedre. 
+Her får ikke uventet A1 bank av både Ferrarien og Toshibaen, men grafikkmessig ligger den altså langt foran alle konkurrentene. 
+Totalt sett gjør den derfor en fin figur med tanke på typen harddisk og ULV-prosessoren. 
+
+A1 kommer som nevnt med to batterier. 
+For det lille 3-cellers batteriet målte vi litt over to timer med BatteryMark, mens 6-celleren holdt ut i nesten fire og en halv time. 
+Sammenlagt snakker vi altså om seks og en halv time, i det minste dersom du skulle dra med deg begge batteriene! 
+Imponerende. 
+
+Støymessig har vi ikke så mye å klage på med A1, selv om den ikke er vfteløs slik som for eksempel Panasonic Toughbook. 
+Den lille vifta spinner opp en gang i blant, men ved hjelp av tastaturet går det fort å bytte mellom tre modi: 
+Cool, Normal og Silent. 
+Prioriterer du lite støy kan du sette den til Silent, og vil du heller spare fanget kan du sette den til Cool. 
+For PCen blir varm ved hard belastning. 
+
+Konklusjon 
+
+LG A1 Express Dual er en liten og lekker bærbar modell. 
+Størrelsen tatt i betrakting har den en god skjerm og godt tastatur. 
+Ytelsen er som regel ikke det viktigste ved en slik liten bærbar, men er likevel mer enn akseptabel. 
+Og kanskje noe av det morsomste er vekten på kun litt over en kilo - eller da 1,2 kilo med det største batteriet. 
+
+I den tiden vi har A1 stående i redaksjonen for testing har kolleger av begge kjønn vært innom, og den umiddelbare reaksjonen har fra samtlige vært svært positiv. 
+Ikke engang fingermerker på det lakkerte lokket har kunnet rokke ved det positive førsteinntrykket. 
+
+Det har kun vært en ting som har hatt en tendens til å ødelegge for "oj, en sånn må jeg ha"-stemningen, og det er når vi har blitt nødt til å opplyse om prisen. 
+21 tusen kroner må du altså ut med for denne ultraportable PCen, og den prisen kan nok virke litt vel stiv for mange. 
+Men det er nå engang slik med disse produktene at liten vekt og størrelse koster penger, så om det er verd prisen får være opp til hver enkelt. 
+Det er dog verd å merke seg at du fort går ned i pris ved å velge en litt større og tyngre bærbar PC. 
+
+Men alt i alt er det lite annet spesielt å trekke for ved A1 Express Dual, og vi ender også derfor opp med en solid femmer på terningen. 

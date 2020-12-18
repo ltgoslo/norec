@@ -1,0 +1,115 @@
+Fujitsu-Siemens Amilo M7400
+De fleste forbinder gjerne Amilo-PCene fra Fujitsu-Siemens med store og tunge skrivebordserstattere. 
+Men Amilo M er verken stor eller tung - og den er i tillegg både rimelig og god. 
+
+DinSide Data kunne tidligere i høst melde om at Intel hadde kuttet prisene kraftig på sin Centrino-plattform. 
+Nå kommer resultatene i form av billigere bærbare PCer bygd på teknologien. 
+Fujitsu-Siemens Amilo M7400 er et godt eksempel. 
+Den har en prislapp på folkelige 15.000 kroner, men er likevel meget velutstyrt: 
+
+LES OGSÅ: 
+
+Intel Pentium M 1,4 GHz (tilsvarer 
+P4 2,2 GHz) 
+
+256 MB minne 
+
+60 GB harddisk, 4.200 rpm 
+
+15" TFT LCD-skjerm, 1024 x 768 piksler 
+
+DVD-brenner (DVD+RW) 
+
+Intel Extreme grafikk, 64 MB integrert 
+
+TV-utgang 
+
+11 MBit trådløst nettverk - WLAN (802.11b) 
+
+ir-port 
+
+SD-kortleser 
+
+3 x USB 2.0-porter 
+
+56 Kbit modem 
+
+10/100 MBit nettverk 
+
+Firewire-port 
+
+parallellport 
+
+PCMCIA-plass 
+
+vekt 2,8 kg 
+
+326 mm x 270 mm x 30 mm 
+
+Det mest oppsiktsvekkende er kanskje DVD-brenneren, som slett ikke er vanlig kost i en PC til 15.000 kroner, spesielt ikke på en Centrino-basert PC. 
+I tillegg er det også en overraskende stor harddisk i forhold til andre modeller i prisklassen. 
+Det mest negative er egentlig minnestørrelsen. 
+Trekker du fra 64 MB til grafikken, blir det ikke veldig mye igjen - spesielt ikke hvis du har for vane å kjøre flere programmer samtidig - og forventer effektivitet. 
+
+Vi konstaterer for øvrig nok en gang at diskettstasjonens dager er talte, og i så måte er SD-kortleseren velkommen - som en verdig erstatter. 
+
+PCen leveres med Windows XP Home Edition og en god programpakke, som blant annet inkluderer MS Works Suite 2003 (norsk), Norman Antivirus og Adobe Photoshop Elements 2.0. 
+Dette er en av de beste programpakkene vi har sett til PCer i denne prisklassen. 
+
+Utforming og praktiske løsninger 
+
+PCen har en klassisk design, men temmelig ulikt fra Amilo D-PCene vi har testet tidligere. 
+Det er benyttet grå plast, mens tastaturet og rammen rundt er sort. 
+Så selv om vekt og størrelse innbyr til transport, kan det være en god idé å være forsiktig - spesielt bør du unngå å utsette lokket for trykk. 
+Et metallokk hadde gitt vesentlig bedre beskyttelse for skjermen. 
+
+Tilkoblingspunktene er i hovedsak lokalisert i bakkant, DVD-brenneren har åpning i front, og minnekort, pcmcia og ir-port er hensiktsmessig plassert til venstre. 
+Ingenting å utsette her, altså. 
+
+Tastaturet har en logisk utforming, og spesialtaster er store og logisk plassert. 
+Eneste unntaket er venstre skift-tast, som er l. 
+Tastaturplaten er noe myk på midten, men det er aldri noe problem med responsen på tastene - som er faste og avgir minimalt med lyd under skriving. 
+Også knappene som er knyttet til pekeplaten avgir lite støy. 
+Skroll-funksjonalitet er integrert i pekeplaten, men du kan godt bruke den runde knappen med fire akser som sitter mellom høyre og venstre museknapp for skrolling horisontalt og vertikalt. 
+
+Til venstre for tastaturet sitter fire hurtigknapper (to programmerbare) samt av/på-knapp for WLAN. 
+Hvis du ikke trenger trådløs kommunikasjon kan du slå av denne støtten, og dermed spare batterilevetid. 
+
+Det sitter en mikrofon under pekeplaten, og to høyttalere over tastaturet. 
+Disse sitter meget tett, noe som i og for seg ikke er bra for stereo-følelsen. 
+Faktum er uansett at lydkvaliteten fra disse høyttalerne er så spinkel at du garantert vil bruke eksterne høyttalere/øretelefoner dersom du har tenkt å lytte til musikk. 
+På baksiden finner du både mikrofon og linjeutgang. 
+
+Skjermen er middels lyssterk, og har bra innsyn fra sidene. 
+Den vertikale vinkelen er den derimot mer sårbar på, skjermen blir fort veldig lys dersom du kommer på den ovenfra eller har stilt vinkelen feil. 
+Dette er på den annen side ikke uvanlig for denne typen skjerm. 
+
+Rask oppstart, lydløst arbeid 
+
+Med fabrikkonfigurasjonen brukte PCen 37 sekunder på å laste Windows, og knappe 6 sekunder på å bli "vekket" fra ventemodus. 
+Det er meget bra! 
+Husk at dine programinstallasjoner og konfigurasjoner vil påvirke disse tallene. 
+
+Gledelig å oppdage at denne PCen, som en av de aller første vi har testet fra Fujitsu-Siemens, er så godt som lydløs. 
+Kun under meget tung belastning startet viften i noen få sekunder. 
+Ved tekstbehandling, surfing på nettet etc vil du i praksis aldri oppleve at den vil gi lyd fra seg i det hele tatt. 
+Deilig! 
+
+Når det gjelder ytelsestestene, bød disse på få overraskelser. 
+Grafikken tilfredsstiller alle som ikke har 3D-spill som hovedinteresse, og prosessoren yter omtrent som en Pentium 4 klokket til 2,2 GHz, men krever altså langt mindre kjøling. 
+Den krever også mindre strøm, noe batterilevetidstesten beviste. 
+4 timer og 11 sekunder er meget bra sammenlignet med de aller fleste PIII, P4 og Athlon-PCer, og over middels bra i forhold til andre Centrinoer vi har testet. 
+
+For detaljer omkring ytelse kan du klikke på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Fujitsu-Siemens Amilo M7400 overrasket positivt på flere punkter. 
+Først og fremst selges PCen til en hyggelig pris, og med tanke på det høye utstyrsnivået, det lave støynivået, lav vekt og kompakt størrelse, er det hevet over en hver tvil at dette er et meget godt kjøp. 
+
+PCen bør være ideell for studenter og andre som trenger en mobil og utholdende kompanjong i felten, som samtidig har utstyr nok til å erstatte den stasjonære PCen. 
+
+De negative trekkene er i klart undertall, og summeres raskt med ordene middelmådig 3D grafikkytelse, dårlige høyttalere og litt lite minne. 
+Sistnevnte er enkelt å gjøre noe med, uten at det vil koste deg mange hundrelappene. 
+
+Til slutt vil vi legge til at en 15" skjerm gjerne kan ha høyere oppløsning enn 1024 x 768 piksler, men en slik skjerm ville sannsynligvis gjort denne PCen langt dyrere. 

@@ -1,0 +1,84 @@
+Liten medie-PC fra Asrock
+Har den alt en stue-PC skal ha? 
+
+Stue-PC er omstridt. 
+For noen er det en selvfølge, for andre er det helt utenkelig. 
+Noen kobler helt av når de setter seg foran TV-en, og har ingen interesse av å koble seg til verken internett eller husnett. 
+Andre bruker TV-en flittig sammen med en HTPC (HomeTheater PC) som enda en innfallsport til alt innholdet på nettet, uansett hvor innholdet kommer fra og om det er betaling inne i bildet. 
+
+Uansett, det er mange som kobler seg til, så det finnes mange maskiner som er beregnet på denne type bruk, og litt til. 
+
+Asrock Core 100 
+
+Asrock er et firma på Taiwan som produserer hovedkort, mini-PCer og HTPC-er. 
+Det ble opprinnelig startet av Asus, og skulle ta seg av konkurranse i lavprismarkedet. 
+Senere har produktene blitt populære i selvbyggerkretser og har beveget seg oppover på statusskalaen. 
+
+Core 100 serien er en såkalt Barebone, som er en grunnkonstruksjon som kan kompletteres med alternative komponenter. 
+Ønsker du en rimelig maskin velger du rimelig prosessor, liten harddisk osv. 
+Ønsker du derimot en svært kapabel maskin velger du komponenter som klarer oppgaven og betaler det det koster. 
+Du kan kjøpe maskinen i deler og bygge selv, men mange selger den ferdig satt opp. 
+
+Maskinen vi har testet har fått en kurant Core i3 prosessor fra Intels nyeste generasjon, en stor harddisk og et BD-drev. 
+Dermed er den i stand til å håndtere og vise det aller meste av aktuelle formater. 
+
+Oppgitt pris på vårt testeksemplar fra Multicom er 6 295. 
+Andre forretninger kan operere med andre konfigurasjoner og priser. 
+
+Spesifikasjoner: 
+
+I bruk 
+
+Maskinen kom med Windows 7 Home Premium ferdig installert, og med en prøveversjon av PowerDVD 10 lagt inn. 
+
+Fjernkontroll fra Microsoft er inkludert, og du håndterer all mediebruk med denne. 
+PowerDVD kjører som tillegg til Windows Media Center og betjenes også fra fjernkontrollen. 
+
+Vi koblet maskinen først til en eldre HP-skjerm på 1920 x 1200 med overgang fra HDMI til DVI (som følger med i pakken). 
+Det fungerte utmerket og vi fikk kjørt våre ytelsestester. 
+
+Denne skjermen hadde ikke støtte HDCP, og ville dermed ikke vise Blu-ray med digital skjermtilkobling. 
+Vi koblet derfor til en av våre LCD TV-er med HDMI og fikk først et utmerket PC-bilde i korrekt oppløsning (1920x1080p). 
+Avspilling av Blu-ray filmer var heller ikke noe problem med fin flyt. 
+
+Andre HD-formater var heller ikke noe problem på denne maskinen. 
+
+Lyden kan enten sendes ut i HDMI-kabelen, optisk S/PDIF eller kobles direkte med analoge utganger på minijacker. 
+
+Systemet har THX 
+TruStudio PRO 7.1 HD lydstøtte, som også kan generere simulert surround i et stereosystem. 
+
+Lyden fungerte utmerket både på vårt PC-surroundanlegg koblet til analogt, og gjennom TV'en. 
+Legger man lista høyere kobler man til et potent lydløsning med S/PDIF eller til en receiver med HD-audio støtte. 
+
+Fleksibel løsning 
+
+Maskinen har eSATA tilkobling, dermed kan du henge på en eller flere disker og få en anselig lagringskapasitet. 
+Utover dette er det 6 USB 2.0 tilkoblinger, VGA og HDMI i tillegg til lydutgangene. 
+
+I tillegg har den 2 USB 3.0 tilkoblinger i front og er dermed klar for det meste av tilleggsutstyr. 
+
+Med Gigabit nett og trådløst 802.11n er den også klar for enhver fornuftig nettverksløsning. 
+
+Støy og varme 
+
+Maskinen har ekstern strømforsyning, så det er ikke noe støy fra denne. 
+Maskinen har ellers en kabinettvifte og en prosessorvifte, pluss roterende disk og optisk drev. 
+Da blir det nødvendigvis litt lyd. 
+Vi var likevel positivt overrasket over det lave støynivået. 
+Det er ingen toner i støyen, bare hvisling, noe som er langt mer behagelig for sanseapparatet. 
+
+Konklusjon 
+
+Denne lille PC-en er på mange måter det motsatte av en Mac mini som vi testet nylig. 
+Det er antagelig bare moren til designeren som synes den er pen, men den er lett å åpne, kan konfigureres ganske omfattende og fritt, og mye forskjellig kan kobles til. 
+
+Prisen er nesten den samme og leser man spesifikasjoner får man en god del mer for pengene når man kjøper en Asrock Core 100. 
+Prosessoren er kraftigere, minnet og disken større og den har et BD-drev. 
+Tilkoblingene er også mer omfattende, og det er direkte lydutganger for surround. 
+Ser man på andre egenskaper som design, medfølgende programvare og den totale opplevelsen ved å bruke et Apple-produkt - der oppstår meningsbrytningene. 
+Noen mener dette er vel verdt pengene. 
+Andre mener det motsatte. 
+
+Oppgitt pris på vårt testeksemplar fra Multicom er 6 295. 
+Andre forretninger kan operere med andre konfigurasjoner og priser. 

@@ -1,0 +1,64 @@
+Creative Live!Cam Optia AF 
+
+Nesten alle kameraer har det, bortsett fra webkameraer - autofokus. 
+Men nå har Creative gjort noe med det. 
+Vi har testet. 
+
+I desember testet vi første Optia-modell fra Creative, som bød på bedre optikk, bedre bildeprosessering og raskere overføring. 
+I tillegg hadde selve konstruksjonen en del fikse detaljer. 
+Testen kan du lese her. 
+
+Den nye utgaven ser svært lik ut, den påfallende forskjellen er at den er sort mens den forrige var hvit. 
+Ellers er det samme design og fysiske egenskaper. 
+
+Fremdeles er det ikke mulig å benytte klemmen på de fleste LCD-skjermer, den må stå oppå. 
+Klemmen fungerer bare på tynne laptop-skjermer. 
+Stort sett fungerer dette bra, hvis skjermen din ellers står støtt. 
+Hvis du pleier å dreie skjermen for å vise fram skjermbildet til andre er det altså ikke noen spesielt gunstig løsning. 
+Da er en kraftig dobbeltsidig tape påkrevet. 
+
+Den forrige Optia-utgaven hadde ikke innebygd mic, men det har denne. 
+Den har dessuten stereo mikrofoner med samme system for støykansellering som vi har testet her 
+
+Installasjon 
+
+Som vanlig med produkter fra Creative er det en omfattende installasjon som ligger på CDen. 
+Har du installert et webkamera fra Creative fra før må du dessuten selv avinstallere hele bunken med gamle programmer først. 
+Den nye installasjonen fungerer ikke ellers, erfarte vi på vår bærbare. 
+Andre produsenter pleier å håndtere slikt automatisk under installasjonen. 
+
+Flere av programmene som du kan installere er tilleggsprogrammer som egentlig har lite med webkamera å gjøre. 
+Kalenderprogram for å skrive ut kalendrere med eget bildemotiv er typisk. 
+Ellers finner vi nytte/lekprogrammer for video og bildehåndtering, men det viktigste er selve kontrollpanelet som styrer egenskapene for webkameraet. 
+Det er alltid tilgjengelig når du f.eks. åpner webkameraet i et chatteprogram. 
+
+Webkameraet fungerer forøvrig også uten at du installerer noe som helst i nyeste versjoner av XP eller Vista, men du får da ikke justert alle parametre, som f.eks. autofokus. 
+
+Ellers finner du Creatives WebCam Center for frittstående bruk av webkameraet, til stillbilder, video, forskjellig type overvåking og tids-komprimert video fra stillbilder. 
+
+I bruk 
+
+Det første vi la merke til da vi så bildet fra kameraet første gang, var at det håndterte belysningen bedre enn de fleste andre webkameraer. 
+Speselt motlyskompensasjonen i vårt vanskelige rom, med hvitt skråtak og sparepærer som vender nedover. 
+Andre webkameraer får det lett travelt når det hvite feltet i taket endrer seg hvis vi flytter på hodet. 
+Her skjedde dette i svært liten grad. 
+(Sammenlignet med et "ordentlig" digitalkamera selv av middelmådig kvalitet, faller alle webkameraer fremdeles gjennom. 
+) 
+
+Men den automatiske autofokusen med standardinnstillinger var rett og slett slitsom. 
+I motsetning til lyshåndteringen var automatikken svært travel og satte i gang justeringer stadig vekk, tilsynelatende helt umotivert. 
+
+Det er heldigvis mulig å justere både modus, følsomhet og område for autofokusen, slik at det ikke blir så plagsomt. 
+Det er dessuten mulig å slå den helt av, og fokusere manuelt i styreprogrammet. 
+
+Det er mange artige tilleggsmuligheter, med ganske heftige videoeffekter. 
+Ikke alle er llike kledelige, men det er sikkert ikke meningen heller. 
+Hvor moro det er i lengden er en annen sak. 
+
+Konklusjon 
+
+Med litt jobbing med instillingene leverer Creative Live! 
+Cam Optia AF et bilde som hevder seg i toppen blant webkameraer. 
+
+Som vi har påpekt tidligere er det selve konseptet og nettforbindelsen som er flaskehalsene når det gjelder videokvalitet over nett i chatteprogrammer. 
+Det er enda en stund før teknikken bak videokonferansene til Tandberg får noen konkurranse herfra. 

@@ -1,0 +1,149 @@
+Liten av størrelse, men hva gjør vel det?
+Kinesiske DJI imponerer nok en gang med en svært god drone. 
+
+Få markeder er så dominert av én aktør som dronemarkedet; i hvert fall i forbrukersegmentet. 
+Kinesiske 
+DJI har de siste årene lansert den ene flotte dronen etter den andre og nærmest parkert konkurrentene, med svært avansert teknologi og god kvalitet på produktene. 
+
+I Prisjakts drone-kategori er ni av de ti mest populære dronene fra DJI. 
+På 9. plass finner vi den rimelige dronen Ryze Tello, men gjett hva – jommen er det ikke DJI som står bak denne også. 
+
+Tidligere har vi testet DJI-dronene Phantom 4 og Mavic Pro, i tillegg til at vi tok en titt på minstemann, Spark, i fjor sommer, som vi dessverre ikke rakk å gjøre en full test av før sommerferien brått banket på døra. 
+
+Dagens testprodukt er selskapets foreløpig siste drone, Mavic Air. 
+
+Kompakt og kapabel 
+
+Da vi testet Phantom 4 for snaue to år siden var vi svært fornøyde, men når en drone er såpass stor og man i tillegg har en stor fjernkontroll, batterier og lignende, er ikke det noe man drar med seg på tur fordi man kanskje har tenkt til å fly litt. 
+
+Det kan du imidlertid med Mavic Air. 
+Det er en svært kompakt drone som i tillegg kan brettes sammen når den ikke er i bruk. 
+Da måler den bare 17x8x5 cm og opptar med andre ord et volum på snaue 0,7 liter. 
+Vekten er for øvrig på 460 gram. 
+
+I likhet med storebror Mavic Pro er kameraet stabilisert i tre akser (to på Spark), toppfarten er oppgitt til 68 km/t og flytiden inntil 21 minutter på én ladning. 
+Både raskere og mer utholdende enn lillebror Spark, og omtrent like kjapp som Mavic Pro; dog med svakere batteritid. 
+
+Dermed plasserer den seg et sted i mellom Spark og Mavic Pro både hva gjelder størrelse og egenskaper. 
+
+Enkel fjernkontroll 
+
+Fjernkontrollen er nesten den samme som på Spark, med noen få knapper og uten eget display. 
+Mobiltelefonen klipser du fast i klørne på undersiden, og det går fint selv om den er blant de større – vi brukte en Huawei P20 Pro (6,1" i 18,7:9-format) under testingen. 
+
+Mobilen kobles med kabel til fjernkontrollen, og det følger med adaptere både til micro USB, USB-C og Lightning (iPhone). 
+Det er mulig å styre dronen kun med telefonen, men da med kortere rekkevidde og redusert hastighet. 
+
+En ny vri på Mavic Air-fjernkontrollen er imidlertid at selve stikkene kan skrus av. 
+Når du ikke bruker dem, festes de på innsiden av de sammenbrettede klørne, og det gjør at fjernkontrollen bygger langt mindre i veska. 
+Vi må innrømme at vi skrur dem på med andakt – å lete etter en slik i gresset frister lite, og kanskje burde DJI ha brukt en friskere farge akkurat på dem. 
+
+Som vant fra DJI har fjernkontrollen knapper for å ta bilder og starte og stoppe videoopptak direkte. 
+Du finner også en «return to home»-knapp som får dronen til å fly og lande på startstedet, samt en funksjonsknapp som henter frem de ulike modiene. 
+
+Og en skyvebryter for sportsmodus, da, som du må dra over om du vil presse den til sitt ytterste. 
+
+Avansert antikollisjon 
+
+Selve dronen er som nevnt ganske kompakt. 
+De fire rotoarmene brettes kjapt ut, og batteriet er det bare å klikke på plass. 
+For å ta det ut, drar du i skyvebryterne på hver side. 
+
+Kameraet er beskyttet av et plastdeksel når dronen ikke er i bruk – vi ser enkelte kommentere at dette er tungvint å tre på igjen, men der har vi ikke hatt noen utfordringer. 
+
+Ellers har Mavic Air sensorer både foran, bak og på undersiden, som en del av det innebygde antikollisjonssystemet. 
+Totalt er det altså sju kameraer på Mavic Air, og ny er APAS-funksjonen (Advanced Pilot Assistance System) som gjør at dronen automatisk kan fly over eller rundt et objekt som er i veien. 
+Dette løses blant annet ved at de sju kameraene lager en 3D-gjengivelse av terrenget. 
+
+Under kan du se en liten snutt der jeg kun flyr dronen rett frem (høyre spak oppover). 
+Allikevel svinger Mavic Air rundt meg, over gelenderet på verandaen og til side for husveggen: 
+
+Det er ganske snedig. 
+
+Litt startproblemer 
+
+Å starte DJI-appen første gang er ganske rett frem – du registrerer en DJI-konto og får godt illustrerte instruksjoner for hvordan du kobler mobilen/fjernkontrollen til drona. 
+
+Men - DJI har ganske hyppige oppdateringer både av programvare og fastvare på enhetene, og vi anbefaler deg sterkt å koble til og slå på alt hjemme før du skal ut på din første flytur, eller om du ikke har flydd på en stund. 
+Litt som når du endelig har tid til å spille Playstation en kveld, vet du. 
+
+Sannsynligheten er nemlig svært høy for at du får beskjed om at programvaren må oppdateres, og dette er ofte filer på noen hundre megabyte som må lastes ned, overføres til dronen og så må man vente på oppdateringen. 
+
+Som bruker er det ikke så mye du trenger å gjøre annet enn å trykke på oppdateringsknappen og vente, men for vår del opplevde vi at oppdateringen hang seg opp, der vi til slutt googlet oss frem til at mange hadde hatt samme problem. 
+Heldigvis fungerte det å slå av både drone og fjernkontroll, samt lukke DJI-appen og så prøve på nytt. 
+
+Herlig enkel å fly 
+
+Dette kommer vel neppe som noen bombe, men DJI Mavic Air er, i likhet med øvrige DJI-droner, særdeles enkel å fly. 
+
+Å lette kan du enten gjøre med en bryter på skjermen eller ved å holde spakene diagonalt ned fra hverandre, for så å skyve den venstre spaken opp. 
+
+Kontrollene er svært presise – slipper du spakene, blir dronen stående stille i lufta. 
+Og til tross for at Mavic Air er ganske sped av størrelse, har vi testet den i 8 m/s-vind (laber bris), og fortsatt står den stille som bare det. 
+Dette til tross for at vi da fikk en advarsel på skjermen om at vinden var så sterk at vi ble anbefalt å lande den. 
+
+Og skulle du bli litt ivrig og plutselig ikke helt klarer å se dronen (altså i strid med dronereglene), er det betryggende å kunne få den til å lande der den startet ved å trykke på en knapp. 
+
+Mangler Ocusync 
+
+En ting som er mangelvare på Spark og Mavic Air, men som Mavic Pro kan skilte med, er DJIs Ocusync-teknologi. 
+
+Ocusync er kort forklart kommunikasjonsteknologien mellom fjernkontrollen og dronen og byr blant annet på svært lav forsinkelse, enormt god rekkevidde (inntil 7 km) og høy overføringshastighet. 
+I tillegg støttes to samtidige videostrømmer; for eksempel mobilskjermen og DJI-brillene. 
+
+Det gjør at vi opplever litt mer lugging i videooverføringen enn når vi har kjørt en drone med denne teknologien innabords. 
+
+Oppdatert 14. mai: 
+Vi skrev at vi hadde trøbbel med rekkevidden på denne dronen, der den ofte kunne miste kontakten allerede på 300 meters avstand, selv om oppgitt rekkevidde er satt til to kilometer. 
+Vi fant også forumtråder på nettet der folk hadde samme problem. 
+
+Det viser seg imidlertig at det var vår egen skyld. 
+På Mavic Air er det nemlig to små rundstråleantenner som må bøyes nedover for å få best rekkevidde frem- og bakover. 
+Disse hadde vi ikke brettet ned. 
+
+Da vi testet igjen i dag med antennene brettet ned slik de skulle være, var det uproblematisk å komme drøye 700 meter av gårde (da snudde vi siden vi ikke lenger klarte å se dronen). 
+Siden dette var vårt største ankepunkt, viser terningen nå full pott. 
+
+DJI-appen er spekket med artige funksjoner. 
+Blant annet støttes waypoint-flyging (der du kan tegne opp ei løype over hvor dronen skal fly), TapFly (som lar deg trykke direkte i skjermbildet for å fly dit du peker), ActiveTrack som kan følge ett eller flere objekter i bildet og så videre. 
+
+Quickshots-modusen har også fått et par nye varianter – dette er funksjoner du typisk starter med en knapp, og så flyr drona automatisk en forhåndsdefinert løype. 
+
+Den store favoritten hos oss er den nye Asteroid-funksjonen. 
+Her flyr drona først bakover og oppover, og når den kommer rundt 40 meter over bakken, lager den et 360-graders panoramabilde som så vrenges til en miniplanet: 
+
+Nesten verdt prisen alene, eller hva? 
+
+God videokvalitet med høy bitrate 
+
+Ellers har du mange muligheter hva gjelder videooppløsning. 
+Du kan filme med 4K-oppløsning i 24, 25 eller 30 bilder i sekundet, og med bitrate på 100Mbps. 
+Det tilsvarer altså 750 MB per minutt med filming. 
+
+Verdt å tenke på er at dette krever sitt av minnekortet. 
+Vi fikk advarsel om at minnekortet vårt var tregt, selv om det tilfredsstilte UHS-1-standarden. 
+Klippene ser imidlertid ut til å ha klart seg greit, selv om vi kan legge merke til enkelte «frame drops» her og der. 
+
+Du kan også gå ned på oppløsning – full HD (1920x1080) støttes for eksempel med inntil 60 bilder i sekundet, som gir et veldig flytende bilde og du kan også filme 120 fps saktefilm med vanlig HD-oppløsning (720p). 
+
+Stillbildene leveres med 12 megapikslers oppløsning og holder helt ålreit kvalitet, selv om det dynamiske omfanget oppleves noe svakt, og der man i utfordrende lyssituasjoner gjerne får litt lysavfall i bildene. 
+Vi har lagt ut en håndfull bilder i dette Google Foto-albumet om du vil inspisere nærmere. 
+
+Bildet oppleves praktisk talt dønn stabilt når dronen er i lufta, og verdt å sette pris på er at vi ikke ser noe til rotorbladene selv når vi flyr på full fart i sportsmodus, noe som var tilfelle på Phantom 4. 
+
+Her er to videoer fanget med Mavic Air – først en med 4K-oppløsning og 30 bilder per sekund: 
+
+Og en med full HD-oppløsning, 60 bilder per sekund: 
+
+Konklusjon 
+
+Det er bare å ta av seg hatten nok en gang – DJI har skrudd sammen en svært god drone i Mavic Air, som byr på mye avansert funksjonalitet og meget god videokvalitet på tross av en ganske beskjeden størrelse. 
+
+Den er enkel å fly, har høy toppfart og ålreit batteritid, selv om de 21 minuttene er kortere enn storebror Mavic Pro. 
+Vi liker også DJI-appen godt, og særlig elsker vi den nye asteroide-funksjonen som du ser eksempel på lenger opp. 
+
+PS! 
+Om du vurderer Mavic Air, anbefaler vi varmt å få for «fly more»-pakken, som koster snaue 2.000 kroner ekstra. 
+Da får du med to ekstra batterier, en kjekk batterilader som kan lade inntil fire batterier (etter tur), ei bæreveske og ekstra propeller. 
+
+(Artikkelen er oppdatert 14. mai med ny informasjon angående rekkevidde, og terningkastet justert etter publisering.) 

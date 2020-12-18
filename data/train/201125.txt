@@ -1,0 +1,134 @@
+TEST:Sony Ericsson Xperia X2 
+
+Det er på tide å tenke framover. 
+Dette er ikke nødvendigvis en mobiltelefon som gjør det. 
+
+La oss begynne med en banal sammenlikning: 
+Forholdet mellom funksjonalitet og funksjon er det samme enten vi snakker om biler, hus eller mobiltelefoner. 
+En bil kan bli levert med alt ekstrautstyret som finnes på listene til forhandleren, men hvis den skrangler når du kjører eller nykker når du bremser, hjelper ikke utstyrspakkene deg noen verdens ting. 
+
+Det er i det perspektivet du må se Xperia X2. 
+Her mangler det nemlig ikke noe hva funksjoner angår. 
+Oppfølgeren til første Xperia (vi har testet Xperia X1her) har blant annet en herlig skarp skjerm med trykkfølsomhet, skyvetastatur i fullformat, kamera med 8 megapiksler, autofokus og LED-lys, super 3G, vanlig hodetelefontilkobling, A-GPS, tv-utgang og, selvfølgelig, Wlan. 
+
+Microsoft i kulissene 
+
+Xperia X2 har også Windows Mobile (WM), og der noen vil føre det opp på lista i avsnittet over, vil andre før det opp på egen liste som kanskje inneholder fy-ord. 
+Den største forskjellen mellom X1 og X2 er i alle tilfeller at sistnevnte kjører ferskeste versjon av WM, v6.5, ellers er det mye som føles likt mellom de to søsknene. 
+
+En av hovedinnvendingene mot X1 i vår test var at den rett og slett ikke var kraftig nok til å kjøre Windows Mobile uten hakking, lugging og andre adjektiv som helst bør brukes om barnehagebarn, og ikke om mobiltelefoner. 
+Vi får likevel lyst til å oppføre oss som barnehagebarn når vi ser at det fortsatt ikke er nok kraft under panseret til at WM kan gi jernet. 
+
+De første indikasjonene på tregheten fikk vi allerede første gang telefonen ble skrudd av. 
+Det er ikke egentlig noe hovedpoeng at en helt ny mobil bruker 25 minutter på å gjøre seg selv klar til bruk, men det gjorde altså Xperia X2 - og tregheten fortsetter under bruk. 
+
+Store nok forandringer? 
+
+For de som ikke er kjent med forskjellene mellom Windows Mobile 6.1 og 6.5, så er det i hovedsak det grafiske grensesnittet som er forandret. 
+Hjemmeskjermen er atskillig mer attraktiv, og den velkjente "Start"-menyen øverst til venstre leder til en oversikt med store symboler organisert i et litt pussig, halvsymmetrisk mønster. 
+Nettleseren er også ny (mer om det under), og deler av menysystemet er nå utstyrt med større tekst og større valg-bokser, først og fremst for å gjøre avhengigheten av pekepennen mindre. 
+
+Pekepenn er likevel med i X2-pakken, og selv om du med en porsjon tålmodighet vil klare deg gjennom en mobildag uten å trekke den fram, gir fortsatt det lille "lukk"-krysset øverst i høyre hjørne nok av utfordringer mens du står og venter på bussen. 
+En spiss på neglen er i så fall å anbefale. 
+
+En udiskutabel trend de siste få årene har vært å forsøke å lage en overbygning på toppen av Windows Mobile, som mer eller mindre skjuler hvilket operativsystem som tikker og går under overflaten. 
+HTC har ledet an utviklingen, og deres aller ferskeste smartmobil, HD2, har nesten klart å fjerne alt som kan minne om tradisjonelle Windows Mobile. 
+
+Fortsatt paneler 
+
+Sony Ericsson introduserte sitt alternative for å delvis skjule Windows Mobile med X1, i form av såkalte "paneler", det vil si grafiske "skall" som gir enklere og raskere tilgang til programmer og funksjoner. 
+X2 har også paneler, og selv om det har skjedd enkelte forbedringer, er vi fortsatt ikke helt overbevist. 
+Løsningen forutsetter i stor grad at du ønsker å binde deg, midlertidig, til et bestemt oppsett, for eksempel et Facebook-panel eller et Google-panel, som umiddelbart gir deg henholdsvis Facebook-innlogging og Google-tjenester som epost og kalender. 
+
+Du kan også bruke flere hjemmesider samtidig, slik at du for eksempel kan legge visse snarveier på en side, og andre snarveier på en tredje. 
+
+Panelene tar noen sekunder å installere, og noen virker kjappere å navigere enn andre. 
+Mange av dem tillater at du kan legge til applikasjoner og snarveier direkte på hjemmeskjermen, og du kan dessuten organisere ikonene slik du vil. 
+Merk derimot at en slik organisering ikke er mulig på Windows Mobiles nye Start-skjerm. 
+Ikonene her kan enten bare flyttes øverst, eller tilbake der de lå i utgangspunktet. 
+Det er en pussig prioritering av Microsoft. 
+
+I det hele tatt virker endringene som er gjort i Windows Mobile 6.5 bare som mer sminke på et allerede utdatert operativsystem for mobiltelefoner. 
+
+Både Apple og Google har hevet terskelen for hva en bør akseptere av en mobiltelefons indre liv, og i lys av mobiler som iPhone 3GS og HTC 
+Hero blir datostemplingen enda tydligere. 
+Du skal nemlig ikke langt under skallet på Xperia X2 før du treffer de små, ubehagelige ikonene og symbolene som har fulgt Windows Mobile i en årrekke, der kalenderen fortsatt framstår som noe av det grelleste som eksisterer på en mobiltelefon i år 2009. 
+
+Grei å se på 
+
+Utseendemessig har det ikke skjedd noen radikale grep med X2 sammenliknet med X1, men Sony Ericsson har heldigvis gjort den nederste rekken med fysiske knapper hakket mer tiltrekkende. 
+Designet sier ikke verken seks eller fem, men er svært saklig og på grensen til det kjedelige. 
+
+X2 er overraskende tykk, til tross for et relativt solid batteri og utskyvbart fulltastatur. 
+Med sine 155 gram er det en mobil du merker på alle måter, 
+
+Skjermen er like strålende som den var på X1, og tilbyr noe av det beste som finnes både hva oppløsning, lyssterkhet og skarphet angår. 
+Den er dog hakket smalere enn vi er vant med på større smartmobiler for tida, noe som er litt uvant hvis du for eksempel er vant med en HTC Hero eller iPhone. 
+
+Det som ikke er fullt så tiltrekkende med skjermen er at den er trykkfølsom på gamlemåten, som vil si at den bokstavelig talt baserer seg på trykk. 
+Skjermene på for eksempel HTC Hero og iPhone er laget på en slik måte at selv de svakeste fingertrykk registreres av mobiltelefonen, mens du her må være veldig tydelig med det meste du gjør, inkludert når du skriver SMSer og eposter på det virtuelle tastaturet. 
+Det er ingen hyggelig opplevelse, selv om Xperia i og med Windows Mobile 6.5 har fått større, tydeligere tastatur. 
+
+Blir du frustrert over det virtuelle tastaturet kan du dra ut det fysiske tastaturet, som naturlig nok gjør en atskillig bedre jobb, spesielt når du skal skrive lengre meldinger. 
+Vårt eksemplar har derimot ikke fysiske, norske taster, de får du tilgang til ad snarveier. 
+
+Lystig blir det uansett ikke når du står med X2 i utslått tilstand og skriver meldinger, samtidig som du finner ut at du må bruke pekepennen. 
+Det er en usedvanlig klønete mobilopplevelse å måtte holde mobilen med to hender mens du gjemmer bort pekepennen inne i håndflaten, for å så finne den fram igjen når du for eksempel skal bruke kalenderen - for så å legge den tilbake i håndflaten når du skal skrive igjen. 
+Og så videre. 
+
+Kamera, surfing og epost 
+
+Internet Explorer var ingen drøm i forrige utgave av Windows Mobile, men har blitt hakket bedre i WM 6.5. 
+Sidene ser ut til å tegnes opp mer korrekt enn som har vært tilfellet tidligere, selv om for eksempel VG Nett fortsatt ikke helt ser ut slik det skal. 
+
+Sidene tegnes også opp veldig langsomt, og av en eller annen grunn klarer ikke for eksempel VG Nett å se at dette er en mobil-nettleser. 
+
+Enda verre gikk det da vi tastet inn britiske Guardians nettadresse. 
+Da mistet Internet Explorer fullstendig munn og mæle, og krasjet med en to-tre feilmeldinger, i tillegg til å gjøre hele telefonen mer eller mindre uimottakelig for fingertrykking. 
+Vi prøvde flere ganger å få tilgang til denne sida, men ga til slutt opp - slik også X2 gjorde. 
+(Guardian fungerte på samme tidspunkt fint på andre mobiler) 
+
+Scrolling nedover nettsider fungerer, men også her får en inntrykk av at prosessorhastigheten ikke klarer holde følge med programvaren. 
+Det lugger og rykker i tide og utide, og å kalle bevegelsen for sømløs ville være en gedigen fornærmelse mot det ærverdige skredderyrket. 
+
+Bra epost - svakt batteri 
+
+Epost-funksjonaliteten er, ikke uventet, meget bra. 
+Du har støtte for alle typer epost-servere, og ettersom dette er et Microsoft-produkt, er Exchange-støtten akkurat så bra som forventet. 
+Du har nesten så god kontroll over eposten som på en PC, og selv om du også her tidvis merker den nesten universelle tregheten i telefonen, er i det minste den tekniske løsningen bra. 
+
+I verste Windows Mobile-stil fikk vi derimot en særdeles kryptisk feilmelding da utgående mailserver var konfigurert feil. 
+At en exe-fil har krasjet sier ikke veldig mye om hvor en skal begynne feilsøkingen. 
+
+Batteritiden er ikke så mye å skryte av. 
+Selv i standby renner krafta ut av batteriet i overraskende stor hastighet, til tross for at vi har vært beskjedne med å sette opp for mange nettjenester som jobber i bakgrunnen. 
+
+For virkelig å teste tålmodigheten vår har X2 dessuten låst seg fullstendig mens den har ligget i standby, slik at eneste muligheten for å få den på beina igjen har vært å ta ut batteriet. 
+
+Men kameraet er bra! 
+
+Bildekvaliteten på det åtte megapiksel store kamera er det derimot ikke så mye å utsette på, spesielt ikke i et mobilkameraperspektiv. 
+X2 er, som alle andre mobiler, fortsatt ikke klar til å erstatte verken kompaktkameraet ditt eller speilrefleksen, men den gir fine, støyfrie bilder utendørs, og relativt støysvake, skarpe bilder innendørs under moderate lysforhold. 
+Innstillingsmulighetene er også bra, brukervennligheten for kameradelen like så. 
+
+Du kan se eksempler på bilder tatt med X2 her, her og her. 
+
+Talekvaliteten er forøvrig utmerket, så der har vi intet å utsette på X2. 
+
+Konklusjon 
+
+Xperia X1 var ingen glede å bruke, og oppfølgeren gir ikke mange gode argumenter for at akkurat den konklusjonen bør forandres. 
+Det har ikke bare å gjøre med at Windows Mobile 6.5 på ingen måte er den forbedringen det burde vært tatt i betraktning den beinharde konkurransen på mobilmarkedet akkurat nå. 
+
+Det har mest å gjøre med to ting: 
+Den trykkfølsomme skjermen, og den irriterende tregheten som stadig viser sitt stygge ansikt. 
+Dermed er vi tilbake til begynnelsen. 
+Problemet er altså ikke at ikke funksjonaliteten er her, men at Sony Ericsson ikke gjør nok for å stue bort de mindre attraktivene delen av Windows Mobile, at de ikke har gitt mobilen en rask nok prosessor, og at de lot være å gi mobilen en såkalt kapasitiv skjerm ala iPhone og HTC HD2. 
+
+Utvalget av gode smartmobiler er så bra akkurat nå, at X2 rett og slett faller i gjennom. 
+Den koster bare 2-300 kroner mindre enn HTCs HD2, som også er en Windows Mobile, men som har en langt bedre overbygning, er langt enklere å bruke uten pekepenn, og som har en skjerm endel mobilnerder sikkert ville vært villig til å ofre en arm og et kne for. 
+
+Neste år kommer Sony Ericossons første Android-mobil, Xperia X10. 
+Vi krysser fingre og tær for at myten om at alle gode ting er tre stemmer, for den gleder vi oss faktisk til. 
+
+X2, derimot, styrer vi unna. 

@@ -1,0 +1,105 @@
+MSI X460DX
+Tynt og relativt kraftig alternativ til ultrabooken. 
+
+Svært mange av nyhetene på PC-fronten for tiden dreier seg om Ultrabooks, tynne og lette maskiner uten optisk drev og der harddisken er byttet ut med SSD. 
+
+Dette kan ses på som en naturlig følge av at vi stadig blir mer mobile i databruken, og da foretrekker mange noe som er lite, lett og med god batterilevetid, foran noe stort, tungt og kraftig. 
+
+Men ikke glem at det finnes maskiner som tar det beste fra to verdener, som klarer kombinasjonen liten og lett med godt utstyrsnivå og ytelse, og som gjør det ganske bra. 
+
+Toshiba Satellite er et meget godt eksempel på en vellykket løsning i så måte. 
+
+MSI X460DX er en maskin som er litt i samme gate. 
+Tynn, relativt robust takket være metall i lokk og i håndleddstøtten, og temmelig potent hva angår både generelt utstyrsnivå, prosessor og grafikkort. 
+MSI lover også rundt 8 timers batterilevetid, noe som definitivt er et pluss - om det stemmer. 
+Mer om det senere. 
+
+Først en titt på noen av de viktigste spesifikasjonene: 
+
+14" blank LED-baklyst skjerm, 1366 x 768 piksler Intel Core i5-2430M prosessor 4 GB RAM (maks 8) Svitsjbar grafikk, Intel HD 3000/Nvidia GeForce GT540M Intel WiDi-støtte 500 GB harddisk DVD-brenner for alle formater Webkamera (1,3 mpix) 
+Kortleser for SD-kort (inkludert SDXC) 
+Gigabit kablet nettverksstøtte Trådløst nett (b/g/n) Bluetooth 3.0 + HS VGA og HDMI-utganger 2 stk USB 3.0-porter 1 stk USB 2.0-port Leveres med Windows 7 Home Edition 64-bit Størrelse: 
+239 x 339 x 22 mm Veil pris: 7295 kroner Vekt: 
+2 kg 
+
+Det er altså ikke lite MSI har klart å klemme inn her, dette er en maskin som på papiret bør tåle litt tyngre oppgaver, ikke minst ligger det brukbar spillytelse i grafikkløsningen fra Nvidia. 
+Vi merker oss også at maskinen har støtte for WiDi, som er en Intel-teknologi for trådløs overføring av skjermbilde og lyd til TV og projektorer. 
+Det krever imidlertid at du har en mottakerboks knyttet til TV, for eksempel denne. 
+
+Solid inntrykk 
+
+Designmessig liker vi maskinen, den har en overflate i koksgråfarget aluminium, preget svakt av horisontale striper. 
+
+Fingeravtrykk kan vises hvis fingertuppene er veldig fettete, men noe stort problem vil vi ikke si det er. 
+Håndleddstøtte er også av metall, og pekeplaten har et metallisk preg, som gir et bra kvalitetsinntrykk. 
+
+Tastaturet er helt greit, men ikke av de beste vi har brukt. 
+Det er ikke så fast som vi skulle ønske, og avgir en liten klirrelyd under skriving, spesielt på venstre side. 
+Og enter-tasten er noe av et minste vi har vært borti, noe vi slett ikke liker. 
+Her er det stor fare for feiltrykk. 
+
+Alle tilkoblingene sitter på sidene, strøminntaket sitter bakerst på venstre side. 
+Heldigvis leverer MSI en strømforsyning med knekk i kontakten, noe som gjør faren for brudd langt mindre enn hvis den hadde stukket rett ut. 
+
+Merk for øvrig at det er en 90W strømforsyning som hører til denne maskinen, og den er fysisk ganske stor i forhold til de fleste på 65W. 
+Men grafikkortet krever sitt, så dette er ikke uvanlig. 
+
+Upolert installasjon 
+
+Første gang du skrur på maskinen blir du geleidet gjennom installasjon og skreddersøm av maskinen. 
+Vi ble positivt overrasket over at vi kunne krysse av for hvilke 3. partsprogrammer vi ønsket å installere, men det viste seg at ikke alt kunne velges bort (verken Adobe Reader eller Bing verktøylinjen): 
+
+Vi bad også om at Norton Internet Security ikke skulle være aktiv, men det viste seg at det var den likevel. 
+
+Installasjonsprosessen medførte også en omstart av maskinen, noe vi sjelden opplever i 2012. 
+Hele jobben tok rundt 15 minutter, før vi kunne sette i gang å bruke maskinen. 
+
+Dessverre viste det seg at vi ikke fikk kontakt med noe trådløst nett, maskinen fant rett og slett ikke noen tilkoblingspunkter: 
+
+Det viste seg imidlertid at det trådløse nettverkskortet ikke var aktivert. 
+Hurtigtastene på tastaturet (FN-F10) fungerte dessuten ikke for å aktivere kortet, og dette synes vi rett og slett er for dårlig. 
+Etter mye prøving og feiling fant vi til slutt ut at den programvarebaserte bryteren lå under MSI-verktøylinjen som kommer fram når du trykker på et symbol øverst, midt på skjermen. 
+
+Vi tipper mange brukere har vært på supporttelefonen lenge før de oppdaget dette valget. 
+
+Etter dette fungerte maskinen bra, den er absolutt tilfredsstillende konfigurert - med unntak av våre innvendinger vedr tredjepartsprogrammer vi hadde håpet å få deaktivert under installasjonen. 
+
+Yter uten å bråke 
+
+Maskinen er relativt stillegående, men kan bli litt varm. 
+Spesielt er det et felt under venstre håndledd som blir varmt under belastning, noe som enkelte muligens vil oppleve som ubehagelig. 
+
+Ytelsesmessig er det imidlertid lite å utsette på maskinen. 
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen, her går skalaen fra 1,0 (dårligst) til 7,9 (best): 
+
+Prosessor: 7,0 Minne (RAM): 
+5,9 Grafikk: 5,9 Spillgrafikk: 
+6,7 Primær harddisk: 
+5,9 
+
+Passmark Performance 
+Test gav oss en totalscore på 1275, og i diagrammene under har vi tatt for oss henholdsvis prosessor- og grafikkytelsen, og sammenlignet med maskinvaren som sitter i konkurrenter i samme prisklasse: 
+
+Som du ser overleverer prosessoren i forhold til snittytelsen til konkurrenter med samme prosessor. 
+Sett i forhold til andre bærbare med 14-tommere i samme prisklasse, kan vi konkludere med at maskinen leverer meget bra. 
+
+Grafikkytelsen er imidlertid godt under snittet for dette grafikkortet, muligens har MSI gjort noe her for å holde temperaturen nede, men det blir bare spekulasjoner. 
+Ytelsen er uansett vesentlig bedre enn den integrerte Intel HD 3000-grafikken, og holder til å spille de fleste nyere spill - med mindre du er veldig opptatt av å ha detaljnivået på fullt til enhver tid. 
+
+Vi var veldig spente på batterilevetiden, som MSI hevder skal ligge på rundt 8 timer. 
+Det er litt vel optimistisk. 
+Ved vanlig batterimodus holdt maskinen det gående i 7,6 timer - men da stod den bare på "tomgang" uten å gjøre annet enn å kjøre operativsystemet. 
+Under kontinuerlig videoavspilling holdt batteriet ut i litt over 5 timer. 
+Det er absolutt godkjent, og en levetid på rundt 6 timer under normal, variert bruk, er absolutt innen rekkevidde. 
+
+Konklusjon 
+
+MSI X460DX er absolutt en fin maskin. 
+Her får du god ytelse i kompakt utførelse, maskinen er stillegående og virker relativt solid bygd. 
+Pris- og ytelsesmessig er den omtrent som man skulle forvente til denne prisen. 
+
+Det som trekker ned er først og fremst på det programvaremessige plan, særlig installasjonsprosessen og de trådløse utfordringene vi støtte på. 
+Her burde MSI ha gjort seg litt mer flid, mener vi. 
+Tastaturet på maskinen er også et lite ankepunkt, men alt i alt fortjener maskinen en solid firer på terningen. 
+
+MSI opplyser at maskinen skal være eller vil bli tilgjengelig hos Elkjøp og CDON. 

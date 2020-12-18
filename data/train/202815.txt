@@ -1,0 +1,76 @@
+TEST:Lenovo S10-2 
+
+Liten og lett minibærbar med innebygd 3G. 
+
+Lenovo er først og fremst innarbeidet som leverandør av PC-er til næringsliv og profesjonell bruk. 
+De leverer kraftige og lette bærbare, godt utstyrt og til en pris som er i overkant av det privatpersoner flest er villige til å spandere. 
+
+Men også Lenovo har satset på mini-bærbare, som praktisk talt alle andre PC-leverandører. 
+Behovet for en liten, rimelig PC som kan brukes til de små oppgavene har blitt en svært viktig produktgruppe for hele bransjen. 
+
+I dag er det maskiner med skjermstørrelse 10,1", 11,6" og 12,1" som det dreier seg om, med vekt fra 1,3 til 1,5 kg. 
+Praktisk talt alle mini-bærbare bruker Intels Atom prosessor, som har et lavt strømforbruk og passende ytelse. 
+Denne prosessorplatformen er gjerne koblet med Intels Graphics Media Accelerator som en del av brikkesettet, som gir kurant ytelse til bilder, presentasjoner og video helt opp til 720p, det minst krevende HD-formatet. 
+
+Lenovo S10-2 
+
+S10-2 er minstemann i serien, med 10,1-tommers blank skjerm med oppløsning på 1024 x 600. 
+Formatet er hendig med tanke på bærbarhet, den får plass i de fleste vesker uten videre. 
+Bredden er tilstrekkelig til at man kan skrive behagelig på den, det blir litt tettere enn på et vanlig tastatur, men ikke mer enn et par centimeter. 
+
+Overflaten er blank og glatt, men har et stilig mønster under overflaten. 
+Resten av maskinen er sort matt. 
+
+Batteriet stikker ut bak og nedover, og hever maskinen i bakkant. 
+Det er mulig at det finnes et mindre batteri, men det vil da gi vesentlig lavere brukstid. 
+
+På venstre side finner du tilkoblinger for nettverk, VGA, USB og lyd inn/ut 
+
+På høyre side finner du en bryter for trådløst nett av/på, to USB-kontakter, hull for Kensington lås og kontakt for strømforsyningen. 
+
+Vårt testeksemplar var utstyrt med støtte for 3G nett, med plass til SIM-kort trygt plassert innenfor batteriet. 
+
+En kortleser for SD-kort er plassert på forsiden. 
+
+I bruk 
+
+S10-2 leverer det man forventer av en minibærbar fra en av de ledende leverandørene. 
+Den har solid kvalitetsfølelse, det er ingen slark eller mistilpasninger. 
+
+Tastaturet har taster med lett, men definert trykkpunkt. 
+Layouten er utmerket, bortsett fra 
+Fn tasten som er plassert ytterst til vestre for Ctrl-tasten. 
+Noen liker dette, men de fleste brukere og produsenter foretrekker 
+Fn innenfor Ctrl-tasten. 
+Man venner seg uansett til det meste. 
+
+Skjermen er blank, det har vi våre innvendiger mot, men mange synes det gir bilder og film ekstra dybde og karakter. 
+
+Betraktningsvinkelen er beskjeden, men det gjelder alle rimelige mini-bærbare. 
+Det kan bli problematisk når du sitter trangt og ikke får lagt skjermen nok bakover. 
+Da blir både farger og kontrast vesentlig dårligere enn i riktig posisjon. 
+
+Innebygd 3G er en glimrende løsning på mini-bærbare, forutsatt at du har et foruftig abonnement når det gjelder datatrafikk. 
+S10-2 fungerte utmerket med denne tilkoblingen, den virker kjapp og behagelig selvsagt forutsatt forbindelsen er god, vel å merke. 
+Dekningen er variabel både geografisk og mellom tilbyderne. 
+
+Ytelse 
+
+Ytelsen til Atom N280 er litt vassere enn N270 som er mer vanlig. 
+Avspilling av HD-video i 720p gikk utmerket, men 1080 er generelt ikke noe for minibærbare. 
+Skjermstørrelsen klarer heller ikke å gjengi formatet, så dette anser vi ikke som noen svakhet. 
+
+Forøvrig leverer S10-2 en testytelse som ligger en strek over storebror Lenoveo Ideapad 12og de fleste konkurrentene, men dette er ikke så mye at man merker det i daglig bruk. 
+
+For de typiske bruksområdene for S10-2 er ytelsen absolutt godkjent. 
+Surfing og standard brukerprogrammer kjører helt greit under Windows XP som var installert på vårt testeksemplar. 
+Maskiner du kjøper nå vil komme med Windows 7. 
+
+Batteritiden var kortere enn på S12, med 249 minutter uten aktivitet og ingen strømsparingsfunksjoner slått på. 
+Med kontinuerlig avspilling av video varte batteriet 178 minutter. 
+
+Quick Start er installert på maskinen, det gir det rask oppstart til nettleser, mediespiler og mail. 
+Ikke spesielt avansert, men absolutt kjekt å ha. 
+
+Vær oppmerksom på at prisen på maskinen med 3G-kort installert er høyere enn standardprisene i oppsummeringen under. 
+Sjekk prisen med din forhandler. 

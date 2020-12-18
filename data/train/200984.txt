@@ -1,0 +1,102 @@
+HP Pavilion dv9060ea
+Denne rakkeren kommer med webkamera, to harddisker, HDMI og en sårt tiltrengt pusseklut. 
+Vi har testet HPs nyeste 17-tommer. 
+
+Vi har de siste ukene sett litt på aktuelle bærbare med 17-tommers skjermer. 
+Både W1 fra LG og Dell Inspiron 9400 viste seg å være meget kapable maskiner, men prisforskjellen gjør jo at de kanskje ikke kjemper om de helt samme kundene. 
+Dagens modell fra HP er derimot en alvorlig konkurrent til Dellen; litt freshere og et par tusenlapper billigere, kan dette være et bedre alternativ? 
+
+LES OGSÅ: 
+
+HP 
+Pavilion dv9060ea er blank og skinnende med samme finish og design (+ pusseklut) som dv6060ea... 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T5500 @ 1,66 GHz 17" skjerm i bredformat (1440 x 900 piksler) 1 GB DDR2-minne (2 x 512 MB) 2 x 80 GB harddisk (5400 rpm) 
+DVD dual-layer DVD/CD-brenner m/lightScribe nVidia GeForce Go 7600 (512 MB minne) 54 Mbps WLAN (a/b/g) Gigabit LAN + modem 4x USB, 1x FireWire (4-pin) Lyd inn/ut, digital og analog (S/PDIF) 1 ExpressCard/54 kortplass 5-in-1 kortleser: SD, MMC, Memory Stick/Pro, xD HDMI, VGA og S-Video-utgang (7-pins) Integrert 1,3 Mp webkamera og mikrofon 8-cellers batteri Dimensjoner (B/D/H): 
+39,7 x 28,6 x 4,4 cm Vekt ca. 3,7 kilo OS: 
+Windows XP Media Center Edition Pris: ca 12.500 inkl. mva. 
+
+Dell Inspiron 9400 
+
+Konstruksjon 
+
+Sammenligner vi med Inspiron 9400 er dette egentlig to nokså like maskiner - både når det gjelder faktiske mål og vekt. 
+Men i motsetning til nevnte Dell virker nok designet på dv9060ea litt mer spenstig og moderne, samtidig med at linjene også får den til å virke slankere. 
+Samtidig får vi følelsen av at Dellen tåler litt mer hardhendt behandling, i det minste når vi tar litt hardt i lokket. 
+Men det faktum av at vi hele tiden setter igjen avtrykk når vi tar på den gjør kanskje sitt til at den virker litt mer sårbar. 
+
+Som på LG W1 har tastaturet på denne 17-tommeren et fullt numerisk tastatur. 
+En annen ting å legge merke til er at det ikke direkte er norsk tegnsett på den - her er det kombinert dansk, svensk og norsk i samme tastatur. 
+Egentlig greit nok. 
+Hva vi på den annen side ikke var så fornøyd med er plasseringen av piltastene. 
+Høyre shift er nemlig blitt krympet og flyttet mot venstre, så de fleste vil nok trykke feil her - i det minste i begynnelsen. 
+Utenom dette har vi ikke så mange innvendiger - det har relativt kort respons, men er likevel behagelig og stille å skrive på. 
+
+Den brede touchpaden er stor og behagelig, god i bruk og med myke knapper for museklikking - meget bra. 
+Det er også en liten knapp i overkant der du kan skru den av og på fysisk i stedet for å fomle med dette i programvare. 
+
+Hva vi derimot ennå ikke helt har fått sansen for i HPs nyere bærbare er de trykkfølsome medieknappene rett under høyttalerene. 
+De er fremdeles litt for trykkoverfølsomme for vår smak, men heldigvis er det i hvert fall mulig å skru av (i BIOS) de noe irriterende pipene som kommer når de trykkes på. 
+
+Tilkoblingene på maskinen er plassert foran, på høyre og på venstre side, mens høyttalerne er plassert i over tastatur og medieknapper. 
+
+I front finner vi en liten bryter for WLAN av og på, IR-mottaker for fjernkontroll, pluss ut- og inngang for lyd. 
+
+På høyre side: USB, en ExpressCard/54-slot - hvor du også kan ha den lille fjernkontrollen, DVD-spilleren, nok en USB og bakerst inngang for strøm. 
+Denne lyser også svakt blått når strømmen er koblet til. 
+
+Venstre er nokså fullstappet... helt bakerst (faktisk i selve lokket) er det plass til kensingtonlås. 
+Deretter kommer Sv-Video ut, VGA, Expansion Port 3 (for docking), LAN og modem, HDMI, 2 x USB , FireWire og minnekortleseren. 
+
+Bak på venstre side er det en åpning for varmluft. 
+
+Jevnt over god 
+
+Prosessorytelsen er god nok til de fleste oppgaver, men står litt tilbake for de andre 17-tommerne vi har sett på de siste ukene. 
+Dette skulle da også bare mangle, ettersom disse har raskere prosessorer... 
+
+Prosessorytelse: verdiene er i sekunder. 
+Lavere poengsum tilsier at maskinen er raskere. 
+
+PCMark05 viser hvordan PCene gjør det på de forskjellige områdene. 
+dv9060ea gjør det altså ikke så skarpt på prosessorfronten, men tar det igjen med et solid grafikkort. 
+
+Høyere poengsum tilsvarer bedre ytelse. 
+
+Som vi har nevt før er det bedre med en mindre god prosessor og et rått grafikkort enn omvendt, i det minste dersom du vil ha en PC til spilling. 
+Med tanke på den noe beskjedne oppløsningen vil det ikke være noe problem for manskinen å takle de de aller fleste nyere spill med denne konfigurasjonen, selv om den nok ikke kan kalles for en gaming-PC. 
+
+Grafikkortet klarer selvfølgelig også Vista-grensesnittet uten problemer, og med XP Media Center Edition er det ikke mange kronene for å oppgradere. 
+
+Batterilevetiden på litt over to og en halv time helt akseptabel for en 17-tommers bærbar, men Dell har med sin Inspiron 9400 bevist at det også kan gjøres laaangt bedre: 
+
+"Entertainment PC" 
+
+dv9060ea har ikke bare XP MCE som operativsystem, den kommer også med sin egen medieavspiller (som også kan startes utenom XP), digital lyd ut og HDMI. 
+Sistnevnte er selvfølgelig en bonus til alle som vil koble opp den bærbare mot den nye flat-TVen, selv om det også skal nevnes at DVI gjør jobben like bra. 
+
+Det skal for øvrig også legges til HDMI ikke gjør det noe spesielt mye enklere koble datamaskinen til TVen, det må nemlig fremdeles fikles med grafikkortinnstillinger og oppløsninger for å få ting til å vises hvor det skal og hvordan det skal. 
+Første maskin som kommer ferdig med software som setter opp dette mer eller mindre av seg selv vil få stor stjerne i boka av oss... og sikkert en haug brukere. 
+
+Ved siden av batterilevetiden er støy er også et punkt der Dell-maskinen gjør det bedre. 
+Det at HP dv9060ea kommer med to harddisker gir selvsagt muligheter for mer langringsplass, men det betyr også høyere vekt, mer varme og støy, pluss at det tar plass slik at mer optimale løsninger for kjøling ikke er mulig. 
+Så i tillegg til suset fra harddiskene tusler også hovedvifta av gårde konstant, selv om den er svært stille. 
+
+Totalt blir det altså litt støy, men det er uproblematisk i kontorlandskapet, og egentlig svært lite sjenerende ellers. 
+Men det er et annet irritasjonsmoment, dersom du da er av typen som bryr deg om slikt. 
+Selv ved svak belastning finner spinner vifta opp og ned innimellom, og det blir litt faktisk litt jo-jo ut av det av og til. 
+
+Når maskinen er helt uvirksom kommer også en relativt høyfrekvent pipelyd fra den, spesielt hørbart på batteridrift. 
+Dette kan utvilsomt virke irriterende på folk med god hørsel i svært rolige omgivelser. 
+
+Konklusjon 
+
+HP Pavilion dv9060ea er egentlig en knallgod bærbar. 
+God i bruk, jevnt over dugelig ytelse, pen å se på (dersom du ikke roter bort pussekluten), den er meget godt utstyrt med blant annet integrert webkamera - og ikke minst blir den din for en nokså hyggelig pris. 
+
+Det eneste vi virkelig har i mot maskinen er den irregulære viftestøyen, og skulle gjerne tatt et alvorsord med programmereren av viftekontrollen. 
+Det skal dog legges til at vårt testeksemplar ikke akkurat er fabrikkfersk, så dette kan godt være at det er gjort noe med. 
+Den høyfrekvente pipingen skal også nevnes som et potensielt irritasjonsmoment, og bør kanskje sjekkes ut av potensielle kjøpere. 
+Likevel mener vi at dv9060ea fortjener å vippes opp til en femmer på terningen. 

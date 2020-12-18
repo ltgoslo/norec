@@ -1,0 +1,86 @@
+HP Envy 6
+En stor Ultrabook for deg som synes en 13,3-tommer blir for lite. 
+
+HP er nå ute med nye ultrabooks basert på siste generasjon Intel-prosessor og brikkesett (Ivy Bridge), og en av de mest interessante er utvilsomt Envy 6 - som kommer med 15,6 tommer skjerm. 
+Forventningene våre var høye før testen, ikke minst med tanke på at selskapets første Ultrabook fikk en femmer på terningen i vår test fra april. 
+
+Envy-familien har vi også stiftet bekjentskap med før, blant annet gjennom modellen HP Envy 14. 
+Og som alltid når det gjelder Envy-maskiner har HP hatt fokus på design, men også lyd - ivaretatt av høyttalere fra Beats Audio, når de utformet Envy 6. 
+
+Modellen kommer med forskjellige konfigurasjoner. 
+Her er en kjapp gjennomgang av de viktigste egenskapene ved vårt testeksemplar: 
+
+15,6" blank LED-baklyst LCD-skjerm, 1366 x 768 piksler Intel Core i5-3317U prosessor (1,7 GHz) 6 GB RAM 
+(8 er maks) 500 GB harddisk (5400 rpm) + 32 GB SSD Intel HD 4000 + AMD Radeon HD 7670M grafikk Minnekortleser Webkamera 3,5 mm lyd inn/ut HDMI-utgang 2 USB 2.0-porter 1 USB 3.0-port Gigabit kablet nettverk Trådløst b/g/n nettverk Bluetooth 4.0 Windows 7 Home Premium 64 bit Mål: 37,4 x 25,28 x 1,98 cm Vekt: 
+2,2 kg Ca-pris denne konfigurasjonen: 8000 kr 
+
+PC-en har ikke bare større skjerm, den har også dedikert grafikkort i tillegg til HD 4000-grafikken som ligger integrert i prosessoren. 
+Det er meget uvanlig på denne typen PC-er, og gjør at PC-en blant annet duger til nyere spill, dersom man har moderate innstillinger med hensyn til oppløsning og detaljnivå. 
+Mer om dette senere. 
+
+Vi merker oss også at HP har tilkoblingspunkter i full størrelse, noe vi ser på som udelt positivt: 
+Flere Ultrabook-konkurrenter har falt for fristelsen å bruke mikro-utgaver av enkelte tilkoblinger for å spare plass, noe som gjør at du trenger overganger eller spesialkabler. 
+
+Lokket er av aluminium, det samme er platen rundt tastaturet. 
+Bunnplaten er vi litt mer usikre på, men det er sannsynligvis plast med en lett gumiert overflate. 
+
+Alle tilkoblinger og kortleser sitter på venstre og høyre side, lett tilgjengelig for brukeren. 
+
+Her har vi samlet en rekke bilder av modellen: 
+
+(Fotograf på alle bilder: 
+Per Ervland) 
+
+Det eneste vi har å utsette på det fysiske - med unntak av litt høy vekt, er at pluggen til strømforsyningen stikker flere centimetre rett ut på høyre side, og er dermed lett å dulte borti. 
+Vi har sett mange eksempler på at slike løsninger kan føre til brudd - enten i pluggen, eller i verste fall i kontakten i PC-en, som kan medføre dyre reparasjoner. 
+
+Slik oppleves den 
+
+Skjermen er blank og kontraststerk, men sett i lys av hva vi stadig oftere ser i Ultrabook-klassen er den lavoppløst med sine 1366 x 768 piksler. 
+Vi har sett flere eksempler på 1600 x 900 og 1920 x 1080 piksler på mindre Ultrabooks nå, og på PC-er med 15,6-tommer skjerm bør man etter hvert kunne forvente høyere oppløsning enn 1366 x 768 piksler i denne prisklassen , mener vi. 
+Bildet blir også invertert når det betraktes skrått ovenfra, og lysstyrken avtar relativt raskt fra sidene. 
+
+Tastaturet er vi derimot mye mer fornøyde med. 
+Det er naturligvis i full størrelse, og chicklet-tastene er faste og responsive. 
+Tastaturet avgir lite støy under skriving, og i mørke akkompagneres det med et behagelig baklys. 
+
+Pekeplaten har en sirkelformet preging, og er passe følsom. 
+Nedre del har integrerte sensorer for høyre- og venstre-klikking, som dessverre avgir en litt skarp klikkelyd. 
+Hvorfor enkelte PC-modeller har dette, er komplett uforståelig for oss. 
+På lesesalen kan det fort bli et ankepunkt. 
+
+Ytelsesmålinger 
+
+Fra du skrur på PC-en til den er klar for bruk, tar det 24 sekunder. 
+Det er veldig bra for å være en modell med harddisk, og det er SSD-delen på 32 GB som skal ha æren for det. 
+Den sørger for at programmer og filer du bruker ofte, laster raskere. 
+Men ytelsen er imidlertid langt unna nivået til de rene SSD-ene, og det kan være merkbart i situasjoner der du jobber med mange programvinduer, oppgaver og store filer samtidig. 
+
+I diagrammet under har vi sammenlignet diskytelsen og andre ytelser med flere aktuelle Ultrabooks - basert på PerformanceTest 7.0 fra Passmark: 
+
+Grafikkytelsen er helt i toppklasse, sett i forhold til andre Ultrabooks på markedet: 
+
+PC-en er godt konfigurert, og oppleves som rask og behagelig under normal bruk. 
+Det som imidlertid kan være et ankepunkt, er en noe "hissig" vifte som starter temmelig ofte - selv når maskinen ikke er særlig belastet. 
+Vi har sett eksempler på dette tidligere, og flere ganger har det blitt løst med BIOS-oppdateringer. 
+
+Fordelen er at PC-en holder seg rimelig kjølig i de fleste situasjoner, og blir aldri ubehagelig å ha i fanget - selv om vi selvfølgelig uansett anbefaler et brett. 
+
+Lyden fra de innebygde 2.1-høyttalerne (ja, det er en lite subwoofer under PC-en) imponerer ikke oss i særlig grad. 
+Joda, litt mer bass får du, men ikke veldig mye. 
+Det kan du heller ikke forvente av en såpass tynn PC, men når vi har hørt Ultrabooks med minst like god lyd uten subwoofer innabords blir det litt tynt. 
+
+Batteritiden er over middels, spesielt imponerer målinger vi har gjort med kontinuerlig videoavspilling. 
+Her er maskinen blant de beste vi har testet av den nye generasjonen Ultrabooks: 
+
+Konklusjon 
+
+HP Envy 6 har stort sett gitt et bra inntrykk, med sitt pene ytre og meget gode tastatur. 
+Både grafikkytelse og batterilevetid er gode argumenter for denne PC-en. 
+De største ankepunktene er at vifteaktiviteten med fordel kunne vært litt lavere, begrenset diskytelse i forhold til modeller som er utstyrt med SSD, og en skjermoppløsning som oppleves som litt lav på en såpass dyr maskin. 
+
+Og med en vekt på 2,2 kg er det ikke langt opp til mange "normale" bærbare PC-er med 15,6-tommer skjerm, som både er billigere og ofte byr på optisk drev og bedre ytelse. 
+Dermed kan modellen fort vise seg å falle mellom to stoler, mener vi. 
+En firer på terningen er imidlertid intet dårlig skussmål. 
+
+HP Envy 6-1090eo 

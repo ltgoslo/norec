@@ -1,0 +1,57 @@
+Apple Airport Extreme
+Apple var tidlig ute med trådløse rutere, og har hatt flere smarte løsninger. 
+Vi har testet den nyeste og mest ekstreme, med 802.11n og USBstøtte for skrivere og lagring 
+
+Allerede i 1999 lanserte Apple den første utgaven av trådløs ruter, basert på et PCCard fra Lucent. 
+Prisen var langt lavere enn konkurrerende løsninger og gjorde sitt til at markedet for trådløst nett begynte å røre på seg. 
+
+LES OGSÅ: 
+
+De første utgavene støttet 802.11b, senere kom det støtte for 802.11g og med Airport Express som vi testet i 2004 var det i tillegg støtte for tilkobling av skriver via USB som kunne deles blant alle maskinene på nettverket, pluss en lydutgang for streaming av lyd fra iTunes. 
+Kjekt hvis ruteren var plassert i nærheten av stereoanlegget. 
+
+I motsetning til praktisk talt alle andre trådløse rutere er det ingen synlige antenner på Airport'ene til Apple, helt fra den første utgaven (bildet til høyre) som minnet om et romskip fra en annen verden. 
+Designet gir selvsagt et langt renere design, men vi har inntrykk av at dette begrenser rekkevidden/hastigheten. 
+
+Dagens Extreme utgave har et design som er svært likt Mac mini, og kan stables i høyden med denne (det blir litt varmt, men det er ingen ting som smelter). 
+
+Tilkoblingene er for strømforsyning, USB til skriver og lagring, en WAN-kontakt og 3 LAN-kontakter. 
+Det er også et hull til Kensington-lås. 
+
+Oppsett 
+
+I motsetning til alle andre rutere må du bruke et eget program for å sette opp ruteren, det er ikke mulig å taste inn en lokal nettadresse i nettleseren og bruke denne til å endre parametrene. 
+Dette har fordeler og ulemper, man kan for eksempel ikke få tilgang til konfigurasjon av ruteren fra en hvilken som helst maskin på nettverket - på godt og ondt. 
+Sikkerhetsmessig er det en fordel. 
+
+Oppsettet er ikke ulikt det vi finner på andre rutere, den største forskjellen er at det ikke bruker nettleseren. 
+En veiviser bringer deg på nett raskt og ganske greit, litt avhengig av om du har et rutermodem eller ikke fra før. 
+Terminologien avviker litt her og der fra det som brukes av andre rutere, men forskjellen er ikke dramatisk. 
+
+Ytelse 
+
+I kontormiljøet fikk vi middels ytelse, på kinje med MIMO-rutere vi testet for et år siden. 
+Målingene var varierende, med en del prøving og feiling til tider som gikk ut over hastigheten, uten at vi vil kalle det ustabilt. 
+
+Sammenlignet med D-Links nyeste ruter er det ikke mye Airport Extreme har å stille opp med. 
+
+I vårt trehus fikk vi tilsvarende resultater. 
+Apple sin ruter leverer under halve ytelsen, sammenlignet med D-Links ruter. 
+
+Nettverksdisk 
+
+Det kan kobles til harddisker på USB-kontakten på ruteren. 
+Vi koblet opp en Samsung 200 GB disk, formaterte denne til FAT32 på PCen først, siden det ikke er mulig å formatere disker direkte fra ruteren. 
+NTFS er heller ikke støttet, men det er det heller ingen andre rutere eller NAS-løsninger som støtter. 
+
+Ytelsen var ikke imponerende. 
+
+Sammenlignet med skriving/lesing til en annen PC på nettverket ligger ytelsen på en tiendedel. 
+
+Skrivertilkobling har vi ikke testet. 
+
+Konklusjon 
+
+Ruteren fra Apple er ikke spesielt rask, men er allsidig i og med støtte av lagringsenheter og skrivere som kan deles på nettverket. 
+
+Ut over dette ser vi ikke noen grunn til å velge denne, hvis da ikke designet eller merkelojalitet teller mer enn ytelse. 

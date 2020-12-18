@@ -1,0 +1,148 @@
+Panasonic LumixDMC-LX5 
+
+Panasonics feinschmecker-kamera er lyssterkt og har god vidvinkel. 
+
+På kompaktkameramarkedet har Panasonic med årene blitt en svært sterk aktør, og blant annet LX3 har vært et populært kamera blant entusiastene. 
+
+Nå er oppfølgeren her, LX5. 
+Vi prøvekjørte LX5 allerede i sommer, men har hatt det på test et par uker for å få anledning til å studere det nærmere. 
+
+Dessuten fikk det lov til å være med i håndbagasjen til Las Vegas og CES 2011, så bildespesialen lenger ned i artikkelen har også flere bilder derfra. 
+
+Spesifikasjoner, Panasonix LX5 
+
+LX5 er myntet på entusiastene, og spesielt vidvinkel og lysstyrke på objektivet er derfor meget godt. 
+I tillegg kan kameraet filme i HD-oppløsning, tilbyr RAW-modus og gir deg full manuell kontroll over eksponeringen: 
+
+Optisk zoom: 3,8xVidvinkel (35mm-ekvivalent): 
+24mmLysstyrke: f/2.0-3.3Oppløsning: 10,1MpSensorstørrelse: 1/1,63"Maks. 
+ISO: 
+3200Seriefoto: 
+2,5 bilder pr sekund, 3 bilderVideoopptak: 
+1280x720 AVCHD Lite, 30 bilder pr sekundSkjermstørrelse: 3"Skjermoppløsning: 
+460.000 punkterRAW-støtte: 
+JaManuell eksponering: 
+Ja 
+
+Konstruksjon 
+
+Utseendemessig er LX5 svært likt LX3; forgjengeren som fikk gode skussmål da vi testet det for drøye to år siden. 
+I 2011 er ikke utseendet like oppsiktsvekkende retro som det var den gangen, men kamerahuset fremstår uansett som solid bygget, og med fornuftig knappeutvalg og -plassering. 
+Dog kan knappene fremstå litt små på baksiden, og siden merkingen er lagt oppå knappen er den også vanskelig å se i svak belysning. 
+
+Blitsen er trykket ned i kamerahuset og spretter opp når du skyver på en tilhørende bryter. 
+Auto-modusen fyrer ikke av blitsen med mindre du selv har sørget for å aktivere den. 
+På toppen finnes også et funksjonshjul, av og på-bryter, samt en dedikert videoknapp som ikke fantes på det forrige kameraet. 
+
+Skjermoppløsningen er på 460.000 punkter og fremstår derfor skarpere enn mange andre kompaktkameraer, der "normal" oppløsning er 230.000 punkter. 
+Kameraet har ingen optisk søker, men dette kan kjøpes som ekstrautstyr og monteres i blitsskoen på toppen av kameraet. 
+For øvrig finnes det også annet utstyr som kan kobles til LX5, som filtre og eksterne blitser. 
+
+Knappene på baksiden av kameraet er også endret siden LX3. 
+Mest gledelig er det å se at byttet mellom opptak og avspilling nå gjøres med en knapp for avspilling, slik at du kjapt kan trykke utløserknappen ned for å ta bilder igjen (forrige versjon hadde en skyvebryter). 
+Ellers er den lille styrespaken nå borte, og hurtigmenyen tilgjengelig via en egen knapp. 
+
+Nytt er også et kontrollhjul på baksiden som kan brukes til å endre f.eks. blender og lukkertid. 
+Hjulet kan også trykkes inn for å regulere eksponeringskompensasjonen, eller bytte mellom blender og lukker når du knipser i manuell modus. 
+Hjulet oppleves dog som noe upresist - det er lett å få trykket det inn når du roterer det, og det tar lang tid å komme seg fra den ene siden til den andre f.eks. ved justering av lukkertid. 
+
+Batteriet og minnekortet ligger beskyttet bak ei luke på bunnen av kameraet, med en ekstra tapp som hindrer batteriet i å falle ut når du åpner lokket. 
+På siden av kameraet finnes et annet lokk som skjuler USB-tilkobling og HDMI-utgang. 
+Merk at stativfestet er plassert ganske langt ut på siden av kameraet, som i utgangspunktet er en uting, men som også muliggjør bytte av minnekort uten å måtte skru kameraet ut av stativfestet. 
+
+Brukervennlighet 
+
+Grensesnittet i Panasonic-kameraene er kjent og kjært for de som har brukt Panasonic før - her er det ikke endret så mye de siste åra. 
+Også LX5 oppleves som greit å bruke, der menyen er delt opp i to - hurtigmenyen, som lar deg endre parametere som hvitbalanse, oppløsning, seriefoto etc. og selve hovedmenyen. 
+
+Fortsatt kan det være småirriterende at set-knappen gjør at hovedmenyen lukkes - intuitivt har vi alltid lyst til å bruke denne for å gå inn på et menyvalg, men da må du bruke høyre piltast. 
+Du kan heldigvis angi under et eget menu resume-valg hvorvidt menyen skal åpnes der du slapp. 
+
+Avhengig av hvilken modus kameraet står i, endrer menyvalgene seg deretter. 
+I automodus er det ikke så mye å fikle med, mens den to av de tre delene av menyen har 7 sider med innstillinger om du har kameraet i P/A/S/M-modus, som kan oppleves litt rotete. 
+
+Det er heller ikke så mye hjelp å hente i menyene, og visse innstillingsvalg er ikke helt selvforklarende. 
+I det hele tatt synes vi Panasonic godt kunne ha oppgradert brukergrensesnittet, spesielt siden skjermen nå har såpass høy oppløsning og tåler mer innhold. 
+Eksempelvis har Samsung EX1 et grensesnitt som ser lekrere ut, og flere andre kameraer har nå fått ganske gode hjelpefunksjoner til de ulike menyvalgene. 
+
+Verdt å nevne er også Panasonics svært gode auto-funksjon, der kameraet ikke bare eksponerer godt, men også tar hensyn til bevegelse i bildet for å regulere lukkertid og tilhørende ISO-verdi. 
+Svært sjelden er vi nødt til å overstyre valgene autofunksjonen tar. 
+
+Funksjoner 
+
+Under følger en gjennomgang av høydepunktene funksjonsmessig: 
+
+Aspektbryter 
+- På toppen av objektivet kan du via en skyvebryter endre aspektet på bildet som skal tas, mellom 16:9, 3:2, 4:3 eller 1:1. 
+Siden sensoren er en såkalt "multi format"-sensor er heller ikke straffen så høy om du går for noe smalere enn 4:3; bildet beskjæres ikke på samme måte som hos en del andre kameraer. 
+Det er også mulig å kjøre aspect bracketing slik at alle varianter lagres når du tar bilde.Full manuell kontroll 
+- Lar deg styre blender og lukkertid uavhengig av hverandre. 
+Største blendertall er f/8 og lukkertid kan justeres fra 60s til 1/4000s.RAW-støtte 
+- Gir deg mulighet til å lagre bilder før kameraprosessoren påfører støyreduksjon, oppskarping, komprimering, hvitbalanse og den slags. 
+Dette kan du så gjøre på PC-en i etterkant, som ofte kan resultere i bedre resultater dersom du gjør deg flid med det.Fargemodus - Lar deg bytte mellom ulike fargeprofiler som retro, nøkkelhull, høykontrast sort/hvitt etc.Manuell videokontroll 
+- Ganske skjelden vare, men du kan styre både blenderåpning, lukkertid etc. 
+på videoopptak.Maksimal ISO 
+- Du kan selv velge den høyeste ISO-verdien autofunksjonen vil bruke.Bracketing - Kan kun ta tre bilder, men dog opp til ±3EV, som er ganske sjelden vare.Scenefunksjon - Med en rekke predefinerte scener, som snø, solnedgang, fyrverkeri etc. 
+Tilgjengelig er også høyhastighetsfoto, som tas med redusert oppløsning, men da med svært høy skuddtakt. 
+
+Ytelse 
+
+LX5 har i utgangspunktet en autofokus som kun er middels rask (dog svært presis), men det er mulig å aktivere prefokusering slik at fokuseringen går kjappere når du trykker utløseren halvveis ned. 
+Oppstartstiden er heller ikke lynrask, og vi måler denne til ca 1,8 sekunder (det tar litt lenger tid før det kommer data på skjermen, men det er allikevel mulig å knipse). 
+
+Når det gjelder seriefoto, klarer LX5 å ta 2,5 bilder i sekundet, men bare tre bilder på rad før du må vente et drøyt sekund for å fortsette. 
+Det gjorde at vi klarte å presse inn 4x3 bilder på 10 sekunder. 
+Utløserforsinkelsen ble målt til ca 5 hundredeler uten blits, og 0,26s med blits aktivert, som er middels godt. 
+
+Batterilevetiden er oppgitt til 400 bilder etter CIPA-standarden, der halvparten av bildene tas med og halvparten uten blits. 
+Det er et relativt godt tall; rundt 50% mer enn enkelte konkurrenter i dette segmentet. 
+
+Å bla i bilder går noe tregt, der vi kun klarer drøye 2 bilder i sekundet. 
+Heldigvis er det mulig å bruke zoombryteren for å vise opp til 30 miniatyrbilder, eller enda en gang for å vise en kalender der du kan gå inn på en enkelt dag og vise bildene fra den aktuelle dagen. 
+
+Bildekvalitet 
+
+Totalt ett er vi meget godt fornøyde med bildene fra LX5, og som nevnt tidligere er autofunksjonen i de aller fleste tilfeller også til å stole på. 
+
+Når det gjelder støy på høye ISO-verdier, gjør LX5 det godt i denne klassen, og opp til ISO 800 går det helt fint å bruke bildene til A4-utskrifter. 
+Riktignok viskes det ut merkbart mer detaljer fra ISO 400 til ISO 800, men merk også at et såpass lyssterkt objektiv (f/2.0) gjør at du sjeldnere vil ha behov for høy følsomhet enn om kameraet hadde hatt f.eks. f/2.8 som største blender (f/2.0 slipper inn dobbelt så mye lys som f/2.8, så ISO-verdien kan halveres i forhold til et f/2.8-objektiv). 
+
+Under ser du eksempler på 100% bildeutsnitt tatt med ISO 400 og ISO 800. 
+
+Dynamikken i bildene er også meget god til et kompaktkamera å være, der LX5 også er godt rustet til å fange høykontrastscener som denne: 
+
+Bruker vi Photoshop for å hente opp detaljer i lyse og mørke partier av bildet, ser vi at det ikke er mye av bildet som mangler fargedetaljer; kun de aller mørkeste partiene: 
+
+Skarpheten opplever vi på det jevne i denne klassen, med noe uskarphet i hjørnene, spesielt på store blenderåpninger. 
+Bildene er heller ikke helt frie for kromatisk feilbrytning (sees ofte som lilla kanter rundt mørke objekter med lys bakgrunn i kantene av bildet), selv om det stort sett ikke er noe problem. 
+
+Under kan du se bilder tatt med Panasonic LX5: 
+
+Videokvalitet Panasonic LX5 kan filme med 720p HD-oppløsning, som etter hvert har blitt standard på de fleste kameraer som slippes i dagens marked. 
+Kvaliteten på opptakene er litt så-som-så, og spesielt når det blir mørkere enn normalt dagslys blir bildene preget av støy. 
+
+Lyden er også noe ullen - kun i mono og samplet på 16Khz. 
+Bitraten totalt er 30Mbps. 
+
+Konklusjon, Panasonic Lumix 
+DMC-LX5 
+
+Når alt kommer til alt, er LX5 nok en sterk kandidat fra Panasonic. 
+Gulroten er først og fremst det lyssterke objektivet, som også har en god vidvinkel tilsvarende 24mm. 
+Kombinert med relativt god støyfjerning og en svært god autofunksjon, er dette et kamera som vil ta gode bilder i de aller fleste situasjoner uten at du trenger å foreta deg noe som helst. 
+
+Allikevel er mulighetene der om du vil eksperimentere litt. 
+Lukkertid opp til ett minutt er støttet, og LX5 kan også knipse i RAW-format som gir deg større kontroll på bildeprosesseringen. 
+Noe uvanlig er også muligheten for relativt god manuell kontroll på videopptak. 
+
+Konstruksjonsmessig har kameraet litt å gå på. 
+Skjermen er riktignok skarp og god, men knappene kan oppleves noe små og merkingen synes også dårlig når det er mørkt. 
+LX5 er heller ingen lynving, hverken når det kommer til seriefoto (maks 3 bilder i slengen) eller generell ytelse, men er aldri så tregt at det blir skjemmende for brukeropplevelsen. 
+På den positive siden opplever vi autofokusen som svært presis, også i dårlig lys. 
+
+Og når det gjelder det viktigste, bildekvaliteten, er det ikke mye å trekke for på LX5. 
+Vi er imponerte over lysmåleren og det dynamiske omfanget, og kameraet klarer seg også bra med tanke på prosesseringen. 
+Videokvaliteten er riktignok ikke på høyde med de beste, men til webbruk og annen hverdagsdokumentering burde det duge fint for de fleste. 
+
+Panasonic Lumix 
+DMC-LX5 

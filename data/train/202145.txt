@@ -1,0 +1,65 @@
+Linksys EA4500
+Toppmodellen, med støtte for apps - nå på testbenken. 
+
+Vi skrev tidligere om den nye satsningen fra Cisco som gir nye Linksys-rutere både et helt nytt grensesnitt og muligheter for fjernbetjening via apps for iOS-enheter og Andoid. 
+
+Vi har nå hatt Linksys EA4500 på testbenken, gjort målinger og høstet erfaringer. 
+
+Linksys EA4500 
+
+Dette er altså toppmodellen, før nye og enda mer avanserte modeller kommer senere i år, når WLAN-standardene løftes enda et hakk opp. 
+
+Den har det samme elegante utseendet som de andre modellene i E-serien, med en grå overflate og tekstur som minner om svært tynn og fin fløyel, og et sølvfarget bånd over midten. 
+Det er ingen synlige antenner, og alle tilkoblinger er på baksiden. 
+Den kan altså stå framme og med litt velvilje tas for å være et moderne skrin eller etui av noe slag. 
+
+Tilkoblingene er helt standard, med 4 GBit porter, WAN-port og USB. 
+Videre finner vi bryter til WPS-tilkobling, strømbryter og kontakt til strømforsyningen, pluss den obligatoriske reset-knappen. 
+
+Installasjon og oppsett 
+
+Installasjonen foregår fra CD, og ruteren ble funnet og satt opp helt automatisk med standardverdier. 
+Men det stoppet ikke der. 
+For å kunne komme videre i prosessen og gjøre endringer både lokalt og via mobil enhet, oppretter man en konto i Cisco Connect Cloud. 
+Deretter kommer man inn i det nye grensesnittet, som er langt mer estetisk tiltalende enn de tradisjonelle oppsettene for rutere. 
+
+Og alt er faktisk på norsk, og vi hadde ikke noe å utsette på det språklige! 
+
+Men, det er stadig de samme parametre og deres verdier som må settes, så egentlig enklere blir det ikke, hvis man skal skreddersy ruteroppsettet. 
+Men de enkle tingene, som nettverksnavn, trafikkprioritering av enhter (QoS), foreldrekontroll osv. 
+blir i større grad presentert i egne grafiske områder. 
+Det kan gjøre det lettere å finne fram. 
+
+Men all denne stasen gjør også at grensesnittet går tregere enn på tidligere modeller, hvor man gjør endringer rett i web-grensesnittet til ruteren og ikke med noen sky-tjeneste inne i bildet. 
+Nå sitter de færreste og fikler med ruterinnstillinger flere timer om dagen, det er det stort sett bare vi som tester som gjør, men det er altså merkbart tregere å gjøre endringer. 
+
+Egenskapene er omfattende, det er tross alt toppmodellen. 
+Den sender både på 2,4 og 5 GHz og du kan ha flere alternative trådløse nett gående, inkludert gjestenett. 
+Og disse kan du altså styre fra iPhone-appen. 
+
+For teknisk info om alle egenskapene hos ruteren, som 3x3 MIMO, SpeedBoost, DLNA medieserverstøtte, IPv6 kan du sjekke Linksys nettsted. 
+
+Ytelse 
+
+Vi rigget først til vår hp EliteBook Core i5 med Intel Centrino Ultra N-6300 og tre antenner. 
+Av en eller annen grunn fant ikke denne maskinen 5 GHz nettverket. 
+Derfor måtte vi bruke en ekstern Linksys AE3000 til å teste på dette frekvensbåndet. 
+
+Og resultatet? 
+
+Kort og godt ekstremt bra! 
+Ytelsen og rekkevidden på begge frekvensbåndene er rett og slett de beste vi har testet. 
+Spesielt 5 GHz ytelsen var imponerende. 
+
+Det raskeste vi hittil har målt var oppunder 16 Mbyte/sek, men her var vi faktisk oppunder 21 Mbyte/sek. 
+Det er 1,68 ganger raskere enn en 100 Mbit nettverkskabel! 
+
+Konklusjon 
+
+Skal du ha topp ytelse er EA4500 fra Linksys en klar kandidat. 
+Med støtte for Connect Cloud åpner det seg dessuten for nye muligheter i tillegg til enklere tilgang for endringer via smartmobil. 
+
+Men topp ytelse får du bare når både ruter og klient spiller sammen. 
+Når dette ikke er på plass kan du risikere at det rett og slett ikke virker, slik vi opplevde med Intel N-6300 nettverkskortet som ellers er ett av de beste på 5 GHz. iPad 3 fungerte derimot utmerket på 5 GHz fra EA5400. 
+
+Linksys EA4500 

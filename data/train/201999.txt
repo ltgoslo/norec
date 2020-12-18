@@ -1,0 +1,81 @@
+InovixIPocket 
+
+TEST: 
+Den er nesten prikk lik en iPod Nano, men mye billigere. 
+Den har dessuten innebygd både radio, videospiller, stemmeopptaker og Tetris. 
+Hva i all verden er dette for noe? 
+
+IPocket heter spilleren fra Inovix, og den har nøyaktig samme mål som en iPod Nano. 
+I tillegg deler navnet de tre første bokstavene fra "iPod", og er ellers til forveksling lik sitt forbilde, med hvit front og speilblank sølvfarget bakside. 
+Kun det patenterte hjulet mangler. 
+Til og med esken den kommer i, ligner på originalen. 
+
+Dette er kinesisk kopiering på sitt beste - eller verste, og neppe langt unna noen runder i rettssystemet. 
+
+Billigere 
+
+Inovix Technology Scandinavian importerer spilleren til Norge, og antyder en gatepris på 2 GB-utgaven på rundt 1.500 kroner inkl mva. 
+Det er litt billigere enn iPod Nano, som med samme kapasitet koster 1.790 kroner (oppdatert). 
+Billigere utgaver av IPocket, med kapasitet så langt ned som til 256 MB, finnes også. 
+
+Til tross for lavere pris, er spilleren fullstappet med funksjoner som iPod Mini ikke har, som radio (med opptaksfunksjon), WMA-støtte, vidoestøtte, stemmeopptaker, tekster til musikkfiler, bare for å nevne noe. 
+
+Lik langt fra, men langt fra lik 
+
+På avstand skal du være ekspert for å skille den fra en iPod Nano. 
+På nært hold derimot, er det tydelig at kineserne ikke har gjort seg like god flid som Apples dyktige designere. 
+For det første er skruene på sidene godt synlig, men mer alvorlig: de stikker en halv millimeter utenfor kabinettet, og vi ser med ett faren for at de dermed kan hekte seg i hår eller i lodne gensere. 
+Minijack-kontakten sitter dessuten også på siden, noe som ikke akkurat er praktisk når spilleren skal gli ned i en lomme. 
+
+Skjermen ble også en nedtur. 
+Den har lav oppløsning, dårlig innsyn fra sidene, og tydelige etterslep ved bevegelse. 
+Knappene er harde og lager en ganske høy klikkelyd. 
+M-knappen øverst brukes mest, og et kort trykk har en annen funksjon enn når den holdes nede. 
+
+Menyene er fargerike (for ikke å si glorete), og den lille skjermen er stappfull av informasjon. 
+Navigering, start, stopp osv tar tid å bli vant til, her har vi sett langt mer intuitive løsninger. 
+Du kan for eksempel ikke hoppe fra et album (mappe) til et annet uten først å stoppe avspillingen. 
+Deretter følger en rekke tasteklikk før du kan starte avspillingen igjen - av filer i en annen mappe. 
+
+Enkel men treg overføring 
+
+Spilleren har ikke støtte for ID3-tagger, den viser kun mappe- og filnavn. 
+Så er da også overføringen basert på bruk av Windows Utforsker, og det spiller ingen rolle hvordan du ønsker å legge opp filstrukturen, bare dra & slipp. 
+Av alle ting ved denne spilleren, er dette det enkleste. 
+Men det tar tid, her støttes nemlig kun USB 2.0 FullSpeed, som i praksis er det samme som USB 1.1, med maks 11 Mbps overføringshastighet (1/40 av USB 2.0 HiSpeed). 
+Vi brukte for eksempel 45 sekunder på å overføre 36 MB til spilleren. 
+
+Kvalitetsvurderinger 
+
+Hva så med kvaliteten? 
+De medfølgende ørepluggene er under middels gode, og lyden blir noe boksaktig. 
+Du har riktig nok en del forvalg (rock, pop, jazz etc) å velge mellom, men det gjør det ikke særlig mye bedre. 
+
+Videofiler må først konverteres til et format (AMV) som spilleren takler. 
+Programvare til formålet følger med. 
+Vårt halvannet minutts videofil i MPG-format ble krympet betraktelig, både i piksler og megabytes. 
+3 MB stoppet den på til slutt, og den dekket bare ca 50% av den lille og lavoppløselige skjermen. 
+Avspillingen skjedde uten hakking og andre forstyrrelser, men de fleste detaljene var naturligvis borte vekk. 
+
+Radiodelen er faktisk det beste ved denne spilleren, den er klar og fin i stereo, riktig nok midt i Oslo sentrum med optimale mottakerforhold. 
+
+Stemmeopptak fungerer, men kvaliteten på opptakene blir ikke mye å skryte av. 
+
+Dersom du stopper avspilling av en mediefil, slår spilleren seg av etter 30 sekunder. 
+Du kan justere dette opp til 1 minutt. 
+Før den tid slår skjermbeskytteren inn, det skjer etter bare noen få sekunder. 
+Ja, til og med midt i en omgang Tetris slo den seg av, fordi vi hadde nølt med å trykke. 
+Her har det tydeligvis gått litt fort i svingene under utviklingen. 
+
+Konklusjon 
+
+Så hva sitter vi egentlig igjen med til slutt? 
+Siste setning fra forrige avsnitt sier det meste. 
+Kineserne i Inovix skal ha honnør for at de har fått plass til så mye i en så liten spiller. 
+Men der stopper da også vår positivitet denne gangen. 
+
+Fra den norske distributøren Inovix Technology Scandinavian får vi imidlertid opplyst at butikk-klare modeller vil ha en del forbedringer i forhold til vårt testeksemplar, uten å gå i klare detaljer. 
+Skjermen skal imidlertid være den samme. 
+
+Funksjonsmessig imponerende, men vi er redd spilleren trenger mer enn en finpuss for å bli en reell iPod-utfordrer. 
+Sluttkarakteren vipper mellom en sterk toer og svak treer, vi lander til slutt på førstnevnte. 

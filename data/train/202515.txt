@@ -1,0 +1,124 @@
+Philips Fidelio AW9000
+Trådløse høyttalere som kan brukes enten du sverger til iPhone eller Android-universet. 
+Det er gull på papiret, hvordan fungerer det i praksis? 
+
+Etter at AW9000 ble kåret til årets trådløse høyttaler av EISA-juryen, var dette en test vi gledet oss til. 
+
+Og det begynner godt, for Philips har nemlig gjort mye riktig. 
+
+Dette liker vi 
+
+Lekker. 
+For selv om høyttalerne ser ganske tradisjonelle ut rett forfra så skiller de seg ut fra den gemene hop på flere områder. 
+En ting er at de er vinklet, en annen er at det er børstet aluminium på toppen, og en slags trefinish (laminert riktignok) på baksiden. 
+Også vekten gir et tillitsvekkende inntrykk: 
+Dette føles rett og slett skikkelig, og basert på tilbakemeldingene vi fikk da vi satte dem opp på kontoret var det ikke bare vi som likte designet.Se bilder av høyttalerne her: 
+
+Ser vi bort fra spesialløsningene til konkurrentene Sonos og (nylige avsluttede) Squeezebox, er det nemlig i stor grad Apples AirPlay eller Bluetooth som brukes til trådløs overføring av musikk i dag. 
+
+De to sistnevnte har dog et par begrensninger du bør være klar over: 
+Apples AirPlay er forbeholdt iOS-universet (tenk iPod Touch, iPhone og iPad), mens Bluetooth-løsningenes svakhet er at avspillerenheten og mottakeren må være innen kort avstand av hverandre for at signalet ikke skal bli brutt. 
+
+Og det er altså her Philips har tenkt nytt. 
+
+De har nemlig valgt den åpne DLNA-standarden som bruker vanlig trådløst nett på Fidelio AW9000. 
+Det betyr at den både kan brukes fra din PC eller Mac via programmet Twonkys MediaManager, men også direkte fra din iPhone/iPad, eller fra en hvilken som helst Android-mobil/nettbrett via gratis-appen Philips AirStudio. 
+
+At høyttalerne dermed ikke låser deg til en bestemt leverandør er altså i utgangspunktet svært positivt. 
+
+Fysiske knapper og innganger. 
+Selv om høyttalerne omtales som trådløse er det en liten overdrivelse: 
+
+Den ene høyttaleren er hjernen, mens den andre er en slags slave og disse to kobles sammen med en medfølgende høyttalerkabel. 
+Hovedhøyttaleren kobles så til strømnettet, og det er i utgangspunktet alt du trenger. 
+
+Den har imidlertid også innganger både for kablet nettverk, samt analoge og digitale tilkoplinger. 
+Dermed kan du altså koble høyttalerne til TV-en, eller CD-spilleren din om du fortsatt har det. 
+Her finner du også fysiske volumknapper, kildevalg, og ikke minst 5 minneplasser. 
+Det siste er praktisk, fordi du da kan lagre de 5 mest brukte nettradio-kanalene. 
+Du kan altså høre på radioen uten å lete etter mobilen, nettbrettet eller PC-en til å styre enheten, og dette er faktisk ganske praktisk om morgenen. 
+Dette gir pluss i margen. 
+
+Enkelt oppsett. 
+Selve tilkoplingen til nettverket er svært enkelt, og gjøres via iPhone eller Android-appen: 
+Framgangsmåten blir her nøye forklart på mobilen, og har du en WPS-kompatibel ruter vil du ha høyttalerne på nettet i løpet av 2-3 minutter. 
+Hele prosessen ser du i denne bildespesialen, og den er altså identisk for både iOS og Android-enheter: 
+
+Og ja, vi liker lyden også 
+
+AW9000 har seks høyttalerdrivere (to mellomtoner + fire diskanter), og i følge Philips er ikke det vinklede designet tilfeldig: 
+Tanken er kort fortalt at det skal gi et bredere lydbilde enn tradisjonelle høyttalerkasser. 
+Det stemmer forsåvidt bra med vår erfaring også, vi opplever høyttalerne som plasseringsvennlige: 
+Enkelte konkurrenter bør for eksempel stå inni et hjørne for å gi bass, men det slipper du her. 
+
+Bassen holder også trykket ganske så høyt opp på volumnivået, men når du presser den mot maks-nivået faller det hele litt sammen. 
+Størrelsen tatt i betraktning er vi faktisk ganske imponert over både bass og dynamikken i lydbildet, og med tanke på prisen synes vi dette låter riktig så bra; også målt mot konkurrenter som B&W; Zeppelin Air og Libratone Live. 
+
+At høyttalerne enkelt kan flyttes et godt stykke fra hverandre gjør naturligvis også underverker for stereoperspektivet, og vi synes ganske enkelt at lyden er god. 
+
+Så langt så bra altså, og på dette stadiet var vi faktisk ved svært godt mot. 
+
+Dette liker vi ikke ikke 
+
+Man kan like det eller ikke, men hovedforklaringen til at Apples AirPlay, eller de dedikerte musikk-systemene Sonos og Squeezebox, har blitt så populære, er at de bare virker: 
+Lydkvaliteten er god, og enhetene snakker sømløst sammen uten at du trenger å irritere deg over unødvendig treghet. 
+
+Og det er her det svikter for Philips, for programvaren som bygger på den åpne DLNA-standarden har dessverre åpenbare svakheter. 
+
+Se bilder av menyene her: 
+
+Hovedproblemet til Philips er at de tvinger deg til å bruke deres egen AirStudio-app når du skal skal styre musikken. 
+Du kan altså ikke bruke den vanlige musikkspilleren, eller de originale musikk-appene du allerede har på mobilen eller nettbrett ditt. 
+
+Det hadde selvsagt vært vel og bra hvis AirStudio-appen hadde vært minst like god som de avspillerne du bruker til daglig. 
+Men det er den ikke. 
+I løpet av denne testen har vi hovedsaklig brukt appene på vår Samsung Galaxy S3, iPhone 5 og iPad, og her er noen eksempler på problemer og irritasjonsmomenter vi har opplevd underveis. 
+
+Det går tregt. 
+Bare det å skifte fra en låt til en annen tar tre sekunder, og siden også volumjustering tar tid blir det vanskelig å finjustere lyden opp eller ned. 
+I stedet for at du får en sømløs volmumjustering går det altså i rykk og napp. 
+Slik skal det ikke være i 2012. 
+
+Som om ikke det er nok, lar ikke Android-appen deg justere volumet på høyttalerne via mobilens volumknapper. 
+Med andre ord: 
+
+Hvis mobilen (eller nettbrettet ditt) har gått i dvale, må du her først låse opp enheten med PIN-kode, åpne AirStudio-appen og så finne volum-slideren. 
+Dette høres kanskje banalt ut, men dette er noe vi ikke har blitt tvunget til å gjøre på noen annen musikkapp på flere år, og da blir det et irritasjonsmoment i det daglige. 
+
+Og heller ikke iPhone og iPad-appen er stort bedre her: 
+Volumjusteringen via enhetenes fysiske knapper forutsetter nemlig at du holder knappene inn svært lenge før det skjer noe. 
+Også her blir det altså tungvint å justere lyden. 
+
+En annen pussighet er at iPhone-appen viser coverbilder fra musikk på mobilen, mens dette ikke er tilgjengelig på Android-versjonen. 
+
+Fungerer ikke med WiMP. 
+En annen ulempe ved å tvinge deg til å bruke AirStudio-appen, er at du blir låst til innholdsleverandørene Philips har en avtale med, og her er det foreløpig kun Spotify og Deezer som er på plass (nettradioene kommer riktignok i tillegg). 
+
+Med andre ord: 
+WiMP-kunder kan ikke bruke Philips Fidelio AW9000, og det er rett og slett ikke bra nok i dag. 
+På dette punktet slår de rene AirPlay- eller Bluetooth-anleggene rett og slett knockout på Philips. 
+
+Mister forbindelsen. 
+Når du åpner mobil/nettbrett-appene skal AW9000 dukke opp som høyttaler øverst i skjermbildet, mens dine avspillerenheter dukker opp nederst. 
+Sammenkoblingen mellom de to skal så skje ved at du tar tak i avspillerenheten, og så drar den opp til høyttaleren. 
+
+Altfor ofte opplevde vi imidlertid at verken iPhone eller S3 ble funnet. 
+Her kan du selvsagt oppfriske forbindelsen ved å trykke i appen, men når dette må gjøres gjentatte ganger i løpet av kvelden forsvinner brukervennligheten for resten av familien. 
+Enkelte ganger opplevde vi også at musikken rett og slett stoppet opp, og at vi måtte starte albumet, Spotify-listen eller nettradioen på nytt. 
+Slik skal det selvsagt ikke være. 
+
+Konklusjon 
+
+Det som redder treeren på terningen denne gang er at Philips har laget noen flotte høyttalere med god lyd, og det til en fornuftig pris. 
+Det er imidlertid synd å konstatere at programvaren som ligger i bunn ikke holder mål. 
+Når vi også vet at forgjengeren med ren AirPlay-teknologi fungerte så mye bedre i praksis er det ganske enkelt noe som ikke stemmer. 
+
+Per dags dato blir derfor vår dom at Philips Fidelio AW9000 blir for spesielt interesserte: 
+Et Sonos-anlegg har for eksempel langt bedre brukervennlighet, selv om du her bør kjøpe egne høyttalere. 
+Har du i tillegg iOS-enheter hjemme vil også AirPlay-alternativene være mye bedre valg. 
+Dermed gjenstår kun Android-folket som ikke vil bruke Bluetooth-alternativene som finnes, og med de begrensningene som finnes tror jeg det vil holde hardt. 
+
+Nå kan selvsagt mye av dette løses ved at programvaren får seg en kraftig oppdatering, og ikke minst at WiMP legges til. 
+Vi håper det skjer, men hvorvidt det er en sjanse du vil ta, må bli opp til deg. 
+
+Philips Fidelio AW9000 

@@ -1,0 +1,106 @@
+MOBILTEST:Sony Ericsson Vivaz 
+
+Filmopptak i HD hjelper, men HD er som kjent ikke alt. 
+
+HD-logoen finnes snart alle andre steder enn på kaffetraktere, men det er bare et tidsspørsmål før høyoppløselig kaffe gjør sitt inntog på trendy kaffebarer i europeiske hovedsteder. 
+Nå finnes logoen også på Sony Ericssons mobiltelefoner, i dette tilfellet nærmere bestemt på ferskingen Vivaz. 
+
+Det er en kombinert kamera- og touchmobil, i den grad det lenger gir mening å snakke om mobiler i forhold til en slik inndeling lenger. 
+
+Symbian-baserte Vivaz har jo strengt tatt det meste en finner på avanserte mobiler i 2010, som, foruten 8.1-megapikselkameraet med HD-videofilming, vil si ting som muligheten for installering av ekstra programvare, skikkelig nettlesere, utvidet multimediestøtte, Facebook, YouTube og Twitter-støtte rett ut av eska, full epost-støtte (inkludert Exchange ActiveSync), Wlan og HSDPA (super-3G), og der skal vi stoppe før vi kjeder deg ihjel. 
+
+Treg berøring 
+
+Utgangspunktet er med andre ord greit: 
+Vivaz har det meste, med unntak av fysisk tastatur. 
+Dette er som nevnt en reindyrket touch-basert mobil, og la oss derfor rydde unna den første dårlige nyheten med en gang: 
+Den bruker ikke såkalt kapasitiv skjerm ala iPhone, Nexus One og HTC Hero, men derimot langt mer tradisjonell trykkfølsom teknologi. 
+Slik skjermer har en tendens til å yte alt fra litt mer til mye mer motstand når det kommer til navigering og fingertuppfølelse 
+
+Dette punktet kan vi like gjerne rydde unna først som sist: 
+Det er tydelig i daglig bruk at dette dreier seg om gammel teknologi. 
+Alle som, bokstavelig talt, har hatt fingrene borti en kapasitiv skjerm vil legge merke til vesensforskjellen i kvalitet mellom de to skjermteknologiene, og Vivaz gjør ikke noe for å bygge bro mellom dem. 
+
+Alle typer scrolling av tekst krever mer tålmodighet og mindre fart enn det som er optimalt, og du vil også merke at tekst og tall ikke kan legges inn så hurtig som med en god, kapasitiv skjerm. 
+I lengden er det irriterende å måtte være så bevisst på hva som fungerer i forhold til berøring. 
+For selv om du naturligvis kan venne deg til det meste, så vil ikke det si at det er en bra løsning. 
+
+Design og applikasjoner 
+
+Designet er i utgangspunktet helt ok, selv om plastfølelsen er påtakelig. 
+Vår versjon ble levert i en litt glorete lilla, men den fås også i mer diskret fargetoninger. 
+Foto- og videoknappene er plassert lett tilgjengelig på høyre side, sammen med volumknappene. 
+På venstre side finner du en USB-tilkobling, og, hold deg fast, en vanlig 3.5mm hodetelefonplugg. 
+Det er ikke hverdagskost fra Sony Ericsson, som har insistert på en egen dataportløsning i lang, lang tid. 
+La oss håpe det snur for godt nå. 
+
+Minnekort kommer i form av et utskiftbart microSD i størrelser opptil 16GB (8GB følger med). 
+Tre knapper under skjermen styrer henholdsvis ringefunksjonalitet, menysystemet og avslutning av samtaler, i tillegg til et lite snarveissystem. 
+
+Vivaz benytter seg som allerede nevnt av Symbian-operativsystemet S60, men ikke uten videre slik du kjenner det fra eldre Nokia-modeller. 
+Hjemmeskjermen er simpelthen bare en animasjon eller et hvilket som helst bilde du måtte ønske å se nettopp her, men du kan naturligvis bla deg enten mot høyre eller venstre for å få tilgang til kontaktlista, en Twitter-klient, medieinnhold (bilder og video du selv har tatt) og enda en snarveisliste for mer spesifikke applikasjoner og funksjoner. 
+
+Vi synes det er pussig at hjemmeskjermen ikke egentlig kan brukes til noe, og at den 3.2 tommer store flaten bare demonstrerer hvor fint et bilde ser ut i 16:9-format strukket i høyderetning. 
+Her kunne en kanskje lagt applikasjonssnarveier, widgets eller liknende, men det må du altså bla videre til andre skjermer for å løse. 
+
+Skjermen som sådan er sylskarp, med 16.7 millioner og 360x640 piksler som harde fakta. 
+
+Bildekvalitet 
+
+Forhåpentligvis har de fleste av våre lesere for lengst fått med seg at begrep som megapiksler og HD ikke uten videre sier noe om kvalitet. 
+Det sier først og fremst noe om oppløsning og hvor mange punkter/piksler produsenten har klart å få plass til i ett bilde eller i et videoopptak. 
+
+Vivaz har et meget pent megapikseltall - 8.1 -, og filmer altså video i HD, nærmere bestemt 720p. 
+Men ser det bra ut? 
+
+Bildene er under de rette lys- og værforholdene imponerende, selv om det fortsatt er et godt stykke igjen til kompaktkamerastandard. 
+Overeksponering er ikke uvanlig hvis du arbeider med litt for sterke lyskilder, kanskje fordi lysmåleren i Vivaz ser ut til å kompensere for mørke partier i bildet med å skru opp eksponeringen ørlite, men når bildene ser bra, ser de virkelig bra ut. 
+Flotte, sterke farger med fin metning og kontrast, og en dybdeskarphet som gjør at forgrunn og bakgrunn er nesten like skarpe. 
+
+Støy er et kjent mobilkameraproblem, ikke minst når det blir mørkt. 
+Vivaz utretter ikke mirakler ved for eksempel innendørsbilder eller bilder tatt i dunkel belysning, og vi finner faktisk en del bildestøy selv under perfekte solforhold. 
+Noen av testmotivene inneholder helt blå himmel, likevel ser en kornete partier brette seg ut over deler av blåfargen. 
+
+Du kan se bilder i full størrelse tatt med kamera her, her, her, her og her. 
+
+Er det virkelig HD? 
+
+At stillbildekamera leverer over åtte megapiksler i mobilt format er ikke lenger spesielt eksotisk, men videoopptak i HD er fortsatt en nybegynnergren. 
+Det klarer heller ikke Vivaz skjule. 
+
+Det første vi legger merke til på videoopptak tatt i utelys med fint vær og blå himmel er kriblingen fra all støyen i bildet. 
+Det er sannsynligvis både en konsekvens av optikken i mobilen, som av forståelige årsaker ikke kan konkurrere med et vanlig HD-kamera, og av at videofilen blir komprimert. 
+Et halvt minutt med video gir en videofil på drøye 30MB, og det sier seg nesten selv at én megabyte per sekund ikke er så mye for et HD-video-opptak. 
+
+En "gammeldags" DV-video bruker rundt 250MB per minutt, og det er med en oppløsning som er lavere enn HD-video. 
+Her har med andre ord Sony Ericsson, igjen av forståelige årsaker, gjort store kompromisser for å klistre HD-logoen på mobilen, noe som er åpenbart på det ferdige resultatet. 
+
+Du kan laste ned en eksempelvideo i full HD filmet med Vivaz her (35MB). 
+
+Og sånn ellers 
+
+I bruk er dette en helt grei mobiltelefon, verken mer eller mindre. 
+Vivaz er strengt tatt ikke spektakulær på noen områder, men gjør en habil jobb enten det gjelder surfing, epost, twitring, facebooking, youtubing og alle de andre applikasjonene som finnes på Vivaz. 
+
+Bildekvaliteten er godt over gjennomsnittet, men HD-videoen er middelmådig - til å være HD-video. 
+Det sier kanskje mer om hvor bortskjemt vi har blitt med videokvaliteten på en del mobiltelefoner at vi ikke blir mer imponert, men poenget med HD-video bør være at bildekvaliteten lever opp til kvalitetspotensialet som ligger i 1280x720 piksler, og det gjør ikke Vivaz. 
+
+Når det er sagt, så har Vivaz faktisk mer eller mindre alt: 
+Inkludert super-3G og Wlan, en utmerket mediespiller, tilgang til en lang rekke applikasjoner for Symbian S60-operativsystemet, og en herlig skjerm. 
+Den er også ganske rask i daglig bruk (navigering, oppstart av applikasjoner og liknende), men henger seg tidvis litt opp et sekund eller to, før den slipper seg videre til neste vindu. 
+
+Sony Ericsson, som strengt tatt vil si Symbian-utviklerne, har derimot gjort enkelte pussige navigeringsvalg. 
+Befinner du deg i meldingsysstemet (SMS, epost) må du av en eller annen grunn dobbeltklikke på den funksjonen du ønsker å aktivere, mens du for eksempel i mediespilleren bare klikker én gang for å komme deg videre. 
+Det er ikke helt logisk. 
+
+Konklusjon 
+
+Konkurransen innenfor det mange kaller "avanserte mobiltelefoner" har hardnet skikkelig til det siste året, og sammenliknet med det siste fra både HTC, Apple og Nokia når ikke Vivaz helt opp. 
+
+Den har en viss fordel av 8.1 megapiksler og HD-video, men, som vi understreker i avsnittene over, vi blir ikke blendet av kvaliteten på videoopptakene. 
+
+Batteritiden er derimot utmerket, samtalekvaliteten like så, og designet er rimelig smakfullt, selv om vi kjenner mer enn et hint av plast i lufta hvis vi bruker nesen grundig. 
+
+Likevel sitter vi igjen med en følelse av at dette, til tross for vår lilla utgave, blir ørlite for grått til å nå helt opp. 
+
+Pris for Sony Ericsson Vivaz er rundt 3500 kroner uten abonnement. 

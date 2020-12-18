@@ -1,0 +1,75 @@
+Asus RT-N56U Dualband ruter
+Ruteren som har alt? 
+
+Trådløse rutere finnes i nesten ethvert hjem, men de blir gjerne gjemt bort siden de ikke oppfattes som en naturlig del av det synlige interiøret. 
+Det er ikke alltid så lurt, hvis du skal ha best mulig signal. 
+
+Derfor er den nye ruteren fra Asus laget for å kunne stå framme, med en skulpturell form og tekstur. 
+Mønsteret på forsiden består faktisk av ruter, men det har neppe vært en del av bakgrunnen for designet, så vidt vi vet heter verken ruter eller ruter ruter på kinesisk... 
+
+Men den er ikke bare en skulptur, i sitt indre finnes det en avansert ruter som har mye å by på. 
+
+Kan det meste 
+
+Asus RT-N56U har 4 nettverkskontakter som støtter Gigabit nettverk, og trådløst nett opererer både på 2,4GHz for 802.11.b/g/n og 5 GHz på 802.11n. 
+
+Den har også 2 USB-porter som støtter lagring på disk eller minneplugg, skrivere eller andre USB-enheter som f.eks. skannere. 
+
+Oppsett 
+
+Ruteren har innebygd veiviser, som dukket opp automatisk da vi slo på PC-en etter at vi hadde koblet til ruteren. 
+
+Det dukker opp tre valg hvor du velger hvordan ruteren skal brukes, med en litt uvant terminologi. 
+Det første alternativet er å sette opp ruteren i "IP Sharing mode", de andre valgene er "Router Mode" og "Access Point mode". 
+
+Disse valgene er overordnet, velger du feil her får du problemer. 
+Vi var litt kjappe første gangen og valgte "Ruter Mode" av gammel vane uten å lese det med liten skrift som sto under. 
+Videre inn i oppsettet valgte vi som vanlig PPPoE som tilkobling til Telenor ADSL, men kom ikke på nett. 
+
+Grunnen var at vi skulle ha valgt "IP 
+Sharing mode" for at PPPoE skal være aktivert. 
+Hadde de forskjellige undermenyene vært fjernet etter som de er mulige å aktivere eller ikke hadde vi ikke gått i den fella. 
+Oppsettet er med andre ord ikke idiotsikkert. 
+
+Forøvrig er oppsettsmenyene tiltalende og oversiktlige. 
+
+I bruk 
+
+Det er mange produkter som har et poensiale langt høyere enn det er mulig å få til i virkeligheten. 
+Trådløse rutere er et godt eksempel på dette. 
+
+For de aller fleste er den teoretiske ytelsen på trådløst nett helt hinsides hva det er mulig å oppnå i praksis. 
+Grunnen til det er at det er for mange brukere som forstyrrer hverandre, spesielt i byer og tettbygde strøk. 
+Derfor konkurrer du som regel med minst 10 andre brukere i ditt dekningsområde, og hastigheten blir alltid mer eller mindre ujevn. 
+Derfor er det liten lenger mening i å måle ytelse på trådløse rutere, siden forutsetningene aldri er like. 
+Man kan teste forskjellige rutere over tid på samme sted, men resultatene er ikke nødvendigvis relevante for andre plasseringer og annen bruk. 
+
+Den andre flaskehalsen er selve Internett, hvor trafikken øker hele tiden. 
+Samme hvor rask ruteren er har det lite å si hvis du ikke sitter på en bredbåndslinje med flere hundre megabits kapasitet. 
+Har du en vanlig nettforbindelse i fotgjengerklassen er alle moderne rutere mer enn tilstrekkelig kapable, selv hos mor, far og de åtte ungene. 
+
+I vårt trehus med ruteren plassert på hemsen oppunder mønet hadde vi utmerket dekning helt ned i kjelleren, tre plan under. 
+Sammenlignet med andre rutere (D-Link og Apple) lå signalstyrken 6 - 10 dB høyere. 
+
+Har du en PC eller annen klient med støtte for 5 GHz trådløst nett vil du kunne få bedre hastighet enn med 2,4 GHz. 
+Grunnen er ganske enkelt at det er mindre nettrafikk i dette området. 
+Foreløpig. 
+Men rekkevidden er mindre enn 2,4 GHz. 
+
+For fildeling og streaming har ASUS åpnet for opptil 300.000 samtidige datasesjoner, som skal gi vesentlig høyere nettohastighet. 
+Du kan også la ruteren selv laste ned direkte til minneplugg eller USB-harddisk, uten at noen PC står på, dette gjelder både HTTP/FTP/BT nedlasting. 
+
+USB-tilkobling for lagring kan være kjekt, men hastigheten er ikke noe å skryte av. 
+Som medieserver kan det være ok, men det er grenser for hvilken belastning en USB-port kan håndtere. 
+
+Skrivertilkobling via USB kan også være praktisk, hvis ruteren og skriveren står i nærheten av hverandre. 
+Men i dag er selv billige skrivere utstyrt med trådløst nett eller annen nettverkstilkobling, så dette er ikke lenger så interessant som det var tidligere. 
+
+Ruteren støtter også andre USB-enheter, som f.eks. trådløse 3G/3.5G modem. 
+
+Konklusjon 
+
+Asus RT-N56U er en høyst kapabel ruter som har meget god ytelse i generell bruk. 
+Den støtter også mer avansert bruk, som prioritering av båndbredde, nedlasting, fildeling osv. 
+
+I tillegg har den et ikke-teknisk utseende som ikke skjemmer interiøret, menge vil faktisk mene at den er svært elegant, bare man danderer kablene riktig. 

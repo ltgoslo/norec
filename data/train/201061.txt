@@ -1,0 +1,141 @@
+Sony Vaio S
+Er denne PC-en priset for høyt? 
+Ja, mener vi. 
+
+Sonys Vaio-maskiner er kjent for meget bra design og byggekvalitet, men prisen er ofte litt høyere enn hos mange av konkurrentene. 
+Og så fremhever da også Sony at S-maskinene er meget robuste, i en kompakt innpakning. 
+
+Materialvalget er dels magnesium, dels aluminium, og joda: 
+Førsteinntrykket er absolutt meget bra. 
+
+Modellen vi har hatt på testbenken bærer det hele og fulle navnet SONY VAIO SVS1312R9EB, der B-en står for Black. 
+Men maskinen fås i en rekke farger, inkludert oransje og rosa - hvis du ønsker noe utenom det vanlige. 
+Konfigurasjonen vi har fått koster rundt 10.000 kroner, og merk at dette faktisk er blant de rimeligere i Vaio S-serien. 
+
+Før vi går videre skal vi ta en rask gjennomgang av de viktigste spesifikasjonene: 
+
+Skjerm: 13,3" LED-baklyst LCD, blank overflate, 1366 x 768 piksler Prosessor: 
+Intel Core i5-3210M (Ivy Bridge) RAM: 
+8 GB (maks 12) Grafikkort: 
+Nvidia GeForce GT 640M LE / Intel HD 4000 Lagring: 640 GB harddisk, 5400 rpm Optisk drev: 
+Slot-in DVD-RW Skjermutganger: 
+VGA og HDMI USB-porter: 2 stk USB 3.0, 1 stk USB 2.0 Webkamera: 1,3 Mpix Kortleser: MS Duo, SD, SDHC, SDXC Trådløst nett: a/b/g/n Kablet nett: 10/100/1000 Mbit Annet: 
+Fingeravleser, 3G-opsjon, ekstra batteri OS: 
+Windows 8 Professional Størrelse: 331 x 224 x 24 mm Vekt: 1,7 kg Pris: ca 10.000 kroner inkl mva (3.11.2012) 
+
+Maskinen er som du ser temmelig oppdatert på utstyrsfronten, med siste generasjon Intel-prosessor, bra grafikkløsning og godt med minne. 
+At en såpass lett maskin er utstyrt med optisk drev vil nok mange også sette pris på. 
+Merk også fingeravleser og Windows 8 Professional - her har Sony satt sikkerheten i høysetet, og denne maskinen egner seg derfor godt til bedriftsbruk. 
+
+Men skjermen er høyst ordinær, sett i lys av hva mange av konkurrentene byr på i disse dager. 
+For det første er det ikke en berøringsfølsom skjerm, noe som absolutt hadde vært et pluss siden maskinen er utstyrt med Windows 8, den er også relativt lavoppløst og har ikke den gode kontrasten og innsynsvinkelen vi er blitt bortskjemt med på siste generasjon maskiner fra blant andre Asus og Samsung. 
+Lysstyrken er imidlertid god. 
+
+Så om maskinvaren ellers er oppdatert, er skjermen det ikke. 
+
+Bra tastatur, trøblete pekeplate 
+
+Tastaturet er av chicklet-typen der hver tast er isolert fra de andre. 
+Det er også baklyst, og er meget godt å skrive på. 
+Det er litt svikt i midten av platen, men ikke noe som påvirker brukeropplevelsen negativt. 
+Det er imidlertid ikke av de stilleste tastaturene vi har testet, litt klirrelyd fra enkelte taster må du påregne, spesielt på venstre side. 
+
+Vi er imidlertid ikke så fornøyd med pekeplaten. 
+Den er for det første svært bred, og det er lett å komme borti hvis du har for vane å hvile hendene på PC-en og benytter touch-metoden. 
+Vi har opplevd flere ganger at markøren har hoppet i dokumenter på grunn av dette. 
+
+Pekeplaten har integrerte knapper for venstre og høyre museklikk. 
+For venstreklikking kan du trykke hvor som helst på platen, mens høyreklikking er forbeholdt høyre hjørne nederst. 
+Det er også et vertikalt skrollefelt helt til høyre, men du kan også bruke to fingre midt på platen om du vil. 
+Men å bruke to hender er den ikke optimalisert for. 
+Har du for eksempel for vane å hvile tommelen på venstre museknapp, kan platen oppfatte det som multiberøring, og det kan føre til at bilder og nettsider forstørres og forminskes, eller at musepekeren ikke flytter seg slik du hadde forventet. 
+Ikke imponerende. 
+
+Over tastaturet sitter det noen hurtigknapper og høyttalere. 
+Her er også en bryter med to posisjoner; batterisparing og høyytelse: 
+
+Du får ingen varsel eller indikasjoner på hvilken posisjon den står i, men du kan risikere at du får beskjed om at du må manuelt avslutte noen programmer for at innstillingene skal tre i kraft. 
+Slikt er heller ikke særlig imponerende, mener vi. 
+
+DVD-drevet sitter til venstre. 
+Alle andre tilkoblinger sitter til høyre, og det er forsåvidt greit, da vet du hvor du har ting. 
+
+Strøminntaket sitter lengst fra brukeren, og vi reagerer på at det virker slarkete. 
+Heldigvis har pluggen en 90-graders knekk, noe som gjør den mindre utsatt for belastning enn plugger som stikker rett ut. 
+
+På undersiden sitter blant annet feste for et ekstra batteri samt luke for 3G-SIM-kort, slik at man kan komme seg på Internett via mobilnettet. 
+
+Knakk av! 
+
+Lokket er altså dekket av magnesium. 
+Det er lett og gir god stivhet og beskyttelse mot trykk. 
+Ved et uhell fikk vi imidlertid bevist på at det også er porøst. 
+Maskinen falt nemlig i laminatgulvet fra ca 80 cm. 
+Det førte til at en stor metallbit av lokket rett og slett knakk av: 
+
+Irriterende programvare 
+
+Sony har laget en egen startmeny for deg som savner menyen fra Windows 7 og eldre versjoner. 
+Vaio Gate heter den, og du kan enkelt dra og slippe snarveier til den. 
+Det vil nok mange brukere sette pris på, tror vi. 
+
+Vi er imidlertid skeptiske til sikkerhetspakken fra McAfee, som har en stygg tendens til å bombardere oss med advarsler om at både brukeren og barna hans lever utrygt med mindre hun aktiverer programvaren. 
+
+I løpet av tre små minutter hadde vi fått disse prangende advarslene: 
+
+Det ironiske er at Windows 8 har innebygde sikkerhetsprogrammer mot de viktigste truslene. 
+McAfee koster penger etter prøveperioden. 
+Vi vet i hvert fall hva vi hadde avinstallert raskt etter å ha kjøpt denne PC-en. 
+
+Slik yter den 
+
+Fra du starter PC-en til du er inne i Windows og er klar for å jobbe, tar det 55 sekunder. 
+Det er ikke veldig imponerende for å være en maskin med Windows 8, men skyldes også at maskinen er utstyrt med en vanlig harddisk med høyst ordinære ytelser. 
+En SSD ville her gjort underverker. 
+Fra hvilemodus tar det imidlertid bare et par sekunder før maskinen er klar for bruk. 
+
+Maskinen avgir et jevnt sus på høyre side, og vi antar dette kommer fra harddisken. 
+Det er ikke sjenerende, men maskinen avgir litt mer lyd enn hva vi er blitt vant til i det siste fra konkurrentene. 
+Det er heller ikke noe nytt hva angår Vaio-maskiner, er vår erfaring. 
+Under tung belastning øker støyen, og vårt inntrykk er at støynivået ligger noe over hva Samsung, Dell, Lenovo og Asus byr på fra maskiner i samme prisklasse. 
+
+Windows Opplevelsesindeks sier følgende om hva du kan forvente av ytelse, og her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,2 Minne: 7,9 Grafikk: 
+5,6 Spillgrafikk: 
+6,5 Primær harddisk: 
+5,9 
+
+Det er med andre ord en maskin som ligger temmelig høyt på ytelsessiden, og med en SSD innabords hadde Primær hardddisk-tallet også økt betydelig. 
+
+Passmark PerformanceTest 7 gir oss litt mer kjøtt på benet, og under har vi sammenlignet ytelsen til Vaio S sammenlignet mot noen populære Ultrabooks vi har testet i det siste: 
+
+Prosessor: 
+
+Prosessorytelsen er vesentlig bedre enn på rene Ultrabooks, som har ULV-prosessor 
+
+3D-grafikk: 
+
+Også grafikkytelsen er vesentlig bedre. 
+Med denne maskinen kan du spille nye spill hvis du nøyer deg med middels detaljnivå 
+
+Harddisk/SSD: 
+
+Harddiskytelsen er svært lav i forhold til hva du kan forvente av en moderne SSD. 
+Prisene er så lave nå at dette vil være en svært god oppgradering dersom du kjøper denne PC-en 
+
+Batteritid: 
+
+Vi målte batteritiden i to omganger; 
+En gang med minimal belastning, kun tilkoblet trådløst nett, og en gang med kontinuerlig videoavspilling. 
+Ved lav belastning holder batteriet lenge, over 7 timer, men under videoavspilling tappes det fortere enn på mer strømgjerrige Ultrabooks. 
+
+Konklusjon 
+
+Vaio S er ingen dårlig PC, men prisen står ikke helt i stil med hva du får, mener vi. 
+Skjermen er høyst ordinær, det samme er oppløsningen. 
+Selv med god prosessor- og grafikkytelse sitter vi igjen med et høyst blandet inntrykk av denne maskinen, og vi lander til slutt på en svak firer på terningen. 
+Det indikerer en temmelig middels bra totalopplevelse sammenlignet med klassen for øvrig. 
+Se plussene og minusene i boksen under for detaljer. 
+
+Sony Vaio SVS1312R9E 

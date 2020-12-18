@@ -1,0 +1,88 @@
+Asus EEE 1005PE
+Bedre batteritid har vi aldri sett! 
+
+Minibærbare var høstens store slager, og er fortsatt det segmentet innenfor PC-markedet som vokser raskest. 
+Disse små maskinene har gjerne skjermer på rundt 10 tommer, og veier rundt kiloen. 
+Prisene er også behagelig, de starter på rundt 2000 kroner. 
+
+Nå er det nettopp begynt å dukke opp en ny generasjon minibærbare. 
+Disse bruker Windows 7, og har gjerne mer minne og større harddisker enn foregående generasjon. 
+Og minst like viktig: 
+De nyter også godt av nye prosessorer fra Intel, som gir bedre ytelse og lavere strømforbruk. 
+I tillegg til nye prosessorer for stasjonære og vanlige bærbare har Intel også en ny generasjon Atom-prosessorer og tilhørende brikkesett til minæbærbare. 
+
+Forskjellen er ganske omfattende, brikkene produseres med 45 nm teknikk, og oppsettet består bare av prosessoren og én brikke. 
+Tidligere var grafikkprosessoren og minnekontrolleren i en separat brikke, mens inn/ut huserte i en annen. 
+
+Med den nye konstruksjonen oppnås mindre effektforbruk og høyere ytelse, med størst vekt på det første. 
+
+Den nye platform-arkitekturen ble først kalt Pine Trail, prosessoren i denne testmaskinen heter N450. 
+Den kjører på 1,66 GHz, samme hastighet som den tidligere N270, men med integrert grafikk og minnekontroller blir den vesentlig mer effektiv enn tidligere. 
+Dette gir ytelsesgevinst. 
+
+Flere designmodeller - samme spesifikasjoner 
+
+Maskinen kommer i flere varianter, noen med et utseende som blir lagt merke til i friske farger. 
+Vårt testeksemplar var av den mer alminnelige sorten, i blank pianolakk. 
+
+Skjermen har matt overflate og er på 10,1 tommer og har den klassiske miniPC-oppløsningen 1024x600 og har god betraktningsvinkel for en maskin i denne klassen. 
+
+Tastaturet er akkurat passe romslig og har gode taster. 
+Pekeplaten skiller seg fra den øvrige flaten med mange små "nupper". 
+Det fungerer relativt greit, man venner seg til det. 
+Vi har uansett med oss mus når vi reiser med bærbar. 
+
+Maskinen kommer med 1 GB DDR2 minne, 250 GB harddisk, 802.11n trådløst, Bluetooth, webkamera og 6-cellers batteri. 
+
+Tilkoblinger 
+
+På venstre side finner vi strømtilkobling, VGA ut, USB og hull for Kensington-lås. 
+
+På høyre side finner vi nettverkskontakt, 2 USB-porter, lyd inn og ut og en kortleser for SD-kort. 
+
+I bruk 
+
+Maskinen kommer med Windows 7 Starter og førstegangs oppsett var ganske raskt å komme i gang med. 
+Win7 er langt bedre her enn tidligere operativsystemer fra Microsoft. 
+
+Maskinen er fast i fisken, stødig og gir inntrykk av god byggekvalitet. 
+Betraktningsvinkelen hos skjermen er som nevnt bedre enn vi er vant til på denne type maskiner, noe som gjør den langt mer fleksibel på f.eks. fly hvor du kan risikere å måtte ha skjermvinkelen ganske rett opp og ned. 
+
+Plasseringen av tilkoblinger er det ingen ting å si på, tastaturet er bra og pekeplaten akseptabel. 
+At det ikke er separate musknapper, men at den vipper på midten med en dødsone på ca en cm er ikke optimalt etter vårt syn. 
+
+Maskinen er ikke av de aller letteste minibærbare, med en vekt på 1,3 kg. 
+Den er også litt baktung, men ikke så mye at den tipper bakover. 
+
+Ytelsen 
+
+Den nye Atom-platformen hadde ingen problemer med å spille av HD-video i 1920 x 1080, noe som tidligere maskiner ikke var i stand til. 
+Bildet skaleres selvsagt ned til det skjermen kan vise, men det flyter nå jevnt og fint, uten hakking. 
+
+Ved typisk bruk, som åpning av standardprogrammer, nettleser osv. 
+er derimot ikke påtagelig raskere enn med forrige prosessorgenerasjon. 
+Med mer minne og en SSD-disk ville ytelsen ha blitt merkbart bedre på disse områdene. 
+Men prisen ville da blitt nesten dobbelt så høy. 
+
+Windows opplevelsesindeks viser 2.4 og det er prosessoren som står for det laveste resultatet. 
+Minne ligger på 4.5 og disk på 5.7. 
+Både grafikk og spillgrafikk slår ut på 3.0. 
+
+Dette ligger litt over andre mini-bærbare, men er ikke en spesielt merkbar forskjell. 
+
+PCMark 05 ga følgende resultater i de kjørbare testene: 
+
+Enorm batterilevetid 
+
+Men der maskinen scoret på topp var i batterilevetid. 
+Med kontinuerlig kjøring av HD-video i loop, uten noen form for strømsparing og med skjermen justert litt ned i lysstyrke klarte den å kjøre i 6 timer og 55 minutter kontinuerlig! 
+
+Med variert bruk og aktive strømsparingsfunksjoner skal du kunne få opptil 14 timers batteritid. 
+
+Maskinen blir heller ikke varm, og støyen er helt minimal. 
+
+Konklusjon 
+
+Den nye Intel Atom prosessorplatformen er langt mer effektiv enn tidligere versjoner, noe som først og fremst har kommet batterilevetiden til gode. 
+
+Maskinen forøvrig er velbygd og funksjonell. 

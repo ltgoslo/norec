@@ -1,0 +1,95 @@
+ASUS RT-AC87U
+Vi har testet markedets første ruter som støtter den nye AC2400-standarden. 
+
+Stadig flere får fiber rett inn i huset, og kan meske seg med internetthastigheter på 100 Mbit og høyere. 
+Men skal du utnytte så høye hastigheter må også utstyret ditt holde tritt. 
+
+Har du for eksempel en gammel trådløs ruter, er nemlig sjansen stor for at den blir en stor propp i systemet. 
+Dette er selvsagt ikke noe nytt, se bare hvordan vi økte hastigheten fra 11 til 95 Mpbs ved å gå utenom standardruteren til Altibox, men siden den gangen har altså ruterne blitt enda raskere, og det er her dagens testmodell fra Asus kommer inn i bildet. 
+
+Du får mer enn før 
+
+I tillegg til høyere hastighet, er det flere fordeler med å nye rutere: 
+Både rekkevidden og ekstrafunksjoner har nemlig blitt bedre. 
+
+En moderne ruter er nemlig langt på vei en datamaskin, som både kan utstyres med apper og fungere som en filserver. 
+I tillegg må resten av utstyret holde tritt, først og fremst det trådløse nettverkskortet i PC-er, nettbrett og mobiler. 
+
+I sommer annonserte ASUS at de var på trappene med markedets første ruter med AC2400-støtte. 
+Dette er siste implementasjon av AC-standarden, og modellen, som har fått navnet RT-AC87U, lover hastigheter som langt overgår både trådløse og de fleste kablede tilkoblinger. 
+
+I teorien skal hastigheten kunne nå inntil 1,73 Gbps på 5 GHz-båndet, ved hjelp av fire antennter og et 4x4 MU-MIMO-brikkesett fra Quantenna (Multi-User Multiple Input Multiple Output). 
+Det krever imidlertid at du kobler til med enheter som støtter AC2400-standarden. 
+I skrivende stund er det lite eller ingenting tilgjengelig i markedet, men det er garantert på vei. 
+
+Nesten en datamaskin 
+
+Ruteren er utstyrt med en dobbelkjernet prosessor på 1 GHZ, og har fire Gigabit-porter i tillegg til en USB 2.0- og en USB 3.0-port. 
+Til USB-portene kan du koble til eksterne disker, og ASUS lover at hastigheten skal være dobbelt så høy som på andre rutere, takket være den kraftige prosessoren. 
+Også skrivere kan kobles til, samt USB-baserte 3G/4G-modem for tilkobling til mobile datanettverk. 
+
+Flere bilder av ruteren: 
+
+Når du har koblet opp ruteren vil du oppdage to nye tilgjengelige trådløse nett, ASUS og ASUS_5G, sistnevnte er kun synlig dersom du har en enhet som støtter 5GHz-båndet. 
+Det er også denne tilkoblingen som normalt vil by på høyest overføringshastighet. 
+
+Første gangen du kobler deg på, taster du inn adressen 192.168.1.1 i nettleseren. 
+Deretter blir du bedt om å oppgi administrasjonsbrukernavn og passord, "admin" og "admin". 
+Deretter blir du geleidet gjennom ruteroppsettet. 
+ASUS har blant de mest oversiktige og brukervennlige ruteroppsettene, og 90% er oversatt til norsk. 
+I bildeserien under har vi tatt for oss oppsettet og funksjonene: 
+
+Målinger av hastighet og rekkevidde 
+
+Noe av det mest essensielle med en ny ruter, er hastighet og rekkevidde. 
+Begge deler avhenger i stor grad av hvor du plasserer ruteren. 
+Setter du den bak sofaen eller inni et skap, kan du forvente mye dårligere hastighet og rekkevidde enn hvis du setter den på et høyt, åpent sted, for eksempel en hylle. 
+
+Du kan gjerne sammenligne med en lampe - plasseringen er avgjørende for hvor god belysning den gir. 
+
+Vi plasserte ruteren høyt i andre etasje, og både PC og mobil viste full dekning i alle husets rom. 
+Til testingen brukte vi en PC med Intel AC 7260-nettverkskort. 
+Dette kortet skal i teorien støtte inntil 857 Mbps, altså halvparten av hastigheten ASUS lover for AC87U, men i skrivende stund er det blant de raskeste kortene for bærbare PC-er. 
+Vi testet også med nyeste iPhone, som også er utstyrt med AC-kort. 
+
+Vi koblet til en rask SSD som vi koblet til via en USB 3.0-adapter, for å teste overføringshastigheten internt i nettet. 
+I tillegg målte vi hastigheten mot vår internettleverandør (100Mbit under optimale forhold) ved hjelp av FTP-overføring fra Universitetet i Oslo, samt målinger med speedtest.net. 
+
+45 MB i sekundet 
+
+Når vi befant oss i samme rom som ruteren, kunne vi overføre filer til og fra den tilkoblede disken på inntil 45 MB i sekundet. 
+Det tilsvarer rundt 360Mbit, og er det raskeste vi har målt i våre tester av trådløse rutere: 
+
+Naturligvis var det ikke noe problem å makse ut hastigheten på internettilkoblingen, en fil på over 1GB ble overført på under to minutter: 
+
+Det var heller ikke noe problem å makse internetthastigheten i andre rom i huset, men allerede i etasjen under var hastigheten på filoverføringen vesentlig redusert - men fortsatt meget høy, rundt tre ganger høyere enn en vanlig, kablet 100Mbit-tilkobling: 
+
+Rundt 100 meter utenfor huset 
+
+Vi beveget oss deretter utenfor huset, og 20 meter fra ruteren var hastigheten redusert til rundt 10Mbps. 
+Det er fortsatt fin surfehastighet, og holder også til å se Netflix på terassen. 
+
+Vi oppdaget deretter at det var stor forskjell på hvor langt nettet rakk, avhengig av hvilken retning vi gikk. 
+Så lenge det var en viss sikt mot rommet der ruteren stod, kunne vi bevege oss rundt 100 meter og fortsatt ha en hastighet på rundt 3-5Mbit. 
+
+På denne avstanden gikk det riktignok litt i rykk og napp. 
+Både iPhone og PC var i stand til å koble seg til fra denne avstanden, men gikk vi lenger ble alt særdeles ustabilt. 
+
+ASUS lover at med fri sikt og ellers optimale forhold, skal rekkevidden være rundt 450 meter. 
+I praksis vil du nesten alltid omgi deg med andre trådløse nett og andre forstyrrelser, så våre målinger er nok mer i tråd med hva du kan forvente. 
+
+Konklusjon 
+
+ASUS RT-AC87U er den raskeste ruteren vi har testet. 
+Den er enkel å sette opp, alt foregår på norsk, og den har en rekke funksjoner som gjør den til langt mer enn en vanlig ruter. 
+Rekkevidden er også meget bra. 
+
+Har vi så ingen ankepunkter? 
+Jo. 5GHz-tilkoblingen var noe ustabil. 
+Vi har opplevd at den plutselig ikke er tilgjengelig, eller fått feilmelding når vi har prøvd å koble oss på. 
+En restart av ruteren har som regel fikset dette. 
+Vi tipper at kommende ruteroppdateringer vil bøte på dette. 
+Og så er det ikke til å stikke under en stol at ruteren er stor, og ikke akkurat pen å se på. at USB 3.0-tikoblingen sitter i fronten, kan også være et ankepunkt for enkelte. 
+Og så var det prisen da, samt at det foreløpig er svært lite utstyr i markedet som drar fullt nytte av hastigheten som er definert i AC2400-spesifikasjonene. 
+
+Asus RT-AC87U 

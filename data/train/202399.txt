@@ -1,0 +1,126 @@
+Apple TV - en annerledes mediespiller
+Den spås å ligge under mange juletrær i år. 
+Vi har testet Apple TV, årets kanskje mest omtalte mediespiller. 
+
+Her i DinSide har vi testet en haug av mediespillere for TV-bruk de siste årene. 
+Grunntanken har vært ganske lik for de fleste av dem: 
+Putt inn en minneplugg eller harddisk, full av godis du har lastet ned fra Internett (eller rippet/laget selv, da), og vis filmer, musikk og bilder rett på TV-skjermen. 
+
+Vi snakker om en løsrivelse av innhold fra datamaskinen som vi bare kunne drømme om for 10 år siden. 
+
+Men mediespillerne begynte raskt å utvikle seg. 
+Snart kom nettverksstøtte, først kablet, deretter trådløst. 
+Deretter begynte internettjenester og apps å gjøre seg gjeldende. 
+Den siste tiden er det filmleie og tilgang til musikktjenester som Spotify som er noe av det hotteste. 
+
+Noe for seg selv 
+
+Og så har Apple kommet på banen med sin Apple TV. 
+Først i USA, og andre generasjon av denne lille mediespilleren har omsider også blitt tilgjengelig i Norge. 
+Og som ofte når Apple lanserer noe, skiller produktet seg ganske markant fra den øvrige konkurransen. 
+
+For Apple TV har ingen inngang for minneplugger og harddisker. 
+Apple TV støtter heller ikke MKV, DIVX og andre filtyper som du muligens har lastet ned fra nettet. 
+
+To vesentlige mangler altså, som man skulle tro fikk kundene til å snu i døra. 
+Likevel selger Apple TV som smør i krisetider. 
+Er det Apple-hysteri som er årsaken? 
+
+Vel, før vi feller noen dom: 
+La oss se litt nærmere på den lille boksen, og hva den egentlig er i stand til å gjøre. 
+
+SÅ liten? 
+
+For å ta det ytre først: 
+Apple TV er liten. 
+Svært liten. 
+Den er bare 25% av størrelsen til førstegenerasjonen, og de fleste blir overrasket når de får se pakken den ligger i. 
+Spilleren er firkantet med avrundede hjørner, alle flater er svarte. 
+En Apple-logo er preget på toppen. 
+
+På baksiden finner du en HDMI-utgang, strøminntak (vanlig topolet strømkabel med 8-talls-kontakt, Apple TV har innebygd strømforsyning), nettverkstilkobling hvis du ikke stoler helt på det trådløse signalet ditt, optisk TOSLINK- lydutgang (stereo og flerkanals), samt en miniUSB-inngang. 
+Denne kan ikke brukes til annet enn å koble til utstyr dersom Apple TV må på service. 
+
+Altså: 
+Denne mediespilleren er ubrukelig med mindre du kobler den til nettverket - og aller helst Internett. 
+Men på de områdene er den meget god. 
+For det første er grensesnittet meget enkelt og behagelig, og i motsetning til svært mange andre mediespillere vi har testet, er responsen fra den enkle fjernkontrollen kontant. 
+Det gjelder også spoling og bytte mellom medier. 
+
+Meget pent og raskt 
+
+Du blir møtt av en velkomstskjerm som inneholder noen enkle valg, samt filmer. 
+Dette er filmer du kan leie fra iTunes, prisene ligger normalt på mellom 29 og 49 kroner. 
+Mye av innholdet er også i HD-kvalitet, men merk deg at det ikke er full HD, men 720P (1280 x 720 piksler). 
+
+Før du slakter Apple TV for "lav" HD-oppløsning er det imidlertid viktig å presisere et par ting: 
+I normal sitteavstand og på TV-er som er mellom 32 og 50 tommer store, har vi nemlig sett mange eksempler på at folk bommer grovt når de skal tippe oppløsningen til å være 720P eller 1080P. 
+Derfor ser vi ikke noe stort poeng i å rynke på nesen av at den ikke takler 1080P, selv om vi fra naturen sin side er disponert til å tenke at jo høyere oppløsning, jo bedre. 
+
+Film i fokus 
+
+Filmleie står altså sentralt, og du kan se trailere av filmene før du eventuelt leier dem. 
+Du får også se trailere av filmer som går på kino eller som kommer til kino i nær framtid: 
+
+Det tar bare noen ganske få sekunder fra du trykker på Play-knappen til videoen er i gang. 
+Kvaliteten er overbevisende, men mangelen på norske tekster på de fleste filmene vil nok plage mange - så her får vi håpe på en forbedring etterhvert. 
+
+Det gjelder også utvalget. 
+I forhold til Viaplay, SF Anytime og andre etablerte filmleietjenester, er nemlig utvalget foreløpig magert, og begrenset til noen ganske få hundre filmer. 
+Likevel er altså mange av de siste nyhetene på plass, og det er selvfølgelig det viktigste for mange. 
+
+Du får naturligvis også tilgang til annet materiale fra Internett, deriblant YouTube: 
+
+Og du kan få tilgang til filmer, musikk og bilder som du har liggende på PC-en eller Mac-en din: 
+
+Sistnevnte krever imidlertid at du bruker iTunes på PC-en, og at du har skrudd på hjemmedeling: 
+
+Da kan du bla deg gjennom mediebibliotekene dine, og spille av det du måtte ønske. 
+For eksempel musikk og film du har kjøpt i iTunes Store, håper Apple: 
+
+Dårlig formatstøtte 
+
+Formatstøtten, spesielt på video er imidlertid et stort ankepunkt for iTunes, og du må til å konvertere MKV-, WMV- og DivX-materiale du måtte få lyst til å spille av. 
+Og verst av alt; iTunes har ikke innebygd støtte for slik konvertering. 
+Da må du bruke tredjepartsprogrammer, som for eksempel Handbrake. 
+
+Forstå det den som kan. 
+
+Men så: 
+AirPlay. 
+Her skinner Apple TV 
+
+Man kan altså hente innhold fra Internett og fra iTunes-biblioteket, altså typisk "pull"-teknikk. 
+Det som kanskje er det morsomste med Apple TV er derimot at den også støtter "Push"-teknikk via en protokoll som heter AirPlay. 
+Sitter du med PC-en i fanget og blar i iTunes-biblioteket, kan du enkelt velge å sende musikken til Apple TV - trådløst. 
+Du kan spole og styre som du selv ønsker på PC-en, men lyden kommer altså gjennom TV-en eller musikkanlegget du har koblet Apple TV mot. 
+
+Push fra iPhone og iPad 
+
+Aller morsomst er AirPlay-støtten dersom du har en iPhone, iPad eller Mac. 
+For funksjonaliteten er gjennomsyret i disse produktene. 
+Hvis jeg for eksempel surfer på nettet med min iPad, og kommer over en morsom video, kan jeg bare velge å overføre videoen til Apple TV, og se den der. 
+Da sender jeg egentlig bare adressen til videoen, slik at Apple TV kan streame den direkte, og ikke via iPaden. 
+Dermed forsvinner én flaskehals. 
+
+Har jeg Spotify installert på telefonen, kan jeg gjøre det samme med musikken, altså pushe den til Apple TV, samtidig som jeg har full kontroll på styringen, enten via telefonen eller via fjernkontrollen: 
+
+Og det er da det begynner å bli riktig morsomt. 
+
+Med en iPad 2 og iPhone 4S blir det enda litt morsommere. 
+Da har jeg nemlig mulighet til å "speile" innholdet på skjermen - direkte til TV-en. 
+Hvis jeg vil kjøre en demonstrasjon av noe, eller surfe på nettet sammen med resten av familien, er dette en metode som faktisk kan eliminere behovet for å ha en datamaskin koblet til TV-en. 
+
+Og i motsetning til veldig mange andre, velmenende funksjoner på konkurrerende apparater, er denne - og de andre funksjonene på Apple TV svært stabile og raske. 
+Alle funksjonene har garantert blitt terpet og terpet og terpet på til de fungerte tilnærmet optimalt. 
+
+Og her har vi kanskje den aller største forskjellen på hvordan Apple jobber med produktene sine i forhold til konkurrentene: 
+I valget mellom å støtte "alt" eller lite, velger Apple sistnevnte, og perfeksjonerer det slik at folk kjøper produktene likevel. 
+
+Konklusjon 
+
+Apple TV er en kjempemorsom, stabil mediespiller med klare begrensninger. 
+Den er aller morsomst for eiere av andre Apple-produkter, ja, med dagens spede video-utvalg vil den øvrige funksjonaliteten rett og slett bli for tynn til at vi vil gi noen anbefalinger til alle dere andre. 
+
+En femmer til produktet dersom du har Apple-produkter fra før, og en treer dersom du ikke har det, eller har planer om det. 
+Det skulle vel bli en firer totalt? 

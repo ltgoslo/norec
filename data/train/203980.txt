@@ -1,0 +1,93 @@
+Er dette verdens sikreste trådløse ruter?
+Har innebygde sikkerhetsprogrammer som fjerner truslene før de ankommer PC-en, mobilen og de andre dingsene dine. 
+
+Virus, phishing, utpressingvare og annen skadevare: 
+Datasikkerhet blir stadig mer komplekst, og nesten daglig hører vi historier om nye og stadig mer utspekulerte angrep både her hjemme og andre steder i verden. 
+
+Samtidig får vi stadig flere dingser. 
+Det er ikke lenger nok å bare beskytte PC, nettbrett og mobiler. 
+Tingenes internett er allerede en realitet, og TV-er, klokker, musikkanlegg, overvåkingskameraer og dørlåser kan være potensielle mål for kjeltringer og hackere. 
+
+Det er ikke lett å vite hva som skal til for å være trygg, så hvorfor ikke overlate sikkerheten til noen som virkelig kan det? 
+
+Ruter med sikkerhet for tingenes internett 
+
+Det finske sikkerhetsselskapet F-Secure har nettopp lansert sin første trådløse ruter, og modellen Sense tar sikte på å gjøre nettopp dette: 
+Ta seg av datasikkerheten i tingenes internett-hverdagen. 
+Derfor er den blant annet utstyrt med en omfattende sikkerhetspakke som effektivt stopper truslene før de når dingsene dine. 
+
+Dette er i seg selv ikke unikt, men F-Secure hevder at de går lenger enn konkurrentene. 
+Sikkerheten sitter nemlig ikke bare i ruteren, men også i nettskyen og på hver mobil og PC som har installert Sense programvaren/appen. 
+Sistnevnte sørger for sikkerhet selv når mobilene og PC-ene ikke er tilkoblet ruteren. 
+
+Trykker du på en lenke i nettleseren eller i eposten som leder deg til uhumske steder, blir sidene blokkert - og du får varsel om trusselen. 
+
+Sprettoppvinduer med skadelig innhold som aktiveres automatisk, lukkes uten at du merker det. 
+Kun loggen i mobil-appen, kan fortelle deg at ruteren har tatt seg av truslene uten at du har merket noe som helst. 
+
+Pen design 
+
+Selve ruteren er hvit og har et stående parallellogram-design som er pent nok til at vi ikke føler noen trang til å gjemme den bort. 
+Her er ingen utstikkende antenner, alle fire ligger på innsiden av boksen. 
+Dette, kombinert med klokken i displayet, gjør at den egentlig minner mer om en litt kul DAB-radio enn en ruter. 
+
+På baksiden sitter det tre gigabit LAN-porter for tilkobling av utstyr med nettverkskabler. 
+Her finner du også en WAN-port som du kobler til din eksisterende ruter eller til bredbåndsuttaket i boligen. 
+Velger du førstnevnte, må du sørge for at alle dingsene dine kobler seg av den eksisterende ruteren og til Sense. 
+Hvis ikke, vil de ikke være sikret av F-Secure. 
+Du kan også koble 
+Sense til den eksisterende ruteren trådløst, men den beste og mest stabile tilkoblingen er via en ethernet-kabel. 
+
+Det sitter også en USB-port på baksiden, men denne kan ikke brukes til noe annet enn å lade mobilen din foreløpig. 
+Fra F-secure får vi opplyst at denne kan komme til å få funksjonalitet senere. 
+Skriver- og lagringsdeling er typiske bruksområder. 
+
+Enkelt og raskt oppsett 
+
+Oppsettet skjer via Bluetooth fra en app på mobiltelefonen (Android/iPhone), og bortsett fra at alt skjer på engelsk, er oppsettet like enkelt som på de beste mesh-løsningene vi har testet i sommer og høst. 
+Underveis lastes siste oppdateringer til ruteren ned og installeres automatisk, og veiviseren forteller deg hele tiden hva som skjer. 
+Eksemplarisk! 
+
+Appen er ikke veldig omfattende, her er det kun de mest grunnleggende funksjonenene som er på plass, som endring av SSID, passord, sperre nettilgang til utvalgte enheter, valg av kanaler og så videre. 
+Istedenfor å bake funksjoner som for eksempel foreldrekontroll inn i ruteren, ligger dette i programvare du eventuelt kan installere på PC-en - og som kun gjelder lokalt. 
+Du kan med andre ord ikke sette opp foreldrekontroll som gjelder for mobiler og nettbrett. 
+
+Nå skynder vi oss å legge til at F-Secure har planer om å integrere flere funksjoner i ruteren etter hvert, blant annet VPN, foreldrekontroll og gjestenettverk. 
+
+Et stort pluss er at appen også gir beskyttelse for mobilen når den ikke er knyttet til Sense-ruteren. 
+Det gjør også programvaren til PC-en. 
+
+Ikke laget for store boliger 
+
+Hva så med dekningen? 
+Vårt hus på 250 kvadratmeter fordelt over tre plan ble i største laget for ruteren. 
+Joda, vi hadde dekning to etasjer ned - og i garasjen også, men hastigheten ble vesentlig svekket så snart vi forlot etasjen ruteren stod i. 
+Dette er med andre ord en løsning myntet på mindre boliger, for eksempel leiligheter og småhus på ett plan. 
+
+Diagrammene under viser målingene våre mot Internett via vår 160/160 Mbit-linje fra Get, sammenlignet med ruteren som i skrivende stund har de beste målingene i vår løpende test. 
+Som du ser klarer vi kun å utnytte kapasiteten så lenge vi befinner oss på loftet, der ruteren er plassert. 
+
+OPPDATERT: 
+Det er imidlertid viktig å huske på følgende: 
+TP-Link C5400 er i en helt annen klasse, både størrelses- og ytelsesmessig. 
+Den har blant annet åtte eksterne antenner. 
+Vi har begrenset sammenligningsgrunnlag med rutere i samme klasse som Sense, på nåværende testlokasjon. 
+En ruter som F-Secure Sense bør dessuten plasseres i midterste etasje for best mulig dekning overalt i en tre-etasjes bolig. 
+
+Konklusjon 
+
+Dette er en trådløs ruter som gir god sikkerhet til enhetene dine. 
+Den er svært enkel å sette opp og administrere, og byr på god hastighet så lenge du befinner deg i samme etasje og avstandene ikke blir for store. 
+
+Dessverre faller hastigheten raskt, så vi ville ikke valgt den til større boliger. 
+Det er heller ikke ruteren du velger hvis du er opptatt av avansert funksjonalitet og skreddersøm av disse. 
+
+Merk videre at du må betale for å fortsatt være sikret etter ett år. 
+Det koster i skrivende stund 1.188 kroner å fornye abonnementet. 
+Gjør du ikke det, faller det desidert sterkeste argumentet for å kjøpe denne ruteren bort. 
+Les mer om ruteren og abonnementet hos F-Secure. 
+
+Fra F-Secure får vi opplyst at ruteren blir å finne hos Power og Euronics i løpet av uken. 
+Den kan også kjøpes direkte fra F-Secure. 
+
+Trenger du noe som gir dekning i hver krinkelkrok av boligen din, bør du få med deg den ferske testen vår av mesh-løsninger. 

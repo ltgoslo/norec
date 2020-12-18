@@ -1,0 +1,94 @@
+HTC 7 Mozart
+Enda en Windows Phone 7-mobil? 
+Ja, sannelig. 
+Men fortsatt er den totale Microsoft-mobilopplevelsen ikke helt som den skal være for oss nordmenn. 
+
+Et tenkt referat fra mandagsmøtet hos den taiwanske mobilprodusenten HTC: 
+"Sorry, gutter og jenter, vi trenger enda en ny modell. 
+Det holder rett og slett ikke med de trehundreogførtifire mobiltelefonene vi allerede har på markedet." 
+
+Neida, vi tuller. 
+Litt. 
+HTC har nemlig en imponerende rekke smartmobiler i omløp, og de har for 
+
+Innholdsfortegnelse: 
+Nesten helt likeI brukPasse raskKamera: 
+Klønete utløserKonklusjon: 
+Midt på treeren 
+
+Mozart er den ene av disse to, Trophy den andre. 
+Den siste har vi allerede testet her. 
+
+Nesten helt like 
+
+De ytre forskjellene er ikke akkurat skrikende mellom de to modellene. 
+Trophy er ørlite større og tyngre enn Mozart, og der du for eksempel får 3.8-tommers skjerm på førstnevnte, kommer sistnevnte med en respektabel 3.7-tommer. 
+Oppløsningen er dog den samme (400x800 piksler), det samme gjelder prosessorhastigheten (1GHz), internminnet (8GB), og batterikapasiteten. 
+
+Designet er heller ikke helt ulikt, men noen små justeringer i blant annet ramma rundt skjermen, og, ikke minst, en distinkt bakside som blant annet er et resultat av mobilen er laget av ett stykke børstet aluminium, gir Mozart akkurat nok særtrekk til at den kan skilles fra sin marginalt eldre bror. 
+
+Kameraspesifikasjonene er derimot på Mozarts side, der du får et 8-megapikselkamera mot Trophys fem megapiksler. 
+
+I bruk 
+
+Vi har allerede gjort en omfattende test av Windows Phone 7 i denne artikkelen, men gjentar gjerne det vi har sagt flere ganger tidligere: 
+Microsoft er på sporet av noe bra, pent og funksjonelt, men mangler fortsatt for mange basisfunksjoner til at det kan sammenliknes med Android eller Apples iOS (som du finner på iPhone). 
+
+Det vi savner mest er muligheten til å kjøre flere program samtidig, i tillegg til blant annet klipp og lim, for ikke å snakke om full tilgang til Microsofts app-butikk, Marketplace, norsk tastatur og ordbok og enhetlig innboks for e-post. 
+
+Mozart presenterer WP7 omtrent så virtuost som en forventer av en smartmobil i disse dager, men den er ikke like fargesprakende og sprek på sortinivået som Samsung Omnia 7. 
+
+Samtalekvaliteten er bra, men vi kunne ikke unngå å legge merke til at høyttaleren er svært følsom for plassering. 
+Beveger du den bare ørlite(!) bort fra øret vil du volumet synke umiddelbart. 
+Dette er nok, som så mye annet, en vanesak, men vi la litt for ofte merke til volumsenkingen til at vi kan la være å nevne det. 
+
+Noen lurer garantert på hvorfor HTC har oppkalt mobilen etter selveste Wolfgang Amadeus med samme etternavn. 
+Det er naturligvis bare en gimmick, selv om det referer til lydformatstøtten for Dolby Mobile og SRS, som skal gi en slags "virtuell surroundlyd". 
+
+Passe rask 
+
+Da vi testet 7 Trophy, HTCs andre WP7-mobil, ble den sammenliknet med LGs første WP7-mobil - Optimus 7. 
+Der ble det dessverre tydelig for førstnevnte at LG har gjort en langt bedre jobb med å optimalisere maskinvaren. 
+
+Spesielt nettleseren avslører at HTC er bakpå, og med samme prosessor i Mozart er resultatet det samme. 
+Surfehastigheten er grei, men langt fra så rask som på LG Optimus 7. 
+
+Du vil derimot ikke merke hastighetsforskjellen spesielt mye mens du navigerer deg rundt mellom applikasjoner og menyer. 
+Microsoft har gjort en utmerket jobb med å effektivisere WP7, og er derfor ganske tolerant når det kommer til maskinvarens ytelse. 
+
+Kamera: 
+Klønete utløser 
+
+Med åtte megapiksler ligger ikke nødvendigvis alt til rette for at du får tatt bra bilder, det bare garanterer at bildene blir passe store. 
+
+Likevel, Mozart tar bra bilder, men kameradelen har én stor svakhet: 
+Du skal være svært stabil på hånda idet du trykker på utløserknappen. 
+
+Jeg kan knapt huske å ha tatt så mange uskarpe bilder som jeg har gjort med HTC Mozart, og det til tross for at den har autofokus. 
+Årsaken er rett og slett at utløserknappen er for stiv, slik at det oppstår små bevegelser i mobilhuset idet den trykkes helt ned (autofokusen aktiveres som vanlig ved å trykke knappen halvveis ned). 
+
+Treffer du derimot skikkelig blir bildene bra, men det er ingen automatikk i at de blir skarpe. 
+Spesielt innendørs, der lystilfanget ofte er altfor svakt for gode mobilbilder, blir denne vederstyggeligheten - et ord vi kun bruker for å tiltrekke oss 60-pluss-segmentet av våre lesere - altfor tydelig. 
+
+Ellers kan vi benytte anledningen til enda en gang å gjenta en av de irriterende, fundamentale filene med Windows Phone 7, nemlig at kamera-applikasjonen ikke husker endringer du gjør i innstillingsmenyen. 
+Setter du for eksempel videokvaliteten til HD vil det være glemt neste gang du aktiverer kameraet. 
+
+Videokvaliteten er derimot bedre enn gjennomsnittet, og selv om objektivet av og til sliter litt med fokuseringen er bildet som sådan bra. 
+
+Du kan se bilder tatt med kameraet her: 1, 2, 3, 4, 5. 
+Du kan se HD-video filmet med kameraet her. 
+
+Konklusjon: 
+Midt på treeren 
+
+Å teste Windows Phone 7-mobiler her til lands føles fortsatt litt rart. 
+Det er den mykeste lanseringen av et Microsoft-produkt i Norge noensinne, ettersom den amerikanske programvaregiganten i prinsippet ikke støtter WP7 i noen av de nordiske landene - og mange andre land, for den saks skyld. 
+
+Du får ikke uten videre tilgang til app-butikken, det finnes ikke norsk tastatur eller ordbok, og følelsen av å bruke en mobiltelefon som bare yter 80 prosent av den totale kapasiteten er også i dette tilfellet påtakelig. 
+
+Entusiastene som ikke klarer la være å hoppe på WP7-toget skal uansett gå for Samsung Omnia 7. 
+Den gjør en utmerket jobb med å formidle en skikkelig Windows Phone 7-opplevelse (til tross for de mange manglene), ikke minst på grunn av den strålende skjermen. 
+
+7 Mozart kommer derimot til å etterlate et betraktelig mindre fotavtrykk i historien enn mannen som ga mobilen navnet. 
+
+HTC 7 Mozart 

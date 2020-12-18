@@ -1,0 +1,54 @@
+Photology
+Dette gratisprogrammet lover å kunne indeksere bildene dine automatisk, basert på innhold. 
+Funker det i praksis? 
+
+Du har kanskje tatt noen tusen digitale fotografier de siste årene, men har du vært flink til å sortere, tagget og gitt dem relevante navn? 
+Hvis du svarer nei på det spørsmålet tilhører du sannsynligvis flertallet. 
+
+For svært mange digitalfotografer råder nemlig det totale kaos i bildesamlingen. 
+
+Det er her Photology kommer inn i bildet, bokstavelig talt. 
+Det lille gratisprogrammet lover nemlig å sortere bildene på måter som gjør de enkelt å finne tilbake til dem, uten at du behøver å foreta deg noe som helst. 
+Som utviklerne selv sier: 
+"No folders. 
+No tags. 
+It just knows". 
+
+Analyserer bildene 
+
+Hemmeligheten ligger i måten programmet indekserer bildene dine på. 
+Der andre programmer søker i informasjon knyttet til bildene dine, søker Photology i selve bildene. 
+Det betyr altså at innholdet må analyseres, og så lager Photology sine egne oversikter basert på dette. 
+
+I venstremenyen kan du enkelt filtrere bildesamlingen blant annet basert på ansikter, himmel, hav og strand. 
+Du kan også filtrere etter farger, tidspunkt bildet ble tatt, skarphet og en rekke andre valg. 
+
+Smalner inn utvalget 
+
+Det er heller ikke noe problem å kombine flere filtre samtidig, for eksempel kan du velge å vise kun bilder du tok i 2004, på kveldstid, og som inneholder både ansikter og planter. 
+Ved å kombinere filtre på denne måten skal du, i følge Enoetic, det amerikanske selskapet som står bak Photology, raskt kunne finne akkurat de bildene du er på utkikk etter. 
+
+I teorien høres dette helt fantastisk ut, men hvordan fungerer det i praksis? 
+
+Vårt prosjekt 
+
+Vi installerte programmet og indekserte en samling bestående av i overkant av 800 bilder med varierte motiver. 
+Selve indekseringen var unnagjort på et par minutter. 
+Deretter prøvde vi oss med forskjellige filtre, dessverre med svært variable resultater: 
+
+Enkelte av filtrene viste seg derimot å fungere bedre, som portrett, himmel, samt inne- og ute-bilder, men heller ikke her ble vi blåst av banen av presisjonen. 
+Her kan man riktig nok gå inn og tagge bildene i etterkant, men da er mye av vitsen borte, mener vi. 
+
+Filtrering basert på farger fungerte derimot langt bedre, og leter du etter bilder av det røde sengeteppet ser vi ikke bort fra at du vil finne det raskt: 
+
+Photology har også mer "vanlig" funksjonalitet, som bildevisning, enkel redigering og deling via Picasa Web Album og Flickr, utskrift med mer. 
+Grensesnittet er lettfattelig og responsen er god. 
+Vi likte spesielt muligheten til å fjerne røde blits-øyne (som er meget effektiv), samt automatisk justering av hvitbalansen. 
+
+Konklusjon 
+
+Photology er enkelt og raskt, men lover dessverre litt mer enn det klarer å holde. 
+Vi ser imidlertid på prosjektet som lovende, og regner med at algoritmene finpusses slik at treffsikkerheten øker mange hakk i fremtidige versjoner. 
+
+Photology kan installeres i Windows XP og Vista, og krever at du allerede har installert .NET framework 3.0. 
+Du finner mer informasjon og kan laste ned programmet fra denne siden (ca 12 MB). 

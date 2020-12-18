@@ -1,0 +1,139 @@
+Dell XPS M1730
+Med to grafikkort i SLI gir denne kraftpakken fra Dell deg noe av det råeste du får tak i av bærbar maskinvare her til lands. 
+
+Den første bærbare PCen vi tester i år er litt av et skue. 
+Dells XPS-serie er jo kjent for å være litt sprekere enn deres andre (og en del andres) modeller, og de store (17-tommerne) har alltid gjort noe ekstra ut av seg. 
+Og da mener vi ikke bare utseendemessig, også ytelsen har tradisjonelt ligget helt i toppsjiktet. 
+
+LES OGSÅ: 
+
+Vi nevner for eksempel XPS Gen 2 fra 2005, eller XPS M1710 fra 2006. 
+
+Den nåværende modellen kom i fjor (2007) og heter XPS M1730. 
+Som sine forgjengere har den det meste av det siste innen teknologi - om du da er villig til å betale for det. 
+Utseendet er det heller ikke noe å si på, XPS er som før en maskin som skiller seg ut i mengden. 
+Dens nærvær lyser bokstavelig talt opp omgivelsene. 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo T7500 @ 2,2 GHz 17,1" skjerm i bredformat (1920 x 1200 piksler) 2 GB DDR2-minne 320 GB harddisk (2 X 160 GB) (7200 rpm) nVidia GeForce 8700M GT 256 MB grafikk i SLI (to grafikkort) Ageia PhysX akseleratorkort 54 Mbps WLAN (a/b/g) Gigabit LAN 4 x USB, FireWire, IR, blåtann 1 ExpressCard/54 kortplass Kortleser for SD, MMS, MS/PRO, xD S-Video og DVI ut, lyd inn/ut DVD/CD-brenner Integrert webkamera og mikrofon Windows Vista Home Premium Dimensjoner (B/D/H): 
+40,7 x 30,5 x 5,6 cm Vekt 5,0 kilo Pris: ca. 22.000 inkl. mva. 
+
+Dell XPS M1730 er uten tvil rettet hovedsakelig mot gamere. 
+De to grafikkortene sitter i denne maskinen er noe av det heftigste som finnes innen bærbar grafikk i dag, og i SLI-modus er det ikke mange andre bærbare som kan hamle opp med dette råskinnet. 
+
+En annen ting vi nevner er PhysX-kortet fra Ageia, som kun er til nytte i spill - og langt unna alle spill. 
+Altså ikke noe vi normalt sett finner i bærbare datamaskiner. 
+
+Konstruksjon 
+
+Kvalitetsmessig har vi ikke så mye å si på M1730. 
+Den virker bunnsolid med god stivhet både i hovedchassis og lokk, og vi har på følelsen av at den tåler en trøkk. 
+Men vi ønsker på ingen måte å være hardhent med denne PCen, og med sine fem kilo er den uansett for tung til å kastes rundt. 
+Den er heller ikke akkurat tynn, og kommer 5,6 cm over bordflaten med lokket igjen. 
+
+Utseendemessig er overflatene blanke ("XPS"-merket pusseklut følger med) og i et varierende rastermønster av sorte prikker på sølvbakgrunn. 
+Tastaturet er også i sølv, og har dessuten et hvitt baklys som kan skrus av og på. 
+Når vi forresten er inne på lys: i god tradisjon har Dell puttet inn lys i både lokket, høyttalerene foran og touchpaden, og kommer med kontroller slik at du kan forandre fargen på disse. 
+Du kan også få de til å blinke i takt med musikken, pulsere ved epostmottak og så videre... 
+
+Bredskjermen er på hele 1920 x 1200 punkter, noe som gir godt med plass på skrivebordet. 
+Den blanke skjermen har god kontrast og farger, men vi skulle kanskje ønsket oss at den var en anelse mer lyssterk. 
+
+Øverst på skjermen finner du et 2,0 megapiksels webkamera og mikrofoner, noe som gjør det enkelt å føre videosamtaler over nett. 
+
+Siden XPSen er såpass høy er det godt at den har store og gode overflater å hvile håndleddene på. 
+Tastaturet har som nevnt bakgrunnsbelysning som kan slås på ved behov, og selvfølgelig numerisk keypad. 
+
+Vi er som regel godt fornøyd med tastatur og touchpad på Dells bærbare, og det samme gjelder her. 
+Litt svikt er det i tastaturet, men det er meget godt å skrive på. 
+Det bråker heller ikke nevneverdig, og på layouten er det lite - om noe - å sette fingeren på. 
+
+Touchpaden er merket med en XPS-logo som lyser, og du kan altså sette fargen selv. 
+Den er i bredformat og sensitiv, men vi kunne kanskje ha ønsket den litt høyere, spesielt med skrollefeltene aktivert. 
+De to knappene under er store og gode. 
+
+Det som likevel er helt nytt er den lille monokrome LCD-skjermen til høyre over tastaturet. 
+Denne gjør blant annet i stand til å for eksempel se bruk av systemrressurser når du spiller, overvåke epostkontoer eller bruke den som stoppeklokke. 
+
+Tilkoblingsmuligheter 
+
+X 
+PSens kontakter er plassert på sidene og bak. 
+Foran finner vi heldigvis kun, foruten medieknappene og høyttalerne på hver side, IR-mottageren. 
+Denne tar normalt i mot signalene fra den lille fjernkontrollen som får plass i ExpressCard/54-sloten når den ikke er i bruk. 
+
+På høyre side har vi den nevnte ExpressCard-sloten. 
+I tillegg er det en bryter som skrur blåtann og WLAN av og på, pluss en knapp som starter Wi-Fi Catcheren - en liten applikasjon som fort finner tilgjengelige nettverk. 
+Maskinens Wi-Fi Catcher kan også brukes når PCen er i hvilemodus eller avslått - men da får du bare greie på om det er nettverk i nærheten. 
+Lengst bak finner vi to USB-porter og plass for kensingtonlås. 
+
+Smart nok er det på venstre side at vi finner det optiske drevet. 
+I tillegg har vi DVI og S-Video ut, en USB-kontakt, 4-pins FireWire og minnekortleseren. 
+Lengst framme er et to ut- og en inngang for lyd. 
+
+Bak er det satt av mye plass for utlufting, men her er det også heldigvis gjort plass til støminntak, en USB-kontakt og nettverkskontakt. 
+
+Ytelse 
+
+XPS M1730 har en prioritet, og det er altså spillytelse. 
+Men det er på ingen måte den eneste "gaming-notebooken" på markedet. 
+Toshiba har for eksempel sin Satellite X200 og HP stiller med 20-tommeren HDX9050EO hvis du ikke har noe i mot en litt større og tyngre maskin. 
+
+Vi har også sammenlignet med forgjengeren XPS M1710. 
+
+Ytelse i PCMark05: 
+
+PCMark05 viser at denne maskinen ligger foran konkurrentene på alle plan bortsett fra grafikkdelen. 
+I motsetning til de fleste spill klarer ikke PCMark05 å utnytte de lenkede grafikkortene. 
+
+De to harddiskene i RAID 0 (striping) gir også tydelige resultater. 
+
+Ytelse i 3DMark05 og -06: 
+
+(Dell XPS M1710 ble aldri testet med 3DMark06) 
+
+3DMark demonstrerer hva som SLI kan gjøre ved optimale forhold, her stiller XPS M1730 i en annen klasse enn de andre. 
+
+Batterilevetid og støy 
+
+Batterilevetid er i de aller fleste tilfeller ikke noe stort kapittel for kjøpere av PCer til fem kilo - dette er ingenting du drar rundt på vanligvis. 
+Og har du planer om det, husk at du trenger en bæreveske/ryggsekk som er litt større enn standard... 
+
+Våre batterimålinger holdt til litt over halvannen time med BatteryMark, som tilsvarer kontinuerlig bruk med mindre krevende oppgaver. 
+Dette er omtrent det samme som vi fant på HPs HDX9050EO. 
+Toshibaen holder på sin side en halv time lenger, mens den gamle XPSen klarte en hel time mer. 
+Men den hadde heller ikke to grafikkort og to harddisker. 
+
+Dell XPS M1730 blir, ikke overraskende, god og varm under belastning, men dette gjelder den bakre delen av maskinen - du sitter ikke med denne på fanget og spiller. 
+Selve tastaturet og håndleddsstøtten blir ikke nevneverdig varme, og har heller ingen "hotspots", det vil si spesielt varme områder. 
+
+Maskinen summer og hummer litt med sine to harddisker, og viftene spinner opp litt ved belastning, og i intervaller når maskinen først er varm. 
+Det er merkbart, men ikke akkurat plagsomt siden utluftingen er på baksiden av maskinen. 
+Sett i betraktning av hvor mye strøm denne maskinen krever er støyninvået slett ikke galt. 
+
+Vurdering og konklusjon 
+
+Dell XPS M1730 med sin høyoppløste skjerm og rå ytelse kan ikke beskrives som noe annet enn en portabel gaming-PC. 
+Den er også kapabel til enhver annen jobb du skulle ha liggende, enten det være seg videoredigering eller kontorarbeid. 
+Men det er uten tvil at det er for spilling at denne maskinen er skapt. 
+
+Men det er et par ting å merke seg. 
+De to nVidia GeForce 8700M i SLI gir maskinen mye krefter, men faktum er at dette ikke virker like godt med alle spill. 
+Og selv om SLIet skulle fungere optimalt vil ikke kreftene holde til høye detaljnivåer i skjermens fulle oppløsning (1920 x 1200 piksler) på de mest krevende spillene - men det er også noe selv de kraftigste stasjonære gaming-PCene sliter med. 
+
+En annen ting vi nevner er ønsket om at Dell la litt mer krefter i utviklingen av grafikkdriverne. 
+De offisielle driverne fra september i fjor er ikke akkurat de mest stabile vi har vært borti. 
+Vi installerte deres "Performance Driver" (ikke gjennomtestet av Dell), som riktignok var bedre, men heller ikke denne er helt uten problemer. 
+
+I tillegg er det er litt vanskelig å se M1730 som en normal bærbar PC. 
+En "laptop" med 17,1-tommers skjerm er drøy fra før, og føles virkelig stor når matchvekten er på fem kilo og strømforsyningen legger på halvannen kilo til. 
+Dette er ikke noe du normalt sett bærer rundt på. 
+
+Derfor må du spørre deg selv (ja, vi har nevnt dette et par ganger nå) om du egentlig ikke heller burde legge pengene i en stasjonær OG en bærbar PC. 
+For 20.000 kan du nemlig plukke opp en stasjonær PC med enda bedre ytelse, og samtidig ha nok til en god bærbar - og da mener vi en langt lettere og mer praktisk sak. 
+
+Er du på den annen side avhengig av en kraftpakke som lett kan gjemmes unna eller tas med, er det få andre løsninger som kan gi deg like god bærbar PC på alle plan. 
+Toshiba Satellite X200 og HPs store HDX9050EO er noe billigere alternativer, men kan ikke måle seg innen spillytelse - i det minste ikke så lenge SLIet fungerer. 
+
+Dell XPS M1730 ligger på vippepunktet, men ren grafikkmessig råskap setter til slutt karakteren til en svak femmer på terningen vår. 

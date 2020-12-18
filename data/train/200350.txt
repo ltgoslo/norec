@@ -1,0 +1,39 @@
+NAPA PA24
+Den ser ut som en vanlig minneplugg, men i praksis er denne lille enheten både MP3/WMA-spiller med kapasitet nok til 2-4 CD-plater, eller en ekstern lagringsenhet med 128 MB kapasitet. 
+
+Minneplugger blir av mange omtalt som en naturlig erstatter for den gamle disketten. 
+Vi har omtalt produktene ved flere anledninger, og vi har blant annet også demonstrert dem på God Morgen Norge på TV2. 
+Nå dukker det stadig opp kombinerte minneplugger/musikkspillere, og denne lille saken fra Napa er en av de tøffeste vi har sett. 
+
+Fjærlett 
+
+Selve enheten er ikke større enn en lighter, og veier uskyldige 31 gram. 
+Den leveres med ørepropper og en praktisk snor som lar deg henge den som et kjede rundt halsen. 
+Her er også ledningene til øreproppene festet, slik at alt er samlet på ett sted. 
+
+Spilleren kan kobles direkte til en ledig USB-port, eller via den medfølgende kabelen. 
+Den skal i neste øyeblikk dukke opp som en egen disk i Windows XP. 
+Dette skjedde ikke for oss, vi var nødt til å installere driverne som fulgte med på CD. Uansett var dette en smertefri operasjon, og etter noen sekunder var vi klar til å overføre MP3-filene våre til den nye stasjon F: 
+
+Selve overføringen gikk ganske tregt; det tok ca 12 sekunder å overføre en fil på 5 MB på vår test-PC. 
+Selv om enheten kun støtter USB1.1, er dette langt tregere enn hva som teoretisk er mulig for standarden. 
+
+Lader via USB 
+
+Mens spilleren er tilkoblet PCen, lades samtidig batteriet. 
+Også Mac 9.2 og nyere støttes. 
+Det følger for øvrig også med en lader som kobles direkte til strømnettet. 
+Batteriet har for øvrig en oppgitt levetid på rundt 5 timer. 
+
+Når filene er overført er det bare å koble enheten fra porten, sette på hetten over USB-pluggen, koble til øretelefonene og trykke på Play-knappen. 
+Du kan skifte spor, repetere og justere lyden på selve spilleren. 
+Det er dessverre ikke noe display som viser sportittel og nr. 
+
+Her er for øvrig ingen bevegelige deler, så løsningen er ideell for deg som er i aktivitet. 
+
+De medfølgende øreproppene er av rimelig bra kvalitet, men for entusiaster vil nok standard øretelefoner være å foretrekke. 
+
+Napa PA24 koster veiledende 995 kroner. 
+En enklere utgave uten oppladbart batteri (PA22)koster 895 kroner, mens en mer avansert utgave med LCD-skjerm (PA26) koster 1.295 kroner. 
+Priser oppgitt med mva. 
+Norsk distributør er Freshtech. 

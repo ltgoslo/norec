@@ -1,0 +1,95 @@
+BenQ DC T700
+TEST: 
+Syltynt med 3" berøringsvennlig skjerm - joda, kameraet fra BenQ frister ved første øyekast. 
+
+De fleste kjenner BenQ som en av de store produsentene på LCD-monitormarkedet. 
+
+BenQ har imidlertid også produsert digitale kameraer en stund, og for drøye to år siden, testet vi en BenQ-modell. 
+
+Dagens eksemplar er en av BenQs ypperste modeller; DC T700. 
+Vi gjetter at T står for "Touch screen" og at 7-tallet står for antall megapiksler; i hvert fall stemmer det overens med spesifikasjonene for dette kameraet. 
+
+Stor, berøringsvennlig skjerm 
+
+Det er nemlig den store skjermen som står i sentrum på dette kameraet - den måler 3" diagonalt og har en oppløsning på 230.000 piksler, men viktigst: den er berøringssensitiv. 
+Det betyr at det er svært få knapper på T700. 
+Det eneste du finner er av og på-knapp, utløserknapp, zoombryter, avspillingsknapp og menyknapp. 
+Resten bruker du skjermen for å stille inn. 
+
+Objektivet er laget av Pentax; et 3x zoomobjektiv med brennvidde tilsvarende 37,5mm-112,5mm; altså ingen god vidvinkel å snakke om. 
+På vidvinkel er objektivet blant de mest lyssterke, med f/2,7 som største blender, mens den er nede på f/5,2 fullt innzoomet, som ikke er et spesielt godt tall. 
+Makronærgrensen er lite å skryte av med sine 15cm. 
+
+Størrelsesmessig minner kameraet veldig om Casios Exilim S-serie (Test av EX-S770); bare 14,9mm tykt og dermed veldig lommevennlig. 
+Faktisk er kameraet det tynneste kameraet på markedet med berøringsvennlig skjerm. 
+
+CCD-sensoren er av den minste sorten, 1/2,5", og har en oppløsning på 7,2 megapiksler. 
+Kameraet tillater også ISO-verdier opp til 1200, og har i tillegg en nattmodus på filminnspillinger som bruker ISO 4000. 
+Filmingen skjer for øvrig med oppløsning opp til 640x480 og 30 bilder pr sekund, med MPEG4-kompresjon. 
+Du får en smakebit på filmkvaliteten her: 
+
+I bunnen av kameraet ligger batteri og minnekort gjemt bak et lokk, og batteriet har en ekstra sikkerhetspinne for å holde det på plass. 
+
+Brukervennlighet 
+
+Den berøringssensitive skjermen er ganske velkommen på denne type kamera. 
+Mens det nevnte Casio-kameraet fort ble knotete å betjene fordi det var så tynt, løses dette greit med den berøringsvennlige skjermen. 
+
+Menystrukturen tar litt tid å venne seg til, men føles logisk etter hvert. 
+Det vi imidlertid setter en finger på, er at menyene enkelte ganger krever unødig mange tommeltrykk. 
+Det føles unødvendig at vi først må trykke på kameraikonet, deretter på kameraikonet en gang til, deretter på filmikonet og deretter bli presentert med en ny side som forklarer filmikonet, der vi må trykke OK for å bekrefte. 
+
+Ellers synes vi betjeningen fungerer greit - menyene responderer raskt, men kunne gjerne ha sett litt penere ut (grå firkanter og fargeløse ikoner er ikke så spennende). 
+
+Funksjoner 
+
+Kameraet er ikke spesielt godt utrutstet på funksjonsfronten, og det har ingen manuelle innstillingsmuligheter utover at du kan justere ISO-verdien. 
+Kameraet har "bildestabilisering", som BenQ kaller S.S.F., men som ikke gjør annet enn å kjøre ISO-verdien i været. 
+
+Under avspilling er det et par tilleggsfunksjoner der du kan tegne med fingeren på bildet, sette på en av sju rammer, eller stemple bildet med et dusin små ikoner, men det er ikke noe vi jubler spesielt høyt for. 
+
+Ytelse 
+
+BenQ får ikke skryt for ytelsen på dette kameraet. 
+Oppstartsiden er på drøye fire sekunder, og det er lang venting; spesielt når objektivet bare bruker ett sekund på å komme ut av huset. 
+5 bilder på 10 sekunder er heller ikke spesielt imponerende. 
+
+I tillegg er autofokusen treg, og kameraet har også en utløserforsinkelse som er i tregeste laget. 
+Batterilevetiden på 200 bilder etter CIPA-standarden er også under middels. 
+
+Bildekvalitet 
+
+Tregt eller ikke - til syvende og sist havner bildene på PC eller papir, og da er det kvaliteten som teller mest. 
+
+Og, la oss kalle en spade for en spade: bildene fra BenQ 
+DC T700 er ikke spesielt gode, i hvert fall dersom du har tenkt til å se dem i på full skjerm eller skrive ut i A4-format eller høyere. 
+Det kommer først og fremst av at støyprosesseringen er ALT for aggressiv, og detaljer er vesentlig redusert allerede på ISO 80 (!), som du ser et eksempel på under: 
+
+En ting som overrasket noe, dog, var at lysmåleren i fleste tilfeller er ganske habil. 
+Det ser nemlig ikke slik ut på kameraskjermen, som viser et alt for overseksponert bilde. 
+Overraskelsen var ganske stor da vi så bildene på PCen og så at vi faktisk hadde fått ganske god himmel selv om den så hvit ut på kameraskjermen - forskjellen var i enkelte tilfeller enorm. 
+Kameraet har dog enkelte problemer med hvitbalansering - et par av utendørsbildene våre har fått et lite rosaskjær over seg som ikke burde ha vært der. 
+
+Objektivet scorer godt på kromatisk feilbrytning, som er ganske moderat på T700. 
+Derimot blir skarpheten ut mot kantene betydelig redusert ved vidåpen blender, og vignetteringen er tydelig ved blitsbruk. 
+Det samme gjelder tønneforvrengning på vidvinkel. 
+
+På høye ISO-verdier ser det slik ut ved 100%: 
+
+Bildene taler for seg selv - her er det særdeles dårlig med detaljer. 
+
+Med andre ord 
+- BenQ T700 har en bildekvalitet som vil være grei på 10x15-utskrifter, men på visning på skjerm eller utskrifter i større format, blir detaljnivået påfallende dårlig. 
+
+Konklusjon 
+
+BenQ T700 er et lite og lekkert kamera som er veldig tynt, og dermed praktisk å ha med i lomma. 
+Betjeningskomforten er allikevel god, mye takket være en stor, berøringssensitiv skjerm. 
+
+Men, det holder ikke når bildekvaliteten er laber. 
+Støyfjerningen fjerner alt for mange detaljer i bildet, og forstørrelser utover 10x13cm er ikke å anbefale. 
+I tillegg er kameraet tregt i bruk; både autofokus og oppstartstid er blant det dårligere på markedet i dag. 
+Kameraet har heller ingen avanserte funksjoner, og batterilevetiden på 200 bilder er noe beskjedent i dagens kameramarked. 
+
+Markedet er tøft, og i denne prisklassen finner vi mange kameraer som er langt bedre. 
+Det blir derfor med forsøket denne gangen for BenQ - her må det forbedringer til. 

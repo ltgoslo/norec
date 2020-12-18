@@ -1,0 +1,58 @@
+Acer K10
+TEST: 
+Den bittelille projektoren veier en halv kilo, og lager et fint 64-tommers bilde fra 2,7 meters avstand. 
+
+Utviklingen på projektorfronten står ikke stille, selv om kategorien fikk seg en alvorlig knekk da flat-TVene ble så billige at de ble allemannseie. 
+Spesielt markedet for hjemmekino-projektorer har falt som en stein de siste årene. 
+
+Nå er det ikke akkurat hjemmekino-entusiastene som stod i hovedfokus hos Acer, da de utviklet miniprojektoren K10, men vår lille test avslører at den faktisk klarer seg overraskende bra i flere sammenhenger enn til Powerpoint-presentasjoner på møterommet. 
+
+Se så liten! 
+
+For det er klart at K10 er som skapt for mobile brukere som haster fra møte til møte. 
+Den måler nemlig bare 127 x 122 x 
+48.5 mm og veier en knapp halvkilo. 
+Det betyr at har man en litt romslig PC-veske, så får man plass til både en liten bærbar og projektoren. 
+Hvem hadde trodd det for bare få år siden? 
+
+Hemmeligheten ligger i at projektoren bruker LED-lys, som blant annet utvikler langt mindre varme enn tradisjonelle projektor-lamper. 
+Dermed kreves mindre lufting, og man kan klare seg med mindre chassis enn for tradisjonelle projektorer. 
+
+En annen fordel med LED-lampen er at den varer lenge. 
+Acer hevder at lampen i K10 skal vare i inntil 20 000 timer. 
+Det betyr i praksis at de fleste som kjøper en slik projektor, ikke kommer til å bytte lampe i projektorens levetid. 
+
+Ulempen ligger først og fremst i at LED-lyset ikke er like sterkt som fra tradisjonelle projektor-lamper. 
+Det betyr at kontrastene avtar raskere jo større bilde du ønsker å projisere på veggen eller lerretet. 
+
+64-tommer 
+
+I et møterom med normal belysning bør du ikke bruke K10 på større avstander enn halvannen meter, og da får du et bilde som tilsvarer en kurant, stor flatskjerm. 
+Men i vår lille test dempet vi belysningen, og fikk et klart 64-tommers bilde på beskjedne 2,7 meters avstand. 
+
+Kontrasten var riktig nok langt fra optimal i de mørke scenene, men i de lysere scenene var det imponerende bra bilde, til tross for at veggen vi kjørte bildet mot verken var helt hvit eller på noen som helst optimalisert for projektorer. 
+
+Hva med oppløsningen? 
+
+Mange er opptatt av oppløsningen, og her stiller ikke K10 i toppen med sine 858 x 600 piksler. 
+Men husk at en DVD-film har en oppløsning på 720 x 576 piksler, så her vil det uansett ikke være noe å hente ved å ha høyere oppløsning - med mindre du spiller av HD-materiale eller et oppskalert DVD-bilde. 
+
+Hvis det er en PC du kobler til, vil bildet automatisk bli "komprimert", slik at det ikke er noe problem å kjøre PowerPoint-presentasjoner og lignende som er tilpasset høyere oppløsning - helt inntil 1 440 x 900 piksler. 
+Det ser faktisk helt greit ut, synes vi. 
+
+Lite støy 
+
+Inni K10 sitter det et par små vifter, og de starter umiddelbart etter at projektoren er skrudd på, men oppleves kun som svak susing i bakgrunnen som overdøves lett av lyden fra musikkanlegget, ikke som plagsom støy. 
+Acer oppgir at støynivået ligger på 28 dB. 
+
+Bildet fra kilden (enten VGA eller kompositt analog) dukker opp etter få sekunder, og ved hjelp av en skrue i fronten jekkes K10 opp og ned. 
+Bildet korrigeres deretter automatisk vertikalt i forhold til veggen. 
+Rett over frontlinsen sitter en spak som du vrir på for å justere bildet skarpt. 
+
+Konklusjon 
+
+Dette produktet ble straks en "snakkis" i redaksjonslokalene, og etter at vi hadde kjørt en kjapp demonstrasjon for kollegene, var det flere som umiddelbart ønsket seg et eksemplar. 
+Kanskje K10 og lignende ideer er hva som skal til for at projektorer skal finnes i butikkhyllene også i fremtiden? 
+Vi er i hvert fall imponert. 
+
+Hvis du ønsker flere tekniske detaljer, finner du en grei oversikt på denne siden hos Acer. 

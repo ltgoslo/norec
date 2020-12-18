@@ -1,0 +1,123 @@
+Apple MacBook Air 13" (2013-utgaven)
+Den la grunnlaget for en ny tidsregning for bærbare PC-er. 
+Nå har den kommet i ny utgave med fantastisk batteritid. 
+Vi har testet. 
+
+Den første Macbook Air rystet markedet for bærbare datamaskiner da den entret arenaen i 2008, med sin utrolig slanke og robuste innpakning. 
+På den tiden var ultrabook-segmentet fortsatt ikke påtenkt, et segment der MacBook Air i praksis definerte selve malen. 
+
+I 2013 er ikke det like oppsiktsvekkende å se slike tynne, lette og robuste datamaskiner som MacBook Air. 
+Og i likhet med mobilmarkedet har konkurrentene lansert produkter som spesifikasjonsmessig langt overgår Apple. 
+Men så var det dette med helheten og bruksfølelsen da, og der bruker Apple ofte å være i førersetet. 
+
+Mye nytt på innsiden 
+
+Den nye MacBook Air har noen åpenbare fordeler i forhold til forrige generasjon. 
+For det første er den basert på siste generasjon Intel-prosessor og tilhørende brikkesett, kodenavn Haswell. 
+Den store fordelen med den er svært mye mindre strømbruk, spesielt når belastningen er lav. 
+Den integrerte grafikken (Intel HD 5000) har også inntil 40% bedre 3D-ytelse enn forrige generasjon. 
+
+For det andre har Apple byttet ut batteriet med et langt kraftigere eksemplar, uten at det har påvirket vekten på maskinen - den er fortsatt behagelige 1,3 kg (gjelder 13-tommeren, 11-tommeren er lettere). 
+Det skal ifølge Apple selv ha forbedret batteritiden fra 7 timer til hele 12(!) timer med variert bruk, og 10 timer med kontinuerlig videoavspilling gjennom iTunes. 
+Det vil i såfall parkere alt av ultrabooks på markedet, men det er ikke sikkert det varer så lenge. 
+MacBook Air er nemlig blant de første på markedet som er basert på Haswell-teknologi. 
+
+For det tredje er maskinen utstyrt med et 802.11ac-nettverkskort. 
+Det åpner for svært mye høyere hastighet via trådløst nett, hvis du har en trådløs AC-ruter, riktignok. 
+Det har du neppe hvis du ikke ikke nettopp har gått til anskaffelse av ny ruter og har valgt en i høyere prisklasse. 
+Les mer om AC-teknologien her. 
+
+I tillegg har maskinen fått raskere SSD (fortsatt mSATA, ble vi fortalt av Apple under en demo nylig, ikke PCIe som enkelte medier har påstått) 
+
+Også mye likt 
+
+Det er altså på innsiden de store forbedringene er gjort denne gangen, på utsiden ser maskinen mer eller mindre identisk ut med forgjengeren. 
+Her får du to USB 3.0-porter, en minijack med kombinert lyd ut/inn, kortleser for SD-kort, samt en kombinert mini-DisplayPort/Thunderbolt-utgang. 
+Sistnevnte er en høyhastighets kommunikasjonsport mot eksternt utstyr, deriblant lagringsenheter og skjerm. 
+
+Det er imidlertid ikke til å stikke under en stol at vi savner en HDMI-utgang, eller i det minste en overgang fra DisplayPort til HDMI. 
+Dette må du eventuelt gå til innkjøp av selv. 
+
+Selve kabinettet er fortsatt av børstet metall fra innerst til ytterst, av typen som ikke viser fingeravtrykk eller fettflekker. 
+Alle tilkoblingene sitter på sidene. 
+
+Vi har stor sans for at strøminntaket holder pluggen på plass ved hjelp av en magnet. 
+Skulle noen være så uheldig å snuble i kabelen, er sjansen minimal for at noe blir ødelagt, og det vil eventuelt alltid skje i kabelen og ikke inni maskinen. 
+
+Tastaturet er blant de aller fasteste og beste vi har testet. 
+Det avgir litt lyd under tasting, men ikke mye. 
+Det er forresten baklyst, som seg hør og bør i denne klassen. 
+
+Ikke HD-oppløsning 
+
+Skjermen har god innsikt fra sidene, overflaten er blank og panelet har en oppløsning på 1440 x 900 piksler. 
+Det er den samme skjermen som i fjorårets modell, og det vil nok skuffe mange. 
+I denne prisklassen er det lov å forvente skjermer med full HD-oppløsning nå, mener vi. 
+
+Merk imidlertid en ting: 
+Skjermen på 13" har et høyde-breddeforhold som er litt annerledes enn på de fleste konkurrentene. 
+Det finnes knapt PC-skjermer med 1440 piksler i bredden, det vanligste er 1366 x 768 piksler, altså 74 færre piksler i bredden, og 132 færre piksler i høyden. 
+De fleste programmer, nettsider og dokumenter er laget for vertikal skrolling, og da kommer de ekstra pikslene i høyden til sin rett. 
+Men uansett ville full HD gitt ytterligere 180 piksler til i høyden, og ville definitivt vært å foretrekke. 
+
+Rask og musestille 
+
+Fra du skrur på maskinen til du er inne i OSX tar det 12 sekunder. 
+Det er raskt, selv om vi har testet PC-er som har vært et par sekunder raskere. 
+De har imidlertid hatt lite å stille opp med mot MacBook Air når det gjelder å våkne opp fra dvale. 
+Du lukker lokket, og neste gang du åpner det igjen er maskinen klar på ett sekund, det vil si umiddelbart. 
+
+Maskinen oppleves som rask og fin i nær sagt alle sammenhenger, også med flere programmer kjørende samtidig. 
+Med mindre du har ekstreme krav hva angår rå datakraft (som høyoppløst 3D-spill, tung konstruksjon og modellering), er dette en maskin som dekker alle behov. 
+
+Viftestøy er et ikke-tema, maskinen er i 95% av tilfellene fullstendig lydløs. 
+Ja, med mindre du spiller musikk eller film, da. 
+Et par enkle høyttalere er det her, lyden er helt grei til enkel bruk, men ikke forvent allverdens av bass og dynamikk. 
+Her er det flere som er bedre enn Apple akkurat nå. 
+
+OSX eller Windows? 
+Eller begge deler? 
+
+Merk også at MacBook Air kan utstyres med Windows 7/8, hvis det skulle være ønskelig. 
+For mange er det som å banne i kjerka, men for andre (skribenten inkludert) er denne muligheten både ønskelig og nødvendig. 
+OSX er både brukervennlig og lekker, men det passer ikke for alle, ei heller kan OSX skilte med samme utvalg av gratisprogrammer som Windows, selv om man får det aller, aller meste hvis man tar seg tid til å lete litt (les: 
+Ikke noe voldsomt problem). 
+
+Det er heller ikke feilfritt, om du skulle tro det. 
+I løpet av testperioden har vi opplevd at nedlasting av filer ikke fullføres gjennom Safari, midlertidige filer som har fått årstallstempel 1984, og da vi ved et uhell tastet feil passord i nettverkskoblingen fikk vi ikke noe spørsmål om nytt passord eller noen åpenbar mulighet til å nullstille. 
+Og lager du en ZIP-fil med noen dokumenter, inkluderes en skjult mappe med småfiler og mapper, uten at du har bedt om det. 
+Det er slike småting man som primær Windows-bruker kan undre seg over, på samme måte som Mac-brukere undrer seg over mye rart i Windows. 
+
+En stor fordel med MacBook Air og OSX er uansett at den kommer levert med utelukkende Apple-programvare, alt er optimalisert med tanke på den øvrige funksjonaliteten - og du slipper å forholde deg til demoer og antivirusprogrammer som i mange tilfeller drar ned totalopplevelsen på nye Windows PC-er. 
+OSX er fortsatt også langt mindre utsatt for virus enn Windows, selv om en del andre trusler eksisterer i begge leire. 
+Her utgjør ofte det som sitter mellom skjermen og stolen den aller største av dem. 
+
+Uansett: 
+Hvis du har et behov for å bruke Windows men ønsker å gå for en MacBook Air neste gang, ville vi vurdert å kjøre Windows i en virtuell PC, for eksempel ved hjelp av Vmware eller Parallells. 
+Det gir ikke den beste ytelsen, men den klart mest fleksible løsningen. 
+
+Og så var det denne batteritiden, da. 
+
+Vi kjørte vår sedvanlige 720p-testvideo som vi har kjørt i hundrevis av PC-tester, om og om igjen i iTunes, til batteriet gikk tomt. 
+Det var ikke gjort i løpet av arbeidsdagen. 
+
+Hele 11 timer og 53 minutter tok det før maskinen omsider sluknet. 
+Det er nesten to timer mer enn hva Apple selv oppgir, og den desidert beste batteritiden vi har målt ved videoavspilling noensinne. 
+
+Vi gjør oppmerksom på at vi brukte standardinnstillingene i denne testen. 
+Ved å gå ned på lysstyrken ser vi ikke bort fra at du kan få sett enda en Dexter-episode. 
+
+Ved blandet bruk har vi absolutt ingen grunn til å tvile på enkelte medier som har rapportert om bortimot 15 timer batteritid. 
+
+Konklusjon 
+
+MacBook Air er ikke lenger unik verken når det kommer til utforming, vekt, lyd eller ytelse. 
+Når det kommer til helheten framstår den likevel fortsatt som en av de mest gjennomtenkte og gjennomarbeide modeller på markedet. 
+Vi finner veldig lite å sette fingeren på når det kommer til konstruksjon og brukeropplevelse, og med en fantastisk batteritid på kjøpet er sekseren på terningen aldri truet. 
+
+Det som imidlertid er en kjensgjerning er at konkurrentene ikke lenger ligger og strever langt der bak. 
+Acer S7 og Samsungs 9-serie er åpenbare eksemler på gode alternativer, og ikke minst Sonys nye og kilotunge Vaio Pro forventer vi kommer til å bli et meget godt alternativ for mange til den nye generasjonen MacBook Air. 
+
+Se våre plusser og minuser i boksen under "eller våre tester av ultrabooks før du eventuelt kjøper en MacBook Air. 
+
+Apple MacBook Air - 1,3GHz DC 4GB 128GB 13" 

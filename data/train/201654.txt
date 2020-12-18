@@ -1,0 +1,150 @@
+Sony Ericsson P1i
+Smarttelefonen som ikke skammer seg for å vise seg fram. 
+
+Sony Ericssons flaggskip for smarttelefoner, P990i, har riktignok flere funksjoner enn det finnes sandkorn i et vannglass, men få ville funnet på å si den er spesielt attraktiv å se på. 
+
+Det er da den svenskjapanske mobilprodusentens siste smartmobil, P1i, kommer inn døra. 
+
+Saklig og småsexy 
+
+Vi hadde egentlig lovet oss selv å ikke si sexy om en mobiltelefon, og P1i er nok ikke det første du tenker på når du hører ordet. 
+Likevel, mobiler for forretningsfolk og mobilentusiaster - som dette utvilsomt er - har en tendens til å se ut som noe som faller ut av skuffen når du endelig bestemmer deg for å se hva som egentlig har ligget innerst i kommoden i alle disse åra. 
+
+Det er ikke så pent. 
+
+Ramma med børsta stål-kopi og den svarte tastaturbakgrunnen og de svart-hvit-røde tastene er utvilsomt en heldig kombinasjon, og selv om den relativt saklige finishen ikke er spesielt oppfinnsom, er det minimalismen som ender opp med å gi P1i dens appell. 
+
+P1i har samme tastatur og i veldig stor grad samme formfaktor som M600, mens innmaten er så å si identisk med P990i med et såkalt UIC 3.0 Symbian operativsystem i bunn. 
+Dette er altså et slags gjennomsnitt av de to forgjengerne, men med noen ekstrafunksjoner på toppen av det hele. 
+
+Den sannsynligvis viktigste forskjellen mellom P1i og P990i, i det minste den som utgjør den mest praktiske av dem, er at internminnet er økt fra 60 til hele 160MB. 
+Tidligere UIQ-telefoner har fått kritikk for at minnet fylles opp altfor fort, og har i tillegg vært plaget av out of memory-meldinger i tide og utide. 
+Det er det slutt på nå. 
+Vi har under testperioden ikke opplevd en eneste feilmelding, og har kjørt en rekke applikasjoner samtidig uten telefonkrasj. 
+
+Tasting 
+
+For de som ikke kjenner tastaturet fra før, vil det oppleves som relativt uvant de første dagene. 
+Selv om det i prinsippet er et fullverdig QWERTY-tastatur, har hver tast to bokstaver. 
+Trykker du på venstre side får du for eksempel "A", trykker du på høyresiden får du "S". 
+En liten forhøyning på hver side gjør det enklere å treffe tasten der du vil treffe den, og etter litt tilvenning oppnår en faktisk fin skriveflyt. 
+
+Trekk blir det derimot for at det mangler norske tegn. 
+De må du bla deg fram til via "A" og "O", og ettersom det tar henholdsvis seks, fem og tre trykk å komme seg til "Æ", "Ø" og "Å" blir skriveopplevelsen av og til i overkant knotete. 
+
+Den trykkfølsomme, 2.6-tommer store skjermen er skarp og lyssterk, og selv om overflaten blir vel smussete (det heter det) ved bruk - både fingre og ører setter sine avtrykk - er det en ukomplisert sak å bli kvitt grumset med et par t-skjorte-tørk. 
+
+Menyer 
+
+En annen nyvinning sammenliknet med P990i er snarveiknappene nederst på hovedsiden. 
+Det er plass til femten av dem, de kan konfigureres akkurat som du vil, og de kan inneholde alt fra programmer til kommandoer og URLer. 
+
+Som på de fleste andre smartmobiler finner du også en i dag-meny, med oversikt over ulike innbokser (SMS, e-post), kalender, nylig tapte anrop og oppgaver. 
+Både snarveiene og i dag-oversikten kan enkelt lukkes og åpnes ved et fingertrykk. 
+
+Tilgang til oppgavebehandling, det vil si nylig åpnede eller aktive applikasjoner, ligger litt ugunstig plassert øverst til høyre, mens en snarveimeny for nye epost, tekstmeldinger, anrop med mer finnes øverst til venstre. 
+
+Penn eller finger eller begge? 
+
+Det finnes flere måter å bevege seg rundt i menysystemet på, og selv om telefonen på sett og vis legger opp til at du nesten skal kunne klare deg uten pekepennen som følger med, er det ikke alltid like enkelt å bruke fingrene over hele fjøla. 
+
+Ta for eksempel den lille, nyttige rullegardinmenyen øverst til venstre. 
+Den måler noen få millimeter i diameter, men fordi skjermen er nedsenket (og ikke ligger plant med chassiset, slik tilfellet er på for eksempel HTC Touch) er det lett å tenke på nåla i høystakken når en forsøker aktivere den med en tommel ved enhåndsbruk. 
+
+Dermed må du enten bestemme deg for å dra ut pekepennen, smøre deg med tålmodighet og fortsette fingringen, eller du kan utføre samme kommando via de store, ikoniske snarveiene. 
+
+Et scrollhjul på venstre side kommer på toppen av det hele, og sammen med en tilbake-knapp er det mulig å utføre flere kommandorer med pekefingeren. 
+På andre siden ligger det en dedikert nettleser-knapp (som også kan konfigureres til å gjøre andre ting), minnekort-port og en knapp som aktiverer kameraet. 
+
+Totalt sett mangler det med andre ord ikke på valgmuligheter som ikke involverer pekepennen, men som med andre, tilsvarende telefoner ender brukeren ofte opp med å finne den fram likevel. 
+Det er det overhodet ingenting galt med, men når en telefon er så liten og kompakt, og i prinsippet er laget for én hånd, er det litt trist å se at mulighetene for en total navigeringsløsning ikke er gjennomført - ikke minst når det, tross alt, ikke er så veldig mange justeringer som skal til for at fingernavigasjon er mulig over hele fjøla. 
+
+Tregheter 
+
+Det som skuffer mest med telefonen er tregheten. 
+Det vil si, den er ikke nødvendigvis treg når en først befinner seg i et program, men den er tidvis irriterende treg til å sette i gang prosesser. 
+
+Hvis meldings-applikasjonen ikke kjører i bakgrunnen tar den hele ti sekunder å starte opp. 
+Det er overraskende lenge, og selv når applikasjonen allerede er aktiv, og du velger "ny SMS", tar det rundt fem-seks sekunder før du kan begynne å skrive meldingen. 
+Det høres kanskje ikke mye ut, men tatt i betraktning at det å sende en melding er en av de mest trivielle tingene en gjør med en mobiltelefon, burde ikke ventetiden være såpass markant. 
+
+Og det slutter ikke der. 
+Når en skal velge mottaker for SMSen trykker en først "Kontakt", så "Velg kontakt", så venter en snaue fem sekunder på at adresseboka skal komme opp, så finner en navnet på vedkommende, trykker "Velg", og så endelig "Send". 
+
+Sammenlikn så med en av Nokias smartmobiler i E-serien, hvor du simpelthen skriver inn de tre-fire første bokstavene i navnet til mottakeren i "Til"-feltet og trykker "Send", så er dette for omstendelig. 
+
+Når kontakt-lista i tillegg er treig, og lugger og små-henger mens en blar seg opp og ned, blir opplevelsen enda litt mer frustrerende. 
+Skal du bla deg nedover kontaktene møter du forøvrig samme navigasjonsdilemmaet som nevnt over. 
+Scrollhjulet er for langsomt, og skal du dra deg nedover lista ved hjelp av tommelen må du helt ut i hjørnet og tålmodig forsøke å få tak i rullefeltet. 
+
+Misforstå ikke: 
+I hovedsak er P1i en rask mobil, men tregheten har, i likhet med fett som klamrer seg til magen og ikke til bicepsen etter julesesongen, satt seg i noen av områdene hvor du helst ikke vil se den. 
+
+Kamera og video 
+
+P1i har fått et 3.15-megapiksel-kamera på baksiden, i tillegg til et lavoppløselig videosamtale-kamera på forsiden. 
+
+Kameraet tar bra bilder, men gir ikke samme kontrast, skarphet og fargedybde som for eksempel Nokias forretningsflaggskip og steroidemisbruker, E90, som har samme antall megapiksler. 
+
+Videokvaliteten er også et stykke unna toppkarakter. 
+320x240 piksler med 15 bilder i sekundet er ikke egnet til å imponere andre enn personer som har mistet kontaktlinsene sine, og selv de vil bli mistenksomme. 
+
+Brukergrensesnittet er med sine triste, grå menyer vil heller ikke overvelde noen, men det får jobben gjort. 
+
+Du kan se bilder tatt med kameraet her: 
+
+Nettverksbygging 
+
+Apples iPhone har fått mye kritikk for at telefonen mangler 3G, så hvordan skal en da forholde seg til at Sony Ericsson har utelatt Edge fra en av sine aller ypperste modeller? 
+
+Hvis du befinner deg i områder med god 3G-dekning er ikke dette noe problem, for P1i har 3G. 
+Den har også Wlan for masochistene som er tålmodige nok til å lete etter åpne, trådløse nettverk rundt om i byen. 
+
+Manglende 3G-dekning er derimot ikke helt usannsynlig, spesielt når du er i bevegelse. 
+Jeg reiser hver arbeidsdag fra et område drøye ti minutter unna Oslo sentrum og inn mot byen, og der skjer det stadig vekk at 3G-forbindelsen forsvinner. 
+Det er ikke telefonen sin feil, men Netcoms, men straffen med en P1i i hånda blir like fullt at du må over på GPRS, den tregeste trådløsforbindelsen for mobiltelefoner. 
+
+Likevel, gjennom testperioden har ikke dette påført oss verken økt blodtrykk eller svekket almenntilstand, så noe kjempeproblem kan det ikke sies å være. 
+
+Opera, kontor og GPS 
+
+P1is nettleser er levert av Opera i form av Opera Mobile 8.65, og selv om den for eksempel mangler en del av den avanserte zoom-funksjonaliteten en finner i Nokias egenutviklede nettleser gjør den jobben helt greit. 
+Det vil si, den er raskt og motstandsfri ved WAP-bruk, men sliter med responsen og, som de fleste andre mobiltelefoner, lastetiden hvis en forsøker seg på for eksempel VG Nett eller DinSide.no. 
+
+Kontorrotter med utvidet ansvarsområde og egen parkeringsplass vil sette pris på at P1i leveres med blant annet Quickoffice (for lesing og redigering av mindre Microsoft Office-dokumenter), pdf+ (for lesing av PDF-dokumenter), og, ikke minst, Sony Ericssons imponerende visittkort-scanner. 
+Den er imponerende simpelthen fordi den fungerer, og fordi du ved et enkelt bildeknips med mobilkameraet kan lagre alle kortene du plukker opp i løpet av et år på ett og samme sted. 
+
+Det er også en enkel sak å konfigurere e-post-kontoer, og selv om vi ikke har fått testet telefonen mot Microsoft Exchange, fungerer push-e-post via IMAP helt utmerket. 
+
+Som et forsøk på å si til Nokia at, hei, vi kan også levere telefoner som har alt, har Sony Ericsson allerede fra lanseringsstart satt sammen en P1i-pakke som kommer med Wayfinder GPS-programvare, og en GPS-modul som kobles til mobilen via blåtann. 
+
+Vårt testeksemplar ble ikke levert med sistnevnte, men vi har likevel lekt oss litt med en prøveversjon av Wayfinder. 
+Det fungerer som en vanlig karttjeneste når GPS-modulen ikke er koblet til, og i motsetning til Nokias noe kryptiske GPS-løsning er dette en mer elegant og hakket mer intuitiv løsning for tilfeldige brukere. 
+
+Du kan være sikker på at en slik GPS-tjeneste vil få batteriet til å trygle om nåde, men ved vanlig bruk er vi ganske imponert over utholdenheten. 
+Avanserte smartmobiler har en tendens til å melke batteriet for det det er verdt i løpet av en dag eller to, og selv om tyngre (mis)brukere nok vil klare å tømme den raskere enn du kan si halvårsresultat, vil såkalte moderate brukere klare å holde den unna laderen i lengre perioder. 
+
+Konklusjon 
+
+P1i er utvilsomt et steg opp fra sin tyngre og større storebror, P990i. 
+Det hersker bred enighet om at sistnevnte har slitt med alvorlige voksesmerter, og med et for gjerrig internminne. 
+
+Stabiliteten til P1i er upåklagelig. 
+Den har i løpet av noen ukers bruk ikke krasjet én eneste gang, og det samme gjelder alle applikasjonene vi har vært innom. 
+
+Mer skuffet er vi over den frustrerende tregheten vi opplever rundt helt elementære, banale funksjoner som meldingssending og kontaktsøking. 
+Det skal ikke ta fem sekunder å opprette en ny melding, ikke minst når det skjer så å si umiddelbart på en tre år gammel K700i. 
+
+Vi trekker også noen desimaler for manglende Edge-støtte, og det taler heller ikke til norske kunders fordel at tastaturet mangler norske bokstaver - og at en må trykke opptil seks ganger på samme tast for å nå fram til norske tegn. 
+
+For all del, dette er ikke noen dårlig telefon, og tatt i betraktning at en for drøye 4000 kroner nå også får med en GPS på kjøpet er den heller ikke spesielt dyr. 
+
+Hovedproblemet er at både grensesnittet og den daglige bruken preges av små uregelmessigheter som i det lange løp kan gjøre at en ikke blir riktig komfortabel med telefonen. 
+
+Er du på den annen side en frustrert P990i-bruker er det lite som tyder på at du ikke vil bli mer fornøyd med en P1i i hånda. 
+
+DinSides mobilvelger finner du her! 
+Forvirret over ord og uttrykk? 
+Sjekk vår lille mobilguide. 
+
+Mobiltesten er et samarbeidsprosjekt mellom nettstedene DinSide Data, ITavisen og Dingz.no 

@@ -1,0 +1,122 @@
+Apple MacBook Pro
+Vi har prøvekjørt den nyeste MacBook Pro i noen uker, og har en oppfatning av hva som gjør at Mac-en øker i salg mens salget av Windows-PC-er stuper. 
+
+For en tid tilbake lanserte Apple en ny generasjon bærbare MacBook Pro-maskiner. 
+Likhetene med forgjengeren er mange, men Apple har gjort en del forandringer "under panseret": 
+
+* Nye prosessorer fra siste Intel-generasjon (Haswell). 
+Disse sørger for ca samme ytelse som forrige generasjon, men bruker mindre strøm. 
+* Intel Iris (Pro)-grafikk gir bedre grafikkytelse, spesielt merkbart i 3D-programmer og spill. 
+* Oppgradert trådløst nettverkskort som støtter den lynraske AC-standarden 
+* Ny generasjon Thunderbolt-porter med doblet båndbredde og teoretisk doblet overføringshastighet 
+* PCIe-basert SSD for økt overføringshastighet 
+* Siste generasjon OSX 
+(Mavericks) * Litt lavere priser enn på forgjengeren 
+
+To størrelser 
+
+Fortsatt kommer maskinen i utgaver med 13 og 15 tommer Retina-skjerm, og kan i stor grad skreddersys til ditt behov i Apples nettbutikk. 
+
+Billigste konfigurasjon på 13-tommeren koster fra 10.990 kroner, mens billigste 15-tommer koster fra 16.990 kroner. 
+Det er med andre ord høyende-delen av markedet Apple fortsatt konsentrerer seg om. 
+
+Vi har nå brukt 15-tommeren siden før jul, og det er ingen hemmelighet at det i hovedsak har vært en positiv opplevelse. 
+Grunnmodellen leveres med firekjernet Intel Core i7-4750HQ-prosessor fra Intel, 8 GB RAM og 256 GB SSD, og koster 16.990 kroner i Apple Store. 
+
+Først noen ord om konstruksjonen. 
+Merk at noe av dette er sakset fra testen av fjorårets MacBook Pro, siden konstruksjonen i hovedsak er lik. 
+
+Delikat og solid 
+
+Apple overrasker ikke når det gjelder design og konstruksjon – her får du akkurat samme type maskin som øvrige Macbook-modeller, selv om denne er imponerende slank og lett. 
+Vekten stopper på ganske nøyaktig 2 kg, og maskinen er 1,8 cm på det tykkeste. 
+
+Her får du Unibody-design i aluminium (frest ut av ett stykke aluminium), et svært komfortabelt tastatur (med bakbelyste, separerte taster), en stor styreflate i glass som støtter flerberøring (markedets beste i våre øyne) og den geniale og patenterte MagSafe 2-porten; en magnetisk ladekonstruksjon som gjør at ledningen bare løsner om du snubler i den, i stedet for at den knekker og blir sittende fast, eller kanskje enda verre – gjør at PC-en faller i gulvet. 
+
+Konstruksjonsmessig er det altså lite å utsette på Apples produktlinje. 
+
+Kanskje vår tids mest gjenkjennelige logo lyser opp i lokket 
+
+Helnorsk tastatur 
+
+Tastaturet er som nevnt meget komfortabelt. 
+Det er fast og fint, og avgir svært lite støy under bruk. 
+Skulle vi ha noe å utsette på det, måtte det være mangel på numeriske taster, litt smal enter-tast, og at plasseringen av av/på-knappen øverst til høyre rett over Delete-tasten kan være litt utsatt. 
+
+Merk imidlertid at Apples maskiner er av de få som leveres med helnorsk tastatur, og det er et stort pluss i våre øyne. 
+
+Pekeplaten er multiberøringsfølsom, og svært presis. 
+Den er stor, men det er aldri noe problem med at operativsystemet mistolker tilfeldig berøring med håndflaten som bevisste fingerberøringer. 
+
+På sidene finner du to USB 3.0-porter, HDMI-utgang, to Thunderbolt 2-porter, samt minnekortleser for alle typer SD-kort. 
+Ønsker du å koble til kablet nett trenger du en overgang fra Thunderbolt 2- eller USB-port. 
+
+På hver side av tastaturet sitter det høyttalere, og lyden er helt OK til lav bakgrunnsmusikk. 
+Den store fylden får du imidlertid ikke, litt mer bass hadde gjort underverker. 
+
+Skjermen er den samme som på forgjengeren, og den er svært høyoppløst (2880 x 1800). 
+Merk at bredde:høydeforhold er 16:10 og ikke 16:9 som på de fleste bærbare PC-er. 
+Mer plass i høyden er alltid verdsatt. 
+
+Og skjermen er virkelig blant de aller beste vi har sett noensinne. 
+God og jevn lysstyrke, godt dynamisk omfang og like bra bilde uansett betraktningvinkel er inntrykk vi sitter igjen med. 
+
+Fantastisk god skjerm fra nær sagt alle vinkler 
+
+Brukervennlig og solid pakke 
+
+OS X 
+Mavericks er ikke bare et lekkert, brukervennlig og velfungerende operativsystem for skrivebordet. 
+Det kommer med underholdnings- og produktivitetspakken iLife uten ekstra kostnad. 
+Også kontorpakken iWork kan nå lastes ned gratis. 
+I tillegg finner du lassevis av programmer og spill i Mac App Store. 
+
+Det er også helt på det rene at Mavericks skalerer programvinduer, nettsider og bilder mye bedre enn forgjengeren Mountain Leopard, og etter vår mening også langt bedre enn Windows 8 og 8.1. 
+Dermed betyr ikke den høye skjermoppløsningen annet enn at alt blir avsindig skarpt. 
+
+Ytelse i toppen 
+
+Nye MacBook Pro er lynrask i nær sagt alle situasjoner, og ikke en gang under testen tenkte vi over at det var vifter i maskinen. 
+Den nye Intel Iris Pro-grafikkbrikken byr på mer enn høy nok ytelse for de fleste av oss, også til mer krevende spill og 3D-applikasjoner. 
+Du kan kjøpe maskinen med dedikert Nvidia GT750-grafikk, men vi ser ikke det store poenget med Iris Pro innabords. 
+
+SSD-en er nå PCIe-basert, og lesehastigheten er på innti 775 MB i sekundet, noe som plasserer den helt i toppen av alt vi har testet så langt. 
+
+Batteritiden avhenger selvfølgelig av bruksmønsteret, men med variert bruk hadde vi ikke noe problem med å bruke maskinen i de åtte timene Apple lover. 
+Det er en time lenger enn forgjengeren, og hvis du velger 13-tommeren lover Apple rundt ni timer, som er to timer lenger enn forgjengeren. 
+For denne typen maskiner er det meget bra batteritid, og det er kun ultrabooks med ULV-prosessorer som i noen tilfeller overgår dette, for eksempel Apples egen MacBook air. 
+
+Den beste totalopplevelsen - foreløpig 
+
+Det er interessant å sammenligne Microsofts og Apples måter å tenke operativsystem på. 
+OS X 
+Mavericks er resultatet av en mangeårig spissing og forbedring av et operativsystem som ble lansert for 12 år siden. 
+Systemet er nå svært stabilt og detaljene er gjennomutprøvd og gjennomtenkt, og 100% optimalisert med tanke på skrivebordsbruk. 
+
+Det går altså et markant skille mellom skrivebordet og mobil/nettbrett, der iOS er 100% optimalisert for berøring. 
+Samtidig har Apple bygd solide broer mellom systemene, blant annet ved hjelp av funksjoner som iMessage, FaceTime og synkronisering av brukerdata gjennom iCloud. 
+
+Apple tror altså ikke på at ett system kan tilfredsstille både skrivebord- og mobilbrukere, og det tror vi de har rett i. 
+
+Microsoft på sin side har valgt en helt annen strategi. 
+De lanserte Windows XP samme år som OS X så dagens lys, men har siden vært innom Vista, 7 og 8 som til dels har vært svært forskjellig fra XP. 
+Windows 8 skulle fungere like bra på nettbrett og skrivebord, men foreløpig er det lite som tyder på at de har lykkes med det. 
+Mange opplever Windows 8 som forvirrende, blant annet takket være et lite helhetlig designuttrykk. 
+
+Salgstallene etterlater liten tvil om at Microsoft er nødt til å ta noen steg tilbake og tenke seg godt om før lanseringen av Windows 9. 
+For mens Apple ser ut til å få betalt for å være tro mot sin 100% skrivebord-tankegang for sine Mac-maskiner, synker salget av Windows-PC-er kraftig. 
+
+Konklusjon 
+
+Nye Apple MacBook Pro er et solid stykke arbeid som byr på en meget god totalopplevelse. 
+I fjor testet jeg tett på 50 bærbare Windows-PC-er, og selv om mange av dem kvalitetsmessig ligger tett opp mot MacBook Pro, er det min klare oppfatning at Apple nå ligger et hestehode foran når det gjelder brukeropplevelsen for klassisk skrivebordsbruk. 
+Der OS X 
+Mavericks føles som en skreddersydd dress, er jeg redd Windows 8 for mange føles som å gå med skjorte og blazer, kombinert med et par dyre joggebukser. 
+
+Men det koster. 
+16.990 kroner er svært mye penger for en bærbar datamaskin, og derfor blir ikke MacBook Pro noen volummodell, slik de langt billigere Air-modellene har blitt. 
+Men har du behov for høy prosessorytelse og en høyoppløste skjerm, kan 13-tommeren være et godt, og langt rimeligere alternativ til 15-tommeren. 
+
+Summa summarum er det uansett umulig ikke å gi Apple MacBook Pro en sekser på terningen, med tilhørende anbefalt-stempel fra redaksjonen. 
+
+Apple MacBook Pro - 2,0GHz QC 8GB 256GB 15" 

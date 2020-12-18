@@ -1,0 +1,42 @@
+OCZ Vector 150 240 GB
+OCZ har lansert en helt ny SSD som tåler mye mer skriving. 
+
+Vector-serien er flaggskipet for OCZ sine SSD-er i konsumentmarkedet, og profileres både med ekstremt høy ytelse og pålitelighet. 
+Nå har selskapet lansert med en ny serie med enda bedre spesifikasjoner. 
+
+Serien heter Vector 150 og er i det ytre svært lik forgjengeren, men det har blitt gjort en rekke forbedringer på innsiden: 
+
+Minnemodulene er basert på 19-nanometers NAND-kretserSkrivekapasiteten er økt til 50 GB per dag i fem årEgenutviklet Barefoot kontrollbrikkeHåndterer både komprimerbare og ikke-komprimerbare data med samme hastighetVidereutviklede verktøy for administrasjon av NAND-cellene for dynamisk allokering av lagringskapasitetenBuntet med Acronis True Image kloneprogramvare for enkel oppgradering fra harddiskSlank aluminiumskonstruksjon med byggehøyde på 7 millimeter, passer i slanke bærbare maskiner. 
+
+I pakken 
+
+SSD-en leveres i pakke med adapter til 3,5-tommers brønn i stasjonær PC, inkludert skruer. 
+I tillegg kommer en lisens til Acronis True Image som kan brukes til å ta komplett backup og/eller klone disker og SSD-er, men selve programvaren må du laste ned selv. 
+
+Kapasiteten er på 240 GB, minnemodulene er basert på MLC og tilkoblingen er SATA III (6 Gbps). 
+
+Strømforbruket er oppgitt til 0,55W i hvilemodus og 2,50W i aktivitet. 
+
+Det finnes også 120 GB og 480 GB utgaver av Vector 150. 
+Ytelsen er til en viss grad avhengig av kapasiteten, det gjelder først og fremst Steady State IOPS, som blir vesentlig lavere på 120 GB modellen. 
+Det er oppgitt 12 000 IOPS for denne, mens 240 GB er oppgitt til 21 000 IOPS og 480 GB til 26 000 IOPS. 
+
+Øvrige parametre har mindre forskjeller. 
+
+Ytelse 
+
+Vi kjørte våre standardtester og fikk følgende resultater: 
+
+Konklusjon 
+
+Vector leverer helt i klasse med de tidligere toppmodellene fra OCZ, i noen sammenhenger et lite hakk over. 
+
+Sammenlignet med andre produsenter holder den også stand som blant de beste. 
+Skal hastighetene økes vesentlig må man over på et annet grensesnitt enn SATA, som vi ser i nyere bærbare og på nye hovedkort hvor det er implementert PCIe-baserte lagringsløsninger for systemdisken. 
+
+Den beste egenskapen er skrivekapasiteten på 50 GB per dag uten reduksjon i ytelse. 
+
+Om du skal velge denne eller andre SSD-er med sammenlignbar ytelse og kapasitet kan fort bli et spørsmål om pris. 
+Vector 150 240 GB er på vei ut i markedet med en pris rundt 1850 kroner, som er litt høyere enn mange av alternativene. 
+
+Når den kommer i salg hos flere blir det spennende å se på prisutviklingen. 

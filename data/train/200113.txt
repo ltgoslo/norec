@@ -1,0 +1,204 @@
+HTC Windows Phone 8X
+Selve Windows Phone 8 har ikke mye nytt å komme med. 
+Men det har telefonene. 
+
+Helt siden vi først hørte om Windows Phone 8 har vi gledet oss stort. 
+Vi liker allerede Windows Phone svært godt, og drømte om hvor mye bedre det kunne bli. 
+Men da vi først fikk en Windows Phone 8-telefon i hendene, ble vi sittende med et ansiktsutrykk som kunne tolkes noe sånt som "...var dette alt?". 
+
+For den nye versjonen bringer ikke mye til bordet i form av ny funksjonalitet eller design. 
+Det versjonen først og fremst bringer med seg, er nye telefoner. 
+Telefoner som kan ha større variasjon enn hva Windows Phone 7 tillot, som høyoppløste skjermer og kraftigere prosessorer. 
+Og det viser seg at det er nettopp her, i maskinvaren, at den nye Windows Phone-generasjonen blir ordentlig interessant. 
+
+Innholdsfortegnelse: 
+DesignSkjermOperativsystemYtelse, batteri, dekning, lydKameraKonklusjon 
+
+Design 
+
+HTC fortalte DinSide tidligere i år at Windows Phone 8X er inspirert av to ting: 
+Windows Phone og puter. 
+Putedesignet betyr at telefonen er tynn i kantene og tykkere på midten, slik at den skal ligge bedre i hånden din. 
+Vi ville ikke lagt oss til å sove på den, men vi liker absolutt å ha den i hånden. 
+Telefonen snor seg langs hånden vår på en fin måte, og for en gangs skyld synes vi designernes filosofi faktisk gleder både hånden og øyet vårt. 
+Skjermen bøyer seg pent ned i resten av kroppen, og fingeren kan gli over hele telefonen uten å møte motstand. 
+Det ser pent ut, og det fungerer: 
+Selv om den er stor, gjør den lite av seg, både i lommen og i hånden. 
+Vi tar av oss hatten, for her har HTC truffet spikeren på hodet. 
+At mange synes den likner på Nokias Lumia-modeller får heller være, når det fungerer så bra. 
+
+Telefonen fås i blått og gult også, som sikkert gjør den enda lekrere, men tradisjonen tro ble vi utdelt den kjedeligste, og tryggeste, sorte utgaven. 
+Rød kommer tragisk nok ikke til Norge riktig ennå, ifølge HTC. 
+
+I utgangspunktet liker vi den ru, sorte overflaten bak, men den er så putemyk at den svært lett får riper og merker etter kun få timers bruk. 
+Etter en ukes tid ser det ut som den nærmer seg sin første bursdag. 
+Her har HTC rett og slett bommet med tanke på materialet, og med mindre du liker å tegne og skrive på baksiden av mobilen din med neglen er det ikke sikkert dette kommer til å falle i smak. 
+
+Resten av telefonen er heldigvis akkurat som den skal være, med en stor og fin indikatorlampe skjult i høyttaleren på fronten, og fine knapper som føles gode å trykke på. 
+
+Telefonen er hermetisk lukket, så man får ikke byttet batteri eller satt inn minnekort (noe Windows Phone nå støtter). 
+Akkurat dette med minnekort skulle vi gjerne hatt muligheten til, da det jo tross alt er en av nyhetene i operativsystemet. 
+
+Her ser du hvordan HTC Windows Phone 8X ser ut: 
+
+Skjerm 
+
+Windows Phone 7 støttet ikke skjermer med høyere oppløsning enn 800 ganger 480 piksler. 
+Windows Phone 8 støtter skjermer med opptil 1280 ganger 768 piksler. 
+Og HTC Windows Phone 8X kjører 1280 ganger 720, altså 720p. 
+
+Dette ble mye tall, men tallene er viktige: 
+Forskjellen mellom Windows Phone på vår gamle HTC Titan og den nye 8X er nemlig stor. 
+Der store skjermer tidligere strakk Windows Phone så pikslene poppet ut på skjermen, får du nå krystallklare skjermer og skrift som er lesbar selv om den er aldri så liten. 
+
+Det hele sies egentlig best med et bilde, så her har du et: 
+
+Den 4,3 tommer store skjermen på 8X fungerer strålende, og det er deilig å endelig kunne nyte høyoppløste bilder og filmer i Windows Phone. 
+Merk deg dog at de fleste apper ennå ikke er optimalisert for dette, så akkurat som da iPhone og iPad kom i utgaver med høyere oppløsning vil man oppleve at ikke alt ser like bra ut. 
+Men ren tekst, både i apper og på nettet, strekkes fortreffelig. 
+Den er like klar uansett når appen ble oppdatert. 
+
+Ikke-optimaliserte apper støtter heller ikke 16:9-skjermer som 8X sin, så man får en liten, sort stripe øverst i appen. 
+Men da Windows Phone uansett alltid har hatt mye sort tomrom oppleves ikke dette som noe stort problem. 
+
+Operativsystem 
+
+HTC Windows Phone 8X kjører  hold deg fast  Windows Phone 8. 
+
+Som vi har sagt tidligere er det ikke store forskjeller i selve operativsystemet for den vanlige bruker. 
+De største nyhetene ligger godt gjemt dypt inne i selve kjernen, som operativsystemet nå deler med Windows 8 (NT-kjernen). 
+Det er blant annet dette som gjør at man nå støtter høyere oppløsning og flere prosessorer. 
+Det betyr også at man kan oppleve flere apper og spill, da utvikling for plattformen har blitt enklere. 
+
+Umiddelbart ligger den største forskjellen på hjemskjermen. 
+Tidligere var en flis (snarvei) 2x2 enheter stor, mens man nå kan velge mellom 2x2, 1x1 eller 4x2. 
+Altså stor/avlang, vanlig eller liten. 
+Ikke alle fliser kan gjøres store, spesielt ikke nå som få apper er optimalisert for Windows Phone 8, men det vil trolig endre seg snart. 
+Også låsskjermen har fått nyheter. 
+Man kan velge å la en app styre bakgrunnsbildet, slik at man for eksempel kan få været fra HTC, fotografier fra Bing, bilder fra Facebook eller hva det skulle være til å dekke låsskjermen. 
+Man kan også velge hvilke apper som skal gi deg tall der, altså for eksempel antall tapte anrop, Facebook-varsler eller nye e-poster. 
+I tillegg kan man velge hvilken app som skal få lov til å gi deg en liten tekstbolk, for eksempel innholdet i en ny e-post eller neste kalenderavtale. 
+Det er ikke en totalt omveltning av låsskjermen, men det er nok til å gi den noen flere bruksområder. 
+I tillegg til å låse opp telefonen fra låsskjermen, kan man gå til "barnehjørnet" ved å sveipe til venstre i stedet for opp. 
+Her kan du selv velge hva andre skal få tilgang til uten å taste inn koden din. 
+Som navnet tilsier er det mest aktuelle bruksområdet å la barn få tilgang til spillene dine, men den kan selvfølgelig også brukes til å for eksempel la andre se hva Windows Phone handler om, uten å gi dem tilgang til alle meldingene dine. 
+Funksjonen fungerer bra, og kan absolutt bli en vinner hos foreldre. 
+Bing-kartet har blitt kastet ut, og Nokia-kartet har tatt over. 
+Dette var en av nyhetene vi var mest spente på, men her blir vi dessverre litt skuffet. 
+Det viser seg nemlig at det er kartet, og bare kartet, som er nytt. 
+Og det opplever vi ikke som spesielt mye bedre enn hva vi hadde fra før. 
+Funksjoner som skikkelig navigasjon og det å finne kollektivtransport er dessuten fortsatt noe bare Nokia-telefonene får, før Nokia eventuelt gir ut sine egne apper til alle Windows Phone-brukere. 
+Men til gjengjeld får man nå blant annet lastet ned offline-kart, og for all del: 
+Kartet fungerer helt fint, bare du ikke forventer deg like god service som i Android. 
+En nyhet som vi ærlig talt ble tatt litt på senga av, er filbehandlingen. 
+Man kan nå plugge telefonen inn i PC-en og få opp bilder, musikk og dokumenter lett som en plett, akkurat som på en minnepinne. 
+Dette er en nyhet vi er utrolig glade for. 
+Litt fordi vi er av gamleskolen og liker bedre å forholde oss til filer enn iTunes-biblioteker og bildestrømmer, men også fordi det gir deg nye bruksmuligheter. 
+Du kan nå for eksempel lage en mappe på telefonen som heter "minnepinne" og bruke telefonen som nettopp det. 
+Og man slipper å forholde seg til programmer for å legge inn musikken din, eller få ut bildene dine. 
+Denne nyheten kan ikke overvurderes; vi er rett og slett hoppende glade. 
+Bedre sikkerhetsekopiering er på plass. 
+Blant annet får du nå synkronisert SMS-ene dine, noe vi setter stor pris på, spesielt som mobiltestere som stadig bytter mobil. 
+Når du logger deg inn med Microsoft-kontoen får du tilsynelatende alle SMS-meldingene fra tidligere Windows Phone 8-mobiler rett inn i meldingsappen. 
+Du kan også synkronisere bildene dine med Skydrive i høyere oppløsning enn før. 
+Du kan ta skjermdumper, altså bilde av skjermen. 
+Endelig. 
+Det har vi ventet lenge på. 
+
+Her kan du se hvordan Windows Phone 8 ser ut på HTC Windows Phone 8X: 
+
+Ellers er Windows Phone 8 ganske så likt Windows Phone 7, med kun små endringer i for eksempel tastaturet (flere smileys) og støtte for NFC, men ingen endringer i hvordan for eksempel multitaskingen fungerer. 
+At operativsystemet skal være det mest "personlige" på markedet, noe Microsoft stadig gjentar, er i våre øyne ren løgn. 
+Ingen slår Android når det gjelder fikling. 
+Dette kan selvfølgelig gå på bekostning av brukervennlighet, men vi hadde likevel håpet på litt mer avanserte funksjoner i 8-eren. 
+Vi hadde igrunn forventet oss mer av 8-eren generelt, men som vi sa i begynnelsen av testen: 
+Windows Phone 8 handler ikke først og fremst om nye funksjoner, men nye telefoner. 
+
+De eneste endringene mobilprodusentene får lov til å gjøre i operativsystemet, er å legge med egne apper. 
+Her gjør HTC en dårlig jobb. 
+De legger ved en fin app for saker som værmeldinger og aksjekurser som man kan ha på hjemskjermen, på samme måte som deres klassiske klokke i Android. 
+Den setter vi pris på. 
+Men ellers er det lite nytt HTC legger på bordet, annet enn en lommelykt-app og svært enkel fotoredigering. 
+
+Vi har opplevd få problemer i operativsystemet, men når vi først har opplevd noe, har det vært skikkelig krasj, også. 
+To ganger iløpet av testuken har HTC 8X restartet, uten at vi vet nøyaktig hvorfor. 
+Vi får håpe dette er barnesykdommer som raskt blir luket bort når telefonen havner i forbrukernes hender. 
+
+Og dessverre må vi nevne det som vi nok kommer til å nevne i Windows Phone-tester i overskuelig fremtid: 
+App-utvalget er ikke i nærheten av Android og iOS. 
+Faktisk er det dårligere i Windows Phone 8 enn forgjengeren, da for eksempel Spotify er borte vekk. 
+Selv har vi derfor byttet til Wimp, som fortsatt fungerer fint. 
+
+Ytelse, batteri, dekning, lyd 
+
+Windows Phone-telefoner har alltid vært utrolig responsive. 
+Windows Phone 8 er ikke noe dårligere; tvert i mot er den hakket hvassere. 
+Ting glir så glatt det lar seg gjøre, på lik linje som på iPhone, og enda glattere enn det Android vanligvis klarer. 
+
+Ettersom Windows Phone 8 støtter kraftigere prosessorer går også alt raskere i de nye telefonene. 
+8X kjører en 1,5 GHz prosessor med to kjerner, som takler alt du hiver på den. 
+Spill går unna som bare det, nettsider laster raskt og appene åpnes og lukkes uten merkbare pauser. 
+
+Windows Phone 8X støtter også HSPA+, som gir deg en "H+" i statuslinjen og enda raskere dataoverføring over 3G-nettet. 
+Dekningen har vi ikke hatt noe problemer med, heller ikke vanlig telefoni generelt. 
+
+Batteriet på 1.800 mAh er dessverre mindre enn vi hadde håpet på. 
+Vi har opplevd at telefonen rett og slett har slått seg av i løpet av kvelden fordi den var helt tom for strøm, uten at vi hadde brukt den voldsomt mer enn normalt. 
+Den har vanligvis holdt seg gjennom dagen, men ikke regn med å se lange Netflix-filmer etter å ha ringt familien i et par timer. 
+
+Lyden fra hodetelefonene våre er god, men ikke like god som i for eksempel Android-telefonen HTC One X+, eller nye iPhone. 
+
+Kamera 
+
+Kameraet bakpå HTC Windows Phone 8X har en BSI-sensor (back-illuminated sensor) som blant annet også iPhone har hatt i de seneste modellene. 
+Dette skal gi bedre bilder under dårlig lys, og her gjør 8X er grei jobb. 
+Spesielt nærbilder av stillestående ting og tang blir fint, men bymiljøer i høstmørket blir dessverre ikke klart nok. 
+Både støy og for lange lukkertider uten bildestabilisator gjør at det blir vanskelig å få skikkelig gode bilder. 
+Til mer normalt bruk har 8X et godt kamera 
+ over gjennomsnittet, men ikke godt nok til å hevde seg helt i toppen. 
+
+Under ser du noen bilder tatt med HTC Windows Phone 8X. 
+Du kan se bilder i full oppløsning ved å trykke her, her og her. 
+
+På videosiden kan 8X best beskrives som et tveegget sverd. 
+Bildene blir skarpe og bevegelsene glatte, men den bruker svært lang tid på å justere eksponering og fokus. 
+Det betyr at man må vente i flere sekunder før man ser noe om man går fra et lyst motiv til et mørkt, eller omvendt. 
+Vi har også opplevd susing i lyden. 
+Så oppsummert havner filmingen til 8X midt på treet. 
+
+Begge deler ser og hører du godt i eksempelet under. 
+For å se videoen i full 1080p-oppløsning på Youtube, trykker du her. 
+
+HTC har satset mer enn normalt på kameraet foran, som både har vidvinkel og høy oppløsning. 
+Skype er ennå ikke klar for Windows Phone 8, men skal snart bli en integrert del av opplevelsen, så dette kan komme godt med. 
+
+Konklusjon 
+
+HTC Windows Phone 8X er den eneste "signatur-modellen" Microsoft har valgt ut for sitt nye operativsystem. 
+Først lurte vi litt på hvorfor, men vi har nå en teori: 
+8X gjør lite av seg, og handler først og fremst om én ting; Windows Phone 8. 
+Dette kan være en fordel for Microsoft, da oppmerksomheten ikke blir tatt vekk fra operativsystemet deres. 
+
+Men for deg som forbruker er ikke dette en fordel. 
+8X bringer nemlig ingenting unikt til bordet. 
+
+Lumia 920 og 8X blir nok de argeste konkurrentene på Windows Phone 8-banen i første omgang. 
+Og hvor Nokia satser knallhardt på blant annet kamera, ekstrautstyr, trådløs lading og egne apper, er 8X langt mer sparsom. 
+Den ser utrolig bra ut, og den fungerer bra, men der stopper også moroa. 
+Samtidig er den billigere enn Lumia 920; for eksempel selger Komplett 8X for 4.400 kroner, mens Lumia 920 koster 5.200 kroner. 
+Prisforskjellen er ikke like stor overalt, men 8X er gjennomgående billigst. 
+Hvem av de to som er best, vet vi først når vi snart kommer tilbake med en grundig test av Lumia 920. 
+
+Men det som er klart her og nå, er at HTC Windows Phone 8X er en svært god mobiltelefon. 
+Designet er av ypperste klasse, det samme er ytelsen. 
+Men da dette er toppmodellen hadde vi også forventet oss enda mer. 
+Batteriet og kameraet overbeviser oss ikke, og vi savner flere salgsargumenter i form av unike funksjoner, både i form av apper og teknologi i selve telefonen. 
+
+For her har 8X så og si ingenting. 
+Det nærmeste vi kommer er den relativt sett lave prisen. 
+Derfor velger vi å sette "anbefalt produkt"-stempel på den, men ikke det helt høyeste terningkastet. 
+Vel og merke om du er villig til å ofre blant annet app-utvalg til fordel for den gode opplevelsen Windows Phone gir deg. 
+
+Og så er det opp til konkurrentene å vise at Windows Phone har enda mer å by på fremover. 
+
+HTC 8X 

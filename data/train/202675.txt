@@ -1,0 +1,85 @@
+Mac mini 2011
+Her snakker vi om en kraftpakke. 
+
+Det har skjedd mye med Mac mini, det eneste som er felles med forgjengeren ligger i det ytre. 
+Gjør det det enklere å velge en Mac mini, eller vanskeligere? 
+
+Da mini-en først dukket opp var det først og fremst formatet man festet seg ved. 
+Det var imponerende at den var så liten, og samtidig elegant. 
+Den var ikke spesielt kraftig, men fungerte helt utmerket til hjemlige sysler. 
+Dette var i 2005, og den var utstyrt med G4-prosessor. 
+
+Siden den gang har det skjedd mye på maskinvarefronten, og dagens Mac mini stiller adskillig sterkere også sammenlignet med andre og større maskintyper. 
+
+Kraftpakke 
+
+Vårt testeksemplar var utstyrt med en dobbeltkjerne Core i5 2520M prosessor på 2,5 GHz, 4 GB DDR3 1333 GHz minne, 500 GB harddisk fra Toshiba på 5400 RPM og AMD Radeon HD 6630M grafikkprosessor. 
+
+Det som ikke lenger finnes er optisk drev. 
+Det er ikke lenger noen spalte og heller ikke mulighet for å bestille interne optiske drev som en opsjon. 
+Du henvises til Apples eksterne SuperDrive, som også går til MacBook Air. 
+
+Mac mini kan også leveres med to 2,5" lagringsenheter innebygd, den ene en SSD på 256 GB og den andre en roterende harddisk på 750 GB og 7200 RPM. 
+Og nei, du kan ikke bare sette i en SSD senere i en vanlig Mac mini, det mangler både festebrakett og spesialkabel for tilkobling (men vi blir ikke veldig overrasket hvis dette dukker opp fra andre tilbydere senere). 
+OPPDATERT: 
+Her finner du et oppgraderingssett med alt du trenger bortsett fra harddisk/SSD. 
+
+Det finnes også en Mac mini-modell med 2,3 GHz Core i5 og svakere HD 3000-grafikkort fra Intel. 
+
+Den dyrere serverversjonen av Mac mini har Core i7 med fire kjerner og to lagringsenheter, men leveres bare med Intel-grafikk. 
+
+Mac mini i 2011-utgave er som forgjengeren lett å åpne for å sette i mer minne, det er bare å dreie litt på platen under, så kan du ta den av og få tilgang til minnemodulene. 
+
+Ønsker du å fortsette å utforske de indre gemakker gjør du dette på eget ansvar. 
+Nettstedet ifixit har forøvrig allerede demontert det meste av maskinen, du finner hele artikkelen med bilder her. 
+
+Tilkoblinger 
+
+Baksiden har nå fått Thunderbolt-tilkobling med 2 x 10 Gbps-kanaler i stedet for mini DisplayPort, og kortleseren leser nå SDXC kort. 
+
+Ellers er tilkoblingene som på forrige modell, med 4 x USB 2.0, HDMI, FireWire 800, Gbit-nettverk og strømkabel til den innebygde strømforsyningen. 
+
+Dermed dekker Mac mini alle de typiske bruksområdene i Mac-miljøene, du kan koble til både eldre video, foto og lydutstyr med FireWire og USB, pluss nytt og raskere utstyr med Thunderbolt. 
+
+I bruk 
+
+Vi koblet opp 
+Mac mini til standard full-HD PC-skjerm med HDMI, og det eneste problemet vi hadde var å få kontakt med Bluetooth-tastaturet og styreflaten ved aller første oppstart. 
+Å sette Bluetooth-enhetene fra Apple i søkbar modus fungerte rett og slett ikke. 
+Etter å ha koblet til et USB-tastatur og USB-mus kunne vi gå videre med oppsettet av Mac-en, og fikk så kontakt med Bluetooth-enhetene på vanlig måte. 
+Etter dette har begge enhetene blitt gjenkjent og tilkoblet uten videre, helt uproblematisk. 
+
+Maskinen starter opp raskt, og er helt tydelig en kjapp liten sak. 
+For å bekrefte den påtagelige opplevde kraftige ytelsen kjørte vi Geekbench og fikk imponerende 7074 i Geekbench-resultat! 
+Det er over dobbelt så mye som de 3380 vi målte hos forgjengeren fra oktober i fjor. 
+
+Som mediesenter? 
+
+Vi koblet Mac mini til vår plasma-TV, siden den bare har oppløsning på 1024x768 kjørte vi den som 720p-skjerm over HDMI. 
+Litt justering av overskann fikk skjermbildet på plass uten problemer. 
+Det følger ikke med noen brukbar mediesenterprogramvare i OS X 
+Lion heller, så vi installerte den gratis programvarenBoxee og spilte av MKV-filer i 1080p fra vår hjemmeserver-PC med Windows XP over trådløst nett via en Apple TimeCapsule. 
+
+Og det fungerte helt utmerket. 
+Det var ingen tegn til rykking eller frysing, visningen var helt strøken både lyd- og bildemessig fra begynnelse til slutt. 
+
+Lydutgangen på Mac mini er både analog og digital, det avhenger av hvilken kabel du bruker. 
+
+Vi koblet også til vår Sony LCD-TV med full HD oppløsning. 
+Også her måtte vi justere overscan for å tilpasse skjermbildet, noe som ikke er nødvendig på vanlige PC-skjermer. 
+
+Konklusjon 
+
+Mac mini blir stadig bedre, og årets utgave har gjort et stort sprang når det gjelder ytelse. 
+
+Den også gått litt ned i pris, den minste utgaven ligger på 4.790 kroner, med 2,3 GHz-prosessor, 2 GB minne og Intel-grafikk. 
+
+Vårt testeksemplar ligger på 6.490 kroner, men du kan også få den med dobbeltkjerne Core i7-prosessor, 8 GB minne, og både 256 GB SSD og 750 GB harddisk - da blir prisen hele 15.100 kroner. 
+
+Til sammenligning koster en 27 tommers iMac med firekjerners Core i5 3,1 GHz,4 GB minne og 1 TB harddisk 15.490 kroner. 
+
+Server-utgaven med 4-kjerners Core i7, 8 GB minne, 256 GB SSD og 750 GB HD er faktisk litt rimeligere, du ender opp på 14.100 kroner. 
+Hva som er mest nyttig, grafikk eller CPU, er opp til bruksområdet. 
+
+Som mediemaskin først og fremst for avspilling og for vanlig husbruk er de rimeligste Mac mini-utgavene utmerket. 
+De er ikke billige sammenlignet med PC-er med tilsvarende ytelse, men så får du altså en Mac og en god del svært brukbar programvare inkludert i prisen. 

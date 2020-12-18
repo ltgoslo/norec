@@ -1,0 +1,32 @@
+Seagate 600 SSD 480GB
+Når harddiskprodusenten først satser på SSD, så gjøres det skikkelig. 
+
+Seagate er først og fremst kjent som produsent av harddisker, men tidene forandrer seg raskt. 
+Stadig flere datamaskiner leveres uten harddisk, og stadig flere datamaskin-eiere bytter ut harddisken til fordel for en raskere, stillere, lettere, strømgjerrigere og mer robust SSD. 
+
+Oppdatert innmat 
+
+600-serien er den første fra Seagate myntet på forbrukermarkedet, og på innsiden sitter 19nm NAND-minne fra Toshiba og LM87800-kontrolleren fra Link-A-Media. 
+Dette er utstyr som både er anerkjent og oppdatert. 
+
+SSD-en kommer med maks kapasitet på 480 GB, og i høyder på 5 og 7 mm. 
+Det betyr at selv meget tynne bærbare PC-er kan få plass til Seagate 600 (særlig 5 mm-utgaven). 
+Vi har testet 7 mm-utgaven, men det skal ikke være noen forskjeller i ytelsen på de to. 
+
+Fem ganger raskere enn harddisken 
+
+Og ytelse står naturligvis i sentrum når man velger bort harddisken til fordel for SSD, og her skuffer ikke Seagate 600. 
+Jeg har testet utallige bærbare PC-er med harddisker gjennom mange år, og det er svært sjelden at lese-/skrive-hastigheter tipper 100 MB pr sekund. 
+
+Seagate 600 derimot, målte vi til lesehastigheter på over 500 MB pr sekund, og skrivehastigheter på inntil 459 MB pr sekund. 
+Noen variasjoner opplevde vi, avhengig av hvilket testprogram vi benyttet - og naturligvis størrelsen på filene. 
+Regelen er at hastigheten synker jo mindre filene blir, men det er universelt og gjelder både harddisker og SSD-er: 
+
+Konklusjon 
+
+Dette er blant de aller raskeste SSD-ene vi har testet, og kan trygt anbefales - både til bærbare og stasjonære PC-er. 
+For alle PC-er med harddisk vil en slik oppgradering bety vesentlig hastighetsforbedring, som vil merkes i alt fra oppstart av operativsystem og programmer, til lasting og skriving av store datafiler, til veksling mellom åpne programvinduer. 
+
+Merk at prisen pr GB ikke er blant de laveste sett i forhold til konkurrentene, og at prisene på disse romslige SSD-ene faller raskere enn i volumsegmentet (typisk 128 og 256 GB). 
+
+Seagate 600 SSD ST480HM000 480GB 

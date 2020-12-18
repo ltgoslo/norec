@@ -1,0 +1,120 @@
+Toshiba Satellite P50
+En veldig god PC til fin pris. 
+
+Utvalget av PC-er med full HD-skjerm begynner omsider å bli temmelig stort, og prisene er stadig på vei nedover - de rimeligste koster nå under 5.000 kroner. 
+
+Høy skjermoppløsning har mange fordeler, ikke minst med tanke på at bilder og tekst blir skarpe, men også fordi du får plass til vesentlig mer i skjermbildet enn hva som er mulig på "standardskjermer" med oppløsning på 1366 x 768 piksler. 
+
+Den mest negative konsekvensen av høy oppløsning er at tekst og andre elementer blir mindre, noe som kan gå ut over lesbarheten. 
+Heldigvis finnes det botemidler mot det også. 
+
+Helt ny serie 
+
+Toshiba kom nylig med en rekke nye PC-er basert på Haswell-arkitektur (siste generasjon prosessor, grafikk og brikkesett fra Intel), og vi har tatt en av de mest interessante i nærmere øyesyn. 
+Satellite P50 kommer i en rekke forskjellige konfigurasjoner, samtlige har 15,6" skjerm med full HD-oppløsning. 
+Prisene starter på rundt 5.600 kroner. 
+
+Modellen vi har sett nærmere på er imidlertid noe bedre spesifisert, og koster derfor litt mer. 
+Her er en kort oppsummering av de viktigste egenskapene: 
+
+Fullt navn: 
+Toshiba Satellite P50-A-11K Skjerm: 15,6" blank full HD-skjerm, TN-panel, 1920 x 1080 piksler Prosessor: 
+Intel Core i7-4700MQ (fire kjerner) RAM: 
+8 GB (maks 16) 
+Grafikkort: 
+GeForce GT 745M (2 GB) 
+Lagring: 750 GB harddisk, 5400 rpm Optisk drev: 
+DVD-brenner for alle formater Skjermutganger: 
+VGA og HDMI USB-porter: 2 x USB 3.0 og 2 x USB 2.0 (fire totalt) Webkamera: 2 megapiksler Kortleser: 
+SD/SDHC/SDXC Trådløst nett: b/g/n (Intel Centrino Wireless-N 2230) 
+Kablet nett: 10/100/1000 Mbps Annet: 
+Bluetooth OS: 
+Windows 8 64-bit Størrelse: 377,5 × 25,8 × 244 mm Vekt: 
+2,5 kg Pris: fra ca 7.800 kr inkl mva (jf Prisjakt 1.8.2013) 
+
+Som du ser er PC-en rimelig godt utstyrt, med blant annet siste generasjon firekjernet prosessor fra Intel og dedikert grafikkort fra Nvidia. 
+Maskinen leveres dessuten med DVD-brenner, noe som ikke lenger er noen selvfølge - men likevel ønskelig for mange. 
+
+Merk imidlertid at skjermen ikke er berøringsfølsom. 
+Den har dessuten et ganske så blankt belegg, noe som medfører temmelig mye gjenskinn når lysforholdene er vanskelige. 
+Og i motsetning til litt dyrere PC-er har denne et TN-panel (dyrere har gjerne PLS/IPS). 
+Det betyr ikke så mye når skjermen betraktes rett forfra, men fra sidene og spesielt ovenfra vil bildet raskt bli dårligere. 
+
+Solid inntrykk 
+
+Utover det er det ikke veldig mye negativt å si om materialvalget. 
+Lokket og platen rundt tastaturet er av aluminium. 
+Bunnplaten er av plast. 
+Maskinen virker rett og slett tight, godt oppstivet og solid. 
+Tykkelsen på 2,5 cm er ikke større enn at maskinen har et ganske slankt uttrykk. 
+
+Tastaturet er baklyst og oppleves som meget bra. 
+Platen har null svikt, og tastene er responsive og støysvake, selv i en hamrende touch-hverdag. 
+Dette virker rett og slett bunnsolid. 
+
+Enkelte P50-konfigurasjoner kommer med berøringsskjerm. 
+Det får du ikke på vårt testeksemplar, men den store multiberøringsfølsomme pekeplaten fungerer ypperlig. 
+Eneste lille ankepunktet vi har er at feltene for venstre- og høyreklikking kunne vært litt større, men det er ikke noe stort problem. 
+
+Høyttalerne er fra Harman Kardon, og byr på bedre lyd med mer fylde enn det som er malen i klassen. 
+Helt greit med dempet musikk i bakgrunnen, til alt annet bruker du eksterne høyttalere eller hodetelefoner. 
+
+Alle tilkoblingene sitter til venstre og høyre, mens kortleseren sitter i fronten: 
+
+Slik er den i bruk 
+
+Fra du skrur på maskinen til Windows 8 er ferdig lastet, tar det 30 sekunder. 
+Det er relativt bra med tanke på at PC-en er utstyrt med harddisk, maskiner med SSD laster Windows ofte minst dobbelt så raskt. 
+Slik er det bare, det SSD mangler på lagringsplass tar den igjen på hastighet. 
+Kjøper du denne PC-en får du mye lagringsplass, men det går litt på bekostning av hastigheten i en del diskintensive oppgaver, som oppstart, veksling mellom programmer og lasting og skriving av store datafiler. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,6 Minne: 7,8 Grafikk: 6,8 Spillgrafikk: 6,8 Primær harddisk: 
+5,9 
+
+Selv ved relativt tung belastning blir viftene svært sjelden særlig støyende. 
+Tung spilling vil naturlig nok kreve kjøling av grafikkortet, så da må du belage deg på noe mer støy. 
+Ja, for denne PC-en har et relativt kraftig grafikkort til glede for deg som liker å spille på PC-en. 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og her får du noen nøkkeltall - krydret med våre kommentarer. 
+
+Prosessor: 7306 poeng. 
+Dette er øvre del av skalaen hva angår prosessorytelse på bærbare PC-er, og selv om det finnes raskere modeller, er det neppe her du vil oppleve noe flaskehals med det første. 
+Et godt valg for deg som har lyst på en PC som kommer til å holde tritt med utviklingen på programvaremarkedet de kommende fire-fem årene. 
+
+Grafikk: 
+839 poeng. 
+Neste dobbelt så høy 3D-ytelse som den integrerte grafikken fra Intel, og temmelig midt på treet i spillsammenheng. 
+Men du kan spille helt nye spill fra topp 10-lista i elektronikkbutikken, men må nok belage deg på å gå litt ned på oppløsning og detaljnivå for en flytende opplevelse i de mest krevende scenene. 
+
+Harddisk/SSD Lesehastighet: 
+Inntil 96 MB pr sekund Skrivehastighet: 
+Inntil 88 MB pr sekund. 
+Dette er typiske tall for 5.400 rpm-harddisker, og definitivt det største ankepunktet mot denne PC-en. 
+Denne kan du riktignok bytte ut med en SSD senere, når behovet eventuelt melder seg. 
+En rask SSD kan gi en følelsen av en langt raskere PC, men det kommer helt an på bruksmåten. 
+Ved enkel bruk er det ikke sikkert du vil merke annet enn at programmer starter raskere. 
+
+Hva med batteritiden? 
+
+Vi har allerede vært inne på at Haswell er svært strømgjerrig, noe som betyr lenger batteritid. 
+Spesielt merkes dette når belastningen er lav, gjerne kombinert med dempet skjermlys. 
+
+Noen supertid kan du imidlertid ikke vente av denne PC-en, da Toshiba har utstyrt den med et enkelt firecellers batteri. 
+Med standardinnstillinger for skjerm og med minimal belastning - kun tilkoblet trådløst nett, holdt maskinen det gående i 6 timer og 6 minutter. 
+Ved kontinuerlig videoavspilling endte vi på like under 3 timer. 
+Det skulle bety at ved normal, variert bruk bør du kunne bruke maskinen i fire og en halv til fem timer før batteriet må lades. 
+Det er ganske midt på treet, men langt bak de beste - som oftere og oftere byr på det dobbelte. 
+
+Konklusjon 
+
+Middels batteritid og begrenset harddiskytelse til tross, dette er en veldig bra PC, og den er også bra priset. 
+Spesielt positivt er byggekvalitet, tastatur, pekeplate og det faktum at støyen er så godt som fraværende i 95 prosent av tiden. 
+At PC-en byr på god, generell ytelse i de fleste situasjoner, gjør at vi til slutt havner på en femmer på terningen - og en fortjent Godt Kjøp-utmerkelse. 
+
+PS! 
+Hvis du ikke bruker PC-en til spilling, bør du vurdere en rimeligere konfigurasjon, gjerne med i5-prosessor, her finner du alle som er tilgjengelig i Norge akkurat nå. 
+
+Toshiba Satellite P50-A-11K 

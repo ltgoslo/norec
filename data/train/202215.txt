@@ -1,0 +1,68 @@
+TEST:Microsoft LifeCam HD-5000 
+
+Vi har testet et nytt og billig HD-webkamera fra Microsoft. 
+
+For drøyt et halvt år siden testet vi LifeCam Cinema, det første webkameraet fra Microsoft som bød på HD-oppløsning, riktignok i 720-varianten og ikke i full 1080. 
+Vi ble imponert både av kameraet og programvaren, du kan lese testen her. 
+
+Nå har det dukket opp flere modeller, og vi har testet HD-5000. 
+
+Mindre og billigere 
+
+Førsteinntrykket av HD-5000 er at det ikke er like stilig i utførelsen som LifeCam Cinema, det er også mye mindre. 
+I stedet for en sylinder er HD-5000 nærmere en kube i fasongen. 
+
+Foten er ganske lik, med fleksible ledd innbakt i gummi. 
+Dette gjør kameraet lett å plassere og justere, både på toppen av en skjerm og på en bordplate. 
+
+Kameraet leveres med en generøs, nesten 2 meter lang USB-ledning festet i en fleksibel strekkavlastning. 
+Selv om du har en PC på gulvet bør ledningen rekke fra skjermtopp til baksiden av PC-en. 
+Det følger også med en liten kabelklemme, da slipper du å ha hele kabelen ligge og slenge, men kan bunte opp den lengden du ikke trenger. 
+
+Installasjon 
+
+Vi hadde allerede en versjon av LifeCam programvaren installert på vår test-PC, som (fremdeles) kjører Vista. 
+Da vi satte i program-CD-en og skulle installere fikk vi beskjed om at vi allerede hadde en oppdatert utgave av programmet på maskinen. 
+Dermed avsluttet vi installasjonen og plugget inn kameraet. 
+Det fungerte bare delvis, Live Messenger fant kameraet og vi fikk opp bildet, men LifeCam programmet fant ikke noe kamera. 
+
+Vi tok en omstart, og etter en ganske treg runde med oppdateringer fra Windows Update og enda en omstart var alt på plass. 
+Den allerede installerte programvaren var tydeligvis ikke så oppdatert som det nye installasjonsprogrammet mente likevel. 
+
+I bruk 
+
+Når alt er vel installert er webkameraet tilgjengelig i alle de vanlige chatteprogrammene, og også i videoredigeringsprogrammer. 
+Du kan altså jobbe direkte i et slikt program uten å ta opp først og så importere filer inn i programmet. 
+
+Hvordan programmene håndterer og styrer videokameraet vil variere. 
+I chatteprogrammer ligger begrensningen i kvalitet først og fremst i kapasiteten på internett-tilkoblingen, som vanligvis er langt lavere for å sende data enn å laste ned. 
+
+Dessuten kreves det maskinkraft for å håndtere HD i sanntid og sende det videre. 
+På vår 4-kjerners Core2 klarte ikke maskinen å håndtere 720x1280 i Sony Vegas Movie Studio, og Pinnacle Studio 14 ville bare bruke kameraet i VGA-oppløsning. 
+
+Men som chattekamera funger det aldeles utmerket, og til å ta bilder av gjenstander for å sende videre til andre på direkten var det også godt over godkjent. 
+
+Vi ble spesielt imponert over at kameraet og programvaren klarer å håndtere dynamikk og hvitbalanse såpass bra. 
+Ansiktsfarger og bakgrunn ser veldig riktig ut, nesten uansett lysforhold. 
+Selv om natten, med varierende og svakt lys fra 2 LCD-skjermer pluss sparepærer med både lysrør og LED, ble resultatet utmerket. 
+
+På dagtid med dagslys i et vindu i bakgrunnen, ble ikke forgrunnen for mørk, men beholdt et fornuftig lys og fargenivå. 
+
+Autofokus fungerer også bra, det tar ikke lang tid før ting faller på plass, og det skjer sjelden at automatikken drar på tur mot yttergrensene for å finne igjen seg selv. 
+
+Moro med effekter 
+
+Vil du leke deg med visuelle effekter har LifeCam-programvaren mye tull og tøys å by på. 
+Du kan få hodeplagg og ny hårprakt med et klikk, og bli transformert til et utenomjordisk vesen like enkelt. 
+Det morsomme er at det ikke er nødvendig med noen innstillinger eller kalibrering. 
+Programmet kjenner igjen hodet, ansiktet og øyne, munn etc. og modifiserer disse umiddelbart. 
+Det eneste er at du bør sitte omtrent midt i bildet som kameraet fanger. 
+
+Konklusjon 
+
+For noen få hundrelapper får du nå både et velfungerende chattekamera, du får et visuelt leketøy og et praktisk verktøy til å fange både stillbilder og videosnutter i nærheten av PC-en. 
+
+Bildekvaliteten med truecolor-automatikken er imponerende på flere områder, og er du ikke fornøyd med dette kan du alltids stille inn alle parametre manuelt. 
+
+Vi er i grunnen like fornøyd med dette kameraet som vi var med den første utgaven. 
+Prisen er nå halvert - vi blir ikke mindre fornøyd av den grunn! 

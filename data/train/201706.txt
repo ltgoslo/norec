@@ -1,0 +1,121 @@
+Lenovo IdeaPad Yoga 13
+Er dette den perfekte hybrid? 
+
+PC-produsentene har forskjellige tilnærming til hybrid-konseptet, altså PC-er som også kan brukes som nettbrett. 
+Enkelte har avtagbare skjermer, andre har skjermer som vris og kneppes over tastaturet, mens Lenovo i tillegg har sin Yoga. 
+Er denne tilnærmingen den beste? 
+
+Yoga-serien kommer med to medlemmer i starten, én med 11,6" skjerm og Windows RT (Windows 8-variant som kun kan kjøre nye apper, ikke tradisjonelle Windows-programmer), samt en modell med fullblods Windows 8 og 13,3" IPS-skjerm med oppløsning på 1600 x 900 piksler. 
+Det er sistnevnte vi har hatt på testbenken siste uka. 
+
+Og det er først og fremst skjermen som er oppsiktsvekkende på disse PC-ene; den kan ikke bare bøyes langt bakover, den kan bøyes helt rundt, 360 grader! 
+Og i den posisjonen deaktiveres tastaturet, og det hele forvandles til et nettbrett. 
+
+Siste generasjon Intel 
+
+Yoga 13 kommer med typiske Ultrabook-spesifikasjoner, med Core i3/i5/i7 ULV-prosessor og 128 GB SSD. 
+Foreløpig ser det ut til at det bare er i3- og i7-utgavene som finnes i norske butikker, mens vi har fått tilsendt i5-utgaven til test fra Tyskland. 
+
+Vi har derfor lenket til priser på i7-utgaven som ligger rundt 10.000 kroner i oppsummeringen nederst. 
+Den vil ha noe bedre prosessorytelse enn vårt testeksemplar, men er ellers lik. 
+
+Her er de viktigste egenskapene kjapt oppsummert: 
+
+Skjerm: 13,3" blank berøringsskjerm, 1600 x 900 piksler Prosessor: 
+Intel Core i5-3317U RAM: 
+4 GB (maks 8) Grafikkort: 
+Intel HD 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 1 x USB 3.0 + 1 x USB 2.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/MMC Trådløst nett: b/g/n Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Størrelse: 33 x 224 x 17 mm Vekt: 1,54 kg Pris: ca 10.000 kr (gjelder i7-utgaven, jf Prisjakt 11.2.2013) 
+
+Dette er veldig "midt på treet"-spesifikasjoner, og prisen er omtrent der vi forventer at den skal ligge for denne spesifikasjonen. 
+Men Lenovo har som ventet noen ess i ermet, først og fremst når det gjelder innpakning. 
+
+Kvalitetsfølelse 
+
+Designen er slank, uten utstikkende detaljer, materialvalget gir absolutt en kvalitetsfølelse. 
+Metallet i chassis og rundt tastaturet er dekket av en lett gumiert hinne, som blant annet forhindrer fingermerker. 
+
+Tastaturet har de karakteristiske, lett buede Lenovo-tastene, og representerer kort og godt noe av det beste du får i klassen. 
+Fast og fint med meget god respons, perfekt for lange skriveøkter. 
+
+Den store pekeplaten har integrerte venstre- og høyreknapper, og kan også brukes med såkalte "gestures" hvis du for eksempel vil bla gjennom åpne apper. 
+Da sveiper du bare fra venstre til høyre over pekeplaten, slik du ellers ville gjort på skjermen. 
+Knappene har litt høyere klikkelyd enn vi setter pris på, ellers fungerer dette helt supert. 
+
+Alle tilkoblingene sitter på sidene, her finner du også av/på-knapp og lydjustering, som blir lett tilgjengelig i nettbrettmodus. 
+
+God skjerm, men fortsatt ikke optimalt 
+
+Skjermen er av IPS-typen som gir svært god innsynsvinkel, uten at bildet blir invertert eller kontrastsvakt. 
+Oppløsningen er også perfekt på en 13,3-tommer, mener vi. 
+Men overflaten er veldig blank, noe som gir mye gjenskinn. 
+
+Berøringsfølsomheten er helt topp, og maskinen reagerer lynraskt på alle inputs. 
+
+Som nettbrett er imidlertid ikke Yoga mer optimalt enn de fleste andre hybridene; 
+De er for tunge til å bli noe førstevalg; Yoga er dobbelt så tung som iPad - og vel så det. 
+Det merkes godt under bruk, selv når brettet hviler i fanget. 
+Utvalget av berørings-apper er økende, men er langt spedere enn for Android- og iOS-brett. 
+Dette må bli bedre i tiden som kommer, pr i dag er det vanskelig å se de store fordelene med å bruke denne og tilsvarende maskiner i nettbrettmodus. 
+
+Hurtigtog 
+
+Fra vi skrur på PC-en til Windows er lastet og man kan begynne å jobbe, tar det i underkant av ti sekunder. 
+Det er meget raskt, faktisk blant de raskeste vi har testet. 
+Opplevelsen fortsetter når vi bruker PC-en, og med unntak av prøveversjonen av sikkerhetspakken fra McAfee som stadig popper opp med varsler på skjermen, er brukeropplevelsen absolutt god. 
+
+Men hvorfor går viften konstant, Lenovo? 
+Den er ikke særlig høylytt, men likevel: 
+Merk deg at viften går selv når maskinen ikke har noe spesielt å gjøre. 
+Dette har nesten alle konkurrentene fikset bedre. 
+La oss håpe fremtidige oppdateringer av drivere og firmware vil rette på dette. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 (sannsynligvis 7,2 på i7-utgaven) Minne: 5,9 Grafikk: 
+4,7 Spillgrafikk: 
+6,2 Primær harddisk: 
+7,8 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsestallene mot andre, relevante hybrid-modeller vi har testet den siste tiden: 
+
+Prosessoren yter omtrent nøyaktig med tilsvarende i5 i andre hybrider. 
+I praksis betyr det mer enn nok kraft til alle vanlige oppgaver 
+
+HD 4000 sitter i alle disse maskinene, og selv om ytelsen varierer noe (har blant annet med minnehastighet å gjøre), byr de på mer enn god nok ytelse til alt av 2D-oppgaver, inkludert video i alle mulige oppløsninger. 
+Til spilling (og da tenker vi ikke på typiske nettbrettspill), ville vil sett en annen vei 
+
+God lese og skriveytelse på SSD-en, bak de beste, men flere ganger raskere enn de fleste harddiskløsningene. 
+Det betyr at skriving/lesing av data normalt sett ikke vil utgjøre noen som helst flaskehals i denne maskinen. 
+
+Batteritid helt på snittet 
+
+Lenovo antyder rundt syv timer batteritid. 
+Vi klarte også syv timer, men da stod maskinen uten å gjøre noe spesielt, foruten å være tilkoblet det trådløse nettet. 
+Ved kontinuerlig videoavspilling holdt batteriet ut i tre timer og 40 minutter. 
+Batteritid på 5-6 timer med normal, variert bruk bør være realistisk. 
+Det er omtrent som forventet i denne klassen nå: 
+
+Konklusjon 
+
+Ingen tvil om at Lenovo har laget en robust og fin maskin i Yoga. 
+Vi vil huske den gode skjermen, tastaturet og innpakningen som spesielt positivt, og litt viftesus som det mest negative. 
+At en maskin på 1,5 kg og viftesus ikke er optimal som nettbrett bør vær åpenlyst, men som tradisjonell PC er dette slett ikke noe dårlig valg. 
+
+Vi skulle gjerne hatt muligheten for å gi halve karakterer. 
+Da hadde denne maskinen landet midt mellom fire og fem på terningen. 
+Vi lar tvilen komme den tiltalte til gode, og havner til slutt på en svak femmer. 
+Dette er nemlig en god PC, men sjekk våre plusser og minuser i boksen under før du bestemmer deg, og les også testene av andre, relevante hybrider. 
+Du finner oversikten ved å følge lenken under. 
+
+PS! 
+Yoga 11 vil dukke opp noe senere, og vi har her kun fått en EU-pris på 799 Euro, eller rundt kr 5900,-. 
+
+Lenovo IdeaPad Yoga 13 2191-2LG MAM2LMX 

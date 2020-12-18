@@ -1,0 +1,65 @@
+Ytelse og konklusjon
+Vi lar oss imponere av knallgod batterilevetid, og varm blir den jo aldri... 
+
+Den forrige 13,3-tommeren vi testet var Satellite U400 fra Toshiba, som jo fikk nokså gode skussmål fra oss. 
+
+LES OGSÅ: 
+
+Likevel hadde vi også litt å sette fingeren på der - blant annet varmeutvikling, mangelen på gigabit LAN og at vi kunne ønsket oss litt mer ut av batteriet. 
+
+Så når Lenovos ThinkPad SL300 gjør sitt inntog på markedet til en tusenlapp mer blir jo spørsmålet om det er verd prisforskjellen. 
+
+Ser vi først kjapt på spesifikasjonene har altså SL300 Centrino 2-brikkesettet, men mangler "riktig" prosessor for å kvalifisere som en Centrino 2-maskin. 
+I forhold til U400 har den derfor litt heftigere integrert grafikk (men spillere vil nok fremdeles ha en bærbar med dedikert grafikkløsning), mens U400 på sin side har en litt kjappere prosessor og veier en hekto mindre. 
+
+I tillegg har vi sett på forskjellen fra ThinkPad X300. 
+Javisst er det urettferdig ettersom X300 tross alt veier 700 gram mindre enn SL300, men så får du selv avgjøre om denne ville være verd nærmere tredobbel pris. 
+
+Så la oss se på ytelsen: 
+
+PCMark05: 
+
+Høyere poengsum er bedre 
+
+SL300 gjør det best i så å si alle disipliner. 
+Merk også at grafen lyver litt ettersom X300 scoret over 14000 poeng på HDD (den har SSD), og dette preger i stor grad totalsummen. 
+
+Tid i sekunder, lavere er bedre Også her ligger SL300 hakket foran, men 13N-modellen av Satellite U400 ville nok gjort det hakket bedre enn denne her på grunn av en raskere prosessor. 
+
+Høyere poengsum er bedre 
+
+ThinkPad er ikke noen racer-PC, men til all vanlig bruk - som blant annet medieavspilling, kontorprogrammer, surfing, vanlig bilde- og videobehandling - duger den fint. 
+Men merk også at selv om Intels nyeste integrerte grafikkløsning GMA X4500 har en markant fordel i forhold til forrige generasjon, er det fremdeles best å velge en modell med et dedikert grafikkort dersom du har tenkt å bruke den mye til spill. 
+
+Så er du ute etter en billig bærbar for spilling finnes det langt bedre kandidater. 
+
+Levetid i minutter, konstant på 
+
+Batteriet imponerte oss. 
+Med våre vante rutiner holdt SL300 ut i seks timer - et resultat vi ikke har vært i nærheten av på noen år dersom vi ser bort fra modeller som er spesielt optimalisert for lang batterilevetid (ULV-prosessorer osv). 
+Ikke engang X300 (i det minste den versjonen med optisk drev) klarte helt å nå opp til dette. 
+
+Støy og varme 
+
+TouchPad SL300 er ikke spesielt støyende. 
+Selv under tung belastning kjører vifta jevnt og gjør ikke så mye ut av seg, men når maskinen først er blitt varm går også vifta mer eller mindre kontinuerlig - selv når den ikke jobber med noe spesielt. 
+
+I et kontorlandskap får du i det hele tatt problemer med å høre om PC-en er slått på eller ikke, men er du i helt rolige omgivelser merker du at den heller ikke er av de aller mest stillegående. 
+Den har dog ingen spesielt sjenerende ulyder. 
+
+Det som er bra med at vifta jobber litt er at maskinen holder seg kjølig - det må faktisk være en av de minst varme bærbare vi har vært borti. 
+Hotspots er ikke-eksisterende, og selv etter hard jobbing er det null problem å ha denne på fanget. 
+
+Konklusjon 
+
+Terskelen for å gi toppkarakter til en bærbar datamaskin er nokså høy - faktisk har undertegnede aldri tidligere gitt dette til en laptop. 
+
+Så når denne journalisten for første gang "triller" en sekser til et slikt produkt er det ikke uten en rekke gode grunner, og fordi vi samtidig mangler direkte dårlige egenskaper å trekke ned på. 
+
+Lenovo ThinkPad SL300 er nemlig en bærbar med en kvalitet godt over normalen for sin prisklasse - med grei ytelse, en glimrende skjerm, imponerende batterilevetid og god kjøling. 
+
+I tillegg er den godt utstyrt med tanke på nettverk, de fleste kontakter og tilkoblinger er på plass - samt greit lagt opp, tastaturet er behagelig og at den har trådløst bredbånd med fri bruk i tre måneder inkludert gjør jo også sitt. 
+
+Så får det heller være at vifta kunne vært en tanke mer stillegående, at maskinen kan virke en smule tykk og tung med sine 2,2 kilo, at Fn-tasten er feilplassert (det er vår kjepphest) og at vi ikke er spesielt imponert over hvor "ripebestandig" det blanke lokket er - etter et par dager i sekken bærer den nemlig preg av å ikke ha et eget futteral. 
+
+For alt i alt er det snakk om detaljer som ikke trenger bety en døyt for akkurat deg, og uansett mener vi at ThinkPad SL300 er et glimrende alternativ dersom du er ute etter en liten, småtøff og ikke alt for dyr bærbar. 

@@ -1,0 +1,121 @@
+Elitegroup Green 732
+Potente bærbare PCer med stasjonær teknologi er billige og blir stadig mer populære. 
+Green 732 henvender seg til deg som ønsker færrest mulig kompromisser ved overgangen fra en stasjonær til bærbar hverdag. 
+
+Det er slutt på tiden da eiere av bærbare PCer bare var mennesker som stilte beskjedne krav til ytelse og tilkoblingsmuligheter. 
+Standardisering, samt billigere og bedre teknologi, har ført til at prisene har stupt - ikke minst siste året. 
+Dermed har også etterspørselen eksplodert, og bærbare PCer formelig sluker andeler fra det totale PC-markedet. 
+
+LES OGSÅ: 
+
+(fortsetter under reklamen) 
+
+Først ute 
+
+Green 732 produseres av taiwanske Elitegroup (ECS). 
+Selskapet er faktisk verdens største produsent av hovedkort til PC, og var også aller først ute med en bærbar PC som benyttet teknologi (prosessor og brikkesett) som egentlig var ment til stasjonære PCer. 
+Hybridløsningen fra ECS ble kalt Desknote (fra DESKtop og NOTEbook). 
+Multicom importerer og selger disse maskinene i Norge. 
+
+Vi stiftet bekjentskap med Desknote i-Buddie i fjor, som blant annet manglet innebygd batteri. 
+Vi lot oss derimot ikke imponere over produktet 
+ du finner testen her. 
+
+Siden har mange andre produsenter og leverandører også lansert bærbare PCer basert på stasjonær teknologi, blant andre Toshiba, Fujitsu-Siemens, Zepto og en lang rekke andre. 
+Med stor suksess. 
+Les mer om forskjellene på Mobile og Desktop-teknologien her. 
+
+Toppspesifisert 
+
+732 er toppmodellen i Green-serien. 
+Dette er en meget kraftig PC med flust av utstyr og tilkoblingsmuligheter. 
+Her er et utdrag: 
+
+Intel Pentium 4  2,53 GHz (533 MHz bus) 
+
+15 TFT fargeskjerm, 1400x1050 punkter 
+
+ATI Radeon Mobility 9000 grafikk, 64 MB (AGP 4x) 
+
+512 MB DDR-SDRAM 
+
+40 GB harddisk 
+
+8x16x8x24x DVD-leser/CD-brenner (kombinert) 
+
+4 USB 2.0-porter 
+
+FireWire-port 
+
+IrDA-port (infrarød kommunikasjon) 
+
+Innebygd WLAN 11 Mbit trådløst nettverk 
+
+Vi merker oss spesielt at PCen er utstyrt med grafikkbrikken som i skrivende stund er den aller raskeste på bærbar-markedet, samt at du får hele fire høyhastighets (2.0 HiSpeed) USB-porter. 
+Trådløst nettverk hilses også velkommen. 
+
+Ut med gammel teknologi 
+
+Ut over dette har PCen selvsagt også vanlig nettverksport (10/100 Mbit), 56 Kb modem, 1 stk PCMCIA-plass, TV-utgang og parallellport. 
+Du får derimot verken diskettstasjon, gammel seriellport eller PS/2 port. 
+Det betyr blant annet at du må bruke to av de ledige USB2.0-portene til eksternt tastatur og mus, dersom du skulle foretrekke dette. 
+
+Verdt å merke seg at PCen i utgangspunktet leveres uten operativsystem, og koster da i skrivende stund 15.990 kroner inkl mva. 
+Du kan altså spare 1.179 kroner i forhold til prisen vi har oppgitt, dersom du har lisens på Windows fra før. 
+CD-brenneprogram fra Roxio (Easy CD Creator 5) og WinDVD (DVD-avspilling) får du derimot med uansett, samt drivere og veiledninger på CD-ROM. 
+
+Anonym 
+
+Selve PCen har et anonymt ytre, uten noen som helst merking (bortsett fra Green 732-stempelet på undersiden). 
+Vi antar at Elitegroup ønsker å selge modellen til PC-leverandører som vil sette sitt eget merke på den. 
+Kabinettet er i sort med sølvgrå detaljer, lokket har en matt, nesten gummiaktig overflate som dessverre viser fingermerker og fettflekker for raskt. 
+Det er på den annen side ganske stivt og gir akseptabel beskyttelse for skjermen, men i likhet med de fleste andre lokk til bærbare PCer bør du ikke legge tunge gjenstander på det. 
+
+Selve skjermen er en helt grei 15 med høy oppløsning (1400x1050 punkter), middels lyssterk og med godt innsyn fra sidene. 
+
+Tastaturet er stort, og spesialtaster har logiske plasseringer i forhold til et vanlig tastatur. 
+Dessverre er enkelte spesialtaster litt små, deriblant mellomromstasten, og tastaturet lager en klirrelyd når du skriver på det. 
+Det kan kanskje være litt irriterende, men alt i alt er dette et brukbart tastatur. 
+
+Over tastaturet finner du tre knapper, to av dem er hurtigknapper som starter nettleser og epost. 
+Den siste, som er plassert i midten, er av/på-knappen. 
+Pekeplaten under tastaturet er naturligvis midtstilt i forhold til F og J-tastene, og du finner også en todelt opp/ned-scrolleknapp mellom høyre og venstre museknapp. 
+I fronten av PCen finner du knapper for å styre CD/mediaavspilling, samt regulering av lyd. 
+
+Alt i alt en funksjonell og praktisk utforming, men vekten på 3,8 kg vil nok skremme vekk de mest mobile brukerne. 
+
+Viftestøy 
+
+Green 732 har to vifter. 
+Den ene sitter over tastaturet til venstre, hvor den også har inntrekk. 
+Den andre sitter mitt under PCen. 
+Dette sikrer godt med luft, men løsningen fører til en del støy. 
+Når vi legger til at viftene går konstant, forstår kanskje de fleste at Green 732 ikke er en god løsning dersom du tilbringer mye tid på forelesninger, møter og lesesaler. 
+Den støyer rett og slett for mye. 
+
+Ytelse i toppen 
+
+Når det gjelder deg som er opptatt av rå ytelse, viste Green 732 å være et svært attraktivt alternativ til en stasjonær PC. 
+Ytelsen var i de fleste situasjoner hakket bedre enn på Amilo D8820 med samme prosessor og med samme SIS645-brikkesett, som frem til i dag har vært den raskeste PCen vi har testet. 
+
+I praksis betyr dette at Green 732 vil gi deg mer enn nok kraft til tunge 3D-spill og programmer, og at ytelsen neppe blir noe flaskehals de nærmeste par årene. 
+Vi opplevde forresten at PCen krasjet en gang ved kjøring av 3D-ytelsetesten fra Futuremark, men vi klarte ikke å gjenskape den, selv etter iherdige forsøk. 
+Vi kan derfor ikke påstå at maskinen er mindre pålitelig enn sine konkurrenter. 
+
+Se tekniske detaljer i oppsummeringsboksen for utdypende informasjon og ytelsestall. 
+
+Vi hadde ikke de største forventningene til batterilevetiden på en så kraftig PC, med vifter som går konstant. 
+Vi ble derfor positivt overrasket over at Li-ion batteriet holdt maskinen gående i 2 timer og 36 minutter. 
+Det er slett ikke verst for denne typen PC. 
+
+Konklusjon 
+
+Elitegroup Green 732 er billig, og du får massevis av utstyr og tilkoblingsmuligheter. 
+En ypperlig erstatter for de fleste stasjonære PCer, og den gir deg mest bærbar PC for pengene akkurat nå. 
+
+Det mest negative ved denne PCen er et at den avgir en del støy, noe som ofte er baksiden av medaljen når du velger en bærbar PC med stasjonær teknologi. 
+De 3,8 kg synes vi er i tyngste laget, men vil neppe være avgjørende for målgruppen. 
+
+OPPDATERT 11.8.2003: 
+Multicom selger nå en oppdatert versjon av 732 med 3 GHz prosessor og 60 GB harddisk til 15.995 kroner inkl mva. 
+Maskinen er ellers identisk med modellen vi testet. 

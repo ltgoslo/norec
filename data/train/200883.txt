@@ -1,0 +1,52 @@
+TEST:Billig bærbar som mediesenter 
+
+Koster 3.590 kroner og spiller HD-video uten problemer. 
+
+Flere og flere ser fordelene ved å bruke PC-en som mediesenter tilkoblet TV og musikkanlegg, og blant de mest populære løsningene finner vi Apples Mac Mini, samt de mange mini-PC-ene som er basert rundt Intels Atom-prosessorer. 
+Du finner lenker til noen av de mest aktuelle testene nederst i denne artikkelen. 
+
+De tar litt større plass enn mini-PC-ene, men det er mange grunner for heller å bruke en bærbar PC som stue-maskin. 
+Eksempelvis koster Asus X5DIJ ikke stort mer enn en stasjonær mini-PC, men har i tillegg innebygd både tastatur, mus, skjerm og optisk drev, og det kan mange ganger være praktisk. 
+Skal du for eksempel bare spille musikk behøver du da ikke å ha på TV-en i det hele tatt. 
+
+For ikke å glemme at du kan ta PC-en med deg i sofaen. 
+Bruksområdene er med andre ord langt flere enn hvis du bruker en stasjonær PC som mediesenter. 
+
+Fungerer flott med XMBC 
+
+Vår test av X5DIJ viste at den var kraftig nok til å spille av alle HD-videoklippene som vi bruker når vi tester PC-er. 
+Hvordan blir det å koble den til en TV med full HD-oppløsning (1080P - 1920 x 1080 piksler)? 
+Vi måtte selvfølgelig teste. 
+
+De billigste maskinene har som regel kun VGA-skjermutgang og kun stereo lyd. 
+X5DIJ er intet unntak i så måte. 
+VGA fungerer imidlertid helt fint i 1080P, og dersom du har behov for surroundlyd, kan du fortsatt få det ved hjelp av et eksternt USB-lydkort. 
+
+Når du kobler en bærbar PC til en ekstern skjerm, får du anledning til å duplisere bildet, eller "forlenge" det slik at du for eksempel kan flytte bildet mellom dem. 
+Du kan også velge å kun bruke den eksterne skjermen, noe som kan være nødvendig dersom grafikkbrikken er veldig svak. 
+
+Sistnevnte er også høyaktuelt dersom du ønsker plassere den bærbare i hyllen under TV-en, og av den grunn må stenge lokket. 
+
+Vi installerte mediesenter-løsningen XBMC, som støtter de aller fleste aktuelle filformatene. 
+XBMC er dessuten gratis, og svært brukervennlig. 
+
+Så koblet vi til Microsoft Wireless Desktop 800, som med sin gode rekkevidde fungerer glimrende fra stuebordet. 
+
+X5DIJ klarte uten problemer å spille av selv de mest krevende HD-klippene på ekstern skjerm, og fortsatt beholde et annet skjermbilde på den interne. 
+Vi har laget en liten video som demonstrerer avspilling av full HD (VC1-format i MKV-konteiner): 
+
+Dette får du ikke 
+
+Er det da bare fordeler med å velge en billig bærbar PC i forhold til en mini stasjonær-PC? 
+Nei, ikke bare. 
+Vi har alt nevnt størrelsen. 
+En bærbar av denne typen tar opp litt ekstra plass. 
+
+Tilkoblingsmulighetene er som regel også færre på en billig bærbar PC. 
+Her er det for eksempel sjelden HDMI-utgang, gigabit nettverksstøtte, digital lydutgang eller mulig å koble til eksterne harddisker via eSATA-grensesnitt. 
+Har du behov for dette på en bærbar, må du som regel opp en tusenlapp eller to. 
+De fleste stasjonære mini-PC-ene vi har testet i 3.000-kronerssegmentet, har dette på plass. 
+
+Hvis dette ikke er av betydning, kan en bærbar løsning som den vi har skissert over være et glimrende valg, når du ønsker surfemuligheter på TV-en, tilgang til Spotify, videoutleie på nett, og selvfølgelig avspilling av DVD-filmer og annet lokalt materiale. 
+
+Få også med deg ferske tester av stasjonære mini-PC-er: Asus Eee Box EB1012P, ViewSonic PC mini 132, Shuttle XS 3410MA og Apple Mac Mini. 

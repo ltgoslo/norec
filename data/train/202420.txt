@@ -1,0 +1,66 @@
+Orb Music
+En liten dings som spiller lyd fra nettverket ditt, og vi har testet. 
+
+Orb er ute med flere løsninger som gir deg tilgang til mediefiler og annet innhold formidlet via hjemmenettverket. 
+Vi har tidligere testet Orb BR som gjør det mulig å se video fra PC-er på hjemmenettet eller fra Internett via en Blu-rayspiller koblet til hjemmenettverket. 
+
+Men Orb har også et par andre løsninger, vi har testet den som tar seg av lyd. 
+
+Orb Music 
+
+Selve enheten er en rund liten sak med to tilkoblinger: 
+USB for strøm og oppsett og stereo minijack lydutgang. 
+
+Strømforsyningen har USB-utgang og er på 1000mA, og gir altså dobbelt så mye strøm enn en vanlig USB-port. 
+
+Lydsignalet er analogt og det følger med en splitt-kabel fra minijack til to phonoplugger som kobles inn i et lydanlegg. 
+
+For at det hele skal spille må man først installere programvare som tar seg av musikkbiblioteket som ligger på datamaskiner i hjemmenettverket og annet medieinnhold som ligger ute på nettet. 
+Dette er den samme OrbCaster programvaren som vi installerte da vi testet Orb BR. 
+
+Installasjon 
+
+Programvaren er enkel og oversiktlig, du setter og konfigurerer hvilke enheter som skal være med, og velger hvor programmet skal finne mediefilene som skal spilles. 
+
+Installasjonen av Orb Music starter så ved at du kobler den til PC-en med OrbCaster med en USB-kabel. 
+Framdriften under installasjonen var noe treg, først måtte ny firmware lastes ned, så installeres, men også etter dette tok det litt tid før alt var på stell. 
+
+Vi satte opp enheten til å fungere på vårt nettverk ved å velge riktig SSID og legge inn passord. 
+Så kobler man OrbMusic fra og flytter den dit den skal brukes og kobler den til med strømforsyningen og signalkabelen. 
+Da skal OrbMusic koble seg på det trådløse nettverket og være klar til bruk. 
+Dette gikk forholdvis tregt, langt tregere enn for for eksempel en iPhone eller bærbar PC skal koble seg på. 
+
+For å styre avspillingen, valg av filer eller strømmer osv. 
+trenger man en fjernkontroll. 
+Det typiske er å bruke en mobilapp, som finnes både til Android og iPhone og lastes ned gratis (eller rettere sagt – den er inkludert i prisen). 
+
+Her velger man hvilken enhet som det skal spilles fra, så er det bare å manøvrere seg fram i egne biblioteker eller innhold på nett. 
+
+I praksis 
+
+Etter å ha koblet enheten fra USB og koblet den til sin egen strømforsyning sjekket vi at den fant nettverket og spilte. 
+Det tok som nevnt litt tid før den fant seg tilrette på nettverket, men det fungerte. 
+
+Så flyttet vi den ned fra hemsen over annen etasje og ned i første, og koblet den til anlegget i kjøkkenet. 
+
+Det varte og det rakk, men den koblet seg aldri på nettverket. 
+
+Etter å ha flyttet OrbMusic en etasje opp koblet den seg på nettverket og så fungerte det greit. 
+
+Men det tok ett minutt og ti sekunder – det er lenge. 
+
+(Vi brukte ruteren Netgear N900 under testingen, og det er den ruteren som har best rekkevidde av alle ruterne vi har testet.) 
+
+Lydkvaliteten er det ikke noe å si på. 
+Den er praktisk talt støyfri og har et signal som er kraftig nok til å drive både hodetelefoner og linjeinnganger. 
+
+Konkusjon 
+
+Orb Music og programvaren er i utgangspunktet forbilledlig enkel og grei både i oppsett og bruk. 
+De eneste innvendingene er at er tregere enn vi skulle ha ønsket, og rekkevidden er kanskje ikke den beste. 
+
+En ting er at den bruker så lang tid på å komme på nett, og at man må velge bruker på nytt i Orb-appen hvis (når) iPhone går i dvale og dropper kontakten med nettverket. 
+Hadde alt vært litt kjappere hadde brukeropplevelsen vært vesentlig bedre. 
+Men i en fast installasjon er den absolutt til å leve med. 
+
+Mer info finner du på den norske distributøren. 

@@ -1,0 +1,63 @@
+Minitest:Pinnacle Studio 14 
+
+Enkel videoredigering har blitt bedre. 
+
+Studio fra Pinnacle klatrer videre på versjonsstigen, og den siste versjonen vi testet var versjon 11 i 2007. 
+Etter den kom versjon 12 som ikke var helt uproblematisk, deretter hoppet Pinnacle glatt over versjon 13. 
+Nå sitter vi med Studio 14 Ultimate, som er kraftig opprustet på flere områder. 
+
+Mer eller bedre? 
+
+De fleste videoredigeringsprogrammer inneholder en lang rekke effekter, prosesseringsverktøy og overganger, og hver nye versjon byr på enda flere. 
+Vi kan ikke huske at vi har hørt om mange som har klaget over at det er for få slike effekter, snarere tvert i mot. 
+
+Det de fleste setter mest pris på er at programmet virker logisk å bruke, at det har god respons og at man slipper å sitte og vente i stadige småpauser mens programmet jobber. 
+
+Samtidig dukker det opp nye formater både hos opptaksutstyr og for avspillingsmuligheter, enten vi snakker om kodek'er, filformater, distribusjonsløsninger og nettjenester. 
+
+I Studio 14 har Pinnacle både forenklet brukerflaten og byttet ut de underliggende mekanismene, slik at de er enklere, mer effektive og åpner for flere utviklingsmuligheter. 
+Siden Pinnacle er en del av Avid-gruppen som er sentrert rundt profesjonell videoredigering, har tekniske ressurser derfra blitt tilgjengelige for utviklingen av Studio. 
+
+Sammenlignet med tidligere versjoner av Studio virker versjon 14 både mer responsiv, raskere og mer stabil. 
+Støtten for inn og ut-standarder har også blitt utvidet. 
+
+Installasjon og bruk 
+
+Programmet kommer på en DVD og var rett fram å installere. 
+Det krever 3,6 GB ledig plass på disken (med alle tillegg), i tillegg kommer plass til videofilene. 
+
+Vi testet med materiale i AVCHD-format fra vårt Sony-kamera, dette gikk helt uten probler. 
+Filene ble registrert og dukket opp i importvinduet klart for avkryssing og kopiering fra disken i kameraet til arbeidsdisken på PC-en. 
+
+Stop motion, hvor du setter sammen enkeltbilder fra f.eks. webcam eller annen videokilde til animasjoner er en ny mulighet, og du ser de forrige bildene som gjennomsiktige lag slik at du lettere kan plassere objekter som skal bevege seg. 
+
+Studio bruker fremdeles sine klassiske alternative redigeringsoppsett, hvor du kan velge mellom storyboard, timeline og listeformat, men programmet har nå fått en mørkere bakgrunn som er lettere for øyet. 
+Vinduet for forhåndsvisning kan strekkes ut eller forminskes, og størrelsen på de andre elementene i programmet justeres automatisk. 
+
+Plassering av klipp og justering av start og slutt foregår direkte på tidslinjen eller i et eget vindu, akkurat som i tidligere utgaver. 
+
+Det som er nytt finner du når du går inn i undermenyene for bearbeiding av klippene. 
+Her finner du overgangene, bilde i bilde, justering av farger, titler, menyer osv. 
+
+Alt er enkelt i bruk, men de mer omfattende prosesseringene på klipp av særlig lengde tar tid å rendre, mange ganger avspillingstiden. 
+Dette skyldes at det rendres i full kvalitet i stedet for bare for forhåndsvisning. 
+Du kan heldigvis fortsette å redigere og gjøre andre ting mens det rendres i bakgrunnen, men er det helt spesielle effekter du er ute etter, så tar det forferdelig lang tid å justere, rendre, justere og rendre osv. fram til ønsket resultat. 
+
+Studio 14 har nå mange muligheter for bilde-i bilde, keying-effekter (opptak av en person gjort foran grønn bakgrunnsduk kan plasseres foran en annen bakgrunn) og et utall av andre mer eller mindre spennende og fantasifulle effekter. 
+
+Vi vil imidlertid fremheve stabilisator-prosesseringen som fungerer svært bra! 
+Den blir ikke like bra som om du hadde brukt stativ i utgangspunktet. 
+Men sjøsyke opptak med håndholdt kamera gjort med full zoom blir omtrent like bra som håndholdte næropptak. 
+
+Menyer for brenning av plater har også blitt utvidet med et stort antall maler. 
+
+Hva er dommen? 
+
+Sammenlignet med tidligere versjoner er Studio blitt smidigere, mer brukervennlig og har enda flere fancy effekter. 
+Noen av disse kan løfte ellers kjedelige sekvenser til interessante hendelser, men brukt kritikkløst kan de også ødelegge det meste. 
+
+Håndtering av import og eksport til avspillingsformater har blitt utvidet og oppdatert, og dekker nå både YouTube, bærbare enheter, AVCHD, DVD og Blu-ray plater, tape og filformater i mange varianter. 
+
+Studio er tilbake på banen med versjon 14, både for nybegynnere og viderekomne. 
+
+Programmet kommer i flere varianter: grunnversjonen koster 495 kroner, Ultimate 795 kroner og Ultimate Collection 995 kroner. 

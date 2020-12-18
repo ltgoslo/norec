@@ -1,0 +1,51 @@
+Sony DRU-710A
+Også Sony er klare med sin 16x brenner, med støtte for Dual Layer. 
+Men den er blant de mer kresne når det gjelder plater og hastighet. 
+
+DRU-710A er den syvende generasjonen DVD-brenner fra Sony, og støtter både 16x DVD+R brenning og Dual Layer. 
+Den er også den korteste DVD-brenneren vi har testet hittil, ca 3 cm kortere enn BenQ, noe som er en fordel i kompakte PCer som Shuttle osv. 
+
+LES OGSÅ: 
+
+En annen stilig detalj er at det følger med to frontpaneler! 
+Standardvarianten er mest forseggjort, med lys bakgrunn og et gjennomsiktig, blålig panel over selve skuffen. 
+
+Den alternative fronten er klassisk enkel i sort, og passer perfekt i rene, sorte PC-kabinetter uten dilldall. 
+
+Det er litt småplundrete å skifte panelet, men med en passe kombinasjon av fingerferdighet, tolmodighet og en liten skrutrekker går det greit. 
+Når fronten er montert sitter den til gjengjeld godt. 
+
+Installasjon 
+
+Det var ingen problemer med installasjonen, og alt fungerte uten inngrep i Windows-oppsettet. 
+
+Programvaren som leveres med kommer fra Nero, og inneholder en solid bunt som dekker hele spekteret: 
+Nero 6 Express, NeroVision Express, InCD 4, Nero BackItUp, Nero Showtime, Nero Cover Designer, Nero Toolkit, Nero SoundTrax, og Nero WaveEditor. 
+
+Ytelse 
+
+16x plater er rett rundt hjørnet, i mellomtiden tester vi med 8x og 12x plater fra Verbatim og 8x plater fra TDK. 
+
+Noen brennere brenner 8x på 12x, men dette ville ikke Sony-brenneren påta seg. 
+Verken TDK eller Verbatim ville den utsette for mer enn 8x. 
+
+Derfor plasserte den seg midt i feltet, med 4:24 (3:40) på 2 GB +R og 5:49 (4:15) på -R. 
+På 4 GB brukte den 7:38 (5:43) på +R og 9:05 (6:46) på -R. 
+2 GB på +RW brant den på 6:39 (6:32). 
+
+(Tallene i parentes er tiden den raskeste brenneren i testen brukte på denne øvelsen) 
+
+Dual Layer med 8000 MB brant den på 43:08 (26:18) med 2.4x. 
+
+Brenning av vår testfil for CD klarte den på 3:09 (2:40) , som er respektabelt. 
+Ripping av musikkCD var svært rask, her brukte den bare 2:38 (2:31), som er fattige 7 sekunder svakere enn Plextor og BenQ . 
+
+Konklusjon 
+
+Sony har laget en solid brenner, som var helt uten nykker. 
+Det eneste er at den er kresen på de platene som var tilgjengelige under testingen. 
+
+Derfor vil vi ikke trekke noen bombastisk konklusjon før vi har testet alle de nye brennerne med de nyeste, raskeste platene. 
+
+At der følger med dobbelt sett frontpanel setter vi pris på. 
+Muligens har det en sammenheng med at alle våre egne PCer av en eller annen grunn har sort kabinett, eller i hvert fall sort front... 

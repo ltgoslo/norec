@@ -1,0 +1,62 @@
+SMC Barricade G Turbo
+Rutere med trådløst til hjemmenett blir stadig mindre og lekrere. 
+Vi tester den nyeste Barricade fra SMC. 
+
+Det har skjedd en del på designfronten når vi sammenligner ruterne fra SMC som har vært på testbenken. 
+Den første ruteren vi testet var en Barricade, den neste het Barricade G og denne heter det samme, men har nå fått et helt nytt design pluss Turbo. 
+
+LES OGSÅ: 
+
+Størrelsen har blitt en god del mindre, og der vi tidligere så kantete og klumpete design, har vi nå fått myke og runde linjer, samt delikate farger i blå metallic og sølv. 
+Den er ikke lenger så estetisk utfordrende som tidligere modeller, som mange helst plasserte utenfor synsvidde. 
+Den nye modellen ser lekker ut, og kan derfor plasseres slik at den gir best signal uten store protester fra den designansvarlige. 
+
+Oppsett 
+
+Alle rutere beregnet på hjemmenett eller småbedrifter er enkle å sette opp. 
+Det eneste man behøver å gjøre er å koble det opp etter instruksene i boka, og taste inn IP-adressen i nettleseren på PCen. 
+Derfra starter man veiviseren og svarer på en håndfull spørsmål om hva slags Internett-tilkobling man har, hva det trådløse nettet skal hete og sikringen av dette. 
+Så er det bare å la ruteren fordøye innformasjonen og gjøre en omstart med de nye innstillingene. 
+
+Så skal man være på nett, med alle tilkoblede PCer, både med kabel og trådløst. 
+
+Det fungerte også slik med denne utgaven av SMC Barricade G Turbo. 
+
+Våre trådløse og kablede PCer, samt den trådløse printserveren knyttet seg opp mot ruteren, og alt så ut til å være fryd og gammen. 
+
+Utstyret som ble koblet til var Linksys og 3Com nettverkskort, D-Link lommeruter, Dell Inspiron 8600 med innebygd 802.11g og Linksys trådløse printserver. 
+
+Avanserte finesser 
+
+For mer krevende brukere har Barricade også en rekke muligheter som portmapping, filtrering og mer avanserte sikkerhetsfunksjoner. 
+
+Turbo til besvær 
+
+For å teste Turbo-funksjonen, som både komprimerer data og legger beslag på flere trådløse kanaler, installerte vi et SMC Turbo PCMCIA-kort i vår bærbare Dell Inspiron 8600. 
+
+Installasjonen av kortet fungerte fint, men styreprogrammet fant ikke kortet. 
+Windows XP SP2 sitt eget verktøy fant derimot kortet og hadde ingen problemer med å oppnå kontakt med ruteren. 
+
+Vi testet da kortet i en HP Pavillion, og her fungerte alt som det skulle. 
+
+Ytelsen med SMC ruteren mot den bærbare Dell-maskinen var utmerket, med en ytelse som er i det øvre sjiktet for trådløst utstyr. 
+Dette gjaldt i alle tre etasjer under hemsen der ruteren var plassert. 
+
+Med Turbo-løsningen aktivert i den bærbare fra HP, fikk vi vesentlig høyere ytelse både i lett komprimerbare filtyper, som tekst og programdata, og svært lite komprimerbare mediedata som wav og mpeg. 
+
+Lugging 
+
+Under vanlig bruk over en periode på flere dager oppdaget vi flere ganger at forbindelsen lugget ved åpning av nettsteder. 
+
+Det som var verre var at vi ikke kom inn på en rekke alminnelige nettsteder som f.eks. Dagbladet.no og Telefonkatalogen.no, flere nettbutikker samt en rekke amerikanske servere på vestkysten av USA. 
+
+Byttet vi om til vår egen ruter forsvant både lugging og problemene med tilgang. 
+
+Vi hadde ikke aktivert brannmuren i ruteren eller annet som skulle kunne påvirke tilgangen til nettadresser. 
+
+Konklusjon 
+
+SMC Barriade G Turbo er praktisk, elegant og har god ytelse. 
+Men den trenger nok en opprydding og oppgradering av det interne styreprogrammet før brikkene faller helt på plass. 
+
+Pris på ruteren er 695 kroner, PCMCIA-kortet koster 395 kroner. 

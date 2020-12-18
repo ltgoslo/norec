@@ -1,0 +1,80 @@
+NHL 07
+TEST: 
+Tradisjonen tro slipper EA Sports hockeyspillet NHL også denne høsten, for 14. året på rad. 
+Er spillet blitt perfekt? 
+
+Helt siden 1994 har EA Sports sluppet et hockeyspill hver høst. 
+Historien startet imidlertid tre år før det, men da hadde de ikke lisens fra spillerforeningen og kunne dermed ikke bruke de ordentlige spillernavnene, og i 1993 fikk de lisens fra spillerforeningen, men ikke forbundet, slik at de ikke fikk bruke lagnavnene. 
+I 1994 var derimot alle kontrakter på plass, og for første gang ble spillet også lansert på PC. 
+
+LES OGSÅ: 
+
+År etter år har serien gradvis utviklet seg, fra å være sprite-basert til å bli pseudo-3D i 1996. 
+Ikke før i 1997 var spillet i full 3D, og siden den gang har grafikken penere og penere, animasjonene bedre, kommentatorer og lydeffekter mer og mer realistiske og følelsen av å se på TV stadig sterkere. 
+
+Denne gangen kommer spillet også til Xbox360, noe det ikke gjorde i fjor, og det er 360-versjonen vi har testet denne gangen. 
+Den største nyheten dette året er den såkalte SkillStick, som gir deg full kontroll over hockeykølla. 
+I stedet for å bruke knapper for å fyre av storslegga, ta et kjapt håndleddsskudd eller dra en finte, bruker du den høyre spaken på kontrolleren. 
+Skyver du den raskt oppover, fyrer du av en raskt skudd - dra den bakover for deretter å skyve den fremover, så lader du storslegga. 
+Høyre og venstre lar deg ta finter slik at du kan dra ut keeperen på ekte Forsberg-vis. 
+
+Den nye SkillSticken er godt implementert og fungerer faktisk ganske bra, selv om vi foretrekker en kombinasjon med det gamle og det nye oppsettet, noe som også er mulig å sette opp. 
+Den eneste ulempen er at det har blitt atskillig vanskeligere å vinne droppen, som du også kjemper om ved å bruke høyre stikke. 
+Vi savner knappen! 
+
+Lite nytt 
+
+Annet enn det, er det lite nytt å finne i forhold til tidligere versjoner. 
+Spillet på isen foregår som før, og mens det har noen små forbedringer, lukter vi også et par svakheter som vi synes det er verdt å sette en finger på. 
+
+For å ta det positive først - spillet har blitt litt mer realistisk enn tidligere, og for første gang føler vi at det er ordentlig vanskelig å score. 
+Ikke bare redder keeperen mange skudd, men forsvarssystemet er også mer naturlig implementert der det ikke lenger bare er å brøyte seg igjennom, lade storslegga og klinke til - lader du den mens det står en motspiller rett ved siden av, tar han pucken fra deg, og det er mye lettere å treffe en motspiller enn det var tidligere. 
+
+Der det tidligere var vanlig med 8-10 mål 3x5-minutters kamp, er det nå ikke uvanlig med 1-3 mål totalt, som gir et mer realistisk bilde. 
+Det er heller ikke like lett å foreta taklinger, og selv om du treffer med en god kroppstakling, er det ikke sikkert motspilleren blir liggende langflat mens du kan rushe i angrep - noen ganger blir begge stående og vakle, før motspilleren godt kan ende opp med pucken allikevel. 
+I det hele tatt har selve spillet på isen fått en oppgradering som merkes. 
+Om det er til det positive må du nesten ta stilling til selv, for det blir ikke nødvendigvis morsommere å spille når realismen øker. 
+
+Spillet ser selvsagt litt bedre ut enn før også, men ikke så mye at vi sitter med en "wow, next-gen!"-følelse. 
+Riktignok er det småting her og der - mer detaljerte spillere, naturlig preging av isen fra skøytene (altså at sporene er reelle) og andre småting, og i HD-oppløsning ser det selvsagt ekstra pent ut. 
+Vi reagerer imidlertid på at selve innpakningen - TV-tilnærmingen, har vært bedre før. 
+Blant annet er sekvensen der spillerne kommer på isen den samme hver eneste gang, og kommentatorene bruker for eksempel ikke lenger sesonghistorikk når de forteller om en enkeltspiller etter at det er blåst av, noe som gav et veldig proft inntrykk i tidligere versjoner av spillet. 
+
+Beta-preg 
+
+Det største problemet på isen, derimot, er at spillet lugger litt. 
+Ikke på den måten at det kjører med et lavt antall bilder pr sekund, men vi får en liten beta-følelse på enkelte områder; spesielt når det gjelder taklinger og skudd. 
+Fra du trykker på knappen (evt skyver stikka) til taklingen utføres, merker du tydelig at det blir en liten forsinkelse - et lite hopp, på en måte, og akkurat dette virker uferdig. 
+En annen svakhet er at "gamlemåten" å skyte på (med B-knappen) ofte resulterer i en skuddfinte der skuddet aldri avfyres, selv om du prøver aldri så hardt. 
+På guttetur i helga med åtte kompiser med variert NHL-erfaring, var det flere som i utgangspunktet foretrakk gamlemåten, men som måtte begynne å lære seg SkillSticken fordi mange skudd ikke ble avfyrt. 
+
+En annen innvending vi har, er at det er uforholdsmessig lange lastetider i forkant av en kamp - i Fifa World Cup er dette tilfelle for den første kampen, men der går påfølgende kamper raskere å laste. 
+
+Menyrot 
+
+Dessverre er det flere ting å sette fingeren på denne gangen, og den såkalte Dynasty mode, der du velger et lag og spiller gjennom flere sesonger, fremstår som et lite brukervennlig sammensurium av menyer, som også har vært tilfelle tidligere. 
+Du kan riktignok gi blaffen i alt rundt og bare spille kamp etter kamp fra kalenderen, men for å få fullt utbytte (og ikke miste spillere etc.) er du nødt til å ta del i det som skjer rundt banen også, og her er det mange menyer organisert i et hierarki som det ikke er lett å bli kjent med. 
+I tillegg kunne de ulike sidene, for eksempel bytting av spillere, vært mye mer smidig utført, ved at mer informasjon om spillerne ble vist etc. 
+Det er også liten hjelp å få fra manualen som følger med spillet. 
+
+Når det er sagt, er Dynasty-modusen mer omfangsrik enn tidligere. 
+For det første er det ikke bare å hente inn alle de beste spillerne - på grunn av lønnstaket som er innført i NHL i virkeligheten, og som også er å finne i spillet, er det begrenset hvor stort lønnsbudsjett du får lov til å ha, og du må derfor være mer selektiv. 
+Du kan sende spillere med lite spilletid til farmerlaget slik at de blir bedre, for deretter å hente dem opp til førstelaget igjen, og du har full kontroll over hva som skal trenes på på trening, økonomien (billettpris og spillerlønninger) og så videre. 
+
+Skuffelsen med stor S ble imidlertid vår smertefulle erfaring med at den automatiske lagringen ikke fungerte som den skulle. 
+Da vi skulle spille litt videre på sesongen her om dagen, der vi fra før hadde spilt 10-12 kamper, var plutselig alle kampene nullet ut selv om vi hentet inn spillet som var lagret. 
+Selv om vi riktignok kun stod med to seire og jumboplassering i divisjonen (bill.mrk. "vanskeligere å score"), er dette utilgivelig! 
+
+Ved siden av Dynasty-modusen kan du også sette opp en turnering for 8 eller 16 spillere (inkludert et valgfritt antall CPU-styrte), der du kan bruke landslag eller klubblag og sette opp regler for poengutdeling, overtidsspill etc. 
+Du kan også trene på straffeslag - nyttig for å lære seg SkillSticken. 
+Spillet har også en online-modus der du kan spille mot andre over Xbox Live, men dette går ikke helt på skinner og spillet fremstår som hakkete. 
+
+Konklusjon 
+
+Som du sikkert har skjønt, sliter vi litt med å anbefale NHL 07. 
+På noen områder har spillet blitt bedre enn tidligere versjoner, men den største ulempen er at spillet føles uferdig i flere ledd. 
+Den beste erfaringen var som vorspiel-spill med gutta, der spillet er veldig morsomt i 2 vs 2-modus, eller dersom du setter opp en turnering. 
+Enspillerdelen blir for lite brukervennlig til å være såpass omfattende, og online-delen lugger og er lite spillbar. 
+
+Det som imidlertid blir det største motargumentet, er at tidligere versjoner ikke er noe dårligere - faktisk gjør den økte realismen i denne versjonen at spillet kan bli mindre underholdende når du spiller det med gutta, og når tidligere versjoner er tilgjengelige for et par hundrelapper, synes vi at de fremstår som bedre kjøp. 
+Med mindre du kun har Xbox 360, da, og MÅ ha et hockeyspill. 

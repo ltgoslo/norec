@@ -1,0 +1,35 @@
+Sharkoon Drivelink
+Har du en gammel harddisk liggende, som du skulle hentet ut data fra? 
+Da er dette en glimrende dings å ha i hende! 
+
+Svært mange av oss har minst én PC liggende på loft eller kjeller, og som aldri mer kommer til å bli brukt - enten fordi den er utrangert eller ganske enkelt ikke fungerer lenger. 
+
+At du vil oppleve at du gjerne skulle hatt en kopi av de gamle dokumentene, bildene og musikkfilene som lå der er derimot langt mer sannsynlig. 
+
+Enkel oppkobling 
+
+Det er her denne løsningen fra Sharkoon kommer inn i bildet. 
+Du kobler ganske enkelt til den gamle harddisken til passende kontakt, plugger i strømmen og kobler enheten til en ledig USB-port på din nye PC. 
+
+Hvis den gamle PCen var utstyrt med Windows eller DOS, vil den gamle harddisken, enten du bruker Windows, Mac eller Linux, vnå dukke opp som en ekstern disk i filbehandleren. 
+Så er det bare å bla seg gjennom filsystemet og kopiere ut de dataene du er interessert i å ta vare på. 
+
+Støtter det meste 
+
+Med i pakka følger gummitrekk til både små (2,5 tommer) og store (3,5 tommer) harddisker, og med beskyttelsen på plass kan du faktisk bruke de gamle harddiskene som hvilken som helst ekstern disk. 
+Det er imidlertid ikke nødvendig å ta på dette trekket, dersom du bare ønsker å hente ut data og kassere disken etterpå. 
+
+Det beste med løsningen er at den støtter både Serial-ATA og standard IDE-tilkoblinger, både for 2,5 tommers disker som sitter i bærbare PCer, og 3,5 tommers disker som vanligvis kun finnes i stasjonære PCer. 
+
+Du kan også koble til 5 1/4 tommers enheter, for eksempel CD- og DVD-brennere via Drivelink. 
+
+Problemfritt 
+
+Vi har testet med disker opp til 1 TB (1000 GB), og det fungerte helt fint. 
+Hastigheten varierer med disk og hvilken PC den tilkobles, vi kom opp i 30-40 MB pr sekund på det meste (kopiering fra disken), og det avviker ikke i forhold til mange eksterne harddisker vi har brukt mot samme PC. 
+
+Det følger også med et 1-klikks sikkerhetskopieringsprogram som er nyttig dersom du ønsker å bruke harddisken videre som en ekstern backup-disk. 
+Oppå selve enheten er det en knapp som aktiverer kopieringen dersom du har installert programmet. 
+Enklere blir det neppe. 
+
+Sharkoon Drivelink koster i skrivende stund 340 kroner, norsk importør er Multicom. 

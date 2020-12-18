@@ -1,0 +1,65 @@
+HighPoint 1220 cache kontrollerkort
+Kontrollerkort som lar deg koble sammen SSD og HDD 
+
+Vi har skrevet om og testet forskjellige cacheløsninger tidligere, som lar deg kombinere SSD og harddisk for å kombinere både ytelse og kapasitet. 
+
+I korthet går det ut på å bruke SSD til data som brukes ofte, mens harddisken tar seg av alt annet - pluss kopier av det som ligger på SSD. 
+
+Man kan styre dette selv ved å kopiere ofte brukte programmer og data over på SSD, da kan du for eksempel bruke SSD Boost, et program vi har skrevet om tidligere. 
+
+Det finnes også automatiske løsninger, som OCZ Synapse som leveres som SSD og programlisens eller FancyCache som er et gratisprogram. 
+
+Men det finnes også løsninger i maskinvare, som på hovedkort med Intels Z68 brikkesett eller som vi her har testet: 
+På et lite kontrollerkort. 
+
+HighPoint 1220 
+
+Kortet er basert på PCI Express 2.0, bruker en 1x kortplass og støtter dermed opptil 500 MB/sek. 
+Det gir ikke så store marginer for de raskeste SSD-ene, men fordelen er at kortet blir billig og passer i de aller fleste stasjonære PC-er. 
+
+Kortet trenger ingen drivere, det oppfører seg som en standard kontroller hvor støtten er innbakt både i standard maskinvare og Windows. 
+Det har to tilkoblinger som begge støtter 6 Gbit SATA hvor du kobler til en SSD og en harddisk. 
+Du kobler altså systemdisken som skal huse operativsystem, programmer osv. til denne kontrolleren, pluss SSD-en som skal ta seg av cacheingen. 
+
+Kortet finnes også med eSATA til eksterne disker. 
+Det kan også brukes som et vanlig kontrollerkort eller som RAID-kontroller. 
+
+Når PC-en starter opp trykker du Ctrl+M for å komme til oppsettet for kontrolleren. 
+Her velger du de diskene som skal være med i oppsettet, og velger et arbeidsmodus. 
+Dette kan være Safe eller Capacity. 
+Velger du Safe kan du også velge å beholde dataene på harddisken din. 
+Velger du Capacity slettes alt og du må installere alt på nytt, her gjelder det altså velge riktig. 
+
+Capacity er det raskeste moduset, basert på Raid 0, og jobber også automatisk. 
+Safe mode lar deg her velge hvilke programmer og data som skal kjøre fast fra henholdsvis SSD og HDD, altså en delvis manuell løsning. 
+Men siden kontrolleren da jobber i Raid 1-modus med prioritering av SSD vil den også legge mye brukte data dit for økt ytelse. 
+
+Vi satte opp systemet til Capacity modus og installerte Windows 7. Enhetene var en 500 GB WD 7200 RPM harddisk og en Corsair Force 3 60 GB SSD. 
+
+Ytelse 
+
+Vi testet med våre standard testprogrammer og har også sammenlignet med alternative løsninger. 
+
+AS SSD: 
+
+Ytelsen ligger et lite hakk under Synapse-løsningen. 
+
+Også her presterer HighPoint litt under Synapse. 
+
+Vårt eget medietestprogram: 
+
+I vårt eget testprogram presterer HighPoint klart best på leseytelse, men ikke like bra på skriving. 
+Til gjengjeld er ytelsen jevnere over tid. 
+
+PCMark Vantage: 
+
+Igjen er Synapse et lite hakk over totalt sett. 
+
+Konklusjon 
+
+HighPoint 1220 er enkel å installere og konfigurere, og gir en ytelse som nærmer seg SSD uten å gi avkall på kapasitet. 
+
+Velger du Capacity, det raskeste og automatiske moduset må du reinstallere Windows og programmer, men du kan også velge Safe for noe lavere ytelse uten reinstallering. 
+
+Løsningen er fleksibel, siden du ikke er bundet til spesielle lagringsenheter. 
+Velger du Safe mode kan du også bytte SSD uten at du mister data. 

@@ -1,0 +1,91 @@
+Elitegroup Green 551
+Det er en ordentlig lekkerbisken av en Centrino-maskin Multicom har sendt oss. 
+Den har et robust ytre, stor skjerm og flott ytelse, og ikke minst - en fin pris. 
+
+Det kan være mange penger å spare dersom du styrer unna de kjente merkene når du skal kjøpe bærbar PC. 
+Ofte er maskinene bygd på de samme fabrikkene som de kjente merkene, og innmaten er ofte den samme. 
+
+LES OGSÅ: 
+
+Ingen nykommer 
+
+Elitegroup er kanskje ikke veldig godt kjent her hjemme, men faktum er at den er bygd av en av de aller største produsentene av bærbare PCer. 
+Vi har tidligere testet to maskiner fra Elitegroup, den siste var en såkalt desktop-erstatter, basert på stasjonær teknlogi, som vi slo fast bød på svært mye PC for pengene. 
+Les testen av Green 732 her. 
+
+Nå er også Elitegroup på banen med en PC basert på Intel Centrino, og den bærer navnet Green 551. 
+Maskinen er godt utstyrt 
+ blant annet med en 1,4 GHz Pentium M-prosessor, 512 MB minne (maks 1 GB), 40 GB harddisk, kombinert DVD-leser/CD-brenner, 15 skjerm med høy oppløsning (1400x1050 punkter), og selvsagt trådløst nettverk (WLAN). 
+Grafikkbrikken er dessuten den kraftigste på markedet, ATI Mobility Radeon 9000 (64 MB). 
+
+Skjermen har brukbar lysstyrke, og klarer seg bra under de fleste forhold. 
+Vi synes oppløsningen er perfekt for denne skjermstørrelsen. 
+Hvis du synes skriften blir for liten, kan den forstørres ved hjelp av funksjoner i operativsystemet. 
+Vi oppdaget et mørkt felt til høyre på skjermen, som mest sannsynlig er en feil knyttet til vårt testeksemplar. 
+
+Godt utstyrt 
+
+Av tilkoblings- og kommunikasjonsløsninger finner du vanlig 10/100 Mbit nettverkskontakt, 56 Kb modem, Firewire-port, 2 stk USB 2.0-porter, PCMCIA-leser, infrarød port, parallellport og VGA med TV-utgang. 
+I motsetning til en sammenlignbar modell, Zepto Znote 4100, har Elitegroup Green 551 ikke minnekortleser; trenger du eksterne lagringsmedia i tillegg til CD, kan du satse på minneplugger eller lignende. 
+Diskettstasjon er (endelig) passé. 
+
+Det eneste vi har å utsette på tilkoblingsmulighetene, er at PCen kun har to USB-porter. 
+Med ekstern mus og tastatur har du plutselig ikke plass til skriveren, med mindre du har en USB-hub eller har en skriver med parallellgrensesnitt. 
+Det hadde vært lettere å leve uten parallellporten i 2003. 
+
+Over tastaturet sitter et par høyttalere, som har som formål å formidle lyd - helst ikke musikk. 
+Kvaliteten er derfor så som så, men dette er mer regelen enn unntaket på bærbare PCer, dessverre. 
+
+PCen leveres uten operativsystem. 
+Ønsker du for eksempel at PCen skal leveres med Windows XP Home Edition, må du regne en tusenlapp i ekstra kostnader. 
+
+Meget robust 
+
+Designmessig er den både tidsriktig og meget lekker, synes vi, med sine røffe linjer og robuste, blågrå metalliske overflate. 
+Selv kraftige trykk på lokket gir ingen forstyrrelser på LCDen. 
+Det er derfor helt på det rene at denne PCen tåler en trøkk, noe som er en god egenskap for deg som er mye på farten. 
+Dessuten er maskinen relativt slank, den måler 325 x 258 x 30 mm, og heller ikke blant de tyngste med sine 2,9 kg. 
+
+Tastaturet er romslig og godt, og tastene har stort sett logiske plasseringer. 
+Litt smal returtast og plassering av taster til høyre for denne, gjør den dessverre litt for lett å bomme på, spesielt for deg som ikke ser ned når du taster. 
+Dessuten gir tastaturet en viss klirrelyd når du skriver på det, i likhet med tidligere Elitegroup -modeller vi har testet. 
+Men noe stort nummer skal vi ikke gjøre av dette. 
+
+Nettverk, modem, firewire, lyd inn- og utganger samt PCMCIA-brønnen, finner du på venstre side, mens resten av tilkoblingene finner du bak. 
+CD-brenneren (24x 12x 24x + 8 x DVD-lesing) er plassert på motsatt side. 
+Logisk og greit, men en USB-port eller to på siden hadde vært på sin plass 
+ for å lette tilkoblingnen av minneplugger, digitalkamera, MP3-spiller osv, som du og jeg oftere og oftere omgir oss med. 
+
+Ikke viftefri 
+
+En av de store fordelene ved Centrino-baserte PCer, foruten lavt strømforbruk, er liten varmeutvikling fra prosessor og brikkesett. 
+Dermed minsker behovet for å viftekjøle systemet. 
+Av en eller annen grunn har Elitegroup utstyrt denne PCen med en vifte som går kontinuerlig, riktig nok med lavt turtall. 
+Det betyr lavt støynivå, lavt nok til at den normalt ikke vil være til sjenanse. 
+
+Ytelsesmessig er det lite å utsette på denne PCen. 
+Pentium M-prosessoren på 1,4 GHz yter mer i de fleste testene enn en 2.0 GHz Pentium 4-prosessor. 
+Dessuten er 3D-grafikkytelsen helt i toppklassen, med en score på over 7000 poeng i 3DMark 2001. 
+Det betyr i praksis at du fint vil kunne spille de seneste spillene, i høy oppløsning og stor detaljrikdom uten fare for hakking eller andre problemer. 
+
+Batterilevetiden var derimot ikke fullt så imponerende. 
+3 timer og 30 minutter er blant de svakeste resultatene vi har oppnådd blant Centrino-modeller. 
+Vi tror at viften kan ha en del av skylden. 
+Sammenlignet med Pentium 4-baserte PCer er levetiden likevel bra. 
+
+Maskinen avgir for øvrig en intens og plagsom pipelyd i minuttene før batteriet takker for seg. 
+En klønete løsning, synes vi. 
+
+Klikk på lenken Tekniske data i oppsummeringsobjektet for å se detaljer omkring ytelse og generelle egenskaper. 
+Du kan også sammenligne denne PCen mot andre vi har testet her. 
+
+Konklusjon 
+
+Elitegroup Green 551 er et rimelig alternativ blant Centrino-maskinene. 
+Det er i hovedsak snakk om en meget velutstyrt, kjapp, stabil og robust PC som dessuten scorer høyt på utseende. 
+
+Det eneste vi har funnet å trekke, er litt svakere batterilevetid enn forventet, samt noe mer viftesus enn de fleste andre Centrinoer vi har testet. 
+Flere USB 2.0-porter hadde også vært ønskelig. 
+
+Uansett er 15.000 kroner for en slik maskin en meget bra pris (16.000 med operativsystem) sammenlignet med de fleste andre maskiner vi har testet med tilsvarende konfigurasjon. 
+Fra Multicom får vi opplyst at en kraftigere utgave med 1,5 GH prosessor, 60 GB harddisk og DVD-brenner (DVD-RW) kr 17995,- (ink mva, uten operativsystem). 

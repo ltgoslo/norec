@@ -1,0 +1,111 @@
+ELBIL PÅ TEST:En uke med Renault Zoe 
+
+Eneste elbil som kan lades hjemme på to timer - det er bare en av Zoes fordeler. 
+
+Det er nå, bare tre år etter at startskuddet for alvor gikk for fremveksten av et unikt elbilmarked i Norge, en god del modeller å velge mellom. 
+
+En av dem som har slitt mest med å få igang salget er Renault med sin Zoe. 
+Så langt i år har Renault bare solgt 185 eksemplarer av sin elbil - 43 biler i september. 
+Nå tyder imidlertid mye på at dette er i ferd med å endre seg ganske betydelig til det bedre og importøren kan opplyse at ordreinngangen på Zoe i oktober økte kraftig i forhold til måneden før - faktisk med så mye som 300 prosent - eller en firedobling. 
+
+I siget 
+
+Flere årsaker forklarer dette: 
+Kampanjen med vrakpant pluss 25.000 kroner er én av dem, hjemmelader inkludert i prisen en annen, samt muligheten for å lade bilen hjemme på to timer dersom man velger 11 kW-lademuligheten. 
+(Seks timer med standardløsningen). 
+Og i tillegg gir Renault-importøren en raus angrefrist på hele 30 dager ved anskaffelsen av en Zoe. 
+
+Sterke konkurrenter 
+
+Dette har vært tvingende nødvendig, for konkurransen er blitt tøff. 
+Vi har testet fire biler som fint kan vurderes opp mot denne (selv om e-up! er en mindre og trangere bil): 
+
+Har tatt ladegrep 
+
+Vi prøvekjørte Zoe i vår, men har også i etterkant hatt bilen til test en uke, for bedre å oppleve bilens egenskaper i det daglige. 
+Dermed kan vi i dag si at Zoe etter vårt syn fortjener en bedre skjebne her til lands enn det som har vært tilfelle hittil. 
+
+Det som har holdt igjen salget er nok først og fremst uvisshet vedrørende lademuligheter på det alminnelige strømnettet her til lands. 
+Muligens i tillegg til et image-problem for merket Renault. 
+
+Les mer om hva valg av bilmerke kan si om deg. 
+
+Dette har Renault i høyeste grad tatt på alvor og siden lanseringen har importøren tatt flere grep for å forsterke tilliten i markedet både til merket/modellen og til perspektivene for lademuligheter. 
+Resultatet er at Renault Zoe i dag ser ut til å bli den elbilen i markedet som har flest fordeler. 
+
+(Vi ser her og i det påfølgende bort fra Tesla, som må anses å tilhøre en helt egen kategori). 
+
+Adapter for IT-nett 
+
+I og med at veggboks er inkludert i prisen, har ikke utfordringen vært hjemme-lading, men «borte-lading» som for Renault Zoe frem til nå har vært begrenset til lokasjoner med TN-nett. 
+
+Utfordringen er nå løst ved at Renault Norge sammen med en ekstern leverandør har utviklet de de kaller en mini-transformator som kan lade bilene i alle stikkkontakter. 
+
+Det være seg på hytta, ved kontorbygget eller hos bekjente man har besøkt. 
+Prisen for transformatoren er 5.000 kroner. 
+
+Det er viktig å merke seg at bilens ladetid med denne løsningen øker inntil cirka ti timer. 
+
+Når man er på farten kan man via Zoe-appen lokalisere nærmeste AC-lader. 
+Der lades bilen til 80 prosents kapasitet på en time på 22 kW AC-ladere (såkalt "semi-hurtig"), og en utfordring har vært nettopp tilgjengeligheten til AC-ladere. 
+Men også her vil det raskt komme en forbedring, da Renault selv har tatt initiativet til en storstilt utbygging av et nettverk slike ladere over hele landet. 
+
+Den kraftigste laderen 
+
+Renault er utstyrt med en såkalt "kameleonlader". 
+Det er en type medbragt lader Renault er alene om og som muliggjør lading til samme port fra alle typer eksterne AC (vekselstrøm)-ladere. 
+
+Det er en adskillig kraftigere ombordlader enn på de fleste andre elbiler og den kan utnytte den nye Mode3 Type2-standarden AC til fulle. 
+
+Tanken er å forenkle, og samle alt i en inngang enten det dreier seg om lading på 2 kW, 44 kW eller alt imellom, fra kontakten hjemme til offentlige hurtigladere. 
+
+Les også hvorfor alle elbiler snart kan hurtiglade. 
+
+Batterikapasiteten i Zoë er 22 kWt (19,8 utnyttbare), hvilket er litt mindre enn i Leaf og Soul EV. 
+Med sin batteripakke på 290 kilo pluss den større ombordladeren, veier imidlertid Zoë nesten like mye (egenvekt: 
+1.428 kilo uten fører), tross at den er noe mindre. 
+
+Eco-modus struper kreftene 
+
+Når man henter opp kjøredata på skjermen, kan man se hva forbruket er i kWt per 100 kilometer. 
+Dette hjelper også når man vil estimere hvor langt man kan regne med å komme. 
+Oppgitt forbruk er 14,6 kWt per 100 kilometer. 
+I praksis lå vi på mellom 16 og 17 kWt per 100 ved pen kjøring, stort sett i Eco-modus. 
+
+Sistnevnte struper kreftene en del og gir verken full akselerasjon eller hastighet over 100 kilometer i timen, men det fungerer greit under transportetappene. 
+Ved forbikjøringer og litt mer krevende lende, er det best å skru over på "normal" kjøremodus. 
+
+Kvikk nok 
+
+Elmotoren yter 88 hestekrefter, med en trekkraft på 220 newtonmeter fra stående start. 
+Dette er lavere effekt enn de fleste konkurrenter, men bilen oppleves i likhet med disse som kvikk i bytrafikken. 
+
+Etter fire sekunder er den oppe i 50 kilometer i timen og det er en god del kjappere enn tilsvarende bensin- eller dieselbiler. 
+Deretter dabber det imidlertid av og tiden fra 0 til hundre på 13,5 sekunder er noe under par selv for småbiler. 
+Bilen oppleves likevel sprekere enn tallet tyder på. 
+Toppfarten er oppgitt til 135 kilometer i timen. 
+
+Ærlige om rekkevidde 
+
+Mer interessant for de fleste elbilkunder er selvsagt rekkevidden. 
+Den ligger ifølge europeisk kjøresyklus på 210 kilometer. 
+Det er litt bedre enn de nevnte elbil-konkurrentene, med unntak av Kia Soul EV (212 kilometer). 
+
+Under testkjøringen var vi selvsagt langt unna det nevnte idealtallet, som må anses som ren teori - i likhet med hva som er tilfellet for alle andre elbiler i klassen. 
+Og Renault er da også ærlige nok til å oppgi at reell rekkevidde som kan påregnes er mellom 100 og 150 kilometer ved normal kjøring under vinterlige til tempererte klimaforhold. 
+
+Klarer greit 12 mil 
+
+For vår del lå temperaturen i den uken vi kjørte bilen stort sett mellom 3-4 og 7-8 grader, altså et greit norsk gjennomsnitt. 
+Litt avhengig av kjøreforhold konstaterte vi reell rekkevidde stort sett på mellom 120 og 130 kilometer, med bruk av lydanlegg og moderat bruk av varmeanlegget. 
+Det er godkjent. 
+
+Kjører man ekstra sparsommelig vil man nok kunne nærme seg 15-16 mil. 
+
+Vinterstid reduseres selvsagt rekkevidden, men Zoe har heldigvis et varmeanlegg basert på varmepumpeteknologi. 
+At det lønner seg å forhåndsvarme bilen er det imidlertid ingen tvil om 
+
+Bør vurderes 
+
+Vår konklusjon etter testen er at Renault Zoe har tilstrekkelig med gode egenskaper til at den absolutt bør vurderes hvis man er ute etter en elbil i de rimeligere prisklassene. 
+I tettbygde strøk er den kompakte størrelsen en fordel uten at man altså har ofret innvendig plass, og med de ekstrafordelene Renault nå gir Zoe-kundene, vil vi tro avgjørelsen for mange kan bikke over i denne bilens favør. 

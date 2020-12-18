@@ -1,0 +1,112 @@
+Acer Aspire V5-122P
+Touch-PC til nettbrett-pris. 
+
+Å kjøpe en tynn og lett bærbar med god berøringsskjerm har så langt vært en relativt dyr affære. 
+Med lanseringen av AMDs nye mobile APU-er (prosessor og grafikk på én brikke) er dette i ferd med å endre seg. 
+
+Helt ny innmat 
+
+Acer Aspire V5-122P er første PC basert på den helt nye A6-1450 APU-en fra AMD. 
+Ytelsesmessig skal den ifølge AMD ligge på nivå med Intels Pentium-prosessorer, det vil si grei ytelse til vanlige PC-oppgaver, men langt fra noe råskinn. 
+
+Den integrerte Radeon 8280G-grafikken skal imidlertid sørge for bedre 3D-ytelse enn Intel HD 3000/4000, lover AMD. 
+Om det stemmer i praksis, vil du snart få se. 
+
+IPS-skjerm 
+
+Maskinen er uansett en kompakt sak, en såkalt "ultrathin" med 11,6" berøringsfølsom IPS-skjerm med oppløsning på 1366 x 768 piksler. 
+Det er ikke veldig mange piksler, men med en såpass liten skjerm vil bildet likevel oppfattes som skarpt. 
+
+IPS-skjermer har også gode egenskaper med hensyn til fargegjengivelse, kontrast og ikke minst innsyn fra sidene. 
+Og det er virkelig en bra skjerm dette - med god respons på berøringer. 
+Skjermen kan legges nesten horisontalt, noe vi ser på som en fordel ved berøringsstyring. 
+
+Maskinen leveres ellers med 6 GB RAM og 500 GB harddisk, og et trecellers batteri som ifølge produsenten skal holde til rundt fem timer med lett, variert bruk. 
+
+Slank og lett 
+
+Tykkelsen er 2,12 centimeter og vekten er behagelige 1,38 kilo. 
+Innpakningen er i plast med en lakk som minner om børstet metall. 
+Det ser "ekte" ut, og selv om det er plast får vi en bra kvalitetsfølelse når vi tar i den. 
+
+Tastaturet er baklyst og fast og fint, og tastene er i full størrelse. 
+Det er behagelig i bruk.: 
+
+Pekeplaten har integrerte felter for venstre og høyreklikking, og fungerer greit, men ikke optimalt. 
+En ting er at klikkelyden er høy, verre er det at vi flere ganger har opplevd at musepekeren har stoppet ved dra&slipp;, dette problemet er knyttet til at to fingre berører platen samtidig. 
+
+Den gode nyheten er at du alltids kan bruke skjermberøring i stedet, noe man fort blir glad i. 
+Og berøringsfølsomheten og responsen er meget bra, se video under: 
+
+Alle tilkoblingen sitter på sidene, utvalget er riktig nok begrenset, men her finner du to USB-porter (en 3.0 og en 2.0), en minnekortleser for SD/SDHC/SDXC-kort, en kombinert minijack for mic/lyd ut, samt en VGA-utgang som krever en overgang (medfølger). 
+Her savner vi åpenbart en HDMI-utgang. 
+
+Slik er den i bruk 
+
+Prosessoren er en såkalt ULV-variant (ultra low voltage), og vi hadde derfor forventet at behovet for viftekjøling ville være minimalt. 
+I praksis opplevde vi at viften gikk mesteparten av tiden, men på et relativt behagelig nivå - lydmessig sett. 
+Vi vil ikke betegne PC-en som bråkete, men noe viftesus må påregnes. 
+
+Til vanlig bruk virker den relativt responsiv og fin til det meste av "vanlige oppgaver", som surfing, tekstbehandling, Spotify og bildevisning, men ikke alt går like smertefritt. 
+Noe av det den kan slite litt med er høyoppløst video, blant annet fra YouTube. 
+Vi har opplevd flere ganger at avspillingen av 1080P-videoer (full HD) har hakket i scener med mye bevegelse. 
+Vi hadde ikke forventet at det skulle være et issue sommeren 2013. 
+
+En titt på Windows Opplevelsesindeks viser også at prosessorytelsen og 2D-ytelsen kan være noe av forklaringen, her går skalaen fra 1,0 (svakest) til 9,9 (sterkest): 
+
+Prosessor: 4,2 Minne: 5,3 Grafikk: 3,9 Spillgrafikk: 
+5,8 Primær harddisk: 
+5,9 
+
+Mens grafikkens 3D-ytelse (spillgrafikk) viser et respektabelt resultat, byr maskinen på relativt beskjeden 2D-ytelse. 
+Det er sannsynligvis dette, sammen med noe svak prosessorytelse, som byr på utfordringer på høyoppløst video. 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og her er tallene vi fikk - krydret med våre kommentarer: 
+
+Prosessor: 1329 poeng. 
+Vi tok en titt på andre PC-er i samme prisklasse, og her ser du hvordan den måler seg mot prosessorene som sitter i disse: 
+
+Som vi ser yter den langt svakere enn de fleste, med unntak av Pentium 987 - som bygger på to år gammel Intel-arkitektur. 
+Denne prosessoren sitter i blant annet Asus sin rimeligste Vivobook med berøringsskjerm, som du nå finner i samme prisklasse. 
+
+2D/3D-grafikk: 125/251 poeng. 
+Til sammenligning ligger som regel den integrerte grafikken i Pentium/Core i3/i5 ULV-prosessorer mellom 300 og 400 på begge, og da snakker vi om Ivy Bridge-generasjonen som har vært på markedet ett år. 
+
+Dette er ikke spesielt lystig lesning for deg som vurderer denne PC-en til å jobbe med grafikkintensive oppgaver. 
+Til lett arbeid, inkludert bildevisning og video i 720P og lavere, funger det absolutt greit nok. 
+
+Harddisk Lese-/Skrivehastighet: 114/106 MB pr sekund. 
+Dette er et temmelig bra tall for å være en "ren" harddisk uten SSD-del. 
+I praksis kan du få mye bedre ytelse ved å benytte en (dyrere) SSD, men det er nok ikke her de største flaskehalsene ligger på denne PC-en. 
+
+Batteritid 
+Vi kjørte to batteritester. 
+Først lot vi maskinen stå urørt, bare koblet til trådløst nett, og ellers med standardinnstillinger med hensyn til lysstyrke og ytelse. 
+Da holdt batteriet i nesten fem timer før maskinen sluknet. 
+Deretter ladet vi batteriet fullt igjen, og kjørte samme videoklippet (720P) om og om igjen til batteriet gikk tomt. 
+Det tok ganske nøyaktig tre timer. 
+
+Ved variert bruk kan du forvente at batteriet vil holde i rundt fire timer. 
+Det er ikke veldig imponerende, men godkjent - maskinens størrelse, vekt og ikke minst prislapp tatt i betraktning. 
+
+Konklusjon 
+
+Vi hadde store forhåpninger foran møtet med nyeste generasjon strømsparende APU fra AMD, men må dessverre konstatere at Intel fortsatt har et solid forsprang. 
+Det virker som om AMD er minst ett år på etterskudd, noe som blant annet merkes gjennom den relativt beskjedne ytelsen og kjølebehovet. 
+
+For 4.000 kroner får du riktignok ikke mange PC-er med berøringsskjerm. 
+Men du finner i hvert fall én, som etter vår mening vil være et bedre valg - til tross for at den kom på markedet i fjor høst: 
+Asus Vivobook S200 med Core i3-prosessor, som byr på vesentlig bedre ytelse, en times lengre batteritid, flere tilkoblingsmuligheter - og til en lavere pris akkurat nå. 
+Størrelse og vekt er omtrent identisk. 
+
+Totalt sett vipper Acer Aspire V5 mellom en treer og en firer på terningen, vi lander til slutt på en treer, først og fremst på grunn av den begrensede ytelsen, men problemer med pekeplaten, viftesus og tilkoblingsmulighetene trekker også ned. 
+
+Men denne testen er langt fra noen slakt - maskinen funger nemlig bra til enkle oppgaver, og til Metro-apper er den ypperlig - blant annet takket være den gode skjermen. 
+
+Fra Acer får vi opplyst at en enklere utgave med A4-1200-prosessor også vil bli tilgjengelig, og denne vil få en veiledende prislapp på 3.390 kroner. 
+Dermed er prisen på en PC med IPS-berøringsskjerm kommet ned på nettbrett-nivå. 
+Men velger du den skal du ha meget enkle behov, mener vi. 
+
+Den nye V5-seien vil også inkludere modeller med 14" og 15,6" skjermer, både med og uten berøringsskjermer, også i full HD, naturlig nok til høyere priser. 
+
+Acer Aspire V5-122P-61456G50nss (NX.M91ED.004) 

@@ -1,0 +1,89 @@
+Hp Photosmart eStation
+Alt-i-ett-skriver og nettbrett - i en og samme pakke? 
+Dette er noe av det mest spennende vi har sett på skriverfronten på lang tid. 
+Men hvordan fungerer det i praksis? 
+Vi har testet. 
+
+HP står for to av de mest oppsiktsvekkende nyhetene på blekkskriverfronten dette året, modellene Envy og eStation. 
+Førstnevnte har fokus på design, mens sistnevnte er en fotoskriver med noe så spesielt som en svær skjerm - som kan løsnes fra skriveren og brukes som et trådløst nettbrett a la iPad og Galaxy. 
+Jepp, du leste riktig. 
+
+Slett ingen dum idé 
+
+Å koble en multifunksjonsskriver med et nettbrett høres kanskje litt spesielt ut, men husk at skriveren dermed ikke behøver fysiske knapper. 
+Når nettbrettet står i dokken på skriveren, fungerer det nemlig blant annet som et trykkfølsomt kontrollpanel for kopi- skann- og utskriftsjobbene, samtidig som batteriet lades. 
+Når den er løs, kan den brukes som en liten berøringsfølsom datamaskin, og man kan for eksempel skrive ut sider fra nettet, eposter, dokumenter og så videre. 
+
+Vi kommer tilbake i detalj hvordan dette fungerer senere i denne testen, først litt tørre fakta: 
+
+Photosmart eStation AIO 
+
+Vi har testet dette i praksis, og det fungerer greit. 
+Det er støtte for de mest vanlige filformatene (herunder Office-filer, JPG og PDF). 
+Vi opplevde imidlertid ganske store forsinkelser flere ganger (ca 10 minutter på det verste, 20 sekunder på det beste), så dette er ikke en anbefalt løsning dersom har dårlig tid til bussen. 
+
+Hva med nettbrettet? 
+
+Selve nettbrettet har fått navnet eStation Zeen, har en 7" multiberøringsfølsom skjerm og bruker Android 2.1 som operativsystem. 
+
+Brettet har minnekortleser, lydutgang (minijack) og USB-port, og med batterilevetid på 4-6 timer under normal bruk, kan det brukes som et vanlig nettbrett for surfing på nettet, lesing av eposter, se film, spille musikk og så videre. 
+
+Det er imidlertid print som står i sentrum. 
+Du skal kunne skrive ut det du ser på skjermen, og den kommer med HP-utviklede apps som knytter forskjellige nettjenester og skriveren sammen - du kan for eksempel hente bilder fra Flickr og skrive ut direkte, skrive ut sudoku-brett og skrive ut nettsider automatisk kl 07 om morgenen slik at de er klare til morgenkaffen. 
+Fra 2011 vil HP frigi et såkalt SDK som åpner for utvikling av apps til brettet fra tredjeparts leverandører. 
+
+Men noen fullverdig konkurrent til Samsung Galaxy Tab og Apples iPad er dette slett ikke, og det hadde vi heller ikke forventet. 
+Responsen er så som så, det er mye hakking, og produktet er relativt plombert i forhold til å kunne installere egne apps. 
+Du har for eksempel ikke tilgang til Android Market. 
+
+Det er imidlertid klare forbedringspunkter også i bindingen mellom brettet og skriveren. 
+Noen ganger tar det uforholdsmessig lang tid å skrive ut relativt enkle dokumenter, og vi har også opplevd at meldinger som ser helt fin ut på forhåndsvisningen ender opp som ett enkelt hvitt ark i andre enden. 
+Og det hjelper ikke å velge A4 som standard og trykke Save - neste gang er alt tilbakestilt til Letter igjen. 
+
+Som kontrollpanel på skriveren fungerer det langt bedre, men det skulle også bare mangle. 
+Som nettbrett bærer dette for mye preg av å være førstegenerasjons produkt, dessverre. 
+
+Flere bilder av nettbrettet finner du her: 
+
+Blant de aller, aller raskeste 
+
+På de tradisjonelle testene våre har HP alltid scoret bra, og eStation AIO er intet unntak. 
+Og den er rask. 
+Vi skrev ut fem tettskrevne tekstsider på 21 sekunder i kladdemodus, det er helt i toppklassen, og kvaliteten var god nok til å tåle sammenligning med normalmodus på enklere skrivere. 
+Også webutskrifter i farger ble ekspedert svært raskt, 16 sekunder på tre A4-sider er imponerende. 
+
+En fotoutskrift i A4-format tar rundt 1 minutt og 20 sekunder i normalmodus, som er å betrakte som gjennomsnittlig raskt i denne klassen. 
+Fotokvaliteten står til meget pluss, også i sort-hvitt. 
+
+Men: 
+Merk at hvis skriveren har stått et par dager uten å bli brukt, er sjansen overhengende stor for at den vil bruke god tid på å gjøre seg klar til å skrive ut. 
+Dyser skal renses for å sikre utskriftskvaliteten, og i ett tilfelle tok det 45 sekunder fra vi hadde trykket på utskrifts-knappen til skriveren begynte på jobben. 
+
+Støyen er også lav, spesielt når du skriver ut i normalmodus. 
+Det tar litt lengre tid, men gir samtidig bedre kvalitet - som merkes best på fargeutskrifter. 
+
+Kopiering og skanning 
+
+Å kopiere en magasinforside (ca A4-størrelse) tok 25 sekunder i farger. 
+I sort-hvitt tok det 16 sekunder, men kvaliteteen var ikke like overbevisende på sistnevnte - med blant annet tydelige horisontale striper. 
+
+Skanneren er også temmelig kjapp. 
+Forhåndsvisning og innskanning skjer i én og samme operasjon, og i 200 PPI tar det ikke mer enn rundt 15 sekunder å skanne en A4-side. 
+
+Merk at den taper raskt skarphet i høyden, noe som kan være problematisk ved skanning av bøker: 
+
+Det dynamiske omfanget er godt, detaljer i høylys og skyggepartier tas godt vare på. 
+Det skal man også forvente i denne prisklassen: 
+
+Oppskarpingen er satt litt høyt, noe du kan se i eksempelet under, her sammenlignet mot Canon Pixma MP640 som scorer marginalt bedre på kvalitet: 
+
+Konklusjon 
+
+Til tradisjonell bruk er dette er en meget god multifunksjonsskriver. 
+Den er kjapp, funksjonsrik og byr på høy utskriftskvalitet. 
+Det integrerte nettbrettet framstår imidlertid som noe uferdig i formen, og er med på å trekke totalinntrykket noe ned . 
+Vi tror derfor at de fleste som går til innkjøp av denne skriveren først og fremst vil bruke det som kontrollpanel, og ikke som et trådløst nettbrett med skriverintegrasjon, slik HP ønsker. 
+
+Photosmart eStation AIO er på vei ut i butikkene i skrivende stund (3. november 2010). 
+Veiledende pris er satt til rundt 3.300 norske kroner. 
+Har du ikke så stort budsjett og ser ikke behovet for nettbrettet og eprint, bør du også vurdere Canon Pixma MP640 til halve prisen. 

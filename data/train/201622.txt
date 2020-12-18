@@ -1,0 +1,102 @@
+Toshiba Satellite P200
+Toshibas siste 17-tommer skremmer deg ikke med rå ytelse, men så blir du ikke akkurat skremt av prisen heller. 
+
+Toshiba har vært mye i vinden i det siste, spesielt da de på noen få timer solgte ut et stort lager med Satellite Pro L40. 
+Til en pris under tre lapper var det ganske enkelt som prisrekord å regne. 
+
+LES OGSÅ: 
+
+Men Toshiba har større og kraftigere bærbare også. 
+Tidligere har vi testet både Qosmio G30 og Satellite X200. 
+Nå har vi sett nærmere på Satellite P200 - 1I2, som ikke helt uventet er nokså lik den sistnevnte maskinen. 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo T5450 @ 1,66 GHz 17,1" skjerm i bredformat (1440 x 900 piksler) 2 GB DDR2-minne 200 GB harddisk ATI Mobility Radeon HD 2600 (256 MB RAM) 
+WLAN (a/b/g/n) 10/100 Mbit LAN + modem 6 x USB, FireWire 1 ExpressCard/54 kortplass Kortleser for SD, MMS, MS/PRO, xD S-Video, VGA og HDMI ut, lyd inn/ut HD DVD ROM (med DVD/CD-brenner) Integrert webkamera og mikrofon Windows Vista Home Premium Dimensjoner (B/D/H): 
+40,0 x 28,9 x 5,1 cm Vekt 3,44 kilo Pris: ca. 7.500 inkl. mva. 
+
+Satellite X200 
+
+Hva vi på den annen side var noe overrasket over var at maskinen kommer med HD DVD-spiller, selv om formatkrigen visstnok er over. 
+Men de ville kanskje bare forsikre seg om at kundene får det beste så lenge de har enheter igjen på restlageret... 
+
+Konstruksjon 
+
+Utseendemessig er det ikke så mye som skiller denne fra X200, med lokket oppe er det sort og sølv som hersker. 
+På toppen av lokket finner vi dog en mørkeblå metallic farge. 
+
+Men selv om den generelle formen og følelsen minner om X200 er likevel Satellite P200 både lettere og litt tynnere. 
+Kvaliteten er altså helt grei med tanke på bruksområde - en 17-tommer er jo ikke noe folk flest drar med seg hver dag, og i likhet med de fleste andre er heller ikke denne lagd for å dras med seg hver dag. 
+
+Tastaturet tar hele maskinens bredde og det er derfor også blitt plass til en numerisk keypad. 
+Merk for øvrig at vårt presseeksemplar kommer med engelsk tastatur og derfor mangler æ,ø og å. 
+Vi regner med at maskinene som skal selges her til lands vil ha felles skandinavisk tastatur av typen vi finner på X200 - det har forresten litt svikt, men er behagelig i bruk. 
+
+Touchpaden under tastaturet er god og følsom, med store og gode taster. 
+
+Skjermens oppløsning er på 1440 x 900 piksler, noe som er et absolutt minimum på en 17-tommers bærbar. 
+Ellers har vi egentlig ikke noe å utsette på denne - den blanke skjermen har anstendige farger og god kontrast. 
+
+Øverst på skjermen finner du et 1,3 megapiksels webkamera og integrert mikrofon, slik at du enkelt kan eksponere deg på Internettet. 
+
+Tilkoblingsmuligheter 
+
+Når skjermen vippes opp sperrer den for eventuelle kontakter bak, noe vi egentlig ikke er helt happy med på en 17-tommer - denne vil jo gjerne stå på ett sted i lange perioder av gangen. 
+Da gir det et langt mer ryddig inntrykk dersom for eksempel ekstern mus, nettverk, lyd, ekstra skjerm og strøm kan kobles til i maskinens bakkant. 
+
+I stedet er det altså på sidene og i front at vi finner kontaktene. 
+Varmluften blir ventilert ut på både på høyre og venstre side. 
+
+På høyre side finner vi hele fire USB-kontakter samlet langt fremme, modem, det optiske drevet og plass til kensingtonlås . 
+
+De fleste kontaktene finner vi på venstre side. 
+Bakerst finner vi strøminntak og VGA-porten, og lenger framme nettverk, 2 x USB, S-Video, HDMI, FireWire og ExpressCard/54. 
+
+I front har vi en bryter som slår det trådløse nettverkskortet av og på, lydkontakter, volumkontroll og minnekortleser. 
+
+Ytelse 
+
+De siste 17-tommerne vi har testet er av typen som typisk appellerer til gamere, mens P200 nok ikke når helt opp på det nivået. 
+Vi har likevel sammenlignet med både Satellite X200 og råtassen fra Dell: XPS M1730. 
+
+Naturligvis blir dette rått parti, så glem derfor ikke at P200 stiller i en helt annen vekt- og prisklasse. 
+
+Ytelse i PCMark05: 
+
+Ikke akkurat uventet ligger P200 bak i alle disipliner, men har egentlig jevnt over anstendig ytelse. 
+
+Ytelse i 3DMark05 og -06: 
+
+Ingen overraskelser her akkurat, men merk at dette ikke betyr at P200 er håpløs til spilling. 
+Med skjermoppløsningen på 1440 x 900 piksler er egentlig grafikkortet godt nok til å drive de fleste 3D-spill med anstendig detaljnivå, med unntak av de aller siste og mest krevende spillene. 
+
+Batterilevetid og støy 
+
+For kjøpere av 17-tommere er sjelden batterilevetiden et tema, men for dere som skulle bruke denne også litt utenfor stua kan vi fortelle at det med våre testprosedyrer holder i anstendige to og en halv time. 
+Mer enn godkjent for en 17-tommer. 
+
+Varme er heller ikke noe problem for Satellite P200 - for det første utvikler ikke komponentene i denne PCen så veldig mye varme, og for det andre sørge utlufting på begge sider for at det ikke er behov for ekstremt kraftige vifter for å flytte luften. 
+
+Det betyr på ingen måte at det er en stillegående bærbar under hard belastning, men når den ikke jobber hardt er den relativt stillegående. 
+Viftene spinner svakt opp av og til, men du skal være nokså støyallergisk for å betrakte det som sjenerende. 
+
+Tastaturet og håndleddsstøtten er fri for plagsomme "hotspots", altså spesielt varme områder. 
+Vi opplevde heller ikke høyfrekvent piping eller andre plagsomme lyder fra maskinen. 
+
+Vurdering og konklusjon 
+
+Toshiba Satellite P200 - 1I2 er - på tross av at den fikk bank av de to gamingmaskinene vi sammenlignet med - egentlig en fin altmuligmaskin for deg som ikke har bruk for ekstrem ytelse. 
+
+Som "bærbar" er dette altså en PC for deg som strengt tatt ikke har tenkt å bære så mye rundt på maskinen - kanskje bare flytte den fra rom til rom eller bruke den i stua, der den lett kan pakkes unna når svigemor kommer på besøk. 
+Eller trenger en maskin å ta med på hytta i feriene. 
+
+Til vanlig bruk som surfing, lett bildebehandling og videoredigering, tekstbehandling og det meste av medieavspilling vil den fint takle biffen. 
+Også som spillmaskin vil den som nevnt klare seg fint dersom du ikke forventer mirakler. 
+
+Den kommer også med HD DVD-spiller, selv om vi har problemet med å helt se den fremtidige nytteverdien av dette. 
+Likevel - har du noen filmer er det jo greit, og det ser ikke akkurat ut til å ha bidratt til en dyrere PC. 
+Men for full effekt vi kunne nok ha ønsket oss en litt sterkere prosessor - avspillingen er ikke like jevn som vi kunne ønsket, og spesielt er det merkbart dersom vi kjører HD DVD ut via HDMI til full HD på 1920 x 1080 piksler. 
+
+Likevel er det alt i alt en fin og stor allrounder til en svært behagelig pris. 
+Den ender opp med en solid firer på vår terning. 

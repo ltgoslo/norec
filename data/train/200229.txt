@@ -1,0 +1,68 @@
+36 GB Western Digital Raptor
+10 000 omdreininger har vært forbeholdt SCSI-disker, men nå har Western Digital tenkt å røve til seg deler av dette markedet. 
+Raptor - rovdyret - skal ta seg av dette. 
+
+Det klassiske skillet mellom disker beregnet på servere og arbeidsstasjoner på den ene siden og disker beregnet på kontor og entusiast-bruk er i ferd med å bli utydelig. 
+Grunnene til dette er flere, både krav fra brukerne og tekniske framskritt. 
+
+PCen til en vanlig kontorbruker gjør i dag oppgaver som ble karakterisert som tunge for kort tid siden. 
+Ikke minst skyldes dette at operativsystemene har vokst voldsomt, og krever både stor plass og rask håndtering. 
+
+Derfor er det et marked både for raske disker og store disker, men det er ikke alltid like lett å kombinere alle former for ytelse i samme produkt. 
+
+Tetthet gir dobbel gevinst 
+
+Platene på harddiskene har blitt stadig tettere, dagens største disker lagrer hele 80 GB pr plate. 
+Dette gjør at også lesehastigheten blir høy, siden det passerer data i høy fart forbi lese og skrivehodet. 
+
+Resultatet er at en enkel konstruksjon med få roterende og bevegelige deler både gir høy kapasitet og rask dataoverføring. 
+
+Men det er en annen viktig egenskap som lider under denne utviklingen - aksesstiden. 
+
+Hva med aksesstiden? 
+
+Kombinasjonen få plater med stor aktiv overflate gjør at lesehodet må jobbe mer for å nå forskjellige områder av disken. 
+Ved skriving og lesing av sekvensielle data, som lyd og video, er ikke dette noe problem. 
+Men ved innhenting av mindre datamengder, som er lagret til forskjellige tider spredt rundt på platene, da blir det mye trafikk. 
+
+De raskeste SCSI-diskene som er optimalisert for servere har små aktive flater på diskene, slik at lesehodet ikke har så stort arbeidsområde inn og ut på disken. 
+Kombinert med en rotasjonshastighet på 15 000 omdreininger kommer de ned i en aksesstid på mellom 4 og 5 millisekunder. 
+
+Raptor på testbenken 
+
+Western Digital har både brukt relativt liten datatetthet og rask rotasjonshastighet i Raptor, for å konkurrere med de rimeligste SCSI-diskene i ytelse. 
+Med en pris som ligger omtrent 20 prosent lavere enn tilsvarende SCSI-disker fra konkurrentene, skal Raptor, eller WD360GD som er det "seriøse" navet, forsyne seg av markedet både for servere og for krevende brukere av alle slag. 
+
+WD360GD finnes bare i S-ATA utgave, og du trenger et moderne hovedkort eller et PCI-tilleggskort med S-ATA for å i det hele tatt kunne bruke disken. 
+Det kryr av hovedkort med S-ATA og RAID, men ingen av disse er typiske server-kort for tyngre bruk. 
+Det kommer derimot støtt for S-ATA i alle nye brikkesett fra Intel, så dette er et midlertidig problem. 
+
+For entusiastene er det derimot fritt fram å sette opp et lite RAID med to WD360GD som systemdisk, og en eller flere større 7200 RPM-disker til ren datalagring. 
+Dette er den kraftigste disk-kombinasjonen du kan ha på en entusiast-PC i dag, når prisen er en viktig faktor. 
+
+WD har valgt å inkludere standard kontakt for strømtilførsel på WD360GD. 
+Dette er et smart trekk, siden strømforsyinger med kontakter for S-ATA disker er svært sjeldne, for å si det mildt. 
+Dermed sparer du overgangskabler. 
+
+Lese og skrivehastigheten ligger i samme område som SCSI-diskene på 10 000, med en skriveytelse på 50 971 KB/sekund og en leseytelse på 55 989 KB/sekund målt på første partisjon med vårt eget testprogram. 
+
+Dette er også i samme området som vi målte hos vår testvinner i 7200 RPM EIDE-disker, men aksesstiden ligger vesentlig lavere. 
+Vi målte 8,8 ms på WD360GD mot 13,6 hos WD2500. 
+
+Tester med HDTach viser en høyeste lesehastighet på 58 853 KB/sekund og en tilsvarende skrivehastighet på 55 796 KB/sekund. 
+
+Ytelsen faller til laveste lesehastighet på 33 502 KB/sekund og laveste skrivehastighet på 20 978 KB/sekund innerst på disken. 
+
+Vårt eget testprogram målte laveste lesehastighet på 36 916 KB/sekund og laveste skrivehastighet på 33 677 KB/sekund på begynnelsen av de siste 4 GB, så testene viser et godt samsvar. 
+
+Disken støyet mindre enn vi hadde forventet, og bidro ikke med noen høyfrekvent piping som vi hadde fryktet. 
+Det endelig hørbare resultatet vil variere sterkt med kabinett, festemetode og plassering, men sammenlignet med andre nyere disker gir den ikke noe større bidrag til det generelle støynivået. 
+
+Temperaturen var heller ikke spesielt høy, disken er utstyrt med kjøleribber som effektift bidrar til å lede vekk varmen. 
+
+Konklusjon 
+
+WD360GD Raptor har en ytelse i samme klasse som rimelige SCSI-disker og med lavere pris. 
+For PC-entusiasten eller mindre serverløsninger er den helt topp, enten som systemdisk eller til databasebruk. 
+
+Den har også fem års garanti, i motsetning til tre år på vanlige disker. 

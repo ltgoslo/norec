@@ -1,0 +1,102 @@
+Lenovo Yoga Tablet 10
+Etter en drøy uke med jevnlig bruk har vi gjort oss opp en mening om dette nettbrettet. 
+
+Hele poenget med Yoga Tablet er å tilby noe mer enn et vanlig flatt nettbrett. 
+Derfor ble designet også rettet mot både bruk som håndholdt enhet og som frittstående maskin på bord. 
+Batteripakken og plasseringen av denne skulle bidra til bedre ergonomi på begge områder. 
+
+Vi har tidligere beskrevet maskinen, i vår artikkel etter lanseringen. 
+Denne artikkelen finner du her. 
+
+Vi har etter dette brukt maskinen i mange situasjoner, både på toget, i sofaen og på bordet. 
+Vi har også brukt den sammen med tastaturet og mus, tilkoblet med Bluetooth, som en mini-PC. 
+
+Brukervennligheten 
+
+Den spesielle utformingen gjør at du holder den tunge delen i hånden, mens den lette delen stikker ut. 
+Det gjør belastningen mindre, og maskinen oppleves også som lett, om enn på en litt spesiell måte. 
+Det visuelle spiller inn her og totalvekten er høyere enn mange andre nettbrett, og langt tyngre enn den nye iPad Air (610 gram mot 469 gram). 
+
+Men grepet er godt når du holder den på høykant. 
+Holder du den derimot i bredformat blir den ikke spesielt god å holde. 
+
+Som bordmodell, både liggende og stående, er det bare breddeformat som støttes. 
+Du kan ikke stille den på høykant uten å lene den mot et eller annet eller støtte den på annen måte. 
+
+Disse begrensningene er i og for seg ikke så viktige, men på grunn av 16:9 skjermformatet synes vi det blir litt problematisk i blant. 
+
+Skjerm og maskinvare 
+
+Det beste med skjermen er betraktningsvinkelen, den er like god fra alle sider. 
+Det er en IPS-skjerm, så det er som man bør forvente. 
+
+Bildekvaliteten er ikke fantastisk, men heller ikke spesielt dårlig, den er akkurat midt på treet. 
+Dette er jo en rimelig maskin, og skjermen er en god kandidat for innsparing. 
+
+Det som trekker mest ned er nok den beskjedne oppløsningen, på 1280 x 800 punkter. 
+Det gjør at ikoner og grensesnitt ser mer grovkornet ut enn på mange av konkurrentene. 
+Samtidig er det en positiv side ved dette, det gjør grafikken langt mer lettdreven, slik at maskinen virker gjennomgående kjapp på det meste. 
+
+Likevel fungerer HD-video i 720P utmerket når nettforbindelsen er god, det samme med browsing som går lynkjapt på raske nettforbindelser. 
+
+Grensesnittet 
+
+Lenovo har endret litt på Android-grensesnittet, slik at overgangen fra PC/Mac/iOS-brukere blir enklere. 
+Hjem-skjermen har flere sider, på samme måte som på iOS, hvor alle apper er plassert. 
+
+Holder du en finger nede en liten stund dukker hele oversikten opp: 
+
+Kontrollpanelet har også fått et fint utseende: 
+
+Alt i alt er maskinen svært lett både å komme i gang med og å bruke. 
+
+Med ekstra tastatur 
+
+Det finnes også et ekstra tastatur til 10-tommeren, som også fungerer som beskyttelseslokk. 
+Det kobler seg til med Bluetooth med det samme du trykker en tast etter at du har slått det på. 
+
+Da har du faktisk en liten mini-PC, med muspeker og fysisk tastatur. 
+Det fungerer definitivt best når det er plassert på et bord. 
+På fanget eller i sofaen blir det ikke noe særlig, siden tastatur og skjerm ikke henger sammen. 
+
+Tastene fungerer utmerket, med god tastefølelse selv om selve bevegelsen ikke er særlig dyp. 
+
+Tastaturet har også en pekeplate, men denne har ingen egne knapper. 
+Du klikker ved å tap'e på selve platen. 
+Et lite, uthevet skille nederst viser hvor grensen går mellom høyre og venstre museknapp. 
+Pekeplaten fungerer også fint, men den beskjedne størrelsen gjør at den blir ganske følsom. 
+
+Vi koblet også til en Bluetooth-mus fra Microsoft. 
+Den fungerte for så vidt utmerket, men var noe lunefull når den og maskinen skulle vekkes opp av dvale. 
+Da forsov musa seg til stadighet. 
+
+Spesifikasjoner 
+
+Prosessoren er en firekjerners MT8125 på 1,2 GHz Arbeidsminnet (RAM) er på 1 Gbyte, lagring på 16/32 GB eMMC og støtte for 64 GB microSD. 
+Skjermoppløsningen er på 1280 x 800 med 178 graders betraktningsvinkel. 
+Kommer med WiFi og også med 3G. 
+Batterikapasitet 9000/6000 mAh for 10/8-tommers modellene. 
+Vekt 610/404 gram for 10/8-tommerene. 
+
+Operativsystemet er Android 4.2 Jelly Bean 
+
+Batteritid og ytelse 
+
+Lenovo har oppgitt opptil 18 timers batteritid, men ikke hvordan dette er målt. 
+Vi målte med kontinuerlig aktiv bruk av nettleser og fikk en batteritid på 786 minutter, også kjent som13 timer og 6 minutter. 
+Det er meget bra. 
+Med vår daglige bruk med epost og nyheter på tog til og fra jobb samt sofasurfing, YouTube-kikking og lignende, gikk det flere dager mellom hver lading. 
+
+Ytelsen målte vi til 326/1093 (enkeltkjerne/flerkjerne)med Geekbench 3 og Sunspider (test av Javascript) ga 1385. 
+Epic Citadel test av grafikken ga 57,5 fps (1280 x 752 oppløsning). 
+
+Konklusjon 
+
+Som surfenettbrett og til enkel nyttebruk er dette en helt utmerket løsning. 
+Også til mange spill og video fungerer den utmerket. 
+
+Det er spesielt ergonomien som gjør at maskinen utmerker seg, både som håndholdt og bordmodell, samt som nesten-bærbar. 
+Lav skjermoppløsning sammenlignet med konkurrentenes super-skjermer kompenserer ytelsesmessig for noe svakere maskinvare og grafikkytelse. 
+Maskinen virker derfor mye raskere enn spesifikasjonene skulle tilsi. 
+
+Men de som krever høy oppløsning vil neppe falle for denne, og er herved advart. 

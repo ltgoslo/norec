@@ -1,0 +1,111 @@
+Toshiba Satellite R830
+Liten, lekker og svært lett PC fra Toshiba, som straks ble en av våre klare favoritter i klassen! 
+
+Vi må innrømme at vi har fått litt blandet inntrykk av de siste PC-ene vi har testet fra Toshiba, men Satellite R830 snur opp ned på det meste. 
+Denne elegante, lille PC-en imponerer blant annet med god ytelse og batterilevetid, solid innpakning og meget lav vekt. 
+
+Ja, for den veier under 1,5 kilo. 
+Det er oppsiktsvekkende lav vekt for en fullblods PC med 13,3 tommer skjerm og optisk drev. 
+Faktisk trodde vi først at batteriet ikke var påmontert da vi løfte PC-en ut av esken. 
+Så lett føltes den. 
+
+Men helt ukjent var ikke opplevelsen. 
+I februar i år testet vi en av forgjengerne, Satellite R630, som er basert på forrige generasjon Intel Core i-prosessor. 
+Den veide omtrent det samme, men var ikke fullt så potent maskinvaremessig. 
+
+Og før vi går i dybden på hvordan R830 PC-en er i bruk, skal vi ta en rask titt på de viktigste egenskapene: 
+
+Toshiba Satellite R830-13D 13,3" LED-baklyst LCD, 1366 x 768 piksler, blank overflate Intel Core i5 2410M-prosessor Intel HD Graphics 3000 4 GB DDR3-minne, maks 8 640 GB harddisk DVD-leser/brenner for alle formater Webkamera (0,3 mpix) 
+Kortleser for alle typer SD-kort Bluetooth 3.0 Trådløst nett (b/g/n) Gigabit kablet nett 3 USB-porter, hvorav en USB 3.0 og en delt USB 2.0 / eSATA HDMI og VGA skjermutganger Leveres med Windows 7 Home Premium 64 bits Størrelse: 31,6 x 22,7 x 2,7 cm Vekt: 1,48 kg Ca-pris: 6495 kroner 
+
+Dette er en imponerende liste for en så kompakt og lett maskin! 
+Toshiba har benyttet magnesium både i lokket og rundt tastaturet, så kvalitetsinntrykket er upåklagelig. 
+Dette er rett og slett en maskin som trygler om å bli fraktet mye rundt - fra møte til møte, eller som skolemaskin i skulderveska. 
+
+Alle porter sitter på sidene, og vi liker godt at sporet for SD-kort synes godt fra oversiden. 
+Det vi ikke er fullt så glade for, er at strømpluggen er stor og klumpete, stikker rett ut og er lett å dulte borti. 
+Hvorfor ikke Toshiba har valgt en plugg med 90-graders knekk er et mysterium. 
+
+Tastaturet er av chicklet-typen der hver tast står isolert fra de andre. 
+Tastene er glatte, og selv om litt større og rue taster gir mer umiddelbar følelse av touch-kontroll, ble vi raskt vant til dem. 
+Tastaturet avgir lite støy, platen er fast og fin, og det eneste vi kunne ha tenkt oss var en litt bredere enter-tast. 
+Siden det er taster til høyre for den, skjer det av og til at vi bommer når vi skal skifte linje. 
+
+Pekeplaten er litt ru og akkompagneres av to adskilte knapper. 
+Fin løsning, men knappene avgir litt for høy klikkelyd, mener vi. 
+Glem å bruke dem på soverommet når partneren skal prøve å sove! 
+
+Tynn lyd 
+
+Over tastaturet sitter et par høyttalere. 
+De avgir en ganske tynn lyd med fraværende bass, men det er ikke så ofte vi opplever at de innebygde høyttalerne byr på særlig gode lydopplevelser. 
+Denne 13,3-tommeren fra Lenovo har imidlertid langt bedre lyd, men veier samtidig en halvkilo mer. 
+
+Helt til høyre øverst sitter to nyttige hurtigtaster. 
+Den ene aktiverer strømsparemodus, og du får opp et vindu som viser strømforbruket i sanntid. 
+Til høyre for denne sitter en knapp som raskt og effektivt lar deg veksle mellom skjermmodi når du har koblet PC-en til en ekstern kilde, som TV eller projektor. 
+Smart! 
+
+Skjermen er blank, og det passer ikke alle. 
+Derfor finnes en søstermodell, Portege R830, som har matt skjerm. 
+Den har også en del andre egenskaper som først og fremst myntet på bedriftsmarkedet, og har dessverre en høyere pris. 
+
+Oppløsningen er 1366 x 768, som vi mener er tilfredsstillende på en 13,3-tommer. 
+Skjermen er gjennomsnittlig lyssterk. 
+
+Mye programvare, ikke alt er like nyttig 
+
+Satellite R830 leveres med Windows Home 7 Premium, og kommer med en temmelig omfattende liste med forhåndsinstallerte programmer. 
+Vi har tidligere kjeftet litt på Toshiba for at det har blitt litt for mye rusk og rask her, som igjen kan påvirke totalopplevelsen i negativ retning. 
+
+Også denne maskinen har mye innabords som vi tror de færreste vil ha nytte av, vi talte hele 22 installerte programmer og løsninger bare fra Toshiba selv, og flere av dem kjører i bakgrunnen kontinuerlig. 
+I tillegg kommer prøveversjoner av Microsoft Office og sikkerhetsprogrammer fra McAfee, bare for å nevne noe. 
+
+Sistnevnte var forresten avinstallert på vårt testeksemplar, av ukjent årsak, uten at vi gråter av den grunn. 
+Det finnes etter vår mening andre sikkerhetspakker som "gjør mindre av seg" og som derfor vil være å foretrekke for mange - som for eksempel gratisalternativet Microsoft Security Essentials. 
+
+Om det var at fraværet av McAfee-programvaren som gjorde at denne maskinen opplevdes som langt raskere og responsiv i de fleste situasjoner enn et annen Sandy Bridge-basert familiemedlem, Toshiba Satellite P755, skal vi ikke banne på, men det var oppsiktsvekkende stor forskjell. 
+R830 løser både lette og tyngre oppgaver kjapt og greit, nesten kjemisk fri for all ventingen vi kommenterte i testen av P755. 
+
+Ytelsesmålinger 
+
+Windows opplevelsesindeks ville ikke la seg kjøre på vårt testeksemplar av R830, men den ville garantert ha ligget i samme leie som Lenovos IdeaPad Z370, som har samme prosessor og grafikkløsning. 
+Skalaen her går fra 1.0 (dårligst) til 7.9 (best): 
+
+Når vi sammenligner prosessor- og grafikkytelse i forhold til andre maskiner i klassen, ser vi at spesielt prosessorytelsen biter godt fra seg. 
+Her: 
+Ytelsestall fra Passmark PerformanceTest 7.0: 
+
+Grafikkytelsen er mer middelmådig, men her må du ikke la seg skremme dersom du ikke er veldig opptatt av spilling og 3D-applikasjoner og spill. 
+Maskinen tygger alt at bilde og videomateriale, både på intern skjerm og ekstern TV i full HD-oppløsning - uten særlige tegn til anstrengelser: 
+
+Ikke helt lydløs 
+
+Men godt hørbar vifte må du belage deg på fra tid til annen. 
+Viften går faktisk mer eller mindre konstant, men på lavt turtall. 
+Det er sjelden belastningen blir så stor at den blir sjenerende, men det kan forekomme i de tyngste operasjonene. 
+Merk også at luftinntaket skjer fra undersiden. 
+Dette er med andre ord ikke maskinen vi ville plantet i en pute på fanget. 
+
+Vi legger også til at maskinen nesten ikke blir varm under vanlig arbeid. 
+Det tyder på at Toshiba har funnet effektive måter å lede varmen ut fra kabinettet på. 
+Håndleddstøttene holder seg svale, noe som gjør det behagelig å skrive på tastaturet, time etter time. 
+
+Og dette er virkelig en maskin du kan bruke, time etter time, selv uten nettstrøm. 
+Vi målte batterilevetiden i to omganger, først med kontinuerlig videoavspilling av HD-film i Windows Media Player, deretter med minimal belastning. 
+Levetiden i begge tilfeller er i øvre skikt. 
+I tabellen under har vi sammenlignet den med andre 13,3-tommere vi har testet tidligere denne sesongen: 
+
+Konklusjon 
+
+Vi er i det store og hele meget godt fornøyd med denne PC-en fra Toshiba. 
+Den beviser at det går an å kombinere god ytelse, god batterilevetid og meget lav vekt, uten at prisen blir avskrekkende høy. 
+At PC-en i tillegg har optisk drev er nesten utrolig. 
+
+De få negative bemerkningene våre går først og fremst på strømplugg, museknapper og litt på programvaresiden. 
+Det er i overkant mange prosesser som kjører samtidig, og personlig ville jeg i hvert fall tatt en opprydning før jeg hadde tatt maskinen i bruk. 
+
+Du kan finne bedre 3D-grafikkytelse på andre maskiner i klassen, og vi har også testet 13,3-tommere som er stillere under belastning. 
+Det er uansett ikke nok til å fravriste maskinen en sterk femmer på terningen, og en klar anbefaling fra DinSide.no. 
+
+Toshiba Satellite R830-13D 

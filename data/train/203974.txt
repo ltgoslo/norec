@@ -1,0 +1,125 @@
+Den beste støydempingen har blitt enda litt bedre
+… men spørsmålet er om du kommer til å bli så mye lykkeligere for 1.000 kroner ekstra. 
+
+I fjor testet vi Sony MDR-1000X; trådløse hodetelefoner med aktiv støydemping. 
+Vår konklusjon var at Bose for første gang hadde blitt vippet ned fra tronen hva støydemping angikk, og i tillegg bød Sony på særdeles god lyd, smart betjening og god batteritid. 
+
+Sekseren på terningen var utvilsom, og 1000X sto igjen som ett av de aller beste produktene vi testet i fjor; uavhengig av kategori. 
+
+Oppfølger senker prisen 
+
+Det omtalte Sony-hodesettet har denne høsten falt i pris. 
+Da de ble lansert kostet de 4.300 kroner veiledende, mens de fleste butikker nå selger dem til rundt 2.700 kroner. 
+
+Det er selvsagt ikke tilfeldig, for nå er oppfølgeren her i form av dagens testprodukt, WH-1000XM2. 
+
+De koster snaue 3.800 kroner i de rimeligste nettbutikkene, så påslaget er altså en drøy tusenlapp kontra fjorårets modell, eller rundt 40 prosent høyere pris. 
+
+Så – hva får du for den ekstra tusenlappen? 
+
+#1: 
+Batteritid på 30 timer 
+
+Spør du oss, er den største gulrota at WH-1000XM2 har fått 50 prosent bedre batteritid, altså opp fra 20 til 30 timer – med støykansellering aktivert (38 om du slår den av). 
+
+Det skulle med andre ord holde til de aller fleste reiser, både tur og retur, eller gjøre at du kan lade dem sjeldnere om du bruker dem litt hver dag. 
+
+Nå er ikke de 20 timene i 1000X til å kimse av heller, så muligens vil du være fornøyd allerede der, men det er selvsagt et pluss når batteritiden har økt såpass. 
+Få andre hodetelefoner i dette segmentet kan skilte med så høy batteritid. 
+
+Kjekt hadde det dog vært om Sony hadde byttet ut den nå noe aldrende micro USB-kontakten med USB-C, som nå sitter i de fleste telefoner av ny årgang. 
+
+#2: 
+Trykksensor spesielt til flyturer 
+
+En annen nyvinning i M2-utgaven er en innebygd trykksensor. 
+Tanken er at en reduksjon i trykket, som du opplever på en flytur, vil påvirke responsen i mikrofonene som fanger opp støy, og sensoren kan derfor bidra til at dette korrigeres på innsiden av hodetelefonene slik at støydempingen blir bedre. 
+
+Vi hadde med oss WH-1000XM2 på en flytur og kalibrerte dem før avgang, altså med 1 atm trykk. 
+Da vi hadde nådd marsjhøyde, kalibrerte vi dem på nytt. 
+Appen viste nå 0,8 atm trykk, og faktisk var støyreduksjonen et lite hakk bedre etter den siste kalibreringen. 
+Ingen voldsom forskjell, men nok til å konkludere med at dette er mer enn en gimmick, i hvert fall. 
+
+Kalibreringen, for øvrig, er omtrent den samme som i forgjengeren, der du holder støykanselleringsknappen inne slik at hodetelefonene sender ut testsignaler og måler hvordan lyden forplanter seg akkurat rundt dine ører. 
+Det gjør støydempingen enda bedre, og skal du låne dem bort, bør vedkommende derfor kalibrere dem til sitt hode for optimalt resultat. 
+
+#3: 
+Automatisk justering av støyreduksjonen 
+
+Det tredje argumentet er i våre øyne det svakeste. 
+Nytt i denne versjonen er nemlig en funksjon Sony har kalt «adaptive sound control», som gjør at hodetelefonene selv kan justere graden av støyreduksjon basert på din aktivitet. 
+
+Konseptet er at de skal klare å skille på hvorvidt du går, sitter stille, kjører kollektivtransport eller løper. 
+
+Oppdager løsningen at du spaserer, får du som standard inn noe lyd fra omgivelsene slik at du kan høre trafikken, mens det blir så tyst som mulig når du sitter på toget. 
+God idé, uten tvil, og via appen kan du justere hva slags innstillinger du vil ha per situasjon. 
+
+Men i praksis fungerer det ikke veldig godt. 
+For det første opplever vi at vi er nødt til å åpne Sony-appen hver gang vi har koblet dem til telefonen for å aktivere funksjonen (i hvert fall på iPhone, som vi har brukt til testingen). 
+Det tyder for øvrig på at det er programvaren på telefonen, og ikke i hodetelefonene, som styrer dette, og at det burde kunne ha fungert på 1000X også dersom den hadde vært støttet i den samme appen. 
+
+Hver gang det oppdages at din aktivitet er forandret, høres et signal i øret som kapper musikken et par sekunder. 
+Det skulle vi gjerne ha likt å slå av. 
+Vi opplever også at responsen er varierende – den slår som regel ganske fort om når vi går av T-banen (typisk etter 2–3 sekunder), mens det fort går rundt 20 sekunder når vi setter oss på T-banen og drar av gårde før ulydene forsvinner. 
+
+Og da vi satte oss på benken på Jernbanetorget for å vente på linje 5 i morges, hørte vi mye bråk fra omgivelsene, som er standardvalget når man venter. 
+Vi overstyrte til full støykansellering med knappen på øret, men etter en liten stund, ville funksjonen igjen at vi skulle få med oss bråket rundt oss. 
+
+Konstruksjonsmessig ganske lik 
+
+Vi likte godt komforten og betjeningen med forgjengeren, og lite er endret på den fronten. 
+Øreputene ligger mykt mot ørene, bøylen er godt polstret på toppen og spennet føles akkurat passe, i hvert fall mot mitt hode. 
+Det gjør det uproblematisk å ha dem på over lengre tid. 
+
+Fortsatt er overflaten på høyre klokke berøringsfølsom, som gjør at du kan bruke sveipebevegelser for å hoppe til neste eller forrige sang (høyre/venstre), øke og senke volumet (opp/ned) eller pause/spille av musikken (dobbeltprikk). 
+
+Vi synes dette fungerer aldeles utmerket, og kjekk er funksjonen vi også finner hos forgjengeren, der du kan dekke til høyre klokke med hånda for midlertidig å dempe musikken og slippe igjennom all lyd utenfra; mer enn om du bare hadde skrudd av hodetelefonene og latt dem sitte på hodet. 
+
+Én knapp har forsvunnet på venstre klokke. 
+Før var det separate knapper for støyreduksjon og hvorvidt du ville slippe inn noe omgivelseslyd, men disse har blitt kombinert til én, der du nå kan velge av, på eller omgivelseslyd fra samme knapp. 
+Borte er med andre ord valget for å slippe inn frekvenser i stemmeområdet, så det må du eventuelt aktivere via appen. 
+
+God app til finjusteringene 
+
+Appen har vi nevnt ved flere anledninger, og det er altså Sonys «Headphones»-app som er tilgjengelig for Android og iOS, og som fungerer med flere Sony-hodetelefoner. 
+
+Utover det som er nevnt, lar den deg også justere graden av støyreduksjon manuelt, du kan justere equalizeren dersom du vil forsterke eller redusere enkelte frekvensområder, og det finnes surround-innstillinger som imiterer lyden av en stor arena, konserthall og liknende. 
+
+En annen mulighet er å flytte lydposisjonen, slik at det for eksempel kan høres ut som om lyden kommer bakfra eller liknende, uten at vi helt ser nytten av akkurat det. 
+
+Fortsatt fabelaktig lyd 
+
+Støyreduseringen er altså fortsatt i toppklasse, og det samme gjelder lydkvaliteten. 
+Begge disse Sony-telefonen leverer særdeles god og detaljert lyd med glimrende dynamikk, og en stram og markert bass uten at det blir dominerende i lydbildet. 
+
+Rett og slett svært god lyd til alle musikksjangre, og med mulighet til å fintune litt i appen om du ønsker det. 
+
+Verdt å nevne er også at de begge støtter flere teknologier med bedre lydkvalitet enn ren Bluetooth, som AptX HD og Sonys proprietære LDAC-protokoll. 
+En ekstra fordel med AptX er den lave forsinkelsen, som gjør at lyden praktisk talt blir helt i synk om du ser film eller spiller spill; forutsatt at enheten du spiller fra også støtter AptX (gjelder mange Android-telefoner, blant annet). 
+Uten AptX kan det være smått irriterende å se film med trådløse hodetelefoner der lyden ikke er helt i tråd med det på skjermen, eller å spille rytmespill som Dancing Line og liknende, der kort forsinkelse er helt essensielt. 
+
+LDAC krever at du spiller fra en Sony-enhet som støtter det samme* og har en overføringsrate på 990 kbps; omtrent det tredoble av «vanlig» Bluetooth (328kbs), og nesten det dobbelte av AptX HD (576 kbps). 
+Disse kommer først til nytte om du hører på høytoppløslig lyd – de fleste strømmetjenester (bortsett fra Tidal HiFi) holder seg som regel under 320 kbps 
+
+* Merk at LDAC nå er inkludert i Android 8.0, og at andre produsenter derfor kan ta i bruk denne teknologien om de vil. 
+
+Fortsatt bare én av gangen 
+
+En ting vi skulle ha ønsket oss til denne utgaven, men som i likhet med forgjengeren mangler, er muligheten til å være koblet til to enheter samtidig. 
+
+For oss som gjerne spiller fra mobiltelefonen på reise til og fra jobb, men fra PC-en når vi sitter på kontoret, er det litt tungvint først å måtte koble seg fra den ene og så på en andre hver gang vi skal bytte kilde. 
+
+Den biten håndteres elegant av Bose QuietComfort 35, for eksempel, som da bare er koblet til dem begge samtidig. 
+
+Bluetooth-versjonen som støttes av WH-1000XM2 er for øvrig v4.1, og ikke den nye 5.0-standarden som blant annet tilbyr bedre rekkevidde. 
+
+Men er de verdt 40 prosent høyere pris? 
+
+Det er altså spørsmålet du må stille deg. 
+Du finner neppe et bedre par trådløse hodetelefoner med støydemping til under 4.000 kroner enn WH-1000XM2, så er det sagt. 
+
+Men du finner et par som er nesten like gode til en drøy tusenlapp mindre, nemlig forgjengeren MDR-1000X, så her er Sony i våre øyne sin egen største konkurrent. 
+
+Forgjengeren har riktignok «bare» 20 timers batteritid i stedet for 30 og ligger marginalt bak på støyreduksjonen når du er på flytur, men ellers er de to svært like. 
+
+Litt for like til at vi kan trille sekseren denne gangen også. 

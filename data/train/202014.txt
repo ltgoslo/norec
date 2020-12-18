@@ -1,0 +1,54 @@
+250 GB Western Digital WD2500JB OPPDATERT
+OPPDATERT: 
+Får du aldri plass nok, og hater å vente? 
+Hvis dette også gjelder ditt forhold til harddisker kan du løse problemet med en WD2500 - den største og raskeste. 
+Vi har sett på årets utgave som både er bedre og billigere. 
+
+Mutasjonen av PCbruker og hamster, som laster ned mengder med data de aldri bruker, og heller aldri sletter, blir det stadig flere av. 
+De sitter på tusenvis av MP3-filer og hundrevis av filmer, kopier av flere generasjoner harddisker fra tidligere PCer, shareware og piratkopier av programmer man aldri får testet. 
+
+Samtidig er det stadig flere som faktisk trenger stor plass til video, lyd og høyoppløselige bilder. 
+
+Fabrikantene setter selvsagt pris på dette, og lanserer stadig større og raskere disker. 
+Vi har hatt årets nyeste utgave av Western Digitals WD2500JB på benken, som har en kapasitet på 250 GB med den nyeste lagertypen, Fluid Bearings. 
+
+Ikke for stor 
+
+Dagens PCer og oppdaterte versjoner av Windows XP (eller andre operativsystemer) har ikke noen problemer med å håndtere disker på denne størrelsen. 
+Men hvis du har et eldre hovedkort, bør du sjekke om hovedkortet ditt håndterer så store disker, laste ned en oppdatering av BIOS, eller kjøpe en separat PCI-diskkontroller. 
+Eventuelt laste ned den siste Service Pack til Windows. 
+
+Topp ytelse 
+
+HD Tach målte på de første utgaven av testen en leseytelse som startet på 59 943 KB/sekund ytterst på disken, og reduserte gradvis til 25 657 innerst. 
+Gjennomsnittet lå på 49 021 KB/sekund 
+
+På dagens JB-utgave målte vi en leseytelse på 59 471 KB/sekund ytterst, så falt den jevnt nedover til 29 220 KB/sekund. 
+Snittet lå på 49 132 KB/sekund. 
+
+Skriveytelsen i fjor lå på 44 440 KB/sekund ytterst og 15 310 KB/sekund innerst, med et gjennomsnitt på 27 288 KB/sekund. 
+
+På dagens JB-utgave målte vi 50 569 KB/sekund ytterst som falt ned til 17 817 KB/sekund. 
+Snittet lå på 28 650 KB/sekund. 
+
+Aksesstiden målte vi litt høyere, den lp på 13,6 millisekunder i fjor, men målingen lå nå på 13,9. 
+
+Vårt eget testprogram målte i fjor en skriveytelse på henholdsvis 55 701 starten, 50 172 på midten og 38 871 KB/sekund på slutten av disken, målt på hver av de tre partisjonene. 
+
+På dagens versjon fikk vi 57 479, 53 717 og 39 793 KB/sekund 
+
+Leseytelsen målte vi tilsvarende til henholdsvis 56 665, 50 933 og 40 262 KB/sekund i fjor, og i år var tallene 57 975, 51 848 og 41 332 KB/sekund. 
+
+Støy og varme 
+
+Det er ikke mye av noen av delene, disken ble ikke mer enn håndvarm og støyer like lite som de andre senere diskene fra Western Digital. 
+Den nye modellen er enda mer støysvak, nesten helt fri for vibrasjoner og knapt hørbar selv under aktiv bruk. 
+
+Konklusjon 
+
+Disken er størst og raskest i klassen, og har glimrende egenskaper. 
+Trenger du plassen og har i underkant av 2000 kroner å avse, så er det bare å handle. 
+Prisfallet siden disken kom på markedet er dramatisk - den kostet opprinnelig 3700 kroner!. 
+Sjekk på etiketten at du får den riktige utgaven, med 8 MB hurtigminne og Fluid Bearings. 
+
+Alt i alt - fremdeles en testvinner! 

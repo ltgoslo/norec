@@ -1,0 +1,88 @@
+iMovie '09
+Apples iLife har kommet i ny versjon, vi har testet iMovie '09 
+
+Apple har alltid hatt høy status i kreative miljøer. 
+Det har historiske grunner, som at Mac'en allerede ved lansering i 1984 hadde en grafisk desktop med ikoner og både mus og tastatur. 
+På den tiden eksisterte ikke Windows, og når du slo på en PC kom det bare opp en enslig C:\ på skjermen oppe i venstre hjørne. 
+
+LES OGSÅ: 
+
+I dag er ikke forskjellen på langt nær like stor, men alle Mac'er kommer med en programsuite som tar seg av de første skritt på veien for de som vil holde på med egne bilder, filmer og musikk - iLife. 
+
+Av disse er det iMovie som er det mest krevende for maskinen, det er jo her de store datamengdene skal kvernes samtidig som det skal være oversiktlig for brukeren. 
+
+Hva vi testet 
+
+Vi installerte iLife '09 på en helt ny MacBook Pro. 
+Siden maskinen var helt ny trodde vi at den nyeste versjonen allerede lå inne på maskinen, men det var altså feil. 
+Verdt å sjekke hvis du kjøper deg ny Mac. 
+
+Maskinen har 2,66 GHz Intel Core2 Duo, 4 GB DDR3 minne, 320 GB disk og GeForce 9600M GT skjermkort. 
+Dette er den største modellen, med 17-tommers blank skjerm på 1920 x 1200 punkter. 
+
+Materialet vi testet kom fra vårt Sony HDR-SR7 harddiskbaserte AVCHD kamera som kobles til med USB fra dokkstasjonen. 
+
+Da vi koblet til kameraet dukket bare filerne i SD-kvalitet opp i importvinduet. 
+Det var ikke noen åpenbare alternativer for å velge AVCHD-filene, det dukket ikke opp som alternativ noe sted. 
+Da vi bare fjernet SD-filene fra kameradisken i Finder dukket alle AVCHD-filene opp i iMovie etterpå, helt automagisk. 
+Det er mulig det er et triks her, men det brukte vi ikke tid på å finne ut av nå. 
+Tips mottas med takk. 
+
+Hva er nytt i '09 versjonen? 
+
+Forrige versjon - iMovie '08 - var helt ny i forhold til forgjengeren iMovie '06. 
+Men denne gangen er det snakk om forbedringer og nye funksjoner, selve grunnkonseptet er det samme som i iMovie '08. 
+Du kan lese vår test av denne her. 
+
+I '09-versjonen er det mange nyheter, du finner full oversikt hos Apple. 
+
+Vi har bare sjekket ut det vi ser som de viktigste av endringene. 
+
+I redigeringsdelen har det dukket opp flere nyttige og elegante løsninger. 
+Du har nå mulighet til å finredigere klippene ved å klikke på verktøysymbolet i begynnelsen av klippet og velge prsisjonsredigering. 
+Da dukker de to klippene opp i et nytt vindu hvor de er plassert ovenfor hverandre og det materialet som ikke er brukt er duset ned. 
+
+Så er det bare å flytte inn- og ut-punktene slik du ønsker, du ser bildet samtidig i preview-vinduet oppe til høyre. 
+
+En liten detalj er at avspilling alltid starter der markøren står, og den er utrolig lettbent i iMovie. 
+Vil du flytte den litt før eller etter så er det ingen ting som henger, responsen er helt direkte. 
+Beveg mus, trykk spacebar for play - det er en fantastisk kjapp respons. 
+
+En annen nyhet i det samme redigeringsbildet er at du kan koble fra lyden, slik at du kan ha godlyden fra et klipp og de beste scenene fra et annet. 
+Har du brukt to kameraer er jo dette uvurderlig. 
+
+Du kan også markere rytmikken i lydfiler, da snap'er bilderedigeringen til disse punktene slik at det blir mye lettere å følge rytmen i musikken. 
+
+Ellers har iMovie fått markører som kan plasseres strategisk og brukes til kapitler ved DVD-brenning, klippjusteringer som kan gjelde mer enn ett klipp, kopiering av innstillinger og flere andre forbedringer. 
+
+I prosesseringsdelen har det dukket opp noe som alle vi amatører har spesielt stor glede av. 
+Vi snakker om bildestabilisering. 
+Selv om dette skal tas hånd om av kameraet under opptak, er det svært ofte at dette ikke er tilstrekkelig. 
+Da får publikum lett følelse av sjøsyke. 
+
+Bildestabiliseringen funger utmerket og er meget lett å bruke. 
+Du velger et klipp og ber om å få det analysert for stabilisering. 
+Etter at dette er ferdig er det bare å aktivere stabiliseringen, og velge i hvilken grad prosessen skal stjele fra originalutsnittet. 
+Forbedringene er høyst påtagelige og kan redde mange ellers tvilsomme opptak. 
+
+Problemet er at analyseringsprosessen tar forferdelig lang tid. 
+
+Et 20 sekunders klipp tar gjerne 4 minutter å analysere. 
+Før dette er ferdig får du ikke verken sett eller gjort noe som helst, da er iMovie opptatt med sitt på heltid. 
+
+Også importen av data og konverteringen som skjer underveis er tidkrevende. 
+Derfor er det nok lurt å sette i gang disse prosessene en helt annen dag enn den dagen man har lyst til å hygge seg med å redigere, hvis det er snakk om materiale av særlig omfang. 
+
+Bilde-i-bilde er nå mulig, også erstatting av bakgrunn (grønnskjerm-effekt), effekter som kan sette sitt preg på hele stemningen, du kan endre hastigheten opp og ned og til reisefilmene dine kan du nå bruke animerte kart i 3D eller forskjellige flate stiler, hvor du reiser visuelt mellom steder på planeten. 
+
+Også arkiveringsbiten har fått oppussing, du kan konsolidere på interne og eksterne disker og brenne til DVD. 
+
+Men Blu-ray er det ingen støtte for... 
+
+Verdt å oppgradere? 
+
+iLife koster 790 kroner å oppgradere, da får du nye versjoner av alle programmene. 
+
+Du trenger også OS X 
+Leopard, så hvis du ikke har oppgradert kjøper du alt i en samplepakke til 1 690 kroner. 
+Da får du iWork på kjøpet. 

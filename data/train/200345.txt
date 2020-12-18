@@ -1,0 +1,38 @@
+PNY Professional 120 GB SSD
+PNY er vel mest kjent for skjermkort, men lanserer nå en serie SSD. 
+
+Skjermkort for gamere er vel og bra, men SSD og minne står også på programmet til PNY. 
+Fjerde generasjon 
+SSD er nå på vei ut i markedet. 
+
+Det er tre helt sentrale elementer i en SSD: kontrolleren, firmware og flashminnet. 
+Dette er avgjørende for både pris og ytelse. 
+
+PNY spesifikasjoner: 
+
+Kontroller: 
+SandForce SF 2281 / SF 2282 (480 GB versjon)Flashminne: 
+Intel 3K P/E Endurance synkron MLCGrensesnitt: 
+SATA3/6GMaks lese/skrive: 
+Opp til 550/520 MB/sek4KB IOPS random skriving: 
+Opptil 60 000 
+
+Spesifikasjonene eller informasjonen vi har mottatt sier ingen ting om firmwaren i disse SSD-ene annet enn versjonsnummeret. 
+Ofte er firmwaren det som skiller mest mellom produktene, som ofte består av de samme basiskomponentene. 
+SandForce-kontrollerne brukes av "alle", inkludert Intel, selv om de har egne kontrollere, men det er forskjeller i firmwaren som er utslagsgivende mellom SandForce-produktene. 
+
+Ytelse 
+
+SSD-en leverer god ytelse, men i noen tester er resultatene mer ujevne enn i andre. 
+Dette gjelder både i AS SSD og i vår egen Medietest. 
+Årsakene til dette er vanskelige å peke ut, men ligger i det firmware-baserte samspillet mellom SATA-kontrolleren, SandForce-kontrolleren og ONFI (Open NAND Flash Interface) som snakker direkte med flashminnet. 
+
+SandForce-baserte SSD egner seg godt til systemdisker, hvor det er i hovedsak komprimerbare data som håndteres. 
+Til spesielt krevende lagring av ikke-komprimerbare filer synker ytelsen, sammenlignet med SSD som bruker andre typer kontrollere. 
+
+Konklusjon 
+
+PNY SSD leverer både meget god og noe varierende ytelse, sammenlignet med de aller beste vi har testet. 
+Forskjellen er i utgangspunktet ikke svimlende, men hvordan de vil utvikle seg over tid er uvisst. 
+
+PNY Professional 2.5" SATA III SSD 120GB 

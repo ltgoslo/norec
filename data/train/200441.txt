@@ -1,0 +1,145 @@
+Asus Zenbook U500VZ
+En imponerende kraftig og elegant maskin. 
+
+Når det kommer til Ultrabooks, er det ikke til å legge skjul på at det er spesielt to produsenter som har imponert oss det siste året: 
+
+Asus og Samsung. 
+
+Ikke bare har disse to produsentene lagt ned mye arbeid i finishen på produktene, de har også levert maskiner med overlegne skjermer i forhold til den store hurven. 
+
+Nå er tiden kommet for å se nærmere på selve spydspissen i Zenbook-serien, den nye 15,6-tommeren Zenbook U500VZ. 
+Dette er rett og slett et imponerende stykke håndverk i en like imponerende slank innpakning. 
+Hør bare her: 
+
+Skjerm: 15,6 tommer matt IPS-skjerm, full HD-oppløsning (1920 x 1080 piksler) Prosessor: 
+Intel Core i7-3612QM RAM: 
+8 GB Grafikkort: 
+Nvidia GeForce GT 650M, 2 GB Lagring: 256 GB SSD (128 + 128 GB fra Sandisk) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI + VGA (sistnevnte krever overgang) USB-porter: 3 stk USB 3.0-porter Webkamera: 
+Ja Kortleser: SD + MMC Trådløst nett: 
+Intel Centrino N6235 (A/G/N) 
+Kablet nett: 10/100/1000 Gbit Annet: 
+Bluetooth 4.0, ekstern subwoofer OS: 
+Windows 8 Størrelse: 38 x 25 x 2 cm Vekt: 2,16 kg Pris: 
+Fra 12.150 kroner (30.11.2012) 
+
+Maskinen har altså plass til 2 stk SSD-er. 
+Disse sitter i mSATA-spor på innsiden. 
+Det er med andre ord ikke plass til noe harddisk eller vanlig 2,5" SSD i denne PC-en. 
+Oppsettet med to raske SSD-er gir uansett rå lese- og skriveytelse, noe du snart vil se beviset på. 
+I tillegg merker vi oss at prosessor ikke er av den strømgjerrige ULV-typen vi vanligvis finner i Ultrabooks, og grafikkortet er også hinsides alt vi før har sett på 2 cm tykke PC-er. 
+
+For å kompensere for relativt strømkrevende komponenter er maskinen utstyrt med et seiglivet 8-cellers batteri. 
+
+U500VZ har samme designuttrykk som andre maskiner i Zenbook-familien, hvilket blant annet betyr at det er benyttet aluminium rund baut. 
+
+Et sirkelformet mønster i lokket skal symbolisere "de uendelige mulighetene som ligger i maskinen", som Asus selv har formulert det. 
+
+Fingeravtrykk vises litt på lokket, men ikke på innsiden. 
+
+Designen er i våre øyne meget god, og utførelsen virker solid og gjennomtenkt. 
+Likhetstrekkene med MacBook Air er mange, ikke minst den lett skrånende designen fra siden. 
+
+Alt av tilkoblinger sitter på sidene, SD-minnekortleser, en kombinert lyd-utgang og mik-inngang, samt mini-VGA og micro-HDMI-utgang. 
+
+Tastaturet har baklys, du kan selv velge om det skal tennes automatisk eller manuelt, og du kan også justere lysstyrken. 
+Det er fast og fint, og avgir lite støy under skriving. 
+I motsetning til de mindre utgavene i Zenbook-serien har U500VZ også fått på plass et mumerisk tastatur. 
+
+Fikset pekeplate 
+
+Nedenfor tastaturet sitter en stor pekeplate med integrerte knapper. 
+Den er langt mindre følsom enn den vi stiftet bekjentskap med hos lillebror UX31A. 
+
+Platen har integrerte venstre-høyreknapper nederst. 
+Det fungerer bra, og ser bedre ut enn separate knapper, selv om sistnevnte som regel fungerer aller best, mener vi. 
+
+Den matte skjermen full HD-oppløsning, 1920 x 1080. 
+Dette er etter vår mening perfekt oppløsning for en 15,6 tommer, og sørger for at bilder og tekst blir sylskarpe. 
+At den også er matt og har meget god kontrast også fra nærmest død betraktningsvinkel, er også store pluss i våre øyne. 
+
+Strømpluggen har en praktisk 90-graders knekk, noe vi liker bedre enn dem som stikker rett ut. 
+De er ofte mer utsatt for brudd. 
+
+Høyttalerne er fortsatt merket Bang & Olufsen ICEpower. 
+Lyden er ikke så verst for å komme fra en syltynn Ultrabook, men har naturligvis sine begrensninger, spesielt på bass. 
+Derfor har Asus lagt ved en ekstern subwoofer i kaffekrus-størrelse, som sørger for mer fylde. 
+Vi tro imidlertid ikke mange kommer til å bruke den. 
+Er man opptatt av god lyd, kobler man til eksterne høyttalere eller bruker hodetelefoner. 
+Enkelt og greit. 
+
+Bunnplaten er heltrukket og også av aluminium, og du trenger torx-trekker for å få tilgang til innmaten. 
+
+I bruk og målt ytelse 
+
+Oppstart av maskinen tar 13 sekunder. 
+Det er blant de aller raskeste tidene vi har målt, og det skyldes dels et lynkjapt RAID-oppsett med to SSD-er, samt at Windows 8 er blitt raskere å starte enn tidligere Windows-utgaver. 
+Fra hvilemodus er maskinen klar på et øyeblikk. 
+
+Maskinen har to vifter som går kontinuerlig, og på noe høyt turtall. 
+
+Dette er altså noe av prisen man må betale for å få så mye krutt pakket inn i så begrenset volum. 
+Det at den har en jevn dur er uansett bedre enn en vifte som justerer hastigheten opp og ned i tide og utide, mener vi. 
+Om viften er sjenerende eller ikke er en smakssak, men dette er ikke en PC vi ville tatt med oss på senga hvis den andre i rommet prøver å sove. 
+
+På dette punktet er det altså forbedringspotensiale, og vi forventer nesten at etterfølgeren til denne maskinen vil være langt mer stillegående. 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra McAfee (prøveversjon). 
+Denne synes vi er plagsom, og kommer med temmelig mange irriterende advarsler, blant annet om å aktivere og betale for å fortsatt være sikret etter prøveversjonen. 
+Den påvirker imidlertid ikke bruksopplevelsen utover dette i særlig grad, PC-en responderer svært kjapt i alle situasjoner. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,6 Minne: 7,7 Grafikk: 
+5,8 Spillgrafikk: 
+6,8 Primær harddisk: 
+8,4 
+
+Dette er uvanlige tall å se på Ultrabooks, og gir oss klare forventninger til de øvrige testene. 
+
+Passmark PerformanceTest 8.0 sier følgende om prosessor, grafikk og SSD-ytelsen. 
+I diagrammene har vi sammenlignet med andre ultrabooks vi har testet i det siste: 
+
+Prosessor: 
+
+Som du ser er prosessorytelsen av en helt annen klasse enn på standard ultrabooks. 
+Dette er rett og slett kompromissløst, denne PC-en er blant de kjappere vi har testet, uansett klasse 
+
+Grafikk: 
+
+Også grafikkytelsen henger med. 
+Du kan spille nye spill med normal oppløsning og detaljdybdre, uten problemer. 
+
+SSD: 
+
+Og til slutt: 
+Ytelsen på SSD-oppsettet er også helt i toppklasse, og på høyde med Acer S5 som hittil er den raskeste vi har testet. 
+Det er rett og slett svært få bremseklosser på denne PC-en! 
+
+Batteri: 
+Hva så med batteritiden? 
+Tatt i betraktning at dette faktisk er en høyytelses-PC, synes vi at 6 timer med liten belastning og inntil 4 timer med kontinuerlig videoavspilling absolutt er godkjent. 
+Forvent i overkant av 5 timer dersom du arbeider med varierte oppgaver. 
+
+Det finnes mange PC-er med bedre batteritid, men de er ikke i nærheten av denne på de øvrige ytelsene. 
+
+Konklusjon 
+
+Denne maskinen parkerer absolutt alt vi har testet av ultraportabelt tidligere. 
+Ytelsen er faktisk på høyde med mange av de dedikerte spill-maskinene som ofte veier dobbelt så mye og har et temmelig brutalt designuttrykk. 
+SSD-er i RAID er også uvanlig for klassen, og gir deg mulighet til få både god kapasitet og høy ytelse. 
+
+Til tross for noe viftestøy - OG at Windows 8 fungerer bedre med berøringsskjermer, kommer vi ikke unna terningkast 6 og et åpenbart Anbefalt-stempel. 
+Men den passer ikke alle, derfor bør du alltid lese plussene og minusene i oppsummeringsboksen før du bestemmer deg. 
+Og prisen kan i tillegg være et ankepunkt for mange. 
+
+OG: 
+Allerede i neste uke er vi klare med test av Samsungs 9-serie i 15,6-tommer utgave. 
+Denne har vi også meget høye forventninger til. 
+Det samme gjelder Apples MacBook Pro Retina. 
+Følg med! 
+
+Asus ZenBook U500VZ-CN046H 

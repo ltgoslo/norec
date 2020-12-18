@@ -1,0 +1,75 @@
+Vi tester Intels egen cacheløsning
+Intel Intelligent respons-teknologi – det høres kjedelig ut, men gir deg dobbelt så rask PC 
+
+Intel har mange løsninger som de fleste av oss verken har hørt om eller har behov for. 
+De hører derimot hjemme i driftsmiljøer og andre steder hvor det er mange og store maskiner som håndterer mye data. 
+
+Men teknologien bak slike løsninger kan også brukes i mer folkelige PC-er. 
+En slik løsning er Intel Rapid Storage, som håndterer grupper av harddisker i RAID. 
+Har du en ny stasjonær PC med det nyeste brikkesettet Z68 og en Core i5 eller i7 prosessor kan du utnytte denne teknologien på en spesiell måte. 
+Den krever også en SSD. 
+
+Intelligent respons-teknologi 
+
+Smart Response Technology – på norsk har den blitt døpt "Intelligent respons-teknologi" – er en programvare som oppretter en cache-løsning (rask mellomlagring) som Intel introduserte med brikkesettet for de nye Core i3/5/7-prosessorene som kom i 2011. 
+
+Du kobler både harddisken med operativsystemet og SSD-en til SATA 6 GByte-portene på hovedkortet. 
+Disse kontrolleres av programvaren fra Intel og du får både SSD-ens raske respons og harddiskens kapasitet. 
+
+Dette gjøres ved at hyppig brukte datablokker på lagringsmediene blir skrevet til og lest fra SSD-en, mens harddisken jobber i bakgrunnen. 
+
+Men det er ett viktig grep som må gjøres aller først. 
+
+Før installasjonen 
+
+Hvis du har kjøpt deg et nytt hovedkort og skal oppgradere PC-en eller bygge en ny, med ny installasjon av operativsystem, programmer og data, da ligger du godt an i utgangspunktet. 
+
+Har du allerede en kjørende PC hvor alt er installert på harddisken eller SSD blir det en langt mer omfattende oppgave. 
+
+For at Intel Rapid Storage og Intelligent respons-teknologi skal fungere må SATA-innstillingen på hovedkortet settes til RAID Mode. 
+Hvis PC-en allerede er satt opp er SATA normalt satt i AHCI Mode. 
+
+Men det er ikke bare å endre denne innstillingen, Intel anbefaler at du må installere alt på nytt. 
+
+(Intel har faktisk instruert PC-produsentene til å konfigurere maskinene i RAID-modus og ikke i AHCI, slik at brukerne enkelt kan ta i bruk Intel Rapid Storage, men det er ikke alltid fulgt opp). 
+
+I manualen til vårt P8 Z68-V hovedkort fra Asus kommer ikke dette fram spesielt tydelig, og AHCI blir automatisk valgt (default) i SATA-oppsettet. 
+
+Det er likevel mulig å endre innstillinger i Windows' Registry slik at du slipper å reinstallere, det finnes en artikkel her som beskriver hvordan dette gjøres. 
+
+Vi har ikke testet dette, og kan derfor verken anbefale eller fraråde metoden. 
+
+Installasjon 
+
+Hvis du ikke har anskaffet eller installert SSD kommer du ikke videre, naturlig nok. 
+Du kan fritt velge hva slags SSD du vil bruke, men denne løsningen støtter ikke mer enn 64 GB. 
+Har du en større SSD kan du sette av resten av kapasiteten til annet bruk. 
+
+TRIM er heller ikke støttet, så opprydding i flashminnet overlates til SSD-ens egen firmware. 
+
+Når harddisk er koblet til, SATA er i RAID modus og operativsystemet er installert og oppe og kjører er installasjonen av Intels programvare ren plankekjøring. 
+
+Når du så kjører Intelligent respons-teknologi får du opp dette skjermbildet: 
+
+Det neste du gjør er å klikke på knappen "Akselerer" 
+
+Da får du opp disse valgmulighetene: 
+
+Etter at du har trykket OK får du ny status: 
+
+Da er systemet klart til bruk! 
+
+Vi måler ytelsen 
+
+Vi har målt ytelsen og sammenlignet med de to andre cache-løsningene vi har testet tidligere, Synapse fra OCZ og HighPoint Rocket Hybrid. 
+
+Vi brukte samme Corsair Force 60 GB SSD som da vi testet Rocket Hybrid 
+
+Konklusjon 
+
+Ytelsen mer Intel sin løsning er altså et hakk raskere enn OCZ Synapse, og et par hakk raskere enn Rocket Hybrid. 
+
+Du får enda ett hakk bedre ytelse på visse bruksområder med SSD som ren systemdisk, men da må du opp i størrelse, til 120/128 GB eller mer. 
+Og det koster ihvertfall noen hundrelapper mer. 
+
+Er du i ferd med å kjøpe eller bygge ny PC, eller oppgradere er det ingen tvil om at dette er den løsningen som gir mest ytelse for pengene. 

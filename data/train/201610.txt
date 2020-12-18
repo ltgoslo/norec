@@ -1,0 +1,45 @@
+TEST:Benq CRW 4816A/P 
+48x brenner 
+
+Stadig flere CD-brennerne kjører på 48x hastighet, denne gangen tester vi om brenneren fra Benq lever opp til spesifikasjonene. 
+
+48x er nå blitt vanlig blant brennerne, noe som ganske enkelt skyldes at komponentene som gjør dette mulig er bredt tilgjengelig som standardkomponenter for industrien. 
+Vi snakker om lasere med høyere ytelse og raskere styringskretser for drevmotor og lasermekanisme. 
+Da er det ikke lenger noe hokus-pokus for kompetente produsenter å lage et "state-of-the-art" produkt. 
+
+LES OGSÅ: 
+
+Benq CRW 4816A/P 
+
+Brenneren vi testet er en "retail" utgave, dvs. med fargerik emballasje, programvare og nødvendig tilbehør til montering og installasjon. 
+
+Brennerprogrammet som følger med er Nero, som også er vårt standardprogram ved testing av CD-brennere. 
+
+Brenneren har 2 MB hurtigbuffer og bruker en teknikk kalt Seamless Link III for å unngå fatale feil hvis det oppstår brudd i datastrømmen under brenning. 
+
+Den er spesifisert til 48x CD-R brenning, 16x CD-RW overskriving og 48x lesing, og aksesstiden er oppgitt til typisk 100 ms. 
+
+Våre målinger 
+
+Lesehastigheten steg jevnt fra rundt 20x i starten til i undekant av 48x helt på slutten, 7 126 KB/sekund eller 47,73x. 
+
+Aksesstiden i gjennomsnitt lå på 87 ms, noe bedre enn oppgitt. 
+
+Ripping av musikkCD raste unna på 2 minutter og 12 sekunder, som er svært bra, bare ett sekund etter testvinneren! 
+
+Brenning av testfilen ble unnagjort på 2 minutter og 37 sekunder, som er nest best i vår test! 
+Det er bedre enn både Plextor og Freecom, bare slått av LaCie på 52x. 
+
+Brenning av CD-RW var derimot mer problematisk. 
+Den registrerte våre Ultra Speed CD-RW plater som max 4x, og våre uspesifiserte som 12x. 
+Det resulterte i en brennetid på 7 minutter og 8 sekunder på "12x" platene. 
+
+CD-RW har ikke slått helt an, det er bare å innse. 
+Det virker som om brukerne foretrekker billige og raske ordinære CD-R, derfor har det alltid vært langt vanskeligere å få tak i CD-RW plater med høy ytelse. 
+
+Konklusjon 
+
+Benq CRW 4816A/P er en meget rask brenner, leser og ripper - helt i toppklasse. 
+Håndteringen av CD-RW er ikke like imponerende, her er det Plextor og Yamaha som leder stort. 
+
+Men bruker du ikke CD-RW er dette absolutt en av de beste brennerne i dag. 

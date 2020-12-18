@@ -1,0 +1,93 @@
+Apple iMac 21,5-tommer (høst 2012)
+Ny generasjon lynrask iMac har vært på testbenken. 
+Der har den overbevist! 
+
+Sammen med lanseringen av iPad mini i høst ble det også lansert tre nye maskiner i Mac-familien. 
+Mac mini kom i oppgradert utgave, 13" Macbook kom i Retina-utgave og iMac-serien ble oppgradert med både ny design og maskinvare. 
+
+Det har tatt lang tid før iMac-modellene kom i volumsalg, og i skrivende stund er det fremdeles noen ukers leveringstid. 
+
+Vi har nå endelig fått testet iMac i 21,5-tommers utgave. 
+
+Maskinen 
+
+Apple har som sedvanlig sørget for en god brukeropplevelse helt fra man begynner å pakke opp maskinen. 
+Emballasjen er lett å håndtere, det er enkelt å få maskinen ut av skumplasten. 
+Når man har fått maskinen på bordet er den lille esken med trådløst tastatur og mus også praktisk og elegant tilrettelagt. 
+
+Til og med den eneste ledningen er i en klasse for seg, Apple sine nettledninger er ikke stive, og de krøller seg heller ikke. 
+
+Designet er nå enda mer elegant, med baksiden avrundet i alle retninger og kanter som bare er noen få millimeter tykke. 
+Det gir inntrykk av at hele skjermen er svært tynn, men på det tykkeste er den faktisk like "tykk" som den forrige modellen. 
+Nå er det heller ingen optisk platestasjon å ta hensyn til. 
+
+Optiske plater på iMac har nå gått samme veien som disketter på den første iMac. 
+De er borte fra hovedstrømmen, men kan skaffes som ekstrautstyr mens man venter på at bruken dør ut. 
+
+Når man slår på maskinen er selve oppsettet helt likefram, med inntasting av brukerkonto og brukernavn, valg av nettverkstilkobling og Apple ID for bruk av Apples tjenester. 
+
+Så er maskinen klar til bruk, med de velkjente iLife-programmene ferdig installert. 
+
+Spesifikasjoner 
+
+Vårt testeksemplar har en Core i7 3770S på 3,1 GHz, 16GB 1600MHz DDR3 minne og nVidia GeForce GT 650M grafikk med 512 MB minne. 
+
+Lagringen tas hånd om av Apples Fusion Drive, som består av en SSD på 128 GB og en harddisk på 1 TB. 
+Dette oppsettet sørger for svært høy lese- og skriveytelse. 
+Mer om det senere i denne testen. 
+
+Skjermen har HD-oppløsning på 1920 x 1080 piksler. 
+Den er blank, men er refleksbehandlet, slik at den ikke er på langt nær så følsom for reflekser fra taklys og annet som andre maskiner. 
+Spesielt berøringsskjermer er ofte plaget av sterkt gjenskinn. 
+
+Alle tilkoblingene er på baksiden, der finner vi vanlig 3,5-millimeters minijack til hodetelefoner, SDXC-kortplass, 4 USB 3.0 kontakter, 2 Thunderbolt-kontakter og en Gigabit Ethernet-kontakt. 
+
+Strømbryteren sitter bak på andre siden. 
+
+Lyden kommer ut av spalter på undersiden. 
+
+Det er ingen stasjon for optiske plater på maskinen, det må kjøpes separat. 
+
+I bruk 
+
+Oppstart gikk på 16,5 sekunder, fra vi trykket strømbryteren til maskinen var operativ. 
+Det er svært raskt! 
+
+Denne maskinen har altså Fusion Drive, som lagrer det du bruker ofte på SSD, mens det du bruker sjelden blir lagret på harddisken. 
+Dette er altså ingen cache-løsning med litt flashminne for å ta toppene underveis i en arbeidsøkt, men en løsning som vurderer hele ditt bruksmønster og styrer lagringsresursene deretter. 
+Dette gjelder både programvare og data, noe som er mulig på grunn av SSD-kapasiteten på relativt romslige 128 GB. 
+
+Det er ingen brukerinnstillinger hvor du kan påvirke grensen for når hva skal lagres hvor. 
+Her må man bare stole på at Apple har valgt en fornuftig fordeling. 
+Mye kan tyde på det. 
+
+Med en Geekbench score på 13 659 mot den forrige iMac-en med Core i3 vi testet på 6010 snakker vi om en dramatisk forskjell. 
+
+Den rå prosessorytelsen er interessant å sammenligne med MacPro-modellen vi testet i 2009. 
+Den leverte 15 363, men var til gjengjeld utstyrt med to av de kraftigste Intel-prosessorene i Xeon-serien den gang. 
+
+Totalt sett er dette imidlertid den raskeste Mac-en vi har prøvd. 
+Den responderer umiddelbart, alt bare sitter i skjermen med det samme. 
+
+Ingen berøring? 
+
+Vi har hatt flere andre alt-i-ett-maskiner til test i det siste, med Windows 8 og berøringsskjerm. 
+Men Apple, som var først ute med et gjennomført operativsystem og brukergrensesnitt for berøring, og dessuten laget malen for alt-i-ett-maskiner, der er det ingen støtte for berøring. 
+
+Kan det være at Apple ikke ser noen fordeler med berøring på stajonære maskiner? 
+At berøring ikke er naturlig når man sitter ved maskinen, men bare når man allerede har maskinen (=skjermen) i hendene? 
+
+Apple uttaler seg konsekvent ikke om produkter som ikke er i salg, så dette blir bare spekulasjoner. 
+Men vår erfaring er at berøringsstyring har få og smale bruksområder på en stasjonær maskin, sammenlignet med langt mer effektiv styring med mus og tastatur når man arbeider vertikalt. 
+
+Og stasjonære maskiner, selv om de er alt-i-ett-maskiner, er jo laget for å kunne jobbes på, da er effektiviteten ganske vesentlig når man skal sitte en stund med for eksempel lange dokumenter, store bildefiler og video. 
+
+Konklusjon 
+
+Den nye iMac i 2013-utgave er en gjennomført elegant maskin, med imponerende ytelse når man velger en topp spesifisert utgave. 
+
+Vårt testeksemplar har i skrivende stund en pris på 17 690 kroner, men du kan også få den med Core i5, 8 GB minne og 1 TB roterende harddisk til 10 690. 
+
+27-tommeren ligger omtrent 4 000 kroner dyrere i alle varianter. 
+
+Oversikten over modeller i markedet kan du finne hos Prisjakt.no. 

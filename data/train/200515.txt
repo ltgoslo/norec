@@ -1,0 +1,54 @@
+Nec ND-3500A
+Nec var tidlig ute med Dual Layer og 16x brenning med modellen ND-3500A, den er også en av de rimeligste. 
+Vi har testet. 
+
+Nec har vært tidlig ute med støtte for flere formater, modellene har hatt høy ytelse om enn ikke helt i topp på alle områder, og de har vært blant de rimeligste. 
+
+LES OGSÅ: 
+
+Den siste modellen har spesifikasjoner i toppklasse, men det er den ikke alene om. 
+I likhet med alle andre brennere er den hemmet av mangelen på plater som faktisk lar seg skrive i de hastighetene som er spesifisert. 
+Derfor er testing av brennere i skrivende stund mer en studie i hvordan de håndterer tilgjengelige plater. 
+
+Installasjon 
+
+Det var ingen problemer med installasjonen, som forventet. 
+Brenneren har vært på markedet en stund, og barnesykdommer bør være et tilbakelagt stadium. 
+
+Vi mottok brenneren i bulk-utgave, dvs. uten programvare. 
+Den leveres også som "full pakke" eller Retail som det heter på nynorsk, da med programpakken Nero 6 som dekker det meste. 
+(Programvare-karakteren er basert på at retailversjonen leveres med Nero). 
+
+ND-3500A leveres dessuten i tre utgaver, med front i den tradisjonelle beige, sort eller sølv. 
+Designmessig er fronten helt nøytral. 
+Det er ikke mulig å se at det er en Nec-brenner før du er 10 cm unna. 
+
+Ytelse 
+
+Det var ikke mulig å lokke høyere ytelse enn 8x på DVD+R plater, selv Verbatim 12x (som i virkeligheten er de samme som 8x) ble ikke anerkjent som kapable til mer enn 8x. 
+
+Derfor ble brennetiden 5:57 på 2 GB og hele 9:16 på 4 GB, noe som er helt på bunn. 
+
+Også DVD+RW var et halvt minutt dårligere enn hos forgjengeren ND-2500, med 7:02 mot 6:32. 
+
+På Verbatim 8x sertifiserte DVD-R var det derimot en helt annen dans. 
+Her utklasset den totalt sett alle andre med klar margin! 
+
+4 GB brant den på 6:24, som er 22 sekunder raskere enn den tidligere vinneren fra TDK. 
+2 GB brant den på 4:09, som er 6 sekunder raskere enn Plextor PX712A. 
+
+Også DualLayer DVD+R på verbatim 2,4x ble brent med 4x, og klokket inn på 26:21. 
+Det er en svært resepktabel tid, TDK klarte den øvelsen usle 3 sekunder raskere. 
+
+Håndtering av CD var grei, men noen toppytelse var det ikke snakk om. 
+3:05 tok det å brenne våre testfiler, det er 25 sekunder lenger enn vinneren Samsung TS-H552. 
+Rippping av CD kom i mål på 3:18, som er 47 sekunder lenger enn vinneren fra Plextor. 
+
+Konklusjon 
+
+Nec leverer en rimelig og solid brenner, med topp ytelse på DVD-R. 
+DVD+R i alle varianter håndterer den langt tregere, bortsett fra brenning av DualLayer som fungerte helt utmerket. 
+
+CD-håndteringen er kurant. 
+
+Når flere utgaver av 16x plater kommer på markedet i løpet av relativt nær framtid, vil vi kjøre en ny sammenligningstest av alle DVD-brennerne som er spesifisert til 16x. 

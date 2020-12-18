@@ -1,0 +1,60 @@
+Trendnet AC1750 trådløs ruter
+Stadig flere ac-rutere dukker opp, TRENDnet er på banen. 
+
+Som vi har påpekt hver eneste gang vi har testet et produkt for trådløst nett det siste året, er vi fremdeles i startfasen når det gjelder utbredelse av den nye 802.11ac-standarden. 
+
+Det finnes mange ac-rutere i salg, men klientene er det verre med. 
+Fra høsten 2013 vil det sannsynligvis begynne å bli vanlig med ac-støtte også på bærbare, mobiler og nettbrett, samt en og annen stasjonær. 
+Flere hovedkort har støtte for ac med tilkobling for ekstern antenne. 
+
+Så hvis du er på utkikk etter en ny ruter, og samtidig har planer om å anskaffe ny mobil, nettbrett eller bærbar i overskuelig framtid - da er det kanskje like greit å spandere på seg en moderne ruter først som sist? 
+
+Vil du vite mer om 802.11ac kan du lese denne artikkelen, som vi publiserte for drøyt et år siden. 
+
+TRENDnet TEW-812DRU 
+
+Denne ruteren støtter hele 802.11ac-standarden, med tre datastrømmer. 
+Den støtter selvsagt også 802.11n, som er den mest utbredte, både på 2,4 GHz og 5 GHz. 
+Ac-standarden kjører bare på 5 GHz. 
+
+Ruteren fra TRE 
+NDnet er som de fleste andre rutere med interne antenner beregnet på å stå på høykant. 
+Dette gir best sending og mottak av signalene og er gunstigst for varmeutviklingen. 
+
+Sidene er koksgrå med en svært prangende logo, alle kortsidene er grå med frontpanelet av metall. 
+
+På framsiden er det tydelige statuslys for aktivitet, både for trådløst og de andre tilkoblingene. 
+
+På baksiden sitter de tradisjonelle tilkoblingene, med fire gigabit-porter for kablet nettverk og en WAN-port for tilkobling til internett. 
+
+I tillegg er det en USB-port for deling av lagringsenheter på nettverket. 
+Dette er en USB 2.0-port, så det er ikke giret for de store dataoverføringene, eller for å være erstatning for en NAS. 
+
+Oppsett 
+
+Rutere har blitt langt lettere å sette opp de siste årene, de aller fleste er det bare å koble til, så finner de selv ut av hvordan nettforbindelsen skal opprettes. 
+
+Her står også navnet på det trådløse nettet (SSID) og standardpassord på undersiden av ruteren, på selve etiketten med serienummer, godkjennelser osv. 
+
+Du vil sannsynligvis endre både nettverksnavn og passord, og menysystemet er helt greit å finne ut av både for de enkle tingene og de mer avanserte. 
+
+For de som ønsker er det rikelig med muligheter for trafikkjustering, prioritering og filtrering av nettrafikken. 
+
+Trådløs ytelse 
+
+Vi har gjort målingene med klienter med støtte for to datastrømmer. 
+Dette er ikke optimalt, men det er dette som er tilgjengelig på klientsiden i skrivende stund. 
+802.11ac-standarden vil bli støttet med både en, to og tre antenner/strømmer i forskjellig uststyr i tiden framover. 
+Optimal hastighet får man bare med tre antenner. 
+
+Med to antenner og målt to etasjer ned fra ruteren oppnådde vi resultater som kan sammenlignes med 100 Mbit kablet nett. 
+Stabiliteten er også rimelig god, uten for store avvik i datastrømmen. 
+
+Konklusjon 
+
+TRENDnet TEW-812DRU er en utmerket ruter som har alle de viktige funksjonene på plass. 
+Ytelsen er god, og det er mer å hente med mer potente klienter når de dukker opp etter hvert. 
+
+Bare en USB 2.0 port er beskjedent når det gjelder ekstra egenskaper. 
+
+TRENDnet TEW-812DRU 

@@ -1,0 +1,148 @@
+Asus Zenbook UX31
+Den vekket umiddelbart "skal ha"-følelsen hos undertegnede. 
+Men hva sier vi etter å ha testet den første ultrabooken? 
+
+PC-salget har stagnert. 
+Stadig flere av oss foretrekker å bruke nettbrett og mobiltelefonen til oppgaver vi tidligere brukte PC-en til, og en samlet PC-bransje - med Intel i spissen - har innsett at innovasjonstakten må økes betraktelig, for å unngå at PC-en ender sine dager som museumsgjenstand før dette tiåret er omme. 
+
+Det foreløpige resultatet ser du her: Ultrabook. 
+Intel har klokkertro på at den vil føre til at salget av bærbare datamaskiner igjen vil skyte fart. 
+Innen utgangen av 2012 forventer Intel at nesten halvparten av de solgte datamaskinene vil være av denne typen. 
+
+Men hva er det som skiller ultrabooken fra vanlige PC-er? 
+En god del. 
+For det første er de syltynne, maks 2 cm på det tykkeste. 
+For det andre har de verken harddisk eller optisk drev. 
+Og veier de mer enn 1,4 kg, så er det slett ikke noen ultrabook. 
+Dette er bare noen av kravene, du kan lese mer om de andre her. 
+
+Asus er i disse dager klare med sine to første ultrabooks, Zenbook UX21 og Zenbook UX31. 
+DinSide har vært så heldige å være blant de aller første som har fått Zenbook til test. 
+
+Stor interesse 
+
+Da vi pakket den ut stimlet fotografer og journalister fra Digi, DinSide og ITavisen til for å betrakte fenomenet som mange spår skal bli PC-bransjens frelser. 
+Større nysgjerrighet har vi ikke sett siden utpakningen av Macbook Air i januar 2008, og opplevelsen ble på mange måter et slags deja vu. 
+Hvis du lurer på hva vi mener, bør du kikke på bildekarusellen under: 
+
+Joda, likhetene med Macbook Pro er mange, og i tabellen under har vi sammenlignet noen av de viktigste spesifikasjonene: 
+
+Som du ser er Asus noe bedre spesifisert, og UX31 har dessuten en god del lavere pris. 
+
+Byggekvaliteten er imidlertid svært lik. 
+Her er benyttet aluminium rund baut, og et sirkelformet mønster i lokket skal symbolisere "de uendelige mulighetene som ligger i denne maskinen", som Asus selv formulerer det. 
+Vi er mest opptatt av at fingeravtrykk nesten ikke vises, verken på utsiden, innsiden og under. 
+
+Vi liker også at klistremerkene er nesten fraværende. 
+Designen er stilren og virker meget godt gjennomtenkt. 
+
+Skjermen måler 13,3 tommer, den er blank, og har en oppløsning på 1600 x 900 piksler. 
+Det er langt mer enn de vanlige 1366 x 768, og det merkes. 
+Du får plass til mer på skjermen, teksten blir riktig nok litt mindre, men takket være meget god lysstyrke og kontrast oppleves det bare som en fordel. 
+
+Over tastaturet sitter et par skjulte høyttalere, merket Bang & Olufsen ICEpower. 
+Men har du forventninger om at det betyr superlyd, blir du skuffet. 
+Den er riktig nok litt fyldigere enn mange andre bærbare vi har testet, men spesielt høyre høyttaler på vårt testeksemplar får en metallisk skurring når lyden skrus opp litt. 
+Det kan virke som at det skyldes små vibrasjoner - og det kan naturligvis være knyttet til at dette er et tidlig produksjonseksemplar. 
+
+Selve tastaturet er eksemplarisk utformet, etter vår oppfatning. 
+Tastene er faste og gode, støynivået er minimalt. 
+Det eneste vi savner er baklyset fra Macbook Air og Samsung 7 series, og så synes vi kanskje at en maskin til 9000 kroner burde hatt et helnorsk tastatur, og ikke et fellesnordisk som her. 
+
+Pekeplaten under tastaturet er trykk- og multiberøringsfølsom, med to integrerte felt for venstre- og høyreklikking. 
+Den fungerer etter vår mening bedre enn den tilsvarende store i Samsung 700Z. 
+Ingen store innvendinger, med andre ord. 
+
+Alle tilkoblingene sitter på siden, her finner du en USB 3.0- og en USB 2.0-port, SD-minnekortleser og en kombinert lyd-utgang og mik-inngang. 
+For øvrig finner du en mini-VGA og micro-HDMI-utgang. 
+
+Det følger med adapter fra mini-VGA til VGA, slik at du kan koble maskinen til for eksempel en projektor. 
+Det følger også med en overgang fra USB til kablet nettverk (Ethernet), hvis du skulle få behov for det. 
+Støtte for trådløst nett er naturligvis på plass (Atheros-kort B/G/N), samt Bluetooth 4.0. 
+
+Mer er det altså ikke. 
+Er du ute etter flest mulig tilkoblingsmuligheter, er dette med andre ord ikke maskinen for deg. 
+
+Slik er den i bruk 
+
+Det tok 18 sekunder fra vi skrudde på maskinen til Windows var ferdig lastet og vi kunne begynne å bruke den. 
+Det er nøyaktig like kjapt som Samsung Z700, som var utstyrt med en hybrid SSD/harddisk-løsning, mens her er det SSD for alle penga. 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra Trend Micro (prøveversjon). 
+Denne påvirker ikke bruksopplevelsen i særlig grad, PC-en responderer kjapt i nær sagt alle situasjoner. 
+
+Windows egen opplevelsesindeks sier følgende om ytelsen, og her går skalaen fra 1.0 (svakest) til 7.9 (best): 
+
+Prosessor: 6.9 Minne (RAM): 
+5.9 Grafikk: 
+5.5 Spillgrafikk: 
+6.0 Primær harddisk: 
+7.9 
+
+SSD-en får altså full pott, og dette er en vesentlig grunn til at maskinen oppleves som meget rask. 
+Ifølge Passmarks ytelsesmålinger er lese- og skrivehastigheten meget høy, i diagrammet under har vi sammenlignet med typiske tall for harddisker med 7200 rpm og en 5400 rpm som sitter i PC-er vi nylig har testet: 
+
+Core i7-prosessoren i Zenbook UX31 er en såkalt ULV-variant, altså en svært strømsparende modell. 
+Likevel får den 6.9 i Windows egen rangering, som i praksis betyr at den bør holde i bøtter og spann for de aller fleste oppgaver i 2011. 
+
+I tabellen under har vi sammenlignet ytelsen med noen av de vanligste 2-kjerneprosessorene i andre bærbare PC-er, samt i5-prosessoren som sitter i basisutgaven av MacBook Air. 
+Alle tall er hentet fra Passmark Performance Test 7.0: 
+
+Morsomt å se at ytelsen er så å si identisk med prosessoren som sitter i MacBook Air, men altså noe under ytelsen som sitter i mange PC-er til halve prisen. 
+Men takket være SSD-en vil Zenbook UX31 oppleves som langt raskere likevel. 
+Man kan godt si at det er totalen som betyr noe her. 
+
+Ikke noe for gamere 
+
+Grafikkytelsen er derimot veldig ordinær. 
+Intel HD Graphics 3000 fungere utmerket til 2D-opptegning, og PC-en hadde overhodet ingen problemer med å spille av absolutt alt av vårt videomateriale - og med nok futt til å gjøre andre oppgaver i bakgrunnen. 
+Det er lett å la seg imponere av slikt, med tanke på hvor tynn og lett denne maskinen er. 
+
+Noen spillmaskin er dette (naturlig nok) ikke. 
+Til det er 3D-ytelsen litt for svak. 
+
+Litt rusk? 
+
+Men helt stille er maskinen dessverre ikke. 
+Selv om viften ikke akkurat kan betegnes som plagsom, setter vi et lite spørsmålstegn ved den likevel. 
+Vi synes den spinner opp litt for ofte (og uten grunn). 
+Dessuten er det også her tilløp til små vibrasjoner i kabinettet, noe vi opplevde blant annet med PC-en på fanget. 
+Dermed blir viften mer hørbar enn nødvendig. 
+
+Det er imidlertid mulig å gjøre noe med viftehyppigheten, noe du kan lese mer om i denne artikkelen. 
+
+Vi opplevde også at det trådløse nettverkskortet hadde noen stabilitetsproblemer med et par av nettverkene vi koblet PC-en til. 
+Det er ikke dermed sagt at du også vil oppleve dette, men det er uansett greit å gjøre oppmerksom på det - siden det er svært sjelden vi opplever slike problemer med test-PCer med de to trådløse ruterne fra Cisco og Netgear. 
+Det har imidlertid skjedd, og da også med Atheros-kort. 
+Hvordan vi har løst det kan du lese mer om her. 
+
+Hele arbeidsdagen 
+
+Når det gjelder batterilevetiden, er det meste derimot bare fryd og gammen. 
+Asus antyder rundt 7 timer med variert bruk. 
+Våre målinger tyder på at dette stemmer meget bra. 
+Hele 8 timer og 40 minutter klarte vi å tyne batteriet, med minimal belastning. 
+
+Det som imponerte oss minst like mye, er at vi kunne spille HD-video gjennom Windows Media Player i hele 5 timer før batteriet gikk tomt. 
+Det er imponerende, tatt i betraktning at dette flatbrødet av en PC både er relativt kraftig, og bare veier 1,3 kg. 
+
+Vi må også legge til at maskinen har hele 14 dager standby-tid. 
+Bare knepp igjen lokket; den klar til bruk på sekunder etter at det er åpnet igjen. 
+
+Konklusjon 
+
+Asus Zenbook UX31 er, hvis vi ser bort fra MacBook Air, den første ultrabooken vi har til test. 
+Den innfrir langt på vei forventningene våre, og vi gleder oss stort til fortsettelsen. 
+
+Vi setter kun et par spørsmålstegn: 
+Det første er til vibrasjonene i kabinettet og tilhørende skurrelyder, som vi tidvis opplevde. 
+De har sitt utspring i høyttalerne og vifta, og kan naturligvis være knyttet til at vi fikk et tidlig produksjonseksemplar til test. 
+Det andre er trådløs-kortet fra Atheros, som stadig mistet kontakten med våre Cisco- og Netgear-aksesspunkter. 
+Også her er det håp om at problemet er forbigående, og mulig å få bukt med gjennom fremtidige driveroppdateringer. 
+
+Vi lander til slutt på en femmer på terningen, men plussene og minusene under bør leses av deg som vurderer en slik maskin. 
+Merk også at det kommer flere ultrabooks til testbenken de neste ukene. 
+
+MacBook Air 13,3" fikk forresten terningkast 6 i vår test. 
+
+Asus ZenBook UX31E-RY012V 

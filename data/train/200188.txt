@@ -1,0 +1,175 @@
+Samsung Galaxy Tab S
+Slankt, elegant og med en svært god skjerm, men det er det indre som teller. 
+
+En skal holde tunga rett i munnen for å skille mellom Samsungs nettbrettprodukter. 
+
+For det første finne det fire «familier» av nettbrettene: 
+
+* Galaxy Tab * Galaxy Tab Pro * Galaxy Note 
+* Galaxy Tab S 
+
+I tillegg har noen av seriene et etterfølgende nummer, som sier noe om hvilken generasjon det er, og til slutt et tall som indikerer størrelsen. 
+Eksempelvis er da Galaxy Tab 4 10.1 10.1-tommers utgaven av den fjerde utgaven av Galaxy Tab. 
+
+For å gjøre forvirrelsen komplett, finnes det både nettbrett og mobiltelefoner som heter Galaxy Note. 
+Og mobiltelefoner som heter Galaxy S/S2/S3/S4/S5, som da ikke må forveksles med Galaxy Tab S; dagens testprodukt. 
+
+Seriøst, Samsung – dette greiene må dere rydde opp i. 
+
+Flaggskipet 
+
+Samsung betegner Galaxy Tab S som selskapets nye flaggskip, til tross for at Pro-modellen har mer internminne, større skjerm og større batteri. 
+
+Skjønt; Galaxy Tab S er vesentlig tynnere og lettere og går ganske direkte i strupen på iPad Air, med større skjerm og høyere oppløsning, og det til tross for at nettbrettet er en millimeter slankere og fire gram lettere enn Apples variant. 
+
+Vi har fått bronseutgaven til test, og nettbrettet fra Samsung er lekkert å se på. 
+Bronsekanten rundt gir et ekslusivt inntrykk, feltene utenfor skjermen er ganske smale og det finnes høyttalere på begge sider av enheten når du holder den i landskapsmodus. 
+
+Også hjemknappen er plassert på den ene langsiden, så her forventer Samsung at liggende modus er det mest vanlige, slik man holder den når man ser på film. 
+
+Fabelaktig skjerm 
+
+For det er skjermen som er den store overskriften her. 
+Med en oppløsning på 2560x1600 er den skarp som bare det, og den er også av Super AMOLED-typen som gir særdeles god fargemetning og dypt, dypt sortnivå. 
+
+Eksempelbildene og -videoen som følger med nettbrettet ser helt ekstremt bra ut, og det gjør også alt annet på denne skjermen, som for øvrig ansees som den beste skjermen på markedet i følge lab-tester fra Displaymate (med Surface 3 hakk i hæl). 
+
+Tar vi turen rundt kanten av nettbrettet, finner vi som nevnt en høyttaler på hver side (lyden fra Tab S er faktisk ganske god til nettbrett å være), inngang til hodetelefoner, volumknapper, av/på-bryter, IR-sender (nettbrettet kan altså brukes som fjernkontroll), micro SD-port og micro USB-ladeinngang. 
+Nettbrettet kommer også i 4G-utgave med støtte for SIM-kort, men vi har fått WiFi-utgaven til test. 
+
+Dessuten finnes nettbrettet i både 10.5 og 8.4-tommers utgaver. 
+Vi har testet størstemann. 
+
+Fingeravtrykk 
+
+I likhet med Galaxy S5 har også Tab S fingeravtrykkleser, som kan brukes for å identifsere brukerne. 
+Siden versjon 4.2 har Android-nettbrett hatt muligheten for flere brukere der hver bruker har sin egen Google-konto og sine egne apper, helt uavhengig av hverandre. 
+
+På Galaxy Tab S får man i tillegg muligheten til å opprette begrensede konti der brukeren da ikke trenger egen Google-konto, men kan bruke appene man som administrator definerer. 
+I praksis betyr det da at du kan opprette en konto til barna og velge hvilke apper de skal få lov til å bruke. 
+
+Fingeravtrykkleseren støtter inntil åtte ulike personer, som da logger på ved å dra sin finger over hjemknappen. 
+
+Rikt på funksjoner, men … 
+
+Som vanlig fra Samsung blir man introdusert for noen nye funksjoner i ny og ne med en liten hjelpetekst. 
+Eksempelvis får man tidlig beskjed om at man kjøre to apper ved siden av hverandre ved å dra et panel inn fra høyre side av skjermen. 
+
+Her finnes appene som kan kjøre i delt skjerm-modus, der du bare drar og slipper en app over en av halvdelene for å kjøre den side om side med den som er der fra før. 
+
+Det er også mulig å dra og slippe innhold fra én app til en annen, for eksempel et bilde fra galleriet til et dokument du skriver på. 
+
+Nettbrettet har også innebygd brukermanual som forklarer deg hvordan ting fungerer, i form av en kjekk hjelp-app. 
+
+Dog er det ikke alle slike fiffigheter som fungerer som de burde. 
+SideSync er en app du kan laste ned både på Samsung-telefonen (om du har en) og nettbrettet, og som gjør at innholdet på telefonen vises i et vindu på skjermen slik at du kan styre telefonen selv om den ligger i lomma. 
+
+Morsom idé, hadde det bare funket. 
+Når man skal starte det første gang, hopper veiledningen mellom skjermbildene annethvert sekund, slik at du ikke rekker å lese teksten før bildet byttes. 
+Men vi fikk det nå opp til slutt (etter et par mislykkede forsøk der vi startet appen på nytt på begge enheter), og bildet av mobilskjermen ble vist på nettbrettet. 
+
+Jeg får riktignok trykket på hjem- og programbytteknappen, men uansett hvor jeg trykker på «mobilskjermen» skjer det ingenting. 
+Det kan være relatert til at jeg bruker Nova Launcher og ikke Samsungs variant, men da burde jeg ha fått en feilmelding. 
+
+Likeledes kan nettbrettet automatisk pause og starte video når du ser henholdsvis bort fra og på skjermen. 
+Det funker stort sett greit, men ikke så godt i motlys. 
+Funksjonen er også i overkant sensitiv og vi opplevde flere ganger at filmen ble pauset uten at vi hadde snudd hodet vekk. 
+
+Mye mas fra Samsung Apps 
+
+For å få mest ut av nettbrettet, må man også lage en egen Samsung-konto. 
+Selskapet har en egen app-butikk der det støtt og stadig kommer mas om oppgraderinger, pålogginger og annet. 
+Da jeg skulle testet Remote PC-appen (som lar deg styre en PC fra nettbrettet) logget jeg på med Samsung-kontoen min, måtte oppdatere den med noen flere detaljer, godtok brukervilkår og var klar til dyst, for så å få beskjed om at jeg måtte oppgradere. 
+Igjen. 
+
+(Med en litt ustabil nettforbindelse fikk jeg heller ikke se brukervilkårene – har jeg da egentlig godtatt dem?) 
+
+Remote PC-appen krever også at du laster ned et program til datamaskinen (fungerer også for Mac), og også her hadde vi litt starttrøbbel der vi måtte prøve et par ganger før det satt. 
+
+Det følger også med flere apper, hvor ikke alle er like lett å bli klok på før man tar dem i bruk. 
+Ett eksempel er WebEx, som etter å ha startet opp presenterer deg med et skjermbilde med tre knapper: 
+«Sign in», «Join Now» og «Create an account». 
+
+Hva den er til kan man selvsagt google seg frem til, men det skulle være unødvendig. 
+
+Heldigvis finnes det også noen godbiter her. 
+
+God epost og kalender 
+
+Kalenderappen S Planner har lenge vært blant de bedre på markedet, og også epostleseren er oversiktlig og fin i bruk. 
+
+Om du vil kan du laste ned promoterte apper fra Samsung, der noen gir deg tidsbegrensede premiumpakker. 
+For eksempel får du med tre måneders gratis Marvel Unlimited (tegneserier) og 50GB Dropbox-lagring i to år. 
+
+På hjemskjermen finnes dessuten en egen Flipboard-drevet visning av nyheter i ulike kategorier og hva som går på TV (fungerer fint her i Norge også, og som nevnt kan nettbrettet også brukes som fjernkontroll). 
+
+Tilbehør 
+
+I testperioden har vi også fått låne et par ekstra tilbehør fra Samsung. 
+Det første er et konvolutt-deksel (Tab S book cover) som sitter særdeles godt festet til nettbrettet, takket være to låsemekanismer på baksiden av nettbrettet som du trykker to tilsvarende plugger inn i. 
+Det kan brettes rundt nettbrettet for å beskytte det helt, og er også magnetisk slik at det kan slukke skjermen eller settes opp på flere ulike måter avhengig av hvilken vinkel du vil se skjermen fra. 
+
+I tillegg finnes et offisielt tastatur som kommuniserer med brettet via Bluetooth. 
+Det er ingen docking som gjør at det sitter fast når du bruker det, men nettbrettet står allikevel godt og støtt i sporet. 
+Tastaturet har imidlertid ikke æøå-knapper, men kan allikevel skrive dem om du velger norsk som språk. 
+Da blir imidlertid merkingen feil på mange andre knapper også – eksempelvis befinner krøllalfaen seg under alt gr+2 og ikke på den angitte knappen. 
+Er du vant med Windows, finner du den sikkert, men … 
+
+Ytelse 
+
+Galaxy Tab S har en åttekjernet Samsung-prosessor der fire av kjernene opererer på 1,9GHz og fire på 1,3GHz. 
+Vi lar oss likevel ikke blåse av banen av ytelsen. 
+
+Navigering på hjemskjermen går stort sett greit, med litt hakking om man laster ned apper i bakgrunnen – det samme gjelder når man blar i bildegalleriet eller skroller nettsider. 
+Spill flyter imidlertid stort sett greit, og en tur med alltid lekre Smash 
+Hit går fint og flytende uten problemer. 
+
+Når vi kjører syntetiske ytelsestester ser vi også at Samsung-nettbrettet ikke gjør det like godt som de beste. 
+
+Spesielt yter det dårlig på Epic Citadel-testen, der det bare klarer 47 bilder i sekundet med redusert oppløsning (1280x800). 
+Vi vet ikke hva det skyldes at dette nettbrettet kjører med redusert oppløsning i denne testen, men eksempelvis fikk Xperia Z2 Tablet 56,3 bilder i sekundet på denne testen, og da med full HD-oppløsning. 
+På 3DMark får vi bare 13309 på Samsung-nettbrettet, mens nettbrettet fra Sony scoret 18751. 
+
+Hva så med batteriet? 
+Etter å ha brukt nettbrettet jevnt og trutt en arbeidsdag, har skjermen stort sett vært tent hele tiden, der vi har brukt det litt til og fra – surfet litt, tittet litt på Netflix, lastet ned noen apper, kjørt et par ytelsestester, tittet på bilder, Facebook og så videre. 
+Innendørs, og med lysstyrken på auto – ganske normal nettbrettbruk, vil vi anta. 
+
+Med denne bruken landet vi på rett under sju timer; to timer mindre enn de ni Samsung oppgir, som ikke er alt for imponerende. 
+
+Kamera 
+
+Når det gjelder kamera på nettbrett, må jeg innrømme at jeg personlig ser på dette som en liten bonusfunksjon, siden jeg synes det blir litt corny å ta bilde med en enhet på størrelse med et A4-ark. 
+
+Men utendørsbildene fra Tab S blir faktisk ganske gode (og ser svært bra ut på nettbrett-skjermen). 
+Innendørsbildene er derimot ikke så mye å skryte av der de ofte blir uskarpe og svakt eksponert. 
+
+Under får du to bilder; ett utendørs og ett innendørs: 
+
+Fortsatt mange apper som ikke er tilpasset 
+
+Mens iPad har titusenvis en halv million apper som er tilpasset nettbrettformatet, kan vi ikke si det samme om Android-nettbrett. 
+Det går stort sett fint på de minste nettbrett-skjermene, som ikke er veldig mye større enn de største telefonene, men på et nettbrett på over ti tommer er det fortsatt mange apper som ser litt rare ut. 
+
+Facebook-appen er for eksempel ikke tilpasset i det hele tatt (ei heller Messenger), der hele bredden vies til innholdet slik at det blir veldig mye tekst på hver linje. 
+Også mange andre apper ser ganske spartanske ut, inkludert Zite, Instagram med flere. 
+Det gjør at Android-nettbrett på mange måter fortsatt ser litt amatørmessige ut i 2014. 
+
+I tillegg er det mange apper som i utgangspunktet er designet for mobil som kun fungerer i portrettmodus. 
+Da føles volumknappene litt bakvendte, siden den nederste av dem øker lydstyrken (mer logisk når man holder brettet i landskapsmodus). 
+
+Konklusjon 
+
+Samsung Galaxy Tab S 10.5 har et delikat ytre, god lyd og en fantastisk skjerm. 
+I tillegg har den fingeravtrykksensor som gir flere brukere en enkel mulighet til å identifisere seg og logge på hver sin konto. 
+
+Vi savner imidlertid litt på ytelsen – den åttekjernede prosessoren fra Samsung yter ikke like godt som den «vanlige» Snapdragon-prosessoren som de fleste andre Android-nettbrett bruker. 
+Vi synes heller ikke Tab S holder hva den lover med tanke på batteritid, der vi kun klarte å få i underkant av sju timer av en ladning mot de ni som er oppgitt fra Samsung. 
+
+Selv om Tab S er rik på funksjoner, er det også mye som ikke fungerer godt nok. 
+På flere av de medfølgende appene måtte vi prøve flere ganger for å få det til å virke, og noen virket heller ikke slik de burde. 
+Vi tror også det kan være forvirrende for brukere at man både må ha Samsung- og Google-konti, med en ekstra «app-butikk» og en del mas fra Samsung-programvaren. 
+
+Dessuten har Android fortsatt en vei å gå for å bli en fryd å bruke på nettbrett. 
+Alt for mange essensielle apper er ikke tilpasset en så stor skjerm som på Tab S. 
+
+Samsung Galaxy Tab S 10.5 SM-T800 16GB 

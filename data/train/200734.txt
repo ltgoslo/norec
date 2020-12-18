@@ -1,0 +1,96 @@
+Toshiba Satellite Pro U200
+Med denne bærbare er Toshiba frampå med en PC der funksjonalitet, kvalitet og mobilitet er satt foran de fleste andre krav. 
+Og de gjør det ganske så bra. 
+
+Toshiba har ikke akkurat vært pågående på markedet her på berget de siste årene, men det har de tydeligvis tenkt å rette på nå. 
+Satellite Pro U200 har en vekt på 1,9 kilo, og diskusjonen om hvor vekt- og størrelsesgrensen for en ultraprotabel går skal vi ikke ta her. 
+Men Toshiba selv mener at dette er en "ultraportabel for alle". 
+
+LES OGSÅ: 
+
+Sammenlignet med en del av de PCene vi nylig har testet, virker kanskje ikke Toshibaen så veldig fristende. 
+Den er ikke av de mest slanke og elegante, den koster en del mer og 3D-ytelsen er heller ikke all verden. 
+For virkelig å forstå denne maskinen må vi glemme mest ytelse for pengene, og tenke kvalitet i stedet. 
+
+Ingen sensasjon i design eller fargevalg, og faktisk virker den litt lubben. 
+Her er det funksjonalitet og kvalitet som står i fokus. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2400 @ 1,83 GHz 12,1" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (2 x 512 MB) 80 GB harddisk (5400 rpm) 8x DVD dual-layer DVD-RAM/CD/DVD-brenner Intel GMA 950 (opp til 128 MB delt minne) 54 Mbps WLAN (a/b/g) 10/100 LAN + modem 3x USB, 1x FireWire (4-pin), blåtann, lyd inn/ut 1 CardBus kortplass 6-i-1 kortleser: SD/IU, MMS, MS/PRO, xD VGA ut Fingeravtrykkleser Sensor for rystelser (harddiskbeskyttelse) Windows XP Professional Dimensjoner (B/D/H): 30,0 x 22,5 x 3,8 cm Vekt 1,9 kilo Pris: ca. 15.000 inkl. mva. 
+
+"TruBrite" er forøvrig Toshibas varemerke, mens andre produsenter har sine egne navn for sine fine og blanke skjermer. 
+For eksempel har Dell "TrueLife", HP "BrightView", Acer "CrystalBrite" og så videre... navnet har uansett ikke noe å si, vi er opptatt av den faktiske kvaliteten. 
+Og selv om vi var fornøyde med kontrasten og fargene var gode var ikke innsynsvinkelen noe å juble over. 
+Faktisk, mot sort bakgrunn gråner den nederste delen av skjermen når du ser rett på den. 
+Det er altså ikke baklyslekkasje, men innsynsvinkelen som er problemet. 
+Likevel, til vanlig bruk oppfattet vi ikke dette som noe stort problem. 
+
+Lokket er forøvrig solid konstruert og hengslet slik at den fint lar seg åpne med en hånd. 
+
+Konstruksjon 
+
+Det er på dette punktet Toshibaen scorer meget bra. 
+Den har et normalt utseende, men det den mangler i synlig design tar den igjen i byggekvalitet. 
+Tastaturet, som har ok layout til å være såpass lite, er designet for å tåle moderate uhell av flytende karakter. 
+Kort sagt: søl av mindre kvanta (en desiliter eller så) væske på tastaturet skal gi deg tid til å avslutte arbeidet, stenge av PCen og komme i gang med redningsarbeidet før den kortslutter. 
+
+Maskinens rammeverk er av lett magnesium, så den skal tåle en trøkk og likevel være lett. 
+Men å slippe den i golvet var ikke noe vi akkurat testet. 
+En annen detalj er bevegelsessensorene inni maskinen som registrerer plutselige bevegelser og dunk, og automatisk parkerer lese/skrivehodene på harddisken. 
+Fordelen med dette er at selv om maskinen skulle gå i bakken så vil du øke sannsynligheten for at dataene klarer seg. 
+
+PCen kommer også med fingeravtrykkleser, slik at du kan bruke fingeravtrykket ditt i stedet for å taste inn passord. 
+Dette gjelder ikke bare når du logger på Windows, men også for nettsteder der du normalt sett må skrive inn passord du hele tiden glemmer. 
+
+Touchpaden er ganske liten, men god og følsom med skrollfelt både vertikalt og horisontalt. 
+Over tastaturet har vi foruten av/på-knappen også snarveisknapper for nettleser og mediaspilleren, pluss play/pause, stopp, forrige og neste. 
+Andre snarveier styres som vanlig med Fn-tasten og tastaturet. 
+
+Tilkoblingene på maskinen er plassert foran og på begge sider. 
+Baksiden er ledig ettersom all plassen er tatt av batteriet, og hengslene. 
+Dette gjør også at nederste del av skjermlokket kan vippes "bak" maskinen når det er oppe. 
+
+Foran er finner vi ikke så mye, kun firewire og lyd inn/ut. 
+I tillegg er statuslysene plassert mot venstre. 
+
+På venstre side: strøminntak, LAN, plass for kensington-lås, USB, modem og CardBus-slot. 
+Varmluften kommer også ut på denne siden. 
+
+Høyre side har foruten det optiske drevet manuell styring av lydvolumet, en minnekortleser, WLAN av/på knapp, VGA ut og de to restrerende USB. 
+
+God generell ytelse, men ingen spillmaskin 
+
+Prosessoren, en Core Duo T2400 @ 1,83 GHz, gir som vi også forventet mer enn god nok ytelse for det en slik maskin normalt sett blir brukt til. 
+Det interne grafikkortet vet vi jo godt ikke er noe førstevalg til spill, og det er heller ikke spillere som er den store målgruppen for denne type bærbare. 
+
+Dette er den første ultraportable vi har testet med Core Duo prosessor. 
+I tillegg har våre testprogrammer forandret seg litt siden i fjor, men vi vil likevel sammenligne med LG LW 20, som vi hadde på testbenken sent forrige høst. 
+I tillegg dro vi med Zepto Znote 6214W som vi testet sist. 
+
+Målinger som går på prosessor/minne. 
+Verdien er i sekunder, lavere er bedre. 
+
+Som sagt, det er få målinger vi har fra LGs LW 20, men der vi har det viser det seg jo at forskjellen i ytelse er dramatisk. 
+Toshibaen har også samme prosessor som Znote 6214W, men sistnevnte hadde dårligere konfigurert minne. 
+
+PCMark og 3DMark. 
+Høyere score her vil si bedre maskin. 
+Med sitt interne skjermkort har ikke Toshiben mulighet til å holde følge, men det er altså også det eneste som gjør at den har lavere poengsum enn Zeptoen i PCMark. 
+
+Tre og en halv time i BatteryMark, et bra resultat. 
+
+Som vi håpet er denne bærbare PCen stille og rolig. 
+Når den jobber hardt så spinner naturligvis vifta opp, men ved vanlig bruk som tekstbehandling og nettsurfing er det svært lite å høre fra denne maskinen. 
+Kun en hvisking er det som høres i et stille rom. 
+Den holder seg også forholdsvis kjølig. 
+
+Konklusjon 
+
+Toshiba Satellite Pro U200 er en fin bærbar til sitt bruk, og siden mange andre produsenter kan tilby bærbare med bedre ytelse til lavere pris er det klart at målgruppen her er mennesker som krever kvalitet og mobilitet. 
+Men til sitt bruk er den nesten også uten kompromisser. 
+Du får en liten, ganske lett, solid, velutstyrt og stille bærbar PC med god batterilevetid. 
+Men vi hadde ønsket oss en litt bedre skjerm. 
+En annen ting er jo at den altså koster litt ekstra. 
+
+U200 får en meget sterk firer på terningen, helt på vippen mot en femmer. 

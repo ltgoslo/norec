@@ -1,0 +1,95 @@
+WD MyCloud
+En NAS som fungerer som din egen nettsky - og vel så det. 
+
+Det selges ikke så mange PC-er lenger, og i hvert fall ikke stasjonære. 
+I tillegg overtar SSD mer og mer av markedet for lagring på bærbare og andre kompakte datamaskiner. 
+Og hva blir konsekvensene av denne utviklingen for harddiskprodusentene? 
+
+De selger langt færre harddisker, naturlig nok. 
+
+Men hvordan håndterer folk sine data? 
+
+Western Digital har gjort en undersøkelse som viser at nordmenn lagrer data i et "digitalt kaos". 
+Verstingene har spredt dokumenter, bilder, videoer og annet på opptil 22 steder, kom det fram i undersøkelsen. 
+
+– 
+Vi har oppdaget at nordmenn har videoer, bilder og dokumenter spredt utover en mengde elektroniske enheter i huset. 
+Dette varierer fra blant annet SD-kort til kamera, PC-er, nettbrett og spillkonsoller til digitalkameraer og smarttelefoner. 
+Resultatet er at man mister oversikt over viktige bilder og filer. 
+Når man så ønsker å hente fram og vise for eksempel bildene fra siste dåp i familien så husker man ikke hvor disse ligger, sier Daniel Mauerhofer, PR-sjef i Western Digital. 
+
+Heller ikke sikkerhetskopiering er noe som står øverst på listen over daglige gjøremål hos folk flest. 
+
+6,4 prosent skjønner ikke hvorfor, 19 prosent skjønner ikke hvordan, 13 prosent synes det tar for mye tid og 10 prosent synes det er for mye styr og dropper det. 
+
+Men behovet for lagring er likevel absolutt til stede, og ikke minst for delt lagring og sikkerhetskopier. 
+Derfor ser vi at harddiskprodusentene tilbyr NAS-løsninger for de tusen hjem, som en konkurrent til skytjenester. 
+
+WD MyCloud 
+
+I tråd med funnene om forbrukernes forhold til å lagre data på en trygg måte, så må vi si at WD MyCloud er et lavterskeltilbud. 
+
+Den består av selve MyCloud-enheten med en harddisk på et antall Terabyte, strømforsyning, nettverkskabel og en kort, illustrert brukerveildning. 
+
+Kabinettet er laget for å stå oppreist. 
+Tidligere varianter av denne konstruksjonen ble kalt MyBook, vi testet USB 2.0-utgaven mot FireWire-utgaven i 2007. 
+
+I kabinettet sitter det en disk fra WD Red-serien, som vi har testet tidligere. 
+Denne kommer i 2TB, 3TB eller 4TB kapasitet. 
+
+Har du en ruter og en datamaskin fra før er det bare å koble den til med nettverkskabel, sette strømforsyningen i kontakten og plugge i strømledningen. 
+Det er ingen bryter for å slå den på eller av. 
+Så venter du litt til den har startet opp, det tar ikke lang tid. 
+
+Deretter er den i prinsippet klar til bruk, og dukker opp i oversikten over enheter på nettverket ditt. 
+Dobbeltklikker du på den dukker det opp ferdige mapper hvor data kan lagres ved å dra og slippe. 
+Bare det å lagre eksternt er et stort skritt framover i forhold til å lagre data på den eneste (system)disken i en bærbar, som blir transportert rundt omkring. 
+
+Men MyCloud har mer å by på. 
+Kikker du i brukerveiledningen finner du lenken til den tilhørende nettsiden. 
+Der laster du ned programvare til PC-en som åpner for flere muligheter. 
+
+Når du kjører programvaren kommer du gjennom disse trinnene i installasjonen: 
+
+Da kan du opprette flere brukere som har hver sine områder på MyCloud, og sette opp en epostadresse for tilgang til filene fra internett. 
+
+Installasjonen lager også tre snarveier: 
+
+Den venstre av disse over åpner konfigurasjonsmenyen, du kan se de viktigste skjermbildene her: 
+
+Slik ser skjermbildene ut fra appen for iOS: 
+
+Så hva kan du bruke WD MyCloud til? 
+
+Poenget med en NAS er stor felles lagringsplass og tilgjengelighet. 
+Som kjent er den mest utbredte årsaken til rot at ting ikke har sin egen plass. 
+Dermed er man langt på vei mot en løsning på problemet med data som befinner seg på mange forskjellige steder. 
+
+Men hvordan de forskjellige brukerne kan disiplineres til å lagre data på en NAS krever likevel en pedagogisk framgangsmåte. 
+Noe kan automatiseres, men det krever at noen legger til rette for dette. 
+
+Med styreprogramvaren og apper som kan lastes kan mange av disse utfordringene løses, men det avhenger igjen av den enkelte bruker: 
+At de "riktige" appene på mobile enheter brukes, at bilder fra kameraer lagres til definerte mapper, at skolearbeide og korrespondanse, kvitteringer og tilbud osv. 
+lagres på MyCloud og ikke på interne lagring. 
+
+Mulighetene ligger der, og med litt innsats kan felles lagring og ekstern tilgang legges til rette. 
+
+Ytelse? 
+
+Vi målte ytelsen med våre to standardprogrammer og fikk svært gode resultater: 
+
+Sammenligner vi med den konkurrerende løsningen fra Seagate som vi har testet tidligere, finner vi at ytelsen ligger litt over. 
+
+Sammenligner vi med ZyXels løsning med to disker i RAID ser vi at WD ligger litt under, som man kan forvente. 
+
+Konklusjon 
+
+WD MyCloud er svært enkel å komme i gang med og byr på gode muligheter for å organisere felles lagring, både på lokalnettet hjemme og via mobile enheter via internett. 
+Tilgang er tilsvarende enkel ved hjelp av enkle apper. 
+
+Ytelsen er det heller ikke noe å si på, sammenlignet med andre NAS-enheter i samme prisklasse. 
+Prismessig ligger den også der den skal. 
+
+MyCloud kommer med 2 TB, 3 TB eller 4 TB kapasitet. 
+
+WD My Cloud 2TB 

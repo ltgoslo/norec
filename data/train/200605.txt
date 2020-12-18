@@ -1,0 +1,57 @@
+Sony A1000
+TEST: 
+Med griselekker design og splitter ny programvare lover Sony at MP3-problemer er et tilbakelagt kapittel. 
+Vi har testet splitter nye A1000, og her er vår dom! 
+
+Sony gir ikke opp kampen om MP3-markedet, og relanserer Walkman-navnet gang på gang. 
+Selskapet har heldigvis lagt bak seg perioden da de i det hele tatt ikke støttet MP3-formatet, og slipper nå pene spillere som ikke er fullspekket med funksjoner, men som gjør jobben sin på en tilfredsstillende måte. 
+
+A1000 er for så vidt intet unntak. 
+Den spiller musikk, og det er det. 
+Ingen radio, kalender, opptaksfunksjoner eller bildevisning 
+ men derimot kan alle Sonys spillere skilte med meget bra batterilevetid 
+ og A1000 skal kunne spille musikk i rundt 20 timer mellom hver gang den må lades. 
+Det gjør den når du plugger den i en ledig USB-port på PCen. 
+
+Først og fremst er A1000 overraskende pen. 
+Vi tester 6 GB-utgavet (den noe fysisk større 20 GB-versjonen kommer senere ), og den er både liten og lett, samt interessant utformet. 
+Spilleren har noe avrundede former og en minimalistisk front, med kun tre knapper synlige under skjermen. 
+Den ene av dem er egentlig et hjul som lar deg både bevege deg gjennom menyene og sette på play eller pause. 
+De to andre knappene tar deg tilbake i menyene og åpner en kontekstsensitiv meny. 
+
+På sidene av den lille spilleren er det et par flere knapper som styrer volumet, og åpner en funksjon som linker artister sammen - dersom denne informasjonen ligger i id3-taggen. 
+
+Skjermen er en stilig, OLED-basert løsning, som viser lyseblå bokstaver på en lilla bakgrunn (spilleren fås også i andre farger). 
+Hovedmenyen har en mobiltelefonaktig løsning, der alle funksjonene vises som ikoner i et rutenett. 
+Derfra finner vi raskt frem til avspilling, søkemulighetene, forskjellige shuffle-varianter, innstillinger og mer. 
+
+I og med at spilleren ikke gjør noe annet enn å spille musikk, må den selvfølgelig kompensere med noen spesielle musikkfunksjoner. 
+I dette tilfellet er det shuffle-variantene som er interessante, for eksempel en funksjon som spiller tilfeldige sanger blant de siste 100 låtene du har hørt på i det siste, eller velger musikk fra ett bestemt år. 
+Og den ene dedikerte tasten på utsiden forsøker altså å linke artisten du hører på til lignende musikk du har i biblioteket ditt. 
+
+Alt dette fungerer jo meget bra, det spørs bare om du har så dårlig oversikt over musikksamlingen din at du ikke helt vet hva du vil høre på  dette krever nesten en samling som er betydelig større enn de 6 GB spilleren har av lagringsplass, tror vi. 
+
+Nytt overføringsprogram 
+
+Men hvordan er det så å få musikken over fra datamaskinen til spilleren? 
+Vi legger ikke skjul på at vi aldri har likt overføringsprogramvaren til Sony, kalt SonicStage, spesielt godt. 
+Selskapet har måttet tåle mye kritikk, og derfor lanserte de et helt nytt program sammen med A1000. 
+Det nye programmet har fått navnet Connect (det samme som Sonys musikkbutikk heter, altså), med bibliotekløsning for Atrac3, MP3 og WMA, samt innebygd ripper og handelsløsning (ikke åpnet i Norge ennå). 
+
+Dessverre viste det seg at det nye programmet er tungt å dra i gang, det legger beslag på store deler av ressursene i PCen (over 120 MB av internminnet i vår PC i et jafs), og heller ikke særlig elegant i forhold til Windows Media Player og Apple iTunes, synes vi. 
+MP3-filene krypteres fortsatt, de får etternavn ".oma", Connect-programvaren blir dermed et stort drawback i våre øyne. 
+
+Overføringen av MP3 er imidlertid blitt langt raskere, vi overførte 10 sanger på 30 sekunder, så den biten er bra. 
+
+Lydkvalitet 
+
+Neste steg er selvsagt å sjekke ut selve lydkvaliteten. 
+Du kan velge mellom en del forhåndsinnstilte EQ-varianter, samt justere nivåene selv. 
+Men uansett hvordan vi stilte inn, ble aldri bassnivået tilfredsstillende (med de medfølgende ørepluggene, og også våre egne meget gode Creative-øreplugger). 
+Lyden manglet rett og slett trøkk og imponerte ikke nevneverdig. 
+Videre var selve volumet skuffende lavt, selv på høyeste nivå overdøvet den ikke den bråkete Oslo-trafikken. 
+
+Konklusjon 
+
+Så på den ene siden har vi en utrolig stilig og lett spiller som vil falle i smak blant de motebevisste, på den andre siden skuffende lyd og programvare som ikke er helt på høyden. 
+Det finnes rett og slett bedre spillere å få kjøpt for de 2.200 kronene, som byr på bedre lydkvalitet, flere funksjoner og lettere overføring fra PC. 

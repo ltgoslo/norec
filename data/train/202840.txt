@@ -1,0 +1,116 @@
+HTC Evo 3D
+Mobil nummer to med 3D er her. 
+Har det skjedd noe siden sist? 
+
+Du skal være rimelig fantasiløs hvis du blir overrasket av at også HTC nå har sluppet en 3D-mobil, en sånn fyr som nekter å forholde seg til Star Wars eller Blade Runner fordi "kom igjen, roboter kan ikke snakke med hverandre, og, hallo, de har ihvertfall ikke humor". 
+
+HTC har ikke veldig mye til felles med Nokia, men de har det til felles at de forsøker å dekke nesten hele mobilsegmentet fra budsjettmodeller til ekstremt raske og ganske dyre proffmobiler. 
+
+Med Evo 3D kan den taiwanske mobilkjempen altså også krysse av punktet for "3D", og selv om de er for seint ute til å være først - den æren tilfalt LG forrige måned, vi har testet Optimus 3D her - er det jo ikke noe i veien for å forbedre et konsept hvis alder tilsvarer en nyfødt baby som fortsatt ligger på barsel. 
+
+Stor og tung (tyngst) 
+
+Én av tingene vi klaget over med LGs 3D-mobil var vekta. 
+168 gram er mye når trenden er store, men lette smartmobiler som presser vekta ned på mot 100 gram, men Evo 3D klarer faktisk slå Optimus 3D med to gram. 
+Det gjør den til en av de tyngste smartmobilene som er lansert på lang, lang tid. 
+
+Det er den doble optikken nødvendig for å produsere 3D-bilder og videoopptak som tvinger vekta opp mot 200 gram, og selv om Evo 3D ikke føles like tung som LGs 3D-modell - kanskje er komponentene på innsiden fordelt anderledes? - snakker vi fortsatt om betydelig vekttrening hvis en fireåring skulle finne på å bruke den som manualer. 
+
+Med en skjerm, som riktignok er meget bra, på 4.3 tommer er ikke dette mobilen for de som helst ikke vil merke så mye til at de har med seg en mobiltelefon i lomma. 
+Den er heller ikke for de med korte fingre, og som setter pris på å bruke mobiltelefonen med én hånd. 
+Det var bare så vidt vi klarte nå øverst til venstre på skjermen med tommelen, noe som kan være en utfordring de dagene du for eksempel har ståplass på bussen eller t-banen. 
+
+Når det er sagt ligger Evo 3D veldig godt i hånda, mye takket være den ruglete baksida. 
+Den har også en svært prominent aktiverings- og utløserknapp for kameraet på høyre side, i tilegg til en svitsj som veksler mellom 2D og 3D-modus. 
+
+Aller siste Android 
+
+Én av de fine tingene med LGs 3D-mobil er at de hadde laget en slags 3D-portal, der brukeren får tilgang til alle 3D-funksjonene fra samme sted (kamera, spill, YouTube i 3D og så videre). 
+På Evo 3D finnes dessverre ingen slik portal, og det er ikke engang lagt inn en lenke til YouTubes 3D-videogalleri. 
+
+På den annen side så får du aller siste versjon av Android (LG Optimus 3D kjører versjon 2.2), i tillegg til HTCs utmerkede Android-skall - Sense 3.0. 
+Det inneholder en rekke ekstrafunksjoner, som for eksempel en smart låsskjerm som lar deg starte favoritt-appene i samme øyeblikk som du låser opp skjermen, og enda mer omfattende spesialtilpasning av mobilens hjemskjermer, samt bedre epost-håndtering. 
+
+I prinsippet skal du også få tilgang til HTCs on-demand videostreamingtjeneste kalt "Watch", men til tross for løfter om at også nordmenn snart skal få være med i det gode selskap, er det fortsatt ikke mulig å leie filmer via mobilen. 
+Alt du får se er noen få kjedelige trailere. 
+
+Rask og raskere 
+
+Med en såkalt tokjerneprosessor på 1.2GHz innabords har ikke Evo 3D noen som helst problemer med å takle den ekstra påkjenningen de nye grafiske funksjonene byr på. 
+Det småpene, men ikke spesielt nyttige, 3D-hjulet som gjør at du kan "snurre" deg lynraskt mellom hjemskjermene forløper for eksempel helt uten hikke eller hakking. 
+
+At Evo 3D er rask merkes også på alle andre områder. 
+Nettleseren har ingen problemer med å tygge data fra tyngre, ikke-mobilformaterte nettsider, og spiller av Flash-innhold så å si uten hikke. 
+
+Den samme uanstrengte følelsen gjennomsyrer hele mobilen, og det er i det hele tatt svært lite motstand å møte i daglig bruk - med unntak av på ett punkt. 
+
+Da vi testet HTCs første nettbrett 
+- Flyer - tidligere i år, var én av hovedinnvendingene at den ikke var rask nok til å håndtere avspilling av videoer av høy kvalitet. 
+Det kunne forsåvidt unnskyldes med at den hadde en enkjerneprosessor, men det er åpenbart ikke der skoen trykker hos HTC. 
+Der for eksempel en Samsung Galaxy S II kan spille av rått og råde (oversatt: det aller meste), sliter Evo 3D kraftig med nesten alle videoene vi prøvde som var kodet i 1080p (det beste HD-filmformatet). 
+Den slet også ørlite med noen 720p-videoer, og på dette nivået er ikke det bra nok. 
+
+Dette bekreftes forsåvidt også på ytelsesmålinger vi har gjort. 
+Slike apper er gjerne notorisk ustabile, og kan levere høyst ulike tall til tross for at en test kjøres både to og tre ganger under samme forhold. 
+Snittet til Evo 3D havner ikke desto mindre langt bak allerede nevnte Galaxy S II, og, kanskje vel så viktig, også et stykke bak LGs 3D-mobil. 
+
+Litt plagsom nettleser 
+
+Én ting er sikkert: 
+Android-nettlesere vil for mange framstå som attraktiv fordi den forholder seg til Flash-innhold med nesten samme eleganse som nettleseren på en PC eller Mac. 
+De fleste nettsteder vil være leselige så lenge mobilen er rask nok, og vi har blant annet hatt suksess med å spille av Flash-innhold fra nettsteder som Filmweb og BMW.com. 
+
+Ett område hvor HTCs nettleser derimot ikke er så elegant er på reformateringen av nettsider. 
+Dobbeltklikker du på en tekstkolonne, eller på en spalte på forsiden til en nettavis, zoomer nettleseren inn slik at teksten blir enklere å lese. 
+Det går forsåvidt greit, men noen ganger ser det ut som halve nettsiden bygges om før nettleseren serverer en ferdig versjon til brukeren, mens den noen ganger rett og slett bommer på tekstformateringen. 
+Da må du selv enten zoome ut og inn igjen, eller manuelt justere zoom-nivået med fingrene. 
+
+Her er Safari-nettleseren for iOS-produktene langt bedre. 
+Safari kan derimot ikke spille av Flash ... 
+
+Bilder i 2D 
+
+På samme måte som avstanden mellom bildet på forsiden av ferdigmatinnpakningen og maten du tar ut av esken gjerne viser seg å være noen mil i luftlinje, er bildet du ser på en mobilskjerm og bildet du henter opp på PC-skjermen ofte ikke helt like. 
+
+Bilder og video tatt med Evo 3D ser nemlig svært bra ut på skjermen. 
+De ser dessverre ikke like bra ut når de løftes over til større format. 
+På en PC-skjerm ser en et tydelig lillastikk, og bildene er heller ikke spesielt skarpe. 
+Støynivået er aksepetabelt, mens HD-videoen viser hvor relativt begrepet "HD" kan være. 
+Teknisk sett er det høyoppløselig video, men lillastikket og den harde komprimeringen gjør at resultatet ikke blir veldig imponerende. 
+
+Du kan se bilder tatt med kameraet her: 1, 2, 3, 4. 
+Du kan se video i HD tatt med kameraet her: film. 
+
+Bilder i 3D 
+
+Og så til det som er den egentlige grunnen til at denne mobilen eksisterer: 3D-funksjonen. 
+Via en liten svitsj på høyre side av telefonen veksler du mellom 2D og 3D-bilder - eller video. 
+Idet 3D-funksjonen er aktivert blir også skjermen en 3D-skjerm, slik at du til enhver tid ser motivet omtrent slik det blir seende ut etter at bildet er tatt. 
+
+Det vil for mange være en ganske uvant følelse å se slike 3D-bilder, og noen kjenner også et visst ubehag eller lett svimmelhet. 
+Det pleier gi seg. 
+Kvaliteten på bildene er forsåvidt greie, men dette føles fortsatt som teknologi som så vidt har lært å gå. 
+Hvis en skal være kritisk er nemlig bildene ikke noe særlig å se på i det hele tatt. 
+Jada, de har en slags dybdeeffekt som fungerer som kuriosa i noen minutter, men du kan ikke sende dem til noen - med mindre de har en tilsvarende 3D-mobil. 
+
+Du kan ikke uten videre se dem på PC-skjermen din i 3D. 
+Fargene blir ganske blasse, skarpheten i bildet reduseres, og beveger du hodet ditt bare noen millimeter til høyre eller venstre mens du ser på Evo 3D-skjermen, begynner 3D-effekten å svikte. 
+Evo 3D er faktisk enda mer kritisk på hvordan blikket treffer skjermen enn sin foreløpig eneste konkurrent fra LG. 
+
+Konklusjon 
+
+HTC Evo 3D er en habil smartmobil på mange plan. 
+Den er rask, den har en meget bra skjerm, den kjører siste versjon av Android, og aller siste versjon av HTCs Sense-skall. 
+Den har veldig bra batteritid, utmerket samtalekvalitet, og utfører de fleste dagligdagse oppgaver til stående. 
+
+Den er likevel svak på videoavspilling, og den har et kamera som ikke når opp til de beste smartmobilene. 
+Vi er fortsatt på gjerdet hva 3D-funksjonaliteten angår, og synes fortsatt hele prosjektet framstår som en gimmick framfor noe man kommer til å bruke. 
+Den betydelige ekstravekta en får med på kjøpet er heller ikke spesielt trivelig, det samme kan sies om prislappen. 
+
+Det er nemlig der det virkelig svikter. 
+Du skal nemlig være svært interessert i sånn passe bra 3D-bilder for å betale nesten 5.000 kroner for HTC Evo 3D. 
+Samsung Galaxy II nærmer seg med raske skritt 4.000-kronersmerket, og det er en mobil som slår Evo 3D på så å si alle områder. 
+
+HTCs første 3D-mobil faller altså mellom de berømte stolene, og selv om den kan filme fallet i 3D, spørs det om det er nok til å gjøre inntrykk på bortskjemte smartmobilkjøpere. 
+
+HTC Evo 3D 

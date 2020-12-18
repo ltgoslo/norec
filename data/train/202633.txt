@@ -1,0 +1,45 @@
+SanDisk SSD G3 60 GB
+Minnekort er ikke alt, SanDisk satser også på SSD 
+
+Det er ingen tvil om at SSD gir både stor målbar forbedring og opplevd forbedring for de aller fleste PC-brukere. 
+Men en SSD er fremdeles dyr og har liten kapasitet i forhold til pris. 
+Dessuten er det en del problemområder med SSD som gjør at det ikke bare er å løpe og kjøpe. 
+
+Det finnes mange leverandører av SSD, og noen opererer med fantastiske ytelsestall. 
+Andre er langt mer beskjedne i sin omtale, men over tid er kundene vel så fornøyd med produktene med tilsynelatende lavere spesifikasjoner. 
+
+Grunnen til dette er at å skrive til en SSD er en omstendelig prosess, og det må utføres en del "triks" for å få det til å virke for bruker og operativsystem som om det er en rask prosess. 
+
+I flashbasert lagring kan man ikke skrive små datamengder hvor som helst, men bare i ledige blokker. 
+Det skyldes at man ikke kan slette annet enn hele blokker, ikke deler av disse. 
+Og man kan ikke overskrive data i flash, man må slette først, så skrive. 
+
+Hvordan man så administrerer dette, med kopiering, sletting og tilbakeskriving er avgjørende for ytelsen til en SSD. 
+Men det er også avgjørende for levetiden, for flashminne kan bare skrives til et begrenset antall ganger. 
+
+Balansekunst 
+
+SanDisk har utviklet sin egen metode for å håndtere disse utfordringene, og utviklet sin egen metode kalt ExtremeFFS i kontrolleren som styrer bruken av flashminnet. 
+Sammen med bruken av SanDisk sitt eget flashminne presenterer de så det de kaller en Optimally Balanced Drive. 
+
+Dette skal gi både raskere respons for brukerne og en levetid på 10 år med aktiv bruk. 
+
+Metoden går i prinsippet på å bruke en sikker skrivebuffer som ikke mister data ved strømbrudd, og å skrive til ledige områder uten å måtte overskrive data. 
+I tillegg kan SSD-en utføre mange operasjoner samtidig, både skriving, lesing og opprydding. 
+
+På testbenken 
+
+Vi kopierte over vår Windows 7 test-installasjon, den samme som vi har brukt ved testing av Intel SSD og Seagates hybriddisk tidligere, og med samme installasjon på en Western Digital Raptor roterende disk som referanse. 
+
+Testen PCMark Vantage som tester ved variert og intens PC-bruk viser at SanDisk ikke er like rask som Intel sin SSD, men likevel langt foran en av de raskeste roterende harddiskene. 
+
+På diskytelsesdelen av testen leverer SanDisk bare halvparten av Intels score. 
+
+Konklusjon 
+
+Ved en slik ren målingsbasert test kommer ikke hele bildet fram. 
+SSD har vært kjent for å tape ytelse etter en tids bruk, men mye av dette har endret seg med nye kontrollere fra alle produsentene. 
+
+Hvordan SanDisk vil stå seg etter noen års intens bruk kan vi ikke få testet, men en diskkontroller med 10 års garanti på ytelsen burde jo være et argument hvis man har dette perspektivet. 
+
+Vi har aldri brukt noen form for lagringsmedium så lenge. 

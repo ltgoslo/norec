@@ -1,0 +1,88 @@
+Acer Aspire 4820TG
+Timeline X heter den nye serien, med nye prosessorer. 
+
+Timeline-serien fra Acer fokuserer på batteritid, navnet er altså ikke bare et tilfeldig påfunn. 
+Den første serien vi testet var basert på en annen prosessorgenerasjon, men tradisjonene føres videre. 
+Nå er maskinene utstyrt med langt kraftigere prosessorer, men batteritiden skal fremdeles være blant de lengste. 
+
+Men Acer legger også vekt på design og kompakt format, alle maskinene er mindre enn 25 mm tynne og har flere tiltalende detaljer. 
+
+Timeline-serien er allsidige maskiner, men henvender seg først og fremst til private brukere. 
+De kommer i forskjellige størrelser, fra kompakte 11,6 og 13,3-tommers til de mer voksne 14 og 15,6-tommers modellene. 
+Felles for alle er bredskjerm, innebygde Dolby Home Theater høyttalere og HDMI 1.3 port for tilkobling til TV. 
+
+(Maskinene kan selvsagt også brukes i jobbsammenheng, dette er først og fremst avhengig av de enkelte IT-avdelingenes krav til maskinadminstrasjon, i mindre grad av selve maskinvaren. 
+) 
+
+Spesifikasjoner 
+
+Intel Core i5 prosessor 430M 2,26 GHzATI Mobility Radeon HD 547014" skjerm, 1366x768 LED baklys4 GB minne500 GB harddiskDVD brennerWLAN 802.11 b/g/n6-cellers Li-Ion batteri (6000mAh/66 Wh) 
+
+(Komplette tekniske spesifikasjoner finner du hos Acer ) 
+
+Egenskaper 
+
+Det første man legger merke til er at maskinen skiller seg fra trenden med svart, blank overflate. 
+Acer har i stedet valgt børstet aluminium-stil både på lokket utvendig og på flaten rundt styreflaten. 
+Ellers er rammen rundt skjermen svart og blank, selve skjermen er også blank. 
+
+Oppløsningen på 1366x768 på 14 tommer er ok, mange ville sikkert gjerne hatt høyere oppløsning, men den valgmuligheten finnes ikke. 
+Det er samme oppløsning på alle tre modellene i Aspire Timeline X-serien, med skjermstørrelser på 13,3, 14 og 15,6 tommer. 
+
+Skjermen kan legges ganske langt tilbake, men den begrensede betraktningsvinkelen gjør at det bare er i et ganske trangt område at skjermen klarer å vise alle farger og intensiteter. 
+Dette gjelder imidlertid alle rimelige bærbare med TN-panel, ikke bare denne maskinen. 
+
+Tastaturet har flate taster med avrundede kanter og hjørner, men du føler likevel konturene og det er behagelig i bruk. 
+
+Det er ingen spesialtaster, men det finnes to knapper ovenfor tastaturet. 
+Den som er merket P styrer PowerSmart funksjonen som regulerer strømforbruket og gir lengre batteritid. 
+Knappen ved siden av løser ut DVD-skuffen. 
+
+Pekeplaten er av de bedre vi har vært borti, responsen er upåklagelig og den støtter sammenkniping og spredning av to fingre for å styre zoom, i tillegg til skrolling i begge retninger. 
+Men knappene er av vippetypen med dødsone på midten, det er vi ikke så begeistret for. 
+
+Tilkoblinger 
+
+På venstre side finner vi tilkoblinger for Kensington lås, VGA, HDMI, nettverk, USB og lyd inn/ut (analog og SPDIF). 
+
+På høyre side er det strøminntak, DVD og tre USB-porter. 
+
+Kortleser for SD-kort finner vi i fronten. 
+
+Det er ingen ExpressCard plass, dermed er du henvist til USB 2.0 for alle typer tilkobling. 
+Ingen eSATA, USB 3.0, FireWire for gamle DV-kameraer, hjemmestudio eller rask leser for CF-kort er mulig. 
+
+Ytelse 
+
+Vi har målt ytelsen med PCMark Vantage og fikk disse resultatene: 
+
+5666 PCMarks 3453 Memories 3460 TV and Movies 4017 Gaming 4675 Music 4534 Communication 4790 Productivity 3039 HDD test 
+
+Geekbench ga 4075 
+
+Win7 opplevelsesindex 5,1 Prosessor 6,7 Minne 5,9 Grafikk 5,1 (Denne trekker indexen ned) 
+Spillgrafikk 6,2 Harddisk 5,4 
+
+Vi sjekket også med DPC Latency Checker om noen av maskinkomponentene brukte uforholdmessig mye prosessortid, og fant at driveren for trådløst nett fikk maskinen til å lugge i blant. 
+Dette er viktig ved avspilling av lyd og video, selv om du ikke bruker nettverket til å hente mediedata, men spiller av lokalt. 
+Bruker du maskinen til lydopptak bør du definitivt deaktivere trådløst nett. 
+(Dette er forøvrig helt typisk for bærbare PC-er.) 
+
+Batteritiden med kontinuerlig avspilling av HD-video og ingen strømsparefunksjoner var 166 minutter - eller 2 timer og 46 minutter. 
+
+Uten aktivitet (maskinen sto på, men ble ikke brukt) og ingen strømsparefuksjoner varte batteriet 402 minutter, eller 6 timer og 42 minutter. 
+
+Dette er meget bra batteritider! 
+Med fornuftige innstillinger varer batteriene vesentlig lenger, og de påståtte 8 timer vil neppe være noe problem ved lesing av tekst, skriving av notater og annet som ikke belaster maskinen tungt. 
+
+Maskinen er også støysvak og den lille støyen som finnes er ren og mørk, uten toner eller høye frekvenskomponenter (ingen piping og hvisling). 
+
+Konklusjon 
+
+Acer Timeline er en stilig maskinfamilie, med vekt på allround-egenskaper og lang batteritid. 
+Den nye modellen har vesentlig bedre ytelse enn tidligere modeller, på grunn av raskere prosessor og maskinvare generelt. 
+
+Sammenligner vi med den første Timeline-modellen vi testet for et år siden er batteritiden ikke like imponerende, spesielt ikke ved avspilling av video (4 timer og 5 minutter mot dagens 2 timer og 46 minutter) . 
+Den modellen vi testet den gangen var imidlertid utstyrt med en liten SSD-disk på 32GB for system og programmer, noe som hadde stor innvirkning både på ytelse og batteritid. 
+
+Takk til MPX.no for utlånet av maskinen 

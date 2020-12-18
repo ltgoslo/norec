@@ -1,0 +1,109 @@
+Samsung Series 3 355V5C
+Den har mye av det meste, og akkurat nå får du den for under 4.000 kroner. 
+
+Samsung er blant PC-produsentene som ofte har scoret bra i testene våre, men som regel har det dreid seg om modeller i litt høyere prisklasser. 
+Samsung har også billigere modeller i sitt sortiment, og 355V5C er blant de mest interessante i så måte. 
+
+For på papiret ser den slett ikke dum ut, med tanke på at prisen for øyeblikket er så lav som 3.995 kroner hos Komplett.no. 
+Normalt koster den minst en tusenlapp ekstra. 
+
+Klassisk PC med bra spesifikasjoner 
+
+Det er ikke snakk om en superlett og supertynn PC, men en klassisk modell med 15,6" matt skjerm (1366x768 piksler) med optisk drev (DVD-brenner) og vekt på 2,3 kg. 
+De ytre målene er 37,25 x 24,3 x 3,3 kg. 
+
+På innsiden har den en firekjernet AMD A10-4600M-prosessor. 
+Dette er toppmodellen i AMD sin Trinity-generasjon, og altså det raskeste du får fra Intel-konkurrenten. 
+I tillegg har den et dedikert AMD Radeon HD 7670M grafikkort med 1 GB RAM, som absolutt bør være tilstrekkelig for spilling av nye spill i skjermens oppløsning. 
+
+Det som dessuten er positivt er rikelig med arbeidsminne (8 GB) og lagringsplass (1000 GB), begge deler er sjelden kost i denne prisklassen. 
+
+For øvrig kan maskinen skilte med 1,3 Mpix webkamera, HDMI- og VGA-utganger, fire USB-porter (hvorav to er høyhastighets USB 3.0), Gigabit nettverk, og kortleser for SD/SDHC/SDXC-kort. 
+
+Operativsystemet er standardutgaven av Windows 8 (64 bit) 
+
+Eksteriør 
+
+Som ventet er dette en PC innpakket i plast fra innerst til ytterst, men byggekvaliteten virker å være bra likevel. 
+Merk at overflaten er blank, og at fingeravtrykk vises relativt lett. 
+
+Alle tilkoblinger sitter på venstre og høyre side. 
+
+Kortleseren sitter i fronten, til høyre. 
+
+Skjermen er av TN-typen, og det betyr at kontrast og farger avtar når den betraktes fra sidene. 
+Den er ikke berøringsfølsom, men i denne prisklassen kan du ikke forvente det. 
+
+Oppløsningen er ikke så høy som på mange dyrere modeller, men til gjengjeld er skjermen matt - noe vi ser på som positivt, spesielt dersom du misliker refleksjoner. 
+Slikt er null problem med denne PC-en. 
+
+Tastaturet er av island-typen, det betyr at hver tast er adskilt fra de andre. 
+Slike har en stor fordel, de er nemlig svært enkle å rengjøre. 
+Layout er logisk, og selv om det er litt svikt på midten er det absolutt et bra tastatur å skrive lange dokumenter på. 
+
+Museplaten er multiberøringsfølsom, og har to adskilte knapper - noe vi også tror mange vil like. 
+
+Slik yter den 
+
+Fra du skrur på PC-en til den er klar til bruk tar det i overkant av et halvt minutt, noe som ikke er uvanlig for harddiskbaserte PC-er. 
+En PC med SSD starter ofte minst dobbelt så raskt. 
+Men som oftest lukker man bare lokket, maskinen går i dvale, og når man åpner lokket igjen er maskinen uansett klar på få sekunder. 
+
+Det som derimot er et inntrykk vi sitter igjen med etter å har brukt PC-en en stund, er at den kan oppleves som litt treg på å logge av, avslutte helt, og også starte enkelte programmer for første gang. 
+Vi antar at harddisken er "synderen", selv om den er gjennomsnittlig rask på sekvensiell lesing/skriving. 
+
+Merk også at viftene går mer eller mindre konstant, men som oftest på lavt turtall (les: 
+Sjelden sjenerende) . 
+Maskinens venstre del blir merkbart varm etter litt bruk, og det kjennes godt på overflaten til venstre for pekeplaten. 
+Dette er dessverre noe vi oftere opplever på AMD-baserte PC-er enn Intel-baserte. 
+
+Windows Opplevelseindeks gir oss uansett følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 
+6.9 Minne: 7,2 Grafikk: 
+6,7 Spillgrafikk: 
+6,7 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, her er tallene vi fikk - med våre kommentarer: 
+
+CPU Mark: 
+3235.7 
+Dette betyr at ytelsen er ganske "midt på treet", og lavere enn hva man skulle forvente av en topp-prosessor. 
+Den tilsvarer ytelsen til en strømgjerrig Intel Core i5-3317U som sitter i mange Ultrabooks, eller en Core i3-3110M som sitter i mange PC-er i samme prissegment. 
+I praksis betyr det god ytelse til det aller, aller meste - inkludert bildebehandlig, spilling og lett videoredigering. 
+
+3D Graphics Mark: 
+896.5 
+Dette er mer enn dobbelt så raskt som Intel HD 4000 som ofte sitter i Intel-baserte PC-er i samme prisklasse. 
+Det betyr at denne PC-en vil takle nyere spill langt bedre enn slike, og er absolutt et pluss ved denne PC-en. 
+Har du planer om å koble til en ekstern skjerm for å spille i full HD-oppløsning, kan derimot grafikken få litt hikkeanfall innimellom. 
+På den interne skjermen bør ikke dette bli et stort problem med moderate innstillinger i spillet. 
+
+Disk - Sequential Read: 
+90.9 Disk - Sequential Write: 
+75.5 
+Som tidligere nevnt er dette helt gjennomsnittlig ytelse for en 5.400 rpm-harddisk. 
+Det er fullt mulig å få bedre ytelse (og dermed også en langt raskere PC) ved å bytte den ut med en SSD senere. 
+Da kan du samtidig bruke harddisken til ekstern lagring, ved å putte den i et USB-kabinett. 
+Enkelt og smart. 
+
+Batterimålinger Uten belastning: 369 minutter (6,15 timer) 
+Avspilling av HD-video: 229 minutter (3,8 timer) 
+
+Ut fra dette kan du regne en batteritid på rundt 5 timer med variert bruk. 
+Det er omtrent det du bør forvente av en PC i denne prisklassen i 2013. 
+
+Konklusjon 
+
+Her får du en godt utstyrt og oppdatert PC til en rimelig penge. 
+Ytelsen er ganske midt på treet for prisklassen, med unntak av grafikkytelsen - som er vesentlig høyere. 
+Tatt i betraktning stort arbeidsminne og den store harddisken er det derfor ingen tvil om at du får mye for pengene. 
+
+Du må imidlertid leve med at PC-en blir relativt varm, og som har en litt mer aggressiv vifte enn hva som ofte er tilfelle med Intel-baserte konkurrenter. 
+Kan du leve med det, er 355V5C slett ikke noe dumt valg. 
+
+Takk til Komplett.no for utlån av maskinen 
+
+Samsung 355V5C-S0BSE 

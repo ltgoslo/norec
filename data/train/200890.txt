@@ -1,0 +1,48 @@
+19"Samsung 940BF 
+
+Forløperen 930 BF som vi testet i desember hadde en responstid på 4 ms. Etterfølgeren skilter med 2 ms. 
+Er grensen nådd? 
+
+Dobbelt så rask høres jo flott ut, men når man i utgangspunktet er i nærheten av grensen for hva vi kan oppfatte, da blir det ikke like vesentlig. 
+En ting er å halvere responstiden fra 30 til 15 ms, men fra 4 til 2ms - det er jo ikke like vesentlig uansett hvordan man snur og vender på det. 
+
+LES OGSÅ: 
+
+ViewSonic var forøvrig ute med sin 2 ms skjerm VX922 allerede før jul, testen kan du lese her. 
+
+Lik men forskjellig 
+
+Skjermen er svært lik forgjengeren. 
+Fargene og foten er den samme, uten justeringsmuligheter, tilkoblingene er de samme med VGA og DVI, rammen rundt panelet er like smal, men de har rettet opp en av viktigste innvendingene vi hadde. 
+
+På den 930BF var betjeningsknappene plassert på undersiden av rammen i front, med innpregede symboler i rammen. 
+Disse var nærmest uleselige i alt annet enn spesielt gunstig belysning. 
+
+På 940BF er knappene derimot plassert til høyre på fronten, og symbolene er nå i sort på sølv - det gjør at betjeningen blir noe helt annet. 
+
+Betjening er vanligvis ikke det man gjør så ofte på en LCD-skjerm, men det blir stadig mer vanlig å legge inn fargeprofiler som brukeren kan veksle mellom. 
+Skal man skrive tekst vil man gjerne dempe ned det intense lysende hvite flaten, som kan bli slitsomt i lengden. 
+
+Skal man spille et dystert spill er det derimot gunstig at man henter ut langt mer av fargedynamikken, det samme gjelder ved film. 
+
+Samsung kaller sin variant for MagicBright og har en meny hvor man kan velge mellom Egendefinert innstilling, Tekst, Internet, Spill, Sport eller Film. 
+Dette fungerer bra, men man kan selvsagt stille inn skjermen til en fargeprofil man liker generelt, og la den stå der. 
+Det gjorde vi etter hvert. 
+
+Hva med responstiden? 
+
+Etterslep er ikke synlig, men det var det heller ikke på forgjengeren med 4 ms responstid. 
+Faktisk er det heller ikke synlig etterslep på en skjerm med 12ms, bortsett fra under helt spesielle omstendigheter. 
+Da snakker vi ikke om fiender som lurer bak hjørner, men om figurer i kontrastfarger som beveger seg over flater. 
+For eksempel røde geometriske figurer eller tekst som glir over en grønn bakgrunn. 
+Det er vi heldigvis ikke eksponert for til stadighet. 
+
+Bildekvalitet 
+
+Som hos fogjengeren er den vertikale betraktningsvinklen langt mindre i praksis enn de oppgitte 160 grader, men horisontalt er det uproblematisk. 
+
+Konsekvensen av dette er at fargebalansen bare er godkjent i en viss arbeidsstilling, og skjermen er derfor ikke å anbefale hvis det er korrekte farger og fleksibel arbeidsstilling man er ute etter. 
+De fysiske justeringsmulighetene er heller ikke lagt opp til stor fleksibilitet. 
+
+Men på gutteværelset, i videste forstand, er skjermen utmerket. 
+Til spill, video, internett og jobb gjør skjermen en ypperlig jobb. 

@@ -1,0 +1,42 @@
+Intel 330 SSD
+Intels folke-SSD på testbenken, til en svært hyggelig pris. 
+
+Intel har flere serier med SSD tilpasset forskjellige kundegrupper, med varierende pris og ytelse. 
+Det er ikke spesielt bemerkelsesverdig, men det er likevel litt pussig at de bruker nøkkelkomponenter fra andre produsenter i de rimeligste seriene. 
+Som en av verdens største brikkeprodusenter er det nærliggende å tro at det ville være mulig og mer lønnsomt å komme opp med en egen løsning. 
+
+I 330-serien er kontrolleren fra SandForce, modellen SF-2281 og bruker datakompresjon i sanntid for å belaste minnecellene mindre, ved rett og slett skrive mindre datamengder enn filene i utgangspunktet inneholder. 
+
+Likheten med 520-serien er påtagelig, det er samme kontrolleren, den største forskjellen er selve flashminnet. 
+I den rimeligere 330-serien brukes det minne med færre skrivesykluser, man kan altså ikke skrive like mange ganger som til de dyrere seriene. 
+For målgruppen som er forbrukere og ikke 24/7 drift er den likevel godt innenfor det man kan forvente, eller ha behov for. 
+Intel oppgir ingen levetid for 330-serien, men gir tre års garanti. 
+
+Innhold i pakken 
+
+330 serien leveres bare som oppgraderingssett, i "ordentlig" eske med festebrakett, skruer, kabler, og en liten CD. Hos Intel kan du også laste ned programvare for overføring fra harddisk til SSD. 
+
+Selve enheten har ikke lenger plastrammen på oversiden, hele kabinettet er av metall, noe som er en fordel med tanke på å lede bort varme ved intens bruk. 
+
+Undersiden er som tidligere. 
+
+Ytelse 
+
+Sammenligner vi med de tidligere seriene, er 330 langt nærmere 520-serien enn 320-serien. 
+Både på sekvensiell skriving og lesing er 330 helt overlegen den forrige rimelige 320-serien. 
+
+Atto ga 138 845 (skrive) og 279 038 (lese) på 320-serien mot 515 899 (skrive) og 555 405 (lese) på 330-serien. 
+
+Vår egen Medietest var ikke like snill, og ga 394 142 på skriving og 464 217 på lesing på 330. 
+
+Når det gjelder I/O - rask håndtering av mange småfiler - ligger 330-serien mellom 320 og 520. 
+
+Score på 320-serien var 379 og 770 på 520, mot 493 på 330-serien. 
+
+Konklusjon 
+
+330-serien er en betydelig oppgradering fra den forrige serien, selv om økningen på de viktigste områdene (I/O) ikke er like høy som på de mindre viktige områdene (sekvensiell lesing/skriving). 
+
+Prisene har også blitt langt mer sjarmerende, med en pris på rundt 60 prosent av forgjengeren. 
+
+Intel 330 Series 2.5" SSD 120GB 

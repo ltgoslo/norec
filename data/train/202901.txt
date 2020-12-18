@@ -1,0 +1,108 @@
+Google Nexus S
+En reinspikka Google Android-mobil, men det er Samsung som har laget den. 
+
+Endel Android-brukere vil være altfor godt kjent med at det ikke nødvendigvis er en smal sak å oppdatere operativsystemet på mobiltelefonen. 
+Google har hatt enorm suksess med sitt smartmobilsystem, men ettersom det er én halvpart som står for programvaren (Google) og en annen som står bak maskinvaren (Samsung, HTC, Sony Ericsson og så videre) er det ikke alltid en får tilgang til oppdateringer så raskt som en kanskje ønsker. 
+
+Det skyldes først og fremst at mobilprodusentene skreddersyr Android-utgivelsene i forhold til akkurat den og den modellen, og når neste Android-oppdatering kommer må det skreddersys på ny. 
+Noen mobilprodusenter lar simpelthen være å tilgjengeliggjøre oppdateringer for bestemte modeller, andre bruker god tid på å rulle ut neste versjon. 
+
+Ingenting ekstra 
+
+Én løsning er å kjøpe en "ren" Android-mobil. 
+De finnes det ikke mange av, men Samsungs Nexus S er en av dem. 
+Det er oppfølgeren til det som skulle bli Googles første og siste maskinvareprodukt 
+- Google Nexus One - en mobiltelefon som aldri ble solgt i Norge gjennom offisielle kanaler. 
+
+Her finnes ikke ekstramateriale i form av spesialtilpassede hjemmeskjermer eller e-postklienter, her finnes bare Android. 
+Nexus S har naturligvis også aller siste versjon av Android (versjon 2.3, også kjent som "Gingerbread"), og skal, fordi den er reinspikka Google, være fremst i køen når neste Android-oppdatering slippes. 
+
+Plast! 
+Mer plast! 
+
+Det er først og fremst én liten detalj som skiller designet til Nexus S fra røkla: 
+Overflaten er konkav, som vil si at den den krummer ørlite - som om noen har trykket litt for hardt på midten av mobilen. 
+
+Krummingen gir ingen umiddelbare brukerfordeler, annet enn at du kan si "se - den krummer!", men er likevel en fin designdetalj som kjennere vil sette pris på. 
+
+Ellers er den overveiende følelsen mens en sitter med Nexus S i hånda plast. 
+Veldig plast, når sant skal sies. 
+Det gir ikke brukeren noen luksusfølelse, til tross for at dette er en av de ypperste Android-mobilene som finnes på markedet akkurat nå, og det er heller ikke spesielt funksjonelt, all den tid de glatte plastflatene ikke gir hånda spesielt godt grep rundt mobilen. 
+
+Her kan du se detaljbilder av Nexus S: 
+
+Én av skuffelsene på maskinvaresida er at Super AMOLED-skjermen kun er forbeholdt utvalgte markeder, og Norge er dessverre ikke med i dette selskapet. 
+Den Nexus S-mobilen du eventuelt kjøper vil ha en "Super Clear LCD"-skjerm. 
+Den leverer ikke like spreke farger og, så vidt vi kan se, like dypt sortnivå, men, for all del, dette er fortsatt en særs habil skjerm. 
+Oppløsningen på 480x800 piksler er i dag mer eller mindre standard for mobiler med firetommers skjerm, og alt i alt ser dette svært bra ut. 
+
+Første med det siste 
+
+Nexus S er altså den første mobilen som leveres med aller siste versjon av Android - versjon 2.3, tett etterfulgt av Sony Ericsson Arc (som DinSide også har inne til test denne uka). 
+
+De som ikke kjenner hva som er nytt i såkalte "Gingerbread" kan lese denne artikkelen, eller de kan forholde seg til denne enkle lista: 
+
+Bedre strømhåndtering/forbedret batterilevetid Bedre tastatur (inkludert norske bokstaver uten å gå ad omveier, men også plasseringen og størrelsen på hvert tegn er justert) Oppdaterte grafikk-drivere 
+Enklere merking av tekst Støtte for nye medieformater som VP8 og WebM 
+
+Kjappis 
+
+Nexus S er uansett en rask mobil. 
+Det merkes spesielt på nettleseren, der blant annet mobilsider lastes lynraskt. 
+Også fullversjoner av nettsider går relativt raskt, men her er variasjonene større, avhengig av blant annet hvor mye Flash-innhold som finnes på sida. 
+
+Vi har forøvrig lastet ned nylig utgitte Flash 10.2 for Android, og selv om ytelsesforbedringene er merkbare, er det fortsatt et godt stykke igjen før Flash føles som en integrert del av surfeopplevelsen. 
+Ikke bare gjør den scrollhastigheten mer hakkete, du vil også se at endel flashinnhold ikke er i nærheten av å spilles av uten hikke. 
+
+Quadrant Standard-testen er foreløpig ikke kompatibel med Nexus S, og den er derfor ikke fartstestet i denne artikkelen. 
+
+Mediehåndteringen er i beste Android-stil avhengig av hva du selv gjør det til. 
+Bildehåndteringen tar det innebygde Galleria-appen seg greit av, men skal du over på video kan det være greit å overlate avspillingen til tredjepartsappen. 
+Vi har brukt RockPlayer Lite, og selv om den forsøker seg så godt den kan på HD-filer i alt fra mkv til xvid til wmv-format, viser det seg å være et slit å få det til å sitte ordentlig. 
+
+Ikke ordliste 
+
+I motsetning til de fleste andre Android-mobiler har ikke Samsung Nexus S minnekortplass. 
+Du får med 16 gigabyte på kjøpet, og det er det. 
+Er du storforbruker av musikk, video eller andre formater som tar stor plass kan akkurat dét være greit å legge merke til. 
+Fordelen med en slik løsning vil være at du slipper å forholde deg til to lagringsplasser når du for eksempel installerer apps, hvilket også betyr at du slipper problemstillingen rundt kopibeskyttede apps som insisterer på installering på internminnet. 
+
+Pussig nok følger det ikke med norsk ordliste. 
+Det betyr at du må ut på Android-markedet og lete fram et godt alternativ, for akkurat den jobben vil Google av en eller annen grunn ikke gjøre for deg. 
+
+Kamera og video 
+
+Kameraet på fem megapiksler er like enkelt i bruk som en minibankautomat, og selv om parameterbruken ikke er så ekstrem som vi har sett på enkelte andre smartmobiler, har du kontroll over det viktigste. 
+LED-blits og autofokus er naturligvis også med i pakken. 
+
+Bildekvaliteten er bra, og i kjent Samsung-stil får du en fargemetning på bildene som nærmer seg det overnaturlige, men uten at det bikker over. 
+Himmelen er så blå at den kunne vært brukt på Vålerenga-draktene, og lysbalansen er overraskende bra i kontrastfulle motiv. 
+Autofokusen er dessuten fint implementert, der en først fokuserer ved å trykke inn utløserknappen på skjermen, og deretter slipper knappen når en ønsker å ta bildet. 
+
+Videokvaliteten er helt grei, men det er skuffende at ikke denne Google-mobilen tar opp i HD. 
+Vi har etterhvert blitt bortskjemt med 720p-opptak på dyrere smartmobiler, og når prisen på Nexus S ligger tett oppunder 5.000 kroner, hadde vi forventet enda høyere oppløsning. 
+Nå passer riktignok 720x480 piksler utmerket for opplasting til Google-eide YouTube, men vi er ikke her for å gi næring til konspirasjonsteoretikerne, så den tankerekka skal vi la ligge. 
+
+Du kan se bilder tatt med kameraet her: 1, 2, 3, 4, 5, 6. 
+Du kan se video filmet med Nexus S her: kameravideo. 
+
+Her finner du skjermbilder fra Nexus S: 
+
+Konklusjon 
+
+Samsung Nexus S er ikke egentlig noen oppsiktsvekkende mobiltelefon. 
+Det første adjektivet som slo meg etter endt testperiode var solid. 
+For det første får du siste versjon av Android, for det andre er kan du være rimelig sikker på at framtidige oppgraderinger vil skje uten særlig ventetid, for det tredje er Nexus S så kjapp i responsen at det meste av det du måtte ønske å gjøre skjer uten særlig ventetid. 
+
+Den er naturligvis ikke like sprek som tokjernemonsteret LG Optimus 2X, men så lenge du ikke dyrker 3D-spilling eller andre oppgaver der CPUen tvinges i senk så vil Nexus S duge i massevis. 
+
+Batteritiden er verken bedre eller dårligere enn andre Android-mobiler, hvilket betyr at du med vanlig bruksmønster for smartmobiler må regne med å lage den opp hver dag. 
+Det er forsåvidt fortsatt opp til deg å holde orden på hva som stjeler ressurser (vi oppdaget til vår store overraskelse en nyinstallert app som stjal 20 prosent av batteritida), men med Androids nye oversikt over hva som stjeler hvor mye strøm er jobben blitt noe enklere. 
+
+Samtalekvaliteten er utmerket for de som fortsatt bruker smartmobilen til å ringe med, og utmerket seg blant annet med akkurat passe diskant - overraskende mange mobiltelefoner tar i litt for hardt i dette frekvensområdet. 
+
+Google Nexus S 
+
+Med andre ord: 
+Er du ihuga Android-bruker vil du ikke bli skuffa. 
+Dette er på mange måter en entusiastmobil, og selv om femmerterningen ikke er den mest solide vi noensinne har trillet, er dette fortsatt bra nok for de fleste. 

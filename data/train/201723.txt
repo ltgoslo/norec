@@ -1,0 +1,99 @@
+TEST:Blu-ray på integrert grafikkbrikke 
+
+Hvor kraftig PC trenger du egentlig for å spille av HD-materiale og Blu-ray-filmer? 
+Ikke allverdens, viser vår test. 
+
+Det kan ofte være vanskelig å definere hva du egentlig trenger av maskinkraft når du skal kjøpe eller bygge ny PC. 
+Det er ikke til å stikke under stol at svært mange ender opp med PCer som har potensiale som aldri blir utnyttet. 
+Spesielt gjelder dette stasjonære PCer med til dels svært kraftige grafikkløsninger, og litt dyrere bærbare PCer. 
+
+Mange begrunner valget med at de har et langsiktig perspektiv på investeringen. 
+De ender da gjerne opp med en langt kraftigere maskin enn de har behov for i øyeblikket, fordi de antar at behovet vil endre seg over tid. 
+Men prisene synker raskt, og det er sjelden den beste økonomien i å velge en slik strategi. 
+
+Vent til behovet melder seg 
+
+Velger du en stasjonær PC, kan den i de fleste tilfeller enkelt oppgraderes, for eksempel til å håndtere raskere spillgrafikk, når og hvis behovet skulle melde seg. 
+Og sjansen for at prisen på en dugandes grafikkløsning i løpet av den perioden er betydelig redusert, er samtidig stor. 
+
+En annen ting å tenke på er at kraftigere komponenter også medfører større kjølebehov, og resultatet kan dermed fort bli at du blir sittende med en maskin som både er dyr, bruker mer strøm og støyer mer enn en rimeligere maskin med mer moderate spesifikasjoner. 
+
+Nytt lys på integrert grafikk 
+
+Integrert grafikk er ofte et kjennetegn ved de aller billigste PCene, og har ofte vært ensbetydende med begrenset ytelse, spesielt til høyoppløselig film og 3D-spill. 
+Her er altså det dedikerte grafikkortet erstattet med en grafikkbrikke som er integrert på hovedkortet i PCen, og som deler minne med systemminnet i maskinen. 
+
+Men også på denne fronten gjøres det store fremskritt om dagen, og både Intel, AMD og Nvidia har integrerte grafikkløsninger med brukbar ytelse. 
+For mange er spilling uansett noe som kommer i andre rekke, og da kan slike løsninger være besparende - både i kroner og i form av varme og støy. 
+
+Vårt prosjekt 
+
+Nvidia sine integrerte Geforce 9300-brikker er blant de aller raskeste og mest aktuelle for øyeblikket, og vi har sett nærmere på et populært hovedkort med denne løsningen, ASUS P5N7A-VM, først og fremst med fokus på HD-video, inkludert Blu-ray. 
+Ville den takle det? 
+
+MicroATX-hovedkortet, som koster rundt tusenlappen i norske nettbutikker, byr på hele fire forskjellige grafikkutganger; VGA, HDMI, DVI og DisplayPort. 
+Dessverre kan kun to av dem brukes samtidig, ellers kunne dette vært en genial flerskjermsløsning. 
+
+Som grunnlag for en potent stue-PC-løsning er dette hovedkortet imidlertid høyaktuelt. 
+
+Vi byttet ut hovedkortet i en av våre test-PCer med dette kortet, og koblet til alle de eksisterende komponentene; 2 GB DDR2-minne (800 MHz), Intel C2D E8400-prosessor (3 GHz), LG Blu-ray-brenner og en 500 GB SATA-harddisk fra Seagate (7200 rpm). 
+Grafikkortet som stod i det gamle hovedkortet var av typen Nvidia Geforce 8500GT. 
+Dette ble naturligvis ikke koblet til. 
+Den integrerte grafikken i det nye hovedkortet "lånte" 256 MB av systemminnet. 
+
+Skjermen vi brukte var en 24-tommer fra BenQ, med oppløsning på 1920 x 1200 piksler. 
+I følge spesifikasjonene til hovedkortet støtter ikke DVI-tilkoblingen mer enn 1600 x 1200, så vi brukte HDMI i stedet. 
+
+Det viste seg imidlertid å bli en brokete opplevelse, der bildet kom og gikk som det passet seg. 
+Vi prøvde deretter med DVI for å se om det gikk bedre, og til vår store overraskelse klarte DVI full oppløsning uten å mukke - og helt stabilt og fint. 
+
+Etter å ha installert alle nye drivere (i Windows 7 beta), kjørte vi standard-testene i operativsystemet for å sjekke endringer i grafikkytelsen. 
+
+Her er de gamle tallene med dedikert 8500GT-kort: 
+
+Og her er de nye, med integrert 9300-grafikk: 
+
+Oppsiktsvekkende nok er tallene for 3D-ytelse høyere enn for det dedikerte grafikkortet. 
+Det er riktig nok ikke noe super-kort, men koster mer enn halvparten av P5N7A-VM-hovedkortet. 
+
+Den visuelle kvaliteten var dessuten helt på linje med det gamle 8500GT-kortet, og det var ingen forskjeller i den generelle brukeropplevelsen i Windows - med Aero-effektene skrudd på. 
+
+Blu-ray 
+
+Blu-ray-avspilling med PowerDVD 9.0 på denne PCen viste seg å gå som en lek. 
+I full HD-oppløsning var det ingen tegn til hakkende bevegelser, selv i scener med svært mye bevegelse. 
+
+Vi har lagt ved et lite videoklipp her som demonstrerer avspillingen: 
+
+Oppsiktsvekkende nok var belastningen på prosessoren også svært lav under avspillingen: 
+
+Windows Media Video HD 
+
+Avspilling av 1080P-materiale gjennom Windows Media Player gikk også helt uten komplikasjoner: 
+
+Adobe Flash HD 
+
+Her fikk grafikken problemer. 
+Dekodingen ser ut til å gå direkte på PC-prosessoren, og selv med en relativt kraftig prosessor ble det for mye for grafikken å håndtere. 
+Hakkingen i 1080P-materiale var fremtredende, både ved avspilling gjennom Internet Explorer 8 og Firefox 3.0.6. 
+Belastningen lå på mellom 80 og 100%: 
+
+Og hvis du lurte på hvordan det gikk med det gamle 8500GT-kortet, så kan vi avsløre at det gikk LANGT bedre. 
+Null hakking, og prosessorbelastningen oversteg ikke 50%: 
+
+Du kan prøve Flash HD selv ved å besøke Adobes HD-galleri 
+
+Trackmania - favorittspillet 
+
+Trackmania Nations Forever er et avhengighetsskapende gratisspill som undertegnede spiller mye: 
+
+I full oppløsning (1920 x 1200) opplevde vi små tendenser til hakking, men ikke nok til at spillegleden forsvant. 
+Ved å nedjustere oppløsningen til 1680 x 1050 (vanlig på 22-tommere), var hakkingen borte. 
+
+Konklusjon 
+
+I denne lille testen hadde fokus på HD-avspilling og generell brukeropplevelse, med et nyere hovedkort med integrert grafikk. 
+Konklusjonen er ganske enkelt at dersom du ikke er opptatt av spilling, dekker dette kortet nær sagt alle aktuelle behov hva angår grafikkytelse, også for høyoppløselig film, uten behov for dedikert grafikkort - med unntak av Adobe Flash-materiale i 1080P (full HD). 
+
+NB! 
+Vi har bestilt en billig Celeron-prosessor til videre testing av dette hovedkortet, og kommer tilbake med våre erfaringer i en senere artikkel. 

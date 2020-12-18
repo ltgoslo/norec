@@ -1,0 +1,67 @@
+TEST:Lenovo Ideapad S12 
+
+Hvor stor kan en mini-bærbar bli? 
+
+Det fine med mini-bærbare da de først dukket opp, var det lille formatet og den lave prisen. 
+Små maskiner har vært på markedet lenge, men de har alltid vært blant de dyreste. 
+Både Toshiba, Lenovo, Dell og Sony har hatt små maskiner på kiloen og under i årevis. 
+
+Men så dukket de første små Asus EEE opp til rundt tre tusen, og ble raskt fulgt opp av konkurrentene som tilbød tilsvarende maskinvare med stiligere design og litt større skjerm. 
+
+Dette har fortsatt, og Lenovo har med Ideapad S12 gått full sirkel. 
+Denne maskinen er like stor som tidligere små og dyre bærbare, men er basert på den billige Intel Atom-platformen. 
+
+Det er interessant å se at Lenovo sin fullspekkede ThinkPad med 12,1-tommers skjerm og Core2Duo prosessor etc. koster 14 990 kroner mens Ideapad S12 koster over 10 000 mindre ... 
+
+12-tommer 
+
+Skjermen er på hele 12,1 tommer med LED baklys og oppløsningen er på gode gamle 1280 x 800. 
+Det er altså ikke den samme oppløsningen vi finner på de andre store mini-PCene på 11,6 tommer som har 1366x768. 
+Mange vil nok like den litt høyere og smalere skjermen. 
+
+Konsekvensen av dette formatet er imdlertid at hele maskinen blir dypere og mer kvadratisk enn de andre mini-bærbare. 
+Det er ofte dybden er mest kritisk, spesielt når man sitter på fly eller tog med en seterygg foran seg. 
+
+I bruk 
+
+Maskinen er god å bruke, tastaturet er i full størrelse og utmerker seg med gode taster, riktig slaglengde og behagelig landing (og vi skal ikke nevne at Fn tasten sitter ytterst, noe som vi ellers pleier å klage over). 
+
+Pekeplaten fungerer utmerket, knappene er adskilte og kunne muligens vært en millimeter høyere enn platen, men det lar vi passere som en smaksak. 
+
+Betraktningsvinklen på skjermen er verken bedre eller dårligere enn på alle andre rimelige bærbare uansett størrelse. 
+Du må vippe den et stykke bakover for å kunne se alle detaljer, grå og farget tekst og riktige farger i bilder. 
+
+Skjermen er som alle andre for tiden skinnende blank. 
+Vi liker det fremdeles ikke. 
+
+Tilkoblingene er fordelt med WiFi -bryter, 2 USB og kortleser (SD/MS etc.) poå venstre side. 
+
+På venstre side, på høyre side er det nettverk, VGA, USB, lyd ut/inn og - en ExpressCard kortplass! 
+Ikke verst på en mini-bærbar. 
+
+Batteriet er på 6 celler og stikker ut bak. 
+
+Ytelse 
+
+Maskinen leverte som forventet ut fra prosessorkapasitet og brikkesett. 
+
+For de typiske bruksområdene en slik maskin dekker er ytelsen godkjent. 
+Surfing og standard brukerprogrammer kjører helt greit under Windows XP som var installert på maskinen. 
+Windows 7 vil etter hvert også sørge for at dette fungerer som forventet. 
+
+Avspilling av 720p video fungerte helt greit, men 1080p var ubrukelig. 
+Det er likevel godkjent for en slik maskin. 
+Det kommer også en utgave av S12 på ION platform, da vil det ikke være noe problem med HD og annen tyngre grafikk. 
+Det koster selvsagt også noe ekstra. 
+
+S12 har også QuickStart, et linuxbasert miniOS som starter opp på 10 sekunder og gir deg grunnleggende funksjoner som nettleser og mail. 
+Dette var ikke installert på vårt testeksemplar. 
+
+Konklusjon 
+
+Maskinen er "stor", men behagelig i bruk. 
+Er du ikke begeistret for det nye HD-ready-bredde formatet (1366x768) så er S12 et fint alternativ. 
+
+Med mulighet for ExpressCard vil du også kunne utvide bruksområdet for spesielle oppgaver, her er det ikke mange konkurrenter som kan stille opp. 
+
+Maskinen leveres i sort eller hvit utførelse. 

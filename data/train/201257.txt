@@ -1,0 +1,115 @@
+TEST:NMP-1000 mediespiller og NAS-disk 
+
+For en gangs skyld er innsiden omtrent like lekker som utsiden. 
+Denne mediespilleren har nesten alt. 
+
+Det er et drøyt halvår siden vi begeistret testet Qnaps nettverksdisk, TS-119. 
+Når samme selskap nå lanserer mediespilleren NMP-1000 er det ikke så dumt å tenke på den som en blanding av TS-119 og en annen av våre mediespillerfavoritter - WD TV. 
+
+Her får du nemlig i bøtter og spann. 
+
+Full pakke 
+
+I tillegg til å kunne spille av de fleste mer eller mindre kjente video-, bilde- og musikkformater, er NMP-1000 også en nesten fullvedig nettverks-harddisk, eller NAS om du vil. 
+Den har både HDMI (v1.3), komponent og digital lydutgang for tilkobling til TVen eller surroundreceiveren, og den har Ethernet (gigabit) for tilkobling til nettet. 
+Sleng på USB og eSATA-kontakter som enten kan brukes til eksterne harddisker eller til å plugge NMP-1000 rett i en PC, så snakker vi en fin-fin totalpakke. 
+
+Hvis du virkelig vil ta i kan du kjøpe en USB-plugg med Wlan for trådløs nettverksforbindelse. 
+
+Utseendet på Qnaps nettverks-mediespiller skjemmer ingen. 
+Der andre slike enheter gjerne er så ubehagelige å se på at de må gjemmes bort bakerst i skjenker eller under TV-benker, kan denne fint plasseres ved siden av flatskjermen. 
+
+Den har riktignok en vifte som er hørbar når du befinner deg i umiddelbar nærhet av spilleren, men idet vi satte oss i sofaen drøye to meter unna la vi ikke lenger merke til viftesusen - ikke en gang med lyden av på TVen. 
+
+Installér selv 
+
+NMP-1000 er på ingen måte stor, selv om den viser relativt godt igjen ved siden av allerede nevnte WD TV. 
+Det er først og fremst fordi den har flere tilkoblingsmuligheter, og, ikke minst, fordi den har plass til én intern 3.5" harddisk. 
+Disk følger ikke med, så den må du eventuelt kjøpe separat. 
+Den er uansett en smal sak å installere. 
+En luke på ene siden skjuler et harddiskoppheng, og når disken er skrudd fast i festet er det bare å skyve opphenget tilbake og formatere disken. 
+
+Fjernkontrollen er vi også svært godt fornøyd med. 
+Den er solid og utstråler kvalitetsfølelse. 
+Med den i hånda kan du styre alt fra film- og musikkavspilling til bittorrent-nedlasting og valg av undertekster. 
+
+Skru av PCen - last ned 
+
+Riktig - bittorrent. 
+Vi nevnte innledningsvis at NMP-1000 også fungerer som NAS-disk, hvor du blant annet kan sette opp din egen web eller FTP-server, eller laste ned bittorent-filer. 
+Den kan også fjernstyres via et web-grensesnitt, slik de fleste NAS-disker kan, og du kan enkelt få tilgang til filene dine fra hvor som helst i verden (NMP-1000 støtter blant annet de sedvanlige afp, nfs og smb-protokollene). 
+
+Det lille displayet i fronten synes kanskje ikke umiddelbart som en nødvendighet, men hvis du ønsker å spille av for eksempel musikk uten å skru på en flat-TV som sluker strøm, er dette et smart kompromiss - selv om det langt fra er så god plass på dette displayet som på en Squeezebox. 
+
+Lekker i bruk 
+
+Det første som møter deg etter at boksen er skrudd på og den relativt langtrukne oppstartsprosessen er ferdig, er et særdeles tiltrekkende brukergrensesnitt. 
+Det første som slo oss var at dette minner en del om Apple TV, Apples lille, men atskillig mer begrensede, mediespiller. 
+Det er ikke fullt så pent, men det er både to og tre hakk over det vi tidligere har sett på andre mediespillerbokser. 
+
+Navigeringen er intuitiv og rask, selv om vi ved enkelte anledninger opplevde små forsinkelser i responsen. 
+Det var uansett ikke nok til å irritere. 
+
+Den velkjente inndelingen i "Musikk", "Foto" og "Bilder" kommer ikke som noen overraskelse, og har du for eksempel konfigurert en ekstern disk vil den dukke opp som en egen enhet under hver av de tre mediekategoriene. 
+
+Streaming-støtte 
+
+Vi knotet litt med å flette sammen Qnaps TS-119-disk med NMP-1000, men det var før vi forsto at sistnevnte liker best å knytte seg til andre nettverksenheter via smb-protokollen. 
+Når det var aktivert på TS-119, er det bare et spørsmål om brukernavn og passord før de to Qnap-enhetene snakker sammen. 
+
+Kjører du en såkalt uPnP-server på intern-nettet ditt, for eksempel via en PC eller en annen NAS-disk, vil NMP-1000 uten videre plukke opp forbindelsen slik at du kan spille av mp3-filer eller videofilmer uten å gå veien om pålogging eller liknende. 
+
+Avspilling 
+
+Vi har kastet de fleste format vi har liggende midt i ansiktet på NMP-1000, og den har bestått de aller fleste testene med glans. 
+
+Den spiller lossless-lydformatet flac like glatt som den spiller HD-vennlige mkv-videofiler, og vi har til og med spilt av mkv-filer i 1080p fra vår nettverksdisk uten at spilleren hikket. 
+
+Også ISO-filer og DVDer som er lagt over på disk i VOB-formatet fungerer utmerket, med unntak av én ting: 
+Du får ikke tilgang til DVDens hovedmeny. 
+Dette problemet var vi også borti med WD TV, og er etter hva vi forstår ikke et uvanlig problem med denne typen mediespillere. 
+Kapittelskifte er derimot ikke noe problem. 
+
+Blu-ray-støtte 
+
+Til tross for at den spiller av DRM-frie AAC-filer kjøpt via Apples iTunes Store helt fint, vil den ikke spille av musikkfiler kodet i Apples Lossless-format. 
+
+Søkefunksjonen, spesielt for film, er meget bra. 
+Du kan selvfølgelig spole manuelt, men det er også enkelt å hoppe til bestemte tidspunkter i filmen. 
+Selv når filmen streames skjer dette nesten umiddelbart, selv om du kan oppleve forsinkelser på enkelte filmer. 
+Undertekststøtten er også utmerket. 
+
+Qnap er flinke å slippe oppdateringer av firmwaren til sine produkter, og ser ikke ut til å gjøre noe unntak med NMP-1000. 
+I den nye fastvaren som ble tilgjengelig for et par uker siden støttes nå også avspilling av Blu-ray-formatet "bdmv". 
+
+NMP støtter også de digitale lydformatene Dolby DTS og TrueHD. 
+
+Komplett NAS-disk? 
+
+Vi har allerede vært inne på at NMP-1000 kan fungere som dedikert nettverksdisk, og vi hadde håp om at det kanskje ville være mulig å erstatte NASen vi allerede har i stua med Qnaps mediespillernettverksdisk (vi har ingenting imot nye ord). 
+
+Slik blir det nok ikke. 
+Selv om NMP-1000 både kan laste ned bittorrents, fungere som FTP-server, logges på fra både New York, Oslo og Berlin samtidig, og være vertinne for websidene dine, er den ikke en fullverdig NAS - i det minste ikke i den forstand at den kan kjøre tredjepartsprogrammer. 
+
+Det er for eksempel ikke mulig å kjøre Squeezebox Server, slik du kan på allerede nevnte TS-119, og på flere andre NAS-disker fra både Qnap og andre leverandører. 
+Det er den mest åpenbare forskjellen. 
+
+Heller ikke konfigurasjonsmulighetene er like omfattende på NMP-1000 som på en NAS-disk, noe som kan være en ulempe hvis du liker å utforske utstyret du har i stua med skalpell, sag og hammer. 
+
+Konklusjon 
+
+Hvis du har lest så langt, legger du sikkert merke til at vi har unngått å nevne prisen. 
+Den bør ikke være egnet til å skremme vannet av noen, men den er høy nok til at den opprinnelige begeistringen vi har for NMP-1000 dempes noe. 
+
+Nærmere 3000 kroner må du ut med for selve boksen, i tillegg til prisen for en intern harddisk på en terabyte eller to. 
+Dermed nærmer totalsummen seg nesten 4000 kroner, som er et, tross alt, betydelig beløp for en kombinert mediespiller og NAS-disk. 
+
+Har du en NAS-disk fra før blir det enda vanskelige å se hvor NMP-1000 skal passe inn. 
+WD TV ble nylig lansert i oppgradert utgave, WD TV Live, som blant annet har Ethernet-tilkobling (test kommer snart!). 
+Prislappen på tusen kroner er ikke avskrekkende, og den snakker like godt med NAS-disken din som NMP-1000 gjør. 
+
+Hvis vi lar prisen ligge er dette likevel et svært gjennomført produkt. 
+Den spiller så å si alle kjente video- og lydformater (med et par unntak), er støysvak, og svært innbydende i bruk. 
+Som enkel NAS-disk gjør den også jobben, og selv om den kanskje ikke oppfyller kravene til de mest avanserte brukerne, vil mange av dere mene det er mer enn godt nok. 
+
+Strengt tatt er dette en ganske klar femmer, men vi ender på en sterk firer på grunn av den relativt stive prisen. 

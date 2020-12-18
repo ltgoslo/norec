@@ -1,0 +1,72 @@
+Fujitsu P27T-6
+Vi snakker STOR skjerm, og faktisk ganske rimelig 
+
+En vanlig PC-skjerm har vokst mye i løpet av de senere årene. 
+Siden LCD-skjermene ble overkommelige for omtrent 10 år siden, og så direkte billige de siste par årene, har størrelsen og antall bildepunkter gått fra 15" og 1024 x 768 punkter til 22" og 1920 x 1080 punkter (også markedsført som "full HD"). 
+Det er 2,6 ganger så mange punkter. 
+
+Formatet har også endret seg. 
+Vi har gått fra 4:3 (bredde : høyde) til 5:4 via 16:10, og til 16:9 som er dagens standard. 
+
+16:9 formatet og 1920x1080 er egentlig ikke spesielt praktisk til jobbing, formatet er derimot skreddersydd til spill og video. 
+Til jobbing og lesing av tekst er det alt for bredt og dessuten for lavt. 
+
+Det finnes derfor også skjermer i 16:10 format med oppløsning på 1920 x 1200, dette foretrekkes av mange aktive PC-brukere, men de ligger altså et stykke over 1920 x 1080 i pris. 
+
+Skal du ha stor skjerm til å boltre deg på, er det uansett en 27-tommer som gjelder. 
+
+Fujitsu P27T-6 
+
+En 27-tommer er stor (den er altså 69 cm diagonalt), men den er ikke så stor at det blir et problem å manøvrere over skjermflaten. 
+Det opplever mange på 30-tommere, som aldri slo helt an selv blant kraftbrukere med romslige budsjetter. 
+
+Oppløsningen er på 2560 x 1440 punkter, det er 4,6 ganger så mange punkter som på de gamle 15-tommerne med 1024 x 768. 
+
+Panelet er av IPS-typen (In Plane Switching) som gir nesten uforandret fargebalanse uansett fra hvilken vinkel du ser på skjermen. 
+Betraktningsvinkelen er oppgitt til 178 grader både vertikalt og horisontalt. 
+
+Vanlige LCD-skjermer gir store fargeforandringer hvis du står ved siden av en kollega og ser ned på bildet på skjermen. 
+Spesielt gjelder dette lysere rødfarger, og hud blir gjerne blå når man ser ned på skjermbildet. 
+
+Konstruksjon 
+
+Fujitsus 27-tommer er i hvit plast, med en middels bred kant rundt selve skjermflaten. 
+
+Foten er firkantet med skrånende sidekanter og rett stamme. 
+Skjermen kan vippes, heves og senkes 125 mm og i tillegg dreies rundt til høydeformat. 
+Det er også en dreieskive under selve foten. 
+I nederste posisjon er den bare noen 55 mm over bordflaten, noe som gir en behagelig nakke/hodeposisjon for brukeren. 
+
+Tilkoblingene er omfattende, med VGA, DualLink DVI, 2 x HDMI og DisplayPort for bilde, 3,5mm jack for lyd (skjermen har 2 x 2 W forsterker og innebygde høyttalere) pluss en USB hub med 4 USB ut. 
+
+Betjeningen skjer med en knapperad nedenfor nedre kant på skjermen. 
+
+I bruk 
+
+Skjermen har en jevn og god LED-bakgrunnsbelysning med svært lite lekkasjer. 
+Fargeinnstillingene forvirret oss litt til å begynne med, siden det bare er i Office-modus at du kan stille inn fargetemperaturen når tilkoblingen er DVI. 
+Med HDMI-tilkobling var den tilgjengelig også i andre modi, men da får du ikke korrekt oppløsning 
+- HDMI stopper på 1920 x 1080. 
+
+Med skjermen koblet til med DVI dual link og satt i Office modus (de andre er D-Mode, Foto og Video) og sRGB, fikk vi et utgangspunkt egnet for sammenligning. 
+
+Fargebalansen er god, men heller ørlite mot det varme, røde - noe som for de fleste er behagelig. 
+betraktningsvinkelen er topp og lysstyrken er utmerket. 
+
+Ergonomien er også mer enn godkjent, skjermen lar seg tilpasse enhver arbeidsstilling. 
+Dreieplaten under foten gjør det lett å vinkle skjermen når du f.eks. skal vise andre kolleger et skjermbilde. 
+
+Det store arealet og den høye oppløsningen gjør at du har mye plass å boltre deg på. 
+Samtidig er det ikke så stort areal å dekke at du må veive for mye med musa for å rekke over alt. 
+
+På høykant er skjermen nesten overveldende høy. 
+
+Konklusjon 
+
+Fujitsu P27T-6 er en utmerket skjerm med mange gode egenskaper både når det gjelder bildekvalitet og ergonomi. 
+
+En svært viktig egenskap er den relativt lave prisen. 
+Den lilgger flere tusen kroner under Dells skjerm som vi har testet tidligere, og kvaliteten er omtrent den samme. 
+Ingen av skjermene er uansett egnet til profesjonelt bruk i grafisk industri, men fungerer likevel ypperlig for entusiaster, kulturarbeidere og andre som trenger stor skjermplass. 
+
+Fujitsu P27T-6 IPS 

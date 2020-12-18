@@ -1,0 +1,66 @@
+MSI DR8-A
+Nå har også 8x brenneren fra MSI dukket opp, og vi har testet. 
+Kan den måle seg med den overlegne ytelsen til Plextor? 
+
+Hittil er det bare Plextor som har levert 8x DVD-brennere her hjemme, selv om både Nec og Sony har annonsert brennere som støtter denne hastigheten med levering i svært nær framtid. 
+Waitec har til og med annonsert en 16x-brenner, men levering og pris er ukjent. 
+
+LES OGSÅ: 
+
+Men MSI vil også være med i racet, med modellen DR8-A som støtter 8x på DVD+R, og vi har hatt den på testbenken. 
+
+Valg av media 
+
+OPPDATERT: 
+Da vi skulle testePlextor sin 8x brenner, var det ingen 8x plater på markedet. 
+Dette spilte imidlertid ingen rolle, fordi den var laget for å oppnå topphastigheten på tilgjengelige 4x media. 
+Dette fikk vi bekreftet, og den klarte å brenne 2 GB på 4 minutter og 16 sekunder - rundt 2 minutter raskere enn 4x-brennere. 
+Du kan lese hele testen her. 
+
+Nå er 8x DVD+R plater tilgjengelige, men vi testet først MSI-brenneren med de samme 4x platene som vi brukte på Plextor. 
+
+Lesing og ripping 
+
+Før vi testet brenning, testet vi lesing av DVD og CD-plater samt ripping av musikk-CD. 
+Her fikk vi gode resultater, med en topphastighet på 5 744/KB sekund på CD, og en gjenomsnittshastighet på 25.2X 
+(3 780 KB/sekund). 
+DVD lesehastigheten steg jevnt utover platen og kom opp i hele 12 711 KB/sekund på slutten. 
+Dette gir et gjennomsnitt på 6,1X. 
+
+Ripping av musikk klarte den på 2 minutter og 43 sekunder, som er en god tredje plass. 
+
+Brenning 
+
+Brenning av CD er spesifisert til 40x, og den klarte testfilen på 3 minutter og 11 sekunder, som er andre plass etter begge Plextor sine brennere som deler førsteplassen med 2 minutter og 58 sekunder. 
+
+Brenning av 2 GB DVD-R på 4x klarte den på 7 minutter og 32 sekunder, som er midt på treet. 
+
+Overskriving av DVD+RW på 4x var raskere, her klarte den 2 GB filen på 7 minutter og 5 sekunder, og dette er 51 sekunder raskere enn Plextor! 
+
+Her brukte Plextor aøtså 7 minutter og 56 sekunder, mens 2,4x brennerne bruker rundt 11-12 minutter på den samme jobben. 
+
+Men hva med 8x brenning av DVD+R? 
+Klarte MSI å utkonkurrere Plextor her også? 
+Dessverre, den var sjanseløs. 
+Til tross for at Nero og brenneren var enige om å brenne på 8x var raskeste vi målte på 4x plater 5 minutter og 59 sekunder, og det er langt unna de 4 minutter og 16 sekundende vi tidligere klokket inn Plextors 8x brenner på. 
+
+Men hva med 8x plater? 
+Brenning av vår 2 GB fil brukte fremdeles 5 minutter og 59 sekunder, altså ingen forskjell. 
+Var det først ved lengre filer at den høye hastigheten kom inn i bildet? 
+
+Vi testet så brenning av 4 GB på 4x, det tok 13 minutter og 33 sekunder. 
+Men på 8x var vi nede i 9 minutter og 58 sekunder! 
+Tre og et halvt minutt bedre, det er absolutt noe å ta med seg. 
+Likevel er det et par minutter svakere enn Plextor, som kom i mål på 7:59 på brenning av 4 GB. 
+
+Så MSI DR8-A 8x kommer først til sin rett når du begynner å fylle opp platen. 
+
+Programvare 
+
+Programvaren er den samme som mange andre leverandører tilbyr, og består av Nero versjon 5 for brenning, PowerDVD for avspilling av DVD, og Sonic MyDVD og ArcSoft ShowBiz for redigering og brenning av video. 
+En utmerket samling programvare. 
+
+Konklusjon 
+
+Brenneren er jevnt over blant de raskeste, og svært rask på DVD+RW. 
+Den er dessuten vesentlig rimeligere enn Plextors 8x brenner. 

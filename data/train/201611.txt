@@ -1,0 +1,126 @@
+Dell Alienware M18x
+Er dette verdens raskeste bærbare PC? 
+Vi har testet. 
+
+Ikke alle bryr seg om budsjetter når det skal kjøpes inn ny PC, men skal ha det beste, koste hva det koste vil. 
+Man kan - og bør - stille spørsmålstegn ved en slik holdning, men at det fortsatt er et marked for dyre PC-er er hevet over en hver tvil. 
+De fleste av de riktig kostbare PC-ene befinner seg i gamer-segmentet. 
+
+Dell Alienware M18x hører definitivt til her, og byr på en helt absurd PC-kraft. 
+Maskinen får samtidig stryk på portabilitet, men det er naturligvis ikke de mest mobile brukerne Dell har hatt i tankene da de utformet maskinen. 
+
+Den er nemlig et beist. 
+Vekten vår går ikke lenger enn til 5 kg, men denne maskinen veier langt mer; 5,41 kg, for å være nøyaktig. 
+Den er mer enn 5 cm tykk, 32,2 cm dyp og 43,6 cm bred. 
+I tillegg kommer en 240 Watts strømforsyning på 1,6 kg. 7 kg i sekken anbefales ikke. 
+
+Dette er rett og slett en PC som trives best i ro. 
+Og med strømpluggen tilkoblet. 
+Mer om det senere. 
+
+Fra 20.000 til 60.000 kroner 
+
+Med unntak av størrelse og vekt kan maskinen skreddersys etter behov - og lommebok. 
+Den billigste utgaven koster like under 20.000 kroner. 
+Da må du nøye deg med en Core i7 2670QM-prosessor, Geforce GTX 560M grafikkort, 4 GB RAM og en harddisk på 750 GB. 
+Alle som har fulgt med i timen vet at selv med den mest beskjedne utrustningen er dette potente saker. 
+Skjermen er i alle tilfelle blank, hele 18,4 tommer stor, av meget tilfredsstillende kvalitet og oppløsningen er selvfølgelig 1920 x 1080 piksler, bedre kjent som full HD. 
+Ikke 3D-støtte, men det bryr i hvert fall ikke vi oss om. 
+
+Men dersom man tar gaming på alvor er det ikke noe problem å pumpe maskinen full av det beste på markedet, og det er nettopp det Dell har gjort med vårt testeksemplar. 
+Dette er en PC på steroider - for å si det mildt, ifølge Dell selv snakker vi om verdens kraftigste bærbare PC. 
+Hør bare her: 
+
+Intel Core i7 2960XM prosessor, 8 MB hurtigbuffer 2 stk Nvidia Geforce GTX 580M grafikkort i SLI, hvert med 2 GB RAM 18,4" (47 cm diagonalt) blank skjerm, full HD-oppløsning 16 GB RAM, 4 x 4 GB 2 stk SSD-disker, hver på 256 GB Integrert 3 megapiksels webkamera Integrert 5.1-lydsystem fra Klipsch Windows 7 Home Premium 64 bit Pris: 
+48 260 kroner 
+
+her 
+
+Her er det ikke spart på noe, med unntak av minnemengden, som riktig nok kan oppgraderes til 32 GB - og dermed gjør PC-en noen tusenlapper dyrere - uten at vi tror det ville gjort store utslag på ytelsestestene. 
+Og så kan man kanskje innvende at maskinen bare har slot-in DVD-drev og ikke Blu-ray, men også dette er en opsjon for den som ønsker seg "alt". 
+
+Eksteriøret 
+
+PC-en fås i svart eller rødt, og lokket og sidene er dekket av metall. 
+Undersiden er i plast, og her finner du også fire luftinntak med tilhørende vifter, i tillegg til en basshøyttaler. 
+Luften blåses ut i bakkant. 
+
+Maskinen har et rikholdig utvalg av tilkoblinger på sidene, som inkluderer både VGA, HDMI inngang (1.3), HDMI utgang (1.4), Mini Display-port, 2 stk USB 3.0-porter, 2 stk USB 2.0-porter, PC card-spalte, minnekortleser for de fleste aktuelle kort, to øretelefonutganger (minijack), egen optisk S/PDIF-utgang, og Gigabit kablet nettverkskontakt. 
+Midt bak sitter strøminntaket, absolutt en smart plassering, den kommer aldri i veien. 
+
+Det baklyste tastaturet oser av gaming, og du kan velge mellom flere forskjellige farger på forskjellige soner, selvsagt myntet på gamere som ønsker å skreddersy oversikt over kontrollene. 
+
+Tastaturet er slett ikke ille å skrive på heller, for den som ønsker å bruke PC-en til å skrive skoleoppgaven sin, for eksempel. 
+Litt svikt på midten er det, og vi kunne ønsket oss et tastatur med dedikerte norske Ø og Æ-taster - spesielt i denne prisklassen. 
+Men igjen - det er neppe noe fanesak for gamere. 
+
+Ytelse av en annen verden 
+
+Det er imidlertid neste punkt på agendaen, som er ytelse. 
+La oss ta det fra starten: 
+Det tar 19 sekunder fra du trykker på power-knappen, til maskinen er klar til dyst. 
+Av disse er 6 sekunder fra før Windows starter å laste. 
+Det tar altså 13 sekunder å laste Windows 7, noe som er raskere enn alt annet vi har testet, både stasjonært og bærbart. 
+
+Windows egen Opplevelsesindeks gir oss en indikasjon på hva vi har med å gjøre. 
+For ordens skyld nevner vi at målingen går fra 1,0 (svakest) til 7,9 (sterkest). 
+Alle målepunktene ligger altså og dupper helt oppunder topp-score: 
+
+Prosessor: 7,6 Minne (RAM): 
+7,7 Grafikk: 
+7,8 Spillgrafikk: 
+7,8 Primær harddisk: 7,9 
+
+Vi kjørte de vanlige ytelsesmålingene våre i Passmark PerformanceTest 7.0, og i diagrammet under har vi sammenlignet totalytelsen mot tall fra de raskeste PC-ene vi har testet tidligere. 
+Det er nesten til å gråte av. 
+Alle andre gaming-PC-er vi har testet blir grundig parkert. 
+Totalscore ble forresten 2816.7: 
+
+Vi finner følgende del-ytelser, og her har vi nok en gang sammenlignet med tall fra de raskeste PC-ene vi har testet tidligere: 
+
+Prosessorytelsen levner ingen som helst tvil. 
+Dette er toppklasse: 
+
+Grafikkytelse 
+(Vi tror ikke Passmark måler SLI-effekten godt nok, så Grafikkytelses-tallene må tas med en klype salt. 
+Sannsynligvis skal tallet være langt høyere på denne PC): 
+
+SSD-ytelsen sammenlignet med en gjennomsnittlig rask harddisk. 
+Hvem sa at SSD ikke er fremtiden?: 
+
+3D Mark og PCMark 
+
+Vi kjørte også de meget utbredte og anerkjente ytelsestestene fra Futuremark, henholdsvis 3DMark 2011 og PCMark 7, og fikk henholdsvis resultatene P5736 og 5000. 
+De av dere som er interessert i detaljene, for eksempel for å sammenligne dem mot egne PC-er, kan laste ned detaljerte ytelsestall ved å klikke lenkene under. 
+
+Det finnes ikke et eneste spill på markedet som ikke vil gå silkeglatt på denne PC-en - i full HD og med alle detaljer aktivert. 
+Ikke i dag, heller ikke i morgen. 
+Dette er det råeste vi har sett noen gang hva angår ytelse og tilkoblingsmuligheter, og sånn sett får du ikke noe mer fremtidsrettet akkurat nå. 
+
+Men noen PC til å ha ute i felten er det ikke. 
+Vekten er en ting, batterilevetiden er en annen. 
+Du kan riktig nok skru ned ytelsen for å vinne tid, for eksempel kan du skru av de dedikerte grafikkortene og bruke den integrerte Intel-grafikken, men våre målinger tyder ikke på at du kan bruke maskinen særlig lenger enn 2-3 timer på batteri, med variert bruk, uansett hvor forsiktig du er. 
+Spiller du tunge spill, bør stikkontakten alltid være innen rekkevidde. 
+
+Merk også at PC-en suser en del under belastning, og selv om lyden i de innebygde høyttalerne er blant de aller beste vi har hørt på bærbar PC, er eksterne høyttalere nesten alltid å foretrekke. 
+Selv enkle 5.1-sett som regel langt bedre lyd enn de interne høyttalerne, dette har mye med størrelse å gjøre. 
+Det handler om dynamikk, dybde og bass, og at de fysiske lover er vanskelig å bryte. 
+
+Konklusjon 
+
+Dette er sannsynligvis noe av det mest ufornuftige produktet vi har testet på lang tid, men heldigvis skal ikke alt på denne kloden være like fornuftig. 
+Du verden så morsomt det har vært å leke seg med denne råskapen den siste uken. 
+
+Og vi må legge til at det ikke er veldig mye du skal gå ned på spesifikasjonene før prisen blir en helt annen. 
+Klarer du deg med en harddisk istedet for to SSD-er, og velger du nest-raskeste prosessor, ja, så kan du kutte bortimot 20.000 kroner. 
+Men selv da er dette en maskin for de aller minst gjerrige blant oss. 
+
+Og til dere rike, kjøpekåte gamere: 
+Dere trenger ikke lete lenger. 
+Det blir ikke fetere enn dette. 
+Sekseren på terningen er umulig å komme utenom. 
+
+Ble du fristet? 
+Du kan skreddersy PC-en hos Dell. 
+
+Takk til Dell som lot DinSide være blant de første magasinene i verden som fikk teste en toppspekket M18x. 

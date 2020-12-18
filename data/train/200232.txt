@@ -1,0 +1,106 @@
+Cinet SmartBook 1200
+Etter å ha testet Smartbook 1100 ble vi overbevist om at Cinet for alvor er på vei tilbake som en tung og viktig aktør på det norske bærbar PC-markedet. 
+Nå har vi også testet storebror 1200, som er en kraftigere løsning som i tillegg kan skreddersys. 
+Hva sier vi nå? 
+
+Cinet er på offensiven for tiden, og har lansert to bærbare PCer basert på Intel Centrino-plattformen. 
+Den rimeligste modellen er en ultraportabel lekkerbisken som bærer navnet Smartbook 1100. 
+Den gjorde et meget godt inntrykk på oss, Les testen her. 
+
+LES OGSÅ: 
+
+Nå har vi også sett nærmere på storebror Smartbook 1200. 
+Dette er en kraftigere maskin med blant annet større skjerm og langt kraftigere grafikkløsning. 
+
+Her er en rask oversikt over vårt testeksemplar: 
+
+Intel Pentium M 1,3 GHz* 
+
+256 MB DDR SDRAM* 
+
+15" TFT-skjerm, 1400 x 1050 punkters oppløsning 
+
+ATI Mobility Radeon 9000 grafikk (64 MB) 
+
+40 GB harddisk, 4200 rpm* 
+
+Kombinert DVD-leser/CD-brenner (8x DVD, 24x 10x 24x CD) 
+
+WLAN 
+
+Infrarød port i fronten 
+
+4 x USB 2.0-porter 
+
+4in1 minnekortleser i front (SD/MMC/SmartMedia/MemoryStick) 
+
+Firewire-port 
+
+1000/100/10 Mbit nettverk 
+
+56 Kb modem 
+
+1 x PCMCIA 
+
+Kontakt for portreplikator 
+
+*Kan skreddersys 
+
+Vi merker oss først og fremst grafikkbrikken, som er den raskeste på markedet i skrivende stund, samt støtten for Gigabit-LAN (10 ganger raskere nettverk). 
+Sistnevnte er faktisk første gang vi har sett på en bærbar PC. 
+
+I tillegg til ovennevnte har PCen både VGA med TV-utgang, parallellport, samt lyd inn- og utganger. 
+Det er med andre ord en PC som er helt i toppklassen med hensyn til utstyr og tilkoblingsmuligheter. 
+
+Smartbook 1200 kan skreddersys, og leveres med prosessorhastigheter fra 1.3 - 1.7GHz, minne fra 256MB - 1GB og harddisk-kapasiteter på 30/40/60GB. 
+PCen leveres med Windows XP Professional, samt programmer for CD-brenning og DVD-avspilling. 
+Dessuten merker vi oss at PCen leveres med en praktisk, godt polstret bæreveske. 
+Bra! 
+
+Samler støv 
+
+Designmessig skiller de to modellene seg kraftig fra hverandre, og bærer derfor ikke preg av å være to modeller fra samme serie. 
+Vi ble nokså forbauset over at Cinet har valgt et chassis med horisontale striper preget inn i plasten på innsiden på 1200; disse kan bli reale støvsamlere etter hvert, noe som ikke vil være særlig lekkert. 
+
+For øvrig er det lite å sette fingeren på; Lokket er i børstet (og stripet) metall, og sørger for god beskyttelse for skjermen. 
+Samtlige tilkoblingspunkter har logiske og "riktige" plasseringer. 
+Et sett stereohøyttalere er plassert i fronten, disse formidler lyd, men er uegnet til musikk, i likhet med de fleste høyttalerløsninger for bærbare PCer. 
+
+Tastaturet er stort og meget godt og stille å skrive på. 
+På grunn av størrelsen er vi mindre kritiske til at det er plassert taster til høyre for slette- og returtaster, noe som på små tastaturer ofte kan føre til at man trykker på feil tast. 
+Vi merker oss at tastaturplaten gynger litt på høyre side, men ikke plagsomt. 
+
+Skjermen er gjennomsnittlig lyssterk, litt mindre lyssterk enn skjermen hos lillebror Smartbook 1100, men god nok under de fleste forhold. 
+Oppløsningen er også her på 1400 x 1050 punkter, som vi synes er ideell for denne skjermstørrelsen. 
+Noen vil kanskje innvende at skriften blir litt for liten, men disse kan eventuelt øke skriftsstørrelsen i operativsystemet. 
+
+Nesten ikke lyd 
+
+I likhet med Centrino-modellene Zepto Znote 4100 og Acer Travelmate 800, er Cinet Smartbook 1200 utstyrt med en av markedets kraftigste grafikkbrikker for bærbare PCer fra ATI. 
+Alle tre maskiner oppfører seg nøyaktig likt med hensyn til viftestøy. 
+I klartekst betyr det at viften kun starter i de mest krevende situasjoner (for eksempel 3D-spilling), for så å avslutte umiddelbart etter at oppgaven er utført. 
+Viften er dessuten støysvak, så her er liten grunn til kritikk. 
+
+Grafikkytelsen er rett og slett enestående god. 
+Det merkes i våre 3D-tester, der vi ikke opplevde tilløp til "hakking" i det hele tatt. 
+Ytelsestall på over 7000 i 3DMark 2001 er da også sjelden kost på bærbar-fronten. 
+Til sammenligning oppnådde Smartbook 1100 rundt 1500 poeng, og da snakker vi tross alt om brukbar 3D-ytelse for vanlige PC-brukere. 
+
+Batterilevetidstesten ble derimot ikke så positiv som vi hadde sett for oss; med WLAN-støtten skrudd av varte batteriet i rundt 3 1/2 time. 
+Det er kortere levetid enn de fleste Centrino-maskinene vi har testet, men bedre enn de fleste PCene med Pentium 4-prosessor. 
+
+De øvrige ytelsene bød ikke på nevneverdige overraskelser, den opplevdes som kjapp og fin i alle situasjoner. 
+For flere detaljer omkring ytelse og egenskaper, klikk på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Utvalget av Centrino-PCer begynner å bli omfattende, og prisene er helt klart på vei nedover. 
+Cinet Smartbook 1200 er blant de beste kjøpene akkurat nå, dersom du er ute etter både rå grafikkytelse og mange tilkoblingsmuligheter. 
+
+Ser vi bort fra den omtale pregingen i plasten, samt batterilevetid som er noe under det vi hadde forventet, er dette en PC som holder mål i alle bauger og kanter. 
+Og ja, 1,3 GHz holder for de fleste dødelige, og tilsvarer 2 GHz dersom prosessoren hadde vær av typen Pentium 4. 
+
+Siste før sommerferien 
+
+Med denne testen tar bærbar PC-redaksjonen sommerferie. 
+Men følg med - i neste uke kåres testvinnerne blant PCene som er testet så langt i år! 

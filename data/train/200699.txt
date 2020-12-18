@@ -1,0 +1,35 @@
+Orbit Downloader
+Enten du vil laste ned videoer, lyd eller annet materiale, har vi sjelden sett en mer fullkommen løsning som Orbit. 
+Gratis er det også. 
+
+Orbit Downloader er en såkalt download manager, altså et program som håndterer prosessen rundt nedlasting av materiale fra Internett. 
+
+Dette er nemlig ikke alle nettlesere som har en like elegant måte å løse dette på, noe som gjerne kommer til uttrykk når du prøver å laste ned mange filer samtidig, eller når en nedlasting feiler. 
+
+Opptil 500% raskere nedlasting 
+
+Med Orbit Downloader er det enkelt å gjenoppta nedlastinger som av en eller annen grunn blir avbrudt. 
+Du er også sikret maksimal nedlastingshastighet takket være at programmet deler tilgang til filer i flere tråder. 
+
+Når nedlastingen er ferdig kan du enkelt organisere dem i kategorier, slik at du enkelt finner tilbake til dem når du skulle trenge det. 
+Du kan også bestemme at filene ikke skal lastes ned før på natten, og at datamaskinen skal skru seg av når nedlastingen er ferdig. 
+
+Du kan dessuten laste ned materiale som normalt ikke er så enkelt å få lastet ned, som for eksempel Flash- og Windows Media-videoer. 
+Når du ser en slik video, beveger du musepekeren over den, og et lite nedlastingssymbol vil dukke opp. 
+
+En egen verktøylinje følger også med, og dersom du skulle ønske å bruke den, vil videoklipp på nettsider du besøker være tilgjengelig for nedlasting gjennom denne: 
+
+Denne delen av Orbit er avhengig av modulen Grab ++, som fungerer bra i de fleste tilfeller, men som ved et par anledninger førte til at Internet Explorer frøs under avspilling av videoklipp (fra NRK.no). 
+
+Tar over rollen - hvis du vil 
+
+Når du installererer Orbit Downloader kan du enkelt be programmet om å "ta over" håndteringen av nedlastinger, enten du bruker Internet Explorer, Firefox, Opera eller Google Chrome, slik at nedlastingsprosessen blir lik uansett nettleser som blir brukt. 
+
+Du kan også velge å ikke ha noen integrasjon, men dra og slippe nedlastingslenker til et lite symbol (Drop Zone) som alltid ligger fremst på skjermen. 
+Så snart man har gjort det, dukker følgende boks opp, som lar deg skreddersy nedlastingen: 
+
+Orbit Downloader er uansett svært grei å forholde seg til. 
+Det kommer på norsk, og har ikke noen prangende reklamer og farger, til tross for at programmet er 100% gratis å bruke. 
+
+For alle som ønsker kontroll over nedlastingene, er Orbit Downloader blant de aller smarteste valgene vi har sett. 
+Mer informasjon og nedlasting på orbitdownloader.com. 

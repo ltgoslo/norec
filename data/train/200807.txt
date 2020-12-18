@@ -1,0 +1,61 @@
+AOC Portátil (E2251Fwu)
+Ingen stikkontakt, ingen store, klønete kontakter og stive uhåndterlige kabler! 
+
+Skjermplass er viktig, og har man først vent seg til å bruke flere skjermer blir det trangt å klare seg med én. 
+Har man en fast arbeidsplass er det uproblematisk, men hvis man stadig flytter seg blir det verre. 
+Det er greit med en bærbar man bare kan klappe sammen og fortsette å jobbe når man har satt seg ned et annet sted. 
+Men en eventuell ekstra skjerm er det få som gidder å dra med seg. 
+
+Men AOC Portátil (E2251Fwu) løser dette problemet! 
+
+En ekte USB-skjerm 
+
+Her snakker vi om en ekte USB-skjerm i dobbelt forstand. 
+Den har bare USB-tilkobling, ingen annen tilkobling er nødvendig. 
+
+Riktignok er det en spesiell USB-kabel som følger med, med to plugger som skal inn i PC-en. 
+Det er for å kunne hente ut mer strøm enn 500mA, som er maks av det en vanlig USB-port kan levere. 
+Samme type kabel er også vanlig på eksterne kabinetter til små 2,5-tommers harddisker. 
+
+Men det er ikke bare strøm som går i kabelen, der går også signalet fra PC-en. 
+Hvis det av en eller annen grunn ikke skulle være tilstrekkelig strøm tilgjengelig fra USB-portene kan man koble til en vanlig 5V DC strømforsyning. 
+
+Forøvrig er skjermen svært slank og elegant, kan vippes, men ikke dreies og heller ikke justeres i høyden. 
+
+Installasjon 
+
+For å få bilde på skjermen må du installere en driver, enten du vil bruke skjermen på en Mac eller en PC. 
+Begge driverne ligger på en CD, men hva gjør du hvis maskinen din ikke har optisk drev (noe stadig færre PC-er kommer med)? 
+Løsningen er nær: 
+Når maskinen er koblet til internett vil driveren automatisk bli lastet ned fra DisplayLink når du plugger i skjermen. 
+Etter en liten stund avhengig av nettforbindelsen og litt blinking på skjermene dukker bakgrunnen opp på AOC Portátil og den er klar til bruk. 
+
+Den dukker opp under kontrollpanelet Skjermoppløsning hvor du kan justere plassering til høyre, venstre eller over i forhold til eksisterende skjerm(er). 
+
+DisplayLink skrev vi første gang om i november 2007 i en test av en DisplayLink-basert skjerm fra Samsung. 
+Siden den gang har det skjedd mye både med PC-ene, operativsystem og ikke minst skjermteknologien. 
+Grunnen til at det er mulig å lage en skjerm som AOC Portátil er at det brukes LED bakgrunnsbelysning og generelt nyere kretser med lavere strømforbruk. 
+
+Bildekvalitet og ytelse 
+
+Selve skjermen er en TN-skjerm med helt ordinære ytelser. 
+Den er helt utmerket til kontorbruk både på jobb og hjemme, men har problemer med betraktningsvinkelen. 
+Så lenge du ser rett på er skjermen helt utmerket til generell bruk. 
+
+Skjermen klarer også fullskjerm video i HD-oppløsning, men sliter litt med å få til helt jevn avspilling - det lugger ikke, men det er litt varierende flyt. 
+
+Men denne skjermen er ikke påtenkt de krevende bruksområdene som gaming og tung multimedia. 
+Det er en ekstraskjerm som er lett å koble til og fra, og som er lett å ta med seg. 
+
+Konklusjon 
+
+Skjermen er en ypperlig tilleggsskjerm både både for de som bruker bærbar og de som bruker stasjonær. 
+DisplayLink-grafikkdriveren og USB-forbindelsen erstatter skjermkortet og har sine begrensninger, men dekker likevel de aller fleste bruksområder. 
+
+Vekten på 2,6 kg og den super-enkle installasjonen gjør den svært fleksibel i de fleste sammenhenger. 
+
+AOC E2251FWU 
+
+(Den norske prisen er ikke satt enda, men internasjonalt ligger den på 160 USD. 
+Vi antar at det vil bli et sted rundt 1500 pluss frakt etc. 
+Prisinfo vil bli oppdatert.) 

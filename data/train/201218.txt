@@ -1,0 +1,41 @@
+EDIMAX 3G-6200N
+Kjapp og billig, og støtter 3G-modem i tillegg! 
+
+Trådløse rutere finnes i stort utvalg, og omtrent alle dekker de grunnleggende behovene. 
+Dette inkluderer hva som støttes utenfor ruteren, og hvordan den håndterer forskjellige typer trafikk og bruksområder. 
+
+Dyrere rutere har gjerne raskere prosessorer som brukes til å håndtere stor trafikk og respondere raskt. 
+Det er gjerne de som spiller FPS-spill over nett og i tillegg laster opp/ned store datamengder som har behov for slike. 
+
+Men for fotgjengerne blant nettbrukerne er farts- og responsbehovet mindre, og man kan dermed prioritere andre behov i stedet. 
+
+Støtter både kabel og 3G 
+
+Edimax er en produsent av rutere som tilbyr litt annerledes løsninger enn de mest kjente og utbredte merkene. 
+På testbenken har vi hatt modellen 3G-6200N som har en interessant vinkling i bruksprofil. 
+
+I utgangspunktet er det en helt ordinær ruter, som støtter den delen av 802.11n standarden som kører på 2,4 GHz. 
+Den er dermed kompatibel med det aller meste av trådløse klienter. 
+De mer eksotiske variantene som jobber på 5 GHz (802.11a og 802.11n). 
+
+Boksen har én utvendig antenne, 4 LAN-porter på 10/100 Mbit og en WAN port. 
+I tillegg er det en USB-port som støtter UTMS/HSDPA/CDMA mobile tjenester. 
+Det betyr at du kan sette i et USB 3G-modem rett i ruteren, så kan flere dele denne nettforbindelsen. 
+
+Dette er praktisk når du er på et sted uten nettverksforbindelse via ADSL eller annen kabling, f.eks. på hytta. 
+
+Det er også svært praktisk som backupløsning, hvis den ordinære nettverksforbindelsen skulle falle ned. 
+
+For ordens skyld: 
+3G-maskinvaren og abbonementet følger ikke med, det må kjøpes separat. 
+
+God trådløs 
+
+Som trådløs ruter fungerte den meget bra. 
+Den ligger i det øvre sjikt blant trådløse rutere vi har testet, og leverte god hastighet ned to etasjer i vårt trehus. 
+
+Konklusjon 
+
+Ruteren fungerer utmerket til normalt nettbruk og har god ytelse mellom trådløse og kablete klienter. 
+
+Støtte for 3G og kablet nefforbindelse gir i tillegg stor fleksibilitet om dette er viktig for deg. 

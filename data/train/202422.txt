@@ -1,0 +1,137 @@
+LG Optimus Black P970
+Det er ikke tvil om at skjermen på denne Android-mobilen er rå, men en mobil er som kjent mer enn skjermen. 
+
+Nå som det føles som det kommer rundt ti nye Android-mobiler i uka begynner det å bli vanskelig å skille seg ut. 
+Du har råtasser som Samsung Galaxy S II, som blåser alle andre mobiler av banen både på fart, vekt og skjermkvalitet, og så har du gjerne budsjettmobiler som ZTE Blade, som gjør det bra på pris, veldig bra på skjerm, og - så vidt - greit nok på alt det andre. 
+
+Mellom disse to ytterpunktene finnes det veldig mange bra mobiltelefoner, men de er ikke nødvendigvis oppsiktsvekkende. 
+De er forretten i et bryllup, men ikke hovedretten på Bølgen & Moi. 
+Så hva kan en gjøre for å skille seg ut? 
+
+LGs Optimus Black har et så tøft navn at den ikke ville hatt problemer med å bli assosiert medlem av AC/DC eller Satyricon, og det er derfor passende at den skrur skjermen på full guffe for å vise seg fram. 
+Dette skal være den mest lyssterke skjermen på en mobiltelefon noensinne, som ved hjelp av ny skjermteknologi og med sine 700 nits (måleenhet for lysstyrke) blant annet overgår iPhone 4 (571 nits) og allerede nevnte Galaxy S II (rundt 300 nits) med solid margin - ihvertfall på papiret. 
+
+For betyr det noe i praksis, når vi står ute i sollyset og forsøker å finne ut hva det står i den siste tekstmeldingen vi fikk? 
+
+Først litt om innsiden 
+
+Vi skal komme tilbake til den lysende og fire tommer store skjermen etterhvert, men det er nyttig å ta en kikk på resten av telefonen først. 
+
+Skuffende nok finner vi ikke aller siste versjon av Android på innsiden. 
+Det er med andre ord versjon 2.2 som trekker i trådene i vårt testeksemplar, men vi har fått bekreftelser fra LG om at versjon 2.3 skal være på vei "i løpet av sommereren/høsten". 
+Vi stusser uansett litt over at LG ikke klarer tilpasse Android raskt nok på sine mobiler. 
+Heller ikke LG Optimus 2X, den aller første såkalte tokjerneprosessor-mobilen som vi testet i mars i år, er klar med Android 2.3 - der sies det ifølge LGs danske nettsider at oppdateringen blir klar "i løpet av sommeren". 
+
+De mest åpenbare manglene i versjon 2.2 er blant annet den oppussa klipp-og-lim-funksjonen, den fin-fine oversikten over hva som bruker hvor mye batteri (versjon 2.3 er også bedre optimalisert for å spare batteri), og snarveien til oversikten over hvilke applikasjoner som er aktive akkurat nå, og hvor mye minne de eventuelt spiser opp. 
+I tillegg mangler norske bokstaver på LG-tastaturet, men dette kan du løse ved å bytte ut Android-tastaturet. 
+
+Vi liker derimot utseendet til Optimus Black godt. 
+Den er slank, relativt lett, og den nesten polerte for- og baksiden klarer mer eller mindre å overdøve plastfølelsen. 
+
+Og så: skjermen 
+
+For å ta det mest åpenbare først: 
+Skjermen er knallbra. 
+Oppløsningen på 800x480 fordelt på fire tommer gir ikke helt samme pikseltettheten som på iPhone 4 (960x640 fordelt på 3.5 tommer), men det blir flisespikking i denne sammenheng. 
+
+Lysstyrken skal altså være rekordsterk, og skrur du den på maks i et mørkt rom har du en fin lommelykt i hånda. 
+
+Det er likevel i direkte sollys de fleste vil ha bruk for mer lysstyrke. 
+Alle som har ligget på stranda med mobilen vet at det er en sikker måte å gjøre den nesten ubrukelig. 
+Digitale skjermer er ikke uten videre laget for ekstreme solforhold, og det er altså det LG har ønsket å gjøre noe med med denne mobilen. 
+
+Vi er likevel ikke overbevist. 
+Joda, det er en liten forskjell fra andre mobiler med mindre lyssterke skjermer, men det er ikke den revolusjonen vi hadde håpet på. 
+Det er strengt tatt litt deprimerende, for det demonstrerer hvor utrolig mye lys som er nødvendig for å forvandle en mobil fra bare å være stuevennlig til å være dugelig også i sterk sol. 
+
+Et annet irriterende moment er den automatiske lysstyrkereguleringen. 
+Der har noen tatt i litt for mye da de stramte de siste skruene, den er nemlig altfor følsom. 
+Vi har flere ganger opplevd at lysstyrken justeres kontinuerlig (og merkbart) selv når mobilen holdes i samme stilling på samme sted, men også i vanlig bruk er justeringen påtakelig. 
+Det endte med at vi skrudde den av, noe som naturlig nok gjør at strømsparingen blir hakket dårligere. 
+
+Her er alt det andre du får med 
+
+LG har, som mange andre Android-mobilprodusenter, laget egne varianter av grensesnittet, selv om kjernen selvfølgelig er Android. 
+Én av disse vriene er de fire ikonene nederst på hjemskjermen. 
+De er, som vanlig, synlig uansett hvilken av de sju hjemskjermene du befinner deg på. 
+Det likner veldig på iPhone og iPads hjemskjermer, men det skal vi ikke henge oss opp i. 
+Poenget er at det funker. 
+
+Ikonene kan også byttes ut med egne favoritter. 
+
+LG har tidligere fått kritikk for å være litt kjedelig i menyuttrykket, og sammenlikner du med HTCs Sense-teknologi er dette - kanskje med unntak av for eksempel vær-appen - langt fra like flashy. 
+Vi synes derimot sakligheten kler mobilen godt. 
+
+Lite lagringsplass 
+
+Har du planer om å lagre mye musikk, bilder og/eller video må du sørge for å få med et ekstra minnekort samtidig som du kjøper mobilen. 
+Med 2GB er lagringskapasiteten beskjeden (1,1GB kan brukes til interne apps). 
+Heldigvis koster ikke et 16GB micro-SD-kort mer enn et par hundre kroner, så ekstrainvesteringen vil ikke knekke økonomien. 
+
+LGs medfølgende tastatur er noe av det trangeste vi har sett, til tross for at det har fire tommer skjermplass å boltre seg på. 
+Den nederste raden er så full av taster at både mellomrom og punktum har blitt mindre enn vi liker, og spesielt sistnevnte vil nok by på utfordringer for de som sliter med håndtverkerfingre. 
+
+Som vi allerede har nevnt mangler også tastaturet umiddelbar tilgang til norske bokstaver, men du kan selvfølgelig laste ned andre tastatur fra Android Market. 
+
+Fortsatt epost-trøbbel 
+
+Vi har også merket oss enkelte pussige feil i LGs nettleser. 
+NRKs nettsider bød på de største problemene, der vi blant annet ikke kom oss videre fra mobilversjonen til den fullverdige nettutgaven. 
+Det var heller ikke mulig å besøke sidene for direktesendinger av NRK-kanalene, også her ble vi stoppet av en feilmelding. 
+Nå er ikke det siste noen katastrofe, ettersom heller ikke Android-plattformen støtter Microsofts Silverlight-teknologi - som NRK bruker i sin streamingløsning. 
+Det er likevel underlig at vi blir stoppet på nettsteder der både iPhone 4 og andre Android-mobiler klarer seg fint. 
+
+Problemene med Exchange-epost som vi skrev om da vi testet LG Optimus 2X i mars i år er heller ikke rettet opp, men ifølge LG vil dette skje i løpet av måneden. 
+Det består enkelt og greit i at førstegangssynkronisering fungerer fint, men etter det er det slutt, og brukeren får ikke lenger ny epost inn på Exchange-kontoen. 
+Dette skjer angivelig ikke med alle Exchange-brukere, men DinSide.no har opplevd det på begge de to siste LG-mobilene vi har testet. 
+
+Samtalekvaliteten er derimot utmerket, men vi har lagt merke til at høyttaleren er litt for følsom for hvor du plasserer øret. 
+Lar du mobilen gli bare litt lenger opp eller ned under en samtale vil du raskt merke at volumet blir betydelig lavere. 
+
+Levetiden på batteriet er heller ikke av de beste, men er du en moderat bruker vil den sannsynligvis holde fra morgen til kveld før du må lade - avhengig av bruk. 
+
+Rask nok - stort sett 
+
+Sammenliknet med de aller råeste Android-mobilene (LG Optimus 2X, Samsung Galaxy S II og HTC Sensation) kan du ikke forvente mirakler av en, relativt sett, beskjedent utstyrt enkjernemobil som Optimus Black. 
+Det betyr ikke at den er en sinke. 
+
+I daglig bruk får du mer enn nok kraft til at du ikke merker særlig motstand mens du blar deg gjennom menyer, åpner apper, twitrer eller sjekker epost. 
+Dette er tross alt oppgaver som ikke bør belaste mobilen i særlig grad, og LGs Android-modifiseringer framstår heller ikke like utfordrende for prosessoren som for eksempel HTCs Sense-system. 
+
+Har du Flash aktivert vil du naturligvis merke at nettleseren blir tregere både ved innlasting og navigering opp og ned nettsider, men det blir aldri plagsomt. 
+
+Videoer er derimot en annen historie, der har Optimus Black en lenger vei å gå. 
+Testvideoene våre består av en rekke vanlige og litt mer uvanlige formater, og du må forberede deg på å konvertere de tyngste videoene før de eventuelt overføres til mobilen. 
+Black sliter med overraskende mange formater og oppløsninger, og er ikke i nærheten av hva for eksempel Samsung støtter av video med sin Galaxy-serie. 
+
+Kamerakvalitet 
+
+Optimus Black gjør en helt grei jobb med å ta bilder, og ligger over gjennomsnittet for kamerakvaliteten for smartmobiler. 
+Støynivået er akseptabelt, også innendørs, og fargebalansen er stort sett overraskende bra. 
+
+Autofokusen er også ganske rask, men ikke rask nok til at barn og andre gjenstander som beveger seg bare noen få hakk tregere enn lyset lar seg fange uten å bli veldig uskarpe. 
+Det er som forventet på et mobilkamera. 
+
+Videokvaliteten holder ikke samme nivå som resten av kameraet. 
+Videoene er riktignok i HD (720p), men komprimeringen er tidvis litt for synlig, og vi opplevde også hakking i avspillingen som åpenbart har oppstått under innspilling. 
+Formatet på videoen er pussig nok også feil. 
+Det skal være 1280x720, men ifølge QuickTime spilles videoene av med en oppløsning på 1676x650. 
+Videoene er rett og slett for brede, eller for lave om du vil. 
+
+Du kan se bilder i full størrelse fra Optimus Blacks kamera her: 1, 2, 3, 4, 5. 
+
+Konklusjon 
+
+Den korte oppsummeringen er at det blir litt for mye pirk med Optimus Black. 
+
+Selv om den i løpet av "sommeren eller høsten" vil bli oppgradert til siste versjon av Android, kjører den per akkurat nå versjon 2.2. 
+Den har dessuten for dårlig videokvalitet, og den er heller ikke flink til å håndtere eksterne videofiler. 
+Skjermen er altså ikke så lyssterk at den revolusjonerer utebruken av mobiltelefoner. 
+
+Dette er bare noen av tingene vi har å innvende mot Optimus Black, som til tross for sylskarp skjerm ikke klarer innfri potensialet på litt for mange områder. 
+
+Vi betrakter for eksempel HTC Desire S som et bedre kjøp i samme prisklasse, den kan du lese test av her. 
+
+Klarer LG levere oppdatering til siste versjon av Android, og dessuten fikse epost-problemene, lukter Optimus Black på fireren, men slik mobilen står i dag er den rett og slett ikke fristende nok. 
+
+LG Optimus Black P970 

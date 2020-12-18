@@ -1,0 +1,78 @@
+PNY Wireless Media Reader
+Trådløs kortleser lar deg overføre bilder fra kameraet til telefonen. 
+Og mer til. 
+
+Tidligere denne måneden testet vi Eye-Fi Mobi; et minnekort du kan stikke inn i et «vanlig» kamera og dermed overføre bilder til smarttelefonen, nettbrettet eller hva det måtte være. 
+
+Vi syntes imidlertid at løsningen var lite elegant. 
+Blant annet hadde man ingen mulighet i appen til å bla i bildene og velge hvilke man ville overføre; alt ble tømt over på telefonen. 
+
+Dessuten kunne hvert bilde bare overføres én gang, så for en familie på tur, der flere gjerne vil dele noen av bildene de har tatt med speilreflekskameraet med de der hjemme, ble dette høyst tungvint. 
+
+Trådløs kortleser 
+
+Med Wireless Media Reader fra PNY snus konseptet på hodet. 
+I stedet for å stikke et trådløst minnekort i kameraet, tar man heller ut minnekortet og stikker inn i den trådløse kortleseren. 
+
+Når du så slår på enheten, starter den et trådløst nettverk som man kan koble seg til fra telefonen/nettbrettet. 
+Dette tar cirka tjue sekunder. 
+Når forbindelsen er opprettet, kan man via appen til Android og iOS bla i bildene på minnekortet og overføre akkurat det man vil. 
+Så mange ganger man vil. 
+
+I tillegg kan man overføre filer fra telefonen og til minnekortet – for eksempel som en sikkerheteskopi, eller for å dele filer med andre. 
+
+Slik er appen 
+
+Appen er langt fra den mest elegante vi har sett grafisk sett – hverken på iOS eller Android. 
+Vi får litt flashback til brukergrensesnittet i mange PC-programmer for en del år tilbake, og skaperne kunne definitivt ha jobbet mer med plassering av elementene på begge plattformer. 
+iPhone 5/c/s-versjonen ser bare ut til å være strukket i høyden, der bildene ikke er kvadratiske slik vi antar at de vil være på en iPhone 4/s (vi har ikke en for hånden i skrivende stund). 
+
+Det betyr imidlertid ikke at den ikke fungerer, for her opplever vi at alt fungerer som det burde. 
+Man kobler seg til kortleseren via wifi og får da tilgang til filstrukturen på minnekortet. 
+Elementene kan tittes på ved å trykke på dem, og «manage»-knappen brukes for å kunne merke flere bilder og deretter kopiere dem over til telefonen. 
+
+Til tross for at noen utdatert utseende er appen i hvert fall lettfattelig og gjør jobben som den skal. 
+
+Appen lar deg også koble PNY-enheten på et trådløst nettverk slik at du fortsatt har nettilgang selv om du er koblet til det trådløst nettverket PNY-enheten oppretter. 
+
+Ikke bare bilder 
+
+Skjønt, man er ikke begrenset til bilder. 
+Alle filtyper kan overføres til og fra kortleseren, og dermed kan du ha med deg en liten film-/musikksamling på et minnekort. 
+
+Men – overføringshastigheten er ikke all verden, og da vi prøvde å strømme to ulike filmklipp til to ulike telefoner, stoppet begge i ny og ne for å bufre mer innhold. 
+
+Det gikk tålelig greit med én enhet, men det avhenger av bitraten på videoen. 
+På våre testklipp (filmtrailere i full HD-oppløsning) er bitraten cirka 1MB/s, og det var tilsynelatende i meste laget. 
+Etter å ha kopiert fila over til telefonen, målte vi overføringshastigheten til å være cirka 0,5MB/s. 
+Med andre ord bør du holde deg til videofiler med en bitrate lavere enn 4Mb/s (megabit) for å kunne strømme direkte. 
+
+Med i esken får du også en overgang fra micro SD til SD, samt en liten pose du kan ha den i når den ikke er i bruk. 
+Merk at kortleseren fra PNY ikke støtter andre korttyper som CompactFlash eller MemoryStick, men SD har uansett vært den mest utbredte minnekorttypen i kameraer som er kommet på markedet de siste årene. 
+
+Batteritiden er oppgitt til fem timers trådløs bruk, men du må selv passe på å slå den av – den slår seg ikke av automatisk ved inaktivitet. 
+
+Fungerer også med tråd 
+
+Du kan selvsagt også bruke kortleseren på vanlig måte – med kabel inn i en PC, og den nødvendige USB-kabelen følger med i esken. 
+Når den er koblet til en PC, lades den også opp, men du må (ironisk nok) slå den av for at den skal dukke opp som ekstern enhet. 
+
+Vi overførte cirka 600 megabyte på et drøyt halvminutt da vi testet, så hastigheten var snaue 20MB/s. 
+Dette vil selvsagt også avhenge av hastigheten på minnekortet som er plugget i. 
+
+Snedig er muligheten for å lade andre enheter via en vanlig USB-port på kortleseren. 
+Kapasiteten er 2000mAh og holder derfor til å lade dagens Android-toppmodeller 60-70%, eller en iPhone fra null til hundre og vel så det. 
+
+Vi satt med stoppeklokka i ti minutter og da ladet vi opp en LG G3 (3000mAh batteri) med 10%. 
+Dermed ser det ut til at ladingen skjer like kjapt som den gjør i stikkontakten. 
+
+Konklusjon 
+
+Med en anbefalt utsalgspris på 399 kroner er denne trådløse kortleseren selvsagt dyrere enn en vanlig USB-kortleser, men vi synes slett ikke prislappen er avskrekkende her – kortleseren fra PNY løser utfordringen ved å sende av gårde bilder tatt med et speilreflekskamera uten støtte for den slags og fungerer også som en trådløs, portabel harddisk som du kan fylle med bilder, videoer og musikk til en ferietur. 
+
+Kjekk er også muligheten for å bruke den som nødlader om du går tom for strøm på telefonen, med 2000mAh kapasitet. 
+
+Appene for iOS og Android fremstår noe upolerte, men er allikevel enkle i bruk og gjør akkurat som forventet. 
+Til bilder og musikk fungerer den utmerket, men viser sine svakheter ved filmstrømming, der overføringshastigheten gir begrenset med moro. 
+
+PNY Wireless Media Reader for SD/microSD 

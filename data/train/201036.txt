@@ -1,0 +1,121 @@
+Samsung 5-serie ULTRA
+Prisgunstig Ultrabook fra Samsung. 
+Vår dom: 
+Meget bra. 
+
+Prisene på de populære ultrabookene er på vei nedover, og Samsung er blant PC-produsentene som satser stort på disse tynne, lette og robuste maskinene. 
+
+Selskapet var tidlig ute med sitt første bidrag, 9-serien, som ble vist fram under fjorårets CES-messe i Las Vegas. 
+Det var imidlertid før Intel hadde definert Ultrabook-kravene, så 5-serie ULTRA er faktisk den første "ekte" ultrabooken fra Samsung. 
+Det vil si at den møter alle kravene som stilles av Intel, hva angår størrelse, vekt, prosessor og lagringsløsning. 
+
+Dette er den femte ultrabooken vi tester. 
+Fra før har vi testet Apple Macbook Air, Asus UX31, Acer S3 og Toshiba Z830. 
+
+Før vi ser nærmere på eksteriøret skal vi ta en kjapp gjennomgang av de viktigste tekniske spesifikasjonene: 
+
+Fullt navn: 
+Samsung 530U3B-A01 13,3" matt LED-baklyst skjerm, 1366 x 768 pikslerIntel Core i5-2467M-prosessor4 GB minne (maks 8)500 GB harddisk, 5400 rpm, med 16 GB SSD-arbeidsminneIntel HD 3000-grafikk med WiDi-støtteTrådløs-kort fra Intel (b/g/n)Bluetooth 3.0HDMI-utgang (full størrelse)VGA-utgang (krever overgang, denne medfølger)1 stk USB 3.0-port2 stk USB 2.0-porterStøtte for kablet nettverk (Gigabit LAN)Kortleser for alle xD/SD-kort1,3 megapiksels webkameraStørrelse: 315,1 mm x 218,9 mm x 17,6 mmVekt: 
+1436 gramVeil pris: 6790 kroner 
+
+I motsetning til de fleste (ofte dyrere) ultrabookene, har Samsung satset på en hybrid-løsning med 500 GB harddisk. 
+Det er kanskje ikke så rart, Samsung var inntil nylig en av verdens største produsenter av harddisker, men har nettopp solgt denne delen av virksomheten til Seagate. 
+
+Ifølge Samsung selv har de selv laget 75 prosent av komponentene i maskinen, og ellers valgt kvalitetskomponenter - blant annet trådløst nettverkskort fra Intel, og et batteri som tåler inntil tre ganger flere ladinger enn konkurrerende batterier. 
+
+Bra utstyrt 
+
+Maskinen er for øvrig temmelig oppdatert utstyrsmessig, med blant annet WiDi-støtte (trådløs overføring av bildet til TV), Bluetooth 3.0 og USB 3.0. 
+Sistnevnte fungerer også som lade-port for for eksempel mobiltelefoner, selv når PC-en er skrudd av. 
+
+Vi liker også godt at maskinen er utstyrt med fullstørrelses nettverks-kontakt og HDMI, enkelte konkurrenter krever overganger her, og ikke alle har innebygd støtte for kablet nettverk i det hele tatt. 
+
+Optisk drev er det ikke plass til i Ultrabook-er. 
+Trenger du dette, kan du koble til en eksternt via USB. 
+
+Slik er den bygd 
+
+Skjermen er godt beskyttet bak et aluminiumslokk. 
+Det er helt matt, og fingeravtrykk vises knapt. 
+
+Vi merker oss også at Samsung har brukt aluminium på begge sider, altså også rundt skjermen, samt rundt tastaturet, noe som styrker og stiver opp konstruksjonen. 
+I tillegg er skjermen leddet til PC-en ved hjelp av en bred hengsel, der flere konkurrenter har to tynne hengsler på hver side. 
+Det lover godt for varigheten, mener vi. 
+
+Alle tilkoblingene sitter på venstre og høyre side, og lengst unna brukeren. 
+Det er ryddig, mener vi, og gir god tilgjengelighet. 
+
+Undersiden er slett og av plast, og et lokk dekker harddisken (helt vanlig 2,5" størrelse, 9 mm tykk) og en ledig minneplass. 
+Kun én skrue må løsnes før du kan kneppe lokket av. 
+
+Designen er forøvrig svært ren og pen. 
+Dedikerte hurtigknapper er fraværende, uten at vi griner på nesen av den grunn. 
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Det er pent, og ikke minst praktisk med tanke på å fjerne støv og smuler. 
+
+Tastaturet er for øvrig godt å skrive på, det er ikke blant de aller stilleste vi har prøvd, men er relativt fast og responsivt. 
+
+Den store, multifølsomme pekeplaten har to adskilte knapper. 
+De avgir en markert klikkelyd, men ikke så sjenerende som på Asus U32U som vi nettopp har testet, mener vi. 
+
+Slik er den i bruk 
+
+Maskinen er klar til bruk på 40 sekunder. 
+Det er et godt stykke bak de raskeste maskinene med SSD, og forklaringen ligger naturligvis i at harddisken i denne PC-en ikke er blant de raskeste. 
+SSD-delen på 16 GB sørger imidlertid for å hurtigbufre programmer du bruker ofte, så den opplevde ytelsen kan i mange tilfeller ligge ganske tett opp mot SSD-en. 
+Om ytelsen ikke blir fullt så god, har du til gjengjeld mye mer lagringsplass å boltre deg med. 
+Det finnes knapt modeller på markedet med større SSD enn 240 GB, og de er langt dyrere enn 5-serie Ultra. 
+
+Maskinen oppleves som rask og responsiv, og - i motsetning til de fleste andre ultrabookene vi har testet - denne maskinen er tett innpå lydløs under vanlig bruk. 
+Du kan dessuten enkelt svitsje mellom aktiv- og passiv viftemodus ved å trykke FN-F11 på tastaturet. 
+Aktiv viftemodus betyr maks ytelse, mens passiv viftemodus betyr at ytelsen senkes noe når temperaturen øker. 
+
+Blir varm 
+
+Og nettopp dette med temperaturen er dessverre et issue ved denne maskinen. 
+Sitter du med den i fanger vil du fort merke at det er et temmelig varmt felt bak til venstre. 
+Det er harddisken som er årsaken. 
+Det er riktig nok et luftinntak på undersiden, men viften i maskinen er tydeligvis ikke kraftig nok til å holde temperaturen på harddisken på et lavere nivå. 
+Hvorvidt dette er et problem for harddisken eller ikke skal vi ikke uttale oss om, men i et trangt kabinett som dette er vi ikke i tvil om at en ren SSD hadde vært det aller beste. 
+
+Høyttalerne fortjener også litt oppmerksomhet. 
+Av alle ultrabookene vi har testet, har Serie 5 Ultra den minst dårlige lyden. 
+Det er ikke noen hedersbetegnelse, men her går det faktisk an å lytte til radio og litt pling/plong uten den metalliske klangen som blant annet skjemmet Asus UX31. 
+
+Ytelsestestene 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner på ytelsen, her går skalaen fra 1,0 (svakest) til 7,9 (sterkest): 
+
+Prosessor: 6,3 Minne (RAM): 
+5,9 Grafikk: 
+4,5 Spillgrafikk: 
+5,6 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 7.0 gir en totalscore på 840, og i diagrammet under har vi sammenlignet dette tallet med noen åpenbare konkurrenter: 
+
+Det er først og fremst disk-ytelsen som gjør at Asus-en ligger et godt stykke foran de andre: 
+
+Prosessor og grafikkytelse ligger rundt 2500 og 250 Passmark-poeng for alle fire. 
+
+Men hva med batterilevetiden? 
+Som vanlig kjørte vi testen i to omganger, første gang med minimal belastning tilkoblet trådløst nett, andre gangen med kontinuerlig HD-videoavspilling. 
+I diagrammet under ser du hvordan 5-serie Ultra kom ut i forhold til de samme konkurrentene: 
+
+Samsung sier at du kan bruke maskinen i rundt seks timer med variert bruk, en påstand vi sier oss meget enig i etter å ha testet maskinen. 
+Det er kun Asus UX31 som byr på bedre levetid av de ultrabookene vi har testet så langt. 
+
+Konklusjon 
+
+Samsung viser nok en gang at de er en meget god PC-produsent, og leverer et solid tilskudd til ultrabook-segmentet. 
+Serie 5 
+Ultra er blant de aller billigste ultrabookene vi har testet, men scorer meget bra på det meste, både eksteriørmessig og innvendig, ikke minst med tanke på støy og batterilevetid. 
+
+Eneste ankepunktet er harddisken, som dessverre gjør at maskinen blir temmelig varm mot fanget. 
+Hadde den kommet med en SSD og med baklyst tastatur, hadde Samsung nok en gang luktet på sekseren på terningen. 
+Men for all del: 
+Dette er et produkt vi absolutt kan anbefale til deg som ønsker en tynn, lett og dugandes maskin - uten å blakke deg helt. 
+
+OPPDATERT: 
+Fra Samsung får vi opplyst at modellen også selges med 128 GB SSD, og at denne koster fra rundt 7990 kroner. 
+Det vil i så fall være et klokt alternativ for mange. 

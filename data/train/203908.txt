@@ -1,0 +1,85 @@
+Enkel overvåking – helt uten en tråd
+Circle 2 Wire-Free er en av de enkleste løsningene vi har testet, og har i tillegg et batteri som kan holde i ukevis. 
+Det skulle gjøre den perfekt til hytta. 
+
+Det finnes etter hvert en rekke løsninger for enkel videoovervåking av boliger, hytter og uteområder, og vi har testet flere av dem. 
+Denne gangen har turen kommet til Circle 2 fra Logitech, som kanskje er den aller enkleste løsningen vi har testet. 
+
+Dette er Circle 2 Wire-Free 
+
+Som navnet antyder, er dette andre generasjon Circle-kamera fra Logitech, og det kommer i flere utgaver, blant annet en der kameraet plugges rett i en stikkontakt, en med strømkabel og en utgave som er helt trådløs – Wire-Free – og det er den siste vi har testet. 
+
+Denne har alt innebygd, inkludert full HD-kamera, mikrofon, høyttaler, wifi-adapter og et 6600 mAh oppladbart batteri som ifølge produsenten kan holde i inntil 3 måneder mellom hver lading – med fem minutter opptak hver dag. 
+Skjønt «alt innebygd» er ikke helt presist, lagring av opptakene skjer ikke i kameraet, men på Logitechs servere. 
+Mer om det siden. 
+
+All visning og styring av kamerafunksjoner gjør du enklest via en app på mobilen (Android og iOS), eller på en egen nettside dersom du bruker PC-en. 
+
+Ekstrem vidvinkel 
+
+Selve kameraet har en frontlinse som fanger all aktivitet innenfor en vidvinkel på hele 180 grader. 
+Det betyr blant annet at Circle 2 kan brukes i små rom og andre trange arealer, både inne og ute. 
+Kameraet er nemlig værbestandig, og tåler både minusgrader og noe fukt. 
+Med tre måneders batteritid, er dette absolutt en løsning som bør vurderes hvis du ønsker å overvåke hytta eller campingvogna. 
+
+Det følger med et feste som du kan skru fast på veggen, og så kan du enkelt hekte kameraet av festet når batteriet må lades. 
+Du kan også ha det tilkoblet stikkontakten hele tiden, men den lille ledningsstumpen som følger med, blir nok for kort for mange. 
+Her kan du heldigvis bruke hvilken som helst USB-kabel med microUSB-kontakt mot kameraet. 
+
+Circle 2 kan også stå på et bord eller hylle. 
+I tillegg har det et standard kamerafeste på undersiden, slik at du enkelt kan montere det på et kamerastativ eller Gorillapad. 
+
+Starter automatisk når det skjer noe 
+
+Inni kameraet sitter en bevegelsessensor som sørger for å starte opptak så snart det skjer noe innenfor frontlinsas synsfelt. 
+Det fungerer både i dagslys og i mørke. 
+Blir det veldig mørkt, aktiveres nattmodus, der opptakene blir i svart/hvitt. 
+
+Oppløsningen er full HD (1920 x 1080 piksler), og kvaliteten er god nok til at det som regel ikke er noe problem å gjenkjenne personer på opptakene. 
+Standard opptakslengde er begrenset til 10 sekunder, men dette kan settes til 30 eller 60 sekunder i appen. 
+
+Lagring av opptakene dine skjer som sagt ikke i selve kameraet, men på Logitechs krypterte servere på internett. 
+Der lagres de i inntil 24 timer, før de slettes automatisk. 
+Ønsker du å ta vare på opptakene dine lenger enn dette, må du abonnere. 
+14 dager med ubegrensede opptak koster for eksempel 39 kroner måneden. 
+Da kan du også få varsler i form av meldinger på telefonen, når kameraet har fanget aktivitet. 
+
+Via appen eller kameraets egen nettside, kan du også overvåke live. 
+Grensesnittet er temmelig likt på begge plattformer, og gir deg også rask tilgang til opptakene som har blitt lagret. 
+Du kan når som helst laste ned et 30 sekunders videoklipp som viser et sammendrag av aktiviteten i løpet av siste 24 timer, til seinere bruk og referanse. 
+
+Kan brukes som intercom 
+
+En fiffig detalj: 
+Hvis du for eksempel har plassert kameraet ved inngangsdøra, kan du ha toveis, muntlig kommunikasjon med folk som kommer på besøk, via mobilen, PC-en, nettbrettet og mikrofonen i kameraet. 
+En viss forsinkelse må du imidlertid leve med, men det fungerer faktisk ganske så bra. 
+Lydkvaliteten er helt OK. 
+
+Forsinkelse er det også når du kobler deg opp for å overvåke live eller se opptakene. 
+Det tar noen sekunder å vekke kameraet fra dvale og noen ganger bortimot et halvt minutt å opprette en trygg forbindelse mot Logitechs servere. 
+Det kan være et ankepunkt, men er slett ikke uvanlig for denne typen kamera. 
+
+Kameraet skal også kunne brukes sammen med stemmestyringsløsningene Apple Homekit, Alexa og Google Assistant, men dette har vi ikke fått testet. 
+
+Problematisk flytting 
+
+Du kan fint flytte kameraet rundt i boligen eller hytta, så lenge det er knyttet til samme trådløse nett. 
+Da vi flyttet kameraet fra hjemmet til kontoret for å fullføre denne testen, fikk vi problemer. 
+Da vi startet appen for å gjøre nødvendige endringer, ble den bare stående og laste, uten at noe skjedde. 
+Uansett hva vi forsøkte, kom vi ikke videre. 
+
+Til slutt slettet vi appen fra mobilen og installerte den på ny. 
+Da ble vi møtt av konfigurasjonsveilederen. 
+Da den etter flere forsøk ikke fikk kontakt med kameraet, ble vi omsider bedt om å trykke inn en resett-knapp på siden av kameraet. 
+Da dette ikke fungerte, holdt vi på å gi opp, før vi tilfeldigvis fant ut at vi måtte trykke ved siden av knappen for at kameraet skulle respondere. 
+Deretter fikk vi etter hvert kontakt i appen og kunne fortsette konfigurasjonen. 
+
+Konklusjon 
+
+Logitech Circle 2 Wire-Free er en enkel og smart måte å overvåke boligen din på, både utvendig og innvendig. 
+Kameraet byr på svært god vidvinkel og helt ålreit kvalitet på opptakene. 
+
+At det kun fungerer sammen med Logitechs skyløsning, og denne koster penger for opptak ut over 24 timer, kan naturlig nok være et ankepunkt for noen. 
+Det er også verdt å merke seg at du må leve med noen små forsinkelser her og der, og at du kan støte på problemer hvis du flytter kameraet fra ett aksesspunkt til et annet. 
+
+Få også med deg testene av Piper NV og Netatmo Welcome før du bestemmer deg for å kjøpe. 

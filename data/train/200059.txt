@@ -1,0 +1,82 @@
+Kingston Wi-Drive
+Ekstra lagring til iPhone, iPad og iPod touch - trådløs! 
+
+En ting som mange savner på i-dingsene sine er muligheten for større lagringsplass. 
+Det har ikke Apple lagt til rette for, og det er heller ingen muligheter for å bruke en minneplugg eller annen ekstern USB-lagringsenhet for å øke kapasiteten. 
+
+Apple har heller ikke lagt til rette for å hente inn filer enn ved å koble til i-dingsen til Mac/PC og laste inn via iTunes, eller med Camera Connection kit for bilder og video. 
+
+Men det finnes løsninger i form av apper som jobber mot nettbaserte tjenester, som DropBox og Evernote. 
+Men hvis du ikke er på et gratis trådløst nett kan det bli dyrt å laste ned, og ytelsen på 3G eller Edge kan som kjent variere. 
+
+Wi-Drive til unnsetning 
+
+Kingston har kommet opp med en svært fiks løsning som de kaller Wi-Drive. 
+Det er ganske enkelt en lagringsenhet med innebygd trådløst nett og USB-tilkobling. 
+
+Den minner om baksiden på en iPhone 3GS og kommer i svart, blank plast. 
+Den veier nesten ingen ting og størrelsen er 121.5mm x 61.8mm x 9.8mm 
+
+Den kommer med 16GB eller 32 GB kapasitet og bruker flashminne. 
+
+På den ene siden sitter det to lysdioder som viser trådløs aktivitet. 
+På siden sitter av/på-knappen. 
+
+På den ene kortenden sitter USB-tilkoblingen. 
+
+På baksiden er det ingen ting av interesse ... 
+
+Slik fungerer det: 
+
+Du kobler til Wi-Drive til din PC eller Mac, den oppfører seg som en standard ekstern lagringsenhet og støttes av alle kurante operativsystemer. 
+Det er to stasjoner, en som ser ut som en CD-ROM som inneholder programvaren. 
+Den behøver man ikke bry seg om. 
+
+Den andre stasjonen heter Wi-Drive og ser ut som vanlig lagringsenhet. 
+Det er hit du kopierer filer av forskjellig slag. 
+
+Når du kobler fra Wi-Drive går den over i et annet modus og opptrer som et trådløst nett du får tilgang til via iPhone/iPad/iPod Touch. 
+Du velger da Wi-Drive som trådløs nettforbindelse. 
+
+For å få tilgang filene du har lagt over fra datamaskinen din må du først laste ned en app fra AppStore. 
+Den er gratis, eller rettere sagt inkludert i prisen på Wi-Drive. 
+
+Når du starter denne appen får du en oversikt over filene, og kan sortere på filtyper ved å trykke på et av symbolene for foto, film eller musikk. 
+
+Trykker du på hus-knappen får du oversikt over alle filene, uansett om de kan leses eller ikke. 
+
+Formatene som støttes er de samme som støttes ellers i iOS: 
+
+Lyd: AAC, MP3, WAV Video: m4v, mp4, mov, Motion JPEG (M-JPEG) Foto: jpg, bmp, tiff Dokumenter: pdf, doc, docx, ppt, pptx, txt, rtf, xls 
+
+I bruk 
+
+Vi koblet Wi-Drive til PC-en med USB-kabelen og kopierte over et utvalg filer av forskjellige typer. 
+Skrivehastigheten er som på minneplugger, for å laste over en gigabyte tar det omtrent ett og et halvt minutt. 
+Det tilsvarer en spillefilm i toppkvalitet. 
+
+Lesehastigheten ligger på nesten 23 megabyte/sekund, som er mer enn nok til å forsyne tre samtidige brukere med ypperlig videokvalitet på iPhone/iPad - hastigheten på den trådløse nettforbindelsen med 802. 
+11n-støtte er den egentlige flaskehalsen, og den gjelder på alt trådløst utstyr. 
+
+Skal du se gjennom mange bilder er den ikke like rask som når filene ligger på iPhone/iPad, men det er ikke så stor forskjell. 
+Spiller du av bildene automatisk som lysbildeshow er det helt uproblematisk, det er bare utålmodig sveiping som blir noe tregere. 
+
+Men for felles tilgang når familien er på hytta, som ekstralagring på reiser, sikkerhetskopi for presentasjoner på veien er løsningen glimrende. 
+
+Nettverksbro 
+
+Når du knytter iPhone opp til Wi-Drive kan du ikke være på et annet trådløst nett samtidig, siden iPhone bare kan koble seg opp til ett WiFi-nett av gangen. 
+Men Wi-Drive kan også fungere som trådløs bro, og knytte seg opp til et annet trådløst, samtidig som du har tilgang til filene i den. 
+
+I nettverksoppsettet i appen finner du listen over tilgjengelige nettverk og velger forbindelse på vanlig måte. 
+
+Du kan selvfølgelig også bruke 3G til internett samtidig som du bruker WiFi til Wi-Drive. 
+
+Konklusjon 
+
+Kingston Wi-Drive er en smart og praktisk løsning for lagring av filer. 
+Den er svært enkel i bruk både for overføring og i bruk. 
+
+Hadde den hatt en vanlig USB-kontakt i tillegg, slik at du kunne koble til andre minneløsninger i tillegg hadde den vært helt perfekt! 
+
+Kingston USB Wi-Drive 32GB 

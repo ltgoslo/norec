@@ -1,0 +1,37 @@
+Samsung SpinPoint 120GB 2,5"
+Trenger din bærbare PC en ny harddisk av en eller annen grunn? 
+Vi tester Samsungs 120 GB disk. 
+
+For et år siden testet vi Seagates nyeste disk for bærbare - Momentus - som da hadde en imponerende størrelse på 120 GB. 
+Prisen var nesten like imponerende, den lå på 2250 kroner. 
+
+I dag er 120 GB fremdeles en romslig disk på en bærbar, men prisen på Samsungs utgave ligger på beskjedne 995 kroner hos ledende nettbutikker, legg til ca en hundrelapp i stedet for å betale porto og gebyrer, så får du den over disk. 
+Dette er noen hundrelapper lavere enn konkurrentene fra Hitachi og Seagate, mens Toshiba ligger på samme prisnivå. 
+
+Men hva med støy og ytelse? 
+Vi har testet. 
+
+Rask og stille 
+
+Disken leveres med SATA-grensesnitt eller tradisjonelle PATA, vi testet den siste, siden den bærbare hvor maskinen skal residere kun støtter dette. 
+
+Støyen er ikke hørbar i normale omgivelser, bare ved å legge øret inntil disken er det mulig å høre at den jobber. 
+I alle praktiske sammenhenger er den derfor å betrakte som lydløs, både i en bærbar og i en stille stue-PC for de som ønsker det. 
+
+Vi sjekket ytelsen både med HD Tach og vårt eget testprogram. 
+
+HD Tach målte skriveytelsen til 29,9 MB/sekund i gjennomsnitt over hele disken, mens skriveytelsen lå på 32,5 MB/sekund. 
+
+Aksesstiden ble målt til 18,1 ms. 
+
+Vårt eget program målte skrivehastigheten til 38,398 MB/s på begynnelsen av disken, og lesehastigheten til 38,371 MB/s. 
+
+På slutten av disken falt skrivehastigheten til 26,331 MB/s på slutten av disken, og lesehastigheten til 26,246 MB/s. 
+
+Konklusjon 
+
+Samsung SpinPoint M60 HM120JC er en rimelig og svært kapabel disk. 
+Trenger du å oppgradere din bærbare fra i fjor eller tidligere er den et utmerket valg. 
+
+Alternativt kan den monteres i et lite eksternt USB-kabinett, eller brukes som systemdisk i en PC som skal være så stillegående som mulig. 
+Dette kan vf.eks. være en hus-server eller en stuePC. 

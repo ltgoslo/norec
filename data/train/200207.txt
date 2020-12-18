@@ -1,0 +1,82 @@
+ZyXEL NSA325-v2 NAS
+Selv små NAS-enheter har fått stor kapasitet med nye 4 TB disker. 
+Det gir lynrask hjemmelagring. 
+
+Felles lagring, backup og arkiv - en nettverkslagringsenhet, kjent som en NAS, er mer enn bare kjekt å ha. 
+Både for hjemmebruk og i små virksomheter er det mange slike å velge mellom, med forskjellige egenskaper, ytelse og kapasitet. 
+
+En vanlig variant har kapasitet til å huse to 3,5-tommers harddisker, med tilkoblinger for utvidelse/kopiering til og fra eksterne disker enten i form av USB eller eSATA. 
+
+De interne diskene kjører som RAID 0, 1 eller JBOD (begge diskene opptrer som én stor disk) og du kan dermed velge kapasitet eller sikkerhet. 
+
+Vi har testet ZyXEL NSA325-v2 som ble utstyrt med to 4 TB NAS-sertifiserte harddisker fra Seagate. 
+
+NAS'en 
+
+Selve enheten er et ganske hendig kabinett i aluminium og plast, med et avtagbart deksel i front. 
+
+Diskene monteres på plastskuffer som skyves inn i kabinettet og klikker på plass. 
+Det er festehull til både 3,5-tommers og 2,5-tommers disker. 
+
+I front er det et panel med LED-indikatorer for aktivitet samt kontakt for tilkobling til eksterne lagringsenheter med USB 3.0. 
+
+På baksiden er det to USB 2.0 kontakter og nettverkskontakten, som støtter gigabit nettverk. 
+Det er også en åpning for Kensington lås, smart vifte og tilkobling til ekstern strømforsyning. 
+
+Oppstart 
+
+Etter å ha montert diskene, koblet til enheten til strøm og nettverk og slått den på er det bare å åpne oppstartsprogrammet. 
+Dette finner enheten på nettverket og sørger for å gjøre den klar til bruk. 
+Diskene formateres og nødvendig programvare installeres. 
+
+Når dette er ferdig, etter noen minutter, er den klar til bruk og du kan laste opp filer. 
+
+For enkel lagring av filer fra PC-ene koblet til nettverket kan man installere det lille programmet zPilot. 
+Dette legger du på skrivebordet, så er det bare å dra og slippe filer for å lagre dem på NAS-en. 
+
+Det er allerede satt opp felles lagringsområder for mediedata, og disse filene blir gjenkjent og plassert i mapper for henholdsvis bilder, video og musikk. 
+
+Utover dette kan du selv definere den mappestrukturen du ønsker, eller bare kopiere fritt over fra andre medier med den vanlige filbehandleren. 
+
+I bruk 
+
+NAS-en støtter uPNP og DNLA, og kan dermed servere mediespillere, spillkonsoller og smarte TV-er med mediedata. 
+
+Du kan også få tilgang til filene fra internett via Polkast-serveren og en app på mobile enheter eller andre maskiner, støtte for Polkast er på plass i firmwaren på NAS-en. 
+
+En annen smart finesse er støtte for Dropbox, hvor filene dine også blir synkronisert og lagret. 
+
+Ytelse 
+
+I tillegg til enkel administrasjon og god støtte for bruksområder er hastigheten viktig, sammen med evnen til å strømme innhold av høy kvalitet til mediespillere samtidig som den kan ta hånd om vanlige ikke-tidskritiske filoperasjoner på PC-er på nettverket. 
+
+Flaskehalsen hos NAS-er ligger ikke i diskene og heller ikke i nettverkstilkoblingen. 
+Den ligger i håndteringen av dataene mellom disse, som håndteres av prosessoren i NAS-en. 
+
+ZyXEL NSA325-v2 har en 1,6 GHz prosessor og 512 MB minne, og leverer data med svært akseptabel hastighet. 
+Den er ikke like rask som en PC, men prisen er langt lavere og ytelsen er mer enn tilstrekkelig for bruksområdene i målgruppen. 
+
+Leseytelsen kan komme opp i over 90 Mbyte pr sekund, og det er nesten 750 Mbit. 
+Da er vi ikke så langt unna hva et Gigabit nettverk kan håndtere. 
+
+Men dette er ved lesing av få og store filer, med mange mindre filer vil ytelsen bli vesentlig lavere. 
+Likevel er ytelsen absolutt akseptabel. 
+
+Støy og varme 
+
+Med to disker og en vifte som jobber i blant er den ikke helt lydløs. 
+Men den er heller ikke avhengig av plassering i nærheten av brukerne og kan plasseres et sted hvor den ikke plager noen. 
+Den ble ikke varm verken under bruk eller hard-testing så kravene til plassering er ikke spesielt strenge, bare den får mulighet til luftsirkulasjon. 
+
+Konklusjon 
+
+ZyXEL NSA325-v2 NAS er en svært rimelig, brukervennlig, allsidig NAS. 
+Med plass til to disker på opptil 8 Terabyte tilsammen har den en kapasitet som vil være tilstrekkelig for svært mange. 
+
+Også andre egenskaper som selvstendig nedlasting og opplasting uten overvåking av en PC på nettverket er egenskaper mange setter pris på. 
+
+Støtte for tilgang til filer over internett, samt støtte for Dropbox er også pluss i margen. 
+
+Få også med deg testene av alternativene Seagate 4TB NAS, Synologi DiskStation og Seagate Central. 
+
+ZyXEL NSA-325v2 

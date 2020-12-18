@@ -1,0 +1,85 @@
+Ekstremt enkel mesh – men ikke helt uten lyter
+Brukervennligheten i det trådløse mesh-nettet er helt i toppen, nodene ser i tillegg bra ut. 
+Men i bruk oppdaget vi at ikke alt er perfekt. 
+
+Stadig flere får øynene opp for mesh-nettverk. 
+Ikke så rart kanskje, mange sliter med å få full trådløsdekning i boligene sine, og det er her mesh ofte kommer som en reddende engel. 
+
+Meget enkelt 
+
+Det fungerer slik: 
+Istedenfor å ha én trådløs ruter, har du i stedet to, tre eller enda flere små bokser (noder), plassert rundt på strategiske steder i boligen. 
+Disse har felles SSID (nettverksnavn) og kommuniserer med hverandre gjennom et eget, beskyttet trådløst nett. 
+Mange kan også kommunisere med hverandre via kabel, hvis alt annet er nytteløst. 
+
+Når du kobler dingsene dine til nettet, blir de automatisk koblet til den noden som gir best signal og videre ut på internettet. 
+Når du beveger deg rundt i huset med mobilen din, kobles du fra den ene noden til den andre når signalstyrken endres, uten at du merker noe som helst. 
+
+Dessuten har mesh-nodene ofte en design som er langt mer plasseringsvennlig enn tradisjonelle rutere, som ikke alltid er like pene å se på. 
+
+Sjette løsningen vi tester 
+
+Linksys Velop har vært på markedet en stund allerede, og er den sjette mesh-løsningen vi har hatt på testbenken. 
+Tidligere har vi testet mesh-løsninger fra Zyxel, Asus, Google, Netgear og TP-Link. 
+
+Settet består av tre identiske noder. 
+Disse har et stående søyledesign og er lett å plassere. 
+
+Den første noden kobler du til bredbåndsuttaket med kabel. 
+Deretter starter du Linksys-appen på mobilen og følger den svært beskrivende og enkle veiviseren på norsk. 
+
+Underveis i prosessen skal du velge navn på aksesspunktet og sette passord, samt oppdatere programvaren i noden. 
+Etter en omstart, er Velop klar til bruk. 
+
+Den samme prosessen må du gjenta for de to andre nodene, som du plasserer på egnet sted. 
+Vår store bolig går over tre plan, og da er det hensiktsmessig å plassere en node i hver etasje, i nærheten av der vi befinner oss mesteparten av tiden. 
+
+En liten detalj som er verdt å nevne: 
+Strømforsyningen sitter på støpselet, og er litt bredt. 
+Det kan derfor være litt vanskelig å få plassert i trange stikkontakter. 
+Greit å være klar over. 
+
+Funksjoner som gir mening 
+
+Funksjonsmessig er ikke Velop blant de aller best utstyrte. 
+Her er det enkelheten som er i sentrum. 
+Du kan sette opp foreldrekontroll og bestemme hvilke tider barna kan få nettilgang og hindre dem i å besøke uhumske sider, du kan gi enkelte enheter prioritet på nettet og du kan sette opp gjestenettverk. 
+Dette gir imidlertid mening for folk flest. 
+
+En fiffig ekstrafunksjon vi har sansen for, er at appen sjekker om plasseringen av nodene er optimal i forhold til de andre. 
+Er den ikke det, vil du bli oppfordret til å velge en annen plassering. 
+
+Vi liker også at du gjennom appen kan se hvilken node utstyret ditt er koblet til, og om det er koblet til i 2,4 eller 5 GHz-båndet. 
+Sistnevnte kan ha mye å si for hvor høy overføringshastighet du kan forvente, men hva som benyttes, påvirkes av utstyret og plasseringen i forhold til nodene. 
+
+Hvor godt mesh-systemene håndterer dette, varierer. 
+Det samme gjelder hvor sømløst opp- og nedkoblingen mellom nodene skjer når du beveger deg rundt i boligen. 
+
+Noe variabel ytelse 
+
+Når det gjelder Velop, opplevde vi stadig at utstyr (både PC med Intel AC7260 trådløst nettverkskort og en iPhone 8) hang for lenge på én node etter at vi hadde flyttet oss inn i en sone der en annen node ville gitt langt bedre hastigheter. 
+
+Vi synes også at Velop litt for ofte koblet utstyr til 2,4 GHz-båndt, selv når vi befant oss veldig nært en node. 
+Har du et bredbånd med begrenset kapasitet (for eksempel under 50 Mbps), er det kanskje ikke så farlig, men når du har mer enn 100 Mbps kan 2,4 Ghz-båndet være en flaskehals. 
+
+Ved å koble fra manuelt for deretter å koble til igjen, løste som regel problemene seg, men dette burde ikke være nødvendig. 
+Det hører med til historien at appen mente plasseringen av nodene våre var ideell. 
+
+Når alt fungerer som det skal, er Velop gjennomsnittlig god når det gjelder dekning og hastigheter, sett i forhold til de andre løsningene vi har testet. 
+Vi får faktisk dekning to etasjer ned med bare én node tilkoblet, men naturligvis temmelig begrenset. 
+Men vi kunne faktisk surfe med over 100 Mbps én etasje ned, på vår 160/160 Mbps bredbåndslinje. 
+
+Med tre noder tilkoblet, fikk vi noe redusert hastighet i kjelleren, to etasjer under bredbåndsuttaket. 
+Flere av de andre mesh-løsningene vi har testet, kunne by på full hastighet i alle tre etasjene – med nøyaktig samme plassering av nodene. 
+
+I diagrammet under ser du hastighetene vi målte med vår test-PC, med én og to noder på forskjellige punkter i boligen. 
+Det er viktig å understreke at dette er målinger gjort mot Internett, ikke internt i lokalnettet – der makshastigheten kan være langt høyere. 
+
+Konklusjon 
+
+Linksys Velop er en av de aller mest brukervennlige mesh-løsningene vi har testet. 
+Designen er også fin, og appen er blant de mest oversiktlige – med nyttige funksjoner som gjør det enkelt å feilsøke når noe ikke fungerer optimalt. 
+
+Dessverre opplevde vi at Velop tullet litt med valg av beste node og veksling mellom 2,4 og 5 GHz-bånd, noe som påvirket ytelsen negativt. 
+I mange tilfeller er dette som kan utbedres i framtidige fastavare-oppdateringer, men i skrivende stund finnes det mesh-løsninger som vi mener håndterer dette bedre. 
+Disse kan du lese mer om i denne testen. 

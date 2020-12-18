@@ -1,0 +1,35 @@
+D-Link DAP-1353
+Sitter du med en eldre trådløs ruter og en ny PC? 
+Vi har testet et meget anvendelig aksesspunkt. 
+
+Den vanligste løsningen folk handler er en trådløs ruter, hvor både ruterfunksjonen, en svitsj med porter til kablet nett samt trådløst nett er kombinert i samme enhet. 
+Slik var det ikke da de første ruterne dukket opp, da var trådløst enda ikke tilgjengelig. 
+Siden dukket de opp som separate enheter som ble koblet til ruteren. 
+
+I dag er det mange som ikke har behov for kablet nett hjemme, fordi alle PCene som brukes har støtte for trådløst, det har etter hvert blitt vanlig også på multifunksjonsskrivere. 
+
+Hvis man skal sette opp en trådløs ruter der hvor nettleverandøren allerede har satt opp en ruter byr dette på utfordringer. 
+De er ikke uoverkommelige, men krever at man leser et par brukerveiledninger og skjønner et par ting. 
+
+Hvis man vil slippe dette, og heller bare koble til én boks med et enkelt oppsett så er et trådløst aksesspunkt en bedre løsning. 
+Men ikke nødvendigvis billigere. 
+
+Enda flere muligheter 
+
+Det trådløse aksesspunktet vi har på testbenken er fra D-Link og heter DAP-1353 og kan også løse andre oppgaver. 
+Det kan nemlig også fungere som en Bridge eller Extender. 
+
+Bridge modus bruker du hvis du har en stasjonær PC og en eller flere andre nettverksenheter med bare kontakt for nettverkskabel, kan du fint koble denne til det trådløst nettet. 
+Da videreformidler boksen ganske enkelt den trådløse nettforbindelsen over på en vanlig nettverkskabel, den bygger en trådløs bro fra ruteren til den stasjonære PCen. 
+Du trenger en separat svitsj i tillegg hvis du har flere enheter som skal kobles til, DAP-1353 har bare en tilkobling for nettverkskabel. 
+
+Klarer ikke den eksisterende trådløse ruteren å dekke boligen eller området du vil ha dekket, kan DAP-1353 også utvide rekkevidden til et eksisterende trådløst nett. 
+Den fungerer da som en mellomstasjon, som tar i mot og sender videre både fra ruteren og klilentene. 
+
+Siden den ikke kan gjøre begge deler på en gang taper du noe ytelse. 
+Det gjør du uansett når avstanden blir stor, så i praksis vil du kunne få bedre ytelse i utkanten av det opprinnelige dekningsområdet. 
+
+Ytelse 
+
+Ytelsen er på linje med andre enheter i samme produktgruppe, men ligger noe under de beste målingene vi har fått med annet D-Link utstyr. 
+En del av forklaringen på dette kan være at det har dukket opp langt flere trådløse nettverk i nærheten fordelt på hele kanalspekteret, slik at det er en hardere kamp om tilgjengelig båndbredde enn tidligere. 

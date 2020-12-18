@@ -1,0 +1,99 @@
+Mesh-nett på steroider
+To noder skal gi god dekning overalt i hus på inntil 464 kvadratmeter, lover produsenten. 
+Vi har testet. 
+
+Det siste halvåret har vi testet flere såkalte mesh-nettverksløsninger. 
+Disse løsningene er spesielt myntet på deg som av en eller flere grunner sliter med å få full trådløsdekning i boligen din. 
+
+I et mesh-nettverk plasserer du to, tre eller enda flere små bokser (noder) rundt på strategiske steder i boligen. 
+Disse erstatter den éne trådløse ruteren du hadde før. 
+
+Mesh-nodene har ofte en design som er langt mer plasseringsvennlig enn tradisjonelle rutere, som ikke alltid er like pene å se på. 
+
+Automatisk opp- og nedkobling 
+
+Avhengig av hvor i boligen du befinner deg, kobles dingsene dine automatisk til den noden som har best signalstyrke. 
+Har man et veldig stort hus, kan man bygge ut med flere noder til man er fornøyd. 
+
+Nodene kommuniserer med hverandre i et eget beskyttet trådløst nett, for å sørge for best mulig hastighet mellom dingsene dine og internett. 
+
+Kraftigste så langt 
+
+Denne gangen har turen kommet til Zyxel Multy X, en mesh-løsning som består av kun to identiske noder, der de fleste vi har testet tidligere har bestått av tre. 
+Likevel hevder produsenten at de to nodene i kompaniskap skal kunne gi god trådløsdekning i boliger på inntil 464 kvadratmeter. 
+Det er betydelig mer enn hva som er vanlig i de mesh-løsningene vi har testet tidligere. 
+
+Årsaken er at Multy X er utstyrt med vesentlig kraftigere maskinvare enn de andre. 
+Her snakker vi om AC3000-spesifikasjoner, beamforming og MU-MIMO-støtte - og hele 9 interne antenner, pakket i noder som er vesentlig større enn hos konkurrentene. 
+
+De er faktisk til og med større enn mange enkle trådløsrutere, og det kan fort være et ankepunkt dersom du ser etter en løsning som er mest mulig diskré og plasseringsvennlig. 
+
+Nå skynder vi oss å legge til at vi slett ikke anser boksene som særlig prangende og stygge, men størrelsen på 23.6 x 17.8 x 5,15 cm og vekt på 860 gram pr stk, er betydelig mer enn normalen i denne klassen. 
+Nærmest kommer Netgear Orbi, men der var designen stående, ikke liggende som her. 
+
+På baksiden sitter det tre LAN-porter og en WAN-port, alle med støtte for hastigheter på inntil 1 Gbps (1000 Mbps). 
+I LAN-portene kobler du utstyr som ikke støtter trådløs tilgang til nettet, WAN-porten benyttes kun på den første noden, for tilkobling til bredbåndsmodemet/uttaket. 
+
+Her er også en USB 2.0-port, men den kan ikke brukes til annet enn å gi strøm til en mobiltelefon eller lignende, det er ikke noe i oppsettet som skulle tilsi at du kan dele data fra minnepinner eller harddisker i nettet ditt. 
+
+Det er samtidig viktig å poengtere at dette er en løsning for deg som bare skal ha noe som virker - funksjonsutvalg og mulighetene for skreddersøm er svært begrenset, slik det er på de fleste mesh-løsningene vi har testet. 
+Vi vet av erfaring at enkelte mesh-løsninger kan få utvidet funksjonalitet med nye fastvareoppdateringer. 
+
+OPPDATERT 18.12: 
+En oppdatering av appen og fastvaren gir deg nye funksjoner som Port Forwarding, Bridge Mode og DMZ, får vi opplyst fra Zyxel. 
+
+Ferdig satt opp på 10 minutter 
+
+Oppsettprosedyren finner du på innsiden av lokket, og som vanlig i mesh-sfæren er den særdeles enkel. 
+Du kobler første node til bredbåndsuttaket, stikkontakten, laster ned en app på mobilen og følger veiviseren for å sette opp nettet ditt. 
+
+Underveis i prosessen laster appen automatisk ned eventuelle fastvareoppdateringer, du definerer navn, passord og om du vil ha tre separate nett (to på 5 GHz-båndet og ett på 2,4 GHz-båndet), eller om du vil aktivere Smart Connect og dermed bare ett aksesspunkt, og la Multy X avgjøre hva som er best for dingsene dine. 
+
+Appen er oversiktlig og grei, og du får blant annet se hvilke enheter som er tilkoblet og du kan også gjøre noen få endringer - blant annet sperre internettilgang og konfigurere uPnP. 
+
+Meget god dekning 
+
+Multy X fungerer helt greit med bare én node. 
+Vårt hus er på 250 kvadratmeter, fordelt over tre etasjer - og med noden plassert på loftet, kunne vi surfe på nettet i kjelleren med inntil 80 Mbps - halvparten av kapasiteten i vårt fiberabonnement. 
+Det er veldig bra, og på høyde med det vi målte med Netgear Orbi - og bedre enn hva vi har målt med flere enkle rutere, som denne fra F-Secure. 
+
+Vi plasserte den andre noden i stua, og ved hjelp av appen kunne vi legge den til i meshen. 
+
+Her fikk vi oss en overraskelse. 
+
+Etter at vi hadde koblet den til, varslet appen om at plasseringen ikke var optimal: 
+Den var plassert for nært den første, og vi ble anbefalt å plassere den lenger unna. 
+En slik sjekk mangler hos de andre mesh-løsningene vi har testet, og kan være til god hjelp under oppsettet i kronglete boliger. 
+
+Vi overså først denne advarselen, siden vi alltid bruker samme plassering av nodene i testene våre. 
+Det viste seg ikke å være veldig smart. 
+
+Måtte endre plassering 
+
+Under hastighetsmålingene viste det seg nemlig at testmobilen stadig koblet seg til noden i etasjen over, selv om noden i stua var vesentlig nærmere. 
+Det gav seg utslag i hastigheten, som ble rett og slett for variabel. 
+
+Ved å flytte den andre noden til kjelleren, to etasjer under, fikk vi derimot utnyttet vår 160/160 Mbps bredbåndslinje til fulle, uansett hvor vi befant oss i boligen. 
+
+Det tyder på at kommunikasjonen mellom nodene er vesentlig sterkere enn det vi er vant til i tidligere tester, og tyder også at dette er en god løsning for store arealer - større enn vår bolig på 250 kvm. 
+
+I tabellen under ser du hastighetene vi målte, med én og to noder på forskjellige punkter i boligen. 
+Det er viktig å understreke at dette er målinger gjort mot Internett, ikke internt i lokalnettet - der makshastigheten kan være langt høyere. 
+
+Konklusjon 
+
+Denne testen bekrefter det Zyxel påstår: 
+Multy X er en løsning for meget store boliger. 
+Vår test viser videre at to noder gir bedre dekning enn flere løsninger som består av tre, som for eksempel Google Wifi - med mindre du har en bolig med mye betong, vannbåren varme og annet som kan stoppe trådløse signaler. 
+Da kan flere noder være nødvendig, også for Multy X. 
+
+Ankepunktene er først og fremst størrelsen på hver node, som er vesentlig større enn de fleste konkurrentene. 
+Ja, og så hadde det ikke skadet med flere funksjoner, men her er Multy X foreløpig i godt selskap. 
+
+Prismessig er dette ikke blant de billigste, men den koster omtrent det samme som Netgear Orbi, som også er en to-nodeløsning, hos Dustin Home og Komplett, blant andre (se under terningkastet). 
+
+Vi holder en liten knapp på Zyxel Multy X av disse to, men få også med deg testen av konkurrenten fra Netgear før du bestemmer deg. 
+
+Alle mesh-testene finner du her, mens tester av tradisjonelle rutere finner du her. 
+
+Senere denne uken kommer vi med en oppsummering av alle mesh-løsningene vi har testet denne høsten, med våre anbefalinger. 

@@ -1,0 +1,123 @@
+Olympus E-510
+TEST: 
+Olympus' dyreste kamera er også det klart beste. 
+
+Sommeren er over, og her i redaksjonen har vi begynt å hente inn nye kameramodeller som skal testes utover høsten. 
+
+Har du et spesielt ønske om en modell vi bør teste? 
+Send meg gjerne en epost på pj med @dinside.no bak. 
+
+Dagens testprodukt er Olympus E-510; det dyreste kameraet Olympus har å by på pr. i dag. 
+Ikke at det er avskrekkende dyrt - i de billigste nettbutikkene ligger prisen på drøye 7.000 kroner med 14-42mm kit-objektiv. 
+
+Du reagerer kanskje på brennvidden, men siden disse kameraene fra Olympus har en noe mindre sensor enn hva som er vanlig for Canon, Nikon, Sony og de andre, er cropfaktoren 2. 
+Skal du sammenligne bildeutsnittet med et 35mm-kamera må du multiplisere brennviddene med 2, så den 35mm-ekvivalente brennvidden blir 28-84mm på kitobjektivet, altså ganske likt det som er vanlig for speilrefleks av denne typen. 
+
+Vi har allerede testet Olympus' to andre kameraer som har blitt sluppet i år, E-400 og E-410. 
+Vi synes begge var gode kameraer og trillet henholdsvis sterk fire og fem. 
+Siden E-510 har mye til felles med sine forgjengere kommer vi ikke til å gå kameraet helt i sømmene, men henviser til nevnte tester for mer informasjon om Olympus' nye kamerarekke. 
+
+E-510 har med andre ord mye til felles med sine små brødre, men et par vesentlige ting er forskjellig: 
+
+Større grep 
+- Vi ble aldri helt fortrolige med det manglende grepet på E-410. 
+Heldigvis har E-510 et større grep - faktisk enda litt større enn det er på for eksempel Canon EOS 400DBildestabilisator 
+- Dette er svært etterlengtet på Olympus' systemkameraer. 
+Det finnes kun ett objektiv med bildestabilisator som kan brukes på FourThirds-systemet, men med E-510 sitter stabiliseringen i kamerahuset, og dermed blir alle objektiver stabilisert. 
+Stabiliseringen er mekanisk, der CCD-brikken flyttes på. 
+Olympus hevder at stabiliseringen gir opp til 4 trinns effekt, mens målinger vi har funnet tyder på at svaret ligger nærmere halvparten. 
+Det er uansett kjekt å ha når lystilgangen begynner å bli dårlig og du skal ta håndholdte bilder av noe som ikke er i bevegelse.Kraftigere batteri 
+- Tykkere hus på grunn av bildestabilisator gir også rom for et større batteri. 
+I følge CIPA-standarden holder batteriet til 650 bilder (kontra 400 på E-410)Flere knapper 
+- Den økte størrelsen på E-510 har også gjort at Olympus har fått plass til litt flere knapper. 
+La oss ta en titt på dem. 
+
+Nye knapper 
+
+På toppen av kameraet finner vi riktignok ingen nye knapper, men den økte størrelsen har gitt bedre plass til knappene, og de står ikke lenger like tett som de gjorde på E-410. 
+
+Det er imidlertid på baksiden det har skjedd store endringer. 
+Her har det kommet tre nye knapper: 
+
+IS 
+- Her kan du regulere bildestabiliseringen. 
+Den kan enten være avslått, eller i én av to moduser. 
+Modusene skilles ved at den ene fungerer i én retning og den andre fungerer i en begge. 
+Den første er egnet til panorering, der bare den vertikale aksen stabiliseres. 
+Dersom kameraet står på stativ er det nemlig slik at du bør slå av IS fordi den faktisk kan gjøre bildet mer uskarpt.Fokusområde 
+- En ny knapp fungerer som snarvei direkte til valg av fokusområde. 
+Her kan du velge mellom auto, venstre, midt i eller høyre. 
+E-510 har, i likhet med sine forgjengere, et trepunkts autofokussystem.Fn - Dette er godbiten - en knapp du kan definere via menyen. 
+Du kan blant annet ha forhåndsvisning av dybdeskarphet eller få muligheten til å holde knappen nede når du tar bilde slik at det ikke blir lagret (bare for å sjekke kjapt), men vi liker best den automatiske hvitbalansen. 
+Hold knappen inne og trykk på utløserknappen mens du peker på noe fargenøytralt (et hvitt ark, for eksempel), så er hvitbalansen satt. 
+Enkelt og raskt. 
+(Dette var det også mulig å gjøre med AEL/AFL-knappen før.) 
+
+Mer forskjell er det faktisk ikke - vi har gått spesifikasjonene i sømmene på Olympus' hjemmesider, men det virker som alt annet er likt. 
+
+Litt rotete, men effektivt 
+
+Kameraet fra Olympus er ellers et meget godt kamera. 
+Tilgangen til innstillinger liker vi bedre for hver gang - selv om det ser litt rotete er det veldig effektivt når du blir vant med det. 
+Nært sagt alt av innstillinger er tilgjengelig på "startsiden" - trykk på OK-knappen og pil deg rundt i matrisen av menyvalg og trykk OK igjen for å endre. 
+
+Selve hovedmenyen er ikke like elegant, men fungerer. 
+Struktureringen er som på Nikon, men plassen utnyttes ikke like godt til å vise tekst, som gjør at enkelte forkortelser ikke er like lette å forstå. 
+Det er heller ikke innebygget hjelp i menyene. 
+
+Søkeren er et pentaspeil med 95% dekning og 0,92x forstørrelse, men siden cropfaktoren er større enn det som er vanlig for denne typen kameraer, vil fortørrelsen, sammenlignbart med f.eks. Sony, Nikon og Pentax-kameraer i samme klasse, tilsvare 0,69x; rundt 20% mindre enn den vi finner på D80. 
+Siden formatet er 4:3 (med mindre i bredden) føles den også enda litt mindre, og er med andre ord blant de aller minste på markedet. 
+Informasjon om blender- og lukkertid etc. er for øvrig plassert på høyre side av søkerbildet, men informasjon om ISO-verdi er ikke tilgjengelig i søkeren. 
+
+Fortsatt finner vi ikke noe sensor som slår av skjermen når øyet nærmer seg søkeren. 
+Den slukker riktignok når du holder knappen halvveis nede, men tennes igjen når du slipper den, og det er et lite irritasjonsmoment ved kveldsfotografering. 
+
+En ting E-400 manglet var en gyroskopisk sensor som roterte bilder automatisk - det har E-510 fått, og den roterer også bildet i displayet når du vender på kameraet, noe ikke mange SLR-kamerer gjør. 
+Olympus' innebygde sensorrens er for øvrig også den eneste på markedet som i følge en tysk test har noe for seg. 
+
+E-510 har også en såkalt LiveMOS-sensor, som gjør at du kan få levende bilde i søkeren slik du kan på kompaktkameraer. 
+Bruken av dette er imidlertid noe begrenset, siden speilet må flippes for å fokusere, så fokuslås/manuell fokus er nesten et must om det skal ha noe for seg. 
+
+Som sagt - kameraet har mye til felles med E-400 og E-410, så vi foreslår en titt på de testene hvis du er interessert i E-510. 
+
+Ytelse 
+
+Vi har tidligere kritisert E-400 og E-410 for at autofokusen har vært vesentlig mye tregere i dårlig lys enn konkurrentene, og E-510 er heller det raskeste, men på våre tester har det gått bedre enn med 400/410. 
+Vi har imidlertid testet kameraet med et 11-22mm vidvinkelobjektiv som er mer lyssterkt, som kan ha hatt positiv innvirkning på fokushastigheten. 
+Kameraet bruker blitsen som hjelpelampe og fyrer av serier med 4-5 raske blink til fokus er oppnådd. 
+Mens 400/410 kunne fyre av fire-fem slike serier, nøyde E-510 seg med to i de aller fleste tilfeller. 
+
+Seriefoto oppgis til 3 bilder pr sekund opp til 27 bilder, men i likhet med de foregående kameraene fikk vi et dropp i ytelsen før den tid. 
+Denne gangen sakket frekvensen etter 16 bilder, og kameraet endte opp med 25 bilder på 10 sekunder (testen er utført med et Sandisk Extreme III-kort). 
+
+Som nevnt lenger opp er batteriet større enn på forgjengerne og duger til gode 650 bilder i forhold til CIPA-standarden. 
+Kameraet er klart til dyst på et drøyt sekund. 
+
+Bildekvalitet 
+
+Her er heller ingenting endret fra forgjengerne. 
+Kit-objektivet, 14-42mm, f/3.5-5.6 er blant de bedre på markedet, med lav kromatisk feilbrytning og god skarphet i kantene. 
+På grunn av den innebygde bildestabilisatoren i kamerahuset, vil du i visse situasjoner klare å ta skarpere bilder med E-510 enn med E-400/E-410. 
+
+En ting vi påpekte med E-400 har blitt rettet opp - den forhåndsinnstilte fargeprofilen er nå sRGB og ikke AdobeRGB, som vil gi et "riktigere" resultat hos de fleste. 
+For E-400 var tilfellet at bildet fremstod som langt mer fargeløst på våre skjermer, som var satt opp med sRGB-profil. 
+
+Som før er ikke støynivået på høyde med de beste fra ISO 400 og oppover, og ISO 1600 har en del støy, også i fargekanalene, og må brukes med langt mer forsiktighet enn hva tilfellet er for f.eks. 
+400D fra Canon (eksempel kan sees i fotoalbumet). 
+Vi har også opplevd enkelte hvitbalanseproblemer innendørs på automatikk, der en del av våre bilder har fått et grønnstikk, som du ser eksempel på under. 
+Da er det kjekt å ha lagt manuell hvitbalanse på Fn-knappen. 
+
+Innendørs har vi også hatt litt problemer i situasjoner der sterk sol utendørs gjør at lyset inn vinduet blir utbrent, men jevnt over eksponerer E-510 meget godt. 
+Ta en titt på fotoalbumet under for å se eksempelbilder tatt med kameraet. 
+Bildene er for øvrig ikke tatt med kit-objektivet, men et Zuiko 11-22mm f/2.8-3.5: 
+
+Konklusjon 
+
+E-510 er definitivt det beste digitale speilreflekskameraet fra Olympus. 
+Det har innebygget bildestabilisator, er meget komfortabelt å holde i og har fått bedre batterilevetid enn sine forgjengere. 
+Det har i tillegg markedets beste innebygde sensorrens, er brukervennlig og har godt med funksjoner. 
+
+Siden bildebrikken er noe mindre enn andre typiske kameraer i denne klassen, er ikke kameraet like godt på de høye ISO-verdiene, men det kan bildestabilisatoren til en viss grad kompensere for. 
+Fortsatt holder vi en liten knapp på Nikon D80 og Canon EOS 400D når det gjelder bildekvaliteten, men forskjellene er små. 
+
+Et anbefalt produkt-stempel er derfor velfortjent for Olympus denne gangen - mye av det vi hadde å trekke på E-400/E-410 er gjort bedre på E-510. 

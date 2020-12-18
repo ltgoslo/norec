@@ -1,0 +1,96 @@
+Dell Inspiron 8600
+Bærbare PCer med bredskjerm er blitt populære, først og fremst fordi mange ønsker å benytte PCen til å spille multimedia og film i bredformat. 
+Denne Centrino-PCen kan i tillegg skilte med særdeles høy skjermoppløsning. 
+
+Like før jul testet vi en annen, meget vellykket PC med bredskjerm - HP Pavilion ZT3000. 
+I likhet med denne er også Dell Inspiorn 8600 av den velutstyrte typen, men utstyrsnivået kan skreddersys i langt større grad. 
+
+LES OGSÅ: 
+
+PCen vi har testet har blant annet følgende å slå i bordet med: 
+
+15,4" WUXGA-skjerm, oppløsning 1920 x 1200 punkter Nvidia GeForce FX Go5650 grafikkbrikke, 128 MB Intel Pentium M 1,7 GHz prosessor 60 GB harddisk, 5400 rpm DVD+RW-brenner 512 MB minne VGA og TV-utgang (s-video) infrarød port 2 stk USB 2.0-porter Firewire-port modem 10/100 Mbit nettverk Trådløst nettverk (802.11b) 1 stk PCMCIA-plass Dokking-kontakt Pekeplate og styrepinne Størrelse: 35,6 x 27,1 x 3,5 cm Vekt: 3,24 kg 
+
+Det mest oppsiktsvekkende her er naturligvis bredskjermen og den høye oppløsningen. 
+Har du godt syn vil du helt sikkert sette pris på at du kan få plass til svært mye informasjon på skjermen, spesielt hvis du jobber med flere vinduer åpne samtidig. 
+Hvis du ikke tilhører denne kategorien brukere, har den ekstreme oppløsningen mindre for seg. 
+Da kan det være greit å vite at du kan bestille PCen med lavere oppløsning også (1680 x 1050 - fortsatt høy oppløsning altså), og samtidig spare noen hundrelapper. 
+For DVD-avspilling har dette ingenting å si uansett - der er oppløsningen "bare" 720 x 576 punkter. 
+
+Vi merker oss for øvrig at PCen kan kobles til dokkingstasjon/portreplikator via en kontakt på undersiden, og at PCen har to "museløsninger", pekeplate og en styrepinne lokalisert mellom G, H og B på tastaturet. 
+OPPDATERT: 
+Her er ingen tilleggsknapper for skrollfunksjonalitet, men fra Dell får vi opplyst at dette skal være mulig i selve pekeplaten ved å installere riktige drivere. 
+
+For øvrig er det ikke alt for mye å ringe hjem om; DVD-brenner er blitt vanlig nå, og totalvekten er ikke imponerende lav. 
+Mer utilgivelig er det at PCen kun har to USB-porter. 
+Det holder ikke når du kobler til en ekstern mus, og samtidig har både skanner og skriver. 
+Da må du investere i USB-hub. 
+Smålig, synes vi. 
+Her er nemlig mer enn god nok plass til flere porter. 
+
+PCen leveres med en del programmer, men i hovedsak er dette prøveversjoner med begrenset brukstid. 
+Operativsystemet er Windows XP Home Edition. 
+
+Design og utforming 
+
+Selve PCen har et funksjonelt og enkelt design i grått. 
+Lokket er heldigvis i metall, og tåler temmelig hard belastning før det blir forstyrrelser i skjermbildet. 
+Lokket er for øvrig litt lysere grått enn resten av PCen, og det er en blå ramme rundt tastatur og pekeplate. 
+
+Tastaturet er fast og fint, og tastene har logisk plassering. 
+Litt større linjeskift-tast hadde gjort seg, for øvrig har vi lite å påpeke. 
+Til høyre for tastaturet sitter knapper for styring av medieavspilling, og over tastaturet sitter knapper for justering av volum. 
+Praktisk nok. 
+For øvrig er det ingen hurtigtaster her. 
+
+I fronten sitter et par stereohøyttalere, og de gir faktisk ganske bra lyd, sammenlignet med mange andre løsninger vi har testet. 
+Her er det tross alt noe som minner om bass, og det kommer godt med når du skal nyte din enmannskino. 
+
+Og så var det skjermen, da... 
+
+Skjermen er skarp og fin, med middels god kontrast. 
+Oppløsningen høres voldsom ut, men for vår egen del fungerte det greit å jobbe i den, selv om også vi hadde foretrukket 1680 x 1050. 
+Å gå ned på oppløsningen fører som kjent til "grøtete" bilde på LCD-skjermer. 
+Spesielt nettsider, som ofte er tilpasset 800 x 600 punkter, ser corny ut i fullskjerm-modus. 
+En zoom-funksjon i Internet Explorer hadde vært tingen (joda, vi vet at Opera alt har dette). 
+
+Ytelse 
+
+Siden forrige gang har vi oppgradert testprogrammene våre, og kjører nå blant annet anerkjente PCMark04 og 3DMark03 fra Futuremark. 
+Størst interesse knyttet det seg egentlig til hvordan Nvidia GeForce FX Go5650-grafikken ville klare seg mot de raskeste brikkene fra ATI. 
+Vi fant ut at den ligger et godt stykke bak Mobility Radeon 9600PRO-brikken, rundt 20% på de fleste testene, ikke langt unna Mobility Radeon 9000. 
+Vi fikk ikke noe totalpoeng i 3DMark03, rett og slett fordi programmet krasjet under kjøring av den fjerde testen, "Mother Nature". 
+Den ekstremt krevende testen ble tydeligvis for tung for brikken, og det er kanskje en av grunnene til at Dell nå har gått bort fra å bruke denne brikken i det hele tatt på Inspiron 8600. 
+Når du leser dette vil nemlig ATI Mobility 9600PRO være standard på denne PCen, uten prisendring. 
+Så vidt vi kan bedømme, medfører det ikke annet enn fordeler. 
+NB! 
+Karakteren for grafikkytelse er gitt ut fra våre erfaringer med ATI-løsningen. 
+
+Den generelle ytelsen er jevnt over meget god. 
+Prosessoren er den kraftigste Pentium M-modellen for øyeblikket, og den yter omtrent som en Pentium 4-prosessor på 2,4 GHz under de fleste forhold. 
+
+Høy ytelse betyr ofte kort batterilvetid, men som regel er Centrino-baserte PCer unntaket her. 
+Vi er rimelig fornøyd med 3 timer og 12 minutters levetid på denne PCen, men det er slett ikke noe å juble for. 
+Det er faktisk noe bak de fleste Centrinoene vi har testet så langt, og omtrent gjennomsnittlig sammenlignet med PCer med mobilutgaven av Pentium 4 og AMD Athlon XP. 
+
+Stillegående 
+
+Men en annen god egeskap ved Centrino har heldigvis Inspiron 8600 bevart, det svake støynivået. 
+Under normal belastning vil du ikke oppleve viftestøy i det hele tatt. 
+Under tunge operasjoner, for eksempel DVD-kopiering, MP3-kompresjon og spilling, kan du oppleve at viftene kjører i ny og ne, men det blir aldri plagsomt. 
+
+Du finner detaljer fra PCMark og 3DMark-testene her. 
+For øvrig finner du detaljert oversikt over egenskapapene til denne PCen ved å klikke på Tekniske data i oppsummeringsboksen. 
+
+Konklusjon 
+
+Dell Inspiron 8600 yter generelt meget bra, støyer lite, og totalt sett får du mye bra PC for pengene. 
+Den har litt færre tilkoblinger enn vi hadde håpet på, men det er stort sett det eneste vi har å trekke denne gangen. 
+
+Vær for øvrig klar over at den høye oppløsningen ikke passer alle. 
+
+Vi har valgt å oppsummere egenskapene på denne måten: 
+
+Anbefalte bruksområder: 
+
+Spill: meget velegnet Video: meget velegnet Musikk:meget velegnet Internett- og kontoroppgaver:velegnet Bildebehandling: velegnet Grafisk design: meget velegnet Stille omgivelser: meget velegnet Mobilitet: middels egnet 

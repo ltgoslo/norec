@@ -1,0 +1,85 @@
+Creative Live!Cam Optia 
+
+Bedre opptikk, bedre bildeprosessering og raskere overføring - dette gir bedre bilde og jevnere video. 
+Pluss mye programvare. 
+Vi har testet. 
+
+Nye webkameraer lanseres på løpende bånd, det er ikke lenge de nye produktene lever på hyllene før nye modeller er på vei ut i forretningene. 
+
+Det siste skuddet på stammen fra Creative er Live! 
+Cam Optia. 
+Det er et helt nytt design med flere smarte løsninger. 
+
+"Vrient" kamera 
+
+Både fot og kamerahus er helt annerledes enn på tidligere kameraer fra Creative. 
+Løsningen er derimot ikke helt ulik Logitech UltraVision, i hvert fall selve huset og måten man justerer det på. 
+Men Creative har gått litt lenger. 
+
+Kameraet står på en kombinert fot og klemme, med gummibelagt vinkel i front og tilsvarende materiale i bakkant. 
+Som fot står den derfor ganske støtt på toppen av en LCD-skjerm som er flat på toppen. 
+Er skjermen for tykk er det ikke noe poeng i å brette ut klemmen, da skyves hele historien oppover i bakkant. 
+Skjermen må være såpass tynn at den nederste kanten med gummibelegg får tak på baksiden. 
+
+På tre forskjellige bærbare fungerte klemmen utmerket, men var ikke like stram som Microsofts LifeCam NX-6000. 
+
+Kamerahuset sitter festet på venstre side i et ledd som kan skyves frem og tilbake. 
+Det kan også vris slik at det "ser" rett ned (da slår det seg også av) og opp og videre rundt slik at det til slutt peker rett bakover. 
+Svært fleksibelt. 
+
+Fokus styres manuelt med en ring rundt linsen. 
+
+Driver eller ikke driver? 
+
+Creative understreker at det ikke er nødvendig å installere drivere, at man bare kan plugge i kameraet og starte video-chat med det samme. 
+Kameraet fungerte utmerket på vår bærbare Dell både med forhåndsvisning ved å dobbeltklikke på USB Video Device under My Computer, og med LiveMessenger. 
+Men av en eller annen grunn ikke med Yahoo Messenger, da var det en liten svart skjerm i stedet for bilde. 
+
+Det kommer også med en CD med drivere og flere ekstraprogrammer. 
+Hele samlingen tar relativt lang tid å installere, fra nesten halvtimen på eldre PCer med Pentium M og Pentium 4 til ca et kvarter på vår nye Core 2 Duo. 
+
+Programmene som installeres er Creative Live! 
+Cam Suite! for bildebehandling og organisering, og muvee autoProducer som er et videoredigeringsprogram med automatisk redigering til musikk. 
+
+Live! 
+Cam Manager-programmet er et kontrollpanel som styrer basisfuksjonene og starter andre programmer som bruker kameraet, som f.eks. Live Messenger og Windows Movie Maker. 
+Her finner du også kontrollpanelene med de vanlige innstillingene av bildeparametre. 
+
+Men Creative understreker at automatikken nå skal være så bra at man ikke behøver å gripe inn og justere manuelt. 
+I de fleste situasjoner er nok dette riktig, både eksponering og hvitbalanse var helt på høyden med eller bedre enn på tidligere modeller fra Creative. 
+
+Selve kameraet har VGA-oppløsning på 640x480 og med USB 2.0 Hi-Speed overføring blir det også svært jevn video direkte fra kamera og inn på PCen. 
+
+Vi tok med oss den bærbare ned til elven og ga kameraet en vrien oppgave: 
+Filming av Akerselven som renner, gressbakken, bygninger, vei og himmelen på den andre siden. 
+Dette er jo å tøye dynamikken vel langt, og bygningene og himmelen blir stort sett hvitt. 
+Vi skimter trafikken på veien, mens gressbakken, fotgjengerne og elven ser helt ok ut. 
+
+Under mer normale forhold ut fra det et webkamera brukes til er resultatet jevnt over bra. 
+Vår dukke og koffert med tusjer ble noe mørke, mens selve testeren fikk et langt høyere portvinspreg enn det han fremstår med i virkeligheten... 
+
+Moro med video 
+
+Opptak av video skjer i AVI eller WMV-format, og det er mulig å velge AVI med andre codec'er hvis du har installert dette på PCen. 
+
+Jevnere video enn med dette kameraet har vi aldri opplevd, så her er det muligheter for å leke seg litt. 
+Selve bildekvaliteten begrenser mulighetene i det endelige resultatatet, men man kan likevel lage underholdende snutter. 
+
+Vil du prøve deg på tidskomprimerte opptak kan du sette kameraet til å ta bilder med lange mellomrom, som så blir spilt av i valgt hastighet. 
+Et barneselskap på 3 timer kan f.eks. krympes ned til 5 minutter og bli ekstra underholdende. 
+
+Til chatting kan du også kjøre videoeffekter i sanntid, med speiling, forvrengning, overlays og masse annet. 
+Flere effekter kan lastes ned her 
+
+Konklusjon 
+
+Creative Live! 
+Cam Optia hevder seg i det øverste sjiktet når det gjelder webkameraer. 
+Det gir ikke like god bildekvalitet som toppmodellen fra Logitech, men denne bildekvaliteten kommer uansett ikke gjennom til mottaker når du går gjennom kverna i Messenger, Skype eller andre chattetjenester. 
+
+Pakken fra Creative gir nesten like bra video til chatting i praksis, og tilbyr mer moro for de som vil leke seg med video. 
+Både på grunn av den overlegne frameraten og morsom programvare. 
+
+Kameraet har ikke innebygd mikrofon, men det følger med ørepropper og mikrofon for tilkobling til mini-jack. 
+
+Kameraet har vi sett til rundt 600 kroner i nettbutikkene, og Creative selges stort sett over alt. 

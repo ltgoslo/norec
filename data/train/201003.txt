@@ -1,0 +1,70 @@
+Seagate Backup Plus
+Her snakker vi 4 TB - fire terabyte - i lommeformat. 
+Rask er den også! 
+
+Ekstern lagring har blitt bortimot en ren nødvendighet etter hvert som så mange har gått over til bærbare PC-er. 
+Gjerne supplert med lagringstjenester i nettskyen. 
+Men det finnes mange alternativer, stasjonære eller mobile. 
+
+For stasjonært bruk er en NAS en ypperlig løsning, siden den kan deles av flere. 
+Men skal du ha noe bare til eget bruk som også skal være portabelt er en USB-basert enhet det eneste realistiske alternativet. 
+
+Trenger ikke strøm 
+
+Tidligere har du måttet kjøpe store, eksterne drev med ekstra strømforsyning, hvis du var ute etter stor kapasitet. 
+Små USB-enheter som ikke trengte mer strøm enn USB kunne levere, var begrenset i kapasitet og hastighet. 
+
+Men her får du 4 terabyte i hånden - 
+
+uten ekstra strøm 
+
+. 
+Og den er rask! 
+
+Seagate Backup Plus 
+
+Det finnes ikke noen liten harddisk med kapasitet på 4 terabyte, altså er det snakk om to 2,5-tommers harddisker, hver på 2 terabyte, i et kompakt USB 3.0 kabinett. 
+
+Men det stopper ikke med det. 
+De to diskene jobber sammen i Raid 0 som betyr at de jobber parallelt. 
+Dermed er både skrive og lesehastighetene om ikke dobbelt så høye, så vesentlig høyere enn med en enkelt disk. 
+Dette oppsettet ligger i maskinvare og brukere behøver ikke, og kan ikke, endre oppsettet. 
+
+I tillegg følger det med to USB 3.0 kabler for tilkobling. 
+Den ene er en kort, vanlig mini-USB 3.0-type, den andre er en splittkabel som kan hente strøm fra to USB-porter på PC-en dersom den ikke klarer å levere nok strøm fra én port. 
+
+Installasjon 
+
+Disken er ferdig formatert i NTFS og driver for MacOS er installert på disken, så den dukker opp uansett plattform. 
+Programvaren Seagate Dashboard er også klar til å installeres; dette programmet byr på sikkerhetskopiering av valgfrie datatyper enten med det samme eller regelmessig til tider du velger selv. 
+Du kan også bruke Seagates skytjeneste for fjernlagring av data i nettskyen, i tillegg til lokal lagring. 
+
+Ved å installere apper på dine mobile enheter (iOS eller Android) kan du også kopiere over data fra disse. 
+Du kan også kopiere over egne data fra din konto på noen sosiale medier (Facebook og Flickr). 
+
+Rask! 
+
+Et av problemene med tidligere USB 2.0 disker har vært en beskjeden overføringshastighet. 
+Med USB 3.0 er vi imidlertid oppe i et langt raskere område, og med to disker i RAID 0 er vi oppe i området rundt 200 megabyte i sekundet. 
+
+Da begynner det å smake av fugl. 
+
+Den sekvensielle overføringshastigheten for mellomstore og store filer, som de fleste datafiler, er raskere enn hos vanlige harddisker. 
+Vi nærmer oss faktisk de rimelige SSD-ene. 
+
+Har du en PC med harddisk er det ikke Seagate Backup Plus som er flaskehalsen i overføringen. 
+
+Her er våre testmålinger: 
+
+Det framgår tydelig i alle tester at det er skrivehastigheten som er høyest, og det er jo en utmerket egenskap for en disk som er beregnet på backup. 
+
+Konklusjon 
+
+Seagate Backup Plus er en utmerket en-brukerløsning for sikkerhetskopiering. 
+Den er rask og kompakt, og tilkoblingen er så enkel som den kan bli: med en eneste kabel. 
+
+Det er også en utmerket ekstradisk med svært høy ytelse og enorm kapasitet. 
+
+Har du spesielt verdifulle data lagrer du det uansett på skytjenesten i tillegg, og gjerne på et par andre steder også - uansett. 
+
+Seagate Backup Plus Fast USB 3.0 4TB 

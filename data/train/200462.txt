@@ -1,0 +1,140 @@
+Fujitsu Siemens Lifebook P7230
+Denne lille bærbare har lav vekt, anstendig kvalitet, lang batterilevetid og innebygd 3G-modem. 
+Men billig er den ikke. 
+
+Tidligere denne måneden var vi i Telenor-bygget på Fornebu for å få demonstrert HSDPA, som også går under kjælenavnet super-3G (nåja, SÅ supert er det ikke), og samtidig fikk vi en første sniktitt på Lifebook P7230 fra Fujitsu Siemens. 
+
+LES OGSÅ: 
+
+Ett av disse presse-eksemplarene, som i bunn og grunn er en godt testet prototype eller "engineering sample", har nå også fått lov til å bryne seg på vår testbenk. 
+Men det å sitte på en så tidlig produksonsmodell betyr at det også kan ha kommet små forandringer og forbedringer til det ferdige produktet du får i butikken, så det er greit å ha dette i bakhodet når du leser testen. 
+
+Vi har tidligere i år testet en annen PC av omtrent samme kaliber, nemlig A1 Express Dual. 
+Denne har mye til felles med Lifebook P7230, som en skjerm på 10,6 tommer med 1280 x 768 pikslers oppløsning, 80 GB harddisk (1,8") og ULV-prosessor (Ultra Low Voltage) for å maksimere batterilevetiden. 
+
+Ingen store overraskelser i design eller fargevalg - noe som heller ikke er uventet på en businessmodell. 
+De kommer sjelden i rosa. 
+
+Fulle spesifikasjoner: 
+
+Intel Core Solo U1400 @ 1,2 GHz 10,6" skjerm i bredformat (1280 x 768 piksler) 1 GB DDR2-minne (1 x 1024 MB) 80 GB harddisk (4200 rpm) 
+DVD-RAM/CD/DVD-brenner Intel GMA 950 grafikk, opp til 128 MB delt minne Integrert GPRS/EDGE/UMTS/HSDPA 54 Mbps WLAN (a/b/g) Gbit LAN + blåtann 2 x USB, FireWire 1 CardBus kortplass Kortleser for: SD, xD, MS/PRO VGA ut, lyd inn/ut Fingeravtrykksleser Webkamera og høyttalere Dokkingstasjon (portreplikator) følger med Microsoft Windows Vista Business Dimensjoner (B/D/H): 
+27,3 x 20,0 x 3,3 cm Vekt: 
+1,4 kilo med optisk drev og ett batteri Veiledende pris: ca. 23.500 inkl. mva. 
+
+Som på de fleste nyere bærbare har også LifeBook P7230 en bredskjerm med kontrastbelegg, som nevnt på 10,6 tommer og med 1280 x 768 punkter. 
+Fargene er gode og kontrasten akseptabel, men vi irriterer oss også litt av at baklyset lekker inn fra topp og bunn av panelet. 
+Innsysvinkelen er heller ikke noe å skryte av. 
+Skjermens lysstyrke kan forresten også justeres ned til et nivå der det ikke er brukelig til noe som helst, mens vi mye heller ville hatt mindre trinn ned fra full styrke. 
+
+Men skjermen er god nok til sitt bruk, siden det tross alt ikke er applikasjoner som krever mye visuell presisjon som kommer til å hovedsaklig være det P7230 vil bli brukt til. 
+Likevel, kunne vi ønsket oss hakket bedre på en såpass dyr maskin. 
+
+Konstruksjon 
+
+Kvaliteten på chassiset er det ikke mye å si på, det er stivt og solid over alt bortsett fra rundt det optiske drevet. 
+Det er en grunn til dette, DVD-brenneren kan nemlig tas ut med et håndgrep og byttes ut med et ekstra batteri. 
+Dette følger dog ikke med. 
+
+Lokket er på sin side mykt, men i det minste godt henglset til chassiset, og vekten er lav nok til at skjermen tåler å bli brukt til å løfte resten av maskinen. 
+Ikke det at vi anbefaler det sistnevnte, men det er nå engang slik røff behandling mange gir sine bærbare maskiner. 
+
+I tillegg til selve tastaturet har PCen selvfølgelig noen snarveisknapper. 
+Den lille bryteren som sitter oppe til venstre er for å slå av og på blåtann, WLAN og modemet for 3G-modemet. 
+De tre knappene til høyre for statuslysene er snarvei for en spesiell strømsparingsmodus, snarvei for gjenopprettingsmodus og til slutt den gode, gammeldagse av/på-knappen. 
+
+Tastaturet er i full størrelse breddemessig, men har firkantede (ikke avlange) taster. 
+Det gjør at tastene sitter litt tett på hverandre i høyden, men her er det kun snakk om en liten tilvenningsperiode. 
+Som med A1 fra LG har tastaturet kjapp og fast respons, og til og med layouten er stort sett lik. 
+Vi har derfor ikke mye å klage på her, når til og med Fn-tasten er på rett plass. 
+Siden vårt testekseplar er en prototype hadde den ikke norsk tatstatur. 
+
+Touchpaden er følsom og god, men kunne med fordel ha vært i bredformat, som skjermen. 
+Men det vi virkelig savnet var skrollefelt, spesielt vertikalt - helt til vi ble klar over at fingeravtrykksleseren som er er plassert mellom knappene under også brukes til å skrolle opp og ned. 
+Smart. 
+
+Tilkoblinger 
+
+P7230 har tilkoblingsmuligheter på alle sider: 
+
+Fronten er nokså jomfruelig, med kun minnekortleseren og en skyveknapp som vipper ut beskyttelsesplasten i CardBus-sloten. 
+
+Plassert på venstre side har vi VGA, lyd inn/ut, FireWire, en USB-port og en CardBus kortplass. 
+Varmluften kommer også ut her. 
+I tillegg er det plass for kensingtonlås lengst mot lokket. 
+
+Høyresiden har - foruten plass til optiske drevet - en USB og inntak for strøm. 
+
+Baksiden domineres naturlig nok av batteriet, men det er også blitt plass til LAN-kontakten under det ene hengselet (her til høyre). 
+
+Med i pakken følger en dokkingstasjon, eller portreplikator om du foretrekker det navnet. 
+Denne er lett og enkel å bruke, bare sett den bærbare oppå og du er koblet til via en port på undersiden av PCen. 
+En stor fordel er at den øker tilgjengelige USB-porter fra to til fem, og i tillegg er det naturligvis inngang for strøm, VGA, S-Video, lyd ut og LAN: 
+
+Vi har blitt tipset om at dokkingstasjonen kan bli seende litt annerledes ut for det ferdige produktet, men trolig er det kun små detaljer som vil være forskjellen. 
+
+Ytelse og batterilevetid 
+
+Prosessoren er altså av typen Ultra Low Voltage (ULV) - en Core Solo U1400 fra Intel på 1,2 GHz klokkefrekvens. 
+Interessant nok er det akkurat den samme hastigheten som vi finner i LGs A1 Express Dual, bortsett fra at sistnevnte er av typen Core Duo - altså dobbeltkjernet. 
+
+Da vi målte ren prosessorytelse med programmer som kun brukte en prosessorkjerne var det som ventet ingen praktisk forskjell på de to prosessorene. 
+Først når bruk av flere kjerner blir en faktor vil dobbeltkjerneprosessoren i A1 Express Dual gjøre stor forskjell. 
+
+Målt med PCMark05: 
+
+PCMark05 - høyere poengsum er bedre. 
+
+Bortsett fra enkeltkjerne kontra dobbeltkjerne er det også en annen ting som markant skiller de to kandidatene fra hverandre: grafikkløsningen. 
+A1 fra LG er den minste bærbare vi har sett hittil som har hatt et dedikert grafikkort (nVidia GeForce Go 7300), mens FS' P7230 har integrert grafikk fra Intel (GMA 950). 
+Det betyr ikke at vi skal kalle A1 for "godt egnet til spill" eller lignende, men er du villig til å lempe litt på kravene til detaljer og innstillinger vil den klare seg brukbart i de mindre krevende spillene, noe som er langt mer enn vi kan si for P7230. 
+
+Lifebook P7230 har en egen knapp for "Eco"-modus, eller hva vi kan beskrive som avansert strømsparingsmodus. 
+Vi brukte naturligvis denne, noe som ga oss innstillinger som var på linje med de vi vanligvis bruker når vi tester batterier med BatteryMark. 
+Totalt kjøretid var på over fem og en halv time. 
+Meget bra! 
+
+Tidligere i artikkelen var vi også innom det faktum at DVD-brenneren lett kan byttes ut med et ekstra batteri. 
+Det følger dog ikke med i pakken, så vi vil ikke spekulere i hvor mye ekstra batteritid dette vil gi. 
+Men fem og en halv time i BatteryMark burde uansett holde for selv en drøy arbeidsdag. 
+
+Når det gjelder støy var vi til å begynne med smått imponert over Lifebook P7230, for den gjorde ikke så mye av seg... helt til den ble varm. 
+Når det først skjer (det kan ta flere timer dersom du ikke stresser den) skrur vifta seg av og på ganske ofte, noe som kan være småirriterende i støysvake omgivelser. 
+
+Siden det er en prototype vi har testet kan vi håper at dette har blitt bedret noe hos de ferdige eksemplarene av denne lille PCen. 
+
+Innebygget 3G 
+
+Lifebook P7230 kommer hovedsakelig i to versjoner: med og uten innebygget modem for pakkedata. 
+Sistnevnte koster omtrent to tusenlapper mindre enn den som har dette. 
+
+For å bruke denne funksjonen trenger du et egnet mobilabonnement og et SIM-kort som må settes inn i maskinen. 
+Du må ta av batteriet for å sette i SIM-kortet. 
+
+Selve bruken er nokså rett fram. 
+En medfølgende applikasjon kalt "3G Watcher" finner ut hvilke mobilnett som er tilgjengelig og kobler deg opp mot det raskeste. 
+I tillegg setter den opp/ned hastigheten sømløst og automastisk dersom du beveger deg inn i et område med bedre eller dårligere nett. 
+Så dersom du sitter på bussen og kommer inn i et område med 3G vil du automatisk få høyere hastighet, og når det igjen ikke er mer 3G-dekning vil du gå tilbake til for eksempel EDGE. 
+
+Konklusjon 
+
+Fujitsu Siemens P7230 har mange sterke sider, men hovedsakelig er det selvfølgelig størrelse, vekt og funksjonalitet som tiltaler oss ved denne modellen. 
+
+Det er ikke uten grunn at vi hele veien har sammenlignet Lifebook P7230 med LGs A1-modell, for på mange måter er de veldig like. 
+Når det gjelder byggekvalitet får begge gode skussmål. 
+De har et litt tynt og svakt lokk, men totalt sett er vi fornøyd med tanke på størrelse og vekt. 
+Også prisen på de to ligger på omtrent det samme. 
+
+Fujitsu Siemens sin modell har styrken i at den kommer i en ferdig pakke. 
+De 1,4 kiloene inkluder god batterilevetid og et optisk drev. 
+I tillegg er det som nevnt mulighet for å ofre brenneren for enda mer batterikraft. 
+Og den har noe A1 mangler fullstendig: det innebygde modemet med 3G-støtte, som gjør at du kjapt og enkelt kan koble deg på Internett via mobilnettet. 
+
+LGs 
+A1 er på sin side en lettere datamaskin med en vekt på bare litt over en kilo i enkleste konfigurasjon. 
+Men skal vi matche P7230 i utstyr må du dra med deg den eksterne DVD-brenneren og det ekstra batteriet, og da er vi oppe i samme vekt. 
+Likevel skal vi heller ikke glemme at den også har mer prosessorkraft og bedre grafikkort. 
+Her må du dog også se an bruken av PCen - er det kun snakk om surfing, epost og lett kontorarbeid vil du tross alt ikke merke store forskjellen. 
+
+Hovedsakelig er det altså snakk om smak, behag og behov. 
+Vi ender i hvert fall opp med å gi Lifebook P7230 - som vi også ga LGs A1 - en femmer på terningen. 

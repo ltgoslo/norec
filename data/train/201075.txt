@@ -1,0 +1,87 @@
+Epson Expression Photo XP-760
+Testens fineste fotoutskrifter og klart beste skjerm. 
+Bør absolutt vurderes om foto er det viktigste for deg. 
+
+Epson XP-760 etterfulger fjorårets XP-750, som fikk gode skussmål i vår test, spesielt på fotoutskrifter. 
+Det har alltid vært et hovedfokusområde for Epson, og forventningene våre til XP-760 var derfor store. 
+En annen årsak til at vi hadde store forventninger, var at den er relativt mye dyrere enn de to andre i testen, og da bør også kvalitet og funksjonalitet stå i stil. 
+
+Nytt i forhold til fjorårsmodellen er blant annet ny, bredere berøringsskjerm, samt at Epson denne gangen nøyer seg med å utstyre skriveren med kortleser for kun SD-minnekort, der XP-750 også støttet flere andre korttyper. 
+Merk også at den har en USB-inngang i fronten, slik at PictBridge-kompatible kameraer kan skrive ut direkte via kabel. 
+
+Her er en rask oversikt over de tekniske egenskapene, sammenlignet med de to andre modellene (du finner lenke til dem nederst i denne artikkelen): 
+
+Allerede her ser vi noen åpenbare forskjeller: CD-utskrift, PictBridge- og Ethernet-støtte er ting som nok er medvirkende årsaker til at dette er et dyrere produkt enn de to andre. 
+Greit å være klar over hvis slike ting er viktig for deg. 
+Vi liker også at den har en egen arkmater for inntil 20 fotoark i bakkant, slik at du slipper å bytte mellom hver gang du skal skrive ut på vanlig papir og fotopapir. 
+
+Legg til at skjermen er både større og bedre enn på de to andre, så har du mesteparten av forklaringen på noe høyere pris. 
+
+Brukervennlighet 
+
+Epson XP-760 er brukervennlig og grei å sette opp, men vi vil påstå at både HP og Canon er et lite hestehode foran på enkelte områder. 
+Selve installasjonen er også mer tidkrevende, da skriveren trenger temmelig lang tid på initiering. 
+
+Skriveren oppdages og installeres i Windows 8.1, men kun med svært begrenset funksjonalitet, i motsetning til de to andre. 
+Det anbefales derfor sterkt å installere den medfølgende CD-en med drivere og programvare. 
+
+Skjermen er som sagt testens beste, og det er svært enkelt å navigere rundt og gjøre forskjellige innstillinger. 
+Men på enkelte punkter svikter det, som for eksempel når vi ønsker å skanne til nettskyen. 
+Her burde Epson tatt seg bryet med å forklare oss hvordan vi går fram for å registrere oss: 
+
+Vi fikk også en feilmelding da vi prøvde dobbelsidig utskrift, som vi ikke forstod så mye av. 
+
+Funksjonalitet 
+
+Skriveren er meget funksjonsrik, og vi har vært inne på noen av dem allerede. 
+Via menyen på skriveren har du tilgang til en rekke spesialfunksjoner, alt fra gratulasjonskort til kalender og origami. 
+
+Å skrive ut på CD og DVD var kanskje mer interessant for noen år siden, det samme gjelder Ethernet-støtte og mulighet til å skrive ut direkte fra kameraet via kabel. 
+Det er imidlertid greit å være klar over at denne skriveren kan det, hvis du skulle ha behov for disse funksjonene. 
+
+AirPrint gjør det mulig å skrive ut direkte fra iPhone/iPad, og her har du i det minste muligheten til å velge mellom to papirstørrelser, men ikke kvalitet. 
+Hele greia virker temmelig prepubertal, og det gjelder alle tre skriverne i testen: 
+
+Google Cloud Print støttes også, hvis du har Android-basert mobil. 
+
+Hastighet 
+
+Skriveren er faktisk raskest av de tre på kopiering, og det gjelder både svart/hvitt og i farger. 
+Den er også raskest på innskanning av bilde i A4-størrelse, sammen med HP. 
+Den henger imidlertid etter på tekstutskrifter og enkel grafikk på vanlig papir, så hvis det er en prioritet, bør du kanskje vurdere en annen skriver. 
+
+Skannerkvalitet 
+
+Skanneren er som ventet meget god, og byr på et vell av innstillinger. 
+
+Med standardinnstillingene ble innskanningen noe bløtere enn hos de to andre, noe som slett ikke behøver å være noen ulempe. 
+Eventuell oppskarping kan man alltid foreta i etterkant, og da med bedre kontroll, for eksempel i Photoshop. 
+Fargegjengivelse og detaljrikdom i 300 dpi er meget god, men noen ganger undereksponerer den bittelitt med standardinnstillingene. 
+
+Om du vil, kan du laste ned denne .zip-filen (40MB), som inneholder en innskanning i full størrelse fra hver av skriverne. 
+
+Dokumentutskriftskvalitet 
+
+I motsetning til de to andre skriverne i testen betyr kladdekvalitet her nettopp det. 
+Disse utskriftene er bleke og egner seg ikke til annet enn rask gjennomlesning. 
+I normalmodus blir kvaliteten upåklagelig, både på tekst i svart/hvitt og enkel grafikk i farger - men merk altså at hastigheten her ligger noe bak de to andre. 
+
+Fotokvalitet 
+
+Epson er svært gode på fotoutskrifter, noe XP-760 viser til gagns. 
+Dette er rett og slett skriveren vi hadde valgt dersom foto var det viktigste for oss. 
+De seks blekkfargene kombinert med variable dråpestørrelser ned mot én pikoliter, gjør at alle raster og overganger blir fine, og bildene framstår som kontrastrike og delikate. 
+
+Men bruk (Epson-) fotopapir som er kalibrert mot skriveren, kvaliteten på bildeutskrifter på vanlig papir er best hos denne konkurrenten. 
+
+Konklusjon 
+
+Epson XP-760 er en super skriver for deg som ønsker å skrive ut fotografier. 
+Den er funksjonsrik og har mange tilkoblingsmuligheter. 
+Merk imidlertid at den kan noen ganger oppleves som litt mer komplisert enn de to andre, og passer derfor kanskje best til et litt mer avansert publikum. 
+Den er heller ikke vårt førstevalg når det kommer til «vanlige» utskriftstyper som tekst og blandet tekst/grafikk. 
+Generelt synes vi også prisen er for høy, når du sammenligner med hva du får hos testvinneren - som koster mye mindre. 
+
+Les også om de to andre skriverne i testen: HP Envy 5530 Canon Pixma MG6650 
+
+Epson Expression Photo XP-760 

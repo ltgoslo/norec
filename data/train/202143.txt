@@ -1,0 +1,71 @@
+AMD Sempron 140:Slik yter den 
+
+Den koster nesten ingenting, men her får du svært mye for pengene. 
+
+AMD Sempron 140 er en relativt avansert 2,7 GHz-prosessor basert på 45 nm-arkitektur, og ser du bort fra at den kun har én aktiv kjerne har den støtte for maskinvareaksellerert virtualisering, og kan dermed brukes til å kjøre Windows XP-modus i Windows 7. 
+Dette er verken Celeron- eller Pentium-prosessorene til Intel i stand til. 
+
+En annen udiskutabel fordel er at prosessoren leveres med en kjøler og vifte som har innebygd temperatursensor. 
+Med de rette innstillingene i PC-ens BIOS, blir den i stand til å regulere viftehastigheten etter kjølebehov. 
+Slike vifter fulgte ikke med eldre Sempron-prosessorer, ei heller Celeron-prosessorer fra Intel. 
+
+Og her kommer kanskje den viktigste fordelen, strømforbruket er maks 45W, og varmeutviklingen er svært lav. 
+I vårt miditower-kabinett uten andre vifter enn den som sitter i strømforsyningen, målte vi temperaturen til under 30 grader ved lav belastning, og ved full belastning nådde den knapt 40 grader. 
+Og prosessorvifta var knapt hørbar under noen omstendigheter. 
+Det er oppsiktsvekkende, og vi tipper mange vil bli fristet til å prøve med en vifteløs løsning til denne prosessoren. 
+
+Phenom II 905e har fire kjerner, og her lå temperaturen også stort sett på 30-tallet, men vifta hadde en litt høyer omdreiningshastighet her. 
+
+Hva sier så opplevelsesindeksen i Windows 7? 
+Her er de respektive tall med de to prosessorene: 
+
+Relativt klar forskjell her altså, men syntetiske tall kan aldri erstatte stoppeklokka. 
+Før vi gikk i gang med videotestene satte vi prosessorene til å utføre et par tunge jobber: 
+
+1. 
+Videokomprimering. 
+Videofil med varighet 3m 28s. Fra DivX HD (1080P) til MKV (720P) ved hjelp av DVDFab: 
+
+2. 
+Filkomprimering: 
+Diverse filer, totalt 577 MB, til RAR-format ved hjelp av WinRAR 3.7: 
+
+De to testene våre sier ikke alt, men de levner ingen tvil om at Sempron 140 aldri bør være et førstevalg for deg som ønsker å utføre tunge jobber raskt. 
+Forskjellene mellom de to prosessorene var faktisk større enn vi hadde forventet i disse testene. 
+
+Videoavspilling 
+
+Men vår test-PC brukes først og fremst til videoavspilling. 
+Hvordan håndterer den det? 
+
+Første test: 
+MKV-filer, 720P/1080P. 
+Vi bruker først medieavspilleren VLC 1.0.3. 
+Vi opplever tydelig hakking, 1080P kunne vi bare glemme. 
+Vi sjekker prosessorbelastningen, som ligger høyt, men ser ikke ut til å gå helt i taket: 
+
+Vi prøver derfor forskjellige innstillinger i programmet, uten positiv effekt. 
+Med Phenom II 905e opplever vi ingen problemer, og svært lav prosessorbelastning: 
+
+Deretter prøver vi avspilling av de samme filene ved hjelp av spilleren Splash Lite. 
+Prosessorbelastningen ligger vesentlig lavere enn ved bruk av VLC, og vi opplever ingen hakking verken på 720P- eller 1080P-klippene på Sempron 140: 
+
+også Media Player Classic fikset brasene uten problemer. 
+
+Andre test: 
+Blu-ray-avspilling ved help av PowerDVD. 
+Prosessorbelastning ligger stabilt rundt 40% på Sempron. 
+Ingen tegn til hakking eller andre problemer, legg også merke til den lave temperaturen: 
+
+Konklusjon 
+
+Vår lille test avslører at Sempron 140 er et glimrende prosessorvalg for deg som skal bygge et mediesenter til en billig penge, og da gjerne sammen med Asus-hovedkortet M4N78-VM, den integrerte grafikkbrikken, 2 GB minne og Windows 7. 
+Ikke barer yter den godt nok, den er også svært stillegående. 
+Også til filserver og andre enkle serveroppgaver i heimen kan den definitivt gjøre jobben like godt som langt dyrere alternativer. 
+
+Vi hadde litt problemer med HD-video og avspilleren VLC, men andre gratis-avspillere spiller de samme filmene våre uten å mukke. 
+
+Vi ville derimot ikke valgt denne prosessoren dersom vi også skulle bruke PC-en til videoredigering og andre tyngre oppgaver, her ville vi klart gått opp noen hundrelapper i pris og valgt en flerkjerneprosessor - for eksempel denne. 
+
+Ønsker du å se en "rangering" av Sempron 140 mot andre prosessorer? 
+Denne oversikten hos Passmark gir en god indikasjon. 

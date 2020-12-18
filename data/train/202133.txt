@@ -1,0 +1,89 @@
+Test:Asus PA238Q 
+
+Her har vi en proffskjerm til budsjettpris. 
+
+Prisene på LCD-skjermer synker stadig, du får nå skjermer på over 20 tommer med HD-oppløsning fra en drøy hundrings over tusenlappen. 
+Og selv om du går flere hundre kroner opp i pris får du ikke så dramatisk mye bedre bilde. 
+Grunnen er at alle de billige LCD-skjermene har et TN-panel, som alle har de samme svakhetene. 
+Skal du ha et betydelig bedre bilde må du over på en annen paneltype. 
+
+Det er gjerne slik at du må betale mer for å få mer, og bildekvalitet er fremdeles ikke gratis. 
+Men også her er det konkurranse, og stadig flere produsenter tilbyr nå skjermer basert på IPS-paneler, til en pris som ikke ligger langt over de gode skjermene med TN-panel. 
+
+Fordelen med IPS 
+
+Panelet i de billige LCD-skjermene er alltid av den enkleste typen, som kalles TN. 
+Dette betyr Twisted Nematic, og er den minst kompliserte teknologien. 
+Grovt skissert så er de flytende krystallene plassert langs lysretningen, og vrir seg og blokerer for lyset når cellen får spenning. 
+Med varierende spenning varieres lysgjennomgangen. 
+
+At de avlange krystallene ligger i lysretningen gjør at betraktningsvinkelen blir begrenset, kommer du for langt ut på en side så ser du ned på siden av krystallet, og ikke lyset. 
+Selve matrisen som sperrer for bakgrunnslyset har altså en viss dybdeeffekt. 
+Dermed vil fargene og balansen mellom dem variere mye med hvilke kant du ser skjermen fra. 
+
+LCD-paneler som baserer seg på IPS-teknikken(In Plane Switching) har de avlange krystallene plassert på tvers av lysretningen. 
+Det gir mer lysgjennomgang og en vesentlig mindre dybdeeffekt. 
+Dermed vil betraktningsvinkelen bli nesten 180 grader, og du kan se på skjermen fra alle kanter uten at fargene forandres. 
+
+Asus PA238Q 
+
+Denne skjermen har IPS-panel og i tillegg flere nyttige egenskaper. 
+Den er beregnet på de som stiller større krav til bildekvalitet og fargegjengivelse enn den vanlige nettsurfer. 
+Har du interesser som dreier seg om foto, video, design og beslektede sysler, så vil du ha glede av denne. 
+
+Den kommer med et kalibreringsskjema og gir deg mange av proffskjermens egenskaper i en langt rimeligere utgave. 
+
+Grunnen til at det nå kommer rimeligere IPS-skjermer er at panelene er 6-bits i stedet for 8-bits på de vesentlig dyrere utgavene. 
+De har likevel langt bedre egenskaper enn TN-skjermene og er definitivt tilstrekkelige til entusiastbruk. 
+For profesjonelt bruk snakker vi uansett om helt annet utstyr i en helt annen prisklasse. 
+
+Konstruksjon 
+
+Skjermen har et matt sort kabinett, med en rød linje nederst på underste bilderamme. 
+Du får med andre ord aldri problemer med feite fingermerker på blank pianolakk. 
+
+Også selve skjermoverflaten er matt, så reflekser fra takbelysning er et langt mindre problem enn på de billige skjermene med speilblankt kontrastbelegg. 
+
+Foten og opphenget er allsidig, og skjermen kan dreies, heves, senkes og roteres til høydeformat. 
+
+Tilkoblingene er DisplayPort, HDMI, DVI og VGA, i tillegg er det en USB hub med fire porter, to sitter på siden og de to andre i tilkoblingspanelet. 
+Det er også hodetelefonutgang, som fungerer hvis du kobler til skjermen med HDMI eller DisplayPort til en maskin som også sender digital lyd. 
+
+Bildekvalitet 
+
+Det første du legger merke til er at fargegjengivelsen er bedre enn på de rimelige skjermene. 
+Fargedynamikken er større, hele spekteret er mer intenst. 
+Også sort er dypere, du merker det både på video, bilder og tekst. 
+
+Skjermen leveres med skjema etter kalibreringstest, og et hvert eksemplar kholder seg innenfor sRGB spesifikasjonene. 
+
+Som nevnt er betraktningsvinkelen og fargebalansen en helt annen, her ser du samme fargebalansen uansett fra hvilken vinkel du ser på skjermen. 
+
+Etterslep er ikke synlig under bruk, det lille som kan provoseres fram i tester er også helt marginalt. 
+Responstiden på 6 ms er rask nok i praksis til det aller meste, også spill, selv om dette ikke er målgruppen for denne skjermen. 
+
+Betjening 
+
+Menysystemet er oversiktlig, med godt merkede knapper og funksjoner. 
+Knappene sitter på høyre side og gir bedre betjeningskomfort. 
+
+Spesielle egenskaper 
+
+Den øverste av menyknappene har helt spesielle funksjoner. 
+Den gir deg forskjellige hjelpemønstre på skjermen, som hjelper når du trenger linjal, eller faste formater. 
+
+Alternativene er ruter i centimeter eller tommer, 2 horisontale og 2 vertikale hjelpelinjer, A4 liggende, Letter liggende, 4x6 3x4 og 2x2 pluss 8x10 og 5x7. 
+
+Bruker du tegneprogrammer eller skal rette opp eller dimensjonere elementer i bilder kan disse funksjonene være til god hjelp. 
+De styres på selve skjermen og er helt uavhengige av hva slags maskin skjermen er koblet til. 
+
+Konklusjon 
+
+PA238Q er en skjerm som skiller seg svært fordelaktig ut sammenlignet med de rimelige TN-baserte skjermene. 
+
+De fysiske egenskapene er glimrende og gir god brukerkomfort og stor fleksibilitet, både for plassering og tilkobling. 
+Vi synes likevel at den skulle kunne bli senket enda noen centimeter lavere for optimal komfort. 
+
+Bildekvaliteten er vesentlig bedre enn hos TN-skjermer, driver du med bilder og annet grafisk krevende får du en bedre og riktigere referanse enn med billigskjermene. 
+
+Vårt eksemplar hadde en liten lyslekkasje i toppkanten, og dette sammen med litt for høy laveste posisjon gjør at vi ikke gir den en sekser, men en svært solid femmer! 

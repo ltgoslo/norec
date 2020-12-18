@@ -1,0 +1,69 @@
+D-Link DCS-5222L nettkamera
+Kameraet som kan overvåke hele rommet. 
+
+I dag er det enkelt å installere overvåkingskameraer som du kan sjekke uansett hvor du er i verden, bare du har tilgang til internett. 
+Det eneste du trenger er en ruter og en nettforbindelse som står på kontinuerlig, så kobler du kameraet rett i ruteren. 
+
+Slike kameraer har innebygd webserver og programvare som kan registrere forskjellige typer aktivitet og melde fra via epost. 
+
+Men for å dekke hele området trenger man som regel flere kameraer. 
+D-Link har imidlertid en smart løsning som gjør at du kan klare deg med ett. 
+
+I løpet av sekunder kan andre skjult overvåke hva du skriver og ser på skjermen din. 
+Og i verste fall tømme nettbanken. 
+
+DCS-5222L 
+
+Dette kameraet har motorer, som kan dreie kameraet både vertikalt og horisontalt, nesten 360 grader. 
+Derfor kan du klare deg med ett kamera i stedet for to eller flere, avhengig av rommet som skal overvåkes. 
+
+Kameraet ser ut som et miniatyrmodell av et observatorium eller som en bitteliten utgave av roboten R2D2 fra StarWars, avhengig av øynene som ser. 
+
+Selve foten har tilkoblinger for nettverk, strøm, sensorer, lyd ut og ekstern WiFi-antenne. 
+Det er også en intern antenne, så den eksterne er bare nødvendig der det er ugunstige forhold. 
+
+Kameraet har en oppløsning på 1280 x 800 punkter og en lysfølsomhet på 1,5 lux. 
+Det har også IR (infrarød) sensor og LED og kan "se" i mørket opptil 5 meter. 
+Kameraet viser sort/hvitt i nattmodus/IR- 
+
+Kameraet kan dreies 170 grader i begge retninger, og fra 90 grader opp til -25 grader ned. 
+
+Opptak gjøres på et mikroSD kort som sitter i foten. 
+
+Installasjon 
+
+Kameraet kan kobles til med kablet eller trådløst nett. 
+Du kan bruke WPS hvis ruteren har dette, hvor du bare trykker inn WPS-knappen på kameraet, deretter WPS-knappen på ruteren. 
+Så vil de finne hverandre. 
+
+Du kan også kjøre installasjonsprogrammet fra CD som følger med, eller koble til en nettverkskabel og dobbeltklikke på ikonet som dukker opp i oversikten over nettverksenheter i Windows. 
+
+Det finnes også et styreprogram som heter DView Cam, men det fikk ikke kontakt med kameraet vi testet, annet enn å registrere at var tilkoblet. 
+Statusen "Frakoblet" var alt det viste. 
+
+Men du kan sett opp både varslingsområder hvor kameraet skal sende beskjed når det er bevegelser og alt annet direkte fra web-grensesnittet i selve kameraet. 
+
+I bruk 
+
+Fra web-grensesnittet kan du gjøre alle innstillinger inkludert sette opp varsling når det er bevegelse. 
+Opptak fra SD-kortene kan også lagres lokalt på maskinen. 
+
+Du kan også sjekke kameraet fra en mobil eller hvilken som helst maskin med nettleser etter at du har opprettet en konto og registrert kameraet på mydlink.com. 
+Vi lastet ned appen mydlink lite til vår iPhone, og fikk umiddelbart kontakt med kameraet. 
+Da kunne vi fjernstyre kameraet i alle retninger ved å trykke på pilene og få full oversikt. 
+
+Men bildekvaliteten var vi ikke imponert over. 
+Den er tilstrekkelig til å trigge varslinger og gi en oversikt, men selve bildekvaliteten er vesentlig dårligere enn Logitech sine kameraer som vi har testet tidligere. 
+
+I tillegg var det mye fram og tilbake med Java. 
+Webgrensesnittet påsto hele tiden at vår versjon av Java var utdatert, til tross for at den var nettopp lastet ned og installert. 
+Ny installasjon hjalp heller ikke. 
+Vi liker ikke Java. 
+
+Konklusjon 
+
+Kameraets styrke er at det kan fjernbetjenes og dekke et stort område, pluss at det er relativt greit å sette opp for de som tåler å måtte fikle litt. 
+
+Men bildekvaliteten er ikke helt topp, selv om den kan være tilstrekkelig for varsling. 
+
+D-Link DCS-5222L 

@@ -1,0 +1,145 @@
+Sony Xperia V
+Sony-telefon med markedets skarpeste skjerm og støtte for 4G. 
+
+Selv om Telenor lanserte 4G-støtte for mobiltelefoner allerede før jul, er det fortsatt bare en liten håndfull telefoner som har støtte for den nye generasjonen mobilnett. 
+
+Én av dem er dagens testmodell, Sony Xperia V. 
+Ikke bare er den blant de få med 4G-støtte; den har også markedets skarpeste skjerm med 1280x720 piksler fordelt på en skjerm som måler 4,3 tommer over diagonalen. 
+
+Og ikke minst – telefonen er beskyttet mot vann. 
+
+Konstruksjon 
+
+Sony har fullt fokus på å lage produktene sine vanntette om dagen, og Xperia V er intet unntak. 
+
+Det betyr at lukene til ladekabel og hodetelefonutganger er forseglet med et ekstra lokk, som kan være litt knotete å få opp om du nettopp har klippet negler. 
+
+Men der stopper også ulempene. 
+For der vanntette telefoner tidligere ikke så allverdens ut, fremstår Xperia V i våre øyne som en elegant telefon. 
+Den er ganske tynn rundt midjen, der baksiden har en buet form som kan minne om Xperia Arc. 
+Noe utradisjonelt utformet er den også, der skjermen på en måte ligger klistret oppå resten av telefonen. 
+
+Med IP57-sertfisering skal Xperia V tåle å ligge inntil én meter under vann i 30 minutter uten å bli ødelagt – så lenge du har vært flink og lukket lukene, vel å merke. 
+
+Når det gjelder plasseringen av volumknapper og av/på-knapp på samme side av telefonen, er det et grep der vi ikke synes Sony har gjort det helt heldig. 
+For det første er avstanden mellom pluss og minus på volumbryteren veldig liten, og bryteren ligger også tett inn til av og på-knappen. 
+Det gjør at det er litt knotete å justere volumet midt i en telefonsamtale, for eksempel. 
+Dessuten er det ikke allverdens til feedback når du trykker på av og på-knappen, og kombinert med en merkbar forsinkelse fra du trykker til skjermen tennes, hender det at man trykker en ekstra gang, og da slås den av igjen. 
+
+Skjermen måler 4,3 tommer over diagonalen og har en oppløsning på 1280x720. 
+Det gir en punkttetthet på markedsledende 342ppi (til sammenligning har iPhone 4/4s/5 326ppi). 
+Sony har kalt panelet Reality Display, og via medfølgende Bravia-programvare justeres automatisk fargemetning og konstrast når du ser på bilder og video. 
+Og det ser som vanlig bra ut fra Sony. 
+
+Dog kan vi også nevne at skjermen ikke er like god med tanke å innsynsvinkel, og at fargene fort blir blassere når du ser på telefonen fra sidene. 
+Ser du på telefonen fra siden, ser du også lyslekkasjer under kortendene. 
+Dette er imidlertid aspekter vi innbiller oss at vi som tester bryr oss mer om enn folk flest, og lite å bekymre seg over i praktisk bruk. 
+
+I likhet med Nexus 4 er det heller ingen fysiske knapper eller trykkfølsomme felter under skjermen. 
+Her er knappene for tilbake, hjem og bytting av program innfelt som elementer i skjermbildet. 
+
+Gledelig er det at Xperia V har en LED-pære på forsiden som kan blinke i ulike farger ut fra hva slags varsel du har mottatt på telefonen. 
+Dette er noe vi etter hvert har blitt så glade i at vi ikke ville ha vært foruten på en Android-toppmodell. 
+
+I bruk 
+
+Sony er ikke kjent for å fikle alt for mye med Android sammenlignet med f.eks. HTC og Samsung, men litt om litt har de også utviklet sitt eget brukergrensesnitt til å bli ganske bra; langt bedre enn tidligere da Timescape-funksjonen stod i sentrum, selv om den fortsatt er tilgjengelig som en (i våre øyne ganske meningsløs) app. 
+
+For det første finnes det noen smarte funksjoner når du kobler i utstyr, kalt Smart Connect. 
+Plugger du for eksempel i laderen etter klokka ti (kan konfigureres), får du opp en snarvei for å sette alarmen til morgenen etter, og telefonen setter seg på lydløs. 
+Du kan også velge hva som skal skje når du plugger i hodetelefoner, som å starte Spotify eller en annen app, og du kan også «programmere» flere hendelser som skal utløse ulike funksjoner. 
+
+Sony har utvidet funksjonaliteten når du trykker på skjermknappen for å bytte program. 
+I tillegg til at de kjørende programmene finnes i en remse på høyre side, finnes det også en linje nederst med småprogrammer, som kalkulator, en kjapp notisblokk, lydopptak etc. 
+Når du starter en av dem, blir de liggende «over» resten slik at du kan bruke dem hvor som helst. 
+Kjekt! 
+
+Innbakt i Sonys løsning er også stedsbasert WiFi, som fungerer på samme måte som appen Smart wifi toggler som vi omtalte før jul. 
+Kort fortalt sørger den for å slå av WiFi når du er ute på vift, men slår det på igjen når du nærmer deg et kjent trådløst nettverk slik at du sparer batteriet når du er ute på farten. 
+
+I varslingsmenyen («rullegardina») finnes snarveier for å slå av og på WiFi, Bluetooth, ringelyd og synkronisering. 
+Akkurat her skulle vi gjerne ha sett flere eller muligheten for å bytte dem ut, for eksempel savner vi muligheten til å regulere lysstyrken på skjermen fra denne snarveismenyen. 
+Men den tar i hvert fall ikke så stor plass. 
+
+Vi liker også de små grepene Sony har gjort med programskuffen. 
+Ved å trykke på et ikon aktiverer du redigeringsmodus der du kan flytte på og avinstallere programmer, og du kan også sortere dem enten alfabetisk, basert på installasjonsdato, hyppighet eller slik du selv vil ha det. 
+
+Albumfunksjonen er også verdt å nevne, der du kan endre størrelsen på miniatyrbildene ved å gjøre knipebevegelser på skjermen, rent og pent organisert etter dato eller mappe. 
+Sonys musikkspiller er også meget god og tilbyr et pent grensesnitt og godt med funksjonalitet, der du kan slå opp direkte i Wikipedia på artisten eller se sangteksten direkte, i tillegg til equalizer-muligheter. 
+Sony har også en Spotify-konkurrent i «Music Unlimited», som følger med på telefonen. 
+
+En ting vi dog ikke er så begeistret for, er at Sony på død og liv må la alle widgets flyte rundt på skjermen om du gjør en knipebevegelse på hjemskjermen. 
+Der liker vi bedre å få en oversikt over hjemskjermene med mulighet for å endre rekkefølgen og standardskjerm slik de fleste andre produsenter har gjort det. 
+
+Et skår i gleden er også at Xperia V foreløpig kun kjører Android v4.0 (Ice cream sandwich) og ikke 4.1/4.2 (Jelly Bean), men den oppgraderingen har selskapet lovet i dette kvartalet. 
+
+Teknologi 
+
+Xperia V har det aller meste av ny teknologi. 
+For det første har den NFC-brikke som blant annet gjør at du kan pare den direkte med en NFC-kompatibel høyttaler, utveksle informasjon med en annen NFC-kompatibel telefon eller bruke den til å betale med på utvalgte steder. 
+
+I tillegg støttes WiFi Direct, slik at du blant annet kan få tilgang til bildene på et WiFi Direct-kompatibelt kamera (og dem blir det stadig flere av), eller speile skjermbildet direkte på en kompatibel TV. 
+Siden Miracast (ny bransjestandard for å overføre lyd og bilde trådløst som støttes fra Android v4.2) er baset på WiFi Direct og Sony er med på laget, vil også Xperia V støtte dette når den får siste versjon av Android. 
+
+Som nevnt innledningsvis er Xperia V også en av svært få telefoner som støtter det norske 4G-nettet, som Telenor nå har begynt utrullingen av. 
+Det gjør i våre øyne Sony-telefonen til en fremtidsrettet telefon, og når vi foretok målinger på kontoret i Stenersgata fikk vi 15Mbit nedlasting og 10Mbit opplastning. 
+Det er som forventet i Oslo sentrum. 
+Maksimal hastighet i 4G-nettet er inntil 100Mbps under optimale forhold. 
+
+Ytelse 
+
+En skal ikke la seg blende for mye av antall prosessorkjerner og klokkefrekvens. 
+Det viste seg da vi testet iPhone 5, som i flere ytelsestester parkerer sine firekjerners konkurrenter selv om den bare har to selv, og selv om Xperia V også bare har to kjerner, står den ikke tilbake for de høyest spesifiserte Android-beistene i våre målinger. 
+
+Ser vi på den populære Quadrant Standard-testen, scorer Xperia V 5961 poeng, som er tredje best av det vi har testet. 
+Så vidt bak Galaxy Note II (6013) og et stykke bak Asus Padfone 2, som har highscore hos oss med 7366 poeng. 
+AnTuTu-testen gir 11184 poeng, som for eksempel er ganske nærme Samsung Galaxy S IIIs 12190 poeng. 
+
+SunSpider-testen gir kjappe 1217ms (marginelt kjappere enn Padfone 2, men fortsatt et stykke bak iPhone 5/Safari sine klasseledende 928ms) og etter at Browsermark ble lansert i 2.0-versjon (med nytt poengsystem) har ingen av testtelefonene vært like raske som Xperia V. 
+
+Det reflekteres også i den generelle opplevelsen. 
+
+Telefonen er glatt og fin å surfe med, og alt virker generelt velsmurt, selv om man ser at det mangler litt kraft når man utfører litt «tyngre» ting, som å endre størrelsen på miniatyrbildene i fotoalbumet og den slags. 
+Litt lugging på hjemskjermen er også å spore, noe som kan forbedres når telefonen får Jelly Bean-oppdateringen. 
+
+Batteri Dessverre for Sony – dette er det største ankepunktet vi har mot Sony Xperia V. 
+Batteritiden er nemlig under pari på denne telefonen. 
+Kapasiteten er oppgitt til 1700mAh, som er noe lavere enn øvrige toppmodeller (Galaxy S III har f.eks. 2100mAh), og i testperioden (som snart har vart en måned) har vi litt for ofte blitt forbauset over å gå tomme for batteri unormalt tidlig, selv med den strømbesparende WiFi-funksjonen aktivert. 
+
+Typisk har vi oppnådd 1t30m skjermtid og 1t30m samtaler, og da har det vært ganske tomt allerede i de tidlige kveldstimene fra en fulladet telefon på morgenkvisten. 
+
+Lagring 
+Et skår i gleden er også at Xperia V kun leveres med 8GB internminne, men heldigvis støtter den utvidelse i form av micro SD-minnekort. 
+
+Samtalekvalitet 
+For deg som vektlegger samtalekvalitet har vi bare én ting å si: 
+Den er knallbra på Xperia V. 
+Selv på steder der dekningen er dårlig og mange telefoner har noe støy i bakgrunnen, er lyden krystallklar på denne Sony-telefonen. 
+Volumet kan også justeres ganske høyt slik at det er lett å høre motparten i støyende omgivelser. 
+
+Den eksterne høyttaleren er på par med de fleste, men utmerker seg ikke spesielt hverken med tanke på volum eller fylde i lyden. 
+Her er iPhone 5 fortsatt et steg foran de andre. 
+
+Kamera 
+
+Også på kameradelen er vi begeistret for Sony Xperia V, som i hvert fall med tanke på lysmåling fremstår som en svært god kameramobil. 
+
+Ta for eksempel en titt på dette bildet, som er fanget i en ganske vanskelig motlyssituasjon: 
+
+Kameraet gjør det også godt i innendørsbelysning, som i dette tilfellet: 
+
+Inspiserer vi ved 100% forstørrelse, viskes detaljene ut på grunn av støyprosesseringen allerede på relativt lave ISO-verdier. 
+Her er noen eksempler. 
+
+Under ser du noen bilder tatt med Sony Xperia V: 
+
+Konklusjon, Sony Xperia V 
+
+Med unntak av ganske svak batteritid og lite internminne, liker vi Sony Xperia V svært godt. 
+Det er en telefon som i våre øyne fremstår elegant, har nok krutt under panseret til daglig bruk og som støtter det meste av teknologier, inkludert både 4G og NFC. 
+I tillegg er den beskyttet mot vann og støv og kan overleve en halvtime under vann uten å bli ødelagt. 
+
+Kameraet er også blant de bedre i dagens marked, og med Bravia-teknologien ser bilder og video bra ut på den skarpe skjermen. 
+Vår erfaring gjennom en måneds testing er også at samtalekvaliteten er svært god på Xperia V. 
+
+Sony Xperia V 

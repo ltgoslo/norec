@@ -1,0 +1,107 @@
+Asus PQ321QE 4K PC-skjerm
+En PC-skjerm med samme oppløsning som fire vanlige HD-skjermer! 
+
+Høy oppløsning på LCD-skjermer begynner å bli dagligdags, men det er først og fremst på små skjermer dette har blitt utbredt. 
+
+Men på store skjermer er det langt mindre å velge mellom. 
+En standard "folkeskjerm"på 22 tommer har en full HD oppløsning på 1920 x 1080. 
+Entusiaster og proffer koster på seg en 27-tommer med 2560 x 1440 punkter, men det finnes noen få som tar den enda lenger og velger det aller største: 
+
+31,5 tommer og 3840 x 2160 - også kjent som 4K. 
+
+Det er ikke mange slike skjermer på markedet, i skrivende stund er det to. 
+Vi har testet den rimeligste, Asus PQ321QE som har en prislapp på 29.990 kroner. 
+Konkurrenten fra Sharp ligger på 40.424 kroner. 
+Da er vi oppe på samme prisnivået som vesentlig større 4K TV-apparater. 
+
+En krevende skjerm 
+
+En skjerm på over 30 tommer er diger. 
+Den fyller det meste av synsfeltet når den er plassert på skrivebordet, og det byr på en del manøvrering å flytte musepekeren over hele arbeidsflaten. 
+Det er ikke så merkelig, i og med at den er like stor som fire vanlige HD-skjermer. 
+
+Alt dette krever også sin maskinvare. 
+Vi måtte installere et kraftigere skjermkort (EVGA Geforce GTX 760 4GB), oppdatere BIOS på vårt Intel-hovedkort med Core i5 prosessor, til slutt og laste ned beta-drivere fra fra skjermkortprodusenten nVidia. 
+
+Først da fikk vi skjermen opp å kjøre i full oppløsning, men oppfriskningsfrekvensen var bare på 30 Hz. 
+Full støtte for 4K skjermer er definitivt under utvikling, og representerer noe å strekke seg etter for flere komponenter i systemene. 
+
+Selve skjermen er rett og slett imponerende, på nesten alle områder. 
+
+Tilkobling og betjening 
+
+Foten og stammen er festet til skjermen med solide skruer, her er det ikke rom for noe slark. 
+Skjermen kan heves og senkes, og foten kan dreies rundt sin akse. 
+
+Tilkoblingen på vårt tidlige testeksemplar var bare DisplayPort, men når den kommer i salg vil den også ha to HDMI-porter. 
+Det er også inn- og utganger for lyd. 
+
+Betjeningen var vi derimot ikke imponert over. 
+Knappene og teksten står på siden, og du må bøye deg rundt kanten for å se hva du trykker på. 
+
+Oppløsning og bildekvalitet 
+
+Skjermen har et såkalt IGZD-panel (Indium gallium zinc oxide) utviklet av Sharp. 
+Dette er et halvledermateriale som gjør det mulig å produsere skjermer som både er vesentlig raskere og med høyere oppløsning enn silisium-baserte paneler. 
+
+Fargegjengivelsen og betraktningsvinkelen er på toppnivå, og responstiden på 8 ms var heller ikke noe problem da vi bare hadde 30 Hz oppfriskningsfrekvens ... 
+
+Et av de viktigste poengene med en 4K-skjerm er jo at den har høy oppløsning for å gjengi små detaljer. 
+Like viktig som oppløsning er størrelsen på panelet, og avstanden mellom øynene og skjermen. 
+Sitter du med en PC-skjerm kreves det ganske høy oppløsning for et høyt detaljnivå, sitter du i sofaen og ser på TV kreves det ikke like stor oppløsning for å oppnå samme inntrykket. 
+Men holder du en mobil 20 centimeter fra øyet kreves det enda høyere oppløsning for å gjengi alle detaljer. 
+
+Et enklere og mer sammenlignbart mål som gjelder uansett er piksler per tomme (PPI): 
+
+Pikseltettheten på denne skjermen er på 140 PPI (piksler per tomme), til sammenligning har en 27-tommer med 2560 x 1440 typisk 109 PPI, mens en standard 22-tommer med HD-oppløsning har en PPI på 100. 
+Jo høyere verdier, dess tettere står pikslene. 
+
+Til sammenligning har iPad 264 PPI, mens iPhone 5 har 326 PPI og Galaxy S4 hele 440 PPI. 
+
+På en 65-tommers TV med 4K oppløsning er vi nede i beskjedne 68 PPI, som tilsvarer en 32-tommers HD-skjerm. 
+
+Dette betyr kort og godt at denne skjermen framstår som ekstremt detaljrik, og rett og slett imponerende når man betrakter høyoppløselige bilder i god kvalitet. 
+Samtidig avsløres høyoppløselige bilder av dårlig kvalitet, som skyldes at fotografen ikke har hatt helt kontroll ... 
+
+Video i 4K oppløsning er rett og slett fantastisk. 
+Med et så høyt detaljnivå kommer dybden i bildene fram på en helt annen måte. 
+Vi snakker om en tredimensjonal opplevelse som faktisk er mye mer overbevisende - og langt mer behagelig - enn 3D med briller. 
+
+Spesifikasjoner 
+
+Skjermen har følgende egenskaper: 
+Panelet: 
+
+31,5 tommer 16:9 format3840 x 2160 punkters oppløsningIGZO-panel med LED bakgrunnsbelysning80% NTSC fargemetning350 cd/m2 maks lysstyrke800:1 kontrast178 graders betraktningsvinkel vertikalt og horisontalt10-bits fargedybde8ms grå-til-grå responstid 
+
+Tilkoblinger: 2 x HDMI 1.4 DisplayPort 1.2 3 x 3.5mm jack lyd ut/inn 
+
+Flere spesifikasjoner finner du hos Asus. 
+
+Hva med PC-bruk? 
+
+Men en så stor skjerm har også sine utfordringer. 
+Det har ikke først og fremst med oppløsningen å gjøre, men med avstandene på skjermflaten. 
+Det blir rett og slett så langt å bevege pekeren og så stort område å holde orden på, at det lett kan bli for mye av det gode. 
+
+Dessuten blir alle elementer i Windows veldig små, og mange må myse ekstra for å lese hva som står i menyer og liknende. 
+Man kan enkelt nok justere opp størrelsen på elementene i Windows, men det er ikke snakk om noen jevn skalering, og det ser rett og slett ikke pent ut i 150% av normal størrelse. 
+
+Det var en gang snakk om at hele grensesnittet i Windows skulle være fritt skalerbart, slik at det var tilrettelagt for høy oppløsning. 
+Det ble lagt på is, i stedet har Microsoft tullet seg bort med å lage et nytt pekegrensesnitt som ingen liker. 
+
+I nettlesere er det bare å holde «Ctrl» nede og trykke plusstegnet et par ganger for å zoome inn, men det er ikke alltid det klaffer helt. 
+
+Slik som Windows er i dag vil nok mange heller kjøpe to 27-tommere, det er generelt bedre til PC-bruk. 
+
+Konklusjon? 
+
+Skjermen er super, bildekvaliteten er enorm og det er plass til alt. 
+Prisen er også på topp, i den forstand at det er en av de aller dyreste skjermene som finnes. 
+
+En slik skjerm er bare funksjonell for spesielle, kreative bruksområder, som avansert videoproduksjon, profesjonell bilderedigering og musikk/lydproduksjon. 
+Muligens kan den fungere for finansanalytikere med ekstremt store regneark, for arkitekter, designere og andre profesjoner hvor detaljrikdom og oversikt skal kombineres. 
+
+Den er også en teknologidemonstrasjon, som viser hva produsenten er i stand til å levere av det ypperste basert på dagens og morgendagens teknologi. 
+
+Asus PQ321QE 

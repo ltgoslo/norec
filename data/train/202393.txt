@@ -1,0 +1,114 @@
+MacPro - en stilstudie
+Antagelig en av de kraftigste datamaskinene du får tak i. 
+Men er den verdt det? 
+
+Apple sin linje av stasjonære maskiner består av tre maskintyper: 
+Mac mini, iMac og MacPro. 
+Disse tre linjene spriker godt, forskjellen mellom en mini og en pro er ekstrem. 
+Det som er felles er at de har et industrielt design som skiller dem fra de andre i sin klasse. 
+Og det er spesielt tydelig i en MacPro. 
+
+Uvirkelig 
+
+På bilder ser den uvirkelig ut, som en rendret 3D tegning, helt i aluminium. 
+Når du trekker den opp av esken i de to solide bøylene på toppen er det helt tydelig at den er virkelig, de litt skarpe kantene forteller at dette er ekte saker. 
+De er bare akkurat for lite skarpe til å skjære deg i fingrene, men du ser ikke at de er avrundet. 
+
+Alle som har sans for mekanikk og konstruksjon, og som har skrudd noen bokser i sitt liv, kan ikke unngå å nikke anerkjennende til denne maskinen. 
+
+Den oser av kvalitet i utførelsen, vi snakker om nær-sveitsisk-mekanisk opplevelse. 
+Og da er det ikke gjøkur vi har i tankene. 
+
+Alt sitter tight, plasseringen av kontakter osv. er symmentrisk, til og med nettkabelen er spesialdesignet slik at kontakten går nærmest i ett med baksiden når den er tilkoblet. 
+Altså baksiden, den som ingen ser... 
+
+På innsiden er det like elegant, med fire uttrekkbare braketter for disker, to plasser for optiske drev, tre ledige plasser for tilleggskort, prosessormodulene med sine kjøleribber og minneplassene. 
+Det er ikke en kabel som er på avveie, det aller meste er plugget rett inn. 
+Eksemplarisk. 
+
+MacPro har hatt denne typen design i en årrekke. 
+Den er praktisk både i bruk og ved oppgradering/service. 
+Samtidig er den et design-ikon, som alle Apple-produkter. 
+Det er en del av pakka som du betaler for. 
+
+En kraftpakke 
+
+Komponentene er blant de kraftigste du får i dag, men her snakker vi ikke om kraft i forbindelse med spill-ytelse. 
+Prosessorene - vårt testeksemplar var utstyrt med 2 stk 2,93 GHZ Xeon X5570 - finner du hos andre produsenter bare i arbeidsstasjoner og servere. 
+
+Og en MacPro er en arbeidsstasjon, det er ikke noen vanlig PC. 
+
+Prosessorene er de kraftigste som leveres av Intel, men de har også egenskaper som svært smidig og responsiv dynamisk ytelse og forbruk. 
+Dette gir seg store utslag i mindre strømforbruk for selve maskinen og dermed også i kjøleanleggene i serverrommet der de aller fleste av maskiner med denne prosessortypen vil være installert. 
+Bare dette kan spares inn oppgraderingsbeløpet i løpet av de første par driftsårene hvis man går over til maskiner med disse prosessorene. 
+
+For en arbeidsstasjon gir ikke disse egenskapene en like dramatisk gevinst, men det innebærer at maskinen gir et svært behagelig arbeidsmiljø med minimalt med støy og varme i forhold til ytelsen. 
+
+Hvem kjøper en MacPro? 
+
+Det er tre typiske kundegrupper som er MacPro-brukere. 
+Det er de som kjører Apples egne programvareprodukter Final Cut Studio (videoredigering), Logic Studio (lydopptak, redigering) og Aperture (bildebehandling) - pluss tilleggsprogrammer etter behov, og selvsagt også noen alternative hovedprogrammer i de forskjellige fagområdene. 
+
+De får en maskin som har de mest avanserte løsningene som er å få, for noen blir det kanskje i overkant, men det spiller liten rolle. 
+Det er likevel langt mindre jålete enn at man bruker Mercedes E-klasse til taxi eller kjører dokumentmappa i en Audi A8. 
+
+For det er ikke tvil om at du betaler mye for all denne elegante mekanikken og overdådige komponentvalget. 
+Spesielt om du bestiller alt hos Apple. 
+
+Friske priser? 
+
+MacPro kommer i to utgaver, og velger du den minste med én prosessor starter du på drøyt 20 000 for en relativt beskjeden konfigurasjon med 3 GB minne, 640 GB disk, moderat grafikkort og vanlig DVD-brenner. 
+
+Velger du en PC-løsning får du for den samme prisen en praktisk talt like kraftig maskin med en vanlig Core i7 920 prosessor, 6 GB minne og større diskplass - pluss en stor og god skjerm. 
+
+Snakker vi derimot om maskin med to prosessorer blir saken en annen, og det er først da at Xeon-prosessorene begynner å komme til sin rett. 
+Men da starter vi på nesten 28 000, og det er bare en illusorisk pris. 
+Man velger ikke en minstekonfigurasjon når man først har valgt en to-prosessorsløsning. 
+Går du for to av de svakeste prosessorene, 12 GB minne, 2 harddisker på 1 TB hver og et moderat grafikkort er du tett oppunder 34 000. 
+Velger du prosessortypen midt på ytelsesskalaen spretter prisen opp i over 45 000. 
+
+Vår testmaskin var høyt specket, med de to raskeste prosessorene, 6 GB minne, to TB disker og ATI HD 4870 grafikkort. 
+Da er vi oppe i 57 480 kroner, og med Apples flotte 24-tommer skjerm med LED bakgrunnsbelysning er vi oppe i 65 270 kroner. 
+
+Det er friskt for en datamaskin, men for en som lever av å bruke Mac'en sin er det kanskje en god investering hvis man får gjort unna mer arbeide? 
+
+Maskinen jobber uansett til de grader lettbent. 
+Det er ikke antydning til motstand uansett hva du kaster på den. 
+
+Vi testet rendring av et våre HD videoprosjekter i Final Cut på 22 GB, og med denne utgaven av MacPro tok jobben bare en fjerdedel av tiden sammenlignet med den gamle MacPro-maskinen på huset (med dual G5 prosessorer) som ellers tar seg av slike jobber. 
+
+Om det er mulig å kjøre denne maskinen i senk på en musikkproduksjon, så snakker vi om helt ekstreme produksjoner med full virtuell orkestersats, sanntideffekter og tresifrede antall lydspor. 
+
+Hva med maskinen som PC med Windows? 
+
+For moro skyld installerte vi Vista på maskinen, dessverre er det bare 32-bits utgaven som er støttet av Apples BootCamp løsning. 
+Det gjør at resultatene yter maskinen svært liten rettferdighet. 
+
+Da MacPro ble lansert var vi ikke klar over at det ikke var driverstøtte i BootCamp for 64-bits Vista. 
+Da hadde vi neppe vært like entusiastiske i vår forhåndsomtale som omtalte MacPro som den kraftigste PC-en 
+
+Vi kjørte så noen av våre standard ytelsestester, med blandet resultat. 
+
+Geekbench viste 8014, til sammenligning klarte den siste MacBook Pro 3038 under Vista. 
+Under MacOS X var resultatet derimot 15 363! 
+
+Vistas Windows Experience viste selvsagt 5,9 på alt, som er det beste som er mulig å oppnå. 
+Det skulle bare mangle. 
+
+PCMark05 viste 11426 med CPU 10431 Memory 7566, Graphics 18839 og HDD 6011 
+
+Men i 3DMark 06 klarte den bare 15838 og i PCMark Vantage klarte den 6425. 
+
+Dette er tall er svært nær de vi oppnådde i vår test av en maskin med Core i7-965 Quad Extreme i november 2008. 
+
+Testing 1-2-3 - konklusjon 
+
+Å teste en MacPro med PC-tester i 32-bits beregnet på ordinære PC-er og gamer-PCer blir altså lite meningsfylt. 
+
+Derfor er konklusjonen egentlig svært enkel: 
+
+De som har behov for den kraftigste Mac'en og har budsjett til det - eller rett og slett bare har lyst på den - de kjøper den. 
+Den er uten konkurranse på sitt område. 
+
+Som alternativ til en 64-bits arbeidsstasjon under Windows vil den ikke kunne levere, siden det i dag rett og slett ikke finnes støtte for 64 bits Windows. 
+Da er det bortkastede penger. 

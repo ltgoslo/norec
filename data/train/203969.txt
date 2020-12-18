@@ -1,0 +1,142 @@
+Denne PC-en er en innertier
+Og du behøver ikke å velge den rosa utgaven. 
+
+De fleste tenker kanskje på kinesiske Huawei som produsent av mobiltelefoner, men selskapet er faktisk verdens største produsent av telekommunikasjonsutstyr og kommer til å ha en markant rolle under planleggingen og utbyggingen av 5G i Norge de neste årene. 
+
+Samtidig er det én ting de fleste teknologijournalistene er enige om: 
+Selskapet imponerer stort om dagen, og ruller ut det ene gode produktet etter det andre. 
+
+Kan bli en seriøs PC-utfordrer 
+
+Huawei lager også PC-er og nettbrett. 
+Foreløpig er de ikke noen stor PC-produsent, men det skal ikke forundre oss om også det kommer til å endre seg. 
+Det er i hvert fall ingen som helst tvil om at de tar satsingen alvorlig: 
+Det viser vår test av Matebook X helt tydelig. 
+
+For å gjøre en lang historie kort: 
+Det er sjelden vi sliter med å finne noe å trekke for når vi tester en bærbar PC. 
+Det er nesten alltid noe som trekker ned, for eksempel støy, svakheter ved konstruksjonen, tilkoblingene eller andre løsninger - som gjerne avsløres ganske tidlig i testprosessen. 
+
+Men Huawei har etter vår mening gjort det aller meste riktig med Matebook X, og over de neste avsnittene skal vi forklare hva vi legger i det. 
+
+Solid og meget kompakt konstruksjon 
+
+La oss ta konstruksjonen først. 
+Matebook X har et metallchassis. 
+Den er meget godt oppstivet, til tross for at den bare er 1,25 cm tykk og veier så vidt over en kilo. 
+
+Overflaten er matt, og fingeravtrykk vises nesten ikke. 
+Vårt testeksemplar er rosa, noe vi personlig ikke liker - men vi kan velge grå hvis vi vil. 
+Det skal også eksistere en gullfarget utgave, men den har vi ikke sett i Norge. 
+
+Og den er meget kompakt for å huse en 13 tommer skjerm. 
+Hele overflaten dekkes av et A4-ark, som du ser av bildet under. 
+
+Åpner du opp lokket, blir du altså møtt av en 13 tommer skjerm med IPS-panel og høy oppløsning - nærmere bestemt 2160 x 1440 piksler. 
+Det gir et bredde:høyde-forhold på 3:2, det samme som en Microsoft Surface Laptop. 
+
+Den skiller seg dermed fra den store hurven med 16:9-skjermer (Macbook har 16:10), og byr dermed på vesentlig mer plass i høyden enn disse. 
+Lysstyrken er på maks 350 nits, som er helt OK. 
+
+Skjermen er blank, og dermed eksponert for gjenskinn. 
+Det kan være et ankepunkt for enkelte, men sørger samtidig for god kontrast. 
+At det ikke er noen berøringsskjerm, kan selvfølgelig også være et ankepunkt for noen - men slike fingerstyring har ikke helt tatt av blant den jevne PC-bruker. 
+
+Utnytter plassen til fulle 
+
+Rundt skjermen er det en svært smal ramme, kun 4,4 millimeter på sidene, litt mer i toppen for å få plass til webkameraet. 
+Huawei har altså ikke falt for fristelsen å plassere denne under skjermen, slik Dell har gjort på sine XPS-modeller, og som etter vår mening ikke er optimalt. 
+
+Også tastaturet fyller nesten hele bredden, med kun 5 millimeter klaring på hver side. 
+Dermed har Huawei fått plass til et romslig tastatur med store taster, der også Enter-tasten går over to rader. 
+Tastingen er svært lydsvak, men platen er stiv og responsen er umiddelbar. 
+Etter vår mening er dette nært temmelig tett opp mot perfekt. 
+
+Apple har også vært svært flinke til å utnytte plassen på sin nye Macbook, men skriveopplevelsen er etter vår mening bedre på Matebook X. 
+
+Logg på med fingeren 
+
+Mellom tastaturet og skjermen sitter av/på-bryteren. 
+Den har en ring, og der sitter en fingeravtrykksensor. 
+Du kan dermed logge på PC-en med fingeren, takket være funksjonen Windows Hello i Windows 10. 
+På sikt skal du også kunne logge deg på diverse nettjenester og utføre betalinger ved hjelp av løsningen - slik mange har blitt vant med på mobilen. 
+
+Under tastaturet sitter en bred pekeplate med integrerte felter for venstre- og høyreklikking. 
+De avgir en klikkelyd, men ikke så høy at den blir sjenerende. 
+Du kan også tappe med en finger for venstreklikk og en gang med to fingre for høyreklikk, hvis du vil ha det helt stille. 
+
+Kun to porter, men replikator følger med 
+
+PC-en har bare to porter - begge er av typen USB-C. 
+Isolert sett er det grunn til å være kritisk, vi vil jo gjerne ha muligheten til å putte inn en minnepinne eller koble PC-en til en skjerm. 
+Men Huawei har tenkt på det også, og leverer med en portreplikator uten ekstra kostnad. 
+Den gir deg en USB-C-port, en USB-A-port (standard USB 3.0), VGA-utgang og HDMI-utgang. 
+Du kan faktisk koble den til to skjermer samtidig, og dermed skape en treskjermløsning. 
+
+Det kunne selvfølgelig ha vært en ethernet-kobling her, men vi tror de fleste av oss klarer oss uten i 2017. 
+Vi legger til at det trådløse nettverkskortet er blant de beste på markedet, Intel AC 8275. 
+
+Det finnes også en 3,5 mm kombinert lyd inn/utgang i PC-en, til hodetelefoner og denslags. 
+PC-en har også innebygde høyttalere som er Dolby Atmos-sertifiserte, og lyden er overraskende høy og fyldig. 
+Vi har sjelden hørt bedre, selv på PC-er som er dobbelt så tykke og dobbelt så tunge. 
+
+Kjøleløsning helt uten bruk av vifter 
+
+PC-en har ingen åpninger til vifter og luftavkjøling, ganske enkelt fordi Huawei bruker en kjøleteknikk der varmen effektivt fordeles over store deler av bunnplaten i stedet. 
+
+Ingen vifter, ingen støy og ingen fare for at støv trenger inn i kabinettet. 
+
+Og da tror du kanskje at prosessoren er av de aller mest strømgjerrige? 
+Neida. 
+Du kan velge mellom en Core i5-7200U eller Core i7-7500U, prosessorer som 9 av 10 konkurrenter mener må viftekjøles. 
+
+Da er det jo interessant å merke seg at temperaturen aldri oversteg 54 grader på prosessoren, selv under de tyngste testene. 
+Det er imponerende. 
+Bunnplaten skal ikke bli særlig varm heller, hevder Huawei. 
+Der er vi litt uenige. 
+Det er litt varmt midt under når vi kjører PC-en hardt, men aldri så varmt at den blir ubehagelig å ha i fanget. 
+
+God ytelse til det aller meste 
+
+Vårt testeksemplar er utstyrt med Core i5-prosessoren. 
+Den byr på mer enn god ytelse til de aller fleste oppgaver, og er den vi vil anbefale for den jevne bruker. 
+Kombinert med 8 GB ram og 256 GB SSD av den temmelig raske typen (vi målte skrivehastigheter på inntil 689 MB i sekundet og lesehastigheter på rund det dobbelte), har du en finfin og kjapp løsning som du med stor sannsynlighet vil ha glede av lenge. 
+
+Den integrerte grafikken håndterer alt av videomateriale, også i 4K - helt uten noe som helst problemer. 
+Den er derimot ikke optimalisert for avansert og detaljrik spillgrafikk og 3D-kalkulasjoner. 
+Til slikt bruk bør du velge noe annet, selv om enkelte litt eldre spilltitler kan fungere tilfredsstillende dersom du går ned på oppløsning og/eller detaljrikdom. 
+
+Helt ren Windows 
+
+Det er også gledelig at PC-en har en såkalt Signature-utgave av Windows 10. 
+I praksis betyr det at det ikke er installert tredjepartsprogrammer, demoprogrammer og rusk og rask, slik man ofte finner i PC-verdenen. 
+
+Det eneste som ikke er signert Microsoft her, er Matebook Manager, et lite Huawei-kontrollpanel som overvåker helsetilstanden til maskinen. 
+Det har til og med sin egen hurtigtast på tastaturet. 
+
+Overbevisende batterimålinger 
+
+Da gjenstår det bare å se nærmere på batteritiden. 
+Etter alt det positive, er det kanskje her Huawei har tråkket i jordbæråkeren? 
+Men nei. 
+Vi startet vår standard spilleliste med videoer fra Youtube, og strømmet videoer i 612 minutter før batteriet gikk tomt. 
+Omregnet blir det 10 timer og 12 minutter, altså et meget godt resultat. 
+
+Men hva med ladetiden da? 
+Den må vel være langsom. 
+Nei, det er den ikke. 
+Etter én time i stikkontakten hadde batterinivået allerede nådd 73 prosent. 
+De fleste PC-er vi har testet i år kommer sjelden til mer enn 50-60 prosent på samme tid. 
+
+Konklusjon 
+
+Det har vært en sann glede å bli kjent med Huawei Matbook X. 
+PC-en virker gjennomarbeidet i nær sagt alle bauger og kanter, og med tanke på alle de gode egenskapene som er blitt godt dokumentert og gjennomgått i vår test, er 12.995 kroner slett ikke noen upris. 
+
+Det er spesielt én maskin vi ville vurdert opp mot denne i samme klasse, og det er Microsoft Surface Laptop. 
+Den har mange av de samme gode egenskapene, men den er både tyngre, har tregere SSD og er ikke vifteløs. 
+
+Og da sitter vi igjen med det som fort kan vise seg å bli dette årets aller beste testresultat, og den første PC-en som får terningkast 6 siden Acer Swift for 9 måneder siden. 
+Men det var en budsjett-PC som ikke ligger i samme liga som denne. 
+
+Få uansett med deg plussene og minusene i boksen under, og ta også en titt på de andre ferske PC-testene våre før du bestemmer deg. 

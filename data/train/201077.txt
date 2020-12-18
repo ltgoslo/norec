@@ -1,0 +1,156 @@
+Olympus SP-550UZ
+TEST: 
+Som den første publikasjonen i verden har vi fått lov å teste Olympus nye monsterkamera, med vidvinkel og 18x optisk zoom pakket inn i et nesten latterlig lite ytre. 
+Det beste kameraet til under 5.000 kroner? 
+
+Vi sperret opp øynene tidligere denne måneden da Olympus offentliggjorde sitt nye monster  et ultrazoomkamera som ikke bare satte rekord med 18x optisk zoom, men som faktisk også hadde det vi som regel savner aller mest på slike kameraer, nemlig vidvinkel. 
+Som om ikke det var nok, ble vi like forbausede da vi mottok esken og så hvor kompakt Olympus hadde laget kameraet. 
+
+Dette er altså ikke et speilreflekskamera, og optikken kan ikke skiftes ut. 
+Det spørs det allikevel om du ville ha fått behov for, for med et brennviddeområde tilsvarende 28-504mm er du godt forberedt i nært sagt alle situasjoner. 
+Objektivet er også lyssterkt gjennom hele brennviddeområdet, med f/2,8 som største blender på vidvinkel og f/4,5 på tele, og makronærgrensen er så tett som 1cm. 
+
+Skulle du ha kjøpt et teleobjektiv som dekket 504mm med f/4,5 til et speilreflekskamera snakker vi en vanvittig mye høyere prislapp bare der, selv om det selvsagt ikke er en helt reell sammenligning: 
+Siden CCD-sensoren er langt mindre enn den er for et speilreflekskamera, er også de fysiske dimensjonene på optikken langt mindre, og den aktuelle brennvidden er egentlig 4,4mm-84mm. 
+Allikevel er det ikke tvil om at dette er svært imponerende spesifikasjoner. 
+
+Olympus nyvinning konkurrerer med andre ord mot storheter som Canon PowerShot S3 IS, Panasonics kommende FZ8, Fujifilm S9600, Sony DSC-H5 og flere, og vi har tenkt å prioritere disse kameraene tungt i ukene som kommer. 
+
+ISO 5000 
+
+For å holde størrelsen nede, er også CCD-sensoren av den mindre typen - 1/2,5, og den fanger 7,1 millioner piksler. 
+Selv om det sikkert hadde vært nok med seks også, er vi glade for at Olympus ikke har falt for fristelsen å kjøre oppløsningen enda høyere. 
+ISO-verdien kan pushes så høyt som til 5.000 (3200 og 5000 kun med 3Mp oppløsning), men det gjøres selvsagt ikke uten at bildekvaliteten reduseres. 
+Hvordan kameraet gjør det på ulike ISO-verdier, kommer vi som vanlig til lenger ned i testen. 
+
+504mm ved håndholdt fotografering er på papiret ingen suksess uten en bildestabilisator, og det er heldigvis Olympus enige i  SP-550UZ har mekanisk bildestabilisering i form av flytting av CCD-brikka, men ikke optisk ved å flytte på linseelementer, som tradisjonelt er mer effektivt i forhold til hvor mange steg lenger lukkertid som kan benyttes. 
+Effekten av bildestabilisatoren er vanskelig å måle, men rundt 2 trinn pleier som regel å være en passende tommelfingerregel for mekanisk stabilisering. 
+Med god lystilgang vil du i så fall klare å ta håndholdte bilder på full tele som blir skarpe, og akkurat det punktet var vi svært spente på før vi dro ut på tur. 
+
+Kamerahuset føles svært solid, selv om det hovedsakelig er av gummi og plast. 
+Det har også en utradisjonell form på grepet som passet våre hender utmerket  i stedet for at den ytterste flaten er vertikal, går den i en bueform som gjør at kameraet er veldig godt å holde i, i tillegg til at tommelen har en godt avrundet vegg på baksiden å hvile seg i. 
+Grepet er også gummiert for å øke friksjonen, og holder du dette kameraet i én hånd skal det mye til å miste det; faktisk er grepet bedre enn det er på E-400. 
+Siden kameraet bruker 4x AA-batterier, gjør dette at det også blir ganske tungt; 365g på vektskåla med batterier. 
+
+Treg, men presis zoom 
+
+Zooming foregår via en bryter på pekefingeren som ligger foran utløserknappen. 
+Noen vil kanskje savne muligheten til å vri på en zoomring på objektivet, slik for eksempel kameraene fra Fujifilm har  vi synes i utgangspunktet det er greit med pekefingerstyring, som tillater enhåndsoperasjon, men skulle gjerne ha sett at dette kameraet hadde hatt flere hastigheter på zoomingen, noe S3 IS har. 
+Når du har dårlig tid og skal fotografere fuglene som sitter på høyspenten er oppstartstiden + zommetiden lange sekunder lenge å vente. 
+Til gjengjeld er zoomen presis, med rundt 60 ulike punkter. 
+
+Ved siden av utløserknappen sitter funksjonshjulet, som har litt retro design. 
+Det kan vris hele runden begge veier og lar deg skifte mellom følgende modi: 
+
+Auto 
+ Gir deg få manuelle instilingsmuligheter, men du bestemmer fortsatt selv om du vil bruke blits eller ikke.P/A/S/M 
+ Som vanlig. 
+Gir deg manuelle valg og blender/lukkerprioritet + full manuell kontroll. 
+My  Lar deg konfigurere opp til fire innstillingsoppsett som du kan velge blant.Guide  Olympus velkjente 
+hjelpefunksjon. 
+Velg fra menyen hva du ønsker å gjøre, for eksempel 
+blurring background, der kameraet zoomer inn for deg.SCN  Lar deg velge blant 23 forhåndsinnstilte programvarianterLevende film 
+ Du kan filme 640x480x30 bilder pr sekund og dessuten zoome under opptakeneAvspilling 
+- Brukes for å se på bilder. 
+Det finnes også en egen avspillingsknapp på baksiden av kameraet 
+
+Så til baksiden 
+ i ekte megazoomånd kan du enten bruke et levende bilde på LCD-skjermen når du sikter, eller legge kameraet inntil øyet og se i den elektroniske søkeren. 
+I de fleste situasjoner er den siste å foretrekke  fordelen er at du holder kameraet stødigere når du kan ha armene godt plantet inntil kroppen. 
+Du bytter mellom skjermene ved å trykke på en dedikert knapp. 
+
+God LCD, spesielt i mørket 
+
+LCD-skjermen er meget god og skarp. 
+230.000 piksler fordelt på 2,5 begynner å bli ganske vanlig, men det er fortsatt den høyeste punkttettheten som finnes på disse skjermene. 
+Den horisontale innsynsvinkelen er god, men den vertikale kunne godt ha vært hakket bedre. 
+Som med de fleste andre Olympuskameraer har også dette såkalt BrightCapture-teknologi innebygget, som gir et lysere bilde når det er mørkt i omgivelsene. 
+Vi sammenlignet med et Ixus-kamera på et mørkt vaskerom og forskjellen var godt synlig. 
+
+Skjermen har ellers det meste av relevant informasjon. 
+Du kan få 3x3-rutenett som hjelp til komponeringen, levende histogramvisning, i tillegg til at kameraet viser hvor fullt bufferet er. 
+Menyene er som andre Olympus-kameraer 
+ lette å forstå, gode å lese. 
+Det eneste lille minustegnet vi har i forhold til brukervennlighet, er at hovedmenyen er ganske lang (5 sider) og ugruppert, og du må for eksempel nesten helt i bunnen for å deaktivere avansert støyfjerning før du kan aktivere seriefotofunksjonen helt øverst. 
+Olympus burde her ha latt oss aktivere seriefotografi, men advare om at støyfjerningen da ble slått av. 
+
+Knappene er alle til høyre side for skjermen. 
+Foruten piltaster og OK-knapp, organisert i en ringformet kontroll, finner vi også fire knapper som alle ligger rundt denne kontrollen. 
+En for meny, en for ulike visningsmodi (og hjelpefunksjon i menyene), en for avspilling og en for sletting. 
+Spesielt liker vi at det er en egen knapp for avspilling, og holder du utløserknappen halvveis nede mens du blar i bilder, er kameraet umiddelbart klart til å ta bilde. 
+I avspillingsmodus kan du dessuten bruke zoomkontrolleren for å vise flere bilder, og du kan foreta enkle bildejusteringer, vise lysbildeshow og få en kalenderoversikt over dagene du har tatt bilder på. 
+
+15 bilder i sekundet! 
+
+Av funksjoner har SP-550uz omtrent alt som er verdt å ha. 
+Entusiaster vil glede seg over RAW-modus og bracketing (både 3 og 5 bilder), mens det også finnes et par andre godbiter: 
+I høyhastighetsmodus kan du nemlig ta 15 bilder på ett sekund! 
+Riktignok bare med en drøy megapiksel oppløsning (1280x960), men det er egentlig alt du trenger til et 10x15-foto i god nok kvalitet. 
+Funksjonen kan også tilpasses slik at du kan holde knappen nede, og i det du slipper den lagres de siste fem bildene. 
+Øker du oppløsningen til tre megapiksler, kan du fortsatt ta sju bilder på ett sekund; minst like imponerende. 
+En kjekk funksjon når poden skal hoppe på ski, for eksempel. 
+
+Vi må også trekke frem batterilevetiden 
+ 530 bilder etter CIPA-standarden dersom du bruker NiMH-batterier, og selv med de alkaliske batteriene som fulgte med (4xAA), har vi tatt over 430 bilder og fortsatt er indikatoren full. 
+
+De eneste småtingene som savnes er støtte for fjernkontroll, manuell justering av selvutløsertid (kun 2s og 12s er mulig) og det faktum at blitsen burde ha kommet opp automatisk når kameraet står i automodus (er ikke det litt av hensikten?). 
+På ønskelista står også en optisk bildestabilisator, som ville ha gitt enda bedre uttelling for telebildene, og vi hadde gjerne sett at bildene ble rotert automatisk i kameraet. 
+
+Ytelse 
+
+15 bilder i sekundet er som sagt imponerende, men på vanlig seriefoto tar kameraet 1,2 bilder i sekundet, som ikke er like imponerende (på beste kvalitet klarer det bare tre bilder med denne hastigheten, mens det klarer åtte på standardinnstillingene). 
+Bevegelsen av objektivet går nokså sakte, som gir en oppstartsid på 2,8 sekunder og zoomtid på hele 3,2 sekunder. 
+Som nevnt skulle vi gjerne ha hatt en ekstra hastighetsinnstilling som kunne forbedret sistnevnte. 
+
+Autofokusen er også noe treg, men derimot oppleves den som svært god og presis. 
+Sel v om du ikke har makro aktivert klarer den også å fokusere på ganske nært hold, og det er imponerende hvordan den klarer å finne målet selv på full tele på tvers av stua i kveldstimene. 
+
+Fullstendig ytelsestabell ser du under: 
+
+Bildekvalitet 
+
+Tar vi utebildene først, der lystilgangen var god, er vi godt fornøyde med bildene. 
+Lysmåleren har gjort en veldig god jobb på alle våre utendørsbilder, og snøen fremstår som svært nøytral, uten blåstikket som andre produsenter ofte har problemer med. 
+Objektivet har også relativt god skarphet og lider heller ikke av merkverdig dårligere skarphet i hjørnene. 
+På den negative siden er det i overkant mye kromatisk feilbrytning, og den forhåndsinnstilte oppskarpingen er litt i overkant, men dette kan stilles på. 
+Når det gjelder fortegning er denne noe høyere enn hva den er for mange av konkurrentene, noe som spesielt legges merke til ved fotografering av bygninger og annet med rette kanter. 
+
+Innendørs er det både plusser og minuser. 
+Den innebygde blitsen er meget god, med god lysspredning, og andelen bilder med røde øyne er ganske lav. 
+Den automatiske hvitbalanseringen uten blits, derimot, er kanskje det svakeste punktet til dette kameraet. 
+I normal lampebelysning blir bildene svært gule, noe du lett kan se i miniatyrvisningen. 
+Det er ikke vanskelig å plukke ut de som er tatt uten blits med automatisk hvitbalanse. 
+
+Bruker du innstillingen for lampe-hvitbalanse blir ting brått bedre, men hvis du da velger å bruke blits får bildene et kraftig blåskjær (som du ser et tilfelle av i utvalget over). 
+Hvitbalansen kan defineres manuelt mot et grått/hvitt punkt, som derfor blir en nødvendighet i mange situasjoner, eller så kan du ta bildet i RAW-format og justere hvitbalansen i etterkant. 
+Det er det faktisk mulig å gjøre rett i kameraet! 
+Det tar imidlertid lang tid å åpne et RAW-bilde - seks-sju sekunder, som gjør at det for de fleste ikke blir et reelt alternativ å ta alle innendørsbilder i råformat. 
+
+Når det gjelder støy er kameraet over middels godt. 
+Støy er synlig allerede fra ISO 200, men det er ikke før på 800 det blir fargespill og merkbart redusert detaljnivå. 
+ISO 3200 og 5000 fjerner så mye detaljer at bildet kun er egnet til å nedskalere og bruke på web, men det fungerer til nød: 
+Bildet under er tatt med ISO 5000, men er nedskalert fra tre megapikslers størrelse. 
+
+Bildestabilisatoren kunne godt ha vært bedre, og selv om vi har prøvd å holde pusten aldri så mye og klemt kameraet inntil kroppen har vi ikke klart å ta stødige håndholdte bilder på full tele, så der er stativ påkrevd. 
+Allikevel 
+ at en kan lese et gateskilt som står et par-tre hundre meter unna er ganske imponerende: 
+
+Filmfunksjonen er også god 
+ med skarpe bilder og høy bitrate (1,6Mbps), men med en liten svakhet: du må nemlig deaktivere bildestabilisatoren for å kunne få lyd på opptaket, som også kunne ha vært løst mer elegant. 
+Du kan for øvrig zoome under opptak og filme med opptil 640x480 med 30 bilder pr sekund. 
+
+Konklusjon 
+
+Olympus SP-550UZ har vært et morsomt kamera å teste, og vi lar oss langt på vei imponere av alt de har klart å putte i dette kameraet: 
+Et ganske lyssterkt objektiv med den råeste zoomen som noensinne er laget, med en brennvidde på hele 28-504mm, bildestabilisering og et hav av funksjoner som 15 bilder på ett sekund og støtte for RAW-format (til og med med en del redigeringsfunksjoner i kameraet). 
+Brukervennligheten er meget god, kameraet føles solid og har et veldig godt grep, selv om størrelsen ikke er all verden. 
+I tillegg er batterilevetiden svært god, selv med vanlige alkaliske batterier. 
+
+Med såpass lang brennvidde skulle vi gjerne ha hatt en bedre bildestabilisator, for det er ikke til å stikke under en stol at det selv i godt lys er svært vanskelig å få skarpe, håndholdte bilder ved full innzooming. 
+Kameraet har også enkelte svakheter i forhold til bildekvaliteten 
+ blant annet er tønneeffekten godt synlig ved fotografering av rette linjer og den automatiske hvitbalansen har en del å gå på i normalt lampelys. 
+
+Allikevel 
+ Olympus SP-550UZ er et godt kamera som gir deg svært mange muligheter på grunn av det fleksible objektivet. 
+Om du så vil ta bilde på flere hundre meters avstand eller 1cm (!) klarer kameraet brasene, er lett å bruke, godt å holde i og tilbyr en pakke for 4.000 kroner som ikke mange konkurrenter klarer å overgå. 
+Det gjør at vi triller fem, klistrer på et anbefalt produkt-stempel og klapper Olympus på skulderen for et godt kamera. 

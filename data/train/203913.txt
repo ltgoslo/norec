@@ -1,0 +1,119 @@
+Den beste PC-en vi har testet med AMD-prosessor
+Vi har testet en av de første Ryzen-baserte PC-ene på markedet. 
+Den får oss til å glemme gamle fordommer mot prosessorprodusenten AMD. 
+
+Det er ikke første gang vi stifter bekjentskap med modellen Acer Swift 3, allerede for et år siden testet vi en utgave med 13,3 tommer skjerm og Intel Core i3-prosessor. 
+Den gang konkluderte vi med at det var den beste PC-en vi hadde testet til under 7.000 kroner, med påfølgende terningkast 6. 
+
+En slags storebror 
+
+Utgaven vi har sett på denne gangen, har noen egenskaper vi kjenner igjen, ikke minst det svært fleksible skjermleddet, som gjør det mulig å legge PC-en helt flatt – men det er også mange store forskjeller. 
+
+For det første er dette en større PC med 15,6 tommer full HD-skjerm, basert på et høykvalitets IPS-panel som denne gangen er dekket av speilblankt Corning Gorilla glass. 
+For det andre har den et helt annen innmat – med prosessor og integrert grafikk levert fra Intel-konkurrent AMD. 
+
+Solid innpakning, men ikke blant de minste 
+
+Men vi må starte med eksteriøret. 
+Acer har benyttet aluminium hele veien. 
+Overflaten er matt med langsgående striper i metallet, fargene er gråblå. 
+Det både ser bra ut og virker tillitvekkende rent kvalitetsmessig. 
+
+Det er rundt en centimeter sørgekant på sidene av skjermen, litt mer i toppen. 
+På sidene av tastaturet er det enda mer plass. 
+Sånn sett hadde det ikke vært nødvendig å gjøre spesialtaster som Caps Lock, Shift og CTRL så små – eventuelt kunne hele chassiset vært gjort mindre. 
+
+Vi antar at Acer har sine grunner for å velge som de har gjort. 
+Det kan blant annet ha med å gjøre at det skal være god nok plass til effektive kjøleløsninger, i hvert fall har det vist seg nødvendig på mange eldre AMD-baserte PC-er. 
+
+Godt utstyrt 
+
+Det numeriske tastaturet til høyre har også små taster – men vi merker ikke så mye til det under bruk. 
+Vi vil absolutt karakterisere tastaturet som godt, med tydelig baklys når det er behov for det. 
+Det kan også skrus av om du vil spare litt ekstra strøm. 
+
+Noen vil kanskje synes at pekeplata er plassert litt vel for mye til venstre, men dette er også flisespikkeri for de fleste av oss – og går raskt å bli vant til. 
+Pekeplata er stor, klikkelyden er tydelig ved trykk – men ikke sjenerende. 
+
+Helt til høyre sitter en fingeravtrykksleser, som du kan bruke sammen med Windows Hello for rask pålogging og autentisering i apper. 
+Vi regner med at sistnevnte kommer til å bli vanligerer og vanligere i tiden som kommer. 
+Heldigvis er fingeravtrykksleseren raskere og mer nøyaktig enn den som satt på fjorårsmodellen. 
+
+På sidene har PC-en godt med tilkoblingsmuligheter. 
+Her finner du for eksempel totalt tre USB 3.0-porter, en USB-C-port (med USB 3.0-hastighet), en HDMI 1.4-utgang for tilkobling til ekstern skjerm og TV, klassisk 3,5mm utgang for hodetelefoner/mikrofon og en minnekortleser for alle typer standard SD-kort. 
+Det er omtrent som det bør være på en såpass stor PC i denne klassen. 
+
+På undersiden sitter et par enkle stereohøyttalere. 
+Dessverre er bassen litt for underdimensjonert i forhold til mellomtone og diskant, noe som gjør dem bedre egnet til tale enn til musikk og film. 
+
+Både SSD og harddisk 
+
+Så var det innsiden da – og her er det også mye å like. 
+Vi kan jo begynne med at PC-en har både SSD og harddisk. 
+SSD-en er på 256 GB, og passer utmerket til operativsystem og programmer – for at ting skal flyte så raskt som mulig. 
+Vi har målt ytelsen på den, og lesehastigheten er maks 1,5 GB i sekundet, mens skrivehastigheten stopper på rett under 600 MB i sekundet. 
+Vi har målt en god del raskere SSD-er tidligere, men dette er uansett raskt nok til at den ikke kommer til å oppleves som noen flaskehals. 
+
+Og så har den en romslig harddisk på 1 TB i tillegg, til brukerfiler, videoer og musikk – og til lokale spillinstallasjoner gjennom Steam. 
+Ja, for denne PC-en har grafikkytelse som ber om å få bryne seg på litt spilling i ny og ne. 
+
+Nesten som en gaming-PC, med integrert grafikk! 
+
+Grafikken har fått navnet Radeon RX Vega 10 – og er integrert i prosessoren, som er en AMD Ryzen 7 2700U. 
+
+AMD bruker nå tallene 5 og 7 omtrent som Intel gjør med sine i5 og i7-prosessorer, og Ryzen 7 er altså blant de kraftigere i serien for bærbare PC-er. 
+
+Dette er en firekjernet prosessor med en klokkehastighet på maks 3,8 GHz, som scorer 7.700 poeng i Passmark Performance Test. 
+Det er vesentlig mer enn selv de raskeste Intel Core i7-7xxxu-prosessorene, men litt bak siste generasjon fra Intel. 
+Sammenlikner vi for eksempel mot HP Spectre X360, med Intel Core i5-8250U, så fikk den 8.587 poeng. 
+
+Styrkeforholdet er altså fortsatt i fordel Intel, men forskjellene er betydelig mindre enn de har vært på flere år. 
+Vi må også ta i betraktning at Spectre X360 er en vesentlig dyrere PC. 
+
+Ganske så lydløs – for det meste 
+
+Støymessig er vi også fornøyde. 
+Det går lange perioder med lett bruk uten at viftene er hørbare i det hele tatt, men når PC-en belastes kan de spinne opp fra tid til annen. 
+
+Under tung belastning, for eksempel ved spilling, kan de gå mer eller mindre kontinuerlig, men vi kan ikke påstå at det er mer støy her enn på de siste PC-ene vi har testet med 8. generasjon Intel Core i-prosessor. 
+Her skynder vi oss å legge til at 7. generasjon virket å utvikle mindre varme, og blant disse finner vi noen av de stilleste PC-ene vi har testet. 
+
+Raskere enn GTX 950M 
+
+Og så var det denne grafikkytelsen, da. 
+Her er det AMD som trekker det lengste strået. 
+I samme test får den integrerte grafikken poengsummen 1.882 poeng på 3D-ytelse, mens Intel i5-8250U får 1126. 
+Det betyr at en Ryzen-basert PC vil være bedre i stand til å håndtere krevende spill enn en som er basert på åttende generasjon Intel-prosessor, med mindre den har et dedikert skjermkort. 
+
+Men hvor bra er egentlig 1.882 poeng? 
+Det dedikerte grafikkortet Geforce GTX 950M har i snitt fått 1.783 poeng hos Passmark, mens storebror 960M har i snitt fått 2.118 poeng. 
+
+Det er imponerende at en integrert grafikkløsning faktisk matcher disse kortene, selv om de ikke er helt nye lenger. 
+Det betyr uansett at det er ganske mange spill, også nye, som fint lar seg spille – men de mest krevende vil nok like at du kutter litt i oppløsning og detaljrikdom for å unngå hakkende bevegelser. 
+
+Ikke helt i mål på batteritid 
+
+Til slutt har vi også målt batteritida. 
+Tradisjonelt sett har batteritid ofte vært en akilleshæl på AMD-baserte PC-er, fordi strømbruken ofte har ligget høyere enn på Intel-baserte PC-er. 
+Ifølge spesifikasjonene skal strømforbruket ligge på maks 15W for denne prosessoren, som er sammenliknbar med Intel Core i7-8550U, men enkelte hevder den ligger noe over dette. 
+
+Hva angår denne PC-en, var batteriet tomt etter 274 minutter med kontinuerlig videostrømming fra YouTube. 
+Det tilsvarer 4 timer og 34 minutter, noe som ikke er særlig imponerende sammenliknet med mange PC-er vi har testet den siste tiden. 
+Acer er nok i overkant optimistisk når de anslår rundt 10 timer med variert bruk – da bør i hvert fall ikke videostrømming være en særlig stor del av dette. 
+
+OPPDATERT: 
+Etter en UEFI-oppdatering fikk vi 44 minutter bedre batteritid. 
+Dette kan du lese mer om i denne artikkelen. 
+
+PC-en leveres med en strømforsyning som er vesentlig mindre enn det vi forventer i denne klassen. 
+Den sørger for å lade batteriet til rundt 40 prosent kapasitet etter en time i stikkontakten. 
+Til sammenlikning har vi i vinter sett flere modeller som har klart mellom 70 og 80 prosent i løpet av samme tiden. 
+
+Konklusjon 
+
+Med unntak av en batteritid som ligger et stykke bak det vi hadde håpet på, er det mye å like ved den første Ryzen-baserte PC-en vi har testet. 
+Den byr på meget god ytelse, ikke minst grafikkytelsen imponerte oss, den har rikelig med lagringsplass, en god skjerm, godt med tilkoblinger, og innpakningen virker å være i god kvalitet. 
+
+PC-en har en prislapp på rundt 10.000 kroner. 
+Det kan virke mye, men ikke når vi tar alt i betraktning. 
+Dette gjør at vi er optimistiske på AMDs vegne, og håper å se mange spennende Ryzen-baserte PC-er i tiden som kommer. 

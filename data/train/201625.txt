@@ -1,0 +1,36 @@
+HP WiFi Mobile Mouse
+Den er ikke som andre trådløse, den kobler seg på WiFi! 
+
+Bærbare PC-er har ikke alltid Bluetooth, og ledige USB-porter er ikke alltid tilgjengelig. 
+Men trådløst nett støtter alle bærbare PC-er, i hvert fall de som kan kjøre Windows 7. 
+
+For det er altså forutsetningen for at HP sin nye mus skal fungere - trådløst nett og Windows 7, og ikke minst at den trådløse modulen i PC-en har en Microsoft-sertifisert Windows 7 driver. 
+
+Selve musen 
+
+Det er ikke noe revolusjonerende ved selve musen, den er ganske kompakt, sitter godt i hånden, har tiltbart skrollehjul og to ekstra knapper på sidene. 
+
+På undersiden finner vi to store glideskinner på hver side, lysdioder for sensoren, av/på-knapp og en Connect-knapp. 
+
+Musa er passe tung og glir og fungerer godt på de fleste underlag. 
+
+Oppsett 
+
+Vi prøvde først å koble opp en D-Link DWA-160trådløs USB-klient på vår stasjonære PC, koblet oss opp på det trådløse nettet og kjørte installasjonsprogrammet. 
+
+Men det ble ikke funnet noen mus. 
+Den trådløse enheten var ikke kompatibel. 
+
+Vi forsøkte så på en annen maskin, en splitter ny bærbar, og her fungerte alt knirkefritt fra begynnelse til slutt. 
+
+For å endre innstillingene installeres det et kontrollpanel som kan åpnes fra et ikon nede på høyre side av oppgavelinja. 
+
+I bruk 
+
+Hvordan fungerer dette i praksis når maskinen er koblet til forskjellige nett, eller ikke er på nett, eller brukes med kablet nett? 
+
+Vi flyttet den bærbare rundt i bygningen og koblet oss på forskjellige trådløse nett. 
+Musa fungerte uansett om vi var koblet til det ene eller det andre nettverket, og også når vi ikke var koblet til noe nett i det hele tatt. 
+
+Også når maskinen var koblet til kablet nett fungerte musa like strøkent. 
+Det som kreves er rett og slett at maskinens WiFi står på, ikke at du nødvendigvis har nettilgang. 

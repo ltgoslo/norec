@@ -1,0 +1,89 @@
+Picasa 3 beta for Mac
+TEST: 
+Endelig har Google lansert Picasa for OSX også. 
+
+Mange Mac-brukere har lenge ytret ønske om å bruke Picasa, men frem til nå har ikke programvaren vært tilgjengelig for de som er glade i epler. 
+
+Nylig ble imidlertid betautgaven av Picasa 3 sluppet for OSX; nærmere bestemt for Intel-baserte Macer. 
+Har du ikke Intel-prosessor kan du altså ikke bruke Picasa 3, i hvert fall ikke foreløpig. 
+
+Med Picasa 3 går Google rett i strupen på Apple når det gjelder å ta vare på bildene dine, og ikke bare konkurrerer de lokalt på din maskin - hånd i hånd med Picasa 3 går Picasa Web Albums, som er Googles nettvariant for å vise frem bildene dine (på samme måte som Apples .me), og som i tillegg er gratis (1GB, mulig å oppgradere for penger). 
+
+Med andre ord tilbyr Google alt som skal til for å kjempe om å ta vare på dine bilder; i hvert fall sett i forhold til iPhoto. 
+"Uheldigvis" ble iPhoto '09 annonsert etter at denne artikkelen ble påbegynt, så vi har vært nødt til å ta bort enkelte sammenligninger som vi heller må la vente til den nye versjonen er på plass. 
+
+Enkel import 
+
+Første gang du starter opp Picasa 3 blir du spurt om du vil importere bilder. 
+På vår testmaskin med rundt 6GB bilder tok prosessen noen få minutter, og bilder importeres både fra iPhoto og fra andre steder på harddisken hvis du vil. 
+Du kan selv velge hvilke kataloger som skal inkluderes i Picasa-arkivet og hvilke av dem som skal monitoreres slik at biblioteket oppdateres umiddelbart når du legger til eller fjerner et bilde. 
+
+Vi fikk litt bakoversveis da alle bildene var importert, for fortsatt la Picasa beslag på rundt 50% prosessorkraft selv etter at bildene var lagt til. 
+Det viste seg imidlertid ikke å vare for evig - en av nyhetene i Picasa 3 er nemlig ansiktsgjenkjenning, og Picasa scanner hvert bilde i arkivet for å finne ut om det inneholder et ansikt eller ikke. 
+Dette er også en av de store nyhetene i iPhoto '09. 
+
+Man skal selvsagt ta med i regnestykket at dette er en betautgave av programmet, men vi ble ikke spesielt imponerte av treffsikkerheten til denne algoritmen, der bilder som det til høyre ikke ble gjenkjent som et ansiktsbilde. 
+Så vidt vi kan se er det heller ingen mulighet å legge til ansikter manuelt - dette bør være på plass før programmet går ut av beta. 
+
+Vi stusser også litt over at funksjonaliteten for å finne flere instanser av samme ansikt ligger i web albums og ikke i selve programmet. 
+Når du har lastet opp bilder på web, kan du kjøre i gang en jobb som prøver å samle alle bildene av hver person, slik at du kan tagge de ulike bildene raskere. 
+Dette fungerer ganske bra - riktignok klarte ikke Picasa Web Albums å samle alle bildene av hver person for seg, men det gikk uansett raskt nok å tagge dem i bolker. 
+
+Lynraskt i bruk 
+
+Mer imponerte er vi over hurtigheten til programmet. 
+Selv om alle bildene er tilgjengelige fra ett og samme bilde (men der du også kan klikke på albumnavn i margen) går det lynraskt å skrolle, og dobbeltklikker du på et bilde, åpnes det også umiddelbart. 
+Det samme gjelder dersom du bruker piltastene for å se neste og forrige bilde, og programmet fremstår som vesentlig raskere i bruk enn iPhoto '08, noe vi håper Apple svarer på i '09-versjonen. 
+
+I likhet med iPhoto lar Picasa deg gjøre enkle bildeoperasjoner, som beskjæring, fjerning av røde øyne, retting av horisont, justering av farge, hvitbalanse etc. 
+Endringene er (som i iPhoto) ikke-destruktive, og du kan alltid gå tilbake til originalbilde uansett hva du har foretatt deg. 
+Et pluss i forhold til iPhoto får Picasa fordi programmet ikke oppretter en kopi av bildet når du legger det til i arkivet. 
+Unntaket er bilder du importerer fra iPhoto-biblioteket, som kun iPhoto får lov til å endre, og som du derfor må lage en kopi av. 
+
+Også bilderedigeringen fungerer raskt og utmerket, og alle operasjoner kan angres, også etter at du har startet programmet på nytt. 
+En del av redigeringsmulighetene er gjort elegant, blant annet retting av skjev horisont, som automatisk beskjærer bildet slik at de skjeve kantene aldri vises. 
+Du kan også kopiere over endringer fra ett bilde til et annet, på samme måte som i iPhoto. 
+
+Tagging og stjerner 
+
+Bilder du tar kan tagges med nøkkelord, og her står du fritt til å skrive akkurat hva du vil. 
+Elegant er det at du kan opprette album på enkelte tagger, og album kan synkroniseres med webalbumet automatisk. 
+Med andre ord kan du sette det opp slik at alle bilder du tagger med "blinkskudd" havner i blinkskudd-albumet som automatisk synkes på web. 
+Også her skal det sies at ikke alt fungerer som det skal - på undertegnedes maskin er det ofte problemer med boksen som dukker opp når du vil tagge et bilde, der det rett og slett ikke går an å skrive noe som helst. 
+Etter litt detektivarbeid viste det seg å gjelde alle bilder som iPhoto "eier". 
+
+Favorittbilder kan du også stjerne, og du kan også velge å gjemme bilder fra Picasa uten å slette dem. 
+Dette er også mulig i iPhoto. 
+
+Flere eksportmuligheter 
+
+Ved siden av å eksportere ferdigredigerte bilder til et annet sted på disken, kan du også lage lysbildefremvisning i form av .mov-filer der du også kan sette på musikk, du kan poste direkte til Blogger (som Google også eier), til Picasa Web Albums (selvsagt), eller lage en collage der bildene kan stables som Polaroidbilder slik vi har gjort under: 
+
+Du kan også lage postere slik at bildet blåses opp og skrives ut på flere ark, før du til slutt setter bildene inntil hverandre. 
+Bilder kan også skrives ut i en rekke vanlige formater, og grensesnittet er veldig intuitivt og lett selv for den uerfarne. 
+
+Det skal også være mulig å geotagge bildene dine slik at de dukker på Google maps/earth, men av ukjente årsaker er disse menyvalgene grået ut hos oss. 
+Dette er også en av de store nyhetene i iPhoto '09. 
+
+1GB gratis 
+
+Som nevnt lenger opp er det gratis å lagre opp til 1GB med bilder hos Google. 
+Når du eksporterer kan du også velge hvilken størrelse bildene skal lastes opp i, og 1GB er derfor ganske mye plass hvis du velger å eksportere i fornuftig størrelsesformat (640px, 1000px og 1600px kan velges, i tillegg til opprinnelig størrelse), og prisene for mer plass starter på $20 i året for 10GB, $75 for 40GB, $250 for 150GB og $500 for 400GB. 
+Plassen du kjøper gjelder også for Gmail. 
+
+Når du laster opp bilder til web albums kan du også velge hva slags synlighet de skal ha. 
+De kan være synlige for alle, synlige for alle og søkbare, eller kun synlig for personer du velger å dele albumet med. 
+Disse må logge inn med sin Google-konto for å få se bildene dine, i så fall. 
+
+Bedre enn iPhoto? 
+
+Så - bør du vrake iPhoto til fordel for Picasa? 
+Ikke ennå, mener vi. 
+Picasa 3 er fortsatt i beta, og det er enkelte ting som ikke er helt 100%. 
+I tillegg har Apple nettopp annonsert at iPhoto '09 er på vei, og undertegnede har i hvert fall tenkt til å sjekke ut den nye versjonen først. 
+
+At Picasa 3 er et godt program er imidlertid hevet over en hver tvil, og vi vil spesielt trekke frem ytelsen som nøkkelargument hvis du vurderer å bytte. 
+I tillegg er programmet helt gratis, så du har lite å tape på å sjekke det ut. 
+Husk at iPhoto '09 vil koste deg penger med mindre du har tenkt til å kjøpe ny Mac - da følger iLife-pakken også med. 
+
+Du finner Picasa 3 på http://picasa.google.com; både for Mac og Windows. 

@@ -1,0 +1,135 @@
+Multicom Z37S
+Z37S er en blank og fin 13,3-tommer. 
+Og den duger til langt mer enn bare å pynte skrivebordet med. 
+
+En bærbar datamaskin med en skjerm på 13,3 tommer var en stund ensbetydende med en MacBook fra Apple, men det er ikke lenger tilfelle. 
+Flere produsenter tilbyr nå alternativer i nettopp denne størrelsen, hvorav en av de mest spennende - eller hypede, alt ettersom - kanskje er Dell XPS M1330. 
+
+LES OGSÅ: 
+
+Men det er som sagt også andre aktuelle bærbare i denne klassen. 
+Santa Rosa-maskinen ASUS Multicom Z37S en en av disse. 
+(Altså, maskinen er produsert av ASUSTeK, men det er kun Multicom som har den - så vi kan visst ikke kalle det en ASUS. 
+Sånn er reglene.) 
+
+Som vi har sett på flere nye bærbare - og er tilfelle med datamaskiner fra for eksempel nettopp Dell og Apple - er maskinen en grunnplattform hvor kunden etter behov og budsjett bestemmer prosessor, RAM, størrelse på harddisk og så videre. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo fra 1,8 til 2,4 GHz 13,3" skjerm på 1280 x 800 punkter Fra 1 til 4 GB DDR2-minne 100 - 250 GB harddisk nVidia GeForce 8400M G (256 MB minne) WLAN (a/b/g/n), gigabit LAN, modem, Blåtann 3 x USB, 1 x eSATA, FireWire 1 ExpressCard/54 kortplass Kortleser for SD, MMC, MS, MSPRO VGA ut, lyd inn, analog/digital lyd ut Intel Turbo Memory og SSD (ExpressCard/34) kan velges 6-cellers batteri Fingeravtrykksleser, 2.0 Mp webkamera og integrert mikrofon Dimensjoner (B/D/H): 
+32,0 x 25,2 x 3,4 cm (inkl. batteri) Vekt ca 2,2 kilo 
+
+Vi har her ikke testet toppmodellen, men i stedet valgt en konfigurasjon vi mener er en fornuftig balanse mellom pris og ytelse: 
+Core 2 Duo T7300 (2,0 GHz), 2 GB RAM (en minnemodul), 120 GB harddisk og Intel Turbo Memory. 
+Alt i alt kommer dette på ca. 11.500 kroner - vel å merke ute operativsystem. 
+
+Prisen på toppmodellen med 2,4 GHz Core 2 Duo, 4 GB RAM og 250 GB harddisk ligger på anstendige 15.500,-. 
+
+Bredskjermen er på de sedvanlige 1280 x 800 punkter og er av den blanke typen med kontrastbelegg. 
+Den er fin og relativt lyssterk, og som normalt er innsynsvinkelen begrenset. 
+Kontrast og farger har vi heller ingenting å si på - skjermen er rett og slett god. 
+
+Konstruksjon 
+
+Rett ut fra esken ser Z37S utvilsom lekker ut - lokket har til og med et subtilt mønster - men er så blankt at det alvorlig talt er vanskelig å ta bilde av det. 
+Ikke uventet blir det også fort fullt av fingeravtrykk. 
+Maskinen virker også en tanke høy, men det kan være fordi vi har sett den side om side med Apple MacBook. 
+Og batteriet stikker ut bak, noe som ikke er spesielt elegant. 
+(Både mindre og større batteri skal visstnok bli tilgjengelig etter hvert.) 
+
+Apple MacBook til venstre. 
+Merk refleksjonene i lokket til Z37S. 
+
+Men bortsett fra dette er det svært lite produsenten har gjort galt. 
+Byggekvaliteten virker meget god uten slark i chassis, fester eller knapper. 
+Til sammen står vi igjen med et solid inntrykk av kvalitet. 
+
+Tastaturet er kontant og godt å skive på, men kan være litt støyende dersom du har en tendens til å skrive hardt. 
+Layouten kunne vært bedre - observer plasseringen av Fn-tasten til venstre for Ctrl. 
+Til høyre for Enter er det også plassert en rekke med taster. 
+
+Av/på-knappen er plassert mot høyre over tastaturet, og på venstre side finner vi en knapp som skrur blåtann/trådløst nett av og på, pluss en som lar deg kjapt bytte mellom forskjellige strømoppsett. 
+Mer om dette senere. 
+
+Touchpaden er i bredformat lar deg også skrolle vertikalt og horisontalt. 
+Følsomheten til både denne og de to knappene under er god, og i linje med kvalitetsfølelsen vi allerede har nevnt. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter finner vi bak og på sidene. 
+Høyttalerne er plassert i fronten. 
+
+På venstre side har vi VGA, en USB-port, lyd inn/ut, ExpressCard/54-slot og minnekortleser. 
+Varmluft blåses også ut her. 
+
+Høyre side har plass til det optiske drevet, eSATA (ekstern SATA-kontakt), FireWire og 2 x USB. 
+
+Bak har vi altså batteriet. 
+I tillegg finner vi plass for Kensingtonlås, inntak for strøm, modem og nettverk. 
+
+Ytelse og batterilevetid 
+
+Multicom Z37S er den tredje Santa Rosa-maskinen vi tester, og de to andre vi har sett på har imponert oss med god ytelse. 
+Det var derfor med store forventninger vi startet ytelsestestene. 
+Vi har naturligvis sammenlignet med 12,1-tommeren Acer TravelMate 6292 og Compal IFL90+, selv om sistnevnte er en 15,4-tommer. 
+Som eneste med lik skjermstørrelse så vi også på MacBook, men merk at denne har et eldre brikkesett. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Z37S gjør det - som forventet - godt. 
+Litt bak på prosessoren, men dette er naturlig siden de to andre Santa Rosa-maskinene har litt raskere prosessor. 
+En ny MacBook ville også hatt raskere prosessor og gjort det litt bedre på akkurat den delen. 
+
+Når det gjelder minne har vi altså konfigurert Z37S med kun en minnemodul. 
+Dette gir litt dårligere målbar ytelse, men i praksis vil vi ikke merke noe til dette. 
+Fordelen er at den blir enklere å oppgradere senere dersom vi skulle ønske det. 
+
+De store forskjellene finner vi ikke uventet på grafikksiden. 
+Dette er også grunnen til at IFL90+ ligger såpass langt foran totalt. 
+
+Til slutt harddisken - her utmerker Z37S seg ettersom det er den eneste som her er målt med Intels turbominne. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+Grafikkortet vi finner i denne maskinen er et nVidia GeForce 8400M G (nei, ikke GS eller GT), som i skrivende stund er det svakeste kortet for bærbare med støtte for Direct3D 10 (DirectX 10). 
+Den kan betegnes som arvtageren til Go 7400 og har omtrent samme ytelse, noe som betyr at maskinen altså ikke er for de mest seriøse spillerne. 
+Men er du villig til å lempe litt på detaljene vil den holde fint til de fleste nyere spill. 
+
+Batteri: 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+Batteriet på Z37S skuffer dessverre litt. 
+I vår test med BatteryMark holder den i knappe to timer, tre kvarter mindre enn Acer TravelMate 6292 mens MacBook ligger foran med over en time. 
+
+Når det gjelder viftestøy er denne til stede hele tiden, men du må være i et relativt stille rom for å høre den på lav hastighet. 
+Under under hard jobbing følger vifta belastningen på grafikk og prosessor, og selv når PCen er uvirksom spinner den opp og ned av og til. 
+
+Når vifta først får opp farten kan den ikke akkurat betegnes som støysvak. 
+Heldigvis kommer datamaskinen med en fire ferdigdefinerte strømoppsett, herunder batterisparing, høy ytelse, spilling og "quiet office". 
+Med sistnevte senkes maskinens ytelse slik at vifta går lavere og jevnere. 
+
+Vurdering og konklusjon 
+
+Multicom Z37S har gjort en ganske så fin figur i denne testen, men den er ikke perfekt. 
+Vi har nevnt tastaturet, som godt kunne hatt en bedre layout. 
+Kvalitetsfølelsen skjemmes også en smule av at maskinen blir litt varm på venstre håndleddstøtte (vær obs dersom du er var for slikt). 
+Støynivået er dessuten litt høyere enn hva vi foretrekker, men den har altså en egen knapp for kjapt å forandre strømoppsett - det gjør susen. 
+
+Og så er det dette med batterilevetiden, men her skal det nevnes av BatteryMark, som er programmet vi bruker, begynner å dra på åra. 
+Målingene den gjør er beregnet på kontinuerlig drift, og den tar ingen hensyn til batteriforlengende teknologier eller strømoppsett. 
+Det vil derfor være mulig å klemme langt mer ut av batteriet enn skarve to timer, det kommer altså helt an på bruken. 
+
+Men når det er sagt kunne vi likevel godt ha ønsket oss et litt sterkere batteri når det først skal stikke ut av maskinen. 
+
+Totalt sett ender likevel Z37S opp på en femmer, det er ingen tvil om at dette er en god bærbar PC, og i forhold til størrelse og pris kan du ende opp med mye for pengene dersom du plukker den rette konfigurasjonen. 
+
+Men tenk også over dine egne behov - har du mer bruk for lang batterilevetid og ikke bryr deg så mye om ytelse vil en billigere bærbar PC eller kanskje en Apple MacBook være mer fornuftig. 
+
+Ellers venter vi altså spent på Dell XPS M1330, som vi også har store forventninger til. 
+
+En liste over maskiner vi har testet finner du her! 

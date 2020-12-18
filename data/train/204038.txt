@@ -1,0 +1,121 @@
+Så fint og enkelt kan det gjøres
+Den letteste Mac-en noensinne er kanskje også den aller lekreste. 
+Det har gått ut over tilkoblingsmulighetene, men det er kanskje ikke så viktig for deg? 
+
+Det er ikke tilfeldig at vi har et spesielt sterkt fokus på bærbare datamaskiner for tiden. 
+Denne uka starter mange på et nytt skole- eller studieår, og da melder gjerne lysten på ny maskinvare seg samtidig. 
+
+Vi har allerede kjørt en runde med nye PC-tilbud, og har også testet de to hvasseste maskinene fra oversikten. 
+
+Denne gang har vi bevegd oss opp ganske mange hakk opp på prisskalaen, men nye Macbook fra Apple er også en maskin som garantert blir vurdert av mange skoleelever og studenter i disse dager. 
+Og det med god grunn - den lekre maskinen trygler nærmest om å bli en del av din mobile hverdag, med sitt robuste, slanke ytre (1,3 cm) og vekt på beskjedne 923 gram. 
+
+Fullgodt alternativ til Windows 
+
+Vi skal ikke gå særlig i dybden på operativsystemet, det kan du lese mer om her, men vit at MacOS er et pålitelig og brukervennlig, grafisk system som holder styr på maskin- og programvaren, akkurat som Windows 10 gjør på ni av ti datamaskiner som selges om dagen. 
+Om du har brukt PC-er med Windows tidligere, vil du neppe bruke lang tid på å bli kjent og i og blir dus med MacOS-universet. 
+
+MacOS brukes offisielt kun på maskiner fra Apple, i skrivende stund på de tre bærbar-seriene Macbook, Macbook air og Macbook pro, samt stasjonære iMac, iMac Pro, Mac mini og Mac Pro. 
+
+Utvalget av programmer/apper innen alle tenkelige og utenkelige områder er stort, men ikke fullt så omfattende som for Windows (på godt og vondt). 
+Har du planer om å bruke Mac-en på arbeidsplassen, bør du uansett sjekke med IT-avdelingen om systemene deres støttes fullt ut. 
+
+For øvrig er det aller meste av skrivere, mus, tastaturer, trådløse høyttalere og annet eksternt utstyr 100 prosent kompatibelt med MacOS i 2017. 
+
+Helt lydløs lekkerbisken 
+
+2017-utgaven av Macbook er den letteste Mac-en noensinne, og en av årsakene er at den er fullstendig rensket for plasskrevende mekanikk. 
+Ikke en gang en kjølevifte har Apple funnet behov for, mye takket være den svært strømgjerrige Kaby Lake-prosessorserien fra Intel. 
+
+Metallkabinettet fås i fire forskjellige fargevarianter som Apple har kalt rosegull, gull, stellargrå og sølv. 
+Felles for dem er at overflaten er matt og svakt buet mot kantene, både på lokket og bunnplaten. 
+Her er ingen åpninger, ikke en gang i skjermleddet. 
+
+Lokket åpner du med en finger, uten at bunnplaten løftes - noe Apple selv gjør et nummer av når de skryter av maskinene sine. 
+Ofte er skjermleddet så stramt på mange PC-er at man må bruke to hender for åpne dem. 
+
+God skjerm med fornuftig høyde 
+
+På innsiden blir du møtt av en skjerm på 12 tommer. 
+Denne har en oppløsning på 2.304 x 1.440 piksler, med bredde:høydeforhold på 16:10, ikke 16:9 som er standard på de aller fleste PC-er. 
+Resultatet er mer arbeidsflate i høyden, noe som i våre øyne er udelt positivt. 
+Microsoft har også «skjønt det», med sin Surface Laptop og bredde:høydeforhold på 3:2. 
+La oss håpe mange flere følger i samme spor. 
+
+Skjermoverflaten er blank og du kan dermed oppleve en del gjenskinn i den, spesielt på steder med mange og sterke lyskilder. 
+For øvrig er kvaliteten helt super! 
+Vi antar at Apple har brukt et IPS-panel her, med god lysstyrke og et bilde som bevarer farger og kontrast selv når du betrakter det fra nær død vinkel. 
+
+Slik vurderer vi tastatur, pekeplate og høyttalere 
+
+Det baklyste tastaturet fyller så å si hele bredden, og tastene er dermed relativt store. 
+De er også faste og responsive. 
+Trykke-konstruksjonen under hver tast er forbedret siden forrige generasjon Macbook, og det skal nå være nesten umulig ikke å få respons - uansett hvor langt ut på kanten av tastene du måtte trykke (det vil uansett være en overdrivelse å påstå at dette har vært et «problem» tidligere). 
+
+Det vi imidlertid merker oss, er at harde anslag etterfølges av en klikkelyd som er litt mer distinkt enn før, noe som ikke alle vil være like glade for. 
+Vi kan imidlertid ikke karakterisere det som et direkte ankepunkt, men greit å være klar over uansett. 
+
+Pekeplaten under tastaturet er bred og romslig, og den støtter ikke bare flerberøring, den reagerer også forskjellig om du trykker hardt eller lett på den. 
+Et hardt trykk kan åpne for annen funksjonalitet i apper enn lette, for eksempel tykkere streker i tegneprogrammer og rask akselerasjon i et bilspill. 
+Kvalitetsfølelsen er som ventet meget god. 
+
+Over tastaturplaten sitter det et par høyttalere. 
+Disse byr på en lydkvalitet som definitivt ligger i øvre klasse, sammenlignet med andre bærbare, både større og mindre modeller. 
+Den har nok fylde til at vi mer enn gjerne spiller lav bakgrunnsmusikk til arbeidet, men å karakterisere den som direkte god, vil være en overdrivelse. 
+Heldigvis har ikke Apple tatt bort minijack-utgangen, så det er enkelt å koble til eksterne høyttalere eller hodetelefoner. 
+
+Ikke noe for deg med mye du vil koble til 
+
+Ellers er det lite å skryte av når det gjelder øvrige tilkoblinger. 
+Det er faktisk bare én eneste av dem, en USB-C-port. 
+Denne fungerer som ladeport og støtter også gjesteprotokollene Thunderbolt 3 og DisplayPort, samt USB 3.1 gen1, for tilkobling av skjerm og eksternt utstyr. 
+
+USB-C kommer garantert til å ta over for den gamle (og forhatte) USB-A-utformingen på sikt, men inntil videre må du belage deg på å bruke en overgang når du skal koble til minnepinner, harddisker og annet eksternt utstyr. 
+Vi mener Apple i det minste burde ha lagt ved en slik overgang OG utstyrt Macbook med en USB-A eller USB-C-port til. 
+
+Slik yter den 
+
+Vårt testeksemplar er utstyrt med den mest strømgjerrige Kaby Lake-prosessoren, en dobbelkjernet Intel Core m3-7Y30-prosessor som varierer hastigheten mellom 1 og 2,6 GHz. 
+Selv når den kjøres hardt, trekker den ikke mer enn 4,5 watt. 
+Den kan likevel bli temmelig varm - men Apple har løst dette med en effektiv varmeleder/fordeler-løsning på hovedkortet. 
+Maskinen blir faktisk sjelden særlig varm under vanlig, variert bruk - noe som slett ikke er selvsagt på så kompakte maskiner. 
+
+Men hvor godt yter den egentlig? 
+Her er det litt morsomt å sammenligne mot Intel Core i3-7100u, prosessoren som sitter i de to PC-ene vi testet i forrige uke, med prislapper på under 4.000 kroner. 
+
+Passmark-testene gir disse i snitt en score på rundt 3.900 poeng, mens m3-7Y30 får i snitt rundt 3.600 poeng. 
+
+Litt svakere allroundytelse enn på PC-er til under 1/3 av prisen altså, men god nok ytelse til alt av normale oppgaver, inkludert kontorapplikasjoner, film (også 4K), lett spilling og lignende. 
+Og med 8 GB RAM og rask SSD har vi ikke vært i nærheten av å vurdere maskinen som treg under testperioden. 
+
+SSD-en har en kapasitet på 256 GB og kommuniserer med systemet via PCI-e-grensesnittet. 
+Vi målte den til lesehastigheter på rundt 1,3 GB i sekundet og skrivehastigheter til rundt 1,1. 
+Det er svært raskt, og gjør at den aldri vil oppleves som noen flaskehals på systemet. 
+
+Åtte og en halv time med videostrømming 
+
+Hva så med batteritiden? 
+Apple hevder rundt 10 timer ved variert bruk. 
+Vår standard batteritest viser rundt 8,5 timer med kontinuerlig videostrømming fra YouTube. 
+Det er et bra tall, spesielt med tanke på den lave vekten på denne maskinen. 
+
+Vi ser ikke bort fra at du kan tyne den i en halvannen time til, med lett variert belastning. 
+Til sammenligning målte vi den nevnte Surface Laptop til 9,5 timer med samme testprosedyre, og Asus Zenbook 3 (som veier omtrent det samme som Macbook) til rundt 8 timer. 
+
+Konklusjon 
+
+Apple har nok en gang lansert en maskin med overbevisende kvaliteter, og derfor får nye Macbook en soleklar femmer og medfølgende Anbefalt-stempel fra oss i Dinside. 
+Maskinvaren er veldreid og kvalitetsfølelsen er på høyde med det aller beste vi har sett på tidligere. 
+
+Når vi likevel ikke velger å gi terningkast 6, skyldes dette først og fremst at maskinen kun er utstyrt med én fysisk tilkobling, og denne krever i tillegg at du bruker en overgang for å koble til det meste av USB-utstyr på markedet - en overgang som er ekstrautstyr du må betale for. 
+Er dette uviktig for deg, kan du gjerne sette på en ekstra prikk på terningen. 
+
+Enkelte vil også oppleve høy pris som et ankepunkt. 
+Vår test-maskin koster tross alt rundt 14.000 direkte fra Apple. 
+
+Du skal ikke lete lenge før du finner lydløse maskiner i Windows-verdenen som har bedre eller sammenlignbare spesifikasjoner til en pris som ligger godt under denne. 
+
+Man bør imidlertid samtidig ta med i betraktningen at Apples maskiner er populære på bruktmarkedet. 
+Det kan dermed hende at totalkostnaden ikke blir så ille likevel, hvis du tar deg bryet med å gi den en en kjapp overhaling og legge den ut for salg når du ikke trenger den lenger. 
+
+Ser du etter gode konkurrenter i Windows-leiren, bør du få med deg disse testene: 

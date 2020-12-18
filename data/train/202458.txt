@@ -1,0 +1,34 @@
+Intel SSD 320 120GB
+Vi har testet Intels "folke-SSD" i vår gamer-PC. 
+
+Intel var tidlig ute med X25 SSD som hadde glimrende ytelse på relevante områder. 
+Lese og skriveytelsen på store filer var ikke det som imponerte, men det er heller ikke det som er viktig når man bruker SSD som systemdisk: 
+
+Der Intel regjerte var på rask skriving og lesing av små filer, og her tok det tid før konkurrentene kunne hamle opp. 
+
+Den nyeste serien fra Intel med SSD for "folk flest" er 320-serien, som er tredje generasjon. 
+Den kommer i mange forskjellige kapasiteter: 40/80/120/160/300 og 600 GB - vi har testet 120 GB som er akkurat passe for de fleste, og til en overkommelig pris. 
+
+Testmaskinen 
+
+For anledningen var testmaskinen basert på Intel Core i5 2500K prosessor, Asus P8 Z68V Pro hovedkort, 8 GB minne og Radeon HD5830 grafikkort. 
+Operativsystem var Windows 7 64-bits. 
+
+Mens vi ventet på SSD-en installerte vi Win7 på en WD Raptor 150 GB, for å bruke denne som sammenligningsgrunnlag. 
+
+PCMark Vantage viste at med SSD fikk vi en gedigen ytelsesgevinst. 
+
+Vi kjørte også ATTO for å teste skrive/leseytelsen: 
+
+AS SSD ga disse resultatene: 
+
+Konklusjon 
+
+Sammenlignet med Raptor-disken fikk vi en stor gevinst, maskinen er enda raskere i responsen både ved oppstart og veksling mellom programmer. 
+Støy og varme er det også påtagelig mindre av. 
+
+Ytelsen på Intel SSD-ene i denne serien er som nevnt ikke på høyden på alle målinger, men på de egenskapene som gjør den egnet til systemdisk gir den gode resultater. 
+
+Dessuten har Intel 5 års garanti på sine SSD-enheter til forbrukermarkedet. 
+
+Intel 320 Series 2.5" SSD 120GB 

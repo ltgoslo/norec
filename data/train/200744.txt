@@ -1,0 +1,39 @@
+Western Digital Red 4TB
+Vanlige disker er ikke laget for å brukes hele døgnet, har du en NAS trenger du en NAS-disk. 
+
+En NAS-boks er en liten enhet med harddisker som alle på et nettverk har tilgang til. 
+Den kan inneholde for eksempel bilder, dokumenter, filmer og musikk som alle i en husholdning kan få tilgang til, og det er også mulig å få tilgang utenfor hjemmet. 
+
+Dataene lagres på tradisjonelle harddisker, men det har vist seg at ikke alle disker er like godt egnet i slike NAS-kabinetter. 
+Derfor har diskprodusentene laget nye serier med disker, tilpasset forskjellig bruk, inkludert NAS-løsninger. 
+
+Western Digital Red 
+
+Western Digital (WD) har for eksempel delt inn sine harddisker i flere serier, for forskjellige bruksområder. 
+For å ta fram harddisker som er spesielt egnet til små NAS-installasjoner samarbeider diskprodusentene med NAS-produsentene. 
+Spesiell firmware har blitt utviklet slik at man er sikret kompatibilitet, ytelse og stabilitet. 
+
+Red-serien fra WD har arvet en del av den såkalt grønne serien fra samme produsent, og roterer med 5.400 omdreininger. 
+Dette gir lavt strømforbruk og varmeutvikling. 
+
+Disken inneholder fire plater på 1 TB hver, og med denne tettheten blir overføringshastigheten ganske høy selv om rotasjonshastigheten er beskjeden i forhold til disker med 7.200 og 10.000 omdreininger. 
+
+Aksesstiden lider ved lav rotasjonshastighet, men denne parameteren er ikke veldig relevant for en ren lagringsdisk. 
+
+Ytelse 
+
+Vi målte ytelsen med flere testprogrammer, og kan konstatere at disken leverer utmerkede tall. 
+Sammenligner vi for moro skyld med en WD Green vi testet i 2010, så leverer en WD Red femti prosent høyere leseytelse, men tre ganger så høy skriveytelse! 
+
+Og WD Green hadde ingen problemer med å streame fire forskjellige HD-filmer til fire forskjellige brukere, samtidig som den kopierte store filmapper med tusenvis av bilder. 
+
+WD Red klarer det samme og mer med god margin. 
+
+Konklusjon 
+
+Western Digital Red 4TB leverer god ytelse, og tilstrekkelig til å betjene flere brukere med både streaming og lagringsbruk. 
+
+Kapasiteten på en enkelt disk er tilstrekkelig til å betjene mer data enn de fleste vanlige brukere klarer å produsere på egen hånd i løpet av mange år, selv om de er ivrige foto og videoentusiaster. 
+
+WD Red WD40EFRX 
+64MB 4TB 

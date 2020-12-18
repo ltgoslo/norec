@@ -1,0 +1,95 @@
+Nokia N96
+Finnenes nye toppmodell er både en nytelse og en skuffelse. 
+
+Gode spesifikasjoner gjør at Nokia N96 ser ut som en vinner på papiret. 
+Den har for eksempel en stor skjerm på 2,8 tommer, 16 GB flashminne som også kan utvides med et mikroSD-kort på maksimalt 8 GB, innebygget GPS, og et 5 megapiksels kamera for å nevne noe. 
+
+Men er den like god i praksis som på papiret? 
+Svaret er et stort tja, for selv om mye er svært bra på denne mobilen, får vi ikke helt godfølelsen for N96. 
+
+Kannibalisering 
+
+Det største problemet til N96 er at dens lillebrødre N82 og N95 gjør omtrent akkurat det samme til en langt lavere pris. 
+I skrivende stund må du nemlig ut med godt over 6.000 kroner for en N96 uten abonnement, mens de to førstnevnte modellene ligger på mellom 4.200 og 4.600 kroner (også uten abonnement). 
+
+Design og førsteinntrykk 
+
+Det første som slår deg med N96 er den store og fine skjermen. 
+Merk deg at selv om oppløsningen ikke er endret så virker skjermen langt mer lyssterk enn på vår private N82. 
+
+Størrelsen er imidlertid et minus. 
+Ved siden av en viss iPhone ser N96 både tjukk og til dels klumpete ut, og med sine 125 gram er den heller ingen lettvekter. 
+
+Som du ser av bildene er N96, i likhet med N95, en skyvetelefon der du får tilgang til medieknappene ved å skyve displayet ned. 
+Tilgang til selve telefontastene fås ved å skyve displayet opp. 
+
+Svært god lyd 
+
+Bruker du mobilen din som MP3-spiller bør du følge med nå, for her gjør N96 en virkelig god jobb. 
+Til og med de medfølgende øreproppene gir bedre lyd enn de fleste andre mobiler vi har vært borti, på dette punktet er N96 for eksempel langt bedre enn N82. 
+Lydfreakene der ute bør også merke seg at denne mobilen heller ikke har problemer når du bruker til dels tungdrevne øreklokker. 
+
+Merk deg for øvrig at minijack-utgangens plassering gjorde at vi ikke fikk skjøvet displayet opp (for tilgang til talltastaturet) da vi plugget i vårt eget Beyer-Dynamics-headset. 
+En liten glipp, men siden problemet kan unngås ved å bruke nederste del av de medfølgende øreproppene, som også gir deg fjernkontrollen, har vi ikke trukket for dette. 
+(NB: 
+Du får bilde av dette i bildespesialen) 
+
+Fjernstyringen (volum, skip, pause) fungerer for øvrig godt, og er helt fri for de irriterende klikkelydene og skurringen som flere billige mobiler er belemret med. 
+
+Også videonissene der ute vil smile fra øre til øre. 
+Vi i Norge får riktignok ikke brukt mobil-TV-funksjonen til N96, men mobilen støtter i hvert fall de mest brukte formatene som finnes, inkludert MPEG4 (H.264/H.263) og WMV9. 
+
+Også egne videoopptak kan glede et teknohjerte, opptakene går i 30 bilder i sekundet og den nye bildestabilisatoren gjør en helt ok jobb. 
+Se eksempel her 
+
+Men så begynte nedturene. 
+
+Dårlig blits 
+
+For selv om spesifikasjonsnissene vil smile bredt når de leser at N96 har et 5 MP-kamera, så vil antagelig smilet stivne når de ser sine egne festbilder i edru tilstand. 
+
+Problemet er blitsen. 
+
+For der N82 er utstyrt med ordentlig xenon-blits som gir gode bilder også når det er mørkt, så har N96 en slags kvasiblits. 
+Resultatet er derfor vesentlig dårligere bilder innendørs enn på N82, og med tanke på prisen hadde vi forventet langt mer fra N96 på dette punktet. 
+Trykk på de to bildene under for å se hvor store forskjellene egentlig er: 
+
+Vi savner også et linsedeksel på N96, det sparer deg for mye støv og møkk på linsa, og burde definitivt vært på plass. 
+
+Dette burde vært (mye) bedre 
+
+På innsiden finner du fortsatt operativsystemet Symbian S60, så gjenkjennelsesfaktoren er stor om du har hatt Nokia før. 
+(GPS-navigering er som nevnt med og fungerer helt ok, men siden vi har testet det inngående tidligere utelater vi det her.) 
+En av fordelene her er at du kan laste ned en haug med programmer, noen må du riktignok betale for, men det er også et stort utvalg av tilgjengelige gratisprogrammer om du surfer litt rundt. 
+
+Vi lastet for eksempel ned epostprogrammet Mail for Exchange, og her fungerer N96 utmerket enten du vil synke telefonen kontinuerlig eller ved behov. 
+
+Problemet er at N96 oppleves som litt treg, og dette ble spesielt tydelig ettersom vi kom rett fra Nokias glitrende E71. 
+Hvorfor N96 skal bruke lengre tid enn E71 på å åpne programmer og, ikke minst, manøvrere inni dem er for oss en gåte. 
+
+På dette punktet har det nemlig ikke skjedd noe som helst siden vi testet N82 i desember 2007. 
+Og, jada, det stemmer at vi syntes N82 var kjapp og fin da, men det er snart et helt år siden og konkurrentene har nå definitivt rast forbi. 
+
+I løpet av vår testperiode har vi også opplevd at telefonen har låst seg helt og restartet uten grunn, heller ikke det er noe sunnhetstegn. 
+
+Som nevnt synkroniserte vi kontakter og e-post via Outlook og exchange, mens bilde- og musikk-filene ble overført via Nokias medfølgende programvare. 
+Eller for å si det på en annen måte: 
+Vi prøvde i hvert fall, for både Nokias Music Manager og Nokia Photos hadde til dels store problemer med overføre filene til og fra PCen. 
+
+Da vi overførte musikk fikk vi for eksempel flere ganger beskjed om at det ikke var nok minne, til tross for at vi hadde rundt 15 GB tilgjengelig, og Nokia Photos nektet rett som det var å hente ut videoklippene våre. 
+Resultatet var at vi endte opp med å bruke Windows Media Player til musikken, og at videofilene ble overført via minnekortet. 
+
+Nå vil helt sikkert dette bli fikset med framtidige firmwareoppdateringer, men med tanke på den stive prisen på N96 burde ikke kundene bli utsatt for slike irritasjonsmomenter. 
+
+Konklusjon 
+
+Det er ikke det at N96 er så dårlig, problemet er at vi har sett alt den har å tilby før. 
+
+Hvis du allerede har N82 eller N95 er det derfor svært lite poeng i å bytte til N96. 
+Til det er prisen for høy og forskjellene for små. 
+Enda tydeligere er det hvis du tilhører proffgruppen, for da gjør E71 en langt bedre jobb 
+ den er både kjappere og mer stabil. 
+
+Dermed gjenstår musikk- og filmelskerne som er på jakt etter en mobil med mye minne, for det er der N96 briljerer. 
+
+For oss som ikke trenger all lagringsplassen er imidlertid ikke det nok. 

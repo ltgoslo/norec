@@ -1,0 +1,114 @@
+Transcend T.sonic 840
+MP3-spiller med 4 GB kapasitet, radio, opptaker og videoavspiller til 700 kroner? 
+Ja, det er faktisk sant. 
+
+"Exceeding Your Expectations" står det på esken til T.sonic 840 fra Transcend. 
+Og kanskje med rette. 
+Det er kanskje ikke allverdens å forvente seg fra en MP3-spiller som selges for noen ganske få hundrelapper. 
+
+Man kan begynne å lure på hvordan det er mulig å selge en spiller med så stor kapasitet for så lite. 
+Mye av svaret finner du ved å se på hva Transcend egentlig driver med: minneproduksjon. 
+De er faktisk blant de aller største på dette området. 
+
+Kostnaden knyttet til minne er sentral i enhver MP3-spiller, og at Transcend drar nytte av sin øvrige produktlinje er naturlig og åpenbart. 
+De fleste MP3-spillere med tilsvarende kapasitet fra andre produsenter koster som oftest tusen kroner eller mer. 
+
+Men hva er T.sonic egentlig i stand til? 
+Her følger de sentrale fakta: 
+
+Multimediespiller med 1,8" skjerm og 2 eller 4 GB flashminne Musikkspiller (MP3, WMA, WMA-DRM og WAV) FM-radio med 20 forhåndsinnstillinger og radioopptaker Stemmeopptaker Bildefremviser (JPG, BMP) 
+Videospiller (MTV-filer) Verdensur Kan brukes som minneplugg 30 timer musikkavspilling, 8 timer video Vekt: 
+74 gram (86 gram med øreplugger) Mål 82 x 40.5 x 12.5 mm 
+
+Betjeningsorganene er plassert på venstre og høyre side, ikke i fronten under skjermen - som er det mest vanlige. 
+Med all den ledige plassen i fronten kunne jo Transcend utvidet skjermen noe og laget en ekte bredskjerm hvis de hadde ønsket det. 
+Videoavspilling gjøres "liggende", men formatet er noe nærmere 4:3 enn 16:9. 
+
+Svært enkelt å gjøre opptak 
+
+Det er vippebryteren på høyre side som gjør mesteparten av jobben under navigeringen. 
+Den kan vippes til venstre og høyre, og et lett trykk på den fungerer som "OK" eller "Enter". 
+Et langt kort og et kort trykk kan utføre to forskjellige operasjoner, avhengig av hvor du befinner deg i menystrukturen. 
+Det fungerer, men det er lett å trykke litt skjevt, og dermed skjer det gjerne ingenting. 
+Her har vi sett mange langt mer elegante løsninger. 
+
+I tillegg er det en Play/pause-knapp ved ved siden av. 
+
+På motsatt side sitter en opptaksknapp, som brukes både når du skal ta opp fra radio og via mikrofonen. 
+Det fungerer utmerket! 
+Et litt langt trykk på den og opptaket starter. 
+Det stoppes på samme måte. 
+
+Under denne sitter volumknappen, med trykkfeltene + og -. 
+Det enkleste er ofte det beste. 
+
+Filbehandler 
+
+Menystruktur og navigering er imidlertid ikke helt på 2007-nivå dessverre. 
+Vi begynner å bli bortskjemte med spillere som byr på en rekke forskjellige innfallsvinkler til samlingene. 
+I T.sonic derimot, er det helt vanlig filbehandling som gjelder, og enten du velger Music, Photo eller Video kommer du ofte til rotnivå i mappehierarkiet. 
+Her må du med andre ord tenke gjennom filstrukturen på forhånd og lage deg et system som er lett å navigere i. 
+Enkelte synes det er det beste, men for ukyndige kan dette være kronglete. 
+
+Dette er faktisk et av de store ankepunktene mot denne spilleren, det burde definitivt vært mulig å sortere musikksamlingen basert på ID3-tagger i tillegg til mappe/filnavigering. 
+
+Våre opplevelser 
+
+Lydopptak i beste kvalitet er 128 Kpbs WAV-format. 
+Helt greit til tale, og til FM-bruk er det også bra nok for de fleste formål. 
+
+Ørepluggene er imidlertid litt i enkleste laget synes vi. 
+De er av helstøpt plast, veier nesten ingenting og låter deretter. 
+Med litt justering her og der på equalizeren kan du naturligvis forbedre lyden noe, men vi anbefaler absolutt å investere i nye plugger/klokker dersom lyden er viktig for deg. 
+
+Bilde- og videokvaliteten avhenger naturligvis av skjermen, og på førstnevnte får T.sonic godkjent karakter 
+ selv om skjermen godt kunne vært både større og hatt høyere oppløsning. 
+Skjermen byr på god fargegjengivelse, kontrast og innsyn fra sidene (men ikke ovenfra). 
+
+Problemet er imidlertid at store bildefiler tegnes svært langsomt, så skal du bruke denne spilleren til å vise bildene du har tatt med ditt nye kamera, kommer du ikke unna å krympe bildene kraftig først (helst til under én megapiksel), for eksempel ved hjelp av Photofiltre. 
+
+Svak på video 
+
+Videofilene må først konverteres til et proprietært format ved hjelp av medfølgende programvare før de overføres til spilleren. 
+
+Vi konverterte en 84-minutters film og ble først svært imponert over hastigheten 
+ vel og merke til 50% var unnagjort. 
+Det var gjort på ca 1 minutt. 
+Deretter gikk det som i sirup i forhold, men 20 minutter totalt er ikke så verst likevel, sammenlignet med mange andre konverteringsprogrammer vi har prøvd. 
+PCen som gjorde jobben er en AMD X2 3800+ med 2 GB RAM. 
+
+Kompresjonsraten er imedlertid alt for lav, 442 MB for halvannen time i 176 x 220 piksler, uten mulighet for å justere kompresjonen, er dårlig. 
+Når vi legger til at kompresjonsforstyrrelser som blokking og hakking (dette kan ikke være mer enn 12-15 bilder pr sekund), blir vi ikke imponert. 
+
+Det følger forresten med et annet program, T.sonic utility, som blant annet lar deg sette av et visst minneområde på spilleren til private data. 
+Innholdet kan her passordbeskyttes. 
+Smart for alle som tenker å bruke spilleren som kombinert multimediedings og minneplugg. 
+
+Treg overføring 
+
+Overføring av filer til enheten skjer via vanlig dra&slipp; i Utforsker. 
+I Mac og Linux kan du bruke tilsvarende metode. 
+Overføringshastigheten er imidlertid et ankepunkt, vi målte rundt halvannen MB pr sekund på MP3-filer (4-5 MB pr fil) og rundt to MB pr sekund på større filmfiler. 
+Det er nesten USB 1.1-hastighet det. 
+Ha det i mente hvis du ønsker å fylle spilleren fra null til full. 
+Det vil nemlig ta tid. 
+
+Radiodelen fungerer helt greit, det er ikke blant de sterkeste vi har prøvd, men heller ikke blant de svakeste. 
+Vi opplevde imidlertid at spilleren låste seg totalt ved to anledninger under søk, og det er ikke bra. 
+Vi var da nødt å bruke en kulepenn for å trykke inn 
+reset-knappen på siden for å låse den opp igjen. 
+
+Konklusjon 
+
+Dette er en billig spiller. 
+Den har derimot ikke så mange av svakhetene som vi ofte ser på de billigste spillerne, som dårlig batterilevetid, elendig skjerm og byggekvalitet. 
+På alle disse punktene får nemlig t.sonic 84 absolutt godkjent karakter. 
+Stemme- og radioopptak gjøres svært enkelt, og vil være de positive egenskapene vi vil huske best. 
+
+Betjeningsmessig har den litt å gå på i forhold til de beste (med unntak av opptaksknappen), og lyden i de medfølgende øretelefonene imponerer ikke. 
+Når vi legger til middelmådig videokvalitet, ulidelig treg opptegning av store bildefiler, ingen ID3-navigering i MP3-samling og at filoverføringen er temmelig treg, blir dette ikke mer et gjennomsnittsprodukt. 
+Men billig er den! 
+
+Vi vipper mellom en sterk treer og en svak firer på terningen, og ender til slutt på førstnevnte. 
+
+Takk til Multicom for utlån av spilleren! 

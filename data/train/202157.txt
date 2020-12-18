@@ -1,0 +1,57 @@
+Velociraptor - drapsdisken
+Den tar rotta på alle andre, men hvor lenge er den gangbar? 
+
+Harddisker er på vei mot historiens skraphaug, der finner vi allerede kassetter, disketter, båndstasjoner og brennbare optiske plater. 
+Noen ligger allerede langt nede i haugen, andre har så vidt begynt å finne plass i utkanten. 
+Men det er bare spørsmål om tid. 
+
+Det som kommer til å overta er flashdisker - SSD. 
+Priser og kapasitet har allerede falt betraktelig og vi nærmer oss smertegrensen selv for vanlige forbrukere. 
+
+Mellom framtid og nåtid befinner seg som kjent mellomtiden, og det er der vi stort sett befinner oss. 
+Så hva skal vi bruke til rask datalagring i mellomtiden? 
+
+Hva er flaskehalsen? 
+
+I dag er det ikke mye av det gjennomsnittsbrukeren gjør som krever spesielt høy ytelse av harddisken. 
+Det er først og fremst selve systemet som trenger rask tilgang ved skriving og lesing av vekslefilen. 
+Ellers er det ved indeksering at disken får kjørt seg. 
+
+En bruker trenger diskytelse når det skal kopieres mange og store filer. 
+Da snakker vi om bilder, spesielt i RAW-format, video og musikk. 
+Annen hverdagslig filkopiering tar uansett så kort tid at det egentlig ikke er noe tema. 
+
+Selv ved videoredigering er det ikke hastigheten på disken som gjør at det tar lang tid, det er prosesseringen av videodataene som er flaskehalsen her. 
+
+Lydopptak og avspilling på mange samtidige spor på hver sin fil krever litt mer av harddisken. 
+Men på en moderne disk er det fint kapasitet til over hundre samtidige lydspor. 
+Jobber du med flere spor enn dette er du enten fryktelig amatør eller svært proff. 
+Uansett havner du utenfor allfarvei og trenger spesialløsninger. 
+
+VelociRaptor - hva presterer den? 
+
+Western Digital er alene om å tilby noe raskere enn standarddisker som roterer med 7200 RPM. 
+Raptor-serien har hele tiden kjørt med 10 000 omdreininger, men tettheten på platene har utviklet seg veldig, i likhet med alle andre disker. 
+Hastigheten blir dermed langt høyere. 
+Det samme har det mekaniske, dagens VelociRaptor er svært stillegående, vibrerer minimalt og blir knapt håndvarm. 
+
+VelociRaptor ble lansert i april 2008 så det er ikke noen fersking vi har med å gjøre. 
+Om det var noen barnesykdommer - vi har ikke hørt om noen - så er det stadiet passert nå. 
+
+Disken er egentlig en 2,5-tommer, men den er montert i en kjøleribbe/cassis tilpasset 3,5-tommers standardformat. 
+Den lille diameteren gjør at aksesstiden blir kortere, denne løsningen er også i bruk i store lagringssystemer med andre enda raskere disktyper. 
+
+Kapasiteten er 300 GB etter produsentmål, eller 279 GB ferdig NTFS-formatert i Windows. 
+
+Tilkoblingen er SATA 3.0 
+
+Testingen viste at den er overlegent raskest av alle harddisker vi noen gang har testet. 
+For sammenligningens skyld har vi tatt med alle forgjengerne i grafen, det er en interessant utvikling hvor det siste spranget er det største. 
+
+I HD Tach ser vi en gjennomsnitts skrive/leseytelse for hele kapasiteten på rundt 104 MB/sek, det er ingen grunn til å klage over det. 
+
+Konklusjon 
+
+VelociRaptor er lynrask til harddisk å være, selv om den nok blir slått av de raskeste SSD-enhetene på lesing og aksess. 
+På skriving er VelociRaptor fremdeles konkurransedyktig. 
+Også er den fremdeles langt billigere. 

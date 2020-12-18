@@ -1,0 +1,106 @@
+TEST:Qnap SS-439 nettverksdisk (NAS) 
+
+Enda en flott kandidat til de med i overkant store lagringsbehov. 
+
+Det er fristende å diskutere årsaken til at fenomenet med nettverksdisker har vokst seg stort og mektig de siste par åra. 
+Har folk faktisk begynt å konvertere de gamle CDene og DVDene sine til digitalt filformat? 
+
+Eller har mengden med usett film og uhørt musikk som Pirate Bay og deres slektninger har lempet over på millioner av harddisker nå blitt så stor at det tyter ut nullere og enere som jo må lagres et eller annet sted? 
+
+Snasent med NAS 
+
+SS-439 fra Qnap føyer seg inn i rekken av nettverksdisker, såkalt NAS, med utvidet funksjonalitet som både kan bidra til å avlaste den interne harddisken i laptopen eller den stasjonære PCen (eller Macen). 
+Den tilbyr dessuten en del tilleggstjenester som gjør det enklere å bruke både filmene, bildene og musikken du måtte ha liggende. 
+
+Den er dessuten et utmerket hjelpemiddel til sikkerhetskopiering, og med plass til hele fire harddisker kan den også skilte med de aller fleste RAID-variantene. 
+Hvis du tvinger oss til å liste opp alle alternativene vil svaret være "RAID 0/ 1/ 5/ 6/ 5, hot spare, single, JBOD, Online RAID Capacity Expansion, og Online RAID Level Migration". 
+
+Praktisk og upraktisk med små disker 
+
+Denne nettverksdisken skiller seg ut på ett viktig punkt: 
+Den benytter 2.5" disker, det vil si en mindre type harddisker enn 3.5-tommers diskene som blant annet står i stasjonære datamaskiner og i flere typer vanlige, eksterne harddisker. 
+2.5-tommers disker finner du vanligvis i bærbare PCer og Macer, og de har flere svakheter sammenliknet 3.5-tommerne: 
+De største diskene er bare 1TB, sammenliknet med 2TB for 3.5", de er i hovedsak betraktelig dyrere per megabyte enn 3.5-tommers disker, og de leveres ikke i store størrelser med større rotasjonshastighet enn 7200RPM (3.5" er relativt enkle å få tak i i hastighet på opptil 10.000RPM). 
+
+Fordelene er likevel vesentlige for de som er opptatt av areal og strømforbruk: 
+De tar liten plass, og de bruker lite strøm. 
+
+Derfor tar ikke SS-439 spesielt stor plass, til tross for at den altså kan romme fire 2.5" harddisker (merk at det ikke følger med noen harddisker på kjøpet, disse må kjøpes utenom). 
+Strømgjerrig er den også. 
+Qnap hevder NASen kun forbruker 15W når den står i standby, og usle 18W med fire disker installert. 
+
+Oppkobling og tilkobling 
+
+SS-439 kobles rett i ruteren din ved hjelp av en Ethernet-kabel, og gir Gigabit-hastighet så lenge ruteren (og PCen) støtter denne standarden. 
+Boksen har også tilkoblingsmuligheter for USB (to porter) og eSata (to porter), i tillegg til de to Gigabit-punktene. 
+
+Vi har tidligere testet en enklere NAS-disk fra Qnap, TS-119, som bare har plass til én intern, 3.5" disk. 
+Den var vi veldig godt fornøyd med. 
+SS-439 tilbyr alle funksjoene fra TS-119, men har i tillegg den allerede nevnte RAID-funksjonaliteten, raskere prosessor (1.6GHz Intel Atom mot en 1.2GHz Marvel-prosessor i TS-119), og dobbelt så mye flash- og internminne (henholdsvis 128MB mot 16MB, og 1GB mot 512MB i TS-119). 
+
+Det gjør SS-439 til en aldri så liten kraftpakke. 
+
+Legg til 256 bits AES datakryptering av hele diskvolum, så kan selv de paranoide føle seg trygge på at dataintegriteten er godt ivaretatt. 
+Et passord beskytter harddisken, og ingen som ikke kjenner passordet får tilgang til innholdet. 
+
+Vifte - men støysvak likevel 
+
+Monteringen av interndiskene er lekende lett. 
+De små lukene fjernes først fra chassiset, før du skrur fast 2.5"-disken på metallplata med fire skruer. 
+Sett deretter inn luka igjen, kjør installasjonsprogrammet, og du er oppe og går i løpet av kort tid. 
+
+Til forskjell fra TS-119 har SS-439 en vifte på baksiden, men den er heldigvis særdeles beskjeden når NASen er aktiv. 
+Vi har hatt SS-439 stående i en skjenk, og det skal godt gjøres å høre susingen 
+
+Brukergrensesnittet på Qnap gikk gjennom en aldri så liten forvandling med versjon 3.0 (SS-439 har kommet til versjon 3.2), og er stort sett akkurat så brukervennlig som en hobbybruker kan forvente seg. 
+Det finnes et utall valgmuligheter, og du kan konfigurere de fleste funksjoner ned til den minste detalj - men du må skru på alle tilgjengelige parametre for å utnytte SS-439s muligheter. 
+
+All funksjonaliteten du finner i TS-119 finnes altså i SS-439, og vi skal ikke gjenta det vi skrev i TS-119-testen. 
+Det kan du selv lese her. 
+
+Vi kan derimot se på noen av forskjellene. 
+
+Her blir det liv RAI(D) RAI(D) 
+
+Den kanskje viktigste for avanserte brukere er RAID. 
+For de som ikke kjenner disse fire bokstavene fra før, er dette en sofistikert måte å få flere harddisker til å opptre som en enhet. 
+Dette kan blant annet utnyttes i form av økt overføringshastighet og/eller økt datasikkerhet. 
+Det gir deg for eksempel muligheten til å automatisk duplisere filer i samme øyeblikk som de lagres på én av diskene, slik at du til enhver tid har minst ett ekstra eksemplar tilgjengelig hvis én av diskene skulle feile. 
+
+Samtidig kan slik speiling bidra til økt lesehastighet av filer, ettersom enheten kan lese én fil fra flere steder samtidig. 
+
+Ulempen er naturligvis at slik speiling gjør at selv om du har installert fire harddisker som tilsammen gir 4TB, vil den totale kapasiteten bli langt mindre, avhengig av hvilket RAID-oppsett du har valgt. 
+
+Eksempelvis så gir RAID 0, som er én av RAID-teknikkene SS-439 støtter, muligheten for å "stripe" disken, slik at alle data distribueres på flere disker for økt overføringshastighet. 
+Krasjer derimot én av diskene, mister du alle data, ettersom det ikke finnes noen sikkerhetsmekanismer i bunn. 
+
+Brukervennlig 
+
+RAID 1 speiler alt innhold som lagres på NASen, slik at du kan være sikker på å ha to kopier av alt du lagrer. 
+Harddisker krasjer med større regelmessighet enn mange tror, så verdifulle familiealbum og CD-samlinger kan ha godt av en runde med RAID. 
+
+Konfigureringen av RAID er ikke noen heksekunst, og Qnap har laget et enkelt, solid rammeverk for de ikke-innvidde. 
+
+Ved hjelp av såkalt "Online RAID Capacity Expansion" (det er ikke vi som finner opp disse begrepene) er det også ganske enkelt å oppgradere kapasiteteten på SS-439 ved hjelp av nye harddisker, selv når du allerede har fylt opp et annet sett med disker med innhold. 
+Det betyr at du mer eller mindre sømløst kan flytte det gamle innholdet over på de nye diskene uten å miste verken data eller hodet. 
+Det siste er som kjent en vanlig foreteelse i situasjoner som involverer datamigrering. 
+
+Liten og rask 
+
+Hastigheten på SS-439 er bra, til tross for at 2.5"-disken vi har brukt i testeksemplaret ikke ville vunnet så mange Formel 1-løp. 
+Det tok to minutter og 13 sekunder å overføre en 4.7GB stor fil til NASen, mens samme fil brukte ett minutt og 57 sekunder fra SS-439 til en MacBook Pro via kablet Gigabit-nettverk. 
+
+Det gir en gjennomsnittshastighet på cirka 36MB per sekund ved skriving til disken, og over 40MB per sekund ved lesing. 
+Til sammenlikning tok det 13 sekunder mer å overføre samme fil til TS-119, mens den brukte 20 sekunder mer fra TS-119 og tilbake til Macen. 
+
+Det kan skyldes at TS-119 har tregere prosessor og mindre RAM, i tillegg til at den interne disken var halvfull da vi målte hastigheten. 
+
+Konklusjon 
+
+I utgangspunktet er SS-439 laget for små bedrifter og hjemmefirma som har behov for en robust, kompakt og fleksibel lagringsløsning. 
+Det betyr ikke at privatpersoner ikke kan ha bruk for den, tvertimot, men med en prislapp på rundt 5000 kroner uten harddisk(er) vil nok mange tenke at en enkel, brukt, stasjonær PC kan gjøre samme nytten hvis den bare konfigureres riktig. 
+
+Det er selvfølgelig et godt poeng. 
+PCer tar uansett større plass, og hvis de er gamle nok støyer viftene mer enn en barnehage på tur med t-banen. 
+
+Har du derimot lite plass og behov for noe som støyer minimalt, er også denne Qnap-løsningen verdt å ta en kikk på. 

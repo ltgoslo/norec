@@ -1,0 +1,74 @@
+30"Dell 3007WFP 
+
+Vi har ventet lenge på et testeksemplar av denne skjermen, omsider dukket den opp. 
+Ble vi begeistret? 
+Vi ble i hvert fall overveldet... 
+
+Vi har lenge jobbet på to skjermer, av forskjellig type og størrelse gjennom tidene. 
+I det siste har vi avansert fra 20-tommer i bredformat sammen med 17-tommer i 5:4 opp til 24-tommer og 20-tommer i bredformat. 
+
+LES OGSÅ: 
+
+Men da vi hadde koblet til 30-tommeren og fikk Windows opp i 2560 x 1600 oppløsning på denne gigantiske Dell-skjermen ble det hakaslepp. 
+
+Kolleger ble tilkalt og responsene varierte fra fnising til langtende stønn... 
+
+Den er nesten latterlig stor i forhold til andre skjermer. 
+
+Hva skal man med 30-tommers PC-skjerm? 
+
+For de som ikke har full oversikt over dette med LCD-skjermer: 
+Denne skjermen er ikke bare stor, den har også høy oppløsning. 
+Derfor sitter man på samme avstand som når man bruker en vanlig, mindre skjerm. 
+Det er noe helt annet enn å koble PCen til LCD-TVen, som har en langt mer beskjeden oppløsning, typisk på 1368x768. 
+Det er bare litt over en fjerdedel av det denne skjermen presenterer... 
+
+Saksbehandlere og surfere trenger ikke en slik skjerm. 
+Men de som jobber med prosjekter med store mengder tall, figurer og diagrammer vil bli svært begeistret. 
+Store regnark, programutvikling, DAK/DAP, videoredigering, musikkproduksjon, grafisk design osv. klarer fint å utnytte denne arbeidsflaten. 
+
+Også de som har mange forskjellige programmer kjørende samtidig får en helt annen oversikt enn ved å maksimere/minimere programvinduer. 
+
+Bildebehandlig blir også noe helt annet på en slik skjerm. 
+Den er på 4 megapiksler, så mange bilder kan vises i sin helhet uten skalering. 
+
+Tilkobling 
+
+I motsetning til de andre bredskjermene fra Dell har denne bare en eneste tilkobling - DVI. 
+Det er dessuten ikke en vanlig DVI-kontakt, den krever at skjermkortet den kobles til støtter Dual-link. 
+
+Dual-link innebærer at det sendes to parallelle DVI-signaler i kabelen for å håndtere den høye oppløsningen. 
+Vanlig DVI støtter ikke mer enn 1920 x 1200, som er oppløsningen på 23 og 24-tommers skjermer. 
+
+Dual-link DVI finner man på kraftige skjermkort til grafiske arbeidsstasjoner, vår testskjerm ble levert med et nVidia Quadro FX til over 10 000 kroner, men du får også langt rimeligere løsninger. 
+Flere produsenter støtter Dual-link også på rimelige kort med grafikkløsninger fra ATI eller nVidia, til priser litt over tusenlappen. 
+Disse støtter derimot ikke 2 slike skjermer... 
+
+I tillegg har skjermen integrert kortleser med støtte for 9 forskjellige korttyper/formater og 4 USB-porter. 
+Alle henger på 1 USB-kabel til PCen. 
+
+Justeringsmuligheter 
+
+Skjermen har samme type fot som på andre Dell-skjermer, og kan heves og senkes samt dreies rundt. 
+Den kan ikke dreies til vertikal posisjon. 
+
+Bildekvalitet 
+
+Skjermen har en bildekvalitet som på mange områder står i stil med det gedigne formatet. 
+Vi fant ingen svakheter i bakgrunnsbelysning, ingen problemer med forløpninger (banding) eller andre uhumskheter. 
+
+Betraktningsvinkelen er like god som på Dells 20 og 24-tommere, som ligger i den øverste klassen. 
+
+Det eneste vi ikke ble imponert over er dynamikken i fargene. 
+Den er mer enn tilstrekkelig for de fleste bruksområder, men for den mest kritiske bildebehandling kommer den til kort. 
+
+Etterslep er oppgitt til 11 ms og er heller ikke noe problem, men vi tviler på at særlig mange spillere vil velge denne skjermen... 
+
+Konklusjon 
+
+Dell 3007WFP tilbyr en utrolig arbeidsflate, og vil være en våt drøm for kreative brukere i mange leire. 
+
+Prismessig ligger den i det øverste sjiktet, og den koster for tiden godt over dobbelt så mye som to 24-tommere fra Dell. 
+I tillegg kommer altså et potent grafikkort. 
+
+Men har du egne disponible midler eller klarer å overtale sjefen om at produktiviteten din vil øke betraktelig med en slik skjerm - så er det bare å løpe og kjøpe. 

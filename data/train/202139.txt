@@ -1,0 +1,76 @@
+Microsoft Surface Pro 2
+Nå er den musestille og byr på langt bedre batteritid. 
+
+Microsoft lanserte nylig to nye nettbrett, Surface 2 og Surface Pro 2. 
+De to avløser modellene Surface RT og Surface Pro, og begge har blitt forbedret siden første generasjon. 
+Spørsmålet er om forbedringene er store nok til å lokke flere kjøpere denne gangen. 
+
+Like men ulike 
+
+De to brettene ligner hverandre på utsiden, men på innsiden er det noen vesentlige forskjeller: 
+
+Mens Surface 2 er basert på ARM-prosessor og kjører Windows 8.1 RT, har Surface Pro 2 en Intel Core i5-4200-prosessor og kjører full Windows 8.1 Professional. 
+
+I praksis betyr dette at Surface Pro 2 er en fullverdig PC i nettbrettformat, som kan kjøre alle de klassiske Windows-programmene dine uten problemer. 
+Og siden det kan være vanskelig å styre klassiske programmer med pekefingeren, kommer Surface Pro med en smart penn til formålet. 
+Men det er helt på det rene at den beste opplevelsen på Surface Pro får du gjennom Modern UI-apper, som samtlige først og fremst er laget med tanke på berøring. 
+
+Tekniske data 
+
+La oss ta en kjapp titt på de tekniske egenskapene ved Surface 2 Pro - her sammenlignet med forrige generasjon: 
+
+Den største forskjellen er ny Intel-generasjon på prosessor, grafikk og trådløst nett (men fortsatt ikke AC-støtte, dessverre), bedre kamera, samt mulighet for to vinkler (20 og 40 grader). 
+
+Sistnevnte gir en litt mer fleksibel løsning for dem som bruker brettet sammen med tastatur. 
+
+Microsoft har to nye deksler med integrert tastatur ute nå, Touch Cover 2 og Type Cover 2. 
+Vi fikk levert førstnevnte med vårt testeksemplar, og dette tataturet har trykkfølsomme felter på hver tast, mens sistnevnte har taster som trykkes ned som på et vanlig tastatur. 
+Skriver du mye vil vi definitivt anbefale sistnevnte, eller koble til et vanlig eksternt tastatur via Bluetooth eller USB-porten. 
+
+Trenger du egentlig mer enn 64 GB? 
+
+Nytt er også en 256 og 512 GB-utgave, som riktig nok blir meget kostbare. 
+Vi testet 64 GB-utgaven, som i praksis kun har 33 GB ledig ved leveransen. 
+I utgangspunktet høres nok dette litt snaut ut for mange, men her er det et par ting å ta i betraktning: 
+
+1. 
+Microsoft gir deg 200 GB gratis nettlagring i SkyDrive i to år. 
+Måten SkyDrive er integrert i Windows 8.1 gjør dette spesielt interessant, siden du selv kan velge hvilke mapper og filer som tilsynelatende ligger lokalt, men som i praksis bare ligger i skyen. 
+Dette kan du lese mer om i denne artikkelen. 
+
+2. 
+Du kan enkelt doble lagringsplassen med et MicroSDXC-kort. 
+64 GB får du fra 369 kroner, ifølge Prisjakt.no. 
+
+Mye bedre batteritid 
+
+Ny prosessor, grafikk og trådløst nett byr først og fremst på mindre strømbruk, for vår test viser at ytelsene for øvrig er ganske så lik som på forrige generasjon: 
+
+Mindre strømbruk materialiserer seg på to måter. 
+For det første er Surface Pro 2 så godt som lydløs i alle situasjoner, der forgjengeren var langt mer hørbar under tung belastning. 
+Begge brett er utstyrt med to kjølevifter. 
+
+Men mindre strømbruk merkes også selvsagt på batteritiden: 
+
+Vi klarte altså å tyne Surface Pro 2 til 485 minutter, altså like over 8 timer, men da med så godt som ingenting kjørende. 
+Med variert, lett bruk er en brukstid mellom 6 og 7 timer realistisk, der vi målte forgjengeren til 5. 
+Det er en vesentlig forbedring, men det er et stykke opp til de langt mer strømgjerrige ARM-baserte brettene som for eksempel iPad. 
+
+Kan den erstatte PC-en? 
+
+Surface Pro 2 har en flott og responsiv berøringsskjerm, og yter godt nok til "alt" av aktuelle programmer og apper, med unntak av de mest krevende spillene. 
+At alt skjer lydløst er også med på heve inntrykket. 
+
+Den er imidlertid vesentlig tyngre og tykkere enn de mest solgte nettbrettene i 10"-klassen, og batteritiden matcher fortsatt ikke helt. 
+
+Samtidig mangler brettet den fleksibiliteten en fullverdig PC har. 
+Selv med to vinkler på støtten blir den aldri særlig komfortabel å ha i fanget, for eksempel. 
+
+Konklusjon 
+
+Surface Pro er et gjennomført produkt, som sammen med Type Cover 2 fortsatt er en av de aller beste hybridene på markedet for deg som krever både støtte for "gamle" Windows-programmer og det stadig voksende (og stadig mer relevante) app-utvalget hos Microsoft. 
+Vi lander derfor på en femmer på terningen også denne gangen, om enn fortsatt noe svak. 
+
+For alle andre brukere er faren dessverre fortsatt stor for at produktet faller mellom to stoler. 
+
+Microsoft Surface Pro 2 64GB 

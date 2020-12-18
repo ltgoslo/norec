@@ -1,0 +1,76 @@
+Lingo iRis
+Dobler batterilevetiden og gir deg både DAB- og FM-radio. 
+Særlig imponert ble vi imidlertid ikke, etter å ha testet produktet. 
+
+En av kritikkene som ble rettet mot DAB-systemet da det ble introdusert, var at det var strømkrevende, noe som kanskje må ta noe av skylden for at det ikke er flust av håndholdte DAB-radioer og mobiltelefoner med støtte for DAB i markedet. 
+Men hvis DAB-funksjonalitet kan bakes inn i et ekstrabatteri til mobiltelefonen, se - da kan det blir interessant. 
+
+Det er nettopp den norske leverandøren av telekom- og elektronikkprodukter, TT Micro har gjort med produktet Lingo iRis. 
+Dette skal ifølge selskapet være den eneste batteripakken på markedet som også forvandler iPhone 4 til en DAB-radio. 
+
+Dobler levetiden 
+
+Batteriet på 1500 mAh er integrert i produktet, og skal ifølge TT Micro praktisk talt doble batterilevetiden på telefonen. 
+Du skyver ganske enkelt iPhone 4 inn i produktet, og knepper lokket på plass. 
+
+Deretter får du beskjed om at du må installere en tilhørende app fra App Store, DAB GO!, som sørger for at du kan ta i bruk funksjonaliteten. 
+
+Denne app-en sørger også for at det interne batteriet i iPhonen automatisk lades opp igjen takket være batteriet i Lingo iRis når nivået kryper ned mot 20%. 
+
+Mange funksjoner 
+
+App-en inneholder grensesnitt for å håndtere DAB, DAB+ og FM-radio, men gir også ekstrafunksjoner som MP3-spiller, YouTube-avspiller og nettradio (Shoutcast). 
+Alle disse tre funksjonene er imidlertid allerede standard på iPhone, men her er dette samlet i én og samme meny. 
+
+Her ser du bilder fra menyer og funksjoner: 
+
+Antenne er imidlertid ikke innebygd, her benyttes hodetelefonledningen, som for anledningen må kobles til en 3,5" minijack-kontakt i bunnen og ikke i toppen av telefonen. 
+Både telefon og Lingo iRis lades gjennom en USB-kabel med micro-USB-kontakt mot produktet, så lenge det er koblet på telefonen. 
+
+I bruk 
+
+Vekten er 64 gram, og gjør at iPhone nesten dobles i tykkelse til 1,7 cm. 
+Dette merker du godt både i lomma og når du holder telefonen. 
+
+Selv om vi har sett løsninger som har vært langt dårliger designet, er det ikke mye igjen av den opprinnelige iPhone-elegansen. 
+
+Da vi først testet Lingo iRis satt vi i et kontorlokale i Oslo sentrum. 
+Vi skannet gjennom DAB-nettet, og iRis fant alle aktuelle uten problemer. 
+Ved avspilling viste det seg imidlertid at det både hakket og stotret. 
+Langt bedre gikk det med FM-mottakeren. 
+
+Deretter bevegde vi oss ut på gateplan, og nå var mottaket langt bedre. 
+Det forsvant imidlertid i ett sett inne på Oslo Sentralstasjon. 
+Det samme skjedde så snart vi var gått ombord i toget. 
+Det er ingen tvil om at Lingo iRis burde hatt en kraftigere DAB-mottaker. 
+
+Men ankepunktene våre stopper ikke der. 
+For det første går det ikke an å ha programmet kjørende i bakgrunnen mens du gjør andre ting på telefonen. 
+Du kan heller ikke justere volumet med knappene på siden av telefonen, du må bruke skjermen. 
+Og befinner du deg andre steder enn i hovedskjermen, har du ingen mulighet til å justere den. 
+
+Og hva skjer om du får inn en telefon? 
+Joda, du hører ringelyden i hodetelefonene, musikken toner ned, men deretter blir det stille. 
+Lyden rutes til den interne høyttaleren i telefonen, og ikke til hodetelefonene, slik de ville ha gjort med normal minijack-tilkobling. 
+
+Vi stiller også store spørsmålstegn ved flere av de øvrige funksjonene i DAB GO!-app-en. 
+Du har en MP3-spiller, men denne kan kun spille en liste med sanger som du plukker fra biblioteket på telefonen, og har ingen sorteringsmuligheter eller andre innfallsvinkler. 
+
+Og hvorfor krever Shoutcast-nettradiotilgang at du er tilkoblet WLAN, mens langt mer båndbreddekrevende YouTube-videoer kan kjøres med største selvfølgelighet? 
+
+Konklusjon 
+
+Hvis det er lenge mellom hver gang du befinner deg i nærheten av en strømkilde kan dette produktet komme til nytte. 
+Den delen av funksjonaliteten er OK. 
+Noen anbefaling fra oss får det imidlertid ikke, til det er listen over ankepunkter for lang og vond. 
+Prislappen på nesten 900 kroner er også etter vår mening for høy. 
+
+Takk til norsk distributør TT Micro for utlån av produktet. 
+
+Tekniske spesifikasjoner: 
+Frekvensdekning: 
+FM 87.5 ~ 108 MHz og DAB 174.928 ~ 239.200 MHz Hodetelefonuttak: 
+3,5 mm (kompatibelt med 16-32 Ohm) 
+Antenne i hodetelefonene Størrelse: 12,5 x 6 x 1,6 cm Vekt: 
+69 gram Apple-app: 
+DAB GO! 

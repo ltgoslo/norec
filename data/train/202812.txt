@@ -1,0 +1,55 @@
+Plextor PX-716A
+Nå har vi fått tak i Plextors raskeste brenner, og endelig har 16x +R plater også blitt tilgjengelig. 
+Vi har testet. 
+
+PX-716A er ikke bare den raskeste DVD-brenneren fra Plextor, den støtter også brenning av DualLayer. 
+Den interne modellen leveres i bulk-utgave eller i retail-versjon med både sort og grå utskiftbar plastfront. 
+
+LES OGSÅ: 
+
+Foreløpig er den interne utgaven bare tilgjengelig med parallell ATA, men S-ATA vil komme senere. 
+Forgjengeren PX-712A er også etter hvert blitt tilgjengelig i S-ATA utgave. 
+
+Den eksterne modellen er utstyrt med både USB og FireWire. 
+
+Retail-utgavene av brenneren leveres med Nero 6, PlexTools Professional som etter hvert har blitt svært omfattende, InCD, Pinnacle Studio 9 SE og PowerDVD. 
+Spesielt PlexTools åpner for kontroll av en rekke innstillinger som gir fleksibilitet og avanserte muligheter: 
+
+GigaRec (overbrenning), SecuRec (platen blir passordbeskyttet), PowerRec II for optimal tilpasning til mediet, med lavest mulig feil, VariRec for finjustering av brennemønsteret (!), Q-Check for sjekking av kvaliteten på brenning, og SilentMode, hvor du kan justere hastigheter på lesing, skriving og åpning/lukking av skuffen - for å redusere støynivået. 
+
+Ytelse 
+
+Da vi testet forgjengeren PX-712A i juni, var den på noen områder helt overlegen i forhold til de andre brennerne på markedet. 
+Både DVD+R og -R ble brent vesentlig raskere enn konkurrentene, men på DVD+RW var den helt underlegen Nec sin daværende toppmodell, 2500. 
+
+Men konkurrentene har ikke ligget på latsiden mens Plextor jobbet med denne brenneren. 
+Tallene viser at PX-716A ikke er bedre enn 712A på noen områder, bortsett fra på DVD+RW. 
+
+Målingene avviker med noen få sekunder på både DVD+R og -R, i praksis er ytelsen den samme. 
+
+Forskjellen på ytelse mellom 12x plater og 16x fra Verbatim viste seg dessuten å være ikke-eksisterende. 
+Selv om det var mulig å sette hastigheten til 16x i Nero, så viste klokka de samme tidene. 
+
+På brenning av 2 GB på DVD+RW er PX-716A imidlertid et helt minutt raskere enn PX-12A. 
+
+Men betyr dette at PX-716 er en dårlig brenner? 
+På ingen måte. 
+Det var vel heller forventningen om at Plextor igjen skulle utklasse de andre, kombinert med bedre ytelse på nye medier, som ikke var helt realistisk. 
+
+Men den er helt i toppen på DVD+R, med 3:48 på 2 GB mot vinneren BenQ 1600A sine 3:40 og på 4 GB fikk vi 5:56 på Plextor mot 5:43 på BenQ. 
+I praksis ingen merkbar forskjell. 
+
+På DVD+R DL brukte den 26:45 mot vinneren TDKs 26:18. 
+
+CD-brenning og ripping lå derimot på vanlig høyt Plextor-nivå, med 2:34 og 2:31, som er det raskeste vi har testet. 
+
+Konklusjon 
+
+Vi hadde som nevnt ventet oss at Plextor skulle danke ut både forgjengeren fra Plextor samt BenQ og Nec sine brennere. 
+Det skjedde ikke, og den håndterer ikke DVD-R like overbevisende som konkurrentene. 
+
+Prisen er også en god del høyere, faktisk dobbelt så høy som Nec sin nyeste modell 3520. 
+
+Plextor har sine fortrinn for avanserte brukere, med PlexTools programvaren som følger med. 
+
+Men har man ikke spesielle behov for å grave seg ned i brenne-kunstens finere nyanser, så finnes det rimeligere brennere som gjør jobben like bra. 

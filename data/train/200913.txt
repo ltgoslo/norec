@@ -1,0 +1,92 @@
+Asus K53Sv
+Denne robuste mellomklasse-PC-en bør definitivt vurderes for deg som ønsker deg en all-round-maskin. 
+
+Det er to ting som har gått igjen på nesten alle de bærbare Asus-modellene vi har testet: 1) De er som regel svært stillegående 2) Følelsen av god kvalitet. 
+Og på papiret ser det slett ikke ut til at mellomklassemodellen Asus K53Sv vil være noe unntak. 
+
+Denne helt ferske maskinen fra Asus er i skrivende stund ennå ikke kommet i butikkene. 
+Vi får opplyst fra Asus Nordic at det vil den gjøre i løpet av måneden, og da i flere forskjellige konfigurasjoner - men alle med siste generasjon Intel Core i-prosessor fra Intel. 
+
+Bra mye for pengene 
+
+Prisene ser ut til å starte på rundt 5.500 kroner i de butikkene som har registrert K53Sv i varelageret sitt, da med Core i5-prosessor, 4 GB minne og 500 GB harddisk. 
+Maskinen vi har hatt på testbenken er en spesialsydd utgave som selges gjennom Dustin Home, til en pris av kr 6.299 kroner. 
+Denne er oppjustert på flere punkter i forhold til basisutgaven. 
+Her er de viktigste spesifikasjonene: 
+
+15,6" blank LED-baklyst skjerm, 1366 x 768 piksler Intel Core i7 2630QM-prosessor 6 GB DDR3-minne (maks 8) 640 GB harddisk, 5400 rpm DVD-leser/brenner for alle DVD-formater Nvidia Geforce GT 540M grafikkort, 2 GB dedikert videominne Bluetooth v2.1 Trådløst nett (b/g/n) Gigabit kablet nett 3 stk USB 2.0-porter VGA og HDMI-skjermutganger Webkamera (0,3 megapiksler) 
+Minnekortleser for SD/MS-minnekort Windows 7 Home Premium 64-bits versjon Størrelse: 378 x 253 x 34,9 mm Vekt: 
+2,6 kg Pris for denne konfigurasjonen: 6.299 kroner inkl mva 
+
+For øvrig merker vi oss at det ikke er noen USB 3.0-port her, webkameraret har lav oppløsning og det er ikke støtte for Bluetooth 3.0. 
+Det kunne man kanskje forvente, med tanke på at det meste av det andre er svært oppdatert. 
+
+Robust og funksjonelt 
+
+Modellen kommer til å dukke opp i flere forskjellige farger. 
+Vår testmodell har mørk grå, svakt stripet overflate i plast, og takket være aluminium på innsiden rundt tastaturet og pekeplaten, er den godt oppstivet. 
+Overflatene er dessuten matte, og fettflekker vises nesten ikke. 
+Det kan vi like! 
+
+Tastaturet er av chicklet-typen, god avstand mellom tastene og enkelt å rengjøre. 
+Det oppfører seg eksemplarisk under skriving, og bråker svært lite. 
+Det eneste vi har å utsette på det, er at enter-tasten er litt for smal etter vår smak, noe som i starten førte til at vi noen ganger traff det numeriske tastaturet til høyre istedet. 
+Dette er uansett utvilsomt en vanesak. 
+
+Pekeplaten er sømløst integrert med omgivelsene. 
+Den er glatt og behagelig å bruke. 
+De to knappene under den er lette å trykke ned, og avgir ikke så mye klikkelyd at det blir sjenerende. 
+
+Over tastaturet sitter et par høyttalere, merket Altec Lansing. 
+Lyden er litt hul og tam, men vi har da hørt langt spinklere lyd fra andre PC-er tidligere. 
+Du kan påvirke lydbildet noe, men til alt annet enn til tale og bakgrunnslyder velger du enten hodetelefoner eller eksterne høyttalere. 
+
+Inn- og utganger er uten unntak plassert på sidene, og lett tilgjengelig, minnekortleseren sitter i front. 
+
+Asus har imidlertid valgt en litt uvanlig strømtilførsel, midt på ene siden. 
+Når pluggen i tillegg ikke har knekk, men stikker flere cm ut, synes vi dette er et merkelig valg. 
+Her er det lett å dulte borti pluggen, med de ugreie konsekvensene det kan ha - spesielt på sikt, mener vi. 
+
+Stillegående og rask 
+
+Maskinen kommer med en rekke forhåndsinstallerte programmer, hvorav flere prøveversjoner. 
+En av dem, en antivirusløsning fra Trend Micro, maser om registrering i tide og utide. 
+For øvrig synes vi Asus har gjort en god jobb i forhold til å skape et miljø som glir greit og som ikke har påvirket verken fart eller brukeropplevelsen generelt. 
+
+Vi liker godt måten maskinen veksler mellom integert, strømsparende Intel-grafikk og høyytelsesgrafikk fra Nvidia. 
+Det hele skjer sømløst og umerkbart i bakgrunnen, i motsetning til flere løsninger vi husker fra 2010 - der skjermen gikk i svart hver gang grafikken svitsjet, og noen ganger også krasjet applikasjoner. 
+
+Og "liker"-listen stopper ikke der. 
+Vi har tidligere berømmet Asus for å lage effektive kjøleløsninger som verken bråker eller gjør maskinen særlig varm, og K53Sv følger fint opp. 
+Under normale operasjoner hører du kun et svakt sus fra harddisken, og den trinnløse kjøleviften starter kun når den absolutt må. 
+Støy var slett ikke noe tema under testingen, selv ikke under de tøffeste belastningene. 
+
+Den generelle ytelsen oppleves som høy, de aller fleste oppgaver løses der og da og uten venting. 
+Det skulle da også bare mangle; firekjernet i7-prosessor fra Sandy Bridge-generasjonen byr normalt på aldeles strålende ytelse, som tidligere kun var mulig på dyre desktop-maskiner. 
+
+Windows 7 sin egen opplevelsesindeks sier følgende, skalaen strekker seg fra 1.0 til 7.9: 
+
+Passmarks PerformanceTest 7.0 går litt mer i dybden, og i diagrammene under har vi sammenlignet prosessor- og grafikkytelsen med hva du kan forvente av andre maskiner som ligger i samme prisklasse: 
+
+Som du ser ligger prosessorytelsen skyhøyt over hva som er vanlig i klassen, noe som bør veie tungt hvis du driver med tyngre oppgaver, som videoredigering, komprimering, konstruksjon og lignende. 
+
+Grafikkytelsen ligger noe under snittet for andre PC-er med samme grafikkort, ifølge Passmark, uklart av hvilken årsak. 
+GT 540M er uansett ikke noe førstevalg for innbitte gamere, men bør holde fint til de nyeste titlene hvis du går litt ned på kvalitet og detaljvinå. 
+
+Hva med batterilevetiden? 
+Vi målte den under kontinuerlig videoavspilling (HD-video 720P i Windows Media Player, og da holdt det ut i 3,5 timer før det tok kvelden. 
+Det er et respektabelt resultat for en relativt kraftig maskin. 
+Når vi senket belastningen til et minimum, hold det ut i omtrent 5,5 timer. 
+Dette er litt over snittet i forhold til andre, tilsvarende maskiner vi har testet tidligere. 
+Under normal bruk vil det normalt holde i 4,5-5 timer. 
+
+Konklusjon 
+
+Noen små negative bemerkninger har vi gitt underveis, som manglende USB3.0-støtte, litt smal enter-tast og merkelig løsning for strømtilførsel, men det endrer ikke på det faktum at vi totalt sett er meget godt fornøyd med det vi har sett av K53Sv. 
+Spesielt prosessorytelsen representerer intet mindre enn et paradigmeskifte i forhold til hva du har kunnet forvente i klassen tidligere. 
+
+Dermed gir vi en femmer på terningen, og et anbefalt-stempel til alle som er på utkikk etter en solid og god mellomklasse-maskin. 
+
+Husk også å få med deg de andre PC-ene vi har testet i det siste. 
+
+Asus K53SV-SX130V 

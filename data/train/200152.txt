@@ -1,0 +1,71 @@
+TEST:Pure Highway DAB-radio 
+
+Denne lille dingsen gir bilens FM-radio DAB-signaler. 
+
+Da vi testet denne radioen sommeren 2008 var det fortsatt ikke satt noen slukkedato for FM-nettet. 
+Nå er det imidlertid bestemt at FM-nettet avlives for godt i 2017. 
+For de aller fleste norske bilister vil dette være et stort problem, siden det fort kan bli en ekstraregning på flerfoldige tusenlapper å oppgradere den integrerte bilradioen. 
+
+En alternativ løsning er derfor å kjøpe en ekstern DAB-radio, som enten kan sende signalene videre til bilradioen via FM-båndet, eller kobles direkte til bilens innganger. 
+Denne radioen er et eksempel på dette, og vi gjengir derfor vår tidligere test slik at du kan lese om de praktiske erfaringene og utfordringene med en slik løsning. 
+
+Treg bilbransje... 
+
+For selv i 2011 selges de fleste personbiler med FM-radio som standard, og det er altså eierne av disse bilene Pure har hatt i tanken med sin Digital Highway-modell. 
+Dette er nemlig en liten DAB-mottaker som tar imot de digitale DAB-signalene, og sender dem videre til bilens FM-radio via FM-båndet. 
+
+Dermed slipper du altså å bytte ut den integrerte bilradioen du allerede har i dag, samtidig som du altså får de fordelene DAB-radioene kan gi deg. 
+
+Enkel montering 
+
+Pure Highway festes i bilvinduet, på samme måte som en hvilken som helst GPS, og får strøm via sigarettuttaket på bilen din. 
+Som du ser i bildespesialen følger det også med en antenneledning som er såpass lang at du fint kan feste den på et diskré sted i bilrutens randsone. 
+
+Har bilradioen din en line-in inngang kan du for øvrig også koble til Pure Highway via kabel, men siden de færreste biler har dette tipper vi at de fleste vil satse på FM-streamingen, og det er også denne løsningen vi har testet. 
+
+Slik fungerer den 
+
+Alt du trenger å gjøre er å slå på enheten og trykke to ganger på Quick Scan-knappen. 
+Da søker Pure-radioen gjennom FM-båndet og finner en ledig FM-frekvens som den sender signalet til. 
+Deretter er det bare å stille inn bilens FM-radio på den frekvensen, og vips: 
+Så mottar bilradioen din DAB-radio-signalene. 
+
+Har du en RDS-radio i bilen din står det i tillegg PURE i bilradio-displayet. 
+Dette er med andre ord både praktisk og brukervennlig. 
+
+I tillegg til at du da får tilgang til DAB-kanaler får du også vanlige DAB-funksjoner som liveopptak av sendingene. 
+Et trykk på spoleknappen tar deg 10 sekunder tilbake i sendingen, maksimalt fem minutter, men er uansett en praktisk funksjon om du akkurat gikk glipp av dagens spørsmål eller ikke fikk med deg fotballresultatet. 
+Displayet viser for øvrig tid og dato, kanalinformasjon, låtinformasjon eller styrke på DAB-signalet. 
+
+Såkalt FM-streaming er selvsagt ikke noe nytt. 
+Flere GPSer og mobiler har i dag denne muligheten (bla TomTom GO 930). 
+
+I praksis har imidlertid våre erfaringer med slike løsninger vært skuffende: 
+Lyden blir ofte litt grøtete og i tillegg opplever du svært ofte forstyrrelser på FM-frekvensen du velger når du setter bilen i gir og starter kjøreturen. 
+Det finnes garantert mer proffe forklaringer på dette, men kort fortalt er nok hovedproblemet at FM-senderen i produktene ikke er kraftige nok. 
+(Kan du noe om dette så del det gjerne med oss i diskusjonsgruppen nederst!) 
+
+Vi var derfor svært spent på hvordan Pure Highway ville klare seg her, og når det gjelder lydkvalitet er det bare å si at vi er imponert. 
+Lyden oppleves som klar og god, enten du nå hører på tale eller musikk. 
+På dette punktet er det altså ingenting å klage over. 
+
+Men alt er ikke like rosenrødt her heller. 
+De første dagene vi kjørte rundt med DAB-senderen i bilen ble vi nemlig av og til plaget av FM-forstyrrelser, og måtte stadig få Pure-radioen til å velge en ny frekvens. 
+
+Dette var naturlig nok irriterende, men til slutt fant vi heldigvis en frekvens på FM-båndet som fungerte bra på vår daglige kjørerute, og kunne dermed nyte turen med ren og klar DAB-lyd. 
+
+Trikset er altså å prøve seg fram her, med litt prøving og feiling vil du til slutt finne en frekvens som passer. 
+Det er for øvrig også mulig å lagre inntil fire FM-frekvenser på Pure-radioen, sånn at du kan skifte mellom dem ved et enkelt tastetrykk. 
+
+Konklusjon 
+
+Pure Highway kostet 900 kroner da vi testet den, men i dag ligger den på rundt 1300 kroner om du klarer å få tak i den. 
+Dette er uansett et billig alternativ framfor å bytte ut den integrerte bilradioen du allerede har i bilen. 
+
+I stedet for å bruke billaderen kan du putte inn batterier, og får dermed en bærbar enhet du også kan bruke i bilen eller på hytta. 
+Det er også inngang for MP3-spillere via jack-inngangen på siden, praktisk om du er på hyttetur hvor alle har med seg hver sin iPod. 
+
+Det største minuset med Pure Highway er at den skal henge i bilens frontrute via et gigantisk vindusfeste. 
+For deg som også har en GPS-enhet som skal festes på samme måte vil det altså fort se rotete ut. 
+
+Pure Digital Highway 

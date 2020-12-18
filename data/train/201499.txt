@@ -1,0 +1,99 @@
+Multicom Xishan W110E
+Potent gaming-PC i miniformat. 
+Vi har testet. 
+
+Det er ikke mange norske PC-produsenter igjen, i hvert fall ikke som bygger bærbare PC-er. 
+Multicom er en av få, om ikke den eneste i skrivende stund. 
+Og de har funnet sin nisje; gaming. 
+Selskapet bestiller halvfabrikata PC-er fra asiatiske OEM-leverandører, og setter selv inn minne, harddisk/SSD og prosessor i produksjonsanlegget sitt på Åmli. 
+
+Vi har tidligere testet flere modeller i Kunshan-serien, og gitt til dels meget gode skussmål. 
+
+Denne gangen har vi sett nærmere på en "lillebror", en liten kruttønne, som til tross for beskjedne ytre mål har en innmat som ligger høyt på ytelsesskalaen. 
+
+Modellen heter Xishan W110E, og du kan selv konfigurere prosessor, minne og harddisk/SSD i Multicoms nettbutikk. 
+PC-en vi har hatt på test-benken har følgende sentrale egenskaper: 
+
+11,6" blank skjerm, 1366 x 768 piksler Intel Core i7-3612QM prosessor (Ivy Bridge) 8 GB RAM (2 x 4 GB) 
+Nvidia GeForce GT650 2GB grafikkort 120 GB SSD HDMI- og VGA-utganger 3 USB-porter (1 x 2.0 og 2 x 3.0) Webkamera Minnekortleser for SD/MMC/MS 802.11 b/g/n trådløst nett (Intel Centrino 6230) Gigabit nettverkskort Windows 7 Home Premium 64 bit Størrelse: 287 x 207 x 12.7~37.1 mm Vekt: 1705 gram Pris vår konfigurasjon: 9350 kroner inkl mva hos Multicom. 
+
+PC-en er faktisk ikke større enn mange minibærbare (netbooks), men er relativt mye tyngre. 
+1,7 kg er kanskje ikke så tungt, men med tanke på størrelsen oppleves den som tung i hendene. 
+
+Innpakningen er i plast, og overflaten er ru - med en lett gumiert følelse. 
+Et lett skrap med neglen gir tydelig merke, og vi frykter at dette lokket blir stygt dersom maskinen flyttes mye, og for eksempel dras mye opp og ned i sekken. 
+
+Maskinen er også relativt tykk, sett i forhold til de fleste maskiner vi har testet som ikke har hatt optisk drev. 
+Og nettopp dette at optisk drev faktisk er ekstrautstyr og kan kun kobles på eksternt, vil nok være et ankepunkt for mange gamere. 
+Mye av spill-distribusjonen skjer som kjent fortsatt via plater. 
+
+Tastaturet er merkbart mindre enn på vanlige bærbare, med de utfordringene det kan medføre - spesielt for dem med litt store hender. 
+For undertegnede var det imidlertid helt greit å skrive på, men ikke noe mer. 
+Vi har opplevd mer presise og responsive tastaturer, spesielt den senere tiden. 
+
+Pekeplaten akkompagneres av to adskilte knapper for venstre- og høyreklikking, også denne med den samme ru overflaten. 
+
+Alle tilkoblingene sitter på sidene, og de to USB 3.0-portene er lett tilgjengelig på venstre side. 
+Bare kortleseren sitter i fronten. 
+
+Skjermen er blank, og oppløsningen er OK for å en så liten skjerm. 
+Høyere oppløsning ville bare skadet lesbarheten, mener vi. 
+Lysstyrken er bra, men innsyn fra sidene er langt dårligere enn på de nye ultrabookene fra Samsung og Asus, som faktisk ligger i samme prisklasse, men som har vesentlig mindre krutt innabords. 
+
+Slik er den i bruk 
+
+Av/på-knappen sitter øverst til høyre, og det tar nøyaktig 20 sekunder å starte maskinen når den har vært helt avskrudd. 
+Det er omtrent det vi forventer av en maskin som har SSD, velger du å konfigurere maskinen med harddisk, må du gjerne regne dobbel så lang oppstartstid. 
+
+Vi må også trekke fram at Multicom leverer maskinen fri for tredjeparts søppelvare, slik nær sagt alle konkurrentene gjør. 
+Her får du en maskin med "ren" Windows 7, klar til å skreddersys slik du ønsker det, og ikke produsenten. 
+
+Maskinen veksler mellom intern Intel HD 4000-grafikk og det dedikerte Nvidia-grafikkortet, og det skjer umerkbart i bakgrunnen. 
+Kun når det er påkrevd, for eksempel til krevende spill, tar Nvidia-grafikken over. 
+Da starter også viftene raskt å gå, men hvis du bare surfer på nettet eller gjør andre lette oppgaver, behøver du ikke merke viften i det hele tatt. 
+
+Blir varm 
+
+Det du imidlertid kommer til å merke, er at maskinen blir varm på undersiden, ja - selv med svært lav belastning er varmeutviklingen langt høyere enn hva vi er blitt vant til den siste tiden. 
+Kraftig maskinvare i en liten innpakning er naturligvis årsaken, men vi stiller likevel et lite spørsmålstegn ved om dette ikke kunne vært løst bedre. 
+
+Speccy forteller oss at temperaturen på hovedkort og prosessor ligger på over 60 grader, selv med minimal belastning. 
+Det er relativt høyt, men ikke skadelig for maskinvaren. 
+Vi kjørte en rekke stress-tester av grafikkort og prosessor, uten at det påvirket stabiliteten, og takket være intens vifteaktivitet holdt temperaturen seg hele tiden på under 75 grader. 
+
+Ytelsesmålinger 
+
+Grafikkortet er langt fra det råeste på markedet, men til skjermoppløsningen 1366 x 768 kjører den det aller meste av spill, også nyere titler, uten store problemer - men det kan hende du vil oppleve litt hakking om alle detaljer settes til maks. 
+
+Her har vi benyttet Passmark PerformanceTest 7.0 for å illustrere forskjellen i forhold til andre kort som er vanlig å finne på PC-er i denne prisklassen: 
+
+Prosessoren derimot helt i toppklasse, noe man slett ikke vil forvente i en slik liten tass. 
+Fire effektive kjerner får selv svært prosessorkrevende oppgaver unnagjort på null komma svisj. 
+
+Under har vi sammenlignet prosessoren mot den raskeste ultrabook-prosessoren, enkleste prosessor du kan få Xishan med, samt forrige generasjon sammenlignbar firekjernet i7-prosessor. 
+Som du ser har ikke Xishan noe å skamme seg over: 
+
+Det har den heller ikke når det kommer til SSD-en. 
+Med en lesehastighet på 181 MB og lesehastighet på 461 MB pr sekund, er dette blant de raskeste vi har hatt på testbenken. 
+
+Totalt sett gjør dette Xishan W110E til den desidert raskeste 11,6-tommeren vi har testet. 
+Med god margin. 
+
+For hvem? 
+
+Spørsmålet er bare om det er et marked for små spillmaskiner. 
+Den koster like mye som en meget elegant ultrabook med bedre skjermoppløsning, og hvis du velger en 15,6-tommer får du PC-er med minst like mye krutt til lavere pris. 
+Design- og materialvalg vitner heller ikke om at dette er en maskin til nesten 10 lapper. 
+
+Batteritiden er dessuten ikke noe å skrive hjem om, rundt 3 timer med kontinuerlig videoavspilling og 4 timer med minimal belastning - det er lite for en maskin som størrelsesmessig hinter om å bli tatt med på tur. 
+Med litt heftig spilling tør vi ikke tenke på hvor raskt måleren vil gå nedover. 
+
+Konklusjon 
+
+Xishan er meget rask og stillegående. 
+Det er rett og slett en kruttpakke i mini-innpakning. 
+Vi liker også svært godt at den kommer med en ren og pen Windows, uten et lass av programmer og tilpasninger du slett ikke ønsker. 
+
+100% overbevist er vi imidlertid ikke, så les plussene og minusene under før du bestemmer deg for om Xishan er noe for deg. 
+
+Takk til Multicom for utlån av PC-en. 

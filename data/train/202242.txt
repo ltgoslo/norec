@@ -1,0 +1,46 @@
+OCZ Vertex 460 240GB SSD
+OCZ har hatt litt å slite med, men er nå i full gang med nye produkter. 
+
+I slutten av 2013 kom OCZ i alvorlige finansielle problemer, men ble reddet av Toshiba som kjøpte opp selskapet. 
+Etter dette har det vært full fart med videreutvikling av produkter, hvor Toshiba sine egne komponenter og kunnskap er en viktig del av bildet. 
+
+Det første produktet som har nådd markedet er en videreutviklet modell i Vertex-serien. 
+Vi har testet 240 GB-utgaven. 
+
+Vertex 460 
+
+Vertex 460 bruker den samme kontrolleren som forgjengeren Vertex 450 som vi har testet tidligere, en Barefoot 3 M10. 
+
+Den største forskjellen er nytt flashminne, naturlig nok fra Toshiba, som er 19 nanometers MLC. 
+Men det har også skjedd noen endringer i arkitekturen som gir bedre ytelse, spesielt i bruk over tid. 
+
+Nå er også marginene økt for håndtering av minneforbruket under skriving (overprovisioning), den er økt til 12 prosent fra 9 prosent. 
+
+Samtidig har også kapasiteten gått litt ned, fra 256 GB til 240 GB oppgitt kapasitet. 
+
+SSD-en skal tåle 20 GB skriving hver dag i tre år, dette er litt lavere enn toppmodellen Vector 150 som skal tåle 50 GB skriving daglig i fem år. 
+
+Men til forbrukermarkedet er 20GB/dag absolutt tilstrekkelig, og prisen er rimeligere. 
+
+I esken 
+
+Vertex 460 leveres med festebrakett og skruer, samt registreringskode for nedlastet versjon av Acronis True Image for kloning av eksisterende systemdisk til SSD. 
+
+Hylsteret er av aluminium og har en tykkelse på 7 millimeter. 
+Det passer dermed også i de tynnere bærbare. 
+
+Ytelse 
+
+Vi kjørte våre standard ytelsestester og fikk disse resultatene: 
+
+Konklusjon 
+
+De viktigste endringene i denne modellen er ikke direkte målbare i ytelse. 
+Det viktigste er at ytelsen skal vedvare over tid og opprettholdes under normal bruk. 
+
+Det finnes enkelte SSD-enheter som har raskere skrive/leseytelse rett ut av esken, men OCZ påstår at deres kontroller gir bedre ytelse på lang sikt. 
+
+Om dette stemmer vil vi ikke finne ut av på testbenken, bare via brukernes egne rapporter etter en tids bruk. 
+Generelt har denne utviklingen kommet langt siden de første generasjonene SSD, som ganske raskt ble langt tregere og fikk høyst varierende ytelse med svært merkbare pauser under egen opprydding. 
+
+OCZ Vertex 460 SATA III 2.5" SSD 240GB 

@@ -1,0 +1,125 @@
+Asus VivoBook S200
+Rimelig PC med berøringsskjerm og Windows 8. Vi har testet. 
+
+Dagen før Windows 8-lanseringen var Asus klare med en rekke nye PC-modeller med berøringsskjermer. 
+Samtidig kom de på banen med en helt ny serie rimelige maskiner, kalt VivoBook. 
+
+Den minste modellen i serien, Asus VivoBook S200, ser imidlertid slett ikke ut som noen billig-PC. 
+Spesifikasjonsmessig har den heller ikke noe å skamme seg over, prisen tatt i betraktning. 
+
+Vi har hatt modellen på test den siste uken, og her forteller vi deg hvilke inntrykk vi sitter igjen med. 
+
+Under 4.000 kroner 
+
+Likhetstrekkene til Ultrabooks er mange, men prisen er vesentlig lavere. 
+Den starter nemlig på beskjedne 3.999 kroner veiledende, mens vår testmodell har noe kraftigere prosessor og koster noen hundrelapper mer. 
+
+Her er de viktigste egenskapene i listeform: 
+
+Skjerm: 
+11,6 tommer LED-baklyst, blank berøringsskjerm 1366x768 piksler Prosessor: 
+Intel Core i3 3217U RAM: 
+4 GB (ikke oppgraderbart) Grafikkort: 
+Intel HD 4000 Lagring: 320 GB harddisk, 5400 rpm Optisk drev: 
+Nei Skjermutganger: 
+HDMI og VGA USB-porter: 1 x USB 3.0 og 2 x USB 2.0 Webkamera: 
+Ja Kortleser: 
+MMC og SD Trådløst nett: b/g/n Kablet nett: 10/100 Mbit Annet: 
+Bluetooth 4.0 OS: Windows 8 64-bit Størrelse: 303 × 21,7 × 200 mm Vekt: 1,38 kg Pris: 
+Ca 4.400,- (per 14.11.2012) 
+
+Utstyrsmessig er den relativt enkel, men likevel er dette meget bra spesifikasjoner med tanke på prisen. 
+Husk også at den kun er 1,7 millimeter tykkere enn kravet Intel har satt til å passe i Ultrabook-segmentet: 
+
+Harddisken har imidlertid ingen SSD-del, så ytelsen vil naturlig nok være noe lavere enn på en Ultrabook. 
+
+Tillitsvekkende 
+
+Lokket er av metall, det samme gjelder dekselet rundt tastaturet. 
+Resten av PC-en er av plast, men det er ingen tvil om at PC-en har en innpakning som gir et tillitsvekkende inntrykk. 
+
+Alle tilkoblingspunktene sitter på venstre og høyre side: 
+
+Strøminntaket sitter lengst bak til venstre, og strømpluggen har en fornuftig 90-graders knekk: 
+
+Strømforsyningen veier nesten ikke noe, og sitter på selve stikkontakten. 
+Dermed er den også lett å ta med seg i PC-vesken når du er på tur, og dette er noe vi også er vant med fra Asus sine Ultrabooks og ikke minst fra rollemodell Apple MacBook Air: 
+
+Tastaturet er av chicklet-typen, fast og relativt støysvakt. 
+Det fungerer absolutt fint. 
+Merk imidlertid at tastene er litt mindre enn på større modeller, og at det mangler det behagelige baklyset som dyrere modeller fra Asus kan skilte med. 
+
+Pekeplaten har integrerte felt for venstre- og høyreklikk, og fungerer tilfredsstillende - dog med litt høy klikkelyd, synes vi. 
+
+I leddet mellom skjermen og tastaturet sitter et par høyttalere. 
+Og selv om lyden ikke er i wow-klassen, gir vi absolutt godkjent karakter. 
+Her er det faktisk noe som minner om bass, og det er ikke hverdagslig på så tynne maskiner. 
+
+Skjermen er blank, slik alle berøringsskjermer er. 
+Det gir en del gjenskinn, men ikke mer enn fra konkurrerende PC-er og nettbrett. 
+Innsynsvinkelen er ikke optimal, og kontrasten avtar raskt fra sidene. 
+Det er imidlertid ikke uventet fra en såpass rimelig modell. 
+Men misforstå oss rett - den fungerer absolutt fint. 
+
+Det gjør den også ved berøring, og reagerer kjapt og som forventet. 
+Metro-grensesnittet i Windows 8 krever lite maskinkraft, og her er alle bevegelser glidende, uten hakking og andre irriterende krydderier. 
+
+Ytelser og brukeropplevelse 
+
+Og da har vi allerede beveget oss over på neste punkt, og det er hvordan maskinen oppfører seg i praksis. 
+For å ta det mest grunnleggende først; maskinen bruker knappe 15 sekunder på å starte, fra helt avskrudd modus. 
+Det er imponerende raskt, og vitner om at maskinen er godt konfigurert. 
+Det sier også litt om hvilke forbedringer Microsoft har gjort akkurat på dette punktet i Windows 8. 
+
+Vi merker oss at maskinen har en kjølevifte som går konstant. 
+Denne avgir såpass mye lyd at dette ikke er en PC vi ville brukt på soverommet hvis andre i rommet prøver å sove. 
+Rotasjonen kan også øke under belastning, noe som kan føre til ubehag for oss fintfølende. 
+
+Windows egen «Opplevelsesindeks» gir oss følgende indikasjoner på ytelsen, og her går skalaen fra 1.0 (tregest) til 9.9 (raskest): 
+
+Prosessor: 6,3 Minne: 5,9 Grafikk: 
+4,4 Spillgrafikk: 
+6,1 Primær harddisk: 
+5,5 
+
+Passmark PerformanceTest 8.0 gir oss litt mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsen med noen av de mest interessante ultrabookene og «ultrathins» vi har testet i det siste: 
+
+Prosessor: 
+
+Som ventet ligger ytelsen på Core i3-prosessoren et stykke bak Core i5 og Core i7 som sitter i mange ultrabooks, men som du ser er ytelsen bedre enn i AMD-prosessoren i HP Sleekbook. 
+Til kontoroppgaver, internett, musikk og video er det imidlertid mer enn tilfredsstillende ytelse.. 
+
+Grafikk: 
+
+En god del svakere ytelse her enn på vanlige Ultrabooks, men det holder fint til alt av 2D-oppgaver, inkluder HD-video i aktuelle filformater, bildebehandling og animasjoner. 
+
+Harddisk/SSD: 
+
+Ett av de største ankepunktene er diskytelsen. 
+Den er temmelig svak. 
+Naturlig nok milevis bak rene SSD-er, men også 20-30% tregere enn mange harddisker i samme segment. 
+
+Ytelsesmessig er det altså langt fra noe monster, men det hadde vi heller ikke forventet til prisen. 
+Den duger nemlig helt fint til lettere oppgaver - som de fleste av oss tross alt bedriver mesteparten av tiden. 
+
+Hva så med batteritiden? 
+Ikke så verst. 
+Med standardinnstillinger holdt det i 6 timer uten annen belastning enn å være tilkoblet nett, og litt over 3 timer med kontinuerlig videoavspilling. 
+Det skulle tilsi bortimot 5 timer med lett, variert bruk. 
+Det er absolutt godkjent for en maskin i denne prisklassen. 
+
+Konklusjon VivoBook gir en rimelig inngang til den berøringsfølsomme Windows 8-sfæren. 
+Maskinen ser ut som om den koster mye mer, og er akkurat så liten og lett at vi mer enn gjerne har den med oss overalt. 
+
+Ytelsesmessig er den langt fra noe råskinn, og noe viftestøy må du regne med. 
+Men for all del, dette er en fin maskin til en overraskende lav pris. 
+
+Asus VivoBook X202E-CT085H 
+
+Også en storebror 
+
+VovoBook S200 har også en storebror, S400. 
+Denne har en 14" berøringsskjerm, 500 GB harddisk med 24 GB SSD-del, samt mulighet for å doble RAM-en fra 4 til 8 GB. 
+
+Denne veier 400 gram mer, og måler 33,9 x 23,9 x 2,1 cm. Prisen er satt veiledende til 5.699 kroner. 
+Den er på vei til butikkene i skrivende stund. 

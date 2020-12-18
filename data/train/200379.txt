@@ -1,0 +1,103 @@
+AOC 23,6-tommers berøringsskjerm
+Støtter hele berøringsrepertoaret til Windows 8. 
+
+AOC leverer nå to IPS-skjermer som støtter hele berøringsrepertoaret til Windows 8 til en listepris såvidt under 3000. 
+
+Og da snakker vi om 10-punkts støtte, slik at alle gester og fingerkombinasjoner fungerer optimalt. 
+
+MyTouchDisplays 
+
+For at dette skal fungere må skjermoverflatene være blanke og glatte, og selve enheten må være konstruert slik at den blir praktisk og behagelig i bruk. 
+En vanlig skjerm som står omtrent rett opp plassert bak et tastatur er en svært dårlig modell for hvordan berøringsbruk skal tilrettelegges. 
+
+MyTouchDisplays-modellene i 72-serien fra AOC har i tillegg en relativt ergonomisk løsning, som vi også har sett fra andre berøringsløsninger. 
+
+Det gode segmentet 
+
+Det er to skjermer i denne serien, den ene på 21,5 tommer og den andre på 23,6 tommer. 
+Begge har IPS-paneler med 178 graders betraktningsvinkler, noe som plasserer dem i det gode segmentet av skjermer generelt. 
+
+Vi har testet 23,6-tommeren. 
+
+Tilkoblinger 
+
+Skjermen har tilkoblinger i en brønn bak på skjermen, med to HDMI-innganger og en VGA-inngang. 
+I tillegg er det to USB 2.0-tilkoblinger og analoge minijacker for lyd fra PC og ut til hodetelefoner. 
+
+På siden er det tilkobling fra USB 3.0 inn fra PC, en USB 3.0 utgang og en gul USB 2.0 kontakt som gir ladestrøm selv om PC-en ikke er slått på. 
+
+For at berøringsstyring skal fungere må skjermen kobles til PC med en kabel fra USB 3.0-kontakten. 
+Kabelen følger med. 
+Det er ingen programvare som må installeres, dette er en del av Windows 8.x og det bare virker så snart man kobler til. 
+
+I bruk 
+
+Vi har tidligere testet andre skjermer fra AOC, og flere av disse har vært ekstremt tynne. 
+Men denne er helt i andre enden av skalaen: 
+Det er definitivt en av de tykkere LCD-skjermene vi har vært borti. 
+Den er faktisk like tykk som flere alt-i-ett PC-er: 
+23 millimeter på kantene og 40 millimeter på det tykkeste. 
+Vi ville tro at det hadde vært god plass til alle PC-komponentene inne i selve kabinettet. 
+Men den gir et svært stabilt og solid inntrykk, og ligger støtt på bordet. 
+
+For det er nettopp å ligge på bordet som er nøkkelen til behagelig berøringskontroll. 
+Vi snakker ikke om å ligge helt flatt, men den kan legges fra 15 til 57 grader bakover, helt trinnløst. 
+
+Små, myke gummiføtter under skjermkanten gjør at den ligger stødig på bordet. 
+
+Vi foretrekker helt klart den flateste posisjonen, men den kunne gjerne vært enda et par hakk flatere. 
+Den viktigste grunnen til det, er takbelysningen i rommet, som hvis du er uheldig reflekteres akkurat midt på skjermen. 
+
+Generelt problem 
+
+Dette er et generelt problem med alle berøringsskjermer: 
+De er alltid blanke og reflekterer godt. 
+Fingermerker er også et velkjent problem på alle blanke flater og denne skjermen er ikke noe unntak. 
+Her er faktisk alle flater, både skjermflaten, rammen rundt og baksiden speilblanke. 
+Det er bare selve kanten rundt og foten som er matt sølvfarget. 
+
+Skjermen kan også stilles i vanlig posisjon, da er det ofte mindre problemer med refleksjoner fra lyskilder i rommet. 
+
+Skjermen kan også festes i en VESA-holder, det er fire hull rett ovenfor tilkoblingene. 
+
+Super respons 
+
+Berøringsresponsen er utmerket, men helhetsopplevelsen er avhengig av maskinen skjermen kobles til. 
+En rask maskin og kjapp grafikkløsning gir naturlig nok det beste resultatet. 
+
+Vi testet på en PC med den forrige Core i5-prosessoren med integrert grafikk, og det var helt uproblematisk. 
+Har du en enda kraftgere grafikkløsning, blir opplevelsen enda litt jevnere. 
+
+Bildekvaliteten 
+
+Selve bildekvaliteten er absolutt god, men for at den skal komme til sin rett er belysningen i rommet helt avgjørende. 
+I vårt kontormiljø med lysrørarmaturer som henger ned fra taket, er det så mye refleksjoner i skjermen uansett hvor og hvordan man sitter, at det blir problematisk. 
+
+Gjenskinnet både i skjerm og i rammen rundt blir like sterke som selve skjermbildet. 
+
+Blank overflate og kontrastbelegg var en stund det som gjaldt for PC-skjermer, men senere har man gått bort fra dette. 
+Noen produsenter har også klart å redusere gjenskinnet til tross for blank overflate. 
+
+To måter å løse problemet på 
+
+Men dagens teknikk i berøringsskjermer forutsetter blank overflate, derfor er det ikke stort å gjøre med dette annet enn å gå løs på belysningen i rommet. 
+Alternativt å rette opp skjermen, men da blir det dårligere ergonomi. 
+
+Under gunstige betingelser er skjermen ypperlig, med god lysstyrke og fargegjengivelse. 
+Responstiden er også utmerket for video og nyere spill, men vi regner ikke med at denne type skjerm havner hos den harde kjerne PC-gamere uansett. 
+
+Konklusjon 
+
+i2472Pwhut er en utmerket løsning for de som er ute etter en berøringsskjem med god bildekvalitet. 
+Den er svært enkel å ta i bruk og har de fleste praktiske egenskapene man trenger. 
+
+Med IPS-panel få du glimrende fargegjengivelse fra alle retninger. 
+Refleksjonsproblemet gjelder alle berøringsskjermer, så det er ikke noen kritikk mot akkurat dette produktet. 
+
+Vi skulle gjerne sett at skjermen også kunne legges helt flatt, slik at flere kunne bruke den fra alle kanter i spill. 
+
+Vi er heller ikke helt overbevist om at en berøringsskjerm må være så massiv, selv om den må tåle å bli tatt på. 
+
+Den er dessuten blant de rimeligste berøringsskjermene i skrivende stund, men prisnivået for berøringsskjermer kan være dobbelt så høyt som for tilsvarende skjermer uten berøring. 
+
+AOC I2472PWHUT 

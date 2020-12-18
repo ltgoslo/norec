@@ -1,0 +1,74 @@
+Medion MIM2040
+Medions billigste modell med Pentium M-prosessor og 15-tommers skjerm har mye gående for seg på papiret - spesielt når vi ser på prisen. 
+Men er MIM2040 allerede utkonkurrert av Sonoma? 
+
+MIM2040 er laget for deg som vil ha det billigst mulig uten å kompromisse for mye på ytelsen. 
+Men for å få en bærbar til like under ni tusenlapper er det likevel mange kompromisser i maskinen. 
+De er bare på andre steder. 
+
+LES OGSÅ: 
+
+Spesifikasjonsmessig ser nemlig MIM2040 ganske fin ut, og mange vil si seg fornøyd med en bærbar som veier oppimot tre kilo. 
+Det gjør den ikke akkurat ultraportabel, men likefremt er den mobil og enkel å flytte på. 
+Bortsett fra dette taler spesifikasjonene for seg selv: 
+
+Spesifikasjoner 
+
+Prosessor: 
+Intel Pentium M 
+1.5 GHz (Banias - 1 MB L2 cache) 
+Minne: 512MB DDR333 (ingen ledige plasser) Harddisk: 30GB (4200 rpm) 
+Skjerm: 15" LCD (1024 x 768) VGA-utgang med speiling Optisk: 
+DVD/CD-RW PCMCIA-spor 10/100 ethernet, Intel 802.11b/g Vekt: 
+2,8 kilo 
+
+Se flere spesifikasjoner her 
+
+Som du ser er MIM2040 basert på den forrige Centrino-generasjonen, som kommer til å få problemer så snart maskiner med den nye plafformen dukker opp i butikkhyllene. 
+For å understreke dette poenget bruker maskinen så også Banias-prosessoren med 1 MB L2 cache, som stort sett har veket banen til fordel for Dothan (med 2 MB L2) i det siste. 
+
+Dermed er det ikke sagt at den ikke kan måle seg med andre maskiner i samme klasse, og vi vet at Pentium M yter mye mer pr MHz enn Pentium 4, og ikke minst Celeron M - som oftest er i de billigste maskinene. 
+
+Mindre av det meste 
+
+MIM2040 har også mindre harddisk enn vi har blitt vant med i det siste - 30 gigabyte kan bli litt i det minste laget for de med store largringsbehov. 
+Det er derimot verdt å tenke på at det ikke er så mange år siden dette ville vært helt enormt i en bærbar. 
+
+Skulle du slippe opp for plass, er det heller ingen DVD-brenner her. 
+Denne har blitt forkastet til fordel for en "Combo"-enhet, som leser DVD-er og brenner CD-er. 
+Også dette var store greier for to siden. 
+
+Stor skjerm med lav oppløsning 
+
+15-tommers skjerm er nærmest standard i denne klassen nå. 
+Oppløsningen er 1024 x 768 piksler, som på de fleste rimelige løsningene. 
+Det gir god lesbarhet, men er egentlig et minimum dersom du liker å jobbe med flere programvinduer samtidig. 
+
+Etter vår vurdering har skjermen ganske gode innsynsvinkler, men kontrasten og skarpheten kunne godt vært bedre. 
+Som i en hvilken som helst budsjett-bærbar, bruker også denne PCen Extreme Graphics-brikken til å drive skjermen. 
+Den duger til 2D-oppgaver, men ikke prøv å spille 3D-spill på denne! 
+
+Tastatur og batteri 
+
+Tastaturet på MIM2040 er derimot ganske flott. 
+Det kommer i full størrelse, har store, fine og akkurat passe myke knapper. 
+Den har også et par ekstra til side opp og -ned. 
+Det har enkelte tendenser til å bøye seg under trykk, men virker ellers ganske rigid og fint. 
+
+Erfaringsmessig er ikke Medion og batterilevetider akkurat verdens beste venner, og MIM2040 er ikke noe unntak. 
+Batterilevetiden var på knapt halvannen time, og det er nok her skoen vil trykke mest for de fleste - det er ikke alle auditorier som har innlagt strøm i setene. 
+Faktisk ganske få. 
+
+Biblioteker har derimot ofte det, og der vil de nok sette pris den svært støysvake maskinen. 
+Vi har hittil ikke hørt viften. 
+
+Oppsummering 
+
+Totalt sett har vi litt delte meninger om denne maskinen. 
+For det første er den veldig billig, den er kanskje den billigste bærbare med Pentium M (les: ikke Celeron M)-prosessor som finnes i Norge. 
+
+Den mangler derimot slikt som DVD-brenner og minnekortlesere, men vi mistenker at mange ikke ser på dette som alt for store mangler, i hvert fall ikke når vi snakker om en bærbar PC til 8.995 kroner. 
+
+Og joda, det er en bærbar som løser oppgavene bra. 
+På den andre siden kommer ikke en så lav pris uten en pris, så og si. 
+Først og fremst har den et batteri som knapt passerer mobilitetstesten, og både diskstørrelsen og prosessorhastigheten er lavere enn du kan få for rundt en tusenlapp til. 

@@ -1,0 +1,75 @@
+LinuxMint 11 Katya 
+
+Glem alt du har hørt om at Linux er tungvint og vanskelig. 
+Det kan knapt bli enklere enn med Linux Mint 11. 
+
+Vi har testet og omtalt en rekke Linux-distribusjoner i årenes løp her på DinSide, og enkelte av dem har falt i bedre smak enn andre. 
+Aller øverst troner Linux Mint, som nettopp ble klar i ny versjon. 
+
+Bygger videre på Ubuntu 
+
+Linux 
+Mint bygger på en annen populær distribusjon, Ubuntu, men tar det hele noen skritt videre. 
+Det betyr i praksis at alt av kodeker og tillegg til nettleseren som JAVA og Flash, allerede er på plass når operativsystemet er installert. 
+
+Vi har installert Linux 
+Mint på en rekke PC-er siden versjon 5, og i nær sagt alle tilfellene har vi kunnet bruke maskinene uten å måtte installere noe som helst av drivere og andre tillegg i etterkant. 
+
+Utrolig enkelt 
+
+Slik er det også med den ellevte utgaven av Linux Mint, som ble sluppet tidligere denne uken. 
+Vi installerte den på PC-en vi bygde sammen med dere lesere i vår. 
+Alt var på plass i løpet av 10 minutter, inkludert ferdig konfigurerte drivere til hovedkort, brikkesett, nettverk, grafikk og lyd. 
+Det eneste vi fikk beskjed om, var at det fantes offisielle drivere til vårt AMD-skjermkort, og at vi med disse på plass kunne oppleve høyere ytelse, blant annet i 3D-programmer og spill. 
+
+Den trådløse HP-skriveren ble oppdaget etter et raskt nettverkssøk, installert og klart til bruk i løpet av sekunder. 
+
+Suiten med kontorprogrammer heter nå LibreOffice, som er en videreføring av den mer kjente OpenOffice.org-løsningen fra Sun. 
+Denne var også på plass. 
+Det samme var PDF-leser og Bittorrent-klient, ting som også må installeres manuelt i Windows. 
+
+I tillegg var Firefox på plass, epostprogram, bildebehandlingsprogrammet Gimp, messenger-løsning for de fleste nettverk, musikkprogram og mye mer. 
+
+På 10 minutter, altså. 
+Dette var enklere enn å installere Windows. 
+Langt enklere. 
+
+Nett-TV uten problemer 
+
+Det var heller ikke noen sak å se verken NRK nett-TV, TV2 Sumo, VGTV og YouTube-videoer i Firefox, uten dikkedarier og installasjon av plugins. 
+Flere av disse videotjenestene bød tidligere på store utfordringer for Linux-brukere. 
+
+Og det er mer enn 30.000 applikasjoner og spill å velge mellom i den oppgraderte Software Manager-en. 
+Du trenger altså ikke besøke nettsider i øst og vest for å få lastet ned og installere programmene. 
+Og det aller meste koster ikke én krone. 
+
+Wine er et slikt program som anbefales å installere i etterkant. 
+Det lar deg installere Windows-programmer, og listen over programmer som støttes utvides stadig. 
+
+Velkjent grensesnitt 
+
+I motsetning til Ubuntu Linux, bygger Linux Mint videre på Gnome 2.x-grensesnittet. 
+Det betyr at det er små utfordringer for meg som Windows-bruker å navigere og gjøre meg kjent i Linux-miljøet. 
+
+Denne videoen viser installasjonen hvordan operativsystemet er i bruk: 
+
+Med så mye positivt både under og på overflaten - hvorfor er det bare rundt 1% av PC-brukerne som bruker Linux? 
+
+Hovedgrunnen er at nesten alle PC-er som selges, kommer med Windows ferdig installert. 
+En annen grunn er at Linux har et dårlig rykte med tanke på brukervennligheten. 
+Det er temmelig ubegrunnet i 2011 og med distribusjoner som Linux Mint. 
+
+Maskinvarestøtten er blitt svært god, men fortsatt mangler det litt på tilleggsutstyr som skannere og skrivere. 
+Dette skyldes først og fremst at ikke alle produsentene setter av ressurser til å lage drivere til en så liten del av markedet. 
+Dermed må man ty til åpne drivere skrevet av entusiaster, som i mange tilfeller ikke gir så god funksjonalitet som drivere som produsenten selv har laget for Windows og MacOS. 
+
+Det samme gjelder programvare. 
+Så snart man har litt spesielle behov, for eksempel innen konstruksjon, musikkproduksjon, gaming, videoredigering og bilde- og grafikkbehandling, er utvalget langt fra så stort og gjennomført som for Windows- og Mac-brukere. 
+
+Til alt annet er forskjellene svært små. 
+Distribusjoner som Linux 
+Mint kan derfor være et meget godt alternativ til Windows for deg som bygger PC selv og har begrenset budsjett, eller som ønsker å blåse liv i en litt eldre PC med gammel og flokete Windows. 
+
+Du finner mer informasjon og kan laste ned operativsystemet fra Linuxmint.com. 
+NB! 
+Velg DVD-versjonen (ca 850 MB) dersom du vil ha alt av drivere og programmer på plass rett etter installasjonen. 

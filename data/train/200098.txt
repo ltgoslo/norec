@@ -1,0 +1,108 @@
+Asus Zenbook Prime UX31A
+Asus har oppgradert sin Zenbook-maskiner, og resultatet er blitt meget bra. 
+
+Ultrabook-segmentet er i sterk vekst, og nå når andre generasjon PC-er er på markedet, virker mange av produktene langt mer modne enn hva som var tilfelle med de første maskinene som dukket opp i fjor. 
+
+En av modellene som den gang gjorde et godt inntrykk, var uten tvil Asus sin Zenbook UX31. 
+Det er denne modellen som nå har fått sin etterfølger i UX31A, som vi har hatt på testbenken de siste par ukene. 
+I tillegg har Asus lansert UX32, som blant annet har dedikert grafikkort. 
+Denne håper vi å få sett på senere i sommer. 
+
+Men nå skal vi konsentrere oss om UX31A, som har følgende sentrale egenskaper: 
+
+13,3" matt, LED-baklyst LCD-skjerm, full HD-oppløsning (1920 x 1080)Intel Core i7-3517U prosessor, 1,9 GHz 
+
+Utseendemessig er den svært lik første generasjon, med sitt solid aluminiums-kabinett med sirkelformet mønster i lokket som skal symbolisere "de uendelige mulighetene som ligger i maskinen", som Asus selv har formulert det. 
+
+Fingeravtrykk vises nesten ikke, verken på inn- eller utsiden. 
+
+Designen er i våre øyne meget god, og utførelsen virker solid og gjennomtenkt. 
+Likhetstrekkene med MacBook Air er mange, ikke minst den lett skrånende designen fra siden. 
+
+Mange forbedringer 
+
+Forbedringene på innsiden er imidlertid til dels store. 
+Her er benyttet siste generasjon Intel Core i7-prosessor med tilhørende vesentlig oppgradert Intel HD-grafikk, som nesten dobler grafikkytelsen, og som gjør at du kan bruke denne maskinen til middels krevende spill, i hvert fall hvis du tåler å gå litt ned på detaljnivå og oppløsning. 
+
+Dessuten har den matte skjermen fått full HD-oppløsning, 1920 x 1080. 
+UX31A selges også med 1600 x 900, men har du godt syn er full HD helt glimrende - bilder blir sylskarpe, tekst blir liten men skarp, og du får plass til svært mye informasjon i skjermbildet. 
+Lysstyrken er ikke fullt så god som på Samsungs nye 9-serie, men er absolutt meget bra - blant annet med innsyn fra nesten død vinkel fra alle fire sider. 
+
+Tastaturet har nå fått baklys. 
+Du kan selv velge om det skal tennes automatisk eller manuelt, og du kan også justere lysstyrken. 
+Det er fast og fint, og avgir lite støy under skriving. 
+
+Strømpluggen har en praktisk 90-graders knekk, noe vi liker bedre enn dem som stikker rett ut. 
+De er ofte mer utsatt for brudd. 
+
+Følsom pekeplate 
+
+Under tastaturet sitter en stor pekeplate med integrerte knapper. 
+Den fungerer bra, men er svært følsom. 
+
+Under testen har det hendt utallige ganger at vi har kommet borti den mens vi skriver, noe som har ført til at markøren har flyttet seg og fått oss på ville veier. 
+Dette opplevde vi som litt negativt, men man har heldigvis muligheten for å låse pekeplaten hvis man opplever dette som et problem. 
+
+Høyttalerne er fortsatt merket Bang & Olufsen ICEpower, men skurringen fra UX31 er heldigvis historie. 
+Lyden er ikke så verst for å komme fra en syltynn Ultrabook, men har naturligvis sine begrensninger, spesielt på bass. 
+Greit nok til lett bakgrunnsmusikk, YouTube og nett-TV, og det er nok også hensikten. 
+
+Borte er også USB 2.0-porten, nå er begge USB 3.0, med tilhørende vesentlig høyere overføringshastighet til kompatibelt utstyr. 
+Alt av tilkoblinger sitter på sidene, SD-minnekortleser, en kombinert lyd-utgang og mik-inngang, samt mini-VGA og micro-HDMI-utgang. 
+
+Tilkobling til kablet nett (Ethernet) får du altså ikke, og skal du koble til ekstern skjerm trenger du spesialkabel eller overgang. 
+VGA-overgang får du med i pakken. 
+Det følger også med en overgang fra USB til kablet nettverk (Ethernet), hvis du skulle få behov for det. 
+
+Bunnplaten er heltrukket og også av aluminium, og du trenger torx-trekker for å få tilgang til innmaten: 
+
+I bruk og målt ytelse 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra McAfee (prøveversjon). 
+Denne påvirker ikke bruksopplevelsen i særlig grad, PC-en responderer kjapt i nær sagt alle situasjoner, men kommer med temmelig mange irriterende advarsler, blant annet om å aktivere og betale for å fortsatt være sikret etter prøveversjonen. 
+
+Oppstart av maskinen tok 24 sekunder, noe som er dobbelt så lang tid som Samsungs 9-serie, som faktisk har tregere prosessor. 
+Litt å gå på for Asus her, med andre ord, men uansett mye raskere enn harddiskbaserte PC-er. 
+
+Windows egen opplevelsesindeks sier følgende om ytelsen, og her går skalaen fra 1.0 (svakest) til 7.9 (best): 
+
+Prosessor: 7,1 Minne (RAM): 
+5,9 Grafikk: 
+6,4 Spillgrafikk: 
+6,4 Primær harddisk: 7,9 
+
+Passmark PerformanceTest 7.0 gir en totalscore på 1400, og det er ny rekord i våre Ultrabook-tester. 
+Ser vi på prosessor-, grafikk- og SSD-ytelsen, ser vi hvorfor. 
+I diagrammene under har vi sammenlignet ytelsen mot andre, aktuelle Ultrabooks: 
+
+Prosessor (poeng): 
+
+Grafikkort (poeng 3D): 
+
+SSD (MB pr sek): 
+
+Stillegående og seiglivet 
+
+Asus har også gjort en meget god jobb med å få ned støynivået, UX31A er vesentlig mer stillegående enn sin forgjenger, takket være roligere vifte. 
+Kun under tung belastning høres viften, som vi uansett ikke vil omtale som spesielt plagsom. 
+Men merk at maskinen blir litt varm i bakkant på undersiden, uten at vi ser noe stort probleme ved det. 
+
+Og til slutt: 
+Batteritiden er også meget bra. 
+Med minimal belastning og kun tilkoblet trådløst nett holdt batteriet ut i over 10 timer, ved kontinuerlig videoavspilling holdt det ut i 5. Asus antyder rundt 7 timer med variert bruk, og det er neppe noen overdrivelse. 
+
+Batteritid sammenlignet mot konkurrentene: 
+
+Konklusjon 
+
+Asus har forbedret produktet akkurat slik vi hadde håpet på, og UX31A er blant de beste og raskeste ultrabookene vi har testet. 
+Den får en soleklar femmer på terningen, samt et velfortjent Anbefalt produkt-stempel. 
+
+Vi er kritiske til pekeplaten, som vi synes er i overkant følsom, og trekker også litt for manglende Ethernet-kontakt og for at det kreves overganger og spesialkabel for å koble maskinen til eksterne skjermer. 
+Prisen er også høy, men det skyldes i stor grad at den er utstyrt med full HD-skjerm. 
+Har du ikke så stort budsjett, finnes maskinen også med 1600x900-panel og i5-prosessor, til langt lavere pris. 
+
+En åpenbar konkurrent som må tas med i vurderingen før du eventuelt handler, er Samsungs nye 9-serie. 
+Sjekk også ut Fujitsus lekkerbisken, som også er basert på siste generasjon Core i-prosessor. 
+
+Asus ZenBook Prime UX31A-R4004V 

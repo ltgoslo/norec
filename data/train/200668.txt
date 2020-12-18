@@ -1,0 +1,79 @@
+Konstruksjon, ytelse og konklusjon
+Anstendig ytelse og stillegående, men med ett stort problem... 
+
+Utseendemessig har EX400 kanskje ikke så ekstremt mye å skilte med, selv om det blanklakkerte sorte lokket har et småstilig bølgeformet mønster. 
+Ellers er den nokså traust i grå og sort plastikk. 
+
+LES OGSÅ: 
+
+Lokket virker forøvrig anstendig hengslet og yter passe motstand når det åpnes og lukkes. 
+Den mangler en fysisk låsemekanisme (de fleste mindre bærbare i forbrukermarkedet mangler dette i dag), så når magneter mellom lokk og chassis gjør at det må litt ekstra kraft til fra helt sammenlukket tilstand er dette en detalj vi liker. 
+
+Selve bredskjermen har en oppløsning på 1280 x 800 punkter og er blank, med god kontrast og anstendige farger. 
+Lysstyrken er ikke like god som på de nye LED-skjermene, men totalt sett er den helt grei og som forventet på en bærbar i denne prisklassen. 
+
+Når det ellers gjelder generell byggekvalitet føles den på langt nær så solid som for eksempel en ThinkPad, men med tanke på sin vekt - relativt beskjedne 2,2 kilo - er den heller ikke utpreget dårlig. 
+Chassiset har riktignok noen litt myke punkter på undersiden, og ved trykkbelastning skal det ikke mye til for å påvirke panelet eller finne mindre sterke punkter i kanten rundt skjermen, men alt i alt er ikke dette noe som burde lage problemer ved normalt bruk. 
+
+Plassert over skjermen finner vi for øvrig et integrert webkamera og mikrofon. 
+
+Tastaturet imponerer ikke. 
+Riktignok er det i stor grad en tilvenningssak, men vi må få si at vi har brukt langt mer behagelige tastatur. 
+Layouten med blant annet inneklemt (forminsket) ø og å, liten høyre shift og feilplassert Fn-tast er heller ikke noe å skrive hjem om. 
+I tillegg oppleves tastaturet som relativt støyende. 
+
+Ser vi på pekeplaten, eller touchpaden, og dens tilhørende taster så er vi fornøyd med følsomheten, men på en bærbar med bredskjerm foretrekker vi en bredere pekeplate. 
+Vi vil også ha skrollefelt, en annen viktig ting som mangler her. 
+
+Til venstre for tastaturet finner vi snarveisknapper for søk, samt slå av og på webkamera, trådløst nett og blåtann. 
+Over tastauret sitter vanlig av/på, snarvei til nettleseren og "eco"-knapp som raskt lar deg skifte mellom en rekke strømprofiler. 
+Praktisk, og med denne bærbare helt nødvendig. 
+Mer om det senere. 
+
+Ytelse 
+
+Det er altså langt mellom 14-tommerne i dag, i stedet har vi sammenlignet med to 13,3-tommere. 
+Den ene testet vi nylig, nemlig ThinkPad SL300 fra Lenovo, men også Dells XPS M1330 er aktuell - selv om vår test er et år gammel. 
+Den er nemlig fremdeles i salg - og langt billigere enn den var. 
+
+Høyere poengsum er bedre 
+
+De tre maskinene rangeres totalt nokså likt. 
+Ser vi på de enkelte komponentene er det likevel klare forskjeller 
+- Dell og MSI-en er langt sterkere på grafikkfronten, men har samtidig noe svakere diskytelse i forhold til ThinkPad SL300. 
+
+Høyere poengsum er bedre 
+
+Som XPS M1330 har EX400 dedikert grafikkløsning, og dette kortet er Mobility Radeon HD 3450 fra ATI. 
+I likhet med Nvidia-løsningen som sitter i XPS-en tilhører dette kortet mellomklassen - det vil drive de aller fleste spill, men på nyere titler må du nok lempe en del på grafikkinstillingene. 
+
+Levetid i minutter, konstant på 
+
+MSI EX400 holdt ut i to timer med vårt oppsett - noe vi må få lov til å si er litt skuffende og langt bak konkurrentene. 
+Dette er i konstant drift, og du vil selvfølgelig kunne trekke ut mer tid ved å være aggressiv på strømsparingen. 
+Da er det greit å bruke den nevnte "eco"-knappen. 
+
+Støy og varme 
+
+En gladnyhet er støyen - eller rettere sagt mangelen på støy. 
+Joda - den suser litt - men meget svakt og jevnt. 
+Ikke en gang under tung belastning kan vi påstå at maskinen er direkte støyende. 
+
+Når det gjelder varme så får den litt ekstra temperatur på venstre håndledsstøtte, men vi vil ikke klassifisere det som noe egentlig problem. 
+
+Konklusjon 
+
+MSI EX400 er en bærbar med helt klare fordeler og ulemper - noe som burde gjøre det nokså enkelt for deg å bestemme om dette er PC-en for deg eller ikke. 
+
+Til å være en 14-tommer har den relativt lav vekt, den har nokså god ytelse - inkludert grei spillytelse, en ok skjerm og er meget stillegående. 
+
+På den annen side kunne vi ønsket oss enda litt mer på kvaliteten - spesielt tastatur og pekeplate skuffer - og batterilevetiden gjør at du nesten alltid må dra med deg strømforsyningen. 
+Da må du legge seks hekto på vekta. 
+Den har heller ikke digital videoutgang, noe vi nesten forventer på en moderne bærbar. 
+
+I tillegg må du legge prislappen på 8500 kroner inn i ligningen. 
+
+Så se nøye på lista over sterke og svake sider - mener du dette produktet passer ditt bruksmønster perfekt så er det en helt grei 14-tommer for spill og generell bruk. 
+Men er du ikke interessert i spill finnes det langt bedre kandidater i denne klassen. 
+
+Ta forresten også turen innom Dells hjemmesider - en lettere og bedre XPS M1330 trenger ikke være så mange hundrelappene unna. 

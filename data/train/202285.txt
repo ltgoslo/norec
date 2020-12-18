@@ -1,0 +1,58 @@
+Nero 8 med Nero Vision
+Nero har fått kritikk for å være overlesset, er versjon 8 blitt enda tyngre? 
+
+I oktober for toår siden gikk vi gjennom Nero 7, som da viste seg i all sin prakt med en lang remse forskjellige programmer til glede og nytte. 
+
+LES OGSÅ: 
+
+I september i fjor kom versjon 7.5 kalt Reloaded, som oppdaterte en rekke av programmene med hensyn til formatstøtte og kompatibilitet. 
+
+Nå er altså Nero 8 her og vi har sjekket ut det som for vårt bruk er de viktigste sidene. 
+
+Mest kosmetisk 
+
+Det som er mest iøynfallende er at hele Nero StartSmart har fått et helt nytt design. 
+Alt er nå tilpasset Vista, og vi synes det er langt mer oversiktlig og ser rett og slett bedre ut. 
+
+-->Her ser du de andre elementene på StartSmart: 
+
+Utover dette er det ikke så mye nytt, heldigvis vil nok mange si. 
+Vi er tilbøyelig til å være enige, det er bedre om det som allerede er med blir styrket enn at vi får flere halvgode løsninger. 
+
+De enkelte programmene har også fått sine ansiktsløftninger i større eller mindre grad, men noe dramatisk er det ikke snakk om. 
+
+Noen viktige forbedringer 
+
+Vi testet håndteringen av AVCHD video fra vårt Sony-kamera, tidligere var den ikke spesielt imponerende. 
+
+Men dette har blitt vesentlig forbedret! 
+Avspilling av AVCHD-filene i full oppløsning var utmerket uten hakking, bedre enn med programmene som følger med fra Sony. 
+Redigering med Nero Vision var nå helt smertefritt, med svært lite ventetid ved import og redigering. 
+Rendring til full 1080-oppløsning er nå helt uproblematisk, og du kan lagre filer for både HD DVD og BluRay. 
+På vår firerkjerners Q6600 PC med 4 GB RAM gikk dette omtrent i sanntid. 
+Brenning av AVCHD til vanlig DVD-plate og avspilling på andre Vista-maskiner med kraft og spiller/programvare til å håndtere HD-DVD gikk helt utmerket, men har selvsagt begrenset spilletid. 
+
+Med XP fungerer det dessverre ikke, siden UDF 
+2.5 ikke støttes på denne platformen i følge Nero. 
+Heller ikke på MacOS kunne vi spille av DVDen. 
+Vi vikk heller ikke spilt av platen på den vanlige DVD-spilleren i vår maskin som også har HD-DVD spiller. 
+
+Også Flash-video fra YouTube kan lagres til iPod-format, og dette går svært kvikt og greit. 
+
+Lyd-programmene 
+
+Her har det ikke skjedd noe bemerkelsesverdig, det er de samme som før. 
+Relativt enkle, ikke de vi foretrekker å bruke verken til stereo eller flerspors redigering. 
+
+Backup 
+
+Nero BackItUp har fått en ansiktsløfting, og tilbyr både automatisk og manuell backup av filer du velger å ta ekstra godt vare på. 
+Stadig en god løsning. 
+
+Konklusjon 
+
+Nero 8 er fremdeles så omfattende at det kanskje er litt i meste laget. 
+Vi mener som tidligere at mange av tilleggsprogrammene fungerer ok for sporadisk bruk, men ingen er riktig imponerende tungvektere som vil kunne bli noe favorittverktøy. 
+
+Men brenningen og kjapp videoredigering fungerer utmerket. 
+Mer info og prøveversjoner finner du hos www.nero.com 

@@ -1,0 +1,59 @@
+19" ViewSonic VX1940W
+En 19-tommers 20-tommer, på en måte. 
+
+I oktober lanserte ViewSonic denne 19-tommers skjermen i bredformat, som har samme oppløsning som 20 og 22-tommere - 1680 x 1050 piksler. 
+Fordelen er at den blir skarpere, mer detaljert og tar mindre plass. 
+
+LES OGSÅ: 
+
+Den vanlige oppløsningen på brede 19-tommere er 1440 x 900, så forskjellen er ikke enorm. 
+Vi vil etter å ha testet skjermen si at forskjellen er behagelig. 
+Skjermen er ikke så høyoppløselig at det kreves spesielt skarpt syn. 
+Det kreves heller ikke inngrep i innstillingene for fontstørrelse og DPI på PCen for å få et tilfredsstillene brukeroppsett. 
+
+Det finnes jo mange bærbare med enda høyere oppløsning i forhold til størrelse, men det er ikke så enkelt å ta slike paneler i bruk til frittstående skjermer, med større avstand til brukeren. 
+Det største problemet er at alle de grafiske elementene i selve Windows-grensesnittet ikke kan skaleres fritt. 
+De er bygget opp som faste bitmaps og størrelsen kan ikke endres uten at hele grensesnittet blir nærmest ødelagt, og elementer havner utenfor der de skal. 
+I hvor stor grad varierer med forskjellige programmer. 
+
+Skal et fritt skalerbart grensesnitt fungere må det designes fra bunnen av for dette, og skjermene bør ha mye høyere oppløsning enn vi har i dag, 5120 x 3200 kan f.eks. være en god start. 
+Da begynner alle synlige tegn til pikselering generelt å forsvinne. 
+
+Med små og ikke for hyppige skritt 
+
+Mens vi venter på de store forandringene kan vi glede oss over de mindre. 
+ViewSonic har utvidet 19-tommers-formatet med 36% flere bildepunkter, du får både skarpere bilder og plass til flere og større programvinduer på skjermen. 
+Det er et skritt på veien mot den optimale skjerm. 
+
+ViewSonic VX1940W er en skjerm myntet på gamere og multimediaentusiaster. 
+For å holde prisen nede finner vi ingen avanserte ergonomiske løsninger som muligheter til å heve, senke eller dreie skjermen. 
+
+Utførelsen er i svart plast, og det er bare på foten det er noen områder med svart pianolakk. 
+Alle øvrige flater er matte, inkludert overflaten på selve skjermpanelet. 
+På undersiden av fronten er det en sølvfarget list, hvor knappene er plassert. 
+De er tydelig merket og gjør det lett å manøvrere i menysystemet. 
+
+I motsetning til en del andre rimelige skjermer er det et menyvalg for standard sRGB fargerom og ikke bare kallenavn som "movie, internet, game" osv. som byr på forskjellige frie og festlige tolkninger. 
+
+Tilkoblingene er VGA og DVI. 
+
+Bildekvalitet 
+
+Som praktisk talt alle rimelige LCD-skjermer har også denne et TN-panel. 
+Denne paneltypen er rask, men har noe begrenset fargedynamikk og betraktningsvinkel i forhold til dyrere paneltyper. 
+
+Men mye har skjedde med driverkretsene, slik at mange skjermer likevel presenterer et absolutt godkjent bilde. 
+Den eneste svakheten som alle og enhver legger merke til er at fargene forandrer seg mer eller mindre med vinkelen på skjermen. 
+
+For å øke fargedynamikken operer ViewSonic med dynamisk kontrast, som oppgis til 3000:1. 
+Likevel er betraktningsvinkelen overordnet dette, hvis du ikke har vinklet skjermen optimalt får du problemer også i de mørke områdene. 
+
+Etterslep er ikke noe problem, og responstiden oppgis til 2 ms. 
+
+Konklusjon 
+
+ViewSonic VX1940W er en stilig skjerm, den gir en behagelig arbeidsflate til en kurant pris uten å ta mye plass på skrivebordet. 
+
+Selv om den har gamere og multimedia som målgruppe er den minst like velegnet til generell bruk, med plass til flere dokumenter og programvinduer ved siden av hverandre. 
+
+Er man observant på den begrensede betraktningsvinkelen er fargespekteret også utmerket, med naturlige og klare farger. 

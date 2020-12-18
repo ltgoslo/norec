@@ -1,0 +1,84 @@
+Seagate Wireless Plus
+Portabel, trådløs harddisk for alle dine mediefiler. 
+
+For halvannet år siden testet vi en lignende løsning fra Seagate, artikkelen kan du lese her. 
+Nå har Seagate kommet med en ny og forbedret utgave. 
+
+Vi snakker om en portabel harddisk som er utstyrt med både batteri og en liten trådløs ruter med webserver. 
+Den har også kontakter rett på harddisken og kan kobles til PC/Mac med USB 3.0 overgang. 
+
+Men selv om den sentrale komponenten er en harddisk, oppfører ikke Seagate Wireless Plus seg bare som en harddisk, den har langt mer å by på. 
+
+Seagate Wireless Plus 
+
+Vårt testeksemplar er en modell på 1 TB i et kabinett som er litt større enn et harddiskkabinett for 2,5-tommers disker, også omtalt som lommeharddisk. 
+Den har en av/på-knapp på siden og en kontakt til lader på den andre siden. 
+
+På den ene kortenden sitter det et lokk, og under dette sitter SATA-kontakter. 
+Her plugger du inn overgangskabelen når du skal legge inn data på disken. 
+
+I filbehandleren på maskinen du kobler den til ser den ut som hvilken som helst annen ekstern lagringsenhet, og du kan fritt opprette og redigere mapper med alt mulig innhold. 
+
+Men poenget med Seagate Wireless Plus er som navnet sier, den er trådløs. 
+Det betyr at du får tilgang til alt innholdet via trådløst nett. 
+Og ikke bare du, men opptil åtte brukere, avhengig av belastning. 
+Den kan servere tre forskjellige HD-videoer til tre brukere samtidig. 
+
+Du kan se innholdet på disken i en nettleser, men det beste er å laste ned en gratis Seagate Media app for iPad, iPhone, Kindle Fire og Android-enheter i henholdsvis App Store, Amazon og Google Play. 
+Det finnes også en app for Samsung SmartTV. 
+
+Så er det bare å velge hva du vil se eller høre på, enten ved å navigere i mapper, eller ved å la programvaren filtrere ut de forskjellige medietypene (video, musikk, bilder, dokumenter). 
+Deretter kan du få oversikten presentert etter kriterier som artist, sjanger eller annet, på samme måte som på de fleste andre mediespillere. 
+
+I bildespesialen under ser du noen skjermdumper fra iPhone og iPad. 
+
+Vi liker at den vanlige mappestrukturen beholdes og er funksjonell, i tillegg til den typiske mediespiller-filtreringen. 
+
+Hvordan fungerer det? 
+
+Vi lastet over noen gigabyte med bilder, video og musikk. 
+Hvor raskt det går er helt avhengig av maskinen du laster fra. 
+USB 3.0 er rask, så skal du laste over en håndfull filmer tar det ikke mange sekundene hvis du har en rask disk eller SSD på vertsmaskinen. 
+Å kopiere over hele biblioteker på mange hundre gigabytes kan jo ta litt tid, men det er jo ikke noe man gjør til stadighet eller behøver å overvåke. 
+
+Det som er mer interessant er hvordan Wireless Plus klarere å levere mediefilene. 
+
+Og det gjør den veldig bra! 
+
+Musikk starter umiddelbart, små videosnutter også. 
+Lange videoer/filmer tar noen sekunder før de starter opp, avhengig av lengden. 
+Formatene som støttes for direkte avspilling på iPhone er H.264/QuickTime i forskjellige fasonger. 
+Filer i formater som ikke er støttet viser et vindu som sier at formatet ikke støttes, men må lastes ned for å kunne avspilles i en eventuell tredjeparts avspiller. 
+Det er i praksis umulig på en iPhone. 
+På Android-enheter er dette langt enklere, siden det er et langt mer åpent miljø. 
+Her streamet både DivX, Windows Media og M4v/MP4. 
+
+Skal du vise bilder varierer responsen med hvor store bildefilene er. 
+Store bildefiler i fullformat tar noen sekunder å vise, men dataene mellomlagres, så når du først har lastet inn noen kan du bla frem og tilbake uten forsinkelser. 
+Det er også en viss forhåndslagring når du åpner en mappe for å se bildene i den, slik at det går raskere hvis du venter litt etter å ha sett på de første bildene. 
+Da laster den inn flere bilder i bakgrunnen. 
+
+Hva med nettilgang? 
+
+Den forrige løsningen fra Seagate hadde en svakhet. 
+Når du var koblet opp mot mediediskens trådløse nett hadde du ingen forbindelse til Internett. 
+
+Men Wireless Pluss løser dette elegant. 
+Du går ganske inn i nettverksoppsettet i innstillingsmenyen, og velger hvilket trådløse nett den skal kobles til. 
+Dermed får du både i pose og sekk, nettilgang og tilgang til hele lageret av mediefiler. 
+
+Også på Apple TV 
+
+Har du en Apple TV boks på nettverket hjemme kan du også spille av filene via denne, vel å merke når du har satt opp kobling til det lokale trådløse hjemmenettverket på Wireless Pluss. 
+Har du bare koblet iPhone/iPad til Wireless Pluss får du bare spilt av innholdet på iOS-enheten. 
+
+Konklusjon 
+
+Seagte Wireless Plus er en glimrende løsning når du trenger et mobilt fillager som kan deles av flere. 
+
+Den er rask å fylle med innhold, er oversiktlig i bruk og svært fleksibel. 
+
+Kapasiteten på 1 TB tilsvarer ganske mange mobile enheter, og fleksibiliteten i bruk og manøvrering er vel så god som standardfunksjonene. 
+I tillegg slipper man iTunes og sync-problematikken mot flere enn én maskin. 
+
+Seagate Wireless Plus 1TB 

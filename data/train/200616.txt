@@ -1,0 +1,31 @@
+PowerColor Radeon X800 XL
+LES OGSÅ: 
+
+PowerColor er en av ATIs største produsenter i Europa, og det spennende X800 XL-kortet koster mindre enn noen av GeForce 6800 GT-variantene i denne testen. 
+I tillegg støtter dette kortet video inn og ut, og har dermed flere egenskaper enn GeForce-kortene. 
+
+Passer i mini-PC 
+
+PowerColor sitt kort krever bare én kortplass og passer dermed fint inn i Mini-PCer. 
+I tillegg støyer det svært lite, men selv om X800 XL-kortene ikke krever ekstra strømkontakt (det får strømmen sin fra PCI Express-sporet) krever akkurat dette kortet det. 
+
+Sammen med standardkjøleren fra ATIs referansekort, som ligger midt på treet med hensyn til støyproduksjon, kommer det med to DVI-kontakter og en kombinert Video-inn/ut-kontakt. 
+
+Denne kan til og med kombineres med HDTV-apparater for best mulig resultat på flat-TVen, hvis du har en liggende. 
+Det gjør selvfølgelig kortet spesielt egnet til stue-PCer, og er også bra med hensyn til levetiden for kortet - når vi tenker på at HDTV-bølgen snart er over oss. 
+
+God bundle 
+
+Powercolor sitt X800 XL-kort får også følge av et DVD-program og et spill; i dette tilfellet Hitman Contracts - og det har video-inn-muligheter via en alt-i-ett-kontakt som tar S-video og kompositt-kabler via en overgang. 
+Alt av kontakter følger med i pakken. 
+
+Ytelsesmessig er dette kortet det dårligste i denne testen, og det koster mer enn Sapphire sitt kort med samme brikke. 
+Fordelen er derimot at dette kanskje er det beste valget for mini-PCer, siden det krever lite strøm og bare trenger én kortplass. 
+
+Pris/ytelse/konklusjon 
+
+Mange vil se på de ekstra videoegenskapene som et større pluss enn et par ekstra bilder i Doom 3 eller 1.000 poeng i 3DMark. 
+Når vi ser på hvor mye du betaler per 3DMark-poeng, koster PowerColor Radeon X800 XL faktisk også det samme som POV sitt 6800 GT-kort - altså delt jumboplass når det kommer til pris/ytelsesforholdet. 
+
+Kortet ender også på absolutt jumboplass i forhold til generell ytelse i denne testen - over noen av de beste kortene du kan finne i denne prisklassen. 
+Det mest skuffende med dette kortet er derimot at det ikke på noen måte kan forsvare prisen når du får mer ytelse og bedre bundle for mindre penger på det samme brikkesettet i Sapphire sitt kort - med mindre du har en mini-PC, altså :) 

@@ -1,0 +1,117 @@
+Canon Pixma MP640
+Skal hele huset dele skriver, er denne et smart valg! 
+
+Det begynner å bli en stund siden vi testet skrivere på jevnlig basis. 
+En del av forklaringen ligger i at produktene etter hvert både er blitt meget pålitelige og billige. 
+Fotokvaliteten er for eksempel suveren selv på skrivere til noen få hundrelapper. 
+
+Å kjøpe skriver er imidlertid ikke noen engangsinvestering; å eie den kan bli dyrt på sikt, men hvor dyr avhenger i stor grad av bruksmønsteret, og er vanskelig å få laget et entydig bilde av i den begrensede perioden vi har skriverne tilgjengelig. 
+Vårt syn på saken kan du for øvrig lese mer om i denne artikkelen. 
+
+Taket nådd? 
+
+Vi har vært vitne til at både hastighet og kvalitet på utskriftene har nådd et nivå som produsenten sliter med å forbedre. 
+Det vil alltid fokuseres på forbedringer på disse områdene ved produktlanseringer, men det blir som med shampoo eller tannkrem - forskjellene mellom gammel og ny formula blir vanskelig å oppdage for hvermansen. 
+
+Men det er ikke dermed sagt at det ikke er rom for forbedringer på andre områder. 
+Ta for eksempel oppsett i trådløst nettverk; svært mange av modellene i midtsegmentet (pris 1000-2000 kroner) tilbyr nå trådløs tilkobling via hjemmenettet. 
+Og det er nettopp dette Canon skryter av å ha forbedret på sin seneste serie med multifunksjonsskrivere. 
+
+Mye enklere 
+
+Vår testvinner fra 2008, Canon Pixma MP620, kunne også kobles til trådløst, men der var prosessen noe klundrete. 
+Den innebar blant annet at skriveren først måtte kobles til via USB, og deretter måtte man kjøre en programvarebasert konfigurasjon mot nettet. 
+I den nye generasjonen skal dette være mye enklere ifølge Canon, og vi ønsket å gå påstanden sømmene. 
+
+Pixma MP640 heter modellen som erstatter de foregående MP600, 610, 620 og 630. 
+Utformingen og basisfunksjonalitet er svært lik, dette er en stor skriver som ikke er veldig lett å plassere på hylla. 
+Men før vi går videre i vår lille test, skal vi se litt på de viktigste egenskapene: 
+
+Canon Pixma MP640 - multifunksjonsskriver Måler 450 x 368 x 176 mm, veier 8,8 kg Skriver med dråpestørrelse på minimum 1 pikoliter og maks 9600 x 2400 dpi CIS-skanner med 4800 dpi oppløsning Kan også brukes som kopimaskin for både farger og sort/hvitt Kan snu arket automatisk og skrive på begge sider (full duplex) Kan skrive ut direkte på CD/DVD/Blu-ray, adapter følger med To arkmatere, en foran og en bak Kortleser for alle aktuelle minnekort + USB-minne Kommuniserer via USB 2.0, WLAN (b/g) eller kablet Ethernet Leveres med programvare og drivere for Windows og MacOS 
+
+Kinfigurér nettet fra skriveren 
+
+Skriveren er utstyrt med en stor fargeskjerm i fronten, og via knappene under denne kan man styre de vanligste utskrifts- og kopifunksjonene, for eksempel med bilder fra minnekort, uten å bruke datamaskin i det hele tatt. 
+
+Det er også her man nå konfigurerer skriveren mot det trådløse nettet, og det viste seg å være en svært hyggelig opplevelse. 
+Ved hjelp av veiviseren var vi på nett i løpet av et lite minutt. 
+
+Men før du kommer så langt må du installere blekkvogn og patroner. 
+Deretter må skriveren kalibrere seg selv. 
+Denne prosessen tar lang tid! 
+Inntil fem minutter med kverning på til før du kan gå videre og installere skriveren på datamaskinen din. 
+
+Veldig enkelt 
+
+Vi testet skriveren i Windows 7, som ikke har driverne innebygd. 
+CD-en som følger med er versjon 1.0, på Canons nettsteder fant vi versjon 1.01, som vi lastet ned og installerte på en PC som ikke var koblet til skriveren fysisk. 
+
+Her fikk vi straks spørsmål om tilkoblingen: 
+
+Deretter ble det gjort et kjapt søk, og etter få sekunder var skriveren funnet: 
+
+Til slutt fikk vi spørsmål om vi ville måle nettverksytelsen, og denne delen av installasjonen tok rundt to minutter og var drivernstallasjonens mest tidkrevende punkt. 
+
+Hele prosessen forløp imidlertid uten problemer, kryptiske meldinger eller spørsmål som var vanskelig å forholde seg til. 
+Absolutt store forbedringer fra tidligere generasjoner. 
+
+Det følger med godt med dokumentasjon dersom du blir sittende fast. 
+Det gjorde heldigvis ikke vi. 
+
+Smarte programmer 
+
+Når denne delen er unnagjort, kan man begynne å bruke skriveren gjennom programmer man alt har installert på PC-en, eller man kan installere programvaren som følger med. 
+MP Navigator og Easy Photo Print, er eksempler på programmer som gjør det enkelt å styre funksjoner og skrive ut bilder, så disse to programmene kan anbefales: 
+
+Dårlig tid? 
+Bruk kabel. 
+
+En av de store fordelene med CIS-skannere er at lampen er klar til bruk med det samme, der man med tradisjonelle lamper har måttet vente på at den ble varm før skanningen kunne starte. 
+På MP640 er det ingen venting over hodet når man trykker på Forhåndsvisnings-knappen: 
+
+Skannedialogen gir deg tilgang til en rette forbedringsalgoritmer, og avhengig av kildematerialet kan du her få gode resultater uten behov for etterbehandling. 
+Hvis kilden er av god kvalitet, er det bare å trykke på Skann-knappen, og lene seg tilbake. 
+
+Som vanlig gjør Canon en god jobb her, bildene bevarer dynamisk omfang i stor grad, og ivaretar detaljene i høylys og skygge på en meget bra måte. 
+
+Innskannet eksempel. 
+Gammelt falmet foto hvor mye av vitaliteten er gjenskapt, og støv er digitalisert bort. 
+Alt gjort direkte i skannedialogen, uten behov for bearbeidelse i etterkant 
+
+I Photoshop tok forhåndsvisningen av en A4-side rundt 7 sekunder, og innskanning av samme side (fotografi) tok i vårt tilfelle 1 minutt og 7 sekunder via det trådløse nettet. 
+Det gav oss et bilde med oppløsningen 2456 x 3080 piksler, eller rundt 7,5 megapiksler. 
+
+Det er imidlertid gode grunner til å velge USB-tilkobling hvis du har planer om å skanne mye. 
+Det samme bildet tok nemlig i underkant av 10 sekunder å skanne når skriveren var direkte tilkoblet PC-en vår... 
+
+De øvrige hastighetsmålingene er gjort med skriveren direkte tilkoblet PC-en: 
+
+Innskanning A4, 300 dpi: 9,7 sekunder Utskrift 5 tekstsider, normal kvalitet: 
+44 sekunder Webutskrift 3 sider, tekst/grafikk 44 sekunder Fotoutskrift A4, kant til kant: 1 min 39 sekunder A4-kopi, farger, normal kvalitet 30 sekunder 
+
+Ikke kjappere på alt 
+
+Det vi merker oss her er først og fremst at hastigheten ikke har økt noe særlig verken på tekst- eller kantløs A4-fotoutskrift siden testen av førstegenerasjon MP 6x for mer enn tre år siden. 
+Webutskriftene er imidlertid noe kjappere, og innskanningshastigheten og kopihastigheten (ved kablet tilkobling) er faktisk doblet, og det er vel og bra. 
+
+Kvalitetsmessig er Canon fortsatt svært god på alle typer utskrifter. 
+Vi merker oss at vårt 10 megapiksels testfotografi ser svært bra ut selv med "normal" kvalitetsinnstilling, på papirtypen Photo Paper Plus Semi-gloss. 
+Det er ikke mulig å spore korn eller grove raster med det blotte øye overhodet. 
+
+En av de store fordelene ser du her; fotokvaliteten er helt i toppklasse. 
+Dette bildet tok 1 minutt og 39 sekunder å skrive ut 
+
+Det som imidlertid ikke er bra, er at MP640, i likhet med sine forgjengere, bruker tid på å komme i gang dersom den har stått ubrukt en stund. 
+Vi lot det gå to dager mellom to utskrifter, og da brukte skriveren bortimot ett minutt på å rense og klargjøre de tallrike dysene sine, før den var klar for å skrive ut. 
+
+Ikke bare er dette irriterende venting, vi vet erfaringsmessig at denne rensprosessen også kan stjele en del blekk. 
+Det verste bruksmønsteret for Canon MP640 er med andre ord å skrive ut sjelden og kjøre få utskrifter om gangen. 
+Da kan prisen pr utskrift bli relativt høy, til tross for at Canon har mye blekk i patronene sine. 
+
+Konklusjon 
+
+Canon Pixma MP640 byr på svært enkel trådløs oppkobling, god fleksibilitet hva angår utskrifts- og skannejobber, og imponerer oss også med svært god skannekvalitet og hastighet. 
+Også utskriftene blir i toppklasse kvalitetsmessig, spesielt fotoutskrifter i farger på originalt Canon-papir. 
+
+På minussiden setter vi først og fremst treghetene du må leve med dersom du bruker skriveren sjelden. 
+Dette er heller ikke av de mest plasseringsvennlige skriverne på markedet, men er du mest opptatt av kvaliteten, kan skriveren definitivt anbefales! 

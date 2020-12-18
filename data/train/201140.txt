@@ -1,0 +1,142 @@
+Vi bygger mediesenter for stua
+Her forteller vi deg om våre valg og viser prosessen - trinn for trinn. 
+
+Går du rundt med en liten stue-PC i magen? 
+Da er du ikke alene. 
+I DinSide-redaksjonen er vi flere som har lekt oss med datamaskiner tilkoblet TV-en siden slutten av nittitallet. 
+Vi har imidlertid aldri kommet helt i mål på fornøydhetsskalaen. 
+Et naturlig mål for en stue-PC (kall det gjerne mediesenter eller HTPC) må være at den skal kunne håndteres av flere enn husets aller mest teknologifokuserte. 
+Den må også være pen å se på, og være så stillegående som mulig. 
+
+Blu-ray-, musikk- og surfemaskin 
+
+Den må også kunne by på noe mer enn de mange mediespillerne for TV-bruk kan, hvis ikke er hele prosjektet bortkastet. 
+Personlig har jeg for eksempel ønsket meg Spotify og Voddler, surfemuligheter, serverfunksjoner (filserver, FTP-server, webserver osv), i tillegg til de vanlige multimedia-funksjonene. 
+
+Og sist men ikke minst; Blu-ray-spiller. 
+Jeg kjøpte en Blu-ray-brenner allerede i 2008, og den har vært brukt sånn omtrent tre ganger, så den kan fint flytte inn i stue-PC-en. 
+
+Kabinettet 
+
+Å finne et passende HTPC-kabinett kan være et greit utgangspunkt. 
+Her finnes det etter hvert svært mange å velge mellom, og prisene varierer fra noen hundrelapper til flere tusenlapper. 
+Vårt valg falt på et nytt kabinett fra Silverstone, SST-GD05B, ikke bare fordi det ser bra ut og har en fin pris (7-800 kroner), men fordi det kun er 32,5 cm dypt. 
+Det er stort poeng når du skal få det til å passe i smale TV-benker. 
+
+Kabinettet måler for øvrig 15 cm i høyden, og med sine 44 cm i bredden og aluminiumsfront med børstet metall-look, passer den godt sammen med annet audio/videoutstyr i mange stuer. 
+
+Fronten er for øvrig temmelig ren, med åpning for optisk drev til høyre, to USB-porter, lyd inn- og utgang, av/på og reset-knapper til venstre. 
+
+På innsiden sitter ikke mindre enn tre vifter, hver av dem har en diameter på 12 cm og de roterer med 1200 omdreininger pr minutt. 
+I følge spesifikasjonene er støynivået så lavt som 20 dB, noe som knapt skulle være hørbart. 
+
+Her er plass til hovedkort med formene micro ATX, Mini-DTX og Mini-ITX, og to stk 3,5" harddisker. 
+Vårt valg falt på Asus M4N78-VM, et kort for AMD-prosessorer som vi har bygd en rekke PC-er på det siste året. 
+Det har integrert Nvidia Geforce 8200-grafikkbrikke med HDMI-utgang, som er sterk nok til å håndtere høyoppløselig video av ymse formater uten problemer. 
+
+Strømforsyning 
+
+Strømforsyning må du også besørge, da det ikke følger med kabinettet. 
+Helt vanlige ATX-forsyninger (maks 18 cm dype) kan brukes. 
+Her var vårt valg soleklart, en 500W forsyning fra Mist, noe av de mest stillegående på markedet, og svært stabil. 
+
+Prosessor og kjøler 
+
+Prosessorvalget falt på AMD Phenom II 905e, som både er strømgjerrig (med dertil tilhørende lavt viftebehov) og byr på mer enn nok av prosessorkraft. 
+Enten du bruker Intel- eller AMD-basert prosessor kan standard kjøler og prosessorvifte med fordel brukes. 
+
+Når aktiv vifteregulering er aktivert i BIOS-oppsettet, vet vi nemlig av erfaring at omdreiningene sjelden vil overgå 1000-1200 omdreininger under normal bruk, og det er knapt hørbart. 
+I vårt tilfelle brukte vi en rimelig kjøler fra Akasa sammen med en manuell vifteregulator - som også viste seg å gi et godt resultat hva angår støy. 
+
+Harddisk 
+
+Harddisken er kritisk i et mediesenter. 
+Mange harddisker blir både varme, støyer og vibrerer, og disse bør man unngå i et relativt trangt kabinett. 
+Også her var vi ikke i tvil, vi valgte en 1 TB Western Digital-harddisk fra GreenPower-serien. 
+Stikkord er svært lav varmeutvikling, lav støy og bra skrive- og leseytelse. 
+
+Harddisk-festene i Silverstone-kabinettet er dessuten utstyrt med gummiforinger, noe som effektivt demper eventuelle vibrasjoner og metalliske ulyder. 
+
+Problemfri montering 
+
+Kabinettet viste seg å være veldig lett å arbeide i. 
+Man løsner to skruer i bakkant, skyver enkelt av lokket, og før man begynner å montere noe som helst skrur man løs holderne for harddisker og optisk drev. 
+Dermed har man "et hav av plass". 
+
+Man løsner holderne ved å skru ut seks små skruer 
+
+Platene er relativt solide og til tross for lav pris er kvalitetsfølelsen rimelig høy. 
+
+Og kabinettet kommer med noe så utradisjonelt som bruksanvisning. 
+
+Vi fikk imidlertid ikke bruk for den. 
+Har du skrudd en PC før, byr ikke dette kabinettet på særlig store utfordringer. 
+
+(Fortsetter under bildene) 
+
+Her er vi i gang 
+
+Kontaktgren for viftene følger med 
+
+Baksiden ser slik ut 
+
+Så er det bare å skyve lokket på plass 
+
+Det er verdt å nevne at ikke alle prosessorkjølere vil få plass under holderen til det optiske drevet, men både nyere AMD- og Intel-kjølere vil få fritt spillerom. 
+
+For øvrig puttet vi inn 2 GB DDR2-minne og vår pent brukte Blu-ray-spiller/brenner fra LG - og til slutt smatt vi lokket på plass igjen. 
+
+Den ser unektelig bra ut! 
+
+Tastatur og mus 
+
+Et lite trådløst tastatur og mus på stuebordet fungerer etter vår mening langt bedre enn en fjernkontroll, og er kompatibelt med alle programmer. 
+Vårt valg falt på denne pakken. 
+
+Og prisen? 
+
+Så er turen kommet til å oppsummere hva herligheten har kostet oss: 
+
+Kabinett: 700 kr Hovedkort: 500 kr Minne: 300 kr * Blu-ray-brenner: 1500 kr / 600 kr Prosessor: 1300 kr Harddisk: 650 kr Tastatur/Mus: 350 kr ** Operativsystem: 0 kroner ---------------------------------- Totalt: 
+5300 kroner (4400 kr med BD-ROM) =================== 
+
+* Vi kunne ha brukt en BD-ROM. 
+Disse koster fra 600 kr nå 
+** Vi brukte 90-dagers versjonen av Windows 7. Etter dette vil vi muligens svitsje til gratissystemet Ubuntu Linux. 
+
+Stue-PC-en på plass under PVR-en 
+
+Første oppstart 
+
+Så kom den mest spennende delen, den første oppstarten. 
+Et svakt blått lys kom til syne mellom reset-knappen og USB-portene, så svakt at det aldri vil være til sjenanse. 
+Når harddisken ble aksessert ble det litt sterkere, men stadig like lite sjenerende. 
+
+Viftene derimot, var langt mer sjenerende. 
+Ikke direkte bråkete, men meget godt hørbart fra sofakroken - nok til at husets mest lydfølsomme ville sette foten ned. 
+Men før vi gikk videre med saken installerte vi Windows 7, gjorde noen nødvendige tilpasninger av grensesnittet, før vi installerte Spotify, XBMC og kopierte over en del filmer for videre testing. 
+
+Vi hadde valgt energieffektive komponenter, og ville prøve ut mulighetene til å kjøre mediesenteret med færre vifter - men selv med to av de tre viftene deaktivert ble vi ikke helt fornøyd. 
+
+Uten kabinettvifter? 
+
+Her vil vi med stor sannsynlighet bytte ut viftene med noen mer støysvake, gjerne med aktiv regulering av hastigheten. 
+I påvente av disse har vi i et par dager kjørt mediesenteret uten kabinettvifter. 
+Dette er naturligvis ikke noe vi anbefaler andre å gjøre, men i en optimal konfigurasjon kan det likevel gå greit - det avhenger imidlertid sterkt av hvilke komponenter man velger. 
+
+Etter å ha kjørt en to-timers spillefilm på loop i ett døgn, viste temperaturmåleren følgende verdier: 
+
+Høye temperaturer - ja, men ikke kritisk. 
+Vi legger til at viften i strømforsyningen gikk på et litt høyere turtall nå, men roet seg så snart avspillingen stoppet. 
+Temperaturene sank raskt inntil 10 grader på både grafikkbrikke, harddisk og prosessor. 
+
+Men er vi kommet i land? 
+
+Svaret på det spørsmålet er fortsatt kun "nesten". 
+Vi hadde håpet at mediesenteret kunne erstatte Blu-ray-spilleren også, men der er vi ikke ennå. 
+Til det er avspillingsprogramvaren for dårlig (Cyberlink PowerDVD 9), dette vil forhåpentligvis bli bedre med nye versjoner og ikke minst større utvalg av avspillingsprogrammer. 
+
+For øvrig er vi foreløpig meget fornøyde! 
+
+Bruk gjerne debatten under hvis du har tips til gode og støysvake vifter vi kan sette inn i kabinettet, eller hvis du har tips om andre smarte løsninger. 
+Du har kanskje bygget mediesenter selv? 

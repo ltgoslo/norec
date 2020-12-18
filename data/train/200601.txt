@@ -1,0 +1,82 @@
+Acer TravelMate 8200
+2006 bringer på banen ny teknologi for bærbare, med ytelse som ikke står særlig tilbake for stasjonære PCer. 
+Vi har testet det råeste fra Acer, med Core Duo dobbelkjerneprosessor fra Intel og den værste grafikken fra ATI. 
+
+Acer TravelMate 8100 omtalte vi som den kanskje mest perfekte bærbare PCen vi hadde testet. 
+Etterfølgeren 8200 legger lista enda at par hakk høyere, og vi nærmer oss dermed det perfekte enda litt til. 
+Helt fram kommer vi jo aldri. 
+
+LES OGSÅ: 
+
+Det som skiller 8200 fra forgjengeren er ikke så mye i eksteriøret, men inni er det snakk om en helt ny platform. 
+Her er det siste generasjon prosessorer og brikkesett fra Intel som gjelder: 
+Core Duo var installert på vår testmaskin, som er dobbeltkjerne-utgaven av Intels nyeste prosessorer for bærbare. 
+Prosessoren heter T2500 og kjører på 2 GHz med 667MHz bushastighet. 
+
+Eksemplaret vi har testet var en engineering prototype og var ikke helt ferdig på alle områder. 
+Dette kan ha påvirket ytelse og oppførsel, vi kommer derfor også til å teste produksjonsmodeller når de blir tilgjengelige. 
+
+Spesifikasjoner 
+
+Prosessor Intel Core Duo @ 2 Ghz 15,4" skjerm (1680 x 1050) 2 GB DDR2-533-minne 120 GB Seagate Momentum harddisk (5400 rpm) 8x DVD Super-Multi dual-layer Mobility Radeon X1600 (512 MB) 54 Mbps WLAN (a/b/g) 10/100/1000 LAN + modem 4x USB, 1x FireWire, lyd inn/ut + S/PDIF ut Infrarød port og Bluetooth Smartkortleser og PC Card kortplass 5-in-1 kortleser SD, MMC, Memory Stick, Memory Stick PRO, xD-Picture Card DVI, VGA og TV-utgang Integrert Acer OrbiCam 1.3 megapiksel CMOS kamera Dimensjoner (B/D/H): 
+364x271x38 mm Vekt 3 kilo Pris: 
+21.995 kr inkl. mva. 
+
+Både utstyrsnivået og ytelsen har blitt forbedret, ikke minst på grafikksiden. 
+Dermed er det ikke noe problem å spille f.eks. Battlefield 2 på denne maskinen. 
+
+Selve skjermen har de samme egenskapene som på 8100, og fungerer utmerket i alle sammenhenger. 
+Betraktningsvinkelen er begrenset, men på en bærbar er ikke dette så problematisk som på en frittstående LCD-skjerm. 
+
+Solid og elegant 
+
+Utførelsen er rimelig solid, lokket er i kullfiber innbakt i plast, og skal gi god beskyttelse. 
+Det var likevel ikke noe problem å lage terreng på skjermen ved å presse fingrene mot baksiden av lokket. 
+
+Designet er stilig, selv om noen vil være mindre begeistret for plasseringen av alle tilkoblingene på forsiden. 
+Dette bryter med et rent design, men det er stort sett praktisk. 
+Lyd og Firewire ville vi vel egentlig ha plassert på siden, men dette er en smaksak. 
+
+Plasseringene av de andre tilkoblingene er utmerket. 
+
+Støy og varme 
+
+Viften går stort sett hele tiden, maskinen er på ingen måte blant de mest stillegående. 
+Dessuten er temperaturen på varmluften som kommer ut på høyre side nesten 50 grader, målt i åpningen. 
+
+Sitter man på et kaldt rom om vinteren med tilkoblet mus og er høyrehendt, får man en behagelig ovn-effekt på mus-hånden. 
+Om sommeren er det neppe like stas. 
+
+Ytelse 
+
+Der hvor denne PCen virkelig knuser alt som er av konkurrenter, er i ytelse. 
+Resultater fra PCMark 04 var på hele 6318, som er klart raskere enn vår egen stasjonære AMD 64 X2 3800+, den greide bare 5521. 
+Ingen av de ordinære stasjonære PCene vi noen gang har testet har kommet over 5000. 
+
+Diskytelsen er noe lavere enn 3.5-tommers disker, men Seagate Momentum på 120 GB har svært bra ytelse til tross for størrelsen og sine 5400 omdreininger. 
+
+3DMark 03 var også imponerende for en all-round bærbar, med 7998 poeng. 
+Her er det likevel et godt stykke opp til det rene spill-PCer presterer, de mest avanserte klarer over 20 000. 
+Men da er prisen deretter. 
+
+Batterilevetiden målte vi med Batterymark til 2:53 som må regnes som svært bra for en maskin med disse ytelsene. 
+I vanlig bruk kan du typisk legge til en time. 
+
+Flere detaljer og tekniske data 
+
+Smart ekstrautstyr 
+
+TravelMate 8200 lever opp til navnet ved å tilby både integrert webkamera i lokket (standardutstyr) og en IP-telefon i PC Card format (ekstrautstyr). 
+
+Webkameraet fungerte helt utmerket hvis lysforholdene er gode, det er dessuten en stor fordel at det sitter i rammen. 
+Plassering av løst 
+webkamera oppå skjermen er ellers alltid en utfordring. 
+
+IP-telefonen, som bruker et Bluetooth-basert håndsett som er det tynneste vi noen gang har sett, fikk vi ikke testet. 
+Vi fikk nok en gang erfare at Bluetooth ikke er så enkelt i praksis som det er tenkt... 
+Men konseptet er genialt, med en ultrakompakt håndsett-løsning som sitter i PCens kortplass når den ikke brukes. 
+Den støtter Skype og MSN. 
+
+Konklusjon 
+
+Som nevnt i innledningen var vårt testeksemplar ikke en produksjonsmodell, men vi er likevel imponert over ytelsen og fortsatt begeistret over det generelle designet som denne serien representerer. 

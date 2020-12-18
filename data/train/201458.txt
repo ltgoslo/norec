@@ -1,0 +1,111 @@
+HP Pavilion X360
+Fleksibel hybrid mellom PC og nettbrett, med flere smarte bruksmodi. 
+Her er våre meninger om HP sin nyvinning. 
+
+Hybrid-markedet har på ingen måte tatt av, og det er mange årsaker til det. 
+En av dem er at kompromissene ofte blir litt mange; maskinene er for eksempel som regel mye tyngre enn rene nettbrett, koster ofte mye mer, og så finnes det ikke noen hybrid med et navn som starter på en liten i. 
+
+Det er kanskje det denne produktkategorien trenger hvis interessen skal få en boost. 
+
+Ser lovende ut 
+
+På papiret ser imidlertid HP sin knallferske hybridsatsing X360 spennende ut, ikke minst takket være den knallrøde innpakningen, lav pris, og det faktum at skjermen kan snus rundt 360 grader. 
+Mer om det senere, først skal vi ta en kjapp titt på de viktigste spesifikasjonene: 
+
+Skjerm: 11,6" berøringsskjerm, blank, TN-panel, 1366 x 768 piksler Prosessor: 
+Invel Celeron N2820 (2,13 GHz) RAM: 
+4 GB (som også er maks) Grafikkort: 
+Intel HD Graphics Lagring: 500 GB harddisk, 5400 rpm Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 2 x USB 2.0 + 1 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+Ja, for SD-kort Trådløst nett: 
+802.11n Kablet nett: 10/100 Mbit Annet: 
+Bluetooth 4.0 OS: 
+Windows 8.1 64-bit Størrelse: 30,8 x 21,5 x 2,19 cm Vekt: 
+1,4 kg Pris: 
+Fra 3.790 kr (jf Prisjakt 28.4.2014) 
+
+Det er flere ting som bør vekke en viss interesse hos mange. 
+Først at maskinen har en lav pris. 
+Dernest at den veier såpass lite som 1,4 kg. 
+At den har stor lagringsplass vil også være et pluss for mange, og vi merker oss også at den er mulig å koble til kablet nett, men dessverre bare med 100 Mbps, noe en god trådløs N-forbindelse er i stand til å matche. 
+
+Friske farger 
+
+Selve innpakningen er i knallrød plast, (en grå utgave finnes også). 
+Overflaten er matt, og fingeravtrykk vises knapt. 
+På innsiden har HP benyttet aluminium rundt tastaturet, noe som ikke bare gir et litt mer robust uttrykk, det er også kledelig i våre øyne. 
+
+Tastaturet er av chicklet/island-typen, der alle tastene er isolert fra hverandre. 
+Dette er nærmest blitt malen i dag. 
+Platen er overraskende godt avstivet, og tastene er faste og responsive. 
+Det avgir også lite støy under bruk. 
+
+På venstre side sitter av/på-bryteren nærmest skjermen, en USB 2.0-port, mic/lyd ut, samt volumkrontroller. 
+
+På motsatt side sitter minnekortleser, en USB 3.0-port, en USB 2.0-port, HDMI-utgang og ethernet-kontakten. 
+
+Ikke noen superskjerm 
+
+Skjermen har 10 berøringspunkter, og er temmelig blank, selv om vi har sett blankere. 
+Oppløsningen er ganske lav, noe som er med på å holde prisen nede. 
+Det er også benyttet TN-panel, som ikke gir den beste innsynsvinkelen. 
+Skjermopplevelsen blir av den grunn ganske mye dårligere enn for eksempel på en iPad, men rett forfra fungerer den greit. 
+
+En stor fordel er det imidlertid at skjermen kan snus helt rundt, og dermed åpner det seg flere bruksmåter, som vi har illustrert her: 
+
+KINOMODUS: 
+Du kommer tett inn på skjermen og behøver ikke å forholde deg til tastaturet. 
+
+TELTMODUS: 
+Nyttig blant annet når du ønsker at minst mulig av maskinen skal berøre bordplaten, på kjøkkenbenken med oppskrifter på skjermen, for eksempel. 
+
+Denne 360-graders-løsningen er imidlertid ikke noen ny oppfinnelse, Lenovo sine Yoga-maskiner har hatt tilsvarende løsning lenge, men da snakker vi om maskiner i en helt annen, og mye høyere prisklasse. 
+
+Brukeropplevelsen 
+
+Så hvordan er den egentlig i bruk? 
+Vel, man skjønner tidlig at dette ikke er noe råskinn av en maskin. 
+Den er utstyrt med en strømgjerrig Intel Celeron-prosessor som krever at en del programmer og funksjoner må installeres og konfigureres med omhu, for ellers blir det vel mye venting. 
+Vi er jo vant med svært lite venting i nettbrett-verdenen, ikke sant? 
+
+En titt på listen over installerte programmer avslører at HP ikke har differensiert oppsettet fra langt kraftigere maskiner og PC-serier, og det merkes. 
+Ta for eksempel sikkerhetspakken fra McAfee, den har en tendens til å stresse den enkle maskinvaren, noe som resulterer i at andre prosesser blir forsinket. 
+
+Konstant vifte 
+
+Ikke nok med det, når den belaster prosessoren med over 60 prosent uten noen spesiell grunn, kreves det kjøling. 
+Og kjøling er det ingen tvil om at HP har tenkt på, for her går viften mer eller mindre konstant, også etter at vi avinstallerte McAfee og overlot ansvaret for sikkerheten til den innebygde Microsoft Defender-pakken. 
+
+Men selv etter dette grepet er det ingen tvil om at HP med fordel kunne ha laget en noe lettere programvarekonfigurasjon til denne hybriden, for her går det ofte litt tregt. 
+Et iOS/Android-nettbrett til samme prisen vil gi en mye bedre brukeropplevelse i så måte, gjerne parret med et Bluetooth-tastatur hvis du skulle ha behov for det. 
+
+Fordelen med X360 er selvfølgelig at her kan du kjøre alle Windows-programmene dine, men vær forberedt på både venting og en vifte som til tider kan være litt hissig, spesielt på klassiske skrivebordsprogrammer. 
+
+Fjern bremseklosser 
+
+Flyten er mye bedre i Modern UI-sfæren, hvor også de fleste appene er mindre krevende enn vanlige Windows-programmer. 
+Også videoavspilling i alle oppløsninger inntil 1080P går greit, i hvert fall gjennom Modern UI-videoappen. 
+
+Ideelt sett skulle maskinen hatt SSD og en renere Windows-installasjon. 
+Har man kompetanse kommer man også et godt stykke på vei ved å gå gjennom listen over kjørende prosesser og programmer, og fjerne unødige bremseklosser fra oppstarten. 
+
+Batteritiden kunne også vært bedre, vi målte 4 timer og 10 minutter kontinuerlig videoavspilling, noe som indikerer mellom 5 og 6 timer ved variert bruk. 
+Vi gir likevel godkjent karakter her, produktprisen tatt i betraktning. 
+
+Konklusjon 
+
+Så hva er det vi egentlig har med å gjøre her? 
+Jo, en lavspesifisert PC kombinert med nettbrettfunksjonalitet, riktignok smart konstruert, til en pris som ligger omtrent på nivå med en iPad Air med et rimelig eksternt tastatur. 
+iPad Air er overlegen på batteritid, skjerm og veier det halve. 
+
+Middelmådig + middelmådig blir sjelden veldig bra, og det som er synd er at HP faktisk kunne ha gjort produktet langt mer attraktivt ved å: 
+
+1. 
+Byttet ut harddisken med en rimelig 128 GB SSD, og hevet prisen til 3.990 kroner. 
+2. Laget en program- og applikasjonspakke som er tilpasset den relativt enkle maskinvaren. 
+Det som kommer med PC-en oppleves som overveldende, og du må stadig forholde deg til varsler og popups. 
+Slikt lukter det lite 2014 av, dessverre. 
+
+HP Pavilion x360 11-N000eo 

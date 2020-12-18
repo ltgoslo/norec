@@ -1,0 +1,149 @@
+Macbook Pro Retina
+Du må nesten se skjermen for å tro det – 2880x1800 piksler på en 15" er helt vanvittig skarpt. 
+
+Rett før sommerferien viste Apple frem dagens testprodukt, den nye Retina-utgaven av Macbook Pro. 
+Retina-begrepet bruker Apple om skjermer som er så skarpe at du på normal betraktningsavstand ikke vil være i stand til å skille punktene fra hverandre. 
+
+For – mens den "vanlige" 15"-utgaven av Macbook Pro har en oppløsning på 1680x1050 piksler, er antall piksler tredoblet på den nye utgaven, til 2880x1800. 
+
+Så høy oppløsning på en bærbar PC har verden aldri sett før. 
+
+Dette tilsvarer 220 punkter pr tomme; altså ikke like tette punkter som 326 punkter pr tomme på iPhone 4s, men med en atskillig større normal betraktningsavstand enn den på en mobiltelefon. 
+
+Og la det være sagt med en gang – jeg ble imponert da iPad 3 ble lansert med sin høye oppløsning, men jeg blir faktisk enda mer imponert over denne skjermen. 
+Å se bilder i fullskjermmodus gav oss fullstendig hakeslipp første gang. 
+
+Ja, jeg gikk faktisk rundt i kontorlokalene våre for å vise den til alle. 
+
+Spesifikasjoner 
+
+Før vi begynner på spesifikasjonene, kan det være greit å understreke følgende: 
+Om du kjøper Retina-Macbooken må du bestemme deg for spesifikasjonene med en gang, noe Apple lar deg gjøre i sin nettbutikk. 
+Hverken minne eller lagring kan oppgraderes i etterkant – det er medaljens bakside når Apple virkelig har krympet en såpass kraftig maskin til det minimale med tanke på mål og vekt. 
+
+Oppdatert 29/8: 
+Det finnes en tredjepartsløsning for å bytte ut SSD-disken, som foreløpig er dyrere enn oppgraderingen fra Apple, men som da kan gjøres i etterkant. 
+Med denne følger det også med spesialverktøy for å skru av hele baklokket, men Apple har ikke akkurat konstruert maskinen hensiktsmessig i forhold til å bytte ut SSD-disken. 
+
+Apple selger Macbook Pro Retina i to basisutgaver, der begge kan oppgraderes her og der mot tillegg i prisen. 
+Den billigste utgaven starter på kr 17.990 og ser slik ut spesifikasjonsmessig (testet modell i parentes der det er avvik): 
+
+Prosessor: 
+Intel Core i7, 2.3GHz (2.6GHz)Arbeidsminne: 
+8GB RAMLagring: 
+256GB flashminne (512GB)Skjerm:15,4" 2880x1800Skjermkort: 
+Intel HD Graphics 4000 + NVIDIA GeForce GT 650M 1GBTilkoblinger: 2x USB3, 2x Thunderbolt/mini DisplayPort, HDMI-ut, SD-kortleser, 3,5mm/optisk lydutgang, MagSafe 2-strømkontaktMål og vekt: 35,9x24,7x1,8cm / 2,02kgAnnet: 
+Bakbelyst tastatur, FaceTime HD camera (720p), styreflate med flerberøring (multitouch)Pris: 17.990 (testet modell: 
+22.490,-) 
+
+Prisjakt.no 
+
+Delikat konstruksjon 
+
+Apple overrasker ikke når det gjelder design og konstruksjon – her får du akkurat samme type maskin som øvrige Macbook-modeller, selv om denne er imponerende tynn og lett (25% tynnere). 
+
+Unibody-design i aluminium (frest ut av ett stykke aluminium), et svært komfortabelt tastatur (med bakbelyste, separerte knapper), en stor styreflate i glass som støtter flerberøring (markedets beste i våre øyne) og den geniale og patenterte MagSafe 2-porten; en magnetisk ladekonstruksjon som gjør at ledningen bare faller ut om du snubler i den, i stedet for at den knekker og blir sittende fast, eller kanskje enda verre – gjør at PC-en faller i gulvet. 
+
+Konstruksjonsmessig er det altså lite å utsette på Apples produktlinje. 
+
+Det er også gledelig å se at USB3 er på plass i den nye modellen, og at det nå også finnes HDMI-utgang slik at du slipper å bruke adaptere når du vil koble maskinen til en HDTV. 
+
+Merk imidlertid at det bare er to USB-porter (én på hver side), og at dette er den første Macbook Pro-maskinen uten optisk drev. 
+Har du behov for å lese DVD-plater, kan du kjøpe en ekstern spiller, og maskinen har heller ingen nettverksport, men dette kan løses via en USB-overgang. 
+
+Og altså den avsindig skarpe skjermen, men den har vi allerede nevnt. 
+Vi skal komme tilbake til den ved nok en anledning også. 
+
+Her ser du en 360-videopresentasjon av maskinen (video av Per Ervland): 
+
+OSX 
+Mountain Lion 
+
+Den nye Retina-Macbooken kommer med siste utgave av OSX, Mountain Lion, forhåndsinstallert. 
+I tillegg får du med Apples iLife '11-pakke, med iPhoto (bildeprogram), iMovie (videoredigering) og GarageBand (musikkprogram). 
+Disse programmene er brukervennlige og gode nok for Folk Flest™, men vi regner med at de står foran en oppgradering rundt juletider, siden iLife-pakken pleier å bli sluppet annethvert år. 
+
+Mountain Lion (OSX v10.8) har fått over 200 nyheter i forhold til forgjengeren (Lion, 10.7), og blant høydepunktene finner vi støtte for AirPlay-speiling (der hele skjermbildet kan sendes trådløst og kryptert til en Apple TV), full støtte for Apples nettlagringstjeneste iCloud, diktering (tale til tekst, ikke tilgjengelig på norsk), engangsinnlogging for Facebook og Twitter, varslingssenter, Game center (sosial spilltjeneste), iMessage (gratismeldinger mellom OSX/iOS-brukere), Power Nap (oppdaterer programmer, synker etc. når maskinen står i dvale) og påminnelser, samt en rekke oppgraderinger av kjerneprogrammer som Finder, Safari og Mail. 
+
+Ekstrem oppløsning – ikke uten ulemper 
+
+Mens de til nå beste bærbare PC-skjermene stort sett har hatt 1920x1080/1200-oppløsning, er altså oppløsningen på Macbook pro Retina hele 2880x1800. 
+2,5 ganger så mange piksler som full HD-oppløsning. 
+
+For at ikke alt skal fremstå bittelite, har Apple valgt å foreta en skalering. 
+Du må derfor velge en "simulert" oppløsning, som standard er 1440x900, altså halvparten av pikslene i hver retning. 
+Åpner du en nettside med standardinnstillingen på denne maskinen og en med 1440x900-oppløsning vil du altså se samme utsnitt i denne modusen, men der teksten er vesentlig skarpere, siden fonter (vektorbasert) lar seg blåse opp uten å bli pikslete. 
+Det gjør imidlertid ikke bildene. 
+
+Og dermed får man litt den samme følelsen som på iPad 3, der bildene rett og slett ikke ser pene ut ved siden av den vanvittig skarpe teksten – de ser faktisk mindre pene ut enn de gjør på skjermer med lavere oppløsning). 
+Det blir imidlertid langt penere om du velger å zoome litt ut (altså gjøre teksten mindre), og på de fleste nettsider har vi derfor valgt å zoome ut to "hakk". 
+
+I mange programmer som ikke ennå er optimalisert for Retina-skjermen vil det også bli en salig blanding av skarp tekst og uskarpe bilder. 
+Under ser du for eksempel hvordan Spotify ser ut, der strømmen på høyre side ikke har Retina-oppløsning, men der sangene i spillelisten har det. 
+
+Og her er Google-logoen, der "Norge" er skrevet med tekst, men der logoen er et bilde. 
+Merk at forskjellen er enda tydeligere på Retina-skjermen og at det nesten ser ut som om Google-logoen er utenfor fokusområdet: 
+
+Du kan også bruke skjermen i andre modi, f.eks. "føles som 1920x1200"-modus. 
+Da vil du i praksis se det samme som om skjermen hadde 1920x1200-oppløsning og derfor se mer innhold på en nettside av gangen. 
+Bildene blir da også mindre og forskjellen ikke like påtakelig mellom skarp tekst og mindre skarpe bilder. 
+Ulempen, dog – ser du på et bilde i fullskjermmodus føles også det som 1920x1200; dvs uten hakeslipp-faktoren. 
+
+Med andre ord er det altså ikke en ubetinget fordel med så høy skjermoppløsning foreløpig, men det finnes metoder for webutviklere der de kan levere bilder med høyere oppløsning slik at de fremstår like skarpe som teksten. 
+En surferunde hos flere av landets største nettsteder viser imidlertid at ingen foreløpig har implementert dette. 
+
+For ordens skyld har skjermens IPS-panel meget god innsynsvinkel både horisontalt og vertikalt og relativt god lysstyrke. 
+Maskinen kan også tilpasse lysstyrken på skjermen automatisk ut fra omgivelsene, og dette skjer ganske trinnløst og pent. 
+
+Meget god ytelse 
+
+Med flashminne over hele fjøla har vi lite å utsette på oppstartstid og generell respons. 
+OS X starter på snaue 10 sekunder fra du trykker på av og på-knappen, og på våre målinger fikk vi lese- og skrivehastighet på henholdsvis 450 og 400 MB/s, som også må anses som meget godt. 
+
+Med splitter ny Ivy Bridge-prosessor scorer retina-utgaven av Macbook pro også godt på ytelsestester. 
+Geekbench-resultat på 11812 (32-bit) er svært godt for en bærbar PC, og med et relativt godt skjermkort i 650M fra NVIDIA er dette en maskin med krefter nok til å redigere video, spille spill eller hva det måtte være. 
+
+Vi merker oss dog at det tar noen sekunder når man vekker maskinen fra dvale. 
+Skjermbildet er på plass umiddelbart, men det tar ca 5 sekunder før markøren i passordboksen blir aktivert. 
+Dette har vi ikke opplevd på øvrige Macbook-modeller de siste par årene. 
+
+WiFi-antennen opplever vi også som meget god. 
+I kjelleretasjen har vi fullt signal der øvrige enheter sliter – Xboxen rett ved siden av har én WiFi-bue (av fire); mobiltelefonen likeså. 
+
+Støymessig er det fint lite man hører ved normal bruk – med mindre man legger øret inntil. 
+Ved tyngre oppgaver, som spill eller ytelsestesting, fyres viftene opp og høres godt, men bare som en jevn sus som ikke er spesielt sjenerende. 
+Som med øvrige maskiner fra Apple blir maskinen ganske varm ved belastning (aluminium leder varme godt), og tyngre bruk med maskinen i fanget kan fort bli ubehagelig, mens lettere bruk (nettsurfing og den slags) derimot er uproblematisk med tanke på varme. 
+
+Batteritiden er oppgitt til 7 timer ved "trådløs produktivitet"; altså "normal" bruk der man surfer på nettet, hører på musikk og den slags. 
+Ved tyngre belastning, som å se HD-film, kan du regne med 4-5 timers batteritid. 
+Vår to timer lange film tømte batteriet for snaue halvparten av kapasiteten, da med lysstyrke på ca 2/3 av maksverdi. 
+
+Konklusjon, Macbook pro Retina 
+
+Med så til de grader markedsledende oppløsning på en bærbar PC er den nye Retina-Macbooken foreløpig unik i dagens marked. 
+
+Bildet er rett og slett så skarpt at du må se det for å tro det. 
+
+Foreløpig er det imidlertid være en noe blandet opplevelse. 
+Langt fra alle programmer og svært få nettsider er optimaliserte for denne skjermen, og det resulterer i varierende kvalitet på innholdet, der ren tekst er sylskarp, mens bilder er langt fra like skarpe. 
+
+Det gjør at det største salgsargumentet for å kjøpe denne maskinen ikke er helt uten ulemper. 
+Dog er det godt mulig at det vil bli bedre med tiden. 
+
+I bruk er maskinen svært rask, med siste generasjons Intel-prosessor og et meget habilt skjermkort. 
+Verdt å sette pris på er også den svært gode styreflaten, et behagelig tastatur og ikke minst – Apples smarte magnetiske lademekanisme som gjør at ledningen faller ut om du snubler i den, i stedet for å knekke eller dra maskinen med seg over bordkanten. 
+
+Vær imidlertid oppmerksom på at den tynne konstruksjonen heller ikke er uten ulemper. 
+Maskinen kan ikke oppgraderes i etterkant, og du finner hverken optisk drev eller nettverksport på Retina-Macbooken. 
+
+Oppdatert 29/8: 
+Se notis vedrørende SSD-oppgradering lenger opp i artikkelen. 
+
+Prisen er også høy, der innstegsmodellen koster 18.000 kroner. 
+Ser du bort i fra skjermen kan du få like godt spesifiserte PC-er til en langt billigere penge. 
+
+Men så var det den skjermen, da. 
+Driver du mye med foto- og videorelaterte ting på PC-en, skal du ikke se bort i fra at du synes prishoppet er verdt pengene – bare det å se bilder fra ferieturen er en opplevelse utenom det vanlige. 
+
+I hvert fall om du allerede har bestemt deg for å kjøpe en Mac. 
+Sammenlignet med "vanlige" Macbook Pro betaler du slett ingen upris for Retina-utgaven, for dersom du da bytter ut harddisken med 256GB SSD og dobler minnet fra 4 til 8GB, ender du opp på en relativt lik prislapp (gitt at du gjør det selv – den blir dyrere dersom du endrer ved bestiling), da riktignok med både nettverksport og optisk drev. 

@@ -1,0 +1,134 @@
+Samsung EX1
+Markedets mest lyssterke kompaktkamera. 
+
+Samsung EX1 er et kamera myntet på kameraentusiasten; et avansert kompaktkamera spekket med funksjoner, og med en spesifikasjonsliste der det finnes opptil flere høydepunkter. 
+
+Mest oppsiktsvekkende er objektivet, som har en lysstyrke på f/1,8 på vidvinkel; altså enda litt mer lyssterkt enn Panasonic LX5, som vi skrev om forleden dag. 
+Vidvinkelen tilsvarer også 24mm, og med 3x optisk zoom er objektivet også lyssterkt i teleenden, med f/2,4 som største blender. 
+
+Hva betyr dette i praksis? 
+Blendertallet angir forholdet mellom brennvidden og blenderåpningens diameter, og jo lavere tallet under brøkstreken er, desto større er åpningen (f/1,8 leses som fokallengde dividert på 1,8). 
+Jo større denne åpningen er, desto mer lys slipper igjennom, og derfor vil et objektiv med lysstyrke på f/1,8 for eksempel slippe igjennom (2,8/1,8)² = 2,4x så mye lys som et objektiv med lysstyrke på f/2,8. 
+Det betyr med andre ord at du kan bruke 2,4x så kort lukkertid for å få inn like mye lys (og dermed kunne få skarpere bilder i dårlig lys), eller halvere følsomheten (og dermed få mindre støy i bildet) og fortsatt kunne bruke litt kortere lukkertid. 
+
+Samsung-kameraet har imidlertid mer å by på - bare se på de tekniske spesifikasjonene: 
+
+Konstruksjon 
+
+Entusiastmodeller er ofte større fysisk enn de mer enkle kompaktkameraene, og Samsung EX1 er intet unntak. 
+Lyssterk optikk krever sitt, og EX1 har også et vell av knapper og hjul, samt en stor skjerm med høy oppløsning som også kan vippes ut og roteres alle veier. 
+Kameraet føles solid og har et gummibelagt grep med ru overflate som gjør at det kjennes godt å holde i. 
+
+Vi liker godt hvordan Samsung har gitt EX1 snarveier til det aller meste uten å måtte gå veien om menyene. 
+På toppen av kameraet finnes det to funksjonshjul - ett som bytter mellom ulike opptaksmodi (P/A/S/M/Auto + video og scenemodi), og ett som lar deg bytte kjapt til seriefoto, bracketing (der tre bilder tas med ulik eksponering slik at du senere kan sette dem sammen til et HDR-bilde) og selvutløser (2 eller 10 sekunder). 
+
+Blitsen spretter opp når du skyver på en bryter, og automatikken åpner den ikke for deg uten at du selv har aktivert den. 
+Kameraet har også et lite hjul på fremsiden som brukes for å endre enkelte innstillinger. 
+Det finnes ett på baksiden også, som gjør at du ved manuell eksponering kan justere både blender og lukker samtidig. 
+
+Skjermen er av typen AMOLED med høy oppløsning (614.000 punkter), og den fremstår som meget skarp og med svært god fargegjengivelse. 
+Skjermen kan også vippes ut og roteres både opp og ned som gjør at det blir lettere å ta bilder med hendene over hodet eller fra hofta, og en annen bonus er at du da kan vinkle skjermen inn mot kamerahuset for å beskytte den når du er på tur. 
+
+EX1 er også rikt utstyrt på knappefronten - her er piltastene også snarveier til blits, iso, makro og informasjonsvisning, i tillegg til hjulet rundt kan brukes for å bla kjapt i bilder og navigere i menyene. 
+Dog skulle vi gjerne hatt litt større piltaster for enda litt bedre komfort, men det ville naturligvis også ha medført et større kamerahus. 
+
+Siden dette er en entusiastmodell finnes det også knapper som ikke er så vanlig på et kompaktkamera, blant annet en dedikert knapp for å endre typen lysmåling, samt en knapp for å låse eksponeringen. 
+Du kan også starte videoopptak med en egen knapp, men det er verdt å merke seg at EX1 ikke kan filme med HD-oppløsning, som tross alt begynner å bli ganske vanlig blant dagens kompaktkameraer. 
+
+Bak et lokk på siden av kameraet, har EX1 utgang til micro-HDMI, samt en proprietær kontakt som kan brukes til å lade kameraet, eller koble det til en PC via en medfølgende USB-kabel. 
+Minnekort og batteri gjemmer seg bak et lokk i bunnen av kameraet, med en ekstra tapp over batteriet slik at det ikke faller ut når du åpner lokket. 
+
+Alt i alt - konstruksjonsmessig gir EX1 et solid inntrykk. 
+Det føles dyrt, har en knallbra skjerm og et godt utvalg av knapper for entusiasten. 
+
+Brukervennlighet 
+
+Menyene i de nye Samsung-kameraene er ganske oppsiktsvekkende i forhold til tradisjonelle kameraer. 
+Samsung smører på med blinkeeffekter og sterke farger, og det hele ser unektelig ganske lekkert ut. 
+
+EX1 er forholdsvis lett å betjene. 
+Vi sier forholdsvis fordi det er et par ting vi gjerne skulle ønske Samsung gjorde litt bedre. 
+Eksempelvis skulle vi prøve å bruke manuell fokus, men valget var grået ut. 
+Kameraet gir dog ingen beskjed om hvorfor. 
+Etter å ha tuklet litt rundt i menyene, finner vi ut at det er fordi ansiktsgjenkjenning er aktivert. 
+På samme måte fikk vi ikke til å slå av bildestabiliseringen da vi skulle bruke selvutløseren. 
+Heller ikke er finnes det noe varsling, og strengt tatt synes vi det er en litt snodig avgjørelse, siden bildestabilisatoren med fordel kan slås av når kameraet står på stativ. 
+
+I tillegg finner vi struktureringen av Fn-menyen (en hurtigmeny bak en egen knapp) noe vanskelig å få tak på, siden skrolling opp og ned bare bytter ut aktiv funksjon uten at det kommer helt tydelig frem hvor i listen man er (menyelementene gjentar seg bare nedover). 
+Enkelte ting oppleves altså som litt tungvint, men grensesnittet gjør det uansett lett å forstå det aller meste, og nederst på alle skjermbilder vises det hvilke knapper som gjør hva. 
+
+Det er også mye ved betjeningen som er verdt å trekke frem. 
+Vi liker godt hjulet på toppen som gir kjapp tilgang til seriefoto, selvutløser og bracketing, og med to hjul (ett foran og ett bak) er det lekende lett å bruke manuell eksponering der det også vises live på skjermen hva aktuell kombinasjon av lukkertid og blenderåpning vil gjøre med den endelige eksponeringen. 
+
+Funksjonalitet 
+
+Det er lite du vil savne med tanke på funksjoner i EX1. 
+Riktignok filmer ikke kameraet med HD-oppløsning, men det aller meste er ellers på plass. 
+
+Her er noen nøkkelpunkter: 
+
+Full manuell kontroll - mulighet til å fininnstille både blenderåpning og lukkertid, samt utføre manuell fokus. 
+Sistnevnte er dog ikke så elegant utført. 
+Bracketing 
+- Både med eksponering og hvitbalanse, samt mulighet til å ta bilde og deretter velge blant 9 bildeeffekter.RAW-støtte (RAW+JPEG er også mulig)Ansiktsgjenkjenning, smilefunksjon (tar bilde når motivet smiler), blunkefunksjon (tar et nytt bilde med en gang hvis motivet blunker)Spotmåling, punktfokus og fokustracking (følger motivet når beveger seg i bilderammen, men ikke dersom det kommer utenfor)Mulighet til å stille kontrast, skarphet og fargemetningManuell hvitbalanse og mulighet for å justere hvitbalansen basert på temperatur (Kelvin)Bildeeffekter som sketch (håndtegning), retro og negativMulighet for å lade via USB 
+
+Ytelse 
+
+Ytelsesmessig har Samung EX1 litt å gå på. 
+En gang i blant hender det at vi begynner å bruke fokusen for "tidlig" slik at man må trykke på knappen en gang til. 
+Det lugger også litt her og der - bytter du over til lukkerprioritet, må du først vente på at menyen skal forsvinne (3s) eller trykke utløseren halvveis ned før du kan begynne å stille på verdien, men dette er også tilfelle på mange andre kameraer som bruker denne typen hjelpevisning på skjerm. 
+Spørsmålet er dog hvorvidt målgruppen, entusiastene trenger denne typen hjelpeinformasjon. 
+
+Oppstartsiden målte vi til 2,1s for å se bildeinformasjon på skjermen (bildet vises etter et drøyt sekund, men kameraet er ikke klart til å ta bilder før all informasjonen er på skjermen og vel så det), og i seriefotomodus klokket vi inn 16 bilder i løpet av 10 sekunder, som er helt akseptabelt for denne type kamera. 
+Autofokusen er imidlertid meget kjapp og presis, både på vidvinkel og tele, og den røde hjelpelampa bistår når det blir mørkt. 
+
+Utløserforsinkelsen scorer Samsung-kameraet godt på - den er praktisk talt fraværende uten bruk av blits, og på relativt lave 0,25 sekunder ved blitsbruk. 
+
+Batterilevetiden er oppgitt til 240 bilder (men ikke etter CIPA-standarden), som er på det jevne i forhold til andre kompaktkameraer. 
+
+Bildekvalitet 
+
+Kvaliteten på EX1-bildene varierer med situasjonen. 
+I "normale" utendørssituasjoner synes vi lysmåleren fungerer meget bra og bevarer også en grå himmel der mange andre kameraer brenner den ut, noe du ser eksempel på i bildet til høyre. 
+
+Når kontrastene økes mer, derimot, ser vi samme tendens som hos så mange andre på JPEG-bildene; de lyseste tonene blåses ut og inneholder ingen fargeinformasjon. 
+Vi ser dog også at dette ikke bare skyldes overeksponering, men at også dynamisk omfang er noe begrenset siden også skyggepartiene har mistet informasjon. 
+Vi prøvde også med kameraets innebygde smart range-funksjon uten at det tilførte noe mer fra eller til. 
+
+Vi lar oss dog imponere av objektivet, som leverer meget god skarphet over det meste av bildeflaten (merkelig nok har vi bare uskarphet i ett av hjørnene på full blenderåpning), og bildene er praktisk talt frie for kromatisk feilbrytning. 
+I tillegg er det lite fortegning å spore i bildene fra Samsung EX1. 
+
+Støymessig vil de fleste leve fint med bildekvaliteten opp til og med ISO 800, og husk også at såpass lyssterk optikk mye sjeldnere vil kreve mer enn ISO 800 enn ett som er mindre lyssterkt. 
+På ISO 1600 blir det mer fargestøy i bildene, selv om de fortsatt duger til små utskrifter og webbruk hele veien opp til ISO 3200. 
+Under ser du et 100%-utsnitt tatt med ISO 800: 
+
+Ellers skulle vi helst ha sett at den innebygde blitsen var litt kraftigere, men vi minner også om at det er mulig å kjøpe ekstern blits som ekstrautstyr. 
+
+Under kan du se bildeeksempler tatt med Samsung EX1: 
+
+Last ned alle bildene i full oppløsning: 
+
+Videofunksjon Litt skuffende er det at EX1 ikke har støtte for videoopptak i HD, og kvaliteten på opptakene er helt OK uten å briljere. 
+Lydkvaliteten er imidlertid ganske god, og det er også mulig å pause et opptak for så å fortsette igjen uten at det blir laget flere filer av opptakene, i tillegg til at kameraet som nevnt har en dedikert knapp for å starte og stoppe opptak. 
+
+Med andre ord fungerer videoopptakene fint til hverdagsbruk, men den mer kresne vil nok helle mot et kamera som kan fange bilder i HD med enda høyere kvalitet enn EX1. 
+
+Konklusjon 
+
+Entusiaster har mye å glede seg over i Samsung EX1. 
+Vi snakker om et kamera med svært robust optikk, som imponerer oss med 24mm vidvinkel og f/1.8 uten noen store optiske svakheter. 
+Bildekvaliteten er jevnt over meget god, men lysmåleren er ikke helt konsistent i alle situasjoner og må overstyres i ny og ne. 
+
+EX1 er også rikt utstyrt med funksjoner, og alt fra manuell eksponering og fokus til bracketing og RAW-støtte er på plass. 
+Foruten noen små piltaster har vi også lite å utsette på konstruksjonen, der spesielt AMOLED-skjermen (som også kan vris i alle retninger) virkelig er en godbit, og der det finnes knapper og brytere for det meste. 
+
+Det blir imidlertid litt "too much" med tanke på brukergrensesnittet, og vi opplever kameraet som litt tungrådd innimellom, i tillegg til at vi f.eks. savner tilbakemelding om hvorfor enkelte menyvalg ikke er tilgjengelige, som det ofte kan ta sin tid å finne ut av. 
+
+Det er heller ikke til å stikke under stol at 24mm vidvinkel med 3x optisk zoom gir noe begrenset tele, og vi opplevde opptil flere ganger å savne de siste millimeterne i teleenden. 
+
+Er du mest opptatt av et lyssterkt kamera med god skjerm og godt med funksjoner er EX1 definitivt verdt å vurdere, men med mindre du trenger det akkurat nå, tipser vi også om at oppfølgeren til Panasonics kritikkeroste LX3, LX5, er rett rundt hjørnet. 
+
+EX1 er imidlertid billigere enn det LX5 vil koste (det koster allerede en drøy femhundrelapp mindre enn LX3) og er etter vår mening mye kamera for pengene; vel å merke hvis du kan leve med svak tele og enkelte småting i brukeropplevelsen. 
+
+Vi har allerede lekt oss med LX5 og det lovet svært godt. 
+Vi skal selvsagt kaste oss over det så fort vi får muligheten. 

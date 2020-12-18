@@ -1,0 +1,82 @@
+Leap Motion
+En skal være forsiktig med å stole på store ord. 
+
+Hvis vi hadde fått en krone for hver gang vi ble lovet en teknologisk revolusjon som ikke leverte, hadde vi hatt rundt 297 kroner i lommeboka akkurat nå. 
+Da vi skrev om Leap Motion for hele 15 måneder siden var vi, og resten av verden, ganske sikre på at produktet var klar for markedet om ikke så veldig lenge, og at det skulle bli en slags revolusjon. 
+
+Markedsføringsmaterialet til Leap var av den typen som får tenner og andre kroppsdeler til å løpe i vann: en bitteliten boks som plasseres på pulten, og som gjør at du simpelthen kan veive og flytte og klappe(!) for å male, lage musikk, spille spill eller styre PC-en eller Macen med enkle håndbevegelser. 
+Leap registrerer forskjellen på en hånd med én finger og for eksempel fire fingre, og den forstår du vrir på hånda - eller når du flytter hånda lenger unna eller nærmere enheten. 
+
+Det ser fortsatt imponerende ut når en besøker selskapets hjemmesider, men når vi endelig har fått en kraftig forsinket utgave mellom (og foran) hendene ble opplevelsen litt mindre «Back To The Future» enn vi hadde håpet. 
+
+Grei nok start 
+
+Installasjonen av Leap Motion går greit. 
+Du kobler først den beskjedne hovedenheten til Macen eller PCen, men husk å koble den direkte til maskinen - ikke gå via en USB-hub. 
+Det gjorde vi først, og da ble ytelsen til Leap-dingsen merkbart dårligere. 
+
+Så installerer du Airspace, som er stedet hvor alle Leap Motion-appene du har kjøpt eller lastet ned gratis havner. 
+Pussig nok har produsenten valgt å legge selve app-butikken til nettleseren, slik at du blir flyttet ut av Airspace når du vil bla deg gjennom de tilgjengelige appene. 
+Hadde det ikke vært en idé å legge appene og app-butikken i samme programmet? 
+
+Det første du sannsynligvis gjør som som fersk Leap-eier er å teste et par av demo-programmene som følger med. 
+De programmene likte ikke vår tre år gamle Mac særlig godt, og den pustet og peset mens Leap Motion forsøkte å holde orden på håndbevegelsene våre. 
+
+Tung å drive 
+
+Leap stjeler nemlig mye prosessorkraft - uvant mye til å være en, riktignok avansert, USB-kontroller. 
+På vår hjemme-Mac fra 2012 med mye sprekere prosessor ble det heldigvis en annen opplevelse, men vær uansett klar over at du ikke kan koble Leap til en hvilken som helst bærbar eller stasjonær maskin. 
+Du bør også være forberedt på å høre viften fra maskinen langt oftere enn vanlig. 
+
+Likevel, vi ble ikke overveldet av demo-programmene. 
+Molekyl-grafikk-programmet er for så vidt hyggelig nok, og det er litt morsomt å zoome inn og ut av molekylstrukturen ved å bevege hånda henholdsvis mot og bort fra skjermen, samtidig som en vrir på hånda - og ser at molekylstrukturen også vrir seg. 
+Men det er bare morsomt en stund, og da kommer vi inn på en av Leaps største utfordringer. 
+
+Upålitelig - men tegn til framgang 
+
+Det mest imponerende med Leap Motions tidlige reklamevideoer var som nevnt sømløsheten og presisjonen - at en tilsynelatende skulle kunne vifte med for eksempel én finger på høyrehånda, mens en tar venstrehånda opp og ned med tre fingre. 
+Dette skal så for eksempel kunne brukes til å spille med, til å tegne, til å styre operativsystemet på PCen eller Macen, eller kanskje til å lage musikk. 
+
+I virkeligheten er det ikke like imponerende. 
+Ting har riktignok blitt bedre via et par programvareoppdateringer, som blant annet har forbedret presisjonen, stabiliteten og Leaps evne til å skjelne for eksempel én finger fra tre fingre. 
+Til å begynne med kunne vi stadig se en "fantom-finger" dukke opp på skjermen i korte øyeblikk, noe som ikke akkurat er gunstig når presisjon er et av salgsargumentene. 
+
+Drømmer du derimot om å bytte ut musa med Leap for å ta deg av den dagligdagse styringen av PC-en eller Macen vil du bli skuffa. 
+For det første er ikke programvaren (eller Leap-teknologien?) stabil nok, og du ender for ofte opp med å måtte gjenta håndbevegelser flere ganger for å for eksempel bla bakover i nettleseren eller kopiere en fil. 
+I løpet av testperioden har vi funnet mest nytte i å bruke Leap som et kreativt verktøy, for eksempel til å styre tonehøyden på et (digitalt) musikkinstrument, eller å spille av lyder når vi spriker med fingrene - og så videre. 
+
+Nå må det sies at noen brukere ser ut til å ha mer stabile og forutsigbare opplevelser enn andre, hvor en slipper å gjenta bevegelser. 
+Hvorfor det er slik er ikke så lett å si - forumet til Leap virker å være delt i to, der noen brukere er veldig fornøyd, mens andre er betydelig mer frustrert. 
+Ingenting av dette blir enklere av at for eksempel kalibreringsprosessen er ganske klønete. 
+
+Utvalg av programvare 
+
+Som vi har vært inne på må programmer som skal benytte seg av Leap-kontrolleren være spesiallaget for nettopp denne enheten. 
+Det er derfor produsenten har opprettet en egen app-butikk. 
+Der finner du i øyeblikket rundt 70-80 apper for Windows og Mac, fordelt på diverse nytteprogrammer, spill og kreative apper hvor en kan tegne, lage musikk eller simpelthen bare leke seg med ny teknologi. 
+
+Det siste er dessverre også en av årsakene til at vi er redd Leap-boksen kommer til å havne i roteskuffen om ikke så veldig lenge. 
+Å styre ulike parameter ved å bevege hender og fingre kan som sagt være morsomt for noen aktiviteter, men vi synes ikke det er morsomt lenge nok. 
+Etter å ha lekt Tom Cruise i Minority Report, og blant annet ropt uforståelige kommandoer til barna på film-engelsk mens hendene raser rundt i lufta, oppdager vi hvorfor de håndfaste kontrollererne tross alt ikke er så dumme: 
+En vil alltid ha bedre kontroll over et redskap når en kan klemme rundt det, og denne redskapen har en viss vekt, en viss utstrekning og en viss form. 
+
+Men sjekk for eksempel denne videoen, lastet opp av en Leap-bruker. 
+Det ser unektelig imponerende ut: 
+
+Likevel er det ingenting av det som utføres i denne videoen som ikke er enda enklere å gjøre ved hjelp av en mus eller styrefjøl og noen tastatursnarveier. 
+Datamusen er for eksempel genial fordi den hviler på et solid bord, mens du hviler hånden på musen. 
+Du kan med musen gjøre svært presise bevegelser ved hjelp av en veldig liten del av bordet, og du kan være trygg på at den bevegelsen du gjorde i sted fungerer ett hundre prosent neste gang du gjør den. 
+
+Konklusjon 
+
+Leap framstår for oss som en gimmick. 
+En morsom gimmick, riktignok, men med unntak av et par (svært) begrensede bruksområder finnes det akkurat nå veldig lite som tyder på at vi kommer til å bruke hendene til å scrolle ned en nettside (en kan gjøre det med Leap, men det er altfor tungvint), veksle mellom programmer eller lage sånn passe presise strekfigurer i et tegneprogram. 
+
+Hovedproblemet til Leap er først og fremst at det sloss mot veletablert teknologi som tross alt fungerer utmerket til de aller fleste mål, teknologi som dessuten er svært enkel, rimelig, lite ressurskrevende og dessuten kan kobles i en USB-hub uten at det byr på problemer - som for eksempel en datamus. 
+Den ganske festlige måten å zoome inn og ut og rundt en molekylstruktur som vi nevnte tidlig i testen er morsomt første gangen, men det er ikke vanskelig å tenke seg at den kan gjøre noe svært likt med en mus. 
+
+Prisen er for så vidt ikke så ille, ikke minst med tanke på den avanserte teknologien som ligger bak. 
+Vi betalte rundt 900 kroner med frakt og norsk moms, og selv om det er godt over prisen for en solid mus eller en spillkontroller, er det ikke hårreisende. 
+Prisen føles imidlertid altfor stiv når vi nå innser at vi sannsynligvis ikke kommer til å veive med hendene hver eneste dag, men kanskje heller vil gjøre det innimellom - for å imponere noen som er på besøk, for eksempel. 
+
+Leap Motion distribueres ikke i Norge, men kan bestilles her. 

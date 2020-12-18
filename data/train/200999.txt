@@ -1,0 +1,86 @@
+Fujitsu-Siemens Amilo L1310G
+Bærbare med blanke bredskjermer er i skuddet, og Fujitsu-Siemens frir til forbrukerne med en modell til åtte og et halvt tusen. 
+Men holder det med en skarve Celeron M? 
+
+Det er forventet at 2006 blir det magiske året da det vil selges flere bærbare enn stasjonære PCer her til lands. 
+Og mens vi venter på at dette skal skje vil prisene fortsette å falle og ytelsen gå opp. 
+For alle portabelofile er det altså gode tider i vente. 
+
+LES OGSÅ: 
+
+På testbenken denne gang er en Fujitsu-Siemens Amilo L1310G. 
+Prosessoren er en Intel Celeron M "Dothan" med 1024 KB L2 cache og en klokkefrekvens på 1,7 GHz, mens en Radeon XPRESS 200M står for grafikkytelsen. 
+
+Fulle spesifikasjoner: 
+
+Intel Celeron M @ 1,7 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR-minne 100 GB harddisk (4200 rpm) 8x DVD dual-layer DVD/CD-brenner Radeon XPRESS 200M (128MB delt minne) 54 Mbps WLAN (b/g) 10/100 LAN + modem 4x USB, 1x FireWire (4-pin), lyd inn/ut 1 CardBus kortplass 4-in-1 kortleser: SD, MMC, Memory Stick, Memory Stick Pro VGA og S-Video-utgang (4-pins) Dimensjoner (B/D/H): 35,7 x 27,1 x 4,2 cm Vekt 2,8 kilo Pris: ca 8400 kr inkl. mva. 
+
+Tidligere denne uken testet vi Pavilion dv5054EA fra HP, som gjorde inntrykk på oss. 
+Amiloen vi har testet her har omtrent de samme spesifikasjonene. 
+Hovedsakelig er det prosessoren og harddiskstørrelsen som er forskjellen. 
+
+Skjermen har en oppløsning på 1280 x 800 piksler, og har kontrastbelegg. 
+Selve bildet er fint, klart og behagelig. 
+Til gjengjeld kommer problemet med gjenskinn, men hovedsakelig er dette en vanesak. 
+Betraktningsvinkelen er ikke spesielt stor, men dette er også typisk for de aller fleste bærbare. 
+
+Tilkoblingene er plassert bak og på sidene, så fronten er jomfruelig fri for inn- eller uttak. 
+
+På maskinens høyre side finner vi en CardBus-slot (PCMCIA), firewire, minnekortleser, nettverk og TV-ut. 
+De to siste fornuftig nok plassert bakerst. 
+Varmluften kommer også ut på høyre side, noe som kan varme kalde musehender i de lange vintermånedene. 
+Hvis du liker sånt. 
+
+Venstre side har det blitt plass til DVD-spilleren, lyd inn/ut, to USB, modem og strøminntaket. 
+Også her er kontaktene lagt opp nokså fornuftig. 
+
+VGA og de to restrerende USB er plassert bak på maskinen. 
+
+Mellom tastaturet og skjermen finner du den sedvanlige raden med knapper, fire i tallet. 
+Den ene skal senke ytelsen til prosessor og skjermkort for å få viften til å jobbe mindre. 
+En god ide, hadde det ikke vært for at det ganske enkelt ikke virker. 
+Men det skal vi ta for oss senere. 
+Den andre knappen starter Internet Explorer. 
+De to siste er av/på-knappen for trådløst nett, og den for selve maskinen. 
+
+Konstruksjon 
+
+PCen virker nokså solid, selv om det ikke skal så mye press på baklokket før det synes på skjermen. 
+Ellers har den et helt greit og ryddig design. 
+Skjermen er dog hengslet litt stramt, så det er ikke bare bare å åpne den med en hånd. 
+
+Den hvite touchpaden er - som selve skjermen - bred, men har ikke noe skrollefelt. 
+Tastaturet har litt svikt, men er greit å taste på og støyer lite. 
+Som for de fleste tastaturer på bærbare er ikke tastene optimalt plassert, men det er jo en ren vanesak. 
+
+Laber ytelse, for mye støy 
+
+Ytelsen er litt skuffende, spesielt sett i lys av mandagens test. 
+Siden disse to maskinene er såpass like i spesifikasjoner (bortsett fra prosessoren) og pris, så virket det naturlig å sammenlige dem direkte. 
+
+Ting var ikke helt på nett for Amiloen. 
+Testresultatene kunne variere grovt fra gang til gang, så resultatene gitt nedenfor er mer en pekepinn enn noe annet. 
+Slike variasjoner skal jo ikke normalt sett forekomme, men grunnen har om ikke annet forblitt et mysterium for oss... 
+
+Som vi ser er ytelsen klart underlegen HPs maskin. 
+Når dette er sagt så er Amiloen helt grei til kontorbruk, men det er hva du har enda billigere PCer til. 
+
+Batteriet testet vi med både Batterymark (1 time og 58 minutter), og BatteryEater Pro 2.6 som ga oss en tid på 1 time og 47 minutter. 
+Ikke noe å skryte stort av, men ikke dårlig heller. 
+BatteryEater Pro kommer forøvrig heretter å bli brukt til batteribenchmarking i våre tester. 
+
+En annen ting som illustrerer Amilos problem er at når vi forsøkte å gjøre en fullstendig gjenoppretting av systemet ved å benytte den medfølgende Windows-CDen, slo maskinen seg konsekvent av under begynnelsen av installasjonen. 
+Så lange den var varm. 
+Som en kald og nyoppstartet maskin gikk det derimot knirkefritt. 
+I rest my case. 
+
+Som nevnt er det en knapp som skal sørge for mindre viftestøy på denne PCen. 
+Og det trengs, for vifta går dessverre kontinuerlig. 
+Men vi kan ikke påstå vi merket noen forskjell med denne knappen trykket inn, så vifte/støymessig har denne maskinen vist seg som en stor skuffelse. 
+
+Konklusjon 
+
+Amilo L1310G fra Fujitsu-Siemens er en maskin som ikke helt holder mål. 
+Selv om vi skulle se bort fra den kontinuerlige viftestøyen så tåler den for eksempel ikke å sammenlignes med HP Pavilion dv5054EA, som har adskillig råere ytelse, koster det samme og er en tyst sak. 
+
+Ikke det at denne maskinen er ubrukelig til enkel databehandling, det er bare at det finnes adskillig bedre alternativer til denne prisen. 

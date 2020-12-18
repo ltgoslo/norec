@@ -1,0 +1,107 @@
+Fleksibel maskin med mange muligheter
+2-i-1 fra Acer med solide ytelser og mange tilkoblingsmuligheter - til en fornuftig pris. 
+
+Den gamle storheten Acer har de siste årene igjen fått vind i seilene, og har lansert den ene gode PC-en etter den andre. 
+Vi husker med glede vårt møte med Acer Swift 3 i fjor, som vi mente var den beste PC-en vi hadde testet noensinne til under 7.000 kroner. 
+Siden har vi testet noen gode Acer-modeller, flere har fått terningkast 5. 
+
+Og det er nettopp «mye for pengene» som er Acers mantra for tiden, samtidig som produktene ofte framstår som solide og gjennomtenkte. 
+Sjekk for eksempel Swift 5, som har en skjerm på 14 tommer og veier under 1 kg. 
+
+2-i-1 med penn 
+
+Spin 5 har et navn som ligner, men er bygd over en annen lest. 
+Dette er en 2-i-1-modell som har en skjerm som kan dyttes helt rundt til baksiden, og dermed fungere som et nettbrett. 
+Du kan også legge den flatt eller sette den som et telt, for eksempel hvis du vil at minst mulig av maskinen skal berøre underlaget og kan styre aktiviteten med fingertuppene på skjermen. 
+
+Det som er litt morsomt med denne, er at det følger med en penn til tegning og notater - og den fungerer faktisk ganske bra. 
+Litt forsinkelse på opptegningene er det, men den reagerer på forskjellige trykk og er temmelig presis. 
+Vi savner dog en plass å feste pennen når den ikke er i bruk. 
+
+Ikke minimalistisk 
+
+Chassiset er av aluminium over det hele, mens glass dekker skjermdelen - nesten helt ut i kantene. 
+Når den 13,3 tommer store skjermen er avskrudd, kan du nesten bli narret til å tro at den går helt ut i kantene, men i praksis er sørgekanten ganske så bred, nesten to centimeter i toppen. 
+Det virker veldig mye når vi akkurat har testet Dell XPS 13, som nesten ikke har sørgekant rundt skjermen i det hele tatt. 
+
+Skjermen er naturligvis berøringsfølsom, blank, og oppløsningen er 1920 x 1080 piksler. 
+Panelet er av typen IPS som sørger for gode farger og innsynsvinkler. 
+Lysstyrken har vi ikke funnet tall på, men den oppleves som litt mindre lyssterk enn på den nevnte Dell-maskinen, vi tipper rundt 300-350 nits, som er ganske normalt for klassen. 
+
+Mellom skjerm og tastatur sitter det et par enkle høyttalere. 
+Lyden mangler fylden som du finner på de beste, men duger helt greit til lav bakgrunnsmusikk, podkaster og lignende. 
+Merk også at her er spesielt følsomme mikrofoner på maskinen, laget for den stemmeaktiverte assistenten Cortana. 
+Tanken er at du skal kunne be om hjelp til alt mellom himmel og jord fra andre siden av rommet. 
+Cortana er dessverre ikke tilgjengelig i Norge ennå. 
+
+Godt tastatur, mange tilkoblinger 
+
+Tastaturet er fast og lydsvakt, og meget behagelig for lange skriveøkter. 
+Baklyset hjelper deg når det er mørkt. 
+Under tastaturet sitter en passe stor pekeplate, med integrert felt for pålogging med fingertuppen, gjennom funksjonen Windows Hello. 
+Det er ventet at Hello skal kunne brukes til alt fra sikker pålogging på nettsteder til betaling i butikker på sikt. 
+
+Tar vi en titt på sidene, oppdager vi at PC-en har overraskende mange tilkoblingspunkter. 
+Her finner du HDMI i full størrelse, tre vanlige USB 3.0-porter, en USB-C-port (USB 3.1 gen1), minnekortleser for SD-kort samt kombinert analog mic/hodetelefonutgang. 
+Det er mer enn vi forventer av en såpass tynn maskin (1,59 cm). 
+
+Vekten er 1,5 kg. 
+Det er med andre ord ikke noen spesielt lett maskin, men heller ikke blant de tyngste i klassen. 
+Vi synes den blir litt for tung til å bruke som nettbrett, i hvert fall når man jobber stående. 
+
+Slik yter den 
+
+På innsiden i vår test-modell sitter en Core i5-8250U prosessor, 8 GB RAM og 256 GB SSD. 
+Dette er i ferd med å bli en veldig vanlig kombinasjon i denne prisklassen. 
+Ytelsesmessig ligger den langt foran det du kunne forvente med forrige generasjon (Core i5-7200U). 
+Det skyldes i hovedsak at Intel har doblet antall kjerner fra to til fire, noe som naturlig nok byr på mye bedre ytelse i applikasjoner som drar nytte av det, samt fleroppgavekjøring. 
+
+Det viser seg imidlertid at det er noe større variasjon i ytelsen mellom PC-ene som er utstyrt med denne prosessoren, i forhold til tidligere generasjoner. 
+En stor del av forklaringen ligger i hvor effektivt maskinen klarer å kjøle prosessoren. 
+Blir den for varm, vil maskinen automatisk skru ned hastigheten for å unngå overoppheting. 
+
+Hva angår Spin 5, fikk vi ytelsestallet 7304 i Passmark PerfomanceTest. 
+De beste har fått godt over 8000 poeng med samme prosessor i våre tester. 
+Om forskjellen er særlig merkbar under normal bruk, er heller tvilsomt. 
+
+I praksis betyr dette at du kan løse nær sagt alle PC-oppgaver, også fleroppgaverkjøring, uten særlig forsinkelse. 
+Nå foregår gjerne mesteparten av aktiviteten uansett i faner i nettleseren. 
+Det er helt på det rene at utviklingen på programvarefronten ikke helt har klart å holde tritt med prosessorutviklingen. 
+
+Grafikkytelsen er også forbedret, og du kan spille enkelte av titlene som vi for få år siden omtalte som maskinvaremessig krevende. 
+Liker du å spille med rask bildeoppdatering (fps) og med alle detaljer aktivert, skal du uansett velge en annen PC. 
+
+Les mer om hva du kan forvente av den nye prosessorgenerasjonen her. 
+
+Noe viftestøy må påregnes 
+
+Det er også på det rene at denne prosessoren krever mer kjøling enn forgjengeren, og på Spin 5 merkes det ved at viftene er godt hørbar i mange situasjoner. 
+Det skal faktisk ikke særlig mye belastning til før de spinner opp, og det kan være et ankepunkt for noen av oss. 
+
+Merk videre at dette er en modell med luftinntak på undersiden. 
+Det betyr at den bør stå på et slett underlag når du bruker den. 
+Selv da blir området rundt prosessoren temmelig varmt ved belastning. 
+
+SSD-en har en kapasitet på 256 GB. 
+Vi antar at den kommuniserer via SATA-grensesnittet, for i ytelsestestene oppnår vi aldri mer enn rundt 520 MB både på lesing og skriving. 
+De raskeste vi har målt i det siste, er fire til seks ganger raskere. 
+Det vil neppe utgjøre noe stor forskjell i praksis, under lett, variert arbeid. 
+
+Batteriproblemer 
+
+Hva så med batteritiden? 
+Vi måler den ved å strømme videoer fra YouTube til batteriet er tomt. 
+En feil ved vårt testeksemplar førte til at vi aldri har fått fullført en full måling, men etter 20 minutter viste indikatoren 93 prosent. 
+
+Hvis samme forhold skulle vise seg å holde gjennom hele syklusen, ville det bety rundt 5 timer med kontinuerlig videostrømming. 
+Acer antyder inntil 13 timer med lett bruk, noe som høres mye ut, men vi får dessverre ikke etterprøvd påstanden tilstrekkelig denne gangen, til verken å bekrefte eller avkrefte at den stemmer. 
+
+Konklusjon 
+
+Acer Spin 5 er en fin maskin som vil bli husket for mange tilkoblingspunkter, god ytelse og fin byggekvalitet. 
+Det som trekker ned, er først og fremst at vifta er litt mer hissig enn vi liker - men legger til at vi er ganske kresne på dette punktet. 
+Alt i alt er dette en maskin som leverer som forventet, og vi lander derfor på en solid firer på terningen. 
+
+Få også med deg testene av disse 2-i-1-maskinene: ​Lenovo Yoga 920 | 
+HP Spectre X360 | 
+Acer Spin 7 

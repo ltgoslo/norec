@@ -1,0 +1,111 @@
+HP Envy Sleekbook 6-1010eo
+Ultratynn PC for prisbevisste. 
+
+Det siste året har det vært et stort fokus på tynne PC-er, de fleste uten optisk drev og harddisk. 
+De fleste av dem er Intel-baserte, og passer den såkalte Ultrabook-standarden, som vi her i DinSide Data har testet mange av det siste året. 
+
+Rimeligere alternativ 
+
+Ultrabook-kravene er det Intel som har definert, men nå er også konkurrenten AMD på banen med sitt svar på konseptet. 
+Navnet er Ultrathin, og baserer seg på strømgjerrig APU (prosessor og grafikk i én brikke) fra AMD. 
+Bortsett fra det er Ultrathin-maskinene ofte til forveksling like sine Intel-konkurrenter, selv om AMD er noe løsere i snippen hva angår fysiske og maskinelle krav. 
+
+Og - viktigst for mange forbrukere 
+- Ultrathins er gjerne en god del rimeligere enn Ultrabooks. 
+Men er de like gode? 
+
+HP Envy Sleekbook 6 er den første PC-en i Ultrathin-segmentet vi har på testbenken, og det er absolutt en lekker sak. 
+Men før vi går på eksteriøret skal vi ta en nærmere titt på de tekniske egenskapene: 
+
+15,6" blank LED-baklyst LCD-skjerm, 1366 x 768 piksler AMD Dual Core A6-4455M APU AMD Radeon HD 7500G grafikk 4 GB RAM (maks 8) 500 GB harddisk Minnekortleser for SD/MMC-kort Bluetooth Trådløst nett b/g/n (Broadcom-brikke) 2 stk USB 3.0-porter, 1 stk USB 2.0-port HDMI-utgang for tilkobling til eksterne skjermer/TV 1000 Mbit kablet nett Webkamera (1280 x720 piksler) Windows 7 Home Premium 64 bits 4-cellers Li-ion-batteri Størrelse: 37,4 x 1,98 x 25,3 cm Vekt: 2,15 kg Ca-pris: 4990,- (4.9.2012) 
+
+Det første som er verdt å merke seg her, er at det er en relativt stor PC, med 15,6" skjerm. 
+Det begynner å dukke opp Ultrabooks nå med like stor skjerm, med temmelig lik tykkelse og vekt. 
+Det andre er prisen. 
+4990 kroner er vesentlig billigere enn Ultrabooks vi har sett med samme skjermstørrelse - eksempelvis koster tilsvarende søstermodell basert på Intels Ultrabook-utstyr, HP Envy 6, rundt 1500 kroner mer. 
+Vi testet for litt siden en oppgradert utgave av denne, og den koster rundt 8000 kroner. 
+Merk imidlertid at Sleekbook ikke har harddisk med SSD-del. 
+Det betyr at du ikke får fordelen dette fører med seg, med hurtigere lasting av data som brukes ofte. 
+
+Umulig å oppdage 
+
+Men utenpå er maskinene faktisk helt identiske. 
+De neste avsnittene som beskriver eksteriøret er derfor i stor grad de samme som i testen av Envy 6. 
+
+Lokket er av aluminium, det samme er platen rundt tastaturet. 
+Bunnplaten er vi litt mer usikre på, men det er sannsynligvis plast med en lett gumiert overflate. 
+
+Alle tilkoblinger og kortleser sitter på venstre og høyre side, lett tilgjengelig for brukeren. 
+
+Vi merker oss også at HP har tilkoblingspunkter i full størrelse, noe vi ser på som udelt positivt: 
+Flere Ultrabook-konkurrenter har falt for fristelsen å bruke mikro-utgaver av enkelte tilkoblinger for å spare plass, noe som gjør at du trenger overganger eller spesialkabler. 
+
+Her har vi samlet en rekke bilder av modellen: 
+
+(Fotograf på alle bilder: 
+Per Ervland) 
+
+Det eneste vi har å utsette på det fysiske - med unntak av litt høy vekt, er at pluggen til strømforsyningen stikker flere centimetre rett ut på høyre side, og er dermed lett å dulte borti. 
+Vi har sett mange eksempler på at slike løsninger kan føre til brudd - enten i pluggen, eller i verste fall i kontakten i PC-en, som kan medføre dyre reparasjoner. 
+
+Slik oppleves den 
+
+Skjermen er blank og kontraststerk, men sett i lys av hva vi stadig oftere ser i Ultrabook-klassen er den lavoppløst med sine 1366 x 768 piksler. 
+Vi har sett flere eksempler på 1600 x 900 og 1920 x 1080 piksler på selv mindre Ultrabooks nå, og en 15,6" kunne med fordel hatt høyere oppløsning. 
+Bildet blir også invertert når det betraktes skrått ovenfra, og lysstyrken avtar relativt raskt fra sidene. 
+MEN: 
+Dette er en relativt rimelig maskin, og da er det foreløpig ikke annet å forvente. 
+
+Tastaturet er vi derimot mye mer fornøyde med. 
+Det er naturligvis i full størrelse, og chicklet-tastene er faste og responsive. 
+Tastaturet avgir lite støy under skriving, og i mørke akkompagneres det med et behagelig baklys. 
+
+Pekeplaten har en sirkelformet preging, og er passe følsom. 
+Nedre del har integrerte sensorer for høyre- og venstre-klikking, som dessverre avgir en litt skarp klikkelyd. 
+Hvorfor enkelte PC-modeller har dette, er komplett uforståelig for oss. 
+På lesesalen kan det fort bli et ankepunkt. 
+
+Lyden fra de innebygde 2.1 Beats Audio-høyttalerne (ja, det er en lite subwoofer under PC-en) imponerer ikke oss i særlig grad. 
+Joda, litt mer bass får du, men ikke veldig mye. 
+Det kan du heller ikke forvente av en såpass tynn PC, men når vi har hørt Ultrabooks med minst like god lyd uten subwoofer innabords blir det litt tynt. 
+
+Ytelsesmålinger 
+
+Fra du skrur på maskinen til den er klar for bruk, tar det halvannet minutt. 
+Det er temmelig tregt, og oppsiktsvekkende mye tregere enn søstermodellen med Intel-prosessor og harddisk med SSD. 
+Her kan man helt sikkert få opp hastigheten ved å deaktivere noen av de mange programmene som lastes under oppstarten. 
+
+Men også prosessoren (APU-en) må ta en del av skylden. 
+Ytelsen er vesentlig lavere enn på siste generasjon ULV-prosessorer fra Intel, og det merkes ved at maskinen rett og slett ikke er like kjapp i alle situasjoner. 
+Under har vi sammenlignet prosessorytelsen med konkurrenter med Intel i5- og i7 ULV-prosessorer, basert på tall fra Passmark PerformanceTest 7.0: 
+
+Til vanlig, lett bruk duger den likevel bra - absolutt, men forvent ikke at tyngre oppgaver går like smertefritt. 
+
+Grafikkytelsen er derimot noe bedre, og ytelsen er i enkelte situasjoner (blant annet i 3D-spill) høyere enn siste generasjon Intel HD 4000 som sitter i ULV-prosessorene til Intel. 
+Det kommer dessverre ikke fram i totaltallet fra Passmark PerformanceTest, som nok i stor grad påvirkes av prosessorytelsen: 
+
+Harddiskytelsen ligger naturligvis langt bak hva du får hvis du velger en PC med SSD, i diagrammet viser vi gjennomsnittlig lese- og skrivehastigheter pr sekund: 
+
+Kjøper du denne PC-en kan det absolutt være en god idé å bytte ut harddisken med en SSD. 
+Prisene har sunket kraftig i det siste, du får nå lynraske 128 GB SSD-er til 6-700 kroner. 
+
+De siste ytelsestestene vi har kjørt går på batteritid. 
+Og for å si det med én gang; ved lav belastning er dette en ordentlig seiging, med 8,5 timer batteritid. 
+Dessverre synker den temmelig raskt når maskinen blir utsatt for belastning, raskere enn hva som er normalt for Intel-baserte konkurrenter. 
+Men 3 timer og 48 minutter med kontinuerlig videoavspilling er uansett ikke så aller verst: 
+
+MEN: 
+Denne maskinen har en vesentlig positiv side i forhold til sin Intel-utstyrte søstermodell: 
+Den bråker langt mindre, spesielt ved lav belastning. 
+Lavere ytelse har sine klare fordeler i mindre varmeutvikling, og vi vil betegne Sleekbook 6 som meget stillegående. 
+
+Konklusjon 
+
+HP Sleekbook Envy 6 har stort sett gitt et bra inntrykk, med sitt pene ytre og meget gode tastatur. 
+Både grafikkytelse og batteritid er gode argumenter for denne PC-en. 
+De største ankepunktene er moderat prosessorytelse, samt begrenset diskytelse i forhold til modeller som er utstyrt med SSD. 
+
+Og med en vekt på 2,2 kg er det ikke langt opp til mange "normale" bærbare PC-er med 15,6-tommer skjerm i samme prisklasse, som nesten alltid har optisk drev og langt bedre ytelse. 
+Vi lander til slutt på en svak firer på terningen, som betyr at maskinen totalt sett har gitt et middels godt inntrykk. 
+
+HP Envy 6-1010eo 

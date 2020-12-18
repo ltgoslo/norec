@@ -1,0 +1,95 @@
+Zepto Znote 3050CW
+Intels nye billig-prosessor for bærbare PCer bærer navnet Celeron M, og er i praksis en Pentium M med mindre sekundært hurtigminne, lavere klokkehastigheter og svakere strømsparingsfunksjonalitet enn originalen. 
+Men det behøver slett ikke være dårlige kompromisser, viser vår test. 
+
+De billigste bærbare PCene er som regel utstyrt med en mobilprosessor fra AMD, eller en desktop-prosessor fra Intel. 
+Førstnevnte har mange gode egenskaper med hensyn til strømsparing, mens sistnevnte for det meste er å finne i store beist - såkalte skrivebordserstattere, der både viftestøy og batterilevetid er ikke-tema. 
+
+LES OGSÅ: 
+
+Derfor var det med stor interesse vi mottok nyheten om Intels nye Celeron M-prosessor i januar. 
+Denne lett-utgaven av Pentium M-prosessoren har ikke alle de gode egenskapene som storebror, men er langt rimeligere. 
+Strømforbruket er fortsatt meget lavt, og det gav forhåpninger om både lav støy og lang batterilevetid på den første modellen vi fikk til test, Znote 3050CW fra norske Zepto. 
+
+Her er en kort oppsummering av de viktigste egenskapene: 
+
+Bærbar PC med 15,4" bredskjerm (1280 x 800 punkter) Intel Celeron M prosessor på 1,2 GHz Intel Extreme-grafikk (delt grafikkminne, inntil 64 MB) VGA og TV-utgang 256 MB minne (PC 2700 DDR SDRAM) 30 GB harddisk fra Hitachi (4.200 rpm) 
+Kombinert DVD-spiller/CD-brenner (8x DVD-les, 24x brennehastighet både på CDR/CDRW) 3x USB 2.0-porter Firewire-port 1 x PCMCIA-plass 
+Minnekortleser i fronten for SD/MMC/MemoryStick 802.11B/G trådløst nettverk (Intel) 56 Kb modem 100 Mbit nettverk (kablet) SPDIF + mic og lyd ut (øretelefoner) i frontMål 35 x 25 x 3 cm, vekt 2,8 kg 
+
+her 
+
+Dette er tilsynelatende ikke noe råskinn, verken prosessor, minnestørrelse eller harddisk ligger i øvre del av skalaen. 
+Men utstyrsnivået er bra, prisen tatt i betraktning. 
+Dessuten merker vei oss at den støtter både 54 Mbit trådløst nettverk (802.11G), og er utstyrt med en CD-brenner som er uvanlig kjapp på CDRW-plater. 
+Kortleseren i front for en rekke minnetyper er selvsagt også et stort pluss. 
+
+Diskettstasjon, parallellport, PS/2- og seriellport er totalt fraværende, noe som blir vanlig på flere og flere nye modeller. 
+
+PCen leveres uten operativsystem, men du får antivirusprogram (Panda Antivirus Titanium 2004), samt programmet BounceBack Express. 
+Sistnevnte lar deg ta fullstendig backup av alt på harddisken, for eksempel på CD. 
+Når noe går galt, kan du enkelt gjenopprette alt slik det var før uhellet var ute (begge programmer krever Windows). 
+
+Stilrent 
+
+Selve PCen har en smakfull design i grått (sort understell), og det er benyttet plast hele veien. 
+Den er minimalistisk med hensyn til knapper og styling, noe mange helt sikkert vil sette pris på. 
+At PCen i tillegg er slankere enn de fleste andre bredskjerm-modellene vi har sett på tidligere, ser vi dessuten også på som et pluss. 
+
+Skjermen er klar og god, og sannsynligvis vil de aller fleste synes at oppløsningen er passe for denne skjermstørrelsen. 
+De ekstra 256 pikslene i bredden i forhold til vanlig XGA-oppløsning gjør at du får plass til en god del mer informasjon i bredden, og dessuten er dette optimalt for deg som ønsker å se filmer på PCen i bredformat. 
+
+Vi er alltid litt skeptiske til lokk av plast, da disse som regel ikke gir like god beskyttelse for skjermen som lokk av metall. 
+Vår trykktest viser også at skjermbildet raskt blir forvrengt når lokket belastes. 
+Dette skyldes ikke nødvendigvis at plasten er spesielt svak, men kanskje like mye at spennet er stort pga den brede skjermen. 
+Vi ville med andre ord ikke lagt tunge gjenstander på denne PCen. 
+
+Tastaturet er stort og godt, tastene er faste, og er stort sett logisk plassert i forhold til et vanlig tastatur. 
+Siden spesialtastene backspace, linjeskift og skift er så brede, er det ikke noe problem at det ligger taster til høyre for disse, selv for deg som aldri ser på tastaturet når du skriver. 
+
+På hver sin side av tastaturet sitter høyttalerne. 
+Optimalt plassert, og lyden er heller ikke verst, sammenlignet med svært mange andre lydløsninger på bærbare PCer. 
+Vi kan godt sitte på "enmannskino" og klare oss med de innebygde høyttalerne. 
+
+Uvanlig 
+
+Plasseringer av porter og tilkoblinger er derimot noe uvanlig. 
+På baksiden sitter nemlig 2 stk USB 2.0-porter + strøminntaket, mens VGA, TV-utgang, nettverk og modem - som vanligvis er å finne på baksiden, sitter på venstre side. 
+Det gir naturligvis meget enkel ad-hoc tilkobling til skjerm og nettverk, men for permanente tilkoblinger av denne typen ville det vært ryddigere hvis disse tilkoblingene satt på baksiden. 
+
+Ytelsestestene 
+
+Som nevnt innledningsvis er dette den første PCen med Celeron M-prosessor vi tester. 
+Selv om klokkehastigheten er så lav som 1,2 GHz, viser våre tester at kraften pr MHz ikke avviker særlig mye fra Pentium M, i motsetning til styrkeforholdet mellom desktopvarianten av Celeron og Pentium 4. 
+
+En rask titt i våre gamle notater fra fjorårets bærbar-test, viser at 1,2 GHz-prosessoren i Zepto Znote 3050z yter omtrent som desktop-varianten av Celeron med dobbel klokkehastighet, altså 2,4 GHz. 
+Sammenlignet med Pentium 4 vil 1,8 Ghz sannsynligvis gi deg noe i nærheten av samme ytelse. 
+I praksis opplevde vi PCen som kjapp og fin til alle "vanlige" oppgaver, herunder kontorapplikasjoner, web, musikk og film - og det er de viktigste oppgavene denne PCen er ment å utføre. 
+
+Grafikkløsningen er integrert, og vi forventet derfor ikke allverdens i moderne 3D-spill. 
+Her må man i hvert fall gå kraftig ned på oppløsning og detaljnivå! 
+Ingen løsning for spillentusiaster altså. 
+Ytelsestallene fra PCMark 2004 taler da også sitt klare språk - 503 poeng er godt under halvparten av hva vi har oppnådd med Geforce FX Go 5200, som heller ikke er en fullgod løsning for deg som er over middels spillinteressert. 
+
+Men holder det til 2D og film/DVD? 
+Oh yes. 
+Vi opplevde ingen hakking eller andre problemer, verken ved DVD- eller DivX-avspilling. 
+
+Celeron M-prosessoren er ikke like avansert som Pentium M når det gjelder strømsparing og regulering av klokkehastighet. 
+Vi synes likevel ikke at denne PCen har noe å skamme seg over, med resultatet 3 timer og 34 minutter på batterilevetidstesten. 
+Det er et stykke bak de seigeste Pentium M-PCene, men likevel godkjent. 
+
+Bruker du PCen til tekstbehandling og nettsurfing er den fullstendig lydløs. 
+Fyrer du opp Windows Media Player for å spille musikk i bakgrunnen, vil viften starte med jevne mellomrom - ikke konstant, og heller ikke særlig plagsomt, synes vi. 
+
+Hvis du ønsker flere detaljer fra ytelsestestene, viser vi til siden med tekniske data 
+
+Konklusjon 
+
+Utvalget av billige PCer med bredskjerm er slett ikke stort. 
+Velger du Znote 3050CW, får du en slank, stillegående og bra bredskjerm-PC til en fin pris. 
+Den vil holde lenge til kontor- og filmbruk. 
+
+Noen racer er det ikke, men det merker du først i 3D-applikasjoner og spill. 
+Hvis disse tingene er mindre viktig for deg, er denne PCen absolutt verdt å vurdere. 
+Litt mer minne og raskere harddisk er derimot å foretrekke, spesielt dersom du jobber med store data og har mange programmer kjørende samtidig. 

@@ -1,0 +1,118 @@
+Samsung 7 Chronos (770Z5E)
+Kanskje den mest komplette PC-en på markedet akkurat nå. 
+
+PC-markedet sliter. 
+Salgstallene går ned, mye takket være økt fokus på nettbrett og mobil i markedet. 
+Windows 8 har heller ikke bidratt til økt interesse, heller tvert i mot. 
+Men det er også en annen årsak, mener vi: 
+Mangel på innovasjon fra PC- og programvareprodusentene. 
+
+Les mer om våre synspunkter i denne artikkelen: 
+For enkelt å skylde på Windows 8. 
+
+Heldigvis er det ting som tyder på at produsentene er i ferd med å ta innover seg at noe må gjøres for å rette på situasjonen. 
+Og det må kanskje en sterk aktør som Samsung til for å lede snuoperasjonen? 
+Nye 7 Chronos hever i hvert fall lista på flere områder, viser vår test. 
+
+Oppgradert 
+
+Det er ikke første gangen vi stifter bekjentskap med Chronos-serien fra Samsung, allerede i fjor sommer testet vi 17-tommeren Series 7 700Z7C-S01, som imponerte oss så mye at vi gav den en sekser på terningen. 
+
+Nå har Samsung oppgradert serien nok en gang, og denne gangen har vi hatt gleden av å stifte bekjentskap med en av de mest spennende modellene i serien, 15,6-tommeren 770Z5E. 
+Her er en kjapp gjennomgang av de viktigste spesifikasjonene: 
+
+Skjerm: 15,6" matt LED-baklyst IPS-skjerm, 1920 x 1080 piksler Prosessor: 
+Intel Core i7-3635QM RAM: 
+8 GB (4 GB loddet + 4 GB utbyttbar) Grafikkort: 
+AMD Radeon HD8870, 2 GB dedikert RAM Lagring: 256 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+VGA/HDMI USB-porter: 2x USB 3.0, 2x USB 2.0 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel Centrino Advanced-N 6235 Kablet nett: 10/100/1000 Mbit Annet: 
+Wireless Display, 8-cellers batteri OS: 
+Windows 8 64-bit Størrelse: 37,6 x 25 x 2,09 cm Vekt: 2,35 kg Pris: fra 11.490 kr inkl mva (jf Prisjakt 10.5.2013) 
+
+Ingen tvil om at dette er potent maskinvare - pakket inn i en størrelsesmessig beskjeden PC, blant annet takket være at rammen rundt skjermen er temmelig smal. 
+Innpakningen består for det meste av metall, mens bunnplaten er av plast. 
+Dette er uansett "hel ved", kvalitetsfølelsen er høy, og det merkes fra første berøring. 
+
+Og den børstede metalloverflaten sørger for at fingeravtrykk aldri blir noe problem. 
+
+Alle tilkoblingene sitter på sidene og er godt merket. 
+
+Totalt er det fire USB-porter her, men kun to av dem er USB 3.0. 
+Vi forstår egentlig ikke hvorfor flere PC-produsenter fortsatt utstyrer PC-ene sine med USB 2.0-porter, all den tid at 3.0 er bakoverkompatibel og byr på langt høyere overføringshastigheter. 
+
+På undersiden sitter to høyttalere av merke JBL som faktisk produserer bra lyd, i forhold til det meste vi tidligere har hørt fra bærbare PC-er. 
+Lydbildet oppleves som relativt fyldig, der både bass, mellomtone og diskant er brukbart ivaretatt. 
+Vi lytter gjerne til dempet musikk fra disse høyttalerne mens vi jobber, eller ser en film. 
+
+Super skjerm 
+
+Skjermen er sylskarp, med svært gode farger og kontraster. 
+Innsyn fra sidene er ikke noe problem overhodet, verken kontrast eller farger avtar i nevneverdig grad selv ved nærmest død vinkel. 
+Og full HD er deilig! 
+Det føles helt perfekt på en såpass stor skjerm, og gir deg ikke bare skarpe detaljer, men også plass til mange vinduer samtidig. 
+
+For dette er en skrivebords-PC, det er ingen modell som er skreddersydd for Windows 8. Selv om den store pekeplaten støtter berøring med flere fingre rokker det ikke ved det faktum at Windows 8 fungerer aller best med berøringsskjerm. 
+
+Pekeplaten fungerer uansett utmerket, den har integrerte felter for venstre- og høyreklikking, og den store størrelsen er perfekt for flerberøring og gestures. 
+Det eneste vi har å bemerke er at klikkelydene kanskje er litt mer høylydte enn de hadde behøvd å være. 
+
+Selve tastaturet er eksemplarisk utført. 
+Platen er fast og fin, og er svært støysvakt under bruk. 
+Her er det veldig mange andre produsenter som har litt av hvert å lære av Samsung. 
+Tastaturet er også baklyst, og en egen sensor justerer lysstyrken etter hvor mørkt det er i rommet. 
+Du kan også justere styrken manuelt. 
+
+PC-en er dessuten svært støysvak under bruk, og reagerer lynraskt på alle inputs. 
+Alle disse gode egenskapene gjør maskinen til en fryd å bruke, stasjonært, eller på tur. 
+Vekten er nemlig såpass lav at den ikke skremmer oss fra å ta den med overalt. 
+
+Batteri fra en annen verden? 
+
+Det er også en annen ting som gjør den spesielt interessant å ta med på tur: 
+Batteritiden. 
+Vi kjørte vår vanlige HD-video i loop, og det tok hele 7,3 timer til PC-en skrudde seg av. 
+Med minimal belastning holdt batteriet i nesten 12 timer. 
+
+Det betyr at du kan forvente en batteritid på 9-10 timer med lett, variert bruk. 
+Det er oppsiktsvekkende, og noe av det beste vi har målt noensinne, og klart best blant de kraftige modellene. 
+
+Høy ytelse 
+
+For dette er en kraftig PC. 
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,8 Minne: 7,8 Grafikk: 6,9 Spillgrafikk: 
+6,9 Primær harddisk: 
+8,1 
+
+Passmark PerformanceTest 8.0 gav oss en totalsum på 3354 poeng. 
+Det er det høyeste vi har målt noensinne, ca 10% bedre enn Multicom Kunshan P150E. 
+I tabellen under har vi sammenlignet tallene mot de to kraftigste PC-ene vi testet i 2012: 
+
+Som vi ser av tabellen er 2D-ytelsen vesentlig bedre enn på de to, og det bidrar nok i stor grad til det høye totaltallet, mens minnekonfigurasjonen ikke er like kjapp på denne PC-en som på de to andre. 
+Vi vil derfor ikke påstå at dette er den kjappeste PC-en vi har testet, men den er temmelig nær, og uansett: 
+Den er lynkjapp i nær alle situasjoner, og kan også fint brukes til å spille nye, krevende spilltitler. 
+
+Bare under de aller tyngste operasjonene vil du kunne oppleve at viften blir godt hørbar, men aldri sjenerende. 
+Og så snart belastningen avtar, avtar også vifteaktiviteten. 
+
+Men merk deg følgende: 
+Luftinntaket til kjølesystemet sitter på undersiden. 
+Vi har jobbet med PC-en i fanget i lange perioder, uten at den har blitt varm eller bråkete av den grunn, men skal det spilles, vil vi definitivt anbefale å ha PC-en stående på jevnt, hardt underlag slik at lufttilførselen ikke blokkeres. 
+
+Konklusjon 
+
+Dette avslutter testen av Chronos 7-770Z5E, og vi tar av oss hatten for PC-en som totalt sett er den mest komplette vi har testet hittil (og vi har testet mange). 
+Her får du rett og slett en glimrende maskin til arbeid, lek og underholdning, og selv om 11.500 kroner er mye, vil krevende brukere raskt finne ut at de gode egenskapene veier opp for denne summen. 
+
+De eneste små negative bemerkningene vi kan komme med er at det gjerne kunne vært fire USB 3.0-porter i stedet for to, og det hadde ikke skadet om klikkelydene fra pekeplaten var litt mer dempet. 
+Luftinntaket under kunne kanskje vært plassert annerledes, men det har ikke voldt oss noen som helst problemer under vanlig, variert bruk. 
+
+En soleklar anbefaling og terningkast 6 fra testpanelet i DinSide Data. 
+
+Samsung 770Z5E-S02SE 

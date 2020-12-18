@@ -1,0 +1,108 @@
+HP Photosmart R817
+TEST: 
+HP Photosmart R817 kommer bare få måneder etter lanseringen av Photosmart R717, og har kraftigst zoom i lommeklassen. 
+Men er det et godt kamera? 
+
+I sommer lanserte HP modellene Photosmart R817 og R818. 
+De er i praksis identiske, med et par unntak: 
+R817 er sølvfarget, og R818 er sort. 
+Sistnevnte blir kun solgt sammen med dokkingstasjon, veske og et ekstra batteri for 500 kroner ekstra. 
+
+Ny design 
+
+Slik markedet har utviklet seg, kommer man ikke langt uten å ta design svært seriøst når man utvikler nye produkter. 
+Dette har HP tatt konsekvensen av, og R817 og R818 har en mer strømlinjeformet design enn forgjengerne R707 og R717. 
+Mer robust er det også blitt, med bakside av metall og LCDen er skjermet bak et lag av pleksiglass. 
+
+Samtidig har HP gjort en spesiell vri som vi foreløpig ikke har sett fra andre kameraprodusenter. 
+De har redusert oppløsningen fra 6 megapiksler (i R717) til 5. 
+Samtidig har de gjort forbedringer, blant annet på optikken - objektivet er levert av Pentax, og yter 5x optisk, noe som er svært sjelden kost i denne klassen. 
+
+Her er en oversikt over de viktigste endringene: 
+
+Men det er også flere forbedringer som ikke fremkommer i tabellen, blant annet har kameraene fått norske menyer, fem nye motivrelaterte innstillinger, og bedre manuell kontroll. 
+Du kan nå blant annet styre både blender- og lukkerprioritet, og et histogram på skjermen viser eksponeringen både før og etter at du har tatt bildet. 
+
+Panorama i kamera 
+
+En annen interessant forbedring er muligheten til å stifte sammen bilder til panorama, direkte på kameraet - til en egen fil. 
+Tidligere skjedde dette i overføringen til PC, ved hjelp av den medfølgende HP-programvaren. 
+Videre har kameraene også fått mulighet til å skrive ut stillbilder fra videoopptak, og da oppskaleres størrelsen til fra 0,3 til 1 megapiksel. 
+
+For øvrig er funksjoner som fjerning av røde øyne og bedring av balanse mellom høylys og skygge fikse ting som vi allerede stiftet bekjentskap hos forgjengerne, og som HP (og Nikon) fortsatt nærmest er alene om å tilby. 
+
+Kameraene leveres med innebygd minne på 32 MB, nok til å ta noen få bilder i normal kvalitet. 
+Heldigvis benyttes standard SD-minne, som er både lett tilgjengelig og billig. 
+En 256 MB brikke av god kvalitet koster for eksempel ikke mer enn et par hundrelapper, og gir deg plass til rundt 150 bilder i normal kvalitet. 
+
+Flere tekniske data 
+
+I bruk 
+
+HP 
+Photosmart R817 er et meget brukervennlig kamera. 
+Norske, intuitive menyer, og innebygd veileder til nær sagt alle fotosituasjoner. 
+Og er det noe som er galt, får du beskjed på skjermen med det samme. 
+"Lader blitslampen", "Kan ikke fokusere" og andre korte og lettforståelige meldinger gjør at du ikke behøver å lure. 
+
+Skjermen markerer et kvantesprang sett i forhold til forgjengerne. 
+Den er stor og klar, men i direkte sollys har vi sett bedre. 
+Bildet kan blir litt vanskelig å se, selv med sterkeste lysstyrke, og kombinert med gjenskinn i den speilblanke overflaten kan det bli et problem. 
+Da er det litt dumt at HP har fjernet den optiske søkeren. 
+
+Videoopptak startes ved å trykke på den lille knappen til høyre for utløseren, og endelig er det snakk om full VGA-oppløsning. 
+Du kan til og med zoome optisk mens du filmer, noe som er sjelden vare i denne klassen. 
+Ulempen er at all duringen fra zoom-motoren fanges på opptaket, så vi bruker ikke muligheten mer enn nødvendig. 
+
+MPEG1-formatet som HP har valgt, er supert, i hvert fall med tanke på kompatibilitet. 
+Disse klippene kan avspilles direkte på nær sagt alle medieavspillere, både frittstående (f. eks DVD-spillere) og programvarebaserte. 
+Ett minutts opptak i beste kvalitet legger beslag på rundt 60 MB, og kvaliteten blir helt OK til TV/PC-bruk. 
+
+Ytelse 
+
+Fra du skrur på kameraet til det er klart til å ta første bilde, går det 2,8 sekunder. 
+Det er ikke spesielt raskt, og 0,4 sekunder tregere enn forgjenger R717. 
+Det som kanskje er mer oppsiktsvekkende, er at utløserhastigheten på full vidvinkel også er tregere enn på forgjengeren, i vårt standard testmiljø. 
+Vi målte i snitt 0,7 sekunder fra vi berørte utløseren til bildet ble tatt på full vidvinkel. 
+På full tele tok det i snitt 0,8 sekunder. 
+Sammenlignet med klassen for øvrig er dette litt under snittet. 
+
+Seriefotografering går an, men bare i to sekunder, og da har du bare fått fire bilder. 
+
+To blitsbilder på tre sekunder er derimot langt mer positivt, verstingene i klassen bruker 6-7 sekunder på å lade blitslampen. 
+
+Bildekvalitet 
+
+Nytt objektiv fra Pentax og lavere oppløsning enn forgjengeren; hva har det hatt å si for bildekvaliteten? 
+Joda, HP Photosmart R817 er i stand til å ta gode bilder - under de rette omstendighetene. 
+
+Den største innvendingen er at at detaljer av og til ikke blir så tydelige som vi hadde håpet, spesielt når motivet befinner seg et stykke unna. 
+Det er helt tydelig at bildene utsettes for en prosess som innbefatter både støydemping og oppskarping. 
+Resultatet kan føre til at enkelte detaljer blir litt ulne, mens konturer noen ganger blir litt for skarpe. 
+
+Støynivået er moderat på ISO 50 og 100, ISO 200 bør ikke brukes dersom du har tenkt å skrive ut bilder større enn 13 x 18 cm, og ISO 400 bør i det store og hele unngås. 
+Det er noe fargespill i mørke, ensfargede områder på enkelte av testbildene våre, men ikke mer enn akseptabelt. 
+
+Den generelle fargegjengivelsen er meget bra, men vi opplevde ved et par anledninger at den automatiske hvitbalansen ble forvirret. 
+Derfor er noen av utebildene våre fått et rødbrunt slør over seg, uten at vi helt forstår hvorfor. 
+
+Når det gjelder portretter og nær/makrofotografering, er kameraet etter vår mening helt på høyde med de beste i klassen. 
+Forstyrrelser i form av kromatisk feilbryting klarte vi knapt å fremprovosere. 
+
+Totalt sett hadde vi nok forventet noe mer av R817, den generelle bildekvaliteten er i hvert fall ikke blitt bedre siden forgjengeren, som fortsatt er en av våre favoritter blant de rimelige lommekameraene. 
+
+For øvrig 
+
+Kameraet kommer med en liten dokk som det må stå i når batteriet skal lades, og bildene skal overføres til PCen. 
+Dessverre har ikke denne dokken TV-utgang, det krever en annen dokk som eventuelt må kjøpes løst. 
+Batteriet skal holde til 250 bilder i følge CIPA, det er helt gjennomsnittlig sett i forhold til sammenlignbare modeller. 
+
+Konklusjon 
+
+HP 
+Photosmart R817 vil bli husket for sin kraftige zoom, gode brukervennlighet og smarte tilleggsfunksjoner. 
+Vi likte aller best panorama-i-kameraet, som HP nærmest er alene om. 
+Vi glemmer heller ikke røde-øyne fjerningen og korrigering av balansen mellom høylys/skygge - men dette er vi allerede godt kjent med fra tidligere HP-kameraer. 
+
+Vi likte ikke at zoom-motoren høres så godt på videoopptak, og hadde egentlig forventet oss litt mer når det gjelder bildekvalitet. 
+At kameraet nå må settes i en dokk for å overføre bildene til PCen, og at denne dokken i tillegg mangler TV-utgang, er i våre øyne tilbakeskritt i forhold til R717. 

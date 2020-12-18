@@ -1,0 +1,62 @@
+hp WiFi Touch Mouse X7000
+Ergonomisk berørings-mus med WiFi, vi har testet. 
+
+Mus kobles som kjent til med USB-ledning, eget trådløst opplegg eller med Bluetooth, vanligvis. 
+Det eneste unntaket vi har vært borti er en WiFi-mus fra hp som vi har testet tidligere. 
+
+Nå har hp kommet med en helt ny WiFi-mus, som både er ergonomisk utformet og berøringsfølsom. 
+Det vil si, den er bare berøringsfølsom til en viss grad, siden den også er utstyrt med knapper både her og der. 
+Dette i motsetning til Microsoft Touch Mouse og Apple Magic Mouse som begge bare har én mekanisk knapp, selve klikkefunksjonen, og alle andre funksjoner styres av fingerbevegelser. 
+
+Egenskaper 
+
+Det mest spesielle med Touch Mouse X7000 er tilkoblingen, den bruker altså trådløst nett, WiFi/WLAN eller hva man velger å kalle det i stedet for egen radioforbindelse eller Bluetooth. 
+Det betyr at den bare fungerer sammen med PC-er som er utstyrt med trådløst nettilgang. 
+Installasjonsprogrammet etablerer et "Soft Aksess Point" i PC-en, som oppretter en forbindelse med musen via det trådløse nettverkskortet. 
+
+WiFi Touch Mouse X7000 fungerer imidlertid bare med Windows 7. 
+
+Selve musen er relativt stor, har en ergonomisk utforming tilpasset høyrehendte. 
+De to hovedknappene er mekaniske og separate. 
+
+Ytterst på venstre hjørne bortenfor venstre knapp er det enda en knapp, og rett over tommelen befinner det seg enda to knapper. 
+
+I stedet for skrollehjul er det en tydelig adskilt berøringsfølsom stripe. 
+
+I bruk 
+
+Installasjonen av styreprogrammet er svært enkel. 
+Når programmet er på plass og kjører får du beskjed om å holde musen ca 30 cm unna PCen, og så slå på musen med knappen på undersiden. 
+Deretter klikker du OK i oppsettsprogrammet. 
+Hvis programmet ikke finner musen er det en Connect-knapp under musen som starter gjenkjennelsesrutinen på nytt. 
+
+I styreprogrammet kan du tilordne forskjellige funksjoner til knappene og endre innstillinger for følsomhet, hastighet og andre parametre. 
+
+Standardoppsettet har tilordnet den venstre ekstraknappen til Facebook-opplasting av bilder og de to knappene over tommelen til henholdsvis fram og tilbake i nettleseren. 
+
+Glideflatene under musen går langs begge sidene og gir god glid på forskjellige underlag. 
+Det er heller ikke kritisk hva slags overflate musen brukes på. 
+
+Musen har en svært behagelig profil, og gjør at det er lett å la hånden hvile naturlig på den. 
+Samtidig er det lett å nå knappene uten å endre på annet enn selve fingrene. 
+
+Hvordan berøringsstripen fungerer i forhold til et skrollehjul er helt avhengig av hva du sammenligner med. 
+Noen mus har to "gir" for hjulet, med og uten trinnvis skrolling. 
+Det fungerer utmerket når man veksler mellom for eksempel tekst og bilder. 
+Dette får du ikke her, men responsen er jevn og god. 
+
+Det eneste som til tider var litt problematisk var etablering av forbindelsen etter at PC-en hadde gått i dvale. 
+Da var det ingen respons for å klikke på brukerikonet, og vi måtte bruke pekeplaten og så gå inn og sett i gang "paringsleken" på nytt. 
+
+Etter full oppstart av PC-en var det færre problemer med å opprette forbindelsen, men det tar vesentlig lenger tid før musen er i gang enn med kabel eller egen radioforbindelse. 
+
+Vi opplevde også at forbindelsen gikk mer eller mindre i spinn og det dukket opp melding om at musen koblet seg på hele tiden, uten at dette egentlig skjedde. 
+
+Konklusjon 
+
+Selve musen er svært behagelig og en utmerket konstruksjon. 
+Men WiFi som tilkobling er vi mer skeptisk til, siden denne forbindelsen ikke er så solid og forankret i operativsystemet som USB. 
+
+Har du for få USB-porter kan WiFi-musen være en løsning, hvis du absolutt ikke vil bruke en USB hub. 
+
+Men som noe førstevalg vil vi ikke anbefale dette. 

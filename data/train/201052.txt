@@ -1,0 +1,80 @@
+HP Pavilion zt3000
+Denne PCen egner seg godt som "enmanns-kino", og er solid i alle bauger og kanter. 
+Men har en PC med widescreen klare fordeler foran det tradisjonelle 4:3-formatet? 
+
+Etter at Apple lanserte sin første Powerbook med 16:9 skjerm, har PC-produsentene kommet etter med mange mer eller mindre vellykkede kloner. 
+Vi har lenge ventet på å få teste en Centrino-basert PC med widescreen, og nå er ventetiden over. 
+HP Pavilion zt3017 ble første modell ut, og det endte slett ikke i noe mageplask. 
+Her er viktige fakta om maskinvaren i vår testmaskin: 
+
+Intel Pentium M 1,4 GHz prosessor 512 MB minne 15,4" wide LCD-skjerm, 1280 x 800 pikslers oppløsning ATI Mobility Radeon 9200 grafikk, 64 MB 40 GB harddisk, 4.200 rpm DVD+RW-brenner Innebygd harman/kardon-høyttalere av god kvalitet Intel PRO/Wireless 80211b WLAN (trådløst nettverk) 10/100 Mbit nettverk 56 Kbit modem Firewire-port 3 stk USB 2.0-porter parallellport infrarød port SD-minnekortleser VGA og TV-utgang Mål: 357 x 254 x 31,5 mm Vekt: 
+3 kg 
+
+LES OGSÅ: 
+
+Solid sak 
+
+Designmessig har vi sansen for HPs valg denne gangen. 
+Kabinettet er i sølv og svart, og fjerner du klistremerkene sitter du igjen med en funksjonell og stilren design. 
+Lokket er heldigvis kledd med metall, og tåler svært mye! 
+Selv harde trykk gav ingen forstyrrelser i skjermbildet. 
+
+Skjermen viste seg forresten å være svært god. 
+Den har meget god kontrast, kan betraktes fra skarpe vinkler, også vertikalt. 
+Responstiden er også av de bedre vi har sett, noe som er en fordel ved visning av video og heftige 3D-spillscener. 
+
+Tastaturet er også romslig og godt. 
+Det er ingen forskjell i responsen fra tastene på midten til helt ute på sidene. 
+Tasteplasseringen er logisk i forhold til et vanlig tastatur. 
+Spesialtastene shift, linjeskift og mellomrom er så store som de bør være. 
+Ved siden av tastaturet, på hver sin side, sitter høyttalerne. 
+Morsomt å teste bærbare PCer med gode høyttalere (selvfølgelig sett i forhold til størrelsen). 
+Men en underholdningsmaskin burde absolutt vært utstyrt med 5.1-utganger for surround, noe som dessverre er fraværende på zt3000. 
+Her finner du bare utgang for stereo øretelefoner. 
+
+Skulle vi ha noe å utsette på utformingen, måtte det være at knappen for å aktivere/deaktivere WLAN er plassert i fronten, og er litt for lett å komme borti. 
+Det burde i det minste vært en skyvbar bryter. 
+USB-portene sitter alle som en i bakkant, her burde kanskje minst en sittet på siden for enkel tilgang med f. eks minneplugg, digitalkamera etc. 
+Men dette blir flisespikkeri. 
+
+Vi må også trekke frem programpakken. 
+Den vurderer vi som meget bra. 
+Du får blant annet med Microsoft Works Suite 2003 (kontorprogrammer mm) og Norton Antivirus, samt programvare for DVD-brenning, DVD-avspilling mm. 
+Kort fortalt alt du trenger for å komme i gang. 
+
+Hvem trenger widescreen? 
+
+Så dukker spørsmålet naturligvis opp - har den brede skjermen noe for seg for folk flest? 
+PCen er for bred til å få plass i en vanlig bæreveske. 
+Både nettsider og dokumenter hadde vært enklere å jobbe med dersom skjermen var satt på høykant, og digitalbilder tar man som regel i 4:3-format. 
+Med litt høyere oppløsning hadde det blitt enklere å jobbe i bredden, men faktum er at de fleste oppgaver løses vertikalt, ikke horisontalt. 
+
+Men til film og spill er formatet perfekt, og enkelte nye applikasjoner (f. eks Outlook 2003) krever faktisk høy horisontal oppløsning for å fungere optimalt. 
+Vi regner det som svært sannsynlig at denne utviklingen vil fortsette. 
+Vi lever tross alt i widescreen-alderen. 
+
+Støyfri og kjapp til det meste 
+
+Hva med ytelsen? 
+Her ble vi ikke skuffet. 
+Det viste seg at kombinasjonen Pentium M og den raske grafikkbrikken fra ATI (Mobility Radeon 9200) både har gitt en PC med generelt høy ytelse under de fleste forhold, men som samtidig er så godt som lydløs. 
+
+1,4 GHz-prosessoren yter omtrent som en Pentium 4 prosessor på 2,2 GHz. 
+Det finnes med andre ord langt raskere løsninger på markedet, men denne holder til det aller meste. 
+Vi har på den annen side kun oppnådd høyere ytelsestall i 3D-applikasjoner med ATI Mobility Radeon 9600. 
+I praksis har vi liten tro på at grafikkytelsen kommer til å utgjøre noen flaskehals i hele denne PCens levetid, uansett hvor spillhungrig du er. 
+
+Også batterilevetiden svarte omtrent til forventningene våre. 
+3 timer og 33 minutter er et stykke bak de mest seiglivede Centrinoene, men likevel et respektabelt tall. 
+
+For detaljer omkring ytelse og fysiske egenskaper, kan du klikke på lenken Tekniske data i oppsummeringsboksen 
+
+Konklusjon 
+
+Denne PCen seiler opp som en skikkelig outsider i bærbar PC-testen. 
+På mange områder er dette en suveren PC. 
+Den har en robust innpakning, god skjerm, god lyd, og den yter godt - både i spill og programmer. 
+Spørsmålet er om formatet er hensiktsmessig til ditt behov. 
+Er du opptatt av spill, film og multimedia kan den virkelig anbefales på det varmeste! 
+
+Du finner lenker til testede maskiner i venstremargen 

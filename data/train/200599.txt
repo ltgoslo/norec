@@ -1,0 +1,73 @@
+TEST:Overvåkingskamera via nettet 
+
+Med enkle midler kan du overvåke hjem eller hytte over internett med fjernstyrt kamera. 
+
+Det kan være mange grunner til å overvåke hus, hytte og annen eiendom eller verdier. 
+Noen er gode, andre kanskje ikke like gode og noen med en viss underholdningsverdi. 
+Uansett motiver, det finnes nå svært enkle løsninger som du setter opp i løpet av minutter, vi har testet en pakke som kombinerer tjenesten Cameramanager og et kamera fra Panasonic. 
+
+I tillegg til kameraet følger det også med et sett med nettverksadaptere for strømnettet. 
+Disse bruker du hvis det er for lang avstand mellom ruteren din og der kameraet skal stå og det ikke er praktisk å legge opp en nettverkskabel. 
+
+Det som ikke ligger i pakken er programvaren. 
+Den eksisterer ikke som separat program, men er altså en web-tjeneste som holder til i Nederland. 
+
+Enkelt å komme i gang 
+
+Kameraet er laget som en kule i et hus som har en flat underside, og det står helt greit av seg selv. 
+Det er ikke tungt, stramme eller stive kabler får det fort ut av posisjon. 
+Dobbeltsidig tape, borrelås-tape eller et kamerastativ (kameraet har standard gjenger) løser det problemet. 
+
+Tilkoblingene sitter i et hulrom ned adkomst fra undersiden, der finner vi nettverkskontakt og kontakt til kabelen fra strømforsyningen. 
+Det er ikke støtte for strøm over Ethernetkabelen. 
+Nettverkskabelen må "knekkes" 90 grader rett etter strekkavlastningen, for at kabelen skal komme ut av åpningen, noe som ikke er helt elegant. 
+
+Når du har plassert kameraet og koblet det til ruteren går du til www.cameramanager.com og registrerer deg. 
+Den Java-baserte programvaren lastes så ned og installeres på PCen din. 
+
+Kameraet støtter Universal PnP og med en ruter som også støtter dette (de fleste nye rutere gjør det) er det svært enkelt å komme i gang. 
+For å få kontakt med kameraet legger du den unike Mac-adressen som står på etiketten under kameraet inn i cameramanager-programmet. 
+Etter noen sekunder kommer bildet fra kameraet til syne i programvinduet. 
+
+Så kan du panorere kameraet opp/ned og venstre/høyre med pilmenyen eller rett og slett ved å klikke i det punktet i bildet du vil ha i senter. 
+
+Du kan også lagre faste posisjoner for kameraet. 
+
+Problemer og glimrende support 
+
+Alt fungerte utmerket innenfor ruteren, fra alle PCene våre. 
+Men da vi forsøkte å logge oss på fra internettt - altså fra en annen PC et annet sted enn hjemme - fikk vi ingen kontakt med kameraet. 
+
+Vi gikk inn på nettsiden og fylte ut et skjema for feilmeldinger. 
+Etter få minutter fikk vi svar fra support hos Cameramanager med forslag til løsninger. 
+Etter et par mailer fram og tilbake (med umiddelbar respons fra support) og reset av kameraet virket alt som det skulle! 
+Så eksemplarisk support har vi aldri opplevd, og vi logget oss på som en privat hvemsomhelst, ikke som testjournalist. 
+
+Hvordan overvåke? 
+
+Skal man overvåke kan man selvsagt sitte og sjekke bildet hele tiden, men det blir fort kjedelig. 
+Derfor byr tjenesten på flere alternativer for melding og rapportering, men det er et par haker ved dette. 
+
+Det som fungerer er å sette kameraet i opptak ved bevegelse i bildet til faste tider på forskjellige dager. 
+
+Du kan stille inn hvor stor del av bildet som skal inneholde bevegelse før det skal trigges. 
+En katt vil f.eks. dekke mindre enn 10% av bildet, mens et menneske vil dekke mer. 
+Først da vil opptak starte og melding sendes. 
+
+Det som fungerer i skrivende stund er varsel på mail. 
+Det er også lagt opp til SMS-varsling og live video i form av videosamtale. 
+
+Men det var ikke mulig å registere mobil med norsk retningsnummer, så dette kunne ikke sjekkes ut. 
+
+Ekstra tjenester 
+
+Du kan også registrere flere brukere som kan sjekke kameraet samtidig, mot en tilleggskostnad. 
+
+Det er også mulig å sette opp flere kameraer som du kan overvåke samtidig på skjermen, men få varsler fra separat. 
+
+Konklusjon 
+
+Cameramanager-pakken er enkel å komme i gang med og svært enkel å bruke. 
+Kvalliteten er tilstrekkelig for de fleste formål, men egner seg ikke til utendørs montering på utsatte steder. 
+
+Prisen for pakken med kamera pluss 2 nettadaptere for strømnett koster 2 995 kroner hos Komplett. 

@@ -1,0 +1,116 @@
+Fujitsu Siemens Amilo PI 2530
+Amilo PI 2530 er en ekte Centrino med integrert webkamera og dedikert grafikkort som kan være stille på kommando. 
+Vi har gått den litt etter i plastsømmene. 
+
+I prisklassen rundt ti tusenlapper er det slett ikke uventet en god del modeller av bærbare PCer å velge mellom - kanskje ikke så merkelig da det ligger en magisk grense der et sted. 
+
+LES OGSÅ: 
+
+Vi skal nå se på et par bærbare (en i dag og en over helgen) som begge koster ni tusenlapper - en fra HP og en fra Fujitsu Siemens. 
+Som du skjønner av overskriften starter vi med sistnevnte. 
+
+Sånn ser den ut: 
+
+Spesifikasjoner testmaskin: 
+
+Intel Core 2 Duo T7100 (1,8 GHz) 15,4" skjerm på 1280 x 800 punkter 2 GB DDR2-minne 160 GB harddisk ATI Mobility Radeon HD 2300 (128 MB RAM) WLAN (a/b/g), 10/100 LAN, modem 3 x USB, infrarød ExpressCard/54 kortplass Kortleser for SD, MMC, MS, MSPRO VGA og DVI ut, lyd inn, analog/digital lyd ut 1.3 Mp webkamera og integrert mikrofon Dimensjoner (B/D/H): 36,0 x 27,0 x 4,3 cm Vekt ca tre kilo Pris 8.995,- 
+
+Bredskjermen har 1280 x 800 punkter og er av den blanke typen med kontrastbelegg - som naturlig nok gir den skarpe bilder og klare farger. 
+
+Konstruksjon 
+
+Liker du sort og sølvfarget plast kommer du også til å like Amilo PI 2530. 
+Bortsett fra den sorte pyntestripen tvers over lokket er det heller ingen blanke overflater som krever daglig pussing av fingeravtrykk. 
+
+Selve byggekvaliteten virker grei, med et relativt stivt chassis og skikkelig hengslet lokk. 
+Området rundt det optiske drevet og baksiden av skjermen gir litt etter for trykk, men det er slett ikke uvanlig på modeller hovedsaklig rettet mot vanlige forbrukere. 
+
+Tastaturet er av den felles skandinaviske typen og er behagelig i bruk. 
+Det er også stille, men litt ekstra svikt på høyre side gjør at det kan gi godt med lyd fra deg dersom du liker å hamre litt på tastene. 
+Layouten er relativt god. 
+
+Touchpaden er stor og i bredformat, med en litt ruglete overflate. 
+Følsomheten er god, men den har kun vertikalt skrollefelt. 
+De to knappene under er store og enkle å treffe, men også en anelse harde å presse ned. 
+
+Av/på-knappen er plassert til venstre over tastaturet sammen med to snarveisknapper: en for hurtigstart av Media Player og en som setter maskinen i "stille modus", noe vi (heldigvis) begynner å se på stadig flere bærbare. 
+
+Tilkoblingsmuligheter 
+
+De fleste kontaktene på Amilo PI 2530 er plassert på baksiden av maskinen: 
+
+Her har vi utganger for DVI, VGA, inntak for strøm, modem, LAN og to USB-kontakter. 
+Dette lar deg samle alle kabler (unntatt eventuelle lydkabler) på baksiden av maskinen, noe som gir et mer ryddig inntrykk. 
+I tillegg blåser varmluften ut her. 
+
+Fronten er enkel og stilren, alt vi finner her er statuslysene på venstre side, og under de sitter IR-mottageren og en liten bryter for trådløst nett av og på. 
+
+På høyre side er det heller ikke så mye som ødelegger stilen: kun minnekortleseren og en USB-port. 
+Sistnevnte port serverer også strøm når maskinen er slått av, så den er fin til å lade mobilen eller MP3-spilleren. 
+
+Venstresiden har inn- og utganger for lyd, ExpressCard/54-port og det optiske drevet. 
+
+Ytelse og batterilevetid 
+
+På innsiden er Fujitsu Siemens Amilo PI 2530 bestykket med en fullblods Intel Core 2 Duo - om enn kun på 1,8 GHz - og 965-brikkesettet, noe som gjør at den har fått påklistret Centrino-merket. 
+
+Grafikkbrikken fra AMD har vi ikke vært borti før, men fra hva vi vet er den ganske nye Radeon HD 2300 - på tross av et høyere modellnummer - dårligere til spill enn for eksempel X1600. 
+Til gjengjeld har den ny teknologi som gjør den bedre på video. 
+
+Amilo PI 2530 har naturligvis hard konkurranse, og vi har derfor sammenlignet med noen andre (og litt dyrere) modeller vi har testet den siste tiden: 
+Compal IFL90+: 15,4 tommer, Core 2 Duo @ 2,2 GHz, GeForce 8600M GT grafikk. 
+Acer TravelMate 6492: 14,1 tommer, Core 2 Duo @ 1,8 GHz, Intel GMA X3100 grafikk. 
+Multicom Z37S: 13,3 tommer, Core 2 Duo @ 2,0 GHz, GeForce 8400M G grafikk. 
+Alle disse har scoret en femmer på vår terning. 
+
+Aceren koster en tusenlapp mer enn Amilo PI 2530, og for å få Z37S eller Compalen som vi sammenligner med her må du bla opp henholdsvis tre og fire tusen ekstra - men disse kan også fåes med rimeligere konfigurasjoner. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Amiloen gjør det her jevnt over bedre enn Acers TravelMate, som har samme prosessor men integrert grafikk. 
+IFL90+ er i en klasse for seg, men denne konfigurasjonen er altså også langt dyrere. 
+Men legg merke til klasseforskjellen på grafikksiden. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+Vår ATI-løsning er altså ingen racer på grafikksiden, men holder godt stand mot Intels nyeste integrerte løsning og bunnkortet 8400M G fra nVidia. 
+For seriøs spilling ser vi tydelig at det finnes langt bedre alternativ, men Amilo PI 2530 er ikke håpløs så lenge du holder deg til lav oppløsning og ikke er for kravstor på kvaliteten. 
+Godt nok til sporadisk spilling altså, men hardbarkede gamere vil nok se etter noe med mer kraft. 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+I vår test med BatteryMark holder Amilo PI 2530 i nesten tre timer, noe som er et anstendig resultat. 
+
+Støy og varme 
+
+Denne bærbare fra Fujitsu Siemens har ingen punkter som virker spesielt varme så lenge vi ser bort i fra bak- og undersiden av PCen. 
+Men Amiloen er som vi har sett ikke noen direkte sinke, så vifta må steppe inn en gang i blant for å holde varmeutviklingen på et forsvarlig nivå. 
+
+Denne bærbare er egentlig ikke spesielt stille, spesielt med maskinen under hard belastning er det både susing og viftestøy. 
+Redningen kommer i form av en knapp ved siden av av/på-knappen, som setter maskinen i en slags "stille modus" der ytelsen senkes for å holde varmeutviklingen - og viftestøyen - på et minimum. 
+
+Vurdering og konklusjon 
+
+Fujitsu Siemens Amilo PI 2530 er så avgjort ikke den kuleste bærbare i gata. 
+Men betyr det at den er et dårlig kjøp? 
+
+I bunn og grunn kommer det helt an på deg, kunden. 
+Bit deg nemlig med en gang merke i at maskinen er bygd, priset og rettet mot forbrukermarkedet. 
+Er du en tung bruker med planer om å ta med deg maskinen frem og tilbake på jobb eller skole hver eneste dag vil du nok bli lykkeligere ved å spytte i en ekstra tusenlapp og for eksempel gå for Acer TravelMate 6492 eller noe i den retningen. 
+Altså en litt mer solid bærbar med mindre vekt. 
+
+Amilo PI 2530 passer derimot godt for vanlig hjemmebruk - gjerne som en liten skrivebordserstatter. 
+Maskinen har relativt god og balansert ytelse som passer til all vanlig bruk - inkludert sporadisk spilling. 
+Og når du ikke trenger all ytelsen (som når du surfer nettet) har den altså en stille modus som gjør at du slipper unna en god del viftestøy. 
+Grafikkortet og digital lydutgang gjør også PCen glimrende til film og musikk, men skal du koble den til en TV vær obs på at den ikke har vanlig S-Video-utgang. 
+
+Totalt sett er det altså en god pakke for en bærbar til hjemmet, men når vi er i denne prisklassen minner vi også om MacBook, selv om denne har en svakere grafikkløsning. 
+Og er du ikke så kravstor på ytelsen (og vil spare et par tusen) kan også vår testvinner fra før sommeren være verd en ekstra titt. 
+
+Minner også på at vi til tirsdag kommer med test av en fersk HP-modell til samme pris, så det kan være greit å utsette eventuelle kjøp til etter du har lest den. 
+
+En liste over maskiner vi har testet finner du her! 

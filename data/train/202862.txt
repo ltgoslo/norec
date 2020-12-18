@@ -1,0 +1,62 @@
+Linksys AE3000 USB WLAN-adapter med tre antenner
+Trådløs rekkevidde og hastighet: 
+Er det noe å hente med en USB-adapter? 
+
+Det dukker opp stadig mer avanserte, raskere rutere, med stadig lengre rekkevidde. 
+I tillegg dekker de flere frekvenser for å slippe unna trengselen i de mest utbredte frekvensområdene. 
+
+Men det hjelper ikke med en super ruter hvis ikke mottakeren evner å følge opp. 
+
+De fleste bærbare er ikke utstyrt med det heftigste trådløse utstyret, verken nettverkskortet eller antenneløsningen er på topp. 
+Spesielt i de lavere prisklassene knipes det på slikt. 
+
+For et halvt år siden skrev vi en artikkel hvor vi testet to forskjellige bærbare mot samme ruter, toppmodellen fra Linksys, den ene hadde to antenner mens den andre hadde tre og Intels mest potente nettverkskort. 
+
+Men må du byttte maskin for å få bedre trådløst ytelse? 
+Vi har testet Linksys AE3000 som er et USB-basert WLAN-adapter. 
+
+Installasjon 
+
+Driveren kommer på en CD, hvis maskinen du skal installere på ikke har et drev for en slik kan du laste ned driver og annen nødvendig programvare fra nettet. 
+
+Med selve adapteret følger det også en dokk med kabel, slik at du kan plassere adapteren i den gunstigste vinkelen uten å måtte flytte PC og deg selv. 
+
+Installasjonen gikk greit unna uten inngrep fra vår side. 
+Man starter uten AE3000 plugget inn, og setter den inn når installasjonsprogrammet ber om dette. 
+
+Ytelse 
+
+Maskinen vi testet på er en HP 2560p som har 3 antenner og Intel Centrino Ultimate-N 6300, det nyeste og mest kapable nettverkskortet til Intel installert. 
+
+Kan AE3000 matche ytelsen? 
+
+Vi testet på våre to standardplasseringer: ved stuebordet to etasjer ned fra der ruteren er plassert oppunder mønet i vårt trehus og nede i kjelleren. 
+Ruteren var Linksys E4200. 
+
+I stua fikk vi følgende resultater: 
+
+Det er viktig å påpeke at disse målingene er gjort med adapteret plassert i den mest gunstige vinkelen. 
+Snur du den 90 eller 180 grader blir ytelsen langt lavere! 
+Her gjelder det å eksperimentere, og USB-dokken gjør dette svært uproblematisk. 
+
+På 2,4 GHz er resultatene med AE3000 noe svakere enn den innebygde WLAN-løsningen i test-PCen. 
+
+Men så snart du går opp til 5 GHz er ytelsen generelt vesentlig høyere, og AE3000 gir bedre resultater enn vi har målt med noen annen løsning! 
+
+I kjelleren fikk vi disse resultatene: 
+
+Den innebygde WLAN-løsningen kunne ikke motta signaler i det hele tatt på 5 GHz, mens AE3000 leverte brukbar ytelse. 
+
+Sammenligner vi AE3000 i stueposisjonen med resultatene vi fikk med samme ruter, helt kurant Dell Vostro med 2 antenner og ordinær WLAN-løsning får vi ganske ekstrem forskjell: 
+
+Konklusjon 
+
+Det er ingen tvil, Linksys AE3000 er enda et strå vassere enn den innebygde løsningen! 
+Det hadde vi ikke ventet. 
+
+For noen få hundrelapper kan du få doblet ytelsen, hvis du har en ny ruter og en PC med eldre trådløs nettverkskort og antenner innebygd. 
+
+På 2,4 GHz er ytelsen mer ordinær, så det er først der hvor du trenger topphastighet at det er noe å hente, med en ruter som støtter 3 datastrømmer og 5 GHz. 
+
+Video i HD-oppløsning og overføring av mange og/eller store filer er typiske bruksområder hvor AE3000 virkelig får vist hva den duger til. 
+Sitter du mest på jobb, kafé, hotell og andre steder hvor det ikke er 5 GHz er det ikke mye å hente. 

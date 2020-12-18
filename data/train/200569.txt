@@ -1,0 +1,101 @@
+Sony Ericsson XPERIA Neo
+Arcs lillebror er svært mye mobiltelefon for pengene. 
+
+Med flere nye modeller denne våren er Sony Ericsson på hugget hva gjelder Android-telefoner. 
+Nylig trillet vi en femmer til Xperia Arc, mens PlayStation-telefonen Xperia Play ikke nådde helt opp. 
+
+Dagens testmodell, Xperia Neo, er imidlertid en interessant krabat som også er noe billigere enn de andre modellene. 
+
+Men, til tross for en relativt hyggelig prislapp på drøye 3.000 kroner i de billigste nettbutikkene, er det få kompromisser som er gjort i Neo. 
+
+Telefonen har svært mye til felles med storebror Arc, der den største forskjellen er at skjermen er mindre og designen ikke fullt så tynn. 
+Til gjengjeld har Neo fått et kamera i front som kan brukes til videosamtaler eller for å ta bilder av deg selv, og faktisk opplever vi den mer komfortabel både å holde og bruke. 
+
+Tekniske spesifikasjoner, Sony Ericsson Xperia Neo 
+
+Skjermstørrelse: 3,7"Oppløsning: 
+854x480 pikslerSkjermteknologi: 
+TFT LCDProsessor: 1GHzInnebygd minne: 335MB RAM, 380MB internlagring (til apps som ikke kan kjøres fra minnekort)Minnekort: 
+Micro SD opp til 32GB, 8GB følger medAndroid-versjon: 
+2.3.2 (Gingerbread)Kamera: 
+8Mp+0,3MpVideo: 1280x720 (720p)Radio: Stereo FM m/ RDS (krever medfølgende ørepropper)Utganger: 3,5mm jack (ørepropper følger med), micro HDMI (kabel følger med), micro USB (til lading/dataoverføring, kabel følger med)WiFi: Wi-Fi 802.11 b/g/n, DLNA3G: 
+HSDPABluetooth: v2.1Mål: 
+116 × 57 × 13mmVekt: 126 gramBatteri: 
+1500mAhPris: ca 3300 kroner 
+
+Konstruksjon 
+
+Xperia 
+Neo er litt klumpete og langt fra like elegant i utformingen som Arc. 
+Når det er sagt, er imidlertid noen av ankepunktene vi hadde mot Arcs konstruksjon faktisk bedre på Neo. 
+
+Vi tenker spesielt på kameraknappen, som er flyttet lenger inn mot midten og gjør at det er langt mer komfortabelt å bruke den til å ta bilder med enn hva tilfellet er for Arc, og i tillegg er både strøm- og hodetelefonuttaket flyttet til toppen av telefonen – mer praktisk om du har den i lomma mens du hører på musikk, først og fremst. 
+
+Baksiden er avrundet slik at telefonen ikke ligger støtt på bordet, men det gjør den også god å holde i hånda, for selv om belegget er glatt, gjør avrundingen at det uansett er lite fare for å miste den. 
+
+Skjermen er "bare" 3,7 tommer stor - den samme størrelsen som f.eks. HTC Desire, men med noe høyere oppløsning. 
+Xperia-telefonene har nemlig 854 piksler i høyden (kontra 800 som er vanlig), og bildet er dermed marginelt skarpere, selv om det selvsagt er et godt stykke frem til Retina-skjermen på iPhone 4, med 960x640 piksler fordelt over 3,5 tommer. 
+Overflaten er imidlertid mer refleksiv enn hva tilfellet er for Arc, og innsynsvinkelen er også dårligere enn hos storebror. 
+
+Også på Neo har Sony valgt å inkludere Bravia-motoren som gjør at bilder og film går igjennom en softwareprosessering, slik at de fremstår mer fargerike og med større kontrast, og forskjellen er godt merkbar. 
+Dessverre har vi litt trøbbel med de nye Xperia-telefonene når det gjelder å ta skjermdumper via Android-SDK-et der bildene får et markant rødstikk, så vi får dessverre ikke illustrert forskjellen på skikkelig vis. 
+
+Ellers oppleves skjermen også å være god på Neo, selv om den ikke er limt til glasset slik tilfellet er på Arc, der skjermen oppleves mye nærmere når man interagerer med telefonen. 
+
+Spretter vi opp lokket på baksiden, ser vi at minnekortet kan byttes ut uten å ta ut batteriet, mens SIM-kortet delvis er dekket. 
+Som på Arc finnes det også en sekundær mikrofon på baksiden som fanger opp lyd når du prater i telefonen, slik at bakgrunnsstøy lettere filtreres ut. 
+
+Av og på-knappen er flyttet til høyre side av telefonen, og fordi telefonen er bredere her enn hva Arc er rundt sin power-knapp, er den også lettere å trykke på, selv om motstanden tilsynelatende er omtrent lik. 
+På toppen finnes dessuten en micro HDMI-utgang for å koble telefonen til en TV. 
+
+I bruk 
+
+Vi går ikke så dypt inn på Sony Ericssons Android-tilpasninger denne gangen, siden grensesnittet i Neo er prikk likt det som finnes på Arc, så for litt mer kjøtt på beinet henviser vi til Arc-testen. 
+
+Kort oppsummert synes vi Sonys forsiktige endringer av Android-grensesnittet slår positivt ut - grensesnittet er elegant med små animasjoner (f.eks. når tekstmeldinger vises) uten at blir for mye av det gode, og et par småfunksjoner er ekstra smarte, som dock-ikonet for media, som viser tre nye ikoner for galleri, musikk og FM-radio når du trykker på det. 
+
+Du får også med de samme applikasjonene som på Arc, og også Neo kjører siste versjon av Android, v2.3 (Gingerbread). 
+I testperioden har vi opplevd telefonen som stabil og fin, uten den lille WiFi-svakheten vi opplevde på Arc, der telefonen mistet nettilgangen en gang i blant slik at WiFi måtte slås av og på. 
+Det virker imidlertid som dette er et problem på enkelte eksemplarer både av Arc og Neo, og blir forhåpentligvis fikset i en senere oppdatering. 
+
+Vi har heller ikke hatt noe problemer med å koble telefonen til Exchange-serveren vår, og epostklienten får utvidet funksjonalitet i landskapsmodus, der bildet deles i to; en halvdel med emne og avsender, og et annet med selve epostinnholdet. 
+
+Ytelse 
+
+Med samme prosessor som Arc, får vi også omtrent samme score på Quadrant Standard-testen, der Neo klokker inn på 1577. 
+Det skal sies at gjentatte kjøringer av denne testen varierer noe (avhengig av øvrig belastning), og vi pleier derfor å kjøre den flere ganger og velge det beste resultatet. 
+
+Den dedikerte kameraknappen er også kjekk å ha – holder du den nede i noen tideler, får du en liten vibrasjon fra telefonen som indikerer at den starter kameraapplikasjonen, og det går stort sett på et par sekunder. 
+Også Neo er kjapp når det gjelder å ta flere bilder etter hverandre, og så snart bildet er klart er kameraet klar til å ta et nytt bilde. 
+
+Ellers er Neo kjapp og grei i menyene, uten noen nevneverdige forsinkelser etter vår erfaring. 
+Nettleseren flyter også godt, så alt i alt tviler vi på at noen vil være misfornøyde med ytelsen. 
+
+Kamera, batteri og samtalekvalitet 
+
+Kameraet i Xperia 
+Neo er tilsynelatende det samme som sitter i Arc, med åtte megapikslers oppløsning, og også på Neo har Sony bakt inn den bakbelyste Exmor R-sensoren som gjør at kameraet er i stand til å få mer ut av dårlige lysforhold. 
+
+Med andre ord er kameraet meget godt – god lysmåling/hvitbalansering og detaljrike bilder, i hvert fall til et mobilkamera å være. 
+
+Når det gjelder batteri, får vi som forventet. 
+Kapasiteten er oppgitt å være den samme som Arc, og vår erfaring tilsier også at telefonen bør lades hver kveld dersom du bruker den flittig. 
+Da vi fikk telefonen tok det litt tid før vi fikk begynt med testingen, og Neo ble derfor ikke brukt noe særlig. 
+Da holdt batteriet faktisk i tre døgn. 
+
+Med tanke på samtalekvalitet har vi heller ingen store innsigelser på Neo – den sekundære mikrofonen på baksiden gjør også at motparten lettere hører hva vi sier. 
+
+Konklusjon, Sony Ericsson Xperia Neo 
+
+Oppsummert er vi svært positive til Xperia Neo. 
+For en tusenlapp mindre enn Arc får du en telefon som riktignok ikke er like tynn og elegant, men til gjengjeld er knappe- og portplassering smartere, og Neo fremstår derfor som mer komfortabel å bruke enn storebror. 
+
+I tillegg får du et frontmontert kamera, siste versjon av Android (med lovnader fra Sony Ericsson om at de skal være kjappe med fremtidige oppgraderinger), et velfungerende grensesnitt, dedikert kameraknapp og HDMI-utgang for visning på TV. 
+
+Til drøye 3000 kroner i de billigste nettbutikkene er det rett og slett svært god valuta for pengene. 
+Det er en telefon som fint kan måle seg med de som koster 30% mer, uten at du gjør noen store kompromisser. 
+
+Og nettopp derfor triller vi en sekser på terningen til Sony Ericsson denne gangen. 
+Er du komfortabel med tykkelsen tviler vi på at du gjør bedre valg dersom den siste tusenlappen er viktig å spare. 
+Vil du spare enda mer, bør du også ta en titt på Huawei Titan U8800, som nå er enda en tusenlapp billigere enn Neo, men som ikke har like godt kamera (eller kameraknapp for den saks skyld). 
+Den har heller ikke siste versjon av Android, litt tregere prosessor og mangler også HDMI-utgang. 

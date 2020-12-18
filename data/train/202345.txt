@@ -1,0 +1,175 @@
+Sony Bravia KDL-55EX720
+Når du får en 55-tommers LED til 13.500 kroner er det egentlig ikke lett å klage, men vi gjør det likevel. 
+
+EX720 er Sonys billigste TV-serie med 3D-funksjon i 2011, og når du får vårt testeksemplar på 55-tommer til 13.500 kroner er det lett å bli blendet. 
+
+På papiret får du nemlig mye for pengene: 
+
+Du får blant annet TV-tuner for RiksTV, mulighet for TV-opptak via USB-inngangen, samt videotelefoni via Skype. 
+Du får også tilgang til nettfunksjoner som blant annet Facebook og Twitter, og TV-en er DLNA-kompatibel for overføring av mediefiler som video og bilder via nettverket i hjemmet. 
+
+Ganske imponerende altså, men det store spørsmålet er selvsagt hva Sony har spart på. 
+
+Førsteinntrykk 
+
+At TV-en er slank er ingen overraskelse, dette er tross alt en LCD TV med kant-LED belysning – og i dag forventes det at disse er tynne. 
+Rammen er for øvrig i høyglanset pianolakk og TV-foten er dreibar. 
+Lang historie kort: 
+Vi liker utseendet. 
+
+Fjernkontrollen er derimot en gammel kjenning. 
+Den fungerer ok, men er stor, tykk og utstyrt med for mange knapper. 
+Dette gjør at den krever litt tilvenning. 
+Nytt av året er imidlertid at Sony også har en gratis iPhone-applikasjon som lar deg styre TV-en og dens funksjoner. 
+
+Appen fungerer faktisk ganske så bra, og har sin store styrke når det gjelder å skrive inn tekst, ettersom du da kan bruke iPhonens touch-tastatur. 
+
+Men: 
+At Sony har utstyrt appen sin med vilkårlige annonser er imidlertid en solid skrape i lakken. 
+Det gjør at den med ett ser billig ut, sammenlignet med konkurrentenes alternativer… 
+
+TV-en har for øvrig fire HDMI-innganger, men dessverre er hele tre av dem plassert rett på baksiden av selve TV-apparatet. 
+Det er en stor ulempe når du skal henge TV-en på veggen, her må du altså velge et veggfeste som bygger litt i dybden, hvis du skal benytte disse inngangene. 
+
+Menyer og finesser i bruk 
+
+I fjor reagerte vi på at Sonys TV-menyer var litt trege. 
+Den dårlige nyheten er at det fortsatt er tilfelle, og sammenlignet med både Samsung og Panasonic er det ingen tvil om at Sony har en del å gå på. 
+Som standard leveres også TV-en med en meningsløs pipelyd hver gang du trykke på fjernkontrollen, men heldigvis: 
+Ulyden kan slås av i menyen. 
+
+Som vanlig er Sony flinke når det gjelder brukervennlighet, og vi gir nok en gang pluss i margen for at hele bruksanvisningen til TV-en finnes i skjermmenyen. 
+
+Sonys nettfunksjoner 
+
+At TV-en har nettfunksjoner er en ting, men spørsmålet er selvsagt hva du får, og hvordan de fungerer. 
+Vår oppfatning er at Sony fortsatt har en del å gå på her. 
+
+Kablet. 
+TV-en kan altså kobles til nettet via nettkabel, men vil du ha den trådløs må du kjøpe et Wifi-adapter (USB-stikk) som ekstrautstyr. 
+Vi liker hvordan TV-en raskt får kontakt med vår Windows-PC, og at det er enkelt å spille av video, bilder og musikk. 
+DLNA-funksjonene begynner altså endelig å fungere etter planen. 
+Fortsatt skuffende formatstøtte 
+Vi har tidligere kritisert Sony (og Philips) for å ha vært knipne på hvilke videoformater de lar TV-ene spille av via nett eller USB-inngang. 
+Og dessverre, slik er det fortsatt. 
+
+På musikkformater støtter den kun MP3, WAV og WMA. 
+En ting er at den ikke støtter OGG og HE-AAC (AACplus), men at den heller ikke takler det høyoppløste lydformatet FLAC og M4A-filer er en nedtur. 
+Mangelen på M4A-støtte gjør for eksempel at du ikke får spilt av musikk du har kjøpt via iTunes. 
+
+Heller ikke når det gjelder noe så enkelt som bildefiler er vi i mål. 
+TV-en finner alle våre bilder, men klarer bare å vise de som er lagret i stor og medium størrelse. 
+De små JPEG-bildene vises altså ikke. 
+Det er ulogisk. 
+
+Og på video er det definitivt ikke bedre. 
+Av våre 18 test-videofiler viser den kun ni, og av disse igjen feiler tre. 
+Det som støttes er AVI Xvid 720p, og 576p, WMV 1080p, 720p, og 576p, samt MPEG2 DVD. 
+
+Den største tabben er at ingen av filene lagret i den populære MKV-konteineren eller Divx i 1080p vises. 
+Heller ikke avspilling av M2TS AVCHD-filer lagret i 1080p fungerte, og det gjør at du her kan risikere å ikke få spilt av filer du har tatt med ditt AVCHD-videokamera. 
+
+Selv om du kan være heldig å få spilt av dine multimediefiler, beviser våre forsøk at formatstøtten ligger milevis bak hva vi har blitt vant til fra LG og Samsung, og det er ikke bra nok i dag. 
+
+Vi synes også det er tungvint å få tilgang til innholdet via USB-inngangen. 
+For det første finner du den ikke via kildeknappen på fjernkontrollen, her må du altså trykke på Home-knappen, og bla deg gjennom menysystemet til Sony. 
+Når du så finner Media-mappen er i tillegg innholdet fordelt på Musikk, Fotoer, og Videoer. 
+Skal du se på bilder må du altså sørge for å velge Bilde-mappen først, og ligger det tilfeldigvis en MP3-låt i samme mappe får du ikke tilgang til den her. 
+Da må du gå ut igjen, og så gå inn i Musikk-mappen, osv. osv. 
+
+Dette er tungvint, og gjør at du må trykke alt for mange ganger på fjernkontrollen. 
+For sjefen i stua er det helt sikkert greit, men for de små eller eldste i familien blir dette raskt en kilde til irritasjon. 
+
+Vi vil ganske enkelt at Sony skal vise oss alt innholdet på USB-pennen i en operasjon, og så la oss velge innholdet fritt. 
+Kommer bedre formatstøtte, og dette på plass vil også funksjonene bli brukt. 
+Slik er det ikke i dag. 
+
+Men hvor er innholdet? 
+YouTube, videosamtale via Skype (må kjøpe webkamera), og Facebook samt Twitter er på plass. 
+De to sistnevnte kan også brukes samtidig som du ser på TV, perfekt for deg som fulgte Hurtigruten altså. 
+
+Tasting via den TV-fjernkontrollen er likevel tungvint, men her viste iPhone-appen sin styrke, og gjorde prosessen langt enklere. 
+Dette er bra! 
+
+Vi legger likevel merke til at verken designet eller brukeropplevelsen du får av nettmenyene er like elegante som hos for eksempel Samsung. 
+En ting er at det går tregere, men hos Sony må du ofte bruke lengre tid på finne det innholdet du vil ha. 
+Ikonene er altså mindre selvforklarende, og ikke minst; indekseringen av innholdet er verken god nok - eller så logisk som vi forventer i 2011. 
+
+Det største aberet er imidlertid at Samsung, LG og Philips har blitt flinkere til å tilby innhold med mening. 
+
+Alle disse gir deg for eksempel tilgang til video-on-demand løsninger rett i TV-en, noe du ikke får hos Sony. 
+Her må du i stedet nøye deg med å se filmtrailere, og i 2011 oppleves det som litt snaut. 
+
+Dette kan imidlertid skyldes rettighetsproblematikk, VOD-tjenesten Netflix er f.eks tilgjengelig via Sony i utlandet, og det er lov å håpe at de eller andre alternativer etter hvert vil bli tilgjengelig også her. 
+
+Sony gir deg nå også en nettleser som lar deg surfe fritt på nettet. 
+Det liker vi. 
+Som hos konkurrentene går det imidlertid litt tregt, og vi liker heller ikke at nettleseren ikke støtter Flash-innhold. 
+Enn så lenge er altså parolen klar: 
+Dedikert nettsurfing gjøres fortsatt desidert best fra en bærbar PC i sofakroken. 
+
+Bildekvalitet 
+
+Førsteinntrykket var ikke helt optimalt. 
+Som vanlig fra Sony var fargene litt for sterke, i likhet med Philips er de altså litt for opptatt av å vise seg fra sin flashy side. 
+
+Når “standard-modusen” på vår testmodell i tillegg hadde så høy lysstyrke og kontrast at det meste av sortnivået forsvant ble vi faktisk litt skuffet. 
+TV-en var faktisk blassere enn alle de modellene fra Samsung, LG og Panasonic som vi også hadde inne samtidig. 
+
+Heldigvis var det enkelt å løfte bildeopplevelsen, og hos oss ble det langt bedre bare ved å bytte til bildemodusen “Tilpasset”. 
+
+Når vi tillegg justerte kontrasten, og dempet R-Gain og G-Gain i den avanserte bildemenyen, viste imidlertid TV-en seg fra en langt bedre side: 
+Sortnivået og fargemetningen falt på plass, og vi endte opp med å bli rimelig fornøyde. 
+
+Like mørk som Panasonic VT30 (test på vei) eller Samsung D8005 kom vi imidlertid ikke, men dette er da også TV-er som er en god del dyrere enn EX720. 
+
+Etter bildejusteringen la vi likevel merke til at vi mistet en del detaljer i de mørkeste partiene på TV-en. 
+Det kom riktig nok ikke som noen overraskelse. 
+For heller ikke Sony kan trylle seg frem til mirakler på LED i denne prisklassen. 
+Litt mer uheldig er det imidlertid at vi kunne skimte lysgjennomtrengning fra LED-diodene (= ofte kalt clouding i hjørnene på panelet). 
+Er dette noe som du vet vil irritere deg er du altså advart. 
+
+Sonys Motionflow-system har vi gitt mye skryt til tidligere, og det fungerer bra her også. 
+Kort fortalt minimerer det hakking i bildet ved panoreringer, og sammen med scanning backlight-teknologien virker responstiden å være god nok både på SD-sendinger og HD-TV eller Blu-ray. 
+Når det gjelder 3D via Blu-ray er det imidlertid litt å pirke på. 
+
+Bedre 3D, men... 
+
+Den gode nyheten er at 3D-senderen nå er innebygget i selve TV-en. 
+I fjor måtte den kjøpes som ekstrautstyr og monteres over eller under TV-en. 
+Men 3D-briller må du altså fortsatt kjøpe, de følger ikke med i esken.. 
+
+Vi ser også at crosstalk (skyggetegninger rundt objekter) er redusert sammenlignet med fjorårsmodellene. 
+Minuset er at det fortsatt ikke er helt borte, og dette vil du spesielt legge merke til hvis kontrasten er satt for høyt. 
+Den kan du selvsagt senke, men igjen; det vil også kunne gå ut over sortnivået, så da bør du også justere lysstyrken. 
+I motsetning til på LGs modeller har du imidlertid full tilgang til bildeinnstillingene også i 3D-modus. 
+Det er et stort pluss. 
+
+Vi synes også at det er mer hakking ved panoreringer i bildet når 3D er aktivert, her får du altså ikke fullt utbytte av Motionflow-funksjonen. 
+På de dyrere modellene Samsung D8005 og VT30 fra Panasonic er Crosstalkproblemet borte, men vi ser også at Panasonic GT30 (som prismessig er billigere enn EX720) løser dette bedre. 
+
+Vi ser altså at selv om Sony EX720 har blitt bedre på 3D enn Sonys rimelige modeller fra i fjor, så har konkurrentene blitt enda bedre. 
+(Hvorvidt dette også gjelder på årets toppmodeller fra Sony må vi imidlertid komme tilbake til, vi har den nye 920-serien inne akkurat nå.) 
+
+Konklusjon 
+
+Tross en del innvendinger er det faktisk mye fint å si om Sony EX720, og vi tror mange vil falle for fristelsen til å få en 2011-modell på 55-tommer til rundt 13.500 kroner. 
+3D-funksjon, USB-opptak, samt Twitter og Facebook-funksjonen gir også pluss i margen. 
+
+Ulempen for Sony er at dette ikke lenger er unike finesser og funksjoner. 
+Faktisk er det snarere tvert om, det er i ferd med å bli standard hos alle de store produsentene, og da blir det heller ikke lettere av at prisraset i markedet gir EX720 konkurrenter den ellers ikke ville hatt. 
+
+Går du ned til 50-tommer mener vi for eksempel at du vil få langt bedre bildekvalitet både i 2D og 3D ved å velge fjorårets toppmodell fra Panasonic, altså VT20. 
+Vil du ha en 2011-modell ville jeg heller gått for Panasonic GT30 som også fås til samme pris. 
+Begge disse er imidlertid plasma-modeller, og er ikke så slanke og elegante som EX720. 
+
+Vi har heller ikke glemt de rimelige 55-tommerne i LED-klassen, og her blir Sonyen mer aktuell. 
+Den har nemlig et litt mattere panel enn spesielt konkurrentene fra LG og Samsung. 
+Når det gjelder formatstøtte, 3D-visning og praktiske nettfunksjoner ligger den likevel langt bak. 
+Er du på budsjett ville jeg heller gått for LGs 47LW550W som spesielt har et bedre bilde på 3D. 
+Siden den bruker passiv 3D-teknologi kan du også kjøpe 3D-briller til hele fotballaget uten at det koster deg noe... 
+
+Totalt ender vi altså opp med en litt skuffende treer på terningen. 
+Det sier en del om hvor sterk konkurransen i TV-markedet er akkurat nå, for hadde EX720 kommet for et år siden ville den luktet på en femmer. 
+
+Sony Bravia Pro KDL-55EX720P 

@@ -1,0 +1,118 @@
+Asus N550Jv
+Meget bra PC til det aller meste. 
+
+Denne PC-en bør absolutt vurderes dersom du er ute etter en PC som kan brukes til "alt" fra skole/kontor-jobber til spill og multimedia. 
+Den har god ytelse, bra lyd - og en høyoppløst skjerm som verken har refleksjoner eller mister kontrast fra sidene. 
+Våre plusser og minuser finner du nederst. 
+Der finner du også lenker til andre PC-er du bør vurdere før du bestemmer deg. 
+
+Det er ikke første gang vi stifter bekjentskap med Asus sin N-serie. 
+I fjor testet vi blant annet N56VZ, som var en av de aller beste "allround"-PC-ene vi testet i løpet av sesongen. 
+N550Jv er nært beslektet utseendemessig, men den er blitt litt slankere. 
+Dessuten er den godt oppdatert på utstyrssiden. 
+
+Her er en kjapp utlisting av de viktigste tekniske egenskapene: 
+
+Skjerm: 15,6" Full HD matt IPS-skjerm, 1920 x 1080 piksler, ikke berøringsfølsom Prosessor: 
+Intel Core i7-4700HQ RAM: 
+8 GB (maks 16) 
+Grafikkort: 
+Intel HD 4600 / Nvidia Gforce GT 750M Lagring: 750 GB harddisk (5400 rpm) 
+Optisk drev: 
+Kombinert BD/CD/DVD-leser og CD/DVD-brenner Skjermutganger: 
+Mini-DisplayPort og HDMI 1.4 USB-porter: 3 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+SD/MMC Trådløst nett: 
+Atheros b/g/n, kun 2,4 GHz Kablet nett: 
+Ja, inntil 1000 Mbps Annet: 
+Bluetooth 4.0, fire interne høyttalere + ekstern subwoofer OS: 
+Windows 8 64 bit Størrelse: 383 x 255 x 27.7 mm Vekt: 2,6 kg Pris: 
+Fra 8.449 kr inkl mva (jf Prisjakt.no 20.9.2013) 
+
+Prisjakt.no 
+
+Hele kabinettet er av metall, kun rammen rundt skjermen er av plast. 
+Vekten er den samme som på forrige generasjon N-serie, men den er en halv centimeter tynnere - noe som gir et langt lekrere uttrykk, mener vi. 
+
+VGA-utgangen er borte og erstattet med en mini-DisplayPort. 
+Merk at begge er klargjort for 4K-oppløsning. 
+For øvrig merker vi oss at PC-en har det siste av det siste på de fleste plan. 
+Skulle det være noe vi ikke er helt fornøyd med måtte det være at PC-en har harddisk og ikke SSD, samt at nettverksortet ikke støtter 5 GHz-båndet eller trådløs overføring av skjermbildet (WiDi). 
+
+Alle tilkoblingene sitter på venstre og høyre side, og er lett tilgjengelig. 
+PC-en har også et optisk drev som kan spille Blu-ray-filmer, noe mange sikkert vil sette pris på. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Slike har fordelen at de er enkle å rengjøre. 
+En annen, og minst like viktig fordel er at tastaturet er fast og fint, og behagelig å skrive på. 
+Det avgir også lite lyd under skriving. 
+Baklys er også på plass. 
+
+Over tastaturet sitter en av/på-knapp og en hurtigknapp i hver sitt hjørne. 
+Hurtigknappen aktiverer Asus Console, en meny som blant annet gir deg rask tilgang til divere Asus-spesifikke innstillinger: 
+
+Under tastaturet sitter en relativt stor pekeplate som støtter flerberøring og en rekke såkalte "gestures" (fingerbevegelser for å aktivere forskjellige funksjoner). 
+
+Denne fungerer bra, og bedre enn den som satt på N56VZ. 
+Det eneste vi har å utsette på den er at den er litt følsom, for eksempel burde den skille bedre mellom fingerberøring og utilsiktet berøring med håndflaten. 
+
+Maskinen drar luft fra undersiden ved hjelp av to relativt store vifter, og blåser den ut under skjermfestet. 
+Viftene kan i lange perioder gå konstant, men de er meget støysvake i de aller fleste situasjoner. 
+De blir neppe noe irritasjonsmoment, men maskinen er ikke lydløs. 
+
+PC-en er utstyrt med intet mindre enn fire høyttalere, og i tillegg får du med en ekstern subwoofer som kobles til en egen utgang på venstre side av PC-en. 
+Det gir vesentlig bedre fylde i lyden, og på bordet i en liten hybel, med World War Z på Blu-ray og potetgullposen i fanget, har du langt på vei en grom enmannskino. 
+Det gir imidlertid en ekstra "klump" når man er på farten, og da legger nok de fleste subwooferen igjen hjemme. 
+
+Slik er den i bruk 
+
+Fra du skrur på PC-en til den er klar til bruk tar det 20 sekunder. 
+Det er faktisk ganske så raskt for en PC med harddisk. 
+Merk imidlertid at det kan ta vesentlig lengre tid de første gangene du starter PC-en, til ting har fått "satt" seg. 
+Uansett: 
+SSD-baserte PC-er starter ofte på godt under 10 sekunder, viser våre tester. 
+
+Det er imidlertid sjeldnere og sjeldnere man faktisk skrur maskinen helt av. 
+Lukker du lokket går maskinen i hvilemodus, og er klar på et par sekunder så snart du åpner det igjen. 
+
+PC-en oppleves uansett som meget rask i de fleste situasjoner. 
+Bruksopplevelsen er god, selv om vi av og til ergrer oss over popup-bokser som for eksempel påstår at PC-en er i faresonen (gjelder spesielt prøveversjonen av sikkerhetspakken fra McAfee. 
+Vi legger ikke skjul på at vi misliker den kraftig). 
+Windows 8 har god innebygd sikkerhet, så vi velger alltid å avinstallere denne prøvepakken - med god samvittighet. 
+
+Ytelsesmålinger 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og i diagrammene under har vi sammenlignet tallene vi fikk mot andre, relevante modeller vi har testet den siste tiden: 
+
+Prosessor: 7968 poeng. 
+Dette er øvre del av skalaen hva angår prosessorytelse på bærbare PC-er, og selv om det finnes raskere modeller, er det neppe her du vil oppleve noe flaskehals med det første. 
+Et meget godt valg for deg som har lyst på en PC som kommer til å holde tritt med utviklingen på programvaremarkedet de kommende fire-fem årene. 
+
+Grafikk: 1429 poeng. 
+Nesten fire ganger så høy 3D-ytelse som den integrerte grafikken fra Intel, og temmelig god ytelse til for eksempel spill. 
+Du kan spille de nyeste spillene på topp 10-lista i elektronikkbutikken, med høyt detaljnivå. 
+Bare på de aller mest krevende titlene kan det hende du må gå ned litt på oppløsningen for at den flytende opplevelsen også skal gjelde for de mest intensive scenene. 
+
+Harddisk Lesehastighet: 
+Inntil 110 MB pr sekund Skrivehastighet: 
+Inntil 78 MB pr sekund. 
+Dette er typiske tall for 5.400 rpm-harddisker, og definitivt det største ankepunktet mot denne PC-en. 
+Denne kan du riktignok bytte ut med en SSD senere, når behovet eventuelt melder seg. 
+En rask SSD kan gi en følelsen av en langt raskere PC, men det kommer helt an på bruksmåten. 
+Ved enkel bruk er det ikke sikkert du vil merke annet enn at programmer starter raskere. 
+
+Hva så med batteritiden? 
+Den kunne vært bedre - men her har altså Asus utstyrt maskinen med et firecellers batteri på 59 Wh, og det gir ikke bedre enn 287 minutter med lav belastning (4 timer og 47 minutter) og 216 minutter ved videoavspilling (3 timer og 36 minutter). 
+Under normal, variert bruk kan du forvente 4 timer før batteriet må lades, og det er under middels i denne kategorien. 
+
+Konklusjon 
+
+Nok en gang har Asus levert en PC som holder mål i de fleste bauger og kanter, og det er absolutt et godt valg for deg som er ute etter en allround-maskin. 
+Vi kunne tenke oss litt bedre batteritid når vi er på farten, og SSD for å dra mer ut av ytelsen, men alt i alt en maskin som får et velfortjent anbefalt-stempel. 
+
+Se våre plusser og minuser i boksen under, og få med deg testene av de åpenbare konkurrentene fra Multicom, Toshiba og Samsung. 
+
+Asus N550JV-CN182H 

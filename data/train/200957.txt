@@ -1,0 +1,72 @@
+TEST:Apple iMac 27" 
+
+Stor større størst - vi har sjekket den nye 27" iMac 
+
+Når man pakker opp den nye 27 tommers iMac er det ikke småtterier man hanskes med. 
+Vel plassert på skrivebordet blir man nesten overveldet over dimensjonene, opplevelsen er ikke så langt unna å sitte med en TV på fanget... 
+
+Dette er sjette generasjons iMac, og den fjerde generasjonen med all maskinvare integrert i LCD-skjermen. 
+Den første iMac fra 1998 hadde en bilderørs-skjerm (CRT) og den andre generasjonen fra 2002 hadde maskinvaren i en "klump" på bordet og LCD-skjermen satt på en bevegelig arm. 
+
+Maskinvare 
+
+Som i forrige generasjon er iMac laget i aluminium med hele forsiden over skjermflaten dekket med glass. 
+De to skjermstørrelsene er 21,5 tommer og 27 tommer diagonalt og oppløsningen er henholdsvis full HD på 1920 x 1080 og 2560 x 1440. 
+
+Skjermene har tidligere vært av den enkle TN-typen som vi finner i alle billigskjermene. 
+På de nye iMac'ene finner vi derimot IPS-paneler, som har stor betraktningsvinkel og ikke endrer fargebalansen uansett hvor du ser skjermen fra. 
+De har LED-bakgrunnsbelysning og altså en speilblank glassplate foran. 
+Den blanke flaten gir kraftig speileffekt og kan by på sjenerende gjenskinn i mange situasjoner. 
+Men når alt faller på plass er bildene klare og flotte med stor dynamikk. 
+
+Vårt testeksemplar var utstyrt med en 3,06 GHz Intel Core 2 Duo, 4 GB DDR3 minne og 1 TB harddisk. 
+Den store skjermen drives av et ATI Radeon HD 4670 grafikkort. 
+Det optiske drevet er som alltid en DVD-brenner, Blu-ray er tydeligvis ikke noe satsningsområde for Apple. 
+Det finnes også en kortleser for SD-kort ved siden av spalten til DVD-brenneren. 
+
+Tilkoblingene på baksiden byr på lyd inn og ut, 4 USB-porter, FireWire 800, Mini DisplayPort og Gigabit nettverk. 
+
+Du kan koble til en annen signalkilde i DisplayPort-kontakten (med en overgang) for å bruke iMac'en bare som skjerm. 
+Men maskinen må være påslått for at dette skal fungere, naturlig nok. 
+
+Tastaturet er svært lite, og har ikke numeriske taster. 
+Det ser litt rart ut under den store skjermen, men det er helt utmerket å skrive på og designet matcher jo. 
+
+Musen som følger med er den nye Magic Mouse, som har følsom overflate og støtter multi-touch (du trykker og flytter med fler enn én finger for å styre forskjellige funksjoner). 
+Vi syntes det fungerte greit, men man må ha en naturlig avslappet hånd for å trives med den. 
+Den kunne også beveget seg glattere, glideskinnene på undersiden skraper påtagelig både på bordflater og musematter, og det høres. 
+
+Både tastatur og mus bruker Bluetooth. 
+
+Les mer om musa i denne artikkelen 
+
+I bruk 
+
+Dette er basismodellen og den billigste av 27-tommerne, den kommer med 2-kjerne prosessor. 
+Blar du opp 2500 kroner mer får du nyeste generasjon Core i5 firekjerners prosessor og for 1700 oppå der igjen får du en Core i7. 
+
+Men også basismodellen leverer svært akseptabel ytelse. 
+Med MacOS X 
+Snow Leopard og standard iLife programmer er den kjapp og behagelig i bruk. 
+
+Vi kjørte Geekbench og den fikk en score på 4319, med følgende delscore: 
+
+Integer 3576 Floating Point 6385 Memory 3060 Stream 2210 
+
+Sammenlignet med Mac Pro-modellene som har 2 fire-kjerners prosessorer har den ikke mye å stille opp, den klarte hele 15 363! 
+Dette er med prosessorer som har samme basisarkitektur som de raskere utgavene av iMac, så selv med én enkelt Core i7 vil nok den rå prosessorkraften gi solid uttelling på tunge ting som videorendring, tung bildebehandling og store musikkprosjekter i Logic Studio. 
+
+Konklusjon 
+
+Den nye iMac er en luksus hjemmemaskin, eller jobbmaskin, for den saks skyld. 
+Selv den minste utgaven er stor og flott, og 27-tommeren er gedigen. 
+
+Til proffbruk vil nok mange være fristet, men den blanke skjermen og mangelen på tilkoblingsmuligheter for spesialutstyr og rask lagring taler imot. 
+Bare én FireWire bus blir i minste laget, hadde den hatt eSATA, ExpressCard, enda en FireWire bus - og gjerne en lynrask innebygd kortleser for CompactFlash også - hadde det vært en drømmemaskin også for proffene. 
+Men her har Apple satt grensen, for disse brukerne er det MacPro som gjelder. 
+
+Men for hjemmebruk er en iMac blant de lekreste og kraftigste maskinene du får. 
+På kjøpet får du Apple sine muligheter og begrensninger, det endelige valget er ditt. 
+
+Prisen hos Apple er 12.990 kroner, og det inkluderer frakt. 
+Mer om maskinen kan du lese hos Apple. 

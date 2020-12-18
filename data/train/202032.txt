@@ -1,0 +1,68 @@
+Test:Pinell DAC mini 
+
+Bedre lyd eller problemløser? 
+
+Det er ikke lenger CD-spilleren som er den mest brukte lydkilden i musikkanlegget, stadig flere kobler PC-en til anlegget og benytter seg av streamingtjenester som Spotify, Wimp og andre. 
+
+For de som bruker musikk som kontrollert bakgrunnstøy er ikke lydkvalitet det viktigste, men for de som lytter til musikken på et godt anlegg eller hodetelefoner er dette et tema. 
+
+Men det er ikke all lyd fra PC-en som er like god. 
+
+Kvalitet eller problemer? 
+
+Mange PC-er, både stasjonære og bærbare, har svært god lydkvalitet med de innebygde løsningene. 
+Praktisk talt alle stasjonære har analoge utganger for flerkanals lyd, og gjerne en SPDIF digital utgang i tillegg. 
+Dermed kan du koble til et flerkanals lydanlegg fra Logitech, Creative og andre, som bruker mini-jackene bak på en stasjonær PC. 
+Du kan også koble en surround-receiver til den digitale utgangen, eller HDMI fra PC rett i TV eller receiver. 
+
+Men er det stereoanlegg det er snakk om, er alternativet nesten alltid enten den lysegrønne minijacken på den stasjonære PC-en, eller hodetelefonutgangen på siden av den bærbare. 
+
+Det finnes riktignok noen stereoreceivere/integrerte forsterkere med digital inngang, men det har fortsatt ikke blitt vanlig. 
+Det vanlige er phonokontakter eller minijack, selv om stadig flere integrerte forsterkere kommer med USB-kontakt og intern DAC for å koble seg helt utenom PC-ens lydkretser. 
+
+Mange opplever at det kommer støy fra PC-en når du kobler den til anlegget, uansett hvilken type tilkobling det er snakk om. 
+Hvordan du løser dette problemet kan du lese i denne artikkelen. 
+
+Pinell DAC mini 
+
+En løsning som har blitt svært populær blant seriøse lyttere er en ekstern DAC. 
+I utgangspunktet er det en liten boks med USB-kontakt og analoge utganger. 
+Mer avanserte utgaver har flere inn og utganger, som for eksempel optisk eller koaksial SPDIF inngang, og balanserte utganger. 
+
+Pinell DAC mini er som navnet antyder minimalistversjonen av en DAC. 
+Den er avlang og i børstet aluminium, med liten USB-kontakt i den ene enden og to phonokontakter i den andre. 
+Det er alt. 
+Konstruksjonen er solid og gir et inntrykk av god kvalitet. 
+
+DAC mini er Class Compliant, det vil si at den bruker standard USB lyd-driver uansett operativsystem. 
+Den kan kobles til alt mulig som støtter USB lyd, om det er PC eller iPad eller andre enheter. 
+Dermed er det bare å plugge den inn, koble til lydanlegget og spille av lyd. 
+
+Det følger med en liten stump av en rød USB-kabel, som kan være veldig praktisk eller helt ubrukelig alt etter plasseringen i forhold til resten av utstyret. 
+
+Vi har ikke mottatt noen andre spesifikasjoner enn at den støtter 16 bit/44,1/48 kHz samplerate, men vi fikk likevel spilt av både 24/96 og 24/192 FLAC-filer uten problemer med VLC. 
+
+Lydkvalitet 
+
+Å bedømme lydkvalitet når det ikke er noen former for forstyrrelser ute og går og heller ingen tydelige karakteristske tegn - er ikke bare vanskelig. 
+En DAC skal i utgangspunktet ikke bidra med annet enn en korrekt konvertering fra et digitalt til et analog signal, og ikke ha noe særpreg, da er det forvrenging. 
+At forvrenging kan være tiltalende er en helt annen sak, men da snakker vi om sjarmerende forvrenging i analogt utstyr. 
+
+Vi koblet DAC mini til forskjellige PC-er, høyttalere og hodetelefoner og registrerte ingen spesiell karakter, bare klar og ren lyd uten antydning til egnstøy. 
+Det er akkurat slik det skal være. 
+Sammenlignet med musikkutstyr for studiobruk var det heller ingen forskjeller å spore, den bare fungerer. 
+
+Vi koblet den også til den av våre PC-er som gir konstant støy på lydsignalet, som endrer seg når man for eksempel flytter vinduer på skjermen. 
+Men støyen forsvant ikke da vi koblet til DAC mini, den var akkurat som før. 
+Årsaken til dette er at støyen ligger i jordplanet, og der er det direkte forbindelse fra USB til phono-utgangene. 
+Den eneste måten å fjerne slik støy på er ved et galvanisk skille, og det er det ikke i DAC mini. 
+Da vi koblet inn en slik enhet forsvant all støyen. 
+
+Konklusjon 
+
+Pinell DAC mini er en utmerket DAC som på normale musikkanlegg og små studiomonitorer leverer et helt nøytralt lydsignal. 
+Vi har dog ikke testet på anlegg i flerehundretusenkronersklassen. 
+
+Konstruksjonen er solid og tiltalende, og prisen er også behagelig. 
+
+Pinell DAC Mini (200008) 

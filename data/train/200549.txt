@@ -1,0 +1,87 @@
+Sony NWZ-A805
+Den spiller musikk, video og viser bilder. 
+I tillegg er den syltynn og robust. 
+Vi har testet Sonys beste Walkman noen sinne. 
+
+Knapt noe annet varemerke har spilt en større rolle i musikkindustrien enn Sonys Walkman, i hvert fall ikke fram til Apple plutselig erobret verden med sitt iPod-konsept. 
+
+De siste årene har imidlertid Sony gjort mange forsøk på å gjenerobre lommespiller-tronen med varierende hell, blant annet med sine Walkman-mobiler og MP3-spillere. 
+
+At Sony kan sine ting på hardware-siden har vi sett mange eksempler på. 
+Vi har tidligere testet flere walkman-spillere i NW-serien, blant annet NW-407 som både hadde en nyvinnende 
+
+og effektiv betjeningsløsning og eksepsjonelt god batterilevetid, men på grunn av en særdeles uelegant programløsning for overføring av musikken fikk den ingen anbefaling fra oss. 
+
+Lekkerbisken 
+
+Nå er det gått et par år siden den gang, og Sony er på banen med en helt ny generasjon NW-spillere. 
+Denne gangen har spillerne fått stor skjerm og video- og fotostøtte, i en svært kompakt, tynn (9 mm), lett (53 gram) og ikke minst lekker innpakning. 
+Det er naturlig å dra sammenligninger mot iPod Nano, men selv om kapasiteten er den samme (2, 4 eller 8 GB) og størrelse/tykkelse er sammenlignbar, har NW-A805 fått langt større skjerm, videstøtte og mange flere innstillinger å by på. 
+
+Spilleren kommer i fire forskjellige farger (blå, sort, rosa og sølv) og er utstyrt med en 2" kontraststerk LCD med 320 x 240 pikslers oppløsning. 
+Under denne sitter et fireakset navigasjonshjul med avspill/pause-knapp i midten. 
+Til høyre er det to knapper, Option og Back. 
+
+Et kort trykk på Option gir deg forskjellige valg knyttet til bilde- video og musikkavspillingen, et langt trykk skrur av spilleren. 
+Et kort trykk på Back tar deg et skritt tilbake fra stedet du befinner deg, mens et langt trykk tar deg til hovedmenyen. 
+Betjeningen er svært enkel, dette sitter i fingrene etter noen ganske få trykk. 
+
+En annen ting som slo oss var den raske responsen. 
+Å bla i en stor bilde- video eller musikksamling, hoppe mellom musikkspor, starte og stoppe videoavspilling og lignende skjer umiddelbart uten venting. 
+
+Spilleren byr for øvrig på god batterilevetid, rundt 30 timer til musikkavspilling og 8 timer med video. 
+Batteriet lades via USB-porten på PCen, eller på en Playstation 3 hvis du har det. 
+Kobler du spilleren til sistnevnte, kan du dessuten spille av både musikk, bilder og video via TVen, styrt med PS3-kontrollen. 
+Tøft! 
+
+Ørepluggene som følger med er en in-ear-løsning som isolerer ute det meste av uønsket støy, men som samtidig sørger for at det slett ikke er umulig å føre en samtale mens du lytter til dempet musikk. 
+Vi testet dem under en flytur med et ganske bråkete charterfly, og behøvde ikke å skru lyden til mer enn ca 50%. 
+
+I slike omgivelser er det viktigst å isolere ute de brummende lave frekvensene, men når du sitter med lekser eller i godstolen er lydkvaliteten viktigere. 
+Her leverer Sony virkelig varene denne gangen. 
+Ørepluggene er meget bra med kraftig bass, i tillegg finnes en haug med innstillinger på spilleren som du kan boltre deg med for å gjøre lytteopplevelsen mest mulig behagelig, inkludert algoritmer for å "pynte på" sterkt komprimert musikk. 
+Det mest overraskende er at det faktisk virker! 
+
+Spilleren støtter MP3, ubeskyttet AAC og WMA, og naturligvis også Sonys eget ATRAC3-format. 
+Plus-varianten av sistnevnte støtter bitrater så lavt som 48 kbps. 
+Velger du 64 kbps under ripping av CD-platene dine, og bruker noen minutter på å fintune algoritmene for lydforbedring, er sjansene store for at du ikke kommer til å rynke på nesen over lydkvaliteten. 
+Det imponerer! 
+
+Videoavspilling er en annen interessant funksjon, og den imponerte oss enda mer. 
+Formatet er MPEG-4, og programmet Image Converter 3 som følger med sørger for å konvertere videofilene dine (ikke fra DVD dessverre). 
+Oppløsningen må være 320 x 240, og bitraten enten 384 eller 768 kbps. 
+
+Vi konvertere en hel to-timers spillefilm med laveste bitrate, det tok ca 1 time og videofilen ble rundt 500 MB stor. 
+Undertegnede så hele filmen under den omtalte charterflyturen, og glemte raskt at bildet var lite! 
+Skarphet og kontrast upåklagelig, og du kan enkelt velge liggende format på skjermen, og dermed utnytte skjermflaten bedre. 
+
+Image Converter 3 kan også brukes til å overføre bilder. 
+Disse får da samme oppløsning, og dermed får du plass til en nærmest ubegrenset mengde bilder, i hvert fall dersom du sitter på 8 GB-utgaven av spilleren. 
+
+Både videofiler og bilder kan du senere kopiere tilbake til PCen eller til andre maskiner. 
+Slik er det derimot ikke med musikken, og nå kommer vi til den delen som dessverre kaster en liten skygge over denne flotte spilleren. 
+Programvaren som benyttes til å håndtere musikken er fortsatt Sonic Stage, nå er programmet kommet i versjon 4.3 - men er fortsatt det største ankepunktet mot hvilken som helst walkman-spiller mener vi. 
+
+Slangen i paradis 
+
+Installasjonen tok en evighet på vår test-PC, og når den omsider var ferdig hadde vi ikke fått mindre enn sju(!) nye elementer på "Legg til/fjern programvare"-listen i Windows, inkludert sikkerhetsmodulen OpenMG. 
+For Sony, som er en markant aktør i plateindustrien, gjør alt de kan for at du ikke skal klare å piratkopiere musikken. 
+For selv om hele musikksamlingen din består av egne rippede CDer i MP3-format, pakkes filene inn i et eget skall kalt OMA under overføringen. 
+Dermed er de i praksis ubrukelige til alt annet enn på selve spilleren. 
+
+Denne delen er forsåvidt til å leve med, MP3-originalene på PCen forblir jo uforandret. 
+Verre er det at Sonic Stage er tungt, tregt og at norske brukere heller ikke får tilgang til Sonys musikkbutikk Connect, i hvert fall ikke foreløpig. 
+
+Overføringen av musikk til spilleren er videre også et ankepunkt. 
+Ikke bare skjer filoverføring med USB1.1-hastighet, OMA-innpakningen under overføringen tar i tillegg tid - så skal du fylle opp 8 GB med musikk bør du sette i gang prosessen før du legger deg om kvelden. 
+Dette er ikke holdbart i 2007, og dette må Sony rette på til neste gang skal de ha noen sjanse i dette tøffe markedet. 
+
+Konklusjon 
+
+Dette mener vi klart er den beste MP3/Walkman-spilleren fra Sony noen sinne, og med unntak av treg overføring av filer, strutter den av kvalitet i alle ledd. 
+Det er derfor umulig for oss å ikke gi den en femmer på terningen, til tross for at programvaren til tider får det til å gå kaldt nedover ryggene våre. 
+
+Etter vår mening er det tre soleklare forbedringspunkter: 
+1) Sonic Stage bør ikke lappes mer på, men erstattes av en mer elegant programvareløsning, 2) overføringshastigheten må økes betraktelig, 3) Et fengende navn på spillerne er påkrevd. 
+Hvem går rundt og husker at de ønsker seg en NW-A805? 
+Klarer Sony å rette på disse punktene til neste gang snakker vi ikke bare om en potensiell testvinner, men sannsynligvis også en vinner på markedet. 

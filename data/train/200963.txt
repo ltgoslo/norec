@@ -1,0 +1,102 @@
+Asus Eee PC X101CH
+Bærbar PC helt uten vifte! 
+
+Markedet for netbooks (minibærbare PC-er), sluknet nesten like fort som det eksploderte for et par år tilbake. 
+Med prislapper på under 2000 kroner for de billigste, var det imidlertid et godt marked en stund, før nettbrettene - og i særdeleshet iPad, entret arenaen. 
+
+Men noen produsenter har tro på at netbooken fortsatt har livets rett. 
+En av dem er Asus, som er på banen med en ny generasjon Eee PC, og vi har tatt en tyvtitt på X101CH - som er den første PC-en vi har hatt på testbenken som er fullstendig vifteløs. 
+
+Den er basert på den ferske 3. generasjonen Intel Atom-prosessor, omtalt som Cedar Trail-generasjonen, som blant annet skal by på økt ytelse og mindre strømforbruk. 
+Kan det puste nytt liv i minibærbar-segmentet? 
+
+Her er en oversikt over viktige tekniske spesifikasjoner: 
+
+10,1" matt LCD, 1024 x 600 piksler oppløsning Intel Atom N2600 dobbelkjerneprosessor (1,6 GHz). 
+1 GB RAM 320 GB harddisk Intel GMA 3600 grafikk Trådløst nett (b/g/n) Kablet nett (100/10 Mbit) 2 stk USB 2.0-porter Webkamera (0,3 mpix) 
+HDMI- og VGA-skjermutganger Windows 7 Starter Størrelse: 262 x 180 x 22 mm Vekt: 1016 gram Pris: 
+Ca 2500 kroner 
+
+I motsetning til tidligere generasjoner netbooks ser vi at harddisken har økt, prosessor- og grafikkbrikke er mer avansert, og HDMI-utgang er på plass. 
+Det som ikke har endret seg er minnemengden - som fortsatt er beskjedne 1 GB, for ikke å glemme den lave skjermoppløsningen. 
+
+Hva du ikke ser av listen over, men som likevel er en vesentlig endring, er at X101CH ikke har en eneste vifte innabords. 
+Det betyr at uansett belastning, så er denne maskinen så godt som lydløst. 
+Det eneste hørbare er harddisken, men du må legge øret inntil for å høre den. 
+
+Maskinen er kompakt, av plast, og kommer i sort eller hvit utførelse. 
+Alle tilkoblinger sitter på venstre og høyre side: 
+
+Tastaturet utnytter omtrent hele bredden, og touch-metoden er ikke noe problem. 
+Det er imidlertid ikke 100% full størrelse, men det tok ikke lang tid før vi var dus med å bruke det. 
+
+Skjermen er liten og lavoppløst, og det mest positive som kan sies om den er at den er matt og ikke-reflekterende. 
+Teksten "blør" litt i kantene, noe som gjorde at vi skrudde av ClearType-forbedringene i Windows. 
+Det førte imidlertid til enda dårligere lesbarhet. 
+
+Slik er den i bruk 
+
+Dette er faktisk den første PC-en vi tester, uansett klasse, som ikke har aktiv kjøling overhodet. 
+En aldri så liten merkedag, da dette er noe vi har ventet på siden 90-tallet. 
+Og vi er temmelig sikre på at det ikke blir den siste. 
+Stadig mer energieffektive komponenter, prosessor og SSD, gjør behovet for aktiv kjøling langt mindre enn tidligere. 
+
+Nå er det litt spesielt at denne PC-en har en mekanisk harddisk, men likevel ikke har vifte. 
+Den blir også litt varm, men aldri ubehagelig å ha i fanget. 
+Vi setter vår lit til at Asus har forsikret seg om at overoppheting ikke vil bli noe problem. 
+
+Ytelsesmålinger 
+
+Fra du skrur på maskinen til Windows er ferdig lastet, tar det rundt 45 sekunder. 
+Legg til 15-20 sekunder på å lastet inn programmer og løsninger som startes automatisk, og du har igang. 
+Å skru av maskinen hver gang du legger den fra deg, er imidlertid ikke nødvendig. 
+Lukker du lokket går maskinen i dvale, og da er den klar på 3-4 sekunder når du åpner det igjen. 
+
+Windows egen opplevelsindeks gir oss en pekepinn på ytelsen, og her går skalaen fra 1,0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 3,1 Minne (RAM): 
+4,5 Grafikk: 
+5,8 Spillgrafikk: 
+3,2 Harddisk: 
+5,8 
+
+Passmark PerformanceTest 7.0 gir en totalscore på 309,5. 
+Det er et svært lavt tall, sammenlignet med alt annet vi har testet siste året. 
+I diagrammet under har vi sammenlignet prosessorytelsen mot hva du kan forvente av andre PC-er i økonomisegmentet, samtlige finnes på PC-er under 3000 kroner: 
+
+Som du ser ligger prosessorytelsen i nederste delen blant de svakeste PC-ene, noe som ikke akkurat er noe kompliment. 
+Likevel: 
+Vi må legge til at vi har skrytt av flere PC-er med AMD E-450-prosessor, som har en ytelse som ikke ligger veldig mye høyere. 
+
+At denne PC-en likevel oppleves som tregere, henger helt sikkert sammen med grafikkytelsen: 
+
+Den er temmelig mye svakere enn på den integrerte Radeon HD 6320 i E-450, noe vi må si ble svært merkbart i enkelte tilfeller, og spesielt ved surfing på nettsider med mye Flash-innhold. 
+
+Klarer full HD, men sliter med Flash 
+
+I sin markedsføring hevder Asus at maskinen kan spille av 1080P-materiale (videoer med full HD-oppløsning), noe som også viste seg å være riktig, men ikke i alle tilfeller. 
+Våre testklipp i DivX-format ble avspilt uten problem gjennom Windows Media Player, og vi vet at det finnes andre programmer som er mindre ressurskrevende: 
+
+Men høyoppløst Flash går ikke like silkemykt dessverre, og det er nok det største problemet med denne grafikkløsningen. 
+Selv i 720 opplevde vi hakking og full prosessorbelastning: 
+
+Når det er sagt: 
+Som en enkel maskin for epost, nettbank, musikk og dokumenter, er dette en maskin som kan fungere greit nok. 
+
+Batteritiden er helt kurant, men ikke mer enn det. 
+Under minimal belastning, kun tilkoblet trådløst nettverk, holdt batteriet ut i ganske nøyaktig 4 timer. 
+Under kontinuerlig videoavspilling (720P) måtte det kaste inn håndkledet etter 2 timer og 50 minutter. 
+I praksis kan du forvente en levetid på rundt 3,5 timer, med lett variert belastning. 
+
+Konklusjon 
+
+Den største nyheten i Cedar Trail-baserte minibærbare er enda mindre strømforbruk og tilhørende mindre behov for vifter. 
+Det er en sann glede at det nå finnes bærbare på markedet som ikke er utstyrt med vifte, men det i seg selv er ikke nok til å overbevise undertegnede om at denne kategorien PC-er har en sjanse. 
+
+Jovisst er det billig og greit nok til enkle oppgaver, men lugging og heng kommer du dessverre ikke utenom, spesielt når Flash-video og animasjoner er med i bildet. 
+Da er det bedre å legge til noen hundrelapper og få en PC med mer kraft innabords. 
+
+Den lave skjermoppløsningen er heller ikke ideell i Windows, og mange nettsider ser du kun overskriften på før du må skrolle. 
+Det finnes heldigvis løsninger også på det. 
+
+Asus Eee PC X101CH - 1,6GHz DC 1GB 320GB 10" 

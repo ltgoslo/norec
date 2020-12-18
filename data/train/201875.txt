@@ -1,0 +1,27 @@
+En App Store der alt er gratis
+Det er når nettinnholdet legges til at Plex begynner å bli genialt. 
+
+Det er nettinnholdet som etter vår mening er rosinen i pølsa, og dette er løst svært elegant. 
+Skaperne av Plex har laget en "app store" der du laster ned moduler for å vise nettinnhold fra eksterne leverandører, for eksempel YouTube, MTV Music Videos, Apple Movie Trailers (mye bra HD-innhold), current.tv, Joost, Revision3 (inkl Diggnation) og flere til. 
+
+Ikke bare er det videoseksjonen som har utvidelser - for eksempel er bildeviseren utvidet med en håndfull fotoblogger, deriblant Boston Globes fantastiske BigPicture, som vi også nevnte i artikkelen om Obamas innsettelse. 
+
+Plex har også støtte for TV-serie-supertjenesten Hulu, som foreløpig kun er tilgjengelig for amerikanske brukere, men som det går an å trikse seg tilgang til. 
+Les mer om dette her: 
+
+...og mer til 
+
+Det er også langt mer under panseret, som scrobbling til last.fm når du hører musikk, værvarsling, ulike visningsmodi (inkludert cover flow), favoritt-merking, støtte for temaer og en svært fyldig innstillingsmeny for en rekke aspekter ved løsningen. 
+
+Under har vi samlet en god håndfull skjermbilder for å gi deg et litt bedre inntrykk av hvordan Plex fungerer i praksis. 
+Du finner også kommentarer under hvert skjermbilde. 
+
+Konklusjon 
+
+Etter å ha prøvd Plex på den nye Mac Minien den siste uka (test kommer), er vi mektig imponerte over Plex, og annet enn at det foreløpig ikke er noe innhold å finne fra norske kilder (NRK, TV2 etc.), kommer vi ikke på noe negativt annet enn litt smårusk, for eksempel noen sekunders pause fra du trykker på en nettvideo til det dukker opp en fremdriftslinje. 
+
+Uansett - det ser smashing ut, det er fantastisk brukervennlig og funksjonelt, og når prislappen er null kroner og hele programmet har åpen kildekode, er det bare å ta av seg hatten – Plex er rett og slett et slikt program som du kan vise en Mac-skeptiker hvis du er ute etter å konvertere ham. 
+Dog skal vi vel ikke se bort i fra at det kommer en Windows-versjon etter hvert også. 
+
+Lenker: http://plexapp.com/ - Offisiell side med nedlasting http://wiki.plexapp.com/index.php/Main_Page - Offisiell Wiki, blant annet med introduksjonsvidoer og en rekke tips http://xbmc.org/ - Xbox Media Center (for Windows, OS X og Linux) 
+Artikkel om Boxee.tv 

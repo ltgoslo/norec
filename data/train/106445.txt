@@ -1,0 +1,89 @@
+Mesterlig managermoro!
+Football Manager-serien ser endelig ut til å ha nådd opp på nivået gode, gamle «Championship Manager» var i sin storhetsperiode. 
+Om det er en god eller dårlig nyhet kan diskuteres... 
+
+Det betyr nemlig det vanlige problemet med at timene man i utgangspunktet skulle brukt på noe mer produktivt enn å spille data, raser unna i jakten på heder og ære som fotballmanager. 
+
+Nevnte Championship Manager hadde etter min mening sin storhetstid for 6-7 år siden, men så gikk det bratt nedover med serien som har hatt en enorm tilhengerskare og likevel solgt i bøtter og spann. 
+
+Til slutt ble teamet bak produktet ble splittet opp. 
+De som fortsatt har rettigheten til den originale koden lager altså nå Football Manager, mens Championship Manager er navnet på et spill som er laget «fra bunnen av» og ikke er i nærheten av samme nivå. 
+
+Men til tross for gammel suksess i ryggen har Football Manager hatt en litt trang fødsel. 
+De to tidligere utgivelsene har vært preget av fryktelig mange bugs og feil. 
+
+Denne gangen er det et lang mer ferdiglaget produkt i butikkhyllene. 
+Det varmer et hjerte som har vært forelsket i managerspill de siste 20 (!) årene. 
+
+Buglisten til FM2007 er ikke særlig lang. 
+Jeg har fram til nå bare vært borti noen svært få negative ting etter omfattende testing: 
+
+* 
+En sjelden gang spiller hjemmelaget med bortedrakter - det har etter hva jeg kan forstå bare kosmetisk betydning. 
+
+* Det er mer irriterende at jeg svært mange ganger har blitt tilbudt de samme spillerne. 
+Selv om man takker nei, så kommer det garantert en gjentagelse etter kort tid. 
+
+* Det er heller ikke bra at siste serierunde i engelsk Championship blir avviklet på forskjellige dager og klokkeslett. 
+For min del kan jeg jo legge skylden på det for at jeg ikke rykket direkte opp¿ 
+
+* Verdien på enkelte spillere er kraftig overdrevet og endrer seg ikke i takt med prestasjonene. 
+Uansett ikke noe stort problem da det ikke er mulig å «cashe inn» - markedsprisen er tydeligvis ikke påvirket. 
+
+Jeg vil anta at det er mer rusk i maskineriet som jeg ikke har oppdaget, i tillegg til enkelte problemer i andre ligaer. 
+Men uansett er det langt, langt bedre enn fjorårets versjon som var håpløs å spille uten de såkalte patchene - offisielle oppdateringer som man kan laste gratis ned for å rydde opp i noe av kaoset. 
+
+Det vil garantert bli laget et par patcher til 07-versjonen også, og da blir dette spillet enda mer komplett. 
+
+Da får det stå til at jeg synes bruken av poengskalaen er svært dårlig også i denne utgaven av Football Manager. 
+
+Etter kampene kan spillerne i teorien få karakteren 1-10 som en pekepinn på hvordan de har spilt. 
+Men det er i praksis bare 6-10 som benyttes og jeg har opplevd flere ganger at alle spillerne mine har fått den samme karakteren, og dessuten er det altfor lett at spillere får 10'ern dersom de scorer et par mål. 
+
+Men det er en rekke nye elementer som gjør spillet til en mer helhetlig opplevelse enn sine forgjengere. 
+
+En artig greie er at når du starter et nytt spill må velge hvilken bakgrunn du har som aktiv spiller. 
+Her kan du velge alt fra at du ikke har spilt på høyt nivå til at du var en internasjonal stjerne i din aktive karriere. 
+Det har både fordeler og ulemper. 
+Er du kjent over hele verden etter en stor karriere vil klubbens spillere, supportere og styre ta deg imot med mer åpne armer. 
+Du får mer respekt og oppmerksomhet, men da kreves det også at du leverer varene... 
+
+Nå kan du også kommunisere mer med spillerne dine. 
+Du kan blant annet be dem om å komme med tips om spillere eller støtteapparat du kan prøve å hente til klubben. 
+Dersom du får til det kan det være med på å skape et bedre og mer sammensveiset miljø i klubben. 
+
+Det er naturlig nok også mulig å uttale seg om spillerne i pressen - enten du vil hedre de, eller dele ut et skikkelig spark bak for å få de til å ta seg sammen. 
+Det er ikke alltid det går etter planen for å si det sånn. 
+
+Spørsmål fra pressen får du også i forkant av hver eneste ligakamp (av en eller annen grunn er ikke cupen like interessant for journalistene). 
+En liten advarsel; jeg har en følelse av at det du svarer ofte får litt for store konsekvenser. 
+Mitt råd er rett og slett at du svarer på minst mulig så lenge tingene går ganske bra - da slipper du misfornøyde spillere og mye uro. 
+
+Dersom du svarer på mye fra media vil du også til stadighet bli bedt om å kommentere kontroversielle episoder som har oppstått i kampene. 
+Det kan igjen føre til bøter og tribuneplass hvis du kritiserer dommeren. 
+
+Før hver kamp har du muligheten til å gi spillerne beskjed om hva du forventer - både individuelt og som fellesmelding til hele laget. 
+Det samme kan du gjøre i pausen og etter kampene, og assistentmanageren gir deg informasjon om hvordan de forskjellige spillerne har reagert på dine utsagn. 
+I verste fall kan du få en litt ekkel oppvask i mediene. 
+
+Du kan også koble en juniorspiller i klubben sammen med en av de etablerte stjernene for å lære. 
+Begge parter vil gi deg tilbakemeldinger på hva de syntes om samarbeidet, og det kan være svært nyttig med tanke på å få en potensiell stjerne til å ta steget opp blant de store gutta. 
+
+Enten du er manager i en storklubb eller ikke, så kan du innlede samarbeid med andre klubber. 
+Det kan for eksempel være fruktbart for en litt mindre engelsk klubb å få til et samarbeid med en tysk storklubb for å få spillere på lån mot at de har førsteretten til å kjøpe spillere fra din klubb. 
+Du kan også jobbe aktivt for å få deg en såkalt farmerklubb i de lavere divisjoner. 
+
+Talentspeiderne er langt bedre enn tidligere. 
+Rapportene du får tilbake er svært informative dersom de har sett den aktuelle spilleren i flere kamper. 
+Har du gode speidere kan du spare store pengesummer på å følge advarslene du får i rapportene for å si det sånn. 
+
+Football Manager 2007 har også fått på seg litt sminke som gjør rammen rundt spillet mer innbydende. 
+Navigeringen er også litt annerledes, og forandringene er etter min mening både delikate og praktiske. 
+
+Jeg har rett og slett kost meg stort under testingen av spillet, og det er noen år siden sist. 
+Konklusjonen er uansett at Sports Interactive og Sega har gjort en solid jobb og fortjener ros! 
+
+PS: 
+Spillet kommer også på Xbox 360 og PSP. 
+
+Noen eksterne linker 

@@ -1,0 +1,41 @@
+Intel SSD 335
+Nyeste generasjon SSD for folket har kommet. 
+
+Intel fortsetter å levere stadig rimeligere SSD-løsninger for generell bruk. 
+De bruker den samme kontrolleren fra SandForce, med sitt eget flashminne. 
+I denne nyeste serien ser vi for første gang bruk av flashminne med 20 nanometer-teknikk. 
+
+Forskjellen mellom de to foregående seriene - fra 520 til 330 - var overgang til en rimeligere flashminnetype med færre skrivesykluser. 
+Når man nå går over til et flashminne med enda mindre celler vil antallet skrivesykluser bli enda færre. 
+
+Likevel skal minnecellene i en slik SSD tåle å bli skrevet til 3000 ganger, og med den aktive disposisjonen av ledige celler betyr dette at du kan skrive langt mer enn 10 GB hver eneste dag i flere år. 
+
+Innholdet i pakken 
+
+I likhet med 330-serien leveres 335 bare som oppgraderingssett, med festebrakett, skruer, kabler og en liten CD. 
+Du kan også laste ned programvare for overføring fra harddisk eller annen SSD til den nye SSD-en. 
+
+335-serien leveres foreløpig bare i 240 GB kapasitet. 
+
+Enheten er 9,5mm tykk, og skallet er helt i metall. 
+
+Ytelse 
+
+330-serien var overlegen 320-serien, men forskjellen mellom 330 og 335 er varierende. 
+
+På sekvensiell skriving ligger resultatene temmelig likt, med 515 899/555 405 skrive/lese for 330 og 531 348/551 550 skrive/lese på 335-serien: 
+
+Vårt eget testprogram viser tilsvarende resultater: 
+
+Den største forskjellen er i rask skriving og lesing av småfiler. 
+I AS-SSD oppnår 335-serien en total score på 793 mot 493 på 330-serien. 
+I praktisk bruk for operativsystem og programmer vil denne forskjellen være merkbar. 
+
+Konklusjon 
+
+335-serien tar ett skritt videre, med god forbedring av viktige ytelsesparametre. 
+
+Prisnivået er foreløpig ikke spesielt mye lavere, men den generelle prisutviklingen på SSD er fallende. 
+Konkurransen er hard og det varer neppe lenge før 1000-kronersmerket passeres for godt for 240/256 GB SSD også for de nyeste og raskeste modellene for konsumentmarkedet. 
+
+Intel 335 Series 2.5" SSD 240GB 

@@ -1,0 +1,95 @@
+Acer Timeline AS5810T
+Slank, elegant, lang batteritid og lav pris - vi har testet 
+
+Timeline-serien fra Acer består av tre modeller i forskjellige størrelser, du kan lese vår forhåndsanmeldelse i denne artikkelen. 
+
+Den minste er en 1,6 kg tung 13,3-tommer, mellom-modellen er en 14-tommer på 1,9 kg, mens den største har 15,6-tommer skjerm og veier 2,4 kg. 
+De er så vidt over 3 cm tykke i bakkant målt fra bordplaten og opp. 
+Dybden er henholdsvis 23, 24 og 26 cm og bredden 32, 24 og 38 cm. 
+
+I tillegg til et stilig design, med slanke og rene linjer, er det strømeffektiviteten som har fått fokus i denne serien. 
+Både prosessor, grafikk og skjerm er av den strømsnille typen, i tillegg er det ekstrafunksjoner som setter ned strømforbruket ytterligere. 
+
+Storebror 
+
+Vi testet den største modellen, som har en bredskjerm med oppløsning på 1366x768. 
+Dette er den nye "folkeoppløsningen", med samme relative dimensjoner som de fleste flat-TVer. 
+Overflaten er blank, som er den rådende trenden blant bærbare for privat bruk. 
+
+Skjermen er lyssterk og flott, og fungerer utmerket til film og visning av bilder. 
+Til generell bruk der det er grei plass fungerer den også fint. 
+Generelt er denne type skjermer med TN-panel mindre egnet på fly og andre steder hvor du ikke har plass til å vinkle skjermen for optimalt bilde og fargebalanse. 
+
+Maskinen er utstyrt med en Intel U9600 Core2 Duo prosessor, 3 GB RAM, integrert grafikk, og en liten SSD på 32 GB for operativsystem og programmer pluss en Seagate Momentus 320 GB harddisk for data. 
+Dette er en utmerket kombinasjon, du får både i pose og sekk. 
+Systemdisken er raskest og bruker minst strøm, mens datadisken kan settes til å gå raskt i dvale når den ikke er i aktiv bruk. 
+Da sparer du enda mer strøm pluss at maskinen blir enda mer stillegående. 
+Det er den dessuten også i utgangspunktet. 
+
+Siden dette er den største i serien, med 15,6-tommers skjerm, er det plass til et fullt tastatur med egne nummertaster pluss piltaster. 
+Tastene er store og plasseringen er det lite å si på. 
+
+Pekeplaten har en viss støtte for multi-touch og støtter zoom inn og ut når du beveger fingertuppene fra/mot hverandre. 
+Men dette er ikke som på iPhone, du styrer bare den zoon-funksjonen som ligger i Windows, og denne er jo ikke trinnløs. 
+
+Forøvrig er knappene av vippetypen, det vil si at er et par centimeter på midten av den lange knappen hvor det ikke skjer noen ting, du må litt ut på sidene når du skal trykke høyre eller venstre knapp. 
+En liten bagatell, men ikke helt optimalt. 
+
+En veldig smart og enkel løsning er knappen ved siden av pekeplaten. 
+Den kobler ut hele pekeplaten, noe som er svært nyttig når du sitter og skriver mye. 
+Tomlene har en lei tendens til å komme borti overflaten, og da er markøren plutselig et helt annet sted. 
+Dermed skriver du oppi teksten og stokker om på alt. 
+Det finnes andre løsninger som forsinker responsen hos pekeplaten etter tastetrykk, men det er som regel ikke nok. 
+I hvertfall ikke for våre frittgående tomler... 
+
+Det er også egne knapper for trådløst, backup og ekstra strømsparing samt knapp for å åpne det optiske drevet. 
+
+Over skjermen sitter et webkamera og en liten mikrofon, klart til bruk i MSN, Skype osv. 
+
+Tilkoblinger 
+
+Den største modellen har 4 USB-tilkoblinger, VGA og HDMI, nettverk og lyd. 
+De andre modellene har en USB-port mindre, ellers de samme. 
+
+Det er ingen spalte for tilleggskort som Express Card 
+
+Strømforsyningen er kompakt med borrelåsbånd for å holde orden på kablene. 
+
+I bruk 
+
+Maskinen er utmerket å bruke, den er slank og ganske lett og har god balanse. 
+Den har en viss fleks, men da må du ta i litt. 
+
+Lokket bak skjermen buler litt utover, det kan trykkes forholdsvis mye innover før det møter motstand. 
+Det fungerer dermed som en "støtfanger" slik at et slag ikke går rett i skjermpanelet. 
+
+Siden hovedvekten på denne maskintypen ikke er på rå ytelse, men batterilevetid, var vi nysgjerrige på responsen. 
+Det viste seg å ikke være noe problem. 
+Maskinen er kjapp og villig til alle normale oppgaver, inkludert bilderedigering og filkonvertering. 
+Også HD-filmer i 1080p kjørte som en drøm. 
+
+Men dette er ingen spillmaskin, 3D-støtten er begrenset. 
+
+Ytelse 
+
+Sammenlignet med testvinneren til Fujitsu Siemens fra februar og Acers maskin fra samme test, så kommer Timeline-maskinen klart ut på topp. 
+Den har bedre ytelse på alle områder, på harddisk er den 4 ganger så rask, takket være den lille SSD-disken. 
+Dette gir et litt skjevt bilde, men Windows bruker disk vel så mye til egen husholdning som man selv gjør til å lagre eller lese data, så en rask systemdisk er for denne type maskin viktigere enn en rask datadisk. 
+
+I Vista sin opplevelses-indeks var tallene 4,7 for prosessoren, 5,9 for minne, 3,2 for grafikken, 3,3 for spillgrafikk og 5,9 for diskytelse. 
+Dette gir en totalopplevelse på 3,2, som er bestemt av den laveste verdien. 
+(Dette jo er rent sludder når man ikke bruker maskinen til spill eller andre tunge 3D-grafiske oppgaver). 
+
+Batteritiden 
+
+Ved kontinuerlig avspilling av HD-video holdt maskinen ut i 4 timer og 5 minutter, noe som er meget bra. 
+Da var ingen strømbesparinger aktivert, den gikk for fullt hele tiden. 
+
+Ved minimal bruk, stort sett bare påslått med litt småbruk innimellom, holdt den ut i 7 timer og 14 minutter! 
+Da var heller ingen strømsparefunksjoner som dimming av skjerm, parkering av disker eller andre triks som forlenger batteritiden aktivert, heller ikke sparemodus-knappen var i bruk. 
+
+Konklusjon 
+
+Timeline er slanke og elegante bærbare med gode spesifikasjoner, utmerket ytelse og en batterilevetid som er overlegen. 
+
+Prisene er heller ikke avskrekkende, listeprisene ligger på under 7000 kroner for modellene med 500 GB harddisk. 

@@ -1,0 +1,68 @@
+Asus ASUS N61JV
+Dette er en av de utvalgte fra vår sammenligning av bærbare i februar. 
+
+I februar kjørte vi en sammenligning av bærbare PC-er med 16-tommers skjerm og pris på 8000 kroner. 
+Har var det to maskiner fra Asus og en Toshiba som ble stemt inn. 
+
+Asus har hatt leveringsproblemer, og maskinen fra PS venter vi stadig på, men denne Asus-maskinen som ble levert av Komplett.no fikk vi i påsken. 
+Toshibaen som selges både av Elkjøp og Lefdal testet vi for noen uker siden, testen finner du her. 
+
+Egenskaper 
+
+Utvendig er maskinen skinnende blank og sort, i likhet med mange andre bærbare for tiden. 
+Men når du åpner den er den behagelig matt sort på tastaturdelen, med en sølvblank perforert profil mellom tastatur og skjerm som dekker høyttalerne. 
+
+Skjermen er 16 tommer med LED baklys, overflaten og rammen rundt er skinnende blank og oppløsningen er de sedvanlige 1366 x 768 piksler. 
+Dette er ikke overveldende, men høyere oppløsning skrur prisen opp. 
+
+I praksis fungerer det ok for de fleste, og trenger man mer skjermflate til å kjøre mange programvinduer kan man jo koble til en ekstra skjerm, ihvertfall hvis man bruker maskinen mye på hjemmekontor eller jobb. 
+
+Kvaliteten på skjermen er på linje med de fleste andre bærbare som er utstyrt med tilsvarende TN-panel. 
+Markant gjenskinn og liten betraktningsvinkel er tydeligvis ikke noe folk flest bryr seg om. 
+
+Tastaturet er behagelig og har taster med mer definerte kanter enn Toshibaen, uten at de er skarpe. 
+Plasseringen av forskjellige taster i området til høyre er litt utradisjonell, spesielt Delete-tasten hadde fingrene litt problemer med å finne, og øynene måtte aktiveres. 
+
+Pekeplaten er klart definert, og har en lang knapp med vipp i stedet for to adskilte knapper. 
+Dødsonen på midten er såpass kort at det fungerer rimelig bra, selv om vi foretrekker to separate knapper. 
+
+Knappene for styring av volum og start/stopp av mediefiler sitter greit plassert på den sølvblanke listen over funksjonstastene. 
+
+Tilkoblinger 
+
+På venstre side finner vi tilkoblinger for VGA, GigaBit nettverk, HDMI, ExpressCard og USB 3.0 samt bryter for trådløst nett/Bluetooth av/på. 
+
+På høyre side finner vi USB, DVD, eSata/USB, USB og minijacker for lyd inn og ut. 
+
+Vi er fornøyd med utvalget av tilkoblinger, med både USB 3.0 og eSATA har du gode tilkopblingsmuligheter både nå og framover. 
+ExpressCard gjør maskinen fleksibel utover standard bruksområder, noe som absolutt er en God Ting. 
+
+Ytelse 
+
+Maskinen er utstyrt med den nyeste teknikken fra Intel, og vi forventer god ytelse. 
+Vi ble heller ikke skuffet, verken under bruk eller i testing. 
+
+Vi har målt ytelsen med PCMark Vantage og fikk disse resultatene: 
+
+4612 PCMarks 2795 Memories 3368 TV and Movies 2971 Gaming 4646 Music 3603 Communication 4011 Productivity 3242 HDD 
+
+Geekbench ga resultatet 3482. 
+Til sammenligning klarte Toshibaen 4026, og en MacBook Pro med Core2 Duo på 2,66 GHz bare 3038 under Windows Vista, og 3577 under MacOS. 
+
+Windows ytelsesindeks ble målt til 4,3 og det var Windows Aero som som var lavest på skalaen. 
+De andre målingene ga følgende: prosessor 6,2, minne 5,9, grafikk 4,3, spillgrafikk 5,2 og disk 5,6. 
+
+Batteritiden med kontinuerlig avspilling av HD-video og ingen strømsparefunksjoner var 114 minutter - eller 1 time og 54 minutter. 
+
+Uten aktivitet varte batteriet 201 minutter, eller 3 timer og 21 minutter. 
+
+Maskinen er støysvak, vi la aldri merke til noe støy i det hele tatt under vanlig bruk, verken i kontormiljø eller på hjemmekontoret. 
+
+Konklusjon 
+
+Maskinen er elegant og behagelig i bruk. 
+Den har gode tilkoblingsegenskaper, men ligger noe under Toshiba i ytelse. 
+
+Batteritiden er noe lengre enn maskinen fra Toshiba, men ikke så mye lenger at du får sett hele de lange filmene ... 
+
+Foretrekker du fleksibilitet og fleksible tilkoblinger er Asus et bedre valg enn Toshiba, men med en Core i3 prosessor har du ikke like mye å rutte med som en Core i5. 

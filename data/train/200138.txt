@@ -1,0 +1,85 @@
+Packard Bell Easynote E
+Sjelden opplever vi så stor pågang fra dere lesere som etter at vi forhåndsomtalte Easynote E i vår. 
+Nå har vi endelig fått testet den, og den svarte til forventningene på mange områder, men ikke alle. 
+
+Easynote E er navnet på Packard Bells nye design-PC, myntet på brukere som ønsker at PCen bådeser bra ut, og har et bra utstyrsnivå. 
+Og nettopp utstyrsnivået er det lite å utsette på, selv den rimeligste konfigurasjonen innbefatter for eksempel DVD-brenner, og denne PCen skal i følge de opplysningene vi har fått kunne selges til under 10.000 kroner inkl mva. 
+
+LES OGSÅ: 
+
+Kraftig sak 
+
+Utgaven vi har testet er derimot en av de kraftigste, med blant annet meget rask Athlon XP2400+ prosessor (mobilutgave), 480 MB internminne og en romslig 40 GB harddisk. 
+Prisen på denne maskinen er i skrivende stund 13 999,- inkl mva, og den skal allerede være tilgjengelig i landets Expert og Elkjøp-butikker. 
+Den integrerte grafikkløsningen fra S3 er derimot ikke valgt for å tilfredsstille de meste krevende brukerne, noe vi kommer nærmere tilbake til lengre nede i denne artikkelen. 
+
+PCen er utstyrt med en stor 15" TFT-skjerm, og oppløsningen er på 1024 x 768 punkter. 
+Skjermen helt grei, og middels lyssterk. 
+Personlig hadde vi ikke hatt noe i mot litt høyere oppløsning. 
+
+Tastaturet er stort og romslig, og de fleste tastene har en logisk plassering. 
+Tastaturplaten beveger seg litt mye i kantene, og avgir høyere klikkelyd her enn på midten. 
+Det dra helhetsinntrykket noe ned. 
+
+Vi synes Easynote er lekker, den tilfredsstiller helt klart den nye design-trenden som har vært rådende etter at de første Intel Centrino-baserte maskinene kom på markedet. 
+Den er relativt slank (ca 3 cm tykk), og vekten på 3 kg vil nok bli godtatt av de fleste. 
+Kombinasjonen sort og sølv er blitt benyttet på en måte som vi oppfatter som både vellykket og trendy. 
+
+Minnekort i sentrum 
+
+Diskettstasjonen er byttet ut til fordel for en minnekortleser. 
+Denne leser flere formater, deriblant SD/MMC, SmartMedia og MemoryStick. 
+Dette gjør det lettere å overføre filer f. eks fra digitale kamera og MP3-spillere. 
+Du skal også kunne starte PCen fra et bootbart minnekort istedenfor diskett, dersom det skulle være nødvendig. 
+
+For øvrig har EasyNote E3 hele 4 USB 2.0-porter, Firewire-port, vanlig 100/10 MBit nettverk, 56 Kb modem, en stk PCMCIA-leser, samt VGA med TV-utgang. 
+Med det medfølgende DVD-avspillingsprogrammet kan du dermed vise DVD-filmer på TV. 
+Vi savner bare infrarød port (IrDA) og WLAN-modul. 
+Gammel teknologi som diskettstasjon, parallellport, seriellport og PS/2-porter er fraværende, uten at vi gråter av den grunn. 
+
+De fleste tilkoblingene finner du på venstre side, og Firewire-porten sitter i fronten. 
+Dermed er tilkoblingene lett tilgjengelige, uten at PCen blir seende ut som en blekksprut av den grunn. 
+
+DVD-brenneren takler flere formater, deriblant DVD-R og RW (2x og 1x), DVD-RAM (2x), CD-R (16x) og CD-RW (8x). 
+DVD+RW, som mange anser som "vinneren" i formatkrigen, støttes altså ikke. 
+Fordelen med DVD-R er at platene er billige og lett tilgjengelige. 
+
+Det følger dessuten med en rekke andre programmer, deriblant MS Word 2002, MS Money 2002, MS Zoo Tycoon (spill), program for videoredigering og DVD-brenning, Norton Internet Security samt en 90-dagers versjon av Norton Antivirus. 
+Vi er ikke overrasket; programpakkene har lenge vært en av Packard Bells sterke sider. 
+
+I bruk 
+
+Siden chassiset er i plast, er det ikke like robust som mange modeller som for eksempel er utrustet med metallokk. 
+Det viste seg likevel at lokke tåler ganske kraftig trykk før skjermen blir forstyrret. 
+Vi vil uansett ikke anbefale å legge tunge gjenstander på et plastlokk, og skal du ut på tur, så pass på at du bærer PCen i en godt polstret bæreveske. 
+
+Yter nesten som Centrino 
+
+Vi har tidligere uttrykt vår begeistring for Mobile Athlon-prosessorer, og det gjør vi også denne gangen. 
+Faktisk er ytelse pr MHz ikke veldig langt unna Pentium M - den nye superprosessoren fra Intel. 
+XP2400+ kjører på 1,8 GHz, og viser en gjennomsnittlig ytelse i våre tester som ligger rundt den langt dyrere 1,6 GHz-utgaven av Pentium M. 
+Det er verdt å merke seg! 
+Uansett - prosessoren har ingen problemer med å løse de aller fleste oppgaver raskt og smertefritt. 
+Vi snakker tross alt om en meget sterk prosessor i denne maskinen. 
+
+Men den raske prosessoren trenger kjøling, noe som merkes i krevende situasjoner (for eksempel matematiske utregninger, spill etc). 
+Og viften i EasyNote E er ganske høylydt, dessverre. 
+Heldigvis er Mobile Athlon-prosessorene fenomenalt flinke til å tilpasse klokkehastighet etter hvilke oppgaver som kjøres. 
+Sitter du og forfatter et dokument i Word, kan du for eksempel forvente at viften ikke starter i det hele tatt. 
+
+Men spillere bør ikke en gang vurdere denne PCen. 
+Grafikken holder rett og slett ikke mål i 3D-applikasjoner og spill. 
+Vi synes det er merkelig at Packard Bell har valgt denne grafikkløsning i en PC som er så kraftig på de aller fleste andre punkter. 
+
+Batterilevetid er viktig for mange av oss, og Packard Bell Easynote E havnet ut sånn midt på treet i vår test, med 2 timer og 50 minutter. 
+Det er et godt stykke unna toppen, som stort sett domineres av Centrino-modeller. 
+
+Klikk på lenken Tekniske data i oppsummeringsboksen over for detaljer omkring ytelse. 
+
+Konklusjon 
+
+Den er utvilsomt en av de lekreste PCene vi har sett på lenge, og den har i tillegg et meget høyt utstyrsnivå. 
+Programpakken er med på å gjøre denne PCen til en ener, spesielt for deg som ikke har nødvendige dataprogrammer fra før. 
+
+Ytelsen er jevnt over god, men grafikkytelsen er svak (gjelder 3D). 
+Vi skulle også ønsket at viften hadde avgitt litt mindre støy når den innimellom ser seg nødt til å avkjøle systemet. 

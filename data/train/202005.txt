@@ -1,0 +1,71 @@
+Ytelse og konklusjon
+Den er ikke verdens raskeste bærbare, men er det egentlig viktig? 
+
+Som er tilfelle med de fleste små og lette bærbare så er det det ikke ytelsen som har førsteprioritet. 
+I ThinkPads tilfelle går det på kvalitet, pålitelighet, vekt og batterilevetid. 
+
+LES OGSÅ: 
+
+I det hele tatt er prosessor- og grafikkløsningen i X300 litt utenom det vanlige. 
+Prosessoren, som kalles Core 2 Duo L7100, er en spesiell sak har vi ikke sett i noen annen maskin, og grafikkortet er underklokket i forhold til en standard GMA X3100. 
+
+Men er spilling eller tunge kalkulasjoner din greie så kjøper du uansett ikke en liten ThinkPad - denne er mest for folk på farten. 
+
+X300 er selvfølgelig ikke alene om å tilby portabilitet og lang batterilevetid. 
+Vi nevnte på forrige side MacBook Air, og for ikke så lenge siden kjørte vi også en test av 12-tommeren Portégé R500 fra Toshiba, som også er lettere enn X300. 
+
+For sammenligningens skyld har vi i tillegg til Toshibaen også sammenlignet med en helt annen type bærbar: 
+Multicom Compal JFT00, en av to som fikk stempelet "beste PC-tilbud" til under 7.000 kroner, altså godt under en tredel av prisen for en X300. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Denne grafen lyver litt, la oss forklare. 
+X300 har som sagt en SSD, mens PCMark er lagd for å måle den gode, gamle typen harddisker - som førte til over 14.000 poeng for X300 sin HDD. 
+Derfor er totalsummen for Lenovoen såpass bra, og den høye HDD-summen gjorde at resten av søylene ble klemt sammen på den ene siden. 
+Derfor fjernet vi også denne fra grafen. 
+
+Poenget her er uansett at X300 yter generelt bedre enn Portégé R500, mens Multicom JFT00 er den råeste i dette selskapet. 
+Den er også billigst, men med sine to kilogram også klart tyngste. 
+Det er ikke noe nytt at (lav) vekt koster. 
+
+Kjøretid i sekunder. 
+Lavere er bedre. 
+
+Her ser vi igjen at det er en viss forskjell i prosessorkraft. 
+
+Batterilevetid 
+Vårt testeksemplar hadde et 6-cellers batteri, og i kontinuerlig drift med våre testrutiner klarte den seg i litt under fem og en halv time - i praksis snakker vi om en dag på kontoret. 
+Merk at den er 20 minutter bak Toshibaen, som igjen har mindre skjerm og lavere ytelse. 
+
+Resultatet for JFT00 er med et 6-cellers batteri som stikker litt ut bak. 
+
+Når det gjelder varme og støy så kan vi egentlig ikke karakterisere ThinkPad X300 som noe problembarn når det gjelder noen av delene. 
+Javisst utvikler den litt varme, men ved lav belastning er det ikke mye å snakke om - du kan uten problemer sitte med en X300 rett på fanget. 
+
+Varmen må også forresten fjernes aktivt (dvs. med vifte), og den er dessverre ikke lydløs. 
+Men under lav belastning spinner den ikke opp spesielt ofte og da sjelden for lenge av gangen. 
+
+Vurdering og konklusjon 
+
+ThinkPad X300 er ikke den perfekte bærbare PC, men Lenovo gjør et anstendig forsøk med denne ultraportable 13,3-tommeren. 
+Den føles velbygd og solid med det viktigste på rett plass - samtidig som størrelse og vekt er holdt nede. 
+Dessuten er batterilevetiden utmerket. 
+
+Men noen mangler er det altså, og da tenker vi ikke på at ytelsen ikke er av den aller beste - vi skulle blant annet ønsket oss en ExpressCard-slot, for eksempel å koble til en FireWire- eller eSATA-enhet. 
+
+Det største ankepunktet vil nok likevel være at du som nevnt kun får en X300 med SSD, noe som pumper opp prisen en god del, og er du en av dem som da hovedsaklig går etter størrelse og vekt vil det være flere gode - og langt rimeligere - alternativer. 
+Apples MacBook Air og Toshibas Portégé R500 kan begge nevnes i den sammenhengen. 
+
+Likevel, Toshibaen er også spinklere, mens MacBook Air er dårligere utstyrt. 
+Når det gjelder den fulle pakken der vekt, størrelse, batterilevetid og utstyrsnivå kombineres med kvalitet har X300 få direkte konkurrenter. 
+Og nettopp derfor kan holde denne prisen. 
+
+Men før du tømmer sparegrisen, minner vi også på at dersom du orker å dra på litt ekstra vekt og volum kan du få gode og små bærbare til en tredjedel av prisen. 
+
+Misforstå oss rett 
+- ThinkPad X300 er faktisk en av de beste ultraportable datamaskinene der ute. 
+Vi har bare ikke lyst til å betale for den selv. 
+
+Diskusjonen finner du på forrige side. 

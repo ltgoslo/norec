@@ -1,0 +1,67 @@
+Dell 23-tommers berøringsskjerm P2314T
+Berøring er ikke bare for mobiler, brett og bærbare. 
+Denne skjermen kan du koble til din stasjonære. 
+
+Berøringsskjermer er jo ikke noe nytt, det har eksistert i mange år, lenge før smartmobilene gjorde det til allemannseie. 
+Men de gamle berøringsskjermene ble brukt til selvbetjeningskiosker for billettkjøp og annen enkel bruk. 
+De støttet ikke flere berøringspunkter og hadde naturlig ikke programvare som tolket fingerbevegelser på skjermen slik som vi bruker på mobiler og brett. 
+
+Men Windows 8 snudde rundt på alt dette, og tilbød full støtte for 10 berøringspunkter for et stort repertoar av berøringsmuligheter. 
+
+For nettbrett er dette helt nødvendig, for bærbare er det en ekstra betjeningsmulighet og for stasjonære kreves det altså en egen skjerm som tilbyr 10 berøringspunkter. 
+
+Dell har lansert tre berøringsskjermer, på henholdsvis 19, 23 og 27 tommer. 
+Den minste har oppløsning på 1600 x 900 punkter, de andre to støtter full HD. 
+Vi har testet 23-tommeren. 
+
+P2314T 
+
+Skjermen har følgende egenskaper: 
+Panelet: 
+
+23 tommer 16:9 format1920 x 1080 punkters oppløsningIPS-panel med LED bakgrunnsbelysning83% (CIE 1976) fargepalett (tilsvarer sRGB)270 cd/m2 maks lysstyrke1000:1 kontrast178 graders betraktningsvinkel vertikalt og horisontalt8ms grå-til-grå responstid10-punkts berøring. 
+
+Tilkoblinger: 
+
+HDMI (MHL)DisplayPort 1.2 D-Sub 3.5mm jack lyd ut2-port USB 3.0 HUB 
+
+Skjermen veier 4,82 kg inkludert fot. 
+
+I bruk 
+
+For å aktivere berøringsstyringen må skjermen kobles til PC-en med USB. 
+Dette er en USB 3.0 tilkobling og den har også to tilkoblinger på skjermen som fungerer som USB HUB. 
+
+Brukergrensesnittet til Windows 8 er mildt sagt omdiskutert, men selve berøringsfunksjonen på denne skjermen fungerer utmerket. 
+Responsene er kjapp, med under 10 millisekunders forsinkelse. 
+Det er om trent den tiden det tar å kjenne at du berører skjermen og justere inn blikket til den forventede responsen. 
+
+Alle berøringsskjermer er blanke, de har en tynn glassplate foran skjermpanelet hvor selve den kapasitive følsomheten sitter. 
+
+Dermed blir det mange reflekser og rikelig med fingermerker, og det er det ikke noe å gjøre med, bortsett fra å tørke av skjermen ofte. 
+Pusseklut følger derfor med skjermen. 
+
+Ser man bort fra refleksproblemene er skjermen utmerket, med super betraktningsvinkel både vertikalt og horisontalt. 
+
+Skarphet og fargegjengivelse er også utmerket og etterslep er knapt merkbart. 
+
+Mange hevder - med rette - at det er svært tvilsom ergonomi å sitte med løftet arm og peke på en skjerm. 
+Derfor har denne skjermen en svært fleksibel fot. 
+Det er bare å trykke på toppen av skjermen, så skyves de to støttebena fra hverandre og skjermflaten blir liggende i en ergonomisk sett langt mer passende vinkel på bordflaten. 
+
+Det er vår erfaring at denne vinkelen passer utmerket dersom flere skal se bilder eller sjekke et eller annet som er lagt opp til betjening med berøring. 
+Da står man ved eller rundt bordet og slipper å løfte armen for å komme til på skjermflaten. 
+
+Betjening 
+
+Konklusjon 
+
+Skjermen fungerer utmerket til vanlig PC-bruk med mus og tastatur. 
+Full utnyttelse av berøringskontroll krever Windows 8, bruker du Windows 7 fungerer den som en slags mus-løsning. 
+
+I Windows 8 har skjermen kjapp respons og fungerer utmerket med flerpunktsberøring. 
+
+At den kan legges nesten flatt ned på en enkel måte er et stort pluss. 
+Det er i denne posisjonen vi mener at berøring har mest for seg, enten man sitter og "fingermaler" eller står sammen med andre ved bordet og går gjennom bilder eller rapporter. 
+
+Gjenskinn og fingermerker er et problem, men det gjelder ikke bare denne skjermen, det gjelder alle berøringsskjermer. 

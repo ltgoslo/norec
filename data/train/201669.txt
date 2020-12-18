@@ -1,0 +1,170 @@
+Nokia N8
+TEST: 
+Den har glimrende kamera. 
+Bare så synd at det svikter på så mange andre områder. 
+
+For ikke så veldig lenge siden innledet vi testen av Sony Ericssons første Xperia-mobil med å konstatere at Sony Ericsson sliter. 
+Det var mobilen som skulle kickstarte det svenskjapanske mobilselskapets neste generasjon avanserte smartmobiler, og pussig nok har Nokia havnet litt i samme situasjon. 
+
+For all del: 
+Nokia er fortsatt en gigant på verdensbasis, men når en ser at de i USA har gått fra en markedsandel på 35 prosent i 2002 til en andel på så lite som rett over sju prosent i 2010, er det åpenbart at alt ikke er vel hos finnene. 
+
+Nokia N8 er i så måte årets flaggskip fra våre finske venner, en smartmobil med berøringsfølsom skjerm som skal kjempe seg til en plass i det gode selskap bestående av den stadig voksende gruppen Android-mobiler og Apples iOS og deres iPhone. 
+
+Ligg unna batteriet 
+
+Det er nemlig disse to operativsystemene som nå setter standarden for smartmobiler, men det betyr ikke at Nokia har kastet sin egen historie i peisen. 
+Symbian 3 er hittil siste utgave av OSet som Nokia har benyttet helt siden 2001. 
+
+Det er lenge - og det vises. 
+
+Utseendemessig er N8 en helt grei affære. 
+Den er elegant uten å være prangende, og byggekvaliteten kjennes overbevisende. 
+På forsiden finner du bare én knapp (hjem- og menyknapp), mens du på sidene finner skjermlås, kamerakontroll, volumstyring, micro-USB, minnekort- og SIM-kortplass. 
+
+Riktig - SIM-kortplassen er denne gang plassert på utsiden. 
+Nokia har hatt for vane å skjule SIM-kortet under batteriet, men dette er så vidt vi vet første Nokia-mobilen som ikke har batteri som kan byttes ut av brukeren. 
+Dekselet er skrudd fast ved hjelp av et par torx-skruer, så i prinsippet er det enkelt å fjerne. 
+Hvorvidt garantien brytes hvis du drister å finne fram skrutrekkeren gjenstår å se. 
+
+Slik er nye Symbian 
+
+Den kanskje største utfordringen Microsoft møtte da Apples iPhone omdefinerte smartmobilen i 2007 var å gjenopplive et operativsystem - Windows Mobile - som var tilpasset en helt annen type mobiltelefoner og en helt annen mobilhverdag. 
+Det resulterte i en del pussige kompromisser fordi de tydelige hullene som ikke var ment for trykk- og berøringsfølsomme skjermer ble forsøkt tildekket med noen nye lag lebestift. 
+
+Symbian er, som vi allerede har vært inne på, rundt ni år gammelt, men det har naturligvis gjennomgått videreutvikling i løpet av denne peridoen. 
+Nokia har derimot ikke satset ordentlig på berøringsfølsomme skjermer før i det siste, og spørsmålet er om Symbian 3 klarer overgangen til en tasteløs hverdag? 
+
+Det er litt både-og, kan en si. 
+
+Oppsummert i korte ordelag kan en si det slik: 
+De som allerede er Nokia-brukere vil ikke ha problemer med å hoppe rett inn i N8-universet. 
+De som i dag er iPhone eller Android-brukere vil derimot med stor sannsynlighet ikke trives spesielt godt. 
+
+Dette er uansett Symbian slik vi kjenner det. 
+Du får tre hjemskjermer (men ikke mer!) hvor du kan installere opptil seks såkalte småprogrammer, eller widgets hvis du tenker mer ved hjelp av engelsk enn norsk. 
+På overflaten finner en ellers svært mange fellestrekk med tidligere Symbian-versjoner, inkludert nettleseren, kameraet, og epost-klienten. 
+
+Andre Symbian 3-nyheter er bedre multimediahåndtering (inkludert avspilling via HDMI-port, som N8 altså har), multitouch, og enda bedre grafikkbehandling. 
+
+Slik er den i bruk 
+
+Hvis vi ser på helheten er årsaken til Nokia-eiere mest sannsynlig vil like N8 altså enkel: 
+Dette er Symbian, og i streng forstand er det en berøringsfølsom skjerm med Symbian under panseret. 
+Her finner du de samme grafiske løsningene, den samme Symbian-fonten, mer eller mindre samme nettleseren, og Nokia har latt være å gå for fristende effekter som animasjoner når en skifter hjemskjerm eller glidende overganger når en åpner programmer. 
+
+Det er egentlig ikke noen stor ting, men visuell tilbakemelding når en skifter hjemskjerm er faktisk ikke bare snop for øyet, men også en enkel måte å bekrefte at en handling er utført. 
+
+Oppbygging og redigering av hjemsidene er en kurant sak, og det er enkel å legge til og fjerne widgeter og programmer. 
+Også dette er traust løst, med tekstbaserte ekstramenyløsninger. 
+
+De programmene og innstillingsmulighetene du ikke får plass til på hjemskjermene ligger i en egen meny - kalt "Meny" -, som gjenkalles ved å trykke på den fysiske menyknappen nede til venstre. 
+Nokia har fortsatt ikke gjort så mye med det hierariske systemet som tidvis har plaget Symbian - det tar deg seks trykk å skru på "Assistert GPS" som lokaliseringsmetode -, og de har beholdt metoden med å åpne et helt nytt tekstfelt hver gang du skal fylle ut et felt med brukernavn og passord, eller bare skal skrive inn en nettadresse. 
+
+For mange klikk 
+
+Dette høres ut som bagateller isolert sett, men det gir operativsystemet en følelse av å være uøkonomisk og for klikkbelastet. 
+En burde ikke behøve gjøre mange grep for å gjøre noe så banalt som å skrive inn en nettadresse i nettleseren, men du må altså "klikke" seks ganger fra du går bort fra nettleserens fullskjermmodus til du har skrevet inn en ny nettadresse og denne siden begynner å laste. 
+
+Nokia har forsikret at prosessoren på 680MHz skal være rask nok til å garantere en friksjonsløs brukeropplevelse, og stort sett går ting unna imponerende raskt. 
+Likevel opplevde vi med litt for jevne mellomrom at det lugget litt her og der, selv på en så triviell ting som å velge en kontakt for deretter å sende vedkommende en SMS. 
+N8 virker rett og slett ikke like rask som nyere Android og iOS-enheter. 
+
+Skjermen er like stor som på blant annet iPhone, men Nokia har valgt et mer filmvennlig format, og den er derfor både høyere og smalere enn iPhone. 
+Det har blant annet fått konsekvenser for det virtuelle tastaturet, det finnes nemlig ikke noe fullverdig QWERTY-tastatur når du holder N8 vertikalt - kun et klassisk T9-tastatur med tre bokstaver på hver tast. 
+Det er en skuffelse. 
+Snur du mobilen til horisontalmodus er fulltastatur selvfølgelig tilgjengelig. 
+
+Ikke alltid like bra respons 
+
+Responsen fra skjermen og Symbian 3 er på grensen til inkonsekvent. 
+Stadig vekk må du gjøre menyvalg og berøringer på ny, simpelthen fordi de ikke ble registrert første (eller andre) gang. 
+På en såkalt kapasitiv skjerm skal ikke dette være et problem, så her må nok Nokia finjustere innstillingene. 
+
+N8 har, som Nokias smartmobiler har hatt nesten siden tidenes morgen, sann multitasking. 
+Dette er bra, men husk dat at programmene kjører i bakgrunnen uten noen form for begrensning. 
+Det blir altså opp til brukeren å avslutte applikasjoner som for eksempel stjeler batteristrøm eller prosessorkraft. 
+
+Samtalekvaliteten er utmerket, med klar, distinkt lyd som det fremste kjennetegnet. 
+
+Nettleseren skiller seg ikke nevneverdig fra tidligere Nokia-nettlesere, men utmerket seg negativt ved at den er dårlig på å orientere seg på nettsider med flere kolonner. 
+På andre mobiler er det gjerne mulig med en dobbeltberøring for å zoome ut av eller inn på siden, men på Nokias nettleser må en stadig vekk gjøre manuelle justeringer underveis. 
+
+Sosiale medier i slow motion 
+
+Måten Nokia har integrert sosiale tjenester med N8 er forsåvidt godt tenkt, men ikke fullt så godt gjennomført. 
+Tanken er at du ved å koble sammen Ovi-systemet med for eksempel Facebook enkelt skal kunne smelte sammen kontaktene på telefonen med Facebook-funksjonalitet. 
+Dermed kan du sende meldinger eller bruke kontaktinfoen fra sistnevnte rett fra kontaktene. 
+
+Problemet er bare at en må innom Ovi hver gang en ønsker å gjøre noe, og dette tar tid. 
+Å gå fra Twitter-widgeten som kjører på hjemsiden til den egentlige Twitter-applikasjonen tar derfor tid, unødvendig mye tid. 
+Avslutter du i tillegg Twitter (for å spare strøm og/eller nettressurser) tar innloggingen enda mer tid. 
+Twitter og Facebook-klientene har i tillegg et grensesnitt som er så simpelt at de ser ut som de ble designet i en tid da bare teksten regjerte mobilverden. 
+
+Slik er det som kjent ikke lenger. 
+
+En sammenlikning med noe av det for eksempel HTC har gjort med sitt Sense-grensesnitt ender ikke akkurat opp med å gå i Nokias favør. 
+
+Plenty av applikasjoner 
+
+Ovi Store er for lengst etablert som Nokias salgskanal, og det er gjennom denne tjenesten at du kan laste ned gratis- og betalapplikasjoner til N8. 
+Utvalget er foreløpig ikke like imponerende som i Apples App Store eller Android Market, men det skulle da bare mangle - her må Nokia få tid på seg. 
+
+Butikken er funksjonell, men kjedelig og tidvis treg. 
+Enkelte ganger tar det en liten evighet å laste inn laste inn informasjon om applikasjoner, men en omstart hjalp på problemet de gangene vi opplevde dette. 
+
+Installasjon av nye programmer er en svært smal sak, og betalingsapplikasjoner betales via brukerkonto i Ovi Store. 
+
+Veldig bra kamera 
+
+Vi var forhånd klar over at kameraet i Nokia N8 sannsynligvis kom til å imponere. 
+Det er lenge siden de første N8-knipsa bildene lekket ut, og de var overbevisende på alle måter. 
+Etter selv å ha tatt noen bilder er inntrykket at de første bildene på ingen måte gir noe fortegnet bildet av virkeligheten, og at tolv-megapiksel-kameraet er i stand til å ta høyst kompetente fotografier (som de sa i eldre dager). 
+
+Makro-entusiaster vil nok likevel bli skuffet. 
+Sammenliknet med for eksempel iPhone 4 må du finne deg i å flytte N8 et godt stykke unna motivet. 
+Du skal også være stø på hånda hvis du ikke skrur på blitzen. 
+Selv utendørs, med dunkle lysforhold, har vi opplevd mer enn én gang at det ikke skal så veldig mye til før du får uskarpheter i bildene, men når en treffer - og det gjør en som regel - så er bildene skarpe og fine. 
+
+Du kan se bilder tatt med mobilen i full størrelse her: 1, 2, 3, 4, 5, 6. 
+
+Videokvaliteten virker like bra som vi har sett på iPhone 4. 
+Vi anbefaler at du skrur av videostabiliseringsfunksjonen hvis du skal filme scener med mye bevegelse, eller hvor du panorerer mye, ellers risikerer du en noe pussig stakkatoeffekt som ikke ser så bra ut. 
+
+Du kan laste ned video filmet med N8 i full størrelse her: 1 (med stabilisering), 2 (uten stabilisering). 
+
+Svært hjemmekinovennlig 
+
+Én av paradegrenene til N8 skal være multimediafunksjonaliteten. 
+Det er det da også, ettersom du blant annet kan spille HD-video rett fra enheten og vise det fram på en hvilken som helst flatskjerm med HDMI. 
+
+Med på kjøpet får du et mini-HDMI til HDMI-adapter, og avspilling er virkelig så enkelt som det kan bli: 
+Koble mobilen til TVen, spill av videoen. 
+Alt skjer automatisk, du behøver ikke gjøre noen ekstra innstillinger på N8. 
+
+Formatstøtten er derimot ikke så bra. 
+Den takler som nevnt ikke 1080p av noe slag, noe som ikke er så rart med tanke på prosessorkraften, men den likte heller ikke matroska/mkv-filene vi testet. 
+Den spiller riktignok lyden, men bildet dukker ikke opp. 
+Det samme gjaldt H264 (som riktignok, formelt sett, støttes av N8). 
+
+Divx i 720p fungerte derimot utmerket, mens Windows Media-filer ikke akkurat ble mottatt med stående ovasjoner. 
+En ordinær WMA-fil spilte bare lyd men viste ikke bilde, mens en 720p WMA-fil bare viste bilde men ikke spilte av lyd. 
+
+Litt både-og, med andre ord, så sjekk at filen du skal spille av hos en kamerat en fredag kveld faktisk fungerer før du lemper den over på N8. 
+
+Konklusjon 
+
+Det er først og fremst to ting N8 gjør veldig bra: 
+Kamera og video. 
+Er du på jakt etter en smartmobil som også kan fungere som et kompaktkamera og som filmavspiller hos venner (eller på hytta) er Nokias N8 et alternativ du absolutt bør vurdere. 
+
+Du må også ta med i betraktning at resten av telefonen ikke etterlater et like solid inntrykk. 
+Vi har allerede nevnt at Symbian bærer preg av å være et operativsystem som først og fremst ble laget for mobiler med fysiske taster, og selv mye av Symbian 3-opplevelsen er såpass pregløs at vi har problemer med å se hvordan N8 skal kunne hevde seg i en mobilverden hvor konkurransen akkurat nå er beinhard. 
+
+Dette er ikke en dårlig mobil. 
+Problemet er at den bare er hakket over gjennomsnittlig, og den er ikke bra nok i daglig bruk til å kunne forsvare en plass i det virkelig gode selskap - det som består av mobiler som HTC Desire og iPhone 4. 
+
+Kanskje må Nokia gjennom samme prosessen som Microsoft: 
+Legge det gamle mobil-OSet til side, og mer eller mindre bygge det opp fra bunnen av igjen. 
+
+Kompromisser er en fin ting i utenrikspolitikk og kjærlighet, men når det kommer til teknologi er ofte den beste løsningen å skjære gjennom. 

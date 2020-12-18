@@ -1,0 +1,91 @@
+Microsoft Surface 2
+Vesentlig forbedret og nå med full Office-pakke. 
+Holder det til suksess for Microsoft denne gangen? 
+
+La det være sagt med én gang: 
+Microsoft sitt nye Surface 2 er et særdeles bra Windows-basert nettbrett med full Office-pakke innabords. 
+Men ikke kjøp det hvis du ønsker å kjøre klassiske Windows-programmer, for det fikser nemlig ikke Surface 2. 
+
+I denne artikkelen forteller vi deg hvorfor vi likevel mener at dette er et av de beste nettbrettene på markedet akkurat nå. 
+
+To forskjellige brett 
+
+Microsofts Surface-brett kommer i to varianter, Surface 2 og Surface 2 Pro. 
+Førstnevnte er tynnere og lettere enn sistnevnte, og kjører Windows 8.1 RT, mens sistnevnte har "ekte" PC-innmat og kjører full Windows 8.1 Pro. 
+
+Den viktigste forskjellen mellom de to, rent funksjonsmessig, er at Surface 2 Pro kan kjøre klassiske Windows-programmer, mens Surface 2 kun kan kjøre Modern UI-apper som du laster ned fra Microsoft Store. 
+
+Det er naturligvis et stort ankepunkt for mange, men hvis du ikke er avhengige av "gamle" programmer skal du vite at app-utvalget er økende, og at Surface 2 har mange fordeler i forhold til noen av de argeste konkurrentene. 
+
+Teknisk helt på høyden 
+
+På innsiden sitter det 2 GB RAM, minst 32 GB flashminne til lagring, samt en kraftig firekjernet ARM-basert prossor, Nvidia Tegra 4. 
+Den sørger for god ytelse i de aller fleste situasjoner, for ikke å si alle som dette brettet er ment å håndtere. 
+Vi har for eksempel spilt av 4K-video (fire ganger full HD), uten at standardspilleren fikk hikke av den grunn. 
+
+Skjermen på 10,2 tommer har nå fått full HD-oppløsning, og gir et meget godt og klart og passe lyssterkt bilde fra alle vinkler. 
+Berøringsfølsomheten er også meget god, og registrerer inntil fem berøringer samtidig. 
+Storebror Surface 2 Pro registrerer riktignok inntil 10, men dette bør ikke være noe stort ankepunkt for de fleste av oss. 
+
+Her er to kameraer, ett til videokonferanser med 3,5 megapiksels oppløsning, og et hovedkamera med 5 megapiksels kamera. 
+Kvaliteten er å regne som på høyde med OK mobilkameraer, verken mer eller mindre. 
+
+Her ser du noen eksempelbilder: 
+
+For øvrig er det støtte for Bluetooth 4.0 og trådløst a/b/g/n-nett. 
+Surface 2 kommer ikke med støtte for mobilt bredbånd, så skal du bruke det utenfor trådløse nettverkssoner må du pare den med mobilen. 
+Ikke noe stort problem lenger i 2013. 
+
+Batteritiden er akkurat så god som den må være for å kunne konkurrere mot de beste brettene fra Apple, Sony, Samsung og de andre. 
+Vi kjørte en 720P-videosnutt i loop til batteriet var tomt, og det tok i underkant av 9 timer. 
+Ved variert og lettere bruk kan du regne med 10-11 timer, omtrent som en iPad. 
+Det må karakteriseres som meget bra. 
+
+Vinner mot iPad på mange punkter 
+
+Det er nærliggende å sammenligne mot iPad, som er markedsleder. 
+Surface 2 er tyngre enn nyeste iPad Air, med sine 650 gram mot iPad Air sine 469. 
+Det merkes godt når du holder det i hånden lenge. 
+
+Surface 2 slår imidlertid kraftig tilbake hvis vekten ikke er et stort ankepunkt: 
+Den har for eksempel en USB 3.0-port, minnekortleser, skjermutgang (mini-HDMI), integrert støtte med to posisjoner, større skjerm, brukerprofiler (ypperlig når flere deler på ett brett), 200 GB gratis nettlagring, lavere pris og en svært viktig programpakke for mange: 
+Full Microsoft Office 2013-suite, og nå følger også Outlook med. 
+
+Det er også vår mening at web-opplevelsen du får gjennom Internet Explorer 11 på Surface 2 er bedre enn hva de fleste konkurrentene byr på med sine nettlesere som er skreddersydd for nettbrett. 
+SunSpider-testen avslører blant annet at IE 11 på Surface 2 eksekverer Javascript raskere enn noe annen nettbrett-nettleser vi har testet så langt (474 ms). 
+
+Den taper imidlertid på ett viktig punkt: 
+App-utvalget. 
+Her henger dessverre Microsoft godt etter markedslederen, og det er ikke noe som tyder på at det er i snarlig endring. 
+
+De kuleste appene som alle snakker om kommer alltid først til Android- og iOS-brett, men dette kan selvfølgelig endre seg på sikt. 
+
+Det forvirrende skrivebordet 
+
+Og etter vår mening taper den også mot iPad på brukervennlighet. 
+Misforstå oss rett, Modern UI-sfæren er brukervennlig nok, men det klassiske og lite berøringsvennlige skrivebordet lurer alltid i bakgrunnen. 
+Skal du for eksempel bruke Utforsker, Notisblokk eller Kontrollpanelet er det ikke tilpasset Modern UI, og egner seg mye bedre for musepekeren enn pekefingeren. 
+Det samme gjelder Office-pakka som følger med. 
+
+Det er vår soleklare oppfatning at Microsoft hadde gjort meget lurt i å "RT-fisere" disse klassiske elementene eller ganske enkelt fjernet dem helt. 
+Det ville skapt en mye mer helhetlig og mindre forvirrende brukeropplevelse. 
+
+Konklusjon 
+
+Microsoft har med Surface 2 ikke bare laget et meget bra og solid nettbrett, de har også sydd sammen en solid pakke med blant annet full Office-suite og 200 GB gratis nettlagring i to år (sistnevnte verdt nesten 1200 kroner). 
+SkyDrive er tilgjengelig rett fra Utforsker, som om alt lå lokalt, og dermed trenger ikke behovet for lokal lagring være særlig stort. 
+Totalt sett er det derfor umulig å gi Surface noe annet enn en svært solid femmer på terningen. 
+
+Det er imidlertid et stort "men", og det er større nå enn det var da vi testet Surface RT tidligere i år: 
+Intel Bay Trail. 
+Den ferske teknikken gjør det mulig å lage like tynne, lette og seiglivede nettbrett basert på Intel-prosesorer som på ARM-baserte. 
+Det åpner for brett som kjører full Windows 8.1, uten begrensningene som ligger i RT-utgaven av operativsystemet, og vi har allerede sett et godt eksempel i Asus Transformer Book T100. 
+En rekke andre er dessuten på vei. 
+
+Da må du imidlertid belage deg på å betale for Microsoft Office, og du får heller ikke 200 GB gratis nettlagring, så dette slår litt begge veier. 
+
+Uansett: 
+Surface 2 er et brett med mange gode egenskaper, mange av dem overgår de argeste konkurrentene mener vi, og derfor gir vi et solid terningkast 5 og Anbefalt Produkt-stempel. 
+Men få med deg våre plusser og minuser i oppsummeringsboksen under før du bestemmer deg for å kjøpe. 
+
+Microsoft Surface 2 32GB 

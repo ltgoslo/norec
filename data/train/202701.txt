@@ -1,0 +1,67 @@
+Asus VivoPC VC60-B017K
+En liten, stasjonær PC - kan det være noe? 
+
+Hva slags maskin man skal bruke til forskjellige formål er ikke alltid noen selvfølge. 
+At en PC skal være bærbar er ikke viktig for alle, mange klarer seg med mobil og nettbrett på farten. 
+Men en PC som håndterer alle de "ordentlige" tingene vil mange gjerne ha hjemme. 
+Da er det ikke nødvendigvis en diger stasjonær PC eller en stor bærbar som aldri blir flyttet på som er førstevalget. 
+
+Det finnes små PC-er, som komponentmessig er nære slektninger av de bærbare, og kombinert med en god skjerm har man en praktisk og ofte kraftigere løsning enn en bærbar til samme pris. 
+
+Asus VivoPC 
+
+Det er ikke til å komme fra at Apple satte en slags standard da de lanserte Mac mini i 2005. 
+Etter dette dukket det opp mange små PC-er med lignende design og størrelse. 
+Etter hvert har både Apple og andre produsenter endret designen, men størrelsen er omtrent den samme. 
+
+Asus VivoPC er en serie små PC-er med varierende priser og spesifikasjoner. 
+Vi har hatt toppmodellen VivoPC VC60-B017K til test. 
+
+Ut av esken 
+
+VivoPC kommer lekkert innpakket i en pent designet eske, med tilbehøret i siderommene. 
+Det var med glede vi oppdaget at maskinen ikke er i blank, sort plast. 
+Den er derimot i matt sort plast, med en struktur i overflaten som minner om skifer. 
+Fingeravtrykk og fettmerker er med andre ord ikke noe problem. 
+
+Maskinen kan enten stå på et bord, eller monteres bak på en skjerm. 
+Det følger med en brakett som kan festes på skjermens Vesa-feste, og VivoPC kan enkelt henges opp i denne braketten ved hjelp av to spesialskruer som festes i bunnen av maskinen. 
+
+Det er en liten vifte, men den er ekstremt stillegående og maskinen blir bare så vidt lunken enkelte steder. 
+
+Strømforsyningen på 65W er ekstern og har ikke noen vifte. 
+
+Vårt testeksemplar av VivoPC kom med Windows 8, men den kan visstnok også leveres med Windows 7. 
+
+Prosessor: 
+Intel® Core™ i5-3210M Minne: 
+8 GB Dual Channel, DDR3 1600MHz Grafikk: 
+Intel® HD Graphics 4000 Lagring: 128 GB SSD Trådløst: 
+802.11a/b/g/n/ac Kortleser: 
+SD-kort Tilkoblinger: 4 x USB 3.0 2 x USB 2.0 1 x HDMI 1 x mini DisplayPort 1 x RJ45 Gigabit nettverk 1 x COM Port (Serieport) 1 x Kensington Lås 1 x Strøm in 1 x 
+Optisk S/PDIF ut 2 x Audio jack-er (Mik inn/høyttaler ut) 
+
+Størrelse: 190 x 190 x 56,2 mm (BxDxH) Vekt: 0,97 kg 
+
+Maskinen leveres enten med Asus Vivo mus med en stor, rund pekeplate eller med mer tradisjonelt tastatur og mus. 
+
+I bruk 
+
+Med en Core i5 får man en kjapp maskin, selv om den varianten som sitter her bare har to kjerner. 
+Med 8 GB minne og en rask SSD gir maskinen umiddelbar respons på det meste. 
+
+Vi testet med Geekbench 2, for å kunne sammenligne med maskiner vi har testet tidligere, og fikk en score på 7986. 
+Det er kurant til vanlig hjemme- og kontorbruk, men ikke nok til å gå løs på tung videorendring og omfattende musikproduksjoner. 
+
+Windows ytelsesindeks ga 4,6 ut fra den svakeste komponenten: 
+
+Prosessor 7,1 Minne 7,2 Skrivebordsgrafikk 4,6 Spillgrafikk 6,2 Disk 8,1 
+
+Vi kjørte også en test på SSD-en og fikk gode resultater: 
+
+Konklusjon 
+
+Asus VivoPC er en utmerket maskin for hjemmekontor og annen allsidig hjemmebruk. 
+Den er ikke giret opp for de tyngste jobbene eller spillene, men til alt annet er den en kompakt og stillegående samt diskret og estetisk løsning. 
+
+Asus VivoPC VC60-B017K 

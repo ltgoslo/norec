@@ -1,0 +1,56 @@
+TDK 16XDVD 
+
+TDK er svært kjent for plater og andre lagringsmedia, men DVD-brennerne er ikke like utbredt. 
+Vi har testet toppmodellen som skal klare 16X i begge formater. 
+
+Det dukker opp nye 16X DVD-brennere hvar uke, kan det virke som. 
+Det som derimot ikke har dukket opp er plater som lar seg brenne med 16X hastighet. 
+Derfor må vi ta til takke med plater som er spesifisert til 8X eller 12X, for både DVD+R og -R-formatene. 
+
+LES OGSÅ: 
+
+Når en ny brenner i tillegg støtter 4X brenning av DVD+R DL (Dual Layer) og det bare finnes 2.4X plater, blir det vanskelig å være helt skråsikker på hvor skoen eventuelt trykker. 
+
+Den endelige dommen over 16X DVD-brennere vil derfor måtte komme litt senere i sesongen, men i mellomtiden er det interessant å teste hvordan brenneren takler det som er tilgjengelig av plater. 
+
+Installasjon 
+
+Brenneren var uten nykker ved installasjonen, og dukket opp som Master i Ultra DMA modus. 
+
+Vi testet retail-versjonen, hvor brenneren leveres med monteringsmateriell, kabel og programvaren Nero Express 6. 
+
+Vårt testeksemplar var utstyrt med svart front, i blank plast. 
+Den så svært stilig ut i vår svarte Shuttle Reflexion... 
+
+Ytelse 
+
+Vi fikk anledning til å teste med 8X TDK plater av begge formater, i tillegg til Verbatim 8X og 12X. 
+Det viste seg at +R plater fra Verbatim bare ble akseptert som 8X, mens TDKs egne 8X ble godkjent for brenning i 12X. 
+
+På DVD-R var rollene byttet om. 
+Der var det Verbatims 8X plater som ville brennes på 12X, mens TDK-platene bare ble godkjent til 8X. 
+
+Dette gjorde at den raskeste brenningen av DVD+R var med TDKs egne plater, med 4:15 på 2 GB og 6:30 på 4 GB. 
+
+Med Verbatim var tidene henholdsvis 5:56 og 9:17. 
+
+DVD-R ble brent raskest på Verbatim, med 4:58 på 2 GB og 6:46 på 4 GB. 
+
+Overskriving av 2 GB DVD+RW gikk på 6:40 
+
+Brenning av CD gikk unna på 3:17 med Verbatim 52X plater godkjent som 32X. 
+
+Ripping av musikkCD på 3:55. 
+Her lå det an til bedre tid, men på de siste to sporene sank hastigheten fra over 32X helt ned til 11-12X. 
+
+Dual Layer går langt tregere enn vanlig brenning, men her tar TDK solid innersving på sine konkurrenter! 
+Den brenner 2.4X plater med 4X, og det vil si 26:18 på 2 x 4000 MB. 
+Til sammenligning brukte Samsung 43:12 og BenQ 45:42 på de samme dataene. 
+Vi snakker altså om utklassing ved Dual Layer. 
+
+Konklusjon 
+
+TDK har laget en svært lovende brenner, som er blant de raskeste og mest fleksible. 
+
+TDK selges av bl.a. Telehuset, men prisen var ikke klar i skrivende stund. 
+Vi tipper 1250 kroner inntil videre... 

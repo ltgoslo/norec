@@ -1,0 +1,39 @@
+XLive XBM-100
+En meget smart ide på papiret - en MP3-spiller som lar deg overføre filer trådløst. 
+Vi prøver den første spilleren med Blåtann, og lurer på om det fungerer. 
+
+Omtrent samtlige MP3-spillere krever naturlig nok USB- eller FireWire-tilkobling via kabel, så ideen med å kunne flytte musikk over trådløst høres svært attraktivt ut for oss. 
+Vi var derfor spent når vi mottok den lille 256 MB-spilleren fra koreanske XLive. 
+Denne skal nemlig støtte Bluetooth for overføring av filer og telefonsamtaler, men dessverre fungerer det ikke så bra som det burde. 
+
+Ukomplisert i bruk 
+
+Først litt om selve spilleren: 
+Den er så absolutt funksjonell med FM-radio, stemmeopptak og 256 MB lagringsplass. 
+Den er også liten og håndterlig (vekten er på 42 gram). 
+Utseendet er ikke spesielt spektakulært, det er rett og slett plass til de nødvengige knappene, en joystick som styrer funksjonaliteten og en liten LCD-skjerm. 
+
+Batteriet på spilleren lades faktisk opp via USB-kabelen, og den dukker for øvrig opp som en egen disk på din datamaskin, så du behøver ikke å installere ekstra programvare. 
+Det er alltid et pluss å bare kunne flytte filer rett over til MP3-spilleren. 
+
+XLive-spilleren har gode muligheter for å stille inn lydkvaliteten, med både forhåndsdefinerte EQ-innstillinger (Rock, Pop, Jazz, og så videre), mulighet for å justere bass og diskant selv, samt SRS-spesialeffekter. 
+Ikke overraskende er de medfølgende øreproppene ganske svake og med dårlig bassgjengivelse, men når vi plugget inn et bedre headsett oppdaget vi at lyden er absolutt godkjent. 
+
+Både radio- og opptaksmulighetene fungerer som de skal, og alt i alt er spilleren godkjent, selv om den ikke byr på noe spektakulært. 
+
+Ujevn Blåtann 
+
+Bluetooth-støtten er imidlertid mer komplisert, og vi slet med å få overført filer fra og til en PC. 
+Selv om det går relativt greit å få koblet sammen de to enhetene, er selve overføringen ustabil. 
+Om ikke annet er det i alle fall svært enkelt å finne frem Bluetooth-menyen, da det er en egen knapp på spilleren som aktiverer den. 
+
+Utenom å overføre filer kan du også bruke spilleren som håndfrisett med en Bluetooth-utstyrt telefon. 
+Det er faktisk en morsom mulighet, da musikkspillingen blir automatisk stoppet når telefonen ringer, og du bruker de medfølgende øreproppene til å prate med. 
+Du kan til og med også ta opp deler av samtalen i MP3-format. 
+
+Konklusjonen vår er at Bluetooth-mulighetene er litt for ustabile for å fungere skikkelig. 
+Ideen er som sagt spennende, og vi vil gjerne se flere spillere som benytter seg av trådløse muligheter. 
+Men XLive bør jobbe litt mer med å implementere dette skikkelig. 
+Og som MP3-spiller er den helt grei, men det finnes billigere løsninger som gir de samme mulighetene. 
+
+Mer nyttig fra DinSide Data: 

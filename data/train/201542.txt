@@ -1,0 +1,86 @@
+AC Ryan Playon!HD mini 
+
+Dette er den første mediespilleren vi har testet som ikke har hatt noen problemer med å spille av noen av testfilene våre. 
+
+Markedet oversvømmes av små, rimelige mediespillere som kobles til TV-en, og spiller alt du har lastet ned av musikk, videoer og bilder fra nettet. 
+Noen av dem har innebygd harddisk, mens andre krever at du kobler til eksterne harddisker og minneplugger, eller kobler dem til nettet. 
+
+Det siste året har vi testet mange av dem, du finner lenker til dem nederst i denne artikkelen. 
+
+AC Ryan PlayOn! 
+HD Mini er av typen som ikke har innebygd harddisk. 
+Fordelen med slike er at de som oftest er rimeligere, stillere og billigere. 
+Denne modellen har også en storebror med innebygd harddisk, som vi har testet tidligere. 
+Storebroren viste seg å være blant de aller beste på formatstøtte og utvalg av funksjoner, men fikk trekk for litt knotete menynavigasjon og svak musikkfunksjonalitet. 
+
+Likhetene med storebroren er mange, og her er en liste over de viktigste egenskapene til AC Ryan PlayOn! 
+HD Mini: 
+
+* Multimediespiller for video, bilder, musikk, tar så og si alt av formater 
+* Media kan ligge på USB-disker, USB-minneplugger eller på nettverket 
+* Streaming via uPnP både til og fra enheten 
+* Bla i nettverksstasjoner via SAMBA-klient 
+* Nettradio-støtte med opptaksfunksjon * RSS feed-støtte * 2 USB 2.0-porter 
+* Ethernet-port 
+* Mulighet for trådløs tilkobling (ekstrautstyr) * HDMI, kompositt A/V, komponent + optisk lydutgang (TOSLINK/SPDIF) 
+* Støtter Stereo, Dolby Digital AC3 5.1, Dolby Digital Plus, DTS, DTS-HD Master Audio og FLAC 7.1 (Alt kan downmixes til stereo ved behov). 
+* Vekt 600 gram, mål 151 x 102 x 42 mm. 
+
+Listen over funksjoner kan imidlertid utvides, avhengig av hva som kommer av nye firmware-oppdateringer. 
+Blant annet planlegges muligheten til å laste ned bittorrent-filer til en tilkoblet harddisk/minneplugg. 
+Etter at vi installerte siste firmware på vårt testeksemplar, fikk menyene nytt utseende og støtte for opptak fra nettradio ble lagt til som ny funksjonalitet. 
+Så her gjelder det å følge med på produsentens hjemmeside! 
+
+I esken følger det med både HDMI- og komposittkabler, førstnevnte anbefales dersom du har en TV med slik inngang. 
+Da får du også fullt utbytte av HD-materiale, hvis du har slikt liggende. 
+
+Støyer ingenting 
+
+Oppstarten er ikke blant de aller kjappeste, det tar rundt 20 sekunder før vi kan begynne å bla med fjernkontrollen. 
+Menyene kjenner vi igjen fra en rekke andre mediespillere som er bygd rundt samme lest, med noen få unntak. 
+
+Det hele er enkelt og funksjonelt, men grensesnittet vinner neppe noen designpriser. 
+
+Og hvis du lurte, AC. 
+Ryan PlayOn! 
+HD mini har ingen vifter, og er derfor helt musestille. 
+
+Den enkleste tilgangen til multimedieinnhold får du via menyvalget Browse. 
+Da vil du kunne bla deg gjennom tilkoblede USB-disker og minneplugger som i en vanlig filbehandler. 
+
+Du finner også et Library-valg som lar deg indeksere innholdet og presentere det på bakgrunn av tagger, men funksjonen virker prematur. 
+For eksempel ble ikke biblioteket oppdatert med nye bildefiler da vi byttet disker, og listen over videoer viste fortsatt innhold fra den frakoblede disken. 
+
+Tilkobling til uPnP-servere i nettverket fungerte fint, men SAMBA-tilkobling til en Windows 7-maskin på nettverket gikk ikke så bra, da brukernavn og passord ikke ble godtatt. 
+Vi har dessverre ikke rukket å komme i land med noen løsning her. 
+
+RSS-funksjonen er morsom. 
+Her kan du koble deg til Flickr, Picasa, Weather.com og diverse nyhetskilder som CNN og BBC, og du kan også legge inn dine egne RSS-feeder. 
+
+Streaming av nettradio har fungert bra, helt til vi skulle avfotografere tjenesten. 
+Når den fungerer får du tilgang til rundt 10.000 live radiostrømmer verden over, og kan også ta opp fra sendingene. 
+Det lagres da i en egen mappe på tilkoblet harddisk eller minneplugg, i MP3-format. 
+
+Her har vi samlet en rekke bilder fra menyene og fra avspilling av mediefiler: 
+
+Suveren på formatstøtte 
+
+Det er imidlertid på formatstøtte PlayOn! 
+HD mini virkelig står fram i forhold til konkurrentene. 
+Denne gang er det kun filer med etternavn 3GP som ikke blir listet. 
+Ved å endre filetternavn til AAC ble de derimot listet og avspilt uten problemer. 
+I praksis er det altså snakk om nær 100% formatstøtte, og det er ny DinSide-rekord! 
+
+Lyd- og bildekvaliteten er også meget bra, men avhenger naturligvis av hva som spilles av. 
+Her spiller vi av en video i 720P: 
+
+Det betyr ikke at det ikke finnes forbedringspotensiale likevel. 
+For eksempel synes vi spolingen er litt upolert. 
+Du kan velge flere trinn, opptil 16x, men spolingen går i rykk og napp. 
+Plutselig hoppes det ett minutt fram, osv. 
+
+Sortering og presentasjon av mediefiler er et annet ankepunkt. 
+Vi har allerede nevnt mediebiblioteket. 
+Både der og når man bruker Browse-funksjonen sorteres for eksempel musikkfiler kun på filnavn, og det blir ugreit i tilfeller som illustrert under: 
+
+Men når alt kommer til alt er dette en av de bedre mediespillerne vi har testet, og den redder et anbefalt produktstempel takket være den formidable formatstøtten, stillegående operasjonen og relativt lave prisen. 

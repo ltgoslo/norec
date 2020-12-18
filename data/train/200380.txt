@@ -1,0 +1,134 @@
+Acer Aspire V7
+Skikkelig lekkerbisken fra Acer som snuser på sekseren. 
+
+Acer Aspire 
+V7 har det meste av hva vi forventer av en bærbar PC i 9-10.000-kroners klassen, og etter å ha brukt den noen dager har den vokst på oss. 
+
+Dette er en av de beste allround-maskinene fra Acer vi har testet noen sinne. 
+
+God spesifisert 
+
+V7 er en helt ny modell som finnes i flere forskjellige konfigurasjoner. 
+Prisene starter på rundt 5.000 kroner, men modellen vi har sett på er langt bedre spekket blant annet på skjerm, prosessor, grafikk og minne. 
+Derfor havner da prislappen på rundt 9.000 kroner i de rimeligste butikkene vi har sett den i. 
+
+Her er en kjapp titt på de tekniske egenskapene: 
+
+Skjerm: 15,6" full HD blank IPS berøringsskjerm, 1920 x 1080 piksler Prosessor: 
+Intel Core i7-4500U prosessor RAM: 
+8 GB (maks 12 - et ledig spor) Grafikkort: 
+Nvidia Geforce GT 750M Lagring: 500 GB harddisk (5400 rpm) + 24 GB SSD fra Kingston Optisk drev: 
+Nei Skjermutganger: 
+HDMI 1.4 og VGA (sistnevnte krever overgang som følger med) USB-porter: 2 x USB 2.0, 1 x USB 3.0 Webkamera: 
+1,3 megapiksler Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel N-7260 (b/g/n) Kablet nett: 10/100/1000 Mbit Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 64 bit Størrelse: 38,2 x 2 x 25,6 cm Vekt: 
+2,2 kg Pris: fra 8.990 kroner (jf Prisjakt 15.10.2013) 
+
+Her er det mye å like, som temmelig kraftig, dog strømgjerrig prosessor, bra grafikkort til spilling, og IPS-skjerm med full HD-oppløsning. 
+Legg også merke til at maskinen er kun to centimeter tykk, noe som må sies å være meget slankt med tanke på at dette er en 15,6 tommer. 
+
+Det eneste vi vil trekke etter å ha saumfart spesifikasjonene er at maskinen kun har én USB 3.0-port, og at en ren SSD-løsning ville vært å foretrekke framfor en todelt løsning med harddisk og liten SSD for mellomlagring. 
+
+Nå skynder vi oss å legge til at du kan få maskinen med SSD også, men da kryper prisen godt over 10.000 kroner. 
+
+Utformingsmessig utstråler maskinen klasse. 
+Metallchassis med langsgående linjer både i lokk og på innsiden gir et eksklusivt og solid uttrykk, og glasset som dekker skjermen strekker seg helt ut i kantene. 
+
+Klasse-skjerm 
+
+Når vi først er inne på skjermen - den er meget skarp og fin, og IPS-panelet sørger for at den kan betraktes fra nær sagt død vinkel uten at farger og kontrast endrer seg: 
+
+Berøringsfølsomheten er helt prima for deg som liker å manøvrere med fingrene i Windows 8 sin Modern UI app-verden. 
+
+Ulempen er naturligvis gjenskinn, som kan bli plagsom i den speilblanke overflaten - avhengig av hvor du befinner deg og hvordan du vinkler skjermen. 
+
+Vi merker oss også at hengslene er tighte og gir bra motsand når vi dytter i skjermen. 
+
+Flott tastatur 
+
+Tastaturet er fellesnordisk, baklyst, og av typen der hver tast sitter isolert fra de andre (kalles gjerne chicklet-tastatur). 
+Det er svært fast og solid, og gir en kontant respons uten at det avgir særlig støy under heftig tasting. 
+Her er det lite eller ingenting å utsette. 
+
+Også den store pekeplaten som sitter under tastaturet oppfører seg eksemplarisk, selv om vi brukte litt tid på å bli dus med de integrerte trykkfeltene for venstre- og høyreklikk. 
+Motstanden kunne vært litt mindre og klikkelydene litt lavere, men dette er ikke noe store ankepunkter. 
+
+Tilkoblingene sitter i hovedsak på baksiden, med unntak av to USB-porter - en på hver side. 
+På høyre side sitter også minnekortleseren og hodetelefonutgangen. 
+Vi liker egentlig denne utformingen godt. 
+
+På motsatt side sitter av/på-bryteren, noe som er en uvanlig plassering: 
+
+Vi ser ett stort pluss ved å ha den på utsiden: 
+Dersom du har koblet PC-en til en ekstern skjerm, tastatur og mus og ikke ønsker å åpne lokket hver gang maskinen skal skrus på. 
+
+At skjermutganger sitter bak ser vi egentlig bare på som en fordel. 
+Det virker bare ryddigere. 
+
+Bunnplaten er av plast, og i fronten sitter to høyttalere. 
+De sørger for brukbar lyd til radio og bakgrunnsmusikk, med noe som kan minne om bass. 
+Sett i forhold til den store hurven kommer disse høyt opp på listen over lydkvalitet, selv om du selvfølgelig kobler til eksterne høyttalere eller hodetelefoner når du skal mates med godlyd. 
+
+Slik er den i bruk 
+
+PC-en oppleves som rask og responsiv i de aller fleste situasjoner, og nok en gang må vi berømme Acer for å gjøre en meget god konfigurasjonsjobb. 
+SSD-en sørger for at oppgaver som kjøres ofte, lastes raskere, inkludert operativsystem og programmer. 
+
+Harddisken er ikke like robust og lett som en SSD, som vi definitivt hadde foretrukket på en såpass kostbar datamaskin, og den avgir dessuten en lav suselyd. 
+I de fleste situasjoner vil ikke den være særlig hørbar, det vil heller ikke kjøleviftene i PC-en. 
+Takket være lav varmeutvikling fra prosessoren og harddisken er kjølebehovet lavt, noe som gjør at dette er en meget støysvak PC under de fleste forhold. 
+
+Det dedikerte grafikkortet fra Nvidia vil imidlertid kreve kjøling i tyngre grafiske jobber (les: spill), og da vil viftene være godt hørbare. 
+Men vi vil absolutt ikke karakterisere vifteaktivitene på denne PC-en som særlig sjenerende. 
+
+Ytelsesmessig henger maskinen godt med i svingene i de fleste situasjoner, også spill. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 7,1 Minne: 7,6 Grafikk: 
+6,4 Spillgrafikk: 
+6,4 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 ble brukt til mer inngående ytelstester, og her har vi trukket fram tall fra noen av dem, og krydret med våre kommentarer: 
+
+Prosessor: 4240 poeng 
+Dette er egentlig å regne som ganske midt på treet i 2013, og du kan få PC-er med langt kraftigere prosessor i denne prisklassen. 
+Om det vil merkes i praksis er imidlertid et åpent spørsmål. 
+I de fleste situasjoner yter denne prosessoren meget bra, og blir neppe noe ankepunkt i PC-ens levetid. 
+
+Grafikk: 
+1588 poeng GT 750 M-grafikken sørger for bra spillytelse, også på nye spill på topp 10-listen i butikkene. 
+Muligens må du gå litt ned på oppløsning og detaljnivå i de mest krevende scenene, men hvis du ikke er blant de mest hardbarkede gamerne er dette en fornuftig løsning. 
+
+Harddisk: 
+113/98 MB pr sek 
+Harddisken har en lese- og skrivehastighet som er temmelig moderat. 
+I tillegg er maskinen utstyrt med en SSD på 24 GB fra Kingston, som har én oppgave: 
+Bufre data som aksesseres mye. 
+Det betyr at programmer og filer som åpnes ofte, vil prosesseres vesentlig raskere andre og tredje gangen de åpnes enn den første. 
+Hadde PC-en hatt en ren SSD hadde det alltid gått lynraskt - og da snakker vi om 4-5 ganger raskere enn denne harddisken klarer å levere. 
+
+Batteritid: 
+7,5 timer 
+Vi målte batteritiden med minimal belastning, kun tilkoblet trådløst nettverk og med standard innstillinger med hensyn til ytelse og skjermlys. 
+Da holdt batteriet ut i respektable ni timer og tre minutter før maskinen sluknet. 
+
+Acer antyder 7,5 timer under variert bruk, altså en full arbeidsdag. 
+Det har vi all grunn til å tro stemmer meget bra etter dette. 
+
+Konklusjon 
+
+Det er gledelig å se at Acer her leverer en allround-PC med fysiske kvaliteter og design som vi tidligere langt oftere har forbundet med produsenter som Apple og Samsung. 
+PC-markedet trenger flere produkter som dette, produkter som gir brukeren en god følelse fra A til Å. 
+
+De eneste ankepunktene vi har er at skjermen er svært blank, og dermed avgir mye refleksjoner, spesielt utendørs og i rom med mye belysning. 
+I tillegg er det ikke til å stikke under en stol at 9.000 kroner er mye penger for mange, så mye at harddisken med fordel kunne vært erstattet med en SSD - noe som ville gitt enda bedre ytelse og tryggere lagring ved for eksempel fall eller støt på andre måter. 
+
+Men bevares, dette er en super PC som absolutt fortjener vårt kvalitetsstempel "Anbefalt Produkt". 
+
+Acer Aspire V7-582PG-74508G52tkk (NX.MBVED.002) 

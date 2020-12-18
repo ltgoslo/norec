@@ -1,0 +1,67 @@
+Asus RT-AC66U
+Dette er toppmodellen fra Asus, som vi har testet i en periode. 
+
+Den nye ruteren fra Asus ligner til forveksling den tidligere toppmodellen RT-N66U, som vi testet i slutten av februar 2012. 
+Forskjellen er at denne bruker AC-standarden, mens den forrige måtte klare seg med N-standarden. 
+Selve enheten er ganske liten sammenlignet med en del andre rutere, men antennene er eksterne og ganske store. 
+
+Tilkoblingene er de vanlige WAN pluss fire LAN, med Gigabit nettverksstøtte og 2 USB-porter for deling av skriver og lagring. 
+
+Installasjon 
+
+Installasjon av Asus sine rutere skjer uten CD. Kobler du til PC og åpner nettleseren kommer du rett inn i ruteroppsettet. 
+RT-AC66U har det samme brukervennlige grensesnittet som forgjengeren, RT-N66U, og hvis du ikke har helt spesielle behov er du på nett i løpet av 30 sekunder. 
+
+Typiske og anbefalte endringer som å endre navn på det trådløse nettet ditt eller aktivere gjestenett tar heller ikke mange sekundene. 
+
+Tre modi 
+
+RT-AC66U kan fungere i tre modi. 
+Enten som vanlig ruter, som media-nettverksbro eller som rent aksesspunkt. 
+
+Har du en nettverkstilbyder som bare leverer en IP-adresse ut av boksen, bruker du RT AC66U som ruter og utnytter alle dens egenskaper. 
+Har du en nettverkstilbyder som leverer en boks med ruterfunksjoner kan du likevel få en optimal trådløs-løsning ved å bruke RT AC66U i aksesspunkt-modus. 
+
+Vil du ha en optimal trådløs forbindelse til mediebruk bruker du to RT AC66U og setter den ene som nettverksbro, eller Mediabridge som Asus kaller det. 
+
+Denne funksjonen har vi testet tidligere, du kan lese om dette i denne artikkelen. 
+
+Andre funksjoner 
+
+Dette er en ruter i den øverste klassen, og har støtte for mange avanserte funksjoner. 
+Den støtter blant annet WDS (Wireless Distribution System) for å utvide dekningen ved bruk av flere RT-AC66U enheter som fungerer som ett stort system. 
+
+Du har også prioriteringskontroll, brannmursinnstillinger, VPN, IPv6, port-forwarding og kontroll over andre avanserte parametere. 
+
+Blant de mest interessante ekstrafunksjonene er USB-støtten. 
+Ruteren har to USB 2.0 porter og du kan dermed koble til eksterne diskløsninger som kan deles mellom maskinene i nettverket. 
+
+Du kan også dele filer og filområder på diskene på internett via AiDisk. 
+
+Det er også USB-støtte for skrivere, for eksterne modem for 3G/4G og WiMax. 
+Hvis hovedforbindelsen til internett via WAN-porten skulle falle ut vil ruteren automatisk koble til den trådløse internettforbindelsen. 
+
+Nedlasting til nettverksdisk kan også administreres fra ruteren, selv om PC-ene ikke står på. 
+
+Ytelse 
+
+Vi har som nevnt allerede skrevet om bruk av to RT AC66U som nettverksbro eller Media bridge som Asus kaller det. 
+Her fikk vi den klart raskeste trådløse overføringen vi noen gang har testet. 
+Artikkelen finner du her. 
+
+Vi har også testet RT AC66U med den eksterne USB-mottakeren USB-N66 fra Asus, som var en imponerende kombinasjon. 
+Testen kan du lese i denne artikkelen . 
+
+Da vi testet den lille USB-mottakeren fra ON networks sjekket vi også hvordan den fungerte sammen med RT AC66U, og resultatet finner du i denne testen. 
+
+Vi har nå også testet med to bærbare og interne nettverksløsninger med 3 og 2 antenner, på henholdsvis Intel Centrino N-6300 og Intel 4965AGN. 
+
+Konklusjon 
+
+Konklusjonen er ganske klar, denne ruteren overgår alt annet vi hittil har testet når det gjelder brukervennlighet, egenskaper og ytelse. 
+
+Den er lett å tilpasse til forskjellige bruksområder, gir overlegen trådløs ytelse uansett hva slags klienter du har med å gjøre, og du får NAS og nettskyfunksjoner nærmest på kjøpet ved å koble til en USB 2.0 disk. 
+
+Vi har også brukt den sammen med mange forskjellige gamle og nye trådløsenheter og aldri støtt på noen form for problemer. 
+
+Asus RT-AC66U 

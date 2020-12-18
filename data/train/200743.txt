@@ -1,0 +1,63 @@
+Linksys Wireless-n Range Extender
+Ikke dekning med det trådløse nettet? 
+
+Trådløse rutere er vanligvis i stand til å dekke en ganske stor bolig, og de fleste klarer seg med dette. 
+Men rekkevidde og dekning kan også være ganske komplekst, avhengig av både romplassering, avstander, byggematerialer og forskjellige gjenstander i boligen. 
+
+I utgangspunktet skal en trådløs ruter plasseres høyt, fordi standardantennene som brukes sprer signalet nedover og utover. 
+Vi har vår trådløse ruter plassert på hemsen over annen etasje oppunder mønet, og i vårt trehus er det god dekning helt nede i kjelleren, i praksis tre etasjer ned. 
+
+Men det finnes også mange som har problemer med dekning i leiligheter på ett plan, fordi det ikke er mulig å plassere den trådløse ruteren på et gunstig sted. 
+
+Hva gjør man da? 
+Jo, man skaffer seg rett og slett en enhet som kan øke rekkevidden. 
+
+Range Extender 
+
+Denne Linksys-enheten er en liten boks i plast, med et diskret utseende. 
+Den er svært anonym med koksgrå avrundet overflate, men sjenerer heller ikke øyet når man får øye på den. 
+
+Den kan kobles rett i en stikkontakt, eller med en vanlig ujordet ledning. 
+
+Du plasserer den i ytterkant av det området der det er kurant dekning av ditt eksisterende trådløse utstyr, i retning av det området hor du ikke har dekning. 
+Range Extender'en plukker så opp signalene, forsterker disse og sender de ut igjen. 
+Dermed får du trådløs dekning videre utover i boligen. 
+
+Installasjon og oppsett 
+
+Du må først installere et program på en PC som er koblet til det trådløse nettet. 
+Du kan ikke installere med CDen fra en stasjonær eller annen trådløs enhet som iPad eller mobil med WLAN-støtte. 
+
+Du kan også konfigurere Range Extender ved å koble den til ruteren din med kabel og via et web-grensesnitt, mer om dette finner du her 
+
+Når installasjonsprogrammet har startet får du beskjed om å koble til Range Extender, det gjøre ved ganske enkelt å sette den i en stikkontakt. 
+Deretter oppdager programmet enheten via det trådløse nettet, og du får beskjed om å velge hvilket nettverk den skal koble seg til, som vises i en liste. 
+Du velger naturlig nok ditt eget nett og får så beskjed om å taste inn passordet for tilgang. 
+Denne informasjonen sendes så til Range Extenderen, og den er klar til bruk. 
+Da kan du ta den ut av stikkkontakten og koble den til der den skal brukes. 
+
+Hvor bra fungerte det? 
+
+Vi har som nevnt utmerket dekning innendørs, men utover i hagen er ikke dekningen like god, selv om terrassen er dekket. 
+
+Men går man ut i garasjen og videre foran denne slik at garasjen er "i veien" faller dekningen til -90db og lavere avhengig av hvordan man snur seg. 
+
+Vi plasserte Range Extender rett innenfor treveggen i garasjen, vendt mot boligen. 
+
+Resultatet var at vi nå fikk -78db signalstyrke, og utmerket dekning på plassen foran garasjen. 
+
+Nøyaktig hvor stor forbedring man vil kunne få vil variere med de konkrete fysiske betingelsene der man installerer utstyret, til og med detaljer som vinkelen på de trådløse enhetene og antennene (hvis de er utvendige). 
+
+Det er også viktig å huske på at hastigheten på trådløst nett avhenger av signalstyrken, derfor er det en fordel å ikke plassere Range Extenderen så langt unna den eksisterende trådløse ruteren at hastigheten faller unødvendig mye. 
+
+Den kan også kobles til utstyr med en vanlig nettverkskabel, og fungerer da som en nettverksbro (bridge). 
+Dette er praktisk hvis du f.eks. også skal koble til en TV eller Blu-ray spiller med kablet nett. 
+
+Konklusjon 
+
+Det er ingen tvil om at en Range Extender gjør jobben, og at det er langt enklere enn å sett opp enda en trådløs ruter, med kabelstrekk osv. 
+Dessuten er det langt fra alle rutere som kan samarbeide med dekningen (roaming) slik at du slipper å bytte trådløst nett når du beveger deg ut og inn av sonene. 
+
+Men en Range Extender tar det deg bare noen minutter å installere og plassere, så er dekningsproblemet løst. 
+
+Linksys RE1000 

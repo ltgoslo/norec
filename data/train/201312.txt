@@ -1,0 +1,125 @@
+Apple MacBook
+Apples produkter har lenge vært i en klasse for seg selv, både på godt og vondt. 
+Vi har testet den nye MacBooken, og ser litt på hvordan den klarer seg mot vanlige PCer. 
+
+I forbindelse med forrige ukes kåring av "beste bærbar-tilbud" for november ble vi pent oppfordret om også å ta med en MacBook. 
+For å sammenlige har vi derfor valgt å bruke Boot Camp 1.1.2 (ja, den er fremdeles i beta) for å installere Windows XP på MacBooken. 
+Noen vil selvfølgelig argumentere med at det å bruke noe annet enn MacOS på en Mac ødelegger hele poenget med i det hele tatt å kjøpe en Apple, men det er uansett nokså få gode måter å sammenligne epler og appelsiner på... 
+
+LES OGSÅ: 
+
+MacBook kommer i flere konfigurasjoner, i skrivende stund fra 9.990,- til over 17 tusenlapper. 
+Siden våre bærbar-tilbud skulle ligge på ca. ti tusen, har vi her gått for den billigste versjonen. 
+
+Stilren og uskyldshvit. 
+Kamera og mikrofon er plassert rett over skjermen. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo T5600 @ 1,83 GHz 13,3" skjerm i bredformat (1280 x 800 piksler) 512 MB DDR2-minne (2 x 256) 60 GB harddisk (5400 rpm) 
+DVD-ROM/CD-brenner Intel GMA 950 (64 MB delt minne) 54 Mbps WLAN (b/g) GB LAN, IR-mottaker Blåtann er integrert 2 x USB, 1 x 
+FireWire 400 Analog og digital lyd inn/ut Integrert webkamera og mikrofon Apple fjernkontroll følger med 
+
+DVI-, VGA-, S-Video- og komposittutgang kan kjøpes som ekstrautstyr 
+
+Modem kan kjøpes som ekstrautstyr 
+
+Dimensjoner (ink. batt.) B/D/H: 32,5 x 22,7 x 2,8 cm 
+
+Vekt 2,3 kilo 
+
+Pris: 9.990,- inkl. mva. og frakt. 
+
+Skjermen på utypiske 13,3" har en oppløsning på 1280 x 800 piksler og har blankt kontrastbelegg. 
+Kontraster og farger er upåklagelige, mens betraktningsvinkelen ikke er noe å skryte av - altså det samme som vi er vant til fra andre bærbare datamaskiner. 
+
+Konstruksjon 
+
+Apple MacBook er en kompakt liten maskin, og virker nesten overraskende tung når du plukker den opp. 
+Vekten er ikke på mer enn 2,3 kilo, men på grunn av størrelsen og kanskje spesielt tykkelsen får du følelsen av at den skulle vært enda lettere. 
+
+Alle overflater er i plast, om enn hvit i fargen, og virker solide nok. 
+De gir ikke så altfor lett etter for press, selv om skjermen er litt vel fleksibel. 
+Alt i alt er det ikke datamaskinen vi hadde tatt med oss i felten, men for daglig urban bruk er den mer enn god nok. 
+Designet er umiskjennelig Apple, noe som gleder noen og forargrer andre. 
+
+Touchpaden er stor, i bredformat og fungerer på en litt annen måte enn på en PC. 
+(Ja, vi snakker nå om Mac med Windows installert.) 
+Det mest åpenbare er at du ikke kan tappe på den for å klikke, det må du gjøre med den store knappen under. 
+Og ja, det er bare EN knapp, så høyreklikking krever også en viss teknikk: legg to fingre på touchpaden i stedet for kun en, og vips fungerer knappen som en høyre mustast. 
+Det er egentlig ganske så enkelt når du venner deg til det. 
+
+Der skjermen er hengslet kommer også varmluften ut. 
+
+To fingre på touchpaden lar deg også scrolle vertikalt, i stedet for å bruke fingeren i kanten slik som på bærbare PC-er. 
+Tastaturet er stille, kontant og med tydelige mellomrom som skiller tastene, som også er helt flate. 
+Dette vil nok for mange være litt uvant i begynnelsen, men som alt annet en vanesak. 
+Ellers er jo tastaturets layout annerledes enn det PC-brukere flest er vant til, undertegnede savnet spesielt delete-tasten. 
+Ctrl- og Fn-tasten er forresten feilplassert, noe vi også har sett på en rekke bærbare PCer. 
+
+Datamaskinen er ellers minimalistisk designet uten snarveisknapper eller noe slikt som ødelegger stilen. 
+Vi kan heller ikke si at det vrimler av tilkoblingsmuligheter på Macen, her er det designet som kommer først. 
+
+Det aller meste er samlet på venstre side: inngang for strøm, LAN, mini-DVI (adapter til forskjellige typer ekstern skjerm er ekstrautstyr), FireWire 400, 2 x USB, lyd inn/ut og hull til kensingtonlås. 
+Strøminntaket er for øvrig magnetisk, slik at strømpluggen smekker på plass nesten av seg selv... en liten detalj, men det er slike ting som gir følelsen av kvalitet og eksklusivitet. 
+
+Foran er finner vi kun lys som indikerer dvalemodus og IR-mottaker. 
+
+Bare det optiske drevet er plassert på høyre side. 
+Her ser du forresten også makismal åpningsvinkel på lokket, noe som kan være et problem dersom du er høy og liker å ha den bærbare på fanget. 
+
+Ytelse 
+
+Det virket logisk å sammenligne med maskinene vi testet i vårt beste bærbar-tilbud, siden disse ligger i samme prisklasse. 
+
+Applikasjonskjøretid i sekunder, altså er lavere bedre. 
+
+Her ligger MacBook nesten helt på høyde med HP og Multinote, de har jo alle samme prosessor (Intel Core 2 Duo T5600) så noe annet ville også vært rart. 
+Aceren med sin AMD-prosessor ligger langt etter. 
+
+Høyere poengsum er bedre. 
+
+MacBook holder seg bra i de fleste disipliner, bare litt bak de to andre Intel-maskinene. 
+Bare det interne skjermkortet gjør at den totalt havner helt sist. 
+
+Høyere poengsum er bedre. 
+
+Disse testene bare bekrefter det vi vet fra før: 
+Intels GMA950 er ikke grafikkløsningen for de som ønsker å bruke maskinen til 3D-spilling. 
+
+Batterilevetid og støy 
+
+Det eneste stedet vi fikk problem med å kjøre Windows på MacBook var i BatteryMark. 
+Den ville ganske enkelt ikke fullføre noen av testløpene, men basert på tiden den brukte til omtrent 50% kapasitet beregnet vi levetiden til litt over 3 timer. 
+Dette er et godt resultat! 
+
+Når det gjelder bråk er MacBooken med sin svake grafikkløsning glimrende ved lett belastning, uten nevneverdig støy. 
+Ved tyngre arbeidsoppgaver er den på linje med fleste PCer i denne prisklassen. 
+
+Oppsummering og konklusjon 
+
+Som vi nevnte innledingsvis er det kanskje litt dumt å sammenligne en Mac med en PC, siden den tross alt er ment å kjøre en helt annen programvare. 
+Men når det først er mulig å bruke den med Windows, hvorfor ikke? 
+Du velger jo tross alt operativsystem ved oppstart, og det betyr at du kan velge det som passer best til akkurat de arbeidsoppavene du skal gjøre. 
+
+Apple MacBook (som PC) er så avgjort ikke noe bomskudd. 
+Etter installasjonen av XP har den for det meste oppført seg eksemplarisk og vært fin i bruk. 
+Det skal dog nevnes at Windows meldte om korrupt fil og nektet å starte opp en knapp time etter at testen var ferdig skrevet... men det fikset seg heldigvis med "reparer"-funksjonen på XP-CDen. 
+
+Det største ankepunktet når det gjelder Mac vs. PC er som det alltid har vært: pris mot ytelse. 
+Selv om forskjellen nå ikke er allverden er det fremdeles litt igjen, for eksempel har vårt testeksemplar til 9.990,- halvparten så mye RAM, halvparten så stor harddisk og langt dårligere grafikkløsning enn sine PC-motparter. 
+DVD-brenner og skjerm/video ut er også ekstrautstyr, og det er ingen plass til ekspansjonskort. 
+Skal du ha Windows blir dette også selvfølgelig en tilleggsutgift. 
+
+Likevel skal vi ikke glemme at den er helt på høyde innen batteridrift, prosessorkraft og generell ytelse. 
+Den er heller ikke dårlig utstyrt, selv om den kun har to USB-porter: integrert webkamera, blåtann, FireWire 400, WLAN, GB LAN, IR og fjernkontroll følger med. 
+
+Det hele koker ned til bruksområder. 
+Til lettere oppgaver som sufring, skole/kontorarbeid, medieavspilling etc. 
+er det ingen store forskjeller på bruk av en MacBook kontra bærbar PC i denne prisklassen. 
+Men vi må få argumentere med at du da også strengt tatt vil klare deg med en adskillig billigere bærbar PC... 
+
+Er du derimot på jakt etter en maskin i 10.000-kroners klassen som også skal brukes til spilling, eller trenger mer maskinvare (mer RAM og/eller harddisk) er det fremdeles PCen som ligger et hakk foran. 
+
+Men for mange er selvfølgelig form, farge og følelse minst like viktig som pris og ytelse. 
+Og vi kan ikke si at vi har noen problemer med å forstå det når det gjelder MacBook; det er utvilsomt en maskin som vil appellere til mange. 

@@ -1,0 +1,95 @@
+Samsung NF310
+Kan høyere oppløsning, kul design og bedre batterilevetid redde markedet for minibærbare PC-er? 
+
+Nettbrett-salget øker kraftig, PC-salget øker også litt, med unntak av én PC-kategori; minibærbare, også kjent som netbooks. 
+Mye kan tyde på at inntoget av nettbrett, og da i særdeleshet iPad, er mye av årsaken til at salget av disse har vist en bratt, nedadgående kurve i mange markeder det siste året. 
+
+Men flere produsenter har fortsatt stor tro på kategorien, og gjør diverse tiltak for å øke interessen. 
+De minste modellene med trangt tastatur og bittesmå skjermer ble aldri morsomme å bruke, og er helt borte fra markedet nå. 
+Modeller med 10,1" og 11,6" skjermer og tastatur som er minst 80% av normalstørrelse har vist seg å slå best an. 
+
+Lav skjermoppløsning har også vært et ankepunkt for mange, 1024 x 600 piksler har så langt vært normalen for 10,1-tommere, noe som ikke akkurat er optimalt for PC-operativsystemer og applikasjoner som har sett dagens lys de siste 10 årene. 
+
+Høyere oppløsning 
+
+Det begynner imidlertid å bli vanlig å finne minibærbare med høyere oppløsning i 2011, og Samsung NF310 er én av dem. 
+
+Maskinen har også enkelte andre egenskaper som Samsung håper skal lokke kunder. 
+Her er en rask titt på de viktigste spesifikasjonene: 
+
+10,1" matt, refleksfri LED-baklyst skjerm, 1366 x 768 piksler Intel Atom N550-prosessor (dobbelkjernet 1,5 GHz) 1 GB DDR3-minne 250 GB harddisk Integrert Intel GMA3150-grafikk Kortleser for SD/MMC/MS/XD Webkamera Trådløst nett (B/G/N) 
+Bluetooth 3.0 Gigabit kablet nett VGA-utgang 3 x 
+USB 2.0-porter 6-cellers batteri Leveres med Windows 7 Starter edition Mål: 27,5 x 18,8 x 3,1 cm Vekt: 1,3 kg Pris: ca 3.200 kroner 
+
+Dette er altså en ganske godt utstyrt minibærbar, ikke langt unna hva som er vanlig for bærbare PC-er i 5000-kronersklassen, med tre klare unntak; 1) Atom-prosessoren er langt svakere, 2) minnemengden er langt lavere og 3) Windows-versjonen har en god del begrensninger i forhold til Home Premium-utgaven. 
+
+Windows-versjonen er ikke mer amputert enn at du kan installere og bruke de aller fleste aktuelle programmene uten problemer, og minnebrikken kan byttes ut med en større ved behov. 
+Verre er det med prosessoren, som du ikke kan gjøre noe med. 
+Den er temmelig svak, og det merkes i mange sammenhenger, spesielt når du er vant til en fullblods bærbar der oppgavene løses umiddelbart. 
+Mer om det senere. 
+
+Utforming og mobilitet 
+
+Designen er spesiell og vil nok trekke til seg oppmerksomhet, med bølgene på siden og pekeplate med visuell tunelleffekt. 
+Alle tilkoblingene sitter på sidene, og det eneste vi savner (hvis vi ser bort fra optisk drev), er HDMI-utgang for enkel oppkobling til TV. 
+
+Den blanke overflaten blir dessverre lett skjemmet av fingeravtrykk, 
+
+Men designmessig er den spenstig, synes vi. 
+Det endrer imidlertid ikke på det faktum at den verken er spesiell tynn (3,1 cm) eller spesielt lett (1,3 kg). 
+Den er rett og slett litt klumpete, og en del av skylden må batteriet ta, som stikker godt ut på undersiden. 
+
+Med tanke på at den ikke har innebygd optisk drev, er det egentlig oppsiktsvekkende at det ikke skiller mer enn 2-300 gram i forhold til flere fullblods 13,3-tommere vi har testet tidligere i vinter. 
+
+I bruk 
+
+Etter å ha testet mange bærbare i vinter med blank skjerm, var det en befrielse å se en god og kontrastrik matt skjerm igjen. 
+Det er mange fordeler med dette, blant annet slipper du gjenskinnsproblematikk, fettflekker og andre mindre hyggelige opplevelser. 
+Og oppløsningen er egentlig helt super for denne skjermstørrelsen, synes vi. 
+
+Tastaturet er også så romslig at det ikke er noe problem å bruke touchmetoden og samtidig holde god hastighet. 
+Kun to av bokstavene har måttet tåle mindre plass på tastaturplaten, ikke uventet er det Æ og Å, som bruker to taster som i andre land brukes til helt andre tegn. 
+
+Maskinen har en vifte som går mer eller mindre kontinuerlig så lenge PC-en går på nettstrøm. 
+Den høres, men har ingen plagsomme frekvenser. 
+På batteri senkes ytelsen automatisk, og viften blir nesten lydløs ved normal aktivitet. 
+
+Vi trekker også fram stereohøyttalerne over tastaturet med et litt positivt fortegn, her har i hvert fall produsenten prøvd å få til noe som ikke skjærer i ørene. 
+Det kan faktisk duge til lav bakgrunnsmusikk og video, men svært store forventninger skal du imidlertid ikke ha. 
+
+Hva med ytelsen? 
+
+Du merker ytelsesutfordringene allerede ved surfing på nettsider med tunge Flash-annonser, og verre går det når du skal jobbe med flere oppgaver samtidig, pakke filer og gjøre andre krevende ting. 
+Det egner en Atom-basert minibærbar seg ikke til. 
+
+Avspilling av video går imidlertid greit, og vi har til og med klart å spille av etpar DivX-videor med full HD-oppløsning (1080p) med Media Player Classic, men dette er svært unntaksvis. 
+Slikt materiale har ofte en stygg tendens å hakke under avspilling, mens 720p og lavere oppløsning som regel går bra. 
+
+Spill med litt grafikk- og prosessorkrevende opptegninger er stort sett bare å glemme. 
+
+I diagrammet under har vi sammenlignet våre målinger av prosessor- og grafikkytelsen på denne PC-en sammenlignet med hva du kan forvente i "normalklassen" på PC-er i samme prissegment, jf Passmark Performance Test 7.0: 
+
+Dette er en av de raskeste Atom-prosessorene, men ytelsen er altså fortsatt beskjeden. 
+
+Med unntak av ION-grafikken fra Nvidia, finnes ikke de andre grafikkløsningene her på noen minibærbare i markedet. 
+Sånn sett er ikke sammenligningen helt rettferdig, men både prosessor- og grafikkmålingene illustrerer hvilke kompromisser du må inngå på ytelsessiden dersom du går for en minibærbar kontra en større maskin. 
+
+Oppsiden på maskinvare med begrenset ytelse og lavt strømforbruk er naturligvis at batteriet tåler mer. 
+Og i rettferdighetens navn, svært få (for ikke å si ingen) bærbare i normalstørrelse i dette prisleiet kommer i nærheten av Samsung NF310 når det gjelder batterilevetid. 
+
+Med minimal belastning holdt batteriet ut i 8 timer og 20 minutter, og ved kontinuerlig videoavspilling (720P i Windows Media Player) gikk det 4 timer og 38 minutter før vi måtte finne en stikkontakt. 
+Ved normal aktivitet kan du forvente 6-7 timer mellom to ladinger, og det er absolutt godkjent. 
+
+Konklusjon 
+
+Selv om det er mye positivt å si om Samsung NF310, som god skjerm, godt tastatur, bra utstyrsnivå og god batterilevetid, er det langt igjen til vi kan si at produktkategorien er friskmeldt, mener vi. 
+Ytelsen er beskjeden, og det merkes så snart maskinen settes til litt tyngre oppgaver enn websurfing og tekstbehandling, eller mer enn en jobb om gangen. 
+
+Vi synes også at det som kunne vært åpenbare fordeler ved formatet, som lav vekt og tynn utforming, ikke helt er til stede. 
+
+Som et enkelt arbeidsverktøy i felten kan den selvsagt være helt OK for mange, men til nettbruk, underholdning og konsum av innhold blir vi langt mer fristet av et tynt nettbrett som koster det samme, men som veier halvparten og byr på enda bedre batterilevetid. 
+
+Det tror vi mange andre også kommer til å bli i tiden framover, og vi tror derfor fremtiden for minibærbare kan se mørk ut - med mindre ytelsen går kraftig opp, vekten ned, og begrensningene knyttet til minne og Windows-versjoner blir eliminert. 
+Inntil det eventuelt skjer vil vi neppe gi en eneste minibærbar bedre karakter enn terningkast 4. 
+
+Samsung NF310-A03SE 

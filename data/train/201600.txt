@@ -1,0 +1,104 @@
+Nokia E65
+Her er telefonen som trives med mye å gjøre. 
+
+Nokias Symbian-baserte E-serie er i hovedsak en eneste stor flørt med business-mobil-markedet, ikke minst for å få huket tak i menn og damer i dress før de hopper på BlackBerry-karusellen. 
+Den skal visst nok være veldig vanskelig å hoppe av når den først har kommet opp i en viss fart. 
+
+Selv har jeg etter hvert blitt i overkant hekta på E61, den største og angivelig mestselgende telefonen i serien (og som kommer i oppdatert utgave om litt). 
+
+E65, derimot, er en atskillig mer diskret mobiltelefon, men den pakker bra med pønsj under panseret likevel. 
+
+Ordinært utseende 
+
+Utseendet er ikke så mye å skryte av. 
+Fronten på skyvetelefonen er omtrent like saklig knusktørt som et referat fra et kommunestyremøte, og selv om brunfargen ikke er på langt nær så ille som vi først trodde da de første bildene av E65 dukket opp forrige måned, er dette ingen looker. 
+
+Den er derimot tynnere (15.5mm) og lettere (115 gram) enn mange andre businessmodeller, og ligger godt i både hånda og lommen. 
+Formfaktoren er utmerket, og kroppen gjør bedre inntrykk enn ansiktet. 
+
+Selv om det ikke er så mye pent å se på, finner en mye nyttig på framsida. 
+Nokia har pakket sammen hele ti funksjonsknapper nederst på mobilen, på en flate som ikke er større enn rundt halvannen ganger fire centimeter. 
+Midt i klyngen med knapper finner en også navigeringsknappen, eller bla-tasten på nokiask, og du kan ved hjelp av dette området gjøre det meste - selv om telefonen er lukket. 
+
+Litt knoting 
+
+En av de mest omtalte nyvinningene er pussig nok den såkalte "My Own"-tasten, som kan defineres til å utføre akkurat den tjenesten du vil. 
+En har lenge kunnet programmere funksjonstaster til å gjøre det samme, både på Nokias og andre produsenters mobiler, så i prinsippet er dette bare enda en brukerprogrammerbar tast. 
+Det takker og bukker vi for, men det er ikke dynamitt v2.0 som har blitt funnet opp. 
+
+I tillegg ligger det nå en mute-knapp på framsida, slik at du kan skru av mikrofonlyden når hostekula fra h*lvete er på vei midt i en viktig konferansesamtale. 
+Den samme konferansen kan administreres via konferanseknappen, enda en nyvinning i regi E65. 
+
+Knappeklynga fungerer bra, men hvis fingrene dine glir raskt kan vi nesten garantere at du får en ganske høy feiltrykksprosent i begynnelsen. 
+Vi sliter fortsatt litt med navigeringstasten etter en ukes bruk, og trykker for eksempel av og til ned valg-knappen mens vi egentlig bare skulle bevege oss til venstre eller høyre i en tekstmelding. 
+
+(An)tasting 
+
+Telefonen glir opp ved hjelp av minimalt med muskelkraft, og avslører et relativt lite tastatur. 
+
+Vi har ved slutten av testperioden fortsatt ikke blitt helt vant med den lille avstanden mellom knappene, og vi ser for oss at personer med solide byggmesternever ikke vil trives så veldig godt med E65. 
+
+For de av oss som er vant med fullt QWERTY-tastatur er det også noe uvant å gå tilbake til ordbokskriving og knoting med tegnsøkingen. 
+E65 sliter i tillegg med å få med seg alle tegnene hvis en skriver raskt nok, eller med to fingre samtidig. 
+Dette skjer ikke hele tiden, men ofte nok til at det blir en liten rød strek i margen. 
+Tastaturet på nylig testa Nokia 7390 fungerte til sammenlikning bedre. 
+
+Programvare 
+
+Som forventet får du med en rekke mer eller mindre laserpeker og powerpoint-orienterte programmer, inkludert PDF-leser, QuickOffice (for behandling av blant annet Word og Excel-dokumenter) og svært smarte og nyttige Teamsuite. 
+
+Sistnevnte er perfekt for de som ønsker å sette opp grupper bestående av medlemmer fra kontaktlista, slik at en enkelt kan kommunisere med flere personer (og grupper) samtidig, enten gjennom tekstmeldinger eller telefonsamtaler. 
+
+Et annet smart grep av Nokia er at de har lagt søkefunksjonen etter trådløse nettverk på startskjermen. 
+Ett klikk er alt som skal til, og mobilen vil sjekke om det finnes både åpne og lukkede forbindelser i nærheten. 
+
+Kombinert med at det er mulig å koble E65 sammen med de aller fleste bedriftsløsninger for epost som finnes, inkludert BlackBerry, vil epost-junkiene få sin minuttlige fiks nesten uansett hvor de måtte befinne seg, og nesten uansett hvilket epost- og servermiljø bedriften kjører. 
+
+Schnæppy og skarp 
+
+Noe av det første vi merket oss med E65 var at den er merkbart raskere enn E61. 
+Programmene åpnes kjappere, det tar kortere tid å navigere seg nedover i menyhierarkiet, og ventetiden mellom operasjoner er i det hele tatt redusert. 
+
+Det andre vi merket oss var skjermen. 
+Den er skarp og lyssterk, og like behagelig for øynene som en sandstrand i Brasil. 
+Skjermarealet blir dessuten enda bedre utnyttet hvis du vrir på telefonen, noe for eksempel videoavspilleren, Real Player, utnytter. 
+Bredformatsfilm og -serier vil for eksempel trives veldig godt i "liggende" format. 
+
+Men dette er ikke så bra. 
+E65 har alle tilkoblingsmuligheter du måtte ønske, og i teorien skal det være en sømløs øvelse å veksle mellom 3G, Edge og Wlan. 
+Slik er det ikke alltid. 
+
+På min allerede nevnte E61 opplever jeg stadig at nettforbindelsen henger, og det eneste en kan gjøre er å avslutte og omstarte nettleseren. 
+Det tvinger nettkoblingen til å koble seg opp mot nettet på ny, men hadde det ikke vært enklere om Nokia lot dette skje automatisk? 
+E65 er offer for den samme tankegangen. 
+
+Det blir rett og slett for primitivt å måtte vente, vente og, riktig, vente, når signalet har vært dødt eller inaktivt en god stund. 
+
+Også Wlan-forbindelsen har sine mangler. 
+Vi har prøvd E65 mot både jobb og hjemme-ruteren, og felles for dem begge er at vanlige nettsider fortsatt ikke er klar for rampelyset på en liten mobilleser. 
+Nokia gjør et godt forsøk på å brette sammen for eksempel VG eller Dagbladets nettaviser på en bitteliten flate, men det hjelper ikke når nedlastingen stopper opp etter 500K fordi nettforbindelsen henger. 
+Av og til går det greit, av og til ikke. 
+Vi er tilhengere av en verden uten for mange "ikke". 
+
+Etter vår mening gjør forøvrig fortsatt kombinasjonen av Opera Mobile og Opera Mini en minst like god jobb som Nokias alternativ, så seriøse nettsurfere med binære bølger i håret bør vurdere begge, enten som supplement eller som erstatning. 
+
+Telefonen har heller ikke radio, og som vi allerede har vært inne på kan tastene oppleves som litt for knotete, ikke minst for store fingre. 
+Et annet savn er at kameraet mangler blitz, og at mange av bildene (og videoene) ender opp med mer enn et snev av grønnstikk. 
+
+Konklusjon 
+
+Til tross for innvendingene har vi ingen problemer med å anbefale Nokia E65 - ikke minst overfor mobilbrukere som vanker på børsen eller andre steder der det lukter gull og grønne skoger, og som har behov for et lite kontor som ligger i lomma enten de er på jobb, ferie eller hjemme. 
+
+Nå er ikke diskresjon det som først og fremst karakteriserer forretningsmenn- og damer - unntaket er de som fyller ut selvangivelsen i smug - men ettersom dette sannsynligvis er en av de mest kompakte businesstelefonene som finnes akkurat nå, vil de som trives best i skyggen trives veldig godt sammen med E65. 
+
+Den har også blitt merkbart raskere enn eldre telefoner i E-serien, så gamle E-ntusiaster (sorry, vi klarte ikke dy oss) som har blitt utålmodige bør ta hastighetsforbedringen med i vurderingen hvis de overveier å oppgradere. 
+
+Også i overkant entusiastiske mobilbrukere vil sette pris på den utvidede funksjonaliteten, fleksibiliteten og minimale størrelsen. 
+Her finner du nemlig det aller meste du måtte ha bruk for i en mobiltelefon. 
+
+Bare ikke prøv å imponér daten med å lirke opp telefonen i akkurat rette øyeblikk. 
+Til det er den ikke pen nok. 
+
+Riktig mobil for deg finner du i vår Mobilvelger. 
+
+Mobiltesten er et samarbeidsprosjekt mellom nettstedene DinSide Data, ITavisen og Dingz.no 

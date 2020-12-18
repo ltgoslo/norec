@@ -1,0 +1,160 @@
+Smartklokka Pebble
+Vi kommer sent til festen, men er festen verdt et besøk? 
+Se video over! 
+
+– Men, hva er vitsen? 
+
+Spørsmålet kommer fra en venninne, etter at vi stolt har vist frem vår nye Pebble smartklokke. 
+Og spørsmålet er godt. 
+
+Men først et lynkurs: 
+En smartklokke er en klokke som kan gjøre mer enn å vise tiden, først og fremst ved å snakke trådløst med mobilen din, og dermed også internett. 
+For eksempel kan du få værmeldinger, e-poster, kalenderoppføringer og musikkontroll på håndleddet. 
+Det er en helt naturlig videreutvikling av digitalklokkene vi har hatt siden 70-tallet, og etter vår mening er det bare et spørsmål om tid før alle klokker er "smarte", på samme måte som alle mobiler ble det. 
+
+Pebble Smartwatch, som startet som et Kickstarter-prosjekt, er en av de billigere smartklokkene, med en norsk pris på rundt 1.400 kroner. 
+Den er også en av få på dagens norske marked som ikke lages av en mobilprodusent, og som dermed fungerer på de fleste mobiler. 
+
+Det skal vi finne ut av nå. 
+
+Aller først bør du sjekke ut videoen over, hvor vi demonstrerer klokka, menyene og app-installering i praksis! 
+
+Fin plastklump - glimrende skjerm 
+
+Pebble blir levert i en anonym pappeske som bærer preg av at dette ikke er et produkt fra noen teknologigigant. 
+Du får med to ting: 
+Klokka og en USB-kabel. 
+Disse festes sammen via en smart magnetløsning, og lar deg lade klokka fra PC-en, eller strømnettet om du har en USB-lader for hånden. 
+
+Klokka har enkel design: 
+En gummireim som ikke er spesielt pen, men kan skiftes ut med standard 22 millimeter brede klokkereimer. 
+Fire fysiske knapper, som lar deg navigere menyene. 
+Og en sort/hvit skjerm på 144 ganger 168 piksler, av typen "e-papir" med baklys. 
+Skjermen er mindre enn vi hadde sett for oss, og fronten preges av mye plast. 
+Men den gjør likevel langt mindre av seg enn for eksempel Samsung Galaxy Gear, og den er så såpass liten og lett at vi aldri får følelsen av å ha noe annet enn nettopp en klokke på armen. 
+Spesielt pen er den ikke, men vi synes den alt i alt er en alright plastklump. 
+
+Skjermen er langt enklere enn for eksempel Galaxy Gear eller Sony Smartwatch. 
+Selv synes vi dette er et smart valg. 
+For det første er du ikke avhengig av å skru på skjermen. 
+Vi har selv prøvd Galaxy Gear en ukes tid, og et av irritasjonsmomentene var at skjermen måtte vekkes hver gang vi ville se hva klokka var, som tross alt er et av hovedpoengene med ei klokke. 
+
+På Pebble er det nok å kaste et blikk på klokka, ettersom skjermen alltid er aktiv og lesbarheten nydelig. 
+Er det for mørkt kan du slå på baklyset ved å trykke på en knapp eller riste på håndleddet. 
+En kanskje enda større fordel er at batteriet varer og varer: 
+Under vår test har vi fått omtrent en ukes bruk uten å lade, mens Galaxy Gear måtte lades hver eneste natt. 
+
+Og det å se flotte fargebilder på klokka savner vi ikke. 
+Det klarer uansett mobilen vår best. 
+
+Under finner du bilder av hvordan Pebble tar seg ut: 
+
+Begrenset funksjonalitet ut av boksen 
+
+Første gang du slår på klokka blir du bedt om å laste ned en app til mobilen. 
+Vi bruker Android, og har først og fremst testet klokka sammen med en Nexus 5. iOS (iPhone, iPod Touch eller iPad) er også støttet, og fungerte fint da vi testet det, mens Windows Phone skal fungere via uoffisielle apper 
+
+Android-Pebble-appen er svært enkel. 
+Du kan endre innstillingene på klokka, som hvilken musikk-app du ønsker den skal styre og hva slags varsler du får opp. 
+Du kan også installere de offisielle appene, som i praksis først og fremst er ulike klokkevarianter, alt fra tradisjonelle visere til ren tekst som forteller deg klokkeslett og dato. 
+Ganske begrenset, med andre ord. 
+
+Også funksjonaliteten på selve klokka er begrenset ut av boksen. 
+Du kan sette alarmer, velge klokketyper, styre mobilens musikkspiller (for eksempel fra Spotify) og endre innstillinger. 
+Menyene for å gjøre dette styres med de fysiske knappene på Pebble, som mangler berøringsskjerm. 
+Det er heller ikke noe vi savner, da det ofte fører til uønskede trykk på noe du tross alt ofte har blottet på håndleddet. 
+Knappene for menynavigering er enkle å forstå og fungerer bra, selv om de er ganske harde å trykke på. 
+Igjen: 
+Trolig for å slippe uønskede trykk, så heller litt for hardt enn litt for løst. 
+
+I tillegg til funksjonene du kan bruke direkte fra klokka, har den noen triks i ermet i samarbeid med mobilen. 
+Den kan for eksempel vise deg e-poster, tekstmeldinger og anrop etterhvert som de kommer, og sammen med apper som Runkeeper vise deg for eksempel hvor langt du har løpt. 
+
+Men vi savner mer funksjonalitet fra klokka. 
+For eksempel forsvinner varslene etter du har trykket dem bort. 
+Og hvorfor har ikke klokka enkle standardfunksjoner som en stoppeklokke og et nedtellingsur, som digitalklokker har hatt siden starten? 
+
+Slik ser menyene og appene ut på Pebble: 
+
+En haug av apper 
+
+Det er når du innser klokkas begrensninger at du oppdager Pebbles muligheter. 
+For Pebble er et tomt lerret du må fylle selv. 
+Da Pebble er bygget på åpenhet, kan du installere apper på klokka laget av andre enn Pebble-produsenten. 
+Og da begynner det å bli ordentlig gøy. 
+Vi har prøvd en drøss i løpet av våre to uker med klokka, men fortsatt er det mye vi ikke har forsøkt. 
+
+Se på dette som en smakebit: 
+
+Vi byttet ut standardklokka med Glance. 
+Det betyr at vi ser klokkeslett, dato, værmelding og info om blant annet antall nye e-poster og mobilens batteristatus med et blikk på håndleddet vårt. 
+Vi kan styre kameraet på mobilen fra klokka, og se en forhåndsvisning av resultatet. 
+Et artig alternativ til mobilens selvutløser på julebord. 
+Vi har et nedtellingsur vi faktisk foretrekker framfor mobilens. 
+Å sette tidspunkt går raskt, og Pebbles vibreringsmotor forteller oss når pastaen er ferdig kokt. 
+Vi kan spille "snake" på klokka vår. 
+Bare fordi det er kult å kunne spille snake på klokka vår. 
+Vi laget en klokketype som viser logoen til bordtennis-laget vårt bak viserne, fordi det å kunne lage sine helt egne klokker og ha dem på armen er gøy. 
+Og vi har kalkulator på klokka, for det er nesten like kult nå som på 80-tallet. 
+Selv om det er like tungvint å bruke nå som på 80-tallet. 
+
+Lite minne, litt ekstra innsats 
+
+Noen av appene kjører uavhengig av mobilen din, som for eksempel et enkelt nedtellingsur. 
+Andre apper, for eksempel Glance, kjører derimot i samarbeid med en egen app du må ha installert på mobilen, for å hente ned værmeldinger, kalenderoppføringer og aksjekurser. 
+
+Det å installere appene er relativt enkelt, da alle sendes til Pebble fra den samme Pebble-appen. 
+De offisielle klokkeappene lastes ned i mobilappen selv, mens tredjepartsappene lastes ned som en fil fra nettet eller fra diverse mobilapper, før de installeres til klokka via Pebble-appen. 
+Du kan se prosessen i videoen øverst i artikkelen. 
+
+Vi har hatt lite problemer med dette, og det finnes mobilapper og nettsider som hjelper deg å finne de gode appene. 
+Men da det er et marked som domineres av entusiaster, og som gjør dette mer for gøy enn for penger, er ikke alt like robust og brukervennlig. 
+For Pebble "går ikke som ei klokke". 
+
+Vi opplever derfor stadig omstarter av selve klokka og apper som ikke alltid fungerer som de skal. 
+Vi har også hatt problemer med koblingen mellom klokka og mobilen, men dette ble langt bedre da vi brukte Nexus 5 i stedet for Nexus 4, så her kan mobilen være problemet. 
+
+Uansett preges Pebble av å være et produkt av entusiaster for entusiaster, spesielt fordi bruksområdene er såpass begrenset ut av boksen, som igjen betyr at du gjør mye av jobben selv. 
+Mye åpenhet og masse muligheter er som alltid et tveegget sverd: 
+På den ene siden massevis av moro – på den andre siden noen komplikasjoner. 
+Det kan sammenliknes med Linux kontra Windows. 
+
+Og dessverre har Pebble et svært sparsommelig minne: 
+Kun åtte apper kan være installert samtidig. 
+Dette er altfor lite når det er så mye morsomt å finne, spesielt med tanke på at for eksempel en Twitter-app tar én av disse plassene på akkurat samme måte som en enkel klokketype. 
+Etter litt tid finner du sikkert ut av hva du faktisk trenger å ha installert, men i begynnelsen krever det stadig sletting for å installere noe nytt. 
+
+Så, hva er vitsen? 
+
+Det er når du begynner å tukle med den, at Pebble begynner å skinne. 
+Det er noe gøy, noe kult, noe nyskapende ved å ha en enkel skjerm på håndleddet som du kan bruke til nærmest hva som helst. 
+Og Pebble som produkt har en viss "je ne sais quoi" som appellerer til teknologifrelste som oss. 
+
+Er du villig til å investere litt tid i klokka di, kan derfor Pebble være et utmerket valg, og et valg som vil fungere for langt flere enn for eksempel Galaxy Gear. 
+Den fungerer som kjent kun med noen få Samsung-modeller. 
+
+Men etter to uker med klokka begynner gleden av å stadig prøve nye apper å dabbe av, og vi får et fast brukermønster: 
+Vi bruker først og fremst Pebble som en litt mer avansert digitalklokke, som viser oss værmelding og mobilstatus, i tillegg til tid og dato. 
+Bare dette er for oss nok til å "finne vitsen". 
+
+Vi bruker til tider musikkontrollen, da det er enklere å treffe en fysisk knapp på håndleddet enn å dra opp mobilen, låse opp skjermen og trykke der. 
+Og vi bruker den til å raskt sjekke tekstmeldinger og e-poster etterhvert som de kommer inn, for så å svare på dem senere. 
+Men de sistnevnte bruksområdene har for oss begrenset verdi, da mobilen vår uansett ofte bare er en håndbevegelse unna. 
+
+Og ut av boksen er altså ikke Pebble spesielt imponerende. 
+Til det er den offisielle programvaren for begrenset, og klokka krever for mye egeninnsats om den skal klare mer. 
+Dessuten mangler Pebbles maskinvare mer funksjonalitet. 
+Galaxy Gear har for eksempel både kamera, mikrofon og høyttaler. 
+Dette har selvfølgelig både fordeler og ulemper, blant annet for batteritid og vekt, men noe ekstra, noe å virkelig vise frem på fest, hadde gjort seg. 
+
+Så selv om vi gjerne skulle hatt Pebble på ønskelisten vår denne julen selv, innser vi derfor at den ikke bør befinne seg på alles ønskelister. 
+Fremtiden er ikke her riktig ennå. 
+Og tro uansett ikke at Pebble kommer til å ta over for mobilen din. 
+Det er heller ikke vitsen. 
+Vitsen er å fortsatt ha ei klokke, men ei klokke som kan gjøre mer enn den gamle om du tukler litt med den. 
+Noe som gir mening for entusiaster som oss. 
+
+Og gir det mening for deg, er Pebble verdt pengene. 
+Men foreløpig kan vi ikke anbefale en smartklokke som krever smarte brukere. 
+
+Pebble Smartwatch 

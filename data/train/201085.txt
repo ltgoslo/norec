@@ -1,0 +1,54 @@
+OCZ Vector 256 GB SSD
+OCZ ordner opp i produktseriene med ny toppmodell. 
+
+SSD-ene fortsetter å spise andeler av harddiskmarkedet, takket være økt kapasitet og stadig lavere priser. 
+
+I sommer testet vi den første nye SSD-en fra OCZ med en delvis egenutviklet kontroller. 
+"Egen" i denne sammenhengen betyr innkjøpt teknologi fra Indilinx, et selskap OCZ kjøpte i 2011. 
+
+Nå er neste runde i gang, med en ny SSD-serie: 
+Vector, som er en videreutvikling på alle områder. 
+
+Og det var ingen selvfølge. 
+OCZ har nemlig slitt litt både med økonomi og teknologi i det siste, og det har vært utskiftinger i ledelse og sortiment. 
+
+Den nye ledelsen satser derfor på færre og mer gjennomtestede produkter, basert på egen teknologi. 
+Vector er det nye flaggskipet for konsumentmarkedet, og profileres både med ekstremt høy ytelse og pålitelighet. 
+
+OCZ Vector 256 GB 
+
+Selve enheten er i aluminium og har et helt nytt design. 
+Det virker solid og forseggjort, og er bare 7 mm tykt. 
+Dermed passer den også inn i slanke bærbare med 2,5-tommers brønn for lagringsenheter. 
+
+Det følger med den vanlige braketten med skruer for montering i 3,5-tommers brønner på stasjonære. 
+
+Programvaren Acronis True Image HD til overføring av data fra harddisk følger med, eller rettere sagt, kan lastes ned fra nettsidene til OCZ. 
+Det som følger med er et lite ark med nøkkelen for å kunne installere og bruke programmet. 
+
+Vector-serien kommer med kapasitet på 128, 256 eller 512 GB. 
+
+Kontrolleren i Vector-serien er splitter ny, kalles Barefoot 3 og er egenutviklet. 
+Den inneholder blant annet en ARM Cortex prosessor og en OCZ Aragon co-prosessor. 
+25 nanometer flashminne kommer fra IMFT. 
+
+OCZ garanterer en levetid på fem år eller 36,5 Terabyte total skriving som tilsvarer 20 GByte skriving hver eneste dag. 
+
+Ytelse 
+
+Dette er en svært rask SSD, faktisk den raskeste vi noen gang har testet, totalt sett. 
+
+Den bikker 1000-tallet i AS SSD-testen, men bare så vidt. 
+Likevel snakker vi om rundt 10 prosent forbedring. 
+
+Ytelsen bekreftes av de andre testene våre - dette er en klar førstevalgskandidat når du skal velge SSD. 
+
+Konklusjon 
+
+Den nye Vector-serien fra OCZ er raskere enn tidligere serier, og yter like bra på alle typer data, siden den ikke baserer seg på kompresjon som med SandForce kontrolleren. 
+
+Ytelsen er helt i toppklasse, den er omtrent 10 prosent raskere enn Vertex 4 som vi testet tidligere. 
+
+Det fine er at både sekvensiell ytelse og småfil-i/o er topp, derfor vil denne fungere utmerket både som systemdisk, arbeidsdisk og kombinasjonsdisk i alle typer bærbare - også for krevende bruk. 
+
+OCZ Vector SATA III 2.5" SSD 256GB 

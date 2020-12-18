@@ -1,0 +1,90 @@
+TEST:BlackBerry Curve 8520 
+
+Så liten, men fortsatt så kraftig. 
+
+BlackBerry-merket har nok tradisjonelt sett blitt oppfattet som noe litt uoppnåelig for folk flest, ikke bare fordi (styrtrike) amerikanske kjendiser stadig vekk flyr rundt med en fulltastatursmobil fra kanadiske RIM i hendene, men også fordi abonnemetene som fulgte med mobilene så ut som de var laget for bedrifter mer enn for menigmann. 
+
+Dette har det for lengst blitt gjort noe med (privatabonnement hos norske Trigcom begynner nå på 59 kroner per måned), men fortsatt har mobilene utgjort en betydelig andel av utgiftsposten for forbrukeren. 
+Med Curve 8520 skal det bli en forandring også på det. 
+
+Ettersom dette er en tidlig testmodell, og 8520 ikke slippes på det norske markedet før til høsten, er den eksakte prisen foreløpig ikke klar. 
+Den norske BlackBerry-importøren Trigcom sier uansett at "8520 vil bli atskillig billigere enn 8900 Curve", som er den modellen det er mest naturlig å sammenlikne med. 
+
+Hey good lookin' 
+
+Utseendet faller umiddelbart i smak. 
+Vi tar naturligvis det lille forbeholdet som for eksempel mange musikkanmeldere ser ut til å gjøre med norske musikere når de mellom linjene skriver at det er "bra til å være norsk", og på samme måte er dette pent til å være smartmobil. 
+
+Den samme eksklusive følelsen som de dyrere BlackBerry-modellene utstråler gir den derimot ikke. 
+Overgangen fra den matte, sorte og gummiaktige finishen på baksiden til et plastdeksel som føles litt for billig og litt for lite solid er en nesten trassig demonstrasjon av at dette skal være en budsjettmodell, men heldigvis er det mye å like på den riktige siden - framsiden. 
+
+Skjermen ser ikke like sprelsk og lysende ut som vi husker den gjorde på BlackBerry Bold 
+
+Play og pause på topp 
+
+Telefonen har også minijack-plugg for vanlige hodetelefoner pent plassert øverst på venstre side. 
+Gummimaterialet fra baksiden glir dessuten ut på sidene, og dekker til knappene for kamera, volum og stemmeassistert oppringning. 
+Alt du ser er forhøyninger i materialet, noe vi synes fungerer veldig bra utseendemessig. 
+
+I tråd med at mobilen (og prislappen) garantert skal appellere til en generasjon som er vant med å finne avspiller for lyd og bildefiler nesten uansett hvilken duppeditt de plukker opp, finner du også avspillingsknapper diskret plassert helt øverst på 8520. 
+Vi kan ikke huske å ha sett tilsvarende plassering på andre mobiler, men det betyr at du enkelt kan bruke pekefingeren til å spole, starte og pause musikken eller filmen. 
+
+Den største fysiske nyvinningen på 8520 er likevel den optiske styreflaten. 
+Den finnes riktignok på flere andre mobiltelefoner, men her er den særdeles vellykket utført, og gir både presis og rask kontroll over menysystemet. 
+
+La oss heller ikke glemme størrelsen, som er svært beskjeden - på en god måte. 
+Smartmobiler med fulltastatur har en tendens til å fylle både en og to innerlommer godt ut, men her er verken tykkelsen eller lengden noe problem. 
+
+Mangler noe 
+
+BlackBerrys epost- og meldingsfunksjonalitet har vi skrevet fyldig om i tidligere tester av allerede nevnte Bold og Curve 8900, så det foreslår vi du leser mer om i artiklene du finner her og her. 
+
+En kort oppsummering er at meldingssystemet er akkurat like fleksibelt og hurtig som tidligere, og det er en smal sak å administrere både eposter, smser og mmser. 
+Grensesnittet begynner etter hvert å føles noe utdatert, ikke minst på grunn av alle de pene grafiske løsningene som skjemmer bort brukere av trykkfølsomme mobiler (iPhone, Samsung Omnia HD, Android-mobilene og så videre), men du er fortsatt bare ett tastetrykk unna de fleste menyvalgene. 
+
+Ellers får du det du forventer av en nedskalert proffmobil, som kalender, støtte for visning og redigering av Office-filer, Facebook- og Twitter-applikasjoner (må lastes ned separat), muligheten for å skru av og på mobilen til faste tidspunkt, full push-funksjonalitet, 
+
+Vi er litt skuffet over at BlackBerrys alternativ til Apples iPhone App Store fortsatt ikke er tilgjengelig i Norge, så denne funksjonen må du dessverre vente litt på. 
+Den er bygget opp på samme måte som App Store, med både gratis- og betalingsapplikasjoner, og med direkte tilgjengelighet og nedlasting fra mobilen. 
+Vi kommer tilbake med nærmere testing av denne etter hvert. 
+(Artikkelen fortsetter under bildespesialen! 
+
+8520 har også noen mangler på den tekniske siden. 
+Den har for eksempel ikke 3G eller HSDPA, og du får maksimalt edge-fart på telefonen. 
+Akkurat dét er ikke like kritisk på BlackBerry som på en del andre modeller, ettersom mye av dataene komprimeres (og krypteres) før de lastes ned av mobilen. 
+Wlan er derimot til stede, og befinner du deg et sted med trådløs nettverksforbindelse er surfehastigheten bra. 
+
+Helt på nett ville vår 8520 likevel ikke. 
+Vi klarte ikke få forbindelse med lokalnettet i våre redaksjonslokaler, som benytter seg av WPA Enterprise-kryptering. 
+Det er ikke noe som privatpersoner pleier belemres med, og det kan også være at akkurat vårt eksemplar sliter fordi det ikke er en produksjonsmodell vi har testet. 
+
+GPS er også mangelvare, selv om du kan bruke telenettet eller wlan-forbindelsen til å få en mer eller mindre presis indikasjon på hvor du befinner deg. 
+
+Surfing, knipsing og filming 
+
+Nettleseren på BlackBerry-mobilen har vi oiet og akket oss over tidligere, og vi er fortsatt ikke overbevist. 
+Vi hadde for eksempel problemer med å i det hele tatt få lastet inn de vanlige nettsidene til VG og Dagbladet (ikke mobilsidene, de fungerte fint), noe, som vi allerede har nevnt, kan skyldes at programvaren i vår 8520 testmodell ikke er helt ferdig. 
+
+Kameraet er heller ikke noe å skryte av. 
+De to megapikslene er ikke problemet, det er den optiske kvaliteten på objektivet som er for dårlig. 
+Bildene blir grove og kornete, og er ikke noe særlig å se på i full størrelse. 
+
+Videokvaliteten blir naturlig nok også preget av objektivet, og er med sine beskjedne 320x240 piksler ikke noe som vil imponere verken slekt eller venner. 
+Som MMS-video kan det godkjennes, men der er som kjent kvalitetskravene svært beskjedne. 
+
+Vi liker som nevnt i begynnelsen av anmeldelsen godt grepet med å plassere play- og spoleknapper øverst på mobilen, og mediespilleren, som er identisk med den som følger med Bold og Curve 8900, er enkel og grei å bruke. 
+
+Konklusjon 
+
+Vi sitter dessverre foreløpig ikke med eksakt pris på Curve 8520, men det er, som nevnt i innledningen, meningen at dette blir en langt rimeligere modell enn toppmodellen i 8-serien, 8900. 
+
+Denne serien har aldri hatt 3G, og i så måte kan det kanskje synes rart å trekke for at den mangler nettopp det. 
+Vi synes ikke det. 
+3G finner du i dag på budsjettmobiler fra både Sony Ericsson og Nokia, og det finnes strengt tatt ikke så veldig mange gode argumenter for å utelate en langt raskere standard enn Edge. 
+
+Samtalekvaliteten er upåklagelig, og batteritiden er også bra - noe som nok blant annet skyldes at den ikke har 3G. 
+Kameraet er derimot ikke noe å skryte av, og nettleseren er fortsatt ikke der den bør være. 
+
+Likevel er dette fortsatt noe av det bedre du kan få tak i hvis du er på jakt etter bra epost-mobil, selv om forspranget - i det minste på privatmarkedet - til andre smartmobiler ikke er spesielt stort lenger. 
+
+For hobbykontorister og meldingsnarkomane er dette et godt og, ikke minst, rimelig valg. 

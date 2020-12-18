@@ -1,0 +1,72 @@
+Linksys WRT610N
+Gir doble frekvenser bedre ytelse totalt? 
+Ikke hos oss... 
+
+En ruter med trådløst nett er omtrent like vanlig i de tusen hjem som brødrister og gassgrill. 
+Men som med de fleste produkttyper er det forskjell på ordinære og avanserte utgaver. 
+Ikke at de avanserte er vanskeligere å bruke, men de tilbyr flere bruksområder og gjør jobben bedre. 
+
+LES OGSÅ: 
+
+Ruterne utviklet seg først og fremst gjennom nye standarder som har gitt oss langt bedre dekning og høyere hastigheter. 
+Underveis har det også dukket opp produkter med ekstra finesser, med USB-port for støtte for skrivere og lagring som kan deles av alle på nettet. 
+
+Det nyeste trinn i utviklingen er rutere med trådløst som opptrer på to frekvensbånd samtidig, og fungerer uavhengig av hverandre. 
+Da brukes både 5GHz og 2,4GHz 
+
+Vi har testet en ruter fra D-Link tidligere med denne egenskapen, men hadde ingen PC-klient som kunne kjøre vårt testprogram. 
+
+Nå har Linksys kommet med sin Dual-N Band ruter, og samtidig har vi fått USB-klienten som hører med i systemet. 
+Dessuten støtter vår MacBook Pro 802.11n på 5 GHz, slik at vi kan belaste begge frekvensbåndene samtidig, for å teste begge både samtidig og hver for seg. 
+
+Lekker og funksjonsrik 
+
+Ruteren har det samme designet som den forrige Linksys-ruteren vi testet, modernistisk og elegant uten synlige antenner. 
+Den er laget for å stå fremme, og trenger besøk av støvkost/klut i blant. 
+Pianolakk-finish på midtpanelet krever stell. 
+
+På baksiden av ruteren finner vi 4 porter til kablet nett, en port til boksen fra Internet-leverandøren og en USB-port. 
+
+USB-porten støtter tilkobling av lagringsenheter, både harddisker og minneplugger. 
+Disken administreres fra ruteroppsettet, og fungerer på samme måte som dedikerte NAS-disker, hvor du kan gi tilgang til forskjellige grupper og brukere, med eller uten passord. 
+
+Hastigheten begrenses av USB, men det fungerer utmerket til mange bruksområder som ikke trenger ultrarask tilgang til store datamengder. 
+
+Omfattende oppsettsmuligheter 
+
+Linksys lar deg skreddersy og tilpasse de fleste parametre som er involvert i nettilgang, både lokalt og på Internett. 
+Du kan for eksempel sette opp prioritering av pakkedataene fra forskjellige programmer som MSN, Skype osv. 
+
+Om dette har noen merkbar funksjon i praksis er en annen sak, siden trafikkbildet ute på nettet er så komplisert. 
+Å sette opp trafikklys i borettslaget med grønt lys-knapp i bilen din bringer deg ikke raskere over på andre siden av byen i rushtida, for å si det slik. 
+
+Hastighet og stabilitet 
+
+Det viktigste med en ruter er etter vår mening at den er stabil og rask i filoverføring, enten det er bilder som skal vises på den bærbare i sofaen, nedlastninger og streaming av musikk/film. 
+
+Med to frekvenser blir det mulig å sette av den ene til dedikert og krevende datatrafikk, mens den andre kan være åpen for alt mulig, som bærbar, iPhone og andre trådløse enheter. 
+
+Siden 5GHz ikke er utbredt er det nærliggende å bruke dette til "tyngre" bruk, som streaming av mediadata. 
+2.4GHz og bakoverkompatibilitet med 802.11b/g blir da overlatt til alt annet. 
+
+Men i vår testing var ytelsen lavere på 5GHz enn på 2,4GHz. 
+Dessuten var plasseringen enda mer kritisk. 
+Ved å flytte klient-enheten noen få cm ble ytelsen forandret i til dels stor grad. 
+
+Ytelsen på standard-båndet 2,4 GHz var derimot i toppklasse og belastning på den andre kanalen gjorde ingen utslag på testingen 
+
+Og streaming av HD-video? 
+Vi har hittil ikke testet en eneste trådløs ruter som klarer dette helt uten problemer, selv om aksesspunktet og klient står 5 meter fra hverandre med fri sikt. 
+
+Konklusjon? 
+
+Dualband trådløst høres bra ut på papiret, men vi klarte ikke å finne noen fordeler med dette på grunn av manglende ytelse. 
+Det hjelper lite å ikke forstyrre forbindelsen som skal gjøre de krevende oppgavene, når forbindelse ikke klarer jobben i utgangspunktet. 
+
+Vår erfaring med trådløst og ytelse er ikke endret. 
+Vi vil fremdeles hevde at trådløst er ypperlig til "småbruk". 
+Trenger man høy hastighet og maks ytelse er det bare kabel som holder. 
+
+Prisen ligger på rundt 1300 kroner. 
+
+Mer info om Linksys Dual-N Band WRT610N finner du hos www.linksys.com 

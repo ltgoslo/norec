@@ -1,0 +1,112 @@
+Lexmark X5470
+TEST: 
+Lexmark har for vane å putte mange funksjoner inn i produktene sine, for deretter å selge dem svinebillig. 
+Men henger egentlig kvaliteten med i svingene? 
+
+Lexmark X5470 får du faktisk for under tusenlappen nå, til tross for at den er en fullblods multifunksjonsmodell med innebygd faks med automatisk arkmating. 
+Det er oppsiktsvekkende billig, men erfaringsmessig vet vi at det ofte er en sammenheng mellom billige modeller og ymse svakheter. 
+Brother MCF-425CN er i så måte et godt eksempel, og den hadde omtrent samme veiledende pris da vi testet den. 
+
+LES OGSÅ: 
+
+Samtidig vet vi at Lexmark har gjort ganske mange grep for å bedre kvaliteten, Lexmark-produserte Dell Photo 944 for eksempel, overrasket oss stort på flere områder. 
+Slekstskapet til X5470, som vi har hatt på testbenken den siste uken, er tydelige. 
+Den har det samme firkantede designet i hvit utførelse, med sølvgrå detaljer. 
+Men selv med dette på plass klarer vi ikke å fri oss fra følelsen av at dette lukter det mer kontor av enn hjemmeprodukt. 
+
+Hva du får 
+
+Her er listen over de viktigste funksjonene: 
+
+Skanner, kopimaskin, skriver og faks med arkmater Minnekortleser for alle aktuelle korttyper Papirsensor Direkteutskrift fra kamera (PictBridge) USB2.0-kommunikasjon. 
+Nettverk og WLAN-opsjon (ekstrautstyr) 
+
+Se flere tekniske data 
+
+Skriveren har kun et tekstbasert LCD-panel, men ved å skrive ut og skanne et indeksbilde kan du likevel skrive ut bilder fra minnekort uten å koble den til PC. 
+Det er imidlertid litt mer "mask" enn å velge ut bilder fra en LCD-skjerm, som du kan på svært mange multifunksjonsskrivere nå. 
+
+Den mangler også muligheten til å skanne dias/negativer, og har heller ingen andre kommunikasjonsopsjoner enn USB2.0, uten at du må bla opp noen ekstra kroner. 
+
+Arkmateren sitter i bakkant, i tillegg har skanneren egen mater for inntil 10 ark. 
+Selv om skriveren ikke bygger mer enn 31 cm i dybden, må du i tillegg regne ca 5 cm ekstra for arkene, dersom du tenker på å sette den i en hylle. 
+Dette er uansett en ganske plassbesparende modell. 
+
+Modellen leveres med to blekktanker, en med sort blekk og en med cyan, gul og magenta. 
+En egen fotopatron kan erstatte det sorte blekket for beste mulige fotoutskrifter. 
+
+Installasjon og programvare 
+
+Installasjonen er rett fram, og sammen med driverne installeres programvaren. 
+Den består av Lexmark Bildestudio og Bilderedigering, førstnevnte er en slags "startmeny" som gir deg de fleste vanlige valgene for utskrift- kopi og skanneoperasjoner. 
+
+Bilderedigering er, som navnet mer enn antyder, beregnet på bearbeidelse av bilder før utskrift. 
+Her finner du blant annet et virkningsfullt filter mot røde blitsøyne, fargejusteringer etc. 
+Dette er myntet på nybegynnere, og fungerer bra i så måte. 
+
+Under kan du se en video som viser programmene i praksis: 
+
+I tillegg får du et faksprogram, og Abbyy (for et navn!) 
+FineReader Sprint for konvertering av innskannede dokumenter til tekst. 
+
+Dersom du er "minimalist" eller rett og slett ønsker å bruke andre programmer, kan du slippe unna med å bare installere driverne uten programvaren - men mister da mye av funksjonaliteten. 
+
+I bruk 
+
+En av de store fordelene med X5470 kontra mange andre modeller, er at den starter mer eller mindre momentant når du trykker på "Print"-knappen. 
+Kopieringen trenger derimot noen sekunder på å varme opp lampen første gang etter å ha stått ubrukt en stund, men bare noen få sekunder. 
+I tillegg forteller en vennlig kvinnestemme hva som holder på å skje, dersom du skulle være i tvil. 
+
+Kopi av tekst og grafikk, samt utskrifter av samme type dokumenter, går rimelig kjapt - det er modeller som er langt raskere, men hastigheten er mer enn godkjent med tanke på at dette er et rimelig produkt. 
+
+Diagrammet under viser noen av målingene våre mot andre aktuelle modeller. 
+
+Som du ser av diagrammet er slektskapet med Dell Photo 944 svært tydelig når det gjelder hastighet. 
+På de fleste områder, med unntak av fotoutskrifter, er hastigheten absolutt akseptabel. 
+Men 6 minutter pr foto i A4-størrelse er tregt i 2006-målestokk. 
+Det er imidlertid flere grunner til at vi ikke vil anbefale denne skriveren til fotoutskrifter, det kommer vi inn på i neste avsnitt. 
+
+OPPDATERT 19.1.2007: 
+Etter å ha testet en oppdatert versjon av skriveren og driverne, har hastigheten blitt bedre. 
+Fotokopi er blitt 24 sekunder raskere. 
+Vi legger for øvrig til at et A4-foto ble skrevet ut på 3 minutter og 38 sekunder på vår test-PC, også dette er raskere enn de første resultatene vi fikk. 
+
+Kvalitetsvurderinger 
+
+Det er hevet over en hver tvil at dette er den beste skriveren fra Lexmark vi har sett når det kommer til utskriftskvalitet. 
+Tekst og enkel grafikk er som forventet ikke noe problem, mer forbauset er vi over forbedringene når det gjelder fotokvalitet, selv uten fotopatron. 
+
+Prikkene er blitt så godt som usynlige, og vi har faktisk ingen betenkeligheter med å putte bilder skrevet ut på Lexmarks eget Premium-papir i fotoalbumet vårt. 
+Fotopatronen sørger for enda bedre dynamikk, og overganger blir enda jevnere - noe som er mer synlig på enkelte fotografier enn andre. 
+
+Sluker blekk 
+
+Det er imidlertid et men. 
+Vi vurderer normalt ikke driftsøkonomi, siden det er så mange faktorer som kan påvirke den i forskjellige retninger. 
+Utskriftsfrekvens er for eksempel en av dem, og bare små variasjoner kan gi store utslag - fordi mange skrivehoder må renses når det har gått en tid siden siste utskrift. 
+Denne prosessen stjeler blekk. 
+Vi må imidlertid sette et stort spørsmålstegn ved skriverøkonomien i dette tilfellet. 
+Etter 10 fotokopier (A4) og noen få tekstsider fikk vi et varsel om at fargeblekket begynte å gå tomt. 
+Det er ekstremt tidlig, med tanke på at blekkpatronen "Lexmark 33" selges for rundt 180-200 kroner de fleste steder vi har sjekket. 
+
+OPPDATERT: 
+I januar 2007 testet vi en oppdatert utgave av skriveren og drivere, og nå er blekkforbruket kraftig redusert. 
+Vi kjørte våre 10 fotokopier i A4 ut på nytt, og nå viser indikatoren at blekktanken er litt under halvfull. 
+Det gir dramatisk lavere pris pr side enn førsteutgaven vi testet i oktober. 
+
+Skanneren er det andre store ankepunktet. 
+Den varmes opp og gjør jobben i bra tempo, men evnen til å fange detaljer, spesielt i de lyse partiene, er svak. 
+I en av våre mest avanserte testdiagrammer forsvinner detaljene helt i mange tilfeller. 
+Dette er imidlertid ikke uvanlig for produkter i denne prisklassen, her må du rett og slett se an behovet ditt. 
+Til fotokopiering er dette produktet med andre ord langt fra førstevalget. 
+
+Final words 
+
+Har du behov for en multifunksjonsskriver til enkle utskriftsjobber, fax og kopiering av tekst og enkel grafikk, får du mye for pengene ved å velge X5470 fra Lexmark. 
+Den er forbausende enkel å bruke, og ser heller ikke så verst ut. 
+
+OPPDATERT: 
+Har du imidlertid behov for gode fotokopier bør du se en annen vei, for skanneren har en del svakheter. 
+Og selv om prisen pr fotoutskrift er blitt langt lavere med revisjon av skriver og driver som er tilgjengelig i januar 2007, er dette fortsatt blant de modellene som er dyrest i drift til dette formålet. 
+
+Tredimensjonal visning av skriveren 

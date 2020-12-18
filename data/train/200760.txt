@@ -1,0 +1,106 @@
+Toshiba Satellite L750-17D
+Den har en behagelig prislapp, og du får du en stille PC som duger til det aller meste. 
+Men på spesielt ett punkt er vi kritiske til Toshiba. 
+
+Året går mot slutten, og dette er den førtiende PC-en vi har testet denne sesongen. 
+Mange av modellene vi har testet har ligget i prisklasse 4-5000 kroner, som er et typisk "folkesegment". 
+I denne prisklassen finner du nå en rekke modeller som fungerer utmerket til nær sagt alle oppgaver. 
+
+Satellite L750-17D som vi har testet, er en maskin som byr på relativt mye, sett i forhold til prisen. 
+Denne uken selger MPX denne konfigurasjonen for 4.195 kroner, normalprisen ligger noen hundrelapper høyere. 
+
+Her er noen av de viktigste egenskapene: 
+
+Toshiba Satellite L750-17D 15,6" blank LED-baklyst LCD, 1366 x 768 piksler Intel Core i3 2330M-prosessor (2,2 GHz) 6 GB RAM 
+(8 GB er maks) 640 GB harddisk, 5400 rpm Intel HD Graphics 3000 grafikk DVD-brenner for alle vanlige formater Webkamera, 0,3 megapiksler 3 USB 2.0-porter (hvorav én kan gi ladestrøm til f. eks telefon når PC-en er skrudd av) HDMI og VGA skjermutganger Trådløst nettverk (B/G/N) 100 Mbit kablet nett 6-cellers batteri, 4400 mAh Windows 7 Home Premium 64-bit Vekt: 
+2,5 kg 
+
+Det er først og fremst minnemengden og harddisken som gjør at denne konfigurasjonen skiller seg positivt ut i forhold til "gjennomsnittsmaskinen" i dette segmentet. 
+De fleste leveres nemlig med 4 GB RAM og 500 GB harddisk, men unntakene blir flere og flere. 
+Vi minner blant annet om denne HP-en som koster litt mindre men som faktisk har enda større harddisk. 
+Begge mangler imidlertid støtte for USB 3.0 og gigabit kablet nettverk, spesielt førstnevnte blir mer og mer aktuelt i disse dager, med stadig mer utstyr som drar nytte av hastighetsforbedringene som ligger i dette grensesnittet. 
+
+Ingen fingeravtrykk 
+
+Toshibaen er omtrent lite stor som HP-en, og har også blank overflate, mørk grå med et svakt rutemønster. 
+Og selv om den er blank, vises nesten ikke fingeravtrykk, mye takket være gråfargen og mønsteret. 
+
+Materialvalget er plast, og kvalitetsinntrykket ligger ganske midt på treet. 
+Vi merker oss at skjermen er festet i to smale hengsler, noe som gjør at skjermen "gynger" litt når vi taster, spesielt når den står på et mykt underlag. 
+
+Tastaturplaten har litt svikt fra midten og ut til høyre, men tastene avgir lite støy og oppleves som faste og kontante. 
+Det avgir heller ikke særlig støy under skriving. 
+Vi kunne tenkt oss en litt bredere mellomromstast og enter-tast, begge er ganske smale, men noe stort problem utgjør dette ikke. 
+
+Og i likhet med de fleste PC-er, nesten uavhengig av prisklasse, er også denne maskinen utstyrt med et fellesnordisk tastatur, der fem taster har forskjellig verdi, avhengig av land. 
+
+Vi må si vi liker bedre helnorske tastaturer som for eksempel på denne rimelige Lenovo-PC-en. 
+
+Pekeplaten er bare et matt felt under tastaturet, og funger utmerket. 
+Merk imidlertid at begge de to museknappene avgir ganske høy lyd når du klikker på dem. 
+
+Alle portene og tilkoblingene sitter på sidene, og nærmest brukeren. 
+Det gjør det enkelt å koble til utstyr, som nok er viktigere enn å unngå kabelrot, for de fleste av oss. 
+
+Men merk at strømpluggen stikker rett ut flere cm på høyre side. 
+At ikke PC-produsenter velger 90-graders knekk er et mysterium. 
+Vi har selv opplevd å dulte borti en slik plugg, med brudd i strøminntaket som resultat. 
+Hadde strøminntaket vært på baksiden, hadde vi ikke satt et like stort spørsmålstegn ved løsningen. 
+
+Da er vi langt mer glade for at strømforsyningen benytter en vanlig to-polet strømledning, ikke en stiv, jordet ledning som de fleste konkurrenten byr på. 
+
+Bra ytelse for penga 
+
+Siste generasjon Core i3-prosessorer byr på god ytelse til de fleste programmer, også til fleroppgavekjøring. 
+Den integrerte grafikken er også mer enn sterk nok til å håndte "alt" av 2D-grafikk, også avspilling av HD-materiale på ekstern skjerm eller TV. 
+Og som du ser i bildet under, er prosessorbelastningen svært lav, selv under avspilling av Flash-video i 1920 x 1080 piksler: 
+
+Vi merker oss også at PC-en er temmelig stillegående, i lange perioder er suset fra harddisken det eneste du hører. 
+Øker belastningen starter også en kjølevifte, og den kan også gå lenge på jevnt tempo, og relativt behagelig nivå. 
+Vi vil med andre ord ikke omtale denne maskinen som støyende, kun under de tøffeste ytelsestestene økte viften frekvensen betydelig, og dermed også støyen, men det gav seg så snart belastningen var over. 
+
+Men den visuelle støyen kan bli i overkant. 
+Med det mener vi all tilleggsfunksjonalitet som Toshiba har proppet denne maskinen med. 
+Vi talte hele 67 installasjoner, mange fra Toshiba selv, men også tredjepartsleverandører som Nero, McAfee, Google, Amazon, Microsoft, Skype, Adobe og Sun. 
+Og det har etter vår mening blitt "a little too much". 
+Du blir stadig forstyrret av sprettoppvinduer som minner deg på alt mulig rart, og slett ikke alt er nødvendig å måtte ta stilling til. 
+Mye av funksjonaliteten overlapper ting som allerede er tilgjengelig i Windows, og andre ting vet vi rett og slett ikke hva vi skal bruke til. 
+Informasjonsmengden blir rett og slett overveldende til tider: 
+
+Derfor ville vi brukt god tid på å avinstallere ting vi ikke kommer til å bruke, dersom vi hadde kjøpt denne maskinen. 
+Det er mulig å få til, for eksempel ved å bruke The PC Decrapifier. 
+
+Jevnt bra ytelse - til det meste 
+
+Windows egen opplevelsesindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (dårligst) til 7,9 (best): 
+
+Prosessor: 6,5 Minne: 7,2 Grafikk: 
+4,7 Spillgrafikk: 
+6,1 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 7.0 gir oss totalscore 1012, mot HP G6 som fikk 1076. 
+Prosessor- og grafikkytelsen har vi skissert i diagrammet under: 
+
+Som du ser ligger ytelsen litt bak den noe rimeligere HP-en, men i praksis er den temmelig lik. 
+Det betyr i klartekst god applikasjonsytelse, men ikke særlig bra spillytelse. 
+Da bør du velge en PC med dedikert grafikkort. 
+
+Også batterilevetiden er temmelig lik. 
+Og som alltid tester vi maskinen uten belastning for deretter å teste med avspilling av HD-video ved hjelp av Windows Media Player. 
+Tiden ser du i diagrammet under (i antall timer): 
+
+Du kan altså forvente en batterilevetid på 3,5 til 4 timer under normal bruk, noe som er et stykke bak de mest seiglivede vi har testet i budsjettklassen denne sesongen. 
+
+Konklusjon 
+
+Nok en gang har vi testet en budsjett-PC som får de aller fleste jobber gjort kjapt og greit, den har godt med minne, god lagringsplass og støyer lite. 
+
+Det er imidlertid tøff konkurranse i dette segmentet, og vi mener Toshiba gjør det vanskelig for seg selv når de fyller maskinen med tilleggsfunksjonalitet som de fleste bare vil oppleve som støy. 
+De er slett ikke alene om dette, men vi har sett oppsett på PC-er fra leverandører som Asus, Samsung og Acer, for å nevne noen, som vi finner langt smidigere. 
+
+Men noe dårlig kjøp til 4.195 kroner er dette ikke, spesielt ikke hvis du klarer å rydde litt i Windows på egenhånd. 
+Vi lander til slutt på en svak firer på terningen, i mangel på muligheten til å gi 3,5. 
+
+Takk til MPX for lån av maskinen! 

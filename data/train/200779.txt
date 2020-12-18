@@ -1,0 +1,95 @@
+Meizu miniplayer
+TEST: 
+Er du opptatt av god lyd bør du ta en titt på denne lommespilleren fra Meizu. 
+
+Vi har tidligere testet lillebror til Meizu miniplayer, Meizu Music Card. 
+Vi lot oss begeistre blant annet av lyden og utvalget av funksjoner, men syntes betjeningen ikke var like gjennomtenkt som på en del andre modeller vi har testet i det siste. 
+
+At spilleren var en total "rip-off" rent designmessig fra Apple iPod, falt heller ikke i god jord hos vårt testpanel. 
+
+Meizu miniplayer har vært på markedet en god stund allerede, og representerer vel ikke akkurat nytenkende design den heller, med sin sorte front og sin speilblanke krom-bakside. 
+Ser vi bort fra dette er den smekker nok, med sin slanke kropp og store skjerm. 
+
+Her er viktige spesifikasjoner: 
+
+Meizu miniplayer 
+
+Kapasitet 2,4 eller 8 GB 79 x 48 x 10 mm, 55 gram 2,4" skjerm, 320 x240 piksler, 260.000 farger Musikkspiller (MP3, WMA inkl DRM, WAV, OGG og FLAC) 
+Videspiller (Xvid-format i AVI-filer) Bildeviser (JPG, BMP, GIF) FM radio Stemmeopptaker Tekstleser (.txt-filer) 36 timer musikkavspilling mellom hver lading) 
+
+På toppen av spilleren sitter Play-knappen, som også fungerer som av/på-knapp ved å holde den inne noen sekunder. 
+På undersiden sitter en skyvbar låseknapp, for øvrig betjenes spilleren ved hjelp av knappene til høyre for skjermen. 
+Også her har Meizu brukt en kombinasjon av vanlige trykk-knapper og trykk- og strykefølsomt felt som blant annet brukes til å navigere i menyer og justere lyd. 
+
+Sortering av musikkspor skjer på bakgrunn av filtagger, men i tillegg kan du velge å avspille mapper med filer. 
+Det er en stor fordel når musikksamlingen er dårlig tagget, og absolutt noe vi har savnet på mange andre spillere. 
+
+Betjeningen er slett ikke ulik Meizu Music Card, med tallrike menyer med svært mange innstillinger og funksjoner. 
+Det er ikke blant de mest lettbetjente spillerne på markedet, men helt diskvalifiserende er betjeningen ikke. 
+
+Funker mot alt 
+
+Men så har spilleren noen detaljer vi virkelig liker, først og fremst standard miniUSB-tilkobling både for lading og overføring av musikk fra PCen. 
+Den støtter USB2.0 High Speed, og fungerer helt uten behov for programvare. 
+Det betyr i praksis at den kobles til nær sagt hvilken som helst Mac, PS3, Windows- eller Linux-PC, og fylles med innhold ved hjelp av dra og slipp fra filsystemet. 
+
+Overføringshastigheten målte vi til 5-6 MB pr sekund, altså langt raskere enn USB1.1, og også vesentlig raskere enn lillebror Music Card. 
+
+Trøblete video 
+
+Video, bilder og musikk må overføres til sine respektive mapper, men spilleren likte ikke våre Xvid-testvideoer. 
+Det kan ha med oppløsningen å gjøre, som var vesentlig høyere enn skjermens 320 x 240 piksler. 
+
+Etter å ha lest den relativt enkle og oversiktlige brukerveiledningen, installerte vi programmet Video Converter 1.0 som fulgte med. 
+Programmet var "typisk" kinesisk, med skriveleifer og dårlig engelsk. 
+Men det mest alarmerende var at på slutten av installasjonen ble vi bedt om å installere K-lite Mega Codec Pack, endogtil en gammel betaversjon av denne pakken som inneholder både autoriserte og uautoriserte kodeker. 
+Har du for eksempel RealPlayer eller iTunes installert anbefaler vi absolutt ikke å installere K-lite Mega Codec Pack, da dette kan føre til versjonskonflikter og i verste fall maskinkrasj. 
+
+Vi laget et gjenopprettingspunkt og tok sjansen på å installere pakken, men fikk ikke Video Converter til å fungere. 
+Om det skyldes at vi bruker Windows Vista eller andre ting vites ikke. 
+Vi fikk verken feilmeldinger eller andre beskjeder; programmet reagerte bare rett og slett ikke da vi skulle starte konverteringen. 
+
+Vi besøkte Meizu sine nettsider og lastet ned siste versjon av programvaren, som viste seg å være den samme som vi hadde installert. 
+
+Som en siste utvei prøvde vi derfor å konvertere testvideoene våre ved hjelp av åpen kildekode-programmet VirtualDub, og satte de samme parametrene som i Video Converter. 
+Men heller ikke disse ville miniplayer avspille. 
+Derfor kan vi dessverre ikke gi en fullstendig vurdering av videofunksjonen. 
+
+Bra skjerm, meget god lyd 
+
+På bakgrunn av spesifikasjoner, stillbilder og demovideoer på enheten kan vi uansett konkludere med at videofunksjonen ikke er spillerens sterkeste side, maks bitrate er 512 kbps, og 18 frames pr sekund er ikke nok til helt glidende bevegelser. 
+Skarpheten er imidlertid upåklagelig, skjermkvaliteten er over snittet lyssterk og god, med unntak av innsynsvinkelen fra venstre side. 
+Her blir bildet fort mørkt og invertert. 
+
+Vi beveger oss fra skjermkvalitet til lydkvalitet, som er sentralt for mange av oss. 
+Det er her Meizu-spilleren virkelig imponerer. 
+Uten å gjøre en eneste innstilling ble hodet fylt med fyldig behagelig lyd med bra bass, mellomtone og diskant. 
+Mye av æren må ørepluggene ta, som er sjelden bra i forhold til konkurrerende spillere. 
+Men de er litt store, og falt lett ut av ørene til undertegnede. 
+
+Men lyden er så bra at jeg godt kan vurdere å træ en lue godt over ørene for å holde dem på plass. 
+I hvert fall i den årstiden vi går inn i nå. 
+Det er også mulig å påvirke lydbildet ytterligere ved hjelp av equalizeren. 
+
+FM-radioen og stemmeopptakeren kompletterer det gode inntrykket vi fikk av spilleren under testen. 
+Vi sitter bak tykke vegger av mur og betong, og svake radiomottakere avsløres raskt her. 
+Med meizuen kunne vi lytte til flere kanaler uten de verste forstyrrelsene, og det skjer ikke hver gang. 
+
+Stemmeopptak i 128 kbps MP3-format ble meget bra, imponerende tatt i betraktning den lille mikrofonen. 
+Den er i tillegg følsom så det holder, og kan godt brukes i forbindelse med forelesninger etc. 
+
+Batterilevetiden er langt bedre enn på Music Card, og 36 timer under musikkavspilling er blant de bedre i denne klassen. 
+
+Konklusjon 
+
+Meizu miniplayer er på mange måter lik som lillebror Music Card, men har større skjerm, bedre batterilevetid og er litt enklere å betjene - men har fortsatt et stykke igjen til de beste. 
+
+Men så var det dette videokonverteringsprogrammet da, som ikke fungerte på vår test-PC, samt "kravet" om å installere en omdiskutert kodekpakke som endogtil er i en gammel betautgave. 
+Dette setter vi store spørsmålstegn ved. 
+
+Ser vi bort fra dette, er Meizu miniplayer en meget god spiller, lyden imponerer mest, men både radio og opptaksfunksjon holder også høyt nivå. 
+Som musikkspiller fortjener den terningkast 5, men vi ville valgt en annen spiller om video var viktig for oss. 
+Derfor ender vi til slutt på en sterk firer også denne gangen til Meizu. 
+
+Meizu miniplayer 4 GB koster rundt tusenlappen, og selges blant annet hos Komplett.no. 
+Dobbel kapasitet koster runt 1.500 kroner, omtrent det samme som nye iPod Nano, Sony NWZ-S618 og Creative Zen - som absolutt bør tas med i betraktningen hvis du ønsker deg en flash-spiller med god kapasitet. 

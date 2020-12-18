@@ -1,0 +1,139 @@
+Sony Alpha A33
+Med halvgjennomsiktig speil oppnår Sony hurtig autofokus også på HD-video. 
+
+Sony har et spennende kamerautvalg i høst, og for ikke mange ukene siden testet vi Sony NEX-5, som imponerte oss med en svært god bildekvalitet på tross av et kompakt ytre. 
+
+Blant nyhetene i høst er også A33 og A55 - dette er begge kameraer som opptrer som et speilreflekskamera, men der speilet ikke reflekterer lyset opp i en optisk søker, men (delvis) til en sekundær autofokussensor. 
+Forkortelsen blir derfor ikke DSLR (R=reflex), men DSLT (T=translucent, halvgjennomsiktig). 
+
+Fordelen med denne designen er at A33 og A55 oppnår hurtig autofokus også ved HD-filming; vesentlig raskere enn noe annet systemkamera vi har testet. 
+
+Bieffekten er for det første at du får en elektronisk søker i stedet for optisk (men den er heldigvis ganske god), og at speildesignet, som kan sammenlignes med en solbrille, også stjeler noe lys (ca 1/3EV). 
+
+Vi ser først på de tekniske spesifikasjonene: 
+
+Forskjellen opp til storebror A55 er for øvrig at A55 har 16Mp i stedet for 14Mp, kan ta 10 bilder pr sekund (vs 7) og har innebygd GPS-modul, mot et pristillegg på en tusenlapp. 
+
+Konstruksjon 
+
+Etter hvert som vi har lært A33 å kjenne, har vi også satt mer og mer pris på konstruksjonen av kamerahuset. 
+Grepet er nok litt i det minste laget for de med store hender, men utformingen og friksjonsbelegget (både på selve grepet og til tommelen) gjør allikevel at kameraet oppleves godt å holde i. 
+
+Den elektroniske søkeren er også relativt stor og skarp (vesentlig bedre enn på de tre ultrazoomkameraene vi testet tidligere denne måneden), selv om vi fortsatt foretrekker optiske søkere på systemkameraer. 
+I dårlig lys blir den kornete, og ved hurtige panoreringer "lekker" det farger. 
+
+En fordel med A33, dog, er at kameraet har innebygd vater slik at du ser i søkeren om du holder kameraet rett eller ikke – kjekt når du tar landskapsbilder, for eksempel, for å unngå skjeve horisonter. 
+Sony har også lenge hatt en sensor rett under søkeren som registrerer når du holder øyet inntil søkeren slik at søkerbildet byttes automatisk mellom LCD-skjermen og den elektroniske søkeren. 
+
+Skjermen er tre tommer stor, har høy oppløsning på 920.000 punkter og kan i tillegg vris i alle retninger. 
+Denne kombinasjonen (høy oppløsning og vridbar skjerm) er det svært få kameraer som byr på i dagens marked (kun Canon EOS 60D og Olympus E-5, i tillegg til enkelte andre Sony-modeller). 
+
+Ellers er brukskomforten meget god på A33 - knappene gir myk, men presis feedback når du trykker på dem, og selv om vi foretrekker at piltastene er separerte, er de ulike sonene såpass godt definerte at feiltrykk ikke er noe problem. 
+Som seg hør og bør er også sletteknappen mer innfelt i kamerahuset enn de andre for å hindre uheldige trykk. 
+
+Utvalget av knapper er også godt - du kan endre ting som ISO og hvitbalanse direkte fra piltastene, og en egen Fn-knapp viser deg en meny med de mest aktuelle parameterne å stille på. 
+
+Funksjonshjulet er plassert til venstre for søkeren og lar deg bytte mellom ulike modi. 
+I manuell modus (der du stiller både blender og lukker) må du holde en knapp inne for å styre blenderen, noe som kunne ha vært mer elegant løst med et sekundært innstillingshjul på baksiden av kameraet. 
+Stativfestet i metall er plassert midt under objektivet som seg hør og bør. 
+
+På venstre side av kameraet finner du også luker til HDMI- og USB-utganger (A33 bruker en helt vanlig USB-port), inngang for fjernkontroll og for ekstern mikrofon, som gjør at kameraet stiger fra "egnet" til "godt egnet" til video. 
+
+Brukervennlighet 
+
+Da vi testet NEX-5 var det først og fremst på brukervennligheten kameraet ikke nådde opp, fordi det aller meste av innstillinger krevde mange trykk i menysystemet, og kameraet ble derfor ble ineffektivt i bruk. 
+
+A33 følger en mer tradisjonell tankegang, men er finpolert i forhold til tidligere Sony-kameraer vi har testet. 
+Spesielt er funksjonsmenyen (på Fn-knappen) veldig godt implementert, der du både kan bruke piltaster og OK-knappen for å endre innstillinger, men også innstillingshjulet på høyre pekefinger dersom du vil endre noen parametre kjapt. 
+
+Hovedmenyen er også fornuftig strukturert, med flere faner som skiller de ulike innstillingene, og den høye oppløsningen på skjermen gjør at teksten er lett å lese. 
+En ting vi liker ekstra godt, er at dersom du velger en av innstillingene i menyen og venter i to sekunder, spretter det opp en hjelpetekst som forklarer nærmere. 
+Menyene er også tilgjengelige på norsk. 
+Når det gjelder hovedmenyen er A33 veldig likt Canon EOS 550D. 
+
+En egen Auto+-funksjon tar autofunksjonen et hakk videre (auto og auto+ er to forskjellige valg) ved å aktivere ulike funksjoner dersom det passer seg. 
+Eksempelvis kan kameraet finne på å ta fem kjappe bilder etter hverandre dersom det er mørkt og du ikke bruker stativ, for så å sy bildene sammen til ett bilde med mindre støy. 
+Er det bevegelse i bildet blir seriefoto automatisk aktivert etc. 
+
+En bitteliten ting å sette fingeren på er at det vises et stillbilde på skjermen hver gang du endrer på funksjonshjulet, som du må trykke vekk enten med OK-knappen eller ved å trykke utløserknappen halvveis ned. 
+Akkurat det skulle vi gjerne hatt mulighet til å slå av. 
+
+Funksjoner 
+
+A33 et rikt utvalg av funksjoner og scorer høyt på denne delkarakteren - her er noen av høydepunktene: 
+
+Panoramamodus 
+- Sett kameraet i panoramamodus, trykk ned utløseren en gang og panorer fra en side til den andre mens kameraet fanger bilder i høy hastighet, så sys alle bildene sammen til ett bredt bilde (se panoramabildet av Eiffeltårnet lenger ned i artikkelen). 
+Dette fungerer best med en viss avstand til det du tar bilde av. 
+A33 støtter også 3D-panorama, som gjør at panoramabildet blir tredimensjonalt om du kobler kameraet til en 3D-TV.Full HD-video - A33 kan filme i full HD-oppløsning, og opptak kan startes og stoppes via en dedikert videoknapp. 
+Merk at fokushastigheten fortsatt er meget rask mens man filmer.7 bilder i sekundet 
+- Dette er markedets billigste kamera som kan skuffe unna så mange bilder i sekundet i seriefotomodus. 
+Du kan også justere ned hastigheten om du klarer deg med tre bilder i sekundet.Innebygd HDR-funksjon 
+- Denne fungerer ganske bra (se bildeeksempel lenger ned) og tar tre bilder på rappen med ulik eksponering før det settes sammen til ett (opp til ±3EV, bracketing-funksjonen, derimot, støtter bare ±0,7EV.). 
+Bør dog ikke brukes dersom det er bevegelse i bildet, siden du da får skyggeeffekter rundt objektene som beveger seg. 
+
+Se eksempel på bilder med og uten denne funksjonen i bildegalleriet lenger ned i omtalen. 
+
+Ytelse 
+
+Til tross for at A33 er et kamera som utelukkende benytter seg av levende bilder på skjerm for å komponere bildet, er oppstartstiden meget rask, og kameraet er klart til bruk i løpet av et halvt sekund, som i praksis er en ubetydelig forsinkelse. 
+
+Vi opplever også at fokushastigheten på Sony-kameraet er meget rask og presis, og som nevnt fungerer den fint også på videoopptak, noe de aller fleste systemkameraer med videofunksjon ikke er i nærheten av. 
+
+På seriefoto gjør kameraet det svært godt og holder lenge hastigheten på de oppgitte 7 bildene pr sekund. 
+Etter 16 bilder dabber imidlertid hastigheten av, og vi klarte akkurat å presse inn 26 bilder på 10 sekunder: 
+
+Utløserforsinkelse er i praksis lik null når du ikke bruker blits, og med blits klokket vi den inn til ca 27 hundredeler. 
+Batterilevetiden er oppgitt til 270 bilder ved bruk av LCD-skjermen og 340 bilder ved bruk av den elektroniske søkeren. 
+Dette er ikke spesielt gode tall sammenlignet med tradisjonelle speilreflekskameraer, men forståelig siden A33 ikke har noe optisk søker. 
+
+Video 
+
+Angående videofunksjonen savner vi først og fremst én ting; muligheten for å utføre autofokus selv, for du kan kun velge mellom manuell fokus eller kontinuerlig fokus, som ikke alltid fokuserer slik vi ønsker (men den er meget kjapp). 
+
+Selv om bildekvaliteten er god, scorer ikke Sony like høyt på lydfronten. 
+Dersom du har aktivert bildestabilisatoren høres suset fra den kontinuerlig, og vi anbefaler derfor å slå av denne funksjonen når du filmer. 
+I tillegg høres lydene fra fokuseringen godt på opptaket. 
+A33 har som nevnt muligheten til å montere på en ekstern mikrofon, noe som anbefales dersom du vil bruke kameraet til mer profesjonell videoproduksjon. 
+
+Bildekvalitet 
+
+Sony imponerer oss på samtlige punkter denne gangen. 
+For det første har A33 svært godt dynamisk omfang, og kombinert med meget god lysmåling gjør det at selv de vanskeligste bildesituasjonene håndteres svært godt. 
+Bildet under viser et motiv der de fleste kameraer enten brenner ut høylysene eller mister detaljer i skyggepartiet, men kameraet fra Sony eksponerer svært godt og mister bare bittelitt detaljer i høylysene: 
+
+Med tanke på signalbehandlingen synes vi også Sony kommer godt ut av det. 
+Ikke klasseledende, men "godt nok", med noe detaljtap på ISO 800 og oppover. 
+Under ser du et 50%-utsnitt fra et bilde tatt med ISO 1600: 
+
+Ellers er i meget godt fornøyde med automatikken i dette Sony-kameraet - både eksponering, hvitbalanse, auto ISO etc. virker å være svært godt implementert. 
+
+Det medfølgende kit-objektivet leverer også en god prestasjon. 
+Skarpheten er relativt god og uten spesielle optiske svakheter - moderat fortegning, praktisk talt ingen kromatisk feilbrytning og ikke like påfallende uskarphet i hjørnene som mange andre kit-objektiver i denne klassen. 
+
+Du kan se eksempelbilder tatt med kameraet under: 
+
+Sjekk også panoramabildet tatt med A33: 
+
+Konklusjon 
+
+Vi liker Sony A33 svært godt. 
+Kameraet er godt konstruert, med god brukskomfort, en skarp og fin skjerm (som også kan roteres) og en god elektronisk søker med vater, som gjør at du kjapt kan se om du holder kameraet rett. 
+
+I bruk liker vi også hvordan Sony har tenkt denne gangen. 
+De aller fleste funksjoner er tilgjengelig fra en egen knapp, menyene er på norsk og har innebygd hjelpefunksjon. 
+I tillegg har A33 flere fascinerende funksjoner, som en flott panoramafunksjon (som også kan ta 3D-bilder) og innebygd HDR (som faktisk fungerer ganske bra). 
+Videre yter kameraet godt - det er klart til dyst på et halvt sekund, fokuserer relativt kjapt (også på video) og kan spytte ut 7 bilder i sekundet, noe som er høyst uvanlig for et systemkamera i denne prisklassen. 
+
+Bildekvaliteten er også meget god, og spesielt vil vi fremheve hvordan automatikken i kameraet gjør at nært sagt alle bilder vi har tatt på full auto har vært godt eksponerte. 
+A33 scorer også høyt på dyanamisk omfang, og klarer seg meget godt selv på de mest utfordrende motiver. 
+
+Videofunksjonen har fortsatt litt å gå på - spesielt savnes muligheten for å kontrollere autofokusen selv (kun kontinuerlig fokus er tilgjengelig i tillegg til manuell fokus, men den er i hvert fall veldig kjapp), og interne lyder i kameraet bidrar til en del støy på opptakene (det er mulig å koble på ekstern mikrofon). 
+
+Alt i alt sitter vi uansett igjen med et svært godt inntrykk av Sony Alpha A33 – dette er etter vår mening ett av de beste kamerakjøpene i sin klasse og bør virkelig vurderes om du er i markedet for et systemkamera denne jula. 
+
+PS! 
+Som nevnt har A33 også en storebror i A55 som byr på 10 bilder pr sekund, 16 megapiksler og innebygd GPS mot en tusing ekstra. 
+Ellers skal kameraene være like. 
+
+Sony Alpha SLT-A33 + 18-55/3,5-5,6 

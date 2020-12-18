@@ -1,0 +1,54 @@
+Delock Converter USB 3.0 med SSD
+Mobile disker er et risikoprosjekt. 
+Her er et alternativ. 
+
+Det finnes mange små 2,5-tommers harddisker i praktiske og tiltalende kabinetter, ofte omtalt som portable harddisker. 
+De er greie å ta med seg i veske eller lomme når man vil ha større datamengder tilgjengelig enn det er plass til på en minneplugg. 
+
+Noen bruker også slike disker til sikkerhetskopiering, og bærer den med seg for sikkerhets skyld. 
+
+Dette er vel og bra - så lenge de virker. 
+
+Skjøre saker? 
+
+Selv om det ytre formatet virker praktisk og svært håndterbart, på samme måte som en mobiltelefon, så er innmaten ikke alltid like praktisk. 
+Det er svært små toleranser i en liten harddisk og det er grenser for hva den tåler. 
+Selv om spesifikasjonene tyder på at de tåler ganske harde påkjenninger vinner den harde virkelighet ganske ofte over konstruksjonen. 
+
+Et godt alternativ 
+
+Et langt bedre alternativ er en SSD. 
+Her er det ingen bevegelige deler, og du skal bruke vold for å kunne ødelegge den. 
+De kommer også ferdig i kabinett, ingen elektroniske komponenter ligger åpne, slik som på harddisker. 
+
+Det eneste du trenger er en fleksibel og rask tilkobling som lar deg utveksle data over alt. 
+Da er det USB 3.0 som peker seg ut som en soleklar vinner. 
+
+Den praktiske siden kan løses veldig greit, i form av et adapter. 
+Tilkoblingen for SSD er SATA, som er så viselig innrettet at det bare er å smekke på en dobbeltkontakt for både strøm og data. 
+Med den raskeste og nyeste utgaven SATA 6 Gb/sek håndteres selv de raskeste lagringsmedier. 
+I den andre enden har vi altså USB 3.0 som kan håndtere inntil 5 Gb/sek. 
+Dessuten fungerer den også på USB 2.0 for full kompatibilitet, men langt lavere ytelse. 
+
+Hvor raskt er det? 
+
+Vi tok fram den nyeste Plextor SSD M3 Pro som vi nylig har testet og koblet den til SATA/USB 3.0 adapteret fra Delock. 
+
+Måleresultatene viser tydelig at overføringshastigheten er opptil flere ganger så rask som en roterende 2,5-tommers disk, avhengig av rotasjonshastighet og kapasitet. 
+
+Den er ikke like rask som direkte kobling, konverteringen mellom USB og SATA krever sitt. 
+
+Men det er ingen tvil om at denne løsningen er super for bærbar lagring. 
+I tillegg kan den også brukes på roterende disker i alle størrelser, praktisk hvis du skal kopiere data fra eldre, arkiverte 3,5-tommers harddisker uten å måtte åpne den stasjonære PC-en. 
+Da trenger du mer strøm, og bruker inngangen til en ekstra strømforsyning, som følger med. 
+
+Ytelsestester: 
+
+Konklusjon 
+
+Selv om det er en del tap i hastighet sammenlignet med tilkobling direkte til SATA 6Gb/sek er ytelsen likevel overlegen alle andre eksterne løsninger. 
+Dessuten er vårt eksempel langt sikrere enn en mekanisk disk. 
+Sørg imidlertid for å oppbevare den i en antistatisk pose, slik den ble levert. 
+
+Prisen er rundt 300 kroner. 
+Produktet skal være på vei ut i butikkene i skrivende stund. 

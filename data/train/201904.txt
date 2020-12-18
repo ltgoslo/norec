@@ -1,0 +1,68 @@
+The Kick - fotolys i lommeformat
+Nå har den kommet, en helt ny type lys til foto og video. 
+
+Sommeren 2012 skrev vi om The Kick, et nytt hovedsakelig norskutviklet produkt som var på trappene. 
+Ja, det var praktisk talt ferdig utviklet og produksjonen var i ferd med å bli finansiert med Kickstarter. 
+
+Prosjektet ble finansiert på kort tid og de 115.000 USD som var målet ble overopnådd til gangs, over 210 000 USD kom inn i form av støtte og forhåndsbetalinger. 
+
+Å få satt i gang serieproduksjon av et fysisk produkt er likevel ikke så enkelt. 
+Som så mange ganger tidligere var det problemer med mange potensielle produsenter som ikke holdt det de lovet, i tillegg til flere andre skjær i sjøen. 
+
+Men nå er produktet endelig ferdig, og alle som støttet og forhåndsbestilte det har mottatt enhetene sine. 
+Nå legges også en liten serie ut for salg i nettbutikken til RiftLabs. 
+
+Hva er The Kick? 
+
+The Kick er et fotolys som består av en matrise med 40-RGB lysdioder som drives av et oppladbart batteri og styres av en mikroprosessor. 
+En annen prosessor tar seg av kommunikasjon med en iPhone via WiFi, og med en app fra AppStore kan du fjernstyre lyset på mange forskjellige måter. 
+Du kan også styre lyset direkte fra The Kick, men da bare intensitet og temperatur. 
+
+Noe av det smarteste med The Kick er at den kan plukke opp farger fra skjermen på iPhone. 
+Når du plasserer fingeren på et sted på skjermen vil den lyse med den fargen du har satt fingeren på. 
+Dermed kan du få The Kick til å bidra med mer av det lyset som allerede er tilstede, enklere blir det ikke. 
+
+Du kan også velge forskjellige hvitt lys i forskjellige fargetemperaturer, eller velge fritt i fargespekteret som dukker opp. 
+
+I tillegg kan du plukke opp lyseffekter fra film slik at du kan bruke disse effektene når du filmer selv. 
+
+I bruk 
+
+Den enkleste måten å bruke The Kick på er å slå den på, trykke på +/- knappene for ønsket lysstyrke og justere temperaturen med de andre to +/- knappene. 
+
+Du kan så holde den i hånda eller sette den på et stativ. 
+Den har standard stativgjenger. 
+
+For å styre den fra iPhone trykker du inn WiFi-knappen og velger RiftNet på iPhone i oversikten over trådløse nettverk. 
+
+Så starter du Appen du har lastet ned fra Appstore og kan styre lyset fra denne, som beskrevet ovenfor. 
+
+Det hele er svært enkelt og intuitivt. 
+
+Hva med lysstyrken? 
+
+En liten enhet som The Kick kan ikke erstatte et stort oppsett med fotolamper eller seriekoblede blitzer. 
+Men den gir imponerende mye lys! 
+
+Vi testet i vår egen stue i mørket, midt på natten og fikk langt bedre resultat med The Kick sammenlignet med iPhone 4 sin innebygde blitz. 
+
+Men vi ble skikkelig imponert da vi tok bilde i samme lys med vårt Nikon D600! 
+
+Vi lekte oss også i det samme mørket med forskjellige farger på lyset, og det er et stort spekter av farger man kan boltre seg i. 
+
+Skal du ta bilde av gjenstander som gir mye gjenskinn er det svært praktisk med The Kick i den ene hånden og et godt kamera i den andre. 
+Da kan du svært enkelt styre lyset både i vinkel, farge og intensitet, og unngå reflekser fra annen belysning. 
+Med blitz og reflektorer får du ikke den samme interaktive kontrollen. 
+
+Konklusjon 
+
+The Kick er mer enn bare et lys, den er også et digitalt malerskrin og effektstudio og åpner for alt fra kompensasjon for motlys til helt sprø effekter. 
+At den er så enkel i bruk gjør at alle kan ha glede av den uten å måtte være ekspert. 
+Og ekspertene har fått et nytt og allsidig spesialverktøy. 
+
+Lysstyrken var imponerende, og er det ikke nok med én er det bare å kjøpe fler. 
+Prisen er på nivå med en kurant blits, men samtidig får du også et videolys, pluss en fleksibilitet som ingen andre produkter kan matche. 
+
+Det eneste lille ankepunktet vi har er at det oppretter et WLAN hotspot til å kommunisere med iPhone. 
+Dermed kan du ikke bruke The Kick samtidig med andre fotorelaterte apper som for eksempel Nikons fjernstyring av kameraer, som også oppretter et annet hotspot. 
+Men dette er jo et problem som bunner i begrensninger fra Apple i iOS og iPhone. 

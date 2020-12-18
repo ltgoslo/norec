@@ -1,0 +1,50 @@
+Asus RT-N65U - friskmeldt!
+Utrolig nok var to testeksemplarer defekte! 
+Det tredje er en testvinner! 
+
+Vi har testet tusenvis av produkter på DinSide, og som regel er det en grei sak. 
+Vi mottar produkter fra distributør eller PR-byrå, vi tester og skriver artikkel. 
+Deretter leveres testeksemplarene tilbake, og sendes ofte til andre publikasjoner. 
+
+Produsentene kappes også om å være først ute med nye produkter når ny teknologi er tilgjengelig. 
+Da sendes tidlige eksemplarer av nye produkter fra produsenten til intern opplæring og ekstern PR. 
+
+Det kan være risikabelt. 
+
+Det viste seg at begge de to eksemplarene av ruteren RT-N65U vi mottok fra Asus i Sverige var slike tidlige eksemplarer, som begge hadde påtagelige svakheter. 
+Det første eksemplaret hadde vi akkurat testet, men ikke skrevet om, da vi fikk beskjed om at Asus ville sende oss et annet eksemplar. 
+Dette viste seg å være befengt med akkurat de samme svakhetene. 
+
+Da publiserte vi artikkelen, med terningkast to og ingen anbefaling, snarere tvert i mot. 
+Vi påpekte også i artikkelen at disse svakhetene muligens kunne utbedres med ny firmware og at vi ville komme tilbake til saken om dette skjedde. 
+
+Asus tok tak i saken 
+
+Det har skjedd flere ganger at distributører har tatt kontakt med DinSide når vi har publisert tester hvor produktene får tyn og dårlige karakterer. 
+Noen har blitt møkk sure og noen har til og med kommet med trusler. 
+Det gjelder heldigvis ikke de større aktørene i bransjen, med et par unntak. 
+
+Asus reagerte derimot seriøst, og stilte bare relevante og detaljerte spørsmål om hvordan testingen hadde foregått. 
+De beklaget at testen fikk så dårlig utfall og satte i gang en prosess for å finne ut hva som kunne være grunnen. 
+Kundene hadde vært svært så fornøyd med produktet. 
+
+Vi fikk så tilsendt et nytt eksemplar som ble kjøpt i en butikk i Stockholm, altså intet tidlig testeksemplar som de to første, men et produksjonseksemplar slik som leveres til butikkene. 
+
+Vi lastet også ned den nyeste firmwaren 3.0.0.4.260 
+
+Og dette eksemplaret viste seg å være noe helt annet! 
+
+Testene viste at både på 5 GHz og 2,4 GHz er RT-N65U en testvinner! 
+
+Vi har sammenlignet med toppmodellen fra Asus RT-AC66U og målingene viser klart hvilken som havner på topp: 
+
+Vi testet også USB 3.0-tilkoblingen på nytt, både med USB 3.0 og USB 2.0 mot SSD. 
+Ytelsen er både høyere og jevnere enn på de tidlige eksemplarene vi testet. 
+Hastigheten er ikke på topp NAS-nivå, men likevel raskere enn den trådløse ytelsen, og derfor ingen flaskehals i praktisk bruk. 
+
+Konklusjon 
+
+Asus RT-N65U er en svært brukervennlig og lynrask ruter, med svært god rekkevidde. 
+Den har også ekstra egenskaper som USB 3.0 tilkobling for felles lagring og flere andre delte bruksmuligheter. 
+
+Asus RT-N65U 

@@ -1,0 +1,51 @@
+Samsung S1 Mini
+Mens vi venter på minneplugger med gigantisk kapasitet, har Samsung kommet med en rimeligere miniharddisk som kanskje dekker behovet ditt her og nå. 
+Vi har testet. 
+
+Behovet for flyttbar lagring og backup blir ikke akkurat mindre med tiden, og eksterne harddisker har blitt veldig populære - og rimelige - de siste årene. 
+
+Samtidig har flashminne-baserte minneplugger også etter hvert begynt å bli et reelt alternativ for mange. 
+De er små, har kapasitet på inntil 64 GB, men de romsligste er fortsatt forholdsvis mye dyrere enn harddisker med langt høyere kapasitet. 
+
+Mellomløsning 
+
+Derfor er Samsungs nye mini-harddisk spesielt interessant. 
+Dette blir på en måte en mellomting mellom en vanlig ekstern harddisk og minneplugg, både størrelsesmessig og kapasitetsmessig. 
+
+S1 mini måler nemlig ikke mer enn 8,7 x 6,2 x 1,5 cm, og til tross for beskjedne mål er kapasiteten relativt romslig med sine 120 GB. 
+På innsiden sitter en 1,8-tommer disk. 
+Vår røde har i tillegg en metallic lakk-effekt på overflaten og et diskré blått lys som tennes når den plugges i PC-en. 
+Stilen er det med andre ord lite å utsette på. 
+
+Du kan forresten velge mellom flere forskjellige farger; rød, svart, hvit og bronse. 
+
+Disken kobles til en ledig USB-port via kabel. 
+Her kunne det kanskje vært på sin plass med en innebygd, utskyvbar USB-plugg. 
+Heldigvis har Samsung benyttet standard miniUSB-grenesnitt, og disse kablene er enkle å få tak i dersom du skulle miste den som følger med. 
+
+Følger med programvare 
+
+Det ligger allerede en del data på disken når du åpner den i Utforsker, i praksis er det to programmer; et enkelt automatisk backup-program og et krypteringsprogram. 
+Med sistnevnte kan du for eksempel kryptere innholdet i en mappe, slik at det blir utilgjengelig for den som eventuelt måtte få uautorisert tilgang til disken. 
+Smart! 
+
+En av de store fordelene med harddisker kontra minneplugger, har så langt vært hastigheten. 
+De raskeste minnepluggene vi har testet har imidlertid hatt hastigheter på inntil 25 MB pr sek (lesing) og 14 MB pr sek (skriving), førstnevnte er omtrent ytelsen du kan forvente via USB 2.0-grensesnittet i dag, uansett om du bruker plugg eller harddisk. 
+
+Rask på skriving 
+
+I ytelsestesten har vi målt skrive/lese-hastighet på filer av forskjellige størrelse ved hjelp av .NET 2.0 Disk Benchmark II (i ubufret modus). 
+For hver filstørrelse har datamengden vært 100 MB. 
+
+I diagrammene under har vi sammenlignet tallene med JetFlash 2A, som er den raskeste minnepluggen vi har testet: 
+
+Som du ser ligger lesehastigheten ganske likt på de to løsningene. 
+
+Skrivehastigheten gir en klar seier til harddisken, uansett filstørrelse: 
+
+Konklusjon 
+
+Den tar litt større plass enn en minneplugg, men sammenligner man ytelse og kapasitet mot pris, er det ingen tvil om hva som er det mest fornuftige valget, dersom du har en del data du skal ta backup av eller transportere. 
+S1 Mini er ikke større enn at den glir ned i de fleste lommer. 
+
+Takk til PS.no for utlånet av disken 

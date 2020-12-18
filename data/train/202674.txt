@@ -1,0 +1,120 @@
+Asus Zenbook UX32VD
+Sannsynligvis den beste ultrabooken med harddisk akkurat nå. 
+
+Det siste året har DinSide Data testet flere Ultrabooks enn noe annet datamagasin i Norge, og det er spesielt to produsenter som har imponert oss ekstra mye med sine modeller: 
+Samsung og Asus. 
+
+Mens Samsung fikk en sekser på terningen med sin nye 9-serie, var Asus farlig nær med sin Zenbook Prime UX31A. 
+Nå har vi hatt broder-modellen til sistnevnte på testbenken de siste ukene, og nok en gang har vi latt oss imponere over et godt stykke håndverk fra taiwaneserne. 
+
+Her er de viktigste egenskapene: 
+
+13,3" matt, LED-baklyst IPS-skjerm, full HD-oppløsning (1920 x 1080)Intel Core i7-3517U prosessor, 1,9 GHz 
+
+Bedre utstyrt 
+
+Det som skiller UX32VD fra UX31A er først og fremst at denne modellen har harddisk i stedet for ren SSD, dedikert grafikk, en ekstra USB 3.0-port samt HDMI-utgang som ikke krever overgang. 
+Den ene USB-porten kan brukes til å koble PC-en til kablet ethernet (maks 100 Mbit), via en medfølgende overgang. 
+
+Utseendemessig er den nesten identisk med UX31A, med sitt solide aluminiums-kabinett med sirkelformet mønster i lokket som skal symbolisere "de uendelige mulighetene som ligger i maskinen", som Asus selv har formulert det. 
+
+Men den er litt tykkere på det tynneste, og vekten er 50 gram høyere, mest sannsynlig på grunn av harddisken (som for øvrig er utskiftbar). 
+
+Fingeravtrykk vises nesten ikke, verken på inn- eller utsiden. 
+
+Designen er i våre øyne meget god, og utførelsen virker solid og gjennomtenkt. 
+Likhetstrekkene med MacBook Air er mange, ikke minst den lett skrånende designen fra siden. 
+
+Lett å bytte disk 
+
+Bunnplaten er beskyttet av en heltrukket aluminiumsplate, godt skrudd fast av 12 torx-skruer (T6): 
+
+Du må løsne dem alle for å få tilgang til innmaten, men da får du enkelt tilgang til minne- og harddisk. 
+Minnebrikken er på 2 GB, og skal kunne byttes ut med en 8 GB-brikke, slik at man får maks 10 GB. 
+Harddisken vil helt sikkert mange velge å bytte ut med en raskere SSD. 
+
+Merk også at det er en 32 GB SSD sitter fastloddet på hovedkortet. 
+Denne brukes til hurtigbufring av filer som brukes mye, og bidrar til bedre diskytelse. 
+
+For den som ikke er redd for å gjøre slike inngrep, vil de 2000 kronene du sparer ved å velge UX32VD foran UX31A, være nok til å kjøpe en SSD med minst 256 GB kapasitet. 
+
+Du kan også bytte ut WLAN-kortet, men det ser vi ikke noe poeng i. 
+Intel 6235-kortet er nemlig blant de beste to-antenne-løsningene på markedet, mener vi, med god rekkevidde og hastighet. 
+
+Her er flere bilder av innmaten: 
+
+Super skjerm 
+
+Skjermen er matt og benytter et IPS-panel med full HD-oppløsning, 1920 x 1080. 
+Bilder blir sylskarpe, tekst blir liten, men skarp, og du får plass til svært mye informasjon i skjermbildet. 
+Lysstyrken er ikke fullt så god som på Samsungs nye 9-serie, men er absolutt meget bra - blant annet med innsyn fra nesten død vinkel fra alle fire sider. 
+
+Tastaturet har fått et velkomment baklys. 
+Du kan selv velge om det skal tennes automatisk eller manuelt, og du kan også justere lysstyrken. 
+Tastaturet er ellers fast og fint, og avgir lite støy under skriving. 
+
+Pekeplaten er multifølsom, stor og har integrerte venstre- og høyreknapper. 
+Takket være oppdaterte drivere fra Asus er den langt mindre følsom enn den var på vårt testeksemplar av UX31A, og fungerer i det hele tatt fint nå. 
+
+Bra lyd 
+
+Høyttalerne er merket Bang & Olufsen ICEpower, og lyden er slett ikke verst for å komme fra en syltynn Ultrabook. 
+Den er etter vår oppfatning langt bedre enn 2.1-høyttalerne fra Beats Audio på konkurrenten HP Envy 6, som vi testet nylig, men har naturligvis sine begrensninger, spesielt på bass. 
+Greit nok til lett bakgrunnsmusikk, YouTube og nett-TV, og det er nok også hensikten. 
+
+Strømpluggen har en praktisk 90-graders knekk, noe vi liker bedre enn dem som stikker rett ut. 
+Slike er blant annet ofte mer utsatt for brudd. 
+
+Slik er den i bruk 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra McAfee (prøveversjon). 
+Denne påvirker ikke bruksopplevelsen i særlig grad, PC-en responderer kjapt i nær sagt alle situasjoner, men kommer med temmelig mange irriterende advarsler, blant annet om å aktivere og betale for å fortsatt være sikret etter prøveversjonen. 
+
+At UX32VD ikke er utstyrt med ren SSD merkes spesielt godt i oppstarten. 
+Lasting av Windows 7 tar et helt minutt, og legg til 30 sekunder før alle elementene, inkludert ASUS sin suite med miniprogrammer (gadgets), er ferdig lastet. 
+Det er ikke veldig imponerende, med tanke på at SSD-utstyrte UX31A var klar på bare 24 sekunder. 
+Men også det er dobbelt så lang tid som Samsungs 9-serie, som faktisk har tregere prosessor. 
+Litt å gå på for Asus her, med andre ord - men merk at å fjerne programmer fra oppstarten som du ikke trenger, kan bedre dette betraktelig. 
+
+Det er imidlertid viktig å poengtere at maskinen slett ikke oppleves som treg under bruk. 
+Den responderer raskt i nær sagt alle sammenhenger, og som du snart skal se er harddisken i denne maskinen av den raskere sorten. 
+
+Støynivået på maskinen er generelt lavt, men de to viftene kan spinne opp fra tid til annen. 
+De er uansett temmelig stillegående, og vi opplevde dem ikke som sjenerende under vår test. 
+Maskinen holder seg fin og kjølig selv under tyngre belastninger. 
+
+Ytelsesmålinger 
+
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen (skalaen går fra 1,0 til 7,9), og her har vi sammenlignet mot UX31A: 
+
+Vi har brukt Passmark PerformanceTest 7.0 for å gi oss litt mer kjøtt på benet hva angår hva du kan forvente av ytelsen. 
+Når det gjelder harddisken er det klart at den ligger tilbake for rene SSD-er, men over 100 MB pr sekund både på lesing og skriving, er meget bra for en mekanisk disk: 
+
+Grafikkytelsen fra Geforce GT620M-brikken er akkurat god nok til at du kan spille nyere spill med moderate innstillinger og oppløsninger. 
+Til alt annet er grafikken mer enn rask nok - inkludert video i alle oppløsninger og formater. 
+
+Prosessoren yter som forventet av en Core i7 3517U, altså helt i toppen av hva du får på Ultrabook-fronten akkurat nå, og på høyde med en bra midtskikts-modell av den mer ordinære typen: 
+
+Batteriet holdt ut i nesten 7 timer med minimal belastning av maskinvaren, og 4 timer med kontinuerlig videoavspilling (med standardinnstillinger). 
+Det er gjennomsnittlig bra for en Ultrabook, men en god del dårligere enn UX31A: 
+
+Vi antar at synderen er harddisken. 
+Bytt til SSD, og du vil sannsynligvis oppleve langt bedre batteritid. 
+
+Konklusjon 
+
+Til tross for litt ekstra vekt og tregere lagringsløsning er vi ikke i tvil om at UX32VD vil være et bedre kjøp enn UX31A for de aller fleste av oss. 
+Ikke bare fordi ytelsen ellers er omtrent identisk, du får også en ekstra USB-port, fullstørrelses HDMI-utgang og langt større lagringsplass - for rundt 2000 kroner mindre. 
+Disse kan du eventuelt bruke til å kjøpe en 256 GB SSD ved et senere tidspunkt, og du har etter vår mening en bedre maskin enn UX31A - bedre utstyrt og med dobbel så stor SSD. 
+
+Uansett: 
+UX32VD er etter vår mening den beste harddisk-baserte Ultrabooken du får kjøpt i øyeblikket, med glimrende design, flott skjerm, lav støy - alt til en bra pris. 
+Og enere kroner vi som kjent med terningkast 6. 
+Det finnes også utgaver med i5- og i3-prosessor og lavere skjermoppløsning, men disse omfattes ikke av denne testen. 
+
+Vår favoritt blant ultrabookene med ren SSD er fortsatt Samsungs nye 9-serie 
+
+Til slutt: 
+Merk plussene og minusene i boksen under, og les de andre ferske Ultrabook-testene våre før du bestemmer deg. 
+
+Asus ZenBook UX32VD-R4002V 

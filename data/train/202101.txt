@@ -1,0 +1,73 @@
+iFusion - smart dokk til iPhone
+Konseptet kan virke bakvendt, men har sine gode sider. 
+
+I dag er en stasjonær fasttelefon noe som mange bare har hørt om, eller sett hos bestemor og på teknisk museum. 
+"Telefon" er i dag bare en av app'ene på en mobil kommunikasjonsenhet som mesteparten av tiden brukes til noe helt annet. 
+
+Så hva er da vitsen med å lage en dokk-stasjon for iPhone med gammeldags telefonrør med snurreledning og det hele? 
+
+Det er faktisk ikke så dumt når det kommer til stykket. 
+
+Mer enn bare rør 
+
+iFusion ser altså ut som en fasttelefon, den er i blank sort plast (kan også fåes i hvitt) og dokken der du kan plassere iPhone befinner seg der hvor talltastaturet ville ha vært. 
+Alle iPhone-modeller fra og med 3G kan brukes. 
+
+Men du trenger ikke sette iPhonen i iFusion-dokken for at den skal fungere - snarere tvert i mot. 
+Dokken fungerer som lader og USB-viderekobling til PC/Mac for synkronisering. 
+Men all lyd går via Bluetooth A2DP (Advanced Audio Distribution Profile) og EDR (Enhanced Data Rate) 
+
+Derfor fungerer iFusion faktisk som en fasttelefon uansett hvor iPhone befinner seg, så lenge den er inne rekkevidde av Bluetooth-signalene. 
+
+Slik fungerer det 
+
+Når du slår på iFusion blinker den venstre knappen med Bluetooth-symbolet hvis iFusion ikke er i kontakt med en iPhone. 
+For å opprette kontakt går du til Innstillinger, Generelt og Bluetooth på iPhone og slår på Bluetooth hvis dette står avslått. 
+På iFusion holder du inne den blinkende knappen i 3-5 sekunder, så etableres koblingen til iPhone, på samme måte som ved bruk av Bluetooth-handsfree. 
+
+Når noen ringer vil både iPhone og iFusion ringe. 
+Du kan da ta av røret på iFusion og snakke som i en stasjonær telefon, selv om iPhone ligger i jakkelomma på jakka som henger i skapet. 
+
+Hvis du selv skal ringe til noen må du gjøre det fra iPhone, men kan når som helst ta av røret på iFusion for å snakke videre. 
+
+Du kan også bruke høyttaler-funksjonen under telefonsamtale, hvis du vil at flere skal delta eller vil ha hendene fri. 
+
+Også for musikk 
+
+Som en bonus har iFusion en stereo minijack utgang som kan kobles til musikkanlegget. 
+Da styrer du alt fra iPod-delen på iPhone, men lyden kommer ut fra anlegget. 
+
+Hvis det ringer, vil musikken dempes, akkurat som når du bruker iPhone med øreplugger eller headset. 
+
+Vår erfaring 
+
+Apparatet er svært enkelt å koble opp, strømforsyningen er ekstern og de andre tilkoblingene skjer med vanlige USB- og minijack-kabler. 
+Disse fulgte ikke med. 
+
+Utførelsen virker solid, det står stødig på bordet og røret er akkurat passe tungt i hånden. 
+
+Den blanke svarte overflaten er som vanlig en magnet på fingermerker og de synes godt. 
+
+Bluetooth-oppkoblingen gikk helt uproblematisk, og alt fungerte som beskrevet i den korte Quick Start Guiden. 
+
+Lydkvaliteten var utmerket, det er ikke tvil om at et telefonrør gir bedre ergonomi enn en liten flat mobil som skal være så portabel som mulig. 
+Også lyden i den interne høyttaleren fungerte fint til høyttalende samtaler. 
+
+Lydutgangen til musikkanlegget testet vi på to av våre musikkanlegg, og lydkvaliteten var det ikke noe å si på, verken over det store surroundanlegget eller det lille 2.1 PC lyd-anlegget fra Logitech, ingen forskjell på direkte kobling fra iPhone og via iFusion. 
+
+Som jobb-telefon 
+
+Svært mange som bruker mobil som jobb-telefon savner ergonomien til de gamle fast-telefonene. 
+Noen bruker forskjellige typer hodetelefoner, men disse kan være noe herk å ta av og på. 
+Det er enklere bare å løfte av røret. 
+
+Hvis bedriften bruker iPhone som standard mobil kan iFusion fungere praktisk talt like praktisk som den gamle fasttelefonen, samtidig som det bare er å ta tak i og ta med seg mobilen hvis man vil forlate kontorpulten. 
+
+Det finnes mange bedriftløsninger for å administrere mobiler, fra teleselskapenes egne tjenester til løsninger fra Cisco, Avaya, AltiGen osv. 
+
+Konklusjon 
+
+iFusion er et spesielt produkt, som kombinerer gamle og nye telefonkonsepter. 
+At du slipper å lete etter mobilen når det ringer og at du kan dokke, lade eller spille musikk trådløst fra iPhone via iFusion, kan være en utmerket løsning for mange. 
+
+Importør er iTing AS og Telefast og 20:20 Mobile vil distribuere iFusion i Norge. 

@@ -1,0 +1,132 @@
+TEST: HP MediaSmart Server EX490
+Hjemmeserver for deg som ikke nødvendigvis liker å bruke tid på utenomsnakk. 
+
+Finnes det noen grense for hvor mye lagringsplass vi trenger? 
+Sannsynligvis, men ingen tør komme med et konkret tall av frykt for å bli som han fyren som en gang sa at "Internett vil bli en flopp". 
+
+HPs siste skudd på stammen av media- og lagringsservere har plass til fire interne harddisker (3.5"), og kan teoretisk sett tilby hele 17TB lagringsplass. 
+Den plassen kan brukes til alt fra sikkerhetskopiering til lagring av videoer, musikk og bilder, og til å kjøre egen programvare som gir boksen utvidet funksjonalitet - omtrent slik virkeligheten er med en PC, med andre ord. 
+
+Vi sier forøvrig "teoretisk" fordi du internt i MediaSmart Server per i dag bare får plass til maks 8TB fordelt på fire harddisker - det finnes ikke større interndisker enn 2TB for øyeblikket -, og fordi du må ty til ekstern hjelp via de fire USB-utgangene og den ene eSata-porten for å nå 17 terabyte. 
+
+Dette er uansett lagringsplass nok for de fleste, i det minste for noen måneder framover, selv om den ene terabyte-disken fra Seagate som HP har forhåndsinstallert i EX490 muligens er for beskjeden begynnelse å regne for tunge brukere. 
+
+Mål og mening med EX490 
+
+Hjemmeserveren byr ihvertfall på plassbesparende lagring. 
+Til tross for at den kan holde fire interne harddisker i vanlig størrelse, er ikke MediaSmart Server spesielt stor. 
+Hadde du drevet modellbyrå ville EX490 oppgitt de strategiske målene 140 x 251 x 248 millimeter, og en brutto matchvekt på fem kilo. 
+Det er slettes ikke ille for en såpass voksen server. 
+
+EX490 støtter kun kablet nettverkstilkobling, i form av en gigabits Ethernet-forbindelse. 
+Den støtter såkalt "Wake-on LAN", som gjør at du kan vekke opp serveren fra lokalnettet ditt fra en hvilken som helst maskin koblet til nettet. 
+
+Du kan også administrere hele maskinen fra hvor som helst i verden, alt du behøver vite er din egen IP-adresse, i tillegg til at du må åpne eventuelle stengte porter i ruteren. 
+
+På innsiden finner du dessuten en 64-bits Intel Celeron-prosessor på 2.2GHz, og 2GB internminne. 
+Det er kraftig nok til å kunne utføre de fleste grunnleggende serverfunksjoner uten å hikke. 
+Høy prosessorhastighet pleier bety høy varme, og derfor har - dessverre - EX490 to vifter. 
+
+Susingen er likevel ikke noe som fører til søvnløse netter eller irriterende filmkvelder, og plassert i en skjenk med glassdører og åpen bakside, hørte ikke jeg noe særlig til serveren uten å anstrenge de mest nedslitte ørehårene. 
+
+I motsetning til en del andre NAS og hjemmeserverløsninger, kjører ikke EX490 noen Linux-løsning. 
+Den benytter Windows Home Server-applikasjonen fra Microsoft, en Windows-vennlig servertjeneste laget spesielt med tanke på deling av digitale medier som filmer, bilder og musikk, i tillegg til å tilby blant annet automatiserte backup-tjenester. 
+
+Hjemmeserver fra Microsoft 
+
+Windows Home Server, fra nå av forkortet til WHS, er derimot ikke et eksklusivt Windows-produkt, og kan, med noen forbehold, også brukes fra Mac. 
+Du kan for eksempel ikke foreta den første installasjonen av WHS fra en Mac, og en del av funksjonaliteten legges i hendene på den i familien som sitter med PC-en - eller som kjører Windows via Mac. 
+Backup-funksjonen fungerer for eksempel fint, mens web-grensesnittet du får opp når du skriver inn nettadressen til EX490 i Mac-nettleseren er så å si ubrukelig. 
+
+Et Mac-kontrollpanel lar deg styre sikkerhetskopieringen, som dessuten er kompatibel med Apples back-up-løsning, Time Machine. 
+Bruker du Remote Desktop Connection kan du gå enda mer detaljert til verks. 
+
+Den minst knirkefrie opplevelsen får du nok likevel på en Windows-basert PC, ikke helt uventet siden det er Microsoft som er ansvarlig for WHS. 
+
+Installasjon av ekstradisker er så lettvint at HP bør være et forbilde andre kan strekke seg etter, men installasjonen av HP MediaSmart Server gikk ikke fullt så smertefritt. 
+Den ble først avbrutt før den var helt ferdig, men etter noen forvirrende øyeblikk med motstridende beskjeder (ja, ting gikk bra, nei, ting gikk ikke helt etter planen), var vi endelig oppe og gikk. 
+
+Vanlig bruk 
+
+Har du en PC, og WHS er installert, styres altså medieserveren enklest fra nettleseren. 
+Der kan du gjøre alt fra å administrere brukerkontoer, sette i gang backup, spille av videoer, musikk og bilder, og flytte, slette og kopiere filer. 
+
+Du kan naturligvis også få tilgang til innholdet på harddiskene via den såkalte smb-protokollen, slik at de dukker opp som vanlig nettverksvolum på PCen eller Macen. 
+
+Generelt sett er brukergrensesnittet pent, ryddig og intuitivt, spesielt når det kommer til den delen av serverprogramvaren som folk flest (les: resten av familien) skal bruke. 
+Administrasjon er alltid litt mer detaljert enn presentasjon, men følger du manualen bør du enkelt klare å få opprettet noen brukerkontoer, satt i gang sikkerhetskopiering og vist fram feriebildene fra forrige sommer. 
+
+Med fire interndisker hadde du kanskje forventet såkalt RAID-funksjonalitet, men MediaSmart Server er nok ikke først og fremst rettet mot den avanserte databruker, og har derfor heller ikke dette innebygd. 
+Den har derimot et alternativ. 
+
+Windows Home Server bruker en metode kalt "mappe-duplisering" for å sikre data. 
+Det betyr rett og slett at alle delte mapper på EX490 automatisk sprer filer som legges i disse mappene over to disker. 
+
+Hastigheten på EX490 er naturlig nok avhengig av hvordan du har koblet opp nettverket, og hvilken type ruter du bruker. 
+Vårt oppsett besto av EX490, en gigabit ruter og en Mac koblet trådløst til ruteren (802/11n hvis du måte vite det), og en fil på 1.75GB tok fire minutter og 28 sekunder å overføre fra Macen til serveren. 
+Andre veien tok samme fil fem minutter og fem sekunder å kopiere. 
+
+Det gir en snitthastighet på drøye 7MB per sekund til serveren, mens det fra serveren går litt langsommere med rundt 5.8MB per sekund. 
+Det er litt tregere hastigheter enn vi har målt med for eksempel denne nettverksdisken, men dramatiske forskjeller er det for så vidt ikke. 
+
+Det gir derimot grobunn for ettertanke, som de ofte sier på NRK P1s formiddagsprogrammer, ettersom en hastighet på 420MB per minutt betyr at det vil ta deg rundt 20 timer å sikkerhetskopiere 500 gigabyte. 
+Det er langt fra ille sammenliknet med for eksempel nettverksbackup, men hvis du sitter med en USB 2.0-disk, eller, enda bedre FireWire 800-disker, er hastigheten svært beskjeden. 
+
+Kobler du derimot begge ledd til ruteren via Ethernet, vil Gigabit-forbindelsen naturligvis sørge for at du får hastigheter som er raskere enn det en USB 2.0-disk klarer. 
+
+Ikke spesielt medievant 
+
+EX490 er ingen mediespiller. 
+Det er det greit å ha vite hvis du for eksempel ønsker å koble den til TVen. 
+Her finnes ingen andre tilkoblingspunkter enn USB og eSata, og ønsker du å se videofilene eller lytte til mp3-filene du har liggende på serveren, må du gjøre det via en annen boks (for eksempel utmerkede WD TV Live). 
+
+Formatstøtten er heller ikke spesielt bra, spesielt ikke sammenliknet med mange nyere mediespillere. 
+Benytter du deg av web-grensesnittet må videoer som ikke støttes av WHS først konverteres til et mer akseptabelt format, noe som tar tid. 
+Du kan selvfølgelig behandle EX490 som en nettverksdisk, og deretter bruke et videoavspillingsprogram som VLC til å spille av filene direkte fra serveren. 
+For mange vil det kanskje være det enkleste. 
+
+Bruker du PC, kan du ved installasjon også kjøre HPs "Media Collector", et program som, under bestemte forutsetninger, scanner PCen på jakt etter mediefiler. 
+Også her gjelder samme regelen: 
+Er ikke formatene akseptable, blir de lagt i konverteringskø. 
+Ettersom EX490 har en 2.2GHz-prosessor tar ikke konverteringen spesielt lang tid, men ikke forvent umiddelbar tilgang til de nye, konverterte filene. 
+
+Verre er det kanskje at det finnes formater WHS rett og slett ikke vet hva den skal gjøre med. 
+Det såkalte "matroska"-videoformatet (.mkv) vil ikke konverteres, det vil heller ikke DVDer lagt over i ISO-format. 
+
+Når først filmene er konvertert vil iPhone-eiere få mye glede av de ferdige filene. 
+En gratisapplikasjon i App 
+Store gjør at du kan streame filmer og musikk rett til mobilen. 
+
+Det er også mulig å streame filmer via streamingprogramvaren Twonkymedia, så sant du har en klient som støtter UPnP. 
+Vi beklager alle bokstavene og forkortelsene, men det er en nå en gang ståa i medieserveruniverset. 
+
+Tilleggsfunksjoner 
+
+Hjernen i EX490 er som vi allerede har nevnt en relativt kraftig 2.2GHz-prosessor, og det gir MediaSmart Server muligheten til å utføre en rekke ekstrajobber som mange andre nettverksdisker ikke uten videre orker å ta seg av. 
+
+Én av dem er å installere Squeezebox Server, programmet som håndterer musikkavspilling via den populære Squeezebox-serien. 
+Musikkserveren kommer nå også i WHS-installasjon, og selv om installasjonsprosessen nok vil føles ørlite fremmed for den tilfeldige bruker, tok det ikke lang tid før serveren var på plass. 
+
+Slike "add-ins", som er det offisielle navnet på WHS-tillegg, finnes det mange av. 
+På denne siden finner du de mest populære tilleggene akkurat nå, og med noen få tasteklikk kan du for eksempel gi MediaSmart Server evnen til å sovne og våkne på svært spesifikke tidspunkt, vekke eller sette i dvale maskiner som måtte befinne seg på samme lokalnettverket som EX490, laste ned torrent-filer, eller opprette og/eller administrere nettsteder som kjøres fra HPs mediaserver. 
+
+Vær dog oppmerksom på at en del av disse tilleggene ikke er gratis - noen av dem koster faktisk mer enn tusenlappen -, så du behøver ikke ta bølgen for tidlig hvis du, pengelens, plutselig kommer over et tillegg du så gjerne skulle hatt. 
+
+Konklusjon 
+
+EX490 gir flere gode grunner til å smile, selv om vi allerede har rynket litt på nesen over videoformatstøtten. 
+Den største rynken får vi likevel av prisen. 
+
+Selv om den inkluderer en harddisk på 1TB, er 4995 kroner for det som i hovedsak markedsføres som en kombinert backup og mediefil-løsning mye penger for en vanlig bruker - i den grad en slik bruker faktisk finnes. 
+
+Mange vil nok begynne å sjekke PC-prisene når vi er halvveis til 10.000 kroner, og det er forståelig. 
+Andre vil begynne å regne på at dette bare er begynnelsen, og at de må ut med 6-700 kroner per disk med 1TB som de eventuelt vil utvide kapasiteten med. 
+
+Det er med andre ord ikke kvaliteten på produktet som er utfordringen her, den har vi egentlig lite å utsette på. 
+Hvor den skal plassere seg i landskapet mellom NAS og PC er det verre å avgjøre. 
+
+På den annen side så begynner prisene for NAS-disker med fire diskplasser på rundt 3500 kroner, og da får du ikke med harddisk på kjøpet slik du gjør her. 
+Slike disker har heller ikke så kraftige. 
+
+Kjøper du EX490 gjør du uansett ikke noe dårlig kjøp, og du vet selv hvilke lagringsbehov du har. 
+Avgjørelsen er med andre ord din. 

@@ -1,0 +1,121 @@
+TEST:Samsung Wave S8500 
+
+Samsungs Wave er vårt første møte med det nye operativsystemet Bada. 
+Sa det bada bing? 
+
+Det er nesten som om Samsung trygler oss om å ta bølgen når de lanserer en mobiltelefon med kallenavnet Wave. 
+Ikke bare er dette den første smartmobilen noensinne med det nye Bada-operativsystemet, det er også Samsungs andre toppmodell i smartklassen på kort tid. 
+
+Samsung er ikke ukjent med egenutviklede operativsystem, det har de holdt på med en stund. 
+Forskjellen er at de nå har utviklet en pakke som skal kunne holde tritt med både Googles Android og Apples såkalte iOS, og med Bada har de langt på vei fått på plass grunntrekkene som kan gjøre dette til en smartmobil å regne med. 
+
+Fra Android til Bada 
+
+Android-brukere vil føle seg mest hjemme i Bada-miljøet, men ingen som har brukt mer enn fem minutter sammen med en hvilken som helst smartmobil uten fysisk tastatur anno 2010 vil føle seg fremmedgjort. 
+Her er det såkalte widgeter, eller småprogrammer, som dominerer de mange hjemmeskjermene du har tilgjengelig, mens applikasjonene har fått en egen side som er et enkelt knappetrykk unna. 
+
+Etter suksessen med Apples App Store for iPhone er det ingen som tør slippe en smartmobil fra seg uten en eller annen form for applikasjonsbutikk, ei heller Samsung. 
+"Samsung Apps" er det saklige navnet på sjappa, som foreløpig ikke er større enn en søndagsåpen innvandrerbutikk på hjørnet. 
+På samme måte som det ikke er mulig å få tak i betal-applikasjoner på Android Market, får du heller ikke lov til å bruke pengene dine i Samsungs app-butikk. 
+"Tjenesten vil bli tilgjengelig snart" er beskjeden du blir møtt med, og vi håper "snart" faktisk betyr snart i dette tilfellet. 
+
+Akkurat nå er nemlig utvalget applikasjoner like beskjedent som mengden skiutstyr i norske sportsbutikker på sommeren. 
+Vi teller blant annet 85 gratisspill, og 102 applikasjoner innenfor kategorien underholdning, så her har Samsung en jobb å gjøre med å fylle lokalene med innhold. 
+
+Litt teknisk 
+
+Utseendemessig er Samsung Wave en liten lekkerbisken. 
+Byggekvaliteten er utmerket, designet innbydende, og til tross for at den er slank (1.1 centimeter) ligger den godt i hånda. 
+
+Tre knapper nederst på framsida tar seg av navigeringen som ikke foregår via den 3.3 tommer store, trykkfølsomme skjermen. 
+Vanlig hodetelefonutgang har den også, i tillegg til micro-USB-plugg, låseknapp, og kamerautløser. 
+
+Skjermen er verdt et ekstra avsnitt. 
+Den er rett og slett strålende. 
+En oppløsning på 480 x 800 piksler fordelt på en såpass liten flate lar høre fra seg, og umiddelbart er det ikke enkelt å se forskjell på denne skjermen og Apples etterhvert mye omtalte "retina-skjerm" på iPhone 4. 
+Til forskjell fra sistnevnte er fargemetningen på Samsungs Super AMOLED-skjerm dratt så langt at det sannsynligvis finnes purister som kunne tenke seg å anmelde Samsung for brudd på RGB-plakaten. 
+
+Ikonene og grensesnittet som sådan er også innbydende, og Wave leverer i det hele tatt et førsteinntrykk som risikerer å nå både blikket og lommeboka til potensielle kjøpere uten å møte særlig motstand. 
+
+Men holder det helt til mål? 
+
+Navigasjon og nettlesing 
+
+Det burde være en selvfølge at alle smartmobiler og andre elektroniske smartprodukter nå kommer med såkalt berøringsfølsomme skjermer, og ikke med den gammeldagse og heller plagsomme trykkfølsomme teknologien. 
+Samsung har ikke falt for fristelsen til gå for sistnevnte, og skjermen gjør en fin jobb med å formidle tastetrykk og berøring generelt. 
+
+Vi har sett at testskriving ikke alltid fungerer optimalt - blant annet så kan du ikke uten videre holde så høyt tempo du vil når du skriver tekstmeldinger med stavekontrollen aktivert, facebookoppdateringer eller eposter, fordi Wave rett og slett ikke klarer holde følge -, men det er ikke noe kjempeproblem. 
+Menyskifter, bla-bevegelser og det meste annet registreres uten særlige forsinkelser. 
+
+Nettleseren er vi sånn passe fornøyd med, blant annet fordi den ikke alltid klarer formatere artikler eller nettsider riktig ved zooming. 
+Dobbeltklikker du på enkelte elementer, for eksempel en artikkel som er zoomet for langt ut, er tanken at du teksten skal gjøres maksimalt stor i forhold til skjermstørrelsen. 
+Slik er det ikke alltid. 
+Av og til glir den utover margene, og da er den uleselig. 
+
+Nettleser i miniatyr 
+
+Nettsider som ikke er laget spesielt for mobiltelefoner ender dessuten opp med å bli nesten uleselige, fordi skriftstørrelsen er altfor liten. 
+Vi har snudd hver en stein på jakt etter en måte å øke tegnstørrelsen på, men har ikke lykkes. 
+
+Mer alvorlig er det at enkelte sider har vært nærmest umulig å laste inn, inkludert en viss side som før i tiden gikk under navnet Verdens Gang. 
+Der blir vi stadig vekk avvist med feilmelding om at siden ikke kan omdirigeres, og da vi skulle ta turen innom Operas sider for Mini-nettleseren ville heller ikke sidene lastes ("Får ikke svar"). 
+Begge sidene har fungert utmerket på andre mobiler i samme tidsrom. 
+
+Slike feil skal simpelthen ikke eksistere på en smartmobil, eller, for den saks skyld, en hvilken som helst annen mobil med nettleser. 
+Nettleseren støtter forøvrig ikke Flash, men dette er ikke aktivert som standard. 
+
+Samtalekvaliteten er bra, selv om vi merket oss litt bakgrunnstøy i form av sus både før samtalen ble opprettet, og underveis. 
+Ikke i nærheten av å være plagsomt, men vi er etterhvert blitt bortskjemt med nesten støyfrie forbindelser og stusser derfor over støyen. 
+
+Batteritiden er midt på treet, uten at det sjenerer de som allerede er vant med å lade smartmobilen sin hver dag. 
+
+Kamera og video 
+
+Det innebygde Wave-kamera har imponerende mange justeringsmuligheter, og tangerer deler av kompaktkameramarkedet ha antall parameter angår. 
+Du har blant annet tre fokuseringsmoduser (autofokus, makro og ansiktsgjenkjenning), selvutløser, fire hvitbalansealternativ, manuell ISO, og tre lysmålerinnstillinger (matrise, sentrert og spot). 
+
+Sammenliknet med for eksempel iPhone 4s svært beskjedne innstillingsmuligheter er dette for et lite mekka å regne for de som liker å skru. 
+
+Bildekvaliteten overgår derimot ikke iPhone 4, men stiller omtrent på samme nivå. 
+Fargemetningen er ikke like framtredende, men hovedregelen er veldig bra bilder utendørs, og bra og, relativt sett, støysvake bilder innendørs. 
+
+Videodelen har naturlig nok litt færre innstillinger, men kvaliteten er ikke helt på høyde med iPhone 4. 
+Bieffekten av videokomprimeringen er blant annet tydeligere, og fargene litt blassere, men med HD-oppløsning (720p) er sluttresultatet langt over gjennomsnittet for mobilvideo. 
+
+Du kan se bilder tatt med kameraet til Wave her: 1, 2, 3, 4 og 5. 
+
+Video med HD-oppløsning kan du laste ned her (70MB) 
+
+Bilder av operativsystemet Bada: 
+(Artikkelen fortsetter under bildespesialen!) 
+
+Musikk- og videohåndtering 
+
+På multimediesiden har Samsung klart å fullføre de elegante løsningene en finner ellers i Bada. 
+Musikkspilleren er både lekker og funksjonell, og med støtte for blant annet 5.1-lyd vil selv de mest hardbarka lydnerdene finne et hjem for lydfilene sine. 
+Lydkvaliteten har vi heller ingenting å utsette på. 
+
+Videoavspilling ser også særdeles bra ut, og vi liker godt måten Samsung har løst eventuelt avspillingskonflikter på. 
+Spiller du for eksempel musikk før du setter igang videoen, tones simpelthen musikken ut, før videoen begynner å spille. 
+Idet du stopper videoen, tones musikken langsomt inn igjen. 
+
+Formatstøtten er intet mindre enn imponerende. 
+Avhengig av oppløsning og bitrate kan du spille av alt fra xvid og divx til mkv og mp4. 
+
+Konklusjon 
+
+Vi vaklet veldig mellom firer og en femmer for Samsung Wave, men endte til slutt på den svakeste terningen av de to. 
+Det skyldes først og fremst surfeproblemene, og at utvalget applikasjoner i Samsung Apps-butikken er svært beskjedent. 
+Det betyr naturligvis ikke at det ikke kan ta seg opp, men vi tror for det første at avstanden opp til både App Store fra Apple og Android Market allerede er så markant at det må et lite under til for å ta igjen de to markedslederne. 
+
+For det andre har Samsung allerede laget en dønn solid Android-mobil, nemlig Galaxy S, og i det perspektivet er det litt vanskelig å vite hvor vi skal plassere Wave. 
+Dette er nemlig en bra mobil, og en solid debut for et helt nytt operativsystem, men noen små skavanker og en intern konkurrent i form av allerede nevnte Galaxy gjør at den faller mellom et par stoler. 
+
+Når det er sagt: 
+Både skjermen, hastigheten og, ikke minst, prisen er tre elementer som taler til Waves fordel. 
+Den er rundt 1400 kroner rimeligere Galaxy S, en betydelig sum hvis du ikke har tenkt å bruke like mye penger på mobilen som mange gjør på laptopen. 
+
+På den annen side så koster en av våre andre Android-favoritter, HTC Desire, bare 600 kroner mer, selv om du må ta til takke med blant annet et dårligere kamera og skjerm. 
+
+Hvis du ikke har noe brennende ønske om å kaste deg på Android eller iOS-bølgen er dette uansett et veldig fint sted å begynne utforskingen av alternative operativsystem. 
+Ordner Samsung nettleseren er dette en veldig bra pakke. 

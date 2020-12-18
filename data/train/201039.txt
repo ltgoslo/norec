@@ -1,0 +1,151 @@
+Microsoft Surface Pro
+Kanskje det nærmeste du kommer det beste fra to verdener akkurat nå. 
+
+Det tok sin tid, men i dag, 30. mai 2013 er endelig Microsoft Surface Pro tilgjengelig i norske butikker. 
+Det er snart et helt år siden den ble vist fram for første gang, og et halvt år siden den ble tilgjengelig i blant annet USA. 
+
+Hva er det egentlig? 
+
+Vi snakker her om et nettbrett med full PC-funksjonalitet. 
+Det betyr i praksis at brettet har en vanlig PC-prosessor (Intel Core i5-3317U), full HD-skjerm, 4 GB minne, SSD på 64 eller 128 GB, Windows 8 Pro, og kan kjøre alle de vanlige PC-programmene dine. 
+Når brettet kneppes i det medfølgende tastaturet, forvandles Surface Pro i praksis til en fullverdig PC. 
+
+Og vi kan like godt røpe det med det samme: 
+Surface Pro er kanskje mer en PC enn et nettbrett, og det er på det området den imponerer oss mest. 
+For noen kompromissløs løsning er dette ikke, selv om gjennomføringen er blant de bedre vi har sett så langt. 
+
+Lillebror Surface RT, som har vært på det norske markedet siden i vinter, kan kun kjøre programmer (apper) som er laget for Windows 8 eller nyere. 
+Lillebroren er altså langt enklere maskinvaremessig, noe du kan lese mer i vår grundige test fra februar. 
+
+Før vi går videre skal vi ta en kjapp titt på de viktigste tekniske egenskapene: 
+
+Skjerm: 10,6" blank, multiberøringsfølsom IPS, 1920 x 1080 piksler Prosessor: 
+Intel Core i5-3317U RAM: 
+4 GB Grafikkort: 
+Intel HD 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: mini-Displayport USB-porter: 1 stk USB 3.0 Kamera: 
+2 x 1,2 megapiksler (foran/bak) Kortleser: MicroSD, SDHC, SDXC Trådløst nett: b/g/n Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0, leveres med penn, USB-ladeport på strømforsyningen OS: 
+Windows 8 Professional 64 bit Størrelse: 
+275 × 172 × 14 mm Vekt: 907 gram Flere detaljer. 
+Pris: 
+7.490 kroner (jf Prisjakt 29.5.2013) 
+
+Antall tilkoblingspunkter er begrenset. 
+Her har hybrider som for eksempel Lenovo Yoga og Dell XPS 12 Duo mer å by på. 
+Den store fordelen med Surface Pro i forhold til disse blir uansett vekten. 
+907 gram er ekstremt lett for et produkt som i praksis kan brukes som en hvilken som helst PC - bare 250 gram tyngre enn en vanlig iPad. 
+
+Slik er den utformet 
+
+Med en tykkelse på 1,4 cm er den imidlertid tjukk i forhold til iPad, men tynn i forhold til de fleste PC-er. 
+
+Baksiden består av metall, fronten er dekket av knallhardt og ripefritt gorillaglass. 
+
+Det er absolutt ingenting å utsette på kvalitetsfølelsen. 
+
+Skjermen er nesten en tomme større enn på iPad, i praksis er den noe bredere men smalere (16:9-format). 
+Kvaliteten er også her meget høy. 
+Full HD-oppløsning og god lysstyrke sørger for upåklagelig skarphet og lesbarhet, og skjermen kan dessuten betraktes fra nesten død vinkel - fra alle sider. 
+Berøringsfølsomheten er også meget god, og støtter inntil 10 samtidige berøringer. 
+Det følger med en penn for signaturer og presisjonsarbeid. 
+
+Ikke mulig å vinkle 
+
+Nedre del av bakplaten kan vippes ut, og fungerer som støtte for brettet, både når det står frittstående eller er koblet til det tynne tastaturet. 
+
+Det fungerer bra når Surface står på et stødig underlag, men fungerer ikke i fanget. 
+Merk også at vinkelen er fast - i motsetning til de fleste PC-er, som har skjermer som kan vippes opp og ned etter eget ønske. 
+Gjenskinn kan derfor være et problem når det brukes sammen med tastaturet. 
+Dette er altså kompromisser du må leve med som eier av Surface Pro. 
+
+Tastaturet kneppes utrolig lett på brettet takket være magnet i kontakten. 
+Det smetter på plass bare kontaktene kommer i nærheten av hverandre. 
+Liker! 
+
+Magneten er så sterk at det aldri er snakk om at den løsner med mindre du bruker litt makt. 
+Det samme gjelder strømpluggen, en løsning Mac-maskiner har hatt lenge, og som vi liker svært godt. 
+Snubler man for eksempel i kabelen er sjansen for ledningsbrudd eller annen skade minimal i forhold til kontakter som stikkes inn i PC-en. 
+
+Overraskende bra tastatur 
+
+Tastaturet fungerer også som et deksel til brettet, kvaliteten er overraskende bra med tanke på den syltynne utformingen, og noe helt annet enn tastaturet på RT-utgaven av Surface. 
+Dette tastaturet er fast, responsivt, støyer lite og krever rett og slett ingen tilvenning. 
+Tastene har stort sett full størrelse, det er bare enkelte spesialtaster vi savner, kanskje først og fremst printscreen-tasten. 
+
+Pekeplaten er litt smal og har integrerte felt for venstre/høyreklikk. 
+Det hadde vært optimalt med større flate, men den fungerer helt greit - som alternativ til å peke rett på skjermen. 
+
+Slik er Surface Pro i bruk 
+
+Brettet er utstyrt med en vifte, men er stort sett helt tyst. 
+Kun når det utsettes for belastning over tid vil du høre viften. 
+Men merk at baksiden kan bli ganske varm, varmere enn hva vi er vant med fra rene nettbrett, og også varmere enn hva som er vanlig på ultrabooks i samme prisklasse. 
+
+Vår brukeropplevelse er uansett generelt god. 
+En av tingene vi virkelig liker er at Surface Pro er fritt for "crapware", altså prøveversjoner som i praksis er ren reklame. 
+Mange har en stygg tendens til å komme med varsler om registrering i tide og utide, overlappe funksjonalitet som allerede ligger i operativsystemet, bremse ytelsen og på andre måter bidra negativt til totalopplevelsen. 
+Alt dette slipper du på Surface Pro. 
+Her får du Windows 8 Pro i sin reneste form, og alt flyter pent og smidig. 
+
+Den innebygde høyttaleren byr ikke på særlig dybde eller bass, men fungerer greit til tale, radio og lignende. 
+
+Kameraet fungerer greit til Skype og videokonferanser, men tar ellers bilder av relativt beskjeden kvalitet. 
+
+Her er to bildeeksempler, førstnevnte er tatt med frontkameraet, det andre er tatt med hovedkameraet. 
+Kvaliteten er like svak på begge. 
+
+Ytelsesmålinger 
+
+Ytelsen er helt på nivå med ultrabooks (tynne, lette bærbare) i samme prisklasse, og Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,9 Minne: 5,9 Grafikk: 
+5,6 Spillgrafikk: 
+6,4 Primær harddisk: 
+8,1 
+
+Vi brukte også Passmark PerformanceTest 8.0 til mer inngående ytelstester: 
+
+Prosessor og 3D-grafikk: 3547/345 poeng. 
+Dette er tall som er sammenlignbare for "gjennomsnitts"-ultrabooken. 
+I praksis betyr det god PC-ytelse til det aller, aller meste - også fleroppgavekjøring og spill hvis de ikke er veldig avanserte. 
+Alt av 2D-oppgaver flyter alltid lett og greit, inkludert ALT av video i alle oppløsninger inkludert full HD. 
+
+SSD Lesehastighet 311 MB pr sekund, skrivehastighet 250 MB pr sekund. 
+Dette er relativt gode tall, flere ganger raskere enn en typisk harddisk for bærbare PC-er, noe som bidrar til at Surface Pro oppleves som rask i de aller, aller fleste situasjoner. 
+
+Batteritid 
+Med minimal belastning, bare tilkoblet trådløst nett, holdt batteriet ut i 333 minutter før brettet skrudde seg av. 
+Det er litt over 5,5 timer. 
+Microsoft anslår 6 timer med variert bruk, vi heller mer mot 5 timer. 
+Det er forsåvidt greit, med tanke på at dette i praksis er en PC på beskjedne 907 gram. 
+Men samtidig innrømmer vi at vi umiddelbart begynner å tenke "Haswell", neste generasjon Intel-prosessorer som lanseres i neste uke. 
+Disse skal bruke vesentlig mindre strøm enn dagens prosessorer, noe som garantert vil komme neste generasjon Surface pro til gode. 
+For det er bare å innse at Surface Pro er sjanseløst hvis vi skal sammenligne batteritiden mot for eksempel iPad - som byr på opp mot dobbel batteritid. 
+
+Konklusjon 
+
+Surface Pro er langt fra perfekt, men er kanskje det nærmeste vi har vært det beste fra to verdener så langt. 
+Mest imponert er vi over at dette i praksis er en fullblods PC med god ytelse i svært kompakt innpakning. 
+Skjerm og byggekvalitet er også upåklagelig. 
+Mest negativt er at skjermen kun har én fast vinkel når du jobber med det eksterne tastaturet, samt at utvalget av tilkoblingspunkter er noe beskjedent - sett i forhold til andre hybridløsninger vi har sett på. 
+Kamerakvaliteten er under pari, men det tror vi skremmer færre. 
+
+Vi lander til slutt på en svak femmer på terningen, men hadde det gått an å gi delte karakterer hadde vi havnet på 4 1/2 
+
+Vi legger uansett ikke skjul på at vi sitter igjen med en liten "førstegenerasjon-følelse", kanskje først og fremst med tanke på batteritid, men også varmeutvikling, tykkelse og vekt. 
+Sånn sett er det litt underlig at Surface kom til landet bare dager før Intel slipper en ny prosessor-generasjon som er langt mer batterigjerrig enn forgjengeren. 
+Det er med andre ord duket for kjøligere, tynnere og lettere hybride nettbrett/PC-er i tiden som kommer - og som sannsynligvis også kommer til å bli en god del billigere. 
+
+Så spørs det da - hvor lang tid det vil gå før en ny generasjon Surface Pro kommer på markedet. 
+Vi tror neppe det skjer så mye før vi nærmer oss jul, men konkurrentene vil helt sikkert være på banen lenge før det. 
+
+OBS! 
+Om du ikke vil vente på neste generasjon, og bestemmer deg for å gå for Surface Pro nå, bør du velge 128 GB-utgaven. 
+64 GB-utgaven koster noen hundrelapper mindre, men har liten tilgjengelig lagringsplass takket være at operativsystemet beslaglegger en stor del av kapasiteten. 
+
+Her finner du våre: siste PC-tester og ferske nettbrett-tester 
+
+Microsoft Surface Pro 128GB 

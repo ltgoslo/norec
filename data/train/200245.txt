@@ -1,0 +1,102 @@
+Sony Vaio L
+Skjerm med innebygd PC - det er en Sony denne gangen. 
+
+Når man har pakket den opp og satt den på bordet er det en viss annen maskin man lett får i tankene, konseptet er det samme. 
+Men den ligner jo egentlig ikke på en Apple iMac, den ligner mer på en typisk bredskjerm, som har est litt ut. 
+
+Når man så slår den på og det kommer bilde på skjermen registrerer man at det er ganske mye kant rundt selve skjermbildet. 
+Det er både selve rammen og en ekstra "passepartout" før man kommer til skjermbildet. 
+Men i motsetning til iMac er Sony sin variant lik rundt hele, det er ikke noe ekstra hakeparti på undersiden av selve skjermen. 
+
+Foten er meget solid, i massivt metall og hele utførelsen matcher. 
+Det er mye blanke flater så fingermerkene er på plass med det samme du har fått pakket den opp, plassert den og koblet til strøm og eventuelt nettverk. 
+
+Strømforsyningen er dessverre ikke integrert i skjermen, den er derimot en diger ekstern klump midt på kabelen mellom kontakt og maskin. 
+En fordel er det likevel, det blir mindre varmeutvikling i selve maskinen og dermed mindre viftestøy. 
+
+Fullstendige spesifikasjoner finner du hos Sony. 
+
+Tilkobling og betjening 
+
+På baksiden innenfor en åpning i foten kobler man til strømforsyningen. 
+Ved siden av foten er det to HDMI-kontakter - en inngang og en utgang. 
+Ved siden av disse er det phono-kontakter for analog kompositt video og stereo lyd. 
+
+Bortenfor er det en brønn med tre USB-kontakter. 
+
+På venstre side (sett forfra) finner vi øverst en Magic Gate kortplass for flere typer minnekort, to USB 3.0-kontakter, en S400/FireWire/iLink (kjært barn har mange navn), uttak for hodetelefoner og mifrofoninngang. 
+
+På høyre side er det Blu-ray spiller, volumkontroll med +/- vippeknapp, menyknapp, opp/ned piltaster og input/ok velger. 
+Helt nederst finner vi en knapp for display off. 
+
+På toppen finner vi av/på for WEB og av/på for selve PC-en. 
+
+Det følger også med tastatur og mus som matcher designet. 
+Begge kobles til med Bluetooth. 
+Og så følger det med et par 3D-briller. 
+
+3D og berøringsskjerm 
+
+Vaio L er også utstyrt med støtte for 3D og har berøringsfølsom skjerm. 
+3D-støtten aktiveres med en egen knapp nede til høyre på skjermen. 
+
+3D-støtten har fått en egen meny, som omfatter 3D-filmer på Blu-ray, filer i 3D, ekte 3D still-bilder og simulert 3D. 
+Hardcore 3D-gaming, som forutsetter en mye heftigere grafikkprosessor - eller to - faller vel utenfor målgruppen for denne skjermen, men enklere spill støttes også. 
+
+Berøringsfølsomheten gjør at du kan erstatte muspekeren direkte med fingertuppen. 
+I tillegg kan du utføre forskjellige gester og få fram forskjellige verktøy ved å berøre feltet mellom rammen ogskjermbildet. 
+Der har vi med andre ord grunnen til denne delen av designet. 
+
+En oversikt over alle berøringsegenskapene dukker opp når man trykker en egen knapp nede til høyre på skjermfronten. 
+
+I bruk 
+
+Maskinen gir umiddelbart en positiv opplevelse. 
+Den er rimelig kjapp, takket være gode basiskomponenter. 
+Tastatur og mus kobler seg til uten ventetid og skjermen har god kvalitet. 
+
+Men det som gjør denne maskinen til noe ekstra - hva med det? 
+
+Når det gjelder berøringsskjerm, så mener vi at dette rett og slett ikke har noe for seg på en vanlig PC hvor skjermflaten står vertikalt på et stativ. 
+Det er rett og slett mer tungvint å løfte hånden og peke enn å styre en muspeker med musa. 
+Dessuten er det ikke god ergonomi. 
+
+Berøringsskjerm fungerer når det ikke er noen annen løsning for hånden, bokstavelig talt, som på nettbrett. 
+Og da må alt legges til rette for denne bruken, ikke være tilrettelagt for mus og tastatur. 
+
+Så selv om berøringsoppsettet i og for seg fungerer helt fint, er det en løsning på et ikke-problem, mener vi. 
+
+3D er veldig i vinden, men juryen er fremdeles ute når det gjelder gleden ved dette. 
+Det er ikke helt uten anstrengelser for brukerne å ta på seg brillene og stille seg selv inn i 3D-tittemodus. 
+Balansen mellom den ekstra opplevelsen godt utført 3D kan gi og ubehaget hos brukeren er enda ikke funnet, og bare det i seg selv er en del av problemet. 
+
+Men Blu-ray 3D-avspilling fungerte helt utmerket på skjermen, og du kan også koble til en ekstern TV som støtter 3D over HDMI. 
+Men vanlig SPDIF digital lydutgang finner vi ikke. 
+Skal du koble til et surroundanlegg må det skje via HDMI eller S-utgangen (FireWire) til et Sony-system. 
+
+Enkle 3D-spill kan også tenkes å være underholdende i blant, men her møter vi på de sammen utfordringene som med film. 
+
+All annen 3D-bruk, for stillbilder og simulert 3D blir en "morsom" effekt som vi har liten tro på kommer til å være i daglig bruk etter første uka. 
+
+Ytelse 
+
+Den målte ytelsen i våre standard testprogrammer er som forventet ut fra nøkkelkomponentene. 
+Hadde maskinen vært utstyrt med SSD eller SSD som cache hadde ytelsestallene og brukeropplevelsen fått et solid løft. 
+
+Støynivået var stort sett svært lavt, men ved intens bruk blir viftestøyen godt hørbar. 
+Om det er sjenerende eller ikke kommer jo an på bruken, om aktiviteten i seg selv lager mye lyd - spill for eksempel. 
+
+Konklusjon 
+
+Maskinen er stilig, og fungerer utmerket som vanlig PC. 
+Som underholdningssenter er vi derimot langt mer skeptiske. 
+Det fungerer på hybel og gutterom-nivå, men er ikke kraftig nok for den virkelige entusiasten. 
+Da kreves langt mer omph for å henge med i skikkelig gaming. 
+
+Den er også for betjeningsintensiv for brukere som ikke er spesielt teknisk interesserte, mener vi. 
+
+Til denne prisen finnes det mange alternative løsninger som gir entusiastene og de krevende brukerne mer glede for pengene. 
+
+Sony sikter inn mot det øvre sjiktet i prisnivået til den minste Apple iMac. 
+Vi ville tro at flere hadde siklet på en maskin fra Sony om den hadde hatt høyere skjermoppløsning og SSD + HDD i stedet for berøringsskjerm og 3D. 
+Som underholdningsmaskin blir det ikke nok og for fiklete til en toppkarakter. 

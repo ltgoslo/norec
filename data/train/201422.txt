@@ -1,0 +1,123 @@
+Acer Aspire 5720ZG
+Den bærbare vi kåret til beste PC-tilbud før sommeren har nå fått en etterfølger - til samme pris. 
+Kan det stemme at det gode tilbudet har blitt bedre? 
+
+På den andre siden av sommeren hadde vi en sammenligning og fysisk test av bærbare PCer til syv tusenlapper, og kåret til slutt Acer-modellen Aspire 5613WLMi til det beste tilbudet. 
+
+LES OGSÅ: 
+
+Å si at denne PCen har solgt godt vil være en underdrivelse, de slapp faktisk etterhvert for eksemplarer og måtte relansere den med en litt annen konfigurasjon - men til samme prisen var det ikke så mange som klaget over at maskinen da hadde en litt bedre grafikkløsning. 
+
+Når de store massene skal handle bærbar er det en grense for hvor mye man vil ut med, og Acer har etter sommerens salg en god grunn til å tro at den grensen ligger på rundt 7.000 kroner. 
+Derfor kommer nå - til den prisen - oppfølgeren med den noe enklere modellbetegnelsen Aspire 5720ZG. 
+Og den har ny drakt; den såkalte "Gemstone"-designen, ble lansert på vårparten i år og er et samarbeid mellom Acer og BMW Design Group. 
+
+Den har den noe enklere modellbetegnelsen Aspire 5720ZG. 
+
+Sånn ser den altså ut, så kan du velge å like den nye stilen eller ikke... 
+
+Spesifikasjoner: 
+
+Intel Pentium Dual-Core T2310 @ 1,46 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 2 GB DDR2-minne 160 GB harddisk (5400 rpm) nVidia GeForce 8400M GS grafikk (256 MB dedikert minne) 54 Mbps WLAN (b/g) Gigabit LAN + modem 4 x USB, FireWire, IR 1 ExpressCard/54 kortplass Kortleser for SD, MMS, MS/PRO, xD S-Video, VGA og DVI ut, lyd inn/ut Integrert webkamera og mikrofon Windows Vista Home Premium Dimensjoner (B/D/H): 36,7 x 27,5 x 4,5 cm Vekt 3,0 kilo Pris: 6995 inkl. mva. 
+
+Core 2 Duo 
+
+Pentium Dual-Core 
+
+I tillegg har maskinen fått et anstendig grafikkort med 256 MB dedikert minne og støtte for Direct3D 10 (DirectX 10), DVI-utgang, gigabit nettverkskort, FireWire og i motsetning til forgjengeren har 5720ZG fått byttet ut CardBus med den nye ExpressCard-standarden. 
+Hvis du lurer på hva det siste der betyr anbefaler vi denne guiden. 
+
+På skjermsiden har det ikke skjedd så veldig mye - men der hadde vi heller ikke så mye å utsette. 
+Oppløsningen på 1280 x 800 punkter er normalen for bærbare i denne prisklassen, og den blanke skjermen likeså - som i det minste betyr gode farger og kontrast. 
+Øverst på selve ramma rundt skjermen har Acer som med den foregående modellen puttet inn et webkamera, men nå sitter denne fast vendt mot brukeren - den "gamle" kunne vris rundt sin egen akse for å ta snikbilder av de peneste jentene i klassen. 
+
+Konstruksjon 
+
+Gemstone-designen står du selvfølgelig fritt til å like eller ikke like, men sett ut i fra et kvalitetsståsted er dette slett ikke noe tilbakeskritt for Acer. 
+Runde kanter til tross, chassiset er stivt og solid uten tegn til svake punkter. 
+Lokket har litt svikt, men dette er ikke noe mer enn hva vi forventer av en relativt billig bærbar. 
+
+Det er mange nye linjer på den nye Aspiren. 
+Sentrert opp mot skjermen har vi av/på-knappen, og under den finner vi snarveier for trådløst nettverk av/på, Internett, epost og blåtann (men merk at denne modellen faktisk ikke har noen innebygd blåtann-modul). 
+Oppe til høyre har vi også en snarvei til Acer Arcade Deluxe - et medfølgende program i Media Center-stil som enkelt skal hjelpe deg å redigere film og brenne DVDer med bilder osv - og den grønne Empower-knappen gir deg kjapp oversikt over innstillinger for batteri, trådløst nett og lyd. 
+
+Tastaturet har litt svikt, men tastene har markant nedslag og er gode å skrive med. 
+Når det gjelder touchpaden så er denne i bredformat og følsom, men også plassert litt vel nærme mellomrom-tasten, slik at det er lett å komme bort i denne når du skriver. 
+Dette er likevel i stor grad en vanesak, og kan også gjøres noe med i kontrollpanelet. 
+
+Touchpaden har usynlige skrollefelt i alle retninger, og tastene under er store og gode. 
+Merk for øvrig at den i midten er en navigeringsløsning som ikke fungerer som sentertast. 
+
+Tilkoblingsmuligheter 
+
+PCens kontakter er plassert på sidene og i front. 
+På baksiden finner vi kun inntaket for strømmen i tillegg til at varmluften blåses ut der. 
+Lokket på denne nye modellen vipper litt ned bak, slik at det kan være litt knotete å koble bra strømmen med skjermen oppe, men det er kun en detalj. 
+
+I front er det inn- og utganger for lyd innfelt på venstre side, og infrarød mottaker på høyre. 
+
+Høyre side har to USB-kontakter, DVD-brenneren og modem. 
+
+Venstre side er godt utstyrt: plass for kensingtonlås, VGA, DVI, S-Video, LAN, 2 x USB, FireWire, minnekortleser, ExpressCard/54-slot og et hjul for å regulere lydstyrken. 
+
+Ytelse 
+
+Aspire 5720ZGs prosessoren er som nevnt en Intel Pentium Dual-Core på 1,46 GHz. 
+Den samme prosessortypen fant vi også på forgjengeren, men denne var klokket høyere - 1,73 GHz. 
+Så på dette punktet regnet vi med å finne at de gamle var eldst. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Ikke uventet gjør altså Aspire 5613WLMi det skarpest på prosessorytelse, men totalt sett får nykommeren en langt bedre poengsum. 
+Hovedsaklig skyldes dette grafikkortet fra nVidia, men også minne- og harddiskytelsen er litt bedre på Aspire 5720ZG. 
+
+Brukt tid i sekunder - lavere er bedre. 
+
+Ser vi først nærmere på forskjellen på et par prosessorkrevende applikasjoner er forskjellen merkbar, men burde ikke være avgjørende for valget av maskin. 
+I begge våre vante tester bruker nykommeren nøyaktig ti sekunder lenger enn "gamle" 5613WLMi. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+Det er overgangen fra integrert til dedikert grafikkort som virkelig får Aspire 5720ZG til å bli et rimelig og akseptabelt alternativ for de som liker å spille. 
+Bevares, nVidia GeForce 8400M GS er på langt nær noe entusiast-kort, men har du likevel ikke planer om å bruke større oppløsning enn 1280 x 800 vil den fint dra de fleste spill. 
+
+Batterilevetid og støy 
+
+I minutter - kontinuerlig drift. 
+
+Som vi alltid har sagt - dedikerte grafikkort bruker mer strøm enn integrerte, men siden det er en helt ny maskin kan det her selvfølgelig i tillegg også være andre faktorer som spiller inn. 
+Uansett ser vi tre kvarters forskjell i kontinuerlig batteridrift på den gamle kontra den nye - og akkurat det taler selvfølgelig ikke til nykommerens fordel. 
+
+PCen blir ikke spesielt varm og har ingen "hotspots", altså punkter på chassiset som blir betydelig varmere enn andre, men god kjøling kommer som alltid til en pris. 
+I dette tilfellet er prisen noe viftestøy, som heldigvis forsvinner i kontorlandskapet, men er ikke vanskelig å få med seg i roligere omgivelser. 
+
+På forgjengeren spant vifta opp av og til under svak belastning, men gjorde i det hele tatt ikke så mye ut av seg. 
+Vifta på Aspire 5720ZG vil i stedet begynne sakte og øke gradvis for så å kutte helt, begynne sakte og øke igjen... noe som har potensiale til å irritere, spesielt siden dette gjentar seg omtrent en gang i minuttet. 
+Men som sagt, dette merker du altså kun i rolige omgivelser. 
+
+Men for oss med sans for stillhet er det da er det langt bedre med jevnt, svakt viftesus, og aller helst vil vi ha en "stille modus"-knapp som vi for eksempel finner på Multicom Z37S og Fujitsu Siemens Amilo PI 2530. 
+
+Vurdering og konklusjon 
+
+Vi skulle så gjerne sagt at Acer Aspire 5720ZG både var billig og fullkommen, men det er altså ikke tilfellet. 
+Fremskritt betyr ikke nødvendigvis at all utvikling er til det bedre, og her har vi altså det med viftestyring og batterilevetid som ikke klarer å leve opp til det vi fant hos forgjengeren. 
+Den har som nevnt også en litt lavere klokket prosessor, men i praksis har dette liten betydning - er prosessorkraft kritisk for deg vil du uansett se etter en maskin med sterkere CPU enn denne eller Aspire 5613WLMi. 
+
+Men for all del, det er mange bra aspekter ved nykommeren også. 
+Den er jo langt bedre utstyrt - DVI, FireWire, gigabit nettverk og ExpressCard-slot for å nevne noe. 
+Men hva som kanskje vil være mest tiltalende for potensielle kjøpere er det dedikerte grafikkortet med støtte for Direct3D 10. 
+Med mindre du er spesielt kresen vil du med dette pluss 2 GB RAM og dobbeltkjerneprosessoren ha nok kraft til å bruke maskinen til daglig spilling. 
+Og DET er slett ikke vanlig i denne prisklassen. 
+
+Så er den dårligere eller bedre enn første generasjon Aspire 5613WLMi, som vi altså testet før sommeren? 
+Den er begge deler - for de to maskinene har forskjellige styrker og svakheter. 
+Aspire 5720ZG er noe dårligere på batteri og støy - noe vi vet mange vektlegger - men langt bedre på spill og er dessuten bedre utstyrt. 
+Kort sagt sikter de seg ikke nødvendigvis inn mot den samme gruppen av potensielle kunder. 
+
+Men det er kanskje heller ikke poenget siden såpass mange tydeligvis allerede har kjøpt Aspire 5613WLMi. 
+
+Vi trekker for ujevnt trav på vifta og et batteri som ikke helt holder hva vi forventer på en 15-tommer, men totalt sett holder likevel Acer Aspire 5720ZG til en svak femmer på vår terning. 

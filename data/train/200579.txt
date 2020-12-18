@@ -1,0 +1,113 @@
+TEST:Panasonic TX-P50G20E 
+
+Rett og slett et godt plasmakjøp. 
+
+Det er ikke mer enn en uke siden vi publiserte testen av Panasonics budsjettmodell X20, og G20 er altså storebroren som er litt, men ikke mye dyrere. 
+Veiledende pris er oppgitt til 15.000 kroner for 50-tommeren, men leter du litt rundt finner du den enkelt til rundt 12.000 kroner. 
+Det er mye TV for pengene. 
+
+Trofaste lesere vil huske at jeg, til tross for at jeg ga X-modellen en femmer, anbefalte å spare litt til og gå for G20-modellen. 
+Og forklaringen er enkel: 
+
+For der X-serien reddet seg på lav pris, så er G20-serien en bedre TV på alle områder. 
+
+Hva skiller de to? 
+
+G20 er en full-HD modell med 1080p-oppløsning, det i seg selv er strengt tatt ikke avgjørende, men siden vi vet at det er en kjøpsutløsende faktor for mange, er det verdt å nevne. 
+I tillegg har G20 en ekstra HDMI-inngang (totalt får du her fire, hvorav en er HDMI 1.4) og nettverksinngang. 
+Det siste har to praktiske konsekvenser: 
+Du får tilgang til Panasonics nettfunksjoner, men kanskje like viktig: 
+Nettverksinngangen gjør det svært enkelt å oppgradere TV-ens programvare. 
+Selv brukte vi fire minutter på å laste ned og installere siste versjon. 
+G20 har i tillegg PC-inngang (VGA), noe som mangler helt på X20.Viktigst av alt er likevel at G20 også har et nyere og bedre plasmapanel, G13 - kalt Infinite Black. 
+Fordelen er at dette reflekterer svært lite, spesielt sammenlignet med kontrastbelegget X20-serien er belemret med. 
+Spør du meg, er bare dette punktet verdt prisforskjellen alene. 
+
+Førsteinntrykk 
+
+G20-modellen er litt slankere enn X20-serien, og leveres i tillegg med et dreibart bordstativ. 
+Bortsett fra det, er det omtrent umulig å skille dem utseendemessig - forskjellene befinner seg altså på innsiden. 
+Personlig skulle jeg ønske Panasonic hadde lagt litt mer flid i designet, for med Z1/Z11 friskt i minne er det ingen tvil om at de kan. 
+På dette punktet har de altså mye å lære av hovedkonkurrentene Philips, Sony, Samsung, og LG. 
+
+Fester du ikke TV-en godt nok, kan det få fatale konsekvenser: 
+Barn skader seg på flatTV. 
+
+Finesser 
+
+Mens X20 er en ribbet modell får du langt mer å rutte med på G20: 
+
+USB-opptak: 
+
+Som vanlig må du la TV-en formatere harddisken før du kan begynne, og som hos Grundig blir opptaket låst til akkurat denne TV-en. 
+Du kan altså ikke se opptakene på en PC eller på en annen TV. 
+
+Opptakskvaliteten ser bra ut, og vi synes funksjonen fungerer ok. 
+Vår påstand er at dette er en praktisk finesse for de av dere som vil ta opp i ny og ne. 
+Vi presiserer likevel at dette IKKE er noen fullgod erstatning for en dedikert HD-PVR: 
+
+For det første kan du ikke skifte til en annen TV-kanal mens du tar opp. 
+(I motsetning til Grundigs modeller kan du imidlertid fint skifte til andre innganger, f.eks. Blu-ray spilleren, uten at opptaket avbrytes.) 
+Et annet minus er at du heller ikke får noen serieopptaksfunksjon. 
+I praksis består altså valgene av hurtigopptak av det programmet du ser på akkurat nå, samt timeropptak. 
+Maksimal opptakslengde per program er forøvrig 180 minutter, men du kan forlenge dette manuelt ved å trykke på fjernkontrollen. 
+
+NB: 
+Vi hadde dessverre fått med feil fjernkontroll til vår TV. 
+Men på den korrekte fjernkontrollen skal du kunne styre USB-opptakene direkte via opptaks, og avspillingsknappene (play, stop, pause og spoling) nederst på kontrollen. 
+
+Til tross for at vi rotet rundt i menyen, klarte vi imidlertid ikke å skru av den irriterende plingelyden hver gang du bruker fjernkontrollen til å manøvrere eller skrive inn tekst. 
+Akkurat det er litt unødvendig - og vil forhåpentligvis bli rettet i neste programvareoppdatering... 
+
+Nettverksinngangen gjør det også mulig å spille av video, musikk og bilder fra DLNA-kompatible enheter eller PC-er i nettverket ditt. 
+Vi fikk dessverre ikke sett så mye på dette, men noen åpenbare svakheter må kommenteres: 
+MP3 må spilles av via USB-inngang, og vi savner både mov og wmv-formatet når det gjelder video. 
+Her er det bare å håpe at dette kommer i framtidige oppgraderinger. 
+
+PS: 
+Vil du unngå nettverkskabel, er det også mulig å kjøpe en wifi-dongle i tillegg, vi har imidlertid ikke prøvd denne. 
+
+PC-inngang. 
+G20 har altså en dedikert VGA-inngang for PC-bruk, men pussig nok har Panasonic her strupt oppløsningen. 
+I praksis vil det si at du må velge om TV-en skal vise 1024/768, 1280/768 eller 1366/768-oppløsning, og siden panelet har en oppløsning på 1920/1080, må vi si at vi stusset på det. 
+(Antagelig kan du koble PCen til via HDMI-inngangen, slå av overscan-funksjon og få pixel-til-piksel bilde, men dette fikk vi ikke testet i denne runden). 
+
+PC-bildet ser uansett helt ok ut, og til sofasurfing er det strengt tatt bare en fordel at oppløsningen ikke er høyere, ettersom større ikoner og tekst gjør innholdet lettere å lese. 
+Til utstrakt PC-bruk er vi uansett skeptisk til å bruke en plasma, og minner igjen om Panasonics egne advarsler når det gjelder innbrenning. 
+
+Til konsollspilling fungerer forøvrig TV-en bra, spesielt med Spill-modusen aktivert. 
+Legg dog merke til G20 ikke takler 1080p via komponentinngangen, her må du altså velge 1080i. 
+Har du en PS3 eller en ny Xbox360 er det imidlertid bare å bruke HDMI-inngangen. 
+
+For ordens skyld minner vi også på at du, som på alle andre plasmaer, heller ikke her får den skarpheten i bildet en god LCD/LED-TV klarer å gi. 
+Her må du altså selv vurdere hva du er ute etter. 
+
+Har Plasma-TV-er alltid best sortnivå? 
+Vi knuser TV-mytene 
+
+Bildekvalitet 
+
+Side om side med X20 er det lett å la seg imponere over G20, og spesielt fraværet av uønskede refleksjoner gir pluss i margen hos oss. 
+Men det er heldigvis mer. 
+
+600Hz-funksjonen på G20 interpolerer ekstrabilder automatisk, og resultatet er både mindre krying i detaljene og langt jevnere bevegelser enn det 100Hz-modellen X20 klarer å levere. 
+I praksis er også dette med på å øke dybden i TV-bildet, ettersom du ser detaljer på G20 som på X20 forsvinner i støyen. 
+Dette er spesielt synlig på rulletekster, men også i intense actionsekvenser når du ser på film. 
+
+På G20 får du også flere innstillingsmuligheter enn på X20. 
+Ekspertene der ute vil helt sikkert juble over full gamma- og hvitbalansejustering. 
+Min påstand er nok at dette blir for avansert for de fleste (se her for mer info om dette), og jeg tipper den forhåndsinnstilte THX-modusen er et langt mer praktisk alternativ - spesielt på film. 
+Legg dog merke til at med THX-modusen aktivert, så vil 600Mhz-funksjonen være avslått som standard. 
+Vil du ha kinolignende bilder med litt hakking er dette ok, men du kan også slå på funksjonen (kryptisk nok kalt isfccc under oppsettsmenyen) manuelt om du ønsker det. 
+
+Konklusjon 
+
+Er du på jakt etter en ny plasma i mellomklassen, kommer du ikke utenom G20. 
+Den er bedre enn X20 på nær sagt alle områder og kun noen få tusenlapper dyrere. 
+
+Sammenlignet med en ny LCD/LED-modell får du riktignok ikke den samme skarpheten og lysstyrken som mange av oss er så glad i. 
+Og er du en ivrig PC-bruker vil vi heller ikke anbefale en plasma på grunn av innbrenningsfaren. 
+
+Likevel: 
+Liker du plasma TV-enes naturtro fargegjengivelse, kan du nesten ikke trå feil her. 
+Til denne prisen vil jeg faktisk si at den nærmer seg et kupp. 

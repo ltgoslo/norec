@@ -1,0 +1,129 @@
+Olympus E-410
+TEST: 
+Verdens minste digitale speilrefleks har blitt fornyet. 
+Her er våre erfaringer. 
+
+I forkant av årets PMA-messe (som vi for øvrig var til stede på), annonserte Olympus to nye digitale speilreflekskameraer. 
+
+Den minste modellen, E-410, er nøyaktig like stor som lillebror E-400 og er en videreutvikling av et kamera som bare har vært i handelen et snaut halvår. 
+
+Siden forskjellene fra forgjengeren ikke er veldig store, har vi i denne testen konsentrert oss om det som er endret siden E-400, med en oppsummering av våre erfaringer til slutt. 
+Vi anbefaler derfor at du først leser testen av E-400 før du leser videre. 
+
+Små, men ikke ubetydelige forskjeller 
+
+Selv om lista over nye funksjoner er relativt kort, er det en del sentrale forskjeller mellom Olympus E-400 og E-410. 
+Det som kanskje er mest viktig er at bildebrikken nå har blitt endret. 
+I E-400 var det en CCD-brikke fra Kodak, mens det nå er en Panasonic Live MOS-brikke. 
+
+Oppløsingen er den samme, men den nye brikken, kombinert med en forbedret prosessering, er bedre i forhold til støy på høye ISO-verdier. 
+I tillegg gir den, som live-ordet antyder, mulighet til å vise et levende bilde på LCD-skjermen, noe som Olympus også har hatt på noen av sine tidligere modeller. 
+
+For den som har brukt et kompaktkamera tidligere er fordelen med en levende LCD-søker åpenbar. 
+I de situasjonene der det ikke er så komfortabelt å plassere øyet inntil søkeren er det veldig greit å kunne se det du skal ta bilde av på skjermen, for eksempel ved makrofotografering av insekter, bilder langs bakken, over hodet og lignende. 
+Dog kan ikke LCD-skjermen vippes, så det begrenser seg noe i forhold til hvor kreativ du får vært. 
+
+På speilreflekskameraer er det imidlertid ikke like elegant å bruke en slik løsning som på kompaktkameraene, fordi speilet må vippes for at lyset enten skal treffe selve bildebrikken som lagrer bildet eller den som sørger for å vise det på skjermen. 
+Dette må også gjøres når du måler lys og utfører autofokus. 
+Når du bruker Live view skjer følgende: 
+
+Ved fokusering: 
+
+1. 
+Du fokuserer ved å trykke på fokuslås-knappen 2. 
+Speilet vippes, bildet på skjermen blir mørkt, bildet dukker opp i søkeren, autofokus utføres, speilet vippes tilbake, bilde på skjerm som nå er fokusert riktig. 
+
+Ved bildeopptak: 
+
+1. 
+Du trykker ned knappen 2. 
+Speilet vippes, bildet på skjermen blir mørkt, bildet dukker opp i søkeren, autofokus utføres, lukkeren åpnes og bildet tas, speilet vippes tilbake. 
+
+Som du kanskje har forstått er det dermed en betydelig forsinkelse å regne med når du tar bilde med live view aktivert. 
+Dette gjør at bruksområdet begrenser seg til landskapsbilder, byggverk og lignende. 
+Ting i bevegelse er det vanskelig å ta bilde av fordi den totale utløserforsinkelsen blir veldig stor. 
+
+En fordel er derimot at du ved manuell fokusering kan vise et forstørret bilde på LCD-skjermen (7x eller 10x) som gjør at du kan foreta dette svært nøyaktig. 
+Skjermen er også lysere enn det den har vært på E-330, som var den forrige modellen fra Olympus med live-visning. 
+
+Bedre utholdenhet 
+
+En annen ting som er forbedret finner vi på ytelsesfronten. 
+For det første har seriefotografifunksjonen nå blitt bedre, som følge av at den nye prosessoren er raskere. 
+Mens du tidligere var begrenset til 27 bilder i JPEG med 3 biler pr sekund, kan du nå knipse med denne hastigheten til minnekortet er fullt. 
+
+Batterilevetiden er også forbedret i forhold til E-400. 
+Vi har ikke klart å finne noen CIPA-tall, men det skal dreie seg om cirka 100 bilders ekstra levetid; vel å merke dersom du ikke bruker live-view. 
+
+En ny LCD-skjerm er også å finne på dette kameraet. 
+Mens den forrige hadde 215.000 piksler, har denne 230.000 piksler og er i tillegg utstyrt med såkalt HyperCrystal-teknologi, som først og fremst betyr at skjermen har større kontrastnivå. 
+Innsynsvinkelen er også veldig høy, oppgitt til 178 grader. 
+Det er kjekt når du skal ta litt vanskelige bilder og bruke skjermen. 
+
+Da vi fikk kameraet inn til test, var vi sikker på at vi hadde fått en defekt modell, for fra vi trykket til bildet ble tatt, gikk det rundt fem sekunder. 
+Det viste seg imidlertid å være fordi den nye anti shock-funksjonen var aktivert. 
+Dette er spesielt hensiktmessig når du bruker fjern- eller selvutløser - speilet vippes opp i forkant, og så venter kameraet med å foreta eksponeringen i x antall sekunder. 
+På denne måten vil ikke bevegelsen av speilet forårsake rystelser i kameraet som påvirker bildeskarpheten. 
+Litt kritikk retter vi imidlertid til at dette ikke blir opplyst på skjermen der alle andre innstillinger vises. 
+
+Ellers bør det også nevnes at Olympus kom best ut av en ungarsk test som pixinfo.com kjørte for et par måneder siden, der de testet hvor effektive de innebygde sensorrensesystemene var. 
+Mens både Canon, Sony og Pentax fikk strykkarakter, var Olympus det eneste merket som fikk godkjent. 
+Dette gjaldt E-300, og systemet skal i følge Olympus være forbedret på disse modellene. 
+
+Nye kit-objektiver 
+
+Samtidig med at E-410 og E-510 ble lansert, ble det også lansert nye kit-objektiver for å følge med kameraene. 
+E-410 er tilgjengelig enten uten optikk, med ett objektiv og som et dual kit med to objektiver. 
+
+Objektivene er som følger: Zuiko 14-42mm f3.5-5.6 ED Zuiko 40-150mm f4-5.6 
+
+(Merk at siden sensoren er noe mindre på E-410 er cropfaktoren 2, dvs. at brennviddene multipliseres med 2 for å få 35mm-ekvivalente brennvidder. 
+Systemkameraene fra Olympus følger for øvrig FourThirds-standarden som du kan lese om litt under reklamen i omtalen av E-400.) 
+
+Ytelse 
+
+Som nevnt er kameraet utstyrt med ny prosessor (TruePic III) som gjør at det går litt raskere unna. 
+Det gjør at seriefotofunksjonen som ligger tett opptil 3 bilder pr sekund kan pågå til minnekoretet er tomt i JPEG-modus, eller opp til 7 RAW-bilder sammenlignet med hhv 27 og 5 tidligere (vi klarte dessuten bare å få ut 9 JPEG-bilder før farten avtok). 
+Det nye kameraet komprimerer også bildene i RAW-format slik at de blir rundt 10-11MB mot det dobbelte for E-400. 
+
+Fremdeles er akilleshælen, som før, knyttet til autofokusen. 
+Den er svært treg i innendørs kveldsbelysning (i hvert fall med kit-objektivet) og bruker i noen tilfeller flere sekunder før den klarer å finne frem. 
+
+Så - med andre ord: brukervennligheten er den samme, funksjonene noen flere (live view introduserer et par nye), ytelsen er forbedret og sensor og prosessor er byttet ut. 
+La oss da se på bildekvaliteten. 
+
+Bildekvalitet 
+
+Vi liker det vi ser - bildekvaliteten er blitt forbedret siden E-400; ingen tvil om det. 
+Spesielt ser vi det tydelig på høye ISO-verdier, til tross for at sensoren ikke er noe større enn den var før. 
+Under er et utsnitt tatt med ISO 1600 som er ganske pent og rent i forhold til støy: 
+
+...og slik så ISO 1600 ut på E-400: 
+
+Bildene virker også å ha bedre dynamikk enn forgjengeren leverte, og selv om kameraet en gang i blant overeksponerer himmelen, er vi jevnt over fornøyde med E-410 også på det området. 
+Det skal dog sies at lysmåleren ikke er like god som den du finner i for eksempel Nikons kameraer. 
+
+FourThirds-systemet er først og fremst fordelaktig for lysbrytningen mot sensoren, og det ser vi også på 14-42 kit-objektivet. 
+For det første er hjørneskarpheten meget god, og for det andre er den kromatiske feilbrytningen så og si fraværende sammenlignet med andre kameraer. 
+Kit-løsningen fra Olympus er kjent for å være blant de beste, og det har vi ingen innvendinger mot. 
+
+Se bilder tatt med kameraet! 
+
+Konklusjon 
+
+Da vi skrev om forgjengeren, E-400, skrev vi at det er et kamera en må venne seg til, og det gjelder også for dette kameraet. 
+Det kompakte formatet vil være uvant for de fleste til å begynne med, men etter hvert er ikke det noe spesielt problem annet enn at kameraet nok er litt vanskeligere å holde helt stødig enn ett som er større og tyngre. 
+Det er imidlertid en liten pris å betale hvis du først er ute etter å spare plass i ryggsekken. 
+
+Som på E-400 er det heller ikke noe bildestabilisator i kamerahuset, og siden det kun er ett (dyrt) objektiv med bildestabilisering i FourThirds-systemet, er dette et lite minuspunkt for E-410. 
+Verre er det dog, som med E-400, at autofokusen er grusomt treg i innendørs kveldsbelysning. 
+Blitsen blinker alt den kan og prøver å hjelpe til, men ofte må det både tre, fire og fem "runder" til med korte lysglimt før fokusen får feste. 
+
+Live view er en ny funksjon, men denne har sine begrensninger. 
+Speilet må vippes for at kameraet kan fokusere, og det introduserer en vesentlig forsinkelse fra du trykker på utløserknappen til bildet tas. 
+Det er heller ikke mulig å vippe ut skjermen. 
+Bedre er det at sensoren er fornyet, og at kameraet så vidt vi kan se tar marginelt bedre bilder enn forgjengeren gjorde. 
+
+Den sterke fireren fra forrige gang vippes derfor opp til en svak femmer denne gangen, men vel å merke synes vi fortsatt at autofokusen i dårlig lys er så dårlig at vi lar være å klistre på et anbefalt produkt-stempel. 
+
+Se bilder tatt med kameraet! 

@@ -1,0 +1,91 @@
+Zepto Znote 1100A
+Zepto Znote 1100A er en variant, eller skal vi heller si en oppgradert versjon av Znote 2003. 
+USB1.1 er blitt til USB2.0, og desktop-prosessoren fra Intel er byttet ut med en mobil variant fra AMD. 
+Totalt sett mener vi denne maskinen er bedre. 
+
+Vi har allerede rukket å teste en rekke maskiner basert på mobilutgaven av AMDs Athlon-prosessor, og vårt inntrykk av løsningene er i hovedsak positive. 
+Prosessorene er billige, yter bra, og har et meget effektivt PowerNow!-system (tilsvarer Intels Speedstep-løsning), som justerer prosessorhastigheten etter behov. 
+Dermed brukes ikke mer strøm enn nødvendig. 
+Etter vår mening er AMDs mobilprosessorer langt fra noen B-løsning på bærbare PCer. 
+
+LES OGSÅ: 
+
+Kraftig og rimelig 
+
+Zepto lanserer nå en bærbar modell basert på en AMD Athlon XP2000+ prosessor. 
+PCen sitter i et kabinett som er tilnærmet identisk med det som ble brukt på Zepto ZNote 2003, og spesifikasjonene minner også om denne PCen. 
+Etter vår mening er den nye PCen å regne som en oppgradering av 2003-modellen. 
+Den er rimeligere, den har fått USB2.0-porter, yter generelt bedre og støyer langt mindre. 
+
+PCen har en funksjonell utforming i sølvgrå plast, uten dikkedarer og "pynt. 
+Hurtigknappene fra 2003 er fjernet, vår erfaring er at de sjelden brukes likevel. 
+Størrelsesmessig er den langt ganske midt på treet, men noen vil kanskje synes at 3,4 kg er i tyngste laget. 
+PCer i denne prisklassen er sjelden lettvektere. 
+
+Spesifikasjonene for øvrig kjenner vi igjen fra Znote 2003: 
+
+256 MB minne 30 GB harddisk CD-brenner/DVD-leser Firewire-port i fronten for bl.a tilkobling av DV-kamera 10/100 Mb Nettverkskort, innebygget WLAN-antenne 56Kb Modem 4 USB-porter (nå USB2.0) 
+
+Firewire-porten er logisk plassert i fronten (fint når du skal koble til DV-kameraet). 
+Der finner du også lyd inn/utganger samt et hjul for å justere lydnivået. 
+Praktisk og bra! 
+Ønsker du trådløst WLAN, er antennen allerede innebygd i lokket, og et WLAN miniPCI-kort koster noen hundrelapper. 
+
+Diskettstasjon er passé 
+
+For øvrig er maskinen utstyrt med én PCMCIA-plass, infrarød port, TV-utgang, lyd inn/utganger, skriverport og en fin 14,1" TFT-skjerm med XGA-oppløsning (1024x768 punkter). 
+Diskettstasjon må du klare deg uten, her kan du lese om en sannsynlig arvtaker. 
+
+Tastaturet er det samme som på 2003. 
+Vi har store problemer med å se det numeriske tastaturet (blå tall på lysegrå taster). 
+Returtasten kunne gått over to rader, men ellers er tastaturet helt greit. 
+Spesialtastene har en logisk plassering, og det setter vi selvsagt pris på. 
+
+Du kan klikke på selve pekeplaten, eller du kan bruke høyre/venstre museknapp som sitter under den. 
+Du kan også skrolle i skjermbildet horisontalt ved å dra fingeren langs kanten nederst på pekeplaten, og vertikalt langs høyre kant. 
+Praktisk! 
+
+Svak på 3D 
+
+Grafikkbrikken fra SIS er byttet ut med en løsning fra S3, som dessverre viste seg å være enda svakere enn førstnevnte. 
+Grafikkytelsen i 2D er helt OK, og maskinen takler også DVD-filmer og DivX etc uten hakking. 
+Men noen løsning for spillentusiaster er det uansett ikke snakk om, 3D-ytelsen holder rett og slett ikke mål. 
+
+Brikken stjeler minne fra internminnet i PCen, i utgangspunktet 32 MB. 
+Dette kan justeres opp/ned etter behov. 
+Det betyr i praksis at internminnet på 256 MB blir til 224 MB. 
+
+Klart bedre enn Celeron 
+
+De øvrige ytelsestestene våre viser at XP2000+ prosessoren yter klart bedre enn Celeron 2.0 GHz-prosessoren i Znote 2003. 
+Et eksempel er koding av WAV-filer til MP3; her var ZNote 1100a faktisk over 20% raskere enn ZNote 2003. 
+
+Dessuten er det helt på det rene at AMD-prosessoren krever langt mindre kjøling enn Celeron-prosessoren. 
+I praksis vil du oppleve at jobbing med dokumenter og regneark, eller surfing på nettet, sjelden eller aldri fører til at viften starter i det hele tatt. 
+I grafikkintensive programmer og spill kan du oppleve at den kjører noen sekunder, for så å ta en lang pause. 
+Da får det heller våge seg at viften brummer ganske kraftig når den en meget sjelden gang våkner. 
+
+En annen fordel med AMD-prosessoren er at den bruker mindre strøm i forhold til Celeron-prosessoren i ZNote 2003. 
+Bekreftelsen på dette kom under batterilevetesten vår. 
+Mens Znote 2003 slukket før det var gått 2 timer, holdt Znote 1100A ut i nesten 3. 
+Det er ikke eksepsjonelt lenge, men godt over gjennomsnittet for maskiner i denne klassen. 
+
+For flere opplysninger omkring ytelse, klikk lenken til tekniske data i oppsummeringsboksen til høyre. 
+
+Windows eller Linux? 
+
+Znote 1100A leveres, i likhet med Znote 2003, uten operativsystem. 
+Ønsker du Windows XP forhåndsinstallert, må du regne med en tusenlapp (+mva) for dette (Home-utgaven). 
+CD-brenneprogram og program for avspilling av DVD-filmer får du med uansett. 
+
+I følge Tom Vedvik i Zepto Computers vil det også bli mulig å få Znote 1100A levert med en spesialsydd versjon av RedHat Linux 8.0 installert og konfigurert, sammen med en rekke programmer for kontorbruk og underholdning. 
+Dette vil koste deg omtrent halvparten av hva Windows XP koster. 
+
+Konklusjon 
+
+Znote 1100A er billig, stillegående, og har godt med utstyr og tilkoblingsmuligheter. 
+Vi satte den på adskillige prøver (blant annet ripping av DVD-plater til DivX), og opplevde ingen problemer. 
+Ytelsesen er så god som den bør være i 2003, med unntak av grafikken. 
+
+Hvis spill ikke interesserer deg, og synes 3,4 kg er helt OK, har vi ingen problemer med å anbefale Znote 1100A. 
+Dette er absolutt en av våre personlige favoritter i klassen! 

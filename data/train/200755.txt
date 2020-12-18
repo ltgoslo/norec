@@ -1,0 +1,68 @@
+HP Slate 21 alt-i-ett
+Blir et nettbrett en PC når det blir stort? 
+Med berøring eller mus og tastatur? 
+
+I sommer lanserte HP et 21 tommer stort nettbrett, eller en alt-i-ett-PC drevet av Android om man vil, som vi skrev om i denne artikkelen. 
+Vi snakker altså om mobil teknologi i skrivebordsformat. 
+Dette har vi nå hatt på bordet og sjekket ut. 
+
+Løsningen er ikke så fjern, siden Android har utviklet seg til å bli et velutviklet operativsystem med enorm utbredelse på både mobiler og nettbrett. 
+Forskjellen mellom et nettbrett og en bordskjerm ligger jo nesten bare i størrelsen og dermed i presisjonsnivået ved betjening med fingrene. 
+
+Men hvordan fungerer det i praksis? 
+
+Maskinen 
+
+Skjermen inneholder altså hele maskinen, som er basert på en Nvidia Tegra 4 Dalmore systembrikke. 
+Denne har fire prosessorkjerner og 72 grafikkjerner, og er basert på ARM-arkitetktur. 
+Den kjører på 1,8 Ghz. 
+
+Maskinen kommer med 8 GB lagringsminne, men kan utvides med minnekort eller USB-enheter for lagring. 
+Det er ca 4,3 GB ledig plass når maskinen er ny. 
+Ikke veldig mye, med andre ord. 
+
+Skjermen har full HD 1920 x 1080 oppløsning og er av IPS-typen. 
+Betraktningsvinkelen er derfor uproblematisk i alle retninger. 
+Det blanke berøringsbelegget gjør at reflekser og fettmerker er noe man må leve med, som på nesten alle maskiner med berøringsskjerm. 
+
+På venstre side finner vi tilkobling for hodetelefon, en USB-port og en kortleser for SD-kort. 
+
+På høyre side finner vi knapper for regulering av volum, lydstyrke og av/på. 
+
+På baksiden av skjermen finner vi tilkobling for strøm, nettverk og to USB-porter. 
+
+I bruk 
+
+Maskinen er enkel i bruk, også for de som er vant til Windows eller Mac. 
+Berøring er en blandet opplevelse på skrivebordsmaskiner, så et taststur og en mus er ikke dumt å koble til. 
+Både kablet/trådløse via 2,4 GHz-båndet og Bluetooth-utgaver støttes. 
+
+Skjermen kan vinkles i to stillinger, oppreist for vanlig PC-bruk, fortrinnsvis med tastatur og mus, eller nesten liggende, for bruk i hovedsak med berøring. 
+
+Maskinen er kjapp og villig, ytelsen er det ikke noe å si på til de fleste dagligdagse oppgavene, og mange spill vil også fungere utmerket. 
+
+Men det er ikke til å unnslå at Android er laget for mobiler og mindre nettbrett, og å overføre grensesnittet til en stor skjerm er ikke helt uten problemer for mange apper. 
+Vi merker også dette i nettleseren, hvor du alltid havner i mobilversjonen til nettsider og så må velge web-versjonen for å få et noenlunde fornuftig oppsett. 
+Mange irriterer seg over dette på mindre nettbrett med Android, og her blir problemet enda tydeligere. 
+
+Bortsett fra dette fungerer maskinen utmerket, og du får ganske mye for pengene, sammenlignet med en tilsvarende Windows 8-basert PC. 
+Vel å merke når du ikke forventer å kjøre avansert bildebehandling, videoredigering eller annen avansert programvare. 
+
+Ytelsen 
+
+Standardmålingene våre ga følgende resultater: 
+
+909/2291 (enkeltkjerne/flerkjerne)med Geekbench 3 Sunspider (test av Javascript) ga 792. 
+Epic Citadel test av grafikken ga 50,75 fps i Ultra High Quality (1920 x 1080 oppløsning). 
+
+Konklusjon 
+
+Hvis du ikke absolutt må ha en Windows-PC eller en Mac, men trenger en stor og behagelig skjerm for det du ellers bruker nettbrett eller mobil til, så slipper du svært rimelig unna med denne. 
+Plattformen er kjent for mange og utvikles stadig, men oppgraderinger til framtidige Android-versjoner er ikke noe man autmatisk kan regne med. 
+
+Tilkoblingsmulighetene dekker det man trenger, og ytelsen er helt ok. 
+
+Men en stor skjerm som ikke kjører programmer i vinduer, bare i fullskjerm, blir aldri det samme som et vindusbasert arbeidsmiljø. 
+Mye blir bare stort og rart. 
+
+HP Slate 21-S100 E2P18AA 

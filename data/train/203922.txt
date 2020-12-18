@@ -1,0 +1,59 @@
+Denne gir nytt liv til gamle PC-er
+Vi har tatt en titt på Samsungs nye SSD-serie, som hever ytelsen enda et hakk i forhold til forgjengeren. 
+
+Har du en PC som begynner å dra litt på årene og som hadde hatt godt av en liten oppgradering? 
+Å bytte ut harddisken med en SSD kan vise seg å være den smarteste oppgraderingen du kan gjøre, og vil mest sannsynlig gjøre PC-en din mye, mye raskere. 
+Nå er også prisene og kapasitetene kommet på akseptable nivåer. 
+
+Har erstattet harddisken på de fleste PC-er 
+
+Og hvis du lurer på hva en SSD er for noe, så er det ganske enkelt en lagringsenhet som allerede har rukket å erstatte harddisken i nesten alle nye PC-er. 
+Den er flashminnebasert, har ingen bevegelige deler, bruker mindre strøm, veier mindre, støyer ikke, blir ikke varm og er som regel mye raskere enn harddisken. 
+
+SSD-en kommer i mange forskjellige utforminger, fra de aller minste M.2 og mSATA-variantene på størrelse med et frimerke, til de 2,5 tommer store SSD-ene som har samme utforming og kontaktene som en harddisk. 
+Disse er laget for å erstatte harddisken i (litt eldre) stasjonære og bærbare PC-er, og varter opp med lese- og skrivehastigheter som gjerne er fem-seks ganger høyere enn hva den gamle harddisken klarte da den var ny. 
+
+Dette gir seg utslag i raskere oppstart av Windows, raskere lasting av programmer, veksling mellom programmer og til dels mye raskere håndtering av svære filer. 
+Kombinerer du en slik oppgradering med en nyinstallasjon av Windows, får du nesten følelsen av å sitte med en helt ny PC. 
+
+Inntil 4 TB kapasitet og inntil åtte ganger flere overskrivninger 
+
+Samsung er en av de aller største produsentene av SSD-er, og har nettopp lansert en ny serie som har fått navnet SSD EVO 860. 
+Denne kommer i alle de nevnte formfaktorene, M.2, mSATA og 2,5 tommer SATA - og med kapasiteter mellom 250 GB og hele 4 TB. 
+Det betyr at helt vanlige SSD-er nå har tatt igjen forspranget harddiskene har hatt vedrørende kapasitet, men de største SSD-ene er fortsatt vesentlig dyrere enn tilsvarende harddisker. 
+
+Den største forskjellen fra forrige generasjon, EVO 850, er faktisk knyttet til levetiden, nærmere bestemt antall overskrivninger av data SSD-en tåler. 
+Samsung garanterer at de minste kapasitetene skal tåle minst dobbelt så mange overskrivinger som forgjengeren, og inntil åtte ganger flere overskrivninger på de største kapasitetene. 
+I tillegg lover de at lese- og skrivehastigheter også skal være hevet et hakk, samt at SSD-ene nå skal være 100 prosent kompatible med Linux-baserte operativsystemer. 
+
+Vår test 
+
+De siste dagene har vi benyttet en 2,5 tommer SSD EVO 860 på 500 GB som systemdisk i vår stasjonære PC, en selvbygd maskin med Intel Core i5-6500K-prosessor. 
+
+Vi benyttet samtidig anledningen til å installere Windows 10 fra bunnen av, noe som har blitt langt enklere - selv for deg som ikke har installasjonsmedier fra før. 
+Det kan du lese mer om her. 
+
+For å måle lese og skrivehastigheten, benyttet vi programmet ATTO Disk Benchmark, og i skjermbildene under ser du hvordan ytelsen er sett i forhold til EVO 850 som vi har testet tidligere: 
+
+Som du ser, har ytelsen økt noe, og lesehastigheten ligger nå på rundt 550 MB i sekundet på det raskeste (litt større filer) og 520 MB i sekundet på skriving. 
+Dette er helt i tråd med det Samsung lover i markedsføringen sin. 
+
+Når det gjelder EVO 850, ligger hastigheten stort sett rundt 20 MB i sekundet lavere både på lese- og skrivehastigheten. 
+Om denne forskjellen vil være særlig merkbar i praksis, er vi usikre på - her er det nok levetiden som er den viktigste forbedringen i forhold til forgjengeren. 
+
+Flaskehalsen som ikke nødvendigvis merkes i praksis 
+
+Det er samtidig viktig å påpeke at en hastighet på 550 MB i sekundet er omtrent det maksimale av hva som er mulig å tyne ut av SATA-grensesnittet i dag (grensen er teoretisk 600 MB i sekundet). 
+
+Nye PC-er har i stedet SSD-er som kommuniserer via PCIe-grensesnittet, og vi har der målt lesehastigheter på rundt 2,5 GB i sekundet i flere PC-tester den siste tiden. 
+SATA kan i så måte ses på som en flaskehals, men det er slett ikke sikkert du vil oppleve den som særlig begrensende i praksis - det avhenger helt av hva du bruker PC-en til. 
+Forskjellen i forhold til en harddisk vil i alle tilfeller være langt, langt mer merkbar. 
+
+Konklusjon 
+
+Samsung SSD EVO 860 er en ypperlig SSD som byr på høy ytelse og levetid, som kan anbefales til deg som ønsker å gi den gamle PC-en din nytt liv. 
+
+SSD-ene er på vei til butikkene i skrivende stund, og prisene starter på 1090 kroner for 250 GB-utgaven i SATA-utgaven vi testet, men prisene vil variere fra forhandler til forhandler. 
+Til sammenligning fås forgjengeren 850 EVO for 929 kroner hos billigste forhandler ifølge Prisjakt.no 
+
+Sjekk ut denne oversikten hos Prisjakt for alternativer fra konkurrentene. 

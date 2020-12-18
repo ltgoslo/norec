@@ -1,0 +1,91 @@
+Dell Inspiron 6400
+Inspiron 6400 er den første datamaskinen fra Dell vi har hatt på testbenken med Intel Core Duo-prosessor, og vi var meget spente på ytelsen og batterilevetiden. 
+Vi ble ikke skuffet. 
+
+Et slags problem ved å teste bærbare PCer fra Dell er at den enkelte kunde kan skreddersy akkurat "sin" PC. 
+Så "Dell Inspiron 6400" kommer i et stort antall forskjellige konfigurasjoner, med en prislapp som varierer fra omtrent åtte til godt over 20 tusenlapper. 
+
+LES OGSÅ: 
+
+Dersom du har fulgt med har vi den siste tiden testet flere bærbare datamaskiner mellom 8 og 9 tusen og 15,4 tommers bredskjerm. 
+Vår favoritt så langt har vært Pavilion dv5054EA fra HP med Turion64-prosessor fra AMD. 
+Vi tenkte å runde av denne prisklassen for nå med å teste en "lettvekter" av en Inspiron 6400. 
+
+Inspiron 6400 er sølvfarget med hvite lister i kantene. 
+Bildet ble forøvrig tatt under batteritestingen (det har sin forklaring), som er grunnen til at skjermen er dimmet og bildet ser så grått ut... 
+
+Fulle spesifikasjoner: 
+
+Intel Core Duo T2300 @ 1,66 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (2 x 512 MB) 60 GB harddisk (5400 rpm) 8x DVD dual-layer DVD/CD-brenner Intel Media Accelerator 950 (opp til 256 MB delt minne) 54 Mbps WLAN (b/g) 10/100 LAN + modem 4x USB, 1x FireWire (4-pin), lyd inn/ut 1 CardBus kortplass 5-in-1 kortleser: SD, MMC, Memory Stick, Memory Stick Pro/xD VGA og S-Video-utgang (7-pins) 9-cellers batteri Dimensjoner (B/D/H): 35,6 x 26,7 x 4,2 cm Vekt ca. 3,0 kilo Pris: mellom 8 og 9 tusenlapper inkl. mva. 
+
+Bredskjermen har, som på de andre maskinene vi har sett på i denne prisklassen, en oppløsning på 1280 x 800 piksler. 
+Men - som du kanskje kan gjette - er det mulig å velge en bedre skjerm, hvis du da er villig til å gå opp i pris. 
+Likevel, på tross av at vi har den billigste skjermen så er det ikke så mye å klage på. 
+Betraktningsvinkelen er ikke all verden, men det forventer vi heller ikke. 
+
+Konstruksjon 
+
+Datamaskinen kan knapt kalles noen sylfide, med lokket igjen rager den 4,2 cm over bordflaten og vekten er på nærmere tre kilo. 
+Men designet vil tiltale mange og byggekvaliteten er meget god. 
+Skjermen gir akkurat passe motstand når den åpnes. 
+Baklokket tåler også press bedre enn de fleste bærbare vi har testet i samme prisklasse. 
+
+Touchpaden er som skjermen i bredformat og har skrollfelt både vertikalt og horisontalt. 
+Tastaturet preges også av kvalitet, med lavt støynivå og solid og kontant følelse. 
+Over tastaturet har vi foruten av/på-knappen kun en snarveisknapp, som på vår maskin starter "Dell Media Experience". 
+På fronten av maskinen finnes også snarveisknapper for medieavspilling som også er tilgjengelige når lokket er igjen. 
+Andre snarveier styres med Fn-tasten og det vanlige tastaturet. 
+
+Tilkoblingene på maskinen er plassert bak og på høyre side. 
+På venstre side finner vi bare DVD-spilleren. 
+
+På høyre side er det altså en ExpressCard/54-slot, lyd inn og ut, 2 x USB og firewire. 
+
+Bak finner vi strøminntaket pluss uttak for modem og LAN, 2 x USB, VGA og TV-ut. 
+Varmluften kommer også ut på bak til venstre. 
+
+Foran har vi som nevnt medieknapper: lydløs-tast(mute), volum opp/ned, play/pause, forrige/neste og stopp. 
+Fronten har også griller for de innebygde høyttalerne. 
+
+Over forventingene 
+
+Ytelsesmessig viste denne maskinen seg til å være en liten overraskelse. 
+Vårt eksemplar hadde kanskje den tregeste Core Duo-prosessoren som kan oppdrives, men den er likevel raskere enn mye annet vi har sett av mobile prosessorer. 
+Vi sammenlignet med HPs Pavilion dv5054EA. 
+
+Ren prosessorkraft. 
+Verdien er i sekunder, og lavere score betyr kjappere maskin. 
+
+Som vi ser så blir AMDs Turion64-prosessor på 1,8 GHz formelig overkjørt av Intel Core Duo @ 1,66 GHz i flere disipliner. 
+Turionen er heller ikke dobbeltkjernet, så i SysTool med to parallelle tråder (2X) har vi ingen verdi for den. 
+
+Våre første inntrykk bekreftes av PCMark og 3DMark. 
+Høyere score her vil si bedre maskin. 
+
+Vi legger også merke til at Intels interne grafikk-løsning ikke er spesielt mye dårligere enn XPRESS 200M-løsningen i HPs maskin. 
+Og trenger du mer pupp kan du for fem hundre ekstra oppgradere til et ATI Mobility X1300 grafikkort. 
+
+Men den store overraskelsen kom på batterifronten. 
+I Batterymark holdt det nemlig over seks og en halv time, noe som er det beste vi har målt så langt! 
+Med BatteryEater Pro fikk vi også et herlig resultat: 
+2 timer og 50 minutter. 
+
+"You've come a long way, baby". 
+Seks og en halv time i BatteryMark sier sitt! 
+
+Vårt testeksemplar var altså utstyrt med et 9-cellers batteri, mens standardbatteriet er på 6 celler. 
+Men 9-celleren koster bare litt over en hundrelapp mer enn standardbatteriet, og det er slett ikke dårlig investerte kroner. 
+
+For støyallergikere har vi også meget gode nyheter. 
+Maskinen utvikler relativt lite varme, så under lett jobbing er alle vifter i ro og det eneste vi såvidt hører er suset fra harddisken. 
+Ved hard belastning går vifta som forventet kontinuerlig, men støyvolumet ligger godt under smertegrensen og under de fleste andre bærbare vi har hørt. 
+
+Konklusjon 
+
+Dell Inspiron 6400 er fin sak som kanskje ikke er av de letteste, men likevel lett å leve med. 
+Faktisk har vi ikke til denne prisen sett lignende i henhold til ytelse og batterilevetid. 
+Når også støyen er mer eller mindre fraværende er det vanskelig å sette fingeren på noe som virkelig irriterer oss ved denne maskinen. 
+Trenger du for eksempel blåtann eller mer kraft på et eller flere områder er også det enkelt å ordne under bestillingen. 
+Men pass på, slikt gjør det også mulig å ende opp med en maskin som er adskillig dyrere. 
+
+Før vi noe motvillig sender maskinen tilbake gir vi den en meget solid femmer! 

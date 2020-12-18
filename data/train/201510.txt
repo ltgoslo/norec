@@ -1,0 +1,93 @@
+Dell Inspiron XPS Gen 2
+Dell sin siste desktoperstatter har blålys over alt, det hittil raskeste grafikkortet i noen bærbar, og det meste andre du kan tenkte deg. 
+Men det koster å være kar. 
+
+Da vi testet desktoperstattere før sommeren skulle vi gjerne hatt med Dell sin supermaskin, men den ble forsinket i overfarten. 
+Nå får vi imidlertid sett om den holder det den lover - maskinen som er den bærbare versjonen av spillmaskinene i XPS-serien. 
+
+LES OGSÅ: 
+
+Den fremste egenskapen til Inspiron XPS Gen 2 er nemlig grafikkortet fra Nvidia. 
+Dette er den første maskinen vi tester med GeForce 6800 Ultra på PCI Express, et kort som er langt raskere enn kortene uten "Ultra"-suffiksen. 
+
+Ellers er maskinen akkurat så stor og tung og rask som vi kan vente oss av en stasjonær PC i bærbar-forkledning. 
+Eller? 
+
+Spesifikasjoner 
+
+Intel Pentium M 770-prosessor 2,13 GHz, 2 MB L2 cache, 533 FSB2 GB DDR2-minne, 533 MHz 17-tommers skjerm, 1920 x 1200 (kontrastbelegg) 60 GB harddsik (5400 rpm) 
+DVD-brenner Gigabit ethernet, a/b/g WLAN (54 mbps), modem 6x USB 2, 1x FireWire SD-kortleser Vekt: 4,02 kilo Dimensjoner (H/B/D): 
+42,2/394/288 mm Pris: 
+27.944 kr. inkl.mva. 
+
+Prisen her er omtrent som spesifikasjonene - imponerende. 
+Dell har sendt oss en fullt utstyrt maskin til nesten tretti kalde lakser, mens den i basiskonfigurasjon koster nesten ti tusen kroner mindre - mer nøyaktig 18.999 kroner. 
+
+Utseendemessig er det tydelig at Dell har lagt vekt på at XPS Gen 2 skal snu hoder, men det er ikke sikkert alle vil like måten den gjør det på like godt. 
+I motsetning til den generelle trenden som går mot stilrene og diskrete uttrykk, har nemlig Dell lagt på massevis av blålys og skinnende, børstet aluminium. 
+
+Det er lys på sidene, på fronten, og ikke minst på baksiden, der XPS-logoen annonserer at dette slett ikke er et leketøy. 
+Eller kanskje det motsatte. 
+Det går visstnok an å skru av lysene, men vi fant ingen enkel måte å gjøre dette på. 
+
+Skjerm i toppklassen 
+
+Baksiden består ellers av bølgende børstet aluminium som gjør at flaten endrer seg når du snur på hodet. 
+Men det er ikke baksiden du sitter og ser på når du jobber: 
+
+På den riktige siden av maskinen har du nemlig en skjerm som bokstavelig talt skinner - med kontrastbelegg - og som ellers har ekstremt god kvalitet. 
+Oppløsningen er som for en 24-tommers CRT-skjerm, og på 17-tommeren i XPS Gen 2 føler vi heller ikke at det blir for små elementer på skjermen med 1920 x 1200 bildepunkter. 
+
+Da vi fikk maskinen, hadde Dell også skrudd på store skrifttegn for å hjelpe på, men med den kraftige lysstyrken og gode kontrasten ble ikke dette nødvendig. 
+Men problemene med kontrastbelegg er kjent; de blir til speil i friluft eller situasjoner med takbelysning. 
+
+Skuffende tastatur, flott lyd 
+
+Selve baseenheten ser ikke like brautende ut som resten. 
+Her er det et stort (og godt) tastatur i full størrelse som faktisk ser litt lite ut med all den tomme plassen rundt seg. 
+Det hadde også vært en fordel med et numerisk tastatur her - det er i hvert fall plass nok. 
+
+Ved siden av tastaturet er det ellers viftegriller som ligner på høyttalere. 
+Sistnevnte ligger i stedet i fronten, sammen med en subwoofer på bunnen, og lager forbausende god lyd - kanskje ikke den aller beste vi har hørt på en bærbar, men klart i klasse med Harman Kardon-høyttalerne i Qosmio-modellen til Toshiba. 
+Den har dessuten blålys, her også. 
+
+Grei skrivebordsytelse 
+
+Det er imidlertid ikke bare utseendet og design som skal selge XPS Gen 2-maskinene til Dell. 
+Dette er bare til for å fortelle omverdenen om kraften på innsiden, som er formidabel - spesielt hvis vi sammenligner med "vanlige" bærbare. 
+
+Etter å ha kvernet seg gjennom PCMark 04 fikk vi for eksempel nesten 4500 poeng, vel 1000 poeng mer enn normalen. 
+Sammenligner vi med de andre desktoperstatterne vi testet før sommeren, er imidlertid summen omtrent på linje. 
+
+Grafikken er juvelen 
+
+Det var ikke før vi testet 3D-ytelsen at bakoversveisen kom for fullt. 
+Det er lett å gå seg vill i diverse bokstavkombinasjoner som grafikkortprousentene setter på baksiden av modellnavnene sine, men når det kommer til Nvidia er Ultra betegnelsen på det beste kortet i klassen. 
+
+Det vil si bedre enn GT-kortene til over tre tusenlapper som mange sitter med i de stasjonære PCene sine, og langt bedre enn "vanilla"-versjonen uten noen bokstaver bak i det hele tatt. 
+
+Vi registrerte 11.139 poeng i 3DMark 03; en poengsum som du kanskje ikke får på PCen du leser denne testen på. 
+Såpass god 3D-grafikk i en bærbar er virkelig en sjeldenhet - og det er også maskiner som kan spille Doom 3 i høyeste oppløsning med fulle effekter. 
+
+Det eneste problemet er dessverre batterilevetiden, som er i underkant av halvannen time - til tross for at det bruker et 9-cellers li-ion-batteri. 
+Skulle du bruke grafikkortet for alt det er verd, tipper vi at du får under halvparten. 
+Dette er en maskin som spiser strøm til frokost, lunsj og middag. 
+
+Vanligvis hadde vi også sagt noe negativt om støy og varmeproduksjonen her, som ofte trekker like mye ned i maskiner som dette som batterilevetiden gjør. 
+Men det er ikke mer støy å hente i XPS Gen 2 enn i andre normale bærbare - bortsett fra at denne aldri blir helt stille. 
+Den har en grunnstøy som du såvidt vil høre hele tiden, men som ikke vil være plagsom med mindre du bor i en lydisolert kokong. 
+
+Siste inntrykk 
+
+Så XPS Gen 2 er absolutt en av de bedre bærbare PCene vi har testet. 
+Skulle vi bruke normale kriterier på en maskin som dette, hadde den fått veldig lav poengsum på mobilitet; selv om det følger med en ryggsekk, blir det tungt å drasse på en maskin som veier fem kilo med strømforsyning. 
+Og det er ikke denne maskinen som passer best i et flysete. 
+
+Til gjengjeld er dette en PC som du kan ta med deg på LAN-festen, eller til spillkonkurranser, vel vitende om at denne "lille" pakken antakelig er kraftigere enn det de svære supermaskinene er. 
+Så lenge du passer deg for takbelysning og har et strømuttak i nærheten. 
+
+Klart det er noe å kritisere den for også, og prisen er hovedproblemet. 
+Med Bluetooth, DVD-brenner og 2 GB minne kommer du opp i over 27.000 kroner, og da får du bare med Windows XP Home. 
+En desktoperstatter som dette kunne godt hatt numerisk tastatur, TV-kort og kanskje også en minnekortleser for flere enn ett format - og den trenger ikke lyse opp som et juletre hver gang du skrur den på, selv om mange vil synes at det er en fordel. 
+
+Men ytelsen er uansett helt rå; og ingen kan anklage deg for å ha en kjedelig grå Dell-boks mer... 

@@ -1,0 +1,144 @@
+Toshiba Chromebook CB30
+Pen bærbar med Chrome OS. 
+
+Fra 26. mai ble Chromebook tilgjengelig i Norge. 
+Dette er datamaskiner som kjører Chrome OS – et eget operativsystem fra Google som i praksis består av en nettleser med «något attåt». 
+
+Selve operativsystemet er såpass lett sammenlignet med Windows, at kravet til maskinvare er på langt nær så stort for denne typen bærbare PC-er. 
+
+Det gjør igjen at kostnadene kan holdes nede – denne Toshiba-maskinen bruker for eksempel bare en Celeron-prosessor, men oppleves i det daglige som like «snappy» som langt dyrere Windows-maskiner. 
+
+Hva er Chrome OS? 
+
+Vi tar ikke en full gjennomgang av Chrome OS i seg selv – vil du vite mer om hvordan dette fungerer kontra Windows, gjorde vi en fyldig gjennomgang da vi tittet på to Samsung-maskiner for et par måneder siden, i tillegg til lanseringsartikkelen da Chromebooks ble tilgjengelig for salg i Norge. 
+
+Kortversjonen er at dette er maskiner som er laget for å være på nett. 
+Uten nettilgang er funksjonaliteten begrenset, og det er altså snakk om maskiner som kun har en nettleser, samt enkle apper for å spille musikk og video. 
+
+Dog har det med årene blitt ganske mye du kan gjøre i nettleseren – musikk, for eksempel, hører mange på via strømmetjenester som Spotify, som også er tilgjengelig i nettleseren. 
+Stadig flere sverger også til Netflix eller lignende tjenester for å se på film – også de tilgjengelig i nettleseren. 
+
+(Vær imidlertid oppmerksom å at strømmetjenester som bruker Microsofts Silverlight-teknologi ikke er støttet i Chrome OS, for eksempel TV2 Sumo eller Viaplay.) 
+
+Om Chromebook-maskiner er noe for deg, avhenger av hva du bruker PC-en til ved siden av nettsurfing. 
+Hvis det er fint lite, kan dette være høyaktuelle maskiner å kjøpe neste gang. 
+Det kan det også være om du trenger en sekundærmaskin som er lett å ha med på tur og med god batteritid. 
+
+Så – til dagens testmodell. 
+
+Pen finish 
+
+På utsiden er det lite som vitner til at dette er en maskin til 3.000 kroner. 
+Den sparsommelige maskinvaren gjør også at behovet for kjøling er mindre, og dermed fremstår Toshiba-maskinen som ganske liten og nett. 
+
+Lokket og undersiden har en ruglete overflate som ser ut som aluminium, men som man raskt kjenner er plast. 
+Ved siden av Toshibas logo er også Chrome-logoen trykket på lokket. 
+
+Sett fra siden har også denne maskinen en avrunding i den ene enden slik at den fremstår tynnere enn den er. 
+Tykkelsen er for øvrig 23 millimeter og vekten oppgitt til 1,5 kilo. 
+
+Inn- og utganger 
+
+På høyre side av maskinen finner vi to USB3-porter, HDMI-utgang, samt lydutgang: 
+
+På motsatt side finnes en minnekortleser (SD), inngangen til lader og et Kensington-spor, som brukes for å låse fast PC-en fysisk. 
+
+Høyttalerene er plassert på undersiden av maskinen, noe som kan by på utfordringer dersom du ligger og ser på film i senga eller har den i fanget. 
+Når det er sagt, er den interne høyttaleren faktisk ganske god på denne maskinen (alt er selvsagt relativt her), med klar lyd og høyt volum når du drar på litt. 
+
+Bass, derimot, er det lite av. 
+
+Under finnes også vifteuttak som vi bare hører når vi legger øret inntil. 
+Ved normal bruk har vi ikke hørt noe til vifta, og varmeutviklingen har også vært svært beskjeden. 
+
+Enkel skjerm 
+
+Skjermen på denne maskinen er 13,3 tommer over diagonalen og har en oppløsning på 1366x768; en relativt vanlig oppløsning for rimeligere maskiner. 
+Panelet er av TN-typen og byr derfor på begrenset innsynsvinkel vertikalt, der fargene fort blir vasket ut og inverteres om du ikke ser direkte på den. 
+Den har også relativt høy refleksjon, som kan gjøre den vanskelig å se i omgivelser med sterkt lys. 
+
+Heldigvis lar den seg vinkle nokså langt bakover; cirka 135 grader. 
+
+Under ser du forresten et bilde tatt med det innebygde webkameraet: 
+
+Lydsvakt tastatur 
+
+Som med andre Chromebook-maskiner er tastaturet noe annerledes enn hva som er vanlig på Windows-maskiner. 
+
+Caps lock er borte til fordel for en søkeknapp (som søker på både på Google og lokalt på maskinen), Windows-tasten er selvsagt ikke til stede og F-tastene på den øverste knapperaden er byttet ut med andre knapper: 
+
+Tilbake, frem og oppdater siden (til nettleser)Aktivèr/deaktiver fullskjermmodus (kjekt når du ser film)Exposè, som viser en miniatyrutgave av alle åpne programmerJustering av lysstyrke og lydvolum 
+
+I tillegg finnes også en knapp for å slå av maskinen, som må holdes inne slik at du ikke er uheldig. 
+Fremdeles er @-knappen gjemt bak alt gr + 2, noe vi stusser litt over, gitt at dette er en maskin som primært er ment brukt på nettet. 
+
+…men forvirrende 
+
+Tastaturet på Toshiba-maskinen er av chicklet-typen, der knappene er adskilt fra hverandre. 
+Det gir liten lyd fra seg ved skriving, men spesielt mellomromstasten på vårt eksemplar føles tung slik at det ikke blir veldig godt å skrive på. 
+
+I tillegg gir den en sjenerende knirkelyd som gir oss følelsen av at dette en billig maskin. 
+Og det er det jo for så vidt også. 
+
+Maskinen har også et fellesnordisk tastatur som gjør at enkelte av knappene har både tre, fire og fem symboler på seg, der funksjonaliteten avviker fra land til land. 
+Det virker ganske rotete, spesielt siden enkelte av symbolene heller ikke lar seg skrive i kombinasjon med shift/alt, og der notasjonen virker å være inkonsekvent. 
+
+God styreflate 
+
+Styreflaten er forholdsvis stor på denne maskinen og måler 10,3 x 7cm. 
+Den har ingen separate knapper, men nederste del fungerer som en knapp når du trykker den inn. 
+I tillegg kan du prikke hvor som helst på styreflaten for å simulere trykk på musknappen – prikk med to fingre for å simulere høyreklikk. 
+
+Styreflaten har også flerberøringsfunksjoner. 
+Blant annet kan du hoppe tilbake og frem mellom nettsider ved å dra to fingre til sidene, skrolle innhold med to fingre (som har blitt nokså standard på alle maskiner) eller bytte mellom åpne faner med tre fingre. 
+
+Vi merker litt slark i styreflaten når vi skroller med to fingre, slik at det ofte kommer et lite "tikk" hver gang vi plasserer fingrene på den, men det hindrer den ikke i å være komfortabel og presis i bruk. 
+
+Hva med ytelsen? 
+
+Når vi tester Windows-maskiner har vi vanligvis programmer som måler ytelsen. 
+Det er ikke like tilgjengelig når alt man har er en nettleser. 
+
+For å ta det viktigste først, oppleves maskinen som svært kjapp i skøytene ved generell bruk. 
+Vi har hatt maskinen inne til test i snaue to uker, og selv med ti åpne faner går det helt smertefritt å spille av en YouTube-film i fullskjermmodus, eller spille Assassin's creed-seilespillet. 
+
+Vi har også prøvd oss på demoklipp med 4K-oppløsning (3840x2160), og til og med den slags videomateriale spiller Toshiba-maskinen med glans, selv om den naturligvis ikke kan vise mer enn cirka 1/8 av pikslene. 
+Dette gjorde vi faktisk samtidig med at vi strømmet musikk via Googles musikktjeneste. 
+
+Det er ganske imponerende fra en PC med såpass beskjeden maskinvarekonfigurasjon. 
+Vi har imidlertid opplevd noe hikking i bildemodulen i artikkelsystemet vårt, som er ganske ressurskrevende. 
+Faktisk krasjet Chrome en gang, der mangelen på arbeidsminne kan være forklaringen, i hvert fall i følge feilmeldingen vi fikk. 
+
+Enkelte ganger opplever vi også grå sjakkruter mens en nettside tegnes opp, slik vi ofte så på tidligere utgaver av iPad. 
+
+Det vitner om at det kan være smartere å gå for en modell med 4GB arbeidsminne. 
+
+Vi har kjørt noen nettleserytelsestester som vi tar vare på for fremtidig referanse mot andre Chromebook-maskiner: 
+
+Meget godt batteri 
+
+PC-er til 3000 kroner har som regel ganske begrenset batteritid sammenlignet med dyrere maskiner – siste utgave av Macbook Air holdt for eksempel i godt over tolv timer da vi testet den tidligere denne måneden, men koster også vesentlig mer. 
+
+Toshiba har oppgitt batteritiden til 8,5 timer på denne maskinen, og i det dette skrives har vi brukt maskinen i snart seks timer med 28 prosent igjen på batteriet; da med spilling av video, ytelsestester, nettsurfing, lytting til musikk (via Bluetooth) etc., og det med skjermstyrken på cirka 60 prosent. 
+Anslaget på 8,5 timer ved normal belastning (50 prosent lysstyrke, uten Bluetooth) virker derfor å være ganske godt. 
+
+Konklusjon 
+
+Det er vanskelig å trille terning til et produkt som er førstemann ut i en helt ny produktserie, men la oss prøve så godt vi kan. 
+
+Maskinen fra Toshiba er pen å se på, er bare drøye to centimeter tykk og veier bare halvannen kilo. 
+Den har en god styreflate og oppleves som svært kjapp i vanlig bruk (noe vi regner med at alle Chromebookene som er lansert også gjør). 
+Med på kjøpet får du også HDMI-utgang slik at den kan kobles til en TV. 
+
+Likevel er ikke alt rosenrødt. 
+Skjermen imponerer ingen, med 1366x768-oppløsning og TN-panel som gir svak innsynsvinkel (andre Chromebooker byr på IPS-skjerm, og en foreløpig ulansert Samsung-maskin har full HD-oppløsning). 
+Vi stiller oss også spørrende til hvorvidt 2GB arbeidsminne er nok selv for dette lette operativsystemet. 
+
+Vi synes heller ikke Toshiba har vært helt heldige med tastaturet, der spesielt mellomromstasen virker tung og gir en knirkelyd når den blir trykket på. 
+Heldig er det heller ikke at tastaturet er fellesnordisk, der enkelte knapper virker forvirrende, med inntil fem symboler på seg. 
+
+Vi lander derfor på en firer på terningen til den første 13 tommers Chromebooken som offisielt er lansert i Norge. 
+
+Slett ikke noe dårlig kjøp, men vi regner med at det også vil komme bedre maskiner fra Chromebook-leieren den nærmeste tiden, som Samsungs 13-tommer som byr på full HD-oppløsning, dobbelt så mye arbeidsminne og bredere trådløs nettverksstøtte i en slankere og lettere innpakning til bare femhundrelappen mer. 
+
+Toshiba Chromebook CB30-102 

@@ -1,0 +1,72 @@
+Belkin Pre-N
+Vi har testet Belkins MIMO-ruter, som napper vår testvinner i hælene både på rekkevidde og hastighet. 
+
+Egentlig var Belkin først ute på markedet med denne ruteren, som den første med MIMO (Multiple In Multiple Out) antenneteknikk. 
+Derfor har vi ventet i spenning på et testeksemplar, som til slutt fant veien til vår testlab. 
+
+LES OGSÅ: 
+
+Belkin og Linksys bruker samme basisteknologi, som er basert på brikker fra teknologi-leverandøren Airgo. 
+Dette skiller disse fra de andre produsentene som tilbyr rutere med større dekning enn standardløsningen. 
+
+Belkin kaller sin ruter for "Pre-N" som henspeiler på neste generasjon standard for trådløst nett, som vil hete 802.11n. 
+Siden Belkin er ute med produkter før denne standarden er ferdig, kaller de den altså Pre-N. 
+Om den vil tilfredsstille kravende i den endelige versjonen av den nye standarden er vel tvilsomt. 
+Men du forskutterer til gjengeld flere av fordelene allerede i dag. 
+
+Spesiell design 
+
+Mens Linksys' ruter (testvinner tidligere i høst) har et vertikalt design, med antennene i forskjellige retninger på toppen, er Belkin flat med tre antenner på rad. 
+Den er derfor ganske plasskrevende ved plassering på bord, men den kan også henges på vegg, det er 2 skruefester til dette på baksiden. 
+
+De skrå sidene gjør at det ikke er mulig å balansere den på høykant. 
+
+Tilkoblingene er på motsatt side av antennene, og vi finner et helt standard sett med 4 svitsjede porter, en WAN-port og kontakt til strømforsyningen. 
+Det er altså ingen ekstra funksjonalitet, som printerstøtte eller tilkobling for nettverkslagring. 
+
+Installasjon 
+
+Belkin leverer ruteren med en merkelapp over tilkoblingene, en brukerveiledning på mange språk og en CD som inneholder en veiviser for oppkobling og konfigurasjon. 
+Denne fungerte utmerket. 
+
+Men det er ikke noe i veien for å koble seg opp mot ruteren direkte, ved å taste IP-adressen, og konfigurere den direkte fra web-grensesnittet. 
+DHCP-serveren er som normalt aktivert, så det er grei skuring. 
+
+Det følger med en bok med omfattende dokumentasjon av installasjon, konfigurasjon og bruk. 
+I tillegg er det en del generel veiledning og bakgrunnsstoff om den trådløse teknikken, dens fortreffeligheter og hindringer. 
+
+Ruteren byr på standardfunksjonalitet, med fitrering, trådløs sikkerhet, port-forwarding for virtuelle maskiner, brannmur osv. 
+
+Det er også en QoS-setting, men denne kan bare slås av og på. 
+Den prioriterer VoIP og multimedia etter 802.11e, men du har ingen parameterkontroll. 
+
+Ruteren var rask til å komme tilbake i drift etter parameterendringer, og vi gjorde oss klar til å teste. 
+
+PC-Card 
+
+Vi gjorde testen med Belkins kort i vår bærbare, for å finne ut hva totalløsningen var god for på samme måte som med de andre ruterne vi har testet. 
+
+Dette kortet leveres også sammen med med PCI-kort, slik at det også kan brukes i stasjonære PCer. 
+
+I vårt trehus oppnådde vi utmerket dekning, med hastighetheter i området 4 MByte/sek i tre plan inkludert kjeller, med ruteren plassert på det fjerde (hemsen oppunder mønet). 
+
+Sammenlignet med Linksys SRX var Belkin raskere, men mer ujevn over tid. 
+Snittytelsen ligger likevel høyere. 
+
+I DinSides kontorlokaler var ytelsen god både i nærheten av ruteren (Pos 1) og i de vanskelige plasseringene i andre enden av lokalene utenfor tykke murvegger (Pos 2) , samt på mesaninen bak perforerte stålplater (Pos 3). 
+
+Sammenlignet med Linksys lå Belkin et lite hakk under i den nærmeste måleposisjonen, mens ytelsen i de vanskelige posisjonene var svært lik. 
+
+Rekkevidde utendørs 
+
+I området utenfor vårt trehus var rekkevidden den samme som Linksys SRX, omtrent dobbelt så langt som de beste ordinære ruterne. 
+
+Konklusjon 
+
+Belkin og Linksys er basert på samme teknikk og tilbyr svært lik ytelse og egenskaper. 
+
+Prismessig ligger de også i samme område, begge tilbys i forskjellige nettbutikker til en pris rett i overkant av tusenlappen. 
+
+Hvilken ruter du velger vil da bli hipp som happ, du kan gjerne la designet bestemme. 
+
+Uansett vil du få en ruter med en ytelse som ingen andre produsenter kan matche. 

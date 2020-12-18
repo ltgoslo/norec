@@ -1,0 +1,89 @@
+TEST:Verdens raskeste eksterne SSD 
+
+Rå ytelse, men prisen er like vill. 
+
+Det skal godt gjøres å finne en bærbar PC med en vanlig harddisk i, men snurrediskene, som de ofte kalles, er fortsatt til stede i stasjonære PC-er og som eksterne lagringsdisker. 
+Mye av årsaken til at harddisken fortsatt har en tilstedeværelse i markedet for ekstern lagring, er fordi prisen fremdeles er forholdsvis høy for de mye raskere SSD-diskene (Solid-state drive). 
+
+Mens man kan få en ekstern harddisk med 4 TB til drøyt tusenlappen, får man til samme pris en SSD med ikke mer enn 500 GB lagringsplass. 
+
+Fordelen med å velge en SSD kontra den tradisjonelle harddisken, er først og fremst hastigheten. 
+Dagens SSD-er er mye raskere, samtidig som de er mer holdbare enn de noe ømfintlige snurrediskene. 
+
+SSD-ene tar over 
+
+Tidligere i år testet vi Samsungs SSD EVO 860-disk, riktignok intern lagring, men det er et fint eksempel på hvor rask lagringen er blitt. 
+Den eksterne SSD-en vi har hatt inne på testbenken nå, er helt i en annen klasse og er faktisk første i sitt slag. 
+
+Mens EVO 860 er en SATA-disk, er Samsung X5 en SSD av typen NVMe. 
+Dette er samme lagringsbrikke som sitter i MacBook Pro og de beste Ultrabookene med Windows 10, blant annet Lenovo ThinkPad X1 Carbon som vi har brukt under testingen. 
+
+To store fordeler den har over de vanlige SATA-diskene er at NVMe er ganske mye raskere og er mye mindre slik at de får plass i enheter som ultratynne PC-er. 
+
+Dessverre er det ikke slik at man kan koble Samsung X5-disken til hvilken som helst PC og dra nytte av superrask dataoverføring. 
+Å ha en PC med USB-C er heller ikke nok: man er nødt til å ha en PC (enten Windows eller macOS) utstyrt med Thunderbolt 3. 
+Samsung gjør det klart at X5 ikke fungerer med datamaskiner som har USB-C uten Thunderbolt 3 eller USB-A (2.0 eller 3.0). 
+
+Selskapet anbefaler også at PC-en som den eksterne SSD-en kobles til, har en intern lagringsbrikke som er like rask eller raskere enn X5. 
+Så for å dra full nytte av brikken, bør du også ha et system som er utstyrt med NVMe-lagring. 
+
+Oppsett og utforming 
+
+Det er ikke hokus pokus å komme i gang med Samsungs lynraske lagringsbrikke, og du kan enkelt koble den til USB-C-kontakten på PC-en din og begynne å overføre filer. 
+Man kan også installere programvaren Samsung Portable SSD Software som kan brukes til å oppdatere fastvaren til X5, endre navn på disken og aktivere passordbeskyttelse for å sikre filene dine hvis noen med onde hensikter får tak i den. 
+
+Har du flere eksterne lagringsenheter fra Samsung, kan du konfigurere dem i samme program. 
+
+Selve disken har en overside som er utformet i magnesium og Samsung sier X5 skal tåle fall på 2 meter uten at enheten går i stykker. 
+Dette er en av fordelene med SSD fremfor harddiskene; ingen bevegelige deler som betyr at de er mer motstandsdyktige. 
+Ta også med at de er helt stillegående. 
+Undersiden består av en ru overflate i plast som sørger for at X5 ligger stødig på skrivebordet. 
+
+I motsetning til eksterne harddisker, er de eksterne SSD-ene forholdsvis små og X5 er faktisk mer lommevennlig enn smarttelefonen din. 
+Vekten er på kun 150 gram. 
+
+Gjør dette for maksimal ytelse 
+
+Hastighet er kanskje det viktigste, foruten pris, når man skal velge ekstern lagring, og da er det ingen som kan måle seg med Samsung SSD X5. 
+Dette er de offisielle tallene: 
+
+Slik er oppsettet på test-PC-en: 
+
+I de første ytelsestestene av X5 ble vi litt overrasket i negativ forstand. 
+Tester i verktøyene Atto og CrystalDiskMark viste at lesehastigheten var solid og somtrent som lovet av Samsung, men skrivehastigheten var ikke mer enn 600 MB/s. 
+Vi tok dermed kontakt med Samsung for å finne ut hva som var galt. 
+
+Det viste seg at man må aktivere «skrivehurtigbuffer på disken» under SSD-ens innstillinger, noe som gjorde susen. 
+
+Under «Skriv hurtigbuffer-policy» står det: 
+
+«Forbedrer systemytelse ved å aktivere skrivehurtigbufferen på enheten, men et strømbrudd eller feil på utstyret kan resultere i datatap eller feil.» 
+
+For aller best ytelse aktiverte vi også «Bedre ytelse» under Fjerningspolicy. 
+Hurtigfjerning er aktivert som standard og da kan man nappe ut kabelen uten å risikere at noe går skeis. 
+Med bedre ytelse aktivert må man trykke på« sikker fjerning av maskinvare» før man kobler fra SSD-en. 
+Greit å være obs på. 
+
+Disse innstillingene finner man ved å høyreklikke på Samsung X5 i filutforsker – velge Egenskaper – Maskinvare – Egenskaper – Endre innstillinger (krever admin-tilgang) og Policyer. 
+
+Super, men litt variabel ytelse 
+
+Når det var gjort, var overføringshastigheten mer i den gaten vi hadde forventet. 
+Da fikk vi disse resultatene i Atto og CrystalDiskMark: 
+
+Ved overføring av en fil på rundt 10 GB fra PC til SSD og SSD til PC var hastighetene følgende: 
+
+Som du ser, var lesehastigheten – altså fra PC til SSD – mer stabil enn skrivehastigheten – SSD til PC – der overføringen i starten var rask før den sank rundt halvveis til så lavt som rundt 350 MB/s. 
+
+Overføringen til og fra Samsung T5 er, en ekstern SSD med SATA-grensesnitt, som du kan se i bildene under, mer stabil og ligger jevnt på 330 MB/s. 
+
+Konklusjon 
+
+Det er ingen tvil om at Samsung X5 er en rask, ekstern SSD. 
+Til tider er den disken superrask, men hastigheten når man overfører fra SSD-en til PC-en er noe ustabil. 
+
+Akkurat nå er vel spørsmålet om hastigheten til X5 kan veie opp for den høye prisen Samsung skal ha for den. 
+Et raskt søk på Prisjakt viser at det koster snaut 6900 kroner for modellen på 1 TB, T5 med samme lagringsplass – dog på ingen måte like rask – finner man til drøyt 2700 kroner. 
+
+Av den grunn har vi litt vanskeligheter med å anbefale Samsung X5 fremfor T5 på nåværende tidspunkt, med mindre man vil ha det beste av det beste og pris er ikke et spørsmål. 
+Uansett er det ingen tvil om at NVMe-brikkene er fremtiden og vil bli enklere å anbefale når prisen er litt mer levelig. 

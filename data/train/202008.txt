@@ -1,0 +1,36 @@
+Nec ND-3550A
+Den første DVD-brenneren fra Nec som støttet begge formater kom i mai 2003. 
+Dagens testobjekt er flere ganger raskere og minst like mange ganger billigere. 
+
+Nec ND-3550A er en meget populær brenner. 
+Den er kjent for å være stabil og rask, samtidig som den er blant de billligste du får tak i. 
+Det finnes et par nyere modeller med et par tilleggsfunksjoner, men selve de grunnleggende egenskapene får du også i denne rimeligste modellen. 
+
+LES OGSÅ: 
+
+Den forrige vi Nec-brenneren vi testet var 3520A, som ble testet i januar 2005. 
+På det tidspunktet var ikke 16x plater tilgjengelige i begge formater, og overskrivbare plater var heller ikke tilgjengelige i de hastighetene brenneren støttet. 
+Double Layer var også bare tilgjengelig i 2,4x hastighet. 
+
+Nå er 16x plater standard, og overskrivbare plater samt Double Layer er også tilgjengelig i raskere utgaver enn den gang. 
+Siden vi fremdeles har en 3250A i en av våre tesPCer, testet vi derfor både 3550A og 3520A med de samme platene. 
+Og vi fikk interessante resultater - de beste tidene er uthevet: 
+
+Vi ser at 16x gir langt mindre gevinst i forhold til 8x enn den indikerte hastigheten, når vi brenner 2 GB eller 4 GB. 
+Det er først og fremst ved brenning av Double Layer at det er stor forskjell på de to modellene, med nesten 8 minutters gevinst, eller 2/3 av tiden. 
+
+Interessant var det også at brenning av CD samt ripping av musikk-CD var langt raskere på den siste modellen. 
+
+Sammenligner vi Nec ND-3550A med de andre rimelige brennerne fra Samsung og BenQ som koster det samme, og Plextor som koster to og en halv gang mer, så er det enda mer interessant: 
+
+Som vi ser er det ikke store avvikene mellom noen av brennerne, bortsett fra ved Double Layer. 
+
+Konklusjon 
+
+Nec ND-3550A er en rimelig og kapabel brenner som hevder seg godt blant de andre på markedet. 
+Den plasserer seg ikke på topp i noen av disiplinene, men det er bare noen få sekunder om å gjøre på de fleste. 
+
+Nec er heller ikke kjent for å være kresen på plater, men her får man selv avveie om man skal kaste bort tid på å spare noen få kroner på billige plater. 
+
+Vi tester alltid med kvalitetsplater fra Verbatim når vi tester brennere. 
+Det er fordi dette er en test av brennere, og ikke av plater. 

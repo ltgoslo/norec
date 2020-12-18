@@ -1,0 +1,60 @@
+D-Link DIR 655
+Draft-n ruterne blir bedre og bedre og flere modeller dukker opp. 
+Vi har testet den nyeste modellen fra D-Link som knuser forgjengeren. 
+
+D-Link har ikke hvilt på sine laurbær, siden nye brikkesett dukker opp og konkurrentene seiler opp med potente produkter. 
+De er nå klare med en ny trådløs ruter som har blitt opprustet på flere områder. 
+
+LES OGSÅ: 
+
+Nytt design 
+
+Selve designet er vel egentlig ikke nytt, fasongen er nesten identisk med forgjengeren, men fargevalget er totalt forskjellig. 
+Tidligere har D-Links produkter vært i sølv/grå og blågrønt, så kom gamer-ruteren og RangeBooster i "proff" matt sort, men den siste modellen er altså blank hvit, med en kant i sort. 
+Dette gjør den muligens lettere å akseptere visuelt i miljøer der den vil være synlig, kanskje 
+D-Link har tenkte at hvitt er mer gangbart der det er kvinner som har det avgjørende ord? 
+Etter vår mening ser den i hvert fall mer diskret ut. 
+Hvit blank overflate er heller ikke på langt nær så følsomt for synlige fingeravtrykk som den trendy sorte blanke overflaten vi finner på mange produkter. 
+
+Tilkoblinger 
+
+Her finner vi standard tilkoblinger, 4 LAN-porter og 1 WAN-port. 
+
+Det er også en USB-port, men denne kan ikke brukes for tilkobling av enheter som kan deles på nettverket, den er bare for tilkobling til en minneplugg for lagring/lesing av konfigurasjonsdata. 
+
+De 4 LAN-portene støtter Gigabit-nettverk, som også tidligere fantes på en av forgjengerene, GamerLounge-ruteren. 
+Den nye er at også WAN-porten støtter Gigabit nettverk. 
+Nå er det sjelden at man kobler denne type ruter til enheter som serverer internettilgang med slike hastigheter, men man kan jo uansett si at en teoretisk flaskehals er fjernet. 
+
+Viktigere er at den interne prosessoren er kraftigere enn på tidligere modeller, og skal kunne håndtere mer trafikk på høyere hastigheter. 
+
+Dette er jo vel og bra, men den trangeste flaskehalsen i hjemmenettet er uansett den trådløse delen. 
+Her skal også hastigheten være høyere enn tidligere, noe våre målinger bekreftet. 
+
+Målinger 
+
+Vi testet både i kontormiljø under vanskelige forhold med mange hindringer, og i hjemmemiljø i vårt trehus over 4 plan. 
+
+I testen brukte vi D-Links Cardbus DWA-645 i den bærbare. 
+
+I kontormiljø var rekkevidden og stabiliteten i hastigheten rett og slett imponerende: 
+
+Sammenligner vi med forgjengeren snakker vi om ren utklassing. 
+
+Sammenligner vi med SMC-ruteren vi testet for kort tid siden, er D-Link igjen overlegen på rekkevidde. 
+
+I vårt trehus er ikke forskjellen like stor når vi sammenligner med SMC-ruteren: 
+
+Sammenlignet med den forrige D-Link ruteren DIR-635 så er forskjellen en del større: 
+
+Konklusjon 
+
+D-Link DIR-655 er den klart raskeste og beste på rekkevidde av de trådløse ruterne vi har testet. 
+
+Når den i tillegg byr på Gigabit-nettverksstøtte både på WAN og LAN, pluss mange andre egenskaper som gjør den svært anvendelig, så må vi bare si at vi er imponert. 
+
+Den innledende testingen kvalifiserer til en 6'er. 
+Før vi stadfester dette og gir den endelige karakteren skal vi imidlertid teste trafikkprioriteringen og hvordan den håndterer mer påtrykk over WAN-forbindelsen. 
+
+Stabiliteten over en litt lengre tidsperiode vil også bli en del av oppfølgingen. 
+Etter flere dagers bruk har vi ikke funnet noen tegn til ustabilitet eller andre nykker. 

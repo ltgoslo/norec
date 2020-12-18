@@ -1,0 +1,100 @@
+Dell XPS 15Z
+Er dette Dells svar på MacBook Pro? 
+
+Mange oppfatter Apples datamaskiner som bedre designet enn de fleste Windows-baserte PC-er. 
+Spesielt gjelder dette MacBook Pro-maskinene, som er frest ut i ett stykke metall, og som er relativt slanke, robuste og lette. 
+
+Det er kun de færreste Windows-PC-er som har hele kabinettet i metall. 
+Det er mange grunner til det, men en av de viktigste er at lav pris er et vesentlig større salgsargument her enn det er i Apple-sfæren. 
+Og plast er billigere enn metall, enkelt og greit. 
+
+Ligner Apple, men mye rimeligere 
+
+Men ikke alle er opptatt av at ting skal være billigst mulig, og det finnes heldigvis alternativer til plast-PC-ene. 
+Dell XPS 15Z er et slikt alternativ, som umiddelbart gir oss assosiasjoner til nettopp MacBook Pro-serien. 
+
+Maskinen er imidlertid vesentlig billigere enn maskinen fra Apple, prisene hos Dell starter på 8.490 kroner. 
+Da får du følgende: 
+
+15,6" LED-baklyst, blank LCD-skjerm med full HD-oppløsning (1920 x 1080 piksler) 
+Kabinett av aluminium Intel GMA HD 3000/Nvidia Geforce GT 525M grafikkort Intel Core i5-2410M prosessor 4 GB minne (2 x 2 GB) 500 GB harddisk, 7200 rpm 1,3 megapiksels webkamera 2 stk USB 3.0-porter 1 stk kombinert USB 2.0 / eSATA-kontakt HDMI og DisplayPort skjermutganger Slot-in DVD-brenner Bluetooth 3.0 Trådløst nettverk (b/g/n) Kortleser for SD-kort Windows 7 Home Edition 64-bits Vekt: 
+2,5 kg Størrelse: 2,46 cm x 38 cm x 26 cm 
+
+Vår testmodell koster et par tusenlapper mer, og er da utstyrt med Core i7-2620M-prosessor og 8 GB minne. 
+
+Liker du designen på MacBook Pro, vil du også like XPS 15Z. 
+Når den er lukket er den mest lik, åpen er det klare forskjeller, blant annet er metallet mørkere. 
+Den matte metalloverflaten er uansett svært praktisk, ikke bare blir maskinen godt oppstivet og tåler en støyt, fingeravtrykk vises rett og slett ikke. 
+
+Skjermen har full HD-oppløsning, og er svært skarp og kontrastrik. 
+Høy oppløsning gjør at tegn i utgangspunktet blir mindre, men her har Dell skalert opp skriftstørrelsen i Windows. 
+Det gir fine, avrundede tegn uten hakkete kanter. 
+
+Spesielt tastatur 
+
+Det er ikke noe numerisk tastatur her, så det er god plass på hver side av det baklyste chicklet-tastaturet. 
+Hver tast er avrundet, og det er god plass mellom hver tast. 
+Vi merker oss at Å og Æ er smalere enn de øvrige bokstavene, dette henger sammen med at Dell neppe hadde norske tegn i tankene da de designet PC-en. 
+
+Tastaturplaten er uansett fast og fin, og tastene avgir lite støy. 
+De to knappene som sitter under pekeplaten avgir heller ikke noe høye klikk, og takk for det. 
+
+Det sitter et par stereohøyttalere på hver side av tastaturet. 
+Lyden er imidlertid tynn, fraværet av bass er nærmest totalt. 
+En god høyttalerløsning her hadde gjort maskinen dyrere, men det hadde den fortjent, synes vi. 
+
+Feil? 
+
+Selv om maskinen virker meget veldreid, opplevde vi til vår store overraskelse at bare tre av fire ben berørte bordplaten. 
+Et trykk bak i høyre hjørne fikk den til å vippe litt. 
+Vi håper dette skyldes en feil ved vårt eksemplar, for selv om det ikke er noe stort problem, harmonerer det lite med kvalitetsfølelsen Dell ønsker å formidle. 
+
+En annen detalj som trekker totalopplevelsen noe ned, er en konstant during fra harddisken på grunn av vibrasjoner. 
+Disken roterer med 7200 omdreininger i minuttet, og det er ikke uvanlig at så raske disker avgir litt støy. 
+Det er mulig metallkabinettet er med på å forverre vibrasjonene. 
+Legger vi håndflaten til venstre for pekeplaten, merker vi vibrasjonene godt. 
+
+En SSD hadde vært tingen for denne PC-en, men det er dessverre ingen opsjon å få den levert med dette. 
+
+Maskinen er også utstyrt med vifter som avgir litt mer støy under belastning enn vi hadde håpet for en såpass kostbar (og strømgjerrig) maskin, men under normal, lett bruk er kjølebehovet lavt, med tilhørende lav støy. 
+Her er de nye Intel-prosessorene veldig smarte. 
+
+God ytelse 
+
+Og ytelsesmessig har den lite å skamme seg over. 
+Det er ikke den raskeste Core i7-prosessoren, men den hører definitivt til i high-end-delen av markedet. 
+Grafikken er mer midt på treet, rask nok for de aller fleste nyeste spillene, i hvertfall vi du går litt ned på detaljnivået. 
+
+Først ser vi på Windows egen opplevelsesindeks, her går skalaen fra 1,0 (svakest) til 7,9 (best): 
+
+Prosessor: 7,1 Minne (RAM): 
+7,5 Grafikk: 
+5,9 Spillgrafikk: 
+6,3 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest gir oss følgende tall, og i diagrammene under har vi sammenlignet mot utstyr som sitter i maskiner som ligger i samme prisklasse (rundt 10.000 kroner). 
+
+Først prosessor: 
+
+Dernest grafikken: 
+
+Batterilevetiden målte vi i to omganger, først med minimal belastning. 
+Da varte batteriet i 6 timer og 43 minutter. 
+I andre omgang spilte vi av en videofil i HD-oppløsning gjennom Windows Media Player. 
+Etter 4 timer og 18 minutter var det slutt. 
+Med normal, variert belastning kan du forvente mellom 5 og 6 timer operasjonstid. 
+
+Dette er godt over middels gode resultater, selv om det er et godt stykke opp til en annen Dell PC vi testet nylig. 
+
+Konklusjon 
+
+Dell XPS 15Z er slank og linjelekker, har en fantastisk god og skarp skjerm, generelt god ytelse og bra batterilevetid. 
+Men i dette prisleiet setter vi listen for en femmer på terningen høyt. 
+Etter grundige vurderinger lander vi til slutt på en sterk firer, som absolutt ikke er noe dårlig skussmål. 
+Maskinen mister femmeren først og fremst på grunn av vibrasjoner i kabinettet, spinkel lyd fra høyttalerne og litt mer viftestøy under belastning enn ønskelig. 
+En SSD burde definitivt vært en opsjon i denne PC-en, det hadde blant annet fjernet vibrasjonene. 
+
+OPPDATERT: 
+Du kan nå få modellen med SSD også. 
+Lenke. 

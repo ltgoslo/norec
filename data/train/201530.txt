@@ -1,0 +1,61 @@
+Fujitsu-Siemens Amilo A 7620
+Den er basert på Mobile Athlon XP-prosessor, som gir svært mye ytelse for pengene. 
+I tillegg har den det meste av hva som skal til for å kunne erstatte de fleste stasjonære PCer. 
+
+Vi har testet en rekke maskiner i Amilo-serien, sist ut var Centrino-baserte Amilo M7400, som for øvrig gjorde et meget solid inntrykk på testpanelet. 
+Mens M7400 retter seg mot mobile brukere, er målgruppen for Amilo A7620 først og fremst deg som ønsker en kompakt og prisgunstig erstatning for den stasjonære PCen. 
+Da blir ytelse, utstyr og tilkoblingsmuligheter langt viktigere enn lav vekt og lang batterilevetid. 
+
+LES OGSÅ: 
+
+Her er en kjapp oppsummering av maskinvaren i vårt testeksemplar: 
+
+Mobile AMD Athlon XP 3000+ prosessor (Barton) 60 GB harddisk (4.200 rpm) 
+DVD-brenner (2,4x DVD+RW) 15" LCD (1024 x 768 punkter) ATI Mobility Radeon 9000 grafikk, 64 MB VGA med TV-utgang 5 USB 2.0-porter Firewire-port PS/2-port parallellport 1 x PCMCIA-plass VGA med TV-utgang Innebygd mic og mic-inngang (mono), øretelefon ut (stereo) med støtte for S/PDIF 56 Kb modem 10/100 Mbit nettverk Leveres med Windows XP Home og en del programmer. 
+
+Ingen tvil om at utstyrsnivået er bra, men foruten hele 5 USB 2.0-porter er det ikke noe her som er oppsiktsvekkende i klassen. 
+Vi hadde for eksempel satt pris på trådløse tilkoblingsmuligheter, men her finnes verken infrarød port, Bluetooth eller WLAN. 
+Vi merker oss for øvrig at diskettstasjonen nok en gang er fraværende, nå er det kun de aller færreste modellene som selges med denne innebygd. 
+
+PCen leveres med en god programpakke, som inneholder Windows XP Home (norsk), MS Works Suite 2003 (norsk), Norman Antivirus, Adobe Photoshop Album, Adobe Photoshop Elements 2.0 mm. 
+Slett ikke verst! 
+
+Når det gjelder eksteriøret, har Fujitsu-Siemens lagt vekt på funksjon og brukervennlighet, og langt mindre på design. 
+Kabinettet er for øvrig det samme som benyttes på Amilo D 8830 
+Her er brukt grått plast fra innerst til ytterst, og med målene 345 x 282 x 39 mm samt vekten på over 3,5 kg, bør de mest mobile brukerne se en annen vei med det samme. 
+Til alle andre kan vi opplyse om at maskinen har et meget godt og romslig tastatur med faste taster, og en kontraststerk og fin skjerm. 
+
+Hva med støy? 
+
+Tidligere tester av PCer basert på Mobile Athlon XP-prosessorer viser at de kan måle seg med Intels Mobile Pentium 4 på de fleste områder. 
+Det kan derimot virke som om AMD- prosessorene krever noe mer kjøling, noe som ofte gjør seg utslag i støy fra vifter. 
+I denne PCen er det minst to vifter, sannsynligvis på grunn av at grafikkbrikken også trenger å kjøles ved tung belastning. 
+
+Hvis du surfer på nettet eller skriver et dokument, kan du forvente lange pauser mellom hver gang viftene må kjøle systemet. 
+Men under noe belastning, herunder bilderedigering, kalkulasjoner, spilling etc, må du forvente at både viftene går - så lenge oppgavene pågår. 
+I et kontormiljø blir viftene knapt merkbare, men til lesesalen ville vi valgt en annen maskin. 
+
+Best på ytelse 
+
+Ytelsesmessig overbeviste A7620 stort. 
+På noen av de prosessorkrevende oppgavene, deriblant MP3-komprimering, var den raskest av samtlige PCer vi har testet. 
+Også i grafikktestene ble ytelsestallene helt i toppklassen, sett i forhold til bærbare PCer vi har testet tidligere. 
+Ingen eksisterende 3D-spill vil få problemer i 1024 x 768 med denne brikken. 
+Harddiskytelsen viste seg derimot å være mer ordinær. 
+
+Hva med batterilevetiden? 
+Selv om dette er en PC som trives best på skrivebordet, er det en fordel å kunne jobbe uten å være tilkoblet strømnettet hele tiden. 
+Fujitsu-Siemens opplyser ca 2 timers levetid, vi målte den til nøyaktig 2 timer og 13 minutter. 
+Ingenting å ringe hjem om, spesielt ikke med tanke på at maskinen er utstyrt med en strømsparende mobilprosessor. 
+
+Klikk på lenken Tekniske data i oppsummeringsboksen for detaljer omkring ytelse og fysiske egenskaper. 
+
+Konklusjon 
+
+Joda, Amilo A7620 innfridde våre forventninger, og må absolutt vurderes dersom du først og fremst er ute etter en maskin som yter på høygir i de aller fleste situasjoner. 
+
+Noe viftestøy, moderat batterilevetid, og det faktum at vi begynner å forvente trådløse tilkoblingsmuligheter på nye bærbare PCer - uansett klasse, utgjør de mest åpenlyse forbedringsområdene. 
+
+NB! 
+Vi har for øyeblikket flere kraftige PCer på testbenken. 
+Følg med de neste dagene! 

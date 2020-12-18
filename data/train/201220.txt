@@ -1,0 +1,71 @@
+Kingston HyperX240 GB SSD Upgrade Kit 
+
+Uten tvil en av de kjappeste SSD-ene, her i praktisk oppgraderingspakke. 
+
+Hvilken SSD man skal velge bestemmes for de fleste av lommeboka i første rekke, deretter hva man faktisk trenger. 
+Har du litt ekstra å rutte med og behov for kapasitet og hastighet, velger du en SSD med kapasitet rundt 240 GB. 
+Da får du til en viss grad i pose og sekk, fordi større kapasitet også gir høyere ytelse. 
+Årsaken til dette er at det blir enda et nivå hvor data kan håndteres parallelt. 
+
+Usikker på hva SSD er? 
+Les her. 
+
+Kingston HyperX 
+240 GB SSD oppgraderingssett 
+
+Vi har testet en komplett løsning fra Kingston, en oppgraderingspakke som inneholder SSD, monteringsbrakett med skruer, programvare for kloning og eksternt USB-kabinett og kabel for den gamle 2,5" harddisken (hvis du oppgraderer en bærbar). 
+
+Løsningen har mye til felles med en annen pakke fra Kingston vi har testet tidligere, men denne er oppgradert på alle områder. 
+
+SSD-en har altså en kapastitet på 240 GB, som gir god plass til operativsystem og programvare, og en god porsjon brukerdata. 
+De store arkivene er det ikke plass til, men de er det heller ikke noe poeng i å ha liggende på en SSD uansett. 
+
+For de som jobber med mange og store datafiler vil en 240 GB disk ofte også være stor nok til å brukes som arbeidsdisk, hvor man først kopierer over filene fra harddisk, jobber med dem når de ligger på SSD og kopierer det ferdige arbeidet over til harddisk etterpå. 
+Så kan man slette arbeidskopiene på SSD for å frigjøre plass. 
+
+HyperX bruker en kontroller fra SandForce, som regnes som en av de beste. 
+Flere av de ledende SSD-leverandørene bruker denne, bl.a. OCZ og Intel. 
+Kontrolleren komprimerer data "i fart" før de lagres i flashminnet, dermed blir selve skrivingen langt raskere, samtidig som plassen utnyttes bedre. 
+Selve flashminnet er Intel 25nm NAND. 
+
+Oppgraderingspakken inneholder en brakett som gjør det enkelt å montere SSD-en i en 3,5-tommers plass i stasjonære PC-er. 
+I bærbare passer SSD rett inn som erstatning for en 2,5- tommers harddisk 
+
+Programvaren er Acronis TrueImage HD og kjører direkte fra CD-platen. 
+Dette er et kloneprogram som overfører alt på den gamle disken til SSD-en. 
+
+I praksis 
+
+Vi installerte HyperX i maskinen som vant vår sammenligningstest av stasjonære PC-er til 8000 kroner. 
+Denne hadde allerede en OCZ Vertex3 120 GB SSD, så det var ingen problemer med å få plass til innholdet på den eksisterende systemenheten over til HyperX på 240 GB. 
+
+Acronis-programmet for kloning ble kjørt, og hele prosessen tok bare noen få minutter. 
+
+Programmet laget heller ikke en egen partisjon som tilsvarte den mindre disken, så vi slapp å slette og endre partisjonsstørrelse. 
+Alt gikk automatisk. 
+
+Ytelse 
+
+Denne SSD-en er lynrask, på grunn av størrelsen er den enda et par hakk vassere enn OCZ-drevet som satt i maskinen, selv om de begge bruker en SandForce SF-2281 kontroller. 
+Det kan også være forskjeller i firmwaren i kontrolleren. 
+
+Vi kjørte PCMark Vantage og PCMark 7, og fikk høyere score i begge tilfellene. 
+Med den originale OCZ Vertex3 på 120 GB fikk vi 19 258 mens med HyperX fikk vi 22 689 PCMarks på Vantage og 5151 mot 5159 med HyperX med PCMark7. 
+
+Vi kjørte også vårt eget testprogram, HD Tach, Atto og AS-SSD. 
+
+Prestasjonene er faktisk på noen områder enda høyere enn PCI-express Revo Drive som tidligere var helt overlegen. 
+Vi sammenlignet også med den vesentlig rimeligere OCZ Agility med samme kapasitet. 
+
+Konklusjon 
+
+Kingston HyperX 
+240 GB SSD er en lynrask erstatning for både roterende harddisker og tidligere generasjoner SSD. 
+Den kan varmt anbefales. 
+
+Prisene har også kommet ned på et håndterbart nivå også for 240 GB SSD, selv om det er langt ned til prisnivået per GB hos harddisker. 
+
+Pris på komplett oppgraderingspakke har vi funnet til 3919 kroner. 
+Sjekk lenken for aktuell dagspris. 
+
+Du får også kjøpt bare SSD-en ca 500 kroner billigere, 3399 kroner er den annonsert til, ifølge lenken over. 

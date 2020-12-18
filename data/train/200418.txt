@@ -1,0 +1,107 @@
+Dell S2740L
+Stor skjerm med HD-oppløsning på testbenken. 
+
+Hva som er "riktig" oppløsning på en skjerm har vært et stadig tilbakevendende tema både i forbindelse med frittstående skjermer og skjermene på bærbare. 
+Ideelt sett skulle oppløsningen vært så høy at den ikke var noe tema, og at absolutt alle elementer på skjermen skulle vært fritt skalerbare. 
+
+Men av både tekniske og økonomiske grunner er det ikke slik. 
+Selv om det nå finnes skjermer med så høy oppløsning at man ikke kan skjelne bildepunktene fra hverandre på normal bruksavstand, så er disse for dyre til å kunne brukes over alt. 
+
+Derfor finnes det skjermer i mange størrelser med forskjellig oppløsning, så får hver og en velge den løsningen som passer best i forhold til pris. 
+
+Store skjermer 
+
+27 tommer må sies å være en stor skjerm, det er det nest største formatet som finnes for PC-skjermer. 
+Tidligere har både 27 og 30-tommers skjermer typisk hatt 2560 punkter i bredden, mens høyden har vært 1440 punkter for 27-tommerne og 1600 på 30-tommerne. 
+Vi snakker om 16:9 skjerm på 27 tommer og 16:10 skjerm på 30-tommer. 
+
+Men disse høyoppløselige skjermene er dyre og beregnet på spesielle bruksområder, og som regel profesjonell bruk. 
+Vi snakker om medieproduksjon, programmering, analyse og så videre. 
+
+Folk flest bruker skjermen til mindre krevende oppgaver, med færre vinduer og mindre kompliserte skjermbilder, og vil kanskje også i større grad ønske å kunne bruke PC-skjermen til å se film. 
+Til tilbakelent bruk blir ikke lenger oppløsningen like viktig, vår evne til å se detaljer synker jo som kjent med avstanden. 
+
+I tillegg er prisen på 27-tommere med vanlig HD-oppløsning på 1920 x 1080 vesentlig rimeligere enn en høyopppløselige skjermer. 
+
+Dell S2740L 
+
+Dell har en ny serie skjermer: S-serien, som finnes i mange størrelser: 27, 24, 23 og 21,5 tommer. 
+Alle har full HD oppløsning og noen av modellene er også berøringsfølsomme. 
+
+Vi har testet den største modellen, som umiddelbart framsto som et veldesignet produkt. 
+
+Selve skjermen har ganske tynne rammer rundt selve skjermpanelet og tykkelsen er også ganske beskjeden ytterst i kantene. 
+
+I front er hele skjermen dekket av en blank glassplate, slik at det ikke er noen overgang mellom skjerm og kabinett. 
+
+Baksiden er buet i alle retninger med det høyeste punktet i festet. 
+Foten er stødig, men kan ikke justeres i høyden eller dreies. 
+
+Panelet er av den nye rimeligere IPS-typen som gir glimrende betraktningsvinkel og meget god fargegjengivelse med stor dynamikk. 
+
+Spesifikasjoner: 
+
+Dimensjoner: 
+Diagonalmål: 
+68.6 cm (27") Bredde: 
+597.9 mm (23.54") Høyde: 
+336.3 mm (13.24") Oppløsning: 1920 x 1080 ved 60 Hz Format: 
+16:9 Punktavstand: 0.311 mm Lysstyrke: 270 cd/m2 (typisk) 
+Fargestøtte: 
+Fargegamut (typisk): 
+84% Fargeoppløsning: 
+16.7 million colors Kontrast: 1,000:1 (typisk) 8 million:1 (Dynamisk kontrast) Betraktningsvinkel: (typisk): 
+(178° vertikal / 178° horisontal) Responstid: (typisk): 
+7 ms med overdrive (grå til grå) Paneltype: IPS (In-plane switching), blank overflate Panelbaklys: 
+LED 
+
+Tilkoblinger 
+
+Siden skjermen bare har 1920 x 1080 oppløsning er det ingen avanserte tilkoblinger. 
+Vi finner analog VGA og digital DVI og HDMI. 
+Det er også en analog lydutgang på 3,5 millimeters minijack, for lydsignalet som kommer fra HDMI-tilkoblingen. 
+
+Videre er det en USB hub med to tilkoblinger samt en inngang for 12 volts ekstern strømadapter. 
+
+I bruk 
+
+Skjermen er elegant og konstruksjonen gir et godt inntrykk. 
+Høyden er ok for vanlig skrivebordsbruk, selv om vi for vår egen del gjerne ville hatt den lavere. 
+
+Den blanke glassplaten som dekker hele fronten bidrar til det elegante uttrykket, men har også noen sider som ikke er like stas. 
+Hvis man ser film i mørke partier ser man speilbildet av seg selv nesten like godt som filmen hvis det er lyst i rommet. 
+
+Berøringsfølsomme skjermer må være beskyttet av en blank glassplate på grunn av teknikken som brukes, men vanlige skjermer bør egentlig være matte. 
+Perioden med blankt kontrastbelegg er på vei ut på mange produkter, men noen liker dette tross de potensielle ulempene. 
+
+Forøvrig er både farger og betraktningsvinkel utmerket. 
+
+Meny og betjening 
+
+Menyen dukker opp ved siden av betjeningsknappene slik at det er svært enkelt å manøvrere og velge funksjoner og justeringer. 
+
+Valgmulighetene er passe omfattende til denne type skjerm, som stilles inn etter smak og behag og ikke etter standarder og gitte parameterverdier. 
+Vi finner ikke innstillinger som valg av for eksempel sRGB, men heller valg som Multimedia, Movie, Game, Text og så videre. 
+
+Display Manager 
+
+Det følger også med et lite program som byr på to interessante funksjoner. 
+
+Den ene er at du kan koble sammen program og skjerminnstillinger, slik at skjermen automatisk endrer fargeprofil når du starter et program. 
+
+Det andre programmet gir deg et utvalg ferdige skjerminndelingsmaler. 
+Når du velger en av disse vil alle programmer du starter kunne dras inn i et av feltene. 
+Rammene dukker opp når du tar tak i topplinjen til programvinduet. 
+Når rammen blir rød slipper du museknappen og programvinduet justerer seg automatisk og faller på plass i riktig størrelse og format. 
+
+Konklusjon 
+
+S-serien har elegante skjermer med gode kvaliteter i formater som passer til mange forskjellige behov. 
+
+Bildekvalitet og betraktningsvinkel er utmerket, betjeningen er ypperlig og programvaren som følger med er praktisk. 
+
+Det er design og bildekvalitet som peker seg ut som de positive egenskapene. 
+Er du ute etter ergonomisk fleksibiltet og høyere oppløsning må du velge andre serier, som for eksempel UltraSharp-serien til Dell. 
+Men da er vi over i en helt annen prisklasse. 
+
+Dell S2740L 

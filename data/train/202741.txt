@@ -1,0 +1,114 @@
+Multicom Xishan W370E
+Kraftig bærbar for deg som vil ha full kontroll. 
+
+Xishan er et merkenavn fra norske Multicom. 
+I praksis dreier det seg om halvfabrikata PC-er fra Asia (i dette tilfellet taiwanske Clevo), som konfigureres etter kundens ønsker i selskapets tekniske avdeling i Åmli. 
+Her settes det blant annet inn prosessor, minne og harddisk/SSD, og Windows installeres dersom du skulle ønske det. 
+
+Full kontroll 
+
+Og nettopp sistnevnte er rimelig spesielt: 
+Du kan nemlig velge å kjøpe PC-en uten operativsystem. 
+For mange er dette en fordel. 
+Enkelte sitter gjerne på Windows-lisens de vil ta med seg videre, og/eller har lyst å ha full kontroll på hva som installeres av programvare. 
+Det er en kjent sak at veldig mange PC-er kommer med en haug med programmer allerede installert ved levering, og ikke alt er like bra for PC-opplevelsen. 
+
+Andre igjen ønsker å benytte andre operativsystemer enn Windows, og ønsker ikke merkostnaden Windows kan føre til når de kjøper en ny PC. 
+Det sistnevnte er imidlertid diskutabelt. 
+Så lenge maskinene ikke er å få kjøpt uten Windows, er det vanskelig å si hva de ville kostet dersom det var en opsjon å få dem levert uten. 
+
+Xishan 370E er uansett en meget potent og stor maskin, og 8495 kroner er bra fin pris for en såpass fin konfigurasjon som på vårt testeksemplar. 
+Hør bare her: 
+
+17,3" matt skjerm, 1920 x 1080 piksler (full HD) 
+Intel Core i7-3610QM prosessor (Ivy Bridge) 12 GB RAM Nvidia GeForce GTX 660M 2GB grafikkort 750 GB harddisk + ledig plass til en ekstra disk/SSD (2,5") DVD-brenner HDMI 1.4a - og VGA-utganger 4 USB-porter (1 x 2.0 og 3 x 3.0) eSATA-kontakt (deles med en USB3.0-port) 1 S/PDIF digital lydutgang 2 megapiksels webkamera Minnekortleser for SD/MMC/MS 802.11 a/b/g/n trådløst nett (Realtek) Gigabit nettverkskort Størrelse: 413 x 277.5 x 17.5 
+~44mm Vekt: 3000 gram Pris vår konfigurasjon: 
+8495 kroner inkl mva hos Multicom. 
+
+Dette er altså en stor maskin, som fint kan erstatte en stasjonær maskin. 
+Prosessor, grafikkort og ikke minst minnemengde plasserer denne høyt på listen over kraftige maskiner på markedet, men til en lavere pris enn flere av konkurrentene. 
+
+Selv med en full Windows-lisens er prisen absolutt konkurransedyktig, vil vi påstå 
+
+Maskinen heter egentlig Clevo W370ET, og finnes nok i andre markeder med et annet navn enn Xishan 
+
+Traust design? 
+
+Designmessig er maskinen alt annet enn oppsiktsvekkende. 
+Det er rent og oversiktlig, uten skinnende detaljer og klistremerker av noen art. 
+Det tror vi mange vil sette pris på. 
+Materialtvalget er plast, og maskinen gir et middels godt inntrykk av kvalitet. 
+
+Vi liker spesielt godt at fingeravtrykk ikke vises. 
+
+Skjermen er matt og høyoppløst. 
+Den har helt normale kvaliteter hva angår farger og lysstyrke, men verken den eller innsynsvinklene på TN-panelet er ikke så bra som på IPS-paneler som har begynt å dukke opp på modeller fra blant andre Asus og Samsung. 
+For de fleste er dette imidlertid mer enn bra nok, ikke minst tror vi mange vil sette pris på den matte skjermoverflaten. 
+Den sikrer mot uønsket gjenskinn. 
+
+Skjermen er hengslet til maskinen med to relativt smale hengsler, men virker veldig tight og fin, noe som forhåpentligvis vil holde også etter en tids bruk. 
+
+Tastaturet er stort og fint å skrive på. 
+Det avgir noe mer lyd enn de beste i klassen, men vi gir absolutt godkjent karakter. 
+Vi gir også en liten pluss for at det er helnorsk, du slipper med andre ord taster med æäø osv. 
+Under tastaturet sitter en pekeplate med to separate knapper som avgir en tydelig klikkelyd, litt høyere enn vi setter pris på - men ikke noe stort problem. 
+
+Over tastaturet sitter et par stereohøyttalere fra Onkyo, men lyden er ikke noe vi vil huske som spesielt bra - bassen er nærmest fraværende. 
+
+Alle tilkoblinger sitter fornuftig plassert på venstre og høyre side - med unntak av strøminntaket og VGA som sitter bak: 
+
+Sistnevnte er ofte stive kabler med stor plugg, og derfor synes vi det er smart at denne sitter bak. 
+Litt mer underlig er det at strømpluggen har 90-graders vinkel, noe som hadde gitt mer mening om strøminntaket var på siden. 
+
+Vi installerte Windows 8 på den 
+
+Maskinen kommer uten operativsystem, og dermed var dette en fin anledning til å teste ut maskinen med Windows 8, som lanseres neste måned. 
+Installasjonen var som ventet ganske rett fram, men en god del av maskinvaren var ikke støttet rett ut av installasjonen, deriblant trådløs-kortet: 
+
+Vi kom oss på nett med kablet nett, men Windows Update klarte ikke å gjenkjenne trådløskortet. 
+Vi har installert Windows 8 på mange PC-er, og det er første gang vi opplever dette. 
+
+Ved å besøke Multicom.no kunne vi laste ned Windows 7-drivere, og det løste biffen - selv om det tok noe mer tid enn vi hadde forventet. 
+Blant annet var WLAN-driverne på godt over 1 GB! 
+Modellen leveres tydligvis med flere trådløs-kort, og Multicom har av en eller annen grunn valgt å samle dem alle i én ZIP-fil. 
+Det viste seg at driverne til Realtek-kortet i vår testmaskin bare var på rundt 60 MB... 
+
+Hos Multicom ligger alle driverne lett tilgjengelig 
+
+Slik yter den 
+
+Men med alt på plass viste det seg at dette var en meget rask maskin som ekspederte alle oppgaver i høy hastighet. 
+Oppstart tok 27 sekunder, noe som er respektabelt på en PC med mekanisk harddisk, men tiden ville nok vært bortimot halvert med en rask SSD innabords. 
+
+Under lav belastning er maskinen også svært stillegående. 
+Under tung belastning vil du oppleve at viftene spinner opp fra tid til annen, men sjelden i lange perioder om gangen. 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner på ytelsen, og merk at skalaen nå går fra 1,0 (tregest) til 9,9 (raskest). 
+Tallene virker likevel å være sammenlignbare med PC-er med Windows 7, som benyttet en skala som gikk til 7,9: 
+
+Prosessor: 7,8 Minne: 7,8 Grafikk: 
+6,4 Spillgrafikk 6,4 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 7.0 gir oss følgende ytelsestall på prosessoren, og her har vi sammenlignet med andre, aktuelle prosessorer som du finner i dette prissegmentet: 
+
+Grafikkortet tilhører "øvre middelklasse", og gir 2350 poeng i 3DMark. 
+Det gir en 16. plass i listen over de raskeste grafikkortene til bærbare PC-er. 
+I praksis betyr det at de aller, aller fleste spill kan spilles med tilfredsstillende glidende bevegelser, detaljdybde og oppløsning. 
+Dette er med andre ord en PC som egner seg bra til spill, og den høye skjermoppløsningen vil lokke mange. 
+
+Du kan med andre ord forvente en ytelse helt i toppklasse, spesielt dersom du setter inn en SSD i tillegg, og bruker den som systemdisk. 
+
+Batteritiden er oppgitt til inntil 7,5 timer. 
+Det var vi ikke i nærheten av å oppnå, muligens skyldes dette at driverne ikke er optimalisert for Windows 8 ennå. 
+Under normal, variert bruk holdt batteriet i rundt 4,5 timer - med standardinnstillinger i Windows (balansert). 
+
+Konklusjon 
+
+Dette er absolutt en stor og godt utstyrt bærbar PC som yter svært bra. 
+Den er også temmelig stillegående, noe vi setter stor pris på. 
+
+Helt rett fram var ikke installasjonen av Windows 8, så du må være forberedt på litt "etterarbeid" med drivere og konfigurasjoner. 
+
+Merk også at PC-en også kan kjøpes med en litt enklere, tokjernet i5-prosessor, og da får du den for en tusenlapp mindre. 
+Forskjellene behøver ikke å være særlig merkbare, med mindre du kjører flere tunge programmer samtidig. 

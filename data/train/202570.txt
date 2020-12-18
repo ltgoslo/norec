@@ -1,0 +1,60 @@
+Kingston SSDnow V200
+Rimelige SSD strømmer på, Kingston med ny generasjon, vi har testet. 
+
+Det har blitt fart på innføringen av SSD etter hvert, stadig flere produsenter tilbyr dette i ferdige PCer og oppgraderingsmulighetene er mange. 
+Som vi og alle andre har skrevet i lang tid - en SSD gjør PC-en din kjappere enn da den var ny, nesten uansett. 
+
+Flere produsenter tilbyr pakkeløsninger, som inneholder selve SSD-enheten pluss tilbehøret du trenger for å oppgradere eller bytte ut den gamle roterende harddisken. 
+Det dreier seg om braketter og skruer til å feste 2,5-tommers SSD-en i en 3,5-tommers brønn, kabler og programvare for å overføre dataene, til og med et kabinett til den gamle disken og skrutrekker til å montere det hele. 
+
+Kingston leverer flere slike varianter, vi har testet forgjengeren til den vi tester her, og tidligere testet vi en løsning i den øvre prisklassen som gjorde et svært godt inntrykk. 
+
+SSDnow V200 
+
+Denne serien kommer i tre utgaver: 64/128/256 GB. 256 GB utgaven er 9,5mm høy. 
+
+De to minste er bare 7mm høye. 
+For å unngå at de blir liggende og skrangle i din bærbare kommer det med en slags pakning med dobbeltsidig tape, som du kan feste på SSD-en. 
+Da blir de 9,5mm høye. 
+
+Listeprisene begynner på 926 kroner for den 64GB uten oppgraderingspakke, og slutter på 3 512 kroner for 256 GB og full oppgraderingspakke. 
+
+Vi har testet 128 GB utaven med full oppgraderingspakke. 
+Denne inneholder SSD, braketter og skruer, eksternt kabinett til 2,5" enheter, kabler for data og strøm pluss 2 optiske plater med veiledning på DVD og programvare for kloning/overføring på den andre. 
+Listeprisen på denne er 1 612 kroner. 
+
+Prisene i nettbutikkene vil ligge lavere enn disse. 
+
+Ytelse 
+
+Første utgave SSDnow V100 hadde ikke imponerende ytelse på testbenken, men vi har brukt den i vår MacBook Pro med svært gode erfaringer. 
+Den starter opp på 18 sekunder og leser inn programmer og data lynrasket. 
+En enorm forbedring både sammenlignet med originaldisken og hybrid-disken vi tidligere hadde som systemdisk og nå brukes som lagringsdisk i stedet for DVD-brenneren. 
+
+Testingen av SSDnow V200 var blandet. 
+Den er klart raskere enn forgjengeren V100 på lesing, men måleresultatene for skriveytelsen var forvirrende. 
+Vi testet på to forskjellige plattformer (både Intel Core i7 og AMD Bulldozer) med samme sprikende resultater. 
+
+Det rare var at ytelsen var så varierende. 
+I ATTO var skriveytelsen ekstremt god, men det stemmer ikke med andre målinger. 
+
+I AS SSD fikk vi resultater som viste mer fornuftige tall, spesielt når vi sammenligner med forgjengeren V100, her er Score omtrent doblet. 
+
+Leseytelsen i HDTach var langt lavere enn i andre programmer. 
+
+I vårt eget tesprogram viste deg seg at skriveytelsen var svært ujevn på forskjellige område på SSD-en. 
+
+Med vanlig filkopiering i Windows brukte vi i rett over 17 sekunder på å kopiere 1,8 GB til Kingston SSDnow V200 fra en OCZ Revo Drive 2. 
+Andre veien tok bare 5 sekunder. 
+Det tyder på at skrivehastigheten målt med ATTO er helt på bærtur, mens de andre målingene virker mer fornuftige. 
+
+Konklusjon 
+
+Vi er litt usikre på denne SSDen. 
+Den har helt ok leseytelse, men skriveytelsen er ikke så god og jevn som forventet. 
+Dette kan skyldes mange ting, vi skal sjekke nærmere med Kingston og teste flere eksemplarer. 
+
+En annen ting er at mange SSD-enheter og pakkeløsninger nå markedsføres som lavpris, selv om det bare er en prisforskjell på noen få hundrelapper mellom de aller raskeste og de nye "rimelige". 
+
+Men pakkeløsningen totalt sett er ikke noe dårligere enn forgjengeren fra Kingston. 
+Selv om vi nok hadde siklet med på HyperX hvis vi skulle valgt en løsning fra Kingston. 

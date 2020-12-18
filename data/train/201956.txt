@@ -1,0 +1,124 @@
+Acer Aspire S3
+Rimelig ultrabook med god lagringskapasitet fra Acer. 
+
+Ultrabook. 
+Hvis du ikke har noe forhold til ordet, vil du garantert få det. 
+Dette er navnet på en ny kategori PC-er. 
+Ultratynne. 
+Ultralette. 
+Og med innmat som Intel har definert for at den skal få lov til å kalle seg ultrabook. 
+Det vil garantert komme tilsvarende maskiner med utstyr fra konkurrenten AMD også på sikt, men de må altså hete noe annet. 
+
+Vi har allerede rukket å teste en konkurrerende ultrabook, Asus Zenbook UX31, og vi må nesten ta med siste generasjon Apple Macbook Air, som i bunn og grunn er en ultrabook, og selve malen for det rushet av ultrabooks vi vil se den kommende tiden. 
+
+ALLE de store PC-produsentene har ultrabooks i kjømda, og det ryktes at under CES i Las Vegas i januar vil det bli vist fram minst 50 nye modeller. 
+Så hvis 2011 var året for nettbrett, setter i hvert fall PC-produsentene sin lit til at 2012 skal bli året for ultrabooks. 
+
+Skiller seg ut 
+
+Denne gangen har turen kommet til Acer, og deres første ultrabook, Aspire S3. 
+Og for å si det med én gang, denne skiller seg temmelig mye fra Asus og Apple (som er temmelig like på hverandre), blant annet på pris. 
+Inngangsmodellen er vesentlig billigere, og starter på godt under 7000 kroner. 
+
+I tabellen under har vi sammenlignet spesifikasjonene på inngangsmodellene fra de tre produsentene (13-tommere): 
+
+Som du ser har Acer lavere skjermoppløsning og er utstyrt med en hybrid SSD/harddisk. 
+Fordelen med sistnevnte er at du får større lagringsplass, og lasting/skriving av data som aksesseres ofte går vesentlig raskere enn med en standard harddisk. 
+Ulempen er at mekanikken lager lyd, er mindre robust i forhold til slag/fall, og den totale ytelsen er vesentlig svakere enn rene SSD-løsninger. 
+Hvorvidt du vil merke ytelsesforskjellen eller ikke, avhenger av hvordan du jobber. 
+Du kan merke den under kopiering av store datamengder og ved tyngre arbeidsoppgaver. 
+Men noe dårlig kompromiss er dette nødvendigvis ikke. 
+Mer om det senere. 
+
+Solid og smart i utførelsen 
+
+Maskinen har, i likhet med konkurrentene, et kabinett av metall, både på inn- og utsiden. 
+
+Det eneste vi ser av plast er rammen rundt skjermen, altså på innsiden. 
+
+Undersiden er jevn og fin, og her er ikke noen luftinntak, de eneste åpningene er de to høyttalerne på hver sin side. 
+
+Plasseringen av tilkoblinger har vi virkelig sansen for. 
+Kombinert lyd ut/inn til venstre, minnekortleser til høyre. 
+Alle de andre tilkoblingene, altså to USB-porter, HDMI-utgang og strøminntak sitter bak. 
+Det synes vi er en særdeles ryddig og praktisk utforming som holder kabler unna veien. 
+
+(Fortsetter etter bildene) 
+
+Lokket har en børstet metallfinish, og fingeravtrykk vises ikke i særlig grad. 
+Det samme gjelder på innsiden. 
+
+Tastaturet er fellesnordisk, fast og stort nok til at det er helt OK å skrive på. 
+Det avgir lite støy. 
+Noen av tastene er litt små, blant annet piltaster og returtasten. 
+Vi opplevde likevel ikke noen store utfordringer under lange arbeidsøkter med maskinen. 
+
+Lavere oppløsning 
+
+Skjermen er lyssterk og fin, og selv om oppløsningen er vesentlig lavere enn på Asus UX31, behøver ikke dette å være negativt for alle. 
+Høyere oppløsning betyr blant annet skarpere tekst og plass til mer på skjermen, men også at ting kan bli litt smått for deg som har passert falkeblikk-stadiet. 
+Skjermen er imidlertid blank, så refleksjoner er noe du må påregne. 
+Vi aner en viss trend der matte skjermer er på vei tilbake, og muligheten til å få ultrabooks som Acer S3 med matt skjerm hadde vært supert. 
+Men ingen av de tre omtalte har det altså, i hvert fall ikke ennå. 
+
+Pekeplaten er vesentlig mindre enn på de to konkurrentene, og har integrerte knapper for venstre- og høyreklikk. 
+Personlig foretrekker vi tydelige adskilte knapper, og kanskje spesielt når pekeplaten er såpass kompakt som her. 
+Det er uansett bare snakk om relativt enkel tilvenning. 
+
+Lyden i de innebygde høyttalerne er ikke spesielt fyldig, og mangler naturligvis bass. 
+Men lyden er bedre enn i Asus UX31, blant annet slipper du klirringen som oppstod som er resultat av vibrasjoner i metallet under avspilling. 
+Men øretelefoner eller høyttalere er påkrevd for alt annet enn nettradio og Windows-varsler :) 
+
+Mye tregere enn ren SSD 
+
+Takket være harddisken tar det vesentlig lengre tid å starte maskinen enn for de to konkurrentene. 
+Vi målte rundt 50 sekunder, mens Asus startet på 18 sekunder. 
+Men lukker du lokket når du går fra møtet og åpner det igjen når du er tilbake på kontoret, er maskinen klar til dyst omtrent i samme øyeblikk. 
+
+Og maskinen responderer kjapt og fint, og oppleves som godt konfigurert. 
+Som vanlig har maskinen blitt fylt av litt av hvert av prøveprogrammer og annet som ikke nødvendigvis oppleves som nyttig. 
+Sikkerhetspakke fra McAfee er på plass, og denne opplever vi som litt masete, du må for eksempel starte maskinen på nytt ved oppdateringer, og en svær plakat i høyre hjørne dukker opp i tide og utide. 
+En runde med avinstallasjon av ting du ikke trenger, og en titt på våre favoritt-gratisprogrammer, er en god idé. 
+
+Ikke lydløs 
+
+Vi hadde håpet at maskinen, som er utstyrt med en strømsparende ULV-prosessor medintegrert Intel-grafikk, var mer eller mindre lydløs, men det er den ikke. 
+Viften starter relativt ofte, det holder at du besøker en nettside med middels tung grafikk og noen Flash-annonser. 
+Viften er heller ikke blant de stilleste vi har hørt. 
+Noe kjempestort ankepunkt er det ikke, men greit å være klar over at det finnes stillere maskiner der ute. 
+
+Vi har allerede nevnt at maskinen oppleves som kjapp og fin. 
+Windows egen Opplevelsesindeks gir oss følgende indikasjoner. 
+Skalaen går fra 1.0 (svakest) til 7.9 (sterkest), og til høyre for pipe-tegnet har vi satt inn tallene fra Asus UX31 for å si noe om styrkeforholdet: 
+
+Prosessor: 6.3 | 
+6.9 Minne: 5.9 | 
+5.9 Grafikk: 
+4.6 | 
+5.5 Spillgrafikk: 
+6.1 | 
+6.0 Primær harddisk: 
+5.9 | 
+7.9 
+
+Passmark PerformanceTest 7.0 gir oss litt mer kjøtt på beinet. 
+Totalscore ble 874, og under har vi sammenlignet noen av de viktigste testparametrene med nettopp nevnte UX31: 
+
+Ingen av de to maskinene har noe særlig grafikkytelse å skrive hjem om, men til video er de mer enn kraftig nok. 
+Ingen av våre testfiler, selv i full HD, bød på noe særlige utfordringer for PC-ene. 
+Mest kraft gikk med til å vise Flash-video fra YouTube i full HD, men som du ser under var det fortsatt mye å gå på for prosessoren: 
+
+Vi gjorde også målinger av batterilevetiden, først med minimal belastning av maskinen, deretter med kontinuerlig avspilling av HD-materiale (720P) i Windows Media Player. 
+Resultatene ser du i diagrammet under: 
+
+Konklusjon 
+
+Vi anser Acer Aspire S3 som et temmelig vellykket førstegenerasjon ultrabook fra Acer. 
+Den er robust, har en meget gjennomtenkt utforming, og har bedre lagringsplass enn konkurrentene. 
+Like god ytelse som den dyrere konkurrenten fra Asus har den ikke, spesielt disk- og batteriytelsen er temmelig mye svakere. 
+Vi hadde også håpet at den var litt stillere under bruk enn den i praksis viste seg å være. 
+
+Vi likte maskinen meget godt, men ville nok sterkt vurdert storebror som er utstyrt med en "ren" SSD på 240 GB istedet for hybriddisken i vårt testeksemplar. 
+Den er riktig nok en del dyrere, men vil by på en enda bedre opplevelse - muligens på høyde med Asus UX31 som ble kronet med terningkast 5. 
+
+Acer Aspire S3-951-2464G34iss (LX.RSF02.013) 

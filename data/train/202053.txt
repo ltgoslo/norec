@@ -1,0 +1,74 @@
+Medion Notebook MAM2080
+Nok en bærbar til åtte og et halvt er i handelen; denne gang i hyllene hos Coop. 
+Lett å plukke opp og ta med hjem, men risikerer du å angre dagen etter? 
+
+Forrige uke testet vi et par andre maskiner i samme prisklasse og med 15,4 tommers bredskjerm, nemlig den imponerende Pavilion dv5054EA fra HP, samt den ikke like fantastiske Amilo L1310G fra Fujitsu-Siemens. 
+Dagens Medion-tilbud har samme prosessor som førstnevnte PC, altså en Turion64 fra AMD med en klokkefrekvens på 1,8 GHz, så vi har store håp også til denne maskinen. 
+
+LES OGSÅ: 
+
+Den kommer med ekte metallic plast i grå og sølv, og er merket "Cybercom" 
+
+Fulle spesifikasjoner: 
+
+AMD Turion64 ML-32 @ 1,8 GHz 15,4" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR-minne 100 GB harddisk (5400 rpm) 8x DVD dual-layer DVD/CD-brenner Radeon XPRESS 200M (128MB delt minne) 54 Mbps WLAN (b/g) 10/100 LAN + modem 3x USB, 1x FireWire (4-pin), lyd inn/ut 1 CardBus kortplass PCMCIA 4-in-1 kortleser: SD, MMC, Memory Stick, Memory Stick Pro VGA og S-Video-utgang (7-pins) Dimensjoner (B/D/H): 
+35,5 x 27,5 x 4,2 cm Vekt 3,0 kilo Bæreveske, USB-mus og headset følger med Pris: 8.490 kr inkl. mva. 
+
+Operativsystemet er Windows XP Media Center Edition. 
+Vi kommer ikke til å gå nærmere inn på dette i denne artikkelen, så hvis du er nysjerrig på hva som er spesielt med MCE kan du lese denne artikkelen! 
+
+Bredskjermen har en oppløsning på 1280 x 800 piksler, men har ikke kontrastbelegg som de to vi nettopp har testet. 
+Dette er som vi tidligere har nevnt en ren smakssak, men til bruk inne har vi i det minste begynt å sette pris på det klare og fine bildet som kommer med et slikt belegg. 
+Betraktningsvinkelen på Medionen er typisk nok heller ikke så veldig stor. 
+
+Konstruksjon 
+
+PCen har kanskje et litt firkantet preg, men virker også nokså solid bygget med et helt greit design. 
+Skjermen er bra hengslet, kun en tanke for stramt. 
+Som på så mange bærbare synes det fort på skjermen når vi presser litt på baklokket. 
+
+Touchpaden er i vanlig format og uten skrollefelt, mens tastaturet er solid og stille. 
+Det er ingen knapper for snarveier, så WLAN av/på osv. styres med Fn-tasten. 
+
+Tilkoblingene på maskinen er plassert foran, bak og på venstre side. 
+På høyre side finner vi bare DVD-spilleren. 
+
+På venstre side finner vi en CardBus-slot (PCMCIA), uttak for modem og LAN, pluss TV-ut og VGA bakerst. 
+Varmluften kommer også ut på venstre side. 
+
+Foran er det nokså usexy plassert firewire, en USB, mic inn, digital/analog linje ut og vanlig linje inn. 
+
+De to restrerende USB og strøminntaket er plassert på baksiden. 
+Vi nevner også at batteriet stikker ut bak maskinen. 
+Ikke noe vi er så veldig begeistret for egentlig, men men... 
+
+God ytelse, men noen startvansker 
+
+Ytelsen er som ventet god for denne prisklassen, og vi sammenlignet med HPen 
+
+Som vi ser ligger Pavilion dv5054EA litt foran, men på batterifronten er det Medionen som er kongen med nesten en time over sin konkurrent. 
+Tre timer i Batterymark er slett ikke dårlig! 
+Med BatteryEater Pro gikk det naturlig nok fortere: der holder batteriet i 1 time og 25 minutter. 
+
+Det må nevnes at disse benchmarkresultatene fikk vi først etter å ha reinstallert driverne for prosessoren. 
+Siden AMD Turion64 er en mobile prosessor, går den nemlig opp og ned i ytelse (noe som igjen påvirker strømforbruket og gir mindre varme og lenger batteritid) etter hvor stor belastning det er på prosessoren. 
+Vårt testeksemplar holdt seg nemlig på 800 MHz konstant i stedet for å gå opp til 1800 MHz under belastning. 
+Så det kan være en ide å sjekke dette for de som kjøper denne maskinen. 
+
+Som vanlig er vi opptatt av vifter og støy, og under hard belastning får vi som ventet kontinuerlig viftebråk. 
+Når maskinen ikke jobber med noe krevende er den nærmest uhørbar, men vifta spinner opp en gang i mellom (5-15 minutters intervaller) uansett belastning og går et par minutter. 
+For noen vil dette være et irritasjonsmoment. 
+
+Som nevnt får du i tillegg til selve maskinen bæreveske, hodetelefoner og en liten optisk USB-mus i dette tilbudet. 
+Hodetelefonene er dessverre av så dårlige og ubehagelige at de ikke er verd å slepe rundt på, men både bæreveska og datamusa er av tilfredsstillende kvalitet. 
+
+Konklusjon 
+
+Medion Notebook MEM2080 er en gjennomført og solid bygget bærbar datamaskin. 
+Utstyrs- og ytelsesmessig ligger den nesten på høyde med HP Pavilion dv5054EA. 
+Medionen har større harddisk og bæreveske, mens HPen har en klarere skjerm med kontrastbelegg og litt mindre viftestøy. 
+Designet er jo selvfølgelig også forskjellig, det blir mye en smakssak. 
+Men det virker som om Medionen utvikler litt mer varme og derfor oftere trenger lufting. 
+Har du sarte ører er det nok derfor HP-maskinen som fremdeles er det beste valget blant modellene vi har testet i denne prisklassen. 
+
+Vi gir Medion Notebook MEM2080 en sterk firer. 

@@ -1,0 +1,58 @@
+TEST: WD Green harddisk
+Stille og beskjeden er jo ikke nok ... 
+
+Grønne produkter har noe for seg, det er ikke noe poeng i å sløse. 
+Derfor valgte vi å anskaffe en ny disk til den nye, lydløse hjemmeserveren, som følger opp det beskjedne strømforbruket og lave støyen. 
+
+Vi fant en god pris på en 1,5 TB Caviar Green disk fra Western Digital og slo til. 
+De gamle diskene i den forrige serveren på henholdsvis 400 og 500 GB har surret og gått i noen år, og får et nytt liv legges i skuffen som backup. 
+
+Gammel nyhet 
+
+Disse grønne diskene har vært på markedet en tid, men har blitt oppdatert etter hvert. 
+Vårt eksemplar er av den nyeste EARS-typen, som skiller seg fra de foregående EADS-typene ved at den har 64 MB hurtigbuffer. 
+De nye modellene støtter også det nye Advanced Format som opererer med 4kB sektorer i stedet for 512B. 
+Dette skal kunne gi bedre utnyttelse av kapasiteten ved å redusere den delen av diskplassen som brukes til datastruktur, men er ikke uten videre kompatibelt med alle operativsystemer. 
+
+Vi valgte derfor å formatere disken i NTFS med standardverdier siden den skal kjøre i en PC med Windows XP SP3. 
+Ingen grunn til å være moderne bare for å være moderne. 
+
+Caviar Green roterer med 5400 RPM, minst. 
+Det er ikke oppgitt noen fast rotasjonshastighet, WD kaller det IntelliPower. 
+Men i følge bokstavkoden er den klassifisert som en 5400 RPM disk. 
+Faktisk rotasjonshastighet vil variere etter behov, men ikke overstige 7200 RPM. 
+
+Disken har også IntelliSeek, som sørger for å bevege lesearm og -hode minst mulig ved å slå sammen og regne ut den mest effektive søkeruten. 
+
+Forøvrig er lavt strømforbruk en av de viktigste parameterene når det gjelder styring av alle mekanismer. 
+1,5 TB-disken bruker maks 4,73 W ved lesing/skriving, 2,75 W på tomgang og 0,72 W i standby/dvale. 
+De andre modellene ligger litt over eller under, avhengig av kapasitet. 
+
+Ytelse - teori og praksis 
+
+Vi testet disken med HD Tach og den rå ytelsen ved sekvensiell skriving og lesing var som forventet. 
+Den lå oppunder 100 MB/sekund for lesing og ca halvparten på skriving - en høyst akseptabel ytelse. 
+
+Men hva med praksis? 
+Hva skal disken brukes til og hva forventer vi at den skal klare, helt konkret? 
+
+Vår disk skal bo i den nye hjemmeserveren og brukes til felles lagring av filer. 
+Da snakker vi først og fremst om eget materiale som bilder og video, musikk og annet mediestoff. 
+I tillegg kommer selvsagt alle typer hverdagslige og festlige dokumenter, men dette er ikke noen krevende oppgave. 
+
+For å teste ut det verst tenkelig scenariet for vårt huslige bruk kopierte vi først over en liten samling HD-filmer i 1080p til den nye serveren med den grønne disken. 
+
+Deretter startet vi samtidig avspilling av 4 forskjellige HD-filmer over vårt gigabit-nettverk, til 3 PC-er og en AC Ryan nettbasert mediespiller koblet til TV-en nede. 
+Samtidig satte vi igang kopiering av alle bildene vi har liggende på den gamle serveren over til den grønne disken på den nye serveren. 
+
+Det fungerte fullstendig smertefritt, ingen hakking eller nykker noe sted. 
+
+Konklusjon 
+
+Caviar Green-serien fra Western Digital fungerer utmerket for datalagring og mediebruk. 
+Vi har brukt flere i redaksjonen, med utmerket resultat. 
+Det eneste problemet er ved bruk i noen Linux-baserte NAS-disker som har problemer med den nye kontrolleren som mapper om 4k sektorer til 512Byte sektorer. 
+
+Men til PC-baserte systemer med Windows har vi ikke hatt noen slike problemer. 
+
+Disken blir knapt håndvarm og høres knapt, selv når den ikke er montert i kabinett (som vi fremdeles ventet på da vi skrev artikkelen). 

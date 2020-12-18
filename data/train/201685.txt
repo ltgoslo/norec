@@ -1,0 +1,54 @@
+Corsair Force3 60GB
+Er det nok med en liten SSD? 
+Er de like raske? 
+
+Hvor mye plass man trenger er et spørsmål som har mange svar. 
+Man pleier å si at ting alltid tar den plassen som er til rådighet, noe de fleste av oss kjenner igjen på ett eller flere områder. 
+
+Når det gjelder lagringsplass på PC er det heller ikke noe generelt svar, men mange har begynt å tenke seg om og revurdere hva de trenger når de vurderer å bytte fra harddisk til SSD. 
+
+Noen ting kommer man ikke utenom. 
+Windows 7 trenger 16 GB (32-bit) eller 20 GB (64-bit). 
+Microsoft Office 2003 krever bare 400 MB, Office 2007 krever 2 GB og Office 2010 har vokst til 3 GB. 
+
+Andre programmer krever også sitt, skal du for eksempel installere hele Adobe Creative Suite (den som inneholder alt og koster rundt 35 000 kroner) kreves det ca 24 GB diskplass. 
+Skal du installere musikkprogrammet Cubase krever det 8 GB. 
+
+Så selv programmer for svært tung PC-bruk får fint plass på en 60 GB systemdisk. 
+Men du trenger altså lagringsplass for data i tillegg. 
+
+Har du en bærbar som brukes til mer alminnelig bruk har du faktisk god plass til egne data selv på en 60 GB disk. 
+
+(Vi regner da med at du ikke er en digital hamster som laster ned musikk og film i mengder som overskrider det du noen gang får tid til å høre og se på. 
+Moderne mennesker streamer underholdningsdata og betaler sin slant for det.) 
+
+Hva med ytelse? 
+
+En av grunnene til at flashbasert SSD-lagring er så rask er at data skrives og leses parallelt både inne i hver enkelt brikke og mellom flere minnebrikker. 
+Konsekvensen av dette er at jo større kapasitet, jo flere parallelle brikker kan det skrives til og leses fra. 
+
+En 240 GB SSD vil derfor være raskere enn en 120 GB eller 60 GB SSD med samme, men færre lagringskomponenter. 
+
+Corsair Force 3 60 GB 
+
+Vi har tidligere testet 120 GB versjonen av denne, du finner testen her. 
+
+Pakken og innholdet er identisk, bortsett fra kapasiteten. 
+Du får med brakett for montering i 3,5-tommers brønn, men ingen programvare for kloning av innhold fra harddisk til SSD. 
+
+Vi kjørte våre standard tester på vår testmaskin med følgende spesifikasjoner: 
+
+Asus P8Z68-V LE hovedkort med Z68 brikkesett Intel Core i7 2600K prosessor4 GB Crucial DDR3 BallistiX 
+1600MHz 4GB 
+CL8 minneIntern 
+Intel grafikk 
+
+Konklusjon 
+
+Corsair 60 GB gir en stor ytelsesgevinst når du sammenligner med en rask harddisk. 
+For vanlig bruk er kapasiteten også tilstrekkelig. 
+
+Men sammenligner du iops, altså hvor rask den er til å skrive og lese småfiler, så åpenbarer forskjellen til SSD med større kapasitet seg. 
+Med 60 GB sin score på 247 i AS SSD mot 120 GB sin score på 408 er forskjellen åpenbar. 
+
+Så spørsmålet er igjen hvor mange hundrelapper man har til rådighet. 

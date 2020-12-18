@@ -1,0 +1,123 @@
+Test: Zoom R24 - komplett hjemmestudio
+I tillegg til å være komplett er R24 også godvenn med PC-en, som lydkort og styring. 
+
+PC og Mac står helt sentralt i musikk- og lydproduksjon, men de klarer ikke jobben uten ekstrautstyr. 
+Det finnes det masse av til forskjellig bruk, fra kjellerstua til konsertsalen. 
+
+Før i tiden måtte man montere et lydkort i maskinen for i det hele tatt å få lyd ut eller inn. 
+I dag har alle Mac-er og PC-er integrert lyd som vanligvis fungerer utmerket til avspilling, gjerne i surround. 
+
+Men skal du gjøre litt mer avanserte lydopptak med flere mikrofoner må du over på noe annet enn standard PC-lydutstyr. 
+Da trenger du en lydenhet som inneholder mikrofonforsterkere med nivåkontroll og fantommating til kondensatormikrofoner, A/D-konvertere for å digitalisere signalene og USB eller FireWire for å koble til PC/Mac. 
+(Det høres mer komplisert ut enn det er). 
+
+Det finnes også frittstående lydopptakere med flere innganger, som lagrer data fra hvert spor som lydfiler på disk, optisk plate eller minnekort. 
+De er praktiske i felten, både å transportere og bruke. 
+
+Er da valget enten PC/Mac eller frittstående opptaker? 
+
+Zoom R24 - i pose og sekk 
+
+Zoom R24 og lillesøster R16 er blant de svært få frittstående opptakerne som kan ta opp 8 spor samtidig fra innebygde mikrofoninnganger. 
+Opptakene lagres som lydfiler på SD-minnekort, én fil for hvert spor (du kan også koble sammen 2 spor og lagre opptaket fra disse som én stereo-fil). 
+Så kan du legge på flere spor etter hvert og spille av og mikse tilsammen 24 spor på R24 og 16 på R16. 
+
+Har du to maskiner kan du koble dem sammen med en USB-kabel og ta opp 16 spor samtidig. 
+
+Det er også innebygd DSP med EQ og effekter som kan brukes under mix, men denne støtter bare materiale tatt opp med 44,1 kHz samplerate. 
+
+Men R24 er ikke bare en opptaker. 
+Kobler du den til PC/Mac med USB fungerer den som en ekstern lydenhet, hvor du kan ta opp fra alle 8 sporene samtidig og lagre dem på datamaskinen. 
+Da kan du også ta opp med 96 kHz samplerate og 24 bits. 
+
+Du kan også bruke R24 som USB-kontrollenhet, hvor spakene, knotene og dreiehjulet kan styre de virtuelle spakene, knappene etc. i programvaren. 
+Den opptrer som en Mackie kontroller, som har blitt en etablert standard. 
+
+Altså fungerer R24 som et kinderegg, frittstående opptaker, lydkort og styringsenhet. 
+
+I felten 
+
+R24 leveres med en liten ekstern strømforsying, 1 GB minnekort, USB-kabel og DVD med Cubase LE. 
+Den er helt i plast og svært lett. 
+Byggekvaliteten er helt ok, knapper og spaker er faste i fisken og kjennes solide nok. 
+
+For å gjøre et opptak uten å dra med deg noen datamaskin er det bare å finne kontakt til det eksterne adapteret (eller bruke den på batterier) og slå den på. 
+Hvis minnekortet er nytt lages det automatisk et opptaksprosjekt som får sin egen mappe på minnekortet. 
+Det tar noen få sekunder. 
+Du kan ha flere prosjekter på samme minnekort, og velge et annet prosjekt når som helst. 
+
+Du kan bruke de innebygde mikrofonene på kanal 7 og 8 og gå rett i opptak med det samme. 
+Med statusknappen på hver kanalstripe velger du om du skal ta opp, spille av eller koble ut kanalen. 
+Opptaksnivået stilles med knappene, lyttenivået gjøres med spaken. 
+
+Opptak med de innebygde mikrofonene fungerte faktisk bedre enn vi hadde forventet. 
+Lydbildet er åpent og klart og det er praktisk talt ingen støy. 
+Mikrofonene tåler også svært høye lydnivåer. 
+
+Skal du gjøre mer avanserte opptak kan du koble til opptil 8 mikrofoner, 6 av disse kan være kondensatormikrofoner som krever 48V spenning (fantommating) for å fungere. 
+
+På kanal 1 finner du en egen instrumentvelger, der kan du koble inn el.bass eller annet elektrisk instrument som ikke har aktiv elektronikk. 
+De andre kanalene håndterer mikrofonnivå når du plugger inn en XLR-kabel, eller linjenivå når du bruker jack. 
+Den smarte kombinasjonskontakten tar i mot begge deler, men bare én av gangen. 
+
+Når opptaket er ferdig slår du av maskinen, den avslutter og lagrer automatisk før den slår seg av. 
+
+Som opptaker er den akkurat så enkel som vi forventer. 
+Ingen vandring i menyer, men direkte kontakt med akkurat det nødvendige av knapper og spaker. 
+
+Hvis du vil jobbe videre med opptak og redigering internt på R24 har du mange muligheter. 
+Du har avansert tonekontroll, nivåprosessering og mange typer effekter, som fungerer høyst brukbart. 
+Betjeningen er slik den blir i et hierarkisk menysystem med lite display, det blir en god del manøvrering. 
+Med øvelse blir det stadig lettere, men aldri like oversiktlig som på en stor PC-skjerm med god programvare. 
+
+Kvaliteten på prosessering og effektene er helt kurant, men det finnes selvsagt mange flere muligheter i programvare på PC/Mac. 
+
+I hjemmestudio 
+
+Vil du heller jobbe vidre på PC/Mac overfør du bare dataene fra minnekortet til harddisken. 
+Hvis ikke maskinen din har kortleser kan du bruke R24 som kortleser hvis du kobler den til med en vanlig USB-kabel. 
+
+Så starter du enten Cubase LE som følger med R24, eller det som måtte være ditt favorittprogram. 
+Da er det bare å dra over lydfilene og gå i gang med redigering og miksing. 
+
+R24 fungerer også som et USB-lydkort med 8 innganger (gir deg 8 samtidige spor) og 2 utganger, derfor kan du bruke den til å gjøre pålegg med flere mikrofoner i hjemmestudio og til lytting. 
+
+Det er separate utganger til høyttaleranlegg og hodetelefoner, med hver sin volumkontroll. 
+
+R24 kan du også bruke du som styringsenhet når du kobler den til med USB. 
+Den opptrer som en Mackie kontroller, som er en veletablert standard i studiosammenheng. 
+Da kan du bruke spakene til å styre f.eks. nivåene når du mikser. 
+
+Trommemaskin og sampler 
+
+Den skarpsynte leser vil ha lagt merke til pads nederst på hver kanalstripe. 
+Disse er anslagsfølsomme og brukes til å trigge trommelyder eller andre samples. 
+
+Du kan programmere takter og sekvenser som på en trommemaskin, hvor slagene plasseres i et rutemønster som representerer en takt med underdelinger. 
+Du kan programmere inn rytmene ved å spille etter metronomen eller ved å legge dem direkte inn i rutemønsteret via kontrollbetjeningen. 
+
+I tillegg til et lydbibilotek på 1,5 GB kan du legge inn egne samples som du tilknytter padene. 
+
+Hvordan låter det? 
+
+Vi har tidligere brukt stereo-opptakeren Q3 og forgjengeren til R24, R16, fra Zoom og vært svært fornøyd med resultatet. 
+Varierende prosjekter fra band med elektriske instrumenter, til solo piano, pålegg av Hammond 
++ Leslie og opptak av kammerorkester i en gammel marmorsal har opptakeren håndtert svært tilfredsstillende. 
+
+Mikrofonforsterkere og A/D-konvertering er ikke lenger noen heksekunst hvis man skal ha en rimelig nøytral signalkjede. 
+Det er tross alt hva som kommer inn i mikrofonene, selve mikrofonene og plasseringen av disse pluss selve rommet, som virkelig teller. 
+I forhold blir kvaliteter i mikroforsterkere og konvertere bare små nyanser. 
+
+I tillegg til musikkopptak er R24 utmerket som opptaker til film, til konferanser og andre situasjoner hvor det er aktuelt å bruke flere mikrofoner for å få med seg det som skjer. 
+
+Konklusjon 
+
+R24 er en utmerket kombinasjon av opptaker og lydkort/styringsenet. 
+Du slipper å ta med og rigge opp PC/Mac bare for å gjøre opptak i øverom eller på konsert, og du slipper å ha både opptaker og ekstern lydenhet for å gjøre pålegg i hjemmestudioet. 
+
+Lydkvaliteten er ypperlig og den er lett å betjene der dette er viktigst. 
+
+På pris i forhold til egenskaper og bruksmuligheter er det ingen som kan matche denne. 
+Du får 8-kanals lydkort med mikrofonforsterkere til samme pris, men da trenger du Mac/PC etc. for å kunne ta opp og redigere osv. 
+
+Zoom R24 

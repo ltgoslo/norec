@@ -1,0 +1,31 @@
+HTC Desire
+TEST: 
+Telefonen som knuser alt annet. 
+
+"En råtass ytelsesmessig", "en utrolig kompetent, brukervennlig og komplett telefon" - ITavisens mobiltester Thomas Marynowski sparer ikke på superlativene når det gjelder dagens testmodell, og hevder at HTC Desire er den beste telefonen på markedet i dag. 
+
+Med det følger selvsagt også en sekser på terningen. 
+
+Android-baserte Desire er i utgangspunktet samme telefon som Google Nexus One, i hvert fall innvendig, men der styrekula er byttet ut med en optisk sensor, knappene flyttet litt vekk fra skjermen og der operativsystemskallet selvsagt er HTCs egne Android-variant; Sense. 
+
+Telefonen kjennes dyr og robust, uten knirking eller andre konstruksjonsmessige svakheter av noe slag. 
+Hjertet i telefonen er en 1GHz Snapdragon-prosessor, altså den samme som sitter i Nexus One, Sony Ericsson Xperia X10 m.fl. 
+
+Med tanke på knapper og innganger er det få overraskelser - de fire menyknappene vi kjenner fra andre Android-telefoner har ikke endret seg, og volumknapper, av og på-knapp, micro USB-port og 3,5mm-inngang er selvsagt også på plass. 
+
+Skjermen imponerer med oppløsning på 800x480 piksler fordelt på 3,7 tommer over diagonalen. 
+Den er AMOLED-basert som betyr svært god fargegjengivelse, men med litt redusert synlighet i utendørsbelysning. 
+
+Kjapp i svingene 
+
+HTC Desire oppleves som svært kjapp - raskere enn "lillebror" Legend, og også kjappere enn Xperia X10, til tross for at prosessoren er den samme. 
+Det har med andre ord også med programvaren å gjøre, der spesielt enkelte applikasjoner i X10 gjorde et stort innhugg i ressursbruk. 
+
+Sense-skallet har 7 paneler som kan fylles med snarveier, widgets og annet snacks, og telefonen støtter også dynamiske bakgrunner som "lever", litt på bekostning av ytelse, men ikke så ille som man kanskje skulle tro. 
+Integreringen med Facebook, Google-tjenester m.fl. er formidabel, der kontaktinformasjon oppdateres på tvers av tjenestene og der du via FriendStream kan hente informasjon fra flere steder. 
+Exchange-støtten er dessuten veldig god. 
+
+Testansvarlig lar seg også imponere av batterilevetiden, der relativt hyppig bruk av telefonen lot det være igjen litt ekstra batteri til neste døgn, men anbefalingen er uansett å lade telefonen hver natt hvis du bruker den mye. 
+
+Det finnes selvsagt småting å trekke for - blant annet er ikke kameraet av ypperste kvalitet, som merkes når lysforholdene blir dårligere. 
+Under testingen har det dessuten vært et par anledninger der det har vært noen bugs i programvaren relaterte til visning av kontaktbilder. 

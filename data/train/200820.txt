@@ -1,0 +1,79 @@
+Asus RT-N15
+Gaming, nett-skravling eller nedlastning? 
+Du har valget, ruteren prioriterer. 
+
+Om N-standarden for trådløst nett noen gang vil bli vedtatt kan man begynne å lure på, vi havner vel lenger ut i standard-alfabetet før de styrende organer kommer til enighet. 
+Uansett dukker det opp flere produkter som følger Draft 2.0 - denne gangen er det Asus RT-N15 som har funnet veien til testbenken. 
+Sammen med den kom en matchende USB-klient etter samme standard: 
+N11- USB. 
+
+LES OGSÅ: 
+
+Skjulte antenner 
+
+Vi er vant til at trådløse rutere har flere antenner, tre har vært vanlig de siste årene etter at MIMO (multiple in mutiple out) ble en del av standarden. 
+Noen modeller har alltid hatt skulte antenner, som f.eks. Apple sine rutere, og de nyeste fra Linksys. 
+
+Hvis man må plassere ruteren slik at den er synlig så er nok de fleste med møblerte hjem enige om at jo mer diskret jo bedre. 
+
+Asus-ruteren har heller ingen synlige antenner og passer derfor inn over alt, selv om designet etter vår smak ikke er like elegant som hos Linksys. 
+
+Standard egenskaper 
+
+Neste alle rutere i samme prisklasse byr på de samme tilkoblingsmulighetene og støtter stort sett de samme funksjonene. 
+Dette skyldes at alle er bygget rundt det samme brikkesettet, eller et konkurrerende brikkesett. 
+
+Derfor har svært mange rutere 4 porter til kablet nett, og ingen ekstra tilkoblinger til annet utstyr, det gjelder også Asus RT-N15. 
+
+Tidligere var det flere rutere som bød på USB for felles lagring og deling av skrivere, til og med webcam-støtte. 
+Asus ledet an blant flerfunksjonsrutere tidligere, men dette er nå tydeligvis ikke like interessant. 
+
+Dette skyldes både prispress og at nettverks-disker og -skrivere har blitt svært rimelige etter hvert. 
+Dessuten er det ikke alltid praktisk at felles-skriveren står på samme sted som ruteren. 
+Hos oss er f.eks. ruteren plassert på hemsen oppunder mønet, der er det ikke spesielt attraktivt å plassere multifunksjonsskriveren som stort sett brukes i etasjen under. 
+
+Når det gjelder ruting-egenskapene så er også disse ganske like hos de forskjellige produsentene, av tilsvarende grunn som nevnt over. 
+Mye av programvaren i ruteren kjøpes inn fra tredjeparts utviklere, som leverer tilpassede varianter til sine kunder, men med felles grunnplatform. 
+
+Ofte er det grensesnittet for brukeren som er mest forskjellig, med du finner de samme parametrene. 
+Noen ganger er det lagt vekt på visse områder, som blir fremhevet i grensesnittet. 
+
+Enkel trafikkonstabel 
+
+QoS Quality of Service er slik internett fungerer i dag rett og slett trafikkprioritering ut av ruteren. 
+Sitter flere brukere på hjemmenettet og gjør forskjellige ting, kan ruteren settes til å prioritere forskjellige typer datapakker. 
+
+De tre typene det er lagt opp til er typiske for de fleste: 
+Gaming, VoIP (tale) og Internett generelt, som inkluderer nedlasting, streaming og vanlig surfing. 
+
+Enhver bruker som har tilgang til ruteren kan sette prioriteringen slik det passer best. 
+Da kan far skravle med gutta i IP-telefon mens mor spiller CS og barna i huset oppdaterer Wikipedia. 
+Hvilken aktivitet som da skal ha høyest prioritet blir jo interessant... 
+
+Du kan også prioritere spesifikke tjenester basert på IP og portbruk. 
+
+Effekten av dette kan være vanskelig å konstatere, siden trafikken både innenfor og utenfor ruteren er svært varierende til enhver tid. 
+Med bare 3 brukere var det ikke mulig å registrere noen merkbar forskjell. 
+
+Ytelse 
+
+Ytelsen var både høy og stabil, men det var interessant at det alltid tok litt tid for kommunikasjonen å komme opp i hastighet, uansett avstand mellom ruter og klient. 
+
+Sammelignet med D-Links nyeste ruter var Asus-ruteren et hakk over. 
+Sammenlignet med Linksys' seneste lå den litt under. 
+
+Andre egenskaper 
+
+Ruteren kan spare litt strøm ved å variere effekten etter hva som kreves for å drive signalet over de forskjellige kabellengdene på maskinene i hjemmenettet. 
+Den kan også slå av de portene hvor det ikke er noen påslått maskin koblet til - "Green Network". 
+Effekten av dette utgjør ikke mye i løpet av året når det gjelder å spare energi, strømforsyningen gir max 12 watt. 
+Men alle monner drar, selv om det antagelig bare utsetter virkningene av oppvarmingen med et picosekund... 
+
+For enkel tilkobling støttes også OneTouch Wizard hvor du kobler til en klient med et knappetrykk på USB-enheten. 
+
+Konklusjon 
+
+For ca en tusenlapp får du en av de raskeste ruterne på markedet, med et elegant og diskret design og enkel betjening. 
+Ønsker du mer avanserte muligheter er de også til stede. 
+
+Båndbreddekontrollen vil sannsynligvis ha mer effekt i travlere miljøer, og kan være god å ha. 

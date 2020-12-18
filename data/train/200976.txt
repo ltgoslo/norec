@@ -1,0 +1,110 @@
+Multicom Kunshan P150E med Ivy Bridge
+Norsk PC med ytelse i toppklasse. 
+Vi har testet. 
+
+Multicom er Norges eneste produsent av bærbare PC-er, og har funnet sin nisje: 
+Gaming-segmentet. 
+Modellen vi har hatt på testbenken de siste dagene har vi stiftet bekjentskap med tidligere, nærmere bestemt i fjor sommer. 
+Da kronet vi maskinen med terningkast 6, blant annet takket være svært god ytelse. 
+
+Når vi nå har hatt maskinen på testbenken igjen, skyldes det først og fremst at innmaten er byttet ut. 
+Nå er det siste generasjon Intel-teknologi, bedre kjent som Ivy Bridge, som har vært under lupen. 
+Selve chassiset har også fått noen endringer, blant annet har maskinen fått nytt tastatur. 
+Og som ventet er ytelsen hevet flere hakk. 
+Mer om det senere. 
+
+Først tar vi en nærmere kikk på de viktigste egenskapene: 
+
+15,6" matt skjerm med full HD-oppløsning (1920 x 1080P) 
+Intel Core i7-3720QM firekjernet prosessor, 2.6 GHz Intel HD 4000 og Nvidia Geforce GTX 675M grafikk 16 GB RAM 180 GB SSD DVI Dual Link, Displayport og HDMI 1.4 skjermutganger, Wireless Display-support Trådløst nettverk (a/b/g/n) Bluetooth Gigabit nettverk DVD-brenner for alle formater Fingeravtrykkleser 3 stk USB-porter (1x 2.0 og 2x 3.0) 1 stk kombinert eSata-kontakt / USB 3.0-port 1 stk Firewire-kontakt S/PDIF digital lydutgang 2 megapiksels webkamera Minnekortleser (MMC/MS/SD) 
+Levert med Windows 7 Home Premium 64 bits 376 x 256 x 35~43mm (BxDxH) 3,2 kg Pris, denne konfigurasjonen: 
+15.650 kroner inkl mva 
+
+Ved siden av langt mer kostbare Alienware M18x er dette den kraftigste maskinen vi har hatt på testbenken. 
+Spesielt interessant er naturligvis ytelsen fra den nye Ivy Bridge-prosessoren, men også den integrerte grafikkbrikken har vi vært spesielt interessert i. 
+Ifølge Intel skal ytelsen være omtrent doblet på denne i forhold til forrige generasjon (HD 3000), noe som skulle bety at den også skal kunne håndtere en del nyere spill med moderate innstillinger. 
+
+Alle tilkoblingene sitter på venstre og høyre side, med unntak av strøminntak og skjermutganger som alle sitter i bakkant. 
+Det synes vi er fornuftig, tykke skjermkabler er greit å få unna veien. 
+Vi legger til at du fint kan koble til to eksterne skjermer - i tillegg til den interne. 
+
+Maskinen har en slags gumiert overflate som er svært motstandsdyktig mot fingeravtrykk, og det setter vi pris på. 
+
+Den er relativt stor og tung for å være en 15,6-tommer, og designen er svært diskré i motsetning til hurven av gaming-PC-er, som ofte gir assosiasjoner til italienske sportsbiler - både i farge og uttrykk. 
+
+Skjermen er lyssterk og fin, og det er en sann befrielse å jobbe (og spille) mot en matt skjerm som ikke reflekterer alt og alle. 
+Spesielt når du sitter med ryggen mot vinduet, og når skjermbildet er mørkt, kan blanke skjermer være et stort problem. 
+Full HD er også meget behagelig på en 15,6-tommer, og gir plass til mange vinduer og informasjon samtidig. 
+
+Tastaturet er ikke lenger av chicklet-typen der hver tast sitter isolert fra hverandre. 
+Nå er det mer tradisjonelt, men har til gjengjeld fått baklys (blått). 
+Det er et stort fortrinn mener vi. 
+
+Typiske gaming-taster som W, A, S og D har fått egne symboler. 
+For øvrig er tastaturet også bra å taste på for en touch-er som undertegnede. 
+Eneste ulempen er at enter-tasten er liten og smal, noe som har ført til en del feiltasting under testperioden. 
+Plasseringen av > og < - tegnene er også flyttet i forhold til standard norsk QWERTY-tastatur. 
+
+Og nevnte vi at ÆØÅ-tastene er markert med KUN ÆØÅ? 
+Ett av veldig får helnorske tastaturer akkurat nå. 
+
+Windows som opsjon 
+
+Vårt testeksemplar kom med ferdig installert og konfigurert Windows 7. 
+Men i motsetning til 9 av 10 PC-er som selges, kommer den uten "crapware", det vil si prøveversjoner av programvare fra tredjepartsleverandører som fungerer som rene reklamekampanjer, gjerne med tilhørende sprettoppvinduer i hytt og vær. 
+Det kan hende du sparer noen kroner på at maskinen kommer med dette, men vi foretrekker defintivt et "rent" oppsett som på denne maskinen. 
+
+Og hvis du har Windows-lisens fra før kan du få maskinen levert uten - og spare 500 kroner. 
+
+Fantastisk ytelse 
+
+Fra du skrur på PC-en til Windows er ferdig lastet, går det 23 sekunder. 
+Hele 10 av dem går med til post-OS-lasting, altså før Windows. 
+Å laste Windows 7 på 13 sekunder sier litt om hvor kraftig maskin og rask SSD vi har med å gjøre her. 
+
+Maskinen er relativt stillegående under moderat belastning. 
+Det er en vifte som går relativt jevnt og trutt, men den er temmelig rolig. 
+Under belastning blir maskinen til dels ganske støyende, og vi antar at det er flere vifter som settes i gang. 
+Det er også en del opp- og nedspinning av vifter som kan være forstyrrend. 
+Dette overdøves muligens av høy lyd fra spillene, men vi har hørt mer stillegående gaming-maskiner enn denne. 
+
+I tabellen under har vi sammenlignet Windows' egen opplevelsesindeks mot fjorårsutgaven av P150E, samt den omtalte Alienware-maskinen vi testet i vinter - en maskin som kostet tett oppunder 50.000 kroner: 
+
+Som vi ser scorer Kunshan P150E bedre eller like god på alt utenom på grafikkortet, takket være at Alienware hadde to stk GTX 580M-kort i SLI. 
+Legg imidlertid merke til at 7,9 er topp-score, og vi må derfor ty til andre midler for å se forskjellene på enkelte punkter. 
+
+Passmark PerformanceTest gir oss litt mer kjøtt på benet, her har vi trukket ut hovedtallene fra de to råskinnene: 
+
+Takket være bedre prosessorytelse og raskere SSD får vi altså et høyere totaltall for Multicom Kunshan P150E - ganske så oppsiktsvekkende med tanke på at prisen er 1/3 av Alienware-maskinen. 
+Det sier litt om hvor mye det har å si å gå fra en prosessorgenerasjon til en annen. 
+
+Og hvis du lurte på det; grafikkortet GTX 675M byr på svært god spillytelse, ifølge Futuremark er det den tredje raskeste som finnes for bærbare. 
+Det sier det meste. 
+
+Vi gjorde også noen målinger av den integrerte grafikken (Intel HD 4000), og med ytelsestall på over 600 i Passmark stemmer godt overens med Intels påstander om at ytelsen er doblet fra forrige generasjon (vi har opplevd rundt 300, men som regel har 3D-ytelsen ligget mellom 250 og 300 på Intel HD 3000). 
+
+Her ser du hvordan den integrerte grafikken kan måle seg mot eksisterende grafikkort i markedet: 
+
+Det gledelige for de mange som ønsker å spille et spill i ny og ne, uten de store kravene til fps og detaljnivå, er at Intel HD 4000 kan duge bra til mye. 
+Dette er en grafikkløsning vi kommer til å se mye av på maskiner i lavere prisklasser, og det lover godt for budsjettbevisste kjøpere. 
+
+Batteritiden er ikke denne typen maskiners største fortrinn, men vi hadde forventet en viss forbedring, siden Ivy Bridge er mer strømgjerrig. 
+Men det er diverse andre faktorer som trekker opp strømforbruket i denne maskinen, og dermed er ikke forskjellene særlig store. 
+Litt skuffende, må vi si. 
+I tabellen under har vi sammenlignet målingene våre med fjorårsutgaven: 
+
+Konklusjon 
+
+Kunshan P150E med Ivy Bridge innabords framstår som en solid maskin med høyt utstyrsnivå og ytelse som ligger helt i toppen i denne prisklassen. 
+Som i fjor vil vi bemerke viftestøy og begrenset batterilevetid, men ytelsen er akkurat hevet så mye at maskinen fortsatt fortjener terningkast 6. 
+
+Men det betyr ikke at dette er en maskin for alle. 
+Men er du en gamer som stiller store krav til ytelse, har du her et råskinn av dimensjoner - en ekte ulv i fåreklær. 
+
+Maskinen kommer for salg 29. april, får vi opplyst fra Multicom. 
+
+Og husk: 
+DinSide venter flere Ivy Bridge-baserte maskiner til test i nær framtid, og selv om dette er den raskeste PC-en vi har testet, kommer det garantert noen som vil utfordre Multicoms nr 1-posisjon. 
+Følg med! 
+
+Takk til Multicom for utlån av maskinen. 

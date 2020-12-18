@@ -1,0 +1,101 @@
+TEST:Simple Audio Roomplayer 1 
+
+Simple Audios strømmeløsning har fått støtte for Wimp og audiofil ekstremkvalitet. 
+
+Mens noen av oss fortsatt legger mye tid og penger i musikkavspilling i fysisk format (en vakker dag skal jeg fortelle deg om spolebåndspilleren min), er strømming av musikk den stadig vanligere modellen for musikkonsum i de tusen hjem. 
+Med framveksten av abonnementsbaserte strømmetjenester som Spotify og Wimp har det tatt helt av. 
+
+Løsninger som bringer musikkstrømmene ut i stua er tilgjengelig fra en lang rekke leverandører, som Sonos, Logitech, Bowers & Wilkins, Apple, Linn, Devialet og Sony. 
+Noen tilbyr integrerte alt-i-ett-løsninger, andre tilbyr rene nettverksspillere som skal kobles til et stereoanlegg eller en aktiv høyttalerløsning. 
+
+Skotske Simple Audio, startet av tidligere ansatte hos den legendariske hi-fi-produsenten og strømmepionéren Linn, er blant dem som tilbyr begge deler. 
+
+Små, men viktige oppgraderinger 
+
+Selskapets Roomplayer-produkter har vært i markedet et par år, men de nye Roomplayer+-modellene har fått noen små, men viktige oppgraderinger, som direkte støtte for avspilling av lokale filer fra fra NAS netteverkstjenere og støtte for høyoppløst lyd i 24 bits 192 kHz (mot tidligere 24 bits 96 kHz). 
+
+Og, trolig atskillig mer interessant for de fleste; støtte for strømmetjenesten Wimp. 
+
+Tidligere støttet Simple Audio-plattformen bare amerikanske tjenester som TuneIn, Deezer og Rhapsody. 
+Men nå er norske Wimp på plass, og støttes både i vanlig versjon med lyd i 320 kbps AAC-kvalitet, og viktigst i hifi-versjon med CD-kvalitet. 
+Wimp Hifi forutsetter dog at du har tegnet et abonnement til 199 kroner måneden. 
+
+Bryr du deg om lydkvalitet abonnerer du selvsagt på hifi-versjonen. 
+I mine øyne og ører er det en no-brainer: 
+Plutselig har du ikke bare tilgang til dine lokale musikkfiler, men en virtuell cd-samling på et par millioner plater. 
+Samtidig sørger du for at mer penger havner hos artistene du hører på. 
+
+Under min test var Wimp ennå fersk i Simple Audio-programvaren, og det var faktisk slik at alle Wimp-abonnenter fikk hifi-lyd, uavhengig av abonnement. 
+Dette vil trolig være «fikset» i neste programvareoppdatering. 
+Spotify er fortsatt ikke på plass, men det jobbes visstnok med saken. 
+
+Fås med og uten forsterker 
+
+Roomplayer+ fåes både som nettverksspiller med innebygget 2 x 50 digitalforsterker, og i en versjon uten forsterker som kobles til et eksisterende musikkanlegg eller til et par aktive høyttalere (for eksempel disse, om du vil ta i litt). 
+Roomplayer+ with Amp har solide høyttalerterminaler og subwooferutgang, og koster 6495 kroner. 
+Uten forsterker blir prisen tusen kroner lavere. 
+
+Ellers er de to enhetene like, med samme digitalomformer, noe som gjør modellen med forsterker til det klart beste kjøpet. 
+
+Før du kan spille musikk må du imidlertid sette opp din Roomplayer, eller dine Roomplayere, om du har gått for en multiromsløsning. 
+
+Krever tilkobling med kabel 
+
+Simple Audio mener, som flere av konkurrentene, at trådløs forbindelse via wifi-nettverket ikke er stabilt nok. 
+I stedet har man gått for en løsning der man fysisk kabler en Roomplayer til nettverksruteren. 
+Om det er stor avstand mellom der du skal høre musikk og der ruteren befinner seg, kjøper du en HomePlug til 699 kroner; en liten boks som kobles til ruter og strømnett. 
+Denne snakker så med Roomplayeren via såkalt PLC (Power Line Communication), som rett og slett bruker strømnettet til å transportere data. 
+
+Samme PLC-teknologi gjør det enkelt å koble sammen flere Roomplayere for en multiromsløsning - bare den første trenger være koblet til ruteren. 
+Den nye spilleren kobles til strøm, og etter et par trykk på paringsknappene på den nye og den eksisterende spilleren, er den nye på nett og kan gis navn og velges fra programvaren. 
+
+Inntil ti Roomplayere kan kobles sammen via strømnettet på denne måten, så lenge de knyttet til samme sikringsskap. 
+Jeg prøvde med to spillere, og opplevde ingen problemer. 
+
+Styres fra PC eller mobil/nettbrett 
+
+Simple Audio-systemet kan styres både fra PC og Mac og fra app for nettbrett og mobil. 
+Men du trenger PC- eller Mac-programvaren for å komme i gang. 
+Jeg er en sånn som ikke leser i bruksanvisningen før jeg må, men etter å ha forsøkt noen ganger å få Simple Audio-appen på iPad til å finne Roomplayeren, måtte jeg slå opp. 
+
+Der kunne jeg lese at man først måtte nominere spilleren jeg hadde koblet til som «master» . 
+Dette må gjøres fra Simple Audio-programvaren for PC eller Mac. 
+
+Også valg som tilkobling av medieservere i nettverket må gjøres fra PC eller Mac. 
+Da jeg skulle koble til min Logitech Media Server, som ligger på en NAS nettverkstjener, prøvde jeg først via menyvalget Music Libraries, der man kan legge til «network libraries». 
+
+Programvaren lot meg imidlertid ikke klikke meg fram til musikkilder i nettverket, men krevde at jeg tastet adressen manuelt. 
+Litt kinkig, ettersom min NAS ikke har en statisk IP-adresse, slik Simple Audio anbefaler at man setter den opp med. 
+
+Men så, etter å ha oppdaget og haket av for valgene «enable access to media servers» og «show non-Twonky media servers» under innstillinger i desktopapplikasjonen, og en omstart av programvaren, dukket endelig min Logitech Media Server på NASen opp med musikkinnhold i FLAC-format. 
+I app-versjonen på iPad dukket NASen derimot ikke opp, selv etter omstart. 
+
+Her er det med andre ord mulig å gjøre det mer intuitivt. 
+Simple Audio-programvaren er under stadig utvikling, men har fortsatt en del forbedringspotensiale. 
+
+Et stort flertall brukere vil sannsynligvis danne seg sitt intrykk av Simple Audio gjennom kvaliteten på appløsningen, så her må det ikke kuttes i svingene. 
+At Roomplayer leveres uten tradisjonell fjernkontroll, gjør også kvaliteten på programvaren desto viktigere. 
+Sammenliknet med tidligere versjoner er det et pluss at muligheten til å opprette egne spillelister nå er på plass. 
+Integrasjonen av Wimp er også i en tidlig fase, og derfor ikke helt optimal, med tanke på ting som navigasjon og låt-/albuminformasjon. 
+
+Blant de beste lydmessig 
+
+Lydmessig er likevel Simple Audio blant det beste som er å få i dette markedssegmentet. 
+
+Sammenliknet med tidligere lytteerfaringer med Sonos og Bluesound synes jeg Simple Audio låter klart sprekere og mer «high end», med en mer oppløst, energisk og engasjerende spillestil, med større dynamikk og mer detaljrikdom. 
+Her merker man arvestoffet fra high end-produsenten Linn. 
+
+Den lydmessige karakteristikken er gjenkjennelig på begge spillerne. 
+Modellen uten forsterker kommer nok til kort mot min tre ganger så dyre Transporter nettverksspiller når den kobles til stereoanlegget, men ligger ikke dramatisk langt etter. 
+
+Med et par Monitor Audio stativhøyttalere og en Audio Pro Ace Bass 2 sub koblet til Roomplayeren med forsterker har jeg et fullverdig stereoanlegg i stua. 
+De to ganger 50 wattene gir et meget anstendig lyttetrøkk selv fra de relativt tungdrevne høyttalerne. 
+Man merker imidlertid at de digitale ICEpower-forsterkerne ikke gir det varmeste og mest organiske lydbildet. 
+
+Et pluss er det at Simple Audio, i likhet med Bluesound, støtter avspilling av høyoppløst kildemateriale i 24 bits, opp til 192 kHz samplingfrekvens. 
+Dette mangler Sonos, noe som gjør markedets mest populære løsning i dette segmentet mindre attaktiv for dem som mener høyoppløst lyd utover CD-kvalitet faktisk gjør en lydmessig forskjell. 
+
+CD-lyd får du som nevnt rikelig av om du har et Wimp hifi-abonnement knyttet til din Roomplayer. 
+Det er noe fascinerende med å ha en samling på et par millioner cd-«plater» under tastefingrene. 
+
+Pris er 6.500 kroner. 

@@ -1,0 +1,106 @@
+Denne PC-en er en real ulv i fåreklær
+Kraftigste vi har testet i år. 
+
+Det er bare dager siden vi publiserte testen av gaming-PC-en HP Omen 15, som har en design som oser av gaming og testosteron. 
+Denne gangen har vi testet nye XPS 15 fra Dell, som faktisk er enda kraftigere - men som designmessig ser ut som den uskyldige lillesøsteren. 
+
+Ikke for stramme budsjetter 
+
+Nå skynder vi oss å legge til at vi har testet den kraftigste konfigurasjonen av maskinen, med en prislapp på rundt 26.000 kroner (startpris er på rundt 17.000). 
+Det er mye penger, men da kan du også boltre deg med følgende: 
+
+Dette representerer noe av det kraftigste og mest oppdaterte som er å oppdrive, med unntak av grafikkortet - som ifølge Futuremark er markedets sjuende kraftigste myntet på bærbare PC-er. 
+Det er uansett blant de kraftigste vi har testet. 
+
+Med andre ord: 
+Her får du ytelse i bøtte og spann, uten at PC-en din ser ut som en blodtrimmet Corvette av den grunn. 
+
+Ulv i fåreklær 
+
+For PC-en har en klassisk design med matt, grått aluminium - og den er bemerkelsesverdig liten for å huse en 15,6-tommer på innsiden. 
+De ytre målene på 357 × 17 × 235 mm, er faktisk omtrent som Acer Aspire ES1, som har 14-tommer skjerm - og bittelitt mindre enn den minste 15,6-tommeren vi har testet inntil nå, Asus Zenbook UX530UX. 
+
+Dell hevder da også at Dell XPS 15 er verdens minste 15,6-tommer, akkurat som de hevder at Dell XPS 13 er verdens minste 13,3-tommer. 
+Vektnåla stopper på 2.088 gram, så den er vesentlig tyngre enn den nevnte Asus-en på 1,6 kg. 
+
+Alle tilkoblingspunktene sitter på sidene, PC-en kan lades via USB-C, men strømforsyningen som følger med bruker en standard strømplugg. 
+Selve pluggen står 3 cm rett ut, her hadde vi ønsket oss en 90-graders knekk for å minske farene for brudd. 
+
+To høyttalere sitter på undersiden, like under der håndleddene dine hviler, og byr på relativt fin lyd - også med litt bass og fylde. 
+Det er greit til lett bakgrunnsmusikk og lignende, men trenger du mer må du koble til hodetelefoner eller eksterne høyttalere. 
+
+Fantastisk skjerm 
+
+Åpner du lokket, blir du møtt av en berøringsskjerm som fyller nesten hele rammen. 
+Den består av like mange piksler som fire full HD-skjermer, og byr derfor på en ekstremt høy detaljrikdom. 
+Panelet er dessuten meget lyssterkt med sine 350 nits. Ifølge Dell skal skjermen dessuten dekke 100 prosent av Adobes RGB-fargespekter, noe som betyr mye for mange som driver med grafisk arbeid. 
+
+Opplevelsen av skjermen er helt strålende, med ett unntak: 
+Den blanke skjermoverflaten er ikke optimal under alle lysforhold, på grunn av faren for reflekser. 
+
+Ikke helt optimalt 
+
+Takket være den ultratynne rammen, har ikke Dell funnet plass til webkameraet i toppen. 
+Her er det plassert i bunnen, til venstre for Dell-logoen. 
+Det er ikke optimal plassering til webkonferanser, men et kompromiss som bør være til å leve med. 
+
+Tastaturet er baklyst, fast og avgir lite støy under tasting. 
+Dell har ikke fått plass til numerisk tastatur til høyre, noe som er veldig vanlig på PC-er med 15,6 tommer skjerm. 
+Det kan være et ankepunkt for enkelte, men neppe den gjennomsnittlige brukeren. 
+
+Vi merker oss også at Enter-tasten er smal, men vi har kun prøvd maskinen med engelsk tastatur - vi vet ikke hvordan dette er på den norske utgaven. 
+
+Tastaturplaten er omkranset av karbonfiber med en lett gumiert overflate, med en temmelig stor pekeplate midt på. 
+Karbonfiberet sørger for at det aldri blir veldig varmt for håndbaken, men verdt å nevne at det er varmere til venstre enn til høyre, sannsynligvis skyldes dette plasseringen av prosessoren. 
+
+For proffene 
+
+Og det er videre verdt å nevne at Dell i stor grad sikter seg inn mot bedriftsmarkedet med sine XPS-modeller. 
+Derfor har XPS 15 blant annet Pro-utgaven av Windows 10, og leveres med en rekke sikkerhetsløsninger som er myntet på profesjonell bruk. 
+
+Derfor vil det kanskje komme som en overraskelse at PC-er er utstyrt med et grafikkort som sitter i mange gaming-maskiner. 
+Det er imidlertid ikke bare til spilling at et kraftig grafikkort kommer til nytte, men også til avansert høyoppløst grafisk arbeid, 3D-modellering i 4K og andre tyngre oppgaver. 
+Man stiller i så måte sterkt med en PC som denne. 
+
+Det bringer oss inn på neste punkt, ytelse. 
+Siden den nevnte Omen 15 var den kraftigste PC-en vi har testet så langt i år, er det naturlig å sammenligne ytelsestallene mot denne. 
+Tallene finner du i tabellen under: 
+
+(Dinsides egne tall fra Passmark PerformanceTest og Atto Disk Benchmark) 
+
+Helt i toppen 
+
+Som du ser av tabellen er tallene i stor grad ganske like, med unntak av SSD-en, der Samsung-en som sitter i Dell XPS 15 er betydelig raskere enn den som sitter i HP Omen 15. 
+Dette er faktisk de beste SSD-målingene vi har målt noensinne. 
+Spesielt forskjellen i skrivehastighet kan være merkbart når man jobber med svært store filer og ved mellomlagring, blant annet. 
+
+Vi er også svært positive at PC-en er stort sett meget stillegående, og bruker du den på batteri og til vanlige, lette PC-oppgaver, er det ikke sikkert de er hørbare i det hele tatt. 
+
+Litt under forventet batteritid 
+
+Og når vi først er inne på batteridrift, kan vi legge til at under minimal belastning og med batterisparing aktivert, klarte vi å tyne batteriet til 733 minutter. 
+Det er det samme som 12 timer og 13 minutter. 
+Det er bra, men under kontinuerlig strømming av video fra YouTube i nettleseren Edge, holdt batteriet ut i 339 minutter før vi måtte finne fram laderen, altså 5 timer og 39 minutter. 
+
+Dette er kortere enn vi hadde forventet, med tanke på den første målingen uten belastning. 
+Vi har kjørt testen flere ganger, men stoppeklokka viser omtrent det samme hver gang. 
+
+Det betyr uansett at du kan forvente en batteritid som ligger et sted mellom der ved variert bruk, typisk 7-8 timer noe som er godkjent - men heller ikke mer for en så dyr maskin. 
+
+Batterilading går gjennomsnittlig raskt, etter én time var kapasiteten oppe i 55 prosent. 
+De fleste PC-ene vi har testet i år, ligger i samme leie. 
+
+Konklusjon 
+
+Dell XPS 15 er en av de aller beste PC-ene vi har testet. 
+Den er svært kraftig, kompakt og elegant i utformingen, og er fremtidsrettet med tanke på tilkoblinger. 
+Skjermen er også prima, og innbyr til lange arbeidsøkter der grafisk arbeid med nøyaktige farger er sentralt. 
+
+Ankepunktene er ikke mange, men akkurat nok til at vi ikke gir en sekser på terningen. 
+Plasseringen av webkameraet og manglende ethernet-kontakt kan naturligvis være ankepunkter for noen. 
+Det hadde heller ikke skadet om PC-en var utstyrt med fingeravtrykkleser for Windows Hello og at batteriet holdt ut en time eller to ekstra ved strømming av video. 
+
+Uansett er dette en super totalpakke som gir en solid femmer på terningen og Anbefalt-stempel for deg som er ute etter et diskré arbeidsjern i premium-segmentet, og ikke bryr deg om at PC-en koster en god månedslønn. 
+
+Få uansett med deg testene våre av konkurrenter som Microsoft Surface Book og Surface Laptop, samt Asus Zenbook UX530UX før du bestemmer deg. 
+De kan til dels gi deg mer for pengene. 

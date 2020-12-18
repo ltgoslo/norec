@@ -1,0 +1,60 @@
+D-Link DCS-933L overvåkningskamera
+Kameraovervåkning har aldri vært enklere, ny variant fra D-Link. 
+
+Det er mange løsninger for kameraovervåkning, og en del utfordringer. 
+Vi har også testet den forrige løsningen fra D-Link, som minner svært om denne nye, men heldigvis ser vi forbedringer på de to viktigste områdene: 
+Bildekvalitet og brukervennlighet. 
+
+Selve kameraet 
+
+Kameraet er lite og lett, og står på sin egen fot som med fordel kan festes i underlaget med skruer eller kraftig dobbeltsidig tape. 
+Ellers skal det svært lite til for at det kommer ut av posisjon. 
+
+På forsiden er det utstyrt med infrarød lysdiode som tennes når det er for lite lys, og du får et bilde som består av gråtoner. 
+Du hører også et klikk inne i kameraet når det skifter mellom infrarød og vanlig bildemodus. 
+Det tennes også fire røde lysdioder når kameraet er i nattmodus. 
+
+På baksiden finner du nettverkstilkobling, inngang til strøm og en knapp for å aktivere WPS. 
+
+Oppsett 
+
+Oppstarten gjøres ved å kjøre CD-en og koble til med nettverkskabel. 
+Etter en litt omstendelig trinn-for-trinn-rutine var vi i gang og fikk kontakt med kameraet. 
+Vi valgte å bruke det trådløst, til slutt lagres innstillingene og kameraet starter på nytt. 
+
+Deretter kan du koble fra nettverkskabelen og strømkabelen, og så plassere kameraet der du vil hvor det er trådløs dekning og strøm. 
+Alternativt ett eller annet sted på hjemmenettverket ditt med kabeltilkobling. 
+
+En nyttig finesse for mange er at kameraet også fungerer som repeater, det utvider den trådløse dekningen ved å ta i mot og videresende signalet med mer effekt. 
+
+Har du bare ett kamera og vil gjerne kunne sjekke manuelt via mobilen eller en PC hva som skjer, foregår alt gjennom MyD-Link Cloud. 
+Du bruker en app på mobilen, og i nettleseren på PC-er, og det fungerte helt prikkfritt for oss. 
+
+For å varsle setter du opp en mailadresse som umiddelbart sender bilder når det skjer noe. 
+
+Du kan enkelt velge hva som skal trigge varslingen, enten ved å merke av områder i bildet eller ved lyder over en visst volum. 
+
+Kameraet jobber direkte mot ruteren din og MyDlink-tjenesten. 
+Ingen PC må stå på for at kameraet skal fungere og sende video og varsling når som helst og hvor som helst du måtte velge å logge deg inn på mobil eller PC. 
+
+I bildespesialen under ser du alle menyvalgene for detektering og varsling. 
+
+Du kan også sette opp flere kameraer og styre alle disse med en mer avansert programvare, som gir deg en ganske omfattende løsning for overvåking. 
+Dette har en egen installasjonsprosedyre som vi hoppet over i denne omgang. 
+
+Bildekvalitet 
+
+Sammenligner vi bildekvaliteten er den et lite hakk bedre enn de forrige vi testet, men kan fremdeles ikke hevde seg i sammenligning med Logitech sine kameraer som vi har testet tidligere. 
+
+Men bildekvaliteten er absolutt tilstrekkelig, både for varsling og gjenkjenning av personer eller andre vesener som måtte være på ferde. 
+
+Konklusjon 
+
+Kameraet er allsidig og fungerer hele døgnet. 
+Litt problemer med store kontraster, men det holder. 
+
+Programvaren via MyDink i nettleser på PC var brukervennlig og oversiktlig, og visningsprogrammet på mobil fungerte utmerket. 
+
+Du får det ikke stort enklere og rimeligere. 
+
+D-Link DCS-933L 

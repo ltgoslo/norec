@@ -1,0 +1,82 @@
+TEST:Amadeus Internett-radio med DAB+ 
+
+Kjøkkenets nye radiokonge? 
+
+Det norske folk nølte lenge med å skrote FM-radioene og isteden gå for det nye DAB-systemet som ble tungt markedsført av NRK og P4. 
+
+Vendepunktet 
+
+Men i februar 2011 kom det et vendepunkt. 
+Da bestemte nemlig kulturminister Anniken Huitfeldt at FM-båndet skal skrus av i 2017, og i det siste har salget virkelig tatt av. 
+
+På hjemmebane hører likevel mange på nettradio, enten via mobil, PC og/eller trådløse høyttalere. 
+Der er utvalget av kanaler størst. 
+I tillegg til nesten alle norske kanaler (inkludert NRK-kanalene) kan du også høre på BBC og mange titalls tusen kanaler med musikk og annet innhold. 
+
+At DAB (og senere DAB+) også har sin plass, er det likevel liten tvil om. 
+Det er gratis, og fungerer også om internett ikke er tilgjengelig. 
+
+Alt i samme radio 
+
+Med Amadeus Internet Radio får du både nettradio, DAB, DAB+ og gode, gamle FM. 
+I tillegg kan den spille av musikk du har liggende på disker tilknyttet hjemmenettverket ditt. 
+
+Denne videoen viser hvordan radioen er i praktisk bruk: 
+
+Litt for ofte er nettverksradioer nokså kronglete å sette opp, men siden Amadeus støtter standardprotokollen UPnP uten DNLA-tillegget, kommer musikken fra nettverksdiskene våre opp umiddelbart. 
+
+Radioen støtter både MP3, WMA, WAV, AAC og FLAC, men dessverre ikke Apple Lossless. 
+
+Det siste er underlig, siden formatet nå er åpent og benyttes av et stort antall lydbevisste iTunes-brukere. 
+
+«Generisk» radio 
+
+Det er mange «alt mulig»-radioer med nett, DAB, DAB+ og FM der ute etterhvert, og de fleste koster et sted mellom 1500 og 2000 kroner. 
+Flere av dem dukker også opp under ulike navn, og man er nesten fristet til å kalle dem for «generiske». 
+
+Og ganske riktig, vi fant faktisk akkurat samme kabinett (med uten DAB/DAB+) på en handlerunde i Berlin nylig: 
+
+Så hva er spesielt med akkurat denne radioen? 
+
+Det første vi merker oss er skjermen. 
+Mens andre radioer vi har prøvd viser informasjon med grønne eller grå bokstaver på en skjerm som like gjerne kunne vært laget i 1990, kommer det fine fargebilder opp på Amadeus-radioens lille skjerm. 
+
+Radioen støtter nemlig RadioVIS, en ny standard som gjør at radiostasjonene kan vise informasjon i form av bilder og grafikk, og ikke bare tekst. 
+
+Og jada: 
+Det ser unektelig flott og moderne ut, men vi føler kanskje at tekstinformasjon kan være vel så informativt. 
+
+Ikke alle DAB/DAB+-stasjoner støtter systemet, og ofte tar det tid før grafikken kommer opp. 
+Så noe absolutt must er ikke dette. 
+
+God app-styring 
+
+Amadeus har også laget en smart app som gjør at du kan velge stasjoner fra mobilen eller nettbrettet. 
+Du kan også styre volum og andre funksjoner. 
+
+Dette er praktisk fordi det lar deg styre radioen fra andre steder i huset. 
+
+Her ser du hvordan appen virker: 
+
+Selve appen har et enkelt og logisk menysystem, og du er sjelden i tvil om hvilke valg du skal ta. 
+Det skal likevel sies at vi av og til hadde problemer med å finne radioen, men stort sett fikk vi forbindelse noen sekunder etter oppstart. 
+
+Settes opp fra nettsted 
+
+Oppretter du en konto på nettstedet www.wifiradio-frontier.com (her må du huske å få med deg «www»!), kan du sette opp radioen med dine favoritt-internettstasjoner. 
+
+Allsidig, brukervennlig og god lyd 
+
+Med mange DAB/nettradioer vi har prøvd høres det ut som lyden har kommet helt til sist. 
+
+Men med Amadeus er ikke dette tilfellet: 
+
+Stemmer er tydelige, og selv om du aldri får noen fullgod autofil opplevelse med en bordradio i denne størrelsen fungerer musikk av alle typer overraskende bra. 
+
+Enda bedre blir det om du kobler radioen til et godt stereoanlegg, slik du har muligheten til via linjeutgangen. 
+
+Dessverre finnes det ingen hodetelefonutgang med variabelt volum. 
+Radioen støtter heller ikke Bluetooth eller AirPlay. 
+Derimot har Amadeus lagt til en linjeinngang, slik at du kan spille av musikk fra mobil og andre kilder via passende ledning. 
+
+Alt i alt opplever vi den likevel som en brukervennlig, allsidig og vellydende bordradio som vil tilfredsstille de fleste. 

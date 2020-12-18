@@ -1,0 +1,56 @@
+ZyXEL NBG6716
+En AC-ruter med flere smarte egenskaper. 
+
+Stadig flere produsenter lanserer rutere med AC-støtte, og vi ser til og med tegn til prispress. 
+I skrivende stund er det flere produkter som er på tilbud i enkelte butikker, til vesentlig lavere pris. 
+
+ZyXel er et relatitvt gammelt varemerke, men har ikke vært så veldig på hugget i en periode. 
+Nå ser det derimot ut som om det er mer fart i sakene, og flere nettverksprodukter er på vei. 
+
+Denne ruteren følger malen for de fleste nye rutere, med innebygde antenner og en konstruksjon som tvinger brukeren til å plassere den relativt fornuftig. 
+Den er av den vertikale typen, med nettverkstilkoblinger på baksiden, USB-kontakter på den ene kortsiden og et par knapper på den andre. 
+
+I øverste venstre hjørne er det LED-indikatorer for forskjellige aktiviteter. 
+
+Egenskaper 
+
+Ruteren opererer med alle aktuelle standarder: 802.11b/g/n på 2,4 GHz og 802.11a/n/ac på 5 GHz. 
+
+Maks teoretisk ytelse på 2,4 GHz er 450 Mbps og 1300 Mbps på 5 GHz. 
+Begge kan brukes samtidig, og gir tilsammen en ytelse på 1750 Mbps. 
+En gunstig fordeling er å bruke 5 GHz til streaming og 2,4 GHz til enklere oppgaver og mobile enheter. 
+
+Det er fire nettverksporter på 1 Gbit og en WAN-port for internettilkobling på 1 Gbit. 
+
+To USB-porter (USB 2.0) med hver sin utløserknapp for trygg fjerning av tilkoblete lagringsenheter. 
+
+Installasjon 
+
+Vi koblet PC-en til ruteren og fikk raskt tilgang til oppsettet. 
+Du kan velge en enkel veiviser hvor alt er klargjort og du bare behøver å svare bekreftende på hvert skjermbilde. 
+
+Hvis du vil endre innstillinger kan dette gjøres i et enkelt eller avansert oppsett. 
+
+Ruteren kan også fungere bare som aksesspunkt hvis du bruker en annen ruter, for eksempel fra internettleverandøren. 
+
+Installasjon og konfigurering var rask og enkel, med et tiltalende og oversiktlig grensesnitt. 
+Sjekk skjermbildene i bildeserien: 
+
+Ytelse 
+
+Vi testet med Intels 7260 interne ac-nettverkskort og ZyXels USB 3.0-klient. 
+
+Den opplevde ytelsen var meget god, både på streaming, web og ved lokal bruk. 
+Men ved måling av filoverføring ligger ytelsen noe under det de beste løsningene kan prestere. 
+Den er likevel godt over det typiske 802.11n-baserte løsninger klarer. 
+
+Konklusjon 
+
+802.11ac er på frammarsj og vi vil etter hvert se et bredere spekter av produkter i alle prisklasser. 
+I skrivende stund prises ZyXEL NBG6716 aggressivt og gir mye for pengene. 
+
+Vi liker utførelsen og grensesnittet, ytelsen er god, men ikke imponerende god. 
+
+Skal du overføre mye data trådløst lokalt mellom maskiner finnes det bedre løsninger, men for de fleste andre oppgaver holder det helt fint. 
+
+ZyXEL NBG-6716 

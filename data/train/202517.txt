@@ -1,0 +1,70 @@
+Surroundlyd for bærbar
+TEST: 
+Bare utgang for hodetelefon? 
+No problemo! 
+
+Du har fått deg en fin flat-TV og surround-anlegg, og vil spille av video fra din bærbare. 
+Eller du har fått deg en 24-tommers ekstra skjerm til din bærbare og ser fram til å kunne legge deg tilbake i godstolen og se film. 
+Bildet blir fint, men hva med lyden? 
+
+Surroundlyd er en veldig viktig del av den store filmopplevelsen, med stereo blir det ikke på langt nær samme romfølelse. 
+
+Men det er ikke alle bærbare som byr på flerkanals lyd, eller kan brukes med alle typer surroundanlegg. 
+Hvis den i det hele tatt har surroundlyd ut, så er det etter all sannsynlighet digitalt på SPDIF, ofte med en overgangskabel til optisk eller phono for tilkobling til anlegget. 
+Det hjelper ikke stort hvis du skal koble til et surroundanlegg som har to eller tre minijacker for kanalparene. 
+
+Men det finnes løsninger. 
+
+USB Sound Box 7.1 
+
+Sandberg har mange forskjellige bokser i rimelige prisklasser, som løser store og små problemer. 
+For lydproblemene vi har beskrevet over har de en USB-boks som har det du trenger for å koble til det aller meste av aktuelle surroundanlegg til din bærbare. 
+
+Boksen er liten og hendig i matt sort utførelse og har minijack-kontakter på to av sidene. 
+Mikrofoninngangene sitter på den ene kortenden, mens utgangene og linje inn sitter på den ene langsiden. 
+
+På den andre langsiden sitter det optisk SPDIF inn og utgang og USB-kontakt. 
+
+Fire blanke knapper på toppen styrer volum opp og ned og mute av høyttalere og mikrofon. 
+
+Driver og kontrollpaneler ligger på CD og ble greit installert på vår test-PC med Windows 7. 
+De kjører også på Vista og XP. 
+(Det er ingen støtte eller kontrollpanel for Mac, men vi koblet den til, og boksen blir registrert som en USB-lydenhet og gir helt ok lyd i stereo.) 
+
+Kontrollpanelet har fem faner med forskjellige grupper av funksjoner samlet. 
+Hovedsiden velger arbeidsmodus, om du skal bruke boksen som ekte eller virtuell surround. 
+I virtuell surround kan du flytte om på "plasseringen" av høyttalerne. 
+Det er først og fremst balansen som blir påvirket, men det er artig å la lydbildet spinne rundt deg, også i hodetelefoner. 
+
+Mixeren styrer nivået på de forskjellige inn og utgangene. 
+
+Effektene er romklang og EQ, her kan du velge mellom mange forhåndsinnstilte rom og omgivelser, det er ingen muligheter for å justere klangen manuelt. 
+EQ kan gjøres manuelt eller med (mange merkelig) ferdige innstillinger. 
+Du kan også lagre egne innstillinger. 
+
+Karaoke-innstillingene byr på effekter på mikrofonen og justerbar fjerning av vokal på playback av hvilken som helst lydfil. 
+Helt borte blir den riktignok ikke, det avhenger av den opprinnelige miksen av musikk/vokal og ikke minst klang. 
+
+Informasjonsfanen viser informasjon om programvareversjonene etc. som er installert og har lenke til brikkeprodusenten C-Media. 
+
+Hvordan låter det? 
+
+Boksen ga bare fra seg vellyd, den er helt fri for sus og brum, det eneste vi merket var et lite knepp når vi brukte hovedvolumkontrollen i Windows og justerte mellom verdiene 9 og 12! 
+Bortsett fra dette var det ingen nykker eller ulyder ved annen aktivitet på maskinen. 
+
+Det eneste vi savnet var at Mute-funksjonen også slo av hodetelefonutgangen. 
+Vi hadde foretrukket at vi kunne la den være aktiv og bare mute utgangen til høyttalerne, siden det er separate tilkoblinger for hodetelefon. 
+Nå må man slå av anlegget for å bare bruke hodetelefoner. 
+
+Nivået ut var også kraftig nok til å styre ut både anlegg og forskjellige hodetelefoner. 
+
+Boksen fungerte også fint med nyeste versjon av ASIO4ALL drivere for bruk sammen med proffe musikkprogrammer, med 8 separate kanaler ut. 
+
+Konklusjon 
+
+Boksen leverer god lyd i stereo og surround opptil 7.1. 
+Det er en del artige effekter, men det viktigste er at den fungerer bra uten dikkedarier. 
+
+Ønsker du surround til den bærbare, eller har problemer med sus, brum og knitring i den interne lyden på PC-en (bærbar eller stasjonær) - så kan denne lille boksen få deg ut av uføret. 
+
+Og prisen er det jo ikke noe å si på - selv med frakt kommer den på under 500 kroner. 

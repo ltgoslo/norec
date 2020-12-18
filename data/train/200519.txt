@@ -1,0 +1,58 @@
+Windows Live Mesh
+Live Mesh sørger for å oppdatere mapper på flere datamaskiner - via Internett. 
+Vi har testet. 
+
+Ja, for i sin enkleste form er det nettopp det Live Mesh gjør. 
+Hver gang jeg lagrer eller redigerer en fil på hjemme-PCen min, så oppdateres en replika av filen på de andre PCene mine automatisk. 
+
+Dermed er det bare å glemme servertilgang, minneplugger og store dokumenter på epost. 
+Alt er tilgjengelig på samme sted, på alle PCene du bruker. 
+
+Alt jeg trenger å gjøre er å høyreklikke på mappene jeg ønsker skal synkroniseres, og velge Add folder to Live Mesh. 
+Resten går av seg selv. 
+
+Mange bruksområder 
+
+Laster jeg ned en videofil fra nettet på jobben, er den tilgjengelig på hjemme-PCen min når jeg kommer hjem. 
+Praktisk? 
+I særdeleshet, vil vi påstå. 
+
+Er du kreativ, kan du for eksempel dele mappen "Favoritter" i Live Mesh. 
+Legger jeg til en nettside på favorittlisten min når jeg er på jobben, blir den tilgjengelig på de to andre PCene mine neste gang jeg kjører Internet Explorer på disse. 
+Eller jeg kan dele "Skriverbord"-mappen, og få nøyaktig det samme innholdet på skrivebordet på alle tre PCer, for eksempel. 
+
+Men det stopper ikke der. 
+Mappene jeg deler via Live Mesh kan også gjøres tilgjengelig for andre brukere, og jeg kan bestemme om deltakerne bare skal ha mulighet til å lese (informasjon), lese og skrive (prosjektarbeid), eller rett og slett bare kunne legge inn nye filer i mappen (forslagskasse, for eksempel). 
+
+Da er det også kjekt at det føres logg over alle endringer som foretas. 
+Denne dukker opp automatisk når jeg åpner en blå Live Mesh-mappe, til høyre for mappevinduet: 
+
+Også tilgjengelig på nett 
+
+I tillegg til å synkronisere filer og mapper på PCene, lagres det også en kopi på nettet. 
+Disse kan du få tilgang til fra hvilken som helst maskin, via en såkalt "Live Desktop". 
+
+Grensesnittet er nesten som Windows Vista, og dersom PCen har installert Silverlight kan bilder, musikk og video spilles av direkte: 
+
+Ikke helt ferdig 
+
+Windows Live Mesh har også innebygd fjernstyringsmodul. 
+Du skal altså kunne fjernstyre PCene som er en del av Meshen din, via nettleseren. 
+Dette har vi ikke fått til å fungere på noen av maskinene vi har testet Live Mesh på. 
+Operativsystemet på disse maskinene har enten vært Windows 7 beta eller Windows Vista. 
+
+Det loves også full Mac-funksjonalitet, og på sikt skal du også kunne synkronisere mapper på mobilen din. 
+Men det er fortsatt en vei å gå før dette er på plass. 
+
+Tilgjengelig nå 
+
+Windows Live Mesh er en del av Microsofts Live-satsning, men foreløpig er tjenesten på betastadiet. 
+Løsningen er gratis, men krever at du har en Windows Live-konto (Hotmail, Messenger eller andre MS-tjenester). 
+
+I skrivende stund er det en øvre grense hvor mye data som kan deles i meshen, og den er på 5 GB. 
+
+Du finner mer informasjon og kan laste ned Live Mesh fra denne siden (krever XP, Vista eller Win7beta). 
+
+En annen tjeneste, Dropbox, har lignende funksjonalitet, men fungerer også på Mac. 
+Her er imidlertid grensen 2 GB. 
+Dropbox kan du lese mer om her. 

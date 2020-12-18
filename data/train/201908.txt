@@ -1,0 +1,95 @@
+Sony Vaio F-serie
+Ytelse som en stasjonær i en lekker bærbar pakke? 
+Vi har testet Sony Vaio F 
+
+En PC med Intel Core i7, 8 GB minne, nVIDIA grafikk, 500GB disk og Blu-ray brenner samt full HD skjerm - det høres ut som en ganske kapabel stasjonær PC. 
+Men Sony har pakket den inn i et slankt, elegant chassis og gjort den til en bærbar. 
+
+Dette har sin pris, det blir ikke en maskin i lavprissjiktet, men maskinen er beregnet på de som trenger en kraftig og produktiv maskin som i tillegg er portabel. 
+
+En sideeffekt er at maskinen blir en høyst kapabel underholdningsmaskin, som dekker det meste - inkludert 3D spill og Blu-ray avspilling. 
+
+Sony satser med andre ord på å slå to fluer i en smekk med sin F-serie. 
+VPCF12S1E/B er den første modellen vi tester, etter at Sony annonserte sin nye Vaio-satsning i Norge tidligere i år. 
+
+Elegant? 
+
+Sony Vaio var opprinnelig navnet på stasjonære PC-er som hadde sin styrke på multimedia, og betegnelsen stod for Video Audio Integrated Operation. 
+Senere ble Vaio først og fremst forbundet med små og elegante, men likevel kraftige bærbare PC-er, mens konkuirrentene sin bærbare PC-er var store, klumpete og i blant direkte stygge. 
+
+I de senere årene har bildet endret seg, det er de bærbare som dominerer markedet. 
+De fleste leverandørene har derfor lagt stor vekt på design og Sony skiller seg ikke lenger ut i samme grad som tidligere. 
+
+Men Vaio F-modellen vi har hatt på testbenken er likevel en ganske stilig sak. 
+Den kommer i koksgrå plast med logo i krom på lokket. 
+Overflatene er silkematt og skjemmes ikke umiddelbart av fingermerker, verken innvendig eller utvendig. 
+
+Også skjermen er matt, etter denne testerens mening en udiskutabel fordel. 
+
+Men klistremerkene er på plass, som på alle andre bærbare PC-er. 
+
+Betjening 
+
+Maskinen er fast i konstruksjonen, og har god balanse. 
+Tastaturet har numerisk del og styreflaten er derfor plassert mot venstre. 
+
+Tastaturet er fast uten svikt, har god separasjon med gode og lydsvake taster. 
+Layouten er ryddig, spesielt plasseringen av piltastene likte vi. 
+
+Det er egne taster for medieavspilling pluss tre dedikerte taster: 
+"Assist" bringer fram Vaio Care for systemvedlikehold på maskinen, "SI" får fram et eget kontrollpanel og "Vaio" starter styreprogrammet for mediehåndtering. 
+
+Pekeplaten er behagelig og presis. 
+
+Skjermen 
+
+Skjermen har en behagelig matt overflate og med 1920 x 1080 full HD-oppløsning på 16,4 tommer burde de fleste være fornøyd. 
+De som har problemer med synet kan uansett velge en lavere oppløsning, eller mer nærliggende, en helt annen maskin. 
+Den høye skjermoppløsningen er jo et av hovedargumentene for å kjøpe maskin som denne. 
+
+Betraktningsvinkelen er ikke bedre enn på de aller fleste andre bærbare, må skjermen stilles opp i rett vinkel på bordet foran deg på et fly ser du ikke mye fornuftig på skjermen hvis innholdet presenteres i svart/hvitt, som nettlesere, tekst, regneark osv. 
+
+Men avspilling av Blu-ray fungerte utmerket, det er langt mer tilgivelig materiale for alle vinkler på skjermen. 
+
+Øverst på skjermen er det innebygget webkamera. 
+
+Tilkoblinger 
+
+Her er det ikke mye å klage på! 
+Maskinen har det du trenger til de fleste typer medieproduksjon, uansett hva du holder på med. 
+Mangler du noe finnes det tilleggskort. 
+
+På venstre side finner vi strømtilkobling, nettverk, VGA, HDMI, kombinert eSATA/USB, ExpressCard og FireWire/iLink 400. 
+
+På høyre side finner vi tilkoblinger for hodeltelefon og mikofon, 2 USB-kontakter og Blu-ray brenner. 
+
+I front finner vi bryter for trådløst og to spalter for henholdsvis MemoryStick og SD-kort. 
+
+Ytelse 
+
+Maskinen er rask og responsiv, alle oppgaver håndteres uten problemer. 
+
+Vi sjekket også responsen på lavnivå med DPC Latency Checker, og selv med alle tjenester aktivert var det ingen av disse som påvirket responstiden. 
+
+Batteritiden var derimot ikke spesielt imponerende, uten sparefunksjoner går den tom bare ved å stå påslått etter 1 time og 50 minutter. 
+Med kontinuerlig avspilling av video fra harddisk ga den opp etter 74 minutter. 
+
+Støy og varme 
+
+Med en gang maskinen får noe å tygge på tar det ikke lang tid før viften begynner å jobbe. 
+Dette skjer også ved avspilling av Blu-ray. 
+
+Selve maskinen blir ikke spesielt varm, men luften som kommer ut fra åpningene i øvre venstre hjørne av maskinen er fin til å tine kalde fingre på en vinterdag. 
+
+Konklusjon 
+
+Sony Vaio F byr både på gode kreative muligheter og er samtidig en utmerket underholdningsmaskin. 
+Den er ikke blant de billigste, men sammenligner vi med andre ledende merker kommer den likevel godt ut. 
+
+Prosessoren Core i7-720QM som sitter i denne maskinen er rimelig og ikke like rask som utgaver som sitter i andre bærbare. 
+Den har en standard klokkefrekvens på 1,6 GHz, men kan i turbo-mode gå opp i 2,8 GHz. 
+
+Likevel kan den gi opptil 20% høyere ytelse enn maskiner med Core i5 prosessor. 
+Praktisk ved tygging av større datamengder som videokonvertering og rendring, og miksing av musikk. 
+
+Test av Lenovo-maskinen finner du her 

@@ -1,0 +1,117 @@
+Multicom Compal JFT00
+Compal har nesten gjort alt rett med denne konfigurerbare ultraportable. 
+Nesten. 
+
+Det er nå en stund siden vi testet ultraportable bærbare datamaskiner, men vi sper nå på med en svært hvit 12,1-tommer fra Multicom. 
+
+LES OGSÅ: 
+
+Multcom har tidligere hatt suksess med sine konfigurerbare "byggesett" fra for eksempel ASUS og Compal, og det er også fra sistnevnte produsent skallet til JFT00 kommer fra. 
+
+Dersom du ikke er kjent med konseptet begynner du altså med en grunnkonfigurasjon og har muligheten til å forandre på noen av spesifikasjonene dersom du har behov for - og er villig til å betale for det - en kraftigere maskin. 
+
+Normalt sett er det prosessor, minne, harddisk og grafikkløsning som gjør de største utslagene her. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo fra 1,8 til 2,4 GHz 12,1" skjerm på 1280 x 800 punkter Fra 1 til 4 GB DDR2-minne 120 - 250 GB harddisk Intel GMA X3100 grafikk (opp til 384 MB delt minne) WLAN (a/b/g/n), gigabit LAN, modem, Blåtann 3 x USB, 1 ExpressCard/54 kortplass Kortleser for SD, MMC, MS, MSPRO VGA ut, lyd inn, analog/digital lyd ut Intel Turbo Memory kan velges 4 eller 6-cellers batteri Fingeravtrykksleser, 2.0 Mp webkamera og integrert mikrofon Dimensjoner (B/D/H): 
+30,0 x 22,3 x 4,2 cm (med slim batteri) Vekt ca 2,0 kilo 
+
+Operativsystem kommer i tillegg - skal du ha med dette må du legge på omtrent en høvding ekstra. 
+
+Er du mer interessert i toppmodellen med 2,4 GHz Core 2 Duo, 4 GB RAM, 200 GB (7200 RPM) harddisk og Intel Turbo Memory må du spa opp tre tusen mer. 
+
+Konstruksjon 
+
+Som du allerede har sett av bildet er JFT00 noe såpass sjeldent som en hovedsaklig hvit bærbar datamaskin - hvis vi da ser bort fra alle de som har eple-logo. 
+Lokket er blankt og hvitt (noe som til en forandring betyr at det ikke blir spesielt synlige fingermerker på den), mens innsiden og tastaturet er matt. 
+Under er den sort. 
+
+Maskinen er ganske så ny, så vi fikk engelsk tastatur på vårt testeksemplar - og kan ikke være for sikker på om den norske versjonen vil ha de samme egenskapene. 
+Men hvis det er tilfelle vil du være glad for å høre at det gir fin respons og er godt å skive på. 
+Det er heller ikke spesielt støyende. 
+Ved siden av at noen av tastene er litt små (merk komma og punktum) er det eneste vi har å utsette på det layouten - det kjente Fn / Ctrl-problemet. 
+Enter håper vi er over to linjer på den norske utgaven. 
+
+Av/på-knappen er plassert på vestre side over tastaturet, og fra midten og mot høyre har vi en rekke trykkfølsomme snarveier til lyd og blåtann/trådløst nett av og på. 
+
+Den nedfelte touchpaden i bredformat har god følsomhet, men ville først ikke la oss skrolle - dette viste seg etter hvert å være et driverproblem som lot seg fikse. 
+Noe som ikke imponerte oss akkurat var knappene under, som i tillegg til å være slarkete og ujevne er litt for harde å trykke på. 
+
+Men resten av maskinen virker meget solid. 
+Multicom Compal JFT00 er fast i fisken - selv stivheten i lokket er et par hakk over hva vi er vant med på små bærbare. 
+
+Den blanke skjermen er i bredformat og med 1280 x 800 punkter. 
+Det er nå en stund siden vi så en direkte dårlig skjerm på et testeksemplar, og denne føyer seg inn i rekken av skjermer med fine farger og god kontrast - ikke mye negativt å si her. 
+Innsynsvinkelen er (som normalt) nokså liten, men det er nok ikke noe problem for de fleste brukere. 
+
+Bortsett fra knappene under touchpaden virker JFT00 altså som en gjennomført solid bygd sak. 
+
+Tilkoblingsmuligheter 
+
+Datamaskinens kontakter finner vi bak og på sidene. 
+Høyttaler er plassert i fronten. 
+
+På venstre side har vi to USB-kontakter, det optiske drevet, ExpressCard/54-slot og minnekortleser. 
+
+Varmluften blåses ut på høyre side. 
+Her finner vi i tillegg en USB, inn- og utganger for lyd, VGA ut og plass til kensingtonlås. 
+
+Bak finner vi batteriet, inntak for strøm samt LAN og modem. 
+Batteriet kan forresten byttes ut med et større, men det vil da stikke ut i forhold til resten av maskinen. 
+
+Ytelse og batterilevetid 
+
+I sommer testet vi Multicom Z37S som gjorde det ganske så bra. 
+Den er litt større og tyngre (13,3 tommer og 2,2 kilo), men forskjellen er ikke avskrekkende. 
+Vi har også sammenlignet med Packard Bell EasyNote BU45 og Tundra 1057X fra PS, begge 12,1 tommere vi så på for et halvt års tid siden. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+JFT00 gjør totalt sett en fin figur. 
+Santa Rosa-brikkesettet gjør at maskinen scorer langt bedre enn de to eldre 12-tommerne, spesielt når vi ser på RAM og grafikk. 
+
+Harddisken på 7200 omdreininger gjør også sitt. 
+Vårt testeksemplar hadde ikke Intel turbominne, så derfor havnet den bak Z37S også på dette punktet. 
+
+Ytelse i 3DMark05: 
+
+Høyere poengsum er bedre. 
+
+På denne PCen har vi Intels siste integrerte grafikkløsning for bærbare, altså GMA X3100. 
+Det gir en kraftig økning i ytelse i forhold til tidligere generasjoner integrert grafikk fra Intel, men er fremdeles ikke akkurat noe førstevalg for deg som liker å spille. 
+Er du derimot ikke spesielt kravstor kan det godt være at ditt favorittspill vil fungere helt kurant med denne løsningen. 
+På Intels hjemmesider for dette brikkesettet kan du finne siste drivere og sjekke kompatibilitet med en rekke spill. 
+
+Batteri: 
+
+Batterilevetid i minutter - kontinuerlig drift. 
+
+Tatt i betraktning at batteriet kun har fire celler gjør det en grei jobb ved å holde i litt over to timer kontinuerlig drift. 
+
+Vi vet det er mange som er opptatt av støy, og på dette punktet faller også JFT00 gjennom. 
+En overivrig viftekontroller - selv når maskinen ikke jobber går vifta nesten kontinuerlig - pluss en litt hissig lydsignatur betyr at denne bærbare ikke blir din beste venn dersom du ikke liker å høre vifta suse. 
+
+Bryr du deg lite om slikt, eller bruker den uansett ikke i stille og rolige rom, betyr den overivrige vifta at maskinen ikke blir varm. 
+Aldri så galt at det ikke er godt for noe... 
+
+Vurdering og konklusjon 
+
+Multicom Compal JFT00 har mange positive egenskaper. 
+Byggekvaliteten er generelt god, selv om ikke "musetastene" under touchpaden står helt i stil. 
+Vi er også fornøyd med skjermen, og tastaturet er godt å skrive på (men her kan det bli forandringer til den norske versjonen). 
+PCen er også relativt godt utstyrt med webkamera, Blåtann og draft-N trådløst nett. 
+
+Batteriet holder ikke i evigheter, men du kan altså kjøpe større batteri om du ønsker. 
+Husk også at målingene går på kontinuerlig drift - og med et litt gjerrigere strømoppsett skal du derfor kunne få mer enn to timer ut av batteriet. 
+
+Som nevnt kan også maskinen konfigureres etter ønske slik at du kan prioritere pris og ytelse ettersom hva passer deg best. 
+Og når vi er inne på pris - konfigurert rett kan du få mye for pengene med denne maskinen. 
+
+Faktisk har vi bare ett hovedmoment å klage på på ved JFT00, og det er viftestøyen. 
+PCen mangler i våre øyne sårt en knapp for "silent mode", som nå heldigvis har begynt å bli mer vanlig. 
+Det kan hende viftekontrolleren bedres ved en fremtidig BIOS-oppdatering, men det er det umulig å si noe sikkert på. 
+
+Men bortsett fra dette er vi altså godt fornøyd med denne lille hvite - og den ender derfor også opp med en femmer på vår terning. 

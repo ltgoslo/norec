@@ -1,0 +1,58 @@
+OCZ Vertex 3.20
+Rimelig og rask, påstår produsenten. 
+Holder det helt inn? 
+
+En standard SSD består av to nøkkelkomponenter: kontrolleren og fastminnet. 
+I tillegg kommer SATA-grensesnitt, noen passive komponenter, printkort og kabinett. 
+
+Det som avgjør ytelsen er kontrolleren og fastminnet, og disse bestemmer også hvilket prisnivå man ender opp på. 
+Selve kabinettet og de andre standardkomponentene er stort sett felles for alle varianter, og gir ikke like store prisutslag. 
+
+Når OCZ dermed profilerer Vertex 3.20 som den serien som gir mest for pengene ("Best Bang for Your Buck"), så er det noe av ytelsen på kontrolleren og flashminnet som må ofres. 
+Men det behøver ikke bety at man sitter igjen med et svakt produkt. 
+Konkurransen er for sterkt til det. 
+
+Nøkkelkomponenter 
+
+Kontrolleren som sitter i Vertex 3.20 er den velkjente Sand Force SF2281, som vi finner i mange utmerkede SSD-er, blant annet fra Intel og PNY. 
+Dette er moden teknologi, med firmware som er fintrimmet gjennom lengre tid. 
+
+Mye av hastigheten oppnås ved å komprimere dataene før skriving, og som en bonus gir dette færre skriveoperasjoner per minnecelle enn ved å skrive hele datasettet. 
+Dermed øker levetiden til hele flashminnet, som har et begrenset antall skriveoperasjoner. 
+
+Når OCZ har føyet til .20 til Vertex 3-serien er ikke dette et tall tatt ut av løse lufta. 
+Denne serien har tatt i bruk nye flashminnebrikker produsert med 20 nanometer teknikk, og det er herfra tallet kommer. 
+
+Denne minnetypen er rimeligere, siden man får produsert flere brikker per silisiumskive. 
+Med mindre halvledermateriale blir også antall skriveoperasjoner færre, men dette skal ikke være noe reelt problem. 
+Intelligent fordeling av skriveoperasjoner og datakomprimeringen gjør at den teoretiske levetiden uansett er vesentlig lenger enn produktets praktiske levetid. 
+
+Vi snakker her om belastninger på 10 gigabyte hver eneste dag i over fem år framover, noe som ikke skjer i målgruppen for denne type SSD. 
+
+SSD-en leveres i enkel plastemballasje, det følger ikke med kabler, skruer, monteringsskinne eller annet i pakken. 
+
+Ytelse og pris 
+
+Ytelsen er som forventet ikke i toppklasse, men det betaler man heller ikke for. 
+Det er likevel ikke lang tid siden også disse resultatene var fantastiske. 
+Ting har skjedd fort i SSD-verdenen. 
+
+Sekvensiell skriving ligger noe under oppgitt ytelse, men er likevel hyggelig, med lesehastigheter på opptil 500 MByte/sekund og skrivehastigheter på mellom 300 og 500 MByte/sekund, varierende med måleverktøy og testplatform. 
+Vi har testet på en stasjonær PC med Intel Core i5 3570K og 8 GB 1600 MHz minne. 
+
+Ytelsen er i samme liga som, men litt under PNY XLR8 Pro og Intels 335 serie, det samme gjelder prisnivået. 
+1500-kronersgrensen er passert, og veien videre ned mot 1000-lappen for 240 GB SSD ligger åpen. 
+
+Konklusjon 
+
+Ytelsen er god og holder fint til de fleste bruksområder. 
+
+Men her gjelder det å passe på: 
+
+Prisene på SSD i dette området varierer ganske mye blant norske forhandlere, så det gjelder å sjekke grundig før man handler. 
+Prisvariasjonene da vi testet den var svært store - over 1300 kroner! 
+
+Men finner du denne til en gunstig pris er det et godt kjøp. 
+Vi gir den derfor en sterk 4'er. 
+
+OCZ Vertex 3 Series SATA III 2.5" 20nm SSD 240GB 

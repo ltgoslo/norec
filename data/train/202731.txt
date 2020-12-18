@@ -1,0 +1,69 @@
+Seagate Central 4 TB
+Rimelig nettverksdisk fra Seagate, med svær kapasitet. 
+
+Felles lagringsplass et sted i hjemmenettet er lurt. 
+Både bilder, dokumenter, mediefiler og annet som man deler internt i familien fungerer best når det ligger på en enhet som alltid er tilgjengelig. 
+
+NAS (Network-attached storage) eller nettverksdisk/nettverkslagring er både rimeligere og langt mer kompakt enn en felles PC. 
+Nye enheter er også svært enkle både å sette opp og bruke. 
+
+Dessuten kan kapasiteten på selve harddisken være så stor at svært mange klarer seg fint med en liten enhet med bare én eneste disk. 
+4 TB er ganske mye data, og du skal enten være profesjonell medieprodusent eller en ihuga fil-hamstrer for å ha behov for særlig mer enn dette med dagens strømmemuligheter. 
+
+Seagate Central 
+
+Seagate har ikke vært veldig frampå med nettverksdisker tidligere, bortsett fra de små bærbare trådløse diskene vi har testet tidligere. 
+
+Central er derimot en 3,5-tommers enhet i et kabinett som er litt større enn et typisk eksternt disk-kabinett med USB. 
+
+Men her er det altså nettverkstilkobling slik at alle kan dele innholdet på disken når den kobles til nettverket - for eksempel direkte i en av nettverkskontaktene i ruteren. 
+
+I tillegg til nettverkstilkoblingen (gigabit LAN) er det også en USB-kontakt for tilkobling til andre lagrinsenheter. 
+Innholdet på denne dukker opp med fri tilgang på nettverket. 
+
+Enkel oppstart 
+
+Å komme i gang med de helt grunnleggende funksjonene er så enkelt som det kan bli. 
+Du plugger i strømmen fra den eksterne strømforsyningen, setter inn nettverkskabelen fra ruteren din, og venter et par minutter. 
+NAS-en er svært støysvak. 
+
+Etter dette dukker enheten opp i oversikten over nettenheter på PC-en og du kan åpne den lokale websiden til enheten og gjøre innstillingene der. 
+
+Du kan opprette passordbeskyttede områder for brukere i tillegg til den åpne felles tilgangen som heter Public. 
+Der har alle full tilgang uten videre. 
+
+Ved oppstart registrerer du også enheten hos Seagates nettbaserte tjeneste, som gir deg tilgang til filene over internett, enten via nettleser eller med en app på en mobil enhet. 
+
+Seagate Central støtter også DLNA og iTunes for avspilling av felles medieinnhold på TV, mediespillere og andre enheter som støtter disse standardene. 
+
+Ytelse 
+
+I tillegg til å være grei å administrere er ytelsen svært viktig på en felles lagringsenhet. 
+Man forventer ikke at den skal være like rask som en intern disk, NAS brukes fortrinnsvis til å lagre ferdige data, som et arkiv. 
+Skal man jobbe med redigering av materialet kopierer man det gjerne over til sin egen maskin og lagrer det på NAS-en etterpå. 
+
+Vi målte derfor bare sekvensiell ytelse, som er relevant for mediefiler. 
+
+Vårt eget testprogram viste en ytelse på mellom 45 og 50 Megabyte/sekund med bufferstørrelser på 1024 Kbyte. 
+
+Atto viste opp til 111 Megabyte på lesing og opptil 56 Megabyte på skriving. 
+
+Opplevd responstid er meget god, den leverer både bilder og video raskt og effektivt, og normale dokumenter av ymse slag håndteres generelt helt utmerket. 
+
+Tilgang over nettet, både via webtjenesten og iOS appen var derimot ikke spesielt rask. 
+Vi testet opplasting over 4G (typisk over 20 Mbit/sek opp) og nedlasting med DinSides svært raske nettforbindelse (typisk flere hundre Mbit/sek). 
+Likevel var det rett og slett svært tregt å forsøke å bla i bilder fra Seagate Central. 
+
+Å laste ned en og annen fil kan man likevel leve med. 
+
+Konklusjon 
+
+Seagate Central er en svært brukervennlig og praktisk nettverksdisk. 
+Nærmere plug'n play har vi ikke vært borti når det gjelder denne type enheter. 
+Også fjerntilgang via internett var svært enkel å komme i gang med. 
+
+Ytelsen er absolutt akseptabel på lokalnettet, men nettjenesten var vi ikke like imponert over. 
+
+Prisen er uansett svært lav sammenlignet med andre NAS-løsninger, og alt i alt har vi ingen problemer med å sette vårt anbefalt-stempel på Seagate Central. 
+
+Seagate Central 4TB 

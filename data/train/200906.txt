@@ -1,0 +1,85 @@
+Zepto Znote 2125
+Denne PCen er den kjappeste bærbare vi har testet - på de fleste områder. 
+Men betegnelsen "flyttbar" passer langt bedre enn "bærbar", synes vi. 
+
+Den norske PC-leverandøren Zepto er ofte tidlig ute med modeller basert på ny teknologi, og var blant de aller første med en modell basert på Intel Centrino-plattformen, 64 bit AMD Athlon-prosessor og en PC med widescreen. 
+Znote 2125 er den første bærbare vi har på testet som er utstyrt med ATI Mobility Radeon 9600-brikken, og en harddisk som klarer 7.200 rotasjoner i minuttet. 
+
+LES OGSÅ: 
+
+Zepto har da også gitt modellen tilleggsnavnet "Ultimate Gaming", og det sier mye om målgruppen. 
+Maskinen er nemlig et beist - ikke bare med hensyn til spesifikasjoner, men også vekt og størrelse. 
+Den veier 4,1 kg, og måler 329 x 290 x 44 mm. 
+Her er øvrige harde fakta: 
+
+3 GHz Intel Pentium 4 prosessor, 800 MHz FSB 512 MB PC2700 DDR RAM ATI Mobility Radeon 9600 PRO, 8 x AGP 60 GB ATA100 harddisk, 7.200 rpm Kombinert DVD-leser/CD-brenner 6-in-1 kortleser (Compact Flash I/II, Microdrive, Smart Media, SD-card, MMC, MemoryStick) Infrarød port parallelport 1 x PS/2-port 56 Kbit modem Gigabit nettverk (10/100/1000 Mbit) P/PDIF-utgang (5.1 kanal) optisk Mic inngang (mono) samt utgang for øretelefoner (stereo) VGA og TV-utgang 
+
+Her er det flere ting som vekker oppsikt. 
+Først og fremst prosessoren, som støtter HyperThreading, som gir høyere ytelse i en rekke situasjoner. 
+Dernest den nevnte grafikkbrikken, som viste seg å parkere alle andre grafikkløsninger vi har testet tidligere, den raske harddisken, skjerm med ekstremt høy oppløsning, og til slutt - støtte for 1000 MBit nettverk der de fleste stopper på 100. 
+Her har produsenten Clevo med andre ord ikke spart på kruttet! 
+
+PCen kan leveres i en rekke konfigurasjoner, og vårt testeksemplar avviker fra grunnmodellen med raskere og større harddisk og mer minne. 
+Prisen for billigste konfigurasjon er i skrivende stund 16.690 kroner inkl mva, mens vår testmaskin tipper 20 lapper. 
+Merk at denne prisen ikke inkluderer operativsystem - det koster rundt tusenlappen dersom du skulle ønske dette preinstallert. 
+Fra Zepto får vi opplyst at PCen vil kunne bli levert med WLAN og Bluetooth, men at dette foreløpig ikke er klart. 
+
+Designmessig har den klart seg bedre enn mange andre "kolosser", ja vi er nesten tilbøyelige til å like designen. 
+Innpakningen er i grå og blågrå plast fra innerst til ytterst, men den maskinen virker alt annet enn puslete. 
+Lokket tåler for eksempel temmelig harde, konsentrerte trykk uten forstyrrelser - langt bedre enn gjennomsnittet blant plastløsningene! 
+
+Skjerm med høy oppløsning 
+
+Selve skjermen er verdt et eget avsnitt. 
+Den er bare middels lys- og kontraststerk, men har til gjengjeld svært høy oppløsning. 
+Det fører til at tekster og ikoner i Windows blir svært små, men til gjengjeld får du plass til svært mye informasjon på skjermen. 
+Velger du en lavere oppløsning vil bildet bli uskarpt, som det alltid blir på LCD-skjermer. 
+
+Mange vil garantert synes at lesbarheten blir for dårlig i 1600 x 1200, og vår mening er at 1400 x 1050 er langt mer fornuftig oppløsning på en 15" LCD. 
+Men vi ser ikke bort fra at en del spillere vil sette pris på den høye oppløsningen - for grafikkbrikken tåler den fint viste det seg. 
+
+Overraskende lite støy 
+
+Vifteløsningen er også interessant. 
+Da vi fikk se de tre vifteåpningene på undersiden under utpakning av PCen, var vi ganske sikre på at denne maskinen kom til å ha et støynivå som ville tåle sammenligning med en 25 år gammel jumbojet. 
+Vi tok feil. 
+Takket være at det er tre vifter istedet for én (innsug under, utblåsning på venstre side), støyer PCen langt mindre enn hva man skulle forvente. 
+Dette skyldes rett og slett at viftene kan kjøre på lavere omdreining når de jobber sammen. 
+Jovisst er det viftesus, men lyden er så dyp at vi ikke opplevde den generelt som ikke-sjenerende. 
+
+Vær for øvrig klar over at hvis du har PCen i fanget, og dermed dekker innsuget, kjøres hastigheten opp for å beholde lav temperatur i systemet. 
+Det samme skjer under tunge grafikk- og prosessorintensive oppgaver, uavhengig av plassering. 
+Dette er først og fremst en bord-PC! 
+
+Kompromissløs ytelse 
+
+Grafikkytelsen parkerte alt vi har sett tidligere. 
+I snitt viste det seg at Mobile 9600 PRO-brikken var rundt 30% raskere enn Mobile 9000-brikken som vi har testet ved en rekke anledninger det siste året. 
+Ytelsesforbedringene kommer først og fremst til sin rett i høyere oppløsninger enn 1024 x 768 punkter. 
+Vi kan forresten nevne at ytelsen blir nærmest halvert i 1600 x 1200 punkter i forhold til 1024 x 768 - men holder fortsatt til det meste av det som finnes på spillmarkedet i dag. 
+
+Harddisken viste seg også å være lynrask. 
+Mens en vanlig 4.200 rpm-disk i en bærbar PC skriver 5-6 MB pr sekund, klarte disken i vårt testeksemplar av Zepto Znote 2125 rundt 15. 
+Da begynner vi å snakke! 
+Men husk - dette er en langt raskere disk enn den som sitter i grunnmodellen. 
+
+På prosessortestene gikk det også meget bra, MP3-komprimeringen var for eksempel unnagjort på 1 minutt og 32 sekunder, som er en tangering av rekorden vår, satt av Fujitsu Siemens Amilo A7620. 
+
+Batterilevetiden viste seg å være bli PCens svakeste punkt - 1 time og 18 minutter er ikke akkurat imponerende. 
+Men vi tror ikke målgruppen vil rynke på nesen av den grunn. 
+
+Vi viser til Tekniske data-lenken i oppsummeringsboksen for detaljene omkring ytelse og fysiske egenskaper. 
+
+Konklusjon 
+
+20.000 kroner er mye penger, men dette er utvilsomt den heftigste maskinen vi har testet når det gjelder ytelse. 
+Er du først og fremst ute etter de kjappeste løsningene gjør du ikke noe dumt dersom valget faller på Zepto Znote 2125. 
+
+Vi ble positivt overrasket over at støynivået var såpass lavt - vi har opplevd langt mer bråkete maskiner med maskinvare som blir direkte puslete i forhold til denne! 
+Vi ble også overrasket over at kabinettet virker såpass robust, til tross for at alt er i plast. 
+
+Men PCen passer slett ikke alle. 
+Den er tung, det samme er strømforsyningen, og oppløsningen er så høy at den garantert vil skremme mange fra å kjøpe denne PCen. 
+Men har du skarpt blikk kommer du neppe nærmere den perfekte desktop-erstatteren akkurat nå! 
+
+Du finner oversikten over testede PCer i venstremargen 

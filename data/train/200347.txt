@@ -1,0 +1,63 @@
+TEST:Apple iMac 27" med i3-prosessor 
+
+Dette er en gedigen maskin, nå har innmaten blitt oppgradert. 
+
+27 tommers skjerm er stort, og med innmaten til en datamaskin bygget inn i tillegg blir det ganske digre saker. 
+Den ruver på skrivebordet - som vi skrev da vi testet forrige generasjon iMac: det føles omtrent som å sitte med en TV omtrent på fanget. 
+
+Etter det første sjokket åpenbarer den gedigne skjermflaten seg som en arena for hvor man kan boltre seg nesten grenseløst med det meste. 
+Med 2560 x 1440 punkter er det som fire gamle flatskjermer smeltet sammen til én. 
+
+Dette er syvende generasjon iMac og den femte generasjonen med all maskinvare plassert i samme ramme som LCD-skjermen, et design som hadde premiere i 2004 med den første G5-baserte iMac-en. 
+
+Maskinvare 
+
+Alle iMac-ene har nå fått de nyeste prosessorene i Core-serien fra Intel. 
+Standardutgaven har Core i3, men du kan også få maskinen med Core i5 eller Core i7 på 27-tommeren. 
+
+Grafikkløsningen er fra ATI og du kan velge mellom HD 4670, HD 5670 med 512 MB eller HD 5750 med 1 GB på den største modellen. 
+
+Skjermene har LED-bakgrunnsbelysning og blankt kontrastbelegg. 
+
+Du kan velge diskløsninger, minne og prosessorhastighet, og serien har da priser som begynner på 10 490 kroner og ender på 38 840 kroner for den dyreste fullspekkede modellen med den raskeste Core i7 prosessoren, 16 GB minne og både 256 GB SSD og 2 TB harddisk. 
+
+Med 8 GB minne, 256 GB SSD og 1 TB disk er prisen 26 750 kroner, dropper du SSD er du nede på 21 665 kroner. 
+
+Grunnmodellen av 27-tommeren med Core i5 ligger på 16 990 kroner, med Core i3 er du nede på 14 490 kroner - og det er denne modellen vi har testet. 
+
+Stor forbedring 
+
+Vi merket med det samme at maskinen var rask, og Geekbench-testen bekreftet dette. 
+Forrige modell vi testet, som ovså var den rimeligste grunnmodellen i dette formatet, presterte 4319 mens dagens utgave klarte 6010. 
+
+I praktisk bruk er maskinen er fantastisk surfemaskin, Safari på Mac med stor skjerm er rett og slett strålende. 
+
+Også iLife-programmene iPhoto og iMovie kjører veldig bra på denne maskinen, alt skjer lynraskt og uten rykk og napp i responsen. 
+
+Mange proffbrukere velger en stor iMac i stedet for en liten Mac Pro, eller som avlastningsmaskin til en stor Mac Pro. 
+Hvis man ikke trenger tilleggsutstyr som krever ekstra maskinvare kommer man nå svært langt med iMac. 
+
+Selv denne minste blant de største iMac-ene presterer bedre enn en MacBook Pro med den portable versjonen Core i7, som også mange proffer velger til kombinert portabel og hovedmaskin. 
+
+Tilbehør og tilkoblinger 
+
+Maskinen ble levert med Apples lille Bluetooth-tastatur, Magic Mouse og den nye Magic Trackpad pekeplaten. 
+Dette er en utmerket kombinasjon, og trenger du talltaster finnes det også et komplett tastatur i samme design, men da med kabel. 
+
+Du kan lese test av den nye pekeplaten her. 
+
+Tilkoblingene er de samme som på forrige modell vi testet: Lyd inn og ut, 4 USB-porter, FireWire 800, Mini DisplayPort og Gigabit nettverk. 
+
+På siden av skjermen sitter det fremdeles DVD-brenner og spalte for SD-kort. 
+Blu-ray finnes ikke i Apples verden. 
+Litt synd, Blu-ray film hadde sett fantastisk ut på denne maskinen. 
+
+Konklusjon 
+
+Her har det bare skjedd noe i maskinens indre, alt annet er som før. 
+Prisen er jekket opp et par tusen sammenlignet med tilsvarende modell lavest på prisstigen med forrige prosessorgenerasjon. 
+Dessuten har grafikken også fått mer maskinvare å rutte med. 
+Men forbedringen i ytelse rettferdiggjør dette mener vi. 
+
+Hadde maskinen også hatt mulighet for tilleggskort og Blu-ray hadde den fått en klar sekser. 
+Nå gir vi den en sterk femmer. 

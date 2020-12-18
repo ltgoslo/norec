@@ -1,0 +1,119 @@
+Endelig kom den med støtte for 4K og HDR
+En av de klart beste smart-TV-løsningene på markedet har kommet i ny utgave. 
+Bør du løpe og kjøpe? 
+
+Apple TV er en liten boks som du kobler til TV-en din, og som gir alle TV-er smartfunksjonalitet. 
+Det betyr for eksempel at du kan laste ned TV-vennlige apper på den, vise bilder og strømme musikk fra mobiltelefonen, få tilgang til haugevis av strømmetjenester på internett, spille spill og mye mer. 
+
+Bedre enn smart-TV-en din 
+
+Ja, men jeg har jo allerede denne funksjonaliteten i TV-en, vil du kanskje si. 
+Og du har rett. 
+Men etter å ha testet mange TV-er med Android TV, Tizen, Firefox OS og Web OS, som er de dominerende smart-TV-plattformene i dag, er vi ikke i tvil: 
+
+Apple TV (fjerde og femte generasjon) er generelt bedre, både når det gjelder utvalget av relevante apper, kvaliteten på dem, hastigheten og brukervennligheten. 
+
+Den har imidlertid hatt et par mangler som garantert har skremt mange fra å kjøpe den: 
+Støtte for UHD (4K)-innhold og HDR-materiale (Dolby Vision og HDR10). 
+Både UHD og HDR støttes av majoriteten av nye TV-er. 
+
+Nå er imidlertid femte generasjon kommet i butikkene, og omsider er også disse egenskapene på plass - i hvert fall delvis. 
+YouTube støttes fortsatt ikke i 4K, og har du tregere internettlinje enn 25 Mbps, lar ikke(!) iTunes deg kjøpe filmer i 4K-oppløsning, kun strømme. 
+Les mer om dette her. 
+
+Lite nytt på utsiden, men ny Apple Remote 
+
+Selve boksen ser ganske så lik ut som forrige gang, den måler 10 x 10 x 3,5 cm og veier 425 gram, og kommer fortsatt i utgaver på 32 og 64 GB til lagring av apper, spill og filmer fra iTunes Store. 
+
+På baksiden sitter strøminntak, HDMI-utgang og Gigabit ethernet-kontakt (forgjengeren hadde kun 100Mbps). 
+
+Bruk sistnevnte hvis du har problemer med trådløst nett i huset ditt. 
+Da sørger du for den beste og mest stabile signalstrømmen ved avspilling av høyoppløst materiale. 
+
+Borte er USB-C-porten, som uansett kun ble brukt til service på boksen. 
+Utover det, er den eneste åpenbare forskjellen vi har funnet, på undersiden, der femte generasjon har fått noen åpninger - sannsynligvis for å gi bedre kjøling. 
+
+OPPDATERT: 
+Det skal være en vifte på innsiden, men denne er så stillegående at vi ikke oppdaget den under testingen. 
+
+Ja - og så må vi jo legge til at fjernkontrollen (Apple Remote) er ny. 
+Det største problemet med forgjengeren var at den var omtrent identisk i begge ender, noe som gjorde at vi ofte holdt den feil vei. 
+Nå har Apple laget en hvit ring rundt Meny-knappen, som samtidig er hevet over de andre knappene - og dermed merker fingrene dine umiddelbart om du holder den rett vei. 
+
+Styrer TV-en din også 
+
+Det er stor sannsynlighet for at fjernkontrollen også kan styre de basale funksjonene du trenger på TV-en din, av/på og lydjustering. 
+Du vekker Apple TV ved å trykke på en av knappene på fjernkontrollen, og da vil TV-en skru seg på samtidig. 
+
+Du behøver ikke konfigurere noe som helst for å få dette til å fungere, Apple TV får nødvendig informasjon om TV-en din gjennom HDMI-kabelen. 
+
+Enklere installasjon 
+
+Installasjonen av en ny Apple TV er veiviserbasert og temmelig rett fram. 
+Nytt er at du kan kopiere informasjon om tilkobling til det trådløse nettet fra en av de andre i-dingsene dine. 
+Du kan også kopiere hjemskjermen din og appene fra iCloud, dersom du har flere Apple TV-bokser. 
+Det gjør konfigurasjonen litt enklere. 
+
+Apple bruker imidlertid fortsatt den lange stripen med alfabetet når du skal taste inn brukernavn og passord, søk og lignende, og det er litt tungvint med fjernkontrollen. 
+
+Snakk til den! 
+
+Alternativt kan du holde inne mikrofon-knappen på fjernkontrollen og stave ord og passord bokstav for bokstav muntlig - eventuelt kan du taste det inn på iPhonen din. 
+Det gjør det enklere, men Apple burde ha gjort noe med inntastingen med fjernkontrollen, mener vi. 
+
+Den Siri-baserte fjernkontrollen funker for øvrig veldig bra. 
+Du kan be henne om å starte apper, finne spesielle TV-serier og en rekke andre små og større instrukser. 
+Og som du ser i videoen under skjønner hun fint bergensdialekt: 
+
+Veldig bra app-utvalg 
+
+Før vi går på kvalitetsvurderinger opp mot forgjengeren, har vi lyst å si litt om app-utvalget. 
+Alle de store kanaltilbyderne i Norge har, eller kommer til å ha, komplette kanalpakker på Apple TV. 
+
+Det betyr at du i praksis ikke behøver å bruke boksen fra kanaltilbyderen, men kan i stedet strømme kanalene via internett. 
+
+Vi har i mange år hevdet at dette er fremtiden - og vi har tro på at om få år kan vi velge fritt mellom kanaltilbyderne - uavhengig av hvem som har lagt kabelen inn til huset ditt. 
+Først da har vi fri konkurranse, noe som på sikt vil gavne oss forbrukere. 
+
+Disse kanalpakkene er i liten grad tilgjengelig som strømme-apper direkte på TV-ene, så her har Apple TV allerede opparbeidet seg et stort forsprang. 
+
+Har du ikke lyst å binde deg til en kanaltilbyder, kan du installere NRK-appen og se alle NRK-kanalene gratis - og boltre deg med et rikholdig arkiv fra statskringkasterens snart 60 år lange TV-historie. 
+
+I tillegg har du TV2 Sumo, DPlay (Discovery-kanalene) som du må betale en abonnementspris på - samt en rekke utenlandske å velge mellom. 
+
+Strålende bilde, med bittelitt smårusk 
+
+Og så var det kvaliteten da. 
+Etter å ha satt opp boksen og lastet ned appene vi bruker, startet vi NRK-appen og la umiddelbart merke til at bildet hakket ved panorering. 
+Det viste seg at Apple TV var satt opp med 60Hz oppfriskningsrate av bildet, noe som er tilpasset amerikanske forhold. 
+Fra videoinnstillingen kunne vi i stedet velge 50Hz, og da forsvant hakkingen. 
+
+Vi startet deretter Netflix-appen og lette oss fram til Narcos, Ozark og flere andre serier som er skutt i 4K. 
+Bufringen av innholdet før strømmingen startet, viste seg å være overraskende langdryg (kanskje 10-15 sekunder), spesielt med tanke på at vi har en rask 160 Mbps-linje inn i boligen. 
+
+Når avspillingen først startet, gikk det greit. 
+Også etter spoling, gjenopptok avspillingen mye raskere enn ved første innlasting. 
+
+Nye Apple TV har også blitt bedre på spill, blant annet takket være en ny og raskere prosessor, kombinert med Apple Remote, som har en rekke innebygde sensorer for bevegelse og retning. 
+Vi har ikke fått testet så mye av de nye egenskapene ennå, men det vi har sett virker lovende. 
+
+Først og fremst for deg med stor TV 
+
+Det begynner å bli et bra utvalg av filmer og serier i 4K/HDR på Netflix og en del andre strømmetjenester, og har du en stor TV (50 tommer eller mer) er det en god sjanse for at du vil se forskjell fra innhold i full HD. 
+TV-en vi testet på er en 70-tommer fra LG med både 4K-oppløsning og HDR-støtte. 
+Bildet blir som ventet meget skarpt, og kontrastene på HDR-innholdet er bokstavelig talt blendende. 
+
+Vi har likevel et par innvendinger: 
+Panoreringer forløper litt mer glidende på full HD-materiale, og vi har opplevd flere ganger at tekstingen har forsvunnet under strømming av 4K-videoer fra Netflix. 
+
+Vi antar at dette er ting som kan rettes i fremtidige oppdateringer av apper og eventuell firmware på Apple TV - boksen er tross alt så vidt kommet på markedet. 
+
+Konklusjon 
+
+Apple TV 4K har blitt bedre enn forgjengeren, og har du en stor TV og er misfornøyd med smart-TV-funksjonaliteten, er dette et meget godt alternativ du bør vurdere. 
+
+Vi synes bufringen av en del 4K-materiale er i overkant langdryg og setter et bittelite spørsmålstegn ved hvorfor vi til tider opplever litt hakkende bevegelser på 4K-materiale fra Netflix. 
+Utover det er det bare å gi to tomler opp for Apple TV 4K. 
+
+Få også med deg testene av 4K-konkurrentene Asus Nexus Player og Nvidia Shield TV. 
+Har du Android-mobil, anbefaler vi deg også å lese testen av Chromecast ultra. 

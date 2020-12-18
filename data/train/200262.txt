@@ -1,0 +1,81 @@
+Multicom Elitegroup 330
+En bredskjerms bærbar med innebygd TV-tuner til en svært så folkelig pris - det får du i denne Celeron M-baserte maskinen. 
+Men det er ikke bare idyll 
+
+Multicom-maskinen Elitegroup 600 som vi testet tidligere i høst var en kraftpakke som skulle kunne tilfredsstille både spillere, surfere og sofaslitere. 
+Prisen for herligheten var deretter, den havnet i 15 000 kroners klassen. 
+
+LES OGSÅ: 
+
+Dagens modell henvender seg til de som ikke har det samme kravet til grafisk ytelse og prosessorkraft, men flere av godbitene er fremdeles på plass. 
+
+Bredskjermen på 15,4 tommer er på plass, og den har ikke kontrastbelegg, heldigvis, vil mange si, men oppløsningen er den samme. 
+
+TV-tuner er innebygd her også, og fjernkontroll følger med. 
+
+Men prosessorkraft og grafikkytelse er ikke på samme nivå, her brukes en Celeron M og integrert grafikk fra SiS, med opptil 64 MB delt minne. 
+Tunge spill er altså bare å glemme. 
+
+Spesifikasjoner 
+
+Intel Celeron M 380 1600 15,4-tommers skjerm 1280 x 800 512 MB DDR333-minne 60 GB harddisk (5400 rpm) 
+SiS 661GX 
+Real256E grafikk opptil 64MB delt minne 54 mbps (b/g) trådløst nettverk 4x USB, lyd inn/ut 10/100 Mbit LAN, modem TV-kort Vekt: 2,85 kilo Dimensjoner (B/D/H): 355 x 273 x 40 mm Pris m. fjernkontroll: 7 195,- kroner inkl. mva 
+
+Se flere spesifikasjoner her 
+
+Dette er altså en maskin spesifisert med en moderat ytelse, men tilstrekkelig for de bruksområdene den er påtenkt. 
+Den er klar for hjemmekontor og surfing, enkel bildebehandling og musikkbruk pluss TV-titting, opptak og redigering av videoopptak. 
+
+Ekstra finesser som Bluetooth og FireWire er fraværende, det er heller ikke noen kortplass for PCMCIA/Cardbus tilleggskort. 
+Du må nøye deg med de 4 USB-portene og IR-porten for komunikasjon og tilleggsutstyr. 
+
+På baksiden er det VGA-tilkobling for ekstern skjerm og S-Video, lydtilkoblinger, nettverk, modem og antenne/kabelkontakt til den innebygde TV-tuneren. 
+
+Konstruksjon 
+
+Maskinen har et rent design uten unødvendig krimskrams og virker lett i forhold til størrelsen. 
+Den virker svært stabil i konstruksjonen, det er omtrent ingen fleks i selve hovedenheten. 
+Lokket er derimot ganske tynt, og presser du på baksiden forplanter trykket seg fort til skjermen som blir psykedelisk. 
+
+Hengslingen er fast og fin uten knirking og virker robust. 
+I motsetning til storebroren har maskinen den vanlige pinne-bryteren som slår av skjermen når du lukker den. 
+Derfor går den ikke i dvale om du nesten lukker skjermen for å skjule skjermen eller få bedre utsyn ut over skrivebordet. 
+
+Selve skjermen byr på det man kan vente fra rimelige LCD-skjermer. 
+Den er rimelig rask i responsen slik at DVD og TV ikke er noe problem. 
+Derimot er betraktningsvinkelen beskjeden, og du må se temmelig rett på vertikalt for å unngå vesentlige fargeforandringer. 
+Fra siden er betraktningsvinkelen mye større. 
+
+Tastaturet er helt ok å skrive på, tastene er definerte og passe støysvake. 
+Plasseringen av tegn, kommando og navigasjonstaster er ikke etter vår favorittlayout, men dette er en smaks- og vanesak. 
+
+Styreflaten er grei og bredformatet passer til skjermen, men plasseringen av knappene på sidene i stedet for på under- eller oversiden er uvant. 
+Man må øve inn en annerledes håndstilling for klilkk-og-dra, når pekefingeren holder knappen nede og langfingeren beveger seg på platen. 
+Alternativt kan man bruke begge hender... 
+
+Hurtigtastene ved sidan av strømbryteren slår på det trådløse nettverket og starter epostleser og nettleser. 
+
+Grei ytelse 
+
+Ytelsen er ikke i racerklassen, men det er heller ikke å forvente i denne prisklassen hvor Celeron M står for leveransen. 
+Men det er godt nok til bruksområdet for denne maskinkonfigurasjonen. 
+
+3D-ytelsen er ikke noe å skrive hjem om, som vi var inne på innledningsvis. 
+Å teste spill på denne maskinen er meningsløst, det vil den aldri kunne kjøre med noe som ligner akseptabel ytelse likevel. 
+
+Støy og batterilevetid 
+
+Maskinen er ikke av de mest støysvake bærbare vi har vært borti. 
+Viftene kjører rett som det er også uten belastning i form av tunge programmer. 
+Den til tider litt plagsom, siden karakteren på støyen ikke er er "ren" men har et tydelig innslag av høyfrekvente toner. 
+
+Batterilevetiden målte vi til 93 minutter, som er greit, men ikke imponerende på en maskin som har kjernekomponenter med moderat ytelse. 
+
+Konklusjon 
+
+Maskinen er ganske rimelig, har bredskjerm og TV-kort. 
+Dermed er det en glimrende maskin på barneværelset eller til hjemmekontor. 
+Som studentPC er den også utmerket, TV-oppsettet fungerte utmerket. 
+
+Prisen er uten operativsystem 

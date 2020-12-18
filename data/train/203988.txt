@@ -1,0 +1,113 @@
+Meget godt alternativ til Microsoft Surface Pro
+Få med deg denne testen før du eventuelt går for konkurrenten fra Microsoft. 
+
+HP Spectre X2 er en mellomting mellom nettbrett og PC, og har mange likhetstrekk med Microsoft Surface Pro. 
+Begge har innebygd og fleksibel støtte på baksiden, kan kobles til tastatur som også fungerer som deksel, og kan brukes med penn. 
+
+Målgruppen? 
+Tja - alle som ønsker noe som er lettere og mer kompakt enn en PC, men samtidig ønsker full PC-funksjonalitet med god ytelse. 
+Ønsker du å tegne og ta notater rett på skjermen, er disse hybridene også noe å titte nærmere på. 
+
+Kun én utgave foreløpig 
+
+Mens Surface Pro kommer i flere forskjellige konfigurasjoner, billigste får du for under 10.000 kroner, foreligger Spectre X2 foreløpig kun i én utgave i Norge. 
+Ifølge Prisjakt fås den i skrivende stund fra 15.990 kroner i rimeligste nettbutikk. 
+Da inkluderer den både tastatur og penn, samt en romslig SSD på 512 GB. 
+
+Det er 2.000 kroner mer enn hva du må betale for den Surface Pro-utgaven som ligger nærmest, men den kommer med halvparten så stor SSD og uten tastatur og penn. 
+Med tastatur og penn har du allerede gått 600 kroner over HP-en i pris. 
+
+I tabellen under har vi sammenlignet disse to variantene mot hverandre. 
+
+Som du ser av tabellen, tyder alt på at du får litt mer for pengene om du velger HP Spectre X2, i hvert fall hvis du ønsker penn og tastaturdeksel. 
+Det vil vi sterkt anbefale til denne typen produkt. 
+
+Legg også merke til at HP-en kommer med USB-C-porter, som er en mer fremtidsrettet løsning enn Surface-en, som bare har en standard USB-A-port. 
+Surface-en er imidlertid enklere å koble til ekstern skjerm, takket være miniDisplayport-utgangen. 
+
+Integrert støtte 
+
+Men la oss først ta det eksteriørmessige. 
+Både Spectre X2 og Surface Pro oppleves som solid bygget, med bakplate i metall og skjerm med herdet glass. 
+Begge har trinnløse støtter i bakkant, men vi synes løsningen på HP-en er hakket mer elegant. 
+Begge trives uansett best på et slett bord og ikke i fanget, der slike løsninger med støtte til skjermen fungerer dårlig. 
+
+Begge de to USB-C-portene på Spectre X2 kan brukes til å lade enheten. 
+Det følger med en overgang til vanlig USB-port (USB-A), nyttig når du skal koble til minnepinner, kortlesere og lignende. 
+
+Skal du koble maskinen til en skjerm, trenger du en i de fleste tilfellene overgang fra USB-C til HDMI eller VGA, noe som er ekstrautstyr. 
+
+Godt tastatur 
+
+Tastaturet hektes enkelt på takket være magnetfestet, akkurat som på Surface Pro og Apples iPad Pro. 
+
+Når det er tilkoblet, kan du bestemme om tastaturet skal ligge flatt, eller heves litt i bakkant. 
+Den fleksibiliteten liker vi. 
+
+Tastaturet er også av bra kvalitet, med responsive taster fordelt utover en så stor flate at det absolutt ikke er noe problem å bruke touch-metoden på det. 
+Tastene er til og med baklyste, noe vi absolutt setter pris på. 
+Dette er så nært et standard PC-tastatur som det kan få blitt, det eneste vi kunne tenke oss var en litt høyere enter-tast, men forstår at den er smal av plasshensyn. 
+
+Den brede pekeplaten under tastaturet fungerer helt utmerket for deg som synes det er greit å slippe å berøre skjermen når du jobber i PC-modus. 
+
+Til høyre har platen en strikkhylse der du kan sette pennen når du ikke bruker den. 
+Totalt kommer vekten da opp i 1166 gram - fortsatt lett, men det finnes PC-er som er en god del lettere. 
+
+Gøy å tegne 
+
+Den medfølgende pennen fungerer godt til notater og tegning, særlig etter litt tilvenning. 
+Det er ikke til å stikke under stol at det fortsatt er litt forsinkelse fra du drar streken til den tegnes opp på skjermen, på nær sagt alle slike produkter - HP er intet unntak. 
+Men med litt øvelse går det greit. 
+
+Skjermen er svært skarp og IPS-panelet sørger for godt innsyn fra sidene. 
+Lysstyrken er ifølge Laptopmag.com rundt 365 nits, noe som er regnes som meget bra. 
+Lysstyrken på Surface Pro er ifølge samme kilde noe høyere (396 nits). 
+
+To kameraer 
+
+Med unntak av de nyeste iPad-ene, er det få nettbrett som har noe særlig kamera å slå i bordet med. 
+Kameraene på HP Spectre X2 er derimot ikke så aller verst, selv om du får telefoner til et par tusenlapper til å ta bedre. 
+Brettet er også temmelig kjappe til å ta bilder. 
+Se eksempler under. 
+
+Slik yter den 
+
+Prosessoren i Spectre X2 ligger i mellomsegmentet, og yter en god del mer enn den svært populære i5-7200U som sitter i svært mange bærbare PC-er i samme segment. 
+
+i5-prosesssoren i Surface Pro er en i5-7300U, og den er klokket noe høyere. 
+Vi har ikke testet i5-versjonen av Surface Pro, så vi kan ikke uttale oss direkte om hvor stor forskjellen i ytelse det er snakk om i praksis, men gjennomsnittstallet fra Passmarks målinger av enheter som er utstyrt med denne prosessoren, kan tyde på at snittytelsen ligger litt bak. 
+
+Hvorfor? 
+Dette blir spekulasjoner, men en årsak kan være at prosessoren i Surface Pro kjøles uten vifte, og senker muligens hastigheten noe tidligere ved belastning for å holde varmeproduksjonen nede. 
+Spectre X2 er på den annen side viftekjølt, noe som gjør det enklere å holde temperaturen lav, og dermed også ytelsen høy. 
+At viften er godt hørbar når det kjøres litt tyngre oppgaver, kan samtidig være et ankepunkt for noen. 
+Ønsker du deg noe helt lydløst, skal du altså ikke velge Spectre X2. 
+
+Her må vi samtidig understreke at tallene fra Passmark også inkluderer resultater fra andre enheter enn Surface Pro. 
+
+Uansett: 
+Både Core i5-7260U og i5-7300U er populære mellomsjikt-prosessorer som fungerer helt utmerket til de fleste vanlige PC-oppgaver, inkludert Office, internettaktiviteter, musikk og video. 
+Også kjøring av flere programmer samtidig og veksling mellom dem, går strålende - så lenge du holder det innenfor rimelighetens grenser. 
+
+Den integrerte Intel Iris-grafikken i HP-en er samtidig rundt 50 prosent raskere enn i Surface Pro-en. 
+Det kan naturligvis merkes når du spiller enkelte mer krevende spill, men dette er uansett i nedre halvdel hva gjelder grafikkytelse, og intet førstevalg for gamere. 
+Det viktigste: 
+Begge grafikkbrikkene ekspederer alt av 2D-oppgaver og video i alle aktuelle oppløsninger, inkludert 4K-materiale. 
+
+Verdt å merke seg er også at SSD-en er vesentlig raskere på HP-en enn på Surface Pro. 
+Det kan nok merkes hvis du arbeider med svært store filer og utstrakt filbehandling med flytting av datamengder, blant annet. 
+
+Batteritiden er alltid spennende på denne typen produkter. 
+Vi aktiverte strømsparing og satte lysstyrken på skjermen til 50 prosent. 
+Deretter strømmet vi video fra YouTube kontinuerlig til batteriet var tomt. 
+Som du ser av tabellen over ble det rått parti til Microsoft Surface Pro her: 536 mot 375 minutter. 
+
+Konklusjon 
+
+Hp har med sin Spectre X2 bevist at de har laget en konkurrent til Surface Pro som absolutt bør bli tatt med i vurderingen, dersom du er ute etter en kombinert nettbrett/PC-løsning. 
+
+Den er litt rimeligere, og det eneste punktet den egentlig henger etter Surface Pro på, er på batteritid. 
+På andre områder er Spectre X2 foran, ikke minst på verdi for pengene. 
+Vi ender derfor til slutt på terningkast 5 også for HP Spectre X2, men sjekk plussene og minusene i boksen under. 
+
+Få også med deg testene av iPad Pro og hybridene Microsoft Surface Book og Porsche Design Book One før du bestemmer deg. 

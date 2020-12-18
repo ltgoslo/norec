@@ -1,0 +1,50 @@
+PhoneLocator Pro sikrer mobilen mot tyveri
+Android-applikasjon lar deg låse, spore og fjernslette telefonen. 
+
+Det er slett ingen drømmesituasjon, men skulle du miste eller bli frastjålet telefonen din, er det brått mye personlig data som kommer på avveie. 
+
+På Android finnes det flere sikkerhetsløsninger som kan hjelpe deg i en slik situasjon, men mens mange av dem er abonnementsbaserte, er PhoneLocator Pro en applikasjon du kun betaler for én gang, og når prisen bare er snaue 16 kroner, er dette en billig sikkerhetsløsning i våre øyne. 
+
+Dette får du 
+
+Appen har også godt med funksjonalitet, både om du har glemt igjen telefonen eller fått den frastjålet. 
+Her er noen høydepunkter: 
+
+Få den til å ringe høyt 
+- Dersom du ikke finner telefonen, kan du sende en melding til ditt eget nummer (fra en annen telefon) for å få den til å ringe på fullt volum, selv om den skulle stå på lydløs. 
+Du kan dessuten tvinge mobiltelefonen til ikke å stoppe ringingen selv om noen trykker på volumknappene på siden. 
+
+Motta samtaleinformasjon 
+- Har du glemt telefonen hjemme, kan telefonen sende deg epost (eller SMS til et annet nummer) med tapte anrop slik at du kan ringe dem opp igjen. 
+I tillegg får du beskjed om hvilke telefonnumre telefonen har ringt til og hvor telefonen befant seg akkurat da (kjekt hvis den nettopp har blitt stjålet). 
+
+Få beskjed dersom SIM-kortet byttes ut 
+- Denne kan være ekstra kjekk dersom telefonen din blir stjålet. 
+Uten å være veldig kjent med det miljøet, regner vi med at mange tyver vil sette sitt eget SIM-kort inn i telefonen, og da vil du få detaljene om det nye SIM-kortet, inkludert telefonnummer og andre identifikasjonsnumre. 
+Du får også en kartlenke som viser hvor telefonen befinner seg. 
+
+*Lås telefonen 
+- Du kan også sette opp PhoneLocator Pro slik at telefonen låser seg dersom SIM-kortet byttes, eller dersom du sender den et spesielt kodeord på SMS. 
+
+*Slett innholdet 
+- Begynner håpet om å få tilbake telefonen å ebbe ut, kan du sende et kodeord for å slette alt innholdet på telefonen. 
+
+Applikasjonsoppsettet er selvsagt beskyttet av et passord, og dette passordet er også påkrevd for å avinstallere PhoneLocator Pro*. 
+
+Punkter merket med * krever Android v2.2 eller høyere for å kunne fungere. 
+Du kan finne ut hvilken Android-versjon du kjører ved å gå til innstillinger=>om telefonen og se hva som står under Android-versjon. 
+
+I bruk 
+
+Første gang du laster ned og installerer programmet, kan du velge om du vil bruke det kjappe oppsettet (der nøkkelord for ulike funksjoner er standardverdiene fra programmet), eller om du vil gå igjennom hele oppsettet selv i en veiviser-modus. 
+I sistnevnte tilfelle kan du sette passord for applikasjonen, angi nøkkelord som skal utløse posisjonsrapport, for låsing av telefonen, sletting av data etc. 
+
+Du setter også opp hvilken epostadresse som skal sende deg eposter (kan bare være en Gmail-adresse), så her er det nok ikke dumt å sette opp en sekundær Gmail-konto. 
+
+Når alt er satt opp, ligger applikasjonen bare og snurrer i bakgrunnen. 
+Vi har testet flere av funksjonene (vi droppet å fjerne alt innholdet; det får være måte på hvor langt vi skal strekke oss), og alt ser ut til å fungere som lovet. 
+
+Alt i alt, altså – en forholdsvis betryggende sikkerhetsløsning å ha installert, og når prisen er en engangssum på snaue 16 kroner synes vi denne appen er et godt kjøp. 
+
+Lenke: 
+PhoneLocator Pro (Android Market, kr 16,-) 

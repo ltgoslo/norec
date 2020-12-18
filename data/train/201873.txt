@@ -1,0 +1,118 @@
+Sony Bloggie MHS-PM5
+TEST: 
+Full HD-videokamera i brystlomma. 
+
+De siste par årene har det vokst frem en ny gruppe videokameraer - kameraene som er såpass kompakte at de går nedi lomma, men der video er primærfunksjonen, i motsetning til lommekameraene som hovedsaklig tar stilbilder, men som ofte også kan filme. 
+
+Dagens testmodell er fra Sony og heter Bloggie MHS-PM5. 
+Videokameraet er på størrelse med en telefon, kan filme med 1080p-oppløsning og har roterbart objektiv (270 grader) slik at du også kan filme deg selv mens du ser deg selv på skjermen. 
+
+Her er spesifikasjonene: 
+
+Oppløsninger: 1280x720 (720p, 30/60 bilder pr sekund), 1920x1080 (1080p, 30 bilder pr sekund), 640x480 (VGA, 30 bilder pr sekund)Innholdsfortegnelse:KonstruksjonI brukMedfølgende programvareBildekvalitetKonklusjonLCD-skjerm: 2,4" (4:3-format), 230.000 punkterOptisk zoom: (ikke tilgjengelig)Brennvidde (35mm-ekvivalent): 
+47mmLysstyrke: f/3,5Sensorstørrelse: 1/2,5"Stillbildeoppløsning: 
+5MpLyd: 
+MonoMinnekort: 
+Memory Stick Pro Duo / SDHCFysiske mål: 
+108x54x19mmVekt: 
+130g (med batteri)Tilgjengelige farger: 
+Lilla, rosa, turkis, hvittPris: ca 1500,- 
+
+Konstruksjon 
+
+Det lille videokameraet fra Sony er myntet på "bloggegenerasjonen" og er et kamera som først og fremst er beregnet for YouTube og lignende tjenester. 
+Her finner du ingen avanserte funksjoner - fokusen er låst, det går ikke an å zoome optisk, og du forholder deg stort sett til én knapp; start og stopp filming. 
+
+Kameraet aktiveres ved å vippe opp objektivet (eller holde inne on/off-knappen på siden), og på høyre side av skjermen bak, starter du opptaket ved å trykke på innspillingsknappen. 
+Objektivet kan dreies 270 grader, slik at du enten kan filme det som er foran deg, deg selv eller rett opp fra kamerahuset, som gjør at du lett kan filme barn og dermed holde skjermen parallellt med bakken. 
+Rett over sitter knappen for å ta stillbilder, men merk at du ikke kan ta stillbilder mens du allerede filmer. 
+
+Under skjermen sitter det en menyknapp, en avspillingsknapp, samt en liten joystick for å styre avspillingen og velge i menyene. 
+Ved avspilling holdes kameraet sidelengs slik at skjermbredden utnyttes (nederste del av skjermen viser gjenstående tid og annen informasjon under selve bildet når du bruker kameraet i opptaksmodus). 
+
+På venstre side finnes det et stort lokk som skjuler både batteriet og minnekortplassen. 
+
+Dette er en kombinert SDHC/Memory Stick Pro Duo-port der du kan bruke begge type kort. 
+På motsatt side ligger videoutgangen skjult bak et lokk (ikke HDMI), og åpner du dette lokket kan du også skyve ut USB-pluggen slik at kameraet kan stikkes direkte inn i PC-en. 
+Bloggie MHS-PM5 kommer med programvare preinstallert på selve videokameraet, som vi skal se på lenger ned i artikkelen. 
+
+Angående optikken er den som nevnt låst, med en brennvidde tilsvarende 47mm. 
+Dette gjør at kameraet er ganske uegnet til innendørsbruk, der utsnittet blir veldig trangt. 
+Lysstyrken er heller ikke så god med f/3,5. 
+
+I bruk 
+
+Som nevnt er dette et kamera som skal være enkelt, og den avanserte bruker vil derfor ikke finne noe som helst av avansert funksjonalitet her. 
+
+I hovedmenyen er det kun et fåtall valg - du kan velge oppløsning på stillbilder og film, aktivere og deaktivere ansiktsgjenkjenning, samt foreta helt enkle endringer som hvor sterkt baklyset skal være på LCD-skjermen, om video ut skal være PAL eller NTSC og aktivere "flicker reduction" som skal redusere flimring i rom belyst av lysstoffrør. 
+Under testingen prøvde vi så godt vi kunne å fremprovosere en forskjell med denne slått av og på, men uten hell. 
+
+Oppstartstiden målte vi til ganske nøyaktig 4 sekunder, som vi synes er i overkant tregt dersom du har dårlig tid. 
+Det finnes heller ingen "quick start"-funksjon for å redusere denne tiden. 
+
+Zoombryteren (kun digital zoom, som sagt) kan kun brukes dersom du velger 720p eller lavere oppløsning, og den bruker hele 6 sekunder for å zoome inn 4x digitalt. 
+Med andre ord oppleves kameraet som noe tregt. 
+I tillegg går ikke dette flytende, men hakker tidvis, noe som skjemmer opptaket. 
+
+Ellers lades kameraet direkte via USB-porten; enten ved å plugge kameraet direkte i en USB-port, eller via USB-forlengerkabelen som også følger med i esken. 
+
+Medfølgende programvare 
+
+Programvaren som følger med kan du enten kjøre fra CD-ROM eller direkte fra kameraet når du plugger det inn i maskinen. 
+Programvaren er for øvrig både Windows og Mac-kompatibel (CD-plata er imidlertid kun for Windows), men støtter hverken Windows 7 starter edition (vanlig på minibærbare) eller 64-bit-utgaver. 
+
+Picture Motion Browser, som Sony kaller programmet, følger samme lest som kameraet med tanke på enkelhet. 
+Her får du opp miniatyrbilder fra alle videoene du har tatt opp, men vi stusser litt over at vi ikke får se stillbildene i samme program. 
+
+Du kan spille av filene i en helt enkel mediespiller som støtter start/stopp/pause/spoling samt muligheten til å hoppe til neste og forrige klipp. 
+Dog finnes det ingen mulighet for å klippe/redigere filmene. 
+
+Du kan også dele filmene på nettet. 
+Kun Picasa ligger forhåndsdefinert som tjeneste, og vi vet da ikke helt om vi skal le eller gråte siden vi da ikke får lov til å dele videofilene på Picasa - kun bildene, som vi uansett ikke ser (men vet vi har tatt). 
+
+Det skulle imidlertid også være mulig å legge til flere tjenester å dele filmene sine på, så vi prøver da å legge til YouTube: 
+
+Vi velger film, trykker på YouTube, men da åpnes bare YouTube i nettleseren. 
+Vi prøver så å logge inn, gå til opplastingssiden og dra og slippe videoklippet uten hell. 
+Med andre ord - å klistre YouTube på esken er en sannhet med ganske drøye modifikasjoner, for så vidt vi kan se er det ikke innbakt noe funksjonalitet som kan forbindes med YouTube. 
+
+Funker det bedre på Windows? 
+Dette var litt for rart til å være sant, så vi plugget enheten inn i en Windows-basert PC for å sjekke om det kanskje var tatt noen snarveier med Mac-utgaven. 
+
+Men nei. 
+Nøyaktig det samme skjedde. 
+
+Vi utforsket derfor minnekortet litt og fant til slutt bildene, som var lagt under en Canon-mappe fra en tidligere kameratest. 
+
+Bildekvalitet 
+
+Bloggie MHS-PM5 har ingen bildestabilisator innebygd, og derfor oppleves nært sagt en hver film som hakkete og slitsom å se på. 
+Opptakene vi tok i et helikopter gir et inntrykk av at vinduet er laget av gelé, men selvsagt er det en opptakssituasjon man ikke alt for ofte befinner seg i. 
+
+Utendørs, i godt lys og under "rolige" forhold (gjerne med kameraet på stativ) blir det selvsagt bra, men er dette situasjonen bloggerne som regel befinner seg i? 
+Neppe. 
+
+Innendørs blir det mye støy og bevegelsesuskarphet, og kameraet bruker lang tid på å tilpasse seg endringer i lysforholdene (f.eks. fra inne i stua til ut av vinduet). 
+Legg til at fokusen er låst på et par meters avstand, så blir det ikke skarpt når du filmer for nært. 
+
+Under finner du noen eksempelvideoer tatt med Sony Bloggie MHS-PM5 (uredigerte, rett ut av kameraet): 
+
+Stillbildefunksjonaliteten er også relativt begrenset. 
+Mangel på autofokus uten noe som helst mulighet til å påvirket bildet som tas begrenser mulighetene, og kvaliteten fremstår typisk som den du finner på en mobiltelefon i disse dager. 
+
+Konklusjon 
+
+Har du lest helt hit, skjønner du at vi ikke er særig begeistret. 
+Sony Bloggie MHS-PM5 er et lite og lett kamera, med helt grunnleggende funksjonalitet for å ta videopptak, og i likhet med andre videokameraer av denne typen er det såpass enkelt å bruke at det kan plukkes opp av hvem som helst. 
+Det er selvsagt positivt. 
+
+Men - hva hjelper det når kameraet er tregt i bruk, bildekvaliteten dårlig og medfølgende programvare er helt bak mål? 
+Det hjelper lite å klistre et YouTube-klistremerke på kameraet når det ikke finnes noe innbakt YouTube-støtte hverken i kameraet eller på medfølgende programvare. 
+At vi heller ikke klarte å vise stillbildene (og dermed dele dem på Picasa, den eneste innbakte delingstjenesten i programvaren) forundret oss også. 
+
+I tillegg begrenses bruksområdet av optikken, hvis vidvinkel tilsvarer 47mm og derfor ikke er spesielt godt egnet innendørs. 
+
+Prislappen ligger i skrivende stund på 1400-1500 kroner i de billigste nettbutikkene; nesten en femhundrelapp dyrere enn Samsung U10 som byr på tilsvarende funksjonalitet. 
+Til samme pris finner du også lommekameraer som ikke bare tar bedre bilder, men som også kan filme med HD-oppløsning og har bildestabilisator som gjør filmingen langt mer stødig. 
+
+Dermed klarer vi ikke å finne noen argumenter i Sonys favør når det gjelder Bloggie MHS-PM5 og ender opp med en toer på terningen. 

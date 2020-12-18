@@ -1,0 +1,85 @@
+Komplett 410
+Kompletts bærbare har 15-tommers skjerm, Radeon 9700-grafikk fra ATI, DVD-brenner og 2 GHz-prosessor for bare 16.429 kroner. 
+Er dette den nye fartskongen på "gamle" Centrino? 
+
+Kompletts nygamle maskin 
+- Komplett 410 - kommer i nesten alle tenkelige konfigurasjoner, mest fordi den er basert på en såkalt "barebone." 
+Det vil si at kabinettet og hovedkortet kjøpes fra en asiatisk produsent, og at Komplett selv står fritt til å legge til det de måtte ønske av komponenter. 
+
+LES OGSÅ: 
+
+Komplett er slett ikke den første nettbutikken i Norge med et slikt tilbud, men fordelene med å kjøpe bærbare PCer på denne måten er uansett udiskutable: 
+Du får muligheten til å skreddersy PCen din til det som er perfekt for deg. 
+Eller så kan du gjøre det samme hos Dell. 
+
+Testmaskinen vår er i følge Komplett den som er mest "spekket ut," med topp minne, topp prosessor, brenner i alle formater og et batteri som faktisk klarer å drive den. 
+Det er nesten så vi lurer på om dette kan måle seg med de siste Sonoma-baserte maskinene . 
+Er dette det beste vi kan få ut av "gamle" Centrino? 
+
+Spesifikasjoner: 
+
+Intel Pentium M 2 GHz (Dothan med 2 MB L2 cache) 1 GB DDR333 minne fra Crucial Radeon Mobility 9700 15-tommers TFT-skjerm (1400 x 1050) 802.11b/g-nettverk /10/100 kablet 80 GB harddisk (5400 RPM) AC'97-lyd (5.1) DVD+/-RW brenner Tastatur i full størrelse Vekt: 
+2,8 Kilo 
+
+Se flere spesifikasjoner her 
+
+Det skal mye til for ikke å bli imponert over et slikt oppsett. 
+En 2 GHz-prosessor basert på Dothan-versjonen av Pentium M skulle etter vår tommelfingerregel (gang med 1,5) yte på nivå med en 3 GHz Pentium 4. 
+
+Minnet er fra anerkjente Crucial, og grafikkbrikken er den hittil beste som noen har plassert i den forrige Centrino-generasjonen. 
+
+Konstruksjon 
+
+For å få plass til alt dette i én og pakke, er det derimot ikke fritt for et og annet kompromiss her heller. 
+Kabinettet er noe større og ikke minst tykkere enn vi er vant med, og hvis du kjører maskinen ordentlig - for eksempel ved å ta en runde i testprogrammene våre - kommer du til å merke viften ganske godt. 
+(Den støyer derimot ikke nok til å vekke katten.) 
+
+Komplett 410 bryter også mot den siste trenden med å legge så mange kontakter som mulig på siden av maskinen, som gir bedre tilgang til dem. 
+Her er alt uten én enslig USB-port på bakside. 
+Strømkontakten er også plassert på et litt kinkig sted - omtrent ti centimeter inn fra venstre kant. 
+
+Den har også en veldig fin skjerm, på 15 tommer med høy oppløsning - 1400 x 1050 bildepunkter. 
+Det er mer enn nok for de fleste oppgaver, men fører til at teksten kan bli litt liten for noen. 
+Innsynsvinkelen er det ingenting å utsette på, og lysstyrken er etter vår mening svært god - faktisk en av de vi beste vi har sett på lenge. 
+
+Tastatur og høyttalere 
+
+For øvrig må vi si at Komplett 410 har et utmerket tastatur i full størrelse, komplett med pgup, pgdown, og pilstaster i full størrelse. 
+Det er faste og fine taster, selv om det kanskje bråker litt når du skriver mye på dem. 
+
+Samtidig er høyttalerne plassert på en mildt sagt utortodoks måte; nøyaktig under der håndleddene dine ender opp når du skriver på maskinen. 
+De lager faktisk imponerende god lyd når du ikke skriver det siste mesterverket på tastaturet. 
+
+Det er ikke alltid vi nevner pekeplaten i testene våre, men den som er på Komplett 410 er omtrent dobbelt så stor som den på Medions MIM2040. 
+
+Det har både fordeler og ulemper; det øker sjansen for å treffe den med tomlene når du skriver, og det gjør det veldig enkelt å peke med den. 
+Knappene er derimot ganske små, så små at du kan risikere å treffe pekeplagen, og dermed flytte musepekeren, når du skal trykke på ok-knappen. 
+
+Råskinn 
+
+Når det kommer til konkret ytelse står ikke Komplett 410 i vår konfigurasjon (til 16.429 kroner) tilbake for særlig mye. 
+Dette er rett og slett et råskinn av sjelden sort. 
+
+Det romslige minnet sørger for eksempel for at du sjelden opplever å komme innom vekselfilen, og har rikelig med plass til å spille krevende spill. 
+Som selvfølgelig drar god nytte av Radeon Mobility 9700-kortet. 
+
+Vi målte 3880 poeng i PCMark04 - en poengsum som bare er slått av Fujitsu Siemens' Sonoma-PC. 
+Komplett 410 er utvilsomt den raskeste "gamle" Centrino-maskinen vi har testet. 
+
+I 3DMark03 måtte den derimot melde pass for Acers AMD64-baserte Ferrari, og den kom et godt stykke bak Radeon Mobility X600-brikken til Fujitsu Siemens Sonoma-maskin (som bruker PCI Express i stedet for AGP). 
+
+Det er en del strømkrevende komponenter i denne PCen, og det slår ut på batterilevetiden. 
+Batteriet i vårt testeksemplar la inn årene etter 1 time og 59 minutter, godt bak de meste strømgjerrige Centrinoene vi har testet tidligere. 
+Men det er kanskje ikke avgjørende for målgruppen? 
+
+Oppsummering 
+
+Komplett 410 i med topp konfigurasjon er antakelig det beste du kan få ut av "gamle" Centrino rent ytelsesmessig (bortsett fra batterilevetiden), men det er ingen som helst grunn til at denne ytelsen skal gå på bekostning av god design. 
+
+Riktignok ser Komplett 410 ganske fin ut, men vi må trekke for en del klønete løsninger som bare kan arkiveres under rubrikken for dårlig design. 
+Vi kunne tenkt oss flere tilkoblinger på siden, en annen plassering av strømkontakten, at høyttalerne ikke lå rett under håndleddene - og at åpningsknappen lå i front i stedet for på siden. 
+
+Men Komplett skal ha all ære for å lage en maskin som forsøker å treffe det gylne punktet mellom ytelse og kostnader. 
+I stedet for å lage verdens råeste maskin for verdens høyeste prislapp, eller verdens dårligste maskin for minst mulig penger, har Kompletts 410 truffet akkurat der hvor du får de rimeligste komponentene som attpåtil yter mer enn bra nok. 
+
+Og mer enn bra nok - det er bra ganske bra, det! 

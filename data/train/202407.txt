@@ -1,0 +1,169 @@
+Google Chromecast i Norge
+Billigere, mer innhold, men fortsatt best egnet for entusiastene. 
+
+Google Chromecast er endelig lansert i Norge, og i dag kunne Dagens Næringsliv melde at blant annet Elkjøp melder om rekordsalg av superdingsen. 
+
+Det er en liten plugg som ser ut som en forvokst minnepinne, som puttes i TV-ens HDMI-inngang, og streamer innhold fra nettet via en rekke forskjellige type enheter. 
+
+Hvem kan bruke det? 
+
+Både mobiler og nettbrett med Android og iOS, samt datamaskiner med Windows og OS X, kan kommunisere med TV-en gjennom Chromecast. 
+Windows Phone og RT er imidlertid ikke støttet på nåværende tidspunkt. 
+
+Nytt testforsøk 
+
+Chromecast ble lansert i andre markeder i fjor, og den har vært uoffisielt i salg også i Norge tidligere, men da uten støtte for Googles musikk- og filmtjenester. 
+
+Derfor konkluderte vi også med at løsningen framstod som temmelig begrenset da vi testet den. 
+
+I forbindelse med at den lille tv-pluggen ble klar for salg i Norge, fikk nordmenn også tilgang til musikk og film på norske Google Play. 
+Vi bestemte oss for derfor å ta en ny titt på Chromecast nå som mulighetene har blitt flere. 
+
+Er Chromecast helt fremmed for deg? 
+Les vår grundige gjennomgang først! 
+
+Prisen er halvert 
+
+En av de viktigste forskjellene fra nå og da, er at den koster vesentlig mindre. 
+Forhandlere tok mellom 500-600 kroner for den gråimporterte utgaven, mens nå er den offisielle utsalgsprisen 290 kroner. 
+
+Det er en langt riktigere pris med tanke på bruksmulighetene per i dag. 
+
+For den jevne forbruker som vil gjøre en «dum» TV til en smart-TV fremstår den plutselig som det røverkjøpet den har vært for amerikanerne siden debuten i fjor sommer. 
+
+Mer innhold 
+
+I forrige testrunde kritiserte vi Chromecast for at den bød på for lite innhold. 
+Før offisiell lansering kunne du gjøre tre ting i Norge: 
+Se på YouTube og Netflix via mobilen, nettbrettet eller PC-en, eller speile en Chrome-fane fra PC-en. 
+
+Nå kan du i tillegg se på film eller høre på musikk fra Google Play. 
+Og vips har Chromecast ikke bare blitt billigere, men også nyttigere! 
+
+Tar opp kampen mot iTunes 
+
+Akkurat som Apple TV-brukere kan se filmer fra iTunes Store, kan Chromecast-brukere nå gjøre det samme fra Google Play. 
+Det er en svært kjærkommen nyhet uavhengig om man bruker tv-pluggen deres eller ikke. 
+
+Google-filmene kan både leies og kjøpes. 
+Utvalget i Googles butikk er foreløpig begrenset sammenlignet med Apples tjeneste, men så har sistnevnte også lengre fartstid her til lands. 
+
+Det koster mellom 29 og 39 kroner for å leie en film, og mellom 79 til 139 kroner for å kjøpe en film. 
+Da snakker vi imidlertid bare vanlig SD-kvalitet. 
+Høykvalitets HD-versjoner koster ekstra. 
+Mange av filmene har også norske undertekster. 
+
+Filmtjenesten er enkel i bruk på Chromecast. 
+Leie og avspilling utføres lettest ved hjelp Play Movies-appen på mobilen eller nettbrettet. 
+
+Enkelt! 
+
+Det eneste du trenger å gjøre er å starte innholdet du vil se på og velge Chromecast i en delingsmeny i appen. 
+Etter noen sekunder begynner innholdet å spille på TV-en din i flott HD-kvalitet og med relativt god lyd, forutsatt at du har en rask og stabil internettforbindelse. 
+
+Det fine med Chromecast er at Google har lagt opp til at du kan gjøre helt andre ting på mobilen din mens tv-pluggen fortsetter å spille av innholdet. 
+
+Det er også praktisk at flere kan styre tv-pluggen så lenge de har én kompatibel enhet og er koblet til samme trådløse nettverk. 
+
+Én ulempe 
+
+Ulempen med å bruke mobilen som fjernkontroll, er imidlertid at hvis man starter å spille av en film fra én mobil, kan man ikke styre avspillingen fra noen andre enheter. 
+Det kan by på utfordringer i for eksempel en familiesetting hvor det potensielt er flere som ønsker å sette filmen på pause for å gå på do, men den enheten ikke er tilgjengelig akkurat da. 
+
+På iPhone tilbys ikke engang avspillingskontroller på låseskjermen, og har man sikret den med kodelås, kan det bli vanskelig for andre å slippe til. 
+
+Musikkstreaming på TV-en 
+
+Googles musikktjeneste kan naturligvis også brukes på Chromecast, noe som kan være spesielt kjekt om du har koblet TV-en opp mot stereoanlegget. 
+Det er en streamingtjeneste som i stor grad fungerer på samme måte som Spotify, Wimp, og som koster 79 kroner per måned. 
+
+Akkurat som med film, styres musikken best via mobilen. 
+«Play Music»-appen er brukervennlig nok, men vi irriterer oss litt over forsinkelsen når man starter avspillingen eller skal skifte mellom låter. 
+
+Personlig synes jeg Spotifys og Wimps apper er bedre å bruke på mobilen, men til gjengjeld mangler de ordentlig Chromecast-støtte. 
+
+En annen fordel med Googles musikktjeneste er at du kan laste opp inntil 20.000 sanger til nettskyen. 
+Dermed kan du også bake inn din egen MP3-samling for å fylle inn hullene. 
+
+Hva med NRK og TV 2? 
+
+De siste årene har nordmenn omfavnet nett-tv hos både NRK og TV 2. 
+Ingen av dem er helt klare med Chromecast-støtte ennå, men det nærmer seg. 
+
+Onsdag denne uken lanserte NRK en betaversjon som fungerer i nettleseren Chrome. 
+Går du inn på tv.nrk.no, og velger noe du vil se på, vil du få opp et symbol du kan trykke på for å sende videoen til Chromecast-enheten din. 
+
+Det fungerer langt bedre enn vanlig fanespeiling, som har vært eneste mulighet frem til nå. 
+Bildet blir skarpere og det hakker på langt nær like mye. 
+Når ordentlig mobilstøtte kommer på plass, blir dette skikkelig bra! 
+
+Les mer om NRKs Chromecast-planer her. 
+
+TV 2 Sumo-sjef Kristian Bruarøy forteller DinSide at de også er like rundt hjørnet med Chromecast-støtte. 
+I løpet av neste uke vil de ha klar en betaversjon i sin Android-app. 
+Deretter vil det bli tilgjengelig via Chrome-nettleseren og i deres iOS-apper. 
+
+Les mer om TV 2s planer her. 
+
+HBO Nordic, da? 
+
+Med ny sesong av Game of Thrones rett rundt hjørnet, er det sikkert også mange som lurer på om HBO Nordic vil komme med støtte for Googles mediespiller. 
+Enn så lenge ser det dårlig ut. 
+
+- Vi har dessverre ingen spesifikke tidsperspektiver her, men vi jobber kontinuerlig med å være tilgjengelig på flere plattformer, sier Isabell Langvatn Goren i HBO Nordic i en epost til DinSide. 
+
+Tredjepartsapper 
+
+Så skal det også nevnes at det finnes andre apper enn de nevnt ovenfor som støtter Chromecast, og flere er på vei. 
+I forrige måned ble mediespilleren åpnet for utviklere. 
+
+Noen av våre favorittapper så langt er: 
+
+Plex: 
+Hvis du har mye video liggende lokalt på PC-en din, kan du streame de til Chromecast via Plex. 
+Appen til Android og iOS fungerer som en fjernkontroll for Plex Media Server-programmet du har kjørende på datamaskinen din. 
+I tillegg til å spille av video, kan du også høre på musikk eller vise frem bilder. 
+
+Dayframe: 
+TV-en egner seg godt som bildefremviser. 
+Med Dayframe for Android kan du «caste» lysbildeshow med bilder fra bildebiblioteket på telefonen eller nettbrettet ditt eller nettjenester som Dropbox, Facebook, Google+ og Instagram. 
+Photo Cast kan gjøre noe av det samme for iPhone-brukere, bare med begrenset funksjonalitet. 
+
+Photowall: 
+Er fersk app fra Google som lar deg ta bilder fra mobilen, nettbrettet eller datamaskinen og laste de opp til en delt bildekollasje som også familie og venner kan bidra på. 
+Du kan laste opp en video av lysbildeshowet til YouTube når du er ferdig. 
+Photowall finnes for både Android og iOS. 
+
+MyCastScreen: 
+Hvis du er lei standard-skjermspareren til Chromecast, kan du bruke Android-appen MyCastScreen til å vise frem litt mer nyttig informasjon, som værvarsel og rullerende nyhetsoverskrifter fra din favoritt-RSS-feed. 
+Og flere funksjoner vil komme etter hvert. 
+
+Sjekk også ut Cast Store, en app som gir deg oversikt over alle Chromecast-støttede apper som er tilgjengelig på Google Play-butikken. 
+
+Hva synes vi nå? 
+
+Den er liten i størrelse, enkel å komme i gang med og ikke minst billig. 
+Chromecast er en glimrende måte å gjøre en «dum» TV til en smart-TV, og ypperlig for en husholdning som bruker både Android, iPhone og iPad. 
+Konkurrenten Apple TV er på sin side kun forbehold Apple-brukere. 
+
+For en som er dypt inne i Google-verdenen, er Chromecast virkelig i ferd med å bli et «må-ha-produkt». 
+
+Hvis du allerede har en smart-TV, trenger du neppe Chromecast. 
+I hvert fall ikke ennå. 
+
+Dette er tungvint 
+Det er fortsatt sparsomt med funksjonalitet som den vanlige forbruker vil ha nytte av, og de litt mer avanserte mulighetene krever fremdeles litt fikling. 
+Spesielt det at man må bruke så mange forskjellige apper til ulike formål vil kunne oppleves som tungvint for en del. 
+
+Vi opplever det fremdeles som et produkt myntet på entusiastene (les: nerdene). 
+
+Vi stusser også på hvorfor Google ikke har lagt inn Chromecast-støtte i bilde- og videoappene sine på mobil. 
+Å kunne vise frem feriebildene sine på TV-en er noe vi tror mange vil sette pris på, og de tredjepartsappene som gjør det i dag, fungerer dessverre ikke alltid så bra. 
+
+Speiling av Chrome-faner er på sitt beste en god funksjon, men vi har ennå ikke kunnet stole 100 prosent på det alltid flyter like glatt. 
+
+Det er som nevnt ventet at flere tilpasser sine apper og tjenester til å støtte Googles tv-pinne, så potensialet til Chromecast er utvilsomt stort. 
+Den har mer å stille opp mot Apple TV enn tidligere, ikke minst hva pris angår. 
+I denne omgang lander vi derfor på en sterk firer. 
+
+Google Chromecast 

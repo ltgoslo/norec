@@ -1,0 +1,124 @@
+Toshiba Portégé R500
+En superlett bærbar med god batterilevetid. 
+
+Folk som er mye på farten sverger naturlig nok til små og lette bærbare PCer, og prisen på vanlige 12- og 13-tommere er blitt langt lavere de siste månedene (bare sjekk de siste PC-tilbudene). 
+
+LES OGSÅ: 
+
+Men er du superbruker vet du godt at "vanlige" bærbare blir litt for tunge i lengden, og dessuten ikke har det som trengs når det gjelder batterilevetid. 
+Men det finnes maskiner for deg også - som MacBook Air eller Lenovos ThinkPad X300. 
+
+Og selvfølgelig Toshiba Portégé R500. 
+
+Spesifikasjoner testmaskin (R500-11B): 
+
+Intel Core 2 Duo U7600 @ 1,2 GHz 12,1" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne 120 GB harddisk Intel GMA 950 (opp til 256 MB delt minne) WLAN (a/b/g/n) Gigabit LAN 3 x USB, FireWire CardBus kortplass SD kortleser VGA ut, lyd inn/ut DVD/CD-brenner Windows Vista Home Business (+ XP Pro) 
+Dimensjoner (B/D/H): 
+40,0 x 28,9 x 5,1 cm Vekt 1,08 kilo Pris: ca. 15.000 inkl. mva. 
+
+R500 imponerer strengt tatt ikke dersom vi kun ser på spesifikasjoner og utstyr - det er først når vi tar vekten i betraktning at denne PCen blir spesiell. 
+
+Konstruksjon 
+
+For å holde størrelse og vekt så langt nede som mulig er denne sølvfargede Toshibaen så å si skrellet for alt unødvendig. 
+Grambesparelsene har også gått litt på bekostning av avstivning - spesielt det tynne lokket og området rundt det optiske drevet har mer fleksibilitet enn vi kanskje kunne ønske oss. 
+
+På grunn av den lave vekten er det likevel slett ikke galt siden du for eksempel fint kan løfte PCen etter lokket, men den føles altså ikke spesielt solid, så du vil nok passe deg for å få den i kraftig klem når du pakker den ned. 
+
+Tastaturet fyller hele maskinen i bredden - vårt testeksemplar hadde for øvrig engelsk tastatur. 
+Det har litt svikt, noe som gjør at det kan støye litt dersom du virkelig hamrer løs på tastene, men generelt er det behagelig i bruk. 
+Vi er også fornøyd med layouten. 
+
+Tastaturet skal også tåle litt væskesøl, uten at vi har testet ut dette i praksis... 
+
+Touchpaden under tastaturet gjør en grei jobb, men kan til tider føles en smule unøyaktig. 
+Tastene under er av fin størrelse og har markante klikk. 
+De kan umiddelbart føles litt harde, men vi vet dette i stor grad er en vanesak. 
+I mellom disse sitter fingeravtrykksleseren. 
+
+Til høyre over tastaturet har du også to taster. 
+Den ene starter Toshiba Assist, som i praksis er en samling veivisere som hjelper deg sette opp trådløse tilkoblinger, beskytte PCen og så videre. 
+
+Den andre tasten er litt spesiell og merket med en sol - den slukker tydeligvis baklyset og gjør den skjermen mørk, faktisk for mørk for vanlig innelys. 
+Men dersom du har tilgang på dagslys og ikke bryr deg om fargegjengivelse kan du ved å bruke denne funksjonen uten tvil spare en del strøm. 
+
+Bredskjermen er på 1280 x 800 piksler, har baklys bygd på LED-teknologi og er svært tynn. 
+Den matte skjermen har på den annen side verken god innsynsvinkel eller særlig sprut i fargene. 
+Men kontrasten er grei, og skjermen kan for øvrig også fint brukes i solen - om du da som nevnt ikke er ikke er så nøye på fargene. 
+
+Tilkoblingsmuligheter 
+
+Kontaktene finner vi på høyre og venstre side av maskinen, og i tillegg er det en kontakt for dokkingstasjon på undersiden. 
+
+På høyre side har vi leser for minnekort (SD), det ultratynne optiske drevet, USB-port, CardBus-plass og LAN. 
+I tillegg er det en bryter til å slå det trådløse nettet av og på, og du finner plass til kensingtonlås i hengselen til lokket. 
+
+Forresten er det uvanlig å se CardBus i dag, de aller fleste nye bærbare kommer med den nyere ExpressCard-standarden. 
+
+På den venstre siden finner vi inntak for strøm, VGA ut, 2 USB, FireWire, lyd inn/ut og volumkontroll. 
+Varmluften blåses også ut her. 
+
+Ytelse 
+
+Vi har egentlig ikke testet så mange superlette bærbare, men for litt over et år siden så vi på A1 Express Dual fra LG. 
+Vekten på denne 10,6-tommeren var i likhet med Portégé R500 også på rundt kiloen. 
+
+I tillegg har vi tatt med en nyere og mer "vanlig" 12-tommer, nemlig Packard Bells EasyNote BG45/46 som med sine 1,6 kilo er drøye 500 gram tyngre enn Portégé R500, men likevel kan sees på som en lettvekter i sin klasse. 
+
+Merk dog at begge disse maskinene har eksternt optisk drev - det er ikke tilfelle for Toshibaen. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Når det gjelder ytelse er ikke Portégé R500 noen höydare. 
+Prosessoren - en Intel Core 2 Duo U7600 - er en såkalt Ultra Low Voltage (ULV)-prosessor der det er strømforbruket, ikke klokkefrekvens eller ytelse, som er det viktige. 
+
+Til sammenligning har LGen også en litt eldre Core Duo ULV-prosessor, mens Packard Bell-maskinen har en vanlig Core 2 Duo på 1,67 GHz. 
+
+Toshibaen har også den dårligste integrerte grafikkløsningen, noe som i dette selskapet spesielt gir seg utslag i den totale poengsummen. 
+
+Kjøretid i sekunder. 
+Lavere er bedre. 
+
+LG og Toshiba har altså begge ULV-prosessorer på 1,2 GHz, noe som selvfølgelig ikke er noen match for selv en rimelig "vanlig" Core-prosessor. 
+
+Disse resultatene er også merkbare - vi kan ikke legge skjul på at Toshibaen til tider føles litt treg. 
+Prosessoren er jo ikke spesielt rask, og til å kjøre Windows Vista effektivt har den kanskje litt lite minne (1 GB som deles med grafikkløsningen). 
+I tillegg kommer PCen med en haug programmer kjørende i bakgrunnen... 
+
+For deg som på grunn av dette kanskje kunne tenke deg å oppgradere minnet er det et maksimum på 1,5 GB på akkurat denne versjonen (2,0 GB på de andre). 
+Et alternativ er å nedgradere til XP Professional, noe du faktisk kan gjøre med den medfølgende recovery-DVDen. 
+
+Batterilevetid og støy 
+
+Toshiba har brukt flere triks for å sikre seg så god batterilevetid som mulig på Portégé R500. 
+Som allerede nevnt bruker de en ULV-prosessor, integrert grafikk (Intel GMA 950) og dertil egnet brikkesett. 
+
+I tillegg kommer muligheten til å slå av og på enkeltkomponenter som optisk drev, kortleser og FireWire-port. 
+Du kan også begrense prosessorhastigheten for igjen å begrense behovet for viftebruk - noe som jo også bruker strøm. 
+
+Skjermen har også LED-baklys som skal suge mindre av batteriet - og du kan som vi også allerede har nevt dimme skjermen helt dersom du har tilgang til godt med lys. 
+
+Med sitt ene batteri holdt Toshibaen i litt under seks timer med våre testrutiner. 
+Det betyr kontinuerlig drift med skjermen på omtrent 50% lysstyrke, med trådløst nett og enkeltkomponenter avslått. 
+I praksis vil altså maskinen holde en drøy dag på jobben eller i parken, noe vi må si oss fornøyd med. 
+
+På grunn av maskinens beskjedne tykkelse er vifta og kjøleribba på Portégé R500 ganske små, og selv om PCen kanskje ikke utvikler så mye varme må vifta jobbe kontinuerlig - riktignok på et relativt lavt volum, men vi har hørt mindre støyende PCer. 
+
+Under hard belasting vil vifta bli mer aggressiv, men selv ikke da klarer den ta unna all varmen og vi får en liten hotspot på venstre håndleddsstøtte. 
+Denne merker du altså stort sett kun når maskinen jobber hardt, ikke ved lettere aktiviteter som surfing og tekstbehandling. 
+
+Vurdering og konklusjon 
+
+Toshiba Portégé R500 - 11B er en bærbar for deg som prioriterer lav vekt og høy batterilevetid. 
+Å lage en fullverdig 12-tommer med optisk drev som holder en hel dag på batteriet er slett ingen dårlig bragd av Toshiba. 
+
+Men moroa kommer selvfølgelig ikke uten en pris, og da tenker vi ikke bare på de femten tusenlappene du må ut med for å skaffe deg den billigste versjonen. 
+PCen er ikke bare liten og lett, men føles også til en grad litt spinkel - vi er litt usikre på hvor mye juling den tåler. 
+
+Og så har vi dette med ytelsen - det er mulig vi er litt bortskjemte, men i hvert fall med Vista skulle vi ønsket oss litt mer muskler i denne PCen. 
+
+Portégé R500 blir derfor en lettvekter på flere områder, og passer hovedsaklig den som vil ha en så tynn og lett bærbar som mulig for lett databehandling. 
+
+Er du ikke så nøye på det og kan gå opp noen hekto finner du på den annen side billigere, mer solide og raskere bærbare. 

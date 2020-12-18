@@ -1,0 +1,47 @@
+TEST: WD SiliconEdge Blue SSD
+Hvordan klarer de gamle harddiskprodusentene seg i konkurransen på SSD? 
+
+Det finnes bare en håndfull produsenter av roterende harddisker, etter forskjellige oppkjøp er det det bare Samsung, Seagate, Hitachi og Western Digital igjen. 
+Men hva skjer med disse nå som SSD er i ferd med å ta av? 
+
+Alle produsentene har SSD-baserte produkter, men de er ikke spesielt tilstedeværende i de norske butikkene, verken på nett eller over disk. 
+Grunnen til dette er at produktene i stor grad har vært profilert som "Enterprise", altså rettet mot bedriftsmarkedet. 
+Årsaken til dette er selvfølgelig at der kan det være mer penger å hente. 
+
+Den eneste harddiskprodusenten som i skrivende stund har SSD-produkter lett tilgjengelig for meningmann er Western Digital med sin SiliconEdge Blue serie. 
+
+Riktig størrelse til riktig pris 
+
+I høst var det flere av produsentene som satte ned prisen på SSD med kapasitet på rundt 120 GB, de ligger nå rundt 1800 kroner. 
+Det er ikke veldig lenge siden en 150 GB Western Digital Raptor på 10 000 omdreininger kostet det samme. 
+
+Denne størrelsen passer for de fleste brukere, siden det er plass både til operativsystem og et godt utvalg av programmer. 
+Mer plass trenger man bare til mediefiler, og disse passer bedre til å ligge på harddisk. 
+Selv en rimelig 2TB roterende disk til godt under tusenlappen håndterer samtidig avspilling av flere HD-filmer over hjemmenettet og har plass til hundrevis av HD-filmer. 
+
+Men selv en 128 GB disk har plass til mye. 
+Windows 7 tar rundt 10 GB diskplass, og selv med alt vi trenger av programvare og vel så det, pluss litt data hist og her har vi fremdeles 72 GB ledig på systemdisken i vår test/kontormaskin når vi kopierte over alt på Western Digitals 128 GB SSD med det utmerkede programmet Paragon Migrate OS to SSD. 
+
+På testbenken 
+
+Vårt testeksemplar ble levert uten emballasje og tilbehør, monteringsskruer og brakett/skinner for montering i 3,5" diskbrønn må skaffes separat. 
+
+Selve disken er elegant og forseggjort, med flater i børstet metallfinish, også undersiden. 
+
+I følge andre tester på nett er det flashminne fra Samsung og en modifisert kontroller JMF612 fra JMicron som sitter i enheten. 
+Den har også 64 MB hurtigminne og selvsagt støtte for Trim. 
+
+Vi kjørte våre tre testprogrammer, og sammenlignet med OCZ sin 120 GB SSD som vi nylig har testet: 
+
+Leseytelsen er helt på høyde med de andre raskeste SSD-ene, som alle ligger rundt 230 MByte/sek mens skriveytelsen ligger mellom Intel sin X25 og OCZ Vertex 2. 
+
+Konklusjon 
+
+WD SiliconEdge Blue SSD er en utmerket SSD med glimrende leseytelse og god skriveytelse både i tester og i daglig bruk. 
+
+Vi har brukt disken i vår test/kontormaskin i en uke, og forskjellen fra den gamle roterende disken er høyst påtagelig. 
+Oppstart av maskin er dobbelt så rask, og programmene er lastet inn og klare på et øyeblikk. 
+
+Takk til MPX.no for utlån av testeksemplar. 
+
+WD SiliconEdge Blue SSC-D0128SC-2100 128GB 

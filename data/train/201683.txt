@@ -1,0 +1,37 @@
+Linksys WRT160N
+Rimelig 802.11n ruter med elegant design 
+
+Den forrige ruteren fra Linksys WRT-350N - hadde et svært "teknisk" utseende, med flere eksterne antenner som tiltrakk seg oppmerksomhet. 
+Fargevalget var også noe påtagelig, med frisk blå og matchende grå/sort - høy nerdefaktor med andre ord. 
+I tillegg hadde den en ytelse helt i toppen og mulighet for nettverkslagring ved å koble til en USB-disk rett i ruteren. 
+
+LES OGSÅ: 
+
+Den nye modellen med det klingende navnet WRT160N har et design som er totalt annerledes. 
+Den har en elegant, mer abstrakt form og ingen synlige antenner. 
+Den ser ut som et apparat, men det er bare så vidt. 
+Med sølvgrått kobinert med sort pianolakk kan den stå nesten hvor som helst, hadde det ikke vært for ledningene som jo avslører det hele... 
+
+Oppsett og tilkobling 
+
+Ruteren har standard tilkoblinger, med WAN-port for internett og LAN for det lokale nettverket. 
+Det er ingen USB for tilkobling til enheter som kan deles på nettverket. 
+
+Ruten kan settes opp ved å kjøre programmet på CDen som følger med, som guider deg trinn for trinn og legger inn de riktige parameterne, avhengig av hva slags internetttilkobling du har. 
+Den er også en UPnP-enhet som dukker opp under Nettverksenheter, og du kan komme deg inn i det web-baserte oppsettet derfra, eller du kan skrive inn adressen til ruteren i nettleseren og gå rett inn. 
+
+Selv om ruterens utseende er forenklet, er oppsettsmulighetene like avanserte som på tidligere modeller. 
+Standardoppsettet fungerer utmerket for de fleste, men har du kunnskaper og interesser og vil ha mer detaljert styrting er det gode muligheter for dette. 
+Her er noen eksempler fra oppsettet: 
+
+Ytelse - like elegant? 
+
+Sammenlignet med WRT350N, den forrige Linksys-ruteren vi testet kommer WRT160N ikke helt opp på samme nivå. 
+Men WRT350N er blant de aller raskeste vi noen gang har testet og koster nesten dobbelt så mye som WRT160. 
+
+Rekkevidden faller noe etter som vi flytte vår bærbare nedover i huset, men hastigheten nede i kjelleren 3 etasjer ned (ruteren står på hemsen oppunder mønet) er fremdeles utmerket. 
+
+Konklusjon 
+
+Ønsker du en elegant ruter med gode basisfunksjoner til under 800 kroner, er Linksys WRT160N en utmerket løsning. 
+Ønsker du mer avanserte rutingmuligheter finnes også disse tilgjengelig. 

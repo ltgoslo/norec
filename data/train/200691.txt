@@ -1,0 +1,102 @@
+HP ProBook 4525s
+Nyåret byr på mange PC-er til gode priser. 
+Vi har sett nærmere på et av de aller beste tilbudene akkurat nå - for deg med stramt budsjett. 
+
+Forbrukerelektronikk blir bare billigere og billigere, PC-er er intet unntak. 
+I disse dager er det mulig å gjøre mange gode kjøp, mye på grunn av at forhandlerne ønsker å gjøre plass til nye modeller basert på Intels ferske Sandy Bridge-prosessorer. 
+
+HP ProBook 4525s er et godt eksempel på en modell som i løpet av kort tid har gått fra mellomsegmentet prismessig, til "dumpingsegmentet". 
+Utgaven vi har sett på koster for eksempel bare 3.495 kroner hos Netshop, veiledende pris har lenge ligger rundt 5.500. 
+
+Maskinen har spesifikasjoner man normalt slett ikke finner i lavprisklassen. 
+Her er noen av de viktigste: 
+
+15,6" matt LED-baklyst skjerm, 1366 x 768 piksler med antirefleksbelegg Metall-chassis AMD Athlon II Dual-Core P340-prosessor 3 GB minne (maks 8) 320 GB harddisk, 7200 rpm DVD-brenner for alle formater ATI Mobility Radeon HD 530V grafikkort, 512 MB minne 3 USB-porter + 1 delt eSATA/USB-port Express Card-slot VGA og HDMI-utganger 2 megapiksels webkamera med ansiktsgjenkjenning Gigabit kablet nettverk Trådløst nett (B/G/N) 
+Minnekortleser for SD/MS/XD 6-cellers batteri, oppgitt levetid: 
+3,5 timer Windows 7 Home Premium 64-bits Størrelse: 37,2 x 25 x 2,8 kg Vekt: 
+2,5 kg 
+
+For å gjøre det klart med én gang: 
+Mye av dette er sjelden kost for en PC til 3.495 kroner. 
+Spesielt eSATA, Express Card, metallchassis, HDMI og gigabit nettverk er egenskaper du vanligvis må betale langt mer for, det er i hvertfall uhyre sjelden å se alle disse egenskapene på én gang. 
+
+Det er egentlig kun prosessoren fra AMD som er typisk for lavprissegmentet, men det betyr ikke at det behøver å være noen dårlig løsning. 
+
+Solid og smart 
+
+HP har brukt metall både rundt tastaturet og i lokket, noe som gjør maskinen stiv og robust - noe som er bra for deg som bærer PC-en mye rundt. 
+Bruken av matt skjerm understreker dessuten at dette er en modell myntet på business-brukeren, men det er mange i privatsfæren som også foretrekker matt skjerm på grunn av fordelene knyttet til refleks. 
+
+PC-en er dessuten utstyrt med et par smarte innretninger. 
+Sølebestandig tastatur, for eksempel, skulle du søle kaffe eller vann på tastaturet vil det ledes bort fra maskinen og ikke inn i den. 
+En annen fiffig innretning er en fallføler for harddisken, som sørger for at at lese/skrive-armen løftes før PC-en eventult går i bakken. 
+Dermed er sjansen større for at harddisken tåler fallet. 
+
+Over tastaturet sitter et par høyttalere, som lager bedre lyd enn mange andre, dyrere PC-er er utstyrt med. 
+Det er faktisk et snev av bass, men selvfølgelig er begrensningene temmelig åpenbare. 
+
+Flott tastatur, ikke fullt så flott pekeplate 
+
+Selve tastaturet er av "Mac-typen" med god avstand mellom tastene. 
+Denne løsningen er spesielt enkel å rengjøre, og tastaturet er fast og responsivt. 
+Det avgir svært lite støy under skriving. 
+
+Under tastaturet sitter en litt spesiell pekeplate. 
+Den er multiberøringsfølsom, men det som skiller den fra "normalen" er at venstre/høyre-klikk er integrert i selve pekeplaten. 
+Stryker du fingertuppen over feltet der "knappene" ligger, beveger musepekeren seg på skjermen. 
+For en som er vant til dedikerte knapper oppleves betjeningen som litt vrien, dette krever tilvenning, og vi opplevde også at vi oftere kom borti platen utilsiktet enn på PC-er med vanlig plate/knapp-løsning. 
+
+Oppe i venstre hjørne på pekeplaten sitter en føler med et lite lys. 
+Dobbelklikker du her låser du pekeplaten, det vil si den vil ikke lenger reagerer på klikk og berøring. 
+Det forhindrer uønskede klikk og flytting av markør, som ellers kan være et problem. 
+
+Oppstart og installasjon 
+
+Første gang du starter maskinen blir du møtt av en veiviser som lar deg konfigurere blant annet oppdateringer, sikkerhet og registrering av PC-en hos HP. 
+Deretter sluttføres innstillingene, denne prosessen tar rundt 15 minutter totalt. 
+
+Du blir deretter møtt av dette skrivebordet: 
+
+Som vanlig får du en del programmer du ikke har bedt om med på kjøpet, men HP er verken verre eller bedre enn de fleste konkurrentene sine. 
+Installasjonslisten inneholder for eksempel sikkerhetsprogrammer fra McAfee (60-dagers), Corel Home Office (60-dagers), starter-versjonen av Office (lett-versjoner av Word og Excel), multimedieprogrammer fra ArcSoft og en rekke HP-programmer. 
+
+Viftestøy og ytelse 
+
+Viften går mer eller mindre konstant. 
+Det er typisk for de fleste PC-ene vi har testet med AMD-prosessor. 
+Det høres godt i et stille rom, selv om lydfrekvensene er lav, men drukner helt i andre lyder i et kontormiljø. 
+Vi merker oss også at vifteaktiviteten ikke nødvendigvis avtar selv om belastningen reduseres, slik vi er vant til med fra de fleste Intel-baserte PC-er vi har testet den siste tiden. 
+
+Maskinen blir dessuten temmelig varm på undersiden til venstre ved tyngre belastning, nok til at den kan oppleves som ubehagelig å ha i fanget. 
+Maskinen bør med andre ord brukes på bord, eventuelt på en plate som denne. 
+
+Windows Opplevelsesindeks gir oss følgende indikasjon på ytelsen, og det ser slett ikke verst ut. 
+Skalaen går fra 1 til 7,9: 
+
+Ytelsestestene til Passmark gav oss følgende resultat på prosessorytelse, og her har vi sammenlignet med andre, aktuelle prosessorer i samme prissegment (snittverdier): 
+
+PC-en byr på helt gjennomsnittlig prosessorytelse for klassen, men som du ser er den langt mer potent enn enkeltkjerneprosessorene Intel Celeron 900 og AMD V140. 
+I praksis betyr dette mer enn god nok ytelse til kontoroppgaver, web, bildebehandling, musikk og video - også fleroppgavekjøring. 
+
+Grafikkytelsen er ofte et ankepunkt på PC-ene i lavprissegmentet, da i første rekke 3D-ytelse. 
+Passmark-målingene sier følgende om denne PC-en sammenlignet med andre i samme prissegment: 
+
+Du får altså en god del mer 3D-ytelse i denne PC-en enn på de fleste andre i prisklassen, men ikke vent deg allverdens. 
+Til nyere 3D-spill er dette uansett langt fra godt nok, men til enklere og eldre spill kan det fungere OK. 
+
+Batterilevetiden målte vi 2t 42m under minimal belastning, og 1t og 31m under konstant avspilling av HD-film (720P) i Windows Media Player. 
+Et sted i overkant av 2 timer vil da mest sannsynlig være normal brukstid med varierte oppgaver, og det er ikke veldig imponerende. 
+Det bekrefter egentlig (og dessverre) litt av fordommene mange har mot PC-er med AMD-prosessor. 
+
+Konklusjon 
+
+Men bortsett fra det: 
+Her får du utvilsomt svært mye PC for pengene. 
+Spesielt tilkoblingsmulighetene, tastaturet og byggekvaliteten får store plusser i margen hos oss. 
+
+På minussiden er det en upresis pekeplate og noe viftesus vi har størst problemer med, samt en ikke veldig imponerende batterilevetid. 
+Er dette uproblematisk for deg, er dette uansett et meget godt kjøp. 
+
+Takk til Netshop for utlån av PC-en 
+
+HP ProBook 4525s WT229EA 

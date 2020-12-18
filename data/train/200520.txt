@@ -1,0 +1,108 @@
+HP Envy X2
+Kanskje den lekreste hybrid-PC-en så langt. 
+
+PC-kategorien er i sterk endring. 
+Nylig var vi i Las Vegas og overvar årets CES-messe, og selv om trendene spriker litt, er det ingen tvil om at den tradisjonelle PC-en er på vikende front. 
+
+Den stasjonære PC-en kan få sin erstatning i alt-i-ett-maskiner der alt er innebygd i skjermen, enkelte av dem kan hektes av foten og brukes som et gigantisk nettbrett i fanget. 
+Og bærbare PC-er har berøringsfølsomme skjermer som kan hektes av eller snus rundt og klappes over tastaturet - for dermed også å kunne brukes som nettbrett. 
+
+HP Envy X2 er en såkalt hybrid bærbar PC/nettbrett, og er den fjerde maskinen vi tester innenfor denne kategorien. 
+I likhet med Samsung ATIV Smart PC kan du her hekte skjermen helt av tastaturet med et enkelt klikk, men både vekt- og maskinvaremessig er HPs maskin langt lettere. 
+
+Her er de viktigste spesifikasjonene: 
+
+Skjerm: 11,6"" blank berøringsskjerm, 1366 x 768 piksler Prosessor: 
+Intel Atom Z2760 RAM: 
+2 GB, maks 4 GB Grafikkort: 
+Intel GMA (integrert) Lagring: 
+64 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 2x USB 2.0 i tastaturdelen Webkamera: 1,3 mpix + 8 mpix kamera på baksiden Kortleser: microSD i brett, vanlig SD-leser i tastaturdel Trådløst nett: a/b/g/n + Bluetooth Kablet nett: 
+Nei Annet: 
+Støtter NFC OS: 
+Windows 8, 32 bit Størrelse: 303 × 206 × 19 mm (brett og tastaturdel) Vekt: 
+1450 gram totalvekt, bare brettet: 700 gram Pris: fra ca 7000 kroner (16. januar 2013) 
+
+Ikke noe råskinn-spesifikasjoner her, altså, og spesielt prosessor og RAM kunne vært hentet fra en minibærbar til et par tusenlapper. 
+Maskinen leveres dessuten med fullversjonen av Windows 8, og da er 64 GB SSD i snaueste laget. 
+Allerede ved leveransen har du bare 30 GB ledig lagringsplass. 
+
+Solid og lekker 
+
+Men det den mangler på maskinvarefronten tar den igjen så det monner på design og byggekvalitet. 
+Her har HP benyttet aluminium fra innerst til ytterst, og maskinen gir derfor et eksklusivt inntrykk. 
+
+Power-knappen sitter på lokket eller baksiden av nettbrettet, alt ettersom. 
+Her sitter også frontlinsen for kameraet, som akkompagneres av et LED-lys i mørke omgivelser. 
+Bilde- og videkvaliteten er ganske midt på treet, og sammenlignbar med Android- og iOS-brett. 
+
+Noen enkle tilkoblinger 
+
+Foruten en microSD-leser og minijack lydutgang er det ikke andre tilkoblinger i selve brettet. 
+En USB-port her hadde gjort seg. 
+
+Tastaturdelen har imidlertid to USB 2.0-porter og en kortleser for fullstørrelses SD-kort, i tillegg til HDMI-utgang og en minijack for lyd også her. 
+Det sitter også et batteri i tastaturdelen, noe som er med på å gjøre totalvekten så høy som 1,4 kg, men som sørger for meget god batteritid. 
+Mer om det siden. 
+
+Rett over tastaturet sitter en skyvebryter som med et enkelt skyv løsner skjermen. 
+En ting vi liker er at når du jobber i standard PC-modus tappes batteriet i tastaturdelen først. 
+Når du så hekter av skjermen, vil du da ofte ha 100% batteritid tilgjengelig. 
+
+Skjermen har ikke den høyeste oppløsningen, men kan betraktes fra nærmest død vinkel, og lysstyrke og fargemetning er vi meget godt fornøyd med. 
+
+Tastatur og pekeplate fungerer også eksemplarisk. 
+
+Helt stille 
+
+I motsetning til ATIV-maskinen fra Samsung, som riktig nok var utstyrt med en mye kraftigere prosessor, er Envy X2 også så godt som lydløs. 
+Her får du altså et brett med full Windows 8-funksjonalitet, du kan kjøre helt vanlige Windows-programmer, og det uten å bli forstyrret av sjenerende vifter. 
+Det liker vi! 
+
+Men merk at det er Modern UI-apper den trives best med. 
+De startes og kjøres uten særlige forsinkelser, og alt glir lett og fint i den nye startmenyen med fingersveiping, zooming osv. 
+Tradisjonelle, litt komplekse Windows-programmer, fleroppgavekjøring og lignende er tungt for den svake prosessoren. 
+Å pakke ut store ZIP-filer går også tregt, men det skyldes også at SSD-en i denne maskinen ikke er av den raske sorten, dessverre. 
+
+Slik yter den 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 3,4 Minne: 
+4,7 Grafikk: 
+3,8 Spillgrafikk: 
+3,3 Primær harddisk: 
+5,4 
+
+Passmark PerformanceTest avslører at SSD-en har en lese/skrive-hastighet på beskjedne 44/11 MB, noe som er mye lavere enn selv vanlige harddisker. 
+
+Alt dette understreker vår oppfatning av at dette er en maskin som er beregnet på meget lett bruk. 
+
+Atom-prosessoren får en score på 620. 
+Til sammenligning ligger de fleste Ultrabook-ene i samme prisklasse på rundt 3500, og det merkes i de fleste situasjoner. 
+Det som imidlertid er gledelig å se, er at den nye Modern UI-videoavspilleren ikke har noen problemer med å spille av høyoppløst video, ikke en gang 1080P. 
+Vi testet flere forskjellige formater, og dette ser vi på som svært positivt. 
+
+En annen ting som er svært positivt er batteritiden. 
+HP antyder 14 timer bruk når du bruker maskinen i PC-modus, og våre tester kan langt på vei bekrefte dette. 
+Ved kontinuerlig videoavspilling var batteriet svært seiglivet, og etter én hel time video i 720P hadde ikke batteriindikatoren sunket mer enn 10%! 
+
+Selve brettet har også bra batteritid, selv om den ikke er når helt opp til for eksempel iPad. 
+Våre tester tyder på en batteritid på 7-8 timer med moderat belastning. 
+Det kan vi gi godkjent karakter på. 
+
+Konklusjon 
+
+HP har laget en meget elegant hybrid som oser av god byggekvalitet. 
+Den er lydløs og byr på svært god batteritid når den brukes i PC-modus. 
+Du kan kjøre tradisjonelle Windows-programmer, men hvis dette er hovedfokus for deg, ville vi sett en annen vei. 
+Maskinen har nemlig meget begrenset ytelse og lagringsplass. 
+
+Ytelsen er likevel god nok for video, bilder og surfing samt de fleste Modern UI-apper, i hvert fall de mest aktuelle akkurat nå. 
+
+Så her må du gjøre en avveining og definere hva som er viktigst for deg. 
+Er du fascinert over hybrid-prinsippet men forventer mer kraft, bør du ta en titt på ATIV Smart PC fra Samsung, Lenovo Thinkpad Twist eller Dell XPS Duo 12. 
+
+HP Envy x2 11-G001eo 

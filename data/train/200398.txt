@@ -1,0 +1,68 @@
+TEST:Ny Mac mini 
+
+Nå har den kommet og vi har sjekket den ut 
+
+Mac mini har kommet i helt ny utgave, kabinettet er laget med den samme aluminiumsteknikken som brukes i MacBook Pro. 
+
+Vi har tidligere skrevet om maskinen, du finner artikkelen her. 
+
+Vi har nå fått sjekket ut et eksemplar, her kommer våre erfaringer. 
+
+Førsteinntrykk 
+
+Innpakningen er ganske nett og kompakt og innholdet er en gedigen klump. 
+Det kjennes ut som en massiv aluminiumsblokk, som den en gang var i begynnelsen av produksjonsprosessen. 
+
+De akkurat litt for skarpe kantene vi kjenner fra MacBook Pro er på plass, det ser flott ut, men vi synes ikke det gir noen spesielt god følelse. 
+
+Men det er ikke til å unnslå at maskinen oser av kvalitet, og skiller seg kraftig ut fra nesten alt annet elektronisk utstyr som vi har befatning med. 
+Og det er en del. 
+
+Sammenligner vi med tidligere Mac mini-modeller er den nye større i fotavtrykk, men lavere i høyden. 
+
+Bakpanelet er praktisk og oversiktlig, og det eneste tilbehøret som følger med er en strømkabel og en overgang fra HDMI til DVI. 
+
+Oppkobling 
+
+Det er ikke mye å velge mellom hvis du skal velge resten av utstyret fra Apple for å få en Mac mini opp å kjøre. 
+De har en eneste skjerm på programmet, to tastaturer og en mus. 
+
+En slik kombinasjon blir også ganske dyr, Apple-skjermen på 24 tommer og 1920x1200 oppløsning ligger på 7790 kroner i tillegg til 6590 kroner som er den laveste prisen for en Mac mini . 
+Velger du derimot en komplett iMac med 21,5-tommers skjerm kommer den på 9490 kroner, og har bedre spesifikasjoner enn en Mac mini. 
+
+Det er forøvrig interessant å sammenligne med vår test av den første Mac mini fra januar 2005, da var den utstyrt med en G4 prosessor og 80 GB disk, og kostet 6 780 kroner med WLAN og Bluetooth. 
+
+Vi koblet maskinen med DVI til en gammel HP-skjerm med oppløsning på 1920x1200 og en tilfeldig kombinasjon av USB- tastatur og mus vi hadde liggende. 
+Alt foregikk uten problemer, OS X er stort sett helt uproblematisk når det gjelder tilkobling av nytt utstyr uansett produsent. 
+
+Mac mini har innebygget støtte for trådløst nett, og fanget opp flere nettverk enn de fleste andre maskiner vi har testet i disse områdene. 
+
+Nytt i denne modellen er at det er enkelt å åpne lokket på undersiden, hvis du vil sette inn mer minne. 
+
+I bruk 
+
+Mac mini bruker ikke den aller siste prosessorgenerasjonen fra Intel, men grafikken har blitt kraftig opprustet i forhold til tidligere. 
+Maskinen har en ytelse som oppleves som helt kurant til hjemmebruk. 
+
+Skal du ha noe som er påtagelig merkbart vassere må du over på Core i7, som vi har testet i de nye MacBook Pro'ene. 
+
+Geekbench Score på Mac mini var på 3380. 
+Til sammenligning klarer den største MacBook Pro-modellen 5766 og monsteret Mac Pro leverte hele 15 363! 
+
+En vanlig minibærbar, også kalt netbook, leverer typisk rundt 900. 
+Vi tipper mange vil bruke Mac mini i stua, og da er selvsagt støy et viktig poeng. 
+
+Her klarer minien seg bra: 
+Den støyer svært lite og blir heller ikke nevneverdig varm. 
+Det eneste vi hører er litt tikking fra harddisken når den er i bruk. 
+Viftestøyen er svært lav og helt uten pipetoner. 
+
+Konklusjon 
+
+Mac mini leverer rett og slett midt på treet ytelsesmessig, og er verken spesielt kraftig eller svak på noen typiske bruksområder. 
+Det som i første rekke skiller den ut fra andre alternativer er designet og formatet, hvorvidt det er noe som passer deg vet du best selv. 
+
+NB: 
+Vi har nå også prøvd Mac mini som mediecenter, og heller ikke der ble vi fullstendig overbevist. 
+Test: 
+Mac mini har en svakhet 

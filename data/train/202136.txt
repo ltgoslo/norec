@@ -1,0 +1,71 @@
+Planet WMRT-414 og WML-3565 MIMO
+Trådløst utstyr blir raskere og mer stabilt, vi har testet det siste fra Planet. 
+
+Trådløst nett har blitt allemannseie i Norge. 
+Om du bor på Grünerløkka, i Halden eller på Karmøy - ta deg en tur ut med den bærbare og du finner trådløse nett over alt der det bor folk. 
+
+LES OGSÅ: 
+
+Likevel er det noen som har problemer med dekning inne i sin egen bolig, kontor eller verksted. 
+Det skyldes bygningsmessige faktorer, materialer og forstyrrelser fra annet utstyr. 
+Resultatet er at signalene svekkes og kommunikasjonen bryter sammen. 
+
+MIMO-teknikken bruker flere antenner både hos sender og mottaker, og utnytter mønstre i refleksjonene som oppstår mellom signalene og omgivelsene. 
+Dette er en komplisert teknikk, men for oss brukere er den like enkel i bruk som annet trådløst utstyr. 
+
+Forskjellen er at MIMO-utstyr både har lengre rekkevidde og bedre dekning. 
+
+Tilkobling og installasjon 
+
+Planet WMRT-414 har en standard utførelse, det eneste som skiller den ut er de 3 antennene. 
+
+Baksiden har tilkobling for WAN og 4 LAN-porter - som praktisk talt alle andre trådløse rutere. 
+
+Alle tester ble gjort med WML-3565 som er et PCCard med MIMO. 
+
+Installasjonen blir sørget for av en norsk interaktiv installasjonsveiviser, som også kan vises som video. 
+
+Denne er tilrettelagt først og fremst for de som har ADSL eller kabelmodem uten pålogging eller ruterfunksjon. 
+De som har PPoE og rutermodem har det ikke like enkelt, men det er en norsk bruksanvisning i PDF på CD'en som forklarer det viktigste. 
+
+Avanserte fuksjoner 
+
+For mer avanserte oppsett må man ty til den engelske bruksanvisningen i PDF-format. 
+Her finner vi alle de kjente mulighetene, men heldigvis også oppsett for QoS som kan brukes både til å begrense og garantere båndbredde for tilknyttede brukere og forskjellige protokoller som er i bruk. 
+
+Likevel forskjell 
+
+Selv om grunnteknikken er den samme, viser våre målinger at det er forskjell mellom produkter baert på MIMO fra forskjellige leverandører. 
+Dette skyldes både komponentvalg og designet av enhetene. 
+
+I praksis oppleves forskjellene ikke så store som målingene viser, men dette er avhengig av bruksområdene. 
+Vi måler kontinuerlig overføring, som er viktig med nedlastning av større datamengder og avspilling av video. 
+For surfing og annen lett bruk merkes de målte forskjellene i langt mindre grad. 
+
+Den viktigste forskjellen er at med MIMO-utstyr er du nærmest garantert å få dekning i boligen, selv om den er på flere hundre kvadratmeter og i flere etasjer. 
+Unntak vil likevel kunne forekomme, men da er det snakk om tunge tilfeller... 
+
+Godkjent dekning 
+
+Vi testet Planet WMRT-414 og WML-3565 både i vårt test/kontormiljø og hjemme. 
+
+Dekningen fra testrommet ut i kontorlokalene, gjennom en 30 cm tykk betongvegg og en liten døråpning var uproblematisk. 
+Både innunder mesaninen av stål 30 meter borte fra åpningen og oppe på mesaninen bak perforerte stålplater fikk vi stabil kontakt. 
+
+Sammenlignet med vår testvinner fra Linksys var dekningen ikke like jevn i ytelse, men falt aldri ut, 
+
+på hjemmebane derimot, var ytelsen helt lik testvinneren, med utmerket dekning fra hemsen oppunder mønet til innerst i kjelleren. 
+
+Rekkevidden ut av huset var ikke like potent som Linksys SRX (rød sirkel), men likevel bedre enn ordinære trådløse rutere som typisk dekker innenfor blå sirkel. 
+
+Konklusjon 
+
+Planet WMRT-414 kombinert med WML-3565 er en god kombinasjon som matchet vår tesvinner på flere områder. 
+Det var bare i de ytterste områdene den ikke nådde helt opp. 
+Ønsker du å dele ut WLAN-signal langt utenfor egen bolig er dette et tema, ellers ikke. 
+
+Listepriser inkl. mva. er 1 250.- kroner for ruteren WMRT-414, PC-kortet WML-3565 ligger på 625.- kroner og et internt kort WML-8315 for stasjonære PCer er satt til 675.- kroner. 
+
+Priser ute i butikkene vil kunne avvike fra disse. 
+
+Forhandlere får du oppgitt ved å kontakte Telefonselskapet. 

@@ -1,0 +1,91 @@
+Fujitsu-Siemens Amilo D 8820
+Amilo D-serien har fått en kraftig oppgradering, uten at det har påvirket prisen. 
+Med 2,53 GHz prosessor, 60 GB harddisk, Radeon 9000-grafikk, 256 MB minne og USB2.0-porter er det her snakk om en fullgod erstatter for selv kraftige stasjonære maskiner. 
+
+Det er faktisk tredje gang vi tester en Amilo D-maskin siden i fjor vår. 
+Det er oppsiktsvekkende å se hvor mye mer du får for pengene nå enn den gang, og det er lite som tyder på at utviklingen vil stoppe her. 
+Bare i forhold til 8800, som vi testet i september 2002, er forbedringene nærmest å regne som revolusjonerende, med blant annet dobbelt så mye minne, tre ganger raskere grafikk og dobbelt så stor harddisk, til lavere pris. 
+
+LES OGSÅ: 
+
+Skal kapre kjøpere fra stasjonær-markedet 
+
+Fujitsu-Siemens har ett mål for øyet med Amilo D 8820; å tilby en bærbar PC med ytelse, utstyrsnivå som kan matche dagens kraftige stasjonære PCer, til en pris som som skal lokke i stedet for å skremme. 
+Det mener vi de langt på vei har klart. 
+Forhold som størrelse og vekt er sannsynligvis mindre viktig for målgruppen, og spesielt sistnevnte på 3,7 kg er nok til å avskrive kjøpere som først og fremst har fokus på mobilitet. 
+
+Listen med spesifikasjoner er en fryd for øyet for alle som ønsker det siste og beste. 
+I maskinen sitter det en 2,53 GHz desktop P4-prosessor, 256 MB minne, en harddisk på hele 60 GB, og verdens raskeste grafikkbrikke for bærbare PCer (ATI Mobility Radeon 9000). 
+Så her er det bare å installere de siste og mest avanserte spill og 3D-applikasjoner - de vil alle gå som smurt. 
+
+Skjermen er stor og god - 15" og med en oppløsning på 1400 x 1050 punkter, som gir plass til mange vinduer samtidig. 
+En perfekt oppløsning for denne skjermstørrelsen, mener vi. 
+
+De innebygde høyttalerne sitter i forkant på venstre og høyre side, og gir faktisk ganske god lyd, sammenlignet med mange andre PCer vi har testet. 
+Men fortsatt kan ingen løsning måle seg med Harman Kardon-høyttalerne på Toshiba Satellite 5210. 
+
+Endelig USB2.0, og hva skal vi savne da? 
+
+For øvrig er maskinen utstyrt med en kombinert DVD-ROM (8x) og CD-brenner (16x12x24), diskettstasjon, parallellport, standard seriellport, VGA-utgang, TV-utgang, 2x PCMCIA, firewire-port, og endelig har vi testet en PC med USB2.0-porter (2 stk). 
+
+Når vi legger til at både nettverk (10/100 mbit) og 56 KB modem er innebygd, er det ikke mye igjen som savnes. 
+Det måtte i tilfelle være infrarød kommunikasjon, trådløst nettverk, og en USB2.0-port til eller to, men uansett snakker vi her om en av de mest velutstyrte bærbare PCene som finnes på det norske markedet akkurat nå. 
+
+"Gammel" innpakning 
+
+Selve innpakningen er som på D 8800, fortsatt i relativt anonym gråblå plast. 
+Vi synes at det godt kunne vært aluminiums-lokk, som på Amilo A, for ekstra stød til skjermen, men det er ikke dermed sagt at innpakningen er svak, for det er den ikke. 
+Maskinen er stor, men ikke så stor som de nye Toshiba Satellitene, og den høye vekten på 3,7 kg skyldes blant annet et stort og tungt Li-ion batteri. 
+
+Plasseringen av stasjoner, utganger og tilkoblinger virker gjennomtenkte, med DVD/CDRW-i front og diskettstasjon til venstre, PCMCIA-porter til høyre. 
+Alle utganger er på baksiden, og det kan vi godt like. 
+Firewire og lydinnganger ligger under diskettstasjonen på venstresiden. 
+Her finner du også et praktisk hjul for å justere lydnivået, noe som ofte er knotete å justere på mange andre maskiner. 
+
+Tastaturløsningen er tilfredsstillende, med ekstra stor returtast og logisk plassering av samtlige taster. 
+Pekeplaten under tastaturet har to knapper og i tillegg en firedelt knapp som simulerer scrolling til venstre, høyre, opp og ned. 
+I tillegg finnes hurtigknapper for å åpne nettleser og epost, samt tre programmerbare knapper. 
+Supert! 
+
+Kontinuerlig viftesus 
+
+Det kan virke som om kjøleløsningen består av to vifter, det er i hvertfall to utblåsninger, en bak og en på høyresiden. 
+Det kan nesten virke som om det kjøles mer enn det er behov for, for maskinen blir aldri mer enn lunken på undersiden. 
+Det er viktig å være klar over at den kraftige kjølingen gjør at viftene stort sett går kontinuerlig under bruk. 
+Noen vil sikkert finne dette noe støyende, men noen ganger kan det nesten være mer forstyrrende med vifter som slår seg av og på hele tiden. 
+VI har også opplevd vifter som har avgitt mer høyfrekvent støy enn på denne. 
+
+Amilo D 8820 leveres med Windows XP Home Edition, norsk versjon. 
+Du får også med kontorpakken Works fra Microsoft, som inkluderer Word XP, og første versjon av Adobe Photoshop Elements. 
+Det er ikke verst! 
+
+Finn frem fartsdressen 
+
+Hva så med ytelsen? 
+Vi kjente allerede til den suverene grafikkbrikken fra blant andre Dell Inspiron 8200-testen, så vi ble ikke overrasket over en grafikkytelse som var mer enn tredoblet fra 8800. 
+På grunn av den kraftige prosessoren oppnådde vi de høyeste grafikkytelsestallene vi noen gang har målt, og både minne og harddisken fra Fujitsu følger med. 
+Rekordene falt, også i MP3-kompresjonstesten, der 290 MB med WAV-filer ble komprimert i løpet av 1 minutt og 51 sekunder. 
+Det var første gang vi brøt 2 minutters-grensa. 
+
+Totalt sett opplevde vi ikke en eneste gang at en oppgave lugget på noen som helst måte, verken tung grafikk i Adobe Photoshop, Unreal Tournament 2 i full oppløsning eller andre oppgaver. 
+Her blir ikke ytelseshungrige skuffet! 
+
+Batteriet holdt ut i nesten 2 1/2 time. 
+Det er ingen tvil om at grafikk og prosessor i 8820 krever mer enn 8800, som holdt ut vesentlig lengre. 
+Uansett er 2 1/2 godkjent, og omtrent midt på treet, også sammenlignet med mobile-baserte PCer. 
+
+For flere detaljer omkring ytelsestall viser vi til de tekniske egenskapene, som du finner lenke til under i boksen med terningkast. 
+
+Konklusjon 
+
+Vi ble fort glade i Amilo D 8820. 
+Den er behagelig å bruke, har utstyrsnivå som det står respekt av, og yter til gull. 
+
+OPPDATERT 10.7.2003: 
+Prisen er satt ned til 12.990 kroner (web-pris Komplett.no) 
+
+Totalt sett får du all den kraft du kan begjære, og inkludert i prisen får du nok programmer til å komme i gang med arbeidet . 
+
+Det eneste vi finner det nødvendig å gjøre oppmerksom på, er vifta som går kontinuerlig, og som genererer et jevnt sus enkelte nok vil oppfatte som noe forstyrrende. 
+Og er du ute etter en lettvekter bør du kikke en annen vei. 
+Til alle dere andre har vi ingen problemer med å anbefale Fujitsu-Siemens Amilo D 8820 på det sterkeste. 

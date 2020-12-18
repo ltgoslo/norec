@@ -1,0 +1,129 @@
+Asus VivoBook U38N
+Svært lekker og rimelig PC med full HD berøringsskjerm. 
+Vi har testet. 
+
+PC-er med berøringsskjerm er i vinden, og det er først og fremst Windows 8 vi har å takke for det. 
+Vi har den siste tiden testet en rekke såkalte hybrid-modeller, som med enkle grep kan gjøres om til nettbrett. 
+
+VivoBook U38N er derimot en tradisjonell PC, men den har altså berøringsskjerm. 
+Modellen minner sterkt om Zenbook UX31A og UX32VD, men her har Asus brukt AMD-innmat, noe som har gjort det mulig å prise modellen noe lavere. 
+
+Her er en rask titt på de viktigste egenskapene: 
+
+Skjerm: 13,3" IPS full HD (1920 x 1080), blank med berøringsstøtte Prosessor: 
+AMD A8-4555M RAM: 
+4 GB (2 GB loddet, 2 GB i utvidelsesspor) Grafikkort: 
+Radeon HD 7600G Lagring: 500 GB harddisk, 5400 rpm Optisk drev: 
+Nei Skjermutganger: 
+HDMI + VGA 
+(Sistnevnte krever overgang) USB-porter: 3 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+MMC/SD(HC) 
+Trådløst nett: a/b/g/n Kablet nett: 
+Ja, 10/100 Mbit via USB (overgang følger med) Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 norsk, 64 bit Størrelse: 327 × 18,6 × 227 mm Vekt: 
+1588 gram (DinSides egen måling) Pris: ca 6000 kroner inkl mva (jf Prisjakt 27.2.2013) 
+
+Dette er typiske Ultrabook-spesifikasjoner, om vi da ser bort fra at den er utstyrt med AMD-prosessor, vanlig harddisk uten SSD-del, og AMD-grafikk. 
+Det har gjort den 2000 kroner billigere enn UX32VD, som har et chassis som er helt likt - men som leveres med matt skjerm. 
+
+Hva disse forskjellene har å si for totalopplevelsen, kommer vi snart inn på. 
+
+Utseendemessig er det også store likheter med UX31A, med sitt solide aluminiums-kabinett. 
+Men i motsetning til de to nevnte maskinene mangler U38N det sirkelformede mønsteret i lokket - her er den bare matt over det hele. 
+
+Men den er litt tykkere på det tynneste enn UX31A, og vekten er noe høyere, mest sannsynlig på grunn av harddisken (som for øvrig er utskiftbar). 
+
+Fingeravtrykk vises nesten ikke, verken på inn- eller utsiden. 
+
+Designen er i våre øyne meget god, og utførelsen virker solid og gjennomtenkt. 
+Likhetstrekkene med MacBook Air er mange, ikke minst den lett skrånende designen fra siden. 
+
+Lett å bytte disk 
+
+Bunnplaten er beskyttet av en heltrukket aluminiumsplate, godt skrudd fast av 12 torx-skruer (T6): 
+
+Du må løsne dem alle for å få tilgang til innmaten, men da får du enkelt tilgang til minne- og harddisk. 
+2 GB RAM er loddet til hovedkortet. 
+I tillegg sitter en minnebrikke er på 2 GB i et SO-DIMM-sport, som skal kunne byttes ut med en 8 GB-brikke, slik at man får maks 10 GB. 
+Harddisken vil helt sikkert mange velge å bytte ut med en raskere SSD, og vi har full forståelse for det. 
+
+Meget bra skjerm 
+
+Skjermen er blank og benytter et IPS-panel med full HD-oppløsning, 1920 x 1080. 
+Bilder blir sylskarpe, tekst blir liten, men skarp, og du får plass til svært mye informasjon i skjermbildet. 
+Lysstyrken er ikke fullt så god som på Samsungs nye 9-serie, men er absolutt meget bra - blant annet med innsyn fra nesten død vinkel fra alle fire sider. 
+
+Tastaturet er fast og fint, og avgir lite støy under skriving. 
+Det er baklyst, med justerbar styrke, det samme som vi kjenner fra UX32VD og UX31A. 
+
+Pekeplaten er multifølsom, stor og har integrerte venstre- og høyreknapper. 
+Takket være oppdaterte drivere fra Asus er den langt mindre følsom enn den var på vårt testeksemplar av UX31A, og fungerer i det hele tatt fint nå. 
+
+Bra lyd 
+
+Høyttalerne er merket Bang & Olufsen ICEpower, og lyden er slett ikke verst for å komme fra en syltynn maskin, men har naturligvis sine begrensninger, spesielt på bass. 
+Greit nok til lett bakgrunnsmusikk, YouTube og nett-TV, og det er nok også hensikten. 
+
+Strømpluggen har en praktisk 90-graders knekk, noe vi liker bedre enn dem som stikker rett ut. 
+Slike er blant annet ofte mer utsatt for brudd. 
+
+Slik er den i bruk 
+
+Maskinen kommer med en del forhåndsinstallert programvare, inkludert nettsikkerhetspakke fra McAfee (prøveversjon). 
+Den virker irriterende, og kommer med temmelig mange unødvendige advarsler, blant annet om å aktivere og betale for å fortsatt være sikret etter prøveversjonen. 
+Husk at Windows 8 har innebygde sikkerhetsprogrammer og rutiner, og vil være tilstrekkelig for mange - dersom du ønsker å avinstallere McAfee-pakken. 
+
+Det vil vi nesten anbefale, for U38N responderer ikke så raskt som sine dyrere søsken. 
+Det er rett og slett en tregere PC, og det merkes, spesielt når du jobber med flere programmer samtidig. 
+Noe av skylden ligger hos den noe enklere prosessoren, og noe i bruk av harddisk - som i tillegg ikke er utstyrt med noen SSD-del som kunne bufret programmer og filer du bruker ofte. 
+
+Støynivået på maskinen er generelt lavt, men de to viftene går mer eller mindre konstant. 
+De er uansett riktig nok stillegående, men en Ultrabook basert på Intel vil i de fleste tilfeller være mer stillegående. 
+Maskinen holder seg imidlertid fin og kjølig selv under tyngre belastninger. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 5,8 Minne: 5,9 Grafikk: 
+5,8 Spillgrafikk: 
+6,6 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsestallene mot de Intel-utstyrte søsknene: 
+
+Som ventet er prosessorytelsen vesentlig lavere på denne strømsparende varianten fra AMD enn fra konkurrerende i5 ULV-prosessorer fra Intel. 
+Det behøver du ikke å merke så mye til på vanlige, lette oppgaver - men på tyngre oppgaver som spill, videoredigering og lignende - samt ved fleroppgavekjøring, vil det kunne være godt merkbart. 
+
+Her ligger faktisk ytelsen litt over Intel HD 4000, men noen spill-PC er dette uansett ikke. 
+Den kan nok spille noen av de nye spillene, men ikke med særlig detaljdybde og høy oppløsning. 
+Til video av alle formater og størrelser er den imidlertid mer enn kraftig nok. 
+
+Som du ser er SSD-en i UX31A milevis foran harddiskene i UX32VD og U38N. 
+Hybriddisken i UX32VD vil imidlertid være rask på filer og programmer du bruker ofte, takket være 32 GB SSD-del som brukes til bufring. 
+Dette mangler U38N. 
+
+Litt kortere batteritid 
+
+Eksemplaret vi fikk til test var stilt inn på et strømprogram som gav maks ytelse, så selv uten at maskinen var satt til å gjøre noe som helst holdt batteriet kun i underkant av fire timer. 
+Ved å avinstallere strømstyreprogrammet fra Asus, valgte vi balansert ytelse, og da holdt batteriet i fem timer før det var tomt - fortsatt med minimal belastning. 
+
+Tallene for U38N er ikke helt nøyaktige fordi vi ikke fikk strømstyringsprogrammet til Asus til å fungere som det skulle. 
+De gir imidlertid en sannsynlig indikasjon 
+
+Ifølge Asus skal batteriet imidlertid holde til rundt 6 timer bruk. 
+Vår erfaring med AMD-baserte PC-er, også siste generasjon (Trinity) er at batteritiden synker raskere enn på tilsvarende basert på Intel så snart de blir utsatt for en viss belastning - for eksempel videoavspilling. 
+Basert på våre erfaringer vil rundt 4 timer være nærmere sannheten under variert bruk. 
+Det er (som ventet) noe kortere tid enn de fleste konkurrerende i ultratynn-klassen. 
+
+Konklusjon 
+
+Ingen tvil om at dette er en lekker og robust PC med svært god skjerm. 
+Du får den hele 2000 kroner billigere enn tilsvarende PC med Intel-basert prosessor, grafikk og hybriddisk. 
+Det er mye, med tanke på at maskinene ellers nesten er identiske. 
+Litt lavere ytelse må du imidlertid tåle, også på batteritid. 
+Derfor lander vi på en firer på terningen, en sterk sådan. 
+For dette er slett ikke noe dårlig kjøp. 
+
+Asus U38N-C4010H 

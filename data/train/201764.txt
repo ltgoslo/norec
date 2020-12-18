@@ -1,0 +1,38 @@
+Lynrask disk i bærbar
+Vår gamle harddisk tok kvelden, og vi har montert inn en ny Seagate Momentus på 7200 omdreininger. 
+Blir det fartsfest? 
+
+Standard rotasjonshastighet for harddisker i bæbare er 5400 omdreininger i minuttet. 
+Dette gir en lesehastighet på i underkant av 40 MB/sekund på moderne disker og lesehastigheten ligger på omtrent samme nivå. 
+
+Dette er helt kurante data, men det finnes disker som presterer bedre. 
+Disse roterer med 7200 omdreininger i minuttet, og har samme datatetthet på platene. 
+Dermed blir hastigheten i teorien en tredjedel raskere ved å installere en slik disk. 
+
+Men en eldre disk, som du finner i bærbare som er noen år gamle, har ikke samme datatetthet på platene. 
+Derfor blir forskjellen mellom en eldre 5400 disk og en ny 7200 vesentlig høyere. 
+
+Dessuten har nye 7200 disker mindre strømforbruk og lavere temperatur enn eldre 5400 disker, så batterilevetiden vil i mange tilfelle ikke bli dårligere enn tidligere. 
+
+Forleden dag tok Toshiba 40 GB harddisken i vår bærbare kvelden, og vi bestemte oss for å spandere de ekstra lappene som en 7200 RPM disk koster. 
+Faktisk er prisforskjellen enda litt større enn den teoretiske forskjellen i hastighet, den er nesten 50% dyrere, avhengig av hvor man handler. 
+
+Vi betalte 890 kroner over disk(!) for en 100 GB Seagate Momentus 7200, hadde vi klart oss med en 5400 RPM med samme kapasitet fra Hitachi hadde vi bare måttet ut med 602 kroner. 
+
+Installasjon av den nye disken krever bare noen minutter med skrutrekker, du finner bilder av prosessen her. 
+
+Stor forskjell 
+
+Vi merket allerede ved installasjonen at dette gikk vesentlig raskere unna enn med den gamle disken. 
+Vi har nemlig 2 praktisk talt like Dell 8600 (forskjellen er i skjermoppløsning og prosessorhastighet), og i sommer reinstallerte vi alt på den andre maskinen fra bunnen av. 
+
+Når vi nå installerte Windows XP på den nye, større og raskere disken var det en helt annen respons. 
+
+Testmålingene både fra HD Tach og vårt eget testprogram bekrefter også dette. 
+
+Diskytelsen ble faktisk mer enn doblet! 
+
+Konklusjon 
+
+Synes du din bærbare fra et par år tilbake begynner å bli treg? 
+Ny disk på 7200 RPM og gjerne litt mer minne - så oppleves det som du får en ny maskin! 

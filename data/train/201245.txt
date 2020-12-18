@@ -1,0 +1,220 @@
+HTC Sensation
+HTCs flaggskip har mye krutt under panseret. 
+I hvert fall på papiret. 
+
+Denne våren er det først og fremst to Android-telefoner som mange venter på, eller tre dersom vi regner med LG Optimus 3D, som heller ikke er mange ukene unna. 
+
+Toppmodellene fra HTC og Samsung har begge dobbeltkjerneprosessorer med 1,2GHz klokkefrekvens, 4,3 tommers skjermer og 8 megapikslers kamera. 
+
+Visse spesifikasjoner er også ulike, der Sensation blant annet har høyere oppløsning på skjermen (540x960), søkeknapp og varsellampe (LED), mens Galaxy S II har større arbeidsminne, internminne og høyere oppgitt batterilevetid. 
+Både CPU og grafikkprosessor er dessuten ulike, selv om prosessorene opererer på samme klokkefrekvens. 
+
+Siden vi vet at mange lesere vurderer disse to som de mest aktuelle innkjøpene denne våren, har vi derfor klamret oss fast i testeksemplaret av Galaxy S II for å sammenligne vårens to toppmodeller side om side, men det er uansett HTC Sensation har hovedrollen i denne artikkelen. 
+
+Konstruksjon 
+
+HTC Sensation oser av kvalitet og føles svært behagelig i hånda. 
+Det mest påfallende er den konkave skjermen som buer innover. 
+Det gjør det mer behagelig f.eks. å flytte ikoner over skjermkanten, men sørger også for at skjermen aldri er i kontakt med underlaget når du legger telefonen opp ned på en flate. 
+Skjermen på HTC Sensation er dessuten beskyttet med såkalt gorilla glass og er derfor ekstra godt beskyttet mot riper fra nøkler eller andre ting du måtte ha i samme lomme (det er for øvrig Galaxy S II også). 
+
+Drar vi av bakdekselet (som for øvrig er uvanlig knotete der en veldig tynn "knapp" må trykkes inn) er det også interessant å se at HTC har flyttet mye teknologi til selve deskelet. 
+Det gjør blant annet at antennen er plassert på innsiden av dekselet i stedet for på siden av telefonen og gjør at Sensation derfor er bygget bittelitt smalere enn S II (0,7mm for å være nøyaktig). 
+Innsiden viser også at micro SD-kortet kan byttes uten å ta ut batteriet, noe som ikke er mulig på S II. 
+Ved siden av kameraet er det også plassert 2x LED-pærer som virkelig lyser opp i mørket og gjør telefonen velegnet som lommelykt (app følger med). 
+
+Som på øvrige HTC-telefoner er av og på-knappen plassert på toppen av telefonen sammen med 3,5mm-uttaket, og volumknappene på venstre side. 
+Også USB-uttaket (som brukes til lading) er plassert på venstre side, og det gjør det noe ukomfortabelt å bruke telefonen mens den lader, men er i følge de vi har snakket med hos HTC plassert der for å gjøre det lettere å docke telefonen i eventuelt ekstrautstyr senere. 
+USB-porten er for øvrig av MHL-typen, som gjør at de med riktig kabel kan kobles til en HDTV. 
+
+LCD-skjermen er 4,3 tommer over diagonalen og har oppløsning på 540x960 piksler. 
+Det betyr med andre ord at den er i 16:9-format; nøyaktig en fjerdedels oppløsning av full HD. 
+I dagens marked betyr det at bare iPhone 4 har høyere oppløsning, med 640x960 piksler, men de er fordelt over "bare" 3,5 tommer, så pikseltettheten er vesentlig høyere på Apple-telefonen. 
+
+Side om side med Super AMOLED Plus-skjermen på Galaxy S II er det først og fremst på lysstyrke Sensation scorer best; vel å merke når den skrus til det maksimale. 
+På auto-innstillingen virker Sensation jevnt over å være hakket mer konservativ slik at bildet jevnt over blir noe mørkere, men som vi skal se lenger ned bruker skjermen mer strøm likefullt. 
+
+Sensation-skjermen kommer allikevel til kort mot Galaxy S II, med sitt vanvittige sortnivå og fargemetning. 
+Sensation har i tillegg relativt svak innsynsvinkel, men synes godt i sollys – vel å merke om du ser vinkelrett på skjermen. 
+Skal vi være helt ærlige er ikke den økte oppløsningen noe man tenker over i daglig bruk – ved nøye inspisering av de minste fontene er de hakket mer lesbare på Sensation, men bildeprosessoren i S II skarper opp bildene, slik at bilder på nettsider o.l. faktisk oppleves skarpere (og mer fargerike) på S II. 
+
+Og lysstyrkemessig kommer begge telefonene til kort mot LG Optimus Black, som vi også har inne til test denne uka. 
+
+En ting vi savner på S II var en LED-pære i fronten til varsling av tapte anrop, SMS etc. – dette er på plass på Sensation. 
+HTC-telefonen har også en dedikert søkeknapp på undersiden av skjermen (berøringsfølsomme knapper) som fungerer på tvers av applikasjoner, selv om mange også lystrer dersom du holder menyknappen nede på S II, hvorpå du får samme effekt som å trykke på søkeknappen. 
+
+Som du ser av tabellen over er også vekten ganske forskjellig - S II er oppsiktsvekkende lett med sine 116 gram, mens Sensation veier 148g – uten at det er for tungt; snarere gir det en kvalitetsfølelse. 
+iPhone 4 veier til sammenligning 137 gram, men har også et mindre fotavtrykk enn Sensation. 
+
+Sense 3.0 
+
+Sensation er den første HTC-telefonen som kommer med siste utgave av Sense; versjon 3.0 – den samme som finnes på HTC Flyer; nettbrettet fra HTC som var med i DinSides test av nettbrett forleden dag. 
+
+For å ta det positive først – Sense er kanskje det mest omfattende Android-skallet, med en god del finesser. 
+Integrasjonen mot sosiale nettjenester er svært god (inkl ganske smart og automatisert kobling av Facebook-informasjon pr kontakt), det finnes et hav av tilpasningsmuligheter (bakgrunner, widgets etc) og en rekke små, kjekke funksjoner, som muligheten til å stoppe ringelyden ved å snu telefonen (finnes også på Galaxy S II), at telefonen ringer høyere dersom den befinner seg i en lomme eller veske, eller at du kan aktivere den eksterne høyttaleren ved å vri telefonen nitti grader mens du prater. 
+
+Nyvinningene i Sense 3.0 faller vi derimot ikke helt for. 
+Låsskjermen har nå fått ikoner til applikasjoner som kan dras inn i en ring for direkte tilgang, men for at den skal bli effektiv forutsetter det at du ikke låser telefonen, og med så mye privat som er lagret på dagens smarttelefoner er det i hvert fall i våre øyne uaktuelt ikke å låse den. 
+Med kodelås aktivert starter vi derfor kameraet akkurat like raskt på en hvilken som helst annen telefon. 
+Hadde HTC gitt oss muligheten til å starte f.eks. kameraet uten å måtte låse opp telefonen, ville dette ha vært en genuint nyttig funksjon. 
+
+Låsskjermen har også støtte for enkelte widgets. 
+Vi liker ideen der de siste Facebook-oppdateringene flyr over skjermen, og der du kan lese én og én ved å sveipe til siden. 
+Har du lyst til å kommentere, drar du den inn i ringen og kommer inn på riktig plass i Facebook-applikasjonen. 
+Men – denne oppdateres ikke i sanntid og de nyeste oppdateringene kan være et par timer gamle. 
+Det hender også at telefonen må laste 3-4 sekunder når du slår den på for å hente oppdateringer, og da går vinninga opp i spinninga. 
+
+En annen nyhet er at hjemmeskjermene nå er plassert i en slags tredimensjonal kube. 
+Heller ikke dette har noen praktisk betydning annet enn utseendemessig, men til tross for alt kruttet under panseret er ikke overgangene helt flytende, og da blir det ikke fullt så imponerende – selv om responsen er svært god når du sveiper fra side til side. 
+Det kan også være vanskeligere å orientere seg når man ikke har noen indikatorer på hvilket "sidenummer" man er på, men et trykk på hjemmeknappen gir deg uansett det vanlige overblikket. 
+
+Sense legger også beslag på en del av arbeidsminnet – rundt 130MB etter våre målinger, og i tillegg tar f.eks. Friend Stream-widgeten (på låsskjermen) ca 51MB. 
+
+Medfølgende apps 
+
+Den mest spennende appen er uten tvil HTC Watch, som lanseres 15. juni her til lands. 
+Den gjør at HTC-brukere kan kjøpe og leie filmer direkte på telefonen, og HTC har lovet oss svært godt utvalg med nye filmer; enkelte før de kommer på kino i Norge. 
+Det er fordi vi får tilgang til UK-innholdet, som igjen betyr at norske undertekster ikke blir å finne i løsningen. 
+Forløpig er det kun en håndfull trailere å spore: 
+
+Hvor godt akkurat dette fungerer tar vi i en egen artikkel ved lansering. 
+
+Friend Stream samler oppdateringer fra sosiale nettverk, og i HTC 
+Hub kan du laste ned en god håndfull temaer, skall, widgets, ringetoner etc. 
+Dog skal det nevnes at vi et par ganger har oppleved problemer med å logge inn og aksessere tjenesten. 
+
+HTC Likes er ikke annet en en redaksjonell oversikt over anbefalte Android-apps fra HTC, og også Android Market-applikasjonen er modifisert slik at knappen som vanligvis tar deg til programmene du har lastet ned er byttet ut med HTC Likes-applikasjonen. 
+Det er vi ikke så fan av. 
+
+Locations er derimot en ganske kjekk applikasjon, som lar deg se shoppingmuligheter, bensinstasjoner, parkeringsplasser, minibanker etc. i nærheten av der du er, og var overraskende oppdatert selv i Moss, der undertegnede bor. 
+Du får også med en DLNA-app (som lar deg spille av musikk, film eller bilder på en annen DLNA-enhet i samme trådløse nettverk), samt en ebokleser som leveres av Kobo. 
+Ellers følger det med apps for lommelykt (med tre grader av lysstyrke) og speil, som bare viser bildet i frontkameraet. 
+
+Ellers skal HTC også ha ros for et svært godt standardtastatur, og selv om vi alltid bytter det ut med Swiftkey, er det ingen tvil om at standardtastaturet er svært godt å skrive på; spesielt når skjermen er av denne størrelsen. 
+Vi opplever dog ikke digitizeren å være like presis som f.eks. iPhone eller Galaxy S II, der vi ofte føler at vi må trykke bittelitt over lenka vi ønsker å trykke på dersom det er mange av dem i en klynge. 
+Sensation-skjermen begrenser seg også til fire samtidige berøringer, mens Galaxy S II har 10, uten at det har noen praktisk betydning i hverdagen. 
+
+Enkelte av standardapplikasjonene er også modifisert, som for eksempel epostklienten, som har fått godt med funksjonalitet og kan tilpasses med ulike skriftstørrelser etc. 
+Nettleseren utnytter også plassen godt ved å bruke liten plass på adressefeltet, og skyver også bort varsellinjen når du surfer, noe som selvsagt både er positivt og negativt. 
+
+HTCsense.com 
+
+På de siste HTC-telefonene vi har testet, har vi hatt trøbbel med HTCsense.com; en nettjeneste som lar deg spore telefonen, låse den, slette den, samt viderekoble SMS og anrop. 
+Vi har trykket på låseknappen, fått beskjed om at telefonen er låst, men det har slett ikke vært tilfelle. 
+
+Det er derfor veldig gledelig å se at HTC ser ut til å ha fikset tjenesten, for nå fungerer det utmerket. 
+Spesielt liker vi låsefunksjonen. 
+Hvis du mister telefonen din, går du inn på nettsidene, trykker "lås" og kan deretter angi en PIN-kode (som gjør at du kan låse opp telefonen dersom du finner den selv), en melding til finneren og ett telefonnummer finneren får lov til å ringe – uten å låse opp. 
+Vi lot være å slette telefonen, men har all grunn til å tro at dette da også vil fungere. 
+
+Ytelse 
+
+Vi har et utvalg ytelsesprogrammer vi kjører på testmodellene, og på papiret skulle man tro at Sensation og Galaxy S II var omtrent like raske, siden de begge har en dobbeltkjerneprosessor på 1,2GHz. 
+Det er imidertid ikke tilfelle, og det til Sensations disfavør. 
+
+Nå skal det sies at mange av ytelsestestene sannsynligvis ikke tar høyde for oppløsningen på telefonen, og at enkelte tall derfor ikke er direkte sammenlignbare. 
+Men Electopia-testen, som måler både CPU og grafikk, lar seg kjøre med samme oppløsning på begge enhetene. 
+Og tallenes tale er klar: 
+Mens Sensation klarer å levere drøye 23 bilder i sekundet, var tilsvarende score 36 på Galaxy S II. 
+
+Vi har kjørt totalt elleve ytelsestester på telefonene, og Galaxy S II var raskest i samtlige grener. 
+Den velkjente Quadrant Standard-testen vinner Samsung med 3415 mot 1840, og selv om dette kan dreie seg om forskjell i oppløsning, fikk vi over 2000 poeng i samme test med Asus EEE Pad Transformer i forrige uke, og der er skjermoppløsningen 1280x800. 
+
+Enkelte av testene er heller ikke avhengig av oppløsning. 
+CPU Benchmark måler hastigheten på prosessoren, og der Galaxy S II klokker inn på 361ms, får vi ikke bedre enn 815ms på samme regneoperasjon på Sensation. 
+SunSpider-testen, som måler javascript-ytelse i nettleseren, viser også slående forskjeller – 3729ms på Galaxy S II mot overraskende lave 6359 på Sensation. 
+
+Noen av testene gir oss også mindre forskjeller – BenchmarkPi (som måler hvor raskt prosessoren klarer å regne ut desimaler av Pi) gir 585ms vs 628ms og Linpack 46.138 vs 45.636. 
+Allikevel, altså – ikke på én av testene er HTC Sensation raskere enn Galaxy S II. 
+
+Syntetiske tester er én ting, men spiller liten rolle hvis ikke det reflekteres i praktisk bruk. 
+
+Dessverre for HTC er det faktisk også forskjeller i daglig bruk. 
+Galaxy S II er rett og slett mer snappy over hele fjøla. 
+Hjemmeskjermen animeres mer flytende, og mens Sensation har et par ufrivillige pauser her og der mens man bruker telefonen, opplever vi det så og si aldri på S II. 
+På nettsurfing lastes 9 av 10 sider kjappere på S II, og surfeopplevelsen er det rett og slett klasseforskjell på. 
+
+Under ser du en videosnutt som viser noe av forskjellen. 
+Selv om selve "flyten" ikke vises så godt, ser du allikevel at Galaxy S II (til venstre) laster siden raskere og også er bedre på å zoome inn når du dobbelttrykker. 
+
+Mens Galaxy S II skroller særdeles flytende selv over nettsider med mye Flash-innhold (den eneste telefonen vi har testet som håndterer dette bedre enn iPhone 4), er det fortsatt litt hakkete på Sensation. 
+S II har også en meget godt implementert zoomfunksjon når man dobbeltklikker på et avsnitt (på samme måte som iPhone), men her er heller ikke "intelligensen" like god på Sensation, der man ofte blir nødt til å zoome litt ut igjen for å få med seg hele bredden på avsnittet. 
+
+Vi stiller oss noe undrende til at forskjellene er såpass åpenbare, men har friskt i minnet at HTC valgte en enkeltkjerne 1,5GHz i HTC Flyer, der de argumenterte med at Android ikke hadde god nok støtte for multitråding. 
+Forklaringen er derfor at Samsung har optimalisert koden blant annet for nettleseren for å støtte dobbeltkjerneprosessorer bedre (det har vi fått bekreftet via Samsung Norge), som igjen kan bety at en fremtidig software-oppgradering kan gjøre Sensation raskere. 
+
+Foreløpig er det imidlertid ingen tvil – Galaxy S II er en raskere telefon enn HTC Sensation, og vi hadde forventet bedre ytelse ut fra spesifikasjonene. 
+
+Multimedia 
+
+Kjører vi igjennom vår video-testsuite med et par dusin videofiler, ser vi at Sensation ikke har så veldig god videostøtte – eller rettere sagt; omtrent like god som den jevne Android-telefon. 
+Filmer i Xvid-format spiller av fint i 720p, mens MP4/H.264 spilles greit, dog ikke uten en og annen lugging innimellom. 
+
+Via en tredjepartsspiller som Moboplayer klarer telefonen også å spille av f.eks. 1080p H.264-filer i .mkv-konteiner, men ikke uten små pauser både i lyd- og bildestrømmen. 
+Dette klarer S II rett ut av boksen, og det med fantastisk sortnivå og farger. 
+
+Kamera 
+
+Kameraet på HTC Sensation er greit nok, men heller ikke her kan det måle seg med Galaxy S II. 
+Én ting er at detaljnivået er svakt, men kameraet i Sensation har også trøbbel med å få riktig hvitbalanse, der utendørsbilder ofte får et rosaskjær, og undereksponerer dessuten svært ofte bildene (der detaljer i de mørkeste fargene forsvinner). 
+Filene komprimeres også i høy grad, og spesielt på uniforme flater synes JPG-komprimeringen tydelig. 
+
+Under ser du to 1:1-utsnitt; først fra Sensation og deretter fra Galaxy S II: 
+
+Sammenlignet med S II ser vi også at kameraet i Sensation har dårlig vidvinkel, og du får derfor med et vesentlig mindre bildeutsnitt på Sensation enn hva tilfellet er for S II. 
+
+Videokvaliteten følger samme mal, der videofilene fra Sensation har langt færre detaljer enn de S II spytter ut. 
+Under ser du et 1:1-utsnitt fra et videopptak: 
+
+Så Galaxy S II: 
+
+Allikevel må vi berømme HTC for lydkvaliteten på videoopptakene, som er langt klarere enn hva tilfelle er for Samsung-telefonen. 
+Lyden er også i stereo, i motsetning til mono-opptakene på Galaxy S II. 
+
+Lydkvalitet 
+
+Talekvaliteten er meget god på HTC Sensation, og både vi og motparten hører hverandre godt når vi ringer. 
+Sammenlignet med Galaxy S II finner vi sistnevnte å ha ørlite klarere lyd (det samme syntes motparten), men volumet kan stilles høyere på Sensation, som gjør den enda litt bedre egnet i støyende miljøer. 
+
+Den eksterne høyttaleren spiller imidlertid ikke så høyt og gir et svært diskantbasert lydbilde – høyttaleren låter bedre på S II og er i tillegg i stand til å spille høyere. 
+Med hodetelefoner plugget i var det vanskelig å skille maksvolumet, så her stiller de to ganske likt. 
+
+Batteri 
+
+Sensation-batteriet varer over middels lenge og tømmes ikke hver kveld slik tilfellet er på en god del telefoner i dette segmentet. 
+Vi har overlevd en hel dag + en formiddag på én ladning med jevnt over mye dagligdags bruk (epost, Facebook, knipse bilder etc.), men det er tydelig at skjermen trekker mye strøm. 
+Eksempelvis hadde vi 30% igjen av batteriet og sjekket da hva som hadde brukt strøm - skjermen stod for 50% av strømforbruket og hadde vært aktiv i halvannen time. 
+Med andre ord har 35% av kapasiteten (70/2) gått med til halvannen time skjermtid, og det betyr at telefonen raskt vil trekke strøm dersom den brukes mye. 
+
+Til sammenligning har skjermen på Samsung-telefonen jevnt over ligget på rundt 20% forbruk, og i det samme eksempelet stått for bare (70/5) = 14% av batteritapet; også her med halvannen times aktiv bruk. 
+
+Det tyder på at Super AMOLED Plus-skjermen i Galaxy S II har mindre strømbehov, og i tillegg er batterikapasiteten ca 10% større enn den er på Sensation. 
+Selve lysstyrken kan imidlertid skrus høyere på Sensation-skjermen enn hva Samsung-skjermen klarer, men trekker da også vesentlig mer strøm. 
+
+Konklusjon 
+
+En god telefon? 
+Uten tvil. 
+
+Står den til forventningene? 
+Ikke helt. 
+
+Sensation er den dyreste Android-telefonen på markedet pr i dag og koster noen hundrelapper mer enn erkefiende Samsung Galaxy S II. 
+Allikevel er det ikke mye som i våre øyne argumenterer for å velge HTC Sensation fremfor det som fortsatt står som vår soleklare mobilfavoritt, og det handler først og fremst om den opplevde ytelsen, som det til tider er klasseforskjell på. 
+Det kan både være relatert til mindre arbeidsminne og tyngden av Sense kontra Touchwiz (produsentenes grensesnitt som ligger "oppå" Android), men det handler også om at Samsung har brukt tid på å kode om deler av Android (f.eks. nettleseren) til å utnytte dobbeltkjerneprosessoren bedre. 
+
+Til tross for relativt like spesifikasjoner på papiret (i hvert fall når det gjelder klokkefrekvens), oppleves ikke Sensation som like rask som Samsung-telefonen. 
+Den har ikke den samme hurtigheten over seg, skroller ikke nettsider like pent og scorer også dårligere enn S II i 11 av 11 ytelsestester; vel å merke med høyere oppløsning på skjermen, som kan forårsake noen av forskjellene – men ikke alle. 
+
+Skjønt, det er også mye å like – Sense-grensesnittet har en rekke fiffigheter og tilpasningsmuligheter (selv om vi ikke falt helt for nyhetene denne gangen), og paret med nettjenesten htcsense.com får du med en fin sikkerhetspakke på kjøpet, nå som den endelig ser ut til å virke som den skal. 
+
+Konstruksjonen er også svært god, og sjelden har vi opplevd en telefon som er så komfortabel å bruke i det daglige. 
+Den sitter som støpt i hånda og har en god og høytoppløselig skjerm, selv om også denne kommer til kort mot S II med tanke på sortnivå, fargemetning og innsynsvinkel. 
+Kameraet har begrenset vidvinkel og bildene har ikke spesielt godt detaljnivå. 
+
+Gulroten er imidlertid HTC Watch; filmtjenesten som lanseres om et par uker her til lands. 
+Den skal vi selvsagt teste ved lansering og blir ikke å finne på annet enn Sensation og nettbrettet Flyer foreløpig. 
+
+For all del – Sensation er en av de bedre telefonene i dagens marked, men den koster også deretter, og i våre øyne burde det ha vært flere argumenter for å velge den fremfor f.eks. lillebror HTC Desire S, eller høyst nevnte Samsung Galaxy S II. 
+
+HTC Sensation 

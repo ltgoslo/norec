@@ -1,0 +1,124 @@
+Apple iMac 27-tommer (høsten 2013)
+iMac-modellene er oppdatert på flere områder. 
+Vi har sett på 27-tommeren. 
+
+I februar 2013 testet vi iMac i en helt ny utførelse. 
+Den hadde fått svært tynne kanter, men "pukkelen" på baksiden var omtrent like stor på det tykkeste. 
+
+Samtidig ble det optiske drevet droppet, all installasjon foregår nå via nettet. 
+De som trenger optiske drev må siden den gang kjøpe dette separat og koble det til en USB-port. 
+
+Lanseringen skjedde egentlig i november, men det var lange leveringstider på grunn av problemer med komponentleveranser. 
+
+Nesten nøyaktig et år senere ble det i år sluppet nye iMac-modeller. 
+Det er den store 27-tommerutgaven vi nå har hatt på benken, forrige gang var det 21,5-tommeren. 
+Designet er i hovedsak det samme, men maskinvaren har fått vesentlige oppgraderinger på flere områder. 
+
+Nytt i 2013-modellene 
+
+Vi har tidligere skrevet om hva som er nytt i de forskjellige iMac-modellene, den artikkelen finner du her. 
+
+Men kort fortalt gir endringene, ikke overraskende, både bedre ytelse og lavere strømforbruk. 
+dette skyldes både ny prosessor, ny grafikkdel, PCIe-basert SSD og ny trådløs nettverksløsning. 
+
+Dette er typisk for Apple, når de har utviklet en modell holder de på den i en relativt lang periode, og gjør større eller mindre oppgraderinger innenfor den gitte rammen. 
+Her er det knapt noen synlige ytre endringer, men maskinens indre er helt ny. 
+
+Dette får du 
+
+Vårt testeksemplar kom med Core i5 3,4 GHz (Haswell), 8 GB 1600 MHz minne, NVIDIA GeForce GTX 775M (2 GB RAM) og Apples Fusion Drive med 1 TB kapasitet (128 GB SSD + 1 TB HDD). 
+Skjermoppløsningen er 2560 x 1440 piksler. 
+
+Spanderer du 1.600 kroner ekstra får du en 3,5 GHz Core i7 i stedet. 
+Det er dobbelt så dyrt som prisforskjellen mellom prosessorene i en tilfeldig valgt norsk nettbutikk. 
+Forskjellen i praktisk bruk er ganske liten for de fleste. 
+
+Du kan også bestille maskinen med mer minne og/eller større lagringskapasitet, men det er ikke mulig å oppgradere maskinen med annet enn mer minne etter kjøp. 
+Det vil si, du kan demontere den og erstatte komponenter, men det krever spesialverktøy og håndtering av limstrips. 
+Garantien blir vel heller ikke gyldig etter slike inngrep. 
+
+Du får tilgang til minnemodulene ved å fjerne strømledningen og trykke inn utløserknappen på oversiden. 
+Da åpnes lokket over modulene og du kan sette inn flere eller erstatte minnemodulene. 
+
+Skjermen er av IPS-type med LED bakgrunnsbelysning, og er ganske enkelt en glimrende skjerm. 
+
+Men det er ingen høydejustering, og det er heller ikke mulig å dreie maskinen rundt på foten. 
+Bare den vertikale posisjonen mot brukeren kan justeres. 
+
+Tilkoblingene sitter alle bak på høyre side sett fra brukerposisjon. 
+Her finner vi minijack for hodetelefon, kortleser for SDXC-kort, fire USB 3.0 porter, to Thunderbolt 1.0 porter og en Gigabit nettverkskontakt. 
+
+Thunderbolt-portene lar deg koble til både ekstra skjerm med oppløsning på opptil 2560 x 1600 punkter og andre enheter for lagring eller annet. 
+
+Mikrofonene sitter nær hverandre på toppen og øverst i bakkant. 
+Dette er ikke for å få rar stereo, men for å lettere kunne fjerne støy ved å prosessere signalene fra de to mikrofonene. 
+Praktisk ved FaceTime, Skype og så videre. 
+
+Vårt eksemplar kom med OS X 
+Mountain Lion installert, men det er som kjent gratis oppgradering til Maverick, som man laster ned selv. 
+
+I bruk 
+
+Det første vi legger merke til etter at maskinen er pakket ut og den eneste nødvendige ledningen (til stikkontakten) er koblet til, er at skjermen har mindre gjenskinn enn på tidligere modeller. 
+Hele fronten er dekket av en glassplate som fremdeles er blank, men på et eller annet vis har de klart å redusere reflekser og andre irriterende fenomener. 
+
+Apple har jo ikke noen støtte for berøring på annet enn sine mobile enheter, derfor slipper man også alle de fettete fingermerkene på skjermen som de nye PC-ene med Windows 8 blir prydet med. 
+Generelt er jo bruk av berøring på stasjonære maskiner mildt sagt omdiskutert ... 
+
+Maskinen starter opp fra helt avslått tilstand på rundt 15 sekunder, som er absolutt akseptabelt. 
+I praksis slår man den ikke av, men lar den gå i dvale. 
+Da starter den opp på et øyeblikk. 
+
+Strømforbruket ved svært aktiv bruk målte vi til opptil 140 watt, men under normal bruk, som streaming av HD-video, lå det på rundt 85 watt. 
+I dvale ligger strømforbruket på under 1 watt. 
+Derfor er det ingen vits i å slå av maskinen, strømforbruket i dvale blir bare noen få kroner i løpet av et helt år, uansett hvordan norske strømpriser varierer. 
+
+Den opplevde ytelsen som denne maskinvarekombinasjonen byr på er svært rask. 
+Med en rask prosessor, Fusion drive med SSD/HDD og en rimelig kraftig grafikkløsning så "sitter" det meste rett i skjermen med det samme. 
+
+Vi sammenlignet også ytelsen mot forrige iMac vi testet, med Geekbench 2. 
+Nå fikk vi 11.758 mot 13.659 for den forrige med Core i7 prosessor. 
+Det er som forventet. 
+
+Veldig stillegående 
+
+Støy og varme har vi ikke registert, maskinen er svært stille, du må legge øret inntil baksiden for å høre at det er noe som er i bevegelse. 
+Temperaturen er også under kontroll, siden hele maskinens bakside hjelper til med å lede bort varme. 
+Kald luft suges inn under fronten, mens varm luft kommer ut på baksiden. 
+
+Ankepunkter? 
+
+Hva mener du? 
+
+Er dette den optimale alt-i-ett-maskinen? 
+(Avsluttet) 
+
+Skal man kritisere en Mac kan man velge å kritisere plattformen som sådan, men det er ikke spesielt hensiktsmessig. 
+Den diskusjonen er over når man har valgt Mac, eller skal velge en ny Mac. 
+Er det noe å sette fingeren på, vurdert som en Mac? 
+
+Det første vi vil anføre er mangelen på justeringsmuligheter. 
+Vi synes skjermen er i høyeste laget, og ville gjerne hatt den så langt ned mot bordplaten som mulig. 
+Spesielt gjelder dette 27-tommeren hvor øvre skjermkant er 53 centimeter og nedre del av maskinen 7,7 centimeter over bordplaten. 
+
+En såpass stor skjerm kan også fungere som skjerm for både TV-dekoder og spillkonsoll, for eksempel på et ungdomsrom, hybel eller liten leilighet. 
+Derfor hadde det vært meget gunstig med en HDMI-inngang, noe vi har sett på fleree andre alt-i-ett-maskiner. 
+
+Noen av oss hadde også ønsket å enkelt kunne bytte ut den interne lagringen med noe med større kapasitet. 
+Men da hadde designet måttet tilpasses, noe Apple har valgt bort. 
+I stedet er lagringsenheter koblet til med USB 3.0 eller Thunderbolt mer enn godt nok for de fleste. 
+Thunderbolt er jo i praksis en del av internbussen lagt ut på kabel. 
+
+Konklusjon 
+
+27-tommers iMac i vår testkonfigurasjon koster i skrivende stund 18.590 kroner, mens grunnversjonen uten Fusion Drive koster 16.990 kroner. 
+
+Med Fusiondrive får du en Mac som de fleste Mac-brukere vil være svært fornøyd med. 
+Harddiskversjonen vil alltid være en god del tregere og mer egnet for lettere bruk. 
+
+Skal du velge noe annet enn grunnversjonen velger vi heller FusionDrive framfor kraftigere prosessor, og mer minne kan du sette inn selv. 
+
+Alternativet for de som vil ha større fleksibilitet er en Mac mini og en separat skjerm (eller to), men da får du litt flere kabler. 
+Prismessig blir det ikke så veldig stor forskjell. 
+
+Apple iMac - 3,4GHz QC 8GB 1TB 27" 

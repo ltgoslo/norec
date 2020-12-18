@@ -1,0 +1,94 @@
+Dell XPS 27 All-in-one
+Her snakker vi om en stor berørings-PC, ikke noe å ha i fanget! 
+
+Den nye bølgen av stasjonære PC-er med berøringsskjerm og Windows 8 ruller videre. 
+Dell sin utgave stiller i klassen for de mest gedigne. 
+
+Dette formatet har sine praktiske fordeler for de som ikke er spesielt opptatt av å fikle med maskinvare. 
+Her er det bare en eneste ledning som skal kobles til - strømledningen. 
+Resten er trådløst, både tastatur, mus og nettverk. 
+
+Det er bare å slå den på og ta maskinen i bruk, som en hvilken som helst husholdningsmaskin. 
+
+Dell leverer flere utgaver av disse maskinene, vi har sett på den aller største. 
+
+Dell XPS 27 All-in-one 
+
+Skjermen er altså 27 tommer diagonalt og har en oppløsning på 2560 x 1440 punkter. 
+Det er god skjermplass å boltre seg på for de aller fleste behov. 
+Dette er for øvrig samme oppløsning som Apples 27 tommer iMac. 
+
+Skjermen er berøringsfølsom med 10 punkter, som er standard for Windows 8-sertifiserte maskiner. 
+Overflaten er av skinnende blankt glass, som på alle berøringsskjermer. 
+Dette gir utfordringer når maskinen skal plasseres, gjenskinnet ligger ikke langt tilbake fra et alminnelig speil. 
+Forøvrig er skjermen utmerket, med klare farger og stor betraktningsvinkel. 
+
+All maskinvare er bygget inn i skjermdelen, og her finner vi en Core i7-3770S prosessor på 3,10 GHz, 8 GB minne, 2 TB harddisk og en DVD-brenner. 
+
+Grafikkortet i maskinen er et GForce GT640M. 
+
+Ellers har maskinen Bluetooth, trådløst 802.11n nettverk, kablet Gbit nett og seks USB 3.0 porter, hvor 2 sitter på venstre side av skjermen sammen med leser for SD-kort og tilkobling for mikrofon og hodetelefoner/høyttalere. 
+
+Bak på skjermen finner vi de resterende fire USB 3.0 portene, nettverksporten og 2 HDMI kontakter. 
+Den ene av disse er en inngang for tilkobling fra spillkonsoller eller annet utstyr som trenger en skjerm. 
+Det er også en S/PDIF utgang og en åpning for en standard Kensington lås. 
+
+I bruk 
+
+Maskinen kan enten brukes som vanlig stasjonær PC med skjermen plassert i oppreist posisjon. 
+Dette er ikke spesielt egnet til bruk av berøringsskjermen, da det krever mye armbevegelser som fort blir slitsomt. 
+
+En og annen sveip med fingrene kan fungere, men det blir mest for avvekslingens skyld. 
+
+Skjermen kan også legges ned, til en viss grad. 
+Det er langt fra flatt, mer som et tegnebord. 
+Likevel er høyden over bordflaten på et normalt skrivebord litt i meste laget for å gi en helt komfortabel arbeidsstilling. 
+Det fungerer for å lese og å flytte på ting på skjermen, men det blir mye armbevegelser også i denne posisjonen. 
+
+Skjermen kan ikke legges flatt, for å spille brett-type spill med flere deltakere. 
+
+Foten er gedigen og sitter fast i skjermdelen. 
+Hele maskinen er både solid og tung. 
+Dette er ikke noe man kan ha på fanget. 
+
+Ytelse 
+
+Windows egen ytelsesmåling gir verdien 5,7. 
+Her er det grafikken som er det laveste tallet. 
+Prosessor og minne gir begge 7,9 mens spillgrafikk gir 6,8 og harddisken 5,9. 
+
+Geekbench gir 15 459 som er en god score på selve regnekraften i maskinen. 
+
+I praksis er maskinen rask til det aller meste, der vi merker motstand er ved flytting av store objekter på skjermen, hvor det er en "usynlig strikk" mellom fingertupp og objektet på skjermen når man gjør raske bevegelser. 
+
+Men opptegning av nettsider og andre dokumenter går lynraskt. 
+
+Det hadde også vært en fordel med SSD, men maskinen starter raskt fra dvale, som Windows 8 maskiner er laget for å gjøre. 
+Det er ikke nødvendig å slå av maskinen hvis man ikke er strøm-nazi. 
+I Norge er jo alt som bidrar til oppvarmingen egentlig velkomment størstedelen av året, og det er ikke mange wattene som brukes når maskinen er i dvale. 
+
+Maskinen kan også bestilles med SSD og Intel Smart Response cache-løsning. 
+Denne teknologien kan du lese mer om i denne artikkelen. 
+
+Konklusjon 
+
+Det er interessant at alle alt-i-ett-maskinene med Windows 8 som har vært innom til test både har mye felles og svært forskjellige utforming. 
+Der hvor forskjellen er størst er der hvor både produsentene og brukerne fremdeles er usikre, og det er ergonomien i berøringsfølsomheten. 
+
+Det har ikke vært noe folkekrav om berøringsskjerm på alle maskiner, det fungerer utmerket med tastatur og mus for alle. 
+Men erfaringen fra bruk av smartmobiler og nettbrett skal tas med inn i en uviss framtid, og det er her vi befinner oss nå. 
+Utformingen og bruksmulighetene henger tett sammen, og det er er det kræsjer i blant. 
+Skal en moderne berørings-PC være fast eller portabel? 
+Hvor praktisk er størrelsen? 
+Hvordan skal den kunne plasseres og hva kreves av foten? 
+
+Det er for tidlig å trekke noen konklusjon på dette, vi tror det vil være plass for mange forskjellige utforminger en stund framover til hele bildet modnes. 
+
+Her er de andre stasjonære PC-ene med berøringsskjerm som vi har testet: 
+
+Dell sin maskin er helt klar stasjonær og skuler til tradisjonell bruk med innslag av berøring. 
+Den er gedigen og tung, men likevel slank og elegant. 
+Ytelsen med den raskeste prosessoren er glimrende, spanderer du en SSD i tillegg får du en virkelig kraftpakke. 
+
+Prisen oppgitt under er for en litt svakere konfigurasjon enn den vi har testet. 
+Bruk Dells nettsider for å konfigurere en maskin til ditt formål og budsjett. 

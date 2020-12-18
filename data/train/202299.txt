@@ -1,0 +1,112 @@
+HP Pavilion Sleekbook 14
+En av de aller rimeligste Ultrabookene på markedet. 
+Vi har testet den. 
+
+Da de første Ultrabookene dukket opp på markedet mot slutten av 2011 lå prisene høyt, gjerne fra 9000 kroner og oppover. 
+Nå er det ikke uvanlig å finne modeller til rundt 5000, og de billigste koster gjerne ned mot 4000 kroner. 
+HP Pavilion Sleekbook 14 er blant de aller billigste. 
+
+Nå er ikke dette den første Sleekbooken vi har testet. 
+I fjor høst testet vi Sleekbook 6, som var en ultratynn maskin basert på AMD-innmat. 
+Det var altså ikke en "ekte" Ultrabook, slik Sleekbook 14 er - nemlig basert på innmat og spesifikasjoner definert av Intel. 
+
+Før vi går videre skal vi se på noen av de viktigste tekniske egenskapene: 
+
+Skjerm: 14" blank LED-baklyst, TN-panel, 1366 x 768 piksler. 
+Ikke berøringsfølsom. 
+Prosessor: 
+Intel Core i3-3217U (dobbelkjerne) RAM: 
+4 GB (maks 8) Grafikkort: 
+Intel HD 4000 Lagring: 500 GB hybriddisk (med 32 GB SSD) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI USB-porter: 2 x USB 3.0, 1 x USB 2.0 Webkamera: 
+Ja, 720P Kortleser: 
+SD/MMC Trådløst nett: b/g/n Kablet nett: 10/100 Mbit Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Størrelse: 
+347x20.70x238 mm Vekt: 
+1,8 kg (kontrollveid av oss) Pris: 
+4 195 (Siba 4.3.2013) 
+
+Som forventet har PC-en den enkleste Core i-prosessoren fra Intel, og er ellers veldig ordinær i spesifikasjonene. 
+Støtte for kablet nett direkte er også noe som ikke finnes på alle ultrabookene på markedet, men merk at den har en begrensning på 100 Mbit pr sekund. 
+Har du en nyere trådløsruter kan du i mange tilfeller faktisk oppleve høyere hastigheter via trådløsnettet enn hva som er mulig med kabel mot denne PC-en. 
+
+Det er også positivt at PC-en kan oppgraderes med mer minne. 
+Det er faktisk en ledig minneplass ved levering, så det er bare å skaffe seg inntil fire ekstra gigabytes ved behov. 
+
+Skjermen er imidlertid av den enkle typen, med lavere oppløsning og dårligere innsynsvinkel enn hva som begynner å bli vanlig på de dyrere modellene. 
+
+Plastic fantastic 
+
+Det som ikke kommer fram i listen over er materialvalget. 
+De fleste ultrabookene har helt eller delvis metallchassis. 
+Her er det plast fra innerst til ytterst, og det har påvirket kvalitetsfølelsen noe i negativ retning, mener vi. 
+Den virker rett og slett ikke så helstøpt som dyrere modeller med metallinnpakning. 
+
+Fingeravtrykk vises på den blanke overflaten, men vi har sett verre - og bedre. 
+
+Høyttalerne sitter under skjermen og er merket Altec Lansing og Dolby Adanced Audio. 
+Men lyden føles som alt annet enn avansert, den er relativt tynn og mangler bass. 
+Bruk hodetelefoner eller eksterne høyttalere dersom du tenker å bruke PC-en til musikkavspilling. 
+
+Tastaturet er av chicklet-typen der hver tast er isolert fra de andre, og er relativt fast og fint å skrive på. 
+Oppsettet er logisk, og det avgir heller ikke særlig mye lyd under skriving. 
+
+Pekeplaten er ru og akkompagneres av to knapper. 
+Å ha adskilte knapper ser vi på som et pluss, men disse er harde å trykke ned, og i tillegg lager de en relativt høy klikkelyd. 
+Det liker vi langt mindre. 
+
+Alle tilkoblingene sitter på høyre og venstre side: 
+
+Strømpluggen stikker flere centimeter rett ut til siden, og vi frykter at det kan gå riktig galt om noen snubler i den: 
+
+Deler av undersiden benyttes til innsug av luft, som blåses ut på venstre side: 
+
+Selv om viften går mer eller mindre konstant, vil vi betegne støynivået som meget lavt under lav og normal belastning. 
+
+Slik er den i bruk 
+
+Fra du skrur på PC-en til Windows er ferdig lastet og klar til bruk, tar det rundt 15 sekunder. 
+Det er temmelig raskt, og bare noen sekunder tregere enn de raskeste PC-ene med ren SSD. 
+Maskinen våkner også raskt fra dvale, omtrent så lang tid som det tar å sette seg til rette i stolen etter at du har løftet lokket. 
+
+Sikkerhetspakken fra Symantec er tett integrert i operativsystemet, og gir deg titt og ofte varsler om å registrere deg. 
+For veldig mange vil den innebygde sikkerheten i Windows 8 være tilstrekkelig, og vi har derfor ikke noen betenkeligheter med å avinstallere Symantec-pakken, og samtidig få en mer smidig Windows-opplevelse. 
+
+For maskinen fungerer fint den, og de fleste oppgaver løses kjapt og greit. 
+Det er jo lettere arbeid denne maskinen er laget for, og det fikser den fint - også flere oppgaver samtidig. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,3 Minne: 5,9 Grafikk: 
+4,7 Spillgrafikk: 
+6,2 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest 8.0 gir oss mer kjøtt på benet, og i diagrammene under har vi sammenlignet ytelsestallene mot det AMD-baserte Sleekbook medlemmet i familien, Vivobook fra Asus (som ligger i samme prisklasse), samt en av våre klare favoritter i Ultrabook-segmentet, Samsungs 9-serie. 
+Merk at sistnevnte er en langt dyrere PC: 
+
+Som ventet ligger ytelsen en del lavere enn på Ultrabooks med Core i5- og i7-prosessorer, og så vidt foran AMD A6-baserte Sleekbook 6. 
+
+Grafikkytelsen er middels god, noe som vil si at den tar alt av HD-video i alle formater uten problemer, men er ikke noe førstevalg når det kommer til avanserte spill. 
+
+Litt lavere diskytelse enn på Sleekbook 14, men neppe særlig merkbart i praksis. 
+Men sett i forhold til SSD-er i maskiner som Samsung 9 Series, blir det fullstendig parkering. 
+Greit å vite at det lar seg gjøre å bytte ut hybrid-disken med en ren SSD dersom du skulle få lyst på høyere hastighet. 
+
+Hva med batteritiden? 
+Ingen overraskelse her heller, maskinen plasserer seg et stykke bak de dyrere modellene, med rundt 5,5 timer med minimal belastning. 
+Det som kanskje er noe overraskende, er at batteritiden er dårligere enn på AMD-baserte Sleekbook 6 - som riktig nok har et noe større batteri: 
+
+Konklusjon 
+
+Sleekbook 14 er en rimelig inngang til Ultrabook-verdenen, og fungerer helt fint til enklere PC-bruk. 
+Ytelsene er helt ordinære, men til denne prisen synes vi absolutt du får ganske mye for pengene. 
+Derfor lander vi på en firer på terningen. 
+
+Les plussene og minusene i oppsummeringsboksen under før du eventuelt bestemmer deg for å kjøpe denne PC-en. 
+
+HP Pavilion 14-B002eo 

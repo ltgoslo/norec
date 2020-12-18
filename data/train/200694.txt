@@ -1,0 +1,101 @@
+Packard Bell Studio 1 TB
+Den har en enorm kapasitet, og kan kobles rett til TVen for å vise filmer, bilder og spille musikk. 
+Men er den noe tess? 
+
+For å ta det viktigste først: 
+Packard Bell Studio er en ekstern hardisk. 
+Den kobles til USB-porten, og dukker opp som egen stasjon i Windows Utforsker. 
+Den kommer med diverse programmer til backup-formål, og ellers er det bare å bruke den som hvilken som helst ekstern disk. 
+
+Men her er mer 
+
+Men det er ikke derfor vi syntes det var interessant å teste denne enheten (det finnes jo ørten slike på markedet). 
+For det første har denne innebygd multimedie-funksjonalitet. 
+Den kan nemlig kobles til TVen din, og ved hjelp av en fjernkontroll kan du spille av mediefiler som ligger på den - både bilder, musikk og video. 
+
+For det andre har disken svært høy kapasitet, hele 1000 gigabytes eller én terabyte. 
+Det burde holde til full backup av de aller fleste PCer, og i tillegg kan du få plass til tusenvis av multimediefiler - bare for underholdningens skyld. 
+
+Stillegående og pen design 
+
+Så langt så bra. 
+La oss se nærmere på den lille boksen. 
+På innsiden sitter en vanlig 3,5 SATA-harddisk fra Western Digital. 
+Vi antar at det er en av de nyeste, for den avgir så lite varme at behovet for kjøling er lite. 
+Det er en liten vifte i kabinettet, men vi måtte legge øret inntil for å høre at den i det hele tatt spant rundt under bruk. 
+
+Det holder ikke med strøm fra USB-porten, her trengs ekstern strøm i tillegg fra støpslet i veggen. 
+Dessverre er den medfølgende kabelen kort, men dersom støpselet står like bak TVen burde du uansett ikke ha noe problem med dette. 
+
+Tilkoblinger 
+
+Det følger med to kabler for tilkobling til TV. 
+Den ene er en analog RGB-komponentkabel, som gjør det mulig å vise HD-video (inntil 1080i - men påse at du har runde rød-grønn-blå-innganger på TVen). 
+Den andre er en analog kompositt A/V-kabel, som kun støtter lavere oppløsninger, men som kan brukes dersom du har en eldre billedrørs-TV eller mangler RGB-inngang. 
+
+Digital tilkobling (HDMI) støttes imidlertid ikke, ei heller surround-lyd - kun stereo. 
+
+I tillegg er det en USB-port på baksiden av boksen. 
+Denne kan du bruke til å koble til andre enheter, for eksempel minneplugger, mp3-spillere, kameraer etc, for å spille av og vise innholdet via boksen. 
+
+Støtter mye rart - i teorien 
+
+Formatstøtten ser ut til å være godt utbygd, på esken listes videoformatene MPEG4, DivX (alle versjoner, inkludert DivX HD), Xvid, DivX VOD og AVI, samt lydformatene MP3, WMA, WAV, OGG, AAC og AC3. 
+
+Vi koblet disken til vår test-PC med Windows Vista installert, og straks etter at den var blitt gjenkjent som USB-enhet startet et installasjonsprogram. 
+Her fikk vi blant annet mulighet til å installere backup- og synkroniseringsprogrammer, diverse Google-programmer og prøveversjon av Norton Antivirus. 
+
+Du behøver imidlertid ikke å installere noe som helst for å bruke disken i Windows og MacOS. 
+Har du andre backup-programmer som du er fortrolig med, kan du med fordel skippe dem som følger med. 
+Har du ikke det, skader det ikke å installere dem. 
+Funksjonaliteten og bruken er enkel, og du kan også tidsinnstille sikkerhetskopieringen, slik at den foretas automatisk. 
+
+Våre erfaringer 
+
+Vi hadde på forhånd gjort klar en rekke bilder, film- og musikk-filer og overførte dem raskt til disken. 
+Overføringshastigheten på småfiler lå på rundt 20 MB pr sekund, noe som er ganske normalt for USB-disker. 
+Større filer gikk en del raskere, men den teoretiske topphastigheten på 60 MB pr sekund er bare å glemme. 
+
+Vi koblet disken til vår demo-TV ved hjelp av komponent-kabelen, og menyen dukket opp umiddelbart. 
+Den var svært enkel og gav oss fem valg; bilder, musikk, film, USB og innstillinger. 
+Ved å velge innstillinger kunne vi endre språk til norsk, og skifte oppløsning til 1080i. 
+
+Fjernkontrollen er liten og flat, og selv om merkingen er god, er plasseringen av tastene litt i "hytt og vær", noe som trekker ned på brukervennligheten. 
+Knappene gir heller ikke den responsen vi hadde håpet på, og vi måtte sikte fjernkontrollen ganske direkte mot enheten for å unngå dobbel-, trippel- og kvadruppel-trykking. 
+
+Vi ble heller ikke særlig imponert over grensesnittet. 
+Enkelt, ja - men vi testet mediebokser i 2003 som hadde et mer spenstig grensesnitt. 
+
+Det gikk heller ikke uproblematisk hen å spille av mediefilene våre. 
+Verken H.264 klippet vårt i 720P eller WMV HD-klippet i 1080P ble en gang synlige i menyen. 
+DivX-klippene fungerte derimot helt fint, avspillingen startet og stoppet umiddelbart på vår kommando. 
+
+Bildevisning gikk også greit. 
+Lastingstiden varierer med størrelsen på bildene, og trykker du "Next" dukker ordet "Avanti" opp på skjermen. 
+
+Hvordan italiensk språk plutselig dukket opp i den norske versjonen, aner vi ikke noe om. 
+
+Våre 6 megapiksels bilder tok et par-tre sekunder å laste, ikke særlig kjapt, men heller ikke så ille at vi lot oss irritere. 
+
+Full krasj 
+
+Mer irritert ble vi da vi prøvde å spille av et klipp som tydeligvis ikke var støttet. 
+Dette skjedde flere ganger, både video (H.264 i MP4-konteiner) og musikkfiler (M4A og AACPlus). 
+Uten å gi noen feilmelding frøs alt, ingen knapper virket, annet enn Power-knappen. 
+Ved et par senere anledninger måtte vi bruke av-på-knappen på selve enheten for å komme tilbake til utgangspunktet. 
+
+Konklusjon 
+
+Som ekstern harddisk med høy kapasitet duger denne like godt som hvilken som helst annen. 
+Den er kjølig, bråker lite, og har et tøft utseende, synes vi. 
+
+Og prisen? 1699 kroner. 
+En tilsvarende ekstern harddisk med samme kapasitet, men UTEN mediefunksjonalitet, koster normalt noen hundrelapper mindre. 
+Spørsmålet er likevel om ekstrarunksjonaliteten er verdt pengene. 
+
+Som mediespiller blir den nemlig litt for simpel, rett og slett. 
+Det kan gå helt greit hvis du er en standardbruker som holder deg til de vanlige formatene DivX, Xvid og MP3, men så snart du har litt andre preferanser med hensyn til lyd og bilde risikerer du raskt å bli sittende i sofaen med skjegget fullt av postkasser. 
+
+OPPDATERT: 
+Fra Packard 
+Bell har vi fått beskjed om at kompatibilitetsproblemene vil bli utbedret i neste firmware-oppdatering, som skal være på plass over nyttår. 

@@ -1,0 +1,129 @@
+Acer Aspire E1-572
+Norges billigste PC med full HD-skjerm er en glimrende PC til hjem- og skolebruk. 
+
+Acer Aspire E1-serien høsten 2013 finnes i et utall konfigurasjoner, men de har noen ting felles: 
+Det ytre er likt, og alle befinner seg i økonomisegmentet. 
+
+Modellen vi har sett er en av de mest interessante - ikke minst med tanke på skjermoppløsning og pris: 
+Her får du nemlig en PC med full HD-skjerm til den nette sum av 3.990 kroner. 
+Det er Norges billigste, ifølge Prisjakt.no. 
+Og maskinen er slett ikke noe dårlig valg, viser vår test. 
+
+Før vi går inn på hvordan maskinen oppleves i bruk, tar vi en kjapp gjennomgang av de viktigste tekniske egenskapene: 
+
+Skjerm: 15,6" LED-baklyst matt LCD, TN-panel, 1920 x 1080 piksler Prosessor: 
+Intel Core i3-4010U RAM: 
+6 GB (maks 8) Grafikkort: 
+Intel HD 4400 Lagring: 
+Hitachi 750 GB harddisk, 5400 rpm Optisk drev: 
+Nei Skjermutganger: 
+VGA og HDMI (1.3) USB-porter: 2 stk USB 2.0, 1 stk USB 3.0 Webkamera: 
+Ja, 720P Kortleser: 
+SD/SDHC/SDXC Trådløst nett: b/g/n (Broadcom) Kablet nett: 10/100/1000 Mbit Annet: 
+Bluetooth 2.1 OS: 
+Windows 8 norsk Størrelse: 38,2 x 25,6 x 2,53 cm Vekt: 2,35 kg Pris: 3.990 kroner (Elkjop.no 9.10.2013 
+
+Spesifikasjonsmessig er det lite å utsette på dette, prisen tatt i betraktning. 
+Du får bra med minne og lagringsplass, siste generasjon Intel Core-prosessor, og endelig har E1-serien fått en USB 3.0-port også. 
+
+Full HD 
+
+Og ikke minst: 
+Du får en matt skjerm som har full HD-oppløsning. 
+
+Det betyr plass til mer informasjon og skarpere detaljer, men det er imidlertid verdt å merke seg at skjermen har et enkelt TN-panel, noe som betyr relativt store begrensninger når skjermbildet betraktes fra sidene. 
+Farger og kontrast forvrenges raskt, så denne skjermen må betraktes rett forfra. 
+Da er også lysstyrken absolutt akseptabel. 
+
+I tillegg er det verdt å merke seg at prosessoren er en såkalt ULV-modell (Ultra Low Voltage). 
+Den har ikke den høyeste ytelsen, men bruker til gjengjeld mindre strøm. 
+Dermed kunne Acer velge et mindre batteri med fire celler, og samtidig få brukbar batteritid og begrense vekten på maskinen til behagelige 2,35 kg. 
+
+Merk videre at det trådløse nettverkskortet fra Broadcom viste seg å ikke være blant de kraftigste, og liker seg best i nærheten av det trådløse aksesspunktet. 
+Man kan bytte ut dette med et kraftigere, men tilgangen til kortet er ikke fullt så enkel som vi har sett på mange andre Acer-maskiner, du må faktisk løsne hele bunnplaten. 
+
+Men du trenger bare å løsne én skrue for å få tilgang til harddisk og minnebrikker: 
+
+Plast fra innerst til ytterst 
+
+Materialvalget i kabinettet er også med på å holde kostnadene nede. 
+Her er det benyttet plast hele veien, men maskinen virker godt avstivet og "fast i fisken". 
+Vi har likevel ett åpenbart ankepunkt; fingeravtrykk og fettflekker vises dessverre svært godt, og det gjør at den lett ser møkkete ut. 
+Denne maskinen skulle helst vært håndtert med hansker! 
+
+Alle tilkoblingene sitter på høyre og venstre side, med unntak av kortleseren som sitter i fronten til venstre. 
+
+Tastaturet er av chicklet-typen der hver tast sitter isolert fra de andre, og layouten er fellesnordisk. 
+Det er fast og fint stort sett over det hele (bare litt bevegelse i platen på F-tastene mot midten), og avgir lite støy under skriving. 
+Bakbelysning må du imidlertid klare deg uten. 
+
+Under sitter en stor multiberøringsfølsom pekeplate som fungerer meget bra. 
+Under denne sitter en heltrukken knapp med to trykkpunkter for venstre- og høyreklikk. 
+Den avgir akkurat passe lyd og respons under trykking. 
+
+Støysvak 
+
+Maskinen gir i seg selv også akkurat passe lyd fra seg, og de som har lest mine tester vet at det betyr at den er svært støysvak. 
+Selv under tung belastning blir aldri viftesuset høyere enn at du må legge øret ned mot venstre side av PC-en for å få den med deg. 
+Summingen fra harddisken er som regel mer hørbar. 
+Bytt ut denne med en SSD, og du har en av de aller mest støysvake PC-ene på markedet. 
+
+På undersiden sitter det to høyttalere mot fronten. 
+Lyden er alt annet enn imponerende, den er tynn og litt for lav selv på maks volum. 
+Her er det bare å koble til eksterne høyttalere eller hodetelefoner med det samme. 
+
+Har fått ut det meste 
+
+Ytelsesmessig er ikke dette av de hvasseste maskinene, men Acer har konfigurert maskinen bra (med unntak av å bruke en forferdelig skrivebordsbakgrunn). 
+
+Man får en god brukeropplevelse i alt fra Office-programmer til bildebehandling til avspilling av YouTube-videoer i full HD-oppløsning. 
+Det er vårt inntrykk at Acer som regel er flinke på å konfigurere opp maskinene på en bra måte. 
+Ved å fjerne prøveversjonen McAfee sin sikkerhetspakke ble vi enda mer fornøyd, siden denne kommer med i overkant mange advarsler og påminnelser. 
+
+Windows Opplevelsesindeks sier følgende om ytelsen, skalaen i Windows 8 går fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,3 Minne: 7,2 Grafikk: 
+5,1 Spillgrafikk: 
+6,4 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest gav følgende poengsummer: 
+
+CPU Mark: 
+2684.4 2D Graphics Mark: 
+378.8 Memory Mark: 
+1490.5 Disk Mark: 
+748.9 3D Graphics Mark: 
+383.2 PassMark Rating: 
+1254.5 
+
+Grafikytelsen er faktisk litt lavere enn snittet for forrige generasjon fra Intel (HD 4000), selv om den i prinsippet burde være høyere. 
+Årsaken sitter i den strømgjerrige prosessoren, som er laget for enkel bruk, ikke tunge konverteringer, konstruksjon og lignende. 
+Da ligger det også i kortene at du velger en annen PC hvis du ønsker mulighet til å spille de nye og feteste spillene på topplisten i butikkene. 
+
+Harddisken har en leseytelse som ligger i overkant av 100 MB i sekundet, og rett under 100 MB i sekundet på skriving. 
+Det er middels raskt i harddisk-sammenheng, men en SSD vil ofte være 3-5 ganger raskere. 
+Men da må du også opp i en annen prisklasse. 
+
+Holder 4-5 timer 
+
+Vi målte batteritiden i to omganger, én gang med minimal belastning - kun tilkoblet trådløst nett. 
+Da holdt batteriet i 5 timer og 48 minutter før det gikk tomt. 
+I neste omgang testet vi med kontinuerlig avspilling av HD-video med lyd. 
+Da holdt batteriet i 3 timer og 9 minutter før det var slutt. 
+I praksis kan du forvente at batteriet holder i mellom 4-5 timer mellom hver lading. 
+Det er ikke et toppresultat, men absolutt akseptabelt for en PC i denne prisklassen. 
+
+Konklusjon 
+
+Det er helt på det rene at du får mye PC for 3.990 kroner. 
+Brukbar ytelse til det meste, høyoppløst skjerm, slank utforming og meget lavt støynivå er positive faktorer som bør veie meget tungt for denne maskinen. 
+
+Materialvalg, skjermpanel og trådløst nettverkskort er faktorer som trekker noe ned, men til denne prisen skulle det blott bare mangle at det er noen ankepunkter. 
+For det er ingen tvil om at dette er et godt kjøp. 
+
+(NB! 
+I oppsummeringsboksen står det at skjermen er blank og har 1366 x 768 piksler oppløsning. 
+Dette stemmer ikke, men leder til riktig produkt) 
+
+Acer Aspire E1-572-34016G75Dnkk (NX.M8EED.046) 

@@ -1,0 +1,52 @@
+Sharkoon DriveLink Combo USB 3.0
+Denne gjør det lettere både å hente gamle data og sikre nye. 
+
+Etter forskjellige oppgraderinger og utskiftninger gjennom årene samler det seg gjerne forskjellige harddisker i skuffer og skap. 
+
+Noen ganger må man på oppdagelsesferd for å finne gamle data, og da kan det bli plundrete å koble til disken. 
+
+Men har du et tilkoblings-sett med usb-tilkobling, da er det alt annet enn plundrete. 
+
+Vi har sjekket flere varianter av slike løsninger tidligere, men DriveLink Combo USB 3.0 er nok den mest komplette vi har sett. 
+
+Slik ser det ut før vi pakker opp produktet: 
+
+Sharkoon DriveLink Combo USB 3.0 
+
+Dette er en pakkeløsning som består av hovedenheten med alle tilkoblingene, strømforsyning, nødvendige kabler og et par «kalosjer» til både 3,5-tommers og 2,5-tommers disker. 
+
+Hovedenheten har direkte kobling til SATA og 2,5-tommers IDE-disker. 
+For 3,5-tommers IDE-disker må du plugge i en liten flatkabel og strømkabel i brønnen som gjemmer seg under det avlange gummidekselet. 
+
+USB 3.0-kabel og strømkabelen må også plugges i, men det er ingen programvare som må installeres. 
+
+På toppen sitter en strømbryter, og det er også brytere for å aktivere skrivebeskyttelse for diskene du kobler til, en for IDE og en for SATA – ikke dumt når man skal gjøre sikkerhetskopier eller rydde opp i innhold. 
+
+Kalosjer 
+
+Gjenbruk av disker kan være gunstig, og vanligvis kjøper man et eksternt kabinett til å ha disken i. 
+Men her følger det med to «kalosjer» i silikongummi. 
+Disse har solide hjørnebeskyttere, slik at uansett hvordan disken skulle treffe gulvet ved et fall, vil gummien fange opp støtet. 
+
+Det følger med to stykker, en for 3,5-tommers disker og en for 2,5-tommers disker. 
+De sitter godt på når man først har fått tredd dem rundt diskene. 
+
+I bruk 
+
+Det er som nevnt ingen programvare som skal installeres, det er bare å koble til og slå på strømmen. 
+Diskene vil da dukke opp som vanlig i utforskeren. 
+
+Overføringshastigheten vil variere med diskene som kobles til. 
+SATA kan være raskere enn USB 3.0, så kobler du til en SSD, vil du ikke få full hastighet fra denne. 
+
+Alle testene vi kjørte viste at overøringshastigheten lå på rundt 105 MByte i sekundet, og det tilsvarer en rimelig rask harddisk koblet rett på SATA. 
+Bruker du eldre disker eller 2,5-tommers disker, vil forskjellen på direktekobling og USB 3.0 være marginal. 
+
+Konklusjon 
+
+Sharkoon DriveLink Combo USB 3.0 er en svært praktisk løsning, den håndterer alle typer IDE/SATA-disker fra de siste 15 årene og vel så det. 
+Med USB 3.0 er det stort sett heller ingen flaskehals inne i bildet. 
+
+En fin bonus er kalosjene til disken, som gjør at du slipper å anskaffe separate kabinetter til eksterndisker du bare bruker en gang i mellom. 
+
+Testproduktet ble lånt ut av Multicom. 

@@ -1,0 +1,98 @@
+Helt uvanlig kvalitet for denne prisklassen
+En vifteløs, tynn og lett PC med metallkabinett og full HD IPS-skjerm til 2.390 kroner? 
+Joda, det er faktisk mulig. 
+Og for mange er dette akkurat det de trenger. 
+
+Det mangler sjelden på kompromisser når du skal kjøpe PC og har lite penger til rådighet. 
+I tillegg til svake prosessorer og lavoppløste skjermer, bruker produsentene nesten utelukket plast og andre billige materialer på PC-er i lavprissegmentet. 
+
+Faktisk er det sjelden man i det hele tatt finner PC-er til under 4-5.000 kroner som har metallkabinett, men det finnes noen unntak - ett av dem er Talisa U230. 
+Dette er en PC med kvaliteter vi aldri før kan huske å ha sett i denne prisklassen. 
+
+Helt uvanlig 
+
+Vi snakker her om en startpris på 1.990 kroner, med champagnefarget kabinett av matt aluminium med blanke kanter, tykkelse på 13,5 millimeter og vekt på 1,3 kg (Multicom sier 1,49 kg, men vår vekt er korrekt). 
+
+Ikke nok med det, den har en 13,3 tommer matt skjerm med full HD-oppløsning (1.920 x 1.080 piksler) og et IPS-panel som byr på gode innsynsvinkler uten at kontrast og farger blir særlig skadelidende. 
+
+PC-en har en USB 3.0- og en USB 2.0-port, samt en mini-HDMI-utgang for tilkobling til ekstern skjerm eller TV. 
+I tillegg har den en microSD-kortleser, lyd inn/ut (minijack) og strøminntak. 
+Nettverket får den kontakt med via det trådløse 802.11bgn-kortet. 
+Bluetooth 4.0-støtte er også på plass. 
+
+Tastaturet er fast og fint, og avgir ingen ulyder under bruk. 
+Det er ingen nevneverdig svikt i tastaturplaten noe sted. 
+Skulle vi trekke noe, måtte det være at det mangler PrintScreen-tast og at enter-tasten er smal og liten. 
+Det er imidlertid ikke ankepunkter som trekker veldig ned. 
+
+Alt virker temmelig solid og gjennomført, det er ingenting her som vitner om at dette er en så rimelig PC. 
+
+Basert på utseende, tilkoblinger og kvalitetsfølelsen vi får når vi har klådd litt på den, hadde vi tippet den til å koste minst tre ganger så mye. 
+
+Hemmelighetene bak den lave prisen 
+
+- Dette er et samarbeid mellom oss, Intel og Microsoft. 
+Og så slipper vi dyre mellomledd siden vi selger direkte til sluttkunden. 
+Derfor kan vi selge maskinen så rimelig, sier Multicom-sjef Tron Atle Løvig i en kommentar til Dinside. 
+
+Legg til at dette er en PC med beskjeden maskinvare. 
+Prosessoren er enten en Intel Celeron N3350 eller N3450, og velger du den billigste konfigurasjonen får du bare 2 GB med RAM. 
+Du må også nøye deg med beskjedne 32 GB lagringsplass (eMMC), der kun rundt halvparten er tilgjengelig til dine egne programmer og brukerfiler. 
+
+Bare dager etter å ha tatt PC-en i bruk, uten at vi har installert annet enn Google Chrome, Spotify og noen testprogrammer, har vi kun 4 GB ledig. 
+Det er veldig lite. 
+
+Du kan imidlertid bygge ut kapasiteten hvis du vil, PC-en har nemlig et ledig spor for SSD bak en luke på undersiden. 
+En 128 GB SSD i riktig fasong koster i underkant av 700 kroner fra produsenten. 
+Det er en oppgradering vi sterkt ville vurdert om vi hadde kjøpt denne maskinen. 
+
+Chromebook-alternativ 
+
+Videre er det gode grunner til at spesifikasjonene er så enkle: 
+Krav fra Microsoft. 
+PC-produsentene kan nemlig utstyre PC-en med Windows 10 til svært rabattert pris, så lenge maskinvaren holder seg innenfor visse rammer. 
+
+Årsaken? 
+Microsoft ønsker at PC-produsentene skal ha et Windows-basert alternativ til de stadig mer populære Chromebook-ene, som har lignende spesifikasjoner og er utstyrt med gratis-operativsystemet ChromeOS fra Google. 
+
+Dette kan du forvente av ytelse 
+
+Ytelsen er ikke all verden. 
+Er du vant til å bruke en PC med kraftigere prosessor, for eksempel Intel Core i3 som er å finne i PC-er fra rundt 4.000 kroner, vil du oppleve at enkelte oppgaver tar til dels mye lengre tid å få fullført (Core i3-7100U yter i snitt over det dobbelte). 
+
+Velger du utgaven med 2 GB RAM, må du påregne mer venting enn på den med 4, spesielt hvis du kjører flere oppgaver eller programmer samtidig. 
+Vi ville definitivt gått for sistnevnte. 
+
+Det er den konfigurasjonen vi har brukt de siste dagene, og vi har kunnet gjøre de fleste oppgavene vi vanligvis gjør, inkludert enkel tekstbehandling, lytting til Spotify, litt nettsurfing og bildebehandling med en eldre utgave av Photoshop. 
+
+Litt mer venting har vi måttet tåle, spesielt under installasjon og oppstart av programmer og veksling mellom dem. 
+Skrolling i enkelte tunge nettsider kan også lugge litt, men særlig plagsomt er det ikke. 
+
+Fikser 4K-video med bravur 
+
+Det vi er mest positivt overrasket over når det gjelder ytelsen, er hvor godt PC-en fikser strømming av film. 
+Det går helt smertefritt, også materiale med 4K-oppløsning. 
+Her har Intel gjort en formidabel jobb med de siste prosessorgenerasjonene sine - helt ned i de enkle Celeron og Atom-seriene. 
+
+Også avspilling av lokalt 4K-materiale med appen Film og TV, flyter uten at maskinen virker særlig anstrengt. 
+Det hadde vi faktisk ikke forventet. 
+
+Batteritiden er også helt på høyden, med rundt 420 minutter med kontinuerlig videostrømming fra YouTube. 
+Det tilsvarer 7 timer, noe vi sier oss ganske fornøyd med. 
+
+Merk imidlertid at laderen som følger med er av den svakere typen, så det tar tid å lade batteriet opp igjen. 
+Etter én time var nivået kommet til 37 prosent. 
+Vanligvis ser vi at det ligger et sted mellom 50-60 prosent. 
+
+Konklusjon 
+
+Byggekvaliteten, skjermen, tastaturet og batteritiden står til en klar femmer på terningen. 
+Ytelse og kapasitet står derimot ikke til mer enn en treer, og derfor havner vi til slutt på en sterk firer. 
+
+Men ikke se deg blind på terningkastet alene: 
+Har du enkle krav og tåler å vente litt på at enkelte oppgaver blir fullført, er det ingen tvil om at du får mye for pengene dersom du går for denne PC-en. 
+
+Og så får vi håpe vi får se mange like overbevisende modeller i samme prisklasse i tiden som kommer. 
+
+Se uansett plussene og minusene våre i boksen under. 
+Har du litt større krav til ytelse, bør du få med deg testen av PC-er til 4.000 kroner som vi nylig gjennomførte. 

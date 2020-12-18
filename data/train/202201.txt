@@ -1,0 +1,60 @@
+Seagate 2 TB Desktop SSHD
+En hybridløsning med SSD og stor harddisk - er det en god idé? 
+
+Seagate har lenge jobbet med løsninger som kombinerer tradisjonelle harddisker, som er trege men gir mye lagring for pengene, og SSD-disker. 
+Sistnevnte er som kjent lynraske, men gir lite lagringsplass per krone. 
+
+Produsenten har allerede i flere år hatt Momentus XT-serien for bærbare. 
+Dette er en kombinasjon av harddisk og samme type flashminne som sitter i en SSD. 
+Dette minnet fungerer som en slags mellomlagring, det vil si en mellomstasjon mellom prosessoren og en tregere (vanlig) harddisk. 
+Løsningen forsøker altså å kombinere høy ytelse og kapasitet med lav pris, og kalles for SSHD. 
+
+Den første Momentus XT-disken testet vi allerede i 2010. 
+Den hadde en SSD-del på 4 GB. 
+Senere utgaver hadde raskere og større SSD-del, men 8 GB er ikke nok til å holde verken system eller programmer. 
+
+Mindre gevist enn ønsket 
+
+Denne disken har 2 TB lagringskapasitet på den roterende delen og fremdeles bare 8 GB flashminne av samme type som brukes på SSD. 
+
+Formatet er 3,5 tommer, og den er beregnet på bruk i alminnelige stasjonære PC-er med SATA-grensesnitt. 
+
+Arbeidsmåten hos slike hybriddisker er grovt sett at data som brukes ofte blir liggende i den raske SSD-delen, mens data som brukes sjelden blir liggende på de roterende platene i harddisken. 
+
+Dermed skal man kunne oppleve at det man gjør ofte går raskere, mens andre operasjoner blir som før. 
+
+Men når det ikke er plass til alt blir ikke gevinsten så stor som man kunne ønske. 
+
+Faller kraftig igjennom 
+
+I vår første test sammenlignet vi med harddiskytelse, og det var en tydelig forskjell, selv om den ikke var dramatisk. 
+
+Nå har vi brukt SSD på våre arbeidsPC-er både hjemme og på jobb de siste par årene, så det var naturlig å sammenligne med dette. 
+
+Og da faller SSHD ganske kraftig igjennom. 
+
+Som harddisk for lagring av data er den helt ypperlig, med gode testresultater. 
+Målingene fra Atto viser skrivehastigheter på opptil 175 MByte/sek og lesehastigheter på opptil 168 MByte/sek. 
+
+Men så snart man begynner å måle datatrafikk som er typisk for en systemdisk, er en ny SSD bortimot tre hundre ganger så rask. 
+Mange strømmer av små datablokker som skal leses og skrives gjør at harddisken nærmest kneler og klarer litt over 1 MByte/sek, mens en kjapp SSD leverer over 300 MByte/sek. 
+
+Hybriddisken klarer bare noen hundre i/o-operasjoner i sekundet, mens SSD ligger oppunder åtti tusen! 
+
+Alt om SSD finner du her 
+
+Vi klonet også vår SSD over til SSHD-en, og sjekket oppstart av Windows 7 og forskjellige brukerprogrammer. 
+
+Windows-oppstarten brukte hele ett minutt og førti sekunder på SSHD, selv etter ti gjentatte oppstarter ble det ikke noen forbedring. 
+
+Til sammenligning starter maskinen med SSD på rundt et halvt minutt, akkurat den tiden det tar å henge fra seg jakka og sette seg ned ... 
+
+Konklusjon 
+
+Er det verdt å spandere noen hundrelapper ekstra for å få med 8 GB SSD som raskt mellomlager? 
+Vi mener nei. 
+En hybriddisk med så liten SSD/flash-buffer gir rett og slett ikke noe særlig merkbar ytelsesfordel verken i bruk som systemdisk eller som lagringsdisk. 
+
+Til stasjonære er det bare én løsning som gjelder, og det er en ren SSD som systemdisk, harddisk til datalagring og sikkerhetskopiering på nettverksdisk eller i nettskyen. 
+
+Seagate Desktop SSHD ST2000DX001 2TB 

@@ -1,0 +1,110 @@
+Gaming-PC på høygir
+I en helt annen liga enn PC-ene vi vanligvis tester. 
+
+Vi får stadig spørsmål fra lesere som ønsker at vi tester flere bærbare PC-er med fokus på gaming, som er en kategori i vekst og derfor et stadig viktigere satsingsområde for de fleste produsentene. 
+
+Modellen HP Omen 15 er første gaming-PC vi har hatt på testbenken på en god stund, og vi kan allerede nå røpe at den knuser alt vi har testet tidligere i år, når det kommer til grafikk- og prosessorytelse. 
+
+Denne maskinen ekspederer alt av spilltitler på markedet uten å svette, og er pakket inn akkurat slik mange gamere ønsker det - i et kabinett som lukter råtass lang vei. 
+
+Fullblods spill-PC 
+
+Omen 15 kommer i flere forskjellige konfigurasjoner, vår er i skrivende stund den kraftigste. 
+Vi starter med å se nærmere på spesifikasjonene til vårt testeksemplar: 
+
+Som du ser er det snakk om en meget godt utstyrt PC, med blant annet både SSD og harddisk, rikelige med minne og tilkoblingsmuligheter. 
+Prosessoren og grafikkortet er blant de aller mest populære i gaming-segmentet, og ikke uten grunn. 
+Dette kommer vi nærmere inn på under avsnittet om ytelse. 
+
+Design med klar gamer-appell 
+
+Utseendemessig er det ingen tvil om hvilken kategori den tilhører. 
+Lokket er av plast og gir oss klare assosiasjoner mot et spillkonsoll, samtidig som kombinasjonen sort og røde detaljer gir en stilig effekt. 
+
+Maskinen er tykkere og tyngre enn mange modeller med enklere maskinvare. 
+Mye av årsaken er at det må være plass til kjøleelementer og rør som kan lede varmen effektivt ut av maskinen. 
+Her suges luften inn fra undersiden via to vifter, og blåses ut i bakkant. 
+Dette er definitivt en PC du bør ha stående på et slett underlag når den er i bruk. 
+
+120 
+Hz skjerm 
+
+Åpner du lokket, blir du møtt av en god og lyssterk skjerm med matt overflate. 
+Den sørger for minimalt med reflekser, uansett lysforhold i rommet du befinner deg i. 
+IPS-panelet sørger i tillegg for god innsyn fra sidene, og med 120 
+Hz oppfriskning drar du nytte av fps over 60. 
+Muligens er det også støtte for 3D med passive briller, men vi har ikke sett noe av dette i spesifikasjonene. 
+3D er som kjent ikke noe fokusområde for tiden. 
+
+Øverst på tastaturdelen sitter åpningene til høyttalerne - og de er vendt rett mot deg. 
+Lyden er ikke prima, men høy og fyldig nok til at vi fint aksepterer den til små gamingseanser, der hodetelefonene er utenfor rekkevidde. 
+De fungerer også fint til musikk og film, så lenge du er eneste tilskuer eller tilhører. 
+
+Gaming-taster 
+
+Tastaturplaten er av metall og gir oss Ferrari-fornemmelser, sikkert på grunn av fonten som er benyttet på tastene og bruken av sort og rødt. 
+Spilltastene WASD er røde med hvit preging, og skiller seg klart ut fra de andre tastene. 
+
+Her er også et numerisk tastatur til høyre, og en egen Omen Command-tast som starter kontrollpanelet, der du blant annet får oversikt over ressursbruk og kan også optimalisere nettverkshastigheten ved å slå sammen trådløs- og kablet nettverktilkobling. 
+
+Tastaturet er for øvrig av god kvalitet, og fungerer også fint til vanlig arbeid. 
+Tastene er baklyste (rødt lys, naturligvis), faste og det er lite støy å spore under bruk - med unntakt av slette-tasten på vårt testeksemplar, som knirker(!) 
+
+Skulle vi være kritisk til noe, måtte det være at etikettene på tastene kan være vanskelige å se hvis baklyset er skrudd av. 
+
+Pekeplaten er ikke blant de største, og den har fysiske knapper for venstre- og høyreklikking. 
+Den fungerer helt fint, men sjansene er vel store for at mange bruker ekstern mus tilkoblet denne maskinen. 
+
+Slik yter den 
+
+Den typiske kjøperen av HP Omen 15 og tilsvarende, er naturligvis godt over middels opptatt av at ytelsen skal være høy. 
+Det får de her. 
+Prosessoren er blant de aller kraftigste Core i7-prosessorene for bærbare, med sine fire kjerner og maksimal effektforbruk på 45 watt. 
+
+Ifølge ytelsesmålingene til FutureMark, er Geforce GTX 1060 markedets tredje raskeste for bærbare PC-er, med snittmålinger på 11.100 poeng. 
+Kortet i denne PC-en er av typen GTX 1060 Max-Q, som betyr at det er klokket litt lavere for å utvikle litt mindre varme og dermed basse bedre i tynnere og mer stillegående PC-er. 
+Dette taper du rundt 10-15 prosent på i hastighet, men ytelsen er fortsatt på høyde med GTX 980M som var toppkortet fra Nvidia for et år siden. 
+Det betyr at du skal lete lenge etter et spill som ikke flyter som smeltet smør i full HD-oppløsning og med aller største detaljrikdom. 
+Les mer om kortet hos Notebookcheck. 
+
+For å sette det litt i perspektiv: 
+De fleste PC-ene vi har testet i år, har vært utstyrt med Intels integrerte HD 610, 620 og 630-brikker. 
+I diagrammet under kan du se hvor mye bedre ytelse du kan forvente på Omen 15, basert på målinger tatt med Passmark PerformanceTest: 
+
+Når du tar i betraktning at PC-er med HD 630 takler en god del spill med moderate innstillinger, spesielt hvis titlene er et par år gammel, blir diagrammet enkelt å lese. 
+
+Videre kan vi ta en titt på prosessorytelsen, sammenlignet med tre av de mest populære Core i-prosessorene i PC-er vi har testet tidligere i år. 
+Her ser vi samme tendens. 
+Forskjellene er store, med nesten dobbelt så høy ytelse som populære Core i7-7500U: 
+
+SSD-en målte vi til en lesehastighet på inntil 2,5 GB i sekundet (ja, du leste riktig), noe som er helt i toppen i forhold til alt vi har målt tidligere. 
+Derfor ble vi litt skuffet over at lesehastigheten aldri overskred 350 MB i sekundet i våre målinger. 
+
+Merk at helt stille er maskinen ikke. 
+Viftene går mer eller mindre konstant, men på et så lavt turtall at de ikke merkes i særlig grad. 
+Når du spiller vil viftesuset bli mer merkbart, men sjelden i den grad at det blir plagsomt. 
+
+Ikke noen vinner på batteritid 
+
+God batteritid hører med til sjeldenhetene i dette segmentet, og du må påregne at spillling vil tappe kapasiteten raskt. 
+Derfor ble vi veldig overrasket over at butikker som for eksempel Komplett.no hevder at maskinen skal klare inntil 11,5 timer på én lading. 
+Det tror vi er en umulighet, etter å ha testet PC-en. 
+
+Med de rette innstillingene og oppgavene kan du likevel tyne den til å klare noen timer. 
+Vi satte lysstyrken til 50 prosent og aktiverte batterisparemodus, og da holdt batteriet i like over fire timer med kontinuerlig strømming av video fra YouTube. 
+Med variert og forsiktig bruk kan du sikkert klare fem timer, men aldri 11,5. 
+
+Oppsiden er imidlertid lynrask lading. 
+Etter én time i stikkontakten var batterikapasiteten hele 88 prosent, noe av det aller beste vi har målt noensinne. 
+
+Konklusjon 
+
+I klare ordelag: 
+Dette er en PC som byr på ytelser som kommer til å holde i bøtter og spann til alle mulige PC-oppgaver både i dag og i morgen, inkludert Virtual Reality (VR). 
+PC-en er da også merket Oculus-ready. 
+
+Med tanke på at mange spilltitler beslaglegger adskillige gigabytes på harddisken, hadde det ikke skadet om harddisken var mye større enn 1 TB, men denne kan byttes ut med en romsligere hvis du skulle få behov for det. 
+
+Synes du prisen blir for stiv, finnes HP Omen 15 også i en utgave med Geforce GTX 1050 og 8 GB RAM til noen tusenlapper mindre. 
+Sjekk også ut konkurrentene med tilsvarende spesifikasjoner før du bestemmer deg. 
+Våre øvrige PC-tester finner du her. 

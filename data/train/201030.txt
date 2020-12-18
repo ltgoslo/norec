@@ -1,0 +1,90 @@
+Sonos Play:3
+En liten rakker med god lyd. 
+
+Hvis du vil streame musikk rundt i huset finnes det i dag utallige alternativer, men det er spesielt produktene til Squeezebox og Sonos som har fått mye skryt fra kresne kunder og den audiofile delen av pressen. 
+
+De to konkurrentene hviler på samme grunntanke, og er ganske like i bruk: 
+Her skal du spille av musikk du har lagret på PC-en i høy kvalitet, samtidig som du har tilgang til utallige nettradio-stasjoner, og ikke minst musikktjenester som Spotify og norske WiMP. 
+
+Personlig har jeg imidlertid endt opp med Squeezebox, og prisen er hovedforklaringen. 
+Sonos har nemlig kostet en god del mer, og har dermed henvendt seg til et litt annet publikum. 
+Nå har det heldigvis begynt å snu, og når dagens testeksemplar Sonos Play:3 ligger på rundt 2.400 kroner begynner dette å bli virkelig interessant. 
+
+Play:3 
+
+Den aktive høyttaleren Play:3 har tre klasse-D forsterkere som pumper ut lyden via et diskantelement på 1", samt to mellomtone-og et basselement på 3". 
+Som du ser på bildene er den svært plasseringsvennlig. 
+
+Enheten kan plasseres liggende, stående, eller du kan henge den direkte på veggen om du kjøper et tilhørende veggfeste. 
+De oppgitte målene er 13,2 x 26,8 x 16 cm, så størrelsesmessig er den omtrent som esken til et par små barnesko, eller et par bind av mursteinene til Knausgård. 
+
+På toppen finner du kun volum- og mute-knapper, og det er verdt å merke seg at det ikke følger med noen fjernkontroll i pakken. 
+
+All styring av musikken må altså gjøres via datamaskinen din, eller en dedikert Apple- eller Android-app. 
+Du kan riktig nok kjøpe Sonos dedikerte fjernkontroll, men den er så dyr at den i dag framstår som meningsløs. 
+For alle med en smartmobil er det derfor like greit å bruke appene, som fungerer ypperlig og er gratis (mer om det lengre ned). 
+
+Også baksiden er enkel, her er det kun nettverkskabelen og strømledningen som skal dyttes på plass. 
+Renheten har dog sin pris. 
+På grunn av manglende innganger er det ikke mulig å koble til en ekstern MP3-spiller direkte, og siden det heller ikke er noen utganger kan du heller ikke koble Play:3 direkte til stueforsterkeren din og spille av lyden der. 
+
+Oppsett 
+
+Det første du bør legge merke til er at Play:3 ikke er trådløs rett ut av esken. 
+I praksis vil det si at den må kobles til nettverket ditt via kabel, noe som reduserer bruksområdet betraktelig. 
+Hvis du i likhet med meg ikke har hovedenheten til Sonos må du altså kjøpe en såkalt Bridge til cirka 400 kroner i tillegg. 
+Når Bridge-enheten først er tilnyttet nettverket ditt, vil den opprette sitt eget trådløse nett til Play:3 enheten. 
+Vil du utvide etterhvert er ikke dette noe problem, Bridge-enheten kan settes opp mot totalt 32-Sonos-produkter - noe som bør holde i massevis. 
+
+Dette er altså et punkt hvor Sonos skiller seg fra Squeezebox. 
+Ulempen er at du må ha en ekstra enhet, men fordelen er at det dedikerte trådløse nettverket som opprettes er mer stabilt, ettersom det kun jobber med å håndtere lydstrømmen. 
+
+Installering. 
+Det første du må gjøre er å laste ned og installere programvaren fra Sonos.com. 
+Dessverre er ikke programvaren på norsk, så vi her på berget må holde oss til engelsk, eller svensk - om du heller vil det. 
+
+Programvaren guider deg så gjennom selve tilkoblingen, først til Bridge-enheten, og så til Play:3. 
+Dette er rimelig selvforklarende. 
+Hvis du i likhet med oss har en iPhone eller Android-mobil, er det forøvrig samme framgangsmåte her. 
+
+Men hva med lyden? 
+
+Det første som slår oss er at Play:3 spiller overraskende høyt, den sprekker riktignok litt på maksimalt volum, men det er likevel imponerende at denne lille tassen kan gi så mye lyd. 
+Sammenligner vi med Squeezebox 
+Radio er det heller ingen tvil: 
+Play:3 har rett og slett langt bedre lyd over hele linjen. 
+
+Som nevnt kan Play:3 plasseres både liggende og stående, og det er verdt å merke seg at Sonos faktisk tar hensyn til det. 
+Lydbildet blir nemlig automatisk justert, etter hvilken posisjon høyttaleren er plassert i. 
+(NB: 
+Det er også mulig å kjøpe to stykk Play:3, og sette dem opp slik at de fungerer som rene stereohøyttalere - altså en ren høyre og venstre-høyttaler, men det har ikke vi prøvd.) 
+
+Svært god app 
+
+Vi brukte hovedsaklig vår iPhone til å styre Play:3, og det er bare å konstatere at appen fungerer svært godt. 
+Både musikkbiblioteket og nettradio-kanaleren listes opp med navn og logo, og dette er så enkelt at du kommer svært raskt inn i det. 
+Enhver berøring på touchskjermen gir umiddelbart respons fra Play:3, så i bruk fungerer den faktisk hakket bedre enn Squeezebox-produktene, selv om også disse har begynt å bli svært bra. 
+
+Har du Spotify Premium-abonnement har du selvsagt tilgang til musikken derfra også. 
+
+Se forøvrig bildespesial for menyeksempler: 
+
+Men noen minus er det 
+
+Sonos takler i utgangspunktet svært mange lydformater, inkludert blant annet Apple Lossless og Flac. 
+Dessverre for undertegnede takler den imidlertid ikke lossless WMA (jada, jeg angrer på at jeg rippet i det formatet, men den jobben gjør jeg ikke en gang til), de blir rett og slett ikke spilt av. 
+
+Vi liker også Spotify-støtten, men er du WiMP-bruker blir du skuffet. 
+Per dags dato er nemlig ikke WiMP støttet. 
+Også det er et minus sammenlignet med Squeezebox-produktene. 
+
+Konklusjon 
+
+Jeg liker Sonos godt, og Play:3 er intet unntak. 
+Den er enkel i bruk, har overraskende god lyd størrelsen tatt i betraktning, og styres glimrende via iPhone eller Android. 
+For deg som allerede tilhører Sonos-universet er det altså fint lite å utsette her. 
+
+For meg er det imidlertid et minus at den ikke støtter WiMP og WMA-lossless, har du først rippet hundrevis av CD-er i feil format er du altså litt låst. 
+
+Det største minuset med Play:3 er likevel at den ikke er 100% trådløs uten at du også kjøper en Bridgeenhet. 
+Spør du oss burde det vært innebygget, og det er her femmeren ryker for vår del. 

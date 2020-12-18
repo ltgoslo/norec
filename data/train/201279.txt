@@ -1,0 +1,183 @@
+LG Optimus 2X P990
+Den raskeste Android-telefonen vi har testet. 
+
+Denne våren blir det et inntog av dobbeltkjerneprosessorer i de dyreste smarttelefonene, og først ut på vår testbenk er LG Optimus 2X, som har en Nvidia Tegra 2-prosessor under panseret der kjernene opererer på 1GHz. 
+
+Det gjør at den også er den desidert raskeste Android-telefonen vi har testet. 
+Telefonen drar både full HD-video og avanserte 3D-spill, programmer starter lynraskt og flere har latt seg imponere av hvor raskt Optimus 2X oppfører seg ved surfing på nettet. 
+
+Men det er også mer å like ved Optimus 2X. 
+Mer om det etter spesifikasjonene: 
+
+Spesifikasjoner, LG Optimus 2X 
+
+Skjermstørrelse: 4"Oppløsning: 
+800x480 pikslerSkjermteknologi: 
+LCD/TFTProsessor: 
+Nvidia Tegra 2, 1GHz dobbeltkjerneInnebygd minne: 512MB RAM, 8GB internminneMinnekort: 
+Micro SD opp til 32GBAndroid-versjon: 
+2.2 (Froyo), 2.3 (Gingerbread) i nær fremtidKamera: 
+2 stk. 
+8Mp bak og 1,3Mp foranVideo: 1920x1080 (full HD)Radio: 
+Stereo FM m/ RDS (krever medfølgende ørepropper)Utganger: 3,5mm jack (ørepropper følger med), micro HDMI (kabel følger med), micro USB (til lading/dataoverføring, kabel følger med)WiFi: Wi-Fi 802.11 b/g/n, DLNA3G: 
+HSDPA, HSUPABluetooth: v2.1Mål: 
+123,9 x 63,2 x 10,9 mmVekt: 
+139 gramBatteri: 
+1500mAhPris: ca 4200 kroner 
+
+Innholdsfortegnelse: 
+Spesifikasjoner, LG Optimus 2XKonstruksjonYtelseI brukEposttrøbbelKamera, video og samtalekvalitetKonklusjon, LG Optimus 2X 
+
+Konstruksjon 
+
+LG Optimus 2X fremstår med høy kvalitet konstruksjonsmessig. 
+Rammen er av kombinert plast og metall, og telefonen er også god å holde i fordi kameraet på baksiden er løftet litt ut fra resten, som gir et behagelig søkk til pekefingeren når du holder telefonen, og hele baksiden har også litt friksjon. 
+LG-telefonen er imidlertid ingen liten krabat, og med en fire tommer stor skjerm kan den oppleves i største laget for noen. 
+
+Vi lar oss uansett imponere av skjermen, som er lyssterk og med gode farger uten å overdrive det. 
+Sortnivået er riktignok ikke helt på høyde med Samsungs AMOLED-skjermer (som finnes i blant annet Nexus S, Omnia 7 og den kommende Galaxy S II), men Optimus 2X presterer til gjengjeld svært godt ute i vintersola, der det fortsatt går helt fint å se innholdet på skjermen selv på dager med skyfri himmel. 
+Det er det ikke alle telefoner som håndterer like godt. 
+For øvrig har vi også testet hvor mange punkter skjermen klarer å registrere samtidig, og Optimus 2X klarte å registrere alle ti fingre, og der berøringen også er svært presis. 
+
+Forsiden av telefonen har ingen fysiske taster, der de fire "standardknappene" meny/hjem/tilbake/søk fungerer som berøringsfølsomme felter som også lyser i mørket. 
+Vi liker godt av avstanden ned til disse er såpass lang som den er, og i testperioden har vi ikke opplevd å komme borti dem når vi har skrevet på tastaturet, noe vi har opplevd på tilsvarende konstruksjon på andre telefoner. 
+
+Når det gjelder fysiske knapper er av og på-knappen å finne på toppen av telefonen, og denne er såpass liten og nedfelt at den krever litt ekstra presisjon. 
+Fordelen er imidlertid at du sjelden slår på telefonen uten å mene det, for eksempel når den puttes i lomma. 
+Litt uvant er det med volumbrytere på høyre side av telefonen – de er da mest tilgjengelig for deg som vanligvis holder telefonen i høyre hånd. 
+
+Vi legger også merke til at glasset på skjermen faktisk er hevet noen tidels millimeter over rammen - det er pent designmessig og gjør at tommelen ikke får noen skarp kant å gli over, men kan også medføre at skjermen lettere skades dersom du mister telefonen i bakken. 
+
+På toppen av telefonen skjuler det seg også en micro-HDMI-utgang bak et lite gummilokk, og gledelig er det at LG også legger ved egnet kabel i esken slik at telefonen kan kobles direkte til en HDTV. 
+Dette skjer via såkalt HDMI mirroring, der du ser det samme på TV som du gjør på telefonen. 
+
+Med i pakken vår du også støyisolerende øreplugger, med bryter for å ta i mot og legge på samtaler, eller starte og stoppe avspilling. 
+Disse er også nødvendige å bruke for å kunne utnytte FM-radio-funksjonaliteten. 
+Kvaliteten på ørepluggene er litt så som så - det er ikke spesielt mye bass i dem, men det største problemet er at berøring av ledningen høres godt som dunkelyder i øret. 
+
+Batterilokket dekker hele baksiden av telefonen og må "brekkes løs" med fingerneglen. 
+Under ligger batteri, minnekort og SIM-kort, og konstruksjonen gjør at minnekortet kan tas ut uten at batteriet må vippes ut først. 
+Selvsagt er det derfor også mulig å kjøpe et ekstra batteri om du vil ha ett i bakhånd. 
+
+Ytelse 
+
+Som nevnt innledningsvis - LG Optimus 2X fremstår som en svært rask telefon, og det til tross for at Android ikke er helt optimalisert for dobbeltkjerneprosessorer. 
+
+Selve hjemmeskjermen er imidlertid ikke så kjapp rett ut av boksen, siden LG legger på en del widgets (småprogrammer som kjører direkte på hjemmeskjermen), men det ser til gjengjeld pent ut. 
+
+Spesielt opplever vi litt hakking når vi trykker på hjem-knappen en ekstra gang slik at alle hjemmeskjermene vises i ett bilde, men heller ikke skrolling mellom hjemmeskjermene går helt flytende. 
+Vi lastet ned LauncherPro (en av Androids beste hjemmeskjermer), og den fungerte mye bedre med tanke på ytelse. 
+
+Drar du opp Facebook-applikasjonen eller listen over installerte programmer, ser man imidlertid kjapt at dette er en telefon med mye krutt under panseret, der alt går flytende som bare det. 
+Vi har også testet noen spill optimalisert for Nvidias Tegra-plattform (f.eks. 
+Dungeon Defenders), og disse flyter også imponerende godt. 
+
+Og – der de fleste Android-telefoner oppleves noe hakkete på nettsurfing, spesielt sammenlignet med iPhone, drar Optimus 2X det meste svært tilfredsstillende. 
+Den bildetunge webversjonen av Dagbladets forside (inkludert Flash-elementer) lastes svært raskt, og skrollingen oppleves fortsatt som akseptabel, selv om det selvsagt går enda bedre på nettsider uten flash. 
+
+Flere har latt seg imponere av hastigheten i f.eks. YouTube-applikasjonen, og bildegalleriet med en del visuelt snacks er forrykende smooth. 
+3D-effektene sitter som et skudd, og telefonen er lynrask til å rotere bildene når du vrir telefonen 90 grader. 
+
+Dette underbygges også av diverse ytelsesmålinger. 
+Optimus 2X scorer bittelitt bedre enn iPhone 4 (med iOS 4.3 installert) på Sunspider-testen (måler javascript-ytelse i nettleseren, score: 4015), og på Quadrant Standard-testen (som måler både CPU, minne, grafikkprosessor etc.) er Optimus 2X den suverent raskeste telefonen vi har testet, med en score på over 2500, som du ser i grafikken til høyre. 
+Gledelig er det forresten også at Optimus 2X kan ta skjermdumper ved å trykke hjemmeknapp og powerknapp samtidig – det er vanligvis ganske omstendlig på Android-telefoner (og letter arbeidet for en mobiltester ganske betraktelig). 
+
+Et par fartsdumper er det - blant annet bruker telefonen noen tideler for mye når skjermen slås på, som gjør at vi ofte må gjenta oppløsningsmønsteret, og dette kan oppleves som et lite irritasjonsmoment. 
+
+Når det gjelder batterilevetid ligger Optimus 2X helt på det jevne for denne type telefoner (og faktisk kanskje litt bedre), der enheten bør lades hver dag om du bruker den like hypping som vi har gjort i testperioden. 
+Et typisk scenario i skrivende stund: 
+Etter 14 timers oppetid der vi både har spilt, brukt Facebook, surfet på nettet, lastet ned programmer, tatt bilder og ringt, er det 30% igjen av batteriet. 
+
+I bruk 
+
+Vi er godt fornøyde med medfølgende programvare på Optimus 2X. 
+Grensesnittet ser pent ut og medfølgende widgets har høy kvalitet. 
+Tastaturet, som for øvrig er veldig likt det Samsung har på sine Android-telefoner, oppfører seg meget bra, og skjermen virker å være svært presis med tanke på knappetrykk. 
+Å sette opp telefonen går, som vanlig, lett som en plett, der du kan legge inn innloggingsdetaljer fra Gmail, Facebook, Twitter, Exchange etc. før du går i gang med å bruke telefonen, samt importere kontakter fra disse tjenestene. 
+
+LG har valgt å partisjonere internminnet slik at ca 1,2GB er tilgjengelig til apps som ikke kan kjøres fra minnekort, mens resten er beregnet for lagringsplass for bilder, video etc. 
+
+Et lite minus noterer vi oss fordi LG-telefonen ikke kommer med norsk tastatur (a må holdes nede litt for å få opp å etc.), men dette lar seg løse ved å laste ned et norsk tastatur fra Android Market. 
+
+Vår favoritt for tiden er Swiftkey, som over tid lærer seg hvilke ord du skriver oftest og hvilke du ofte skriver etter hverandre. 
+LG-tastaturet inneholder imidlertid norsk ordbok slik at du får forslag til ord mens du skriver. 
+
+LG har også modifisert varselmenyen der du også finner brytere for å slå av og på WiFi, Bluetooth, GPS etc., samt avspillingskontroller for musikkspilleren. 
+
+Musikk- og videoapplikasjonene som følger med er helt OK - lette i bruk og f.eks. med støtte for spillelister på den innbakte musikkspilleren. 
+Vi overførte også videoklippene i vår testsuite for mediespillere til Optimus 2X, men slett ikke alt spises. 
+Blant annet fikk vi ikke spilt av mkv/H.264-filer og hadde også varierende suksess med WMV HD-filer der én fungerte og én ikke gjorde det. 
+
+Det må også nevnes at vi ikke fikk til å spille alt via HDMI-kabelen som ellers spilte fint på selve telefonen. 
+Eksempelvis hadde vi en musikkvideo i Divx HD (1080p) som lar seg spille fint på telefonen, men som går i sort etter et par sekunder på TV, så sannsynligvis er ikke prosessoren rask nok til å dra alt i full HD på en TV-skjerm. 
+
+Ellers får du med et knippe applikasjoner i Optimus 2X: 
+
+App Advisor - Anbefalte apps fra LG, et slags redaksjonelt produkt, men ikke spesielt godt i våre øyneF-secure - Sikkerhetsprogramvare med 12mnd abonnement, gir deg også mulighet til å stenge telefonen ved å sende en spesiell SMS, kan låse telefonen dersom SIM-kortet byttes og sende informasjon på SMS til et forhåndsdefinert nummer etc.Forhåndslastede programmer 
+- Kan installeres om du vil. 
+Eksempler er Shrek Karting (bilspill), PicSay (fotoredingeringsapplikasjon) og Layar (augmented reality-nettleser)Facebook/Twitter/Myspace 
+- Helt OK klienter, men mangler støtte for de nyeste funksjonene, som Facebook Places. 
+Derfor lastet vi allikevel ned tredjepartsklienter fra Android Market.Notater - Kjapp notisblokk for å notere småting, støtter også bildevedleggPolaris Office 
+- Lar deg lese PDF-filer og Office-dokumenterRemotecall 
+- Lar deg ringe LGs supporttelefon og gir dem tilgang til telefonen din hvis du er komfortabel med detSpeil 
+- Viser bildet på frontkameraet slik at du kan sminke deg på fartenSmartshare - DLNA-programvare som lar deg spille av mediefiler fra andre DLNA-enheter (men ikke andre veien)Taleopptaker 
+
+Eposttrøbbel 
+
+Det er imidlertid én applikasjon vi fikk mye trøbbel med, og det er den medfølgende epostklienten. 
+Undertegnede har verdens slemmeste innboks (over 60.000 uleste - inbox zero er for pyser), og mens epostklienten klarer å hente de siste epostene første gang, blir den bare stående etterpå. 
+Før jeg oppdaget dette, gikk epostapplikasjonen i bakgrunnen og slukte strøm slik at telefonen måtte lades flere ganger om dagen, men jeg har faktisk ikke klart å løse denne floka og måtte til slutt slette Exchange-kontoen fra telefonen for å bli kvitt problemet. 
+Dette problemet har jeg dog ikke hatt på andre Android-telefoner, heller ikke i iOS, Windows Phone 7 eller Bada, for den saks skyld. 
+
+For å feilsøke ytterligere, prøvde vi å legge inn Exchange-kontoen til en kollega (med vesentlig mindre innboks), og til å begynne med fungerte dette fint, der epost dukket opp etter hvert som de ankom. 
+Dog var det ikke mange innboksmeldinger som ble hentet (ingen valg for å hente flere), og vi fikk heller ikke opp eposter fra undermappene. 
+I tillegg er funksjonaliteten begrenset, der du blant annet ikke kan sette flagg på eposter. 
+
+Imidlertid viste det seg etter hvert at samme problem meldte seg, der nye eposter ikke lenger dukket opp i innboksen. 
+
+Med andre ord er Exchange-svakheter i epostprogrammet fra LG. 
+Det går selvsagt an å kjøpe en ekstern applikasjon til dette formålet, men vi er nødt til å trekke Optimus 2X på grunn av denne problematikken. 
+Dette kan imidlertid rettes opp i fremtidige oppdateringer – blant annet har LG lovet at Android v2.3 (Gingerbread) skal komme raskt til Optimus 2X. 
+
+LG har også et støtteverktøy for Windows-baserte PC-er, der du kan kjøre et program på PC-en, koble til telefonen og se telefonskjermen i et eget vindu. 
+Derfra kan du navigere på telefonen ved å bruke muspekeren, skrive meldinger på PC-tastaturet, overføre filer etc. 
+Dessverre finnes ikke dette programmet i Mac- eller Linuxversjon. 
+
+Kamera, video og samtalekvalitet 
+
+LG Optimus 2X har to kameraer; ett bak og ett foran, som muliggjør videosamtaler. 
+Kameraet på baksiden har en oppløsning på 8 megapiksler, og telefonen kan også filme med full HD-oppløsning (1920x1080), 24 bilder pr sekund. 
+
+At mobiltelefonen kan filme med full HD-oppløsning er mer stas på papiret enn i virkeligheten, for du får ikke den samme detaljrikdommen som fra et dedikert HD-videokamera. 
+Dog er faktisk videokvaliteten ganske god til en mobiltelefon å være, og spesielt synes vi lyden fremstår klarere enn hva tilfellet er hos mange av konkurrentene. 
+
+Stillbildene er noe varierende i kvalitet, og spesielt ser hvitbalanseringen ut til å være litt upålitelig der både grønnstikk og magentastikk er mest vanlig. 
+Bildene har relativt god skarphet, men preges også av noe støy selv i god belysning, i tillegg til at de fremstår noe matte, med lav fargemetning og noe lav kontrast. 
+Vi anbefaler derfor en runde i et redigeringsprogram for å dra opp konstrastene litt før du publiserer bilder tatt med telefonen. 
+
+Last ned filene (.zip-format, inkl videoeksempler): 
+
+Merk også, altså, at Optimus 2X kan kobles til en TV eller projektor via HDMI. 
+Da vises det samme bildet på telefonen og skjermen (såkalt HDMI mirroring), og dette fungerer ganske bra. 
+Vi skulle dog ønske at bildevisningsapplikasjonen kunne ha spyttet ut bilder i full HD-oppløsning til TV-bruk (du får kun HD i videoapplikasjonen, 480p ellers), og som nevnt er kodekstøtten noe mangelfull. 
+
+Under testingen har vi opplevd samtalekvaliteten som svært god på LG-telefonen, med lite støy og klar og fin lyd. 
+Jeg har spesielt ett familiemedlem som har ganske store problemer med støy på sin telefon (som også høres av samtalepartner), men dette var faktisk langt mindre fremtredende på Optimus 2X enn på telefonen undertegnede bruker til daglig. 
+Vi har heller ikke fått noen klager av de vi har snakket med på telefonen og opplever derfor Optimus 2X som en solid telefon med tanke på samtaler. 
+
+Konklusjon, LG Optimus 2X 
+
+Det er liten tvil om at LG her leverer en solid Android-telefon, som er den raskeste vi har testet til nå, men der det definitivt vil bli konkurranse de neste månedene. 
+Telefonen spiller av videofiler i full HD uten problemer (i hvert fall når du ikke kobler den på en TV), den er rask å surfe på og kan også kjøre delikate 3D-spill med høy billedrate. 
+
+I tillegg gir konstruksjonen et solid kvalitetsinntrykk, kameraet er relativt godt (spesielt god lyd på videoopptak) og HDMI-utgang er definitivt et pluss for å kunne vise bilder og film direkte på en TV eller projektor. 
+Skjermkvaliteten er meget god, og spesielt synes vi Optimus 2X fungerte meget bra i sterkt sollys, der det fortsatt var fint mulig å lese det som stod på skjermen. 
+Samtalekvaliteten er også finfin, og den innebygde høyttaleren holder også god kvalitet, med klar lyd selv på høye voluminnstillinger. 
+
+Uheldigvis har vi hatt problemer med den medfølgende epostklienten, som ikke ville være helt kompis med vår Exchange-tjener på jobb, og som også er ganske fattig på funksjonalitet. 
+Til tross for våre forsøk med flere konti lykkes vi ikke å få dette til å fungere slik det burde og endte opp med å fjerne Exchange-kontoen slik at epostapplikasjonen ikke ble stående og trekke mye strøm. 
+
+Vi lander uansett på en femmer på terningen, men vi holder tilbake vårt "anbefalt produkt"-stempel nettopp fordi vi vi vil at dette stempelet skal representere produkter som kan anses for trygge valg for alle. 
+Det skal dog sies at det er mulig å kjøpe tredjepartsklienter i Android Market for deg som trenger bedre Exchange-støtte. 
+
+LG Optimus 2X P990 

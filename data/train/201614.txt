@@ -1,0 +1,100 @@
+Netgear Netgear Nighthawk X4 R7500
+Et meget godt valg hvis du verdsetter god trådløs rekkevidde. 
+
+Mange lever i den villfarelsen at en ruter er en ruter. 
+Det var kanskje sant en gang, men en ny ruter i 2014 er i praksis en multifunksjonsenhet som kan mye mer enn å få deg på nett. 
+Den er blant annet et effektivt skjold mot inntrengere, den er filserver, medieserver og skriverserver - i tillegg til at den sørger for høyere hastigheter og større dekningsområde mellom dingsene i nettet ditt, og mot Internett. 
+
+For har du investert i fiber eller en annen høyhastighets bredbåndsløsning, kan fort ruteren bli en real propp og flaskehals som gjør at du ikke får utnyttet hastigheten du betaler for. 
+
+Da kan det være lurt å investere i en ny ruter, og velger du fra øverste hylle nå, skal ruteren støtte standarden 802.11AC. 
+Netgear Nighthawk X4 AC2350 er en slik ruter, og den har fire antenner og et såkalt 4x4 MU-MIMO-brikkesett (Multi-User Multiple Input Multiple Output). 
+Dette er i skrivende stund det hotteste på rutermarkedet. 
+
+Ikke helt ferdig 
+
+I teorien skal du kunne oppnå en trådløs hastighet på 1,73Gbps med denne ruteren. 
+Det er 73 prosent raskere enn hva som er normal makshastighet via kabel, men i praksis vil hastigheten være langt lavere. 
+For det første er det få enheter som foreløpig støtter AC2400-implementasjonen, for det andre venter vi fortsatt på at Quantenna (som har laget brikkesettet i ruteren) skal komme med en ny firmware som muliggjør full utnyttelse av potensialet. 
+
+Denne er ifølge Netgear ventet i desember, og eiere av ruteren kan enkelt oppgradere selv. 
+
+Stealth-inspirert design 
+
+Designmessig kan den minne om et høytsvevende fly som ikke kan oppdages på radar. 
+Den er relativt stor, og med de fire antennene stikkende ut, er det kanskje ikke alle som vil ha den stående på et godt synlig sted i stua. 
+Heldigvis kan du enkelt skru av de blinkende lysene i fronten via en knapp på baksiden, noe som kan gjøre den litt mer uanselig. 
+
+Den har to USB 3.0-porter på venstre side, og en eSATA-kontakt på høyre. 
+Alle tre kan brukes til minneplugger og eksterne harddisker, USB-portene kan dessuten brukes til skrivere som skal deles i nettet. 
+
+En morsom detalj er at ruteren er AirPrint-kompatibel. 
+Det betyr at du kan skrive ut fra iPhone og iPad, selv om ikke skriveren i seg selv har slik støtte. 
+Smart! 
+
+På baksiden sitter fire gigabit ethernet-kontakter, modemtilkobling, samt knapper for å skru av og på ruteren og skru av lysene i fronten. 
+
+Ved siden av lysene, til høyre i fronten, sitter to knapper. 
+Den ene aktiverer/deaktiverer trådløst nett, mens den andre brukes for enkel oppkobling av kompatibelt utstyr, uten å måtte taste passord. 
+
+Svært enkelt å komme i gang 
+
+Når du pakker opp ruteren vil du se at produsenten har tatt seg bryet med å klistre på standardnavnet og passordet på det trådløse nettet, samt hvor du skal koble til antennene. 
+Spesielt førstnevnte er nyttig, for i praksis er det bare å koble ruteren mot modemet, skru den på, logge seg på og vips - så er du på nett. 
+
+Det opprettes to nett, ett for utstyr som kun støtter 2,4GHz-båndet, og ett for nyere utstyr som støtter 5GHz-båndet. 
+Det er sistnevnte som byr på høyeste hastighet. 
+Det er også mulig å lage to gjestenettverk, ett for hvert av båndene. 
+Disse kan du legge diverse restriksjoner på, avhengig av hvilke ressurser du ønsker skal være tilgjengelig. 
+
+Første gang du åpner nettleseren blir du møtt av en veiviser som tar deg gjennom videre konfigurasjon, og heldigvis foregår alt på (god) norsk. 
+Prosessen er veldig enkel og rett fram. 
+
+Her viser vi deg et utdrag av stegene du tas gjennom: 
+
+Frittstående programmer 
+
+Under oppsettet får du også spørsmål om du har lyst å laste ned et program som lar deg styre ruteren uten å gå via nettleseren, og et program som automatisk sikkerhetskopierer brukerfilene dine din med jevne mellomrom. 
+Sistnevnte krever at du kobler en ekstern harddisk eller minneplugg til en av de to USB 3.0-portene på ruteren, eventuelt til eSATA-kontakten hvis du har en slik disk. 
+Programmet kjører umerkbart i bakgrunnen, og kan være smart å bruke hvis du konstant har dårlig samvittighet for bilder og dokumenter du vet du burde ha sikkerhetskopiert. 
+
+Men også Netgear Genie, programmet som lar deg administrere ruteren uten å åpne nettleseren, anbefales. 
+Her får du full kontroll over alle aspekter ved ruteren, ofte med bedre grensesnitt enn i nettleseren. 
+Se bare på dette nettverkskartet, det er noe av det bedre vi har sett: 
+
+Enhetene kan også døpes om for enklere identifikasjon: 
+
+Du kan også laste ned en app til iOS- og Android-mobiler og nettbrett, som også lar deg foreta enkelte konfigurasjoner: 
+
+Deling på en-to-tre 
+
+Å dele en ekstern harddisk i nettet er svært enkelt. 
+Du kobler den til ruteren og åpner konfigurasjonssiden i nettleseren eller Netgear Genie. 
+Her kan du administrere delte mapper, brukere og styre tilgangskontroll. 
+Du kan også bestemme om disken skal fungere som medieserver (for eksempel for streaming på tilkoblede TV-er og Bluray-spillere), og om den skal være tilgjengelig fra 
+Internett på forskjellig vis: 
+
+Målinger av hastighet og rekkevidde 
+
+Vi målte hastigheten til rundt 35 MB i sekundet under optimal, trådløs tilkobling med samme PC som vi brukte under testen av en annen AC2400-ruter, ASUS RT-AC87U. 
+Denne har et Intel AC 7260-nettverkskort som ikke er i stand til å ta ut hele potensialet, men er blant de beste kortene for bærbare PC-er i skrivende stund. 
+
+Hastigheten ligger noe under det vi klarte med den nevnte ASUS-ruteren, men dette tar Netgear igjen på bedre rekkevidde. 
+Tabellen under viser målt hastighet fra forskjellige avstander: 
+
+Vi opplevde altså rekkevidden som bedre enn konkurrenten fra ASUS, vel og merke med standardinnstillinger. 
+Vi ble faktisk meget imponert over både rekkevidde og det faktum at hastigheten holdt seg relativt godt også på ganske store avstander. 
+Kanskje litt overraskende, da enkelte andre tester har kritisert hastigheten for å være svak (riktignok med eldre firmware). 
+I våre målinger var Netgear kun tregere enn ASUS på de korteste avstandene. 
+
+Vi opplevde også Netgear-ruteren som mer stabil, men legger til at den hadde en nyere firmware enn den aktuelle ASUS-en. 
+Husk dessuten på at det er mye som kan skape forstyrrelser over så store avstander, og at rekkevidden kan variere mye med hvilket utstyr du bruker og miljø du befinner deg i. 
+
+Konklusjon 
+
+Netgear Nighthawk X4 R7500 imponerte oss med enkelt grunnoppsett, god funksjonalitet og stabilitet - samt god hastighet over store avstander. 
+Det største ankepunktet er prisen, som i skrivende stund starter på 1990 kr inkl mva. 
+Den er høy, slik den alltid er når den nyeste teknologien kommer i butikkene. 
+Merk også at du foreløpig ikke får utnyttet potensialet til fulle, men ny firmware og kompatibelt utstyr er ventet i tiden som kommer. 
+
+Netgear Nighthawk X4 R7500 

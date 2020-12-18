@@ -1,0 +1,64 @@
+TEST:NuForce uDAC-2 D/A-konverter 
+
+Er 1000 kroner nok til å gi PCen din ny lyd? 
+Det kommer veldig an på. 
+
+Å huske lyd er ingen enkel sak. 
+Det vil si, du kan huske visse åpenbare kvaliteter som at den varte omtrent så og så lenge, hadde lite eller mye bass, og ikke minst om lyden varierer over tid. 
+Det er enkelt. 
+Men å virkelig huske lyd? 
+
+Det er ikke fullt så enkelt. 
+
+Det er nemlig det en må gjøre når en skal sammenlikne en lydkilde med en annen, for så å bedømme hvilken som lyder best. 
+NuForce uDAC-2 er en såkalt D/A-konverter som også fungerer som hodetelefonforsterker, og som for under tusenlappen blant annet lover å "tilfredsstille behovene til selv de mest kritiske musikkelskere" (produsenten). 
+
+Er du i målgruppen? 
+
+Hvorvidt det er deg er vanskelig å si. 
+En D/A-konverter har uansett til hensikt å forbedre kvaliteten på overgangen fra digital lyd, slik den for eksempel ligger lagret i form av mp3 eller wav-filer på laptopen eller PCen din, til analog lyd, som er punktet der du kobler til hodetelefonene eller høyttalerne dine. 
+
+uDAC-2 har både hodetelefonutgang (3.5mm) og to phono-koblinger. 
+De siste kan du koble til en separat forsterker, eller en annen lydkilde. 
+Vi har testet den som ren hodetelefonforsterker, ettersom det er slik den markedsføres. 
+
+Den knøttlille boksen kan brukes sammen med både en såkalt koaksial digital-utgang, eller, slik vi har gjort, via USB-tilkobling. 
+Den behøver ikke mer strøm enn du får gjennom USB-porten. 
+Mac-brukere behøver heller ikke installere ekstra drivere, uDAC-2 dukker automatisk opp i lyd-kontrollpanelet. 
+Windows-brukere kan måtte optimalisere allerede eksisterende drivere i henhold til NuForces råd i manualen. 
+
+En tydelig volumkontroll på selve enheten justerer lydnivået uten at en behøver gå via PCen eller Macen. 
+
+Hvor er forskjellen? 
+
+Utgangspunktet for en ekstern D/A-konverter til 995 kroner bør være at den ihvertfall skal låte bedre enn den interne lydutgangen på en laptop. 
+En tusenlapp er tross alt en tusenlapp. 
+
+Etter nitid lytting med to ulike hodetelefoner (BeyerDynamic DT-770 Pro og Sennheiser HD-650) på en MacBook Pro er svaret både enkelt og ikke fullt så enkelt: 
+Det er svært vanskelig å høre forskjell mellom MacBookens interne lydkort og NuForce sin budsjettkonverter. 
+
+Det er muligens en kontroversiell ting å si, ettersom både forgjengeren, uDAC, og denne enheten har blitt til dels svært godt blant annet på Amazon.com og andre steder. 
+
+Gjensyn med gammel kjenning 
+
+Timer med veksling fram og tilbake mellom internlyd og uDAC-2 avslører likevel ingen åpenbare forskjeller. 
+Jeg har blant annet latt deler av Radioheads "Subterranean Homesick Alien" gå i loop i en halvtime, en sang jeg kjenner bedre enn min egen bukselomme, men konsentrert lytting til tross: forskjellen er for vår del ikke-eksisterende. 
+
+Det tar oss tilbake til lyd og hukommelse igjen. 
+Åpenbare forskjeller er enklere å legge merke til en svært små forskjeller. 
+Kanskje finnes det nyanser i uDAC-2s lydbilde som lar seg måle, kanskje er de så små at de to sekundene det tar å veksle mellom de to lydkildene er nok til at sammenlikning blir vanskelig. 
+
+Da gjenstår i så fall fortsatt spørsmålet om en forskjell som er så vanskelig å høre er verdt pengene. 
+Det er nemlig en atskillig enklere jobb å høre forskjell på for eksempel de to hodetelefonene vi har brukt under testingen enn det er å påpeke nyanser i lydbildet mellom MacBook-utgangen og uDac-2. 
+
+Hjelp for de tungdrevne 
+
+Støynivået går derimot så å si garantert i favør av uDAC-2 - vi har ikke målt -, men i praksis vil vi påstå at du ikke kommer til å få noen åpenbaring, med mindre du er i besittelse av et svært dårlig og/eller støyfullt lydkort. 
+
+Det som derimot kan være et fornuftig bruksområde for denne enheten er tungdrevne hodetelefoner. 
+Det finnes modeller som krever veldig mye av forsterkeren, og som ikke uten videre vil trives godt sammen med hodetelefonforsterkeren i en laptop eller PC. 
+
+Totalt sett er likevel dette ikke noen stor nok forbedring til at vi kan anbefale produkter. 
+Så lenge utgangspunktet ditt er bra vil for eksempel nye hodetelefoner eller nye høyttalere bety mer for lydbildet enn mange D/A-konvertere. 
+
+Takk til den norske importørten, Stilimento, for utlån av produktet. 

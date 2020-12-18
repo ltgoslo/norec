@@ -1,0 +1,77 @@
+Huawei Mobile WiFi E5776
+4G miniruter - kan være en smart løsning. 
+
+En miniruter er en liten enhet som kobler seg opp mot det mobilnettet som er tilgjengelig, enten det er 2G, 3G eller 4G og videresender forbindelsen via vanlig trådløst nett (WiFi/WLAN). 
+
+Minruteren går på batteri, og er en utmerket løsning for den som er mye på farten og trenger netttilgang over alt på flere enheter - uten å måtte ha eget mobilabonnement og mottaker på hver enhet. 
+
+Vi har tidligere testet løsningen med 4G miniruter fra Telenor, hvor selve ruteren var en MF91D fra ZTE. 
+Den har i Telenor-variant visse begrensninger, som maks nedlastingshastighet på 40 Mbit og opptil fem WiFi-brukere/enheter samtidig. 
+Telenor ikke tilbyr høyere 4G-hastighet enn 40 Mbit. 
+
+Men det finnes en alternativ miniruter: 
+
+Huawei Mobile WiFi E5776 
+
+De to miniruterne har mange felles trekk. 
+Størrelsen er omtrent den samme, og den er mindre, men tykkere enn en smartmobil. 
+Det er én knapp for betjening og et lite display som viser status på forbindelsen, batterinivå og hvor mye data som er brukt siden sist man slo på miniruteren. 
+
+Tilkobling for lading skjer med micro-USB og det er kortplass for microSD-kort. 
+
+Men Huawei E5776 støtter nedlastningshastigheter opp til 150 Mbit, og kan håndtere opptil ti WiFi-brukere eller enheter samtidig. 
+
+ZTE-ruteren har et uttakbart batteri på 2300 mAh, mens Huawei-ruteren har et fast batteri på 3000 mAh. 
+Begge oppgir en brukstid på opptil fire timer. 
+
+Huawei-ruteren har også en app for iOS hvor du kan se forbruk, batteritid, håndtere data på micro SD-kortet og endre innstillinger. 
+
+Installasjon 
+
+Vårt testeksemplar kom uten SIM-kort, så vi testet med det samme SIM-kortet som fulgte med Telenor sin ZTE-ruter. 
+
+For å komme i gang må du koble ruteren til en PC med USB-kabelen. 
+Driveren installeres automatisk, og et konfigurasjonsprogram ligger også i flashminnet til ruteren. 
+Deretter starter du programmet, og må så taste inn PIN-koden for å få tilgang til oppsettet. 
+
+Her velges standardparametre som passord, navn på trådløst nett og så videre. 
+
+Deretter er det bare å logge seg på miniruteren og ta i bruk 4G-nett eller andre mobilnett som måtte være tilgjengelig. 
+
+Ytelse 
+
+I bruk på Telenors nett var målt ytelse og dekning i praksis den samme med Huawei som med Telenors pakkeløsning med ZTE-ruteren. 
+Begrensningene ligger med andre ord ikke i maskinvaren, men i infrastrukturen og tilbyderens begrensninger. 
+
+Men hastigheter på 35 Mbit ned og 30 Mbit opp er ikke noe å klage over. 
+Dette var det raskeste vi målte, på trikken rett nedenfor Sinsenkrysset i hovedstaden. 
+
+Tar du T-banen derimot, eller beveger deg ned i bykjernen, eller langt inne i kontorbygninger som dekker et helt kvartal, faller hastigheten merkbart. 
+Du mister 4G og kan i verste fall måtte ta til takke med 2G-forbindelse (også kjent som "Edge"). 
+
+Det samme gjelder utover landet, når du befinner deg i grisgrendte strøk. 
+Da er det ikke mye å hente. 
+
+iOS App 
+
+Har du iPhone eller iPad kan du kan også laste ned en gratis app fra Huawei. 
+Med denne kan du sjekke status, databruk, batteristatus og endre innstillinger. 
+
+På minnekortet kan du lagre bilder, musikk eller video som vil være tilgjengelige for alle brukerne på nettverket. 
+Har du et 32 GB minnekort får du plass til mye underholdning hvis familien skal på hytta eller på tur, uten å måtte være avhengig av tjenester på mobilnettet. 
+Alternativt er det plass til mange presentasjoner og andre data hvis det er snakk om jobb-bruk. 
+
+Konklusjon 
+
+Denne miniruteren er en ypperlig løsning, og den fungerer på alle mobilnett og bærbare nettverksløsninger. 
+Netcom leverer den med forskjellige abonnementer til forskjellige priser, avhengig av datakvoten du velger. 
+
+Du får også kjøpt den separat, slik at du kan velge tjenesteleverandør selv. 
+
+Vi gjentar vår anbefaling: 
+At en miniruter gir en stor forbedring i surfeopplevelsen sammenlignet med 3G når du beveger deg på overflaten i en by med utbygd 4G-nett er det ingen tvil om. 
+Samtidig fungerer den utmerket som eneste ruter i en husholdning med én person, men er det snakk om flere som skal dele datakvoten kan det fort bli tomt hvis man er en aktiv bruker. 
+
+Generelt er kvoter en uting, spesielt når ingen av 4G-tilbyderne har løsninger som presenterer bruk og restkvote på en enkel og brukervennlig måte. 
+
+Huawei E5776 

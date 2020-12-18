@@ -1,0 +1,198 @@
+Asus Transformer Prime
+Årets beste Android-nettbrett. 
+
+Asus' siste nettbrett er det første på markedet med Nvidia Tegra 3-brikkesettet. 
+Det innebærer også at Transformer Prime er det første nettbrettet med firekjerners prosessor, der hver av kjernene kjører på 1,3GHz. 
+Ja, faktisk har den fem – en litt mindre kraftig prosessor har nemlig fått ansvaret for å ta hånd om alt som har med bakgrunnsssynkronisering å gjøre. 
+
+Den kraften merkes også godt i bruk. 
+Hjemmeskjermen flyter bedre enn noe annet Android-nettbrett, og på spill (spesielt de som er optimalisert for Tegra) byr Transformer Prime på svært solid prestasjon, noe den også gjør i ytelestestene vi har kjørt. 
+
+Det mest interessante med Asus' Transformer-brett er imidlertid det medfølgende tastaturet. 
+Klikker du nettbrettet oppi tastaturet, blir Transformer nesten som en bærbar PC. 
+I tillegg har tastaturet styreflate (slik at du får muspeker) og ekstra batterikraft – Asus oppgir selv 18 timers bruk år du også har koblet til tastaturet, og det er rett og slett imponerende. 
+
+Vi tar først en titt på de tekniske spesifikasjonene: 
+
+Asus Transformer Prime 
+
+Skjermstørrelse: 10,1" - Oppløsning: 
+1280x800 
+- Type: 
+Super IPS+ 
+- Beskyttelse: 
+Corning Gorilla Glass (Ripebeskyttet) Prosessor: 1,3GHz (4 kjerner) Minne (RAM): 
+1GB Minne (intern): 
+32GB Minnekort: SD (tastatur), Micro SD (nettbrett) Android-versjon: 3.2 (Honeycomb), oppgraderes til 4.0 Vekt: 
+586g (nettbrett) Tykkelse: 
+8.3mm Kamera: 
+8Mp + 1,2Mp (full HD-filming) Annet: 
+USB-inngang, Bluetooth, WiFi, micro HDMI 
+
+Konstruksjon 
+
+Transformer Prime er et lekkert skue, der materialvalget gjør at nettbrettet fremstår mer eksklusivt enn sin forgjenger. 
+Overflaten er i sirkulært børstet aluminium med Asus-logoen midtstilt, i tillegg til at kameralinsa og LED-pæra synes på baksiden. 
+
+Tynt er det også. 
+Med 8,3mm over midjen er det tynnere enn både iPad 2 (8,9mm) og Galaxy Tab 10.1 (8,6mm), selv om den halve millimeteren fra eller til riktignok ikke er noe man tenker på i praktisk bruk. 
+
+Tar vi turen rundt den tynneste kanten, finner vi en av og på-knapp på langsiden nær det ene hjørnet og volumbryteren rett rundt det samme hjørnet. 
+En micro HDMI-utgang er plassert rett ved siden av, og deretter en micro SD-port slik at du kan sette i et minnekort; samme typen som du finner i mange smarttelefoner. 
+Det følger også med en liten plastbit som kan ligge i minnekortporten når den ikke er i bruk for å unngå støv og den slags. 
+
+På den andre langsiden finner vi tre hull til tastatur-dockingen (med gummideksler inni som er litt knotete å få ut første gang), der det midterste også kan tilkobles ladekontakten dersom du bare vil lade selve nettbrettet. 
+Den siste kortsiden har kun ett hull – til hodetelefoner. 
+Akkurat her synes vi Asus har valgt en noe pussig plassering, siden hullet kommer ganske høyt opp når du bruker Transformer Prime med tastatur, som gjør at hodetelefonledningen kommer litt i veien uten litt ekstra kreativitet i form av å holde den nedtil bordet. 
+
+Tastaturet har derimot en SD-leser som vi synes er svært hensiktsmessig. 
+Det gjør det mulig å nappe minnekortet ut av et hvilket som helst kamera og overføre bildene direkte – på Android er dette også langt mer fleksibelt enn hva tilfellet er med Apples løsning (se testen av iPad Camera Connection Kit), siden du har tilgang til filsystemet og kan kopiere filer (uansett filtype) akkurat som på en PC. 
+
+USB-porten fortjener også et eget avsnitt. 
+Selv om du har en liten styreflate på tastaturet, er det mange som foretrekker å bruke mus, og her er det bare å plugge inn og sette i gang. 
+Du kan også dytte inn minneplugger med filer, eksterne harddisker (FAT32) eller til og med håndkontrollere til PlayStation 3 eller Xbox 360. 
+Og det funger faktisk! 
+På enkelte spill er det uproblematisk å styre med PS3-kontrolleren, noe som faktisk gjør Transformer Prime til en skikkelig bærbar spillkonsoll også. 
+
+Skjermen, som er i 16:10-format, er rett og slett svært god. 
+Dette var også noe det første Transformer-brettet scoret godt på, men den nye IPS+-teknologien leverer varene enda bedre. 
+Hvitbalansen er meget nøytral med svært naturlig fargegjengivelse. 
+Konstrastnivået er også meget godt, og det samme gjelder sortnivået, selv om Prime-skjermen ikke helt når opp til Super AMOLED-skjermen som blir å finne i kommende Galaxy Tab 7.7 på det punktet; et produkt som for øvrig forventes lansert rett over nyttår. 
+Vi noterer oss et lite minus med tanke på lyslekkasje akkurat i kanten, men det er noe du først og fremst ser når du sitter og skriver test klokka elleve i halvmørket en tirsdags kveld. 
+
+16:10-formatet er for øvrig også fordelaktig i forhold til 4:3 med tanke på nettsurfing (i høydeformat) og filmtitting (i breddeformat), der et større område av skjermen blir brukt. 
+
+Vi har også testet hvor mange trykkpunkter digitizeren klarer å registrere, og den gjenkjenner alle ti fingrene, men klarte ikke nummer elleve. 
+
+. o O (Nei, det var nesa, tenk!) 
+
+Tastaturet er et såkalt chicklet-tastatur der knappene ikke bygger mye i høyden, og knappene er også isolerte (med mellomrom). 
+Behagelig å skrive på er det også, og ganske beskjedent hva gjelder bråk. 
+Transformer Prime burde i så måte passe utmerket i en forelesningssal. 
+
+Som på den opprinnelige Transformer-modellen skal Asus ha ros for å ha tenkt de ekstra hakkene med tastaturet – ikke bare finner du hurtigtaster til en rekke ting (innstillinger, søk, nettleser, forrige/neste sang, lysstyrke, lyd etc), men Windows-brukere vil kjenne igjen hurtigtaster som ctrl+l (sette adressefeltet aktivt i nettleseren) og alt-tab som lar deg bytte mellom programmer. 
+Enda bedre ville det ha vært om tastaturet hadde vært bakbelyst – et lite tips til neste utgave der, Asus. 
+Og i dagens Twitter- og epostverden synes vi @ burde ligge på en egen tast og ikke Windows' klønete alt gr+2-snarvei. 
+
+Styreflaten gjør at du får en muspeker på skjermen som kan brukes for å klikke på lenker eller ikoner, og den støtter også flerberøring slik at du f.eks. kan bruke to fingre opp eller ned for å skrolle en nettside, eller til høyre og venstre for å bytte mellom hjemmeskjermene. 
+Akkurat på siste punkt er det noe som ikke er helt 100%, der vi en gang i blant opplever at skjermbyttet går feil vei. 
+
+Programvare 
+
+Transformer Prime kjører altså den siste Honeycomb-versjonen; versjon 3.2, selv om Asus er klare på at denne karen skal få Ice Cream Sandwich (Android 4.0) så snart som mulig. 
+3.2 fremstår først og fremst mer stabil enn 3.0-versjonen som forgjengeren kjørte, selv om vi fortsatt opplever at et program "klikker" en sjelden gang. 
+Det gjør vi for så vidt i iOS også. 
+
+At Android Market har blitt pusset opp siden den gang er selvsagt svært velkomment, selv om Google fortsatt ikke har gjort nettbrett-eierne noe tjeneste i å filtrere apps beregnet på nettbrett, bortsett fra en egen anbefalt-seksjon. 
+
+Transformer Prime gir den beste opplevelsen av Honeycomb til nå. 
+Den kraftige maskinvaren gjør at sveiping mellom hjemmeskjermen går svært flytende og raskt – uten antydning til hakking, bortsett fra rett etter at enheten har startet opp der noen av oppstartsrutinene fortsatt kjører. 
+Starter du YouTube-appen, med sitt pseudo-tredimensjonale grensesnitt, er det lett å la seg imponere. 
+
+Når det gjelder programvare Asus har lagt til på Transformer Prime, ser listen omtrent slik ut: 
+
+@vibe Music – En Last.fm-lignende tjeneste der du angir en artist for deretter å lytte til lignende musikk. 
+Fungerer her i Norge også. 
+App Locker – Lar deg låse enkelte apps. 
+Kjekt hvis du ikke vil at poden skal få tilgang til Android Market eller lese eposten din.MittNett – DLNA-programvare for å spille av medieinnhold fra eller til andre DLNA-kompatible enheter i samme trådløse nett (vise bilder direkte på PlayStation, for eksempel). 
+MyCloud – MyContent gir deg lagring i nettskyen der du også blant annet kan streame musikk direkte – uten å laste ned først. 
+I tillegg er også MyDesktop en av tjenestene, som lar deg styre en PC eller Mac direkte fra Asus-nettbrettet (krever tilleggsprogramvare installert på PC-en). 
+MyLibrary – En samletjeneste for aviser kjøpt gjennom PressReader-appen (tilgjengelig for iOS/Android), samt e-bøker. 
+Sistnevnte fikk vi imidlertid ikke til å fungere, men hvis det er noen trøst, er også Kindle-appen tilgjengelig for Android. 
+Ja, faktisk følger den med også. 
+
+På vår testmodell hadde Asus også vært så greie å installere en god håndfull spill for å demonstrere hva denne krabaten var kapabel til, og som forventet – her er det mye krutt under panseret. 
+
+Ytelse 
+
+Nevnt er den gode Android-opplevelsen som Transformer Prime gir, med hjemmeskjermer som glir over skjermen og kjapp respons overalt. 
+Et trykk på "programmer" gjør at de glir raskt inn på skjermen, og alt starter kjapt som bare det. 
+
+Spillene som fulgte med vår testmodell glir også imponerende godt. 
+Vi lar oss begeistre av de ekstreme lyseffektene i Glowball, der presisjonen i gyro-sensoren også virker å være meget god. 
+Et annet spill som var installert, Shadowgun, minner om Gears of War-serien på Xbox 360 og flyter som bare det, i tillegg til at spesialeffektene er svært gode (særlig bølge-effekten a la lydpistolscenen i Minority Report). 
+
+Og plugger vi inn PS3-kontrolleren, altså, er det bare å styre. 
+En kabel til inn i TV-en og vips, så har du praktisk talt en bærbar spillkonsoll som kan holde i timesvis uten strøm. 
+Det lar vi oss imponere av. 
+
+Den opplevde hastigheten gjenspeiles også i ytelsestestene. 
+På Electopia-testen, der f.eks. Samsung Galaxy S II klarer 36,2 bilder pr sekund, klarer Transformer Prime 55,5 (med samme oppløsning). 
+AnTutu-testen, som måler både grafikkbrikke, CPU og mer til gir Prime en score på svimlende 10657; nesten tre ganger så høyt som Galaxy Tab 10.1. 
+
+Vi er ikke like imponerte av nettleseren, som sannsynligvis ikke er optimalisert for Asus' fire kjerner. 
+Nettbrettet scorer riktignok godt på ytelsestester (1905ms på SunSpider-testen er det raskeste til nå), men den har ikke det glatte uttrykket vi ser på iPad og iPad 2. 
+Ting hakker litt ved skrolling, og dobbeltklikk på avsnitt for å tilpasse bredden sitter heller ikke så godt som det gjør på Samsungs nettleser i Galaxy S II og Note. 
+Vi prøvde Opera bare for å ha sjekket, men også her opplever vi det samme. 
+
+Batterilevetiden er oppgitt til 18 timer med tastaturet koblet på - 12 fra selve nettbrettet og 6 fra tastaturet. 
+Etter et par timers ganske intensivt bruk, er tastaturet tappet 30%, mens nettbrett-batteriet fortsatt er fullt. 
+Det skulle bety at tilsvarende bruk skulle holde i 16 timer til, som oppgitt. 
+Da har vi brukt standardinnstillingene – du kan velge mellom tre ulike profiler, der én sparer på strømmen og den siste går "all in". 
+
+Men hvor lang tid tar det å lade batteriet?, spør du? 
+Det har vi også sjekket. 
+Fra 0% på tastatur og 18% på nettbrettet (=12% av total kapasitet), brukte vi ganske nøyaktig 3 timer på å nå 100/100. 
+Etter halvannen time var status 20/80 i favør nettbrettet (dette har selvsagt prioritet når enheten lader), som skulle bety 60% av total kapasitet ((20+80*2)/300, ikke sant?). 
+En meget jevn ladekurve, med andre ord. 
+
+Verdt å merke seg er imidlertid den ene gangen der vi tømte batteriet fullstendig. 
+Vi plugget laderen direkte i brettet (uten tastatur) og da tok det rundt 20 minutter før vi fikk lov til å starte opp. 
+Forsøk underveis gav oss bare en "tomt batteri"-indikasjon. 
+På iPad tar tilsvarende bare noen få minutter. 
+Oppstartsiden er for øvrig ca 100 sekunder; selvsagt også litt avhengig av hvor mye du har installert. 
+
+Multimedia 
+
+For å teste videoytelsen på ulike datamaskiner, mediespillere, telefoner og nettbrett har vi laget en testsuite bestående av en haug av videofiler i ymse formater, oppløsninger og bitrater. 
+
+Transformer Prime klarer å spille av svært mange av dem. 
+Eksempler på filformater vi fikk til å snurre fint er Divx HD (med støtte for .srt-undertekster), Xvid, H.264/mkv og AVCHD/mts (mye brukt format i en del videokameraer). 
+Selv på høyeste oppløsning (1080p) var det bare barnemat for Asus-nettbrettet. 
+
+Vi fikk også lyd fra ett av .wmv-klippene, men ikke video, selv om det andre klippet fungerte fint. 
+Flere av dem ville også åpne seg når vi brukte tredjepartsspilleren MX Video Player, selv om f.eks. .iso, .vob, .ts og .ifo-filer (fra DVD-struktur) ikke ville åpnes. 
+
+Kamera Transformer Prime har to kameraer – ett med 8Mp-oppløsning bak og ett med 1,3Mp foran (til videosamtaler). 
+Selv om det føles ganske rart å gå rundt med nettbrett og ta bilder, er ikke prestasjonen så ille, og i hvert fall ikke sammenlignet med øvrige nettbrett-kameraer. 
+
+Under ser du et eksempelbilde tatt med hovedkameraet (full oppløsning): 
+
+Som du ser – ikke allverdens detaljnivå; omtrent som et middels godt mobilkamera i disse dager. 
+Allikevel – natt og dag i forhold til forgjengeren. 
+
+Konklusjon, Asus Transformer Prime 
+
+Nettbrettet fra Asus er det beste Android-nettbrettet vi har testet til nå; det skal være sikkert. 
+
+Men er den bedre enn iPad 2? vil mange spørre seg. 
+
+I våre øyne er de ikke direkte konkurrenter. 
+iPad 2 scorer høyt på den enkle brukeropplevelsen (selv min toåring betjener den som om hun aldri har gjort annet), på den glatte nettsurfingen og fordi så mange har laget iPad-eksklusivt innhold av høy kvalitet – magasiner, spill og andre ting. 
+
+Transformer Prime er så mye mer enn bare et nettbrett – tastaturløsningen gjør dette til en svært god nettbrett/bærbar PC-hybrid, som byr på 18 timers batterilevetid og svært god ytelse. 
+Du kan plugge i en ekstern harddisk og spille 1080p-videofiler så det synger, koble den mellom en TV og en PlayStation-kontroller og spille spill, tømme minnekortet fra kameraet og dele bildene direkte på Facebook, skrive dokumenter i Word-format … mulighetene er rett og slett svært mange med Transformer Prime. 
+
+Asus har også tenkt de ekstra små hakkene vi så ofte savner når vi tester produkter. 
+På tastatursnarveiene, på mulighetene for å stikke inn et SD-kort, en USB-pinne eller et micro SD-kort og kopiere filer frem og tilbake. 
+Eller en mus. 
+Muspeker og styreflate med flerberøring. 
+Skjermen som slår seg av når den "klappes igjen" og som er klar til dyst med en gang du åpner … 
+
+Joda, vi har småpirk her og der, som 3,5mm-utgangen som burde ha vært plassert annerledes og at det tar veldig lang tid før du får bruke den hvis batteriet er tømt. 
+Dette blir uansett bare småting når produktet ellers er så gnistrende godt. 
+
+For første gang triller vi nemlig en sekser på terningen til et Android-nettbrett. 
+
+Et lite sukk til slutt: 
+Transformer Prime fås kun i WiFi-utgave (altså uten 3G). 
+Det betyr at du er nødt til å være tilkoblet et trådløst nett eller dele nettforbindelsen fra mobiltelefonen din for å være på nett. 
+
+Men vent litt! 
+
+Du fikk lyst på den, ja? 
+Asus har tilbudt oss å gi bort ett stykk splitter ny (altså ikke vår testmodell, men en helt ny) 
+Transformer Prime til en av våre lesere, og det som er ekstra stas, er at du skal få den før den kommer i butikken. 
+
+I morgen kommer konkurransen. 
+Følg med. 

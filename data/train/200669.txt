@@ -1,0 +1,106 @@
+MSI Wind Box DE220
+Snasen mini-PC på testbenken. 
+
+Innholdsfortegnelse: 
+Første oppstartYtelsestesteneDette blir for tøft for boksenKonklusjon 
+
+MSI er en av aktørene som satser i dette segmentet. 
+Deres Wind Box-serie består av billige og relativt godt utstyrte bokser som i praksis byr på nok ytelse til de fleste behov - i hvertfall på kontoret. 
+Prisene starter på rundt 2500 kroner. 
+
+Siste tilskudd i serien har fått navnet MSI Wind Box DE220. 
+Den kommer i flere forskjellige farger og konfigurasjoner. 
+Maskinen vi har tatt i nærmere øyesyn har følgende sentrale spesifikasjoner: 
+
+Intel Atom D510-prosessor (2 kjerner a 1,6 GHz) ATI Mobility Radeon HD4330 grafikkbrikke HDMI og VGA-tilkoblinger 320 GB harddisk (2,5" WD) 2 GB RAM 4 stk USB-porter (2 foran 2 bak) 1 stk eSATA-tilkobling Minnekortleser i front GB LAN og trådløst 802.11n-nettverk Windows 7 Home Premium 32 bits, Microsoft Works + evalueringsversjoner av diverse programmer. 
+ca-pris: 3000 kroner, tilgjengelig fra og med mai måned her til lands. 
+
+Selve boksen er en del større enn flere av konkurrentene, blant annet er den nest 30 cm dyp, og med 22,1 cm på det høyeste er den ikke veldig plasseringsvennlig, for eksempel i hylla under TV-en. 
+Den er heller ikke tilpasset å ligge, kun for stående posisjon. 
+
+Boksen har ikke innebygd strømforsyning, men en 65W ekstern forsyning sitter på strømkabelen, som for en bærbar PC. 
+Faktisk er det mye denne PC-en har til felles med bærbare datamaskiner, inkludert grafikkløsningen, harddisk, minne og prosessor. 
+
+DVD må du imidlertid klare deg uten. 
+
+Det sitter en vifte på innsiden av kabinettet, og denne lager en jevn, lav sus. 
+Faktisk er den største støykilden brumming fra harddisken, skjønt "støy" blir å sette ting på spissen. 
+Har du en PVR-opptaker med harddisk har du et godt sammenligningsgrunnlag. 
+Lydnivået er ikke noe tema, med mindre du har meget følsomme ører. 
+
+Første oppstart 
+
+Vi koblet boksen til en skjerm med full HD-oppløsning (1920 x 1080 piksler) ved hjelp av en HDMI-kabel. 
+Oppsett av Windows 7 startet umiddelbart, og installasjon og konfigurasjon tok 25 minutter. 
+Dette inkludert installasjon av Microsoft Works, Office 2007 demoversjon, Adobe Reader, Windows Live, WinRAR, diverse MSI-programmer og Norton Internet Security. 
+Vi fikk tilsynelatende mulighet til å velge bort noen av programmene, men det var ikke mulig å fjerne hakene: 
+
+Og selv om vi takket nei til å bruke Norton Internet Security, viste det seg at produktet ble installert likevel, og minnet oss på å aktivere ved hver oppstart av maskinen: 
+
+Hvis du aktiverer får du 60 dager fri beskyttelse. 
+Deretter får du ekle meldinger på skjermen som forteller deg at du beveger deg i farlig farvann, og ber deg om å tegne abonnement for å fortsatt være beskyttet. 
+Det koster naturligvis penger. 
+
+Vi mener Symantec benytter seg av metoder som ligner til forveksling uhumskhetene de har som formål å bekjempe, og det har vi lite til overs for. 
+Det finnes dessuten gratisløsninger som har kommet bedre ut i tester, deriblant Microsofts eget Security Essentials. 
+
+Det er riktignok mulig å avinstallere alt du ikke trenger i etterkant, men det krever selvfølgelig at man har litt kunnskaper om Windows, noe som slett ikke er en selvfølge. 
+
+PC-en leveres også med gjenopprettingsprogramvare, og gjenopprettingsdataene er lagret på en egen partisjon - som ikke er skjult: 
+
+Vi reagerer negativt på at harddisken er partisjonert i tre deler. 
+Alle brukerfiler lagres på systempartisjonen, som 48 GB ledig. 
+Vet den jevne bruker hvordan man flytter brukermappene til en annen partisjon, når C: plutselig går tom for plass? 
+Vi er slett ikke sikker. 
+
+Ytelsestestene 
+
+De første praktiske testene våre innebar å kjøre mange programmer samtidig, åpne filer, veksle mellom vinduer og foreta diverse innstillinger i Windows-miljøet. 
+Her henger Wind Box overraskende godt med, og det var rett og slett ikke noe problemer knyttet til dette. 
+Så til kontorbruk, surfing på nett med musikk i bakgrunnen og annet lettere arbeid, er Wind Box DE220 helt super! 
+
+Det går helt strøkent å kjøre mange programmer samtidig 
+
+Windows opplevelsesindeks rapporter også om at maskinen er ganske midt på treet hva ytelse angår: 
+
+Vi kjørte deretter de populære Passmark-testene, som gav oss følgende resultater: 
+
+Grafen under viser hvordan prosessor yter i forhold til andre populære løsninger for mini-stasjonære, netbooks og rimelige bærbare: 
+
+Prosessorytelsen er høy, sett i forhold til andre Atom-prosessorer, men langt bak Pentium-prosessorer som typisk finnes på bærbare til 4-5000 kroner. 
+Og det merkes også i spesielt CPU-krevende operasjoner. 
+
+Dette blir for tøft for boksen 
+
+Noe særlig spillytelse kan du se langt etter. 
+Det som er mer interessant for mange i målgruppen er imidlertid hvorvidt maskinen er i stand til å spille av video - og da i første rekke stadig mer populært høyoppløselig materiale. 
+MSI hevder at det skal gå fint å spille av HD-materiale i 1080P, men vi skulle gjerne vite hvordan de fikk det til. 
+
+Vi har nemlig kjørt HD-video gjennom populære avspillere som VLC 1.0.5 og 1.1.0 pre-beta (sistnevnte støtter maskinvarebasert aksellerasjon), Splash Lite, Media Player Classic med kodek-pakken K-Lite, samt Windows Media Player 12. 
+Ingen av spillerne var i stand til å spille av full HD-materiale (1080P), verken MKV, DivX AVI eller WMV HD-filer, uten at hakket. 
+Det samme gjelder YouTube-videoer i 1080P, ikke en gang med Flash 10.1 installert. 
+
+Vi oppgraderte selvfølgelig grafikkdriverne til siste versjon, uten at det hjalp stort. 
+
+HD-video i 1080P blir for tøft, viser våre tester 
+
+Vi ser ikke bort fra at det er mulig å få det til å spille på en eller annen måte ved å tweake avspillere og grafikkdrivere, men dette ligger langt utenfor det man kan forvente av den jevne bruker. 
+
+720P-materiale fikk vi derimot avspilt uten problemer. 
+
+Adobe Flash, som inntil versjon 10.0 (som fortsatt er siste "ferdige" versjon) fortsatt ikke støtter maskinaksellerert videoavspilling, fører også til en luggende følelse når man skroller i nettsider med mange Flash-annonser, noe som bekrefter at prosessoren ikke er blant de sterkeste. 
+
+Konklusjon 
+
+Wind Box DE220 er ypperlig som plassbesparende og stillegående maskin på hjemmekontoret, og har du begrensede behov hva angår HD-video kan den også fungere greit som stue-PC. 
+Du får en dugandes maskin for en billig penge. 
+
+Men som underholdningsmaskin hadde vi nok gått for en annen PC. 
+Høyoppløst video er fremtiden, også på egne videokamera-opptak, og da er det litt kjedelig å oppleve hakking så snart oppløsningen overstiger 720P. 
+Og det finnes litt av hvert av konkurrerende produkter som fikser dette glatt, inkludert denne fra ASRock. 
+
+Utformingen er dessuten ikke optimal, synes vi. 
+Den er såpass stor, og tar så mye plass i høyden at mini-PC-ens plasseringsvennlighet ikke er et like stort poeng som tilfellet er eksempelvis for Mac Mini, Asus EEE Box, Acer Revo, den nevnte ASRock-maskinen og andre konkurrerende produkter. 
+
+Som ren kontor-maskin hadde vi gitt et klart terningkast fire. 
+Men alt tatt i betraktning havner vi til slutt på en sterk treer. 

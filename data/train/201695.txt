@@ -1,0 +1,135 @@
+HP Pavilion tx1020ea
+Hewlett Packards siste bærbare PC kan med et håndgrep konverteres til en tablet-PC. 
+Interessant i teorien, vi har sett nærmere på hvordan det fungerer i praksis. 
+
+HP kaller denne datamaskinen Pavilion Media Center tx1020ea bærbar underholdnings-PC, men det er ikke til å legge skjul på at denne PCen også har egenskaper som normalt sett ikke finnes på "vanlige" bærbare. 
+Skjermen er nemlig trykkfølsom, og kan vris helt rundt og festes over tastaturet, slik at hele datamaskinen ser ut som en litt tykkfallen tablet-PC. 
+HP tx1020ea kan godt beskrives som en liten "konvertibel". 
+
+LES OGSÅ: 
+
+Rendyrkede tablet-PCer har på langt nær slått godt an i privatmarkedet her til lands, noe som har sammenheng med blant annet pris, bruksområde og mangel på håndskriftstøtte. 
+Men med tx1020ea gjør HP sitt beste for å bedre på to av disse områdene. 
+Prisen ligger på samme nivå som rene bærbare av samme kaliber - tablet-delen kan derfor sees på som en ren bonus. 
+Og det at du ikke er bundet opp mot å bruke tx1020 som en ren tablet betyr at du kan veksle mellom måten PCen blir brukt på avhengig av hva du føler er mest hensiktsmessig. 
+
+Fulle spesifikasjoner: 
+
+AMD Turion 64 X2 TL-50 @ 1,6 GHz 12,1" berøringsskjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (512 + 512 MB) 120 GB harddisk - (5400 rpm) nVidia GeForce Go 6150, 64 MB minne (opp til 128 MB delt) 54 Mbps WLAN (a/b/g) 10/100 LAN + modem 3x USB, blåtann, lyd inn/ut 1 ExpressCard/34 kortplass 5-i-1 kortleser: SD, MMS, MS/PRO, xD VGA og S-Video ut Fingeravtrykksleser Webkamera og mikrofon innebygd To batterier Windows Vista Home Premium Dimensjoner (B/D/H): 
+27,1 x 19,5 x 3,0 cm Vekt 2,1 kilo med lite batteri, 2,2 kilo med stort Pris: ca. 10.500 inkl. mva. 
+
+Spesifikasjonsmessig er skjermen i bredformat, med 1280 x 800 piksler spredd over 12,1 tommer. 
+For at den skal kunne registrere og ikke minst tåle utallige berøringer har den fått et nødvendig ekstra belegg - noe som dessverre også går litt ut over bildekvaliteten. 
+Kort sagt blir verken farger eller kontrast like gode som på en "vanlig" bærbar skjerm, og det hjelper heller ikke på innsynsvinkelen. 
+Områder med liten kontrast virker nesten litt korneste og ute av fokus - en meget spesiell effekt som vi tror folk vil reagere forskjellig på; noen få vil nok irriteres krafitg av dette, mens andre bokstavelig talt ikke ser problemet. 
+Det kan derfor være en god ide å se og prøve PCen før du eventuelt går til innkjøp. 
+
+Konstruksjon 
+
+Eksteriøret på HP Pavilion tx1020ea er i tidsriktig grå og sort plast. 
+Lokket er av "pianolakk"-typen som lett får stygge fingermerker - og av den grunn legger også HP også med en pusseklut til datamaskinen. 
+Hoveddelen virker solid og godt avstivet, mens lokket føles en smule vaklevorent - for noe som skal tåle en god del dytting og vriding hadde vi kanskje ventet oss noe som virket litt mer fast i selve festet. 
+Men totalt sett vil vi si at PCen virker solid nok. 
+
+Snarveier for lyd er plassert til venstre over tastaturet 
+
+Tastaturet, som er av den felles nordiske typen, har kort og kontant respons med svært lite svikt. 
+Layouten er i all hovedsak god, og støynivået lavt så lenge du ikke bruker mye kraft på tastene når du skriver. 
+
+Touchpaden er av en uvanlig type, ikke den dedikerte glatte overflaten vi finner på de fleste andre bærbare. 
+På denne modellen er det bare et perforert felt som går i ett med resten av overflaten. 
+Skrollfeltet er begrenset til vertikal skrolling, som det jo er mest bruk for. 
+De to knappene under er litt vel små, men det er sant å si ikke plass til særlig større heller. 
+
+Tilkoblingsmuligheter 
+
+Kontaktene på maskinen er plassert foran, bak og på begge sider. 
+PCen kommer med to batterier, hvorav det lille så å si går jevnt med maskinens bakside, mens det større går jevnt med resten av PCens bakside, mens det større batteriet stikker et par centimenter ut. 
+
+I front har vi av/på-knapp, infrarød, lyd inn/ut og bryter som skrur av og på WLAN/blåtann. 
+
+På PCens høyre side er det plass til trykkepenn for skjermen, USB, LAN, ekspansjonsport (for dokking), VGA + S-Video ut og uttak for varmluft. 
+I tillegg er det medieknapper på siden av lokket. 
+
+Venstre side har inntak for strøm, minnekortleser, en åpning for ExpressCard/34 (hvor fjernkontrollen slapper av når den ikke er i aksjon), og det optiske drevet. 
+
+Verd å merke seg er at DVD-spilleren på ca 200 gram kan tas ut og erstattes med en plastdummy dersom du er ute etter å få så lav vekt som mulig. 
+
+Bak er det så avgjort batteriet som tar mest plass, men foruten nok et lite luftuttak er det likevel plass til modem, 2 x USB og kensingtonlås. 
+
+Ytelse og batterilevetid 
+
+Hverken prosessoren eller grafikkløsningen i Pavilion tx1020ea kan sies å tilhøre toppsjiktet, men til "vanlig" bruk som surfing, kontorapplikasjoner og enkel medieavspilling er er det nok kraft i denne krabaten. 
+
+12-tommes bærbare til rundt ti tusenlapper har vi (hittil) ikke testet så mange av, men vi har likevel funnet noen mindre bærbare som kan gi et visst sammenligningsgrunnlag: 
+MacBook - 13,3 -tommer på 2,3 kilo fra Apple. 
+Ferrari 1000 - ultraportabel 12-tommer på 1,6 kilo fra Acer. 
+Satellite Pro U200 - ultraportabel 12-tommer på 1,9 kilo fra Toshiba. 
+
+Pavilion tx1020ea har altå på sin side en skjerm på 12 tommer og veier 2,1 kilo. 
+Prisene varierer veldig fra Ferrarien (18.000), til MacBook som klarer grensen på 10.000. 
+Toshibaen ligger midt i mellom. 
+Totalt sett er det faktisk MacBook som ligger nærmest hvis vi ser på pris og vekt. 
+
+Ytelse i følge PCMark05: 
+
+Høyere poengsum er bedre. 
+
+Totalt sett ligger HPen litt etter alle de andre maskinene, og dette har hovedsakelig med prosessoren å gjøre. 
+På grafikkfronten er det ingen racere i dette selskapet. 
+
+HPen kommer som nevnt med to batteripakker, så du kan velge om du vil prioritere vekt og moblilitet foran batterilevetid - eller ta med begge for sikkerhets skyld. 
+Det største av batteriene holdt i 3 timer med BatteryMark, mens det lille klarer to - totalt fem timer sammenlagt. 
+Et resultat vi er fornøyd med! 
+
+Når det gjelder støyen, vår evige fiende, har vi både gode og dårlige nyheter. 
+De dårlige ene er at vifta går konstant, og lager nok litt mer bråk enn vi setter pris på når maskinen er under hard belasting. 
+Den gode nyheten er at vifta ikke lager så veldig mye støy under lav belastning, som ved surfing og lett kontorarbeid. 
+Lydsignaturen og det at vifta går konstant sitt til at suset veldig lett går inn i bakgrunns-støyen. 
+
+Bruk 
+
+Mens vi går ut i fra at du vet hvordan du skal bruke en normalt bærbar PC, er selvfølgelig tablet-delen en helt annen sak. 
+Først og fremst ligger forskjellen i at skjermen er følsom for berøringer, og du kan altså bruke fingertuppen eller en annen egnet gjenstand (ikke noe som farger eller riper) til å styre markøren (muspekeren) og klikke med. 
+Kort og greit gjør dette det som regel veldig lett og intuitivt å arbeide med datamaskinen. 
+
+En annen egenskap som lenge har vært satt pris på er muligheten for å kunne skrive på skjermen med håndskrift, for så å la datamaskinen tolke og oversette dette til vanlige ord. 
+Dette kan også sees i sammenheng med hvor enklere det er å bruke en tablet til å tegne figurer eller illustrasjoner. 
+
+Skjermen har også sitt å by på. 
+Fra denne vinkelen ser vi nærmest oss fingeravtrykksleseren, og oppe til høyre snarveisknapper for blant annet "QuickPlay" (Medieavspillingsmodus) og rotering av bildet. 
+
+Tidligere var det et eget operativsystem fra Microsoft for slike PCer - Windows XP Tablet Edition. 
+Med Vista er støtte for tablet-PC integrert i Home Premium og "bedre" versjoner, samt funksjonene forbedret, men det mangler fremdeles støtte for håndskriftsgjenkjenning for norsk språk. 
+Dette gjør at vi begrenses til å bruke "tastaturet" vi kan få opp på skjermen, som tross alt ikke er like effektivt. 
+
+Men dette ting vi ikke kan skylde på tx1020ea for. 
+Klage kan vi derimot på trykkfølsomheten. 
+Her kan du nemlig ikke være forsiktig på labben når du skal navigere via skjermen, det må virkelig tappes og tegnes. 
+Fingertuppen er så å si umulig å bruke, neglene må til dersom du ikke vil bruke den medfølgende pennen eller et annet verktøy. 
+Og så sant ikke lokket er låst i posisjonen med den ligger over tastaturet med skjermen opp, gir festet for lett etter for trykk slik at skjermen gynger og det blir vanskelig å bruke berøringsfunksjonene effektivt uten å holde skjermen fast med den andre hånden. 
+
+Kort sagt synes vi at trykkfølsomheten er en smule for dårlig, men ved å låse lokket til resten av maskinen og gi nok trykk hadde vi ingen større problemer ved bruken av berøringsskjermen. 
+
+Konklusjon 
+
+HP Pavilion tx1020ea er egentlig en småsøt liten bærbar PC. 
+Om den kvalifiserer som ultraportabel blir et definisjonsspørsmål, men uten optisk drev og med minste batteri kommer den i hvert fall ned under to kilo. 
+
+Rent teknisk er det en litt annen type bærbar enn det vi er vant til, og for noen vil det være en etterlengtet forandring fra - eller tillegg til - de sedvanlige bærbar-egenskapene. 
+Er du en av dem som har savnet tablet-funksjonalitet på laptopen vil tx1020ea gi deg valget mellom to måter å styre en PC på til en meget god pris. 
+
+Datamaskinen står også trygt på egne ben selv om vi ser bort fra tablet-delen, og det at den ikke kan imponere med ytelse kontres av utholdenhet: fem timers total batterilevetid. 
+I tillegg er den velutstyrt med det meste av hva du måtte trenge av tilkoblinger og små finesser som webkamera og fingeravtrykksleser gjør pakken nesten komplett. 
+
+Men HP tx1020ea sin særegenhet - nemlig tablet-muligheten - er også dens lille akilleshæl. 
+Berøringsskjermen - som kunne vært bedre - krever nemlig sitt hva bildekvalitet angår, så for de som vet helt sikkert at tablet-funksjonene sjelden eller aldri vil bli brukt vil ha andre og gode alternativer med langt mer sprut innen det visuelle. 
+
+Om Pavilion tx1020ea er den "bærbare for akkurat deg" kommer altså helt an på deg og dine behov. 
+Er du på jakt etter en lett PC som primært skal brukes til tablet, vil du nok bli langt mer lykkelig med en lettere, dedikert tablet-modell. 
+Og som nevnt over, er "vanlig" bærbar bruk kun det du skal bruke den til, pass da på at du synes skjermen er god nok før du går til innkjøp. 
+
+Men hvis du er på jakt etter en rimelig blandingsmodell med tablet-funksjoner i tillegg til å fungere som en vanlig bærbar, ja da vil tx1020ea være en meget god kandidat. 
+At det er et artig og spennende produkt er i hvert fall klart, og vi gleder oss til å se hva mer HP vil tilby oss i dette segmentet fremover. 
+
+Pavilion tx1020ea fra HP får totalt en sterk firer på terningen! 

@@ -1,0 +1,53 @@
+TEST:ICY BOX USB 3.0 harddiskkabinett 
+
+Når du trenger virkelig rask ekstern lagring, er USB 3.0 løsningen? 
+
+Ny teknikk og nye standarder dukker opp med ujevne mellomrom. 
+USB 3.0 er nå tilgjengelig både på bærbare og stasjonære PC-er. 
+For dem som bygger PC-en selv finnes det hovedkort med USB 3.0, og for de som vil bygge ut den stasjonære PC-en finnes det PCI-express tilleggkort. 
+Til og med for bærbare finnes det ExpressCard med USB 3.0. 
+
+Av utstyr man kan koble til er det ikke det store utvalget, men for lagring er det en del å velge mellom. 
+Du får eksterne harddisker med stor kapasitet, men også mindre kabinetter for de som ønsker mest mulig portable løsninger. 
+
+Det finnes også tomme kabinetter med USB 3.0, hvor du selv velger ut og monterer standard disker med SATA-tilkobling. 
+
+Hvor ligger begrensningen? 
+
+Vi installerte et USB 3.0 PCI Express kort i PC-en og anskaffet et eksternt kabinett fra Icy Box. 
+Det er beregnet på 3,5-tommers harddisker, og plasseringen av kontaktene gjør at det ikke er mulig å bruke braketter for å feste 2,5-tommers disker. 
+
+Siden vi hadde planlagt å teste med en Intel SSD-disk på 2,5 tommer måtte vi improvisere en løsning. 
+Den ga seg igrunnen selv, siden det lå en bit stiv skumplast inne i kabinettet. 
+Et lite snitt med en tapetkniv så hadde vi en støtte som hindret disken i å løsne fra kontaktene. 
+
+Grunnen til at vi valgte å teste med en SSD-disk er at den ganske enkelt byr på vesentlig raskere dataoverføring enn roterende harddisker. 
+På lesing klarer den ca 250 MByte i sekundet, klarer USB 3.0 kabinettet og kortet å håndtere det klarer de hva som helst av roterende harddisker. 
+
+Vår testdisk er ikke av de aller råeste på skriving, der oppgir Intel 70 MByte/sekund. 
+Men for denne testen spiller det ingen rolle, USB 3.0 går like raskt begge veier. 
+
+På benken 
+
+Vi kjørte først disken rett på SATA for å se hva den klarte på vår test-PC med Windows 7 og Intel Core2 Duo E8400. 
+
+På HD-testen i PCMark Vantage fikk vi 13 809, til sammenligning klarer en moderne 2,5-tommers 500 GB på 5400 RPM bare 3 551. 
+
+Med vårt eget testprogram målte vi skriving til 80,013 MB/s mens lesing var imponerende 251,034 MB/s 
+
+Etter montering i kabinettet og koblet til med USB 3.0 kjørte vi igjen skrive- og lesetestene. 
+
+Her var resultatet noe lavere på skriving, med 69,008 MByte/s. 
+
+Mer skuffende var leseytelsen, som var 74,754 MByte/s. 
+
+Konklusjon? 
+
+Vår testdisk var ikke den aller raskeste, men den var likevel vesentlig raskere på egen hånd enn med USB 3.0 til å ta seg av transporten. 
+
+Dette skyldes konverteringen mellom SATA/USB 3.0 som enda har noen runder å gå før den er på høyde med de standardene den skal jobbe med. 
+
+Dette er ikke uvanlig for den første runden med nye produkter som kommer på markedet. 
+Vi kan regne med at det dukker opp raskere løsninger etter hvert. 
+
+Uansett er løsningen vesentlig raskere enn USB 2.0, som vanligvis stopper på godt under 30 MByte/s. 

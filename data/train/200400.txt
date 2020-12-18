@@ -1,0 +1,63 @@
+D-Link PowerLine AV 500
+Nettverk over strømnettet er et alternativ, men hvor bra er det? 
+
+Nettverk over strømnettet er først og fremst en løsning der det av forskjellige grunner ikke fungerer med trådløst nett, og der det er uaktuelt å trekke nettverkskabel. 
+
+Når det gjelder hastighet og sikkerhet er en nettverkskabel alltid den beste løsningen. 
+Den nest beste er et moderne trådløst nett etter 802.11ac-standarden. 
+Når disse alternativene ikke er aktuelle er adaptere for strømnettet verdt å sjekke. 
+
+D-Link AV 500 
+
+Dette er ikke bare ett produkt, men fire forskjellige enheter med forskjellige egenskaper og bruksområder. 
+
+Vi har testet grunnvarianten DHP-308AV, som i praksis fungerer som en overgang. 
+Du plugger inn en D-Link-enhet i stikkontakten ved ruteren og kobler til en nettverkskabel. 
+Så kobler du inn en annen, lik D-Link-enhet i stikkontakten ved siden av det utstyret som skal ha nettforbindelse, og kobler til med en nettverkskabel der også. 
+
+Det tar bare noen få sekunder så er forbindelsen opprettet. 
+
+Selve enheten er svært kompakt, og det er god plass til å plugge inn et støpsel i nabokontakten på vanlige dobbeltkontakter. 
+
+Det finnes også to andre enheter i samme familie: 
+DHP-W310AV, som har et trådløst aksesspunkt innebygd (WLAN), og DHP-328AV, som har to nettverkskontakter. 
+
+DHP-W310AV er utmerket når du vil sette opp et ekstra trådløst nettverk et annet sted i huset. 
+Den har også nettverkskontakt for tilkobling med kabel. 
+
+DHP-328AV lar deg koble til to enheter, for eksempel en mediespiller og en spillkonsoll ved TV-benken. 
+
+Målinger 
+
+Som vi har nevnt mange ganger før når vi har testet nettverk over strømkablene, er det veldig varierende resultater man oppnår, selv i samme hus. 
+Det er heller ikke bare avstand mellom kontakter, eller overgang mellom forskjellige faser som spiller inn. 
+Koblingene i et hus er en labyrint hvor hver knekk og tilkobling påvirker signalet, i tillegg til hva som er koblet til de samme kursene. 
+
+Dessuten kan jordingen variere fra hus til hus, og det kan være mange typer støy i jordsignalet fra forskjellige kilder i huset. 
+Det kan komme fra motorer eller strømforsyninger, eller annet som ikke er helt som det skal og påvirker signalgangen. 
+
+Vi målte først fra hemsen der ruteren står og ned til andreetasje, der fikk vi dårligst signal. 
+Neste måling gjorde vi nede i første etasje, der var signalet langt bedre. 
+Tredje måling gjorde vi i hobbyrommet i kjelleren. 
+Siste måling gjorde vi i kjelleren ved varmtvannsberederen, her er det en ny kurs med kabel rett fra sikringsskapet, og det er bare varmtvannsberederen som henger på denne. 
+
+Her fikk vi det klart beste måleresultatet: 
+
+Konklusjon: 
+
+Strømkablene kan fungere som nettverksløsning, men om det er bra nok og hvor du får best resultat i akkurat ditt hus er umulig å si på forhånd. 
+
+En tommelfingerregel er at et nytt elektrisk anlegg som er forskriftsmessig lagt opp gir større sjanser for et brukbart resultat. 
+Hvis du får dårlig forbindelse er det bare å koble fra alt som henger på kursen og sjekke. 
+Hvis det gir bedre resultat er det bare å koble til hver enhet etter tur til du finner synderen. 
+
+Sammenlignet med trådløst nett så havner det beste resultatet med AV 500 litt under 2,4 GHz-hastigheten du får med de beste ruterne, men et godt stykke under de beste på 5 GHz-ruterne - begge målt i kjelleren. 
+
+Ellers i vårt hus er trådløst generelt bedre. 
+
+Får du god båndbredde kan du få kurant surfehastighet, og til og med akseptabel video. 
+Som regel er det ofte jevnere hastighet over strømnett enn med trådløst. 
+
+Mer informasjon om de forskjellige modellene finner du hos D-Link. 
+
+D-Link DHP-309AV 

@@ -1,0 +1,169 @@
+HTC Incredible S
+Vårens dyreste fra HTC. 
+
+Denne våren lanserer HTC en god håndfull nye modeller, og den dyreste av de nye modellene er dagens testmodell; Incredible S. 
+
+Den første Incredible-modellen var kun tilgjengelig i USA, men HTC har denne gangen valgt å bringe serien også til europeiske forbrukere. 
+
+I bunn og grunn har Incredible S mye til felles med kommende Desire S (oppfølgeren til den opprinnelige HTC Desire), der forskjellene hovedsaklig ligger i skjermstørrelsen, oppløsning på kameraene og den utvendige designen; de to første i favør Incredible S. 
+
+Vi tar som vanlig en titt på detaljene: 
+
+Tekniske spesifikasjoner, HTC Incredible S 
+
+Skjermstørrelse: 4"Oppløsning: 
+800x480 pikslerSkjermteknologi: 
+Super clear LCDProsessor: 
+1GHz Qualcomm SnapdragonInnebygd minne: 768MB RAM, ca 1GB internlagring (til apps som ikke kan kjøres fra minnekort)Minnekort: 
+Micro SD opp til 32GB, 8GB følger medAndroid-versjon: 
+2.2 (Froyo, skal raskt opp til 2.3)Kamera: 
+8Mp+1,3MpVideo: 1280x720 (720p)Radio: 
+Stereo FM m/ RDS (krever medfølgende ørepropper)Utganger: 3,5mm jack (ørepropper følger med), micro USB (til lading/dataoverføring, kabel følger med)WiFi: Wi-Fi 802.11 b/g/n, DLNA3G: 
+HSDPABluetooth: v2.1Mål: 
+120 x 64 x 11,7 mmVekt: 136 gramBatteri: 
+1450mAhPris: ca 4400 kroner 
+
+Konstruksjon 
+
+HTC Incredible S har en oppsiktsvekkende design, som de fleste av de vi har vist telefonen til har likt godt, men som det skal sies at ikke alle liker. 
+På pressevisningen av telefonen fikk vi høre at HTC har designet denne telefonen innenfra og ut, og derfor opptar ikke selve skallet større plass enn strengt nødvendig. 
+Det betyr at baksiden slett ikke er en vannrett flate, som du ser på bildet. 
+
+Personlig har jeg ingenting i mot designvalget - Incredible S skiller seg litt ut fra resten av smarttelefonmarkedet, der det ikke har vært mye oppfinnsomhet å spore de siste par årene, foruten blant annet Xperia Arc som vi testet forleden dag. 
+I tillegg til å gjøre telefonen behagelig å holde i, har HTC valgt et matt, nærmest gummiert bakdeksel som gir godt med friksjon. 
+Materialet gir en følelse av at Incredible S er solid, i hvert fall kombinert med en vekt på 136 gram, som er noe tyngre enn de letteste telefonene i dette segmentet. 
+
+Som du ser av bildet har kameraet også to LED-pærer som gir ekstra lys når du skal ta bilder, eller når du bruker den medfølgende lommelyktapplikasjonen. 
+
+Skjermen er 4 tommer stor, altså midt i mellom Desire HDs 4,3 og den kommende Desire S' 3,7 tommer, og i hånda føles størrelsen perfekt. 
+Knappene får akkurat god nok bredde til at tastaturet blir veldig treffsikkert i våre øyne, uten at selve telefonen blir for stor. 
+
+Skjermtypen er såkalt "Super LCD" med en behagelig fargebalanse, men sortnivået er ikke i nærheten av de beste skjermene på markedet. 
+I testperioden har vi også overvåket batteribruken, og det viser seg at skjermen på Incredible S er en batterityv. 
+Batteriet holder lenge når du ikke bruker telefonen så mye (to døgn med moderat bruk), men er du støtt og stadig innom for å sende meldinger, bruke Facebook eller hva det måtte være, må du belage deg på å lade hver kveld. 
+Utendørs må du dessuten ha ganske høy lysstyrke, og det tapper batteriet ytterligere. 
+
+Under skjermen finner du de sedvanlige knappene for hjemmeskjerm, meny, tilbake og søk, i nevnte rekkefølge. 
+Disse er berøringsfølsomme felter og ikke fysiske knapper, og lyser derfor når telefonen er i bruk. 
+
+En fiffig detalj er at disse roteres 90 grader dersom du gjør det samme med telefonen, slik at f.eks. home-knappen blir stående riktig veg også når du snur telefonen. 
+Merk imidlertid at dette kun gjelder dersom innholdet på skjermen også roteres (gjelder f.eks. ikke hjemmeskjermen); en litt unødvendig begrensning i våre øyne. 
+
+Under ser du en filmsnutt som viser hvordan dette fungerer: 
+
+Spretter vi opp lokket på baksiden, ser vi at SIM-kortet er helt skjult av batteriet, men at minnekortet kan byttes uten at batteriet må tas ut. 
+Det skal sies at inngangene til SIM- og minnekort er laget ganske trange, og at vi sjelden har fiklet mer for å få disse på plass. 
+
+På venstre side finnes volumbryteren og micro USB-utgangen. 
+Akkurat her synes vi HTC har vært litt uheldige med konstruksjonen, for volumknappene dekker et stort område, og det er derfor lett å trykke på disse knappene ufrivillig. 
+Plasseringen av USB-porten gjør også at telefonen ikke er helt komfortabel å holde i venstre hånd når den er tilkoblet strøm/PC. 
+
+Froyo og HTC Sense 
+
+Litt overraskende er det at Incredible S "bare" kommer med Android v2.2 (Froyo), selv om oppgradering til v2.3 (Gingerbread) visstnok skal komme raskt. 
+HTC har vært blant de kjappere når det gjelder nye Android-versjoner på de siste telefonene, men her er de altså slått både av Google Nexus S og nevnte Xperia Arc fra Sony Ericsson, som begge har siste versjon av Android installert. 
+
+Til gjengjeld er HTC det selskapet som nok har puttet mest på toppen av Android med deres Sense-grensesnitt, og det blir stadig bedre. 
+Blant annet er skriftstørrelsen redusert noe slik at mer får plass på skjermen uten at det går ut over lesbarheten (f.eks. i epostprogrammet eller innstillinger-menyen), de har et rikt utvalg av egne widgets og mer kan også lastes ned via applikasjonen HTC Hub som følger med, blant annet kinesisk nyttår-temaet som er brukt i testbildene i denne artikkelen. 
+
+Spesielt setter vi pris på hvordan HTC har integrert tjenester som Facebook og Twitter i Sense, der import og synkronisering med eksisterende kontaktliste er blitt enda mer elegant. 
+Noen av widgetene er også meget nyttige, som for eksempel ettrykkstilgang for å slå av og på roaming (bruk av datatrafikk i utlandet). 
+
+HTC-tastaturet har også norske bokstaver og ordbok, og alle knapper har snarveier til tall og spesialtegn som gjør dette til ett av de bedre medfølgende tastaturene å skrive på i våre øyne, selv om vi fortsatt holder en knapp på prediktive Swiftkey. 
+
+HTCsense.com 
+
+Alle nye HTC-telefoner er dessuten kompatible med HTCs nettjeneste htcsense.com. 
+Logger du inn her får du opp et kontrollpanel som gjør at du kan fjernstyre telefonen. 
+
+Og tanken er definitivt god. 
+Har du glemt telefonen hjemme, kan du instruere den om å viderekoble alle anrop til et annet telefonnummer, eller videresende SMS til et telefonnummer eller e-postadresse slik at du ikke går glipp av noe. 
+Det er også mulig å se hvor telefonen befinner seg på et kart og tvinge den til å ringe med full styrke (bill.mrk. "ah, den lå mellom sofaputene, ja"). 
+
+Videre skal det også være mulig å låse telefonen slik at uvedkommende trenger en PIN-kode for å låse den opp, men får tillatelse til å ringe et nummer du angir for å fortelle at de har funnet den, samt å slette alt innholdet på telefonen. 
+
+Dog har HTC ett problem. 
+Det fungerer innmari dårlig. 
+
+Ikke har vi fått noen vidersendte SMS, ikke ser vi (den på) kartet og telefonen låser seg ikke om vi trykker på knappen (selv om det står at den er låst). 
+Etter å ha googlet litt viser det seg at vi slett ikke er alene om problemene. 
+Folk rapporterer om at det kan ta uker fra du trykker på låseknappen til telefonen faktisk låses og at HTCsense.com har mange svakheter. 
+
+Det er synd, for ideen er veldig god og definitivt noe som kunne ha løftet Incredible S et hakk opp på stigen dette beintøffe segmentet. 
+I stedet gir det deg en falsk trygghet og er faktisk med på å trekke ned helhetsinntrykket. 
+
+Medfølgende applikasjoner 
+
+Sense er allerede nevnt - HTCs Android-skall har mange funksjoner, og mye er byttet ut. 
+Blant annet har varslingsmenyen også snarveier til dine sist brukte applikasjoner, epostklienten er deres egen, hjemmeskjermen har et rikt utvalg av widgets, du bytte ut alle systemlyder i ulike lydsett, og det er også lett å "skinne" telefonen med nedlastbare temaer. 
+
+Ser vi på applikasjoner som følger med telefonen, har vi følgende liste (foruten de som følger med Android, selvsagt): 
+
+Amazon MP3 - Amazons iTunes-konkurrent. 
+Uheldigvis ikke tilgjengelig her til lands. 
+
+Bilpanel - Navigasjonsprogramvare fra Route66. 
+Abonnementsbasert (mot betaling), men har kart også over Norge og støtter trafikkvarsler, fotobokser og turn-by-turn-navigering (ikke testet). 
+
+Friend Stream - Applikasjon for sosiale medier, viser oppdateringer fra Facebook, Flickr og Twitter. 
+
+HTC Hub - Ekstra "stæsj" som ringetoner, temaer, widgeter etc. 
+Beklageligvis ser det ikke ut til at widget-nedlastingen fungerer, selv om vi ikke får noen feilmelding. 
+
+HTC Likes 
+- En redaksjonell inngangsport mot Android Market - HTCs egne app-anbefalinger 
+
+Leser 
+- Ebokleser i samarbeid med Kobo, også med en del gratis bøker. 
+
+Locations 
+- HTCs egen stedstjeneste der du kan få tips til spisesteder, hoteller etc. i nærheten av der du er. 
+
+Overfør data 
+- Lar deg overføre kontakter, SMS og kalenderoppføringer fra din forrige telefon (iPhone inkludert, bruker Bluetooth). 
+Vi prøvde mot en iPhone 3GS, men fikk det dog ikke til å fungere. 
+
+Quickoffice 
+- Vis .pdf og Office-dokumenter 
+
+Tilkoblede medier 
+- Gjør at du kan sende bilder, musikk og film direkte til en annen enhet. 
+
+Ytelse 
+
+Som på de fleste telefonene i dette segmentet (f.eks. HTC Desire HD, Sony Ericsson Xperia Arc etc.), har også Inredible S en 1GHz Scorpion-prosessor under panseret, og kombinert med 768MB RAM yter telefonen godt til de fleste oppgaver i operativsystemet. 
+Det er også et pluss at 1GB er tilgjengelig for internlagring av applikasjoner, siden ikke alle kan kjøres fra minnekort. 
+
+Det skal imidlertid sies at vi ikke er helt imponerte når det kommer til videoavspilling, og formatstøtten er også ganske svak. 
+De formatene vi fikk til å snurre (blant annet AVI/Divx HD og AVI/Motion JPEG) gikk veldig hakkete. 
+
+Quadrant Standard-testen gir oss en score på 1542, omtrent på par med Xperia Arcs 1621, men godt bak Optimus 2X' dobbeltkjerneprosessor. 
+
+Kamera, video og samtalekvalitet 
+
+Mens utendørsbildene ser helt greie ut detaljmessig (selv om de skarpes opp i overkant mye på standardinnstillingene), har Incredible S problemer når lystilgangen blir dårligere. 
+
+På innendørsbilder visker kameraprosessoren ut såpass mye detaljer at bildene ikke ser bra ut. 
+I tillegg er ikke lysmåleren alltid like god, som gjør at bilder både over- og undereksponeres fra tid til annen. 
+Det kan du imidlertid kompensere for i kameraapplikasjonen (det samme gjelder for øvrig skarpheten kommentert over). 
+
+Videokvaliteten havner i samme gate, og dersom du omfokuserer etter å ha startet opptaket, begynner videoen å hakke. 
+Lyden er grei nok, men vi har også hørt bedre. 
+
+Når det gjelder samtalekvalitet er vi heller ikke 100% fornøyde med det vi hører, der motparten oppleves med en litt "hul" stemme. 
+Andre veien var motparten imidlertid godt fornøyd med kvaliteten på samtalen, så mikrofonen virker i hvert fall å være god. 
+
+Den interne høyttaleren kan spille ganske høyt, og på fullt volum høres ringetonen godt også i utendørsmiljøer. 
+Kvalitetsmessig er det i overkant mye diskant, men det er Incredible S slett ikke alene om. 
+HTC legger også ved noen ørepropper som vi har store problemer med å få til å sitte i ørene (faktisk faller de ut så lett at vi må bruke fingrene for å holde dem inne), men lydkvaliteten er faktisk ikke så verst, med et relativt detaljrikt lydbilde om noe svak bass. 
+I tillegg har de knapper for neste/forrige sang, samt play/pause. 
+
+Konklusjon 
+
+Det er et tøft marked for Android-telefoner til rundt 4.000 kroner, og mens Incredible S fremstår som jevnt over god, sliter vi med å finne et åpenbart argument for hvorfor du bør velge akkurat den. 
+
+Det som kunne ha vært det beste salgsargumentet, integrasjonen med HTCsense.com, oppleves som falsk trygghet fordi det ikke fungerer slik det burde (og enda verre - uten feilmeldinger slik at man tror at man har gjort det man ønsket), og det er selvsagt et lite skår i gleden at den ikke kommer med siste versjon av Android rett ut av esken. 
+
+Sense-grensesnittet er imidlertid meget bra, med strømlinjet integrasjon med sosiale medier og et rikt utvalg av tilpasningsmuligheter for å gjøre telefonen mer personlig. 
+
+HTC Incredible S 

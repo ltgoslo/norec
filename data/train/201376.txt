@@ -1,0 +1,113 @@
+Asus N56VZ
+Uten tvil en av de beste PC-ene fra Asus vi har testet noensinne. 
+Men holder det til terningkast 6? 
+
+Dataredaksjonen i DinSide tester flere bærbare PC-er enn de fleste andre magasiner, både nasjonalt og internasjonalt. 
+Og fra tid til annen pakker vi opp maskiner som vi umiddelbart forstår byr på noe helt spesielt. 
+Som når vi pakket ut Asus N56VZ, for ikke å glemme Samsungs 7-serie i høst. 
+
+Begge maskiner gir nemlig en umiddelbar følelse av "hel ved", altså god kvalitet både på ut- og innsiden. 
+
+Men før vi går i detalj på hva vi legger i dette, skal vi se på hva N56VZ har å by på av tekniske egenskaper: 
+
+15,6" matt LED-baklyst LCD-skjerm, 1920 x 1080 piksler (full HD) 
+Intel Core i7-3610QM prosessor Nvidia Geforce GT650M grafikkort (2 GB) 
+8 GB RAM (som også er maks) 750 GB harddisk, 5400 rpm Blu-ray-leser/DVD-brenner Trådløst nett (b/g/n) Bluetooth 4.0 Gigabit nettverk 4 stk USB 3.0-porter VGA- og HDMI-utganger for ekstern skjerm Kortleser for SD/MMC/MemoryStick Webkamera Høyttalere fra Bang & Olufsen med ekstern sub Størrelse: 38 x 25,5 x 3,24 cm Vekt: 
+2,6 kg Pris denne konfigurasjonen: ca 9700 kroner 
+
+Godt utstyrt 
+
+Asus markedsfører maskinen som en multimediemaskin, og det er den til gangs. 
+Den er også meget oppdatert på maskinvarefronten, og er faktisk den første maskinen vi har på testbenken som har kun USB 3.0-porter. 
+Disse byr på inntil 10 ganger høyere overføringshastigheter enn USB 2.0, og gir i tillegg mer strøm til lading av enheter. 
+
+Selve maskinen har en mørk grå overflate i børstet metall. 
+Lokket er meget godt oppstivet. 
+På innsiden er hele platen rundt tastatur og pekeplate også av metall, noe som forsterker kvalitetsfølelsen. 
+Denne er sølvfarget, og den matte overflaten sørger for å holde fingeravtrykkene unna. 
+
+Tastaturet er baklyst, og særdeles godt å skrive på. 
+Tastene er faste og responsive, og isolert fra hverandre. 
+Slike tastaturer av chicklet-typen er også veldig lette å renholde. 
+Definitivt ett av de beste tastaturene vi har lagt våre hender på i år. 
+
+Pekeplaten er stor, multiberøringsfølsom og har integrerte knapper - ikke ulikt hva som sitter på MacBook Pro fra Apple. 
+Den fungerer bra, men er temmelig følsom. 
+Det skal ikke store utilsiktede berøringen til før pekeren og markøren flytter seg til et helt annet sted enn du har tenkt deg. 
+Personlig har jeg også lagt meg til vane å hvile venstre pekefinger på venstre knapp, noe som heller ikke er gunstig når knappene er helintegrerte. 
+Her kreves det litt tilvenning, og det tipper vi gjelder flere enn oss. 
+
+Alle tilkoblinger sitter på sidene, og minnekortleseren sitter i front. 
+
+Vi merker oss også at strøminntaket sitter lengst bak til høyre, og at strømpluggen har fått 90-graders knekk. 
+Vi vet at Asus har opplevd en del reklamasjon knyttet til kontaktbrudd på noen modeller med inntak mitt på siden og plugg som stikker rett ut, og som dermed er lett å dulte borti. 
+
+Høyttalerne sitter mellom de to knappene over tastaturet. 
+I tillegg leveres maskinen med en liten subwoofer som kobles til via eget uttak på siden. 
+Det fører til litt fyldigere lyd, men vi ser ikke helt formålet. 
+Skal man først koble til noe eksternt, hvorfor ikke koble til ordentlige bordhøyttalere? 
+Og selv om lyden her er temmelig fin, vil selv enkle bordhøyttalere i mange tilfeller gi en bedre opplevelse, mener vi. 
+
+Skjermen derimot, ser vi absolutt formålet med. 
+Matte skjermer er på vei tilbake, med god kontrast og null gjenskinn. 
+Skjermen i N56VZ er eksemplarisk, og byr på meget god innsiktsvinkel fra sidene og nedenfra, ovenfra blir bildet raskt invertert, som også er tilfelle for de aller fleste andre TN-skjermer, både stasjonære og i bærbare. 
+
+Oppløsningen er hele 1920 x 1080 piksler, også kjent som full HD. 
+Asus har jekket opp skriftstørrelsen i operativsystemet og Internet Explorer med 25%, noe som sørger for god lesbarhet. 
+Dette er selvsagt mulig å justere tilbake hvis du har godt syn. 
+For selv om det definitivt er flest fordeler med høy skjermoppløsning, skalerer ikke alltid Windows og programmene like godt, og man kan fort ende opp med å føle at ting (og spesielt tekst) blir smått. 
+
+Stille og rask 
+
+Oppstart er vesentlig tregere enn maskiner som er utstyrt med SSD i stedet for harddisk, men så snart Windows er lastet opplever vi NV56VZ som meget rask i nær sagt alle situasjoner. 
+
+Og enda bedre: 
+Den er nærmest lydløs i nesten alle situasjoner. 
+Selv under tunge ytelsestester kunne vi knapt høre viftesus. 
+Se til Asus, alle konkurrenter! 
+
+Noen små irritasjonsmomenter opplever vi dog, og verst er prøveversjonen av sikkerhetspakken fra McAfee, som gir advarsler i hytt og vær, føler vi. 
+Dette er en av de minst diskré sikkerhetspakkene på markedet, dessverre. 
+Vi hadde valgt en annen løsning her, kanskje til og med noe som ikke koster penger. 
+
+Ytelsesmålinger 
+
+Windows egen opplevelesindeks gir oss en god pekepinn på ytelsen, og her går skalaen fra 1,0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 7,6 Minne: 7,7 Grafikk: 
+7,1 Spillgrafikk: 
+7,1 Primær harddisk: 
+5,9 
+
+Når alt, med unntak av harddisken, får en score på over 7, skjønner vi at dette også ytelsesmessig er en meget potent maskin. 
+Harddisker får meget sjelden mer enn 5,9, da må du over på SSD - noe som absolutt kan være en fornuftig oppgradering for deg som velger denne maskinen. 
+Men du får ikke mer enn 128 GB SSD-kapasitet for samme prisen som en 750 GB harddisk koster, og for mange er stor kapasitet viktigere enn å vinne noen sekunder på ytelsen. 
+
+Passmark PerformanceTest 7.0 gir oss litt mer kjøtt på benet, og en totalscore på 1910. 
+I diagrammet under har vi isolert prosessorytelsen og sammenlignet med andre PC-er i 10.000-kroners klassen: 
+
+Det er helt klart at de nye Ivy Bridge-prosessorene byr på vesentlig forbedret ytelse sammenlignet med Sandy Bridge-generasjonen. 
+
+Grafikkytelsen er imidlertid å regne som middels i 2012-målestokk, sammenlignet med hva du finner i prisklassen for øvrig: 
+
+Grafikkortet er uansett kraftig nok til å spille nye spill i HD-oppløsning, men merk at du kan få litt hakke-problemer dersom du setter alle detaljer til maks. 
+Derfor er vår klare råd at hvis du først og fremst er ute etter en spillmaskin, skal du se en annen vei. 
+Men bevares - spiller du en gang i ny og ne, er dette mer enn raskt nok. 
+
+Harddisken har en lesehastighet på 85 MB pr sekund og skrivehastighet på 78 MB pr sekund. 
+Det er grei ytelse for å være harddisk, men langt bak nye SSD-er, som ofte ligger på 400 MB per sekund eller mer, både på lesing og skriving. 
+
+Hva så med batteritiden? 
+Vi vet at den nye generasjonen Core i-prosessorer er mer strømgjerrig enn forgjengerne, og vi hadde en meget høy forventning til denne maskinen. 
+Vi ble derfor litt skuffet over 5 timer med minimal belastning, og 3 timer ved videoavspilling, noe som skulle tyde på en batteritid på rundt 4 timer ved lett, variert bruk. 
+
+Konklusjon 
+
+Bare for å fullføre batteridelen - det er omtrent det eneste som står i veien for toppkarakter til denne PC-en. 
+Det er uansett uten tvil en av de beste vi har hatt på testbenken denne sesongen. 
+Solid utført, støysvak, meget god ytelse, glimrende skjerm og tastatur. 
+Vi gir den en meget sterk femmer på terningen og velfortjent Anbefalt-stempel. 
+
+Merk imidlertid våre små negative bemerkninger i oppsummeringen under, og ta alltid en titt på vår alltid oppdarte testoversikt før du bestemmer deg. 
+
+Asus N56VZ-S4027V 

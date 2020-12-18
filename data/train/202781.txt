@@ -1,0 +1,101 @@
+Acer Aspire 3935
+PC-TEST: 
+Den er liten, lekker og byr på mye kraft. 
+Kan man ønske mer? 
+
+Skal du ha en bærbar PC er det veldig mye å velge mellom og prismessig et stort sprang fra nederste til øverste hylle. 
+Fra en mini-PC til rundt 2000 kroner på tilbud til de feteste og fullspekkede med stor skjerm til bortimot 30 000. 
+
+Men de fleste velger et eller annet nærmere midten, og dagens testobjekt fra Acer plasserer seg der med en pris på rundt 10 000, avhengig av konfigurasjon. 
+
+Acer Aspire 3935 er først og fremst bærbar, den er blant de mindre og lette, med en skjerm på 13,3 tommer og en vekt som kryper så vidt under 2-kilosgrense med sine 1937 gram. 
+Men maskinvaren gjør at den ikke er noen lettvekter når det kommer til ytelse. 
+
+Ryddig oppstart? 
+
+Ved vår test av rimelige bærbare i mars var det flere av maskinene som led av innstallsjons-syken med flere overivrige ekstraprogrammer som maste om oppmerksomhet. 
+På denne maskinen var det bare McAfee sitt antivirusprogram som var lagt til i tillegg til Windows Vista Home Premium SP1. 
+Selv om vi takket nei til å installere dette, med tanke på testingen, slapp vi likevel ikke unna. 
+Vi måtte derfor inn manuelt og fjerne det fra oppstart i MSCONFIG. 
+Forøvrig gikk oppstart og installasjon prikkfritt. 
+
+Brun og lekker 
+
+Maskinen kommer som mørk bronsebrun i børstet titan og noen sorte plastdetaljer. 
+Tastatur, høyttalergrill og ramme rundt skjermpanelet er sort. 
+
+Designet er renslig uten kvikke påfunn, vi synes den er stilig uten å være jålete verken på den feminine eller maskuline måten. 
+
+Tastaturet er godt og det er ikke trangt mellom tastene. 
+
+Pekeplaten er behagelig, men knappene fungerer bare i ytterkantene, ikke nær midten. 
+Mellom knappene sitter en fingeravtrykksleser som kan brukes til å beskytte maskinen mot uvedkommende bruk. 
+
+En svært fiks løsning er bryteren til høyre for pekeplaten, som rett og slett slår den av og på, og viser at den er av ved å lyse. 
+De fleste av oss har vel erfart at mange ganger at når man blir ivrig når man skriver tekst så hopper markøren fritt omkring i teksten. 
+Dette skjer fordi man kommer borti pekeplaten med tommelen, det skal ikke mye til. 
+Dette problemet unngår du her på en svært enkel og praktisk måte. 
+
+Inn og ut 
+
+Maskinen er utstyrt med 3 USB-tilkoblinger, Gbit nettverk, lyd inn og ut og VGA. 
+Trådløst nett (802.11g og n) og Bluetooth er også på plass. 
+
+Webkamera i toppen av skjermen er på plass, mikrofon befinner seg ved venstre hjørne og høyttalerne støtter Dolby Home Theater og gjengir virtuell surround. 
+Det blir uansett ingen kinofølelse uten sub... 
+
+Kortleser for små minnekort (ikke CF) sitter i front og en spalte for CD/DCD sitter på venstre side. 
+
+Det er ingen spalte for ExpressCard. 
+
+Skjermen 
+
+Skjermen har LED-bakgrunnsbelysning, og er lyssterk med svært gode farger og sortnivå. 
+Oppløsningen er på 1366 x 768, det samme som man finner på mange flat-TVer. 
+Dette gir fin bredde til film, og er også praktisk for mange andre daglige bruksområder som ikke er helt A4. 
+
+Overflaten er skinnende blank, noe som kan være flott i noen sammenhenger, og tilsvarende dårlig i andre. 
+Når skjermen har begrenset betraktningsvinkel blir det spesielt vanskelig, fordi man da ikke kan vippe skjermen i den posisjonen hvor gjenskinnet blir minst plagsomt uten å ødelegge fargebalansen. 
+Og dette skjer dessverre med denne skjermen. 
+
+Ytelse 
+
+Med en Core 2 Duo prosessor på 2,53 GHz og 4 GB DDR3 minne forventer vi gode testresultater. 
+Noe mer skeptisk var vi til 1,8-tommers harddisken, men vi ble ikke skuffet. 
+
+Geekbench målte 2949, et resultat som ikke er noe å skamme seg over. 
+Til sammenligning fikk den rimelige Acer Aspire 5737Z som var med i vår nylige test av bærbare 2263, mens MacBook Pro ble målt til 3038 under Windows. 
+
+PCMark Vantage ga 3302 PCMarks 
+
+PCMark 05 ga 5211 PCMarks 
+
+Støy og batteri 
+
+Maskinen er svær stillegående, i vanlig sitteavstand ved normal bruk hører du den ikke selv i et svært stille miljø. 
+Når viften en sjelden gang drar i gang er det heller ikke noe drama over lydnivået. 
+
+Batterilevetiden vil variere svært med bruken. 
+Moderne prosessore for bærbare er laget slik at de er svært dynamiske og kan slå av mange interne områder så snart det er liten aktivitet. 
+Når det er behov for aktivitet er de lynraskt oppe igjen og klare til bruk, uten at brukeren må vente på at maskinen skal "våkne". 
+
+Så snart du tar en tenkepause mens du skriver en tekst synker strømforbruket, og bare når du setter i gang med mer intense aktiviteter som f.eks. FPS-spill eller visning av video, eller 48-spors opptak av et symfoniorkester - mobiliseres alle resursser. 
+
+Vanlige batteritester kjører maskinen på fullt og man må slå av alle smarte strømsparefunksjoner for å kjøre programmet. 
+Da gir de bare et svært spesielt bilde av levetiden, nemlig det dårligste resultatet du kan forvente. 
+
+På denne maskinen var det dårligste resultatet ingen ting å skamme seg over. 
+
+Med grønt sparemodus aktivert, men uten slukking av skjerm eller parkering av harddisk kjørte den i 4 timer og 22 minutter på et 4-cellers batteri! 
+
+Konklusjon 
+
+Vil du ha en kraftig, kompakt og lekker bærbar er Acer Aspire 3935 en aktuell kandidat. 
+Den dekker de fleste behov for både jobb og underholdning for krevende brukere. 
+
+Den blanke skjermen gjør den mindre egnet for jobbsituasjoner hvor du er utsatt for takbelysning, vi vet ikke om maskinen kan leveres med alternative skjermløsninger. 
+
+Hvis vi skal være litt vanskelige så hadde vi også ønsket oss en eSATA kontakt for tilkobling av ekstern harddisk, ExpressCard spalte og en HDMI eller DisplayPort kontakt for tilkobling til ekstern skjerm i stedet for VGA. 
+Men dette må du nok enda litt høyere i pris for å få på plass. 
+
+CPU Intel Core 2 Duo P8700 2,53 GHz 4 GB DDR3 minne 1,8" 160 GB Harddisk Mobile Intel® PM45 Express Brikkesett 13,3" Skjerm m/LED belysning 

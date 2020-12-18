@@ -1,0 +1,109 @@
+DAB i bilen:Tiny Audio C3 
+
+Gir din gamle bil DAB-radio og musikk fra mobilen. 
+
+I takt med at den foreløpige slukkedatoen for FM-nettet nærmer seg, har DAB-interessen blant bilister tatt seg kraftig opp. 
+
+Og den gode nyheten er at det nå begynner å bli mange alternativer å velge mellom, også i de lavere prisklassene. 
+
+Dagens testprodukt koster riktignok 1.295 kroner, men lar deg også spille av musikk via mobilen. 
+Importøren TTMicro skryter videre av at monteringen skal kunne gjøres på rundt to minutter i de fleste biler. 
+
+Det måtte selvsagt prøves. 
+
+SE ALTERNATIVENE: DAB+yourCar, forgjengerne Tiny Audio C1 og C2, og ikke minst for deg som har USB-plugg i bilen: 
+Dension DAB-U. 
+
+I pakken 
+
+Tiny Audio 
+C3 er altså en ekstern DAB+-radio, og med målene 9 X 7 X 
+1,5 centimeter tar den ikke stor plass. 
+Selve radio-enheten må settes på et lite stativ, som så festes til dashbordet med en kraftig dobbeltsidig teip. 
+
+Med i pakken får du også en DAB-antenne på tre meter. 
+Antennen skal festes i vinduet, og endestykket har derfor teip på baksiden. 
+Selv valgte vi å montere den på høyre side av frontvinduet, men det er også mulig å feste den på et av sidevinduene bak i bilen. 
+Montering på bakvinduet anbefales imidlertid ikke, da det kan føre til dårligere signal. 
+
+Et lite tips: 
+Før du fester antennen ordentlig, bør du feste den midlertidig med en vanlig teipbit. 
+Dermed finner du ut om plasseringen du har valgt fungerer, for har du først dratt av beskyttelsen og klistret antennen på plass sitter den godt fast. 
+
+I pakken får du også en kraftig lader med to USB-utganger. 
+Den plugges i sigarettuttaket for å gi radioen strøm, og kan i tillegg lade mobilen mens du kjører. 
+Det siste er faktisk ganske så praktisk, siden C3-radioen også gir deg muligheten til å spille av musikk fra mobilen din via Bluetooth. 
+
+Vi gir TTMicro rett i at monteringen er enkel, men litt avhengig av hvor pent du vil ha det, tar det nok lenger tid enn to minutter. 
+
+En av grunnene til det er at antennekabelen er ganske tykk, og skal den kamufleres ordentlig risikerer du å måtte knote litt. 
+
+Få lyd fra Tinyen til bilradioen 
+
+Tiny C3 har også vanlig linjeutgang. 
+Dersom din originale bilradio har linjeinngang er det bare å plugge i en kabel. 
+Da vil du også få den beste lydkvaliteten. 
+
+Vår gamle bilradio manglet imidlertid dette, og vi måtte derfor bruke Tinys innebygde FM-sender til å overføre DAB-signalene. 
+
+Prosessen er heldigvis uproblematisk. 
+FM-senderen søker nemlig automatisk opp en ledig FM-frekvens, og den blir stående i displayet på Tiny-en. 
+Dermed er det bare å søke opp den samme frekvensen på bilradioen, og lagre den som en favorittkanal slik at den er lett å finne igjen. 
+
+Når dette er gjort vil displayet på din gamle FM-radio lyse opp, og DAB-radioen er klar til bruk: 
+
+DAB-radioen i bruk 
+
+Tiny-en har ingen trykkfølsom skjerm, men en kombinasjon av trykk-knapper og skroll-hjul. 
+Noen av meny-kombinasjonene kunne kanskje vært litt smidigere, men etter litt tilvenning fungerer det alt i alt helt greit. 
+Kanalskifte går også litt raskere enn på de aller første DAB-adapterne vi har vært borti. 
+
+Som nevnt over brukte vi altså Tiny-ens FM-sender for å overføre DAB-signalene, og selv om den fant en ledig frekvens, er det verdt å merke seg at den ikke nødvendigvis er optimal. 
+
+I løpet av de tre ukene vi har kjørt rundt med Tinyen har vi for eksempel skiftet frekvens to ganger: 
+
+Den første frekvensen fungerte nemlig svært bra på landeveien, men ga litt skurring på enkelte plasseringer i hovedstaden. 
+Det er altså ikke unormalt om du må bruke litt tid på å finne en optimal frekvens her. 
+
+Men Tiny Audio C3 kan selvsagt ikke trylle. 
+
+Er du i et område med dårlig DAB-dekning, vil du også oppleve at DAB-kanalene hopper ut. 
+På vei opp til Vegglifjell i Buskerud falt for eksempel DAB-kanalen NRK Sport ut bak enkelte bakketopper. 
+Det samme gjelder selvsagt i tunneller, der DAB-dekningen (og FM-dekningen) slett ikke alltid er på plass. 
+På vei gjennom Bragernestunnellen i Drammen mistet vi for eksempel Radio Rock, men beholdt NRK-kanalene. 
+
+Jevnt over sier vi oss likevel fornøyd. 
+
+Bluetooth gir deg WiMP og Spotify 
+
+Tiny Audio 
+C3 har en 3,5 millimeters AUX-inngang for fysisk tilkobling av iPod eller andre enheter, men siden stadig flere hører på musikk via mobilen tipper vi at Bluetooth-løsningen er mest aktuell. 
+
+En ting er at du kan spille av musikken du har kjøpt, men du kan selvsagt også spille av musikk fra WiMP eller Spotify. 
+Dette fungerte svært bra enten vi brukte vår Galaxy Note 3 eller iPhone 5. 
+
+Selve paringen mellom mobil og radio er forøvrig svært enkel, og Tiny-en takler opp til åtte ulike Bluetooth-enheter. 
+Det er praktisk hvis det er flere som bruker bruker bilen, eller hele storfamilien skal på tur. 
+
+Når Bluetooth-funksjonen er aktivert står det for øvrig Bluetooth på Tiny-ens display, mens bilradioens display lyser BT-Mode. 
+Rimelig selvforklarende, altså. 
+
+Vi liker også at du stort sett kan glemme mobilen helt når sammenkoblingen er etablert: 
+Volumet regulerer du som vanlig på din originale bilradio, mens du hopper over spor ved å vri på skrollehjulet på Tiny-en. 
+
+Til slutt kan vi også nevne at Tiny-en kan brukes til å ta imot og besvare samtaler når du har koblet den til via Bluetooth. 
+På handsfree-løsningen anbefales det å kjøre lyden ut via bilens høyttalere. 
+
+Konklusjon 
+
+Tiny Audio 
+C3 gjør akkurat det den lover, og det liker vi. 
+I vår bok er også Bluetooth-løsningen et stort pluss. 
+
+Vi kommer likevel ikke unna at løsningen fort kan gir ekstra kabelrot i bilen, noe som også gjelder konkurrentenes alternativer, men dette kan kamufleres noe hvis du tar hensyn under monteringen. 
+
+Prismessig ligger Tiny Audio C3 helt greit, men vi synes den passer best for de av dere som allerede har et integrert bilstereoanlegg som fungerer godt. 
+De er nemlig rådyre å oppgradere, og da er Tiny-en et godt supplement. 
+
+Har du derimot en bil med klassisk, såkalt 1-DINS bilstereo, kan det imidlertid være vel så fristende å vurdere om det ikke er like greit å skifte ut hele bilradioen til en ny modell med innebygget DAB. 
+Også der har nemlig prisene falt kraftig. 

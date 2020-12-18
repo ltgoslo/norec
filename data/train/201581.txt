@@ -1,0 +1,134 @@
+Acer TravelMate 6292
+Nytt brikkesett, ny grafikkløsning, ny prosessor, nytt utseende. 
+Acer TravelMate 6292 er av den nye generasjonen Centrino og en kraftpakke av de sjeldne. 
+Men helt uten svake punkter er den ikke. 
+
+Intels fjerde generasjon av Centrino-plattformen (Intels merkenavn for matchende komponenter i bærbare PCer) blir ikke lansert før i begynnelsen av mai måned. 
+Denne har en god stund vært kjent under navnet Santa Rosa, og vi har blant annet omtalt denne kort i denne artikkelen fra oktober. 
+
+LES OGSÅ: 
+
+Men selv om Santa Rosa altså ennå ikke offisielt er i handelen betyr det jo ikke at PC-produsentene har vært nødt til å vente på det samme. 
+Derfor vil vi straks etter lanseringen også få en del nye bærbare modeller ut på markedet. 
+
+I den anledningen har Acer latt oss få en sniktitt på en av sine nye modeller. 
+TravelMate 6292 er altså som du forstår helt ny - og forandringene på innsiden reflekteres i tillegg i det ytre designet. 
+Merk deg for øvrig at vårt testeksemplar er nettopp dette - en prototype som kan få små forandringer frem til det ferdige produktet er i hyllene. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo T7500 @ 2,2 GHz 12,1" skjerm i bredformat (1280 x 800 piksler) 2048 MB DDR2-minne 160 GB harddisk (5400 rpm) 
+DVD-brenner Intel GMA X3100 grafikk (opp til 384 MB delt minne) WLAN (a/b/g/n) GB LAN, modem, IR-mottaker, blåtann 3 x USB, 1 x FireWire (4-pins), 1 x CardBus (PCMCIA) Lyd inn/ut Integrert webkamera og mikrofon VGA og S-Video ut VoIP-telefon (blåtann) følger med Dimensjoner B/D/H: 30,7 x 22,7 x 3,7 cm Vekt 2,1 kilo 
+
+I motsetning til mange av sine konkurrenter har Acer TravelMate 6292 ikke det typiske blanke kontrastbelegget som har blitt vanlig det siste året; for denne modellen har de valgt en "matt" skjerm. 
+Dette er hovedsaklig en smaks- og vanesak, og denne 12,1-tommeren med 1280 x 800 piksler lider på ingen måte av dette, med klare farger og god kontrast for å være av denne skjermtypen. 
+
+Konstruksjon 
+
+Som sagt har også utseende fått en overhaling på de nye Acer-modellene. 
+Lokket og området under tastaturet har fått en finish som best kan beskrives som en slags mørk grå "metallic", men da selvfølgelig i plast. 
+Ellers er det matt sort som dominerer - dette er hovedsaklig en bærbar for business-markedet, og den gjengen drar sjelden rundt på rosa datamaskiner. 
+
+Ser vi nærmere på selve kvaliteten er Acers nye TravelMate en solid bygget PC. 
+Lokket er nokså tynt, men er også godt festet og tåler litt behandling. 
+Det er ikke fester som holder lokket på plass i lukket tilstand - noe som er en økende trend blant små bærbare. 
+Dette ser selvfølgelig mer elegant ut, men vær litt obs når den bærbare ligger i veska. 
+En løs penn eller lignende kan hvis du er uheldig finne veien mellom skjermen og tastaturet - og det kan bli stygt. 
+
+Bortsett fra lokket er også resten av maskinen godt satt sammen og uten merkbart svake punkter. 
+Men spesielt lett er den ikke. 
+Med batteriet veide den inn på rett under 2,1 kilo på gramvekta vår. 
+
+Vårt eksemplar hadde engelsk tatstaturlayout, så nøyaktig hvordan det norske/nordiske tastaturet vil bli seende ut er vi ikke sikre på. 
+Normalt sett ser vi jo blant annet at Enter går over to linjer på "våre" tastaturoppsett. 
+Men hvis bokstavtastene beholder sin størrelse ser det ut til at vi med dette tastaturet kommer til å ende opp med en smal æ-, ø- og å-tast. 
+Nok en vanesak, med mindre du da har tykkere fingre enn normalt. 
+Ellers skal det sies at det har litt svikt, men er behagelig og relativt stille i bruk. 
+
+Touchpaden er som skjermen i bredformat og har god følsomhet. 
+Den manger skrollefelt, men fingeravtrykksleseren som sitter mellom de to knappene under kan brukes til å skrolle vertikalt. 
+
+I venstre hjørne over tastaturet har vi av/på-knappen og snarveisknapp til Acers Batteri- og Nett-applikasjoner. 
+Til høyre for tastaturet er det flere snarveisknapper: WLAN og blåtann av/på, epost, nettleser og valgfri. 
+Flere av disse kan programmeres om. 
+
+Tilkoblingsmuligheter 
+
+Tilkoblinger er det på samtlige sider av denne maskinen. 
+Undersiden har også kontakt for dokking/portreplikator (Acer ezDock II/II+). 
+
+Den venstre siden har LAN-port, en USB og kortplass for CardBus. 
+Varmluften blåses også ut her. 
+
+På datamaskinens høyre side er det minnekortleser, to USB, modemport og plass for kensingtonlås. 
+Denne siden holder også det optiske drevet. 
+
+Foran er det en IR-port, ut- og innganger for lyd + FireWire. 
+Høyttalerne er også her. 
+
+Baksiden er hovedsaklig fylt opp av batteriet, men det er også presset inn plass til VGA, S-Video og inngang for strøm på høyre side. 
+
+Ytelse 
+
+Vi har tatt for oss en rekke mindre bærbare PCer de siste månedene, og begynner å få et greit sammeligningsgrunnlag. 
+Når det gjelder ytelse har det vært bra nok til det man normalt sett bruker en bærbar 12-tommer til: kontor, Internett og medieavspilling. 
+
+Acer er som sagt den første PCen vi tester som har den nye (ennå ikke lanserte) generasjonen Centrino: Santa Rosa. 
+For de som ikke har fått det med seg betyr dette blant annet: 
+* Ny generasjon Intel Core 2 (sokkel P) * Nytt brikkesett: 
+Intel Mobile 965 Express * Ny integrert grafikk: 
+Intel GMA X3100 
+* Trådløst nett med støtte for 802.11n i tillegg til a/b/g 
+
+Acer har satt sammen en liten kraftpakke i TravelMate 6292. 
+Prosessoren er en Core 2 Duo T7500 klokket til 2,2 GHz. 
+Denne er også helt ny, det er en såkalt "Engineering Sample" som sitter i testmaskinen. 
+De har også puttet inn 2 GB med minne - så totalt sett er dette en PC som også egner seg godt til tyngre oppgaver. 
+
+Denne gangen sammenligner vi med Apple MacBook, som er litt tyngre, men billigere. 
+Acers Ferrari 1000 skal også få lov til å være med, som et litt dyrere alternativ. 
+Og EasyNote BU45 fra Packard Bell, som ser ut til å bli et godt kjøp når den kommer i handelen. 
+
+Høyere poengsum er bedre. 
+
+Ytelsesmessig kan vi lese to ting ut av denne grafen: 
+Det første er at en 12-tommer til syv tusen kroner (Packard Bell) gir omtrent like mye guffe som en Ferrari til omtrent ti tusen mer. 
+Og det andre er at den nye Travelmate 6292 fra Acer uten tvil er den kraftigste 12,1-tommeren vi har testet så langt, og ligger en liten skipslast med hestehoder foran konkurrentene. 
+Også den nye integrerte grafikkløsningen gjør fin figur. 
+
+Batterilevetid, støy og varme 
+
+Mye kraft betyr som gjerne høyt strømforbruk, mye varme og viftestøy. 
+Vi ser først på batterilevetiden: 
+
+BatteryMark. 
+Måletid i minutter. 
+
+Med vårt vanlige testoppsett klokkes PCen inn på to timer og førti minutter, et helt greit resultat når vi tenker på den kraftige ytelsen. 
+Når det gjelder resultatet til Ferrarien i grafen over er dette med to batterier. 
+
+Men vi tror også det kan være litt å hente her, noe som har forbindelse med neste punkt i denne testen. 
+Vi har nemlig kommet til delen med varme og viftestøy. 
+
+Vi forstår selvfølgelig at en bærbar med såpass høy ytelse vil bruke strøm og produsere varme, men etter hva vi vet skal også den nye Centrinoen også være bedre på å takle slike ting. 
+Blant annet skal nå også systembussen i tillegg til prosessoren forandre hastighet etter belastning. 
+
+Men Acers nye PC imponerer oss ikke spesielt mye med tanke på varme og måten å bli kvitt den på. 
+Når datamaskinen først blir varm spinner vifta gjerne opp selv under lett arbeid, og ikke er den spesielt stillegående heller. 
+Men i og med at dette ikke er et ferdig eksemplar skal vi ikke klage for mye - vi har en følelse av at dette er noe som kan gjøres langt bedre med litt fiksing i programvare eller ved bruk av en vifte med litt annen støysignatur. 
+Men det er altså noe som bør sjekkes nærmere før du eventuelt kjøper. 
+
+Og når vi er innpå det om å kjøpe - denne modellen er som nevnt ikke helt klar, blant annet må jo Santa Rosa lanseres først, så den vil nok ikke være å finne i butikkene før i slutten av mai. 
+I følge Acer er ikke engang prisen spikret, men det er snakk om et sted rundt 15.000 kroner inkludert mva. 
+
+Oppsummering 
+
+Acer TravelMare 6292 er en solid bærbar og - i det minste dersom vi ser på ytelsen - en råtass. 
+Det er ikke mye annet bærbart akkurat nå som kan hamle opp med en Core 2 Duo-prosessor på 2,2 GHz parret med Santa Rosas raskere systembuss. 
+2 GB minne i tillegg betyr at med denne bærbare trenger du ikke å måtte ty til en ekstra PC for de tyngre oppgavene - her burde det være kraft nok selv for de mest kresne brukerne. 
+
+Men kraften har også en pris, og da snakker vi ikke om kroner og øre (selv om dette også er et viktig moment...). 
+Viftestøyen er vi som nevnt ikke spesielt imponert over, og vi får bare krysse fingrene for at dette er noe Acers ingeniører kan få gjort litt med på den endelige versjonen. 
+
+Men alt i alt er vi fornøyd med denne Acer-maskinen. 
+Den er kanskje ikke en av de letteste vi har vært borti, men for å kunne dra runt på all denne kraften orker vi da noen ekstra hekto. 

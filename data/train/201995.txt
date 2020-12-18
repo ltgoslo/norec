@@ -1,0 +1,74 @@
+LG BH10LS30
+Prisene på Blu-ray-brennere og media er endelig blitt spiselige. 
+Vi har testet en høyaktuell brenner fra LG. 
+
+Mye tyder på at optisk lagring synger på siste verset, i hvert fall som løsning for forbrukermarkedet. 
+En klar indikasjon på dette er at det blir vanligere og vanligere at nye bærbare PC-er kommer uten optisk drev i det hele tatt. 
+
+Og i en tid der vi begynner å bli vant til harddisker i terabyte-klassen, lynraske minneplugger og SSD-er, er det noe forhistorisk over disse roterende og til dels støyende løsningene. 
+
+Men optiske drev har sine fordeler, og vil leve med oss en stund ennå, takket være at det aller meste som distribueres av programvare og filmer fortsatt kommer på plate. 
+
+Halverte priser 
+
+Det er imidlertid kun de færreste (og dyreste) PC-ene som kommer med Blu-ray-leser eller brenner. 
+Dette kan imidlertid forandre seg i tiden som kommer, takket være at prisene endelig er på vei nedover. 
+Det finnes nå flere brennere i markedet som koster godt under tusenlappen i nettbutikkene, og vår testmodell BH10 fra LG er av de aller rimeligste. 
+Her er en rask oversikt over hva denne brenneren er i stand til: 
+
+Intern BD-brenner for montering i stasjonær PC 5,25" størrelse SATA-tilkobling Skrivekapasiteter: Blu-ray 25/50 GB, DVD 4,7/8,5 GB, CD inntil 700 MB Støtter LTH-plater (rimelige Blu-ray) Støtter LightScribe Maks skrivehastighet: Blu-ray 10x, DVD 16x, CD 48x Maks lesehastighet: Blu-ray 8x, DVD 16x, CD 48x Pris: rundt 700 kr 
+
+Selve installasjonen er grei skuring, både formatet og tilkoblingene er identisk med de aller fleste DVD-drev som er levert med stasjonære PC-er de siste årene. 
+Når drevet er på plass, er det bare å starte PC-en og ta den i bruk med det samme. 
+
+Har PC-en din Windows 7, har operativsystemet allerede støtte for brenning av plater, inkludert Blu-ray. 
+Du kan faktisk "formatere" en tom plate og bruke den som om det var en ekstern harddisk eller minneplugg, ved å dra og slippe filer til den, eller lagre direkte fra programmene du bruker. 
+
+Støtter billig-plater 
+
+En stor fordel med denne brenneren er at den støtter såkalte LTH-plater. 
+Hvis du tar en titt i butikkene er det ikke uvanlig å finne plater som koster rundt 100-lappen pr stk, men LTH-platene, som produseres på eksisterende DVD-produksjonutstyr med noen små modifikasjoner, er langt rimeligere. 
+Leter du litt, får du dem gjerne til rundt 30 kroner pr stk. 
+Dette er plater med 25 GB kapasitet som kun kan brennes til én gang, og gjerne på lav hastighet, eksempelvis 2x, men skal du distribuere relativt store mengder data eller HD-filmer, er dette rimelig og enkelt, uansett hvordan man snur og vender på det. 
+
+Men hva betyr så disse X-ene? 
+Maks brennehastighet på Blu-ray med BH10 er 10x. 
+Hver x utgjør 4,5 MB. 
+Det betyr at det maksimale denne brenneren klarer, er lagring av 45 MB pr sekund, eller 2,7 GB pr minutt. 
+I praksis vil ikke denne hastigheten oppnås før mot slutten av platen, så det vil normalt ta minst 10 minutter å fylle en 10x BD-R-plate med data. 
+
+Er platen din en billig 2X-variant av LTH-typen går det fort minst 40 minutter å fylle den. 
+
+BH10 støtter også såkalt LightScribe-brenning. 
+Det betyr at den kan "gravere" inn tekst og logoer på oversiden av plater som er klargjort for dette. 
+
+Fyldig programpakke 
+
+Det følger med en rekke programmer fra Cyberlink til forskjellige multimedia- og brenneformål, deriblant den velkjente videoavspilleren PowerDVD. 
+For å spille Blu-ray-filmer er du helt nødt til å installere dette programmet, Windows har ikke innebygd støtte for avspilling av Blu-ray-filmer ennå, forstå det den som kan. 
+
+Forøvrig er dette en fyldig pakke med programmer, og du fritt velge hva du ønsker å installere. 
+Merk at en del av programmene er lett-utgaver og ikke siste versjon av programmene, og du blir stadig påminnet om at du kan oppgradere mot betaling. 
+Dette kan være litt småirriterende, synes vi. 
+
+I bildeserien undre har vi samlet bilder av en del av dem: 
+
+Blu-ray-avspilling 
+
+Dette er en sentral funksjonalitet for den som kjøper BD-leser eller brenner, og mange bygger i disse dager inn BD-funksjonalitet i mediesenteret, for eksempel. 
+Da er det ekstremt viktig at avspillingen kan starte uten mange klikk og tidkrevende operasjoner, samt at drevet avgir lite støy. 
+
+Til dette formålet er BH10 meget bra. 
+Den bråker så lite under avspilling at det glatt overdøves av lyden i musikkanlegget. 
+På vår PC med en relativt rask 4-kjerners prosessor og 4 GB minne tok det 22 sekunder fra vi satte inn platen til menyen dukket opp i PowerDVD. 
+Det er akseptabelt. 
+
+Merk at du kan stille programvaren inn til å starte i fullskjermmodus hver gang du setter inn plate, noe som mange vil foretrekke til mediesenter-formål. 
+
+Konklusjon 
+
+Går du rundt og vurderer en Blu-ray-brenner, kan det være tid å handle nå. 
+BH10 er rimelig, funksjonsrik, relativt rask og støyer lite ved filmavspilling. 
+Det eneste ankepunktet vi har er at programvaren som følger med stadig oppfordrer oss til å oppgradere. 
+
+LG BH10LS30 

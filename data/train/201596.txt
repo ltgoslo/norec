@@ -1,0 +1,191 @@
+Samsung Galaxy Nexus
+Verdens første Android 4.0-telefon. 
+
+Nok en gang er det Samsung som har laget den offisielle Google-telefonen. 
+I fjor var det Nexus S; i år har modellen fått modellnavnet Galaxy Nexus og er, som forgjengeren, en av de heftigste på markedet i det den blir sluppet. 
+
+Dette er altså den første telefonen med den siste versjonen av Android, versjon 4.0 Ice Cream Sandwich, som du kan lese en drøss om på DinSide om du klikker på lenka du nettopp passerte. 
+
+For øvrig er dette en av fordelene med å kjøpe Nexus-telefonene. 
+Siden de kjører den såkalte "vanilla"-utgaven av Android (som er urørt av andre enn Google), vil denne telefonen være den første til å motta oppdateringer en god stund fremover. 
+Samsung har ikke lagt sitt Touchwiz-grensesnitt på toppen, noe de etter all sannsynlighet vil gjøre med sine "egne" telefoner som skal oppgraderes til den siste Android-versjonen, som for eksempel Galaxy S II. 
+
+På spesifikasjonslisten er Nexus-telefonen imponerende. 
+Skjermen er 4,65" over diagonalen med oppløsning på hele 1280x720 piksler, som betyr at skjermen er nesten like skarp som iPhone 4s om vi teller antall piksler pr lengdeenhet (316 punkter pr tomme vs 326). 
+Det betyr også at Galaxy Nexus kan spille videofiler med 720p HD-oppløsning og gjengi samtlige punkter; uten å nedskalere bildet. 
+
+Her er resten av spesifikasjonene: 
+
+Konstruksjon 
+
+Selv om den nye Google-telefonen i all hovedsak består av plast, liker vi godt hvordan Galaxy Nexus ligger i hånda. 
+Til tross for at skjermen er 4,65" stor, er ikke fotavtrykket spesielt mye større enn 4,3-tommerne i dagens marked. 
+Under ser du telefonen side om side med 4,3-tommeren Galaxy S II, der Nexus-telefonen først og fremst er høyere, men bare et par millimeter bredere: 
+
+Baksiden er også laget såpass ruglete at telefonen ikke så lett glipper, og den buede formen gjør at Galaxy Nexus får en viss premium-følelse til tross for at plast er hovedingrediensen. 
+Den gjør også at skjermen aldri skraper nedtil flaten telefonen ligger på, som du ser på bildet under: 
+
+Kanskje mest oppsiktsvekkende er at telefonen ikke har noen fysiske knapper på fremsiden av telefonen. 
+På høyre og venstre side finnes volumknapper samt av/på-knapp, men den tradisjonelle hjem-knappen er en del av selve skjermbildet i Android v4.0, slik den også er på nettbrettene som kjører Honeycomb (Android v3.x). 
+Det skal sies at vi har opplevd mer enn en gang å komme borti denne knappen mens vi spiller. 
+
+Både micro USB-uttaket og hodetelefonpluggen er å finne i bunnen av telefonen, mens toppen er helt fri for slike elementer. 
+På høyre side finnes dessuten tre kontaktpunkter som vi antar å være beregnet til å lade telefonen i en dockingstasjon, på samme måte som de som er på baksiden av HTC Rhyme. 
+
+Foruten Samsung- og Google-logoene huser også baksiden kameraet og en LED-blits. 
+Oppløsningen på kameraet er 5Mp, altså noe mindre enn øvrige toppmodeller, men er bildene gode, holder det fint til A3-utskrifter uansett. 
+Mer om kamerakvaliteten kommer lenger ned i artikkelen. 
+
+Spretter vi opp det lokket bak er det, som på Galaxy S II, svært tynt og bøyelig. 
+På innsiden er det kun plass til batteri og SIM-kort – Nexus-telefonen har ikke støtte for utvidelser i form av micro SD-kort, som kan være en "dealbreaker" for deg som liker å ha med deg en haug av musikk- og videofiler. 
+
+Batterikapasiteten er for øvrig 1850mAh 1750mAh; blant de høyeste i dagens marked, selv om det offisielle "extended"-batteriet til Galaxy S II byr på enda litt mer. 
+
+Meget god skjerm 
+
+Super AMOLED-skjermene fra Samsung er meget gode - rikelig med farger og et sortnivå som gjør at man omtrent ikke kan skille sort fra området rundt skjermen. 
+Oppsiktsvekkende er altså oppløsningen her – 1280x720 piksler på en så liten skjerm gir et svært skarpt bilde, og selv den minste skriften kan leses uten problemer. 
+
+Vi har imidlertid én innvending mot skjermen, og det er hvordan den presterer om du bruker den med redusert lysstyrke. 
+Da synes nemlig et fast mønster i bakgrunnen; spesielt synlig dersom skjermen er helt hvit og du har stilt den på mindre enn ca 30%. 
+Den automatiske lysstyrken er ganske konservativ, så vi har overstyrt den med å bruke minst 50% styrke i testperioden, som da trekker mer strøm. 
+
+Talekvaliteten opplever vi som normalt god, men vi skulle gjerne ha hatt mer kraft i den eksterne høyttaleren; spesielt siden den forhåndsinnstilte ringetonen er nokså lav. 
+I testperioden har vi opplevd ikke å høre telefonen når vi har vært på kjøpesenteret (selv med volumet på fullt), men det hjelper selvsagt å ha en litt mer bråkete ringetone. 
+
+Proppfull av teknologi 
+
+Foruten FM-radio er det ikke mye vi savner i Galaxy Nexus. 
+Denne telefonen støtter det aller meste – Bluetooth, WiFi og alt det "vanlige" er selvsagt på plass, ved siden av kompass, gyro-sensor, aksellerometer, lys-/nærhetssensor etc. 
+Og barometer, faktisk. 
+
+I tillegg støtter telefonen NFC, som etter hvert spås å kunne bli en høyst akseptert måte å betale på, og som også kan brukes til f.eks. å overføre en musikkfil eller kontaktdetaljer bare ved å holde telefonene inntil hverandre. 
+
+Verdt å sette pris på er også at Nexus-telefonen har en LED-lampe på fremsiden, som kan varsle deg om ulike ting som har skjedd, f.eks. dersom du har mottatt en tekstmelding, har misset et anrop eller har blitt nevnt på Twitter. 
+Denne kan også blinke med ulike farger, og det finnes apper som lar deg skreddersy dette i detalj. 
+
+Android v4.0 
+
+Vi postet våre førsteinntrykk av Ice Cream Sandwich forleden dag, og etter å ha brukt telefonen den siste uka har vi selvsagt vent oss mer til endringene i den siste versjonen av Android. 
+
+For det første – det ser særdeles lekkert ut. 
+Det er stilrent og moderne, og spesielt med den knivskarpe skjermen på denne telefonen er ting ekstra innbydende. 
+Menyene er oversiktlige og rene, og den nye varslingsmenyen, der du kan sveipe elementer til siden for å fjerne dem, fungerer meget godt. 
+
+Selv om mye er endret fra den forrige mobilversjonen (2.3 Gingerbread), er det allikevel lett å kjenne seg igjen. 
+Det som er mest uvant er nok at menyknappen har forsvunnet som en fast knapp. 
+Den dukker opp i form av en håndfull prikker (se bildet under) når den kan trykkes på, men plasseringen er dessverre ikke helt konsis. 
+Noen ganger nederst; andre ganger øverst, som er litt pussig siden det egentlig alltid er plass til knappen på den nederste linja. 
+Heller ikke søkeknappen er å finne på en fast plass, selv om mange Android-telefoner mangler denne knappen uansett. 
+
+Lett å se kjørende programmer 
+En ny knapp viser alle kjørende programmer; igjen som på Honeycomb. 
+Hver app er representert med et miniatyrbilde slik at det er lett å se programmets innhold. 
+Du kan skrolle opp og ned vertikalt og trykke på dem for å bytte til dem, eller sveipe dem ut til siden for å fryse programmet. 
+Litt irriterende at det tar noen tideler fra du trykker på denne knappen til programmene dukker opp, men … 
+
+Nytt er også mapper på hjemmeskjermen, som fungerer på samme måte som i iOS, der du drar ett ikon oppå et annet for å opprette en mappe. 
+Mappene spretter så opp med dynamisk størrelse ut fra antall ikoner, som gjør at du slipper å flytte fingeren så langt når du skal velge ett av ikonene. 
+Allikevel flytter fortsatt ikke ikoner på seg for å gjøre plass til det du flytter på. 
+
+Vi synes det er litt snodig at det å holde fingeren nede på hjemmeskjermen kun lar deg endre bakgrunnsbilde. 
+For å legge til moduler (widgets), snarveier til kontakter etc. 
+må du inn på applikasjonsskuffen og velge moduler-flippen. 
+Litt mindre tilgjengelig enn før, altså. 
+
+Og apropos applikasjonsskuffen, er denne veldig enkel i vanilje-Android-utgaven. 
+Den lister programmene ut alfabetisk – ikke er det mulig å sortere på installasjonstidspunkt eller rokere på ikonene. 
+Som nevnt i forhåndstitten, er det litt fristende å bytte ut til en alternativ launcher. 
+Det skal også nevnes at vi har vært borti enkelte apps som ikke vil kjøre på den nye Android-versjonen, selv om dette nok er et tidsspørsmål. 
+
+Fyll opp med apps, bilder etc. 
+Gledelig er det imidlertid at hele internminnet nå er tilgjengelig for alle typer innhold. 
+Der Android tidligere har fungert ved at f.eks. apps har fått en tilmålt del av internminnet, fungerer ting nå slik som i iOS, der du kun trenger å forholde deg til den totale lagringsplassen. 
+Vil du installere 10GB med apps, gjør du det. 
+
+Det er også et par nye funksjoner i Ice cream sandwich. 
+Den kjekkeste er kanskje overvåking av datatrafikken, som kan gi deg advarsel når du begynner å nærme deg megabytene som følger med i abonnementet ditt og se hvilke apps som bruker hvor mye. 
+Det er også deilig endelig å se at det å ta skjermbilder er inkludert som standard. 
+Det gjør du ved å holde volum-ned og av/på-knapp inne samtidig i ett sekund eller der omkring. 
+Tidligere har det vært forbeholdt en håndfull telefoner, der andre modeller har krevd at du installerer Android-SDKet og kobler telefonen til PC-en. 
+
+Ny personer-app, men uten Facebook-støtte Kontaktapplikasjonen er også splitter ny i denne Android-utgaven. 
+Den heter nå Personer og kan minne litt om Windows Phone 7s tilnærming der du kan flikke til siden for å se statusoppdateringer fra en kontakt. 
+Applikasjonen integreres selvsagt med Googles egne sosiale nettjeneste, Google Plus, men støtten for Facebook (og Twitter) er fraværende. 
+
+Google og Facebook har nemlig en liten disputt hva angår APIer (funksjoner som gir tredjeparter tilgang til en tjeneste), og resultatet er, særdeles skuffende, at man ikke får hentet data fra Facebook i det hele tatt. 
+De fleste av kontaktene mine dukker derfor opp uten bilde, og man kan ikke se de siste Facebook-oppdateringene fra en person uten å gå inn på vedkommendes profil via Facebook-appen. 
+Ei kan man hente telefonnumre fra Facebook-kontakter, slik man kan på de aller fleste andre Android-telefoner. 
+
+Nytt kamera 
+Den nye kameraappen er meget rask, og sjelden har vi sett en telefon klare å ta så mange bilder på rappen som Galaxy Nexus, der vi klokker inn oppunder 3 bilder i sekundet om vi trykker frebrilsk på utløserknappen. 
+
+Nytt er også støtten for panoramabilder, der du trykker én gang, sveiper kameraet langs horisonten og får sydd sammen et panoramabilde. 
+Dog fungerer det ikke i nærheten av like godt som f.eks. 
+Sony Alpha A77; ikke at det er en naturlig enhet å sammeligne mot, men skjøtene blir langt fra sømløse og funksjonen har derfor sine begrensninger: 
+
+Rask nettleser Også nettleseren er blitt meget rask til å laste nettsider, og Galaxy Nexus scorer svært godt i ytelsesmålinger. 
+Marginelt raskere enn iPhone 4s i Sunspider-testen (som måler JavaScript-ytelse), og også marginelt foran i Browsermark-testen med en score på 88090, som er svært godt til mobiltelefon å være. 
+
+Nettleseren ellers har støtte for opptil 14 faner, og via et par trykk kan du lett velge om du vil be om mobilutgaven eller den fulle utgaven av et nettsted, som også ser ut til å fungere som tiltenkt. 
+Kjekt er det også å kunne lagre hele nettsider slik at de blir tilgjengelig når du ikke er på nett. 
+
+Skrolling går ikke like flytende som iPhone 4s og Samsung Galaxy S II; ei heller tilpasningen av utsnittet når du dobbelttrykker på et avsnitt. 
+
+Verdt å merke seg er at Flash ikke er støttet rett ut av boksen, men dette kan du få ved å laste ned flashspilleren fra Android Market. 
+Kan i kursiv fordi dette fungerer latterlig dårlig med den nye Android-nettleseren, der alt hakker som bare det. 
+Vi anbefaler deg i så fall å sette opp nettleseren slik at Flash i utgangspunktet ikke lastes med mindre du eksplisitt trykker på et Flash-element. 
+
+Andre småting som er forbedret er eksempelvis kalenderapplikasjonen (med støtte for å zoome med to fingre) og Gmail-applikasjonen, som nå lar deg sveipe fra epost til epost som om du blar i bildegalleriet. 
+Apropos bildegalleriet blir den siste tjenesten du delte noe på husket, slik at du er ett trykk unna å laste opp et bilde til Dropbox om det var det du gjorde sist. 
+Snedig. 
+
+En nyhet er også muligheten til å låse opp telefonen med ansiktet, men Google poengterer at dette er mer en gimmick enn en sikkerhetsmekanisme. 
+Det er vi helt enig i, og det blir en treg måte å låse opp telefonen på, der vi ofte opplever at telefonen ikke kjenner oss igjen, og da blir det ganske unyttig. 
+
+Multimedia 
+Den store Super AMOLED-skjermen er selvsagt svært fin å se film på, men hvordan er det med mediestøtten? 
+Vi la inn vår vante videosuite og ble ganske skuffet av den medfølgende videoavspilleren, som bare spilte et par av filene våre. 
+Bedre ble det med MX player (anbefalt app, forresten!) der støtten plutselig ble svært god. 
+1080p .264/mkv-filer, DivX HD, WMV HD og mer til ble tygd uten problem, selv om enkelte filer ble spilt uten lydspor. 
+
+Ytelse 
+
+Med 1,2GHz prosessor innabords leverer Galaxy Nexus en god opplevelse, der det meste går flytende og starter kjapt. 
+Noe lugging opplever vi dog innimellom, som de små tidelene man venter etter å ha trykket på "kjørende programmer"-knappen. 
+Jevnt over er det lite å utsette, og vi vet også at versjon 4.0.3 er i ferd med å rulles ut som blant annet innholder optimalisering i forhold til ytelse. 
+
+Nevnt er allerede at nettleseren tegner opp sidene raskt, selv om skrollingen ikke er like glatt som hos de beste. 
+På ytelsesmålingene som er relevante (dvs de som ikke går tyngre pga økt skjermoppløsning) kan vi nevne at Electopia-testen (som kjøres i 480x800) gav en billedrate på 29,2 bilder i sekundet; godt bak Galaxy S II som scorer 36,3 i samme gren. 
+Også Smartbench 2011-testen går i S IIs favør, mens AnTutu-testen gir seier til Nexus. 
+
+Fyrer vi opp spill som Wind-up knight, ser vi at bildet flyter som bare det, og Nexus har ingen problemer med å henge med i svingene. 
+
+Batteritiden opplever vi som normalt god, men siden vi føler behovet for å skru opp lysstyrken på skjermen, ender det også opp med at den bør plugges i laderen hver kveld. 
+Bruker du den lite (eller med lav lysstyrke) derimot, kan den godt holde det dobbelte. 
+
+Kamera 
+
+La oss kalle en spade for en spade – kameraet i Samsung Galaxy Nexus er ikke spesielt bra. 
+
+Bildene er svake på detaljer, hvitbalansen ved bruk av blits er helt ute å kjøre, og vi opplever at alt for mange av bildene vi har tatt i testperioden er uskarpe. 
+Med mindre vi fortsatt er skjelvne på hånda etter fredagens julebord, kan det tyde på at telefonen gir et inntrykk av at bildet er tatt før lukkertiden er fullført. 
+
+Under ser du noen testbilder: 
+
+Videokvaliteten er imidlertid ganske god – panorering skjer uten hakking, bildet har godt med detaljer og overganger fra lyst til mørkt og andre veien oppfattes raskt av lysmåleren. 
+Plusspoeng får telefonen også for lydkvaliteten ved videoopptak med god klarhet. 
+
+Konklusjon, Samsung Galaxy Nexus 
+
+Det er mye å like ved den nye Nexus-telefonen, men det er også mye å sette fingeren på, og kombinert med den nokså høye prislappen føler vi ikke helt at Galaxy Nexus leverer i forhold til prisen. 
+
+Spesielt må det nevnes at telefonen har et nokså labert kamera, og den manglende støtten for Facebook er (uansett hvem sin skyld det er) unødvendig for sluttbrukeren når alle andre Android-telefoner får til dette helt fint. 
+
+Skjermen er som nevnt meget god med svært høy oppløsning, selv om den ikke kommer helt til sin rett før du skrur opp lysstyrken et par hakk. 
+På en telefon som har en så fin skjerm å se film på, synes vi imidlertid det er dumt at den ikke støtter utvidelse i form av minnekort. 
+
+Den nye Android-versjonen er svært lekker, og kjøper du Galaxy Nexus kan du være trygg på at du vil stå først i køen hver gang det kommer nye Android-oppdateringer. 
+Den er også fremtidsrettet med tanke på NFC-støtte, som spås å bli en stor greie også her til lands. 
+
+De argeste konkurrente vil også bli oppgradert til den nye Android-versjonen i nær fremtid, og tar vi den ut av regnestykket, sitter vi igjen med en telefon som ikke helt klarer å imponere oss til å være blant de dyreste modellene. 

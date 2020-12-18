@@ -1,0 +1,106 @@
+Packard Bell EasyNote BU45
+"Små" bærbare maskiner blir stadig mer populært, og nå vil også Packard Bell ha sin del av kaka. 
+EasyNote BU45 slår nå ned som en liten prisbombe i det etablerte markedet. 
+
+Ukene før påske brukte vi hovedsakelig til å se på relativt små og nette bærbare, blant annet 3G-laptopen Fujitsu Siemens Lifebook P7230, Coops bling-modell og den spesielle tx1020ea fra HP. 
+
+LES OGSÅ: 
+
+Vi skal i dag fortsette i samme gate. 
+EasyNote BU45 fra Packard 
+Bell er deres forsøk på 12"-markedet, og det er ikke noen dårlig start! 
+Ikke det at PCen er så ekstremt revolusjonerende i seg selv, det er kombinasjonen av pris, form og funksjon som er oppsiktvekkende. 
+
+Fulle spesifikasjoner: 
+
+Intel Core 2 Duo T5200 @ 1,6 GHz 12,1" skjerm i bredformat (1280 x 800 piksler) 1 GB DDR2-minne (2 x 512 MB) 120 GB harddisk (5400 rpm) 
+Intel GMA 950 grafikk (opp til 128 MB delt minne) 54 Mbps WLAN (a/b/g) 10/100 LAN 3 x USB 4-i-1 kortleser VGA ut, lyd inn/ut Dimensjoner (B/D/H): 
+31,0 x 23,1 x 4,5 cm Vekt 2,0 kilo Pris: 6990 inkl. mva. 
+
+Skjermens oppløsning er som på de fleste andre 12,1-tommerne vi har sett på i det siste 1280 x 800 punkter, som de fleste vil finne passende for en billedflate på denne størrelsen. 
+Kontrastbelegget gir en blank overflate og sørger for et godt og klart bilde med tydelige farger. 
+Skjermkvaliteten er ganske enkelt god. 
+
+Konstruksjon 
+
+Byggekvaliteten er en annen ting som ikke skremmer oss. 
+Hoveddelen virker god og stiv uten noen tydelige svake punkter. 
+Lokket virker solid nok hengslet, men er nokså tynt. 
+De fleste bærbare har riktignok ikke spesielt sterke lokk, men i dette tilfellet skal det svært lite til før press bak på lokket viser seg tydelig på skjermen. 
+Dette trenger selvsagt ikke bety noe til vanlig bruk, men vi hadde nok passet ekstra godt på at ikke for mye press ble lagt på maskinen dersom den ofte er med i veska. 
+
+Knapper for maskin og trådløst nett av/på er plassert til høyre over tastaturet. 
+Her er det også en "Eco"-knapp for ekstra batterisparing. 
+Høyttalerne sitter under skjermen, mens det innebygde webkameraet + mikrofonen sitter over. 
+Hvis noen lurer på hvorfor "æ"- og "ø"-tastene er feilpassert er det fordi vårt testeksemplar kom rett fra Danmark. 
+
+Tastaturet støyer lite og er behagelig å skrive på, men layouten er vi ikke 100% fornøyd med. 
+Mye av det er selvfølgelig en vanesak, men for de som ofte veksler mellom forskjellige PCer kan det være irriterende med forskjellige standarder. 
+Fn og Ctrl burde ha byttet plass, og i tillegg burde æ (her:ø)- og å-tastene vært like brede som de andre tastene. 
+Enter gjør seg jo uansett best helt til høyre. 
+
+Touchpaden er en litt snål sak med svakt ru overflate. 
+Den er riktignok i bredformat, men er oval med buede kortsider og rette langsider - ikke ulikt en løpebane. 
+Den er likevel helt grei i bruk og har både vertikalt og horsiontalt skrollefelt. 
+
+Mellom knappene under touchpaden sitter fingeravtrykksleseren. 
+
+Tilkoblingsmuligheter 
+
+EasyNote BU45 bugner ikke akkurat av tilkoblingsmuligheter, men med det meste integrert vil det for de fleste være tilstrekkelig. 
+Vi kunne dog ønsket oss en ExpressCard/34-slot eller lignende, bare for å være på den sikre siden. 
+Bak på maskinen er det batteriet som tar hele plassen. 
+
+Fronten holdes relativt jomfruelig med kun minnekortleseren (4-i-1) og indikatorlys for strøm. 
+
+På høyre side finner vi DVD-brenneren, to USB-kontakter og LAN. 
+I tillegg er det plass for kensingtonlås helt bakerst. 
+
+Venstre side har inntak for strøm, VGA ut, en USB og lyd inn/ut. 
+Varmluften blåses også ut her. 
+
+Ytelse, batterilevetid og støy 
+
+Alle PCene vi har sett på i det siste har prioritert størrelse, vekt og/eller batterilevetid fremfor ytelse. 
+Likevel, vi snakker om intern grafikkløsning parret med anstedige prosessorer - godt nok til de fleste vanlige bruksområder. 
+Men spillere eller brukere med andre spesielle behov for mer kraft må belage seg å gå opp i pris. 
+
+Vi har under sammenlignet ytelsen med andre datamaskiner i omtrent samme klasse: de to nokså like Tundra 1057X og Medion Swarovski, samt Apples MacBook. 
+Prismessig ligger alle disse på rundt ti tusenlapper. 
+
+Ytelse i PCMark05: 
+
+Høyere poengsum er bedre. 
+Det er rett og slett ikke til å stikke under en stol at den faktiske forskjellen i ren ytelse er veldig liten. 
+I praksis snakker vi om marginer som under vanlig bruk ikke merkes. 
+
+Batterilevetid i minutter - BatteryMark. 
+
+Batteriet er vel det første vi opplever som en nedtur med EasyNote BU45. 
+I vår test holder datamaskinen ut i litt under halvannen time, og det ligger klart under konkurrentene. 
+I tillegg til vårt faste testoppsett prøvde vi også "Eco"-knappen (economy), men den ga oss ikke mer enn ti minutter ekstra levetid. 
+
+Strømforsyningen er riktignok ikke tyngre enn at du kan dra den med deg de fleste steder, men hadde du tenkt å gjøre leksene i parken så bør du holde deg til de korte oppgavene. 
+
+Støymessig er derimot Packard Bell-maskinen en liten fryd. 
+Den gjør lite lyd av seg, også når vifta spinner opp, og den blir heller ikke spesielt varm. 
+Alt i alt er vi altså fornøyd med støyen - eller rettere sagt mangelen på den. 
+Bare de aller, aller mest kresne vil finne noe å klage på her. 
+
+Vurdering og konklusjon 
+
+Packard Bell EasyNote BU45 kommer inn i markedet som et friskt pust, ikke minst når vi ser på prisnivået. 
+De fleste aktører opererer med en pris på rundt 10.000 kronasjer i 12"-markedet, og dette blir med denne PCen senket et par hakk - muligens til forargrelse for flere av konkurrentene. 
+
+Med lavere pris kommer som regel enten høyere vekt, lavere kvalitet eller dårlig ytelse - men det er ikke direkte tilfelle for EasyNote BU45. 
+Vekten ligger på jevnt to kilogram, noe som er helt på vippen mot ultraportabel. 
+Om det er rett innenfor eller rett utenfor er en diskusjon vi ikke skal ta her. 
+
+Men når det gjelder kvaliteten har vi ikke så mye å kjefte på - vi kunne ønsket oss et ørlite mer solid lokk, men alt i alt er vi meget fornøyd med en såpass lavt priset maskin. 
+Og ytelsen ligger som vi har sett av våre tester på linje med de andre 12-tommerne vi har sett på - men for de må du altså bla opp noen tusenlapper ekstra! 
+
+Vi har egentlig bare ett punkt som irriterer oss litt med denne PCen, og det er den korte batterilevetiden. 
+Det er også det eneste som hindrer EasyNote BU45 i å få en femmer på terningen. 
+
+Maskinen vi testet ble lånt oss fra Danmark, og har ennå ikke funnet veien til butikkene. 
+I følge Packard Bell vil den være i handelen fra mai måned. 

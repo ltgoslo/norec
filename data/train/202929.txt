@@ -1,0 +1,63 @@
+TEST:Opera 10 beta 
+
+I dag kan du laste ned Opera 10 beta. 
+Vi har allerede testet den, og her er våre inntrykk. 
+
+Opera er blant de største software-suksessene i norsk historie, men på skrivebordet har nettleseren aldri klart å kapre store prosentandeler. 
+Dette markedet domineres stort av Microsofts Internet Explorer og Mozillas Firefox. 
+
+Likevel har Opera gang på gang vært blant de mest innovative hva angår funksjonalitet, og trenden fortsetter når den 10. utgaven nå er i emning. 
+I dag slipper Opera den første betaversjonen, og enkelte nyheter er spesielt interessante. 
+
+Opera Turbo 
+
+Den første nye funksjonen som bør tiltale mange, er Opera Turbo. 
+I praksis er det snakk om at lasting av sider går til dels langt kjappere over trege linjer, takket være at bilder og elementer på sidene komprimeres før de lastes ned til PC-en din. 
+Ikke nok med det, slik kompresjon betyr også mindre dataoverføring, noe som vil komme brukere av mobilt bredbånd og andre løsninger der du betaler en sum pr overført megabyte, til gode. 
+
+Da vi testet løsningen sparte vi en hel megabyte ved å aktivere Opera Turbo før vi besøkte www.dinside.no, og overføringshastigheten ble samtidig firedoblet. 
+
+Aktivt innhold, som flash-videoer og -annonser, lastes først når du klikker på dem: 
+
+Smartere arkfaner 
+
+Linjen med arkfaner kan nå dras vertikalt, og da dukker det opp miniatyrer av de åpne sidene. 
+Det gir deg altså en visuell presentasjon av innholdet, i motsetning til klassiske arkfanene, som bare viser tittel på sidene. 
+
+Bedre Speed Dial 
+
+En annen forbedring som også er spesielt nyttig for deg som sitter på en PC med stor skjerm, er den utvidede Speed Dial-forsiden. 
+Hver gang du åpner en ny arkfane får du fram en slags startside som inneholder klikkbare miniatyrer med dine favorittnettsteder. 
+I Opera 10 kan denne utvides til å inneholde langt flere nettsteder, inntil 25, og du kan også bruke egne bilder som bakgrunn på siden. 
+
+Bedre epost 
+
+Den innebygde epost-klienten i Opera 10 har fått bedre støtte for riktekst og full HTML-støtte. 
+Du kan nå blant annet sette inn bilder, variere fontstørrelser og -typer. 
+Hvis du bruker POP-mail kan du nå selv bestemme om, når og hvordan eposten skal slettes fra serveren. 
+
+Vårt inntrykk er at eposten er klart forbedret, men vi savner fortsatt litt når det gjelder kopier/lim-inn muligheter i forhold til blant annet Outlook og Windows Live Mail. 
+
+Enklere grensesnitt 
+
+Hele Opera gjennomgår en ansiktsløftning, og det ser du på flere steder, blant annet i menyer, verktøylinjer og rammeverk. 
+Opera Software understreker imidlertid at ansiktsløftningen er en pågående prosess, og at den endelige versjonen kan ha fått flere endringer enn dem som er på plass i betaversjonen. 
+
+Endringene er etter vår mening ikke revolusjonerende, men vi er glad den tunge toppen i versjon 9.6x er fjernet til fordel for langt lettere arkfaner og mindre plasskrevende elementer. 
+
+Endringer på innsiden 
+
+I tillegg til nyhetene på funksjonssiden og i brukergrensesnittet, har Opera også fått mange nyheter på innsiden. 
+Først og fremst dreier det seg om bedre støtte for webstandarder og optimaliseringer som skal gjøre at sider laster raskere. 
+For eksempel lover Opera inntil 40% raskere lasting av Facebook og Gmail, to sider som besøkes av stadig flere i disse dager. 
+
+Vi har ikke gått denne påstanden nøye i sømmene, men merker oss at Facebook-siden til undertegnede ble lastet på tre sekunder med Opera 10 beta, mot fem sekunder med Internet Explorer 8. 
+
+Foreløpig konklusjon 
+
+Nyhetene i Opera 10 er definitivt lovende og til dels strålende, og aller mest liker vi Opera Turbo. 
+Den vil kanskje bli det aller sterkeste argumentet for Opera i den stadig vanskeligere konkurransen mot Firefox og Internet Explorer, i hvert fall inntil den dagen hastighet og datamengder ikke lenger er noe tema, uansett tilkoblingsmetode til nettet. 
+
+Funksjonsmessig er det uansett ingen tvil om at Opera 10 beta leverer mer enn de andre nettleserne "rett ut av esken", og vi anbefaler absolutt at du tar den på en kjøretur. 
+
+Opera 10 beta blir lagt ut til nedlasting fra denne siden 3. juni 2009. 

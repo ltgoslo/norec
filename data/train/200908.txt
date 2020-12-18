@@ -1,0 +1,108 @@
+TEST:Pulse for Android 
+
+Slik holder du deg oppdatert på alt, alltid, overalt. 
+
+Det finnes en høy bunke apper som holder deg oppdatert på nyhetsbildet. 
+
+Mange av disse baserer seg på RSS-strømmer; et system som forer for eksempel en app med de nyeste artiklene fra et nettsted. 
+Dette kan kreve litt arbeid fra brukerens side, og pålogginger på tjenester som Google Reader. 
+
+Andre toner ned RSS-fokuset, og gir deg en enklere og mer elegant måte å holde deg oppdatert på. 
+
+På Android er Pulse kongene på nettopp denne haugen. 
+
+Lag din egen avis 
+
+Det første som slår deg når du installerer Pulse er hvor pent alt er. 
+
+Android-brukere har tradisjonelt sett ikke vært bortskjemt med pene apper, men Pulse leverer så det holder. 
+Appen ble først utviklet til iPad, senere iPhone, så at dette virker "iPhone-aktig" er ingen tilfeldighet. 
+
+I fem kolonner kan du selv velge hva slags nyheter du vil se. 
+Appen setter opp et forslag for deg, men vi anbefaler å slette alt dette og heller skape din egen "avis" fra bunnen av. 
+Her er du din egen redaktør. 
+
+Dette er gjort i en fei. 
+Appen har mange av de mest populære nettstedene forhåndskonfigurert så du kan legge dem til med bare ett trykk. 
+Disse er sortert i kategorier som "News & Analysis", "Technology" og "Music", så her vil alle finne noe de er interessert i. 
+Du vil trolig oppdage noen nettsider du ikke kjenner til som en bonus. 
+
+Tanken med kolonnene er å ha forskjellige kategorier i hver enkelt, for eksempel en for nyheter, en for teknologi og en for musikk. 
+
+Drøm å bruke 
+
+Dermed er det bare å begi seg ut i nyhetsbildet. 
+
+I kollonne får du opp bilde og overskrift til de fleste artiklene, og du kan rulle bortover i hver enkelt kilde. 
+
+Enkelte artikler vil ikke vises i sin fullstendige lengde inne i Pulse. 
+Da kan du velge å se artikkelen på den orginale nettsiden, inne i appen. 
+Ettersom de fleste, større nettsider nå har egne mobilversjoner blir denne overgangen sømløs. 
+Grensesnittet til Pulse smyger seg elegant rundt artikkelen, og du får hele tiden følelse av å være i Pulse sine trygge hender. 
+
+For å lese neste artikkel fra samme nettsted kan du bare sveipe fingeren til høyre og venstre. 
+Alt dette går glatt, og igjen kommer "iPhone-følelsen" snikende. 
+Men med fancy animasjoner kommer også tøffe krav til maskinvare, så om du kjører en eldre Android-modell blir dette sverdet tveegget. 
+
+Norske nettsteder 
+
+Nettstedene som følger med er engelskspråklige. 
+Så hva med sider som DinSide og VG Nett? 
+
+Du må da ut i RSS-verdenen. 
+Men også dette er såre enkelt i Pulse. 
+Ved å for eksempel skrive inn "dinside.no" i et søkefelt, får du opp våre RSS-strømmer. 
+Dermed slipper du å finne dem manuelt. 
+
+Pulse finner dessverre ikke alltid den rette strømmen, så noen ganger må man likevel skrive inn en RSS-adresse manuelt. 
+Søk etter "RSS" på nettsiden du vil ha inn i appen, og du finner raskt de riktige adressene. 
+På bunnen av forsiden vår finner du DinSides strømmer, for eksempel. 
+
+Hvor godt Pulse takler de forskjellige strømmene kommer an på nettstedet du henter dem fra. 
+Enkelte nettsteder vil for eksempel ikke ha bilder på artiklene sine, og kanskje bare små snutter av teksten. 
+
+Sosiale medier 
+
+Pulse støtter også Facebook og Twitter, dog i varierende grad. 
+
+Du kan importere Facebook-statusoppdateringer, lenker som vennene dine deler eller din egen Facebook-vegg. 
+Dessverre må disse tre deles opp i tre forskjellige strømmer, og vi skulle gjerne sett alt i samme strøm. 
+
+Dette er skuffende, men til gjengjeld kan kommentering og "liking" gjøres direkte fra Pulse, så vi skal ikke klage for mye. 
+
+Twitter-støtten er det verre med. 
+Du kan i skrivende stund ikke få inn Twitter-meldinger inn i Pulse, men utviklerne lover at dette skal komme. 
+Det du derimot kan, er å sende meldinger ut. 
+Ser du en artikkel du liker, kan du sende denne ut som en Twitter-melding. 
+
+Du kan også sende artikler til andre tjenester og apper du har installert på telefonen, i god Android-tradisjon. 
+For eksempel som en epost, til Springpad eller per SMS. 
+
+Widgets og bakgrunnslasting 
+
+For å virkelig sikre at du alltid er oppdatert, på alt, kan Pulse oppdateres i bakgrunnen og varsle deg når nye artikler publiseres på nettstedene du elsker. 
+
+Dette vil sluke litt batteri, og penger om du betaler per megabyte, så vi velger heller å la Pulse oppdatere seg når vi går inn i appen. 
+
+Det følger også med to widgets du kan ha på hjemskjermen din. 
+Disse tar nyhetene fra én av kildene dine og behandler dem med den høyeste respekt. 
+Pent, og kjekt. 
+
+Ikke mye å klage på 
+
+Det pene designet, de smarte løsningene og hele følelsen av denne appen innfrir de fleste våte Android-drømmer. 
+
+Men vi skulle gjerne sett at appen hadde enda bedre støtte for Facebook og Twitter. 
+Skal man holde seg oppdatert i disse dager er sosiale medier minst like viktige som tradisjonelle. 
+Og mange vil sikkert ønske seg muligheten til å logge seg inn på RSS-tjenester som Google Reader. 
+
+Men Pulse er likevel en av de aller beste nyhets-appene Android har å by på i dag. 
+
+Fremtidige oppdateringer vil ta seg av problemene fortløpende. 
+Og den som venter på noe enda bedre, når man allerede har det svært så bra, har ikke mye å klage på. 
+
+Pulse er helt gratis, og finnes på Android Market. 
+Pulse finnes også for iPhone og iPad. 
+
+Har du erfaring fra slike apper, og kanskje noen andre anbefalinger? 
+Del med deg under artikkelen! 

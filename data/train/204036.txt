@@ -1,0 +1,91 @@
+Stort hus og raskt bredbånd?Da kommer disse tre boksene til nytte 
+
+Den andre mesh-løsningen vi tester, byr på overbevisende hastigheter og dekning, men en oppdatering av programvaren var helt nødvendig. 
+
+Mesh er den store snakkisen på trådløsfronten for tiden, og den er myntet på deg som sliter med å få full trådløsdekning i boligen din: 
+Istedenfor å ha én trådløs ruter, har du i stedet tre eller flere små trådløse noder plassert på strategiske steder, som sørger for å distribuere trådløssignalet effektivt til hver krinkelkrok. 
+
+Asus Lyra er den andre mesh-løsningen vi tester her på Dinside. 
+Den forrige, TP-Link Deco, overbeviste oss med svært enkelt oppsett og god ytelse da vi testet den i juli. 
+
+Slik fungerer Lyra 
+
+Lyra har mange likhetstrekk med Deco. 
+Settet består av tre noder med hvert sitt trådløse aksesspunkt (kan bygges ut med flere ved behov), der den første kobles til bredbåndsuttaket/modemet ditt og blir automatisk hovednode. 
+
+Den neste kobles enten via kabel eller trådløst til den første (sistnevnte er mest vanlig), mens den tredje kobles til den andre eller første - avhengig av hvor den plasseres. 
+Nodene vil nemlig alltid velge den raskeste forbindelsen til det store internettet, i hvert fall i teorien. 
+
+Kommunikasjonen mellom nodene skjer i 5 GHz-frekvensområdet, og er isolert fra den øvrige trafikken. 
+Den teoretiske makshastigheten mellom nodene er hele 867 Mbps trådløst eller 1000 Mbps via kabel. 
+Det er dette som gjør denne typen oppsett langt mer effektivt enn en løsning med ruter og en range extender. 
+
+Brukerne som er tilkoblet, deler på båndbredder på maksimalt 867 Mbps på 5 GHz-båndet, og 400 Mbps på 2,4 GHz-båndet. 
+Som opplyst Dinside-leser, vet du sikkert at sistnevnte først og fremst tar hånd om eldre utstyr. 
+
+Enkelt oppsett, dårlig språk 
+
+Lyra er laget for at hvem som helst skal kunne sette dem opp, derfor er brukerveiledningen svært kortfattet og enkel. 
+Den sier egentlig bare: 
+Plugg inn første node, last ned en app og følg veiviseren. 
+Enklere får det nesten ikke blitt. 
+
+Lyra-appen for iPhone kommer i norsk språkdrakt, men ikke alt er oversatt, og en del er oversatt ganske dårlig. 
+Man får imidlertid med seg hovedpoengene, men for et såpass dyrt produkt hadde vi forventet bedre. 
+
+Appen kommuniserer med Lyra via Bluetooth før det trådløse aksesspunktet er oppe og går. 
+Underveis får du tips om plassering, sette navn på aksesspunkt og passord, hva du bør unngå og om du vil sette opp diverse tilleggsfunksjoner. 
+Du kan for eksempel bestemme om enkelte aktiviteter skal prioriteres, om du vil sette på restriksjoner på enkelte brukere og om du vil sette opp et gjestenett som er stengt ute fra lokalnettet. 
+
+Gratis sikkerhet så lenge produktet er i bruk 
+
+Du blir også orientert om den innebygde sikkerhetsløsningen fra Trend Micro. 
+I motsetning til på TP-Link Deco, kommer Lyra med gratis oppdateringer av denne programvaren i hele produktets levetid. 
+
+Det kan være noe av forklaringen på at Lyra er såpass mye dyrere enn nevnte Deco. 
+
+Ustabilt i starten 
+
+Da første Lyra var satt opp, fikk vi vite via appen at det var kommet en oppdatering til den. 
+Nedlasting og installasjon av denne tok rundt tre minutter. 
+
+Vi satte de tre Lyra-nodene på nøyaktig samme steder som Deco, én i hver etasje i vår store enebolig på rundt 250 kvm. 
+Via appen kunne vi enkelt koble en ny node til meshen vår og gi dem navn som gjenspeilte plasseringen. 
+
+Til vår store overraskelse nektet noden i kjelleren å koble seg til noden i etasjen over, den ville i stedet koble seg til den som var i øverste etasje. 
+Det var ikke mulig å overstyre dette. 
+Å flytte noden til et annet sted i kjelleren var også resultatløs. 
+Dermed ble ytelsen naturligvis svært dårlig i kjelleren. 
+
+Tilfeldigvis oppdaget vi at det lå oppdateringer klare for alle tre boksene (inkludert den vi allerede hadde oppdatert), og etter at denne var lastet ned og installert, med påfølgende manuell omstart av hver boks, hektet de seg til hverandre slik vi ønsket det. 
+
+Flott ytelse overalt 
+
+Vi benyttet samme testmetodikk som i testen av Deco, med en iPhone 6s Plus på faste testpunkter og en internettlinje fra Get på 160/160 Mbps (faktisk målt til 204/186 i testen). 
+Først node ble koblet til bredbåndsuttaket i loftsetasjen. 
+
+Gjennomsnittsresultatene i målingene våre ser du i tabellen under: 
+
+Enkelte variasjoner er det alltid når vi måler på slike hastigheter, men det viktigste å merke seg her er at to noder gav meget god dekning i hele boligen. 
+Med tre noder fikk vi i tillegg raskere opplastingshastighet i kjelleren. 
+
+Med kun én node ble dekningen i stuen relativt svak, slik vi også opplevde med Deco. 
+Dette har litt å gjøre med sofaens plassering i forhold til bredbåndsuttakets - og dermed også nodens plassering. 
+
+Dette er en klassisk problemstilling når man kun har ett aksesspunkt. 
+Med to noder var problemet i vårt tilfelle eliminert. 
+
+Med to og tre noder fikk vi bedre ytelsestall med Lyra enn Deco i kjelleren, slik at totalen blir noe bedre med Lyra. 
+
+Konklusjon 
+
+Etter å ha oppdatert programvaren på Lyra, viste det seg å være en stabil løsning som sørget for full dekning i vår store bolig. 
+Oppsettet er relativt enkelt, selv om det er en del å gå på rent språkmessig. 
+
+Løsningen har gratis sikkerhet fra Trend Micro i hele produktets levetid og har også støtte for MU-MIMO, som kan gi bedre ytelse mot kompatible klienter. 
+Dette har ikke konkurrenten TP-Link Deco. 
+Ytelsen er kanskje litt bedre, men vi synes ikke det forsvarer en prisforskjell på hele 2.000 kroner (4.990 mot 2.990 kroner). 
+I så måte synes vi definitivt at TP-Link Deco er et bedre valg for folk flest. 
+
+Vi kommer snart med en sammenligning av Asus Lyra mot en kraftig trådløs ruter. 
+Følg med! 

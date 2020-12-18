@@ -1,0 +1,57 @@
+LG DP1 mediespiller
+Den er billig, ser bra ut og spiller det aller meste av aktuelle formater uten å mukke. 
+Har LG laget en vinner? 
+
+Etter det noe begredelige møtet med mediespilleren Sony SMP-N100 var vi veldig spent på hva LG har fått til med sin DP1 - en svært linjelekker og annerledes mediespiller. 
+På papiret skal den støtte det meste av hva som kan krype og gå av video- og musikkformater, og det til godt under tusenlappen. 
+Du finner en liste over alle egenskapene her. 
+
+Multimediefilene kan enten ligge på en minneplugg eller ekstern harddisk som kobles til via en av de to USB-portene, eller lokalnettet (både DLNA-servere og delte mapper i Windows-nettverket støttes). 
+DP1 kobles til TV-en enklest og best ved hjelp av en HDMI-kabel, men det følger bare med analoge kompositt-kabler i pakka, dessverre. 
+
+Bygger ikke i dybden 
+
+Spilleren er 26 centimeter lang, og kan fint plasseres foran de fleste TV-er siden den ikke bygger mer enn et par centimeter i dybden. 
+USB-portene sitter på siden, og resten av tilkoblingene bak. 
+På toppen sitter berøringsfølsomme knapper som kan benyttes hvis du ikke har fjernkontrollen tilgjengelig. 
+
+Her har vi samlet noen bilder av spilleren, tilkoblingene og fjernkontrollen: 
+
+Enkel å sette opp og bruke 
+
+Grensesnittet er enkelt, farger og ikoner behagelig mot øynene: 
+
+Trådløs nettverkstilkobling er også ekstrautstyr, da bruker du en av de to USB-portene. 
+Men har du kablet nettverk tilgjengelig, så er det bare å koble den på. 
+Oppsett av nettverk gikk som en lek, og vi kunne straks koble oss på PC-er i nettverket: 
+
+Det var også enkelt å koble seg til YouTube og et par andre nettjenester, men her var det langt mer begrenset utvalg enn på den nevnte Sony-spilleren: 
+
+Videoer som av en eller annen grunn ikke er tilgjengelig for TV-visning blir dessverre ikke luket bort i søk, og du kan derfor oppleve at du stadig får denne meldingen på skjermen: 
+
+Å bla seg gjennom mediefiler på en USB-plugg går raskt og smertefritt: 
+
+Takler det meste 
+
+Spilleren hadde ikke noen problemer med de vanligste multimediefilene våre, inkludert DivX med og uten undertekster i SRT-format, MKV-filer med og uten innbakt tekst, QuickTime-filer basert på H.264, AVCHD og naturligvis MPEG1 og MPEG2. 
+Den hadde problemer med noen Windows Media-videoer, Flash video skal støttes, men ikke våre, mapper med DVD-struktur og ISO-speilbildefiler av DVD-filmer ble heller ikke avspilt riktig. 
+
+Alle musikkfilene våre ble avspilt, inkludert FLAC og Ogg Vorbis. 
+AAC ble også avspilt, men ikke filene vi hadde pakket i HE-AAC-format, som brukes på en del mobiltelefoner, blant annet. 
+
+Bildefiler i vanlige formater avspilles også, og man kan enkelt sette dem opp til å kjøre i slideshow med bakgrunnsmusikk: 
+
+Men merk at du bør krympe bildefilene først for å unngå treghet - for i likhet med de fleste mediespillerne vi har testet sliter også DP1 litt med bildefiler på 10+ megapiksler og flere megabytes størrelse. 
+
+Bilde- og lydkvaliteten vurderer vi totalt sett til meget bra. 
+Boksen støtter både stereo samt Dolby Digital og DTS surroundlyd via HDMI eller optisk lydutgang. 
+
+Konklusjon 
+
+Det var befriende å teste denne LG-spilleren etter den omtalte Sony-testen, og oppleve at ting bare virker. 
+Det er slik vi skal ha det i 2010. 
+
+DP1 gjorde et godt inntrykk på testpanelet, og hvis du har sans for god design bør den absolutt vurderes. 
+Den støtter ikke alt av formater, men tar de fleste og vanligste, og kanskje det er nettopp disse du bruker? 
+
+LG DP1W 

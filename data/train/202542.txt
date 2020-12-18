@@ -1,0 +1,99 @@
+B&W Zeppelin Air er en drøm
+Så mye god lyd i en såpass liten gavepakke. 
+
+Det har utrolig nok gått tre år siden vi testet britiske B&Ws; lille musikkmirakel for første gang. 
+Den gang var Zeppelins design det første som gjorde at pupillene ble noen millimeter større, før lydkvaliteten i den tross alt ganske beskjedne innpakningen gjorde pupillene så store at dopingkontrollører umiddelbart ville stilt kontrollspørsmål hadde vi tilfeldigvis deltatt i VM i Kollen den dagen. 
+
+Nå er oppfølgeren her, og selv om den ytre sett byr på svært lite nytt, og selv om prisen fortsatt ligger på rett under 5.000 kroner, har det skjedd ganske mye på innsida. 
+
+Dette er nytt 
+
+De som husker luftskipet Zeppelin ser umiddelbart hvor B&Ws; Zeppelin Air fått navnet fra. 
+Designet føles fortsatt like friskt og anderledes, selv om første Zeppelin altså allerede har vært på markedet i flere år. 
+
+Fjernkontrollen har det ikke skjedd noe nytt med, og det var helle ikke nødvendig. 
+Vi brukte den ikke forrige gang vi testet Zeppelin, og denne gang føltes behovet enda mindre - først og fremst på grunn av AirPlay. 
+
+For de som ikke kjenner teknologien fra før, er AirPlay navnet på Apples trådløsteknologi som enkelt kan sende lyd/musikk fra én AirPlay-kompatibel enhet til en annen. 
+Zeppelin Air er med andre ord utstyrt med trådløsnett, slik at du med et tastetrykk på din (nyere) iPhone, iPod Touch eller iPad kan spille av musikk, radio eller til og med filmlyd til den svarte boksen. 
+
+Det fine med denne funksjonen er at den opererer på systemnivå, slik at de veldig mange apper som produserer lyd i utgangspunktet også vil fungere med AirPlay. 
+Vi har blant annet brukt NRKs radio-app, Wimp og et par Squeezebox-apper med stort hell. 
+
+Vær likevel sikker på at du har et trådløsnett med solid forbindelse. 
+Da vi testet Zeppelin Air med en bare passe god trådløsforbindelse, fikk vi problemer med avspilling av blant annet "lossless"-filer, det vil si lydfiler som er større enn vanlige mp3-filer. 
+
+Tungvint oppsett først - så bedre 
+
+AirPlay-enheter må av naturlige årsaker befinne seg på samme lokalnett for å finne hverandre, men ettersom Zeppelin Air ikke har noen skjerm viste det seg å være en ganske plundrete affære å få den koblet til trådløsruteren. 
+
+Først må du koble sammen Zeppelin Air med en Mac eller PC ved hjelp av Ethernet-kabel, deretter må du vente til nettverksforbindelsen mellom de to er opprettet, og har du passordbeskyttet trådløsnettet må du dessuten skrive inn passordet uten å se et eneste av tegnene underveis (vises kun som "*"). 
+Deretter lagrer du informasjonen, kobler fra Zeppelinen og PCen, og håper du skrev inn alle tegnene riktig. 
+
+Gjør du ikke det, slik vi ikke gjorde første gang, må Zeppelin resettes (liten knapp på baksiden), og hele prosessen må gjentas. 
+Ganske knotete, og ikke spesielt elegant. 
+
+OPPDATERT: 
+B&W; har oppdatert Zeppelin Air-manualen med en trådløs konfigureringsmetode. 
+Dermed slipper du å bruke Ethernet-kabelen, noe som forenkler eventuelle trådløsjusteringer med mange hakk. 
+
+Alle mulig tilkoblinger 
+
+Det er selvfølgelig fortsatt mulig å "docke" iPhone eller iPod Touch i den distinkte dockingkontakten på forsiden. 
+Da omgår du hele nettverksoppsettet, i tillegg til at enheten lades mens du spiller. 
+Vil du koble PCen eller Macen til Zeppelin behøver du bare en USB-kabel, og har du en mp3-spiller eller mobiltelefon som ikke er laget av Apple kan du bruke en standard minijack-kabel ("Aux"-inngangen på baksiden av Zeppelin kan benyttes av alle lydkilder). 
+
+Vi ble ganske glad i å vandre rundt i huset med iPhonen og musikksamlingen i lomma, men merket at batteriet etterhvert begynte å trygle om nåde. 
+Bevegelsesfrihet kommer alltid med en viss risiko. 
+Enda et avspillingsalternativ finner du derfor i iTunes, som kan stilles inn til å sende lyden trådløst fra en PC eller Mac til Zeppelin Air. 
+
+Festdeltakere bør forøvrig være oppmerksom på at hvis flere iPhone-brukere forsøker å knytte seg til AirPlay samtidig, det kan det bli trøbbel. 
+Det ser ut til å være en fordel at den som allerede er knyttet til for eksempel en Zeppelin Air kobler seg av enheten før andre kobler seg på. 
+
+Forbedret lyd ... 
+
+På samme måte som da vi testet Zeppelin for første gang, føles det fortsatt smått uvirkelig at en så beskjeden boks kan produsere så mye og så bra lyd. 
+
+To mellomtone- og to diskantelementer i et tradisjonelt stereooppsett, i tillegg til en liten subwoofer, har B&W; fått plass til på innsiden, og de har, etter eget sigende, gjort store framskritt lydmessig. 
+
+Det skyldes blant annet at hvert høyttalerelement har fått dedikert klasse D-forsterker (til sammen fem stykker for de som er flinke med tall), og at forsterkerytelsen er forbedret. 
+Bassgjengivelsen skal også være forbedret, det samme med DA-konverteren. 
+Lydnerder vil like at Zeppelin nå støtter 24 bits signaler i 96KHz. 
+
+Ingen klarer huske tre år gammel lyd, og vi skal derfor ikke late som om vi har gjort en direkte sammenlikning mellom gamle og nye Zeppelin. 
+
+... og for en lyd 
+
+Faktum er at det lyder veldig, veldig bra. 
+Én ting er det massive basstrykket B&W; har klart å presse ut av det sortkledde luftskipet - det må rett og slett oppleves. 
+Det er ikke vanskelig å tenke seg at Zeppelin Air kan brukes i en enkel hjemmekino, selv om puristene sannsynligvis vil fnyse av en slik tanke. 
+Det kan av og til føles som om bassen tar over på bekostning av luftigheten i mellomtonen, men som så mange andre høyttalerprodukter vil Zeppelin Air ha godt av smart plassering. 
+Setter du den for nær veggen, eller i et hjørne, risikerer du i overkant mange bassfrekvenser. 
+
+Som vi var inne på også i den forrige testen er det ikke til å unngå at stereoperspektivet får seg en smell når høyttalerne plasseres så tett sammen som de gjør her. 
+Dette er ikke et anlegg som skal erstatte det tradisjonelle stereoppsettet til hifi-entusiastene, det er først og fremst et tilleggsprodukt. 
+Har du for eksempel hytte kan vi knapt tenke oss en enklere, eller for den saks skyld rimeligere, måte å få godlyd på. 
+
+Når det er sagt vil dette for mange garantert kunne fungere som hovedlydkilde. 
+Det er en myte at hele Norge sitter foran hifi-anlegget når de hører musikk, og de som mener seg frigjort fra den delen av samfunnet vil ha få problemer med å bruke dette som sin eneste musikkavspiller. 
+
+Selv om stereobildet ikke er vidåpent, er det for eksempel verdt å legge merke til hvor åpent lydbilde er på Zeppelin Air. 
+Saksofoner, trompeter, vokal og andre soloinstrumenter som gjerne krever sin plass slipper å kjempe om oppmerksomheten, og selv når du skrur opp lyden til et nivå som vil gjøre at enkelte lydkritiske naboer plutselig slipper alt de har i hendene for å formulere klagebrev til styret, sprekker den ikke opp. 
+Vi hørte enkelte tegn til forvrengninger i diskanten når vi virkelig tok i, men da snakker vi lydnivåer som selv enkelte festdeltakere vil finne plagsomt. 
+
+Zeppelin Air kan med andre ord spille høyt. 
+
+Konklusjon 
+
+Vi ble glad i første Zeppelin, vi har blitt enda gladere i oppfølgeren. 
+Den raffinerer et allerede solid produkt, og tilfører med trådløsteknologien AirPlay en nyvinning som garantert vil gjøre Apple-brukere fornøyd. 
+
+Gitt betingelsene er lyden strålende, og selv hvis en ser bort fra størrelsen og prisen er lydkvaliteten godt i overkant av hva en kan forvente. 
+
+Til tross for en heller kronglete konfigurering av trådløsnettet (som riktignok er forbedret i etterkant av vår test), er dette så lekker, så finslepent og så imponerende at vi triller sekseren. 
+
+PS! 
+Hvis du er i markedet for denne typen musikkanlegg skal du også vurdere Philips Fidelio DS9000. 
+Den har vi testet her. 
+
+B&W; Zeppelin Air 

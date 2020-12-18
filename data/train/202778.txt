@@ -1,0 +1,89 @@
+TEST:Acer Aspire Revo 
+
+En ny platform eller bare hype? 
+Vi har testet Ion-basert ministasjonær 
+
+Små PCer fascinerer mange, enten de er bærbare eller stasjonære. 
+Det er forskjellige grunner til dette, noen praktiske og noen litt geeky. 
+At noe er lite og kraftig er fascinerende i seg selv, det gjelder så mangt. 
+
+Samtidig er det mange som kan tenke seg en ekstra PC til et svært begrenset bruksområde, hvor det ikke finnes brunevarer som gjør jobben. 
+Stue-PC for avspilling av video og nettilgang er høyt oppe på denne lista. 
+Da er det ikke ønskelig med en stor kasse, jo mindre den er jo bedre er det. 
+Det er funksjonen som er viktig. 
+
+Men små PCer har ikke hatt den ytelsen som er nødvendig for å fungere i mange sammenhenger. 
+Spesielt på bildesiden har det buttet, ved avspilling av HD materiale. 
+
+Nvidias ION-platform er laget for å løse disse problemene, ved å tilby en vesentlig kraftigere grafikkløsning kombinert med en kompakt prosessorplatform - ION. 
+
+Sett det før? 
+
+Noe lignende så vi allerede for en del år siden, da nVidia lanserte brikkesettet nForce i 2006. 
+Dette brikkesettet inneholdt en grafikkprosessor som var 10 ganger raskere enn de andre integrerte løsningene, pluss støtte for flerkanals lyd. 
+I tillegg var det støtte for lagring, nettverk, USB etc. 
+
+ION tilbyr i grunnen det samme, men tilpasset dagens krav. 
+Nå er det snakk om avspilling av HD og støtte for relativt krevende spill. 
+Noen optimal spillytelse som kan konkurrere med nVidias entusiastløsninger er det ikke snakk om. 
+
+Atom - ingen bombe 
+
+Prosessoren som er en del av ION-platformen er Intels Atom. 
+Dette er en prosessor som er laget med tanke på lavt strømforbruk i små bærbare enheter, men noen kraftpakke snakker vi ikke om. 
+Kraftig nok, til visse bruksområder og situasjoner, er vel en grei oppsummering. 
+
+Siden ION ikke er beregnet på bærbare enheter med lang batterilevetid har det blitt bemerket at valget av Atom-prosessoren gjør at platformen blir svakere enn den kunne ha vært, f.eks. med en Celeron i stedet til omtrent samme pris, men med noe høyere strømforbruk. 
+
+Speisifikasjoner 
+
+Maskinen vi har testet kommer fra Acer og heter Aspire Revo. 
+Den er en såkalt "engineering sample", altså ikke en serieprodusert enhet. 
+Dermed må man ta visse forbehold når det gjelder detaljer i utførelse og kanskje også i ytelse. 
+Det kan være forskjeller mellom dette eksemplarer og det endelige produktet, selv om dette ikke er tilsiktet. 
+
+Designet er skjevt og en blanding av rundt og kantete. 
+Hvit kant og mørkeblåsider gjør seg, den appellerer til de som liker småteknisk design. 
+Om den også passerer nåløyet hos de med mindre sans for synligheten av tekniske dingser vil nok variere. 
+
+I bruk 
+
+Maskinen hadde Windows Vista installert. 
+Vi koblet den opp til en 24-tommers skjerm med 1920x1200 oppløsning. 
+
+I generell bruk virker ikke maskinen spesielt rask. 
+Åpning av vinduer, oppstart av programmer og bruk av nettleser var som på en treg kontor-PC. 
+
+Dette er den samme opplevelsen vi hadde da vi testet Eee Box og EEE Top, som også har Atom prosessor. 
+
+Windows Vista sin Windows experience viser 3,0. 
+Her er det prosessoren som er det klart svakeste ledd, grafikken scorer hele 5,9 (topp), mens disk på 5,2, Gaming grafikk på 4,7 og minne på 4,5 er respektabelt. 
+
+Ytelsen i PcMark05 er på beskjedne 1925, med prosessorytelse på 1381, minne på 2330, grafikk poå 2060 og disk på 4355 
+
+3DMarks ytelsen var på 1300, heller ikke noe å skryte vilt og uhemmet av. 
+
+PCMarks Vantage viste 1357 PCMarks, heller ikke noe som gir en karakterbok man stolt viser fram. 
+
+Men hva med HD-avspilling? 
+
+Det er tydeligvis dette den er laget for, det gikk helt greit! 
+Både 720p og 1080p fungerte utmerket. 
+
+Vi testet med filer fra harddisken, det er ingen innebygd optisk leser i Revo. 
+Du kan selvsagt koble til en ekstern Blu-ray spiller i eksternt kabinett, men det blir litt merkelig. 
+Du må i skrivende stund betale minst 1200 kroner for selve leseren, og så kommer kabinett i tillegg. 
+Da er det like greit å kjøpe en frittstående spiller? 
+
+Det er heller ingen egen SPDIF-utgang, du er henvist til HDMI hvis du skal ha ut flerkanals lyd. 
+
+Revo er også svært stillegående. 
+Viften bruser ved oppstart, bare for å vise hva den kan, så blir det stille. 
+Varmeutviklingen er også marginal. 
+
+Konklusjon? 
+
+Slik vi ser det er ION-platformen en skreddersydd svært billig avspiller for HD-materiale som er lastet ned og ligger et eller annet sted på nettverket hjemme. 
+
+Kjøper du den med Windows Vista får du i tillegg en treg surfemaskin. 
+Kjøper du den uten operativsystem og laster ned en lettbent Linux-basert medieavspiller får du en flott boks til å spille av alt slags mediemateriale du har lastet ned fra torrenter. 

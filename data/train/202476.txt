@@ -1,0 +1,40 @@
+CCleaner
+Kunne du tenke deg en kjapp måte å fjerne temporære filer, feil i registeret og spor etter surfing på nettet? 
+Da bør du lese videre. 
+
+CCleaner (egentlig Crap Cleaner) fra Piriform er et gratisprogram som sletter ubrukte og temporære filer fra PCen din, og fjerner surfespor og historikk i programmene dine. 
+Dessuten kan programmet søke etter feil og etterlatenskaper fra avinstallerte programmer i registeret, og fjerne disse kjapt og greit. 
+
+Programmet har vært på markedet i flere år allerede, og er nærmest å regne som obligatorisk for alle som er opptatt av å holde Windows ren, stram og smidig. 
+CCleaner har i skrivende stund blitt nedlastet hele 210 millioner ganger fra Piriforms nettsider. 
+
+Det som skjer 
+
+Du gir i praksis Windows en rundvask, for å si det enkelt. 
+Resultatet? 
+CCleaner bidrar definitivt til å frigjøre plass på harddisken, fjerner surfespor og historikk. 
+Og i beste fall kan det også løse programfeil og bidra til at både Windows og programmene dine starter og jobber raskere. 
+I beste fall, altså. 
+
+Og i verste fall? 
+Vel, vi har ennå til gode å oppleve at CCleaner har gjort skade på noe som helst. 
+Men husk: 
+Temporære filer og historikk er en ting, registeroppføringer derimot kan ofte være kryptiske, og slettingen må derfor gjøres med omhu. 
+
+Etter at programmet har skannet registeret får du derfor opp en liste med oppføringer som regnes som overflødige, og så spør programmet om du vil lage en backup av registerregistreringene som slettes. 
+Gjør du det, kan endringene reverseres senere - hvis det skulle være behov for det. 
+Smart! 
+
+Selve sletteprosessen tok i vårt tilfelle et halvt minutt, men da var også godt over 1 GB med rusk og rask fjernet! 
+
+Mange programmer 
+
+Brukergrensesnittet er enkelt og oversiktlig, og CCleaner støtter en rekke vanlige Windows-programmer som Microsoft Office, Messenger, Windows Media Player, Nero Burning ROM, Firefox og Internet Explorer, Adobe Acrobat, bare for å nevne noen, og selvfølgelig tar den med seg Papirkurven i Windows i samme slengen. 
+Rundvask er rundvask. 
+
+Siste versjon har til og med fått støtte for Windows 7, Google Chrome og forbedret støtte for rensing i Opera. 
+
+Gratis 
+
+CCleaner er helt gratis, og det kan lastes ned fra denne siden. 
+Sjekk for øvrig også et annet program fra Piriform, Recuva, som faktisk gjenoppretter data du måtte ha slettet ved et uhell. 

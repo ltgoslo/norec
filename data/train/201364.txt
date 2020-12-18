@@ -1,0 +1,136 @@
+Acer Aspire S7 (Haswell)
+Forgjengeren hadde dårligere batteritid og fikk terningkast 6. 
+Hva sier vi så etter å ha testet den nye S7-generasjonen? 
+
+Acer er ett av PC-merkene som har overbevist oss med mange gode modeller i år. 
+Spesielt i økonomisegmentet er de etter vår oppfatning blant produsentene som gir deg desidert mest utstyr og kvalitet for pengene. 
+
+Les for eksempel vår test av Acer Aspire E1. 
+
+Etterfølger en av våre favoritter 
+
+Men Acer er også godt representert i premium-segmentet, og Acer Aspire S7 hører definitivt hjemme her. 
+Det er en meget slank og elegant ultrabook som finnes med skjermer på 11,6 og 13,3 tommer. 
+
+Vi har sett nærmere på sistnevnte, som nylig kom i ny utgave basert på Intels Haswell-prosessor og integrert grafikk. 
+Forgjengeren var en av våre klare favoritter før sommerferien, og ble kronet med terningkast 6. 
+
+Før vi går inn på brukeropplevelsen på Haswell-utgaven skal vi se litt nærmere på de tekniske egenskapene. 
+
+Skjerm: 13,3" blank berøringsfølsom IPS-skjerm, oppløsning på 2560 x 1440 piksler Prosessor: 
+Intel Core i7-4500U på 1,8 GHz RAM: 
+8 gigabyte (er også maks) Grafikkort: 
+Intel HD 4400 Lagring: 256 GB (2 x 128 GB SSD i RAID0) 
+Optisk drev: 
+Nei Skjermutganger: 
+HDMI og VGA via adapter USB-porter: USB 3.0 x 2 Webkamera: 
+Ja Kortleser: 
+SD/SDHC/SDXC Trådløst nett: 
+Intel Wireless-N 7260 (a/b/g/n) 
+Kablet nett: via USB-adapter Annet: 
+Bluetooth 4.0, Intel Wireless Display OS: 
+Windows 8.1 norsk Størrelse: 
+323,3 × 12,9 × 223,5 millimeter Vekt: 
+1,3 kg Pris: 
+13.990,- (Prisjakt.no 19.11.2013) 
+
+PC-en har et såkalt "unibody design", som innebærer at chassiset er frest ut av massiv aluminium, som gir en stiv og stabil konstruksjon. 
+Samtidig skal den være mindre energikrevende og mer miljøvennlig enn andre produksjonsmetoder. 
+
+Ved første øyekast ser den identisk ut med forgjengeren, men det er gjort en del endringer også på eksteriøret. 
+Viktigst er at det har kommet en fullstørrelses HDMI-utgang og en mini-VGA-Port for ekstern skjermtilkobling, der forgjengeren kun hadde micro-HDMI. 
+
+Høy oppløsning ikke alltid optimalt 
+
+Åpner du lokket blir du møtt av en meget god skjerm som har enda høyere oppløsning enn full HD-skjermen på forgjengeren, nærmere bestemt 2560 x 1440 piksler. 
+
+Om en slik oppløsningen er nødvendig på en 13,3" skjerm er naturligvis diskutabelt, men det gir i hvertfall svært skarpe bilder og tekst helt uten synlige raster. 
+Det nye, vektorbaserte Modern UI-grensesnittet og tilhørende apper skalerer alt helt uproblematisk, men det klassiske Windows-skrivebordet er langt fra optimalt for små, høyoppløste skjermer. 
+
+Derfor er det nærmest påkrevd å skalere opp tekst, ikoner og grafiske elementer i klassisk skrivebordsmodus til minst 150 prosent. 
+Heldigvis skalerer Windows 8.1 bedre enn eldre Windows-versjoner, men dessverre langt fra perfekt. 
+
+Fiffig detalj 
+
+Skjermen kan registrere inntil ti fingerbevegelser samtidig, er basert på et IPS-panel fra LG/Philips, og har en innsynsvinkel på maks 170 grader. 
+Betrakter du den fra skråere hold, enten fra toppen eller siden, kan du oppleve at fargene blir inverterte. 
+
+Det er imidlertid et svært lite problem på denne fine skjermen. 
+Refleksjoner vil nok mange oppleve som vel så sjenerende. 
+
+En fiffig detalj ved skjermen er at den har en hengsling som byr på ekstra motstand når den står i en naturlig 110 graders vinkel, for å ikke gi etter når man bruker berøringsskjermen. 
+Dessuten kan den brettes helt ned i liggende posisjon, og ved hjelp av FN-tasten + O kan du snu bildet 180 grader. 
+Dermed kan en person på andre siden av bordet bruke skjermen. 
+Dette er sjelden kost i klassen! 
+
+På undersiden sitter det to høyttalere på hver side, og lyden er slett ikke verst med tanke på at dette er en meget slank PC. 
+Helt greit til lav bakgrunnsmusikk og radio, for eksempel. 
+
+Fortsatt tastatur-trøbbel 
+
+En av våre største innvendinger mot forgjengeren var tastaturet. 
+Det er blitt gjort noen forbedringer her, men Acer er fortsatt ikke helt i mål, mener vi. 
+Det er for så vidt bra å skrive på, med unntak av mellomromstasten, som stadig ikke oppfatter trykkene våre. 
+
+Etter nærmere kontroll viser det seg at den har et dødpunkt nederst til høyre, nøyaktig der undertegnede har for vane å trykke med tommelen. 
+Her må det altså en ny innlæring til for å beherske tastaturet optimalt. 
+
+Vi har også opplevd at enkelte tastetrykk resultererer i dobbel respons, somm forr eksemmpel sllik (satt veldig på spissen). 
+Kan det løses med oppdaterte drivere? 
+Muligens, men slett ikke sikkert. 
+
+Og vi er dessverre ikke helt ferdige med kritikken. 
+Bakgrunnslyset lager lyd. 
+Jo sterkere lys, dess høyere og ensformig pipelyd. 
+Du hører den riktig nok kun når det er stille i rommet du sitter og jobber i. 
+For min egen del har jeg skrudd baklyset helt av på grunn av dette. 
+
+Vi merker oss imidlertid med glede at Acer har fått på plass «ALT GR»-tasten, som av komplett uforståelige grunner var utelatt på forrige generasjon. 
+Fortsatt er det få taster på denne platen, og enkelte tasteplasseringer er ulogiske i forhold til vanlige tastaturer. 
+Hvorfor Acer ikke heller har utstyrt S7 med et mer standard tastatatur forstår vi ikke, for her er mer enn god nok plass til det. 
+
+Pekeplaten er stor, og selv om den er følsom for flerberøring er alle utfordringene borte etter litt tilvenning. 
+
+Meget god ytelse 
+
+Ytelsesmessig er det lite å utsette på denne PC-en. 
+Den reagerer lynraskt, og Core i7-prosessoren er kraftig nok til å få selv småtunge oppgaver unnagjort raskere. 
+Våre målinger viser at grafikkytelsen er 20-30 prosent høyere enn på forgjengeren, noe som blant annet sørger for at du kan spille av video i inntil 4K-oppløsning uten problemer. 
+
+Noen spillmaskin er dette imidlertid fortsatt ikke. 
+
+Med unntak av pipelyden som baklyset i tastaturet står for, er maskinen musestille 98 prosent av tiden. 
+Det er imidlertid i ferd med å bli malen i denne klassen. 
+
+Det er imidlertid SSD og batteriytelsen som imponerer oss mest. 
+RAID-oppsettet sørger for en lese- og skriveytelse på henholdsvis inntil 750 MB og 353 MB per sekund. 
+Det er helt i toppen av hva du kan forvente i toppsegmentet i dag, og flere ganger raskere enn selv de raskeste harddiskene beregnet for stasjonær bruk. 
+
+Hvis du vil se en detaljert oversikt over våre ytelsesmålinger, klikk her. 
+
+Ny batterirekord ved lav belastning 
+
+Og så var det batteritiden da. 
+Acer antyder rundt sju timer med variert bruk, noe som er et par timer bedre enn forgjengeren (det var et av våre ankepunkter). 
+Våre målinger viser at dette ikke bør være noe problem. 
+Med minimal belastning klarte vi faktisk å tyne batteriet til å holde ut i 945 minutter, eller 15 timer og 45 minutter! 
+
+Det er den beste målingen vi har gjort noensinne, og er faktisk et par timer bedre enn nye MacBook Air. 
+Ved kontinuerlig videoavspilling gjennom Windows Media Player var det slutt etter seks timer, noe som er oppsiktsvekkende mye lavere. 
+Ved å bruke den nye Metro-videoavspilleren klarte den nesten en time ekstra. 
+
+Uansett er det mer enn sannsynlig at du kan bruke PC-en en hel arbeidsdag uten å være i nærheten av en ladekabel, og det er meget bra. 
+
+Konklusjon 
+
+Acer Aspire S7 er en lekker PC som oser av kvalitet. 
+Den har etter vår mening like mye wow-faktor ved seg som mye omtalte Apple-produkter, og det meste ved den skriker etter terningkast 6. 
+At vi likevel ender på en femmer på terningen (en særdeles sterk en), beror på at vi ikke er helt fornøyde med tastaturet. 
+
+Det er en så sentral del av PC-opplevelsen, og har et så klart forbedringspotensial. 
+Når prisen er så høy som 13.995 kroner skal man forvente at alt er tipp topp, mener vi. 
+
+Bruker du ikke touch-metoden når du skriver, og ikke bryr deg om at det piper litt i det baklyste tastaturet, er det imidlertid svært lite å trekke. 
+For at dette er en meget god maskin på nær sagt alle andre punkter er hevet over enhver tvil. 
+
+Acer Aspire S7-392-74508G25tws (NX.MBKED.020) 

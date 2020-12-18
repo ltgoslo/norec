@@ -1,0 +1,68 @@
+Trust 120V - trådløs TV-overføring
+Med løsningen 120V kan du overføre lyd og bilde fra f. eks PC, video, satellittmottaker, DVD-spiller etc til en TV hvor som helst i huset - trådløst. 
+Dette måtte vi prøve, men med en litt annen vri. 
+
+Det er førjulstid, og nettbutikkene kjører spesialtilbud "bak kalenderlukene" hver dag fram mot jul. 
+Enkelte av tilbudene er oppsiktsvekkende, som for eksempel dagens luke hos nettbutikken PS.no. 
+Her kan du få en trådløs overføringsløsning for TV til 99 kroner. 
+Vi har tidligere testet dette produktet, som har vært på markedet i flere år, og testen får du i sin helhet her: 
+
+Vårt case 
+
+Vi har utstyrt hjemme-PCen med TV-kort, men har måttet nøye oss med signalene fra en vanlig UHF-antenne, og kanalene TV2 og NRK1. 
+I stuen i første etasje har vi derimot en parabol-tuner og tilgang til over 40 TV-kanaler. 
+
+For at disse kanalene skulle bli tilgjengelig på PCen, med muligheter for blant annet digitale opptak, hadde vi sett for oss både kabelstrekk og en ny tuner - noe som i utgangspunktet var uaktuelt 
+
+Kabelfri løsning 
+
+Vi ble derfor nysgjerrig på den rimelige 120V-løsningen fra Trust. 
+Dette er et sett som består av en transceiver og en mottakerboks, for trådløs overføring av lyd og bilde mellom AV-enheter. 
+
+All kommunikasjon foregår i det populære 2,4 GHz-området. 
+I prinsippet skulle det da være mulig å overføre lyd og bilde fra parabol-tuneren til TV-kortet i PCen, og dermed skulle kabelproblematikken være løst. 
+
+Dessuten skulle også tuneren kunne fjernstyres fra mottakerboksen, ved hjelp av den originale fjernkontrollen. 
+Ingen kabler og ingen ny parabol-tuner, med andre ord. 
+
+Selve installasjonen viste seg å være enkel. 
+Det fulgte med kabler for tilkobling til AV-enheter (scart/phono), godt merket "Transceiver" og "Receiver". 
+På baksiden av boksene kunne vi velge mellom tre kanaler, her måtte mottaker og sender naturligvis ha lik innstilling. 
+Vi klistret en liten medfølgende infrarød sender/mottaker nær den infrarøde mottakeren på satellitt-tuneren, for å kunne skifte kanaler ved hjelp av den originale fjernkontrollen - via mottakerboksen som var tilkoblet PCen. 
+
+WLAN-trøbbel 
+
+Spenningen var stor da vi startet TV-programvaren på PCen, og valgte "video composite" som AV-kilde. 
+Og joda, lyd og bilde var på plass med det samme. 
+Det var bare ett problem; her var det mye forstyrrelser. 
+
+Et par ganger i sekundet ble både lyd og bilde forvrengt. 
+Etter litt tankevirksomhet slo det oss at kanskje vårt trådløse 802. 
+11g-nett var kilden til forstyrrelsene, her benyttes nemlig også 2,4 GHz-området. 
+Vi prøvde å bytte kanaler på baksiden av boksene, men det gav ikke bedre resultater. 
+I ruteren kunne vi imidlertid også bytte kanal, og etter litt fram og tilbake ble til slutt forstyrrelsene borte. 
+
+Bildekvaliteten var faktisk overraskende bra, med klare, skarpe bilder - langt bedre enn med den gamle UHF-antennen. 
+Kanalskifte fungerte også, men korte trykk ble glatt oversett. 
+Vi måtte holde knappene nede et lite sekund for at parabol-tuneren skulle reagere. 
+Det kunne vi leve med. 
+
+Hva med lyden? 
+Den ble i mono. 
+OPPDATERT: 
+Det viste seg at dette skyldtes en feil i vår tilkobling - enhetene er i stand til å sende/motta i stereo. 
+
+Konklusjon 
+
+Løsningen fungerte veldig bra, og var svært enkel å sette opp. 
+Hvis du ønsker både å bruke WLAN og denne løsningen samtidig, kan du støte på problemer som kan medføre at du må gjøre noen små grep i ruteroppsettet. 
+Men du har uansett ingen garanti for at trådløse nettverk i nabolaget ikke vil skape forstyrrelser. 
+
+Veiledende pris er 699 kroner inkl mva, men produktet selges i dag 3. desember for 99 kroner hos PS.no. 
+For mer informasjon om produktet, se denne siden. 
+
+Andre nettbutikker som har julekalender: 
+Komplett.no Netshop.no Multicom.no Amentio.no 
+
+Vet du om flere gode julekalendertilbud? 
+Bruk debatten under! 

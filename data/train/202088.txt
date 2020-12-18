@@ -1,0 +1,73 @@
+Patriot GearBox - miniserver for nettverket
+Den lille boksen gjør USB-harddiskene dine til nettverksdisker - og mye mer. 
+
+Når hvert familiemedlem eier sin egen PC, kan det være veldig praktisk med et felleslager for musikk, filmer, bilder - for ikke å glemme sikkerhetskopier av verdifulle filer man har liggende lokalt. 
+Entusiaster setter gjerne opp en PC til formålet, for eksempel slik vi nylig gjorde i vår Ubuntu-guide. 
+
+NAS til folket 
+
+Den siste tiden har det imidlertid dukket opp et nytt og rimeligere alternativ, disker som man kobler rett på nettet - såkalte NAS-er (Network Attached Storage). 
+
+I sin enkleste form fungerer disse som filservere, der brukere kan gis lese- og skrivetilgang, men funksjonaliteten blir stadig utvidet til å inkludere langt mer enn som så. 
+Det er for eksempel slett ikke uvanlig at en NAS kan fungere både filserver, web/FTP-server og medieserver for UPnP-produkter som TV-er og Blu-ray-spillere tilkoblet nettverket. 
+
+Potent liten tass 
+
+Patriot GearBox er egentlig en slik NAS - men til forskjell fra de fleste andre NAS-er er den ikke utstyrt med noen disk. 
+Den har imidlertid to USB-porter der du kan koble til eksterne harddisker, USB-minneplugger og skrivere. 
+På den måten kan du gjøre utstyr du allerede har tilgjengelig på nettverket, selv om de i utgangspunktet ikke har nettverksstøtte. 
+
+Den lille boksen har en imponerende funksjonsliste: 
+
+Filserver (via SAMBA) med støtte for brukerkontoer og forskjellige rettigheter 
+
+UPnP medieserver (deling av musikk/filmer/video) 
+
+iTunes-server 
+
+Bittorrent nedlastingssystem (last opp .torrent-filer, og boksen laster ned innholdet) 
+
+DHCP-server (tildeling av IP-adresser i nettverket) 
+
+FTP-server (for tilgang via Internett) 
+
+Printer-server (for deling av USB-printere) 
+
+Svært enkelt 
+
+Oppsettet er svært enkelt. 
+Du kobler boksen til en ledig LAN-port i ruteren, setter i strømkontakten, og deretter kobler du til disken du ønsker å dele i en av boksens to USB-kontakter. 
+Vi koblet til en 2,5" mobil harddisk som allerede var formatert med NTFS-filsystem og innholdt en rekke mapper og filer, og denne fikk all strømmen den trengte via USB-porten. 
+
+Deretter kjører du Search Disk-programmet som ligger på den medfølgende CD-en, som straks oppdaget Gearbox-en i vårt tilfelle: 
+
+Herfra kan du enkelt koble deg til den via nettleseren, du får spørsmål om passord, og deretter får du fram denne siden: 
+
+Herfra kan du konfigurere alle funksjonene boksen har å by på, definere hvilke mapper som skal deles, hvilke brukere som skal ha tilgang, og så videre. 
+Det meste er veldig "rett fram", også for relativt uerfarne. 
+Det følger dessuten med en grei brukerveiledning på den medfølgende CD-en, dersom du skulle bli usikker. 
+
+Ifølge spesifikasjonene er kun filsystemene FAT32 samt EXT2 og EXT3 støttet, men vår NTFS-formaterte disk fungerte også helt utmerket. 
+Det er en stor fordel, siden FAT32 ikke støtter filer på mer enn 4 GB, og EXT2 og EXT3 ikke uten videre kan brukes av Windows-PC-er dersom du senere ønsker å koble disken direkte til datamaskinen igjen. 
+
+Her ser du bilder fra oppsett, tilkoblinger og bruk: 
+
+Rask nok for de fleste 
+
+GearBox støtter inntil 100 Mbit hastighet, og dette utnytter den nesten til fulle. 
+Ved overføring av store filer klarte vi fint hastigheter på inntil 8 MB pr sekund begge veier. 
+Det er ikke superraskt, men det holder fint til streaming av HD-video, og ligger også over det de fleste oppnår med trådløse tilkoblinger til nettet. 
+
+Vi streamet for eksempel en 2-timers HD-film på 25 GB uten problemer: 
+
+Vi legger til at vi fikk bedre hastighet etter å ha oppgradert boksen med siste firmware. 
+Den kan lastes ned fra produsentens hjemmeside. 
+
+Vi har ikke testet oppsett av printer gjennom boksen, men ser gjerne at du deler dine erfaringer med andre i debatten under, dersom du har gjort det. 
+
+Konklusjon 
+
+Den lille boksen fra Patriot imponerte oss med svært enkel administrasjon, mange nyttige funksjoner og ikke minst lav pris. 
+Har du en ruter med en ledig LAN-port får du her kraftig utvidet funksjonaliteten i nettverket ditt for noen få hundrelapper. 
+
+Takk til PS.no for utlån av produktet 

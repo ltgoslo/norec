@@ -1,0 +1,148 @@
+TEST:Samsung Multiroom 
+
+De trådløse Multiroom-høyttalere M3, M5 og M7 gir Samsung godt med ammunisjon i kampen mot Sonos. 
+
+De største aktørene har vært trege til å melde seg på når det gjelder strømmetjenester i flere rom. 
+Men denne høsten er fredningstiden over, og Samsung er bare en av svært mange produsenter som nå tar opp kampen mot Sonos. 
+Da gjelder det å skille seg ut, og Samsung gjør dette på tre punkter. 
+
+#1: 
+Styr direkte på enheten 
+
+Selv om hovedtanken er at du skal styre musikkvalg og volum fra mobilen eller nettbrettet ditt, har Samsung likevel lagt til betjeningsknapper som volumkontroll, mute og kildevelger på toppen av alle høyttalerne. 
+
+Det er praktisk hvis du for eksempel vil overstyre musikkvalget til resten av huset når du befinner deg i kjelleren. 
+
+#2: 
+Bluetooth 
+
+I tillegg har alle modellene Bluetooth direkte, og når NFC-støtte er på plass blir tilkoplingen svært enkel for de med en mobiltelefon som støtter det. 
+
+Det betyr blant annet at du eller gjestene dine enkelt kan spille av musikk direkte fra mobilen, samtidig som du også kan ta med deg en av høyttalerne og bruke den til å spille musikk på hytta eller i garasjen. 
+Det øker faktisk bruksområdet kraftig og gir et pluss i margen. 
+
+#3: 
+Surroundmulighet 
+
+Har du ikke lyst til å ha en stor surroundreceiver i stua? 
+Da er det verdt å vite at du også kan bruke de trådløse høyttalerne i et ganske så fleksibelt surroundoppsett. 
+
+Betingelsen her er at du har et kompatibelt Samsung-produkt, og vi kommer tilbake til hvordan dette fungerer lenger ned. 
+
+Grunnprinsippet på alle høyttalerne er forøvrig likt: 
+
+Høyttalerne kan motta musikk via husets trådløse nettverk, og styres dermed enkelt via en gratis app (til Android og iOS-enheter). 
+En fotstøtte i esken gjør at alle de tre høyttalerne kan både ligge eller stå rett ut av esken, de oppleves derfor som svært plasseringsvennlige (veggfeste er dog ekstrautstyr). 
+En innebygd sensor justerer ellers lyden avhengig av om de står eller ligger. 
+
+Oppsett: 
+Enklere enn du tror 
+
+Via appen kan du koble én og én høyttaler til din trådløse ruter, men hvis du får svetteperler i pannen av ordet «ruterinnstillinger», anbefaler vi at du legger til Samsungs HUB i bestillingen. 
+
+WAM 250 gjør nemlig tilkoblingen tilnærmet idiotsikker, og forsvarer dermed lett prisen på rundt 450 kroner. 
+
+Her var det bare å koble HUBen til ditt trådløse nettverk med medfølgende kabel, for så å trykke på connect-knappen på baksiden av høyttalerne og HUBen for at de skal finne hverandre. 
+Dette fungerte problemfritt hos oss, og maksgrensen på rundt 15 høyttalere per HUB bør holde for de aller fleste. 
+(I et surroundoppsett bør du imidlertid klare deg uten, og forklaringen får du lenger ned.) 
+
+Styr via mobilen eller nettbrettet 
+
+Selv om du kan styre basisfunksjonene direkte på høyttaleren, er grunntanken med en multiromsløsning at du skal styre alt fra mobilen eller nettbrettet ditt. 
+
+Samsungs Multiroom-app er gratis, og finnes både til Android og Apple-enheter . 
+Så langt vi kunne konstatere er appene like, og vi brukte derfor hovedsaklig vår Galaxy Note 3 som fjernkontroll under denne testen. 
+
+Førsteinntrykket av appen var likevel ikke det beste, vi syntes rett og slett den var litt rotete. 
+Underveis i testen har imidlertid appen blitt forbedret løpende, og vi liker spesielt den innebygde app-veiledningen, som gir deg råd og tips om styringen. 
+Etter litt tilvenning mener vi derfor at appen fint bør kunne brukes av hele familien. 
+
+Appen viser hvilke enheter som er koblet til via hubben, ved at høyttalerne dukker opp som faner i appen. 
+Høyttalerne kan selvsagt navngis, enten i form av stue, kjøkken, eller egendefinerte navn, noe som er praktisk hvis du har flere.Det aller enkleste er å trykke deg inn på den høyttaleren du har lyst til å bruke, bestemme hva den skal spille, og ikke minst hvilket volum den skal stå på. 
+Har du flere høyttalere kan du selvsagt pare dem slik at det samme innholdet spilles i alle rom, eller koble dem i et stereo-modus (høyre og venstre), og dermed få kun én volumkontroll å forholde deg til. 
+
+Slik spiller du musikk 
+
+Appen gir deg flere musikkilder å velge mellom, inkludert nettradiokanaler (TuneIn), samt musikk du har lagret på mobilen/nettbrettet ditt. 
+Når det gjelder det siste er det like enkelt som vi forventer i dag: 
+Trykk på høyttaleren, velg låt eller spilleliste, lytt. 
+
+Siden antallet nettkanaler er tilnærmet ubegrenset, kan du selvsagt lagre dine favoritter direkte i appen - eller direkte på høyttaleren. 
+For de aller fleste vil nok likevel appens innebygde støtte for Spotify (samt Deezer og Napster) bli den mest brukte musikkilden, og siden høyttalerne støtter Spotify Connect kan du også velge den høyttaleren du ønsker å bruke direkte fra Spotify-appen. 
+
+Så langt så bra. 
+
+Den store ulempen for mange nordmenn, er dessverre at det per dags dato ikke er noen WiMP-støtte. 
+Skal du spille av musikk fra WiMP må du altså koble til mobilen eller nettbrettet direkte mot høyttaleren via Bluetooth. 
+
+Men hva med lydkvaliteten? 
+
+Svaret på hvor god lyd du får, vil selvsagt avhenge av hva du sammenligner med og ikke minst hva du er vant til. 
+Samsung har nemlig ikke prøvd å lage hifi for audiofile, i stedet har de prøvd å lage produkter som gir bedre lyd for folk flest, og da gjelder det å vite hvilken gruppe du selv tilhører. 
+
+Det du får er altså plasseringsvennlige høyttalere, som etter vår mening er helt på nivå med konkurrentenes alternativer i samme størrelse og prisklasse. 
+
+At M7-modellen er vår lydmessige favoritt kommer neppe som en bombe: 
+Større kabinett gir ganske enkelt plass til større elementer, og lydmessig er den i en egen divisjon mot de to lillebrødrene - spesielt når det gjelder bassen. 
+M7 har ganske enkelt såpass pondus at den evner å gi musikken et bassfundament, samtidig som den trykker presist til der den skal. 
+
+Musikk fra en eller to høyttaler i stereo låter sammenhengende og fint - i hvert fall så lenge du ikke går amok med volumet. 
+Den store forskjellen mellom M7 og M5 ligger ganske enkelt i at M7 har mer dynamikk å spille på. 
+
+Tilhører du den gruppen som alltid har volumet på 11, vil du på M5 og M3 oppleve at diskanten blir litt skringrende, og at bassen blir rotete. 
+Men da snakker vi også om et lydnivå som naboen ikke liker. 
+
+Vi hadde på forhånd trodd at nykommeren, altså minstemann M3, skulle falle dårligst ut. 
+Der tok vi imidlertid feil: 
+Vi syns nemlig at den spiller overraskende bra til å være såpass beskjeden i størrelse, mens M5 på mange måter faller mellom to stoler. 
+
+Skulle vi selv gått i butikken ville vi altså valgt den plasseringsvennlige M3 i de minste rommene, og M7 i de store rommene. 
+
+Hvordan fungerer surround-muligheten? 
+
+I løpet av vår testperiode prøvde vi dem også sammen med Samsungs nye superTV på 78-tommer, og som et surroundanlegg i en liten stue eller i en leilighet tror vi de aller fleste vil bli fornøyd. 
+
+Filmlyden låt overraskende bra med vårt favorittoppsett: 
+Med en M7 som senterhøyttaler kommer dialogen klart og tydelig fram, og med to M7er som fronthøyttalere holdes trykket og dynamikken oppe, mens de to plasseringsvennlige M3-modellene gir surroundeffekten vi ønsker fra bakhøyttalere når vi setter på en Blu-ray film. 
+
+Ja, når alt stemmer får vi ganske enkelt en fin surroundopplevelse, og tilhører du den gruppen som ikke har lyst på en diger surroundreceiver i stua er dette definitivt fristende. 
+
+Når det gjelder surroundmuligheten er det imidlertid et par ting som er verdt å ta i betraktning: 
+
+For det første må du ha kompatible Samsung-produkter, og per dags dato vil det si 2014-modellene av Blu-ray-spillerne i H-serien, Soundbar i H7-serien, eller SmartTVer i H-serien. 
+Med andre ord: 
+Har du eldre Samsung-produkter, eller produkter fra andre leverandører vil det ikke fungere.For det andre er det ikke anbefalt at du bruker den enkle HUBen her. 
+Surroundlyden forutsetter ganske enkelt at du har en rask og stabil ruter for at alt skal fungere optimalt. 
+Dette gjør også at du må bruke appen til å legge til en og en høyttaler. 
+Det er heldigvis ikke vanskelig, men en mer omstendelig prosess. 
+
+Framgangsmåten får du i bildespesialen: 
+
+Ideelt sett ville brukt 3 M7 og 2 M3 om vi skulle hatt dette hjemme, og da blir prisen såpass høy at det finnes mange aktuelle alternativer. 
+
+Fordelen med Samsungs løsning er imidlertid at du kan begynne med frontrekka, noe som alene vil gi deg langt bedre TV-lyd, og så er det enkelt å utvide med bakhøyttalerne etterhvert. 
+
+Og det er også nødvendig, for det er ingen tvil om at vi per dags dato savner flere dedikerte hurtigtaster på aktuelle lyttemodus i appen. 
+Til vanlige TV-sendinger ville vi kanskje bare brukt senter- og front-høyttalerne, mens vi ville ha aktivert bakhøyttalerne når vi satte på en Blu-ray film. 
+Appen er forøvrig ganske enkel her: 
+Du blar deg rett og slett fram til ønsket lytteoppsett, for så å dra de høyttalerne du vil bruke på plass i app-bildet. 
+
+Det er likevel ikke spesielt barne- eller kjærestevennlig at dette må gjøres manuelt hver gang: 
+Appen skulle altså hatt en knapp med ferdig oppsatte moduser, slik at det hadde vært enklere å svitsje mellom de ulike modusene. 
+Her er det altså et forbedringspotensiale, og vi har da også fått bekreftet fra Samsung Norge at de har meldt inn ønsker til teknikerne i Korea. 
+
+Konklusjon 
+
+Vi syns Samsungs alternativ fungerer bra som en ren multiromsløsning. 
+Lydmessig er det spesielt M7 som imponerer oss, og vi setter også pris på Bluetooth-mulighet og styring direkte på høyttalerne. 
+
+Vi gir også plusspoeng for surroundmulighetene, selv om det her fortsatt er mye å gå på. 
+Mulighetene er nemlig store, og det er synd at dette kun er kompatibelt med for de med nye Samsung-produkter. 
+
+Vi synes likevel at Samsungs app har forbedringspotensiale hva gjelder brukervennlighet, for på dette punktet føles Sonos-appen fortsatt mer intuitiv. 
+Her skal det dog sies at flere av irritasjonsmomentene vi hadde til å begynne med allerede har blitt forbedret: 
+Det ser altså ut til Samsung er bevisste på å forbedre brukeropplevelsen. 
+Og ja: 
+Vi savner også full WiMP-støtte. 
+
+Potensialet er uansett såpass stort at vi ender på en 5-er på terningen. 

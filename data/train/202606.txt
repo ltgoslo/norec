@@ -1,0 +1,206 @@
+Asus Padfone 2
+Telefonen som også er et nettbrett. 
+
+Asus leverer et unikt konsept med Padfone 2. 
+
+Ikke bare kan den brukes som en helt vanlig Android-telefon, men stikker du telefonen inn i det medfølgende nettbrettet, sitter du plutselig med et titommers nettbrett i hånda om du heller foretrekker det (telefonen fås også kjøpt uten nettbrett). 
+
+I tillegg har nettbrettet et stort batteri som lader telefonen mens den står i. 
+
+Men det stopper ikke der 
+
+For Padfone 2 er også en særdeles godt spesifisert Android-telefon. 
+Blant annet får du kjøpt den med 64GB internminne, den har et ganske romslig batteri, dobbelt så mye arbeidsminne som mange andre toppmodeller og et kamera med 13Mp oppløsning. 
+
+Her er de tekniske spesifikasjonene: 
+
+Tekniske spesifikasjoner, Asus Padfone 2 
+
+Skjermstørrelse: 4,7 tommerSkjermoppløsning: 
+1280x720 (312 ppi) 
+Skjermtype: 
+Super IPS+Prosessor: Qualcomm Snapdragon S4 Pro (Krait)Klokkefrekvens: 1,5GHz (fire kjerner)Grafikk: 
+Adreno 320Interminne: 32/64GB (ikke minnekortstøtte, 50GB lagringsplass i Asus' nettsky)Arbeidsminne: 2GBKamera: 
+13Mp + 1,2Mp (front), f/2.4Video: 1080p (30bps) / 720p (60bps)Android-versjon: 4.0 (Oppgradering forventes i januar)Kommunikasjon: NFC, LTE/4G (støtter også norske frekvenser), Bluetooth v4.0, 802.11 a/b/g/n WiFiMål: 138 x 69 x 9 mmVekt: 
+135g 
+
+Padfone Station (nettbrettet): 
+
+Skjermstørrelse: 10,1 tommerSkjermoppløsning: 
+1280x800Vekt: 
+514g (649g totalt)Batteri: 5000 mAhKamera: 
+1Mp (front), bruker telefonens kamera bak. 
+
+Konstruksjon 
+
+Padfone 2 gir oss et svært godt kvalitetsinntrykk. 
+På baksiden er den tydelig inspirert av selskapets Zenbook-serie, med sirkulært mønster som gir en ru overflate slik at telefonen får en viss friksjon i hånda. 
+Kameraet er også plassert på midten horisontalt, og mot sidene buer baksiden slik at telefonen ikke har noen skarpe kanter. 
+
+Sett fra siden er også Zenbook en tydelig designinspirasjon. 
+Aluminiumskanten spisser seg mot bunnen av telefonen akkurat som PC-serien, og det gir en slags optisk illusjon om at telefonen er tynnere enn den er, for i takt med redusert aluminium økes også mengden plast, før den til slutt ebber ut i en 3mm tynn kant helt nederst. 
+
+Skjermen er meget god. 
+Super IPS+-panelet byr på gode farger med svært god innsynsvinkel, og Padfone 2 har også høy lysstyrke, spesielt i en egen utendørsmodus der man drar på enda litt ekstra, som selvsagt også trekker ekstra mye strøm. 
+Med pikseltetthet på 312 pr tomme kan du i praksis ikke skille pikslene fra hverandre. 
+
+3,5mm-utgangen er, noe utradisjonelt, plassert på midten oppå telefonen, og ved siden av sitter luken for SIM-kort. 
+Av/på- og volumknapper ligger på høyre side, og i bunnen finnes ladekontakten; en proprietær utgang som fungerer som en slags «utvidet» micro USB-port. 
+Denne er laget slik for å gjøre den kompatibel med docking-nettbrettet, men det er i hvert fall mulig å lade Padfone 2 med en vanlig micro USB-kabel; dog må det nevnes at kabelen sitter veldig løst. 
+
+Padfone 2 har også berøringssensitive knapper på undersiden av skjermen for tilbake-, hjem- og programbyttingsknapper. 
+Selv om de rene Nexus-telefonene har disse knappene som en del av skjermbildet, må vi innrømme at vi foretrekker å ha dem på utsiden, så slipper man å bruke opp noe av skjermbildet på dem. 
+Som vanlig lyser de også opp når du bruker telefonen. 
+
+Padfone station 
+
+Padfone station er altså navnet på nettbrett-delen. 
+Verdt å merke seg er altså at dette ikke har noe funksjon før du putter i telefonen, utover at du da også har med deg batteri nok til å lade telefonen drøye to ganger fra null til hundre. 
+
+Vi testet aldri den første Padfone-utgaven på DinSide (imidlertid satt vi i salen da Padfone ble vist frem for første gang i Barcelona tidligere i år), men at docking-løsningen nå er blitt langt mer elegant er det ingen tvil om. 
+Der låsemekanismen i første versjon var noe tungvint, kan du nå bare trykke telefonen ned i sporet sitt. 
+Brettet bekrefter så oppkoblingen med en liten vibrasjon, og i løpet av et sekund eller to tennes bildet på den store skjermen. 
+
+Telefonen sitter også som støpt i sporet. 
+Du kan snu nettbrettet på hodet og riste som bare det uten at den faller ut, og med en litt fast håndføring, trekker du telefonen ut av sporet sitt igjen. 
+
+Den store skjermen er ikke like imponerende som den lille. 
+De to har praktisk talt samme oppløsing (!), og 1280x800 på en titommers skjerm er det ingen som lar seg imponere av i dag. 
+Vi må også innrømme at vi gjerne skulle ha sett flere fordeler med nettbrettet annet enn større skjerm og bedre batteritid, som for eksempel muligheten til å stikke inn et SD-kort for overføring av bilder. 
+
+Høyttaleren sitter, som på de fleste andre nettbrett, på baksiden og er i stand til å spille relativt høyt, men da med ganske skarp diskant og ikke noe særlig til bass, naturligvis. 
+Det er fortsatt begrenset hva man får ut av såpass små høyttalere. 
+
+Nettbrettet har for øvrig samme ladekontakt som telefonen. 
+
+Du kan se flere bilder av Padfone 2 her: 
+
+DynamicDisplay 
+
+Se hvordan dette fungerer i videoen på toppen av artikkelen 
+
+Litt av poenget med denne løsningen er at du skal kunne holde på med noe på telefonen og så putte den i dockingstasjonen for å fortsette i større format. 
+For å få til dette har Asus laget noe de kaller DynamicDisplay. 
+
+Dersom en app støtter dette (Asus har tilgjengeliggjort et SDK for utviklere) vil den automatisk bytte fra «mobilmodus» til «nettbrettmodus». 
+Hvis ikke, kan du selv velge: 
+Enten kan nettbrettet gjøre et forsøk på å kjøre mobilappen, eller så kan du velge at den automatisk avsluttes når du putter telefonen oppi. 
+
+Dessverre er ikke dette spesielt elegant. 
+På forhånd er nettbrettet satt opp slik at alle apps åpnes, men det er mye som ikke ser pent ut. 
+
+Et eksempel er Swiftkey-tastaturet, der vi opplevde at ca 1/4 av tastaturet ble blåst opp i hele tastaturfeltet. 
+Da må man inn og fjerne krysset på Swiftkey, slik at det heller avsluttes og startes på nytt når du docker telefonen. 
+Med andre ord må du selv lete opp appene som ikke funker så godt, slik at du får huket dem vekk fra listen. 
+
+Andre veien også – har du startet en app i nettbrett-modus og tar ut telefonen, hender det at den fortsatt er i nettbrettmodus slik at den blir veldig tettpakket på mobiltelefonen. 
+
+Men mye fungerer bra også. 
+Forsinkelsen fra du putter telefonen i hakket sitt til du kan begynne å bruke nettbrettet er typisk et par sekunder, og vi liker at telefonen vibrerer for å bekrefte at de to enhetene har opprettet kontakt, så slipper det å være noe tvil om det. 
+
+Når telefonen er docket i brettet, opptrer det også som et nettbrett i Google Play-butikken, slik at du får opp anbefalinger for nettbrett og kan laste ned apper som kun er tilgjengelig for nettbrett. 
+Disse sorterer under «bare pad» i programskuffen og kan da ikke brukes kun fra mobiltelefonen. 
+
+Egne Android-tilpasninger 
+
+I motsetning til for eksempel HTC og Samsung, har ikke Asus gjort veldig store endringer av Android. 
+Kanskje med unntak av at den øverste delen av nedtrekksmenyen er laget litt småglorete lilla. 
+Men den er til gjengjeld ganske praktisk. 
+Dessuten kan du deaktivere den hvis ikke du liker den, så får du den vanlige utgaven av varslingsmenyen (bra, Asus!). 
+
+Som du ser av skjermbildet til høyre, kan du slå av og på wifi, mobildata etc. 
+«Smart saving»-valget lar deg spare på strømmen, f.eks. ved å redusere skjermstyrken når du leser en bok eller kutte pushvarslinger når skjermen er avslått. 
+Dette kan du skreddersy i innstillinger-menyen. 
+
+Fra varslingsmenyen kan du også justere lysstyrken direkte, sette den i automodus (som justerer lysstyrken ut fra lys fra omgivelsene), samt en egen modus beregnet til utendørsbruk, med 550 nits lysstyrke – blant de kraftigere i markedet. 
+
+En egen oversettelsesfunksjon kan også aktiveres, som da gir deg en knapp på venstre side av skjermen i enkelte apper. 
+Trykker du på den, kan du deretter merke et ord eller en setning og få opp oversettelsen, men det ser ut til at den kun kan oversette til engelsk selv om vi vitterlig har valgt norsk. 
+Den fungerer heller ikke i Chrome, men i nettleseren som heter «nettleser» dukker knappen opp. 
+Akkurat det er noe pussig, da Asus har begge disse nettleserne med som standardinstallerte apper. 
+
+Ellers har Asus også lagt et nokså konservativt skall utenpå ringe- og SMS-programmet; det hele er pent og rent. 
+
+Vi liker veldig godt hva Asus har gjort med kameraappen, blant annet ved at du kan ta seriefoto ved å holde utløserknappen nede, og at du både har en stillbilde- og videoknapp på samme skjermbilde. 
+Den er effektiv i bruk, for eksempel ved at du bare kan trykke blitsen mellom av, på og auto enn at du alltid må trykke to ganger (først for å åpne "menyen" og så for å velge innstilling). 
+
+Medfølgende apps 
+
+Asus har også lagt ved en god håndfull apps med telefonen. 
+Her er høydepunktene: 
+
+Asus studio – En galleriapp som har flere måter å sortere bildene på, både gruppert på dager og basert på stedet der bildene er tatt, for eksempel. 
+Inneholder også redigeringsmuligheter med bildeeffekter, mulighet for å gjøre hudtoner mer brune, merke bilder med stikkord for raskere gjenfinning senere etc. 
+Faktisk en ganske fin app. 
+
+Audiowizard – Også tilgjengelig via varslingsmenyen; en equalizer som lar deg velge mellom ulike lydbilder, f.eks. film eller tale. 
+
+Blokkeringsliste 
+– Kjekt dersom du blir plaget av noen og vil sperre telefonen for innkomne samtaler eller SMS-er. 
+
+Dictionary – Ordliste på engelsk, med forklaring, mulighet for å høre hvordan ordet uttales og direktelenke til Wikipedia. 
+
+Filbehandling – Lar deg utforske den interne lagringsplassen, flytte, kopiere, slette og gi filer et annet navn. 
+
+Supernote – Notatprogram som i stor grad minner om S Note som følger med Galaxy Note-produktene, med mulighet for tekstgjenkjenning, lagring i nettskyen, deling av notater med venner etc. 
+Dog er det ikke like avansert som Samsungs utgave. 
+
+Webstorage – Gir deg 50GB lagringsplass i Asus' nettsky i to år. 
+Du kan også få telefonen til automatisk å laste opp nye bilder til nettskyen og dele filer med andre. 
+
+Ytelse 
+
+Med 2GB arbeidsminne og firekjerners prosessor på 1,5GHz er det duket for fartsfest med Padfone 2. 
+For det første kan kameraet spytte ut seks bilder i sekundet inntil 100 bilder bare ved å holde utløserknappen inne. 
+Det er formidabelt. 
+
+Opplevd hastighet er også meget god. 
+Alt reagerer raskt, og det er ingen lugging i menyene. 
+Skrolling i nettleseren går også glattere enn på de fleste andre Android-telefoner. 
+
+Også på ytelsestester får vi meget gode tall. 
+1280ms på Sunspider-testen (med den "vanlige" nettleseren, over 1800 med Chrome) og 7366 på Quadrant Standard (6013 på Galaxy Note II som har vært den raskeste der til nå), blant annet. 
+
+Padfone 2 er med andre ord blant de aller raskeste Android-telefonene i markedet. 
+
+Kamera 
+
+Bildene fra Asus-kameraet er jevnt over gode, men la deg for all del ikke blende av 13 megapiksler: 
+De er nemlig ikke et mål på kvalitet, kanskje snarere tvert om. 
+
+Vi opplever at Padfone 2 har en tendens til å undereksponere bildene ganske kraftig utendørs i motlyssituasjoner, og det gjør at bildene blir ganske mørke. 
+Den medfølgende kameraappen gir også et markant gulskjær i normal innendørsbelysning når du tar bilder med automatiske innstillinger, men dette kan du overstyre ved manuelt å sette hvitbalansen. 
+
+Det er også en del støy i innendørsbildene, noe som ikke er så rart når man presser 13 megapiksler inn på en såpass liten sensor. 
+
+Vi tror altså Asus ville fått bedre bildekvalitet om de hadde gått for færre megapiksler. 
+
+Under ser du noen testbilder tatt med kameraet: 
+
+Video 
+Mer imponerende er videokvaliteten, og spesielt i 720p med 60 bilder pr sekund. 
+Da flyter bildet svært godt, og vi er også godt fornøyde med bildekvaliteten, selv om lyden ikke er på høyde med de beste telefonene. 
+
+Under kan du hente et uredigert klipp rett fra kameraet: 
+
+Samtalekvalitet 
+
+OPPDATERT: 
+Den første testmodellen vi fikk hadde dårlig samtalekvalitet, men etter å ha fått en ny testmodell fra Asus, er det bare å konstatere at den første hadde en feil. 
+Det nye eksemplaret hadde langt bedre samtalekvalitet. 
+Lyden har en liten tendens til å vrenge seg når motparten snakker høyt kombinert med høyt volum i høyttaleren, men ellers er vi godt fornøyde med samtalekvaliteten på Padfone 2. 
+
+Konklusjonen er derfor oppdatert. 
+
+Konklusjon 
+
+Det er mye å like med Padfone 2. 
+Løsningen med å docke den i et nettbrett fungerer langt bedre enn det gjorde sist, selv om det (som du så i videoen over) ikke er helt strømlinjeformet. 
+
+Spørsmålet er selvsagt også hvorvidt du synes denne løsningen er hensiktsmessig kontra det å ha to separate enheter – du kan tross alt ikke bruke nettbrettet med mindre telefonen er plugget i. 
+
+Plusspoeng får i hvert fall Asus fordi du da kan ha med deg batteri tilsvarende drøye to fulle runder med lading, selv om vi gjerne skulle ha sett at nettbrettet også hadde hatt en SD-kortleser. 
+
+Som ren telefon er Padfone 2 en av de aller ypperste og raskeste i dagens marked, og så vidt vi vet den eneste Android-telefonen som du får kjøpt med 64GB internminne ved siden av HTC One X+. 
+
+Asus PadFone2 A68 2-in-1 32GB 

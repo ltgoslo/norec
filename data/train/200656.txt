@@ -1,0 +1,110 @@
+Asus Eee PC 1215B
+Lyst på en liten, rimelig PC men synes at en minibærbar blir for puslete? 
+Da bør du lese denne testen. 
+
+De fleste minibærbare har temmelig mange begrensninger knyttet til maskinvare og operativsystem. 
+Hovedgrunnen er at Intel og Microsoft har ønsket et klarest mulig skille mellom små, billige maskiner og mer voksne modeller. 
+PC-produsentene har blant annet fått gode rabatter på maskin- og programvaren for å holde seg innenfor visse maksimumgrenser. 
+
+Derfor har de fleste minibærbare PC-ene maksimalt 10"-skjerm, 1 GB minne og Intel Atom-prosessor, samt Windows 7 Starter, som er en variant av Windows 7 med en god del begrensninger. 
+Slike konfigurasjoner blir puslete for mange oppgaver, noe vi har dokumentert blant annet i denne testen. 
+
+Nytt håp for små og billige PC-er 
+
+At PC-produsentene nå begynner å tenke alternativt også for minibærbare, kommer blant annet som en naturlig konsekvens av at produktkategorien opplever sterkt press fra nettbrettene, og opplever nedgang i etterspørselen. 
+Det kan imidlertid forandre seg, takket være maskiner som Asus Eee PC 1215B. 
+Skjønt, "netbook" har den ikke lov å kalle seg. 
+
+Her er en kjapp titt på de viktigste egenskapene: 
+
+12,1" blank LED-baklyst skjerm, 1366 x 768 pikslers oppløsning 
+
+AMD Fusion APU E350, dobbelkjernet prosessor (1,6 GHz) 
+
+Integrert AMD Mobility Radeon 6310 grafikk 
+
+4 GB RAM 
+
+500 GB harddisk 
+
+Trådløst nettverk (b/g/n) 
+
+Gigabit kablet nettverk 
+
+VGA og HDMI-utganger 
+
+3 USB-porter, hvorav én USB 3.0 
+
+minnekort-leser (SD/SDHC/SDXC/MMC) 
+
+29,6 x 20,3 x 3,8 cm 
+
+1,45 kg 
+
+Windows 7 Home Professional 
+
+Ca-pris: 3.500 kroner inkl mva 
+
+Som du ser av spesifikasjonene er det ikke mye - annet enn vekt, størrelse og til dels pris, som minner om en minibærbar. 
+Det andre minner mer om en annen klasse; de ultraportable PC-ene, som normalt er vesentlig dyrere. 
+Spesielt positivt er det at maskinen har godt med minne og lagringsplass, for ikke å glemme både USB 3.0, gigabit nettverk og fullblods Windows 7. 
+
+Mer skeptiske er vi til prosessorløsningen fra AMD med integrert grafikk, forrige møte med lillebror E250 ble ikke noen spesielt positiv opplevelse. 
+
+Fornuftig og funksjonelt 
+
+PC-en har en matt, sort plastoverflate, som dessverre ikke hindrer den fra å ganske raskt få skjemmende merker fra fettede fingre: 
+
+Byggekvaliteten virker å være gjennomsnittlig god, tastaturplaten har litt svikt på midten, men tastene er responsive og ikke minst støysvake. 
+
+Pekeplaten har en heltrukken knapp med to trykkpunkter for venstre og høyre museklikk, den fungerer også tilfredsstillende. 
+Over tastaturet finner du kun bryter for trådløst nettverk, knapp for å veksle mellom ytelsesprofiler, samt av/på-knapp. 
+Ytelsesprofil-knappen brukes også som av/på-knapp til Asus eget ExpressGate-operativsystem. 
+Der kan du gjøre enkle web-orienterte oppgaver, se bilder og spille musikk, men særlig imponerende synes vi ikke løsningen er. 
+
+Skjermen er passe stor i forhold til oppløsningen, mener vi, og langt bedre enn tradisjonelle minibærbare som vanligvis kun har 1024 x 600 pikslers oppløsning. 
+Til opplysning er 1366 x 768 samme oppløsning som på ni av ti 15,6-tommere, så med mindre du er svaksynt byr ikke de store maskinene på mer informasjon i skjermbildet enn denne klarer. 
+Skjermoverflaten er blank og reflekterer dermed det meste, noe som kan være et ankepunkt for mange. 
+Gevinsten er meget god kontrast og dermed bedre opplevelse - når ikke lyskilder i forgrunnen ødelegger. 
+
+Vi føler også at vi må trekke fram strømforsyningen. 
+Den er liten! 
+Vi har altfor ofte sett små og lette maskiner som har kommet med svære beist av strømforsyninger. 
+Denne får du plass til i bukselomma, om du vil. 
+
+Hva med ytelsen? 
+
+Som sagt innledningsvis har vi ikke verdens beste inntrykk av den nye E-serien APU-er fra AMD, men som du ser av grafene under er ytelsen vesentlig bedre her enn på lillebror E250. 
+Vi har også tatt med typiske netbook-prosessorer, for å illustrere forskjellen: 
+
+Men dersom vi inkluderer Intel Pentium P6100, som finnes på en rekke større bærbare i samme prisklasse, forstår vi at det ikke er snakk om noen supermaskin dette: 
+
+Grafikkytelsen sammenlignet med hva du kan forvente fra PC-er i samme prisklasse, tyder også på at det er snakk om middels ytelse: 
+
+Ytelsen er imidlertid langt bedre enn det aller meste vi har testet av minibærbare tidligere, og minnemengden gjør sitt til at dette oppleves som noe helt annet. 
+Og hvis du lurte på om den klarer å spille av videoer i full HD, er svaret et rungende JA. 
+Den klarte samtlige videoer med bravur. 
+
+Dette er en PC som kan brukes til det meste, så lenge du holder deg unna de tyngste jobbene - der tunge kalkulasjoner står sentralt - som 3D-spill, konvertering og komprimering. 
+
+Vi legger også til at PC-en er svært stillegående. 
+Det er kun unntaksvis at viften er særlig hørbar, men den blir aldri sjenerende. 
+
+Batterilevetiden er ikke så god som på de gjerrigste minibærbare, men sammenlignet med en gjennomsnittlig PC til 3-4000 kroner er tallene overbevisende. 
+Med kontinuerlig avspilling av HD-film (720P) holdt batteriet i 4 timer før det måtte kaste inn håndkledet. 
+Med minimal belastning holdt det ut i nesten 7 timer. 
+Det er litt lavere enn de 8 timene Asus oppgir, under variert bruk bør det holde mellom 5 og 6 timer. 
+
+Konklusjon 
+
+En minibærbar koster ofte mellom 2500 og 3000 kroner. 
+Denne koster litt mer, men byr på mye mer av det meste. 
+Hvis du er på utkikk etter PC i dette segmentet vil disse ekstra hundrelappene gi deg en langt bedre PC-opplevelse. 
+
+Det finnes kraftigere maskiner til 3500 kroner, men de er som regel langt større og tyngre. 
+Små og lette maskiner som kan matche denne på utstyr, batteri og brukeropplevelse er sjelden vare, og de koster som regel mye mer. 
+Derfor terningkast 5 til Asus Eee PC 1215B. 
+
+Og nevnte vi at Asus har 24 måneders garanti, mot de fleste konkurrentenes 12? 
+
+Asus Eee PC 1215B - 1,6GHz DC 4GB 500GB 12" 

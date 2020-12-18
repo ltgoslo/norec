@@ -1,0 +1,118 @@
+Acer Ferrari 3200
+Den har 64-bits AMD-prosessor, er knallrød og bærer Ferrari-merket. 
+Dette må da være den tøffeste bærbare PCen på markedet? 
+
+Samarbeidet mellom Acer og Ferrari på bærbar-siden er slett ikke nytt. 
+Allerede i desember i fjor testet vi modellen Ferrari 3000 - som blir lillebroren til 3200, som vi har hatt gleden av å teste den siste uken. 
+Begge er offisielle Ferrari-produkter, og bærer Ferrari-logoen både på lokket og på innsiden. 
+Både Acer og AMD er store Ferrari-sponsorer. 
+
+LES OGSÅ: 
+
+Naturligvis er kabinettet belagt med knallrød skinnende blank lakk, og på innsiden har PCen en ru sølvfarget overflate i plast. 
+Ikke for de mest konservative kanskje, men denne maskinen vekker i hvert fall oppsikt, hvor enn du går! 
+
+Vesentlig oppgradering 
+
+Kort batterilevetid og støy var egentlig de største ankepunktene mot Ferrari 3000. 
+Den nye modellen er vesentlig oppgradert på nær sagt alle områder - her er de viktigste spesifikasjonene: 
+
+AMD Athlon 64 2800+ prosessor (mobilutgaven) VIA ProSavage K8T800 brikkesett 512MB (2x256) DDR333 SDRAM (maks 1024 MB x 2) 80 GB harddisk, 4200 rpm Multiformat slot-in DVD-brenner for alle formater inkl DVD-RAM (2,4x +R, 4x -R, og 2x -RAM) - men ikke dual layer ATI Mobility Radeon 9700 grafikk, 128 MB minne 15" TFT-skjerm, 1400 x 1050 punkter (SXGA+) 
+VGA og TV-utgang 4 stk USB2.0-porter Parallellport Firewire-port IR-port Bluetooth-adapter 54 Mbit trådløst nettverk, 802.11G 10/100 Mbit nettverk 56 Kbit modem PCMCIA-utvidelsesplass Smartkortleser (for adgangskontroll) Kortleser for SD/MMC/SM/MS i front line-in, mic og øretelefonutgang 330 (B) x 272 (D) x 31 (H) mm 3,1 kg 
+
+Flere tekniske data 
+
+Se mange flere bilder av Acer Ferrari 
+
+PCen leveres enten med Windows XP Home edition eller Professional edition (sistnevnte gjør PCen noen hundrelapper dyrere). 
+I tillegg følger det med et gjenopprettingsprogram, program for avspilling av DVD-filmer og brenning av DVD-plater, og en demoversjon av Norton Antivirus. 
+
+Best utstyrt 
+
+Spesifikasjonslisten er usedvanlig lang, og vitner om en meget velutstyrt PC. 
+Totalt sett er det utvilsomt den aller best utstyrte PCen vi har hatt hendene på i år. 
+Vi merker oss spesielt valget av prosessor, interessen rundt 64-bits prosessorene fra AMD er meget stor, og dette er den første PCen med mobilversjonen vi har testet. 
+Videre merker vi oss den spesielle DVD-brenneren som støtter brenning av alle formater, samt alle USB-portene, Bluetooth, linjeinngang, kraftig grafikk, minnekortleseren - PUH! 
+Her har Acer stort sett valgt fra øverste hylle! 
+
+Man kan selvsagt stille seg spørsmålet om hvorfor PCen er utstyrt med parallellport - men siden det ikke har gått på bekostning av andre tilkoblinger, kan vi ikke annet enn å gi Acer honnør for å sikre bakoverkompatibiliteten for dem som fortsatt har en skriver eller lignende som benytter den tilårskomne parallellporten. 
+
+DVD-brenneren er treg på brenning av DVD+R(W)-plater, og harddisken matcher ikke de raskeste - i hvert fall ikke på papiret. 
+Vi ser også at PCen er ca 200 gram tyngre enn forgjengeren, og for tung til at de mest mobile av oss blir fornøyd. 
+Foruten dette er det lite å sette fingeren på når det gjelder spesifikasjonene. 
+
+Gjennomtenkt 
+
+Utformingsmessig er dette en PC helt etter vår smak. 
+Tastaturet bøyer lett ergonomisk oppover på sidene, og er meget behagelig å skrive på, kanskje spesielt for alle som behersker touch-metoden. 
+Tilkoblingspunkter og lesere har stort sett en god og logisk plassering, men en USB-port eller to bak eller på høyresiden hadde ikke skadet - med tanke på tilkobling av mus eller tastatur (sistnevnte har som regel kabel på høyre side). 
+Her er alle fire portene plassert på venstre side. 
+
+Over tastaturet sitter av/på-knappen, samt fire hurtigknapper som programmeres ved hjelp av medfølgende programvare. 
+Heldigvis har PCen dedikerte knapper for å skru av/på bluetooth og WLAN-støtte. 
+En egen volumknapp hadde vært prikken over i'en, men den glimrer med sitt fravær. 
+
+Pekeplaten har integrert skrollefunksjonalitet, du kan også bruke den runde knappen med fire akser som er plassert mellom venstre og høyre museknapp. 
+Da hopper du noen cm vertikalt (eller horisontalt), ideelt for eksempel når du leser lange dokumenter. 
+
+Skuff-løs DVD 
+
+DVD-brenneren er en såkalt slot-in type, dvs den har ikke skuff, du dytter bare platen inn direkte. 
+Det har vi sansen for - en skuff kan være meget utsatt på bærbare PCer. 
+Dessuten er det lekkert! 
+
+Skjermen er middels lyssterk og har en høy oppløsning. 
+Noen synes SXGA+ er for høy, personlig synes vi det er perfekt for en 15" skjerm. 
+Lokket som beskytter den er av plast, og bildet blir raskt forstyrret når man trykker på det. 
+I følge Acer har PCen gjennomgått en rekke kvalitetstester som inkluderer både sjokk- og vekt/trykktester, men vi ville uansett ikke lagt tunge gjenstander på dette lokket, og også vært forsiktig med å presse PCen inn mellom skolebøkene i sekken. 
+
+Mye stillere 
+
+Ferrari 3000 støyet ganske mye, og ble i tillegg svært varm. 
+Det var derfor meget hyggelig å oppdage at 3200 - som er en mye kraftigere PC, hadde et langt lavere støynivå. 
+Under "normal" aktivitet, for eksempel surfing på nettet, tekstbehandling og lignende, vil viften knapt gå i det hele tatt. 
+Under heftigere oppgaver, som grafikkintensive og prosessorkrevende programmer og spill, starter viften temmelig fort. 
+Den har to rotasjonsnivåer - det laveste opplevde vi slett ikke som sjenerende. 
+Spiller du de siste 3D-spillene kommer den garantert til å gå på høyeste nivå, og da får du nok sikkert lyst til å skru opp volumet eller bruke øretelefoner. 
+Viftene stopper raskt når de tunge oppgavene er fullført, så totalt sett er vi godt fornøyd. 
+
+Av de PCene vi har testet så langt i år, er det kun Centrinoer som i noen tilfeller har støyet mindre enn denne PCen. 
+Men Ferrari 3200 blir temmelig varm, så vi foretrekker å ha den på bordet framfor i fanget. 
+
+Ytelse 
+
+Men hvordan yter PCen mot Pentium M/Centrino-PCer? 
+Dette var vi spesielt interreserte i, og vi måtte kjøre noen ytelsestester for å oppdage eventuelle forskjeller. 
+I PCMark 2004 fikk vi måltallet 3352 på CPU-testene. 
+Det er litt bedre enn Pentim M 1,7 GHz, og med tanke på at klokkehastigheten på AMD-prosessoren er 1,8 GHz, kan vi antyde at de yter temmelig likt pr MHz, og altså langt bedre enn Pentium 4 på samme klokkehastighet. 
+
+Det er samtidig viktig å understreke at testprogrammene utelukkende består av 32-bits kode. 
+Prosessoren i denne PCen er optimalisert for 64-bits kode, eller "neste generasjons" programmer - og har i så måte en fordel kontra Pentium M-prosessoren. 
+
+Når det gjelder grafikk- og minneytelse, er resultatene fra testene helt i toppen sammenlignet med selv de raskeste Pentium M-baserte PCene vi har testet. 
+Joda, vi har sett bærbare PCer med raskere harddisk, og hadde nok valgt en disk med 5.400 eller 7.200 rpm for å unngå at denne blir en flaskehals. 
+Tallene fra diskytelsestesten er derimot slett ikke verst med tanke på at dette er en 4.200 rpm-disk. 
+
+Mobilversjonen av AMD Athlon 64 inneholder avanserte strømspareinstruksjoner, men i forhold til Pentim M kan det virke som den har lite å stille opp med. 
+8-cellers batteriet på denne PCen holdt ut i 2 timer og 36 minutter i vår test - da hadde vi på forhånd sørget for at både WLAN og bluetooth var avskrudd. 
+De fleste Centrinoene vi har testet har holdt ut i minst en time lenger. 
+Men én ting er uansett positivt; batteriet holdt ut i 6 minutter lenger enn Acer antyder i sin markedsføring :-) 
+
+Konklusjon 
+
+All ære til Acer for en real oppgradering, og et vellykket produkt i nær sagt alle bauger og kanter. 
+Denne PCen har ikke bare et flott utseende, kjøpere kan også skryte av egenskapene uten å måtte lyve (men bør huske å ta med strømforsyningen, den kan de fort få bruk for). 
+Gode egenskaper skulle man uansett også kunne forvente; 21.000 kroner er tross alt mye penger. 
+Vi tror derimot at de fleste som velger denne PCen er mer opptatt av design enn at det alltid må være noe igjen i lommeboka. 
+
+Vi setter derimot et minus ved garantien - kun 1 år synes vi er alt for svakt. 
+Dette er tross alt en PC som har gjennomgått (og bestått?) en rekke påkjenningstester. 
+Til sammenligning har for eksempel Fujitsu-Siemens 3 års garanti på sine bærbare PC-modeller. 
+
+PCen ble lånt fra Acer Norge. 
+
+Flere bilder av Acer Ferrari 
+
+Du kan for øvrig sammenligne alle PCene vi har testet så langt i år ved å følge denne lenken. 
+
+Mer nyttig fra DinSide Data: 

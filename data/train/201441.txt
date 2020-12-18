@@ -1,0 +1,123 @@
+Samsung Series 7 700Z7C-S01
+Samsung fortsetter å imponere, denne gangen med en meget fin skrivebordserstatter med 17,3" skjerm. 
+
+Det blir stadig vanligere å se bærbare PC-er med høyoppløste skjermer, og lanseringen av nye MacBook Pro har ikke akkurat dempet trykket på PC-produsentene om å levere PC-er med skjermer med full HD-oppløsning. 
+
+Velger du en PC til 7-8000 kroner i dag, vil den ofte ha samme skjermoppløsning som en 24-tommer på skrivebordet, enten du velger en bærbar med 15,6 eller 17,3-tommer skjerm. 
+Det betyr at arbeidsflaten har plass til like mye, bare i mindre format. 
+
+Dette gjør det aktuelt for enda flere å forkaste stasjonære PC-er og stasjonære PC-skjermer, til fordel for en kompakt og bærbar flytting. 
+Og når den bærbare ellers er så godt spesifisert som Samsungs oppdaterte Chronos 7-serie, ja, da er det i sannhet mange grunner til å konvertere. 
+
+Her er en kjapp gjennomgang av de viktigste spesifikasjonene: 
+
+17,3-tommer LED-baklyst, matt skjerm, 1920 x 1080 piksler Intel Core i7 3615QM 8 GB RAM (maks 8) Nvidia GT 650 grafikkort, 2 GB DDR5 1000 GB harddisk med 8 GB SSD-minne Kombinert Blu-ray-leser og DVD-brenner VGA, HDMI og DisplayPort-utganger for tilkobling til eksterne skjermer 4 x USB-porter (2 stk USB 2.0, 2 stk USB 3.0 Trådløst nett (a/b/g/n) Kablet nett (1000 Gb) 
+Bluetooth 4.0 1,3 Mpix webkamera Minnekortleser for alle typer SD-kort Leveres med Windows 7 Home Premium 64 bit Størrelse: 40,5 x 26,2 x 2,54 cm Vekt: 
+3 kg Pris: fra ca 12 000 kr 
+
+I tillegg har PC-en 2.1-høyttalere fra JBL (ja, med en liten subwoofer), og det er også verdt å merke seg at PC-en er utstyrt med et kraftig 8-cellers batteri. 
+
+Fin design 
+
+Alt er pakket inn i en størrelsesmessig relativt beskjeden PC, blant annet takket være at rammen rundt skjermen er temmelig smal. 
+Vekten på nøyaktig 3 kg er heller ikke særlig mye for en 17-tommer, Toshiba har riktig nok modeller på 2,7 kg, men de fleste er tyngre. 
+3 kg er forresten samme vekt som MacBook Pro med 17-tommer skjerm, og vi tviler ikke på at Samsung har sett til Apple under utviklingen av denne PC-en, for visse likhetstrekk er det. 
+At Samsung gir langt mer for pengene, er det imidlertid ingen tvil om hos undertegnede. 
+
+Lokket er av børstet metall, og er nærmest immunt mot fingeravtrykk. 
+Det samme gjelder rundt tastaturet, men undersiden er av plast. 
+Kvalitetsfølelsen er likevel god, maskinen virker absolutt tight og solid. 
+
+Alle tilkoblingene sitter på sidene, mens kortleseren sitter i front. 
+
+Skjermen er høyoppløst, lyssterk og skarp, i samme klasse som den du finner på nye 9-serien Ultrabooks. 
+Det betyr gode innsynsvinkler, også ovenfra uten at bildet mister kontrast eller blir invertert. 
+
+Tastaturet er stort og godt, og av chicklet-typen med isolerte taster. 
+Det er fast og responsivt, og avgir svært lite støy under skriving. 
+Det har også baklys som kan aktiveres når det er mørkt i rommet. 
+
+Under tastaturet sitter en stor, multiberøringsfølsom pekeplate. 
+Den har integrerte knapper. 
+Det kan være litt uvant i starten, blant annet for deg som liker å bruke to hender, og for eksempel liker å hvile pekefingeren på venstre museknapp; det kan oppfattes som multiberøring når du samtidig bruker en anne finger til å navigere musepekeren. 
+
+Platen er også så stor at vi ved flere anledninger kom borti den under skriving på tastaturet, og så følsom at det førte til at pekeren flyttet på seg. 
+Men noe stort problem oppfattet vi dette ikke som. 
+
+JBL-høyttalere 
+
+Høyttalerne sitter mellom tastaturet og skjermen, og er levert av JBL. 
+De er akkompagnert av en innebygd subwoofer på undersiden av PC-en. 
+Lyden oppleves som bedre enn på mange av konkurrentes maskiner, takket være bedre bass og fin diskant. 
+Det er helt greit til bakgrunnsmusikk og til enmanns-kino, men forvent ikke underverker. 
+
+På undersiden ser vi subwooferen og et lite lokk som kun dekker over RAM-brikkene. 
+
+Merk at kun én RAM-brikke kan byttes ut, og det er ikke mulighet for å utstyre denne PC-en med mer enn 8 GB RAM. 
+Litt rart, for vi tror avanserte brukere som velger PC i denne prisklassen, ønsker denne muligheten (selv om de færreste vil ha behov for mer enn 8 GB i PC-ens levetid). 
+
+Skal du ha tilgang til harddisken, må du skru av hele bunnplaten. 
+Denne er for øvrig meget romslig, med 1000 GB kapasitet. 
+Maskinen har også en innebygd SSD på 8 GB, som sørger for at programmer du bruker ofte, starter raskere. 
+Men det er helt klart at harddisken er med på å dra ned totalytelsen her, og at å oppgradere til en ren SSD vil være en meget smart investering for deg som er opptatt av at alt fra oppstart til veksling mellom programmer og jobbing/kopiering av store brukerfiler skal gå kjappest mulig. 
+
+Det er også en viss suselyd fra en mekanisk disk som vil bli borte hvis PC-en utstyres med SSD. 
+Den er imidlertid langt fra plagsom, det er heller ikke systemviftene - som bare starter under tung belastning. 
+Under ytelsestestene våre startet de i korte perioder, for så å stoppe så snart belastningen avtok. 
+
+Ytelsesmålinger 
+
+Dette bringer oss over på neste kapittel, nemlig ytelse. 
+PC-en starter på 35 sekunder, fra helt avskrudd til du kan begynne å navigere i Windows. 
+Til sammenligning startet den glimrende nye ultrabooken Series 9 fra Samsung på 12 sekunder, da med SSD. 
+Likevel er 35 sekunder temmelig raskt for å være harddisk, og det sier litt. 
+
+Målingene våre viser en lese- og skrivehastighet på rundt 100 MB pr sekund. 
+Det er raskt, det er bare det at SSD er så mye, mye raskere. 
+
+Windows Opplevelsesindeks gir oss følgende indikasjoner, og vi minner om at skalaen her går fra 1.0 (tregest) til 7,9 (raskest): 
+
+Prosessor: 7,6 Minne (RAM): 
+7,9 Grafikk: 
+7,1 Spillgrafikk: 
+7,1 Primær harddisk: 
+5,9 
+
+Passmark PerformanceTest gir oss totalscore på 1953, som kan virke litt lavt. 
+Det hadde nok vært betydelig høyere med SSD istedet for harddisk. 
+I diagrammet under har vi sammenlignet prosessorytelsen mot hva du kan forvente av andre PC-er i samme prisklasse, og som du ser er dette en skikkelig kraftig løsning: 
+
+Ifølge FutureMarks gjennomsnittsmålinger det bare tre prosessorer for bærbare PC-er som byr på bedre ytelse akkurat nå. 
+
+Grafikkortet ligger i mellomklassen. 
+Du vil fint kunne spille nye spill uten hakking, med moderate innstillinger hva angår detaljnivå. 
+3D Mark fra FutureMark gir 2150 poeng, under har vi sammenlignet mot andre maskiner i samme prissegment: 
+
+Forvent 7 timer under normal bruk 
+
+Hva så med batteritiden? 
+PC-en er satt opp til å svitsje til den integrerte Intel HD 4000-grafikken når den går på batteridrift, og takket være det et stort batteri kan du se fram til mange timer mellom hver gang du må sette i støpselet. 
+
+Under minimal belastning, kun tilkoblet trådløst nett og ellers med standardinnstillinger, holdt batteriet i 8 timer og 12 minutter. 
+Ved kontinuerlig videoavspilling holdt det ut i 5 timer og 6 minutter. 
+I praksis vil du kunne oppleve en batteritid på rundt 7 timer med variert bruk, og for en så kraftig maskin er det et meget godt resultat. 
+
+Konklusjon 
+
+Nok en gang har Samsung levert en PC som overbeviser på nær sagt alle plan, vesentlig oppgradert fra første generasjon Series 7, og med samme, gode byggekvalitet. 
+Skjermen er blant de beste i klassen, og prosessorytelsen ligger også helt i toppen sammenlignet med det meste annet akkurat nå. 
+Batteritiden er også vanskelig å matche, sett i lys av hvilken kraftig maskin dette er. 
+
+Så kommer spørsmålet: 
+Er 12 000 kroner mye for en 17,3-tommer PC i juni 2012, uten SSD, med medium grafikkytelse og maks 8 GB RAM? 
+Tja, Asus N76VZ er et par tusenlapper billigere og byr på mye av det samme. 
+Den er imidlertid både tyngre og tjukkere, har ikke Blu-ray, og batteriet er svakere. 
+For øvrig er det ingen eller få som matcher Samsung 700Z7C-S01 sine spesifikasjoner, selv til 12 000 kroner. 
+
+Maskinen byr på mye high-end og meget gode brukeropplevelser. 
+Soleklar anbefaling fra oss altså, til alle som ser etter en erstatning for den stasjonære PC-en. 
+Sjekk uansett oppsummeringsboksen under før du bestemmer deg. 
+
+Ønsker du en 15,6" med omtrent samme spesifikasjoner, sjekk Asus N56VZ 
+
+Samsung 700Z7C-S01SE 

@@ -1,0 +1,41 @@
+D-Link DWA-182 AC-adapter
+AC-adapter kan bety strømforsyning, men her snakker vi om raskt trådløst nett! 
+
+Hvis du ikke er fornøyd med hastigheten og dekningen på ditt trådløse nett, er det flere måter å løse dette på. 
+En ting er plassering av ruteren, gjemmer du den på gulvet bak sofaen eller i et skap får du skylde deg selv. 
+Men hvis det er topp ytelse du vil ha må du over på den nyeste generasjonen trådløst nett 802.11ac. 
+
+Vi har allerede testet flere av de første ruterne som dukket opp i fjor, og ytelsen er langt høyere enn det tidligere standarder som 802.11n klarer å oppnå. 
+Problemet er at det ikke har vært noe særlig utvalg av klienter, slik at man har måttet sette opp to rutere eller en ruter og en nettverksbro som begge støttet den nye 802.11ac standarden. 
+
+Vi har også testet en klient for stasjonær PC. 
+
+USB-pluggen som løser biffen 
+
+Men det mest praktiske som fungerer for både stasjonære og bærbare er en USB-enhet, og D-Link tilbyr to slike. 
+Vi har testet den største, som kan monteres rett i maskinen eller på en medfølgende holder med USB-kabel. 
+
+Denne enheten støtter også alle eldre trådløse standarder som 802.11a/b/g/n, og kjører både på 2,4 GHz og 5 GHz. 
+
+Etter installasjon fra CD eller via eksisterende nettverkstilkobling fra Microsoft Update er det bare å ta enheten i bruk. 
+Det innebygde trådløse nettverkskortet i den bærbare deaktiverer du i kontrollpanelet. 
+
+Mye bedre ytelse? 
+
+Vi testet på vår standard referanseplass ved spisebordet to etasjer under hemsen der ruteren står. 
+For anledningen testet vi med en Asus RT-AC66U som vi har testet tidligere. 
+
+Vi sammenlignet ytelsen med det avanserte innebygde nettverkskortet Intel Centrino Ultimate-N 6300. 
+Selv om dette bare jobber med 802.11n standarden har det tre antenner og støtter tre datastrømmer, og regnes for å være det optimale miniPCIe nettverkskortet i denne standarden. 
+
+Resultatet er ikke vanskelig å tyde. 
+
+Selv om DWA-182 bare støtter to datastrømmer er den mellom halvannen og dobbelt så rask som 802.11n med tre datastrømmer. 
+
+Konklusjon 
+
+D-Link DWA-182 gir deg vesentlig bedre trådløs hastighet og dekning, og fjerner flaskehalser ved streaming av HD-video, samt overføring av innhold til og fra maskinen på det lokale nettverket. 
+
+Størrelsen gjør den best egnet til PC-er - både stasjonære og bærbare - som i hovedsak står på ett sted og ikke flyttes rundt til stadighet. 
+
+D-Link DWA-182 

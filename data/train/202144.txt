@@ -1,0 +1,128 @@
+LG KE500
+Denne skyvemobilen fra LG er så dårlig at vi egentlig lurer på hvor det gikk galt... 
+
+Sør-koreanske LG har de siste årene lagd en rekke kvalitetsprodukter innen forbrukerelektronikk, blant annet har de vært på hugget med gode bærbare datamaskiner. 
+I det siste året har både W1 og A1 Express Dual har imponert oss stort. 
+
+Når det gjelder mobiltelefoner er derimot LG noe vi relativt sjelden ser på testbenken, så det var med en viss spenning at KE500 ble pakket opp og tatt i bruk. 
+Med 160.000 ansatte kunne vel ikke LG lage et direkte dårlig produkt? 
+
+Gjett om vi hadde litt av en overraskelse i vente. 
+
+Viktige data KE500: 
+
+Tri-band GSM/GPRS/EDGE 2" skjerm med 262.144 farger og 176 x 220 piksler 60 MB internminne, plass for microSD-kort (medfølger ikke) 2 Mp kamera (1600 x 1200 piksler) 
+Radio og støtte for MP3, AAC, AAC+ Overføring via blåtann og USB Tale/standbytid: opp til 4,5/200 timer Størrelse: 47,0 x 97,0 x 14,9 mm, 90 gram Ca. pris: 1.700,- inkl. mva. 
+(uten abonnement) 
+
+Ifølge LGs hjemmeside har KE500 "en sofistikert, minimalistisk look som trekker blikkene til det sølvglinsende kabinettet." 
+Og det stemmer for så vidt, KE500 ser unektelig fin ut på bilder. 
+Men la deg ikke narre - her er alt som glimrer kun plastikk. 
+
+La oss gå litt mer grundig til verks. 
+Telefonen er altså kledd i sølvblank plast og har et display som er så blankt at du kan bruke den som nødspeil når lyset på den to tommer store skjermen er slått av. 
+Under normal bruk er den lyssterk og klar, men oppløsningen på 176 x 220 piksler er litt mindre enn det som i dag er vanlig på en to tommers skjerm - noe som igjen går ut over skarphet og kontrast. 
+Grensesnittet er enkelt å sette seg inn i, om enn litt kjedelig - og navigering i menyene går relativt kjapt. 
+
+Ved å skyve telefonen åpen tar du imot samtaler og/eller låser opp tastelåsen. 
+I tillegg kommer selvfølgelig nummertastene til syne, og kameraet kan bare brukes når telefonen er åpnet. 
+
+Nummertastene er store, men også relativt glatte og litt opphøyde på midten - noe som lett gir oss følelsen at fingeren vil gli av tasten. 
+Navigasjonstastene rett under skjermen er greie nok, men sirkelen i midten litt liten. 
+Har du litt store fingre er det da lett å trykke på en av de utenforliggende tastene når du piler til høyre eller venstre. 
+
+Forresten, når det gjelder skyvemekanismen har den i praksis fungert upåklagelig, men har heller ikke brukt mange dagene på å bli litt slarkete. 
+Hvorvidt dette er en trend som med tiden kan bli et problem er vi ikke sikker på, men noe direkte godt tegn pleier det ikke å være. 
+
+Andre knapper og tilkoblinger finner du på telefonens sider: på venstre har vi taster som styrer volum opp og ned. 
+
+På høyre side er av/på-tasten og snarvei til kameraet plassert ved siden av hverandre, og er i tillegg like store og likt utformet. 
+Da kommer det kanskje ikke som noen overraskelse at vi ved et par anledninger skrudde av telefonen i stedet for å starte kameraet. 
+
+Med telefonen følger lader, USB-kabel, handsfree og øreplugger - som deler samme proprietære port, så nåde deg om du mister noen av kablene. 
+Mobilen lader seg også når den er tilkoblet datamaskinen over USB, men da virker ikke telefonen som telefon - den er kun en flyttbar disk i utforsker. 
+
+Og til slutt kan vi ikke unngå å nevne den medfølgende synkroniseringsprogramvaren - som interessant nok aldri fikk til å fungere - verken i XP eller Vista. 
+Filer fikk vi heldigvis flyttet over ettersom den jo fungerer som flyttbar disk, men noe forsøk på synkronisering var det bare å glemme. 
+
+Frem til nå altså er det mye nedslående ved KE500. 
+
+Musikk - ikke optimalt 
+
+Musikkspilleren er er selvfølgelig et kapittel for seg, og for denne telefonen er det heller ikke noe spesielt oppløftende kapittel. 
+For det første må musikkfilene ligge i Sounds-katalogen (selv om bruksanvisningen påstår noe annet). 
+Spilleren har ellers ingen oversikt og lar deg kun spille av det som ligger i en katalog eller etter egen spilleliste. 
+Lyden er verken fantastisk eller spesielt dårlig - men god nok såfremt du bytter ut de medfølgende ørepluggene som både er ubehagelige og virkelig gir telefonen et dytt nedover på den musikalske rangstigen. 
+
+Siden tilkoblingen kun passer med det tilhørende handsfree-settet vil det glede deg å høre at det er todelt, slik at du kan koble til en 3,5 mm minijack. 
+Noe vi altså anbefaler på det varmeste dersom du har tenkt å høre musikk - men merk at et blåtann-hodesett også kan være et alternativ. 
+
+KE500 har også radio, men denne er nokså svak og gir dårlige forhold selv midt i byen. 
+Å bruke med mer eller mindre konstant skurring er altså noe du ikke orker i lengden. 
+Du kan heller ikke navigere rundt i telefonen når du lytter til radio, noe du merkelig nok kan hvis du bruker musikkspilleren. 
+
+Hva som videre ikke er så bra på KE500 er at musikk/radiodelen kun har fem forskjellige volumnivåer. 
+Og under avspilling opplevde vi flere ganger at telefonens vibrator slo inn uten noen opplagt grunn. 
+
+Internminnet takler 60 megabyte med bilder, film og musikk, men har altså også plass til microSD-kort. 
+Noe du må kjøpe i tillegg. 
+
+Bilder og film 
+
+For foto har SE500 gir kameraet på to megapiksler en oppløsning på 1600 x 1200 piksler. 
+Kameraet har ikke autofokus, men en enslig LED gir deg muligheten til å skryte på deg "blits". 
+
+Trykker og holder du inne snarveien på telefonens høyre side (pass på at du ikke trykker av-tasten ved siden av) vil kameraet starte opp. 
+Snarveien dobler som utløser, men å ta bilder med telefonen "liggende" er ikke direkte problemfritt. 
+For det første er volumknappene plassert direkte på den motsatte siden, slik at det er lett å komme borti disse i stedet når du skal knipse et bilde. 
+For det andre vil dette mot normalt gi deg stående bilder, så for å ta normale liggende bilder må telefonen brukes stående... 
+
+Du kan også starte kameraet fra menyen. 
+Vil du ta opp video må du innom menyen, du kan nemlig ikke bytte mellom foto og video direkte. 
+
+Når det gjelder kvalitet har telefonen normal, skarp og superskarp - og det finnes ellers instillinger for oppløsning, eksponeriongskompensasjon, effekter, hvitbalanse og selvutløser. 
+Du kan også ta flere bilder i serie, men dette bare dersom du velger en av de laveste oppløsningene. 
+
+Kameraet er ikke noen erstatning for lommekameraet, og har spesielt problemer med lang lukkertid, å balansere lyset i scener med mye himmel, samt detaljer i mørke partier. 
+
+Eksempler på bilder har du her, alle tatt med superskarp og uten å kompensere for eksponeringen: 
+
+Filme kan du også gjøre (i beskjedne 177 x 144 piksler), og resultatet kan du se under. 
+Klippet er tatt direkte ut av telefonen og ikke konvertert på noen måte. 
+
+Får du ikke spilt av klippet kan du for eksempel bruke GOM Player. 
+
+Kommunikasjon 
+
+LG KE 500 har trebånds GSM, GPRS med EDGE, kan brukes til å ringe med (selv om talekvaliteten heller ikke er superduper), SMS, MMS og talemeldinger. 
+Noe også langt billigere telefoner gjør minst like bra. 
+Altså ingen 3G, som vi for eksempel finner på Nokia 6151, som ligger på omtrent samme pris. 
+
+Enheten har også nettleser for WAP og WWW, men lykke til dersom du forsøker deg på sistnevnte - vi hadde en tendens til enten ikke komme inn på sidene eller "klikke" på lenker vi slett ikke hadde intensjoner om å gå inn på. 
+
+Ellers har telefonen - som på de fleste andre nye mobiler - kalenderfunksjon og småapplikasjoner sol alarm, taleopptaker, stoppeklokke, kalkulator, enhetskonvertering og verdensur. 
+
+Konklusjon 
+
+Som moderne testjournalister har vi etter hvert innfunnet oss med at de aller fleste produsenter i dag ikke slipper et direkte dårlig produkt på markedet. 
+Det er også derfor du som regel ikke ser virkelig lave terningkast eller karakterer i pressen. 
+
+Men en sjelden gang iblant er det visse ting som glipper, og i våre øyne er KE500 en av de glippene. 
+Det er svært lite direkte positivt vi klarer å dra frem etter denne testen, men noe er det jo. 
+Den er relativt liten, har en småkul design og fungerer knirkefritt til telefoni og meldinger. 
+Musikkspilleren gjør også en anstendig jobb hvis vi bruker volumhjulet på handsfree-enheten (ellers har den jo bare fem trinn) og egne hodetelefoner. 
+
+Men når vi så kommer til listen over negative aspekter begynner det å balle på seg. 
+Knotete og dårlig plasserte taster, kjedelig oppløsning og dertil menyer, ikke-fungerende programvare, proprietær tilkoblingsport, tvilsom byggekvalitet, dårlig radiodel, ditto medfølgende øreplugger og et kamera som sliter i litt for mange situasjoner. 
+Batterilevetiden er heller ikke spesielt bra, men siden den praktiske funksjonaliteten begrenser seg kraftig blir det kanskje ikke så galt likevel? 
+
+Vår dom er uansett knallhard, og priset til over 1.600 kroner fortjener ikke denne telefonen mer enn en toer på vår terning. 
+
+Er du opptatt av design bør du heller sjekke ut Nokia 6300, som koster et par hundrelapper mer, om ikke spar en tusenlapp og plukk opp Chess X-ONE. 
+Den nevnte Nokia 6151 er også et alternativ. 
+
+Andre mobiler finner du i vår Mobilvelger. 
+Forvirret over ord og uttrykk? 
+Sjekk vår lille mobilguide. 
+
+Mobiltesten er et samarbeidsprosjekt mellom nettstedene DinSide Data, ITavisen og Dingz.no 

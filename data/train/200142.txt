@@ -1,0 +1,63 @@
+BenQ DW800A DVD+RW
+Det dukker fremdeles opp brennere som ikke er muliti-standard. 
+Vi har testet BenQ sin nyeste brenner, som i utgangspunktet bare støtter DVD+R/RW, men som til gjengjeld er lynrask! 
+Og vil du brenne -R, så finnes det faktisk muligheter for det også. 
+
+Nå har også BenQ kommet med en ny DVD-brenner, og de har i utgangspunktet satset på +R/RW formatet. 
+Etter som DVD-spillere selges i stadig større antall, så er det en stadig synkende andel av DVD-maskiner som ikke klarer å lese DVD+R eller +RW. 
+Det er bare en del av de eldste DVD-spillerne som har problemer med dette formatet, og disse har ikke vært i salg på lenge. 
+
+LES OGSÅ: 
+
+Derfor har BenQ tatt som utgangspunkt at det er tilstrekkelig med å støtte +R/RW. 
+Skulle det likevel være behov for støtte for -R/RW, så finnes det en alternativ firmware som kan lastes ned. 
+Denne er imidlertid ikke gratis, den koster 10 dollar og er sperret for å gjelde 1 installasjon. 
+Grunnen til dette er at alle fabrikantene avkreves betaling (royalty) for å støtte DVD-R/RW-formatet, og dette må dekkes inn av sluttbrukeren. 
+Ved å gjøre den utvidete støtten til en valgmulighet, sparer du 10 dollar i forhold til hva brenneren ellers ville ha kostet. 
+
+Vi har foreløpig ikke lastet ned denne firmwaren, men bare testet brenneren slik den leveres. 
+Vi kommer muligens tilbake til dette. 
+
+Lynrask 
+
+Denne gangen gikk vi rett på testing av DVD+R med 8x plater, og registrerte fort at dette gikk unna. 
+Den endte opp med 7:42 på 4 GB, og det er ny rekord! 
+Plextor klarte dette på 7:59 og ble dermed detronisert som Den Aller Raskeste DVD-brenneren. 
+
+2 GB ble brent på 4:23, men her var faktisk Plextor ørlite grann raskere med 4:16. 
+
+Dette var altså med 8x plater, og Plextor presterte sine imponerende resultater med vanlige 4x plater. 
+Hva ville BenQ DW800A stille opp med når den ble fôret med 4x plater. 
+
+Den klarte nøyaktig de samme tidene! 
+
+2 GB på DVD+RW ble brent på 6:53, som er en andre plass etter Nec ND-2500 på 6:32. 
+Her klarte ikke Plextor bedre enn 7:56 
+
+CD brennes med 24x og ble gjort unna på 3:41, som er midt på treet. 
+
+Ripping av musikk derimot, kom i mål på 2:31, nøyaktig det samme som Plextor. 
+Nok en topplassering altså. 
+
+Programvare 
+
+Vi testet retailutgaven, og programvaren som følger med dekker det meste. 
+Der finner du verdens antagelig enkleste DVD-brenneprogram - Qvideo. 
+Det brenner fra DV-kamera rett på DVD+R/RW. 
+Du bare kobler til DV-kameraet, velger stasjonsbokstav som brenneren har fått, f.eks. D: setter i gang avspilling på kameraet og trykker på REC-knappen. 
+Så er det bare å trykke Stop når du er ferdig. 
+
+Vil du redigere video før du brenner den på DVD, kommer det med en versjon av WinDVD Creator som lar deg klippe, lage overganger, titler osv. 
+
+For brenning av data og musikk leveres Sonic Record Now. 
+
+Konklusjon 
+
+Hvis det er en DVD+R/RW brenner du først og fremst er ute etter, så er BenQ DW800A en av de aller raskeste akkurat nå. 
+I tillegg har du muligheten til å oppgradere den med ny firmware for utvidet støtte av formater. 
+
+Programvaren er også helt kurant, og dekker i utgangspunktet de fleste behov for hjemmebrukeren. 
+
+Alt i alt en DVD-brenner vi var svært fornøyd med! 
+
+Mer nyttig fra DinSide Data: 

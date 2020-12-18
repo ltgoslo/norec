@@ -1,0 +1,62 @@
+Seagate NASHDD 4TB 
+
+Harddisker spesielt laget for bruk i NAS er produsentenes nye satsing. 
+Vi har testet Seagates alternativ. 
+
+Sammenlignet med SSD er harddisker fremdeles helt overlegne når det gjelder kapasitet i forhold til pris, og hastigheten er mer enn god nok til svært mange bruksområder. 
+
+Derfor satser harddiskprodusentene nå på harddisker som er skreddersydd til felles nettverksbaserte lagringsløsninger - bedre kjent som NAS. 
+Det er en løsning som blir stadig mer utbredt også for privat bruk. 
+Her kan en lagre alle bilder, video og felles dokumenter på ett sted og alle familiemedlemmene får tilgang både hjemme og via internett. 
+
+Derfor trenger en egne NAS-disker 
+
+Det som gjør en NAS-disk forskjellig fra andre harddisker er flere ting. 
+Hovedprinsippet er det samme, men toleranser og detaljer i løsningene varierer. 
+
+En NAS-disk skal tåle å være i drift hele døgnet, året rundt. 
+Den skal lage minimalt med vibrasjoner slik at flere disker i samme kabinett ikke lager støy eller påvirker hverandre. 
+Varmeutviklingen skal også være beskjeden. 
+
+Logikken i disken skal også være optimalisert for tilgang fra flere brukere, slik at skrive- og lesehodene beveger seg så lite som mulig når data skal hentes og skrives fra og til de forskjellige sektorene på selve platene. 
+
+Seagate NAS HDD 
+
+Vi har testet Seagates NAS-disk med en kapasitet på fire terabyte. 
+Disken har fire plater og roterer med 5.900 omdreininger per minutt. 
+
+Grensesnittet er SATA 6 Gbps og hurtigbufferen er på 64 megabyte. 
+
+Lydnivået under søk er på 25dbA, det vil si bortimot lydløst, og arbeidstemperaturen ligger mellom null og 70 grader. 
+Under testing uten kabinett ble disken aldri mer enn håndvarm. 
+
+Ytelse 
+
+I nettverkslagring er det som regel ikke selve disken som er flaskehalsen. 
+Hvis man ikke har nettverksutstyr som støtter Gigabit-hastigheter vil dette gi vesentlig tregere tilgang. 
+
+En annen begrensende faktor er prosessorkraften i NAS-enheten. 
+Her har det skjedd mye de senere årene, og dagens NAS-løsninger er flere ganger kraftigere enn de tidlige modellene. 
+
+Det viktigste for en NAS-disk i praktisk bruk på hjemmebane, er å kunne levere til flere brukere uten avbrudd. 
+Ideelt sett skal det å bruke en NAS oppleves som å bruke en intern harddisk. 
+
+Båndbredden på et Gigabit nettverk er teoretisk 128 megabyte i sekunder, så alt en NAS leverer over dette er ekstra takhøyde. 
+
+Vi målte ytelsen med våre standard testprogrammer og fikk disse resultatene: 
+
+Sammenlignet med konkurrenten? 
+
+Vi ha nylig testet en tilsvarende NAS-disk fra Western Digital, hvordan kommer Seagate ut mot denne? 
+
+Ytelsen på lesing er svært lik, men skrivehastigheten er målbart lavere på Seagates disk. 
+Forskjellen vil først og fremst være merkbar på omfattende skriveoperasjoner, som for eksempel kopiering av større fil-biblioteker. 
+
+Konklusjon 
+
+Målingene gir noe sprikende resultater, som i stor grad skyldes hvordan testprogrammene og hurtigbufferen jobber sammen. 
+De ekstreme lesehastighetene som Atto måler skyldes nettopp dette, men selv om et testprogram blir "lurt" så vil også mange brukerprogrammer levere tilsvarende høye resultater når disk og buffer håndterer dataene på tilsvarende måte. 
+
+En enkelt disk leverer nok ytelse til flere samtidige brukere på et Gigabit-nettverk, både til strømming av mediedata og annen bruk. 
+
+Seagate NAS HDD ST4000VN000 64MB 4TB 

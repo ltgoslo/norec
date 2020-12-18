@@ -1,0 +1,85 @@
+Eee PC Touch
+Du kan taste på den og ta på den, men er det bra nok? 
+
+En av suksessene på PC-fronten den siste tiden er Asus' Eee PC, den første lille mini-PC-en som var billig og lett og bra nok for mange. 
+Etter denne har det kommet mange varianter, i varierende størrelser og design. 
+Felles for de aller fleste er at de er drevet av en ikke spesielt rask Intel Atom prosessor, med en tilhørende slapp grafikkprosessor. 
+Noen unntak finnes, basert på ION-platform med egen grafikkprosessor og langt bedre ytelse på mange punkter. 
+Disse har imdlertid vesentlig kortere batterilevetid. 
+
+En annen trend som er i ferd med å trenge seg på i flere sammenhenger, er berøringsfølsomme skjermer. 
+Denne teknikken kjenner vi i mange varianter, fra billettautomater til iPhone. 
+At brukeropplevelsen er svært anderledes er ingen overdrivelse. 
+
+Også på PC-er har det gjennom tidene vært gjort mange framstøt for å finne bedre måter å manøvrere i og mellom programmer på. 
+Microsoft utviklet allerede i 2002 en penn-basert støtte for berøringsstyrt Windows Tablet PC. 
+
+Det ble ikke noe særlig greie på dét. 
+På noen spesialområder har dette fungert, men da snakker vi i hovedsak om løsninger hvor man krysser av på virtuelle skjemaer. 
+Men for vanlig PC-bruk er det ingen ting som har utfordret bruk av tastatur og mus i stor skala. 
+
+Men de gir seg ikke. 
+
+Teknikken bak berøringsfølsomhet har utviklet seg mye i de senere år, og det som har skapt et gjennombrudd i mange sammenhenger er "multi-touch" - at man kan berøre flere steder på skjermen og styre flere parametre i én bevegelse. 
+Med dette har det blitt mulig å få skjermflaten til å oppføre seg som noe "fysisk", noe alle som har prøvd en iPhone eller HTC Hero skjønner etter få sekunder. 
+
+Nå jobber "alle" med å få til denne brukeropplevelsen på andre maskintyper og formater. 
+Asus er altså en av dem, med Touch-utgaven av Eee. 
+
+På benken 
+
+Maskinen er en klassisk Eee, med noen vrier. 
+Den har Atom Z520 prosessor på 1,33 GHz, 1 GB minne, skjerm på 1034 x 600, 32 GB SSD systemdisk, 802.11 b/g/n trådløst nett, Bluetooth og webkamera. 
+I tillegg får du 500GB lagringsplas på nett av ASUS. 
+
+På venstre side finner vi tilkobling for strøm, USB og kortplass til SDHC for utvidelse av intern lagring på flashminne. 
+
+På høyre side finner vi tilkobkling for lyd, USB og nettverk. 
+
+Tilobling for VGA sitter på baksiden, og vanlig kortleser sitter under fronten. 
+
+Utførelsen er i sort, blank plast, skjermen er halvblank, målene er 163 x 225 x 30 mm og vekten er på 973 gram. 
+
+Skjermen kan vris rundt og brettes ned slik at den dekker tastaturet, da blir den en flat enhet som kalles "Tablet-PC", eller notatblokk-PC på norsk. 
+
+Betjeningen skjer med fingertuppene, som ikke styrer noen muspeker, men etterlater seg en liten prikk eller annet pekesymbol når du løfter fingeren. 
+Du velger ved å trykke på et skjermobjekt, dobbelt-tapping fungerer som dobbeltklikk. 
+
+Setter du to fingre på skjermen kan du skrolle innholdet i vinduet ved å bevege fingrene opp eller ned, spriker du zoomer du inn og omvendt. 
+
+Det er ikke vanskelig å lære seg, det minner om iPhone, HTC og andre berøringsstyrte enheter. 
+
+Et pekevennlig rammeprogram med et lite knippe programmer er spesielt tilrettelagt for denne bruksmåten, men vanlig Windows 7 lar seg også styre med fingertuppene. 
+
+Altfor treg 
+
+Men det er en påtagelig forskjell: 
+Eee PC Touch er alt for treg til at berøring oppleves som en naturlig måte å bruke den på. 
+
+Det skyldes alt for svak maskinvare i PC-en, og ingen grafikkprosessor med futt. 
+Skal brukeropplevelsen være god må det føles som om man har direkte kontakt med bildet på skjermen, at det nesten er fysisk og at man flytter bildet som om det flyter under skjermoverflaten. 
+
+På Eee PC Touch går det dessverre i rykk og napp. 
+Følelsen av å ha kontakt med skjermbildet er knapt tilstede. 
+Da ryker hele konseptet. 
+
+Grei som mini-PC 
+
+Som mini-PCer den på linje med alle sine slektninger, helt grei til enkel bruk. 
+Windows 7 Home Premium kjører like greit som gamle XP - men noen racer har Atom-prosessorene aldri vært. 
+
+Det blir svært tydelig når vi sjekker Windows-opplevelsesindeks, som ligger på beskjedne 1,9. 
+Her er det prosessoren som er det svakeste ledd, deretter kommer grafikken på 2,3. 
+Minne og grafikk ligger på 4-tallet, mens diskytelsen gir hele 5,9 - ikke så rart siden vi snakker om flash og ingen roterende disk. 
+
+Konklusjon 
+
+Asus Eee Touch PC er liten og lett, og fullt brukbar som vanlig mini-PC. 
+Lagringskapasiteten er ikke stor, og nettlagringen kan ikke erstatte en intern harddisk. 
+At du kan bruke SDHC-minnekort er en fordel, og med 2 plasser får du likevel brukbar lagringsplass for endel bruksområder. 
+
+Touch-opplevelsen er sterkt hemmet av for svak maskinvare. 
+(Noen vil si at ytelsesproblemer heller skyldes for kompleks og tungdrevet programvare ...) 
+
+Prisen på maskinen ligger på i overkant 4 500 kroner i nettbutikkene. 
+For denne summen kan du kjøpe deg to Asus mini-PCer med større skjerm og mer lagringsplass på intern harddisk ... 

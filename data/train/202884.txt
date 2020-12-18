@@ -1,0 +1,58 @@
+TEST:Mini-bærbar med AMD 
+
+Packard Bell leverer sin Dot også med AMD-prosessor. 
+
+Vi testet Packard Bell Dot med Intel Atom tidligere i sommer, og fant flere gode egenskaper hos denne. 
+Formatet med 11,6-tommer skjerm gir en behagelig brukeropplevelse, også på grunn av tastaturet som er nesten like bredt som bokstavområdet på et vanlig tastatur. 
+
+Skjermen har også en oppløsning på 1366x768, en klar fordel sammenlignet med mindre minibærbare med bare 1024x600. 
+
+Du kan lese hele testen her 
+
+AMD vs Intel Atom 
+
+Men Dot leveres ikke bare med Intel Atom, du kan også få den med en AMD Athlon 64 L110 som vi har hatt på testbenken. 
+
+Modellen vi testet tidligere hadde en svakere utgave av Atom, en Z520. 
+Andre minibærbare er utstyrt med en N270, som gir halvannen gang bedre ytelse. 
+
+AMD prosessoren kjører på 1,2 GHz, har 800 MHz FSB og 512 KB L2 hurtigminne. 
+Z520 prosessoren kjører på 1,33 GHz, har 533 MHz FSB og 512 KB L2 hurtigminne 
+
+I vår test viste det seg at AMD Athlon 64 L110 trakk det lengste strået - prosessorytelsen var 1607 i PCMark 05 mot 1065 for Intel Atom Z520. 
+
+I praktisk bruk merket vi ikke dette så tydelig. 
+Dette kan skyldes mange ting, ikke minst at Vista er tyngre å dra på enn XP. 
+
+Avspilling av HD video både i 720p og 1080i var nesten like dårlig på denne som på Atom-utgaven. 
+Det var noe lengre perioder mellom hakkingen på denne, men vi vil likevel betrakte prestasjonen som ubrukelig. 
+
+Andre forskjeller 
+
+Maskinene er svært like, den største ytre forskjellen er plasseringen av tilkoblingene. 
+På Intel var det kortleser, 1 x USB, Kensington og VGA på høyre side, mens AMD-utgaven har kortleser, lyd inn/ut, 2 x USB, Kensington og VGA på høyre side. 
+
+På venstre side har Intel nettverk, strøm, 2x USB og lyd inn/ut, mens AMD har nettverk, strøm, utblåsning og 1 x USB. 
+
+En annen viktig forskjell er at Atom-utgaven hadde Windows XP installert og 1 GB minne (som er en grense satt av Microsoft for at de fremdeles skal kunne ha XP installert). 
+
+AMD-utgaven har derimot 2 GB minne, og kommer med Vista Basic installert. 
+
+Den største forskjellen 
+
+For mange er batteritiden veldig viktig på en bærbar maskin. 
+Her imponerte Intel Atom stort med hele 441 minutter på det beste, mens AMD bare holdt ut i 257 minutter. 
+Det er det samme 6-cellers batteriet som brukes i begge maskinene, og som stikker noe uelegant ut på baksiden. 
+
+Det er altså 7 timer og 21 minutter mot 4 timer og 17 minutter. 
+
+Grunnene til dette er flere. 
+At AMD-prosessoren og komponentene rundt rett og slett bruker mer strøm under bruk er én ting. 
+Noe annet er at denne AMD-prosessoren ikke har samme strømsparingsmetoder som Intel Atom. 
+
+Konklusjon 
+
+Forskjellen mellom maskinene er liten i bruk, batteritiden er dét som skiller. 
+
+Forøvrig er maskinene nette, lette og gode i bruk. 
+Standard video, surfing og vanlige kontoraktige oppgaver fungerer utmerket. 

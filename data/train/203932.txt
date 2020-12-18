@@ -1,0 +1,119 @@
+Noe av det lekreste vi har sett fra HP
+Slank og lekker ultrabook - og ikke minst: 
+Svært mye kraftigere enn forgjengeren. 
+
+HP vakte oppsikt da de lanserte andre generasjon Spectre 13 i fjor. 
+Premium-modellen var ikke bare en av verdens desidert tynneste bærbare PC-er, med sine 10,4 millimetre, men hadde også kastet alle gamle porter på båten. 
+Tilbake var det kun tre USB-C-porter; porten som mange mener vil erstatte alle andre porter på sikt. 
+
+Noe av hemmeligheten bak det relativt store kuttet i tykkelse, lå - og ligger fortsatt i skjermhengselet, som er konstruert på en måte som bygger minimalt i høyden. 
+Hengslet akkompagneres av en hydraulisk pumpe i miniatyrstørrelse som gjør det enkelt å løfte lokket med én finger. 
+
+Fortsatt like tynt og lett 
+
+For tredje generasjon Spectre 13 er fortsatt like tynn som forgjengeren, og veier fortsatt 1,1 kg (1099 gram, for å være pinlig nøyaktig). 
+Men maskinen har et litt mindre fotavtrykk, blant annet takket være at den 13,3 tommer store skjermen nå bare har en halv centimeter sørgekant på sidene. 
+Dermed har bredden krympet med rundt 1,7 cm. 
+
+Fortsatt er det nok plass i toppen til et webkamera, der enkelte av konkurrentene har flyttet dette til en mindre gunstig plassering under skjermen. 
+
+Kabinettet består av aluminium og karbon, som sist. 
+Men HP har gjort noe med lakken. 
+Der forgjengeren hadde en glinsende, kobberfarget bakstuss rett bak hengselene, har årets modell fått en mer nedtonet og matt fargevariant. 
+Det gjør at årets modell skiller seg litt mindre ut enn forgjengeren, men vi tror ikke det brede publikum vil ha noe i mot akkurat det. 
+
+Det omtalte hengslet er mer eller mindre likt som på forgjengeren, og fungerer fint, men maksimal åpningsvinkel på skjermen er litt mindre enn på mange andre modeller vi har testet det siste året. 
+Noe stort ankepunkt er det ikke, men verdt å være klar over. 
+
+Tre USB-C 
+
+Bak finner du kun en analog lydutgang (minijack), samt tre USB-C-porter, der alle tre kan brukes som ladeport (vi har testet). 
+USB-C er å regne som fremtidens USB-port, og byr på mange fordeler. 
+To av portene støtter dessuten Thunderbolt 3, og de samme støtter også USB 3.1 gen 2, som byr på dobbelt så rask overføring av data som USB 3.0 og 3.1 gen 1. 
+Kanskje ikke så viktig i dag som i morgen, når utstyret som støtter slike hastigheter blir vanlig. 
+
+Det følger med overgang fra USB-C til standard USB (3.0), samt til HDMI. 
+Trenger du overgang til kablet nettverk eller minnekortleser, fås det kjøpt som tilleggsutstyr. 
+
+På undersiden sitter et par stereohøyttalere, merket Bang & Olufsen. 
+Det er ikke ensbetydende med gromlyd, opplevelsen er etter vår oppfatning veldig midt på treet. 
+Bruk hodetelefoner eller eksterne høyttalere hvis du er opptatt av god lyd. 
+
+Fin berøringsskjerm 
+
+Skjermen er berøringsfølsom og fås med 4K og full HD-oppløsning, vårt testeksemplar har sistnevnte, og det bør være førstevalget for de fleste av oss. 
+Den er lyssterk og god, IPS-panelet sørger for godt innsyn fra sidene. 
+
+Bredde:høyde-forholdet er altså 16:9. 
+I det siste har vi sett en del eksempler på skjermer med 3:2-forhold, som gir mer plass i høyden. 
+I våre øyne er det et pluss, men enn så lenge sverger HP til klassisk 16:9. 
+
+Det blanke kontrastbelegget gjør at du må leve med en del gjenskinn, noe som kan være et ankepunkt i vanskelige lysforhold. 
+Dette er imidlertid noe som gjelder de aller fleste berøringsfølsomme skjermer. 
+
+God til lange skriveøkter 
+
+Tastaturet er i full størrelse og er meget godt i bruk. 
+Tastene er passe ru og responsive, og tastaturplaten er fast. 
+Det er også meget stillegående under bruk. 
+Tastene har også baklys som kan skrus av og på med en hurtigtast. 
+Apropos hurtigtaster; her ligger de på øverste rad - og du kan justere lyd, lys, med mer uten å holde nede Fn-tasten samtidig. 
+Det vi har stor sans for. 
+
+Det er imidlertid verdt å merke seg følgende: 
+Enter-tasten dekker kun én rad, og er derfor litt lett å bomme på i starten for deg som bruker touch-metoden. 
+Det er også verdt å merke seg at hake-symbolene ikke ligger til høyre for venstre shift-tast, men er flyttet til høyre for mellomromstasten. 
+Driver du med koding, kan dette virke bakvendt - men for de fleste andre, er det flisespikkeri. 
+
+Svært mye kraftigere ytelser 
+
+Så langt har mye vært likt fra forgjengeren, men på innsiden er det store endringer. 
+Som på årets utgave av Spectre X360, har også siste Spectre 13 blitt utstyrt med åttende generesjon Core i5/i7-prosessor fra Intel. 
+Forbedringene i ytelse er svært store, mye takket være at antall prosessorkjerner er doblet fra to til fire. 
+Maksimal klokkehastighet har også økt. 
+
+Forbedringene merkes best i apper og programmer som drar nytte av flere kjerner, samt når du kjører mange programmer og apper samtidig. 
+Her finner du en detaljert beskrivelse på hva du kan forvente når du velger en PC med åttende generasjon Core i-prosessor. 
+
+Vårt testeksemplar er utstyrt med 8 GB RAM og Core i5-8250U-prosessoren, som i Passmark PerformanceTest scorer hele 8587 poeng. 
+Til sammenligning scoret forgjengeren, da med Core i7-7500U-prosessor, 4653 poeng. 
+Vi snakker her om poengsummer som for kort tid siden var forbeholdt kraftige spillmaskiner og arbeidsstasjoner med HQ-prosessorer. 
+
+Også 3D-ytelsen har økt, fra rundt 1000 poeng til rundt 1200. 
+Det er fortsatt et godt stykke opp til dedikerte spillgrafikkort. 
+Du kan selvsagt få grei ytelse i eldre og mindre krevende spill, men er du en gamer må du fortsatt velge noe annet enn en ultrabook på 1,1 kg. 
+
+Ikke lydløs 
+
+Merk imidlertid at maskinen kan bli ganske varm på ett punkt under, når den kjøres hardt og lenge. 
+Det kan virke som om prosessoren blir varmere enn forgjengeren. 
+Kjøleviftene jobber ganske intensivt på det tyngste, og maskinen er langt fra lydløs i krevende oppgaver. 
+Men med lett bruk kan den være lydløs i lange perioder av gangen. 
+
+SSD-en på 256 GB som HP bruker i denne maskinen, er også av den raske typen - selv om den ikke når helt opp til den som sitter i Spectre X360. 
+Men med lesehastigheter på rundt 1,5 GB og skrivehastighet på rundt 1 GB i sekundet, blir den neppe noen flaskehals - uansett hvilke oppgaver du måtte jobbe med. 
+
+Også denne gangen har vi opplevd at enkelte programmer kan legge beslag på en del av ressursene, og det kan være programmer som du ikke nødvendigvis bruker. 
+Vi tenker først og fremst på sikkerhetspakken fra McAfee og nettskytjenesten Dropbox - som begge kan erstattes av funksjonalitet som allerede er innebygd i Windows, og som har vist seg å bruke færre ressurser i mange tilfeller. 
+
+God batteritid 
+
+Vi var svært spente på batteritiden, etter de gode resultatene med X360. 
+Forrige generasjon 
+Spectre 13 målte vi til rundt 500 minutter med kontinuerlig videostrømming fra YouTube. 
+Årets utgave holdt ut i 531 minutter, altså 9,5 timer - en forbedring på en halvtime fra forgjengeren. 
+vi har testet PC-er i klassen som har holdt ut lenger, men det er et meget bra resultat, alt tatt i betraktning. 
+
+Og vi må også berømme HP for forbedringene på ladetiden. 
+Etter én time i stikkontakten var batterinivået tilbake på 80 prosent. 
+Det er det raskeste vi har målt noensinne. 
+
+Konklusjon 
+
+2018-utgaven av Spectre 13 er en av de aller beste PC-ene vi har testet fra HP. 
+Maskinen er svært slank og lett, er behagelig å bruke, byr på meget gode ytelser og blir belønnet med en solid femmer på terningen og anbefalt produktstempel. 
+
+Alle de viktigste plussene og minusene finner du i oppsummeringsboksen under. 
+
+Få også med deg testene av Huawei Matebook X og Microsoft Surface Laptop før du bestemmer deg. 
+Vi har også på trappene en test av 2-i-1-maskinen Yoga 920 fra Lenovo, som også ser ut til å bli et meget interessant bekjentskap. 

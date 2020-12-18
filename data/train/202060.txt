@@ -1,0 +1,182 @@
+Nikon 1 V1
+Nikons første systemkamera uten speil. 
+
+Flere av de store kameraprodusentene har de siste årene lansert systemkameraer uten speil, men til nå har kjempene Nikon og Canon sittet på gjerdet og tviholdt på speilet i sine modeller. 
+
+Nå er Nikon først ut av de to store, med lanseringen av Nikon 1 J1 og Nikon 1 V1; sistnevnte et kamera som i større grad er myntet på entusiasten, og som også er dagens testmodell. 
+
+Fordelen med å fjerne speilet er først og fremst at kamera og objektiver kan lages mindre, siden objektivet kommer nærmere sensoren. 
+Ulempen er at du mister den optiske søkeren slik at du enten må ta til takke med LCD-skjermen, eller med en elektronisk søker; altså en liten skjerm som du ser på i okularet, og som kan være av varierende kvalitet og størrelse. 
+
+Liten sensor 
+
+Til nå har det vært to sensortyper som har vært vanlig på de speilløse systemkameraene. 
+Den "tradisjonelle" APS-C-sensoren (som du også finner i de fleste speilreflekskameraer) og Micro FourThirds-sensoren (litt mindre, og i 4:3-format). 
+I V1 har Nikon introdusert en annen type sensor i såkalt CX-format, som er mindre enn disse, men fortsatt større enn de som er vanlige for et kompaktkamera. 
+Sensoren måler 13,2mm x 8,8mm, og i figuren under ser du hvor stor den er sammenlignet med øvrige sensorer: 
+
+Som du ser er sensoren så vidt mer enn 1/4 av en typisk APS-C-sensor. 
+Beskjæringsfaktoren er 2,7, mens tallene her henholdsvis 1,5 og 2 for APS-C og Micro FourThirds-sensorer. 
+Det betyr at et objektiv med fysisk brennvidde på 20mm effektivt vil ha en brennvidde tilsvarende 54mm (i 35mm-format) på Nikon 1 V1. 
+
+Med andre ord kan spesielt teleobjektiver lages mer kompakt, men ulempen er også at en mindre sensor gjør at det slipper inn mindre lys til hver piksel og at det dermed fort kan introduseres mer støy i bildene når følsomheten økes. 
+
+Nikon har derfor begrenset oppløsningen til 10 megapiksler på dette kameraet, men det bør være mer enn nok for de fleste. 
+Med 10 megapiksler kan du skrive ut bildet i A2-størrelse og fortsatt få en skarphet på 150dpi, som er vanlig i magasiner. 
+
+Tekniske spesifikasjoner, Nikon 1 V1 
+
+Oppløsning: 10,1MpBilledbrikke: CMOS, CX-format (2,7x beskjæring)LCD-skjerm: 3", 921.000 punkterSøker: elektronisk, 1.4M punkter, 0.47"Autofokus: Hybrid (kontrast/fase)Video: 1080p (30bps)Maks ISO: 3200 (~6400 med boost)Batteri (CIPA): 
+400 bilderVekt: 
+383g med batteri/minnekortMål: 113 × 76 × 43,5 mmPris m/ kit-objektiv: ca 7200 kroner 
+
+Konstruksjon 
+
+Førsteinntrykket av kamerahuset er positivt. 
+Det lille kameraet vekker oppmerksomhet med sin matte, sorte overflate, og størrelsen er definitivt beskjeden. 
+Nikon 1 V1 er i skrivende stund nemlig det minste systemkameraet med elektronisk søker, men det er ikke veldig mye mindre enn sine speilløse konkurrenter. 
+Eksempelvis er V1 7mm smalere enn Sonys kommende NEX-7, men omtrent 1cm høyere og en millimeter tykkere enn Sony-kameraet, som da altså har en vesentlig større (APS-C) sensor. 
+
+Dog finnes det ikke noe grep å snakke om på Nikon 1 V1, og avrundede kanter kombinert med glatte overflater over det hele gjør at kameraet ikke akkurat ligger som støpt i hånda. 
+
+God søker Den elektroniske søkeren er god på Nikon 1 V1; av samme kaliber som på Panasonic GH2. 
+Oppløsningen er på 1,4 millioner punkter og motivdekningen er 100%, som betyr at bildet du ender opp med blir identisk med det du ser i søkeren når du trykker inn utløserknappen. 
+Dette er mer vanlig på speilløse kameraer enn på de med speil, der den optiske søkeren ofte dekker 95-96% av det ferdige utsnittet. 
+
+I tillegg opererer søkeren på 60 bilder i sekundet, som gir et bilde med meget god flyt. 
+Nikon 1 V1 har også en sensor ved øyet som gjør at bildet bytter fra LCD-skjermen (3", 921.000 punkter) til søkeren når du legger øyet inntil. 
+Akkurat denne funksjonen er imidlertid litt i overkant sensitiv slik at bildet noen ganger skifter dersom du holder kameraet litt for tett inntil kroppen når du skal ta bilde. 
+Merk også at skjermen ikke er mulig å vippe. 
+
+Interessant er muligheten for å velge mellom mekanisk eller elektronisk lukker. 
+Ved bruk av mekanisk lukker blir blitssynkroniseringshastigheten høyere (1/250s vs 1/60s), men kameraet klarer ikke å ta like rask seriefoto. 
+Ved bruk av elektronisk lukker er kameraet fullstendig lydløst når du tar bilde (kjekt for naturfotografer), lukkertiden kan settes ned til så lite som 1/16000s, og i høy-modus kan du fyre av med en skuddtakt på 60 bilder i sekundet med full oppløsning (!); riktignok uten autofokus (maks 10b/s med fokus). 
+
+Kameraet fra Nikon har også en kontakt der du enten kan sette på en ekstern blits (spesialtilpasset for 1-systemet) eller en GPS-enhet slik at bilder du tar blir tagget med GPS-koordinater (dog ikke begge). 
+Nikon 1 V1 er ikke kompatibel med øvrige blitser fra Nikon, og har heller ingen blits innebygd. 
+
+Knapper og brytere 
+På toppen av kameraet finnes tre knapper med god avstand mellom seg; av/på-knapp, utløserknapp og en dedikert knapp for videoopptak som alltid kan trykkes på hvis du vil filme. 
+
+Den kompakte utformingen (og 3"-skjerm) gjør at baksiden er litt trangere, uten at vi for så vidt ser på det som et stort problem. 
+Piltastene er plassert på en ringformet kontroll, som også har et hjul som kan dreies rundt for å bla i bilder og menyer og stille manuell fokus, men ikke til å stille blender og lukkertid, noe den absolutt burde. 
+Knappene fungerer også som snarveier til eksponeringskompensasjon, selvutløser, autofokus og fokuserings-/eksponeringslås, mens du må inn i menyene for å endre f.eks. hvitbalanse eller følsomhet (ISO). 
+
+Bryteren for å zoome ut og inn i avspillingsmodus (eller endre blenderåpning/lukkertid) skyves opp og ned, for deretter å bruke piltastene til å flytte utsnittet. 
+Det er imidlertid ikke mulig å hoppe fra bilde til bilde uten å zoome helt ut igjen (igjen, noe ringen hadde passet fint til). 
+En egen funksjonstast endrer også funksjon ut fra hvilken modus kameraet står i, men lar seg ikke programmere til en egendefinert innstilling. 
+
+Den største svakheten i våre øyne er imidlertid funksjonshjulet og dets manglende innstillinger. 
+Dette lille hjulet bytter mellom hovedfunksjonene videopptak, "vanlig" fotografering (grønn), smart bildevalg og bevegelsesbilde (vi tar de to siste under funksjonsavsnittet). 
+Først og fremst noterer vi oss at under halvparten av hjulet er brukt, og at P/S/A/M må velges via menysystemet. 
+På en såpass høyt priset modell for entusiaster (i hvert fall i følge pressemeldingen) er det en avgjørelse vi virkelig stusser over. 
+
+Funksjonshjulet er i tillegg noe løst slik at det er veldig lett å få skøvet på når man tar opp kameraet, noe vi opplevde mange ganger i testperioden. 
+Det mest irriterende er når du klarer å skru hjulet til filmmodus uten å legge merke til det og knipser i vei, for så å oppdage når du kommer hjem at du har tatt bilder med 1280x720-oppløsning. 
+
+Luker og lokk 
+Som seg hør og bør på et systemkamera i 2011, har også Nikon 1 V1 HDMI-utgang (normal størrelse) skjult bak lokket på venstre side av kamerahuset, sammen med USB-tilkobling og mikrofoninngang. 
+Minnekortet ligger gjemt bak et lokk (med ekstra lås) på undersiden av kameraet, sammen med batteriet, som også er sikret med en ekstra liten tapp. 
+
+Verdt å sette pris på er også at stativfestet er plassert midt under objektivet; dog blir du nødt til å skru det av stativfestet dersom du vil skifte minnekort. 
+
+Kit-objektiv 
+Vi liker i utgangspunktet konstruksjonen på kit-objektivene (testet med 10-30mm f/3,5-5,6 og 30-110mm f/3,5-5,6). 
+Motstanden i zoomringen er fast og god, og objektivet tar ekstra liten plass når det ikke er i bruk på grunn av en ekstra låseposisjon, slik Olympus blant annet hadde på sitt første PEN-kamera. 
+Dog har ingen av objektivene mulighet for å fokusere manuelt via en ring, og på teleobjektivet må solblenderen settes på riktig vei (eller fjernes) for i det hele tatt å bruke objektivet. 
+Den er såpass stor at den dekker hele zoomringen når den er tredd på feil vei. 
+
+Merk også at du via en adapter kan bruke øvrig Nikon-optikk på V1-kameraet. 
+
+Brukervennlighet 
+
+Med tanke på hvor brukervennlige Nikon har laget sine innstegsmodeller med speil, er det nesten forbausende hvor dårlig brukervennligheten er i den nye V1-modellen. 
+
+La oss illustrere med noen eksempler: 
+
+Grønt ikon er ikke nødvendigvis auto. 
+Du kan gå inn i menyen og velge P/S/A/M(/Auto) når kameraet står i grønn posisjon, noe som gir en mindre rask tilgang til å sette kameraet på helautomatikk. 
+Den som bruker kameraet minst i familien kan derfor heller ikke stole på at grønn auto overlater vurderingene til kameraet.Funksjonshjulet hadde hatt god plass til P/S/A/M. 
+Dermed hadde Nikon oppnådd to ting: a) Raskere tilgang til disse modiene og b) en grønn modus som faktisk er "grønn". 
+Du kan knipse som vanlig selv om kameraet står i videomodus (du må uansett bruke videoknappen for å starte videoopptak), men oppløsningen på bildene blir den samme som videoen. 
+Altså vil du ende opp med bilder i 1280x720 hvis videomodusen er 720p. 
+Bare hvis du filmer i 1080i (altså ikke 1080p), vil du få 3840x2160-bilde (ca 8Mp), men positivt er det i hvert fall at du kan ta bilde mens du filmer. 
+Vel å merke hvis kameraet står i filmmodus – starter du videooptak med videoknappen der funksjonshjulet står i grønn modus, avsluttes opptaket når du tar bilde. 
+Noe inkonsistent der, altså. 
+Vi savner snarveier til hvitbalanse og ISO, for å nevne noe. 
+Dette må justeres via menyene og tar unødig lang tid å endre, spesielt siden ringen rundt piltastene kunne ha endret verdiene direkte, mens piltastene byttet mellom ulike verdier. 
+Hjul og piltaster har imidlertid samme funksjon.Funksjonsknappen er ikke programmerbar. 
+I vanlig fotomodus bytter du mellom de ulike lukkertypene, mens du i videomodus bytter mellom HD- og sakte film. 
+Merkelig nok kan du ikke gjøre dette i selve menyen, noe som gjorde at vi lenge klødde oss i hodet for å finne ut hvordan vi kunne endre fra sakte til HD-videopptak; spesielt siden den aktuelle HD-innstillingen bare er grået ut i menyen. 
+I de fleste menyvalg bruker du ok-knappen for å velge en av innstillingene, men noen steder er du nødt til å bruke høyre pil, da OK-knappen hopper et steg tilbake uten å endre verdien.Generelt synes vi også at menyene er noe svakt oppdelt, til tider vanskelig å forstå med litt for overfladiske feilmeldinger om du prøver å endre noe du ikke får lov til i gjeldende modus. 
+
+Funksjoner 
+
+Nikon fremhever spesielt to funskjoner i V1-kameraet; bevegelsesbilde og smart bildevalg, og de er ikke mindre enn banebrytende, i følge selskapet. 
+
+Aktiverer du bevegelesbilde, fanger kameraet video fra du holder utløserknappen nede halvveis og tar vare på de siste tidelene rett før og rett etter du trykket utløserknappen helt i bunnen. 
+Viser du dette på kameraet, får du da en liten videosnutt (med musikk) i sakte film, før selve stillbildet (midt i filmen) vises etterpå. 
+På minnekortet ligger bildefila og videofila separert. 
+
+Her er en videosnutt som viser hvordan det fungerer. 
+
+Banebrytende? 
+Nuvel. 
+
+Smart bildevalg kan imidlertid være kjekkere. 
+Her tar kameraet 20 bilder i rask serie når du trykker ned utløserknappen, hvorpå de fem "beste" beholdes. 
+Her skal teknologien være ganske avansert og plukke de med blant annet best fokus (minst uskarphet), best komposisjon og finest ansiktsuttrykk. 
+Dumt er det imidlertid at man ikke kan bruke selvutløser i denne modusen – det skjer i hvert fall ingenting når vi trykker på knappen. 
+Du kan heller ikke stille ting som blenderåpning, lukkertid, hvitbalanse, ISO, eksponeringskompensasjon etc. 
+Det begrenser nytten en smule. 
+
+Så mye mer unikt er det ikke. 
+Du kan velge blant flere fargeprofiler (monokrom, friskhet etc.), begrense auto-ISOen (f.eks. 100-800), se bilder du har tatt som en kalender der du kan velge aktuell dag og annet småtteri som de fleste andre også har, men ingen mer avanserte funskjoner, som trådløs blitsstyring, innbakt GPS, panoramafunksjon, RAW-fremkalling, bildefiltre etc. 
+
+Ytelse 
+
+Dette er grenen Nikon 1 V1 er best på, for det lille kameraet er en råtass på flere punkter. 
+For det første er autofokusen veldig rask, der Nikon har kombinert fase- og kontrastbasert fokus slik at den best egnede velges automatisk. 
+Vi opplever svært sjelden at kameraet ikke klarer å fokusere, selv i svak belysning. 
+Det skal dog sies at de nærmeste objektene i litt for stor grad prioriteres hvis du bruker automatikken, og at vi enkelte ganger savner muligheten til å fokusere manuelt med en ring på objektivet. 
+Autofokusen er imidlertid også rask på video, noe som ikke er tilfelle for de fleste kameraer med speil. 
+
+Seriefoto går også unna - med autofokus på hvert bilde kan du ta 10 bilder i sekundet dersom du velger elektronisk lukker (maks 5 med mekanisk lukker), og du kan også sette opp hastigheten til 30 eller 60 bilder i sekundet uten fokus; sistnevnte da over et halvt sekund (altså 30 bilder på 0,5s – med full oppløsning). 
+
+Oppstartsiden så vidt over sekundet går også fint å leve med, og batteritid på 400 bilder er et godt tall til å være et kamera uten optisk søker, selv om tradisjonelle speilreflekskameraer ofte har bortimot det dobbelte. 
+Utløserforsinkelsen praktisk talt lik null (målt uten blits, som er ekstrautstyr). 
+
+Bildekvalitet 
+
+Mens vi stort sett vet hva vi kan forvente av kameraer med APS-C/mFT-sensorer, var det spennende å se hva Nikon hadde klart å få til med sin nye CX-sensor, som altså er betraktelig mindre enn det konkurrentene har i sine tilsvarende kameraer. 
+
+Og det vi var aller mest spent på, var hvordan kameraet presterte med tanke på støy ved høye ISO-verdier. 
+Der overrasket kameraet oss positivt – helt opp til ISO 1600 kan fint brukes til utskrifter, med ganske finkornet og lav kromatisk støy. 
+
+Under ser du et eksempelbilde tatt med ISO 3200 der støyen (og detaljtapet) er mer synlig, men slett ikke verst allikevel: 
+
+På lavere ISO-verdier, f.eks. ISO 400, ser vi imidlertid også tegn fra støyprosesseringen, som ikke er like vanlig på kameraer med større sensor. 
+Her er et 100%-utsnitt: 
+
+Nikon-sensoren har noe begrensninger i dynamisk omfang, og som regel går det ut over høylysene, som ofte blir blåst ut i kontrastsituasjoner, men der det samtidig mangler detaljer i de mørkeste partiene. 
+Nikon-kameraet scorer imidlertid godt på automatisk hvitbalanse, og leverer jevnt over bilder med gode og nøytrale farger. 
+
+Kit-objektivet oppleves som meget godt, med unntak av kromatisk feilbrytning som fort melder seg på vidvinkelbilder med konstraster. 
+Noe vignettering er å spore, men alt i alt er dette en god kit-pakke. 
+Imidlertid kunne vi gjerne ha sett litt mer oppskarping på JPEG-bildene fra kameraet. 
+
+Konklusjon 
+
+Det er spennende å se at en av de store endelig kaster seg inn i det speilløse systemkameramarkedet, men vi sitter igjen med en følelse av at Nikon 1 V1 havner litt mellom to stoler. 
+For selv om sensoren er vesentlig mindre enn konkurrerende modeller, utnyttes det ikke veldig i forhold til størrelse på kamerahus og objektiver. 
+Dermed sitter man igjen med et kamera som ikke helt kan måle seg med de beste hva gjelder bildekvalitet, og som heller ikke har hentet ut noen vesentlig størrelsesfordel. 
+
+Vi har også mye å utsette på brukervennlighet og betjening, der for mange av funksjonene er gjemt i menyene; ikke minst siden mulighetene er der, f.eks. ved at over halve funksjonshjulet er ledig. 
+I tillegg er det flere irritasjonsmomenter relatert til innstillingene, og mye som er unødig tungvint. 
+Dermed får vi igjen en to-stolers-situasjon, hvor hverken nybegynneren eller den mer erfarne fotografen blir tilfredsstilt. 
+
+Med tanke på funksjonalitet er det lite unikt som tilbys i Nikon 1 V1, og to av funksjonene som trekkes frem (og tar opp to av fire hovedvalg på funksjonshjulet), har begge begrenset nytte. 
+Dermed ender vi opp med et kamera som ikke klarer å skille seg ut i særlig positiv grad i forhold til konkurrentene, og det med en relativt høy prislapp på 7000 kroner (med kit-objektiv). 
+Det yter riktignok godt, men i et tøft kameramarked er det rett og slett ikke nok. 
+
+Nikon 1 V1 + 10-30/3,5-5,6 VR 

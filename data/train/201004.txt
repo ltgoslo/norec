@@ -1,0 +1,89 @@
+Asus Fonepad
+Joda, det er et nettbrett. 
+Men det kan ringes med. 
+Har Asus laget den perfekte kombiløsningen? 
+
+Det blir vanskeligere og vanskeligere å definere noe klart skille mellom nettbrett og mobiler – hva angår størrelse. 
+Spesielt mobiler blir større og større, og i 2013 har toppmodellene gjerne skjermer på 5 tommer, enkelte over 6. 
+
+Asus Fonepad har derimot en skjerm på hele 7 tommer, og som navnet antyder dreier det seg om en "telefon-pad"; altså ett nettbrett med telefonifunksjon. 
+
+Full telefonfunksjon 
+
+I praksis kan du bruke den som en vanlig Android-telefon: 
+Sende vanlige SMS-er og MMS-er, og slå nummeret og holde den opp til øret. 
+Mange vil nok oppleve det siste som litt underlig, men det syntes mange om de første (langt mindre) smarttelefonene også. 
+Og man kan jo alltids bruke handsfree uansett. 
+
+At 7-tommers telefoner noen sinne kommer til å bli dagligdags, har vi imidlertid ikke noen stor tro på. 
+I hvert fall ikke før vi ser produkter med bøyelige skjermer. 
+
+Fonepad har mange likhetstrekk med Google Nexus 7, som også produseres av Asus. 
+Den koster også omtrent det samme, men Nexus kommer som kjent uten SIM-kortplass og telefonimulighetene. 
+Størrelsesmessig er den temmelig lik, med sine 196 x 120 x 10 mm og 340 gram. 
+
+Intel Inside 
+
+På innsiden er det en vesentlig forskjell: 
+Fonepad er utstyrt med en ny enkelkjernet Intel Atom Z2420-prosessor på 1,2 GHz, mens Nexus 7 har en firekjernet Tegra 3-prosessor fra Nvidia. 
+Og Atom-prosessoren er en god del svakere, så spørsmålet blir om den likevel er tilstrekkelig til å utføre oppgaver du ønsker å bruke et nettbrett til. 
+Det kommer vi tilbake til. 
+
+Brettet har 1 GB RAM og 16 GB flash-minne for lagring av apper og data. 
+Det er imidlertid mulig å bygge ut, takket være en kortleser for microSD-kort (maks 32 GB). 
+Brettet har frontkamera, men ikke noe på baksiden. 
+Dermed er ikke dette noe produkt som kan erstatte fotoapparatet. 
+
+Innebygd støtte for GPS-navigering (og konkurrrenten GLONASS) er også på plass. 
+
+Føles solid 
+
+Byggekvaliteten virker meget god. 
+Hele fronten har glassoverflate, baksiden er av metall. 
+
+Helt øverst på baksiden er et plastlokk som dekker simkort- og minnekortleser. 
+
+Av/på-knapp og en todelt volumknapp sitter til venstre. 
+Nederst på brettet sitter en mikroUSB-kontakt, samt en minijack for lyd ut/inn. 
+
+Skjermen er av IPS-typen, og har en oppløsning på 1280 x 800 piksler. 
+Dette er altså ikke en ful HD-skjerm som stadig oftere er å finne på dyrere brett. 
+Kvaliteten er derimot meget høy, med gode farger og kontrast, og meget godt innsyn fra sidene. 
+
+Noen ankepunkter 
+
+Operativsystemet er Android 4.1, altså ikke siste versjon, som er 4.2. 
+Det er en ganske "ren" Android-implementasjon, med noen få Asus-tillegg. 
+Og selv om opplevelsen ikke alltid er så "snappy" som på kraftigere brett, får vi gjort det vi gjort det meste uten problemer. 
+
+Det er ikke slik at vi til stadighet tenker at noe går tregt – med ett unntak: 
+Surfing på nettsider med tung grafikk. 
+Det går riktignok noe bedre med standard Android-nettleseren enn med Chrome, for med sistnevnte opplevde vi mye "lugging" på for eksempel VG.no. 
+
+Her ser du hvordan det tar seg ut: 
+
+Slike ting er med på å trekke totalinntrykket noe ned, all den tid at nettsurfing er en viktig del av hva man bruker et nettbrett til. 
+Og vi har tross alt testet en del brett den siste tiden, også billigere, som ikke har dette problemet i samme grad. 
+
+Ikke bare negativt 
+
+Det som derimot er langt mer gledelig, er at brettet ikke har noen problemer med å spille av høyoppløst video. 
+Alle våre testvideoer i inntil full HD (MKV, MP4, M4V, AVI) ble avspilt uten problemer med flere (gratis) avspillere. 
+
+Og det aller største plusset ved dette brettet, i hvert fall hvis du ønsker å droppe telefonen, er batteritiden. 
+Vi snakker om mange dager uten lading, ved moderat bruk (Asus hevder inntil ni timer med kontinuerlig videoavspilling). 
+I så måte er dette en langt smartere dings å ta med seg på tur enn en typisk smarttelefon, særlig når det er langt til nærmeste stikkontakt. 
+
+Konklusjon 
+
+I forhåndsomtalene av Fonepad har det vært mye fokus på at det ser tåpelig ut å løfte en 7-tommer til øret når man skal snakke i telefonen. 
+For mange, spesielt yngre brukere, er telefoni en bifunksjon som brukes sjelden. 
+Det går stort sett i teksting og Skype-ing, og for denne typen brukere bør Fonepad være midt i blinken. 
+Vi synes også prisen er et pluss. 
+Og om man synes det er flaut å løfte den til øret, kan man alltids bruke handsfree. 
+
+Vi skulle ønsket oss litt bedre ytelse, spesielt ved nettsurfing. 
+Mangelen på hovedkamera er også et klart minus for mange. 
+En versjon med halvparten så mye minne og et 8 megapiksels kamera er imidlertid å få på det asiatiske markedet, og en kameraversjon kan bli en realitet også her i Europa, har vi blitt fortalt av Asus. 
+
+Asus Fonepad ME371MG 16GB 

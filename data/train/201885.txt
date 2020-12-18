@@ -1,0 +1,65 @@
+Superruter fra Asus
+Neste generasjon trådløst stiller seg opp i lanseringskøen. 
+Vi har testet Asus sin utgave. 
+
+Flere leverandører er nå klare med produkter etter "draft-n" spesifikasjonen, som antagelig vil bli den endelige standarden etter noen flere runder med diskusjoner. 
+Det loves store forbedringer i ytelseog Asus skilter med at deres løsning til og med skal være raskere enn 100 Mbit nettverkskabel! 
+
+LES OGSÅ: 
+
+Vår test av Linksys sin løsning bygd på tilsvarende teknologi viste at det er enda et stykke opp til det en 100 Mbit kabel slipper gjennom. 
+Hva så med Asus? 
+
+Vi testet Asus WL-566gM som er navnet ruteren har blitt tildelt, sammen med PC-kortet WL-106gM. 
+
+Dette er faktisk ikke en draft-n ruter, men en "pre-n". 
+Den er bygget på Airgo sin teknologi og brikkesett, og denne teknologien var en av kandidatene til den nye n-standarden. 
+Det ble ikke denne som ble valgt til utgangspunkt for den framtidige n-standarden - men vår test viser at dette neppe skyldes ytelsen, snarere tvert i mot. 
+
+Oppsett 
+
+Oppsett av ruteren var uproblematisk, og vi fikk topp ytelse uten videre. 
+Så heldig kan man ikke regne med å være i alle situasjoner, siden optimalt kanalvalg etc. 
+er avhengig av de omgivelsene hvor ruteren blir installert og brukt. 
+
+Forøvrig er oppsett og installasjon av ruteren ledsaget av veivisere som etter installasjon kan aktiveres med et trykk på EZ Setup-knappen på baksiden, eller via IP-adresse i nettleseren som hos alle andre rutere. 
+
+Tilkoblingene er også standard, med 4 LAN-porter og 1 WAN-port. 
+Ikke noe ekstra å hente her. 
+
+Installasjonen av PC-kortet krevde omstart, men gikk helt uten problemer på begge PCen vi testet på. 
+
+Hvor rask er den? 
+
+Testingen viste at Asus faktisk er enda raskere enn Linkys WRT300N, som hadde imponerende ytelse. 
+
+Kurven var noe mer kupert, men i praksis merker man ikke dette. 
+
+Hva med rekkevidden? 
+
+Her opplevde vi det samme som med Linksys' draft-n ruter. 
+Rekkevidden var ikke like god som hos vår tidligere testvinner Linksys SRX (WRT54GX). 
+Vi fikk ikke samme rekkevidde utendørs, ruterne var ikke bedre enn ordinære 802.11g-systemer. 
+
+Det samme gjaldt i våre vanskelige testposisjoner i kontormiljøet. 
+Fra ruteren plassert inne i et rom med tykke betongvegger og åpen dør, var det ikke dekning på mesaninen i motsatt ende av rommet utenfor, i et kontor med perforerte stålvegger mot omgivelsene. 
+
+Raskere enn 100 Mbit kabel? 
+
+Påstanden om at Asus leverer raskere trådløst enn med kabel holdt ikke stikk. 
+Det hadde vi heller ikke ventet. 
+Men det nærmer seg! 
+I mange sammenhenger, ved overføring av mindre filer mellom PCene i nettverket, vil forskjellen være svært liten. 
+Først ved større overføringer og spesielt av tidskritiske mediedata vil forskjellen mellom trådløst og kablet bli tydeligere. 
+Spesielt fordi trådløst i et miljø hvor mennesker beveger seg rundt om kring blir påvirket. 
+Men her kommer MIMO-teknikken til unnsetning, siden den jobber aktivit med mønstre oppnådd ved refleksjoner. 
+
+Gigabit nettverk er dessuten blitt standard på de fleste nye PCer, både stasjonære og bærbare. 
+De utålmodige har forlengst tatt i bruk Gigabit svitsjer også i heimen, og her er det en stund til noe trådløst kan utfordre ytelsen. 
+
+Konklusjon 
+
+Asus sin MIMO-løsning etter pre-n fungerte glimrende når det gjelder hastighet i normale omgivelser. 
+Det er den klart raskeste ruteren vi hittil har testet. 
+
+Rekkevidden var ikke like imponerende, her var det ikke noe ekstra å hente. 

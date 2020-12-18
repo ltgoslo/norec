@@ -1,0 +1,42 @@
+ZyXEL AC1200 USB 3.0 adapter
+802.11ac gir bedre trådløs ytelse, ZyXEL har en lynrask USB 3.0 klient. 
+
+Nye rutere er på vei fra alle de store og små produsentene av nettverksutstyr. 
+De støtter den nye standarden 802.11ac som sender mer data over hver kanal på opptil tre samtidige kanaler. 
+Men for å kunne utnytte dette må mottakeren også rustes opp, og her dukker det etter hvert også opp både nye bærbare maskiner i alle kategorier, fra bærbare til nettbrett og mobiler, 
+
+Men alle bytter ikke ut ennå, og det dukker også opp oppgraderingsmuligheter for PC-brukerne. 
+
+Vi har tidligere testet både et internt PCIe-kort og en USB-enhet. 
+
+ZyXEL følger opp med en USB 3.0 basert klient, som gir din bærbare vesentlig bedre trådløs ytelse. 
+
+NWD6605 Dual-band Wireless AC1200 USB Adapter 
+
+Bak dette velklingende navnet befinner det seg en ikke helt liten USB-enhet som leveres sammen med en liten skjøtekabel. 
+
+Man ser på USB-kontaktene både på adapteren og kabelen at de er blå, noe som betyr at de støtter USB 3.0, noe som gir gode marginer for trådløs ytelse. 
+
+Selve adapteren har også en oppfellbar antenne, en ganske snedig løsning. 
+
+Som det fremgår av navnet støtter den ac1200 som betyr 2 datastrømmer og 867 Mbps på 5 GHz + 300 Mbps på 2,4 Ghz båndet. 
+Summen blir jo litt lavere, men man runder litt opp ... 
+
+Rutere opererer med 3 strømmer og 1300 Mbps, men foreløpig er det bare noen få spesielle klienter som støtter dette. 
+
+Ytelse 
+
+Og hva klarer den i praksis? 
+
+Vi vekslet mellom tilkobling på en USB 2.0 port og en USB 3.0 port på den samme PC-en og forskjellen var tydelig. 
+
+Vi testet med USB 3.0 på to forskjellige rutere, og fikk ganske forskjellige målekurver. 
+Men ytelsen i snitt over tid er ikke så forskjellig. 
+
+Konklusjon 
+
+NWD6605 er en utmerket trådløs klient som oppgraderer ytelsen på bærbare betraktelig, når du er koblet opp mot en ruter som støtter 802.11ac. 
+
+Praktisk oppfellbar antenne og kompakt skjøtekabel sørger for enda bedre ytelse. 
+
+ZyXEL NWD-6605 

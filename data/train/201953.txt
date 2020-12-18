@@ -1,0 +1,120 @@
+Medion SIM2000
+SIM2000 er Medions svar på den voksende trenden i retning av rimelige og fullt utstyrte ultraportable PCer. 
+Den har både DVD-brenner og lav prislapp, men klarer den å leve opp til storebrødrene sine? 
+
+Siden datarevolusjonen startet for et par tiår siden, har den fokusert sterkt på minimalisering uten at noe av utstyret vårt har blitt særlig mindre. 
+I stedet har vi fått høyere ytelse og større kapasitet på samme størrelse - og stort sett samme pris. 
+
+LES OGSÅ: 
+
+Nå kommer de fullstendig utstyrte ultraportable for fullt, og endelig har både prisen og størrelsen blitt mindre. 
+
+Vi har testet Medions SIM2000, en aluminiumsdekket ultraportabel med bredformatskjerm og hyggelig pris. 
+Den har 512 MB minne og DVD-brenner, og tar knapt opp større flate enn et A4-ark med egenvekt på 1,8 kilo. 
+
+Klarer den å overbevise oss om at rå kraft og store utstyrspakker har en plass i en ultraportabel? 
+
+Spesifikasjoner 
+
+Intel Pentium M 1,5 GHz (Banias) 1 MB L2 cache 512 MB DDR333-minne 60 GB 4200 rpm harddisk SiS-grafikk med 64 MB delt minne 16-bits lyd og to høyttalere 12,1-tommers WXGA TFT-skjerm DVD-brenner (+R/+RW) 10/100 Lan SD/MMC/Memory Stick-leser 1,8 kg tung Dimensjoner (B/H/D): 30,3 x 2,8 x 22,5 cm 
+
+Konstruksjon 
+
+SIM2000 er en maskin som er fin å se på, og den er veldig lett å flytte rundt på lokalt. 
+Hele frontdekselet er dekket av aluminium, og gir oss inntrykket av at den kanskje er laget av grunnstoffet som er mest kjent for kombinasjonen av lav vekt og stor styrke. 
+
+Det er den derimot ikke. 
+Aluminiumsdekket på baksiden av skjermen er alt vi får - og det er mest for syns skyld. 
+På skjermsiden av toppdekselet, og over alt ellers, blir vi presentert for "billig" plast - i aluminiumsfarge, vel å merke. 
+
+Tastaturet - som er i full størrelse - bøyer og strekker seg etter hvert som vi skriver, og hvis du har en optisk plate i DVD-brenneren som spinner, kan du risikere å "treffe" platen - som resulterer i en mildt sagt urovekkende lydopplevelse. 
+
+Det er også rikelig med porter, men noen av dem har en litt kinkig plassering - kontakten for hodetelefonene sitter for eksempel på forsiden av maskinen, som ikke akkurat passer med å ha SIM2000 på fanget. 
+
+Støynivå 
+
+Når vi er inne på DVD-brenneren, er det selvfølgelig prisverdig å i det hele tatt ha en DVD-brenner i en ultraportabel. 
+Men resultatet kan i enkelte tilfeller være nokså mye støy, og kraftige vibrasjoner gjennom helle chassiset til Sim 2000. 
+Dette er nok fordi kabinettet ikke er stort nok til å fange opp vibrasjonene uten å overføre dem til brukeren. 
+
+På den positive siden, hindrer denne vibreringen deg i å få lyst til å skrive noe særlig mens du leser fra en DVD, slik at du unngår å skade platen med tastaturet. 
+
+SIM2000 kan i enkelte tilfeller bli litt varm å ta på, uten at det har blitt noe problem under testingen. 
+På baksiden sitter det dessuten en liten prosessorvifte, som er rimelig stillegående og slett ikke plagsom. 
+
+Mens vi er inne på støy: 
+Lyden fra høyttalerne er sånn passelig, og når vi tenker på at SIM2000 knapt kan sies å være designet som en underholdningsmaskin, passerer det absolutt. 
+Det er etter vår mening helt ok, om enn litt lav, lyd fra denne PCen. 
+
+For 12.490 veiledende kroner får du det du betaler for i byggekvalitet, men så har SIM2000 overraskende mye å by på når det kommer til ytelse, kapasitet og komponenter - prisen tatt i betraktning. 
+
+Skjermkvalitet 
+
+Bredformatskjermer blir vanligere og vanligere også i bærbare PCer, men de byr på et interessant designproblem: 
+Fordi bredformatskjermene er bredere enn de er høye, må man enten redusere størrelsen på "håndleddstøtten," eller leve med store flater med "død" plass langs skjermen. 
+På Sim 2000 er det en blanding av begge. 
+
+Skjermen er ellers etter våre øyne klar, lys og skarp. 
+Og den byr på en rimelig OK innsynsvinkel fra sidene, men ikke i høyden. 
+Mange vil mene at oppløsningen på 1280x800 kan bli litt i høyeste laget for en 12,1-tommers skjerm, men vi synes den er skarp og lys nok til å til å rettferdiggjøre den. 
+
+Lokket som holder skjermen er for øvrig veldig tynt, og bidrar til å gjøre hele maskinen både lett og smal - den er faktisk bare 2,5 centimeter høy. 
+Men dette har også sine ulemper: 
+Middels harde trykk på baksiden av lokket treffer lett på baksiden av skjermen og forstyrrer skjermbildet, og selve lokket er ganske bøyelig - til tross for aluminiumsbelegget. 
+
+3D-ytelse 
+
+Skjermkortet som sitter i er derimot av den aller billigste sorten, og ytelsen er som prisen. 
+Det går an å spille enkle 3D-spill på det, og vi fikk rimelig ok flyt i Quake III Arena-testen vår på lave oppløsninger, men knapt over 30 bilder i sekundet på 1024x768. 
+
+De siste spillene tør vi ikke en gang prøve på et integrert skjermkort som deler minnet med resten av systemet. 
+
+Det integrerte grafikkortet i SiS M661MX-brikkesettet er utvilsomt et av de dårligste i klassen - og fikk så også bare 90 poeng i 3DMark 03. 
+Dette er et av de laveste resultatene denne testeren noensinne har sett. 
+
+Batterilevetid 
+
+Produsentene har fått for vane å inkludere ekstra batterier i det siste, men det er ikke nødvendigvis for å være snille. 
+Det er fordi komponentene krever stadig mer strøm, og batterilevetiden går nedover i rakettfart i takt med at ytelsen går opp. 
+SIM2000 er selvfølgelig intet unntak. 
+
+Vi hadde derimot forventet at en maskin som gjør krav på å være ultraportabel kunne være det i litt mer enn en time om gangen. 
+Drøyt 60 minutter i Batterymark holder ikke en gang til en busstur fra Oslo til Hønefoss, og er så lavt at vi måtte kjøre testen to ganger - med samme resultat. 
+
+Med to batterier blir den totale levetiden på rundt to timer, men du må være koblet til strømnettet for å få glede av å bruke denne tiden sammenhengende - og da teller det egentlig ikke. 
+
+Nettverk 
+
+Det er dårlig med IR-tilkoblinger på SIM2000, og den har heller ikke Bluetooth. 
+Men bortsett fra dette, har den det meste av det vi trenger på kontoret eller hjemme til daglig bruk. 
+10/100 
+Ethernet har mange fortsatt bruk for, og for oss som ikke har for vane å kopiere svære filer over nettverket er det støtte for 802.11b/g på 54 mbps. 
+(Det er også et internt modem med telefonkontakt, til de gangene man trenger denslags.) 
+
+Programvare 
+
+For en såpass rimelig "ultraportabel" ble vi faktisk litt overrasket over å finne så mye programvare som vi gjorde. 
+Maskinen kom med Windows XP Pro, ikke Home, ferdiginstallert, og Microsoft Works såvel som NERO 6 og eTrust antivirus lå på harddisken. 
+
+Dermed er maskinen brukbar fra første stund, og du kan skrive og regne så mye du vil uten å frykte for virus. 
+
+Ytelse 
+
+Den virkelige styrken til SIM2000 er hvor mye ytelse du får for pengene. 
+512 MB minne er en sjeldenhet i rimelige maskiner, også ultraportable, selv om grafikkortet stjeler 64 MB av det. 
+Og det er fint å se at vi også får en ganske rask Pentium 4 M på 1,5 GHz - selv om det er en litt aldrende versjon med bare 1 MB hurtigbuffer. 
+
+Harddisken er på romslige 60 GB og roterer 4.200 ganger i minuttet. 
+Stort raskere enn dette blir fort for varmt i en liten og tynn ultraportabel som dette, men under ideelle omstendigheter hadde vi ønsket oss en litt raskere disk med 5.400 rpm. 
+
+Ytelsen som vi oppnådde med PCMark 04 står noe tilbake for de siste og råeste bærbare, men så må vi huske på at det handler mest om minimalisme og mobilitet når det kommer til de ultraportable maskinene. 
+
+Vi gleder oss også over DVD-brenneren (riktignok bare "+") som er enda sjeldnere i denne klassen. 
+Her er det ofte ingen optikk i det hele tatt, selv om det har begynt å snike seg inn hos stadig flere produsenter. 
+
+Konklusjon 
+
+Dette utstyrsnivået skal det bli vanskelig for andre produsenter å slå i denne prisklassen. 
+Det er tross alt innhold nok for en langt høyere prislapp, hadde det ikke vært for alle snarveiene, som det bøyelige tastaturet som "treffer" plater i brenneren, det svake grafikkortet og den mildt sagt dårlige batterilevetiden. 
+
+Da blir ikke maskinen god før du ser på prislappen - som etter vår mening gjør den både attraktiv og konkurransedyktig i den voksende klassen for fullstendig utstyrte og rimelige ultraportable. 

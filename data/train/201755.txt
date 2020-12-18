@@ -1,0 +1,134 @@
+Nikon CoolPix S8000
+10x zoom i et kompakt kamerahus. 
+Men holder det? 
+
+Til tross for at S8000 ble annonsert i februar, er det faktisk Nikons foreløpig sist lanserte modell og toppmodellen i S-serien, der S4000 og S3000 er småbrødre. 
+
+S8000 er et kamera som typisk henvender seg mot den reisende som ikke har behov for å stille på så mye selv. 
+
+Kameraet er forholdsvis kompakt til tross for 10x optisk zoom (tynneste 10x-zoom på markedet ved lansering), og skjermen er 3 tommer stor og har en oppløsning på 920.000 punkter, noe som i hvert fall på papiret er svært tiltalende. 
+S8000 kan også filme med 720p HD-oppløsning. 
+
+Her er de tekniske spesifikasjonene: 
+
+Umiddebart savner vi litt bedre vidvinkel på S8000. 
+30mm er svakere enn mange av konkurrentene i dette segmentet, men fordelen er samtidig at Nikon har mer å by på i teleenden enn mange andre. 
+
+Konstruksjon 
+
+Førsteinntrykket av S8000 er en blandet affære. 
+På en side er skjermen flott med høy oppløsning og designen ren og elegant med buede former, men vi reagerer samtidig på litt billig løsning på lukene til HDMI-utgang (på venstre kant av kameraet) og vanlig TV-utgang, som ligger bak et gummilokk i bunnen av kameraet, og som er litt knotete både å åpne og få på plass. 
+
+På toppen finner vi ikke annet enn av og på-knapp, utløserknapp og zoombryteren, og på baksiden ser det nokså tradisjonelt ut. 
+
+Én knapp starter og stopper videoopptak, mens to andre bytter opptaksmodi og viser frem bildene du har tatt. 
+Piltastene fungerer som snarveier til blits, selvutløser, eksponeringskompensasjon og makro, men du må inn via menyen dersom du vil endre ISO-verdien. 
+Piltastene er også ringformet med et hjul rundt som kan brukes for å bla kjapt i menyene. 
+
+Nikon S8000 er en av få kompaktkameraer som har en skjerm med såpass høy oppløsning (920.000 punkter). 
+Dog synes vi det er svært merkelig av Nikon at bildevisningen i avspillingsmodus viser en sterkt komprimert variant av bildene som er tatt; faktisk såpass at det er tydelige kompresjonsartifakter på skjermen. 
+Da faller liksom litt av poenget bort i våre øyne. 
+
+Alt i alt, altså - litt blandede følelser konstruksjonsmessig, og kameraet føles noe billig her og der, der vi også kunne tenke oss litt bedre respons fra de tre øverste knappene på baksiden. 
+
+Brukervennlighet 
+
+I speilrefleksmarkedet er Nikon svært gode på brukervennligheten i deres rimelige modeller, som for eksempel i D3000. 
+Dog skal det sies rett ut - det er mye rart hva angår brukervennligheten i S8000. 
+Her er noen eksempler: 
+
+Automodus er ikke automodus 
+- Den vanlige oppfatningen av automodus har de seneste åra vært at kameraet gjør det aller, aller meste selv. 
+På S8000 kan du stille alle bildeparameterne i automodus (den tilsvarer i praksis en P-modus), og disse innstillingene huskes til neste gang du slår på kameraet. 
+
+Med andre ord - dersom jeg har eksperimentert med ISO 3200 en kveld og min kone bruker kameraet neste dag (i automodus) vil ISO-verdien fortsatt stå på ISO 3200. 
+Det samme gjelder f.eks. innstillinger for blits eller eksponeringskompensasjon, mens evt selvutløser slås av igjen når du har brukt den én gang. 
+
+Følgefokus gir deg null kontroll 
+- En kjekk funksjon er følgefokus, som lar deg følge en del av motivet slik at fokus flytter seg med objektet du fokuserte på; også hvis det havner utenfor bilderammen og inn igjen. 
+Det er i og for seg fint, men denne modusen er sidestilt med automodus (sammen med scene og smart portrett) og gir deg svært liten kontroll over bildet. 
+Eksempelvis kan du ikke justere hverken ISO, seriefoto eller lysmåling. 
+
+Manglende tilbakemeldinger 
+- Dersom seriefoto er aktivert (som også huskes til neste gang du slår på kameraet) og du prøver å trykke på blitsknappen skjer det ingenting. 
+Her burde man ha fått en tilbakemelding om at seriefoto måtte deaktiveres. 
+
+Med andre ord synes vi Nikon har laget et knotete brukergrensesnitt på dette kameraet, som også kan føre til mange uheldige situasjoner dersom du ikke er så dreven. 
+
+Funksjoner 
+
+Utvalget av funksjoner er begrenset på Nikon S8000. 
+Man finner selvsagt de sedvanlige mulighetene til å stille ISO-verdi, lysmåling, fokuseringstype etc., men kameraet har hverken mulighet for blender- eller lukkerprioritet, manuell fokus, bracketing eller andre mer avanserte funksjoner. 
+Ei heller morsomme filtre og andre ting som kan gi en kreativ nybegynner litt starthjelp annet enn at det er mulig å løfte skyggepartiene, glatte ut hudtoner og jevne ut nivåene under avspilling. 
+
+Det som imidlertid er på plass er muligheten for å oppdage dersom personen du prøver å ta bilde av blunker, der kameraet også kan ta et nytt bilde på rappen. 
+Det er imidlertid blitt såpass vanlig at vi ikke helt lar oss begeistre. 
+
+Nikon har også lenge hatt funksjonen BSS (best shot selector), som tar ti bilder på rappen og bevarer det som ble skarpest. 
+I tillegg finnes en ny meny (på knappen for eksponeringskompensasjon) som lar deg stille på fargementing og fargetone, i tillegg til eksponeringskompensasjon, selvsagt. 
+
+Med andre ord er funksjonsutvalget myntet på nybegynneren, men kameraet mangler noe så enkelt som en fullstendig automodus. 
+Det synes vi er uheldig. 
+
+Ytelse 
+
+Når vi starter opp Nikon S8000 går det kjapt å få bildet på skjermen (0,6s), mens bildeinformasjonen vises etter 2,4s. 
+Dog kan du begynne å ta bildet så snart skjermen er tent, og dermed er Nikon S8000 ett av de raskeste kameraene med tanke på tiden det tar fra du trykker på knappen til første bilde er tatt. 
+Som nevnt blir bildet da tatt med innstillingene du brukte forrige gang, så det er klart - du skyter litt i "blinde". 
+
+Autofokusen oppleves som meget rask på vidvinkel, men på full tele har den litt problemer i normal innendørsbelysning - "jakter" ofte og ender relativt ofte også opp med ikke å finne fokus. 
+Dog skal det sies at 300mm som regel ikke er en veldig aktuell brennvidde innendørs, og utendørs leverer S8000 kjapp autofokus også på full tele. 
+
+Seriefoto ser imidlertid ikke like lyst ut. 
+Ved kontinuerlig seriefoto i full oppløsning klarer vi bare 10 bilder på 10 sekunder (riktignok på drøye 7, men så er bufferet fullt). 
+Kameraet kan også ta seriefoto med lavere oppløsning (3Mp), og da klarte vi 35 bilder på de samme 10 sekundene, altså mer enn de 3 pr sekund som er oppgitt fra Nikon. 
+For ordens skyld bruker vi et raskt minnekort til disse målingene. 
+
+Utløserforsinkelsen målte vi til ca 5 hundredeler uten blitsen aktivert og ca 35 hundredeler med blits. 
+Batterilevetiden er oppgitt til 210 bilder, som er under gjennomsnittlig godt i dagens marked. 
+
+Bildekvalitet 
+
+Studert på avstand leverer S8000 gode bilder de fleste vil være fornøyde med, som for eksempel til utskrifter opp til A4-format. 
+Den automatiske hvitbalanseringen fungerer meget godt, og lysmåleren gjør stort sett en god jobb, selv om også S8000 ofte brenner ut høylysene i situasjoner med høy kontrast. 
+
+Inspiserer vi nærmere, er vi imidlertid ikke fullt så begeistret. 
+Først og fremst fordi de 14 megapiklsene på den lille sensoren introduserer en del støy, og at støyreduksjonsalgoritmen smører ut detaljene selv på lave ISO-verdier. 
+Under ser du et 100%-utsnitt tatt med ISO 100, og der vi synes støyreduksjonen ødelegger detaljene i bildet: 
+
+På ISO 3200 er støyen også godt synlig selv om bildet er skalert ned til 548 piksler i bredden (=vår artikkelbredde): 
+
+100%-utsnittet viser at det ser ganske grøtete ut - du finner det samme bildet i testen av Canon Ixus 300 HS, og som du ser håndterer Canon-kameraet støyen langt bedre. 
+
+Canon Ixus 300 HS: 
+
+Til tross for ED-glass i objektivet er bildene heller ikke frie for kromatisk feilbrytning, og i tillegg er oppskarpingen i overkant. 
+Fortegningen er imidlertid moderat på vidvinkel, og S8000 presterer på det jevne med tanke på vignettering. 
+
+Videokvalitet S8000 filmer i 720p og gir god kvalitet bildemessig. 
+Imidlertid sliter Nikon-kameraet med lyden under opptak, der en konstant høyfrekvent støy kan høres hele tiden. 
+Dette kan du også se eksempel på i Ixus 300 HS-testen, der videoklippet rett før avsnittet om brukervennlighet er filmet med Nikon S8000 (bruk for all del ikke videoen for å vurdere bildekvaliteten, siden den er komprimert og tilpasset for nettleseren). 
+I tillegg er det synd at Nikon har valgt ikke å la optisk zoom være mulig mens man filmer. 
+
+Konklusjon 
+
+Har du lest helt hit, har du sannsynligvis skjønt at vi ikke er så veldig begeistret for Nikon S8000. 
+På den positive siden er det ganske hurtig, med rask oppstart og autofokus, det ser pent ut og har høy brennvidde i teleenden. 
+I tillegg har LCD-skjermen høy oppløsning, men det er et snodig valg at bildene ser komprimerte ut i avspillingsmodus. 
+
+Vi savner for det første bedre vidvinkel - de fleste av konkurrentene har nå modeller med både 28, 25 og til og med 24mm vidvinkel, og det gir en del ekstra spillerom i bredden, som er spesielt praktisk ved fotografering innendørs og av store byggverk etc. 
+
+Vi har også sett at brukervennligheten er ganske laber - kameraet har ingen vanlig automodus, og derfor huskes innstillinger fra du slår av kameraet til du slår det på igjen, som kan føre til noen blemmer om ikke man følger med på ISO-verdi, seriefoto og annet. 
+Vi får ingen tilbakemeldinger når vi prøver å gjøre noe som ikke er lov, og brukergrensesnittet har et par svakheter vi veldig gjerne skulle ha vært foruten. 
+
+Funksjonsmessig er kameraet også ganske enkelt, som burde bety at det var myntet på nybegynneren. 
+Da synes vi det er spesielt rart at vi ikke får en automodus der alt bestemmes av kameraet. 
+
+Bildekvaliteten er også så som så. 
+Først og fremst er det ved 100%-visning vi ser svakhetene - detaljer mistes allerede på de laveste ISO-verdiene og lysmåleren er heller ikke konsistent. 
+Videofunksjonen lider av en kontinuerlig høyfrekvent støy og gir den derfor liten verdi i forhold til å fange de spesielle øyeblikkene; spesielt siden det heller ikke går an å zoome optisk. 
+
+Legger du på en femhundrelapp får du for eksempel Sony HX5 med langt bedre vidvinkel, suveren videokvalitet, GPS-funksjon, 10 bilder på ett sekund, en flott panoramafunksjon, mer detaljerte bilder og mer funksjonalitet i tilærmet samme størrelse. 
+Riktignok på bekostning av den høytoppløselige skjermen, men dog ... 
+
+Verdens tynneste superzoom er dessverre tynt på flere måter enn rent fysisk. 

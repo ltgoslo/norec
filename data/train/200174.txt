@@ -1,0 +1,69 @@
+USB:Iomega SuperDVD 12x brenner 
+
+Er en ekstern DVD-brenner et like godt alternativ som en intern? 
+Får jeg like god ytelse med min bæbare? 
+Vi har testet Iomega SuperDVD 
+
+Eksterne DVD-brennere er ikke like vanlige som interne brennere, men det finnes en håndfull tilgjengelige modeller. 
+Disse er praktiske der det av en eller annen grunn ikke er plass til en brenner i PCen, hvis man har en bærbar PC eller i de tilfellene hvor flere vil dele tilgangen til en DVD-brenner. 
+
+LES OGSÅ: 
+
+Iomega har valgt å tilby sin brenner i et solid plastkabinett, med USB 2.0 tilkobling. 
+Det finnes andre leverandører som tilbyr FireWire, eller både USB 2.0 og FireWire. 
+Siden det er standard med flere USB 2.0 porter på alle PCer, og FireWire er enten ekstrautstyr eller bare finnes som en enkelt port, så er USB 2.0 et fonuftig valg. 
+
+Det er også 2 phonokontakter for lyd ut bak på brenneren. 
+
+Brenneren har fått navnet Super DVD Writer, og har omfattende formatstøtte og gode spesifikasjoner. 
+Den støtter brenning av DVD+R med 12x, +RW med 4x og Dual Layer DVD+R støttes med 2.4x. 
+DVD-R støttes med 8x, og -RW med 4x. 
+
+Lesing av alle DVD-formater skjer med 10x. 
+
+CD-brenning og lesing gjøres med 40x og CD-RW med 24x. 
+Ripping av musikkCD skjer også med 40x. 
+
+Installasjon 
+
+Installasjonen av brenneren var uproblematisk, USB 2.0 og lagringsenheter er en velprøvd og stabil øvelse for Windows XP, og krever ingen programvare. 
+
+Av brukerprogrammer finner vi Iomega DVD Solutions Wizard, Iomega Automatic Backup, Iomega HotBurn Pro, Sonic MyDVD, Sonic Cineplayer, MusicMatch Jukebox og Adobe Photoshop Album Starter Edition. 
+
+MacOS støttes med Charismac® Discribe og MusicMatch 
+
+Ytelse 
+
+Dagens DVD-brennere har sin egen oppfatning av hvilken hastighet de skal brenner forskjellige plater med. 
+Denne er ikke alltid den samme som produsenten av platene har oppgitt på eskene... 
+
+Iomega-brenneren var samarbeidsvillig både overfor plater fra TDK og Verbatim, og brant både 8x TDK og 8x + 12x fra Verbatim med 12x. 
+
+Det resulterte i tidene 4:27 for 2 GB DVD+R, som ikke er blant de beste. 
+12x Plextor PX714A og 16X 
+BenQ DW1620 klarer dette på under 4 minutter, mens Samsung og TDK-brennerne bare lå få sekunder unna. 
+
+På 4 GB DVD+R var tiden 6:54 som er i samsvar med resultatene for 2 GB, Plextor og BenQ er vesentlig raskere. 
+
+DVD+RW på 4x har et svært tett felt, her ligger nesten alle brennerne mellom 6:36 og 6:56 bortsett fra Plextor som brukte hele 7:40. 
+Med 6:40 plasserer Iomega seg helt i tet. 
+
+Dual Layer ble brent på 43:37 som er helt kurant for 2.4x brennere. 
+Her gjorde forøvrig TDK rent bord med 4x og 26:18. 
+
+På DVD-R er den blant de beste, med 7:40 på 4 GB og 5:22 på 2 GB. 
+Her er det igjen Plextor som er vinner, mens TDK også sniker seg foran Iomega. 
+
+CD-brenning var unnagjort på 3:04 og ripping på 3:11. 
+Det er svært respektabelt for en 40x (CD) brenner, selv om de beste ligger under 3 minutter. 
+
+Konklusjon 
+
+Iomega Super DVD er en fleksibel og allsidig brenner, med god ytelse og en fin samling progamvare. 
+Støtte for MacOS er gunstig i blandete arbeidsmiljøer. 
+
+USB 2.0 er ingen flaksehals, det er selve brenningen som setter begrensningen. 
+Har du en moderne, relativt kraftig bærbar, f.eks. en Centrino-basert maskin, er en USB 2.0 brenner like rask på denne som en intern brenner i en tilsvarende stasjonær PC. 
+
+Men etterfølgeren med støtte for 16X DVD+R er allerede på vei ut i butikkene, og 16x plater skal også være like om hjørnet. 
+Vi kommer tilbake til test av denne så snart den dukker opp. 

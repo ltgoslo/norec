@@ -1,0 +1,72 @@
+O&O Migration Kit
+Det er egentlig ikke mulig, men det finnes en løsning. 
+
+Sitter du med en PC som kjører Windows XP, så kan du ikke sette inn en Windows 7 DVD og oppgradere XP-installasjonen. 
+Du må gjøre en "ren" installasjon. 
+
+Ofte er det mulig å oppgradere, slik at du får med deg programmer og data som allerede er installert og lagret over i det nye operativsystemet. 
+Men dette gjelder altså ikke hvis du har hoppet over forrige generasjon, den ikke helt vellykkede Windows Vista... 
+
+Problemet 
+
+Moderne operativsystemer er så viselig innrettet at det er helt umulig å forstå noe som helst hva som skjer bak kulissene for vanlige brukere. 
+
+Du kan starte programmer og flytte filer hit og dit, du kan også installere programmer og drivere til maskinvare som er koblet til. 
+Men utover disse enkle tingene er det stort sett håpløst. 
+Det ligger et virvar av filer i Windows-mappa og de andre mappene øverst i innholdsoversikten, men disse er forbudt område. 
+
+De fleste gir blaffen, og bryr seg ikke om det. 
+Det virker jo likevel, stort sett. 
+Men hvis du trenger større harddisk til system og programmer, eller kjøper en ny PC og gjerne vil flytte over data og prgogrammer fra den gamle, så er vegge gjerne det første du møter. 
+
+Det er ikke nødvendig at det skal være slik, men gamle tradisjoner i utviklermiljøene og kravet til kontinuitet i fagmiljøene som drifter millioner av Windows-PC-er hver dag gjør at det er slik. 
+
+(Bytter du derimot disk på en Mac er det uproblematisk å overføre både data og programmer fra en gammel disk eller maskin over til den nye.) 
+
+Men også på Windows-PC finnes det muligheter. 
+
+O&O; Migration Kit for Windows 7 
+
+Dette programmet består egentlig av to programmer. 
+Det ene er et klone/backup-program som lager et speilbilde av harddisken din. 
+Det andre programmet tar seg av selve overføringen. 
+
+Disse programmene kan brukes på flere måter. 
+Siden vi skulle bytte til en større disk og ville ha den gamle til arkivet, klonet vi den gamle 120 GB 5400 PRM disken til den nye 320 GB 7200 RPM disken med Sandbergs klone-dokk som vi har testet tidligere. 
+Så koblet vi dokken med den nye disken til en annen av våre PC-er med Windows 7 og utvidet den klonede 120 GB-partisjonen til å omfatte hele disken. 
+
+Så testet vi den nye disken i PC-en og sjekket at alt virket som det skulle. 
+Det gjorde det. 
+
+Så startet vi PCMOVER-programmet, som samler sammen all informasjon om programmer og data på den gamle disken og lagrer dette i en "flytte-konteiner". 
+Du kan velge hvor du vil lagre denne, det kan i prinsippet være hvor som helst: på nettverket, på et lagringsmedium eller på den samme disken. 
+Vi valgte å lagre den på hus-serveren. 
+
+Her ser du alle trinn for å samle inn dataene: 
+
+Etter at PCMOVER har samlet inn alle dataene installerte vi Windows 7 uten å reformatere disken. 
+Dataene som skal brukes til å reinstallere programer etc. blir nemlig liggende i WINDOWS.OLD mappen som Windows 7 oppretter under installasjonen. 
+
+Så installerte vi PCMOVER i Windows 7 og hentet flytte-kontaineren på hus-serveren. 
+Programmet jobbet en stund og etter en omstart var alt på plass. 
+Noen tillegg og småprogrammer fra XP var ikke kjørbare og det dukket opp en liste over disse til orientering. 
+
+Hva med epost? 
+
+Det hadde blitt brukt Outlook Express som epostprogram på XP-maskinen, og i Windows 7 er det ikke noe standard epostprogram. 
+
+Derfor måtte vi laste ned Windows Live Mail og hente epostdataene derfra som egen operasjon. 
+Live Mail har sin egen automatiske importrutine for å hente epost fra Outlook Express, så det var uproblematisk. 
+
+Konklusjon 
+
+Vi må si oss fornøyd med denne løsningen, den gjorde det som var mulig, og av den totale tiden det tok å åpne PC-en, klone disker, montere ny disk, installere Windows 7 - så var det ikke mer enn en fjerdedel av tiden som gikk med til kloningen. 
+
+Uten denne hadde vi fort blitt sittende utover ettermiddagen og kvelden også. 
+Så programmet er absolutt verdt de 30 dollarne det koster. 
+
+Programmet kan du kjøpe fra denne siden. 
+
+Du er også mulig å hente en gratisversjon ved å hente en promotionkode her 
+
+Du kan så laste ned programmet fra denne siden i engelsk versjon da trykker du på Try Now knappen. 

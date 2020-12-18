@@ -1,0 +1,84 @@
+Sony Vegas Movie Studio Platinum
+Videoredigering er som regel en blandet opplevelse. 
+De billige programmene er vanligvis for enkle, men Sony har noe mer å by på. 
+
+Sony er kjent for mye, men PC-programvare er ikke det første som slår en. 
+I andre land har jo Sony i tillegg solgt et bredt utvalg av stilige bærbare PCer i mange år, men her på berget er det bare apparatene for underholdning det satses på. 
+Likevel, Sony har utmerket programvare for redigering av lyd og bilde, også i den rimelige prisklassen. 
+Tidligere har vi skrevet om lydredigeringsprogrammet Sound Forge og Acid, her er det en rimelig versjon av Vegas vi tar for oss. 
+
+LES OGSÅ: 
+
+Alle disse programmene kommer opprinnelig fra det amerikanske firmaet Sonic Foundry, som ble startet tidlig på 90-tallet. 
+Dette ble kjøpt opp av Sony i 2003 og utviklingen fortsetter i samme takt som før, med lansering av solide oppgraderinger med jevne mellomrom. 
+
+Vegas 8 er den nyeste versjonen, og finnes i en proff utgave som kan "alt". 
+For de fleste av oss er dette å tøye strikken langt utover livvidden, og det finnes slankere versjoner. 
+Vegas Movie Studio og Vegas Movie Studio Platinum er beregnet på magre budsjetter, men byr på muligheter vi ikke ser hos konkurrentene i samme prisklasse. 
+
+Ikke barnehage 
+
+Alle programmene fra Sony har mye til felles i designet. 
+De har alltid vært tro mot standarder i Windows-grensesnttet, slik at det du leter etter som regel finnes der du ser etter først. 
+
+Mange rimelige programmer for videoredigering er så "brukervennlig" lagt opp at det gir assosiasjoner til pekbok med "gakk-gakk" og "vov-vov". 
+Ofte blir dette en blindgate så snart man har gjort de enkle tingene og leter etter flere muligheter. 
+
+I Vegas åpner det seg alltid muligheter når du høyreklikker eller sjekker langs vinduene. 
+Der finner du som regel det du leter etter, uansett hva du holder på med, i form av symboler eller knapper/faner. 
+
+Av seg selv 
+
+Arbeidsflyten i Vegas er ellers slik du forventer. 
+Man henter inn video fra kamera eller harddisk/DVD - i kamera eller på PCen. 
+Råmaterialet legges i feltet Project Media, derfra er det bare å dra det inn på egnet spor. 
+
+Du kan jobbe med flere spor eller legge alt på ett spor, maks antall videospor på denne rimelige versjonen er 4 (Selve Vegas har ubegrenset). 
+
+En snedig finesser er at du får automatisk kryssfading av alle sporene - video og lyd - når du skyver dem oppå hverandre. 
+Høyreklikker du på fade-kurvene får du opp en meny som gir deg mange varianter og alternativer, som her: 
+
+Vegas støtter mange forskjellige formater i samme prosjekt, slik at du kan kombinere video fra mange forskjellige kilder uten videre. 
+Det er ekstremt praktisk hvis du skal sette sammen video fra mange forskjellige perioder over et lengre tidsrom. 
+
+Det er ikke bare gamle formater som støttes, siden Vegas kommer fra Sony er det naturlig å forvente at det støtter AVCHD som brukes i de nyeste videokameraene fra Sony. 
+Det gjøres på den måten vi forventet, video leses rett fra hardisken og legges inn i Project Media. 
+Derfra er det bare å dra det inn i på et videospor. 
+Det er altså ingen konvertering eller overføring, det er snakk om ren filoverføring og umiddelbar avspilling. 
+Lynraskt, akkurat som alle andre formater. 
+
+AVCHD på SD-kort fra et Panasonic-kamera ville Vegas derimot ikke ha noe av, selv om de fungerte utmerket side ved side med filer fra Sony-kamera i andre programmer som håndterer AVCHD. 
+OPPDATERT: 
+Versjon 8.0c av Vegas Movie Studio Platinum støtter Panasonic AVCHD-filer. 
+
+Kraftige verktøy 
+
+Som regel er det enkleste det beste, men hvis du føler trang til å uttrykke deg visuelt finner du kraftige verktøy til det meste. 
+Alt av overganger er på plass, de fleste tenkelige effekter, justering av farger, kontrast og lys, forvrengning av bildet, bilde-i-bilde, opp ned og sidelengs, teksting - det er fritt fram. 
+Alt skjer selvsagt med det samme i preview-vinduet, det er ikke nødvendig å vente på at noe skal rendres. 
+
+Har du to skjermer på PCen kan du bruke skjerm #2 til forhåndsvisning i fullskjermsmodus. 
+Du får ikke et bilde i full skjermoppløsning (vår skjerm #2 er en 20" på 1680x1050), men det fungerer likevel svært bra. 
+Du kan også slå dette av og på med en knapp ved det lille preview-vinduet. 
+
+Pussig nok fungerte ikke forhåndsvisning med absolutt aller formater når vi testet med forskjellig materiale i samme prosjekt. 
+
+Utformater 
+
+Her er det mage muligheter i den nedre enden av format-hierarkiet. 
+Du kan lagre video til fil for mail-vedlegg, iPod eller PSP helt opp til Windows Media i full HD med surround. 
+
+Du kan også brenne til CD eller DVD via DVD Arhitect Studio 4.5, som er et tilsvarende kraftig brenneprogram med et vell av finesser. 
+
+Men du kan ikke lagre i AVCHD eller brenne Blu-ray, da må du over på den store Vegas Pro versjonen. 
+HD DVD er selvsagt ikke aktuelt fra Sony. 
+
+Konklusjon 
+
+Vegas har mer til felles med de dyrere programmene når det gjelder muligheter, men prisen konkurrerer med standardnivået i klassen for enkle programmer. 
+
+For nybegynneren virker det kanskje noe teknisk ved første øyekast, men med en gang man prøver å gjøre ting, så glir det langt lettere enn man fryktet. 
+
+Du kan laste ned gratis prøveversjoner både av Vegas og DVD Architect, eller andre Sony-programmer, fra Sonys nettsted. 
+De fungerer som fullversjonen i 30 dager, og du kan lagre og lese inn igjen alt du gjør, ingen avkortninger her. 
+Liker du det kan du handle nedlastbar versjon på nett til 119.95 USD hos Sony eller i eske med plate hos utvalgte forhandlere (kontakt Sony Norge) til ca 875 kroner. 

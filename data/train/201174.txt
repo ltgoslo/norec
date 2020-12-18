@@ -1,0 +1,49 @@
+Kingston HyperX 3K 240 GB SSD
+Ny og rimeligere utgave av Kingstons SSD. 
+
+Prisene på SSD skal ned, og de er definitivt på vei ned. 
+Men produsentene vil gjerne at det skal skje raskere, slik at de kan selge mer. 
+Samtidig gjelder det å knipe inn på kostnadene slik at de ikke tjener mindre, og da er komponentprisene et viktig element. 
+
+Elektroniske komponenter prises etter mange parametre, som ytelse og kapasitet. 
+Flashminne prises også etter levetid, hvor mange ganger minnecellene kan skrives/slettes før de er så svekket at de ikke lenger kan holde på data. 
+
+Derfor er en SSD med mindre levetid et rimeligere produkt, men likevel mer enn godt nok for den bruken det er tiltenkt. 
+Vi snakker om en levetid som uansett er lenger enn de fleste andre komponentene i en PC. 
+
+Hvorfor 3K 
+
+I denne sammenhengen betyr 3K at hver enkelt celle kan skrives til 3000 ganger. 
+Men kontrolleren sammen med operativsystemet sørger for å fordele bruken og dermed levetiden jevnt over alle cellene i alle brikkene. 
+Ved 10 GB skriving hver dag gir dette en levetid på over 8 år for hele SSD-en. 
+I praksis vil dette holde i lange baner for de fleste brukere. 
+Til sammenligning vil flashminne med den lengste levetiden under samme belastning vare i over 80 år. 
+Vi kan ikke se noen grunn til å spandere ekstra for å holde på private data i flere generasjoner. 
+For datasentraler er saken selvsagt en annen, der er også belastningen vesentlig høyere og levetiden reduseres tilsvarende. 
+
+Det som betyr mest for brukerne er hastigheten, og den er ikke dårligere på 3K minne enn på 5K eller mer. 
+
+HyperX 3K 
+
+Vi testet HyperX 3K SSD-en fra Kingston levert som oppgraderingsversjon. 
+Det betyr eske med festebrakett, eksternt kabinett til den gamle disken, Acronis programvare for overføring av data fra den gamle disken, kabler, skruer og hendig lommeverktøy. 
+
+Settet fungerer utmerket og gjør det enkelt å oppgradere en stasjonær eller bærbar PC. 
+Programvaren overfører og tilpasser partisjonen etter datamengden, men du må selv fjerne unødvendige data fra originaldisken som ikke får plass på SSD-en. 
+
+Med 240GB kapasitet får du ganske god plass til operativsystem og programmer, og mye data i tillegg. 
+
+Ytelse 
+
+Kingston hevder at ytelsen ikke er dårligere på denne enn på forgjengeren, og det bekreftes av våre tester. 
+
+I praksis er ytelsen identisk, forskjellene er ubetydelige for opplevelsen i daglig bruk. 
+
+Konklusjon 
+
+HyperX 
+3K holder stand, med samme høye ytelse som forgjengeren. 
+Det som er forandret er prisen, som har sunket dramatisk siden forgjengeren ble introdusert. 
+Listeprisen var 3 990 kroner på første 5K utgave, mens den nye 3K har i skrivende stund en pris på litt under 2 300 kroner i butikkene. 
+
+Kingston HyperX 3K SSD SH103S3 240GB 

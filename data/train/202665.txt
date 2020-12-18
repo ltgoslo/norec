@@ -1,0 +1,55 @@
+Test:Jotun ColorMatch 
+
+Hvilken farge er veggen malt med? 
+Det finnes en app som hjelper deg, både for iPhone og Android. 
+
+Farger er ikke lett å identifisere uten videre, de kommer i så mange nyanser at man ikke har ord som kan beskrive verken fargene eller forskjellen mellom dem. 
+
+Dette kan bli vanskelig når det er snakk om maling, særlig hvis man skal fortsette med eller komplettere en farge som allerede befinner seg på en flate eller gjenstand. 
+
+Da må man ty til tekniske hjelpemidler. 
+Fargehandleren kan analysere fargen på gjenstander og finne fram til og blande en praktisk talt identisk maling. 
+Men det er verre hvis fargen bare finnes på en vegg eller i andre omgivelser enn dine egne. 
+
+Mobil og app til unnsetning 
+
+For å gjøre det lettere for den som skal male tilbyr Jotun ColourMatch. 
+Dette er et lite program, populært kalt en app, som kommer både for iPhone og mobiler med Android. 
+
+Den fungerer ved å analysere bilder tatt med mobilen, enten de ligger i ditt eksisterende arkiv eller at du tar et bilde inne fra app'en og velger det område du vil at programmet skal analysere og matche. 
+
+Ikke uproblematisk 
+
+Selve oppgaven er ikke så enkel, farger vil variere sterkt med lyskilde og lysstyrke. 
+Men ved hjelp av eksponeringsinfo og bildeprosesseringen i mobilen finner programmet ut de variantene som er nærmest. 
+Da kan du ved selvsyn matche forslagene som programmet gir deg og velge den fargen som matcher best. 
+
+Jotun har over 1400 farger i sitt sortiment, så sjansen for å komme svært nær er meget god. 
+
+En liten test 
+
+Vi hentet en bunke med fargeprøver hos nærmeste fargehandler, og la ut alle i vinduskarmen i overskyet dagslys. 
+Vi tok bilde både med iPhone og med vårt Nikon D200 speilrefleks. 
+Man ser med det samme at det ble påtagelig stor forskjell på bildene. 
+
+Vi sjekket så med Jotun ColorMatch hvordan programmet klarte å identifisere fargene på fargeprøvene i bildet tatt med iPhone. 
+
+Så hentet vi inn bildet fra Nikon-kameraet til bildebiblioteket i iPhone og sjekket fargegjenkjennelsen en gang til på alle de 15 fargene. 
+
+Resultatet var at Jotun ColorMatch ikke traff en eneste farge med bildet tatt på iPhone, men på bildet tatt med Nikon-kameraet traff programmet 6 av 15 ganger. 
+
+Kreative forslag 
+
+I tillegg til analyse og matching kan ColorMatch også foreslå kombinasjoner av farger som passer sammen med den du har valgt å analysere. 
+Her brukes både etablert fargelære og trendriktige innspill fra Jotuns fargekonsulenter til å generere forslagene. 
+
+Når du har valgt farge kan du også finne nærmeste fargehandler direkte i app'en, enten på kart eller i en liste med adresser. 
+
+I denne bildeserien ser du hvordan appen fungerer. 
+
+Brukbart? 
+
+Sjansen for å virkelig treffe en farge 100% er svært liten med iPhone, med en god del større hvis du tar utgangspunkt i et bilde med et kamera med manuelle innstillinger som tar hensyn til lysforhold og eksponering. 
+
+Men som forslag til lignende farger er det ok, også til å foreslå fargekombinasjoner. 
+Og det er jo gratis. 

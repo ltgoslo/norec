@@ -1,0 +1,82 @@
+AC Ryan Veolo
+En mediespiller med Android - hva får man ut av det? 
+Blir det smart TV? 
+
+Tidligere var det gjengs oppfatning at TV var noe man satte seg ned og så på når man skulle koble av å se ting skje, i motsetning til PC hvor man koblet seg til og selv fikk ting til å skje. 
+
+Men slik er det ikke lenger. 
+Bruksområdene har endret seg for både TV og PC, og på flere områder har de smeltet sammen. 
+
+Mange får til dette ved å ganske enkelt koble en PC til TV-en, men TV-produsentene tilbyr nå "smarte" TV-er med innebygd nettverkstilkobling, nettleser og støtte for avspilling av innhold på minneplugger eller fra maskiner på nettverket. 
+Alle produsentene har sin egen vri på hvordan dette skal se ut, men ingen har vel egentlig pekt seg ut som noen klar vinner. 
+
+AC Ryan, som har laget flere utmerkede nettverksbaserte mediespillere, har nå lagt Smart TV-hjernen i en egen boks, som du kan koble til din egen TV, som kan være så dum den bare vil så lenge den har HDMI-inngang. 
+
+Veolo 
+
+Dette er en liten boks i plast med en ganske elegant design. 
+Den kommer med HDMI-kabel, strømforsyning, fjernkontroll og en liten bok med korte brukerveiledninger på mange språk. 
+
+I bruk 
+
+Oppkobling er såre enkelt, strøm, HDMI og nettverk så er man i gang. 
+Boksen starter ikke akkurat lynraskt opp, men det er til å leve med. 
+Den bruker svært lite strøm (maks ca 6W), og kan godt stå i standby mesteparten av året. 
+Det er heller ingen vifte. 
+
+Av en eller annen grunn kom boksen opp med 1280 x 720 oppløsning på vår 1920 x 1080 TV, men det var en smal sak å endre dette til full 1920 x 1080 50p. 
+
+Forbindelse med kablet nettverk var også på plass etter kort tid, til tross for en kjapp skjermmelding om det motsatte under oppstart. 
+
+Vi spilte av våre testfiler, og det eneste den ikke spilte var DVD-ISO og DVD-mappe med undermapper med VOB-filer. 
+DVD VOB-filer direkte spiller den imidlertid uten problemer. 
+
+HD-formater var heller intet problem, både kamerafiler og rippede filer spiller uten rykking. 
+
+Musikk og bilder går også som en drøm, selv om vi synes plassutnyttelsen i bildebrowseren var ganske dårlig. 
+
+Men hva med det Smarte? 
+
+I tillegg til mediespilling er det altså nettleser og apps som skiller Veolo fra andre mediespillere. 
+
+Her ble vi ikke like begeistret. 
+
+Grunnen til dette ligger i all hovedsak i grensesnittet, hvordan du manøvrerer rundt omkring. 
+
+Fjernkontrollen er både vanlig fjernkontroll og trådløst pekeverktøy som styrer en muspeker. 
+I tillegg har den et minitastatur på baksiden som skal gjøre det enklere å taste inn nettadresser osv. 
+
+Men dette ble vi ikke spesielt begeistret over. 
+Pekefunksjonen var omtrent som å peke på skjermen med en veldig tynn fiskestang, noen presis kontroll var vanskelig å få til uten å være svært forsiktig. 
+
+Dessuten fungerer ikke Enter og de fire manøvreringsknappene rundt slik man forventer og er vant til på alle andre apparater, det er en egen knapp for "Select" som sitter på raden over manøvreringsknappene. 
+
+Å skrive inn URL'er i nettleservinduet var heller ikke uten problemer: 
+Vinkelen på fjernkontrollen var viktig, og bokstavene dukket opp mer eller mindre som de selv ville. 
+Og enda verre: 
+Verken Enter-knappen eller Select-knappen aktiverte adressen man skriver inn i nettleseren. 
+I stedet må du klikke med musepekeren på en liten pil helt til høyre for adresselinjen... 
+
+Med andre ord falt den smarte delen i fisk allerede før den begynte... 
+
+Men vi ga oss ikke, vi måtte i det minste se om det var mulig å spille Angry Birds og kanskje noe annet. 
+
+Igjen slo tastaturfunksjonen seg vrang, og det var ikke mulig å taste seg inn på Google-kontoen. 
+Heldigvis støtter Veolo også et vanlig USB-tastatur og mus, så vi kom oss inn og fikk lastet ned. 
+
+Og Angry Birds fungerte greit, bortsett fra at muspekeren er rimelig upresis, så noen finstemt ballistikk blir mildt sagt vrient. 
+
+Internet TV nettleser, støter HTML5, Adobe Flash & Chrome V8 JavaScript Apps og Widgets via AndroidPITFull HD Network Media Streamer med støtte for de fleste formaterVEOLO 3-i-1 fjernkontroll med tastatur og trådløs pekerGigabit nettverk og trådløst 802.11 b/g/n1GHz ARM Cortex-A9 med Floating Point UnitJAVA maskinvareaksellerasjon3D grafikk med maskinvareaksellerasjon og støtte for OpenGL ES512MB DDR3 minne4GB NAND flashminne for OS og installasjon av Apps Android 2.2 (Froyo)Video utgang HDMI 1.32 x USB2.0 vertsfunksjon for minne og betjeningMinnekort SD/SDHC opptil 32GBNettverk: 
+SAMBA klient / SAMBA server / NFS klient / FTP klientLydkodek/formater:- Dolby Digital nedmix til stereo eller 5.1 surround- DTS nedmix til stereo eller 5.1 surround- AAC / FLAC / MKA / MP3 / OGG / WAV / WMA / MPEG 1/2/4 / MP2 / M4A RA-COOK / RA-Lossless / DRA / RealAudio 4/5/6/8/9/10 / TTA / AC3 / APEVideo kodek: 
+DivX3 / Xvid / H.263 / H.264 (MPEG4 P10, AVC, x264) / VC-1 (WMV9, WVC1) - VP6 / RealVideo 8/9/10 (RV30, RV40) / x264 / DIV2 / AVS / SVQ1 / SVQ3 - RV10 / RV20 / MPEG 1/2/4 (DivX 4/5/6, Xvid, MPEG4Visual) / MSMPEG4V1 - MSMPEG4V2 / WMV1(WMV7) / WMV2(WMV8)Videoformater- ASF / AVI / DAT / FLV / M2T / M2TS / MKV / MOV / MP4 / MPG / MPEG / RM RMVB / TP / TRP / TS / VOD / WMV / 
+
+Konklusjon 
+
+AC Ryan Veolo er en utmerket mediespiller, og viser det meste av videoformater, musikk og bilder. 
+
+Men Android versjon 2.2 (Froyo) med en fjernkontroll som er mer fjern enn kontroll var ingen god opplevelse. 
+Derfor ble de mer spennende sidene ved Veolo en lite tilfredsstillende opplevelse. 
+Disse funksjonene trekker også opp prisen til rundt 1.600 kroner, og når de ikke fungerer bra nok er poenget borte. 
+
+For å få kombinasjonen av TV og PC-bruk til å bli en Ny Stor Ting kreves det en mye bedre løsning med et helt annet nivå av kontroll og brukeropplevelse. 
+Veolo er dessverre ikke kvalifisert til å delta i den finalen. 

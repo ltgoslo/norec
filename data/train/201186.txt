@@ -1,0 +1,89 @@
+Toshiba Portege Z10t
+Kraftig nettbrett som enkelt gjøres om til bærbar PC. 
+Har Toshiba endelig fått til den perfekte hybrid? 
+
+Alle de store PC-produsentene bruker store ressurser på å lage den perfekte hybrid mellom PC og nettbrett. 
+Dessverre har alle forsøk foreløpig sine klare lyter, og Toshiba Portege Z10t er intet unntak i så måte. 
+Her er det rett og slett for mange kompromisser, mener vi. 
+
+Enkel forvandling 
+
+For å ta det mest grunnleggende først: 
+Portege Z10t er en Ultrabook som består av to deler - brettet med 11,6" skjerm, og tastaturet. 
+Brettet dokkes enkelt i tastaturet, og kan dermed klappes sammen som en vanlig PC. 
+
+Inni brettet sitter det temmelig potent maskinvare, sett i forhold til mange rene nettbrett, her er en kjapp oversikt over de viktigste tekniske egenskapene: 
+
+11,6" blank, multiberøringsfølsom full HD-skjerm (1920x 1080 piksler) Intel Core i5-3339Y dobbelkjernet prosessor (1,5 GHz) 
+Intel HD 4000 grafikk 4 GB RAM 120 GB SSD Trådløst nett (b/g/n) Bluetooth 4.0 1 x USB 3.0-port, HDMI (micro), SD-kortleser og lyd inn/ut i brettet Tastaturdel med baklyste taster, 1 x USB 2.0-port, fullstørrelses HDMI-utgang, Ethernet-kontakt (10/100/1000 Mbit) samt VGA-utgang Leveres med Windows 8 64 bit Dimensjoner: 299 x 220 x 16,9~19,9 mm Vekt: 1,38 kg (med tastatur), 800 gram (kun brett) 
+
+Totalvekten på 1,38 kg er ikke spesielt lav, men selve brettet veier bare 800 gram. 
+Med tanke på at det i praksis dreier seg om fullblods PC-innmat, er det ganske så imponerende, mener vi. 
+Det vi imidlertid stusser litt på er at prosessoren ikke er av siste generasjon som ble lansert i sommer. 
+Denne Ivy Bridge-prosessoren ble annonsert så tidlig som i januar, og har ikke like avanserte strømsparingsfunksjoner og like potent grafikkytelse som etterfølgeren. 
+
+Slik fungerer den 
+
+Selve brettet har en heltrukken glassoverflate, webkamera i front og vanlig kamera (3 megapiksler) i bakkant. 
+Alle tilkoblingene sitter på høyre side når du holder brettet liggende. 
+
+Øverst til høyre sitter en vifte og åpning for utslipp av varme. 
+Dette er noe av prisen man må betale for såpass kraftig maskinvare og krevende operativsystem - det blir varmt. 
+Dessverre er ikke brettet helt stillegående, og det er det første store ankepunktet vi har mot Z10t. 
+Under belastning er støyen ganske så fremtredende. 
+
+Opp-siden ved dette er god ytelse til nær sagt alle typiske PC-oppgaver, inkludert video- og bildebehandling. 
+Gaming er imidlertid ikke noe denne maskinen ble laget for. 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 6,3 Minne: 5,9 Grafikk: 
+4,6 Spillgrafikk: 
+6,1 Primær harddisk: 
+8,1 
+
+Alle Modern UI-appene i Windows 8 går som smurt, berøringsfølsomheten på skjermen er veldig bra, og innsyn fra sidene er ikke noe problem. 
+
+Mye å forbedre 
+
+Dessverre er likevel ikke alt bare bra. 
+Vi har opplevd at brettet ikke har klart å våkne fra dvale, og den medfølgende prøveversjonen av sikkerhetspakken fra McAfee har til tider oppført seg meget merkelig, se eksempel her: 
+
+Mange vil nok velge å avinstallere McAfee-pakken, noe vi har stor forståelse for. 
+Husk for øvrig at Windows 8 har god sikkerhet innebygd, og at behovet for tredjeparts sikkerhetspakker som dette er høyst diskutabel. 
+
+Og når vi først er i det kritiske hjørnet: 
+Tastatur-delen har flere elementer ved seg som vi ikke helt klarer å like. 
+Den første er at brettet står for bratt ved maks åpningsvinkel. 
+I praksis må man skyve maskinen lenger inn på bordet når man jobber, enn med en normal bærbar PC. 
+Med tanke på at skjermen er liten og oppløsningen høy, er dette langt fra ideelt. 
+
+Forresten bør du passe på følgende: 
+Vi har ved to anledninger opplevd at brettet ikke har sittet helt fast i dokken, siste gang gikk brettet i gulvet da vi klappet det sammen for å pakke det i sekken. 
+Den skled rett og slett ut av festet. 
+Det førte til at hele baksiden løsnet. 
+Heldigvis var det enkelt å skyve på plass igjen. 
+Brettet skal egentlig låses automatisk når det dokkes. 
+Påse at så er tilfelle før du klapper delene sammen. 
+
+Merk også at de integrerte knappene i pekeplaten ikke gir noen form for fysisk respons når du trykker på dem. 
+Det gir en dårlig følelse, spesielt hvis man klikker og det ikke umiddelbart skjer noe i programmet du jobber med. 
+
+I rettferdighetens navn skynder vi oss å legge til at det tross alt går an å bruke skjermberøringer i stedet for pekeplaten, og man har også et tredje alternativ: 
+Styrepinne mellom tastene G-H-B. 
+Og knappene som akkompagnerer denne ligger over pekeplaten, og begge gir tydelig klikkelyd når de trykkes ned. 
+
+Batteritiden virker å være OK, tatt i betraktning vekt og ytelse. 
+427 minutter tilsvarer 7 timer og 7 minutter, riktig nok målt med svært lav belastning. 
+Under variert bruk med litt video, musikk og surfing vil nok 5-6 timer være mer reelt. 
+Det er greit, men langt fra eksepsjonelt. 
+
+Konklusjon 
+
+Nok en gang må vi bare konkludere med at hybrid-konseptene har et stykke igjen til de gir en opplevelse som gjør at vi dropper nettbrettet og den bærbare PC-en. 
+Her er rett og slett for mange ting å sette fingeren på i forhold til opp-sidene, se oppsummeringsboksen under for plusser og minuser. 
+
+Sjekk også disse hybrid-testene, der finner du flere modeller vi ville ha valgt før Portege Z10t: 
+
+Toshiba Portege Z10t-A-106 

@@ -1,0 +1,70 @@
+Samsung Pico SP-H03
+Projektor på størrelse med en smykkeeske, som spiller MKV og Divx-filmer direkte. 
+Er det denne vi har ventet på? 
+
+En liten boks som får plass i lomma, som kan spille av alle mulige multimediformater, som går på batteri og som kan projisere et bilde på veggen tilsvarende en flatskjerm på 80 tommer. 
+Det høres nesten for utrolig til å være sant, men Samsung hevder at de har fått det til. 
+
+SP-H03 ser nesten ut som et klassisk Polaroid-kamera, men er altså i praksis en projektor. 
+
+Ikke en hvilken som helst projektor, riktig nok. 
+Den er nemlig bitteliten - knappe 7 cm bred og like dyp. 
+Vekten er beskjedne 210 gram, og den er utstyrt med en LED-lampe som i praksis vil vare så lenge produktet lever (Samsung antyder 30.000 timers brukstid). 
+Den digitale oppløsningen er moderat, 854 x 480 piksler for å være nøyaktig. 
+
+Projektoren har innebygd flashminne på 1 GB, og dukker opp som en egen stasjonsbokstav når du kobler den til PC-en. 
+Den har også innebygd kortleser for microSD-kort, samt USB-port, VGA-inngang og inngang for komposittkabler - alt ved hjelp av medfølgende adaptere. 
+Den har dessverre ingen HDMI-inngang. 
+
+Utrolig liste over formater 
+
+Det finnes etter hvert flere pico-projektorer på markedet, men vi har ennå til gode å se noen med så god formatstøtte fra den innebygde mediespilleren. 
+Ifølge Samsung støtter den ikke bare AVI, MP4, ASF, MPG, RM, FLV, WMV, JPEG, PNG, BMP, GIF, MP3, MP2, WAV, WMA, FLACK, APE, og RA, den kan også vise Powerpoint-presentasjoner direkte uten konvertering. 
+
+Det viste seg å stemme ganske bra med virkeligheten. 
+Vi fylte en minneplugg med diverse multimedieformater, og de fleste lot seg avspille. 
+Det mest imponerende er at den taklet høyoppløst materiale - både DivX og MKV - i inntil 720P (1280 x 720 piksler). 
+Det er imponerende! 
+Vi fikk imidlertid problemer med materiale i 1080P. 
+
+Den viser dessuten også undertekster (.srt-filer), men viste verken Æ, Ø eller Å korrekt på våre testfiler. 
+
+Enkelt 
+
+Projektoren er utstyrt med berøringsfølsomme knapper på toppen, og er klar til bruk knappe 20 sekunder etter at du har skrudd den på. 
+Ved hjelp av pilene kan du navigere i menyer, velge kilde og filer som skal spilles av. 
+Grensesnittet er absolutt godkjent, og ikke ulikt det vi har sett på mange mediespillere den siste tiden: 
+
+Du finner ingen muligheter for å justere bildet annet enn fokusering (helt ned i 9-tommers størrelse), så her må du plassere projektoren på flatt underlag og i rett vinkel mot lerretet/veggen. 
+Du kan også bruke stativ, standard gjenget stativfeste som på kameraer, sitter på undersiden. 
+
+Begrenset lysstyrke 
+
+LED-lampen har en lysstyrke på 30 lumen. 
+Det er ikke veldig mye, men i et rom med relativt lite lys fikk vi et godt, kontrastrikt bilde på rundt 60 tommer på en hvit murvegg. 
+Da stod projektoren ca 2,5 meter fra veggen. 
+Bildet ble imidlertid svært utydelig så snart vi skrudde på taklampen, så da måtte vi bevege oss nærmere. 
+Og regelen er den samme som på andre projektorer; jo mindre lys det er i rommet, desto større bilde kan du lage. 
+
+Projektoren har innebygd høyttaler på 1 W som gir fra seg lyd i bærbar PC-klassen. 
+Hvis du synes det blir litt spedt, kan du koble den til eksterne høyttalere ved hjelp av minijack-utgangen. 
+
+Den har også en innebygd kjølevifte, som har et støynivå som også kan sammenlignes med en typisk bærbar PC - altså ikke særlig sjenerende. 
+
+Batteridrift 
+
+Hele bunnen av projektoren dekkes av et stort batteri. 
+Ifølge Samsung skal det holde til en totimers spillefilm, men vi har ikke etterprøvd dette. 
+Vi opplevde imidlertid problemer med å forsyne minneplugg og ekstern harddisk med nok strøm via denne porten på batteridrift, så da blir løsningen enten minnekort eller internminne dersom andre strømkilder ikke er mulig å oppdrive. 
+
+Konklusjon 
+
+Dette er kanskje den beste lommeprojektoren vi har testet så langt. 
+Den er ekstremt liten, virker solid, og sørger for å spille av de fleste multimediefilene dine OG powerpointpresentasjonene dine direkte. 
+
+Ulempen er naturligvis først og fremst lav lysstyrke, noe som begrenser bruksområdet noe. 
+Du kan alltid lage et lite bilde på veggen i møterommet, men uten å skru av taklyset blir du gjerne sittende igjen med et bilde på størrelse med en vanlig PC-skjerm - og da er er gjerne noe av vitsen borte. 
+
+Men det er en tøff gadget, og til å vise fram bilder og videoer på festen, på hytta eller i klubbhuset er den særdeles velegnet, så sant man har mulighet for å skru av lys og trekke for gardiner. 
+Prisen er heller ikke avskrekkende, vi har sett den i flere nettbutikker til rundt 2200-2300 kroner. 
+Ser du etter et alternativ, bør du også få med deg testen av denne pico-projektoren. 

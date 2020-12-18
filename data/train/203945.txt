@@ -1,0 +1,100 @@
+En slags iPod Shuffle – med Spotify
+Og den kan brukes uten at telefonen er i nærheten. 
+
+Det var en tid der MP3-spillere var det hotteste på markedet, og der Apples iPod-produkter var de mest populære. 
+
+Den minste av dem, iPod Shuffle, var neppe iPod-modellen med det høyeste salgstallet, men den var allikevel imponerende liten. 
+Vektnåla stoppet på 15 gram og spilleren vi testet i 2007 kunne huse rundt 250 MP3-filer, selv om den siste generasjonen som kom hadde plass til rundt 1.000. 
+
+Siden den gang har mobiltelefonene tatt over for MP3-spillerne, og strømmetjenester som Spotify tatt over for MP3-filene; i hvert fall for de fleste av oss. 
+Riktignok så jeg ei på toget for et par uker siden med en iPod Nano, men det hører heller med til sjeldenhetene nå til dags. 
+
+Vår tids iPod Shuffle 
+
+Dagens testprodukt er Mighty, som opprinnelig var et prosjekt på folkefinansieringstjenesten Kickstarter, der brukerne spyttet inn over to millioner kroner til utviklingen av produktet. 
+
+Konseptet er altså at dette er en slags vår tids iPod Shuffle – der MP3-filer er byttet ut med offline-spillelister fra Spotify. 
+
+Skapernes største grunn til å lage dette produktet var at de følte det unødvendig alltid å drasse på en stor telefon når de skulle trene med musikk, og det kan vi jo saktens være ganske enige i. 
+
+Knøttliten 
+
+For Mighty er langt unna en mobiltelefon hva gjelder størrelse. 
+De fysiske målene er 3,8 x 3,8 x 1,8 centimeter og vekten bare 17 gram. 
+I tillegg til vår oransje utgave, finnes den også i hvit eller sort, så er det sagt. 
+
+På baksiden har den en klype, slik at du kan feste den til trøya, beltet eller lignende. 
+Mighty har 3,5mm lydutgang om du vil lytte med kabel, men støtter også tilkobling via Bluetooth om du foretrekker trådløst. 
+
+3,5mm-utgangen er også ladeporten, der det følger med en veldig kort USB-ladekabel. 
+Det er ikke ofte vi ser lading via denne porten lenger, men også videostabilisatoren DJI Osmo Mobile hadde denne varianten da vi testet den tidligere i år. 
+Dette er da en kabel du bør ta godt vare på, siden slike ikke er så lett å få tak i rundtom. 
+
+Ellers skal det være uproblematisk å miste Mighty i bakken, og den er også vannbeskyttet og tåler en regnskur, men ikke bading. 
+
+Oppsett via mobiltelefon 
+
+Du trenger en iPhone eller Android-telefon for å komme i gang med Mighty. 
+Først må du laste ned appen og registrere en konto. 
+Vi opplevde at iOS-appen bare avsluttet da vi prøvde å registrere oss med Facebook, men det gikk greit å gjøre den biten på gamlemåten med e-postadresse og passord. 
+
+Dernest må du pare telefonen med Mighty, gi den passordet til det trådløse nettet du er koblet på og koble til Spotify-kontoen din. 
+Verdt å merke seg er at du er nødt til å være betaltende Spotify-kunde, siden dette er påkrevd for å kunne lagre sanger til offline-bruk. 
+Skaperne bak Mighty jobber for øvrig med å støtte flere strømmetjenester i fremtiden. 
+
+Når alt er på stell, får du opp en liste over alle Spotify-spillelistene dine. 
+Trykker du på plussknappen, instruerer du Mighty til å laste ned alt innholdet i den aktuelle spillelista. 
+
+Med andre ord kan du ikke laste ned enkeltsanger eller album – musikk må puttes i spillelister. 
+Og det er altså plass til cirka 1.000 sanger (4 GB) med standardinnstillinger, der du selv kan justere kvaliteten på nedlastede sanger via Spotify-appen. 
+
+Vær også oppmerksom på at Mighty da teller som en av tre enheter du kan lagre musikk offline på, og at den ikke kan være koblet fra nettet/telefonen i mer enn 30 dager, slik regelen er på øvrige enheter du har offline Spotify-musikk på. 
+
+I den siste oppdateringen, som kom mens vi testet, har Mighty også fått støtte for automatisk å synkronisere spillelistene på nattestid om den er koblet til strøm og WiFi. 
+Men merk at du ikke kan synkronisere spillelister i appen mens du hører på musikk, siden Mighty kun kan være tilkoblet én enhet av gangen. 
+
+Appen må brukes når du vil pare Mighty med en ny Bluetooth-enhet (eller koble til et nytt WiFi-nett), men spilleren husker selv den siste du har paret med, så om du slår den av på tur og slår den på igjen, kan den fortsatt koble seg til hodetelefonene dine – uten at mobilen er til stede. 
+
+Enkel betjening, men treg av og på 
+
+Du finner seks knapper på Mighty. 
+Volum opp og ned, neste og forrige sang, en spill/pause-knapp og en egen knapp for å bytte i spillelister. 
+Sistnevnte kan holdes nede for å slå av og på shuffle-funksjonen, altså der sanger i lista spilles i tilfeldig rekkefølge. 
+
+Og betjeningen fungerer ganske godt. 
+Trykker du på sistnevnte knapp, leses navnet på spillelista opp i øret ditt, der du da veksler mellom de ulike listene ved å trykke flere ganger. 
+Mighty har for øvrig støtte for såkalt «gapless»-avspilling, altså der det ikke er noe pause mellom sangene. 
+
+Holder du pauseknappen inne, slår du av enheten, og du slår den på ved å trykke på den samme knappen. 
+Dette tar lang tid. 
+Da vi testet tok det 29 sekunder fra vi slo av til vi kunne slå på igjen, og da vi gjorde det tok det nøyaktig ett minutt til den var koblet til hodetelefonene igjen og klar til å spille. 
+
+Batteriet holder for øvrig til 5 timers spilletid – ikke allverden, med andre ord, men nok til ei treningsøkt eller tre før den må i laderen igjen. 
+
+Hva angår betjening, kan det også være greit å vite at Mighty ikke er kompatibel med alle typer hodetelefoner hva gjelder styring av musikk fra hodetelefonene. 
+Vi har brukt den med Sony MDR-1000X, og der får vi regulert volumet på hodetelefonene, men ikke brukt betjeningen på hodetelefonene til å pause musikken eller bytte sang. 
+
+Må bestilles fra utlandet 
+
+Mighty er ikke å få kjøpt i norske butikker, men kan bestilles fra den offisielle nettsiden. 
+Der er prisen $86 for enheten pluss $15 for frakt, altså med en pris på 101 dollar før norske avgifter. 
+
+Totalprisen blir da rundt 1.200 kroner inkludert fortollingsgebyr, som vi synes blir ganske dyrt; i hvert fall med tanke på at den siste generasjonen iPod Shuffle kostet i størrelsesorden 300 kroner da den var på markedet. 
+
+Riktignok kan Mighty by på Bluetooth-tilkobling, men har bare en tredel av batteritiden nevnte Shuffle hadde. 
+Ikke at de er direkte sammenlignbare produkter, naturligvis, men … 
+
+Med 1.200 kroner kommer du også et stykke på vei til å kjøpe ei smartklokke. 
+Noen av dem har fått støtte for offline-Spotify og kan gjøre en rekke andre ting enn bare å spille musikk. 
+I mer enn fem timer. 
+Men kanskje er det nettopp frigjøringen fra telefon og varslinger som kan være litt befriende med en enhet som Mighty. 
+
+Konklusjon 
+
+Mighty er et artig produkt som kan treffe midt i blinken om du alltid har ønsket deg en Spotify-utgave av iPod Shuffle. 
+Den fungerer som avertert og lar deg høre på offline-spillelister uten å måtte ha med telefonen. 
+
+Klypa på baksiden gjør at den lett kan henges fast på et klesplagg, betjeningen er såre enkel og godt løst med tanke på å bytte spillelister. 
+
+Det vi først og fremst ønsker oss, er litt mer batteritid og kjappere oppkobling når vi slår den på (ett minutt er veldig lenge). 
+Ladekabelen er dessuten veldig kort, og ikke veldig tilgjengelig rundtom om du mister den. 

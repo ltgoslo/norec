@@ -1,0 +1,59 @@
+SAMSTORE Portable MediaCenter
+TEST: 
+Den lille disken kobles rett til TV-en. 
+Snurr film! 
+
+Markedet oversvømmes nærmest av små mediespillere om dagen, og prisene blir stadig mer spiselige. 
+Dagens testprodukt er egentlig en portabel 2,5" harddisk, men med en spesiell tilleggsfunksjon: den kan kobles rett til TV, og via den medfølgende fjernkontrollen kan du bla deg gjennom innholdet og spille av filmer, musikk og bilder du måtte ha liggende på den. 
+
+Det er definitivt praktisk, og spesielt positivt er det at den ikke er særlig mye større enn rene lommeharddisker. 
+Denne får du fint plass til i jakkelomma, med andre ord. 
+
+Nok til de fleste 
+
+SAMSTORE Portable MediaCenter fås i forskjellige størrelser, fra 120 til 250 GB. 
+Vårt testprodukt har en kapasitet på 160 GB. 
+Det skulle bety plass til rundt 200 DivX-filmer i kurant kvalitet, eller 30-40.000 MP3-filer, dersom du lider av samlemani. 
+
+Når du kobler disken til en ledig USB-port på PC-en, dukker den straks opp som en egen stasjonsbokstav, og deretter er det bare å dra og slippe de mediefilene du ønsker å spille av på TV-en. 
+Du kan selvsagt også legge til andre filtyper, og for eksempel bruke den til backup-formål, men det er ikke det som er hovedintensjonen. 
+Uansett - filtyper som ikke kan avspilles, vises ikke i menyene når du kobler den til TV. 
+
+Bruk ekstern strøm 
+
+Tilkoblet PC fungerer den uten ekstra strøm enn det lille den får fra USB-porten, men vær obs på at overføringshastigheten gjerne mangedobles når den får nettstrøm. 
+Vi oppnådde rundt 25 MB pr sekund, noe som er ganske normalt for eksterne 2,5"-disker. 
+
+Vi fylte på med diverse filtyper, inkludert MP3, WMA og M4A på lydsiden, som må sies å være de mest aktuelle filtypene for folk flest i 2009. 
+Deretter fylte vi på med JPG-filer og filmfiler i DivX, Xvid, H.264 (MP4) og HD-materiale i Matroska-format (MKV). 
+Vi kopierte også over et speilbilde av en DVD-film i ISO-format, da mange nyere mediespillere leser disse uten problemer. 
+
+I bruk 
+
+Deretter koblet vi fra disken og forflyttet oss til TV-en. 
+Disken kan kobles til TV enten via kompositt (scart-overgang følger med) eller RGB via phonoplugger. 
+HDMI hadde vært både enklere og mer hensiktsmessig. 
+Vi skriver tross alt 2009, og de aller fleste av oss har anskaffet flat-TV. 
+
+Menyen som dukker opp på skjermen er alt annet enn fansy, men den er funksjonell. 
+Her vises mappestrukturen du laget på PC-en, og så er det bare å bla seg inn og ut av mapper ved hjelp av den flate fjernkontrollen. 
+Et trykk på Play på en mappe starter sekvensiell avspilling av innholdet: 
+
+Dessverre var det ikke mange av filene våre som ble avspilt, kun en mappe med DVD-struktur, DivX/Xvid-filene, MP3 og JPG. 
+ISO-filen og de andre filtypene var ikke å se i det hele tatt. 
+Avspilling av DivX/Xvid gikk imidlertid strykende, undertekster i SUB og SRT-format ble også vist helt fint, inkludert tegnene ÆØÅ. 
+
+Spoling i disse filene gikk også greit, selv om det gikk i langt høyere hastighet enn 2x, som ble vist på skjermen. 
+
+Visning av bilder og avspilling av musikk gikk relativt greit, men vi synes disken brukte i overkant lang tid på å vise førstnevnte, spesielt når megapikslene ble mange. 
+
+For øvrig var disken så godt som lydløs, og det var ingen vibrasjon i den som kunne medføre støy under bruk. 
+
+Konklusjon 
+
+Den er kanskje Norges mest portable mediesenter, men utenom det lukter det litt 2003 av den. 
+I 2009 bør du rett og slett forvente mer, både når det gjelder brukergrensesnitt, tilkoblinger og støttede filtyper. 
+Samstore Portable MediaCenter faller rett og slett litt igjennom på alle disse sentrale områdene, men redder så vidt en treer pga bra DivX/Xvid-støtte, inkludert undertekster. 
+
+Prisene starter på rundt 1000 kroner for 120 GB-utgaven. 
+Takk til PS.no for utlån av disken! 

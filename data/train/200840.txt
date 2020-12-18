@@ -1,0 +1,93 @@
+Brother DCP540CN
+TEST: 
+Har du god tid og bryr deg lite om kopikvalitet, kan dette være multifunksjons-skriveren for deg. 
+
+Under parolen "Ideell løsning for hjemmet og hjemmekontoret" og påstander om at den kan skrive ut høykvalitets fotoutskrifter på glanset papir, lanserte Brother modellen DCP540CN sent på fjoråret. 
+
+LES OGSÅ: 
+
+Modellen er noe så spesielt som en sammenblanding av et typisk kontorprodukt (med nettverkstilkobling og typisk office-design), og et hjemmeprodukt med fokus på fotoutskrifter uten bruk av PC. 
+Den er dessuten kompakt og rimelig. 
+Har Brother endelig truffet spikeren på hodet? 
+
+Her er en liste over de viktigste funksjonene og egenskapene: 
+
+Skanner, kopimaskin og 4-fargers blekkskriver 2" LCD-skjerm USB + nettverksadapter Dokumentmater til skanner Frontmating av ark Egen skuff for fotopapir i 10x15 cm PictBridge-tilkobling + minnekort for CF/MS/MMC/SD/xD i front Inntil 20 sider pr minutt i farge, og 25 sider pr minutt i sort 
+
+Som nevnt er skriveren relaativt kompakt, sett i forhold til mange andre produkter av denne typen (398 x 370 x 180 mm). 
+Den har dessuten frontmating, noe som gjør at den faktisk kan plasseres på en hylle - dersom den tåler 8 kg. 
+
+I pakken ligger fyldig dokumentasjon og drivere på flere språk, inkludert norsk. 
+Det ligger også en "hurtigstartguide" for deg som vil komme raskt i gang, skjønt 28 sider snabbguide er ganske mye mer enn hva som er normalt hos konkurrentene. 
+Etter å ha satt opp skriveren (prosessen tok 10 minutter) var vi enige om at hurtigstartguiden kunne fint vært kortere, for dette var ikke særlig komplisert. 
+
+LCDen varslet oss om at det var lite blekk i patronene, og det måtte vi si oss enige i - det var nemlig ikke patroner der i det hele tatt. 
+Installasjonen av patroner var derimot enkel, det er fire av dem totalt, de vanlige CMYK-fargene, og de dyttes på plass bak en luke i fronten på skriveren. 
+Installasjonen av drivere i Windows var like enkel, det var bare å sette i CDen etter å ha plugget i produktet, eller motsatt. 
+Vi testet kun USB-tilkoblingen, men siden enheten også har ethernet-tilkobling, har installasjonsrutinen også et eget valg for nettverksinstallasjon. 
+
+Den lille skjermen i fronten viser de viktigste innstillingene, samt antall kopier, og er veldig ryddig og oversiktlig. 
+Det samme synes vi knappene som akkompagnerer den er, her skal Brother ha honnør for å tenke enkelt. 
+Du trenger ikke å lese instruksjonsboken for å håndtere denne skriveren rimelig bra, og du behøver ikke å beherske utenlandsk en gang; Brother har oversatt menyene til norsk. 
+Bra! 
+Men hvorfor har ikke Brother tatt seg tid til å lese korrektur? 
+
+Testene 
+
+Første deltest var kopi av kulørt magasinforside. 
+Hastigheten var det ikke noe å si på, det tok riktig nok 2 1/2 minutt første gang, på grunn av klargjøring av blekk og skrivehode. 
+Neste gang gikk det langt raskere, rundt 40 sekunder i "normal" kvalitet på vanlige kopiark. 
+Kvaliteten var derimot temmelig dårlig, sett i forhold til de fleste konkurrentene. 
+Fargemessig OK, men detaljnivået var labert (se eksempel under): 
+
+Deretter fulgte en serie med fotokopitester, inkludert mcBeths fargekart, både utskrift direkte fra PC og kopier. 
+Her brukte vi beste innstillinger i menyen på skriveren, og brukte også Brothers eget glanset fotopapir. 
+Det første som forundret oss, var hastigheten på kopieringen. 
+Det gikk lynkjapt! 
+1 minutt og 51 sekunder på fotokopi i beste kvalitet er å parkere de fleste konkurrentene. 
+
+Problemet er bare at kvaliteten var dårligere enn kladdekvalitet fra konkurrerende modeller fra HP og Canon 
+
+Fargemessig var det OK, men skriveren hadde tydelig problemer med å plassere blekkdråpene, noe som resulterte i horisontale og vertikal striper og blekkfattige områder. 
+Vi mistenkte at en kalibrering ville gjøre underverker, men Brother MFC DCP-540CN er ikke utstyrt med kalibreringsfunksjon. 
+
+Vi var heller ikke særlig imponert over støynivået på denne typen jobber i beste kvalitet, det er betydelig høyere enn de siste modellene vi har testet fra både Lexmark, Epson, HP og Canon, og gjør at vi helst plasserer skriveren et annet sted enn ved siden av oss på kontorpulten. 
+
+Innskanning av bilder (digitalisering) gikk derimot bedre, kvalitetsmessig er det denne typen jobber denne multifunksjonsskriveren klarer best. 
+Vi er imidlertid ikke mer enn brukbart fornøyde. 
+
+Zzzzzzzzz 
+
+Neste på testprogrammet var fotoutskrifter fra Windows, og her støtte vi på et par bermerkelsesverdige ting. 
+Det positive først: 
+Styreprogrammet er så enkelt at selv uten folkeskolepapirer vil du få dreisen på det med det samme. 
+Men så til overraskelsene: 
+Styreprogrammet har en egen måler for blekknivå. 
+I tillegg finnes det en i menysystemet på selve skriveren. 
+Her var det tydelig avvik. 
+Styreprogrammet meldte om fulle tanker, mens skriveren meldte om full sort og godt brukt fargeblekk. 
+
+Den neste overraskelsen var hastigheten. 
+Skriveren brukte over åtte minutter på en fotoutskrift i A4-størrelse, og det var med hvite kanter. 
+Det er som å skru tiden flere år tilbake i forhold til nær sagt alt av konkurrenter. 
+Kvaliteten var riktig nok ikke verst, og mange hakk bedre enn kvalitetn på fotokopier. 
+Også her brukte vi anbefalt glanset Brother fotopapir. 
+
+Kvaliteten på tekst og enkelt tekst og grafikk var også tilfredsstillende, men også her brukte skriveren ulidelig lang tid sett i forhold til det meste vi har testet de siste årene. 
+
+De to minnekortleserne deler stasjonsbokstav i Windows - det betyr at du ikke kan ha et CF-kort og et SD-kort i samtidig, men vi mener likevel dette er den mest ryddige løsningen. 
+Overføringshastigheten er imidlertid til å gråte av, 20 MB med filer fra vårt lynkjappe SD-kort ble overført på ett minutt og to sekunder. 
+
+Diagrammet under viser diverse hastighetsmålinger sammenlignet med noen av konkurrentene: 
+
+Ser vi på utskriftshastighetene på foto, ser vi at Brother er soleklar jumbo, med over 8 minutter for et A4-foto: 
+
+Konklusjon 
+
+Dette er et kompakt og brukervennlig produkt, som i tillegg byr på nettverksstøtte. 
+Kopikvaliteten er imidlertid skuffende, utskrifter går tregt, og fotokvaliteten er ikke mer enn middels god. 
+Vi mener Brother burde ha gjort hjemmeleksen bedre før de kastet seg inn i den tøffe konkurransen på fotomarkedet. 
+
+Dette produktet var ikke spesielt morsomt å teste, men desto viktigere er det å få fram at selv om du har lite penger til rådighet, kan du gjøre langt bedre kjøp i økonomiklassen, med mindre du stiller deg likegyldig til både tidsfaktorer og kopikvaliteter. 
+
+Du finner flere multifunksjonstester i menyen til høyre. 

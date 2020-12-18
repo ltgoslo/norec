@@ -1,0 +1,107 @@
+Vi tester Philips og Apple-lys
+Artig lysstyring, men mye gimmick. 
+
+Philips 
+Hue ble nylig lansert som et samarbeide mellom Philips og Apple. 
+Det består av smarte led-pærer som du kan styre via iPhone, iPod og iPad 
+
+Nå har vi testet produktet. 
+Det ble raskt veldig populært i stua hjemme hos oss. 
+Mye på grunn av det fantastiske fargespekteret. 
+
+Dette trenger du 
+
+Startsettet består av tre lyspærer, en bridge (bro) og tilhørende strømforsyning og LAN-kabel. 
+I tillegg må du ha en ruter og iPhone/iPad eller iPod. 
+
+Du får beskjed fra appen hva du skal gjøre; trykke på knappen på broen slik at appen finner den, og deretter kan du søke opp lyspærene med appen. 
+
+Dette fungerer knirkefritt. 
+Det er lett å skjønne hva du skal gjøre når, ved hjelp av instruksjonene du får via appen. 
+Du kan selv sette navn på de ulike lyspunktene, som er kjekt for å holde styringen på de ulike lampene. 
+
+Slik virker det 
+
+Du kan slå av og på lyset via appen - eller du kan skru av og på lampen med bryteren på vanlig måte. 
+Dersom du skrur av og på via lampens på/av-mekanisme, er er det siste valgte lysprofil som benyttes. 
+Dersom du vil skru av og på lampen via nett eller app, er du avhengig av at lampens strømbryter er på. 
+
+Via appen eller nettprofilen din, kan du dimme lyset, og du kan også endre farge på lyset. 
+Du kan benytte forhåndsdefinerte fargeprofiler, eller du kan lage dine egne fargeprofiler. 
+For å lage dine egne fargeprofiler, kan du enten benytte et bilde du har i albumet ditt, eller du kan lage en fargeprofil ved hjelp av fargekartet i appen. 
+Du kan også velge farge direkte fra fargekartet. 
+
+Fargeprofiler på ulike lyspunkt 
+
+Det er imidlertid litt innfløkt å velge ulike farger på de ulike lampene som er koblet til systemet. 
+Først må du velge fargeprofil, og deretter kan du gå in og justere de ulike lyspunktene ut i fra hvilken fargeprofil du har valgt. 
+Du kan altså ikke velge ulik fargeprofil på de ulike lampene. 
+Vi skulle ønske det gikk an å velge lampe først og deretter definere fargeprofilen å hver lampe. 
+Du kan omgå dette ved å bruke fargekartet til å definere ulik farge på de ulike lyspunktene, ved å dra punktene til ønsket sted på fargekartet.Men vi skulle ønske det var en enklere måte å gjøre dette på. 
+
+Nettilgang 
+
+Du kan styre lampene hjemme helt fra den andre siden av jordkloden. 
+Dette kan du gjøre via din profil som du oppretter på nettsidene meethue.com. 
+Første gangen, når du setter opp din brukerkonto der, må du være i nærheten av broen, for å kunne aktivisere og forbinde profilen din med broen som snakker med lampene dine. 
+Men utover denne ene gangen, har du fulle styringsmuligheter av alle dine registrerte lamper fra PCen din, mobilen eller nettbrettet. 
+
+Det fordrer også at strømmen til lampen er på - du kan altså ikke skru på lampene dersom det ikke er strøm til lampen. 
+
+Du kan ikke sjekke hvorvidt lampene faktisk er på eller av, fra nettsiden. 
+Du kan bare "skru av" eller "skru på" - og skifte fargeprofiler og annet - men du kan ikke vite hvorvidt lyset faktisk er på eller ikke - du kan ikke bruke nettsiden til å sjekke om du har glemt å skru lyset av eller på. 
+
+(Det kan også være god humor i å endre farge og skru av og på lyset via nettprofilen, når du er ute og andre er hjemme. 
+For den som liker denslags humor, selvsagt.) 
+
+Hvor mye bruker du det? 
+
+Vi har nevnt fargeprofiler. 
+Som du kanskje allerede har sett på bildene, kan du altså velge mellom et uttall farger, på lyset. 
+Ja, du har faktisk hele fargeskalaen å velge i. 
+
+Men hvor mye har du egentlig bruk for det? 
+Hvor ofte vil du at stua skal bade i blått lys som et middels hyggelig offentlig toalett, eller rødt som en gladlivet bule i Amsterdam? 
+
+Med unntak av ungene, som selvsagt (irriterende nok) synes det er rasende festlig med nettopp disse fargene i stua, er det kanskje ikke så veldig mange anledninger det er naturlig å belyse stua slik. 
+
+Det som du imidlertid vil ha mere bruk for, er å variere hvitfargene på lyset. 
+Noen ganger vil du ha et gulere, varmere lys, mens du andre ganger trenger et hvitere lys. 
+
+Vi vil anta at mulighetene for de mange ulike fargene på pærene, er mye en gimmick. 
+Det er tross alt ikke ofte de fleste av oss vil benytte blått, lilla eller rødt lys. 
+Men fargeskalaen ligger likevel i pærene for at du skal ha muligheten til å eksempelvis definere den hvitfargen du selv ønsker. 
+Og når mulighetene tross alt ligger der - hvorfor ikke ta den helt ut. 
+
+Dette koster det 
+
+Oppstartpakken inneholder tre lyspærer (led), en bridge (bro), strømforsyning og LAN-kabel. 
+Den fås kun kjøpt i Apple-butikken, og koster 1.490 kroner for en oppstartspakke. 
+Du kan bygge ut systemet med opptil 50 lyspærer. 
+Enkeltpærer fås også kjøpt i Apple-butikken, og koster 479 kroner. 
+
+Philips 
+Hue er foreløpig tilgjengelig med E27-sokkel, men vil ifølge produsenten også komme med E14- og GU10-sokkel i løpet av 2013. 
+Hue kan brukes med ZigBee LightLink produkter, inklusive Philips LivingColor og andre smartlink-produkter. 
+Ifølge produsenten, kan systemet per nå styres med smartphones iOS4 +, og Android. 
+Vi har kun testet dette på Apple-produkter - og ikke Android. 
+
+Konklusjon 
+
+Vi har tidligere testet en liknende, mindre avansert lysstyringsløsning fra Philips: 
+Living whites ESaver. 
+Der får du en separat fjernkontroll som snakker med de smarte lyspærene. 
+Vi ga den løsningen terningkast 4. 
+
+Vi synes at Philips 
+Hue er en mye smartere løsning enn Living Whites-systemet, det har flere muligheter, og er mer presist i lysstyringen - fjernkontrollen på Living Whites er litt "overfølsom" for berøring. 
+
+Med styring via telefonen, nettbrett eller PC kan du endre fargemetning og lysstyrke ned til minste detalj. 
+Systemet er lett å koble opp og bruke. 
+Du kan skru av og på lyset fra den andre siden av jordkloden om du skulle ønske det - om du er på ferie og vil at huset skal se bebodd ut. 
+
+Prisen på inngangspakken synes ganske stiv, det samme gjør prisen på pærene - nesten 500 kroner for én lyspøre er litt over budsjett for oss - selv om den ifølge produsenten skal bruke 80 prosent mindre energi enn en vanlig lyspære. 
+Prisen synes høy, kanskje spesielt sett i lys av at du har mange andre muligheter til linkende løsninger, for eksempel med Tellstick, som kan gjøre jobben for en mye lavere kostnad (cirka 600 kroner). 
+
+Konklusjonen er at ja, vi liker produktet, som fungerer godt. 
+Men vi synes prisen er høy. 

@@ -1,0 +1,53 @@
+Seagate SSHD 500GB
+I mars 2012 skrev vi at tredje generasjon hybriddisker var underveis. 
+Nå har vi testet en av dem. 
+
+Det er ingen tvil om at en ren SSD-løsning er den som gir best ytelse. 
+Problemet er kapasiteten, eller rettere sagt prisen for kapasiteten. 
+En SSD på rundt 500 GB koster godt over 2.000 kroner i skrivende stund, mens hybridløsningen fra Seagate koster en fjerdedel. 
+
+Hybriddiskene fra Seagate har innebygd flashminne-SSD på 8 GB, men du kan ikke skille dette ut fra totalkapasiteten, den er "usynlig" både når du installerer og formaterer, og når du bruker disken. 
+Diskene roterer med 5400 omdreininger. 
+
+All håndtering av hvilke data som havner hvor håndteres av diskens kontroller, det eneste du merker er at endel operasjoner går raskere. 
+
+Vårt testeksemplar er den minste og tynneste varianten, med kapasitet på 500 GB og tykkelse på sju millimeter. 
+Når man får den i hendene er det påtagelig hvor tynn og lett denne disken er. 
+Skal du bruke den i en alminnelig bærbar kan den bli for tynn, slik at du på en eller annen måte må sørge for at den ikke blir liggende og slenge. 
+Dette avhenger av festemekanismen i maskinen, og hvilke skruehull som brukes. 
+
+Disken har også en storebror på 1 TB, men SSD-delen er også her på 8 GB. 
+Men disken er 9,5 millimeter tykk, og trenger derfor maskiner med god plass. 
+
+For de aller tynneste PC-ene er du henvist til den minste og tynneste hybrid-disken. 
+
+Tilkoblingene er vanlige SATA-kontakter, i tillegg er det en alternativ strømkontakt. 
+
+Ytelse 
+
+Å måle ytelsen på en slik hybriddisk er litt vrient, fordi måleprogrammene håndterer skriving og lesing på mange forskjellige måter. 
+
+Hvis vi tester den med et måleprogram som tester den som en SSD, så får vi sørgelige resultater. 
+På rask håndtering av små datamengder, typisk for systemdisken, så faller den helt igjennom. 
+
+Tester vi derimot med et program for sekvensiell måling av ytelse på lagringsmedier får vi et langt mer fordelaktig resultat. 
+
+Vårt eget testprogram viser at ytelsen kan variere en del også innenfor 4 GB. 
+
+Konklusjon 
+
+Betraktet som harddisk har den god ytelse og kapasitet i forhold til størrelse og pris. 
+Tidligere erfaring med hybriddisker fra Seagate har vist at de gir noe raskere oppstart av operativsystem og programmer. 
+Til en viss grad kan også innlesing av data bli raskere, men dette avhenger av bruksmønster. 
+
+Hvis det er nøyaktig de samme filene som lastes inn fra gang til gang, som et stort lydbibliotek til virtuelle instrumenter, så er gevinsten påtagelig. 
+I andre sammenhenger, som videoredigering, er det liten forskjell. 
+
+For allsidig hverdagsbruk er det først og fremst oppstart av operativsystem og innlesing av ofte brukte programmer som blir raskere. 
+Jobber man med mindre datamengder i nettleser eller fra nettskyen merker man lite til ytelsen på lagringsmediet. 
+
+Så spørsmålet er om det verdt å spandere noen hundrelapper for å få en litt raskere harddiskløsning, eller et par tusenlapper for å få en mye raskere SSD-løsning som i tillegg ikke er følsom for støt og slag. 
+
+Det overlater vi til leseren selv å avgjøre. 
+
+Seagate Laptop Thin SSHD ST500LM000 64MB 500GB 

@@ -1,0 +1,109 @@
+Måler pulsen gjennom huden din
+TomToms nye GPS-treningsklokke fungerer med de mest populære treningstjenestene. 
+
+Etter at TomTom for et par-tre år siden lanserte treningsklokker i samarbeid med Nike, har de også kommet med GPS-baserte treningsklokker under eget merkenavn. 
+Det siste tilskuddet er TomTom Runner Cardio. 
+Vi har tatt den med på noen løpeturer i sommer for å sette den på prøve. 
+
+Det kanskje mest spesielle med TomTom Runner Cardio, er at den til tross for at den er en pulsklokke ikke trenger pulsbelte. 
+
+Pulsmåleren er nemlig integrert i selve klokken, og en sensor måler pulsen på håndleddet ditt – ved å lyse gjennom huden. 
+
+I tillegg til å måle pulsen din, vil klokken plotte løpeturen din inn på et kart som du kan se enten via webtjenesten TomTom MySports eller med en mobilapp. 
+
+Denne klokken er hovedsakelig beregnet på løping ute eller på tredemølle – men det finnes også en «multisport»-variant som også kan brukes til sykling og svømming. 
+Vi har testet løpeutgaven. 
+
+Nøyaktig puls 
+
+Da vi tidligere i sommer testet konkurrenten Polar V800, hevdet produsenten at det er nødvendig med et vanlig pulsbelte som du spenner over brystet, for å få den nøyaktigheten som blant annet profesjonelle idrettsutøvere krever. 
+Vi var derfor spente på om TomTom-klokken klarte å måle pulsen like nøyaktig som Polar V800. 
+Dette var enkelt å teste – det var bare å feste én klokke på hver arm, snøre på seg joggeskoene og komme seg ut på veien. 
+
+Underveis på løpeturen fulgte pulsmålingen på de to klokkene hverandre ganske tett, og det var sjelden mer enn ett eller to pulsslag forskjell. 
+Men TomTom-klokken så ut til å reagere litt tregere – altså «jevne ut» pulsen litt mer, mens pulsgrafen til Polar-klokken hadde en tendens til å fyke litt mer opp og ned. 
+Med pulsbelte har undertegnede av og til problemer med at pulsklokken enkelte ganger kan miste forbindelsen med beltet i noen sekunder, slik at det blir rare utslag på grafen. 
+Dette skjedde ikke med TomTom Runner Cardio, vel å merke så lenge klokkereimen var festet ganske stramt. 
+
+For å sjekke hvordan klokkene reagerte på plutselige pulsendringer la vi også inn et par kjappe intervaller midt i treningsøkten. 
+Når vi legger grafene fra de to klokkene oppå hverandre, følger de hverandre ganske tett. 
+Gjennomsnittspulsen etter treningsøkten endte på nøyaktig det samme – 161 slag i minuttet. 
+
+Vår konklusjon er at pulsmåling gjennom håndleddet fungerer mer enn godt nok for folk flest, selv om pulsklokker som Polar V800 har enkelte avanserte tester som kanskje krever et mer tradisjonelt pulsbelte. 
+Det er også deilig å slippe å ha et pulsbelte rundt brystet når du er ute og løper. 
+Vil du bruke en vanlig pulsmåler, er dette også mulig (Bluetooth Smart). 
+
+Vanntett til 50 meter 
+
+Vårt testeksemplar av TomTom Runner Cardio hadde hvit og knall rød reim, og klokken vil også bli tilgjengelig i fargekombinasjonen svart/rød og helt svart. 
+Den brede gummireimen er myk og ganske behagelig å ha på seg. 
+Klokken er vanntett ned til 50 meter, men pulsmåleren fungerer ikke under vann. 
+
+Selve klokkedesignen er litt spesiell, ettersom betjeningsknappene ikke befinner seg rundt skjermen – slik det er vanlig på andre pulsklokker. 
+I stedet er det en stor, firkantet betjeningsknapp et stykke nedenfor skjermen. 
+Denne fungerer som en slags «joystick» hvor du navigerer i fire retninger ved å trykke på sidene av knappen, og på midten for å velge. 
+Det er ikke mulig å trykke på skjermen. 
+
+Selve klokkeenheten kan tas ut av reimen og settes i en medfølgende liten «dokkingstasjon» for lading. 
+Det er også mulig å lade uten å ta ut klokkeenheten, ved å ta klokken av armen og bøye reimen litt for å få frem ladekontakten på baksiden. 
+Denne plugges inn i dokkingen. 
+
+Batteriet skal ha kapasitet til opptil 10 timers aktivitet der du bruker GPS-en. 
+
+I bruk 
+
+Når du ikke bruker klokken til å trene med, vises klokkeslett og dato med store tall og bokstaver. 
+For å starte en treningsøkt blar du mot høyre fra startskjermen. 
+Du kan da velge mellom «Run», «Treadmill» eller «Stopwatch». 
+Løper du ute, velger du «Run». 
+Da aktiveres også den innebygde GPS-funksjonen, slik at du kan få opp løpeturen din på et kart så snart du synkroniserer klokken ved hjelp av synkroniseringskabelen – eller ved å koble klokken til mobiltelefonen og bruke den tilhørende mobilappen. 
+Denne appen finnes foreløpig kun til iPhone, men du kan fint bruke klokken også uten appen. 
+
+Svart/hvitt-skjermen er lett å lese selv i sterkt sollys, og informasjonen du får på skjermen er tydelig og lettlest. 
+
+I vår test fant klokken GPS-posisjonen veldig raskt. 
+TomTom anbefaler at du kobler klokken til datamaskinen eller mobilen med jevne mellomrom for å laste ned såkalt QuickGPSfix-informasjon – informasjon som gjør at klokken klarer å finne posisjonen din raskere. 
+
+Når du er ute og løper kan du bruke navigeringsknappen for å bla mellom ulike visninger, for eksempel om du vil vise tempo, puls, pulssoner, tilbakelagt distanse eller annen informasjon. 
+Det du har valgt som hovedinformasjon vises med stort tall, mens du kan vise tilleggsinformasjon som små tall. 
+Dette kan tilpasses. 
+Du får ikke like mye informasjon på hvert skjermbilde som på enkelte andre treningsklokker, som Polar V800, men til gjengjeld er det veldig oversiktlig og tydelig. 
+
+Treningsprogrammer 
+
+Klokken har støtte for det de kaller «treningsprogrammer», men som egentlig er enkle innstillinger som gjelder kun den treningsøkten du starter nå. 
+Du kan for eksempel velge å sette mål for treningen, for eksempel at du skal løpe en gitt distanse, en gitt tid, eller forbrenne et bestemt antall kalorier. 
+Da viser skjermen hvor langt du har igjen før du har nådd målet ditt. 
+Andre typer «treningsprogrammer» er intervalltrening, rundetider og pulssoner. 
+Ved intervalltrening legger du inn hvor lang oppvarming og nedkjøling du vil ha, hvor mange intervaller du vil løpe, samt hvor lange hvert intervall og pausene mellom intervallene skal være. 
+Du kan oppgi dette i både antall kilometer og tid. 
+
+Med pulssoner kan du trene innenfor en bestemt pulssone, for eksempel om du vil trene utholdenhet, vil gå ned i vekt, eller ønsker å trene i høyt tempo for å forbedre kondisjonen og hastigheten. 
+Det er også mulig å definere at du vil holde en bestemt fart, noe som kan være kjekt om du for eksempel har satt deg fore å løpe halvmaraton på under en gitt tid. 
+Da vil skjermen vise deg om du ligger over eller under farten du har lagt inn. 
+
+Med «Race»-funksjonen kan du konkurrere mot en av dine tidligere aktiviteter. 
+En veldig enkel kartvisning på skjermen viser deg da hvordan du ligger an sammenlignet med forrige gang du løp samme løype. 
+
+Konklusjon 
+
+Alt i alt mener vi TomTom Runner Cardio er en god treningsklokke. 
+Det å 
+
+få god og nøyaktig pulsmåling uten å måtte bruke pulsbelte, er et stort pluss. 
+Klokken er også svært enkel å bruke, med oversiktlige skjermbilder og en skjerm som funger bra i sollys. 
+
+En veldig nyttig funksjon, som vi har savnet hos andre, er at treningsinformasjon som lastes opp til TomTom MySports-tjenesten automatisk kan synkroniseres mot andre tjenester. 
+Det er støtte for blant annet RunKeeper, Strava, Endomondo og MapMyFitness. 
+Dermed vil all treningen du gjør med TomTom Runner Cardio automatisk dukke opp også i de andre tjenestene du bruker. 
+Stort pluss! 
+
+Skulle vi nevne noe som trekker ned litt, er det at web-tjenesten har noe begrenset funksjonalitet – og til tider også gikk litt tregt. 
+Når vi klikket oss inn på ulike aktiviteter for å få mer informasjon, tok det ofte lang tid før informasjonen dukket opp på skjermen. 
+
+Ønsker du en pulsklokke med GPS som har enda mer avanserte funksjoner, bør du ta en kikk på Polar V800. 
+Denne registrerer også aktiviteter gjennom hele døgnet, og den har innebygget barometer for høydemåling – noe som mangler på TomTom Runner Cardio (du får riktignok høydedata via kartdata når du besøker MySports-nettsidene, eller i appen). 
+
+Samsung har valgt en litt annen løsning: 
+Kan Gear Fit være både treningsarmbånd og smartklokke på én gang? 
+» 

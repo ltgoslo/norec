@@ -1,0 +1,120 @@
+Toshiba Satellite Pro P100-369
+Denne bærbare 17-tommeren har mange gode egenskaper - og ikke minst er den rimelig nok til å tekkes de fleste. 
+Men hvordan holder den seg mot konkurrentene? 
+
+Før jul testet vi tre 17-tommers bærbare her på DinSide Data, og vi kommer utover til å plukke opp flere interessante kandidater. 
+Denne gangen er det en prisgunstig modell fra Toshiba som har vært i ilden, men det må den også være med såpass god konkurranse. 
+Den stilige W1 fra LG er nok ikke så truende på grunn av en langt høyere pris, og batterikongen Dell Inspiron 9400 holder heller ikke følge når vi ser på prislappen. 
+
+LES OGSÅ: 
+
+Toshiba Satellite Pro P100-369 sin hovedkonkurrent er nok HPs Pavilion 9060, som gjorde en meget god figur når den ble testet i slutten av november i fjor. 
+Spesifikasjonsmessig er de to maskinene ganske så like. 
+HPen har riktignok to harddisker, og webcam, men det betyr også litt høyere pris og litt høyere vekt. 
+Toshibaen har på sin side innebygget blåtann. 
+
+Ingen sensasjoner i designet - den ser ut som en bærbar PC. 
+Det blå lyset i fronten sitter under høyttalerne fra harman/kardon. 
+
+Spesifikasjoner: 
+
+Intel Core 2 Duo T5500 @ 1,66 GHz 17" skjerm i bredformat (1440 x 900 piksler) 1 GB DDR2-minne (2 x 512 MB) 100 GB harddisk (5400 rpm) 
+DVD dual-layer DVD/CD-brenner nVidia GeForce Go 7600 (256 MB minne) 54 Mbps WLAN (a/b/g) Gbit LAN + modem Blåtann 4x USB, 1x FireWire (4-pin), lyd inn/ut 1 ExpressCard/54 kortplass 1 CardBus kortplass 5-in-1 kortleser: SD, MMC, Memory Stick/Pro, xD DVI, VGA og S-Video-utgang (4-pins) Dimensjoner (B/D/H): 
+39,4 x 27,5 x 4,8 cm Vekt ca. 3,4 kilo OS: 
+Windows XP Professional Pris: ca 11.500 inkl. mva. 
+
+Konstruksjon 
+
+Satellite Pro P100 virker relativt godt bygd, med få svake punkter. 
+Når det gjelder lokket savner vi riktignok litt avstiving og det er også hengslet litt for hardt, men dette er ikke kritisk. 
+Dessuten kan nesten alt slikt tilgis fordi det tross alt har en bronsefarget overflate. 
+At overflaten er i plast og ikke ekte bronse holder vekten nede på 3,4 kilo. 
+
+Tastaturet fyller bredden ved å klemme inn et numerisk tastatur på samme måte som 17-tommerne fra HP og LG, men i dette tilfellet mener vi det å "klemme inn" bokstavelig. 
+Den tilmålte plassen er kanskje stor nok til et vanlig internasjonalt tastatur, men når det gjelder vårt utvidede med blant annet æ, ø og å har designerne løst problemet ved å gjøre disse - og en rekke av de omliggende, blant annet punktum - tynnere. 
+Det betyr også vanskeligere å treffe. 
+[Enter] er også kortet ned til kun en linje, noe som vil skape trøbbel for en rekke brukere som nå vil treffe asterisk-tasten i stedet. 
+Bortsett fra dette er det behagelig nok å skrive på og har fin svikt, men støymessig ligger det litt i overkant av hva vi er vant til - dog godt under de fleste "vanlige" tastaturer. 
+
+Touchpaden - som har skrollfelt i både vertikal og horisontal retning - er litt liten etter vår smak, men den er god og følsom, noe som i stor grad veier opp for dette. 
+Det at den er liten betyr også at det er mindre sjanse for å komme borti den ved bruk av kun tastaturet. 
+
+Datamaskinen har også noen snarveisknapper over tastaturet: foruten av/på-knappen finner du her en snarvei for Internett og medieavspiller (kan konfigureres om), pluss grunnleggende knapper for nettopp avspilleren. 
+
+Rundt hele maskinen er det tilkoblinger for denne bærbare PCen: 
+
+I front finner vi - foruten høyttalerne - minnekortleseren, inn- og utganger for lyd, mekanisk hjul for lydvolum og en skyveknapp som skrur det trådløse nettverkskortet av og på. 
+
+Når det gjelder lyden så er vi som kjent ikke akkurat bortskjemt med dette på bærbare, og det er derfor også et punkt vi pleier å hoppe glatt over - ganske enkelt fordi god lyd er standard mangelvare. 
+Men på denne PCen er det ikke så halvgalt. 
+De små høyttalerne blåser på langt nær sokka av deg, men spiller høyt og rent nok til å glede folk i umiddelbar nærhet med god musikk. 
+
+På høyre side er det kun to USB-kontakter som har fått plass i tillegg til DVD-brenneren. 
+
+Bak på maskinen er det inngang for strøm, LAN og modem, videoutganger (VGA, DVI og S-Video) og en USB-kontakt. 
+Helt til venstre er det også plass for kensingtonlås. 
+Varmluft blåses også ut her. 
+
+På venstre side er det en en kontakt for USB og en for FireWire, pluss kortplass for både ExpressCard/54 og CardBus. 
+Også her blåser noe varmluft ut. 
+
+Ytelse, batterilevetid og støy 
+
+Siden HPs dv9060ea har samme prosessor og like mye minne var det ytelsen kontra denne maskinen vi var mest spente på. 
+Maskinene fra Dell og LG er betykket med raskere prosessorer (C2D T7200). 
+
+Kodingen av WAV-filer til MP3-format gikk som forventet, men Toshibaen var slett ikke glad i SysTool, der vi bruker henholdsvis bare den ene og begge kjernene til å regne ut Pi med 8 millioner desimaler. 
+Her er forskjellen fra dv9060ea litt større enn vi hadde regnet med. 
+
+Prosessorytelse, med verdi i sekunder. 
+Lavere score betyr raskere datamaskin. 
+
+I PCMark05 tar P100 jumboplassen, men marginene her er ikke store. 
+Ytelsen når det gjelder prosessoren og minnet er den samme som på HPen, mens den havner litt bak når det gjelder grafikk - her er det nok blant annet det ekstra grafikkminnet (512 mot 256 MB) i HPen som gjør sitt - men forskjellen i faktiske spill vil nok være minimal. 
+Harddiskens ytelse er den som ligger lengst bak de andre. 
+
+Høyere poengsum tilsvarer bedre ytelse 
+
+Så er du på jakt etter en bærbar som fint takler de fleste spill eller er god til video er dette et godt valg. 
+
+Batterilevetiden er dessverre en liten skuffelse. 
+Tiden tippet så vidt over to timer, som gjør at den også her kommer sist. 
+
+I forhold til HPen ligger altså Toshibas maskin en god halvtime bak. 
+Om det betyr noe for deg kommer selvsagt an på bruksmønsteret ditt. 
+
+Når det gjelder støy kunne Toshibaen lett ha vært en liten drøm. 
+Luften blåses ut bak og på venstre side, vi vet at viftene som flytter luften gjennom disse åpningene kan være stillegående. 
+Det har vi nemlig merket. 
+Men viftekontrollen er ikke noe å skryte av, og her er problemet todelt. 
+For det første går viftene av en eller annen grunn opp på maksimalt turtall et sekund eller to før de spinner ned. 
+Det andre er at dersom ikke maskinen belastes vil viftnene (spesielt den bak) slå seg helt av alt for fort. 
+
+Legger vi dette sammen betyr det at i stedet for en jevn svak susing over lengre perioder vil du få korte "utbrudd" med ujevne mellomrom, der du legger godt merke til vifta som plutselig går opp på fullt i et sekund og skrur seg av nesten like raskt. 
+
+Det finnes for så vidt to viftemoduser på maskinen: performance og silent. 
+Dessverre gjør ikke stille modus at vifta blir roligere, den bare spinner opp sjeldnere og lar maskinen bli litt varmere - men likevel ikke så varm at du ikke kan ha den på fanget. 
+Men dessuten senkes ytelsen betraktelig! 
+Og til slutt: å stille om fra en modus til en annen krever at du går inn i BIOS, og det er tungvint. 
+Det er mye bedre med en løsning der du kan stille på dette direkte i Windows, slik vi finner på LGs lette 17-tommer. 
+
+At vifta spinner plutselig opp og ned kan av og til skje opp til flere ganger i løpet av et minutt, selv når maskinen ikke belastes, og i rolige omgivelser vil nok helt sikkert noen finne dette sjenerende. 
+
+Konklusjon 
+
+Toshiba Satellite Pro P100-369 er en maskin med det meste på rett plass! 
+Foruten å være stilren skiller den seg ut i mengden med bronsefarget lokk. 
+Skjermen er klar og fin, lyden akseptabel til å være en bærbar PC, og ytelsen er god nok til alle normale bruksområder - også spilling. 
+Den kommer dessuten med blåtann innebygget, og vekten er slett ikke så gal. 
+
+Beklageligvis er det et noen få elementer som skjemmer det positive inntrykket. 
+Det ene er tastaturet. 
+Riktignok er vi kanskje litt sære her i Skandinavia med våre ekstra bokstaver, men tynne bokstavtaster på tastaturet er det ingen som liker. 
+Her håper vi Toshiba finner bedre løsninger i fremtiden - andre produsenter klarer dette tross alt fint. 
+
+Det andre er viftekontrolleren, som ganske enkelt gjør at viftene er langt mer sjenerende enn de kunne ha vært. 
+Her er det rom for forbedringer. 
+Det gjelder egentlig også PCens batterikapasitet. 
+
+Men for noen er dette ikke dette viktige ting, og er du en av dem så skal det sies at dette totalt sett er en god og meget prisgunstig maskin fra Toshiba. 
+Totalt sett havner karakteren på en god firer - hovedsakelig trukket ned av de elementene som er nevnt over. 

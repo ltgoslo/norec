@@ -1,0 +1,45 @@
+160 GB Hitachi 7K250
+160 GB er en rimelig og kurant diskstørrelse for de fleste brukere. 
+Her ser vi på hva den tilbyr av ytelse. 
+
+Hitachi viderefører utviklingen av harddisker etter at de kjøpte opp IBM sin harddisk-divisjon for en tid tilbake. 
+Kapasiteten øker, stabiliteten blir bedre og støyen minsker. 
+
+7K250-serien har disker fra 40 til 250 GB som alle roterer med 7200 omdreininger, de finnes med S-ATA eller vanlig parallell ATA grensesnintt, og er beregnet på alle typer skrivebords-brukere i hjem eller på kontor. 
+Det er dette som ligger i Deskstar-navnet, mens Ultrastar-serien er beregnet på servere og arbeidstasjoner. 
+
+160 GB er godt med plass, både til operativsystem, programvare og data, selv for de som bruker digitalkamera og laster ned en del musikk eller ripper fra CD. Også de som driver med hjemmevideo har en del plass å boltre seg på, det er plass til å overføre en god del DV-kassetter på en disk av denne størrelsen. 
+
+Testoppsett og målinger 
+
+Vi installerte disken i vår testPC på egen kabel, satt opp som master på IDE-kanal 2. 
+TestPCen er en 3 GHz Pentium 4 med 1 GB minne og Windows XP Professional. 
+
+Først kjørte vi HDtach, som tester lese og skriveytelsen over hele diskens kapasitet. 
+
+Her fikk vi en leseytelse som startet på 64 028 KB/sekund og falt av til 14 745 innerst på disken, med et gjennomsnitt på 47 965 KB/sekund 
+
+Skriveytelsen startet på 37 846 og falt til 8 219 KB/sekund med 21 559 som gjennomsnitt. 
+
+Aksesstiden målte vi til 12,6 ms. 
+
+Vårt eget testprogram målte en noe lavere leseytelse, som startet på 59 307 KB/sekund på den første og endte på 45 233 på den siste av 3 partisjoner vi hadde opprettet. 
+
+Skriveytelsen måålt tilsvarende lå på 42 149 KB/sekund og falt til 31 111 på den siste partisjonen. 
+
+Støy og vibrasjoner 
+
+Disken var både svært stillegående og vibrasjonssvak, og hodemekanismen var avdempet, uten skarpe klikkelyder. 
+
+Disken ble aldri mer enn håndvarm under testingen. 
+
+Konklusjon 
+
+Denne disken fra Hitachi er en meget kurant disk for generell PC-bruk anno 2004. 
+Den har meget høy leseytelse, som er det aller viktigste. 
+Skrivehastigheten er høy nok til å ta unna datastrømmen for alle typer programmer som hører hjemme på skrivebordet. 
+
+Støyen er lav og temperaturen er beskjenden. 
+Dessuten er prisen lav. 
+
+Hitachi-disker får du kjøpt hos alle de store leverandørene av PC-komponenter. 

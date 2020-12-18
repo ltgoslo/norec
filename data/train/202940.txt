@@ -1,0 +1,82 @@
+Toshiba Satelitte L505-141
+Dette er en av de utvalgte fra vår sammenligning av bærbare i februar. 
+
+I forrige testrunde av bærbare var det store maskiner i 10.000-kroners klassen som deltok. 
+Den omgangen vant Toshiba, med en maskin som hadde flere overbevisende egenskaper. 
+Det viste seg dessverre at det oppsto leveringsvansker med akkurat den modellen, og flere har uttrykt både skuffelse og misnøye med dette. 
+
+I februar kjørte vi en ny sammenligning, av maskiner med 16-tommers skjerm og pris på 8000 kroner. 
+Har var det to maskiner fra Asus og en Toshiba som ble stemt inn. 
+
+Maskinene fra Asus venter vi stadig på, men Toshibaen vi nå har hatt på benken er det ingen leveringsproblemer med, den selges både av Elkjøp og Lefdal. 
+
+Egenskaper 
+
+¨ Maskinen er blank, sort med diskret striper og må sies å være elegant i utformingen. 
+Det er rene linjer og få designpåfunn som ikke har noen funksjonalitet. 
+Klistremerkene er på plass, av samme grunn som vi finner klistremerker på rallybiler. 
+De kan tas av uten å ødelegge finishen hvis man er forsiktig. 
+
+Skjermen er 15,6 tommer stor, og har en oppløsning på 1366 x 768. 
+Det er samme oppløsning som HD-ready TV-er, og fungerer utmerket til både film og de mest vanlige brukerprogrammene. 
+
+Noen vil mene at oppløsningen er for grov, og ville hatt full HD i 1920 x 1080. 
+Det finnes, men det koster mer. 
+Når det gjelder denne type spesifikasjoner er det en tett kobling til pris. 
+
+Forøvrig er skjermen ok, den har et TN-panel, med de begrensninger dette gir. 
+Spesielt på fly kan vinkelen være vanskelig å stille slik at man ser riktige farger og nyanser i de lyse partiene. 
+
+Tastaturet er passe romslig og har flate og glatte topper, med lite merkbart skille mellom tastene. 
+Dette er litt uvant til å begynne med, men det tok ikke veldig lang tid å venne seg til det. 
+Men vi er ikke helt sikre på om det er slik vi vil ha det. 
+Designmessig harmonerer det med resten av maskinen. 
+
+Pekeplaten har ingen kanter, men teksturen er tydelig forskjellig fra områdene rundt. 
+Det gir en behagelig følelse og responsen er god. 
+Knappene gir god tilbakemelding og er delt på midten, slik vi foretrekker. 
+
+Det er egne knapper for avspilling av mediefiler, de er plassert mellom tastaturet og skjermen. 
+
+Det er også et hjul i front for direkte volumkontroll, av tilsynelatende god gammel analog type. 
+Den styrer likevel mikseren i maskinen og er altså ikke analog, men fungerer fint. 
+
+Tilkoblinger 
+
+På venstre side finner vi kontakter for tilkobling av skjerm både med VGA og HDMI. 
+I mellom disse sitter nettverkskontakten. 
+Videre finner vi en kombinert eSATA og USB-kontakt og minijacker for mikrofon og hodetelefoner. 
+
+På høyre side finner vi åpning til Kensington-lås, inntak for strøm, 2 USB-porter og DVD-brenneren. 
+
+Ytelse 
+
+Maskinen er utstyrt med den nyeste teknikken fra Intel, og vi forventer god ytelse. 
+Vi ble heller ikke skuffet, verken under bruk eller i testing. 
+
+Vi har målt ytelsen med PCMark Vantage og fikk disse resultatene: 
+
+6127 PCMarks 3918 Memories 3871 TV and Movies 5078 Gaming 5955 Music 4708 Communication 4858 Productivity 3351 HDD 
+
+Geekbench ga resultatet 4026. 
+Til sammenligning klarte en MacBook Pro med Core2 Duo på 2,66 GHz bare 3038 under Windows Vista, og 3577 under MacOS. 
+
+Windows ytelsesindeks ble målt til 5,6 og det var harddisken som var lavest på skalaen. 
+Alle de andre målingene; Prosessor, Minne, Grafikk og Spillgrafikk ble målt til 6,7. 
+Disken som er "synderen" her er selvsagt fra Toshiba, det er en MK5055GSX som roterer med 5400 omdreininger. 
+
+Batteritiden med kontinuerlig avspilling av HD-video og ingen strømsparefunksjoner var 101 minutter - eller 1 time og 41 minutter. 
+
+Uten aktivitet varte batteriet 182 minutter - eller 3 timer og 2 minutter. 
+
+Maskinen er støysvak, vi la aldri merke til noe støy i det hele tatt under vanlig bruk, verken i kontormiljø eller på hjemmekontoret. 
+
+Konklusjon 
+
+Dette er en elegant og rask maskin, med de viktigste egenskapene på plass. 
+Den egner seg godt til generell bruk og oppleves som en kraftig maskin med svært god respons. 
+
+Det er spart inn på skjerm og tilkoblinger for å holde prisen nede. 
+Vi ville gjerne hatt enda en USB-port og en spalte for ExpressCard. 
+
+Man kan si at det er en enkel maskin, men med ytelse som tidligere var forbeholdt maskiner i den øverste prisklassen. 

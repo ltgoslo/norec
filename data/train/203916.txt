@@ -1,0 +1,95 @@
+Til denne prisen er det spesielt én ting vi savner
+Toppmodellen fra Kygo er en helt ålreit hodetelefon med litt for høy pris. 
+
+Ikke bare lager han musikk som støtt og stadig dukker opp på topplistene – Kygo, eller Kyrre Gørvell-Dahll som han heter, har mer enn musikk i arsenalet og bruker navnet sitt blant annet på klær og lydprodukter. 
+
+Dagens testprodukt er Kygos foreløpige toppmodell, A9/600. 
+For oss i Dinside er det det første Kygo-produktet vi tester, men det skal sies at forgjengeren, A7/800, ikke fikk allverdens gode kritikker rundtom – spesielt fordi de hadde en åpenbar feil, der lyden kom langt etter bildet om man brukte dem til film eller musikkvideoer. 
+
+Akkurat det har vi ingen problemer med på A9/600, som har fått en annen lydbrikke enn det forgjengeren hadde. 
+Den er fra Qualcomm og har støtte både for AptX og AAC. 
+Spesielt vil du oppleve veldig liten forsinkelse når du bruker AptX, som normalt er støttet på mange Android-telefoner, men ikke på iPhone (men dog på Mac). 
+
+Komfortable på ørene 
+
+En ting vi liker godt med Kygo A9/600, er den gode polstringen både på øreklokkene og på undersiden av hodebøylen. 
+
+Som hos mange andre er det brukt såkalt «memory foam» på øreklokkene; en skuminnretning med en viss «treghet» som tilpasser seg godt inntil hodet. 
+
+Og selv om vekten er relativt høy på dette hodesettet (320 gram), synes vi det er uproblematisk å ha dem på over lenger tid. 
+De er for eksempel 85 gram tyngre enn Bose QuietComfort QC35, men 15 gram lettere enn Bowers and Wilkins' nye PX-hodetelefoner. 
+
+Konstruksjonsmessig for øvrig virker hodetelefonene solide, men av og til hører vi en knirkelyd når vi vrir på selve klokkene eller legger dem fra oss på bordet, som ikke helt tar seg ut på et produkt til 2.000 kroner. 
+
+Betjening på øreklokkene 
+
+Noe vi har blitt veldig glade i på Sonys 1000X-hodetelefoner (MDR-1000X og WH-1000XM2) er at overflaten på den ene øreklokka er berøringsfølsom, slik at man med enkle sveipebevegelser kan endre volumet eller bytte sang. 
+
+Der følger Kygo opp på samme måte. 
+Høyre klokke er markert med ikoner som viser funksjonaliteten, men det holder ikke å trykke ved aktuelt ikon – man må altså sveipe. 
+En ting vi foretrekker kontra Sony-modellene, er at det ikke kommer noe pipelyd i øret hver gang vi regulerer volumet opp eller ned. 
+
+Ved siden av denne betjeningen er det bare én knapp på A9/600, og det er av og på-knappen, som kan holdes inne om du vil sette hodetelefonene i paringsmodus. 
+Positivt er det at A9/600 kan være tilkoblet to lydkilder samtidig; for eksempel PC og mobiltelefon. 
+
+De har også NFC innebygd, men hvor sensoren sitter er det bare å gjette seg frem til – den er nemlig ikke markert. 
+Vi fikk til NFC-oppkobling mot en Android-telefon til slutt, men akkurat hvor på venstre øreklokke den sitter, er vi neimen ikke helt sikre på. 
+«Near the left side» sies det i manualen, men den som har prøvd slik før, vet at man bør treffe ganske nøyaktig. 
+
+Mangler aktiv støydemping 
+
+Ellers lades Kygo A9/600 med micro USB-kabel (altså ikke den nyere USB-C-varianten), og oppgitt spilletid er 23 timer på én batteriladning. 
+
+Omtrent på par med mange av konkurrentene, med andre ord, men med en viktig forskjell – Kygos hodetelefoner har ikke aktiv støydemping, som du nå får på ganske mange modeller i denne prisklassen. 
+Altså der teknologi sørger for generere motsatte lydbølger av støyen rundt deg for å nulle den ut. 
+
+Spesielt isolerende er de ikke, så støy slipper både ut og inn – volumet skal ikke veldig høyt før kolleger eller togpassasjerer fint kan høre hva du hører på. 
+
+Egen app 
+
+De fleste hodetelefonprodusenter har i dag egne apper for iOS og Android som gir deg mulighet til å tilpasset lydbildet til dine egne preferanser, og Kygo er intet unntak. 
+
+Dog skal det sies at vi først ikke fikk Android-utgaven til å fungere. 
+Selv om hodetelefonene var koblet til telefonen via Bluetooth, fikk vi beskjed om at appen ikke fant dem – ei heller mens vi spilte musikk, der vi var 110% sikre på at de var koblet til. 
+Vi prøvde både på en Huawei-telefon og en Samsung-telefon, men appen fant ikke hodetelefonene på noen av dem. 
+
+På iPhone, derimot, fungerte det fint. 
+Det viste seg at problemet var at vi var koblet til to telefoner samtidig – da er det bare én av dem, i vårt tilfelle iPhone, som får brukt appen. 
+
+Ved siden av å kunne aktivere ekstra bass, kan du fra appen styre lydbildet i et koordinatsystem med Bergen på topp og Ibiza i bunn, samt Los Angeles og New York på hver sin side. 
+
+De skal passe best henholdsvis til akustisk/piano, lounge, hip hop og house. 
+Alt du trenger å gjøre er altså å dra fingeren rundt i dette koordinatsystemet til musikken høres ut slik du foretrekker den, og valget ditt lagres i selve hodetelefonen slik at innstillingene gjelder også om du bruker en annen lydkilde. 
+
+Selv om det ser pent ut, må vi innrømme at vi heller foretrekker tradisjonelle equalizerinnstillinger med mer presis kontroll – det blir nemlig ganske store forskjeller i lydbildet selv ved små justeringer i dette koordinatsystemet, der enkelte instrumenter nærmest kan forsvinne bare ved å flytte markøren en halv centimeter til siden. 
+
+Slik låter det 
+
+Kygo 
+A9 er absolutt kabapel til å levere god lyd – det låter ikke like raffinert som de dobbelt så dyre PX fra B&W; som jeg har brukt de siste ukene, der spesielt mellomtonen ikke er like detaljert som på nevnte hodesett. 
+
+Men det låter definitivt ganske morsomt – god dynamikk, og der du som bruker har god kontroll via den nevnte appen. 
+De 40mm store driverne evner å dra på om du liker det, men bassen føles allikevel kontrollert; i hvert fall om du lar bass boost-knappen i appen være avslått, der det fort blir litt mye av det gode (dog ikke like mye som på Sonys XB950). 
+
+Lydbildet er relativt varmt og luftig, og det låter klangfullt og taktfast på Mac Zimms trance-klassiker L'annonce des Couleurs, gjerne med litt Ibiza-krydder fra appen. 
+Krydderet passer imidlertid ikke til Gabirel Rios' akustiske utgave av Gold, der vi heller vil ha litt Bergen og New York, men der vi uansett ikke helt klarer å få den samme detaljrikdommen og klarheten i overtonene enkelte andre klarer å levere. 
+
+Om du hører på varierte musikksjangre bør du med andre ord titt og ofte stille på dette i appen for å få det til å låte optimalt, og kanskje i større grad enn vi bruker å gjøre på andre hodesett. 
+
+Men det meste låter ganske ålreit på standardinnstillingene også, så er det sagt. 
+
+Konklusjon 
+
+Med A9/600 byr Kygo på et par hodetelefoner som er lett å like – de er relativt store og ikke blant de letteste, men sitter komfortabelt på hodet, med god polstring både mot ører og isse. 
+
+Betjeningen er enkel, takket være den berøringsfølsomme flaten på høyre klokke, som lar deg endre volum og hoppe over en sang bare med en sveipebevegelse. 
+
+Lyden er vi også greit fornøyde med, med et varmt og åpent lydbilde og kontrollert bass, som evner å dra på litt ekstra om du vil. 
+Litt ullen mellomtone trekker ned, selv om du i stor grad kan påvirke lydbildet via appen. 
+
+Batteritiden på 23 timer er omtrent på par med de fleste andre i denne prisklassen, men en ting A9/600 ikke kan by på, er aktiv støydemping, og de lekker også ganske mye lyd når du skrur opp volumet. 
+
+Mangelen på støydemping gjør at vi synes prisen blir i overkant høy på Kygos nye toppmodell, og vi lander derfor på en sterk firer på terningen. 
+
+PS! 
+Hodetelefonene finnes i flere farger enn hvit; blant annet burgunder og palmegrønn. 

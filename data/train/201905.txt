@@ -1,0 +1,103 @@
+Fujifilm FinePix S6500fd
+TEST: 
+For deg som har lyst på et kamera i speilrefleksstørrelse, men som ikke har så mye penger til rådighet, kan dette kameraet være løsningen. 
+Vi har testet! 
+
+Det er blitt populært med speilrefleks om dagen, noe som sannsynligvis har en stor sammenheng med at produktene har falt i pris til et overkommelig nivå for mange. 
+Allikevel har det lett for å balle på seg når du skal ha optikk. 
+Kit-objektivet som pleier å følge med, har som regel begrenset lysstyrke, brennvidde og kvalitet, og for å få en serie objektiver som dekker det meste av situasjoner, blir det ofte en del tusenlapper ekstra. 
+I tillegg tar utstyret stor plass i sekken. 
+
+For deg som liker å ha litt å holde i, men som ikke er villig til å investere flerfoldige tusen, kan dette være kameraet for deg. 
+Fujifilm FinePix S6500fd er ikke et speilrekskamera selv om det ser sånn ut, og innehar dessuten funksjoner som speilreflekskameraene ikke har, blant annet ansiktsgjenkjenning og muligheten for å filme. 
+Kameraet havner i klassen "superzoom", som med 28-300mm brennvidde (35mm-ekvivalent) byr på hele 10,7x optisk zoom. 
+Objektivet er også forholdsvis lyssterkt, med f/2,8 som største blender på vidvinkel og f/4,9 i teleenden. 
+Å kjøpe tilsvarende optikk til et speilreflekskamera ville ha blitt en dyr affære, selv om Canon PowerShot S3 IS hadde f/3,5 på tele (420mm), som slipper inn dobbelt så mye lys som f/4,9. 
+Canon-kameraet har imidlertid ikke like god vidvinkel som S6500fd. 
+
+"SLR-feeling" 
+
+En ting vi liker med dette kameraet, kontra for eksempel S3 IS er at det har "speilrefleks-feelingen". 
+Zooming skjer ikke med en bryter foran utløserknappen, men ved å vri på objektivet. 
+Det samme gjelder manuell fokusering. 
+Størrelsen gjør også at grepet er veldig godt - det er avrundet på en slik måte at du nesten ikke klarer å miste kameraet når du går med det i én hånd, og er utformet slik at langfingeren og ringfingeren/lillefingeren er adskilt. 
+At kameraet veier 700 gram gjør også at det føles solid. 
+
+CCD-brikken er den samme som sitter i F20/F30 - 6,3 megapiksler fordelt på en 1/1,7" SuperCCD HR-brikke, som er spesielt tolerant overfor høye ISO-verdier. 
+Kameraet støtter ISO-verdier så høyt som 3200 uten å redusere oppløsningen, som også er markedsledende for denne type kameraer. 
+
+Kameraet skrus på med en bryter foran utløserknappen, og her skiller du mellom innspilling og avspilling. 
+Vi må innrømme at vi foretrekker én knapp for avspilling på baksiden og heller et lite trykk på utløserknappen for å komme tilbake, slik Fujifilm har på kameraene i F-serien. 
+Bak utløserknappen er det også knapper for seriefotografi og eksponeringskompenasjon, som brukes i kombinasjon med piltastene for å endre verdi. 
+
+Kameraet har også et funksjonshjul, som gir deg tilgang til full automatikk, programmodus, der du selv regulerer ISO, fokuseringsmetode etc., blender-/lukkerprioritet og full manuell kontroll. 
+Du kan også filme i 640x480 med kameraet, aktivere anti-shake, som i praksis bruker høyere ISO-verdier, samt velge blant en håndfull ulike motivprogrammer. 
+Kameraet har også funksjonen "natural light with flash", som tar to kjappe bilder; ett med og ett uten blits. 
+
+Avansert funksjonalitet 
+
+I tillegg har S6500fd mer avanserte funksjoner, som bracketing (tre bilder med ulik eksponering som tas på rappen), og manuell fokusering, som som nevnt skjer via ringen på objektivet. 
+Da forstørres et vindu på skjermen slik at du kan peile inn best mulig. 
+Vi savner imidlertid en indikasjon på beregnet avstand på denne fokuseringen, i tillegg til at skarphet og oppdateringsfrekvens på skjermen burde ha vært bedre.. 
+
+Kameraet har også makronærgrense på 1 cm, som er svært godt (S3 IS har 0 cm). 
+Entusiaster vil også sette pris på at kameraet kan ta bilder i RAW-format, som gir større fleksibilitet til å justere hvitbalanse, komprimering og eksponering i etterkant av når bildet er tatt. 
+
+I modellnavnet, s6500fd, står fd for face detection, og den fungerer utmerket. 
+Rett kameraet mot den du skal ta bilde av, og kameraet sørger for å fokusere på ansiktet fortere enn du får sagt "smil". 
+Blir flere ansikter oppdaget, sørger kameraet for å avpasse blenderåpning og blitsspredning slik at alle ansiktene blir optimalt eksponert. 
+Foreløpig er det Fujifilm som har overtaket når det gjelder hastigheten på ansiktsgjenkjenningen, men det er ikke mye en skal se til siden før kameraet "slipper taket". 
+En finesse er dog at du i avspillingsmodus kan trykke på ansiktsknappen for å hoppe fra ansikt til ansikt - slik kan du kjapt sjekke at ingen av de seks du tok bilde av blunker på bildet. 
+
+LCD-skjermen er 2,5" stor og høyoppløselig med 235.000 piksler. 
+Kameraet har også en elektronisk søker som viser en mindre utgave av LCD-displayet, men der du like fullt kan bruke menyer etc. 
+Via en knapp regulerer du hvilken av dem du vil bruke. 
+
+Menyene er identiske med de på andre FinePix-kameraer; lette å lese og navigere i, men med en liten svakhet, og det er at OK-knappen lukker menyen, selv om du gjerne vil foreta flere innstillinger. 
+Å pile til venstre virker i hvert fall litt lite intuitivt for vår del. 
+En egen menyknapp, F-knappen, gir deg rask tilgang til å endre ISO, bildekvalitet og fargementning, og som vi nevnte da vi testet FinePix F20, skulle vi gjerne ha sett at det var andre parametere som lå i denne menyen, eller at den hadde vært konfigurerbar. 
+
+Kameraet har også en grønn lampe som hjelper autofokusen i dårlig lys, og våre erfaringer er at den automatiske fokuseringen fungerer utmerket når det gjelder å "treffe blink". 
+Blitsen er av typen som spretter opp, og har en oppgitt rekkevidde på drøye åtte meter, som også er et veldig godt tall. 
+
+Ytelse 
+
+Ytelsesmessig klarer ikke kameraet helt å levere i forhold til et speilreflekskamera. 
+Oppstartsiden er snaue to sekunder, og seriefotograferingen klarer ni bilder på ti sekunder. 
+Kameraet bruker for øvrig 4xAA-batterier og har en oppgitt CIPA-levetid på 200 bilder med alkaliske batterier og 400 bilder med NiMH-batterier. 
+
+Bildekvalitet 
+
+Når det gjelder bildekvalitet, spørs det litt hva man sammenligner med. 
+Nei, Fujifilm S6500fd tar ikke like gode bilder som speilrefleksene til 2-3.000 kroner mer, men sammenlignet med andre kompaktkameraer, er bildekvaliteten god. 
+
+Som vi har påpekt flere ganger før: 
+SuperCCD HR-brikken, som også finnes i F20/F30-kameraene, er rett og slett strålende. 
+Det å kunne ta bilder opp til ISO 800 uten merkbar støy på en A4-utskrift (uten sammenligning med speilrefleks, selvsagt) er veldig kjekt når lystilgangen er dårlig, eller når du ønsker å beholde noen av stemningen i bildet ved ikke å bruke blits innendørs. 
+Den har også godt dynamisk omfang, og er i stand til å fange svært skarpe bilder. 
+Blåses bildene opp 100% på skjermen, har de en liten svakhet der de ser litt "malt" ut i kantene, men for alt opp til A4-utskrifter (og A3 med lavere ISO-verdier) vil ikke dette være spesielt synlig. 
+
+Optisk kunne ting vært bedre - spesielt gjelder dette kromatisk feilbrytning, som er nokså fremtredende i bildekantene, og tønne- og perspektivforvrengningen på vidvinkel er også et svakt område for dette kameraet. 
+På bildet under ser du hvordan bildet vrenges i kantene - spesielt synlig på byggverksbilder som dette. 
+Positivt er det imidlertid at hjørneskarpheten er veldig god og at vignetteringen er moderat. 
+
+Hvite himler blir det ofte på bildene på denne tiden av året, selv om den burde ha vært grå. 
+Her er ikke lysmåleren god nok, og du blir nødt til å justere eksponeringen selv eller foreta målingen mot himmelen for å få den godt eksponert. 
+Merk at ulikt de fleste speilreflekskameraer, kan du ikke foreta lysmåling og fokusering på forskjellige punkter. 
+
+Det vi savner mest, er en bildestabilisator. 
+Med mindre det er veldig godt vær, er det vanskelig å få gode håndholdte bilder på full tele. 
+ISO må ofte kjøres opp på 1600 for å få kort nok lukkertid, og da avtar bildekvaliteten et hakk. 
+For å utnytte tele-enden best mulig, er du derfor nødt til å ha med stativ ut på tur. 
+
+Konklusjon 
+
+Er denne type kameraer levedyktige? 
+Vi tror det, siden prislappen på S6500fd er såpass hyggelig som den er - i skrivende stund får du kameraet til drøye 3.500 i de billigste nettbutikkene; et komfortabelt hakk bak de billigste speilreflekskameraene. 
+
+FinePix S6500fd frir imidlertid ikke til massene - det er kameraet for deg som liker å holde i speilrefleks, men som først og fremst ikke har budsjett til å bruke penger på kamerahus og optikk. 
+Her får du både god vidvinkel (28mm) og lang tele (300mm), som gir deg et svært fleksibelt utgangspunkt. 
+Sammenlignet med andre kameraer på dette prisnivået, har S6500fd også alt som trengs av avanserte funksjoner; det være seg RAW-støtte, manuell fokusering og bracketing. 
+Vi setter imidlertid en finger på den optiske kvaliteten, som vi synes burde ha vært bedre. 
+
+Vær også oppmerksom på at de sparte tusenlappene resulterer i a) at du ikke kan kjøpe ny optikk, b) ikke kan koble på f.eks. ekstern blits og c) at bildekvaliteten ikke er like god som et speilreflekskamera. 

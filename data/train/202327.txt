@@ -1,0 +1,103 @@
+Toshiba Satellite R630
+Nok en meget potent 13-tommer har vært på testbenken, og den imponerer kraftig på batterilevetid. 
+
+Flere og flere får øynene opp for kompakte PC-er med 13,3-tommer skjermer, etter vår mening perfekt størrelse for folk som er mye på farten. 
+For det første er de ikke så små at det går på bekostning av tastatur, ergonomi med tilhørende produktivitet, for det andre veier de ofte knapt mer enn en bok i ranselen. 
+
+Beveger du deg litt opp i prisklasse finner du modeller med høy ytelse og god batterilevetid, og i en byggekvalitet som tåler litt tøff behandlig fra tid til annen. 
+
+Vi så nylig på en høyaktuell modell i prisklassen rundt 7.500 kroner, U36J fra Asus. 
+Denne gang har turen kommet til R630 fra Toshiba. 
+
+Tabellen under viser noen av de viktigste tekniske dataene. 
+Vi har tatt med Asusen for sammenligningens skyld, både her og senere i denne testen: 
+
+For flere tekniske data for Toshiba, se her. 
+(Ekstern lenke) 
+
+Eksteriør og tilkoblinger 
+
+Begge maskiner har mørkegrått chassis, med mange likhetstrekk - i hvertfall ved første øyekast. 
+Asus U36J har imidlertid valgt et metallmateriale i lokket, mot en stiv plastblanding i Toshibaen (med metallisk preg i lakken). 
+Begge har valgt overflater som ikke så lett skjemmes av fingeravtrykk. 
+Det synes vi er positivt! 
+
+Begge har VGA- og HDMI-utganger for tilkoblinger til ekstern skjerm, og begge har tre USB-porter. 
+Én av kontaktene på Toshiba er en delt USB/eSATA-kontakt. 
+
+Forøvrig har begge minnekortleser for de fleste aktuelle kort, men vi liker løsningen på Toshibaen best, den er nemlig lett å finne siden den synes ovenfra. 
+
+På Asus U36J er alle tilkoblingene på sidene trukket lengst bort fra brukeren, mens på Toshiba er de plassert bakerst på høyre side, og fremst på venstre side. 
+Fremst til høyre sitter nemlig en DVD-brenner, noe Asus ikke har i det hele tatt. 
+
+Skjerm, tastatur og pekeplate 
+
+Begge skjermene måler 13,3" diagonalt, og oppløsningen er den samme med 1366 x 768 piksler, altså 16:9 høyde:breddeforhold. 
+Asus har muligens noe bedre kontrast - uten at vi har gjort nøyaktige målinger, men forskjellene er så marginale at de ikke vil være mulig å oppdage med mindre maskinene plasseres side om side. 
+
+Begge har dessuten blankt kontrastbelegg. 
+Fint for film og bilder, men det kan gi ganske mye uønsket refleksjon i vanskelige lysforhold. 
+Toshiba R630 har imidlertid en søstermodell kalt Portégé R700, med matt skjerm, dockingport og Windows 7 Professional. 
+Forøvrig er den like R630. 
+
+Toshibaen er som nevnt litt mindre enn Asusen, og selv om tastaturplaten er omtrent like bred, er hver tast litt mindre. 
+De er også glatte, mens Asus' taster er litt ru. 
+Begge plater er av høy kvalitet med minimal svikt, lav støy og god respons, men Asus er i våre fingre litt bedre å skrive raskt på - med sine litt større og ru taster. 
+
+Pekeplatene på begge er matt og også litt ru, Toshiba har to knapper for høyre og venstreklikk, mens Asus har én todelt knapp. 
+Hva man foretrekker blir en smakssak. 
+
+Høyttalere og lyd 
+
+Toshiba har et par høyttalere som sitter over tastaturet, mens på Asus sitter de i front. 
+Begge løsningene låter meget spinkelt, nesten uten bass overhodet. 
+Det er imidlertid mer regelen enn unntaket i denne prisklassen. 
+
+Heldigvis har begge lydutganger (minijack) for tilkobling til eksterne høyttalere eller hodetelefoner ved behov. 
+
+Ytelsestestene 
+
+Windows opplevelsesindeks gir oss følgende indikasjoner på styrkeforholdet mellom de to maskinene: 
+
+Oppsiktsvekkende for mange er det kanskje at forskjellene i ren ytelse er minimale mellom i3 og i5. 
+Dette ser vi også i testene fra Passmark. 
+Her har vi sammenlignet med prosessorer som sitter i mange andre 13,3-tommere i samme prisklasse: 
+
+Toshiba R630-13U har integrert Intel HD-grafikkbrikke. 
+For få år siden var det et skjellsord, og fortsatt sitter mange med den oppfatningen at det betyr elendig grafikkytelse. 
+Det er imidlertid en sannhet med store modifikasjoner i 2011. 
+Ytelsen er mer enn bra nok til å vise full HD-video selv med begrenset prosessorytelse, og hvis du begrenser deg til spill av typen Football Manager, Simms og lignende, behøver du ikke mer kraft enn denne grafikkløsningen kan by på. 
+
+Sammenlignet med hva du kan forvente fra andre 13,3-tommere i samme prisklasse, byr denne PC-en på middels grafikkytelse: 
+
+Litt om støy Toshiba Satellite R630-13U har en vifte som går mer eller mindre konstant. 
+Den varierer også i hastighet avhengig av belastning, og dette kan være forstyrrende - spesielt på steder der det er svært stille. 
+Dette er med andre ord ikke PC-en du vil ta med deg på soverommet mens partneren prøver å sove. 
+
+Vi legger også til at maskinen har plassert luftinntaket på undersiden av PC-en. 
+Det ikke ideelt for deg som synes det er en god idé å ha PC-en i fanget når du jobber. 
+Er du en av dem, bør du lese denne artikkelen. 
+
+Batterilevetid 
+
+Kombinasjonen 6-cellers li-ion-batteri, strømgjerrig prosessor, integrert grafikk og Toshibas meget effektive strømstyringsprofiler bidrar til å gi denne maskinen en eventyrlig lang batterilevetid. 
+Med minimal belastning holdt den ut i 8 timer og 10 minutter i vår levetidstest. 
+Og selv når vi kjørte i gang vår HD-video (720P) i Windows Media Player, holdt det ut i hele 242 minutter. 
+Det er 4 timer og 2 minutter, nok til et par spillefilmer, altså. 
+Det er imponerende, og faktisk ny DinSide-rekord. 
+I praksis kan du forvente 6-7 timer batterilevetid med variert bruk. 
+
+Konklusjon 
+
+Toshiba Satellite R630-13U er svært kompakt og lett, faktisk en av de letteste PC-ene du kan finne på markedet som har innebygd DVD-stasjon. 
+Den har også god generell ytelse, og en fantastisk god batterilevetid. 
+
+Det største ankepunktet er at viften dessverre støyer en del, spesielt under belastning. 
+Her taper den i forhold til Asus U36J. 
+Hvis du ikke lar deg affisere av det, er dette definitivt en god PC - i kompakt og lett innpakning. 
+
+R630 finnes i flere konfigurasjoner. 
+Fra Toshiba får vi opplyst at modellen vi testet, R630-13U, blant annet fås kjøpt hos Elkjøp og Lefdal. 
+
+Les også disse testene av andre aktuelle 13,3-tommere: 
+Asus U36J Sony Vaio Z 

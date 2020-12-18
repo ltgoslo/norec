@@ -1,0 +1,73 @@
+19" USB Samsung 940ux
+Trenger du en ekstra skjerm, men har ikke plass til skjermkort? 
+Her er skjermen! 
+
+De fleste av dagens litt avanserte PCer kan håndtere to skjermer, enten som ekstra skjerm koblet til skjermutgangen på en bærbar eller koblet til den andre skjermkontakten på en stasjonær PC. 
+
+LES OGSÅ: 
+
+Men det finnes likevel en god del PCer som ikke har en ekstra skjermutgang, først og fremst gjelder dette rimelige kontormaskiner. 
+Hvis man da ønsker en ekstra skjerm må man installere et nyttt skjermkort. 
+Eller? 
+
+Det finnes faktisk et alternativ, en skjerm med innebygd "skjermkort" som kobles til en av PCens USB-kontakter! 
+
+Smart og praktisk 
+
+Selve skjermen er en 19-tommer med kurante spesifikasjoner. 
+Den er ment til kontor og generell bruk, og sikter seg ikke mot gamere eller fotoentusiaster med sine spesielle krav. 
+
+Skjermen har vanlige tilkoblinger, DVI og VGA, men i tillegg har den USB som skjermtilkobling. 
+Denne fungerer sammen med et innebygd flashminne i skjermen, slik at installasjonen går nesten automatisk, avhengig av sikkerhets og auto-play-innstillingene på PCen. 
+
+Slik fungerer det: 
+
+Når du plugger i og slår på denne skjermen installeres først en virtuell CD-stasjon. 
+Denne får en stasjonsbokstav etter alle de andre på PCen, som harddisker, CD/DVD-brenner, kortlesere osv. 
+Fra den virtuelle CD-stasjonen startes så et program som heter DisplayLink. 
+Det er dette programmet som opptrer som en skjerm overfor Windows, slik at alle instruksjoner og parameterverdier sendes over til skjermen via USB og tegnes opp av elektronikken i skjermen. 
+
+Etter installasjonen kommer skjermen opp og du kan gå inni skjermoppsettet for å eventuelt endre plasseringen av skjermen. 
+Den kommer i utgangspunktet opp til høyre for de eksisterende skjermene, men du kan flytte den dit du vil slik at Windows skjønner hvor musepekeren skal havne. 
+
+Vi installerte skjermen som nummer 3 på vår PC, og du kan koble til opptil 6 slike skjermer i tillegg til de du allerede har tilkoblet ordinære skjermkort. 
+
+Siden det også er en innebygd USB-HUB is skjermen, kan du koble til flere skjermer i serie eller i stjerne fra de første skjermen. 
+Eller du kan bruke HUB'en den til f.eks. mus og tastatur. 
+
+Bildekvalitet 
+
+Skjermen har en helt kurant bildekvalitet for de bruksområder den er tiltenkt. 
+Fargegjengivelsen sett rett forfra er utmerket, men betraktningsvinkelen er ikke spesielt imponerende. 
+Fargeendringer er synlige bare du beveger hodet opp og ned. 
+
+Responstiden er helt utmerket, uansett vil dette aldri bli noe problem ved bruk av USB-tilkobling siden denne uansett er tregere enn selve skjermen. 
+
+Ved tilkobling til DVI eller VGA er skjermen rask og har ikke noe synlig etterslep. 
+
+På grunn av begrensninger i USB-bus'en er det ikke all video som fungerer på denne skjermen. 
+Lavoppløselig video er ok, DVD-kan fungere, men HD er utelukket. 
+I praksis har jo dette lite å si, siden denne alltid vil være en ekstra skjerm, og man vil bruke hovedskjermen til video. 
+Å ha bare denne skjermen, og koblet til en PC med USB er jo ikke et spesielt sannsynlig scenario. 
+
+Kompatibilitetsproblemer 
+
+På vår testPC med Windows XP SP2 hadde vi problemer etter omstart av systemet. 
+Da ville ikke Internet Explorer og Outlook Express lenger åpne seg, de ble liggende minimert nede på oppgavelinjen. 
+Bare ved å avinstallere USB-skjermdriveren fikk vi fjernet dette problemet. 
+Andre programmer på maskinen vi testet var ikke berørt, men det kan jo være andre programmer som også får problemer. 
+
+I Windows Vista fikk vi bare opp USB-skjermen i klone-modus, ikke som del av et utvidet skrivebord. 
+Dette skjedde uansett om vi installerte den som skjerm #2 eller #3. 
+
+OPPDATERT: 
+DisplayLink har kontaktet oss og informert om en oppdatert utgave av programvaren som vil løse de problemene vi har hatt. 
+Dessuten skal ytelsen ved avspilling av video være forbedret. 
+
+Konklusjon 
+
+Selve skjermen er en helt kurant all-round-skjerm som passer til kontor og generell bruk. 
+
+Som tilleggskjerm uten ekstra skjermkort fungerer den tilfredsstillende, bortsett fra kompatibilitesproblemene nevnt over. 
+
+Trenger du en skjerm nummer 2 eller 3 kan dette være en god løsning, men sørg for å få anledning til å teste den i ditt oppsett først, eventuelt med oppdatert programvare. 

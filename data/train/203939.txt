@@ -1,0 +1,116 @@
+Nå fikk vi lyst på en Chromebook
+Med berøringsskjerm, nettbrettmodus og Android-apper gir Chromebook virkelig mening. 
+
+Chromebook er en betegnelse på bærbare PC-er som kjører ChromeOS, et operativsystem laget av Google. 
+I motsetning til Windows, med sine programmer som installeres lokalt på SSD-en eller harddisken, er det i hovedsak webbaserte apper som kjøres på en Chromebook, gjennom nettleseren Google Chrome. 
+
+Derfor har de fleste maskinene lite lokal lagringsplass, siden det aller meste foregår på nettet. 
+
+Enkelte web-apper kan også brukes når du er offline, for eksempel suiten med kontorapper Google Docs, men for å dra fullt nytte av en Chromebook må du være på nett. 
+
+Nå kan de kjøre Android-apper 
+
+Tidligere i høst meldte flere leverandører om at interessen for Chromebooks var sterkt økende i Norge. 
+En av årsakene kan være at mange modeller har fått utvidet funksjonalitet gjennom nye utgaver av ChromeOS, først og fremst muligheten til å kjøre Android-apper. 
+Prisene er fortsatt lave, sammenlignet med Windows-baserte PC-er og Mac-er. 
+
+Fleksibel maskin 
+
+Acer Chromebook R13 kom egentlig på markedet i vår, men er fortsatt en høyaktuell modell som har fått denne muligheten til å installere og kjøre Android-apper fra Google Play-butikken. 
+I tillegg har den både berøringsskjerm og såkalt 360-graders design, det vil si at skjermen kan skyves helt rundt til den dekker baksiden- og dermed kan maskinen også brukes som et nettbrett. 
+
+Eller den kan brukes i teltmodus, der minst mulig av den berører underlaget, eller i kinomodus med tastaturet skjult. 
+Her er mulighetene mange. 
+
+Solide kvaliteter - helt uten vifter 
+
+Utover dette har konstruksjonen flere positive ting ved seg. 
+Her har produsenten brukt aluminium rund baut, overflaten er matt slik at den er nærmest er immun mot fingeravtrykk. 
+Forkrommede kanter er med på å gi maskinen et premiumpreg, og den opplevde kvaliteten er absolutt god. 
+
+Vektnåla stopper på 1,5 kg, tykkelsen er 1,55 cm. 
+
+Den observante vil legge merke til at det ikke er noen åpninger for innsug og utblåsing av luft. 
+Det har sin klare årsak: 
+Maskinvaren generer så lite varme at Chromebooken ikke har behov for luftgjennomstrømming og vifter. 
+Den er rett og slett helt lydløs. 
+
+De eneste hullene på undersiden, er knyttet til de to høyttalerne. 
+Lydkvaliteten ligger dessverre på mobilnivå, så her må du ty til hodetelefoner eller eksterne høyttalere for å få en god lydopplevelse. 
+
+På sidene sitter en HDMI-utgang for tilkobling til ekstern skjerm, en USB-C-port som også brukes som ladeport, en klassisk USB-port (3.0) og minnekortspor (microSD). 
+Analog port for lyd inn/ut er også på plass (minijack). 
+
+God skjerm 
+
+Berøringsskjermen måler 13,3 tommer og er dekket av et blankt kontrastbelegg, oppløsningen er 1.920 x 1.080 piksler (full HD). 
+Panelet er av typen IPS, som sørger for god fargegjengivelse og gode innsynsvinkler fra alle kanter. 
+Lysstyrken er også helt på høyden. 
+
+Over skjermen sitter et vidvinkel-webkamera med 720P-oppløsning. 
+
+Tastaturet har klassisk utforming, men til forskjell fra vanlige Windows-tastaturer, mangler F-tastene. 
+I stedet har du nyttige snarveier over talltastene: 
+Navigering fram og tilbake, oppfrisk, maksimer/gjenopprett, stable vinduer, justering av lys/lyd og låsing av maskinen. 
+
+Tastene er faste og gir nesten ikke noen lyd fra seg under bruk. 
+Behagelig! 
+Det eneste vi savner her er baklys på tastene når det er mørkt i rommet. 
+
+Pekeplaten er bred og støtter flerberøring, og til alt annet enn Android-apper er den vår foretrukne styreløsning. 
+Nettleseren og innstillingene i operativsystemet er nemlig ikke optimalisert for berøringsskjermer, slik for eksempel Android og iOS er. 
+Det går, men pekeplaten fungerer bedre - mener vi. 
+
+Kjør appene i vinduer 
+
+Og her kommer en fin liten rosin: 
+Android-appene kjører i små vinduer, tilsvarende en mobilskjerm. 
+Dermed kan du ha flere apper kjørende side om side. 
+Vinduene kan også maksimeres, slik at appene fungerer omtrent som på et nettbrett. 
+
+Dette fungerer stort sett som det skal, men den innebygde retningssensoren i maskinen skaper ofte litt krøll og fører til at vinduer gjenopprettes og vice versa, når du jobber i nettbrettmodus. 
+Teksten skalerer heller ikke alltid like godt som på et nettbrett, og blir ofte ganske liten. 
+
+Legg til at når en god del apper verken er optimalisert eller fungerer ennå (deriblant Instagram), skjønner du at det er klare rom for forbedringer. 
+
+Dette har vi savnet! 
+
+Muligheten til å kjøre apper i vinduer er uansett en kjærkommen utvidelse av funksjonaliteten, spesielt når du går offline. 
+Vi har for eksempel lastet ned tegneappen Adobe Photoshop Sketch, noen spill og musikk fra Spotify, alt til bruk på flyet når vi ikke er på nett. 
+Det er fortsatt mye som ikke kan kjøres i nettleseren, og med støtte for Android-apper forsvinner et av de store ankepunktene mange tidligere har hatt mot Chromebooks. 
+
+Men lagringsplassen kan fort bli et ankepunkt. 
+Denne maskinen har en SSD på 64 GB, og med noen spill, noen filmer og offline-musikk, blir det fort trangt. 
+Her har du heldigvis mulighet til å legge ting på minnekort (microSD), men behovet for Chromebooks med 128 GB og enda større lagringsplass, kommer garantert til å øke i tiden framover. 
+
+Hva så med ytelsen? 
+
+Denne PC-en er utstyrt med 4 GB RAM og en firekjernet Mediatek MT8173-prosessor, en ARM-variant beregnet for mobiler og nettbrett. 
+Den kjører helt uten bruk av vifter, men ikke forvent et fyrverkeri når det gjelder ytelse: 
+Den ligger omtrent i samme lende som en mobil i midtsegmentet, som Motorola Z2 Play eller Huawei Mate 10 Lite (rundt 4000 kroner, altså samme prisklasse som denne datamaskinen). 
+
+Bruker du for eksempel fingeren (eller en penn) til å tegne på skjermen, vil du merke en relativt mye større forsinkelse på opptegningen enn på de mest avanserte og kraftige mobilene og nettbrettene, som Samsung Galaxy Note 8 og Apple iPad Pro. 
+
+Men til normal bruk av web-apper gjennom Chrome og noen Android-apper attåt, er den mer enn rask nok. 
+Se bare videoen her - der vi spiller i en app og blar i eposter i en annen, samtidig som Netflix kjører i Chrome: 
+
+Merk imidlertid at de fleste Android-appene pauser når de ikke er aktive, nettopp med tanke på å begrense belastningen på systemet - og ikke minst batteriet. 
+
+På ett punkt slår den veldig mange av sine kraftige, Windows-baserte fettere: 
+Oppstart etter dvale. 
+Løft opp lokket, og den er klar på sekundet. 
+Her er det ikke mange tunge bakgrunnsprosesser og sikkerhetsfunksjoner som skal aktiveres, og det har sine klare fordeler. 
+
+Moderat ytelse har dessuten sine oppesider, ikke minst batteritiden. 
+Her antyder produsenten rundt 12 timer med variert bruk, noe som stemmer godt overens med våre erfaringer. 
+Det er svært sjelden Windows-PC-er i samme prisklasse presterer like godt på batteritid. 
+
+Konklusjon 
+
+Acer Chromebook R13 beviser at Chromebook-kategorien har utviklet seg og absolutt har livets rett. 
+Maskinen er lydløs, byr på høy kvalitetsfølelse, kjører mange Android-apper helt strøkent, våkner lynkjapt etter dvale og byr på god batteritid. 
+Med alt dette på plass i tillegg til en god berøringsskjerm, er vi ikke det minste overrasket over at mange ønsker seg en Chromebook. 
+
+Vi ønsker oss faktisk en selv. 
+
+Få med deg plusser og minuser i boksen under. 

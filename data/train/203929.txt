@@ -1,0 +1,99 @@
+En Killer for gamere
+Den trådløse ruteren som er laget for å prioritere gamere først i trådløs-køen. 
+
+Kjære leser: 
+​I denne artikkelen går vi grundig gjennom tekniske aspekter ved ruteren vi har testet. 
+Dersom du er ute etter en enkel oppsummering, så gå rett til konklusjonen i bunnen av artikkelen. 
+
+Gaming er i vinden om dagen. 
+E-sport anerkjennes av stadig flere som en idrett, og produsentene av datautstyr gnir seg i hendene: 
+Gaming-veksten gir klingende mynt i kassa. 
+
+Og når det spilles over nett, nytter det ikke med nettverkskort, trådløse rutere og bredbåndsoppkoblinger som ikke reagerer lynkjapt på kommandoene. 
+Noen millisekunder forsinkelse kan være forskjellen på en hit og en miss. 
+
+Tar gaming på alvor 
+
+Linksys er blant produsentene av nettverksutstyr som virkelig tar gaming på alvor. 
+Deres nye gaming-ruter WRT32X, er ifølge dem selv den første ruteren som er er konstruert med gaming-fokus fra innerst til ytterst. 
+Den er nemlig utviklet sammen med Rivet Networks, selskapet som blant annet står bak de trådløse Killer-nettverkskortene som sitter i en rekke avanserte gaming-PC-er. 
+
+Produsenten hevder blant annet at kortene har lavere responstid og byr på høyere hastigheter enn konkurrentene. 
+
+Maksimal teoretisk hastighet er 867 Mbps, som er det samme som på Intel AC7265-kortet vi normalt benytter i våre hastighets- og rekkeviddemålinger, men Killer-kortene har i tillegg støtte for MU-MIMO og en rekke andre avanserte funksjoner som tradisjonelle AC-kort ikke støtter. 
+Du finner oversikten her. 
+
+Kraftig maskinvare 
+
+WRT32X er en såkalt AC3200-ruter med MU-MIMO-støtte og kraftig 1,8 GHz dobbelkjerneprosessor, og er dermed allerede i utgangspunktet godt skodd til å håndtere mange tilkoblinger samtidig og høye nettverkshastigheter. 
+
+Det som gjør den spesiell, er at den automatisk gir PC-er med Killer-nettverkskort høyeste prioritet for nettrafikken. 
+Dermed skal du kunne dra nytte av alle fordelene knyttet til nettverkskortet, selv når mange bruker nettet samtidig til datatunge formål. 
+
+Det nærmeste du kommer på en vanlig ruter, er QoS - Quality of Service, der du manuelt kan prioritere enheter, apper og datatyper i ruteroppsettet. 
+Dette kan også være en løsning hvis man opplever heng og forsinkelser, men krever litt mer teknisk forståelse enn i dette tilfellet. 
+
+Utseendemessig gir ruteren en viss gaming-assosiasjon, men det sorte designet og kun fire eksterne antenner, gir ikke det mest prangende uttrykket. 
+Størrelsesmessig er den heller ikke så aller verst, tatt i betraktning at dette er relativt kraftige saker. 
+
+På baksiden sitter det en WAN-port for tilkobling til bredbåndsuttaket, samt fire LAN-porter. 
+Samtlige støtter hastigheter på inntil 1 Gbit pr sekund (1000 Mbit). 
+I tillegg sitter det en kombinert eSATA/USB 2.0-port og en USB 3.0-port her, for tilkobling av eksterne harddisker og minnepinner. 
+Mer om det senere. 
+
+Enkelt som bare Linksys kan det 
+
+Installasjon av ruteren er veldig rett fram, slik vi er vant til fra Linksys. 
+Instruksen ligger i en liten folder i esken, og du kan bruke både mobiltelefon og PC. 
+Vi valgte sistnevnte. 
+
+Hele prosessen er veiviserbasert og på norsk. 
+I løpet av få minutter var vi på nett, med nykonfigurert nettverksnavn (SSID) og passord. 
+Standardvalg er såkalt smart connect, der ruteren selv velger om enheten du har koblet til, skal kommunisere over 5 GHz-nettet eller 2,4 GHz-nettet, basert på hva som gir best ytelse. 
+
+Grensesnittet er enkelt og oversiktlig, men totalt forskjellig fra hva vi har sett fra Linksys tidligere. 
+Ifølge Linksys er dette skreddersydd for gamere, vårt inntrykk er at det fungerer like greit til alle andre også. 
+
+Her finnes en del avanserte innstillinger å velge mellom, inkludert oppsett av VPN-server, valg av andre DNS-tjenere enn den du får fra bredbåndsleverandøren din, samt støtte for DDNS. 
+
+USB-porter med bremseklosser på? 
+
+Støtte for nettversklagring ligger også under avanserte innstillinger. 
+Du skal altså kunne koble på eksterne harddisker rett i ruteren, og så kan brukere i lokalnettet få tilgang til innholdet via Utforsker. 
+Dessverre funger dette dårlig på WRT32X, i hvert fall i skrivende stund. 
+
+Vår standard test-harddisk ble ikke en gang gjenkjent i noen av portene, og både lagring og lesing av data fra vår raske USB 3.0-minnepinne gikk i svært sakte tempo (rundt 600 KB pr sekund). 
+Det er skuffende med tanke på at de raskeste ruterne vi har testet byr på hastigheter opp mot 90 MB i sekundet. 
+
+Trøblete smart connect 
+
+Dette bringer oss over på neste punkt, som er hastighetsmålingene. 
+Her benyttet vi først en HP Elitebook med Intel AC7265-kort, mot vår fiberoppkobling på 160 Mbps begge veier. 
+Vi opplevde til vår store overraskelse at vi kun fikk utnyttet bredbåndslinja vår til fulle mens vi oppholdt oss i samme rom. 
+Så snart vi flyttet oss en etasje ned, var hastigheten nærmest halvert. 
+
+Vi mistenkte raskt at synderen var smart connect, som altså skal sørge for å rute trafikken på raskest mulig måte ut og inn mot internettet, og ganske riktig. 
+Ved å konfigurere ruteren til å benytte to forskjellige SSID-er, én mot 2,4 GHz-båndet og én mot det raskere 5 GHz-båndet, fikk vi full hastighet over hele vår 250 kvadratmeter store bolig når vi var tilkoblet sistnevnte: 
+
+Dermed fikk vi den ytelsen vi hadde forventet, og som også er i tråd med ytelsen til andre AC3200-rutere vi har testet tidligere. 
+
+Dinside har ikke fokus på gaming i våre tester av nettverksutstyr, og vi har derfor ikke testet ruteren spesifikt mot spilltjenester. 
+Vi fikk imidlertid låne en gaming-PC fra MSI med Killer Wireless 1435-kort, og kan bekrefte at ruteren automatisk gav denne høyeste prioritet i nettrafikken. 
+
+Men skreller man bort all funksjonaliteten i kortet som er myntet på gaming, viser våre målinger at hastigheter og rekkevidde havner litt bak vår test-PC med Intel AC7265-kort. 
+Først og fremst fikk vi mer variable tall, men også maks-hastighetene ligger litt bak på målepunktene lengst unna ruteren. 
+
+Her kan selvfølgelig årsakene være andre enn kortet i seg selv, for eksempel vil antenneløsningen spille en viktig rolle. 
+Den er muligens bedre på vår test-PC enn på den aktuelle gaming-PC-en. 
+
+Konklusjon 
+
+Linksys WRT32X 
+er en ruter som byr på meget god trådløsytelse når den er riktig konfigurert. 
+Den er også meget brukervennlig, slik utstyr fra Linksys nesten alltid er. 
+
+Om du er en gamer og har Killer-utstyr i PC-en din, kan dette være et smart valg - spesielt dersom du har mange (data)krevende klienter i lokalnettet ditt. 
+
+For andre brukere vil det være mer hensiktsmessig å velge en annen AC3200-ruter, ikke minst med tanke på pris. 
+Vår testvinner blant AC3200-ruterne, TP-Link Archer C3200, har vi sett til godt under halve prisen. 
+Den byr også på vesentlig bedre støtte for ekstern lagring rett i ruteren. 

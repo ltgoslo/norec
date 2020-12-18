@@ -1,0 +1,117 @@
+Dell XPS Duo 12
+En forsmak på fremtidens PC? 
+
+Tidligere i år testet vi ultrabooken Dell XPS 13, som fikk meget gode skussmål i vår test, hvor vi berømmet den for blant annet å være kompakt, lett, med god ytelse og batterilevetid. 
+Lyden fra høyttalerne var også noe av det beste vi har opplevd i klassen. 
+
+I neste måned vil et nytt medlem i XPS-familien dukke opp i butikkhyllene, og selv om XPS Duo 12 ved første øyekast er til forveksling lik XPS 13, er den temmelig forskjellig - på flere plan. 
+Aller viktigst er det at denne PC-en også kan forvandles til et nettbrett, med berøringsfølsom, full HD-skjerm. 
+Derav Duo-navnet, altså. 
+
+DinSide Data har vært så heldig å være det første testmagasin i verden som har fått kjøre full test på et pre-produksjonseksemplar allerede nå. 
+
+Først skal vi se på de tørre fakta om maskinvaren: 
+
+Skjerm: 12" Corning Gorilla Glass, berøringsfølsom full HD-skjerm (1920 x 1080 piksler) Prosessor: 
+Intel Core i5-3427U RAM: 
+4 GB Grafikkort: 
+Intel HD 4000 Lagring: 128 GB SSD Optisk drev: 
+Nei Skjermutganger: 
+DisplayPort USB-porter: 2 x USB 3.0 Webkamera: 
+Ja Kortleser: 
+Nei Trådløst nett: 
+Intel N 6235 Kablet nett: 
+Nei Annet: 
+Bluetooth 4.0 OS: 
+Windows 8 Professional 64 bit Størrelse: 31,8 x 21,5 x 1,9 cm (DinSide-tall) Vekt: 1545 gram (DinSide-tall) Pris: fra 11.995 kroner 
+
+I likhet med XPS 13 har maskinen verken HDMI eller VGA-skjermutganger, da trenger du en eventuelt en overgang fra mini-Displayport, og dette er ekstrautstyr. 
+Det er heller ikke noen ethernet-kontakt, da trenger du overgang fra USB, som heller ikke er standardutstyr. 
+I tillegg mangler leser for minnekort, noe vi også setter et spørsmålstegn ved. 
+
+Solid og behagelig 
+
+Lokket er av aluminium og usedvanlig stivt. 
+Vi liker også det brede hengslet og bruken av karbonfiber i bunnplaten, som gir et solid inntrykk. 
+Karbonfiberet har dessuten den fordelen at det ikke blir varmt på samme måten som aluminium, og det er aldri ubehagelig å ha XPS Duo 12 i fanget. 
+
+Vi liker godt det rene uttrykket, her er ingen glinsende klistremerker av noe slag, og et sølvfarget lokk på undersiden dekker Windows produkt-id-en og annen informasjon som er uvesentlig for de fleste av oss. 
+
+Sylskarp skjerm, men smått 
+
+Skjermen er lyssterk og svært høyoppløst, noe mange vil sette pris på - med sylskarpe bilder og god plass til vinduer som resultat. 
+Vi tror også enkelte vil oppleve at ting blir for smått, men med normalt syn bør det ikke være noe stort problem. 
+
+Tastaturet er av chicklet-typen, der hver tast er isolert fra de andre. 
+Slike tastaturer er enkle å rengjøre. 
+Det er også baklyst, noe som er en fordel i mørke omgivelser. 
+Tastene er avrundet, platen er fast og avgir lite støy under skriving. 
+Med unntak av en smal enter-tast er alle tastene passe store, og vi synes absolutt Dell XPS Duo 12 er god å skrive på. 
+
+Slik blir den et nettbrett 
+
+Ved å dytte nederst på baksiden av skjermen, vipper den ut av rammen og kan svinges helt rundt. 
+Deretter kan den lukkes over tastaturet, og vips - så har du en et nettbrett. 
+Fiffig. 
+
+Videoen under viser dette i praksis: 
+
+Windows 8-grensesnittet er utmerket for berøringsskjermer, og maskinen reagerer like spontant og nøyaktig som en iPad. 
+
+Å bruke den mot Windows 8-apps er derfor helt uproblematisk. 
+Problemet oppstår først når du skal kjøre vanlige skrivebords-programmer. 
+Den høye oppløsningen gjør det mange ganger vanskelig å treffe knapper og menyvalg, så her er det godt å ha muligheten for å bruke pekeplaten. 
+Den er multiberøringsfølsom med integrert venstre og høyre museknapp. 
+Det er ikke noe vertikalt skrollefelt, her bruker du ganske enkelt to fingre for å skrolle vertikalt og horisontalt. 
+Det fungerer absolutt tilfredsstillende. 
+
+Det som også kan oppleves som en klar ulempe, er å ha en bærbar PC som til en hver tid har skjerm full av fettmerker fra fingertuppene: 
+
+Halvannet kilo er dessuten vesentlig mer enn hva en iPad veier. 
+En slik hybrid er rett og slett langt mindre hendig enn de rene nettbrettene, i hvert fall første generasjon - som denne. 
+Pose- og sekk-løsninger byr altså på visse utfordringer. 
+Det blir derfor spennende å se hvordan markedet vil ta imot disse hybridmaskinene. 
+
+Personlig har vi mer tro på løsninger som Microsofts Surface. 
+
+Ytelsestester 
+
+Maskinen er utstyrt med en dobbelkjernet Intel ULV-prosessor fra Ivy Bridge-generasjonen. 
+Ytelsen er nesten på høyde med ultrabooks med Core i7-prosessor, som vi snart skal se. 
+Men først Windows 8 Opplevelsesindeks, som gir følgende tall på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest). 
+Merk at vi for første gang ser et tall på over 7,9 (her: SSD) 
+
+Prosessor: 7,0 Minne: 5,9 Grafikk: 
+5,4 Spillgrafikk: 
+6,4 Primær harddisk/SSD: 8,1 
+
+Passmark PerformanceTest 7 gav følgende utslag på prosessor, grafikk og SSD - sammenlignet mot andre ultrabooks vi har testet den siste tiden: 
+
+Prosessorytelsen ligger høyt i forhold til Ultrabooks som sannsynligvis ligger i samme prisklasse (rundt 10000 kroner), og vesentlig høyere enn forrige XPS 13 som benyttet forrige generasjon ULV-prosessor fra Intel. 
+
+Grafikkytelsen er middels god, og kan brukes til alt med unntak av de heftigste 3D-spillene. 
+Ved å gå ned på oppløsning kan imidlertid mange nyere titler spilles, med tilfredsstillende flyt 
+
+SSD-ytelsen er den tredje beste vi har testet, her angitt med skrivehastighet og lesehastighet i MB pr sekund. 
+Merk at S5 fra Acer benyttet to SSD-er i RAID, noe som bidrar til svært høye tall 
+
+Vi kjørte også en test av batteritiden, og som PC er dette meget fine tall: 
+
+Konklusjon 
+
+Dell XPS 12 Duo er en meget fin bærbar PC med god materialkvalitet, flott skjerm og god ytelse. 
+Den er også meget stillegående. 
+
+Ulempen er først og fremst få tilkoblingsmuligheter, blant annet savner vi HDMI-utgang, mulighet for kablet nett og kortleser. 
+
+Som nettbrett er vi skeptisk. 
+Maskinen er tung i forhold til iPad, og har dårligere batteritid. 
+Klassiske Windows-programmer er dessuten vanskelig å håndtere med fingertuppene, og Windows 8-app-utvalget er foreløpig smalt. 
+Dette vil helt sikkert endre seg på sikt, men da vil det også dukke opp rene nettbrett som både er lettere og (sannsynligvis) langt billigere. 
+
+Vi gjør igjen oppmerksom på at vi testet et pre-produksjonseksemplar av XPS Duo 12, og at ytelsestall og brukeropplevelse kan avvike noe fra modellen som er ventet i butikkene i slutten av oktober. 
+
+OPPDATERT 15.10: 
+Vi har nettopp fått ca-priser fra Dell. 
+Maskinen blir å finne i tre varianter i Norge: 

@@ -1,0 +1,70 @@
+WD Black² SSD og harddisk i ett
+Kanskje den mest effektive løsningen for å oppgradere en bærbar. 
+
+Dette er ikke en hybriddisk, som vi har testet tidligere ved flere anledninger. 
+Dette er en 120 GB SSD og en 1000 GB harddisk som er pakket i samme enhet, men fungerer som to helt selvstendige enheter. 
+Dette gir helt andre muligheter. 
+
+WD Black² kommer som en pakkeløsning, og inneholder i tillegg til selve lagringsenheten et par ting som er helt nødvendige for å oppgradere en bærbar eller annen kompakt PC. 
+
+Det første du støter på i pakken er en USB-stikk med nøkkel til programvare for kloning av den eksisterende systemdisken og lenke til driver for å åpne for tilgang til harddisk-delen. 
+For å koble til en ekstern disk finner du en USB 3.0-til-SATA kabel som tar seg av dette. 
+
+Selve enheten har en stilig utførelse og kombinerer altså både 120 GB SSD og 1 TB harddisk i samme fysiske enhet. 
+Perfekt for å oppgradere bærbare PC-er. 
+
+Oppdatert: 
+Tykkelsen er 9,5 mm og den passer derfor ikke i de aller slankeste Ultrabooks. 
+
+To forskjellige installasjoner 
+
+Pakken inneholder instruksjoner og støtte for to typer oppgradering. 
+Den ene er ny installasjon av operativsystem på SSD-delen og manuell kopiering av data. 
+
+Den andre er kloning av den eksisterende harddisken ved hjelp av programmet Acronis True Image. 
+Dette må lastes ned, installasjonsnøkkel ligger på USB-stikken som følger med i pakken, som faktisk er formet som en nøkkel. 
+
+Siden vi ikke hadde noen oppgraderingsklar maskin for hånden installerte vi WD Black² på vår ordinære test-PC for å kjøre ytelsestestene og sammenligne med andre disker og SSD-enheter vi har testet de senere årene. 
+
+SDD først 
+
+Når man kobler til enheten til en av SATA-portene i PC-en og starter opp, blir bare SSD-delen registrert av maskinen. 
+Dette gjør det enkelt og idiotsikkert å oppgradere en bærbar, siden det er bare denne som er synlig som mål for nyinstallasjon eller kloning. 
+
+Først når den oppgraderte maskinen har fått operativsystemet installert er du klar for neste trinn, som er å hente fram harddiskdelen i WD Black². 
+
+Dette gjøres ved å laste ned og installere partisjonsprogramvaren fra menyen hos WD. 
+
+Dit kommer du automatisk når du setter inn USB-nøkkelen, og det tar bare noen få strakser, så er også harddisk-delen på 1 terabyte tilgjengelig. 
+
+Sjekker du under diskbehandling ser du at WD Black² opptrer som én fysisk disk med to partisjoner. 
+Disse er da henholdsvis SSD og HDD. 
+
+Ytelse og pris/alternativer 
+
+Vi kjørte våre standard ytelsestester og fikk disse resultatene: 
+
+Målingene viser at SSD-delen har en ytelse som tilsvarer de rimelige SSD-enhetene i prisklassen under tusen kroner. 
+
+Harddisken har en ytelse som ikke skiller seg vesentlig fra andre harddisker med samme kapasitet. 
+
+Kombinasjonen WD Black² koster altså 2300 kroner, mens to separate enheter med tilsvarende kapasitet og ytelse koster 600 kroner mindre. 
+Trekker vi fra et par hundre kroner for kabelen så er vi nede i en forskjell på rundt 400 kroner. 
+
+Men sammenligningen sprekker, siden kombinasjonen er helt unik. 
+Har du en bærbar med plass til bare én 2,5-tommers lagringsenhet har du ikke noe annet valg hvis du skal ha SSD for system og programmer og HDD til datalagring. 
+
+I bærbare med utløsbart optisk drev kan man fjerne dette og sette inn et eget adapter til en harddisk i stedet. 
+Men et slikt adapter koster også penger, ikke så langt unna prisforskjellen vi nevner over. 
+
+Konklusjon 
+
+I motsetning til hybrid-drev som har litt flashminne i tillegg til roterende harddisk, har WD Black² en fysisk kombinasjon av SSD og harddisk som opererer som to fullverdige enheter. 
+
+Ytelsen er tilfredsstillende for SSD-delen og utmerket for harddisk-delen. 
+
+Pakken er både stilig og pedagogisk lagt opp, og tilbyr kurante alternative løsninger for oppgradering. 
+
+DinSides ferske SSD-tester finner du her 
+
+WD Black² WD1001X06XDTL 120GB+1TB 

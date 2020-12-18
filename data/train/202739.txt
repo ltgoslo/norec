@@ -1,0 +1,70 @@
+TEST:Intel NUC DC53427HYE 
+
+Med et sånt navn kan det nesten virke som om de ikke vil selge et eneste eksemplar. 
+Det er i så fall synd, for her får du alt du trenger til en rimelig pris. 
+
+PC-er kommer i mange fasonger, men trenden er at de blir mindre, bruker mindre strøm og dermed krever mindre kjøling. 
+Samtidig blir prosessorene stadig kraftigere, og lagringsløsningene svært mye raskere. 
+
+Dette har resultert i svært tynne og lette bærbare, men det er jo også andre fasonger som kan være aktuelle. 
+For stasjonært bruk har Intel laget en bitte liten maskin, som har fått navnet Next Unit of Computing, eller NUC. 
+
+Maskinene kommer i mange varianter, og vårt testeksemplar har det svært lite velklingende typebetegnelsen DC53427HYE. 
+Her gjelder det altså å øve på bokstavleken før du bestiller. 
+
+Tar du deg tid til prøvelsen kan du imidlertid bli positivt overrasket. 
+På innsiden er det nemlig en Core i5 prosessor som kan brukes til det meste. 
+
+Knøttliten - i byggesett 
+
+Det mest påtagelige er størrelsen. 
+Kabinettet måler 116.6 x 112 x 39 millimeter, selve hovedkortet er kvadratisk og sidene måler 101,6 millimeter (4 tommer). 
+Vekten med 1 SO-DIMM, SSD og WLAN-kort var 550 gram. 
+
+NUC'ene kommer som nesten komplette maskiner, du trenger bare å plassere hovedkortet i kabinettet, montere minne og lagring, totalt er det snakk om seks skruer - så er maskinen klar. 
+Ønsker du trådløst nett er det mulighet for dette også, i kortplassen under mSATA SSD-en. 
+Dette er standardkomponenter som også brukes i bærbare PC-er. 
+
+Cirkapriser på utstyret du trenger er som følger: 
+
+mSATA lagring koster fra ca 300 kroner for 30 GB og opptil 5 599 kroner for 1 TB kapasitet.SO-DIMM koster i overkant av 300 kroner for 4 GB.Trådløst nettverkskort koster fra under hundrelappen og opp til 164 kroner for de mest avanserte. 
+
+Etter få minutter har du en ferdig maskin, som er klart for installasjon av operativsystem. 
+Vi installerte Windows 8.1 til testingen. 
+
+NUC er også i godt selskap av andre små enheter. 
+Andre småtasser den passer fint sammen med er den minste Getboksen og Apple TV. 
+
+Spesifikasjoner: 
+
+Bortsett fra en USB 3.0 port i fronten sitter alle tilkoblinger på baksiden. 
+
+Lufting skjer via åpninger på undersiden i tillegg til åpningene på baksiden over tilkoblingene. 
+
+Det følger også med en festeplate som kan monteres bak på en skjerm med VESA-feste. 
+Da er det bare å henge NUC'en på festeplaten, så tar den ikke opp plass på skrivebordet. 
+
+I bruk 
+
+Det er bare størrelsen som skiller NUC'en fra en helt vanlig PC i bruk. 
+Den er i tillegg svært stillegående. 
+Selv om det er en vifte om bord hørte vi aldri noe til den under vanlig bruk. 
+
+Vi kjørte Geekbench og testet SSD-løsningen, og maskinen leverte helt kurante resultater. 
+
+Hva kan den brukes til? 
+
+En NUC er en praktisk løsning for hjemmekontor, og for å kobles til TV eller projektor. 
+For alle bruksområder hvor du har tilgang til nettverkslagring og det ikke er behov for ekstrem grafikkytelse passer den perfekt. 
+4K støttes ikke på vårt testeksemplar, men NUC-modellen D54250WYK gjør dette. 
+
+Siden den har utgang for tre skjermer er den også glimrende til kontorbruk. 
+PC-er som dette burde nærmest være obligatorisk i kontorsammenheng, framfor klumpete kasser eller tunge bærbare som ligger permanent med lokket ned i dokkstasjoner og aldri blir fjernet fra pulten. 
+
+Konklusjon 
+
+Intel NUC er en familie med bittesmå PC-er til en rekke bruksområder. 
+De har utmerket ytelse og er fleksible i bruk. 
+Samtidig er de enkle å oppgradere hvis man ønsker større kapasitet. 
+
+Intel NUC DC53427HYE (Sort) 

@@ -1,0 +1,77 @@
+Asus UX30
+Liten, lett og lekker, men duger den? 
+
+Produsentene av bærbare PC-er har fått mye kritikk for dårlig design, men omsider ser det ut til at bildet er i ferd med å endre seg. 
+Flere produsenter har snudd på flisa og har lansert modellserier med tydelig vekt på - mer eller mindre vellykket - design. 
+Maskinen fra Asus vekker umiddelbart positiv oppsikt, her er det ingen tvil om at designet har blitt prioritert langt høyere enn tidligere. 
+
+Samtidig er maskinen utstyrt med komponenter som utmerker seg med høy ytelse og/eller lavt strømforbruk - en oppskrift som lover godt. 
+
+Design og mote 
+
+Maskinen finnes i både metallfinish og i sort, i begge tilfeller er det topp av børstet aluminium som gjelder, i kombinasjon med matt plast i underdelen. 
+Profilen er elegant, med runde hjørner, nesten aerodynamisk profil og slanke linjer. 
+
+Når du åpner lokket ser vi fremdeles et gjennomført design, men her er vi ikke like begeistret over alle valg av løsninger og materialer. 
+
+Skjermen har en blank overflate som dekker helt ut til kanten av lokket. 
+Det er stilig, men blanke skjermer på bærbare er fremdeles en moteretning og etter denne testerens mening omtrent like praktisk som platåstøvler med stilletthæler. 
+Skjermen har også en begrenset betraktningsvinkel som du vil ha problemer med på fly og alle andre steder hvor du ikke kan legge skjermen tilstrekkelig bakover. 
+Forøvrig har skjermen LED baklys og leverer under gode forhold et utmerket bilde. 
+
+Tastaturet har tilsynelatende små taster med relativt store mellomrom, men det er ok i bruk. 
+
+Pekeplaten er en del av støtteflaten, med nedsenkede spor på hver side og en ruglete overflate. 
+Førsteinntrykket var at dette ga en litt rar følelse, og dette inntrykket har holdt seg. 
+Knappene er ikke delt på midten, her er det en vippe med en fingerbreddes dødsone midt på. 
+
+Så har vi alle klistremerkene, som ikke lar seg fjerne uten videre. 
+Dette gjelder jo alle Windows-bærbare, og gir etter vår mening et litt "harry" inntrykk. 
+Slike merker hører hjemme på profileringsmaterialet i butikker og utstillinger. 
+Når maskinen er kjøpt og tatt i bruk har de ingen annen funksjon enn å ødelegge designet. 
+
+En annen ting som er synd er at fingermerker synes ekstremt godt på den sorte, børstede overflaten. 
+
+En fin detalj er at portene er skjult bak deksler som går i ett med bunndelen. 
+
+På venstre side sitter det største lokket over VGA, HDMI, nettverk og USB, her er hengslingen av gummi. 
+
+På høyre side sitter det 2 USB-kontakter og utgang for hodetelefon. 
+Her er hengslingen i plast, som en del av selve luken. 
+
+En veldig fin detalj er at strømforsyningen er liten og at nettledningen også er kort og kompakt, med standard ujordet eurokontakt. 
+
+Men alt i alt er det en meget stilig maskin, nettopp derfor blir man desto mer oppmerksom på de irriterende detaljene. 
+
+Ytelse 
+
+Prosessoren kommer fra Intels ULV-serie (Ultra Low Voltage), som har et svært lavt strømforbruk. 
+Det er en Core2 Duo, så ytelsen er rimelig god. 
+Men hastigheten på 1,3 GHz begrenser selvsagt ytelsen i forhold til de strømkrevende utgavene. 
+
+Nedenfor ser du ytelsesmålingene sammenlignet med vinneren i vår siste test av bærbare PC-er 
+
+Batteriet er lite og har 3 celler, her er det designet på maskinen som setter begrensninger. 
+Det er heller ikke mulig å skifte batteri uten videre, da må maskinen rett og slett demonteres. 
+
+4 GB minne og 500 GB disk er rikelig for alle bruksområder hvor denne maskinen utmerker seg. 
+
+Kafé-PC? 
+
+Hva slags bruk er denne maskinen best på? 
+Kombinasjonen av lav vekt, slank profil og stilig design gjør den til en utmerket kompanjong på korte og lange reiser. 
+Ytelsen er mer enn god nok til alle vanlige bruksområder, da ser vi bort fra krevende spill og tung bilde og videoredigering. 
+
+Avspilling av HD video gikk også uten problemer, både i 1080 og 720p oppløsning. 
+Kontorprogrammer og nettsurfing fungerer helt utmerket. 
+
+For de kjappe cafébesøkene har Asus lagt inn ExpressGate, som starter en Linux-basert installasjon på ca 8 sekunder. 
+Da får du tilgang til nettleser, medieavspilling, bildevisning og enkel filbehandling. 
+
+Dette startes med en egen bryter på venstre side, den vanlige på-knappen sitter på høyre side og starter den ordinære Windows-installasjonen. 
+(Maskinen ble levert med Vista og inkluderer fri oppgradering til Windows7). 
+
+Batteritiden målte vi til 227 minutter når maskinen sto passiv, men uten strømsparingsfunksjoner aktivert. 
+Med kontinuerlig avspilling av HD-video varte strømmen i 134 minutter. 
+
+Maskinen er forøvrig svært støysvak. 

@@ -1,0 +1,96 @@
+Sony NWZ-A816
+Sonys beste MP3-spiller noensinne har kommet i ny utgave. 
+Hva sier vi nå? 
+
+Det har gått litt over et halvt år siden vi testet NW-A805, som gjorde et godt inntrykk på oss. 
+Vi mente den gang at det var den beste lommespilleren i Walkman-serien fra Sony noen sinne. 
+Men den hadde et par haker, først og fremst var vi kritiske til den fryktelige programvaren den var uløselig knyttet til. 
+
+Exit SonicStage 
+
+Nå er Sony tilbake med etterfølgeren, og har denne gangen fulgt vårt og de fleste andre testmagasinenes råd: de har kastet programvaren SonicStage på sjøen. 
+NWZ-A816 kan overføres musikk til helt uten bruk av ekstra programvare, men i pakken følger siste utgave av Windows Media Player med for enkel administrasjon, ripping og bibliotekfunksjon, dersom du skulle ønske det. 
+
+Den følger dermed samme prinsipp som en annen Sony-spiller vi har testet siden NW-A805, nemlig NWZ-S610. 
+Dette er foreløpig den eneste spilleren vi har testet og gitt terningkast 6 de siste fem årene. 
+NWZ-A81x-serien skiller seg fra denne på noen områder, og det har vi illustrert i tabellen under: 
+
+På mange måter gir A816 et mer solid inntrykk enn S816, den er litt slankere og har litt større skjerm. 
+Men du må altså klare deg uten den glimrende radioen. 
+
+Noen forbedringer 
+
+Hva er så nytt i forhold til forgjengeren - med unntak av at spilleren ikke lenger er avhengig av proprietær programvare for overføring av musikk? 
+Ikke mye. 
+Den har fått to nye innfallsvinkler til musikken basert på årstall og mappe/filstruktur, for øvrig virker spillerne å være mer eller mindre identiske. 
+Forresten - du får nå med et program for å konvertere ATRAC3-filene dine til MP3, dersom du har blitt lokket til å lage slike for bruk på tidligere spillere. 
+Og det vil du i så fall være pent nødt til, for nye spillere fra Sony støtter oppsiktsvekkende nok ikke lenger Sonys eget fiaskoformat ATRAC3. 
+
+Batterilevetiden var oppgitt til 30 timer på forgjengeren, og 33 timer på denne. 
+Ved videoavspilling (H.264 og MPEG4) skal den kunne holde på i 8 timer dersom du lader batteriet helt opp først. 
+
+Overføringen til spilleren er langt lettere uten Sonic Stage. 
+Spilleren dukker opp som en enhet i Utforsker, og du kan fore eksempel dra og slippe musikk- og videofiler fram og tilbake mellom spilleren og PCen. 
+Det fungerer forresten like bra i Linux og MacOS som i Windows. 
+Overføringshastigheten var et ankepunkt på A805, og selv om det er blitt litt bedre på A816 er det fortsatt ikke mye å skryte av. 
+Vi overførte et album på 90 MB på ca 50 sekunder. 
+Her er søskenmodell S810 og de fleste andre spillerne vi har sett på i år langt raskere. 
+
+Meget god betjening 
+
+A81x-serien finnes i svart, hvit, fiolett, sølv og rosa innpakning, og er utstyrt med en 2" kontraststerk LCD med 320 x 240 pikslers oppløsning. 
+Under denne sitter et firepunkts rund navigasjonsknapp med avspill/pause-knapp i midten. 
+Til høyre er det to knapper, Option og Back. 
+
+Et kort trykk på Option gir deg forskjellige valg knyttet til bilde- video og musikkavspillingen, et langt trykk skrur av spilleren. 
+Et kort trykk på Back tar deg et skritt tilbake fra stedet du befinner deg, mens et langt trykk tar deg til hovedmenyen. 
+Betjeningen er svært enkel, dette sitter i fingrene etter noen ganske få trykk. 
+
+Å bla i en stor bilde- video eller musikksamling, hoppe mellom musikkspor, starte og stoppe videoavspilling og lignende skjer umiddelbart uten venting. 
+Du finner dessuten en rekke forskjellige innfallsvinkler til samlingen, inkludert fritekstsøk. 
+
+Spilleren byr for øvrig på god batterilevetid, rundt 30 timer til musikkavspilling og 8 timer med video. 
+Batteriet lades via USB-porten på PCen, eller på en Playstation 3 hvis du har det. 
+Kobler du spilleren til sistnevnte, kan du dessuten spille av både musikk, bilder og video via TVen, styrt med PS3-kontrollen. 
+Tøft! 
+
+Blant de aller beste på lyd 
+
+Ørepluggene som følger med er en in-ear-løsning som isolerer ute det meste av uønsket støy, men som samtidig sørger for at det slett ikke er umulig å føre en samtale mens du lytter til dempet musikk. 
+Dette er samme sett som på NW-A805, som vi testet under en flytur med et ganske bråkete charterfly, og behøvde ikke å skru lyden til mer enn ca 50%. 
+
+I slike omgivelser er det viktigst å isolere ute de brummende lave frekvensene, men når du sitter med lekser eller i godstolen er lydkvaliteten viktigere. 
+Her leverer Sony virkelig varene med disse pluggene, som byr på god fylde og kraftig bass, i tillegg finnes en haug med innstillinger på spilleren som du kan boltre deg med for å gjøre lytteopplevelsen mest mulig behagelig, inkludert algoritmer for å "pynte på" sterkt komprimert musikk. 
+Det mest overraskende er at det faktisk virker! 
+
+Spilleren støtter MP3, WMA (beskyttet og ubeskyttet), ubeskyttet AAC/M4A (iTunes), men altså ikke lenger Sonys eget ATRAC3-format. 
+
+Video i særklasse 
+
+Videoavspilling er en annen interessant funksjon, og den imponerer. 
+Formatet er MPEG-4, og programmet Image Converter 3 som følger med sørger for å konvertere videofilene dine (ikke fra DVD dessverre). 
+Oppløsningen må være 320 x 240, og bitraten enten 384 eller 768 kbps. 
+
+Vi konvertere en hel to-timers spillefilm med laveste bitrate, det tok ca 1 time og videofilen ble rundt 500 MB stor. 
+Skarphet og kontrast upåklagelig, og du kan enkelt velge liggende format på skjermen, og dermed utnytte skjermflaten bedre. 
+
+Image Converter 3 kan også brukes til å overføre bilder. 
+Disse får da samme oppløsning, og dermed får du plass til en nærmest ubegrenset mengde bilder, i hvert fall dersom du sitter på 8 GB-utgaven av spilleren. 
+
+Konklusjon 
+
+I testen av A805 i april påpekte vi tre aspekter som måtte forbedres for at Sony skulle få suksess i dette markedet. 
+Det første var at programvaren måtte forkastes. 
+Det andre var at overføringshastigheten måtte forbedres, og det tredje var at spilleren måtte få et fengende navn. 
+Sony har heldigvis gjort noe med førstnevnte, men mangler fortsatt litt på hastighet. 
+Modellbetegnelse er etter vår mening så lite forbrukervennlig som det nærmest får blitt. 
+
+Bortsett fra dette er totalinntrykket uforandret fra i vår. 
+Spilleren strutter av kvalitet, og imponerer med god brukervennlighet og meget god lyd. 
+Til tross for bedre materialvalg og større skjerm klarer den likevel ikke å vippe slektningen S610 ned fra tronen, men en klar femmer på terningen har A816 fortjent, sammen med vårt anbefalt-stempel. 
+
+Men et lite sukk til slutt: 
+Ta godt vare på USB-kabelen som følger med. 
+Denne har proprietær kontakt mot spilleren, og blir den borte er du i trøbbel. 
+Er du litt distré og glemmer hvor du har lagt den, kan du ende opp med en spiller som er ubrukelig så snart batteriet går tomt. 
+Inntil du får kjøpt en ny kabel, naturligvis. 

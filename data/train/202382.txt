@@ -1,0 +1,144 @@
+TEST:GarageBand for iPad 
+
+Ditt eget garasjeband på iPad? 
+Apple legger lista høyt med GarageBand, og kommer nesten helt i mål. 
+
+Under lanseringen av iPad 2 ble det også presentert to nye programmer fra Apple. 
+Disse programmene 
+- Garageband og iMovie - nedstammer fra Apples iLife-samling, som er personlige produktivitetsverktøy med vekt på kreativitet og estetikk i lyd og bilde. 
+
+Dette er klare tegn på at Apple ser for seg en dreining av markedet for datautstyr som går mot apparater som er enklere i bruk og med vesentlig lavere pris enn tradisjonelt dataustyr og tilhørende programmer. 
+
+Steve Jobs plasserte iPad i "the post-PC era", vel å merke som konsumentprodukt. 
+Salgstallene bekrefter dette, og i første kvartal 2011 står vanlige Mac'er bare for 20,3 % av inntektene til Apple. iPad er allerede oppe på 17,2% og vokser i en helt annen fart enn Mac-markedet. 
+
+For at dette skal fortsette å ta av må ikke maskinvaren være en begrensende faktor. 
+Poenget med iPad 2 var nettopp å skape bedre muligheter for programutviklerne, og Apple har selv lagt lista rimelig høyt med disse nye programmene. 
+
+Leketøy eller kreativt verktøy? 
+
+For de som ikke allerede vet det er GarageBand et program for å lage musikk. 
+Det har lav terskel, slik at de som ikke har instrumental-ferdigheter også kan organisere musikalske elementer. 
+Samtidig kan de av oss som er habile på sitt instrument også ha stor glede av programmet. 
+
+På Mac er programmet i versjon 6 og har blitt ganske omfattende med opplæring, notasjon og ganske avansert signalprosessering. 
+Det finnes mange Apple loops som kan brukes til å bygge opp låter, de mange innebygde virtuelle instrumentene låter svært bra, du kan redigere bort feilspilte toner osv. osv. 
+Programmet er mye brukt i skolesammenheng. 
+
+iPad-versjonen er adskillig mer lettbent, naturlig nok. 
+
+Begrensningens kunst 
+
+GarageBand for iPad byr på 8 spor, sporene kan inneholde opptak fra mikrofon eller annen lydkilde som plugges inn (gitar. 
+f.eks.), virtuelle instrumenter som spilles på skjerm-tangentene eller et MIDI/USB-keyboard eller det Apple kaller Smart Instruments, som er "selvspillende instrumenter". 
+
+Et utvalg av Apple Loops i forskjellige stilarter følger også med. 
+Her finner du mange forskjellige stilelementer, fra Chicago Shuffle trommer til klimpring på afganske strengeinstrumenter. 
+
+Innspillingene/opptakene gjør du i bolker, som du så kopierer eller modifiserer og setter sammen til en hel låt. 
+
+Det finnes en god del effekter, disse er allerede på plass på de forskjellige instrumentene, men kan justeres eller slås av. 
+
+Når du har spilt inn og satt sammen låta kan du eksportere den som en miks til iTunes, maile den til noen andre, eller eksportere og jobbe videre med den i den "ordentlige" GarageBand på Mac. 
+
+Tangenter, strenger og trommer på skjerm? 
+
+Å spille på en glassflate er ganske ukjent terreng, men ved hjelp av tildels vakker grafikk er det faktisk mulig å spille enkle akkorder og figurer. 
+Akselerometeret registrerer hastigheten på anslaget, derfor kan du til og med spille dynamisk på piano og trommer. 
+
+Bass og gitar blir noe mer knotete, men du kan til og med dra i strengene for å lage blåtoner. 
+Grafikken er litt overdrevet her, men det er moro! 
+
+På trommesettet varierer lyden både med anslag og hvor på trommen/cymbalet du slår, så musikalsk variasjon er fullt mulig. 
+
+Responsen på alle instrumentene er også overbevisende, det er ingen forsinkelse å snakke om fra du treffer skjermflaten til du hører lyd. 
+
+Hva med eksterne keyboards? 
+
+Hvis du har et Camera Connection kit har du en USB-overgang til iPad. 
+Her kan du koble til musikk-keyboards med USB eller MIDI-overganger som passer til alt mulig musikkutstyr, inkludert praktisk talt alt av elektroniske tangentistrumenter som har blitt produsert siden 1983. 
+
+Vi koblet til et M-Audio keyboard med USB, som fungerer utmerket både på Mac og PC uten å installere drivere, men det fungerte ikke. 
+Derimot fungerte begge våre enkle MIDI-overganger fra Roland (Cakewalk UM-1G) og M-Audio (Uno) helt perfekt. 
+
+Oppdatert: 
+Etter litt forskning fant vi ut at vårt M-Audio Prokeys Sono 61 keyboard (og flere andre USB-enheter) fungerer utmerket på iPad, når du kobler det til via en USB hub som har egen strømforsyning. 
+iPad er langt fra raus på strømmen, og nekter rett og slett å drive en del USB-enheter fra det interne batteriet. 
+Dette er en begrensning som Apple har satt, for å spare batteritid, selv om det innebærer å bryte med USB-spesifikasjonen. 
+
+Responstiden med et MIDI-keyboard er minst like god som fra glassflaten på iPad. 
+Dette med "latency" -forsinkelse fra anslag til man hører lyd fra virtuelle instrumenter - har vært problematisk før i tiden. 
+På iPad er dette ikke noe problem. 
+
+Med et ordentlig keyboard blir GarageBand noe helt annet, da er det mulig å utforske alle lydene, og faktisk spille på dem. 
+Og det fungerer overraskende bra. 
+Forutsatt at man kan spille, selvfølgelig. 
+
+Men man merker fort at det ikke er uendelig med toner man har til rådighet. 
+Spiller man feite akkorder og løp på pianolydene, så merker man at det ikke er mer enn 8 toner på hvert spor som kan klinge samtidig. 
+Årsaken til dette er at det krever prosessorkraft å håndtere mange lydkanaler i sanntid uten forsinkelse, så vi håper at dette blir bedre med iPad 2. 
+
+Lydkvalitet? 
+
+Hvis du bare sitter med iPad på fanget er verken lydnivå eller gjengivelse noe å skryte av. 
+Du må bruke hodetelefoner eller koble til et ordentlig lydanlegg skal det bli noe greie på det. 
+
+Og lydkvaliteten er faktisk svært overbevisende. 
+Det ligger mye arbeid bak dette lydbiblioteket, som nedstammer direkte fra Logic, Apples profesjonelle musikkprogram. 
+
+Musikalsk intelligens? 
+
+Vi nevnte "Smart Instruments" tidligere i denne artikkelen. 
+Disse bruker de samme lydene som du kan spille manuelt (gitar, bass, piano, synther), men det er lagt inn spilleinformasjon, slik at det spilles av seg selv når du trykke Play. 
+Ved å trykke på forskjellige områder med akkordsymboler skiftes det toneart. 
+Valgmulighetene er begrenset til akkorder som passer sammen i vanlig vestlig musikktradisjon. 
+
+Trommene kan også spille selv, da plasserer du forskjellige trommer og cymbaler etc. i et rutemønster, etter hvor sterkt og hvor komplisert de skal spille. 
+
+Du kan også slå terning (lander alltid på 6) som setter sammen et tilfeldig trommekomp. 
+
+Men du kan ikke velge stilart eller lage dine egne trommefigurer ala trommemaskin. 
+
+Selvspillende instrumenter er ikke noe nytt. 
+Det kjenner vi fra alle hjemmeorglene som oversvømmet de tusen hjem som statussymbol #1 på 70-tallet. 
+Der kunne du legge ned en akkord og velge stilart, og feiende Rhumba og ChaChaCha tonet utover teakmøblene. 
+
+På 80-tallet kom det en ny generasjon, først kom orglene, så keyboardene med moderne samplingsteknikk og digitalstyring, slik at arrangementene ble langt mer avanserte og musikalske. 
+
+Det som har vært nøkkelbegrepet i alle disse halvautomatiske-instrumentene har vært sjanger. 
+Det første du velger er om det er langsom country, storbandjazz, slesk ballade, tysk disco osv osv. 
+Deretter faller alle brikkene på plass, slik at når du velger instrumenter som skal være med i det automatiske ensemblet, så spiller de sammen i samme stilart. 
+Det kan være en fordel, ellers blir det komisk og feil. 
+(Eller genialt, men det blir ren lotto.) 
+
+Det er først og fremst her konseptet i GarageBand for iPad svikter. 
+Det er nemlig ingen stilarter å velge mellom. 
+AppleLoops listes etter stilart, men legger du inn f.eks. en loop med funk-komp eller en annen sjanger påvirker ikke dette hvordan de "Smarte" instrumentene spiller. 
+
+Og da blir alt feil. 
+
+Redigering? 
+
+Noe av det geniale med å spille inn musikk på datamaskiner er at det er så enkelt å redigere. 
+Spiller du inn virtuelle instrumenter eller MIDI-instrumenter er det bare anslagene som tas opp, ikke selve lyden, og du kan redigere anslagene som står fram som korte eller lange streker i et rutemønster som følger låta, akkurat som papirrullene til selvspillende pianoer man ser på museum. 
+Er en tone spilt feil flytter du streken opp eller ned til den riktige tonehøyden, justerer lengden osv. 
+
+Men dette kan du ikke på GarageBand for iPad. 
+Da må du få låta over til en Mac med GaragaBand. 
+
+Den eneste redigeringeb du kan gjøre er å håndtere bolkene, ikke det som ligger inni dem. 
+Du kan splitte, kopiere, lime inn osv., men det gjelder altså bare de delene låta er satt sammen av. 
+
+Konklusjon 
+
+Garageband for iPad har gode lyder, er overraskende spillbart selv på glassplaten, kan spilles fra MIDI-instrumenter og fungerer fint som enkel opptaker. 
+
+Designet er vakkert på instrumentene, men ganske klønete å bruke på andre områder. 
+For å redigere bolkene hit og dit ville man tro at multitouch og zoom var på plass. 
+Not. 
+
+Mangelen på sammenheng mellom de forskjellige musikalske byggeklossene gjør også at det kan bli ganske frustrerende hvis du ønsker kontroll over sjanger og stilart. 
+
+Men til 29 kroner kan man kanskje ikke vente allverden? 
+Svært morsomt, og verdt pengene er den absolutt, hvis du er nysgjerrig på å lage din egen musikk. 
+For flere i redaksjonen er gnisten allerede tent. 

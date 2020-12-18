@@ -1,0 +1,145 @@
+TEST:Sony Walkman NWZ-A15 musikkspiller 
+
+iPod Classic er død. 
+Leve Walkman! 
+
+I september tok Apple livet av sin siste frittstående musikkspiller med harddisk, iPod Classic. 
+
+Mobilen har overtatt...eller? 
+
+Selv om både iPod Touch, iPod nano, iPod Shuffle og et utall andre musikkspillere fortsatt finnes på markedet, er det ingen tvil om at smarttelefonen har vunnet dette løpet. 
+
+Derfor kan det virke som ren galskap at Sony nå satser på mobile dingser som først og fremst er laget for å spille musikk. 
+
+Sonys Walkman NWZ-A15 kan riktignok også vise bilder og video. 
+Men i motsetning til iPod Touch kan du verken surfe på nettet, svare på e-posten din eller laste ned apper på den. 
+
+Video og bilder er dermed kun «kjekt å ha»-muligheter. 
+
+For dette er først og fremst en musikkspiller, akkurat som den første iPod-en som kom for 13 år siden. 
+
+Det er likevel én viktig forskjell. 
+
+Støtter høyoppløst 
+
+For i motsetning til de fleste av dagens mobiltelefoner og musikkspillere støtter Sonys spiller såkalte høyoppløste lydformater. 
+
+Men hva betyr det? 
+Det eller meste av musikken vi hører på til daglig, som MP3, musikk kjøpt på iTunes eller streamet via Spotify og Wimp, er både komprimert og dataredusert. 
+Det vil si at data er tatt vekk, slik at musikken skal mindre plass og være lettere å overføre via nettet. 
+
+Det finnes i tillegg filformater som ivaretar CD-lyden helt og fullt, slik som FLAC eller Apples ALAC (Apple Lossless)-format, og du kan også få det som streaming om du velger WiMP Hifi. 
+Disse formatene er uansett komprimerte, men alle nyansene i musikken som er overført fra CD skal likevel være intakte. 
+
+Men for de som ønsker seg enda bedre lyd enn CD, finnes det såkalte HD-filer. 
+
+For der en CD har en dybde på 16 bit og en samplingsfrekvens på 44,1Khz, bruker HD-filene 24 bit og 96 eller til og med 192Khz sampling. 
+
+De fleste studioer bruker 24 bit når de jobber, og musikk i dette formatet er dermed identisk med det endelige resultatet før musikken komprimeres/nedskaleres for salg på CD og i ulike filformater. 
+
+Andre følger etter 
+
+Sony er for øvrig i godt selskap når det gjelder satsing på HD-lyd. 
+Den aldrende superstjernen Neil Young presenterte allerede for to år siden sin Pono-spiller, og dyre HD-spillere fra Askell & Kern er allerede på markedet. 
+
+Og nå følger både Samsung, LG og flere andre etter med HD-musikk både i mobiltelefoner og annet utstyr. 
+
+Men hvor skal du kjøpe HD-musikken? 
+
+HD-filer blir stadig lettere å få tak i. 
+Amerikanske HD Tracks har vært på markedet siden 2008. 
+I tillegg finnes tyske Highresaudio.com, og vår hjemlige GubeMusic, drevet av jazzmusikeren Bugge Wesseltoft. 
+
+Franske Qobuz ekspanderer til stadig flere land, og Panasonic-eide Technics er på vei med sin HD-satsing. 
+
+Apple pusset i 2012 opp enkelte titler i iTunes for å tiltrekke seg kresne lydentusiaster, men det er usikkert om de også kommer til å satse på 24 bit. 
+
+Selv var vi forutseende (noen vil heller si dumme nok) nok til å investere i DVD-Audio-utgavene av våre musikkfavoritter den gangen dette formatet ble lansert av plateselskapene. 
+Det døde like fort, men heldigvis er det mulig å rippe platene og legge filene i full 24 bits-kvalitet ut på en harddsik og overføre dem videre til for eksempel Sonys spiller. 
+
+Det er også mulig å rippe det den gangen konkurrerende formatet SACD via en tidlig utgave av spillkonsollen PS3 (de nye støtter ikke SACD), men NWZ-A15 støtter dessverre ike det resulterende filformatet .dsf. 
+Slike filer kan imildertid ikke avspilles med NWZ-A15. 
+Du kan heller ikke kjøpe DSD-filer i HD-nettbutikkene og avspille dem. 
+
+Sonys-spilleren spiller imidlertid vanlig CD-kvalitet også, i form av FLAC- og ALAC-filer. 
+Og selvsagt kan du både spille MP3 og iTunes-formatet AAC. 
+
+Men blir det bedre lyd, da? 
+
+Man kan saktens spørre seg om hva HD-lyd gjør i en bærbar spiller som typisk brukes i støyende omgivelser og sammen med hodetelefoner av beskjeden kvalitet. 
+Passer det ikke bedre hjemme i stua, der man i ro og mak kan sette seg ned i sofaen for å høre musikk? 
+
+Både og, mener tydeligvis Sony. 
+
+Men vi kan ikke med hånden på hjertet si at de har rett. 
+
+For både MP3/AAC (over 192 kilobit pr. sekund) og musikk i CD-kvalitet (16 bits FLAC og ALAC) låter fortreffelig på NWZ-A15. 
+En rekke uavhengige blindtester har konkludert med at det ikke er mulig å høre forskjell (se Archimago's Musings). 
+
+Selv synes vi musikken får et løft, med mer luft og naturlig musikalitet. 
+Men dette blir helt subjektivt, og vi må ta forbehold om at vi lar oss lure av alternative mikser eller rett og slett blir offer for placeboeffekten. 
+
+Det som derimot er helt sikkert, er at dette er en knakende god musikkspiller. 
+
+Jublende enkelt 
+
+Den er lett å betjene, og det er lekende lett å overføre musikken fra PC eller Mac. 
+Spilleren kommer opp som en vanlig ekstern disk, og så er da bare å dra og slippe akkurat som du gjør med andre filer. 
+Og om du vil, kan du flytte filene fra spilleren tilbake på harddisken igjen også. 
+
+Spilleren er med andre ord ikke befengt med kopisikring eller andre hindringer for fritt å kunne utveksle og lagre musikk, noe vi bare må juble over. 
+
+Mobil er nesten like bra 
+
+Lyden i den innebygde forsterkeren er bra, selv om den kunne vært høyere. 
+Men ved bruk av en ekstern hodetelefonforsterker og Sonys nye MDR-1A (det finnes også en enda gjevere modell med innebygget DAC) som vi fikk låne sammen med spilleren (test kommer), blir den helt prima. 
+
+Stikkordene er trøkk, fyldig og kontrollert bass, og masse detaljer. 
+Og viktigst av alt: 
+Dette blir du ikke sliten i ørene av, selv etter mange timers lytting. 
+
+Vi prøvde samme hodetelefon med en iPhone 5S. 
+Frittstående spiller nok NWZ-A15 litt høyere, men koblet sammen med hodetelefonforsterkeren er det ikke dramatisk forskjell i lydkvaliteten når begge spiller av Apple Lossless. 
+
+Valg av hodetelefon, styrken på signalet ut og til en viss grad filformat er nok mer avgjørende enn selve spilleren. 
+
+Kan utvides med minnekort 
+
+Likevel er ikke avstanden dramatisk til vår gamle iPod Classic, som vi ikke kommer til å gi slipp på før den trekker sitt siste sukk. 
+
+iPod Classic spiller riktignok ikke HD, og heller ikke Flac. 
+I tillegg bruker den en tradisjonell mekanisk harddisk, noe som gjør at den nok vil svikte før eller senere. 
+
+Sony-spilleren lagrer derimot musikken i et 16GB fastminne. 
+I tillegg finnes inngang for microSD-kort. 
+
+Og det er bra, for musikk i HD-kvalitet tar langt mer plass enn både MP3 og tapsløse filformater i CD-kvalitet. 
+
+50 timers batteritid 
+
+Minnekort koster imidlertid litt, og du må regne med å legge ut rundt 1400 kroner for et 128GB-kort. 
+Og da kan den fortsatt ikke konkurrere med iPod Classics jumbo-disk (i musikkspillersammenheng) på 160GB. 
+
+Sony lover en batterilevetid på 50 timer med MP3 etter fire timers opplading. 
+Med høyoppløst musikk reduseres tiden til «bare» 30 timer (begge målt med Bluetooth av). 
+Det er utvilsomt et godt argument for å kjøpe denne i tillegg til en mobil. 
+
+Mange konsumerer i dag store deler av musikken sin via streaming. 
+Det ville derfor vært en fordel om Sony hadde lagt inn synkronisering for offline-spilling av Spotify og WiMP, eller i det minste sin egen streamingstjeneste. 
+
+Men nei. 
+Spilleren tar dessverre bare filer fra harddisken din. 
+
+Men hva har Sony gjort med kabelen? 
+
+En gang opplevde vi at spilleren stoppet helt opp, slik at vi måtte resette den med en binders via hullet på baksiden. 
+I tillegg irriterer vi oss over at Sony insisterer på å bruke sin helt egen plugg i andre enden av USB-kabelen. 
+Mister du den, får du verken ladet eller overført musikk. 
+
+Men ellers var vi svært fornøyd både med lyden, størrelsen og brukervennligheten. 
+Her finnes i motsetning til i vår gamle iPod både Bluetooth, NFC og FM-radio, og for alle audiofile er dette definitivt et «må ha»-produkt. 
+
+Sony Walkman NWZ-A15 16GB 
+
+Walkman-en vekker uansett appetitten på de andre nye HD-spillerne til Sony. 
+De har nemlig flere dyrere spillere i repertoaret sitt, og etter stor suksess i hjemlandet Japan spås det at flere modeller er på vei. 

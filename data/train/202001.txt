@@ -1,0 +1,111 @@
+Shuttle DS47:Lydløs mini-PC testet 
+
+Tynn og vifteløs mini-PC som kan trygt kjøres hele døgnet - sju dager i uken, hevder produsenten. 
+Vi har testet den. 
+
+Stadig flere stasjonære PC-er kommer i miniformat, og byr på all den ytelsen man forventer til vanlige oppgaver som nettsurfing, kontorbruk, bilder, musikk og video. 
+
+Lav ytelse eller støyende maskiner? 
+
+Et ankepunkt mot mange av de minste PC-ene har så langt vært lav ytelse (typisk utstyrt med Intel Atom-prosessor), eller høy varmeutvikling med tilhørende viftestøy. 
+Sistnevnte skyldes både liten plass, og små vifter som må rotere raskt for å transportere varmen ut av kabinettet. 
+
+Men de siste årene har det blitt gjort vesentlige framskritt hva angår strømbruk og varmeutvikling på både AMD og Intel-prosessorer. 
+Det har blant annet resultert i hovedkort med integrert prosessor som i flere tilfeller kun har vært utstyrt med kjøleribbe uten vifte. 
+
+Nylig omtalte vi for eksempel denne PC-en fra Compulab, som faktisk er relativt kraftig. 
+
+Celeron 847 er temmelig mye enklere, og en slags mellomting mellom Atom og Core i-prosessorene fra Intel. 
+Det er en dobbelkjernet prosessor basert på fjorårets Sandy Bridge-generasjon, men med redusert klokkehastighet og spenning. 
+Prosessoren har integrert Intel HD-grafikk, som ifølge produsenten er mer enn rask nok til å avspille filmer i full HD-oppløsning uten hakking. 
+
+Lydløs og rimelig 
+
+Shuttle, som har spesialisert seg på lage halvfabrikata PC-er (barebones), lanserte i sommer en mini-modell som benytter denne prosessoren, og som ikke trenger noen form for viftekjøling. 
+Maskinen har fått navnet DS47, og måler beskjedne 20 x 16,5 x 3,95 cm. 
+
+Til tross for de beskjedne målene kan du sette inn en helt vanlig 2,5" harddisk eller SSD, sistnevnte anbefales for å unngå unødig mye varmeutvikling, og inntil 16 GB RAM. 
+
+Støtte for trådløst nett er på plass (b/g/n), to kablede nett (10/100/1000 Mbps), 6 USB-porter (2 x USB 3.0 og 4 x USB 2.0) samt HDMI- og DVI-utganger (maskinen kan dermed kobles til to skjermer samtidig). 
+Her er også to seriell-porter i fronten for tilkobling av eldre utstyr. 
+
+Strømbruken skal ligge på så lavt som 10W ved lav belastning, og øke til maks 22W ved høy belastning. 
+Og ytelsen skal være god til det meste, hevder Shuttle, og legger til at dette er en maskin som trygt kan stå på 24/7. 
+
+En 65W ekstern strømforsyning følger med, ikke ulik typiske strømforsyninger til bærbare PC-er. 
+Det følger også med to føtter som lar deg sette maskinen på høykant, noe som leder varmen ut av kabinettet mest effektivt. 
+
+Enkel installasjon 
+
+PC-en er ikke større enn at håndflaten dekker mesteparten av overflaten. 
+Den kommer med VESA-fester for montering bak på skjermen, og disse må fjernes før du får tilgang til de to lokkene som skjuler innmaten. 
+De er festet med fire fingerskruer, som riktig nok var så hardt strammet at vi måtte bruke skrujern. 
+
+Når festene er fjernet får du fri adggang til de to lokkene som gir deg tilgang til disk, minne og trådløst nettverkskort. 
+Disse holdes på plass av to skruer, og skyves lett i lengderetning og løftes enkelt opp. 
+
+Vi monterte en lynrask 480 GB SSD fra Seagte og en 4 GB SO-DIMM RAM-brikke i ett av de to ledige minnesporene. 
+Systemet takler inntil 16 GB RAM med hastigheter på inntil 1333 Mhz i dual channel. 
+Siden grafikken er integrert i prosessoren vil raskere RAM bety raskere grafikkytelse, noe som absolutt kan være en fordel i enkelte grafikkintensive situasjoner. 
+
+Slik er den i bruk 
+
+Vi installerte Windows 8 fra minneplugg, noe som var gjort på rundt ti minutter. 
+Det meste av drivere til maskinvaren ble installert automatisk, og en tur innom Windows Update var alt som skulle til for å få siste rest på plass. 
+Det følger imidlertid med en driver-CD som blant annet lar deg installere alt i en fei, men det er altså strengt tatt ikke nødvendig i Windows 8, muligens mer aktuelt dersom du installerer eldre Windows-versjoner. 
+
+Noe av det første vi oppdaget var at det trådløse nettverkskortet fra Realtek ikke var av den kraftigste typen, og den støtter heller ikke 5 GHz-båndet. 
+Her er det greit å vite at du har enkel tilgang til nettverkskortet, og at du for en billig penge kan oppgradere med et lynraskt AC-kort fra Intel, for eksempel. 
+
+Både nettversktrafikk, oppstart av programmer og kopiering av data viste seg å gå veldig i rykk og napp, og vi mistenkte snart at noe måtte være galt. 
+Etter litt feilsøking fant vi ut at problemet var knyttet til SSD-en. 
+Vi tok derfor turen innom Shuttle sine nettsider, lastet ned og installerte siste BIOS-oppdatering (fra september). 
+Det viste seg imidlertid ikke å løse problemene, og til slutt besluttet vi å installere en annen SSD - denne gang en eldre modell fra OCZ. 
+Etter å ha installert Windows 8 på nytt var problemene borte. 
+
+Noen ytelsesmålinger 
+
+Windows Opplevelseindeks gir oss følgende indikasjoner på ytelsen. 
+Her går skalaen fra 1,0 (tregest) til 9,9 (raskest): 
+
+Prosessor: 3,9 Minne: 5,9 Grafikk: 
+4,0 Spillgrafikk: 
+5,9 Primær harddisk: 
+7,6 
+
+I Passmark PerformanceTest 8.0 fikk vi følgende tall: 
+
+CPU Mark: 
+1060.2 2D Graphics Mark: 
+210.1 Memory Mark: 
+885.9 Disk Mark: 
+1404.5 3D Graphics Mark: 
+154.9 PassMark Rating: 
+666.5 
+
+Dette plasserer maskinen lavt på ytelsesstigen, men i løpet av testperioden har maskinen likevel fungert tilfredsstillende som jobb-PC. 
+Det er imidlertid greit å gjøre oppmerksom på følgende: 
+Dette er en maskin som trives med få oppgaver om gangen. 
+Enkelte programmer som på en kraftigere PC bare beslaglegger litt av prosessoren, kan plutselig stjele så mye at det går ut over ytelsen til andre ting. 
+For eksempel har vi opplevd at videoavspilling har lugget fordi Dropbox og Windows Defender har kjørt i bakgrunnen, og det sier sitt. 
+
+Fikser HD-video 
+
+Isolert sett er det ikke noe problem å spille av videomateriale i full HD, jobbe med Photoshop eller gjøre andre temmelig tunge oppgaver. 
+Men det er naturligvis en del mer venting, samt mindre som skal til før det blir hikke, sammenlignet med litt kraftigere utstyr. 
+
+Vi har fulgt med på temperaturene på prosessoren, og under vanlig bruk ligger den på rundt 45 grader. 
+Under belastning har den vært oppe i 56 grader, noe som er imponerende lavt. 
+Det vitner om en meget effektiv leding av varme ut av kabinettet. 
+
+Konklusjon 
+
+Ønsker du deg en lydløs PC som tar liten plass, har du her en løsning som absolutt er fullt brukbar til det meste. 
+Vi vil imidlertid anbefale at du velger en raskest mulig minnekonfigurasjon, for eksempel 2 x 4 eller 2 x 
+8 GB 1333 MHz RAM i dual channel for best mulig opplevelse. 
+Noe førstevalg for deg som kjører flere, tyngre oppgaver samtidig, vil dette imidlertid aldri være. 
+
+Med en prislapp på rundt 1.700 kroner + kostnader knyttet til RAM og SSD får du en komplett, viftefri PC til rundt 3.000 kroner. 
+Det er ingen upris, men les våre plusser og minuser under før du eventuelt bestemmer deg for DS47. 
+
+Shuttle DS47 (Sort) 

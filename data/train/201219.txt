@@ -1,0 +1,97 @@
+Medion MIM2030
+Medion er relativt ferske på det norske markedet, men det tyske selskapet er en av europas desidert største PC-produsenter. 
+Modellen MIM2030 er en velutstyrt bærbar PC med bredskjerm og Centrino-teknologi - og særdeles kraftig grafikk. 
+
+Bærbare PCer med bredskjermer er blitt en hit, og dukker opp i alle slags størrelser. 
+"Kino-formatet" er optimalt for blant annet visning av DVD-filmer, og for brede programvinduer som for eksempel i Outlook 2003. 
+Det gir dessuten rom for ekstra bredt tastatur, høyttalerløsninger etc som det ikke er plass til på på de fleste bærbare PCer med standard 4:3-skjerm. 
+
+LES OGSÅ: 
+
+Vi har sett nærmere på en rimelig bredskjerm-PC fra Medion: 
+
+Her er en kjapp gjennomgang av de viktigste egenskapene ved Medion MIM2030: 
+
+Intel Pentium M 1,6 GHz prosessor 512 MB DDR-SDRAM minne 80 GB harddisk, 4.200 rpm DVD+RW brenner (DVD: 4x DVD+R, 2,4x DVD+RW, 8x les. 
+CD: 16x CDR, 10x CDRW, 24x les) ATi Mobility Radeon 9700 grafikk med 128 MB DDR-minne 15,4" WXGA-skjerm (1280 x 800 piksler) 10/100 MBit nettverk 56 Kb modem 802.11g trådløst nettverk 4in1 leser for minnekort (SD, MMC, SmartMedia og MemoryStick) 3x USB 2.0-porter Firewire-port VGA m TV-utgang Lyd: mic inn, linje ut og S/P-DIF Mål: 354 x 250 x 32 mm Vekt: 2,9 kg Leveres med Windows XP Home, MS Works, Nero 6, Pinnacle Instant Copy og Power Cinema Suite. 
+
+Klikk her for flere tekniske detaljer 
+
+Dette er utvilsomt en oppdatert og meget bra utstyrt PC. 
+Grafikkløsningen er hentet fra øverste hylle, og S/P-DIF, 54 Mbit trådløst nettverk og den største disken som i skrivende stund fås til bærbare PCer, er alt selvsagt svært positivt. 
+Programpakken er dessuten fyldig nok til at du kan begynne å jobbe med det samme du løfter PCen ut av kartongen. 
+
+Det du derimot må være klar over, og som trekker inntrykket noe ned, er den lave rotasjonshastigheten på harddisken, noe som kan føre til nedsatt ytelse i en del sammenhenger. 
+Vi kommer tilbake til dette senere i denne omtalen. 
+DVD-brenneren brenner ikke DVD-R(W) plater, så vær oppmerksom på dette når du kjøper tomme plater. 
+Har du gammelt utstyr som bruker parallellport, PS/2 eller standard seriellport, får du ikke koblet det til denne PCen uten spesialløsninger. 
+
+Design 
+
+Selve PCen har et greit design i grått. 
+Vi trodde først at lokket var av metall, men det var det ikke. 
+Trykker du på det ser du raskt forvrengninger i skjermbildet. 
+Dette er med på å gjøre denne PCen mindre egnet til hyppig transport, siden skjermen er mer utsatt for skader som følge av trykk. 
+Vi bruker forresten å legge et papirark mellom skjerm og tastatur, når denne typen PCer skal transporteres. 
+Det forhindrer i hvert fall spor av tastene i skjermen, noe vi har sett flere eksempler på tidligere. 
+
+Tastaturet er bredt og godt, og er godt å skrive på. 
+Til tross for at det er bredt har det vært plass til overs til høyttalere på hver side av det, og de sørger faktisk for en ganske fyldig lyd - tatt i betraktning at dette er en bærbar PC. 
+Entusiastene kan selvsagt koble til eksterne høyttalere og øretelefoner for enda bedre opplevelser, men kabler tilkoblet i fronten kan fort virke litt rotete. 
+
+De fleste tilkoblingene finner du i front og på høyre side. 
+Bak finner du strømkontakt samt 2 USB 2.0-porter. 
+Vi hadde gjerne sett at VGA og TV-utgang hadde byttet plass med disse, det er mer ryddig. 
+
+En liten designmessig blunder: 
+Batteriet sitter i bakkant, og etterlater seg et hull mellom tastatur og skjerm når det er tatt ut. 
+Når det er på plass, skulle stripene øverst møtt stripene i kabinettet. 
+Det gjør de ikke, og den lille forskyvingingen er ikke særlig pen. 
+Den minner oss om de delte baklyktene på gamle Saab 900, som heller ikke gikk helt i hop. 
+
+Skjermen er normalt skarp og lyssterk, og selv om mange vil hevde at oppløsningen er noe lav, tror vi at mange vil like den slik. 
+Det gir i hvert fall meget god lesbarhet på tekst. 
+
+Ytelse 
+
+Som ventet var grafikkytelsen helt i toppsjiktet. 
+Tidligere har vi testet blant annet Whitebox 
+CL56 med samme grafikkbrikke, men med litt raskere prosessor. 
+Denne fikk ytelsestallet 2723 i 3DMark 03, mot Medions 2691. 
+I praksis er dette likt - og noe av det høyeste du i skrivende stund kan forvente av en bærbar PC. 
+I grafikktesten i PCMark 04 fikk vi 1993 med CL56, og 1790 med Medion. 
+Litt lavere grafikkytelse med denne PCen altså, uten at vi tror det vil være merkbart i praksis. 
+Dette holder til de fleste nye spill på markedet! 
+
+Prosessoren yter som en Pentium 4-prosessor på 2,4 GHz. 
+Her snakker vi uansett om høy ytelse i nær sagt alle situasjoner. 
+
+Litt verre er det med harddiskytelsen, den er lavere enn hva du kan forvente med en 5400 eller 7200 rpm-disk. 
+Hvis du arbeider med flere tunge oppgaver samtidig, kan hastigheten på disken ha en ganske stor innvirkning på totalytelsen (en del av disken brukes som virtuelt minne). 
+Ikke alle er klare over forskjellene her, og disken i denne PCen er helt sikkert valgt for å holde kostnadene nede. 
+Når dette er sagt, legger vi til vi har testet 4200 rpm-disker som har vært langt tregere enn denne. 
+
+Batteritester er ofte tidkrevende på Centrino-baserte PCer. 
+I markedsføringen av denne PCen oppgir Medion en levetid på ca 4 timer. 
+Det er i tråd med våre erfaringer med samme type PCer. 
+Vi oppnådde derimot ikke mer enn ca 2 1/2 time under vår test av Medion MIM2030, noe som muligens skyldes feil ved batteriet i vårt testeksemplar. 
+I skrivende stund kjøres testen om igjen, uten at noe tyder på at levetiden blir bedre denne gangen. 
+
+Batterilevetiden avhenger naturligvis uansett av hva du ber PCen utføre, og ved surfing på nettet og skriving av dokumenter ser vi ikke bort fra at levetiden vil være langt høyere enn ved vår prosessorkrevende test. 
+
+Vi legger til at PCen er lydløs under de fleste forhold, og støyer ikke mer enn tilsvarende maskiner ved stor prosessor/grafikkbelastning. 
+I det hele tatt har vi ingen problemer med å ta den med verken på lesesaler eller på senga. 
+
+Konklusjon 
+
+Denne PCen selges for rundt 15-16.000 kroner. 
+Det er faktisk meget prisgunstig, ikke minst med tanke på at den leveres med operativsystem og programmer. 
+Den vil helt sikkert kunne fungere som erstatning for den stasjonære PCen for mange, med sin romslige harddisk og lynraske grafikk. 
+Det er i det store og hele lite som taler mot denne PCen for denne kjøpergruppen. 
+
+Men den er neppe robust nok til å tåle mye transport - og vi setter også et stort spørsmålstegn ved batterilevetiden. 
+Den er meget lav i forhold til hva vi vanligvis ser i Centrino-klassen. 
+
+Du kan for øvrig sammenligne alle PCene vi har testet så langt i år ved å følge denne lenken. 
+
+Mer nyttig fra DinSide Data: 

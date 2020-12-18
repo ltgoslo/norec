@@ -1,0 +1,41 @@
+120 GB Seagate Momentus 2,5"
+Små disker med stor kapasitet og god ytelse har vi alltid ønsket oss - Seagate Momentum leverer en svært overbevisende disk. 
+
+Lagringskapasitet på bærbare er ikke lenger noe problem. 
+Med Seagates største utgave i Momentus-serien på hele 120 GB, har du nok av plass nesten uansett bruksområde. 
+De som trenger mer plass tilhører helt spesielle grupper brukere, som uansett må ty til ekstern lagring. 
+Da tenker vi på profesjonelt bruk innen foto, video og lyd. 
+
+Kapasitetsøkningen skyldes økt lagringstetthet, det er bare 2 plater i diskenheten, som har standardhøyden på 9,5 mm. 
+
+På kjøpet får man som kjent raskere skriving og lesing, og støynivået blir like lavt som hos enklere disker med liten roterende masse. 
+
+Strømforbruket blir også lavt, Seagate sammeligner strømforbruket med mange 4200 RPM disker. 
+
+Ytelse 
+
+Disken leveres både i standard ATA og S-ATA. 
+Vi testet standardutgaven, det er fremdeles ikke så mange bærbare som støtter intern S-ATA. 
+S-ATA har høyere overføringshastighet fra bufferminnet på disken til kontrolleren i PCen, og støtter i tillegg NCQ (Native Command Queing) som optimaliserer posisjoneringen av hodene etter en analyse av trafikkmønsteret, basert på data som ønskes lest/skrevet til en hver tid. 
+
+Skrivehastigheten startet på 33 MB/sek og falt av mot i underkant av 20 MB/sek. 
+Dette gir et gjennomsnitt på 27,3 MB/sek som er meget bra. 
+
+Lesehastigheten startet på over 40 MB/sek og falt til 27 MB/sek, dette er også en meget bra ytelse. 
+
+Aksessiden på 16,8 ms, også en helt akseptabel prestasjon. 
+
+Støynivå 
+
+Denne disken er svært stillegående. 
+Støynivået er så lavt at det ikke var mulig å måle det i forhold til bakgrunnstøyen, selv ikke inne i vår isolerte støykasse. 
+
+Ved å legge øret helt inntil disken kunne vi såvidt høre rotasjonsstøy, det eneste som er såvidt hørbart er små klikkelyder fra hodemekanismen. 
+For alle praktiske formål er denne disken nærmest lydløs. 
+
+Konklusjon 
+
+Seagate Momentus 5400.2 er en rask og stillegående disk, som gir deg romslig kapasitet i din bærbare, eller kompakt og høy kapasitet montert i et eksternt kabinett. 
+Den vil også være et utmerket valg i en stuePC. 
+
+Seagate Momentus finnes i størrelser fra 40 GB og oppover. 

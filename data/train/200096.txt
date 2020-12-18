@@ -1,0 +1,52 @@
+FileBrowser, med iPad på hjemmenettverket
+Bilder og andre data på NAS og andre PC-er? 
+Med FileBrowser ser du alt. 
+
+Hva en iPad kan brukes til er et spørsmål det kan ta svært lang tid å svare på. 
+Den kan brukes til det meste, det finnes apper og tilleggsustyr for et utall bruksområder. 
+
+Men det er noen helt enkle ting som mange forventer skal være mulig uten videre, som ikke er det. 
+Her er det Apples overordnede krav om enkelhet, brukervennlighet, kontroll og sikkerhet som slår inn. 
+
+Hver app har sitt eget område hvor filer lagres, og det er ingen generell tilgang til filer slik som på Mac og PC. 
+Derfor kan ikke en app lese filer laget i en annen app og det er heller ikke mulig uten videre å lese filer fra USB-minneplugger eller fra andre maskiner på hjemmenettet. 
+
+Men det finnes apper for "alt". 
+
+FileBrowser 
+
+Det vi har savnet mest er tilgang til alle felles filer på NAS-en hjemme fra iPad-en. 
+Der ligger alle bildene helt fra det første digitalkameraet vi fikk tilgang til i 1998, gamle lydfiler, pluss alle andre dokumenter av ymse slag, fra bruksanvisninger i PDF format, filer fra Word og Excel, filmsnutter og så videre. 
+
+Men så kom vi over FileBrowser som langt på vei oppfyller våre ønsker. 
+Det er en app som ganske enkelt gir deg tilgang til alt som er delt på nettverket, enten det er PC-er, Mac-er, NAS eller annet som er satt opp til å dele filer. 
+
+Du kommer i gang ved å velge New Machine, og kan deretter velge mellom forskjellige enheter etter type, web-lenke eller IP-adresse. 
+
+Du logger deg på som fra en annen PC eller Mac, og vips så har du tilgang både til lokale filer på iPad og på den nettverksenheten du har valgt. 
+
+Filene dukker opp i et mappevindu på vanlig måte. 
+
+I bruk 
+
+Vi kjører på et raskt 5 GHz trådløst nettverk i heimen og tilgangen var imponerende kjapp. 
+
+Alle filtyper som støttes av iOS, som doc, pdf, xls og så videre fungerer uten videre, men kommer bare opp i lesemodus. 
+Skal du redigere Word og Excel-filer må du ha apper som støtter dette som for eksempel Pages og Numbers. 
+
+Bilder i moderat oppløsning kan du bla gjennom uten videre, men kommer vi opp i 12 og 16 megapiksler må man vente noen sekunder mellom hvert bilde mens det lastes ned. 
+Du kan også sette i gang automatisk avspilling av bildemapper som bytter etter noen sekunders visning. 
+
+Bilder mellomlagres slik at du kan bla kjapt frem og tilbake selv mellom store bilder når de nettopp har blitt lastet ned. 
+
+Video i MP4 formmat (H.264) streamer helt uproblematisk. 
+Men filer som ikke støttes av iOS og må konverteres for å kunne spilles av må lastes ned først og så spilles av i en annen, kompatibel app. 
+Det er upraktisk, og for slike filtyper finnes det andre løsninger som konverterer på vertsmaskinen til et iOS-vennlig format. 
+
+Konklusjon 
+
+Vi er svært fornøyd med FileBrowser, den gjør det som er mulig å gjøre på iOS innenfor de begrensningen som er gitt fra Apple sin side. 
+
+Nå kan vi se og spille av mediefiler og jobbe med dokumenter både på felleslagring og de andre maskinene på hjemmenettverket på iPad, uten å måtte bruke verken iTunes, Dropbox eller annet til å overføre filene først. 
+
+FileBrowser finner du i AppStore og den koster 35 kroner. 

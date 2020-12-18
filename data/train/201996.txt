@@ -1,0 +1,66 @@
+Pinnacle Studio HD 15
+Etter halvannet år har Pinnacle sluppet versjon 15. 
+Vi har testet. 
+
+Noen klager over at programmer stadig blir oppdatert, blir forandret til det ugjenkjennelige og mister gammel funksjonalitet. 
+
+Dette gjelder ikke Pinnacle Studio. 
+Selv om firmaet ble kjøpt opp av Avid, som er en tung produsent av videoredigeringsprogrammer og tilhørende utstyr, så har Studio beholdt profilen. 
+Under overflaten har det derimot skjedd mye nytt, i tråd med utviklingen på kamerasiden og ikke minst på visningssiden. 
+
+I dag tar selv de kjipeste dingser opp video i HD-format (selv om vi ikke nødvendigvis snakker om HD-kvalitet) og alle har skjermer eller TV-er med HD-oppløsning. 
+
+Dessuten har distribusjon av video i stor grad forlatt de optiske mediene og lastes nå rett på nett. 
+
+Hva er nytt i Studio 15? 
+
+Sammenligner vi med versjon 14 som vi testet for halvannet år siden, er det bare detaljer i selve brukerflaten som er endret. 
+
+Endring av størrelsen på visningsvinduet har blitt flyttet til topplinja, ellers er alt som før. 
+
+Men det er to svært viktige ting som er endret: 
+Ytelse og arkivering. 
+
+Under overflaten har det skjedd en del, det merkes fort. 
+Programmet er raskere, brukeropplevelsen er mer komfortabel, responsen er bedre. 
+
+Har du to skjermer fungerer nå fullskjermsvisning på høyre skjerm helt utmerket. 
+Til og med bedre enn med Sony Vegas. 
+
+Men fremdeles kan rendring av kompliserte overganger ta lang tid, siden rendringen stadig skjer i fullkvalitet. 
+Jobber du i 720p går det betraktelig raskere. 
+
+Blander du formater blir også klippene som ikke matcher med prosjektformatet rendret i bakgrunnen. 
+Dette tar også resurser og gjør at alle kjerner i prosessoren får det travelt hele tiden. 
+
+Prioriteringen av selve redigeringen er imidlertid på topp, slik at du ikke merker noe til bakgrunnsprosessene når du plasserer og justerer klippene. 
+
+Arkiveringsfunksjonen er ny, og gjør at du kan legge hele prosjekter på andre lagringsmedier og så åpne dem direkte for å gjøre mindre endringer eller nye versjoner. 
+
+Tidligere har det ikke vært noen enkel måte å samle alt av data som hører til et prosjekt i en arkivmappe. 
+Du har måttet kopiere ut prosjektfilen og selve klippene for hånd, og så hjelpe programmet med å finne klippene når du skulle åpne prosjektet på nytt. 
+
+Nå går dette automatisk, slik at du både sparer diskplass og masse tid hvis du bare skal rette opp en viktig detalj, f.eks. et navn eller telefonnummer i en tekst... 
+
+Formatstøtte 
+
+Det er nå enklere å importere video fra forskjellige apparater, enten det er HD-kameraer med harddisk eller innebygd flashminne, eller kortbaserte kameraer eller kortlesere som kobles til med USB. 
+
+Alle filene i enheten dukker opp direkte i filbehandlingsvinduet og du legger dem inn med ett klikk. 
+
+Samtidig er alle de gamle rutinene på plass, så du kan fremdeles grabbe analog video med dertil egnede bokser eller overføre fra HDV/DV-kameraer med FireWire. 
+
+Eksportformatene dekker nå det meste som er aktuelt for målgruppen av brukerne: 
+
+AVCHD, AVCHD Lite, BD Blu-ray, HD-DVD, DVD (DVD-R, DVD-RW, DVD+R, or DVD+RW, dual layer), S-VCD, Video CD (VCD)Apple® iPod®, Sony® PSP/PS3, Nintendo® Wii, Microsoft® Xbox kompatible formaterYouTube HDDV, HDV, AVI, DivX, RealVideo® 8, WMV, MPEG-1, MPEG-2, MPEG-4, Flash, 3GP, WAV, MP3, QuickTime® MOV, DivX Plus MKVDolby® Digital 2-kanal og 5.1-kanal lyd 
+
+Vår dom 
+
+Vi kunne godt tenkt oss flere lydspor, slik at man kan mikse flere lydkilder inne i programmet. 
+Men ellers fungerer programmet utmerket for de aller fleste formål, fra enkel klipping til mer avanserte prosjekter. 
+
+Programmet kommer i tre utgaver, forskjellen ligger i hvor mange plugins, effekter og ekstramateriale som følger med. 
+
+Priser 
+
+549 kroner Pinnacle Studio HD 15 799 kroner Pinnacle Studio HD 15 Ultimate 999 kroner Pinnacle Studio HD 15 Ultimate Collection 549 kroner Oppgradering fra Studio 9 eller nyere til Pinnacle Studio HD 15 699 kroner Oppgradering fra Studio 9 eller nyere til Pinnacle Studio HD 15 Ultimate Collection 

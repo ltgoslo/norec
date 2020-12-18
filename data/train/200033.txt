@@ -1,0 +1,53 @@
+Intel 520 SSD 240 GB
+Intel er nå klar med en ny SSD, som skal prestere. 
+
+Intel var tidlig ute med SSD-er som fungerte langt bedre i aktuell bruk enn konkurrenter med langt høyere prestasjoner på papiret. 
+I tillegg var de svært stabile. 
+
+Men dette begynner å bli en stund siden, og Intels forsprang har blitt tatt igjen av de fleste konkurrentene. 
+
+Det har versert en del spekulasjoner om hva neste trekk fra Intel ville bli, men det eneste som har vært helt klart er betegnelsen – 520-serien. 
+
+Spekulasjonene har gått om hvilken kontroller som skulle sitte i disse, og hva slags minne. 
+De fleste har ment å vite at det skulle sitte en SandForce kontroller og 25nm MLC flashminne fra Intel selv. 
+
+Og det er helt riktig. 
+
+Intel SSD 520 
+
+SSD-en bruker en SandForce SF-2281 kontroller med en spesialutviklet firmware for Intel. 
+Flashminnet er Intels egen 25nm og grensesnittet er 6gbps SATA III. 
+
+Oppgitt ytelse er opp til 80 000 4k IOPS skriveytelse og 50 000 4k leseytelse. 
+Sekvensiell ytelse er oppgitt til opptil 550 MB/s leseytelse og opptil 520 MB/s skriveytelse. 
+
+Det er 5 års garanti på alle modellene, som kommer i følgende størrelser og priser: 
+
+De aller fleste av disse er tilgjengelige nå, ved lanseringen. 
+
+Vi har testet 240 GB utgaven 
+
+Den ble levert med festebrakett til 3,5-tommers brønn, med skruer både til å feste SSD i braketten og braketten til brønnen. 
+Både datakabel og overgang fra gammel strømkontakt til nyere SATA strømkontakt var også med. 
+
+En liten CD med veiledning og garanti følger også med, men annen programvare må lastes ned fra Intels nettsted. 
+Her finner du både Toolkit og Migration programvare, for å overføredet alt som trengs når du skal oppgradere fra harddisk til SSD. 
+
+Vi kjørte våre standard tester på vår testmaskin med følgende spesifikasjoner: 
+
+Asus P8Z68-V LE hovedkort med Z68 brikkesett Intel Core i7 2600K prosessor4 GB Crucial DDR3 BallistiX 
+1600MHz 4GB 
+CL8 minneIntern 
+Intel grafikk 
+
+Konklusjon 
+
+Intel 520 SSD ligger helt i toppsjiktet og leverer ytelse som ikke står tilbake for konkurrentene. 
+
+Men Intel leverer heller ikke noe særlig mer, siden de faktisk bruker komponenter og teknologi som også er tilgjengelig for alle andre produsenter. 
+
+Forskjellen ligger i firmwaren og Intels kvalitetskontroll, noe som er spesielt viktig for større produsenter som leverer tusenvis av maskiner. 
+
+Intel har også en solid garantiordning og brukerstøtte for privatkunder og firma som oppgraderer sine maskiner, dette er også noe som kan være verdt å ta med seg. 
+
+Intel 520 Series 2.5" SSD 240GB 

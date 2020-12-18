@@ -1,0 +1,53 @@
+Synology DiskStation 212
+NAS med mange muligheter. 
+
+Synology er store på NAS i alle varianter og fasonger. 
+De tilbyr alt fra små bokser til en enkelt disk for privat bruk opp til rack-løsninger for bedrifter med opptil 36 disker. 
+
+Vårt testeksemplar ligger i den nedre enden av skalaen med støtte for to interne disker og med 2 USB 3.0 porter for videre utbygging. 
+
+Synology sine NAS-enheter kjører DSM – Disk Station Manager – et styringsprogram som har utviklet seg til å bli et omfattende operativsystem med et stort tjenestetilbud. 
+Vi testet med siste versjon DSM 4.0-2198. 
+
+DS212 
+
+Selve enheten er i sort plast og veier ikke stort. 
+Men utførelsen virker likevel solid, og mekanismen til disk-skuffene er fast og fin. 
+
+Lokket foran diskene er løst, og sitter fast med friksjon fra gummiknotter. 
+Det er derfor lett å ta av og på, men sitter tilstrekkelig fast under bruk. 
+
+Skuffene til diskene er også av plast, og kan huse enten 3,5-tommers disker eller 2,5-tommers. 
+
+3,5-tommers disker festes fra siden med spesialskruer som går gjennom gummiforinger. 
+Dette demper vibrasjoner og gir lavere støy. 
+
+2,5-tommers disker festes fra undersiden med vanlige skruer. 
+
+Oppsett 
+
+Når man kjøper en NAS og monterer disker selv må man installere operativsystem og formatere og sette opp alt selv før man kan bruke den til å lagre filer. 
+Du kan altså ikke sette inn disker som det allerede er lagret data på, diskene blir slettet i prosessen. 
+
+Installasjonen er rimelig grei, den foregår fra en PC tilkoblet det samme nettverket, og begynner naturlig nok med å finne NAS-enheten. 
+Et kontrollpanel for styring blir også installert på denne PC-en. 
+
+Deretter er det en tildels møysommelig prosess som må gjennomføres, med klargjøring, formattering, installasjon og formatering av lagringsplassen. 
+Er det snakk om to store disker er det mye annet man kan gjøre i mellomtiden ... 
+
+Etter at denne prosessen er ferdig presenteres du for et grensesnitt i nettleseren, som ser ut som skrivebordet på en datamaskin, med ikoner for forskjellige programmer. 
+
+Først da kan du gå i gang med å konfigurere NAS-en, med oppsett av brukere, lagringsvolumer og mapper, tjenester for mediehåndtering, nedlasting, tilgang fra Internett og så videre. 
+
+Ytelse 
+
+I første omgang var vi interessert i å teste ytelsen, og satte derfor i en Intel 520 SSD for at ikke lagringsmediet skulle ha noen innvirkning på prestasjonene. 
+
+Koblet til vårt hjemlige Gigabit nettverk med en enkel Cisco svitsj og Linksys/Cisco ruter var ytelsen praktisk talt identisk med Netgear sin ReadyNAS som vi testet nylig 
+
+Foreløpig konklusjon 
+
+Synology DS212 er en praktisk og smart konstruksjon med mange muligheter. 
+Ytelsen er utmerket i en hjemmenettsammenheng og det er enkelt for en middels erfaren PC-bruker å sette den opp til nytte for hele familien eller arbeidsgruppen. 
+
+Synology DiskStation DS212 

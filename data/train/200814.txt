@@ -1,0 +1,90 @@
+Mac Mini
+Det koster å være kar. 
+
+Den er unektelig et lekkert skue ved siden av TV-en i stua. 
+
+Mac Mini er noe av det aller ypperste du kan få kjøpt på stasjonær-fronten hvis du setter design i høysetet. 
+Den er liten og meget visuelt attraktiv, med runde hjørner og aluminiumsfinish på sidene. 
+Din bedre halvdel vil med andre ord sannsnyligvis ha få problemer med å akseptere at denne kan stå i stua, og for mange er det nettopp inngangsbilletten for å få skaffet seg en stue-PC. 
+
+Med en prislapp som starter på 5390,- er det også den rimeligste maskinen Apple har å tilby (hvis vi ser bort fra AppleTV), men som vi skal se senere i artikkelen blir det fort dyrt dersom du skal oppgradere den. 
+
+I boksen 
+
+Mac Mini (selvsagt)StrømadapterInstallasjons-, instruksjons- og gjenopprettingsplate (operativsystem + iLife '09 er installert på forhånd)ManualMini-DVI til DVI-adapter 
+
+Vi har tittet på iLife '09: iPhoto '09 | iMovie '09 
+
+Vi setter først og fremst pris på at Apple også har lagt ved adapteret. 
+Mini DVI og mini DisplayPort-utgangene som finnes på Apples maskiner er ikke akkurat en universell standard; de støttes riktignok på Apples egne skjermer, men dersom du har en annen skjerm eller en TV du skal koble maskinen på, er det fint at denne overgangen følger med, selv om det hadde vært enda bedre med en HDMI-utgang i tillegg. 
+Dog skal det sies at Apple har et poeng ved å lage disse kontaktene små, i en tid der maskinene stadig blir mindre og der de store pluggene også har godt av å bli krympet. 
+
+Nytt fra forrige versjon 
+
+I forhold til forrige generasjons Mac Mini er følgende nytt: 
+
+NVIDIA GeForce 9400M grafikkort med støtte for to skjermerOpptil 4GB minneOpptil 320GB harddiskSuperDrive - 8x DVD-brennerInnebygd 802.11n trådløst nettverk og Bluetooth 2.145% mindre strømforbruk ved inaktivitet 
+
+Vi lar oss også imponere over at maskinen kun bruker 13W når den står på uten å bli brukt - omtrent det samme som en kraftig sparepære, altså. 
+
+Godt med porter 
+
+Slik ser maskinen ut på baksiden: 
+
+Vi savner for så vidt ingenting, bortsett fra HDMI-utgang. 
+5 USB-porter bør være tilstrekkelig for de fleste, og maskinen har både FireWire 800 og to skjermutganger; en mini DVI og en mini DisplayPort. 
+Kjekt er det også at Mac Mini kommer med et hull som passer til Kensington-låser, slik at du kan sikre den dersom du frykter at noen skal stikke av med den  kanskje spesielt egnet for kontormiljøer. 
+
+Som med andre maskiner fra Apple, er også lydutgangen en kombinert analog og digital utgang, slik at du både kan sette inn en analog lydkabel, men også en optisk kabel som er kjekt for deg som har hjemmekino. 
+Det samme gjelder lydinngangen dersom du skal spille inn noe. 
+
+Testet som stue-PC 
+
+I testperioden har vi valgt å bruke maskinen som en stue-PC. 
+Vi regner med at det først og fremst er dette Apple har tenkt seg også  hjemmekontoret er liksom ikke arenaen for en så lekker maskin; den må vises frem. 
+
+Som stue-PC er Mac Mini i utgangspunktet svært godt egnet. 
+Den nevnte optiske utgangen er et pluss, men det vi liker aller best er at maskinen praktisk talt er lydløs. 
+Vel å merke hvis du ikke bruker DVD-ROM-en 
+ den er nemlig ganske høylytt, spesielt ved aksessering av plata (dvs når du hopper fra kapittel til kapittel, til menyen etc.), og gjør også at maskinen gir fra seg litt lyd mens du ser på DVD-film. 
+Når du spiller av materiale fra harddisken går det helt smertefritt i 720p, mens vi noterer oss små hakketendenser i full HD-oppløsning (vi har testet versjonen med 2GB RAM og 320GB harddisk). 
+
+Vi hadde håpet at denne generasjonen av Mac Mini også ville komme med HDMI og Blu-Ray-spiller, men den gang ei; forhåpentligvis er dette noe Apple vil komme med i fremtidige maskiner. 
+
+Dyrt å oppgradere 
+
+Med en hyggeligere prislapp ville Mac Mini definitivt ha vært en svært attraktiv krabat, men prisene for å oppgradere er til å få bakoversveis av. 
+
+For 
+ du kan ikke oppgradere den i etterkant. 
+Kabinettet er praktisk talt hermetisk lukket, og selv om det finnes diverse instruksjonsvidoer på nettet om hvordan du kan åpne den, bryter dette også garantien på maskinen. 
+
+Med andre ord er du nødt til å bestemme deg for hva du vil ha inni maskinen når du bestiller den, og oppgraderingene er langt i fra billige. 
+Bare se her: 
+
+De to maskinene har samme prosessor, optisk drev og grafikkprosessor, og den eneste forskjellen er én ekstra gigabyte med minne og 200GB større disk (grafikkprosessoren får også 256MB dedikert i den dyreste versjonen, mot 128MB på den billigste). 
+For denne oppgraderingen tar Apple 1800 kroner. 
+
+Ser vi på prisene i en typisk nettbutikk, er prisforskjellen på 1GB og 2GB internminne av dette kaliberet mellom 100 og 200 kroner, avhengig av merke. 
+Prisforskjellen på 120GB harddisk (2,5", 5400rpm) og 320GB harddisk er også drøye 200 kroner. 
+
+Med andre ord tar Apple 1800 kroner for en oppgradering med maskinvare til rundt 400 kroner, og du gis ingen mulighet til å gjøre dette selv. 
+
+Du kan også oppgradere maskinen til 4GB minne, mot et pristillegg på 1275,- (gjør-det-selv-tillegg ville ha vært rundt 400,-), og prosessoren kan oppgraderes fra 2,0GHz til 2,26 
+GHz for kr 1300,- (gjør-det-selv-pristillegg ville ha vært rundt 500,-). 
+
+Det er derfor ikke til å komme fra at jo bedre spesifisert du vil ha Mac Mini, jo mer penger går med til "ingenting" fordi Apple har valgt å forsegle maskinen, og det er i våre øyne svært uheldig. 
+Med bare 1GB internminne på den billigste utgaven er man i disse dager også nesten nødt til å oppgradere i hvert fall på det punktet, med mindre man skal ha en maskin til veldig lett bruk. 
+
+Og 5.400 kroner for en maskin til lett bruk er i overkant dyrt i dagens marked (spesielt med inntoget av minibærbare, som attpåtil er flyttbare og har skjerm, styreflate og tastatur). 
+Eller  hvis vi for eksempel sammenligner med en ministasjonær fra Acer, Aspire X3200 (som vi ikke har testet på DinSide), får du både 1TB (raskere) harddisk, Blu-Ray-spiller, trådløst tastatur og mus, 9 USB-porter, kortleser, 4GB RAM og en raskere prosessor for 6.000 kroner; riktignok i et litt større format enn Mac Mini, men fortsatt ganske kompakt sammenlignet med DVD-spilleren din. 
+
+Og den kan i tillegg åpnes og oppgraderes og har blant en PCI-express-plass hvis du vil biffe opp grafikken. 
+
+Konklusjon, Mac Mini 
+
+Det blir litt som med Macbook Air - du betaler ekstra for lekker design, men der Macbook Air i sitt segment ikke har noen særlige konkurrenter, finnes det opptil flere maskiner som nå konkurrerer om plassen under TV-en din. 
+
+Riktignok er det kun Mac Mini som kjører OS X, så hvis det er et kriterie for deg, har du ikke så mange valgmuligheter til denne prisen (med mindre du vil ty til ulovligheter), men hvis du vil ha en liten og nett stue-PC som kan spille musikk og film er det også flere Windows- og Linuxbaserte maskiner å velge blant, og der flere av dem er billigere. 
+
+Men vi har fortsatt til gode å se en som er lekrere. 

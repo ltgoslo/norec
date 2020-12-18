@@ -1,0 +1,136 @@
+Sony Alpha QX1
+Kameraet som ikke er et kamera. 
+
+Sony vakte stor oppsikt på IFA-messen i fjor da de presenterte QX10 og QX100. 
+Dette er objektiver med innebygd kamerasensor, men som ikke har egen skjerm, innstillingsknapper eller lignende. 
+
+Tanken er at du bruker dem sammen med en mobiltelefon eller nettbrett, der skjermen på denne enheten brukes både for å komponere bilder og endre på innstillingene. 
+
+Mens QX10 hadde en liten sensor på 1/2,3" (typisk for kompaktkameraer og enkelte telefoner), var sensoren i QX100 vesentlig større (1"), med et lyssterkt objektiv. 
+I praksis var både optikk og sensor i QX100 den samme som på det fabelaktige kompaktkameraet RX100 fra samme produsent, som for øvrig har kommet i to nye iterasjoner siden vi testet det i 2012. 
+
+Se video av hvordan QX1 fungerer: 
+
+QX1 med utskiftbar optikk 
+
+Denne høsten har Sony lansert oppfølgeren til QX10 og QX100. 
+Med QX1 har de nå laget et produkt som for mange er langt mer interessant. 
+QX1 gir deg nemlig mulighet til å bytte objektiv, akkurat som et systemkamera, og er kompatibelt med alle Sonys E-mount-objektiver, som brukes til Sonys øvrige speilløse systemkameraer (NEX-serien). 
+
+Med et adapter kan du dessuten bruke A-mount-objektiver fra Sony (og Minolta). 
+
+Sensoren er derfor også en fullverdig APS-C-sensor med 20 megapikslers oppløsning, altså den samme som typisk sitter i speilreflekskameraer/systemkameraer i folke- og entusiastklassen. 
+
+Under ser du en sammenligning av de tre sensorstørrelsene. 
+Større sensorer gir tradisjonelt bedre bilder, men krever også større optikk: 
+
+Brukes med mobiltelefon 
+
+Konseptet er altså at du bruker denne enheten sammen med en mobiltelefon eller nettbrett. 
+Dette gjør du via Sonys «PlayMemories»-app, som er tilgjengelig både for Android og iOS og har mye til felles med en «vanlig» kameraapp. 
+
+Android-brukere med NFC-støtte på telefonen har det enklest, siden det da bare er å berøre NFC-ikonet på objektivet med telefonen. 
+Da kommer du rett til PlayMemories-appen i Google Play-butikken om du ikke har appen fra før – har du den installert, starter appen og etter noen sekunder får du søkerbildet på skjermen. 
+
+iPhone-brukere har ikke NFC (ei heller iPhone 6/plus, siden disse NFC-brikkene kun kan brukes til Apple Pay). 
+For å få kontakt med QX1 må du da koble deg på det trådløse nettverket QX1 oppretter når du slår den på. 
+Passordet til førstegangs pålogging finner du på innsiden av lokket. 
+Litt mer styr der hver gang du skal ta bilder, altså. 
+Det samme gjelder selvsagt om du har en Android-telefon uten NFC. 
+
+(I så fall er det kanskje på tide med en ny? 
+Her er Dinsides mobiltester. 
+
+Treg start 
+
+Allikevel – selv med NFC går det noen sekunder til du får søkerbildet på skjermen fra du berører objektivet med NFC-brikken. 
+Du kan imidlertid også ta bilder uten å koble til telefonen, men da uten å se søkerbildet, selvsagt. 
+QX1 har en knapp på siden som kan brukes for å fokusere (holde halvveis nede) og knipse bilde (trykke helt inn). 
+
+Et lite, grått LCD-display indikerer også hvor mye batteri som er igjen. 
+Batteritiden er for øvrig oppgitt til 440 bilder etter CIPA-standarden (der halvparten av bildene tas med og halvparten tas uten blits), men vår erfaring er at vi får langt færre bilder enn det ved normal bruk – det reduseres selvsagt i tråd med hvor ofte du slår objektivet av og på og parer det med telefonen. 
+
+Skjønt, de fleste vil nok oppleve at den «totale» batteritiden nok vil bero mer på telefonen enn på objektivet. 
+
+Med og uten objektiv 
+
+QX1 fås kjøpt både løst og med objektiv. 
+Vi har testet kit-pakken med 16-50mm f/3,5-5,6, som da tilsvarer 24mm vidvinkel om du regner om til 35mm-format. 
+
+På dette objekivet finnes også en skyvebryter for zooming (slik at det går greit med én hånd), samt fokusring på tuppen. 
+Dette vil selvsagt varierer med objektivet du setter på. 
+Som på øvrige systemkameraer, kan du ta av objektivet ved å holde en knapp inne og vri det ut. 
+
+En oversikt over objektiver med E-fatning finner du hos Prisjakt. 
+
+Intern blits 
+
+Den interne blitsen virker å være ganske lik den på RX100-kameraene. 
+Den spretter opp når du trykker på knappen (og aldri av seg selv) og har også løse gjenger slik at du kan bikke den opp i taket med tommelen om du ønsker å spre lyset. 
+Det gir ofte en god effekt til innendørsbruk. 
+
+QX1 støtter også minnekort av typen micro SD, som dyttes inn i en sprekk ved siden av batteriet. 
+Dette er påkrevd for å ta bilder i raw-format eller gjøre videopptak. 
+Enheten lades via en vanlig micro USB-ledning – med batteriet i. 
+
+PlayMemories-appen 
+
+Når du bruker QX1, er det PlayMemories-appen som er det sentrale. 
+Selv om du har paret enhetene kan du ikke bruke QX1 som kamera i øvrige apper (f.eks. Snapchat) – kun via PlayMemories-appen. 
+
+Jevnt over synes vi appen virker bra, selv om enkelte innstillinger godt kunne ha vært mer tilgjengelige annet enn bak en verktøymeny. 
+Du kan velge hvorvidt du vil at bildene du tar skal overføres direkte til telefonen etter at de er tatt, og da kan du også velge 2Mp-oppløsning i tillegg til full størrelse. 
+Med 2Mp-oppløsning, som jo er tilstrekkelig om du skal poste bilder på Facebook, tar overføringen et par sekunder. 
+
+Via appen kan du blant annet: 
+
+Endre opptaksmodus mellom stillbilde og videoEndre bildemodus – auto, fremragende auto (blant annet med automatisk HDR-funksjon ved behov), P/S/A. 
+Du får altså ikke full manuel kontroll over både blender og lukker på én gang.Justere blender, lukker, ISOSe på bildene (og overføre) det som er lagret på minnekortet i QX1GPS-tagge bildene med stedsinformasjon fra telefonenJustere hvitbalanse, eksponeringskompensasjon (±3EV) etcAktivere selvutløser, blitstype (på, før, etter), seriefoto (inntil ca 3 bilder pr sekund)Fokusere ved å trykke på bildet, justere zoom og knipse bilde. 
+
+Litt forsinkelse 
+
+Som nevnt gjøre den lange oppstartstiden at QX1 ikke er egnet for deg som vil være raskt på pletten. 
+Det er ei heller spesielt egnet til actionfotografering, både siden antall bilder per sekund er noe begrenset (cirka tre), men også fordi det er en viss forsinkelse fra du flytter på objektivet til endringen reflekteres på skjermen, siden dette er noe som sendes trådløst til telefonen. 
+
+Jo lenger du er unna, desto lavere blir oppfriskningsraten på bildet. 
+Når det er sagt har vi prøvd å stå fem meter unna, gjennom en yttervegg, og fortsatt fått oppdatert bildet på skjermen, så løsningen kan også fint brukes om du vil sette QX1 på et stativ og bruke telefonen som utløser (stativfeste finnes i bunnen). 
+
+Vi blir heller ikke spesielt imponerte av hastigheten på den kontrastbaserte autofokusen, så er det også nevnt. 
+
+Ulike fester 
+
+Vi har prøvd QX1 både med Xperia Z3 og en iPhone under testingen, for med i pakken får du en festeanordning som gjør at du kan klipse den fast i de fleste telefoner – i hvert fall de som er 5,5 tommer eller mindre (maks bredde er snaue åtte centimeter). 
+Dermed fremstår den totale konstruksjonen litt som et systemkamera, og kanskje ekstra kjekt på Sony-telefonene er at de har en dedikert utløserknapp slik at følelsen blir mye av den samme, selv om balansen selvsagt blir helt annerledes, der mesteparten av tyngden er foran. 
+
+Det finnes også andre fester som kan kjøpes ved siden av, for eksempel en T-krok som gjør at du kan holde QX1 i en knyttet neve, men du trenger ikke å bruke et feste i det hele tatt – du kan godt holde mobiltelefonen i den ene hånda og objektivet i den andre. 
+
+Men hvordan blir bildene? 
+
+Sony Alpha QX1 tar bilder som et vanlig systemkamera. 
+Det betyr at de er vesentlig bedre enn de du får med telefonen din fra før, men det skulle selvsagt bare mangle, siden du tross alt bærer med deg en en ganske stor klump ekstra i lomma. 
+
+Ellers er vi godt fornøyde både med tanke på eksponeringer, hvitbalanse og skarphet. 
+QX1 gjør det også godt med tanke på støy ved høy følsomhet. 
+Under finner du et 100%-utstnitt fanget med ISO 3200: 
+
+Nevnt er blitsen, som kan vinkles opp i taket for å gi en bedre lysspredning innendørs. 
+
+Se flere bilder tatt med Sony Alpha QX1: 
+
+Videoeksempel finner du under. 
+Som testklippet viser, klarer QX1 seg bra på overganger mellom lys og mørke. 
+Som du også vil høre, er ikke zoom-funksjonen helt lydløs og høres godt i videoen (noe som selvsagt avhenger av objektivet man har koblet på). 
+
+(Vil du se filmklippet i full størrelse, kan du laste det ned her.) 
+
+Konklusjon 
+
+Det er lenge siden jeg har testet et produkt der folk flokker seg rundt på samme måte som på QX1 – dette er definitivt noe mange synes er veldig hi-tech. 
+
+Selv om ideen er morsom, er vi usikre på om QX1 egentlig fyller noen behov. 
+Mange systemkameraer har i dag fått WiFi-funksjoner slik at du kan dytte bildet over til telefonen, og med en prislapp på rundt 5.000 4.000 kroner (inkludert objektiv) finnes det mange dedikerte kameraer som har mer å by på enn QX1, spesielt hva angår hurtighet og brukskomfort. 
+
+Men morsomt? 
+Bevares! 
+
+Sony Alpha QX1 

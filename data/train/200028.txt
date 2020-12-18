@@ -1,0 +1,58 @@
+NetgearOn networks Powerline 200 
+
+Nettverk over strømnett - er det et blitt et brukbart alternativ? 
+
+Det skjer en voldsom utvikling på trådløst nett, både for nettverksdekning i hjem og på arbeidsplass. 
+Dessuten blir trådløs internettilgang via LTE/4G også tatt i bruk i stadig større omfang. 
+
+En gang i tiden var det også snakk om å levere internettilgang via strømkablene, men det ble det tydeligvis ikke noe av. 
+
+Men en lokal nettverksforbindelse via strømkablene i huset eller leiligheten er fullt mulig. 
+Produkter som tilbyr dette har vært i salg i mange år, og nye produkter dukker opp fortsatt. 
+
+Vi har testet en løsning fra On networks, som er en svært rimelig serie produkter fra Netgear. 
+
+Hva er vitsen? 
+
+Nettverk over strømkablene har noen fordeler framfor både vanlig kablet og trådløst nett. 
+Du slipper å strekke og montere nettverkskabler, strømkablene ligger jo der allerede, og det er ingen konkurrerende trafikk eller forstyrrelser. 
+Det er også vesentlig vanskeligere å hacke seg inn på et slikt nett, hvis man skulle være bekymret for det. 
+
+Det er også det enkleste å sette opp, her er det bare å plugge inn og ta i bruk. 
+Ingen oppsett eller konfigurering er nødvendig. 
+
+Hastigheten er derimot den svakeste egenskapen, sammenlignet med alternativene. 
+Men den kan være tilstrekkelig, og legger man dette sammen med fordelene kan det være en foretrukket løsning. 
+
+Hvor god forbindelse du får er også avhengig av hele den elektriske installasjonen i boligen, hvordan ledningene ligger, lengden, forstyrrelser fra andre apparater og mange andre faktorer. 
+Når produktene er merket med 200 Mbit er det under helt ideelle forhold, i praksis kommer du som regel ikke i nærheten, men det gjør du heller ikke når det gjelder skrytetallene til trådløse nettverksprodukter. 
+
+En utbredt bruk er å koble nettverk over strømkablene mellom boksen fra nettverkstilbyderen - som ofte står et ugunstig sted - og en trådløs ruter som plasserer der den gir best dekning. 
+Kommer for eksempel nettilgangen inn i kjelleren plasserer du den trådløse ruteren i den øverste etasjen. 
+Man graver som kjent ikke ned antenner, de plasseres på høye master. 
+
+I praksis 
+
+Powerline 200 leveres i et sett, det er en grunnpakke som oppretter en forbindelse mellom to punkter. 
+
+I pakken ligger to enheter, som ligner på vanlige strømadaptere, og to nettverkskabler. 
+
+Vi plugget den ene i stikkontakten i veggen på hemsen der vår ruter er plassert. 
+Deretter testet vi forbindelsen på våre vanlige testplasseringer i stua to etasjer ned og i mekkerommet i kjelleren. 
+
+Forbindelsen tar bare noen få sekunder å etablere fra du setter pluggen i veggkontakten. 
+Det er praktisk talt like enkelt som å plugge i to stikkontakter og to nettverkskontakter. 
+
+Ytelse 
+
+Ytelsen er den svakeste delen av løsningen, men som nevnt over, den kan være tilstrekkelig i svært mange situasjoner. 
+Sammenligner vi med ytelsen til rimelig trådløse nettverksrutere er imidlertid ikke denne løsningen dårligere: 
+
+Sammenligner vi den med de raskeste og dyreste trådløse ruterne og klientene kan den ikke hamle opp. 
+
+Konklusjon 
+
+For vanlig nettbruk fungerer den utmerket, har du en rask PC oppleves ikke nettsurfing som treg i det hele tatt. 
+Husk at du må ha en internettforbindelse som er raskere enn 20 Mbit for at denne strømnett-løsningen skal bli en flaskehals. 
+
+On Networks PL200 

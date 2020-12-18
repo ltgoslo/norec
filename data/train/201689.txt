@@ -1,0 +1,92 @@
+Elitegroup Green 736
+Enkelte PC-produsenter setter alle kluter til for å lage bærbare PCer som kan matche stasjonære PCer på nær sagt alle områder, både på utstyrs- og ytelsessiden, men ofte har medaljen minst én bakside. 
+
+Taiwanske Elitegroup (ECS) er en av de aller største produsentene av hovedkort, og har i tillegg spesialisert seg på bærbare PCer som benytter komponenter som egentlig var tiltenkt stasjonære PCer. 
+Disse PCene er som regel billigere, men er ofte tunge og har beskjeden batterilevetid i forhold til bærbare PCer med moderne mobilkomponenter. 
+
+LES OGSÅ: 
+
+Vi har flere ganger tidligere testet maskiner fra Elitegroup, sist ut var Green 732, som vi testet for et knapt år siden. 
+Den gang skrøt vi av utstyrsnivået og prisen, men likte slett ikke den bråkete vifteløsningen. 
+
+Etterfølgeren 736 er bygd i samme kabinett, men er i praksis en langt kraftigere PC. 
+Multicom tilbyr den i skrivende stund i tre forskjellige konfigurasjoner, og her er en rask oppsummering av vårt maskinvaren i vårt testeksemplar: 
+
+15" SXGA-skjerm, oppløsning 1400 x 1050 punkter ATI Mobility Radeon 9600 grafikkbrikke, 128 MB Intel Pentium 4 
+ 3 GHz (800 MHz bus) - HyperThreading 80 GB harddisk, 5400 rpm 2x1x8x 
+DVD-R(W)-brenner (16x10x24x CD) 512 MB minne VGA og TV-utgang (s-video) infrarød port 4 stk USB 2.0-porter Firewire-port modem 10/100 Mbit nettverk Trådløst nettverk (802.11b/g) 1 stk PCMCIA-plass Størrelse: 33,2 x 28,1 x 3,9 cm Vekt: 
+3,8 kg + strømforsyning 850 g 
+
+Intel Hyper-Threading 
+
+Vi merker oss også at PCen er utstyrt med trådløst nettverkskort som støtter 54 Mbit-standarden 802.11g. 
+Vi er ikke fullt så fornøyde med at brenneren er i tregeste laget, og ikke støtter DVD+R(W)-formatet, som mange anser som mer fremtidsrettet enn DVD-R(W). 
+
+Ut over dette har PCen selvsagt også vanlig nettverksport (10/100 Mbit), 56 Kb modem, 1 stk PCMCIA-plass, TV-utgang og parallellport. 
+Du får derimot verken diskettstasjon, gammel seriellport eller PS/2 port. 
+Det betyr blant annet at du må bruke to av de ledige USB2.0-portene til eksternt tastatur og mus, dersom du skulle foretrekke dette. 
+
+Merk at prisen ikke inkluderer operativsystem. 
+Ønsker du Windows XP Home ferdig installert, koster dette ca 1.000 kroner ekstra. 
+Det følger med programvare for CD/DVD-brenning og DVD-avspilling. 
+
+Anonym 
+
+Selve PCen har et anonymt ytre, uten noen som helst merking (bortsett fra Green 736-stempelet på undersiden). 
+Vi antar at Elitegroup ønsker å selge modellen til PC-leverandører som vil sette sitt eget merke på den. 
+Kabinettet er i sort med sølvgrå detaljer, lokket har en matt, nesten gummiaktig overflate som dessverre viser fingermerker og fettflekker for raskt. 
+Det er på den annen side ganske stivt og gir akseptabel beskyttelse for skjermen, men i likhet med de fleste andre lokk til bærbare PCer bør du ikke legge tunge gjenstander på det. 
+
+Selve skjermen er en helt grei 15 med høy oppløsning (1400x1050 punkter), middels lyssterk og med godt innsyn fra sidene. 
+
+Tastaturet er stort, og spesialtaster har rimelig logiske plasseringer i forhold til et vanlig tastatur. 
+Dessverre er enkelte spesialtaster litt små, deriblant mellomromstasten, og tastaturet lager en klirrelyd når du skriver på det. 
+Vi liker heller ikke at det er plassert taster til høyre for rette- skift- og returtastene, noe som gjør at du oftere treffer feil tast. 
+
+Over tastaturet finner du tre knapper, to av dem er hurtigknapper som starter nettleser og epost. 
+Den siste, som er plassert i midten, er av/på-knappen. 
+Pekeplaten under tastaturet er naturligvis midtstilt i forhold til F og J-tastene, og du finner også en todelt opp/ned-scrolleknapp mellom høyre og venstre museknapp. 
+I fronten av PCen finner du knapper for å styre CD/mediaavspilling, samt regulering av lyd. 
+
+Alt i alt en funksjonell og praktisk utforming, men vekten på 3,8 kg + strømforsyningen på 850 gram vil nok skremme vekk de mest mobile brukerne. 
+
+Ikke for lesesalen 
+
+Et av de store ankepunktene mot Green 732 var viftestøyen. 
+736 er ikke blitt bedre, heller verre. 
+Det skuffet oss, all den tid at de fleste PC-produsenter har fokus på dette problemet nå. 
+Viftene går konstant, og har enkelte høyfrekvente bilyder som gjør at vi aldri ville benyttet den på forelesninger, møter og lesesaler. 
+
+Til og med på vår testlab, der flere stasjonære PCer surrer og går, ble det merkbart stillere da vi slo av Green 736. 
+Slett ikke bra. 
+
+Kompromissløs ytelse 
+
+Vi hadde forventet høye ytelsestall på prosessor, minne og grafikk, og vi ble ikke skuffet. 
+Grafikkytelsen er omtrent 15% høyere enn på Tundra 1557, som har samme grafikkbrikke, men halvparten så mye grafikkminne. 
+CPU-ytelsen er derimot mer enn 30% bedre enn Tundraens 1,6 GHz Pentium M. 
+Det kan spille en ganske stor rolle i de mest prosessorkrevende situasjonene. 
+Som ventet gjorde også 400 MHz-minnet rent bord i minnetestene. 
+Bare harddiskytelsen var "midt på treet", men her har du til gjengjeld meget god plass. 
+
+Men rå ytelse fører ikke bare med seg viftestøy, men betyr som regel beskjeden batterilevetid. 
+Elitegroup Green 736 er i så måte intet unntak. 
+Det eneste positive som kan sies om 1 time og 47 minutter er at det er bedre enn ingenting. 
+
+Vi har samlet resultatene fra ytelsestestene i 3DMark03 og PCMark04 på denne siden. 
+Sjekk også lenken Tekniske data i oppsummeringsboksen, der finner du også ytelsesresultater samt detaljer om PCens egenskaper. 
+
+Konklusjon 
+
+Denne PCen er toppspekket med hensyn til utstyr og løsninger, men skuffer først og fremst med et støynivå som ligger godt over de fleste PCer vi har testet de siste årene. 
+Vi synes heller ikke den er spesielt billig, og dermed blir det vanskelig å gi en uforbeholden anbefaling av Elitegroup Green 736. 
+Den får likevel terningkast 4 på grunn av utstyrsnivået og den høye ytelsen. 
+
+Anbefalte bruksområder: 
+
+Spill: meget velegnet Video: mindre egnet (pga støy) Musikk: mindre egnet (pga støy) Internett- og kontoroppgaver: velegnet Bildebehandling: velegnet Grafisk design: velegnet Stille omgivelser: uegnet Mobilitet: mindre egnet 
+
+Du finner andre maskiner vi har testet i 2004 i margen til venstre. 
+
+På testbenken akkurat nå: 
+Fujitsu-Siemens Amilo D1840 

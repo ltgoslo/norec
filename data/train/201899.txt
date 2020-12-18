@@ -1,0 +1,97 @@
+HP Pavilion G6
+En av de aller rimeligste på markedet med Intel Core i5-prosessor og romslig harddisk. 
+Men duger den i praksis? 
+
+Det er knapt noen PC som har figurert oftere i tilbudsannonsene denne høsten enn HP Pavilion G6. 
+Maskinen finnes i en rekke forskjellige konfigurasjoner, og prisene varierer i skrivende stund fra like over 3000 til 6000 kroner. 
+
+Men for så lite som 3999 kroner får du en maskin som på papiret er overraskende godt utstyrt. 
+Vi snakker om HP Pavilion g6-1131eo, og det er NetOnNet som nå selger modellen til denne kampanjeprisen. 
+
+Vi tok kontakt med butikken for å få låne et eksemplar til prøvekjøring i vår testlab. 
+Men først en titt på noen av de viktigste spesifikasjonene: 
+
+HP Pavilion g6-1131eo 15,6" LED-baklyst LCD-skjerm, 1366 x 768 piksler Intel Core i5-2410M prosessor 4 GB RAM (2 x 2 GB, dette er maksimalt) AMD Radeon HD 6470M grafikkort, 1 GB DDR3-minne 750 GB harddisk, 5400 rpm DVD-brenner 3 stk USB 2.0-porter HDMI og VGA skjermutganger 100 Mbit-kontakt for kablet nettverk Trådløst nettverk (b/g/n) Bluetooth 0,3 Megapiksels webkamera 6-cellers Li-Ion-batteri Windows 7 Home Premium 64-bit Størrelse 37,4 x 3,6 x 24,5 cm Vekt: 
+2,55 kg 
+
+For det andre er det ikke støtte for Gigabit kablet nett. 
+Det betyr at maks overføringshastighet via nettverkskontakten er rundt 11 MB pr sekund, mot rundt 100 på mange konkurrerende modeller. 
+Og så er det ikke noen USB 3.0-porter her, noe som også begrenser hastigheten hvis du kobler til en ekstern harddisk med USB 3.0-støtte. 
+
+Ser vi bort fra dette er det imidlertid svært sjelden at vi ser SÅ rimelige PC-er med Core i5-prosessor, dedikert grafikkort og en meget romslig harddisk. 
+For mange er dette viktigere egenskaper enn de vi skisserte som begrensende faktorer. 
+
+Litt traust 
+
+Eksteriørmessig gir den et gjennomsnittlig inntrykk, men kanskje også litt traust. 
+Lokket er av plast, overflaten er skinnende blank, men problemer med fettflekker er nesten fraværende, forbausende nok. 
+Resten av maskinen er også av plast, og det er på det rene at HP har tenkt funksjonelt, og mindre på stil, robusthet og eleganse på G6. 
+
+Tastaturet er greit nok, tastaturplaten er relativt fast og tastene avgir lite støy. 
+Pekeplaten er bare et ruglete felt i chassiset, og den fungerer faktisk meget bra. 
+Knappene under den er helt adskilt, men avgir et litt for høyt klikk, etter vår smak. 
+Du blir fort upopulær på lesesalen, for å si det slik. 
+
+Alle tilkoblingene sitter på sidene, et par høyttalere merket Altec Lansing sitter i fronten: 
+
+De nevnte høyttalerne er forresten av bra kvalitet - her får du faktisk litt bass og dybde, mye bedre enn på mange konkurrenter. 
+Helt greit til spilling, enmannskino og bakgrunnsmusikk. 
+
+Slik er den i bruk 
+
+Maskinen kommer med en rekke forhåndsinstallerte programmer, de fleste fra HP selv. 
+Vi har blandede erfaringer med HP's egne løsninger tidligere, og selv om vi godt kunne tenke oss å slippe alle sidene i konfigurasjonsveiviseren, er det hele relativt raskt gjort og du kan begynne å bruke PC-en. 
+
+Noe av det første vi merker oss, hvis vi ser bort fra en forferdelig bråkete skrivebordsbakgrunn, er at maskinen er utstyrt med en vifte som går konstant. 
+Vi har testet mange PC-er i økonomiklassen det siste året, men svært sjelden opplevd noe lignende, og da spesielt ikke med denne prosessoren. 
+Det forbauser oss egentlig litt, chassis er relativt stort, og det burde være mulig å få til løsninger som ikke krevde luftkjøling til enhver tid. 
+
+Når det er sagt: 
+Rotasjonen er såpass lav at noe særlig støy er det ikke snakk om. 
+Dessuten kan det være langt enklere å forholde seg til et jevnt sus enn stadige start og stopp, og suset skiftet knapt karakter selv under de tyngste ytelsestestene. 
+
+Det bringer oss over på neste punkt, ytelse. 
+Windows egen Opplevelsesindeks gir oss følgende indikasjoner, og her går skalaen fra 1.0 (svakest) til 7.9 (best): 
+
+Prosessor: 6.9 Minne (RAM): 
+7.2 Grafikk: 
+4.5 Spillgrafikk: 
+6.1 Primær harddisk: 
+5.9 
+
+Tar vi en titt på ytelsestall fra Passmark PerformanceTest og sammenligner med typisk maskinvare i andre PC-er i samme prisklasse, ser vi at HP G6 gjør det meget bra. 
+Den totale scoren for denne maskinen ble på 1076: 
+
+Først, prosessorytelsen, der maskinen ligger helt i toppen: 
+
+På grafikkytelsen er den også bedre enn snittet, men bak de aller hvasseste i prisklassen: 
+
+Ingen spillmaskin 
+
+Merk at grafikken er mer enn kjapp nok til enklere spill og til alt av HD-video, men er du ute etter en PC du kan spille Battlefield 3 og tilsvarende på, må du ha noe kraftigere. 
+
+Maskinen skifter automatisk mellom den integrerte Intel-grafikken og AMD-grafikken, sistnevnte "tar over" når oppgavene blir for krevende for den integrerte grafikken. 
+En typisk bruker av denne PC-en vil knapt ha behov for den dedikerte, og mer strømkrevende grafikken, tror vi. 
+
+Forventet mer av batteriet 
+
+Batterilevetiden ble målt i to omganger. 
+Først målte vi den med minimal belastning på maskinen, med standard strøminnstillinger, og med PC-en koblet til det trådløse nettet. 
+Da holdt batteriet ut i 4 timer og 23 minutter. 
+Det er ikke spesielt imponerende for et 6-cellers batteri i kombinasjon med den denne prosessoren. 
+Den andre gangen spilte vi samme HD-klipp i Windows Media Player i loop til batteriet gikk tomt. 
+Det tok 2 timer og 56 minutter. 
+
+Det skulle bety at du under normalt arbeid vil kunne ha glede av maskinen i mellom 3 1/2 og 4 timer før den må settes på lading igjen. 
+Det er et stykke bak de mest seiglivede vi har testet i budsjettklassen denne sesongen. 
+
+Konklusjon 
+
+Joda. 
+Det er ingen tvil om at du får mye for pengene ved å velge denne maskinen. 
+Du får en PC som byr på god applikasjonsytelse, med bra lyd, og harddisken er 250 GB større enn hos de aller, aller fleste konkurrentene i klassen. 
+Men merk deg også de negative bemerkningene vi har gjort i oppsummeringen under - før du eventuelt slår til. 
+
+Takk til NetOnNet for utlån av maskinen! 
+
+HP Pavilion G6-1131eo 

@@ -1,0 +1,109 @@
+Lignende hodetelefoner har du neppe vært borti
+HP 
+Omen byr på en unik opplevelse. 
+
+PC-spilling er i vinden som aldri før, og HP er blant dem som satser stort på dette markedet. 
+Det med Omen-merkevaren som består av stasjonære og bærbare PC-er, samt tilbehør som dedikert spillmus og ikke minst, spillhodesett. 
+
+Omen Mindframe ligger i den sistnevnte kategorien og skiller seg ut fra resten av markedet på ett område: 
+Det har integrert kjøling. 
+For er det noe som skjer når man sitter i timesvis og spiller med tette hodetelefoner, er at man blir svett på ørene. 
+Det er nesten umulig å unngå. 
+HPs tanke er å holde spillernes ører avkjølt når spillingen er på sitt mest intense. 
+
+HP Omen Mindframe 
+
+Før vi går inn på kjølingen, kan vi se litt på designet. 
+Omen Mindframe er et typisk spillhodesett, det ser man med en gang. 
+Det er i hovedsak utformet i svart plast og det er ingen diskré detaljer å spore. 
+I bøylen går det en rød kabel som sender lyd fra den ene øreklokken til den andre og det er integrerte lys både på klokkene og tuppen av mikrofonen. 
+Mye lys er stikkordet når det gjelder spillutstyr. 
+
+Som nevnt har Omen Mindframe lys på klokkene. 
+En kvadratisk lysstripe som omkranser Omen-logoen. 
+Som standard lyser det rødt – Omen-fargen – men man kan justere det ytterligere i appen Omen Command Center. 
+Dette programmet installeres automatisk når man kobler hodesettet til en PC med Windows 10. 
+Man finner det også i Microsoft Store. 
+
+Slik kan lyset justeres: 
+
+Tilbake til designet. 
+Som nevnt over, går det for det meste i plast, et punkt som gjør oss litt usikre på holdbarheten. 
+Men her handler det mye om hvordan man behandler tingene. 
+Hodebøylen består også av en fleksibel stoffdel som ligger forholdsvis komfortabelt mot hodebunnen. 
+Putene er også i stoff og også her er komforten på topp. 
+Selve hodesettet ligger tett mot hodet uten at det føles ubehagelig og vi gjennomførte lengre spilløkter uten at vi følte behovet for å ta dem av. 
+
+På den venstre øreklokken sitter både mikrofonen og den to meter lange USB-kabelen man bruker for å koble hodesettet til PC-en. 
+Mikrofonen kan kun flyttes opp og ned, som betyr at man kun kan bruke den på venstre side. 
+Her handler det litt om smak og behag, og noen foretrekker å ha mikrofonen på den høyre. 
+På motsatt øreklokke finner man et volumhjul som brukes til å justere lydstyrken. 
+
+Lyden skuffer 
+
+Omen-hodesettet har to høyttalerelementer på 40 millimeter som opererer i frekvensområdet 15–22 000 Hz. 
+Lydkvaliteten er etter vår erfaring helt OK; og ikke det vi forventer av et hodesett i prisklassen 1500+ kroner. 
+De spiller høyt, faktisk veldig høyt, men vi savner litt mer dybde og detalj i lydbildet. 
+Og det er synd fordi spilling handler mye om lyd. 
+
+Et godt eksempel på dette er spillserien «Battlefield». 
+Utvikleren Dice er gjennom årene for å levere en visuelt fantastisk opplevelse, men også audiovisuell, men da er man også avhengig av en god lydkilde. 
+
+Mikrofonen, med støykansellering, er derimot god og motparten vil høre deg klart og tydelig. 
+Den er også effektiv med å luke ut det meste av bakgrunnsstøy. 
+og vi liker godt at man kan dempe den ved å sveipe den 90 grader opp. 
+Man varsles med et kort bip når mikrofonen dempes og når den er aktiv. 
+
+Hvor er tilpasningsmulighetene? 
+
+Som mange andre spillhodesett, har Omen Mindframe også støtte for flerkanals 7.1 surround. 
+For å dra nytte av dette må man aktivere «Romlig lyd» under lydinnstillinger i Windows 10. 
+Det gjør man på følgende måte: 
+
+The Next Web har en svært nyttig artikkel hvis man vil lære mer om romlig lyd. 
+
+Når det er aktivert, skal man altså kunne nyte surround på Omen Mindframe. 
+En opplevelsen vi vil beskrive som så som så. 
+Ettersom det er snakk om hodetelefoner som ligger tett på øret, er det vanskelig å få skikkelig surround, men det er jo derfor produsentene benytter ordet «virtuell». 
+
+Ja, man kan høre om det skytes fra venstre eller høyre i «Fortnite», det kan man også med stereoklokker, men vi syns det er litt vanskelig å høre om fienden er bak oss – noe som tross alt er litt av hensikten med surround. 
+
+En annen ting vi savner, og som sikkert mange spillere vil savne, er konfigurering av lyd og mikrofon, som dessverre ikke er mulig. 
+I Command Center-applikasjonen kan man kun justere kjøling og lyseffekter. 
+Man kan heller ikke justere forholdet mellom lyd fra personer med prater med og fra spillet. 
+Disse tingene er noe HP er nødt til å få på plass så fort det lar seg gjøre og burde egentlig vært her nå. 
+
+Avkjølende 
+
+Så til den mest interessante egenskapen til HP Omen Mindframe, nemlig den integrerte kjøleløsningen. 
+HP skriver at det sitter termoelektrisk kjøling på høyttalergrillen i aluminium. 
+Disse trekker varme ut fra innsiden av kammeret og dytter luften ut. 
+
+I Omen Command Center kan man faktisk justere intensiteten på kjølingen (høy, medium og lav), men også deaktivere den hvis man måtte ønske det. 
+
+Det store spørsmålet er selvsagt om dette fungerer, og svaret er ja, det gjør det jammen meg. 
+Høyttalergrillen blir overraskende kald og man merker en nedkjølende effekt. 
+En noe uvant følelse, faktisk, ettersom vi har ikke vært borti noe liknende tidligere. 
+
+Vi har nettopp lagt bak oss den varmeste sommeren på lang tid, og vi skulle gjerne sett at Mindframe ble lansert da og ikke nå når det nærmer seg vinter. 
+
+Merk: 
+Omen Command Center er ikke tilgjengelig til macOS, men vi kan bekrefte at kjølingen også fungerer på Mac. 
+Ulempen er da at man ikke kan justere kjølingen. 
+
+Klokkene blir for øvrig varme på utsiden når kjøleløsningen er aktivert, dette fordi varme trekkes ut. 
+Vi har lest om flere som mener at øreklokkene blir ordentlig varme, men det er ikke vår erfaring. 
+
+Konklusjon 
+
+Det er ingen tvil om at HP har laget et unikt og ikke minst interessant spillhodesettpar, men det er også tydelig at de fortsatt er ferske i denne produktkategorien. 
+For eksempel er mangel på konfigurering av Omen Mindframe, og da tenker vi på lyd og mikrofon, noe spillere vil irritere seg over. 
+
+En annen ting er at lyden ikke er helt på det nivået vi forventer av et spillhodesett i den prisklassen. 
+Når det er sagt, vil du høre vennene dine klart og tydelig for Mindframe takler vokal bra. 
+
+Når det gjelder kjølingen, som er den tingen som skiller HPs hodesett fra andre, er det ingen tvil om at det fungerer. 
+Samtidig er det kjekt at man kan justere intensiteten på kjølingen og slå den av, hvis man foretrekker det. 
+Men kjølingen alene er ikke nok til at vi vil anbefale HP Omen Mindframe fremfor andre spillhodesett i denne prisklassen. 
+
+Dinside kommer med en større test av spillhodesett i løpet av kort tid. 

@@ -1,0 +1,166 @@
+Microsoft Surface Pro 3
+Nettbrett eller bærbar PC? 
+Det siste. 
+
+Denne uka blir Surface Pro 3 tilgjengelig i norske butikker, etter å ha blitt lansert over Atlanteren tidligere i sommer. 
+
+Surface Pro 3 er altså den tredje Pro-enheten i rekken, som lanseres 18 måneder etter at den første Surface-enheten så dagens lys. 
+
+Både den opprinnelige Surface og Surface 2 finnes i «lettvekter»-versjoner (som kjører Windows RT; en Windows-versjon uten mulighet for å kjøre tradisjonelle Windows-programmer), men foreløpig er det ikke annonsert noen RT-variant av treeren. 
+
+Dette er nytt 
+
+Microsoft har gjort noen endringer fra Surface Pro 2, som vi testet i oktober i fjor. 
+Denne modellen blir for øvrig ikke tatt vekk fra markedet, men vil fortsatt være i salg. 
+
+Her er noen av de viktigste nyhetene i Surface Pro 3: 
+
+Større skjerm – Surface 2 Pro hadde en 10,6" berøringsskjerm med 1920x1080-oppløsning. 
+På Surface Pro 3 er denne skjermstørrelsen økt til tolv tommer, og oppløsningen økt videre til 2160x1440; altså i et 3:2-format. 
+Det synes vi er med på å undestreke at dette primært er en bærbar PC og ikke primært et nettbrett, selv om det kan brukes som begge deler.Tynnere og lettere – Mens Surface 2 Pro var 13,5mm tykk, er dette nå blitt krympet til 9,1mm. 
+Vekten er redusert fra 916 til 798 gram.Ny penn – Med i pakken får du også en penn, som nå er blitt litt tykkere, og som i våre øyne føles bedre å skrive med. 
+Mer om pennen senere.Flere vinkler – Mens Surface Pro 2-skjermen kunne vinkles på to måter, er dette nå blitt ganske sømløst helt ned til 150 grader på Surface Pro 3.Kraftigere – Surface Pro 3 kommer i fem utgaver, der de to kraftigste utgavene har i7-prosessor fra Intel. 
+
+Fem versjoner 
+
+Til denne testen har vi fått den nest billigste konfigurasjonen, med Core i5-prosessor (1,9GHz, to kjerner), 128GB lagringsplass (litt under 100GB tilgjengelig) og 4GB internminne. 
+Den koster 8.645 kroner, og det er altså uten tastatur. 
+Type cover-tastaturet vi også fikk med testproduktet koster 1100 kroner ekstra, så den totale prislappen flørter med andre ord med den magiske 10.000-kronersgrensen. 
+
+Her er for øvrig de øvrige konfigurasjonene og tilhørende priser: 64GB/Intel i3: 6895,- 128GB/Intel i5: 8645,- (testmodell) 256GB/Intel i5: 11225,- 256GB/Intel i7: 13375,- 512GB/Intel i7: 16845 
+,- 
+
+I følge Microsoft var den nest dyreste varianten den mest forhåndsbestilte i Norge, og Norge var blant landene i Europa med flest forhåndsbestillinger – da målt i antall, og ikke per innbygger. 
+
+PS! 
+Surface Pro 3 støtter også minnekort av micro SD-typen, slik at du kan utvide lagringsplassen. 
+
+Nettbrett eller PC? 
+
+Microsoft var svært tydelige på pressekonferansen der vi fikk utdelt vårt testeksemplar – dette er en PC, og ikke et nettbrett. 
+Det understreker selskapet ved å sammeligne Surface Pro 3 med Macbook Air på Surface-hjemmesiden. 
+
+Vi må innrømme at vi da synes det er litt snålt at Microsoft har valgt å selge tastaturet som tilbehør, men med både USB-port og Bluetooth-støtte, er det selvsagt fritt frem for å bruke et annet tastatur. 
+
+Finfin penn 
+
+Som med forgjengerne er skjermen berøringsfølsom, og det følger altså med en penn i pakka. 
+
+Selve maskinen har ingen egen holder til denne pennen, men via magnetisme kan den festes på siden av skjermen et par steder. 
+Magneten er dog ikke spesielt kraftig, så pennen faller lett av i en bæreveske. 
+
+Kjøper du type cover-tastaturet følger det heldigvis med en liten «løkke» som du teiper under på siden, og som da fungerer som en penneholder. 
+
+Den nye pennen er som nevnt litt tykkere enn forgjengeren og drives av et AAAA-batteri. 
+I forhold til den forrige pennen er den nye mer presis, og forsinkelsen redusert fra allerede svært gode 18ms, slik at skjermen ikke «henger etter» når du tegner. 
+På den negative siden har den «bare» 256 ulike trykknivåer (1024 på Surface Pro 2). 
+
+Det er allikevel mer enn nok til å gi en skikkelig følelse av å skrive på et ark, der strekene blir kraftigere jo hardere du trykker pennen. 
+Pennen har også tre knapper – to nær pekefingeren når du skriver og én på toppen. 
+
+Knappen på toppen kan tilordnes en snarvei – standard er OneNote (Microsofts program for å lagre alt mulig av notater), som også kan startes med pennen selv om skjermen er avslått. 
+Det gir deg mulighet til kjapt å notere noe – uten å måtte låse opp maskinen. 
+
+Trykker du to ganger på den, skal det tas et skjermbilde som limes direkte inn i OneNote, slik at du kan beskjære og tegne på det, men vi har ikke lykkes å få akkurat det til å fungere. 
+Det var heller ikke helt stabilt da vi fikk Surface 3 demonstrert av Microsoft, men fikses nok i en oppdatering senere. 
+
+De to andre knappene brukes henholdsvis til å pusse bort det man har skrevet og som vanlig musknapp, for eksempel til å merke deler av et bilde. 
+
+Surface Pro 3 er også smart nok til å oppdage når pennen er i nærheten av skjermen, slik at øvrig berøring midlertidig deaktiveres. 
+Dermed kan du hvile hånden på skjermen mens du skriver. 
+Når du holder pennen nær skjermen vises også punktet du «sikter på», på samme måte som på Samsungs Note-nettbrett. 
+
+Mer fleksibelt 
+
+Den nye kickstand-innretningen på baksiden (som gjør at skjermen kan stå oppreist) er nå vesentlig forbedret – den har en ganske drøy treghet, men det ser vi på som positivt, siden det betyr at den står støtt uansett hvilken vinkel man har valgt. 
+Man kan legge den helt ned til 150 graders vinkel, og det er i praksis trinnløst. 
+
+Touch cover-tastaturet er også smått forbedret fra forgjengeren. 
+For det første er det større i henhold til den økte skjermstørrelsen, og det er også mulig å bikke det siste leddet inntil skjermen litt opp, slik at innretningen føles stødigere i fanget, eller dersom man ønsker en vinkel på tastaturet når det står på skrivebordet. 
+
+Dog føler vi ikke at Surface Pro 3 er like egnet til å ha i fanget som en vanlig laptop, siden vektfordelingen gjør det lettere å miste den i gulvet. 
+På skrivebordet avgir det også mer lyd dersom du har valgt å vinkle tastaturet. 
+
+For øvrig er også styreflaten større enn hos forgjengeren og føles behagelig og presis i bruk, med støtte for flerberøring slik at du for eksempel kan skrolle nettsideinnhold med to fingre. 
+
+Vi gjør også oppmerksom på at du ikke må velge lilla. 
+Tastaturet finnes også i sort, rødt og blått. 
+
+Vi må også gi plusspoeng for at Surface Pro 3 har en magnetisk ladeinnretning, slik Apple lenge har hatt sin Macbook-serie. 
+Det gjør at kabelen bare faller ut dersom du snubler i ledningen, slik at hverken pluggen knekker i porten eller maskinen faller på gulvet. 
+
+Surface Pro 3 har én USB3.0-port (full størrelse), samt en mini Display-port som kan brukes for å koble den til en TV eller projektor. 
+Enheten støtter også 802.11ac-standarden, men har ikke mulighet for SIM-kort. 
+
+I bruk 
+
+Fra avslått tilstand er Surface Pro 3 klar til dyst i løpet av femten sekunders tid. 
+Slukker du bare skjermen, tennes den igjen umiddelbart når du trykker på en knapp på tastaturet eller på siden av skjermen, men etter en tid med slukket skjerm, går maskinen i dvale slik at du igjen må vente de femten sekundene. 
+Da fungerer heller ikke OneNote-snarveien på toppen av pennen. 
+
+Surface Pro 3 kjører altså Windows 8.1; et operativsystem som ikke bare har vært positivt mottatt, men som eksisterende brukere kjenner seg godt igjen i. 
+
+Det følgende blir litt subjektivt, men selv opplever jeg Windows 8 å være litt rotete på grunn av todelingen – man har Metro-grensesnittet med tilhørende Metro-apper, som er ganske nettbrettvennlig, og det «vanlige» skrivebordsmiljøet som ikke er tilpasset berøring overhodet, og det føles litt som om man befinner seg i to verdener. 
+
+I løpet av uken med Surface Pro 3 er det også enkelte småting jeg har opplevd som problematiske. 
+Her er noen eksempler: 
+
+Jeg hadde et langt og avansert LastPass-generert passord på Microsoft-kontoen min, men skjønte kjapt at det ble litt slitsomt å taste inn hver gang jeg skulle låse opp maskinen. 
+Derfor endret jeg det til noe litt enklere. 
+Da jeg tok med Surface Pro 3 hjem og skulle logge på igjen, var den naturligvis ikke på nett, men for å logge på måtte jeg nå bruke det forrige passordet – som jeg hadde overskrevet og ikke hadde lagret noe sted. 
+Løsningen ble å «fake» jobbnettverket ved å starte mobilt hotspot på telefonen og endre SSID og passord likt jobben sitt, slik at maskinen automatisk koblet seg på nettet fra mobiltelefonen, og da kunne jeg bruke det nye. 
+I dag opplevde jeg å sitte på jobb og logge meg på med samme feilmelding, men etter noen sekunder var den koblet på jobbnettverket slik at jeg kunne logge meg på med det nye passordet.Jeg åpnet lånekontrakten fra Microsoft i epostappen som et Word-vedlegg. 
+Åpnet det i Word og signerte med pennen før jeg skulle sende det i retur direkte fra Word. 
+Da måtte jeg igjennom Outlook-veiviseren (det andre e-postprogrammet). 
+Penn og finger er ikke det samme – holder jeg pennen i hånda etter å ha notert noe og skal finne et annet program, har jeg flere ganger brukt pennen for å sveipe Metro-grensesnittet, men da flytter jeg bare flisene (som om man holder musknappen nede). 
+Jeg klarte ikke å pare pennen med maskinen i det initielle oppsettet, selv om jeg gjorde alt etter boka. 
+Etterpå måtte jeg derfor finne frem til pennoppsettet (ikke så intuitivt for de som ikke har brukt Windows 8) og dra igjennom et par ganger før det endelig virket.Jeg finner ikke Angry Birds i Windows-butikken når jeg søker, men fant det listet opp blant populære spill. 
+
+Flere programmer fremstår noe uskarpe på Surface Pro 3-skjermen, som for eksempel Spotify, som har ganske «tåkete» skrift sammenlignet med andre programmer. 
+
+Også Google Chrome var uskarp til å begynne med, men ble i løpet av testperioden oppgradert til versjon 37, der en av nyhetene nettopp var skarpere tekst, og den oppgraderingen var en velsignelse. 
+På Firefox er selve nettinnholdet skarpt, mens navigasjonsknapper og den slags er uskarpt. 
+
+Litt den samme følelsen som da vi testet Macbook Pro Retina første gang, med andre ord, og noe som sannsynligvis skyldes at oppløsningen på Surface Pro 3 både er svært høy og ganske utradisjonell. 
+
+Når det er sagt, er skjermen på Surface Pro 3 svært god. 
+Den er riktignok ganske blank og gir derfor en del refleksjoner, men innsynsvinkelen er svært god i den vertikale retningen, som er kjekt på en bærbar PC. 
+
+Med oppløsning på 2160x1440 fordelt på en tolv tommers skjerm er den også svært, svært skarp. 
+
+Ytelse 
+
+Når det gjelder den generelle ytelsen i daglig bruk, føles Surface Pro 3 kjapp. 
+Programmer starter raskt, animasjoner glir fint og PC-en responderer raskt på alt. 
+
+Nevnt er også den svært lave forsinkelsen når man bruker pennen, som gjør at man i større grad føler at man skriver sammenlignet med lignende løsninger på andre nettbrett. 
+
+Til spill er den imidlertid ikke så godt egnet. 
+Det fungerer selvsagt greit med spill som er litt enkle, som Angry Birds og den slags, men med 3D-spill flyter det langt svakere; for eksempel når vi tester med Pinball FX2, som kan lastes ned fra Windows-butikken, og som hakker tydelig. 
+Når maskinen stresses litt med ting som dette, blir den varm, og vifta høres også godt, men har heldigvis en lite plagsom frekvens. 
+
+(For den som er ekstra opptatt av ytelse, kan det være verdt å ta en titt på Anandtechs gode sammenligning med Surface Pro 2, der treeren scorer bedre enn toeren i enkelte ytelsestester, men der belastning over tid gir svakere resultater.) 
+
+Microsoft oppgir cirka ni timers batteritid ved nettbruk – selv måtte jeg finne frem laderen etter rundt sju, men det inkluderte også installasjon av diverse apper og litt-mer-enn-lett bruk. 
+
+Det er uansett en del svakere enn siste utgave av Macbook Air, som Microsoft selv sammenligner Surface Pro 3 med. 
+
+Vi gjør nok en gang oppmerksom på at vi har testet den nest letteste konfigurasjonen og at det finnes Surface Pro 3-konfigurasjoner med mer kraft enn vår testmodell. 
+
+Konklusjon, Microsoft Surface 3 
+
+Da vi testet det første Surface-brettet, satt vi igjen med følelsen av et produkt som falt mellom to stoler. 
+Det gjør vi ikke med Surface Pro 3 (ei heller med forgjengeren for den saks skyld), og vi er enig med Microsoft – denne enheten er primært en bærbar PC. 
+
+Vi setter pris på endringene som er gjort fra Surface 2, spesielt hva angår vekt, tykkelse og det faktum at skjermvinkelen nå er langt mer fleksibel. 
+Det er kanskje ikke maskinen som er best egnet å ha på fanget på bussen, men da kan man dra av tastaturet og bruke det som et nettbrett. 
+
+Pennen er komfortabel i bruk, både med tanke på hvordan den ligger i hånda og den lave forsinkelsen når man tegner på skjermen. 
+Designere med spesielle krav bør være oppmerksomme på at den nye pennen har færre berøringsnivåer enn forgjengeren. 
+
+Litt ekstra batteritid hadde ikke vært å forakte, og som nevnt blir Surface Pro 3 ganske varm ved belastning og kan støye litt. 
+Prisen er også relativt høy, men det er den også for andre maskiner med såpass nett utforming og høytoppløselig skjerm. 
+
+Hvorvidt du liker Windows 8 blir selvsagt subjektivt – selv om jeg ikke er så begeistret for det, hindrer det meg ikke i å trille en femmer til Microsofts siste nettbrett PC. 
+
+Microsoft Surface Pro 3 i5 128GB 

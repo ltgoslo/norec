@@ -1,0 +1,138 @@
+Veldig moro - også for oss nordmenn!
+Men Google Home forstår lite om du prater norsk. 
+
+Stemmestyring er ganske hot om dagen i tekno-verdenen, der spesielt Amazon har vært en pionér med sin «Alexa»-teknologi, som er bakt inn i Echo-høyttalerne fra samme produsent, og som stadig får støtte hos andre enheter. 
+
+Google er en annen stor aktør, med sin «Assistant», som finnes både på mobiltelefoner, TV-er og selskapets Home-høyttalere. 
+
+Og i overskuelig fremtid står også Apple klare med sin HomePod-enhet, som da bruker «Siri»; kjent fra øvrige Apple-produkter, som iPhone, Apple TV og Mac. 
+
+Ikke i offisielt salg i Norge, men … 
+
+Her på berget har slike produkter fra Google og Amazon latt vente på seg. 
+For når produktene ikke støtter norsk tale, blir de heller ikke lansert offisielt her til lands. 
+
+Det betyr imidlertid ikke at de ikke kan brukes her til lands – så lenge du er komfortabel med å snakke engelsk. 
+Enkelte nettbutikker importerer disse produktene selv, og du finner som regel også en håndfull av dem på Finn, der folk kjøper med seg noen ekstra når de er i utlandet. 
+En annen mulighet er å bestille den fra utlandet selv, selvsagt, for eksempel via eBay eller lignende. 
+
+Vi gikk for Finn-varianten og kjøpte en uåpnet Google Home Mini på Finn til 650 kroner (amerikansk pris er $49 + VAT). 
+Og det skulle vise seg å være ett av de kuleste tekno-kjøpene vi noen gang har gjort. 
+
+Komme i gang 
+
+I pakken finner du selve høyttaleren og en ledning med amerikansk støpsel. 
+Det er imidlertid en helt vanlig micro USB-lader, så i stedet for å kjøpe en overgang fra amerikansk til europeisk plugg, kan du bruke en vanlig mobillader som leverer minst 1,8A (de svakeste, som de som leveres med iPhone, fungerer altså ikke). 
+
+Om du har en Chromecast fra før, bør oppsettet være ganske kjent. 
+Du laster ned Google Home-appen for iOS eller Android, som da varsler deg om at Google Home-høyttaleren er i nærheten og kan settes opp. 
+
+Dernest må du typisk gi høyttaleren passordet til det trådløse nettet den skal kobles på, og du kan også identifisere Chromecast-enheter i huset, samt hvor de befinner seg. 
+Google Home kan nemlig brukes til å styre avspilling av film og musikk, og hvor det skal spilles. 
+Selv har jeg da for eksempel angitt at Chromecasten som er koblet til TV-en i stua er standard når jeg sier «TV». 
+
+Har du mange slike enheter, kan du gruppere dem, slik at du for eksempel kan be om at en sang skal spilles på alle enhetene i første etasje. 
+
+Videre kan du knytte både Netflix- og Spotify-kontoen til Google Home, slik at du kan bruke disse som kilder når du vil spille av musikk og video. 
+
+Selve høyttaleren 
+
+Google Home finnes foreløpig i tre varianter. 
+Den originale, som bare heter Google Home, er på størrelse med en liten vase, mens den nyeste av dem, Google Home Max, veier drøye 5 kilo og måler 37x19x15 cm. 
+
+Vår utgave, Google Home Mini, er på størrelse med en stor smultring og måler ti centimeter i diameter og cirka fire i høyden. 
+Vekten er 173 gram. 
+Den kan altså plasseres ganske diskret i bokhylla og finnes i grå, sort og rød utgave. 
+
+Ved siden av porten for strømtilkoblingen, finner du en bryter på Home Mini som lar deg skru av mikrofonen. 
+I tillegg finnes det et berøringsfølsomt felt på hver side av høyttaleren som kan brukes for å øke eller senke volumet, stoppe en alarm og lignende, om du ikke vil bruke stemmen. 
+
+Som høyttaler er ikke Mini-utgaven så mye å skryte av. 
+Den fungerer helt fint til Assistant-stemmen, podkaster og lignende, men det er på ingen måte en god høyttaler å spille musikk på, med lite å by på bassmessig og svak dynamikk (tenk «kjøkkenradio»). 
+Her kunne det ha vært greit med muligheten for å koble den til en større høyttaler via en 3,5mm-kabel, men det er mangelvare på Home Mini. 
+
+Du kan imidlertid bruke den som en tradisjonell Bluetooth-høyttaler, men merk altså at den må være koblet til strømnettet og ikke har eget batteri. 
+
+Ellers må vi berømme Google for at mikrofonene på innsiden er veldig gode – de fanger opp stemmen godt selv på noen meters avstand, og klarer å plukke den opp selv om TV-en står på eller lignende. 
+
+Nesten litt magisk 
+
+For det er når du begynner å snakke med det hele føles ganske magisk. 
+Høyttaleren gjør liksom ingenting ut av seg når den ikke brukes aktivt, men så fort du sier «ok, Google» eller «hey, Google», våkner den til live og står klar til å hjelpe deg. 
+
+Det føles nesten som om du kan spørre den om alt. 
+Om hvordan været blir i morgen, om hva hovedstaden i Japan er, om hvem som spiller trommer i Metallica eller hvordan «Donut» uttales på norsk. 
+Ja, den kan hjelpe til med engelskleksa og stave ord du er usikker på, eller brukes som kalkulator om du vil sjekke at du gjorde gangestykket riktig. 
+
+Du kan starte nedtelling slik at den sier i fra når eggene er ferdig kokt, minne deg på at du skal ringe tannlegen i morgen tidlig, eller få en ukentlig påminnelse hver mandag kveld om at søppelbilen kommer i morgen. 
+Eller legge til melk, egg og brød i handlelista, som da er tilgjengelig i Home-appen. 
+
+De siste nyhetene, dagens kalenderavtaler fra Google-kalenderen, resultatet fra den siste fotballkampen – typisk får du svar på de fleste spørsmål du ville ha stilt Googles søkemotor. 
+
+Og den forstår konteksten. 
+Har du nettopp spurt om hvem som er statsminister i Norge, kan du følge opp med å spørre om hvor gammel hun er. 
+
+I videoen under ser du hvordan Google Home Mini fungerer i praksis: 
+
+Styr musikk og film 
+
+Sentralt er også avspilling av musikk og film. 
+Via Google Home-appen kan du definere hvilken tjeneste som skal være standard, slik at du slipper å si «on Spotify» hvis det er der du spiller mesteparten av musikken uansett. 
+
+Akkurat der har vi et protip: 
+Vi fikk nemlig ikke til å velge standardtjeneste før vi valgte engelsk språk på telefonen med Google Home-appen på. 
+Etterpå var det bare å bytte tilbake. 
+
+Dermed er det altså bare å be Google om å spille musikk, enten du vil høre en enkeltsang, en spilleliste eller musikk innenfor en sjanger. 
+Legger du til «on my living room stereo», kommer musikken ut av anlegget i stua, forutsatt at det støtter Google Cast, eller at du har plugget i en Chromecast Audio. 
+
+Imponerende er det også at du kan søke etter sanger du husker litt av – da jeg sa «hey google, play the song that goes is this the real life» (med sangstemme på kursiv-ordene, må vite), fikk jeg servert Queens Bohemian Rhapsody. 
+Imponerende! 
+
+Underveis kan du spørre Google om hvilken sang som spilles, hvilket land artisten er fra eller om hvem som spiller bassgitar. 
+Avspillingen kan også styres ved å hoppe til neste sang («hey google, next song») eller øke og senke volumet («hey google, set the volume to six»). 
+
+Google Home er også kompatibel med radiotjenesten TuneIn – dermed kan du også høre på radio bare ved å si «hey google, play en-ar-key-pi-tri on TuneIn». 
+
+På filmfronten er det hovedsakelig Netflix som fungerer («Hey Google, play Shameless on Netflix»), men Google kan også fiske frem innhold fra YouTube; for eksempel ved å si «Hey Google, show me the trailer for the new Pixar movie on my TV». 
+
+Home kan også brukes til bildefremvisning fra deres bildetjeneste Google Foto – «show me pictures from december 24th» gir deg alle julaften-bildene på TV, eller fra ferieturen i fjor sommer ved å si «show me pictures from Spain last summer». 
+
+…og en rekke annet 
+
+Det er mye å bli imponert av. 
+Du kan spørre om hvordan en hund høres ut, få Google Home til å synge en sang eller fortelle deg en vits, som litt artige kurositeter. 
+Eller spille et Trivia-spill med flere spillere. 
+
+En kul ting er at du kan fortelle Google Home hvor du har lagt ting. 
+Sier jeg «Hey Google, my passport is in the second drawer in my nightstand», husker hun det, slik at hun senere kan fortelle meg hvor passet mitt er om jeg spør om hvor jeg la det. 
+Selvsagt kan hun også få telefonen din til å ringe om du ikke finner den. 
+
+Dessuten støttes flere brukere. 
+Dermed kan flere familiemedlemmer koble seg til, slik at det avhenger av hvem som spør når Google Home leser opp dagens kalenderavtaler, for eksempel. 
+Dette har vi ikke prøvd ennå, men også her må du sette språket til engelsk på telefonene først for å muligheten. 
+
+Styring av andre ting 
+
+Google Home kan brukes mot smarthus-innretninger og den slags. 
+Den er kompatibel blant annet med Philips Hue, Nest, iRobot, Logitech, Wemo, Smarthings (Samsung) … rundt 150 merker totalt. 
+
+Dermed kan du justere belysningen, temperatur og annet om du har slike innretninger hjemme, låse opp døra eller få bildet fra et kompatibelt overvåkingskamera på TV-en, for eksempel. 
+
+Google Home er dessuten kompatibel med tjenesten IFTTT (if this, then that), som gjør at du kan bruke stemmen for å utføre en rekke ting på nett, som å poste på Twitter, legge til gjøremål i Onenote eller hva det måtte være. 
+
+Men akkurat når det gjelder å koble seg til tredjeparter, skal det nevnes at Amazons univers er rikere via såkalte Alexa skills, der du enkelt kan legge til tjenester bare ved å bruke stemmen. 
+
+Konklusjon 
+
+Google Home har stått i stua vår i én uke, og jeg har til tider vært så ivrig og begeistret at min kone har sett seg nødt til å legge ut videoklipp av meg på Snapchat. 
+
+For til denne prisen ($49 i USA) er Google Home Mini rett og slett et knallkjøp, og muligens den morsomste tekno-dingsen jeg noen gang har hatt i hus. 
+
+Jeg blir imponert nesten daglig av hvor naturlig man kan prate med denne lille høyttaleren og allikevel få en respons som forventet. 
+
+Du må riktignok prate engelsk, og lydkvalitetsmessig får du ikke allverden bare med høyttaleren, men har du en Chromecast i hus eller andre kompatible enheter, er dette rett og slett veldig gøy. 
+
+Så får vi heller krysse fingrene for at vi snart kan snakke norsk både til den og konkurrerende produkter. 
+
+Vi har for øvrig bedt vår utsendte til CES-messen i Las Vegas om å kjøpe med en Amazon Echo Dot hjem også, så se opp for en test av den i overskuelig fremtid også. 

@@ -1,0 +1,74 @@
+TEST:SqueezePad 
+
+Har du iPad og streamer musikk og nettradio via Squeezebox er det denne du skal ha. 
+
+Har du en stor musikksamling, hører på nettradio eller musikktjenester som WiMP eller Spotify? 
+Da er Squeezebox-produktene til Logitech definitivt verdt en titt. 
+De takler nesten alt av formater, er enkle i bruk, og gir deg god lyd til en helt akseptabel pris. 
+
+Squeezebox-produktene kan i tillegg styres via ulike applikasjoner både til iPhone og Android-mobiler, men etter å ha prøvd flere ulike løsninger er vår konklusjon at det aller beste er å bruke iPaden. 
+Og forklaringen er enkel: 
+
+iPadens batteri varer i timevis (9-10 timers bruk), til sammenligning går iPhonen fort tom for batteri midt i festenMye større skjerm gjør det også langt enklere når du skal manøvrere deg gjennom dine gedigne spillelister. 
+
+SqueezePad i bruk 
+
+SqueezePad lastes ned direkte fra AppStore til iPaden og koster 55 norske kroner. 
+I tillegg må du som sagt ha et Squeezeprodukt, selve brukte jeg Squeezebox 
+Duet og Touch under denne testen. 
+
+Hvis du allerede har Squeezebox har du allerede registrert deg og lastet ned Squeezeserver-programvaren. 
+Du bruker det samme passordet også på iPaden. 
+Hvis du er ny bruker kan du også registrere deg direkte via applikasjonen. 
+
+Dette er relativt selvforklarende, men merk deg en ting: 
+I applikasjonen må du velge om du skal koble deg direkte til MySqueezebox.com (for kun nettradio eller WimP), eller om du vil streame musikk direkte fra din egen musikksamling. 
+Du kan også endre dette underveis, noe som er praktisk om du ikke orker å slå på PC-en hver eneste gang du skal høre på musikk. 
+
+Se hvordan alt ser ut i vår gigantiske bildespesial: 
+
+Har du flere Squeezebox-enheter kan styre dem alle via SqueezePaden. 
+Ved å trykke øverst i venstre hjørnet får du opp dine enheter, og velger f.eks. mellom å styre stue-enheten eller radioen på kjøkkenet. 
+
+Jeg valgte først å gå inn på min egen musikksamling, og her er det full pott. 
+Menyene er akkurat som du er vant til, og ikke minst: 
+Responsen er lynkjapp. 
+I praksis har jeg bedre respons med SqueezePad enn jeg har med originalfjernkontrollen til Squeezebox Duet. 
+Det er et tankekors for Squeezebox 
+... 
+
+Den store fordelen på iPad er selvsagt at alt blir så mye større, og at det dermed er enklere å få oversikt over valgene du har. 
+SqueezePad fungerer kun i landskapsmodus, og du har da menyen til venstre, mens høyre del av skjermen er dedikert album/artist-bilde av det du hører på akkurat nå, i tillegg til play/pause og skipping mellom låtene. 
+Trykker du på coverbildet blåses det opp i stort format, og her kan du også snu iPaden slik at du endrer format. 
+Lekkert og praktisk, spesielt om du har fest. 
+
+Betalingstjenestene Spotify og WiMP fungerer også bra (se bildespesialen for eksempler). 
+Du har full tilgang til alle funksjonene du ellers er vant til, og større skjerm gjør det også langt enklere å bruke søkefunksjonen. 
+Det er tross alt en smalere sak å skrive på iPaden enn på en mobiltelefon eller via en liten fjernkontroll fra stua. 
+
+Den første uken jeg hadde programmet brukte jeg kun Spotify, men siden abonnementet mitt der har gått ut har jeg i det siste hoppet over til WiMP, mye fordi den også fungerer uten at du trenger å ha slått på PC-en. 
+
+Svakheter 
+
+Ser vi kun på selve SqueezePaden er det svært få ting å irritere seg over. 
+Ok, miniatyrbildene kan lastes enda litt raskere, men dette er pirk. 
+Jeg klarte heller ikke å aktivere Facebook-funksjonen, men når det er sagt: 
+Det er en funksjon jeg knapt nok bruker på Squeezebox uansett. 
+
+Du bør imildertid merke deg et par ting når det gjelder WiMP: 
+
+Det er kun Squeezebox Touch og Radio som lar deg bruke WiMP uten at du også har på PCen (eller din Mac/NAS-disk) i bakgrunnen. 
+Når du spiller av musikken på disse produktene får du altså den beste lydkvaliteten WiMP kan gi i dag (AAC i 256 kbps). 
+
+Har du et annet Squeezebox-produkt, for eksempel Duet, må du altså ha på PCen i bakgrunnen og streame musikken via Squeezeserver. 
+Det er uheldig for alle musikkentuasiastene der ute, fordi kvaliteten da synker til 96kbps. 
+Det er et stort minus. 
+
+Konklusjon 
+
+Likevel, hvis du allerede har et Squeeze-produkt og en iPad er vår dom klar: 
+Kjøp den, du vil ikke angre. 
+Etter at programmet kom på plass har jeg rett og slett lagt Squeezeboxens originalkontroller i skapet, antagelig for godt. 
+
+Nærmeste konkurrent er Sonos som også har en imponerende lekker Spotify-applikasjontil Ipad, og antagelig er enda bedre på musikkavpilling på flere enheter i ulike rom. 
+Sonos er imidlertid også langt dyrere produkter enn Squeezebox. 

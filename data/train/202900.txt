@@ -1,0 +1,124 @@
+Samsung S27A950D 27" 3D skjerm
+PC-skjerm som støtter 3D - for gaming og video. 
+
+Det er mye som har kommet for å bli, men hvordan det blir er ikke like sikkert. 
+Stereo dukket opp allerede i 1881, som en direktesendt tjeneste for to telefonlinjer, direkte overført fra operaen i Paris. 
+
+Stereo grammofonplater ble testet ut allerede i 1933, og også på film i samme periode, men først på 50-tallet ble publikum eksponert for fenomenet. 
+I 1958 kom den første stereo innspillingen for salg, og det skulle ta 10 år før bransjen sluttet å gi ut musikk i mono. 
+
+Surroundlyd dukket opp allerede på begynnelsen av 70-tallet, men det har aldri slått igjennom som musikkformat. 
+Men til filmlyd er det jo helt dominerende, selv om bare en liten del av publikum har surroundanlegg hjemme. 
+
+Framskrittene har altså ikke gått så veldig raskt. 
+
+Hva med 3D? 
+
+3D på skjermen er en parallell til stereo, og skal man være teknisk korrekt så snakker vi om stereoskopi som gir en illusjon av tre dimensjoner. 
+
+Her er framdriften en god del raskere enn det var på lydsiden i forrige århundre. 
+TV-produsentene har pushet 3D det siste året, og nå skjer det også ting på PC-skjermen. 
+Teknisk sett er det ikke noe grensesprengende nytt som må til. 
+Det som kreves er at skjermen klarer en oppfriskningsfrekvens på 120Hz og støtter HDMI 1.4a. 
+
+Da kan du koble Blu-ray-spilleren til skjermen, ta på deg 3D-brillene og se HD-video i 3D - akkurat som på en 3D-TV. 
+
+Skal du bruke skjermen til gaming i 3D kreves det et svært kraftig grafikkort og egne drivere. 
+
+Spesiell skjerm 
+
+Denne 27-tommeren fra Samsung er spesiell på mange måter. 
+For det første så er det en 27-tommer som bare har vanlig HD-oppløsning på 1920x1080. 
+Som regel har 27-tommere til PC en oppløsning på 2560x1440, men dette er ikke "bare" en PC-skjerm. 
+
+Den støtter 120 
+Hz oppfrisking og 3D og man får dermed både i pose og sekk. 
+Eller den faller mellom to stoler, alt etter som hva man er ute etter. 
+
+Designet er gedigent, men skjermen er svært tynn. 
+Den er festet i den høyre enden av fotplaten, en helt spesiell løsning. 
+Linjene er buede og elegante og overflaten minner om børstet stål. 
+
+Fotplaten er også svært tynn, det er plass til kontaktene på baksiden, men ikke til strømforsyning, som er ekstern. 
+
+Justering av høyde er ikke mulig, du kan justere vinkelen en smule, men det er også alt. 
+
+Skjermoverflaten er skinnende blank og gir rikelig med gjennskinn. 
+
+Tilkobling og betjening 
+
+Skjermen har DisplayPort, DVI og HDMI innganger, en hodetelefonutgang og inngang for strømforsyning. 
+Analog-alderens VGA er med andre ord et tilbakelagt stadium. 
+
+Betjeningen er av berøringstypen, og fungerer greit. 
+Justeringsmulighetene er ikke omfattende, men tilstrekkelige for denne typen produkt. 
+
+Vi reagerte på at det i blant tok frusterende lang tid å vente på respons ved bytte av innganger fra HDMI til DisplayPort og DVI. 
+
+Spesifikasjoner: 
+
+Størrelse: 
+27 tommer Oppløsning: 
+1920x1080 Oppfrisking: 
+120Hz Kontrast: 
+1000:1 Responstid: 
+2 ms Betraktningsvinkel: 170/160 grader Tilkobling: 
+DisplayPort, DVI, HDMI Mål: 
+621.0 x 474.0 x 185.5mm Vekt: 
+5,9 kg 
+
+Bildekvalitet 
+
+Dette er en TN-skjerm, derfor er betraktningsvinkelen begrenset. 
+Men dette er en svært god TN-skjerm, med meget god fargedynamikk og kontrast. 
+Med en tilpasset sitteposisjon får du faktisk et svært godt bilde både til vanlig PC-bruk, gaming, bilder og video. 
+
+Med 3D 
+
+Skjermen leveres med et par aktive 3D-briller, lik dem som følger med Samsungs 3D TV-er. 
+
+Vi koblet skjermen til en Philips Blu-ray 3D spiller med HDMI, og skjermen satte seg automatisk i riktig modus, med støtte for 3D aktivert. 
+Det var bare å slå på brillene, sette inn en 3D-film og la seg underholde. 
+
+Skjermen kan også lage "kunstig" 3D, det er bare å velge dette i skjermmenyen. 
+Da må du selvfølgelig bruke 3D-brillene hele tiden for å kunne tyde all informasjon på skjermen. 
+Tekst og menyer blir også 3D-fisert, ikke bare film og bilder. 
+
+Men dette ble vi ikke imponert over. 
+Det flimrer og du mister fargeintesitet. 
+Det er omtrent like dårlig som "wide" innstillingen på billige lydanlegg som bretter ut stereobildet. 
+
+3D-gaming fikk vi ikke testet i denne omgang. 
+Vi kommer tilbake til dette om kort tid, når vi får gravd oss dypere ned i materialet, og har rustet opp testutstyret med alternative grafikkort. 
+
+120 HZ 
+
+Men noe som vår assisterende gaming-tester ble svært begeistret over var den høye oppfriskningsfrekvensen. 
+120 Hz er dobbelt så raskt som vanlige LCD-skjermer og for innhold med rask bevegelig grafikk var dette rett og slett en opplevelse! 
+
+Spesielt i FPS-spill med kraftig grafikkort og høy framerate (bildefrekvens) ga dette en påtagelig opplevelse av mye jevnere bevegelse i terrenget. 
+Grunnen til dette er jo at bildefrekvensen i spill hele tiden varierer mens skjermen oppfriskes jevnt med 60 Hz. 
+Da er det svært ofte at bildet som grafikkortet leverer ikke kan tegnes opp før ved neste oppfrisking. 
+Og jo kortere tid det er til neste oppfrisking, jo jevnere blir bildestrømmen og man får med seg alle bildene skjermkortet genererer. 
+Kraftige skjermkort kan jo levere bilder raskere enn vanlige LCD-skjermer rekker å få vist. 
+
+Dette er noe annet og riktigere i forhold til kildesignalet, enn oppsampling av signalet for å få et jevnere forløp. 
+På TV og i andre sammenhenger bruker man dette, men der kommer kildesignalet med en fast frekvens, og kretsene konstruerer delbilder som legges mellom de som faktisk finnes i originalmaterialet. 
+Dette skaper også inntrykk av jevnere bevegelse, hvis algoritmene som brukes er gode. 
+Men en 120Hz skjerm klarer rett å slett å henge med på signalet som leveres fra skjermkortet, og det er noe helt annet. 
+
+Konklusjon 
+
+Samsung A950 er en designerskjerm av utseende og pris, og er et visuelt statement med sin metallfinish og asymmetriske konstruksjon. 
+Egenskapene favner vidt, den kan brukes som en helt vanlig PC-skjerm, men er veldig stor og har litt lav oppløsning i forhold til andre 27-tommere. 
+Den er derimot behagelig for tilbakelent bruk. 
+
+Den kan brukes som skjerm til en Blu-ray spiller med 3D og fungerer utmerket som dette, hvis man sitter ganske tett på. 
+Her snakker vi igjen tilbakelent stol og ikke sofa. 
+
+Til gaming blir det slutt på det tilbakelente, her viser skjermen sin styrke med superrask oppfrisking og trøkk i fargene. 
+
+Vi ser for oss målgruppen som en trangbodd metroseksuell gamer som ikke er redd for å bruke litt ekstra i blant. 
+Det er kanskje en del av disse? 
+
+Samsung S27A950D 
