@@ -1,10 +1,10 @@
 **NB**: this repo holds an expanded raw-text version of the NoReC corpus (version 2), containing 8425 additional reviews. The legacy version of NoReC version 1 can be found [here](https://github.com/erikve/norec).
 
 # NoReC: The Norwegian Review Corpus
-This repository distributes the Norwegian Review Corpus (NoReC), created for the purpose of training and evaluating models for document-level sentiment analysis. More than 43,000 full-text reviews have been collected from major Norwegian news sources and cover a range of different domains, including literature, movies, video games, restaurants, music and theater, in addition to product reviews across a range of categories. Each review is labeled with a manually assigned score of 1–6, as provided by the rating of the original author. 
+This repository distributes the Norwegian Review Corpus (NoReC), created for the purpose of training and evaluating models for document-level sentiment analysis. More than 43,000 full-text reviews have been collected from major Norwegian news sources and cover a range of different domains, including literature, movies, video games, restaurants, music and theater, in addition to product reviews across a range of categories. Each review is labeled with a manually assigned score of 1–6, as provided by the rating of the original author. This paper by Velldal et al. at LREC 2018 describes the (1st release of the) data in more detail: http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf 
 
 # Sources and partners
-NoReC was created as part of the SANT project (Sentiment Analysis for Norwegian Text), a collaboration between the Language Technology Group (LTG) at the Department of Informatics at the University of Oslo, the Norwegian Broadcasting Corporation (NRK), Schibsted Media Group and Aller Media. This _2nd release_ of the corpus comprises 43,425 reviews extracted from eight different news sources: Dagbladet, VG, Aftenposten, Bergens Tidende, Fædrelandsvennen, Stavanger Aftenblad, DinSide.no and P3.no. In terms of publishing date the reviews mainly cover the time span 2003–2019, although it also includes a handful of reviews dating back as far as 1998.
+NoReC was created as part of the (SANT)[https://www.mn.uio.no/ifi/english/research/projects/sant/] project (Sentiment Analysis for Norwegian Text), a collaboration between the Language Technology Group (LTG) at the Department of Informatics at the University of Oslo, the Norwegian Broadcasting Corporation (NRK), Schibsted Media Group and Aller Media. This _2nd release_ of the corpus comprises 43,425 reviews extracted from eight different news sources: Dagbladet, VG, Aftenposten, Bergens Tidende, Fædrelandsvennen, Stavanger Aftenblad, DinSide.no and P3.no. In terms of publishing date the reviews mainly cover the time span 2003–2019, although it also includes a handful of reviews dating back as far as 1998.
 
 # Terms of use
 The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0), access the full license text here: https://creativecommons.org/licenses/by-nc/4.0/
@@ -34,11 +34,18 @@ git clone https://github.com/ltgoslo/norec
 
 # Citing
 
-If you publish work that uses or references the data, please cite [our LREC article](http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf): 
+If you publish work that uses or references the data, please cite our (LREC article)[http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf]. BibEntry: 
 
 ```
-NoReC: The Norwegian Review Corpus
-Erik Velldal, Lilja Øvrelid, Eivind Alexander Bergem, Cathrine Stadsnes, Samia Touileb, Fredrik Jørgensen
-2018
-http://www.lrec-conf.org/proceedings/lrec2018/pdf/851.pdf
+@InProceedings{VelOvrBer18,
+  author = {Erik Velldal and Lilja {\O}vrelid and 
+            Eivind Alexander Bergem and  Cathrine Stadsnes and 
+            Samia Touileb and Fredrik J{\o}rgensen},
+  title = {{NoReC}: The {N}orwegian {R}eview {C}orpus},
+  booktitle = {Proceedings of the 11th edition of the 
+               Language Resources and Evaluation Conference},
+  year = {2018},
+  address = {Miyazaki, Japan},
+  pages = {4186--4191}
+}
 ```
