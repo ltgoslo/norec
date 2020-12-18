@@ -1,10 +1,10 @@
-**NB**: this repo holds an expanded raw-text version of the NoReC corpus. This version contains 8425 additional reviews. The legacy version of NoReC version 1 can be found [here](https://github.com/erikve/norec).
+**NB**: this repo holds an expanded raw-text version of the NoReC corpus (version 2), containing 8425 additional reviews. The legacy version of NoReC version 1 can be found [here](https://github.com/erikve/norec).
 
 # NoReC: The Norwegian Review Corpus
 This repository distributes the Norwegian Review Corpus (NoReC), created for the purpose of training and evaluating models for document-level sentiment analysis. More than 43,000 full-text reviews have been collected from major Norwegian news sources and cover a range of different domains, including literature, movies, video games, restaurants, music and theater, in addition to product reviews across a range of categories. Each review is labeled with a manually assigned score of 1–6, as provided by the rating of the original author. 
 
 # Sources and partners
-NoReC was created as part of the SANT project (Sentiment Analysis for Norwegian Text), a collaboration between the Language Technology Group (LTG) at the Department of Informatics at the University of Oslo, the Norwegian Broadcasting Corporation (NRK), Schibsted Media Group and Aller Media. This second release of the corpus comprises 43,425 reviews extracted from eight different news sources: Dagbladet, VG, Aftenposten, Bergens Tidende, Fædrelandsvennen, Stavanger Aftenblad, DinSide.no and P3.no. In terms of publishing date the reviews mainly cover the time span 2003–2019, although it also includes a handful of reviews dating back as far as 1998.
+NoReC was created as part of the SANT project (Sentiment Analysis for Norwegian Text), a collaboration between the Language Technology Group (LTG) at the Department of Informatics at the University of Oslo, the Norwegian Broadcasting Corporation (NRK), Schibsted Media Group and Aller Media. This _2nd release_ of the corpus comprises 43,425 reviews extracted from eight different news sources: Dagbladet, VG, Aftenposten, Bergens Tidende, Fædrelandsvennen, Stavanger Aftenblad, DinSide.no and P3.no. In terms of publishing date the reviews mainly cover the time span 2003–2019, although it also includes a handful of reviews dating back as far as 1998.
 
 # Terms of use
 The data is distributed under a Creative Commons Attribution-NonCommercial licence (CC BY-NC 4.0), access the full license text here: https://creativecommons.org/licenses/by-nc/4.0/
